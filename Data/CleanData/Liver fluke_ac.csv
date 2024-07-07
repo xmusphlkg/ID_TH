@@ -6697,7 +6697,7 @@ ZONE:13,Unknown,0,2018,Liverfluke
 Bangkok,Unknown,0,2018,Liverfluke
 Total,Total,830,2004,Liverfluke
 North Region,Total,193,2004,Liverfluke
-Zone 1,Total,184,2004,Liverfluke
+Zone:1,Total,184,2004,Liverfluke
 Chiang Mai,Total,18,2004,Liverfluke
 Chiang Rai,Total,1,2004,Liverfluke
 Lampang,Total,41,2004,Liverfluke
@@ -6706,98 +6706,98 @@ Mae Hong Son,Total,0,2004,Liverfluke
 Nan,Total,0,2004,Liverfluke
 Phayao,Total,0,2004,Liverfluke
 Phrae,Total,0,2004,Liverfluke
-Zone 2,Total,1,2004,Liverfluke
+Zone:2,Total,1,2004,Liverfluke
 Phetchabun,Total,0,2004,Liverfluke
 Phitsanulok,Total,0,2004,Liverfluke
 Sukhothai,Total,0,2004,Liverfluke
 Tak,Total,1,2004,Liverfluke
 Uttaradit,Total,0,2004,Liverfluke
-Zone 3,Total,8,2004,Liverfluke
+Zone:3,Total,8,2004,Liverfluke
 Kamphaeng Phet,Total,0,2004,Liverfluke
 Nakhon Sawan,Total,6,2004,Liverfluke
 Phichit,Total,0,2004,Liverfluke
 Uthai Thani,Total,2,2004,Liverfluke
 Central Region,Total,1,2004,Liverfluke
 Bangkok,Total,0,2004,Liverfluke
-Zone 4,Total,0,2004,Liverfluke
+Zone:4,Total,0,2004,Liverfluke
 Ang Thong,Total,0,2004,Liverfluke
 Nonthaburi,Total,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,Total,0,2004,Liverfluke
 Pathum Thani,Total,0,2004,Liverfluke
-Zone 5,Total,1,2004,Liverfluke
+Zone:5,Total,1,2004,Liverfluke
 Chai Nat,Total,0,2004,Liverfluke
 Lop Buri,Total,1,2004,Liverfluke
 Saraburi,Total,0,2004,Liverfluke
 Sing Buri,Total,0,2004,Liverfluke
-Zone 6,Total,0,2004,Liverfluke
+Zone:6,Total,0,2004,Liverfluke
 Kanchanaburi,Total,0,2004,Liverfluke
 Nakhon Pathom,Total,0,2004,Liverfluke
 Ratchaburi,Total,0,2004,Liverfluke
 Suphan Buri,Total,0,2004,Liverfluke
-Zone 7,Total,0,2004,Liverfluke
+Zone:7,Total,0,2004,Liverfluke
 Phetchaburi,Total,0,2004,Liverfluke
 Prachuap Khiri Khan,Total,0,2004,Liverfluke
 Samut Sakhon,Total,0,2004,Liverfluke
 Samut Songkhram,Total,0,2004,Liverfluke
-Zone 8,Total,0,2004,Liverfluke
+Zone:8,Total,0,2004,Liverfluke
 Chachoengsao,Total,0,2004,Liverfluke
 Nakhon Nayok,Total,0,2004,Liverfluke
 Prachin Buri,Total,0,2004,Liverfluke
 Sa Kaeo,Total,0,2004,Liverfluke
 Samut Prakan,Total,0,2004,Liverfluke
-Zone 9,Total,0,2004,Liverfluke
+Zone:9,Total,0,2004,Liverfluke
 Chanthaburi,Total,0,2004,Liverfluke
 Chon Buri,Total,0,2004,Liverfluke
 Rayong,Total,0,2004,Liverfluke
 Trat,Total,0,2004,Liverfluke
 North-Eastern Region,Total,636,2004,Liverfluke
-Zone 10,Total,4,2004,Liverfluke
+Zone:10,Total,4,2004,Liverfluke
 Loei,Total,0,2004,Liverfluke
 Nong Bua Lam Phu,Total,0,2004,Liverfluke
 Nong Khai,Total,0,2004,Liverfluke
 Udon Thani,Total,4,2004,Liverfluke
-Zone 11,Total,558,2004,Liverfluke
+Zone:11,Total,558,2004,Liverfluke
 Kalasin,Total,6,2004,Liverfluke
 Mukdahan,Total,9,2004,Liverfluke
 Nakhon Phanom,Total,0,2004,Liverfluke
 Sakon Nakhon,Total,543,2004,Liverfluke
-Zone 12,Total,3,2004,Liverfluke
+Zone:12,Total,3,2004,Liverfluke
 Khon Kaen,Total,3,2004,Liverfluke
 Maha Sarakham,Total,0,2004,Liverfluke
 Roi Et,Total,0,2004,Liverfluke
-Zone 13,Total,19,2004,Liverfluke
+Zone:13,Total,19,2004,Liverfluke
 Buri Ram,Total,15,2004,Liverfluke
 Chaiyaphum,Total,0,2004,Liverfluke
 Nakhon Ratchasima,Total,4,2004,Liverfluke
 Surin,Total,0,2004,Liverfluke
-Zone 14,Total,52,2004,Liverfluke
+Zone:14,Total,52,2004,Liverfluke
 Amnat Charoen,Total,28,2004,Liverfluke
 Si Sa Ket,Total,0,2004,Liverfluke
 Ubon Ratchathani,Total,0,2004,Liverfluke
 Yasothon,Total,24,2004,Liverfluke
 South Region,Total,0,2004,Liverfluke
-Zone 15,Total,0,2004,Liverfluke
+Zone:15,Total,0,2004,Liverfluke
 Chumphon,Total,0,2004,Liverfluke
 Ranong,Total,0,2004,Liverfluke
 Surat Thani,Total,0,2004,Liverfluke
-Zone 16,Total,0,2004,Liverfluke
+Zone:16,Total,0,2004,Liverfluke
 Nakhon Si Thammarat,Total,0,2004,Liverfluke
 Phatthalung,Total,0,2004,Liverfluke
 Trang,Total,0,2004,Liverfluke
-Zone 17,Total,0,2004,Liverfluke
+Zone:17,Total,0,2004,Liverfluke
 Krabi,Total,0,2004,Liverfluke
 Phangnga,Total,0,2004,Liverfluke
 Phuket,Total,0,2004,Liverfluke
-Zone 18,Total,0,2004,Liverfluke
+Zone:18,Total,0,2004,Liverfluke
 Narathiwat,Total,0,2004,Liverfluke
 Pattani,Total,0,2004,Liverfluke
 Yala,Total,0,2004,Liverfluke
-Zone 19,Total,0,2004,Liverfluke
+Zone:19,Total,0,2004,Liverfluke
 Satun,Total,0,2004,Liverfluke
 Songkhla,Total,0,2004,Liverfluke
 Total,0,0,2004,Liverfluke
 North Region,0,0,2004,Liverfluke
-Zone 1,0,0,2004,Liverfluke
+Zone:1,0,0,2004,Liverfluke
 Chiang Mai,0,0,2004,Liverfluke
 Chiang Rai,0,0,2004,Liverfluke
 Lampang,0,0,2004,Liverfluke
@@ -6806,98 +6806,98 @@ Mae Hong Son,0,0,2004,Liverfluke
 Nan,0,0,2004,Liverfluke
 Phayao,0,0,2004,Liverfluke
 Phrae,0,0,2004,Liverfluke
-Zone 2,0,0,2004,Liverfluke
+Zone:2,0,0,2004,Liverfluke
 Phetchabun,0,0,2004,Liverfluke
 Phitsanulok,0,0,2004,Liverfluke
 Sukhothai,0,0,2004,Liverfluke
 Tak,0,0,2004,Liverfluke
 Uttaradit,0,0,2004,Liverfluke
-Zone 3,0,0,2004,Liverfluke
+Zone:3,0,0,2004,Liverfluke
 Kamphaeng Phet,0,0,2004,Liverfluke
 Nakhon Sawan,0,0,2004,Liverfluke
 Phichit,0,0,2004,Liverfluke
 Uthai Thani,0,0,2004,Liverfluke
 Central Region,0,0,2004,Liverfluke
 Bangkok,0,0,2004,Liverfluke
-Zone 4,0,0,2004,Liverfluke
+Zone:4,0,0,2004,Liverfluke
 Ang Thong,0,0,2004,Liverfluke
 Nonthaburi,0,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,0,0,2004,Liverfluke
 Pathum Thani,0,0,2004,Liverfluke
-Zone 5,0,0,2004,Liverfluke
+Zone:5,0,0,2004,Liverfluke
 Chai Nat,0,0,2004,Liverfluke
 Lop Buri,0,0,2004,Liverfluke
 Saraburi,0,0,2004,Liverfluke
 Sing Buri,0,0,2004,Liverfluke
-Zone 6,0,0,2004,Liverfluke
+Zone:6,0,0,2004,Liverfluke
 Kanchanaburi,0,0,2004,Liverfluke
 Nakhon Pathom,0,0,2004,Liverfluke
 Ratchaburi,0,0,2004,Liverfluke
 Suphan Buri,0,0,2004,Liverfluke
-Zone 7,0,0,2004,Liverfluke
+Zone:7,0,0,2004,Liverfluke
 Phetchaburi,0,0,2004,Liverfluke
 Prachuap Khiri Khan,0,0,2004,Liverfluke
 Samut Sakhon,0,0,2004,Liverfluke
 Samut Songkhram,0,0,2004,Liverfluke
-Zone 8,0,0,2004,Liverfluke
+Zone:8,0,0,2004,Liverfluke
 Chachoengsao,0,0,2004,Liverfluke
 Nakhon Nayok,0,0,2004,Liverfluke
 Prachin Buri,0,0,2004,Liverfluke
 Sa Kaeo,0,0,2004,Liverfluke
 Samut Prakan,0,0,2004,Liverfluke
-Zone 9,0,0,2004,Liverfluke
+Zone:9,0,0,2004,Liverfluke
 Chanthaburi,0,0,2004,Liverfluke
 Chon Buri,0,0,2004,Liverfluke
 Rayong,0,0,2004,Liverfluke
 Trat,0,0,2004,Liverfluke
 North-Eastern Region,0,0,2004,Liverfluke
-Zone 10,0,0,2004,Liverfluke
+Zone:10,0,0,2004,Liverfluke
 Loei,0,0,2004,Liverfluke
 Nong Bua Lam Phu,0,0,2004,Liverfluke
 Nong Khai,0,0,2004,Liverfluke
 Udon Thani,0,0,2004,Liverfluke
-Zone 11,0,0,2004,Liverfluke
+Zone:11,0,0,2004,Liverfluke
 Kalasin,0,0,2004,Liverfluke
 Mukdahan,0,0,2004,Liverfluke
 Nakhon Phanom,0,0,2004,Liverfluke
 Sakon Nakhon,0,0,2004,Liverfluke
-Zone 12,0,0,2004,Liverfluke
+Zone:12,0,0,2004,Liverfluke
 Khon Kaen,0,0,2004,Liverfluke
 Maha Sarakham,0,0,2004,Liverfluke
 Roi Et,0,0,2004,Liverfluke
-Zone 13,0,0,2004,Liverfluke
+Zone:13,0,0,2004,Liverfluke
 Buri Ram,0,0,2004,Liverfluke
 Chaiyaphum,0,0,2004,Liverfluke
 Nakhon Ratchasima,0,0,2004,Liverfluke
 Surin,0,0,2004,Liverfluke
-Zone 14,0,0,2004,Liverfluke
+Zone:14,0,0,2004,Liverfluke
 Amnat Charoen,0,0,2004,Liverfluke
 Si Sa Ket,0,0,2004,Liverfluke
 Ubon Ratchathani,0,0,2004,Liverfluke
 Yasothon,0,0,2004,Liverfluke
 South Region,0,0,2004,Liverfluke
-Zone 15,0,0,2004,Liverfluke
+Zone:15,0,0,2004,Liverfluke
 Chumphon,0,0,2004,Liverfluke
 Ranong,0,0,2004,Liverfluke
 Surat Thani,0,0,2004,Liverfluke
-Zone 16,0,0,2004,Liverfluke
+Zone:16,0,0,2004,Liverfluke
 Nakhon Si Thammarat,0,0,2004,Liverfluke
 Phatthalung,0,0,2004,Liverfluke
 Trang,0,0,2004,Liverfluke
-Zone 17,0,0,2004,Liverfluke
+Zone:17,0,0,2004,Liverfluke
 Krabi,0,0,2004,Liverfluke
 Phangnga,0,0,2004,Liverfluke
 Phuket,0,0,2004,Liverfluke
-Zone 18,0,0,2004,Liverfluke
+Zone:18,0,0,2004,Liverfluke
 Narathiwat,0,0,2004,Liverfluke
 Pattani,0,0,2004,Liverfluke
 Yala,0,0,2004,Liverfluke
-Zone 19,0,0,2004,Liverfluke
+Zone:19,0,0,2004,Liverfluke
 Satun,0,0,2004,Liverfluke
 Songkhla,0,0,2004,Liverfluke
 Total,<1,3,2004,Liverfluke
 North Region,<1,0,2004,Liverfluke
-Zone 1,<1,0,2004,Liverfluke
+Zone:1,<1,0,2004,Liverfluke
 Chiang Mai,<1,0,2004,Liverfluke
 Chiang Rai,<1,0,2004,Liverfluke
 Lampang,<1,0,2004,Liverfluke
@@ -6906,98 +6906,98 @@ Mae Hong Son,<1,0,2004,Liverfluke
 Nan,<1,0,2004,Liverfluke
 Phayao,<1,0,2004,Liverfluke
 Phrae,<1,0,2004,Liverfluke
-Zone 2,<1,0,2004,Liverfluke
+Zone:2,<1,0,2004,Liverfluke
 Phetchabun,<1,0,2004,Liverfluke
 Phitsanulok,<1,0,2004,Liverfluke
 Sukhothai,<1,0,2004,Liverfluke
 Tak,<1,0,2004,Liverfluke
 Uttaradit,<1,0,2004,Liverfluke
-Zone 3,<1,0,2004,Liverfluke
+Zone:3,<1,0,2004,Liverfluke
 Kamphaeng Phet,<1,0,2004,Liverfluke
 Nakhon Sawan,<1,0,2004,Liverfluke
 Phichit,<1,0,2004,Liverfluke
 Uthai Thani,<1,0,2004,Liverfluke
 Central Region,<1,0,2004,Liverfluke
 Bangkok,<1,0,2004,Liverfluke
-Zone 4,<1,0,2004,Liverfluke
+Zone:4,<1,0,2004,Liverfluke
 Ang Thong,<1,0,2004,Liverfluke
 Nonthaburi,<1,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,<1,0,2004,Liverfluke
 Pathum Thani,<1,0,2004,Liverfluke
-Zone 5,<1,0,2004,Liverfluke
+Zone:5,<1,0,2004,Liverfluke
 Chai Nat,<1,0,2004,Liverfluke
 Lop Buri,<1,0,2004,Liverfluke
 Saraburi,<1,0,2004,Liverfluke
 Sing Buri,<1,0,2004,Liverfluke
-Zone 6,<1,0,2004,Liverfluke
+Zone:6,<1,0,2004,Liverfluke
 Kanchanaburi,<1,0,2004,Liverfluke
 Nakhon Pathom,<1,0,2004,Liverfluke
 Ratchaburi,<1,0,2004,Liverfluke
 Suphan Buri,<1,0,2004,Liverfluke
-Zone 7,<1,0,2004,Liverfluke
+Zone:7,<1,0,2004,Liverfluke
 Phetchaburi,<1,0,2004,Liverfluke
 Prachuap Khiri Khan,<1,0,2004,Liverfluke
 Samut Sakhon,<1,0,2004,Liverfluke
 Samut Songkhram,<1,0,2004,Liverfluke
-Zone 8,<1,0,2004,Liverfluke
+Zone:8,<1,0,2004,Liverfluke
 Chachoengsao,<1,0,2004,Liverfluke
 Nakhon Nayok,<1,0,2004,Liverfluke
 Prachin Buri,<1,0,2004,Liverfluke
 Sa Kaeo,<1,0,2004,Liverfluke
 Samut Prakan,<1,0,2004,Liverfluke
-Zone 9,<1,0,2004,Liverfluke
+Zone:9,<1,0,2004,Liverfluke
 Chanthaburi,<1,0,2004,Liverfluke
 Chon Buri,<1,0,2004,Liverfluke
 Rayong,<1,0,2004,Liverfluke
 Trat,<1,0,2004,Liverfluke
 North-Eastern Region,<1,3,2004,Liverfluke
-Zone 10,<1,0,2004,Liverfluke
+Zone:10,<1,0,2004,Liverfluke
 Loei,<1,0,2004,Liverfluke
 Nong Bua Lam Phu,<1,0,2004,Liverfluke
 Nong Khai,<1,0,2004,Liverfluke
 Udon Thani,<1,0,2004,Liverfluke
-Zone 11,<1,0,2004,Liverfluke
+Zone:11,<1,0,2004,Liverfluke
 Kalasin,<1,0,2004,Liverfluke
 Mukdahan,<1,0,2004,Liverfluke
 Nakhon Phanom,<1,0,2004,Liverfluke
 Sakon Nakhon,<1,0,2004,Liverfluke
-Zone 12,<1,0,2004,Liverfluke
+Zone:12,<1,0,2004,Liverfluke
 Khon Kaen,<1,0,2004,Liverfluke
 Maha Sarakham,<1,0,2004,Liverfluke
 Roi Et,<1,0,2004,Liverfluke
-Zone 13,<1,0,2004,Liverfluke
+Zone:13,<1,0,2004,Liverfluke
 Buri Ram,<1,0,2004,Liverfluke
 Chaiyaphum,<1,0,2004,Liverfluke
 Nakhon Ratchasima,<1,0,2004,Liverfluke
 Surin,<1,0,2004,Liverfluke
-Zone 14,<1,3,2004,Liverfluke
+Zone:14,<1,3,2004,Liverfluke
 Amnat Charoen,<1,0,2004,Liverfluke
 Si Sa Ket,<1,0,2004,Liverfluke
 Ubon Ratchathani,<1,0,2004,Liverfluke
 Yasothon,<1,3,2004,Liverfluke
 South Region,<1,0,2004,Liverfluke
-Zone 15,<1,0,2004,Liverfluke
+Zone:15,<1,0,2004,Liverfluke
 Chumphon,<1,0,2004,Liverfluke
 Ranong,<1,0,2004,Liverfluke
 Surat Thani,<1,0,2004,Liverfluke
-Zone 16,<1,0,2004,Liverfluke
+Zone:16,<1,0,2004,Liverfluke
 Nakhon Si Thammarat,<1,0,2004,Liverfluke
 Phatthalung,<1,0,2004,Liverfluke
 Trang,<1,0,2004,Liverfluke
-Zone 17,<1,0,2004,Liverfluke
+Zone:17,<1,0,2004,Liverfluke
 Krabi,<1,0,2004,Liverfluke
 Phangnga,<1,0,2004,Liverfluke
 Phuket,<1,0,2004,Liverfluke
-Zone 18,<1,0,2004,Liverfluke
+Zone:18,<1,0,2004,Liverfluke
 Narathiwat,<1,0,2004,Liverfluke
 Pattani,<1,0,2004,Liverfluke
 Yala,<1,0,2004,Liverfluke
-Zone 19,<1,0,2004,Liverfluke
+Zone:19,<1,0,2004,Liverfluke
 Satun,<1,0,2004,Liverfluke
 Songkhla,<1,0,2004,Liverfluke
 Total,1-1,7,2004,Liverfluke
 North Region,1-1,0,2004,Liverfluke
-Zone 1,1-1,0,2004,Liverfluke
+Zone:1,1-1,0,2004,Liverfluke
 Chiang Mai,1-1,0,2004,Liverfluke
 Chiang Rai,1-1,0,2004,Liverfluke
 Lampang,1-1,0,2004,Liverfluke
@@ -7006,98 +7006,98 @@ Mae Hong Son,1-1,0,2004,Liverfluke
 Nan,1-1,0,2004,Liverfluke
 Phayao,1-1,0,2004,Liverfluke
 Phrae,1-1,0,2004,Liverfluke
-Zone 2,1-1,0,2004,Liverfluke
+Zone:2,1-1,0,2004,Liverfluke
 Phetchabun,1-1,0,2004,Liverfluke
 Phitsanulok,1-1,0,2004,Liverfluke
 Sukhothai,1-1,0,2004,Liverfluke
 Tak,1-1,0,2004,Liverfluke
 Uttaradit,1-1,0,2004,Liverfluke
-Zone 3,1-1,0,2004,Liverfluke
+Zone:3,1-1,0,2004,Liverfluke
 Kamphaeng Phet,1-1,0,2004,Liverfluke
 Nakhon Sawan,1-1,0,2004,Liverfluke
 Phichit,1-1,0,2004,Liverfluke
 Uthai Thani,1-1,0,2004,Liverfluke
 Central Region,1-1,0,2004,Liverfluke
 Bangkok,1-1,0,2004,Liverfluke
-Zone 4,1-1,0,2004,Liverfluke
+Zone:4,1-1,0,2004,Liverfluke
 Ang Thong,1-1,0,2004,Liverfluke
 Nonthaburi,1-1,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,1-1,0,2004,Liverfluke
 Pathum Thani,1-1,0,2004,Liverfluke
-Zone 5,1-1,0,2004,Liverfluke
+Zone:5,1-1,0,2004,Liverfluke
 Chai Nat,1-1,0,2004,Liverfluke
 Lop Buri,1-1,0,2004,Liverfluke
 Saraburi,1-1,0,2004,Liverfluke
 Sing Buri,1-1,0,2004,Liverfluke
-Zone 6,1-1,0,2004,Liverfluke
+Zone:6,1-1,0,2004,Liverfluke
 Kanchanaburi,1-1,0,2004,Liverfluke
 Nakhon Pathom,1-1,0,2004,Liverfluke
 Ratchaburi,1-1,0,2004,Liverfluke
 Suphan Buri,1-1,0,2004,Liverfluke
-Zone 7,1-1,0,2004,Liverfluke
+Zone:7,1-1,0,2004,Liverfluke
 Phetchaburi,1-1,0,2004,Liverfluke
 Prachuap Khiri Khan,1-1,0,2004,Liverfluke
 Samut Sakhon,1-1,0,2004,Liverfluke
 Samut Songkhram,1-1,0,2004,Liverfluke
-Zone 8,1-1,0,2004,Liverfluke
+Zone:8,1-1,0,2004,Liverfluke
 Chachoengsao,1-1,0,2004,Liverfluke
 Nakhon Nayok,1-1,0,2004,Liverfluke
 Prachin Buri,1-1,0,2004,Liverfluke
 Sa Kaeo,1-1,0,2004,Liverfluke
 Samut Prakan,1-1,0,2004,Liverfluke
-Zone 9,1-1,0,2004,Liverfluke
+Zone:9,1-1,0,2004,Liverfluke
 Chanthaburi,1-1,0,2004,Liverfluke
 Chon Buri,1-1,0,2004,Liverfluke
 Rayong,1-1,0,2004,Liverfluke
 Trat,1-1,0,2004,Liverfluke
 North-Eastern Region,1-1,7,2004,Liverfluke
-Zone 10,1-1,0,2004,Liverfluke
+Zone:10,1-1,0,2004,Liverfluke
 Loei,1-1,0,2004,Liverfluke
 Nong Bua Lam Phu,1-1,0,2004,Liverfluke
 Nong Khai,1-1,0,2004,Liverfluke
 Udon Thani,1-1,0,2004,Liverfluke
-Zone 11,1-1,0,2004,Liverfluke
+Zone:11,1-1,0,2004,Liverfluke
 Kalasin,1-1,0,2004,Liverfluke
 Mukdahan,1-1,0,2004,Liverfluke
 Nakhon Phanom,1-1,0,2004,Liverfluke
 Sakon Nakhon,1-1,0,2004,Liverfluke
-Zone 12,1-1,0,2004,Liverfluke
+Zone:12,1-1,0,2004,Liverfluke
 Khon Kaen,1-1,0,2004,Liverfluke
 Maha Sarakham,1-1,0,2004,Liverfluke
 Roi Et,1-1,0,2004,Liverfluke
-Zone 13,1-1,0,2004,Liverfluke
+Zone:13,1-1,0,2004,Liverfluke
 Buri Ram,1-1,0,2004,Liverfluke
 Chaiyaphum,1-1,0,2004,Liverfluke
 Nakhon Ratchasima,1-1,0,2004,Liverfluke
 Surin,1-1,0,2004,Liverfluke
-Zone 14,1-1,7,2004,Liverfluke
+Zone:14,1-1,7,2004,Liverfluke
 Amnat Charoen,1-1,0,2004,Liverfluke
 Si Sa Ket,1-1,0,2004,Liverfluke
 Ubon Ratchathani,1-1,0,2004,Liverfluke
 Yasothon,1-1,7,2004,Liverfluke
 South Region,1-1,0,2004,Liverfluke
-Zone 15,1-1,0,2004,Liverfluke
+Zone:15,1-1,0,2004,Liverfluke
 Chumphon,1-1,0,2004,Liverfluke
 Ranong,1-1,0,2004,Liverfluke
 Surat Thani,1-1,0,2004,Liverfluke
-Zone 16,1-1,0,2004,Liverfluke
+Zone:16,1-1,0,2004,Liverfluke
 Nakhon Si Thammarat,1-1,0,2004,Liverfluke
 Phatthalung,1-1,0,2004,Liverfluke
 Trang,1-1,0,2004,Liverfluke
-Zone 17,1-1,0,2004,Liverfluke
+Zone:17,1-1,0,2004,Liverfluke
 Krabi,1-1,0,2004,Liverfluke
 Phangnga,1-1,0,2004,Liverfluke
 Phuket,1-1,0,2004,Liverfluke
-Zone 18,1-1,0,2004,Liverfluke
+Zone:18,1-1,0,2004,Liverfluke
 Narathiwat,1-1,0,2004,Liverfluke
 Pattani,1-1,0,2004,Liverfluke
 Yala,1-1,0,2004,Liverfluke
-Zone 19,1-1,0,2004,Liverfluke
+Zone:19,1-1,0,2004,Liverfluke
 Satun,1-1,0,2004,Liverfluke
 Songkhla,1-1,0,2004,Liverfluke
 Total,2-2,8,2004,Liverfluke
 North Region,2-2,0,2004,Liverfluke
-Zone 1,2-2,0,2004,Liverfluke
+Zone:1,2-2,0,2004,Liverfluke
 Chiang Mai,2-2,0,2004,Liverfluke
 Chiang Rai,2-2,0,2004,Liverfluke
 Lampang,2-2,0,2004,Liverfluke
@@ -7106,98 +7106,98 @@ Mae Hong Son,2-2,0,2004,Liverfluke
 Nan,2-2,0,2004,Liverfluke
 Phayao,2-2,0,2004,Liverfluke
 Phrae,2-2,0,2004,Liverfluke
-Zone 2,2-2,0,2004,Liverfluke
+Zone:2,2-2,0,2004,Liverfluke
 Phetchabun,2-2,0,2004,Liverfluke
 Phitsanulok,2-2,0,2004,Liverfluke
 Sukhothai,2-2,0,2004,Liverfluke
 Tak,2-2,0,2004,Liverfluke
 Uttaradit,2-2,0,2004,Liverfluke
-Zone 3,2-2,0,2004,Liverfluke
+Zone:3,2-2,0,2004,Liverfluke
 Kamphaeng Phet,2-2,0,2004,Liverfluke
 Nakhon Sawan,2-2,0,2004,Liverfluke
 Phichit,2-2,0,2004,Liverfluke
 Uthai Thani,2-2,0,2004,Liverfluke
 Central Region,2-2,0,2004,Liverfluke
 Bangkok,2-2,0,2004,Liverfluke
-Zone 4,2-2,0,2004,Liverfluke
+Zone:4,2-2,0,2004,Liverfluke
 Ang Thong,2-2,0,2004,Liverfluke
 Nonthaburi,2-2,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,2-2,0,2004,Liverfluke
 Pathum Thani,2-2,0,2004,Liverfluke
-Zone 5,2-2,0,2004,Liverfluke
+Zone:5,2-2,0,2004,Liverfluke
 Chai Nat,2-2,0,2004,Liverfluke
 Lop Buri,2-2,0,2004,Liverfluke
 Saraburi,2-2,0,2004,Liverfluke
 Sing Buri,2-2,0,2004,Liverfluke
-Zone 6,2-2,0,2004,Liverfluke
+Zone:6,2-2,0,2004,Liverfluke
 Kanchanaburi,2-2,0,2004,Liverfluke
 Nakhon Pathom,2-2,0,2004,Liverfluke
 Ratchaburi,2-2,0,2004,Liverfluke
 Suphan Buri,2-2,0,2004,Liverfluke
-Zone 7,2-2,0,2004,Liverfluke
+Zone:7,2-2,0,2004,Liverfluke
 Phetchaburi,2-2,0,2004,Liverfluke
 Prachuap Khiri Khan,2-2,0,2004,Liverfluke
 Samut Sakhon,2-2,0,2004,Liverfluke
 Samut Songkhram,2-2,0,2004,Liverfluke
-Zone 8,2-2,0,2004,Liverfluke
+Zone:8,2-2,0,2004,Liverfluke
 Chachoengsao,2-2,0,2004,Liverfluke
 Nakhon Nayok,2-2,0,2004,Liverfluke
 Prachin Buri,2-2,0,2004,Liverfluke
 Sa Kaeo,2-2,0,2004,Liverfluke
 Samut Prakan,2-2,0,2004,Liverfluke
-Zone 9,2-2,0,2004,Liverfluke
+Zone:9,2-2,0,2004,Liverfluke
 Chanthaburi,2-2,0,2004,Liverfluke
 Chon Buri,2-2,0,2004,Liverfluke
 Rayong,2-2,0,2004,Liverfluke
 Trat,2-2,0,2004,Liverfluke
 North-Eastern Region,2-2,8,2004,Liverfluke
-Zone 10,2-2,0,2004,Liverfluke
+Zone:10,2-2,0,2004,Liverfluke
 Loei,2-2,0,2004,Liverfluke
 Nong Bua Lam Phu,2-2,0,2004,Liverfluke
 Nong Khai,2-2,0,2004,Liverfluke
 Udon Thani,2-2,0,2004,Liverfluke
-Zone 11,2-2,1,2004,Liverfluke
+Zone:11,2-2,1,2004,Liverfluke
 Kalasin,2-2,0,2004,Liverfluke
 Mukdahan,2-2,0,2004,Liverfluke
 Nakhon Phanom,2-2,0,2004,Liverfluke
 Sakon Nakhon,2-2,1,2004,Liverfluke
-Zone 12,2-2,0,2004,Liverfluke
+Zone:12,2-2,0,2004,Liverfluke
 Khon Kaen,2-2,0,2004,Liverfluke
 Maha Sarakham,2-2,0,2004,Liverfluke
 Roi Et,2-2,0,2004,Liverfluke
-Zone 13,2-2,0,2004,Liverfluke
+Zone:13,2-2,0,2004,Liverfluke
 Buri Ram,2-2,0,2004,Liverfluke
 Chaiyaphum,2-2,0,2004,Liverfluke
 Nakhon Ratchasima,2-2,0,2004,Liverfluke
 Surin,2-2,0,2004,Liverfluke
-Zone 14,2-2,7,2004,Liverfluke
+Zone:14,2-2,7,2004,Liverfluke
 Amnat Charoen,2-2,0,2004,Liverfluke
 Si Sa Ket,2-2,0,2004,Liverfluke
 Ubon Ratchathani,2-2,0,2004,Liverfluke
 Yasothon,2-2,7,2004,Liverfluke
 South Region,2-2,0,2004,Liverfluke
-Zone 15,2-2,0,2004,Liverfluke
+Zone:15,2-2,0,2004,Liverfluke
 Chumphon,2-2,0,2004,Liverfluke
 Ranong,2-2,0,2004,Liverfluke
 Surat Thani,2-2,0,2004,Liverfluke
-Zone 16,2-2,0,2004,Liverfluke
+Zone:16,2-2,0,2004,Liverfluke
 Nakhon Si Thammarat,2-2,0,2004,Liverfluke
 Phatthalung,2-2,0,2004,Liverfluke
 Trang,2-2,0,2004,Liverfluke
-Zone 17,2-2,0,2004,Liverfluke
+Zone:17,2-2,0,2004,Liverfluke
 Krabi,2-2,0,2004,Liverfluke
 Phangnga,2-2,0,2004,Liverfluke
 Phuket,2-2,0,2004,Liverfluke
-Zone 18,2-2,0,2004,Liverfluke
+Zone:18,2-2,0,2004,Liverfluke
 Narathiwat,2-2,0,2004,Liverfluke
 Pattani,2-2,0,2004,Liverfluke
 Yala,2-2,0,2004,Liverfluke
-Zone 19,2-2,0,2004,Liverfluke
+Zone:19,2-2,0,2004,Liverfluke
 Satun,2-2,0,2004,Liverfluke
 Songkhla,2-2,0,2004,Liverfluke
 Total,3-3,0,2004,Liverfluke
 North Region,3-3,0,2004,Liverfluke
-Zone 1,3-3,0,2004,Liverfluke
+Zone:1,3-3,0,2004,Liverfluke
 Chiang Mai,3-3,0,2004,Liverfluke
 Chiang Rai,3-3,0,2004,Liverfluke
 Lampang,3-3,0,2004,Liverfluke
@@ -7206,98 +7206,98 @@ Mae Hong Son,3-3,0,2004,Liverfluke
 Nan,3-3,0,2004,Liverfluke
 Phayao,3-3,0,2004,Liverfluke
 Phrae,3-3,0,2004,Liverfluke
-Zone 2,3-3,0,2004,Liverfluke
+Zone:2,3-3,0,2004,Liverfluke
 Phetchabun,3-3,0,2004,Liverfluke
 Phitsanulok,3-3,0,2004,Liverfluke
 Sukhothai,3-3,0,2004,Liverfluke
 Tak,3-3,0,2004,Liverfluke
 Uttaradit,3-3,0,2004,Liverfluke
-Zone 3,3-3,0,2004,Liverfluke
+Zone:3,3-3,0,2004,Liverfluke
 Kamphaeng Phet,3-3,0,2004,Liverfluke
 Nakhon Sawan,3-3,0,2004,Liverfluke
 Phichit,3-3,0,2004,Liverfluke
 Uthai Thani,3-3,0,2004,Liverfluke
 Central Region,3-3,0,2004,Liverfluke
 Bangkok,3-3,0,2004,Liverfluke
-Zone 4,3-3,0,2004,Liverfluke
+Zone:4,3-3,0,2004,Liverfluke
 Ang Thong,3-3,0,2004,Liverfluke
 Nonthaburi,3-3,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,3-3,0,2004,Liverfluke
 Pathum Thani,3-3,0,2004,Liverfluke
-Zone 5,3-3,0,2004,Liverfluke
+Zone:5,3-3,0,2004,Liverfluke
 Chai Nat,3-3,0,2004,Liverfluke
 Lop Buri,3-3,0,2004,Liverfluke
 Saraburi,3-3,0,2004,Liverfluke
 Sing Buri,3-3,0,2004,Liverfluke
-Zone 6,3-3,0,2004,Liverfluke
+Zone:6,3-3,0,2004,Liverfluke
 Kanchanaburi,3-3,0,2004,Liverfluke
 Nakhon Pathom,3-3,0,2004,Liverfluke
 Ratchaburi,3-3,0,2004,Liverfluke
 Suphan Buri,3-3,0,2004,Liverfluke
-Zone 7,3-3,0,2004,Liverfluke
+Zone:7,3-3,0,2004,Liverfluke
 Phetchaburi,3-3,0,2004,Liverfluke
 Prachuap Khiri Khan,3-3,0,2004,Liverfluke
 Samut Sakhon,3-3,0,2004,Liverfluke
 Samut Songkhram,3-3,0,2004,Liverfluke
-Zone 8,3-3,0,2004,Liverfluke
+Zone:8,3-3,0,2004,Liverfluke
 Chachoengsao,3-3,0,2004,Liverfluke
 Nakhon Nayok,3-3,0,2004,Liverfluke
 Prachin Buri,3-3,0,2004,Liverfluke
 Sa Kaeo,3-3,0,2004,Liverfluke
 Samut Prakan,3-3,0,2004,Liverfluke
-Zone 9,3-3,0,2004,Liverfluke
+Zone:9,3-3,0,2004,Liverfluke
 Chanthaburi,3-3,0,2004,Liverfluke
 Chon Buri,3-3,0,2004,Liverfluke
 Rayong,3-3,0,2004,Liverfluke
 Trat,3-3,0,2004,Liverfluke
 North-Eastern Region,3-3,0,2004,Liverfluke
-Zone 10,3-3,0,2004,Liverfluke
+Zone:10,3-3,0,2004,Liverfluke
 Loei,3-3,0,2004,Liverfluke
 Nong Bua Lam Phu,3-3,0,2004,Liverfluke
 Nong Khai,3-3,0,2004,Liverfluke
 Udon Thani,3-3,0,2004,Liverfluke
-Zone 11,3-3,0,2004,Liverfluke
+Zone:11,3-3,0,2004,Liverfluke
 Kalasin,3-3,0,2004,Liverfluke
 Mukdahan,3-3,0,2004,Liverfluke
 Nakhon Phanom,3-3,0,2004,Liverfluke
 Sakon Nakhon,3-3,0,2004,Liverfluke
-Zone 12,3-3,0,2004,Liverfluke
+Zone:12,3-3,0,2004,Liverfluke
 Khon Kaen,3-3,0,2004,Liverfluke
 Maha Sarakham,3-3,0,2004,Liverfluke
 Roi Et,3-3,0,2004,Liverfluke
-Zone 13,3-3,0,2004,Liverfluke
+Zone:13,3-3,0,2004,Liverfluke
 Buri Ram,3-3,0,2004,Liverfluke
 Chaiyaphum,3-3,0,2004,Liverfluke
 Nakhon Ratchasima,3-3,0,2004,Liverfluke
 Surin,3-3,0,2004,Liverfluke
-Zone 14,3-3,0,2004,Liverfluke
+Zone:14,3-3,0,2004,Liverfluke
 Amnat Charoen,3-3,0,2004,Liverfluke
 Si Sa Ket,3-3,0,2004,Liverfluke
 Ubon Ratchathani,3-3,0,2004,Liverfluke
 Yasothon,3-3,0,2004,Liverfluke
 South Region,3-3,0,2004,Liverfluke
-Zone 15,3-3,0,2004,Liverfluke
+Zone:15,3-3,0,2004,Liverfluke
 Chumphon,3-3,0,2004,Liverfluke
 Ranong,3-3,0,2004,Liverfluke
 Surat Thani,3-3,0,2004,Liverfluke
-Zone 16,3-3,0,2004,Liverfluke
+Zone:16,3-3,0,2004,Liverfluke
 Nakhon Si Thammarat,3-3,0,2004,Liverfluke
 Phatthalung,3-3,0,2004,Liverfluke
 Trang,3-3,0,2004,Liverfluke
-Zone 17,3-3,0,2004,Liverfluke
+Zone:17,3-3,0,2004,Liverfluke
 Krabi,3-3,0,2004,Liverfluke
 Phangnga,3-3,0,2004,Liverfluke
 Phuket,3-3,0,2004,Liverfluke
-Zone 18,3-3,0,2004,Liverfluke
+Zone:18,3-3,0,2004,Liverfluke
 Narathiwat,3-3,0,2004,Liverfluke
 Pattani,3-3,0,2004,Liverfluke
 Yala,3-3,0,2004,Liverfluke
-Zone 19,3-3,0,2004,Liverfluke
+Zone:19,3-3,0,2004,Liverfluke
 Satun,3-3,0,2004,Liverfluke
 Songkhla,3-3,0,2004,Liverfluke
 Total,4-4,2,2004,Liverfluke
 North Region,4-4,0,2004,Liverfluke
-Zone 1,4-4,0,2004,Liverfluke
+Zone:1,4-4,0,2004,Liverfluke
 Chiang Mai,4-4,0,2004,Liverfluke
 Chiang Rai,4-4,0,2004,Liverfluke
 Lampang,4-4,0,2004,Liverfluke
@@ -7306,98 +7306,98 @@ Mae Hong Son,4-4,0,2004,Liverfluke
 Nan,4-4,0,2004,Liverfluke
 Phayao,4-4,0,2004,Liverfluke
 Phrae,4-4,0,2004,Liverfluke
-Zone 2,4-4,0,2004,Liverfluke
+Zone:2,4-4,0,2004,Liverfluke
 Phetchabun,4-4,0,2004,Liverfluke
 Phitsanulok,4-4,0,2004,Liverfluke
 Sukhothai,4-4,0,2004,Liverfluke
 Tak,4-4,0,2004,Liverfluke
 Uttaradit,4-4,0,2004,Liverfluke
-Zone 3,4-4,0,2004,Liverfluke
+Zone:3,4-4,0,2004,Liverfluke
 Kamphaeng Phet,4-4,0,2004,Liverfluke
 Nakhon Sawan,4-4,0,2004,Liverfluke
 Phichit,4-4,0,2004,Liverfluke
 Uthai Thani,4-4,0,2004,Liverfluke
 Central Region,4-4,0,2004,Liverfluke
 Bangkok,4-4,0,2004,Liverfluke
-Zone 4,4-4,0,2004,Liverfluke
+Zone:4,4-4,0,2004,Liverfluke
 Ang Thong,4-4,0,2004,Liverfluke
 Nonthaburi,4-4,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,4-4,0,2004,Liverfluke
 Pathum Thani,4-4,0,2004,Liverfluke
-Zone 5,4-4,0,2004,Liverfluke
+Zone:5,4-4,0,2004,Liverfluke
 Chai Nat,4-4,0,2004,Liverfluke
 Lop Buri,4-4,0,2004,Liverfluke
 Saraburi,4-4,0,2004,Liverfluke
 Sing Buri,4-4,0,2004,Liverfluke
-Zone 6,4-4,0,2004,Liverfluke
+Zone:6,4-4,0,2004,Liverfluke
 Kanchanaburi,4-4,0,2004,Liverfluke
 Nakhon Pathom,4-4,0,2004,Liverfluke
 Ratchaburi,4-4,0,2004,Liverfluke
 Suphan Buri,4-4,0,2004,Liverfluke
-Zone 7,4-4,0,2004,Liverfluke
+Zone:7,4-4,0,2004,Liverfluke
 Phetchaburi,4-4,0,2004,Liverfluke
 Prachuap Khiri Khan,4-4,0,2004,Liverfluke
 Samut Sakhon,4-4,0,2004,Liverfluke
 Samut Songkhram,4-4,0,2004,Liverfluke
-Zone 8,4-4,0,2004,Liverfluke
+Zone:8,4-4,0,2004,Liverfluke
 Chachoengsao,4-4,0,2004,Liverfluke
 Nakhon Nayok,4-4,0,2004,Liverfluke
 Prachin Buri,4-4,0,2004,Liverfluke
 Sa Kaeo,4-4,0,2004,Liverfluke
 Samut Prakan,4-4,0,2004,Liverfluke
-Zone 9,4-4,0,2004,Liverfluke
+Zone:9,4-4,0,2004,Liverfluke
 Chanthaburi,4-4,0,2004,Liverfluke
 Chon Buri,4-4,0,2004,Liverfluke
 Rayong,4-4,0,2004,Liverfluke
 Trat,4-4,0,2004,Liverfluke
 North-Eastern Region,4-4,2,2004,Liverfluke
-Zone 10,4-4,0,2004,Liverfluke
+Zone:10,4-4,0,2004,Liverfluke
 Loei,4-4,0,2004,Liverfluke
 Nong Bua Lam Phu,4-4,0,2004,Liverfluke
 Nong Khai,4-4,0,2004,Liverfluke
 Udon Thani,4-4,0,2004,Liverfluke
-Zone 11,4-4,2,2004,Liverfluke
+Zone:11,4-4,2,2004,Liverfluke
 Kalasin,4-4,0,2004,Liverfluke
 Mukdahan,4-4,0,2004,Liverfluke
 Nakhon Phanom,4-4,0,2004,Liverfluke
 Sakon Nakhon,4-4,2,2004,Liverfluke
-Zone 12,4-4,0,2004,Liverfluke
+Zone:12,4-4,0,2004,Liverfluke
 Khon Kaen,4-4,0,2004,Liverfluke
 Maha Sarakham,4-4,0,2004,Liverfluke
 Roi Et,4-4,0,2004,Liverfluke
-Zone 13,4-4,0,2004,Liverfluke
+Zone:13,4-4,0,2004,Liverfluke
 Buri Ram,4-4,0,2004,Liverfluke
 Chaiyaphum,4-4,0,2004,Liverfluke
 Nakhon Ratchasima,4-4,0,2004,Liverfluke
 Surin,4-4,0,2004,Liverfluke
-Zone 14,4-4,0,2004,Liverfluke
+Zone:14,4-4,0,2004,Liverfluke
 Amnat Charoen,4-4,0,2004,Liverfluke
 Si Sa Ket,4-4,0,2004,Liverfluke
 Ubon Ratchathani,4-4,0,2004,Liverfluke
 Yasothon,4-4,0,2004,Liverfluke
 South Region,4-4,0,2004,Liverfluke
-Zone 15,4-4,0,2004,Liverfluke
+Zone:15,4-4,0,2004,Liverfluke
 Chumphon,4-4,0,2004,Liverfluke
 Ranong,4-4,0,2004,Liverfluke
 Surat Thani,4-4,0,2004,Liverfluke
-Zone 16,4-4,0,2004,Liverfluke
+Zone:16,4-4,0,2004,Liverfluke
 Nakhon Si Thammarat,4-4,0,2004,Liverfluke
 Phatthalung,4-4,0,2004,Liverfluke
 Trang,4-4,0,2004,Liverfluke
-Zone 17,4-4,0,2004,Liverfluke
+Zone:17,4-4,0,2004,Liverfluke
 Krabi,4-4,0,2004,Liverfluke
 Phangnga,4-4,0,2004,Liverfluke
 Phuket,4-4,0,2004,Liverfluke
-Zone 18,4-4,0,2004,Liverfluke
+Zone:18,4-4,0,2004,Liverfluke
 Narathiwat,4-4,0,2004,Liverfluke
 Pattani,4-4,0,2004,Liverfluke
 Yala,4-4,0,2004,Liverfluke
-Zone 19,4-4,0,2004,Liverfluke
+Zone:19,4-4,0,2004,Liverfluke
 Satun,4-4,0,2004,Liverfluke
 Songkhla,4-4,0,2004,Liverfluke
 Total,5-5,2,2004,Liverfluke
 North Region,5-5,0,2004,Liverfluke
-Zone 1,5-5,0,2004,Liverfluke
+Zone:1,5-5,0,2004,Liverfluke
 Chiang Mai,5-5,0,2004,Liverfluke
 Chiang Rai,5-5,0,2004,Liverfluke
 Lampang,5-5,0,2004,Liverfluke
@@ -7406,98 +7406,98 @@ Mae Hong Son,5-5,0,2004,Liverfluke
 Nan,5-5,0,2004,Liverfluke
 Phayao,5-5,0,2004,Liverfluke
 Phrae,5-5,0,2004,Liverfluke
-Zone 2,5-5,0,2004,Liverfluke
+Zone:2,5-5,0,2004,Liverfluke
 Phetchabun,5-5,0,2004,Liverfluke
 Phitsanulok,5-5,0,2004,Liverfluke
 Sukhothai,5-5,0,2004,Liverfluke
 Tak,5-5,0,2004,Liverfluke
 Uttaradit,5-5,0,2004,Liverfluke
-Zone 3,5-5,0,2004,Liverfluke
+Zone:3,5-5,0,2004,Liverfluke
 Kamphaeng Phet,5-5,0,2004,Liverfluke
 Nakhon Sawan,5-5,0,2004,Liverfluke
 Phichit,5-5,0,2004,Liverfluke
 Uthai Thani,5-5,0,2004,Liverfluke
 Central Region,5-5,0,2004,Liverfluke
 Bangkok,5-5,0,2004,Liverfluke
-Zone 4,5-5,0,2004,Liverfluke
+Zone:4,5-5,0,2004,Liverfluke
 Ang Thong,5-5,0,2004,Liverfluke
 Nonthaburi,5-5,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,5-5,0,2004,Liverfluke
 Pathum Thani,5-5,0,2004,Liverfluke
-Zone 5,5-5,0,2004,Liverfluke
+Zone:5,5-5,0,2004,Liverfluke
 Chai Nat,5-5,0,2004,Liverfluke
 Lop Buri,5-5,0,2004,Liverfluke
 Saraburi,5-5,0,2004,Liverfluke
 Sing Buri,5-5,0,2004,Liverfluke
-Zone 6,5-5,0,2004,Liverfluke
+Zone:6,5-5,0,2004,Liverfluke
 Kanchanaburi,5-5,0,2004,Liverfluke
 Nakhon Pathom,5-5,0,2004,Liverfluke
 Ratchaburi,5-5,0,2004,Liverfluke
 Suphan Buri,5-5,0,2004,Liverfluke
-Zone 7,5-5,0,2004,Liverfluke
+Zone:7,5-5,0,2004,Liverfluke
 Phetchaburi,5-5,0,2004,Liverfluke
 Prachuap Khiri Khan,5-5,0,2004,Liverfluke
 Samut Sakhon,5-5,0,2004,Liverfluke
 Samut Songkhram,5-5,0,2004,Liverfluke
-Zone 8,5-5,0,2004,Liverfluke
+Zone:8,5-5,0,2004,Liverfluke
 Chachoengsao,5-5,0,2004,Liverfluke
 Nakhon Nayok,5-5,0,2004,Liverfluke
 Prachin Buri,5-5,0,2004,Liverfluke
 Sa Kaeo,5-5,0,2004,Liverfluke
 Samut Prakan,5-5,0,2004,Liverfluke
-Zone 9,5-5,0,2004,Liverfluke
+Zone:9,5-5,0,2004,Liverfluke
 Chanthaburi,5-5,0,2004,Liverfluke
 Chon Buri,5-5,0,2004,Liverfluke
 Rayong,5-5,0,2004,Liverfluke
 Trat,5-5,0,2004,Liverfluke
 North-Eastern Region,5-5,2,2004,Liverfluke
-Zone 10,5-5,0,2004,Liverfluke
+Zone:10,5-5,0,2004,Liverfluke
 Loei,5-5,0,2004,Liverfluke
 Nong Bua Lam Phu,5-5,0,2004,Liverfluke
 Nong Khai,5-5,0,2004,Liverfluke
 Udon Thani,5-5,0,2004,Liverfluke
-Zone 11,5-5,1,2004,Liverfluke
+Zone:11,5-5,1,2004,Liverfluke
 Kalasin,5-5,0,2004,Liverfluke
 Mukdahan,5-5,0,2004,Liverfluke
 Nakhon Phanom,5-5,0,2004,Liverfluke
 Sakon Nakhon,5-5,1,2004,Liverfluke
-Zone 12,5-5,0,2004,Liverfluke
+Zone:12,5-5,0,2004,Liverfluke
 Khon Kaen,5-5,0,2004,Liverfluke
 Maha Sarakham,5-5,0,2004,Liverfluke
 Roi Et,5-5,0,2004,Liverfluke
-Zone 13,5-5,0,2004,Liverfluke
+Zone:13,5-5,0,2004,Liverfluke
 Buri Ram,5-5,0,2004,Liverfluke
 Chaiyaphum,5-5,0,2004,Liverfluke
 Nakhon Ratchasima,5-5,0,2004,Liverfluke
 Surin,5-5,0,2004,Liverfluke
-Zone 14,5-5,1,2004,Liverfluke
+Zone:14,5-5,1,2004,Liverfluke
 Amnat Charoen,5-5,0,2004,Liverfluke
 Si Sa Ket,5-5,0,2004,Liverfluke
 Ubon Ratchathani,5-5,0,2004,Liverfluke
 Yasothon,5-5,1,2004,Liverfluke
 South Region,5-5,0,2004,Liverfluke
-Zone 15,5-5,0,2004,Liverfluke
+Zone:15,5-5,0,2004,Liverfluke
 Chumphon,5-5,0,2004,Liverfluke
 Ranong,5-5,0,2004,Liverfluke
 Surat Thani,5-5,0,2004,Liverfluke
-Zone 16,5-5,0,2004,Liverfluke
+Zone:16,5-5,0,2004,Liverfluke
 Nakhon Si Thammarat,5-5,0,2004,Liverfluke
 Phatthalung,5-5,0,2004,Liverfluke
 Trang,5-5,0,2004,Liverfluke
-Zone 17,5-5,0,2004,Liverfluke
+Zone:17,5-5,0,2004,Liverfluke
 Krabi,5-5,0,2004,Liverfluke
 Phangnga,5-5,0,2004,Liverfluke
 Phuket,5-5,0,2004,Liverfluke
-Zone 18,5-5,0,2004,Liverfluke
+Zone:18,5-5,0,2004,Liverfluke
 Narathiwat,5-5,0,2004,Liverfluke
 Pattani,5-5,0,2004,Liverfluke
 Yala,5-5,0,2004,Liverfluke
-Zone 19,5-5,0,2004,Liverfluke
+Zone:19,5-5,0,2004,Liverfluke
 Satun,5-5,0,2004,Liverfluke
 Songkhla,5-5,0,2004,Liverfluke
 Total,6-6,5,2004,Liverfluke
 North Region,6-6,1,2004,Liverfluke
-Zone 1,6-6,1,2004,Liverfluke
+Zone:1,6-6,1,2004,Liverfluke
 Chiang Mai,6-6,0,2004,Liverfluke
 Chiang Rai,6-6,0,2004,Liverfluke
 Lampang,6-6,0,2004,Liverfluke
@@ -7506,98 +7506,98 @@ Mae Hong Son,6-6,0,2004,Liverfluke
 Nan,6-6,0,2004,Liverfluke
 Phayao,6-6,0,2004,Liverfluke
 Phrae,6-6,0,2004,Liverfluke
-Zone 2,6-6,0,2004,Liverfluke
+Zone:2,6-6,0,2004,Liverfluke
 Phetchabun,6-6,0,2004,Liverfluke
 Phitsanulok,6-6,0,2004,Liverfluke
 Sukhothai,6-6,0,2004,Liverfluke
 Tak,6-6,0,2004,Liverfluke
 Uttaradit,6-6,0,2004,Liverfluke
-Zone 3,6-6,0,2004,Liverfluke
+Zone:3,6-6,0,2004,Liverfluke
 Kamphaeng Phet,6-6,0,2004,Liverfluke
 Nakhon Sawan,6-6,0,2004,Liverfluke
 Phichit,6-6,0,2004,Liverfluke
 Uthai Thani,6-6,0,2004,Liverfluke
 Central Region,6-6,0,2004,Liverfluke
 Bangkok,6-6,0,2004,Liverfluke
-Zone 4,6-6,0,2004,Liverfluke
+Zone:4,6-6,0,2004,Liverfluke
 Ang Thong,6-6,0,2004,Liverfluke
 Nonthaburi,6-6,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,6-6,0,2004,Liverfluke
 Pathum Thani,6-6,0,2004,Liverfluke
-Zone 5,6-6,0,2004,Liverfluke
+Zone:5,6-6,0,2004,Liverfluke
 Chai Nat,6-6,0,2004,Liverfluke
 Lop Buri,6-6,0,2004,Liverfluke
 Saraburi,6-6,0,2004,Liverfluke
 Sing Buri,6-6,0,2004,Liverfluke
-Zone 6,6-6,0,2004,Liverfluke
+Zone:6,6-6,0,2004,Liverfluke
 Kanchanaburi,6-6,0,2004,Liverfluke
 Nakhon Pathom,6-6,0,2004,Liverfluke
 Ratchaburi,6-6,0,2004,Liverfluke
 Suphan Buri,6-6,0,2004,Liverfluke
-Zone 7,6-6,0,2004,Liverfluke
+Zone:7,6-6,0,2004,Liverfluke
 Phetchaburi,6-6,0,2004,Liverfluke
 Prachuap Khiri Khan,6-6,0,2004,Liverfluke
 Samut Sakhon,6-6,0,2004,Liverfluke
 Samut Songkhram,6-6,0,2004,Liverfluke
-Zone 8,6-6,0,2004,Liverfluke
+Zone:8,6-6,0,2004,Liverfluke
 Chachoengsao,6-6,0,2004,Liverfluke
 Nakhon Nayok,6-6,0,2004,Liverfluke
 Prachin Buri,6-6,0,2004,Liverfluke
 Sa Kaeo,6-6,0,2004,Liverfluke
 Samut Prakan,6-6,0,2004,Liverfluke
-Zone 9,6-6,0,2004,Liverfluke
+Zone:9,6-6,0,2004,Liverfluke
 Chanthaburi,6-6,0,2004,Liverfluke
 Chon Buri,6-6,0,2004,Liverfluke
 Rayong,6-6,0,2004,Liverfluke
 Trat,6-6,0,2004,Liverfluke
 North-Eastern Region,6-6,4,2004,Liverfluke
-Zone 10,6-6,0,2004,Liverfluke
+Zone:10,6-6,0,2004,Liverfluke
 Loei,6-6,0,2004,Liverfluke
 Nong Bua Lam Phu,6-6,0,2004,Liverfluke
 Nong Khai,6-6,0,2004,Liverfluke
 Udon Thani,6-6,0,2004,Liverfluke
-Zone 11,6-6,3,2004,Liverfluke
+Zone:11,6-6,3,2004,Liverfluke
 Kalasin,6-6,0,2004,Liverfluke
 Mukdahan,6-6,1,2004,Liverfluke
 Nakhon Phanom,6-6,0,2004,Liverfluke
 Sakon Nakhon,6-6,2,2004,Liverfluke
-Zone 12,6-6,0,2004,Liverfluke
+Zone:12,6-6,0,2004,Liverfluke
 Khon Kaen,6-6,0,2004,Liverfluke
 Maha Sarakham,6-6,0,2004,Liverfluke
 Roi Et,6-6,0,2004,Liverfluke
-Zone 13,6-6,0,2004,Liverfluke
+Zone:13,6-6,0,2004,Liverfluke
 Buri Ram,6-6,0,2004,Liverfluke
 Chaiyaphum,6-6,0,2004,Liverfluke
 Nakhon Ratchasima,6-6,0,2004,Liverfluke
 Surin,6-6,0,2004,Liverfluke
-Zone 14,6-6,1,2004,Liverfluke
+Zone:14,6-6,1,2004,Liverfluke
 Amnat Charoen,6-6,0,2004,Liverfluke
 Si Sa Ket,6-6,0,2004,Liverfluke
 Ubon Ratchathani,6-6,0,2004,Liverfluke
 Yasothon,6-6,1,2004,Liverfluke
 South Region,6-6,0,2004,Liverfluke
-Zone 15,6-6,0,2004,Liverfluke
+Zone:15,6-6,0,2004,Liverfluke
 Chumphon,6-6,0,2004,Liverfluke
 Ranong,6-6,0,2004,Liverfluke
 Surat Thani,6-6,0,2004,Liverfluke
-Zone 16,6-6,0,2004,Liverfluke
+Zone:16,6-6,0,2004,Liverfluke
 Nakhon Si Thammarat,6-6,0,2004,Liverfluke
 Phatthalung,6-6,0,2004,Liverfluke
 Trang,6-6,0,2004,Liverfluke
-Zone 17,6-6,0,2004,Liverfluke
+Zone:17,6-6,0,2004,Liverfluke
 Krabi,6-6,0,2004,Liverfluke
 Phangnga,6-6,0,2004,Liverfluke
 Phuket,6-6,0,2004,Liverfluke
-Zone 18,6-6,0,2004,Liverfluke
+Zone:18,6-6,0,2004,Liverfluke
 Narathiwat,6-6,0,2004,Liverfluke
 Pattani,6-6,0,2004,Liverfluke
 Yala,6-6,0,2004,Liverfluke
-Zone 19,6-6,0,2004,Liverfluke
+Zone:19,6-6,0,2004,Liverfluke
 Satun,6-6,0,2004,Liverfluke
 Songkhla,6-6,0,2004,Liverfluke
 Total,7-9,9,2004,Liverfluke
 North Region,7-9,1,2004,Liverfluke
-Zone 1,7-9,1,2004,Liverfluke
+Zone:1,7-9,1,2004,Liverfluke
 Chiang Mai,7-9,0,2004,Liverfluke
 Chiang Rai,7-9,0,2004,Liverfluke
 Lampang,7-9,0,2004,Liverfluke
@@ -7606,98 +7606,98 @@ Mae Hong Son,7-9,0,2004,Liverfluke
 Nan,7-9,0,2004,Liverfluke
 Phayao,7-9,0,2004,Liverfluke
 Phrae,7-9,0,2004,Liverfluke
-Zone 2,7-9,0,2004,Liverfluke
+Zone:2,7-9,0,2004,Liverfluke
 Phetchabun,7-9,0,2004,Liverfluke
 Phitsanulok,7-9,0,2004,Liverfluke
 Sukhothai,7-9,0,2004,Liverfluke
 Tak,7-9,0,2004,Liverfluke
 Uttaradit,7-9,0,2004,Liverfluke
-Zone 3,7-9,0,2004,Liverfluke
+Zone:3,7-9,0,2004,Liverfluke
 Kamphaeng Phet,7-9,0,2004,Liverfluke
 Nakhon Sawan,7-9,0,2004,Liverfluke
 Phichit,7-9,0,2004,Liverfluke
 Uthai Thani,7-9,0,2004,Liverfluke
 Central Region,7-9,0,2004,Liverfluke
 Bangkok,7-9,0,2004,Liverfluke
-Zone 4,7-9,0,2004,Liverfluke
+Zone:4,7-9,0,2004,Liverfluke
 Ang Thong,7-9,0,2004,Liverfluke
 Nonthaburi,7-9,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,7-9,0,2004,Liverfluke
 Pathum Thani,7-9,0,2004,Liverfluke
-Zone 5,7-9,0,2004,Liverfluke
+Zone:5,7-9,0,2004,Liverfluke
 Chai Nat,7-9,0,2004,Liverfluke
 Lop Buri,7-9,0,2004,Liverfluke
 Saraburi,7-9,0,2004,Liverfluke
 Sing Buri,7-9,0,2004,Liverfluke
-Zone 6,7-9,0,2004,Liverfluke
+Zone:6,7-9,0,2004,Liverfluke
 Kanchanaburi,7-9,0,2004,Liverfluke
 Nakhon Pathom,7-9,0,2004,Liverfluke
 Ratchaburi,7-9,0,2004,Liverfluke
 Suphan Buri,7-9,0,2004,Liverfluke
-Zone 7,7-9,0,2004,Liverfluke
+Zone:7,7-9,0,2004,Liverfluke
 Phetchaburi,7-9,0,2004,Liverfluke
 Prachuap Khiri Khan,7-9,0,2004,Liverfluke
 Samut Sakhon,7-9,0,2004,Liverfluke
 Samut Songkhram,7-9,0,2004,Liverfluke
-Zone 8,7-9,0,2004,Liverfluke
+Zone:8,7-9,0,2004,Liverfluke
 Chachoengsao,7-9,0,2004,Liverfluke
 Nakhon Nayok,7-9,0,2004,Liverfluke
 Prachin Buri,7-9,0,2004,Liverfluke
 Sa Kaeo,7-9,0,2004,Liverfluke
 Samut Prakan,7-9,0,2004,Liverfluke
-Zone 9,7-9,0,2004,Liverfluke
+Zone:9,7-9,0,2004,Liverfluke
 Chanthaburi,7-9,0,2004,Liverfluke
 Chon Buri,7-9,0,2004,Liverfluke
 Rayong,7-9,0,2004,Liverfluke
 Trat,7-9,0,2004,Liverfluke
 North-Eastern Region,7-9,8,2004,Liverfluke
-Zone 10,7-9,0,2004,Liverfluke
+Zone:10,7-9,0,2004,Liverfluke
 Loei,7-9,0,2004,Liverfluke
 Nong Bua Lam Phu,7-9,0,2004,Liverfluke
 Nong Khai,7-9,0,2004,Liverfluke
 Udon Thani,7-9,0,2004,Liverfluke
-Zone 11,7-9,7,2004,Liverfluke
+Zone:11,7-9,7,2004,Liverfluke
 Kalasin,7-9,1,2004,Liverfluke
 Mukdahan,7-9,0,2004,Liverfluke
 Nakhon Phanom,7-9,0,2004,Liverfluke
 Sakon Nakhon,7-9,6,2004,Liverfluke
-Zone 12,7-9,0,2004,Liverfluke
+Zone:12,7-9,0,2004,Liverfluke
 Khon Kaen,7-9,0,2004,Liverfluke
 Maha Sarakham,7-9,0,2004,Liverfluke
 Roi Et,7-9,0,2004,Liverfluke
-Zone 13,7-9,0,2004,Liverfluke
+Zone:13,7-9,0,2004,Liverfluke
 Buri Ram,7-9,0,2004,Liverfluke
 Chaiyaphum,7-9,0,2004,Liverfluke
 Nakhon Ratchasima,7-9,0,2004,Liverfluke
 Surin,7-9,0,2004,Liverfluke
-Zone 14,7-9,1,2004,Liverfluke
+Zone:14,7-9,1,2004,Liverfluke
 Amnat Charoen,7-9,0,2004,Liverfluke
 Si Sa Ket,7-9,0,2004,Liverfluke
 Ubon Ratchathani,7-9,0,2004,Liverfluke
 Yasothon,7-9,1,2004,Liverfluke
 South Region,7-9,0,2004,Liverfluke
-Zone 15,7-9,0,2004,Liverfluke
+Zone:15,7-9,0,2004,Liverfluke
 Chumphon,7-9,0,2004,Liverfluke
 Ranong,7-9,0,2004,Liverfluke
 Surat Thani,7-9,0,2004,Liverfluke
-Zone 16,7-9,0,2004,Liverfluke
+Zone:16,7-9,0,2004,Liverfluke
 Nakhon Si Thammarat,7-9,0,2004,Liverfluke
 Phatthalung,7-9,0,2004,Liverfluke
 Trang,7-9,0,2004,Liverfluke
-Zone 17,7-9,0,2004,Liverfluke
+Zone:17,7-9,0,2004,Liverfluke
 Krabi,7-9,0,2004,Liverfluke
 Phangnga,7-9,0,2004,Liverfluke
 Phuket,7-9,0,2004,Liverfluke
-Zone 18,7-9,0,2004,Liverfluke
+Zone:18,7-9,0,2004,Liverfluke
 Narathiwat,7-9,0,2004,Liverfluke
 Pattani,7-9,0,2004,Liverfluke
 Yala,7-9,0,2004,Liverfluke
-Zone 19,7-9,0,2004,Liverfluke
+Zone:19,7-9,0,2004,Liverfluke
 Satun,7-9,0,2004,Liverfluke
 Songkhla,7-9,0,2004,Liverfluke
 Total,10-14,39,2004,Liverfluke
 North Region,10-14,9,2004,Liverfluke
-Zone 1,10-14,9,2004,Liverfluke
+Zone:1,10-14,9,2004,Liverfluke
 Chiang Mai,10-14,0,2004,Liverfluke
 Chiang Rai,10-14,1,2004,Liverfluke
 Lampang,10-14,1,2004,Liverfluke
@@ -7706,98 +7706,98 @@ Mae Hong Son,10-14,0,2004,Liverfluke
 Nan,10-14,0,2004,Liverfluke
 Phayao,10-14,0,2004,Liverfluke
 Phrae,10-14,0,2004,Liverfluke
-Zone 2,10-14,0,2004,Liverfluke
+Zone:2,10-14,0,2004,Liverfluke
 Phetchabun,10-14,0,2004,Liverfluke
 Phitsanulok,10-14,0,2004,Liverfluke
 Sukhothai,10-14,0,2004,Liverfluke
 Tak,10-14,0,2004,Liverfluke
 Uttaradit,10-14,0,2004,Liverfluke
-Zone 3,10-14,0,2004,Liverfluke
+Zone:3,10-14,0,2004,Liverfluke
 Kamphaeng Phet,10-14,0,2004,Liverfluke
 Nakhon Sawan,10-14,0,2004,Liverfluke
 Phichit,10-14,0,2004,Liverfluke
 Uthai Thani,10-14,0,2004,Liverfluke
 Central Region,10-14,0,2004,Liverfluke
 Bangkok,10-14,0,2004,Liverfluke
-Zone 4,10-14,0,2004,Liverfluke
+Zone:4,10-14,0,2004,Liverfluke
 Ang Thong,10-14,0,2004,Liverfluke
 Nonthaburi,10-14,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,10-14,0,2004,Liverfluke
 Pathum Thani,10-14,0,2004,Liverfluke
-Zone 5,10-14,0,2004,Liverfluke
+Zone:5,10-14,0,2004,Liverfluke
 Chai Nat,10-14,0,2004,Liverfluke
 Lop Buri,10-14,0,2004,Liverfluke
 Saraburi,10-14,0,2004,Liverfluke
 Sing Buri,10-14,0,2004,Liverfluke
-Zone 6,10-14,0,2004,Liverfluke
+Zone:6,10-14,0,2004,Liverfluke
 Kanchanaburi,10-14,0,2004,Liverfluke
 Nakhon Pathom,10-14,0,2004,Liverfluke
 Ratchaburi,10-14,0,2004,Liverfluke
 Suphan Buri,10-14,0,2004,Liverfluke
-Zone 7,10-14,0,2004,Liverfluke
+Zone:7,10-14,0,2004,Liverfluke
 Phetchaburi,10-14,0,2004,Liverfluke
 Prachuap Khiri Khan,10-14,0,2004,Liverfluke
 Samut Sakhon,10-14,0,2004,Liverfluke
 Samut Songkhram,10-14,0,2004,Liverfluke
-Zone 8,10-14,0,2004,Liverfluke
+Zone:8,10-14,0,2004,Liverfluke
 Chachoengsao,10-14,0,2004,Liverfluke
 Nakhon Nayok,10-14,0,2004,Liverfluke
 Prachin Buri,10-14,0,2004,Liverfluke
 Sa Kaeo,10-14,0,2004,Liverfluke
 Samut Prakan,10-14,0,2004,Liverfluke
-Zone 9,10-14,0,2004,Liverfluke
+Zone:9,10-14,0,2004,Liverfluke
 Chanthaburi,10-14,0,2004,Liverfluke
 Chon Buri,10-14,0,2004,Liverfluke
 Rayong,10-14,0,2004,Liverfluke
 Trat,10-14,0,2004,Liverfluke
 North-Eastern Region,10-14,30,2004,Liverfluke
-Zone 10,10-14,1,2004,Liverfluke
+Zone:10,10-14,1,2004,Liverfluke
 Loei,10-14,0,2004,Liverfluke
 Nong Bua Lam Phu,10-14,0,2004,Liverfluke
 Nong Khai,10-14,0,2004,Liverfluke
 Udon Thani,10-14,1,2004,Liverfluke
-Zone 11,10-14,27,2004,Liverfluke
+Zone:11,10-14,27,2004,Liverfluke
 Kalasin,10-14,0,2004,Liverfluke
 Mukdahan,10-14,0,2004,Liverfluke
 Nakhon Phanom,10-14,0,2004,Liverfluke
 Sakon Nakhon,10-14,27,2004,Liverfluke
-Zone 12,10-14,0,2004,Liverfluke
+Zone:12,10-14,0,2004,Liverfluke
 Khon Kaen,10-14,0,2004,Liverfluke
 Maha Sarakham,10-14,0,2004,Liverfluke
 Roi Et,10-14,0,2004,Liverfluke
-Zone 13,10-14,0,2004,Liverfluke
+Zone:13,10-14,0,2004,Liverfluke
 Buri Ram,10-14,0,2004,Liverfluke
 Chaiyaphum,10-14,0,2004,Liverfluke
 Nakhon Ratchasima,10-14,0,2004,Liverfluke
 Surin,10-14,0,2004,Liverfluke
-Zone 14,10-14,2,2004,Liverfluke
+Zone:14,10-14,2,2004,Liverfluke
 Amnat Charoen,10-14,1,2004,Liverfluke
 Si Sa Ket,10-14,0,2004,Liverfluke
 Ubon Ratchathani,10-14,0,2004,Liverfluke
 Yasothon,10-14,1,2004,Liverfluke
 South Region,10-14,0,2004,Liverfluke
-Zone 15,10-14,0,2004,Liverfluke
+Zone:15,10-14,0,2004,Liverfluke
 Chumphon,10-14,0,2004,Liverfluke
 Ranong,10-14,0,2004,Liverfluke
 Surat Thani,10-14,0,2004,Liverfluke
-Zone 16,10-14,0,2004,Liverfluke
+Zone:16,10-14,0,2004,Liverfluke
 Nakhon Si Thammarat,10-14,0,2004,Liverfluke
 Phatthalung,10-14,0,2004,Liverfluke
 Trang,10-14,0,2004,Liverfluke
-Zone 17,10-14,0,2004,Liverfluke
+Zone:17,10-14,0,2004,Liverfluke
 Krabi,10-14,0,2004,Liverfluke
 Phangnga,10-14,0,2004,Liverfluke
 Phuket,10-14,0,2004,Liverfluke
-Zone 18,10-14,0,2004,Liverfluke
+Zone:18,10-14,0,2004,Liverfluke
 Narathiwat,10-14,0,2004,Liverfluke
 Pattani,10-14,0,2004,Liverfluke
 Yala,10-14,0,2004,Liverfluke
-Zone 19,10-14,0,2004,Liverfluke
+Zone:19,10-14,0,2004,Liverfluke
 Satun,10-14,0,2004,Liverfluke
 Songkhla,10-14,0,2004,Liverfluke
 Total,15-24,47,2004,Liverfluke
 North Region,15-24,8,2004,Liverfluke
-Zone 1,15-24,6,2004,Liverfluke
+Zone:1,15-24,6,2004,Liverfluke
 Chiang Mai,15-24,0,2004,Liverfluke
 Chiang Rai,15-24,0,2004,Liverfluke
 Lampang,15-24,0,2004,Liverfluke
@@ -7806,98 +7806,98 @@ Mae Hong Son,15-24,0,2004,Liverfluke
 Nan,15-24,0,2004,Liverfluke
 Phayao,15-24,0,2004,Liverfluke
 Phrae,15-24,0,2004,Liverfluke
-Zone 2,15-24,0,2004,Liverfluke
+Zone:2,15-24,0,2004,Liverfluke
 Phetchabun,15-24,0,2004,Liverfluke
 Phitsanulok,15-24,0,2004,Liverfluke
 Sukhothai,15-24,0,2004,Liverfluke
 Tak,15-24,0,2004,Liverfluke
 Uttaradit,15-24,0,2004,Liverfluke
-Zone 3,15-24,2,2004,Liverfluke
+Zone:3,15-24,2,2004,Liverfluke
 Kamphaeng Phet,15-24,0,2004,Liverfluke
 Nakhon Sawan,15-24,0,2004,Liverfluke
 Phichit,15-24,0,2004,Liverfluke
 Uthai Thani,15-24,2,2004,Liverfluke
 Central Region,15-24,0,2004,Liverfluke
 Bangkok,15-24,0,2004,Liverfluke
-Zone 4,15-24,0,2004,Liverfluke
+Zone:4,15-24,0,2004,Liverfluke
 Ang Thong,15-24,0,2004,Liverfluke
 Nonthaburi,15-24,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,15-24,0,2004,Liverfluke
 Pathum Thani,15-24,0,2004,Liverfluke
-Zone 5,15-24,0,2004,Liverfluke
+Zone:5,15-24,0,2004,Liverfluke
 Chai Nat,15-24,0,2004,Liverfluke
 Lop Buri,15-24,0,2004,Liverfluke
 Saraburi,15-24,0,2004,Liverfluke
 Sing Buri,15-24,0,2004,Liverfluke
-Zone 6,15-24,0,2004,Liverfluke
+Zone:6,15-24,0,2004,Liverfluke
 Kanchanaburi,15-24,0,2004,Liverfluke
 Nakhon Pathom,15-24,0,2004,Liverfluke
 Ratchaburi,15-24,0,2004,Liverfluke
 Suphan Buri,15-24,0,2004,Liverfluke
-Zone 7,15-24,0,2004,Liverfluke
+Zone:7,15-24,0,2004,Liverfluke
 Phetchaburi,15-24,0,2004,Liverfluke
 Prachuap Khiri Khan,15-24,0,2004,Liverfluke
 Samut Sakhon,15-24,0,2004,Liverfluke
 Samut Songkhram,15-24,0,2004,Liverfluke
-Zone 8,15-24,0,2004,Liverfluke
+Zone:8,15-24,0,2004,Liverfluke
 Chachoengsao,15-24,0,2004,Liverfluke
 Nakhon Nayok,15-24,0,2004,Liverfluke
 Prachin Buri,15-24,0,2004,Liverfluke
 Sa Kaeo,15-24,0,2004,Liverfluke
 Samut Prakan,15-24,0,2004,Liverfluke
-Zone 9,15-24,0,2004,Liverfluke
+Zone:9,15-24,0,2004,Liverfluke
 Chanthaburi,15-24,0,2004,Liverfluke
 Chon Buri,15-24,0,2004,Liverfluke
 Rayong,15-24,0,2004,Liverfluke
 Trat,15-24,0,2004,Liverfluke
 North-Eastern Region,15-24,39,2004,Liverfluke
-Zone 10,15-24,1,2004,Liverfluke
+Zone:10,15-24,1,2004,Liverfluke
 Loei,15-24,0,2004,Liverfluke
 Nong Bua Lam Phu,15-24,0,2004,Liverfluke
 Nong Khai,15-24,0,2004,Liverfluke
 Udon Thani,15-24,1,2004,Liverfluke
-Zone 11,15-24,36,2004,Liverfluke
+Zone:11,15-24,36,2004,Liverfluke
 Kalasin,15-24,0,2004,Liverfluke
 Mukdahan,15-24,0,2004,Liverfluke
 Nakhon Phanom,15-24,0,2004,Liverfluke
 Sakon Nakhon,15-24,36,2004,Liverfluke
-Zone 12,15-24,0,2004,Liverfluke
+Zone:12,15-24,0,2004,Liverfluke
 Khon Kaen,15-24,0,2004,Liverfluke
 Maha Sarakham,15-24,0,2004,Liverfluke
 Roi Et,15-24,0,2004,Liverfluke
-Zone 13,15-24,0,2004,Liverfluke
+Zone:13,15-24,0,2004,Liverfluke
 Buri Ram,15-24,0,2004,Liverfluke
 Chaiyaphum,15-24,0,2004,Liverfluke
 Nakhon Ratchasima,15-24,0,2004,Liverfluke
 Surin,15-24,0,2004,Liverfluke
-Zone 14,15-24,2,2004,Liverfluke
+Zone:14,15-24,2,2004,Liverfluke
 Amnat Charoen,15-24,2,2004,Liverfluke
 Si Sa Ket,15-24,0,2004,Liverfluke
 Ubon Ratchathani,15-24,0,2004,Liverfluke
 Yasothon,15-24,0,2004,Liverfluke
 South Region,15-24,0,2004,Liverfluke
-Zone 15,15-24,0,2004,Liverfluke
+Zone:15,15-24,0,2004,Liverfluke
 Chumphon,15-24,0,2004,Liverfluke
 Ranong,15-24,0,2004,Liverfluke
 Surat Thani,15-24,0,2004,Liverfluke
-Zone 16,15-24,0,2004,Liverfluke
+Zone:16,15-24,0,2004,Liverfluke
 Nakhon Si Thammarat,15-24,0,2004,Liverfluke
 Phatthalung,15-24,0,2004,Liverfluke
 Trang,15-24,0,2004,Liverfluke
-Zone 17,15-24,0,2004,Liverfluke
+Zone:17,15-24,0,2004,Liverfluke
 Krabi,15-24,0,2004,Liverfluke
 Phangnga,15-24,0,2004,Liverfluke
 Phuket,15-24,0,2004,Liverfluke
-Zone 18,15-24,0,2004,Liverfluke
+Zone:18,15-24,0,2004,Liverfluke
 Narathiwat,15-24,0,2004,Liverfluke
 Pattani,15-24,0,2004,Liverfluke
 Yala,15-24,0,2004,Liverfluke
-Zone 19,15-24,0,2004,Liverfluke
+Zone:19,15-24,0,2004,Liverfluke
 Satun,15-24,0,2004,Liverfluke
 Songkhla,15-24,0,2004,Liverfluke
 Total,25-34,100,2004,Liverfluke
 North Region,25-34,26,2004,Liverfluke
-Zone 1,25-34,25,2004,Liverfluke
+Zone:1,25-34,25,2004,Liverfluke
 Chiang Mai,25-34,2,2004,Liverfluke
 Chiang Rai,25-34,0,2004,Liverfluke
 Lampang,25-34,9,2004,Liverfluke
@@ -7906,98 +7906,98 @@ Mae Hong Son,25-34,0,2004,Liverfluke
 Nan,25-34,0,2004,Liverfluke
 Phayao,25-34,0,2004,Liverfluke
 Phrae,25-34,0,2004,Liverfluke
-Zone 2,25-34,1,2004,Liverfluke
+Zone:2,25-34,1,2004,Liverfluke
 Phetchabun,25-34,0,2004,Liverfluke
 Phitsanulok,25-34,0,2004,Liverfluke
 Sukhothai,25-34,0,2004,Liverfluke
 Tak,25-34,1,2004,Liverfluke
 Uttaradit,25-34,0,2004,Liverfluke
-Zone 3,25-34,0,2004,Liverfluke
+Zone:3,25-34,0,2004,Liverfluke
 Kamphaeng Phet,25-34,0,2004,Liverfluke
 Nakhon Sawan,25-34,0,2004,Liverfluke
 Phichit,25-34,0,2004,Liverfluke
 Uthai Thani,25-34,0,2004,Liverfluke
 Central Region,25-34,0,2004,Liverfluke
 Bangkok,25-34,0,2004,Liverfluke
-Zone 4,25-34,0,2004,Liverfluke
+Zone:4,25-34,0,2004,Liverfluke
 Ang Thong,25-34,0,2004,Liverfluke
 Nonthaburi,25-34,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,25-34,0,2004,Liverfluke
 Pathum Thani,25-34,0,2004,Liverfluke
-Zone 5,25-34,0,2004,Liverfluke
+Zone:5,25-34,0,2004,Liverfluke
 Chai Nat,25-34,0,2004,Liverfluke
 Lop Buri,25-34,0,2004,Liverfluke
 Saraburi,25-34,0,2004,Liverfluke
 Sing Buri,25-34,0,2004,Liverfluke
-Zone 6,25-34,0,2004,Liverfluke
+Zone:6,25-34,0,2004,Liverfluke
 Kanchanaburi,25-34,0,2004,Liverfluke
 Nakhon Pathom,25-34,0,2004,Liverfluke
 Ratchaburi,25-34,0,2004,Liverfluke
 Suphan Buri,25-34,0,2004,Liverfluke
-Zone 7,25-34,0,2004,Liverfluke
+Zone:7,25-34,0,2004,Liverfluke
 Phetchaburi,25-34,0,2004,Liverfluke
 Prachuap Khiri Khan,25-34,0,2004,Liverfluke
 Samut Sakhon,25-34,0,2004,Liverfluke
 Samut Songkhram,25-34,0,2004,Liverfluke
-Zone 8,25-34,0,2004,Liverfluke
+Zone:8,25-34,0,2004,Liverfluke
 Chachoengsao,25-34,0,2004,Liverfluke
 Nakhon Nayok,25-34,0,2004,Liverfluke
 Prachin Buri,25-34,0,2004,Liverfluke
 Sa Kaeo,25-34,0,2004,Liverfluke
 Samut Prakan,25-34,0,2004,Liverfluke
-Zone 9,25-34,0,2004,Liverfluke
+Zone:9,25-34,0,2004,Liverfluke
 Chanthaburi,25-34,0,2004,Liverfluke
 Chon Buri,25-34,0,2004,Liverfluke
 Rayong,25-34,0,2004,Liverfluke
 Trat,25-34,0,2004,Liverfluke
 North-Eastern Region,25-34,74,2004,Liverfluke
-Zone 10,25-34,0,2004,Liverfluke
+Zone:10,25-34,0,2004,Liverfluke
 Loei,25-34,0,2004,Liverfluke
 Nong Bua Lam Phu,25-34,0,2004,Liverfluke
 Nong Khai,25-34,0,2004,Liverfluke
 Udon Thani,25-34,0,2004,Liverfluke
-Zone 11,25-34,69,2004,Liverfluke
+Zone:11,25-34,69,2004,Liverfluke
 Kalasin,25-34,0,2004,Liverfluke
 Mukdahan,25-34,5,2004,Liverfluke
 Nakhon Phanom,25-34,0,2004,Liverfluke
 Sakon Nakhon,25-34,64,2004,Liverfluke
-Zone 12,25-34,1,2004,Liverfluke
+Zone:12,25-34,1,2004,Liverfluke
 Khon Kaen,25-34,1,2004,Liverfluke
 Maha Sarakham,25-34,0,2004,Liverfluke
 Roi Et,25-34,0,2004,Liverfluke
-Zone 13,25-34,1,2004,Liverfluke
+Zone:13,25-34,1,2004,Liverfluke
 Buri Ram,25-34,1,2004,Liverfluke
 Chaiyaphum,25-34,0,2004,Liverfluke
 Nakhon Ratchasima,25-34,0,2004,Liverfluke
 Surin,25-34,0,2004,Liverfluke
-Zone 14,25-34,3,2004,Liverfluke
+Zone:14,25-34,3,2004,Liverfluke
 Amnat Charoen,25-34,3,2004,Liverfluke
 Si Sa Ket,25-34,0,2004,Liverfluke
 Ubon Ratchathani,25-34,0,2004,Liverfluke
 Yasothon,25-34,0,2004,Liverfluke
 South Region,25-34,0,2004,Liverfluke
-Zone 15,25-34,0,2004,Liverfluke
+Zone:15,25-34,0,2004,Liverfluke
 Chumphon,25-34,0,2004,Liverfluke
 Ranong,25-34,0,2004,Liverfluke
 Surat Thani,25-34,0,2004,Liverfluke
-Zone 16,25-34,0,2004,Liverfluke
+Zone:16,25-34,0,2004,Liverfluke
 Nakhon Si Thammarat,25-34,0,2004,Liverfluke
 Phatthalung,25-34,0,2004,Liverfluke
 Trang,25-34,0,2004,Liverfluke
-Zone 17,25-34,0,2004,Liverfluke
+Zone:17,25-34,0,2004,Liverfluke
 Krabi,25-34,0,2004,Liverfluke
 Phangnga,25-34,0,2004,Liverfluke
 Phuket,25-34,0,2004,Liverfluke
-Zone 18,25-34,0,2004,Liverfluke
+Zone:18,25-34,0,2004,Liverfluke
 Narathiwat,25-34,0,2004,Liverfluke
 Pattani,25-34,0,2004,Liverfluke
 Yala,25-34,0,2004,Liverfluke
-Zone 19,25-34,0,2004,Liverfluke
+Zone:19,25-34,0,2004,Liverfluke
 Satun,25-34,0,2004,Liverfluke
 Songkhla,25-34,0,2004,Liverfluke
 Total,35-44,211,2004,Liverfluke
 North Region,35-44,55,2004,Liverfluke
-Zone 1,35-44,53,2004,Liverfluke
+Zone:1,35-44,53,2004,Liverfluke
 Chiang Mai,35-44,3,2004,Liverfluke
 Chiang Rai,35-44,0,2004,Liverfluke
 Lampang,35-44,12,2004,Liverfluke
@@ -8006,98 +8006,98 @@ Mae Hong Son,35-44,0,2004,Liverfluke
 Nan,35-44,0,2004,Liverfluke
 Phayao,35-44,0,2004,Liverfluke
 Phrae,35-44,0,2004,Liverfluke
-Zone 2,35-44,0,2004,Liverfluke
+Zone:2,35-44,0,2004,Liverfluke
 Phetchabun,35-44,0,2004,Liverfluke
 Phitsanulok,35-44,0,2004,Liverfluke
 Sukhothai,35-44,0,2004,Liverfluke
 Tak,35-44,0,2004,Liverfluke
 Uttaradit,35-44,0,2004,Liverfluke
-Zone 3,35-44,2,2004,Liverfluke
+Zone:3,35-44,2,2004,Liverfluke
 Kamphaeng Phet,35-44,0,2004,Liverfluke
 Nakhon Sawan,35-44,2,2004,Liverfluke
 Phichit,35-44,0,2004,Liverfluke
 Uthai Thani,35-44,0,2004,Liverfluke
 Central Region,35-44,1,2004,Liverfluke
 Bangkok,35-44,0,2004,Liverfluke
-Zone 4,35-44,0,2004,Liverfluke
+Zone:4,35-44,0,2004,Liverfluke
 Ang Thong,35-44,0,2004,Liverfluke
 Nonthaburi,35-44,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,35-44,0,2004,Liverfluke
 Pathum Thani,35-44,0,2004,Liverfluke
-Zone 5,35-44,1,2004,Liverfluke
+Zone:5,35-44,1,2004,Liverfluke
 Chai Nat,35-44,0,2004,Liverfluke
 Lop Buri,35-44,1,2004,Liverfluke
 Saraburi,35-44,0,2004,Liverfluke
 Sing Buri,35-44,0,2004,Liverfluke
-Zone 6,35-44,0,2004,Liverfluke
+Zone:6,35-44,0,2004,Liverfluke
 Kanchanaburi,35-44,0,2004,Liverfluke
 Nakhon Pathom,35-44,0,2004,Liverfluke
 Ratchaburi,35-44,0,2004,Liverfluke
 Suphan Buri,35-44,0,2004,Liverfluke
-Zone 7,35-44,0,2004,Liverfluke
+Zone:7,35-44,0,2004,Liverfluke
 Phetchaburi,35-44,0,2004,Liverfluke
 Prachuap Khiri Khan,35-44,0,2004,Liverfluke
 Samut Sakhon,35-44,0,2004,Liverfluke
 Samut Songkhram,35-44,0,2004,Liverfluke
-Zone 8,35-44,0,2004,Liverfluke
+Zone:8,35-44,0,2004,Liverfluke
 Chachoengsao,35-44,0,2004,Liverfluke
 Nakhon Nayok,35-44,0,2004,Liverfluke
 Prachin Buri,35-44,0,2004,Liverfluke
 Sa Kaeo,35-44,0,2004,Liverfluke
 Samut Prakan,35-44,0,2004,Liverfluke
-Zone 9,35-44,0,2004,Liverfluke
+Zone:9,35-44,0,2004,Liverfluke
 Chanthaburi,35-44,0,2004,Liverfluke
 Chon Buri,35-44,0,2004,Liverfluke
 Rayong,35-44,0,2004,Liverfluke
 Trat,35-44,0,2004,Liverfluke
 North-Eastern Region,35-44,155,2004,Liverfluke
-Zone 10,35-44,0,2004,Liverfluke
+Zone:10,35-44,0,2004,Liverfluke
 Loei,35-44,0,2004,Liverfluke
 Nong Bua Lam Phu,35-44,0,2004,Liverfluke
 Nong Khai,35-44,0,2004,Liverfluke
 Udon Thani,35-44,0,2004,Liverfluke
-Zone 11,35-44,140,2004,Liverfluke
+Zone:11,35-44,140,2004,Liverfluke
 Kalasin,35-44,0,2004,Liverfluke
 Mukdahan,35-44,2,2004,Liverfluke
 Nakhon Phanom,35-44,0,2004,Liverfluke
 Sakon Nakhon,35-44,138,2004,Liverfluke
-Zone 12,35-44,0,2004,Liverfluke
+Zone:12,35-44,0,2004,Liverfluke
 Khon Kaen,35-44,0,2004,Liverfluke
 Maha Sarakham,35-44,0,2004,Liverfluke
 Roi Et,35-44,0,2004,Liverfluke
-Zone 13,35-44,4,2004,Liverfluke
+Zone:13,35-44,4,2004,Liverfluke
 Buri Ram,35-44,4,2004,Liverfluke
 Chaiyaphum,35-44,0,2004,Liverfluke
 Nakhon Ratchasima,35-44,0,2004,Liverfluke
 Surin,35-44,0,2004,Liverfluke
-Zone 14,35-44,11,2004,Liverfluke
+Zone:14,35-44,11,2004,Liverfluke
 Amnat Charoen,35-44,9,2004,Liverfluke
 Si Sa Ket,35-44,0,2004,Liverfluke
 Ubon Ratchathani,35-44,0,2004,Liverfluke
 Yasothon,35-44,2,2004,Liverfluke
 South Region,35-44,0,2004,Liverfluke
-Zone 15,35-44,0,2004,Liverfluke
+Zone:15,35-44,0,2004,Liverfluke
 Chumphon,35-44,0,2004,Liverfluke
 Ranong,35-44,0,2004,Liverfluke
 Surat Thani,35-44,0,2004,Liverfluke
-Zone 16,35-44,0,2004,Liverfluke
+Zone:16,35-44,0,2004,Liverfluke
 Nakhon Si Thammarat,35-44,0,2004,Liverfluke
 Phatthalung,35-44,0,2004,Liverfluke
 Trang,35-44,0,2004,Liverfluke
-Zone 17,35-44,0,2004,Liverfluke
+Zone:17,35-44,0,2004,Liverfluke
 Krabi,35-44,0,2004,Liverfluke
 Phangnga,35-44,0,2004,Liverfluke
 Phuket,35-44,0,2004,Liverfluke
-Zone 18,35-44,0,2004,Liverfluke
+Zone:18,35-44,0,2004,Liverfluke
 Narathiwat,35-44,0,2004,Liverfluke
 Pattani,35-44,0,2004,Liverfluke
 Yala,35-44,0,2004,Liverfluke
-Zone 19,35-44,0,2004,Liverfluke
+Zone:19,35-44,0,2004,Liverfluke
 Satun,35-44,0,2004,Liverfluke
 Songkhla,35-44,0,2004,Liverfluke
 Total,45-54,198,2004,Liverfluke
 North Region,45-54,50,2004,Liverfluke
-Zone 1,45-54,49,2004,Liverfluke
+Zone:1,45-54,49,2004,Liverfluke
 Chiang Mai,45-54,3,2004,Liverfluke
 Chiang Rai,45-54,0,2004,Liverfluke
 Lampang,45-54,10,2004,Liverfluke
@@ -8106,98 +8106,98 @@ Mae Hong Son,45-54,0,2004,Liverfluke
 Nan,45-54,0,2004,Liverfluke
 Phayao,45-54,0,2004,Liverfluke
 Phrae,45-54,0,2004,Liverfluke
-Zone 2,45-54,0,2004,Liverfluke
+Zone:2,45-54,0,2004,Liverfluke
 Phetchabun,45-54,0,2004,Liverfluke
 Phitsanulok,45-54,0,2004,Liverfluke
 Sukhothai,45-54,0,2004,Liverfluke
 Tak,45-54,0,2004,Liverfluke
 Uttaradit,45-54,0,2004,Liverfluke
-Zone 3,45-54,1,2004,Liverfluke
+Zone:3,45-54,1,2004,Liverfluke
 Kamphaeng Phet,45-54,0,2004,Liverfluke
 Nakhon Sawan,45-54,1,2004,Liverfluke
 Phichit,45-54,0,2004,Liverfluke
 Uthai Thani,45-54,0,2004,Liverfluke
 Central Region,45-54,0,2004,Liverfluke
 Bangkok,45-54,0,2004,Liverfluke
-Zone 4,45-54,0,2004,Liverfluke
+Zone:4,45-54,0,2004,Liverfluke
 Ang Thong,45-54,0,2004,Liverfluke
 Nonthaburi,45-54,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,45-54,0,2004,Liverfluke
 Pathum Thani,45-54,0,2004,Liverfluke
-Zone 5,45-54,0,2004,Liverfluke
+Zone:5,45-54,0,2004,Liverfluke
 Chai Nat,45-54,0,2004,Liverfluke
 Lop Buri,45-54,0,2004,Liverfluke
 Saraburi,45-54,0,2004,Liverfluke
 Sing Buri,45-54,0,2004,Liverfluke
-Zone 6,45-54,0,2004,Liverfluke
+Zone:6,45-54,0,2004,Liverfluke
 Kanchanaburi,45-54,0,2004,Liverfluke
 Nakhon Pathom,45-54,0,2004,Liverfluke
 Ratchaburi,45-54,0,2004,Liverfluke
 Suphan Buri,45-54,0,2004,Liverfluke
-Zone 7,45-54,0,2004,Liverfluke
+Zone:7,45-54,0,2004,Liverfluke
 Phetchaburi,45-54,0,2004,Liverfluke
 Prachuap Khiri Khan,45-54,0,2004,Liverfluke
 Samut Sakhon,45-54,0,2004,Liverfluke
 Samut Songkhram,45-54,0,2004,Liverfluke
-Zone 8,45-54,0,2004,Liverfluke
+Zone:8,45-54,0,2004,Liverfluke
 Chachoengsao,45-54,0,2004,Liverfluke
 Nakhon Nayok,45-54,0,2004,Liverfluke
 Prachin Buri,45-54,0,2004,Liverfluke
 Sa Kaeo,45-54,0,2004,Liverfluke
 Samut Prakan,45-54,0,2004,Liverfluke
-Zone 9,45-54,0,2004,Liverfluke
+Zone:9,45-54,0,2004,Liverfluke
 Chanthaburi,45-54,0,2004,Liverfluke
 Chon Buri,45-54,0,2004,Liverfluke
 Rayong,45-54,0,2004,Liverfluke
 Trat,45-54,0,2004,Liverfluke
 North-Eastern Region,45-54,148,2004,Liverfluke
-Zone 10,45-54,0,2004,Liverfluke
+Zone:10,45-54,0,2004,Liverfluke
 Loei,45-54,0,2004,Liverfluke
 Nong Bua Lam Phu,45-54,0,2004,Liverfluke
 Nong Khai,45-54,0,2004,Liverfluke
 Udon Thani,45-54,0,2004,Liverfluke
-Zone 11,45-54,133,2004,Liverfluke
+Zone:11,45-54,133,2004,Liverfluke
 Kalasin,45-54,4,2004,Liverfluke
 Mukdahan,45-54,1,2004,Liverfluke
 Nakhon Phanom,45-54,0,2004,Liverfluke
 Sakon Nakhon,45-54,128,2004,Liverfluke
-Zone 12,45-54,1,2004,Liverfluke
+Zone:12,45-54,1,2004,Liverfluke
 Khon Kaen,45-54,1,2004,Liverfluke
 Maha Sarakham,45-54,0,2004,Liverfluke
 Roi Et,45-54,0,2004,Liverfluke
-Zone 13,45-54,6,2004,Liverfluke
+Zone:13,45-54,6,2004,Liverfluke
 Buri Ram,45-54,5,2004,Liverfluke
 Chaiyaphum,45-54,0,2004,Liverfluke
 Nakhon Ratchasima,45-54,1,2004,Liverfluke
 Surin,45-54,0,2004,Liverfluke
-Zone 14,45-54,8,2004,Liverfluke
+Zone:14,45-54,8,2004,Liverfluke
 Amnat Charoen,45-54,7,2004,Liverfluke
 Si Sa Ket,45-54,0,2004,Liverfluke
 Ubon Ratchathani,45-54,0,2004,Liverfluke
 Yasothon,45-54,1,2004,Liverfluke
 South Region,45-54,0,2004,Liverfluke
-Zone 15,45-54,0,2004,Liverfluke
+Zone:15,45-54,0,2004,Liverfluke
 Chumphon,45-54,0,2004,Liverfluke
 Ranong,45-54,0,2004,Liverfluke
 Surat Thani,45-54,0,2004,Liverfluke
-Zone 16,45-54,0,2004,Liverfluke
+Zone:16,45-54,0,2004,Liverfluke
 Nakhon Si Thammarat,45-54,0,2004,Liverfluke
 Phatthalung,45-54,0,2004,Liverfluke
 Trang,45-54,0,2004,Liverfluke
-Zone 17,45-54,0,2004,Liverfluke
+Zone:17,45-54,0,2004,Liverfluke
 Krabi,45-54,0,2004,Liverfluke
 Phangnga,45-54,0,2004,Liverfluke
 Phuket,45-54,0,2004,Liverfluke
-Zone 18,45-54,0,2004,Liverfluke
+Zone:18,45-54,0,2004,Liverfluke
 Narathiwat,45-54,0,2004,Liverfluke
 Pattani,45-54,0,2004,Liverfluke
 Yala,45-54,0,2004,Liverfluke
-Zone 19,45-54,0,2004,Liverfluke
+Zone:19,45-54,0,2004,Liverfluke
 Satun,45-54,0,2004,Liverfluke
 Songkhla,45-54,0,2004,Liverfluke
 Total,55-64,124,2004,Liverfluke
 North Region,55-64,23,2004,Liverfluke
-Zone 1,55-64,22,2004,Liverfluke
+Zone:1,55-64,22,2004,Liverfluke
 Chiang Mai,55-64,4,2004,Liverfluke
 Chiang Rai,55-64,0,2004,Liverfluke
 Lampang,55-64,4,2004,Liverfluke
@@ -8206,98 +8206,98 @@ Mae Hong Son,55-64,0,2004,Liverfluke
 Nan,55-64,0,2004,Liverfluke
 Phayao,55-64,0,2004,Liverfluke
 Phrae,55-64,0,2004,Liverfluke
-Zone 2,55-64,0,2004,Liverfluke
+Zone:2,55-64,0,2004,Liverfluke
 Phetchabun,55-64,0,2004,Liverfluke
 Phitsanulok,55-64,0,2004,Liverfluke
 Sukhothai,55-64,0,2004,Liverfluke
 Tak,55-64,0,2004,Liverfluke
 Uttaradit,55-64,0,2004,Liverfluke
-Zone 3,55-64,1,2004,Liverfluke
+Zone:3,55-64,1,2004,Liverfluke
 Kamphaeng Phet,55-64,0,2004,Liverfluke
 Nakhon Sawan,55-64,1,2004,Liverfluke
 Phichit,55-64,0,2004,Liverfluke
 Uthai Thani,55-64,0,2004,Liverfluke
 Central Region,55-64,0,2004,Liverfluke
 Bangkok,55-64,0,2004,Liverfluke
-Zone 4,55-64,0,2004,Liverfluke
+Zone:4,55-64,0,2004,Liverfluke
 Ang Thong,55-64,0,2004,Liverfluke
 Nonthaburi,55-64,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,55-64,0,2004,Liverfluke
 Pathum Thani,55-64,0,2004,Liverfluke
-Zone 5,55-64,0,2004,Liverfluke
+Zone:5,55-64,0,2004,Liverfluke
 Chai Nat,55-64,0,2004,Liverfluke
 Lop Buri,55-64,0,2004,Liverfluke
 Saraburi,55-64,0,2004,Liverfluke
 Sing Buri,55-64,0,2004,Liverfluke
-Zone 6,55-64,0,2004,Liverfluke
+Zone:6,55-64,0,2004,Liverfluke
 Kanchanaburi,55-64,0,2004,Liverfluke
 Nakhon Pathom,55-64,0,2004,Liverfluke
 Ratchaburi,55-64,0,2004,Liverfluke
 Suphan Buri,55-64,0,2004,Liverfluke
-Zone 7,55-64,0,2004,Liverfluke
+Zone:7,55-64,0,2004,Liverfluke
 Phetchaburi,55-64,0,2004,Liverfluke
 Prachuap Khiri Khan,55-64,0,2004,Liverfluke
 Samut Sakhon,55-64,0,2004,Liverfluke
 Samut Songkhram,55-64,0,2004,Liverfluke
-Zone 8,55-64,0,2004,Liverfluke
+Zone:8,55-64,0,2004,Liverfluke
 Chachoengsao,55-64,0,2004,Liverfluke
 Nakhon Nayok,55-64,0,2004,Liverfluke
 Prachin Buri,55-64,0,2004,Liverfluke
 Sa Kaeo,55-64,0,2004,Liverfluke
 Samut Prakan,55-64,0,2004,Liverfluke
-Zone 9,55-64,0,2004,Liverfluke
+Zone:9,55-64,0,2004,Liverfluke
 Chanthaburi,55-64,0,2004,Liverfluke
 Chon Buri,55-64,0,2004,Liverfluke
 Rayong,55-64,0,2004,Liverfluke
 Trat,55-64,0,2004,Liverfluke
 North-Eastern Region,55-64,101,2004,Liverfluke
-Zone 10,55-64,0,2004,Liverfluke
+Zone:10,55-64,0,2004,Liverfluke
 Loei,55-64,0,2004,Liverfluke
 Nong Bua Lam Phu,55-64,0,2004,Liverfluke
 Nong Khai,55-64,0,2004,Liverfluke
 Udon Thani,55-64,0,2004,Liverfluke
-Zone 11,55-64,90,2004,Liverfluke
+Zone:11,55-64,90,2004,Liverfluke
 Kalasin,55-64,0,2004,Liverfluke
 Mukdahan,55-64,0,2004,Liverfluke
 Nakhon Phanom,55-64,0,2004,Liverfluke
 Sakon Nakhon,55-64,90,2004,Liverfluke
-Zone 12,55-64,1,2004,Liverfluke
+Zone:12,55-64,1,2004,Liverfluke
 Khon Kaen,55-64,1,2004,Liverfluke
 Maha Sarakham,55-64,0,2004,Liverfluke
 Roi Et,55-64,0,2004,Liverfluke
-Zone 13,55-64,7,2004,Liverfluke
+Zone:13,55-64,7,2004,Liverfluke
 Buri Ram,55-64,5,2004,Liverfluke
 Chaiyaphum,55-64,0,2004,Liverfluke
 Nakhon Ratchasima,55-64,2,2004,Liverfluke
 Surin,55-64,0,2004,Liverfluke
-Zone 14,55-64,3,2004,Liverfluke
+Zone:14,55-64,3,2004,Liverfluke
 Amnat Charoen,55-64,3,2004,Liverfluke
 Si Sa Ket,55-64,0,2004,Liverfluke
 Ubon Ratchathani,55-64,0,2004,Liverfluke
 Yasothon,55-64,0,2004,Liverfluke
 South Region,55-64,0,2004,Liverfluke
-Zone 15,55-64,0,2004,Liverfluke
+Zone:15,55-64,0,2004,Liverfluke
 Chumphon,55-64,0,2004,Liverfluke
 Ranong,55-64,0,2004,Liverfluke
 Surat Thani,55-64,0,2004,Liverfluke
-Zone 16,55-64,0,2004,Liverfluke
+Zone:16,55-64,0,2004,Liverfluke
 Nakhon Si Thammarat,55-64,0,2004,Liverfluke
 Phatthalung,55-64,0,2004,Liverfluke
 Trang,55-64,0,2004,Liverfluke
-Zone 17,55-64,0,2004,Liverfluke
+Zone:17,55-64,0,2004,Liverfluke
 Krabi,55-64,0,2004,Liverfluke
 Phangnga,55-64,0,2004,Liverfluke
 Phuket,55-64,0,2004,Liverfluke
-Zone 18,55-64,0,2004,Liverfluke
+Zone:18,55-64,0,2004,Liverfluke
 Narathiwat,55-64,0,2004,Liverfluke
 Pattani,55-64,0,2004,Liverfluke
 Yala,55-64,0,2004,Liverfluke
-Zone 19,55-64,0,2004,Liverfluke
+Zone:19,55-64,0,2004,Liverfluke
 Satun,55-64,0,2004,Liverfluke
 Songkhla,55-64,0,2004,Liverfluke
 Total,65+,74,2004,Liverfluke
 North Region,65+,20,2004,Liverfluke
-Zone 1,65+,18,2004,Liverfluke
+Zone:1,65+,18,2004,Liverfluke
 Chiang Mai,65+,6,2004,Liverfluke
 Chiang Rai,65+,0,2004,Liverfluke
 Lampang,65+,5,2004,Liverfluke
@@ -8306,98 +8306,98 @@ Mae Hong Son,65+,0,2004,Liverfluke
 Nan,65+,0,2004,Liverfluke
 Phayao,65+,0,2004,Liverfluke
 Phrae,65+,0,2004,Liverfluke
-Zone 2,65+,0,2004,Liverfluke
+Zone:2,65+,0,2004,Liverfluke
 Phetchabun,65+,0,2004,Liverfluke
 Phitsanulok,65+,0,2004,Liverfluke
 Sukhothai,65+,0,2004,Liverfluke
 Tak,65+,0,2004,Liverfluke
 Uttaradit,65+,0,2004,Liverfluke
-Zone 3,65+,2,2004,Liverfluke
+Zone:3,65+,2,2004,Liverfluke
 Kamphaeng Phet,65+,0,2004,Liverfluke
 Nakhon Sawan,65+,2,2004,Liverfluke
 Phichit,65+,0,2004,Liverfluke
 Uthai Thani,65+,0,2004,Liverfluke
 Central Region,65+,0,2004,Liverfluke
 Bangkok,65+,0,2004,Liverfluke
-Zone 4,65+,0,2004,Liverfluke
+Zone:4,65+,0,2004,Liverfluke
 Ang Thong,65+,0,2004,Liverfluke
 Nonthaburi,65+,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,65+,0,2004,Liverfluke
 Pathum Thani,65+,0,2004,Liverfluke
-Zone 5,65+,0,2004,Liverfluke
+Zone:5,65+,0,2004,Liverfluke
 Chai Nat,65+,0,2004,Liverfluke
 Lop Buri,65+,0,2004,Liverfluke
 Saraburi,65+,0,2004,Liverfluke
 Sing Buri,65+,0,2004,Liverfluke
-Zone 6,65+,0,2004,Liverfluke
+Zone:6,65+,0,2004,Liverfluke
 Kanchanaburi,65+,0,2004,Liverfluke
 Nakhon Pathom,65+,0,2004,Liverfluke
 Ratchaburi,65+,0,2004,Liverfluke
 Suphan Buri,65+,0,2004,Liverfluke
-Zone 7,65+,0,2004,Liverfluke
+Zone:7,65+,0,2004,Liverfluke
 Phetchaburi,65+,0,2004,Liverfluke
 Prachuap Khiri Khan,65+,0,2004,Liverfluke
 Samut Sakhon,65+,0,2004,Liverfluke
 Samut Songkhram,65+,0,2004,Liverfluke
-Zone 8,65+,0,2004,Liverfluke
+Zone:8,65+,0,2004,Liverfluke
 Chachoengsao,65+,0,2004,Liverfluke
 Nakhon Nayok,65+,0,2004,Liverfluke
 Prachin Buri,65+,0,2004,Liverfluke
 Sa Kaeo,65+,0,2004,Liverfluke
 Samut Prakan,65+,0,2004,Liverfluke
-Zone 9,65+,0,2004,Liverfluke
+Zone:9,65+,0,2004,Liverfluke
 Chanthaburi,65+,0,2004,Liverfluke
 Chon Buri,65+,0,2004,Liverfluke
 Rayong,65+,0,2004,Liverfluke
 Trat,65+,0,2004,Liverfluke
 North-Eastern Region,65+,54,2004,Liverfluke
-Zone 10,65+,1,2004,Liverfluke
+Zone:10,65+,1,2004,Liverfluke
 Loei,65+,0,2004,Liverfluke
 Nong Bua Lam Phu,65+,0,2004,Liverfluke
 Nong Khai,65+,0,2004,Liverfluke
 Udon Thani,65+,1,2004,Liverfluke
-Zone 11,65+,49,2004,Liverfluke
+Zone:11,65+,49,2004,Liverfluke
 Kalasin,65+,1,2004,Liverfluke
 Mukdahan,65+,0,2004,Liverfluke
 Nakhon Phanom,65+,0,2004,Liverfluke
 Sakon Nakhon,65+,48,2004,Liverfluke
-Zone 12,65+,0,2004,Liverfluke
+Zone:12,65+,0,2004,Liverfluke
 Khon Kaen,65+,0,2004,Liverfluke
 Maha Sarakham,65+,0,2004,Liverfluke
 Roi Et,65+,0,2004,Liverfluke
-Zone 13,65+,1,2004,Liverfluke
+Zone:13,65+,1,2004,Liverfluke
 Buri Ram,65+,0,2004,Liverfluke
 Chaiyaphum,65+,0,2004,Liverfluke
 Nakhon Ratchasima,65+,1,2004,Liverfluke
 Surin,65+,0,2004,Liverfluke
-Zone 14,65+,3,2004,Liverfluke
+Zone:14,65+,3,2004,Liverfluke
 Amnat Charoen,65+,3,2004,Liverfluke
 Si Sa Ket,65+,0,2004,Liverfluke
 Ubon Ratchathani,65+,0,2004,Liverfluke
 Yasothon,65+,0,2004,Liverfluke
 South Region,65+,0,2004,Liverfluke
-Zone 15,65+,0,2004,Liverfluke
+Zone:15,65+,0,2004,Liverfluke
 Chumphon,65+,0,2004,Liverfluke
 Ranong,65+,0,2004,Liverfluke
 Surat Thani,65+,0,2004,Liverfluke
-Zone 16,65+,0,2004,Liverfluke
+Zone:16,65+,0,2004,Liverfluke
 Nakhon Si Thammarat,65+,0,2004,Liverfluke
 Phatthalung,65+,0,2004,Liverfluke
 Trang,65+,0,2004,Liverfluke
-Zone 17,65+,0,2004,Liverfluke
+Zone:17,65+,0,2004,Liverfluke
 Krabi,65+,0,2004,Liverfluke
 Phangnga,65+,0,2004,Liverfluke
 Phuket,65+,0,2004,Liverfluke
-Zone 18,65+,0,2004,Liverfluke
+Zone:18,65+,0,2004,Liverfluke
 Narathiwat,65+,0,2004,Liverfluke
 Pattani,65+,0,2004,Liverfluke
 Yala,65+,0,2004,Liverfluke
-Zone 19,65+,0,2004,Liverfluke
+Zone:19,65+,0,2004,Liverfluke
 Satun,65+,0,2004,Liverfluke
 Songkhla,65+,0,2004,Liverfluke
 Total,Unknown,1,2004,Liverfluke
 North Region,Unknown,0,2004,Liverfluke
-Zone 1,Unknown,0,2004,Liverfluke
+Zone:1,Unknown,0,2004,Liverfluke
 Chiang Mai,Unknown,0,2004,Liverfluke
 Chiang Rai,Unknown,0,2004,Liverfluke
 Lampang,Unknown,0,2004,Liverfluke
@@ -8406,93 +8406,93 @@ Mae Hong Son,Unknown,0,2004,Liverfluke
 Nan,Unknown,0,2004,Liverfluke
 Phayao,Unknown,0,2004,Liverfluke
 Phrae,Unknown,0,2004,Liverfluke
-Zone 2,Unknown,0,2004,Liverfluke
+Zone:2,Unknown,0,2004,Liverfluke
 Phetchabun,Unknown,0,2004,Liverfluke
 Phitsanulok,Unknown,0,2004,Liverfluke
 Sukhothai,Unknown,0,2004,Liverfluke
 Tak,Unknown,0,2004,Liverfluke
 Uttaradit,Unknown,0,2004,Liverfluke
-Zone 3,Unknown,0,2004,Liverfluke
+Zone:3,Unknown,0,2004,Liverfluke
 Kamphaeng Phet,Unknown,0,2004,Liverfluke
 Nakhon Sawan,Unknown,0,2004,Liverfluke
 Phichit,Unknown,0,2004,Liverfluke
 Uthai Thani,Unknown,0,2004,Liverfluke
 Central Region,Unknown,0,2004,Liverfluke
 Bangkok,Unknown,0,2004,Liverfluke
-Zone 4,Unknown,0,2004,Liverfluke
+Zone:4,Unknown,0,2004,Liverfluke
 Ang Thong,Unknown,0,2004,Liverfluke
 Nonthaburi,Unknown,0,2004,Liverfluke
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Liverfluke
 Pathum Thani,Unknown,0,2004,Liverfluke
-Zone 5,Unknown,0,2004,Liverfluke
+Zone:5,Unknown,0,2004,Liverfluke
 Chai Nat,Unknown,0,2004,Liverfluke
 Lop Buri,Unknown,0,2004,Liverfluke
 Saraburi,Unknown,0,2004,Liverfluke
 Sing Buri,Unknown,0,2004,Liverfluke
-Zone 6,Unknown,0,2004,Liverfluke
+Zone:6,Unknown,0,2004,Liverfluke
 Kanchanaburi,Unknown,0,2004,Liverfluke
 Nakhon Pathom,Unknown,0,2004,Liverfluke
 Ratchaburi,Unknown,0,2004,Liverfluke
 Suphan Buri,Unknown,0,2004,Liverfluke
-Zone 7,Unknown,0,2004,Liverfluke
+Zone:7,Unknown,0,2004,Liverfluke
 Phetchaburi,Unknown,0,2004,Liverfluke
 Prachuap Khiri Khan,Unknown,0,2004,Liverfluke
 Samut Sakhon,Unknown,0,2004,Liverfluke
 Samut Songkhram,Unknown,0,2004,Liverfluke
-Zone 8,Unknown,0,2004,Liverfluke
+Zone:8,Unknown,0,2004,Liverfluke
 Chachoengsao,Unknown,0,2004,Liverfluke
 Nakhon Nayok,Unknown,0,2004,Liverfluke
 Prachin Buri,Unknown,0,2004,Liverfluke
 Sa Kaeo,Unknown,0,2004,Liverfluke
 Samut Prakan,Unknown,0,2004,Liverfluke
-Zone 9,Unknown,0,2004,Liverfluke
+Zone:9,Unknown,0,2004,Liverfluke
 Chanthaburi,Unknown,0,2004,Liverfluke
 Chon Buri,Unknown,0,2004,Liverfluke
 Rayong,Unknown,0,2004,Liverfluke
 Trat,Unknown,0,2004,Liverfluke
 North-Eastern Region,Unknown,1,2004,Liverfluke
-Zone 10,Unknown,1,2004,Liverfluke
+Zone:10,Unknown,1,2004,Liverfluke
 Loei,Unknown,0,2004,Liverfluke
 Nong Bua Lam Phu,Unknown,0,2004,Liverfluke
 Nong Khai,Unknown,0,2004,Liverfluke
 Udon Thani,Unknown,1,2004,Liverfluke
-Zone 11,Unknown,0,2004,Liverfluke
+Zone:11,Unknown,0,2004,Liverfluke
 Kalasin,Unknown,0,2004,Liverfluke
 Mukdahan,Unknown,0,2004,Liverfluke
 Nakhon Phanom,Unknown,0,2004,Liverfluke
 Sakon Nakhon,Unknown,0,2004,Liverfluke
-Zone 12,Unknown,0,2004,Liverfluke
+Zone:12,Unknown,0,2004,Liverfluke
 Khon Kaen,Unknown,0,2004,Liverfluke
 Maha Sarakham,Unknown,0,2004,Liverfluke
 Roi Et,Unknown,0,2004,Liverfluke
-Zone 13,Unknown,0,2004,Liverfluke
+Zone:13,Unknown,0,2004,Liverfluke
 Buri Ram,Unknown,0,2004,Liverfluke
 Chaiyaphum,Unknown,0,2004,Liverfluke
 Nakhon Ratchasima,Unknown,0,2004,Liverfluke
 Surin,Unknown,0,2004,Liverfluke
-Zone 14,Unknown,0,2004,Liverfluke
+Zone:14,Unknown,0,2004,Liverfluke
 Amnat Charoen,Unknown,0,2004,Liverfluke
 Si Sa Ket,Unknown,0,2004,Liverfluke
 Ubon Ratchathani,Unknown,0,2004,Liverfluke
 Yasothon,Unknown,0,2004,Liverfluke
 South Region,Unknown,0,2004,Liverfluke
-Zone 15,Unknown,0,2004,Liverfluke
+Zone:15,Unknown,0,2004,Liverfluke
 Chumphon,Unknown,0,2004,Liverfluke
 Ranong,Unknown,0,2004,Liverfluke
 Surat Thani,Unknown,0,2004,Liverfluke
-Zone 16,Unknown,0,2004,Liverfluke
+Zone:16,Unknown,0,2004,Liverfluke
 Nakhon Si Thammarat,Unknown,0,2004,Liverfluke
 Phatthalung,Unknown,0,2004,Liverfluke
 Trang,Unknown,0,2004,Liverfluke
-Zone 17,Unknown,0,2004,Liverfluke
+Zone:17,Unknown,0,2004,Liverfluke
 Krabi,Unknown,0,2004,Liverfluke
 Phangnga,Unknown,0,2004,Liverfluke
 Phuket,Unknown,0,2004,Liverfluke
-Zone 18,Unknown,0,2004,Liverfluke
+Zone:18,Unknown,0,2004,Liverfluke
 Narathiwat,Unknown,0,2004,Liverfluke
 Pattani,Unknown,0,2004,Liverfluke
 Yala,Unknown,0,2004,Liverfluke
-Zone 19,Unknown,0,2004,Liverfluke
+Zone:19,Unknown,0,2004,Liverfluke
 Satun,Unknown,0,2004,Liverfluke
 Songkhla,Unknown,0,2004,Liverfluke
 Total,Total,615,2007,Liverfluke
@@ -17191,7 +17191,7 @@ ZONE:13,Unknown,0,2017,Liverfluke
 Bangkok,Unknown,0,2017,Liverfluke
 Total,Total,995,2003,Liverfluke
 North Region,Total,27,2003,Liverfluke
-Zone 1,Total,21,2003,Liverfluke
+Zone:1,Total,21,2003,Liverfluke
 Chiang Mai,Total,0,2003,Liverfluke
 Chiang Rai,Total,7,2003,Liverfluke
 Lampang,Total,12,2003,Liverfluke
@@ -17200,98 +17200,98 @@ Mae Hong Son,Total,0,2003,Liverfluke
 Nan,Total,2,2003,Liverfluke
 Phayao,Total,0,2003,Liverfluke
 Phrae,Total,0,2003,Liverfluke
-Zone 2,Total,1,2003,Liverfluke
+Zone:2,Total,1,2003,Liverfluke
 Phetchabun,Total,0,2003,Liverfluke
 Phitsanulok,Total,0,2003,Liverfluke
 Sukhothai,Total,1,2003,Liverfluke
 Tak,Total,0,2003,Liverfluke
 Uttaradit,Total,0,2003,Liverfluke
-Zone 3,Total,5,2003,Liverfluke
+Zone:3,Total,5,2003,Liverfluke
 Kamphaeng Phet,Total,0,2003,Liverfluke
 Nakhon Sawan,Total,5,2003,Liverfluke
 Phichit,Total,0,2003,Liverfluke
 Uthai Thani,Total,0,2003,Liverfluke
 Central Region,Total,0,2003,Liverfluke
 Bangkok,Total,0,2003,Liverfluke
-Zone 4,Total,0,2003,Liverfluke
+Zone:4,Total,0,2003,Liverfluke
 Ang Thong,Total,0,2003,Liverfluke
 Nonthaburi,Total,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,Total,0,2003,Liverfluke
 Pathum Thani,Total,0,2003,Liverfluke
-Zone 5,Total,0,2003,Liverfluke
+Zone:5,Total,0,2003,Liverfluke
 Chai Nat,Total,0,2003,Liverfluke
 Lop Buri,Total,0,2003,Liverfluke
 Saraburi,Total,0,2003,Liverfluke
 Sing Buri,Total,0,2003,Liverfluke
-Zone 6,Total,0,2003,Liverfluke
+Zone:6,Total,0,2003,Liverfluke
 Kanchanaburi,Total,0,2003,Liverfluke
 Nakhon Pathom,Total,0,2003,Liverfluke
 Ratchaburi,Total,0,2003,Liverfluke
 Suphan Buri,Total,0,2003,Liverfluke
-Zone 7,Total,0,2003,Liverfluke
+Zone:7,Total,0,2003,Liverfluke
 Phetchaburi,Total,0,2003,Liverfluke
 Prachuap Khiri Khan,Total,0,2003,Liverfluke
 Samut Sakhon,Total,0,2003,Liverfluke
 Samut Songkhram,Total,0,2003,Liverfluke
-Zone 8,Total,0,2003,Liverfluke
+Zone:8,Total,0,2003,Liverfluke
 Chachoengsao,Total,0,2003,Liverfluke
 Nakhon Nayok,Total,0,2003,Liverfluke
 Prachin Buri,Total,0,2003,Liverfluke
 Sa Kaeo,Total,0,2003,Liverfluke
 Samut Prakan,Total,0,2003,Liverfluke
-Zone 9,Total,0,2003,Liverfluke
+Zone:9,Total,0,2003,Liverfluke
 Chanthaburi,Total,0,2003,Liverfluke
 Chon Buri,Total,0,2003,Liverfluke
 Rayong,Total,0,2003,Liverfluke
 Trat,Total,0,2003,Liverfluke
 North-Eastern Region,Total,967,2003,Liverfluke
-Zone 10,Total,3,2003,Liverfluke
+Zone:10,Total,3,2003,Liverfluke
 Loei,Total,1,2003,Liverfluke
 Nong Bua Lam Phu,Total,1,2003,Liverfluke
 Nong Khai,Total,0,2003,Liverfluke
 Udon Thani,Total,1,2003,Liverfluke
-Zone 11,Total,673,2003,Liverfluke
+Zone:11,Total,673,2003,Liverfluke
 Kalasin,Total,1,2003,Liverfluke
 Mukdahan,Total,2,2003,Liverfluke
 Nakhon Phanom,Total,0,2003,Liverfluke
 Sakon Nakhon,Total,670,2003,Liverfluke
-Zone 12,Total,1,2003,Liverfluke
+Zone:12,Total,1,2003,Liverfluke
 Khon Kaen,Total,1,2003,Liverfluke
 Maha Sarakham,Total,0,2003,Liverfluke
 Roi Et,Total,0,2003,Liverfluke
-Zone 13,Total,4,2003,Liverfluke
+Zone:13,Total,4,2003,Liverfluke
 Buri Ram,Total,0,2003,Liverfluke
 Chaiyaphum,Total,0,2003,Liverfluke
 Nakhon Ratchasima,Total,4,2003,Liverfluke
 Surin,Total,0,2003,Liverfluke
-Zone 14,Total,286,2003,Liverfluke
+Zone:14,Total,286,2003,Liverfluke
 Amnat Charoen,Total,86,2003,Liverfluke
 Si Sa Ket,Total,0,2003,Liverfluke
 Ubon Ratchathani,Total,0,2003,Liverfluke
 Yasothon,Total,200,2003,Liverfluke
 South Region,Total,1,2003,Liverfluke
-Zone 15,Total,0,2003,Liverfluke
+Zone:15,Total,0,2003,Liverfluke
 Chumphon,Total,0,2003,Liverfluke
 Ranong,Total,0,2003,Liverfluke
 Surat Thani,Total,0,2003,Liverfluke
-Zone 16,Total,0,2003,Liverfluke
+Zone:16,Total,0,2003,Liverfluke
 Nakhon Si Thammarat,Total,0,2003,Liverfluke
 Phatthalung,Total,0,2003,Liverfluke
 Trang,Total,0,2003,Liverfluke
-Zone 17,Total,1,2003,Liverfluke
+Zone:17,Total,1,2003,Liverfluke
 Krabi,Total,0,2003,Liverfluke
 Phangnga,Total,0,2003,Liverfluke
 Phuket,Total,1,2003,Liverfluke
-Zone 18,Total,0,2003,Liverfluke
+Zone:18,Total,0,2003,Liverfluke
 Narathiwat,Total,0,2003,Liverfluke
 Pattani,Total,0,2003,Liverfluke
 Yala,Total,0,2003,Liverfluke
-Zone 19,Total,0,2003,Liverfluke
+Zone:19,Total,0,2003,Liverfluke
 Satun,Total,0,2003,Liverfluke
 Songkhla,Total,0,2003,Liverfluke
 Total,0,0,2003,Liverfluke
 North Region,0,0,2003,Liverfluke
-Zone 1,0,0,2003,Liverfluke
+Zone:1,0,0,2003,Liverfluke
 Chiang Mai,0,0,2003,Liverfluke
 Chiang Rai,0,0,2003,Liverfluke
 Lampang,0,0,2003,Liverfluke
@@ -17300,98 +17300,98 @@ Mae Hong Son,0,0,2003,Liverfluke
 Nan,0,0,2003,Liverfluke
 Phayao,0,0,2003,Liverfluke
 Phrae,0,0,2003,Liverfluke
-Zone 2,0,0,2003,Liverfluke
+Zone:2,0,0,2003,Liverfluke
 Phetchabun,0,0,2003,Liverfluke
 Phitsanulok,0,0,2003,Liverfluke
 Sukhothai,0,0,2003,Liverfluke
 Tak,0,0,2003,Liverfluke
 Uttaradit,0,0,2003,Liverfluke
-Zone 3,0,0,2003,Liverfluke
+Zone:3,0,0,2003,Liverfluke
 Kamphaeng Phet,0,0,2003,Liverfluke
 Nakhon Sawan,0,0,2003,Liverfluke
 Phichit,0,0,2003,Liverfluke
 Uthai Thani,0,0,2003,Liverfluke
 Central Region,0,0,2003,Liverfluke
 Bangkok,0,0,2003,Liverfluke
-Zone 4,0,0,2003,Liverfluke
+Zone:4,0,0,2003,Liverfluke
 Ang Thong,0,0,2003,Liverfluke
 Nonthaburi,0,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,0,0,2003,Liverfluke
 Pathum Thani,0,0,2003,Liverfluke
-Zone 5,0,0,2003,Liverfluke
+Zone:5,0,0,2003,Liverfluke
 Chai Nat,0,0,2003,Liverfluke
 Lop Buri,0,0,2003,Liverfluke
 Saraburi,0,0,2003,Liverfluke
 Sing Buri,0,0,2003,Liverfluke
-Zone 6,0,0,2003,Liverfluke
+Zone:6,0,0,2003,Liverfluke
 Kanchanaburi,0,0,2003,Liverfluke
 Nakhon Pathom,0,0,2003,Liverfluke
 Ratchaburi,0,0,2003,Liverfluke
 Suphan Buri,0,0,2003,Liverfluke
-Zone 7,0,0,2003,Liverfluke
+Zone:7,0,0,2003,Liverfluke
 Phetchaburi,0,0,2003,Liverfluke
 Prachuap Khiri Khan,0,0,2003,Liverfluke
 Samut Sakhon,0,0,2003,Liverfluke
 Samut Songkhram,0,0,2003,Liverfluke
-Zone 8,0,0,2003,Liverfluke
+Zone:8,0,0,2003,Liverfluke
 Chachoengsao,0,0,2003,Liverfluke
 Nakhon Nayok,0,0,2003,Liverfluke
 Prachin Buri,0,0,2003,Liverfluke
 Sa Kaeo,0,0,2003,Liverfluke
 Samut Prakan,0,0,2003,Liverfluke
-Zone 9,0,0,2003,Liverfluke
+Zone:9,0,0,2003,Liverfluke
 Chanthaburi,0,0,2003,Liverfluke
 Chon Buri,0,0,2003,Liverfluke
 Rayong,0,0,2003,Liverfluke
 Trat,0,0,2003,Liverfluke
 North-Eastern Region,0,0,2003,Liverfluke
-Zone 10,0,0,2003,Liverfluke
+Zone:10,0,0,2003,Liverfluke
 Loei,0,0,2003,Liverfluke
 Nong Bua Lam Phu,0,0,2003,Liverfluke
 Nong Khai,0,0,2003,Liverfluke
 Udon Thani,0,0,2003,Liverfluke
-Zone 11,0,0,2003,Liverfluke
+Zone:11,0,0,2003,Liverfluke
 Kalasin,0,0,2003,Liverfluke
 Mukdahan,0,0,2003,Liverfluke
 Nakhon Phanom,0,0,2003,Liverfluke
 Sakon Nakhon,0,0,2003,Liverfluke
-Zone 12,0,0,2003,Liverfluke
+Zone:12,0,0,2003,Liverfluke
 Khon Kaen,0,0,2003,Liverfluke
 Maha Sarakham,0,0,2003,Liverfluke
 Roi Et,0,0,2003,Liverfluke
-Zone 13,0,0,2003,Liverfluke
+Zone:13,0,0,2003,Liverfluke
 Buri Ram,0,0,2003,Liverfluke
 Chaiyaphum,0,0,2003,Liverfluke
 Nakhon Ratchasima,0,0,2003,Liverfluke
 Surin,0,0,2003,Liverfluke
-Zone 14,0,0,2003,Liverfluke
+Zone:14,0,0,2003,Liverfluke
 Amnat Charoen,0,0,2003,Liverfluke
 Si Sa Ket,0,0,2003,Liverfluke
 Ubon Ratchathani,0,0,2003,Liverfluke
 Yasothon,0,0,2003,Liverfluke
 South Region,0,0,2003,Liverfluke
-Zone 15,0,0,2003,Liverfluke
+Zone:15,0,0,2003,Liverfluke
 Chumphon,0,0,2003,Liverfluke
 Ranong,0,0,2003,Liverfluke
 Surat Thani,0,0,2003,Liverfluke
-Zone 16,0,0,2003,Liverfluke
+Zone:16,0,0,2003,Liverfluke
 Nakhon Si Thammarat,0,0,2003,Liverfluke
 Phatthalung,0,0,2003,Liverfluke
 Trang,0,0,2003,Liverfluke
-Zone 17,0,0,2003,Liverfluke
+Zone:17,0,0,2003,Liverfluke
 Krabi,0,0,2003,Liverfluke
 Phangnga,0,0,2003,Liverfluke
 Phuket,0,0,2003,Liverfluke
-Zone 18,0,0,2003,Liverfluke
+Zone:18,0,0,2003,Liverfluke
 Narathiwat,0,0,2003,Liverfluke
 Pattani,0,0,2003,Liverfluke
 Yala,0,0,2003,Liverfluke
-Zone 19,0,0,2003,Liverfluke
+Zone:19,0,0,2003,Liverfluke
 Satun,0,0,2003,Liverfluke
 Songkhla,0,0,2003,Liverfluke
 Total,<1,13,2003,Liverfluke
 North Region,<1,1,2003,Liverfluke
-Zone 1,<1,1,2003,Liverfluke
+Zone:1,<1,1,2003,Liverfluke
 Chiang Mai,<1,0,2003,Liverfluke
 Chiang Rai,<1,1,2003,Liverfluke
 Lampang,<1,0,2003,Liverfluke
@@ -17400,98 +17400,98 @@ Mae Hong Son,<1,0,2003,Liverfluke
 Nan,<1,0,2003,Liverfluke
 Phayao,<1,0,2003,Liverfluke
 Phrae,<1,0,2003,Liverfluke
-Zone 2,<1,0,2003,Liverfluke
+Zone:2,<1,0,2003,Liverfluke
 Phetchabun,<1,0,2003,Liverfluke
 Phitsanulok,<1,0,2003,Liverfluke
 Sukhothai,<1,0,2003,Liverfluke
 Tak,<1,0,2003,Liverfluke
 Uttaradit,<1,0,2003,Liverfluke
-Zone 3,<1,0,2003,Liverfluke
+Zone:3,<1,0,2003,Liverfluke
 Kamphaeng Phet,<1,0,2003,Liverfluke
 Nakhon Sawan,<1,0,2003,Liverfluke
 Phichit,<1,0,2003,Liverfluke
 Uthai Thani,<1,0,2003,Liverfluke
 Central Region,<1,0,2003,Liverfluke
 Bangkok,<1,0,2003,Liverfluke
-Zone 4,<1,0,2003,Liverfluke
+Zone:4,<1,0,2003,Liverfluke
 Ang Thong,<1,0,2003,Liverfluke
 Nonthaburi,<1,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,<1,0,2003,Liverfluke
 Pathum Thani,<1,0,2003,Liverfluke
-Zone 5,<1,0,2003,Liverfluke
+Zone:5,<1,0,2003,Liverfluke
 Chai Nat,<1,0,2003,Liverfluke
 Lop Buri,<1,0,2003,Liverfluke
 Saraburi,<1,0,2003,Liverfluke
 Sing Buri,<1,0,2003,Liverfluke
-Zone 6,<1,0,2003,Liverfluke
+Zone:6,<1,0,2003,Liverfluke
 Kanchanaburi,<1,0,2003,Liverfluke
 Nakhon Pathom,<1,0,2003,Liverfluke
 Ratchaburi,<1,0,2003,Liverfluke
 Suphan Buri,<1,0,2003,Liverfluke
-Zone 7,<1,0,2003,Liverfluke
+Zone:7,<1,0,2003,Liverfluke
 Phetchaburi,<1,0,2003,Liverfluke
 Prachuap Khiri Khan,<1,0,2003,Liverfluke
 Samut Sakhon,<1,0,2003,Liverfluke
 Samut Songkhram,<1,0,2003,Liverfluke
-Zone 8,<1,0,2003,Liverfluke
+Zone:8,<1,0,2003,Liverfluke
 Chachoengsao,<1,0,2003,Liverfluke
 Nakhon Nayok,<1,0,2003,Liverfluke
 Prachin Buri,<1,0,2003,Liverfluke
 Sa Kaeo,<1,0,2003,Liverfluke
 Samut Prakan,<1,0,2003,Liverfluke
-Zone 9,<1,0,2003,Liverfluke
+Zone:9,<1,0,2003,Liverfluke
 Chanthaburi,<1,0,2003,Liverfluke
 Chon Buri,<1,0,2003,Liverfluke
 Rayong,<1,0,2003,Liverfluke
 Trat,<1,0,2003,Liverfluke
 North-Eastern Region,<1,12,2003,Liverfluke
-Zone 10,<1,0,2003,Liverfluke
+Zone:10,<1,0,2003,Liverfluke
 Loei,<1,0,2003,Liverfluke
 Nong Bua Lam Phu,<1,0,2003,Liverfluke
 Nong Khai,<1,0,2003,Liverfluke
 Udon Thani,<1,0,2003,Liverfluke
-Zone 11,<1,0,2003,Liverfluke
+Zone:11,<1,0,2003,Liverfluke
 Kalasin,<1,0,2003,Liverfluke
 Mukdahan,<1,0,2003,Liverfluke
 Nakhon Phanom,<1,0,2003,Liverfluke
 Sakon Nakhon,<1,0,2003,Liverfluke
-Zone 12,<1,0,2003,Liverfluke
+Zone:12,<1,0,2003,Liverfluke
 Khon Kaen,<1,0,2003,Liverfluke
 Maha Sarakham,<1,0,2003,Liverfluke
 Roi Et,<1,0,2003,Liverfluke
-Zone 13,<1,0,2003,Liverfluke
+Zone:13,<1,0,2003,Liverfluke
 Buri Ram,<1,0,2003,Liverfluke
 Chaiyaphum,<1,0,2003,Liverfluke
 Nakhon Ratchasima,<1,0,2003,Liverfluke
 Surin,<1,0,2003,Liverfluke
-Zone 14,<1,12,2003,Liverfluke
+Zone:14,<1,12,2003,Liverfluke
 Amnat Charoen,<1,12,2003,Liverfluke
 Si Sa Ket,<1,0,2003,Liverfluke
 Ubon Ratchathani,<1,0,2003,Liverfluke
 Yasothon,<1,0,2003,Liverfluke
 South Region,<1,0,2003,Liverfluke
-Zone 15,<1,0,2003,Liverfluke
+Zone:15,<1,0,2003,Liverfluke
 Chumphon,<1,0,2003,Liverfluke
 Ranong,<1,0,2003,Liverfluke
 Surat Thani,<1,0,2003,Liverfluke
-Zone 16,<1,0,2003,Liverfluke
+Zone:16,<1,0,2003,Liverfluke
 Nakhon Si Thammarat,<1,0,2003,Liverfluke
 Phatthalung,<1,0,2003,Liverfluke
 Trang,<1,0,2003,Liverfluke
-Zone 17,<1,0,2003,Liverfluke
+Zone:17,<1,0,2003,Liverfluke
 Krabi,<1,0,2003,Liverfluke
 Phangnga,<1,0,2003,Liverfluke
 Phuket,<1,0,2003,Liverfluke
-Zone 18,<1,0,2003,Liverfluke
+Zone:18,<1,0,2003,Liverfluke
 Narathiwat,<1,0,2003,Liverfluke
 Pattani,<1,0,2003,Liverfluke
 Yala,<1,0,2003,Liverfluke
-Zone 19,<1,0,2003,Liverfluke
+Zone:19,<1,0,2003,Liverfluke
 Satun,<1,0,2003,Liverfluke
 Songkhla,<1,0,2003,Liverfluke
 Total,1-1,27,2003,Liverfluke
 North Region,1-1,2,2003,Liverfluke
-Zone 1,1-1,2,2003,Liverfluke
+Zone:1,1-1,2,2003,Liverfluke
 Chiang Mai,1-1,0,2003,Liverfluke
 Chiang Rai,1-1,1,2003,Liverfluke
 Lampang,1-1,0,2003,Liverfluke
@@ -17500,98 +17500,98 @@ Mae Hong Son,1-1,0,2003,Liverfluke
 Nan,1-1,1,2003,Liverfluke
 Phayao,1-1,0,2003,Liverfluke
 Phrae,1-1,0,2003,Liverfluke
-Zone 2,1-1,0,2003,Liverfluke
+Zone:2,1-1,0,2003,Liverfluke
 Phetchabun,1-1,0,2003,Liverfluke
 Phitsanulok,1-1,0,2003,Liverfluke
 Sukhothai,1-1,0,2003,Liverfluke
 Tak,1-1,0,2003,Liverfluke
 Uttaradit,1-1,0,2003,Liverfluke
-Zone 3,1-1,0,2003,Liverfluke
+Zone:3,1-1,0,2003,Liverfluke
 Kamphaeng Phet,1-1,0,2003,Liverfluke
 Nakhon Sawan,1-1,0,2003,Liverfluke
 Phichit,1-1,0,2003,Liverfluke
 Uthai Thani,1-1,0,2003,Liverfluke
 Central Region,1-1,0,2003,Liverfluke
 Bangkok,1-1,0,2003,Liverfluke
-Zone 4,1-1,0,2003,Liverfluke
+Zone:4,1-1,0,2003,Liverfluke
 Ang Thong,1-1,0,2003,Liverfluke
 Nonthaburi,1-1,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,1-1,0,2003,Liverfluke
 Pathum Thani,1-1,0,2003,Liverfluke
-Zone 5,1-1,0,2003,Liverfluke
+Zone:5,1-1,0,2003,Liverfluke
 Chai Nat,1-1,0,2003,Liverfluke
 Lop Buri,1-1,0,2003,Liverfluke
 Saraburi,1-1,0,2003,Liverfluke
 Sing Buri,1-1,0,2003,Liverfluke
-Zone 6,1-1,0,2003,Liverfluke
+Zone:6,1-1,0,2003,Liverfluke
 Kanchanaburi,1-1,0,2003,Liverfluke
 Nakhon Pathom,1-1,0,2003,Liverfluke
 Ratchaburi,1-1,0,2003,Liverfluke
 Suphan Buri,1-1,0,2003,Liverfluke
-Zone 7,1-1,0,2003,Liverfluke
+Zone:7,1-1,0,2003,Liverfluke
 Phetchaburi,1-1,0,2003,Liverfluke
 Prachuap Khiri Khan,1-1,0,2003,Liverfluke
 Samut Sakhon,1-1,0,2003,Liverfluke
 Samut Songkhram,1-1,0,2003,Liverfluke
-Zone 8,1-1,0,2003,Liverfluke
+Zone:8,1-1,0,2003,Liverfluke
 Chachoengsao,1-1,0,2003,Liverfluke
 Nakhon Nayok,1-1,0,2003,Liverfluke
 Prachin Buri,1-1,0,2003,Liverfluke
 Sa Kaeo,1-1,0,2003,Liverfluke
 Samut Prakan,1-1,0,2003,Liverfluke
-Zone 9,1-1,0,2003,Liverfluke
+Zone:9,1-1,0,2003,Liverfluke
 Chanthaburi,1-1,0,2003,Liverfluke
 Chon Buri,1-1,0,2003,Liverfluke
 Rayong,1-1,0,2003,Liverfluke
 Trat,1-1,0,2003,Liverfluke
 North-Eastern Region,1-1,25,2003,Liverfluke
-Zone 10,1-1,0,2003,Liverfluke
+Zone:10,1-1,0,2003,Liverfluke
 Loei,1-1,0,2003,Liverfluke
 Nong Bua Lam Phu,1-1,0,2003,Liverfluke
 Nong Khai,1-1,0,2003,Liverfluke
 Udon Thani,1-1,0,2003,Liverfluke
-Zone 11,1-1,1,2003,Liverfluke
+Zone:11,1-1,1,2003,Liverfluke
 Kalasin,1-1,0,2003,Liverfluke
 Mukdahan,1-1,0,2003,Liverfluke
 Nakhon Phanom,1-1,0,2003,Liverfluke
 Sakon Nakhon,1-1,1,2003,Liverfluke
-Zone 12,1-1,0,2003,Liverfluke
+Zone:12,1-1,0,2003,Liverfluke
 Khon Kaen,1-1,0,2003,Liverfluke
 Maha Sarakham,1-1,0,2003,Liverfluke
 Roi Et,1-1,0,2003,Liverfluke
-Zone 13,1-1,0,2003,Liverfluke
+Zone:13,1-1,0,2003,Liverfluke
 Buri Ram,1-1,0,2003,Liverfluke
 Chaiyaphum,1-1,0,2003,Liverfluke
 Nakhon Ratchasima,1-1,0,2003,Liverfluke
 Surin,1-1,0,2003,Liverfluke
-Zone 14,1-1,24,2003,Liverfluke
+Zone:14,1-1,24,2003,Liverfluke
 Amnat Charoen,1-1,17,2003,Liverfluke
 Si Sa Ket,1-1,0,2003,Liverfluke
 Ubon Ratchathani,1-1,0,2003,Liverfluke
 Yasothon,1-1,7,2003,Liverfluke
 South Region,1-1,0,2003,Liverfluke
-Zone 15,1-1,0,2003,Liverfluke
+Zone:15,1-1,0,2003,Liverfluke
 Chumphon,1-1,0,2003,Liverfluke
 Ranong,1-1,0,2003,Liverfluke
 Surat Thani,1-1,0,2003,Liverfluke
-Zone 16,1-1,0,2003,Liverfluke
+Zone:16,1-1,0,2003,Liverfluke
 Nakhon Si Thammarat,1-1,0,2003,Liverfluke
 Phatthalung,1-1,0,2003,Liverfluke
 Trang,1-1,0,2003,Liverfluke
-Zone 17,1-1,0,2003,Liverfluke
+Zone:17,1-1,0,2003,Liverfluke
 Krabi,1-1,0,2003,Liverfluke
 Phangnga,1-1,0,2003,Liverfluke
 Phuket,1-1,0,2003,Liverfluke
-Zone 18,1-1,0,2003,Liverfluke
+Zone:18,1-1,0,2003,Liverfluke
 Narathiwat,1-1,0,2003,Liverfluke
 Pattani,1-1,0,2003,Liverfluke
 Yala,1-1,0,2003,Liverfluke
-Zone 19,1-1,0,2003,Liverfluke
+Zone:19,1-1,0,2003,Liverfluke
 Satun,1-1,0,2003,Liverfluke
 Songkhla,1-1,0,2003,Liverfluke
 Total,2-2,12,2003,Liverfluke
 North Region,2-2,0,2003,Liverfluke
-Zone 1,2-2,0,2003,Liverfluke
+Zone:1,2-2,0,2003,Liverfluke
 Chiang Mai,2-2,0,2003,Liverfluke
 Chiang Rai,2-2,0,2003,Liverfluke
 Lampang,2-2,0,2003,Liverfluke
@@ -17600,98 +17600,98 @@ Mae Hong Son,2-2,0,2003,Liverfluke
 Nan,2-2,0,2003,Liverfluke
 Phayao,2-2,0,2003,Liverfluke
 Phrae,2-2,0,2003,Liverfluke
-Zone 2,2-2,0,2003,Liverfluke
+Zone:2,2-2,0,2003,Liverfluke
 Phetchabun,2-2,0,2003,Liverfluke
 Phitsanulok,2-2,0,2003,Liverfluke
 Sukhothai,2-2,0,2003,Liverfluke
 Tak,2-2,0,2003,Liverfluke
 Uttaradit,2-2,0,2003,Liverfluke
-Zone 3,2-2,0,2003,Liverfluke
+Zone:3,2-2,0,2003,Liverfluke
 Kamphaeng Phet,2-2,0,2003,Liverfluke
 Nakhon Sawan,2-2,0,2003,Liverfluke
 Phichit,2-2,0,2003,Liverfluke
 Uthai Thani,2-2,0,2003,Liverfluke
 Central Region,2-2,0,2003,Liverfluke
 Bangkok,2-2,0,2003,Liverfluke
-Zone 4,2-2,0,2003,Liverfluke
+Zone:4,2-2,0,2003,Liverfluke
 Ang Thong,2-2,0,2003,Liverfluke
 Nonthaburi,2-2,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,2-2,0,2003,Liverfluke
 Pathum Thani,2-2,0,2003,Liverfluke
-Zone 5,2-2,0,2003,Liverfluke
+Zone:5,2-2,0,2003,Liverfluke
 Chai Nat,2-2,0,2003,Liverfluke
 Lop Buri,2-2,0,2003,Liverfluke
 Saraburi,2-2,0,2003,Liverfluke
 Sing Buri,2-2,0,2003,Liverfluke
-Zone 6,2-2,0,2003,Liverfluke
+Zone:6,2-2,0,2003,Liverfluke
 Kanchanaburi,2-2,0,2003,Liverfluke
 Nakhon Pathom,2-2,0,2003,Liverfluke
 Ratchaburi,2-2,0,2003,Liverfluke
 Suphan Buri,2-2,0,2003,Liverfluke
-Zone 7,2-2,0,2003,Liverfluke
+Zone:7,2-2,0,2003,Liverfluke
 Phetchaburi,2-2,0,2003,Liverfluke
 Prachuap Khiri Khan,2-2,0,2003,Liverfluke
 Samut Sakhon,2-2,0,2003,Liverfluke
 Samut Songkhram,2-2,0,2003,Liverfluke
-Zone 8,2-2,0,2003,Liverfluke
+Zone:8,2-2,0,2003,Liverfluke
 Chachoengsao,2-2,0,2003,Liverfluke
 Nakhon Nayok,2-2,0,2003,Liverfluke
 Prachin Buri,2-2,0,2003,Liverfluke
 Sa Kaeo,2-2,0,2003,Liverfluke
 Samut Prakan,2-2,0,2003,Liverfluke
-Zone 9,2-2,0,2003,Liverfluke
+Zone:9,2-2,0,2003,Liverfluke
 Chanthaburi,2-2,0,2003,Liverfluke
 Chon Buri,2-2,0,2003,Liverfluke
 Rayong,2-2,0,2003,Liverfluke
 Trat,2-2,0,2003,Liverfluke
 North-Eastern Region,2-2,12,2003,Liverfluke
-Zone 10,2-2,0,2003,Liverfluke
+Zone:10,2-2,0,2003,Liverfluke
 Loei,2-2,0,2003,Liverfluke
 Nong Bua Lam Phu,2-2,0,2003,Liverfluke
 Nong Khai,2-2,0,2003,Liverfluke
 Udon Thani,2-2,0,2003,Liverfluke
-Zone 11,2-2,1,2003,Liverfluke
+Zone:11,2-2,1,2003,Liverfluke
 Kalasin,2-2,0,2003,Liverfluke
 Mukdahan,2-2,0,2003,Liverfluke
 Nakhon Phanom,2-2,0,2003,Liverfluke
 Sakon Nakhon,2-2,1,2003,Liverfluke
-Zone 12,2-2,0,2003,Liverfluke
+Zone:12,2-2,0,2003,Liverfluke
 Khon Kaen,2-2,0,2003,Liverfluke
 Maha Sarakham,2-2,0,2003,Liverfluke
 Roi Et,2-2,0,2003,Liverfluke
-Zone 13,2-2,0,2003,Liverfluke
+Zone:13,2-2,0,2003,Liverfluke
 Buri Ram,2-2,0,2003,Liverfluke
 Chaiyaphum,2-2,0,2003,Liverfluke
 Nakhon Ratchasima,2-2,0,2003,Liverfluke
 Surin,2-2,0,2003,Liverfluke
-Zone 14,2-2,11,2003,Liverfluke
+Zone:14,2-2,11,2003,Liverfluke
 Amnat Charoen,2-2,6,2003,Liverfluke
 Si Sa Ket,2-2,0,2003,Liverfluke
 Ubon Ratchathani,2-2,0,2003,Liverfluke
 Yasothon,2-2,5,2003,Liverfluke
 South Region,2-2,0,2003,Liverfluke
-Zone 15,2-2,0,2003,Liverfluke
+Zone:15,2-2,0,2003,Liverfluke
 Chumphon,2-2,0,2003,Liverfluke
 Ranong,2-2,0,2003,Liverfluke
 Surat Thani,2-2,0,2003,Liverfluke
-Zone 16,2-2,0,2003,Liverfluke
+Zone:16,2-2,0,2003,Liverfluke
 Nakhon Si Thammarat,2-2,0,2003,Liverfluke
 Phatthalung,2-2,0,2003,Liverfluke
 Trang,2-2,0,2003,Liverfluke
-Zone 17,2-2,0,2003,Liverfluke
+Zone:17,2-2,0,2003,Liverfluke
 Krabi,2-2,0,2003,Liverfluke
 Phangnga,2-2,0,2003,Liverfluke
 Phuket,2-2,0,2003,Liverfluke
-Zone 18,2-2,0,2003,Liverfluke
+Zone:18,2-2,0,2003,Liverfluke
 Narathiwat,2-2,0,2003,Liverfluke
 Pattani,2-2,0,2003,Liverfluke
 Yala,2-2,0,2003,Liverfluke
-Zone 19,2-2,0,2003,Liverfluke
+Zone:19,2-2,0,2003,Liverfluke
 Satun,2-2,0,2003,Liverfluke
 Songkhla,2-2,0,2003,Liverfluke
 Total,3-3,7,2003,Liverfluke
 North Region,3-3,1,2003,Liverfluke
-Zone 1,3-3,1,2003,Liverfluke
+Zone:1,3-3,1,2003,Liverfluke
 Chiang Mai,3-3,0,2003,Liverfluke
 Chiang Rai,3-3,1,2003,Liverfluke
 Lampang,3-3,0,2003,Liverfluke
@@ -17700,98 +17700,98 @@ Mae Hong Son,3-3,0,2003,Liverfluke
 Nan,3-3,0,2003,Liverfluke
 Phayao,3-3,0,2003,Liverfluke
 Phrae,3-3,0,2003,Liverfluke
-Zone 2,3-3,0,2003,Liverfluke
+Zone:2,3-3,0,2003,Liverfluke
 Phetchabun,3-3,0,2003,Liverfluke
 Phitsanulok,3-3,0,2003,Liverfluke
 Sukhothai,3-3,0,2003,Liverfluke
 Tak,3-3,0,2003,Liverfluke
 Uttaradit,3-3,0,2003,Liverfluke
-Zone 3,3-3,0,2003,Liverfluke
+Zone:3,3-3,0,2003,Liverfluke
 Kamphaeng Phet,3-3,0,2003,Liverfluke
 Nakhon Sawan,3-3,0,2003,Liverfluke
 Phichit,3-3,0,2003,Liverfluke
 Uthai Thani,3-3,0,2003,Liverfluke
 Central Region,3-3,0,2003,Liverfluke
 Bangkok,3-3,0,2003,Liverfluke
-Zone 4,3-3,0,2003,Liverfluke
+Zone:4,3-3,0,2003,Liverfluke
 Ang Thong,3-3,0,2003,Liverfluke
 Nonthaburi,3-3,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,3-3,0,2003,Liverfluke
 Pathum Thani,3-3,0,2003,Liverfluke
-Zone 5,3-3,0,2003,Liverfluke
+Zone:5,3-3,0,2003,Liverfluke
 Chai Nat,3-3,0,2003,Liverfluke
 Lop Buri,3-3,0,2003,Liverfluke
 Saraburi,3-3,0,2003,Liverfluke
 Sing Buri,3-3,0,2003,Liverfluke
-Zone 6,3-3,0,2003,Liverfluke
+Zone:6,3-3,0,2003,Liverfluke
 Kanchanaburi,3-3,0,2003,Liverfluke
 Nakhon Pathom,3-3,0,2003,Liverfluke
 Ratchaburi,3-3,0,2003,Liverfluke
 Suphan Buri,3-3,0,2003,Liverfluke
-Zone 7,3-3,0,2003,Liverfluke
+Zone:7,3-3,0,2003,Liverfluke
 Phetchaburi,3-3,0,2003,Liverfluke
 Prachuap Khiri Khan,3-3,0,2003,Liverfluke
 Samut Sakhon,3-3,0,2003,Liverfluke
 Samut Songkhram,3-3,0,2003,Liverfluke
-Zone 8,3-3,0,2003,Liverfluke
+Zone:8,3-3,0,2003,Liverfluke
 Chachoengsao,3-3,0,2003,Liverfluke
 Nakhon Nayok,3-3,0,2003,Liverfluke
 Prachin Buri,3-3,0,2003,Liverfluke
 Sa Kaeo,3-3,0,2003,Liverfluke
 Samut Prakan,3-3,0,2003,Liverfluke
-Zone 9,3-3,0,2003,Liverfluke
+Zone:9,3-3,0,2003,Liverfluke
 Chanthaburi,3-3,0,2003,Liverfluke
 Chon Buri,3-3,0,2003,Liverfluke
 Rayong,3-3,0,2003,Liverfluke
 Trat,3-3,0,2003,Liverfluke
 North-Eastern Region,3-3,6,2003,Liverfluke
-Zone 10,3-3,0,2003,Liverfluke
+Zone:10,3-3,0,2003,Liverfluke
 Loei,3-3,0,2003,Liverfluke
 Nong Bua Lam Phu,3-3,0,2003,Liverfluke
 Nong Khai,3-3,0,2003,Liverfluke
 Udon Thani,3-3,0,2003,Liverfluke
-Zone 11,3-3,1,2003,Liverfluke
+Zone:11,3-3,1,2003,Liverfluke
 Kalasin,3-3,0,2003,Liverfluke
 Mukdahan,3-3,0,2003,Liverfluke
 Nakhon Phanom,3-3,0,2003,Liverfluke
 Sakon Nakhon,3-3,1,2003,Liverfluke
-Zone 12,3-3,0,2003,Liverfluke
+Zone:12,3-3,0,2003,Liverfluke
 Khon Kaen,3-3,0,2003,Liverfluke
 Maha Sarakham,3-3,0,2003,Liverfluke
 Roi Et,3-3,0,2003,Liverfluke
-Zone 13,3-3,0,2003,Liverfluke
+Zone:13,3-3,0,2003,Liverfluke
 Buri Ram,3-3,0,2003,Liverfluke
 Chaiyaphum,3-3,0,2003,Liverfluke
 Nakhon Ratchasima,3-3,0,2003,Liverfluke
 Surin,3-3,0,2003,Liverfluke
-Zone 14,3-3,5,2003,Liverfluke
+Zone:14,3-3,5,2003,Liverfluke
 Amnat Charoen,3-3,4,2003,Liverfluke
 Si Sa Ket,3-3,0,2003,Liverfluke
 Ubon Ratchathani,3-3,0,2003,Liverfluke
 Yasothon,3-3,1,2003,Liverfluke
 South Region,3-3,0,2003,Liverfluke
-Zone 15,3-3,0,2003,Liverfluke
+Zone:15,3-3,0,2003,Liverfluke
 Chumphon,3-3,0,2003,Liverfluke
 Ranong,3-3,0,2003,Liverfluke
 Surat Thani,3-3,0,2003,Liverfluke
-Zone 16,3-3,0,2003,Liverfluke
+Zone:16,3-3,0,2003,Liverfluke
 Nakhon Si Thammarat,3-3,0,2003,Liverfluke
 Phatthalung,3-3,0,2003,Liverfluke
 Trang,3-3,0,2003,Liverfluke
-Zone 17,3-3,0,2003,Liverfluke
+Zone:17,3-3,0,2003,Liverfluke
 Krabi,3-3,0,2003,Liverfluke
 Phangnga,3-3,0,2003,Liverfluke
 Phuket,3-3,0,2003,Liverfluke
-Zone 18,3-3,0,2003,Liverfluke
+Zone:18,3-3,0,2003,Liverfluke
 Narathiwat,3-3,0,2003,Liverfluke
 Pattani,3-3,0,2003,Liverfluke
 Yala,3-3,0,2003,Liverfluke
-Zone 19,3-3,0,2003,Liverfluke
+Zone:19,3-3,0,2003,Liverfluke
 Satun,3-3,0,2003,Liverfluke
 Songkhla,3-3,0,2003,Liverfluke
 Total,4-4,11,2003,Liverfluke
 North Region,4-4,0,2003,Liverfluke
-Zone 1,4-4,0,2003,Liverfluke
+Zone:1,4-4,0,2003,Liverfluke
 Chiang Mai,4-4,0,2003,Liverfluke
 Chiang Rai,4-4,0,2003,Liverfluke
 Lampang,4-4,0,2003,Liverfluke
@@ -17800,98 +17800,98 @@ Mae Hong Son,4-4,0,2003,Liverfluke
 Nan,4-4,0,2003,Liverfluke
 Phayao,4-4,0,2003,Liverfluke
 Phrae,4-4,0,2003,Liverfluke
-Zone 2,4-4,0,2003,Liverfluke
+Zone:2,4-4,0,2003,Liverfluke
 Phetchabun,4-4,0,2003,Liverfluke
 Phitsanulok,4-4,0,2003,Liverfluke
 Sukhothai,4-4,0,2003,Liverfluke
 Tak,4-4,0,2003,Liverfluke
 Uttaradit,4-4,0,2003,Liverfluke
-Zone 3,4-4,0,2003,Liverfluke
+Zone:3,4-4,0,2003,Liverfluke
 Kamphaeng Phet,4-4,0,2003,Liverfluke
 Nakhon Sawan,4-4,0,2003,Liverfluke
 Phichit,4-4,0,2003,Liverfluke
 Uthai Thani,4-4,0,2003,Liverfluke
 Central Region,4-4,0,2003,Liverfluke
 Bangkok,4-4,0,2003,Liverfluke
-Zone 4,4-4,0,2003,Liverfluke
+Zone:4,4-4,0,2003,Liverfluke
 Ang Thong,4-4,0,2003,Liverfluke
 Nonthaburi,4-4,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,4-4,0,2003,Liverfluke
 Pathum Thani,4-4,0,2003,Liverfluke
-Zone 5,4-4,0,2003,Liverfluke
+Zone:5,4-4,0,2003,Liverfluke
 Chai Nat,4-4,0,2003,Liverfluke
 Lop Buri,4-4,0,2003,Liverfluke
 Saraburi,4-4,0,2003,Liverfluke
 Sing Buri,4-4,0,2003,Liverfluke
-Zone 6,4-4,0,2003,Liverfluke
+Zone:6,4-4,0,2003,Liverfluke
 Kanchanaburi,4-4,0,2003,Liverfluke
 Nakhon Pathom,4-4,0,2003,Liverfluke
 Ratchaburi,4-4,0,2003,Liverfluke
 Suphan Buri,4-4,0,2003,Liverfluke
-Zone 7,4-4,0,2003,Liverfluke
+Zone:7,4-4,0,2003,Liverfluke
 Phetchaburi,4-4,0,2003,Liverfluke
 Prachuap Khiri Khan,4-4,0,2003,Liverfluke
 Samut Sakhon,4-4,0,2003,Liverfluke
 Samut Songkhram,4-4,0,2003,Liverfluke
-Zone 8,4-4,0,2003,Liverfluke
+Zone:8,4-4,0,2003,Liverfluke
 Chachoengsao,4-4,0,2003,Liverfluke
 Nakhon Nayok,4-4,0,2003,Liverfluke
 Prachin Buri,4-4,0,2003,Liverfluke
 Sa Kaeo,4-4,0,2003,Liverfluke
 Samut Prakan,4-4,0,2003,Liverfluke
-Zone 9,4-4,0,2003,Liverfluke
+Zone:9,4-4,0,2003,Liverfluke
 Chanthaburi,4-4,0,2003,Liverfluke
 Chon Buri,4-4,0,2003,Liverfluke
 Rayong,4-4,0,2003,Liverfluke
 Trat,4-4,0,2003,Liverfluke
 North-Eastern Region,4-4,11,2003,Liverfluke
-Zone 10,4-4,0,2003,Liverfluke
+Zone:10,4-4,0,2003,Liverfluke
 Loei,4-4,0,2003,Liverfluke
 Nong Bua Lam Phu,4-4,0,2003,Liverfluke
 Nong Khai,4-4,0,2003,Liverfluke
 Udon Thani,4-4,0,2003,Liverfluke
-Zone 11,4-4,5,2003,Liverfluke
+Zone:11,4-4,5,2003,Liverfluke
 Kalasin,4-4,0,2003,Liverfluke
 Mukdahan,4-4,0,2003,Liverfluke
 Nakhon Phanom,4-4,0,2003,Liverfluke
 Sakon Nakhon,4-4,5,2003,Liverfluke
-Zone 12,4-4,0,2003,Liverfluke
+Zone:12,4-4,0,2003,Liverfluke
 Khon Kaen,4-4,0,2003,Liverfluke
 Maha Sarakham,4-4,0,2003,Liverfluke
 Roi Et,4-4,0,2003,Liverfluke
-Zone 13,4-4,0,2003,Liverfluke
+Zone:13,4-4,0,2003,Liverfluke
 Buri Ram,4-4,0,2003,Liverfluke
 Chaiyaphum,4-4,0,2003,Liverfluke
 Nakhon Ratchasima,4-4,0,2003,Liverfluke
 Surin,4-4,0,2003,Liverfluke
-Zone 14,4-4,6,2003,Liverfluke
+Zone:14,4-4,6,2003,Liverfluke
 Amnat Charoen,4-4,4,2003,Liverfluke
 Si Sa Ket,4-4,0,2003,Liverfluke
 Ubon Ratchathani,4-4,0,2003,Liverfluke
 Yasothon,4-4,2,2003,Liverfluke
 South Region,4-4,0,2003,Liverfluke
-Zone 15,4-4,0,2003,Liverfluke
+Zone:15,4-4,0,2003,Liverfluke
 Chumphon,4-4,0,2003,Liverfluke
 Ranong,4-4,0,2003,Liverfluke
 Surat Thani,4-4,0,2003,Liverfluke
-Zone 16,4-4,0,2003,Liverfluke
+Zone:16,4-4,0,2003,Liverfluke
 Nakhon Si Thammarat,4-4,0,2003,Liverfluke
 Phatthalung,4-4,0,2003,Liverfluke
 Trang,4-4,0,2003,Liverfluke
-Zone 17,4-4,0,2003,Liverfluke
+Zone:17,4-4,0,2003,Liverfluke
 Krabi,4-4,0,2003,Liverfluke
 Phangnga,4-4,0,2003,Liverfluke
 Phuket,4-4,0,2003,Liverfluke
-Zone 18,4-4,0,2003,Liverfluke
+Zone:18,4-4,0,2003,Liverfluke
 Narathiwat,4-4,0,2003,Liverfluke
 Pattani,4-4,0,2003,Liverfluke
 Yala,4-4,0,2003,Liverfluke
-Zone 19,4-4,0,2003,Liverfluke
+Zone:19,4-4,0,2003,Liverfluke
 Satun,4-4,0,2003,Liverfluke
 Songkhla,4-4,0,2003,Liverfluke
 Total,5-5,6,2003,Liverfluke
 North Region,5-5,0,2003,Liverfluke
-Zone 1,5-5,0,2003,Liverfluke
+Zone:1,5-5,0,2003,Liverfluke
 Chiang Mai,5-5,0,2003,Liverfluke
 Chiang Rai,5-5,0,2003,Liverfluke
 Lampang,5-5,0,2003,Liverfluke
@@ -17900,98 +17900,98 @@ Mae Hong Son,5-5,0,2003,Liverfluke
 Nan,5-5,0,2003,Liverfluke
 Phayao,5-5,0,2003,Liverfluke
 Phrae,5-5,0,2003,Liverfluke
-Zone 2,5-5,0,2003,Liverfluke
+Zone:2,5-5,0,2003,Liverfluke
 Phetchabun,5-5,0,2003,Liverfluke
 Phitsanulok,5-5,0,2003,Liverfluke
 Sukhothai,5-5,0,2003,Liverfluke
 Tak,5-5,0,2003,Liverfluke
 Uttaradit,5-5,0,2003,Liverfluke
-Zone 3,5-5,0,2003,Liverfluke
+Zone:3,5-5,0,2003,Liverfluke
 Kamphaeng Phet,5-5,0,2003,Liverfluke
 Nakhon Sawan,5-5,0,2003,Liverfluke
 Phichit,5-5,0,2003,Liverfluke
 Uthai Thani,5-5,0,2003,Liverfluke
 Central Region,5-5,0,2003,Liverfluke
 Bangkok,5-5,0,2003,Liverfluke
-Zone 4,5-5,0,2003,Liverfluke
+Zone:4,5-5,0,2003,Liverfluke
 Ang Thong,5-5,0,2003,Liverfluke
 Nonthaburi,5-5,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,5-5,0,2003,Liverfluke
 Pathum Thani,5-5,0,2003,Liverfluke
-Zone 5,5-5,0,2003,Liverfluke
+Zone:5,5-5,0,2003,Liverfluke
 Chai Nat,5-5,0,2003,Liverfluke
 Lop Buri,5-5,0,2003,Liverfluke
 Saraburi,5-5,0,2003,Liverfluke
 Sing Buri,5-5,0,2003,Liverfluke
-Zone 6,5-5,0,2003,Liverfluke
+Zone:6,5-5,0,2003,Liverfluke
 Kanchanaburi,5-5,0,2003,Liverfluke
 Nakhon Pathom,5-5,0,2003,Liverfluke
 Ratchaburi,5-5,0,2003,Liverfluke
 Suphan Buri,5-5,0,2003,Liverfluke
-Zone 7,5-5,0,2003,Liverfluke
+Zone:7,5-5,0,2003,Liverfluke
 Phetchaburi,5-5,0,2003,Liverfluke
 Prachuap Khiri Khan,5-5,0,2003,Liverfluke
 Samut Sakhon,5-5,0,2003,Liverfluke
 Samut Songkhram,5-5,0,2003,Liverfluke
-Zone 8,5-5,0,2003,Liverfluke
+Zone:8,5-5,0,2003,Liverfluke
 Chachoengsao,5-5,0,2003,Liverfluke
 Nakhon Nayok,5-5,0,2003,Liverfluke
 Prachin Buri,5-5,0,2003,Liverfluke
 Sa Kaeo,5-5,0,2003,Liverfluke
 Samut Prakan,5-5,0,2003,Liverfluke
-Zone 9,5-5,0,2003,Liverfluke
+Zone:9,5-5,0,2003,Liverfluke
 Chanthaburi,5-5,0,2003,Liverfluke
 Chon Buri,5-5,0,2003,Liverfluke
 Rayong,5-5,0,2003,Liverfluke
 Trat,5-5,0,2003,Liverfluke
 North-Eastern Region,5-5,6,2003,Liverfluke
-Zone 10,5-5,0,2003,Liverfluke
+Zone:10,5-5,0,2003,Liverfluke
 Loei,5-5,0,2003,Liverfluke
 Nong Bua Lam Phu,5-5,0,2003,Liverfluke
 Nong Khai,5-5,0,2003,Liverfluke
 Udon Thani,5-5,0,2003,Liverfluke
-Zone 11,5-5,2,2003,Liverfluke
+Zone:11,5-5,2,2003,Liverfluke
 Kalasin,5-5,0,2003,Liverfluke
 Mukdahan,5-5,0,2003,Liverfluke
 Nakhon Phanom,5-5,0,2003,Liverfluke
 Sakon Nakhon,5-5,2,2003,Liverfluke
-Zone 12,5-5,0,2003,Liverfluke
+Zone:12,5-5,0,2003,Liverfluke
 Khon Kaen,5-5,0,2003,Liverfluke
 Maha Sarakham,5-5,0,2003,Liverfluke
 Roi Et,5-5,0,2003,Liverfluke
-Zone 13,5-5,0,2003,Liverfluke
+Zone:13,5-5,0,2003,Liverfluke
 Buri Ram,5-5,0,2003,Liverfluke
 Chaiyaphum,5-5,0,2003,Liverfluke
 Nakhon Ratchasima,5-5,0,2003,Liverfluke
 Surin,5-5,0,2003,Liverfluke
-Zone 14,5-5,4,2003,Liverfluke
+Zone:14,5-5,4,2003,Liverfluke
 Amnat Charoen,5-5,2,2003,Liverfluke
 Si Sa Ket,5-5,0,2003,Liverfluke
 Ubon Ratchathani,5-5,0,2003,Liverfluke
 Yasothon,5-5,2,2003,Liverfluke
 South Region,5-5,0,2003,Liverfluke
-Zone 15,5-5,0,2003,Liverfluke
+Zone:15,5-5,0,2003,Liverfluke
 Chumphon,5-5,0,2003,Liverfluke
 Ranong,5-5,0,2003,Liverfluke
 Surat Thani,5-5,0,2003,Liverfluke
-Zone 16,5-5,0,2003,Liverfluke
+Zone:16,5-5,0,2003,Liverfluke
 Nakhon Si Thammarat,5-5,0,2003,Liverfluke
 Phatthalung,5-5,0,2003,Liverfluke
 Trang,5-5,0,2003,Liverfluke
-Zone 17,5-5,0,2003,Liverfluke
+Zone:17,5-5,0,2003,Liverfluke
 Krabi,5-5,0,2003,Liverfluke
 Phangnga,5-5,0,2003,Liverfluke
 Phuket,5-5,0,2003,Liverfluke
-Zone 18,5-5,0,2003,Liverfluke
+Zone:18,5-5,0,2003,Liverfluke
 Narathiwat,5-5,0,2003,Liverfluke
 Pattani,5-5,0,2003,Liverfluke
 Yala,5-5,0,2003,Liverfluke
-Zone 19,5-5,0,2003,Liverfluke
+Zone:19,5-5,0,2003,Liverfluke
 Satun,5-5,0,2003,Liverfluke
 Songkhla,5-5,0,2003,Liverfluke
 Total,6-6,11,2003,Liverfluke
 North Region,6-6,1,2003,Liverfluke
-Zone 1,6-6,1,2003,Liverfluke
+Zone:1,6-6,1,2003,Liverfluke
 Chiang Mai,6-6,0,2003,Liverfluke
 Chiang Rai,6-6,1,2003,Liverfluke
 Lampang,6-6,0,2003,Liverfluke
@@ -18000,98 +18000,98 @@ Mae Hong Son,6-6,0,2003,Liverfluke
 Nan,6-6,0,2003,Liverfluke
 Phayao,6-6,0,2003,Liverfluke
 Phrae,6-6,0,2003,Liverfluke
-Zone 2,6-6,0,2003,Liverfluke
+Zone:2,6-6,0,2003,Liverfluke
 Phetchabun,6-6,0,2003,Liverfluke
 Phitsanulok,6-6,0,2003,Liverfluke
 Sukhothai,6-6,0,2003,Liverfluke
 Tak,6-6,0,2003,Liverfluke
 Uttaradit,6-6,0,2003,Liverfluke
-Zone 3,6-6,0,2003,Liverfluke
+Zone:3,6-6,0,2003,Liverfluke
 Kamphaeng Phet,6-6,0,2003,Liverfluke
 Nakhon Sawan,6-6,0,2003,Liverfluke
 Phichit,6-6,0,2003,Liverfluke
 Uthai Thani,6-6,0,2003,Liverfluke
 Central Region,6-6,0,2003,Liverfluke
 Bangkok,6-6,0,2003,Liverfluke
-Zone 4,6-6,0,2003,Liverfluke
+Zone:4,6-6,0,2003,Liverfluke
 Ang Thong,6-6,0,2003,Liverfluke
 Nonthaburi,6-6,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,6-6,0,2003,Liverfluke
 Pathum Thani,6-6,0,2003,Liverfluke
-Zone 5,6-6,0,2003,Liverfluke
+Zone:5,6-6,0,2003,Liverfluke
 Chai Nat,6-6,0,2003,Liverfluke
 Lop Buri,6-6,0,2003,Liverfluke
 Saraburi,6-6,0,2003,Liverfluke
 Sing Buri,6-6,0,2003,Liverfluke
-Zone 6,6-6,0,2003,Liverfluke
+Zone:6,6-6,0,2003,Liverfluke
 Kanchanaburi,6-6,0,2003,Liverfluke
 Nakhon Pathom,6-6,0,2003,Liverfluke
 Ratchaburi,6-6,0,2003,Liverfluke
 Suphan Buri,6-6,0,2003,Liverfluke
-Zone 7,6-6,0,2003,Liverfluke
+Zone:7,6-6,0,2003,Liverfluke
 Phetchaburi,6-6,0,2003,Liverfluke
 Prachuap Khiri Khan,6-6,0,2003,Liverfluke
 Samut Sakhon,6-6,0,2003,Liverfluke
 Samut Songkhram,6-6,0,2003,Liverfluke
-Zone 8,6-6,0,2003,Liverfluke
+Zone:8,6-6,0,2003,Liverfluke
 Chachoengsao,6-6,0,2003,Liverfluke
 Nakhon Nayok,6-6,0,2003,Liverfluke
 Prachin Buri,6-6,0,2003,Liverfluke
 Sa Kaeo,6-6,0,2003,Liverfluke
 Samut Prakan,6-6,0,2003,Liverfluke
-Zone 9,6-6,0,2003,Liverfluke
+Zone:9,6-6,0,2003,Liverfluke
 Chanthaburi,6-6,0,2003,Liverfluke
 Chon Buri,6-6,0,2003,Liverfluke
 Rayong,6-6,0,2003,Liverfluke
 Trat,6-6,0,2003,Liverfluke
 North-Eastern Region,6-6,10,2003,Liverfluke
-Zone 10,6-6,0,2003,Liverfluke
+Zone:10,6-6,0,2003,Liverfluke
 Loei,6-6,0,2003,Liverfluke
 Nong Bua Lam Phu,6-6,0,2003,Liverfluke
 Nong Khai,6-6,0,2003,Liverfluke
 Udon Thani,6-6,0,2003,Liverfluke
-Zone 11,6-6,5,2003,Liverfluke
+Zone:11,6-6,5,2003,Liverfluke
 Kalasin,6-6,0,2003,Liverfluke
 Mukdahan,6-6,0,2003,Liverfluke
 Nakhon Phanom,6-6,0,2003,Liverfluke
 Sakon Nakhon,6-6,5,2003,Liverfluke
-Zone 12,6-6,0,2003,Liverfluke
+Zone:12,6-6,0,2003,Liverfluke
 Khon Kaen,6-6,0,2003,Liverfluke
 Maha Sarakham,6-6,0,2003,Liverfluke
 Roi Et,6-6,0,2003,Liverfluke
-Zone 13,6-6,0,2003,Liverfluke
+Zone:13,6-6,0,2003,Liverfluke
 Buri Ram,6-6,0,2003,Liverfluke
 Chaiyaphum,6-6,0,2003,Liverfluke
 Nakhon Ratchasima,6-6,0,2003,Liverfluke
 Surin,6-6,0,2003,Liverfluke
-Zone 14,6-6,5,2003,Liverfluke
+Zone:14,6-6,5,2003,Liverfluke
 Amnat Charoen,6-6,3,2003,Liverfluke
 Si Sa Ket,6-6,0,2003,Liverfluke
 Ubon Ratchathani,6-6,0,2003,Liverfluke
 Yasothon,6-6,2,2003,Liverfluke
 South Region,6-6,0,2003,Liverfluke
-Zone 15,6-6,0,2003,Liverfluke
+Zone:15,6-6,0,2003,Liverfluke
 Chumphon,6-6,0,2003,Liverfluke
 Ranong,6-6,0,2003,Liverfluke
 Surat Thani,6-6,0,2003,Liverfluke
-Zone 16,6-6,0,2003,Liverfluke
+Zone:16,6-6,0,2003,Liverfluke
 Nakhon Si Thammarat,6-6,0,2003,Liverfluke
 Phatthalung,6-6,0,2003,Liverfluke
 Trang,6-6,0,2003,Liverfluke
-Zone 17,6-6,0,2003,Liverfluke
+Zone:17,6-6,0,2003,Liverfluke
 Krabi,6-6,0,2003,Liverfluke
 Phangnga,6-6,0,2003,Liverfluke
 Phuket,6-6,0,2003,Liverfluke
-Zone 18,6-6,0,2003,Liverfluke
+Zone:18,6-6,0,2003,Liverfluke
 Narathiwat,6-6,0,2003,Liverfluke
 Pattani,6-6,0,2003,Liverfluke
 Yala,6-6,0,2003,Liverfluke
-Zone 19,6-6,0,2003,Liverfluke
+Zone:19,6-6,0,2003,Liverfluke
 Satun,6-6,0,2003,Liverfluke
 Songkhla,6-6,0,2003,Liverfluke
 Total,7-9,40,2003,Liverfluke
 North Region,7-9,0,2003,Liverfluke
-Zone 1,7-9,0,2003,Liverfluke
+Zone:1,7-9,0,2003,Liverfluke
 Chiang Mai,7-9,0,2003,Liverfluke
 Chiang Rai,7-9,0,2003,Liverfluke
 Lampang,7-9,0,2003,Liverfluke
@@ -18100,98 +18100,98 @@ Mae Hong Son,7-9,0,2003,Liverfluke
 Nan,7-9,0,2003,Liverfluke
 Phayao,7-9,0,2003,Liverfluke
 Phrae,7-9,0,2003,Liverfluke
-Zone 2,7-9,0,2003,Liverfluke
+Zone:2,7-9,0,2003,Liverfluke
 Phetchabun,7-9,0,2003,Liverfluke
 Phitsanulok,7-9,0,2003,Liverfluke
 Sukhothai,7-9,0,2003,Liverfluke
 Tak,7-9,0,2003,Liverfluke
 Uttaradit,7-9,0,2003,Liverfluke
-Zone 3,7-9,0,2003,Liverfluke
+Zone:3,7-9,0,2003,Liverfluke
 Kamphaeng Phet,7-9,0,2003,Liverfluke
 Nakhon Sawan,7-9,0,2003,Liverfluke
 Phichit,7-9,0,2003,Liverfluke
 Uthai Thani,7-9,0,2003,Liverfluke
 Central Region,7-9,0,2003,Liverfluke
 Bangkok,7-9,0,2003,Liverfluke
-Zone 4,7-9,0,2003,Liverfluke
+Zone:4,7-9,0,2003,Liverfluke
 Ang Thong,7-9,0,2003,Liverfluke
 Nonthaburi,7-9,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,7-9,0,2003,Liverfluke
 Pathum Thani,7-9,0,2003,Liverfluke
-Zone 5,7-9,0,2003,Liverfluke
+Zone:5,7-9,0,2003,Liverfluke
 Chai Nat,7-9,0,2003,Liverfluke
 Lop Buri,7-9,0,2003,Liverfluke
 Saraburi,7-9,0,2003,Liverfluke
 Sing Buri,7-9,0,2003,Liverfluke
-Zone 6,7-9,0,2003,Liverfluke
+Zone:6,7-9,0,2003,Liverfluke
 Kanchanaburi,7-9,0,2003,Liverfluke
 Nakhon Pathom,7-9,0,2003,Liverfluke
 Ratchaburi,7-9,0,2003,Liverfluke
 Suphan Buri,7-9,0,2003,Liverfluke
-Zone 7,7-9,0,2003,Liverfluke
+Zone:7,7-9,0,2003,Liverfluke
 Phetchaburi,7-9,0,2003,Liverfluke
 Prachuap Khiri Khan,7-9,0,2003,Liverfluke
 Samut Sakhon,7-9,0,2003,Liverfluke
 Samut Songkhram,7-9,0,2003,Liverfluke
-Zone 8,7-9,0,2003,Liverfluke
+Zone:8,7-9,0,2003,Liverfluke
 Chachoengsao,7-9,0,2003,Liverfluke
 Nakhon Nayok,7-9,0,2003,Liverfluke
 Prachin Buri,7-9,0,2003,Liverfluke
 Sa Kaeo,7-9,0,2003,Liverfluke
 Samut Prakan,7-9,0,2003,Liverfluke
-Zone 9,7-9,0,2003,Liverfluke
+Zone:9,7-9,0,2003,Liverfluke
 Chanthaburi,7-9,0,2003,Liverfluke
 Chon Buri,7-9,0,2003,Liverfluke
 Rayong,7-9,0,2003,Liverfluke
 Trat,7-9,0,2003,Liverfluke
 North-Eastern Region,7-9,40,2003,Liverfluke
-Zone 10,7-9,0,2003,Liverfluke
+Zone:10,7-9,0,2003,Liverfluke
 Loei,7-9,0,2003,Liverfluke
 Nong Bua Lam Phu,7-9,0,2003,Liverfluke
 Nong Khai,7-9,0,2003,Liverfluke
 Udon Thani,7-9,0,2003,Liverfluke
-Zone 11,7-9,31,2003,Liverfluke
+Zone:11,7-9,31,2003,Liverfluke
 Kalasin,7-9,0,2003,Liverfluke
 Mukdahan,7-9,0,2003,Liverfluke
 Nakhon Phanom,7-9,0,2003,Liverfluke
 Sakon Nakhon,7-9,31,2003,Liverfluke
-Zone 12,7-9,0,2003,Liverfluke
+Zone:12,7-9,0,2003,Liverfluke
 Khon Kaen,7-9,0,2003,Liverfluke
 Maha Sarakham,7-9,0,2003,Liverfluke
 Roi Et,7-9,0,2003,Liverfluke
-Zone 13,7-9,0,2003,Liverfluke
+Zone:13,7-9,0,2003,Liverfluke
 Buri Ram,7-9,0,2003,Liverfluke
 Chaiyaphum,7-9,0,2003,Liverfluke
 Nakhon Ratchasima,7-9,0,2003,Liverfluke
 Surin,7-9,0,2003,Liverfluke
-Zone 14,7-9,9,2003,Liverfluke
+Zone:14,7-9,9,2003,Liverfluke
 Amnat Charoen,7-9,3,2003,Liverfluke
 Si Sa Ket,7-9,0,2003,Liverfluke
 Ubon Ratchathani,7-9,0,2003,Liverfluke
 Yasothon,7-9,6,2003,Liverfluke
 South Region,7-9,0,2003,Liverfluke
-Zone 15,7-9,0,2003,Liverfluke
+Zone:15,7-9,0,2003,Liverfluke
 Chumphon,7-9,0,2003,Liverfluke
 Ranong,7-9,0,2003,Liverfluke
 Surat Thani,7-9,0,2003,Liverfluke
-Zone 16,7-9,0,2003,Liverfluke
+Zone:16,7-9,0,2003,Liverfluke
 Nakhon Si Thammarat,7-9,0,2003,Liverfluke
 Phatthalung,7-9,0,2003,Liverfluke
 Trang,7-9,0,2003,Liverfluke
-Zone 17,7-9,0,2003,Liverfluke
+Zone:17,7-9,0,2003,Liverfluke
 Krabi,7-9,0,2003,Liverfluke
 Phangnga,7-9,0,2003,Liverfluke
 Phuket,7-9,0,2003,Liverfluke
-Zone 18,7-9,0,2003,Liverfluke
+Zone:18,7-9,0,2003,Liverfluke
 Narathiwat,7-9,0,2003,Liverfluke
 Pattani,7-9,0,2003,Liverfluke
 Yala,7-9,0,2003,Liverfluke
-Zone 19,7-9,0,2003,Liverfluke
+Zone:19,7-9,0,2003,Liverfluke
 Satun,7-9,0,2003,Liverfluke
 Songkhla,7-9,0,2003,Liverfluke
 Total,10-14,74,2003,Liverfluke
 North Region,10-14,1,2003,Liverfluke
-Zone 1,10-14,0,2003,Liverfluke
+Zone:1,10-14,0,2003,Liverfluke
 Chiang Mai,10-14,0,2003,Liverfluke
 Chiang Rai,10-14,0,2003,Liverfluke
 Lampang,10-14,0,2003,Liverfluke
@@ -18200,98 +18200,98 @@ Mae Hong Son,10-14,0,2003,Liverfluke
 Nan,10-14,0,2003,Liverfluke
 Phayao,10-14,0,2003,Liverfluke
 Phrae,10-14,0,2003,Liverfluke
-Zone 2,10-14,0,2003,Liverfluke
+Zone:2,10-14,0,2003,Liverfluke
 Phetchabun,10-14,0,2003,Liverfluke
 Phitsanulok,10-14,0,2003,Liverfluke
 Sukhothai,10-14,0,2003,Liverfluke
 Tak,10-14,0,2003,Liverfluke
 Uttaradit,10-14,0,2003,Liverfluke
-Zone 3,10-14,1,2003,Liverfluke
+Zone:3,10-14,1,2003,Liverfluke
 Kamphaeng Phet,10-14,0,2003,Liverfluke
 Nakhon Sawan,10-14,1,2003,Liverfluke
 Phichit,10-14,0,2003,Liverfluke
 Uthai Thani,10-14,0,2003,Liverfluke
 Central Region,10-14,0,2003,Liverfluke
 Bangkok,10-14,0,2003,Liverfluke
-Zone 4,10-14,0,2003,Liverfluke
+Zone:4,10-14,0,2003,Liverfluke
 Ang Thong,10-14,0,2003,Liverfluke
 Nonthaburi,10-14,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,10-14,0,2003,Liverfluke
 Pathum Thani,10-14,0,2003,Liverfluke
-Zone 5,10-14,0,2003,Liverfluke
+Zone:5,10-14,0,2003,Liverfluke
 Chai Nat,10-14,0,2003,Liverfluke
 Lop Buri,10-14,0,2003,Liverfluke
 Saraburi,10-14,0,2003,Liverfluke
 Sing Buri,10-14,0,2003,Liverfluke
-Zone 6,10-14,0,2003,Liverfluke
+Zone:6,10-14,0,2003,Liverfluke
 Kanchanaburi,10-14,0,2003,Liverfluke
 Nakhon Pathom,10-14,0,2003,Liverfluke
 Ratchaburi,10-14,0,2003,Liverfluke
 Suphan Buri,10-14,0,2003,Liverfluke
-Zone 7,10-14,0,2003,Liverfluke
+Zone:7,10-14,0,2003,Liverfluke
 Phetchaburi,10-14,0,2003,Liverfluke
 Prachuap Khiri Khan,10-14,0,2003,Liverfluke
 Samut Sakhon,10-14,0,2003,Liverfluke
 Samut Songkhram,10-14,0,2003,Liverfluke
-Zone 8,10-14,0,2003,Liverfluke
+Zone:8,10-14,0,2003,Liverfluke
 Chachoengsao,10-14,0,2003,Liverfluke
 Nakhon Nayok,10-14,0,2003,Liverfluke
 Prachin Buri,10-14,0,2003,Liverfluke
 Sa Kaeo,10-14,0,2003,Liverfluke
 Samut Prakan,10-14,0,2003,Liverfluke
-Zone 9,10-14,0,2003,Liverfluke
+Zone:9,10-14,0,2003,Liverfluke
 Chanthaburi,10-14,0,2003,Liverfluke
 Chon Buri,10-14,0,2003,Liverfluke
 Rayong,10-14,0,2003,Liverfluke
 Trat,10-14,0,2003,Liverfluke
 North-Eastern Region,10-14,73,2003,Liverfluke
-Zone 10,10-14,0,2003,Liverfluke
+Zone:10,10-14,0,2003,Liverfluke
 Loei,10-14,0,2003,Liverfluke
 Nong Bua Lam Phu,10-14,0,2003,Liverfluke
 Nong Khai,10-14,0,2003,Liverfluke
 Udon Thani,10-14,0,2003,Liverfluke
-Zone 11,10-14,61,2003,Liverfluke
+Zone:11,10-14,61,2003,Liverfluke
 Kalasin,10-14,0,2003,Liverfluke
 Mukdahan,10-14,0,2003,Liverfluke
 Nakhon Phanom,10-14,0,2003,Liverfluke
 Sakon Nakhon,10-14,61,2003,Liverfluke
-Zone 12,10-14,0,2003,Liverfluke
+Zone:12,10-14,0,2003,Liverfluke
 Khon Kaen,10-14,0,2003,Liverfluke
 Maha Sarakham,10-14,0,2003,Liverfluke
 Roi Et,10-14,0,2003,Liverfluke
-Zone 13,10-14,0,2003,Liverfluke
+Zone:13,10-14,0,2003,Liverfluke
 Buri Ram,10-14,0,2003,Liverfluke
 Chaiyaphum,10-14,0,2003,Liverfluke
 Nakhon Ratchasima,10-14,0,2003,Liverfluke
 Surin,10-14,0,2003,Liverfluke
-Zone 14,10-14,12,2003,Liverfluke
+Zone:14,10-14,12,2003,Liverfluke
 Amnat Charoen,10-14,5,2003,Liverfluke
 Si Sa Ket,10-14,0,2003,Liverfluke
 Ubon Ratchathani,10-14,0,2003,Liverfluke
 Yasothon,10-14,7,2003,Liverfluke
 South Region,10-14,0,2003,Liverfluke
-Zone 15,10-14,0,2003,Liverfluke
+Zone:15,10-14,0,2003,Liverfluke
 Chumphon,10-14,0,2003,Liverfluke
 Ranong,10-14,0,2003,Liverfluke
 Surat Thani,10-14,0,2003,Liverfluke
-Zone 16,10-14,0,2003,Liverfluke
+Zone:16,10-14,0,2003,Liverfluke
 Nakhon Si Thammarat,10-14,0,2003,Liverfluke
 Phatthalung,10-14,0,2003,Liverfluke
 Trang,10-14,0,2003,Liverfluke
-Zone 17,10-14,0,2003,Liverfluke
+Zone:17,10-14,0,2003,Liverfluke
 Krabi,10-14,0,2003,Liverfluke
 Phangnga,10-14,0,2003,Liverfluke
 Phuket,10-14,0,2003,Liverfluke
-Zone 18,10-14,0,2003,Liverfluke
+Zone:18,10-14,0,2003,Liverfluke
 Narathiwat,10-14,0,2003,Liverfluke
 Pattani,10-14,0,2003,Liverfluke
 Yala,10-14,0,2003,Liverfluke
-Zone 19,10-14,0,2003,Liverfluke
+Zone:19,10-14,0,2003,Liverfluke
 Satun,10-14,0,2003,Liverfluke
 Songkhla,10-14,0,2003,Liverfluke
 Total,15-24,40,2003,Liverfluke
 North Region,15-24,2,2003,Liverfluke
-Zone 1,15-24,2,2003,Liverfluke
+Zone:1,15-24,2,2003,Liverfluke
 Chiang Mai,15-24,0,2003,Liverfluke
 Chiang Rai,15-24,1,2003,Liverfluke
 Lampang,15-24,0,2003,Liverfluke
@@ -18300,98 +18300,98 @@ Mae Hong Son,15-24,0,2003,Liverfluke
 Nan,15-24,1,2003,Liverfluke
 Phayao,15-24,0,2003,Liverfluke
 Phrae,15-24,0,2003,Liverfluke
-Zone 2,15-24,0,2003,Liverfluke
+Zone:2,15-24,0,2003,Liverfluke
 Phetchabun,15-24,0,2003,Liverfluke
 Phitsanulok,15-24,0,2003,Liverfluke
 Sukhothai,15-24,0,2003,Liverfluke
 Tak,15-24,0,2003,Liverfluke
 Uttaradit,15-24,0,2003,Liverfluke
-Zone 3,15-24,0,2003,Liverfluke
+Zone:3,15-24,0,2003,Liverfluke
 Kamphaeng Phet,15-24,0,2003,Liverfluke
 Nakhon Sawan,15-24,0,2003,Liverfluke
 Phichit,15-24,0,2003,Liverfluke
 Uthai Thani,15-24,0,2003,Liverfluke
 Central Region,15-24,0,2003,Liverfluke
 Bangkok,15-24,0,2003,Liverfluke
-Zone 4,15-24,0,2003,Liverfluke
+Zone:4,15-24,0,2003,Liverfluke
 Ang Thong,15-24,0,2003,Liverfluke
 Nonthaburi,15-24,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,15-24,0,2003,Liverfluke
 Pathum Thani,15-24,0,2003,Liverfluke
-Zone 5,15-24,0,2003,Liverfluke
+Zone:5,15-24,0,2003,Liverfluke
 Chai Nat,15-24,0,2003,Liverfluke
 Lop Buri,15-24,0,2003,Liverfluke
 Saraburi,15-24,0,2003,Liverfluke
 Sing Buri,15-24,0,2003,Liverfluke
-Zone 6,15-24,0,2003,Liverfluke
+Zone:6,15-24,0,2003,Liverfluke
 Kanchanaburi,15-24,0,2003,Liverfluke
 Nakhon Pathom,15-24,0,2003,Liverfluke
 Ratchaburi,15-24,0,2003,Liverfluke
 Suphan Buri,15-24,0,2003,Liverfluke
-Zone 7,15-24,0,2003,Liverfluke
+Zone:7,15-24,0,2003,Liverfluke
 Phetchaburi,15-24,0,2003,Liverfluke
 Prachuap Khiri Khan,15-24,0,2003,Liverfluke
 Samut Sakhon,15-24,0,2003,Liverfluke
 Samut Songkhram,15-24,0,2003,Liverfluke
-Zone 8,15-24,0,2003,Liverfluke
+Zone:8,15-24,0,2003,Liverfluke
 Chachoengsao,15-24,0,2003,Liverfluke
 Nakhon Nayok,15-24,0,2003,Liverfluke
 Prachin Buri,15-24,0,2003,Liverfluke
 Sa Kaeo,15-24,0,2003,Liverfluke
 Samut Prakan,15-24,0,2003,Liverfluke
-Zone 9,15-24,0,2003,Liverfluke
+Zone:9,15-24,0,2003,Liverfluke
 Chanthaburi,15-24,0,2003,Liverfluke
 Chon Buri,15-24,0,2003,Liverfluke
 Rayong,15-24,0,2003,Liverfluke
 Trat,15-24,0,2003,Liverfluke
 North-Eastern Region,15-24,38,2003,Liverfluke
-Zone 10,15-24,0,2003,Liverfluke
+Zone:10,15-24,0,2003,Liverfluke
 Loei,15-24,0,2003,Liverfluke
 Nong Bua Lam Phu,15-24,0,2003,Liverfluke
 Nong Khai,15-24,0,2003,Liverfluke
 Udon Thani,15-24,0,2003,Liverfluke
-Zone 11,15-24,35,2003,Liverfluke
+Zone:11,15-24,35,2003,Liverfluke
 Kalasin,15-24,0,2003,Liverfluke
 Mukdahan,15-24,0,2003,Liverfluke
 Nakhon Phanom,15-24,0,2003,Liverfluke
 Sakon Nakhon,15-24,35,2003,Liverfluke
-Zone 12,15-24,0,2003,Liverfluke
+Zone:12,15-24,0,2003,Liverfluke
 Khon Kaen,15-24,0,2003,Liverfluke
 Maha Sarakham,15-24,0,2003,Liverfluke
 Roi Et,15-24,0,2003,Liverfluke
-Zone 13,15-24,0,2003,Liverfluke
+Zone:13,15-24,0,2003,Liverfluke
 Buri Ram,15-24,0,2003,Liverfluke
 Chaiyaphum,15-24,0,2003,Liverfluke
 Nakhon Ratchasima,15-24,0,2003,Liverfluke
 Surin,15-24,0,2003,Liverfluke
-Zone 14,15-24,3,2003,Liverfluke
+Zone:14,15-24,3,2003,Liverfluke
 Amnat Charoen,15-24,0,2003,Liverfluke
 Si Sa Ket,15-24,0,2003,Liverfluke
 Ubon Ratchathani,15-24,0,2003,Liverfluke
 Yasothon,15-24,3,2003,Liverfluke
 South Region,15-24,0,2003,Liverfluke
-Zone 15,15-24,0,2003,Liverfluke
+Zone:15,15-24,0,2003,Liverfluke
 Chumphon,15-24,0,2003,Liverfluke
 Ranong,15-24,0,2003,Liverfluke
 Surat Thani,15-24,0,2003,Liverfluke
-Zone 16,15-24,0,2003,Liverfluke
+Zone:16,15-24,0,2003,Liverfluke
 Nakhon Si Thammarat,15-24,0,2003,Liverfluke
 Phatthalung,15-24,0,2003,Liverfluke
 Trang,15-24,0,2003,Liverfluke
-Zone 17,15-24,0,2003,Liverfluke
+Zone:17,15-24,0,2003,Liverfluke
 Krabi,15-24,0,2003,Liverfluke
 Phangnga,15-24,0,2003,Liverfluke
 Phuket,15-24,0,2003,Liverfluke
-Zone 18,15-24,0,2003,Liverfluke
+Zone:18,15-24,0,2003,Liverfluke
 Narathiwat,15-24,0,2003,Liverfluke
 Pattani,15-24,0,2003,Liverfluke
 Yala,15-24,0,2003,Liverfluke
-Zone 19,15-24,0,2003,Liverfluke
+Zone:19,15-24,0,2003,Liverfluke
 Satun,15-24,0,2003,Liverfluke
 Songkhla,15-24,0,2003,Liverfluke
 Total,25-34,124,2003,Liverfluke
 North Region,25-34,5,2003,Liverfluke
-Zone 1,25-34,4,2003,Liverfluke
+Zone:1,25-34,4,2003,Liverfluke
 Chiang Mai,25-34,0,2003,Liverfluke
 Chiang Rai,25-34,1,2003,Liverfluke
 Lampang,25-34,3,2003,Liverfluke
@@ -18400,98 +18400,98 @@ Mae Hong Son,25-34,0,2003,Liverfluke
 Nan,25-34,0,2003,Liverfluke
 Phayao,25-34,0,2003,Liverfluke
 Phrae,25-34,0,2003,Liverfluke
-Zone 2,25-34,1,2003,Liverfluke
+Zone:2,25-34,1,2003,Liverfluke
 Phetchabun,25-34,0,2003,Liverfluke
 Phitsanulok,25-34,0,2003,Liverfluke
 Sukhothai,25-34,1,2003,Liverfluke
 Tak,25-34,0,2003,Liverfluke
 Uttaradit,25-34,0,2003,Liverfluke
-Zone 3,25-34,0,2003,Liverfluke
+Zone:3,25-34,0,2003,Liverfluke
 Kamphaeng Phet,25-34,0,2003,Liverfluke
 Nakhon Sawan,25-34,0,2003,Liverfluke
 Phichit,25-34,0,2003,Liverfluke
 Uthai Thani,25-34,0,2003,Liverfluke
 Central Region,25-34,0,2003,Liverfluke
 Bangkok,25-34,0,2003,Liverfluke
-Zone 4,25-34,0,2003,Liverfluke
+Zone:4,25-34,0,2003,Liverfluke
 Ang Thong,25-34,0,2003,Liverfluke
 Nonthaburi,25-34,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,25-34,0,2003,Liverfluke
 Pathum Thani,25-34,0,2003,Liverfluke
-Zone 5,25-34,0,2003,Liverfluke
+Zone:5,25-34,0,2003,Liverfluke
 Chai Nat,25-34,0,2003,Liverfluke
 Lop Buri,25-34,0,2003,Liverfluke
 Saraburi,25-34,0,2003,Liverfluke
 Sing Buri,25-34,0,2003,Liverfluke
-Zone 6,25-34,0,2003,Liverfluke
+Zone:6,25-34,0,2003,Liverfluke
 Kanchanaburi,25-34,0,2003,Liverfluke
 Nakhon Pathom,25-34,0,2003,Liverfluke
 Ratchaburi,25-34,0,2003,Liverfluke
 Suphan Buri,25-34,0,2003,Liverfluke
-Zone 7,25-34,0,2003,Liverfluke
+Zone:7,25-34,0,2003,Liverfluke
 Phetchaburi,25-34,0,2003,Liverfluke
 Prachuap Khiri Khan,25-34,0,2003,Liverfluke
 Samut Sakhon,25-34,0,2003,Liverfluke
 Samut Songkhram,25-34,0,2003,Liverfluke
-Zone 8,25-34,0,2003,Liverfluke
+Zone:8,25-34,0,2003,Liverfluke
 Chachoengsao,25-34,0,2003,Liverfluke
 Nakhon Nayok,25-34,0,2003,Liverfluke
 Prachin Buri,25-34,0,2003,Liverfluke
 Sa Kaeo,25-34,0,2003,Liverfluke
 Samut Prakan,25-34,0,2003,Liverfluke
-Zone 9,25-34,0,2003,Liverfluke
+Zone:9,25-34,0,2003,Liverfluke
 Chanthaburi,25-34,0,2003,Liverfluke
 Chon Buri,25-34,0,2003,Liverfluke
 Rayong,25-34,0,2003,Liverfluke
 Trat,25-34,0,2003,Liverfluke
 North-Eastern Region,25-34,119,2003,Liverfluke
-Zone 10,25-34,1,2003,Liverfluke
+Zone:10,25-34,1,2003,Liverfluke
 Loei,25-34,0,2003,Liverfluke
 Nong Bua Lam Phu,25-34,0,2003,Liverfluke
 Nong Khai,25-34,0,2003,Liverfluke
 Udon Thani,25-34,1,2003,Liverfluke
-Zone 11,25-34,77,2003,Liverfluke
+Zone:11,25-34,77,2003,Liverfluke
 Kalasin,25-34,1,2003,Liverfluke
 Mukdahan,25-34,0,2003,Liverfluke
 Nakhon Phanom,25-34,0,2003,Liverfluke
 Sakon Nakhon,25-34,76,2003,Liverfluke
-Zone 12,25-34,0,2003,Liverfluke
+Zone:12,25-34,0,2003,Liverfluke
 Khon Kaen,25-34,0,2003,Liverfluke
 Maha Sarakham,25-34,0,2003,Liverfluke
 Roi Et,25-34,0,2003,Liverfluke
-Zone 13,25-34,0,2003,Liverfluke
+Zone:13,25-34,0,2003,Liverfluke
 Buri Ram,25-34,0,2003,Liverfluke
 Chaiyaphum,25-34,0,2003,Liverfluke
 Nakhon Ratchasima,25-34,0,2003,Liverfluke
 Surin,25-34,0,2003,Liverfluke
-Zone 14,25-34,41,2003,Liverfluke
+Zone:14,25-34,41,2003,Liverfluke
 Amnat Charoen,25-34,10,2003,Liverfluke
 Si Sa Ket,25-34,0,2003,Liverfluke
 Ubon Ratchathani,25-34,0,2003,Liverfluke
 Yasothon,25-34,31,2003,Liverfluke
 South Region,25-34,0,2003,Liverfluke
-Zone 15,25-34,0,2003,Liverfluke
+Zone:15,25-34,0,2003,Liverfluke
 Chumphon,25-34,0,2003,Liverfluke
 Ranong,25-34,0,2003,Liverfluke
 Surat Thani,25-34,0,2003,Liverfluke
-Zone 16,25-34,0,2003,Liverfluke
+Zone:16,25-34,0,2003,Liverfluke
 Nakhon Si Thammarat,25-34,0,2003,Liverfluke
 Phatthalung,25-34,0,2003,Liverfluke
 Trang,25-34,0,2003,Liverfluke
-Zone 17,25-34,0,2003,Liverfluke
+Zone:17,25-34,0,2003,Liverfluke
 Krabi,25-34,0,2003,Liverfluke
 Phangnga,25-34,0,2003,Liverfluke
 Phuket,25-34,0,2003,Liverfluke
-Zone 18,25-34,0,2003,Liverfluke
+Zone:18,25-34,0,2003,Liverfluke
 Narathiwat,25-34,0,2003,Liverfluke
 Pattani,25-34,0,2003,Liverfluke
 Yala,25-34,0,2003,Liverfluke
-Zone 19,25-34,0,2003,Liverfluke
+Zone:19,25-34,0,2003,Liverfluke
 Satun,25-34,0,2003,Liverfluke
 Songkhla,25-34,0,2003,Liverfluke
 Total,35-44,194,2003,Liverfluke
 North Region,35-44,6,2003,Liverfluke
-Zone 1,35-44,5,2003,Liverfluke
+Zone:1,35-44,5,2003,Liverfluke
 Chiang Mai,35-44,0,2003,Liverfluke
 Chiang Rai,35-44,1,2003,Liverfluke
 Lampang,35-44,4,2003,Liverfluke
@@ -18500,98 +18500,98 @@ Mae Hong Son,35-44,0,2003,Liverfluke
 Nan,35-44,0,2003,Liverfluke
 Phayao,35-44,0,2003,Liverfluke
 Phrae,35-44,0,2003,Liverfluke
-Zone 2,35-44,0,2003,Liverfluke
+Zone:2,35-44,0,2003,Liverfluke
 Phetchabun,35-44,0,2003,Liverfluke
 Phitsanulok,35-44,0,2003,Liverfluke
 Sukhothai,35-44,0,2003,Liverfluke
 Tak,35-44,0,2003,Liverfluke
 Uttaradit,35-44,0,2003,Liverfluke
-Zone 3,35-44,1,2003,Liverfluke
+Zone:3,35-44,1,2003,Liverfluke
 Kamphaeng Phet,35-44,0,2003,Liverfluke
 Nakhon Sawan,35-44,1,2003,Liverfluke
 Phichit,35-44,0,2003,Liverfluke
 Uthai Thani,35-44,0,2003,Liverfluke
 Central Region,35-44,0,2003,Liverfluke
 Bangkok,35-44,0,2003,Liverfluke
-Zone 4,35-44,0,2003,Liverfluke
+Zone:4,35-44,0,2003,Liverfluke
 Ang Thong,35-44,0,2003,Liverfluke
 Nonthaburi,35-44,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,35-44,0,2003,Liverfluke
 Pathum Thani,35-44,0,2003,Liverfluke
-Zone 5,35-44,0,2003,Liverfluke
+Zone:5,35-44,0,2003,Liverfluke
 Chai Nat,35-44,0,2003,Liverfluke
 Lop Buri,35-44,0,2003,Liverfluke
 Saraburi,35-44,0,2003,Liverfluke
 Sing Buri,35-44,0,2003,Liverfluke
-Zone 6,35-44,0,2003,Liverfluke
+Zone:6,35-44,0,2003,Liverfluke
 Kanchanaburi,35-44,0,2003,Liverfluke
 Nakhon Pathom,35-44,0,2003,Liverfluke
 Ratchaburi,35-44,0,2003,Liverfluke
 Suphan Buri,35-44,0,2003,Liverfluke
-Zone 7,35-44,0,2003,Liverfluke
+Zone:7,35-44,0,2003,Liverfluke
 Phetchaburi,35-44,0,2003,Liverfluke
 Prachuap Khiri Khan,35-44,0,2003,Liverfluke
 Samut Sakhon,35-44,0,2003,Liverfluke
 Samut Songkhram,35-44,0,2003,Liverfluke
-Zone 8,35-44,0,2003,Liverfluke
+Zone:8,35-44,0,2003,Liverfluke
 Chachoengsao,35-44,0,2003,Liverfluke
 Nakhon Nayok,35-44,0,2003,Liverfluke
 Prachin Buri,35-44,0,2003,Liverfluke
 Sa Kaeo,35-44,0,2003,Liverfluke
 Samut Prakan,35-44,0,2003,Liverfluke
-Zone 9,35-44,0,2003,Liverfluke
+Zone:9,35-44,0,2003,Liverfluke
 Chanthaburi,35-44,0,2003,Liverfluke
 Chon Buri,35-44,0,2003,Liverfluke
 Rayong,35-44,0,2003,Liverfluke
 Trat,35-44,0,2003,Liverfluke
 North-Eastern Region,35-44,187,2003,Liverfluke
-Zone 10,35-44,0,2003,Liverfluke
+Zone:10,35-44,0,2003,Liverfluke
 Loei,35-44,0,2003,Liverfluke
 Nong Bua Lam Phu,35-44,0,2003,Liverfluke
 Nong Khai,35-44,0,2003,Liverfluke
 Udon Thani,35-44,0,2003,Liverfluke
-Zone 11,35-44,128,2003,Liverfluke
+Zone:11,35-44,128,2003,Liverfluke
 Kalasin,35-44,0,2003,Liverfluke
 Mukdahan,35-44,1,2003,Liverfluke
 Nakhon Phanom,35-44,0,2003,Liverfluke
 Sakon Nakhon,35-44,127,2003,Liverfluke
-Zone 12,35-44,1,2003,Liverfluke
+Zone:12,35-44,1,2003,Liverfluke
 Khon Kaen,35-44,1,2003,Liverfluke
 Maha Sarakham,35-44,0,2003,Liverfluke
 Roi Et,35-44,0,2003,Liverfluke
-Zone 13,35-44,2,2003,Liverfluke
+Zone:13,35-44,2,2003,Liverfluke
 Buri Ram,35-44,0,2003,Liverfluke
 Chaiyaphum,35-44,0,2003,Liverfluke
 Nakhon Ratchasima,35-44,2,2003,Liverfluke
 Surin,35-44,0,2003,Liverfluke
-Zone 14,35-44,56,2003,Liverfluke
+Zone:14,35-44,56,2003,Liverfluke
 Amnat Charoen,35-44,3,2003,Liverfluke
 Si Sa Ket,35-44,0,2003,Liverfluke
 Ubon Ratchathani,35-44,0,2003,Liverfluke
 Yasothon,35-44,53,2003,Liverfluke
 South Region,35-44,1,2003,Liverfluke
-Zone 15,35-44,0,2003,Liverfluke
+Zone:15,35-44,0,2003,Liverfluke
 Chumphon,35-44,0,2003,Liverfluke
 Ranong,35-44,0,2003,Liverfluke
 Surat Thani,35-44,0,2003,Liverfluke
-Zone 16,35-44,0,2003,Liverfluke
+Zone:16,35-44,0,2003,Liverfluke
 Nakhon Si Thammarat,35-44,0,2003,Liverfluke
 Phatthalung,35-44,0,2003,Liverfluke
 Trang,35-44,0,2003,Liverfluke
-Zone 17,35-44,1,2003,Liverfluke
+Zone:17,35-44,1,2003,Liverfluke
 Krabi,35-44,0,2003,Liverfluke
 Phangnga,35-44,0,2003,Liverfluke
 Phuket,35-44,1,2003,Liverfluke
-Zone 18,35-44,0,2003,Liverfluke
+Zone:18,35-44,0,2003,Liverfluke
 Narathiwat,35-44,0,2003,Liverfluke
 Pattani,35-44,0,2003,Liverfluke
 Yala,35-44,0,2003,Liverfluke
-Zone 19,35-44,0,2003,Liverfluke
+Zone:19,35-44,0,2003,Liverfluke
 Satun,35-44,0,2003,Liverfluke
 Songkhla,35-44,0,2003,Liverfluke
 Total,45-54,218,2003,Liverfluke
 North Region,45-54,3,2003,Liverfluke
-Zone 1,45-54,1,2003,Liverfluke
+Zone:1,45-54,1,2003,Liverfluke
 Chiang Mai,45-54,0,2003,Liverfluke
 Chiang Rai,45-54,0,2003,Liverfluke
 Lampang,45-54,1,2003,Liverfluke
@@ -18600,98 +18600,98 @@ Mae Hong Son,45-54,0,2003,Liverfluke
 Nan,45-54,0,2003,Liverfluke
 Phayao,45-54,0,2003,Liverfluke
 Phrae,45-54,0,2003,Liverfluke
-Zone 2,45-54,0,2003,Liverfluke
+Zone:2,45-54,0,2003,Liverfluke
 Phetchabun,45-54,0,2003,Liverfluke
 Phitsanulok,45-54,0,2003,Liverfluke
 Sukhothai,45-54,0,2003,Liverfluke
 Tak,45-54,0,2003,Liverfluke
 Uttaradit,45-54,0,2003,Liverfluke
-Zone 3,45-54,2,2003,Liverfluke
+Zone:3,45-54,2,2003,Liverfluke
 Kamphaeng Phet,45-54,0,2003,Liverfluke
 Nakhon Sawan,45-54,2,2003,Liverfluke
 Phichit,45-54,0,2003,Liverfluke
 Uthai Thani,45-54,0,2003,Liverfluke
 Central Region,45-54,0,2003,Liverfluke
 Bangkok,45-54,0,2003,Liverfluke
-Zone 4,45-54,0,2003,Liverfluke
+Zone:4,45-54,0,2003,Liverfluke
 Ang Thong,45-54,0,2003,Liverfluke
 Nonthaburi,45-54,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,45-54,0,2003,Liverfluke
 Pathum Thani,45-54,0,2003,Liverfluke
-Zone 5,45-54,0,2003,Liverfluke
+Zone:5,45-54,0,2003,Liverfluke
 Chai Nat,45-54,0,2003,Liverfluke
 Lop Buri,45-54,0,2003,Liverfluke
 Saraburi,45-54,0,2003,Liverfluke
 Sing Buri,45-54,0,2003,Liverfluke
-Zone 6,45-54,0,2003,Liverfluke
+Zone:6,45-54,0,2003,Liverfluke
 Kanchanaburi,45-54,0,2003,Liverfluke
 Nakhon Pathom,45-54,0,2003,Liverfluke
 Ratchaburi,45-54,0,2003,Liverfluke
 Suphan Buri,45-54,0,2003,Liverfluke
-Zone 7,45-54,0,2003,Liverfluke
+Zone:7,45-54,0,2003,Liverfluke
 Phetchaburi,45-54,0,2003,Liverfluke
 Prachuap Khiri Khan,45-54,0,2003,Liverfluke
 Samut Sakhon,45-54,0,2003,Liverfluke
 Samut Songkhram,45-54,0,2003,Liverfluke
-Zone 8,45-54,0,2003,Liverfluke
+Zone:8,45-54,0,2003,Liverfluke
 Chachoengsao,45-54,0,2003,Liverfluke
 Nakhon Nayok,45-54,0,2003,Liverfluke
 Prachin Buri,45-54,0,2003,Liverfluke
 Sa Kaeo,45-54,0,2003,Liverfluke
 Samut Prakan,45-54,0,2003,Liverfluke
-Zone 9,45-54,0,2003,Liverfluke
+Zone:9,45-54,0,2003,Liverfluke
 Chanthaburi,45-54,0,2003,Liverfluke
 Chon Buri,45-54,0,2003,Liverfluke
 Rayong,45-54,0,2003,Liverfluke
 Trat,45-54,0,2003,Liverfluke
 North-Eastern Region,45-54,215,2003,Liverfluke
-Zone 10,45-54,0,2003,Liverfluke
+Zone:10,45-54,0,2003,Liverfluke
 Loei,45-54,0,2003,Liverfluke
 Nong Bua Lam Phu,45-54,0,2003,Liverfluke
 Nong Khai,45-54,0,2003,Liverfluke
 Udon Thani,45-54,0,2003,Liverfluke
-Zone 11,45-54,160,2003,Liverfluke
+Zone:11,45-54,160,2003,Liverfluke
 Kalasin,45-54,0,2003,Liverfluke
 Mukdahan,45-54,1,2003,Liverfluke
 Nakhon Phanom,45-54,0,2003,Liverfluke
 Sakon Nakhon,45-54,159,2003,Liverfluke
-Zone 12,45-54,0,2003,Liverfluke
+Zone:12,45-54,0,2003,Liverfluke
 Khon Kaen,45-54,0,2003,Liverfluke
 Maha Sarakham,45-54,0,2003,Liverfluke
 Roi Et,45-54,0,2003,Liverfluke
-Zone 13,45-54,1,2003,Liverfluke
+Zone:13,45-54,1,2003,Liverfluke
 Buri Ram,45-54,0,2003,Liverfluke
 Chaiyaphum,45-54,0,2003,Liverfluke
 Nakhon Ratchasima,45-54,1,2003,Liverfluke
 Surin,45-54,0,2003,Liverfluke
-Zone 14,45-54,54,2003,Liverfluke
+Zone:14,45-54,54,2003,Liverfluke
 Amnat Charoen,45-54,7,2003,Liverfluke
 Si Sa Ket,45-54,0,2003,Liverfluke
 Ubon Ratchathani,45-54,0,2003,Liverfluke
 Yasothon,45-54,47,2003,Liverfluke
 South Region,45-54,0,2003,Liverfluke
-Zone 15,45-54,0,2003,Liverfluke
+Zone:15,45-54,0,2003,Liverfluke
 Chumphon,45-54,0,2003,Liverfluke
 Ranong,45-54,0,2003,Liverfluke
 Surat Thani,45-54,0,2003,Liverfluke
-Zone 16,45-54,0,2003,Liverfluke
+Zone:16,45-54,0,2003,Liverfluke
 Nakhon Si Thammarat,45-54,0,2003,Liverfluke
 Phatthalung,45-54,0,2003,Liverfluke
 Trang,45-54,0,2003,Liverfluke
-Zone 17,45-54,0,2003,Liverfluke
+Zone:17,45-54,0,2003,Liverfluke
 Krabi,45-54,0,2003,Liverfluke
 Phangnga,45-54,0,2003,Liverfluke
 Phuket,45-54,0,2003,Liverfluke
-Zone 18,45-54,0,2003,Liverfluke
+Zone:18,45-54,0,2003,Liverfluke
 Narathiwat,45-54,0,2003,Liverfluke
 Pattani,45-54,0,2003,Liverfluke
 Yala,45-54,0,2003,Liverfluke
-Zone 19,45-54,0,2003,Liverfluke
+Zone:19,45-54,0,2003,Liverfluke
 Satun,45-54,0,2003,Liverfluke
 Songkhla,45-54,0,2003,Liverfluke
 Total,55-64,125,2003,Liverfluke
 North Region,55-64,2,2003,Liverfluke
-Zone 1,55-64,2,2003,Liverfluke
+Zone:1,55-64,2,2003,Liverfluke
 Chiang Mai,55-64,0,2003,Liverfluke
 Chiang Rai,55-64,0,2003,Liverfluke
 Lampang,55-64,2,2003,Liverfluke
@@ -18700,98 +18700,98 @@ Mae Hong Son,55-64,0,2003,Liverfluke
 Nan,55-64,0,2003,Liverfluke
 Phayao,55-64,0,2003,Liverfluke
 Phrae,55-64,0,2003,Liverfluke
-Zone 2,55-64,0,2003,Liverfluke
+Zone:2,55-64,0,2003,Liverfluke
 Phetchabun,55-64,0,2003,Liverfluke
 Phitsanulok,55-64,0,2003,Liverfluke
 Sukhothai,55-64,0,2003,Liverfluke
 Tak,55-64,0,2003,Liverfluke
 Uttaradit,55-64,0,2003,Liverfluke
-Zone 3,55-64,0,2003,Liverfluke
+Zone:3,55-64,0,2003,Liverfluke
 Kamphaeng Phet,55-64,0,2003,Liverfluke
 Nakhon Sawan,55-64,0,2003,Liverfluke
 Phichit,55-64,0,2003,Liverfluke
 Uthai Thani,55-64,0,2003,Liverfluke
 Central Region,55-64,0,2003,Liverfluke
 Bangkok,55-64,0,2003,Liverfluke
-Zone 4,55-64,0,2003,Liverfluke
+Zone:4,55-64,0,2003,Liverfluke
 Ang Thong,55-64,0,2003,Liverfluke
 Nonthaburi,55-64,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,55-64,0,2003,Liverfluke
 Pathum Thani,55-64,0,2003,Liverfluke
-Zone 5,55-64,0,2003,Liverfluke
+Zone:5,55-64,0,2003,Liverfluke
 Chai Nat,55-64,0,2003,Liverfluke
 Lop Buri,55-64,0,2003,Liverfluke
 Saraburi,55-64,0,2003,Liverfluke
 Sing Buri,55-64,0,2003,Liverfluke
-Zone 6,55-64,0,2003,Liverfluke
+Zone:6,55-64,0,2003,Liverfluke
 Kanchanaburi,55-64,0,2003,Liverfluke
 Nakhon Pathom,55-64,0,2003,Liverfluke
 Ratchaburi,55-64,0,2003,Liverfluke
 Suphan Buri,55-64,0,2003,Liverfluke
-Zone 7,55-64,0,2003,Liverfluke
+Zone:7,55-64,0,2003,Liverfluke
 Phetchaburi,55-64,0,2003,Liverfluke
 Prachuap Khiri Khan,55-64,0,2003,Liverfluke
 Samut Sakhon,55-64,0,2003,Liverfluke
 Samut Songkhram,55-64,0,2003,Liverfluke
-Zone 8,55-64,0,2003,Liverfluke
+Zone:8,55-64,0,2003,Liverfluke
 Chachoengsao,55-64,0,2003,Liverfluke
 Nakhon Nayok,55-64,0,2003,Liverfluke
 Prachin Buri,55-64,0,2003,Liverfluke
 Sa Kaeo,55-64,0,2003,Liverfluke
 Samut Prakan,55-64,0,2003,Liverfluke
-Zone 9,55-64,0,2003,Liverfluke
+Zone:9,55-64,0,2003,Liverfluke
 Chanthaburi,55-64,0,2003,Liverfluke
 Chon Buri,55-64,0,2003,Liverfluke
 Rayong,55-64,0,2003,Liverfluke
 Trat,55-64,0,2003,Liverfluke
 North-Eastern Region,55-64,123,2003,Liverfluke
-Zone 10,55-64,2,2003,Liverfluke
+Zone:10,55-64,2,2003,Liverfluke
 Loei,55-64,1,2003,Liverfluke
 Nong Bua Lam Phu,55-64,1,2003,Liverfluke
 Nong Khai,55-64,0,2003,Liverfluke
 Udon Thani,55-64,0,2003,Liverfluke
-Zone 11,55-64,91,2003,Liverfluke
+Zone:11,55-64,91,2003,Liverfluke
 Kalasin,55-64,0,2003,Liverfluke
 Mukdahan,55-64,0,2003,Liverfluke
 Nakhon Phanom,55-64,0,2003,Liverfluke
 Sakon Nakhon,55-64,91,2003,Liverfluke
-Zone 12,55-64,0,2003,Liverfluke
+Zone:12,55-64,0,2003,Liverfluke
 Khon Kaen,55-64,0,2003,Liverfluke
 Maha Sarakham,55-64,0,2003,Liverfluke
 Roi Et,55-64,0,2003,Liverfluke
-Zone 13,55-64,0,2003,Liverfluke
+Zone:13,55-64,0,2003,Liverfluke
 Buri Ram,55-64,0,2003,Liverfluke
 Chaiyaphum,55-64,0,2003,Liverfluke
 Nakhon Ratchasima,55-64,0,2003,Liverfluke
 Surin,55-64,0,2003,Liverfluke
-Zone 14,55-64,30,2003,Liverfluke
+Zone:14,55-64,30,2003,Liverfluke
 Amnat Charoen,55-64,4,2003,Liverfluke
 Si Sa Ket,55-64,0,2003,Liverfluke
 Ubon Ratchathani,55-64,0,2003,Liverfluke
 Yasothon,55-64,26,2003,Liverfluke
 South Region,55-64,0,2003,Liverfluke
-Zone 15,55-64,0,2003,Liverfluke
+Zone:15,55-64,0,2003,Liverfluke
 Chumphon,55-64,0,2003,Liverfluke
 Ranong,55-64,0,2003,Liverfluke
 Surat Thani,55-64,0,2003,Liverfluke
-Zone 16,55-64,0,2003,Liverfluke
+Zone:16,55-64,0,2003,Liverfluke
 Nakhon Si Thammarat,55-64,0,2003,Liverfluke
 Phatthalung,55-64,0,2003,Liverfluke
 Trang,55-64,0,2003,Liverfluke
-Zone 17,55-64,0,2003,Liverfluke
+Zone:17,55-64,0,2003,Liverfluke
 Krabi,55-64,0,2003,Liverfluke
 Phangnga,55-64,0,2003,Liverfluke
 Phuket,55-64,0,2003,Liverfluke
-Zone 18,55-64,0,2003,Liverfluke
+Zone:18,55-64,0,2003,Liverfluke
 Narathiwat,55-64,0,2003,Liverfluke
 Pattani,55-64,0,2003,Liverfluke
 Yala,55-64,0,2003,Liverfluke
-Zone 19,55-64,0,2003,Liverfluke
+Zone:19,55-64,0,2003,Liverfluke
 Satun,55-64,0,2003,Liverfluke
 Songkhla,55-64,0,2003,Liverfluke
 Total,65+,93,2003,Liverfluke
 North Region,65+,3,2003,Liverfluke
-Zone 1,65+,2,2003,Liverfluke
+Zone:1,65+,2,2003,Liverfluke
 Chiang Mai,65+,0,2003,Liverfluke
 Chiang Rai,65+,0,2003,Liverfluke
 Lampang,65+,2,2003,Liverfluke
@@ -18800,98 +18800,98 @@ Mae Hong Son,65+,0,2003,Liverfluke
 Nan,65+,0,2003,Liverfluke
 Phayao,65+,0,2003,Liverfluke
 Phrae,65+,0,2003,Liverfluke
-Zone 2,65+,0,2003,Liverfluke
+Zone:2,65+,0,2003,Liverfluke
 Phetchabun,65+,0,2003,Liverfluke
 Phitsanulok,65+,0,2003,Liverfluke
 Sukhothai,65+,0,2003,Liverfluke
 Tak,65+,0,2003,Liverfluke
 Uttaradit,65+,0,2003,Liverfluke
-Zone 3,65+,1,2003,Liverfluke
+Zone:3,65+,1,2003,Liverfluke
 Kamphaeng Phet,65+,0,2003,Liverfluke
 Nakhon Sawan,65+,1,2003,Liverfluke
 Phichit,65+,0,2003,Liverfluke
 Uthai Thani,65+,0,2003,Liverfluke
 Central Region,65+,0,2003,Liverfluke
 Bangkok,65+,0,2003,Liverfluke
-Zone 4,65+,0,2003,Liverfluke
+Zone:4,65+,0,2003,Liverfluke
 Ang Thong,65+,0,2003,Liverfluke
 Nonthaburi,65+,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,65+,0,2003,Liverfluke
 Pathum Thani,65+,0,2003,Liverfluke
-Zone 5,65+,0,2003,Liverfluke
+Zone:5,65+,0,2003,Liverfluke
 Chai Nat,65+,0,2003,Liverfluke
 Lop Buri,65+,0,2003,Liverfluke
 Saraburi,65+,0,2003,Liverfluke
 Sing Buri,65+,0,2003,Liverfluke
-Zone 6,65+,0,2003,Liverfluke
+Zone:6,65+,0,2003,Liverfluke
 Kanchanaburi,65+,0,2003,Liverfluke
 Nakhon Pathom,65+,0,2003,Liverfluke
 Ratchaburi,65+,0,2003,Liverfluke
 Suphan Buri,65+,0,2003,Liverfluke
-Zone 7,65+,0,2003,Liverfluke
+Zone:7,65+,0,2003,Liverfluke
 Phetchaburi,65+,0,2003,Liverfluke
 Prachuap Khiri Khan,65+,0,2003,Liverfluke
 Samut Sakhon,65+,0,2003,Liverfluke
 Samut Songkhram,65+,0,2003,Liverfluke
-Zone 8,65+,0,2003,Liverfluke
+Zone:8,65+,0,2003,Liverfluke
 Chachoengsao,65+,0,2003,Liverfluke
 Nakhon Nayok,65+,0,2003,Liverfluke
 Prachin Buri,65+,0,2003,Liverfluke
 Sa Kaeo,65+,0,2003,Liverfluke
 Samut Prakan,65+,0,2003,Liverfluke
-Zone 9,65+,0,2003,Liverfluke
+Zone:9,65+,0,2003,Liverfluke
 Chanthaburi,65+,0,2003,Liverfluke
 Chon Buri,65+,0,2003,Liverfluke
 Rayong,65+,0,2003,Liverfluke
 Trat,65+,0,2003,Liverfluke
 North-Eastern Region,65+,90,2003,Liverfluke
-Zone 10,65+,0,2003,Liverfluke
+Zone:10,65+,0,2003,Liverfluke
 Loei,65+,0,2003,Liverfluke
 Nong Bua Lam Phu,65+,0,2003,Liverfluke
 Nong Khai,65+,0,2003,Liverfluke
 Udon Thani,65+,0,2003,Liverfluke
-Zone 11,65+,75,2003,Liverfluke
+Zone:11,65+,75,2003,Liverfluke
 Kalasin,65+,0,2003,Liverfluke
 Mukdahan,65+,0,2003,Liverfluke
 Nakhon Phanom,65+,0,2003,Liverfluke
 Sakon Nakhon,65+,75,2003,Liverfluke
-Zone 12,65+,0,2003,Liverfluke
+Zone:12,65+,0,2003,Liverfluke
 Khon Kaen,65+,0,2003,Liverfluke
 Maha Sarakham,65+,0,2003,Liverfluke
 Roi Et,65+,0,2003,Liverfluke
-Zone 13,65+,1,2003,Liverfluke
+Zone:13,65+,1,2003,Liverfluke
 Buri Ram,65+,0,2003,Liverfluke
 Chaiyaphum,65+,0,2003,Liverfluke
 Nakhon Ratchasima,65+,1,2003,Liverfluke
 Surin,65+,0,2003,Liverfluke
-Zone 14,65+,14,2003,Liverfluke
+Zone:14,65+,14,2003,Liverfluke
 Amnat Charoen,65+,6,2003,Liverfluke
 Si Sa Ket,65+,0,2003,Liverfluke
 Ubon Ratchathani,65+,0,2003,Liverfluke
 Yasothon,65+,8,2003,Liverfluke
 South Region,65+,0,2003,Liverfluke
-Zone 15,65+,0,2003,Liverfluke
+Zone:15,65+,0,2003,Liverfluke
 Chumphon,65+,0,2003,Liverfluke
 Ranong,65+,0,2003,Liverfluke
 Surat Thani,65+,0,2003,Liverfluke
-Zone 16,65+,0,2003,Liverfluke
+Zone:16,65+,0,2003,Liverfluke
 Nakhon Si Thammarat,65+,0,2003,Liverfluke
 Phatthalung,65+,0,2003,Liverfluke
 Trang,65+,0,2003,Liverfluke
-Zone 17,65+,0,2003,Liverfluke
+Zone:17,65+,0,2003,Liverfluke
 Krabi,65+,0,2003,Liverfluke
 Phangnga,65+,0,2003,Liverfluke
 Phuket,65+,0,2003,Liverfluke
-Zone 18,65+,0,2003,Liverfluke
+Zone:18,65+,0,2003,Liverfluke
 Narathiwat,65+,0,2003,Liverfluke
 Pattani,65+,0,2003,Liverfluke
 Yala,65+,0,2003,Liverfluke
-Zone 19,65+,0,2003,Liverfluke
+Zone:19,65+,0,2003,Liverfluke
 Satun,65+,0,2003,Liverfluke
 Songkhla,65+,0,2003,Liverfluke
 Total,Unknown,0,2003,Liverfluke
 North Region,Unknown,0,2003,Liverfluke
-Zone 1,Unknown,0,2003,Liverfluke
+Zone:1,Unknown,0,2003,Liverfluke
 Chiang Mai,Unknown,0,2003,Liverfluke
 Chiang Rai,Unknown,0,2003,Liverfluke
 Lampang,Unknown,0,2003,Liverfluke
@@ -18900,93 +18900,93 @@ Mae Hong Son,Unknown,0,2003,Liverfluke
 Nan,Unknown,0,2003,Liverfluke
 Phayao,Unknown,0,2003,Liverfluke
 Phrae,Unknown,0,2003,Liverfluke
-Zone 2,Unknown,0,2003,Liverfluke
+Zone:2,Unknown,0,2003,Liverfluke
 Phetchabun,Unknown,0,2003,Liverfluke
 Phitsanulok,Unknown,0,2003,Liverfluke
 Sukhothai,Unknown,0,2003,Liverfluke
 Tak,Unknown,0,2003,Liverfluke
 Uttaradit,Unknown,0,2003,Liverfluke
-Zone 3,Unknown,0,2003,Liverfluke
+Zone:3,Unknown,0,2003,Liverfluke
 Kamphaeng Phet,Unknown,0,2003,Liverfluke
 Nakhon Sawan,Unknown,0,2003,Liverfluke
 Phichit,Unknown,0,2003,Liverfluke
 Uthai Thani,Unknown,0,2003,Liverfluke
 Central Region,Unknown,0,2003,Liverfluke
 Bangkok,Unknown,0,2003,Liverfluke
-Zone 4,Unknown,0,2003,Liverfluke
+Zone:4,Unknown,0,2003,Liverfluke
 Ang Thong,Unknown,0,2003,Liverfluke
 Nonthaburi,Unknown,0,2003,Liverfluke
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Liverfluke
 Pathum Thani,Unknown,0,2003,Liverfluke
-Zone 5,Unknown,0,2003,Liverfluke
+Zone:5,Unknown,0,2003,Liverfluke
 Chai Nat,Unknown,0,2003,Liverfluke
 Lop Buri,Unknown,0,2003,Liverfluke
 Saraburi,Unknown,0,2003,Liverfluke
 Sing Buri,Unknown,0,2003,Liverfluke
-Zone 6,Unknown,0,2003,Liverfluke
+Zone:6,Unknown,0,2003,Liverfluke
 Kanchanaburi,Unknown,0,2003,Liverfluke
 Nakhon Pathom,Unknown,0,2003,Liverfluke
 Ratchaburi,Unknown,0,2003,Liverfluke
 Suphan Buri,Unknown,0,2003,Liverfluke
-Zone 7,Unknown,0,2003,Liverfluke
+Zone:7,Unknown,0,2003,Liverfluke
 Phetchaburi,Unknown,0,2003,Liverfluke
 Prachuap Khiri Khan,Unknown,0,2003,Liverfluke
 Samut Sakhon,Unknown,0,2003,Liverfluke
 Samut Songkhram,Unknown,0,2003,Liverfluke
-Zone 8,Unknown,0,2003,Liverfluke
+Zone:8,Unknown,0,2003,Liverfluke
 Chachoengsao,Unknown,0,2003,Liverfluke
 Nakhon Nayok,Unknown,0,2003,Liverfluke
 Prachin Buri,Unknown,0,2003,Liverfluke
 Sa Kaeo,Unknown,0,2003,Liverfluke
 Samut Prakan,Unknown,0,2003,Liverfluke
-Zone 9,Unknown,0,2003,Liverfluke
+Zone:9,Unknown,0,2003,Liverfluke
 Chanthaburi,Unknown,0,2003,Liverfluke
 Chon Buri,Unknown,0,2003,Liverfluke
 Rayong,Unknown,0,2003,Liverfluke
 Trat,Unknown,0,2003,Liverfluke
 North-Eastern Region,Unknown,0,2003,Liverfluke
-Zone 10,Unknown,0,2003,Liverfluke
+Zone:10,Unknown,0,2003,Liverfluke
 Loei,Unknown,0,2003,Liverfluke
 Nong Bua Lam Phu,Unknown,0,2003,Liverfluke
 Nong Khai,Unknown,0,2003,Liverfluke
 Udon Thani,Unknown,0,2003,Liverfluke
-Zone 11,Unknown,0,2003,Liverfluke
+Zone:11,Unknown,0,2003,Liverfluke
 Kalasin,Unknown,0,2003,Liverfluke
 Mukdahan,Unknown,0,2003,Liverfluke
 Nakhon Phanom,Unknown,0,2003,Liverfluke
 Sakon Nakhon,Unknown,0,2003,Liverfluke
-Zone 12,Unknown,0,2003,Liverfluke
+Zone:12,Unknown,0,2003,Liverfluke
 Khon Kaen,Unknown,0,2003,Liverfluke
 Maha Sarakham,Unknown,0,2003,Liverfluke
 Roi Et,Unknown,0,2003,Liverfluke
-Zone 13,Unknown,0,2003,Liverfluke
+Zone:13,Unknown,0,2003,Liverfluke
 Buri Ram,Unknown,0,2003,Liverfluke
 Chaiyaphum,Unknown,0,2003,Liverfluke
 Nakhon Ratchasima,Unknown,0,2003,Liverfluke
 Surin,Unknown,0,2003,Liverfluke
-Zone 14,Unknown,0,2003,Liverfluke
+Zone:14,Unknown,0,2003,Liverfluke
 Amnat Charoen,Unknown,0,2003,Liverfluke
 Si Sa Ket,Unknown,0,2003,Liverfluke
 Ubon Ratchathani,Unknown,0,2003,Liverfluke
 Yasothon,Unknown,0,2003,Liverfluke
 South Region,Unknown,0,2003,Liverfluke
-Zone 15,Unknown,0,2003,Liverfluke
+Zone:15,Unknown,0,2003,Liverfluke
 Chumphon,Unknown,0,2003,Liverfluke
 Ranong,Unknown,0,2003,Liverfluke
 Surat Thani,Unknown,0,2003,Liverfluke
-Zone 16,Unknown,0,2003,Liverfluke
+Zone:16,Unknown,0,2003,Liverfluke
 Nakhon Si Thammarat,Unknown,0,2003,Liverfluke
 Phatthalung,Unknown,0,2003,Liverfluke
 Trang,Unknown,0,2003,Liverfluke
-Zone 17,Unknown,0,2003,Liverfluke
+Zone:17,Unknown,0,2003,Liverfluke
 Krabi,Unknown,0,2003,Liverfluke
 Phangnga,Unknown,0,2003,Liverfluke
 Phuket,Unknown,0,2003,Liverfluke
-Zone 18,Unknown,0,2003,Liverfluke
+Zone:18,Unknown,0,2003,Liverfluke
 Narathiwat,Unknown,0,2003,Liverfluke
 Pattani,Unknown,0,2003,Liverfluke
 Yala,Unknown,0,2003,Liverfluke
-Zone 19,Unknown,0,2003,Liverfluke
+Zone:19,Unknown,0,2003,Liverfluke
 Satun,Unknown,0,2003,Liverfluke
 Songkhla,Unknown,0,2003,Liverfluke
 Total,Total,6,2021,Liverfluke

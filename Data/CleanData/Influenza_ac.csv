@@ -1639,7 +1639,7 @@ ZONE:13,Unknown,0,2022,Influenza
 Bangkok,Unknown,0,2022,Influenza
 Total,Total,29918,2003,Influenza
 North Region,Total,4295,2003,Influenza
-Zone 1,Total,2299,2003,Influenza
+Zone:1,Total,2299,2003,Influenza
 Chiang Mai,Total,712,2003,Influenza
 Chiang Rai,Total,412,2003,Influenza
 Lampang,Total,101,2003,Influenza
@@ -1648,98 +1648,98 @@ Mae Hong Son,Total,123,2003,Influenza
 Nan,Total,492,2003,Influenza
 Phayao,Total,169,2003,Influenza
 Phrae,Total,34,2003,Influenza
-Zone 2,Total,1029,2003,Influenza
+Zone:2,Total,1029,2003,Influenza
 Phetchabun,Total,343,2003,Influenza
 Phitsanulok,Total,159,2003,Influenza
 Sukhothai,Total,137,2003,Influenza
 Tak,Total,376,2003,Influenza
 Uttaradit,Total,14,2003,Influenza
-Zone 3,Total,967,2003,Influenza
+Zone:3,Total,967,2003,Influenza
 Kamphaeng Phet,Total,253,2003,Influenza
 Nakhon Sawan,Total,389,2003,Influenza
 Phichit,Total,32,2003,Influenza
 Uthai Thani,Total,293,2003,Influenza
 Central Region,Total,8213,2003,Influenza
 Bangkok,Total,918,2003,Influenza
-Zone 4,Total,952,2003,Influenza
+Zone:4,Total,952,2003,Influenza
 Ang Thong,Total,43,2003,Influenza
 Nonthaburi,Total,411,2003,Influenza
 P.Nakhon S.Ayutthaya,Total,115,2003,Influenza
 Pathum Thani,Total,383,2003,Influenza
-Zone 5,Total,473,2003,Influenza
+Zone:5,Total,473,2003,Influenza
 Chai Nat,Total,52,2003,Influenza
 Lop Buri,Total,87,2003,Influenza
 Saraburi,Total,37,2003,Influenza
 Sing Buri,Total,297,2003,Influenza
-Zone 6,Total,2184,2003,Influenza
+Zone:6,Total,2184,2003,Influenza
 Kanchanaburi,Total,498,2003,Influenza
 Nakhon Pathom,Total,416,2003,Influenza
 Ratchaburi,Total,990,2003,Influenza
 Suphan Buri,Total,280,2003,Influenza
-Zone 7,Total,1149,2003,Influenza
+Zone:7,Total,1149,2003,Influenza
 Phetchaburi,Total,446,2003,Influenza
 Prachuap Khiri Khan,Total,216,2003,Influenza
 Samut Sakhon,Total,67,2003,Influenza
 Samut Songkhram,Total,420,2003,Influenza
-Zone 8,Total,862,2003,Influenza
+Zone:8,Total,862,2003,Influenza
 Chachoengsao,Total,378,2003,Influenza
 Nakhon Nayok,Total,36,2003,Influenza
 Prachin Buri,Total,288,2003,Influenza
 Sa Kaeo,Total,54,2003,Influenza
 Samut Prakan,Total,106,2003,Influenza
-Zone 9,Total,1675,2003,Influenza
+Zone:9,Total,1675,2003,Influenza
 Chanthaburi,Total,793,2003,Influenza
 Chon Buri,Total,422,2003,Influenza
 Rayong,Total,434,2003,Influenza
 Trat,Total,26,2003,Influenza
 North-Eastern Region,Total,7468,2003,Influenza
-Zone 10,Total,850,2003,Influenza
+Zone:10,Total,850,2003,Influenza
 Loei,Total,87,2003,Influenza
 Nong Bua Lam Phu,Total,160,2003,Influenza
 Nong Khai,Total,70,2003,Influenza
 Udon Thani,Total,533,2003,Influenza
-Zone 11,Total,454,2003,Influenza
+Zone:11,Total,454,2003,Influenza
 Kalasin,Total,130,2003,Influenza
 Mukdahan,Total,58,2003,Influenza
 Nakhon Phanom,Total,186,2003,Influenza
 Sakon Nakhon,Total,80,2003,Influenza
-Zone 12,Total,1114,2003,Influenza
+Zone:12,Total,1114,2003,Influenza
 Khon Kaen,Total,242,2003,Influenza
 Maha Sarakham,Total,395,2003,Influenza
 Roi Et,Total,477,2003,Influenza
-Zone 13,Total,2542,2003,Influenza
+Zone:13,Total,2542,2003,Influenza
 Buri Ram,Total,897,2003,Influenza
 Chaiyaphum,Total,391,2003,Influenza
 Nakhon Ratchasima,Total,513,2003,Influenza
 Surin,Total,741,2003,Influenza
-Zone 14,Total,2508,2003,Influenza
+Zone:14,Total,2508,2003,Influenza
 Amnat Charoen,Total,107,2003,Influenza
 Si Sa Ket,Total,1703,2003,Influenza
 Ubon Ratchathani,Total,532,2003,Influenza
 Yasothon,Total,166,2003,Influenza
 South Region,Total,9942,2003,Influenza
-Zone 15,Total,2808,2003,Influenza
+Zone:15,Total,2808,2003,Influenza
 Chumphon,Total,176,2003,Influenza
 Ranong,Total,88,2003,Influenza
 Surat Thani,Total,2544,2003,Influenza
-Zone 16,Total,3065,2003,Influenza
+Zone:16,Total,3065,2003,Influenza
 Nakhon Si Thammarat,Total,960,2003,Influenza
 Phatthalung,Total,355,2003,Influenza
 Trang,Total,1750,2003,Influenza
-Zone 17,Total,1222,2003,Influenza
+Zone:17,Total,1222,2003,Influenza
 Krabi,Total,819,2003,Influenza
 Phangnga,Total,239,2003,Influenza
 Phuket,Total,164,2003,Influenza
-Zone 18,Total,1611,2003,Influenza
+Zone:18,Total,1611,2003,Influenza
 Narathiwat,Total,997,2003,Influenza
 Pattani,Total,367,2003,Influenza
 Yala,Total,247,2003,Influenza
-Zone 19,Total,1236,2003,Influenza
+Zone:19,Total,1236,2003,Influenza
 Satun,Total,258,2003,Influenza
 Songkhla,Total,978,2003,Influenza
 Total,0,26,2003,Influenza
 North Region,0,4,2003,Influenza
-Zone 1,0,3,2003,Influenza
+Zone:1,0,3,2003,Influenza
 Chiang Mai,0,0,2003,Influenza
 Chiang Rai,0,2,2003,Influenza
 Lampang,0,0,2003,Influenza
@@ -1748,98 +1748,98 @@ Mae Hong Son,0,0,2003,Influenza
 Nan,0,1,2003,Influenza
 Phayao,0,0,2003,Influenza
 Phrae,0,0,2003,Influenza
-Zone 2,0,0,2003,Influenza
+Zone:2,0,0,2003,Influenza
 Phetchabun,0,0,2003,Influenza
 Phitsanulok,0,0,2003,Influenza
 Sukhothai,0,0,2003,Influenza
 Tak,0,0,2003,Influenza
 Uttaradit,0,0,2003,Influenza
-Zone 3,0,1,2003,Influenza
+Zone:3,0,1,2003,Influenza
 Kamphaeng Phet,0,1,2003,Influenza
 Nakhon Sawan,0,0,2003,Influenza
 Phichit,0,0,2003,Influenza
 Uthai Thani,0,0,2003,Influenza
 Central Region,0,5,2003,Influenza
 Bangkok,0,1,2003,Influenza
-Zone 4,0,1,2003,Influenza
+Zone:4,0,1,2003,Influenza
 Ang Thong,0,0,2003,Influenza
 Nonthaburi,0,1,2003,Influenza
 P.Nakhon S.Ayutthaya,0,0,2003,Influenza
 Pathum Thani,0,0,2003,Influenza
-Zone 5,0,0,2003,Influenza
+Zone:5,0,0,2003,Influenza
 Chai Nat,0,0,2003,Influenza
 Lop Buri,0,0,2003,Influenza
 Saraburi,0,0,2003,Influenza
 Sing Buri,0,0,2003,Influenza
-Zone 6,0,0,2003,Influenza
+Zone:6,0,0,2003,Influenza
 Kanchanaburi,0,0,2003,Influenza
 Nakhon Pathom,0,0,2003,Influenza
 Ratchaburi,0,0,2003,Influenza
 Suphan Buri,0,0,2003,Influenza
-Zone 7,0,1,2003,Influenza
+Zone:7,0,1,2003,Influenza
 Phetchaburi,0,0,2003,Influenza
 Prachuap Khiri Khan,0,0,2003,Influenza
 Samut Sakhon,0,0,2003,Influenza
 Samut Songkhram,0,1,2003,Influenza
-Zone 8,0,0,2003,Influenza
+Zone:8,0,0,2003,Influenza
 Chachoengsao,0,0,2003,Influenza
 Nakhon Nayok,0,0,2003,Influenza
 Prachin Buri,0,0,2003,Influenza
 Sa Kaeo,0,0,2003,Influenza
 Samut Prakan,0,0,2003,Influenza
-Zone 9,0,2,2003,Influenza
+Zone:9,0,2,2003,Influenza
 Chanthaburi,0,0,2003,Influenza
 Chon Buri,0,0,2003,Influenza
 Rayong,0,2,2003,Influenza
 Trat,0,0,2003,Influenza
 North-Eastern Region,0,15,2003,Influenza
-Zone 10,0,1,2003,Influenza
+Zone:10,0,1,2003,Influenza
 Loei,0,0,2003,Influenza
 Nong Bua Lam Phu,0,0,2003,Influenza
 Nong Khai,0,0,2003,Influenza
 Udon Thani,0,1,2003,Influenza
-Zone 11,0,0,2003,Influenza
+Zone:11,0,0,2003,Influenza
 Kalasin,0,0,2003,Influenza
 Mukdahan,0,0,2003,Influenza
 Nakhon Phanom,0,0,2003,Influenza
 Sakon Nakhon,0,0,2003,Influenza
-Zone 12,0,0,2003,Influenza
+Zone:12,0,0,2003,Influenza
 Khon Kaen,0,0,2003,Influenza
 Maha Sarakham,0,0,2003,Influenza
 Roi Et,0,0,2003,Influenza
-Zone 13,0,2,2003,Influenza
+Zone:13,0,2,2003,Influenza
 Buri Ram,0,0,2003,Influenza
 Chaiyaphum,0,0,2003,Influenza
 Nakhon Ratchasima,0,0,2003,Influenza
 Surin,0,2,2003,Influenza
-Zone 14,0,12,2003,Influenza
+Zone:14,0,12,2003,Influenza
 Amnat Charoen,0,0,2003,Influenza
 Si Sa Ket,0,12,2003,Influenza
 Ubon Ratchathani,0,0,2003,Influenza
 Yasothon,0,0,2003,Influenza
 South Region,0,2,2003,Influenza
-Zone 15,0,0,2003,Influenza
+Zone:15,0,0,2003,Influenza
 Chumphon,0,0,2003,Influenza
 Ranong,0,0,2003,Influenza
 Surat Thani,0,0,2003,Influenza
-Zone 16,0,1,2003,Influenza
+Zone:16,0,1,2003,Influenza
 Nakhon Si Thammarat,0,0,2003,Influenza
 Phatthalung,0,0,2003,Influenza
 Trang,0,1,2003,Influenza
-Zone 17,0,1,2003,Influenza
+Zone:17,0,1,2003,Influenza
 Krabi,0,0,2003,Influenza
 Phangnga,0,0,2003,Influenza
 Phuket,0,1,2003,Influenza
-Zone 18,0,0,2003,Influenza
+Zone:18,0,0,2003,Influenza
 Narathiwat,0,0,2003,Influenza
 Pattani,0,0,2003,Influenza
 Yala,0,0,2003,Influenza
-Zone 19,0,0,2003,Influenza
+Zone:19,0,0,2003,Influenza
 Satun,0,0,2003,Influenza
 Songkhla,0,0,2003,Influenza
 Total,<1,534,2003,Influenza
 North Region,<1,78,2003,Influenza
-Zone 1,<1,55,2003,Influenza
+Zone:1,<1,55,2003,Influenza
 Chiang Mai,<1,3,2003,Influenza
 Chiang Rai,<1,8,2003,Influenza
 Lampang,<1,0,2003,Influenza
@@ -1848,98 +1848,98 @@ Mae Hong Son,<1,1,2003,Influenza
 Nan,<1,23,2003,Influenza
 Phayao,<1,1,2003,Influenza
 Phrae,<1,1,2003,Influenza
-Zone 2,<1,17,2003,Influenza
+Zone:2,<1,17,2003,Influenza
 Phetchabun,<1,8,2003,Influenza
 Phitsanulok,<1,5,2003,Influenza
 Sukhothai,<1,2,2003,Influenza
 Tak,<1,2,2003,Influenza
 Uttaradit,<1,0,2003,Influenza
-Zone 3,<1,6,2003,Influenza
+Zone:3,<1,6,2003,Influenza
 Kamphaeng Phet,<1,3,2003,Influenza
 Nakhon Sawan,<1,1,2003,Influenza
 Phichit,<1,1,2003,Influenza
 Uthai Thani,<1,1,2003,Influenza
 Central Region,<1,80,2003,Influenza
 Bangkok,<1,2,2003,Influenza
-Zone 4,<1,14,2003,Influenza
+Zone:4,<1,14,2003,Influenza
 Ang Thong,<1,0,2003,Influenza
 Nonthaburi,<1,13,2003,Influenza
 P.Nakhon S.Ayutthaya,<1,0,2003,Influenza
 Pathum Thani,<1,1,2003,Influenza
-Zone 5,<1,11,2003,Influenza
+Zone:5,<1,11,2003,Influenza
 Chai Nat,<1,0,2003,Influenza
 Lop Buri,<1,6,2003,Influenza
 Saraburi,<1,0,2003,Influenza
 Sing Buri,<1,5,2003,Influenza
-Zone 6,<1,17,2003,Influenza
+Zone:6,<1,17,2003,Influenza
 Kanchanaburi,<1,1,2003,Influenza
 Nakhon Pathom,<1,2,2003,Influenza
 Ratchaburi,<1,8,2003,Influenza
 Suphan Buri,<1,6,2003,Influenza
-Zone 7,<1,4,2003,Influenza
+Zone:7,<1,4,2003,Influenza
 Phetchaburi,<1,1,2003,Influenza
 Prachuap Khiri Khan,<1,0,2003,Influenza
 Samut Sakhon,<1,1,2003,Influenza
 Samut Songkhram,<1,2,2003,Influenza
-Zone 8,<1,21,2003,Influenza
+Zone:8,<1,21,2003,Influenza
 Chachoengsao,<1,0,2003,Influenza
 Nakhon Nayok,<1,1,2003,Influenza
 Prachin Buri,<1,17,2003,Influenza
 Sa Kaeo,<1,1,2003,Influenza
 Samut Prakan,<1,2,2003,Influenza
-Zone 9,<1,11,2003,Influenza
+Zone:9,<1,11,2003,Influenza
 Chanthaburi,<1,3,2003,Influenza
 Chon Buri,<1,5,2003,Influenza
 Rayong,<1,3,2003,Influenza
 Trat,<1,0,2003,Influenza
 North-Eastern Region,<1,275,2003,Influenza
-Zone 10,<1,20,2003,Influenza
+Zone:10,<1,20,2003,Influenza
 Loei,<1,2,2003,Influenza
 Nong Bua Lam Phu,<1,4,2003,Influenza
 Nong Khai,<1,5,2003,Influenza
 Udon Thani,<1,9,2003,Influenza
-Zone 11,<1,5,2003,Influenza
+Zone:11,<1,5,2003,Influenza
 Kalasin,<1,0,2003,Influenza
 Mukdahan,<1,3,2003,Influenza
 Nakhon Phanom,<1,1,2003,Influenza
 Sakon Nakhon,<1,1,2003,Influenza
-Zone 12,<1,12,2003,Influenza
+Zone:12,<1,12,2003,Influenza
 Khon Kaen,<1,5,2003,Influenza
 Maha Sarakham,<1,1,2003,Influenza
 Roi Et,<1,6,2003,Influenza
-Zone 13,<1,69,2003,Influenza
+Zone:13,<1,69,2003,Influenza
 Buri Ram,<1,16,2003,Influenza
 Chaiyaphum,<1,1,2003,Influenza
 Nakhon Ratchasima,<1,9,2003,Influenza
 Surin,<1,43,2003,Influenza
-Zone 14,<1,169,2003,Influenza
+Zone:14,<1,169,2003,Influenza
 Amnat Charoen,<1,0,2003,Influenza
 Si Sa Ket,<1,133,2003,Influenza
 Ubon Ratchathani,<1,33,2003,Influenza
 Yasothon,<1,3,2003,Influenza
 South Region,<1,101,2003,Influenza
-Zone 15,<1,28,2003,Influenza
+Zone:15,<1,28,2003,Influenza
 Chumphon,<1,1,2003,Influenza
 Ranong,<1,1,2003,Influenza
 Surat Thani,<1,26,2003,Influenza
-Zone 16,<1,24,2003,Influenza
+Zone:16,<1,24,2003,Influenza
 Nakhon Si Thammarat,<1,19,2003,Influenza
 Phatthalung,<1,0,2003,Influenza
 Trang,<1,5,2003,Influenza
-Zone 17,<1,5,2003,Influenza
+Zone:17,<1,5,2003,Influenza
 Krabi,<1,2,2003,Influenza
 Phangnga,<1,3,2003,Influenza
 Phuket,<1,0,2003,Influenza
-Zone 18,<1,21,2003,Influenza
+Zone:18,<1,21,2003,Influenza
 Narathiwat,<1,12,2003,Influenza
 Pattani,<1,7,2003,Influenza
 Yala,<1,2,2003,Influenza
-Zone 19,<1,23,2003,Influenza
+Zone:19,<1,23,2003,Influenza
 Satun,<1,15,2003,Influenza
 Songkhla,<1,8,2003,Influenza
 Total,1-1,620,2003,Influenza
 North Region,1-1,93,2003,Influenza
-Zone 1,1-1,61,2003,Influenza
+Zone:1,1-1,61,2003,Influenza
 Chiang Mai,1-1,7,2003,Influenza
 Chiang Rai,1-1,11,2003,Influenza
 Lampang,1-1,1,2003,Influenza
@@ -1948,98 +1948,98 @@ Mae Hong Son,1-1,2,2003,Influenza
 Nan,1-1,21,2003,Influenza
 Phayao,1-1,3,2003,Influenza
 Phrae,1-1,1,2003,Influenza
-Zone 2,1-1,26,2003,Influenza
+Zone:2,1-1,26,2003,Influenza
 Phetchabun,1-1,5,2003,Influenza
 Phitsanulok,1-1,4,2003,Influenza
 Sukhothai,1-1,4,2003,Influenza
 Tak,1-1,12,2003,Influenza
 Uttaradit,1-1,1,2003,Influenza
-Zone 3,1-1,6,2003,Influenza
+Zone:3,1-1,6,2003,Influenza
 Kamphaeng Phet,1-1,2,2003,Influenza
 Nakhon Sawan,1-1,2,2003,Influenza
 Phichit,1-1,0,2003,Influenza
 Uthai Thani,1-1,2,2003,Influenza
 Central Region,1-1,102,2003,Influenza
 Bangkok,1-1,7,2003,Influenza
-Zone 4,1-1,11,2003,Influenza
+Zone:4,1-1,11,2003,Influenza
 Ang Thong,1-1,0,2003,Influenza
 Nonthaburi,1-1,9,2003,Influenza
 P.Nakhon S.Ayutthaya,1-1,0,2003,Influenza
 Pathum Thani,1-1,2,2003,Influenza
-Zone 5,1-1,14,2003,Influenza
+Zone:5,1-1,14,2003,Influenza
 Chai Nat,1-1,1,2003,Influenza
 Lop Buri,1-1,7,2003,Influenza
 Saraburi,1-1,1,2003,Influenza
 Sing Buri,1-1,5,2003,Influenza
-Zone 6,1-1,36,2003,Influenza
+Zone:6,1-1,36,2003,Influenza
 Kanchanaburi,1-1,15,2003,Influenza
 Nakhon Pathom,1-1,6,2003,Influenza
 Ratchaburi,1-1,5,2003,Influenza
 Suphan Buri,1-1,10,2003,Influenza
-Zone 7,1-1,9,2003,Influenza
+Zone:7,1-1,9,2003,Influenza
 Phetchaburi,1-1,5,2003,Influenza
 Prachuap Khiri Khan,1-1,1,2003,Influenza
 Samut Sakhon,1-1,1,2003,Influenza
 Samut Songkhram,1-1,2,2003,Influenza
-Zone 8,1-1,16,2003,Influenza
+Zone:8,1-1,16,2003,Influenza
 Chachoengsao,1-1,7,2003,Influenza
 Nakhon Nayok,1-1,0,2003,Influenza
 Prachin Buri,1-1,7,2003,Influenza
 Sa Kaeo,1-1,1,2003,Influenza
 Samut Prakan,1-1,1,2003,Influenza
-Zone 9,1-1,9,2003,Influenza
+Zone:9,1-1,9,2003,Influenza
 Chanthaburi,1-1,7,2003,Influenza
 Chon Buri,1-1,1,2003,Influenza
 Rayong,1-1,1,2003,Influenza
 Trat,1-1,0,2003,Influenza
 North-Eastern Region,1-1,304,2003,Influenza
-Zone 10,1-1,27,2003,Influenza
+Zone:10,1-1,27,2003,Influenza
 Loei,1-1,1,2003,Influenza
 Nong Bua Lam Phu,1-1,7,2003,Influenza
 Nong Khai,1-1,3,2003,Influenza
 Udon Thani,1-1,16,2003,Influenza
-Zone 11,1-1,12,2003,Influenza
+Zone:11,1-1,12,2003,Influenza
 Kalasin,1-1,1,2003,Influenza
 Mukdahan,1-1,9,2003,Influenza
 Nakhon Phanom,1-1,1,2003,Influenza
 Sakon Nakhon,1-1,1,2003,Influenza
-Zone 12,1-1,20,2003,Influenza
+Zone:12,1-1,20,2003,Influenza
 Khon Kaen,1-1,10,2003,Influenza
 Maha Sarakham,1-1,1,2003,Influenza
 Roi Et,1-1,9,2003,Influenza
-Zone 13,1-1,108,2003,Influenza
+Zone:13,1-1,108,2003,Influenza
 Buri Ram,1-1,41,2003,Influenza
 Chaiyaphum,1-1,5,2003,Influenza
 Nakhon Ratchasima,1-1,11,2003,Influenza
 Surin,1-1,51,2003,Influenza
-Zone 14,1-1,137,2003,Influenza
+Zone:14,1-1,137,2003,Influenza
 Amnat Charoen,1-1,1,2003,Influenza
 Si Sa Ket,1-1,99,2003,Influenza
 Ubon Ratchathani,1-1,30,2003,Influenza
 Yasothon,1-1,7,2003,Influenza
 South Region,1-1,121,2003,Influenza
-Zone 15,1-1,28,2003,Influenza
+Zone:15,1-1,28,2003,Influenza
 Chumphon,1-1,2,2003,Influenza
 Ranong,1-1,0,2003,Influenza
 Surat Thani,1-1,26,2003,Influenza
-Zone 16,1-1,34,2003,Influenza
+Zone:16,1-1,34,2003,Influenza
 Nakhon Si Thammarat,1-1,19,2003,Influenza
 Phatthalung,1-1,0,2003,Influenza
 Trang,1-1,15,2003,Influenza
-Zone 17,1-1,12,2003,Influenza
+Zone:17,1-1,12,2003,Influenza
 Krabi,1-1,5,2003,Influenza
 Phangnga,1-1,3,2003,Influenza
 Phuket,1-1,4,2003,Influenza
-Zone 18,1-1,23,2003,Influenza
+Zone:18,1-1,23,2003,Influenza
 Narathiwat,1-1,14,2003,Influenza
 Pattani,1-1,7,2003,Influenza
 Yala,1-1,2,2003,Influenza
-Zone 19,1-1,24,2003,Influenza
+Zone:19,1-1,24,2003,Influenza
 Satun,1-1,8,2003,Influenza
 Songkhla,1-1,16,2003,Influenza
 Total,2-2,546,2003,Influenza
 North Region,2-2,97,2003,Influenza
-Zone 1,2-2,56,2003,Influenza
+Zone:1,2-2,56,2003,Influenza
 Chiang Mai,2-2,12,2003,Influenza
 Chiang Rai,2-2,12,2003,Influenza
 Lampang,2-2,1,2003,Influenza
@@ -2048,98 +2048,98 @@ Mae Hong Son,2-2,3,2003,Influenza
 Nan,2-2,15,2003,Influenza
 Phayao,2-2,1,2003,Influenza
 Phrae,2-2,0,2003,Influenza
-Zone 2,2-2,28,2003,Influenza
+Zone:2,2-2,28,2003,Influenza
 Phetchabun,2-2,5,2003,Influenza
 Phitsanulok,2-2,2,2003,Influenza
 Sukhothai,2-2,12,2003,Influenza
 Tak,2-2,9,2003,Influenza
 Uttaradit,2-2,0,2003,Influenza
-Zone 3,2-2,13,2003,Influenza
+Zone:3,2-2,13,2003,Influenza
 Kamphaeng Phet,2-2,7,2003,Influenza
 Nakhon Sawan,2-2,6,2003,Influenza
 Phichit,2-2,0,2003,Influenza
 Uthai Thani,2-2,0,2003,Influenza
 Central Region,2-2,109,2003,Influenza
 Bangkok,2-2,8,2003,Influenza
-Zone 4,2-2,15,2003,Influenza
+Zone:4,2-2,15,2003,Influenza
 Ang Thong,2-2,0,2003,Influenza
 Nonthaburi,2-2,10,2003,Influenza
 P.Nakhon S.Ayutthaya,2-2,3,2003,Influenza
 Pathum Thani,2-2,2,2003,Influenza
-Zone 5,2-2,6,2003,Influenza
+Zone:5,2-2,6,2003,Influenza
 Chai Nat,2-2,0,2003,Influenza
 Lop Buri,2-2,3,2003,Influenza
 Saraburi,2-2,0,2003,Influenza
 Sing Buri,2-2,3,2003,Influenza
-Zone 6,2-2,32,2003,Influenza
+Zone:6,2-2,32,2003,Influenza
 Kanchanaburi,2-2,16,2003,Influenza
 Nakhon Pathom,2-2,4,2003,Influenza
 Ratchaburi,2-2,7,2003,Influenza
 Suphan Buri,2-2,5,2003,Influenza
-Zone 7,2-2,13,2003,Influenza
+Zone:7,2-2,13,2003,Influenza
 Phetchaburi,2-2,5,2003,Influenza
 Prachuap Khiri Khan,2-2,2,2003,Influenza
 Samut Sakhon,2-2,0,2003,Influenza
 Samut Songkhram,2-2,6,2003,Influenza
-Zone 8,2-2,14,2003,Influenza
+Zone:8,2-2,14,2003,Influenza
 Chachoengsao,2-2,2,2003,Influenza
 Nakhon Nayok,2-2,0,2003,Influenza
 Prachin Buri,2-2,10,2003,Influenza
 Sa Kaeo,2-2,1,2003,Influenza
 Samut Prakan,2-2,1,2003,Influenza
-Zone 9,2-2,21,2003,Influenza
+Zone:9,2-2,21,2003,Influenza
 Chanthaburi,2-2,8,2003,Influenza
 Chon Buri,2-2,7,2003,Influenza
 Rayong,2-2,6,2003,Influenza
 Trat,2-2,0,2003,Influenza
 North-Eastern Region,2-2,234,2003,Influenza
-Zone 10,2-2,16,2003,Influenza
+Zone:10,2-2,16,2003,Influenza
 Loei,2-2,2,2003,Influenza
 Nong Bua Lam Phu,2-2,1,2003,Influenza
 Nong Khai,2-2,4,2003,Influenza
 Udon Thani,2-2,9,2003,Influenza
-Zone 11,2-2,10,2003,Influenza
+Zone:11,2-2,10,2003,Influenza
 Kalasin,2-2,2,2003,Influenza
 Mukdahan,2-2,5,2003,Influenza
 Nakhon Phanom,2-2,1,2003,Influenza
 Sakon Nakhon,2-2,2,2003,Influenza
-Zone 12,2-2,15,2003,Influenza
+Zone:12,2-2,15,2003,Influenza
 Khon Kaen,2-2,4,2003,Influenza
 Maha Sarakham,2-2,5,2003,Influenza
 Roi Et,2-2,6,2003,Influenza
-Zone 13,2-2,89,2003,Influenza
+Zone:13,2-2,89,2003,Influenza
 Buri Ram,2-2,15,2003,Influenza
 Chaiyaphum,2-2,8,2003,Influenza
 Nakhon Ratchasima,2-2,10,2003,Influenza
 Surin,2-2,56,2003,Influenza
-Zone 14,2-2,104,2003,Influenza
+Zone:14,2-2,104,2003,Influenza
 Amnat Charoen,2-2,3,2003,Influenza
 Si Sa Ket,2-2,79,2003,Influenza
 Ubon Ratchathani,2-2,20,2003,Influenza
 Yasothon,2-2,2,2003,Influenza
 South Region,2-2,106,2003,Influenza
-Zone 15,2-2,35,2003,Influenza
+Zone:15,2-2,35,2003,Influenza
 Chumphon,2-2,2,2003,Influenza
 Ranong,2-2,0,2003,Influenza
 Surat Thani,2-2,33,2003,Influenza
-Zone 16,2-2,28,2003,Influenza
+Zone:16,2-2,28,2003,Influenza
 Nakhon Si Thammarat,2-2,8,2003,Influenza
 Phatthalung,2-2,1,2003,Influenza
 Trang,2-2,19,2003,Influenza
-Zone 17,2-2,11,2003,Influenza
+Zone:17,2-2,11,2003,Influenza
 Krabi,2-2,5,2003,Influenza
 Phangnga,2-2,5,2003,Influenza
 Phuket,2-2,1,2003,Influenza
-Zone 18,2-2,16,2003,Influenza
+Zone:18,2-2,16,2003,Influenza
 Narathiwat,2-2,9,2003,Influenza
 Pattani,2-2,7,2003,Influenza
 Yala,2-2,0,2003,Influenza
-Zone 19,2-2,16,2003,Influenza
+Zone:19,2-2,16,2003,Influenza
 Satun,2-2,4,2003,Influenza
 Songkhla,2-2,12,2003,Influenza
 Total,3-3,556,2003,Influenza
 North Region,3-3,102,2003,Influenza
-Zone 1,3-3,49,2003,Influenza
+Zone:1,3-3,49,2003,Influenza
 Chiang Mai,3-3,8,2003,Influenza
 Chiang Rai,3-3,11,2003,Influenza
 Lampang,3-3,0,2003,Influenza
@@ -2148,98 +2148,98 @@ Mae Hong Son,3-3,5,2003,Influenza
 Nan,3-3,12,2003,Influenza
 Phayao,3-3,0,2003,Influenza
 Phrae,3-3,0,2003,Influenza
-Zone 2,3-3,35,2003,Influenza
+Zone:2,3-3,35,2003,Influenza
 Phetchabun,3-3,8,2003,Influenza
 Phitsanulok,3-3,7,2003,Influenza
 Sukhothai,3-3,10,2003,Influenza
 Tak,3-3,10,2003,Influenza
 Uttaradit,3-3,0,2003,Influenza
-Zone 3,3-3,18,2003,Influenza
+Zone:3,3-3,18,2003,Influenza
 Kamphaeng Phet,3-3,10,2003,Influenza
 Nakhon Sawan,3-3,5,2003,Influenza
 Phichit,3-3,0,2003,Influenza
 Uthai Thani,3-3,3,2003,Influenza
 Central Region,3-3,117,2003,Influenza
 Bangkok,3-3,10,2003,Influenza
-Zone 4,3-3,14,2003,Influenza
+Zone:4,3-3,14,2003,Influenza
 Ang Thong,3-3,1,2003,Influenza
 Nonthaburi,3-3,10,2003,Influenza
 P.Nakhon S.Ayutthaya,3-3,2,2003,Influenza
 Pathum Thani,3-3,1,2003,Influenza
-Zone 5,3-3,11,2003,Influenza
+Zone:5,3-3,11,2003,Influenza
 Chai Nat,3-3,1,2003,Influenza
 Lop Buri,3-3,6,2003,Influenza
 Saraburi,3-3,2,2003,Influenza
 Sing Buri,3-3,2,2003,Influenza
-Zone 6,3-3,32,2003,Influenza
+Zone:6,3-3,32,2003,Influenza
 Kanchanaburi,3-3,16,2003,Influenza
 Nakhon Pathom,3-3,3,2003,Influenza
 Ratchaburi,3-3,11,2003,Influenza
 Suphan Buri,3-3,2,2003,Influenza
-Zone 7,3-3,13,2003,Influenza
+Zone:7,3-3,13,2003,Influenza
 Phetchaburi,3-3,3,2003,Influenza
 Prachuap Khiri Khan,3-3,1,2003,Influenza
 Samut Sakhon,3-3,1,2003,Influenza
 Samut Songkhram,3-3,8,2003,Influenza
-Zone 8,3-3,15,2003,Influenza
+Zone:8,3-3,15,2003,Influenza
 Chachoengsao,3-3,4,2003,Influenza
 Nakhon Nayok,3-3,0,2003,Influenza
 Prachin Buri,3-3,9,2003,Influenza
 Sa Kaeo,3-3,1,2003,Influenza
 Samut Prakan,3-3,1,2003,Influenza
-Zone 9,3-3,22,2003,Influenza
+Zone:9,3-3,22,2003,Influenza
 Chanthaburi,3-3,12,2003,Influenza
 Chon Buri,3-3,4,2003,Influenza
 Rayong,3-3,6,2003,Influenza
 Trat,3-3,0,2003,Influenza
 North-Eastern Region,3-3,207,2003,Influenza
-Zone 10,3-3,18,2003,Influenza
+Zone:10,3-3,18,2003,Influenza
 Loei,3-3,5,2003,Influenza
 Nong Bua Lam Phu,3-3,1,2003,Influenza
 Nong Khai,3-3,0,2003,Influenza
 Udon Thani,3-3,12,2003,Influenza
-Zone 11,3-3,9,2003,Influenza
+Zone:11,3-3,9,2003,Influenza
 Kalasin,3-3,1,2003,Influenza
 Mukdahan,3-3,1,2003,Influenza
 Nakhon Phanom,3-3,6,2003,Influenza
 Sakon Nakhon,3-3,1,2003,Influenza
-Zone 12,3-3,17,2003,Influenza
+Zone:12,3-3,17,2003,Influenza
 Khon Kaen,3-3,9,2003,Influenza
 Maha Sarakham,3-3,1,2003,Influenza
 Roi Et,3-3,7,2003,Influenza
-Zone 13,3-3,53,2003,Influenza
+Zone:13,3-3,53,2003,Influenza
 Buri Ram,3-3,9,2003,Influenza
 Chaiyaphum,3-3,1,2003,Influenza
 Nakhon Ratchasima,3-3,6,2003,Influenza
 Surin,3-3,37,2003,Influenza
-Zone 14,3-3,110,2003,Influenza
+Zone:14,3-3,110,2003,Influenza
 Amnat Charoen,3-3,0,2003,Influenza
 Si Sa Ket,3-3,77,2003,Influenza
 Ubon Ratchathani,3-3,25,2003,Influenza
 Yasothon,3-3,8,2003,Influenza
 South Region,3-3,130,2003,Influenza
-Zone 15,3-3,47,2003,Influenza
+Zone:15,3-3,47,2003,Influenza
 Chumphon,3-3,2,2003,Influenza
 Ranong,3-3,0,2003,Influenza
 Surat Thani,3-3,45,2003,Influenza
-Zone 16,3-3,27,2003,Influenza
+Zone:16,3-3,27,2003,Influenza
 Nakhon Si Thammarat,3-3,13,2003,Influenza
 Phatthalung,3-3,0,2003,Influenza
 Trang,3-3,14,2003,Influenza
-Zone 17,3-3,13,2003,Influenza
+Zone:17,3-3,13,2003,Influenza
 Krabi,3-3,7,2003,Influenza
 Phangnga,3-3,4,2003,Influenza
 Phuket,3-3,2,2003,Influenza
-Zone 18,3-3,25,2003,Influenza
+Zone:18,3-3,25,2003,Influenza
 Narathiwat,3-3,18,2003,Influenza
 Pattani,3-3,3,2003,Influenza
 Yala,3-3,4,2003,Influenza
-Zone 19,3-3,18,2003,Influenza
+Zone:19,3-3,18,2003,Influenza
 Satun,3-3,3,2003,Influenza
 Songkhla,3-3,15,2003,Influenza
 Total,4-4,485,2003,Influenza
 North Region,4-4,73,2003,Influenza
-Zone 1,4-4,28,2003,Influenza
+Zone:1,4-4,28,2003,Influenza
 Chiang Mai,4-4,5,2003,Influenza
 Chiang Rai,4-4,7,2003,Influenza
 Lampang,4-4,1,2003,Influenza
@@ -2248,98 +2248,98 @@ Mae Hong Son,4-4,1,2003,Influenza
 Nan,4-4,8,2003,Influenza
 Phayao,4-4,0,2003,Influenza
 Phrae,4-4,0,2003,Influenza
-Zone 2,4-4,34,2003,Influenza
+Zone:2,4-4,34,2003,Influenza
 Phetchabun,4-4,11,2003,Influenza
 Phitsanulok,4-4,2,2003,Influenza
 Sukhothai,4-4,9,2003,Influenza
 Tak,4-4,12,2003,Influenza
 Uttaradit,4-4,0,2003,Influenza
-Zone 3,4-4,11,2003,Influenza
+Zone:3,4-4,11,2003,Influenza
 Kamphaeng Phet,4-4,4,2003,Influenza
 Nakhon Sawan,4-4,7,2003,Influenza
 Phichit,4-4,0,2003,Influenza
 Uthai Thani,4-4,0,2003,Influenza
 Central Region,4-4,107,2003,Influenza
 Bangkok,4-4,14,2003,Influenza
-Zone 4,4-4,6,2003,Influenza
+Zone:4,4-4,6,2003,Influenza
 Ang Thong,4-4,0,2003,Influenza
 Nonthaburi,4-4,5,2003,Influenza
 P.Nakhon S.Ayutthaya,4-4,1,2003,Influenza
 Pathum Thani,4-4,0,2003,Influenza
-Zone 5,4-4,11,2003,Influenza
+Zone:5,4-4,11,2003,Influenza
 Chai Nat,4-4,1,2003,Influenza
 Lop Buri,4-4,2,2003,Influenza
 Saraburi,4-4,1,2003,Influenza
 Sing Buri,4-4,7,2003,Influenza
-Zone 6,4-4,28,2003,Influenza
+Zone:6,4-4,28,2003,Influenza
 Kanchanaburi,4-4,9,2003,Influenza
 Nakhon Pathom,4-4,4,2003,Influenza
 Ratchaburi,4-4,12,2003,Influenza
 Suphan Buri,4-4,3,2003,Influenza
-Zone 7,4-4,16,2003,Influenza
+Zone:7,4-4,16,2003,Influenza
 Phetchaburi,4-4,6,2003,Influenza
 Prachuap Khiri Khan,4-4,2,2003,Influenza
 Samut Sakhon,4-4,0,2003,Influenza
 Samut Songkhram,4-4,8,2003,Influenza
-Zone 8,4-4,21,2003,Influenza
+Zone:8,4-4,21,2003,Influenza
 Chachoengsao,4-4,4,2003,Influenza
 Nakhon Nayok,4-4,0,2003,Influenza
 Prachin Buri,4-4,14,2003,Influenza
 Sa Kaeo,4-4,1,2003,Influenza
 Samut Prakan,4-4,2,2003,Influenza
-Zone 9,4-4,11,2003,Influenza
+Zone:9,4-4,11,2003,Influenza
 Chanthaburi,4-4,6,2003,Influenza
 Chon Buri,4-4,1,2003,Influenza
 Rayong,4-4,4,2003,Influenza
 Trat,4-4,0,2003,Influenza
 North-Eastern Region,4-4,206,2003,Influenza
-Zone 10,4-4,11,2003,Influenza
+Zone:10,4-4,11,2003,Influenza
 Loei,4-4,1,2003,Influenza
 Nong Bua Lam Phu,4-4,3,2003,Influenza
 Nong Khai,4-4,0,2003,Influenza
 Udon Thani,4-4,7,2003,Influenza
-Zone 11,4-4,12,2003,Influenza
+Zone:11,4-4,12,2003,Influenza
 Kalasin,4-4,2,2003,Influenza
 Mukdahan,4-4,6,2003,Influenza
 Nakhon Phanom,4-4,2,2003,Influenza
 Sakon Nakhon,4-4,2,2003,Influenza
-Zone 12,4-4,17,2003,Influenza
+Zone:12,4-4,17,2003,Influenza
 Khon Kaen,4-4,4,2003,Influenza
 Maha Sarakham,4-4,3,2003,Influenza
 Roi Et,4-4,10,2003,Influenza
-Zone 13,4-4,64,2003,Influenza
+Zone:13,4-4,64,2003,Influenza
 Buri Ram,4-4,12,2003,Influenza
 Chaiyaphum,4-4,1,2003,Influenza
 Nakhon Ratchasima,4-4,10,2003,Influenza
 Surin,4-4,41,2003,Influenza
-Zone 14,4-4,102,2003,Influenza
+Zone:14,4-4,102,2003,Influenza
 Amnat Charoen,4-4,0,2003,Influenza
 Si Sa Ket,4-4,75,2003,Influenza
 Ubon Ratchathani,4-4,26,2003,Influenza
 Yasothon,4-4,1,2003,Influenza
 South Region,4-4,99,2003,Influenza
-Zone 15,4-4,35,2003,Influenza
+Zone:15,4-4,35,2003,Influenza
 Chumphon,4-4,1,2003,Influenza
 Ranong,4-4,2,2003,Influenza
 Surat Thani,4-4,32,2003,Influenza
-Zone 16,4-4,23,2003,Influenza
+Zone:16,4-4,23,2003,Influenza
 Nakhon Si Thammarat,4-4,7,2003,Influenza
 Phatthalung,4-4,0,2003,Influenza
 Trang,4-4,16,2003,Influenza
-Zone 17,4-4,8,2003,Influenza
+Zone:17,4-4,8,2003,Influenza
 Krabi,4-4,6,2003,Influenza
 Phangnga,4-4,2,2003,Influenza
 Phuket,4-4,0,2003,Influenza
-Zone 18,4-4,18,2003,Influenza
+Zone:18,4-4,18,2003,Influenza
 Narathiwat,4-4,14,2003,Influenza
 Pattani,4-4,1,2003,Influenza
 Yala,4-4,3,2003,Influenza
-Zone 19,4-4,15,2003,Influenza
+Zone:19,4-4,15,2003,Influenza
 Satun,4-4,4,2003,Influenza
 Songkhla,4-4,11,2003,Influenza
 Total,5-5,493,2003,Influenza
 North Region,5-5,67,2003,Influenza
-Zone 1,5-5,40,2003,Influenza
+Zone:1,5-5,40,2003,Influenza
 Chiang Mai,5-5,18,2003,Influenza
 Chiang Rai,5-5,7,2003,Influenza
 Lampang,5-5,0,2003,Influenza
@@ -2348,98 +2348,98 @@ Mae Hong Son,5-5,5,2003,Influenza
 Nan,5-5,7,2003,Influenza
 Phayao,5-5,0,2003,Influenza
 Phrae,5-5,0,2003,Influenza
-Zone 2,5-5,22,2003,Influenza
+Zone:2,5-5,22,2003,Influenza
 Phetchabun,5-5,8,2003,Influenza
 Phitsanulok,5-5,6,2003,Influenza
 Sukhothai,5-5,6,2003,Influenza
 Tak,5-5,2,2003,Influenza
 Uttaradit,5-5,0,2003,Influenza
-Zone 3,5-5,5,2003,Influenza
+Zone:3,5-5,5,2003,Influenza
 Kamphaeng Phet,5-5,1,2003,Influenza
 Nakhon Sawan,5-5,3,2003,Influenza
 Phichit,5-5,1,2003,Influenza
 Uthai Thani,5-5,0,2003,Influenza
 Central Region,5-5,113,2003,Influenza
 Bangkok,5-5,10,2003,Influenza
-Zone 4,5-5,7,2003,Influenza
+Zone:4,5-5,7,2003,Influenza
 Ang Thong,5-5,1,2003,Influenza
 Nonthaburi,5-5,5,2003,Influenza
 P.Nakhon S.Ayutthaya,5-5,0,2003,Influenza
 Pathum Thani,5-5,1,2003,Influenza
-Zone 5,5-5,12,2003,Influenza
+Zone:5,5-5,12,2003,Influenza
 Chai Nat,5-5,0,2003,Influenza
 Lop Buri,5-5,5,2003,Influenza
 Saraburi,5-5,0,2003,Influenza
 Sing Buri,5-5,7,2003,Influenza
-Zone 6,5-5,37,2003,Influenza
+Zone:6,5-5,37,2003,Influenza
 Kanchanaburi,5-5,11,2003,Influenza
 Nakhon Pathom,5-5,7,2003,Influenza
 Ratchaburi,5-5,14,2003,Influenza
 Suphan Buri,5-5,5,2003,Influenza
-Zone 7,5-5,13,2003,Influenza
+Zone:7,5-5,13,2003,Influenza
 Phetchaburi,5-5,7,2003,Influenza
 Prachuap Khiri Khan,5-5,2,2003,Influenza
 Samut Sakhon,5-5,1,2003,Influenza
 Samut Songkhram,5-5,3,2003,Influenza
-Zone 8,5-5,17,2003,Influenza
+Zone:8,5-5,17,2003,Influenza
 Chachoengsao,5-5,2,2003,Influenza
 Nakhon Nayok,5-5,1,2003,Influenza
 Prachin Buri,5-5,13,2003,Influenza
 Sa Kaeo,5-5,1,2003,Influenza
 Samut Prakan,5-5,0,2003,Influenza
-Zone 9,5-5,17,2003,Influenza
+Zone:9,5-5,17,2003,Influenza
 Chanthaburi,5-5,9,2003,Influenza
 Chon Buri,5-5,1,2003,Influenza
 Rayong,5-5,6,2003,Influenza
 Trat,5-5,1,2003,Influenza
 North-Eastern Region,5-5,190,2003,Influenza
-Zone 10,5-5,8,2003,Influenza
+Zone:10,5-5,8,2003,Influenza
 Loei,5-5,0,2003,Influenza
 Nong Bua Lam Phu,5-5,1,2003,Influenza
 Nong Khai,5-5,0,2003,Influenza
 Udon Thani,5-5,7,2003,Influenza
-Zone 11,5-5,10,2003,Influenza
+Zone:11,5-5,10,2003,Influenza
 Kalasin,5-5,0,2003,Influenza
 Mukdahan,5-5,6,2003,Influenza
 Nakhon Phanom,5-5,1,2003,Influenza
 Sakon Nakhon,5-5,3,2003,Influenza
-Zone 12,5-5,20,2003,Influenza
+Zone:12,5-5,20,2003,Influenza
 Khon Kaen,5-5,4,2003,Influenza
 Maha Sarakham,5-5,3,2003,Influenza
 Roi Et,5-5,13,2003,Influenza
-Zone 13,5-5,46,2003,Influenza
+Zone:13,5-5,46,2003,Influenza
 Buri Ram,5-5,9,2003,Influenza
 Chaiyaphum,5-5,1,2003,Influenza
 Nakhon Ratchasima,5-5,6,2003,Influenza
 Surin,5-5,30,2003,Influenza
-Zone 14,5-5,106,2003,Influenza
+Zone:14,5-5,106,2003,Influenza
 Amnat Charoen,5-5,3,2003,Influenza
 Si Sa Ket,5-5,80,2003,Influenza
 Ubon Ratchathani,5-5,18,2003,Influenza
 Yasothon,5-5,5,2003,Influenza
 South Region,5-5,123,2003,Influenza
-Zone 15,5-5,40,2003,Influenza
+Zone:15,5-5,40,2003,Influenza
 Chumphon,5-5,3,2003,Influenza
 Ranong,5-5,1,2003,Influenza
 Surat Thani,5-5,36,2003,Influenza
-Zone 16,5-5,30,2003,Influenza
+Zone:16,5-5,30,2003,Influenza
 Nakhon Si Thammarat,5-5,11,2003,Influenza
 Phatthalung,5-5,2,2003,Influenza
 Trang,5-5,17,2003,Influenza
-Zone 17,5-5,18,2003,Influenza
+Zone:17,5-5,18,2003,Influenza
 Krabi,5-5,11,2003,Influenza
 Phangnga,5-5,5,2003,Influenza
 Phuket,5-5,2,2003,Influenza
-Zone 18,5-5,17,2003,Influenza
+Zone:18,5-5,17,2003,Influenza
 Narathiwat,5-5,8,2003,Influenza
 Pattani,5-5,7,2003,Influenza
 Yala,5-5,2,2003,Influenza
-Zone 19,5-5,18,2003,Influenza
+Zone:19,5-5,18,2003,Influenza
 Satun,5-5,3,2003,Influenza
 Songkhla,5-5,15,2003,Influenza
 Total,6-6,440,2003,Influenza
 North Region,6-6,68,2003,Influenza
-Zone 1,6-6,38,2003,Influenza
+Zone:1,6-6,38,2003,Influenza
 Chiang Mai,6-6,10,2003,Influenza
 Chiang Rai,6-6,7,2003,Influenza
 Lampang,6-6,1,2003,Influenza
@@ -2448,98 +2448,98 @@ Mae Hong Son,6-6,1,2003,Influenza
 Nan,6-6,9,2003,Influenza
 Phayao,6-6,0,2003,Influenza
 Phrae,6-6,0,2003,Influenza
-Zone 2,6-6,19,2003,Influenza
+Zone:2,6-6,19,2003,Influenza
 Phetchabun,6-6,4,2003,Influenza
 Phitsanulok,6-6,0,2003,Influenza
 Sukhothai,6-6,6,2003,Influenza
 Tak,6-6,8,2003,Influenza
 Uttaradit,6-6,1,2003,Influenza
-Zone 3,6-6,11,2003,Influenza
+Zone:3,6-6,11,2003,Influenza
 Kamphaeng Phet,6-6,6,2003,Influenza
 Nakhon Sawan,6-6,5,2003,Influenza
 Phichit,6-6,0,2003,Influenza
 Uthai Thani,6-6,0,2003,Influenza
 Central Region,6-6,120,2003,Influenza
 Bangkok,6-6,12,2003,Influenza
-Zone 4,6-6,12,2003,Influenza
+Zone:4,6-6,12,2003,Influenza
 Ang Thong,6-6,1,2003,Influenza
 Nonthaburi,6-6,10,2003,Influenza
 P.Nakhon S.Ayutthaya,6-6,1,2003,Influenza
 Pathum Thani,6-6,0,2003,Influenza
-Zone 5,6-6,7,2003,Influenza
+Zone:5,6-6,7,2003,Influenza
 Chai Nat,6-6,1,2003,Influenza
 Lop Buri,6-6,3,2003,Influenza
 Saraburi,6-6,1,2003,Influenza
 Sing Buri,6-6,2,2003,Influenza
-Zone 6,6-6,37,2003,Influenza
+Zone:6,6-6,37,2003,Influenza
 Kanchanaburi,6-6,10,2003,Influenza
 Nakhon Pathom,6-6,5,2003,Influenza
 Ratchaburi,6-6,16,2003,Influenza
 Suphan Buri,6-6,6,2003,Influenza
-Zone 7,6-6,20,2003,Influenza
+Zone:7,6-6,20,2003,Influenza
 Phetchaburi,6-6,3,2003,Influenza
 Prachuap Khiri Khan,6-6,2,2003,Influenza
 Samut Sakhon,6-6,2,2003,Influenza
 Samut Songkhram,6-6,13,2003,Influenza
-Zone 8,6-6,14,2003,Influenza
+Zone:8,6-6,14,2003,Influenza
 Chachoengsao,6-6,4,2003,Influenza
 Nakhon Nayok,6-6,0,2003,Influenza
 Prachin Buri,6-6,7,2003,Influenza
 Sa Kaeo,6-6,0,2003,Influenza
 Samut Prakan,6-6,3,2003,Influenza
-Zone 9,6-6,18,2003,Influenza
+Zone:9,6-6,18,2003,Influenza
 Chanthaburi,6-6,14,2003,Influenza
 Chon Buri,6-6,0,2003,Influenza
 Rayong,6-6,4,2003,Influenza
 Trat,6-6,0,2003,Influenza
 North-Eastern Region,6-6,140,2003,Influenza
-Zone 10,6-6,10,2003,Influenza
+Zone:10,6-6,10,2003,Influenza
 Loei,6-6,1,2003,Influenza
 Nong Bua Lam Phu,6-6,2,2003,Influenza
 Nong Khai,6-6,1,2003,Influenza
 Udon Thani,6-6,6,2003,Influenza
-Zone 11,6-6,6,2003,Influenza
+Zone:11,6-6,6,2003,Influenza
 Kalasin,6-6,0,2003,Influenza
 Mukdahan,6-6,0,2003,Influenza
 Nakhon Phanom,6-6,4,2003,Influenza
 Sakon Nakhon,6-6,2,2003,Influenza
-Zone 12,6-6,10,2003,Influenza
+Zone:12,6-6,10,2003,Influenza
 Khon Kaen,6-6,0,2003,Influenza
 Maha Sarakham,6-6,4,2003,Influenza
 Roi Et,6-6,6,2003,Influenza
-Zone 13,6-6,27,2003,Influenza
+Zone:13,6-6,27,2003,Influenza
 Buri Ram,6-6,8,2003,Influenza
 Chaiyaphum,6-6,1,2003,Influenza
 Nakhon Ratchasima,6-6,5,2003,Influenza
 Surin,6-6,13,2003,Influenza
-Zone 14,6-6,87,2003,Influenza
+Zone:14,6-6,87,2003,Influenza
 Amnat Charoen,6-6,1,2003,Influenza
 Si Sa Ket,6-6,72,2003,Influenza
 Ubon Ratchathani,6-6,11,2003,Influenza
 Yasothon,6-6,3,2003,Influenza
 South Region,6-6,112,2003,Influenza
-Zone 15,6-6,26,2003,Influenza
+Zone:15,6-6,26,2003,Influenza
 Chumphon,6-6,1,2003,Influenza
 Ranong,6-6,0,2003,Influenza
 Surat Thani,6-6,25,2003,Influenza
-Zone 16,6-6,21,2003,Influenza
+Zone:16,6-6,21,2003,Influenza
 Nakhon Si Thammarat,6-6,4,2003,Influenza
 Phatthalung,6-6,0,2003,Influenza
 Trang,6-6,17,2003,Influenza
-Zone 17,6-6,16,2003,Influenza
+Zone:17,6-6,16,2003,Influenza
 Krabi,6-6,7,2003,Influenza
 Phangnga,6-6,8,2003,Influenza
 Phuket,6-6,1,2003,Influenza
-Zone 18,6-6,36,2003,Influenza
+Zone:18,6-6,36,2003,Influenza
 Narathiwat,6-6,20,2003,Influenza
 Pattani,6-6,11,2003,Influenza
 Yala,6-6,5,2003,Influenza
-Zone 19,6-6,13,2003,Influenza
+Zone:19,6-6,13,2003,Influenza
 Satun,6-6,0,2003,Influenza
 Songkhla,6-6,13,2003,Influenza
 Total,7-9,1220,2003,Influenza
 North Region,7-9,169,2003,Influenza
-Zone 1,7-9,91,2003,Influenza
+Zone:1,7-9,91,2003,Influenza
 Chiang Mai,7-9,29,2003,Influenza
 Chiang Rai,7-9,11,2003,Influenza
 Lampang,7-9,2,2003,Influenza
@@ -2548,98 +2548,98 @@ Mae Hong Son,7-9,2,2003,Influenza
 Nan,7-9,27,2003,Influenza
 Phayao,7-9,7,2003,Influenza
 Phrae,7-9,0,2003,Influenza
-Zone 2,7-9,35,2003,Influenza
+Zone:2,7-9,35,2003,Influenza
 Phetchabun,7-9,12,2003,Influenza
 Phitsanulok,7-9,6,2003,Influenza
 Sukhothai,7-9,6,2003,Influenza
 Tak,7-9,11,2003,Influenza
 Uttaradit,7-9,0,2003,Influenza
-Zone 3,7-9,43,2003,Influenza
+Zone:3,7-9,43,2003,Influenza
 Kamphaeng Phet,7-9,15,2003,Influenza
 Nakhon Sawan,7-9,26,2003,Influenza
 Phichit,7-9,1,2003,Influenza
 Uthai Thani,7-9,1,2003,Influenza
 Central Region,7-9,325,2003,Influenza
 Bangkok,7-9,34,2003,Influenza
-Zone 4,7-9,43,2003,Influenza
+Zone:4,7-9,43,2003,Influenza
 Ang Thong,7-9,1,2003,Influenza
 Nonthaburi,7-9,39,2003,Influenza
 P.Nakhon S.Ayutthaya,7-9,2,2003,Influenza
 Pathum Thani,7-9,1,2003,Influenza
-Zone 5,7-9,31,2003,Influenza
+Zone:5,7-9,31,2003,Influenza
 Chai Nat,7-9,5,2003,Influenza
 Lop Buri,7-9,7,2003,Influenza
 Saraburi,7-9,2,2003,Influenza
 Sing Buri,7-9,17,2003,Influenza
-Zone 6,7-9,70,2003,Influenza
+Zone:6,7-9,70,2003,Influenza
 Kanchanaburi,7-9,19,2003,Influenza
 Nakhon Pathom,7-9,10,2003,Influenza
 Ratchaburi,7-9,34,2003,Influenza
 Suphan Buri,7-9,7,2003,Influenza
-Zone 7,7-9,56,2003,Influenza
+Zone:7,7-9,56,2003,Influenza
 Phetchaburi,7-9,21,2003,Influenza
 Prachuap Khiri Khan,7-9,3,2003,Influenza
 Samut Sakhon,7-9,2,2003,Influenza
 Samut Songkhram,7-9,30,2003,Influenza
-Zone 8,7-9,30,2003,Influenza
+Zone:8,7-9,30,2003,Influenza
 Chachoengsao,7-9,7,2003,Influenza
 Nakhon Nayok,7-9,0,2003,Influenza
 Prachin Buri,7-9,16,2003,Influenza
 Sa Kaeo,7-9,5,2003,Influenza
 Samut Prakan,7-9,2,2003,Influenza
-Zone 9,7-9,61,2003,Influenza
+Zone:9,7-9,61,2003,Influenza
 Chanthaburi,7-9,38,2003,Influenza
 Chon Buri,7-9,9,2003,Influenza
 Rayong,7-9,13,2003,Influenza
 Trat,7-9,1,2003,Influenza
 North-Eastern Region,7-9,386,2003,Influenza
-Zone 10,7-9,42,2003,Influenza
+Zone:10,7-9,42,2003,Influenza
 Loei,7-9,10,2003,Influenza
 Nong Bua Lam Phu,7-9,8,2003,Influenza
 Nong Khai,7-9,1,2003,Influenza
 Udon Thani,7-9,23,2003,Influenza
-Zone 11,7-9,22,2003,Influenza
+Zone:11,7-9,22,2003,Influenza
 Kalasin,7-9,10,2003,Influenza
 Mukdahan,7-9,7,2003,Influenza
 Nakhon Phanom,7-9,3,2003,Influenza
 Sakon Nakhon,7-9,2,2003,Influenza
-Zone 12,7-9,34,2003,Influenza
+Zone:12,7-9,34,2003,Influenza
 Khon Kaen,7-9,13,2003,Influenza
 Maha Sarakham,7-9,5,2003,Influenza
 Roi Et,7-9,16,2003,Influenza
-Zone 13,7-9,88,2003,Influenza
+Zone:13,7-9,88,2003,Influenza
 Buri Ram,7-9,23,2003,Influenza
 Chaiyaphum,7-9,8,2003,Influenza
 Nakhon Ratchasima,7-9,16,2003,Influenza
 Surin,7-9,41,2003,Influenza
-Zone 14,7-9,200,2003,Influenza
+Zone:14,7-9,200,2003,Influenza
 Amnat Charoen,7-9,4,2003,Influenza
 Si Sa Ket,7-9,168,2003,Influenza
 Ubon Ratchathani,7-9,22,2003,Influenza
 Yasothon,7-9,6,2003,Influenza
 South Region,7-9,340,2003,Influenza
-Zone 15,7-9,109,2003,Influenza
+Zone:15,7-9,109,2003,Influenza
 Chumphon,7-9,0,2003,Influenza
 Ranong,7-9,2,2003,Influenza
 Surat Thani,7-9,107,2003,Influenza
-Zone 16,7-9,93,2003,Influenza
+Zone:16,7-9,93,2003,Influenza
 Nakhon Si Thammarat,7-9,21,2003,Influenza
 Phatthalung,7-9,9,2003,Influenza
 Trang,7-9,63,2003,Influenza
-Zone 17,7-9,30,2003,Influenza
+Zone:17,7-9,30,2003,Influenza
 Krabi,7-9,18,2003,Influenza
 Phangnga,7-9,10,2003,Influenza
 Phuket,7-9,2,2003,Influenza
-Zone 18,7-9,52,2003,Influenza
+Zone:18,7-9,52,2003,Influenza
 Narathiwat,7-9,33,2003,Influenza
 Pattani,7-9,14,2003,Influenza
 Yala,7-9,5,2003,Influenza
-Zone 19,7-9,56,2003,Influenza
+Zone:19,7-9,56,2003,Influenza
 Satun,7-9,19,2003,Influenza
 Songkhla,7-9,37,2003,Influenza
 Total,10-14,1967,2003,Influenza
 North Region,10-14,291,2003,Influenza
-Zone 1,10-14,151,2003,Influenza
+Zone:1,10-14,151,2003,Influenza
 Chiang Mai,10-14,50,2003,Influenza
 Chiang Rai,10-14,25,2003,Influenza
 Lampang,10-14,6,2003,Influenza
@@ -2648,98 +2648,98 @@ Mae Hong Son,10-14,13,2003,Influenza
 Nan,10-14,28,2003,Influenza
 Phayao,10-14,7,2003,Influenza
 Phrae,10-14,2,2003,Influenza
-Zone 2,10-14,64,2003,Influenza
+Zone:2,10-14,64,2003,Influenza
 Phetchabun,10-14,14,2003,Influenza
 Phitsanulok,10-14,12,2003,Influenza
 Sukhothai,10-14,4,2003,Influenza
 Tak,10-14,31,2003,Influenza
 Uttaradit,10-14,3,2003,Influenza
-Zone 3,10-14,76,2003,Influenza
+Zone:3,10-14,76,2003,Influenza
 Kamphaeng Phet,10-14,15,2003,Influenza
 Nakhon Sawan,10-14,47,2003,Influenza
 Phichit,10-14,2,2003,Influenza
 Uthai Thani,10-14,12,2003,Influenza
 Central Region,10-14,595,2003,Influenza
 Bangkok,10-14,91,2003,Influenza
-Zone 4,10-14,58,2003,Influenza
+Zone:4,10-14,58,2003,Influenza
 Ang Thong,10-14,3,2003,Influenza
 Nonthaburi,10-14,43,2003,Influenza
 P.Nakhon S.Ayutthaya,10-14,7,2003,Influenza
 Pathum Thani,10-14,5,2003,Influenza
-Zone 5,10-14,37,2003,Influenza
+Zone:5,10-14,37,2003,Influenza
 Chai Nat,10-14,8,2003,Influenza
 Lop Buri,10-14,7,2003,Influenza
 Saraburi,10-14,2,2003,Influenza
 Sing Buri,10-14,20,2003,Influenza
-Zone 6,10-14,163,2003,Influenza
+Zone:6,10-14,163,2003,Influenza
 Kanchanaburi,10-14,48,2003,Influenza
 Nakhon Pathom,10-14,23,2003,Influenza
 Ratchaburi,10-14,77,2003,Influenza
 Suphan Buri,10-14,15,2003,Influenza
-Zone 7,10-14,83,2003,Influenza
+Zone:7,10-14,83,2003,Influenza
 Phetchaburi,10-14,36,2003,Influenza
 Prachuap Khiri Khan,10-14,11,2003,Influenza
 Samut Sakhon,10-14,5,2003,Influenza
 Samut Songkhram,10-14,31,2003,Influenza
-Zone 8,10-14,52,2003,Influenza
+Zone:8,10-14,52,2003,Influenza
 Chachoengsao,10-14,17,2003,Influenza
 Nakhon Nayok,10-14,1,2003,Influenza
 Prachin Buri,10-14,22,2003,Influenza
 Sa Kaeo,10-14,4,2003,Influenza
 Samut Prakan,10-14,8,2003,Influenza
-Zone 9,10-14,111,2003,Influenza
+Zone:9,10-14,111,2003,Influenza
 Chanthaburi,10-14,59,2003,Influenza
 Chon Buri,10-14,24,2003,Influenza
 Rayong,10-14,25,2003,Influenza
 Trat,10-14,3,2003,Influenza
 North-Eastern Region,10-14,505,2003,Influenza
-Zone 10,10-14,75,2003,Influenza
+Zone:10,10-14,75,2003,Influenza
 Loei,10-14,7,2003,Influenza
 Nong Bua Lam Phu,10-14,25,2003,Influenza
 Nong Khai,10-14,6,2003,Influenza
 Udon Thani,10-14,37,2003,Influenza
-Zone 11,10-14,28,2003,Influenza
+Zone:11,10-14,28,2003,Influenza
 Kalasin,10-14,9,2003,Influenza
 Mukdahan,10-14,4,2003,Influenza
 Nakhon Phanom,10-14,12,2003,Influenza
 Sakon Nakhon,10-14,3,2003,Influenza
-Zone 12,10-14,61,2003,Influenza
+Zone:12,10-14,61,2003,Influenza
 Khon Kaen,10-14,16,2003,Influenza
 Maha Sarakham,10-14,25,2003,Influenza
 Roi Et,10-14,20,2003,Influenza
-Zone 13,10-14,123,2003,Influenza
+Zone:13,10-14,123,2003,Influenza
 Buri Ram,10-14,45,2003,Influenza
 Chaiyaphum,10-14,22,2003,Influenza
 Nakhon Ratchasima,10-14,16,2003,Influenza
 Surin,10-14,40,2003,Influenza
-Zone 14,10-14,218,2003,Influenza
+Zone:14,10-14,218,2003,Influenza
 Amnat Charoen,10-14,9,2003,Influenza
 Si Sa Ket,10-14,156,2003,Influenza
 Ubon Ratchathani,10-14,38,2003,Influenza
 Yasothon,10-14,15,2003,Influenza
 South Region,10-14,576,2003,Influenza
-Zone 15,10-14,164,2003,Influenza
+Zone:15,10-14,164,2003,Influenza
 Chumphon,10-14,3,2003,Influenza
 Ranong,10-14,3,2003,Influenza
 Surat Thani,10-14,158,2003,Influenza
-Zone 16,10-14,161,2003,Influenza
+Zone:16,10-14,161,2003,Influenza
 Nakhon Si Thammarat,10-14,43,2003,Influenza
 Phatthalung,10-14,15,2003,Influenza
 Trang,10-14,103,2003,Influenza
-Zone 17,10-14,58,2003,Influenza
+Zone:17,10-14,58,2003,Influenza
 Krabi,10-14,37,2003,Influenza
 Phangnga,10-14,15,2003,Influenza
 Phuket,10-14,6,2003,Influenza
-Zone 18,10-14,122,2003,Influenza
+Zone:18,10-14,122,2003,Influenza
 Narathiwat,10-14,78,2003,Influenza
 Pattani,10-14,26,2003,Influenza
 Yala,10-14,18,2003,Influenza
-Zone 19,10-14,71,2003,Influenza
+Zone:19,10-14,71,2003,Influenza
 Satun,10-14,14,2003,Influenza
 Songkhla,10-14,57,2003,Influenza
 Total,15-24,4298,2003,Influenza
 North Region,15-24,547,2003,Influenza
-Zone 1,15-24,312,2003,Influenza
+Zone:1,15-24,312,2003,Influenza
 Chiang Mai,15-24,114,2003,Influenza
 Chiang Rai,15-24,58,2003,Influenza
 Lampang,15-24,19,2003,Influenza
@@ -2748,98 +2748,98 @@ Mae Hong Son,15-24,26,2003,Influenza
 Nan,15-24,44,2003,Influenza
 Phayao,15-24,20,2003,Influenza
 Phrae,15-24,5,2003,Influenza
-Zone 2,15-24,119,2003,Influenza
+Zone:2,15-24,119,2003,Influenza
 Phetchabun,15-24,39,2003,Influenza
 Phitsanulok,15-24,14,2003,Influenza
 Sukhothai,15-24,12,2003,Influenza
 Tak,15-24,52,2003,Influenza
 Uttaradit,15-24,2,2003,Influenza
-Zone 3,15-24,116,2003,Influenza
+Zone:3,15-24,116,2003,Influenza
 Kamphaeng Phet,15-24,30,2003,Influenza
 Nakhon Sawan,15-24,54,2003,Influenza
 Phichit,15-24,5,2003,Influenza
 Uthai Thani,15-24,27,2003,Influenza
 Central Region,15-24,1547,2003,Influenza
 Bangkok,15-24,176,2003,Influenza
-Zone 4,15-24,209,2003,Influenza
+Zone:4,15-24,209,2003,Influenza
 Ang Thong,15-24,7,2003,Influenza
 Nonthaburi,15-24,75,2003,Influenza
 P.Nakhon S.Ayutthaya,15-24,26,2003,Influenza
 Pathum Thani,15-24,101,2003,Influenza
-Zone 5,15-24,39,2003,Influenza
+Zone:5,15-24,39,2003,Influenza
 Chai Nat,15-24,8,2003,Influenza
 Lop Buri,15-24,6,2003,Influenza
 Saraburi,15-24,7,2003,Influenza
 Sing Buri,15-24,18,2003,Influenza
-Zone 6,15-24,422,2003,Influenza
+Zone:6,15-24,422,2003,Influenza
 Kanchanaburi,15-24,78,2003,Influenza
 Nakhon Pathom,15-24,88,2003,Influenza
 Ratchaburi,15-24,223,2003,Influenza
 Suphan Buri,15-24,33,2003,Influenza
-Zone 7,15-24,195,2003,Influenza
+Zone:7,15-24,195,2003,Influenza
 Phetchaburi,15-24,77,2003,Influenza
 Prachuap Khiri Khan,15-24,40,2003,Influenza
 Samut Sakhon,15-24,20,2003,Influenza
 Samut Songkhram,15-24,58,2003,Influenza
-Zone 8,15-24,152,2003,Influenza
+Zone:8,15-24,152,2003,Influenza
 Chachoengsao,15-24,74,2003,Influenza
 Nakhon Nayok,15-24,3,2003,Influenza
 Prachin Buri,15-24,46,2003,Influenza
 Sa Kaeo,15-24,10,2003,Influenza
 Samut Prakan,15-24,19,2003,Influenza
-Zone 9,15-24,354,2003,Influenza
+Zone:9,15-24,354,2003,Influenza
 Chanthaburi,15-24,167,2003,Influenza
 Chon Buri,15-24,89,2003,Influenza
 Rayong,15-24,90,2003,Influenza
 Trat,15-24,8,2003,Influenza
 North-Eastern Region,15-24,689,2003,Influenza
-Zone 10,15-24,95,2003,Influenza
+Zone:10,15-24,95,2003,Influenza
 Loei,15-24,5,2003,Influenza
 Nong Bua Lam Phu,15-24,14,2003,Influenza
 Nong Khai,15-24,7,2003,Influenza
 Udon Thani,15-24,69,2003,Influenza
-Zone 11,15-24,47,2003,Influenza
+Zone:11,15-24,47,2003,Influenza
 Kalasin,15-24,11,2003,Influenza
 Mukdahan,15-24,2,2003,Influenza
 Nakhon Phanom,15-24,23,2003,Influenza
 Sakon Nakhon,15-24,11,2003,Influenza
-Zone 12,15-24,99,2003,Influenza
+Zone:12,15-24,99,2003,Influenza
 Khon Kaen,15-24,18,2003,Influenza
 Maha Sarakham,15-24,40,2003,Influenza
 Roi Et,15-24,41,2003,Influenza
-Zone 13,15-24,250,2003,Influenza
+Zone:13,15-24,250,2003,Influenza
 Buri Ram,15-24,97,2003,Influenza
 Chaiyaphum,15-24,41,2003,Influenza
 Nakhon Ratchasima,15-24,59,2003,Influenza
 Surin,15-24,53,2003,Influenza
-Zone 14,15-24,198,2003,Influenza
+Zone:14,15-24,198,2003,Influenza
 Amnat Charoen,15-24,14,2003,Influenza
 Si Sa Ket,15-24,144,2003,Influenza
 Ubon Ratchathani,15-24,30,2003,Influenza
 Yasothon,15-24,10,2003,Influenza
 South Region,15-24,1515,2003,Influenza
-Zone 15,15-24,454,2003,Influenza
+Zone:15,15-24,454,2003,Influenza
 Chumphon,15-24,36,2003,Influenza
 Ranong,15-24,25,2003,Influenza
 Surat Thani,15-24,393,2003,Influenza
-Zone 16,15-24,423,2003,Influenza
+Zone:16,15-24,423,2003,Influenza
 Nakhon Si Thammarat,15-24,127,2003,Influenza
 Phatthalung,15-24,44,2003,Influenza
 Trang,15-24,252,2003,Influenza
-Zone 17,15-24,192,2003,Influenza
+Zone:17,15-24,192,2003,Influenza
 Krabi,15-24,112,2003,Influenza
 Phangnga,15-24,43,2003,Influenza
 Phuket,15-24,37,2003,Influenza
-Zone 18,15-24,261,2003,Influenza
+Zone:18,15-24,261,2003,Influenza
 Narathiwat,15-24,155,2003,Influenza
 Pattani,15-24,60,2003,Influenza
 Yala,15-24,46,2003,Influenza
-Zone 19,15-24,185,2003,Influenza
+Zone:19,15-24,185,2003,Influenza
 Satun,15-24,24,2003,Influenza
 Songkhla,15-24,161,2003,Influenza
 Total,25-34,5213,2003,Influenza
 North Region,25-34,624,2003,Influenza
-Zone 1,25-34,324,2003,Influenza
+Zone:1,25-34,324,2003,Influenza
 Chiang Mai,25-34,99,2003,Influenza
 Chiang Rai,25-34,57,2003,Influenza
 Lampang,25-34,18,2003,Influenza
@@ -2848,98 +2848,98 @@ Mae Hong Son,25-34,19,2003,Influenza
 Nan,25-34,72,2003,Influenza
 Phayao,25-34,25,2003,Influenza
 Phrae,25-34,5,2003,Influenza
-Zone 2,25-34,164,2003,Influenza
+Zone:2,25-34,164,2003,Influenza
 Phetchabun,25-34,62,2003,Influenza
 Phitsanulok,25-34,14,2003,Influenza
 Sukhothai,25-34,22,2003,Influenza
 Tak,25-34,66,2003,Influenza
 Uttaradit,25-34,0,2003,Influenza
-Zone 3,25-34,136,2003,Influenza
+Zone:3,25-34,136,2003,Influenza
 Kamphaeng Phet,25-34,30,2003,Influenza
 Nakhon Sawan,25-34,51,2003,Influenza
 Phichit,25-34,1,2003,Influenza
 Uthai Thani,25-34,54,2003,Influenza
 Central Region,25-34,1605,2003,Influenza
 Bangkok,25-34,191,2003,Influenza
-Zone 4,25-34,179,2003,Influenza
+Zone:4,25-34,179,2003,Influenza
 Ang Thong,25-34,13,2003,Influenza
 Nonthaburi,25-34,55,2003,Influenza
 P.Nakhon S.Ayutthaya,25-34,25,2003,Influenza
 Pathum Thani,25-34,86,2003,Influenza
-Zone 5,25-34,63,2003,Influenza
+Zone:5,25-34,63,2003,Influenza
 Chai Nat,25-34,6,2003,Influenza
 Lop Buri,25-34,7,2003,Influenza
 Saraburi,25-34,8,2003,Influenza
 Sing Buri,25-34,42,2003,Influenza
-Zone 6,25-34,431,2003,Influenza
+Zone:6,25-34,431,2003,Influenza
 Kanchanaburi,25-34,98,2003,Influenza
 Nakhon Pathom,25-34,89,2003,Influenza
 Ratchaburi,25-34,197,2003,Influenza
 Suphan Buri,25-34,47,2003,Influenza
-Zone 7,25-34,216,2003,Influenza
+Zone:7,25-34,216,2003,Influenza
 Phetchaburi,25-34,91,2003,Influenza
 Prachuap Khiri Khan,25-34,57,2003,Influenza
 Samut Sakhon,25-34,10,2003,Influenza
 Samut Songkhram,25-34,58,2003,Influenza
-Zone 8,25-34,153,2003,Influenza
+Zone:8,25-34,153,2003,Influenza
 Chachoengsao,25-34,78,2003,Influenza
 Nakhon Nayok,25-34,9,2003,Influenza
 Prachin Buri,25-34,39,2003,Influenza
 Sa Kaeo,25-34,5,2003,Influenza
 Samut Prakan,25-34,22,2003,Influenza
-Zone 9,25-34,372,2003,Influenza
+Zone:9,25-34,372,2003,Influenza
 Chanthaburi,25-34,130,2003,Influenza
 Chon Buri,25-34,108,2003,Influenza
 Rayong,25-34,130,2003,Influenza
 Trat,25-34,4,2003,Influenza
 North-Eastern Region,25-34,1019,2003,Influenza
-Zone 10,25-34,143,2003,Influenza
+Zone:10,25-34,143,2003,Influenza
 Loei,25-34,16,2003,Influenza
 Nong Bua Lam Phu,25-34,28,2003,Influenza
 Nong Khai,25-34,9,2003,Influenza
 Udon Thani,25-34,90,2003,Influenza
-Zone 11,25-34,66,2003,Influenza
+Zone:11,25-34,66,2003,Influenza
 Kalasin,25-34,18,2003,Influenza
 Mukdahan,25-34,3,2003,Influenza
 Nakhon Phanom,25-34,30,2003,Influenza
 Sakon Nakhon,25-34,15,2003,Influenza
-Zone 12,25-34,169,2003,Influenza
+Zone:12,25-34,169,2003,Influenza
 Khon Kaen,25-34,40,2003,Influenza
 Maha Sarakham,25-34,61,2003,Influenza
 Roi Et,25-34,68,2003,Influenza
-Zone 13,25-34,380,2003,Influenza
+Zone:13,25-34,380,2003,Influenza
 Buri Ram,25-34,131,2003,Influenza
 Chaiyaphum,25-34,59,2003,Influenza
 Nakhon Ratchasima,25-34,96,2003,Influenza
 Surin,25-34,94,2003,Influenza
-Zone 14,25-34,261,2003,Influenza
+Zone:14,25-34,261,2003,Influenza
 Amnat Charoen,25-34,20,2003,Influenza
 Si Sa Ket,25-34,161,2003,Influenza
 Ubon Ratchathani,25-34,59,2003,Influenza
 Yasothon,25-34,21,2003,Influenza
 South Region,25-34,1965,2003,Influenza
-Zone 15,25-34,538,2003,Influenza
+Zone:15,25-34,538,2003,Influenza
 Chumphon,25-34,41,2003,Influenza
 Ranong,25-34,16,2003,Influenza
 Surat Thani,25-34,481,2003,Influenza
-Zone 16,25-34,638,2003,Influenza
+Zone:16,25-34,638,2003,Influenza
 Nakhon Si Thammarat,25-34,189,2003,Influenza
 Phatthalung,25-34,71,2003,Influenza
 Trang,25-34,378,2003,Influenza
-Zone 17,25-34,300,2003,Influenza
+Zone:17,25-34,300,2003,Influenza
 Krabi,25-34,201,2003,Influenza
 Phangnga,25-34,42,2003,Influenza
 Phuket,25-34,57,2003,Influenza
-Zone 18,25-34,271,2003,Influenza
+Zone:18,25-34,271,2003,Influenza
 Narathiwat,25-34,170,2003,Influenza
 Pattani,25-34,46,2003,Influenza
 Yala,25-34,55,2003,Influenza
-Zone 19,25-34,218,2003,Influenza
+Zone:19,25-34,218,2003,Influenza
 Satun,25-34,43,2003,Influenza
 Songkhla,25-34,175,2003,Influenza
 Total,35-44,4953,2003,Influenza
 North Region,35-44,791,2003,Influenza
-Zone 1,35-44,414,2003,Influenza
+Zone:1,35-44,414,2003,Influenza
 Chiang Mai,35-44,141,2003,Influenza
 Chiang Rai,35-44,76,2003,Influenza
 Lampang,35-44,22,2003,Influenza
@@ -2948,98 +2948,98 @@ Mae Hong Son,35-44,28,2003,Influenza
 Nan,35-44,75,2003,Influenza
 Phayao,35-44,32,2003,Influenza
 Phrae,35-44,6,2003,Influenza
-Zone 2,35-44,203,2003,Influenza
+Zone:2,35-44,203,2003,Influenza
 Phetchabun,35-44,70,2003,Influenza
 Phitsanulok,35-44,34,2003,Influenza
 Sukhothai,35-44,17,2003,Influenza
 Tak,35-44,77,2003,Influenza
 Uttaradit,35-44,5,2003,Influenza
-Zone 3,35-44,174,2003,Influenza
+Zone:3,35-44,174,2003,Influenza
 Kamphaeng Phet,35-44,46,2003,Influenza
 Nakhon Sawan,35-44,64,2003,Influenza
 Phichit,35-44,8,2003,Influenza
 Uthai Thani,35-44,56,2003,Influenza
 Central Region,35-44,1275,2003,Influenza
 Bangkok,35-44,142,2003,Influenza
-Zone 4,35-44,137,2003,Influenza
+Zone:4,35-44,137,2003,Influenza
 Ang Thong,35-44,8,2003,Influenza
 Nonthaburi,35-44,48,2003,Influenza
 P.Nakhon S.Ayutthaya,35-44,18,2003,Influenza
 Pathum Thani,35-44,63,2003,Influenza
-Zone 5,35-44,86,2003,Influenza
+Zone:5,35-44,86,2003,Influenza
 Chai Nat,35-44,10,2003,Influenza
 Lop Buri,35-44,9,2003,Influenza
 Saraburi,35-44,6,2003,Influenza
 Sing Buri,35-44,61,2003,Influenza
-Zone 6,35-44,332,2003,Influenza
+Zone:6,35-44,332,2003,Influenza
 Kanchanaburi,35-44,66,2003,Influenza
 Nakhon Pathom,35-44,68,2003,Influenza
 Ratchaburi,35-44,155,2003,Influenza
 Suphan Buri,35-44,43,2003,Influenza
-Zone 7,35-44,180,2003,Influenza
+Zone:7,35-44,180,2003,Influenza
 Phetchaburi,35-44,71,2003,Influenza
 Prachuap Khiri Khan,35-44,28,2003,Influenza
 Samut Sakhon,35-44,9,2003,Influenza
 Samut Songkhram,35-44,72,2003,Influenza
-Zone 8,35-44,135,2003,Influenza
+Zone:8,35-44,135,2003,Influenza
 Chachoengsao,35-44,64,2003,Influenza
 Nakhon Nayok,35-44,9,2003,Influenza
 Prachin Buri,35-44,34,2003,Influenza
 Sa Kaeo,35-44,10,2003,Influenza
 Samut Prakan,35-44,18,2003,Influenza
-Zone 9,35-44,263,2003,Influenza
+Zone:9,35-44,263,2003,Influenza
 Chanthaburi,35-44,121,2003,Influenza
 Chon Buri,35-44,71,2003,Influenza
 Rayong,35-44,66,2003,Influenza
 Trat,35-44,5,2003,Influenza
 North-Eastern Region,35-44,1054,2003,Influenza
-Zone 10,35-44,130,2003,Influenza
+Zone:10,35-44,130,2003,Influenza
 Loei,35-44,12,2003,Influenza
 Nong Bua Lam Phu,35-44,23,2003,Influenza
 Nong Khai,35-44,14,2003,Influenza
 Udon Thani,35-44,81,2003,Influenza
-Zone 11,35-44,83,2003,Influenza
+Zone:11,35-44,83,2003,Influenza
 Kalasin,35-44,33,2003,Influenza
 Mukdahan,35-44,2,2003,Influenza
 Nakhon Phanom,35-44,33,2003,Influenza
 Sakon Nakhon,35-44,15,2003,Influenza
-Zone 12,35-44,206,2003,Influenza
+Zone:12,35-44,206,2003,Influenza
 Khon Kaen,35-44,29,2003,Influenza
 Maha Sarakham,35-44,81,2003,Influenza
 Roi Et,35-44,96,2003,Influenza
-Zone 13,35-44,361,2003,Influenza
+Zone:13,35-44,361,2003,Influenza
 Buri Ram,35-44,116,2003,Influenza
 Chaiyaphum,35-44,73,2003,Influenza
 Nakhon Ratchasima,35-44,87,2003,Influenza
 Surin,35-44,85,2003,Influenza
-Zone 14,35-44,274,2003,Influenza
+Zone:14,35-44,274,2003,Influenza
 Amnat Charoen,35-44,24,2003,Influenza
 Si Sa Ket,35-44,159,2003,Influenza
 Ubon Ratchathani,35-44,73,2003,Influenza
 Yasothon,35-44,18,2003,Influenza
 South Region,35-44,1833,2003,Influenza
-Zone 15,35-44,470,2003,Influenza
+Zone:15,35-44,470,2003,Influenza
 Chumphon,35-44,38,2003,Influenza
 Ranong,35-44,14,2003,Influenza
 Surat Thani,35-44,418,2003,Influenza
-Zone 16,35-44,622,2003,Influenza
+Zone:16,35-44,622,2003,Influenza
 Nakhon Si Thammarat,35-44,180,2003,Influenza
 Phatthalung,35-44,71,2003,Influenza
 Trang,35-44,371,2003,Influenza
-Zone 17,35-44,230,2003,Influenza
+Zone:17,35-44,230,2003,Influenza
 Krabi,35-44,167,2003,Influenza
 Phangnga,35-44,37,2003,Influenza
 Phuket,35-44,26,2003,Influenza
-Zone 18,35-44,297,2003,Influenza
+Zone:18,35-44,297,2003,Influenza
 Narathiwat,35-44,184,2003,Influenza
 Pattani,35-44,70,2003,Influenza
 Yala,35-44,43,2003,Influenza
-Zone 19,35-44,214,2003,Influenza
+Zone:19,35-44,214,2003,Influenza
 Satun,35-44,36,2003,Influenza
 Songkhla,35-44,178,2003,Influenza
 Total,45-54,3682,2003,Influenza
 North Region,45-54,628,2003,Influenza
-Zone 1,45-54,350,2003,Influenza
+Zone:1,45-54,350,2003,Influenza
 Chiang Mai,45-54,109,2003,Influenza
 Chiang Rai,45-54,65,2003,Influenza
 Lampang,45-54,16,2003,Influenza
@@ -3048,98 +3048,98 @@ Mae Hong Son,45-54,9,2003,Influenza
 Nan,45-54,75,2003,Influenza
 Phayao,45-54,37,2003,Influenza
 Phrae,45-54,7,2003,Influenza
-Zone 2,45-54,143,2003,Influenza
+Zone:2,45-54,143,2003,Influenza
 Phetchabun,45-54,49,2003,Influenza
 Phitsanulok,45-54,26,2003,Influenza
 Sukhothai,45-54,14,2003,Influenza
 Tak,45-54,52,2003,Influenza
 Uttaradit,45-54,2,2003,Influenza
-Zone 3,45-54,135,2003,Influenza
+Zone:3,45-54,135,2003,Influenza
 Kamphaeng Phet,45-54,24,2003,Influenza
 Nakhon Sawan,45-54,55,2003,Influenza
 Phichit,45-54,7,2003,Influenza
 Uthai Thani,45-54,49,2003,Influenza
 Central Region,45-54,915,2003,Influenza
 Bangkok,45-54,97,2003,Influenza
-Zone 4,45-54,114,2003,Influenza
+Zone:4,45-54,114,2003,Influenza
 Ang Thong,45-54,6,2003,Influenza
 Nonthaburi,45-54,37,2003,Influenza
 P.Nakhon S.Ayutthaya,45-54,11,2003,Influenza
 Pathum Thani,45-54,60,2003,Influenza
-Zone 5,45-54,59,2003,Influenza
+Zone:5,45-54,59,2003,Influenza
 Chai Nat,45-54,4,2003,Influenza
 Lop Buri,45-54,10,2003,Influenza
 Saraburi,45-54,3,2003,Influenza
 Sing Buri,45-54,42,2003,Influenza
-Zone 6,45-54,237,2003,Influenza
+Zone:6,45-54,237,2003,Influenza
 Kanchanaburi,45-54,39,2003,Influenza
 Nakhon Pathom,45-54,54,2003,Influenza
 Ratchaburi,45-54,106,2003,Influenza
 Suphan Buri,45-54,38,2003,Influenza
-Zone 7,45-54,131,2003,Influenza
+Zone:7,45-54,131,2003,Influenza
 Phetchaburi,45-54,48,2003,Influenza
 Prachuap Khiri Khan,45-54,27,2003,Influenza
 Samut Sakhon,45-54,5,2003,Influenza
 Samut Songkhram,45-54,51,2003,Influenza
-Zone 8,45-54,99,2003,Influenza
+Zone:8,45-54,99,2003,Influenza
 Chachoengsao,45-54,48,2003,Influenza
 Nakhon Nayok,45-54,4,2003,Influenza
 Prachin Buri,45-54,29,2003,Influenza
 Sa Kaeo,45-54,5,2003,Influenza
 Samut Prakan,45-54,13,2003,Influenza
-Zone 9,45-54,178,2003,Influenza
+Zone:9,45-54,178,2003,Influenza
 Chanthaburi,45-54,92,2003,Influenza
 Chon Buri,45-54,40,2003,Influenza
 Rayong,45-54,43,2003,Influenza
 Trat,45-54,3,2003,Influenza
 North-Eastern Region,45-54,942,2003,Influenza
-Zone 10,45-54,123,2003,Influenza
+Zone:10,45-54,123,2003,Influenza
 Loei,45-54,15,2003,Influenza
 Nong Bua Lam Phu,45-54,19,2003,Influenza
 Nong Khai,45-54,11,2003,Influenza
 Udon Thani,45-54,78,2003,Influenza
-Zone 11,45-54,60,2003,Influenza
+Zone:11,45-54,60,2003,Influenza
 Kalasin,45-54,15,2003,Influenza
 Mukdahan,45-54,7,2003,Influenza
 Nakhon Phanom,45-54,26,2003,Influenza
 Sakon Nakhon,45-54,12,2003,Influenza
-Zone 12,45-54,182,2003,Influenza
+Zone:12,45-54,182,2003,Influenza
 Khon Kaen,45-54,30,2003,Influenza
 Maha Sarakham,45-54,67,2003,Influenza
 Roi Et,45-54,85,2003,Influenza
-Zone 13,45-54,381,2003,Influenza
+Zone:13,45-54,381,2003,Influenza
 Buri Ram,45-54,155,2003,Influenza
 Chaiyaphum,45-54,68,2003,Influenza
 Nakhon Ratchasima,45-54,83,2003,Influenza
 Surin,45-54,75,2003,Influenza
-Zone 14,45-54,196,2003,Influenza
+Zone:14,45-54,196,2003,Influenza
 Amnat Charoen,45-54,12,2003,Influenza
 Si Sa Ket,45-54,105,2003,Influenza
 Ubon Ratchathani,45-54,57,2003,Influenza
 Yasothon,45-54,22,2003,Influenza
 South Region,45-54,1197,2003,Influenza
-Zone 15,45-54,319,2003,Influenza
+Zone:15,45-54,319,2003,Influenza
 Chumphon,45-54,26,2003,Influenza
 Ranong,45-54,14,2003,Influenza
 Surat Thani,45-54,279,2003,Influenza
-Zone 16,45-54,383,2003,Influenza
+Zone:16,45-54,383,2003,Influenza
 Nakhon Si Thammarat,45-54,108,2003,Influenza
 Phatthalung,45-54,65,2003,Influenza
 Trang,45-54,210,2003,Influenza
-Zone 17,45-54,149,2003,Influenza
+Zone:17,45-54,149,2003,Influenza
 Krabi,45-54,102,2003,Influenza
 Phangnga,45-54,32,2003,Influenza
 Phuket,45-54,15,2003,Influenza
-Zone 18,45-54,190,2003,Influenza
+Zone:18,45-54,190,2003,Influenza
 Narathiwat,45-54,113,2003,Influenza
 Pattani,45-54,43,2003,Influenza
 Yala,45-54,34,2003,Influenza
-Zone 19,45-54,156,2003,Influenza
+Zone:19,45-54,156,2003,Influenza
 Satun,45-54,37,2003,Influenza
 Songkhla,45-54,119,2003,Influenza
 Total,55-64,2472,2003,Influenza
 North Region,55-64,324,2003,Influenza
-Zone 1,55-64,154,2003,Influenza
+Zone:1,55-64,154,2003,Influenza
 Chiang Mai,55-64,42,2003,Influenza
 Chiang Rai,55-64,30,2003,Influenza
 Lampang,55-64,9,2003,Influenza
@@ -3148,98 +3148,98 @@ Mae Hong Son,55-64,2,2003,Influenza
 Nan,55-64,36,2003,Influenza
 Phayao,55-64,15,2003,Influenza
 Phrae,55-64,5,2003,Influenza
-Zone 2,55-64,66,2003,Influenza
+Zone:2,55-64,66,2003,Influenza
 Phetchabun,55-64,27,2003,Influenza
 Phitsanulok,55-64,13,2003,Influenza
 Sukhothai,55-64,8,2003,Influenza
 Tak,55-64,18,2003,Influenza
 Uttaradit,55-64,0,2003,Influenza
-Zone 3,55-64,104,2003,Influenza
+Zone:3,55-64,104,2003,Influenza
 Kamphaeng Phet,55-64,28,2003,Influenza
 Nakhon Sawan,55-64,31,2003,Influenza
 Phichit,55-64,2,2003,Influenza
 Uthai Thani,55-64,43,2003,Influenza
 Central Region,55-64,576,2003,Influenza
 Bangkok,55-64,69,2003,Influenza
-Zone 4,55-64,58,2003,Influenza
+Zone:4,55-64,58,2003,Influenza
 Ang Thong,55-64,1,2003,Influenza
 Nonthaburi,55-64,20,2003,Influenza
 P.Nakhon S.Ayutthaya,55-64,8,2003,Influenza
 Pathum Thani,55-64,29,2003,Influenza
-Zone 5,55-64,39,2003,Influenza
+Zone:5,55-64,39,2003,Influenza
 Chai Nat,55-64,0,2003,Influenza
 Lop Buri,55-64,2,2003,Influenza
 Saraburi,55-64,3,2003,Influenza
 Sing Buri,55-64,34,2003,Influenza
-Zone 6,55-64,136,2003,Influenza
+Zone:6,55-64,136,2003,Influenza
 Kanchanaburi,55-64,26,2003,Influenza
 Nakhon Pathom,55-64,26,2003,Influenza
 Ratchaburi,55-64,55,2003,Influenza
 Suphan Buri,55-64,29,2003,Influenza
-Zone 7,55-64,89,2003,Influenza
+Zone:7,55-64,89,2003,Influenza
 Phetchaburi,55-64,32,2003,Influenza
 Prachuap Khiri Khan,55-64,15,2003,Influenza
 Samut Sakhon,55-64,5,2003,Influenza
 Samut Songkhram,55-64,37,2003,Influenza
-Zone 8,55-64,66,2003,Influenza
+Zone:8,55-64,66,2003,Influenza
 Chachoengsao,55-64,33,2003,Influenza
 Nakhon Nayok,55-64,7,2003,Influenza
 Prachin Buri,55-64,15,2003,Influenza
 Sa Kaeo,55-64,3,2003,Influenza
 Samut Prakan,55-64,8,2003,Influenza
-Zone 9,55-64,119,2003,Influenza
+Zone:9,55-64,119,2003,Influenza
 Chanthaburi,55-64,63,2003,Influenza
 Chon Buri,55-64,34,2003,Influenza
 Rayong,55-64,22,2003,Influenza
 Trat,55-64,0,2003,Influenza
 North-Eastern Region,55-64,727,2003,Influenza
-Zone 10,55-64,77,2003,Influenza
+Zone:10,55-64,77,2003,Influenza
 Loei,55-64,5,2003,Influenza
 Nong Bua Lam Phu,55-64,15,2003,Influenza
 Nong Khai,55-64,5,2003,Influenza
 Udon Thani,55-64,52,2003,Influenza
-Zone 11,55-64,50,2003,Influenza
+Zone:11,55-64,50,2003,Influenza
 Kalasin,55-64,17,2003,Influenza
 Mukdahan,55-64,2,2003,Influenza
 Nakhon Phanom,55-64,23,2003,Influenza
 Sakon Nakhon,55-64,8,2003,Influenza
-Zone 12,55-64,141,2003,Influenza
+Zone:12,55-64,141,2003,Influenza
 Khon Kaen,55-64,27,2003,Influenza
 Maha Sarakham,55-64,66,2003,Influenza
 Roi Et,55-64,48,2003,Influenza
-Zone 13,55-64,286,2003,Influenza
+Zone:13,55-64,286,2003,Influenza
 Buri Ram,55-64,123,2003,Influenza
 Chaiyaphum,55-64,65,2003,Influenza
 Nakhon Ratchasima,55-64,61,2003,Influenza
 Surin,55-64,37,2003,Influenza
-Zone 14,55-64,173,2003,Influenza
+Zone:14,55-64,173,2003,Influenza
 Amnat Charoen,55-64,6,2003,Influenza
 Si Sa Ket,55-64,93,2003,Influenza
 Ubon Ratchathani,55-64,51,2003,Influenza
 Yasothon,55-64,23,2003,Influenza
 South Region,55-64,845,2003,Influenza
-Zone 15,55-64,239,2003,Influenza
+Zone:15,55-64,239,2003,Influenza
 Chumphon,55-64,6,2003,Influenza
 Ranong,55-64,5,2003,Influenza
 Surat Thani,55-64,228,2003,Influenza
-Zone 16,55-64,283,2003,Influenza
+Zone:16,55-64,283,2003,Influenza
 Nakhon Si Thammarat,55-64,115,2003,Influenza
 Phatthalung,55-64,38,2003,Influenza
 Trang,55-64,130,2003,Influenza
-Zone 17,55-64,86,2003,Influenza
+Zone:17,55-64,86,2003,Influenza
 Krabi,55-64,66,2003,Influenza
 Phangnga,55-64,16,2003,Influenza
 Phuket,55-64,4,2003,Influenza
-Zone 18,55-64,124,2003,Influenza
+Zone:18,55-64,124,2003,Influenza
 Narathiwat,55-64,82,2003,Influenza
 Pattani,55-64,29,2003,Influenza
 Yala,55-64,13,2003,Influenza
-Zone 19,55-64,113,2003,Influenza
+Zone:19,55-64,113,2003,Influenza
 Satun,55-64,23,2003,Influenza
 Songkhla,55-64,90,2003,Influenza
 Total,65+,2409,2003,Influenza
 North Region,65+,339,2003,Influenza
-Zone 1,65+,173,2003,Influenza
+Zone:1,65+,173,2003,Influenza
 Chiang Mai,65+,65,2003,Influenza
 Chiang Rai,65+,25,2003,Influenza
 Lampang,65+,5,2003,Influenza
@@ -3248,98 +3248,98 @@ Mae Hong Son,65+,6,2003,Influenza
 Nan,65+,39,2003,Influenza
 Phayao,65+,21,2003,Influenza
 Phrae,65+,2,2003,Influenza
-Zone 2,65+,54,2003,Influenza
+Zone:2,65+,54,2003,Influenza
 Phetchabun,65+,21,2003,Influenza
 Phitsanulok,65+,14,2003,Influenza
 Sukhothai,65+,5,2003,Influenza
 Tak,65+,14,2003,Influenza
 Uttaradit,65+,0,2003,Influenza
-Zone 3,65+,112,2003,Influenza
+Zone:3,65+,112,2003,Influenza
 Kamphaeng Phet,65+,31,2003,Influenza
 Nakhon Sawan,65+,32,2003,Influenza
 Phichit,65+,4,2003,Influenza
 Uthai Thani,65+,45,2003,Influenza
 Central Region,65+,618,2003,Influenza
 Bangkok,65+,50,2003,Influenza
-Zone 4,65+,74,2003,Influenza
+Zone:4,65+,74,2003,Influenza
 Ang Thong,65+,1,2003,Influenza
 Nonthaburi,65+,31,2003,Influenza
 P.Nakhon S.Ayutthaya,65+,11,2003,Influenza
 Pathum Thani,65+,31,2003,Influenza
-Zone 5,65+,47,2003,Influenza
+Zone:5,65+,47,2003,Influenza
 Chai Nat,65+,7,2003,Influenza
 Lop Buri,65+,7,2003,Influenza
 Saraburi,65+,1,2003,Influenza
 Sing Buri,65+,32,2003,Influenza
-Zone 6,65+,174,2003,Influenza
+Zone:6,65+,174,2003,Influenza
 Kanchanaburi,65+,46,2003,Influenza
 Nakhon Pathom,65+,27,2003,Influenza
 Ratchaburi,65+,70,2003,Influenza
 Suphan Buri,65+,31,2003,Influenza
-Zone 7,65+,110,2003,Influenza
+Zone:7,65+,110,2003,Influenza
 Phetchaburi,65+,40,2003,Influenza
 Prachuap Khiri Khan,65+,25,2003,Influenza
 Samut Sakhon,65+,5,2003,Influenza
 Samut Songkhram,65+,40,2003,Influenza
-Zone 8,65+,57,2003,Influenza
+Zone:8,65+,57,2003,Influenza
 Chachoengsao,65+,34,2003,Influenza
 Nakhon Nayok,65+,1,2003,Influenza
 Prachin Buri,65+,10,2003,Influenza
 Sa Kaeo,65+,6,2003,Influenza
 Samut Prakan,65+,6,2003,Influenza
-Zone 9,65+,106,2003,Influenza
+Zone:9,65+,106,2003,Influenza
 Chanthaburi,65+,64,2003,Influenza
 Chon Buri,65+,28,2003,Influenza
 Rayong,65+,13,2003,Influenza
 Trat,65+,1,2003,Influenza
 North-Eastern Region,65+,575,2003,Influenza
-Zone 10,65+,54,2003,Influenza
+Zone:10,65+,54,2003,Influenza
 Loei,65+,5,2003,Influenza
 Nong Bua Lam Phu,65+,9,2003,Influenza
 Nong Khai,65+,4,2003,Influenza
 Udon Thani,65+,36,2003,Influenza
-Zone 11,65+,34,2003,Influenza
+Zone:11,65+,34,2003,Influenza
 Kalasin,65+,11,2003,Influenza
 Mukdahan,65+,1,2003,Influenza
 Nakhon Phanom,65+,20,2003,Influenza
 Sakon Nakhon,65+,2,2003,Influenza
-Zone 12,65+,111,2003,Influenza
+Zone:12,65+,111,2003,Influenza
 Khon Kaen,65+,33,2003,Influenza
 Maha Sarakham,65+,32,2003,Influenza
 Roi Et,65+,46,2003,Influenza
-Zone 13,65+,215,2003,Influenza
+Zone:13,65+,215,2003,Influenza
 Buri Ram,65+,97,2003,Influenza
 Chaiyaphum,65+,37,2003,Influenza
 Nakhon Ratchasima,65+,38,2003,Influenza
 Surin,65+,43,2003,Influenza
-Zone 14,65+,161,2003,Influenza
+Zone:14,65+,161,2003,Influenza
 Amnat Charoen,65+,10,2003,Influenza
 Si Sa Ket,65+,90,2003,Influenza
 Ubon Ratchathani,65+,39,2003,Influenza
 Yasothon,65+,22,2003,Influenza
 South Region,65+,877,2003,Influenza
-Zone 15,65+,276,2003,Influenza
+Zone:15,65+,276,2003,Influenza
 Chumphon,65+,14,2003,Influenza
 Ranong,65+,5,2003,Influenza
 Surat Thani,65+,257,2003,Influenza
-Zone 16,65+,274,2003,Influenza
+Zone:16,65+,274,2003,Influenza
 Nakhon Si Thammarat,65+,96,2003,Influenza
 Phatthalung,65+,39,2003,Influenza
 Trang,65+,139,2003,Influenza
-Zone 17,65+,93,2003,Influenza
+Zone:17,65+,93,2003,Influenza
 Krabi,65+,73,2003,Influenza
 Phangnga,65+,14,2003,Influenza
 Phuket,65+,6,2003,Influenza
-Zone 18,65+,138,2003,Influenza
+Zone:18,65+,138,2003,Influenza
 Narathiwat,65+,87,2003,Influenza
 Pattani,65+,36,2003,Influenza
 Yala,65+,15,2003,Influenza
-Zone 19,65+,96,2003,Influenza
+Zone:19,65+,96,2003,Influenza
 Satun,65+,25,2003,Influenza
 Songkhla,65+,71,2003,Influenza
 Total,Unknown,4,2003,Influenza
 North Region,Unknown,0,2003,Influenza
-Zone 1,Unknown,0,2003,Influenza
+Zone:1,Unknown,0,2003,Influenza
 Chiang Mai,Unknown,0,2003,Influenza
 Chiang Rai,Unknown,0,2003,Influenza
 Lampang,Unknown,0,2003,Influenza
@@ -3348,93 +3348,93 @@ Mae Hong Son,Unknown,0,2003,Influenza
 Nan,Unknown,0,2003,Influenza
 Phayao,Unknown,0,2003,Influenza
 Phrae,Unknown,0,2003,Influenza
-Zone 2,Unknown,0,2003,Influenza
+Zone:2,Unknown,0,2003,Influenza
 Phetchabun,Unknown,0,2003,Influenza
 Phitsanulok,Unknown,0,2003,Influenza
 Sukhothai,Unknown,0,2003,Influenza
 Tak,Unknown,0,2003,Influenza
 Uttaradit,Unknown,0,2003,Influenza
-Zone 3,Unknown,0,2003,Influenza
+Zone:3,Unknown,0,2003,Influenza
 Kamphaeng Phet,Unknown,0,2003,Influenza
 Nakhon Sawan,Unknown,0,2003,Influenza
 Phichit,Unknown,0,2003,Influenza
 Uthai Thani,Unknown,0,2003,Influenza
 Central Region,Unknown,4,2003,Influenza
 Bangkok,Unknown,4,2003,Influenza
-Zone 4,Unknown,0,2003,Influenza
+Zone:4,Unknown,0,2003,Influenza
 Ang Thong,Unknown,0,2003,Influenza
 Nonthaburi,Unknown,0,2003,Influenza
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Influenza
 Pathum Thani,Unknown,0,2003,Influenza
-Zone 5,Unknown,0,2003,Influenza
+Zone:5,Unknown,0,2003,Influenza
 Chai Nat,Unknown,0,2003,Influenza
 Lop Buri,Unknown,0,2003,Influenza
 Saraburi,Unknown,0,2003,Influenza
 Sing Buri,Unknown,0,2003,Influenza
-Zone 6,Unknown,0,2003,Influenza
+Zone:6,Unknown,0,2003,Influenza
 Kanchanaburi,Unknown,0,2003,Influenza
 Nakhon Pathom,Unknown,0,2003,Influenza
 Ratchaburi,Unknown,0,2003,Influenza
 Suphan Buri,Unknown,0,2003,Influenza
-Zone 7,Unknown,0,2003,Influenza
+Zone:7,Unknown,0,2003,Influenza
 Phetchaburi,Unknown,0,2003,Influenza
 Prachuap Khiri Khan,Unknown,0,2003,Influenza
 Samut Sakhon,Unknown,0,2003,Influenza
 Samut Songkhram,Unknown,0,2003,Influenza
-Zone 8,Unknown,0,2003,Influenza
+Zone:8,Unknown,0,2003,Influenza
 Chachoengsao,Unknown,0,2003,Influenza
 Nakhon Nayok,Unknown,0,2003,Influenza
 Prachin Buri,Unknown,0,2003,Influenza
 Sa Kaeo,Unknown,0,2003,Influenza
 Samut Prakan,Unknown,0,2003,Influenza
-Zone 9,Unknown,0,2003,Influenza
+Zone:9,Unknown,0,2003,Influenza
 Chanthaburi,Unknown,0,2003,Influenza
 Chon Buri,Unknown,0,2003,Influenza
 Rayong,Unknown,0,2003,Influenza
 Trat,Unknown,0,2003,Influenza
 North-Eastern Region,Unknown,0,2003,Influenza
-Zone 10,Unknown,0,2003,Influenza
+Zone:10,Unknown,0,2003,Influenza
 Loei,Unknown,0,2003,Influenza
 Nong Bua Lam Phu,Unknown,0,2003,Influenza
 Nong Khai,Unknown,0,2003,Influenza
 Udon Thani,Unknown,0,2003,Influenza
-Zone 11,Unknown,0,2003,Influenza
+Zone:11,Unknown,0,2003,Influenza
 Kalasin,Unknown,0,2003,Influenza
 Mukdahan,Unknown,0,2003,Influenza
 Nakhon Phanom,Unknown,0,2003,Influenza
 Sakon Nakhon,Unknown,0,2003,Influenza
-Zone 12,Unknown,0,2003,Influenza
+Zone:12,Unknown,0,2003,Influenza
 Khon Kaen,Unknown,0,2003,Influenza
 Maha Sarakham,Unknown,0,2003,Influenza
 Roi Et,Unknown,0,2003,Influenza
-Zone 13,Unknown,0,2003,Influenza
+Zone:13,Unknown,0,2003,Influenza
 Buri Ram,Unknown,0,2003,Influenza
 Chaiyaphum,Unknown,0,2003,Influenza
 Nakhon Ratchasima,Unknown,0,2003,Influenza
 Surin,Unknown,0,2003,Influenza
-Zone 14,Unknown,0,2003,Influenza
+Zone:14,Unknown,0,2003,Influenza
 Amnat Charoen,Unknown,0,2003,Influenza
 Si Sa Ket,Unknown,0,2003,Influenza
 Ubon Ratchathani,Unknown,0,2003,Influenza
 Yasothon,Unknown,0,2003,Influenza
 South Region,Unknown,0,2003,Influenza
-Zone 15,Unknown,0,2003,Influenza
+Zone:15,Unknown,0,2003,Influenza
 Chumphon,Unknown,0,2003,Influenza
 Ranong,Unknown,0,2003,Influenza
 Surat Thani,Unknown,0,2003,Influenza
-Zone 16,Unknown,0,2003,Influenza
+Zone:16,Unknown,0,2003,Influenza
 Nakhon Si Thammarat,Unknown,0,2003,Influenza
 Phatthalung,Unknown,0,2003,Influenza
 Trang,Unknown,0,2003,Influenza
-Zone 17,Unknown,0,2003,Influenza
+Zone:17,Unknown,0,2003,Influenza
 Krabi,Unknown,0,2003,Influenza
 Phangnga,Unknown,0,2003,Influenza
 Phuket,Unknown,0,2003,Influenza
-Zone 18,Unknown,0,2003,Influenza
+Zone:18,Unknown,0,2003,Influenza
 Narathiwat,Unknown,0,2003,Influenza
 Pattani,Unknown,0,2003,Influenza
 Yala,Unknown,0,2003,Influenza
-Zone 19,Unknown,0,2003,Influenza
+Zone:19,Unknown,0,2003,Influenza
 Satun,Unknown,0,2003,Influenza
 Songkhla,Unknown,0,2003,Influenza
 Total,Total,43866,2013,Influenza
@@ -34399,7 +34399,7 @@ Phichit,Unknown,1,2009,Influenza
 Uthai Thani,Unknown,1,2009,Influenza
 Total,Total,21351,2004,Influenza
 North Region,Total,3378,2004,Influenza
-Zone 1,Total,2058,2004,Influenza
+Zone:1,Total,2058,2004,Influenza
 Chiang Mai,Total,524,2004,Influenza
 Chiang Rai,Total,554,2004,Influenza
 Lampang,Total,79,2004,Influenza
@@ -34408,98 +34408,98 @@ Mae Hong Son,Total,118,2004,Influenza
 Nan,Total,428,2004,Influenza
 Phayao,Total,179,2004,Influenza
 Phrae,Total,31,2004,Influenza
-Zone 2,Total,763,2004,Influenza
+Zone:2,Total,763,2004,Influenza
 Phetchabun,Total,297,2004,Influenza
 Phitsanulok,Total,86,2004,Influenza
 Sukhothai,Total,89,2004,Influenza
 Tak,Total,270,2004,Influenza
 Uttaradit,Total,21,2004,Influenza
-Zone 3,Total,557,2004,Influenza
+Zone:3,Total,557,2004,Influenza
 Kamphaeng Phet,Total,170,2004,Influenza
 Nakhon Sawan,Total,249,2004,Influenza
 Phichit,Total,28,2004,Influenza
 Uthai Thani,Total,110,2004,Influenza
 Central Region,Total,6986,2004,Influenza
 Bangkok,Total,942,2004,Influenza
-Zone 4,Total,604,2004,Influenza
+Zone:4,Total,604,2004,Influenza
 Ang Thong,Total,63,2004,Influenza
 Nonthaburi,Total,360,2004,Influenza
 P.Nakhon S.Ayutthaya,Total,95,2004,Influenza
 Pathum Thani,Total,86,2004,Influenza
-Zone 5,Total,396,2004,Influenza
+Zone:5,Total,396,2004,Influenza
 Chai Nat,Total,18,2004,Influenza
 Lop Buri,Total,196,2004,Influenza
 Saraburi,Total,49,2004,Influenza
 Sing Buri,Total,133,2004,Influenza
-Zone 6,Total,1715,2004,Influenza
+Zone:6,Total,1715,2004,Influenza
 Kanchanaburi,Total,422,2004,Influenza
 Nakhon Pathom,Total,407,2004,Influenza
 Ratchaburi,Total,741,2004,Influenza
 Suphan Buri,Total,145,2004,Influenza
-Zone 7,Total,951,2004,Influenza
+Zone:7,Total,951,2004,Influenza
 Phetchaburi,Total,368,2004,Influenza
 Prachuap Khiri Khan,Total,212,2004,Influenza
 Samut Sakhon,Total,64,2004,Influenza
 Samut Songkhram,Total,307,2004,Influenza
-Zone 8,Total,809,2004,Influenza
+Zone:8,Total,809,2004,Influenza
 Chachoengsao,Total,296,2004,Influenza
 Nakhon Nayok,Total,51,2004,Influenza
 Prachin Buri,Total,339,2004,Influenza
 Sa Kaeo,Total,50,2004,Influenza
 Samut Prakan,Total,73,2004,Influenza
-Zone 9,Total,1569,2004,Influenza
+Zone:9,Total,1569,2004,Influenza
 Chanthaburi,Total,639,2004,Influenza
 Chon Buri,Total,428,2004,Influenza
 Rayong,Total,402,2004,Influenza
 Trat,Total,100,2004,Influenza
 North-Eastern Region,Total,4627,2004,Influenza
-Zone 10,Total,622,2004,Influenza
+Zone:10,Total,622,2004,Influenza
 Loei,Total,110,2004,Influenza
 Nong Bua Lam Phu,Total,52,2004,Influenza
 Nong Khai,Total,27,2004,Influenza
 Udon Thani,Total,433,2004,Influenza
-Zone 11,Total,287,2004,Influenza
+Zone:11,Total,287,2004,Influenza
 Kalasin,Total,76,2004,Influenza
 Mukdahan,Total,25,2004,Influenza
 Nakhon Phanom,Total,106,2004,Influenza
 Sakon Nakhon,Total,80,2004,Influenza
-Zone 12,Total,545,2004,Influenza
+Zone:12,Total,545,2004,Influenza
 Khon Kaen,Total,176,2004,Influenza
 Maha Sarakham,Total,237,2004,Influenza
 Roi Et,Total,132,2004,Influenza
-Zone 13,Total,2291,2004,Influenza
+Zone:13,Total,2291,2004,Influenza
 Buri Ram,Total,862,2004,Influenza
 Chaiyaphum,Total,146,2004,Influenza
 Nakhon Ratchasima,Total,270,2004,Influenza
 Surin,Total,1013,2004,Influenza
-Zone 14,Total,882,2004,Influenza
+Zone:14,Total,882,2004,Influenza
 Amnat Charoen,Total,33,2004,Influenza
 Si Sa Ket,Total,485,2004,Influenza
 Ubon Ratchathani,Total,220,2004,Influenza
 Yasothon,Total,144,2004,Influenza
 South Region,Total,6360,2004,Influenza
-Zone 15,Total,1536,2004,Influenza
+Zone:15,Total,1536,2004,Influenza
 Chumphon,Total,99,2004,Influenza
 Ranong,Total,39,2004,Influenza
 Surat Thani,Total,1398,2004,Influenza
-Zone 16,Total,2132,2004,Influenza
+Zone:16,Total,2132,2004,Influenza
 Nakhon Si Thammarat,Total,1018,2004,Influenza
 Phatthalung,Total,196,2004,Influenza
 Trang,Total,918,2004,Influenza
-Zone 17,Total,733,2004,Influenza
+Zone:17,Total,733,2004,Influenza
 Krabi,Total,456,2004,Influenza
 Phangnga,Total,191,2004,Influenza
 Phuket,Total,86,2004,Influenza
-Zone 18,Total,1023,2004,Influenza
+Zone:18,Total,1023,2004,Influenza
 Narathiwat,Total,569,2004,Influenza
 Pattani,Total,219,2004,Influenza
 Yala,Total,235,2004,Influenza
-Zone 19,Total,936,2004,Influenza
+Zone:19,Total,936,2004,Influenza
 Satun,Total,241,2004,Influenza
 Songkhla,Total,695,2004,Influenza
 Total,0,24,2004,Influenza
 North Region,0,6,2004,Influenza
-Zone 1,0,6,2004,Influenza
+Zone:1,0,6,2004,Influenza
 Chiang Mai,0,0,2004,Influenza
 Chiang Rai,0,3,2004,Influenza
 Lampang,0,0,2004,Influenza
@@ -34508,98 +34508,98 @@ Mae Hong Son,0,0,2004,Influenza
 Nan,0,3,2004,Influenza
 Phayao,0,0,2004,Influenza
 Phrae,0,0,2004,Influenza
-Zone 2,0,0,2004,Influenza
+Zone:2,0,0,2004,Influenza
 Phetchabun,0,0,2004,Influenza
 Phitsanulok,0,0,2004,Influenza
 Sukhothai,0,0,2004,Influenza
 Tak,0,0,2004,Influenza
 Uttaradit,0,0,2004,Influenza
-Zone 3,0,0,2004,Influenza
+Zone:3,0,0,2004,Influenza
 Kamphaeng Phet,0,0,2004,Influenza
 Nakhon Sawan,0,0,2004,Influenza
 Phichit,0,0,2004,Influenza
 Uthai Thani,0,0,2004,Influenza
 Central Region,0,2,2004,Influenza
 Bangkok,0,1,2004,Influenza
-Zone 4,0,1,2004,Influenza
+Zone:4,0,1,2004,Influenza
 Ang Thong,0,0,2004,Influenza
 Nonthaburi,0,1,2004,Influenza
 P.Nakhon S.Ayutthaya,0,0,2004,Influenza
 Pathum Thani,0,0,2004,Influenza
-Zone 5,0,0,2004,Influenza
+Zone:5,0,0,2004,Influenza
 Chai Nat,0,0,2004,Influenza
 Lop Buri,0,0,2004,Influenza
 Saraburi,0,0,2004,Influenza
 Sing Buri,0,0,2004,Influenza
-Zone 6,0,0,2004,Influenza
+Zone:6,0,0,2004,Influenza
 Kanchanaburi,0,0,2004,Influenza
 Nakhon Pathom,0,0,2004,Influenza
 Ratchaburi,0,0,2004,Influenza
 Suphan Buri,0,0,2004,Influenza
-Zone 7,0,0,2004,Influenza
+Zone:7,0,0,2004,Influenza
 Phetchaburi,0,0,2004,Influenza
 Prachuap Khiri Khan,0,0,2004,Influenza
 Samut Sakhon,0,0,2004,Influenza
 Samut Songkhram,0,0,2004,Influenza
-Zone 8,0,0,2004,Influenza
+Zone:8,0,0,2004,Influenza
 Chachoengsao,0,0,2004,Influenza
 Nakhon Nayok,0,0,2004,Influenza
 Prachin Buri,0,0,2004,Influenza
 Sa Kaeo,0,0,2004,Influenza
 Samut Prakan,0,0,2004,Influenza
-Zone 9,0,0,2004,Influenza
+Zone:9,0,0,2004,Influenza
 Chanthaburi,0,0,2004,Influenza
 Chon Buri,0,0,2004,Influenza
 Rayong,0,0,2004,Influenza
 Trat,0,0,2004,Influenza
 North-Eastern Region,0,10,2004,Influenza
-Zone 10,0,0,2004,Influenza
+Zone:10,0,0,2004,Influenza
 Loei,0,0,2004,Influenza
 Nong Bua Lam Phu,0,0,2004,Influenza
 Nong Khai,0,0,2004,Influenza
 Udon Thani,0,0,2004,Influenza
-Zone 11,0,0,2004,Influenza
+Zone:11,0,0,2004,Influenza
 Kalasin,0,0,2004,Influenza
 Mukdahan,0,0,2004,Influenza
 Nakhon Phanom,0,0,2004,Influenza
 Sakon Nakhon,0,0,2004,Influenza
-Zone 12,0,0,2004,Influenza
+Zone:12,0,0,2004,Influenza
 Khon Kaen,0,0,2004,Influenza
 Maha Sarakham,0,0,2004,Influenza
 Roi Et,0,0,2004,Influenza
-Zone 13,0,10,2004,Influenza
+Zone:13,0,10,2004,Influenza
 Buri Ram,0,0,2004,Influenza
 Chaiyaphum,0,0,2004,Influenza
 Nakhon Ratchasima,0,0,2004,Influenza
 Surin,0,10,2004,Influenza
-Zone 14,0,0,2004,Influenza
+Zone:14,0,0,2004,Influenza
 Amnat Charoen,0,0,2004,Influenza
 Si Sa Ket,0,0,2004,Influenza
 Ubon Ratchathani,0,0,2004,Influenza
 Yasothon,0,0,2004,Influenza
 South Region,0,6,2004,Influenza
-Zone 15,0,0,2004,Influenza
+Zone:15,0,0,2004,Influenza
 Chumphon,0,0,2004,Influenza
 Ranong,0,0,2004,Influenza
 Surat Thani,0,0,2004,Influenza
-Zone 16,0,1,2004,Influenza
+Zone:16,0,1,2004,Influenza
 Nakhon Si Thammarat,0,1,2004,Influenza
 Phatthalung,0,0,2004,Influenza
 Trang,0,0,2004,Influenza
-Zone 17,0,0,2004,Influenza
+Zone:17,0,0,2004,Influenza
 Krabi,0,0,2004,Influenza
 Phangnga,0,0,2004,Influenza
 Phuket,0,0,2004,Influenza
-Zone 18,0,1,2004,Influenza
+Zone:18,0,1,2004,Influenza
 Narathiwat,0,0,2004,Influenza
 Pattani,0,1,2004,Influenza
 Yala,0,0,2004,Influenza
-Zone 19,0,4,2004,Influenza
+Zone:19,0,4,2004,Influenza
 Satun,0,4,2004,Influenza
 Songkhla,0,0,2004,Influenza
 Total,<1,395,2004,Influenza
 North Region,<1,95,2004,Influenza
-Zone 1,<1,72,2004,Influenza
+Zone:1,<1,72,2004,Influenza
 Chiang Mai,<1,6,2004,Influenza
 Chiang Rai,<1,37,2004,Influenza
 Lampang,<1,0,2004,Influenza
@@ -34608,98 +34608,98 @@ Mae Hong Son,<1,3,2004,Influenza
 Nan,<1,21,2004,Influenza
 Phayao,<1,0,2004,Influenza
 Phrae,<1,0,2004,Influenza
-Zone 2,<1,14,2004,Influenza
+Zone:2,<1,14,2004,Influenza
 Phetchabun,<1,9,2004,Influenza
 Phitsanulok,<1,4,2004,Influenza
 Sukhothai,<1,1,2004,Influenza
 Tak,<1,0,2004,Influenza
 Uttaradit,<1,0,2004,Influenza
-Zone 3,<1,9,2004,Influenza
+Zone:3,<1,9,2004,Influenza
 Kamphaeng Phet,<1,1,2004,Influenza
 Nakhon Sawan,<1,8,2004,Influenza
 Phichit,<1,0,2004,Influenza
 Uthai Thani,<1,0,2004,Influenza
 Central Region,<1,88,2004,Influenza
 Bangkok,<1,10,2004,Influenza
-Zone 4,<1,6,2004,Influenza
+Zone:4,<1,6,2004,Influenza
 Ang Thong,<1,0,2004,Influenza
 Nonthaburi,<1,6,2004,Influenza
 P.Nakhon S.Ayutthaya,<1,0,2004,Influenza
 Pathum Thani,<1,0,2004,Influenza
-Zone 5,<1,14,2004,Influenza
+Zone:5,<1,14,2004,Influenza
 Chai Nat,<1,0,2004,Influenza
 Lop Buri,<1,10,2004,Influenza
 Saraburi,<1,2,2004,Influenza
 Sing Buri,<1,2,2004,Influenza
-Zone 6,<1,12,2004,Influenza
+Zone:6,<1,12,2004,Influenza
 Kanchanaburi,<1,2,2004,Influenza
 Nakhon Pathom,<1,0,2004,Influenza
 Ratchaburi,<1,8,2004,Influenza
 Suphan Buri,<1,2,2004,Influenza
-Zone 7,<1,15,2004,Influenza
+Zone:7,<1,15,2004,Influenza
 Phetchaburi,<1,10,2004,Influenza
 Prachuap Khiri Khan,<1,4,2004,Influenza
 Samut Sakhon,<1,1,2004,Influenza
 Samut Songkhram,<1,0,2004,Influenza
-Zone 8,<1,19,2004,Influenza
+Zone:8,<1,19,2004,Influenza
 Chachoengsao,<1,6,2004,Influenza
 Nakhon Nayok,<1,0,2004,Influenza
 Prachin Buri,<1,11,2004,Influenza
 Sa Kaeo,<1,2,2004,Influenza
 Samut Prakan,<1,0,2004,Influenza
-Zone 9,<1,12,2004,Influenza
+Zone:9,<1,12,2004,Influenza
 Chanthaburi,<1,0,2004,Influenza
 Chon Buri,<1,6,2004,Influenza
 Rayong,<1,6,2004,Influenza
 Trat,<1,0,2004,Influenza
 North-Eastern Region,<1,115,2004,Influenza
-Zone 10,<1,10,2004,Influenza
+Zone:10,<1,10,2004,Influenza
 Loei,<1,3,2004,Influenza
 Nong Bua Lam Phu,<1,1,2004,Influenza
 Nong Khai,<1,0,2004,Influenza
 Udon Thani,<1,6,2004,Influenza
-Zone 11,<1,8,2004,Influenza
+Zone:11,<1,8,2004,Influenza
 Kalasin,<1,1,2004,Influenza
 Mukdahan,<1,2,2004,Influenza
 Nakhon Phanom,<1,0,2004,Influenza
 Sakon Nakhon,<1,5,2004,Influenza
-Zone 12,<1,5,2004,Influenza
+Zone:12,<1,5,2004,Influenza
 Khon Kaen,<1,0,2004,Influenza
 Maha Sarakham,<1,4,2004,Influenza
 Roi Et,<1,1,2004,Influenza
-Zone 13,<1,74,2004,Influenza
+Zone:13,<1,74,2004,Influenza
 Buri Ram,<1,20,2004,Influenza
 Chaiyaphum,<1,2,2004,Influenza
 Nakhon Ratchasima,<1,4,2004,Influenza
 Surin,<1,48,2004,Influenza
-Zone 14,<1,18,2004,Influenza
+Zone:14,<1,18,2004,Influenza
 Amnat Charoen,<1,1,2004,Influenza
 Si Sa Ket,<1,7,2004,Influenza
 Ubon Ratchathani,<1,10,2004,Influenza
 Yasothon,<1,0,2004,Influenza
 South Region,<1,97,2004,Influenza
-Zone 15,<1,16,2004,Influenza
+Zone:15,<1,16,2004,Influenza
 Chumphon,<1,1,2004,Influenza
 Ranong,<1,0,2004,Influenza
 Surat Thani,<1,15,2004,Influenza
-Zone 16,<1,20,2004,Influenza
+Zone:16,<1,20,2004,Influenza
 Nakhon Si Thammarat,<1,15,2004,Influenza
 Phatthalung,<1,1,2004,Influenza
 Trang,<1,4,2004,Influenza
-Zone 17,<1,11,2004,Influenza
+Zone:17,<1,11,2004,Influenza
 Krabi,<1,4,2004,Influenza
 Phangnga,<1,5,2004,Influenza
 Phuket,<1,2,2004,Influenza
-Zone 18,<1,15,2004,Influenza
+Zone:18,<1,15,2004,Influenza
 Narathiwat,<1,11,2004,Influenza
 Pattani,<1,1,2004,Influenza
 Yala,<1,3,2004,Influenza
-Zone 19,<1,35,2004,Influenza
+Zone:19,<1,35,2004,Influenza
 Satun,<1,29,2004,Influenza
 Songkhla,<1,6,2004,Influenza
 Total,1-1,521,2004,Influenza
 North Region,1-1,89,2004,Influenza
-Zone 1,1-1,65,2004,Influenza
+Zone:1,1-1,65,2004,Influenza
 Chiang Mai,1-1,12,2004,Influenza
 Chiang Rai,1-1,25,2004,Influenza
 Lampang,1-1,0,2004,Influenza
@@ -34708,98 +34708,98 @@ Mae Hong Son,1-1,3,2004,Influenza
 Nan,1-1,15,2004,Influenza
 Phayao,1-1,1,2004,Influenza
 Phrae,1-1,1,2004,Influenza
-Zone 2,1-1,12,2004,Influenza
+Zone:2,1-1,12,2004,Influenza
 Phetchabun,1-1,8,2004,Influenza
 Phitsanulok,1-1,0,2004,Influenza
 Sukhothai,1-1,0,2004,Influenza
 Tak,1-1,4,2004,Influenza
 Uttaradit,1-1,0,2004,Influenza
-Zone 3,1-1,12,2004,Influenza
+Zone:3,1-1,12,2004,Influenza
 Kamphaeng Phet,1-1,5,2004,Influenza
 Nakhon Sawan,1-1,7,2004,Influenza
 Phichit,1-1,0,2004,Influenza
 Uthai Thani,1-1,0,2004,Influenza
 Central Region,1-1,126,2004,Influenza
 Bangkok,1-1,8,2004,Influenza
-Zone 4,1-1,9,2004,Influenza
+Zone:4,1-1,9,2004,Influenza
 Ang Thong,1-1,1,2004,Influenza
 Nonthaburi,1-1,6,2004,Influenza
 P.Nakhon S.Ayutthaya,1-1,1,2004,Influenza
 Pathum Thani,1-1,1,2004,Influenza
-Zone 5,1-1,36,2004,Influenza
+Zone:5,1-1,36,2004,Influenza
 Chai Nat,1-1,0,2004,Influenza
 Lop Buri,1-1,30,2004,Influenza
 Saraburi,1-1,0,2004,Influenza
 Sing Buri,1-1,6,2004,Influenza
-Zone 6,1-1,27,2004,Influenza
+Zone:6,1-1,27,2004,Influenza
 Kanchanaburi,1-1,19,2004,Influenza
 Nakhon Pathom,1-1,0,2004,Influenza
 Ratchaburi,1-1,7,2004,Influenza
 Suphan Buri,1-1,1,2004,Influenza
-Zone 7,1-1,9,2004,Influenza
+Zone:7,1-1,9,2004,Influenza
 Phetchaburi,1-1,5,2004,Influenza
 Prachuap Khiri Khan,1-1,1,2004,Influenza
 Samut Sakhon,1-1,1,2004,Influenza
 Samut Songkhram,1-1,2,2004,Influenza
-Zone 8,1-1,25,2004,Influenza
+Zone:8,1-1,25,2004,Influenza
 Chachoengsao,1-1,7,2004,Influenza
 Nakhon Nayok,1-1,0,2004,Influenza
 Prachin Buri,1-1,14,2004,Influenza
 Sa Kaeo,1-1,1,2004,Influenza
 Samut Prakan,1-1,3,2004,Influenza
-Zone 9,1-1,12,2004,Influenza
+Zone:9,1-1,12,2004,Influenza
 Chanthaburi,1-1,5,2004,Influenza
 Chon Buri,1-1,5,2004,Influenza
 Rayong,1-1,2,2004,Influenza
 Trat,1-1,0,2004,Influenza
 North-Eastern Region,1-1,164,2004,Influenza
-Zone 10,1-1,16,2004,Influenza
+Zone:10,1-1,16,2004,Influenza
 Loei,1-1,4,2004,Influenza
 Nong Bua Lam Phu,1-1,2,2004,Influenza
 Nong Khai,1-1,0,2004,Influenza
 Udon Thani,1-1,10,2004,Influenza
-Zone 11,1-1,5,2004,Influenza
+Zone:11,1-1,5,2004,Influenza
 Kalasin,1-1,1,2004,Influenza
 Mukdahan,1-1,2,2004,Influenza
 Nakhon Phanom,1-1,0,2004,Influenza
 Sakon Nakhon,1-1,2,2004,Influenza
-Zone 12,1-1,4,2004,Influenza
+Zone:12,1-1,4,2004,Influenza
 Khon Kaen,1-1,1,2004,Influenza
 Maha Sarakham,1-1,2,2004,Influenza
 Roi Et,1-1,1,2004,Influenza
-Zone 13,1-1,111,2004,Influenza
+Zone:13,1-1,111,2004,Influenza
 Buri Ram,1-1,24,2004,Influenza
 Chaiyaphum,1-1,6,2004,Influenza
 Nakhon Ratchasima,1-1,4,2004,Influenza
 Surin,1-1,77,2004,Influenza
-Zone 14,1-1,28,2004,Influenza
+Zone:14,1-1,28,2004,Influenza
 Amnat Charoen,1-1,0,2004,Influenza
 Si Sa Ket,1-1,16,2004,Influenza
 Ubon Ratchathani,1-1,11,2004,Influenza
 Yasothon,1-1,1,2004,Influenza
 South Region,1-1,142,2004,Influenza
-Zone 15,1-1,30,2004,Influenza
+Zone:15,1-1,30,2004,Influenza
 Chumphon,1-1,1,2004,Influenza
 Ranong,1-1,1,2004,Influenza
 Surat Thani,1-1,28,2004,Influenza
-Zone 16,1-1,37,2004,Influenza
+Zone:16,1-1,37,2004,Influenza
 Nakhon Si Thammarat,1-1,25,2004,Influenza
 Phatthalung,1-1,1,2004,Influenza
 Trang,1-1,11,2004,Influenza
-Zone 17,1-1,7,2004,Influenza
+Zone:17,1-1,7,2004,Influenza
 Krabi,1-1,4,2004,Influenza
 Phangnga,1-1,3,2004,Influenza
 Phuket,1-1,0,2004,Influenza
-Zone 18,1-1,17,2004,Influenza
+Zone:18,1-1,17,2004,Influenza
 Narathiwat,1-1,11,2004,Influenza
 Pattani,1-1,5,2004,Influenza
 Yala,1-1,1,2004,Influenza
-Zone 19,1-1,51,2004,Influenza
+Zone:19,1-1,51,2004,Influenza
 Satun,1-1,30,2004,Influenza
 Songkhla,1-1,21,2004,Influenza
 Total,2-2,463,2004,Influenza
 North Region,2-2,93,2004,Influenza
-Zone 1,2-2,55,2004,Influenza
+Zone:1,2-2,55,2004,Influenza
 Chiang Mai,2-2,8,2004,Influenza
 Chiang Rai,2-2,20,2004,Influenza
 Lampang,2-2,1,2004,Influenza
@@ -34808,98 +34808,98 @@ Mae Hong Son,2-2,0,2004,Influenza
 Nan,2-2,10,2004,Influenza
 Phayao,2-2,3,2004,Influenza
 Phrae,2-2,1,2004,Influenza
-Zone 2,2-2,14,2004,Influenza
+Zone:2,2-2,14,2004,Influenza
 Phetchabun,2-2,1,2004,Influenza
 Phitsanulok,2-2,4,2004,Influenza
 Sukhothai,2-2,4,2004,Influenza
 Tak,2-2,5,2004,Influenza
 Uttaradit,2-2,0,2004,Influenza
-Zone 3,2-2,24,2004,Influenza
+Zone:3,2-2,24,2004,Influenza
 Kamphaeng Phet,2-2,7,2004,Influenza
 Nakhon Sawan,2-2,15,2004,Influenza
 Phichit,2-2,0,2004,Influenza
 Uthai Thani,2-2,2,2004,Influenza
 Central Region,2-2,115,2004,Influenza
 Bangkok,2-2,12,2004,Influenza
-Zone 4,2-2,4,2004,Influenza
+Zone:4,2-2,4,2004,Influenza
 Ang Thong,2-2,1,2004,Influenza
 Nonthaburi,2-2,3,2004,Influenza
 P.Nakhon S.Ayutthaya,2-2,0,2004,Influenza
 Pathum Thani,2-2,0,2004,Influenza
-Zone 5,2-2,20,2004,Influenza
+Zone:5,2-2,20,2004,Influenza
 Chai Nat,2-2,0,2004,Influenza
 Lop Buri,2-2,18,2004,Influenza
 Saraburi,2-2,0,2004,Influenza
 Sing Buri,2-2,2,2004,Influenza
-Zone 6,2-2,37,2004,Influenza
+Zone:6,2-2,37,2004,Influenza
 Kanchanaburi,2-2,16,2004,Influenza
 Nakhon Pathom,2-2,1,2004,Influenza
 Ratchaburi,2-2,17,2004,Influenza
 Suphan Buri,2-2,3,2004,Influenza
-Zone 7,2-2,10,2004,Influenza
+Zone:7,2-2,10,2004,Influenza
 Phetchaburi,2-2,7,2004,Influenza
 Prachuap Khiri Khan,2-2,0,2004,Influenza
 Samut Sakhon,2-2,2,2004,Influenza
 Samut Songkhram,2-2,1,2004,Influenza
-Zone 8,2-2,16,2004,Influenza
+Zone:8,2-2,16,2004,Influenza
 Chachoengsao,2-2,2,2004,Influenza
 Nakhon Nayok,2-2,0,2004,Influenza
 Prachin Buri,2-2,11,2004,Influenza
 Sa Kaeo,2-2,1,2004,Influenza
 Samut Prakan,2-2,2,2004,Influenza
-Zone 9,2-2,16,2004,Influenza
+Zone:9,2-2,16,2004,Influenza
 Chanthaburi,2-2,5,2004,Influenza
 Chon Buri,2-2,3,2004,Influenza
 Rayong,2-2,8,2004,Influenza
 Trat,2-2,0,2004,Influenza
 North-Eastern Region,2-2,155,2004,Influenza
-Zone 10,2-2,19,2004,Influenza
+Zone:10,2-2,19,2004,Influenza
 Loei,2-2,2,2004,Influenza
 Nong Bua Lam Phu,2-2,0,2004,Influenza
 Nong Khai,2-2,1,2004,Influenza
 Udon Thani,2-2,16,2004,Influenza
-Zone 11,2-2,9,2004,Influenza
+Zone:11,2-2,9,2004,Influenza
 Kalasin,2-2,2,2004,Influenza
 Mukdahan,2-2,2,2004,Influenza
 Nakhon Phanom,2-2,0,2004,Influenza
 Sakon Nakhon,2-2,5,2004,Influenza
-Zone 12,2-2,14,2004,Influenza
+Zone:12,2-2,14,2004,Influenza
 Khon Kaen,2-2,5,2004,Influenza
 Maha Sarakham,2-2,5,2004,Influenza
 Roi Et,2-2,4,2004,Influenza
-Zone 13,2-2,87,2004,Influenza
+Zone:13,2-2,87,2004,Influenza
 Buri Ram,2-2,17,2004,Influenza
 Chaiyaphum,2-2,4,2004,Influenza
 Nakhon Ratchasima,2-2,4,2004,Influenza
 Surin,2-2,62,2004,Influenza
-Zone 14,2-2,26,2004,Influenza
+Zone:14,2-2,26,2004,Influenza
 Amnat Charoen,2-2,0,2004,Influenza
 Si Sa Ket,2-2,13,2004,Influenza
 Ubon Ratchathani,2-2,9,2004,Influenza
 Yasothon,2-2,4,2004,Influenza
 South Region,2-2,100,2004,Influenza
-Zone 15,2-2,20,2004,Influenza
+Zone:15,2-2,20,2004,Influenza
 Chumphon,2-2,1,2004,Influenza
 Ranong,2-2,2,2004,Influenza
 Surat Thani,2-2,17,2004,Influenza
-Zone 16,2-2,21,2004,Influenza
+Zone:16,2-2,21,2004,Influenza
 Nakhon Si Thammarat,2-2,11,2004,Influenza
 Phatthalung,2-2,0,2004,Influenza
 Trang,2-2,10,2004,Influenza
-Zone 17,2-2,6,2004,Influenza
+Zone:17,2-2,6,2004,Influenza
 Krabi,2-2,2,2004,Influenza
 Phangnga,2-2,4,2004,Influenza
 Phuket,2-2,0,2004,Influenza
-Zone 18,2-2,12,2004,Influenza
+Zone:18,2-2,12,2004,Influenza
 Narathiwat,2-2,7,2004,Influenza
 Pattani,2-2,4,2004,Influenza
 Yala,2-2,1,2004,Influenza
-Zone 19,2-2,41,2004,Influenza
+Zone:19,2-2,41,2004,Influenza
 Satun,2-2,19,2004,Influenza
 Songkhla,2-2,22,2004,Influenza
 Total,3-3,440,2004,Influenza
 North Region,3-3,88,2004,Influenza
-Zone 1,3-3,50,2004,Influenza
+Zone:1,3-3,50,2004,Influenza
 Chiang Mai,3-3,13,2004,Influenza
 Chiang Rai,3-3,20,2004,Influenza
 Lampang,3-3,1,2004,Influenza
@@ -34908,98 +34908,98 @@ Mae Hong Son,3-3,5,2004,Influenza
 Nan,3-3,8,2004,Influenza
 Phayao,3-3,0,2004,Influenza
 Phrae,3-3,0,2004,Influenza
-Zone 2,3-3,18,2004,Influenza
+Zone:2,3-3,18,2004,Influenza
 Phetchabun,3-3,6,2004,Influenza
 Phitsanulok,3-3,2,2004,Influenza
 Sukhothai,3-3,4,2004,Influenza
 Tak,3-3,5,2004,Influenza
 Uttaradit,3-3,1,2004,Influenza
-Zone 3,3-3,20,2004,Influenza
+Zone:3,3-3,20,2004,Influenza
 Kamphaeng Phet,3-3,9,2004,Influenza
 Nakhon Sawan,3-3,10,2004,Influenza
 Phichit,3-3,0,2004,Influenza
 Uthai Thani,3-3,1,2004,Influenza
 Central Region,3-3,129,2004,Influenza
 Bangkok,3-3,13,2004,Influenza
-Zone 4,3-3,18,2004,Influenza
+Zone:4,3-3,18,2004,Influenza
 Ang Thong,3-3,3,2004,Influenza
 Nonthaburi,3-3,11,2004,Influenza
 P.Nakhon S.Ayutthaya,3-3,2,2004,Influenza
 Pathum Thani,3-3,2,2004,Influenza
-Zone 5,3-3,18,2004,Influenza
+Zone:5,3-3,18,2004,Influenza
 Chai Nat,3-3,0,2004,Influenza
 Lop Buri,3-3,17,2004,Influenza
 Saraburi,3-3,0,2004,Influenza
 Sing Buri,3-3,1,2004,Influenza
-Zone 6,3-3,23,2004,Influenza
+Zone:6,3-3,23,2004,Influenza
 Kanchanaburi,3-3,8,2004,Influenza
 Nakhon Pathom,3-3,1,2004,Influenza
 Ratchaburi,3-3,12,2004,Influenza
 Suphan Buri,3-3,2,2004,Influenza
-Zone 7,3-3,10,2004,Influenza
+Zone:7,3-3,10,2004,Influenza
 Phetchaburi,3-3,5,2004,Influenza
 Prachuap Khiri Khan,3-3,1,2004,Influenza
 Samut Sakhon,3-3,1,2004,Influenza
 Samut Songkhram,3-3,3,2004,Influenza
-Zone 8,3-3,26,2004,Influenza
+Zone:8,3-3,26,2004,Influenza
 Chachoengsao,3-3,6,2004,Influenza
 Nakhon Nayok,3-3,0,2004,Influenza
 Prachin Buri,3-3,17,2004,Influenza
 Sa Kaeo,3-3,2,2004,Influenza
 Samut Prakan,3-3,1,2004,Influenza
-Zone 9,3-3,21,2004,Influenza
+Zone:9,3-3,21,2004,Influenza
 Chanthaburi,3-3,13,2004,Influenza
 Chon Buri,3-3,4,2004,Influenza
 Rayong,3-3,4,2004,Influenza
 Trat,3-3,0,2004,Influenza
 North-Eastern Region,3-3,134,2004,Influenza
-Zone 10,3-3,14,2004,Influenza
+Zone:10,3-3,14,2004,Influenza
 Loei,3-3,5,2004,Influenza
 Nong Bua Lam Phu,3-3,2,2004,Influenza
 Nong Khai,3-3,0,2004,Influenza
 Udon Thani,3-3,7,2004,Influenza
-Zone 11,3-3,12,2004,Influenza
+Zone:11,3-3,12,2004,Influenza
 Kalasin,3-3,6,2004,Influenza
 Mukdahan,3-3,1,2004,Influenza
 Nakhon Phanom,3-3,1,2004,Influenza
 Sakon Nakhon,3-3,4,2004,Influenza
-Zone 12,3-3,7,2004,Influenza
+Zone:12,3-3,7,2004,Influenza
 Khon Kaen,3-3,2,2004,Influenza
 Maha Sarakham,3-3,3,2004,Influenza
 Roi Et,3-3,2,2004,Influenza
-Zone 13,3-3,68,2004,Influenza
+Zone:13,3-3,68,2004,Influenza
 Buri Ram,3-3,12,2004,Influenza
 Chaiyaphum,3-3,7,2004,Influenza
 Nakhon Ratchasima,3-3,4,2004,Influenza
 Surin,3-3,45,2004,Influenza
-Zone 14,3-3,33,2004,Influenza
+Zone:14,3-3,33,2004,Influenza
 Amnat Charoen,3-3,0,2004,Influenza
 Si Sa Ket,3-3,14,2004,Influenza
 Ubon Ratchathani,3-3,15,2004,Influenza
 Yasothon,3-3,4,2004,Influenza
 South Region,3-3,89,2004,Influenza
-Zone 15,3-3,26,2004,Influenza
+Zone:15,3-3,26,2004,Influenza
 Chumphon,3-3,1,2004,Influenza
 Ranong,3-3,1,2004,Influenza
 Surat Thani,3-3,24,2004,Influenza
-Zone 16,3-3,12,2004,Influenza
+Zone:16,3-3,12,2004,Influenza
 Nakhon Si Thammarat,3-3,10,2004,Influenza
 Phatthalung,3-3,0,2004,Influenza
 Trang,3-3,2,2004,Influenza
-Zone 17,3-3,6,2004,Influenza
+Zone:17,3-3,6,2004,Influenza
 Krabi,3-3,3,2004,Influenza
 Phangnga,3-3,3,2004,Influenza
 Phuket,3-3,0,2004,Influenza
-Zone 18,3-3,14,2004,Influenza
+Zone:18,3-3,14,2004,Influenza
 Narathiwat,3-3,9,2004,Influenza
 Pattani,3-3,4,2004,Influenza
 Yala,3-3,1,2004,Influenza
-Zone 19,3-3,31,2004,Influenza
+Zone:19,3-3,31,2004,Influenza
 Satun,3-3,7,2004,Influenza
 Songkhla,3-3,24,2004,Influenza
 Total,4-4,394,2004,Influenza
 North Region,4-4,74,2004,Influenza
-Zone 1,4-4,43,2004,Influenza
+Zone:1,4-4,43,2004,Influenza
 Chiang Mai,4-4,7,2004,Influenza
 Chiang Rai,4-4,16,2004,Influenza
 Lampang,4-4,1,2004,Influenza
@@ -35008,98 +35008,98 @@ Mae Hong Son,4-4,5,2004,Influenza
 Nan,4-4,7,2004,Influenza
 Phayao,4-4,1,2004,Influenza
 Phrae,4-4,1,2004,Influenza
-Zone 2,4-4,16,2004,Influenza
+Zone:2,4-4,16,2004,Influenza
 Phetchabun,4-4,7,2004,Influenza
 Phitsanulok,4-4,0,2004,Influenza
 Sukhothai,4-4,4,2004,Influenza
 Tak,4-4,5,2004,Influenza
 Uttaradit,4-4,0,2004,Influenza
-Zone 3,4-4,15,2004,Influenza
+Zone:3,4-4,15,2004,Influenza
 Kamphaeng Phet,4-4,7,2004,Influenza
 Nakhon Sawan,4-4,7,2004,Influenza
 Phichit,4-4,1,2004,Influenza
 Uthai Thani,4-4,0,2004,Influenza
 Central Region,4-4,121,2004,Influenza
 Bangkok,4-4,25,2004,Influenza
-Zone 4,4-4,8,2004,Influenza
+Zone:4,4-4,8,2004,Influenza
 Ang Thong,4-4,1,2004,Influenza
 Nonthaburi,4-4,5,2004,Influenza
 P.Nakhon S.Ayutthaya,4-4,2,2004,Influenza
 Pathum Thani,4-4,0,2004,Influenza
-Zone 5,4-4,25,2004,Influenza
+Zone:5,4-4,25,2004,Influenza
 Chai Nat,4-4,0,2004,Influenza
 Lop Buri,4-4,20,2004,Influenza
 Saraburi,4-4,1,2004,Influenza
 Sing Buri,4-4,4,2004,Influenza
-Zone 6,4-4,22,2004,Influenza
+Zone:6,4-4,22,2004,Influenza
 Kanchanaburi,4-4,7,2004,Influenza
 Nakhon Pathom,4-4,1,2004,Influenza
 Ratchaburi,4-4,14,2004,Influenza
 Suphan Buri,4-4,0,2004,Influenza
-Zone 7,4-4,12,2004,Influenza
+Zone:7,4-4,12,2004,Influenza
 Phetchaburi,4-4,6,2004,Influenza
 Prachuap Khiri Khan,4-4,2,2004,Influenza
 Samut Sakhon,4-4,1,2004,Influenza
 Samut Songkhram,4-4,3,2004,Influenza
-Zone 8,4-4,13,2004,Influenza
+Zone:8,4-4,13,2004,Influenza
 Chachoengsao,4-4,2,2004,Influenza
 Nakhon Nayok,4-4,0,2004,Influenza
 Prachin Buri,4-4,9,2004,Influenza
 Sa Kaeo,4-4,2,2004,Influenza
 Samut Prakan,4-4,0,2004,Influenza
-Zone 9,4-4,16,2004,Influenza
+Zone:9,4-4,16,2004,Influenza
 Chanthaburi,4-4,6,2004,Influenza
 Chon Buri,4-4,3,2004,Influenza
 Rayong,4-4,5,2004,Influenza
 Trat,4-4,2,2004,Influenza
 North-Eastern Region,4-4,100,2004,Influenza
-Zone 10,4-4,10,2004,Influenza
+Zone:10,4-4,10,2004,Influenza
 Loei,4-4,4,2004,Influenza
 Nong Bua Lam Phu,4-4,0,2004,Influenza
 Nong Khai,4-4,0,2004,Influenza
 Udon Thani,4-4,6,2004,Influenza
-Zone 11,4-4,10,2004,Influenza
+Zone:11,4-4,10,2004,Influenza
 Kalasin,4-4,1,2004,Influenza
 Mukdahan,4-4,2,2004,Influenza
 Nakhon Phanom,4-4,4,2004,Influenza
 Sakon Nakhon,4-4,3,2004,Influenza
-Zone 12,4-4,9,2004,Influenza
+Zone:12,4-4,9,2004,Influenza
 Khon Kaen,4-4,3,2004,Influenza
 Maha Sarakham,4-4,4,2004,Influenza
 Roi Et,4-4,2,2004,Influenza
-Zone 13,4-4,58,2004,Influenza
+Zone:13,4-4,58,2004,Influenza
 Buri Ram,4-4,10,2004,Influenza
 Chaiyaphum,4-4,2,2004,Influenza
 Nakhon Ratchasima,4-4,9,2004,Influenza
 Surin,4-4,37,2004,Influenza
-Zone 14,4-4,13,2004,Influenza
+Zone:14,4-4,13,2004,Influenza
 Amnat Charoen,4-4,0,2004,Influenza
 Si Sa Ket,4-4,4,2004,Influenza
 Ubon Ratchathani,4-4,5,2004,Influenza
 Yasothon,4-4,4,2004,Influenza
 South Region,4-4,99,2004,Influenza
-Zone 15,4-4,29,2004,Influenza
+Zone:15,4-4,29,2004,Influenza
 Chumphon,4-4,0,2004,Influenza
 Ranong,4-4,3,2004,Influenza
 Surat Thani,4-4,26,2004,Influenza
-Zone 16,4-4,17,2004,Influenza
+Zone:16,4-4,17,2004,Influenza
 Nakhon Si Thammarat,4-4,8,2004,Influenza
 Phatthalung,4-4,1,2004,Influenza
 Trang,4-4,8,2004,Influenza
-Zone 17,4-4,9,2004,Influenza
+Zone:17,4-4,9,2004,Influenza
 Krabi,4-4,4,2004,Influenza
 Phangnga,4-4,5,2004,Influenza
 Phuket,4-4,0,2004,Influenza
-Zone 18,4-4,17,2004,Influenza
+Zone:18,4-4,17,2004,Influenza
 Narathiwat,4-4,10,2004,Influenza
 Pattani,4-4,3,2004,Influenza
 Yala,4-4,4,2004,Influenza
-Zone 19,4-4,27,2004,Influenza
+Zone:19,4-4,27,2004,Influenza
 Satun,4-4,9,2004,Influenza
 Songkhla,4-4,18,2004,Influenza
 Total,5-5,350,2004,Influenza
 North Region,5-5,62,2004,Influenza
-Zone 1,5-5,33,2004,Influenza
+Zone:1,5-5,33,2004,Influenza
 Chiang Mai,5-5,7,2004,Influenza
 Chiang Rai,5-5,7,2004,Influenza
 Lampang,5-5,0,2004,Influenza
@@ -35108,98 +35108,98 @@ Mae Hong Son,5-5,0,2004,Influenza
 Nan,5-5,9,2004,Influenza
 Phayao,5-5,2,2004,Influenza
 Phrae,5-5,2,2004,Influenza
-Zone 2,5-5,18,2004,Influenza
+Zone:2,5-5,18,2004,Influenza
 Phetchabun,5-5,8,2004,Influenza
 Phitsanulok,5-5,2,2004,Influenza
 Sukhothai,5-5,3,2004,Influenza
 Tak,5-5,4,2004,Influenza
 Uttaradit,5-5,1,2004,Influenza
-Zone 3,5-5,11,2004,Influenza
+Zone:3,5-5,11,2004,Influenza
 Kamphaeng Phet,5-5,8,2004,Influenza
 Nakhon Sawan,5-5,2,2004,Influenza
 Phichit,5-5,0,2004,Influenza
 Uthai Thani,5-5,1,2004,Influenza
 Central Region,5-5,114,2004,Influenza
 Bangkok,5-5,22,2004,Influenza
-Zone 4,5-5,14,2004,Influenza
+Zone:4,5-5,14,2004,Influenza
 Ang Thong,5-5,1,2004,Influenza
 Nonthaburi,5-5,13,2004,Influenza
 P.Nakhon S.Ayutthaya,5-5,0,2004,Influenza
 Pathum Thani,5-5,0,2004,Influenza
-Zone 5,5-5,14,2004,Influenza
+Zone:5,5-5,14,2004,Influenza
 Chai Nat,5-5,0,2004,Influenza
 Lop Buri,5-5,13,2004,Influenza
 Saraburi,5-5,0,2004,Influenza
 Sing Buri,5-5,1,2004,Influenza
-Zone 6,5-5,33,2004,Influenza
+Zone:6,5-5,33,2004,Influenza
 Kanchanaburi,5-5,12,2004,Influenza
 Nakhon Pathom,5-5,1,2004,Influenza
 Ratchaburi,5-5,16,2004,Influenza
 Suphan Buri,5-5,4,2004,Influenza
-Zone 7,5-5,9,2004,Influenza
+Zone:7,5-5,9,2004,Influenza
 Phetchaburi,5-5,6,2004,Influenza
 Prachuap Khiri Khan,5-5,1,2004,Influenza
 Samut Sakhon,5-5,0,2004,Influenza
 Samut Songkhram,5-5,2,2004,Influenza
-Zone 8,5-5,10,2004,Influenza
+Zone:8,5-5,10,2004,Influenza
 Chachoengsao,5-5,2,2004,Influenza
 Nakhon Nayok,5-5,0,2004,Influenza
 Prachin Buri,5-5,5,2004,Influenza
 Sa Kaeo,5-5,3,2004,Influenza
 Samut Prakan,5-5,0,2004,Influenza
-Zone 9,5-5,12,2004,Influenza
+Zone:9,5-5,12,2004,Influenza
 Chanthaburi,5-5,7,2004,Influenza
 Chon Buri,5-5,2,2004,Influenza
 Rayong,5-5,3,2004,Influenza
 Trat,5-5,0,2004,Influenza
 North-Eastern Region,5-5,88,2004,Influenza
-Zone 10,5-5,11,2004,Influenza
+Zone:10,5-5,11,2004,Influenza
 Loei,5-5,3,2004,Influenza
 Nong Bua Lam Phu,5-5,1,2004,Influenza
 Nong Khai,5-5,0,2004,Influenza
 Udon Thani,5-5,7,2004,Influenza
-Zone 11,5-5,7,2004,Influenza
+Zone:11,5-5,7,2004,Influenza
 Kalasin,5-5,2,2004,Influenza
 Mukdahan,5-5,2,2004,Influenza
 Nakhon Phanom,5-5,1,2004,Influenza
 Sakon Nakhon,5-5,2,2004,Influenza
-Zone 12,5-5,5,2004,Influenza
+Zone:12,5-5,5,2004,Influenza
 Khon Kaen,5-5,1,2004,Influenza
 Maha Sarakham,5-5,3,2004,Influenza
 Roi Et,5-5,1,2004,Influenza
-Zone 13,5-5,50,2004,Influenza
+Zone:13,5-5,50,2004,Influenza
 Buri Ram,5-5,9,2004,Influenza
 Chaiyaphum,5-5,1,2004,Influenza
 Nakhon Ratchasima,5-5,4,2004,Influenza
 Surin,5-5,36,2004,Influenza
-Zone 14,5-5,15,2004,Influenza
+Zone:14,5-5,15,2004,Influenza
 Amnat Charoen,5-5,1,2004,Influenza
 Si Sa Ket,5-5,8,2004,Influenza
 Ubon Ratchathani,5-5,3,2004,Influenza
 Yasothon,5-5,3,2004,Influenza
 South Region,5-5,86,2004,Influenza
-Zone 15,5-5,23,2004,Influenza
+Zone:15,5-5,23,2004,Influenza
 Chumphon,5-5,0,2004,Influenza
 Ranong,5-5,1,2004,Influenza
 Surat Thani,5-5,22,2004,Influenza
-Zone 16,5-5,14,2004,Influenza
+Zone:16,5-5,14,2004,Influenza
 Nakhon Si Thammarat,5-5,5,2004,Influenza
 Phatthalung,5-5,1,2004,Influenza
 Trang,5-5,8,2004,Influenza
-Zone 17,5-5,8,2004,Influenza
+Zone:17,5-5,8,2004,Influenza
 Krabi,5-5,2,2004,Influenza
 Phangnga,5-5,4,2004,Influenza
 Phuket,5-5,2,2004,Influenza
-Zone 18,5-5,12,2004,Influenza
+Zone:18,5-5,12,2004,Influenza
 Narathiwat,5-5,6,2004,Influenza
 Pattani,5-5,2,2004,Influenza
 Yala,5-5,4,2004,Influenza
-Zone 19,5-5,29,2004,Influenza
+Zone:19,5-5,29,2004,Influenza
 Satun,5-5,8,2004,Influenza
 Songkhla,5-5,21,2004,Influenza
 Total,6-6,341,2004,Influenza
 North Region,6-6,59,2004,Influenza
-Zone 1,6-6,29,2004,Influenza
+Zone:1,6-6,29,2004,Influenza
 Chiang Mai,6-6,6,2004,Influenza
 Chiang Rai,6-6,17,2004,Influenza
 Lampang,6-6,0,2004,Influenza
@@ -35208,98 +35208,98 @@ Mae Hong Son,6-6,0,2004,Influenza
 Nan,6-6,2,2004,Influenza
 Phayao,6-6,0,2004,Influenza
 Phrae,6-6,0,2004,Influenza
-Zone 2,6-6,17,2004,Influenza
+Zone:2,6-6,17,2004,Influenza
 Phetchabun,6-6,8,2004,Influenza
 Phitsanulok,6-6,2,2004,Influenza
 Sukhothai,6-6,1,2004,Influenza
 Tak,6-6,5,2004,Influenza
 Uttaradit,6-6,1,2004,Influenza
-Zone 3,6-6,13,2004,Influenza
+Zone:3,6-6,13,2004,Influenza
 Kamphaeng Phet,6-6,9,2004,Influenza
 Nakhon Sawan,6-6,3,2004,Influenza
 Phichit,6-6,0,2004,Influenza
 Uthai Thani,6-6,1,2004,Influenza
 Central Region,6-6,106,2004,Influenza
 Bangkok,6-6,28,2004,Influenza
-Zone 4,6-6,14,2004,Influenza
+Zone:4,6-6,14,2004,Influenza
 Ang Thong,6-6,1,2004,Influenza
 Nonthaburi,6-6,10,2004,Influenza
 P.Nakhon S.Ayutthaya,6-6,2,2004,Influenza
 Pathum Thani,6-6,1,2004,Influenza
-Zone 5,6-6,12,2004,Influenza
+Zone:5,6-6,12,2004,Influenza
 Chai Nat,6-6,0,2004,Influenza
 Lop Buri,6-6,6,2004,Influenza
 Saraburi,6-6,1,2004,Influenza
 Sing Buri,6-6,5,2004,Influenza
-Zone 6,6-6,21,2004,Influenza
+Zone:6,6-6,21,2004,Influenza
 Kanchanaburi,6-6,10,2004,Influenza
 Nakhon Pathom,6-6,2,2004,Influenza
 Ratchaburi,6-6,8,2004,Influenza
 Suphan Buri,6-6,1,2004,Influenza
-Zone 7,6-6,8,2004,Influenza
+Zone:7,6-6,8,2004,Influenza
 Phetchaburi,6-6,2,2004,Influenza
 Prachuap Khiri Khan,6-6,3,2004,Influenza
 Samut Sakhon,6-6,0,2004,Influenza
 Samut Songkhram,6-6,3,2004,Influenza
-Zone 8,6-6,8,2004,Influenza
+Zone:8,6-6,8,2004,Influenza
 Chachoengsao,6-6,3,2004,Influenza
 Nakhon Nayok,6-6,0,2004,Influenza
 Prachin Buri,6-6,3,2004,Influenza
 Sa Kaeo,6-6,1,2004,Influenza
 Samut Prakan,6-6,1,2004,Influenza
-Zone 9,6-6,15,2004,Influenza
+Zone:9,6-6,15,2004,Influenza
 Chanthaburi,6-6,8,2004,Influenza
 Chon Buri,6-6,4,2004,Influenza
 Rayong,6-6,3,2004,Influenza
 Trat,6-6,0,2004,Influenza
 North-Eastern Region,6-6,91,2004,Influenza
-Zone 10,6-6,8,2004,Influenza
+Zone:10,6-6,8,2004,Influenza
 Loei,6-6,4,2004,Influenza
 Nong Bua Lam Phu,6-6,0,2004,Influenza
 Nong Khai,6-6,0,2004,Influenza
 Udon Thani,6-6,4,2004,Influenza
-Zone 11,6-6,5,2004,Influenza
+Zone:11,6-6,5,2004,Influenza
 Kalasin,6-6,3,2004,Influenza
 Mukdahan,6-6,1,2004,Influenza
 Nakhon Phanom,6-6,0,2004,Influenza
 Sakon Nakhon,6-6,1,2004,Influenza
-Zone 12,6-6,11,2004,Influenza
+Zone:12,6-6,11,2004,Influenza
 Khon Kaen,6-6,4,2004,Influenza
 Maha Sarakham,6-6,3,2004,Influenza
 Roi Et,6-6,4,2004,Influenza
-Zone 13,6-6,53,2004,Influenza
+Zone:13,6-6,53,2004,Influenza
 Buri Ram,6-6,9,2004,Influenza
 Chaiyaphum,6-6,4,2004,Influenza
 Nakhon Ratchasima,6-6,9,2004,Influenza
 Surin,6-6,31,2004,Influenza
-Zone 14,6-6,14,2004,Influenza
+Zone:14,6-6,14,2004,Influenza
 Amnat Charoen,6-6,1,2004,Influenza
 Si Sa Ket,6-6,8,2004,Influenza
 Ubon Ratchathani,6-6,3,2004,Influenza
 Yasothon,6-6,2,2004,Influenza
 South Region,6-6,85,2004,Influenza
-Zone 15,6-6,24,2004,Influenza
+Zone:15,6-6,24,2004,Influenza
 Chumphon,6-6,0,2004,Influenza
 Ranong,6-6,0,2004,Influenza
 Surat Thani,6-6,24,2004,Influenza
-Zone 16,6-6,21,2004,Influenza
+Zone:16,6-6,21,2004,Influenza
 Nakhon Si Thammarat,6-6,10,2004,Influenza
 Phatthalung,6-6,2,2004,Influenza
 Trang,6-6,9,2004,Influenza
-Zone 17,6-6,5,2004,Influenza
+Zone:17,6-6,5,2004,Influenza
 Krabi,6-6,2,2004,Influenza
 Phangnga,6-6,3,2004,Influenza
 Phuket,6-6,0,2004,Influenza
-Zone 18,6-6,10,2004,Influenza
+Zone:18,6-6,10,2004,Influenza
 Narathiwat,6-6,7,2004,Influenza
 Pattani,6-6,1,2004,Influenza
 Yala,6-6,2,2004,Influenza
-Zone 19,6-6,25,2004,Influenza
+Zone:19,6-6,25,2004,Influenza
 Satun,6-6,6,2004,Influenza
 Songkhla,6-6,19,2004,Influenza
 Total,7-9,1021,2004,Influenza
 North Region,7-9,192,2004,Influenza
-Zone 1,7-9,106,2004,Influenza
+Zone:1,7-9,106,2004,Influenza
 Chiang Mai,7-9,43,2004,Influenza
 Chiang Rai,7-9,31,2004,Influenza
 Lampang,7-9,4,2004,Influenza
@@ -35308,98 +35308,98 @@ Mae Hong Son,7-9,3,2004,Influenza
 Nan,7-9,17,2004,Influenza
 Phayao,7-9,4,2004,Influenza
 Phrae,7-9,1,2004,Influenza
-Zone 2,7-9,42,2004,Influenza
+Zone:2,7-9,42,2004,Influenza
 Phetchabun,7-9,20,2004,Influenza
 Phitsanulok,7-9,4,2004,Influenza
 Sukhothai,7-9,9,2004,Influenza
 Tak,7-9,9,2004,Influenza
 Uttaradit,7-9,0,2004,Influenza
-Zone 3,7-9,44,2004,Influenza
+Zone:3,7-9,44,2004,Influenza
 Kamphaeng Phet,7-9,20,2004,Influenza
 Nakhon Sawan,7-9,19,2004,Influenza
 Phichit,7-9,2,2004,Influenza
 Uthai Thani,7-9,3,2004,Influenza
 Central Region,7-9,366,2004,Influenza
 Bangkok,7-9,87,2004,Influenza
-Zone 4,7-9,40,2004,Influenza
+Zone:4,7-9,40,2004,Influenza
 Ang Thong,7-9,5,2004,Influenza
 Nonthaburi,7-9,27,2004,Influenza
 P.Nakhon S.Ayutthaya,7-9,5,2004,Influenza
 Pathum Thani,7-9,3,2004,Influenza
-Zone 5,7-9,25,2004,Influenza
+Zone:5,7-9,25,2004,Influenza
 Chai Nat,7-9,0,2004,Influenza
 Lop Buri,7-9,19,2004,Influenza
 Saraburi,7-9,1,2004,Influenza
 Sing Buri,7-9,5,2004,Influenza
-Zone 6,7-9,97,2004,Influenza
+Zone:6,7-9,97,2004,Influenza
 Kanchanaburi,7-9,38,2004,Influenza
 Nakhon Pathom,7-9,15,2004,Influenza
 Ratchaburi,7-9,35,2004,Influenza
 Suphan Buri,7-9,9,2004,Influenza
-Zone 7,7-9,31,2004,Influenza
+Zone:7,7-9,31,2004,Influenza
 Phetchaburi,7-9,8,2004,Influenza
 Prachuap Khiri Khan,7-9,6,2004,Influenza
 Samut Sakhon,7-9,5,2004,Influenza
 Samut Songkhram,7-9,12,2004,Influenza
-Zone 8,7-9,32,2004,Influenza
+Zone:8,7-9,32,2004,Influenza
 Chachoengsao,7-9,4,2004,Influenza
 Nakhon Nayok,7-9,1,2004,Influenza
 Prachin Buri,7-9,22,2004,Influenza
 Sa Kaeo,7-9,2,2004,Influenza
 Samut Prakan,7-9,3,2004,Influenza
-Zone 9,7-9,54,2004,Influenza
+Zone:9,7-9,54,2004,Influenza
 Chanthaburi,7-9,35,2004,Influenza
 Chon Buri,7-9,8,2004,Influenza
 Rayong,7-9,11,2004,Influenza
 Trat,7-9,0,2004,Influenza
 North-Eastern Region,7-9,213,2004,Influenza
-Zone 10,7-9,36,2004,Influenza
+Zone:10,7-9,36,2004,Influenza
 Loei,7-9,18,2004,Influenza
 Nong Bua Lam Phu,7-9,1,2004,Influenza
 Nong Khai,7-9,0,2004,Influenza
 Udon Thani,7-9,17,2004,Influenza
-Zone 11,7-9,9,2004,Influenza
+Zone:11,7-9,9,2004,Influenza
 Kalasin,7-9,4,2004,Influenza
 Mukdahan,7-9,0,2004,Influenza
 Nakhon Phanom,7-9,5,2004,Influenza
 Sakon Nakhon,7-9,0,2004,Influenza
-Zone 12,7-9,27,2004,Influenza
+Zone:12,7-9,27,2004,Influenza
 Khon Kaen,7-9,11,2004,Influenza
 Maha Sarakham,7-9,13,2004,Influenza
 Roi Et,7-9,3,2004,Influenza
-Zone 13,7-9,105,2004,Influenza
+Zone:13,7-9,105,2004,Influenza
 Buri Ram,7-9,28,2004,Influenza
 Chaiyaphum,7-9,3,2004,Influenza
 Nakhon Ratchasima,7-9,12,2004,Influenza
 Surin,7-9,62,2004,Influenza
-Zone 14,7-9,36,2004,Influenza
+Zone:14,7-9,36,2004,Influenza
 Amnat Charoen,7-9,1,2004,Influenza
 Si Sa Ket,7-9,18,2004,Influenza
 Ubon Ratchathani,7-9,12,2004,Influenza
 Yasothon,7-9,5,2004,Influenza
 South Region,7-9,250,2004,Influenza
-Zone 15,7-9,62,2004,Influenza
+Zone:15,7-9,62,2004,Influenza
 Chumphon,7-9,2,2004,Influenza
 Ranong,7-9,0,2004,Influenza
 Surat Thani,7-9,60,2004,Influenza
-Zone 16,7-9,51,2004,Influenza
+Zone:16,7-9,51,2004,Influenza
 Nakhon Si Thammarat,7-9,24,2004,Influenza
 Phatthalung,7-9,2,2004,Influenza
 Trang,7-9,25,2004,Influenza
-Zone 17,7-9,30,2004,Influenza
+Zone:17,7-9,30,2004,Influenza
 Krabi,7-9,13,2004,Influenza
 Phangnga,7-9,12,2004,Influenza
 Phuket,7-9,5,2004,Influenza
-Zone 18,7-9,53,2004,Influenza
+Zone:18,7-9,53,2004,Influenza
 Narathiwat,7-9,27,2004,Influenza
 Pattani,7-9,11,2004,Influenza
 Yala,7-9,15,2004,Influenza
-Zone 19,7-9,54,2004,Influenza
+Zone:19,7-9,54,2004,Influenza
 Satun,7-9,11,2004,Influenza
 Songkhla,7-9,43,2004,Influenza
 Total,10-14,1478,2004,Influenza
 North Region,10-14,253,2004,Influenza
-Zone 1,10-14,121,2004,Influenza
+Zone:1,10-14,121,2004,Influenza
 Chiang Mai,10-14,39,2004,Influenza
 Chiang Rai,10-14,27,2004,Influenza
 Lampang,10-14,4,2004,Influenza
@@ -35408,98 +35408,98 @@ Mae Hong Son,10-14,3,2004,Influenza
 Nan,10-14,26,2004,Influenza
 Phayao,10-14,6,2004,Influenza
 Phrae,10-14,4,2004,Influenza
-Zone 2,10-14,74,2004,Influenza
+Zone:2,10-14,74,2004,Influenza
 Phetchabun,10-14,26,2004,Influenza
 Phitsanulok,10-14,7,2004,Influenza
 Sukhothai,10-14,12,2004,Influenza
 Tak,10-14,29,2004,Influenza
 Uttaradit,10-14,0,2004,Influenza
-Zone 3,10-14,58,2004,Influenza
+Zone:3,10-14,58,2004,Influenza
 Kamphaeng Phet,10-14,17,2004,Influenza
 Nakhon Sawan,10-14,29,2004,Influenza
 Phichit,10-14,3,2004,Influenza
 Uthai Thani,10-14,9,2004,Influenza
 Central Region,10-14,537,2004,Influenza
 Bangkok,10-14,98,2004,Influenza
-Zone 4,10-14,47,2004,Influenza
+Zone:4,10-14,47,2004,Influenza
 Ang Thong,10-14,5,2004,Influenza
 Nonthaburi,10-14,31,2004,Influenza
 P.Nakhon S.Ayutthaya,10-14,9,2004,Influenza
 Pathum Thani,10-14,2,2004,Influenza
-Zone 5,10-14,19,2004,Influenza
+Zone:5,10-14,19,2004,Influenza
 Chai Nat,10-14,0,2004,Influenza
 Lop Buri,10-14,9,2004,Influenza
 Saraburi,10-14,2,2004,Influenza
 Sing Buri,10-14,8,2004,Influenza
-Zone 6,10-14,129,2004,Influenza
+Zone:6,10-14,129,2004,Influenza
 Kanchanaburi,10-14,38,2004,Influenza
 Nakhon Pathom,10-14,31,2004,Influenza
 Ratchaburi,10-14,53,2004,Influenza
 Suphan Buri,10-14,7,2004,Influenza
-Zone 7,10-14,84,2004,Influenza
+Zone:7,10-14,84,2004,Influenza
 Phetchaburi,10-14,34,2004,Influenza
 Prachuap Khiri Khan,10-14,21,2004,Influenza
 Samut Sakhon,10-14,3,2004,Influenza
 Samut Songkhram,10-14,26,2004,Influenza
-Zone 8,10-14,43,2004,Influenza
+Zone:8,10-14,43,2004,Influenza
 Chachoengsao,10-14,7,2004,Influenza
 Nakhon Nayok,10-14,3,2004,Influenza
 Prachin Buri,10-14,24,2004,Influenza
 Sa Kaeo,10-14,5,2004,Influenza
 Samut Prakan,10-14,4,2004,Influenza
-Zone 9,10-14,117,2004,Influenza
+Zone:9,10-14,117,2004,Influenza
 Chanthaburi,10-14,63,2004,Influenza
 Chon Buri,10-14,23,2004,Influenza
 Rayong,10-14,20,2004,Influenza
 Trat,10-14,11,2004,Influenza
 North-Eastern Region,10-14,285,2004,Influenza
-Zone 10,10-14,37,2004,Influenza
+Zone:10,10-14,37,2004,Influenza
 Loei,10-14,14,2004,Influenza
 Nong Bua Lam Phu,10-14,2,2004,Influenza
 Nong Khai,10-14,1,2004,Influenza
 Udon Thani,10-14,20,2004,Influenza
-Zone 11,10-14,29,2004,Influenza
+Zone:11,10-14,29,2004,Influenza
 Kalasin,10-14,4,2004,Influenza
 Mukdahan,10-14,4,2004,Influenza
 Nakhon Phanom,10-14,11,2004,Influenza
 Sakon Nakhon,10-14,10,2004,Influenza
-Zone 12,10-14,33,2004,Influenza
+Zone:12,10-14,33,2004,Influenza
 Khon Kaen,10-14,15,2004,Influenza
 Maha Sarakham,10-14,14,2004,Influenza
 Roi Et,10-14,4,2004,Influenza
-Zone 13,10-14,138,2004,Influenza
+Zone:13,10-14,138,2004,Influenza
 Buri Ram,10-14,51,2004,Influenza
 Chaiyaphum,10-14,12,2004,Influenza
 Nakhon Ratchasima,10-14,10,2004,Influenza
 Surin,10-14,65,2004,Influenza
-Zone 14,10-14,48,2004,Influenza
+Zone:14,10-14,48,2004,Influenza
 Amnat Charoen,10-14,2,2004,Influenza
 Si Sa Ket,10-14,28,2004,Influenza
 Ubon Ratchathani,10-14,10,2004,Influenza
 Yasothon,10-14,8,2004,Influenza
 South Region,10-14,403,2004,Influenza
-Zone 15,10-14,114,2004,Influenza
+Zone:15,10-14,114,2004,Influenza
 Chumphon,10-14,13,2004,Influenza
 Ranong,10-14,4,2004,Influenza
 Surat Thani,10-14,97,2004,Influenza
-Zone 16,10-14,110,2004,Influenza
+Zone:16,10-14,110,2004,Influenza
 Nakhon Si Thammarat,10-14,48,2004,Influenza
 Phatthalung,10-14,5,2004,Influenza
 Trang,10-14,57,2004,Influenza
-Zone 17,10-14,47,2004,Influenza
+Zone:17,10-14,47,2004,Influenza
 Krabi,10-14,20,2004,Influenza
 Phangnga,10-14,22,2004,Influenza
 Phuket,10-14,5,2004,Influenza
-Zone 18,10-14,76,2004,Influenza
+Zone:18,10-14,76,2004,Influenza
 Narathiwat,10-14,39,2004,Influenza
 Pattani,10-14,10,2004,Influenza
 Yala,10-14,27,2004,Influenza
-Zone 19,10-14,56,2004,Influenza
+Zone:19,10-14,56,2004,Influenza
 Satun,10-14,12,2004,Influenza
 Songkhla,10-14,44,2004,Influenza
 Total,15-24,3068,2004,Influenza
 North Region,15-24,388,2004,Influenza
-Zone 1,15-24,232,2004,Influenza
+Zone:1,15-24,232,2004,Influenza
 Chiang Mai,15-24,64,2004,Influenza
 Chiang Rai,15-24,62,2004,Influenza
 Lampang,15-24,13,2004,Influenza
@@ -35508,98 +35508,98 @@ Mae Hong Son,15-24,22,2004,Influenza
 Nan,15-24,33,2004,Influenza
 Phayao,15-24,16,2004,Influenza
 Phrae,15-24,4,2004,Influenza
-Zone 2,15-24,108,2004,Influenza
+Zone:2,15-24,108,2004,Influenza
 Phetchabun,15-24,31,2004,Influenza
 Phitsanulok,15-24,14,2004,Influenza
 Sukhothai,15-24,11,2004,Influenza
 Tak,15-24,50,2004,Influenza
 Uttaradit,15-24,2,2004,Influenza
-Zone 3,15-24,48,2004,Influenza
+Zone:3,15-24,48,2004,Influenza
 Kamphaeng Phet,15-24,8,2004,Influenza
 Nakhon Sawan,15-24,30,2004,Influenza
 Phichit,15-24,3,2004,Influenza
 Uthai Thani,15-24,7,2004,Influenza
 Central Region,15-24,1242,2004,Influenza
 Bangkok,15-24,167,2004,Influenza
-Zone 4,15-24,101,2004,Influenza
+Zone:4,15-24,101,2004,Influenza
 Ang Thong,15-24,16,2004,Influenza
 Nonthaburi,15-24,49,2004,Influenza
 P.Nakhon S.Ayutthaya,15-24,15,2004,Influenza
 Pathum Thani,15-24,21,2004,Influenza
-Zone 5,15-24,29,2004,Influenza
+Zone:5,15-24,29,2004,Influenza
 Chai Nat,15-24,2,2004,Influenza
 Lop Buri,15-24,11,2004,Influenza
 Saraburi,15-24,10,2004,Influenza
 Sing Buri,15-24,6,2004,Influenza
-Zone 6,15-24,336,2004,Influenza
+Zone:6,15-24,336,2004,Influenza
 Kanchanaburi,15-24,58,2004,Influenza
 Nakhon Pathom,15-24,114,2004,Influenza
 Ratchaburi,15-24,143,2004,Influenza
 Suphan Buri,15-24,21,2004,Influenza
-Zone 7,15-24,168,2004,Influenza
+Zone:7,15-24,168,2004,Influenza
 Phetchaburi,15-24,58,2004,Influenza
 Prachuap Khiri Khan,15-24,36,2004,Influenza
 Samut Sakhon,15-24,18,2004,Influenza
 Samut Songkhram,15-24,56,2004,Influenza
-Zone 8,15-24,143,2004,Influenza
+Zone:8,15-24,143,2004,Influenza
 Chachoengsao,15-24,55,2004,Influenza
 Nakhon Nayok,15-24,7,2004,Influenza
 Prachin Buri,15-24,62,2004,Influenza
 Sa Kaeo,15-24,7,2004,Influenza
 Samut Prakan,15-24,12,2004,Influenza
-Zone 9,15-24,298,2004,Influenza
+Zone:9,15-24,298,2004,Influenza
 Chanthaburi,15-24,115,2004,Influenza
 Chon Buri,15-24,83,2004,Influenza
 Rayong,15-24,82,2004,Influenza
 Trat,15-24,18,2004,Influenza
 North-Eastern Region,15-24,432,2004,Influenza
-Zone 10,15-24,66,2004,Influenza
+Zone:10,15-24,66,2004,Influenza
 Loei,15-24,12,2004,Influenza
 Nong Bua Lam Phu,15-24,4,2004,Influenza
 Nong Khai,15-24,7,2004,Influenza
 Udon Thani,15-24,43,2004,Influenza
-Zone 11,15-24,34,2004,Influenza
+Zone:11,15-24,34,2004,Influenza
 Kalasin,15-24,9,2004,Influenza
 Mukdahan,15-24,1,2004,Influenza
 Nakhon Phanom,15-24,13,2004,Influenza
 Sakon Nakhon,15-24,11,2004,Influenza
-Zone 12,15-24,35,2004,Influenza
+Zone:12,15-24,35,2004,Influenza
 Khon Kaen,15-24,16,2004,Influenza
 Maha Sarakham,15-24,13,2004,Influenza
 Roi Et,15-24,6,2004,Influenza
-Zone 13,15-24,215,2004,Influenza
+Zone:13,15-24,215,2004,Influenza
 Buri Ram,15-24,86,2004,Influenza
 Chaiyaphum,15-24,13,2004,Influenza
 Nakhon Ratchasima,15-24,46,2004,Influenza
 Surin,15-24,70,2004,Influenza
-Zone 14,15-24,82,2004,Influenza
+Zone:14,15-24,82,2004,Influenza
 Amnat Charoen,15-24,3,2004,Influenza
 Si Sa Ket,15-24,51,2004,Influenza
 Ubon Ratchathani,15-24,16,2004,Influenza
 Yasothon,15-24,12,2004,Influenza
 South Region,15-24,1006,2004,Influenza
-Zone 15,15-24,281,2004,Influenza
+Zone:15,15-24,281,2004,Influenza
 Chumphon,15-24,17,2004,Influenza
 Ranong,15-24,7,2004,Influenza
 Surat Thani,15-24,257,2004,Influenza
-Zone 16,15-24,310,2004,Influenza
+Zone:16,15-24,310,2004,Influenza
 Nakhon Si Thammarat,15-24,128,2004,Influenza
 Phatthalung,15-24,20,2004,Influenza
 Trang,15-24,162,2004,Influenza
-Zone 17,15-24,119,2004,Influenza
+Zone:17,15-24,119,2004,Influenza
 Krabi,15-24,78,2004,Influenza
 Phangnga,15-24,18,2004,Influenza
 Phuket,15-24,23,2004,Influenza
-Zone 18,15-24,178,2004,Influenza
+Zone:18,15-24,178,2004,Influenza
 Narathiwat,15-24,103,2004,Influenza
 Pattani,15-24,28,2004,Influenza
 Yala,15-24,47,2004,Influenza
-Zone 19,15-24,118,2004,Influenza
+Zone:19,15-24,118,2004,Influenza
 Satun,15-24,18,2004,Influenza
 Songkhla,15-24,100,2004,Influenza
 Total,25-34,3489,2004,Influenza
 North Region,25-34,460,2004,Influenza
-Zone 1,25-34,264,2004,Influenza
+Zone:1,25-34,264,2004,Influenza
 Chiang Mai,25-34,67,2004,Influenza
 Chiang Rai,25-34,72,2004,Influenza
 Lampang,25-34,18,2004,Influenza
@@ -35608,98 +35608,98 @@ Mae Hong Son,25-34,27,2004,Influenza
 Nan,25-34,35,2004,Influenza
 Phayao,25-34,23,2004,Influenza
 Phrae,25-34,2,2004,Influenza
-Zone 2,25-34,111,2004,Influenza
+Zone:2,25-34,111,2004,Influenza
 Phetchabun,25-34,43,2004,Influenza
 Phitsanulok,25-34,13,2004,Influenza
 Sukhothai,25-34,8,2004,Influenza
 Tak,25-34,42,2004,Influenza
 Uttaradit,25-34,5,2004,Influenza
-Zone 3,25-34,85,2004,Influenza
+Zone:3,25-34,85,2004,Influenza
 Kamphaeng Phet,25-34,28,2004,Influenza
 Nakhon Sawan,25-34,33,2004,Influenza
 Phichit,25-34,5,2004,Influenza
 Uthai Thani,25-34,19,2004,Influenza
 Central Region,25-34,1268,2004,Influenza
 Bangkok,25-34,169,2004,Influenza
-Zone 4,25-34,92,2004,Influenza
+Zone:4,25-34,92,2004,Influenza
 Ang Thong,25-34,4,2004,Influenza
 Nonthaburi,25-34,57,2004,Influenza
 P.Nakhon S.Ayutthaya,25-34,12,2004,Influenza
 Pathum Thani,25-34,19,2004,Influenza
-Zone 5,25-34,39,2004,Influenza
+Zone:5,25-34,39,2004,Influenza
 Chai Nat,25-34,4,2004,Influenza
 Lop Buri,25-34,9,2004,Influenza
 Saraburi,25-34,15,2004,Influenza
 Sing Buri,25-34,11,2004,Influenza
-Zone 6,25-34,297,2004,Influenza
+Zone:6,25-34,297,2004,Influenza
 Kanchanaburi,25-34,64,2004,Influenza
 Nakhon Pathom,25-34,72,2004,Influenza
 Ratchaburi,25-34,147,2004,Influenza
 Suphan Buri,25-34,14,2004,Influenza
-Zone 7,25-34,157,2004,Influenza
+Zone:7,25-34,157,2004,Influenza
 Phetchaburi,25-34,45,2004,Influenza
 Prachuap Khiri Khan,25-34,53,2004,Influenza
 Samut Sakhon,25-34,13,2004,Influenza
 Samut Songkhram,25-34,46,2004,Influenza
-Zone 8,25-34,160,2004,Influenza
+Zone:8,25-34,160,2004,Influenza
 Chachoengsao,25-34,54,2004,Influenza
 Nakhon Nayok,25-34,18,2004,Influenza
 Prachin Buri,25-34,63,2004,Influenza
 Sa Kaeo,25-34,6,2004,Influenza
 Samut Prakan,25-34,19,2004,Influenza
-Zone 9,25-34,354,2004,Influenza
+Zone:9,25-34,354,2004,Influenza
 Chanthaburi,25-34,106,2004,Influenza
 Chon Buri,25-34,113,2004,Influenza
 Rayong,25-34,118,2004,Influenza
 Trat,25-34,17,2004,Influenza
 North-Eastern Region,25-34,608,2004,Influenza
-Zone 10,25-34,86,2004,Influenza
+Zone:10,25-34,86,2004,Influenza
 Loei,25-34,9,2004,Influenza
 Nong Bua Lam Phu,25-34,2,2004,Influenza
 Nong Khai,25-34,4,2004,Influenza
 Udon Thani,25-34,71,2004,Influenza
-Zone 11,25-34,33,2004,Influenza
+Zone:11,25-34,33,2004,Influenza
 Kalasin,25-34,8,2004,Influenza
 Mukdahan,25-34,1,2004,Influenza
 Nakhon Phanom,25-34,17,2004,Influenza
 Sakon Nakhon,25-34,7,2004,Influenza
-Zone 12,25-34,81,2004,Influenza
+Zone:12,25-34,81,2004,Influenza
 Khon Kaen,25-34,22,2004,Influenza
 Maha Sarakham,25-34,36,2004,Influenza
 Roi Et,25-34,23,2004,Influenza
-Zone 13,25-34,277,2004,Influenza
+Zone:13,25-34,277,2004,Influenza
 Buri Ram,25-34,121,2004,Influenza
 Chaiyaphum,25-34,11,2004,Influenza
 Nakhon Ratchasima,25-34,41,2004,Influenza
 Surin,25-34,104,2004,Influenza
-Zone 14,25-34,131,2004,Influenza
+Zone:14,25-34,131,2004,Influenza
 Amnat Charoen,25-34,6,2004,Influenza
 Si Sa Ket,25-34,69,2004,Influenza
 Ubon Ratchathani,25-34,39,2004,Influenza
 Yasothon,25-34,17,2004,Influenza
 South Region,25-34,1153,2004,Influenza
-Zone 15,25-34,274,2004,Influenza
+Zone:15,25-34,274,2004,Influenza
 Chumphon,25-34,20,2004,Influenza
 Ranong,25-34,9,2004,Influenza
 Surat Thani,25-34,245,2004,Influenza
-Zone 16,25-34,391,2004,Influenza
+Zone:16,25-34,391,2004,Influenza
 Nakhon Si Thammarat,25-34,160,2004,Influenza
 Phatthalung,25-34,45,2004,Influenza
 Trang,25-34,186,2004,Influenza
-Zone 17,25-34,163,2004,Influenza
+Zone:17,25-34,163,2004,Influenza
 Krabi,25-34,97,2004,Influenza
 Phangnga,25-34,41,2004,Influenza
 Phuket,25-34,25,2004,Influenza
-Zone 18,25-34,182,2004,Influenza
+Zone:18,25-34,182,2004,Influenza
 Narathiwat,25-34,104,2004,Influenza
 Pattani,25-34,36,2004,Influenza
 Yala,25-34,42,2004,Influenza
-Zone 19,25-34,143,2004,Influenza
+Zone:19,25-34,143,2004,Influenza
 Satun,25-34,25,2004,Influenza
 Songkhla,25-34,118,2004,Influenza
 Total,35-44,3302,2004,Influenza
 North Region,35-44,501,2004,Influenza
-Zone 1,35-44,324,2004,Influenza
+Zone:1,35-44,324,2004,Influenza
 Chiang Mai,35-44,71,2004,Influenza
 Chiang Rai,35-44,81,2004,Influenza
 Lampang,35-44,16,2004,Influenza
@@ -35708,98 +35708,98 @@ Mae Hong Son,35-44,20,2004,Influenza
 Nan,35-44,72,2004,Influenza
 Phayao,35-44,40,2004,Influenza
 Phrae,35-44,8,2004,Influenza
-Zone 2,35-44,106,2004,Influenza
+Zone:2,35-44,106,2004,Influenza
 Phetchabun,35-44,41,2004,Influenza
 Phitsanulok,35-44,5,2004,Influenza
 Sukhothai,35-44,7,2004,Influenza
 Tak,35-44,49,2004,Influenza
 Uttaradit,35-44,4,2004,Influenza
-Zone 3,35-44,71,2004,Influenza
+Zone:3,35-44,71,2004,Influenza
 Kamphaeng Phet,35-44,16,2004,Influenza
 Nakhon Sawan,35-44,25,2004,Influenza
 Phichit,35-44,7,2004,Influenza
 Uthai Thani,35-44,23,2004,Influenza
 Central Region,35-44,999,2004,Influenza
 Bangkok,35-44,134,2004,Influenza
-Zone 4,35-44,85,2004,Influenza
+Zone:4,35-44,85,2004,Influenza
 Ang Thong,35-44,9,2004,Influenza
 Nonthaburi,35-44,43,2004,Influenza
 P.Nakhon S.Ayutthaya,35-44,17,2004,Influenza
 Pathum Thani,35-44,16,2004,Influenza
-Zone 5,35-44,50,2004,Influenza
+Zone:5,35-44,50,2004,Influenza
 Chai Nat,35-44,4,2004,Influenza
 Lop Buri,35-44,18,2004,Influenza
 Saraburi,35-44,6,2004,Influenza
 Sing Buri,35-44,22,2004,Influenza
-Zone 6,35-44,247,2004,Influenza
+Zone:6,35-44,247,2004,Influenza
 Kanchanaburi,35-44,43,2004,Influenza
 Nakhon Pathom,35-44,74,2004,Influenza
 Ratchaburi,35-44,102,2004,Influenza
 Suphan Buri,35-44,28,2004,Influenza
-Zone 7,35-44,135,2004,Influenza
+Zone:7,35-44,135,2004,Influenza
 Phetchaburi,35-44,49,2004,Influenza
 Prachuap Khiri Khan,35-44,37,2004,Influenza
 Samut Sakhon,35-44,7,2004,Influenza
 Samut Songkhram,35-44,42,2004,Influenza
-Zone 8,35-44,119,2004,Influenza
+Zone:8,35-44,119,2004,Influenza
 Chachoengsao,35-44,55,2004,Influenza
 Nakhon Nayok,35-44,7,2004,Influenza
 Prachin Buri,35-44,39,2004,Influenza
 Sa Kaeo,35-44,7,2004,Influenza
 Samut Prakan,35-44,11,2004,Influenza
-Zone 9,35-44,229,2004,Influenza
+Zone:9,35-44,229,2004,Influenza
 Chanthaburi,35-44,84,2004,Influenza
 Chon Buri,35-44,58,2004,Influenza
 Rayong,35-44,65,2004,Influenza
 Trat,35-44,22,2004,Influenza
 North-Eastern Region,35-44,742,2004,Influenza
-Zone 10,35-44,109,2004,Influenza
+Zone:10,35-44,109,2004,Influenza
 Loei,35-44,7,2004,Influenza
 Nong Bua Lam Phu,35-44,11,2004,Influenza
 Nong Khai,35-44,8,2004,Influenza
 Udon Thani,35-44,83,2004,Influenza
-Zone 11,35-44,54,2004,Influenza
+Zone:11,35-44,54,2004,Influenza
 Kalasin,35-44,14,2004,Influenza
 Mukdahan,35-44,1,2004,Influenza
 Nakhon Phanom,35-44,21,2004,Influenza
 Sakon Nakhon,35-44,18,2004,Influenza
-Zone 12,35-44,89,2004,Influenza
+Zone:12,35-44,89,2004,Influenza
 Khon Kaen,35-44,29,2004,Influenza
 Maha Sarakham,35-44,33,2004,Influenza
 Roi Et,35-44,27,2004,Influenza
-Zone 13,35-44,348,2004,Influenza
+Zone:13,35-44,348,2004,Influenza
 Buri Ram,35-44,140,2004,Influenza
 Chaiyaphum,35-44,26,2004,Influenza
 Nakhon Ratchasima,35-44,45,2004,Influenza
 Surin,35-44,137,2004,Influenza
-Zone 14,35-44,142,2004,Influenza
+Zone:14,35-44,142,2004,Influenza
 Amnat Charoen,35-44,7,2004,Influenza
 Si Sa Ket,35-44,88,2004,Influenza
 Ubon Ratchathani,35-44,30,2004,Influenza
 Yasothon,35-44,17,2004,Influenza
 South Region,35-44,1060,2004,Influenza
-Zone 15,35-44,237,2004,Influenza
+Zone:15,35-44,237,2004,Influenza
 Chumphon,35-44,25,2004,Influenza
 Ranong,35-44,7,2004,Influenza
 Surat Thani,35-44,205,2004,Influenza
-Zone 16,35-44,407,2004,Influenza
+Zone:16,35-44,407,2004,Influenza
 Nakhon Si Thammarat,35-44,200,2004,Influenza
 Phatthalung,35-44,34,2004,Influenza
 Trang,35-44,173,2004,Influenza
-Zone 17,35-44,133,2004,Influenza
+Zone:17,35-44,133,2004,Influenza
 Krabi,35-44,96,2004,Influenza
 Phangnga,35-44,22,2004,Influenza
 Phuket,35-44,15,2004,Influenza
-Zone 18,35-44,152,2004,Influenza
+Zone:18,35-44,152,2004,Influenza
 Narathiwat,35-44,82,2004,Influenza
 Pattani,35-44,39,2004,Influenza
 Yala,35-44,31,2004,Influenza
-Zone 19,35-44,131,2004,Influenza
+Zone:19,35-44,131,2004,Influenza
 Satun,35-44,27,2004,Influenza
 Songkhla,35-44,104,2004,Influenza
 Total,45-54,2604,2004,Influenza
 North Region,45-54,417,2004,Influenza
-Zone 1,45-54,256,2004,Influenza
+Zone:1,45-54,256,2004,Influenza
 Chiang Mai,45-54,74,2004,Influenza
 Chiang Rai,45-54,49,2004,Influenza
 Lampang,45-54,6,2004,Influenza
@@ -35808,98 +35808,98 @@ Mae Hong Son,45-54,9,2004,Influenza
 Nan,45-54,59,2004,Influenza
 Phayao,45-54,45,2004,Influenza
 Phrae,45-54,2,2004,Influenza
-Zone 2,45-54,100,2004,Influenza
+Zone:2,45-54,100,2004,Influenza
 Phetchabun,45-54,40,2004,Influenza
 Phitsanulok,45-54,16,2004,Influenza
 Sukhothai,45-54,8,2004,Influenza
 Tak,45-54,33,2004,Influenza
 Uttaradit,45-54,3,2004,Influenza
-Zone 3,45-54,61,2004,Influenza
+Zone:3,45-54,61,2004,Influenza
 Kamphaeng Phet,45-54,17,2004,Influenza
 Nakhon Sawan,45-54,24,2004,Influenza
 Phichit,45-54,2,2004,Influenza
 Uthai Thani,45-54,18,2004,Influenza
 Central Region,45-54,780,2004,Influenza
 Bangkok,45-54,82,2004,Influenza
-Zone 4,45-54,76,2004,Influenza
+Zone:4,45-54,76,2004,Influenza
 Ang Thong,45-54,5,2004,Influenza
 Nonthaburi,45-54,44,2004,Influenza
 P.Nakhon S.Ayutthaya,45-54,16,2004,Influenza
 Pathum Thani,45-54,11,2004,Influenza
-Zone 5,45-54,54,2004,Influenza
+Zone:5,45-54,54,2004,Influenza
 Chai Nat,45-54,4,2004,Influenza
 Lop Buri,45-54,9,2004,Influenza
 Saraburi,45-54,8,2004,Influenza
 Sing Buri,45-54,33,2004,Influenza
-Zone 6,45-54,177,2004,Influenza
+Zone:6,45-54,177,2004,Influenza
 Kanchanaburi,45-54,37,2004,Influenza
 Nakhon Pathom,45-54,42,2004,Influenza
 Ratchaburi,45-54,76,2004,Influenza
 Suphan Buri,45-54,22,2004,Influenza
-Zone 7,45-54,116,2004,Influenza
+Zone:7,45-54,116,2004,Influenza
 Phetchaburi,45-54,45,2004,Influenza
 Prachuap Khiri Khan,45-54,28,2004,Influenza
 Samut Sakhon,45-54,5,2004,Influenza
 Samut Songkhram,45-54,38,2004,Influenza
-Zone 8,45-54,93,2004,Influenza
+Zone:8,45-54,93,2004,Influenza
 Chachoengsao,45-54,41,2004,Influenza
 Nakhon Nayok,45-54,10,2004,Influenza
 Prachin Buri,45-54,28,2004,Influenza
 Sa Kaeo,45-54,6,2004,Influenza
 Samut Prakan,45-54,8,2004,Influenza
-Zone 9,45-54,182,2004,Influenza
+Zone:9,45-54,182,2004,Influenza
 Chanthaburi,45-54,77,2004,Influenza
 Chon Buri,45-54,53,2004,Influenza
 Rayong,45-54,40,2004,Influenza
 Trat,45-54,12,2004,Influenza
 North-Eastern Region,45-54,643,2004,Influenza
-Zone 10,45-54,81,2004,Influenza
+Zone:10,45-54,81,2004,Influenza
 Loei,45-54,10,2004,Influenza
 Nong Bua Lam Phu,45-54,7,2004,Influenza
 Nong Khai,45-54,4,2004,Influenza
 Udon Thani,45-54,60,2004,Influenza
-Zone 11,45-54,33,2004,Influenza
+Zone:11,45-54,33,2004,Influenza
 Kalasin,45-54,7,2004,Influenza
 Mukdahan,45-54,4,2004,Influenza
 Nakhon Phanom,45-54,16,2004,Influenza
 Sakon Nakhon,45-54,6,2004,Influenza
-Zone 12,45-54,93,2004,Influenza
+Zone:12,45-54,93,2004,Influenza
 Khon Kaen,45-54,26,2004,Influenza
 Maha Sarakham,45-54,43,2004,Influenza
 Roi Et,45-54,24,2004,Influenza
-Zone 13,45-54,294,2004,Influenza
+Zone:13,45-54,294,2004,Influenza
 Buri Ram,45-54,138,2004,Influenza
 Chaiyaphum,45-54,23,2004,Influenza
 Nakhon Ratchasima,45-54,32,2004,Influenza
 Surin,45-54,101,2004,Influenza
-Zone 14,45-54,142,2004,Influenza
+Zone:14,45-54,142,2004,Influenza
 Amnat Charoen,45-54,4,2004,Influenza
 Si Sa Ket,45-54,84,2004,Influenza
 Ubon Ratchathani,45-54,26,2004,Influenza
 Yasothon,45-54,28,2004,Influenza
 South Region,45-54,764,2004,Influenza
-Zone 15,45-54,171,2004,Influenza
+Zone:15,45-54,171,2004,Influenza
 Chumphon,45-54,9,2004,Influenza
 Ranong,45-54,3,2004,Influenza
 Surat Thani,45-54,159,2004,Influenza
-Zone 16,45-54,296,2004,Influenza
+Zone:16,45-54,296,2004,Influenza
 Nakhon Si Thammarat,45-54,151,2004,Influenza
 Phatthalung,45-54,45,2004,Influenza
 Trang,45-54,100,2004,Influenza
-Zone 17,45-54,84,2004,Influenza
+Zone:17,45-54,84,2004,Influenza
 Krabi,45-54,57,2004,Influenza
 Phangnga,45-54,21,2004,Influenza
 Phuket,45-54,6,2004,Influenza
-Zone 18,45-54,120,2004,Influenza
+Zone:18,45-54,120,2004,Influenza
 Narathiwat,45-54,60,2004,Influenza
 Pattani,45-54,32,2004,Influenza
 Yala,45-54,28,2004,Influenza
-Zone 19,45-54,93,2004,Influenza
+Zone:19,45-54,93,2004,Influenza
 Satun,45-54,18,2004,Influenza
 Songkhla,45-54,75,2004,Influenza
 Total,55-64,1673,2004,Influenza
 North Region,55-64,286,2004,Influenza
-Zone 1,55-64,186,2004,Influenza
+Zone:1,55-64,186,2004,Influenza
 Chiang Mai,55-64,49,2004,Influenza
 Chiang Rai,55-64,46,2004,Influenza
 Lampang,55-64,8,2004,Influenza
@@ -35908,98 +35908,98 @@ Mae Hong Son,55-64,10,2004,Influenza
 Nan,55-64,39,2004,Influenza
 Phayao,55-64,21,2004,Influenza
 Phrae,55-64,4,2004,Influenza
-Zone 2,55-64,60,2004,Influenza
+Zone:2,55-64,60,2004,Influenza
 Phetchabun,55-64,21,2004,Influenza
 Phitsanulok,55-64,6,2004,Influenza
 Sukhothai,55-64,10,2004,Influenza
 Tak,55-64,19,2004,Influenza
 Uttaradit,55-64,4,2004,Influenza
-Zone 3,55-64,40,2004,Influenza
+Zone:3,55-64,40,2004,Influenza
 Kamphaeng Phet,55-64,11,2004,Influenza
 Nakhon Sawan,55-64,15,2004,Influenza
 Phichit,55-64,0,2004,Influenza
 Uthai Thani,55-64,14,2004,Influenza
 Central Region,55-64,483,2004,Influenza
 Bangkok,55-64,44,2004,Influenza
-Zone 4,55-64,47,2004,Influenza
+Zone:4,55-64,47,2004,Influenza
 Ang Thong,55-64,6,2004,Influenza
 Nonthaburi,55-64,27,2004,Influenza
 P.Nakhon S.Ayutthaya,55-64,9,2004,Influenza
 Pathum Thani,55-64,5,2004,Influenza
-Zone 5,55-64,20,2004,Influenza
+Zone:5,55-64,20,2004,Influenza
 Chai Nat,55-64,2,2004,Influenza
 Lop Buri,55-64,4,2004,Influenza
 Saraburi,55-64,1,2004,Influenza
 Sing Buri,55-64,13,2004,Influenza
-Zone 6,55-64,118,2004,Influenza
+Zone:6,55-64,118,2004,Influenza
 Kanchanaburi,55-64,25,2004,Influenza
 Nakhon Pathom,55-64,22,2004,Influenza
 Ratchaburi,55-64,56,2004,Influenza
 Suphan Buri,55-64,15,2004,Influenza
-Zone 7,55-64,92,2004,Influenza
+Zone:7,55-64,92,2004,Influenza
 Phetchaburi,55-64,36,2004,Influenza
 Prachuap Khiri Khan,55-64,12,2004,Influenza
 Samut Sakhon,55-64,5,2004,Influenza
 Samut Songkhram,55-64,39,2004,Influenza
-Zone 8,55-64,56,2004,Influenza
+Zone:8,55-64,56,2004,Influenza
 Chachoengsao,55-64,30,2004,Influenza
 Nakhon Nayok,55-64,2,2004,Influenza
 Prachin Buri,55-64,16,2004,Influenza
 Sa Kaeo,55-64,2,2004,Influenza
 Samut Prakan,55-64,6,2004,Influenza
-Zone 9,55-64,106,2004,Influenza
+Zone:9,55-64,106,2004,Influenza
 Chanthaburi,55-64,47,2004,Influenza
 Chon Buri,55-64,32,2004,Influenza
 Rayong,55-64,23,2004,Influenza
 Trat,55-64,4,2004,Influenza
 North-Eastern Region,55-64,423,2004,Influenza
-Zone 10,55-64,61,2004,Influenza
+Zone:10,55-64,61,2004,Influenza
 Loei,55-64,9,2004,Influenza
 Nong Bua Lam Phu,55-64,10,2004,Influenza
 Nong Khai,55-64,0,2004,Influenza
 Udon Thani,55-64,42,2004,Influenza
-Zone 11,55-64,19,2004,Influenza
+Zone:11,55-64,19,2004,Influenza
 Kalasin,55-64,7,2004,Influenza
 Mukdahan,55-64,1,2004,Influenza
 Nakhon Phanom,55-64,9,2004,Influenza
 Sakon Nakhon,55-64,2,2004,Influenza
-Zone 12,55-64,70,2004,Influenza
+Zone:12,55-64,70,2004,Influenza
 Khon Kaen,55-64,16,2004,Influenza
 Maha Sarakham,55-64,40,2004,Influenza
 Roi Et,55-64,14,2004,Influenza
-Zone 13,55-64,191,2004,Influenza
+Zone:13,55-64,191,2004,Influenza
 Buri Ram,55-64,100,2004,Influenza
 Chaiyaphum,55-64,13,2004,Influenza
 Nakhon Ratchasima,55-64,23,2004,Influenza
 Surin,55-64,55,2004,Influenza
-Zone 14,55-64,82,2004,Influenza
+Zone:14,55-64,82,2004,Influenza
 Amnat Charoen,55-64,3,2004,Influenza
 Si Sa Ket,55-64,43,2004,Influenza
 Ubon Ratchathani,55-64,15,2004,Influenza
 Yasothon,55-64,21,2004,Influenza
 South Region,55-64,481,2004,Influenza
-Zone 15,55-64,95,2004,Influenza
+Zone:15,55-64,95,2004,Influenza
 Chumphon,55-64,5,2004,Influenza
 Ranong,55-64,1,2004,Influenza
 Surat Thani,55-64,89,2004,Influenza
-Zone 16,55-64,219,2004,Influenza
+Zone:16,55-64,219,2004,Influenza
 Nakhon Si Thammarat,55-64,120,2004,Influenza
 Phatthalung,55-64,21,2004,Influenza
 Trang,55-64,78,2004,Influenza
-Zone 17,55-64,44,2004,Influenza
+Zone:17,55-64,44,2004,Influenza
 Krabi,55-64,33,2004,Influenza
 Phangnga,55-64,9,2004,Influenza
 Phuket,55-64,2,2004,Influenza
-Zone 18,55-64,79,2004,Influenza
+Zone:18,55-64,79,2004,Influenza
 Narathiwat,55-64,42,2004,Influenza
 Pattani,55-64,18,2004,Influenza
 Yala,55-64,19,2004,Influenza
-Zone 19,55-64,44,2004,Influenza
+Zone:19,55-64,44,2004,Influenza
 Satun,55-64,10,2004,Influenza
 Songkhla,55-64,34,2004,Influenza
 Total,65+,1771,2004,Influenza
 North Region,65+,309,2004,Influenza
-Zone 1,65+,213,2004,Influenza
+Zone:1,65+,213,2004,Influenza
 Chiang Mai,65+,57,2004,Influenza
 Chiang Rai,65+,39,2004,Influenza
 Lampang,65+,7,2004,Influenza
@@ -36008,98 +36008,98 @@ Mae Hong Son,65+,8,2004,Influenza
 Nan,65+,72,2004,Influenza
 Phayao,65+,17,2004,Influenza
 Phrae,65+,1,2004,Influenza
-Zone 2,65+,50,2004,Influenza
+Zone:2,65+,50,2004,Influenza
 Phetchabun,65+,25,2004,Influenza
 Phitsanulok,65+,7,2004,Influenza
 Sukhothai,65+,7,2004,Influenza
 Tak,65+,11,2004,Influenza
 Uttaradit,65+,0,2004,Influenza
-Zone 3,65+,46,2004,Influenza
+Zone:3,65+,46,2004,Influenza
 Kamphaeng Phet,65+,7,2004,Influenza
 Nakhon Sawan,65+,22,2004,Influenza
 Phichit,65+,5,2004,Influenza
 Uthai Thani,65+,12,2004,Influenza
 Central Region,65+,502,2004,Influenza
 Bangkok,65+,35,2004,Influenza
-Zone 4,65+,42,2004,Influenza
+Zone:4,65+,42,2004,Influenza
 Ang Thong,65+,5,2004,Influenza
 Nonthaburi,65+,27,2004,Influenza
 P.Nakhon S.Ayutthaya,65+,5,2004,Influenza
 Pathum Thani,65+,5,2004,Influenza
-Zone 5,65+,21,2004,Influenza
+Zone:5,65+,21,2004,Influenza
 Chai Nat,65+,2,2004,Influenza
 Lop Buri,65+,3,2004,Influenza
 Saraburi,65+,2,2004,Influenza
 Sing Buri,65+,14,2004,Influenza
-Zone 6,65+,139,2004,Influenza
+Zone:6,65+,139,2004,Influenza
 Kanchanaburi,65+,45,2004,Influenza
 Nakhon Pathom,65+,31,2004,Influenza
 Ratchaburi,65+,47,2004,Influenza
 Suphan Buri,65+,16,2004,Influenza
-Zone 7,65+,95,2004,Influenza
+Zone:7,65+,95,2004,Influenza
 Phetchaburi,65+,52,2004,Influenza
 Prachuap Khiri Khan,65+,7,2004,Influenza
 Samut Sakhon,65+,2,2004,Influenza
 Samut Songkhram,65+,34,2004,Influenza
-Zone 8,65+,45,2004,Influenza
+Zone:8,65+,45,2004,Influenza
 Chachoengsao,65+,22,2004,Influenza
 Nakhon Nayok,65+,3,2004,Influenza
 Prachin Buri,65+,15,2004,Influenza
 Sa Kaeo,65+,3,2004,Influenza
 Samut Prakan,65+,2,2004,Influenza
-Zone 9,65+,125,2004,Influenza
+Zone:9,65+,125,2004,Influenza
 Chanthaburi,65+,68,2004,Influenza
 Chon Buri,65+,31,2004,Influenza
 Rayong,65+,12,2004,Influenza
 Trat,65+,14,2004,Influenza
 North-Eastern Region,65+,421,2004,Influenza
-Zone 10,65+,58,2004,Influenza
+Zone:10,65+,58,2004,Influenza
 Loei,65+,6,2004,Influenza
 Nong Bua Lam Phu,65+,9,2004,Influenza
 Nong Khai,65+,2,2004,Influenza
 Udon Thani,65+,41,2004,Influenza
-Zone 11,65+,20,2004,Influenza
+Zone:11,65+,20,2004,Influenza
 Kalasin,65+,7,2004,Influenza
 Mukdahan,65+,1,2004,Influenza
 Nakhon Phanom,65+,8,2004,Influenza
 Sakon Nakhon,65+,4,2004,Influenza
-Zone 12,65+,62,2004,Influenza
+Zone:12,65+,62,2004,Influenza
 Khon Kaen,65+,25,2004,Influenza
 Maha Sarakham,65+,21,2004,Influenza
 Roi Et,65+,16,2004,Influenza
-Zone 13,65+,209,2004,Influenza
+Zone:13,65+,209,2004,Influenza
 Buri Ram,65+,97,2004,Influenza
 Chaiyaphum,65+,19,2004,Influenza
 Nakhon Ratchasima,65+,23,2004,Influenza
 Surin,65+,70,2004,Influenza
-Zone 14,65+,72,2004,Influenza
+Zone:14,65+,72,2004,Influenza
 Amnat Charoen,65+,4,2004,Influenza
 Si Sa Ket,65+,34,2004,Influenza
 Ubon Ratchathani,65+,16,2004,Influenza
 Yasothon,65+,18,2004,Influenza
 South Region,65+,539,2004,Influenza
-Zone 15,65+,134,2004,Influenza
+Zone:15,65+,134,2004,Influenza
 Chumphon,65+,4,2004,Influenza
 Ranong,65+,0,2004,Influenza
 Surat Thani,65+,130,2004,Influenza
-Zone 16,65+,205,2004,Influenza
+Zone:16,65+,205,2004,Influenza
 Nakhon Si Thammarat,65+,102,2004,Influenza
 Phatthalung,65+,18,2004,Influenza
 Trang,65+,85,2004,Influenza
-Zone 17,65+,61,2004,Influenza
+Zone:17,65+,61,2004,Influenza
 Krabi,65+,41,2004,Influenza
 Phangnga,65+,19,2004,Influenza
 Phuket,65+,1,2004,Influenza
-Zone 18,65+,85,2004,Influenza
+Zone:18,65+,85,2004,Influenza
 Narathiwat,65+,51,2004,Influenza
 Pattani,65+,24,2004,Influenza
 Yala,65+,10,2004,Influenza
-Zone 19,65+,54,2004,Influenza
+Zone:19,65+,54,2004,Influenza
 Satun,65+,8,2004,Influenza
 Songkhla,65+,46,2004,Influenza
 Total,Unknown,17,2004,Influenza
 North Region,Unknown,6,2004,Influenza
-Zone 1,Unknown,3,2004,Influenza
+Zone:1,Unknown,3,2004,Influenza
 Chiang Mai,Unknown,1,2004,Influenza
 Chiang Rai,Unknown,2,2004,Influenza
 Lampang,Unknown,0,2004,Influenza
@@ -36108,92 +36108,92 @@ Mae Hong Son,Unknown,0,2004,Influenza
 Nan,Unknown,0,2004,Influenza
 Phayao,Unknown,0,2004,Influenza
 Phrae,Unknown,0,2004,Influenza
-Zone 2,Unknown,3,2004,Influenza
+Zone:2,Unknown,3,2004,Influenza
 Phetchabun,Unknown,3,2004,Influenza
 Phitsanulok,Unknown,0,2004,Influenza
 Sukhothai,Unknown,0,2004,Influenza
 Tak,Unknown,0,2004,Influenza
 Uttaradit,Unknown,0,2004,Influenza
-Zone 3,Unknown,0,2004,Influenza
+Zone:3,Unknown,0,2004,Influenza
 Kamphaeng Phet,Unknown,0,2004,Influenza
 Nakhon Sawan,Unknown,0,2004,Influenza
 Phichit,Unknown,0,2004,Influenza
 Uthai Thani,Unknown,0,2004,Influenza
 Central Region,Unknown,8,2004,Influenza
 Bangkok,Unknown,7,2004,Influenza
-Zone 4,Unknown,0,2004,Influenza
+Zone:4,Unknown,0,2004,Influenza
 Ang Thong,Unknown,0,2004,Influenza
 Nonthaburi,Unknown,0,2004,Influenza
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Influenza
 Pathum Thani,Unknown,0,2004,Influenza
-Zone 5,Unknown,0,2004,Influenza
+Zone:5,Unknown,0,2004,Influenza
 Chai Nat,Unknown,0,2004,Influenza
 Lop Buri,Unknown,0,2004,Influenza
 Saraburi,Unknown,0,2004,Influenza
 Sing Buri,Unknown,0,2004,Influenza
-Zone 6,Unknown,0,2004,Influenza
+Zone:6,Unknown,0,2004,Influenza
 Kanchanaburi,Unknown,0,2004,Influenza
 Nakhon Pathom,Unknown,0,2004,Influenza
 Ratchaburi,Unknown,0,2004,Influenza
 Suphan Buri,Unknown,0,2004,Influenza
-Zone 7,Unknown,0,2004,Influenza
+Zone:7,Unknown,0,2004,Influenza
 Phetchaburi,Unknown,0,2004,Influenza
 Prachuap Khiri Khan,Unknown,0,2004,Influenza
 Samut Sakhon,Unknown,0,2004,Influenza
 Samut Songkhram,Unknown,0,2004,Influenza
-Zone 8,Unknown,1,2004,Influenza
+Zone:8,Unknown,1,2004,Influenza
 Chachoengsao,Unknown,0,2004,Influenza
 Nakhon Nayok,Unknown,0,2004,Influenza
 Prachin Buri,Unknown,0,2004,Influenza
 Sa Kaeo,Unknown,0,2004,Influenza
 Samut Prakan,Unknown,1,2004,Influenza
-Zone 9,Unknown,0,2004,Influenza
+Zone:9,Unknown,0,2004,Influenza
 Chanthaburi,Unknown,0,2004,Influenza
 Chon Buri,Unknown,0,2004,Influenza
 Rayong,Unknown,0,2004,Influenza
 Trat,Unknown,0,2004,Influenza
 North-Eastern Region,Unknown,3,2004,Influenza
-Zone 10,Unknown,0,2004,Influenza
+Zone:10,Unknown,0,2004,Influenza
 Loei,Unknown,0,2004,Influenza
 Nong Bua Lam Phu,Unknown,0,2004,Influenza
 Nong Khai,Unknown,0,2004,Influenza
 Udon Thani,Unknown,0,2004,Influenza
-Zone 11,Unknown,0,2004,Influenza
+Zone:11,Unknown,0,2004,Influenza
 Kalasin,Unknown,0,2004,Influenza
 Mukdahan,Unknown,0,2004,Influenza
 Nakhon Phanom,Unknown,0,2004,Influenza
 Sakon Nakhon,Unknown,0,2004,Influenza
-Zone 12,Unknown,0,2004,Influenza
+Zone:12,Unknown,0,2004,Influenza
 Khon Kaen,Unknown,0,2004,Influenza
 Maha Sarakham,Unknown,0,2004,Influenza
 Roi Et,Unknown,0,2004,Influenza
-Zone 13,Unknown,3,2004,Influenza
+Zone:13,Unknown,3,2004,Influenza
 Buri Ram,Unknown,0,2004,Influenza
 Chaiyaphum,Unknown,0,2004,Influenza
 Nakhon Ratchasima,Unknown,0,2004,Influenza
 Surin,Unknown,3,2004,Influenza
-Zone 14,Unknown,0,2004,Influenza
+Zone:14,Unknown,0,2004,Influenza
 Amnat Charoen,Unknown,0,2004,Influenza
 Si Sa Ket,Unknown,0,2004,Influenza
 Ubon Ratchathani,Unknown,0,2004,Influenza
 Yasothon,Unknown,0,2004,Influenza
 South Region,Unknown,0,2004,Influenza
-Zone 15,Unknown,0,2004,Influenza
+Zone:15,Unknown,0,2004,Influenza
 Chumphon,Unknown,0,2004,Influenza
 Ranong,Unknown,0,2004,Influenza
 Surat Thani,Unknown,0,2004,Influenza
-Zone 16,Unknown,0,2004,Influenza
+Zone:16,Unknown,0,2004,Influenza
 Nakhon Si Thammarat,Unknown,0,2004,Influenza
 Phatthalung,Unknown,0,2004,Influenza
 Trang,Unknown,0,2004,Influenza
-Zone 17,Unknown,0,2004,Influenza
+Zone:17,Unknown,0,2004,Influenza
 Krabi,Unknown,0,2004,Influenza
 Phangnga,Unknown,0,2004,Influenza
 Phuket,Unknown,0,2004,Influenza
-Zone 18,Unknown,0,2004,Influenza
+Zone:18,Unknown,0,2004,Influenza
 Narathiwat,Unknown,0,2004,Influenza
 Pattani,Unknown,0,2004,Influenza
 Yala,Unknown,0,2004,Influenza
-Zone 19,Unknown,0,2004,Influenza
+Zone:19,Unknown,0,2004,Influenza
 Satun,Unknown,0,2004,Influenza
 Songkhla,Unknown,0,2004,Influenza

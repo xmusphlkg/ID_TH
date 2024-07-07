@@ -22267,7 +22267,7 @@ Phichit,Unknown,0,2009,Chickenpox
 Uthai Thani,Unknown,0,2009,Chickenpox
 Total,Total,42530,2003,Chickenpox
 North Region,Total,10248,2003,Chickenpox
-Zone 1,Total,5349,2003,Chickenpox
+Zone:1,Total,5349,2003,Chickenpox
 Chiang Mai,Total,1252,2003,Chickenpox
 Chiang Rai,Total,1148,2003,Chickenpox
 Lampang,Total,1074,2003,Chickenpox
@@ -22276,98 +22276,98 @@ Mae Hong Son,Total,265,2003,Chickenpox
 Nan,Total,491,2003,Chickenpox
 Phayao,Total,393,2003,Chickenpox
 Phrae,Total,267,2003,Chickenpox
-Zone 2,Total,2255,2003,Chickenpox
+Zone:2,Total,2255,2003,Chickenpox
 Phetchabun,Total,573,2003,Chickenpox
 Phitsanulok,Total,628,2003,Chickenpox
 Sukhothai,Total,410,2003,Chickenpox
 Tak,Total,399,2003,Chickenpox
 Uttaradit,Total,245,2003,Chickenpox
-Zone 3,Total,2644,2003,Chickenpox
+Zone:3,Total,2644,2003,Chickenpox
 Kamphaeng Phet,Total,769,2003,Chickenpox
 Nakhon Sawan,Total,930,2003,Chickenpox
 Phichit,Total,443,2003,Chickenpox
 Uthai Thani,Total,502,2003,Chickenpox
 Central Region,Total,12844,2003,Chickenpox
 Bangkok,Total,2096,2003,Chickenpox
-Zone 4,Total,1804,2003,Chickenpox
+Zone:4,Total,1804,2003,Chickenpox
 Ang Thong,Total,256,2003,Chickenpox
 Nonthaburi,Total,380,2003,Chickenpox
 P.Nakhon S.Ayutthaya,Total,700,2003,Chickenpox
 Pathum Thani,Total,468,2003,Chickenpox
-Zone 5,Total,1346,2003,Chickenpox
+Zone:5,Total,1346,2003,Chickenpox
 Chai Nat,Total,149,2003,Chickenpox
 Lop Buri,Total,588,2003,Chickenpox
 Saraburi,Total,503,2003,Chickenpox
 Sing Buri,Total,106,2003,Chickenpox
-Zone 6,Total,2227,2003,Chickenpox
+Zone:6,Total,2227,2003,Chickenpox
 Kanchanaburi,Total,467,2003,Chickenpox
 Nakhon Pathom,Total,675,2003,Chickenpox
 Ratchaburi,Total,553,2003,Chickenpox
 Suphan Buri,Total,532,2003,Chickenpox
-Zone 7,Total,858,2003,Chickenpox
+Zone:7,Total,858,2003,Chickenpox
 Phetchaburi,Total,161,2003,Chickenpox
 Prachuap Khiri Khan,Total,238,2003,Chickenpox
 Samut Sakhon,Total,282,2003,Chickenpox
 Samut Songkhram,Total,177,2003,Chickenpox
-Zone 8,Total,2321,2003,Chickenpox
+Zone:8,Total,2321,2003,Chickenpox
 Chachoengsao,Total,694,2003,Chickenpox
 Nakhon Nayok,Total,109,2003,Chickenpox
 Prachin Buri,Total,366,2003,Chickenpox
 Sa Kaeo,Total,308,2003,Chickenpox
 Samut Prakan,Total,844,2003,Chickenpox
-Zone 9,Total,2192,2003,Chickenpox
+Zone:9,Total,2192,2003,Chickenpox
 Chanthaburi,Total,563,2003,Chickenpox
 Chon Buri,Total,615,2003,Chickenpox
 Rayong,Total,720,2003,Chickenpox
 Trat,Total,294,2003,Chickenpox
 North-Eastern Region,Total,11683,2003,Chickenpox
-Zone 10,Total,1675,2003,Chickenpox
+Zone:10,Total,1675,2003,Chickenpox
 Loei,Total,457,2003,Chickenpox
 Nong Bua Lam Phu,Total,395,2003,Chickenpox
 Nong Khai,Total,231,2003,Chickenpox
 Udon Thani,Total,592,2003,Chickenpox
-Zone 11,Total,1393,2003,Chickenpox
+Zone:11,Total,1393,2003,Chickenpox
 Kalasin,Total,596,2003,Chickenpox
 Mukdahan,Total,197,2003,Chickenpox
 Nakhon Phanom,Total,221,2003,Chickenpox
 Sakon Nakhon,Total,379,2003,Chickenpox
-Zone 12,Total,2253,2003,Chickenpox
+Zone:12,Total,2253,2003,Chickenpox
 Khon Kaen,Total,959,2003,Chickenpox
 Maha Sarakham,Total,536,2003,Chickenpox
 Roi Et,Total,758,2003,Chickenpox
-Zone 13,Total,4881,2003,Chickenpox
+Zone:13,Total,4881,2003,Chickenpox
 Buri Ram,Total,935,2003,Chickenpox
 Chaiyaphum,Total,743,2003,Chickenpox
 Nakhon Ratchasima,Total,2581,2003,Chickenpox
 Surin,Total,622,2003,Chickenpox
-Zone 14,Total,1481,2003,Chickenpox
+Zone:14,Total,1481,2003,Chickenpox
 Amnat Charoen,Total,187,2003,Chickenpox
 Si Sa Ket,Total,543,2003,Chickenpox
 Ubon Ratchathani,Total,462,2003,Chickenpox
 Yasothon,Total,289,2003,Chickenpox
 South Region,Total,7755,2003,Chickenpox
-Zone 15,Total,1249,2003,Chickenpox
+Zone:15,Total,1249,2003,Chickenpox
 Chumphon,Total,252,2003,Chickenpox
 Ranong,Total,188,2003,Chickenpox
 Surat Thani,Total,809,2003,Chickenpox
-Zone 16,Total,1962,2003,Chickenpox
+Zone:16,Total,1962,2003,Chickenpox
 Nakhon Si Thammarat,Total,749,2003,Chickenpox
 Phatthalung,Total,461,2003,Chickenpox
 Trang,Total,752,2003,Chickenpox
-Zone 17,Total,1467,2003,Chickenpox
+Zone:17,Total,1467,2003,Chickenpox
 Krabi,Total,356,2003,Chickenpox
 Phangnga,Total,237,2003,Chickenpox
 Phuket,Total,874,2003,Chickenpox
-Zone 18,Total,2046,2003,Chickenpox
+Zone:18,Total,2046,2003,Chickenpox
 Narathiwat,Total,773,2003,Chickenpox
 Pattani,Total,648,2003,Chickenpox
 Yala,Total,625,2003,Chickenpox
-Zone 19,Total,1031,2003,Chickenpox
+Zone:19,Total,1031,2003,Chickenpox
 Satun,Total,217,2003,Chickenpox
 Songkhla,Total,814,2003,Chickenpox
 Total,0,54,2003,Chickenpox
 North Region,0,10,2003,Chickenpox
-Zone 1,0,8,2003,Chickenpox
+Zone:1,0,8,2003,Chickenpox
 Chiang Mai,0,1,2003,Chickenpox
 Chiang Rai,0,1,2003,Chickenpox
 Lampang,0,0,2003,Chickenpox
@@ -22376,98 +22376,98 @@ Mae Hong Son,0,0,2003,Chickenpox
 Nan,0,2,2003,Chickenpox
 Phayao,0,2,2003,Chickenpox
 Phrae,0,0,2003,Chickenpox
-Zone 2,0,1,2003,Chickenpox
+Zone:2,0,1,2003,Chickenpox
 Phetchabun,0,0,2003,Chickenpox
 Phitsanulok,0,1,2003,Chickenpox
 Sukhothai,0,0,2003,Chickenpox
 Tak,0,0,2003,Chickenpox
 Uttaradit,0,0,2003,Chickenpox
-Zone 3,0,1,2003,Chickenpox
+Zone:3,0,1,2003,Chickenpox
 Kamphaeng Phet,0,1,2003,Chickenpox
 Nakhon Sawan,0,0,2003,Chickenpox
 Phichit,0,0,2003,Chickenpox
 Uthai Thani,0,0,2003,Chickenpox
 Central Region,0,26,2003,Chickenpox
 Bangkok,0,13,2003,Chickenpox
-Zone 4,0,0,2003,Chickenpox
+Zone:4,0,0,2003,Chickenpox
 Ang Thong,0,0,2003,Chickenpox
 Nonthaburi,0,0,2003,Chickenpox
 P.Nakhon S.Ayutthaya,0,0,2003,Chickenpox
 Pathum Thani,0,0,2003,Chickenpox
-Zone 5,0,1,2003,Chickenpox
+Zone:5,0,1,2003,Chickenpox
 Chai Nat,0,0,2003,Chickenpox
 Lop Buri,0,1,2003,Chickenpox
 Saraburi,0,0,2003,Chickenpox
 Sing Buri,0,0,2003,Chickenpox
-Zone 6,0,5,2003,Chickenpox
+Zone:6,0,5,2003,Chickenpox
 Kanchanaburi,0,0,2003,Chickenpox
 Nakhon Pathom,0,1,2003,Chickenpox
 Ratchaburi,0,3,2003,Chickenpox
 Suphan Buri,0,1,2003,Chickenpox
-Zone 7,0,0,2003,Chickenpox
+Zone:7,0,0,2003,Chickenpox
 Phetchaburi,0,0,2003,Chickenpox
 Prachuap Khiri Khan,0,0,2003,Chickenpox
 Samut Sakhon,0,0,2003,Chickenpox
 Samut Songkhram,0,0,2003,Chickenpox
-Zone 8,0,3,2003,Chickenpox
+Zone:8,0,3,2003,Chickenpox
 Chachoengsao,0,0,2003,Chickenpox
 Nakhon Nayok,0,0,2003,Chickenpox
 Prachin Buri,0,0,2003,Chickenpox
 Sa Kaeo,0,1,2003,Chickenpox
 Samut Prakan,0,2,2003,Chickenpox
-Zone 9,0,4,2003,Chickenpox
+Zone:9,0,4,2003,Chickenpox
 Chanthaburi,0,0,2003,Chickenpox
 Chon Buri,0,2,2003,Chickenpox
 Rayong,0,2,2003,Chickenpox
 Trat,0,0,2003,Chickenpox
 North-Eastern Region,0,9,2003,Chickenpox
-Zone 10,0,2,2003,Chickenpox
+Zone:10,0,2,2003,Chickenpox
 Loei,0,0,2003,Chickenpox
 Nong Bua Lam Phu,0,0,2003,Chickenpox
 Nong Khai,0,0,2003,Chickenpox
 Udon Thani,0,2,2003,Chickenpox
-Zone 11,0,1,2003,Chickenpox
+Zone:11,0,1,2003,Chickenpox
 Kalasin,0,1,2003,Chickenpox
 Mukdahan,0,0,2003,Chickenpox
 Nakhon Phanom,0,0,2003,Chickenpox
 Sakon Nakhon,0,0,2003,Chickenpox
-Zone 12,0,0,2003,Chickenpox
+Zone:12,0,0,2003,Chickenpox
 Khon Kaen,0,0,2003,Chickenpox
 Maha Sarakham,0,0,2003,Chickenpox
 Roi Et,0,0,2003,Chickenpox
-Zone 13,0,3,2003,Chickenpox
+Zone:13,0,3,2003,Chickenpox
 Buri Ram,0,0,2003,Chickenpox
 Chaiyaphum,0,1,2003,Chickenpox
 Nakhon Ratchasima,0,2,2003,Chickenpox
 Surin,0,0,2003,Chickenpox
-Zone 14,0,3,2003,Chickenpox
+Zone:14,0,3,2003,Chickenpox
 Amnat Charoen,0,0,2003,Chickenpox
 Si Sa Ket,0,2,2003,Chickenpox
 Ubon Ratchathani,0,1,2003,Chickenpox
 Yasothon,0,0,2003,Chickenpox
 South Region,0,9,2003,Chickenpox
-Zone 15,0,2,2003,Chickenpox
+Zone:15,0,2,2003,Chickenpox
 Chumphon,0,1,2003,Chickenpox
 Ranong,0,0,2003,Chickenpox
 Surat Thani,0,1,2003,Chickenpox
-Zone 16,0,4,2003,Chickenpox
+Zone:16,0,4,2003,Chickenpox
 Nakhon Si Thammarat,0,2,2003,Chickenpox
 Phatthalung,0,1,2003,Chickenpox
 Trang,0,1,2003,Chickenpox
-Zone 17,0,1,2003,Chickenpox
+Zone:17,0,1,2003,Chickenpox
 Krabi,0,0,2003,Chickenpox
 Phangnga,0,0,2003,Chickenpox
 Phuket,0,1,2003,Chickenpox
-Zone 18,0,2,2003,Chickenpox
+Zone:18,0,2,2003,Chickenpox
 Narathiwat,0,0,2003,Chickenpox
 Pattani,0,0,2003,Chickenpox
 Yala,0,2,2003,Chickenpox
-Zone 19,0,0,2003,Chickenpox
+Zone:19,0,0,2003,Chickenpox
 Satun,0,0,2003,Chickenpox
 Songkhla,0,0,2003,Chickenpox
 Total,<1,966,2003,Chickenpox
 North Region,<1,248,2003,Chickenpox
-Zone 1,<1,137,2003,Chickenpox
+Zone:1,<1,137,2003,Chickenpox
 Chiang Mai,<1,23,2003,Chickenpox
 Chiang Rai,<1,27,2003,Chickenpox
 Lampang,<1,28,2003,Chickenpox
@@ -22476,98 +22476,98 @@ Mae Hong Son,<1,10,2003,Chickenpox
 Nan,<1,21,2003,Chickenpox
 Phayao,<1,9,2003,Chickenpox
 Phrae,<1,5,2003,Chickenpox
-Zone 2,<1,57,2003,Chickenpox
+Zone:2,<1,57,2003,Chickenpox
 Phetchabun,<1,14,2003,Chickenpox
 Phitsanulok,<1,12,2003,Chickenpox
 Sukhothai,<1,13,2003,Chickenpox
 Tak,<1,8,2003,Chickenpox
 Uttaradit,<1,10,2003,Chickenpox
-Zone 3,<1,54,2003,Chickenpox
+Zone:3,<1,54,2003,Chickenpox
 Kamphaeng Phet,<1,18,2003,Chickenpox
 Nakhon Sawan,<1,26,2003,Chickenpox
 Phichit,<1,2,2003,Chickenpox
 Uthai Thani,<1,8,2003,Chickenpox
 Central Region,<1,298,2003,Chickenpox
 Bangkok,<1,87,2003,Chickenpox
-Zone 4,<1,40,2003,Chickenpox
+Zone:4,<1,40,2003,Chickenpox
 Ang Thong,<1,1,2003,Chickenpox
 Nonthaburi,<1,8,2003,Chickenpox
 P.Nakhon S.Ayutthaya,<1,9,2003,Chickenpox
 Pathum Thani,<1,22,2003,Chickenpox
-Zone 5,<1,24,2003,Chickenpox
+Zone:5,<1,24,2003,Chickenpox
 Chai Nat,<1,2,2003,Chickenpox
 Lop Buri,<1,6,2003,Chickenpox
 Saraburi,<1,15,2003,Chickenpox
 Sing Buri,<1,1,2003,Chickenpox
-Zone 6,<1,39,2003,Chickenpox
+Zone:6,<1,39,2003,Chickenpox
 Kanchanaburi,<1,10,2003,Chickenpox
 Nakhon Pathom,<1,16,2003,Chickenpox
 Ratchaburi,<1,12,2003,Chickenpox
 Suphan Buri,<1,1,2003,Chickenpox
-Zone 7,<1,13,2003,Chickenpox
+Zone:7,<1,13,2003,Chickenpox
 Phetchaburi,<1,3,2003,Chickenpox
 Prachuap Khiri Khan,<1,3,2003,Chickenpox
 Samut Sakhon,<1,4,2003,Chickenpox
 Samut Songkhram,<1,3,2003,Chickenpox
-Zone 8,<1,44,2003,Chickenpox
+Zone:8,<1,44,2003,Chickenpox
 Chachoengsao,<1,9,2003,Chickenpox
 Nakhon Nayok,<1,0,2003,Chickenpox
 Prachin Buri,<1,8,2003,Chickenpox
 Sa Kaeo,<1,9,2003,Chickenpox
 Samut Prakan,<1,18,2003,Chickenpox
-Zone 9,<1,51,2003,Chickenpox
+Zone:9,<1,51,2003,Chickenpox
 Chanthaburi,<1,12,2003,Chickenpox
 Chon Buri,<1,17,2003,Chickenpox
 Rayong,<1,16,2003,Chickenpox
 Trat,<1,6,2003,Chickenpox
 North-Eastern Region,<1,239,2003,Chickenpox
-Zone 10,<1,38,2003,Chickenpox
+Zone:10,<1,38,2003,Chickenpox
 Loei,<1,13,2003,Chickenpox
 Nong Bua Lam Phu,<1,8,2003,Chickenpox
 Nong Khai,<1,3,2003,Chickenpox
 Udon Thani,<1,14,2003,Chickenpox
-Zone 11,<1,25,2003,Chickenpox
+Zone:11,<1,25,2003,Chickenpox
 Kalasin,<1,9,2003,Chickenpox
 Mukdahan,<1,5,2003,Chickenpox
 Nakhon Phanom,<1,6,2003,Chickenpox
 Sakon Nakhon,<1,5,2003,Chickenpox
-Zone 12,<1,49,2003,Chickenpox
+Zone:12,<1,49,2003,Chickenpox
 Khon Kaen,<1,20,2003,Chickenpox
 Maha Sarakham,<1,12,2003,Chickenpox
 Roi Et,<1,17,2003,Chickenpox
-Zone 13,<1,90,2003,Chickenpox
+Zone:13,<1,90,2003,Chickenpox
 Buri Ram,<1,17,2003,Chickenpox
 Chaiyaphum,<1,14,2003,Chickenpox
 Nakhon Ratchasima,<1,42,2003,Chickenpox
 Surin,<1,17,2003,Chickenpox
-Zone 14,<1,37,2003,Chickenpox
+Zone:14,<1,37,2003,Chickenpox
 Amnat Charoen,<1,3,2003,Chickenpox
 Si Sa Ket,<1,11,2003,Chickenpox
 Ubon Ratchathani,<1,19,2003,Chickenpox
 Yasothon,<1,4,2003,Chickenpox
 South Region,<1,181,2003,Chickenpox
-Zone 15,<1,37,2003,Chickenpox
+Zone:15,<1,37,2003,Chickenpox
 Chumphon,<1,10,2003,Chickenpox
 Ranong,<1,4,2003,Chickenpox
 Surat Thani,<1,23,2003,Chickenpox
-Zone 16,<1,46,2003,Chickenpox
+Zone:16,<1,46,2003,Chickenpox
 Nakhon Si Thammarat,<1,19,2003,Chickenpox
 Phatthalung,<1,6,2003,Chickenpox
 Trang,<1,21,2003,Chickenpox
-Zone 17,<1,25,2003,Chickenpox
+Zone:17,<1,25,2003,Chickenpox
 Krabi,<1,7,2003,Chickenpox
 Phangnga,<1,4,2003,Chickenpox
 Phuket,<1,14,2003,Chickenpox
-Zone 18,<1,53,2003,Chickenpox
+Zone:18,<1,53,2003,Chickenpox
 Narathiwat,<1,20,2003,Chickenpox
 Pattani,<1,14,2003,Chickenpox
 Yala,<1,19,2003,Chickenpox
-Zone 19,<1,20,2003,Chickenpox
+Zone:19,<1,20,2003,Chickenpox
 Satun,<1,4,2003,Chickenpox
 Songkhla,<1,16,2003,Chickenpox
 Total,1-1,1556,2003,Chickenpox
 North Region,1-1,388,2003,Chickenpox
-Zone 1,1-1,221,2003,Chickenpox
+Zone:1,1-1,221,2003,Chickenpox
 Chiang Mai,1-1,43,2003,Chickenpox
 Chiang Rai,1-1,63,2003,Chickenpox
 Lampang,1-1,32,2003,Chickenpox
@@ -22576,98 +22576,98 @@ Mae Hong Son,1-1,15,2003,Chickenpox
 Nan,1-1,22,2003,Chickenpox
 Phayao,1-1,18,2003,Chickenpox
 Phrae,1-1,6,2003,Chickenpox
-Zone 2,1-1,86,2003,Chickenpox
+Zone:2,1-1,86,2003,Chickenpox
 Phetchabun,1-1,22,2003,Chickenpox
 Phitsanulok,1-1,23,2003,Chickenpox
 Sukhothai,1-1,19,2003,Chickenpox
 Tak,1-1,21,2003,Chickenpox
 Uttaradit,1-1,1,2003,Chickenpox
-Zone 3,1-1,81,2003,Chickenpox
+Zone:3,1-1,81,2003,Chickenpox
 Kamphaeng Phet,1-1,28,2003,Chickenpox
 Nakhon Sawan,1-1,27,2003,Chickenpox
 Phichit,1-1,16,2003,Chickenpox
 Uthai Thani,1-1,10,2003,Chickenpox
 Central Region,1-1,443,2003,Chickenpox
 Bangkok,1-1,103,2003,Chickenpox
-Zone 4,1-1,55,2003,Chickenpox
+Zone:4,1-1,55,2003,Chickenpox
 Ang Thong,1-1,3,2003,Chickenpox
 Nonthaburi,1-1,12,2003,Chickenpox
 P.Nakhon S.Ayutthaya,1-1,27,2003,Chickenpox
 Pathum Thani,1-1,13,2003,Chickenpox
-Zone 5,1-1,32,2003,Chickenpox
+Zone:5,1-1,32,2003,Chickenpox
 Chai Nat,1-1,3,2003,Chickenpox
 Lop Buri,1-1,16,2003,Chickenpox
 Saraburi,1-1,12,2003,Chickenpox
 Sing Buri,1-1,1,2003,Chickenpox
-Zone 6,1-1,89,2003,Chickenpox
+Zone:6,1-1,89,2003,Chickenpox
 Kanchanaburi,1-1,22,2003,Chickenpox
 Nakhon Pathom,1-1,15,2003,Chickenpox
 Ratchaburi,1-1,22,2003,Chickenpox
 Suphan Buri,1-1,30,2003,Chickenpox
-Zone 7,1-1,24,2003,Chickenpox
+Zone:7,1-1,24,2003,Chickenpox
 Phetchaburi,1-1,4,2003,Chickenpox
 Prachuap Khiri Khan,1-1,8,2003,Chickenpox
 Samut Sakhon,1-1,7,2003,Chickenpox
 Samut Songkhram,1-1,5,2003,Chickenpox
-Zone 8,1-1,77,2003,Chickenpox
+Zone:8,1-1,77,2003,Chickenpox
 Chachoengsao,1-1,25,2003,Chickenpox
 Nakhon Nayok,1-1,3,2003,Chickenpox
 Prachin Buri,1-1,10,2003,Chickenpox
 Sa Kaeo,1-1,14,2003,Chickenpox
 Samut Prakan,1-1,25,2003,Chickenpox
-Zone 9,1-1,63,2003,Chickenpox
+Zone:9,1-1,63,2003,Chickenpox
 Chanthaburi,1-1,19,2003,Chickenpox
 Chon Buri,1-1,15,2003,Chickenpox
 Rayong,1-1,22,2003,Chickenpox
 Trat,1-1,7,2003,Chickenpox
 North-Eastern Region,1-1,459,2003,Chickenpox
-Zone 10,1-1,71,2003,Chickenpox
+Zone:10,1-1,71,2003,Chickenpox
 Loei,1-1,14,2003,Chickenpox
 Nong Bua Lam Phu,1-1,19,2003,Chickenpox
 Nong Khai,1-1,9,2003,Chickenpox
 Udon Thani,1-1,29,2003,Chickenpox
-Zone 11,1-1,64,2003,Chickenpox
+Zone:11,1-1,64,2003,Chickenpox
 Kalasin,1-1,19,2003,Chickenpox
 Mukdahan,1-1,10,2003,Chickenpox
 Nakhon Phanom,1-1,13,2003,Chickenpox
 Sakon Nakhon,1-1,22,2003,Chickenpox
-Zone 12,1-1,72,2003,Chickenpox
+Zone:12,1-1,72,2003,Chickenpox
 Khon Kaen,1-1,27,2003,Chickenpox
 Maha Sarakham,1-1,17,2003,Chickenpox
 Roi Et,1-1,28,2003,Chickenpox
-Zone 13,1-1,169,2003,Chickenpox
+Zone:13,1-1,169,2003,Chickenpox
 Buri Ram,1-1,34,2003,Chickenpox
 Chaiyaphum,1-1,16,2003,Chickenpox
 Nakhon Ratchasima,1-1,104,2003,Chickenpox
 Surin,1-1,15,2003,Chickenpox
-Zone 14,1-1,83,2003,Chickenpox
+Zone:14,1-1,83,2003,Chickenpox
 Amnat Charoen,1-1,11,2003,Chickenpox
 Si Sa Ket,1-1,29,2003,Chickenpox
 Ubon Ratchathani,1-1,28,2003,Chickenpox
 Yasothon,1-1,15,2003,Chickenpox
 South Region,1-1,266,2003,Chickenpox
-Zone 15,1-1,39,2003,Chickenpox
+Zone:15,1-1,39,2003,Chickenpox
 Chumphon,1-1,9,2003,Chickenpox
 Ranong,1-1,11,2003,Chickenpox
 Surat Thani,1-1,19,2003,Chickenpox
-Zone 16,1-1,63,2003,Chickenpox
+Zone:16,1-1,63,2003,Chickenpox
 Nakhon Si Thammarat,1-1,22,2003,Chickenpox
 Phatthalung,1-1,16,2003,Chickenpox
 Trang,1-1,25,2003,Chickenpox
-Zone 17,1-1,39,2003,Chickenpox
+Zone:17,1-1,39,2003,Chickenpox
 Krabi,1-1,9,2003,Chickenpox
 Phangnga,1-1,3,2003,Chickenpox
 Phuket,1-1,27,2003,Chickenpox
-Zone 18,1-1,84,2003,Chickenpox
+Zone:18,1-1,84,2003,Chickenpox
 Narathiwat,1-1,38,2003,Chickenpox
 Pattani,1-1,23,2003,Chickenpox
 Yala,1-1,23,2003,Chickenpox
-Zone 19,1-1,41,2003,Chickenpox
+Zone:19,1-1,41,2003,Chickenpox
 Satun,1-1,11,2003,Chickenpox
 Songkhla,1-1,30,2003,Chickenpox
 Total,2-2,1805,2003,Chickenpox
 North Region,2-2,512,2003,Chickenpox
-Zone 1,2-2,341,2003,Chickenpox
+Zone:1,2-2,341,2003,Chickenpox
 Chiang Mai,2-2,95,2003,Chickenpox
 Chiang Rai,2-2,74,2003,Chickenpox
 Lampang,2-2,60,2003,Chickenpox
@@ -22676,98 +22676,98 @@ Mae Hong Son,2-2,18,2003,Chickenpox
 Nan,2-2,26,2003,Chickenpox
 Phayao,2-2,29,2003,Chickenpox
 Phrae,2-2,14,2003,Chickenpox
-Zone 2,2-2,88,2003,Chickenpox
+Zone:2,2-2,88,2003,Chickenpox
 Phetchabun,2-2,26,2003,Chickenpox
 Phitsanulok,2-2,25,2003,Chickenpox
 Sukhothai,2-2,14,2003,Chickenpox
 Tak,2-2,18,2003,Chickenpox
 Uttaradit,2-2,5,2003,Chickenpox
-Zone 3,2-2,83,2003,Chickenpox
+Zone:3,2-2,83,2003,Chickenpox
 Kamphaeng Phet,2-2,27,2003,Chickenpox
 Nakhon Sawan,2-2,29,2003,Chickenpox
 Phichit,2-2,8,2003,Chickenpox
 Uthai Thani,2-2,19,2003,Chickenpox
 Central Region,2-2,465,2003,Chickenpox
 Bangkok,2-2,102,2003,Chickenpox
-Zone 4,2-2,53,2003,Chickenpox
+Zone:4,2-2,53,2003,Chickenpox
 Ang Thong,2-2,5,2003,Chickenpox
 Nonthaburi,2-2,9,2003,Chickenpox
 P.Nakhon S.Ayutthaya,2-2,17,2003,Chickenpox
 Pathum Thani,2-2,22,2003,Chickenpox
-Zone 5,2-2,50,2003,Chickenpox
+Zone:5,2-2,50,2003,Chickenpox
 Chai Nat,2-2,1,2003,Chickenpox
 Lop Buri,2-2,29,2003,Chickenpox
 Saraburi,2-2,14,2003,Chickenpox
 Sing Buri,2-2,6,2003,Chickenpox
-Zone 6,2-2,91,2003,Chickenpox
+Zone:6,2-2,91,2003,Chickenpox
 Kanchanaburi,2-2,24,2003,Chickenpox
 Nakhon Pathom,2-2,26,2003,Chickenpox
 Ratchaburi,2-2,18,2003,Chickenpox
 Suphan Buri,2-2,23,2003,Chickenpox
-Zone 7,2-2,27,2003,Chickenpox
+Zone:7,2-2,27,2003,Chickenpox
 Phetchaburi,2-2,6,2003,Chickenpox
 Prachuap Khiri Khan,2-2,3,2003,Chickenpox
 Samut Sakhon,2-2,11,2003,Chickenpox
 Samut Songkhram,2-2,7,2003,Chickenpox
-Zone 8,2-2,76,2003,Chickenpox
+Zone:8,2-2,76,2003,Chickenpox
 Chachoengsao,2-2,14,2003,Chickenpox
 Nakhon Nayok,2-2,2,2003,Chickenpox
 Prachin Buri,2-2,7,2003,Chickenpox
 Sa Kaeo,2-2,14,2003,Chickenpox
 Samut Prakan,2-2,39,2003,Chickenpox
-Zone 9,2-2,66,2003,Chickenpox
+Zone:9,2-2,66,2003,Chickenpox
 Chanthaburi,2-2,17,2003,Chickenpox
 Chon Buri,2-2,16,2003,Chickenpox
 Rayong,2-2,24,2003,Chickenpox
 Trat,2-2,9,2003,Chickenpox
 North-Eastern Region,2-2,538,2003,Chickenpox
-Zone 10,2-2,87,2003,Chickenpox
+Zone:10,2-2,87,2003,Chickenpox
 Loei,2-2,17,2003,Chickenpox
 Nong Bua Lam Phu,2-2,15,2003,Chickenpox
 Nong Khai,2-2,21,2003,Chickenpox
 Udon Thani,2-2,34,2003,Chickenpox
-Zone 11,2-2,76,2003,Chickenpox
+Zone:11,2-2,76,2003,Chickenpox
 Kalasin,2-2,30,2003,Chickenpox
 Mukdahan,2-2,5,2003,Chickenpox
 Nakhon Phanom,2-2,13,2003,Chickenpox
 Sakon Nakhon,2-2,28,2003,Chickenpox
-Zone 12,2-2,111,2003,Chickenpox
+Zone:12,2-2,111,2003,Chickenpox
 Khon Kaen,2-2,47,2003,Chickenpox
 Maha Sarakham,2-2,28,2003,Chickenpox
 Roi Et,2-2,36,2003,Chickenpox
-Zone 13,2-2,199,2003,Chickenpox
+Zone:13,2-2,199,2003,Chickenpox
 Buri Ram,2-2,44,2003,Chickenpox
 Chaiyaphum,2-2,32,2003,Chickenpox
 Nakhon Ratchasima,2-2,93,2003,Chickenpox
 Surin,2-2,30,2003,Chickenpox
-Zone 14,2-2,65,2003,Chickenpox
+Zone:14,2-2,65,2003,Chickenpox
 Amnat Charoen,2-2,12,2003,Chickenpox
 Si Sa Ket,2-2,26,2003,Chickenpox
 Ubon Ratchathani,2-2,19,2003,Chickenpox
 Yasothon,2-2,8,2003,Chickenpox
 South Region,2-2,290,2003,Chickenpox
-Zone 15,2-2,26,2003,Chickenpox
+Zone:15,2-2,26,2003,Chickenpox
 Chumphon,2-2,8,2003,Chickenpox
 Ranong,2-2,3,2003,Chickenpox
 Surat Thani,2-2,15,2003,Chickenpox
-Zone 16,2-2,58,2003,Chickenpox
+Zone:16,2-2,58,2003,Chickenpox
 Nakhon Si Thammarat,2-2,25,2003,Chickenpox
 Phatthalung,2-2,10,2003,Chickenpox
 Trang,2-2,23,2003,Chickenpox
-Zone 17,2-2,50,2003,Chickenpox
+Zone:17,2-2,50,2003,Chickenpox
 Krabi,2-2,21,2003,Chickenpox
 Phangnga,2-2,5,2003,Chickenpox
 Phuket,2-2,24,2003,Chickenpox
-Zone 18,2-2,118,2003,Chickenpox
+Zone:18,2-2,118,2003,Chickenpox
 Narathiwat,2-2,49,2003,Chickenpox
 Pattani,2-2,28,2003,Chickenpox
 Yala,2-2,41,2003,Chickenpox
-Zone 19,2-2,38,2003,Chickenpox
+Zone:19,2-2,38,2003,Chickenpox
 Satun,2-2,10,2003,Chickenpox
 Songkhla,2-2,28,2003,Chickenpox
 Total,3-3,2086,2003,Chickenpox
 North Region,3-3,591,2003,Chickenpox
-Zone 1,3-3,373,2003,Chickenpox
+Zone:1,3-3,373,2003,Chickenpox
 Chiang Mai,3-3,79,2003,Chickenpox
 Chiang Rai,3-3,78,2003,Chickenpox
 Lampang,3-3,78,2003,Chickenpox
@@ -22776,98 +22776,98 @@ Mae Hong Son,3-3,13,2003,Chickenpox
 Nan,3-3,39,2003,Chickenpox
 Phayao,3-3,34,2003,Chickenpox
 Phrae,3-3,18,2003,Chickenpox
-Zone 2,3-3,99,2003,Chickenpox
+Zone:2,3-3,99,2003,Chickenpox
 Phetchabun,3-3,36,2003,Chickenpox
 Phitsanulok,3-3,20,2003,Chickenpox
 Sukhothai,3-3,10,2003,Chickenpox
 Tak,3-3,24,2003,Chickenpox
 Uttaradit,3-3,9,2003,Chickenpox
-Zone 3,3-3,119,2003,Chickenpox
+Zone:3,3-3,119,2003,Chickenpox
 Kamphaeng Phet,3-3,40,2003,Chickenpox
 Nakhon Sawan,3-3,36,2003,Chickenpox
 Phichit,3-3,22,2003,Chickenpox
 Uthai Thani,3-3,21,2003,Chickenpox
 Central Region,3-3,535,2003,Chickenpox
 Bangkok,3-3,126,2003,Chickenpox
-Zone 4,3-3,95,2003,Chickenpox
+Zone:4,3-3,95,2003,Chickenpox
 Ang Thong,3-3,10,2003,Chickenpox
 Nonthaburi,3-3,31,2003,Chickenpox
 P.Nakhon S.Ayutthaya,3-3,30,2003,Chickenpox
 Pathum Thani,3-3,24,2003,Chickenpox
-Zone 5,3-3,37,2003,Chickenpox
+Zone:5,3-3,37,2003,Chickenpox
 Chai Nat,3-3,3,2003,Chickenpox
 Lop Buri,3-3,17,2003,Chickenpox
 Saraburi,3-3,14,2003,Chickenpox
 Sing Buri,3-3,3,2003,Chickenpox
-Zone 6,3-3,85,2003,Chickenpox
+Zone:6,3-3,85,2003,Chickenpox
 Kanchanaburi,3-3,19,2003,Chickenpox
 Nakhon Pathom,3-3,24,2003,Chickenpox
 Ratchaburi,3-3,16,2003,Chickenpox
 Suphan Buri,3-3,26,2003,Chickenpox
-Zone 7,3-3,38,2003,Chickenpox
+Zone:7,3-3,38,2003,Chickenpox
 Phetchaburi,3-3,4,2003,Chickenpox
 Prachuap Khiri Khan,3-3,7,2003,Chickenpox
 Samut Sakhon,3-3,19,2003,Chickenpox
 Samut Songkhram,3-3,8,2003,Chickenpox
-Zone 8,3-3,83,2003,Chickenpox
+Zone:8,3-3,83,2003,Chickenpox
 Chachoengsao,3-3,19,2003,Chickenpox
 Nakhon Nayok,3-3,4,2003,Chickenpox
 Prachin Buri,3-3,8,2003,Chickenpox
 Sa Kaeo,3-3,13,2003,Chickenpox
 Samut Prakan,3-3,39,2003,Chickenpox
-Zone 9,3-3,71,2003,Chickenpox
+Zone:9,3-3,71,2003,Chickenpox
 Chanthaburi,3-3,14,2003,Chickenpox
 Chon Buri,3-3,21,2003,Chickenpox
 Rayong,3-3,29,2003,Chickenpox
 Trat,3-3,7,2003,Chickenpox
 North-Eastern Region,3-3,603,2003,Chickenpox
-Zone 10,3-3,100,2003,Chickenpox
+Zone:10,3-3,100,2003,Chickenpox
 Loei,3-3,22,2003,Chickenpox
 Nong Bua Lam Phu,3-3,22,2003,Chickenpox
 Nong Khai,3-3,20,2003,Chickenpox
 Udon Thani,3-3,36,2003,Chickenpox
-Zone 11,3-3,92,2003,Chickenpox
+Zone:11,3-3,92,2003,Chickenpox
 Kalasin,3-3,38,2003,Chickenpox
 Mukdahan,3-3,15,2003,Chickenpox
 Nakhon Phanom,3-3,9,2003,Chickenpox
 Sakon Nakhon,3-3,30,2003,Chickenpox
-Zone 12,3-3,128,2003,Chickenpox
+Zone:12,3-3,128,2003,Chickenpox
 Khon Kaen,3-3,49,2003,Chickenpox
 Maha Sarakham,3-3,39,2003,Chickenpox
 Roi Et,3-3,40,2003,Chickenpox
-Zone 13,3-3,218,2003,Chickenpox
+Zone:13,3-3,218,2003,Chickenpox
 Buri Ram,3-3,37,2003,Chickenpox
 Chaiyaphum,3-3,35,2003,Chickenpox
 Nakhon Ratchasima,3-3,105,2003,Chickenpox
 Surin,3-3,41,2003,Chickenpox
-Zone 14,3-3,65,2003,Chickenpox
+Zone:14,3-3,65,2003,Chickenpox
 Amnat Charoen,3-3,6,2003,Chickenpox
 Si Sa Ket,3-3,24,2003,Chickenpox
 Ubon Ratchathani,3-3,25,2003,Chickenpox
 Yasothon,3-3,10,2003,Chickenpox
 South Region,3-3,357,2003,Chickenpox
-Zone 15,3-3,40,2003,Chickenpox
+Zone:15,3-3,40,2003,Chickenpox
 Chumphon,3-3,11,2003,Chickenpox
 Ranong,3-3,5,2003,Chickenpox
 Surat Thani,3-3,24,2003,Chickenpox
-Zone 16,3-3,108,2003,Chickenpox
+Zone:16,3-3,108,2003,Chickenpox
 Nakhon Si Thammarat,3-3,43,2003,Chickenpox
 Phatthalung,3-3,27,2003,Chickenpox
 Trang,3-3,38,2003,Chickenpox
-Zone 17,3-3,64,2003,Chickenpox
+Zone:17,3-3,64,2003,Chickenpox
 Krabi,3-3,19,2003,Chickenpox
 Phangnga,3-3,6,2003,Chickenpox
 Phuket,3-3,39,2003,Chickenpox
-Zone 18,3-3,105,2003,Chickenpox
+Zone:18,3-3,105,2003,Chickenpox
 Narathiwat,3-3,36,2003,Chickenpox
 Pattani,3-3,33,2003,Chickenpox
 Yala,3-3,36,2003,Chickenpox
-Zone 19,3-3,40,2003,Chickenpox
+Zone:19,3-3,40,2003,Chickenpox
 Satun,3-3,11,2003,Chickenpox
 Songkhla,3-3,29,2003,Chickenpox
 Total,4-4,2437,2003,Chickenpox
 North Region,4-4,667,2003,Chickenpox
-Zone 1,4-4,401,2003,Chickenpox
+Zone:1,4-4,401,2003,Chickenpox
 Chiang Mai,4-4,85,2003,Chickenpox
 Chiang Rai,4-4,99,2003,Chickenpox
 Lampang,4-4,82,2003,Chickenpox
@@ -22876,98 +22876,98 @@ Mae Hong Son,4-4,22,2003,Chickenpox
 Nan,4-4,32,2003,Chickenpox
 Phayao,4-4,26,2003,Chickenpox
 Phrae,4-4,20,2003,Chickenpox
-Zone 2,4-4,135,2003,Chickenpox
+Zone:2,4-4,135,2003,Chickenpox
 Phetchabun,4-4,38,2003,Chickenpox
 Phitsanulok,4-4,27,2003,Chickenpox
 Sukhothai,4-4,29,2003,Chickenpox
 Tak,4-4,29,2003,Chickenpox
 Uttaradit,4-4,12,2003,Chickenpox
-Zone 3,4-4,131,2003,Chickenpox
+Zone:3,4-4,131,2003,Chickenpox
 Kamphaeng Phet,4-4,32,2003,Chickenpox
 Nakhon Sawan,4-4,47,2003,Chickenpox
 Phichit,4-4,31,2003,Chickenpox
 Uthai Thani,4-4,21,2003,Chickenpox
 Central Region,4-4,622,2003,Chickenpox
 Bangkok,4-4,153,2003,Chickenpox
-Zone 4,4-4,108,2003,Chickenpox
+Zone:4,4-4,108,2003,Chickenpox
 Ang Thong,4-4,8,2003,Chickenpox
 Nonthaburi,4-4,24,2003,Chickenpox
 P.Nakhon S.Ayutthaya,4-4,47,2003,Chickenpox
 Pathum Thani,4-4,29,2003,Chickenpox
-Zone 5,4-4,64,2003,Chickenpox
+Zone:5,4-4,64,2003,Chickenpox
 Chai Nat,4-4,6,2003,Chickenpox
 Lop Buri,4-4,34,2003,Chickenpox
 Saraburi,4-4,19,2003,Chickenpox
 Sing Buri,4-4,5,2003,Chickenpox
-Zone 6,4-4,82,2003,Chickenpox
+Zone:6,4-4,82,2003,Chickenpox
 Kanchanaburi,4-4,11,2003,Chickenpox
 Nakhon Pathom,4-4,22,2003,Chickenpox
 Ratchaburi,4-4,22,2003,Chickenpox
 Suphan Buri,4-4,27,2003,Chickenpox
-Zone 7,4-4,39,2003,Chickenpox
+Zone:7,4-4,39,2003,Chickenpox
 Phetchaburi,4-4,10,2003,Chickenpox
 Prachuap Khiri Khan,4-4,8,2003,Chickenpox
 Samut Sakhon,4-4,11,2003,Chickenpox
 Samut Songkhram,4-4,10,2003,Chickenpox
-Zone 8,4-4,108,2003,Chickenpox
+Zone:8,4-4,108,2003,Chickenpox
 Chachoengsao,4-4,26,2003,Chickenpox
 Nakhon Nayok,4-4,5,2003,Chickenpox
 Prachin Buri,4-4,14,2003,Chickenpox
 Sa Kaeo,4-4,22,2003,Chickenpox
 Samut Prakan,4-4,41,2003,Chickenpox
-Zone 9,4-4,68,2003,Chickenpox
+Zone:9,4-4,68,2003,Chickenpox
 Chanthaburi,4-4,17,2003,Chickenpox
 Chon Buri,4-4,21,2003,Chickenpox
 Rayong,4-4,19,2003,Chickenpox
 Trat,4-4,11,2003,Chickenpox
 North-Eastern Region,4-4,747,2003,Chickenpox
-Zone 10,4-4,98,2003,Chickenpox
+Zone:10,4-4,98,2003,Chickenpox
 Loei,4-4,28,2003,Chickenpox
 Nong Bua Lam Phu,4-4,16,2003,Chickenpox
 Nong Khai,4-4,18,2003,Chickenpox
 Udon Thani,4-4,36,2003,Chickenpox
-Zone 11,4-4,117,2003,Chickenpox
+Zone:11,4-4,117,2003,Chickenpox
 Kalasin,4-4,50,2003,Chickenpox
 Mukdahan,4-4,18,2003,Chickenpox
 Nakhon Phanom,4-4,15,2003,Chickenpox
 Sakon Nakhon,4-4,34,2003,Chickenpox
-Zone 12,4-4,148,2003,Chickenpox
+Zone:12,4-4,148,2003,Chickenpox
 Khon Kaen,4-4,52,2003,Chickenpox
 Maha Sarakham,4-4,40,2003,Chickenpox
 Roi Et,4-4,56,2003,Chickenpox
-Zone 13,4-4,303,2003,Chickenpox
+Zone:13,4-4,303,2003,Chickenpox
 Buri Ram,4-4,55,2003,Chickenpox
 Chaiyaphum,4-4,46,2003,Chickenpox
 Nakhon Ratchasima,4-4,160,2003,Chickenpox
 Surin,4-4,42,2003,Chickenpox
-Zone 14,4-4,81,2003,Chickenpox
+Zone:14,4-4,81,2003,Chickenpox
 Amnat Charoen,4-4,10,2003,Chickenpox
 Si Sa Ket,4-4,30,2003,Chickenpox
 Ubon Ratchathani,4-4,25,2003,Chickenpox
 Yasothon,4-4,16,2003,Chickenpox
 South Region,4-4,401,2003,Chickenpox
-Zone 15,4-4,55,2003,Chickenpox
+Zone:15,4-4,55,2003,Chickenpox
 Chumphon,4-4,9,2003,Chickenpox
 Ranong,4-4,9,2003,Chickenpox
 Surat Thani,4-4,37,2003,Chickenpox
-Zone 16,4-4,107,2003,Chickenpox
+Zone:16,4-4,107,2003,Chickenpox
 Nakhon Si Thammarat,4-4,41,2003,Chickenpox
 Phatthalung,4-4,23,2003,Chickenpox
 Trang,4-4,43,2003,Chickenpox
-Zone 17,4-4,69,2003,Chickenpox
+Zone:17,4-4,69,2003,Chickenpox
 Krabi,4-4,15,2003,Chickenpox
 Phangnga,4-4,12,2003,Chickenpox
 Phuket,4-4,42,2003,Chickenpox
-Zone 18,4-4,131,2003,Chickenpox
+Zone:18,4-4,131,2003,Chickenpox
 Narathiwat,4-4,51,2003,Chickenpox
 Pattani,4-4,42,2003,Chickenpox
 Yala,4-4,38,2003,Chickenpox
-Zone 19,4-4,39,2003,Chickenpox
+Zone:19,4-4,39,2003,Chickenpox
 Satun,4-4,13,2003,Chickenpox
 Songkhla,4-4,26,2003,Chickenpox
 Total,5-5,3118,2003,Chickenpox
 North Region,5-5,869,2003,Chickenpox
-Zone 1,5-5,531,2003,Chickenpox
+Zone:1,5-5,531,2003,Chickenpox
 Chiang Mai,5-5,146,2003,Chickenpox
 Chiang Rai,5-5,104,2003,Chickenpox
 Lampang,5-5,96,2003,Chickenpox
@@ -22976,98 +22976,98 @@ Mae Hong Son,5-5,27,2003,Chickenpox
 Nan,5-5,40,2003,Chickenpox
 Phayao,5-5,50,2003,Chickenpox
 Phrae,5-5,23,2003,Chickenpox
-Zone 2,5-5,164,2003,Chickenpox
+Zone:2,5-5,164,2003,Chickenpox
 Phetchabun,5-5,52,2003,Chickenpox
 Phitsanulok,5-5,28,2003,Chickenpox
 Sukhothai,5-5,24,2003,Chickenpox
 Tak,5-5,42,2003,Chickenpox
 Uttaradit,5-5,18,2003,Chickenpox
-Zone 3,5-5,174,2003,Chickenpox
+Zone:3,5-5,174,2003,Chickenpox
 Kamphaeng Phet,5-5,54,2003,Chickenpox
 Nakhon Sawan,5-5,58,2003,Chickenpox
 Phichit,5-5,38,2003,Chickenpox
 Uthai Thani,5-5,24,2003,Chickenpox
 Central Region,5-5,763,2003,Chickenpox
 Bangkok,5-5,164,2003,Chickenpox
-Zone 4,5-5,106,2003,Chickenpox
+Zone:4,5-5,106,2003,Chickenpox
 Ang Thong,5-5,16,2003,Chickenpox
 Nonthaburi,5-5,23,2003,Chickenpox
 P.Nakhon S.Ayutthaya,5-5,50,2003,Chickenpox
 Pathum Thani,5-5,17,2003,Chickenpox
-Zone 5,5-5,77,2003,Chickenpox
+Zone:5,5-5,77,2003,Chickenpox
 Chai Nat,5-5,2,2003,Chickenpox
 Lop Buri,5-5,47,2003,Chickenpox
 Saraburi,5-5,24,2003,Chickenpox
 Sing Buri,5-5,4,2003,Chickenpox
-Zone 6,5-5,145,2003,Chickenpox
+Zone:6,5-5,145,2003,Chickenpox
 Kanchanaburi,5-5,40,2003,Chickenpox
 Nakhon Pathom,5-5,47,2003,Chickenpox
 Ratchaburi,5-5,32,2003,Chickenpox
 Suphan Buri,5-5,26,2003,Chickenpox
-Zone 7,5-5,40,2003,Chickenpox
+Zone:7,5-5,40,2003,Chickenpox
 Phetchaburi,5-5,4,2003,Chickenpox
 Prachuap Khiri Khan,5-5,8,2003,Chickenpox
 Samut Sakhon,5-5,14,2003,Chickenpox
 Samut Songkhram,5-5,14,2003,Chickenpox
-Zone 8,5-5,137,2003,Chickenpox
+Zone:8,5-5,137,2003,Chickenpox
 Chachoengsao,5-5,37,2003,Chickenpox
 Nakhon Nayok,5-5,5,2003,Chickenpox
 Prachin Buri,5-5,16,2003,Chickenpox
 Sa Kaeo,5-5,19,2003,Chickenpox
 Samut Prakan,5-5,60,2003,Chickenpox
-Zone 9,5-5,94,2003,Chickenpox
+Zone:9,5-5,94,2003,Chickenpox
 Chanthaburi,5-5,23,2003,Chickenpox
 Chon Buri,5-5,34,2003,Chickenpox
 Rayong,5-5,30,2003,Chickenpox
 Trat,5-5,7,2003,Chickenpox
 North-Eastern Region,5-5,990,2003,Chickenpox
-Zone 10,5-5,157,2003,Chickenpox
+Zone:10,5-5,157,2003,Chickenpox
 Loei,5-5,42,2003,Chickenpox
 Nong Bua Lam Phu,5-5,38,2003,Chickenpox
 Nong Khai,5-5,19,2003,Chickenpox
 Udon Thani,5-5,58,2003,Chickenpox
-Zone 11,5-5,134,2003,Chickenpox
+Zone:11,5-5,134,2003,Chickenpox
 Kalasin,5-5,64,2003,Chickenpox
 Mukdahan,5-5,18,2003,Chickenpox
 Nakhon Phanom,5-5,17,2003,Chickenpox
 Sakon Nakhon,5-5,35,2003,Chickenpox
-Zone 12,5-5,191,2003,Chickenpox
+Zone:12,5-5,191,2003,Chickenpox
 Khon Kaen,5-5,74,2003,Chickenpox
 Maha Sarakham,5-5,60,2003,Chickenpox
 Roi Et,5-5,57,2003,Chickenpox
-Zone 13,5-5,384,2003,Chickenpox
+Zone:13,5-5,384,2003,Chickenpox
 Buri Ram,5-5,62,2003,Chickenpox
 Chaiyaphum,5-5,69,2003,Chickenpox
 Nakhon Ratchasima,5-5,187,2003,Chickenpox
 Surin,5-5,66,2003,Chickenpox
-Zone 14,5-5,124,2003,Chickenpox
+Zone:14,5-5,124,2003,Chickenpox
 Amnat Charoen,5-5,18,2003,Chickenpox
 Si Sa Ket,5-5,43,2003,Chickenpox
 Ubon Ratchathani,5-5,35,2003,Chickenpox
 Yasothon,5-5,28,2003,Chickenpox
 South Region,5-5,496,2003,Chickenpox
-Zone 15,5-5,68,2003,Chickenpox
+Zone:15,5-5,68,2003,Chickenpox
 Chumphon,5-5,13,2003,Chickenpox
 Ranong,5-5,14,2003,Chickenpox
 Surat Thani,5-5,41,2003,Chickenpox
-Zone 16,5-5,117,2003,Chickenpox
+Zone:16,5-5,117,2003,Chickenpox
 Nakhon Si Thammarat,5-5,32,2003,Chickenpox
 Phatthalung,5-5,25,2003,Chickenpox
 Trang,5-5,60,2003,Chickenpox
-Zone 17,5-5,93,2003,Chickenpox
+Zone:17,5-5,93,2003,Chickenpox
 Krabi,5-5,28,2003,Chickenpox
 Phangnga,5-5,6,2003,Chickenpox
 Phuket,5-5,59,2003,Chickenpox
-Zone 18,5-5,155,2003,Chickenpox
+Zone:18,5-5,155,2003,Chickenpox
 Narathiwat,5-5,64,2003,Chickenpox
 Pattani,5-5,50,2003,Chickenpox
 Yala,5-5,41,2003,Chickenpox
-Zone 19,5-5,63,2003,Chickenpox
+Zone:19,5-5,63,2003,Chickenpox
 Satun,5-5,15,2003,Chickenpox
 Songkhla,5-5,48,2003,Chickenpox
 Total,6-6,3185,2003,Chickenpox
 North Region,6-6,813,2003,Chickenpox
-Zone 1,6-6,439,2003,Chickenpox
+Zone:1,6-6,439,2003,Chickenpox
 Chiang Mai,6-6,104,2003,Chickenpox
 Chiang Rai,6-6,96,2003,Chickenpox
 Lampang,6-6,101,2003,Chickenpox
@@ -23076,98 +23076,98 @@ Mae Hong Son,6-6,15,2003,Chickenpox
 Nan,6-6,40,2003,Chickenpox
 Phayao,6-6,26,2003,Chickenpox
 Phrae,6-6,26,2003,Chickenpox
-Zone 2,6-6,186,2003,Chickenpox
+Zone:2,6-6,186,2003,Chickenpox
 Phetchabun,6-6,43,2003,Chickenpox
 Phitsanulok,6-6,55,2003,Chickenpox
 Sukhothai,6-6,24,2003,Chickenpox
 Tak,6-6,37,2003,Chickenpox
 Uttaradit,6-6,27,2003,Chickenpox
-Zone 3,6-6,188,2003,Chickenpox
+Zone:3,6-6,188,2003,Chickenpox
 Kamphaeng Phet,6-6,51,2003,Chickenpox
 Nakhon Sawan,6-6,70,2003,Chickenpox
 Phichit,6-6,30,2003,Chickenpox
 Uthai Thani,6-6,37,2003,Chickenpox
 Central Region,6-6,845,2003,Chickenpox
 Bangkok,6-6,157,2003,Chickenpox
-Zone 4,6-6,141,2003,Chickenpox
+Zone:4,6-6,141,2003,Chickenpox
 Ang Thong,6-6,22,2003,Chickenpox
 Nonthaburi,6-6,23,2003,Chickenpox
 P.Nakhon S.Ayutthaya,6-6,57,2003,Chickenpox
 Pathum Thani,6-6,39,2003,Chickenpox
-Zone 5,6-6,85,2003,Chickenpox
+Zone:5,6-6,85,2003,Chickenpox
 Chai Nat,6-6,5,2003,Chickenpox
 Lop Buri,6-6,32,2003,Chickenpox
 Saraburi,6-6,40,2003,Chickenpox
 Sing Buri,6-6,8,2003,Chickenpox
-Zone 6,6-6,150,2003,Chickenpox
+Zone:6,6-6,150,2003,Chickenpox
 Kanchanaburi,6-6,40,2003,Chickenpox
 Nakhon Pathom,6-6,48,2003,Chickenpox
 Ratchaburi,6-6,30,2003,Chickenpox
 Suphan Buri,6-6,32,2003,Chickenpox
-Zone 7,6-6,45,2003,Chickenpox
+Zone:7,6-6,45,2003,Chickenpox
 Phetchaburi,6-6,9,2003,Chickenpox
 Prachuap Khiri Khan,6-6,9,2003,Chickenpox
 Samut Sakhon,6-6,16,2003,Chickenpox
 Samut Songkhram,6-6,11,2003,Chickenpox
-Zone 8,6-6,137,2003,Chickenpox
+Zone:8,6-6,137,2003,Chickenpox
 Chachoengsao,6-6,39,2003,Chickenpox
 Nakhon Nayok,6-6,7,2003,Chickenpox
 Prachin Buri,6-6,26,2003,Chickenpox
 Sa Kaeo,6-6,28,2003,Chickenpox
 Samut Prakan,6-6,37,2003,Chickenpox
-Zone 9,6-6,130,2003,Chickenpox
+Zone:9,6-6,130,2003,Chickenpox
 Chanthaburi,6-6,33,2003,Chickenpox
 Chon Buri,6-6,33,2003,Chickenpox
 Rayong,6-6,49,2003,Chickenpox
 Trat,6-6,15,2003,Chickenpox
 North-Eastern Region,6-6,1049,2003,Chickenpox
-Zone 10,6-6,171,2003,Chickenpox
+Zone:10,6-6,171,2003,Chickenpox
 Loei,6-6,43,2003,Chickenpox
 Nong Bua Lam Phu,6-6,43,2003,Chickenpox
 Nong Khai,6-6,33,2003,Chickenpox
 Udon Thani,6-6,52,2003,Chickenpox
-Zone 11,6-6,123,2003,Chickenpox
+Zone:11,6-6,123,2003,Chickenpox
 Kalasin,6-6,54,2003,Chickenpox
 Mukdahan,6-6,18,2003,Chickenpox
 Nakhon Phanom,6-6,20,2003,Chickenpox
 Sakon Nakhon,6-6,31,2003,Chickenpox
-Zone 12,6-6,238,2003,Chickenpox
+Zone:12,6-6,238,2003,Chickenpox
 Khon Kaen,6-6,88,2003,Chickenpox
 Maha Sarakham,6-6,59,2003,Chickenpox
 Roi Et,6-6,91,2003,Chickenpox
-Zone 13,6-6,390,2003,Chickenpox
+Zone:13,6-6,390,2003,Chickenpox
 Buri Ram,6-6,80,2003,Chickenpox
 Chaiyaphum,6-6,72,2003,Chickenpox
 Nakhon Ratchasima,6-6,184,2003,Chickenpox
 Surin,6-6,54,2003,Chickenpox
-Zone 14,6-6,127,2003,Chickenpox
+Zone:14,6-6,127,2003,Chickenpox
 Amnat Charoen,6-6,20,2003,Chickenpox
 Si Sa Ket,6-6,49,2003,Chickenpox
 Ubon Ratchathani,6-6,33,2003,Chickenpox
 Yasothon,6-6,25,2003,Chickenpox
 South Region,6-6,478,2003,Chickenpox
-Zone 15,6-6,72,2003,Chickenpox
+Zone:15,6-6,72,2003,Chickenpox
 Chumphon,6-6,14,2003,Chickenpox
 Ranong,6-6,7,2003,Chickenpox
 Surat Thani,6-6,51,2003,Chickenpox
-Zone 16,6-6,108,2003,Chickenpox
+Zone:16,6-6,108,2003,Chickenpox
 Nakhon Si Thammarat,6-6,35,2003,Chickenpox
 Phatthalung,6-6,27,2003,Chickenpox
 Trang,6-6,46,2003,Chickenpox
-Zone 17,6-6,100,2003,Chickenpox
+Zone:17,6-6,100,2003,Chickenpox
 Krabi,6-6,27,2003,Chickenpox
 Phangnga,6-6,17,2003,Chickenpox
 Phuket,6-6,56,2003,Chickenpox
-Zone 18,6-6,153,2003,Chickenpox
+Zone:18,6-6,153,2003,Chickenpox
 Narathiwat,6-6,59,2003,Chickenpox
 Pattani,6-6,39,2003,Chickenpox
 Yala,6-6,55,2003,Chickenpox
-Zone 19,6-6,45,2003,Chickenpox
+Zone:19,6-6,45,2003,Chickenpox
 Satun,6-6,11,2003,Chickenpox
 Songkhla,6-6,34,2003,Chickenpox
 Total,7-9,7832,2003,Chickenpox
 North Region,7-9,1973,2003,Chickenpox
-Zone 1,7-9,1028,2003,Chickenpox
+Zone:1,7-9,1028,2003,Chickenpox
 Chiang Mai,7-9,242,2003,Chickenpox
 Chiang Rai,7-9,218,2003,Chickenpox
 Lampang,7-9,201,2003,Chickenpox
@@ -23176,98 +23176,98 @@ Mae Hong Son,7-9,62,2003,Chickenpox
 Nan,7-9,92,2003,Chickenpox
 Phayao,7-9,71,2003,Chickenpox
 Phrae,7-9,57,2003,Chickenpox
-Zone 2,7-9,413,2003,Chickenpox
+Zone:2,7-9,413,2003,Chickenpox
 Phetchabun,7-9,102,2003,Chickenpox
 Phitsanulok,7-9,125,2003,Chickenpox
 Sukhothai,7-9,77,2003,Chickenpox
 Tak,7-9,72,2003,Chickenpox
 Uttaradit,7-9,37,2003,Chickenpox
-Zone 3,7-9,532,2003,Chickenpox
+Zone:3,7-9,532,2003,Chickenpox
 Kamphaeng Phet,7-9,156,2003,Chickenpox
 Nakhon Sawan,7-9,199,2003,Chickenpox
 Phichit,7-9,79,2003,Chickenpox
 Uthai Thani,7-9,98,2003,Chickenpox
 Central Region,7-9,1976,2003,Chickenpox
 Bangkok,7-9,319,2003,Chickenpox
-Zone 4,7-9,264,2003,Chickenpox
+Zone:4,7-9,264,2003,Chickenpox
 Ang Thong,7-9,44,2003,Chickenpox
 Nonthaburi,7-9,66,2003,Chickenpox
 P.Nakhon S.Ayutthaya,7-9,101,2003,Chickenpox
 Pathum Thani,7-9,53,2003,Chickenpox
-Zone 5,7-9,195,2003,Chickenpox
+Zone:5,7-9,195,2003,Chickenpox
 Chai Nat,7-9,17,2003,Chickenpox
 Lop Buri,7-9,93,2003,Chickenpox
 Saraburi,7-9,75,2003,Chickenpox
 Sing Buri,7-9,10,2003,Chickenpox
-Zone 6,7-9,328,2003,Chickenpox
+Zone:6,7-9,328,2003,Chickenpox
 Kanchanaburi,7-9,77,2003,Chickenpox
 Nakhon Pathom,7-9,129,2003,Chickenpox
 Ratchaburi,7-9,63,2003,Chickenpox
 Suphan Buri,7-9,59,2003,Chickenpox
-Zone 7,7-9,131,2003,Chickenpox
+Zone:7,7-9,131,2003,Chickenpox
 Phetchaburi,7-9,24,2003,Chickenpox
 Prachuap Khiri Khan,7-9,26,2003,Chickenpox
 Samut Sakhon,7-9,52,2003,Chickenpox
 Samut Songkhram,7-9,29,2003,Chickenpox
-Zone 8,7-9,380,2003,Chickenpox
+Zone:8,7-9,380,2003,Chickenpox
 Chachoengsao,7-9,98,2003,Chickenpox
 Nakhon Nayok,7-9,13,2003,Chickenpox
 Prachin Buri,7-9,54,2003,Chickenpox
 Sa Kaeo,7-9,49,2003,Chickenpox
 Samut Prakan,7-9,166,2003,Chickenpox
-Zone 9,7-9,359,2003,Chickenpox
+Zone:9,7-9,359,2003,Chickenpox
 Chanthaburi,7-9,90,2003,Chickenpox
 Chon Buri,7-9,109,2003,Chickenpox
 Rayong,7-9,116,2003,Chickenpox
 Trat,7-9,44,2003,Chickenpox
 North-Eastern Region,7-9,2579,2003,Chickenpox
-Zone 10,7-9,420,2003,Chickenpox
+Zone:10,7-9,420,2003,Chickenpox
 Loei,7-9,110,2003,Chickenpox
 Nong Bua Lam Phu,7-9,102,2003,Chickenpox
 Nong Khai,7-9,54,2003,Chickenpox
 Udon Thani,7-9,154,2003,Chickenpox
-Zone 11,7-9,295,2003,Chickenpox
+Zone:11,7-9,295,2003,Chickenpox
 Kalasin,7-9,125,2003,Chickenpox
 Mukdahan,7-9,43,2003,Chickenpox
 Nakhon Phanom,7-9,53,2003,Chickenpox
 Sakon Nakhon,7-9,74,2003,Chickenpox
-Zone 12,7-9,524,2003,Chickenpox
+Zone:12,7-9,524,2003,Chickenpox
 Khon Kaen,7-9,206,2003,Chickenpox
 Maha Sarakham,7-9,134,2003,Chickenpox
 Roi Et,7-9,184,2003,Chickenpox
-Zone 13,7-9,1027,2003,Chickenpox
+Zone:13,7-9,1027,2003,Chickenpox
 Buri Ram,7-9,183,2003,Chickenpox
 Chaiyaphum,7-9,159,2003,Chickenpox
 Nakhon Ratchasima,7-9,555,2003,Chickenpox
 Surin,7-9,130,2003,Chickenpox
-Zone 14,7-9,313,2003,Chickenpox
+Zone:14,7-9,313,2003,Chickenpox
 Amnat Charoen,7-9,44,2003,Chickenpox
 Si Sa Ket,7-9,127,2003,Chickenpox
 Ubon Ratchathani,7-9,82,2003,Chickenpox
 Yasothon,7-9,60,2003,Chickenpox
 South Region,7-9,1304,2003,Chickenpox
-Zone 15,7-9,185,2003,Chickenpox
+Zone:15,7-9,185,2003,Chickenpox
 Chumphon,7-9,43,2003,Chickenpox
 Ranong,7-9,27,2003,Chickenpox
 Surat Thani,7-9,115,2003,Chickenpox
-Zone 16,7-9,361,2003,Chickenpox
+Zone:16,7-9,361,2003,Chickenpox
 Nakhon Si Thammarat,7-9,139,2003,Chickenpox
 Phatthalung,7-9,85,2003,Chickenpox
 Trang,7-9,137,2003,Chickenpox
-Zone 17,7-9,214,2003,Chickenpox
+Zone:17,7-9,214,2003,Chickenpox
 Krabi,7-9,50,2003,Chickenpox
 Phangnga,7-9,39,2003,Chickenpox
 Phuket,7-9,125,2003,Chickenpox
-Zone 18,7-9,352,2003,Chickenpox
+Zone:18,7-9,352,2003,Chickenpox
 Narathiwat,7-9,137,2003,Chickenpox
 Pattani,7-9,95,2003,Chickenpox
 Yala,7-9,120,2003,Chickenpox
-Zone 19,7-9,192,2003,Chickenpox
+Zone:19,7-9,192,2003,Chickenpox
 Satun,7-9,64,2003,Chickenpox
 Songkhla,7-9,128,2003,Chickenpox
 Total,10-14,7558,2003,Chickenpox
 North Region,10-14,1895,2003,Chickenpox
-Zone 1,10-14,867,2003,Chickenpox
+Zone:1,10-14,867,2003,Chickenpox
 Chiang Mai,10-14,204,2003,Chickenpox
 Chiang Rai,10-14,192,2003,Chickenpox
 Lampang,10-14,169,2003,Chickenpox
@@ -23276,98 +23276,98 @@ Mae Hong Son,10-14,34,2003,Chickenpox
 Nan,10-14,89,2003,Chickenpox
 Phayao,10-14,68,2003,Chickenpox
 Phrae,10-14,48,2003,Chickenpox
-Zone 2,10-14,492,2003,Chickenpox
+Zone:2,10-14,492,2003,Chickenpox
 Phetchabun,10-14,108,2003,Chickenpox
 Phitsanulok,10-14,157,2003,Chickenpox
 Sukhothai,10-14,101,2003,Chickenpox
 Tak,10-14,59,2003,Chickenpox
 Uttaradit,10-14,67,2003,Chickenpox
-Zone 3,10-14,536,2003,Chickenpox
+Zone:3,10-14,536,2003,Chickenpox
 Kamphaeng Phet,10-14,170,2003,Chickenpox
 Nakhon Sawan,10-14,173,2003,Chickenpox
 Phichit,10-14,103,2003,Chickenpox
 Uthai Thani,10-14,90,2003,Chickenpox
 Central Region,10-14,2059,2003,Chickenpox
 Bangkok,10-14,268,2003,Chickenpox
-Zone 4,10-14,296,2003,Chickenpox
+Zone:4,10-14,296,2003,Chickenpox
 Ang Thong,10-14,53,2003,Chickenpox
 Nonthaburi,10-14,76,2003,Chickenpox
 P.Nakhon S.Ayutthaya,10-14,106,2003,Chickenpox
 Pathum Thani,10-14,61,2003,Chickenpox
-Zone 5,10-14,243,2003,Chickenpox
+Zone:5,10-14,243,2003,Chickenpox
 Chai Nat,10-14,35,2003,Chickenpox
 Lop Buri,10-14,117,2003,Chickenpox
 Saraburi,10-14,78,2003,Chickenpox
 Sing Buri,10-14,13,2003,Chickenpox
-Zone 6,10-14,349,2003,Chickenpox
+Zone:6,10-14,349,2003,Chickenpox
 Kanchanaburi,10-14,85,2003,Chickenpox
 Nakhon Pathom,10-14,115,2003,Chickenpox
 Ratchaburi,10-14,82,2003,Chickenpox
 Suphan Buri,10-14,67,2003,Chickenpox
-Zone 7,10-14,147,2003,Chickenpox
+Zone:7,10-14,147,2003,Chickenpox
 Phetchaburi,10-14,33,2003,Chickenpox
 Prachuap Khiri Khan,10-14,38,2003,Chickenpox
 Samut Sakhon,10-14,47,2003,Chickenpox
 Samut Songkhram,10-14,29,2003,Chickenpox
-Zone 8,10-14,394,2003,Chickenpox
+Zone:8,10-14,394,2003,Chickenpox
 Chachoengsao,10-14,109,2003,Chickenpox
 Nakhon Nayok,10-14,18,2003,Chickenpox
 Prachin Buri,10-14,53,2003,Chickenpox
 Sa Kaeo,10-14,51,2003,Chickenpox
 Samut Prakan,10-14,163,2003,Chickenpox
-Zone 9,10-14,362,2003,Chickenpox
+Zone:9,10-14,362,2003,Chickenpox
 Chanthaburi,10-14,115,2003,Chickenpox
 Chon Buri,10-14,77,2003,Chickenpox
 Rayong,10-14,110,2003,Chickenpox
 Trat,10-14,60,2003,Chickenpox
 North-Eastern Region,10-14,2300,2003,Chickenpox
-Zone 10,10-14,305,2003,Chickenpox
+Zone:10,10-14,305,2003,Chickenpox
 Loei,10-14,100,2003,Chickenpox
 Nong Bua Lam Phu,10-14,69,2003,Chickenpox
 Nong Khai,10-14,22,2003,Chickenpox
 Udon Thani,10-14,114,2003,Chickenpox
-Zone 11,10-14,261,2003,Chickenpox
+Zone:11,10-14,261,2003,Chickenpox
 Kalasin,10-14,110,2003,Chickenpox
 Mukdahan,10-14,34,2003,Chickenpox
 Nakhon Phanom,10-14,40,2003,Chickenpox
 Sakon Nakhon,10-14,77,2003,Chickenpox
-Zone 12,10-14,436,2003,Chickenpox
+Zone:12,10-14,436,2003,Chickenpox
 Khon Kaen,10-14,203,2003,Chickenpox
 Maha Sarakham,10-14,92,2003,Chickenpox
 Roi Et,10-14,141,2003,Chickenpox
-Zone 13,10-14,1031,2003,Chickenpox
+Zone:13,10-14,1031,2003,Chickenpox
 Buri Ram,10-14,192,2003,Chickenpox
 Chaiyaphum,10-14,153,2003,Chickenpox
 Nakhon Ratchasima,10-14,557,2003,Chickenpox
 Surin,10-14,129,2003,Chickenpox
-Zone 14,10-14,267,2003,Chickenpox
+Zone:14,10-14,267,2003,Chickenpox
 Amnat Charoen,10-14,37,2003,Chickenpox
 Si Sa Ket,10-14,75,2003,Chickenpox
 Ubon Ratchathani,10-14,90,2003,Chickenpox
 Yasothon,10-14,65,2003,Chickenpox
 South Region,10-14,1304,2003,Chickenpox
-Zone 15,10-14,211,2003,Chickenpox
+Zone:15,10-14,211,2003,Chickenpox
 Chumphon,10-14,56,2003,Chickenpox
 Ranong,10-14,42,2003,Chickenpox
 Surat Thani,10-14,113,2003,Chickenpox
-Zone 16,10-14,381,2003,Chickenpox
+Zone:16,10-14,381,2003,Chickenpox
 Nakhon Si Thammarat,10-14,136,2003,Chickenpox
 Phatthalung,10-14,104,2003,Chickenpox
 Trang,10-14,141,2003,Chickenpox
-Zone 17,10-14,206,2003,Chickenpox
+Zone:17,10-14,206,2003,Chickenpox
 Krabi,10-14,51,2003,Chickenpox
 Phangnga,10-14,49,2003,Chickenpox
 Phuket,10-14,106,2003,Chickenpox
-Zone 18,10-14,335,2003,Chickenpox
+Zone:18,10-14,335,2003,Chickenpox
 Narathiwat,10-14,138,2003,Chickenpox
 Pattani,10-14,105,2003,Chickenpox
 Yala,10-14,92,2003,Chickenpox
-Zone 19,10-14,171,2003,Chickenpox
+Zone:19,10-14,171,2003,Chickenpox
 Satun,10-14,39,2003,Chickenpox
 Songkhla,10-14,132,2003,Chickenpox
 Total,15-24,6367,2003,Chickenpox
 North Region,15-24,1280,2003,Chickenpox
-Zone 1,15-24,545,2003,Chickenpox
+Zone:1,15-24,545,2003,Chickenpox
 Chiang Mai,15-24,123,2003,Chickenpox
 Chiang Rai,15-24,98,2003,Chickenpox
 Lampang,15-24,126,2003,Chickenpox
@@ -23376,98 +23376,98 @@ Mae Hong Son,15-24,30,2003,Chickenpox
 Nan,15-24,47,2003,Chickenpox
 Phayao,15-24,35,2003,Chickenpox
 Phrae,15-24,30,2003,Chickenpox
-Zone 2,15-24,321,2003,Chickenpox
+Zone:2,15-24,321,2003,Chickenpox
 Phetchabun,15-24,80,2003,Chickenpox
 Phitsanulok,15-24,96,2003,Chickenpox
 Sukhothai,15-24,73,2003,Chickenpox
 Tak,15-24,39,2003,Chickenpox
 Uttaradit,15-24,33,2003,Chickenpox
-Zone 3,15-24,414,2003,Chickenpox
+Zone:3,15-24,414,2003,Chickenpox
 Kamphaeng Phet,15-24,92,2003,Chickenpox
 Nakhon Sawan,15-24,165,2003,Chickenpox
 Phichit,15-24,59,2003,Chickenpox
 Uthai Thani,15-24,98,2003,Chickenpox
 Central Region,15-24,2567,2003,Chickenpox
 Bangkok,15-24,315,2003,Chickenpox
-Zone 4,15-24,331,2003,Chickenpox
+Zone:4,15-24,331,2003,Chickenpox
 Ang Thong,15-24,49,2003,Chickenpox
 Nonthaburi,15-24,55,2003,Chickenpox
 P.Nakhon S.Ayutthaya,15-24,127,2003,Chickenpox
 Pathum Thani,15-24,100,2003,Chickenpox
-Zone 5,15-24,309,2003,Chickenpox
+Zone:5,15-24,309,2003,Chickenpox
 Chai Nat,15-24,44,2003,Chickenpox
 Lop Buri,15-24,113,2003,Chickenpox
 Saraburi,15-24,122,2003,Chickenpox
 Sing Buri,15-24,30,2003,Chickenpox
-Zone 6,15-24,430,2003,Chickenpox
+Zone:6,15-24,430,2003,Chickenpox
 Kanchanaburi,15-24,58,2003,Chickenpox
 Nakhon Pathom,15-24,124,2003,Chickenpox
 Ratchaburi,15-24,122,2003,Chickenpox
 Suphan Buri,15-24,126,2003,Chickenpox
-Zone 7,15-24,191,2003,Chickenpox
+Zone:7,15-24,191,2003,Chickenpox
 Phetchaburi,15-24,45,2003,Chickenpox
 Prachuap Khiri Khan,15-24,67,2003,Chickenpox
 Samut Sakhon,15-24,50,2003,Chickenpox
 Samut Songkhram,15-24,29,2003,Chickenpox
-Zone 8,15-24,485,2003,Chickenpox
+Zone:8,15-24,485,2003,Chickenpox
 Chachoengsao,15-24,174,2003,Chickenpox
 Nakhon Nayok,15-24,30,2003,Chickenpox
 Prachin Buri,15-24,86,2003,Chickenpox
 Sa Kaeo,15-24,46,2003,Chickenpox
 Samut Prakan,15-24,149,2003,Chickenpox
-Zone 9,15-24,506,2003,Chickenpox
+Zone:9,15-24,506,2003,Chickenpox
 Chanthaburi,15-24,119,2003,Chickenpox
 Chon Buri,15-24,155,2003,Chickenpox
 Rayong,15-24,181,2003,Chickenpox
 Trat,15-24,51,2003,Chickenpox
 North-Eastern Region,15-24,1253,2003,Chickenpox
-Zone 10,15-24,121,2003,Chickenpox
+Zone:10,15-24,121,2003,Chickenpox
 Loei,15-24,42,2003,Chickenpox
 Nong Bua Lam Phu,15-24,25,2003,Chickenpox
 Nong Khai,15-24,23,2003,Chickenpox
 Udon Thani,15-24,31,2003,Chickenpox
-Zone 11,15-24,111,2003,Chickenpox
+Zone:11,15-24,111,2003,Chickenpox
 Kalasin,15-24,46,2003,Chickenpox
 Mukdahan,15-24,20,2003,Chickenpox
 Nakhon Phanom,15-24,21,2003,Chickenpox
 Sakon Nakhon,15-24,24,2003,Chickenpox
-Zone 12,15-24,244,2003,Chickenpox
+Zone:12,15-24,244,2003,Chickenpox
 Khon Kaen,15-24,135,2003,Chickenpox
 Maha Sarakham,15-24,38,2003,Chickenpox
 Roi Et,15-24,71,2003,Chickenpox
-Zone 13,15-24,598,2003,Chickenpox
+Zone:13,15-24,598,2003,Chickenpox
 Buri Ram,15-24,132,2003,Chickenpox
 Chaiyaphum,15-24,90,2003,Chickenpox
 Nakhon Ratchasima,15-24,321,2003,Chickenpox
 Surin,15-24,55,2003,Chickenpox
-Zone 14,15-24,179,2003,Chickenpox
+Zone:14,15-24,179,2003,Chickenpox
 Amnat Charoen,15-24,15,2003,Chickenpox
 Si Sa Ket,15-24,68,2003,Chickenpox
 Ubon Ratchathani,15-24,61,2003,Chickenpox
 Yasothon,15-24,35,2003,Chickenpox
 South Region,15-24,1267,2003,Chickenpox
-Zone 15,15-24,270,2003,Chickenpox
+Zone:15,15-24,270,2003,Chickenpox
 Chumphon,15-24,45,2003,Chickenpox
 Ranong,15-24,35,2003,Chickenpox
 Surat Thani,15-24,190,2003,Chickenpox
-Zone 16,15-24,316,2003,Chickenpox
+Zone:16,15-24,316,2003,Chickenpox
 Nakhon Si Thammarat,15-24,129,2003,Chickenpox
 Phatthalung,15-24,68,2003,Chickenpox
 Trang,15-24,119,2003,Chickenpox
-Zone 17,15-24,258,2003,Chickenpox
+Zone:17,15-24,258,2003,Chickenpox
 Krabi,15-24,51,2003,Chickenpox
 Phangnga,15-24,44,2003,Chickenpox
 Phuket,15-24,163,2003,Chickenpox
-Zone 18,15-24,270,2003,Chickenpox
+Zone:18,15-24,270,2003,Chickenpox
 Narathiwat,15-24,98,2003,Chickenpox
 Pattani,15-24,90,2003,Chickenpox
 Yala,15-24,82,2003,Chickenpox
-Zone 19,15-24,153,2003,Chickenpox
+Zone:19,15-24,153,2003,Chickenpox
 Satun,15-24,15,2003,Chickenpox
 Songkhla,15-24,138,2003,Chickenpox
 Total,25-34,3693,2003,Chickenpox
 North Region,25-34,703,2003,Chickenpox
-Zone 1,25-34,317,2003,Chickenpox
+Zone:1,25-34,317,2003,Chickenpox
 Chiang Mai,25-34,65,2003,Chickenpox
 Chiang Rai,25-34,63,2003,Chickenpox
 Lampang,25-34,73,2003,Chickenpox
@@ -23476,98 +23476,98 @@ Mae Hong Son,25-34,14,2003,Chickenpox
 Nan,25-34,26,2003,Chickenpox
 Phayao,25-34,21,2003,Chickenpox
 Phrae,25-34,16,2003,Chickenpox
-Zone 2,25-34,155,2003,Chickenpox
+Zone:2,25-34,155,2003,Chickenpox
 Phetchabun,25-34,36,2003,Chickenpox
 Phitsanulok,25-34,40,2003,Chickenpox
 Sukhothai,25-34,23,2003,Chickenpox
 Tak,25-34,38,2003,Chickenpox
 Uttaradit,25-34,18,2003,Chickenpox
-Zone 3,25-34,231,2003,Chickenpox
+Zone:3,25-34,231,2003,Chickenpox
 Kamphaeng Phet,25-34,75,2003,Chickenpox
 Nakhon Sawan,25-34,73,2003,Chickenpox
 Phichit,25-34,37,2003,Chickenpox
 Uthai Thani,25-34,46,2003,Chickenpox
 Central Region,25-34,1552,2003,Chickenpox
 Bangkok,25-34,191,2003,Chickenpox
-Zone 4,25-34,198,2003,Chickenpox
+Zone:4,25-34,198,2003,Chickenpox
 Ang Thong,25-34,32,2003,Chickenpox
 Nonthaburi,25-34,28,2003,Chickenpox
 P.Nakhon S.Ayutthaya,25-34,66,2003,Chickenpox
 Pathum Thani,25-34,72,2003,Chickenpox
-Zone 5,25-34,157,2003,Chickenpox
+Zone:5,25-34,157,2003,Chickenpox
 Chai Nat,25-34,22,2003,Chickenpox
 Lop Buri,25-34,57,2003,Chickenpox
 Saraburi,25-34,61,2003,Chickenpox
 Sing Buri,25-34,17,2003,Chickenpox
-Zone 6,25-34,299,2003,Chickenpox
+Zone:6,25-34,299,2003,Chickenpox
 Kanchanaburi,25-34,52,2003,Chickenpox
 Nakhon Pathom,25-34,80,2003,Chickenpox
 Ratchaburi,25-34,83,2003,Chickenpox
 Suphan Buri,25-34,84,2003,Chickenpox
-Zone 7,25-34,113,2003,Chickenpox
+Zone:7,25-34,113,2003,Chickenpox
 Phetchaburi,25-34,14,2003,Chickenpox
 Prachuap Khiri Khan,25-34,41,2003,Chickenpox
 Samut Sakhon,25-34,40,2003,Chickenpox
 Samut Songkhram,25-34,18,2003,Chickenpox
-Zone 8,25-34,303,2003,Chickenpox
+Zone:8,25-34,303,2003,Chickenpox
 Chachoengsao,25-34,112,2003,Chickenpox
 Nakhon Nayok,25-34,16,2003,Chickenpox
 Prachin Buri,25-34,57,2003,Chickenpox
 Sa Kaeo,25-34,31,2003,Chickenpox
 Samut Prakan,25-34,87,2003,Chickenpox
-Zone 9,25-34,291,2003,Chickenpox
+Zone:9,25-34,291,2003,Chickenpox
 Chanthaburi,25-34,64,2003,Chickenpox
 Chon Buri,25-34,91,2003,Chickenpox
 Rayong,25-34,83,2003,Chickenpox
 Trat,25-34,53,2003,Chickenpox
 North-Eastern Region,25-34,580,2003,Chickenpox
-Zone 10,25-34,56,2003,Chickenpox
+Zone:10,25-34,56,2003,Chickenpox
 Loei,25-34,15,2003,Chickenpox
 Nong Bua Lam Phu,25-34,10,2003,Chickenpox
 Nong Khai,25-34,7,2003,Chickenpox
 Udon Thani,25-34,24,2003,Chickenpox
-Zone 11,25-34,49,2003,Chickenpox
+Zone:11,25-34,49,2003,Chickenpox
 Kalasin,25-34,20,2003,Chickenpox
 Mukdahan,25-34,10,2003,Chickenpox
 Nakhon Phanom,25-34,10,2003,Chickenpox
 Sakon Nakhon,25-34,9,2003,Chickenpox
-Zone 12,25-34,73,2003,Chickenpox
+Zone:12,25-34,73,2003,Chickenpox
 Khon Kaen,25-34,40,2003,Chickenpox
 Maha Sarakham,25-34,9,2003,Chickenpox
 Roi Et,25-34,24,2003,Chickenpox
-Zone 13,25-34,314,2003,Chickenpox
+Zone:13,25-34,314,2003,Chickenpox
 Buri Ram,25-34,64,2003,Chickenpox
 Chaiyaphum,25-34,37,2003,Chickenpox
 Nakhon Ratchasima,25-34,181,2003,Chickenpox
 Surin,25-34,32,2003,Chickenpox
-Zone 14,25-34,88,2003,Chickenpox
+Zone:14,25-34,88,2003,Chickenpox
 Amnat Charoen,25-34,6,2003,Chickenpox
 Si Sa Ket,25-34,36,2003,Chickenpox
 Ubon Ratchathani,25-34,32,2003,Chickenpox
 Yasothon,25-34,14,2003,Chickenpox
 South Region,25-34,858,2003,Chickenpox
-Zone 15,25-34,160,2003,Chickenpox
+Zone:15,25-34,160,2003,Chickenpox
 Chumphon,25-34,25,2003,Chickenpox
 Ranong,25-34,19,2003,Chickenpox
 Surat Thani,25-34,116,2003,Chickenpox
-Zone 16,25-34,176,2003,Chickenpox
+Zone:16,25-34,176,2003,Chickenpox
 Nakhon Si Thammarat,25-34,66,2003,Chickenpox
 Phatthalung,25-34,47,2003,Chickenpox
 Trang,25-34,63,2003,Chickenpox
-Zone 17,25-34,258,2003,Chickenpox
+Zone:17,25-34,258,2003,Chickenpox
 Krabi,25-34,61,2003,Chickenpox
 Phangnga,25-34,29,2003,Chickenpox
 Phuket,25-34,168,2003,Chickenpox
-Zone 18,25-34,152,2003,Chickenpox
+Zone:18,25-34,152,2003,Chickenpox
 Narathiwat,25-34,42,2003,Chickenpox
 Pattani,25-34,60,2003,Chickenpox
 Yala,25-34,50,2003,Chickenpox
-Zone 19,25-34,112,2003,Chickenpox
+Zone:19,25-34,112,2003,Chickenpox
 Satun,25-34,15,2003,Chickenpox
 Songkhla,25-34,97,2003,Chickenpox
 Total,35-44,1163,2003,Chickenpox
 North Region,35-44,179,2003,Chickenpox
-Zone 1,35-44,79,2003,Chickenpox
+Zone:1,35-44,79,2003,Chickenpox
 Chiang Mai,35-44,24,2003,Chickenpox
 Chiang Rai,35-44,20,2003,Chickenpox
 Lampang,35-44,19,2003,Chickenpox
@@ -23576,98 +23576,98 @@ Mae Hong Son,35-44,3,2003,Chickenpox
 Nan,35-44,6,2003,Chickenpox
 Phayao,35-44,0,2003,Chickenpox
 Phrae,35-44,3,2003,Chickenpox
-Zone 2,35-44,43,2003,Chickenpox
+Zone:2,35-44,43,2003,Chickenpox
 Phetchabun,35-44,13,2003,Chickenpox
 Phitsanulok,35-44,13,2003,Chickenpox
 Sukhothai,35-44,2,2003,Chickenpox
 Tak,35-44,9,2003,Chickenpox
 Uttaradit,35-44,6,2003,Chickenpox
-Zone 3,35-44,57,2003,Chickenpox
+Zone:3,35-44,57,2003,Chickenpox
 Kamphaeng Phet,35-44,12,2003,Chickenpox
 Nakhon Sawan,35-44,15,2003,Chickenpox
 Phichit,35-44,12,2003,Chickenpox
 Uthai Thani,35-44,18,2003,Chickenpox
 Central Region,35-44,479,2003,Chickenpox
 Bangkok,35-44,55,2003,Chickenpox
-Zone 4,35-44,97,2003,Chickenpox
+Zone:4,35-44,97,2003,Chickenpox
 Ang Thong,35-44,12,2003,Chickenpox
 Nonthaburi,35-44,23,2003,Chickenpox
 P.Nakhon S.Ayutthaya,35-44,49,2003,Chickenpox
 Pathum Thani,35-44,13,2003,Chickenpox
-Zone 5,35-44,52,2003,Chickenpox
+Zone:5,35-44,52,2003,Chickenpox
 Chai Nat,35-44,6,2003,Chickenpox
 Lop Buri,35-44,21,2003,Chickenpox
 Saraburi,35-44,19,2003,Chickenpox
 Sing Buri,35-44,6,2003,Chickenpox
-Zone 6,35-44,85,2003,Chickenpox
+Zone:6,35-44,85,2003,Chickenpox
 Kanchanaburi,35-44,14,2003,Chickenpox
 Nakhon Pathom,35-44,20,2003,Chickenpox
 Ratchaburi,35-44,31,2003,Chickenpox
 Suphan Buri,35-44,20,2003,Chickenpox
-Zone 7,35-44,26,2003,Chickenpox
+Zone:7,35-44,26,2003,Chickenpox
 Phetchaburi,35-44,3,2003,Chickenpox
 Prachuap Khiri Khan,35-44,13,2003,Chickenpox
 Samut Sakhon,35-44,7,2003,Chickenpox
 Samut Songkhram,35-44,3,2003,Chickenpox
-Zone 8,35-44,64,2003,Chickenpox
+Zone:8,35-44,64,2003,Chickenpox
 Chachoengsao,35-44,23,2003,Chickenpox
 Nakhon Nayok,35-44,4,2003,Chickenpox
 Prachin Buri,35-44,15,2003,Chickenpox
 Sa Kaeo,35-44,9,2003,Chickenpox
 Samut Prakan,35-44,13,2003,Chickenpox
-Zone 9,35-44,100,2003,Chickenpox
+Zone:9,35-44,100,2003,Chickenpox
 Chanthaburi,35-44,32,2003,Chickenpox
 Chon Buri,35-44,21,2003,Chickenpox
 Rayong,35-44,28,2003,Chickenpox
 Trat,35-44,19,2003,Chickenpox
 North-Eastern Region,35-44,187,2003,Chickenpox
-Zone 10,35-44,32,2003,Chickenpox
+Zone:10,35-44,32,2003,Chickenpox
 Loei,35-44,5,2003,Chickenpox
 Nong Bua Lam Phu,35-44,24,2003,Chickenpox
 Nong Khai,35-44,1,2003,Chickenpox
 Udon Thani,35-44,2,2003,Chickenpox
-Zone 11,35-44,17,2003,Chickenpox
+Zone:11,35-44,17,2003,Chickenpox
 Kalasin,35-44,9,2003,Chickenpox
 Mukdahan,35-44,1,2003,Chickenpox
 Nakhon Phanom,35-44,1,2003,Chickenpox
 Sakon Nakhon,35-44,6,2003,Chickenpox
-Zone 12,35-44,24,2003,Chickenpox
+Zone:12,35-44,24,2003,Chickenpox
 Khon Kaen,35-44,11,2003,Chickenpox
 Maha Sarakham,35-44,4,2003,Chickenpox
 Roi Et,35-44,9,2003,Chickenpox
-Zone 13,35-44,90,2003,Chickenpox
+Zone:13,35-44,90,2003,Chickenpox
 Buri Ram,35-44,18,2003,Chickenpox
 Chaiyaphum,35-44,9,2003,Chickenpox
 Nakhon Ratchasima,35-44,54,2003,Chickenpox
 Surin,35-44,9,2003,Chickenpox
-Zone 14,35-44,24,2003,Chickenpox
+Zone:14,35-44,24,2003,Chickenpox
 Amnat Charoen,35-44,2,2003,Chickenpox
 Si Sa Ket,35-44,12,2003,Chickenpox
 Ubon Ratchathani,35-44,6,2003,Chickenpox
 Yasothon,35-44,4,2003,Chickenpox
 South Region,35-44,318,2003,Chickenpox
-Zone 15,35-44,44,2003,Chickenpox
+Zone:15,35-44,44,2003,Chickenpox
 Chumphon,35-44,5,2003,Chickenpox
 Ranong,35-44,9,2003,Chickenpox
 Surat Thani,35-44,30,2003,Chickenpox
-Zone 16,35-44,74,2003,Chickenpox
+Zone:16,35-44,74,2003,Chickenpox
 Nakhon Si Thammarat,35-44,32,2003,Chickenpox
 Phatthalung,35-44,16,2003,Chickenpox
 Trang,35-44,26,2003,Chickenpox
-Zone 17,35-44,70,2003,Chickenpox
+Zone:17,35-44,70,2003,Chickenpox
 Krabi,35-44,12,2003,Chickenpox
 Phangnga,35-44,19,2003,Chickenpox
 Phuket,35-44,39,2003,Chickenpox
-Zone 18,35-44,75,2003,Chickenpox
+Zone:18,35-44,75,2003,Chickenpox
 Narathiwat,35-44,23,2003,Chickenpox
 Pattani,35-44,33,2003,Chickenpox
 Yala,35-44,19,2003,Chickenpox
-Zone 19,35-44,55,2003,Chickenpox
+Zone:19,35-44,55,2003,Chickenpox
 Satun,35-44,4,2003,Chickenpox
 Songkhla,35-44,51,2003,Chickenpox
 Total,45-54,293,2003,Chickenpox
 North Region,45-54,54,2003,Chickenpox
-Zone 1,45-54,25,2003,Chickenpox
+Zone:1,45-54,25,2003,Chickenpox
 Chiang Mai,45-54,5,2003,Chickenpox
 Chiang Rai,45-54,5,2003,Chickenpox
 Lampang,45-54,3,2003,Chickenpox
@@ -23676,98 +23676,98 @@ Mae Hong Son,45-54,1,2003,Chickenpox
 Nan,45-54,5,2003,Chickenpox
 Phayao,45-54,3,2003,Chickenpox
 Phrae,45-54,0,2003,Chickenpox
-Zone 2,45-54,8,2003,Chickenpox
+Zone:2,45-54,8,2003,Chickenpox
 Phetchabun,45-54,1,2003,Chickenpox
 Phitsanulok,45-54,4,2003,Chickenpox
 Sukhothai,45-54,0,2003,Chickenpox
 Tak,45-54,2,2003,Chickenpox
 Uttaradit,45-54,1,2003,Chickenpox
-Zone 3,45-54,21,2003,Chickenpox
+Zone:3,45-54,21,2003,Chickenpox
 Kamphaeng Phet,45-54,4,2003,Chickenpox
 Nakhon Sawan,45-54,7,2003,Chickenpox
 Phichit,45-54,2,2003,Chickenpox
 Uthai Thani,45-54,8,2003,Chickenpox
 Central Region,45-54,78,2003,Chickenpox
 Bangkok,45-54,11,2003,Chickenpox
-Zone 4,45-54,9,2003,Chickenpox
+Zone:4,45-54,9,2003,Chickenpox
 Ang Thong,45-54,1,2003,Chickenpox
 Nonthaburi,45-54,1,2003,Chickenpox
 P.Nakhon S.Ayutthaya,45-54,5,2003,Chickenpox
 Pathum Thani,45-54,2,2003,Chickenpox
-Zone 5,45-54,13,2003,Chickenpox
+Zone:5,45-54,13,2003,Chickenpox
 Chai Nat,45-54,2,2003,Chickenpox
 Lop Buri,45-54,4,2003,Chickenpox
 Saraburi,45-54,6,2003,Chickenpox
 Sing Buri,45-54,1,2003,Chickenpox
-Zone 6,45-54,13,2003,Chickenpox
+Zone:6,45-54,13,2003,Chickenpox
 Kanchanaburi,45-54,6,2003,Chickenpox
 Nakhon Pathom,45-54,2,2003,Chickenpox
 Ratchaburi,45-54,4,2003,Chickenpox
 Suphan Buri,45-54,1,2003,Chickenpox
-Zone 7,45-54,9,2003,Chickenpox
+Zone:7,45-54,9,2003,Chickenpox
 Phetchaburi,45-54,1,2003,Chickenpox
 Prachuap Khiri Khan,45-54,2,2003,Chickenpox
 Samut Sakhon,45-54,2,2003,Chickenpox
 Samut Songkhram,45-54,4,2003,Chickenpox
-Zone 8,45-54,12,2003,Chickenpox
+Zone:8,45-54,12,2003,Chickenpox
 Chachoengsao,45-54,4,2003,Chickenpox
 Nakhon Nayok,45-54,1,2003,Chickenpox
 Prachin Buri,45-54,5,2003,Chickenpox
 Sa Kaeo,45-54,1,2003,Chickenpox
 Samut Prakan,45-54,1,2003,Chickenpox
-Zone 9,45-54,11,2003,Chickenpox
+Zone:9,45-54,11,2003,Chickenpox
 Chanthaburi,45-54,5,2003,Chickenpox
 Chon Buri,45-54,0,2003,Chickenpox
 Rayong,45-54,4,2003,Chickenpox
 Trat,45-54,2,2003,Chickenpox
 North-Eastern Region,45-54,65,2003,Chickenpox
-Zone 10,45-54,9,2003,Chickenpox
+Zone:10,45-54,9,2003,Chickenpox
 Loei,45-54,0,2003,Chickenpox
 Nong Bua Lam Phu,45-54,4,2003,Chickenpox
 Nong Khai,45-54,1,2003,Chickenpox
 Udon Thani,45-54,4,2003,Chickenpox
-Zone 11,45-54,5,2003,Chickenpox
+Zone:11,45-54,5,2003,Chickenpox
 Kalasin,45-54,4,2003,Chickenpox
 Mukdahan,45-54,0,2003,Chickenpox
 Nakhon Phanom,45-54,0,2003,Chickenpox
 Sakon Nakhon,45-54,1,2003,Chickenpox
-Zone 12,45-54,6,2003,Chickenpox
+Zone:12,45-54,6,2003,Chickenpox
 Khon Kaen,45-54,3,2003,Chickenpox
 Maha Sarakham,45-54,1,2003,Chickenpox
 Roi Et,45-54,2,2003,Chickenpox
-Zone 13,45-54,36,2003,Chickenpox
+Zone:13,45-54,36,2003,Chickenpox
 Buri Ram,45-54,9,2003,Chickenpox
 Chaiyaphum,45-54,6,2003,Chickenpox
 Nakhon Ratchasima,45-54,20,2003,Chickenpox
 Surin,45-54,1,2003,Chickenpox
-Zone 14,45-54,9,2003,Chickenpox
+Zone:14,45-54,9,2003,Chickenpox
 Amnat Charoen,45-54,1,2003,Chickenpox
 Si Sa Ket,45-54,5,2003,Chickenpox
 Ubon Ratchathani,45-54,3,2003,Chickenpox
 Yasothon,45-54,0,2003,Chickenpox
 South Region,45-54,96,2003,Chickenpox
-Zone 15,45-54,20,2003,Chickenpox
+Zone:15,45-54,20,2003,Chickenpox
 Chumphon,45-54,2,2003,Chickenpox
 Ranong,45-54,3,2003,Chickenpox
 Surat Thani,45-54,15,2003,Chickenpox
-Zone 16,45-54,18,2003,Chickenpox
+Zone:16,45-54,18,2003,Chickenpox
 Nakhon Si Thammarat,45-54,8,2003,Chickenpox
 Phatthalung,45-54,4,2003,Chickenpox
 Trang,45-54,6,2003,Chickenpox
-Zone 17,45-54,11,2003,Chickenpox
+Zone:17,45-54,11,2003,Chickenpox
 Krabi,45-54,2,2003,Chickenpox
 Phangnga,45-54,1,2003,Chickenpox
 Phuket,45-54,8,2003,Chickenpox
-Zone 18,45-54,30,2003,Chickenpox
+Zone:18,45-54,30,2003,Chickenpox
 Narathiwat,45-54,7,2003,Chickenpox
 Pattani,45-54,18,2003,Chickenpox
 Yala,45-54,5,2003,Chickenpox
-Zone 19,45-54,17,2003,Chickenpox
+Zone:19,45-54,17,2003,Chickenpox
 Satun,45-54,1,2003,Chickenpox
 Songkhla,45-54,16,2003,Chickenpox
 Total,55-64,172,2003,Chickenpox
 North Region,55-64,29,2003,Chickenpox
-Zone 1,55-64,18,2003,Chickenpox
+Zone:1,55-64,18,2003,Chickenpox
 Chiang Mai,55-64,4,2003,Chickenpox
 Chiang Rai,55-64,6,2003,Chickenpox
 Lampang,55-64,5,2003,Chickenpox
@@ -23776,98 +23776,98 @@ Mae Hong Son,55-64,0,2003,Chickenpox
 Nan,55-64,2,2003,Chickenpox
 Phayao,55-64,0,2003,Chickenpox
 Phrae,55-64,1,2003,Chickenpox
-Zone 2,55-64,4,2003,Chickenpox
+Zone:2,55-64,4,2003,Chickenpox
 Phetchabun,55-64,1,2003,Chickenpox
 Phitsanulok,55-64,1,2003,Chickenpox
 Sukhothai,55-64,0,2003,Chickenpox
 Tak,55-64,1,2003,Chickenpox
 Uttaradit,55-64,1,2003,Chickenpox
-Zone 3,55-64,7,2003,Chickenpox
+Zone:3,55-64,7,2003,Chickenpox
 Kamphaeng Phet,55-64,5,2003,Chickenpox
 Nakhon Sawan,55-64,0,2003,Chickenpox
 Phichit,55-64,0,2003,Chickenpox
 Uthai Thani,55-64,2,2003,Chickenpox
 Central Region,55-64,49,2003,Chickenpox
 Bangkok,55-64,4,2003,Chickenpox
-Zone 4,55-64,1,2003,Chickenpox
+Zone:4,55-64,1,2003,Chickenpox
 Ang Thong,55-64,0,2003,Chickenpox
 Nonthaburi,55-64,0,2003,Chickenpox
 P.Nakhon S.Ayutthaya,55-64,1,2003,Chickenpox
 Pathum Thani,55-64,0,2003,Chickenpox
-Zone 5,55-64,4,2003,Chickenpox
+Zone:5,55-64,4,2003,Chickenpox
 Chai Nat,55-64,1,2003,Chickenpox
 Lop Buri,55-64,0,2003,Chickenpox
 Saraburi,55-64,2,2003,Chickenpox
 Sing Buri,55-64,1,2003,Chickenpox
-Zone 6,55-64,16,2003,Chickenpox
+Zone:6,55-64,16,2003,Chickenpox
 Kanchanaburi,55-64,3,2003,Chickenpox
 Nakhon Pathom,55-64,4,2003,Chickenpox
 Ratchaburi,55-64,5,2003,Chickenpox
 Suphan Buri,55-64,4,2003,Chickenpox
-Zone 7,55-64,4,2003,Chickenpox
+Zone:7,55-64,4,2003,Chickenpox
 Phetchaburi,55-64,0,2003,Chickenpox
 Prachuap Khiri Khan,55-64,2,2003,Chickenpox
 Samut Sakhon,55-64,0,2003,Chickenpox
 Samut Songkhram,55-64,2,2003,Chickenpox
-Zone 8,55-64,9,2003,Chickenpox
+Zone:8,55-64,9,2003,Chickenpox
 Chachoengsao,55-64,3,2003,Chickenpox
 Nakhon Nayok,55-64,0,2003,Chickenpox
 Prachin Buri,55-64,3,2003,Chickenpox
 Sa Kaeo,55-64,1,2003,Chickenpox
 Samut Prakan,55-64,2,2003,Chickenpox
-Zone 9,55-64,11,2003,Chickenpox
+Zone:9,55-64,11,2003,Chickenpox
 Chanthaburi,55-64,1,2003,Chickenpox
 Chon Buri,55-64,2,2003,Chickenpox
 Rayong,55-64,5,2003,Chickenpox
 Trat,55-64,3,2003,Chickenpox
 North-Eastern Region,55-64,36,2003,Chickenpox
-Zone 10,55-64,3,2003,Chickenpox
+Zone:10,55-64,3,2003,Chickenpox
 Loei,55-64,2,2003,Chickenpox
 Nong Bua Lam Phu,55-64,0,2003,Chickenpox
 Nong Khai,55-64,0,2003,Chickenpox
 Udon Thani,55-64,1,2003,Chickenpox
-Zone 11,55-64,13,2003,Chickenpox
+Zone:11,55-64,13,2003,Chickenpox
 Kalasin,55-64,11,2003,Chickenpox
 Mukdahan,55-64,0,2003,Chickenpox
 Nakhon Phanom,55-64,0,2003,Chickenpox
 Sakon Nakhon,55-64,2,2003,Chickenpox
-Zone 12,55-64,3,2003,Chickenpox
+Zone:12,55-64,3,2003,Chickenpox
 Khon Kaen,55-64,1,2003,Chickenpox
 Maha Sarakham,55-64,2,2003,Chickenpox
 Roi Et,55-64,0,2003,Chickenpox
-Zone 13,55-64,11,2003,Chickenpox
+Zone:13,55-64,11,2003,Chickenpox
 Buri Ram,55-64,4,2003,Chickenpox
 Chaiyaphum,55-64,1,2003,Chickenpox
 Nakhon Ratchasima,55-64,6,2003,Chickenpox
 Surin,55-64,0,2003,Chickenpox
-Zone 14,55-64,6,2003,Chickenpox
+Zone:14,55-64,6,2003,Chickenpox
 Amnat Charoen,55-64,1,2003,Chickenpox
 Si Sa Ket,55-64,4,2003,Chickenpox
 Ubon Ratchathani,55-64,0,2003,Chickenpox
 Yasothon,55-64,1,2003,Chickenpox
 South Region,55-64,58,2003,Chickenpox
-Zone 15,55-64,8,2003,Chickenpox
+Zone:15,55-64,8,2003,Chickenpox
 Chumphon,55-64,0,2003,Chickenpox
 Ranong,55-64,0,2003,Chickenpox
 Surat Thani,55-64,8,2003,Chickenpox
-Zone 16,55-64,8,2003,Chickenpox
+Zone:16,55-64,8,2003,Chickenpox
 Nakhon Si Thammarat,55-64,6,2003,Chickenpox
 Phatthalung,55-64,1,2003,Chickenpox
 Trang,55-64,1,2003,Chickenpox
-Zone 17,55-64,6,2003,Chickenpox
+Zone:17,55-64,6,2003,Chickenpox
 Krabi,55-64,2,2003,Chickenpox
 Phangnga,55-64,1,2003,Chickenpox
 Phuket,55-64,3,2003,Chickenpox
-Zone 18,55-64,14,2003,Chickenpox
+Zone:18,55-64,14,2003,Chickenpox
 Narathiwat,55-64,4,2003,Chickenpox
 Pattani,55-64,8,2003,Chickenpox
 Yala,55-64,2,2003,Chickenpox
-Zone 19,55-64,22,2003,Chickenpox
+Zone:19,55-64,22,2003,Chickenpox
 Satun,55-64,3,2003,Chickenpox
 Songkhla,55-64,19,2003,Chickenpox
 Total,65+,219,2003,Chickenpox
 North Region,65+,36,2003,Chickenpox
-Zone 1,65+,18,2003,Chickenpox
+Zone:1,65+,18,2003,Chickenpox
 Chiang Mai,65+,9,2003,Chickenpox
 Chiang Rai,65+,4,2003,Chickenpox
 Lampang,65+,1,2003,Chickenpox
@@ -23876,98 +23876,98 @@ Mae Hong Son,65+,1,2003,Chickenpox
 Nan,65+,2,2003,Chickenpox
 Phayao,65+,0,2003,Chickenpox
 Phrae,65+,0,2003,Chickenpox
-Zone 2,65+,3,2003,Chickenpox
+Zone:2,65+,3,2003,Chickenpox
 Phetchabun,65+,1,2003,Chickenpox
 Phitsanulok,65+,1,2003,Chickenpox
 Sukhothai,65+,1,2003,Chickenpox
 Tak,65+,0,2003,Chickenpox
 Uttaradit,65+,0,2003,Chickenpox
-Zone 3,65+,15,2003,Chickenpox
+Zone:3,65+,15,2003,Chickenpox
 Kamphaeng Phet,65+,4,2003,Chickenpox
 Nakhon Sawan,65+,5,2003,Chickenpox
 Phichit,65+,4,2003,Chickenpox
 Uthai Thani,65+,2,2003,Chickenpox
 Central Region,65+,64,2003,Chickenpox
 Bangkok,65+,5,2003,Chickenpox
-Zone 4,65+,10,2003,Chickenpox
+Zone:4,65+,10,2003,Chickenpox
 Ang Thong,65+,0,2003,Chickenpox
 Nonthaburi,65+,1,2003,Chickenpox
 P.Nakhon S.Ayutthaya,65+,8,2003,Chickenpox
 Pathum Thani,65+,1,2003,Chickenpox
-Zone 5,65+,3,2003,Chickenpox
+Zone:5,65+,3,2003,Chickenpox
 Chai Nat,65+,0,2003,Chickenpox
 Lop Buri,65+,1,2003,Chickenpox
 Saraburi,65+,2,2003,Chickenpox
 Sing Buri,65+,0,2003,Chickenpox
-Zone 6,65+,21,2003,Chickenpox
+Zone:6,65+,21,2003,Chickenpox
 Kanchanaburi,65+,6,2003,Chickenpox
 Nakhon Pathom,65+,2,2003,Chickenpox
 Ratchaburi,65+,8,2003,Chickenpox
 Suphan Buri,65+,5,2003,Chickenpox
-Zone 7,65+,11,2003,Chickenpox
+Zone:7,65+,11,2003,Chickenpox
 Phetchaburi,65+,1,2003,Chickenpox
 Prachuap Khiri Khan,65+,3,2003,Chickenpox
 Samut Sakhon,65+,2,2003,Chickenpox
 Samut Songkhram,65+,5,2003,Chickenpox
-Zone 8,65+,9,2003,Chickenpox
+Zone:8,65+,9,2003,Chickenpox
 Chachoengsao,65+,2,2003,Chickenpox
 Nakhon Nayok,65+,1,2003,Chickenpox
 Prachin Buri,65+,4,2003,Chickenpox
 Sa Kaeo,65+,0,2003,Chickenpox
 Samut Prakan,65+,2,2003,Chickenpox
-Zone 9,65+,5,2003,Chickenpox
+Zone:9,65+,5,2003,Chickenpox
 Chanthaburi,65+,2,2003,Chickenpox
 Chon Buri,65+,1,2003,Chickenpox
 Rayong,65+,2,2003,Chickenpox
 Trat,65+,0,2003,Chickenpox
 North-Eastern Region,65+,47,2003,Chickenpox
-Zone 10,65+,5,2003,Chickenpox
+Zone:10,65+,5,2003,Chickenpox
 Loei,65+,4,2003,Chickenpox
 Nong Bua Lam Phu,65+,0,2003,Chickenpox
 Nong Khai,65+,0,2003,Chickenpox
 Udon Thani,65+,1,2003,Chickenpox
-Zone 11,65+,10,2003,Chickenpox
+Zone:11,65+,10,2003,Chickenpox
 Kalasin,65+,6,2003,Chickenpox
 Mukdahan,65+,0,2003,Chickenpox
 Nakhon Phanom,65+,3,2003,Chickenpox
 Sakon Nakhon,65+,1,2003,Chickenpox
-Zone 12,65+,6,2003,Chickenpox
+Zone:12,65+,6,2003,Chickenpox
 Khon Kaen,65+,3,2003,Chickenpox
 Maha Sarakham,65+,1,2003,Chickenpox
 Roi Et,65+,2,2003,Chickenpox
-Zone 13,65+,17,2003,Chickenpox
+Zone:13,65+,17,2003,Chickenpox
 Buri Ram,65+,4,2003,Chickenpox
 Chaiyaphum,65+,3,2003,Chickenpox
 Nakhon Ratchasima,65+,10,2003,Chickenpox
 Surin,65+,0,2003,Chickenpox
-Zone 14,65+,9,2003,Chickenpox
+Zone:14,65+,9,2003,Chickenpox
 Amnat Charoen,65+,1,2003,Chickenpox
 Si Sa Ket,65+,2,2003,Chickenpox
 Ubon Ratchathani,65+,3,2003,Chickenpox
 Yasothon,65+,3,2003,Chickenpox
 South Region,65+,72,2003,Chickenpox
-Zone 15,65+,12,2003,Chickenpox
+Zone:15,65+,12,2003,Chickenpox
 Chumphon,65+,1,2003,Chickenpox
 Ranong,65+,0,2003,Chickenpox
 Surat Thani,65+,11,2003,Chickenpox
-Zone 16,65+,17,2003,Chickenpox
+Zone:16,65+,17,2003,Chickenpox
 Nakhon Si Thammarat,65+,14,2003,Chickenpox
 Phatthalung,65+,1,2003,Chickenpox
 Trang,65+,2,2003,Chickenpox
-Zone 17,65+,3,2003,Chickenpox
+Zone:17,65+,3,2003,Chickenpox
 Krabi,65+,1,2003,Chickenpox
 Phangnga,65+,2,2003,Chickenpox
 Phuket,65+,0,2003,Chickenpox
-Zone 18,65+,17,2003,Chickenpox
+Zone:18,65+,17,2003,Chickenpox
 Narathiwat,65+,7,2003,Chickenpox
 Pattani,65+,10,2003,Chickenpox
 Yala,65+,0,2003,Chickenpox
-Zone 19,65+,23,2003,Chickenpox
+Zone:19,65+,23,2003,Chickenpox
 Satun,65+,1,2003,Chickenpox
 Songkhla,65+,22,2003,Chickenpox
 Total,Unknown,26,2003,Chickenpox
 North Region,Unknown,1,2003,Chickenpox
-Zone 1,Unknown,1,2003,Chickenpox
+Zone:1,Unknown,1,2003,Chickenpox
 Chiang Mai,Unknown,0,2003,Chickenpox
 Chiang Rai,Unknown,0,2003,Chickenpox
 Lampang,Unknown,0,2003,Chickenpox
@@ -23976,93 +23976,93 @@ Mae Hong Son,Unknown,0,2003,Chickenpox
 Nan,Unknown,0,2003,Chickenpox
 Phayao,Unknown,1,2003,Chickenpox
 Phrae,Unknown,0,2003,Chickenpox
-Zone 2,Unknown,0,2003,Chickenpox
+Zone:2,Unknown,0,2003,Chickenpox
 Phetchabun,Unknown,0,2003,Chickenpox
 Phitsanulok,Unknown,0,2003,Chickenpox
 Sukhothai,Unknown,0,2003,Chickenpox
 Tak,Unknown,0,2003,Chickenpox
 Uttaradit,Unknown,0,2003,Chickenpox
-Zone 3,Unknown,0,2003,Chickenpox
+Zone:3,Unknown,0,2003,Chickenpox
 Kamphaeng Phet,Unknown,0,2003,Chickenpox
 Nakhon Sawan,Unknown,0,2003,Chickenpox
 Phichit,Unknown,0,2003,Chickenpox
 Uthai Thani,Unknown,0,2003,Chickenpox
 Central Region,Unknown,23,2003,Chickenpox
 Bangkok,Unknown,23,2003,Chickenpox
-Zone 4,Unknown,0,2003,Chickenpox
+Zone:4,Unknown,0,2003,Chickenpox
 Ang Thong,Unknown,0,2003,Chickenpox
 Nonthaburi,Unknown,0,2003,Chickenpox
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Chickenpox
 Pathum Thani,Unknown,0,2003,Chickenpox
-Zone 5,Unknown,0,2003,Chickenpox
+Zone:5,Unknown,0,2003,Chickenpox
 Chai Nat,Unknown,0,2003,Chickenpox
 Lop Buri,Unknown,0,2003,Chickenpox
 Saraburi,Unknown,0,2003,Chickenpox
 Sing Buri,Unknown,0,2003,Chickenpox
-Zone 6,Unknown,0,2003,Chickenpox
+Zone:6,Unknown,0,2003,Chickenpox
 Kanchanaburi,Unknown,0,2003,Chickenpox
 Nakhon Pathom,Unknown,0,2003,Chickenpox
 Ratchaburi,Unknown,0,2003,Chickenpox
 Suphan Buri,Unknown,0,2003,Chickenpox
-Zone 7,Unknown,0,2003,Chickenpox
+Zone:7,Unknown,0,2003,Chickenpox
 Phetchaburi,Unknown,0,2003,Chickenpox
 Prachuap Khiri Khan,Unknown,0,2003,Chickenpox
 Samut Sakhon,Unknown,0,2003,Chickenpox
 Samut Songkhram,Unknown,0,2003,Chickenpox
-Zone 8,Unknown,0,2003,Chickenpox
+Zone:8,Unknown,0,2003,Chickenpox
 Chachoengsao,Unknown,0,2003,Chickenpox
 Nakhon Nayok,Unknown,0,2003,Chickenpox
 Prachin Buri,Unknown,0,2003,Chickenpox
 Sa Kaeo,Unknown,0,2003,Chickenpox
 Samut Prakan,Unknown,0,2003,Chickenpox
-Zone 9,Unknown,0,2003,Chickenpox
+Zone:9,Unknown,0,2003,Chickenpox
 Chanthaburi,Unknown,0,2003,Chickenpox
 Chon Buri,Unknown,0,2003,Chickenpox
 Rayong,Unknown,0,2003,Chickenpox
 Trat,Unknown,0,2003,Chickenpox
 North-Eastern Region,Unknown,2,2003,Chickenpox
-Zone 10,Unknown,0,2003,Chickenpox
+Zone:10,Unknown,0,2003,Chickenpox
 Loei,Unknown,0,2003,Chickenpox
 Nong Bua Lam Phu,Unknown,0,2003,Chickenpox
 Nong Khai,Unknown,0,2003,Chickenpox
 Udon Thani,Unknown,0,2003,Chickenpox
-Zone 11,Unknown,0,2003,Chickenpox
+Zone:11,Unknown,0,2003,Chickenpox
 Kalasin,Unknown,0,2003,Chickenpox
 Mukdahan,Unknown,0,2003,Chickenpox
 Nakhon Phanom,Unknown,0,2003,Chickenpox
 Sakon Nakhon,Unknown,0,2003,Chickenpox
-Zone 12,Unknown,0,2003,Chickenpox
+Zone:12,Unknown,0,2003,Chickenpox
 Khon Kaen,Unknown,0,2003,Chickenpox
 Maha Sarakham,Unknown,0,2003,Chickenpox
 Roi Et,Unknown,0,2003,Chickenpox
-Zone 13,Unknown,1,2003,Chickenpox
+Zone:13,Unknown,1,2003,Chickenpox
 Buri Ram,Unknown,0,2003,Chickenpox
 Chaiyaphum,Unknown,0,2003,Chickenpox
 Nakhon Ratchasima,Unknown,0,2003,Chickenpox
 Surin,Unknown,1,2003,Chickenpox
-Zone 14,Unknown,1,2003,Chickenpox
+Zone:14,Unknown,1,2003,Chickenpox
 Amnat Charoen,Unknown,0,2003,Chickenpox
 Si Sa Ket,Unknown,0,2003,Chickenpox
 Ubon Ratchathani,Unknown,0,2003,Chickenpox
 Yasothon,Unknown,1,2003,Chickenpox
 South Region,Unknown,0,2003,Chickenpox
-Zone 15,Unknown,0,2003,Chickenpox
+Zone:15,Unknown,0,2003,Chickenpox
 Chumphon,Unknown,0,2003,Chickenpox
 Ranong,Unknown,0,2003,Chickenpox
 Surat Thani,Unknown,0,2003,Chickenpox
-Zone 16,Unknown,0,2003,Chickenpox
+Zone:16,Unknown,0,2003,Chickenpox
 Nakhon Si Thammarat,Unknown,0,2003,Chickenpox
 Phatthalung,Unknown,0,2003,Chickenpox
 Trang,Unknown,0,2003,Chickenpox
-Zone 17,Unknown,0,2003,Chickenpox
+Zone:17,Unknown,0,2003,Chickenpox
 Krabi,Unknown,0,2003,Chickenpox
 Phangnga,Unknown,0,2003,Chickenpox
 Phuket,Unknown,0,2003,Chickenpox
-Zone 18,Unknown,0,2003,Chickenpox
+Zone:18,Unknown,0,2003,Chickenpox
 Narathiwat,Unknown,0,2003,Chickenpox
 Pattani,Unknown,0,2003,Chickenpox
 Yala,Unknown,0,2003,Chickenpox
-Zone 19,Unknown,0,2003,Chickenpox
+Zone:19,Unknown,0,2003,Chickenpox
 Satun,Unknown,0,2003,Chickenpox
 Songkhla,Unknown,0,2003,Chickenpox
 Total,Total,81857,2011,Chickenpox
@@ -27523,7 +27523,7 @@ Trang,Unknown,0,2015,Chickenpox
 Yala,Unknown,0,2015,Chickenpox
 Total,Total,85525,2004,Chickenpox
 North Region,Total,22037,2004,Chickenpox
-Zone 1,Total,10787,2004,Chickenpox
+Zone:1,Total,10787,2004,Chickenpox
 Chiang Mai,Total,2611,2004,Chickenpox
 Chiang Rai,Total,2993,2004,Chickenpox
 Lampang,Total,1395,2004,Chickenpox
@@ -27532,98 +27532,98 @@ Mae Hong Son,Total,324,2004,Chickenpox
 Nan,Total,1479,2004,Chickenpox
 Phayao,Total,967,2004,Chickenpox
 Phrae,Total,551,2004,Chickenpox
-Zone 2,Total,5705,2004,Chickenpox
+Zone:2,Total,5705,2004,Chickenpox
 Phetchabun,Total,1294,2004,Chickenpox
 Phitsanulok,Total,1307,2004,Chickenpox
 Sukhothai,Total,844,2004,Chickenpox
 Tak,Total,1482,2004,Chickenpox
 Uttaradit,Total,778,2004,Chickenpox
-Zone 3,Total,5545,2004,Chickenpox
+Zone:3,Total,5545,2004,Chickenpox
 Kamphaeng Phet,Total,1758,2004,Chickenpox
 Nakhon Sawan,Total,1922,2004,Chickenpox
 Phichit,Total,1152,2004,Chickenpox
 Uthai Thani,Total,713,2004,Chickenpox
 Central Region,Total,26063,2004,Chickenpox
 Bangkok,Total,4212,2004,Chickenpox
-Zone 4,Total,2795,2004,Chickenpox
+Zone:4,Total,2795,2004,Chickenpox
 Ang Thong,Total,301,2004,Chickenpox
 Nonthaburi,Total,979,2004,Chickenpox
 P.Nakhon S.Ayutthaya,Total,919,2004,Chickenpox
 Pathum Thani,Total,596,2004,Chickenpox
-Zone 5,Total,3728,2004,Chickenpox
+Zone:5,Total,3728,2004,Chickenpox
 Chai Nat,Total,334,2004,Chickenpox
 Lop Buri,Total,2005,2004,Chickenpox
 Saraburi,Total,1119,2004,Chickenpox
 Sing Buri,Total,270,2004,Chickenpox
-Zone 6,Total,4102,2004,Chickenpox
+Zone:6,Total,4102,2004,Chickenpox
 Kanchanaburi,Total,787,2004,Chickenpox
 Nakhon Pathom,Total,1510,2004,Chickenpox
 Ratchaburi,Total,1028,2004,Chickenpox
 Suphan Buri,Total,777,2004,Chickenpox
-Zone 7,Total,1796,2004,Chickenpox
+Zone:7,Total,1796,2004,Chickenpox
 Phetchaburi,Total,355,2004,Chickenpox
 Prachuap Khiri Khan,Total,399,2004,Chickenpox
 Samut Sakhon,Total,741,2004,Chickenpox
 Samut Songkhram,Total,301,2004,Chickenpox
-Zone 8,Total,4950,2004,Chickenpox
+Zone:8,Total,4950,2004,Chickenpox
 Chachoengsao,Total,1405,2004,Chickenpox
 Nakhon Nayok,Total,330,2004,Chickenpox
 Prachin Buri,Total,1028,2004,Chickenpox
 Sa Kaeo,Total,588,2004,Chickenpox
 Samut Prakan,Total,1599,2004,Chickenpox
-Zone 9,Total,4480,2004,Chickenpox
+Zone:9,Total,4480,2004,Chickenpox
 Chanthaburi,Total,953,2004,Chickenpox
 Chon Buri,Total,1574,2004,Chickenpox
 Rayong,Total,1509,2004,Chickenpox
 Trat,Total,444,2004,Chickenpox
 North-Eastern Region,Total,28316,2004,Chickenpox
-Zone 10,Total,3613,2004,Chickenpox
+Zone:10,Total,3613,2004,Chickenpox
 Loei,Total,709,2004,Chickenpox
 Nong Bua Lam Phu,Total,681,2004,Chickenpox
 Nong Khai,Total,559,2004,Chickenpox
 Udon Thani,Total,1664,2004,Chickenpox
-Zone 11,Total,3672,2004,Chickenpox
+Zone:11,Total,3672,2004,Chickenpox
 Kalasin,Total,1930,2004,Chickenpox
 Mukdahan,Total,351,2004,Chickenpox
 Nakhon Phanom,Total,673,2004,Chickenpox
 Sakon Nakhon,Total,718,2004,Chickenpox
-Zone 12,Total,4298,2004,Chickenpox
+Zone:12,Total,4298,2004,Chickenpox
 Khon Kaen,Total,1782,2004,Chickenpox
 Maha Sarakham,Total,843,2004,Chickenpox
 Roi Et,Total,1673,2004,Chickenpox
-Zone 13,Total,12395,2004,Chickenpox
+Zone:13,Total,12395,2004,Chickenpox
 Buri Ram,Total,2690,2004,Chickenpox
 Chaiyaphum,Total,1587,2004,Chickenpox
 Nakhon Ratchasima,Total,5559,2004,Chickenpox
 Surin,Total,2559,2004,Chickenpox
-Zone 14,Total,4338,2004,Chickenpox
+Zone:14,Total,4338,2004,Chickenpox
 Amnat Charoen,Total,522,2004,Chickenpox
 Si Sa Ket,Total,1793,2004,Chickenpox
 Ubon Ratchathani,Total,1213,2004,Chickenpox
 Yasothon,Total,810,2004,Chickenpox
 South Region,Total,9109,2004,Chickenpox
-Zone 15,Total,1414,2004,Chickenpox
+Zone:15,Total,1414,2004,Chickenpox
 Chumphon,Total,299,2004,Chickenpox
 Ranong,Total,237,2004,Chickenpox
 Surat Thani,Total,878,2004,Chickenpox
-Zone 16,Total,2405,2004,Chickenpox
+Zone:16,Total,2405,2004,Chickenpox
 Nakhon Si Thammarat,Total,1036,2004,Chickenpox
 Phatthalung,Total,442,2004,Chickenpox
 Trang,Total,927,2004,Chickenpox
-Zone 17,Total,1788,2004,Chickenpox
+Zone:17,Total,1788,2004,Chickenpox
 Krabi,Total,495,2004,Chickenpox
 Phangnga,Total,382,2004,Chickenpox
 Phuket,Total,911,2004,Chickenpox
-Zone 18,Total,2269,2004,Chickenpox
+Zone:18,Total,2269,2004,Chickenpox
 Narathiwat,Total,956,2004,Chickenpox
 Pattani,Total,660,2004,Chickenpox
 Yala,Total,653,2004,Chickenpox
-Zone 19,Total,1233,2004,Chickenpox
+Zone:19,Total,1233,2004,Chickenpox
 Satun,Total,173,2004,Chickenpox
 Songkhla,Total,1060,2004,Chickenpox
 Total,0,116,2004,Chickenpox
 North Region,0,25,2004,Chickenpox
-Zone 1,0,16,2004,Chickenpox
+Zone:1,0,16,2004,Chickenpox
 Chiang Mai,0,2,2004,Chickenpox
 Chiang Rai,0,6,2004,Chickenpox
 Lampang,0,2,2004,Chickenpox
@@ -27632,98 +27632,98 @@ Mae Hong Son,0,0,2004,Chickenpox
 Nan,0,2,2004,Chickenpox
 Phayao,0,1,2004,Chickenpox
 Phrae,0,3,2004,Chickenpox
-Zone 2,0,6,2004,Chickenpox
+Zone:2,0,6,2004,Chickenpox
 Phetchabun,0,1,2004,Chickenpox
 Phitsanulok,0,1,2004,Chickenpox
 Sukhothai,0,1,2004,Chickenpox
 Tak,0,2,2004,Chickenpox
 Uttaradit,0,1,2004,Chickenpox
-Zone 3,0,3,2004,Chickenpox
+Zone:3,0,3,2004,Chickenpox
 Kamphaeng Phet,0,0,2004,Chickenpox
 Nakhon Sawan,0,3,2004,Chickenpox
 Phichit,0,0,2004,Chickenpox
 Uthai Thani,0,0,2004,Chickenpox
 Central Region,0,40,2004,Chickenpox
 Bangkok,0,9,2004,Chickenpox
-Zone 4,0,6,2004,Chickenpox
+Zone:4,0,6,2004,Chickenpox
 Ang Thong,0,0,2004,Chickenpox
 Nonthaburi,0,0,2004,Chickenpox
 P.Nakhon S.Ayutthaya,0,3,2004,Chickenpox
 Pathum Thani,0,3,2004,Chickenpox
-Zone 5,0,4,2004,Chickenpox
+Zone:5,0,4,2004,Chickenpox
 Chai Nat,0,0,2004,Chickenpox
 Lop Buri,0,4,2004,Chickenpox
 Saraburi,0,0,2004,Chickenpox
 Sing Buri,0,0,2004,Chickenpox
-Zone 6,0,3,2004,Chickenpox
+Zone:6,0,3,2004,Chickenpox
 Kanchanaburi,0,1,2004,Chickenpox
 Nakhon Pathom,0,0,2004,Chickenpox
 Ratchaburi,0,1,2004,Chickenpox
 Suphan Buri,0,1,2004,Chickenpox
-Zone 7,0,2,2004,Chickenpox
+Zone:7,0,2,2004,Chickenpox
 Phetchaburi,0,0,2004,Chickenpox
 Prachuap Khiri Khan,0,0,2004,Chickenpox
 Samut Sakhon,0,1,2004,Chickenpox
 Samut Songkhram,0,1,2004,Chickenpox
-Zone 8,0,7,2004,Chickenpox
+Zone:8,0,7,2004,Chickenpox
 Chachoengsao,0,0,2004,Chickenpox
 Nakhon Nayok,0,0,2004,Chickenpox
 Prachin Buri,0,3,2004,Chickenpox
 Sa Kaeo,0,1,2004,Chickenpox
 Samut Prakan,0,3,2004,Chickenpox
-Zone 9,0,9,2004,Chickenpox
+Zone:9,0,9,2004,Chickenpox
 Chanthaburi,0,3,2004,Chickenpox
 Chon Buri,0,3,2004,Chickenpox
 Rayong,0,3,2004,Chickenpox
 Trat,0,0,2004,Chickenpox
 North-Eastern Region,0,39,2004,Chickenpox
-Zone 10,0,1,2004,Chickenpox
+Zone:10,0,1,2004,Chickenpox
 Loei,0,1,2004,Chickenpox
 Nong Bua Lam Phu,0,0,2004,Chickenpox
 Nong Khai,0,0,2004,Chickenpox
 Udon Thani,0,0,2004,Chickenpox
-Zone 11,0,8,2004,Chickenpox
+Zone:11,0,8,2004,Chickenpox
 Kalasin,0,4,2004,Chickenpox
 Mukdahan,0,2,2004,Chickenpox
 Nakhon Phanom,0,1,2004,Chickenpox
 Sakon Nakhon,0,1,2004,Chickenpox
-Zone 12,0,4,2004,Chickenpox
+Zone:12,0,4,2004,Chickenpox
 Khon Kaen,0,1,2004,Chickenpox
 Maha Sarakham,0,1,2004,Chickenpox
 Roi Et,0,2,2004,Chickenpox
-Zone 13,0,21,2004,Chickenpox
+Zone:13,0,21,2004,Chickenpox
 Buri Ram,0,1,2004,Chickenpox
 Chaiyaphum,0,0,2004,Chickenpox
 Nakhon Ratchasima,0,5,2004,Chickenpox
 Surin,0,15,2004,Chickenpox
-Zone 14,0,5,2004,Chickenpox
+Zone:14,0,5,2004,Chickenpox
 Amnat Charoen,0,0,2004,Chickenpox
 Si Sa Ket,0,0,2004,Chickenpox
 Ubon Ratchathani,0,5,2004,Chickenpox
 Yasothon,0,0,2004,Chickenpox
 South Region,0,12,2004,Chickenpox
-Zone 15,0,2,2004,Chickenpox
+Zone:15,0,2,2004,Chickenpox
 Chumphon,0,0,2004,Chickenpox
 Ranong,0,0,2004,Chickenpox
 Surat Thani,0,2,2004,Chickenpox
-Zone 16,0,4,2004,Chickenpox
+Zone:16,0,4,2004,Chickenpox
 Nakhon Si Thammarat,0,4,2004,Chickenpox
 Phatthalung,0,0,2004,Chickenpox
 Trang,0,0,2004,Chickenpox
-Zone 17,0,2,2004,Chickenpox
+Zone:17,0,2,2004,Chickenpox
 Krabi,0,0,2004,Chickenpox
 Phangnga,0,1,2004,Chickenpox
 Phuket,0,1,2004,Chickenpox
-Zone 18,0,0,2004,Chickenpox
+Zone:18,0,0,2004,Chickenpox
 Narathiwat,0,0,2004,Chickenpox
 Pattani,0,0,2004,Chickenpox
 Yala,0,0,2004,Chickenpox
-Zone 19,0,4,2004,Chickenpox
+Zone:19,0,4,2004,Chickenpox
 Satun,0,0,2004,Chickenpox
 Songkhla,0,4,2004,Chickenpox
 Total,<1,1810,2004,Chickenpox
 North Region,<1,464,2004,Chickenpox
-Zone 1,<1,234,2004,Chickenpox
+Zone:1,<1,234,2004,Chickenpox
 Chiang Mai,<1,52,2004,Chickenpox
 Chiang Rai,<1,79,2004,Chickenpox
 Lampang,<1,32,2004,Chickenpox
@@ -27732,98 +27732,98 @@ Mae Hong Son,<1,8,2004,Chickenpox
 Nan,<1,31,2004,Chickenpox
 Phayao,<1,14,2004,Chickenpox
 Phrae,<1,13,2004,Chickenpox
-Zone 2,<1,126,2004,Chickenpox
+Zone:2,<1,126,2004,Chickenpox
 Phetchabun,<1,21,2004,Chickenpox
 Phitsanulok,<1,27,2004,Chickenpox
 Sukhothai,<1,21,2004,Chickenpox
 Tak,<1,40,2004,Chickenpox
 Uttaradit,<1,17,2004,Chickenpox
-Zone 3,<1,104,2004,Chickenpox
+Zone:3,<1,104,2004,Chickenpox
 Kamphaeng Phet,<1,34,2004,Chickenpox
 Nakhon Sawan,<1,41,2004,Chickenpox
 Phichit,<1,21,2004,Chickenpox
 Uthai Thani,<1,8,2004,Chickenpox
 Central Region,<1,625,2004,Chickenpox
 Bangkok,<1,166,2004,Chickenpox
-Zone 4,<1,66,2004,Chickenpox
+Zone:4,<1,66,2004,Chickenpox
 Ang Thong,<1,6,2004,Chickenpox
 Nonthaburi,<1,23,2004,Chickenpox
 P.Nakhon S.Ayutthaya,<1,20,2004,Chickenpox
 Pathum Thani,<1,17,2004,Chickenpox
-Zone 5,<1,70,2004,Chickenpox
+Zone:5,<1,70,2004,Chickenpox
 Chai Nat,<1,8,2004,Chickenpox
 Lop Buri,<1,42,2004,Chickenpox
 Saraburi,<1,15,2004,Chickenpox
 Sing Buri,<1,5,2004,Chickenpox
-Zone 6,<1,104,2004,Chickenpox
+Zone:6,<1,104,2004,Chickenpox
 Kanchanaburi,<1,26,2004,Chickenpox
 Nakhon Pathom,<1,30,2004,Chickenpox
 Ratchaburi,<1,27,2004,Chickenpox
 Suphan Buri,<1,21,2004,Chickenpox
-Zone 7,<1,43,2004,Chickenpox
+Zone:7,<1,43,2004,Chickenpox
 Phetchaburi,<1,6,2004,Chickenpox
 Prachuap Khiri Khan,<1,11,2004,Chickenpox
 Samut Sakhon,<1,18,2004,Chickenpox
 Samut Songkhram,<1,8,2004,Chickenpox
-Zone 8,<1,94,2004,Chickenpox
+Zone:8,<1,94,2004,Chickenpox
 Chachoengsao,<1,19,2004,Chickenpox
 Nakhon Nayok,<1,8,2004,Chickenpox
 Prachin Buri,<1,18,2004,Chickenpox
 Sa Kaeo,<1,10,2004,Chickenpox
 Samut Prakan,<1,39,2004,Chickenpox
-Zone 9,<1,82,2004,Chickenpox
+Zone:9,<1,82,2004,Chickenpox
 Chanthaburi,<1,19,2004,Chickenpox
 Chon Buri,<1,30,2004,Chickenpox
 Rayong,<1,28,2004,Chickenpox
 Trat,<1,5,2004,Chickenpox
 North-Eastern Region,<1,511,2004,Chickenpox
-Zone 10,<1,80,2004,Chickenpox
+Zone:10,<1,80,2004,Chickenpox
 Loei,<1,18,2004,Chickenpox
 Nong Bua Lam Phu,<1,13,2004,Chickenpox
 Nong Khai,<1,14,2004,Chickenpox
 Udon Thani,<1,35,2004,Chickenpox
-Zone 11,<1,62,2004,Chickenpox
+Zone:11,<1,62,2004,Chickenpox
 Kalasin,<1,33,2004,Chickenpox
 Mukdahan,<1,3,2004,Chickenpox
 Nakhon Phanom,<1,16,2004,Chickenpox
 Sakon Nakhon,<1,10,2004,Chickenpox
-Zone 12,<1,74,2004,Chickenpox
+Zone:12,<1,74,2004,Chickenpox
 Khon Kaen,<1,46,2004,Chickenpox
 Maha Sarakham,<1,16,2004,Chickenpox
 Roi Et,<1,12,2004,Chickenpox
-Zone 13,<1,192,2004,Chickenpox
+Zone:13,<1,192,2004,Chickenpox
 Buri Ram,<1,54,2004,Chickenpox
 Chaiyaphum,<1,20,2004,Chickenpox
 Nakhon Ratchasima,<1,88,2004,Chickenpox
 Surin,<1,30,2004,Chickenpox
-Zone 14,<1,103,2004,Chickenpox
+Zone:14,<1,103,2004,Chickenpox
 Amnat Charoen,<1,11,2004,Chickenpox
 Si Sa Ket,<1,52,2004,Chickenpox
 Ubon Ratchathani,<1,28,2004,Chickenpox
 Yasothon,<1,12,2004,Chickenpox
 South Region,<1,210,2004,Chickenpox
-Zone 15,<1,30,2004,Chickenpox
+Zone:15,<1,30,2004,Chickenpox
 Chumphon,<1,5,2004,Chickenpox
 Ranong,<1,6,2004,Chickenpox
 Surat Thani,<1,19,2004,Chickenpox
-Zone 16,<1,51,2004,Chickenpox
+Zone:16,<1,51,2004,Chickenpox
 Nakhon Si Thammarat,<1,24,2004,Chickenpox
 Phatthalung,<1,4,2004,Chickenpox
 Trang,<1,23,2004,Chickenpox
-Zone 17,<1,41,2004,Chickenpox
+Zone:17,<1,41,2004,Chickenpox
 Krabi,<1,13,2004,Chickenpox
 Phangnga,<1,12,2004,Chickenpox
 Phuket,<1,16,2004,Chickenpox
-Zone 18,<1,60,2004,Chickenpox
+Zone:18,<1,60,2004,Chickenpox
 Narathiwat,<1,27,2004,Chickenpox
 Pattani,<1,12,2004,Chickenpox
 Yala,<1,21,2004,Chickenpox
-Zone 19,<1,28,2004,Chickenpox
+Zone:19,<1,28,2004,Chickenpox
 Satun,<1,4,2004,Chickenpox
 Songkhla,<1,24,2004,Chickenpox
 Total,1-1,3081,2004,Chickenpox
 North Region,1-1,861,2004,Chickenpox
-Zone 1,1-1,449,2004,Chickenpox
+Zone:1,1-1,449,2004,Chickenpox
 Chiang Mai,1-1,92,2004,Chickenpox
 Chiang Rai,1-1,143,2004,Chickenpox
 Lampang,1-1,59,2004,Chickenpox
@@ -27832,98 +27832,98 @@ Mae Hong Son,1-1,14,2004,Chickenpox
 Nan,1-1,57,2004,Chickenpox
 Phayao,1-1,43,2004,Chickenpox
 Phrae,1-1,13,2004,Chickenpox
-Zone 2,1-1,233,2004,Chickenpox
+Zone:2,1-1,233,2004,Chickenpox
 Phetchabun,1-1,53,2004,Chickenpox
 Phitsanulok,1-1,50,2004,Chickenpox
 Sukhothai,1-1,22,2004,Chickenpox
 Tak,1-1,81,2004,Chickenpox
 Uttaradit,1-1,27,2004,Chickenpox
-Zone 3,1-1,179,2004,Chickenpox
+Zone:3,1-1,179,2004,Chickenpox
 Kamphaeng Phet,1-1,59,2004,Chickenpox
 Nakhon Sawan,1-1,59,2004,Chickenpox
 Phichit,1-1,37,2004,Chickenpox
 Uthai Thani,1-1,24,2004,Chickenpox
 Central Region,1-1,804,2004,Chickenpox
 Bangkok,1-1,191,2004,Chickenpox
-Zone 4,1-1,82,2004,Chickenpox
+Zone:4,1-1,82,2004,Chickenpox
 Ang Thong,1-1,9,2004,Chickenpox
 Nonthaburi,1-1,36,2004,Chickenpox
 P.Nakhon S.Ayutthaya,1-1,22,2004,Chickenpox
 Pathum Thani,1-1,15,2004,Chickenpox
-Zone 5,1-1,104,2004,Chickenpox
+Zone:5,1-1,104,2004,Chickenpox
 Chai Nat,1-1,6,2004,Chickenpox
 Lop Buri,1-1,59,2004,Chickenpox
 Saraburi,1-1,27,2004,Chickenpox
 Sing Buri,1-1,12,2004,Chickenpox
-Zone 6,1-1,130,2004,Chickenpox
+Zone:6,1-1,130,2004,Chickenpox
 Kanchanaburi,1-1,32,2004,Chickenpox
 Nakhon Pathom,1-1,41,2004,Chickenpox
 Ratchaburi,1-1,40,2004,Chickenpox
 Suphan Buri,1-1,17,2004,Chickenpox
-Zone 7,1-1,50,2004,Chickenpox
+Zone:7,1-1,50,2004,Chickenpox
 Phetchaburi,1-1,4,2004,Chickenpox
 Prachuap Khiri Khan,1-1,15,2004,Chickenpox
 Samut Sakhon,1-1,23,2004,Chickenpox
 Samut Songkhram,1-1,8,2004,Chickenpox
-Zone 8,1-1,123,2004,Chickenpox
+Zone:8,1-1,123,2004,Chickenpox
 Chachoengsao,1-1,24,2004,Chickenpox
 Nakhon Nayok,1-1,8,2004,Chickenpox
 Prachin Buri,1-1,32,2004,Chickenpox
 Sa Kaeo,1-1,17,2004,Chickenpox
 Samut Prakan,1-1,42,2004,Chickenpox
-Zone 9,1-1,124,2004,Chickenpox
+Zone:9,1-1,124,2004,Chickenpox
 Chanthaburi,1-1,22,2004,Chickenpox
 Chon Buri,1-1,43,2004,Chickenpox
 Rayong,1-1,50,2004,Chickenpox
 Trat,1-1,9,2004,Chickenpox
 North-Eastern Region,1-1,1095,2004,Chickenpox
-Zone 10,1-1,154,2004,Chickenpox
+Zone:10,1-1,154,2004,Chickenpox
 Loei,1-1,31,2004,Chickenpox
 Nong Bua Lam Phu,1-1,38,2004,Chickenpox
 Nong Khai,1-1,29,2004,Chickenpox
 Udon Thani,1-1,56,2004,Chickenpox
-Zone 11,1-1,132,2004,Chickenpox
+Zone:11,1-1,132,2004,Chickenpox
 Kalasin,1-1,68,2004,Chickenpox
 Mukdahan,1-1,7,2004,Chickenpox
 Nakhon Phanom,1-1,33,2004,Chickenpox
 Sakon Nakhon,1-1,24,2004,Chickenpox
-Zone 12,1-1,158,2004,Chickenpox
+Zone:12,1-1,158,2004,Chickenpox
 Khon Kaen,1-1,66,2004,Chickenpox
 Maha Sarakham,1-1,32,2004,Chickenpox
 Roi Et,1-1,60,2004,Chickenpox
-Zone 13,1-1,473,2004,Chickenpox
+Zone:13,1-1,473,2004,Chickenpox
 Buri Ram,1-1,104,2004,Chickenpox
 Chaiyaphum,1-1,49,2004,Chickenpox
 Nakhon Ratchasima,1-1,191,2004,Chickenpox
 Surin,1-1,129,2004,Chickenpox
-Zone 14,1-1,178,2004,Chickenpox
+Zone:14,1-1,178,2004,Chickenpox
 Amnat Charoen,1-1,22,2004,Chickenpox
 Si Sa Ket,1-1,81,2004,Chickenpox
 Ubon Ratchathani,1-1,47,2004,Chickenpox
 Yasothon,1-1,28,2004,Chickenpox
 South Region,1-1,321,2004,Chickenpox
-Zone 15,1-1,40,2004,Chickenpox
+Zone:15,1-1,40,2004,Chickenpox
 Chumphon,1-1,7,2004,Chickenpox
 Ranong,1-1,6,2004,Chickenpox
 Surat Thani,1-1,27,2004,Chickenpox
-Zone 16,1-1,88,2004,Chickenpox
+Zone:16,1-1,88,2004,Chickenpox
 Nakhon Si Thammarat,1-1,28,2004,Chickenpox
 Phatthalung,1-1,19,2004,Chickenpox
 Trang,1-1,41,2004,Chickenpox
-Zone 17,1-1,60,2004,Chickenpox
+Zone:17,1-1,60,2004,Chickenpox
 Krabi,1-1,15,2004,Chickenpox
 Phangnga,1-1,17,2004,Chickenpox
 Phuket,1-1,28,2004,Chickenpox
-Zone 18,1-1,103,2004,Chickenpox
+Zone:18,1-1,103,2004,Chickenpox
 Narathiwat,1-1,53,2004,Chickenpox
 Pattani,1-1,24,2004,Chickenpox
 Yala,1-1,26,2004,Chickenpox
-Zone 19,1-1,30,2004,Chickenpox
+Zone:19,1-1,30,2004,Chickenpox
 Satun,1-1,2,2004,Chickenpox
 Songkhla,1-1,28,2004,Chickenpox
 Total,2-2,3270,2004,Chickenpox
 North Region,2-2,1066,2004,Chickenpox
-Zone 1,2-2,636,2004,Chickenpox
+Zone:1,2-2,636,2004,Chickenpox
 Chiang Mai,2-2,160,2004,Chickenpox
 Chiang Rai,2-2,186,2004,Chickenpox
 Lampang,2-2,67,2004,Chickenpox
@@ -27932,98 +27932,98 @@ Mae Hong Son,2-2,20,2004,Chickenpox
 Nan,2-2,76,2004,Chickenpox
 Phayao,2-2,63,2004,Chickenpox
 Phrae,2-2,31,2004,Chickenpox
-Zone 2,2-2,257,2004,Chickenpox
+Zone:2,2-2,257,2004,Chickenpox
 Phetchabun,2-2,64,2004,Chickenpox
 Phitsanulok,2-2,58,2004,Chickenpox
 Sukhothai,2-2,27,2004,Chickenpox
 Tak,2-2,87,2004,Chickenpox
 Uttaradit,2-2,21,2004,Chickenpox
-Zone 3,2-2,173,2004,Chickenpox
+Zone:3,2-2,173,2004,Chickenpox
 Kamphaeng Phet,2-2,49,2004,Chickenpox
 Nakhon Sawan,2-2,66,2004,Chickenpox
 Phichit,2-2,33,2004,Chickenpox
 Uthai Thani,2-2,25,2004,Chickenpox
 Central Region,2-2,798,2004,Chickenpox
 Bangkok,2-2,153,2004,Chickenpox
-Zone 4,2-2,91,2004,Chickenpox
+Zone:4,2-2,91,2004,Chickenpox
 Ang Thong,2-2,7,2004,Chickenpox
 Nonthaburi,2-2,32,2004,Chickenpox
 P.Nakhon S.Ayutthaya,2-2,28,2004,Chickenpox
 Pathum Thani,2-2,24,2004,Chickenpox
-Zone 5,2-2,99,2004,Chickenpox
+Zone:5,2-2,99,2004,Chickenpox
 Chai Nat,2-2,7,2004,Chickenpox
 Lop Buri,2-2,58,2004,Chickenpox
 Saraburi,2-2,25,2004,Chickenpox
 Sing Buri,2-2,9,2004,Chickenpox
-Zone 6,2-2,143,2004,Chickenpox
+Zone:6,2-2,143,2004,Chickenpox
 Kanchanaburi,2-2,29,2004,Chickenpox
 Nakhon Pathom,2-2,52,2004,Chickenpox
 Ratchaburi,2-2,35,2004,Chickenpox
 Suphan Buri,2-2,27,2004,Chickenpox
-Zone 7,2-2,47,2004,Chickenpox
+Zone:7,2-2,47,2004,Chickenpox
 Phetchaburi,2-2,13,2004,Chickenpox
 Prachuap Khiri Khan,2-2,7,2004,Chickenpox
 Samut Sakhon,2-2,22,2004,Chickenpox
 Samut Songkhram,2-2,5,2004,Chickenpox
-Zone 8,2-2,155,2004,Chickenpox
+Zone:8,2-2,155,2004,Chickenpox
 Chachoengsao,2-2,37,2004,Chickenpox
 Nakhon Nayok,2-2,9,2004,Chickenpox
 Prachin Buri,2-2,28,2004,Chickenpox
 Sa Kaeo,2-2,21,2004,Chickenpox
 Samut Prakan,2-2,60,2004,Chickenpox
-Zone 9,2-2,110,2004,Chickenpox
+Zone:9,2-2,110,2004,Chickenpox
 Chanthaburi,2-2,22,2004,Chickenpox
 Chon Buri,2-2,46,2004,Chickenpox
 Rayong,2-2,37,2004,Chickenpox
 Trat,2-2,5,2004,Chickenpox
 North-Eastern Region,2-2,1093,2004,Chickenpox
-Zone 10,2-2,153,2004,Chickenpox
+Zone:10,2-2,153,2004,Chickenpox
 Loei,2-2,34,2004,Chickenpox
 Nong Bua Lam Phu,2-2,24,2004,Chickenpox
 Nong Khai,2-2,28,2004,Chickenpox
 Udon Thani,2-2,67,2004,Chickenpox
-Zone 11,2-2,160,2004,Chickenpox
+Zone:11,2-2,160,2004,Chickenpox
 Kalasin,2-2,88,2004,Chickenpox
 Mukdahan,2-2,16,2004,Chickenpox
 Nakhon Phanom,2-2,25,2004,Chickenpox
 Sakon Nakhon,2-2,31,2004,Chickenpox
-Zone 12,2-2,147,2004,Chickenpox
+Zone:12,2-2,147,2004,Chickenpox
 Khon Kaen,2-2,60,2004,Chickenpox
 Maha Sarakham,2-2,28,2004,Chickenpox
 Roi Et,2-2,59,2004,Chickenpox
-Zone 13,2-2,492,2004,Chickenpox
+Zone:13,2-2,492,2004,Chickenpox
 Buri Ram,2-2,98,2004,Chickenpox
 Chaiyaphum,2-2,65,2004,Chickenpox
 Nakhon Ratchasima,2-2,199,2004,Chickenpox
 Surin,2-2,130,2004,Chickenpox
-Zone 14,2-2,141,2004,Chickenpox
+Zone:14,2-2,141,2004,Chickenpox
 Amnat Charoen,2-2,20,2004,Chickenpox
 Si Sa Ket,2-2,58,2004,Chickenpox
 Ubon Ratchathani,2-2,41,2004,Chickenpox
 Yasothon,2-2,22,2004,Chickenpox
 South Region,2-2,313,2004,Chickenpox
-Zone 15,2-2,31,2004,Chickenpox
+Zone:15,2-2,31,2004,Chickenpox
 Chumphon,2-2,9,2004,Chickenpox
 Ranong,2-2,3,2004,Chickenpox
 Surat Thani,2-2,19,2004,Chickenpox
-Zone 16,2-2,91,2004,Chickenpox
+Zone:16,2-2,91,2004,Chickenpox
 Nakhon Si Thammarat,2-2,27,2004,Chickenpox
 Phatthalung,2-2,16,2004,Chickenpox
 Trang,2-2,48,2004,Chickenpox
-Zone 17,2-2,44,2004,Chickenpox
+Zone:17,2-2,44,2004,Chickenpox
 Krabi,2-2,11,2004,Chickenpox
 Phangnga,2-2,11,2004,Chickenpox
 Phuket,2-2,22,2004,Chickenpox
-Zone 18,2-2,92,2004,Chickenpox
+Zone:18,2-2,92,2004,Chickenpox
 Narathiwat,2-2,50,2004,Chickenpox
 Pattani,2-2,20,2004,Chickenpox
 Yala,2-2,22,2004,Chickenpox
-Zone 19,2-2,55,2004,Chickenpox
+Zone:19,2-2,55,2004,Chickenpox
 Satun,2-2,6,2004,Chickenpox
 Songkhla,2-2,49,2004,Chickenpox
 Total,3-3,4038,2004,Chickenpox
 North Region,3-3,1261,2004,Chickenpox
-Zone 1,3-3,758,2004,Chickenpox
+Zone:1,3-3,758,2004,Chickenpox
 Chiang Mai,3-3,194,2004,Chickenpox
 Chiang Rai,3-3,204,2004,Chickenpox
 Lampang,3-3,88,2004,Chickenpox
@@ -28032,98 +28032,98 @@ Mae Hong Son,3-3,15,2004,Chickenpox
 Nan,3-3,106,2004,Chickenpox
 Phayao,3-3,77,2004,Chickenpox
 Phrae,3-3,48,2004,Chickenpox
-Zone 2,3-3,303,2004,Chickenpox
+Zone:2,3-3,303,2004,Chickenpox
 Phetchabun,3-3,78,2004,Chickenpox
 Phitsanulok,3-3,59,2004,Chickenpox
 Sukhothai,3-3,35,2004,Chickenpox
 Tak,3-3,102,2004,Chickenpox
 Uttaradit,3-3,29,2004,Chickenpox
-Zone 3,3-3,200,2004,Chickenpox
+Zone:3,3-3,200,2004,Chickenpox
 Kamphaeng Phet,3-3,71,2004,Chickenpox
 Nakhon Sawan,3-3,72,2004,Chickenpox
 Phichit,3-3,32,2004,Chickenpox
 Uthai Thani,3-3,25,2004,Chickenpox
 Central Region,3-3,1008,2004,Chickenpox
 Bangkok,3-3,203,2004,Chickenpox
-Zone 4,3-3,116,2004,Chickenpox
+Zone:4,3-3,116,2004,Chickenpox
 Ang Thong,3-3,7,2004,Chickenpox
 Nonthaburi,3-3,46,2004,Chickenpox
 P.Nakhon S.Ayutthaya,3-3,40,2004,Chickenpox
 Pathum Thani,3-3,23,2004,Chickenpox
-Zone 5,3-3,138,2004,Chickenpox
+Zone:5,3-3,138,2004,Chickenpox
 Chai Nat,3-3,12,2004,Chickenpox
 Lop Buri,3-3,87,2004,Chickenpox
 Saraburi,3-3,32,2004,Chickenpox
 Sing Buri,3-3,7,2004,Chickenpox
-Zone 6,3-3,154,2004,Chickenpox
+Zone:6,3-3,154,2004,Chickenpox
 Kanchanaburi,3-3,31,2004,Chickenpox
 Nakhon Pathom,3-3,69,2004,Chickenpox
 Ratchaburi,3-3,33,2004,Chickenpox
 Suphan Buri,3-3,21,2004,Chickenpox
-Zone 7,3-3,73,2004,Chickenpox
+Zone:7,3-3,73,2004,Chickenpox
 Phetchaburi,3-3,14,2004,Chickenpox
 Prachuap Khiri Khan,3-3,7,2004,Chickenpox
 Samut Sakhon,3-3,39,2004,Chickenpox
 Samut Songkhram,3-3,13,2004,Chickenpox
-Zone 8,3-3,174,2004,Chickenpox
+Zone:8,3-3,174,2004,Chickenpox
 Chachoengsao,3-3,32,2004,Chickenpox
 Nakhon Nayok,3-3,8,2004,Chickenpox
 Prachin Buri,3-3,41,2004,Chickenpox
 Sa Kaeo,3-3,17,2004,Chickenpox
 Samut Prakan,3-3,76,2004,Chickenpox
-Zone 9,3-3,150,2004,Chickenpox
+Zone:9,3-3,150,2004,Chickenpox
 Chanthaburi,3-3,37,2004,Chickenpox
 Chon Buri,3-3,48,2004,Chickenpox
 Rayong,3-3,47,2004,Chickenpox
 Trat,3-3,18,2004,Chickenpox
 North-Eastern Region,3-3,1396,2004,Chickenpox
-Zone 10,3-3,190,2004,Chickenpox
+Zone:10,3-3,190,2004,Chickenpox
 Loei,3-3,27,2004,Chickenpox
 Nong Bua Lam Phu,3-3,43,2004,Chickenpox
 Nong Khai,3-3,40,2004,Chickenpox
 Udon Thani,3-3,80,2004,Chickenpox
-Zone 11,3-3,202,2004,Chickenpox
+Zone:11,3-3,202,2004,Chickenpox
 Kalasin,3-3,103,2004,Chickenpox
 Mukdahan,3-3,20,2004,Chickenpox
 Nakhon Phanom,3-3,38,2004,Chickenpox
 Sakon Nakhon,3-3,41,2004,Chickenpox
-Zone 12,3-3,213,2004,Chickenpox
+Zone:12,3-3,213,2004,Chickenpox
 Khon Kaen,3-3,94,2004,Chickenpox
 Maha Sarakham,3-3,44,2004,Chickenpox
 Roi Et,3-3,75,2004,Chickenpox
-Zone 13,3-3,574,2004,Chickenpox
+Zone:13,3-3,574,2004,Chickenpox
 Buri Ram,3-3,132,2004,Chickenpox
 Chaiyaphum,3-3,72,2004,Chickenpox
 Nakhon Ratchasima,3-3,223,2004,Chickenpox
 Surin,3-3,147,2004,Chickenpox
-Zone 14,3-3,217,2004,Chickenpox
+Zone:14,3-3,217,2004,Chickenpox
 Amnat Charoen,3-3,25,2004,Chickenpox
 Si Sa Ket,3-3,90,2004,Chickenpox
 Ubon Ratchathani,3-3,71,2004,Chickenpox
 Yasothon,3-3,31,2004,Chickenpox
 South Region,3-3,373,2004,Chickenpox
-Zone 15,3-3,43,2004,Chickenpox
+Zone:15,3-3,43,2004,Chickenpox
 Chumphon,3-3,11,2004,Chickenpox
 Ranong,3-3,6,2004,Chickenpox
 Surat Thani,3-3,26,2004,Chickenpox
-Zone 16,3-3,106,2004,Chickenpox
+Zone:16,3-3,106,2004,Chickenpox
 Nakhon Si Thammarat,3-3,40,2004,Chickenpox
 Phatthalung,3-3,23,2004,Chickenpox
 Trang,3-3,43,2004,Chickenpox
-Zone 17,3-3,64,2004,Chickenpox
+Zone:17,3-3,64,2004,Chickenpox
 Krabi,3-3,25,2004,Chickenpox
 Phangnga,3-3,14,2004,Chickenpox
 Phuket,3-3,25,2004,Chickenpox
-Zone 18,3-3,110,2004,Chickenpox
+Zone:18,3-3,110,2004,Chickenpox
 Narathiwat,3-3,55,2004,Chickenpox
 Pattani,3-3,18,2004,Chickenpox
 Yala,3-3,37,2004,Chickenpox
-Zone 19,3-3,50,2004,Chickenpox
+Zone:19,3-3,50,2004,Chickenpox
 Satun,3-3,15,2004,Chickenpox
 Songkhla,3-3,35,2004,Chickenpox
 Total,4-4,5083,2004,Chickenpox
 North Region,4-4,1523,2004,Chickenpox
-Zone 1,4-4,891,2004,Chickenpox
+Zone:1,4-4,891,2004,Chickenpox
 Chiang Mai,4-4,215,2004,Chickenpox
 Chiang Rai,4-4,269,2004,Chickenpox
 Lampang,4-4,102,2004,Chickenpox
@@ -28132,98 +28132,98 @@ Mae Hong Son,4-4,20,2004,Chickenpox
 Nan,4-4,114,2004,Chickenpox
 Phayao,4-4,90,2004,Chickenpox
 Phrae,4-4,49,2004,Chickenpox
-Zone 2,4-4,347,2004,Chickenpox
+Zone:2,4-4,347,2004,Chickenpox
 Phetchabun,4-4,82,2004,Chickenpox
 Phitsanulok,4-4,74,2004,Chickenpox
 Sukhothai,4-4,45,2004,Chickenpox
 Tak,4-4,115,2004,Chickenpox
 Uttaradit,4-4,31,2004,Chickenpox
-Zone 3,4-4,285,2004,Chickenpox
+Zone:3,4-4,285,2004,Chickenpox
 Kamphaeng Phet,4-4,95,2004,Chickenpox
 Nakhon Sawan,4-4,90,2004,Chickenpox
 Phichit,4-4,61,2004,Chickenpox
 Uthai Thani,4-4,39,2004,Chickenpox
 Central Region,4-4,1238,2004,Chickenpox
 Bangkok,4-4,256,2004,Chickenpox
-Zone 4,4-4,148,2004,Chickenpox
+Zone:4,4-4,148,2004,Chickenpox
 Ang Thong,4-4,8,2004,Chickenpox
 Nonthaburi,4-4,74,2004,Chickenpox
 P.Nakhon S.Ayutthaya,4-4,36,2004,Chickenpox
 Pathum Thani,4-4,30,2004,Chickenpox
-Zone 5,4-4,136,2004,Chickenpox
+Zone:5,4-4,136,2004,Chickenpox
 Chai Nat,4-4,5,2004,Chickenpox
 Lop Buri,4-4,71,2004,Chickenpox
 Saraburi,4-4,52,2004,Chickenpox
 Sing Buri,4-4,8,2004,Chickenpox
-Zone 6,4-4,186,2004,Chickenpox
+Zone:6,4-4,186,2004,Chickenpox
 Kanchanaburi,4-4,41,2004,Chickenpox
 Nakhon Pathom,4-4,78,2004,Chickenpox
 Ratchaburi,4-4,41,2004,Chickenpox
 Suphan Buri,4-4,26,2004,Chickenpox
-Zone 7,4-4,76,2004,Chickenpox
+Zone:7,4-4,76,2004,Chickenpox
 Phetchaburi,4-4,16,2004,Chickenpox
 Prachuap Khiri Khan,4-4,7,2004,Chickenpox
 Samut Sakhon,4-4,41,2004,Chickenpox
 Samut Songkhram,4-4,12,2004,Chickenpox
-Zone 8,4-4,236,2004,Chickenpox
+Zone:8,4-4,236,2004,Chickenpox
 Chachoengsao,4-4,52,2004,Chickenpox
 Nakhon Nayok,4-4,20,2004,Chickenpox
 Prachin Buri,4-4,49,2004,Chickenpox
 Sa Kaeo,4-4,39,2004,Chickenpox
 Samut Prakan,4-4,76,2004,Chickenpox
-Zone 9,4-4,200,2004,Chickenpox
+Zone:9,4-4,200,2004,Chickenpox
 Chanthaburi,4-4,35,2004,Chickenpox
 Chon Buri,4-4,73,2004,Chickenpox
 Rayong,4-4,77,2004,Chickenpox
 Trat,4-4,15,2004,Chickenpox
 North-Eastern Region,4-4,1793,2004,Chickenpox
-Zone 10,4-4,253,2004,Chickenpox
+Zone:10,4-4,253,2004,Chickenpox
 Loei,4-4,38,2004,Chickenpox
 Nong Bua Lam Phu,4-4,43,2004,Chickenpox
 Nong Khai,4-4,42,2004,Chickenpox
 Udon Thani,4-4,130,2004,Chickenpox
-Zone 11,4-4,266,2004,Chickenpox
+Zone:11,4-4,266,2004,Chickenpox
 Kalasin,4-4,151,2004,Chickenpox
 Mukdahan,4-4,26,2004,Chickenpox
 Nakhon Phanom,4-4,56,2004,Chickenpox
 Sakon Nakhon,4-4,33,2004,Chickenpox
-Zone 12,4-4,280,2004,Chickenpox
+Zone:12,4-4,280,2004,Chickenpox
 Khon Kaen,4-4,111,2004,Chickenpox
 Maha Sarakham,4-4,51,2004,Chickenpox
 Roi Et,4-4,118,2004,Chickenpox
-Zone 13,4-4,740,2004,Chickenpox
+Zone:13,4-4,740,2004,Chickenpox
 Buri Ram,4-4,147,2004,Chickenpox
 Chaiyaphum,4-4,87,2004,Chickenpox
 Nakhon Ratchasima,4-4,319,2004,Chickenpox
 Surin,4-4,187,2004,Chickenpox
-Zone 14,4-4,254,2004,Chickenpox
+Zone:14,4-4,254,2004,Chickenpox
 Amnat Charoen,4-4,25,2004,Chickenpox
 Si Sa Ket,4-4,112,2004,Chickenpox
 Ubon Ratchathani,4-4,68,2004,Chickenpox
 Yasothon,4-4,49,2004,Chickenpox
 South Region,4-4,529,2004,Chickenpox
-Zone 15,4-4,64,2004,Chickenpox
+Zone:15,4-4,64,2004,Chickenpox
 Chumphon,4-4,15,2004,Chickenpox
 Ranong,4-4,8,2004,Chickenpox
 Surat Thani,4-4,41,2004,Chickenpox
-Zone 16,4-4,136,2004,Chickenpox
+Zone:16,4-4,136,2004,Chickenpox
 Nakhon Si Thammarat,4-4,55,2004,Chickenpox
 Phatthalung,4-4,28,2004,Chickenpox
 Trang,4-4,53,2004,Chickenpox
-Zone 17,4-4,112,2004,Chickenpox
+Zone:17,4-4,112,2004,Chickenpox
 Krabi,4-4,34,2004,Chickenpox
 Phangnga,4-4,30,2004,Chickenpox
 Phuket,4-4,48,2004,Chickenpox
-Zone 18,4-4,160,2004,Chickenpox
+Zone:18,4-4,160,2004,Chickenpox
 Narathiwat,4-4,65,2004,Chickenpox
 Pattani,4-4,43,2004,Chickenpox
 Yala,4-4,52,2004,Chickenpox
-Zone 19,4-4,57,2004,Chickenpox
+Zone:19,4-4,57,2004,Chickenpox
 Satun,4-4,15,2004,Chickenpox
 Songkhla,4-4,42,2004,Chickenpox
 Total,5-5,5732,2004,Chickenpox
 North Region,5-5,1625,2004,Chickenpox
-Zone 1,5-5,899,2004,Chickenpox
+Zone:1,5-5,899,2004,Chickenpox
 Chiang Mai,5-5,237,2004,Chickenpox
 Chiang Rai,5-5,268,2004,Chickenpox
 Lampang,5-5,98,2004,Chickenpox
@@ -28232,98 +28232,98 @@ Mae Hong Son,5-5,28,2004,Chickenpox
 Nan,5-5,114,2004,Chickenpox
 Phayao,5-5,89,2004,Chickenpox
 Phrae,5-5,34,2004,Chickenpox
-Zone 2,5-5,421,2004,Chickenpox
+Zone:2,5-5,421,2004,Chickenpox
 Phetchabun,5-5,116,2004,Chickenpox
 Phitsanulok,5-5,83,2004,Chickenpox
 Sukhothai,5-5,53,2004,Chickenpox
 Tak,5-5,117,2004,Chickenpox
 Uttaradit,5-5,52,2004,Chickenpox
-Zone 3,5-5,305,2004,Chickenpox
+Zone:3,5-5,305,2004,Chickenpox
 Kamphaeng Phet,5-5,88,2004,Chickenpox
 Nakhon Sawan,5-5,109,2004,Chickenpox
 Phichit,5-5,78,2004,Chickenpox
 Uthai Thani,5-5,30,2004,Chickenpox
 Central Region,5-5,1466,2004,Chickenpox
 Bangkok,5-5,285,2004,Chickenpox
-Zone 4,5-5,155,2004,Chickenpox
+Zone:4,5-5,155,2004,Chickenpox
 Ang Thong,5-5,9,2004,Chickenpox
 Nonthaburi,5-5,56,2004,Chickenpox
 P.Nakhon S.Ayutthaya,5-5,49,2004,Chickenpox
 Pathum Thani,5-5,41,2004,Chickenpox
-Zone 5,5-5,225,2004,Chickenpox
+Zone:5,5-5,225,2004,Chickenpox
 Chai Nat,5-5,18,2004,Chickenpox
 Lop Buri,5-5,125,2004,Chickenpox
 Saraburi,5-5,64,2004,Chickenpox
 Sing Buri,5-5,18,2004,Chickenpox
-Zone 6,5-5,185,2004,Chickenpox
+Zone:6,5-5,185,2004,Chickenpox
 Kanchanaburi,5-5,41,2004,Chickenpox
 Nakhon Pathom,5-5,71,2004,Chickenpox
 Ratchaburi,5-5,49,2004,Chickenpox
 Suphan Buri,5-5,24,2004,Chickenpox
-Zone 7,5-5,104,2004,Chickenpox
+Zone:7,5-5,104,2004,Chickenpox
 Phetchaburi,5-5,22,2004,Chickenpox
 Prachuap Khiri Khan,5-5,16,2004,Chickenpox
 Samut Sakhon,5-5,58,2004,Chickenpox
 Samut Songkhram,5-5,8,2004,Chickenpox
-Zone 8,5-5,288,2004,Chickenpox
+Zone:8,5-5,288,2004,Chickenpox
 Chachoengsao,5-5,88,2004,Chickenpox
 Nakhon Nayok,5-5,16,2004,Chickenpox
 Prachin Buri,5-5,58,2004,Chickenpox
 Sa Kaeo,5-5,30,2004,Chickenpox
 Samut Prakan,5-5,96,2004,Chickenpox
-Zone 9,5-5,224,2004,Chickenpox
+Zone:9,5-5,224,2004,Chickenpox
 Chanthaburi,5-5,45,2004,Chickenpox
 Chon Buri,5-5,77,2004,Chickenpox
 Rayong,5-5,79,2004,Chickenpox
 Trat,5-5,23,2004,Chickenpox
 North-Eastern Region,5-5,2133,2004,Chickenpox
-Zone 10,5-5,293,2004,Chickenpox
+Zone:10,5-5,293,2004,Chickenpox
 Loei,5-5,53,2004,Chickenpox
 Nong Bua Lam Phu,5-5,64,2004,Chickenpox
 Nong Khai,5-5,47,2004,Chickenpox
 Udon Thani,5-5,129,2004,Chickenpox
-Zone 11,5-5,296,2004,Chickenpox
+Zone:11,5-5,296,2004,Chickenpox
 Kalasin,5-5,163,2004,Chickenpox
 Mukdahan,5-5,31,2004,Chickenpox
 Nakhon Phanom,5-5,42,2004,Chickenpox
 Sakon Nakhon,5-5,60,2004,Chickenpox
-Zone 12,5-5,298,2004,Chickenpox
+Zone:12,5-5,298,2004,Chickenpox
 Khon Kaen,5-5,130,2004,Chickenpox
 Maha Sarakham,5-5,49,2004,Chickenpox
 Roi Et,5-5,119,2004,Chickenpox
-Zone 13,5-5,964,2004,Chickenpox
+Zone:13,5-5,964,2004,Chickenpox
 Buri Ram,5-5,218,2004,Chickenpox
 Chaiyaphum,5-5,143,2004,Chickenpox
 Nakhon Ratchasima,5-5,410,2004,Chickenpox
 Surin,5-5,193,2004,Chickenpox
-Zone 14,5-5,282,2004,Chickenpox
+Zone:14,5-5,282,2004,Chickenpox
 Amnat Charoen,5-5,27,2004,Chickenpox
 Si Sa Ket,5-5,130,2004,Chickenpox
 Ubon Ratchathani,5-5,68,2004,Chickenpox
 Yasothon,5-5,57,2004,Chickenpox
 South Region,5-5,508,2004,Chickenpox
-Zone 15,5-5,70,2004,Chickenpox
+Zone:15,5-5,70,2004,Chickenpox
 Chumphon,5-5,19,2004,Chickenpox
 Ranong,5-5,13,2004,Chickenpox
 Surat Thani,5-5,38,2004,Chickenpox
-Zone 16,5-5,142,2004,Chickenpox
+Zone:16,5-5,142,2004,Chickenpox
 Nakhon Si Thammarat,5-5,65,2004,Chickenpox
 Phatthalung,5-5,27,2004,Chickenpox
 Trang,5-5,50,2004,Chickenpox
-Zone 17,5-5,95,2004,Chickenpox
+Zone:17,5-5,95,2004,Chickenpox
 Krabi,5-5,28,2004,Chickenpox
 Phangnga,5-5,24,2004,Chickenpox
 Phuket,5-5,43,2004,Chickenpox
-Zone 18,5-5,158,2004,Chickenpox
+Zone:18,5-5,158,2004,Chickenpox
 Narathiwat,5-5,79,2004,Chickenpox
 Pattani,5-5,36,2004,Chickenpox
 Yala,5-5,43,2004,Chickenpox
-Zone 19,5-5,43,2004,Chickenpox
+Zone:19,5-5,43,2004,Chickenpox
 Satun,5-5,8,2004,Chickenpox
 Songkhla,5-5,35,2004,Chickenpox
 Total,6-6,6727,2004,Chickenpox
 North Region,6-6,1867,2004,Chickenpox
-Zone 1,6-6,996,2004,Chickenpox
+Zone:1,6-6,996,2004,Chickenpox
 Chiang Mai,6-6,245,2004,Chickenpox
 Chiang Rai,6-6,284,2004,Chickenpox
 Lampang,6-6,122,2004,Chickenpox
@@ -28332,98 +28332,98 @@ Mae Hong Son,6-6,39,2004,Chickenpox
 Nan,6-6,135,2004,Chickenpox
 Phayao,6-6,83,2004,Chickenpox
 Phrae,6-6,51,2004,Chickenpox
-Zone 2,6-6,492,2004,Chickenpox
+Zone:2,6-6,492,2004,Chickenpox
 Phetchabun,6-6,121,2004,Chickenpox
 Phitsanulok,6-6,104,2004,Chickenpox
 Sukhothai,6-6,64,2004,Chickenpox
 Tak,6-6,142,2004,Chickenpox
 Uttaradit,6-6,61,2004,Chickenpox
-Zone 3,6-6,379,2004,Chickenpox
+Zone:3,6-6,379,2004,Chickenpox
 Kamphaeng Phet,6-6,118,2004,Chickenpox
 Nakhon Sawan,6-6,133,2004,Chickenpox
 Phichit,6-6,78,2004,Chickenpox
 Uthai Thani,6-6,50,2004,Chickenpox
 Central Region,6-6,1657,2004,Chickenpox
 Bangkok,6-6,295,2004,Chickenpox
-Zone 4,6-6,183,2004,Chickenpox
+Zone:4,6-6,183,2004,Chickenpox
 Ang Thong,6-6,16,2004,Chickenpox
 Nonthaburi,6-6,76,2004,Chickenpox
 P.Nakhon S.Ayutthaya,6-6,45,2004,Chickenpox
 Pathum Thani,6-6,46,2004,Chickenpox
-Zone 5,6-6,261,2004,Chickenpox
+Zone:5,6-6,261,2004,Chickenpox
 Chai Nat,6-6,21,2004,Chickenpox
 Lop Buri,6-6,142,2004,Chickenpox
 Saraburi,6-6,75,2004,Chickenpox
 Sing Buri,6-6,23,2004,Chickenpox
-Zone 6,6-6,235,2004,Chickenpox
+Zone:6,6-6,235,2004,Chickenpox
 Kanchanaburi,6-6,58,2004,Chickenpox
 Nakhon Pathom,6-6,83,2004,Chickenpox
 Ratchaburi,6-6,49,2004,Chickenpox
 Suphan Buri,6-6,45,2004,Chickenpox
-Zone 7,6-6,122,2004,Chickenpox
+Zone:7,6-6,122,2004,Chickenpox
 Phetchaburi,6-6,29,2004,Chickenpox
 Prachuap Khiri Khan,6-6,19,2004,Chickenpox
 Samut Sakhon,6-6,63,2004,Chickenpox
 Samut Songkhram,6-6,11,2004,Chickenpox
-Zone 8,6-6,309,2004,Chickenpox
+Zone:8,6-6,309,2004,Chickenpox
 Chachoengsao,6-6,71,2004,Chickenpox
 Nakhon Nayok,6-6,18,2004,Chickenpox
 Prachin Buri,6-6,47,2004,Chickenpox
 Sa Kaeo,6-6,45,2004,Chickenpox
 Samut Prakan,6-6,128,2004,Chickenpox
-Zone 9,6-6,252,2004,Chickenpox
+Zone:9,6-6,252,2004,Chickenpox
 Chanthaburi,6-6,48,2004,Chickenpox
 Chon Buri,6-6,86,2004,Chickenpox
 Rayong,6-6,94,2004,Chickenpox
 Trat,6-6,24,2004,Chickenpox
 North-Eastern Region,6-6,2589,2004,Chickenpox
-Zone 10,6-6,348,2004,Chickenpox
+Zone:10,6-6,348,2004,Chickenpox
 Loei,6-6,65,2004,Chickenpox
 Nong Bua Lam Phu,6-6,67,2004,Chickenpox
 Nong Khai,6-6,53,2004,Chickenpox
 Udon Thani,6-6,163,2004,Chickenpox
-Zone 11,6-6,388,2004,Chickenpox
+Zone:11,6-6,388,2004,Chickenpox
 Kalasin,6-6,209,2004,Chickenpox
 Mukdahan,6-6,28,2004,Chickenpox
 Nakhon Phanom,6-6,75,2004,Chickenpox
 Sakon Nakhon,6-6,76,2004,Chickenpox
-Zone 12,6-6,392,2004,Chickenpox
+Zone:12,6-6,392,2004,Chickenpox
 Khon Kaen,6-6,156,2004,Chickenpox
 Maha Sarakham,6-6,60,2004,Chickenpox
 Roi Et,6-6,176,2004,Chickenpox
-Zone 13,6-6,1085,2004,Chickenpox
+Zone:13,6-6,1085,2004,Chickenpox
 Buri Ram,6-6,242,2004,Chickenpox
 Chaiyaphum,6-6,149,2004,Chickenpox
 Nakhon Ratchasima,6-6,485,2004,Chickenpox
 Surin,6-6,209,2004,Chickenpox
-Zone 14,6-6,376,2004,Chickenpox
+Zone:14,6-6,376,2004,Chickenpox
 Amnat Charoen,6-6,40,2004,Chickenpox
 Si Sa Ket,6-6,152,2004,Chickenpox
 Ubon Ratchathani,6-6,101,2004,Chickenpox
 Yasothon,6-6,83,2004,Chickenpox
 South Region,6-6,614,2004,Chickenpox
-Zone 15,6-6,83,2004,Chickenpox
+Zone:15,6-6,83,2004,Chickenpox
 Chumphon,6-6,17,2004,Chickenpox
 Ranong,6-6,20,2004,Chickenpox
 Surat Thani,6-6,46,2004,Chickenpox
-Zone 16,6-6,172,2004,Chickenpox
+Zone:16,6-6,172,2004,Chickenpox
 Nakhon Si Thammarat,6-6,75,2004,Chickenpox
 Phatthalung,6-6,29,2004,Chickenpox
 Trang,6-6,68,2004,Chickenpox
-Zone 17,6-6,105,2004,Chickenpox
+Zone:17,6-6,105,2004,Chickenpox
 Krabi,6-6,33,2004,Chickenpox
 Phangnga,6-6,25,2004,Chickenpox
 Phuket,6-6,47,2004,Chickenpox
-Zone 18,6-6,184,2004,Chickenpox
+Zone:18,6-6,184,2004,Chickenpox
 Narathiwat,6-6,91,2004,Chickenpox
 Pattani,6-6,42,2004,Chickenpox
 Yala,6-6,51,2004,Chickenpox
-Zone 19,6-6,70,2004,Chickenpox
+Zone:19,6-6,70,2004,Chickenpox
 Satun,6-6,22,2004,Chickenpox
 Songkhla,6-6,48,2004,Chickenpox
 Total,7-9,16955,2004,Chickenpox
 North Region,7-9,4564,2004,Chickenpox
-Zone 1,7-9,2260,2004,Chickenpox
+Zone:1,7-9,2260,2004,Chickenpox
 Chiang Mai,7-9,510,2004,Chickenpox
 Chiang Rai,7-9,636,2004,Chickenpox
 Lampang,7-9,305,2004,Chickenpox
@@ -28432,98 +28432,98 @@ Mae Hong Son,7-9,67,2004,Chickenpox
 Nan,7-9,335,2004,Chickenpox
 Phayao,7-9,199,2004,Chickenpox
 Phrae,7-9,107,2004,Chickenpox
-Zone 2,7-9,1178,2004,Chickenpox
+Zone:2,7-9,1178,2004,Chickenpox
 Phetchabun,7-9,255,2004,Chickenpox
 Phitsanulok,7-9,262,2004,Chickenpox
 Sukhothai,7-9,186,2004,Chickenpox
 Tak,7-9,306,2004,Chickenpox
 Uttaradit,7-9,169,2004,Chickenpox
-Zone 3,7-9,1126,2004,Chickenpox
+Zone:3,7-9,1126,2004,Chickenpox
 Kamphaeng Phet,7-9,378,2004,Chickenpox
 Nakhon Sawan,7-9,388,2004,Chickenpox
 Phichit,7-9,247,2004,Chickenpox
 Uthai Thani,7-9,113,2004,Chickenpox
 Central Region,7-9,4125,2004,Chickenpox
 Bangkok,7-9,584,2004,Chickenpox
-Zone 4,7-9,453,2004,Chickenpox
+Zone:4,7-9,453,2004,Chickenpox
 Ang Thong,7-9,35,2004,Chickenpox
 Nonthaburi,7-9,188,2004,Chickenpox
 P.Nakhon S.Ayutthaya,7-9,144,2004,Chickenpox
 Pathum Thani,7-9,86,2004,Chickenpox
-Zone 5,7-9,570,2004,Chickenpox
+Zone:5,7-9,570,2004,Chickenpox
 Chai Nat,7-9,60,2004,Chickenpox
 Lop Buri,7-9,326,2004,Chickenpox
 Saraburi,7-9,154,2004,Chickenpox
 Sing Buri,7-9,30,2004,Chickenpox
-Zone 6,7-9,644,2004,Chickenpox
+Zone:6,7-9,644,2004,Chickenpox
 Kanchanaburi,7-9,129,2004,Chickenpox
 Nakhon Pathom,7-9,250,2004,Chickenpox
 Ratchaburi,7-9,142,2004,Chickenpox
 Suphan Buri,7-9,123,2004,Chickenpox
-Zone 7,7-9,268,2004,Chickenpox
+Zone:7,7-9,268,2004,Chickenpox
 Phetchaburi,7-9,46,2004,Chickenpox
 Prachuap Khiri Khan,7-9,62,2004,Chickenpox
 Samut Sakhon,7-9,117,2004,Chickenpox
 Samut Songkhram,7-9,43,2004,Chickenpox
-Zone 8,7-9,881,2004,Chickenpox
+Zone:8,7-9,881,2004,Chickenpox
 Chachoengsao,7-9,204,2004,Chickenpox
 Nakhon Nayok,7-9,61,2004,Chickenpox
 Prachin Buri,7-9,153,2004,Chickenpox
 Sa Kaeo,7-9,134,2004,Chickenpox
 Samut Prakan,7-9,329,2004,Chickenpox
-Zone 9,7-9,725,2004,Chickenpox
+Zone:9,7-9,725,2004,Chickenpox
 Chanthaburi,7-9,173,2004,Chickenpox
 Chon Buri,7-9,232,2004,Chickenpox
 Rayong,7-9,247,2004,Chickenpox
 Trat,7-9,73,2004,Chickenpox
 North-Eastern Region,7-9,6689,2004,Chickenpox
-Zone 10,7-9,837,2004,Chickenpox
+Zone:10,7-9,837,2004,Chickenpox
 Loei,7-9,164,2004,Chickenpox
 Nong Bua Lam Phu,7-9,175,2004,Chickenpox
 Nong Khai,7-9,124,2004,Chickenpox
 Udon Thani,7-9,374,2004,Chickenpox
-Zone 11,7-9,958,2004,Chickenpox
+Zone:11,7-9,958,2004,Chickenpox
 Kalasin,7-9,537,2004,Chickenpox
 Mukdahan,7-9,94,2004,Chickenpox
 Nakhon Phanom,7-9,161,2004,Chickenpox
 Sakon Nakhon,7-9,166,2004,Chickenpox
-Zone 12,7-9,1073,2004,Chickenpox
+Zone:12,7-9,1073,2004,Chickenpox
 Khon Kaen,7-9,419,2004,Chickenpox
 Maha Sarakham,7-9,206,2004,Chickenpox
 Roi Et,7-9,448,2004,Chickenpox
-Zone 13,7-9,2863,2004,Chickenpox
+Zone:13,7-9,2863,2004,Chickenpox
 Buri Ram,7-9,641,2004,Chickenpox
 Chaiyaphum,7-9,365,2004,Chickenpox
 Nakhon Ratchasima,7-9,1240,2004,Chickenpox
 Surin,7-9,617,2004,Chickenpox
-Zone 14,7-9,958,2004,Chickenpox
+Zone:14,7-9,958,2004,Chickenpox
 Amnat Charoen,7-9,122,2004,Chickenpox
 Si Sa Ket,7-9,385,2004,Chickenpox
 Ubon Ratchathani,7-9,252,2004,Chickenpox
 Yasothon,7-9,199,2004,Chickenpox
 South Region,7-9,1577,2004,Chickenpox
-Zone 15,7-9,206,2004,Chickenpox
+Zone:15,7-9,206,2004,Chickenpox
 Chumphon,7-9,41,2004,Chickenpox
 Ranong,7-9,45,2004,Chickenpox
 Surat Thani,7-9,120,2004,Chickenpox
-Zone 16,7-9,435,2004,Chickenpox
+Zone:16,7-9,435,2004,Chickenpox
 Nakhon Si Thammarat,7-9,190,2004,Chickenpox
 Phatthalung,7-9,70,2004,Chickenpox
 Trang,7-9,175,2004,Chickenpox
-Zone 17,7-9,290,2004,Chickenpox
+Zone:17,7-9,290,2004,Chickenpox
 Krabi,7-9,92,2004,Chickenpox
 Phangnga,7-9,68,2004,Chickenpox
 Phuket,7-9,130,2004,Chickenpox
-Zone 18,7-9,441,2004,Chickenpox
+Zone:18,7-9,441,2004,Chickenpox
 Narathiwat,7-9,206,2004,Chickenpox
 Pattani,7-9,119,2004,Chickenpox
 Yala,7-9,116,2004,Chickenpox
-Zone 19,7-9,205,2004,Chickenpox
+Zone:19,7-9,205,2004,Chickenpox
 Satun,7-9,36,2004,Chickenpox
 Songkhla,7-9,169,2004,Chickenpox
 Total,10-14,15920,2004,Chickenpox
 North Region,10-14,4209,2004,Chickenpox
-Zone 1,10-14,1868,2004,Chickenpox
+Zone:1,10-14,1868,2004,Chickenpox
 Chiang Mai,10-14,472,2004,Chickenpox
 Chiang Rai,10-14,470,2004,Chickenpox
 Lampang,10-14,243,2004,Chickenpox
@@ -28532,98 +28532,98 @@ Mae Hong Son,10-14,53,2004,Chickenpox
 Nan,10-14,272,2004,Chickenpox
 Phayao,10-14,180,2004,Chickenpox
 Phrae,10-14,103,2004,Chickenpox
-Zone 2,10-14,1135,2004,Chickenpox
+Zone:2,10-14,1135,2004,Chickenpox
 Phetchabun,10-14,230,2004,Chickenpox
 Phitsanulok,10-14,313,2004,Chickenpox
 Sukhothai,10-14,166,2004,Chickenpox
 Tak,10-14,258,2004,Chickenpox
 Uttaradit,10-14,168,2004,Chickenpox
-Zone 3,10-14,1206,2004,Chickenpox
+Zone:3,10-14,1206,2004,Chickenpox
 Kamphaeng Phet,10-14,405,2004,Chickenpox
 Nakhon Sawan,10-14,392,2004,Chickenpox
 Phichit,10-14,258,2004,Chickenpox
 Uthai Thani,10-14,151,2004,Chickenpox
 Central Region,10-14,4139,2004,Chickenpox
 Bangkok,10-14,439,2004,Chickenpox
-Zone 4,10-14,459,2004,Chickenpox
+Zone:4,10-14,459,2004,Chickenpox
 Ang Thong,10-14,60,2004,Chickenpox
 Nonthaburi,10-14,152,2004,Chickenpox
 P.Nakhon S.Ayutthaya,10-14,135,2004,Chickenpox
 Pathum Thani,10-14,112,2004,Chickenpox
-Zone 5,10-14,637,2004,Chickenpox
+Zone:5,10-14,637,2004,Chickenpox
 Chai Nat,10-14,58,2004,Chickenpox
 Lop Buri,10-14,349,2004,Chickenpox
 Saraburi,10-14,187,2004,Chickenpox
 Sing Buri,10-14,43,2004,Chickenpox
-Zone 6,10-14,706,2004,Chickenpox
+Zone:6,10-14,706,2004,Chickenpox
 Kanchanaburi,10-14,130,2004,Chickenpox
 Nakhon Pathom,10-14,263,2004,Chickenpox
 Ratchaburi,10-14,177,2004,Chickenpox
 Suphan Buri,10-14,136,2004,Chickenpox
-Zone 7,10-14,330,2004,Chickenpox
+Zone:7,10-14,330,2004,Chickenpox
 Phetchaburi,10-14,77,2004,Chickenpox
 Prachuap Khiri Khan,10-14,71,2004,Chickenpox
 Samut Sakhon,10-14,133,2004,Chickenpox
 Samut Songkhram,10-14,49,2004,Chickenpox
-Zone 8,10-14,858,2004,Chickenpox
+Zone:8,10-14,858,2004,Chickenpox
 Chachoengsao,10-14,213,2004,Chickenpox
 Nakhon Nayok,10-14,56,2004,Chickenpox
 Prachin Buri,10-14,152,2004,Chickenpox
 Sa Kaeo,10-14,109,2004,Chickenpox
 Samut Prakan,10-14,328,2004,Chickenpox
-Zone 9,10-14,710,2004,Chickenpox
+Zone:9,10-14,710,2004,Chickenpox
 Chanthaburi,10-14,165,2004,Chickenpox
 Chon Buri,10-14,236,2004,Chickenpox
 Rayong,10-14,205,2004,Chickenpox
 Trat,10-14,104,2004,Chickenpox
 North-Eastern Region,10-14,5980,2004,Chickenpox
-Zone 10,10-14,751,2004,Chickenpox
+Zone:10,10-14,751,2004,Chickenpox
 Loei,10-14,169,2004,Chickenpox
 Nong Bua Lam Phu,10-14,134,2004,Chickenpox
 Nong Khai,10-14,116,2004,Chickenpox
 Udon Thani,10-14,332,2004,Chickenpox
-Zone 11,10-14,739,2004,Chickenpox
+Zone:11,10-14,739,2004,Chickenpox
 Kalasin,10-14,371,2004,Chickenpox
 Mukdahan,10-14,73,2004,Chickenpox
 Nakhon Phanom,10-14,117,2004,Chickenpox
 Sakon Nakhon,10-14,178,2004,Chickenpox
-Zone 12,10-14,965,2004,Chickenpox
+Zone:12,10-14,965,2004,Chickenpox
 Khon Kaen,10-14,388,2004,Chickenpox
 Maha Sarakham,10-14,211,2004,Chickenpox
 Roi Et,10-14,366,2004,Chickenpox
-Zone 13,10-14,2563,2004,Chickenpox
+Zone:13,10-14,2563,2004,Chickenpox
 Buri Ram,10-14,550,2004,Chickenpox
 Chaiyaphum,10-14,334,2004,Chickenpox
 Nakhon Ratchasima,10-14,1198,2004,Chickenpox
 Surin,10-14,481,2004,Chickenpox
-Zone 14,10-14,962,2004,Chickenpox
+Zone:14,10-14,962,2004,Chickenpox
 Amnat Charoen,10-14,138,2004,Chickenpox
 Si Sa Ket,10-14,391,2004,Chickenpox
 Ubon Ratchathani,10-14,237,2004,Chickenpox
 Yasothon,10-14,196,2004,Chickenpox
 South Region,10-14,1592,2004,Chickenpox
-Zone 15,10-14,260,2004,Chickenpox
+Zone:15,10-14,260,2004,Chickenpox
 Chumphon,10-14,49,2004,Chickenpox
 Ranong,10-14,39,2004,Chickenpox
 Surat Thani,10-14,172,2004,Chickenpox
-Zone 16,10-14,493,2004,Chickenpox
+Zone:16,10-14,493,2004,Chickenpox
 Nakhon Si Thammarat,10-14,233,2004,Chickenpox
 Phatthalung,10-14,100,2004,Chickenpox
 Trang,10-14,160,2004,Chickenpox
-Zone 17,10-14,250,2004,Chickenpox
+Zone:17,10-14,250,2004,Chickenpox
 Krabi,10-14,80,2004,Chickenpox
 Phangnga,10-14,56,2004,Chickenpox
 Phuket,10-14,114,2004,Chickenpox
-Zone 18,10-14,376,2004,Chickenpox
+Zone:18,10-14,376,2004,Chickenpox
 Narathiwat,10-14,159,2004,Chickenpox
 Pattani,10-14,111,2004,Chickenpox
 Yala,10-14,106,2004,Chickenpox
-Zone 19,10-14,213,2004,Chickenpox
+Zone:19,10-14,213,2004,Chickenpox
 Satun,10-14,30,2004,Chickenpox
 Songkhla,10-14,183,2004,Chickenpox
 Total,15-24,11887,2004,Chickenpox
 North Region,15-24,2508,2004,Chickenpox
-Zone 1,15-24,966,2004,Chickenpox
+Zone:1,15-24,966,2004,Chickenpox
 Chiang Mai,15-24,227,2004,Chickenpox
 Chiang Rai,15-24,241,2004,Chickenpox
 Lampang,15-24,161,2004,Chickenpox
@@ -28632,98 +28632,98 @@ Mae Hong Son,15-24,28,2004,Chickenpox
 Nan,15-24,134,2004,Chickenpox
 Phayao,15-24,68,2004,Chickenpox
 Phrae,15-24,54,2004,Chickenpox
-Zone 2,15-24,718,2004,Chickenpox
+Zone:2,15-24,718,2004,Chickenpox
 Phetchabun,15-24,140,2004,Chickenpox
 Phitsanulok,15-24,180,2004,Chickenpox
 Sukhothai,15-24,140,2004,Chickenpox
 Tak,15-24,136,2004,Chickenpox
 Uttaradit,15-24,122,2004,Chickenpox
-Zone 3,15-24,824,2004,Chickenpox
+Zone:3,15-24,824,2004,Chickenpox
 Kamphaeng Phet,15-24,218,2004,Chickenpox
 Nakhon Sawan,15-24,332,2004,Chickenpox
 Phichit,15-24,152,2004,Chickenpox
 Uthai Thani,15-24,122,2004,Chickenpox
 Central Region,15-24,5032,2004,Chickenpox
 Bangkok,15-24,735,2004,Chickenpox
-Zone 4,15-24,528,2004,Chickenpox
+Zone:4,15-24,528,2004,Chickenpox
 Ang Thong,15-24,72,2004,Chickenpox
 Nonthaburi,15-24,148,2004,Chickenpox
 P.Nakhon S.Ayutthaya,15-24,221,2004,Chickenpox
 Pathum Thani,15-24,87,2004,Chickenpox
-Zone 5,15-24,749,2004,Chickenpox
+Zone:5,15-24,749,2004,Chickenpox
 Chai Nat,15-24,77,2004,Chickenpox
 Lop Buri,15-24,356,2004,Chickenpox
 Saraburi,15-24,253,2004,Chickenpox
 Sing Buri,15-24,63,2004,Chickenpox
-Zone 6,15-24,792,2004,Chickenpox
+Zone:6,15-24,792,2004,Chickenpox
 Kanchanaburi,15-24,126,2004,Chickenpox
 Nakhon Pathom,15-24,280,2004,Chickenpox
 Ratchaburi,15-24,215,2004,Chickenpox
 Suphan Buri,15-24,171,2004,Chickenpox
-Zone 7,15-24,339,2004,Chickenpox
+Zone:7,15-24,339,2004,Chickenpox
 Phetchaburi,15-24,70,2004,Chickenpox
 Prachuap Khiri Khan,15-24,84,2004,Chickenpox
 Samut Sakhon,15-24,120,2004,Chickenpox
 Samut Songkhram,15-24,65,2004,Chickenpox
-Zone 8,15-24,953,2004,Chickenpox
+Zone:8,15-24,953,2004,Chickenpox
 Chachoengsao,15-24,335,2004,Chickenpox
 Nakhon Nayok,15-24,67,2004,Chickenpox
 Prachin Buri,15-24,227,2004,Chickenpox
 Sa Kaeo,15-24,80,2004,Chickenpox
 Samut Prakan,15-24,244,2004,Chickenpox
-Zone 9,15-24,936,2004,Chickenpox
+Zone:9,15-24,936,2004,Chickenpox
 Chanthaburi,15-24,190,2004,Chickenpox
 Chon Buri,15-24,354,2004,Chickenpox
 Rayong,15-24,325,2004,Chickenpox
 Trat,15-24,67,2004,Chickenpox
 North-Eastern Region,15-24,2861,2004,Chickenpox
-Zone 10,15-24,331,2004,Chickenpox
+Zone:10,15-24,331,2004,Chickenpox
 Loei,15-24,67,2004,Chickenpox
 Nong Bua Lam Phu,15-24,48,2004,Chickenpox
 Nong Khai,15-24,41,2004,Chickenpox
 Udon Thani,15-24,175,2004,Chickenpox
-Zone 11,15-24,254,2004,Chickenpox
+Zone:11,15-24,254,2004,Chickenpox
 Kalasin,15-24,107,2004,Chickenpox
 Mukdahan,15-24,26,2004,Chickenpox
 Nakhon Phanom,15-24,58,2004,Chickenpox
 Sakon Nakhon,15-24,63,2004,Chickenpox
-Zone 12,15-24,437,2004,Chickenpox
+Zone:12,15-24,437,2004,Chickenpox
 Khon Kaen,15-24,199,2004,Chickenpox
 Maha Sarakham,15-24,90,2004,Chickenpox
 Roi Et,15-24,148,2004,Chickenpox
-Zone 13,15-24,1396,2004,Chickenpox
+Zone:13,15-24,1396,2004,Chickenpox
 Buri Ram,15-24,312,2004,Chickenpox
 Chaiyaphum,15-24,171,2004,Chickenpox
 Nakhon Ratchasima,15-24,679,2004,Chickenpox
 Surin,15-24,234,2004,Chickenpox
-Zone 14,15-24,443,2004,Chickenpox
+Zone:14,15-24,443,2004,Chickenpox
 Amnat Charoen,15-24,55,2004,Chickenpox
 Si Sa Ket,15-24,152,2004,Chickenpox
 Ubon Ratchathani,15-24,159,2004,Chickenpox
 Yasothon,15-24,77,2004,Chickenpox
 South Region,15-24,1486,2004,Chickenpox
-Zone 15,15-24,275,2004,Chickenpox
+Zone:15,15-24,275,2004,Chickenpox
 Chumphon,15-24,44,2004,Chickenpox
 Ranong,15-24,50,2004,Chickenpox
 Surat Thani,15-24,181,2004,Chickenpox
-Zone 16,15-24,393,2004,Chickenpox
+Zone:16,15-24,393,2004,Chickenpox
 Nakhon Si Thammarat,15-24,166,2004,Chickenpox
 Phatthalung,15-24,70,2004,Chickenpox
 Trang,15-24,157,2004,Chickenpox
-Zone 17,15-24,327,2004,Chickenpox
+Zone:17,15-24,327,2004,Chickenpox
 Krabi,15-24,74,2004,Chickenpox
 Phangnga,15-24,58,2004,Chickenpox
 Phuket,15-24,195,2004,Chickenpox
-Zone 18,15-24,269,2004,Chickenpox
+Zone:18,15-24,269,2004,Chickenpox
 Narathiwat,15-24,92,2004,Chickenpox
 Pattani,15-24,99,2004,Chickenpox
 Yala,15-24,78,2004,Chickenpox
-Zone 19,15-24,222,2004,Chickenpox
+Zone:19,15-24,222,2004,Chickenpox
 Satun,15-24,23,2004,Chickenpox
 Songkhla,15-24,199,2004,Chickenpox
 Total,25-34,7541,2004,Chickenpox
 North Region,25-34,1411,2004,Chickenpox
-Zone 1,25-34,549,2004,Chickenpox
+Zone:1,25-34,549,2004,Chickenpox
 Chiang Mai,25-34,118,2004,Chickenpox
 Chiang Rai,25-34,139,2004,Chickenpox
 Lampang,25-34,88,2004,Chickenpox
@@ -28732,98 +28732,98 @@ Mae Hong Son,25-34,17,2004,Chickenpox
 Nan,25-34,70,2004,Chickenpox
 Phayao,25-34,46,2004,Chickenpox
 Phrae,25-34,35,2004,Chickenpox
-Zone 2,25-34,346,2004,Chickenpox
+Zone:2,25-34,346,2004,Chickenpox
 Phetchabun,25-34,90,2004,Chickenpox
 Phitsanulok,25-34,66,2004,Chickenpox
 Sukhothai,25-34,60,2004,Chickenpox
 Tak,25-34,71,2004,Chickenpox
 Uttaradit,25-34,59,2004,Chickenpox
-Zone 3,25-34,516,2004,Chickenpox
+Zone:3,25-34,516,2004,Chickenpox
 Kamphaeng Phet,25-34,166,2004,Chickenpox
 Nakhon Sawan,25-34,161,2004,Chickenpox
 Phichit,25-34,102,2004,Chickenpox
 Uthai Thani,25-34,87,2004,Chickenpox
 Central Region,25-34,3662,2004,Chickenpox
 Bangkok,25-34,619,2004,Chickenpox
-Zone 4,25-34,369,2004,Chickenpox
+Zone:4,25-34,369,2004,Chickenpox
 Ang Thong,25-34,65,2004,Chickenpox
 Nonthaburi,25-34,100,2004,Chickenpox
 P.Nakhon S.Ayutthaya,25-34,122,2004,Chickenpox
 Pathum Thani,25-34,82,2004,Chickenpox
-Zone 5,25-34,502,2004,Chickenpox
+Zone:5,25-34,502,2004,Chickenpox
 Chai Nat,25-34,41,2004,Chickenpox
 Lop Buri,25-34,249,2004,Chickenpox
 Saraburi,25-34,173,2004,Chickenpox
 Sing Buri,25-34,39,2004,Chickenpox
-Zone 6,25-34,568,2004,Chickenpox
+Zone:6,25-34,568,2004,Chickenpox
 Kanchanaburi,25-34,105,2004,Chickenpox
 Nakhon Pathom,25-34,197,2004,Chickenpox
 Ratchaburi,25-34,160,2004,Chickenpox
 Suphan Buri,25-34,106,2004,Chickenpox
-Zone 7,25-34,237,2004,Chickenpox
+Zone:7,25-34,237,2004,Chickenpox
 Phetchaburi,25-34,45,2004,Chickenpox
 Prachuap Khiri Khan,25-34,71,2004,Chickenpox
 Samut Sakhon,25-34,72,2004,Chickenpox
 Samut Songkhram,25-34,49,2004,Chickenpox
-Zone 8,25-34,658,2004,Chickenpox
+Zone:8,25-34,658,2004,Chickenpox
 Chachoengsao,25-34,252,2004,Chickenpox
 Nakhon Nayok,25-34,45,2004,Chickenpox
 Prachin Buri,25-34,165,2004,Chickenpox
 Sa Kaeo,25-34,59,2004,Chickenpox
 Samut Prakan,25-34,137,2004,Chickenpox
-Zone 9,25-34,709,2004,Chickenpox
+Zone:9,25-34,709,2004,Chickenpox
 Chanthaburi,25-34,138,2004,Chickenpox
 Chon Buri,25-34,252,2004,Chickenpox
 Rayong,25-34,250,2004,Chickenpox
 Trat,25-34,69,2004,Chickenpox
 North-Eastern Region,25-34,1440,2004,Chickenpox
-Zone 10,25-34,139,2004,Chickenpox
+Zone:10,25-34,139,2004,Chickenpox
 Loei,25-34,29,2004,Chickenpox
 Nong Bua Lam Phu,25-34,21,2004,Chickenpox
 Nong Khai,25-34,15,2004,Chickenpox
 Udon Thani,25-34,74,2004,Chickenpox
-Zone 11,25-34,114,2004,Chickenpox
+Zone:11,25-34,114,2004,Chickenpox
 Kalasin,25-34,49,2004,Chickenpox
 Mukdahan,25-34,14,2004,Chickenpox
 Nakhon Phanom,25-34,28,2004,Chickenpox
 Sakon Nakhon,25-34,23,2004,Chickenpox
-Zone 12,25-34,188,2004,Chickenpox
+Zone:12,25-34,188,2004,Chickenpox
 Khon Kaen,25-34,90,2004,Chickenpox
 Maha Sarakham,25-34,38,2004,Chickenpox
 Roi Et,25-34,60,2004,Chickenpox
-Zone 13,25-34,715,2004,Chickenpox
+Zone:13,25-34,715,2004,Chickenpox
 Buri Ram,25-34,136,2004,Chickenpox
 Chaiyaphum,25-34,90,2004,Chickenpox
 Nakhon Ratchasima,25-34,363,2004,Chickenpox
 Surin,25-34,126,2004,Chickenpox
-Zone 14,25-34,284,2004,Chickenpox
+Zone:14,25-34,284,2004,Chickenpox
 Amnat Charoen,25-34,23,2004,Chickenpox
 Si Sa Ket,25-34,120,2004,Chickenpox
 Ubon Ratchathani,25-34,101,2004,Chickenpox
 Yasothon,25-34,40,2004,Chickenpox
 South Region,25-34,1028,2004,Chickenpox
-Zone 15,25-34,211,2004,Chickenpox
+Zone:15,25-34,211,2004,Chickenpox
 Chumphon,25-34,55,2004,Chickenpox
 Ranong,25-34,29,2004,Chickenpox
 Surat Thani,25-34,127,2004,Chickenpox
-Zone 16,25-34,202,2004,Chickenpox
+Zone:16,25-34,202,2004,Chickenpox
 Nakhon Si Thammarat,25-34,84,2004,Chickenpox
 Phatthalung,25-34,37,2004,Chickenpox
 Trang,25-34,81,2004,Chickenpox
-Zone 17,25-34,286,2004,Chickenpox
+Zone:17,25-34,286,2004,Chickenpox
 Krabi,25-34,65,2004,Chickenpox
 Phangnga,25-34,40,2004,Chickenpox
 Phuket,25-34,181,2004,Chickenpox
-Zone 18,25-34,170,2004,Chickenpox
+Zone:18,25-34,170,2004,Chickenpox
 Narathiwat,25-34,46,2004,Chickenpox
 Pattani,25-34,68,2004,Chickenpox
 Yala,25-34,56,2004,Chickenpox
-Zone 19,25-34,159,2004,Chickenpox
+Zone:19,25-34,159,2004,Chickenpox
 Satun,25-34,7,2004,Chickenpox
 Songkhla,25-34,152,2004,Chickenpox
 Total,35-44,2199,2004,Chickenpox
 North Region,35-44,412,2004,Chickenpox
-Zone 1,35-44,146,2004,Chickenpox
+Zone:1,35-44,146,2004,Chickenpox
 Chiang Mai,35-44,47,2004,Chickenpox
 Chiang Rai,35-44,31,2004,Chickenpox
 Lampang,35-44,14,2004,Chickenpox
@@ -28832,98 +28832,98 @@ Mae Hong Son,35-44,8,2004,Chickenpox
 Nan,35-44,21,2004,Chickenpox
 Phayao,35-44,9,2004,Chickenpox
 Phrae,35-44,9,2004,Chickenpox
-Zone 2,35-44,97,2004,Chickenpox
+Zone:2,35-44,97,2004,Chickenpox
 Phetchabun,35-44,27,2004,Chickenpox
 Phitsanulok,35-44,23,2004,Chickenpox
 Sukhothai,35-44,19,2004,Chickenpox
 Tak,35-44,12,2004,Chickenpox
 Uttaradit,35-44,16,2004,Chickenpox
-Zone 3,35-44,169,2004,Chickenpox
+Zone:3,35-44,169,2004,Chickenpox
 Kamphaeng Phet,35-44,49,2004,Chickenpox
 Nakhon Sawan,35-44,60,2004,Chickenpox
 Phichit,35-44,41,2004,Chickenpox
 Uthai Thani,35-44,19,2004,Chickenpox
 Central Region,35-44,1049,2004,Chickenpox
 Bangkok,35-44,171,2004,Chickenpox
-Zone 4,35-44,111,2004,Chickenpox
+Zone:4,35-44,111,2004,Chickenpox
 Ang Thong,35-44,6,2004,Chickenpox
 Nonthaburi,35-44,35,2004,Chickenpox
 P.Nakhon S.Ayutthaya,35-44,44,2004,Chickenpox
 Pathum Thani,35-44,26,2004,Chickenpox
-Zone 5,35-44,161,2004,Chickenpox
+Zone:5,35-44,161,2004,Chickenpox
 Chai Nat,35-44,15,2004,Chickenpox
 Lop Buri,35-44,87,2004,Chickenpox
 Saraburi,35-44,53,2004,Chickenpox
 Sing Buri,35-44,6,2004,Chickenpox
-Zone 6,35-44,175,2004,Chickenpox
+Zone:6,35-44,175,2004,Chickenpox
 Kanchanaburi,35-44,32,2004,Chickenpox
 Nakhon Pathom,35-44,73,2004,Chickenpox
 Ratchaburi,35-44,38,2004,Chickenpox
 Suphan Buri,35-44,32,2004,Chickenpox
-Zone 7,35-44,79,2004,Chickenpox
+Zone:7,35-44,79,2004,Chickenpox
 Phetchaburi,35-44,9,2004,Chickenpox
 Prachuap Khiri Khan,35-44,24,2004,Chickenpox
 Samut Sakhon,35-44,30,2004,Chickenpox
 Samut Songkhram,35-44,16,2004,Chickenpox
-Zone 8,35-44,159,2004,Chickenpox
+Zone:8,35-44,159,2004,Chickenpox
 Chachoengsao,35-44,64,2004,Chickenpox
 Nakhon Nayok,35-44,12,2004,Chickenpox
 Prachin Buri,35-44,38,2004,Chickenpox
 Sa Kaeo,35-44,16,2004,Chickenpox
 Samut Prakan,35-44,29,2004,Chickenpox
-Zone 9,35-44,193,2004,Chickenpox
+Zone:9,35-44,193,2004,Chickenpox
 Chanthaburi,35-44,42,2004,Chickenpox
 Chon Buri,35-44,82,2004,Chickenpox
 Rayong,35-44,49,2004,Chickenpox
 Trat,35-44,20,2004,Chickenpox
 North-Eastern Region,35-44,409,2004,Chickenpox
-Zone 10,35-44,44,2004,Chickenpox
+Zone:10,35-44,44,2004,Chickenpox
 Loei,35-44,7,2004,Chickenpox
 Nong Bua Lam Phu,35-44,8,2004,Chickenpox
 Nong Khai,35-44,3,2004,Chickenpox
 Udon Thani,35-44,26,2004,Chickenpox
-Zone 11,35-44,38,2004,Chickenpox
+Zone:11,35-44,38,2004,Chickenpox
 Kalasin,35-44,16,2004,Chickenpox
 Mukdahan,35-44,9,2004,Chickenpox
 Nakhon Phanom,35-44,8,2004,Chickenpox
 Sakon Nakhon,35-44,5,2004,Chickenpox
-Zone 12,35-44,43,2004,Chickenpox
+Zone:12,35-44,43,2004,Chickenpox
 Khon Kaen,35-44,14,2004,Chickenpox
 Maha Sarakham,35-44,9,2004,Chickenpox
 Roi Et,35-44,20,2004,Chickenpox
-Zone 13,35-44,200,2004,Chickenpox
+Zone:13,35-44,200,2004,Chickenpox
 Buri Ram,35-44,36,2004,Chickenpox
 Chaiyaphum,35-44,26,2004,Chickenpox
 Nakhon Ratchasima,35-44,97,2004,Chickenpox
 Surin,35-44,41,2004,Chickenpox
-Zone 14,35-44,84,2004,Chickenpox
+Zone:14,35-44,84,2004,Chickenpox
 Amnat Charoen,35-44,7,2004,Chickenpox
 Si Sa Ket,35-44,42,2004,Chickenpox
 Ubon Ratchathani,35-44,23,2004,Chickenpox
 Yasothon,35-44,12,2004,Chickenpox
 South Region,35-44,329,2004,Chickenpox
-Zone 15,35-44,66,2004,Chickenpox
+Zone:15,35-44,66,2004,Chickenpox
 Chumphon,35-44,17,2004,Chickenpox
 Ranong,35-44,7,2004,Chickenpox
 Surat Thani,35-44,42,2004,Chickenpox
-Zone 16,35-44,55,2004,Chickenpox
+Zone:16,35-44,55,2004,Chickenpox
 Nakhon Si Thammarat,35-44,25,2004,Chickenpox
 Phatthalung,35-44,8,2004,Chickenpox
 Trang,35-44,22,2004,Chickenpox
-Zone 17,35-44,75,2004,Chickenpox
+Zone:17,35-44,75,2004,Chickenpox
 Krabi,35-44,12,2004,Chickenpox
 Phangnga,35-44,18,2004,Chickenpox
 Phuket,35-44,45,2004,Chickenpox
-Zone 18,35-44,81,2004,Chickenpox
+Zone:18,35-44,81,2004,Chickenpox
 Narathiwat,35-44,16,2004,Chickenpox
 Pattani,35-44,30,2004,Chickenpox
 Yala,35-44,35,2004,Chickenpox
-Zone 19,35-44,52,2004,Chickenpox
+Zone:19,35-44,52,2004,Chickenpox
 Satun,35-44,4,2004,Chickenpox
 Songkhla,35-44,48,2004,Chickenpox
 Total,45-54,502,2004,Chickenpox
 North Region,45-54,104,2004,Chickenpox
-Zone 1,45-54,45,2004,Chickenpox
+Zone:1,45-54,45,2004,Chickenpox
 Chiang Mai,45-54,19,2004,Chickenpox
 Chiang Rai,45-54,11,2004,Chickenpox
 Lampang,45-54,3,2004,Chickenpox
@@ -28932,98 +28932,98 @@ Mae Hong Son,45-54,3,2004,Chickenpox
 Nan,45-54,5,2004,Chickenpox
 Phayao,45-54,3,2004,Chickenpox
 Phrae,45-54,0,2004,Chickenpox
-Zone 2,45-54,26,2004,Chickenpox
+Zone:2,45-54,26,2004,Chickenpox
 Phetchabun,45-54,8,2004,Chickenpox
 Phitsanulok,45-54,2,2004,Chickenpox
 Sukhothai,45-54,3,2004,Chickenpox
 Tak,45-54,10,2004,Chickenpox
 Uttaradit,45-54,3,2004,Chickenpox
-Zone 3,45-54,33,2004,Chickenpox
+Zone:3,45-54,33,2004,Chickenpox
 Kamphaeng Phet,45-54,9,2004,Chickenpox
 Nakhon Sawan,45-54,6,2004,Chickenpox
 Phichit,45-54,6,2004,Chickenpox
 Uthai Thani,45-54,12,2004,Chickenpox
 Central Region,45-54,201,2004,Chickenpox
 Bangkok,45-54,41,2004,Chickenpox
-Zone 4,45-54,13,2004,Chickenpox
+Zone:4,45-54,13,2004,Chickenpox
 Ang Thong,45-54,0,2004,Chickenpox
 Nonthaburi,45-54,6,2004,Chickenpox
 P.Nakhon S.Ayutthaya,45-54,6,2004,Chickenpox
 Pathum Thani,45-54,1,2004,Chickenpox
-Zone 5,45-54,32,2004,Chickenpox
+Zone:5,45-54,32,2004,Chickenpox
 Chai Nat,45-54,4,2004,Chickenpox
 Lop Buri,45-54,19,2004,Chickenpox
 Saraburi,45-54,5,2004,Chickenpox
 Sing Buri,45-54,4,2004,Chickenpox
-Zone 6,45-54,48,2004,Chickenpox
+Zone:6,45-54,48,2004,Chickenpox
 Kanchanaburi,45-54,5,2004,Chickenpox
 Nakhon Pathom,45-54,15,2004,Chickenpox
 Ratchaburi,45-54,13,2004,Chickenpox
 Suphan Buri,45-54,15,2004,Chickenpox
-Zone 7,45-54,13,2004,Chickenpox
+Zone:7,45-54,13,2004,Chickenpox
 Phetchaburi,45-54,2,2004,Chickenpox
 Prachuap Khiri Khan,45-54,5,2004,Chickenpox
 Samut Sakhon,45-54,2,2004,Chickenpox
 Samut Songkhram,45-54,4,2004,Chickenpox
-Zone 8,45-54,24,2004,Chickenpox
+Zone:8,45-54,24,2004,Chickenpox
 Chachoengsao,45-54,5,2004,Chickenpox
 Nakhon Nayok,45-54,1,2004,Chickenpox
 Prachin Buri,45-54,11,2004,Chickenpox
 Sa Kaeo,45-54,3,2004,Chickenpox
 Samut Prakan,45-54,4,2004,Chickenpox
-Zone 9,45-54,30,2004,Chickenpox
+Zone:9,45-54,30,2004,Chickenpox
 Chanthaburi,45-54,10,2004,Chickenpox
 Chon Buri,45-54,7,2004,Chickenpox
 Rayong,45-54,9,2004,Chickenpox
 Trat,45-54,4,2004,Chickenpox
 North-Eastern Region,45-54,120,2004,Chickenpox
-Zone 10,45-54,18,2004,Chickenpox
+Zone:10,45-54,18,2004,Chickenpox
 Loei,45-54,3,2004,Chickenpox
 Nong Bua Lam Phu,45-54,1,2004,Chickenpox
 Nong Khai,45-54,4,2004,Chickenpox
 Udon Thani,45-54,10,2004,Chickenpox
-Zone 11,45-54,23,2004,Chickenpox
+Zone:11,45-54,23,2004,Chickenpox
 Kalasin,45-54,15,2004,Chickenpox
 Mukdahan,45-54,1,2004,Chickenpox
 Nakhon Phanom,45-54,5,2004,Chickenpox
 Sakon Nakhon,45-54,2,2004,Chickenpox
-Zone 12,45-54,9,2004,Chickenpox
+Zone:12,45-54,9,2004,Chickenpox
 Khon Kaen,45-54,2,2004,Chickenpox
 Maha Sarakham,45-54,2,2004,Chickenpox
 Roi Et,45-54,5,2004,Chickenpox
-Zone 13,45-54,49,2004,Chickenpox
+Zone:13,45-54,49,2004,Chickenpox
 Buri Ram,45-54,6,2004,Chickenpox
 Chaiyaphum,45-54,8,2004,Chickenpox
 Nakhon Ratchasima,45-54,31,2004,Chickenpox
 Surin,45-54,4,2004,Chickenpox
-Zone 14,45-54,21,2004,Chickenpox
+Zone:14,45-54,21,2004,Chickenpox
 Amnat Charoen,45-54,6,2004,Chickenpox
 Si Sa Ket,45-54,11,2004,Chickenpox
 Ubon Ratchathani,45-54,3,2004,Chickenpox
 Yasothon,45-54,1,2004,Chickenpox
 South Region,45-54,77,2004,Chickenpox
-Zone 15,45-54,15,2004,Chickenpox
+Zone:15,45-54,15,2004,Chickenpox
 Chumphon,45-54,7,2004,Chickenpox
 Ranong,45-54,1,2004,Chickenpox
 Surat Thani,45-54,7,2004,Chickenpox
-Zone 16,45-54,16,2004,Chickenpox
+Zone:16,45-54,16,2004,Chickenpox
 Nakhon Si Thammarat,45-54,8,2004,Chickenpox
 Phatthalung,45-54,7,2004,Chickenpox
 Trang,45-54,1,2004,Chickenpox
-Zone 17,45-54,19,2004,Chickenpox
+Zone:17,45-54,19,2004,Chickenpox
 Krabi,45-54,6,2004,Chickenpox
 Phangnga,45-54,4,2004,Chickenpox
 Phuket,45-54,9,2004,Chickenpox
-Zone 18,45-54,14,2004,Chickenpox
+Zone:18,45-54,14,2004,Chickenpox
 Narathiwat,45-54,6,2004,Chickenpox
 Pattani,45-54,5,2004,Chickenpox
 Yala,45-54,3,2004,Chickenpox
-Zone 19,45-54,13,2004,Chickenpox
+Zone:19,45-54,13,2004,Chickenpox
 Satun,45-54,1,2004,Chickenpox
 Songkhla,45-54,12,2004,Chickenpox
 Total,55-64,263,2004,Chickenpox
 North Region,55-64,52,2004,Chickenpox
-Zone 1,55-64,21,2004,Chickenpox
+Zone:1,55-64,21,2004,Chickenpox
 Chiang Mai,55-64,6,2004,Chickenpox
 Chiang Rai,55-64,4,2004,Chickenpox
 Lampang,55-64,3,2004,Chickenpox
@@ -29032,98 +29032,98 @@ Mae Hong Son,55-64,2,2004,Chickenpox
 Nan,55-64,4,2004,Chickenpox
 Phayao,55-64,1,2004,Chickenpox
 Phrae,55-64,1,2004,Chickenpox
-Zone 2,55-64,9,2004,Chickenpox
+Zone:2,55-64,9,2004,Chickenpox
 Phetchabun,55-64,4,2004,Chickenpox
 Phitsanulok,55-64,2,2004,Chickenpox
 Sukhothai,55-64,1,2004,Chickenpox
 Tak,55-64,2,2004,Chickenpox
 Uttaradit,55-64,0,2004,Chickenpox
-Zone 3,55-64,22,2004,Chickenpox
+Zone:3,55-64,22,2004,Chickenpox
 Kamphaeng Phet,55-64,10,2004,Chickenpox
 Nakhon Sawan,55-64,6,2004,Chickenpox
 Phichit,55-64,3,2004,Chickenpox
 Uthai Thani,55-64,3,2004,Chickenpox
 Central Region,55-64,86,2004,Chickenpox
 Bangkok,55-64,13,2004,Chickenpox
-Zone 4,55-64,9,2004,Chickenpox
+Zone:4,55-64,9,2004,Chickenpox
 Ang Thong,55-64,1,2004,Chickenpox
 Nonthaburi,55-64,5,2004,Chickenpox
 P.Nakhon S.Ayutthaya,55-64,1,2004,Chickenpox
 Pathum Thani,55-64,2,2004,Chickenpox
-Zone 5,55-64,12,2004,Chickenpox
+Zone:5,55-64,12,2004,Chickenpox
 Chai Nat,55-64,0,2004,Chickenpox
 Lop Buri,55-64,8,2004,Chickenpox
 Saraburi,55-64,2,2004,Chickenpox
 Sing Buri,55-64,2,2004,Chickenpox
-Zone 6,55-64,12,2004,Chickenpox
+Zone:6,55-64,12,2004,Chickenpox
 Kanchanaburi,55-64,1,2004,Chickenpox
 Nakhon Pathom,55-64,5,2004,Chickenpox
 Ratchaburi,55-64,2,2004,Chickenpox
 Suphan Buri,55-64,4,2004,Chickenpox
-Zone 7,55-64,7,2004,Chickenpox
+Zone:7,55-64,7,2004,Chickenpox
 Phetchaburi,55-64,0,2004,Chickenpox
 Prachuap Khiri Khan,55-64,0,2004,Chickenpox
 Samut Sakhon,55-64,2,2004,Chickenpox
 Samut Songkhram,55-64,5,2004,Chickenpox
-Zone 8,55-64,17,2004,Chickenpox
+Zone:8,55-64,17,2004,Chickenpox
 Chachoengsao,55-64,5,2004,Chickenpox
 Nakhon Nayok,55-64,0,2004,Chickenpox
 Prachin Buri,55-64,5,2004,Chickenpox
 Sa Kaeo,55-64,4,2004,Chickenpox
 Samut Prakan,55-64,3,2004,Chickenpox
-Zone 9,55-64,16,2004,Chickenpox
+Zone:9,55-64,16,2004,Chickenpox
 Chanthaburi,55-64,2,2004,Chickenpox
 Chon Buri,55-64,4,2004,Chickenpox
 Rayong,55-64,4,2004,Chickenpox
 Trat,55-64,6,2004,Chickenpox
 North-Eastern Region,55-64,70,2004,Chickenpox
-Zone 10,55-64,6,2004,Chickenpox
+Zone:10,55-64,6,2004,Chickenpox
 Loei,55-64,2,2004,Chickenpox
 Nong Bua Lam Phu,55-64,2,2004,Chickenpox
 Nong Khai,55-64,1,2004,Chickenpox
 Udon Thani,55-64,1,2004,Chickenpox
-Zone 11,55-64,14,2004,Chickenpox
+Zone:11,55-64,14,2004,Chickenpox
 Kalasin,55-64,6,2004,Chickenpox
 Mukdahan,55-64,1,2004,Chickenpox
 Nakhon Phanom,55-64,5,2004,Chickenpox
 Sakon Nakhon,55-64,2,2004,Chickenpox
-Zone 12,55-64,9,2004,Chickenpox
+Zone:12,55-64,9,2004,Chickenpox
 Khon Kaen,55-64,5,2004,Chickenpox
 Maha Sarakham,55-64,1,2004,Chickenpox
 Roi Et,55-64,3,2004,Chickenpox
-Zone 13,55-64,28,2004,Chickenpox
+Zone:13,55-64,28,2004,Chickenpox
 Buri Ram,55-64,6,2004,Chickenpox
 Chaiyaphum,55-64,4,2004,Chickenpox
 Nakhon Ratchasima,55-64,14,2004,Chickenpox
 Surin,55-64,4,2004,Chickenpox
-Zone 14,55-64,13,2004,Chickenpox
+Zone:14,55-64,13,2004,Chickenpox
 Amnat Charoen,55-64,1,2004,Chickenpox
 Si Sa Ket,55-64,5,2004,Chickenpox
 Ubon Ratchathani,55-64,5,2004,Chickenpox
 Yasothon,55-64,2,2004,Chickenpox
 South Region,55-64,55,2004,Chickenpox
-Zone 15,55-64,7,2004,Chickenpox
+Zone:15,55-64,7,2004,Chickenpox
 Chumphon,55-64,2,2004,Chickenpox
 Ranong,55-64,3,2004,Chickenpox
 Surat Thani,55-64,2,2004,Chickenpox
-Zone 16,55-64,7,2004,Chickenpox
+Zone:16,55-64,7,2004,Chickenpox
 Nakhon Si Thammarat,55-64,2,2004,Chickenpox
 Phatthalung,55-64,4,2004,Chickenpox
 Trang,55-64,1,2004,Chickenpox
-Zone 17,55-64,12,2004,Chickenpox
+Zone:17,55-64,12,2004,Chickenpox
 Krabi,55-64,5,2004,Chickenpox
 Phangnga,55-64,3,2004,Chickenpox
 Phuket,55-64,4,2004,Chickenpox
-Zone 18,55-64,21,2004,Chickenpox
+Zone:18,55-64,21,2004,Chickenpox
 Narathiwat,55-64,4,2004,Chickenpox
 Pattani,55-64,14,2004,Chickenpox
 Yala,55-64,3,2004,Chickenpox
-Zone 19,55-64,8,2004,Chickenpox
+Zone:19,55-64,8,2004,Chickenpox
 Satun,55-64,0,2004,Chickenpox
 Songkhla,55-64,8,2004,Chickenpox
 Total,65+,319,2004,Chickenpox
 North Region,65+,69,2004,Chickenpox
-Zone 1,65+,39,2004,Chickenpox
+Zone:1,65+,39,2004,Chickenpox
 Chiang Mai,65+,15,2004,Chickenpox
 Chiang Rai,65+,8,2004,Chickenpox
 Lampang,65+,8,2004,Chickenpox
@@ -29132,98 +29132,98 @@ Mae Hong Son,65+,2,2004,Chickenpox
 Nan,65+,3,2004,Chickenpox
 Phayao,65+,1,2004,Chickenpox
 Phrae,65+,0,2004,Chickenpox
-Zone 2,65+,9,2004,Chickenpox
+Zone:2,65+,9,2004,Chickenpox
 Phetchabun,65+,2,2004,Chickenpox
 Phitsanulok,65+,3,2004,Chickenpox
 Sukhothai,65+,1,2004,Chickenpox
 Tak,65+,1,2004,Chickenpox
 Uttaradit,65+,2,2004,Chickenpox
-Zone 3,65+,21,2004,Chickenpox
+Zone:3,65+,21,2004,Chickenpox
 Kamphaeng Phet,65+,9,2004,Chickenpox
 Nakhon Sawan,65+,4,2004,Chickenpox
 Phichit,65+,3,2004,Chickenpox
 Uthai Thani,65+,5,2004,Chickenpox
 Central Region,65+,91,2004,Chickenpox
 Bangkok,65+,13,2004,Chickenpox
-Zone 4,65+,6,2004,Chickenpox
+Zone:4,65+,6,2004,Chickenpox
 Ang Thong,65+,0,2004,Chickenpox
 Nonthaburi,65+,2,2004,Chickenpox
 P.Nakhon S.Ayutthaya,65+,3,2004,Chickenpox
 Pathum Thani,65+,1,2004,Chickenpox
-Zone 5,65+,28,2004,Chickenpox
+Zone:5,65+,28,2004,Chickenpox
 Chai Nat,65+,2,2004,Chickenpox
 Lop Buri,65+,23,2004,Chickenpox
 Saraburi,65+,2,2004,Chickenpox
 Sing Buri,65+,1,2004,Chickenpox
-Zone 6,65+,16,2004,Chickenpox
+Zone:6,65+,16,2004,Chickenpox
 Kanchanaburi,65+,0,2004,Chickenpox
 Nakhon Pathom,65+,2,2004,Chickenpox
 Ratchaburi,65+,6,2004,Chickenpox
 Suphan Buri,65+,8,2004,Chickenpox
-Zone 7,65+,6,2004,Chickenpox
+Zone:7,65+,6,2004,Chickenpox
 Phetchaburi,65+,2,2004,Chickenpox
 Prachuap Khiri Khan,65+,0,2004,Chickenpox
 Samut Sakhon,65+,0,2004,Chickenpox
 Samut Songkhram,65+,4,2004,Chickenpox
-Zone 8,65+,12,2004,Chickenpox
+Zone:8,65+,12,2004,Chickenpox
 Chachoengsao,65+,4,2004,Chickenpox
 Nakhon Nayok,65+,1,2004,Chickenpox
 Prachin Buri,65+,1,2004,Chickenpox
 Sa Kaeo,65+,3,2004,Chickenpox
 Samut Prakan,65+,3,2004,Chickenpox
-Zone 9,65+,10,2004,Chickenpox
+Zone:9,65+,10,2004,Chickenpox
 Chanthaburi,65+,2,2004,Chickenpox
 Chon Buri,65+,1,2004,Chickenpox
 Rayong,65+,5,2004,Chickenpox
 Trat,65+,2,2004,Chickenpox
 North-Eastern Region,65+,76,2004,Chickenpox
-Zone 10,65+,7,2004,Chickenpox
+Zone:10,65+,7,2004,Chickenpox
 Loei,65+,1,2004,Chickenpox
 Nong Bua Lam Phu,65+,0,2004,Chickenpox
 Nong Khai,65+,2,2004,Chickenpox
 Udon Thani,65+,4,2004,Chickenpox
-Zone 11,65+,16,2004,Chickenpox
+Zone:11,65+,16,2004,Chickenpox
 Kalasin,65+,8,2004,Chickenpox
 Mukdahan,65+,0,2004,Chickenpox
 Nakhon Phanom,65+,5,2004,Chickenpox
 Sakon Nakhon,65+,3,2004,Chickenpox
-Zone 12,65+,8,2004,Chickenpox
+Zone:12,65+,8,2004,Chickenpox
 Khon Kaen,65+,1,2004,Chickenpox
 Maha Sarakham,65+,5,2004,Chickenpox
 Roi Et,65+,2,2004,Chickenpox
-Zone 13,65+,38,2004,Chickenpox
+Zone:13,65+,38,2004,Chickenpox
 Buri Ram,65+,6,2004,Chickenpox
 Chaiyaphum,65+,4,2004,Chickenpox
 Nakhon Ratchasima,65+,17,2004,Chickenpox
 Surin,65+,11,2004,Chickenpox
-Zone 14,65+,7,2004,Chickenpox
+Zone:14,65+,7,2004,Chickenpox
 Amnat Charoen,65+,0,2004,Chickenpox
 Si Sa Ket,65+,3,2004,Chickenpox
 Ubon Ratchathani,65+,3,2004,Chickenpox
 Yasothon,65+,1,2004,Chickenpox
 South Region,65+,83,2004,Chickenpox
-Zone 15,65+,11,2004,Chickenpox
+Zone:15,65+,11,2004,Chickenpox
 Chumphon,65+,1,2004,Chickenpox
 Ranong,65+,1,2004,Chickenpox
 Surat Thani,65+,9,2004,Chickenpox
-Zone 16,65+,14,2004,Chickenpox
+Zone:16,65+,14,2004,Chickenpox
 Nakhon Si Thammarat,65+,10,2004,Chickenpox
 Phatthalung,65+,0,2004,Chickenpox
 Trang,65+,4,2004,Chickenpox
-Zone 17,65+,6,2004,Chickenpox
+Zone:17,65+,6,2004,Chickenpox
 Krabi,65+,2,2004,Chickenpox
 Phangnga,65+,1,2004,Chickenpox
 Phuket,65+,3,2004,Chickenpox
-Zone 18,65+,28,2004,Chickenpox
+Zone:18,65+,28,2004,Chickenpox
 Narathiwat,65+,5,2004,Chickenpox
 Pattani,65+,19,2004,Chickenpox
 Yala,65+,4,2004,Chickenpox
-Zone 19,65+,24,2004,Chickenpox
+Zone:19,65+,24,2004,Chickenpox
 Satun,65+,0,2004,Chickenpox
 Songkhla,65+,24,2004,Chickenpox
 Total,Unknown,82,2004,Chickenpox
 North Region,Unknown,16,2004,Chickenpox
-Zone 1,Unknown,14,2004,Chickenpox
+Zone:1,Unknown,14,2004,Chickenpox
 Chiang Mai,Unknown,0,2004,Chickenpox
 Chiang Rai,Unknown,14,2004,Chickenpox
 Lampang,Unknown,0,2004,Chickenpox
@@ -29232,93 +29232,93 @@ Mae Hong Son,Unknown,0,2004,Chickenpox
 Nan,Unknown,0,2004,Chickenpox
 Phayao,Unknown,0,2004,Chickenpox
 Phrae,Unknown,0,2004,Chickenpox
-Zone 2,Unknown,2,2004,Chickenpox
+Zone:2,Unknown,2,2004,Chickenpox
 Phetchabun,Unknown,2,2004,Chickenpox
 Phitsanulok,Unknown,0,2004,Chickenpox
 Sukhothai,Unknown,0,2004,Chickenpox
 Tak,Unknown,0,2004,Chickenpox
 Uttaradit,Unknown,0,2004,Chickenpox
-Zone 3,Unknown,0,2004,Chickenpox
+Zone:3,Unknown,0,2004,Chickenpox
 Kamphaeng Phet,Unknown,0,2004,Chickenpox
 Nakhon Sawan,Unknown,0,2004,Chickenpox
 Phichit,Unknown,0,2004,Chickenpox
 Uthai Thani,Unknown,0,2004,Chickenpox
 Central Region,Unknown,42,2004,Chickenpox
 Bangkok,Unknown,39,2004,Chickenpox
-Zone 4,Unknown,0,2004,Chickenpox
+Zone:4,Unknown,0,2004,Chickenpox
 Ang Thong,Unknown,0,2004,Chickenpox
 Nonthaburi,Unknown,0,2004,Chickenpox
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Chickenpox
 Pathum Thani,Unknown,0,2004,Chickenpox
-Zone 5,Unknown,0,2004,Chickenpox
+Zone:5,Unknown,0,2004,Chickenpox
 Chai Nat,Unknown,0,2004,Chickenpox
 Lop Buri,Unknown,0,2004,Chickenpox
 Saraburi,Unknown,0,2004,Chickenpox
 Sing Buri,Unknown,0,2004,Chickenpox
-Zone 6,Unknown,1,2004,Chickenpox
+Zone:6,Unknown,1,2004,Chickenpox
 Kanchanaburi,Unknown,0,2004,Chickenpox
 Nakhon Pathom,Unknown,1,2004,Chickenpox
 Ratchaburi,Unknown,0,2004,Chickenpox
 Suphan Buri,Unknown,0,2004,Chickenpox
-Zone 7,Unknown,0,2004,Chickenpox
+Zone:7,Unknown,0,2004,Chickenpox
 Phetchaburi,Unknown,0,2004,Chickenpox
 Prachuap Khiri Khan,Unknown,0,2004,Chickenpox
 Samut Sakhon,Unknown,0,2004,Chickenpox
 Samut Songkhram,Unknown,0,2004,Chickenpox
-Zone 8,Unknown,2,2004,Chickenpox
+Zone:8,Unknown,2,2004,Chickenpox
 Chachoengsao,Unknown,0,2004,Chickenpox
 Nakhon Nayok,Unknown,0,2004,Chickenpox
 Prachin Buri,Unknown,0,2004,Chickenpox
 Sa Kaeo,Unknown,0,2004,Chickenpox
 Samut Prakan,Unknown,2,2004,Chickenpox
-Zone 9,Unknown,0,2004,Chickenpox
+Zone:9,Unknown,0,2004,Chickenpox
 Chanthaburi,Unknown,0,2004,Chickenpox
 Chon Buri,Unknown,0,2004,Chickenpox
 Rayong,Unknown,0,2004,Chickenpox
 Trat,Unknown,0,2004,Chickenpox
 North-Eastern Region,Unknown,22,2004,Chickenpox
-Zone 10,Unknown,8,2004,Chickenpox
+Zone:10,Unknown,8,2004,Chickenpox
 Loei,Unknown,0,2004,Chickenpox
 Nong Bua Lam Phu,Unknown,0,2004,Chickenpox
 Nong Khai,Unknown,0,2004,Chickenpox
 Udon Thani,Unknown,8,2004,Chickenpox
-Zone 11,Unknown,2,2004,Chickenpox
+Zone:11,Unknown,2,2004,Chickenpox
 Kalasin,Unknown,2,2004,Chickenpox
 Mukdahan,Unknown,0,2004,Chickenpox
 Nakhon Phanom,Unknown,0,2004,Chickenpox
 Sakon Nakhon,Unknown,0,2004,Chickenpox
-Zone 12,Unknown,0,2004,Chickenpox
+Zone:12,Unknown,0,2004,Chickenpox
 Khon Kaen,Unknown,0,2004,Chickenpox
 Maha Sarakham,Unknown,0,2004,Chickenpox
 Roi Et,Unknown,0,2004,Chickenpox
-Zone 13,Unknown,2,2004,Chickenpox
+Zone:13,Unknown,2,2004,Chickenpox
 Buri Ram,Unknown,1,2004,Chickenpox
 Chaiyaphum,Unknown,0,2004,Chickenpox
 Nakhon Ratchasima,Unknown,0,2004,Chickenpox
 Surin,Unknown,1,2004,Chickenpox
-Zone 14,Unknown,10,2004,Chickenpox
+Zone:14,Unknown,10,2004,Chickenpox
 Amnat Charoen,Unknown,0,2004,Chickenpox
 Si Sa Ket,Unknown,9,2004,Chickenpox
 Ubon Ratchathani,Unknown,1,2004,Chickenpox
 Yasothon,Unknown,0,2004,Chickenpox
 South Region,Unknown,2,2004,Chickenpox
-Zone 15,Unknown,0,2004,Chickenpox
+Zone:15,Unknown,0,2004,Chickenpox
 Chumphon,Unknown,0,2004,Chickenpox
 Ranong,Unknown,0,2004,Chickenpox
 Surat Thani,Unknown,0,2004,Chickenpox
-Zone 16,Unknown,0,2004,Chickenpox
+Zone:16,Unknown,0,2004,Chickenpox
 Nakhon Si Thammarat,Unknown,0,2004,Chickenpox
 Phatthalung,Unknown,0,2004,Chickenpox
 Trang,Unknown,0,2004,Chickenpox
-Zone 17,Unknown,0,2004,Chickenpox
+Zone:17,Unknown,0,2004,Chickenpox
 Krabi,Unknown,0,2004,Chickenpox
 Phangnga,Unknown,0,2004,Chickenpox
 Phuket,Unknown,0,2004,Chickenpox
-Zone 18,Unknown,2,2004,Chickenpox
+Zone:18,Unknown,2,2004,Chickenpox
 Narathiwat,Unknown,2,2004,Chickenpox
 Pattani,Unknown,0,2004,Chickenpox
 Yala,Unknown,0,2004,Chickenpox
-Zone 19,Unknown,0,2004,Chickenpox
+Zone:19,Unknown,0,2004,Chickenpox
 Satun,Unknown,0,2004,Chickenpox
 Songkhla,Unknown,0,2004,Chickenpox
 Total,Total,66826,2005,Chickenpox

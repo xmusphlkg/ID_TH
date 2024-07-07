@@ -11935,7 +11935,7 @@ ZONE:13,Unknown,0,2016,TBmeningitis
 Bangkok,Unknown,0,2016,TBmeningitis
 Total,Total,823,2004,TBmeningitis
 North Region,Total,221,2004,TBmeningitis
-Zone 1,Total,116,2004,TBmeningitis
+Zone:1,Total,116,2004,TBmeningitis
 Chiang Mai,Total,18,2004,TBmeningitis
 Chiang Rai,Total,33,2004,TBmeningitis
 Lampang,Total,29,2004,TBmeningitis
@@ -11944,98 +11944,98 @@ Mae Hong Son,Total,3,2004,TBmeningitis
 Nan,Total,12,2004,TBmeningitis
 Phayao,Total,11,2004,TBmeningitis
 Phrae,Total,6,2004,TBmeningitis
-Zone 2,Total,47,2004,TBmeningitis
+Zone:2,Total,47,2004,TBmeningitis
 Phetchabun,Total,13,2004,TBmeningitis
 Phitsanulok,Total,3,2004,TBmeningitis
 Sukhothai,Total,11,2004,TBmeningitis
 Tak,Total,5,2004,TBmeningitis
 Uttaradit,Total,15,2004,TBmeningitis
-Zone 3,Total,58,2004,TBmeningitis
+Zone:3,Total,58,2004,TBmeningitis
 Kamphaeng Phet,Total,19,2004,TBmeningitis
 Nakhon Sawan,Total,17,2004,TBmeningitis
 Phichit,Total,12,2004,TBmeningitis
 Uthai Thani,Total,10,2004,TBmeningitis
 Central Region,Total,181,2004,TBmeningitis
 Bangkok,Total,56,2004,TBmeningitis
-Zone 4,Total,17,2004,TBmeningitis
+Zone:4,Total,17,2004,TBmeningitis
 Ang Thong,Total,0,2004,TBmeningitis
 Nonthaburi,Total,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,Total,9,2004,TBmeningitis
 Pathum Thani,Total,8,2004,TBmeningitis
-Zone 5,Total,18,2004,TBmeningitis
+Zone:5,Total,18,2004,TBmeningitis
 Chai Nat,Total,2,2004,TBmeningitis
 Lop Buri,Total,4,2004,TBmeningitis
 Saraburi,Total,9,2004,TBmeningitis
 Sing Buri,Total,3,2004,TBmeningitis
-Zone 6,Total,20,2004,TBmeningitis
+Zone:6,Total,20,2004,TBmeningitis
 Kanchanaburi,Total,3,2004,TBmeningitis
 Nakhon Pathom,Total,6,2004,TBmeningitis
 Ratchaburi,Total,0,2004,TBmeningitis
 Suphan Buri,Total,11,2004,TBmeningitis
-Zone 7,Total,8,2004,TBmeningitis
+Zone:7,Total,8,2004,TBmeningitis
 Phetchaburi,Total,5,2004,TBmeningitis
 Prachuap Khiri Khan,Total,2,2004,TBmeningitis
 Samut Sakhon,Total,1,2004,TBmeningitis
 Samut Songkhram,Total,0,2004,TBmeningitis
-Zone 8,Total,23,2004,TBmeningitis
+Zone:8,Total,23,2004,TBmeningitis
 Chachoengsao,Total,0,2004,TBmeningitis
 Nakhon Nayok,Total,2,2004,TBmeningitis
 Prachin Buri,Total,14,2004,TBmeningitis
 Sa Kaeo,Total,7,2004,TBmeningitis
 Samut Prakan,Total,0,2004,TBmeningitis
-Zone 9,Total,39,2004,TBmeningitis
+Zone:9,Total,39,2004,TBmeningitis
 Chanthaburi,Total,16,2004,TBmeningitis
 Chon Buri,Total,14,2004,TBmeningitis
 Rayong,Total,7,2004,TBmeningitis
 Trat,Total,2,2004,TBmeningitis
 North-Eastern Region,Total,357,2004,TBmeningitis
-Zone 10,Total,26,2004,TBmeningitis
+Zone:10,Total,26,2004,TBmeningitis
 Loei,Total,9,2004,TBmeningitis
 Nong Bua Lam Phu,Total,7,2004,TBmeningitis
 Nong Khai,Total,0,2004,TBmeningitis
 Udon Thani,Total,10,2004,TBmeningitis
-Zone 11,Total,49,2004,TBmeningitis
+Zone:11,Total,49,2004,TBmeningitis
 Kalasin,Total,18,2004,TBmeningitis
 Mukdahan,Total,15,2004,TBmeningitis
 Nakhon Phanom,Total,6,2004,TBmeningitis
 Sakon Nakhon,Total,10,2004,TBmeningitis
-Zone 12,Total,41,2004,TBmeningitis
+Zone:12,Total,41,2004,TBmeningitis
 Khon Kaen,Total,27,2004,TBmeningitis
 Maha Sarakham,Total,5,2004,TBmeningitis
 Roi Et,Total,9,2004,TBmeningitis
-Zone 13,Total,169,2004,TBmeningitis
+Zone:13,Total,169,2004,TBmeningitis
 Buri Ram,Total,16,2004,TBmeningitis
 Chaiyaphum,Total,21,2004,TBmeningitis
 Nakhon Ratchasima,Total,107,2004,TBmeningitis
 Surin,Total,25,2004,TBmeningitis
-Zone 14,Total,72,2004,TBmeningitis
+Zone:14,Total,72,2004,TBmeningitis
 Amnat Charoen,Total,13,2004,TBmeningitis
 Si Sa Ket,Total,39,2004,TBmeningitis
 Ubon Ratchathani,Total,18,2004,TBmeningitis
 Yasothon,Total,2,2004,TBmeningitis
 South Region,Total,64,2004,TBmeningitis
-Zone 15,Total,26,2004,TBmeningitis
+Zone:15,Total,26,2004,TBmeningitis
 Chumphon,Total,2,2004,TBmeningitis
 Ranong,Total,1,2004,TBmeningitis
 Surat Thani,Total,23,2004,TBmeningitis
-Zone 16,Total,20,2004,TBmeningitis
+Zone:16,Total,20,2004,TBmeningitis
 Nakhon Si Thammarat,Total,10,2004,TBmeningitis
 Phatthalung,Total,4,2004,TBmeningitis
 Trang,Total,6,2004,TBmeningitis
-Zone 17,Total,4,2004,TBmeningitis
+Zone:17,Total,4,2004,TBmeningitis
 Krabi,Total,4,2004,TBmeningitis
 Phangnga,Total,0,2004,TBmeningitis
 Phuket,Total,0,2004,TBmeningitis
-Zone 18,Total,8,2004,TBmeningitis
+Zone:18,Total,8,2004,TBmeningitis
 Narathiwat,Total,3,2004,TBmeningitis
 Pattani,Total,0,2004,TBmeningitis
 Yala,Total,5,2004,TBmeningitis
-Zone 19,Total,6,2004,TBmeningitis
+Zone:19,Total,6,2004,TBmeningitis
 Satun,Total,2,2004,TBmeningitis
 Songkhla,Total,4,2004,TBmeningitis
 Total,0,1,2004,TBmeningitis
 North Region,0,0,2004,TBmeningitis
-Zone 1,0,0,2004,TBmeningitis
+Zone:1,0,0,2004,TBmeningitis
 Chiang Mai,0,0,2004,TBmeningitis
 Chiang Rai,0,0,2004,TBmeningitis
 Lampang,0,0,2004,TBmeningitis
@@ -12044,98 +12044,98 @@ Mae Hong Son,0,0,2004,TBmeningitis
 Nan,0,0,2004,TBmeningitis
 Phayao,0,0,2004,TBmeningitis
 Phrae,0,0,2004,TBmeningitis
-Zone 2,0,0,2004,TBmeningitis
+Zone:2,0,0,2004,TBmeningitis
 Phetchabun,0,0,2004,TBmeningitis
 Phitsanulok,0,0,2004,TBmeningitis
 Sukhothai,0,0,2004,TBmeningitis
 Tak,0,0,2004,TBmeningitis
 Uttaradit,0,0,2004,TBmeningitis
-Zone 3,0,0,2004,TBmeningitis
+Zone:3,0,0,2004,TBmeningitis
 Kamphaeng Phet,0,0,2004,TBmeningitis
 Nakhon Sawan,0,0,2004,TBmeningitis
 Phichit,0,0,2004,TBmeningitis
 Uthai Thani,0,0,2004,TBmeningitis
 Central Region,0,0,2004,TBmeningitis
 Bangkok,0,0,2004,TBmeningitis
-Zone 4,0,0,2004,TBmeningitis
+Zone:4,0,0,2004,TBmeningitis
 Ang Thong,0,0,2004,TBmeningitis
 Nonthaburi,0,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,0,0,2004,TBmeningitis
 Pathum Thani,0,0,2004,TBmeningitis
-Zone 5,0,0,2004,TBmeningitis
+Zone:5,0,0,2004,TBmeningitis
 Chai Nat,0,0,2004,TBmeningitis
 Lop Buri,0,0,2004,TBmeningitis
 Saraburi,0,0,2004,TBmeningitis
 Sing Buri,0,0,2004,TBmeningitis
-Zone 6,0,0,2004,TBmeningitis
+Zone:6,0,0,2004,TBmeningitis
 Kanchanaburi,0,0,2004,TBmeningitis
 Nakhon Pathom,0,0,2004,TBmeningitis
 Ratchaburi,0,0,2004,TBmeningitis
 Suphan Buri,0,0,2004,TBmeningitis
-Zone 7,0,0,2004,TBmeningitis
+Zone:7,0,0,2004,TBmeningitis
 Phetchaburi,0,0,2004,TBmeningitis
 Prachuap Khiri Khan,0,0,2004,TBmeningitis
 Samut Sakhon,0,0,2004,TBmeningitis
 Samut Songkhram,0,0,2004,TBmeningitis
-Zone 8,0,0,2004,TBmeningitis
+Zone:8,0,0,2004,TBmeningitis
 Chachoengsao,0,0,2004,TBmeningitis
 Nakhon Nayok,0,0,2004,TBmeningitis
 Prachin Buri,0,0,2004,TBmeningitis
 Sa Kaeo,0,0,2004,TBmeningitis
 Samut Prakan,0,0,2004,TBmeningitis
-Zone 9,0,0,2004,TBmeningitis
+Zone:9,0,0,2004,TBmeningitis
 Chanthaburi,0,0,2004,TBmeningitis
 Chon Buri,0,0,2004,TBmeningitis
 Rayong,0,0,2004,TBmeningitis
 Trat,0,0,2004,TBmeningitis
 North-Eastern Region,0,1,2004,TBmeningitis
-Zone 10,0,0,2004,TBmeningitis
+Zone:10,0,0,2004,TBmeningitis
 Loei,0,0,2004,TBmeningitis
 Nong Bua Lam Phu,0,0,2004,TBmeningitis
 Nong Khai,0,0,2004,TBmeningitis
 Udon Thani,0,0,2004,TBmeningitis
-Zone 11,0,1,2004,TBmeningitis
+Zone:11,0,1,2004,TBmeningitis
 Kalasin,0,1,2004,TBmeningitis
 Mukdahan,0,0,2004,TBmeningitis
 Nakhon Phanom,0,0,2004,TBmeningitis
 Sakon Nakhon,0,0,2004,TBmeningitis
-Zone 12,0,0,2004,TBmeningitis
+Zone:12,0,0,2004,TBmeningitis
 Khon Kaen,0,0,2004,TBmeningitis
 Maha Sarakham,0,0,2004,TBmeningitis
 Roi Et,0,0,2004,TBmeningitis
-Zone 13,0,0,2004,TBmeningitis
+Zone:13,0,0,2004,TBmeningitis
 Buri Ram,0,0,2004,TBmeningitis
 Chaiyaphum,0,0,2004,TBmeningitis
 Nakhon Ratchasima,0,0,2004,TBmeningitis
 Surin,0,0,2004,TBmeningitis
-Zone 14,0,0,2004,TBmeningitis
+Zone:14,0,0,2004,TBmeningitis
 Amnat Charoen,0,0,2004,TBmeningitis
 Si Sa Ket,0,0,2004,TBmeningitis
 Ubon Ratchathani,0,0,2004,TBmeningitis
 Yasothon,0,0,2004,TBmeningitis
 South Region,0,0,2004,TBmeningitis
-Zone 15,0,0,2004,TBmeningitis
+Zone:15,0,0,2004,TBmeningitis
 Chumphon,0,0,2004,TBmeningitis
 Ranong,0,0,2004,TBmeningitis
 Surat Thani,0,0,2004,TBmeningitis
-Zone 16,0,0,2004,TBmeningitis
+Zone:16,0,0,2004,TBmeningitis
 Nakhon Si Thammarat,0,0,2004,TBmeningitis
 Phatthalung,0,0,2004,TBmeningitis
 Trang,0,0,2004,TBmeningitis
-Zone 17,0,0,2004,TBmeningitis
+Zone:17,0,0,2004,TBmeningitis
 Krabi,0,0,2004,TBmeningitis
 Phangnga,0,0,2004,TBmeningitis
 Phuket,0,0,2004,TBmeningitis
-Zone 18,0,0,2004,TBmeningitis
+Zone:18,0,0,2004,TBmeningitis
 Narathiwat,0,0,2004,TBmeningitis
 Pattani,0,0,2004,TBmeningitis
 Yala,0,0,2004,TBmeningitis
-Zone 19,0,0,2004,TBmeningitis
+Zone:19,0,0,2004,TBmeningitis
 Satun,0,0,2004,TBmeningitis
 Songkhla,0,0,2004,TBmeningitis
 Total,<1,12,2004,TBmeningitis
 North Region,<1,2,2004,TBmeningitis
-Zone 1,<1,0,2004,TBmeningitis
+Zone:1,<1,0,2004,TBmeningitis
 Chiang Mai,<1,0,2004,TBmeningitis
 Chiang Rai,<1,0,2004,TBmeningitis
 Lampang,<1,0,2004,TBmeningitis
@@ -12144,98 +12144,98 @@ Mae Hong Son,<1,0,2004,TBmeningitis
 Nan,<1,0,2004,TBmeningitis
 Phayao,<1,0,2004,TBmeningitis
 Phrae,<1,0,2004,TBmeningitis
-Zone 2,<1,1,2004,TBmeningitis
+Zone:2,<1,1,2004,TBmeningitis
 Phetchabun,<1,0,2004,TBmeningitis
 Phitsanulok,<1,0,2004,TBmeningitis
 Sukhothai,<1,0,2004,TBmeningitis
 Tak,<1,1,2004,TBmeningitis
 Uttaradit,<1,0,2004,TBmeningitis
-Zone 3,<1,1,2004,TBmeningitis
+Zone:3,<1,1,2004,TBmeningitis
 Kamphaeng Phet,<1,1,2004,TBmeningitis
 Nakhon Sawan,<1,0,2004,TBmeningitis
 Phichit,<1,0,2004,TBmeningitis
 Uthai Thani,<1,0,2004,TBmeningitis
 Central Region,<1,4,2004,TBmeningitis
 Bangkok,<1,1,2004,TBmeningitis
-Zone 4,<1,1,2004,TBmeningitis
+Zone:4,<1,1,2004,TBmeningitis
 Ang Thong,<1,0,2004,TBmeningitis
 Nonthaburi,<1,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,<1,1,2004,TBmeningitis
 Pathum Thani,<1,0,2004,TBmeningitis
-Zone 5,<1,1,2004,TBmeningitis
+Zone:5,<1,1,2004,TBmeningitis
 Chai Nat,<1,0,2004,TBmeningitis
 Lop Buri,<1,0,2004,TBmeningitis
 Saraburi,<1,1,2004,TBmeningitis
 Sing Buri,<1,0,2004,TBmeningitis
-Zone 6,<1,0,2004,TBmeningitis
+Zone:6,<1,0,2004,TBmeningitis
 Kanchanaburi,<1,0,2004,TBmeningitis
 Nakhon Pathom,<1,0,2004,TBmeningitis
 Ratchaburi,<1,0,2004,TBmeningitis
 Suphan Buri,<1,0,2004,TBmeningitis
-Zone 7,<1,1,2004,TBmeningitis
+Zone:7,<1,1,2004,TBmeningitis
 Phetchaburi,<1,0,2004,TBmeningitis
 Prachuap Khiri Khan,<1,1,2004,TBmeningitis
 Samut Sakhon,<1,0,2004,TBmeningitis
 Samut Songkhram,<1,0,2004,TBmeningitis
-Zone 8,<1,0,2004,TBmeningitis
+Zone:8,<1,0,2004,TBmeningitis
 Chachoengsao,<1,0,2004,TBmeningitis
 Nakhon Nayok,<1,0,2004,TBmeningitis
 Prachin Buri,<1,0,2004,TBmeningitis
 Sa Kaeo,<1,0,2004,TBmeningitis
 Samut Prakan,<1,0,2004,TBmeningitis
-Zone 9,<1,0,2004,TBmeningitis
+Zone:9,<1,0,2004,TBmeningitis
 Chanthaburi,<1,0,2004,TBmeningitis
 Chon Buri,<1,0,2004,TBmeningitis
 Rayong,<1,0,2004,TBmeningitis
 Trat,<1,0,2004,TBmeningitis
 North-Eastern Region,<1,5,2004,TBmeningitis
-Zone 10,<1,0,2004,TBmeningitis
+Zone:10,<1,0,2004,TBmeningitis
 Loei,<1,0,2004,TBmeningitis
 Nong Bua Lam Phu,<1,0,2004,TBmeningitis
 Nong Khai,<1,0,2004,TBmeningitis
 Udon Thani,<1,0,2004,TBmeningitis
-Zone 11,<1,1,2004,TBmeningitis
+Zone:11,<1,1,2004,TBmeningitis
 Kalasin,<1,1,2004,TBmeningitis
 Mukdahan,<1,0,2004,TBmeningitis
 Nakhon Phanom,<1,0,2004,TBmeningitis
 Sakon Nakhon,<1,0,2004,TBmeningitis
-Zone 12,<1,0,2004,TBmeningitis
+Zone:12,<1,0,2004,TBmeningitis
 Khon Kaen,<1,0,2004,TBmeningitis
 Maha Sarakham,<1,0,2004,TBmeningitis
 Roi Et,<1,0,2004,TBmeningitis
-Zone 13,<1,3,2004,TBmeningitis
+Zone:13,<1,3,2004,TBmeningitis
 Buri Ram,<1,0,2004,TBmeningitis
 Chaiyaphum,<1,0,2004,TBmeningitis
 Nakhon Ratchasima,<1,3,2004,TBmeningitis
 Surin,<1,0,2004,TBmeningitis
-Zone 14,<1,1,2004,TBmeningitis
+Zone:14,<1,1,2004,TBmeningitis
 Amnat Charoen,<1,0,2004,TBmeningitis
 Si Sa Ket,<1,1,2004,TBmeningitis
 Ubon Ratchathani,<1,0,2004,TBmeningitis
 Yasothon,<1,0,2004,TBmeningitis
 South Region,<1,1,2004,TBmeningitis
-Zone 15,<1,0,2004,TBmeningitis
+Zone:15,<1,0,2004,TBmeningitis
 Chumphon,<1,0,2004,TBmeningitis
 Ranong,<1,0,2004,TBmeningitis
 Surat Thani,<1,0,2004,TBmeningitis
-Zone 16,<1,0,2004,TBmeningitis
+Zone:16,<1,0,2004,TBmeningitis
 Nakhon Si Thammarat,<1,0,2004,TBmeningitis
 Phatthalung,<1,0,2004,TBmeningitis
 Trang,<1,0,2004,TBmeningitis
-Zone 17,<1,0,2004,TBmeningitis
+Zone:17,<1,0,2004,TBmeningitis
 Krabi,<1,0,2004,TBmeningitis
 Phangnga,<1,0,2004,TBmeningitis
 Phuket,<1,0,2004,TBmeningitis
-Zone 18,<1,1,2004,TBmeningitis
+Zone:18,<1,1,2004,TBmeningitis
 Narathiwat,<1,0,2004,TBmeningitis
 Pattani,<1,0,2004,TBmeningitis
 Yala,<1,1,2004,TBmeningitis
-Zone 19,<1,0,2004,TBmeningitis
+Zone:19,<1,0,2004,TBmeningitis
 Satun,<1,0,2004,TBmeningitis
 Songkhla,<1,0,2004,TBmeningitis
 Total,1-1,3,2004,TBmeningitis
 North Region,1-1,0,2004,TBmeningitis
-Zone 1,1-1,0,2004,TBmeningitis
+Zone:1,1-1,0,2004,TBmeningitis
 Chiang Mai,1-1,0,2004,TBmeningitis
 Chiang Rai,1-1,0,2004,TBmeningitis
 Lampang,1-1,0,2004,TBmeningitis
@@ -12244,98 +12244,98 @@ Mae Hong Son,1-1,0,2004,TBmeningitis
 Nan,1-1,0,2004,TBmeningitis
 Phayao,1-1,0,2004,TBmeningitis
 Phrae,1-1,0,2004,TBmeningitis
-Zone 2,1-1,0,2004,TBmeningitis
+Zone:2,1-1,0,2004,TBmeningitis
 Phetchabun,1-1,0,2004,TBmeningitis
 Phitsanulok,1-1,0,2004,TBmeningitis
 Sukhothai,1-1,0,2004,TBmeningitis
 Tak,1-1,0,2004,TBmeningitis
 Uttaradit,1-1,0,2004,TBmeningitis
-Zone 3,1-1,0,2004,TBmeningitis
+Zone:3,1-1,0,2004,TBmeningitis
 Kamphaeng Phet,1-1,0,2004,TBmeningitis
 Nakhon Sawan,1-1,0,2004,TBmeningitis
 Phichit,1-1,0,2004,TBmeningitis
 Uthai Thani,1-1,0,2004,TBmeningitis
 Central Region,1-1,0,2004,TBmeningitis
 Bangkok,1-1,0,2004,TBmeningitis
-Zone 4,1-1,0,2004,TBmeningitis
+Zone:4,1-1,0,2004,TBmeningitis
 Ang Thong,1-1,0,2004,TBmeningitis
 Nonthaburi,1-1,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,1-1,0,2004,TBmeningitis
 Pathum Thani,1-1,0,2004,TBmeningitis
-Zone 5,1-1,0,2004,TBmeningitis
+Zone:5,1-1,0,2004,TBmeningitis
 Chai Nat,1-1,0,2004,TBmeningitis
 Lop Buri,1-1,0,2004,TBmeningitis
 Saraburi,1-1,0,2004,TBmeningitis
 Sing Buri,1-1,0,2004,TBmeningitis
-Zone 6,1-1,0,2004,TBmeningitis
+Zone:6,1-1,0,2004,TBmeningitis
 Kanchanaburi,1-1,0,2004,TBmeningitis
 Nakhon Pathom,1-1,0,2004,TBmeningitis
 Ratchaburi,1-1,0,2004,TBmeningitis
 Suphan Buri,1-1,0,2004,TBmeningitis
-Zone 7,1-1,0,2004,TBmeningitis
+Zone:7,1-1,0,2004,TBmeningitis
 Phetchaburi,1-1,0,2004,TBmeningitis
 Prachuap Khiri Khan,1-1,0,2004,TBmeningitis
 Samut Sakhon,1-1,0,2004,TBmeningitis
 Samut Songkhram,1-1,0,2004,TBmeningitis
-Zone 8,1-1,0,2004,TBmeningitis
+Zone:8,1-1,0,2004,TBmeningitis
 Chachoengsao,1-1,0,2004,TBmeningitis
 Nakhon Nayok,1-1,0,2004,TBmeningitis
 Prachin Buri,1-1,0,2004,TBmeningitis
 Sa Kaeo,1-1,0,2004,TBmeningitis
 Samut Prakan,1-1,0,2004,TBmeningitis
-Zone 9,1-1,0,2004,TBmeningitis
+Zone:9,1-1,0,2004,TBmeningitis
 Chanthaburi,1-1,0,2004,TBmeningitis
 Chon Buri,1-1,0,2004,TBmeningitis
 Rayong,1-1,0,2004,TBmeningitis
 Trat,1-1,0,2004,TBmeningitis
 North-Eastern Region,1-1,2,2004,TBmeningitis
-Zone 10,1-1,0,2004,TBmeningitis
+Zone:10,1-1,0,2004,TBmeningitis
 Loei,1-1,0,2004,TBmeningitis
 Nong Bua Lam Phu,1-1,0,2004,TBmeningitis
 Nong Khai,1-1,0,2004,TBmeningitis
 Udon Thani,1-1,0,2004,TBmeningitis
-Zone 11,1-1,1,2004,TBmeningitis
+Zone:11,1-1,1,2004,TBmeningitis
 Kalasin,1-1,1,2004,TBmeningitis
 Mukdahan,1-1,0,2004,TBmeningitis
 Nakhon Phanom,1-1,0,2004,TBmeningitis
 Sakon Nakhon,1-1,0,2004,TBmeningitis
-Zone 12,1-1,0,2004,TBmeningitis
+Zone:12,1-1,0,2004,TBmeningitis
 Khon Kaen,1-1,0,2004,TBmeningitis
 Maha Sarakham,1-1,0,2004,TBmeningitis
 Roi Et,1-1,0,2004,TBmeningitis
-Zone 13,1-1,1,2004,TBmeningitis
+Zone:13,1-1,1,2004,TBmeningitis
 Buri Ram,1-1,1,2004,TBmeningitis
 Chaiyaphum,1-1,0,2004,TBmeningitis
 Nakhon Ratchasima,1-1,0,2004,TBmeningitis
 Surin,1-1,0,2004,TBmeningitis
-Zone 14,1-1,0,2004,TBmeningitis
+Zone:14,1-1,0,2004,TBmeningitis
 Amnat Charoen,1-1,0,2004,TBmeningitis
 Si Sa Ket,1-1,0,2004,TBmeningitis
 Ubon Ratchathani,1-1,0,2004,TBmeningitis
 Yasothon,1-1,0,2004,TBmeningitis
 South Region,1-1,1,2004,TBmeningitis
-Zone 15,1-1,0,2004,TBmeningitis
+Zone:15,1-1,0,2004,TBmeningitis
 Chumphon,1-1,0,2004,TBmeningitis
 Ranong,1-1,0,2004,TBmeningitis
 Surat Thani,1-1,0,2004,TBmeningitis
-Zone 16,1-1,1,2004,TBmeningitis
+Zone:16,1-1,1,2004,TBmeningitis
 Nakhon Si Thammarat,1-1,0,2004,TBmeningitis
 Phatthalung,1-1,0,2004,TBmeningitis
 Trang,1-1,1,2004,TBmeningitis
-Zone 17,1-1,0,2004,TBmeningitis
+Zone:17,1-1,0,2004,TBmeningitis
 Krabi,1-1,0,2004,TBmeningitis
 Phangnga,1-1,0,2004,TBmeningitis
 Phuket,1-1,0,2004,TBmeningitis
-Zone 18,1-1,0,2004,TBmeningitis
+Zone:18,1-1,0,2004,TBmeningitis
 Narathiwat,1-1,0,2004,TBmeningitis
 Pattani,1-1,0,2004,TBmeningitis
 Yala,1-1,0,2004,TBmeningitis
-Zone 19,1-1,0,2004,TBmeningitis
+Zone:19,1-1,0,2004,TBmeningitis
 Satun,1-1,0,2004,TBmeningitis
 Songkhla,1-1,0,2004,TBmeningitis
 Total,2-2,9,2004,TBmeningitis
 North Region,2-2,3,2004,TBmeningitis
-Zone 1,2-2,1,2004,TBmeningitis
+Zone:1,2-2,1,2004,TBmeningitis
 Chiang Mai,2-2,0,2004,TBmeningitis
 Chiang Rai,2-2,1,2004,TBmeningitis
 Lampang,2-2,0,2004,TBmeningitis
@@ -12344,98 +12344,98 @@ Mae Hong Son,2-2,0,2004,TBmeningitis
 Nan,2-2,0,2004,TBmeningitis
 Phayao,2-2,0,2004,TBmeningitis
 Phrae,2-2,0,2004,TBmeningitis
-Zone 2,2-2,1,2004,TBmeningitis
+Zone:2,2-2,1,2004,TBmeningitis
 Phetchabun,2-2,1,2004,TBmeningitis
 Phitsanulok,2-2,0,2004,TBmeningitis
 Sukhothai,2-2,0,2004,TBmeningitis
 Tak,2-2,0,2004,TBmeningitis
 Uttaradit,2-2,0,2004,TBmeningitis
-Zone 3,2-2,1,2004,TBmeningitis
+Zone:3,2-2,1,2004,TBmeningitis
 Kamphaeng Phet,2-2,0,2004,TBmeningitis
 Nakhon Sawan,2-2,1,2004,TBmeningitis
 Phichit,2-2,0,2004,TBmeningitis
 Uthai Thani,2-2,0,2004,TBmeningitis
 Central Region,2-2,3,2004,TBmeningitis
 Bangkok,2-2,1,2004,TBmeningitis
-Zone 4,2-2,1,2004,TBmeningitis
+Zone:4,2-2,1,2004,TBmeningitis
 Ang Thong,2-2,0,2004,TBmeningitis
 Nonthaburi,2-2,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,2-2,1,2004,TBmeningitis
 Pathum Thani,2-2,0,2004,TBmeningitis
-Zone 5,2-2,0,2004,TBmeningitis
+Zone:5,2-2,0,2004,TBmeningitis
 Chai Nat,2-2,0,2004,TBmeningitis
 Lop Buri,2-2,0,2004,TBmeningitis
 Saraburi,2-2,0,2004,TBmeningitis
 Sing Buri,2-2,0,2004,TBmeningitis
-Zone 6,2-2,1,2004,TBmeningitis
+Zone:6,2-2,1,2004,TBmeningitis
 Kanchanaburi,2-2,0,2004,TBmeningitis
 Nakhon Pathom,2-2,1,2004,TBmeningitis
 Ratchaburi,2-2,0,2004,TBmeningitis
 Suphan Buri,2-2,0,2004,TBmeningitis
-Zone 7,2-2,0,2004,TBmeningitis
+Zone:7,2-2,0,2004,TBmeningitis
 Phetchaburi,2-2,0,2004,TBmeningitis
 Prachuap Khiri Khan,2-2,0,2004,TBmeningitis
 Samut Sakhon,2-2,0,2004,TBmeningitis
 Samut Songkhram,2-2,0,2004,TBmeningitis
-Zone 8,2-2,0,2004,TBmeningitis
+Zone:8,2-2,0,2004,TBmeningitis
 Chachoengsao,2-2,0,2004,TBmeningitis
 Nakhon Nayok,2-2,0,2004,TBmeningitis
 Prachin Buri,2-2,0,2004,TBmeningitis
 Sa Kaeo,2-2,0,2004,TBmeningitis
 Samut Prakan,2-2,0,2004,TBmeningitis
-Zone 9,2-2,0,2004,TBmeningitis
+Zone:9,2-2,0,2004,TBmeningitis
 Chanthaburi,2-2,0,2004,TBmeningitis
 Chon Buri,2-2,0,2004,TBmeningitis
 Rayong,2-2,0,2004,TBmeningitis
 Trat,2-2,0,2004,TBmeningitis
 North-Eastern Region,2-2,1,2004,TBmeningitis
-Zone 10,2-2,0,2004,TBmeningitis
+Zone:10,2-2,0,2004,TBmeningitis
 Loei,2-2,0,2004,TBmeningitis
 Nong Bua Lam Phu,2-2,0,2004,TBmeningitis
 Nong Khai,2-2,0,2004,TBmeningitis
 Udon Thani,2-2,0,2004,TBmeningitis
-Zone 11,2-2,1,2004,TBmeningitis
+Zone:11,2-2,1,2004,TBmeningitis
 Kalasin,2-2,0,2004,TBmeningitis
 Mukdahan,2-2,1,2004,TBmeningitis
 Nakhon Phanom,2-2,0,2004,TBmeningitis
 Sakon Nakhon,2-2,0,2004,TBmeningitis
-Zone 12,2-2,0,2004,TBmeningitis
+Zone:12,2-2,0,2004,TBmeningitis
 Khon Kaen,2-2,0,2004,TBmeningitis
 Maha Sarakham,2-2,0,2004,TBmeningitis
 Roi Et,2-2,0,2004,TBmeningitis
-Zone 13,2-2,0,2004,TBmeningitis
+Zone:13,2-2,0,2004,TBmeningitis
 Buri Ram,2-2,0,2004,TBmeningitis
 Chaiyaphum,2-2,0,2004,TBmeningitis
 Nakhon Ratchasima,2-2,0,2004,TBmeningitis
 Surin,2-2,0,2004,TBmeningitis
-Zone 14,2-2,0,2004,TBmeningitis
+Zone:14,2-2,0,2004,TBmeningitis
 Amnat Charoen,2-2,0,2004,TBmeningitis
 Si Sa Ket,2-2,0,2004,TBmeningitis
 Ubon Ratchathani,2-2,0,2004,TBmeningitis
 Yasothon,2-2,0,2004,TBmeningitis
 South Region,2-2,2,2004,TBmeningitis
-Zone 15,2-2,0,2004,TBmeningitis
+Zone:15,2-2,0,2004,TBmeningitis
 Chumphon,2-2,0,2004,TBmeningitis
 Ranong,2-2,0,2004,TBmeningitis
 Surat Thani,2-2,0,2004,TBmeningitis
-Zone 16,2-2,2,2004,TBmeningitis
+Zone:16,2-2,2,2004,TBmeningitis
 Nakhon Si Thammarat,2-2,1,2004,TBmeningitis
 Phatthalung,2-2,1,2004,TBmeningitis
 Trang,2-2,0,2004,TBmeningitis
-Zone 17,2-2,0,2004,TBmeningitis
+Zone:17,2-2,0,2004,TBmeningitis
 Krabi,2-2,0,2004,TBmeningitis
 Phangnga,2-2,0,2004,TBmeningitis
 Phuket,2-2,0,2004,TBmeningitis
-Zone 18,2-2,0,2004,TBmeningitis
+Zone:18,2-2,0,2004,TBmeningitis
 Narathiwat,2-2,0,2004,TBmeningitis
 Pattani,2-2,0,2004,TBmeningitis
 Yala,2-2,0,2004,TBmeningitis
-Zone 19,2-2,0,2004,TBmeningitis
+Zone:19,2-2,0,2004,TBmeningitis
 Satun,2-2,0,2004,TBmeningitis
 Songkhla,2-2,0,2004,TBmeningitis
 Total,3-3,1,2004,TBmeningitis
 North Region,3-3,0,2004,TBmeningitis
-Zone 1,3-3,0,2004,TBmeningitis
+Zone:1,3-3,0,2004,TBmeningitis
 Chiang Mai,3-3,0,2004,TBmeningitis
 Chiang Rai,3-3,0,2004,TBmeningitis
 Lampang,3-3,0,2004,TBmeningitis
@@ -12444,98 +12444,98 @@ Mae Hong Son,3-3,0,2004,TBmeningitis
 Nan,3-3,0,2004,TBmeningitis
 Phayao,3-3,0,2004,TBmeningitis
 Phrae,3-3,0,2004,TBmeningitis
-Zone 2,3-3,0,2004,TBmeningitis
+Zone:2,3-3,0,2004,TBmeningitis
 Phetchabun,3-3,0,2004,TBmeningitis
 Phitsanulok,3-3,0,2004,TBmeningitis
 Sukhothai,3-3,0,2004,TBmeningitis
 Tak,3-3,0,2004,TBmeningitis
 Uttaradit,3-3,0,2004,TBmeningitis
-Zone 3,3-3,0,2004,TBmeningitis
+Zone:3,3-3,0,2004,TBmeningitis
 Kamphaeng Phet,3-3,0,2004,TBmeningitis
 Nakhon Sawan,3-3,0,2004,TBmeningitis
 Phichit,3-3,0,2004,TBmeningitis
 Uthai Thani,3-3,0,2004,TBmeningitis
 Central Region,3-3,0,2004,TBmeningitis
 Bangkok,3-3,0,2004,TBmeningitis
-Zone 4,3-3,0,2004,TBmeningitis
+Zone:4,3-3,0,2004,TBmeningitis
 Ang Thong,3-3,0,2004,TBmeningitis
 Nonthaburi,3-3,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,3-3,0,2004,TBmeningitis
 Pathum Thani,3-3,0,2004,TBmeningitis
-Zone 5,3-3,0,2004,TBmeningitis
+Zone:5,3-3,0,2004,TBmeningitis
 Chai Nat,3-3,0,2004,TBmeningitis
 Lop Buri,3-3,0,2004,TBmeningitis
 Saraburi,3-3,0,2004,TBmeningitis
 Sing Buri,3-3,0,2004,TBmeningitis
-Zone 6,3-3,0,2004,TBmeningitis
+Zone:6,3-3,0,2004,TBmeningitis
 Kanchanaburi,3-3,0,2004,TBmeningitis
 Nakhon Pathom,3-3,0,2004,TBmeningitis
 Ratchaburi,3-3,0,2004,TBmeningitis
 Suphan Buri,3-3,0,2004,TBmeningitis
-Zone 7,3-3,0,2004,TBmeningitis
+Zone:7,3-3,0,2004,TBmeningitis
 Phetchaburi,3-3,0,2004,TBmeningitis
 Prachuap Khiri Khan,3-3,0,2004,TBmeningitis
 Samut Sakhon,3-3,0,2004,TBmeningitis
 Samut Songkhram,3-3,0,2004,TBmeningitis
-Zone 8,3-3,0,2004,TBmeningitis
+Zone:8,3-3,0,2004,TBmeningitis
 Chachoengsao,3-3,0,2004,TBmeningitis
 Nakhon Nayok,3-3,0,2004,TBmeningitis
 Prachin Buri,3-3,0,2004,TBmeningitis
 Sa Kaeo,3-3,0,2004,TBmeningitis
 Samut Prakan,3-3,0,2004,TBmeningitis
-Zone 9,3-3,0,2004,TBmeningitis
+Zone:9,3-3,0,2004,TBmeningitis
 Chanthaburi,3-3,0,2004,TBmeningitis
 Chon Buri,3-3,0,2004,TBmeningitis
 Rayong,3-3,0,2004,TBmeningitis
 Trat,3-3,0,2004,TBmeningitis
 North-Eastern Region,3-3,1,2004,TBmeningitis
-Zone 10,3-3,0,2004,TBmeningitis
+Zone:10,3-3,0,2004,TBmeningitis
 Loei,3-3,0,2004,TBmeningitis
 Nong Bua Lam Phu,3-3,0,2004,TBmeningitis
 Nong Khai,3-3,0,2004,TBmeningitis
 Udon Thani,3-3,0,2004,TBmeningitis
-Zone 11,3-3,0,2004,TBmeningitis
+Zone:11,3-3,0,2004,TBmeningitis
 Kalasin,3-3,0,2004,TBmeningitis
 Mukdahan,3-3,0,2004,TBmeningitis
 Nakhon Phanom,3-3,0,2004,TBmeningitis
 Sakon Nakhon,3-3,0,2004,TBmeningitis
-Zone 12,3-3,0,2004,TBmeningitis
+Zone:12,3-3,0,2004,TBmeningitis
 Khon Kaen,3-3,0,2004,TBmeningitis
 Maha Sarakham,3-3,0,2004,TBmeningitis
 Roi Et,3-3,0,2004,TBmeningitis
-Zone 13,3-3,1,2004,TBmeningitis
+Zone:13,3-3,1,2004,TBmeningitis
 Buri Ram,3-3,0,2004,TBmeningitis
 Chaiyaphum,3-3,0,2004,TBmeningitis
 Nakhon Ratchasima,3-3,1,2004,TBmeningitis
 Surin,3-3,0,2004,TBmeningitis
-Zone 14,3-3,0,2004,TBmeningitis
+Zone:14,3-3,0,2004,TBmeningitis
 Amnat Charoen,3-3,0,2004,TBmeningitis
 Si Sa Ket,3-3,0,2004,TBmeningitis
 Ubon Ratchathani,3-3,0,2004,TBmeningitis
 Yasothon,3-3,0,2004,TBmeningitis
 South Region,3-3,0,2004,TBmeningitis
-Zone 15,3-3,0,2004,TBmeningitis
+Zone:15,3-3,0,2004,TBmeningitis
 Chumphon,3-3,0,2004,TBmeningitis
 Ranong,3-3,0,2004,TBmeningitis
 Surat Thani,3-3,0,2004,TBmeningitis
-Zone 16,3-3,0,2004,TBmeningitis
+Zone:16,3-3,0,2004,TBmeningitis
 Nakhon Si Thammarat,3-3,0,2004,TBmeningitis
 Phatthalung,3-3,0,2004,TBmeningitis
 Trang,3-3,0,2004,TBmeningitis
-Zone 17,3-3,0,2004,TBmeningitis
+Zone:17,3-3,0,2004,TBmeningitis
 Krabi,3-3,0,2004,TBmeningitis
 Phangnga,3-3,0,2004,TBmeningitis
 Phuket,3-3,0,2004,TBmeningitis
-Zone 18,3-3,0,2004,TBmeningitis
+Zone:18,3-3,0,2004,TBmeningitis
 Narathiwat,3-3,0,2004,TBmeningitis
 Pattani,3-3,0,2004,TBmeningitis
 Yala,3-3,0,2004,TBmeningitis
-Zone 19,3-3,0,2004,TBmeningitis
+Zone:19,3-3,0,2004,TBmeningitis
 Satun,3-3,0,2004,TBmeningitis
 Songkhla,3-3,0,2004,TBmeningitis
 Total,4-4,7,2004,TBmeningitis
 North Region,4-4,3,2004,TBmeningitis
-Zone 1,4-4,2,2004,TBmeningitis
+Zone:1,4-4,2,2004,TBmeningitis
 Chiang Mai,4-4,0,2004,TBmeningitis
 Chiang Rai,4-4,2,2004,TBmeningitis
 Lampang,4-4,0,2004,TBmeningitis
@@ -12544,98 +12544,98 @@ Mae Hong Son,4-4,0,2004,TBmeningitis
 Nan,4-4,0,2004,TBmeningitis
 Phayao,4-4,0,2004,TBmeningitis
 Phrae,4-4,0,2004,TBmeningitis
-Zone 2,4-4,0,2004,TBmeningitis
+Zone:2,4-4,0,2004,TBmeningitis
 Phetchabun,4-4,0,2004,TBmeningitis
 Phitsanulok,4-4,0,2004,TBmeningitis
 Sukhothai,4-4,0,2004,TBmeningitis
 Tak,4-4,0,2004,TBmeningitis
 Uttaradit,4-4,0,2004,TBmeningitis
-Zone 3,4-4,1,2004,TBmeningitis
+Zone:3,4-4,1,2004,TBmeningitis
 Kamphaeng Phet,4-4,1,2004,TBmeningitis
 Nakhon Sawan,4-4,0,2004,TBmeningitis
 Phichit,4-4,0,2004,TBmeningitis
 Uthai Thani,4-4,0,2004,TBmeningitis
 Central Region,4-4,1,2004,TBmeningitis
 Bangkok,4-4,0,2004,TBmeningitis
-Zone 4,4-4,0,2004,TBmeningitis
+Zone:4,4-4,0,2004,TBmeningitis
 Ang Thong,4-4,0,2004,TBmeningitis
 Nonthaburi,4-4,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,4-4,0,2004,TBmeningitis
 Pathum Thani,4-4,0,2004,TBmeningitis
-Zone 5,4-4,1,2004,TBmeningitis
+Zone:5,4-4,1,2004,TBmeningitis
 Chai Nat,4-4,0,2004,TBmeningitis
 Lop Buri,4-4,0,2004,TBmeningitis
 Saraburi,4-4,1,2004,TBmeningitis
 Sing Buri,4-4,0,2004,TBmeningitis
-Zone 6,4-4,0,2004,TBmeningitis
+Zone:6,4-4,0,2004,TBmeningitis
 Kanchanaburi,4-4,0,2004,TBmeningitis
 Nakhon Pathom,4-4,0,2004,TBmeningitis
 Ratchaburi,4-4,0,2004,TBmeningitis
 Suphan Buri,4-4,0,2004,TBmeningitis
-Zone 7,4-4,0,2004,TBmeningitis
+Zone:7,4-4,0,2004,TBmeningitis
 Phetchaburi,4-4,0,2004,TBmeningitis
 Prachuap Khiri Khan,4-4,0,2004,TBmeningitis
 Samut Sakhon,4-4,0,2004,TBmeningitis
 Samut Songkhram,4-4,0,2004,TBmeningitis
-Zone 8,4-4,0,2004,TBmeningitis
+Zone:8,4-4,0,2004,TBmeningitis
 Chachoengsao,4-4,0,2004,TBmeningitis
 Nakhon Nayok,4-4,0,2004,TBmeningitis
 Prachin Buri,4-4,0,2004,TBmeningitis
 Sa Kaeo,4-4,0,2004,TBmeningitis
 Samut Prakan,4-4,0,2004,TBmeningitis
-Zone 9,4-4,0,2004,TBmeningitis
+Zone:9,4-4,0,2004,TBmeningitis
 Chanthaburi,4-4,0,2004,TBmeningitis
 Chon Buri,4-4,0,2004,TBmeningitis
 Rayong,4-4,0,2004,TBmeningitis
 Trat,4-4,0,2004,TBmeningitis
 North-Eastern Region,4-4,3,2004,TBmeningitis
-Zone 10,4-4,0,2004,TBmeningitis
+Zone:10,4-4,0,2004,TBmeningitis
 Loei,4-4,0,2004,TBmeningitis
 Nong Bua Lam Phu,4-4,0,2004,TBmeningitis
 Nong Khai,4-4,0,2004,TBmeningitis
 Udon Thani,4-4,0,2004,TBmeningitis
-Zone 11,4-4,1,2004,TBmeningitis
+Zone:11,4-4,1,2004,TBmeningitis
 Kalasin,4-4,0,2004,TBmeningitis
 Mukdahan,4-4,1,2004,TBmeningitis
 Nakhon Phanom,4-4,0,2004,TBmeningitis
 Sakon Nakhon,4-4,0,2004,TBmeningitis
-Zone 12,4-4,0,2004,TBmeningitis
+Zone:12,4-4,0,2004,TBmeningitis
 Khon Kaen,4-4,0,2004,TBmeningitis
 Maha Sarakham,4-4,0,2004,TBmeningitis
 Roi Et,4-4,0,2004,TBmeningitis
-Zone 13,4-4,2,2004,TBmeningitis
+Zone:13,4-4,2,2004,TBmeningitis
 Buri Ram,4-4,0,2004,TBmeningitis
 Chaiyaphum,4-4,0,2004,TBmeningitis
 Nakhon Ratchasima,4-4,1,2004,TBmeningitis
 Surin,4-4,1,2004,TBmeningitis
-Zone 14,4-4,0,2004,TBmeningitis
+Zone:14,4-4,0,2004,TBmeningitis
 Amnat Charoen,4-4,0,2004,TBmeningitis
 Si Sa Ket,4-4,0,2004,TBmeningitis
 Ubon Ratchathani,4-4,0,2004,TBmeningitis
 Yasothon,4-4,0,2004,TBmeningitis
 South Region,4-4,0,2004,TBmeningitis
-Zone 15,4-4,0,2004,TBmeningitis
+Zone:15,4-4,0,2004,TBmeningitis
 Chumphon,4-4,0,2004,TBmeningitis
 Ranong,4-4,0,2004,TBmeningitis
 Surat Thani,4-4,0,2004,TBmeningitis
-Zone 16,4-4,0,2004,TBmeningitis
+Zone:16,4-4,0,2004,TBmeningitis
 Nakhon Si Thammarat,4-4,0,2004,TBmeningitis
 Phatthalung,4-4,0,2004,TBmeningitis
 Trang,4-4,0,2004,TBmeningitis
-Zone 17,4-4,0,2004,TBmeningitis
+Zone:17,4-4,0,2004,TBmeningitis
 Krabi,4-4,0,2004,TBmeningitis
 Phangnga,4-4,0,2004,TBmeningitis
 Phuket,4-4,0,2004,TBmeningitis
-Zone 18,4-4,0,2004,TBmeningitis
+Zone:18,4-4,0,2004,TBmeningitis
 Narathiwat,4-4,0,2004,TBmeningitis
 Pattani,4-4,0,2004,TBmeningitis
 Yala,4-4,0,2004,TBmeningitis
-Zone 19,4-4,0,2004,TBmeningitis
+Zone:19,4-4,0,2004,TBmeningitis
 Satun,4-4,0,2004,TBmeningitis
 Songkhla,4-4,0,2004,TBmeningitis
 Total,5-5,10,2004,TBmeningitis
 North Region,5-5,1,2004,TBmeningitis
-Zone 1,5-5,1,2004,TBmeningitis
+Zone:1,5-5,1,2004,TBmeningitis
 Chiang Mai,5-5,0,2004,TBmeningitis
 Chiang Rai,5-5,1,2004,TBmeningitis
 Lampang,5-5,0,2004,TBmeningitis
@@ -12644,98 +12644,98 @@ Mae Hong Son,5-5,0,2004,TBmeningitis
 Nan,5-5,0,2004,TBmeningitis
 Phayao,5-5,0,2004,TBmeningitis
 Phrae,5-5,0,2004,TBmeningitis
-Zone 2,5-5,0,2004,TBmeningitis
+Zone:2,5-5,0,2004,TBmeningitis
 Phetchabun,5-5,0,2004,TBmeningitis
 Phitsanulok,5-5,0,2004,TBmeningitis
 Sukhothai,5-5,0,2004,TBmeningitis
 Tak,5-5,0,2004,TBmeningitis
 Uttaradit,5-5,0,2004,TBmeningitis
-Zone 3,5-5,0,2004,TBmeningitis
+Zone:3,5-5,0,2004,TBmeningitis
 Kamphaeng Phet,5-5,0,2004,TBmeningitis
 Nakhon Sawan,5-5,0,2004,TBmeningitis
 Phichit,5-5,0,2004,TBmeningitis
 Uthai Thani,5-5,0,2004,TBmeningitis
 Central Region,5-5,5,2004,TBmeningitis
 Bangkok,5-5,3,2004,TBmeningitis
-Zone 4,5-5,1,2004,TBmeningitis
+Zone:4,5-5,1,2004,TBmeningitis
 Ang Thong,5-5,0,2004,TBmeningitis
 Nonthaburi,5-5,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,5-5,1,2004,TBmeningitis
 Pathum Thani,5-5,0,2004,TBmeningitis
-Zone 5,5-5,1,2004,TBmeningitis
+Zone:5,5-5,1,2004,TBmeningitis
 Chai Nat,5-5,0,2004,TBmeningitis
 Lop Buri,5-5,0,2004,TBmeningitis
 Saraburi,5-5,1,2004,TBmeningitis
 Sing Buri,5-5,0,2004,TBmeningitis
-Zone 6,5-5,0,2004,TBmeningitis
+Zone:6,5-5,0,2004,TBmeningitis
 Kanchanaburi,5-5,0,2004,TBmeningitis
 Nakhon Pathom,5-5,0,2004,TBmeningitis
 Ratchaburi,5-5,0,2004,TBmeningitis
 Suphan Buri,5-5,0,2004,TBmeningitis
-Zone 7,5-5,0,2004,TBmeningitis
+Zone:7,5-5,0,2004,TBmeningitis
 Phetchaburi,5-5,0,2004,TBmeningitis
 Prachuap Khiri Khan,5-5,0,2004,TBmeningitis
 Samut Sakhon,5-5,0,2004,TBmeningitis
 Samut Songkhram,5-5,0,2004,TBmeningitis
-Zone 8,5-5,0,2004,TBmeningitis
+Zone:8,5-5,0,2004,TBmeningitis
 Chachoengsao,5-5,0,2004,TBmeningitis
 Nakhon Nayok,5-5,0,2004,TBmeningitis
 Prachin Buri,5-5,0,2004,TBmeningitis
 Sa Kaeo,5-5,0,2004,TBmeningitis
 Samut Prakan,5-5,0,2004,TBmeningitis
-Zone 9,5-5,0,2004,TBmeningitis
+Zone:9,5-5,0,2004,TBmeningitis
 Chanthaburi,5-5,0,2004,TBmeningitis
 Chon Buri,5-5,0,2004,TBmeningitis
 Rayong,5-5,0,2004,TBmeningitis
 Trat,5-5,0,2004,TBmeningitis
 North-Eastern Region,5-5,3,2004,TBmeningitis
-Zone 10,5-5,0,2004,TBmeningitis
+Zone:10,5-5,0,2004,TBmeningitis
 Loei,5-5,0,2004,TBmeningitis
 Nong Bua Lam Phu,5-5,0,2004,TBmeningitis
 Nong Khai,5-5,0,2004,TBmeningitis
 Udon Thani,5-5,0,2004,TBmeningitis
-Zone 11,5-5,0,2004,TBmeningitis
+Zone:11,5-5,0,2004,TBmeningitis
 Kalasin,5-5,0,2004,TBmeningitis
 Mukdahan,5-5,0,2004,TBmeningitis
 Nakhon Phanom,5-5,0,2004,TBmeningitis
 Sakon Nakhon,5-5,0,2004,TBmeningitis
-Zone 12,5-5,0,2004,TBmeningitis
+Zone:12,5-5,0,2004,TBmeningitis
 Khon Kaen,5-5,0,2004,TBmeningitis
 Maha Sarakham,5-5,0,2004,TBmeningitis
 Roi Et,5-5,0,2004,TBmeningitis
-Zone 13,5-5,1,2004,TBmeningitis
+Zone:13,5-5,1,2004,TBmeningitis
 Buri Ram,5-5,0,2004,TBmeningitis
 Chaiyaphum,5-5,0,2004,TBmeningitis
 Nakhon Ratchasima,5-5,1,2004,TBmeningitis
 Surin,5-5,0,2004,TBmeningitis
-Zone 14,5-5,2,2004,TBmeningitis
+Zone:14,5-5,2,2004,TBmeningitis
 Amnat Charoen,5-5,0,2004,TBmeningitis
 Si Sa Ket,5-5,1,2004,TBmeningitis
 Ubon Ratchathani,5-5,1,2004,TBmeningitis
 Yasothon,5-5,0,2004,TBmeningitis
 South Region,5-5,1,2004,TBmeningitis
-Zone 15,5-5,0,2004,TBmeningitis
+Zone:15,5-5,0,2004,TBmeningitis
 Chumphon,5-5,0,2004,TBmeningitis
 Ranong,5-5,0,2004,TBmeningitis
 Surat Thani,5-5,0,2004,TBmeningitis
-Zone 16,5-5,1,2004,TBmeningitis
+Zone:16,5-5,1,2004,TBmeningitis
 Nakhon Si Thammarat,5-5,0,2004,TBmeningitis
 Phatthalung,5-5,1,2004,TBmeningitis
 Trang,5-5,0,2004,TBmeningitis
-Zone 17,5-5,0,2004,TBmeningitis
+Zone:17,5-5,0,2004,TBmeningitis
 Krabi,5-5,0,2004,TBmeningitis
 Phangnga,5-5,0,2004,TBmeningitis
 Phuket,5-5,0,2004,TBmeningitis
-Zone 18,5-5,0,2004,TBmeningitis
+Zone:18,5-5,0,2004,TBmeningitis
 Narathiwat,5-5,0,2004,TBmeningitis
 Pattani,5-5,0,2004,TBmeningitis
 Yala,5-5,0,2004,TBmeningitis
-Zone 19,5-5,0,2004,TBmeningitis
+Zone:19,5-5,0,2004,TBmeningitis
 Satun,5-5,0,2004,TBmeningitis
 Songkhla,5-5,0,2004,TBmeningitis
 Total,6-6,5,2004,TBmeningitis
 North Region,6-6,0,2004,TBmeningitis
-Zone 1,6-6,0,2004,TBmeningitis
+Zone:1,6-6,0,2004,TBmeningitis
 Chiang Mai,6-6,0,2004,TBmeningitis
 Chiang Rai,6-6,0,2004,TBmeningitis
 Lampang,6-6,0,2004,TBmeningitis
@@ -12744,98 +12744,98 @@ Mae Hong Son,6-6,0,2004,TBmeningitis
 Nan,6-6,0,2004,TBmeningitis
 Phayao,6-6,0,2004,TBmeningitis
 Phrae,6-6,0,2004,TBmeningitis
-Zone 2,6-6,0,2004,TBmeningitis
+Zone:2,6-6,0,2004,TBmeningitis
 Phetchabun,6-6,0,2004,TBmeningitis
 Phitsanulok,6-6,0,2004,TBmeningitis
 Sukhothai,6-6,0,2004,TBmeningitis
 Tak,6-6,0,2004,TBmeningitis
 Uttaradit,6-6,0,2004,TBmeningitis
-Zone 3,6-6,0,2004,TBmeningitis
+Zone:3,6-6,0,2004,TBmeningitis
 Kamphaeng Phet,6-6,0,2004,TBmeningitis
 Nakhon Sawan,6-6,0,2004,TBmeningitis
 Phichit,6-6,0,2004,TBmeningitis
 Uthai Thani,6-6,0,2004,TBmeningitis
 Central Region,6-6,5,2004,TBmeningitis
 Bangkok,6-6,4,2004,TBmeningitis
-Zone 4,6-6,1,2004,TBmeningitis
+Zone:4,6-6,1,2004,TBmeningitis
 Ang Thong,6-6,0,2004,TBmeningitis
 Nonthaburi,6-6,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,6-6,1,2004,TBmeningitis
 Pathum Thani,6-6,0,2004,TBmeningitis
-Zone 5,6-6,0,2004,TBmeningitis
+Zone:5,6-6,0,2004,TBmeningitis
 Chai Nat,6-6,0,2004,TBmeningitis
 Lop Buri,6-6,0,2004,TBmeningitis
 Saraburi,6-6,0,2004,TBmeningitis
 Sing Buri,6-6,0,2004,TBmeningitis
-Zone 6,6-6,0,2004,TBmeningitis
+Zone:6,6-6,0,2004,TBmeningitis
 Kanchanaburi,6-6,0,2004,TBmeningitis
 Nakhon Pathom,6-6,0,2004,TBmeningitis
 Ratchaburi,6-6,0,2004,TBmeningitis
 Suphan Buri,6-6,0,2004,TBmeningitis
-Zone 7,6-6,0,2004,TBmeningitis
+Zone:7,6-6,0,2004,TBmeningitis
 Phetchaburi,6-6,0,2004,TBmeningitis
 Prachuap Khiri Khan,6-6,0,2004,TBmeningitis
 Samut Sakhon,6-6,0,2004,TBmeningitis
 Samut Songkhram,6-6,0,2004,TBmeningitis
-Zone 8,6-6,0,2004,TBmeningitis
+Zone:8,6-6,0,2004,TBmeningitis
 Chachoengsao,6-6,0,2004,TBmeningitis
 Nakhon Nayok,6-6,0,2004,TBmeningitis
 Prachin Buri,6-6,0,2004,TBmeningitis
 Sa Kaeo,6-6,0,2004,TBmeningitis
 Samut Prakan,6-6,0,2004,TBmeningitis
-Zone 9,6-6,0,2004,TBmeningitis
+Zone:9,6-6,0,2004,TBmeningitis
 Chanthaburi,6-6,0,2004,TBmeningitis
 Chon Buri,6-6,0,2004,TBmeningitis
 Rayong,6-6,0,2004,TBmeningitis
 Trat,6-6,0,2004,TBmeningitis
 North-Eastern Region,6-6,0,2004,TBmeningitis
-Zone 10,6-6,0,2004,TBmeningitis
+Zone:10,6-6,0,2004,TBmeningitis
 Loei,6-6,0,2004,TBmeningitis
 Nong Bua Lam Phu,6-6,0,2004,TBmeningitis
 Nong Khai,6-6,0,2004,TBmeningitis
 Udon Thani,6-6,0,2004,TBmeningitis
-Zone 11,6-6,0,2004,TBmeningitis
+Zone:11,6-6,0,2004,TBmeningitis
 Kalasin,6-6,0,2004,TBmeningitis
 Mukdahan,6-6,0,2004,TBmeningitis
 Nakhon Phanom,6-6,0,2004,TBmeningitis
 Sakon Nakhon,6-6,0,2004,TBmeningitis
-Zone 12,6-6,0,2004,TBmeningitis
+Zone:12,6-6,0,2004,TBmeningitis
 Khon Kaen,6-6,0,2004,TBmeningitis
 Maha Sarakham,6-6,0,2004,TBmeningitis
 Roi Et,6-6,0,2004,TBmeningitis
-Zone 13,6-6,0,2004,TBmeningitis
+Zone:13,6-6,0,2004,TBmeningitis
 Buri Ram,6-6,0,2004,TBmeningitis
 Chaiyaphum,6-6,0,2004,TBmeningitis
 Nakhon Ratchasima,6-6,0,2004,TBmeningitis
 Surin,6-6,0,2004,TBmeningitis
-Zone 14,6-6,0,2004,TBmeningitis
+Zone:14,6-6,0,2004,TBmeningitis
 Amnat Charoen,6-6,0,2004,TBmeningitis
 Si Sa Ket,6-6,0,2004,TBmeningitis
 Ubon Ratchathani,6-6,0,2004,TBmeningitis
 Yasothon,6-6,0,2004,TBmeningitis
 South Region,6-6,0,2004,TBmeningitis
-Zone 15,6-6,0,2004,TBmeningitis
+Zone:15,6-6,0,2004,TBmeningitis
 Chumphon,6-6,0,2004,TBmeningitis
 Ranong,6-6,0,2004,TBmeningitis
 Surat Thani,6-6,0,2004,TBmeningitis
-Zone 16,6-6,0,2004,TBmeningitis
+Zone:16,6-6,0,2004,TBmeningitis
 Nakhon Si Thammarat,6-6,0,2004,TBmeningitis
 Phatthalung,6-6,0,2004,TBmeningitis
 Trang,6-6,0,2004,TBmeningitis
-Zone 17,6-6,0,2004,TBmeningitis
+Zone:17,6-6,0,2004,TBmeningitis
 Krabi,6-6,0,2004,TBmeningitis
 Phangnga,6-6,0,2004,TBmeningitis
 Phuket,6-6,0,2004,TBmeningitis
-Zone 18,6-6,0,2004,TBmeningitis
+Zone:18,6-6,0,2004,TBmeningitis
 Narathiwat,6-6,0,2004,TBmeningitis
 Pattani,6-6,0,2004,TBmeningitis
 Yala,6-6,0,2004,TBmeningitis
-Zone 19,6-6,0,2004,TBmeningitis
+Zone:19,6-6,0,2004,TBmeningitis
 Satun,6-6,0,2004,TBmeningitis
 Songkhla,6-6,0,2004,TBmeningitis
 Total,7-9,9,2004,TBmeningitis
 North Region,7-9,1,2004,TBmeningitis
-Zone 1,7-9,0,2004,TBmeningitis
+Zone:1,7-9,0,2004,TBmeningitis
 Chiang Mai,7-9,0,2004,TBmeningitis
 Chiang Rai,7-9,0,2004,TBmeningitis
 Lampang,7-9,0,2004,TBmeningitis
@@ -12844,98 +12844,98 @@ Mae Hong Son,7-9,0,2004,TBmeningitis
 Nan,7-9,0,2004,TBmeningitis
 Phayao,7-9,0,2004,TBmeningitis
 Phrae,7-9,0,2004,TBmeningitis
-Zone 2,7-9,1,2004,TBmeningitis
+Zone:2,7-9,1,2004,TBmeningitis
 Phetchabun,7-9,0,2004,TBmeningitis
 Phitsanulok,7-9,0,2004,TBmeningitis
 Sukhothai,7-9,0,2004,TBmeningitis
 Tak,7-9,0,2004,TBmeningitis
 Uttaradit,7-9,1,2004,TBmeningitis
-Zone 3,7-9,0,2004,TBmeningitis
+Zone:3,7-9,0,2004,TBmeningitis
 Kamphaeng Phet,7-9,0,2004,TBmeningitis
 Nakhon Sawan,7-9,0,2004,TBmeningitis
 Phichit,7-9,0,2004,TBmeningitis
 Uthai Thani,7-9,0,2004,TBmeningitis
 Central Region,7-9,1,2004,TBmeningitis
 Bangkok,7-9,0,2004,TBmeningitis
-Zone 4,7-9,0,2004,TBmeningitis
+Zone:4,7-9,0,2004,TBmeningitis
 Ang Thong,7-9,0,2004,TBmeningitis
 Nonthaburi,7-9,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,7-9,0,2004,TBmeningitis
 Pathum Thani,7-9,0,2004,TBmeningitis
-Zone 5,7-9,0,2004,TBmeningitis
+Zone:5,7-9,0,2004,TBmeningitis
 Chai Nat,7-9,0,2004,TBmeningitis
 Lop Buri,7-9,0,2004,TBmeningitis
 Saraburi,7-9,0,2004,TBmeningitis
 Sing Buri,7-9,0,2004,TBmeningitis
-Zone 6,7-9,1,2004,TBmeningitis
+Zone:6,7-9,1,2004,TBmeningitis
 Kanchanaburi,7-9,1,2004,TBmeningitis
 Nakhon Pathom,7-9,0,2004,TBmeningitis
 Ratchaburi,7-9,0,2004,TBmeningitis
 Suphan Buri,7-9,0,2004,TBmeningitis
-Zone 7,7-9,0,2004,TBmeningitis
+Zone:7,7-9,0,2004,TBmeningitis
 Phetchaburi,7-9,0,2004,TBmeningitis
 Prachuap Khiri Khan,7-9,0,2004,TBmeningitis
 Samut Sakhon,7-9,0,2004,TBmeningitis
 Samut Songkhram,7-9,0,2004,TBmeningitis
-Zone 8,7-9,0,2004,TBmeningitis
+Zone:8,7-9,0,2004,TBmeningitis
 Chachoengsao,7-9,0,2004,TBmeningitis
 Nakhon Nayok,7-9,0,2004,TBmeningitis
 Prachin Buri,7-9,0,2004,TBmeningitis
 Sa Kaeo,7-9,0,2004,TBmeningitis
 Samut Prakan,7-9,0,2004,TBmeningitis
-Zone 9,7-9,0,2004,TBmeningitis
+Zone:9,7-9,0,2004,TBmeningitis
 Chanthaburi,7-9,0,2004,TBmeningitis
 Chon Buri,7-9,0,2004,TBmeningitis
 Rayong,7-9,0,2004,TBmeningitis
 Trat,7-9,0,2004,TBmeningitis
 North-Eastern Region,7-9,7,2004,TBmeningitis
-Zone 10,7-9,0,2004,TBmeningitis
+Zone:10,7-9,0,2004,TBmeningitis
 Loei,7-9,0,2004,TBmeningitis
 Nong Bua Lam Phu,7-9,0,2004,TBmeningitis
 Nong Khai,7-9,0,2004,TBmeningitis
 Udon Thani,7-9,0,2004,TBmeningitis
-Zone 11,7-9,3,2004,TBmeningitis
+Zone:11,7-9,3,2004,TBmeningitis
 Kalasin,7-9,1,2004,TBmeningitis
 Mukdahan,7-9,1,2004,TBmeningitis
 Nakhon Phanom,7-9,1,2004,TBmeningitis
 Sakon Nakhon,7-9,0,2004,TBmeningitis
-Zone 12,7-9,0,2004,TBmeningitis
+Zone:12,7-9,0,2004,TBmeningitis
 Khon Kaen,7-9,0,2004,TBmeningitis
 Maha Sarakham,7-9,0,2004,TBmeningitis
 Roi Et,7-9,0,2004,TBmeningitis
-Zone 13,7-9,4,2004,TBmeningitis
+Zone:13,7-9,4,2004,TBmeningitis
 Buri Ram,7-9,0,2004,TBmeningitis
 Chaiyaphum,7-9,0,2004,TBmeningitis
 Nakhon Ratchasima,7-9,3,2004,TBmeningitis
 Surin,7-9,1,2004,TBmeningitis
-Zone 14,7-9,0,2004,TBmeningitis
+Zone:14,7-9,0,2004,TBmeningitis
 Amnat Charoen,7-9,0,2004,TBmeningitis
 Si Sa Ket,7-9,0,2004,TBmeningitis
 Ubon Ratchathani,7-9,0,2004,TBmeningitis
 Yasothon,7-9,0,2004,TBmeningitis
 South Region,7-9,0,2004,TBmeningitis
-Zone 15,7-9,0,2004,TBmeningitis
+Zone:15,7-9,0,2004,TBmeningitis
 Chumphon,7-9,0,2004,TBmeningitis
 Ranong,7-9,0,2004,TBmeningitis
 Surat Thani,7-9,0,2004,TBmeningitis
-Zone 16,7-9,0,2004,TBmeningitis
+Zone:16,7-9,0,2004,TBmeningitis
 Nakhon Si Thammarat,7-9,0,2004,TBmeningitis
 Phatthalung,7-9,0,2004,TBmeningitis
 Trang,7-9,0,2004,TBmeningitis
-Zone 17,7-9,0,2004,TBmeningitis
+Zone:17,7-9,0,2004,TBmeningitis
 Krabi,7-9,0,2004,TBmeningitis
 Phangnga,7-9,0,2004,TBmeningitis
 Phuket,7-9,0,2004,TBmeningitis
-Zone 18,7-9,0,2004,TBmeningitis
+Zone:18,7-9,0,2004,TBmeningitis
 Narathiwat,7-9,0,2004,TBmeningitis
 Pattani,7-9,0,2004,TBmeningitis
 Yala,7-9,0,2004,TBmeningitis
-Zone 19,7-9,0,2004,TBmeningitis
+Zone:19,7-9,0,2004,TBmeningitis
 Satun,7-9,0,2004,TBmeningitis
 Songkhla,7-9,0,2004,TBmeningitis
 Total,10-14,17,2004,TBmeningitis
 North Region,10-14,4,2004,TBmeningitis
-Zone 1,10-14,3,2004,TBmeningitis
+Zone:1,10-14,3,2004,TBmeningitis
 Chiang Mai,10-14,0,2004,TBmeningitis
 Chiang Rai,10-14,2,2004,TBmeningitis
 Lampang,10-14,0,2004,TBmeningitis
@@ -12944,98 +12944,98 @@ Mae Hong Son,10-14,0,2004,TBmeningitis
 Nan,10-14,0,2004,TBmeningitis
 Phayao,10-14,0,2004,TBmeningitis
 Phrae,10-14,1,2004,TBmeningitis
-Zone 2,10-14,1,2004,TBmeningitis
+Zone:2,10-14,1,2004,TBmeningitis
 Phetchabun,10-14,1,2004,TBmeningitis
 Phitsanulok,10-14,0,2004,TBmeningitis
 Sukhothai,10-14,0,2004,TBmeningitis
 Tak,10-14,0,2004,TBmeningitis
 Uttaradit,10-14,0,2004,TBmeningitis
-Zone 3,10-14,0,2004,TBmeningitis
+Zone:3,10-14,0,2004,TBmeningitis
 Kamphaeng Phet,10-14,0,2004,TBmeningitis
 Nakhon Sawan,10-14,0,2004,TBmeningitis
 Phichit,10-14,0,2004,TBmeningitis
 Uthai Thani,10-14,0,2004,TBmeningitis
 Central Region,10-14,2,2004,TBmeningitis
 Bangkok,10-14,0,2004,TBmeningitis
-Zone 4,10-14,1,2004,TBmeningitis
+Zone:4,10-14,1,2004,TBmeningitis
 Ang Thong,10-14,0,2004,TBmeningitis
 Nonthaburi,10-14,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,10-14,1,2004,TBmeningitis
 Pathum Thani,10-14,0,2004,TBmeningitis
-Zone 5,10-14,0,2004,TBmeningitis
+Zone:5,10-14,0,2004,TBmeningitis
 Chai Nat,10-14,0,2004,TBmeningitis
 Lop Buri,10-14,0,2004,TBmeningitis
 Saraburi,10-14,0,2004,TBmeningitis
 Sing Buri,10-14,0,2004,TBmeningitis
-Zone 6,10-14,0,2004,TBmeningitis
+Zone:6,10-14,0,2004,TBmeningitis
 Kanchanaburi,10-14,0,2004,TBmeningitis
 Nakhon Pathom,10-14,0,2004,TBmeningitis
 Ratchaburi,10-14,0,2004,TBmeningitis
 Suphan Buri,10-14,0,2004,TBmeningitis
-Zone 7,10-14,0,2004,TBmeningitis
+Zone:7,10-14,0,2004,TBmeningitis
 Phetchaburi,10-14,0,2004,TBmeningitis
 Prachuap Khiri Khan,10-14,0,2004,TBmeningitis
 Samut Sakhon,10-14,0,2004,TBmeningitis
 Samut Songkhram,10-14,0,2004,TBmeningitis
-Zone 8,10-14,0,2004,TBmeningitis
+Zone:8,10-14,0,2004,TBmeningitis
 Chachoengsao,10-14,0,2004,TBmeningitis
 Nakhon Nayok,10-14,0,2004,TBmeningitis
 Prachin Buri,10-14,0,2004,TBmeningitis
 Sa Kaeo,10-14,0,2004,TBmeningitis
 Samut Prakan,10-14,0,2004,TBmeningitis
-Zone 9,10-14,1,2004,TBmeningitis
+Zone:9,10-14,1,2004,TBmeningitis
 Chanthaburi,10-14,0,2004,TBmeningitis
 Chon Buri,10-14,1,2004,TBmeningitis
 Rayong,10-14,0,2004,TBmeningitis
 Trat,10-14,0,2004,TBmeningitis
 North-Eastern Region,10-14,11,2004,TBmeningitis
-Zone 10,10-14,0,2004,TBmeningitis
+Zone:10,10-14,0,2004,TBmeningitis
 Loei,10-14,0,2004,TBmeningitis
 Nong Bua Lam Phu,10-14,0,2004,TBmeningitis
 Nong Khai,10-14,0,2004,TBmeningitis
 Udon Thani,10-14,0,2004,TBmeningitis
-Zone 11,10-14,3,2004,TBmeningitis
+Zone:11,10-14,3,2004,TBmeningitis
 Kalasin,10-14,3,2004,TBmeningitis
 Mukdahan,10-14,0,2004,TBmeningitis
 Nakhon Phanom,10-14,0,2004,TBmeningitis
 Sakon Nakhon,10-14,0,2004,TBmeningitis
-Zone 12,10-14,0,2004,TBmeningitis
+Zone:12,10-14,0,2004,TBmeningitis
 Khon Kaen,10-14,0,2004,TBmeningitis
 Maha Sarakham,10-14,0,2004,TBmeningitis
 Roi Et,10-14,0,2004,TBmeningitis
-Zone 13,10-14,8,2004,TBmeningitis
+Zone:13,10-14,8,2004,TBmeningitis
 Buri Ram,10-14,0,2004,TBmeningitis
 Chaiyaphum,10-14,0,2004,TBmeningitis
 Nakhon Ratchasima,10-14,8,2004,TBmeningitis
 Surin,10-14,0,2004,TBmeningitis
-Zone 14,10-14,0,2004,TBmeningitis
+Zone:14,10-14,0,2004,TBmeningitis
 Amnat Charoen,10-14,0,2004,TBmeningitis
 Si Sa Ket,10-14,0,2004,TBmeningitis
 Ubon Ratchathani,10-14,0,2004,TBmeningitis
 Yasothon,10-14,0,2004,TBmeningitis
 South Region,10-14,0,2004,TBmeningitis
-Zone 15,10-14,0,2004,TBmeningitis
+Zone:15,10-14,0,2004,TBmeningitis
 Chumphon,10-14,0,2004,TBmeningitis
 Ranong,10-14,0,2004,TBmeningitis
 Surat Thani,10-14,0,2004,TBmeningitis
-Zone 16,10-14,0,2004,TBmeningitis
+Zone:16,10-14,0,2004,TBmeningitis
 Nakhon Si Thammarat,10-14,0,2004,TBmeningitis
 Phatthalung,10-14,0,2004,TBmeningitis
 Trang,10-14,0,2004,TBmeningitis
-Zone 17,10-14,0,2004,TBmeningitis
+Zone:17,10-14,0,2004,TBmeningitis
 Krabi,10-14,0,2004,TBmeningitis
 Phangnga,10-14,0,2004,TBmeningitis
 Phuket,10-14,0,2004,TBmeningitis
-Zone 18,10-14,0,2004,TBmeningitis
+Zone:18,10-14,0,2004,TBmeningitis
 Narathiwat,10-14,0,2004,TBmeningitis
 Pattani,10-14,0,2004,TBmeningitis
 Yala,10-14,0,2004,TBmeningitis
-Zone 19,10-14,0,2004,TBmeningitis
+Zone:19,10-14,0,2004,TBmeningitis
 Satun,10-14,0,2004,TBmeningitis
 Songkhla,10-14,0,2004,TBmeningitis
 Total,15-24,72,2004,TBmeningitis
 North Region,15-24,17,2004,TBmeningitis
-Zone 1,15-24,11,2004,TBmeningitis
+Zone:1,15-24,11,2004,TBmeningitis
 Chiang Mai,15-24,3,2004,TBmeningitis
 Chiang Rai,15-24,2,2004,TBmeningitis
 Lampang,15-24,0,2004,TBmeningitis
@@ -13044,98 +13044,98 @@ Mae Hong Son,15-24,2,2004,TBmeningitis
 Nan,15-24,0,2004,TBmeningitis
 Phayao,15-24,1,2004,TBmeningitis
 Phrae,15-24,1,2004,TBmeningitis
-Zone 2,15-24,3,2004,TBmeningitis
+Zone:2,15-24,3,2004,TBmeningitis
 Phetchabun,15-24,0,2004,TBmeningitis
 Phitsanulok,15-24,0,2004,TBmeningitis
 Sukhothai,15-24,1,2004,TBmeningitis
 Tak,15-24,1,2004,TBmeningitis
 Uttaradit,15-24,1,2004,TBmeningitis
-Zone 3,15-24,3,2004,TBmeningitis
+Zone:3,15-24,3,2004,TBmeningitis
 Kamphaeng Phet,15-24,0,2004,TBmeningitis
 Nakhon Sawan,15-24,1,2004,TBmeningitis
 Phichit,15-24,1,2004,TBmeningitis
 Uthai Thani,15-24,1,2004,TBmeningitis
 Central Region,15-24,19,2004,TBmeningitis
 Bangkok,15-24,10,2004,TBmeningitis
-Zone 4,15-24,1,2004,TBmeningitis
+Zone:4,15-24,1,2004,TBmeningitis
 Ang Thong,15-24,0,2004,TBmeningitis
 Nonthaburi,15-24,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,15-24,1,2004,TBmeningitis
 Pathum Thani,15-24,0,2004,TBmeningitis
-Zone 5,15-24,3,2004,TBmeningitis
+Zone:5,15-24,3,2004,TBmeningitis
 Chai Nat,15-24,0,2004,TBmeningitis
 Lop Buri,15-24,1,2004,TBmeningitis
 Saraburi,15-24,2,2004,TBmeningitis
 Sing Buri,15-24,0,2004,TBmeningitis
-Zone 6,15-24,1,2004,TBmeningitis
+Zone:6,15-24,1,2004,TBmeningitis
 Kanchanaburi,15-24,0,2004,TBmeningitis
 Nakhon Pathom,15-24,1,2004,TBmeningitis
 Ratchaburi,15-24,0,2004,TBmeningitis
 Suphan Buri,15-24,0,2004,TBmeningitis
-Zone 7,15-24,0,2004,TBmeningitis
+Zone:7,15-24,0,2004,TBmeningitis
 Phetchaburi,15-24,0,2004,TBmeningitis
 Prachuap Khiri Khan,15-24,0,2004,TBmeningitis
 Samut Sakhon,15-24,0,2004,TBmeningitis
 Samut Songkhram,15-24,0,2004,TBmeningitis
-Zone 8,15-24,0,2004,TBmeningitis
+Zone:8,15-24,0,2004,TBmeningitis
 Chachoengsao,15-24,0,2004,TBmeningitis
 Nakhon Nayok,15-24,0,2004,TBmeningitis
 Prachin Buri,15-24,0,2004,TBmeningitis
 Sa Kaeo,15-24,0,2004,TBmeningitis
 Samut Prakan,15-24,0,2004,TBmeningitis
-Zone 9,15-24,4,2004,TBmeningitis
+Zone:9,15-24,4,2004,TBmeningitis
 Chanthaburi,15-24,2,2004,TBmeningitis
 Chon Buri,15-24,1,2004,TBmeningitis
 Rayong,15-24,1,2004,TBmeningitis
 Trat,15-24,0,2004,TBmeningitis
 North-Eastern Region,15-24,24,2004,TBmeningitis
-Zone 10,15-24,0,2004,TBmeningitis
+Zone:10,15-24,0,2004,TBmeningitis
 Loei,15-24,0,2004,TBmeningitis
 Nong Bua Lam Phu,15-24,0,2004,TBmeningitis
 Nong Khai,15-24,0,2004,TBmeningitis
 Udon Thani,15-24,0,2004,TBmeningitis
-Zone 11,15-24,8,2004,TBmeningitis
+Zone:11,15-24,8,2004,TBmeningitis
 Kalasin,15-24,1,2004,TBmeningitis
 Mukdahan,15-24,0,2004,TBmeningitis
 Nakhon Phanom,15-24,3,2004,TBmeningitis
 Sakon Nakhon,15-24,4,2004,TBmeningitis
-Zone 12,15-24,3,2004,TBmeningitis
+Zone:12,15-24,3,2004,TBmeningitis
 Khon Kaen,15-24,2,2004,TBmeningitis
 Maha Sarakham,15-24,0,2004,TBmeningitis
 Roi Et,15-24,1,2004,TBmeningitis
-Zone 13,15-24,13,2004,TBmeningitis
+Zone:13,15-24,13,2004,TBmeningitis
 Buri Ram,15-24,4,2004,TBmeningitis
 Chaiyaphum,15-24,0,2004,TBmeningitis
 Nakhon Ratchasima,15-24,8,2004,TBmeningitis
 Surin,15-24,1,2004,TBmeningitis
-Zone 14,15-24,0,2004,TBmeningitis
+Zone:14,15-24,0,2004,TBmeningitis
 Amnat Charoen,15-24,0,2004,TBmeningitis
 Si Sa Ket,15-24,0,2004,TBmeningitis
 Ubon Ratchathani,15-24,0,2004,TBmeningitis
 Yasothon,15-24,0,2004,TBmeningitis
 South Region,15-24,12,2004,TBmeningitis
-Zone 15,15-24,7,2004,TBmeningitis
+Zone:15,15-24,7,2004,TBmeningitis
 Chumphon,15-24,0,2004,TBmeningitis
 Ranong,15-24,0,2004,TBmeningitis
 Surat Thani,15-24,7,2004,TBmeningitis
-Zone 16,15-24,1,2004,TBmeningitis
+Zone:16,15-24,1,2004,TBmeningitis
 Nakhon Si Thammarat,15-24,0,2004,TBmeningitis
 Phatthalung,15-24,1,2004,TBmeningitis
 Trang,15-24,0,2004,TBmeningitis
-Zone 17,15-24,1,2004,TBmeningitis
+Zone:17,15-24,1,2004,TBmeningitis
 Krabi,15-24,1,2004,TBmeningitis
 Phangnga,15-24,0,2004,TBmeningitis
 Phuket,15-24,0,2004,TBmeningitis
-Zone 18,15-24,1,2004,TBmeningitis
+Zone:18,15-24,1,2004,TBmeningitis
 Narathiwat,15-24,1,2004,TBmeningitis
 Pattani,15-24,0,2004,TBmeningitis
 Yala,15-24,0,2004,TBmeningitis
-Zone 19,15-24,2,2004,TBmeningitis
+Zone:19,15-24,2,2004,TBmeningitis
 Satun,15-24,0,2004,TBmeningitis
 Songkhla,15-24,2,2004,TBmeningitis
 Total,25-34,223,2004,TBmeningitis
 North Region,25-34,54,2004,TBmeningitis
-Zone 1,25-34,34,2004,TBmeningitis
+Zone:1,25-34,34,2004,TBmeningitis
 Chiang Mai,25-34,7,2004,TBmeningitis
 Chiang Rai,25-34,16,2004,TBmeningitis
 Lampang,25-34,6,2004,TBmeningitis
@@ -13144,98 +13144,98 @@ Mae Hong Son,25-34,0,2004,TBmeningitis
 Nan,25-34,3,2004,TBmeningitis
 Phayao,25-34,1,2004,TBmeningitis
 Phrae,25-34,1,2004,TBmeningitis
-Zone 2,25-34,9,2004,TBmeningitis
+Zone:2,25-34,9,2004,TBmeningitis
 Phetchabun,25-34,4,2004,TBmeningitis
 Phitsanulok,25-34,1,2004,TBmeningitis
 Sukhothai,25-34,1,2004,TBmeningitis
 Tak,25-34,0,2004,TBmeningitis
 Uttaradit,25-34,3,2004,TBmeningitis
-Zone 3,25-34,11,2004,TBmeningitis
+Zone:3,25-34,11,2004,TBmeningitis
 Kamphaeng Phet,25-34,2,2004,TBmeningitis
 Nakhon Sawan,25-34,4,2004,TBmeningitis
 Phichit,25-34,2,2004,TBmeningitis
 Uthai Thani,25-34,3,2004,TBmeningitis
 Central Region,25-34,61,2004,TBmeningitis
 Bangkok,25-34,19,2004,TBmeningitis
-Zone 4,25-34,3,2004,TBmeningitis
+Zone:4,25-34,3,2004,TBmeningitis
 Ang Thong,25-34,0,2004,TBmeningitis
 Nonthaburi,25-34,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,25-34,2,2004,TBmeningitis
 Pathum Thani,25-34,1,2004,TBmeningitis
-Zone 5,25-34,4,2004,TBmeningitis
+Zone:5,25-34,4,2004,TBmeningitis
 Chai Nat,25-34,1,2004,TBmeningitis
 Lop Buri,25-34,0,2004,TBmeningitis
 Saraburi,25-34,2,2004,TBmeningitis
 Sing Buri,25-34,1,2004,TBmeningitis
-Zone 6,25-34,8,2004,TBmeningitis
+Zone:6,25-34,8,2004,TBmeningitis
 Kanchanaburi,25-34,1,2004,TBmeningitis
 Nakhon Pathom,25-34,1,2004,TBmeningitis
 Ratchaburi,25-34,0,2004,TBmeningitis
 Suphan Buri,25-34,6,2004,TBmeningitis
-Zone 7,25-34,5,2004,TBmeningitis
+Zone:7,25-34,5,2004,TBmeningitis
 Phetchaburi,25-34,4,2004,TBmeningitis
 Prachuap Khiri Khan,25-34,0,2004,TBmeningitis
 Samut Sakhon,25-34,1,2004,TBmeningitis
 Samut Songkhram,25-34,0,2004,TBmeningitis
-Zone 8,25-34,12,2004,TBmeningitis
+Zone:8,25-34,12,2004,TBmeningitis
 Chachoengsao,25-34,0,2004,TBmeningitis
 Nakhon Nayok,25-34,1,2004,TBmeningitis
 Prachin Buri,25-34,6,2004,TBmeningitis
 Sa Kaeo,25-34,5,2004,TBmeningitis
 Samut Prakan,25-34,0,2004,TBmeningitis
-Zone 9,25-34,10,2004,TBmeningitis
+Zone:9,25-34,10,2004,TBmeningitis
 Chanthaburi,25-34,6,2004,TBmeningitis
 Chon Buri,25-34,2,2004,TBmeningitis
 Rayong,25-34,2,2004,TBmeningitis
 Trat,25-34,0,2004,TBmeningitis
 North-Eastern Region,25-34,89,2004,TBmeningitis
-Zone 10,25-34,12,2004,TBmeningitis
+Zone:10,25-34,12,2004,TBmeningitis
 Loei,25-34,4,2004,TBmeningitis
 Nong Bua Lam Phu,25-34,5,2004,TBmeningitis
 Nong Khai,25-34,0,2004,TBmeningitis
 Udon Thani,25-34,3,2004,TBmeningitis
-Zone 11,25-34,8,2004,TBmeningitis
+Zone:11,25-34,8,2004,TBmeningitis
 Kalasin,25-34,3,2004,TBmeningitis
 Mukdahan,25-34,3,2004,TBmeningitis
 Nakhon Phanom,25-34,0,2004,TBmeningitis
 Sakon Nakhon,25-34,2,2004,TBmeningitis
-Zone 12,25-34,8,2004,TBmeningitis
+Zone:12,25-34,8,2004,TBmeningitis
 Khon Kaen,25-34,7,2004,TBmeningitis
 Maha Sarakham,25-34,0,2004,TBmeningitis
 Roi Et,25-34,1,2004,TBmeningitis
-Zone 13,25-34,43,2004,TBmeningitis
+Zone:13,25-34,43,2004,TBmeningitis
 Buri Ram,25-34,3,2004,TBmeningitis
 Chaiyaphum,25-34,6,2004,TBmeningitis
 Nakhon Ratchasima,25-34,25,2004,TBmeningitis
 Surin,25-34,9,2004,TBmeningitis
-Zone 14,25-34,18,2004,TBmeningitis
+Zone:14,25-34,18,2004,TBmeningitis
 Amnat Charoen,25-34,3,2004,TBmeningitis
 Si Sa Ket,25-34,9,2004,TBmeningitis
 Ubon Ratchathani,25-34,6,2004,TBmeningitis
 Yasothon,25-34,0,2004,TBmeningitis
 South Region,25-34,19,2004,TBmeningitis
-Zone 15,25-34,6,2004,TBmeningitis
+Zone:15,25-34,6,2004,TBmeningitis
 Chumphon,25-34,2,2004,TBmeningitis
 Ranong,25-34,0,2004,TBmeningitis
 Surat Thani,25-34,4,2004,TBmeningitis
-Zone 16,25-34,6,2004,TBmeningitis
+Zone:16,25-34,6,2004,TBmeningitis
 Nakhon Si Thammarat,25-34,5,2004,TBmeningitis
 Phatthalung,25-34,0,2004,TBmeningitis
 Trang,25-34,1,2004,TBmeningitis
-Zone 17,25-34,2,2004,TBmeningitis
+Zone:17,25-34,2,2004,TBmeningitis
 Krabi,25-34,2,2004,TBmeningitis
 Phangnga,25-34,0,2004,TBmeningitis
 Phuket,25-34,0,2004,TBmeningitis
-Zone 18,25-34,3,2004,TBmeningitis
+Zone:18,25-34,3,2004,TBmeningitis
 Narathiwat,25-34,0,2004,TBmeningitis
 Pattani,25-34,0,2004,TBmeningitis
 Yala,25-34,3,2004,TBmeningitis
-Zone 19,25-34,2,2004,TBmeningitis
+Zone:19,25-34,2,2004,TBmeningitis
 Satun,25-34,0,2004,TBmeningitis
 Songkhla,25-34,2,2004,TBmeningitis
 Total,35-44,151,2004,TBmeningitis
 North Region,35-44,46,2004,TBmeningitis
-Zone 1,35-44,16,2004,TBmeningitis
+Zone:1,35-44,16,2004,TBmeningitis
 Chiang Mai,35-44,3,2004,TBmeningitis
 Chiang Rai,35-44,4,2004,TBmeningitis
 Lampang,35-44,6,2004,TBmeningitis
@@ -13244,98 +13244,98 @@ Mae Hong Son,35-44,0,2004,TBmeningitis
 Nan,35-44,2,2004,TBmeningitis
 Phayao,35-44,1,2004,TBmeningitis
 Phrae,35-44,0,2004,TBmeningitis
-Zone 2,35-44,13,2004,TBmeningitis
+Zone:2,35-44,13,2004,TBmeningitis
 Phetchabun,35-44,4,2004,TBmeningitis
 Phitsanulok,35-44,0,2004,TBmeningitis
 Sukhothai,35-44,5,2004,TBmeningitis
 Tak,35-44,3,2004,TBmeningitis
 Uttaradit,35-44,1,2004,TBmeningitis
-Zone 3,35-44,17,2004,TBmeningitis
+Zone:3,35-44,17,2004,TBmeningitis
 Kamphaeng Phet,35-44,6,2004,TBmeningitis
 Nakhon Sawan,35-44,4,2004,TBmeningitis
 Phichit,35-44,4,2004,TBmeningitis
 Uthai Thani,35-44,3,2004,TBmeningitis
 Central Region,35-44,32,2004,TBmeningitis
 Bangkok,35-44,8,2004,TBmeningitis
-Zone 4,35-44,2,2004,TBmeningitis
+Zone:4,35-44,2,2004,TBmeningitis
 Ang Thong,35-44,0,2004,TBmeningitis
 Nonthaburi,35-44,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,35-44,1,2004,TBmeningitis
 Pathum Thani,35-44,1,2004,TBmeningitis
-Zone 5,35-44,6,2004,TBmeningitis
+Zone:5,35-44,6,2004,TBmeningitis
 Chai Nat,35-44,1,2004,TBmeningitis
 Lop Buri,35-44,2,2004,TBmeningitis
 Saraburi,35-44,1,2004,TBmeningitis
 Sing Buri,35-44,2,2004,TBmeningitis
-Zone 6,35-44,4,2004,TBmeningitis
+Zone:6,35-44,4,2004,TBmeningitis
 Kanchanaburi,35-44,1,2004,TBmeningitis
 Nakhon Pathom,35-44,2,2004,TBmeningitis
 Ratchaburi,35-44,0,2004,TBmeningitis
 Suphan Buri,35-44,1,2004,TBmeningitis
-Zone 7,35-44,1,2004,TBmeningitis
+Zone:7,35-44,1,2004,TBmeningitis
 Phetchaburi,35-44,1,2004,TBmeningitis
 Prachuap Khiri Khan,35-44,0,2004,TBmeningitis
 Samut Sakhon,35-44,0,2004,TBmeningitis
 Samut Songkhram,35-44,0,2004,TBmeningitis
-Zone 8,35-44,4,2004,TBmeningitis
+Zone:8,35-44,4,2004,TBmeningitis
 Chachoengsao,35-44,0,2004,TBmeningitis
 Nakhon Nayok,35-44,1,2004,TBmeningitis
 Prachin Buri,35-44,3,2004,TBmeningitis
 Sa Kaeo,35-44,0,2004,TBmeningitis
 Samut Prakan,35-44,0,2004,TBmeningitis
-Zone 9,35-44,7,2004,TBmeningitis
+Zone:9,35-44,7,2004,TBmeningitis
 Chanthaburi,35-44,3,2004,TBmeningitis
 Chon Buri,35-44,2,2004,TBmeningitis
 Rayong,35-44,1,2004,TBmeningitis
 Trat,35-44,1,2004,TBmeningitis
 North-Eastern Region,35-44,59,2004,TBmeningitis
-Zone 10,35-44,1,2004,TBmeningitis
+Zone:10,35-44,1,2004,TBmeningitis
 Loei,35-44,1,2004,TBmeningitis
 Nong Bua Lam Phu,35-44,0,2004,TBmeningitis
 Nong Khai,35-44,0,2004,TBmeningitis
 Udon Thani,35-44,0,2004,TBmeningitis
-Zone 11,35-44,4,2004,TBmeningitis
+Zone:11,35-44,4,2004,TBmeningitis
 Kalasin,35-44,1,2004,TBmeningitis
 Mukdahan,35-44,1,2004,TBmeningitis
 Nakhon Phanom,35-44,1,2004,TBmeningitis
 Sakon Nakhon,35-44,1,2004,TBmeningitis
-Zone 12,35-44,5,2004,TBmeningitis
+Zone:12,35-44,5,2004,TBmeningitis
 Khon Kaen,35-44,2,2004,TBmeningitis
 Maha Sarakham,35-44,2,2004,TBmeningitis
 Roi Et,35-44,1,2004,TBmeningitis
-Zone 13,35-44,32,2004,TBmeningitis
+Zone:13,35-44,32,2004,TBmeningitis
 Buri Ram,35-44,2,2004,TBmeningitis
 Chaiyaphum,35-44,4,2004,TBmeningitis
 Nakhon Ratchasima,35-44,22,2004,TBmeningitis
 Surin,35-44,4,2004,TBmeningitis
-Zone 14,35-44,17,2004,TBmeningitis
+Zone:14,35-44,17,2004,TBmeningitis
 Amnat Charoen,35-44,4,2004,TBmeningitis
 Si Sa Ket,35-44,8,2004,TBmeningitis
 Ubon Ratchathani,35-44,3,2004,TBmeningitis
 Yasothon,35-44,2,2004,TBmeningitis
 South Region,35-44,14,2004,TBmeningitis
-Zone 15,35-44,3,2004,TBmeningitis
+Zone:15,35-44,3,2004,TBmeningitis
 Chumphon,35-44,0,2004,TBmeningitis
 Ranong,35-44,0,2004,TBmeningitis
 Surat Thani,35-44,3,2004,TBmeningitis
-Zone 16,35-44,6,2004,TBmeningitis
+Zone:16,35-44,6,2004,TBmeningitis
 Nakhon Si Thammarat,35-44,3,2004,TBmeningitis
 Phatthalung,35-44,0,2004,TBmeningitis
 Trang,35-44,3,2004,TBmeningitis
-Zone 17,35-44,1,2004,TBmeningitis
+Zone:17,35-44,1,2004,TBmeningitis
 Krabi,35-44,1,2004,TBmeningitis
 Phangnga,35-44,0,2004,TBmeningitis
 Phuket,35-44,0,2004,TBmeningitis
-Zone 18,35-44,2,2004,TBmeningitis
+Zone:18,35-44,2,2004,TBmeningitis
 Narathiwat,35-44,1,2004,TBmeningitis
 Pattani,35-44,0,2004,TBmeningitis
 Yala,35-44,1,2004,TBmeningitis
-Zone 19,35-44,2,2004,TBmeningitis
+Zone:19,35-44,2,2004,TBmeningitis
 Satun,35-44,2,2004,TBmeningitis
 Songkhla,35-44,0,2004,TBmeningitis
 Total,45-54,107,2004,TBmeningitis
 North Region,45-54,34,2004,TBmeningitis
-Zone 1,45-54,17,2004,TBmeningitis
+Zone:1,45-54,17,2004,TBmeningitis
 Chiang Mai,45-54,1,2004,TBmeningitis
 Chiang Rai,45-54,2,2004,TBmeningitis
 Lampang,45-54,6,2004,TBmeningitis
@@ -13344,98 +13344,98 @@ Mae Hong Son,45-54,0,2004,TBmeningitis
 Nan,45-54,4,2004,TBmeningitis
 Phayao,45-54,2,2004,TBmeningitis
 Phrae,45-54,1,2004,TBmeningitis
-Zone 2,45-54,9,2004,TBmeningitis
+Zone:2,45-54,9,2004,TBmeningitis
 Phetchabun,45-54,2,2004,TBmeningitis
 Phitsanulok,45-54,1,2004,TBmeningitis
 Sukhothai,45-54,2,2004,TBmeningitis
 Tak,45-54,0,2004,TBmeningitis
 Uttaradit,45-54,4,2004,TBmeningitis
-Zone 3,45-54,8,2004,TBmeningitis
+Zone:3,45-54,8,2004,TBmeningitis
 Kamphaeng Phet,45-54,5,2004,TBmeningitis
 Nakhon Sawan,45-54,1,2004,TBmeningitis
 Phichit,45-54,0,2004,TBmeningitis
 Uthai Thani,45-54,2,2004,TBmeningitis
 Central Region,45-54,25,2004,TBmeningitis
 Bangkok,45-54,6,2004,TBmeningitis
-Zone 4,45-54,3,2004,TBmeningitis
+Zone:4,45-54,3,2004,TBmeningitis
 Ang Thong,45-54,0,2004,TBmeningitis
 Nonthaburi,45-54,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,45-54,0,2004,TBmeningitis
 Pathum Thani,45-54,3,2004,TBmeningitis
-Zone 5,45-54,0,2004,TBmeningitis
+Zone:5,45-54,0,2004,TBmeningitis
 Chai Nat,45-54,0,2004,TBmeningitis
 Lop Buri,45-54,0,2004,TBmeningitis
 Saraburi,45-54,0,2004,TBmeningitis
 Sing Buri,45-54,0,2004,TBmeningitis
-Zone 6,45-54,1,2004,TBmeningitis
+Zone:6,45-54,1,2004,TBmeningitis
 Kanchanaburi,45-54,0,2004,TBmeningitis
 Nakhon Pathom,45-54,1,2004,TBmeningitis
 Ratchaburi,45-54,0,2004,TBmeningitis
 Suphan Buri,45-54,0,2004,TBmeningitis
-Zone 7,45-54,1,2004,TBmeningitis
+Zone:7,45-54,1,2004,TBmeningitis
 Phetchaburi,45-54,0,2004,TBmeningitis
 Prachuap Khiri Khan,45-54,1,2004,TBmeningitis
 Samut Sakhon,45-54,0,2004,TBmeningitis
 Samut Songkhram,45-54,0,2004,TBmeningitis
-Zone 8,45-54,2,2004,TBmeningitis
+Zone:8,45-54,2,2004,TBmeningitis
 Chachoengsao,45-54,0,2004,TBmeningitis
 Nakhon Nayok,45-54,0,2004,TBmeningitis
 Prachin Buri,45-54,2,2004,TBmeningitis
 Sa Kaeo,45-54,0,2004,TBmeningitis
 Samut Prakan,45-54,0,2004,TBmeningitis
-Zone 9,45-54,12,2004,TBmeningitis
+Zone:9,45-54,12,2004,TBmeningitis
 Chanthaburi,45-54,5,2004,TBmeningitis
 Chon Buri,45-54,4,2004,TBmeningitis
 Rayong,45-54,2,2004,TBmeningitis
 Trat,45-54,1,2004,TBmeningitis
 North-Eastern Region,45-54,42,2004,TBmeningitis
-Zone 10,45-54,2,2004,TBmeningitis
+Zone:10,45-54,2,2004,TBmeningitis
 Loei,45-54,1,2004,TBmeningitis
 Nong Bua Lam Phu,45-54,0,2004,TBmeningitis
 Nong Khai,45-54,0,2004,TBmeningitis
 Udon Thani,45-54,1,2004,TBmeningitis
-Zone 11,45-54,4,2004,TBmeningitis
+Zone:11,45-54,4,2004,TBmeningitis
 Kalasin,45-54,1,2004,TBmeningitis
 Mukdahan,45-54,1,2004,TBmeningitis
 Nakhon Phanom,45-54,1,2004,TBmeningitis
 Sakon Nakhon,45-54,1,2004,TBmeningitis
-Zone 12,45-54,8,2004,TBmeningitis
+Zone:12,45-54,8,2004,TBmeningitis
 Khon Kaen,45-54,3,2004,TBmeningitis
 Maha Sarakham,45-54,1,2004,TBmeningitis
 Roi Et,45-54,4,2004,TBmeningitis
-Zone 13,45-54,20,2004,TBmeningitis
+Zone:13,45-54,20,2004,TBmeningitis
 Buri Ram,45-54,2,2004,TBmeningitis
 Chaiyaphum,45-54,4,2004,TBmeningitis
 Nakhon Ratchasima,45-54,12,2004,TBmeningitis
 Surin,45-54,2,2004,TBmeningitis
-Zone 14,45-54,8,2004,TBmeningitis
+Zone:14,45-54,8,2004,TBmeningitis
 Amnat Charoen,45-54,2,2004,TBmeningitis
 Si Sa Ket,45-54,4,2004,TBmeningitis
 Ubon Ratchathani,45-54,2,2004,TBmeningitis
 Yasothon,45-54,0,2004,TBmeningitis
 South Region,45-54,6,2004,TBmeningitis
-Zone 15,45-54,5,2004,TBmeningitis
+Zone:15,45-54,5,2004,TBmeningitis
 Chumphon,45-54,0,2004,TBmeningitis
 Ranong,45-54,0,2004,TBmeningitis
 Surat Thani,45-54,5,2004,TBmeningitis
-Zone 16,45-54,1,2004,TBmeningitis
+Zone:16,45-54,1,2004,TBmeningitis
 Nakhon Si Thammarat,45-54,0,2004,TBmeningitis
 Phatthalung,45-54,0,2004,TBmeningitis
 Trang,45-54,1,2004,TBmeningitis
-Zone 17,45-54,0,2004,TBmeningitis
+Zone:17,45-54,0,2004,TBmeningitis
 Krabi,45-54,0,2004,TBmeningitis
 Phangnga,45-54,0,2004,TBmeningitis
 Phuket,45-54,0,2004,TBmeningitis
-Zone 18,45-54,0,2004,TBmeningitis
+Zone:18,45-54,0,2004,TBmeningitis
 Narathiwat,45-54,0,2004,TBmeningitis
 Pattani,45-54,0,2004,TBmeningitis
 Yala,45-54,0,2004,TBmeningitis
-Zone 19,45-54,0,2004,TBmeningitis
+Zone:19,45-54,0,2004,TBmeningitis
 Satun,45-54,0,2004,TBmeningitis
 Songkhla,45-54,0,2004,TBmeningitis
 Total,55-64,86,2004,TBmeningitis
 North Region,55-64,23,2004,TBmeningitis
-Zone 1,55-64,14,2004,TBmeningitis
+Zone:1,55-64,14,2004,TBmeningitis
 Chiang Mai,55-64,3,2004,TBmeningitis
 Chiang Rai,55-64,2,2004,TBmeningitis
 Lampang,55-64,2,2004,TBmeningitis
@@ -13444,98 +13444,98 @@ Mae Hong Son,55-64,1,2004,TBmeningitis
 Nan,55-64,3,2004,TBmeningitis
 Phayao,55-64,2,2004,TBmeningitis
 Phrae,55-64,1,2004,TBmeningitis
-Zone 2,55-64,2,2004,TBmeningitis
+Zone:2,55-64,2,2004,TBmeningitis
 Phetchabun,55-64,1,2004,TBmeningitis
 Phitsanulok,55-64,1,2004,TBmeningitis
 Sukhothai,55-64,0,2004,TBmeningitis
 Tak,55-64,0,2004,TBmeningitis
 Uttaradit,55-64,0,2004,TBmeningitis
-Zone 3,55-64,7,2004,TBmeningitis
+Zone:3,55-64,7,2004,TBmeningitis
 Kamphaeng Phet,55-64,3,2004,TBmeningitis
 Nakhon Sawan,55-64,1,2004,TBmeningitis
 Phichit,55-64,2,2004,TBmeningitis
 Uthai Thani,55-64,1,2004,TBmeningitis
 Central Region,55-64,8,2004,TBmeningitis
 Bangkok,55-64,1,2004,TBmeningitis
-Zone 4,55-64,3,2004,TBmeningitis
+Zone:4,55-64,3,2004,TBmeningitis
 Ang Thong,55-64,0,2004,TBmeningitis
 Nonthaburi,55-64,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,55-64,0,2004,TBmeningitis
 Pathum Thani,55-64,3,2004,TBmeningitis
-Zone 5,55-64,0,2004,TBmeningitis
+Zone:5,55-64,0,2004,TBmeningitis
 Chai Nat,55-64,0,2004,TBmeningitis
 Lop Buri,55-64,0,2004,TBmeningitis
 Saraburi,55-64,0,2004,TBmeningitis
 Sing Buri,55-64,0,2004,TBmeningitis
-Zone 6,55-64,1,2004,TBmeningitis
+Zone:6,55-64,1,2004,TBmeningitis
 Kanchanaburi,55-64,0,2004,TBmeningitis
 Nakhon Pathom,55-64,0,2004,TBmeningitis
 Ratchaburi,55-64,0,2004,TBmeningitis
 Suphan Buri,55-64,1,2004,TBmeningitis
-Zone 7,55-64,0,2004,TBmeningitis
+Zone:7,55-64,0,2004,TBmeningitis
 Phetchaburi,55-64,0,2004,TBmeningitis
 Prachuap Khiri Khan,55-64,0,2004,TBmeningitis
 Samut Sakhon,55-64,0,2004,TBmeningitis
 Samut Songkhram,55-64,0,2004,TBmeningitis
-Zone 8,55-64,2,2004,TBmeningitis
+Zone:8,55-64,2,2004,TBmeningitis
 Chachoengsao,55-64,0,2004,TBmeningitis
 Nakhon Nayok,55-64,0,2004,TBmeningitis
 Prachin Buri,55-64,1,2004,TBmeningitis
 Sa Kaeo,55-64,1,2004,TBmeningitis
 Samut Prakan,55-64,0,2004,TBmeningitis
-Zone 9,55-64,1,2004,TBmeningitis
+Zone:9,55-64,1,2004,TBmeningitis
 Chanthaburi,55-64,0,2004,TBmeningitis
 Chon Buri,55-64,1,2004,TBmeningitis
 Rayong,55-64,0,2004,TBmeningitis
 Trat,55-64,0,2004,TBmeningitis
 North-Eastern Region,55-64,54,2004,TBmeningitis
-Zone 10,55-64,3,2004,TBmeningitis
+Zone:10,55-64,3,2004,TBmeningitis
 Loei,55-64,0,2004,TBmeningitis
 Nong Bua Lam Phu,55-64,1,2004,TBmeningitis
 Nong Khai,55-64,0,2004,TBmeningitis
 Udon Thani,55-64,2,2004,TBmeningitis
-Zone 11,55-64,4,2004,TBmeningitis
+Zone:11,55-64,4,2004,TBmeningitis
 Kalasin,55-64,2,2004,TBmeningitis
 Mukdahan,55-64,2,2004,TBmeningitis
 Nakhon Phanom,55-64,0,2004,TBmeningitis
 Sakon Nakhon,55-64,0,2004,TBmeningitis
-Zone 12,55-64,10,2004,TBmeningitis
+Zone:12,55-64,10,2004,TBmeningitis
 Khon Kaen,55-64,6,2004,TBmeningitis
 Maha Sarakham,55-64,2,2004,TBmeningitis
 Roi Et,55-64,2,2004,TBmeningitis
-Zone 13,55-64,20,2004,TBmeningitis
+Zone:13,55-64,20,2004,TBmeningitis
 Buri Ram,55-64,2,2004,TBmeningitis
 Chaiyaphum,55-64,3,2004,TBmeningitis
 Nakhon Ratchasima,55-64,11,2004,TBmeningitis
 Surin,55-64,4,2004,TBmeningitis
-Zone 14,55-64,17,2004,TBmeningitis
+Zone:14,55-64,17,2004,TBmeningitis
 Amnat Charoen,55-64,2,2004,TBmeningitis
 Si Sa Ket,55-64,11,2004,TBmeningitis
 Ubon Ratchathani,55-64,4,2004,TBmeningitis
 Yasothon,55-64,0,2004,TBmeningitis
 South Region,55-64,1,2004,TBmeningitis
-Zone 15,55-64,0,2004,TBmeningitis
+Zone:15,55-64,0,2004,TBmeningitis
 Chumphon,55-64,0,2004,TBmeningitis
 Ranong,55-64,0,2004,TBmeningitis
 Surat Thani,55-64,0,2004,TBmeningitis
-Zone 16,55-64,0,2004,TBmeningitis
+Zone:16,55-64,0,2004,TBmeningitis
 Nakhon Si Thammarat,55-64,0,2004,TBmeningitis
 Phatthalung,55-64,0,2004,TBmeningitis
 Trang,55-64,0,2004,TBmeningitis
-Zone 17,55-64,0,2004,TBmeningitis
+Zone:17,55-64,0,2004,TBmeningitis
 Krabi,55-64,0,2004,TBmeningitis
 Phangnga,55-64,0,2004,TBmeningitis
 Phuket,55-64,0,2004,TBmeningitis
-Zone 18,55-64,1,2004,TBmeningitis
+Zone:18,55-64,1,2004,TBmeningitis
 Narathiwat,55-64,1,2004,TBmeningitis
 Pattani,55-64,0,2004,TBmeningitis
 Yala,55-64,0,2004,TBmeningitis
-Zone 19,55-64,0,2004,TBmeningitis
+Zone:19,55-64,0,2004,TBmeningitis
 Satun,55-64,0,2004,TBmeningitis
 Songkhla,55-64,0,2004,TBmeningitis
 Total,65+,105,2004,TBmeningitis
 North Region,65+,33,2004,TBmeningitis
-Zone 1,65+,17,2004,TBmeningitis
+Zone:1,65+,17,2004,TBmeningitis
 Chiang Mai,65+,1,2004,TBmeningitis
 Chiang Rai,65+,1,2004,TBmeningitis
 Lampang,65+,9,2004,TBmeningitis
@@ -13544,98 +13544,98 @@ Mae Hong Son,65+,0,2004,TBmeningitis
 Nan,65+,0,2004,TBmeningitis
 Phayao,65+,4,2004,TBmeningitis
 Phrae,65+,1,2004,TBmeningitis
-Zone 2,65+,7,2004,TBmeningitis
+Zone:2,65+,7,2004,TBmeningitis
 Phetchabun,65+,0,2004,TBmeningitis
 Phitsanulok,65+,0,2004,TBmeningitis
 Sukhothai,65+,2,2004,TBmeningitis
 Tak,65+,0,2004,TBmeningitis
 Uttaradit,65+,5,2004,TBmeningitis
-Zone 3,65+,9,2004,TBmeningitis
+Zone:3,65+,9,2004,TBmeningitis
 Kamphaeng Phet,65+,1,2004,TBmeningitis
 Nakhon Sawan,65+,5,2004,TBmeningitis
 Phichit,65+,3,2004,TBmeningitis
 Uthai Thani,65+,0,2004,TBmeningitis
 Central Region,65+,14,2004,TBmeningitis
 Bangkok,65+,2,2004,TBmeningitis
-Zone 4,65+,0,2004,TBmeningitis
+Zone:4,65+,0,2004,TBmeningitis
 Ang Thong,65+,0,2004,TBmeningitis
 Nonthaburi,65+,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,65+,0,2004,TBmeningitis
 Pathum Thani,65+,0,2004,TBmeningitis
-Zone 5,65+,2,2004,TBmeningitis
+Zone:5,65+,2,2004,TBmeningitis
 Chai Nat,65+,0,2004,TBmeningitis
 Lop Buri,65+,1,2004,TBmeningitis
 Saraburi,65+,1,2004,TBmeningitis
 Sing Buri,65+,0,2004,TBmeningitis
-Zone 6,65+,3,2004,TBmeningitis
+Zone:6,65+,3,2004,TBmeningitis
 Kanchanaburi,65+,0,2004,TBmeningitis
 Nakhon Pathom,65+,0,2004,TBmeningitis
 Ratchaburi,65+,0,2004,TBmeningitis
 Suphan Buri,65+,3,2004,TBmeningitis
-Zone 7,65+,0,2004,TBmeningitis
+Zone:7,65+,0,2004,TBmeningitis
 Phetchaburi,65+,0,2004,TBmeningitis
 Prachuap Khiri Khan,65+,0,2004,TBmeningitis
 Samut Sakhon,65+,0,2004,TBmeningitis
 Samut Songkhram,65+,0,2004,TBmeningitis
-Zone 8,65+,3,2004,TBmeningitis
+Zone:8,65+,3,2004,TBmeningitis
 Chachoengsao,65+,0,2004,TBmeningitis
 Nakhon Nayok,65+,0,2004,TBmeningitis
 Prachin Buri,65+,2,2004,TBmeningitis
 Sa Kaeo,65+,1,2004,TBmeningitis
 Samut Prakan,65+,0,2004,TBmeningitis
-Zone 9,65+,4,2004,TBmeningitis
+Zone:9,65+,4,2004,TBmeningitis
 Chanthaburi,65+,0,2004,TBmeningitis
 Chon Buri,65+,3,2004,TBmeningitis
 Rayong,65+,1,2004,TBmeningitis
 Trat,65+,0,2004,TBmeningitis
 North-Eastern Region,65+,51,2004,TBmeningitis
-Zone 10,65+,8,2004,TBmeningitis
+Zone:10,65+,8,2004,TBmeningitis
 Loei,65+,3,2004,TBmeningitis
 Nong Bua Lam Phu,65+,1,2004,TBmeningitis
 Nong Khai,65+,0,2004,TBmeningitis
 Udon Thani,65+,4,2004,TBmeningitis
-Zone 11,65+,8,2004,TBmeningitis
+Zone:11,65+,8,2004,TBmeningitis
 Kalasin,65+,3,2004,TBmeningitis
 Mukdahan,65+,3,2004,TBmeningitis
 Nakhon Phanom,65+,0,2004,TBmeningitis
 Sakon Nakhon,65+,2,2004,TBmeningitis
-Zone 12,65+,7,2004,TBmeningitis
+Zone:12,65+,7,2004,TBmeningitis
 Khon Kaen,65+,7,2004,TBmeningitis
 Maha Sarakham,65+,0,2004,TBmeningitis
 Roi Et,65+,0,2004,TBmeningitis
-Zone 13,65+,21,2004,TBmeningitis
+Zone:13,65+,21,2004,TBmeningitis
 Buri Ram,65+,2,2004,TBmeningitis
 Chaiyaphum,65+,4,2004,TBmeningitis
 Nakhon Ratchasima,65+,12,2004,TBmeningitis
 Surin,65+,3,2004,TBmeningitis
-Zone 14,65+,7,2004,TBmeningitis
+Zone:14,65+,7,2004,TBmeningitis
 Amnat Charoen,65+,2,2004,TBmeningitis
 Si Sa Ket,65+,5,2004,TBmeningitis
 Ubon Ratchathani,65+,0,2004,TBmeningitis
 Yasothon,65+,0,2004,TBmeningitis
 South Region,65+,7,2004,TBmeningitis
-Zone 15,65+,5,2004,TBmeningitis
+Zone:15,65+,5,2004,TBmeningitis
 Chumphon,65+,0,2004,TBmeningitis
 Ranong,65+,1,2004,TBmeningitis
 Surat Thani,65+,4,2004,TBmeningitis
-Zone 16,65+,2,2004,TBmeningitis
+Zone:16,65+,2,2004,TBmeningitis
 Nakhon Si Thammarat,65+,1,2004,TBmeningitis
 Phatthalung,65+,1,2004,TBmeningitis
 Trang,65+,0,2004,TBmeningitis
-Zone 17,65+,0,2004,TBmeningitis
+Zone:17,65+,0,2004,TBmeningitis
 Krabi,65+,0,2004,TBmeningitis
 Phangnga,65+,0,2004,TBmeningitis
 Phuket,65+,0,2004,TBmeningitis
-Zone 18,65+,0,2004,TBmeningitis
+Zone:18,65+,0,2004,TBmeningitis
 Narathiwat,65+,0,2004,TBmeningitis
 Pattani,65+,0,2004,TBmeningitis
 Yala,65+,0,2004,TBmeningitis
-Zone 19,65+,0,2004,TBmeningitis
+Zone:19,65+,0,2004,TBmeningitis
 Satun,65+,0,2004,TBmeningitis
 Songkhla,65+,0,2004,TBmeningitis
 Total,Unknown,5,2004,TBmeningitis
 North Region,Unknown,0,2004,TBmeningitis
-Zone 1,Unknown,0,2004,TBmeningitis
+Zone:1,Unknown,0,2004,TBmeningitis
 Chiang Mai,Unknown,0,2004,TBmeningitis
 Chiang Rai,Unknown,0,2004,TBmeningitis
 Lampang,Unknown,0,2004,TBmeningitis
@@ -13644,93 +13644,93 @@ Mae Hong Son,Unknown,0,2004,TBmeningitis
 Nan,Unknown,0,2004,TBmeningitis
 Phayao,Unknown,0,2004,TBmeningitis
 Phrae,Unknown,0,2004,TBmeningitis
-Zone 2,Unknown,0,2004,TBmeningitis
+Zone:2,Unknown,0,2004,TBmeningitis
 Phetchabun,Unknown,0,2004,TBmeningitis
 Phitsanulok,Unknown,0,2004,TBmeningitis
 Sukhothai,Unknown,0,2004,TBmeningitis
 Tak,Unknown,0,2004,TBmeningitis
 Uttaradit,Unknown,0,2004,TBmeningitis
-Zone 3,Unknown,0,2004,TBmeningitis
+Zone:3,Unknown,0,2004,TBmeningitis
 Kamphaeng Phet,Unknown,0,2004,TBmeningitis
 Nakhon Sawan,Unknown,0,2004,TBmeningitis
 Phichit,Unknown,0,2004,TBmeningitis
 Uthai Thani,Unknown,0,2004,TBmeningitis
 Central Region,Unknown,1,2004,TBmeningitis
 Bangkok,Unknown,1,2004,TBmeningitis
-Zone 4,Unknown,0,2004,TBmeningitis
+Zone:4,Unknown,0,2004,TBmeningitis
 Ang Thong,Unknown,0,2004,TBmeningitis
 Nonthaburi,Unknown,0,2004,TBmeningitis
 P.Nakhon S.Ayutthaya,Unknown,0,2004,TBmeningitis
 Pathum Thani,Unknown,0,2004,TBmeningitis
-Zone 5,Unknown,0,2004,TBmeningitis
+Zone:5,Unknown,0,2004,TBmeningitis
 Chai Nat,Unknown,0,2004,TBmeningitis
 Lop Buri,Unknown,0,2004,TBmeningitis
 Saraburi,Unknown,0,2004,TBmeningitis
 Sing Buri,Unknown,0,2004,TBmeningitis
-Zone 6,Unknown,0,2004,TBmeningitis
+Zone:6,Unknown,0,2004,TBmeningitis
 Kanchanaburi,Unknown,0,2004,TBmeningitis
 Nakhon Pathom,Unknown,0,2004,TBmeningitis
 Ratchaburi,Unknown,0,2004,TBmeningitis
 Suphan Buri,Unknown,0,2004,TBmeningitis
-Zone 7,Unknown,0,2004,TBmeningitis
+Zone:7,Unknown,0,2004,TBmeningitis
 Phetchaburi,Unknown,0,2004,TBmeningitis
 Prachuap Khiri Khan,Unknown,0,2004,TBmeningitis
 Samut Sakhon,Unknown,0,2004,TBmeningitis
 Samut Songkhram,Unknown,0,2004,TBmeningitis
-Zone 8,Unknown,0,2004,TBmeningitis
+Zone:8,Unknown,0,2004,TBmeningitis
 Chachoengsao,Unknown,0,2004,TBmeningitis
 Nakhon Nayok,Unknown,0,2004,TBmeningitis
 Prachin Buri,Unknown,0,2004,TBmeningitis
 Sa Kaeo,Unknown,0,2004,TBmeningitis
 Samut Prakan,Unknown,0,2004,TBmeningitis
-Zone 9,Unknown,0,2004,TBmeningitis
+Zone:9,Unknown,0,2004,TBmeningitis
 Chanthaburi,Unknown,0,2004,TBmeningitis
 Chon Buri,Unknown,0,2004,TBmeningitis
 Rayong,Unknown,0,2004,TBmeningitis
 Trat,Unknown,0,2004,TBmeningitis
 North-Eastern Region,Unknown,4,2004,TBmeningitis
-Zone 10,Unknown,0,2004,TBmeningitis
+Zone:10,Unknown,0,2004,TBmeningitis
 Loei,Unknown,0,2004,TBmeningitis
 Nong Bua Lam Phu,Unknown,0,2004,TBmeningitis
 Nong Khai,Unknown,0,2004,TBmeningitis
 Udon Thani,Unknown,0,2004,TBmeningitis
-Zone 11,Unknown,2,2004,TBmeningitis
+Zone:11,Unknown,2,2004,TBmeningitis
 Kalasin,Unknown,0,2004,TBmeningitis
 Mukdahan,Unknown,2,2004,TBmeningitis
 Nakhon Phanom,Unknown,0,2004,TBmeningitis
 Sakon Nakhon,Unknown,0,2004,TBmeningitis
-Zone 12,Unknown,0,2004,TBmeningitis
+Zone:12,Unknown,0,2004,TBmeningitis
 Khon Kaen,Unknown,0,2004,TBmeningitis
 Maha Sarakham,Unknown,0,2004,TBmeningitis
 Roi Et,Unknown,0,2004,TBmeningitis
-Zone 13,Unknown,0,2004,TBmeningitis
+Zone:13,Unknown,0,2004,TBmeningitis
 Buri Ram,Unknown,0,2004,TBmeningitis
 Chaiyaphum,Unknown,0,2004,TBmeningitis
 Nakhon Ratchasima,Unknown,0,2004,TBmeningitis
 Surin,Unknown,0,2004,TBmeningitis
-Zone 14,Unknown,2,2004,TBmeningitis
+Zone:14,Unknown,2,2004,TBmeningitis
 Amnat Charoen,Unknown,0,2004,TBmeningitis
 Si Sa Ket,Unknown,0,2004,TBmeningitis
 Ubon Ratchathani,Unknown,2,2004,TBmeningitis
 Yasothon,Unknown,0,2004,TBmeningitis
 South Region,Unknown,0,2004,TBmeningitis
-Zone 15,Unknown,0,2004,TBmeningitis
+Zone:15,Unknown,0,2004,TBmeningitis
 Chumphon,Unknown,0,2004,TBmeningitis
 Ranong,Unknown,0,2004,TBmeningitis
 Surat Thani,Unknown,0,2004,TBmeningitis
-Zone 16,Unknown,0,2004,TBmeningitis
+Zone:16,Unknown,0,2004,TBmeningitis
 Nakhon Si Thammarat,Unknown,0,2004,TBmeningitis
 Phatthalung,Unknown,0,2004,TBmeningitis
 Trang,Unknown,0,2004,TBmeningitis
-Zone 17,Unknown,0,2004,TBmeningitis
+Zone:17,Unknown,0,2004,TBmeningitis
 Krabi,Unknown,0,2004,TBmeningitis
 Phangnga,Unknown,0,2004,TBmeningitis
 Phuket,Unknown,0,2004,TBmeningitis
-Zone 18,Unknown,0,2004,TBmeningitis
+Zone:18,Unknown,0,2004,TBmeningitis
 Narathiwat,Unknown,0,2004,TBmeningitis
 Pattani,Unknown,0,2004,TBmeningitis
 Yala,Unknown,0,2004,TBmeningitis
-Zone 19,Unknown,0,2004,TBmeningitis
+Zone:19,Unknown,0,2004,TBmeningitis
 Satun,Unknown,0,2004,TBmeningitis
 Songkhla,Unknown,0,2004,TBmeningitis
 Total,Total,404,2022,TBmeningitis

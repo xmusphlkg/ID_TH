@@ -17173,7 +17173,7 @@ ZONE:13,Unknown,0,2023,Rubella
 Bangkok,Unknown,0,2023,Rubella
 Total,Total,379,2004,Rubella
 North Region,Total,53,2004,Rubella
-Zone 1,Total,19,2004,Rubella
+Zone:1,Total,19,2004,Rubella
 Chiang Mai,Total,10,2004,Rubella
 Chiang Rai,Total,4,2004,Rubella
 Lampang,Total,1,2004,Rubella
@@ -17182,98 +17182,98 @@ Mae Hong Son,Total,1,2004,Rubella
 Nan,Total,0,2004,Rubella
 Phayao,Total,2,2004,Rubella
 Phrae,Total,0,2004,Rubella
-Zone 2,Total,24,2004,Rubella
+Zone:2,Total,24,2004,Rubella
 Phetchabun,Total,11,2004,Rubella
 Phitsanulok,Total,7,2004,Rubella
 Sukhothai,Total,1,2004,Rubella
 Tak,Total,1,2004,Rubella
 Uttaradit,Total,4,2004,Rubella
-Zone 3,Total,10,2004,Rubella
+Zone:3,Total,10,2004,Rubella
 Kamphaeng Phet,Total,4,2004,Rubella
 Nakhon Sawan,Total,5,2004,Rubella
 Phichit,Total,1,2004,Rubella
 Uthai Thani,Total,0,2004,Rubella
 Central Region,Total,201,2004,Rubella
 Bangkok,Total,52,2004,Rubella
-Zone 4,Total,22,2004,Rubella
+Zone:4,Total,22,2004,Rubella
 Ang Thong,Total,1,2004,Rubella
 Nonthaburi,Total,9,2004,Rubella
 P.Nakhon S.Ayutthaya,Total,7,2004,Rubella
 Pathum Thani,Total,5,2004,Rubella
-Zone 5,Total,8,2004,Rubella
+Zone:5,Total,8,2004,Rubella
 Chai Nat,Total,2,2004,Rubella
 Lop Buri,Total,1,2004,Rubella
 Saraburi,Total,4,2004,Rubella
 Sing Buri,Total,1,2004,Rubella
-Zone 6,Total,45,2004,Rubella
+Zone:6,Total,45,2004,Rubella
 Kanchanaburi,Total,4,2004,Rubella
 Nakhon Pathom,Total,22,2004,Rubella
 Ratchaburi,Total,15,2004,Rubella
 Suphan Buri,Total,4,2004,Rubella
-Zone 7,Total,7,2004,Rubella
+Zone:7,Total,7,2004,Rubella
 Phetchaburi,Total,1,2004,Rubella
 Prachuap Khiri Khan,Total,0,2004,Rubella
 Samut Sakhon,Total,5,2004,Rubella
 Samut Songkhram,Total,1,2004,Rubella
-Zone 8,Total,36,2004,Rubella
+Zone:8,Total,36,2004,Rubella
 Chachoengsao,Total,17,2004,Rubella
 Nakhon Nayok,Total,2,2004,Rubella
 Prachin Buri,Total,4,2004,Rubella
 Sa Kaeo,Total,5,2004,Rubella
 Samut Prakan,Total,8,2004,Rubella
-Zone 9,Total,31,2004,Rubella
+Zone:9,Total,31,2004,Rubella
 Chanthaburi,Total,3,2004,Rubella
 Chon Buri,Total,8,2004,Rubella
 Rayong,Total,16,2004,Rubella
 Trat,Total,4,2004,Rubella
 North-Eastern Region,Total,62,2004,Rubella
-Zone 10,Total,3,2004,Rubella
+Zone:10,Total,3,2004,Rubella
 Loei,Total,0,2004,Rubella
 Nong Bua Lam Phu,Total,3,2004,Rubella
 Nong Khai,Total,0,2004,Rubella
 Udon Thani,Total,0,2004,Rubella
-Zone 11,Total,4,2004,Rubella
+Zone:11,Total,4,2004,Rubella
 Kalasin,Total,1,2004,Rubella
 Mukdahan,Total,1,2004,Rubella
 Nakhon Phanom,Total,0,2004,Rubella
 Sakon Nakhon,Total,2,2004,Rubella
-Zone 12,Total,6,2004,Rubella
+Zone:12,Total,6,2004,Rubella
 Khon Kaen,Total,1,2004,Rubella
 Maha Sarakham,Total,2,2004,Rubella
 Roi Et,Total,3,2004,Rubella
-Zone 13,Total,31,2004,Rubella
+Zone:13,Total,31,2004,Rubella
 Buri Ram,Total,0,2004,Rubella
 Chaiyaphum,Total,2,2004,Rubella
 Nakhon Ratchasima,Total,16,2004,Rubella
 Surin,Total,13,2004,Rubella
-Zone 14,Total,18,2004,Rubella
+Zone:14,Total,18,2004,Rubella
 Amnat Charoen,Total,2,2004,Rubella
 Si Sa Ket,Total,7,2004,Rubella
 Ubon Ratchathani,Total,8,2004,Rubella
 Yasothon,Total,1,2004,Rubella
 South Region,Total,63,2004,Rubella
-Zone 15,Total,17,2004,Rubella
+Zone:15,Total,17,2004,Rubella
 Chumphon,Total,9,2004,Rubella
 Ranong,Total,0,2004,Rubella
 Surat Thani,Total,8,2004,Rubella
-Zone 16,Total,10,2004,Rubella
+Zone:16,Total,10,2004,Rubella
 Nakhon Si Thammarat,Total,5,2004,Rubella
 Phatthalung,Total,3,2004,Rubella
 Trang,Total,2,2004,Rubella
-Zone 17,Total,3,2004,Rubella
+Zone:17,Total,3,2004,Rubella
 Krabi,Total,1,2004,Rubella
 Phangnga,Total,1,2004,Rubella
 Phuket,Total,1,2004,Rubella
-Zone 18,Total,7,2004,Rubella
+Zone:18,Total,7,2004,Rubella
 Narathiwat,Total,2,2004,Rubella
 Pattani,Total,2,2004,Rubella
 Yala,Total,3,2004,Rubella
-Zone 19,Total,26,2004,Rubella
+Zone:19,Total,26,2004,Rubella
 Satun,Total,0,2004,Rubella
 Songkhla,Total,26,2004,Rubella
 Total,0,0,2004,Rubella
 North Region,0,0,2004,Rubella
-Zone 1,0,0,2004,Rubella
+Zone:1,0,0,2004,Rubella
 Chiang Mai,0,0,2004,Rubella
 Chiang Rai,0,0,2004,Rubella
 Lampang,0,0,2004,Rubella
@@ -17282,98 +17282,98 @@ Mae Hong Son,0,0,2004,Rubella
 Nan,0,0,2004,Rubella
 Phayao,0,0,2004,Rubella
 Phrae,0,0,2004,Rubella
-Zone 2,0,0,2004,Rubella
+Zone:2,0,0,2004,Rubella
 Phetchabun,0,0,2004,Rubella
 Phitsanulok,0,0,2004,Rubella
 Sukhothai,0,0,2004,Rubella
 Tak,0,0,2004,Rubella
 Uttaradit,0,0,2004,Rubella
-Zone 3,0,0,2004,Rubella
+Zone:3,0,0,2004,Rubella
 Kamphaeng Phet,0,0,2004,Rubella
 Nakhon Sawan,0,0,2004,Rubella
 Phichit,0,0,2004,Rubella
 Uthai Thani,0,0,2004,Rubella
 Central Region,0,0,2004,Rubella
 Bangkok,0,0,2004,Rubella
-Zone 4,0,0,2004,Rubella
+Zone:4,0,0,2004,Rubella
 Ang Thong,0,0,2004,Rubella
 Nonthaburi,0,0,2004,Rubella
 P.Nakhon S.Ayutthaya,0,0,2004,Rubella
 Pathum Thani,0,0,2004,Rubella
-Zone 5,0,0,2004,Rubella
+Zone:5,0,0,2004,Rubella
 Chai Nat,0,0,2004,Rubella
 Lop Buri,0,0,2004,Rubella
 Saraburi,0,0,2004,Rubella
 Sing Buri,0,0,2004,Rubella
-Zone 6,0,0,2004,Rubella
+Zone:6,0,0,2004,Rubella
 Kanchanaburi,0,0,2004,Rubella
 Nakhon Pathom,0,0,2004,Rubella
 Ratchaburi,0,0,2004,Rubella
 Suphan Buri,0,0,2004,Rubella
-Zone 7,0,0,2004,Rubella
+Zone:7,0,0,2004,Rubella
 Phetchaburi,0,0,2004,Rubella
 Prachuap Khiri Khan,0,0,2004,Rubella
 Samut Sakhon,0,0,2004,Rubella
 Samut Songkhram,0,0,2004,Rubella
-Zone 8,0,0,2004,Rubella
+Zone:8,0,0,2004,Rubella
 Chachoengsao,0,0,2004,Rubella
 Nakhon Nayok,0,0,2004,Rubella
 Prachin Buri,0,0,2004,Rubella
 Sa Kaeo,0,0,2004,Rubella
 Samut Prakan,0,0,2004,Rubella
-Zone 9,0,0,2004,Rubella
+Zone:9,0,0,2004,Rubella
 Chanthaburi,0,0,2004,Rubella
 Chon Buri,0,0,2004,Rubella
 Rayong,0,0,2004,Rubella
 Trat,0,0,2004,Rubella
 North-Eastern Region,0,0,2004,Rubella
-Zone 10,0,0,2004,Rubella
+Zone:10,0,0,2004,Rubella
 Loei,0,0,2004,Rubella
 Nong Bua Lam Phu,0,0,2004,Rubella
 Nong Khai,0,0,2004,Rubella
 Udon Thani,0,0,2004,Rubella
-Zone 11,0,0,2004,Rubella
+Zone:11,0,0,2004,Rubella
 Kalasin,0,0,2004,Rubella
 Mukdahan,0,0,2004,Rubella
 Nakhon Phanom,0,0,2004,Rubella
 Sakon Nakhon,0,0,2004,Rubella
-Zone 12,0,0,2004,Rubella
+Zone:12,0,0,2004,Rubella
 Khon Kaen,0,0,2004,Rubella
 Maha Sarakham,0,0,2004,Rubella
 Roi Et,0,0,2004,Rubella
-Zone 13,0,0,2004,Rubella
+Zone:13,0,0,2004,Rubella
 Buri Ram,0,0,2004,Rubella
 Chaiyaphum,0,0,2004,Rubella
 Nakhon Ratchasima,0,0,2004,Rubella
 Surin,0,0,2004,Rubella
-Zone 14,0,0,2004,Rubella
+Zone:14,0,0,2004,Rubella
 Amnat Charoen,0,0,2004,Rubella
 Si Sa Ket,0,0,2004,Rubella
 Ubon Ratchathani,0,0,2004,Rubella
 Yasothon,0,0,2004,Rubella
 South Region,0,0,2004,Rubella
-Zone 15,0,0,2004,Rubella
+Zone:15,0,0,2004,Rubella
 Chumphon,0,0,2004,Rubella
 Ranong,0,0,2004,Rubella
 Surat Thani,0,0,2004,Rubella
-Zone 16,0,0,2004,Rubella
+Zone:16,0,0,2004,Rubella
 Nakhon Si Thammarat,0,0,2004,Rubella
 Phatthalung,0,0,2004,Rubella
 Trang,0,0,2004,Rubella
-Zone 17,0,0,2004,Rubella
+Zone:17,0,0,2004,Rubella
 Krabi,0,0,2004,Rubella
 Phangnga,0,0,2004,Rubella
 Phuket,0,0,2004,Rubella
-Zone 18,0,0,2004,Rubella
+Zone:18,0,0,2004,Rubella
 Narathiwat,0,0,2004,Rubella
 Pattani,0,0,2004,Rubella
 Yala,0,0,2004,Rubella
-Zone 19,0,0,2004,Rubella
+Zone:19,0,0,2004,Rubella
 Satun,0,0,2004,Rubella
 Songkhla,0,0,2004,Rubella
 Total,<1,41,2004,Rubella
 North Region,<1,5,2004,Rubella
-Zone 1,<1,1,2004,Rubella
+Zone:1,<1,1,2004,Rubella
 Chiang Mai,<1,1,2004,Rubella
 Chiang Rai,<1,0,2004,Rubella
 Lampang,<1,0,2004,Rubella
@@ -17382,98 +17382,98 @@ Mae Hong Son,<1,0,2004,Rubella
 Nan,<1,0,2004,Rubella
 Phayao,<1,0,2004,Rubella
 Phrae,<1,0,2004,Rubella
-Zone 2,<1,2,2004,Rubella
+Zone:2,<1,2,2004,Rubella
 Phetchabun,<1,1,2004,Rubella
 Phitsanulok,<1,0,2004,Rubella
 Sukhothai,<1,0,2004,Rubella
 Tak,<1,0,2004,Rubella
 Uttaradit,<1,1,2004,Rubella
-Zone 3,<1,2,2004,Rubella
+Zone:3,<1,2,2004,Rubella
 Kamphaeng Phet,<1,0,2004,Rubella
 Nakhon Sawan,<1,2,2004,Rubella
 Phichit,<1,0,2004,Rubella
 Uthai Thani,<1,0,2004,Rubella
 Central Region,<1,26,2004,Rubella
 Bangkok,<1,3,2004,Rubella
-Zone 4,<1,3,2004,Rubella
+Zone:4,<1,3,2004,Rubella
 Ang Thong,<1,0,2004,Rubella
 Nonthaburi,<1,0,2004,Rubella
 P.Nakhon S.Ayutthaya,<1,2,2004,Rubella
 Pathum Thani,<1,1,2004,Rubella
-Zone 5,<1,1,2004,Rubella
+Zone:5,<1,1,2004,Rubella
 Chai Nat,<1,0,2004,Rubella
 Lop Buri,<1,0,2004,Rubella
 Saraburi,<1,1,2004,Rubella
 Sing Buri,<1,0,2004,Rubella
-Zone 6,<1,7,2004,Rubella
+Zone:6,<1,7,2004,Rubella
 Kanchanaburi,<1,1,2004,Rubella
 Nakhon Pathom,<1,4,2004,Rubella
 Ratchaburi,<1,1,2004,Rubella
 Suphan Buri,<1,1,2004,Rubella
-Zone 7,<1,0,2004,Rubella
+Zone:7,<1,0,2004,Rubella
 Phetchaburi,<1,0,2004,Rubella
 Prachuap Khiri Khan,<1,0,2004,Rubella
 Samut Sakhon,<1,0,2004,Rubella
 Samut Songkhram,<1,0,2004,Rubella
-Zone 8,<1,8,2004,Rubella
+Zone:8,<1,8,2004,Rubella
 Chachoengsao,<1,2,2004,Rubella
 Nakhon Nayok,<1,0,2004,Rubella
 Prachin Buri,<1,0,2004,Rubella
 Sa Kaeo,<1,4,2004,Rubella
 Samut Prakan,<1,2,2004,Rubella
-Zone 9,<1,4,2004,Rubella
+Zone:9,<1,4,2004,Rubella
 Chanthaburi,<1,1,2004,Rubella
 Chon Buri,<1,1,2004,Rubella
 Rayong,<1,2,2004,Rubella
 Trat,<1,0,2004,Rubella
 North-Eastern Region,<1,7,2004,Rubella
-Zone 10,<1,0,2004,Rubella
+Zone:10,<1,0,2004,Rubella
 Loei,<1,0,2004,Rubella
 Nong Bua Lam Phu,<1,0,2004,Rubella
 Nong Khai,<1,0,2004,Rubella
 Udon Thani,<1,0,2004,Rubella
-Zone 11,<1,0,2004,Rubella
+Zone:11,<1,0,2004,Rubella
 Kalasin,<1,0,2004,Rubella
 Mukdahan,<1,0,2004,Rubella
 Nakhon Phanom,<1,0,2004,Rubella
 Sakon Nakhon,<1,0,2004,Rubella
-Zone 12,<1,0,2004,Rubella
+Zone:12,<1,0,2004,Rubella
 Khon Kaen,<1,0,2004,Rubella
 Maha Sarakham,<1,0,2004,Rubella
 Roi Et,<1,0,2004,Rubella
-Zone 13,<1,2,2004,Rubella
+Zone:13,<1,2,2004,Rubella
 Buri Ram,<1,0,2004,Rubella
 Chaiyaphum,<1,0,2004,Rubella
 Nakhon Ratchasima,<1,1,2004,Rubella
 Surin,<1,1,2004,Rubella
-Zone 14,<1,5,2004,Rubella
+Zone:14,<1,5,2004,Rubella
 Amnat Charoen,<1,1,2004,Rubella
 Si Sa Ket,<1,1,2004,Rubella
 Ubon Ratchathani,<1,3,2004,Rubella
 Yasothon,<1,0,2004,Rubella
 South Region,<1,3,2004,Rubella
-Zone 15,<1,1,2004,Rubella
+Zone:15,<1,1,2004,Rubella
 Chumphon,<1,0,2004,Rubella
 Ranong,<1,0,2004,Rubella
 Surat Thani,<1,1,2004,Rubella
-Zone 16,<1,0,2004,Rubella
+Zone:16,<1,0,2004,Rubella
 Nakhon Si Thammarat,<1,0,2004,Rubella
 Phatthalung,<1,0,2004,Rubella
 Trang,<1,0,2004,Rubella
-Zone 17,<1,0,2004,Rubella
+Zone:17,<1,0,2004,Rubella
 Krabi,<1,0,2004,Rubella
 Phangnga,<1,0,2004,Rubella
 Phuket,<1,0,2004,Rubella
-Zone 18,<1,1,2004,Rubella
+Zone:18,<1,1,2004,Rubella
 Narathiwat,<1,1,2004,Rubella
 Pattani,<1,0,2004,Rubella
 Yala,<1,0,2004,Rubella
-Zone 19,<1,1,2004,Rubella
+Zone:19,<1,1,2004,Rubella
 Satun,<1,0,2004,Rubella
 Songkhla,<1,1,2004,Rubella
 Total,1-1,23,2004,Rubella
 North Region,1-1,1,2004,Rubella
-Zone 1,1-1,1,2004,Rubella
+Zone:1,1-1,1,2004,Rubella
 Chiang Mai,1-1,1,2004,Rubella
 Chiang Rai,1-1,0,2004,Rubella
 Lampang,1-1,0,2004,Rubella
@@ -17482,98 +17482,98 @@ Mae Hong Son,1-1,0,2004,Rubella
 Nan,1-1,0,2004,Rubella
 Phayao,1-1,0,2004,Rubella
 Phrae,1-1,0,2004,Rubella
-Zone 2,1-1,0,2004,Rubella
+Zone:2,1-1,0,2004,Rubella
 Phetchabun,1-1,0,2004,Rubella
 Phitsanulok,1-1,0,2004,Rubella
 Sukhothai,1-1,0,2004,Rubella
 Tak,1-1,0,2004,Rubella
 Uttaradit,1-1,0,2004,Rubella
-Zone 3,1-1,0,2004,Rubella
+Zone:3,1-1,0,2004,Rubella
 Kamphaeng Phet,1-1,0,2004,Rubella
 Nakhon Sawan,1-1,0,2004,Rubella
 Phichit,1-1,0,2004,Rubella
 Uthai Thani,1-1,0,2004,Rubella
 Central Region,1-1,13,2004,Rubella
 Bangkok,1-1,1,2004,Rubella
-Zone 4,1-1,2,2004,Rubella
+Zone:4,1-1,2,2004,Rubella
 Ang Thong,1-1,0,2004,Rubella
 Nonthaburi,1-1,1,2004,Rubella
 P.Nakhon S.Ayutthaya,1-1,0,2004,Rubella
 Pathum Thani,1-1,1,2004,Rubella
-Zone 5,1-1,0,2004,Rubella
+Zone:5,1-1,0,2004,Rubella
 Chai Nat,1-1,0,2004,Rubella
 Lop Buri,1-1,0,2004,Rubella
 Saraburi,1-1,0,2004,Rubella
 Sing Buri,1-1,0,2004,Rubella
-Zone 6,1-1,4,2004,Rubella
+Zone:6,1-1,4,2004,Rubella
 Kanchanaburi,1-1,1,2004,Rubella
 Nakhon Pathom,1-1,2,2004,Rubella
 Ratchaburi,1-1,1,2004,Rubella
 Suphan Buri,1-1,0,2004,Rubella
-Zone 7,1-1,0,2004,Rubella
+Zone:7,1-1,0,2004,Rubella
 Phetchaburi,1-1,0,2004,Rubella
 Prachuap Khiri Khan,1-1,0,2004,Rubella
 Samut Sakhon,1-1,0,2004,Rubella
 Samut Songkhram,1-1,0,2004,Rubella
-Zone 8,1-1,2,2004,Rubella
+Zone:8,1-1,2,2004,Rubella
 Chachoengsao,1-1,1,2004,Rubella
 Nakhon Nayok,1-1,1,2004,Rubella
 Prachin Buri,1-1,0,2004,Rubella
 Sa Kaeo,1-1,0,2004,Rubella
 Samut Prakan,1-1,0,2004,Rubella
-Zone 9,1-1,4,2004,Rubella
+Zone:9,1-1,4,2004,Rubella
 Chanthaburi,1-1,0,2004,Rubella
 Chon Buri,1-1,1,2004,Rubella
 Rayong,1-1,2,2004,Rubella
 Trat,1-1,1,2004,Rubella
 North-Eastern Region,1-1,5,2004,Rubella
-Zone 10,1-1,0,2004,Rubella
+Zone:10,1-1,0,2004,Rubella
 Loei,1-1,0,2004,Rubella
 Nong Bua Lam Phu,1-1,0,2004,Rubella
 Nong Khai,1-1,0,2004,Rubella
 Udon Thani,1-1,0,2004,Rubella
-Zone 11,1-1,0,2004,Rubella
+Zone:11,1-1,0,2004,Rubella
 Kalasin,1-1,0,2004,Rubella
 Mukdahan,1-1,0,2004,Rubella
 Nakhon Phanom,1-1,0,2004,Rubella
 Sakon Nakhon,1-1,0,2004,Rubella
-Zone 12,1-1,0,2004,Rubella
+Zone:12,1-1,0,2004,Rubella
 Khon Kaen,1-1,0,2004,Rubella
 Maha Sarakham,1-1,0,2004,Rubella
 Roi Et,1-1,0,2004,Rubella
-Zone 13,1-1,4,2004,Rubella
+Zone:13,1-1,4,2004,Rubella
 Buri Ram,1-1,0,2004,Rubella
 Chaiyaphum,1-1,0,2004,Rubella
 Nakhon Ratchasima,1-1,3,2004,Rubella
 Surin,1-1,1,2004,Rubella
-Zone 14,1-1,1,2004,Rubella
+Zone:14,1-1,1,2004,Rubella
 Amnat Charoen,1-1,0,2004,Rubella
 Si Sa Ket,1-1,1,2004,Rubella
 Ubon Ratchathani,1-1,0,2004,Rubella
 Yasothon,1-1,0,2004,Rubella
 South Region,1-1,4,2004,Rubella
-Zone 15,1-1,0,2004,Rubella
+Zone:15,1-1,0,2004,Rubella
 Chumphon,1-1,0,2004,Rubella
 Ranong,1-1,0,2004,Rubella
 Surat Thani,1-1,0,2004,Rubella
-Zone 16,1-1,0,2004,Rubella
+Zone:16,1-1,0,2004,Rubella
 Nakhon Si Thammarat,1-1,0,2004,Rubella
 Phatthalung,1-1,0,2004,Rubella
 Trang,1-1,0,2004,Rubella
-Zone 17,1-1,0,2004,Rubella
+Zone:17,1-1,0,2004,Rubella
 Krabi,1-1,0,2004,Rubella
 Phangnga,1-1,0,2004,Rubella
 Phuket,1-1,0,2004,Rubella
-Zone 18,1-1,2,2004,Rubella
+Zone:18,1-1,2,2004,Rubella
 Narathiwat,1-1,0,2004,Rubella
 Pattani,1-1,1,2004,Rubella
 Yala,1-1,1,2004,Rubella
-Zone 19,1-1,2,2004,Rubella
+Zone:19,1-1,2,2004,Rubella
 Satun,1-1,0,2004,Rubella
 Songkhla,1-1,2,2004,Rubella
 Total,2-2,9,2004,Rubella
 North Region,2-2,1,2004,Rubella
-Zone 1,2-2,0,2004,Rubella
+Zone:1,2-2,0,2004,Rubella
 Chiang Mai,2-2,0,2004,Rubella
 Chiang Rai,2-2,0,2004,Rubella
 Lampang,2-2,0,2004,Rubella
@@ -17582,98 +17582,98 @@ Mae Hong Son,2-2,0,2004,Rubella
 Nan,2-2,0,2004,Rubella
 Phayao,2-2,0,2004,Rubella
 Phrae,2-2,0,2004,Rubella
-Zone 2,2-2,1,2004,Rubella
+Zone:2,2-2,1,2004,Rubella
 Phetchabun,2-2,1,2004,Rubella
 Phitsanulok,2-2,0,2004,Rubella
 Sukhothai,2-2,0,2004,Rubella
 Tak,2-2,0,2004,Rubella
 Uttaradit,2-2,0,2004,Rubella
-Zone 3,2-2,0,2004,Rubella
+Zone:3,2-2,0,2004,Rubella
 Kamphaeng Phet,2-2,0,2004,Rubella
 Nakhon Sawan,2-2,0,2004,Rubella
 Phichit,2-2,0,2004,Rubella
 Uthai Thani,2-2,0,2004,Rubella
 Central Region,2-2,2,2004,Rubella
 Bangkok,2-2,0,2004,Rubella
-Zone 4,2-2,1,2004,Rubella
+Zone:4,2-2,1,2004,Rubella
 Ang Thong,2-2,0,2004,Rubella
 Nonthaburi,2-2,0,2004,Rubella
 P.Nakhon S.Ayutthaya,2-2,0,2004,Rubella
 Pathum Thani,2-2,1,2004,Rubella
-Zone 5,2-2,0,2004,Rubella
+Zone:5,2-2,0,2004,Rubella
 Chai Nat,2-2,0,2004,Rubella
 Lop Buri,2-2,0,2004,Rubella
 Saraburi,2-2,0,2004,Rubella
 Sing Buri,2-2,0,2004,Rubella
-Zone 6,2-2,0,2004,Rubella
+Zone:6,2-2,0,2004,Rubella
 Kanchanaburi,2-2,0,2004,Rubella
 Nakhon Pathom,2-2,0,2004,Rubella
 Ratchaburi,2-2,0,2004,Rubella
 Suphan Buri,2-2,0,2004,Rubella
-Zone 7,2-2,0,2004,Rubella
+Zone:7,2-2,0,2004,Rubella
 Phetchaburi,2-2,0,2004,Rubella
 Prachuap Khiri Khan,2-2,0,2004,Rubella
 Samut Sakhon,2-2,0,2004,Rubella
 Samut Songkhram,2-2,0,2004,Rubella
-Zone 8,2-2,0,2004,Rubella
+Zone:8,2-2,0,2004,Rubella
 Chachoengsao,2-2,0,2004,Rubella
 Nakhon Nayok,2-2,0,2004,Rubella
 Prachin Buri,2-2,0,2004,Rubella
 Sa Kaeo,2-2,0,2004,Rubella
 Samut Prakan,2-2,0,2004,Rubella
-Zone 9,2-2,1,2004,Rubella
+Zone:9,2-2,1,2004,Rubella
 Chanthaburi,2-2,0,2004,Rubella
 Chon Buri,2-2,1,2004,Rubella
 Rayong,2-2,0,2004,Rubella
 Trat,2-2,0,2004,Rubella
 North-Eastern Region,2-2,5,2004,Rubella
-Zone 10,2-2,0,2004,Rubella
+Zone:10,2-2,0,2004,Rubella
 Loei,2-2,0,2004,Rubella
 Nong Bua Lam Phu,2-2,0,2004,Rubella
 Nong Khai,2-2,0,2004,Rubella
 Udon Thani,2-2,0,2004,Rubella
-Zone 11,2-2,0,2004,Rubella
+Zone:11,2-2,0,2004,Rubella
 Kalasin,2-2,0,2004,Rubella
 Mukdahan,2-2,0,2004,Rubella
 Nakhon Phanom,2-2,0,2004,Rubella
 Sakon Nakhon,2-2,0,2004,Rubella
-Zone 12,2-2,1,2004,Rubella
+Zone:12,2-2,1,2004,Rubella
 Khon Kaen,2-2,0,2004,Rubella
 Maha Sarakham,2-2,0,2004,Rubella
 Roi Et,2-2,1,2004,Rubella
-Zone 13,2-2,3,2004,Rubella
+Zone:13,2-2,3,2004,Rubella
 Buri Ram,2-2,0,2004,Rubella
 Chaiyaphum,2-2,0,2004,Rubella
 Nakhon Ratchasima,2-2,1,2004,Rubella
 Surin,2-2,2,2004,Rubella
-Zone 14,2-2,1,2004,Rubella
+Zone:14,2-2,1,2004,Rubella
 Amnat Charoen,2-2,0,2004,Rubella
 Si Sa Ket,2-2,1,2004,Rubella
 Ubon Ratchathani,2-2,0,2004,Rubella
 Yasothon,2-2,0,2004,Rubella
 South Region,2-2,1,2004,Rubella
-Zone 15,2-2,1,2004,Rubella
+Zone:15,2-2,1,2004,Rubella
 Chumphon,2-2,0,2004,Rubella
 Ranong,2-2,0,2004,Rubella
 Surat Thani,2-2,1,2004,Rubella
-Zone 16,2-2,0,2004,Rubella
+Zone:16,2-2,0,2004,Rubella
 Nakhon Si Thammarat,2-2,0,2004,Rubella
 Phatthalung,2-2,0,2004,Rubella
 Trang,2-2,0,2004,Rubella
-Zone 17,2-2,0,2004,Rubella
+Zone:17,2-2,0,2004,Rubella
 Krabi,2-2,0,2004,Rubella
 Phangnga,2-2,0,2004,Rubella
 Phuket,2-2,0,2004,Rubella
-Zone 18,2-2,0,2004,Rubella
+Zone:18,2-2,0,2004,Rubella
 Narathiwat,2-2,0,2004,Rubella
 Pattani,2-2,0,2004,Rubella
 Yala,2-2,0,2004,Rubella
-Zone 19,2-2,0,2004,Rubella
+Zone:19,2-2,0,2004,Rubella
 Satun,2-2,0,2004,Rubella
 Songkhla,2-2,0,2004,Rubella
 Total,3-3,9,2004,Rubella
 North Region,3-3,2,2004,Rubella
-Zone 1,3-3,0,2004,Rubella
+Zone:1,3-3,0,2004,Rubella
 Chiang Mai,3-3,0,2004,Rubella
 Chiang Rai,3-3,0,2004,Rubella
 Lampang,3-3,0,2004,Rubella
@@ -17682,98 +17682,98 @@ Mae Hong Son,3-3,0,2004,Rubella
 Nan,3-3,0,2004,Rubella
 Phayao,3-3,0,2004,Rubella
 Phrae,3-3,0,2004,Rubella
-Zone 2,3-3,1,2004,Rubella
+Zone:2,3-3,1,2004,Rubella
 Phetchabun,3-3,0,2004,Rubella
 Phitsanulok,3-3,1,2004,Rubella
 Sukhothai,3-3,0,2004,Rubella
 Tak,3-3,0,2004,Rubella
 Uttaradit,3-3,0,2004,Rubella
-Zone 3,3-3,1,2004,Rubella
+Zone:3,3-3,1,2004,Rubella
 Kamphaeng Phet,3-3,1,2004,Rubella
 Nakhon Sawan,3-3,0,2004,Rubella
 Phichit,3-3,0,2004,Rubella
 Uthai Thani,3-3,0,2004,Rubella
 Central Region,3-3,6,2004,Rubella
 Bangkok,3-3,1,2004,Rubella
-Zone 4,3-3,0,2004,Rubella
+Zone:4,3-3,0,2004,Rubella
 Ang Thong,3-3,0,2004,Rubella
 Nonthaburi,3-3,0,2004,Rubella
 P.Nakhon S.Ayutthaya,3-3,0,2004,Rubella
 Pathum Thani,3-3,0,2004,Rubella
-Zone 5,3-3,1,2004,Rubella
+Zone:5,3-3,1,2004,Rubella
 Chai Nat,3-3,1,2004,Rubella
 Lop Buri,3-3,0,2004,Rubella
 Saraburi,3-3,0,2004,Rubella
 Sing Buri,3-3,0,2004,Rubella
-Zone 6,3-3,1,2004,Rubella
+Zone:6,3-3,1,2004,Rubella
 Kanchanaburi,3-3,1,2004,Rubella
 Nakhon Pathom,3-3,0,2004,Rubella
 Ratchaburi,3-3,0,2004,Rubella
 Suphan Buri,3-3,0,2004,Rubella
-Zone 7,3-3,1,2004,Rubella
+Zone:7,3-3,1,2004,Rubella
 Phetchaburi,3-3,0,2004,Rubella
 Prachuap Khiri Khan,3-3,0,2004,Rubella
 Samut Sakhon,3-3,1,2004,Rubella
 Samut Songkhram,3-3,0,2004,Rubella
-Zone 8,3-3,2,2004,Rubella
+Zone:8,3-3,2,2004,Rubella
 Chachoengsao,3-3,1,2004,Rubella
 Nakhon Nayok,3-3,0,2004,Rubella
 Prachin Buri,3-3,0,2004,Rubella
 Sa Kaeo,3-3,0,2004,Rubella
 Samut Prakan,3-3,1,2004,Rubella
-Zone 9,3-3,0,2004,Rubella
+Zone:9,3-3,0,2004,Rubella
 Chanthaburi,3-3,0,2004,Rubella
 Chon Buri,3-3,0,2004,Rubella
 Rayong,3-3,0,2004,Rubella
 Trat,3-3,0,2004,Rubella
 North-Eastern Region,3-3,0,2004,Rubella
-Zone 10,3-3,0,2004,Rubella
+Zone:10,3-3,0,2004,Rubella
 Loei,3-3,0,2004,Rubella
 Nong Bua Lam Phu,3-3,0,2004,Rubella
 Nong Khai,3-3,0,2004,Rubella
 Udon Thani,3-3,0,2004,Rubella
-Zone 11,3-3,0,2004,Rubella
+Zone:11,3-3,0,2004,Rubella
 Kalasin,3-3,0,2004,Rubella
 Mukdahan,3-3,0,2004,Rubella
 Nakhon Phanom,3-3,0,2004,Rubella
 Sakon Nakhon,3-3,0,2004,Rubella
-Zone 12,3-3,0,2004,Rubella
+Zone:12,3-3,0,2004,Rubella
 Khon Kaen,3-3,0,2004,Rubella
 Maha Sarakham,3-3,0,2004,Rubella
 Roi Et,3-3,0,2004,Rubella
-Zone 13,3-3,0,2004,Rubella
+Zone:13,3-3,0,2004,Rubella
 Buri Ram,3-3,0,2004,Rubella
 Chaiyaphum,3-3,0,2004,Rubella
 Nakhon Ratchasima,3-3,0,2004,Rubella
 Surin,3-3,0,2004,Rubella
-Zone 14,3-3,0,2004,Rubella
+Zone:14,3-3,0,2004,Rubella
 Amnat Charoen,3-3,0,2004,Rubella
 Si Sa Ket,3-3,0,2004,Rubella
 Ubon Ratchathani,3-3,0,2004,Rubella
 Yasothon,3-3,0,2004,Rubella
 South Region,3-3,1,2004,Rubella
-Zone 15,3-3,0,2004,Rubella
+Zone:15,3-3,0,2004,Rubella
 Chumphon,3-3,0,2004,Rubella
 Ranong,3-3,0,2004,Rubella
 Surat Thani,3-3,0,2004,Rubella
-Zone 16,3-3,1,2004,Rubella
+Zone:16,3-3,1,2004,Rubella
 Nakhon Si Thammarat,3-3,0,2004,Rubella
 Phatthalung,3-3,1,2004,Rubella
 Trang,3-3,0,2004,Rubella
-Zone 17,3-3,0,2004,Rubella
+Zone:17,3-3,0,2004,Rubella
 Krabi,3-3,0,2004,Rubella
 Phangnga,3-3,0,2004,Rubella
 Phuket,3-3,0,2004,Rubella
-Zone 18,3-3,0,2004,Rubella
+Zone:18,3-3,0,2004,Rubella
 Narathiwat,3-3,0,2004,Rubella
 Pattani,3-3,0,2004,Rubella
 Yala,3-3,0,2004,Rubella
-Zone 19,3-3,0,2004,Rubella
+Zone:19,3-3,0,2004,Rubella
 Satun,3-3,0,2004,Rubella
 Songkhla,3-3,0,2004,Rubella
 Total,4-4,10,2004,Rubella
 North Region,4-4,2,2004,Rubella
-Zone 1,4-4,2,2004,Rubella
+Zone:1,4-4,2,2004,Rubella
 Chiang Mai,4-4,0,2004,Rubella
 Chiang Rai,4-4,0,2004,Rubella
 Lampang,4-4,0,2004,Rubella
@@ -17782,98 +17782,98 @@ Mae Hong Son,4-4,0,2004,Rubella
 Nan,4-4,0,2004,Rubella
 Phayao,4-4,1,2004,Rubella
 Phrae,4-4,0,2004,Rubella
-Zone 2,4-4,0,2004,Rubella
+Zone:2,4-4,0,2004,Rubella
 Phetchabun,4-4,0,2004,Rubella
 Phitsanulok,4-4,0,2004,Rubella
 Sukhothai,4-4,0,2004,Rubella
 Tak,4-4,0,2004,Rubella
 Uttaradit,4-4,0,2004,Rubella
-Zone 3,4-4,0,2004,Rubella
+Zone:3,4-4,0,2004,Rubella
 Kamphaeng Phet,4-4,0,2004,Rubella
 Nakhon Sawan,4-4,0,2004,Rubella
 Phichit,4-4,0,2004,Rubella
 Uthai Thani,4-4,0,2004,Rubella
 Central Region,4-4,5,2004,Rubella
 Bangkok,4-4,1,2004,Rubella
-Zone 4,4-4,0,2004,Rubella
+Zone:4,4-4,0,2004,Rubella
 Ang Thong,4-4,0,2004,Rubella
 Nonthaburi,4-4,0,2004,Rubella
 P.Nakhon S.Ayutthaya,4-4,0,2004,Rubella
 Pathum Thani,4-4,0,2004,Rubella
-Zone 5,4-4,1,2004,Rubella
+Zone:5,4-4,1,2004,Rubella
 Chai Nat,4-4,0,2004,Rubella
 Lop Buri,4-4,1,2004,Rubella
 Saraburi,4-4,0,2004,Rubella
 Sing Buri,4-4,0,2004,Rubella
-Zone 6,4-4,1,2004,Rubella
+Zone:6,4-4,1,2004,Rubella
 Kanchanaburi,4-4,0,2004,Rubella
 Nakhon Pathom,4-4,0,2004,Rubella
 Ratchaburi,4-4,1,2004,Rubella
 Suphan Buri,4-4,0,2004,Rubella
-Zone 7,4-4,1,2004,Rubella
+Zone:7,4-4,1,2004,Rubella
 Phetchaburi,4-4,0,2004,Rubella
 Prachuap Khiri Khan,4-4,0,2004,Rubella
 Samut Sakhon,4-4,0,2004,Rubella
 Samut Songkhram,4-4,1,2004,Rubella
-Zone 8,4-4,0,2004,Rubella
+Zone:8,4-4,0,2004,Rubella
 Chachoengsao,4-4,0,2004,Rubella
 Nakhon Nayok,4-4,0,2004,Rubella
 Prachin Buri,4-4,0,2004,Rubella
 Sa Kaeo,4-4,0,2004,Rubella
 Samut Prakan,4-4,0,2004,Rubella
-Zone 9,4-4,1,2004,Rubella
+Zone:9,4-4,1,2004,Rubella
 Chanthaburi,4-4,0,2004,Rubella
 Chon Buri,4-4,0,2004,Rubella
 Rayong,4-4,1,2004,Rubella
 Trat,4-4,0,2004,Rubella
 North-Eastern Region,4-4,1,2004,Rubella
-Zone 10,4-4,0,2004,Rubella
+Zone:10,4-4,0,2004,Rubella
 Loei,4-4,0,2004,Rubella
 Nong Bua Lam Phu,4-4,0,2004,Rubella
 Nong Khai,4-4,0,2004,Rubella
 Udon Thani,4-4,0,2004,Rubella
-Zone 11,4-4,0,2004,Rubella
+Zone:11,4-4,0,2004,Rubella
 Kalasin,4-4,0,2004,Rubella
 Mukdahan,4-4,0,2004,Rubella
 Nakhon Phanom,4-4,0,2004,Rubella
 Sakon Nakhon,4-4,0,2004,Rubella
-Zone 12,4-4,1,2004,Rubella
+Zone:12,4-4,1,2004,Rubella
 Khon Kaen,4-4,0,2004,Rubella
 Maha Sarakham,4-4,0,2004,Rubella
 Roi Et,4-4,1,2004,Rubella
-Zone 13,4-4,0,2004,Rubella
+Zone:13,4-4,0,2004,Rubella
 Buri Ram,4-4,0,2004,Rubella
 Chaiyaphum,4-4,0,2004,Rubella
 Nakhon Ratchasima,4-4,0,2004,Rubella
 Surin,4-4,0,2004,Rubella
-Zone 14,4-4,0,2004,Rubella
+Zone:14,4-4,0,2004,Rubella
 Amnat Charoen,4-4,0,2004,Rubella
 Si Sa Ket,4-4,0,2004,Rubella
 Ubon Ratchathani,4-4,0,2004,Rubella
 Yasothon,4-4,0,2004,Rubella
 South Region,4-4,2,2004,Rubella
-Zone 15,4-4,0,2004,Rubella
+Zone:15,4-4,0,2004,Rubella
 Chumphon,4-4,0,2004,Rubella
 Ranong,4-4,0,2004,Rubella
 Surat Thani,4-4,0,2004,Rubella
-Zone 16,4-4,1,2004,Rubella
+Zone:16,4-4,1,2004,Rubella
 Nakhon Si Thammarat,4-4,0,2004,Rubella
 Phatthalung,4-4,1,2004,Rubella
 Trang,4-4,0,2004,Rubella
-Zone 17,4-4,0,2004,Rubella
+Zone:17,4-4,0,2004,Rubella
 Krabi,4-4,0,2004,Rubella
 Phangnga,4-4,0,2004,Rubella
 Phuket,4-4,0,2004,Rubella
-Zone 18,4-4,0,2004,Rubella
+Zone:18,4-4,0,2004,Rubella
 Narathiwat,4-4,0,2004,Rubella
 Pattani,4-4,0,2004,Rubella
 Yala,4-4,0,2004,Rubella
-Zone 19,4-4,1,2004,Rubella
+Zone:19,4-4,1,2004,Rubella
 Satun,4-4,0,2004,Rubella
 Songkhla,4-4,1,2004,Rubella
 Total,5-5,11,2004,Rubella
 North Region,5-5,1,2004,Rubella
-Zone 1,5-5,0,2004,Rubella
+Zone:1,5-5,0,2004,Rubella
 Chiang Mai,5-5,0,2004,Rubella
 Chiang Rai,5-5,0,2004,Rubella
 Lampang,5-5,0,2004,Rubella
@@ -17882,98 +17882,98 @@ Mae Hong Son,5-5,0,2004,Rubella
 Nan,5-5,0,2004,Rubella
 Phayao,5-5,0,2004,Rubella
 Phrae,5-5,0,2004,Rubella
-Zone 2,5-5,1,2004,Rubella
+Zone:2,5-5,1,2004,Rubella
 Phetchabun,5-5,0,2004,Rubella
 Phitsanulok,5-5,0,2004,Rubella
 Sukhothai,5-5,0,2004,Rubella
 Tak,5-5,1,2004,Rubella
 Uttaradit,5-5,0,2004,Rubella
-Zone 3,5-5,0,2004,Rubella
+Zone:3,5-5,0,2004,Rubella
 Kamphaeng Phet,5-5,0,2004,Rubella
 Nakhon Sawan,5-5,0,2004,Rubella
 Phichit,5-5,0,2004,Rubella
 Uthai Thani,5-5,0,2004,Rubella
 Central Region,5-5,5,2004,Rubella
 Bangkok,5-5,1,2004,Rubella
-Zone 4,5-5,0,2004,Rubella
+Zone:4,5-5,0,2004,Rubella
 Ang Thong,5-5,0,2004,Rubella
 Nonthaburi,5-5,0,2004,Rubella
 P.Nakhon S.Ayutthaya,5-5,0,2004,Rubella
 Pathum Thani,5-5,0,2004,Rubella
-Zone 5,5-5,1,2004,Rubella
+Zone:5,5-5,1,2004,Rubella
 Chai Nat,5-5,0,2004,Rubella
 Lop Buri,5-5,0,2004,Rubella
 Saraburi,5-5,1,2004,Rubella
 Sing Buri,5-5,0,2004,Rubella
-Zone 6,5-5,0,2004,Rubella
+Zone:6,5-5,0,2004,Rubella
 Kanchanaburi,5-5,0,2004,Rubella
 Nakhon Pathom,5-5,0,2004,Rubella
 Ratchaburi,5-5,0,2004,Rubella
 Suphan Buri,5-5,0,2004,Rubella
-Zone 7,5-5,0,2004,Rubella
+Zone:7,5-5,0,2004,Rubella
 Phetchaburi,5-5,0,2004,Rubella
 Prachuap Khiri Khan,5-5,0,2004,Rubella
 Samut Sakhon,5-5,0,2004,Rubella
 Samut Songkhram,5-5,0,2004,Rubella
-Zone 8,5-5,1,2004,Rubella
+Zone:8,5-5,1,2004,Rubella
 Chachoengsao,5-5,1,2004,Rubella
 Nakhon Nayok,5-5,0,2004,Rubella
 Prachin Buri,5-5,0,2004,Rubella
 Sa Kaeo,5-5,0,2004,Rubella
 Samut Prakan,5-5,0,2004,Rubella
-Zone 9,5-5,2,2004,Rubella
+Zone:9,5-5,2,2004,Rubella
 Chanthaburi,5-5,1,2004,Rubella
 Chon Buri,5-5,0,2004,Rubella
 Rayong,5-5,0,2004,Rubella
 Trat,5-5,1,2004,Rubella
 North-Eastern Region,5-5,4,2004,Rubella
-Zone 10,5-5,0,2004,Rubella
+Zone:10,5-5,0,2004,Rubella
 Loei,5-5,0,2004,Rubella
 Nong Bua Lam Phu,5-5,0,2004,Rubella
 Nong Khai,5-5,0,2004,Rubella
 Udon Thani,5-5,0,2004,Rubella
-Zone 11,5-5,0,2004,Rubella
+Zone:11,5-5,0,2004,Rubella
 Kalasin,5-5,0,2004,Rubella
 Mukdahan,5-5,0,2004,Rubella
 Nakhon Phanom,5-5,0,2004,Rubella
 Sakon Nakhon,5-5,0,2004,Rubella
-Zone 12,5-5,0,2004,Rubella
+Zone:12,5-5,0,2004,Rubella
 Khon Kaen,5-5,0,2004,Rubella
 Maha Sarakham,5-5,0,2004,Rubella
 Roi Et,5-5,0,2004,Rubella
-Zone 13,5-5,4,2004,Rubella
+Zone:13,5-5,4,2004,Rubella
 Buri Ram,5-5,0,2004,Rubella
 Chaiyaphum,5-5,0,2004,Rubella
 Nakhon Ratchasima,5-5,2,2004,Rubella
 Surin,5-5,2,2004,Rubella
-Zone 14,5-5,0,2004,Rubella
+Zone:14,5-5,0,2004,Rubella
 Amnat Charoen,5-5,0,2004,Rubella
 Si Sa Ket,5-5,0,2004,Rubella
 Ubon Ratchathani,5-5,0,2004,Rubella
 Yasothon,5-5,0,2004,Rubella
 South Region,5-5,1,2004,Rubella
-Zone 15,5-5,0,2004,Rubella
+Zone:15,5-5,0,2004,Rubella
 Chumphon,5-5,0,2004,Rubella
 Ranong,5-5,0,2004,Rubella
 Surat Thani,5-5,0,2004,Rubella
-Zone 16,5-5,1,2004,Rubella
+Zone:16,5-5,1,2004,Rubella
 Nakhon Si Thammarat,5-5,0,2004,Rubella
 Phatthalung,5-5,0,2004,Rubella
 Trang,5-5,1,2004,Rubella
-Zone 17,5-5,0,2004,Rubella
+Zone:17,5-5,0,2004,Rubella
 Krabi,5-5,0,2004,Rubella
 Phangnga,5-5,0,2004,Rubella
 Phuket,5-5,0,2004,Rubella
-Zone 18,5-5,0,2004,Rubella
+Zone:18,5-5,0,2004,Rubella
 Narathiwat,5-5,0,2004,Rubella
 Pattani,5-5,0,2004,Rubella
 Yala,5-5,0,2004,Rubella
-Zone 19,5-5,0,2004,Rubella
+Zone:19,5-5,0,2004,Rubella
 Satun,5-5,0,2004,Rubella
 Songkhla,5-5,0,2004,Rubella
 Total,6-6,3,2004,Rubella
 North Region,6-6,0,2004,Rubella
-Zone 1,6-6,0,2004,Rubella
+Zone:1,6-6,0,2004,Rubella
 Chiang Mai,6-6,0,2004,Rubella
 Chiang Rai,6-6,0,2004,Rubella
 Lampang,6-6,0,2004,Rubella
@@ -17982,98 +17982,98 @@ Mae Hong Son,6-6,0,2004,Rubella
 Nan,6-6,0,2004,Rubella
 Phayao,6-6,0,2004,Rubella
 Phrae,6-6,0,2004,Rubella
-Zone 2,6-6,0,2004,Rubella
+Zone:2,6-6,0,2004,Rubella
 Phetchabun,6-6,0,2004,Rubella
 Phitsanulok,6-6,0,2004,Rubella
 Sukhothai,6-6,0,2004,Rubella
 Tak,6-6,0,2004,Rubella
 Uttaradit,6-6,0,2004,Rubella
-Zone 3,6-6,0,2004,Rubella
+Zone:3,6-6,0,2004,Rubella
 Kamphaeng Phet,6-6,0,2004,Rubella
 Nakhon Sawan,6-6,0,2004,Rubella
 Phichit,6-6,0,2004,Rubella
 Uthai Thani,6-6,0,2004,Rubella
 Central Region,6-6,0,2004,Rubella
 Bangkok,6-6,0,2004,Rubella
-Zone 4,6-6,0,2004,Rubella
+Zone:4,6-6,0,2004,Rubella
 Ang Thong,6-6,0,2004,Rubella
 Nonthaburi,6-6,0,2004,Rubella
 P.Nakhon S.Ayutthaya,6-6,0,2004,Rubella
 Pathum Thani,6-6,0,2004,Rubella
-Zone 5,6-6,0,2004,Rubella
+Zone:5,6-6,0,2004,Rubella
 Chai Nat,6-6,0,2004,Rubella
 Lop Buri,6-6,0,2004,Rubella
 Saraburi,6-6,0,2004,Rubella
 Sing Buri,6-6,0,2004,Rubella
-Zone 6,6-6,0,2004,Rubella
+Zone:6,6-6,0,2004,Rubella
 Kanchanaburi,6-6,0,2004,Rubella
 Nakhon Pathom,6-6,0,2004,Rubella
 Ratchaburi,6-6,0,2004,Rubella
 Suphan Buri,6-6,0,2004,Rubella
-Zone 7,6-6,0,2004,Rubella
+Zone:7,6-6,0,2004,Rubella
 Phetchaburi,6-6,0,2004,Rubella
 Prachuap Khiri Khan,6-6,0,2004,Rubella
 Samut Sakhon,6-6,0,2004,Rubella
 Samut Songkhram,6-6,0,2004,Rubella
-Zone 8,6-6,0,2004,Rubella
+Zone:8,6-6,0,2004,Rubella
 Chachoengsao,6-6,0,2004,Rubella
 Nakhon Nayok,6-6,0,2004,Rubella
 Prachin Buri,6-6,0,2004,Rubella
 Sa Kaeo,6-6,0,2004,Rubella
 Samut Prakan,6-6,0,2004,Rubella
-Zone 9,6-6,0,2004,Rubella
+Zone:9,6-6,0,2004,Rubella
 Chanthaburi,6-6,0,2004,Rubella
 Chon Buri,6-6,0,2004,Rubella
 Rayong,6-6,0,2004,Rubella
 Trat,6-6,0,2004,Rubella
 North-Eastern Region,6-6,2,2004,Rubella
-Zone 10,6-6,0,2004,Rubella
+Zone:10,6-6,0,2004,Rubella
 Loei,6-6,0,2004,Rubella
 Nong Bua Lam Phu,6-6,0,2004,Rubella
 Nong Khai,6-6,0,2004,Rubella
 Udon Thani,6-6,0,2004,Rubella
-Zone 11,6-6,0,2004,Rubella
+Zone:11,6-6,0,2004,Rubella
 Kalasin,6-6,0,2004,Rubella
 Mukdahan,6-6,0,2004,Rubella
 Nakhon Phanom,6-6,0,2004,Rubella
 Sakon Nakhon,6-6,0,2004,Rubella
-Zone 12,6-6,1,2004,Rubella
+Zone:12,6-6,1,2004,Rubella
 Khon Kaen,6-6,0,2004,Rubella
 Maha Sarakham,6-6,1,2004,Rubella
 Roi Et,6-6,0,2004,Rubella
-Zone 13,6-6,1,2004,Rubella
+Zone:13,6-6,1,2004,Rubella
 Buri Ram,6-6,0,2004,Rubella
 Chaiyaphum,6-6,0,2004,Rubella
 Nakhon Ratchasima,6-6,0,2004,Rubella
 Surin,6-6,1,2004,Rubella
-Zone 14,6-6,0,2004,Rubella
+Zone:14,6-6,0,2004,Rubella
 Amnat Charoen,6-6,0,2004,Rubella
 Si Sa Ket,6-6,0,2004,Rubella
 Ubon Ratchathani,6-6,0,2004,Rubella
 Yasothon,6-6,0,2004,Rubella
 South Region,6-6,1,2004,Rubella
-Zone 15,6-6,0,2004,Rubella
+Zone:15,6-6,0,2004,Rubella
 Chumphon,6-6,0,2004,Rubella
 Ranong,6-6,0,2004,Rubella
 Surat Thani,6-6,0,2004,Rubella
-Zone 16,6-6,1,2004,Rubella
+Zone:16,6-6,1,2004,Rubella
 Nakhon Si Thammarat,6-6,1,2004,Rubella
 Phatthalung,6-6,0,2004,Rubella
 Trang,6-6,0,2004,Rubella
-Zone 17,6-6,0,2004,Rubella
+Zone:17,6-6,0,2004,Rubella
 Krabi,6-6,0,2004,Rubella
 Phangnga,6-6,0,2004,Rubella
 Phuket,6-6,0,2004,Rubella
-Zone 18,6-6,0,2004,Rubella
+Zone:18,6-6,0,2004,Rubella
 Narathiwat,6-6,0,2004,Rubella
 Pattani,6-6,0,2004,Rubella
 Yala,6-6,0,2004,Rubella
-Zone 19,6-6,0,2004,Rubella
+Zone:19,6-6,0,2004,Rubella
 Satun,6-6,0,2004,Rubella
 Songkhla,6-6,0,2004,Rubella
 Total,7-9,26,2004,Rubella
 North Region,7-9,5,2004,Rubella
-Zone 1,7-9,0,2004,Rubella
+Zone:1,7-9,0,2004,Rubella
 Chiang Mai,7-9,0,2004,Rubella
 Chiang Rai,7-9,0,2004,Rubella
 Lampang,7-9,0,2004,Rubella
@@ -18082,98 +18082,98 @@ Mae Hong Son,7-9,0,2004,Rubella
 Nan,7-9,0,2004,Rubella
 Phayao,7-9,0,2004,Rubella
 Phrae,7-9,0,2004,Rubella
-Zone 2,7-9,4,2004,Rubella
+Zone:2,7-9,4,2004,Rubella
 Phetchabun,7-9,3,2004,Rubella
 Phitsanulok,7-9,1,2004,Rubella
 Sukhothai,7-9,0,2004,Rubella
 Tak,7-9,0,2004,Rubella
 Uttaradit,7-9,0,2004,Rubella
-Zone 3,7-9,1,2004,Rubella
+Zone:3,7-9,1,2004,Rubella
 Kamphaeng Phet,7-9,1,2004,Rubella
 Nakhon Sawan,7-9,0,2004,Rubella
 Phichit,7-9,0,2004,Rubella
 Uthai Thani,7-9,0,2004,Rubella
 Central Region,7-9,14,2004,Rubella
 Bangkok,7-9,4,2004,Rubella
-Zone 4,7-9,4,2004,Rubella
+Zone:4,7-9,4,2004,Rubella
 Ang Thong,7-9,0,2004,Rubella
 Nonthaburi,7-9,3,2004,Rubella
 P.Nakhon S.Ayutthaya,7-9,1,2004,Rubella
 Pathum Thani,7-9,0,2004,Rubella
-Zone 5,7-9,0,2004,Rubella
+Zone:5,7-9,0,2004,Rubella
 Chai Nat,7-9,0,2004,Rubella
 Lop Buri,7-9,0,2004,Rubella
 Saraburi,7-9,0,2004,Rubella
 Sing Buri,7-9,0,2004,Rubella
-Zone 6,7-9,2,2004,Rubella
+Zone:6,7-9,2,2004,Rubella
 Kanchanaburi,7-9,0,2004,Rubella
 Nakhon Pathom,7-9,2,2004,Rubella
 Ratchaburi,7-9,0,2004,Rubella
 Suphan Buri,7-9,0,2004,Rubella
-Zone 7,7-9,2,2004,Rubella
+Zone:7,7-9,2,2004,Rubella
 Phetchaburi,7-9,1,2004,Rubella
 Prachuap Khiri Khan,7-9,0,2004,Rubella
 Samut Sakhon,7-9,1,2004,Rubella
 Samut Songkhram,7-9,0,2004,Rubella
-Zone 8,7-9,2,2004,Rubella
+Zone:8,7-9,2,2004,Rubella
 Chachoengsao,7-9,2,2004,Rubella
 Nakhon Nayok,7-9,0,2004,Rubella
 Prachin Buri,7-9,0,2004,Rubella
 Sa Kaeo,7-9,0,2004,Rubella
 Samut Prakan,7-9,0,2004,Rubella
-Zone 9,7-9,0,2004,Rubella
+Zone:9,7-9,0,2004,Rubella
 Chanthaburi,7-9,0,2004,Rubella
 Chon Buri,7-9,0,2004,Rubella
 Rayong,7-9,0,2004,Rubella
 Trat,7-9,0,2004,Rubella
 North-Eastern Region,7-9,4,2004,Rubella
-Zone 10,7-9,0,2004,Rubella
+Zone:10,7-9,0,2004,Rubella
 Loei,7-9,0,2004,Rubella
 Nong Bua Lam Phu,7-9,0,2004,Rubella
 Nong Khai,7-9,0,2004,Rubella
 Udon Thani,7-9,0,2004,Rubella
-Zone 11,7-9,1,2004,Rubella
+Zone:11,7-9,1,2004,Rubella
 Kalasin,7-9,0,2004,Rubella
 Mukdahan,7-9,0,2004,Rubella
 Nakhon Phanom,7-9,0,2004,Rubella
 Sakon Nakhon,7-9,1,2004,Rubella
-Zone 12,7-9,0,2004,Rubella
+Zone:12,7-9,0,2004,Rubella
 Khon Kaen,7-9,0,2004,Rubella
 Maha Sarakham,7-9,0,2004,Rubella
 Roi Et,7-9,0,2004,Rubella
-Zone 13,7-9,2,2004,Rubella
+Zone:13,7-9,2,2004,Rubella
 Buri Ram,7-9,0,2004,Rubella
 Chaiyaphum,7-9,0,2004,Rubella
 Nakhon Ratchasima,7-9,1,2004,Rubella
 Surin,7-9,1,2004,Rubella
-Zone 14,7-9,1,2004,Rubella
+Zone:14,7-9,1,2004,Rubella
 Amnat Charoen,7-9,0,2004,Rubella
 Si Sa Ket,7-9,0,2004,Rubella
 Ubon Ratchathani,7-9,1,2004,Rubella
 Yasothon,7-9,0,2004,Rubella
 South Region,7-9,3,2004,Rubella
-Zone 15,7-9,1,2004,Rubella
+Zone:15,7-9,1,2004,Rubella
 Chumphon,7-9,1,2004,Rubella
 Ranong,7-9,0,2004,Rubella
 Surat Thani,7-9,0,2004,Rubella
-Zone 16,7-9,0,2004,Rubella
+Zone:16,7-9,0,2004,Rubella
 Nakhon Si Thammarat,7-9,0,2004,Rubella
 Phatthalung,7-9,0,2004,Rubella
 Trang,7-9,0,2004,Rubella
-Zone 17,7-9,0,2004,Rubella
+Zone:17,7-9,0,2004,Rubella
 Krabi,7-9,0,2004,Rubella
 Phangnga,7-9,0,2004,Rubella
 Phuket,7-9,0,2004,Rubella
-Zone 18,7-9,1,2004,Rubella
+Zone:18,7-9,1,2004,Rubella
 Narathiwat,7-9,0,2004,Rubella
 Pattani,7-9,0,2004,Rubella
 Yala,7-9,1,2004,Rubella
-Zone 19,7-9,1,2004,Rubella
+Zone:19,7-9,1,2004,Rubella
 Satun,7-9,0,2004,Rubella
 Songkhla,7-9,1,2004,Rubella
 Total,10-14,57,2004,Rubella
 North Region,10-14,12,2004,Rubella
-Zone 1,10-14,7,2004,Rubella
+Zone:1,10-14,7,2004,Rubella
 Chiang Mai,10-14,5,2004,Rubella
 Chiang Rai,10-14,1,2004,Rubella
 Lampang,10-14,1,2004,Rubella
@@ -18182,98 +18182,98 @@ Mae Hong Son,10-14,0,2004,Rubella
 Nan,10-14,0,2004,Rubella
 Phayao,10-14,0,2004,Rubella
 Phrae,10-14,0,2004,Rubella
-Zone 2,10-14,3,2004,Rubella
+Zone:2,10-14,3,2004,Rubella
 Phetchabun,10-14,1,2004,Rubella
 Phitsanulok,10-14,2,2004,Rubella
 Sukhothai,10-14,0,2004,Rubella
 Tak,10-14,0,2004,Rubella
 Uttaradit,10-14,0,2004,Rubella
-Zone 3,10-14,2,2004,Rubella
+Zone:3,10-14,2,2004,Rubella
 Kamphaeng Phet,10-14,1,2004,Rubella
 Nakhon Sawan,10-14,1,2004,Rubella
 Phichit,10-14,0,2004,Rubella
 Uthai Thani,10-14,0,2004,Rubella
 Central Region,10-14,22,2004,Rubella
 Bangkok,10-14,9,2004,Rubella
-Zone 4,10-14,2,2004,Rubella
+Zone:4,10-14,2,2004,Rubella
 Ang Thong,10-14,0,2004,Rubella
 Nonthaburi,10-14,1,2004,Rubella
 P.Nakhon S.Ayutthaya,10-14,0,2004,Rubella
 Pathum Thani,10-14,1,2004,Rubella
-Zone 5,10-14,2,2004,Rubella
+Zone:5,10-14,2,2004,Rubella
 Chai Nat,10-14,0,2004,Rubella
 Lop Buri,10-14,0,2004,Rubella
 Saraburi,10-14,1,2004,Rubella
 Sing Buri,10-14,1,2004,Rubella
-Zone 6,10-14,6,2004,Rubella
+Zone:6,10-14,6,2004,Rubella
 Kanchanaburi,10-14,1,2004,Rubella
 Nakhon Pathom,10-14,4,2004,Rubella
 Ratchaburi,10-14,1,2004,Rubella
 Suphan Buri,10-14,0,2004,Rubella
-Zone 7,10-14,1,2004,Rubella
+Zone:7,10-14,1,2004,Rubella
 Phetchaburi,10-14,0,2004,Rubella
 Prachuap Khiri Khan,10-14,0,2004,Rubella
 Samut Sakhon,10-14,1,2004,Rubella
 Samut Songkhram,10-14,0,2004,Rubella
-Zone 8,10-14,1,2004,Rubella
+Zone:8,10-14,1,2004,Rubella
 Chachoengsao,10-14,0,2004,Rubella
 Nakhon Nayok,10-14,0,2004,Rubella
 Prachin Buri,10-14,0,2004,Rubella
 Sa Kaeo,10-14,0,2004,Rubella
 Samut Prakan,10-14,1,2004,Rubella
-Zone 9,10-14,1,2004,Rubella
+Zone:9,10-14,1,2004,Rubella
 Chanthaburi,10-14,0,2004,Rubella
 Chon Buri,10-14,0,2004,Rubella
 Rayong,10-14,1,2004,Rubella
 Trat,10-14,0,2004,Rubella
 North-Eastern Region,10-14,14,2004,Rubella
-Zone 10,10-14,0,2004,Rubella
+Zone:10,10-14,0,2004,Rubella
 Loei,10-14,0,2004,Rubella
 Nong Bua Lam Phu,10-14,0,2004,Rubella
 Nong Khai,10-14,0,2004,Rubella
 Udon Thani,10-14,0,2004,Rubella
-Zone 11,10-14,0,2004,Rubella
+Zone:11,10-14,0,2004,Rubella
 Kalasin,10-14,0,2004,Rubella
 Mukdahan,10-14,0,2004,Rubella
 Nakhon Phanom,10-14,0,2004,Rubella
 Sakon Nakhon,10-14,0,2004,Rubella
-Zone 12,10-14,1,2004,Rubella
+Zone:12,10-14,1,2004,Rubella
 Khon Kaen,10-14,0,2004,Rubella
 Maha Sarakham,10-14,0,2004,Rubella
 Roi Et,10-14,1,2004,Rubella
-Zone 13,10-14,7,2004,Rubella
+Zone:13,10-14,7,2004,Rubella
 Buri Ram,10-14,0,2004,Rubella
 Chaiyaphum,10-14,2,2004,Rubella
 Nakhon Ratchasima,10-14,0,2004,Rubella
 Surin,10-14,5,2004,Rubella
-Zone 14,10-14,6,2004,Rubella
+Zone:14,10-14,6,2004,Rubella
 Amnat Charoen,10-14,1,2004,Rubella
 Si Sa Ket,10-14,3,2004,Rubella
 Ubon Ratchathani,10-14,1,2004,Rubella
 Yasothon,10-14,1,2004,Rubella
 South Region,10-14,9,2004,Rubella
-Zone 15,10-14,1,2004,Rubella
+Zone:15,10-14,1,2004,Rubella
 Chumphon,10-14,1,2004,Rubella
 Ranong,10-14,0,2004,Rubella
 Surat Thani,10-14,0,2004,Rubella
-Zone 16,10-14,2,2004,Rubella
+Zone:16,10-14,2,2004,Rubella
 Nakhon Si Thammarat,10-14,2,2004,Rubella
 Phatthalung,10-14,0,2004,Rubella
 Trang,10-14,0,2004,Rubella
-Zone 17,10-14,0,2004,Rubella
+Zone:17,10-14,0,2004,Rubella
 Krabi,10-14,0,2004,Rubella
 Phangnga,10-14,0,2004,Rubella
 Phuket,10-14,0,2004,Rubella
-Zone 18,10-14,1,2004,Rubella
+Zone:18,10-14,1,2004,Rubella
 Narathiwat,10-14,0,2004,Rubella
 Pattani,10-14,0,2004,Rubella
 Yala,10-14,1,2004,Rubella
-Zone 19,10-14,5,2004,Rubella
+Zone:19,10-14,5,2004,Rubella
 Satun,10-14,0,2004,Rubella
 Songkhla,10-14,5,2004,Rubella
 Total,15-24,131,2004,Rubella
 North Region,15-24,19,2004,Rubella
-Zone 1,15-24,7,2004,Rubella
+Zone:1,15-24,7,2004,Rubella
 Chiang Mai,15-24,3,2004,Rubella
 Chiang Rai,15-24,3,2004,Rubella
 Lampang,15-24,0,2004,Rubella
@@ -18282,98 +18282,98 @@ Mae Hong Son,15-24,1,2004,Rubella
 Nan,15-24,0,2004,Rubella
 Phayao,15-24,0,2004,Rubella
 Phrae,15-24,0,2004,Rubella
-Zone 2,15-24,10,2004,Rubella
+Zone:2,15-24,10,2004,Rubella
 Phetchabun,15-24,4,2004,Rubella
 Phitsanulok,15-24,2,2004,Rubella
 Sukhothai,15-24,1,2004,Rubella
 Tak,15-24,0,2004,Rubella
 Uttaradit,15-24,3,2004,Rubella
-Zone 3,15-24,2,2004,Rubella
+Zone:3,15-24,2,2004,Rubella
 Kamphaeng Phet,15-24,0,2004,Rubella
 Nakhon Sawan,15-24,2,2004,Rubella
 Phichit,15-24,0,2004,Rubella
 Uthai Thani,15-24,0,2004,Rubella
 Central Region,15-24,72,2004,Rubella
 Bangkok,15-24,16,2004,Rubella
-Zone 4,15-24,7,2004,Rubella
+Zone:4,15-24,7,2004,Rubella
 Ang Thong,15-24,0,2004,Rubella
 Nonthaburi,15-24,3,2004,Rubella
 P.Nakhon S.Ayutthaya,15-24,3,2004,Rubella
 Pathum Thani,15-24,1,2004,Rubella
-Zone 5,15-24,1,2004,Rubella
+Zone:5,15-24,1,2004,Rubella
 Chai Nat,15-24,0,2004,Rubella
 Lop Buri,15-24,0,2004,Rubella
 Saraburi,15-24,1,2004,Rubella
 Sing Buri,15-24,0,2004,Rubella
-Zone 6,15-24,19,2004,Rubella
+Zone:6,15-24,19,2004,Rubella
 Kanchanaburi,15-24,0,2004,Rubella
 Nakhon Pathom,15-24,8,2004,Rubella
 Ratchaburi,15-24,9,2004,Rubella
 Suphan Buri,15-24,2,2004,Rubella
-Zone 7,15-24,2,2004,Rubella
+Zone:7,15-24,2,2004,Rubella
 Phetchaburi,15-24,0,2004,Rubella
 Prachuap Khiri Khan,15-24,0,2004,Rubella
 Samut Sakhon,15-24,2,2004,Rubella
 Samut Songkhram,15-24,0,2004,Rubella
-Zone 8,15-24,14,2004,Rubella
+Zone:8,15-24,14,2004,Rubella
 Chachoengsao,15-24,7,2004,Rubella
 Nakhon Nayok,15-24,0,2004,Rubella
 Prachin Buri,15-24,3,2004,Rubella
 Sa Kaeo,15-24,1,2004,Rubella
 Samut Prakan,15-24,3,2004,Rubella
-Zone 9,15-24,13,2004,Rubella
+Zone:9,15-24,13,2004,Rubella
 Chanthaburi,15-24,0,2004,Rubella
 Chon Buri,15-24,4,2004,Rubella
 Rayong,15-24,7,2004,Rubella
 Trat,15-24,2,2004,Rubella
 North-Eastern Region,15-24,16,2004,Rubella
-Zone 10,15-24,3,2004,Rubella
+Zone:10,15-24,3,2004,Rubella
 Loei,15-24,0,2004,Rubella
 Nong Bua Lam Phu,15-24,3,2004,Rubella
 Nong Khai,15-24,0,2004,Rubella
 Udon Thani,15-24,0,2004,Rubella
-Zone 11,15-24,3,2004,Rubella
+Zone:11,15-24,3,2004,Rubella
 Kalasin,15-24,1,2004,Rubella
 Mukdahan,15-24,1,2004,Rubella
 Nakhon Phanom,15-24,0,2004,Rubella
 Sakon Nakhon,15-24,1,2004,Rubella
-Zone 12,15-24,0,2004,Rubella
+Zone:12,15-24,0,2004,Rubella
 Khon Kaen,15-24,0,2004,Rubella
 Maha Sarakham,15-24,0,2004,Rubella
 Roi Et,15-24,0,2004,Rubella
-Zone 13,15-24,7,2004,Rubella
+Zone:13,15-24,7,2004,Rubella
 Buri Ram,15-24,0,2004,Rubella
 Chaiyaphum,15-24,0,2004,Rubella
 Nakhon Ratchasima,15-24,7,2004,Rubella
 Surin,15-24,0,2004,Rubella
-Zone 14,15-24,3,2004,Rubella
+Zone:14,15-24,3,2004,Rubella
 Amnat Charoen,15-24,0,2004,Rubella
 Si Sa Ket,15-24,0,2004,Rubella
 Ubon Ratchathani,15-24,3,2004,Rubella
 Yasothon,15-24,0,2004,Rubella
 South Region,15-24,24,2004,Rubella
-Zone 15,15-24,11,2004,Rubella
+Zone:15,15-24,11,2004,Rubella
 Chumphon,15-24,7,2004,Rubella
 Ranong,15-24,0,2004,Rubella
 Surat Thani,15-24,4,2004,Rubella
-Zone 16,15-24,1,2004,Rubella
+Zone:16,15-24,1,2004,Rubella
 Nakhon Si Thammarat,15-24,1,2004,Rubella
 Phatthalung,15-24,0,2004,Rubella
 Trang,15-24,0,2004,Rubella
-Zone 17,15-24,1,2004,Rubella
+Zone:17,15-24,1,2004,Rubella
 Krabi,15-24,1,2004,Rubella
 Phangnga,15-24,0,2004,Rubella
 Phuket,15-24,0,2004,Rubella
-Zone 18,15-24,0,2004,Rubella
+Zone:18,15-24,0,2004,Rubella
 Narathiwat,15-24,0,2004,Rubella
 Pattani,15-24,0,2004,Rubella
 Yala,15-24,0,2004,Rubella
-Zone 19,15-24,11,2004,Rubella
+Zone:19,15-24,11,2004,Rubella
 Satun,15-24,0,2004,Rubella
 Songkhla,15-24,11,2004,Rubella
 Total,25-34,37,2004,Rubella
 North Region,25-34,3,2004,Rubella
-Zone 1,25-34,0,2004,Rubella
+Zone:1,25-34,0,2004,Rubella
 Chiang Mai,25-34,0,2004,Rubella
 Chiang Rai,25-34,0,2004,Rubella
 Lampang,25-34,0,2004,Rubella
@@ -18382,98 +18382,98 @@ Mae Hong Son,25-34,0,2004,Rubella
 Nan,25-34,0,2004,Rubella
 Phayao,25-34,0,2004,Rubella
 Phrae,25-34,0,2004,Rubella
-Zone 2,25-34,2,2004,Rubella
+Zone:2,25-34,2,2004,Rubella
 Phetchabun,25-34,1,2004,Rubella
 Phitsanulok,25-34,1,2004,Rubella
 Sukhothai,25-34,0,2004,Rubella
 Tak,25-34,0,2004,Rubella
 Uttaradit,25-34,0,2004,Rubella
-Zone 3,25-34,1,2004,Rubella
+Zone:3,25-34,1,2004,Rubella
 Kamphaeng Phet,25-34,0,2004,Rubella
 Nakhon Sawan,25-34,0,2004,Rubella
 Phichit,25-34,1,2004,Rubella
 Uthai Thani,25-34,0,2004,Rubella
 Central Region,25-34,27,2004,Rubella
 Bangkok,25-34,11,2004,Rubella
-Zone 4,25-34,2,2004,Rubella
+Zone:4,25-34,2,2004,Rubella
 Ang Thong,25-34,1,2004,Rubella
 Nonthaburi,25-34,0,2004,Rubella
 P.Nakhon S.Ayutthaya,25-34,1,2004,Rubella
 Pathum Thani,25-34,0,2004,Rubella
-Zone 5,25-34,0,2004,Rubella
+Zone:5,25-34,0,2004,Rubella
 Chai Nat,25-34,0,2004,Rubella
 Lop Buri,25-34,0,2004,Rubella
 Saraburi,25-34,0,2004,Rubella
 Sing Buri,25-34,0,2004,Rubella
-Zone 6,25-34,5,2004,Rubella
+Zone:6,25-34,5,2004,Rubella
 Kanchanaburi,25-34,0,2004,Rubella
 Nakhon Pathom,25-34,2,2004,Rubella
 Ratchaburi,25-34,2,2004,Rubella
 Suphan Buri,25-34,1,2004,Rubella
-Zone 7,25-34,0,2004,Rubella
+Zone:7,25-34,0,2004,Rubella
 Phetchaburi,25-34,0,2004,Rubella
 Prachuap Khiri Khan,25-34,0,2004,Rubella
 Samut Sakhon,25-34,0,2004,Rubella
 Samut Songkhram,25-34,0,2004,Rubella
-Zone 8,25-34,5,2004,Rubella
+Zone:8,25-34,5,2004,Rubella
 Chachoengsao,25-34,2,2004,Rubella
 Nakhon Nayok,25-34,1,2004,Rubella
 Prachin Buri,25-34,1,2004,Rubella
 Sa Kaeo,25-34,0,2004,Rubella
 Samut Prakan,25-34,1,2004,Rubella
-Zone 9,25-34,4,2004,Rubella
+Zone:9,25-34,4,2004,Rubella
 Chanthaburi,25-34,1,2004,Rubella
 Chon Buri,25-34,1,2004,Rubella
 Rayong,25-34,2,2004,Rubella
 Trat,25-34,0,2004,Rubella
 North-Eastern Region,25-34,2,2004,Rubella
-Zone 10,25-34,0,2004,Rubella
+Zone:10,25-34,0,2004,Rubella
 Loei,25-34,0,2004,Rubella
 Nong Bua Lam Phu,25-34,0,2004,Rubella
 Nong Khai,25-34,0,2004,Rubella
 Udon Thani,25-34,0,2004,Rubella
-Zone 11,25-34,0,2004,Rubella
+Zone:11,25-34,0,2004,Rubella
 Kalasin,25-34,0,2004,Rubella
 Mukdahan,25-34,0,2004,Rubella
 Nakhon Phanom,25-34,0,2004,Rubella
 Sakon Nakhon,25-34,0,2004,Rubella
-Zone 12,25-34,1,2004,Rubella
+Zone:12,25-34,1,2004,Rubella
 Khon Kaen,25-34,0,2004,Rubella
 Maha Sarakham,25-34,1,2004,Rubella
 Roi Et,25-34,0,2004,Rubella
-Zone 13,25-34,0,2004,Rubella
+Zone:13,25-34,0,2004,Rubella
 Buri Ram,25-34,0,2004,Rubella
 Chaiyaphum,25-34,0,2004,Rubella
 Nakhon Ratchasima,25-34,0,2004,Rubella
 Surin,25-34,0,2004,Rubella
-Zone 14,25-34,1,2004,Rubella
+Zone:14,25-34,1,2004,Rubella
 Amnat Charoen,25-34,0,2004,Rubella
 Si Sa Ket,25-34,1,2004,Rubella
 Ubon Ratchathani,25-34,0,2004,Rubella
 Yasothon,25-34,0,2004,Rubella
 South Region,25-34,5,2004,Rubella
-Zone 15,25-34,1,2004,Rubella
+Zone:15,25-34,1,2004,Rubella
 Chumphon,25-34,0,2004,Rubella
 Ranong,25-34,0,2004,Rubella
 Surat Thani,25-34,1,2004,Rubella
-Zone 16,25-34,0,2004,Rubella
+Zone:16,25-34,0,2004,Rubella
 Nakhon Si Thammarat,25-34,0,2004,Rubella
 Phatthalung,25-34,0,2004,Rubella
 Trang,25-34,0,2004,Rubella
-Zone 17,25-34,0,2004,Rubella
+Zone:17,25-34,0,2004,Rubella
 Krabi,25-34,0,2004,Rubella
 Phangnga,25-34,0,2004,Rubella
 Phuket,25-34,0,2004,Rubella
-Zone 18,25-34,1,2004,Rubella
+Zone:18,25-34,1,2004,Rubella
 Narathiwat,25-34,0,2004,Rubella
 Pattani,25-34,1,2004,Rubella
 Yala,25-34,0,2004,Rubella
-Zone 19,25-34,3,2004,Rubella
+Zone:19,25-34,3,2004,Rubella
 Satun,25-34,0,2004,Rubella
 Songkhla,25-34,3,2004,Rubella
 Total,35-44,13,2004,Rubella
 North Region,35-44,1,2004,Rubella
-Zone 1,35-44,0,2004,Rubella
+Zone:1,35-44,0,2004,Rubella
 Chiang Mai,35-44,0,2004,Rubella
 Chiang Rai,35-44,0,2004,Rubella
 Lampang,35-44,0,2004,Rubella
@@ -18482,98 +18482,98 @@ Mae Hong Son,35-44,0,2004,Rubella
 Nan,35-44,0,2004,Rubella
 Phayao,35-44,0,2004,Rubella
 Phrae,35-44,0,2004,Rubella
-Zone 2,35-44,0,2004,Rubella
+Zone:2,35-44,0,2004,Rubella
 Phetchabun,35-44,0,2004,Rubella
 Phitsanulok,35-44,0,2004,Rubella
 Sukhothai,35-44,0,2004,Rubella
 Tak,35-44,0,2004,Rubella
 Uttaradit,35-44,0,2004,Rubella
-Zone 3,35-44,1,2004,Rubella
+Zone:3,35-44,1,2004,Rubella
 Kamphaeng Phet,35-44,1,2004,Rubella
 Nakhon Sawan,35-44,0,2004,Rubella
 Phichit,35-44,0,2004,Rubella
 Uthai Thani,35-44,0,2004,Rubella
 Central Region,35-44,5,2004,Rubella
 Bangkok,35-44,1,2004,Rubella
-Zone 4,35-44,1,2004,Rubella
+Zone:4,35-44,1,2004,Rubella
 Ang Thong,35-44,0,2004,Rubella
 Nonthaburi,35-44,1,2004,Rubella
 P.Nakhon S.Ayutthaya,35-44,0,2004,Rubella
 Pathum Thani,35-44,0,2004,Rubella
-Zone 5,35-44,1,2004,Rubella
+Zone:5,35-44,1,2004,Rubella
 Chai Nat,35-44,1,2004,Rubella
 Lop Buri,35-44,0,2004,Rubella
 Saraburi,35-44,0,2004,Rubella
 Sing Buri,35-44,0,2004,Rubella
-Zone 6,35-44,0,2004,Rubella
+Zone:6,35-44,0,2004,Rubella
 Kanchanaburi,35-44,0,2004,Rubella
 Nakhon Pathom,35-44,0,2004,Rubella
 Ratchaburi,35-44,0,2004,Rubella
 Suphan Buri,35-44,0,2004,Rubella
-Zone 7,35-44,0,2004,Rubella
+Zone:7,35-44,0,2004,Rubella
 Phetchaburi,35-44,0,2004,Rubella
 Prachuap Khiri Khan,35-44,0,2004,Rubella
 Samut Sakhon,35-44,0,2004,Rubella
 Samut Songkhram,35-44,0,2004,Rubella
-Zone 8,35-44,1,2004,Rubella
+Zone:8,35-44,1,2004,Rubella
 Chachoengsao,35-44,1,2004,Rubella
 Nakhon Nayok,35-44,0,2004,Rubella
 Prachin Buri,35-44,0,2004,Rubella
 Sa Kaeo,35-44,0,2004,Rubella
 Samut Prakan,35-44,0,2004,Rubella
-Zone 9,35-44,1,2004,Rubella
+Zone:9,35-44,1,2004,Rubella
 Chanthaburi,35-44,0,2004,Rubella
 Chon Buri,35-44,0,2004,Rubella
 Rayong,35-44,1,2004,Rubella
 Trat,35-44,0,2004,Rubella
 North-Eastern Region,35-44,0,2004,Rubella
-Zone 10,35-44,0,2004,Rubella
+Zone:10,35-44,0,2004,Rubella
 Loei,35-44,0,2004,Rubella
 Nong Bua Lam Phu,35-44,0,2004,Rubella
 Nong Khai,35-44,0,2004,Rubella
 Udon Thani,35-44,0,2004,Rubella
-Zone 11,35-44,0,2004,Rubella
+Zone:11,35-44,0,2004,Rubella
 Kalasin,35-44,0,2004,Rubella
 Mukdahan,35-44,0,2004,Rubella
 Nakhon Phanom,35-44,0,2004,Rubella
 Sakon Nakhon,35-44,0,2004,Rubella
-Zone 12,35-44,0,2004,Rubella
+Zone:12,35-44,0,2004,Rubella
 Khon Kaen,35-44,0,2004,Rubella
 Maha Sarakham,35-44,0,2004,Rubella
 Roi Et,35-44,0,2004,Rubella
-Zone 13,35-44,0,2004,Rubella
+Zone:13,35-44,0,2004,Rubella
 Buri Ram,35-44,0,2004,Rubella
 Chaiyaphum,35-44,0,2004,Rubella
 Nakhon Ratchasima,35-44,0,2004,Rubella
 Surin,35-44,0,2004,Rubella
-Zone 14,35-44,0,2004,Rubella
+Zone:14,35-44,0,2004,Rubella
 Amnat Charoen,35-44,0,2004,Rubella
 Si Sa Ket,35-44,0,2004,Rubella
 Ubon Ratchathani,35-44,0,2004,Rubella
 Yasothon,35-44,0,2004,Rubella
 South Region,35-44,7,2004,Rubella
-Zone 15,35-44,0,2004,Rubella
+Zone:15,35-44,0,2004,Rubella
 Chumphon,35-44,0,2004,Rubella
 Ranong,35-44,0,2004,Rubella
 Surat Thani,35-44,0,2004,Rubella
-Zone 16,35-44,2,2004,Rubella
+Zone:16,35-44,2,2004,Rubella
 Nakhon Si Thammarat,35-44,1,2004,Rubella
 Phatthalung,35-44,0,2004,Rubella
 Trang,35-44,1,2004,Rubella
-Zone 17,35-44,2,2004,Rubella
+Zone:17,35-44,2,2004,Rubella
 Krabi,35-44,0,2004,Rubella
 Phangnga,35-44,1,2004,Rubella
 Phuket,35-44,1,2004,Rubella
-Zone 18,35-44,1,2004,Rubella
+Zone:18,35-44,1,2004,Rubella
 Narathiwat,35-44,1,2004,Rubella
 Pattani,35-44,0,2004,Rubella
 Yala,35-44,0,2004,Rubella
-Zone 19,35-44,2,2004,Rubella
+Zone:19,35-44,2,2004,Rubella
 Satun,35-44,0,2004,Rubella
 Songkhla,35-44,2,2004,Rubella
 Total,45-54,4,2004,Rubella
 North Region,45-54,0,2004,Rubella
-Zone 1,45-54,0,2004,Rubella
+Zone:1,45-54,0,2004,Rubella
 Chiang Mai,45-54,0,2004,Rubella
 Chiang Rai,45-54,0,2004,Rubella
 Lampang,45-54,0,2004,Rubella
@@ -18582,98 +18582,98 @@ Mae Hong Son,45-54,0,2004,Rubella
 Nan,45-54,0,2004,Rubella
 Phayao,45-54,0,2004,Rubella
 Phrae,45-54,0,2004,Rubella
-Zone 2,45-54,0,2004,Rubella
+Zone:2,45-54,0,2004,Rubella
 Phetchabun,45-54,0,2004,Rubella
 Phitsanulok,45-54,0,2004,Rubella
 Sukhothai,45-54,0,2004,Rubella
 Tak,45-54,0,2004,Rubella
 Uttaradit,45-54,0,2004,Rubella
-Zone 3,45-54,0,2004,Rubella
+Zone:3,45-54,0,2004,Rubella
 Kamphaeng Phet,45-54,0,2004,Rubella
 Nakhon Sawan,45-54,0,2004,Rubella
 Phichit,45-54,0,2004,Rubella
 Uthai Thani,45-54,0,2004,Rubella
 Central Region,45-54,3,2004,Rubella
 Bangkok,45-54,3,2004,Rubella
-Zone 4,45-54,0,2004,Rubella
+Zone:4,45-54,0,2004,Rubella
 Ang Thong,45-54,0,2004,Rubella
 Nonthaburi,45-54,0,2004,Rubella
 P.Nakhon S.Ayutthaya,45-54,0,2004,Rubella
 Pathum Thani,45-54,0,2004,Rubella
-Zone 5,45-54,0,2004,Rubella
+Zone:5,45-54,0,2004,Rubella
 Chai Nat,45-54,0,2004,Rubella
 Lop Buri,45-54,0,2004,Rubella
 Saraburi,45-54,0,2004,Rubella
 Sing Buri,45-54,0,2004,Rubella
-Zone 6,45-54,0,2004,Rubella
+Zone:6,45-54,0,2004,Rubella
 Kanchanaburi,45-54,0,2004,Rubella
 Nakhon Pathom,45-54,0,2004,Rubella
 Ratchaburi,45-54,0,2004,Rubella
 Suphan Buri,45-54,0,2004,Rubella
-Zone 7,45-54,0,2004,Rubella
+Zone:7,45-54,0,2004,Rubella
 Phetchaburi,45-54,0,2004,Rubella
 Prachuap Khiri Khan,45-54,0,2004,Rubella
 Samut Sakhon,45-54,0,2004,Rubella
 Samut Songkhram,45-54,0,2004,Rubella
-Zone 8,45-54,0,2004,Rubella
+Zone:8,45-54,0,2004,Rubella
 Chachoengsao,45-54,0,2004,Rubella
 Nakhon Nayok,45-54,0,2004,Rubella
 Prachin Buri,45-54,0,2004,Rubella
 Sa Kaeo,45-54,0,2004,Rubella
 Samut Prakan,45-54,0,2004,Rubella
-Zone 9,45-54,0,2004,Rubella
+Zone:9,45-54,0,2004,Rubella
 Chanthaburi,45-54,0,2004,Rubella
 Chon Buri,45-54,0,2004,Rubella
 Rayong,45-54,0,2004,Rubella
 Trat,45-54,0,2004,Rubella
 North-Eastern Region,45-54,1,2004,Rubella
-Zone 10,45-54,0,2004,Rubella
+Zone:10,45-54,0,2004,Rubella
 Loei,45-54,0,2004,Rubella
 Nong Bua Lam Phu,45-54,0,2004,Rubella
 Nong Khai,45-54,0,2004,Rubella
 Udon Thani,45-54,0,2004,Rubella
-Zone 11,45-54,0,2004,Rubella
+Zone:11,45-54,0,2004,Rubella
 Kalasin,45-54,0,2004,Rubella
 Mukdahan,45-54,0,2004,Rubella
 Nakhon Phanom,45-54,0,2004,Rubella
 Sakon Nakhon,45-54,0,2004,Rubella
-Zone 12,45-54,1,2004,Rubella
+Zone:12,45-54,1,2004,Rubella
 Khon Kaen,45-54,1,2004,Rubella
 Maha Sarakham,45-54,0,2004,Rubella
 Roi Et,45-54,0,2004,Rubella
-Zone 13,45-54,0,2004,Rubella
+Zone:13,45-54,0,2004,Rubella
 Buri Ram,45-54,0,2004,Rubella
 Chaiyaphum,45-54,0,2004,Rubella
 Nakhon Ratchasima,45-54,0,2004,Rubella
 Surin,45-54,0,2004,Rubella
-Zone 14,45-54,0,2004,Rubella
+Zone:14,45-54,0,2004,Rubella
 Amnat Charoen,45-54,0,2004,Rubella
 Si Sa Ket,45-54,0,2004,Rubella
 Ubon Ratchathani,45-54,0,2004,Rubella
 Yasothon,45-54,0,2004,Rubella
 South Region,45-54,0,2004,Rubella
-Zone 15,45-54,0,2004,Rubella
+Zone:15,45-54,0,2004,Rubella
 Chumphon,45-54,0,2004,Rubella
 Ranong,45-54,0,2004,Rubella
 Surat Thani,45-54,0,2004,Rubella
-Zone 16,45-54,0,2004,Rubella
+Zone:16,45-54,0,2004,Rubella
 Nakhon Si Thammarat,45-54,0,2004,Rubella
 Phatthalung,45-54,0,2004,Rubella
 Trang,45-54,0,2004,Rubella
-Zone 17,45-54,0,2004,Rubella
+Zone:17,45-54,0,2004,Rubella
 Krabi,45-54,0,2004,Rubella
 Phangnga,45-54,0,2004,Rubella
 Phuket,45-54,0,2004,Rubella
-Zone 18,45-54,0,2004,Rubella
+Zone:18,45-54,0,2004,Rubella
 Narathiwat,45-54,0,2004,Rubella
 Pattani,45-54,0,2004,Rubella
 Yala,45-54,0,2004,Rubella
-Zone 19,45-54,0,2004,Rubella
+Zone:19,45-54,0,2004,Rubella
 Satun,45-54,0,2004,Rubella
 Songkhla,45-54,0,2004,Rubella
 Total,55-64,3,2004,Rubella
 North Region,55-64,1,2004,Rubella
-Zone 1,55-64,1,2004,Rubella
+Zone:1,55-64,1,2004,Rubella
 Chiang Mai,55-64,0,2004,Rubella
 Chiang Rai,55-64,0,2004,Rubella
 Lampang,55-64,0,2004,Rubella
@@ -18682,98 +18682,98 @@ Mae Hong Son,55-64,0,2004,Rubella
 Nan,55-64,0,2004,Rubella
 Phayao,55-64,1,2004,Rubella
 Phrae,55-64,0,2004,Rubella
-Zone 2,55-64,0,2004,Rubella
+Zone:2,55-64,0,2004,Rubella
 Phetchabun,55-64,0,2004,Rubella
 Phitsanulok,55-64,0,2004,Rubella
 Sukhothai,55-64,0,2004,Rubella
 Tak,55-64,0,2004,Rubella
 Uttaradit,55-64,0,2004,Rubella
-Zone 3,55-64,0,2004,Rubella
+Zone:3,55-64,0,2004,Rubella
 Kamphaeng Phet,55-64,0,2004,Rubella
 Nakhon Sawan,55-64,0,2004,Rubella
 Phichit,55-64,0,2004,Rubella
 Uthai Thani,55-64,0,2004,Rubella
 Central Region,55-64,1,2004,Rubella
 Bangkok,55-64,1,2004,Rubella
-Zone 4,55-64,0,2004,Rubella
+Zone:4,55-64,0,2004,Rubella
 Ang Thong,55-64,0,2004,Rubella
 Nonthaburi,55-64,0,2004,Rubella
 P.Nakhon S.Ayutthaya,55-64,0,2004,Rubella
 Pathum Thani,55-64,0,2004,Rubella
-Zone 5,55-64,0,2004,Rubella
+Zone:5,55-64,0,2004,Rubella
 Chai Nat,55-64,0,2004,Rubella
 Lop Buri,55-64,0,2004,Rubella
 Saraburi,55-64,0,2004,Rubella
 Sing Buri,55-64,0,2004,Rubella
-Zone 6,55-64,0,2004,Rubella
+Zone:6,55-64,0,2004,Rubella
 Kanchanaburi,55-64,0,2004,Rubella
 Nakhon Pathom,55-64,0,2004,Rubella
 Ratchaburi,55-64,0,2004,Rubella
 Suphan Buri,55-64,0,2004,Rubella
-Zone 7,55-64,0,2004,Rubella
+Zone:7,55-64,0,2004,Rubella
 Phetchaburi,55-64,0,2004,Rubella
 Prachuap Khiri Khan,55-64,0,2004,Rubella
 Samut Sakhon,55-64,0,2004,Rubella
 Samut Songkhram,55-64,0,2004,Rubella
-Zone 8,55-64,0,2004,Rubella
+Zone:8,55-64,0,2004,Rubella
 Chachoengsao,55-64,0,2004,Rubella
 Nakhon Nayok,55-64,0,2004,Rubella
 Prachin Buri,55-64,0,2004,Rubella
 Sa Kaeo,55-64,0,2004,Rubella
 Samut Prakan,55-64,0,2004,Rubella
-Zone 9,55-64,0,2004,Rubella
+Zone:9,55-64,0,2004,Rubella
 Chanthaburi,55-64,0,2004,Rubella
 Chon Buri,55-64,0,2004,Rubella
 Rayong,55-64,0,2004,Rubella
 Trat,55-64,0,2004,Rubella
 North-Eastern Region,55-64,0,2004,Rubella
-Zone 10,55-64,0,2004,Rubella
+Zone:10,55-64,0,2004,Rubella
 Loei,55-64,0,2004,Rubella
 Nong Bua Lam Phu,55-64,0,2004,Rubella
 Nong Khai,55-64,0,2004,Rubella
 Udon Thani,55-64,0,2004,Rubella
-Zone 11,55-64,0,2004,Rubella
+Zone:11,55-64,0,2004,Rubella
 Kalasin,55-64,0,2004,Rubella
 Mukdahan,55-64,0,2004,Rubella
 Nakhon Phanom,55-64,0,2004,Rubella
 Sakon Nakhon,55-64,0,2004,Rubella
-Zone 12,55-64,0,2004,Rubella
+Zone:12,55-64,0,2004,Rubella
 Khon Kaen,55-64,0,2004,Rubella
 Maha Sarakham,55-64,0,2004,Rubella
 Roi Et,55-64,0,2004,Rubella
-Zone 13,55-64,0,2004,Rubella
+Zone:13,55-64,0,2004,Rubella
 Buri Ram,55-64,0,2004,Rubella
 Chaiyaphum,55-64,0,2004,Rubella
 Nakhon Ratchasima,55-64,0,2004,Rubella
 Surin,55-64,0,2004,Rubella
-Zone 14,55-64,0,2004,Rubella
+Zone:14,55-64,0,2004,Rubella
 Amnat Charoen,55-64,0,2004,Rubella
 Si Sa Ket,55-64,0,2004,Rubella
 Ubon Ratchathani,55-64,0,2004,Rubella
 Yasothon,55-64,0,2004,Rubella
 South Region,55-64,1,2004,Rubella
-Zone 15,55-64,1,2004,Rubella
+Zone:15,55-64,1,2004,Rubella
 Chumphon,55-64,0,2004,Rubella
 Ranong,55-64,0,2004,Rubella
 Surat Thani,55-64,1,2004,Rubella
-Zone 16,55-64,0,2004,Rubella
+Zone:16,55-64,0,2004,Rubella
 Nakhon Si Thammarat,55-64,0,2004,Rubella
 Phatthalung,55-64,0,2004,Rubella
 Trang,55-64,0,2004,Rubella
-Zone 17,55-64,0,2004,Rubella
+Zone:17,55-64,0,2004,Rubella
 Krabi,55-64,0,2004,Rubella
 Phangnga,55-64,0,2004,Rubella
 Phuket,55-64,0,2004,Rubella
-Zone 18,55-64,0,2004,Rubella
+Zone:18,55-64,0,2004,Rubella
 Narathiwat,55-64,0,2004,Rubella
 Pattani,55-64,0,2004,Rubella
 Yala,55-64,0,2004,Rubella
-Zone 19,55-64,0,2004,Rubella
+Zone:19,55-64,0,2004,Rubella
 Satun,55-64,0,2004,Rubella
 Songkhla,55-64,0,2004,Rubella
 Total,65+,2,2004,Rubella
 North Region,65+,0,2004,Rubella
-Zone 1,65+,0,2004,Rubella
+Zone:1,65+,0,2004,Rubella
 Chiang Mai,65+,0,2004,Rubella
 Chiang Rai,65+,0,2004,Rubella
 Lampang,65+,0,2004,Rubella
@@ -18782,98 +18782,98 @@ Mae Hong Son,65+,0,2004,Rubella
 Nan,65+,0,2004,Rubella
 Phayao,65+,0,2004,Rubella
 Phrae,65+,0,2004,Rubella
-Zone 2,65+,0,2004,Rubella
+Zone:2,65+,0,2004,Rubella
 Phetchabun,65+,0,2004,Rubella
 Phitsanulok,65+,0,2004,Rubella
 Sukhothai,65+,0,2004,Rubella
 Tak,65+,0,2004,Rubella
 Uttaradit,65+,0,2004,Rubella
-Zone 3,65+,0,2004,Rubella
+Zone:3,65+,0,2004,Rubella
 Kamphaeng Phet,65+,0,2004,Rubella
 Nakhon Sawan,65+,0,2004,Rubella
 Phichit,65+,0,2004,Rubella
 Uthai Thani,65+,0,2004,Rubella
 Central Region,65+,0,2004,Rubella
 Bangkok,65+,0,2004,Rubella
-Zone 4,65+,0,2004,Rubella
+Zone:4,65+,0,2004,Rubella
 Ang Thong,65+,0,2004,Rubella
 Nonthaburi,65+,0,2004,Rubella
 P.Nakhon S.Ayutthaya,65+,0,2004,Rubella
 Pathum Thani,65+,0,2004,Rubella
-Zone 5,65+,0,2004,Rubella
+Zone:5,65+,0,2004,Rubella
 Chai Nat,65+,0,2004,Rubella
 Lop Buri,65+,0,2004,Rubella
 Saraburi,65+,0,2004,Rubella
 Sing Buri,65+,0,2004,Rubella
-Zone 6,65+,0,2004,Rubella
+Zone:6,65+,0,2004,Rubella
 Kanchanaburi,65+,0,2004,Rubella
 Nakhon Pathom,65+,0,2004,Rubella
 Ratchaburi,65+,0,2004,Rubella
 Suphan Buri,65+,0,2004,Rubella
-Zone 7,65+,0,2004,Rubella
+Zone:7,65+,0,2004,Rubella
 Phetchaburi,65+,0,2004,Rubella
 Prachuap Khiri Khan,65+,0,2004,Rubella
 Samut Sakhon,65+,0,2004,Rubella
 Samut Songkhram,65+,0,2004,Rubella
-Zone 8,65+,0,2004,Rubella
+Zone:8,65+,0,2004,Rubella
 Chachoengsao,65+,0,2004,Rubella
 Nakhon Nayok,65+,0,2004,Rubella
 Prachin Buri,65+,0,2004,Rubella
 Sa Kaeo,65+,0,2004,Rubella
 Samut Prakan,65+,0,2004,Rubella
-Zone 9,65+,0,2004,Rubella
+Zone:9,65+,0,2004,Rubella
 Chanthaburi,65+,0,2004,Rubella
 Chon Buri,65+,0,2004,Rubella
 Rayong,65+,0,2004,Rubella
 Trat,65+,0,2004,Rubella
 North-Eastern Region,65+,1,2004,Rubella
-Zone 10,65+,0,2004,Rubella
+Zone:10,65+,0,2004,Rubella
 Loei,65+,0,2004,Rubella
 Nong Bua Lam Phu,65+,0,2004,Rubella
 Nong Khai,65+,0,2004,Rubella
 Udon Thani,65+,0,2004,Rubella
-Zone 11,65+,0,2004,Rubella
+Zone:11,65+,0,2004,Rubella
 Kalasin,65+,0,2004,Rubella
 Mukdahan,65+,0,2004,Rubella
 Nakhon Phanom,65+,0,2004,Rubella
 Sakon Nakhon,65+,0,2004,Rubella
-Zone 12,65+,0,2004,Rubella
+Zone:12,65+,0,2004,Rubella
 Khon Kaen,65+,0,2004,Rubella
 Maha Sarakham,65+,0,2004,Rubella
 Roi Et,65+,0,2004,Rubella
-Zone 13,65+,1,2004,Rubella
+Zone:13,65+,1,2004,Rubella
 Buri Ram,65+,0,2004,Rubella
 Chaiyaphum,65+,0,2004,Rubella
 Nakhon Ratchasima,65+,1,2004,Rubella
 Surin,65+,0,2004,Rubella
-Zone 14,65+,0,2004,Rubella
+Zone:14,65+,0,2004,Rubella
 Amnat Charoen,65+,0,2004,Rubella
 Si Sa Ket,65+,0,2004,Rubella
 Ubon Ratchathani,65+,0,2004,Rubella
 Yasothon,65+,0,2004,Rubella
 South Region,65+,1,2004,Rubella
-Zone 15,65+,0,2004,Rubella
+Zone:15,65+,0,2004,Rubella
 Chumphon,65+,0,2004,Rubella
 Ranong,65+,0,2004,Rubella
 Surat Thani,65+,0,2004,Rubella
-Zone 16,65+,1,2004,Rubella
+Zone:16,65+,1,2004,Rubella
 Nakhon Si Thammarat,65+,0,2004,Rubella
 Phatthalung,65+,1,2004,Rubella
 Trang,65+,0,2004,Rubella
-Zone 17,65+,0,2004,Rubella
+Zone:17,65+,0,2004,Rubella
 Krabi,65+,0,2004,Rubella
 Phangnga,65+,0,2004,Rubella
 Phuket,65+,0,2004,Rubella
-Zone 18,65+,0,2004,Rubella
+Zone:18,65+,0,2004,Rubella
 Narathiwat,65+,0,2004,Rubella
 Pattani,65+,0,2004,Rubella
 Yala,65+,0,2004,Rubella
-Zone 19,65+,0,2004,Rubella
+Zone:19,65+,0,2004,Rubella
 Satun,65+,0,2004,Rubella
 Songkhla,65+,0,2004,Rubella
 Total,Unknown,0,2004,Rubella
 North Region,Unknown,0,2004,Rubella
-Zone 1,Unknown,0,2004,Rubella
+Zone:1,Unknown,0,2004,Rubella
 Chiang Mai,Unknown,0,2004,Rubella
 Chiang Rai,Unknown,0,2004,Rubella
 Lampang,Unknown,0,2004,Rubella
@@ -18882,93 +18882,93 @@ Mae Hong Son,Unknown,0,2004,Rubella
 Nan,Unknown,0,2004,Rubella
 Phayao,Unknown,0,2004,Rubella
 Phrae,Unknown,0,2004,Rubella
-Zone 2,Unknown,0,2004,Rubella
+Zone:2,Unknown,0,2004,Rubella
 Phetchabun,Unknown,0,2004,Rubella
 Phitsanulok,Unknown,0,2004,Rubella
 Sukhothai,Unknown,0,2004,Rubella
 Tak,Unknown,0,2004,Rubella
 Uttaradit,Unknown,0,2004,Rubella
-Zone 3,Unknown,0,2004,Rubella
+Zone:3,Unknown,0,2004,Rubella
 Kamphaeng Phet,Unknown,0,2004,Rubella
 Nakhon Sawan,Unknown,0,2004,Rubella
 Phichit,Unknown,0,2004,Rubella
 Uthai Thani,Unknown,0,2004,Rubella
 Central Region,Unknown,0,2004,Rubella
 Bangkok,Unknown,0,2004,Rubella
-Zone 4,Unknown,0,2004,Rubella
+Zone:4,Unknown,0,2004,Rubella
 Ang Thong,Unknown,0,2004,Rubella
 Nonthaburi,Unknown,0,2004,Rubella
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Rubella
 Pathum Thani,Unknown,0,2004,Rubella
-Zone 5,Unknown,0,2004,Rubella
+Zone:5,Unknown,0,2004,Rubella
 Chai Nat,Unknown,0,2004,Rubella
 Lop Buri,Unknown,0,2004,Rubella
 Saraburi,Unknown,0,2004,Rubella
 Sing Buri,Unknown,0,2004,Rubella
-Zone 6,Unknown,0,2004,Rubella
+Zone:6,Unknown,0,2004,Rubella
 Kanchanaburi,Unknown,0,2004,Rubella
 Nakhon Pathom,Unknown,0,2004,Rubella
 Ratchaburi,Unknown,0,2004,Rubella
 Suphan Buri,Unknown,0,2004,Rubella
-Zone 7,Unknown,0,2004,Rubella
+Zone:7,Unknown,0,2004,Rubella
 Phetchaburi,Unknown,0,2004,Rubella
 Prachuap Khiri Khan,Unknown,0,2004,Rubella
 Samut Sakhon,Unknown,0,2004,Rubella
 Samut Songkhram,Unknown,0,2004,Rubella
-Zone 8,Unknown,0,2004,Rubella
+Zone:8,Unknown,0,2004,Rubella
 Chachoengsao,Unknown,0,2004,Rubella
 Nakhon Nayok,Unknown,0,2004,Rubella
 Prachin Buri,Unknown,0,2004,Rubella
 Sa Kaeo,Unknown,0,2004,Rubella
 Samut Prakan,Unknown,0,2004,Rubella
-Zone 9,Unknown,0,2004,Rubella
+Zone:9,Unknown,0,2004,Rubella
 Chanthaburi,Unknown,0,2004,Rubella
 Chon Buri,Unknown,0,2004,Rubella
 Rayong,Unknown,0,2004,Rubella
 Trat,Unknown,0,2004,Rubella
 North-Eastern Region,Unknown,0,2004,Rubella
-Zone 10,Unknown,0,2004,Rubella
+Zone:10,Unknown,0,2004,Rubella
 Loei,Unknown,0,2004,Rubella
 Nong Bua Lam Phu,Unknown,0,2004,Rubella
 Nong Khai,Unknown,0,2004,Rubella
 Udon Thani,Unknown,0,2004,Rubella
-Zone 11,Unknown,0,2004,Rubella
+Zone:11,Unknown,0,2004,Rubella
 Kalasin,Unknown,0,2004,Rubella
 Mukdahan,Unknown,0,2004,Rubella
 Nakhon Phanom,Unknown,0,2004,Rubella
 Sakon Nakhon,Unknown,0,2004,Rubella
-Zone 12,Unknown,0,2004,Rubella
+Zone:12,Unknown,0,2004,Rubella
 Khon Kaen,Unknown,0,2004,Rubella
 Maha Sarakham,Unknown,0,2004,Rubella
 Roi Et,Unknown,0,2004,Rubella
-Zone 13,Unknown,0,2004,Rubella
+Zone:13,Unknown,0,2004,Rubella
 Buri Ram,Unknown,0,2004,Rubella
 Chaiyaphum,Unknown,0,2004,Rubella
 Nakhon Ratchasima,Unknown,0,2004,Rubella
 Surin,Unknown,0,2004,Rubella
-Zone 14,Unknown,0,2004,Rubella
+Zone:14,Unknown,0,2004,Rubella
 Amnat Charoen,Unknown,0,2004,Rubella
 Si Sa Ket,Unknown,0,2004,Rubella
 Ubon Ratchathani,Unknown,0,2004,Rubella
 Yasothon,Unknown,0,2004,Rubella
 South Region,Unknown,0,2004,Rubella
-Zone 15,Unknown,0,2004,Rubella
+Zone:15,Unknown,0,2004,Rubella
 Chumphon,Unknown,0,2004,Rubella
 Ranong,Unknown,0,2004,Rubella
 Surat Thani,Unknown,0,2004,Rubella
-Zone 16,Unknown,0,2004,Rubella
+Zone:16,Unknown,0,2004,Rubella
 Nakhon Si Thammarat,Unknown,0,2004,Rubella
 Phatthalung,Unknown,0,2004,Rubella
 Trang,Unknown,0,2004,Rubella
-Zone 17,Unknown,0,2004,Rubella
+Zone:17,Unknown,0,2004,Rubella
 Krabi,Unknown,0,2004,Rubella
 Phangnga,Unknown,0,2004,Rubella
 Phuket,Unknown,0,2004,Rubella
-Zone 18,Unknown,0,2004,Rubella
+Zone:18,Unknown,0,2004,Rubella
 Narathiwat,Unknown,0,2004,Rubella
 Pattani,Unknown,0,2004,Rubella
 Yala,Unknown,0,2004,Rubella
-Zone 19,Unknown,0,2004,Rubella
+Zone:19,Unknown,0,2004,Rubella
 Satun,Unknown,0,2004,Rubella
 Songkhla,Unknown,0,2004,Rubella
 Total,Total,331,2018,Rubella
@@ -22429,7 +22429,7 @@ Phichit,Unknown,0,2013,Rubella
 Uthai Thani,Unknown,0,2013,Rubella
 Total,Total,490,2003,Rubella
 North Region,Total,91,2003,Rubella
-Zone 1,Total,60,2003,Rubella
+Zone:1,Total,60,2003,Rubella
 Chiang Mai,Total,11,2003,Rubella
 Chiang Rai,Total,7,2003,Rubella
 Lampang,Total,33,2003,Rubella
@@ -22438,98 +22438,98 @@ Mae Hong Son,Total,2,2003,Rubella
 Nan,Total,2,2003,Rubella
 Phayao,Total,3,2003,Rubella
 Phrae,Total,1,2003,Rubella
-Zone 2,Total,15,2003,Rubella
+Zone:2,Total,15,2003,Rubella
 Phetchabun,Total,6,2003,Rubella
 Phitsanulok,Total,4,2003,Rubella
 Sukhothai,Total,0,2003,Rubella
 Tak,Total,0,2003,Rubella
 Uttaradit,Total,5,2003,Rubella
-Zone 3,Total,16,2003,Rubella
+Zone:3,Total,16,2003,Rubella
 Kamphaeng Phet,Total,0,2003,Rubella
 Nakhon Sawan,Total,13,2003,Rubella
 Phichit,Total,1,2003,Rubella
 Uthai Thani,Total,2,2003,Rubella
 Central Region,Total,283,2003,Rubella
 Bangkok,Total,55,2003,Rubella
-Zone 4,Total,31,2003,Rubella
+Zone:4,Total,31,2003,Rubella
 Ang Thong,Total,2,2003,Rubella
 Nonthaburi,Total,7,2003,Rubella
 P.Nakhon S.Ayutthaya,Total,8,2003,Rubella
 Pathum Thani,Total,14,2003,Rubella
-Zone 5,Total,12,2003,Rubella
+Zone:5,Total,12,2003,Rubella
 Chai Nat,Total,1,2003,Rubella
 Lop Buri,Total,6,2003,Rubella
 Saraburi,Total,4,2003,Rubella
 Sing Buri,Total,1,2003,Rubella
-Zone 6,Total,33,2003,Rubella
+Zone:6,Total,33,2003,Rubella
 Kanchanaburi,Total,2,2003,Rubella
 Nakhon Pathom,Total,18,2003,Rubella
 Ratchaburi,Total,10,2003,Rubella
 Suphan Buri,Total,3,2003,Rubella
-Zone 7,Total,10,2003,Rubella
+Zone:7,Total,10,2003,Rubella
 Phetchaburi,Total,6,2003,Rubella
 Prachuap Khiri Khan,Total,2,2003,Rubella
 Samut Sakhon,Total,2,2003,Rubella
 Samut Songkhram,Total,0,2003,Rubella
-Zone 8,Total,24,2003,Rubella
+Zone:8,Total,24,2003,Rubella
 Chachoengsao,Total,10,2003,Rubella
 Nakhon Nayok,Total,1,2003,Rubella
 Prachin Buri,Total,5,2003,Rubella
 Sa Kaeo,Total,3,2003,Rubella
 Samut Prakan,Total,5,2003,Rubella
-Zone 9,Total,118,2003,Rubella
+Zone:9,Total,118,2003,Rubella
 Chanthaburi,Total,4,2003,Rubella
 Chon Buri,Total,88,2003,Rubella
 Rayong,Total,18,2003,Rubella
 Trat,Total,8,2003,Rubella
 North-Eastern Region,Total,83,2003,Rubella
-Zone 10,Total,7,2003,Rubella
+Zone:10,Total,7,2003,Rubella
 Loei,Total,2,2003,Rubella
 Nong Bua Lam Phu,Total,4,2003,Rubella
 Nong Khai,Total,0,2003,Rubella
 Udon Thani,Total,1,2003,Rubella
-Zone 11,Total,6,2003,Rubella
+Zone:11,Total,6,2003,Rubella
 Kalasin,Total,1,2003,Rubella
 Mukdahan,Total,4,2003,Rubella
 Nakhon Phanom,Total,0,2003,Rubella
 Sakon Nakhon,Total,1,2003,Rubella
-Zone 12,Total,18,2003,Rubella
+Zone:12,Total,18,2003,Rubella
 Khon Kaen,Total,7,2003,Rubella
 Maha Sarakham,Total,2,2003,Rubella
 Roi Et,Total,9,2003,Rubella
-Zone 13,Total,28,2003,Rubella
+Zone:13,Total,28,2003,Rubella
 Buri Ram,Total,0,2003,Rubella
 Chaiyaphum,Total,2,2003,Rubella
 Nakhon Ratchasima,Total,11,2003,Rubella
 Surin,Total,15,2003,Rubella
-Zone 14,Total,24,2003,Rubella
+Zone:14,Total,24,2003,Rubella
 Amnat Charoen,Total,3,2003,Rubella
 Si Sa Ket,Total,9,2003,Rubella
 Ubon Ratchathani,Total,7,2003,Rubella
 Yasothon,Total,5,2003,Rubella
 South Region,Total,33,2003,Rubella
-Zone 15,Total,2,2003,Rubella
+Zone:15,Total,2,2003,Rubella
 Chumphon,Total,0,2003,Rubella
 Ranong,Total,1,2003,Rubella
 Surat Thani,Total,1,2003,Rubella
-Zone 16,Total,8,2003,Rubella
+Zone:16,Total,8,2003,Rubella
 Nakhon Si Thammarat,Total,4,2003,Rubella
 Phatthalung,Total,1,2003,Rubella
 Trang,Total,3,2003,Rubella
-Zone 17,Total,4,2003,Rubella
+Zone:17,Total,4,2003,Rubella
 Krabi,Total,2,2003,Rubella
 Phangnga,Total,1,2003,Rubella
 Phuket,Total,1,2003,Rubella
-Zone 18,Total,11,2003,Rubella
+Zone:18,Total,11,2003,Rubella
 Narathiwat,Total,3,2003,Rubella
 Pattani,Total,4,2003,Rubella
 Yala,Total,4,2003,Rubella
-Zone 19,Total,8,2003,Rubella
+Zone:19,Total,8,2003,Rubella
 Satun,Total,1,2003,Rubella
 Songkhla,Total,7,2003,Rubella
 Total,0,0,2003,Rubella
 North Region,0,0,2003,Rubella
-Zone 1,0,0,2003,Rubella
+Zone:1,0,0,2003,Rubella
 Chiang Mai,0,0,2003,Rubella
 Chiang Rai,0,0,2003,Rubella
 Lampang,0,0,2003,Rubella
@@ -22538,98 +22538,98 @@ Mae Hong Son,0,0,2003,Rubella
 Nan,0,0,2003,Rubella
 Phayao,0,0,2003,Rubella
 Phrae,0,0,2003,Rubella
-Zone 2,0,0,2003,Rubella
+Zone:2,0,0,2003,Rubella
 Phetchabun,0,0,2003,Rubella
 Phitsanulok,0,0,2003,Rubella
 Sukhothai,0,0,2003,Rubella
 Tak,0,0,2003,Rubella
 Uttaradit,0,0,2003,Rubella
-Zone 3,0,0,2003,Rubella
+Zone:3,0,0,2003,Rubella
 Kamphaeng Phet,0,0,2003,Rubella
 Nakhon Sawan,0,0,2003,Rubella
 Phichit,0,0,2003,Rubella
 Uthai Thani,0,0,2003,Rubella
 Central Region,0,0,2003,Rubella
 Bangkok,0,0,2003,Rubella
-Zone 4,0,0,2003,Rubella
+Zone:4,0,0,2003,Rubella
 Ang Thong,0,0,2003,Rubella
 Nonthaburi,0,0,2003,Rubella
 P.Nakhon S.Ayutthaya,0,0,2003,Rubella
 Pathum Thani,0,0,2003,Rubella
-Zone 5,0,0,2003,Rubella
+Zone:5,0,0,2003,Rubella
 Chai Nat,0,0,2003,Rubella
 Lop Buri,0,0,2003,Rubella
 Saraburi,0,0,2003,Rubella
 Sing Buri,0,0,2003,Rubella
-Zone 6,0,0,2003,Rubella
+Zone:6,0,0,2003,Rubella
 Kanchanaburi,0,0,2003,Rubella
 Nakhon Pathom,0,0,2003,Rubella
 Ratchaburi,0,0,2003,Rubella
 Suphan Buri,0,0,2003,Rubella
-Zone 7,0,0,2003,Rubella
+Zone:7,0,0,2003,Rubella
 Phetchaburi,0,0,2003,Rubella
 Prachuap Khiri Khan,0,0,2003,Rubella
 Samut Sakhon,0,0,2003,Rubella
 Samut Songkhram,0,0,2003,Rubella
-Zone 8,0,0,2003,Rubella
+Zone:8,0,0,2003,Rubella
 Chachoengsao,0,0,2003,Rubella
 Nakhon Nayok,0,0,2003,Rubella
 Prachin Buri,0,0,2003,Rubella
 Sa Kaeo,0,0,2003,Rubella
 Samut Prakan,0,0,2003,Rubella
-Zone 9,0,0,2003,Rubella
+Zone:9,0,0,2003,Rubella
 Chanthaburi,0,0,2003,Rubella
 Chon Buri,0,0,2003,Rubella
 Rayong,0,0,2003,Rubella
 Trat,0,0,2003,Rubella
 North-Eastern Region,0,0,2003,Rubella
-Zone 10,0,0,2003,Rubella
+Zone:10,0,0,2003,Rubella
 Loei,0,0,2003,Rubella
 Nong Bua Lam Phu,0,0,2003,Rubella
 Nong Khai,0,0,2003,Rubella
 Udon Thani,0,0,2003,Rubella
-Zone 11,0,0,2003,Rubella
+Zone:11,0,0,2003,Rubella
 Kalasin,0,0,2003,Rubella
 Mukdahan,0,0,2003,Rubella
 Nakhon Phanom,0,0,2003,Rubella
 Sakon Nakhon,0,0,2003,Rubella
-Zone 12,0,0,2003,Rubella
+Zone:12,0,0,2003,Rubella
 Khon Kaen,0,0,2003,Rubella
 Maha Sarakham,0,0,2003,Rubella
 Roi Et,0,0,2003,Rubella
-Zone 13,0,0,2003,Rubella
+Zone:13,0,0,2003,Rubella
 Buri Ram,0,0,2003,Rubella
 Chaiyaphum,0,0,2003,Rubella
 Nakhon Ratchasima,0,0,2003,Rubella
 Surin,0,0,2003,Rubella
-Zone 14,0,0,2003,Rubella
+Zone:14,0,0,2003,Rubella
 Amnat Charoen,0,0,2003,Rubella
 Si Sa Ket,0,0,2003,Rubella
 Ubon Ratchathani,0,0,2003,Rubella
 Yasothon,0,0,2003,Rubella
 South Region,0,0,2003,Rubella
-Zone 15,0,0,2003,Rubella
+Zone:15,0,0,2003,Rubella
 Chumphon,0,0,2003,Rubella
 Ranong,0,0,2003,Rubella
 Surat Thani,0,0,2003,Rubella
-Zone 16,0,0,2003,Rubella
+Zone:16,0,0,2003,Rubella
 Nakhon Si Thammarat,0,0,2003,Rubella
 Phatthalung,0,0,2003,Rubella
 Trang,0,0,2003,Rubella
-Zone 17,0,0,2003,Rubella
+Zone:17,0,0,2003,Rubella
 Krabi,0,0,2003,Rubella
 Phangnga,0,0,2003,Rubella
 Phuket,0,0,2003,Rubella
-Zone 18,0,0,2003,Rubella
+Zone:18,0,0,2003,Rubella
 Narathiwat,0,0,2003,Rubella
 Pattani,0,0,2003,Rubella
 Yala,0,0,2003,Rubella
-Zone 19,0,0,2003,Rubella
+Zone:19,0,0,2003,Rubella
 Satun,0,0,2003,Rubella
 Songkhla,0,0,2003,Rubella
 Total,<1,34,2003,Rubella
 North Region,<1,7,2003,Rubella
-Zone 1,<1,2,2003,Rubella
+Zone:1,<1,2,2003,Rubella
 Chiang Mai,<1,0,2003,Rubella
 Chiang Rai,<1,2,2003,Rubella
 Lampang,<1,0,2003,Rubella
@@ -22638,98 +22638,98 @@ Mae Hong Son,<1,0,2003,Rubella
 Nan,<1,0,2003,Rubella
 Phayao,<1,0,2003,Rubella
 Phrae,<1,0,2003,Rubella
-Zone 2,<1,0,2003,Rubella
+Zone:2,<1,0,2003,Rubella
 Phetchabun,<1,0,2003,Rubella
 Phitsanulok,<1,0,2003,Rubella
 Sukhothai,<1,0,2003,Rubella
 Tak,<1,0,2003,Rubella
 Uttaradit,<1,0,2003,Rubella
-Zone 3,<1,5,2003,Rubella
+Zone:3,<1,5,2003,Rubella
 Kamphaeng Phet,<1,0,2003,Rubella
 Nakhon Sawan,<1,4,2003,Rubella
 Phichit,<1,1,2003,Rubella
 Uthai Thani,<1,0,2003,Rubella
 Central Region,<1,11,2003,Rubella
 Bangkok,<1,3,2003,Rubella
-Zone 4,<1,0,2003,Rubella
+Zone:4,<1,0,2003,Rubella
 Ang Thong,<1,0,2003,Rubella
 Nonthaburi,<1,0,2003,Rubella
 P.Nakhon S.Ayutthaya,<1,0,2003,Rubella
 Pathum Thani,<1,0,2003,Rubella
-Zone 5,<1,1,2003,Rubella
+Zone:5,<1,1,2003,Rubella
 Chai Nat,<1,0,2003,Rubella
 Lop Buri,<1,0,2003,Rubella
 Saraburi,<1,1,2003,Rubella
 Sing Buri,<1,0,2003,Rubella
-Zone 6,<1,1,2003,Rubella
+Zone:6,<1,1,2003,Rubella
 Kanchanaburi,<1,0,2003,Rubella
 Nakhon Pathom,<1,1,2003,Rubella
 Ratchaburi,<1,0,2003,Rubella
 Suphan Buri,<1,0,2003,Rubella
-Zone 7,<1,2,2003,Rubella
+Zone:7,<1,2,2003,Rubella
 Phetchaburi,<1,1,2003,Rubella
 Prachuap Khiri Khan,<1,1,2003,Rubella
 Samut Sakhon,<1,0,2003,Rubella
 Samut Songkhram,<1,0,2003,Rubella
-Zone 8,<1,0,2003,Rubella
+Zone:8,<1,0,2003,Rubella
 Chachoengsao,<1,0,2003,Rubella
 Nakhon Nayok,<1,0,2003,Rubella
 Prachin Buri,<1,0,2003,Rubella
 Sa Kaeo,<1,0,2003,Rubella
 Samut Prakan,<1,0,2003,Rubella
-Zone 9,<1,4,2003,Rubella
+Zone:9,<1,4,2003,Rubella
 Chanthaburi,<1,0,2003,Rubella
 Chon Buri,<1,1,2003,Rubella
 Rayong,<1,2,2003,Rubella
 Trat,<1,1,2003,Rubella
 North-Eastern Region,<1,12,2003,Rubella
-Zone 10,<1,0,2003,Rubella
+Zone:10,<1,0,2003,Rubella
 Loei,<1,0,2003,Rubella
 Nong Bua Lam Phu,<1,0,2003,Rubella
 Nong Khai,<1,0,2003,Rubella
 Udon Thani,<1,0,2003,Rubella
-Zone 11,<1,2,2003,Rubella
+Zone:11,<1,2,2003,Rubella
 Kalasin,<1,0,2003,Rubella
 Mukdahan,<1,1,2003,Rubella
 Nakhon Phanom,<1,0,2003,Rubella
 Sakon Nakhon,<1,1,2003,Rubella
-Zone 12,<1,3,2003,Rubella
+Zone:12,<1,3,2003,Rubella
 Khon Kaen,<1,1,2003,Rubella
 Maha Sarakham,<1,1,2003,Rubella
 Roi Et,<1,1,2003,Rubella
-Zone 13,<1,5,2003,Rubella
+Zone:13,<1,5,2003,Rubella
 Buri Ram,<1,0,2003,Rubella
 Chaiyaphum,<1,0,2003,Rubella
 Nakhon Ratchasima,<1,0,2003,Rubella
 Surin,<1,5,2003,Rubella
-Zone 14,<1,2,2003,Rubella
+Zone:14,<1,2,2003,Rubella
 Amnat Charoen,<1,0,2003,Rubella
 Si Sa Ket,<1,1,2003,Rubella
 Ubon Ratchathani,<1,1,2003,Rubella
 Yasothon,<1,0,2003,Rubella
 South Region,<1,4,2003,Rubella
-Zone 15,<1,1,2003,Rubella
+Zone:15,<1,1,2003,Rubella
 Chumphon,<1,0,2003,Rubella
 Ranong,<1,0,2003,Rubella
 Surat Thani,<1,1,2003,Rubella
-Zone 16,<1,1,2003,Rubella
+Zone:16,<1,1,2003,Rubella
 Nakhon Si Thammarat,<1,1,2003,Rubella
 Phatthalung,<1,0,2003,Rubella
 Trang,<1,0,2003,Rubella
-Zone 17,<1,1,2003,Rubella
+Zone:17,<1,1,2003,Rubella
 Krabi,<1,1,2003,Rubella
 Phangnga,<1,0,2003,Rubella
 Phuket,<1,0,2003,Rubella
-Zone 18,<1,0,2003,Rubella
+Zone:18,<1,0,2003,Rubella
 Narathiwat,<1,0,2003,Rubella
 Pattani,<1,0,2003,Rubella
 Yala,<1,0,2003,Rubella
-Zone 19,<1,1,2003,Rubella
+Zone:19,<1,1,2003,Rubella
 Satun,<1,0,2003,Rubella
 Songkhla,<1,1,2003,Rubella
 Total,1-1,29,2003,Rubella
 North Region,1-1,8,2003,Rubella
-Zone 1,1-1,5,2003,Rubella
+Zone:1,1-1,5,2003,Rubella
 Chiang Mai,1-1,3,2003,Rubella
 Chiang Rai,1-1,0,2003,Rubella
 Lampang,1-1,0,2003,Rubella
@@ -22738,98 +22738,98 @@ Mae Hong Son,1-1,0,2003,Rubella
 Nan,1-1,2,2003,Rubella
 Phayao,1-1,0,2003,Rubella
 Phrae,1-1,0,2003,Rubella
-Zone 2,1-1,2,2003,Rubella
+Zone:2,1-1,2,2003,Rubella
 Phetchabun,1-1,2,2003,Rubella
 Phitsanulok,1-1,0,2003,Rubella
 Sukhothai,1-1,0,2003,Rubella
 Tak,1-1,0,2003,Rubella
 Uttaradit,1-1,0,2003,Rubella
-Zone 3,1-1,1,2003,Rubella
+Zone:3,1-1,1,2003,Rubella
 Kamphaeng Phet,1-1,0,2003,Rubella
 Nakhon Sawan,1-1,1,2003,Rubella
 Phichit,1-1,0,2003,Rubella
 Uthai Thani,1-1,0,2003,Rubella
 Central Region,1-1,15,2003,Rubella
 Bangkok,1-1,4,2003,Rubella
-Zone 4,1-1,1,2003,Rubella
+Zone:4,1-1,1,2003,Rubella
 Ang Thong,1-1,0,2003,Rubella
 Nonthaburi,1-1,0,2003,Rubella
 P.Nakhon S.Ayutthaya,1-1,1,2003,Rubella
 Pathum Thani,1-1,0,2003,Rubella
-Zone 5,1-1,2,2003,Rubella
+Zone:5,1-1,2,2003,Rubella
 Chai Nat,1-1,0,2003,Rubella
 Lop Buri,1-1,1,2003,Rubella
 Saraburi,1-1,1,2003,Rubella
 Sing Buri,1-1,0,2003,Rubella
-Zone 6,1-1,3,2003,Rubella
+Zone:6,1-1,3,2003,Rubella
 Kanchanaburi,1-1,0,2003,Rubella
 Nakhon Pathom,1-1,3,2003,Rubella
 Ratchaburi,1-1,0,2003,Rubella
 Suphan Buri,1-1,0,2003,Rubella
-Zone 7,1-1,0,2003,Rubella
+Zone:7,1-1,0,2003,Rubella
 Phetchaburi,1-1,0,2003,Rubella
 Prachuap Khiri Khan,1-1,0,2003,Rubella
 Samut Sakhon,1-1,0,2003,Rubella
 Samut Songkhram,1-1,0,2003,Rubella
-Zone 8,1-1,4,2003,Rubella
+Zone:8,1-1,4,2003,Rubella
 Chachoengsao,1-1,3,2003,Rubella
 Nakhon Nayok,1-1,0,2003,Rubella
 Prachin Buri,1-1,1,2003,Rubella
 Sa Kaeo,1-1,0,2003,Rubella
 Samut Prakan,1-1,0,2003,Rubella
-Zone 9,1-1,1,2003,Rubella
+Zone:9,1-1,1,2003,Rubella
 Chanthaburi,1-1,0,2003,Rubella
 Chon Buri,1-1,0,2003,Rubella
 Rayong,1-1,1,2003,Rubella
 Trat,1-1,0,2003,Rubella
 North-Eastern Region,1-1,5,2003,Rubella
-Zone 10,1-1,1,2003,Rubella
+Zone:10,1-1,1,2003,Rubella
 Loei,1-1,1,2003,Rubella
 Nong Bua Lam Phu,1-1,0,2003,Rubella
 Nong Khai,1-1,0,2003,Rubella
 Udon Thani,1-1,0,2003,Rubella
-Zone 11,1-1,1,2003,Rubella
+Zone:11,1-1,1,2003,Rubella
 Kalasin,1-1,0,2003,Rubella
 Mukdahan,1-1,1,2003,Rubella
 Nakhon Phanom,1-1,0,2003,Rubella
 Sakon Nakhon,1-1,0,2003,Rubella
-Zone 12,1-1,0,2003,Rubella
+Zone:12,1-1,0,2003,Rubella
 Khon Kaen,1-1,0,2003,Rubella
 Maha Sarakham,1-1,0,2003,Rubella
 Roi Et,1-1,0,2003,Rubella
-Zone 13,1-1,1,2003,Rubella
+Zone:13,1-1,1,2003,Rubella
 Buri Ram,1-1,0,2003,Rubella
 Chaiyaphum,1-1,0,2003,Rubella
 Nakhon Ratchasima,1-1,1,2003,Rubella
 Surin,1-1,0,2003,Rubella
-Zone 14,1-1,2,2003,Rubella
+Zone:14,1-1,2,2003,Rubella
 Amnat Charoen,1-1,1,2003,Rubella
 Si Sa Ket,1-1,0,2003,Rubella
 Ubon Ratchathani,1-1,0,2003,Rubella
 Yasothon,1-1,1,2003,Rubella
 South Region,1-1,1,2003,Rubella
-Zone 15,1-1,0,2003,Rubella
+Zone:15,1-1,0,2003,Rubella
 Chumphon,1-1,0,2003,Rubella
 Ranong,1-1,0,2003,Rubella
 Surat Thani,1-1,0,2003,Rubella
-Zone 16,1-1,0,2003,Rubella
+Zone:16,1-1,0,2003,Rubella
 Nakhon Si Thammarat,1-1,0,2003,Rubella
 Phatthalung,1-1,0,2003,Rubella
 Trang,1-1,0,2003,Rubella
-Zone 17,1-1,0,2003,Rubella
+Zone:17,1-1,0,2003,Rubella
 Krabi,1-1,0,2003,Rubella
 Phangnga,1-1,0,2003,Rubella
 Phuket,1-1,0,2003,Rubella
-Zone 18,1-1,0,2003,Rubella
+Zone:18,1-1,0,2003,Rubella
 Narathiwat,1-1,0,2003,Rubella
 Pattani,1-1,0,2003,Rubella
 Yala,1-1,0,2003,Rubella
-Zone 19,1-1,1,2003,Rubella
+Zone:19,1-1,1,2003,Rubella
 Satun,1-1,0,2003,Rubella
 Songkhla,1-1,1,2003,Rubella
 Total,2-2,11,2003,Rubella
 North Region,2-2,1,2003,Rubella
-Zone 1,2-2,0,2003,Rubella
+Zone:1,2-2,0,2003,Rubella
 Chiang Mai,2-2,0,2003,Rubella
 Chiang Rai,2-2,0,2003,Rubella
 Lampang,2-2,0,2003,Rubella
@@ -22838,98 +22838,98 @@ Mae Hong Son,2-2,0,2003,Rubella
 Nan,2-2,0,2003,Rubella
 Phayao,2-2,0,2003,Rubella
 Phrae,2-2,0,2003,Rubella
-Zone 2,2-2,0,2003,Rubella
+Zone:2,2-2,0,2003,Rubella
 Phetchabun,2-2,0,2003,Rubella
 Phitsanulok,2-2,0,2003,Rubella
 Sukhothai,2-2,0,2003,Rubella
 Tak,2-2,0,2003,Rubella
 Uttaradit,2-2,0,2003,Rubella
-Zone 3,2-2,1,2003,Rubella
+Zone:3,2-2,1,2003,Rubella
 Kamphaeng Phet,2-2,0,2003,Rubella
 Nakhon Sawan,2-2,1,2003,Rubella
 Phichit,2-2,0,2003,Rubella
 Uthai Thani,2-2,0,2003,Rubella
 Central Region,2-2,5,2003,Rubella
 Bangkok,2-2,1,2003,Rubella
-Zone 4,2-2,1,2003,Rubella
+Zone:4,2-2,1,2003,Rubella
 Ang Thong,2-2,1,2003,Rubella
 Nonthaburi,2-2,0,2003,Rubella
 P.Nakhon S.Ayutthaya,2-2,0,2003,Rubella
 Pathum Thani,2-2,0,2003,Rubella
-Zone 5,2-2,0,2003,Rubella
+Zone:5,2-2,0,2003,Rubella
 Chai Nat,2-2,0,2003,Rubella
 Lop Buri,2-2,0,2003,Rubella
 Saraburi,2-2,0,2003,Rubella
 Sing Buri,2-2,0,2003,Rubella
-Zone 6,2-2,1,2003,Rubella
+Zone:6,2-2,1,2003,Rubella
 Kanchanaburi,2-2,0,2003,Rubella
 Nakhon Pathom,2-2,1,2003,Rubella
 Ratchaburi,2-2,0,2003,Rubella
 Suphan Buri,2-2,0,2003,Rubella
-Zone 7,2-2,0,2003,Rubella
+Zone:7,2-2,0,2003,Rubella
 Phetchaburi,2-2,0,2003,Rubella
 Prachuap Khiri Khan,2-2,0,2003,Rubella
 Samut Sakhon,2-2,0,2003,Rubella
 Samut Songkhram,2-2,0,2003,Rubella
-Zone 8,2-2,1,2003,Rubella
+Zone:8,2-2,1,2003,Rubella
 Chachoengsao,2-2,1,2003,Rubella
 Nakhon Nayok,2-2,0,2003,Rubella
 Prachin Buri,2-2,0,2003,Rubella
 Sa Kaeo,2-2,0,2003,Rubella
 Samut Prakan,2-2,0,2003,Rubella
-Zone 9,2-2,1,2003,Rubella
+Zone:9,2-2,1,2003,Rubella
 Chanthaburi,2-2,0,2003,Rubella
 Chon Buri,2-2,0,2003,Rubella
 Rayong,2-2,0,2003,Rubella
 Trat,2-2,1,2003,Rubella
 North-Eastern Region,2-2,5,2003,Rubella
-Zone 10,2-2,0,2003,Rubella
+Zone:10,2-2,0,2003,Rubella
 Loei,2-2,0,2003,Rubella
 Nong Bua Lam Phu,2-2,0,2003,Rubella
 Nong Khai,2-2,0,2003,Rubella
 Udon Thani,2-2,0,2003,Rubella
-Zone 11,2-2,0,2003,Rubella
+Zone:11,2-2,0,2003,Rubella
 Kalasin,2-2,0,2003,Rubella
 Mukdahan,2-2,0,2003,Rubella
 Nakhon Phanom,2-2,0,2003,Rubella
 Sakon Nakhon,2-2,0,2003,Rubella
-Zone 12,2-2,0,2003,Rubella
+Zone:12,2-2,0,2003,Rubella
 Khon Kaen,2-2,0,2003,Rubella
 Maha Sarakham,2-2,0,2003,Rubella
 Roi Et,2-2,0,2003,Rubella
-Zone 13,2-2,0,2003,Rubella
+Zone:13,2-2,0,2003,Rubella
 Buri Ram,2-2,0,2003,Rubella
 Chaiyaphum,2-2,0,2003,Rubella
 Nakhon Ratchasima,2-2,0,2003,Rubella
 Surin,2-2,0,2003,Rubella
-Zone 14,2-2,5,2003,Rubella
+Zone:14,2-2,5,2003,Rubella
 Amnat Charoen,2-2,0,2003,Rubella
 Si Sa Ket,2-2,3,2003,Rubella
 Ubon Ratchathani,2-2,2,2003,Rubella
 Yasothon,2-2,0,2003,Rubella
 South Region,2-2,0,2003,Rubella
-Zone 15,2-2,0,2003,Rubella
+Zone:15,2-2,0,2003,Rubella
 Chumphon,2-2,0,2003,Rubella
 Ranong,2-2,0,2003,Rubella
 Surat Thani,2-2,0,2003,Rubella
-Zone 16,2-2,0,2003,Rubella
+Zone:16,2-2,0,2003,Rubella
 Nakhon Si Thammarat,2-2,0,2003,Rubella
 Phatthalung,2-2,0,2003,Rubella
 Trang,2-2,0,2003,Rubella
-Zone 17,2-2,0,2003,Rubella
+Zone:17,2-2,0,2003,Rubella
 Krabi,2-2,0,2003,Rubella
 Phangnga,2-2,0,2003,Rubella
 Phuket,2-2,0,2003,Rubella
-Zone 18,2-2,0,2003,Rubella
+Zone:18,2-2,0,2003,Rubella
 Narathiwat,2-2,0,2003,Rubella
 Pattani,2-2,0,2003,Rubella
 Yala,2-2,0,2003,Rubella
-Zone 19,2-2,0,2003,Rubella
+Zone:19,2-2,0,2003,Rubella
 Satun,2-2,0,2003,Rubella
 Songkhla,2-2,0,2003,Rubella
 Total,3-3,10,2003,Rubella
 North Region,3-3,4,2003,Rubella
-Zone 1,3-3,2,2003,Rubella
+Zone:1,3-3,2,2003,Rubella
 Chiang Mai,3-3,0,2003,Rubella
 Chiang Rai,3-3,1,2003,Rubella
 Lampang,3-3,0,2003,Rubella
@@ -22938,98 +22938,98 @@ Mae Hong Son,3-3,1,2003,Rubella
 Nan,3-3,0,2003,Rubella
 Phayao,3-3,0,2003,Rubella
 Phrae,3-3,0,2003,Rubella
-Zone 2,3-3,1,2003,Rubella
+Zone:2,3-3,1,2003,Rubella
 Phetchabun,3-3,1,2003,Rubella
 Phitsanulok,3-3,0,2003,Rubella
 Sukhothai,3-3,0,2003,Rubella
 Tak,3-3,0,2003,Rubella
 Uttaradit,3-3,0,2003,Rubella
-Zone 3,3-3,1,2003,Rubella
+Zone:3,3-3,1,2003,Rubella
 Kamphaeng Phet,3-3,0,2003,Rubella
 Nakhon Sawan,3-3,1,2003,Rubella
 Phichit,3-3,0,2003,Rubella
 Uthai Thani,3-3,0,2003,Rubella
 Central Region,3-3,4,2003,Rubella
 Bangkok,3-3,0,2003,Rubella
-Zone 4,3-3,0,2003,Rubella
+Zone:4,3-3,0,2003,Rubella
 Ang Thong,3-3,0,2003,Rubella
 Nonthaburi,3-3,0,2003,Rubella
 P.Nakhon S.Ayutthaya,3-3,0,2003,Rubella
 Pathum Thani,3-3,0,2003,Rubella
-Zone 5,3-3,0,2003,Rubella
+Zone:5,3-3,0,2003,Rubella
 Chai Nat,3-3,0,2003,Rubella
 Lop Buri,3-3,0,2003,Rubella
 Saraburi,3-3,0,2003,Rubella
 Sing Buri,3-3,0,2003,Rubella
-Zone 6,3-3,0,2003,Rubella
+Zone:6,3-3,0,2003,Rubella
 Kanchanaburi,3-3,0,2003,Rubella
 Nakhon Pathom,3-3,0,2003,Rubella
 Ratchaburi,3-3,0,2003,Rubella
 Suphan Buri,3-3,0,2003,Rubella
-Zone 7,3-3,0,2003,Rubella
+Zone:7,3-3,0,2003,Rubella
 Phetchaburi,3-3,0,2003,Rubella
 Prachuap Khiri Khan,3-3,0,2003,Rubella
 Samut Sakhon,3-3,0,2003,Rubella
 Samut Songkhram,3-3,0,2003,Rubella
-Zone 8,3-3,4,2003,Rubella
+Zone:8,3-3,4,2003,Rubella
 Chachoengsao,3-3,3,2003,Rubella
 Nakhon Nayok,3-3,0,2003,Rubella
 Prachin Buri,3-3,1,2003,Rubella
 Sa Kaeo,3-3,0,2003,Rubella
 Samut Prakan,3-3,0,2003,Rubella
-Zone 9,3-3,0,2003,Rubella
+Zone:9,3-3,0,2003,Rubella
 Chanthaburi,3-3,0,2003,Rubella
 Chon Buri,3-3,0,2003,Rubella
 Rayong,3-3,0,2003,Rubella
 Trat,3-3,0,2003,Rubella
 North-Eastern Region,3-3,2,2003,Rubella
-Zone 10,3-3,0,2003,Rubella
+Zone:10,3-3,0,2003,Rubella
 Loei,3-3,0,2003,Rubella
 Nong Bua Lam Phu,3-3,0,2003,Rubella
 Nong Khai,3-3,0,2003,Rubella
 Udon Thani,3-3,0,2003,Rubella
-Zone 11,3-3,0,2003,Rubella
+Zone:11,3-3,0,2003,Rubella
 Kalasin,3-3,0,2003,Rubella
 Mukdahan,3-3,0,2003,Rubella
 Nakhon Phanom,3-3,0,2003,Rubella
 Sakon Nakhon,3-3,0,2003,Rubella
-Zone 12,3-3,0,2003,Rubella
+Zone:12,3-3,0,2003,Rubella
 Khon Kaen,3-3,0,2003,Rubella
 Maha Sarakham,3-3,0,2003,Rubella
 Roi Et,3-3,0,2003,Rubella
-Zone 13,3-3,1,2003,Rubella
+Zone:13,3-3,1,2003,Rubella
 Buri Ram,3-3,0,2003,Rubella
 Chaiyaphum,3-3,0,2003,Rubella
 Nakhon Ratchasima,3-3,0,2003,Rubella
 Surin,3-3,1,2003,Rubella
-Zone 14,3-3,1,2003,Rubella
+Zone:14,3-3,1,2003,Rubella
 Amnat Charoen,3-3,1,2003,Rubella
 Si Sa Ket,3-3,0,2003,Rubella
 Ubon Ratchathani,3-3,0,2003,Rubella
 Yasothon,3-3,0,2003,Rubella
 South Region,3-3,0,2003,Rubella
-Zone 15,3-3,0,2003,Rubella
+Zone:15,3-3,0,2003,Rubella
 Chumphon,3-3,0,2003,Rubella
 Ranong,3-3,0,2003,Rubella
 Surat Thani,3-3,0,2003,Rubella
-Zone 16,3-3,0,2003,Rubella
+Zone:16,3-3,0,2003,Rubella
 Nakhon Si Thammarat,3-3,0,2003,Rubella
 Phatthalung,3-3,0,2003,Rubella
 Trang,3-3,0,2003,Rubella
-Zone 17,3-3,0,2003,Rubella
+Zone:17,3-3,0,2003,Rubella
 Krabi,3-3,0,2003,Rubella
 Phangnga,3-3,0,2003,Rubella
 Phuket,3-3,0,2003,Rubella
-Zone 18,3-3,0,2003,Rubella
+Zone:18,3-3,0,2003,Rubella
 Narathiwat,3-3,0,2003,Rubella
 Pattani,3-3,0,2003,Rubella
 Yala,3-3,0,2003,Rubella
-Zone 19,3-3,0,2003,Rubella
+Zone:19,3-3,0,2003,Rubella
 Satun,3-3,0,2003,Rubella
 Songkhla,3-3,0,2003,Rubella
 Total,4-4,7,2003,Rubella
 North Region,4-4,0,2003,Rubella
-Zone 1,4-4,0,2003,Rubella
+Zone:1,4-4,0,2003,Rubella
 Chiang Mai,4-4,0,2003,Rubella
 Chiang Rai,4-4,0,2003,Rubella
 Lampang,4-4,0,2003,Rubella
@@ -23038,98 +23038,98 @@ Mae Hong Son,4-4,0,2003,Rubella
 Nan,4-4,0,2003,Rubella
 Phayao,4-4,0,2003,Rubella
 Phrae,4-4,0,2003,Rubella
-Zone 2,4-4,0,2003,Rubella
+Zone:2,4-4,0,2003,Rubella
 Phetchabun,4-4,0,2003,Rubella
 Phitsanulok,4-4,0,2003,Rubella
 Sukhothai,4-4,0,2003,Rubella
 Tak,4-4,0,2003,Rubella
 Uttaradit,4-4,0,2003,Rubella
-Zone 3,4-4,0,2003,Rubella
+Zone:3,4-4,0,2003,Rubella
 Kamphaeng Phet,4-4,0,2003,Rubella
 Nakhon Sawan,4-4,0,2003,Rubella
 Phichit,4-4,0,2003,Rubella
 Uthai Thani,4-4,0,2003,Rubella
 Central Region,4-4,5,2003,Rubella
 Bangkok,4-4,1,2003,Rubella
-Zone 4,4-4,1,2003,Rubella
+Zone:4,4-4,1,2003,Rubella
 Ang Thong,4-4,0,2003,Rubella
 Nonthaburi,4-4,1,2003,Rubella
 P.Nakhon S.Ayutthaya,4-4,0,2003,Rubella
 Pathum Thani,4-4,0,2003,Rubella
-Zone 5,4-4,0,2003,Rubella
+Zone:5,4-4,0,2003,Rubella
 Chai Nat,4-4,0,2003,Rubella
 Lop Buri,4-4,0,2003,Rubella
 Saraburi,4-4,0,2003,Rubella
 Sing Buri,4-4,0,2003,Rubella
-Zone 6,4-4,0,2003,Rubella
+Zone:6,4-4,0,2003,Rubella
 Kanchanaburi,4-4,0,2003,Rubella
 Nakhon Pathom,4-4,0,2003,Rubella
 Ratchaburi,4-4,0,2003,Rubella
 Suphan Buri,4-4,0,2003,Rubella
-Zone 7,4-4,1,2003,Rubella
+Zone:7,4-4,1,2003,Rubella
 Phetchaburi,4-4,1,2003,Rubella
 Prachuap Khiri Khan,4-4,0,2003,Rubella
 Samut Sakhon,4-4,0,2003,Rubella
 Samut Songkhram,4-4,0,2003,Rubella
-Zone 8,4-4,0,2003,Rubella
+Zone:8,4-4,0,2003,Rubella
 Chachoengsao,4-4,0,2003,Rubella
 Nakhon Nayok,4-4,0,2003,Rubella
 Prachin Buri,4-4,0,2003,Rubella
 Sa Kaeo,4-4,0,2003,Rubella
 Samut Prakan,4-4,0,2003,Rubella
-Zone 9,4-4,2,2003,Rubella
+Zone:9,4-4,2,2003,Rubella
 Chanthaburi,4-4,1,2003,Rubella
 Chon Buri,4-4,0,2003,Rubella
 Rayong,4-4,1,2003,Rubella
 Trat,4-4,0,2003,Rubella
 North-Eastern Region,4-4,2,2003,Rubella
-Zone 10,4-4,0,2003,Rubella
+Zone:10,4-4,0,2003,Rubella
 Loei,4-4,0,2003,Rubella
 Nong Bua Lam Phu,4-4,0,2003,Rubella
 Nong Khai,4-4,0,2003,Rubella
 Udon Thani,4-4,0,2003,Rubella
-Zone 11,4-4,0,2003,Rubella
+Zone:11,4-4,0,2003,Rubella
 Kalasin,4-4,0,2003,Rubella
 Mukdahan,4-4,0,2003,Rubella
 Nakhon Phanom,4-4,0,2003,Rubella
 Sakon Nakhon,4-4,0,2003,Rubella
-Zone 12,4-4,1,2003,Rubella
+Zone:12,4-4,1,2003,Rubella
 Khon Kaen,4-4,0,2003,Rubella
 Maha Sarakham,4-4,0,2003,Rubella
 Roi Et,4-4,1,2003,Rubella
-Zone 13,4-4,1,2003,Rubella
+Zone:13,4-4,1,2003,Rubella
 Buri Ram,4-4,0,2003,Rubella
 Chaiyaphum,4-4,0,2003,Rubella
 Nakhon Ratchasima,4-4,0,2003,Rubella
 Surin,4-4,1,2003,Rubella
-Zone 14,4-4,0,2003,Rubella
+Zone:14,4-4,0,2003,Rubella
 Amnat Charoen,4-4,0,2003,Rubella
 Si Sa Ket,4-4,0,2003,Rubella
 Ubon Ratchathani,4-4,0,2003,Rubella
 Yasothon,4-4,0,2003,Rubella
 South Region,4-4,0,2003,Rubella
-Zone 15,4-4,0,2003,Rubella
+Zone:15,4-4,0,2003,Rubella
 Chumphon,4-4,0,2003,Rubella
 Ranong,4-4,0,2003,Rubella
 Surat Thani,4-4,0,2003,Rubella
-Zone 16,4-4,0,2003,Rubella
+Zone:16,4-4,0,2003,Rubella
 Nakhon Si Thammarat,4-4,0,2003,Rubella
 Phatthalung,4-4,0,2003,Rubella
 Trang,4-4,0,2003,Rubella
-Zone 17,4-4,0,2003,Rubella
+Zone:17,4-4,0,2003,Rubella
 Krabi,4-4,0,2003,Rubella
 Phangnga,4-4,0,2003,Rubella
 Phuket,4-4,0,2003,Rubella
-Zone 18,4-4,0,2003,Rubella
+Zone:18,4-4,0,2003,Rubella
 Narathiwat,4-4,0,2003,Rubella
 Pattani,4-4,0,2003,Rubella
 Yala,4-4,0,2003,Rubella
-Zone 19,4-4,0,2003,Rubella
+Zone:19,4-4,0,2003,Rubella
 Satun,4-4,0,2003,Rubella
 Songkhla,4-4,0,2003,Rubella
 Total,5-5,6,2003,Rubella
 North Region,5-5,0,2003,Rubella
-Zone 1,5-5,0,2003,Rubella
+Zone:1,5-5,0,2003,Rubella
 Chiang Mai,5-5,0,2003,Rubella
 Chiang Rai,5-5,0,2003,Rubella
 Lampang,5-5,0,2003,Rubella
@@ -23138,98 +23138,98 @@ Mae Hong Son,5-5,0,2003,Rubella
 Nan,5-5,0,2003,Rubella
 Phayao,5-5,0,2003,Rubella
 Phrae,5-5,0,2003,Rubella
-Zone 2,5-5,0,2003,Rubella
+Zone:2,5-5,0,2003,Rubella
 Phetchabun,5-5,0,2003,Rubella
 Phitsanulok,5-5,0,2003,Rubella
 Sukhothai,5-5,0,2003,Rubella
 Tak,5-5,0,2003,Rubella
 Uttaradit,5-5,0,2003,Rubella
-Zone 3,5-5,0,2003,Rubella
+Zone:3,5-5,0,2003,Rubella
 Kamphaeng Phet,5-5,0,2003,Rubella
 Nakhon Sawan,5-5,0,2003,Rubella
 Phichit,5-5,0,2003,Rubella
 Uthai Thani,5-5,0,2003,Rubella
 Central Region,5-5,5,2003,Rubella
 Bangkok,5-5,2,2003,Rubella
-Zone 4,5-5,1,2003,Rubella
+Zone:4,5-5,1,2003,Rubella
 Ang Thong,5-5,0,2003,Rubella
 Nonthaburi,5-5,0,2003,Rubella
 P.Nakhon S.Ayutthaya,5-5,0,2003,Rubella
 Pathum Thani,5-5,1,2003,Rubella
-Zone 5,5-5,0,2003,Rubella
+Zone:5,5-5,0,2003,Rubella
 Chai Nat,5-5,0,2003,Rubella
 Lop Buri,5-5,0,2003,Rubella
 Saraburi,5-5,0,2003,Rubella
 Sing Buri,5-5,0,2003,Rubella
-Zone 6,5-5,1,2003,Rubella
+Zone:6,5-5,1,2003,Rubella
 Kanchanaburi,5-5,0,2003,Rubella
 Nakhon Pathom,5-5,1,2003,Rubella
 Ratchaburi,5-5,0,2003,Rubella
 Suphan Buri,5-5,0,2003,Rubella
-Zone 7,5-5,0,2003,Rubella
+Zone:7,5-5,0,2003,Rubella
 Phetchaburi,5-5,0,2003,Rubella
 Prachuap Khiri Khan,5-5,0,2003,Rubella
 Samut Sakhon,5-5,0,2003,Rubella
 Samut Songkhram,5-5,0,2003,Rubella
-Zone 8,5-5,0,2003,Rubella
+Zone:8,5-5,0,2003,Rubella
 Chachoengsao,5-5,0,2003,Rubella
 Nakhon Nayok,5-5,0,2003,Rubella
 Prachin Buri,5-5,0,2003,Rubella
 Sa Kaeo,5-5,0,2003,Rubella
 Samut Prakan,5-5,0,2003,Rubella
-Zone 9,5-5,1,2003,Rubella
+Zone:9,5-5,1,2003,Rubella
 Chanthaburi,5-5,0,2003,Rubella
 Chon Buri,5-5,0,2003,Rubella
 Rayong,5-5,0,2003,Rubella
 Trat,5-5,1,2003,Rubella
 North-Eastern Region,5-5,1,2003,Rubella
-Zone 10,5-5,0,2003,Rubella
+Zone:10,5-5,0,2003,Rubella
 Loei,5-5,0,2003,Rubella
 Nong Bua Lam Phu,5-5,0,2003,Rubella
 Nong Khai,5-5,0,2003,Rubella
 Udon Thani,5-5,0,2003,Rubella
-Zone 11,5-5,0,2003,Rubella
+Zone:11,5-5,0,2003,Rubella
 Kalasin,5-5,0,2003,Rubella
 Mukdahan,5-5,0,2003,Rubella
 Nakhon Phanom,5-5,0,2003,Rubella
 Sakon Nakhon,5-5,0,2003,Rubella
-Zone 12,5-5,0,2003,Rubella
+Zone:12,5-5,0,2003,Rubella
 Khon Kaen,5-5,0,2003,Rubella
 Maha Sarakham,5-5,0,2003,Rubella
 Roi Et,5-5,0,2003,Rubella
-Zone 13,5-5,1,2003,Rubella
+Zone:13,5-5,1,2003,Rubella
 Buri Ram,5-5,0,2003,Rubella
 Chaiyaphum,5-5,0,2003,Rubella
 Nakhon Ratchasima,5-5,1,2003,Rubella
 Surin,5-5,0,2003,Rubella
-Zone 14,5-5,0,2003,Rubella
+Zone:14,5-5,0,2003,Rubella
 Amnat Charoen,5-5,0,2003,Rubella
 Si Sa Ket,5-5,0,2003,Rubella
 Ubon Ratchathani,5-5,0,2003,Rubella
 Yasothon,5-5,0,2003,Rubella
 South Region,5-5,0,2003,Rubella
-Zone 15,5-5,0,2003,Rubella
+Zone:15,5-5,0,2003,Rubella
 Chumphon,5-5,0,2003,Rubella
 Ranong,5-5,0,2003,Rubella
 Surat Thani,5-5,0,2003,Rubella
-Zone 16,5-5,0,2003,Rubella
+Zone:16,5-5,0,2003,Rubella
 Nakhon Si Thammarat,5-5,0,2003,Rubella
 Phatthalung,5-5,0,2003,Rubella
 Trang,5-5,0,2003,Rubella
-Zone 17,5-5,0,2003,Rubella
+Zone:17,5-5,0,2003,Rubella
 Krabi,5-5,0,2003,Rubella
 Phangnga,5-5,0,2003,Rubella
 Phuket,5-5,0,2003,Rubella
-Zone 18,5-5,0,2003,Rubella
+Zone:18,5-5,0,2003,Rubella
 Narathiwat,5-5,0,2003,Rubella
 Pattani,5-5,0,2003,Rubella
 Yala,5-5,0,2003,Rubella
-Zone 19,5-5,0,2003,Rubella
+Zone:19,5-5,0,2003,Rubella
 Satun,5-5,0,2003,Rubella
 Songkhla,5-5,0,2003,Rubella
 Total,6-6,10,2003,Rubella
 North Region,6-6,1,2003,Rubella
-Zone 1,6-6,1,2003,Rubella
+Zone:1,6-6,1,2003,Rubella
 Chiang Mai,6-6,0,2003,Rubella
 Chiang Rai,6-6,0,2003,Rubella
 Lampang,6-6,1,2003,Rubella
@@ -23238,98 +23238,98 @@ Mae Hong Son,6-6,0,2003,Rubella
 Nan,6-6,0,2003,Rubella
 Phayao,6-6,0,2003,Rubella
 Phrae,6-6,0,2003,Rubella
-Zone 2,6-6,0,2003,Rubella
+Zone:2,6-6,0,2003,Rubella
 Phetchabun,6-6,0,2003,Rubella
 Phitsanulok,6-6,0,2003,Rubella
 Sukhothai,6-6,0,2003,Rubella
 Tak,6-6,0,2003,Rubella
 Uttaradit,6-6,0,2003,Rubella
-Zone 3,6-6,0,2003,Rubella
+Zone:3,6-6,0,2003,Rubella
 Kamphaeng Phet,6-6,0,2003,Rubella
 Nakhon Sawan,6-6,0,2003,Rubella
 Phichit,6-6,0,2003,Rubella
 Uthai Thani,6-6,0,2003,Rubella
 Central Region,6-6,7,2003,Rubella
 Bangkok,6-6,2,2003,Rubella
-Zone 4,6-6,0,2003,Rubella
+Zone:4,6-6,0,2003,Rubella
 Ang Thong,6-6,0,2003,Rubella
 Nonthaburi,6-6,0,2003,Rubella
 P.Nakhon S.Ayutthaya,6-6,0,2003,Rubella
 Pathum Thani,6-6,0,2003,Rubella
-Zone 5,6-6,1,2003,Rubella
+Zone:5,6-6,1,2003,Rubella
 Chai Nat,6-6,0,2003,Rubella
 Lop Buri,6-6,1,2003,Rubella
 Saraburi,6-6,0,2003,Rubella
 Sing Buri,6-6,0,2003,Rubella
-Zone 6,6-6,1,2003,Rubella
+Zone:6,6-6,1,2003,Rubella
 Kanchanaburi,6-6,0,2003,Rubella
 Nakhon Pathom,6-6,1,2003,Rubella
 Ratchaburi,6-6,0,2003,Rubella
 Suphan Buri,6-6,0,2003,Rubella
-Zone 7,6-6,0,2003,Rubella
+Zone:7,6-6,0,2003,Rubella
 Phetchaburi,6-6,0,2003,Rubella
 Prachuap Khiri Khan,6-6,0,2003,Rubella
 Samut Sakhon,6-6,0,2003,Rubella
 Samut Songkhram,6-6,0,2003,Rubella
-Zone 8,6-6,2,2003,Rubella
+Zone:8,6-6,2,2003,Rubella
 Chachoengsao,6-6,1,2003,Rubella
 Nakhon Nayok,6-6,0,2003,Rubella
 Prachin Buri,6-6,1,2003,Rubella
 Sa Kaeo,6-6,0,2003,Rubella
 Samut Prakan,6-6,0,2003,Rubella
-Zone 9,6-6,1,2003,Rubella
+Zone:9,6-6,1,2003,Rubella
 Chanthaburi,6-6,0,2003,Rubella
 Chon Buri,6-6,1,2003,Rubella
 Rayong,6-6,0,2003,Rubella
 Trat,6-6,0,2003,Rubella
 North-Eastern Region,6-6,2,2003,Rubella
-Zone 10,6-6,0,2003,Rubella
+Zone:10,6-6,0,2003,Rubella
 Loei,6-6,0,2003,Rubella
 Nong Bua Lam Phu,6-6,0,2003,Rubella
 Nong Khai,6-6,0,2003,Rubella
 Udon Thani,6-6,0,2003,Rubella
-Zone 11,6-6,0,2003,Rubella
+Zone:11,6-6,0,2003,Rubella
 Kalasin,6-6,0,2003,Rubella
 Mukdahan,6-6,0,2003,Rubella
 Nakhon Phanom,6-6,0,2003,Rubella
 Sakon Nakhon,6-6,0,2003,Rubella
-Zone 12,6-6,1,2003,Rubella
+Zone:12,6-6,1,2003,Rubella
 Khon Kaen,6-6,1,2003,Rubella
 Maha Sarakham,6-6,0,2003,Rubella
 Roi Et,6-6,0,2003,Rubella
-Zone 13,6-6,0,2003,Rubella
+Zone:13,6-6,0,2003,Rubella
 Buri Ram,6-6,0,2003,Rubella
 Chaiyaphum,6-6,0,2003,Rubella
 Nakhon Ratchasima,6-6,0,2003,Rubella
 Surin,6-6,0,2003,Rubella
-Zone 14,6-6,1,2003,Rubella
+Zone:14,6-6,1,2003,Rubella
 Amnat Charoen,6-6,0,2003,Rubella
 Si Sa Ket,6-6,0,2003,Rubella
 Ubon Ratchathani,6-6,1,2003,Rubella
 Yasothon,6-6,0,2003,Rubella
 South Region,6-6,0,2003,Rubella
-Zone 15,6-6,0,2003,Rubella
+Zone:15,6-6,0,2003,Rubella
 Chumphon,6-6,0,2003,Rubella
 Ranong,6-6,0,2003,Rubella
 Surat Thani,6-6,0,2003,Rubella
-Zone 16,6-6,0,2003,Rubella
+Zone:16,6-6,0,2003,Rubella
 Nakhon Si Thammarat,6-6,0,2003,Rubella
 Phatthalung,6-6,0,2003,Rubella
 Trang,6-6,0,2003,Rubella
-Zone 17,6-6,0,2003,Rubella
+Zone:17,6-6,0,2003,Rubella
 Krabi,6-6,0,2003,Rubella
 Phangnga,6-6,0,2003,Rubella
 Phuket,6-6,0,2003,Rubella
-Zone 18,6-6,0,2003,Rubella
+Zone:18,6-6,0,2003,Rubella
 Narathiwat,6-6,0,2003,Rubella
 Pattani,6-6,0,2003,Rubella
 Yala,6-6,0,2003,Rubella
-Zone 19,6-6,0,2003,Rubella
+Zone:19,6-6,0,2003,Rubella
 Satun,6-6,0,2003,Rubella
 Songkhla,6-6,0,2003,Rubella
 Total,7-9,38,2003,Rubella
 North Region,7-9,6,2003,Rubella
-Zone 1,7-9,5,2003,Rubella
+Zone:1,7-9,5,2003,Rubella
 Chiang Mai,7-9,3,2003,Rubella
 Chiang Rai,7-9,0,2003,Rubella
 Lampang,7-9,0,2003,Rubella
@@ -23338,98 +23338,98 @@ Mae Hong Son,7-9,0,2003,Rubella
 Nan,7-9,0,2003,Rubella
 Phayao,7-9,0,2003,Rubella
 Phrae,7-9,1,2003,Rubella
-Zone 2,7-9,0,2003,Rubella
+Zone:2,7-9,0,2003,Rubella
 Phetchabun,7-9,0,2003,Rubella
 Phitsanulok,7-9,0,2003,Rubella
 Sukhothai,7-9,0,2003,Rubella
 Tak,7-9,0,2003,Rubella
 Uttaradit,7-9,0,2003,Rubella
-Zone 3,7-9,1,2003,Rubella
+Zone:3,7-9,1,2003,Rubella
 Kamphaeng Phet,7-9,0,2003,Rubella
 Nakhon Sawan,7-9,1,2003,Rubella
 Phichit,7-9,0,2003,Rubella
 Uthai Thani,7-9,0,2003,Rubella
 Central Region,7-9,23,2003,Rubella
 Bangkok,7-9,5,2003,Rubella
-Zone 4,7-9,2,2003,Rubella
+Zone:4,7-9,2,2003,Rubella
 Ang Thong,7-9,0,2003,Rubella
 Nonthaburi,7-9,0,2003,Rubella
 P.Nakhon S.Ayutthaya,7-9,1,2003,Rubella
 Pathum Thani,7-9,1,2003,Rubella
-Zone 5,7-9,1,2003,Rubella
+Zone:5,7-9,1,2003,Rubella
 Chai Nat,7-9,0,2003,Rubella
 Lop Buri,7-9,0,2003,Rubella
 Saraburi,7-9,1,2003,Rubella
 Sing Buri,7-9,0,2003,Rubella
-Zone 6,7-9,5,2003,Rubella
+Zone:6,7-9,5,2003,Rubella
 Kanchanaburi,7-9,1,2003,Rubella
 Nakhon Pathom,7-9,2,2003,Rubella
 Ratchaburi,7-9,2,2003,Rubella
 Suphan Buri,7-9,0,2003,Rubella
-Zone 7,7-9,1,2003,Rubella
+Zone:7,7-9,1,2003,Rubella
 Phetchaburi,7-9,1,2003,Rubella
 Prachuap Khiri Khan,7-9,0,2003,Rubella
 Samut Sakhon,7-9,0,2003,Rubella
 Samut Songkhram,7-9,0,2003,Rubella
-Zone 8,7-9,3,2003,Rubella
+Zone:8,7-9,3,2003,Rubella
 Chachoengsao,7-9,0,2003,Rubella
 Nakhon Nayok,7-9,0,2003,Rubella
 Prachin Buri,7-9,0,2003,Rubella
 Sa Kaeo,7-9,2,2003,Rubella
 Samut Prakan,7-9,1,2003,Rubella
-Zone 9,7-9,6,2003,Rubella
+Zone:9,7-9,6,2003,Rubella
 Chanthaburi,7-9,0,2003,Rubella
 Chon Buri,7-9,2,2003,Rubella
 Rayong,7-9,2,2003,Rubella
 Trat,7-9,2,2003,Rubella
 North-Eastern Region,7-9,8,2003,Rubella
-Zone 10,7-9,1,2003,Rubella
+Zone:10,7-9,1,2003,Rubella
 Loei,7-9,0,2003,Rubella
 Nong Bua Lam Phu,7-9,1,2003,Rubella
 Nong Khai,7-9,0,2003,Rubella
 Udon Thani,7-9,0,2003,Rubella
-Zone 11,7-9,1,2003,Rubella
+Zone:11,7-9,1,2003,Rubella
 Kalasin,7-9,0,2003,Rubella
 Mukdahan,7-9,1,2003,Rubella
 Nakhon Phanom,7-9,0,2003,Rubella
 Sakon Nakhon,7-9,0,2003,Rubella
-Zone 12,7-9,4,2003,Rubella
+Zone:12,7-9,4,2003,Rubella
 Khon Kaen,7-9,2,2003,Rubella
 Maha Sarakham,7-9,0,2003,Rubella
 Roi Et,7-9,2,2003,Rubella
-Zone 13,7-9,1,2003,Rubella
+Zone:13,7-9,1,2003,Rubella
 Buri Ram,7-9,0,2003,Rubella
 Chaiyaphum,7-9,0,2003,Rubella
 Nakhon Ratchasima,7-9,0,2003,Rubella
 Surin,7-9,1,2003,Rubella
-Zone 14,7-9,1,2003,Rubella
+Zone:14,7-9,1,2003,Rubella
 Amnat Charoen,7-9,0,2003,Rubella
 Si Sa Ket,7-9,0,2003,Rubella
 Ubon Ratchathani,7-9,1,2003,Rubella
 Yasothon,7-9,0,2003,Rubella
 South Region,7-9,1,2003,Rubella
-Zone 15,7-9,0,2003,Rubella
+Zone:15,7-9,0,2003,Rubella
 Chumphon,7-9,0,2003,Rubella
 Ranong,7-9,0,2003,Rubella
 Surat Thani,7-9,0,2003,Rubella
-Zone 16,7-9,0,2003,Rubella
+Zone:16,7-9,0,2003,Rubella
 Nakhon Si Thammarat,7-9,0,2003,Rubella
 Phatthalung,7-9,0,2003,Rubella
 Trang,7-9,0,2003,Rubella
-Zone 17,7-9,0,2003,Rubella
+Zone:17,7-9,0,2003,Rubella
 Krabi,7-9,0,2003,Rubella
 Phangnga,7-9,0,2003,Rubella
 Phuket,7-9,0,2003,Rubella
-Zone 18,7-9,1,2003,Rubella
+Zone:18,7-9,1,2003,Rubella
 Narathiwat,7-9,0,2003,Rubella
 Pattani,7-9,0,2003,Rubella
 Yala,7-9,1,2003,Rubella
-Zone 19,7-9,0,2003,Rubella
+Zone:19,7-9,0,2003,Rubella
 Satun,7-9,0,2003,Rubella
 Songkhla,7-9,0,2003,Rubella
 Total,10-14,61,2003,Rubella
 North Region,10-14,22,2003,Rubella
-Zone 1,10-14,19,2003,Rubella
+Zone:1,10-14,19,2003,Rubella
 Chiang Mai,10-14,1,2003,Rubella
 Chiang Rai,10-14,0,2003,Rubella
 Lampang,10-14,17,2003,Rubella
@@ -23438,98 +23438,98 @@ Mae Hong Son,10-14,0,2003,Rubella
 Nan,10-14,0,2003,Rubella
 Phayao,10-14,1,2003,Rubella
 Phrae,10-14,0,2003,Rubella
-Zone 2,10-14,2,2003,Rubella
+Zone:2,10-14,2,2003,Rubella
 Phetchabun,10-14,0,2003,Rubella
 Phitsanulok,10-14,2,2003,Rubella
 Sukhothai,10-14,0,2003,Rubella
 Tak,10-14,0,2003,Rubella
 Uttaradit,10-14,0,2003,Rubella
-Zone 3,10-14,1,2003,Rubella
+Zone:3,10-14,1,2003,Rubella
 Kamphaeng Phet,10-14,0,2003,Rubella
 Nakhon Sawan,10-14,1,2003,Rubella
 Phichit,10-14,0,2003,Rubella
 Uthai Thani,10-14,0,2003,Rubella
 Central Region,10-14,25,2003,Rubella
 Bangkok,10-14,5,2003,Rubella
-Zone 4,10-14,3,2003,Rubella
+Zone:4,10-14,3,2003,Rubella
 Ang Thong,10-14,0,2003,Rubella
 Nonthaburi,10-14,1,2003,Rubella
 P.Nakhon S.Ayutthaya,10-14,1,2003,Rubella
 Pathum Thani,10-14,1,2003,Rubella
-Zone 5,10-14,0,2003,Rubella
+Zone:5,10-14,0,2003,Rubella
 Chai Nat,10-14,0,2003,Rubella
 Lop Buri,10-14,0,2003,Rubella
 Saraburi,10-14,0,2003,Rubella
 Sing Buri,10-14,0,2003,Rubella
-Zone 6,10-14,6,2003,Rubella
+Zone:6,10-14,6,2003,Rubella
 Kanchanaburi,10-14,0,2003,Rubella
 Nakhon Pathom,10-14,2,2003,Rubella
 Ratchaburi,10-14,3,2003,Rubella
 Suphan Buri,10-14,1,2003,Rubella
-Zone 7,10-14,2,2003,Rubella
+Zone:7,10-14,2,2003,Rubella
 Phetchaburi,10-14,1,2003,Rubella
 Prachuap Khiri Khan,10-14,0,2003,Rubella
 Samut Sakhon,10-14,1,2003,Rubella
 Samut Songkhram,10-14,0,2003,Rubella
-Zone 8,10-14,3,2003,Rubella
+Zone:8,10-14,3,2003,Rubella
 Chachoengsao,10-14,1,2003,Rubella
 Nakhon Nayok,10-14,0,2003,Rubella
 Prachin Buri,10-14,1,2003,Rubella
 Sa Kaeo,10-14,0,2003,Rubella
 Samut Prakan,10-14,1,2003,Rubella
-Zone 9,10-14,6,2003,Rubella
+Zone:9,10-14,6,2003,Rubella
 Chanthaburi,10-14,1,2003,Rubella
 Chon Buri,10-14,0,2003,Rubella
 Rayong,10-14,3,2003,Rubella
 Trat,10-14,2,2003,Rubella
 North-Eastern Region,10-14,9,2003,Rubella
-Zone 10,10-14,2,2003,Rubella
+Zone:10,10-14,2,2003,Rubella
 Loei,10-14,0,2003,Rubella
 Nong Bua Lam Phu,10-14,2,2003,Rubella
 Nong Khai,10-14,0,2003,Rubella
 Udon Thani,10-14,0,2003,Rubella
-Zone 11,10-14,0,2003,Rubella
+Zone:11,10-14,0,2003,Rubella
 Kalasin,10-14,0,2003,Rubella
 Mukdahan,10-14,0,2003,Rubella
 Nakhon Phanom,10-14,0,2003,Rubella
 Sakon Nakhon,10-14,0,2003,Rubella
-Zone 12,10-14,2,2003,Rubella
+Zone:12,10-14,2,2003,Rubella
 Khon Kaen,10-14,0,2003,Rubella
 Maha Sarakham,10-14,0,2003,Rubella
 Roi Et,10-14,2,2003,Rubella
-Zone 13,10-14,3,2003,Rubella
+Zone:13,10-14,3,2003,Rubella
 Buri Ram,10-14,0,2003,Rubella
 Chaiyaphum,10-14,1,2003,Rubella
 Nakhon Ratchasima,10-14,1,2003,Rubella
 Surin,10-14,1,2003,Rubella
-Zone 14,10-14,2,2003,Rubella
+Zone:14,10-14,2,2003,Rubella
 Amnat Charoen,10-14,0,2003,Rubella
 Si Sa Ket,10-14,1,2003,Rubella
 Ubon Ratchathani,10-14,0,2003,Rubella
 Yasothon,10-14,1,2003,Rubella
 South Region,10-14,5,2003,Rubella
-Zone 15,10-14,1,2003,Rubella
+Zone:15,10-14,1,2003,Rubella
 Chumphon,10-14,0,2003,Rubella
 Ranong,10-14,1,2003,Rubella
 Surat Thani,10-14,0,2003,Rubella
-Zone 16,10-14,0,2003,Rubella
+Zone:16,10-14,0,2003,Rubella
 Nakhon Si Thammarat,10-14,0,2003,Rubella
 Phatthalung,10-14,0,2003,Rubella
 Trang,10-14,0,2003,Rubella
-Zone 17,10-14,1,2003,Rubella
+Zone:17,10-14,1,2003,Rubella
 Krabi,10-14,0,2003,Rubella
 Phangnga,10-14,1,2003,Rubella
 Phuket,10-14,0,2003,Rubella
-Zone 18,10-14,0,2003,Rubella
+Zone:18,10-14,0,2003,Rubella
 Narathiwat,10-14,0,2003,Rubella
 Pattani,10-14,0,2003,Rubella
 Yala,10-14,0,2003,Rubella
-Zone 19,10-14,3,2003,Rubella
+Zone:19,10-14,3,2003,Rubella
 Satun,10-14,0,2003,Rubella
 Songkhla,10-14,3,2003,Rubella
 Total,15-24,194,2003,Rubella
 North Region,15-24,31,2003,Rubella
-Zone 1,15-24,20,2003,Rubella
+Zone:1,15-24,20,2003,Rubella
 Chiang Mai,15-24,3,2003,Rubella
 Chiang Rai,15-24,2,2003,Rubella
 Lampang,15-24,13,2003,Rubella
@@ -23538,98 +23538,98 @@ Mae Hong Son,15-24,1,2003,Rubella
 Nan,15-24,0,2003,Rubella
 Phayao,15-24,1,2003,Rubella
 Phrae,15-24,0,2003,Rubella
-Zone 2,15-24,7,2003,Rubella
+Zone:2,15-24,7,2003,Rubella
 Phetchabun,15-24,2,2003,Rubella
 Phitsanulok,15-24,0,2003,Rubella
 Sukhothai,15-24,0,2003,Rubella
 Tak,15-24,0,2003,Rubella
 Uttaradit,15-24,5,2003,Rubella
-Zone 3,15-24,4,2003,Rubella
+Zone:3,15-24,4,2003,Rubella
 Kamphaeng Phet,15-24,0,2003,Rubella
 Nakhon Sawan,15-24,3,2003,Rubella
 Phichit,15-24,0,2003,Rubella
 Uthai Thani,15-24,1,2003,Rubella
 Central Region,15-24,132,2003,Rubella
 Bangkok,15-24,17,2003,Rubella
-Zone 4,15-24,12,2003,Rubella
+Zone:4,15-24,12,2003,Rubella
 Ang Thong,15-24,0,2003,Rubella
 Nonthaburi,15-24,3,2003,Rubella
 P.Nakhon S.Ayutthaya,15-24,3,2003,Rubella
 Pathum Thani,15-24,6,2003,Rubella
-Zone 5,15-24,3,2003,Rubella
+Zone:5,15-24,3,2003,Rubella
 Chai Nat,15-24,0,2003,Rubella
 Lop Buri,15-24,1,2003,Rubella
 Saraburi,15-24,1,2003,Rubella
 Sing Buri,15-24,1,2003,Rubella
-Zone 6,15-24,8,2003,Rubella
+Zone:6,15-24,8,2003,Rubella
 Kanchanaburi,15-24,0,2003,Rubella
 Nakhon Pathom,15-24,4,2003,Rubella
 Ratchaburi,15-24,2,2003,Rubella
 Suphan Buri,15-24,2,2003,Rubella
-Zone 7,15-24,1,2003,Rubella
+Zone:7,15-24,1,2003,Rubella
 Phetchaburi,15-24,1,2003,Rubella
 Prachuap Khiri Khan,15-24,0,2003,Rubella
 Samut Sakhon,15-24,0,2003,Rubella
 Samut Songkhram,15-24,0,2003,Rubella
-Zone 8,15-24,6,2003,Rubella
+Zone:8,15-24,6,2003,Rubella
 Chachoengsao,15-24,1,2003,Rubella
 Nakhon Nayok,15-24,1,2003,Rubella
 Prachin Buri,15-24,0,2003,Rubella
 Sa Kaeo,15-24,1,2003,Rubella
 Samut Prakan,15-24,3,2003,Rubella
-Zone 9,15-24,85,2003,Rubella
+Zone:9,15-24,85,2003,Rubella
 Chanthaburi,15-24,0,2003,Rubella
 Chon Buri,15-24,82,2003,Rubella
 Rayong,15-24,3,2003,Rubella
 Trat,15-24,0,2003,Rubella
 North-Eastern Region,15-24,26,2003,Rubella
-Zone 10,15-24,2,2003,Rubella
+Zone:10,15-24,2,2003,Rubella
 Loei,15-24,1,2003,Rubella
 Nong Bua Lam Phu,15-24,1,2003,Rubella
 Nong Khai,15-24,0,2003,Rubella
 Udon Thani,15-24,0,2003,Rubella
-Zone 11,15-24,1,2003,Rubella
+Zone:11,15-24,1,2003,Rubella
 Kalasin,15-24,0,2003,Rubella
 Mukdahan,15-24,1,2003,Rubella
 Nakhon Phanom,15-24,0,2003,Rubella
 Sakon Nakhon,15-24,0,2003,Rubella
-Zone 12,15-24,5,2003,Rubella
+Zone:12,15-24,5,2003,Rubella
 Khon Kaen,15-24,1,2003,Rubella
 Maha Sarakham,15-24,1,2003,Rubella
 Roi Et,15-24,3,2003,Rubella
-Zone 13,15-24,11,2003,Rubella
+Zone:13,15-24,11,2003,Rubella
 Buri Ram,15-24,0,2003,Rubella
 Chaiyaphum,15-24,1,2003,Rubella
 Nakhon Ratchasima,15-24,6,2003,Rubella
 Surin,15-24,4,2003,Rubella
-Zone 14,15-24,7,2003,Rubella
+Zone:14,15-24,7,2003,Rubella
 Amnat Charoen,15-24,1,2003,Rubella
 Si Sa Ket,15-24,3,2003,Rubella
 Ubon Ratchathani,15-24,0,2003,Rubella
 Yasothon,15-24,3,2003,Rubella
 South Region,15-24,5,2003,Rubella
-Zone 15,15-24,0,2003,Rubella
+Zone:15,15-24,0,2003,Rubella
 Chumphon,15-24,0,2003,Rubella
 Ranong,15-24,0,2003,Rubella
 Surat Thani,15-24,0,2003,Rubella
-Zone 16,15-24,1,2003,Rubella
+Zone:16,15-24,1,2003,Rubella
 Nakhon Si Thammarat,15-24,0,2003,Rubella
 Phatthalung,15-24,0,2003,Rubella
 Trang,15-24,1,2003,Rubella
-Zone 17,15-24,1,2003,Rubella
+Zone:17,15-24,1,2003,Rubella
 Krabi,15-24,0,2003,Rubella
 Phangnga,15-24,0,2003,Rubella
 Phuket,15-24,1,2003,Rubella
-Zone 18,15-24,3,2003,Rubella
+Zone:18,15-24,3,2003,Rubella
 Narathiwat,15-24,0,2003,Rubella
 Pattani,15-24,3,2003,Rubella
 Yala,15-24,0,2003,Rubella
-Zone 19,15-24,0,2003,Rubella
+Zone:19,15-24,0,2003,Rubella
 Satun,15-24,0,2003,Rubella
 Songkhla,15-24,0,2003,Rubella
 Total,25-34,42,2003,Rubella
 North Region,25-34,3,2003,Rubella
-Zone 1,25-34,0,2003,Rubella
+Zone:1,25-34,0,2003,Rubella
 Chiang Mai,25-34,0,2003,Rubella
 Chiang Rai,25-34,0,2003,Rubella
 Lampang,25-34,0,2003,Rubella
@@ -23638,98 +23638,98 @@ Mae Hong Son,25-34,0,2003,Rubella
 Nan,25-34,0,2003,Rubella
 Phayao,25-34,0,2003,Rubella
 Phrae,25-34,0,2003,Rubella
-Zone 2,25-34,2,2003,Rubella
+Zone:2,25-34,2,2003,Rubella
 Phetchabun,25-34,1,2003,Rubella
 Phitsanulok,25-34,1,2003,Rubella
 Sukhothai,25-34,0,2003,Rubella
 Tak,25-34,0,2003,Rubella
 Uttaradit,25-34,0,2003,Rubella
-Zone 3,25-34,1,2003,Rubella
+Zone:3,25-34,1,2003,Rubella
 Kamphaeng Phet,25-34,0,2003,Rubella
 Nakhon Sawan,25-34,1,2003,Rubella
 Phichit,25-34,0,2003,Rubella
 Uthai Thani,25-34,0,2003,Rubella
 Central Region,25-34,29,2003,Rubella
 Bangkok,25-34,7,2003,Rubella
-Zone 4,25-34,9,2003,Rubella
+Zone:4,25-34,9,2003,Rubella
 Ang Thong,25-34,1,2003,Rubella
 Nonthaburi,25-34,2,2003,Rubella
 P.Nakhon S.Ayutthaya,25-34,2,2003,Rubella
 Pathum Thani,25-34,4,2003,Rubella
-Zone 5,25-34,3,2003,Rubella
+Zone:5,25-34,3,2003,Rubella
 Chai Nat,25-34,0,2003,Rubella
 Lop Buri,25-34,3,2003,Rubella
 Saraburi,25-34,0,2003,Rubella
 Sing Buri,25-34,0,2003,Rubella
-Zone 6,25-34,2,2003,Rubella
+Zone:6,25-34,2,2003,Rubella
 Kanchanaburi,25-34,0,2003,Rubella
 Nakhon Pathom,25-34,2,2003,Rubella
 Ratchaburi,25-34,0,2003,Rubella
 Suphan Buri,25-34,0,2003,Rubella
-Zone 7,25-34,1,2003,Rubella
+Zone:7,25-34,1,2003,Rubella
 Phetchaburi,25-34,0,2003,Rubella
 Prachuap Khiri Khan,25-34,0,2003,Rubella
 Samut Sakhon,25-34,1,2003,Rubella
 Samut Songkhram,25-34,0,2003,Rubella
-Zone 8,25-34,0,2003,Rubella
+Zone:8,25-34,0,2003,Rubella
 Chachoengsao,25-34,0,2003,Rubella
 Nakhon Nayok,25-34,0,2003,Rubella
 Prachin Buri,25-34,0,2003,Rubella
 Sa Kaeo,25-34,0,2003,Rubella
 Samut Prakan,25-34,0,2003,Rubella
-Zone 9,25-34,7,2003,Rubella
+Zone:9,25-34,7,2003,Rubella
 Chanthaburi,25-34,1,2003,Rubella
 Chon Buri,25-34,2,2003,Rubella
 Rayong,25-34,4,2003,Rubella
 Trat,25-34,0,2003,Rubella
 North-Eastern Region,25-34,4,2003,Rubella
-Zone 10,25-34,0,2003,Rubella
+Zone:10,25-34,0,2003,Rubella
 Loei,25-34,0,2003,Rubella
 Nong Bua Lam Phu,25-34,0,2003,Rubella
 Nong Khai,25-34,0,2003,Rubella
 Udon Thani,25-34,0,2003,Rubella
-Zone 11,25-34,0,2003,Rubella
+Zone:11,25-34,0,2003,Rubella
 Kalasin,25-34,0,2003,Rubella
 Mukdahan,25-34,0,2003,Rubella
 Nakhon Phanom,25-34,0,2003,Rubella
 Sakon Nakhon,25-34,0,2003,Rubella
-Zone 12,25-34,0,2003,Rubella
+Zone:12,25-34,0,2003,Rubella
 Khon Kaen,25-34,0,2003,Rubella
 Maha Sarakham,25-34,0,2003,Rubella
 Roi Et,25-34,0,2003,Rubella
-Zone 13,25-34,3,2003,Rubella
+Zone:13,25-34,3,2003,Rubella
 Buri Ram,25-34,0,2003,Rubella
 Chaiyaphum,25-34,0,2003,Rubella
 Nakhon Ratchasima,25-34,1,2003,Rubella
 Surin,25-34,2,2003,Rubella
-Zone 14,25-34,1,2003,Rubella
+Zone:14,25-34,1,2003,Rubella
 Amnat Charoen,25-34,0,2003,Rubella
 Si Sa Ket,25-34,1,2003,Rubella
 Ubon Ratchathani,25-34,0,2003,Rubella
 Yasothon,25-34,0,2003,Rubella
 South Region,25-34,6,2003,Rubella
-Zone 15,25-34,0,2003,Rubella
+Zone:15,25-34,0,2003,Rubella
 Chumphon,25-34,0,2003,Rubella
 Ranong,25-34,0,2003,Rubella
 Surat Thani,25-34,0,2003,Rubella
-Zone 16,25-34,3,2003,Rubella
+Zone:16,25-34,3,2003,Rubella
 Nakhon Si Thammarat,25-34,1,2003,Rubella
 Phatthalung,25-34,1,2003,Rubella
 Trang,25-34,1,2003,Rubella
-Zone 17,25-34,1,2003,Rubella
+Zone:17,25-34,1,2003,Rubella
 Krabi,25-34,1,2003,Rubella
 Phangnga,25-34,0,2003,Rubella
 Phuket,25-34,0,2003,Rubella
-Zone 18,25-34,2,2003,Rubella
+Zone:18,25-34,2,2003,Rubella
 Narathiwat,25-34,0,2003,Rubella
 Pattani,25-34,1,2003,Rubella
 Yala,25-34,1,2003,Rubella
-Zone 19,25-34,0,2003,Rubella
+Zone:19,25-34,0,2003,Rubella
 Satun,25-34,0,2003,Rubella
 Songkhla,25-34,0,2003,Rubella
 Total,35-44,24,2003,Rubella
 North Region,35-44,5,2003,Rubella
-Zone 1,35-44,3,2003,Rubella
+Zone:1,35-44,3,2003,Rubella
 Chiang Mai,35-44,0,2003,Rubella
 Chiang Rai,35-44,0,2003,Rubella
 Lampang,35-44,2,2003,Rubella
@@ -23738,98 +23738,98 @@ Mae Hong Son,35-44,0,2003,Rubella
 Nan,35-44,0,2003,Rubella
 Phayao,35-44,1,2003,Rubella
 Phrae,35-44,0,2003,Rubella
-Zone 2,35-44,1,2003,Rubella
+Zone:2,35-44,1,2003,Rubella
 Phetchabun,35-44,0,2003,Rubella
 Phitsanulok,35-44,1,2003,Rubella
 Sukhothai,35-44,0,2003,Rubella
 Tak,35-44,0,2003,Rubella
 Uttaradit,35-44,0,2003,Rubella
-Zone 3,35-44,1,2003,Rubella
+Zone:3,35-44,1,2003,Rubella
 Kamphaeng Phet,35-44,0,2003,Rubella
 Nakhon Sawan,35-44,0,2003,Rubella
 Phichit,35-44,0,2003,Rubella
 Uthai Thani,35-44,1,2003,Rubella
 Central Region,35-44,14,2003,Rubella
 Bangkok,35-44,5,2003,Rubella
-Zone 4,35-44,1,2003,Rubella
+Zone:4,35-44,1,2003,Rubella
 Ang Thong,35-44,0,2003,Rubella
 Nonthaburi,35-44,0,2003,Rubella
 P.Nakhon S.Ayutthaya,35-44,0,2003,Rubella
 Pathum Thani,35-44,1,2003,Rubella
-Zone 5,35-44,0,2003,Rubella
+Zone:5,35-44,0,2003,Rubella
 Chai Nat,35-44,0,2003,Rubella
 Lop Buri,35-44,0,2003,Rubella
 Saraburi,35-44,0,2003,Rubella
 Sing Buri,35-44,0,2003,Rubella
-Zone 6,35-44,4,2003,Rubella
+Zone:6,35-44,4,2003,Rubella
 Kanchanaburi,35-44,1,2003,Rubella
 Nakhon Pathom,35-44,0,2003,Rubella
 Ratchaburi,35-44,3,2003,Rubella
 Suphan Buri,35-44,0,2003,Rubella
-Zone 7,35-44,1,2003,Rubella
+Zone:7,35-44,1,2003,Rubella
 Phetchaburi,35-44,0,2003,Rubella
 Prachuap Khiri Khan,35-44,1,2003,Rubella
 Samut Sakhon,35-44,0,2003,Rubella
 Samut Songkhram,35-44,0,2003,Rubella
-Zone 8,35-44,0,2003,Rubella
+Zone:8,35-44,0,2003,Rubella
 Chachoengsao,35-44,0,2003,Rubella
 Nakhon Nayok,35-44,0,2003,Rubella
 Prachin Buri,35-44,0,2003,Rubella
 Sa Kaeo,35-44,0,2003,Rubella
 Samut Prakan,35-44,0,2003,Rubella
-Zone 9,35-44,3,2003,Rubella
+Zone:9,35-44,3,2003,Rubella
 Chanthaburi,35-44,1,2003,Rubella
 Chon Buri,35-44,0,2003,Rubella
 Rayong,35-44,2,2003,Rubella
 Trat,35-44,0,2003,Rubella
 North-Eastern Region,35-44,2,2003,Rubella
-Zone 10,35-44,0,2003,Rubella
+Zone:10,35-44,0,2003,Rubella
 Loei,35-44,0,2003,Rubella
 Nong Bua Lam Phu,35-44,0,2003,Rubella
 Nong Khai,35-44,0,2003,Rubella
 Udon Thani,35-44,0,2003,Rubella
-Zone 11,35-44,0,2003,Rubella
+Zone:11,35-44,0,2003,Rubella
 Kalasin,35-44,0,2003,Rubella
 Mukdahan,35-44,0,2003,Rubella
 Nakhon Phanom,35-44,0,2003,Rubella
 Sakon Nakhon,35-44,0,2003,Rubella
-Zone 12,35-44,1,2003,Rubella
+Zone:12,35-44,1,2003,Rubella
 Khon Kaen,35-44,1,2003,Rubella
 Maha Sarakham,35-44,0,2003,Rubella
 Roi Et,35-44,0,2003,Rubella
-Zone 13,35-44,1,2003,Rubella
+Zone:13,35-44,1,2003,Rubella
 Buri Ram,35-44,0,2003,Rubella
 Chaiyaphum,35-44,0,2003,Rubella
 Nakhon Ratchasima,35-44,1,2003,Rubella
 Surin,35-44,0,2003,Rubella
-Zone 14,35-44,0,2003,Rubella
+Zone:14,35-44,0,2003,Rubella
 Amnat Charoen,35-44,0,2003,Rubella
 Si Sa Ket,35-44,0,2003,Rubella
 Ubon Ratchathani,35-44,0,2003,Rubella
 Yasothon,35-44,0,2003,Rubella
 South Region,35-44,3,2003,Rubella
-Zone 15,35-44,0,2003,Rubella
+Zone:15,35-44,0,2003,Rubella
 Chumphon,35-44,0,2003,Rubella
 Ranong,35-44,0,2003,Rubella
 Surat Thani,35-44,0,2003,Rubella
-Zone 16,35-44,0,2003,Rubella
+Zone:16,35-44,0,2003,Rubella
 Nakhon Si Thammarat,35-44,0,2003,Rubella
 Phatthalung,35-44,0,2003,Rubella
 Trang,35-44,0,2003,Rubella
-Zone 17,35-44,0,2003,Rubella
+Zone:17,35-44,0,2003,Rubella
 Krabi,35-44,0,2003,Rubella
 Phangnga,35-44,0,2003,Rubella
 Phuket,35-44,0,2003,Rubella
-Zone 18,35-44,2,2003,Rubella
+Zone:18,35-44,2,2003,Rubella
 Narathiwat,35-44,1,2003,Rubella
 Pattani,35-44,0,2003,Rubella
 Yala,35-44,1,2003,Rubella
-Zone 19,35-44,1,2003,Rubella
+Zone:19,35-44,1,2003,Rubella
 Satun,35-44,0,2003,Rubella
 Songkhla,35-44,1,2003,Rubella
 Total,45-54,8,2003,Rubella
 North Region,45-54,2,2003,Rubella
-Zone 1,45-54,2,2003,Rubella
+Zone:1,45-54,2,2003,Rubella
 Chiang Mai,45-54,0,2003,Rubella
 Chiang Rai,45-54,2,2003,Rubella
 Lampang,45-54,0,2003,Rubella
@@ -23838,98 +23838,98 @@ Mae Hong Son,45-54,0,2003,Rubella
 Nan,45-54,0,2003,Rubella
 Phayao,45-54,0,2003,Rubella
 Phrae,45-54,0,2003,Rubella
-Zone 2,45-54,0,2003,Rubella
+Zone:2,45-54,0,2003,Rubella
 Phetchabun,45-54,0,2003,Rubella
 Phitsanulok,45-54,0,2003,Rubella
 Sukhothai,45-54,0,2003,Rubella
 Tak,45-54,0,2003,Rubella
 Uttaradit,45-54,0,2003,Rubella
-Zone 3,45-54,0,2003,Rubella
+Zone:3,45-54,0,2003,Rubella
 Kamphaeng Phet,45-54,0,2003,Rubella
 Nakhon Sawan,45-54,0,2003,Rubella
 Phichit,45-54,0,2003,Rubella
 Uthai Thani,45-54,0,2003,Rubella
 Central Region,45-54,4,2003,Rubella
 Bangkok,45-54,3,2003,Rubella
-Zone 4,45-54,0,2003,Rubella
+Zone:4,45-54,0,2003,Rubella
 Ang Thong,45-54,0,2003,Rubella
 Nonthaburi,45-54,0,2003,Rubella
 P.Nakhon S.Ayutthaya,45-54,0,2003,Rubella
 Pathum Thani,45-54,0,2003,Rubella
-Zone 5,45-54,0,2003,Rubella
+Zone:5,45-54,0,2003,Rubella
 Chai Nat,45-54,0,2003,Rubella
 Lop Buri,45-54,0,2003,Rubella
 Saraburi,45-54,0,2003,Rubella
 Sing Buri,45-54,0,2003,Rubella
-Zone 6,45-54,0,2003,Rubella
+Zone:6,45-54,0,2003,Rubella
 Kanchanaburi,45-54,0,2003,Rubella
 Nakhon Pathom,45-54,0,2003,Rubella
 Ratchaburi,45-54,0,2003,Rubella
 Suphan Buri,45-54,0,2003,Rubella
-Zone 7,45-54,0,2003,Rubella
+Zone:7,45-54,0,2003,Rubella
 Phetchaburi,45-54,0,2003,Rubella
 Prachuap Khiri Khan,45-54,0,2003,Rubella
 Samut Sakhon,45-54,0,2003,Rubella
 Samut Songkhram,45-54,0,2003,Rubella
-Zone 8,45-54,0,2003,Rubella
+Zone:8,45-54,0,2003,Rubella
 Chachoengsao,45-54,0,2003,Rubella
 Nakhon Nayok,45-54,0,2003,Rubella
 Prachin Buri,45-54,0,2003,Rubella
 Sa Kaeo,45-54,0,2003,Rubella
 Samut Prakan,45-54,0,2003,Rubella
-Zone 9,45-54,1,2003,Rubella
+Zone:9,45-54,1,2003,Rubella
 Chanthaburi,45-54,0,2003,Rubella
 Chon Buri,45-54,0,2003,Rubella
 Rayong,45-54,0,2003,Rubella
 Trat,45-54,1,2003,Rubella
 North-Eastern Region,45-54,0,2003,Rubella
-Zone 10,45-54,0,2003,Rubella
+Zone:10,45-54,0,2003,Rubella
 Loei,45-54,0,2003,Rubella
 Nong Bua Lam Phu,45-54,0,2003,Rubella
 Nong Khai,45-54,0,2003,Rubella
 Udon Thani,45-54,0,2003,Rubella
-Zone 11,45-54,0,2003,Rubella
+Zone:11,45-54,0,2003,Rubella
 Kalasin,45-54,0,2003,Rubella
 Mukdahan,45-54,0,2003,Rubella
 Nakhon Phanom,45-54,0,2003,Rubella
 Sakon Nakhon,45-54,0,2003,Rubella
-Zone 12,45-54,0,2003,Rubella
+Zone:12,45-54,0,2003,Rubella
 Khon Kaen,45-54,0,2003,Rubella
 Maha Sarakham,45-54,0,2003,Rubella
 Roi Et,45-54,0,2003,Rubella
-Zone 13,45-54,0,2003,Rubella
+Zone:13,45-54,0,2003,Rubella
 Buri Ram,45-54,0,2003,Rubella
 Chaiyaphum,45-54,0,2003,Rubella
 Nakhon Ratchasima,45-54,0,2003,Rubella
 Surin,45-54,0,2003,Rubella
-Zone 14,45-54,0,2003,Rubella
+Zone:14,45-54,0,2003,Rubella
 Amnat Charoen,45-54,0,2003,Rubella
 Si Sa Ket,45-54,0,2003,Rubella
 Ubon Ratchathani,45-54,0,2003,Rubella
 Yasothon,45-54,0,2003,Rubella
 South Region,45-54,2,2003,Rubella
-Zone 15,45-54,0,2003,Rubella
+Zone:15,45-54,0,2003,Rubella
 Chumphon,45-54,0,2003,Rubella
 Ranong,45-54,0,2003,Rubella
 Surat Thani,45-54,0,2003,Rubella
-Zone 16,45-54,1,2003,Rubella
+Zone:16,45-54,1,2003,Rubella
 Nakhon Si Thammarat,45-54,1,2003,Rubella
 Phatthalung,45-54,0,2003,Rubella
 Trang,45-54,0,2003,Rubella
-Zone 17,45-54,0,2003,Rubella
+Zone:17,45-54,0,2003,Rubella
 Krabi,45-54,0,2003,Rubella
 Phangnga,45-54,0,2003,Rubella
 Phuket,45-54,0,2003,Rubella
-Zone 18,45-54,1,2003,Rubella
+Zone:18,45-54,1,2003,Rubella
 Narathiwat,45-54,1,2003,Rubella
 Pattani,45-54,0,2003,Rubella
 Yala,45-54,0,2003,Rubella
-Zone 19,45-54,0,2003,Rubella
+Zone:19,45-54,0,2003,Rubella
 Satun,45-54,0,2003,Rubella
 Songkhla,45-54,0,2003,Rubella
 Total,55-64,6,2003,Rubella
 North Region,55-64,0,2003,Rubella
-Zone 1,55-64,0,2003,Rubella
+Zone:1,55-64,0,2003,Rubella
 Chiang Mai,55-64,0,2003,Rubella
 Chiang Rai,55-64,0,2003,Rubella
 Lampang,55-64,0,2003,Rubella
@@ -23938,98 +23938,98 @@ Mae Hong Son,55-64,0,2003,Rubella
 Nan,55-64,0,2003,Rubella
 Phayao,55-64,0,2003,Rubella
 Phrae,55-64,0,2003,Rubella
-Zone 2,55-64,0,2003,Rubella
+Zone:2,55-64,0,2003,Rubella
 Phetchabun,55-64,0,2003,Rubella
 Phitsanulok,55-64,0,2003,Rubella
 Sukhothai,55-64,0,2003,Rubella
 Tak,55-64,0,2003,Rubella
 Uttaradit,55-64,0,2003,Rubella
-Zone 3,55-64,0,2003,Rubella
+Zone:3,55-64,0,2003,Rubella
 Kamphaeng Phet,55-64,0,2003,Rubella
 Nakhon Sawan,55-64,0,2003,Rubella
 Phichit,55-64,0,2003,Rubella
 Uthai Thani,55-64,0,2003,Rubella
 Central Region,55-64,1,2003,Rubella
 Bangkok,55-64,0,2003,Rubella
-Zone 4,55-64,0,2003,Rubella
+Zone:4,55-64,0,2003,Rubella
 Ang Thong,55-64,0,2003,Rubella
 Nonthaburi,55-64,0,2003,Rubella
 P.Nakhon S.Ayutthaya,55-64,0,2003,Rubella
 Pathum Thani,55-64,0,2003,Rubella
-Zone 5,55-64,0,2003,Rubella
+Zone:5,55-64,0,2003,Rubella
 Chai Nat,55-64,0,2003,Rubella
 Lop Buri,55-64,0,2003,Rubella
 Saraburi,55-64,0,2003,Rubella
 Sing Buri,55-64,0,2003,Rubella
-Zone 6,55-64,0,2003,Rubella
+Zone:6,55-64,0,2003,Rubella
 Kanchanaburi,55-64,0,2003,Rubella
 Nakhon Pathom,55-64,0,2003,Rubella
 Ratchaburi,55-64,0,2003,Rubella
 Suphan Buri,55-64,0,2003,Rubella
-Zone 7,55-64,0,2003,Rubella
+Zone:7,55-64,0,2003,Rubella
 Phetchaburi,55-64,0,2003,Rubella
 Prachuap Khiri Khan,55-64,0,2003,Rubella
 Samut Sakhon,55-64,0,2003,Rubella
 Samut Songkhram,55-64,0,2003,Rubella
-Zone 8,55-64,1,2003,Rubella
+Zone:8,55-64,1,2003,Rubella
 Chachoengsao,55-64,0,2003,Rubella
 Nakhon Nayok,55-64,0,2003,Rubella
 Prachin Buri,55-64,1,2003,Rubella
 Sa Kaeo,55-64,0,2003,Rubella
 Samut Prakan,55-64,0,2003,Rubella
-Zone 9,55-64,0,2003,Rubella
+Zone:9,55-64,0,2003,Rubella
 Chanthaburi,55-64,0,2003,Rubella
 Chon Buri,55-64,0,2003,Rubella
 Rayong,55-64,0,2003,Rubella
 Trat,55-64,0,2003,Rubella
 North-Eastern Region,55-64,2,2003,Rubella
-Zone 10,55-64,1,2003,Rubella
+Zone:10,55-64,1,2003,Rubella
 Loei,55-64,0,2003,Rubella
 Nong Bua Lam Phu,55-64,0,2003,Rubella
 Nong Khai,55-64,0,2003,Rubella
 Udon Thani,55-64,1,2003,Rubella
-Zone 11,55-64,0,2003,Rubella
+Zone:11,55-64,0,2003,Rubella
 Kalasin,55-64,0,2003,Rubella
 Mukdahan,55-64,0,2003,Rubella
 Nakhon Phanom,55-64,0,2003,Rubella
 Sakon Nakhon,55-64,0,2003,Rubella
-Zone 12,55-64,0,2003,Rubella
+Zone:12,55-64,0,2003,Rubella
 Khon Kaen,55-64,0,2003,Rubella
 Maha Sarakham,55-64,0,2003,Rubella
 Roi Et,55-64,0,2003,Rubella
-Zone 13,55-64,0,2003,Rubella
+Zone:13,55-64,0,2003,Rubella
 Buri Ram,55-64,0,2003,Rubella
 Chaiyaphum,55-64,0,2003,Rubella
 Nakhon Ratchasima,55-64,0,2003,Rubella
 Surin,55-64,0,2003,Rubella
-Zone 14,55-64,1,2003,Rubella
+Zone:14,55-64,1,2003,Rubella
 Amnat Charoen,55-64,0,2003,Rubella
 Si Sa Ket,55-64,0,2003,Rubella
 Ubon Ratchathani,55-64,1,2003,Rubella
 Yasothon,55-64,0,2003,Rubella
 South Region,55-64,3,2003,Rubella
-Zone 15,55-64,0,2003,Rubella
+Zone:15,55-64,0,2003,Rubella
 Chumphon,55-64,0,2003,Rubella
 Ranong,55-64,0,2003,Rubella
 Surat Thani,55-64,0,2003,Rubella
-Zone 16,55-64,0,2003,Rubella
+Zone:16,55-64,0,2003,Rubella
 Nakhon Si Thammarat,55-64,0,2003,Rubella
 Phatthalung,55-64,0,2003,Rubella
 Trang,55-64,0,2003,Rubella
-Zone 17,55-64,0,2003,Rubella
+Zone:17,55-64,0,2003,Rubella
 Krabi,55-64,0,2003,Rubella
 Phangnga,55-64,0,2003,Rubella
 Phuket,55-64,0,2003,Rubella
-Zone 18,55-64,2,2003,Rubella
+Zone:18,55-64,2,2003,Rubella
 Narathiwat,55-64,1,2003,Rubella
 Pattani,55-64,0,2003,Rubella
 Yala,55-64,1,2003,Rubella
-Zone 19,55-64,1,2003,Rubella
+Zone:19,55-64,1,2003,Rubella
 Satun,55-64,0,2003,Rubella
 Songkhla,55-64,1,2003,Rubella
 Total,65+,9,2003,Rubella
 North Region,65+,1,2003,Rubella
-Zone 1,65+,1,2003,Rubella
+Zone:1,65+,1,2003,Rubella
 Chiang Mai,65+,1,2003,Rubella
 Chiang Rai,65+,0,2003,Rubella
 Lampang,65+,0,2003,Rubella
@@ -24038,98 +24038,98 @@ Mae Hong Son,65+,0,2003,Rubella
 Nan,65+,0,2003,Rubella
 Phayao,65+,0,2003,Rubella
 Phrae,65+,0,2003,Rubella
-Zone 2,65+,0,2003,Rubella
+Zone:2,65+,0,2003,Rubella
 Phetchabun,65+,0,2003,Rubella
 Phitsanulok,65+,0,2003,Rubella
 Sukhothai,65+,0,2003,Rubella
 Tak,65+,0,2003,Rubella
 Uttaradit,65+,0,2003,Rubella
-Zone 3,65+,0,2003,Rubella
+Zone:3,65+,0,2003,Rubella
 Kamphaeng Phet,65+,0,2003,Rubella
 Nakhon Sawan,65+,0,2003,Rubella
 Phichit,65+,0,2003,Rubella
 Uthai Thani,65+,0,2003,Rubella
 Central Region,65+,2,2003,Rubella
 Bangkok,65+,0,2003,Rubella
-Zone 4,65+,0,2003,Rubella
+Zone:4,65+,0,2003,Rubella
 Ang Thong,65+,0,2003,Rubella
 Nonthaburi,65+,0,2003,Rubella
 P.Nakhon S.Ayutthaya,65+,0,2003,Rubella
 Pathum Thani,65+,0,2003,Rubella
-Zone 5,65+,1,2003,Rubella
+Zone:5,65+,1,2003,Rubella
 Chai Nat,65+,1,2003,Rubella
 Lop Buri,65+,0,2003,Rubella
 Saraburi,65+,0,2003,Rubella
 Sing Buri,65+,0,2003,Rubella
-Zone 6,65+,0,2003,Rubella
+Zone:6,65+,0,2003,Rubella
 Kanchanaburi,65+,0,2003,Rubella
 Nakhon Pathom,65+,0,2003,Rubella
 Ratchaburi,65+,0,2003,Rubella
 Suphan Buri,65+,0,2003,Rubella
-Zone 7,65+,1,2003,Rubella
+Zone:7,65+,1,2003,Rubella
 Phetchaburi,65+,1,2003,Rubella
 Prachuap Khiri Khan,65+,0,2003,Rubella
 Samut Sakhon,65+,0,2003,Rubella
 Samut Songkhram,65+,0,2003,Rubella
-Zone 8,65+,0,2003,Rubella
+Zone:8,65+,0,2003,Rubella
 Chachoengsao,65+,0,2003,Rubella
 Nakhon Nayok,65+,0,2003,Rubella
 Prachin Buri,65+,0,2003,Rubella
 Sa Kaeo,65+,0,2003,Rubella
 Samut Prakan,65+,0,2003,Rubella
-Zone 9,65+,0,2003,Rubella
+Zone:9,65+,0,2003,Rubella
 Chanthaburi,65+,0,2003,Rubella
 Chon Buri,65+,0,2003,Rubella
 Rayong,65+,0,2003,Rubella
 Trat,65+,0,2003,Rubella
 North-Eastern Region,65+,3,2003,Rubella
-Zone 10,65+,0,2003,Rubella
+Zone:10,65+,0,2003,Rubella
 Loei,65+,0,2003,Rubella
 Nong Bua Lam Phu,65+,0,2003,Rubella
 Nong Khai,65+,0,2003,Rubella
 Udon Thani,65+,0,2003,Rubella
-Zone 11,65+,1,2003,Rubella
+Zone:11,65+,1,2003,Rubella
 Kalasin,65+,1,2003,Rubella
 Mukdahan,65+,0,2003,Rubella
 Nakhon Phanom,65+,0,2003,Rubella
 Sakon Nakhon,65+,0,2003,Rubella
-Zone 12,65+,1,2003,Rubella
+Zone:12,65+,1,2003,Rubella
 Khon Kaen,65+,1,2003,Rubella
 Maha Sarakham,65+,0,2003,Rubella
 Roi Et,65+,0,2003,Rubella
-Zone 13,65+,0,2003,Rubella
+Zone:13,65+,0,2003,Rubella
 Buri Ram,65+,0,2003,Rubella
 Chaiyaphum,65+,0,2003,Rubella
 Nakhon Ratchasima,65+,0,2003,Rubella
 Surin,65+,0,2003,Rubella
-Zone 14,65+,1,2003,Rubella
+Zone:14,65+,1,2003,Rubella
 Amnat Charoen,65+,0,2003,Rubella
 Si Sa Ket,65+,0,2003,Rubella
 Ubon Ratchathani,65+,1,2003,Rubella
 Yasothon,65+,0,2003,Rubella
 South Region,65+,3,2003,Rubella
-Zone 15,65+,0,2003,Rubella
+Zone:15,65+,0,2003,Rubella
 Chumphon,65+,0,2003,Rubella
 Ranong,65+,0,2003,Rubella
 Surat Thani,65+,0,2003,Rubella
-Zone 16,65+,2,2003,Rubella
+Zone:16,65+,2,2003,Rubella
 Nakhon Si Thammarat,65+,1,2003,Rubella
 Phatthalung,65+,0,2003,Rubella
 Trang,65+,1,2003,Rubella
-Zone 17,65+,0,2003,Rubella
+Zone:17,65+,0,2003,Rubella
 Krabi,65+,0,2003,Rubella
 Phangnga,65+,0,2003,Rubella
 Phuket,65+,0,2003,Rubella
-Zone 18,65+,0,2003,Rubella
+Zone:18,65+,0,2003,Rubella
 Narathiwat,65+,0,2003,Rubella
 Pattani,65+,0,2003,Rubella
 Yala,65+,0,2003,Rubella
-Zone 19,65+,1,2003,Rubella
+Zone:19,65+,1,2003,Rubella
 Satun,65+,1,2003,Rubella
 Songkhla,65+,0,2003,Rubella
 Total,Unknown,1,2003,Rubella
 North Region,Unknown,0,2003,Rubella
-Zone 1,Unknown,0,2003,Rubella
+Zone:1,Unknown,0,2003,Rubella
 Chiang Mai,Unknown,0,2003,Rubella
 Chiang Rai,Unknown,0,2003,Rubella
 Lampang,Unknown,0,2003,Rubella
@@ -24138,93 +24138,93 @@ Mae Hong Son,Unknown,0,2003,Rubella
 Nan,Unknown,0,2003,Rubella
 Phayao,Unknown,0,2003,Rubella
 Phrae,Unknown,0,2003,Rubella
-Zone 2,Unknown,0,2003,Rubella
+Zone:2,Unknown,0,2003,Rubella
 Phetchabun,Unknown,0,2003,Rubella
 Phitsanulok,Unknown,0,2003,Rubella
 Sukhothai,Unknown,0,2003,Rubella
 Tak,Unknown,0,2003,Rubella
 Uttaradit,Unknown,0,2003,Rubella
-Zone 3,Unknown,0,2003,Rubella
+Zone:3,Unknown,0,2003,Rubella
 Kamphaeng Phet,Unknown,0,2003,Rubella
 Nakhon Sawan,Unknown,0,2003,Rubella
 Phichit,Unknown,0,2003,Rubella
 Uthai Thani,Unknown,0,2003,Rubella
 Central Region,Unknown,1,2003,Rubella
 Bangkok,Unknown,0,2003,Rubella
-Zone 4,Unknown,0,2003,Rubella
+Zone:4,Unknown,0,2003,Rubella
 Ang Thong,Unknown,0,2003,Rubella
 Nonthaburi,Unknown,0,2003,Rubella
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Rubella
 Pathum Thani,Unknown,0,2003,Rubella
-Zone 5,Unknown,0,2003,Rubella
+Zone:5,Unknown,0,2003,Rubella
 Chai Nat,Unknown,0,2003,Rubella
 Lop Buri,Unknown,0,2003,Rubella
 Saraburi,Unknown,0,2003,Rubella
 Sing Buri,Unknown,0,2003,Rubella
-Zone 6,Unknown,1,2003,Rubella
+Zone:6,Unknown,1,2003,Rubella
 Kanchanaburi,Unknown,0,2003,Rubella
 Nakhon Pathom,Unknown,1,2003,Rubella
 Ratchaburi,Unknown,0,2003,Rubella
 Suphan Buri,Unknown,0,2003,Rubella
-Zone 7,Unknown,0,2003,Rubella
+Zone:7,Unknown,0,2003,Rubella
 Phetchaburi,Unknown,0,2003,Rubella
 Prachuap Khiri Khan,Unknown,0,2003,Rubella
 Samut Sakhon,Unknown,0,2003,Rubella
 Samut Songkhram,Unknown,0,2003,Rubella
-Zone 8,Unknown,0,2003,Rubella
+Zone:8,Unknown,0,2003,Rubella
 Chachoengsao,Unknown,0,2003,Rubella
 Nakhon Nayok,Unknown,0,2003,Rubella
 Prachin Buri,Unknown,0,2003,Rubella
 Sa Kaeo,Unknown,0,2003,Rubella
 Samut Prakan,Unknown,0,2003,Rubella
-Zone 9,Unknown,0,2003,Rubella
+Zone:9,Unknown,0,2003,Rubella
 Chanthaburi,Unknown,0,2003,Rubella
 Chon Buri,Unknown,0,2003,Rubella
 Rayong,Unknown,0,2003,Rubella
 Trat,Unknown,0,2003,Rubella
 North-Eastern Region,Unknown,0,2003,Rubella
-Zone 10,Unknown,0,2003,Rubella
+Zone:10,Unknown,0,2003,Rubella
 Loei,Unknown,0,2003,Rubella
 Nong Bua Lam Phu,Unknown,0,2003,Rubella
 Nong Khai,Unknown,0,2003,Rubella
 Udon Thani,Unknown,0,2003,Rubella
-Zone 11,Unknown,0,2003,Rubella
+Zone:11,Unknown,0,2003,Rubella
 Kalasin,Unknown,0,2003,Rubella
 Mukdahan,Unknown,0,2003,Rubella
 Nakhon Phanom,Unknown,0,2003,Rubella
 Sakon Nakhon,Unknown,0,2003,Rubella
-Zone 12,Unknown,0,2003,Rubella
+Zone:12,Unknown,0,2003,Rubella
 Khon Kaen,Unknown,0,2003,Rubella
 Maha Sarakham,Unknown,0,2003,Rubella
 Roi Et,Unknown,0,2003,Rubella
-Zone 13,Unknown,0,2003,Rubella
+Zone:13,Unknown,0,2003,Rubella
 Buri Ram,Unknown,0,2003,Rubella
 Chaiyaphum,Unknown,0,2003,Rubella
 Nakhon Ratchasima,Unknown,0,2003,Rubella
 Surin,Unknown,0,2003,Rubella
-Zone 14,Unknown,0,2003,Rubella
+Zone:14,Unknown,0,2003,Rubella
 Amnat Charoen,Unknown,0,2003,Rubella
 Si Sa Ket,Unknown,0,2003,Rubella
 Ubon Ratchathani,Unknown,0,2003,Rubella
 Yasothon,Unknown,0,2003,Rubella
 South Region,Unknown,0,2003,Rubella
-Zone 15,Unknown,0,2003,Rubella
+Zone:15,Unknown,0,2003,Rubella
 Chumphon,Unknown,0,2003,Rubella
 Ranong,Unknown,0,2003,Rubella
 Surat Thani,Unknown,0,2003,Rubella
-Zone 16,Unknown,0,2003,Rubella
+Zone:16,Unknown,0,2003,Rubella
 Nakhon Si Thammarat,Unknown,0,2003,Rubella
 Phatthalung,Unknown,0,2003,Rubella
 Trang,Unknown,0,2003,Rubella
-Zone 17,Unknown,0,2003,Rubella
+Zone:17,Unknown,0,2003,Rubella
 Krabi,Unknown,0,2003,Rubella
 Phangnga,Unknown,0,2003,Rubella
 Phuket,Unknown,0,2003,Rubella
-Zone 18,Unknown,0,2003,Rubella
+Zone:18,Unknown,0,2003,Rubella
 Narathiwat,Unknown,0,2003,Rubella
 Pattani,Unknown,0,2003,Rubella
 Yala,Unknown,0,2003,Rubella
-Zone 19,Unknown,0,2003,Rubella
+Zone:19,Unknown,0,2003,Rubella
 Satun,Unknown,0,2003,Rubella
 Songkhla,Unknown,0,2003,Rubella
 Total,Total,88,2022,Rubella

@@ -22231,7 +22231,7 @@ Trang,Unknown,0,2014,HepatitisB
 Yala,Unknown,0,2014,HepatitisB
 Total,Total,2839,2004,HepatitisB
 North Region,Total,788,2004,HepatitisB
-Zone 1,Total,460,2004,HepatitisB
+Zone:1,Total,460,2004,HepatitisB
 Chiang Mai,Total,83,2004,HepatitisB
 Chiang Rai,Total,151,2004,HepatitisB
 Lampang,Total,59,2004,HepatitisB
@@ -22240,98 +22240,98 @@ Mae Hong Son,Total,15,2004,HepatitisB
 Nan,Total,65,2004,HepatitisB
 Phayao,Total,58,2004,HepatitisB
 Phrae,Total,14,2004,HepatitisB
-Zone 2,Total,199,2004,HepatitisB
+Zone:2,Total,199,2004,HepatitisB
 Phetchabun,Total,71,2004,HepatitisB
 Phitsanulok,Total,33,2004,HepatitisB
 Sukhothai,Total,47,2004,HepatitisB
 Tak,Total,32,2004,HepatitisB
 Uttaradit,Total,16,2004,HepatitisB
-Zone 3,Total,129,2004,HepatitisB
+Zone:3,Total,129,2004,HepatitisB
 Kamphaeng Phet,Total,73,2004,HepatitisB
 Nakhon Sawan,Total,39,2004,HepatitisB
 Phichit,Total,4,2004,HepatitisB
 Uthai Thani,Total,13,2004,HepatitisB
 Central Region,Total,910,2004,HepatitisB
 Bangkok,Total,330,2004,HepatitisB
-Zone 4,Total,84,2004,HepatitisB
+Zone:4,Total,84,2004,HepatitisB
 Ang Thong,Total,2,2004,HepatitisB
 Nonthaburi,Total,22,2004,HepatitisB
 P.Nakhon S.Ayutthaya,Total,24,2004,HepatitisB
 Pathum Thani,Total,36,2004,HepatitisB
-Zone 5,Total,43,2004,HepatitisB
+Zone:5,Total,43,2004,HepatitisB
 Chai Nat,Total,12,2004,HepatitisB
 Lop Buri,Total,17,2004,HepatitisB
 Saraburi,Total,11,2004,HepatitisB
 Sing Buri,Total,3,2004,HepatitisB
-Zone 6,Total,192,2004,HepatitisB
+Zone:6,Total,192,2004,HepatitisB
 Kanchanaburi,Total,43,2004,HepatitisB
 Nakhon Pathom,Total,85,2004,HepatitisB
 Ratchaburi,Total,53,2004,HepatitisB
 Suphan Buri,Total,11,2004,HepatitisB
-Zone 7,Total,25,2004,HepatitisB
+Zone:7,Total,25,2004,HepatitisB
 Phetchaburi,Total,10,2004,HepatitisB
 Prachuap Khiri Khan,Total,4,2004,HepatitisB
 Samut Sakhon,Total,8,2004,HepatitisB
 Samut Songkhram,Total,3,2004,HepatitisB
-Zone 8,Total,146,2004,HepatitisB
+Zone:8,Total,146,2004,HepatitisB
 Chachoengsao,Total,38,2004,HepatitisB
 Nakhon Nayok,Total,8,2004,HepatitisB
 Prachin Buri,Total,61,2004,HepatitisB
 Sa Kaeo,Total,32,2004,HepatitisB
 Samut Prakan,Total,7,2004,HepatitisB
-Zone 9,Total,90,2004,HepatitisB
+Zone:9,Total,90,2004,HepatitisB
 Chanthaburi,Total,31,2004,HepatitisB
 Chon Buri,Total,9,2004,HepatitisB
 Rayong,Total,29,2004,HepatitisB
 Trat,Total,21,2004,HepatitisB
 North-Eastern Region,Total,858,2004,HepatitisB
-Zone 10,Total,136,2004,HepatitisB
+Zone:10,Total,136,2004,HepatitisB
 Loei,Total,36,2004,HepatitisB
 Nong Bua Lam Phu,Total,26,2004,HepatitisB
 Nong Khai,Total,21,2004,HepatitisB
 Udon Thani,Total,53,2004,HepatitisB
-Zone 11,Total,92,2004,HepatitisB
+Zone:11,Total,92,2004,HepatitisB
 Kalasin,Total,31,2004,HepatitisB
 Mukdahan,Total,22,2004,HepatitisB
 Nakhon Phanom,Total,19,2004,HepatitisB
 Sakon Nakhon,Total,20,2004,HepatitisB
-Zone 12,Total,51,2004,HepatitisB
+Zone:12,Total,51,2004,HepatitisB
 Khon Kaen,Total,38,2004,HepatitisB
 Maha Sarakham,Total,4,2004,HepatitisB
 Roi Et,Total,9,2004,HepatitisB
-Zone 13,Total,304,2004,HepatitisB
+Zone:13,Total,304,2004,HepatitisB
 Buri Ram,Total,73,2004,HepatitisB
 Chaiyaphum,Total,47,2004,HepatitisB
 Nakhon Ratchasima,Total,125,2004,HepatitisB
 Surin,Total,59,2004,HepatitisB
-Zone 14,Total,275,2004,HepatitisB
+Zone:14,Total,275,2004,HepatitisB
 Amnat Charoen,Total,33,2004,HepatitisB
 Si Sa Ket,Total,91,2004,HepatitisB
 Ubon Ratchathani,Total,133,2004,HepatitisB
 Yasothon,Total,18,2004,HepatitisB
 South Region,Total,283,2004,HepatitisB
-Zone 15,Total,55,2004,HepatitisB
+Zone:15,Total,55,2004,HepatitisB
 Chumphon,Total,5,2004,HepatitisB
 Ranong,Total,7,2004,HepatitisB
 Surat Thani,Total,43,2004,HepatitisB
-Zone 16,Total,33,2004,HepatitisB
+Zone:16,Total,33,2004,HepatitisB
 Nakhon Si Thammarat,Total,17,2004,HepatitisB
 Phatthalung,Total,2,2004,HepatitisB
 Trang,Total,14,2004,HepatitisB
-Zone 17,Total,34,2004,HepatitisB
+Zone:17,Total,34,2004,HepatitisB
 Krabi,Total,23,2004,HepatitisB
 Phangnga,Total,2,2004,HepatitisB
 Phuket,Total,9,2004,HepatitisB
-Zone 18,Total,87,2004,HepatitisB
+Zone:18,Total,87,2004,HepatitisB
 Narathiwat,Total,17,2004,HepatitisB
 Pattani,Total,29,2004,HepatitisB
 Yala,Total,41,2004,HepatitisB
-Zone 19,Total,74,2004,HepatitisB
+Zone:19,Total,74,2004,HepatitisB
 Satun,Total,2,2004,HepatitisB
 Songkhla,Total,72,2004,HepatitisB
 Total,0,2,2004,HepatitisB
 North Region,0,0,2004,HepatitisB
-Zone 1,0,0,2004,HepatitisB
+Zone:1,0,0,2004,HepatitisB
 Chiang Mai,0,0,2004,HepatitisB
 Chiang Rai,0,0,2004,HepatitisB
 Lampang,0,0,2004,HepatitisB
@@ -22340,98 +22340,98 @@ Mae Hong Son,0,0,2004,HepatitisB
 Nan,0,0,2004,HepatitisB
 Phayao,0,0,2004,HepatitisB
 Phrae,0,0,2004,HepatitisB
-Zone 2,0,0,2004,HepatitisB
+Zone:2,0,0,2004,HepatitisB
 Phetchabun,0,0,2004,HepatitisB
 Phitsanulok,0,0,2004,HepatitisB
 Sukhothai,0,0,2004,HepatitisB
 Tak,0,0,2004,HepatitisB
 Uttaradit,0,0,2004,HepatitisB
-Zone 3,0,0,2004,HepatitisB
+Zone:3,0,0,2004,HepatitisB
 Kamphaeng Phet,0,0,2004,HepatitisB
 Nakhon Sawan,0,0,2004,HepatitisB
 Phichit,0,0,2004,HepatitisB
 Uthai Thani,0,0,2004,HepatitisB
 Central Region,0,0,2004,HepatitisB
 Bangkok,0,0,2004,HepatitisB
-Zone 4,0,0,2004,HepatitisB
+Zone:4,0,0,2004,HepatitisB
 Ang Thong,0,0,2004,HepatitisB
 Nonthaburi,0,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,0,0,2004,HepatitisB
 Pathum Thani,0,0,2004,HepatitisB
-Zone 5,0,0,2004,HepatitisB
+Zone:5,0,0,2004,HepatitisB
 Chai Nat,0,0,2004,HepatitisB
 Lop Buri,0,0,2004,HepatitisB
 Saraburi,0,0,2004,HepatitisB
 Sing Buri,0,0,2004,HepatitisB
-Zone 6,0,0,2004,HepatitisB
+Zone:6,0,0,2004,HepatitisB
 Kanchanaburi,0,0,2004,HepatitisB
 Nakhon Pathom,0,0,2004,HepatitisB
 Ratchaburi,0,0,2004,HepatitisB
 Suphan Buri,0,0,2004,HepatitisB
-Zone 7,0,0,2004,HepatitisB
+Zone:7,0,0,2004,HepatitisB
 Phetchaburi,0,0,2004,HepatitisB
 Prachuap Khiri Khan,0,0,2004,HepatitisB
 Samut Sakhon,0,0,2004,HepatitisB
 Samut Songkhram,0,0,2004,HepatitisB
-Zone 8,0,0,2004,HepatitisB
+Zone:8,0,0,2004,HepatitisB
 Chachoengsao,0,0,2004,HepatitisB
 Nakhon Nayok,0,0,2004,HepatitisB
 Prachin Buri,0,0,2004,HepatitisB
 Sa Kaeo,0,0,2004,HepatitisB
 Samut Prakan,0,0,2004,HepatitisB
-Zone 9,0,0,2004,HepatitisB
+Zone:9,0,0,2004,HepatitisB
 Chanthaburi,0,0,2004,HepatitisB
 Chon Buri,0,0,2004,HepatitisB
 Rayong,0,0,2004,HepatitisB
 Trat,0,0,2004,HepatitisB
 North-Eastern Region,0,2,2004,HepatitisB
-Zone 10,0,0,2004,HepatitisB
+Zone:10,0,0,2004,HepatitisB
 Loei,0,0,2004,HepatitisB
 Nong Bua Lam Phu,0,0,2004,HepatitisB
 Nong Khai,0,0,2004,HepatitisB
 Udon Thani,0,0,2004,HepatitisB
-Zone 11,0,1,2004,HepatitisB
+Zone:11,0,1,2004,HepatitisB
 Kalasin,0,0,2004,HepatitisB
 Mukdahan,0,1,2004,HepatitisB
 Nakhon Phanom,0,0,2004,HepatitisB
 Sakon Nakhon,0,0,2004,HepatitisB
-Zone 12,0,1,2004,HepatitisB
+Zone:12,0,1,2004,HepatitisB
 Khon Kaen,0,0,2004,HepatitisB
 Maha Sarakham,0,0,2004,HepatitisB
 Roi Et,0,1,2004,HepatitisB
-Zone 13,0,0,2004,HepatitisB
+Zone:13,0,0,2004,HepatitisB
 Buri Ram,0,0,2004,HepatitisB
 Chaiyaphum,0,0,2004,HepatitisB
 Nakhon Ratchasima,0,0,2004,HepatitisB
 Surin,0,0,2004,HepatitisB
-Zone 14,0,0,2004,HepatitisB
+Zone:14,0,0,2004,HepatitisB
 Amnat Charoen,0,0,2004,HepatitisB
 Si Sa Ket,0,0,2004,HepatitisB
 Ubon Ratchathani,0,0,2004,HepatitisB
 Yasothon,0,0,2004,HepatitisB
 South Region,0,0,2004,HepatitisB
-Zone 15,0,0,2004,HepatitisB
+Zone:15,0,0,2004,HepatitisB
 Chumphon,0,0,2004,HepatitisB
 Ranong,0,0,2004,HepatitisB
 Surat Thani,0,0,2004,HepatitisB
-Zone 16,0,0,2004,HepatitisB
+Zone:16,0,0,2004,HepatitisB
 Nakhon Si Thammarat,0,0,2004,HepatitisB
 Phatthalung,0,0,2004,HepatitisB
 Trang,0,0,2004,HepatitisB
-Zone 17,0,0,2004,HepatitisB
+Zone:17,0,0,2004,HepatitisB
 Krabi,0,0,2004,HepatitisB
 Phangnga,0,0,2004,HepatitisB
 Phuket,0,0,2004,HepatitisB
-Zone 18,0,0,2004,HepatitisB
+Zone:18,0,0,2004,HepatitisB
 Narathiwat,0,0,2004,HepatitisB
 Pattani,0,0,2004,HepatitisB
 Yala,0,0,2004,HepatitisB
-Zone 19,0,0,2004,HepatitisB
+Zone:19,0,0,2004,HepatitisB
 Satun,0,0,2004,HepatitisB
 Songkhla,0,0,2004,HepatitisB
 Total,<1,7,2004,HepatitisB
 North Region,<1,0,2004,HepatitisB
-Zone 1,<1,0,2004,HepatitisB
+Zone:1,<1,0,2004,HepatitisB
 Chiang Mai,<1,0,2004,HepatitisB
 Chiang Rai,<1,0,2004,HepatitisB
 Lampang,<1,0,2004,HepatitisB
@@ -22440,98 +22440,98 @@ Mae Hong Son,<1,0,2004,HepatitisB
 Nan,<1,0,2004,HepatitisB
 Phayao,<1,0,2004,HepatitisB
 Phrae,<1,0,2004,HepatitisB
-Zone 2,<1,0,2004,HepatitisB
+Zone:2,<1,0,2004,HepatitisB
 Phetchabun,<1,0,2004,HepatitisB
 Phitsanulok,<1,0,2004,HepatitisB
 Sukhothai,<1,0,2004,HepatitisB
 Tak,<1,0,2004,HepatitisB
 Uttaradit,<1,0,2004,HepatitisB
-Zone 3,<1,0,2004,HepatitisB
+Zone:3,<1,0,2004,HepatitisB
 Kamphaeng Phet,<1,0,2004,HepatitisB
 Nakhon Sawan,<1,0,2004,HepatitisB
 Phichit,<1,0,2004,HepatitisB
 Uthai Thani,<1,0,2004,HepatitisB
 Central Region,<1,3,2004,HepatitisB
 Bangkok,<1,1,2004,HepatitisB
-Zone 4,<1,0,2004,HepatitisB
+Zone:4,<1,0,2004,HepatitisB
 Ang Thong,<1,0,2004,HepatitisB
 Nonthaburi,<1,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,<1,0,2004,HepatitisB
 Pathum Thani,<1,0,2004,HepatitisB
-Zone 5,<1,0,2004,HepatitisB
+Zone:5,<1,0,2004,HepatitisB
 Chai Nat,<1,0,2004,HepatitisB
 Lop Buri,<1,0,2004,HepatitisB
 Saraburi,<1,0,2004,HepatitisB
 Sing Buri,<1,0,2004,HepatitisB
-Zone 6,<1,1,2004,HepatitisB
+Zone:6,<1,1,2004,HepatitisB
 Kanchanaburi,<1,1,2004,HepatitisB
 Nakhon Pathom,<1,0,2004,HepatitisB
 Ratchaburi,<1,0,2004,HepatitisB
 Suphan Buri,<1,0,2004,HepatitisB
-Zone 7,<1,0,2004,HepatitisB
+Zone:7,<1,0,2004,HepatitisB
 Phetchaburi,<1,0,2004,HepatitisB
 Prachuap Khiri Khan,<1,0,2004,HepatitisB
 Samut Sakhon,<1,0,2004,HepatitisB
 Samut Songkhram,<1,0,2004,HepatitisB
-Zone 8,<1,1,2004,HepatitisB
+Zone:8,<1,1,2004,HepatitisB
 Chachoengsao,<1,0,2004,HepatitisB
 Nakhon Nayok,<1,0,2004,HepatitisB
 Prachin Buri,<1,0,2004,HepatitisB
 Sa Kaeo,<1,1,2004,HepatitisB
 Samut Prakan,<1,0,2004,HepatitisB
-Zone 9,<1,0,2004,HepatitisB
+Zone:9,<1,0,2004,HepatitisB
 Chanthaburi,<1,0,2004,HepatitisB
 Chon Buri,<1,0,2004,HepatitisB
 Rayong,<1,0,2004,HepatitisB
 Trat,<1,0,2004,HepatitisB
 North-Eastern Region,<1,0,2004,HepatitisB
-Zone 10,<1,0,2004,HepatitisB
+Zone:10,<1,0,2004,HepatitisB
 Loei,<1,0,2004,HepatitisB
 Nong Bua Lam Phu,<1,0,2004,HepatitisB
 Nong Khai,<1,0,2004,HepatitisB
 Udon Thani,<1,0,2004,HepatitisB
-Zone 11,<1,0,2004,HepatitisB
+Zone:11,<1,0,2004,HepatitisB
 Kalasin,<1,0,2004,HepatitisB
 Mukdahan,<1,0,2004,HepatitisB
 Nakhon Phanom,<1,0,2004,HepatitisB
 Sakon Nakhon,<1,0,2004,HepatitisB
-Zone 12,<1,0,2004,HepatitisB
+Zone:12,<1,0,2004,HepatitisB
 Khon Kaen,<1,0,2004,HepatitisB
 Maha Sarakham,<1,0,2004,HepatitisB
 Roi Et,<1,0,2004,HepatitisB
-Zone 13,<1,0,2004,HepatitisB
+Zone:13,<1,0,2004,HepatitisB
 Buri Ram,<1,0,2004,HepatitisB
 Chaiyaphum,<1,0,2004,HepatitisB
 Nakhon Ratchasima,<1,0,2004,HepatitisB
 Surin,<1,0,2004,HepatitisB
-Zone 14,<1,0,2004,HepatitisB
+Zone:14,<1,0,2004,HepatitisB
 Amnat Charoen,<1,0,2004,HepatitisB
 Si Sa Ket,<1,0,2004,HepatitisB
 Ubon Ratchathani,<1,0,2004,HepatitisB
 Yasothon,<1,0,2004,HepatitisB
 South Region,<1,4,2004,HepatitisB
-Zone 15,<1,1,2004,HepatitisB
+Zone:15,<1,1,2004,HepatitisB
 Chumphon,<1,0,2004,HepatitisB
 Ranong,<1,0,2004,HepatitisB
 Surat Thani,<1,1,2004,HepatitisB
-Zone 16,<1,0,2004,HepatitisB
+Zone:16,<1,0,2004,HepatitisB
 Nakhon Si Thammarat,<1,0,2004,HepatitisB
 Phatthalung,<1,0,2004,HepatitisB
 Trang,<1,0,2004,HepatitisB
-Zone 17,<1,2,2004,HepatitisB
+Zone:17,<1,2,2004,HepatitisB
 Krabi,<1,1,2004,HepatitisB
 Phangnga,<1,1,2004,HepatitisB
 Phuket,<1,0,2004,HepatitisB
-Zone 18,<1,1,2004,HepatitisB
+Zone:18,<1,1,2004,HepatitisB
 Narathiwat,<1,0,2004,HepatitisB
 Pattani,<1,0,2004,HepatitisB
 Yala,<1,1,2004,HepatitisB
-Zone 19,<1,0,2004,HepatitisB
+Zone:19,<1,0,2004,HepatitisB
 Satun,<1,0,2004,HepatitisB
 Songkhla,<1,0,2004,HepatitisB
 Total,1-1,14,2004,HepatitisB
 North Region,1-1,4,2004,HepatitisB
-Zone 1,1-1,3,2004,HepatitisB
+Zone:1,1-1,3,2004,HepatitisB
 Chiang Mai,1-1,0,2004,HepatitisB
 Chiang Rai,1-1,3,2004,HepatitisB
 Lampang,1-1,0,2004,HepatitisB
@@ -22540,98 +22540,98 @@ Mae Hong Son,1-1,0,2004,HepatitisB
 Nan,1-1,0,2004,HepatitisB
 Phayao,1-1,0,2004,HepatitisB
 Phrae,1-1,0,2004,HepatitisB
-Zone 2,1-1,1,2004,HepatitisB
+Zone:2,1-1,1,2004,HepatitisB
 Phetchabun,1-1,1,2004,HepatitisB
 Phitsanulok,1-1,0,2004,HepatitisB
 Sukhothai,1-1,0,2004,HepatitisB
 Tak,1-1,0,2004,HepatitisB
 Uttaradit,1-1,0,2004,HepatitisB
-Zone 3,1-1,0,2004,HepatitisB
+Zone:3,1-1,0,2004,HepatitisB
 Kamphaeng Phet,1-1,0,2004,HepatitisB
 Nakhon Sawan,1-1,0,2004,HepatitisB
 Phichit,1-1,0,2004,HepatitisB
 Uthai Thani,1-1,0,2004,HepatitisB
 Central Region,1-1,9,2004,HepatitisB
 Bangkok,1-1,5,2004,HepatitisB
-Zone 4,1-1,1,2004,HepatitisB
+Zone:4,1-1,1,2004,HepatitisB
 Ang Thong,1-1,0,2004,HepatitisB
 Nonthaburi,1-1,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,1-1,1,2004,HepatitisB
 Pathum Thani,1-1,0,2004,HepatitisB
-Zone 5,1-1,0,2004,HepatitisB
+Zone:5,1-1,0,2004,HepatitisB
 Chai Nat,1-1,0,2004,HepatitisB
 Lop Buri,1-1,0,2004,HepatitisB
 Saraburi,1-1,0,2004,HepatitisB
 Sing Buri,1-1,0,2004,HepatitisB
-Zone 6,1-1,1,2004,HepatitisB
+Zone:6,1-1,1,2004,HepatitisB
 Kanchanaburi,1-1,0,2004,HepatitisB
 Nakhon Pathom,1-1,0,2004,HepatitisB
 Ratchaburi,1-1,1,2004,HepatitisB
 Suphan Buri,1-1,0,2004,HepatitisB
-Zone 7,1-1,0,2004,HepatitisB
+Zone:7,1-1,0,2004,HepatitisB
 Phetchaburi,1-1,0,2004,HepatitisB
 Prachuap Khiri Khan,1-1,0,2004,HepatitisB
 Samut Sakhon,1-1,0,2004,HepatitisB
 Samut Songkhram,1-1,0,2004,HepatitisB
-Zone 8,1-1,2,2004,HepatitisB
+Zone:8,1-1,2,2004,HepatitisB
 Chachoengsao,1-1,0,2004,HepatitisB
 Nakhon Nayok,1-1,0,2004,HepatitisB
 Prachin Buri,1-1,1,2004,HepatitisB
 Sa Kaeo,1-1,1,2004,HepatitisB
 Samut Prakan,1-1,0,2004,HepatitisB
-Zone 9,1-1,0,2004,HepatitisB
+Zone:9,1-1,0,2004,HepatitisB
 Chanthaburi,1-1,0,2004,HepatitisB
 Chon Buri,1-1,0,2004,HepatitisB
 Rayong,1-1,0,2004,HepatitisB
 Trat,1-1,0,2004,HepatitisB
 North-Eastern Region,1-1,0,2004,HepatitisB
-Zone 10,1-1,0,2004,HepatitisB
+Zone:10,1-1,0,2004,HepatitisB
 Loei,1-1,0,2004,HepatitisB
 Nong Bua Lam Phu,1-1,0,2004,HepatitisB
 Nong Khai,1-1,0,2004,HepatitisB
 Udon Thani,1-1,0,2004,HepatitisB
-Zone 11,1-1,0,2004,HepatitisB
+Zone:11,1-1,0,2004,HepatitisB
 Kalasin,1-1,0,2004,HepatitisB
 Mukdahan,1-1,0,2004,HepatitisB
 Nakhon Phanom,1-1,0,2004,HepatitisB
 Sakon Nakhon,1-1,0,2004,HepatitisB
-Zone 12,1-1,0,2004,HepatitisB
+Zone:12,1-1,0,2004,HepatitisB
 Khon Kaen,1-1,0,2004,HepatitisB
 Maha Sarakham,1-1,0,2004,HepatitisB
 Roi Et,1-1,0,2004,HepatitisB
-Zone 13,1-1,0,2004,HepatitisB
+Zone:13,1-1,0,2004,HepatitisB
 Buri Ram,1-1,0,2004,HepatitisB
 Chaiyaphum,1-1,0,2004,HepatitisB
 Nakhon Ratchasima,1-1,0,2004,HepatitisB
 Surin,1-1,0,2004,HepatitisB
-Zone 14,1-1,0,2004,HepatitisB
+Zone:14,1-1,0,2004,HepatitisB
 Amnat Charoen,1-1,0,2004,HepatitisB
 Si Sa Ket,1-1,0,2004,HepatitisB
 Ubon Ratchathani,1-1,0,2004,HepatitisB
 Yasothon,1-1,0,2004,HepatitisB
 South Region,1-1,1,2004,HepatitisB
-Zone 15,1-1,0,2004,HepatitisB
+Zone:15,1-1,0,2004,HepatitisB
 Chumphon,1-1,0,2004,HepatitisB
 Ranong,1-1,0,2004,HepatitisB
 Surat Thani,1-1,0,2004,HepatitisB
-Zone 16,1-1,0,2004,HepatitisB
+Zone:16,1-1,0,2004,HepatitisB
 Nakhon Si Thammarat,1-1,0,2004,HepatitisB
 Phatthalung,1-1,0,2004,HepatitisB
 Trang,1-1,0,2004,HepatitisB
-Zone 17,1-1,0,2004,HepatitisB
+Zone:17,1-1,0,2004,HepatitisB
 Krabi,1-1,0,2004,HepatitisB
 Phangnga,1-1,0,2004,HepatitisB
 Phuket,1-1,0,2004,HepatitisB
-Zone 18,1-1,1,2004,HepatitisB
+Zone:18,1-1,1,2004,HepatitisB
 Narathiwat,1-1,0,2004,HepatitisB
 Pattani,1-1,0,2004,HepatitisB
 Yala,1-1,1,2004,HepatitisB
-Zone 19,1-1,0,2004,HepatitisB
+Zone:19,1-1,0,2004,HepatitisB
 Satun,1-1,0,2004,HepatitisB
 Songkhla,1-1,0,2004,HepatitisB
 Total,2-2,5,2004,HepatitisB
 North Region,2-2,1,2004,HepatitisB
-Zone 1,2-2,1,2004,HepatitisB
+Zone:1,2-2,1,2004,HepatitisB
 Chiang Mai,2-2,0,2004,HepatitisB
 Chiang Rai,2-2,1,2004,HepatitisB
 Lampang,2-2,0,2004,HepatitisB
@@ -22640,98 +22640,98 @@ Mae Hong Son,2-2,0,2004,HepatitisB
 Nan,2-2,0,2004,HepatitisB
 Phayao,2-2,0,2004,HepatitisB
 Phrae,2-2,0,2004,HepatitisB
-Zone 2,2-2,0,2004,HepatitisB
+Zone:2,2-2,0,2004,HepatitisB
 Phetchabun,2-2,0,2004,HepatitisB
 Phitsanulok,2-2,0,2004,HepatitisB
 Sukhothai,2-2,0,2004,HepatitisB
 Tak,2-2,0,2004,HepatitisB
 Uttaradit,2-2,0,2004,HepatitisB
-Zone 3,2-2,0,2004,HepatitisB
+Zone:3,2-2,0,2004,HepatitisB
 Kamphaeng Phet,2-2,0,2004,HepatitisB
 Nakhon Sawan,2-2,0,2004,HepatitisB
 Phichit,2-2,0,2004,HepatitisB
 Uthai Thani,2-2,0,2004,HepatitisB
 Central Region,2-2,2,2004,HepatitisB
 Bangkok,2-2,0,2004,HepatitisB
-Zone 4,2-2,1,2004,HepatitisB
+Zone:4,2-2,1,2004,HepatitisB
 Ang Thong,2-2,0,2004,HepatitisB
 Nonthaburi,2-2,1,2004,HepatitisB
 P.Nakhon S.Ayutthaya,2-2,0,2004,HepatitisB
 Pathum Thani,2-2,0,2004,HepatitisB
-Zone 5,2-2,0,2004,HepatitisB
+Zone:5,2-2,0,2004,HepatitisB
 Chai Nat,2-2,0,2004,HepatitisB
 Lop Buri,2-2,0,2004,HepatitisB
 Saraburi,2-2,0,2004,HepatitisB
 Sing Buri,2-2,0,2004,HepatitisB
-Zone 6,2-2,0,2004,HepatitisB
+Zone:6,2-2,0,2004,HepatitisB
 Kanchanaburi,2-2,0,2004,HepatitisB
 Nakhon Pathom,2-2,0,2004,HepatitisB
 Ratchaburi,2-2,0,2004,HepatitisB
 Suphan Buri,2-2,0,2004,HepatitisB
-Zone 7,2-2,0,2004,HepatitisB
+Zone:7,2-2,0,2004,HepatitisB
 Phetchaburi,2-2,0,2004,HepatitisB
 Prachuap Khiri Khan,2-2,0,2004,HepatitisB
 Samut Sakhon,2-2,0,2004,HepatitisB
 Samut Songkhram,2-2,0,2004,HepatitisB
-Zone 8,2-2,1,2004,HepatitisB
+Zone:8,2-2,1,2004,HepatitisB
 Chachoengsao,2-2,0,2004,HepatitisB
 Nakhon Nayok,2-2,0,2004,HepatitisB
 Prachin Buri,2-2,1,2004,HepatitisB
 Sa Kaeo,2-2,0,2004,HepatitisB
 Samut Prakan,2-2,0,2004,HepatitisB
-Zone 9,2-2,0,2004,HepatitisB
+Zone:9,2-2,0,2004,HepatitisB
 Chanthaburi,2-2,0,2004,HepatitisB
 Chon Buri,2-2,0,2004,HepatitisB
 Rayong,2-2,0,2004,HepatitisB
 Trat,2-2,0,2004,HepatitisB
 North-Eastern Region,2-2,1,2004,HepatitisB
-Zone 10,2-2,0,2004,HepatitisB
+Zone:10,2-2,0,2004,HepatitisB
 Loei,2-2,0,2004,HepatitisB
 Nong Bua Lam Phu,2-2,0,2004,HepatitisB
 Nong Khai,2-2,0,2004,HepatitisB
 Udon Thani,2-2,0,2004,HepatitisB
-Zone 11,2-2,0,2004,HepatitisB
+Zone:11,2-2,0,2004,HepatitisB
 Kalasin,2-2,0,2004,HepatitisB
 Mukdahan,2-2,0,2004,HepatitisB
 Nakhon Phanom,2-2,0,2004,HepatitisB
 Sakon Nakhon,2-2,0,2004,HepatitisB
-Zone 12,2-2,1,2004,HepatitisB
+Zone:12,2-2,1,2004,HepatitisB
 Khon Kaen,2-2,1,2004,HepatitisB
 Maha Sarakham,2-2,0,2004,HepatitisB
 Roi Et,2-2,0,2004,HepatitisB
-Zone 13,2-2,0,2004,HepatitisB
+Zone:13,2-2,0,2004,HepatitisB
 Buri Ram,2-2,0,2004,HepatitisB
 Chaiyaphum,2-2,0,2004,HepatitisB
 Nakhon Ratchasima,2-2,0,2004,HepatitisB
 Surin,2-2,0,2004,HepatitisB
-Zone 14,2-2,0,2004,HepatitisB
+Zone:14,2-2,0,2004,HepatitisB
 Amnat Charoen,2-2,0,2004,HepatitisB
 Si Sa Ket,2-2,0,2004,HepatitisB
 Ubon Ratchathani,2-2,0,2004,HepatitisB
 Yasothon,2-2,0,2004,HepatitisB
 South Region,2-2,1,2004,HepatitisB
-Zone 15,2-2,0,2004,HepatitisB
+Zone:15,2-2,0,2004,HepatitisB
 Chumphon,2-2,0,2004,HepatitisB
 Ranong,2-2,0,2004,HepatitisB
 Surat Thani,2-2,0,2004,HepatitisB
-Zone 16,2-2,0,2004,HepatitisB
+Zone:16,2-2,0,2004,HepatitisB
 Nakhon Si Thammarat,2-2,0,2004,HepatitisB
 Phatthalung,2-2,0,2004,HepatitisB
 Trang,2-2,0,2004,HepatitisB
-Zone 17,2-2,0,2004,HepatitisB
+Zone:17,2-2,0,2004,HepatitisB
 Krabi,2-2,0,2004,HepatitisB
 Phangnga,2-2,0,2004,HepatitisB
 Phuket,2-2,0,2004,HepatitisB
-Zone 18,2-2,1,2004,HepatitisB
+Zone:18,2-2,1,2004,HepatitisB
 Narathiwat,2-2,0,2004,HepatitisB
 Pattani,2-2,1,2004,HepatitisB
 Yala,2-2,0,2004,HepatitisB
-Zone 19,2-2,0,2004,HepatitisB
+Zone:19,2-2,0,2004,HepatitisB
 Satun,2-2,0,2004,HepatitisB
 Songkhla,2-2,0,2004,HepatitisB
 Total,3-3,9,2004,HepatitisB
 North Region,3-3,2,2004,HepatitisB
-Zone 1,3-3,2,2004,HepatitisB
+Zone:1,3-3,2,2004,HepatitisB
 Chiang Mai,3-3,1,2004,HepatitisB
 Chiang Rai,3-3,1,2004,HepatitisB
 Lampang,3-3,0,2004,HepatitisB
@@ -22740,98 +22740,98 @@ Mae Hong Son,3-3,0,2004,HepatitisB
 Nan,3-3,0,2004,HepatitisB
 Phayao,3-3,0,2004,HepatitisB
 Phrae,3-3,0,2004,HepatitisB
-Zone 2,3-3,0,2004,HepatitisB
+Zone:2,3-3,0,2004,HepatitisB
 Phetchabun,3-3,0,2004,HepatitisB
 Phitsanulok,3-3,0,2004,HepatitisB
 Sukhothai,3-3,0,2004,HepatitisB
 Tak,3-3,0,2004,HepatitisB
 Uttaradit,3-3,0,2004,HepatitisB
-Zone 3,3-3,0,2004,HepatitisB
+Zone:3,3-3,0,2004,HepatitisB
 Kamphaeng Phet,3-3,0,2004,HepatitisB
 Nakhon Sawan,3-3,0,2004,HepatitisB
 Phichit,3-3,0,2004,HepatitisB
 Uthai Thani,3-3,0,2004,HepatitisB
 Central Region,3-3,1,2004,HepatitisB
 Bangkok,3-3,0,2004,HepatitisB
-Zone 4,3-3,0,2004,HepatitisB
+Zone:4,3-3,0,2004,HepatitisB
 Ang Thong,3-3,0,2004,HepatitisB
 Nonthaburi,3-3,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,3-3,0,2004,HepatitisB
 Pathum Thani,3-3,0,2004,HepatitisB
-Zone 5,3-3,0,2004,HepatitisB
+Zone:5,3-3,0,2004,HepatitisB
 Chai Nat,3-3,0,2004,HepatitisB
 Lop Buri,3-3,0,2004,HepatitisB
 Saraburi,3-3,0,2004,HepatitisB
 Sing Buri,3-3,0,2004,HepatitisB
-Zone 6,3-3,1,2004,HepatitisB
+Zone:6,3-3,1,2004,HepatitisB
 Kanchanaburi,3-3,1,2004,HepatitisB
 Nakhon Pathom,3-3,0,2004,HepatitisB
 Ratchaburi,3-3,0,2004,HepatitisB
 Suphan Buri,3-3,0,2004,HepatitisB
-Zone 7,3-3,0,2004,HepatitisB
+Zone:7,3-3,0,2004,HepatitisB
 Phetchaburi,3-3,0,2004,HepatitisB
 Prachuap Khiri Khan,3-3,0,2004,HepatitisB
 Samut Sakhon,3-3,0,2004,HepatitisB
 Samut Songkhram,3-3,0,2004,HepatitisB
-Zone 8,3-3,0,2004,HepatitisB
+Zone:8,3-3,0,2004,HepatitisB
 Chachoengsao,3-3,0,2004,HepatitisB
 Nakhon Nayok,3-3,0,2004,HepatitisB
 Prachin Buri,3-3,0,2004,HepatitisB
 Sa Kaeo,3-3,0,2004,HepatitisB
 Samut Prakan,3-3,0,2004,HepatitisB
-Zone 9,3-3,0,2004,HepatitisB
+Zone:9,3-3,0,2004,HepatitisB
 Chanthaburi,3-3,0,2004,HepatitisB
 Chon Buri,3-3,0,2004,HepatitisB
 Rayong,3-3,0,2004,HepatitisB
 Trat,3-3,0,2004,HepatitisB
 North-Eastern Region,3-3,3,2004,HepatitisB
-Zone 10,3-3,0,2004,HepatitisB
+Zone:10,3-3,0,2004,HepatitisB
 Loei,3-3,0,2004,HepatitisB
 Nong Bua Lam Phu,3-3,0,2004,HepatitisB
 Nong Khai,3-3,0,2004,HepatitisB
 Udon Thani,3-3,0,2004,HepatitisB
-Zone 11,3-3,0,2004,HepatitisB
+Zone:11,3-3,0,2004,HepatitisB
 Kalasin,3-3,0,2004,HepatitisB
 Mukdahan,3-3,0,2004,HepatitisB
 Nakhon Phanom,3-3,0,2004,HepatitisB
 Sakon Nakhon,3-3,0,2004,HepatitisB
-Zone 12,3-3,1,2004,HepatitisB
+Zone:12,3-3,1,2004,HepatitisB
 Khon Kaen,3-3,1,2004,HepatitisB
 Maha Sarakham,3-3,0,2004,HepatitisB
 Roi Et,3-3,0,2004,HepatitisB
-Zone 13,3-3,0,2004,HepatitisB
+Zone:13,3-3,0,2004,HepatitisB
 Buri Ram,3-3,0,2004,HepatitisB
 Chaiyaphum,3-3,0,2004,HepatitisB
 Nakhon Ratchasima,3-3,0,2004,HepatitisB
 Surin,3-3,0,2004,HepatitisB
-Zone 14,3-3,2,2004,HepatitisB
+Zone:14,3-3,2,2004,HepatitisB
 Amnat Charoen,3-3,0,2004,HepatitisB
 Si Sa Ket,3-3,2,2004,HepatitisB
 Ubon Ratchathani,3-3,0,2004,HepatitisB
 Yasothon,3-3,0,2004,HepatitisB
 South Region,3-3,3,2004,HepatitisB
-Zone 15,3-3,0,2004,HepatitisB
+Zone:15,3-3,0,2004,HepatitisB
 Chumphon,3-3,0,2004,HepatitisB
 Ranong,3-3,0,2004,HepatitisB
 Surat Thani,3-3,0,2004,HepatitisB
-Zone 16,3-3,1,2004,HepatitisB
+Zone:16,3-3,1,2004,HepatitisB
 Nakhon Si Thammarat,3-3,0,2004,HepatitisB
 Phatthalung,3-3,1,2004,HepatitisB
 Trang,3-3,0,2004,HepatitisB
-Zone 17,3-3,0,2004,HepatitisB
+Zone:17,3-3,0,2004,HepatitisB
 Krabi,3-3,0,2004,HepatitisB
 Phangnga,3-3,0,2004,HepatitisB
 Phuket,3-3,0,2004,HepatitisB
-Zone 18,3-3,1,2004,HepatitisB
+Zone:18,3-3,1,2004,HepatitisB
 Narathiwat,3-3,1,2004,HepatitisB
 Pattani,3-3,0,2004,HepatitisB
 Yala,3-3,0,2004,HepatitisB
-Zone 19,3-3,1,2004,HepatitisB
+Zone:19,3-3,1,2004,HepatitisB
 Satun,3-3,0,2004,HepatitisB
 Songkhla,3-3,1,2004,HepatitisB
 Total,4-4,5,2004,HepatitisB
 North Region,4-4,2,2004,HepatitisB
-Zone 1,4-4,1,2004,HepatitisB
+Zone:1,4-4,1,2004,HepatitisB
 Chiang Mai,4-4,0,2004,HepatitisB
 Chiang Rai,4-4,1,2004,HepatitisB
 Lampang,4-4,0,2004,HepatitisB
@@ -22840,98 +22840,98 @@ Mae Hong Son,4-4,0,2004,HepatitisB
 Nan,4-4,0,2004,HepatitisB
 Phayao,4-4,0,2004,HepatitisB
 Phrae,4-4,0,2004,HepatitisB
-Zone 2,4-4,0,2004,HepatitisB
+Zone:2,4-4,0,2004,HepatitisB
 Phetchabun,4-4,0,2004,HepatitisB
 Phitsanulok,4-4,0,2004,HepatitisB
 Sukhothai,4-4,0,2004,HepatitisB
 Tak,4-4,0,2004,HepatitisB
 Uttaradit,4-4,0,2004,HepatitisB
-Zone 3,4-4,1,2004,HepatitisB
+Zone:3,4-4,1,2004,HepatitisB
 Kamphaeng Phet,4-4,1,2004,HepatitisB
 Nakhon Sawan,4-4,0,2004,HepatitisB
 Phichit,4-4,0,2004,HepatitisB
 Uthai Thani,4-4,0,2004,HepatitisB
 Central Region,4-4,2,2004,HepatitisB
 Bangkok,4-4,0,2004,HepatitisB
-Zone 4,4-4,0,2004,HepatitisB
+Zone:4,4-4,0,2004,HepatitisB
 Ang Thong,4-4,0,2004,HepatitisB
 Nonthaburi,4-4,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,4-4,0,2004,HepatitisB
 Pathum Thani,4-4,0,2004,HepatitisB
-Zone 5,4-4,0,2004,HepatitisB
+Zone:5,4-4,0,2004,HepatitisB
 Chai Nat,4-4,0,2004,HepatitisB
 Lop Buri,4-4,0,2004,HepatitisB
 Saraburi,4-4,0,2004,HepatitisB
 Sing Buri,4-4,0,2004,HepatitisB
-Zone 6,4-4,1,2004,HepatitisB
+Zone:6,4-4,1,2004,HepatitisB
 Kanchanaburi,4-4,0,2004,HepatitisB
 Nakhon Pathom,4-4,0,2004,HepatitisB
 Ratchaburi,4-4,1,2004,HepatitisB
 Suphan Buri,4-4,0,2004,HepatitisB
-Zone 7,4-4,0,2004,HepatitisB
+Zone:7,4-4,0,2004,HepatitisB
 Phetchaburi,4-4,0,2004,HepatitisB
 Prachuap Khiri Khan,4-4,0,2004,HepatitisB
 Samut Sakhon,4-4,0,2004,HepatitisB
 Samut Songkhram,4-4,0,2004,HepatitisB
-Zone 8,4-4,0,2004,HepatitisB
+Zone:8,4-4,0,2004,HepatitisB
 Chachoengsao,4-4,0,2004,HepatitisB
 Nakhon Nayok,4-4,0,2004,HepatitisB
 Prachin Buri,4-4,0,2004,HepatitisB
 Sa Kaeo,4-4,0,2004,HepatitisB
 Samut Prakan,4-4,0,2004,HepatitisB
-Zone 9,4-4,1,2004,HepatitisB
+Zone:9,4-4,1,2004,HepatitisB
 Chanthaburi,4-4,0,2004,HepatitisB
 Chon Buri,4-4,0,2004,HepatitisB
 Rayong,4-4,0,2004,HepatitisB
 Trat,4-4,1,2004,HepatitisB
 North-Eastern Region,4-4,1,2004,HepatitisB
-Zone 10,4-4,0,2004,HepatitisB
+Zone:10,4-4,0,2004,HepatitisB
 Loei,4-4,0,2004,HepatitisB
 Nong Bua Lam Phu,4-4,0,2004,HepatitisB
 Nong Khai,4-4,0,2004,HepatitisB
 Udon Thani,4-4,0,2004,HepatitisB
-Zone 11,4-4,0,2004,HepatitisB
+Zone:11,4-4,0,2004,HepatitisB
 Kalasin,4-4,0,2004,HepatitisB
 Mukdahan,4-4,0,2004,HepatitisB
 Nakhon Phanom,4-4,0,2004,HepatitisB
 Sakon Nakhon,4-4,0,2004,HepatitisB
-Zone 12,4-4,0,2004,HepatitisB
+Zone:12,4-4,0,2004,HepatitisB
 Khon Kaen,4-4,0,2004,HepatitisB
 Maha Sarakham,4-4,0,2004,HepatitisB
 Roi Et,4-4,0,2004,HepatitisB
-Zone 13,4-4,0,2004,HepatitisB
+Zone:13,4-4,0,2004,HepatitisB
 Buri Ram,4-4,0,2004,HepatitisB
 Chaiyaphum,4-4,0,2004,HepatitisB
 Nakhon Ratchasima,4-4,0,2004,HepatitisB
 Surin,4-4,0,2004,HepatitisB
-Zone 14,4-4,1,2004,HepatitisB
+Zone:14,4-4,1,2004,HepatitisB
 Amnat Charoen,4-4,0,2004,HepatitisB
 Si Sa Ket,4-4,0,2004,HepatitisB
 Ubon Ratchathani,4-4,1,2004,HepatitisB
 Yasothon,4-4,0,2004,HepatitisB
 South Region,4-4,0,2004,HepatitisB
-Zone 15,4-4,0,2004,HepatitisB
+Zone:15,4-4,0,2004,HepatitisB
 Chumphon,4-4,0,2004,HepatitisB
 Ranong,4-4,0,2004,HepatitisB
 Surat Thani,4-4,0,2004,HepatitisB
-Zone 16,4-4,0,2004,HepatitisB
+Zone:16,4-4,0,2004,HepatitisB
 Nakhon Si Thammarat,4-4,0,2004,HepatitisB
 Phatthalung,4-4,0,2004,HepatitisB
 Trang,4-4,0,2004,HepatitisB
-Zone 17,4-4,0,2004,HepatitisB
+Zone:17,4-4,0,2004,HepatitisB
 Krabi,4-4,0,2004,HepatitisB
 Phangnga,4-4,0,2004,HepatitisB
 Phuket,4-4,0,2004,HepatitisB
-Zone 18,4-4,0,2004,HepatitisB
+Zone:18,4-4,0,2004,HepatitisB
 Narathiwat,4-4,0,2004,HepatitisB
 Pattani,4-4,0,2004,HepatitisB
 Yala,4-4,0,2004,HepatitisB
-Zone 19,4-4,0,2004,HepatitisB
+Zone:19,4-4,0,2004,HepatitisB
 Satun,4-4,0,2004,HepatitisB
 Songkhla,4-4,0,2004,HepatitisB
 Total,5-5,2,2004,HepatitisB
 North Region,5-5,2,2004,HepatitisB
-Zone 1,5-5,2,2004,HepatitisB
+Zone:1,5-5,2,2004,HepatitisB
 Chiang Mai,5-5,0,2004,HepatitisB
 Chiang Rai,5-5,1,2004,HepatitisB
 Lampang,5-5,0,2004,HepatitisB
@@ -22940,98 +22940,98 @@ Mae Hong Son,5-5,0,2004,HepatitisB
 Nan,5-5,0,2004,HepatitisB
 Phayao,5-5,0,2004,HepatitisB
 Phrae,5-5,0,2004,HepatitisB
-Zone 2,5-5,0,2004,HepatitisB
+Zone:2,5-5,0,2004,HepatitisB
 Phetchabun,5-5,0,2004,HepatitisB
 Phitsanulok,5-5,0,2004,HepatitisB
 Sukhothai,5-5,0,2004,HepatitisB
 Tak,5-5,0,2004,HepatitisB
 Uttaradit,5-5,0,2004,HepatitisB
-Zone 3,5-5,0,2004,HepatitisB
+Zone:3,5-5,0,2004,HepatitisB
 Kamphaeng Phet,5-5,0,2004,HepatitisB
 Nakhon Sawan,5-5,0,2004,HepatitisB
 Phichit,5-5,0,2004,HepatitisB
 Uthai Thani,5-5,0,2004,HepatitisB
 Central Region,5-5,0,2004,HepatitisB
 Bangkok,5-5,0,2004,HepatitisB
-Zone 4,5-5,0,2004,HepatitisB
+Zone:4,5-5,0,2004,HepatitisB
 Ang Thong,5-5,0,2004,HepatitisB
 Nonthaburi,5-5,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,5-5,0,2004,HepatitisB
 Pathum Thani,5-5,0,2004,HepatitisB
-Zone 5,5-5,0,2004,HepatitisB
+Zone:5,5-5,0,2004,HepatitisB
 Chai Nat,5-5,0,2004,HepatitisB
 Lop Buri,5-5,0,2004,HepatitisB
 Saraburi,5-5,0,2004,HepatitisB
 Sing Buri,5-5,0,2004,HepatitisB
-Zone 6,5-5,0,2004,HepatitisB
+Zone:6,5-5,0,2004,HepatitisB
 Kanchanaburi,5-5,0,2004,HepatitisB
 Nakhon Pathom,5-5,0,2004,HepatitisB
 Ratchaburi,5-5,0,2004,HepatitisB
 Suphan Buri,5-5,0,2004,HepatitisB
-Zone 7,5-5,0,2004,HepatitisB
+Zone:7,5-5,0,2004,HepatitisB
 Phetchaburi,5-5,0,2004,HepatitisB
 Prachuap Khiri Khan,5-5,0,2004,HepatitisB
 Samut Sakhon,5-5,0,2004,HepatitisB
 Samut Songkhram,5-5,0,2004,HepatitisB
-Zone 8,5-5,0,2004,HepatitisB
+Zone:8,5-5,0,2004,HepatitisB
 Chachoengsao,5-5,0,2004,HepatitisB
 Nakhon Nayok,5-5,0,2004,HepatitisB
 Prachin Buri,5-5,0,2004,HepatitisB
 Sa Kaeo,5-5,0,2004,HepatitisB
 Samut Prakan,5-5,0,2004,HepatitisB
-Zone 9,5-5,0,2004,HepatitisB
+Zone:9,5-5,0,2004,HepatitisB
 Chanthaburi,5-5,0,2004,HepatitisB
 Chon Buri,5-5,0,2004,HepatitisB
 Rayong,5-5,0,2004,HepatitisB
 Trat,5-5,0,2004,HepatitisB
 North-Eastern Region,5-5,0,2004,HepatitisB
-Zone 10,5-5,0,2004,HepatitisB
+Zone:10,5-5,0,2004,HepatitisB
 Loei,5-5,0,2004,HepatitisB
 Nong Bua Lam Phu,5-5,0,2004,HepatitisB
 Nong Khai,5-5,0,2004,HepatitisB
 Udon Thani,5-5,0,2004,HepatitisB
-Zone 11,5-5,0,2004,HepatitisB
+Zone:11,5-5,0,2004,HepatitisB
 Kalasin,5-5,0,2004,HepatitisB
 Mukdahan,5-5,0,2004,HepatitisB
 Nakhon Phanom,5-5,0,2004,HepatitisB
 Sakon Nakhon,5-5,0,2004,HepatitisB
-Zone 12,5-5,0,2004,HepatitisB
+Zone:12,5-5,0,2004,HepatitisB
 Khon Kaen,5-5,0,2004,HepatitisB
 Maha Sarakham,5-5,0,2004,HepatitisB
 Roi Et,5-5,0,2004,HepatitisB
-Zone 13,5-5,0,2004,HepatitisB
+Zone:13,5-5,0,2004,HepatitisB
 Buri Ram,5-5,0,2004,HepatitisB
 Chaiyaphum,5-5,0,2004,HepatitisB
 Nakhon Ratchasima,5-5,0,2004,HepatitisB
 Surin,5-5,0,2004,HepatitisB
-Zone 14,5-5,0,2004,HepatitisB
+Zone:14,5-5,0,2004,HepatitisB
 Amnat Charoen,5-5,0,2004,HepatitisB
 Si Sa Ket,5-5,0,2004,HepatitisB
 Ubon Ratchathani,5-5,0,2004,HepatitisB
 Yasothon,5-5,0,2004,HepatitisB
 South Region,5-5,0,2004,HepatitisB
-Zone 15,5-5,0,2004,HepatitisB
+Zone:15,5-5,0,2004,HepatitisB
 Chumphon,5-5,0,2004,HepatitisB
 Ranong,5-5,0,2004,HepatitisB
 Surat Thani,5-5,0,2004,HepatitisB
-Zone 16,5-5,0,2004,HepatitisB
+Zone:16,5-5,0,2004,HepatitisB
 Nakhon Si Thammarat,5-5,0,2004,HepatitisB
 Phatthalung,5-5,0,2004,HepatitisB
 Trang,5-5,0,2004,HepatitisB
-Zone 17,5-5,0,2004,HepatitisB
+Zone:17,5-5,0,2004,HepatitisB
 Krabi,5-5,0,2004,HepatitisB
 Phangnga,5-5,0,2004,HepatitisB
 Phuket,5-5,0,2004,HepatitisB
-Zone 18,5-5,0,2004,HepatitisB
+Zone:18,5-5,0,2004,HepatitisB
 Narathiwat,5-5,0,2004,HepatitisB
 Pattani,5-5,0,2004,HepatitisB
 Yala,5-5,0,2004,HepatitisB
-Zone 19,5-5,0,2004,HepatitisB
+Zone:19,5-5,0,2004,HepatitisB
 Satun,5-5,0,2004,HepatitisB
 Songkhla,5-5,0,2004,HepatitisB
 Total,6-6,12,2004,HepatitisB
 North Region,6-6,3,2004,HepatitisB
-Zone 1,6-6,2,2004,HepatitisB
+Zone:1,6-6,2,2004,HepatitisB
 Chiang Mai,6-6,0,2004,HepatitisB
 Chiang Rai,6-6,2,2004,HepatitisB
 Lampang,6-6,0,2004,HepatitisB
@@ -23040,98 +23040,98 @@ Mae Hong Son,6-6,0,2004,HepatitisB
 Nan,6-6,0,2004,HepatitisB
 Phayao,6-6,0,2004,HepatitisB
 Phrae,6-6,0,2004,HepatitisB
-Zone 2,6-6,1,2004,HepatitisB
+Zone:2,6-6,1,2004,HepatitisB
 Phetchabun,6-6,0,2004,HepatitisB
 Phitsanulok,6-6,0,2004,HepatitisB
 Sukhothai,6-6,0,2004,HepatitisB
 Tak,6-6,1,2004,HepatitisB
 Uttaradit,6-6,0,2004,HepatitisB
-Zone 3,6-6,0,2004,HepatitisB
+Zone:3,6-6,0,2004,HepatitisB
 Kamphaeng Phet,6-6,0,2004,HepatitisB
 Nakhon Sawan,6-6,0,2004,HepatitisB
 Phichit,6-6,0,2004,HepatitisB
 Uthai Thani,6-6,0,2004,HepatitisB
 Central Region,6-6,8,2004,HepatitisB
 Bangkok,6-6,5,2004,HepatitisB
-Zone 4,6-6,0,2004,HepatitisB
+Zone:4,6-6,0,2004,HepatitisB
 Ang Thong,6-6,0,2004,HepatitisB
 Nonthaburi,6-6,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,6-6,0,2004,HepatitisB
 Pathum Thani,6-6,0,2004,HepatitisB
-Zone 5,6-6,0,2004,HepatitisB
+Zone:5,6-6,0,2004,HepatitisB
 Chai Nat,6-6,0,2004,HepatitisB
 Lop Buri,6-6,0,2004,HepatitisB
 Saraburi,6-6,0,2004,HepatitisB
 Sing Buri,6-6,0,2004,HepatitisB
-Zone 6,6-6,1,2004,HepatitisB
+Zone:6,6-6,1,2004,HepatitisB
 Kanchanaburi,6-6,1,2004,HepatitisB
 Nakhon Pathom,6-6,0,2004,HepatitisB
 Ratchaburi,6-6,0,2004,HepatitisB
 Suphan Buri,6-6,0,2004,HepatitisB
-Zone 7,6-6,0,2004,HepatitisB
+Zone:7,6-6,0,2004,HepatitisB
 Phetchaburi,6-6,0,2004,HepatitisB
 Prachuap Khiri Khan,6-6,0,2004,HepatitisB
 Samut Sakhon,6-6,0,2004,HepatitisB
 Samut Songkhram,6-6,0,2004,HepatitisB
-Zone 8,6-6,2,2004,HepatitisB
+Zone:8,6-6,2,2004,HepatitisB
 Chachoengsao,6-6,0,2004,HepatitisB
 Nakhon Nayok,6-6,0,2004,HepatitisB
 Prachin Buri,6-6,2,2004,HepatitisB
 Sa Kaeo,6-6,0,2004,HepatitisB
 Samut Prakan,6-6,0,2004,HepatitisB
-Zone 9,6-6,0,2004,HepatitisB
+Zone:9,6-6,0,2004,HepatitisB
 Chanthaburi,6-6,0,2004,HepatitisB
 Chon Buri,6-6,0,2004,HepatitisB
 Rayong,6-6,0,2004,HepatitisB
 Trat,6-6,0,2004,HepatitisB
 North-Eastern Region,6-6,0,2004,HepatitisB
-Zone 10,6-6,0,2004,HepatitisB
+Zone:10,6-6,0,2004,HepatitisB
 Loei,6-6,0,2004,HepatitisB
 Nong Bua Lam Phu,6-6,0,2004,HepatitisB
 Nong Khai,6-6,0,2004,HepatitisB
 Udon Thani,6-6,0,2004,HepatitisB
-Zone 11,6-6,0,2004,HepatitisB
+Zone:11,6-6,0,2004,HepatitisB
 Kalasin,6-6,0,2004,HepatitisB
 Mukdahan,6-6,0,2004,HepatitisB
 Nakhon Phanom,6-6,0,2004,HepatitisB
 Sakon Nakhon,6-6,0,2004,HepatitisB
-Zone 12,6-6,0,2004,HepatitisB
+Zone:12,6-6,0,2004,HepatitisB
 Khon Kaen,6-6,0,2004,HepatitisB
 Maha Sarakham,6-6,0,2004,HepatitisB
 Roi Et,6-6,0,2004,HepatitisB
-Zone 13,6-6,0,2004,HepatitisB
+Zone:13,6-6,0,2004,HepatitisB
 Buri Ram,6-6,0,2004,HepatitisB
 Chaiyaphum,6-6,0,2004,HepatitisB
 Nakhon Ratchasima,6-6,0,2004,HepatitisB
 Surin,6-6,0,2004,HepatitisB
-Zone 14,6-6,0,2004,HepatitisB
+Zone:14,6-6,0,2004,HepatitisB
 Amnat Charoen,6-6,0,2004,HepatitisB
 Si Sa Ket,6-6,0,2004,HepatitisB
 Ubon Ratchathani,6-6,0,2004,HepatitisB
 Yasothon,6-6,0,2004,HepatitisB
 South Region,6-6,1,2004,HepatitisB
-Zone 15,6-6,0,2004,HepatitisB
+Zone:15,6-6,0,2004,HepatitisB
 Chumphon,6-6,0,2004,HepatitisB
 Ranong,6-6,0,2004,HepatitisB
 Surat Thani,6-6,0,2004,HepatitisB
-Zone 16,6-6,0,2004,HepatitisB
+Zone:16,6-6,0,2004,HepatitisB
 Nakhon Si Thammarat,6-6,0,2004,HepatitisB
 Phatthalung,6-6,0,2004,HepatitisB
 Trang,6-6,0,2004,HepatitisB
-Zone 17,6-6,0,2004,HepatitisB
+Zone:17,6-6,0,2004,HepatitisB
 Krabi,6-6,0,2004,HepatitisB
 Phangnga,6-6,0,2004,HepatitisB
 Phuket,6-6,0,2004,HepatitisB
-Zone 18,6-6,1,2004,HepatitisB
+Zone:18,6-6,1,2004,HepatitisB
 Narathiwat,6-6,0,2004,HepatitisB
 Pattani,6-6,1,2004,HepatitisB
 Yala,6-6,0,2004,HepatitisB
-Zone 19,6-6,0,2004,HepatitisB
+Zone:19,6-6,0,2004,HepatitisB
 Satun,6-6,0,2004,HepatitisB
 Songkhla,6-6,0,2004,HepatitisB
 Total,7-9,17,2004,HepatitisB
 North Region,7-9,6,2004,HepatitisB
-Zone 1,7-9,2,2004,HepatitisB
+Zone:1,7-9,2,2004,HepatitisB
 Chiang Mai,7-9,0,2004,HepatitisB
 Chiang Rai,7-9,2,2004,HepatitisB
 Lampang,7-9,0,2004,HepatitisB
@@ -23140,98 +23140,98 @@ Mae Hong Son,7-9,0,2004,HepatitisB
 Nan,7-9,0,2004,HepatitisB
 Phayao,7-9,0,2004,HepatitisB
 Phrae,7-9,0,2004,HepatitisB
-Zone 2,7-9,2,2004,HepatitisB
+Zone:2,7-9,2,2004,HepatitisB
 Phetchabun,7-9,0,2004,HepatitisB
 Phitsanulok,7-9,0,2004,HepatitisB
 Sukhothai,7-9,1,2004,HepatitisB
 Tak,7-9,1,2004,HepatitisB
 Uttaradit,7-9,0,2004,HepatitisB
-Zone 3,7-9,2,2004,HepatitisB
+Zone:3,7-9,2,2004,HepatitisB
 Kamphaeng Phet,7-9,2,2004,HepatitisB
 Nakhon Sawan,7-9,0,2004,HepatitisB
 Phichit,7-9,0,2004,HepatitisB
 Uthai Thani,7-9,0,2004,HepatitisB
 Central Region,7-9,5,2004,HepatitisB
 Bangkok,7-9,2,2004,HepatitisB
-Zone 4,7-9,0,2004,HepatitisB
+Zone:4,7-9,0,2004,HepatitisB
 Ang Thong,7-9,0,2004,HepatitisB
 Nonthaburi,7-9,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,7-9,0,2004,HepatitisB
 Pathum Thani,7-9,0,2004,HepatitisB
-Zone 5,7-9,1,2004,HepatitisB
+Zone:5,7-9,1,2004,HepatitisB
 Chai Nat,7-9,1,2004,HepatitisB
 Lop Buri,7-9,0,2004,HepatitisB
 Saraburi,7-9,0,2004,HepatitisB
 Sing Buri,7-9,0,2004,HepatitisB
-Zone 6,7-9,2,2004,HepatitisB
+Zone:6,7-9,2,2004,HepatitisB
 Kanchanaburi,7-9,1,2004,HepatitisB
 Nakhon Pathom,7-9,1,2004,HepatitisB
 Ratchaburi,7-9,0,2004,HepatitisB
 Suphan Buri,7-9,0,2004,HepatitisB
-Zone 7,7-9,0,2004,HepatitisB
+Zone:7,7-9,0,2004,HepatitisB
 Phetchaburi,7-9,0,2004,HepatitisB
 Prachuap Khiri Khan,7-9,0,2004,HepatitisB
 Samut Sakhon,7-9,0,2004,HepatitisB
 Samut Songkhram,7-9,0,2004,HepatitisB
-Zone 8,7-9,0,2004,HepatitisB
+Zone:8,7-9,0,2004,HepatitisB
 Chachoengsao,7-9,0,2004,HepatitisB
 Nakhon Nayok,7-9,0,2004,HepatitisB
 Prachin Buri,7-9,0,2004,HepatitisB
 Sa Kaeo,7-9,0,2004,HepatitisB
 Samut Prakan,7-9,0,2004,HepatitisB
-Zone 9,7-9,0,2004,HepatitisB
+Zone:9,7-9,0,2004,HepatitisB
 Chanthaburi,7-9,0,2004,HepatitisB
 Chon Buri,7-9,0,2004,HepatitisB
 Rayong,7-9,0,2004,HepatitisB
 Trat,7-9,0,2004,HepatitisB
 North-Eastern Region,7-9,2,2004,HepatitisB
-Zone 10,7-9,0,2004,HepatitisB
+Zone:10,7-9,0,2004,HepatitisB
 Loei,7-9,0,2004,HepatitisB
 Nong Bua Lam Phu,7-9,0,2004,HepatitisB
 Nong Khai,7-9,0,2004,HepatitisB
 Udon Thani,7-9,0,2004,HepatitisB
-Zone 11,7-9,1,2004,HepatitisB
+Zone:11,7-9,1,2004,HepatitisB
 Kalasin,7-9,0,2004,HepatitisB
 Mukdahan,7-9,1,2004,HepatitisB
 Nakhon Phanom,7-9,0,2004,HepatitisB
 Sakon Nakhon,7-9,0,2004,HepatitisB
-Zone 12,7-9,0,2004,HepatitisB
+Zone:12,7-9,0,2004,HepatitisB
 Khon Kaen,7-9,0,2004,HepatitisB
 Maha Sarakham,7-9,0,2004,HepatitisB
 Roi Et,7-9,0,2004,HepatitisB
-Zone 13,7-9,1,2004,HepatitisB
+Zone:13,7-9,1,2004,HepatitisB
 Buri Ram,7-9,1,2004,HepatitisB
 Chaiyaphum,7-9,0,2004,HepatitisB
 Nakhon Ratchasima,7-9,0,2004,HepatitisB
 Surin,7-9,0,2004,HepatitisB
-Zone 14,7-9,0,2004,HepatitisB
+Zone:14,7-9,0,2004,HepatitisB
 Amnat Charoen,7-9,0,2004,HepatitisB
 Si Sa Ket,7-9,0,2004,HepatitisB
 Ubon Ratchathani,7-9,0,2004,HepatitisB
 Yasothon,7-9,0,2004,HepatitisB
 South Region,7-9,4,2004,HepatitisB
-Zone 15,7-9,0,2004,HepatitisB
+Zone:15,7-9,0,2004,HepatitisB
 Chumphon,7-9,0,2004,HepatitisB
 Ranong,7-9,0,2004,HepatitisB
 Surat Thani,7-9,0,2004,HepatitisB
-Zone 16,7-9,0,2004,HepatitisB
+Zone:16,7-9,0,2004,HepatitisB
 Nakhon Si Thammarat,7-9,0,2004,HepatitisB
 Phatthalung,7-9,0,2004,HepatitisB
 Trang,7-9,0,2004,HepatitisB
-Zone 17,7-9,1,2004,HepatitisB
+Zone:17,7-9,1,2004,HepatitisB
 Krabi,7-9,1,2004,HepatitisB
 Phangnga,7-9,0,2004,HepatitisB
 Phuket,7-9,0,2004,HepatitisB
-Zone 18,7-9,3,2004,HepatitisB
+Zone:18,7-9,3,2004,HepatitisB
 Narathiwat,7-9,0,2004,HepatitisB
 Pattani,7-9,2,2004,HepatitisB
 Yala,7-9,1,2004,HepatitisB
-Zone 19,7-9,0,2004,HepatitisB
+Zone:19,7-9,0,2004,HepatitisB
 Satun,7-9,0,2004,HepatitisB
 Songkhla,7-9,0,2004,HepatitisB
 Total,10-14,90,2004,HepatitisB
 North Region,10-14,37,2004,HepatitisB
-Zone 1,10-14,25,2004,HepatitisB
+Zone:1,10-14,25,2004,HepatitisB
 Chiang Mai,10-14,4,2004,HepatitisB
 Chiang Rai,10-14,10,2004,HepatitisB
 Lampang,10-14,0,2004,HepatitisB
@@ -23240,98 +23240,98 @@ Mae Hong Son,10-14,2,2004,HepatitisB
 Nan,10-14,4,2004,HepatitisB
 Phayao,10-14,4,2004,HepatitisB
 Phrae,10-14,1,2004,HepatitisB
-Zone 2,10-14,6,2004,HepatitisB
+Zone:2,10-14,6,2004,HepatitisB
 Phetchabun,10-14,2,2004,HepatitisB
 Phitsanulok,10-14,1,2004,HepatitisB
 Sukhothai,10-14,2,2004,HepatitisB
 Tak,10-14,1,2004,HepatitisB
 Uttaradit,10-14,0,2004,HepatitisB
-Zone 3,10-14,6,2004,HepatitisB
+Zone:3,10-14,6,2004,HepatitisB
 Kamphaeng Phet,10-14,3,2004,HepatitisB
 Nakhon Sawan,10-14,2,2004,HepatitisB
 Phichit,10-14,0,2004,HepatitisB
 Uthai Thani,10-14,1,2004,HepatitisB
 Central Region,10-14,19,2004,HepatitisB
 Bangkok,10-14,1,2004,HepatitisB
-Zone 4,10-14,4,2004,HepatitisB
+Zone:4,10-14,4,2004,HepatitisB
 Ang Thong,10-14,0,2004,HepatitisB
 Nonthaburi,10-14,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,10-14,1,2004,HepatitisB
 Pathum Thani,10-14,3,2004,HepatitisB
-Zone 5,10-14,0,2004,HepatitisB
+Zone:5,10-14,0,2004,HepatitisB
 Chai Nat,10-14,0,2004,HepatitisB
 Lop Buri,10-14,0,2004,HepatitisB
 Saraburi,10-14,0,2004,HepatitisB
 Sing Buri,10-14,0,2004,HepatitisB
-Zone 6,10-14,4,2004,HepatitisB
+Zone:6,10-14,4,2004,HepatitisB
 Kanchanaburi,10-14,1,2004,HepatitisB
 Nakhon Pathom,10-14,0,2004,HepatitisB
 Ratchaburi,10-14,3,2004,HepatitisB
 Suphan Buri,10-14,0,2004,HepatitisB
-Zone 7,10-14,0,2004,HepatitisB
+Zone:7,10-14,0,2004,HepatitisB
 Phetchaburi,10-14,0,2004,HepatitisB
 Prachuap Khiri Khan,10-14,0,2004,HepatitisB
 Samut Sakhon,10-14,0,2004,HepatitisB
 Samut Songkhram,10-14,0,2004,HepatitisB
-Zone 8,10-14,7,2004,HepatitisB
+Zone:8,10-14,7,2004,HepatitisB
 Chachoengsao,10-14,2,2004,HepatitisB
 Nakhon Nayok,10-14,0,2004,HepatitisB
 Prachin Buri,10-14,0,2004,HepatitisB
 Sa Kaeo,10-14,5,2004,HepatitisB
 Samut Prakan,10-14,0,2004,HepatitisB
-Zone 9,10-14,3,2004,HepatitisB
+Zone:9,10-14,3,2004,HepatitisB
 Chanthaburi,10-14,2,2004,HepatitisB
 Chon Buri,10-14,0,2004,HepatitisB
 Rayong,10-14,1,2004,HepatitisB
 Trat,10-14,0,2004,HepatitisB
 North-Eastern Region,10-14,18,2004,HepatitisB
-Zone 10,10-14,2,2004,HepatitisB
+Zone:10,10-14,2,2004,HepatitisB
 Loei,10-14,0,2004,HepatitisB
 Nong Bua Lam Phu,10-14,0,2004,HepatitisB
 Nong Khai,10-14,1,2004,HepatitisB
 Udon Thani,10-14,1,2004,HepatitisB
-Zone 11,10-14,2,2004,HepatitisB
+Zone:11,10-14,2,2004,HepatitisB
 Kalasin,10-14,0,2004,HepatitisB
 Mukdahan,10-14,0,2004,HepatitisB
 Nakhon Phanom,10-14,0,2004,HepatitisB
 Sakon Nakhon,10-14,2,2004,HepatitisB
-Zone 12,10-14,0,2004,HepatitisB
+Zone:12,10-14,0,2004,HepatitisB
 Khon Kaen,10-14,0,2004,HepatitisB
 Maha Sarakham,10-14,0,2004,HepatitisB
 Roi Et,10-14,0,2004,HepatitisB
-Zone 13,10-14,7,2004,HepatitisB
+Zone:13,10-14,7,2004,HepatitisB
 Buri Ram,10-14,2,2004,HepatitisB
 Chaiyaphum,10-14,1,2004,HepatitisB
 Nakhon Ratchasima,10-14,3,2004,HepatitisB
 Surin,10-14,1,2004,HepatitisB
-Zone 14,10-14,7,2004,HepatitisB
+Zone:14,10-14,7,2004,HepatitisB
 Amnat Charoen,10-14,2,2004,HepatitisB
 Si Sa Ket,10-14,0,2004,HepatitisB
 Ubon Ratchathani,10-14,5,2004,HepatitisB
 Yasothon,10-14,0,2004,HepatitisB
 South Region,10-14,16,2004,HepatitisB
-Zone 15,10-14,3,2004,HepatitisB
+Zone:15,10-14,3,2004,HepatitisB
 Chumphon,10-14,1,2004,HepatitisB
 Ranong,10-14,0,2004,HepatitisB
 Surat Thani,10-14,2,2004,HepatitisB
-Zone 16,10-14,0,2004,HepatitisB
+Zone:16,10-14,0,2004,HepatitisB
 Nakhon Si Thammarat,10-14,0,2004,HepatitisB
 Phatthalung,10-14,0,2004,HepatitisB
 Trang,10-14,0,2004,HepatitisB
-Zone 17,10-14,2,2004,HepatitisB
+Zone:17,10-14,2,2004,HepatitisB
 Krabi,10-14,1,2004,HepatitisB
 Phangnga,10-14,0,2004,HepatitisB
 Phuket,10-14,1,2004,HepatitisB
-Zone 18,10-14,9,2004,HepatitisB
+Zone:18,10-14,9,2004,HepatitisB
 Narathiwat,10-14,3,2004,HepatitisB
 Pattani,10-14,5,2004,HepatitisB
 Yala,10-14,1,2004,HepatitisB
-Zone 19,10-14,2,2004,HepatitisB
+Zone:19,10-14,2,2004,HepatitisB
 Satun,10-14,0,2004,HepatitisB
 Songkhla,10-14,2,2004,HepatitisB
 Total,15-24,731,2004,HepatitisB
 North Region,15-24,225,2004,HepatitisB
-Zone 1,15-24,154,2004,HepatitisB
+Zone:1,15-24,154,2004,HepatitisB
 Chiang Mai,15-24,30,2004,HepatitisB
 Chiang Rai,15-24,44,2004,HepatitisB
 Lampang,15-24,23,2004,HepatitisB
@@ -23340,98 +23340,98 @@ Mae Hong Son,15-24,6,2004,HepatitisB
 Nan,15-24,22,2004,HepatitisB
 Phayao,15-24,19,2004,HepatitisB
 Phrae,15-24,7,2004,HepatitisB
-Zone 2,15-24,43,2004,HepatitisB
+Zone:2,15-24,43,2004,HepatitisB
 Phetchabun,15-24,18,2004,HepatitisB
 Phitsanulok,15-24,7,2004,HepatitisB
 Sukhothai,15-24,8,2004,HepatitisB
 Tak,15-24,6,2004,HepatitisB
 Uttaradit,15-24,4,2004,HepatitisB
-Zone 3,15-24,28,2004,HepatitisB
+Zone:3,15-24,28,2004,HepatitisB
 Kamphaeng Phet,15-24,17,2004,HepatitisB
 Nakhon Sawan,15-24,11,2004,HepatitisB
 Phichit,15-24,0,2004,HepatitisB
 Uthai Thani,15-24,0,2004,HepatitisB
 Central Region,15-24,217,2004,HepatitisB
 Bangkok,15-24,69,2004,HepatitisB
-Zone 4,15-24,19,2004,HepatitisB
+Zone:4,15-24,19,2004,HepatitisB
 Ang Thong,15-24,0,2004,HepatitisB
 Nonthaburi,15-24,3,2004,HepatitisB
 P.Nakhon S.Ayutthaya,15-24,8,2004,HepatitisB
 Pathum Thani,15-24,8,2004,HepatitisB
-Zone 5,15-24,14,2004,HepatitisB
+Zone:5,15-24,14,2004,HepatitisB
 Chai Nat,15-24,1,2004,HepatitisB
 Lop Buri,15-24,4,2004,HepatitisB
 Saraburi,15-24,9,2004,HepatitisB
 Sing Buri,15-24,0,2004,HepatitisB
-Zone 6,15-24,53,2004,HepatitisB
+Zone:6,15-24,53,2004,HepatitisB
 Kanchanaburi,15-24,13,2004,HepatitisB
 Nakhon Pathom,15-24,26,2004,HepatitisB
 Ratchaburi,15-24,12,2004,HepatitisB
 Suphan Buri,15-24,2,2004,HepatitisB
-Zone 7,15-24,3,2004,HepatitisB
+Zone:7,15-24,3,2004,HepatitisB
 Phetchaburi,15-24,0,2004,HepatitisB
 Prachuap Khiri Khan,15-24,1,2004,HepatitisB
 Samut Sakhon,15-24,2,2004,HepatitisB
 Samut Songkhram,15-24,0,2004,HepatitisB
-Zone 8,15-24,35,2004,HepatitisB
+Zone:8,15-24,35,2004,HepatitisB
 Chachoengsao,15-24,15,2004,HepatitisB
 Nakhon Nayok,15-24,3,2004,HepatitisB
 Prachin Buri,15-24,7,2004,HepatitisB
 Sa Kaeo,15-24,6,2004,HepatitisB
 Samut Prakan,15-24,4,2004,HepatitisB
-Zone 9,15-24,24,2004,HepatitisB
+Zone:9,15-24,24,2004,HepatitisB
 Chanthaburi,15-24,3,2004,HepatitisB
 Chon Buri,15-24,4,2004,HepatitisB
 Rayong,15-24,9,2004,HepatitisB
 Trat,15-24,8,2004,HepatitisB
 North-Eastern Region,15-24,227,2004,HepatitisB
-Zone 10,15-24,37,2004,HepatitisB
+Zone:10,15-24,37,2004,HepatitisB
 Loei,15-24,8,2004,HepatitisB
 Nong Bua Lam Phu,15-24,9,2004,HepatitisB
 Nong Khai,15-24,5,2004,HepatitisB
 Udon Thani,15-24,15,2004,HepatitisB
-Zone 11,15-24,20,2004,HepatitisB
+Zone:11,15-24,20,2004,HepatitisB
 Kalasin,15-24,7,2004,HepatitisB
 Mukdahan,15-24,6,2004,HepatitisB
 Nakhon Phanom,15-24,3,2004,HepatitisB
 Sakon Nakhon,15-24,4,2004,HepatitisB
-Zone 12,15-24,12,2004,HepatitisB
+Zone:12,15-24,12,2004,HepatitisB
 Khon Kaen,15-24,9,2004,HepatitisB
 Maha Sarakham,15-24,1,2004,HepatitisB
 Roi Et,15-24,2,2004,HepatitisB
-Zone 13,15-24,77,2004,HepatitisB
+Zone:13,15-24,77,2004,HepatitisB
 Buri Ram,15-24,18,2004,HepatitisB
 Chaiyaphum,15-24,8,2004,HepatitisB
 Nakhon Ratchasima,15-24,32,2004,HepatitisB
 Surin,15-24,19,2004,HepatitisB
-Zone 14,15-24,81,2004,HepatitisB
+Zone:14,15-24,81,2004,HepatitisB
 Amnat Charoen,15-24,11,2004,HepatitisB
 Si Sa Ket,15-24,22,2004,HepatitisB
 Ubon Ratchathani,15-24,46,2004,HepatitisB
 Yasothon,15-24,2,2004,HepatitisB
 South Region,15-24,62,2004,HepatitisB
-Zone 15,15-24,15,2004,HepatitisB
+Zone:15,15-24,15,2004,HepatitisB
 Chumphon,15-24,3,2004,HepatitisB
 Ranong,15-24,0,2004,HepatitisB
 Surat Thani,15-24,12,2004,HepatitisB
-Zone 16,15-24,5,2004,HepatitisB
+Zone:16,15-24,5,2004,HepatitisB
 Nakhon Si Thammarat,15-24,5,2004,HepatitisB
 Phatthalung,15-24,0,2004,HepatitisB
 Trang,15-24,0,2004,HepatitisB
-Zone 17,15-24,10,2004,HepatitisB
+Zone:17,15-24,10,2004,HepatitisB
 Krabi,15-24,4,2004,HepatitisB
 Phangnga,15-24,1,2004,HepatitisB
 Phuket,15-24,5,2004,HepatitisB
-Zone 18,15-24,20,2004,HepatitisB
+Zone:18,15-24,20,2004,HepatitisB
 Narathiwat,15-24,3,2004,HepatitisB
 Pattani,15-24,7,2004,HepatitisB
 Yala,15-24,10,2004,HepatitisB
-Zone 19,15-24,12,2004,HepatitisB
+Zone:19,15-24,12,2004,HepatitisB
 Satun,15-24,0,2004,HepatitisB
 Songkhla,15-24,12,2004,HepatitisB
 Total,25-34,633,2004,HepatitisB
 North Region,25-34,149,2004,HepatitisB
-Zone 1,25-34,87,2004,HepatitisB
+Zone:1,25-34,87,2004,HepatitisB
 Chiang Mai,25-34,17,2004,HepatitisB
 Chiang Rai,25-34,33,2004,HepatitisB
 Lampang,25-34,8,2004,HepatitisB
@@ -23440,98 +23440,98 @@ Mae Hong Son,25-34,5,2004,HepatitisB
 Nan,25-34,6,2004,HepatitisB
 Phayao,25-34,10,2004,HepatitisB
 Phrae,25-34,2,2004,HepatitisB
-Zone 2,25-34,39,2004,HepatitisB
+Zone:2,25-34,39,2004,HepatitisB
 Phetchabun,25-34,15,2004,HepatitisB
 Phitsanulok,25-34,5,2004,HepatitisB
 Sukhothai,25-34,7,2004,HepatitisB
 Tak,25-34,9,2004,HepatitisB
 Uttaradit,25-34,3,2004,HepatitisB
-Zone 3,25-34,23,2004,HepatitisB
+Zone:3,25-34,23,2004,HepatitisB
 Kamphaeng Phet,25-34,11,2004,HepatitisB
 Nakhon Sawan,25-34,9,2004,HepatitisB
 Phichit,25-34,0,2004,HepatitisB
 Uthai Thani,25-34,3,2004,HepatitisB
 Central Region,25-34,211,2004,HepatitisB
 Bangkok,25-34,81,2004,HepatitisB
-Zone 4,25-34,23,2004,HepatitisB
+Zone:4,25-34,23,2004,HepatitisB
 Ang Thong,25-34,0,2004,HepatitisB
 Nonthaburi,25-34,3,2004,HepatitisB
 P.Nakhon S.Ayutthaya,25-34,6,2004,HepatitisB
 Pathum Thani,25-34,14,2004,HepatitisB
-Zone 5,25-34,8,2004,HepatitisB
+Zone:5,25-34,8,2004,HepatitisB
 Chai Nat,25-34,3,2004,HepatitisB
 Lop Buri,25-34,3,2004,HepatitisB
 Saraburi,25-34,1,2004,HepatitisB
 Sing Buri,25-34,1,2004,HepatitisB
-Zone 6,25-34,43,2004,HepatitisB
+Zone:6,25-34,43,2004,HepatitisB
 Kanchanaburi,25-34,10,2004,HepatitisB
 Nakhon Pathom,25-34,18,2004,HepatitisB
 Ratchaburi,25-34,13,2004,HepatitisB
 Suphan Buri,25-34,2,2004,HepatitisB
-Zone 7,25-34,6,2004,HepatitisB
+Zone:7,25-34,6,2004,HepatitisB
 Phetchaburi,25-34,2,2004,HepatitisB
 Prachuap Khiri Khan,25-34,0,2004,HepatitisB
 Samut Sakhon,25-34,4,2004,HepatitisB
 Samut Songkhram,25-34,0,2004,HepatitisB
-Zone 8,25-34,34,2004,HepatitisB
+Zone:8,25-34,34,2004,HepatitisB
 Chachoengsao,25-34,6,2004,HepatitisB
 Nakhon Nayok,25-34,2,2004,HepatitisB
 Prachin Buri,25-34,22,2004,HepatitisB
 Sa Kaeo,25-34,4,2004,HepatitisB
 Samut Prakan,25-34,0,2004,HepatitisB
-Zone 9,25-34,16,2004,HepatitisB
+Zone:9,25-34,16,2004,HepatitisB
 Chanthaburi,25-34,7,2004,HepatitisB
 Chon Buri,25-34,1,2004,HepatitisB
 Rayong,25-34,8,2004,HepatitisB
 Trat,25-34,0,2004,HepatitisB
 North-Eastern Region,25-34,204,2004,HepatitisB
-Zone 10,25-34,30,2004,HepatitisB
+Zone:10,25-34,30,2004,HepatitisB
 Loei,25-34,8,2004,HepatitisB
 Nong Bua Lam Phu,25-34,4,2004,HepatitisB
 Nong Khai,25-34,4,2004,HepatitisB
 Udon Thani,25-34,14,2004,HepatitisB
-Zone 11,25-34,25,2004,HepatitisB
+Zone:11,25-34,25,2004,HepatitisB
 Kalasin,25-34,10,2004,HepatitisB
 Mukdahan,25-34,5,2004,HepatitisB
 Nakhon Phanom,25-34,7,2004,HepatitisB
 Sakon Nakhon,25-34,3,2004,HepatitisB
-Zone 12,25-34,16,2004,HepatitisB
+Zone:12,25-34,16,2004,HepatitisB
 Khon Kaen,25-34,10,2004,HepatitisB
 Maha Sarakham,25-34,2,2004,HepatitisB
 Roi Et,25-34,4,2004,HepatitisB
-Zone 13,25-34,86,2004,HepatitisB
+Zone:13,25-34,86,2004,HepatitisB
 Buri Ram,25-34,20,2004,HepatitisB
 Chaiyaphum,25-34,10,2004,HepatitisB
 Nakhon Ratchasima,25-34,35,2004,HepatitisB
 Surin,25-34,21,2004,HepatitisB
-Zone 14,25-34,47,2004,HepatitisB
+Zone:14,25-34,47,2004,HepatitisB
 Amnat Charoen,25-34,9,2004,HepatitisB
 Si Sa Ket,25-34,13,2004,HepatitisB
 Ubon Ratchathani,25-34,19,2004,HepatitisB
 Yasothon,25-34,6,2004,HepatitisB
 South Region,25-34,69,2004,HepatitisB
-Zone 15,25-34,12,2004,HepatitisB
+Zone:15,25-34,12,2004,HepatitisB
 Chumphon,25-34,0,2004,HepatitisB
 Ranong,25-34,6,2004,HepatitisB
 Surat Thani,25-34,6,2004,HepatitisB
-Zone 16,25-34,13,2004,HepatitisB
+Zone:16,25-34,13,2004,HepatitisB
 Nakhon Si Thammarat,25-34,5,2004,HepatitisB
 Phatthalung,25-34,1,2004,HepatitisB
 Trang,25-34,7,2004,HepatitisB
-Zone 17,25-34,10,2004,HepatitisB
+Zone:17,25-34,10,2004,HepatitisB
 Krabi,25-34,9,2004,HepatitisB
 Phangnga,25-34,0,2004,HepatitisB
 Phuket,25-34,1,2004,HepatitisB
-Zone 18,25-34,19,2004,HepatitisB
+Zone:18,25-34,19,2004,HepatitisB
 Narathiwat,25-34,4,2004,HepatitisB
 Pattani,25-34,6,2004,HepatitisB
 Yala,25-34,9,2004,HepatitisB
-Zone 19,25-34,15,2004,HepatitisB
+Zone:19,25-34,15,2004,HepatitisB
 Satun,25-34,0,2004,HepatitisB
 Songkhla,25-34,15,2004,HepatitisB
 Total,35-44,594,2004,HepatitisB
 North Region,35-44,157,2004,HepatitisB
-Zone 1,35-44,81,2004,HepatitisB
+Zone:1,35-44,81,2004,HepatitisB
 Chiang Mai,35-44,15,2004,HepatitisB
 Chiang Rai,35-44,24,2004,HepatitisB
 Lampang,35-44,6,2004,HepatitisB
@@ -23540,98 +23540,98 @@ Mae Hong Son,35-44,1,2004,HepatitisB
 Nan,35-44,19,2004,HepatitisB
 Phayao,35-44,12,2004,HepatitisB
 Phrae,35-44,2,2004,HepatitisB
-Zone 2,35-44,48,2004,HepatitisB
+Zone:2,35-44,48,2004,HepatitisB
 Phetchabun,35-44,20,2004,HepatitisB
 Phitsanulok,35-44,10,2004,HepatitisB
 Sukhothai,35-44,11,2004,HepatitisB
 Tak,35-44,5,2004,HepatitisB
 Uttaradit,35-44,2,2004,HepatitisB
-Zone 3,35-44,28,2004,HepatitisB
+Zone:3,35-44,28,2004,HepatitisB
 Kamphaeng Phet,35-44,22,2004,HepatitisB
 Nakhon Sawan,35-44,4,2004,HepatitisB
 Phichit,35-44,0,2004,HepatitisB
 Uthai Thani,35-44,2,2004,HepatitisB
 Central Region,35-44,184,2004,HepatitisB
 Bangkok,35-44,63,2004,HepatitisB
-Zone 4,35-44,17,2004,HepatitisB
+Zone:4,35-44,17,2004,HepatitisB
 Ang Thong,35-44,0,2004,HepatitisB
 Nonthaburi,35-44,10,2004,HepatitisB
 P.Nakhon S.Ayutthaya,35-44,0,2004,HepatitisB
 Pathum Thani,35-44,7,2004,HepatitisB
-Zone 5,35-44,8,2004,HepatitisB
+Zone:5,35-44,8,2004,HepatitisB
 Chai Nat,35-44,4,2004,HepatitisB
 Lop Buri,35-44,3,2004,HepatitisB
 Saraburi,35-44,1,2004,HepatitisB
 Sing Buri,35-44,0,2004,HepatitisB
-Zone 6,35-44,38,2004,HepatitisB
+Zone:6,35-44,38,2004,HepatitisB
 Kanchanaburi,35-44,7,2004,HepatitisB
 Nakhon Pathom,35-44,19,2004,HepatitisB
 Ratchaburi,35-44,9,2004,HepatitisB
 Suphan Buri,35-44,3,2004,HepatitisB
-Zone 7,35-44,7,2004,HepatitisB
+Zone:7,35-44,7,2004,HepatitisB
 Phetchaburi,35-44,2,2004,HepatitisB
 Prachuap Khiri Khan,35-44,1,2004,HepatitisB
 Samut Sakhon,35-44,1,2004,HepatitisB
 Samut Songkhram,35-44,3,2004,HepatitisB
-Zone 8,35-44,33,2004,HepatitisB
+Zone:8,35-44,33,2004,HepatitisB
 Chachoengsao,35-44,10,2004,HepatitisB
 Nakhon Nayok,35-44,0,2004,HepatitisB
 Prachin Buri,35-44,13,2004,HepatitisB
 Sa Kaeo,35-44,8,2004,HepatitisB
 Samut Prakan,35-44,2,2004,HepatitisB
-Zone 9,35-44,18,2004,HepatitisB
+Zone:9,35-44,18,2004,HepatitisB
 Chanthaburi,35-44,6,2004,HepatitisB
 Chon Buri,35-44,1,2004,HepatitisB
 Rayong,35-44,7,2004,HepatitisB
 Trat,35-44,4,2004,HepatitisB
 North-Eastern Region,35-44,196,2004,HepatitisB
-Zone 10,35-44,37,2004,HepatitisB
+Zone:10,35-44,37,2004,HepatitisB
 Loei,35-44,15,2004,HepatitisB
 Nong Bua Lam Phu,35-44,6,2004,HepatitisB
 Nong Khai,35-44,3,2004,HepatitisB
 Udon Thani,35-44,13,2004,HepatitisB
-Zone 11,35-44,19,2004,HepatitisB
+Zone:11,35-44,19,2004,HepatitisB
 Kalasin,35-44,7,2004,HepatitisB
 Mukdahan,35-44,4,2004,HepatitisB
 Nakhon Phanom,35-44,4,2004,HepatitisB
 Sakon Nakhon,35-44,4,2004,HepatitisB
-Zone 12,35-44,10,2004,HepatitisB
+Zone:12,35-44,10,2004,HepatitisB
 Khon Kaen,35-44,8,2004,HepatitisB
 Maha Sarakham,35-44,1,2004,HepatitisB
 Roi Et,35-44,1,2004,HepatitisB
-Zone 13,35-44,60,2004,HepatitisB
+Zone:13,35-44,60,2004,HepatitisB
 Buri Ram,35-44,14,2004,HepatitisB
 Chaiyaphum,35-44,13,2004,HepatitisB
 Nakhon Ratchasima,35-44,26,2004,HepatitisB
 Surin,35-44,7,2004,HepatitisB
-Zone 14,35-44,70,2004,HepatitisB
+Zone:14,35-44,70,2004,HepatitisB
 Amnat Charoen,35-44,8,2004,HepatitisB
 Si Sa Ket,35-44,24,2004,HepatitisB
 Ubon Ratchathani,35-44,33,2004,HepatitisB
 Yasothon,35-44,5,2004,HepatitisB
 South Region,35-44,57,2004,HepatitisB
-Zone 15,35-44,9,2004,HepatitisB
+Zone:15,35-44,9,2004,HepatitisB
 Chumphon,35-44,1,2004,HepatitisB
 Ranong,35-44,1,2004,HepatitisB
 Surat Thani,35-44,7,2004,HepatitisB
-Zone 16,35-44,8,2004,HepatitisB
+Zone:16,35-44,8,2004,HepatitisB
 Nakhon Si Thammarat,35-44,3,2004,HepatitisB
 Phatthalung,35-44,0,2004,HepatitisB
 Trang,35-44,5,2004,HepatitisB
-Zone 17,35-44,7,2004,HepatitisB
+Zone:17,35-44,7,2004,HepatitisB
 Krabi,35-44,5,2004,HepatitisB
 Phangnga,35-44,0,2004,HepatitisB
 Phuket,35-44,2,2004,HepatitisB
-Zone 18,35-44,18,2004,HepatitisB
+Zone:18,35-44,18,2004,HepatitisB
 Narathiwat,35-44,6,2004,HepatitisB
 Pattani,35-44,1,2004,HepatitisB
 Yala,35-44,11,2004,HepatitisB
-Zone 19,35-44,15,2004,HepatitisB
+Zone:19,35-44,15,2004,HepatitisB
 Satun,35-44,1,2004,HepatitisB
 Songkhla,35-44,14,2004,HepatitisB
 Total,45-54,375,2004,HepatitisB
 North Region,45-54,112,2004,HepatitisB
-Zone 1,45-54,67,2004,HepatitisB
+Zone:1,45-54,67,2004,HepatitisB
 Chiang Mai,45-54,9,2004,HepatitisB
 Chiang Rai,45-54,22,2004,HepatitisB
 Lampang,45-54,17,2004,HepatitisB
@@ -23640,98 +23640,98 @@ Mae Hong Son,45-54,1,2004,HepatitisB
 Nan,45-54,7,2004,HepatitisB
 Phayao,45-54,7,2004,HepatitisB
 Phrae,45-54,1,2004,HepatitisB
-Zone 2,45-54,24,2004,HepatitisB
+Zone:2,45-54,24,2004,HepatitisB
 Phetchabun,45-54,7,2004,HepatitisB
 Phitsanulok,45-54,6,2004,HepatitisB
 Sukhothai,45-54,7,2004,HepatitisB
 Tak,45-54,3,2004,HepatitisB
 Uttaradit,45-54,1,2004,HepatitisB
-Zone 3,45-54,21,2004,HepatitisB
+Zone:3,45-54,21,2004,HepatitisB
 Kamphaeng Phet,45-54,7,2004,HepatitisB
 Nakhon Sawan,45-54,5,2004,HepatitisB
 Phichit,45-54,3,2004,HepatitisB
 Uthai Thani,45-54,6,2004,HepatitisB
 Central Region,45-54,128,2004,HepatitisB
 Bangkok,45-54,46,2004,HepatitisB
-Zone 4,45-54,12,2004,HepatitisB
+Zone:4,45-54,12,2004,HepatitisB
 Ang Thong,45-54,0,2004,HepatitisB
 Nonthaburi,45-54,4,2004,HepatitisB
 P.Nakhon S.Ayutthaya,45-54,4,2004,HepatitisB
 Pathum Thani,45-54,4,2004,HepatitisB
-Zone 5,45-54,5,2004,HepatitisB
+Zone:5,45-54,5,2004,HepatitisB
 Chai Nat,45-54,3,2004,HepatitisB
 Lop Buri,45-54,1,2004,HepatitisB
 Saraburi,45-54,0,2004,HepatitisB
 Sing Buri,45-54,1,2004,HepatitisB
-Zone 6,45-54,28,2004,HepatitisB
+Zone:6,45-54,28,2004,HepatitisB
 Kanchanaburi,45-54,4,2004,HepatitisB
 Nakhon Pathom,45-54,12,2004,HepatitisB
 Ratchaburi,45-54,9,2004,HepatitisB
 Suphan Buri,45-54,3,2004,HepatitisB
-Zone 7,45-54,7,2004,HepatitisB
+Zone:7,45-54,7,2004,HepatitisB
 Phetchaburi,45-54,4,2004,HepatitisB
 Prachuap Khiri Khan,45-54,2,2004,HepatitisB
 Samut Sakhon,45-54,1,2004,HepatitisB
 Samut Songkhram,45-54,0,2004,HepatitisB
-Zone 8,45-54,16,2004,HepatitisB
+Zone:8,45-54,16,2004,HepatitisB
 Chachoengsao,45-54,1,2004,HepatitisB
 Nakhon Nayok,45-54,0,2004,HepatitisB
 Prachin Buri,45-54,9,2004,HepatitisB
 Sa Kaeo,45-54,5,2004,HepatitisB
 Samut Prakan,45-54,1,2004,HepatitisB
-Zone 9,45-54,14,2004,HepatitisB
+Zone:9,45-54,14,2004,HepatitisB
 Chanthaburi,45-54,4,2004,HepatitisB
 Chon Buri,45-54,2,2004,HepatitisB
 Rayong,45-54,2,2004,HepatitisB
 Trat,45-54,6,2004,HepatitisB
 North-Eastern Region,45-54,99,2004,HepatitisB
-Zone 10,45-54,14,2004,HepatitisB
+Zone:10,45-54,14,2004,HepatitisB
 Loei,45-54,3,2004,HepatitisB
 Nong Bua Lam Phu,45-54,2,2004,HepatitisB
 Nong Khai,45-54,5,2004,HepatitisB
 Udon Thani,45-54,4,2004,HepatitisB
-Zone 11,45-54,11,2004,HepatitisB
+Zone:11,45-54,11,2004,HepatitisB
 Kalasin,45-54,5,2004,HepatitisB
 Mukdahan,45-54,1,2004,HepatitisB
 Nakhon Phanom,45-54,2,2004,HepatitisB
 Sakon Nakhon,45-54,3,2004,HepatitisB
-Zone 12,45-54,7,2004,HepatitisB
+Zone:12,45-54,7,2004,HepatitisB
 Khon Kaen,45-54,6,2004,HepatitisB
 Maha Sarakham,45-54,0,2004,HepatitisB
 Roi Et,45-54,1,2004,HepatitisB
-Zone 13,45-54,37,2004,HepatitisB
+Zone:13,45-54,37,2004,HepatitisB
 Buri Ram,45-54,7,2004,HepatitisB
 Chaiyaphum,45-54,8,2004,HepatitisB
 Nakhon Ratchasima,45-54,18,2004,HepatitisB
 Surin,45-54,4,2004,HepatitisB
-Zone 14,45-54,30,2004,HepatitisB
+Zone:14,45-54,30,2004,HepatitisB
 Amnat Charoen,45-54,3,2004,HepatitisB
 Si Sa Ket,45-54,12,2004,HepatitisB
 Ubon Ratchathani,45-54,12,2004,HepatitisB
 Yasothon,45-54,3,2004,HepatitisB
 South Region,45-54,36,2004,HepatitisB
-Zone 15,45-54,7,2004,HepatitisB
+Zone:15,45-54,7,2004,HepatitisB
 Chumphon,45-54,0,2004,HepatitisB
 Ranong,45-54,0,2004,HepatitisB
 Surat Thani,45-54,7,2004,HepatitisB
-Zone 16,45-54,2,2004,HepatitisB
+Zone:16,45-54,2,2004,HepatitisB
 Nakhon Si Thammarat,45-54,2,2004,HepatitisB
 Phatthalung,45-54,0,2004,HepatitisB
 Trang,45-54,0,2004,HepatitisB
-Zone 17,45-54,1,2004,HepatitisB
+Zone:17,45-54,1,2004,HepatitisB
 Krabi,45-54,1,2004,HepatitisB
 Phangnga,45-54,0,2004,HepatitisB
 Phuket,45-54,0,2004,HepatitisB
-Zone 18,45-54,5,2004,HepatitisB
+Zone:18,45-54,5,2004,HepatitisB
 Narathiwat,45-54,0,2004,HepatitisB
 Pattani,45-54,3,2004,HepatitisB
 Yala,45-54,2,2004,HepatitisB
-Zone 19,45-54,21,2004,HepatitisB
+Zone:19,45-54,21,2004,HepatitisB
 Satun,45-54,1,2004,HepatitisB
 Songkhla,45-54,20,2004,HepatitisB
 Total,55-64,199,2004,HepatitisB
 North Region,55-64,54,2004,HepatitisB
-Zone 1,55-64,21,2004,HepatitisB
+Zone:1,55-64,21,2004,HepatitisB
 Chiang Mai,55-64,4,2004,HepatitisB
 Chiang Rai,55-64,5,2004,HepatitisB
 Lampang,55-64,2,2004,HepatitisB
@@ -23740,98 +23740,98 @@ Mae Hong Son,55-64,0,2004,HepatitisB
 Nan,55-64,7,2004,HepatitisB
 Phayao,55-64,3,2004,HepatitisB
 Phrae,55-64,0,2004,HepatitisB
-Zone 2,55-64,21,2004,HepatitisB
+Zone:2,55-64,21,2004,HepatitisB
 Phetchabun,55-64,6,2004,HepatitisB
 Phitsanulok,55-64,4,2004,HepatitisB
 Sukhothai,55-64,6,2004,HepatitisB
 Tak,55-64,3,2004,HepatitisB
 Uttaradit,55-64,2,2004,HepatitisB
-Zone 3,55-64,12,2004,HepatitisB
+Zone:3,55-64,12,2004,HepatitisB
 Kamphaeng Phet,55-64,8,2004,HepatitisB
 Nakhon Sawan,55-64,2,2004,HepatitisB
 Phichit,55-64,1,2004,HepatitisB
 Uthai Thani,55-64,1,2004,HepatitisB
 Central Region,55-64,67,2004,HepatitisB
 Bangkok,55-64,30,2004,HepatitisB
-Zone 4,55-64,2,2004,HepatitisB
+Zone:4,55-64,2,2004,HepatitisB
 Ang Thong,55-64,1,2004,HepatitisB
 Nonthaburi,55-64,1,2004,HepatitisB
 P.Nakhon S.Ayutthaya,55-64,0,2004,HepatitisB
 Pathum Thani,55-64,0,2004,HepatitisB
-Zone 5,55-64,3,2004,HepatitisB
+Zone:5,55-64,3,2004,HepatitisB
 Chai Nat,55-64,0,2004,HepatitisB
 Lop Buri,55-64,3,2004,HepatitisB
 Saraburi,55-64,0,2004,HepatitisB
 Sing Buri,55-64,0,2004,HepatitisB
-Zone 6,55-64,12,2004,HepatitisB
+Zone:6,55-64,12,2004,HepatitisB
 Kanchanaburi,55-64,1,2004,HepatitisB
 Nakhon Pathom,55-64,7,2004,HepatitisB
 Ratchaburi,55-64,4,2004,HepatitisB
 Suphan Buri,55-64,0,2004,HepatitisB
-Zone 7,55-64,0,2004,HepatitisB
+Zone:7,55-64,0,2004,HepatitisB
 Phetchaburi,55-64,0,2004,HepatitisB
 Prachuap Khiri Khan,55-64,0,2004,HepatitisB
 Samut Sakhon,55-64,0,2004,HepatitisB
 Samut Songkhram,55-64,0,2004,HepatitisB
-Zone 8,55-64,11,2004,HepatitisB
+Zone:8,55-64,11,2004,HepatitisB
 Chachoengsao,55-64,2,2004,HepatitisB
 Nakhon Nayok,55-64,3,2004,HepatitisB
 Prachin Buri,55-64,4,2004,HepatitisB
 Sa Kaeo,55-64,2,2004,HepatitisB
 Samut Prakan,55-64,0,2004,HepatitisB
-Zone 9,55-64,9,2004,HepatitisB
+Zone:9,55-64,9,2004,HepatitisB
 Chanthaburi,55-64,5,2004,HepatitisB
 Chon Buri,55-64,1,2004,HepatitisB
 Rayong,55-64,2,2004,HepatitisB
 Trat,55-64,1,2004,HepatitisB
 North-Eastern Region,55-64,59,2004,HepatitisB
-Zone 10,55-64,10,2004,HepatitisB
+Zone:10,55-64,10,2004,HepatitisB
 Loei,55-64,2,2004,HepatitisB
 Nong Bua Lam Phu,55-64,1,2004,HepatitisB
 Nong Khai,55-64,2,2004,HepatitisB
 Udon Thani,55-64,5,2004,HepatitisB
-Zone 11,55-64,5,2004,HepatitisB
+Zone:11,55-64,5,2004,HepatitisB
 Kalasin,55-64,0,2004,HepatitisB
 Mukdahan,55-64,0,2004,HepatitisB
 Nakhon Phanom,55-64,2,2004,HepatitisB
 Sakon Nakhon,55-64,3,2004,HepatitisB
-Zone 12,55-64,1,2004,HepatitisB
+Zone:12,55-64,1,2004,HepatitisB
 Khon Kaen,55-64,1,2004,HepatitisB
 Maha Sarakham,55-64,0,2004,HepatitisB
 Roi Et,55-64,0,2004,HepatitisB
-Zone 13,55-64,24,2004,HepatitisB
+Zone:13,55-64,24,2004,HepatitisB
 Buri Ram,55-64,6,2004,HepatitisB
 Chaiyaphum,55-64,6,2004,HepatitisB
 Nakhon Ratchasima,55-64,7,2004,HepatitisB
 Surin,55-64,5,2004,HepatitisB
-Zone 14,55-64,19,2004,HepatitisB
+Zone:14,55-64,19,2004,HepatitisB
 Amnat Charoen,55-64,0,2004,HepatitisB
 Si Sa Ket,55-64,8,2004,HepatitisB
 Ubon Ratchathani,55-64,10,2004,HepatitisB
 Yasothon,55-64,1,2004,HepatitisB
 South Region,55-64,19,2004,HepatitisB
-Zone 15,55-64,5,2004,HepatitisB
+Zone:15,55-64,5,2004,HepatitisB
 Chumphon,55-64,0,2004,HepatitisB
 Ranong,55-64,0,2004,HepatitisB
 Surat Thani,55-64,5,2004,HepatitisB
-Zone 16,55-64,2,2004,HepatitisB
+Zone:16,55-64,2,2004,HepatitisB
 Nakhon Si Thammarat,55-64,1,2004,HepatitisB
 Phatthalung,55-64,0,2004,HepatitisB
 Trang,55-64,1,2004,HepatitisB
-Zone 17,55-64,1,2004,HepatitisB
+Zone:17,55-64,1,2004,HepatitisB
 Krabi,55-64,1,2004,HepatitisB
 Phangnga,55-64,0,2004,HepatitisB
 Phuket,55-64,0,2004,HepatitisB
-Zone 18,55-64,5,2004,HepatitisB
+Zone:18,55-64,5,2004,HepatitisB
 Narathiwat,55-64,0,2004,HepatitisB
 Pattani,55-64,1,2004,HepatitisB
 Yala,55-64,4,2004,HepatitisB
-Zone 19,55-64,6,2004,HepatitisB
+Zone:19,55-64,6,2004,HepatitisB
 Satun,55-64,0,2004,HepatitisB
 Songkhla,55-64,6,2004,HepatitisB
 Total,65+,131,2004,HepatitisB
 North Region,65+,34,2004,HepatitisB
-Zone 1,65+,12,2004,HepatitisB
+Zone:1,65+,12,2004,HepatitisB
 Chiang Mai,65+,3,2004,HepatitisB
 Chiang Rai,65+,2,2004,HepatitisB
 Lampang,65+,3,2004,HepatitisB
@@ -23840,98 +23840,98 @@ Mae Hong Son,65+,0,2004,HepatitisB
 Nan,65+,0,2004,HepatitisB
 Phayao,65+,3,2004,HepatitisB
 Phrae,65+,1,2004,HepatitisB
-Zone 2,65+,14,2004,HepatitisB
+Zone:2,65+,14,2004,HepatitisB
 Phetchabun,65+,2,2004,HepatitisB
 Phitsanulok,65+,0,2004,HepatitisB
 Sukhothai,65+,5,2004,HepatitisB
 Tak,65+,3,2004,HepatitisB
 Uttaradit,65+,4,2004,HepatitisB
-Zone 3,65+,8,2004,HepatitisB
+Zone:3,65+,8,2004,HepatitisB
 Kamphaeng Phet,65+,2,2004,HepatitisB
 Nakhon Sawan,65+,6,2004,HepatitisB
 Phichit,65+,0,2004,HepatitisB
 Uthai Thani,65+,0,2004,HepatitisB
 Central Region,65+,44,2004,HepatitisB
 Bangkok,65+,17,2004,HepatitisB
-Zone 4,65+,5,2004,HepatitisB
+Zone:4,65+,5,2004,HepatitisB
 Ang Thong,65+,1,2004,HepatitisB
 Nonthaburi,65+,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,65+,4,2004,HepatitisB
 Pathum Thani,65+,0,2004,HepatitisB
-Zone 5,65+,4,2004,HepatitisB
+Zone:5,65+,4,2004,HepatitisB
 Chai Nat,65+,0,2004,HepatitisB
 Lop Buri,65+,3,2004,HepatitisB
 Saraburi,65+,0,2004,HepatitisB
 Sing Buri,65+,1,2004,HepatitisB
-Zone 6,65+,7,2004,HepatitisB
+Zone:6,65+,7,2004,HepatitisB
 Kanchanaburi,65+,3,2004,HepatitisB
 Nakhon Pathom,65+,2,2004,HepatitisB
 Ratchaburi,65+,1,2004,HepatitisB
 Suphan Buri,65+,1,2004,HepatitisB
-Zone 7,65+,2,2004,HepatitisB
+Zone:7,65+,2,2004,HepatitisB
 Phetchaburi,65+,2,2004,HepatitisB
 Prachuap Khiri Khan,65+,0,2004,HepatitisB
 Samut Sakhon,65+,0,2004,HepatitisB
 Samut Songkhram,65+,0,2004,HepatitisB
-Zone 8,65+,4,2004,HepatitisB
+Zone:8,65+,4,2004,HepatitisB
 Chachoengsao,65+,2,2004,HepatitisB
 Nakhon Nayok,65+,0,2004,HepatitisB
 Prachin Buri,65+,2,2004,HepatitisB
 Sa Kaeo,65+,0,2004,HepatitisB
 Samut Prakan,65+,0,2004,HepatitisB
-Zone 9,65+,5,2004,HepatitisB
+Zone:9,65+,5,2004,HepatitisB
 Chanthaburi,65+,4,2004,HepatitisB
 Chon Buri,65+,0,2004,HepatitisB
 Rayong,65+,0,2004,HepatitisB
 Trat,65+,1,2004,HepatitisB
 North-Eastern Region,65+,43,2004,HepatitisB
-Zone 10,65+,6,2004,HepatitisB
+Zone:10,65+,6,2004,HepatitisB
 Loei,65+,0,2004,HepatitisB
 Nong Bua Lam Phu,65+,4,2004,HepatitisB
 Nong Khai,65+,1,2004,HepatitisB
 Udon Thani,65+,1,2004,HepatitisB
-Zone 11,65+,5,2004,HepatitisB
+Zone:11,65+,5,2004,HepatitisB
 Kalasin,65+,2,2004,HepatitisB
 Mukdahan,65+,1,2004,HepatitisB
 Nakhon Phanom,65+,1,2004,HepatitisB
 Sakon Nakhon,65+,1,2004,HepatitisB
-Zone 12,65+,2,2004,HepatitisB
+Zone:12,65+,2,2004,HepatitisB
 Khon Kaen,65+,2,2004,HepatitisB
 Maha Sarakham,65+,0,2004,HepatitisB
 Roi Et,65+,0,2004,HepatitisB
-Zone 13,65+,12,2004,HepatitisB
+Zone:13,65+,12,2004,HepatitisB
 Buri Ram,65+,5,2004,HepatitisB
 Chaiyaphum,65+,1,2004,HepatitisB
 Nakhon Ratchasima,65+,4,2004,HepatitisB
 Surin,65+,2,2004,HepatitisB
-Zone 14,65+,18,2004,HepatitisB
+Zone:14,65+,18,2004,HepatitisB
 Amnat Charoen,65+,0,2004,HepatitisB
 Si Sa Ket,65+,10,2004,HepatitisB
 Ubon Ratchathani,65+,7,2004,HepatitisB
 Yasothon,65+,1,2004,HepatitisB
 South Region,65+,10,2004,HepatitisB
-Zone 15,65+,3,2004,HepatitisB
+Zone:15,65+,3,2004,HepatitisB
 Chumphon,65+,0,2004,HepatitisB
 Ranong,65+,0,2004,HepatitisB
 Surat Thani,65+,3,2004,HepatitisB
-Zone 16,65+,2,2004,HepatitisB
+Zone:16,65+,2,2004,HepatitisB
 Nakhon Si Thammarat,65+,1,2004,HepatitisB
 Phatthalung,65+,0,2004,HepatitisB
 Trang,65+,1,2004,HepatitisB
-Zone 17,65+,0,2004,HepatitisB
+Zone:17,65+,0,2004,HepatitisB
 Krabi,65+,0,2004,HepatitisB
 Phangnga,65+,0,2004,HepatitisB
 Phuket,65+,0,2004,HepatitisB
-Zone 18,65+,3,2004,HepatitisB
+Zone:18,65+,3,2004,HepatitisB
 Narathiwat,65+,0,2004,HepatitisB
 Pattani,65+,2,2004,HepatitisB
 Yala,65+,1,2004,HepatitisB
-Zone 19,65+,2,2004,HepatitisB
+Zone:19,65+,2,2004,HepatitisB
 Satun,65+,0,2004,HepatitisB
 Songkhla,65+,2,2004,HepatitisB
 Total,Unknown,13,2004,HepatitisB
 North Region,Unknown,0,2004,HepatitisB
-Zone 1,Unknown,0,2004,HepatitisB
+Zone:1,Unknown,0,2004,HepatitisB
 Chiang Mai,Unknown,0,2004,HepatitisB
 Chiang Rai,Unknown,0,2004,HepatitisB
 Lampang,Unknown,0,2004,HepatitisB
@@ -23940,93 +23940,93 @@ Mae Hong Son,Unknown,0,2004,HepatitisB
 Nan,Unknown,0,2004,HepatitisB
 Phayao,Unknown,0,2004,HepatitisB
 Phrae,Unknown,0,2004,HepatitisB
-Zone 2,Unknown,0,2004,HepatitisB
+Zone:2,Unknown,0,2004,HepatitisB
 Phetchabun,Unknown,0,2004,HepatitisB
 Phitsanulok,Unknown,0,2004,HepatitisB
 Sukhothai,Unknown,0,2004,HepatitisB
 Tak,Unknown,0,2004,HepatitisB
 Uttaradit,Unknown,0,2004,HepatitisB
-Zone 3,Unknown,0,2004,HepatitisB
+Zone:3,Unknown,0,2004,HepatitisB
 Kamphaeng Phet,Unknown,0,2004,HepatitisB
 Nakhon Sawan,Unknown,0,2004,HepatitisB
 Phichit,Unknown,0,2004,HepatitisB
 Uthai Thani,Unknown,0,2004,HepatitisB
 Central Region,Unknown,10,2004,HepatitisB
 Bangkok,Unknown,10,2004,HepatitisB
-Zone 4,Unknown,0,2004,HepatitisB
+Zone:4,Unknown,0,2004,HepatitisB
 Ang Thong,Unknown,0,2004,HepatitisB
 Nonthaburi,Unknown,0,2004,HepatitisB
 P.Nakhon S.Ayutthaya,Unknown,0,2004,HepatitisB
 Pathum Thani,Unknown,0,2004,HepatitisB
-Zone 5,Unknown,0,2004,HepatitisB
+Zone:5,Unknown,0,2004,HepatitisB
 Chai Nat,Unknown,0,2004,HepatitisB
 Lop Buri,Unknown,0,2004,HepatitisB
 Saraburi,Unknown,0,2004,HepatitisB
 Sing Buri,Unknown,0,2004,HepatitisB
-Zone 6,Unknown,0,2004,HepatitisB
+Zone:6,Unknown,0,2004,HepatitisB
 Kanchanaburi,Unknown,0,2004,HepatitisB
 Nakhon Pathom,Unknown,0,2004,HepatitisB
 Ratchaburi,Unknown,0,2004,HepatitisB
 Suphan Buri,Unknown,0,2004,HepatitisB
-Zone 7,Unknown,0,2004,HepatitisB
+Zone:7,Unknown,0,2004,HepatitisB
 Phetchaburi,Unknown,0,2004,HepatitisB
 Prachuap Khiri Khan,Unknown,0,2004,HepatitisB
 Samut Sakhon,Unknown,0,2004,HepatitisB
 Samut Songkhram,Unknown,0,2004,HepatitisB
-Zone 8,Unknown,0,2004,HepatitisB
+Zone:8,Unknown,0,2004,HepatitisB
 Chachoengsao,Unknown,0,2004,HepatitisB
 Nakhon Nayok,Unknown,0,2004,HepatitisB
 Prachin Buri,Unknown,0,2004,HepatitisB
 Sa Kaeo,Unknown,0,2004,HepatitisB
 Samut Prakan,Unknown,0,2004,HepatitisB
-Zone 9,Unknown,0,2004,HepatitisB
+Zone:9,Unknown,0,2004,HepatitisB
 Chanthaburi,Unknown,0,2004,HepatitisB
 Chon Buri,Unknown,0,2004,HepatitisB
 Rayong,Unknown,0,2004,HepatitisB
 Trat,Unknown,0,2004,HepatitisB
 North-Eastern Region,Unknown,3,2004,HepatitisB
-Zone 10,Unknown,0,2004,HepatitisB
+Zone:10,Unknown,0,2004,HepatitisB
 Loei,Unknown,0,2004,HepatitisB
 Nong Bua Lam Phu,Unknown,0,2004,HepatitisB
 Nong Khai,Unknown,0,2004,HepatitisB
 Udon Thani,Unknown,0,2004,HepatitisB
-Zone 11,Unknown,3,2004,HepatitisB
+Zone:11,Unknown,3,2004,HepatitisB
 Kalasin,Unknown,0,2004,HepatitisB
 Mukdahan,Unknown,3,2004,HepatitisB
 Nakhon Phanom,Unknown,0,2004,HepatitisB
 Sakon Nakhon,Unknown,0,2004,HepatitisB
-Zone 12,Unknown,0,2004,HepatitisB
+Zone:12,Unknown,0,2004,HepatitisB
 Khon Kaen,Unknown,0,2004,HepatitisB
 Maha Sarakham,Unknown,0,2004,HepatitisB
 Roi Et,Unknown,0,2004,HepatitisB
-Zone 13,Unknown,0,2004,HepatitisB
+Zone:13,Unknown,0,2004,HepatitisB
 Buri Ram,Unknown,0,2004,HepatitisB
 Chaiyaphum,Unknown,0,2004,HepatitisB
 Nakhon Ratchasima,Unknown,0,2004,HepatitisB
 Surin,Unknown,0,2004,HepatitisB
-Zone 14,Unknown,0,2004,HepatitisB
+Zone:14,Unknown,0,2004,HepatitisB
 Amnat Charoen,Unknown,0,2004,HepatitisB
 Si Sa Ket,Unknown,0,2004,HepatitisB
 Ubon Ratchathani,Unknown,0,2004,HepatitisB
 Yasothon,Unknown,0,2004,HepatitisB
 South Region,Unknown,0,2004,HepatitisB
-Zone 15,Unknown,0,2004,HepatitisB
+Zone:15,Unknown,0,2004,HepatitisB
 Chumphon,Unknown,0,2004,HepatitisB
 Ranong,Unknown,0,2004,HepatitisB
 Surat Thani,Unknown,0,2004,HepatitisB
-Zone 16,Unknown,0,2004,HepatitisB
+Zone:16,Unknown,0,2004,HepatitisB
 Nakhon Si Thammarat,Unknown,0,2004,HepatitisB
 Phatthalung,Unknown,0,2004,HepatitisB
 Trang,Unknown,0,2004,HepatitisB
-Zone 17,Unknown,0,2004,HepatitisB
+Zone:17,Unknown,0,2004,HepatitisB
 Krabi,Unknown,0,2004,HepatitisB
 Phangnga,Unknown,0,2004,HepatitisB
 Phuket,Unknown,0,2004,HepatitisB
-Zone 18,Unknown,0,2004,HepatitisB
+Zone:18,Unknown,0,2004,HepatitisB
 Narathiwat,Unknown,0,2004,HepatitisB
 Pattani,Unknown,0,2004,HepatitisB
 Yala,Unknown,0,2004,HepatitisB
-Zone 19,Unknown,0,2004,HepatitisB
+Zone:19,Unknown,0,2004,HepatitisB
 Satun,Unknown,0,2004,HepatitisB
 Songkhla,Unknown,0,2004,HepatitisB
 Total,Total,6936,2019,HepatitisB
@@ -27307,7 +27307,7 @@ ZONE:13,Unknown,0,2017,HepatitisB
 Bangkok,Unknown,0,2017,HepatitisB
 Total,Total,2381,2003,HepatitisB
 North Region,Total,690,2003,HepatitisB
-Zone 1,Total,419,2003,HepatitisB
+Zone:1,Total,419,2003,HepatitisB
 Chiang Mai,Total,91,2003,HepatitisB
 Chiang Rai,Total,72,2003,HepatitisB
 Lampang,Total,61,2003,HepatitisB
@@ -27316,98 +27316,98 @@ Mae Hong Son,Total,6,2003,HepatitisB
 Nan,Total,87,2003,HepatitisB
 Phayao,Total,62,2003,HepatitisB
 Phrae,Total,14,2003,HepatitisB
-Zone 2,Total,150,2003,HepatitisB
+Zone:2,Total,150,2003,HepatitisB
 Phetchabun,Total,45,2003,HepatitisB
 Phitsanulok,Total,16,2003,HepatitisB
 Sukhothai,Total,42,2003,HepatitisB
 Tak,Total,33,2003,HepatitisB
 Uttaradit,Total,14,2003,HepatitisB
-Zone 3,Total,121,2003,HepatitisB
+Zone:3,Total,121,2003,HepatitisB
 Kamphaeng Phet,Total,70,2003,HepatitisB
 Nakhon Sawan,Total,37,2003,HepatitisB
 Phichit,Total,4,2003,HepatitisB
 Uthai Thani,Total,10,2003,HepatitisB
 Central Region,Total,670,2003,HepatitisB
 Bangkok,Total,219,2003,HepatitisB
-Zone 4,Total,90,2003,HepatitisB
+Zone:4,Total,90,2003,HepatitisB
 Ang Thong,Total,3,2003,HepatitisB
 Nonthaburi,Total,22,2003,HepatitisB
 P.Nakhon S.Ayutthaya,Total,32,2003,HepatitisB
 Pathum Thani,Total,33,2003,HepatitisB
-Zone 5,Total,41,2003,HepatitisB
+Zone:5,Total,41,2003,HepatitisB
 Chai Nat,Total,10,2003,HepatitisB
 Lop Buri,Total,10,2003,HepatitisB
 Saraburi,Total,8,2003,HepatitisB
 Sing Buri,Total,13,2003,HepatitisB
-Zone 6,Total,142,2003,HepatitisB
+Zone:6,Total,142,2003,HepatitisB
 Kanchanaburi,Total,39,2003,HepatitisB
 Nakhon Pathom,Total,56,2003,HepatitisB
 Ratchaburi,Total,39,2003,HepatitisB
 Suphan Buri,Total,8,2003,HepatitisB
-Zone 7,Total,24,2003,HepatitisB
+Zone:7,Total,24,2003,HepatitisB
 Phetchaburi,Total,9,2003,HepatitisB
 Prachuap Khiri Khan,Total,7,2003,HepatitisB
 Samut Sakhon,Total,5,2003,HepatitisB
 Samut Songkhram,Total,3,2003,HepatitisB
-Zone 8,Total,86,2003,HepatitisB
+Zone:8,Total,86,2003,HepatitisB
 Chachoengsao,Total,50,2003,HepatitisB
 Nakhon Nayok,Total,2,2003,HepatitisB
 Prachin Buri,Total,23,2003,HepatitisB
 Sa Kaeo,Total,9,2003,HepatitisB
 Samut Prakan,Total,2,2003,HepatitisB
-Zone 9,Total,68,2003,HepatitisB
+Zone:9,Total,68,2003,HepatitisB
 Chanthaburi,Total,17,2003,HepatitisB
 Chon Buri,Total,12,2003,HepatitisB
 Rayong,Total,24,2003,HepatitisB
 Trat,Total,15,2003,HepatitisB
 North-Eastern Region,Total,710,2003,HepatitisB
-Zone 10,Total,88,2003,HepatitisB
+Zone:10,Total,88,2003,HepatitisB
 Loei,Total,28,2003,HepatitisB
 Nong Bua Lam Phu,Total,21,2003,HepatitisB
 Nong Khai,Total,10,2003,HepatitisB
 Udon Thani,Total,29,2003,HepatitisB
-Zone 11,Total,48,2003,HepatitisB
+Zone:11,Total,48,2003,HepatitisB
 Kalasin,Total,17,2003,HepatitisB
 Mukdahan,Total,9,2003,HepatitisB
 Nakhon Phanom,Total,8,2003,HepatitisB
 Sakon Nakhon,Total,14,2003,HepatitisB
-Zone 12,Total,48,2003,HepatitisB
+Zone:12,Total,48,2003,HepatitisB
 Khon Kaen,Total,25,2003,HepatitisB
 Maha Sarakham,Total,0,2003,HepatitisB
 Roi Et,Total,23,2003,HepatitisB
-Zone 13,Total,303,2003,HepatitisB
+Zone:13,Total,303,2003,HepatitisB
 Buri Ram,Total,92,2003,HepatitisB
 Chaiyaphum,Total,76,2003,HepatitisB
 Nakhon Ratchasima,Total,84,2003,HepatitisB
 Surin,Total,51,2003,HepatitisB
-Zone 14,Total,223,2003,HepatitisB
+Zone:14,Total,223,2003,HepatitisB
 Amnat Charoen,Total,16,2003,HepatitisB
 Si Sa Ket,Total,72,2003,HepatitisB
 Ubon Ratchathani,Total,121,2003,HepatitisB
 Yasothon,Total,14,2003,HepatitisB
 South Region,Total,311,2003,HepatitisB
-Zone 15,Total,37,2003,HepatitisB
+Zone:15,Total,37,2003,HepatitisB
 Chumphon,Total,2,2003,HepatitisB
 Ranong,Total,5,2003,HepatitisB
 Surat Thani,Total,30,2003,HepatitisB
-Zone 16,Total,28,2003,HepatitisB
+Zone:16,Total,28,2003,HepatitisB
 Nakhon Si Thammarat,Total,4,2003,HepatitisB
 Phatthalung,Total,5,2003,HepatitisB
 Trang,Total,19,2003,HepatitisB
-Zone 17,Total,41,2003,HepatitisB
+Zone:17,Total,41,2003,HepatitisB
 Krabi,Total,25,2003,HepatitisB
 Phangnga,Total,1,2003,HepatitisB
 Phuket,Total,15,2003,HepatitisB
-Zone 18,Total,101,2003,HepatitisB
+Zone:18,Total,101,2003,HepatitisB
 Narathiwat,Total,31,2003,HepatitisB
 Pattani,Total,35,2003,HepatitisB
 Yala,Total,35,2003,HepatitisB
-Zone 19,Total,104,2003,HepatitisB
+Zone:19,Total,104,2003,HepatitisB
 Satun,Total,2,2003,HepatitisB
 Songkhla,Total,102,2003,HepatitisB
 Total,0,1,2003,HepatitisB
 North Region,0,0,2003,HepatitisB
-Zone 1,0,0,2003,HepatitisB
+Zone:1,0,0,2003,HepatitisB
 Chiang Mai,0,0,2003,HepatitisB
 Chiang Rai,0,0,2003,HepatitisB
 Lampang,0,0,2003,HepatitisB
@@ -27416,98 +27416,98 @@ Mae Hong Son,0,0,2003,HepatitisB
 Nan,0,0,2003,HepatitisB
 Phayao,0,0,2003,HepatitisB
 Phrae,0,0,2003,HepatitisB
-Zone 2,0,0,2003,HepatitisB
+Zone:2,0,0,2003,HepatitisB
 Phetchabun,0,0,2003,HepatitisB
 Phitsanulok,0,0,2003,HepatitisB
 Sukhothai,0,0,2003,HepatitisB
 Tak,0,0,2003,HepatitisB
 Uttaradit,0,0,2003,HepatitisB
-Zone 3,0,0,2003,HepatitisB
+Zone:3,0,0,2003,HepatitisB
 Kamphaeng Phet,0,0,2003,HepatitisB
 Nakhon Sawan,0,0,2003,HepatitisB
 Phichit,0,0,2003,HepatitisB
 Uthai Thani,0,0,2003,HepatitisB
 Central Region,0,1,2003,HepatitisB
 Bangkok,0,1,2003,HepatitisB
-Zone 4,0,0,2003,HepatitisB
+Zone:4,0,0,2003,HepatitisB
 Ang Thong,0,0,2003,HepatitisB
 Nonthaburi,0,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,0,0,2003,HepatitisB
 Pathum Thani,0,0,2003,HepatitisB
-Zone 5,0,0,2003,HepatitisB
+Zone:5,0,0,2003,HepatitisB
 Chai Nat,0,0,2003,HepatitisB
 Lop Buri,0,0,2003,HepatitisB
 Saraburi,0,0,2003,HepatitisB
 Sing Buri,0,0,2003,HepatitisB
-Zone 6,0,0,2003,HepatitisB
+Zone:6,0,0,2003,HepatitisB
 Kanchanaburi,0,0,2003,HepatitisB
 Nakhon Pathom,0,0,2003,HepatitisB
 Ratchaburi,0,0,2003,HepatitisB
 Suphan Buri,0,0,2003,HepatitisB
-Zone 7,0,0,2003,HepatitisB
+Zone:7,0,0,2003,HepatitisB
 Phetchaburi,0,0,2003,HepatitisB
 Prachuap Khiri Khan,0,0,2003,HepatitisB
 Samut Sakhon,0,0,2003,HepatitisB
 Samut Songkhram,0,0,2003,HepatitisB
-Zone 8,0,0,2003,HepatitisB
+Zone:8,0,0,2003,HepatitisB
 Chachoengsao,0,0,2003,HepatitisB
 Nakhon Nayok,0,0,2003,HepatitisB
 Prachin Buri,0,0,2003,HepatitisB
 Sa Kaeo,0,0,2003,HepatitisB
 Samut Prakan,0,0,2003,HepatitisB
-Zone 9,0,0,2003,HepatitisB
+Zone:9,0,0,2003,HepatitisB
 Chanthaburi,0,0,2003,HepatitisB
 Chon Buri,0,0,2003,HepatitisB
 Rayong,0,0,2003,HepatitisB
 Trat,0,0,2003,HepatitisB
 North-Eastern Region,0,0,2003,HepatitisB
-Zone 10,0,0,2003,HepatitisB
+Zone:10,0,0,2003,HepatitisB
 Loei,0,0,2003,HepatitisB
 Nong Bua Lam Phu,0,0,2003,HepatitisB
 Nong Khai,0,0,2003,HepatitisB
 Udon Thani,0,0,2003,HepatitisB
-Zone 11,0,0,2003,HepatitisB
+Zone:11,0,0,2003,HepatitisB
 Kalasin,0,0,2003,HepatitisB
 Mukdahan,0,0,2003,HepatitisB
 Nakhon Phanom,0,0,2003,HepatitisB
 Sakon Nakhon,0,0,2003,HepatitisB
-Zone 12,0,0,2003,HepatitisB
+Zone:12,0,0,2003,HepatitisB
 Khon Kaen,0,0,2003,HepatitisB
 Maha Sarakham,0,0,2003,HepatitisB
 Roi Et,0,0,2003,HepatitisB
-Zone 13,0,0,2003,HepatitisB
+Zone:13,0,0,2003,HepatitisB
 Buri Ram,0,0,2003,HepatitisB
 Chaiyaphum,0,0,2003,HepatitisB
 Nakhon Ratchasima,0,0,2003,HepatitisB
 Surin,0,0,2003,HepatitisB
-Zone 14,0,0,2003,HepatitisB
+Zone:14,0,0,2003,HepatitisB
 Amnat Charoen,0,0,2003,HepatitisB
 Si Sa Ket,0,0,2003,HepatitisB
 Ubon Ratchathani,0,0,2003,HepatitisB
 Yasothon,0,0,2003,HepatitisB
 South Region,0,0,2003,HepatitisB
-Zone 15,0,0,2003,HepatitisB
+Zone:15,0,0,2003,HepatitisB
 Chumphon,0,0,2003,HepatitisB
 Ranong,0,0,2003,HepatitisB
 Surat Thani,0,0,2003,HepatitisB
-Zone 16,0,0,2003,HepatitisB
+Zone:16,0,0,2003,HepatitisB
 Nakhon Si Thammarat,0,0,2003,HepatitisB
 Phatthalung,0,0,2003,HepatitisB
 Trang,0,0,2003,HepatitisB
-Zone 17,0,0,2003,HepatitisB
+Zone:17,0,0,2003,HepatitisB
 Krabi,0,0,2003,HepatitisB
 Phangnga,0,0,2003,HepatitisB
 Phuket,0,0,2003,HepatitisB
-Zone 18,0,0,2003,HepatitisB
+Zone:18,0,0,2003,HepatitisB
 Narathiwat,0,0,2003,HepatitisB
 Pattani,0,0,2003,HepatitisB
 Yala,0,0,2003,HepatitisB
-Zone 19,0,0,2003,HepatitisB
+Zone:19,0,0,2003,HepatitisB
 Satun,0,0,2003,HepatitisB
 Songkhla,0,0,2003,HepatitisB
 Total,<1,10,2003,HepatitisB
 North Region,<1,4,2003,HepatitisB
-Zone 1,<1,2,2003,HepatitisB
+Zone:1,<1,2,2003,HepatitisB
 Chiang Mai,<1,1,2003,HepatitisB
 Chiang Rai,<1,1,2003,HepatitisB
 Lampang,<1,0,2003,HepatitisB
@@ -27516,98 +27516,98 @@ Mae Hong Son,<1,0,2003,HepatitisB
 Nan,<1,0,2003,HepatitisB
 Phayao,<1,0,2003,HepatitisB
 Phrae,<1,0,2003,HepatitisB
-Zone 2,<1,2,2003,HepatitisB
+Zone:2,<1,2,2003,HepatitisB
 Phetchabun,<1,2,2003,HepatitisB
 Phitsanulok,<1,0,2003,HepatitisB
 Sukhothai,<1,0,2003,HepatitisB
 Tak,<1,0,2003,HepatitisB
 Uttaradit,<1,0,2003,HepatitisB
-Zone 3,<1,0,2003,HepatitisB
+Zone:3,<1,0,2003,HepatitisB
 Kamphaeng Phet,<1,0,2003,HepatitisB
 Nakhon Sawan,<1,0,2003,HepatitisB
 Phichit,<1,0,2003,HepatitisB
 Uthai Thani,<1,0,2003,HepatitisB
 Central Region,<1,2,2003,HepatitisB
 Bangkok,<1,0,2003,HepatitisB
-Zone 4,<1,0,2003,HepatitisB
+Zone:4,<1,0,2003,HepatitisB
 Ang Thong,<1,0,2003,HepatitisB
 Nonthaburi,<1,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,<1,0,2003,HepatitisB
 Pathum Thani,<1,0,2003,HepatitisB
-Zone 5,<1,0,2003,HepatitisB
+Zone:5,<1,0,2003,HepatitisB
 Chai Nat,<1,0,2003,HepatitisB
 Lop Buri,<1,0,2003,HepatitisB
 Saraburi,<1,0,2003,HepatitisB
 Sing Buri,<1,0,2003,HepatitisB
-Zone 6,<1,0,2003,HepatitisB
+Zone:6,<1,0,2003,HepatitisB
 Kanchanaburi,<1,0,2003,HepatitisB
 Nakhon Pathom,<1,0,2003,HepatitisB
 Ratchaburi,<1,0,2003,HepatitisB
 Suphan Buri,<1,0,2003,HepatitisB
-Zone 7,<1,1,2003,HepatitisB
+Zone:7,<1,1,2003,HepatitisB
 Phetchaburi,<1,1,2003,HepatitisB
 Prachuap Khiri Khan,<1,0,2003,HepatitisB
 Samut Sakhon,<1,0,2003,HepatitisB
 Samut Songkhram,<1,0,2003,HepatitisB
-Zone 8,<1,1,2003,HepatitisB
+Zone:8,<1,1,2003,HepatitisB
 Chachoengsao,<1,0,2003,HepatitisB
 Nakhon Nayok,<1,0,2003,HepatitisB
 Prachin Buri,<1,1,2003,HepatitisB
 Sa Kaeo,<1,0,2003,HepatitisB
 Samut Prakan,<1,0,2003,HepatitisB
-Zone 9,<1,0,2003,HepatitisB
+Zone:9,<1,0,2003,HepatitisB
 Chanthaburi,<1,0,2003,HepatitisB
 Chon Buri,<1,0,2003,HepatitisB
 Rayong,<1,0,2003,HepatitisB
 Trat,<1,0,2003,HepatitisB
 North-Eastern Region,<1,3,2003,HepatitisB
-Zone 10,<1,0,2003,HepatitisB
+Zone:10,<1,0,2003,HepatitisB
 Loei,<1,0,2003,HepatitisB
 Nong Bua Lam Phu,<1,0,2003,HepatitisB
 Nong Khai,<1,0,2003,HepatitisB
 Udon Thani,<1,0,2003,HepatitisB
-Zone 11,<1,0,2003,HepatitisB
+Zone:11,<1,0,2003,HepatitisB
 Kalasin,<1,0,2003,HepatitisB
 Mukdahan,<1,0,2003,HepatitisB
 Nakhon Phanom,<1,0,2003,HepatitisB
 Sakon Nakhon,<1,0,2003,HepatitisB
-Zone 12,<1,0,2003,HepatitisB
+Zone:12,<1,0,2003,HepatitisB
 Khon Kaen,<1,0,2003,HepatitisB
 Maha Sarakham,<1,0,2003,HepatitisB
 Roi Et,<1,0,2003,HepatitisB
-Zone 13,<1,1,2003,HepatitisB
+Zone:13,<1,1,2003,HepatitisB
 Buri Ram,<1,0,2003,HepatitisB
 Chaiyaphum,<1,1,2003,HepatitisB
 Nakhon Ratchasima,<1,0,2003,HepatitisB
 Surin,<1,0,2003,HepatitisB
-Zone 14,<1,2,2003,HepatitisB
+Zone:14,<1,2,2003,HepatitisB
 Amnat Charoen,<1,1,2003,HepatitisB
 Si Sa Ket,<1,0,2003,HepatitisB
 Ubon Ratchathani,<1,0,2003,HepatitisB
 Yasothon,<1,1,2003,HepatitisB
 South Region,<1,1,2003,HepatitisB
-Zone 15,<1,0,2003,HepatitisB
+Zone:15,<1,0,2003,HepatitisB
 Chumphon,<1,0,2003,HepatitisB
 Ranong,<1,0,2003,HepatitisB
 Surat Thani,<1,0,2003,HepatitisB
-Zone 16,<1,0,2003,HepatitisB
+Zone:16,<1,0,2003,HepatitisB
 Nakhon Si Thammarat,<1,0,2003,HepatitisB
 Phatthalung,<1,0,2003,HepatitisB
 Trang,<1,0,2003,HepatitisB
-Zone 17,<1,0,2003,HepatitisB
+Zone:17,<1,0,2003,HepatitisB
 Krabi,<1,0,2003,HepatitisB
 Phangnga,<1,0,2003,HepatitisB
 Phuket,<1,0,2003,HepatitisB
-Zone 18,<1,1,2003,HepatitisB
+Zone:18,<1,1,2003,HepatitisB
 Narathiwat,<1,0,2003,HepatitisB
 Pattani,<1,0,2003,HepatitisB
 Yala,<1,1,2003,HepatitisB
-Zone 19,<1,0,2003,HepatitisB
+Zone:19,<1,0,2003,HepatitisB
 Satun,<1,0,2003,HepatitisB
 Songkhla,<1,0,2003,HepatitisB
 Total,1-1,8,2003,HepatitisB
 North Region,1-1,3,2003,HepatitisB
-Zone 1,1-1,2,2003,HepatitisB
+Zone:1,1-1,2,2003,HepatitisB
 Chiang Mai,1-1,0,2003,HepatitisB
 Chiang Rai,1-1,0,2003,HepatitisB
 Lampang,1-1,1,2003,HepatitisB
@@ -27616,98 +27616,98 @@ Mae Hong Son,1-1,0,2003,HepatitisB
 Nan,1-1,0,2003,HepatitisB
 Phayao,1-1,0,2003,HepatitisB
 Phrae,1-1,1,2003,HepatitisB
-Zone 2,1-1,0,2003,HepatitisB
+Zone:2,1-1,0,2003,HepatitisB
 Phetchabun,1-1,0,2003,HepatitisB
 Phitsanulok,1-1,0,2003,HepatitisB
 Sukhothai,1-1,0,2003,HepatitisB
 Tak,1-1,0,2003,HepatitisB
 Uttaradit,1-1,0,2003,HepatitisB
-Zone 3,1-1,1,2003,HepatitisB
+Zone:3,1-1,1,2003,HepatitisB
 Kamphaeng Phet,1-1,1,2003,HepatitisB
 Nakhon Sawan,1-1,0,2003,HepatitisB
 Phichit,1-1,0,2003,HepatitisB
 Uthai Thani,1-1,0,2003,HepatitisB
 Central Region,1-1,1,2003,HepatitisB
 Bangkok,1-1,0,2003,HepatitisB
-Zone 4,1-1,0,2003,HepatitisB
+Zone:4,1-1,0,2003,HepatitisB
 Ang Thong,1-1,0,2003,HepatitisB
 Nonthaburi,1-1,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,1-1,0,2003,HepatitisB
 Pathum Thani,1-1,0,2003,HepatitisB
-Zone 5,1-1,0,2003,HepatitisB
+Zone:5,1-1,0,2003,HepatitisB
 Chai Nat,1-1,0,2003,HepatitisB
 Lop Buri,1-1,0,2003,HepatitisB
 Saraburi,1-1,0,2003,HepatitisB
 Sing Buri,1-1,0,2003,HepatitisB
-Zone 6,1-1,0,2003,HepatitisB
+Zone:6,1-1,0,2003,HepatitisB
 Kanchanaburi,1-1,0,2003,HepatitisB
 Nakhon Pathom,1-1,0,2003,HepatitisB
 Ratchaburi,1-1,0,2003,HepatitisB
 Suphan Buri,1-1,0,2003,HepatitisB
-Zone 7,1-1,0,2003,HepatitisB
+Zone:7,1-1,0,2003,HepatitisB
 Phetchaburi,1-1,0,2003,HepatitisB
 Prachuap Khiri Khan,1-1,0,2003,HepatitisB
 Samut Sakhon,1-1,0,2003,HepatitisB
 Samut Songkhram,1-1,0,2003,HepatitisB
-Zone 8,1-1,0,2003,HepatitisB
+Zone:8,1-1,0,2003,HepatitisB
 Chachoengsao,1-1,0,2003,HepatitisB
 Nakhon Nayok,1-1,0,2003,HepatitisB
 Prachin Buri,1-1,0,2003,HepatitisB
 Sa Kaeo,1-1,0,2003,HepatitisB
 Samut Prakan,1-1,0,2003,HepatitisB
-Zone 9,1-1,1,2003,HepatitisB
+Zone:9,1-1,1,2003,HepatitisB
 Chanthaburi,1-1,0,2003,HepatitisB
 Chon Buri,1-1,0,2003,HepatitisB
 Rayong,1-1,0,2003,HepatitisB
 Trat,1-1,1,2003,HepatitisB
 North-Eastern Region,1-1,3,2003,HepatitisB
-Zone 10,1-1,1,2003,HepatitisB
+Zone:10,1-1,1,2003,HepatitisB
 Loei,1-1,0,2003,HepatitisB
 Nong Bua Lam Phu,1-1,1,2003,HepatitisB
 Nong Khai,1-1,0,2003,HepatitisB
 Udon Thani,1-1,0,2003,HepatitisB
-Zone 11,1-1,0,2003,HepatitisB
+Zone:11,1-1,0,2003,HepatitisB
 Kalasin,1-1,0,2003,HepatitisB
 Mukdahan,1-1,0,2003,HepatitisB
 Nakhon Phanom,1-1,0,2003,HepatitisB
 Sakon Nakhon,1-1,0,2003,HepatitisB
-Zone 12,1-1,0,2003,HepatitisB
+Zone:12,1-1,0,2003,HepatitisB
 Khon Kaen,1-1,0,2003,HepatitisB
 Maha Sarakham,1-1,0,2003,HepatitisB
 Roi Et,1-1,0,2003,HepatitisB
-Zone 13,1-1,2,2003,HepatitisB
+Zone:13,1-1,2,2003,HepatitisB
 Buri Ram,1-1,2,2003,HepatitisB
 Chaiyaphum,1-1,0,2003,HepatitisB
 Nakhon Ratchasima,1-1,0,2003,HepatitisB
 Surin,1-1,0,2003,HepatitisB
-Zone 14,1-1,0,2003,HepatitisB
+Zone:14,1-1,0,2003,HepatitisB
 Amnat Charoen,1-1,0,2003,HepatitisB
 Si Sa Ket,1-1,0,2003,HepatitisB
 Ubon Ratchathani,1-1,0,2003,HepatitisB
 Yasothon,1-1,0,2003,HepatitisB
 South Region,1-1,1,2003,HepatitisB
-Zone 15,1-1,0,2003,HepatitisB
+Zone:15,1-1,0,2003,HepatitisB
 Chumphon,1-1,0,2003,HepatitisB
 Ranong,1-1,0,2003,HepatitisB
 Surat Thani,1-1,0,2003,HepatitisB
-Zone 16,1-1,0,2003,HepatitisB
+Zone:16,1-1,0,2003,HepatitisB
 Nakhon Si Thammarat,1-1,0,2003,HepatitisB
 Phatthalung,1-1,0,2003,HepatitisB
 Trang,1-1,0,2003,HepatitisB
-Zone 17,1-1,0,2003,HepatitisB
+Zone:17,1-1,0,2003,HepatitisB
 Krabi,1-1,0,2003,HepatitisB
 Phangnga,1-1,0,2003,HepatitisB
 Phuket,1-1,0,2003,HepatitisB
-Zone 18,1-1,0,2003,HepatitisB
+Zone:18,1-1,0,2003,HepatitisB
 Narathiwat,1-1,0,2003,HepatitisB
 Pattani,1-1,0,2003,HepatitisB
 Yala,1-1,0,2003,HepatitisB
-Zone 19,1-1,1,2003,HepatitisB
+Zone:19,1-1,1,2003,HepatitisB
 Satun,1-1,0,2003,HepatitisB
 Songkhla,1-1,1,2003,HepatitisB
 Total,2-2,4,2003,HepatitisB
 North Region,2-2,0,2003,HepatitisB
-Zone 1,2-2,0,2003,HepatitisB
+Zone:1,2-2,0,2003,HepatitisB
 Chiang Mai,2-2,0,2003,HepatitisB
 Chiang Rai,2-2,0,2003,HepatitisB
 Lampang,2-2,0,2003,HepatitisB
@@ -27716,98 +27716,98 @@ Mae Hong Son,2-2,0,2003,HepatitisB
 Nan,2-2,0,2003,HepatitisB
 Phayao,2-2,0,2003,HepatitisB
 Phrae,2-2,0,2003,HepatitisB
-Zone 2,2-2,0,2003,HepatitisB
+Zone:2,2-2,0,2003,HepatitisB
 Phetchabun,2-2,0,2003,HepatitisB
 Phitsanulok,2-2,0,2003,HepatitisB
 Sukhothai,2-2,0,2003,HepatitisB
 Tak,2-2,0,2003,HepatitisB
 Uttaradit,2-2,0,2003,HepatitisB
-Zone 3,2-2,0,2003,HepatitisB
+Zone:3,2-2,0,2003,HepatitisB
 Kamphaeng Phet,2-2,0,2003,HepatitisB
 Nakhon Sawan,2-2,0,2003,HepatitisB
 Phichit,2-2,0,2003,HepatitisB
 Uthai Thani,2-2,0,2003,HepatitisB
 Central Region,2-2,1,2003,HepatitisB
 Bangkok,2-2,0,2003,HepatitisB
-Zone 4,2-2,0,2003,HepatitisB
+Zone:4,2-2,0,2003,HepatitisB
 Ang Thong,2-2,0,2003,HepatitisB
 Nonthaburi,2-2,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,2-2,0,2003,HepatitisB
 Pathum Thani,2-2,0,2003,HepatitisB
-Zone 5,2-2,0,2003,HepatitisB
+Zone:5,2-2,0,2003,HepatitisB
 Chai Nat,2-2,0,2003,HepatitisB
 Lop Buri,2-2,0,2003,HepatitisB
 Saraburi,2-2,0,2003,HepatitisB
 Sing Buri,2-2,0,2003,HepatitisB
-Zone 6,2-2,1,2003,HepatitisB
+Zone:6,2-2,1,2003,HepatitisB
 Kanchanaburi,2-2,0,2003,HepatitisB
 Nakhon Pathom,2-2,0,2003,HepatitisB
 Ratchaburi,2-2,0,2003,HepatitisB
 Suphan Buri,2-2,1,2003,HepatitisB
-Zone 7,2-2,0,2003,HepatitisB
+Zone:7,2-2,0,2003,HepatitisB
 Phetchaburi,2-2,0,2003,HepatitisB
 Prachuap Khiri Khan,2-2,0,2003,HepatitisB
 Samut Sakhon,2-2,0,2003,HepatitisB
 Samut Songkhram,2-2,0,2003,HepatitisB
-Zone 8,2-2,0,2003,HepatitisB
+Zone:8,2-2,0,2003,HepatitisB
 Chachoengsao,2-2,0,2003,HepatitisB
 Nakhon Nayok,2-2,0,2003,HepatitisB
 Prachin Buri,2-2,0,2003,HepatitisB
 Sa Kaeo,2-2,0,2003,HepatitisB
 Samut Prakan,2-2,0,2003,HepatitisB
-Zone 9,2-2,0,2003,HepatitisB
+Zone:9,2-2,0,2003,HepatitisB
 Chanthaburi,2-2,0,2003,HepatitisB
 Chon Buri,2-2,0,2003,HepatitisB
 Rayong,2-2,0,2003,HepatitisB
 Trat,2-2,0,2003,HepatitisB
 North-Eastern Region,2-2,3,2003,HepatitisB
-Zone 10,2-2,0,2003,HepatitisB
+Zone:10,2-2,0,2003,HepatitisB
 Loei,2-2,0,2003,HepatitisB
 Nong Bua Lam Phu,2-2,0,2003,HepatitisB
 Nong Khai,2-2,0,2003,HepatitisB
 Udon Thani,2-2,0,2003,HepatitisB
-Zone 11,2-2,0,2003,HepatitisB
+Zone:11,2-2,0,2003,HepatitisB
 Kalasin,2-2,0,2003,HepatitisB
 Mukdahan,2-2,0,2003,HepatitisB
 Nakhon Phanom,2-2,0,2003,HepatitisB
 Sakon Nakhon,2-2,0,2003,HepatitisB
-Zone 12,2-2,1,2003,HepatitisB
+Zone:12,2-2,1,2003,HepatitisB
 Khon Kaen,2-2,1,2003,HepatitisB
 Maha Sarakham,2-2,0,2003,HepatitisB
 Roi Et,2-2,0,2003,HepatitisB
-Zone 13,2-2,2,2003,HepatitisB
+Zone:13,2-2,2,2003,HepatitisB
 Buri Ram,2-2,1,2003,HepatitisB
 Chaiyaphum,2-2,1,2003,HepatitisB
 Nakhon Ratchasima,2-2,0,2003,HepatitisB
 Surin,2-2,0,2003,HepatitisB
-Zone 14,2-2,0,2003,HepatitisB
+Zone:14,2-2,0,2003,HepatitisB
 Amnat Charoen,2-2,0,2003,HepatitisB
 Si Sa Ket,2-2,0,2003,HepatitisB
 Ubon Ratchathani,2-2,0,2003,HepatitisB
 Yasothon,2-2,0,2003,HepatitisB
 South Region,2-2,0,2003,HepatitisB
-Zone 15,2-2,0,2003,HepatitisB
+Zone:15,2-2,0,2003,HepatitisB
 Chumphon,2-2,0,2003,HepatitisB
 Ranong,2-2,0,2003,HepatitisB
 Surat Thani,2-2,0,2003,HepatitisB
-Zone 16,2-2,0,2003,HepatitisB
+Zone:16,2-2,0,2003,HepatitisB
 Nakhon Si Thammarat,2-2,0,2003,HepatitisB
 Phatthalung,2-2,0,2003,HepatitisB
 Trang,2-2,0,2003,HepatitisB
-Zone 17,2-2,0,2003,HepatitisB
+Zone:17,2-2,0,2003,HepatitisB
 Krabi,2-2,0,2003,HepatitisB
 Phangnga,2-2,0,2003,HepatitisB
 Phuket,2-2,0,2003,HepatitisB
-Zone 18,2-2,0,2003,HepatitisB
+Zone:18,2-2,0,2003,HepatitisB
 Narathiwat,2-2,0,2003,HepatitisB
 Pattani,2-2,0,2003,HepatitisB
 Yala,2-2,0,2003,HepatitisB
-Zone 19,2-2,0,2003,HepatitisB
+Zone:19,2-2,0,2003,HepatitisB
 Satun,2-2,0,2003,HepatitisB
 Songkhla,2-2,0,2003,HepatitisB
 Total,3-3,2,2003,HepatitisB
 North Region,3-3,0,2003,HepatitisB
-Zone 1,3-3,0,2003,HepatitisB
+Zone:1,3-3,0,2003,HepatitisB
 Chiang Mai,3-3,0,2003,HepatitisB
 Chiang Rai,3-3,0,2003,HepatitisB
 Lampang,3-3,0,2003,HepatitisB
@@ -27816,98 +27816,98 @@ Mae Hong Son,3-3,0,2003,HepatitisB
 Nan,3-3,0,2003,HepatitisB
 Phayao,3-3,0,2003,HepatitisB
 Phrae,3-3,0,2003,HepatitisB
-Zone 2,3-3,0,2003,HepatitisB
+Zone:2,3-3,0,2003,HepatitisB
 Phetchabun,3-3,0,2003,HepatitisB
 Phitsanulok,3-3,0,2003,HepatitisB
 Sukhothai,3-3,0,2003,HepatitisB
 Tak,3-3,0,2003,HepatitisB
 Uttaradit,3-3,0,2003,HepatitisB
-Zone 3,3-3,0,2003,HepatitisB
+Zone:3,3-3,0,2003,HepatitisB
 Kamphaeng Phet,3-3,0,2003,HepatitisB
 Nakhon Sawan,3-3,0,2003,HepatitisB
 Phichit,3-3,0,2003,HepatitisB
 Uthai Thani,3-3,0,2003,HepatitisB
 Central Region,3-3,0,2003,HepatitisB
 Bangkok,3-3,0,2003,HepatitisB
-Zone 4,3-3,0,2003,HepatitisB
+Zone:4,3-3,0,2003,HepatitisB
 Ang Thong,3-3,0,2003,HepatitisB
 Nonthaburi,3-3,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,3-3,0,2003,HepatitisB
 Pathum Thani,3-3,0,2003,HepatitisB
-Zone 5,3-3,0,2003,HepatitisB
+Zone:5,3-3,0,2003,HepatitisB
 Chai Nat,3-3,0,2003,HepatitisB
 Lop Buri,3-3,0,2003,HepatitisB
 Saraburi,3-3,0,2003,HepatitisB
 Sing Buri,3-3,0,2003,HepatitisB
-Zone 6,3-3,0,2003,HepatitisB
+Zone:6,3-3,0,2003,HepatitisB
 Kanchanaburi,3-3,0,2003,HepatitisB
 Nakhon Pathom,3-3,0,2003,HepatitisB
 Ratchaburi,3-3,0,2003,HepatitisB
 Suphan Buri,3-3,0,2003,HepatitisB
-Zone 7,3-3,0,2003,HepatitisB
+Zone:7,3-3,0,2003,HepatitisB
 Phetchaburi,3-3,0,2003,HepatitisB
 Prachuap Khiri Khan,3-3,0,2003,HepatitisB
 Samut Sakhon,3-3,0,2003,HepatitisB
 Samut Songkhram,3-3,0,2003,HepatitisB
-Zone 8,3-3,0,2003,HepatitisB
+Zone:8,3-3,0,2003,HepatitisB
 Chachoengsao,3-3,0,2003,HepatitisB
 Nakhon Nayok,3-3,0,2003,HepatitisB
 Prachin Buri,3-3,0,2003,HepatitisB
 Sa Kaeo,3-3,0,2003,HepatitisB
 Samut Prakan,3-3,0,2003,HepatitisB
-Zone 9,3-3,0,2003,HepatitisB
+Zone:9,3-3,0,2003,HepatitisB
 Chanthaburi,3-3,0,2003,HepatitisB
 Chon Buri,3-3,0,2003,HepatitisB
 Rayong,3-3,0,2003,HepatitisB
 Trat,3-3,0,2003,HepatitisB
 North-Eastern Region,3-3,1,2003,HepatitisB
-Zone 10,3-3,0,2003,HepatitisB
+Zone:10,3-3,0,2003,HepatitisB
 Loei,3-3,0,2003,HepatitisB
 Nong Bua Lam Phu,3-3,0,2003,HepatitisB
 Nong Khai,3-3,0,2003,HepatitisB
 Udon Thani,3-3,0,2003,HepatitisB
-Zone 11,3-3,1,2003,HepatitisB
+Zone:11,3-3,1,2003,HepatitisB
 Kalasin,3-3,0,2003,HepatitisB
 Mukdahan,3-3,0,2003,HepatitisB
 Nakhon Phanom,3-3,0,2003,HepatitisB
 Sakon Nakhon,3-3,1,2003,HepatitisB
-Zone 12,3-3,0,2003,HepatitisB
+Zone:12,3-3,0,2003,HepatitisB
 Khon Kaen,3-3,0,2003,HepatitisB
 Maha Sarakham,3-3,0,2003,HepatitisB
 Roi Et,3-3,0,2003,HepatitisB
-Zone 13,3-3,0,2003,HepatitisB
+Zone:13,3-3,0,2003,HepatitisB
 Buri Ram,3-3,0,2003,HepatitisB
 Chaiyaphum,3-3,0,2003,HepatitisB
 Nakhon Ratchasima,3-3,0,2003,HepatitisB
 Surin,3-3,0,2003,HepatitisB
-Zone 14,3-3,0,2003,HepatitisB
+Zone:14,3-3,0,2003,HepatitisB
 Amnat Charoen,3-3,0,2003,HepatitisB
 Si Sa Ket,3-3,0,2003,HepatitisB
 Ubon Ratchathani,3-3,0,2003,HepatitisB
 Yasothon,3-3,0,2003,HepatitisB
 South Region,3-3,1,2003,HepatitisB
-Zone 15,3-3,0,2003,HepatitisB
+Zone:15,3-3,0,2003,HepatitisB
 Chumphon,3-3,0,2003,HepatitisB
 Ranong,3-3,0,2003,HepatitisB
 Surat Thani,3-3,0,2003,HepatitisB
-Zone 16,3-3,0,2003,HepatitisB
+Zone:16,3-3,0,2003,HepatitisB
 Nakhon Si Thammarat,3-3,0,2003,HepatitisB
 Phatthalung,3-3,0,2003,HepatitisB
 Trang,3-3,0,2003,HepatitisB
-Zone 17,3-3,1,2003,HepatitisB
+Zone:17,3-3,1,2003,HepatitisB
 Krabi,3-3,0,2003,HepatitisB
 Phangnga,3-3,0,2003,HepatitisB
 Phuket,3-3,1,2003,HepatitisB
-Zone 18,3-3,0,2003,HepatitisB
+Zone:18,3-3,0,2003,HepatitisB
 Narathiwat,3-3,0,2003,HepatitisB
 Pattani,3-3,0,2003,HepatitisB
 Yala,3-3,0,2003,HepatitisB
-Zone 19,3-3,0,2003,HepatitisB
+Zone:19,3-3,0,2003,HepatitisB
 Satun,3-3,0,2003,HepatitisB
 Songkhla,3-3,0,2003,HepatitisB
 Total,4-4,5,2003,HepatitisB
 North Region,4-4,0,2003,HepatitisB
-Zone 1,4-4,0,2003,HepatitisB
+Zone:1,4-4,0,2003,HepatitisB
 Chiang Mai,4-4,0,2003,HepatitisB
 Chiang Rai,4-4,0,2003,HepatitisB
 Lampang,4-4,0,2003,HepatitisB
@@ -27916,98 +27916,98 @@ Mae Hong Son,4-4,0,2003,HepatitisB
 Nan,4-4,0,2003,HepatitisB
 Phayao,4-4,0,2003,HepatitisB
 Phrae,4-4,0,2003,HepatitisB
-Zone 2,4-4,0,2003,HepatitisB
+Zone:2,4-4,0,2003,HepatitisB
 Phetchabun,4-4,0,2003,HepatitisB
 Phitsanulok,4-4,0,2003,HepatitisB
 Sukhothai,4-4,0,2003,HepatitisB
 Tak,4-4,0,2003,HepatitisB
 Uttaradit,4-4,0,2003,HepatitisB
-Zone 3,4-4,0,2003,HepatitisB
+Zone:3,4-4,0,2003,HepatitisB
 Kamphaeng Phet,4-4,0,2003,HepatitisB
 Nakhon Sawan,4-4,0,2003,HepatitisB
 Phichit,4-4,0,2003,HepatitisB
 Uthai Thani,4-4,0,2003,HepatitisB
 Central Region,4-4,1,2003,HepatitisB
 Bangkok,4-4,0,2003,HepatitisB
-Zone 4,4-4,0,2003,HepatitisB
+Zone:4,4-4,0,2003,HepatitisB
 Ang Thong,4-4,0,2003,HepatitisB
 Nonthaburi,4-4,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,4-4,0,2003,HepatitisB
 Pathum Thani,4-4,0,2003,HepatitisB
-Zone 5,4-4,0,2003,HepatitisB
+Zone:5,4-4,0,2003,HepatitisB
 Chai Nat,4-4,0,2003,HepatitisB
 Lop Buri,4-4,0,2003,HepatitisB
 Saraburi,4-4,0,2003,HepatitisB
 Sing Buri,4-4,0,2003,HepatitisB
-Zone 6,4-4,1,2003,HepatitisB
+Zone:6,4-4,1,2003,HepatitisB
 Kanchanaburi,4-4,0,2003,HepatitisB
 Nakhon Pathom,4-4,0,2003,HepatitisB
 Ratchaburi,4-4,0,2003,HepatitisB
 Suphan Buri,4-4,1,2003,HepatitisB
-Zone 7,4-4,0,2003,HepatitisB
+Zone:7,4-4,0,2003,HepatitisB
 Phetchaburi,4-4,0,2003,HepatitisB
 Prachuap Khiri Khan,4-4,0,2003,HepatitisB
 Samut Sakhon,4-4,0,2003,HepatitisB
 Samut Songkhram,4-4,0,2003,HepatitisB
-Zone 8,4-4,0,2003,HepatitisB
+Zone:8,4-4,0,2003,HepatitisB
 Chachoengsao,4-4,0,2003,HepatitisB
 Nakhon Nayok,4-4,0,2003,HepatitisB
 Prachin Buri,4-4,0,2003,HepatitisB
 Sa Kaeo,4-4,0,2003,HepatitisB
 Samut Prakan,4-4,0,2003,HepatitisB
-Zone 9,4-4,0,2003,HepatitisB
+Zone:9,4-4,0,2003,HepatitisB
 Chanthaburi,4-4,0,2003,HepatitisB
 Chon Buri,4-4,0,2003,HepatitisB
 Rayong,4-4,0,2003,HepatitisB
 Trat,4-4,0,2003,HepatitisB
 North-Eastern Region,4-4,3,2003,HepatitisB
-Zone 10,4-4,0,2003,HepatitisB
+Zone:10,4-4,0,2003,HepatitisB
 Loei,4-4,0,2003,HepatitisB
 Nong Bua Lam Phu,4-4,0,2003,HepatitisB
 Nong Khai,4-4,0,2003,HepatitisB
 Udon Thani,4-4,0,2003,HepatitisB
-Zone 11,4-4,0,2003,HepatitisB
+Zone:11,4-4,0,2003,HepatitisB
 Kalasin,4-4,0,2003,HepatitisB
 Mukdahan,4-4,0,2003,HepatitisB
 Nakhon Phanom,4-4,0,2003,HepatitisB
 Sakon Nakhon,4-4,0,2003,HepatitisB
-Zone 12,4-4,0,2003,HepatitisB
+Zone:12,4-4,0,2003,HepatitisB
 Khon Kaen,4-4,0,2003,HepatitisB
 Maha Sarakham,4-4,0,2003,HepatitisB
 Roi Et,4-4,0,2003,HepatitisB
-Zone 13,4-4,2,2003,HepatitisB
+Zone:13,4-4,2,2003,HepatitisB
 Buri Ram,4-4,2,2003,HepatitisB
 Chaiyaphum,4-4,0,2003,HepatitisB
 Nakhon Ratchasima,4-4,0,2003,HepatitisB
 Surin,4-4,0,2003,HepatitisB
-Zone 14,4-4,1,2003,HepatitisB
+Zone:14,4-4,1,2003,HepatitisB
 Amnat Charoen,4-4,0,2003,HepatitisB
 Si Sa Ket,4-4,0,2003,HepatitisB
 Ubon Ratchathani,4-4,1,2003,HepatitisB
 Yasothon,4-4,0,2003,HepatitisB
 South Region,4-4,1,2003,HepatitisB
-Zone 15,4-4,0,2003,HepatitisB
+Zone:15,4-4,0,2003,HepatitisB
 Chumphon,4-4,0,2003,HepatitisB
 Ranong,4-4,0,2003,HepatitisB
 Surat Thani,4-4,0,2003,HepatitisB
-Zone 16,4-4,0,2003,HepatitisB
+Zone:16,4-4,0,2003,HepatitisB
 Nakhon Si Thammarat,4-4,0,2003,HepatitisB
 Phatthalung,4-4,0,2003,HepatitisB
 Trang,4-4,0,2003,HepatitisB
-Zone 17,4-4,0,2003,HepatitisB
+Zone:17,4-4,0,2003,HepatitisB
 Krabi,4-4,0,2003,HepatitisB
 Phangnga,4-4,0,2003,HepatitisB
 Phuket,4-4,0,2003,HepatitisB
-Zone 18,4-4,1,2003,HepatitisB
+Zone:18,4-4,1,2003,HepatitisB
 Narathiwat,4-4,1,2003,HepatitisB
 Pattani,4-4,0,2003,HepatitisB
 Yala,4-4,0,2003,HepatitisB
-Zone 19,4-4,0,2003,HepatitisB
+Zone:19,4-4,0,2003,HepatitisB
 Satun,4-4,0,2003,HepatitisB
 Songkhla,4-4,0,2003,HepatitisB
 Total,5-5,6,2003,HepatitisB
 North Region,5-5,0,2003,HepatitisB
-Zone 1,5-5,0,2003,HepatitisB
+Zone:1,5-5,0,2003,HepatitisB
 Chiang Mai,5-5,0,2003,HepatitisB
 Chiang Rai,5-5,0,2003,HepatitisB
 Lampang,5-5,0,2003,HepatitisB
@@ -28016,98 +28016,98 @@ Mae Hong Son,5-5,0,2003,HepatitisB
 Nan,5-5,0,2003,HepatitisB
 Phayao,5-5,0,2003,HepatitisB
 Phrae,5-5,0,2003,HepatitisB
-Zone 2,5-5,0,2003,HepatitisB
+Zone:2,5-5,0,2003,HepatitisB
 Phetchabun,5-5,0,2003,HepatitisB
 Phitsanulok,5-5,0,2003,HepatitisB
 Sukhothai,5-5,0,2003,HepatitisB
 Tak,5-5,0,2003,HepatitisB
 Uttaradit,5-5,0,2003,HepatitisB
-Zone 3,5-5,0,2003,HepatitisB
+Zone:3,5-5,0,2003,HepatitisB
 Kamphaeng Phet,5-5,0,2003,HepatitisB
 Nakhon Sawan,5-5,0,2003,HepatitisB
 Phichit,5-5,0,2003,HepatitisB
 Uthai Thani,5-5,0,2003,HepatitisB
 Central Region,5-5,2,2003,HepatitisB
 Bangkok,5-5,0,2003,HepatitisB
-Zone 4,5-5,0,2003,HepatitisB
+Zone:4,5-5,0,2003,HepatitisB
 Ang Thong,5-5,0,2003,HepatitisB
 Nonthaburi,5-5,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,5-5,0,2003,HepatitisB
 Pathum Thani,5-5,0,2003,HepatitisB
-Zone 5,5-5,0,2003,HepatitisB
+Zone:5,5-5,0,2003,HepatitisB
 Chai Nat,5-5,0,2003,HepatitisB
 Lop Buri,5-5,0,2003,HepatitisB
 Saraburi,5-5,0,2003,HepatitisB
 Sing Buri,5-5,0,2003,HepatitisB
-Zone 6,5-5,0,2003,HepatitisB
+Zone:6,5-5,0,2003,HepatitisB
 Kanchanaburi,5-5,0,2003,HepatitisB
 Nakhon Pathom,5-5,0,2003,HepatitisB
 Ratchaburi,5-5,0,2003,HepatitisB
 Suphan Buri,5-5,0,2003,HepatitisB
-Zone 7,5-5,0,2003,HepatitisB
+Zone:7,5-5,0,2003,HepatitisB
 Phetchaburi,5-5,0,2003,HepatitisB
 Prachuap Khiri Khan,5-5,0,2003,HepatitisB
 Samut Sakhon,5-5,0,2003,HepatitisB
 Samut Songkhram,5-5,0,2003,HepatitisB
-Zone 8,5-5,1,2003,HepatitisB
+Zone:8,5-5,1,2003,HepatitisB
 Chachoengsao,5-5,1,2003,HepatitisB
 Nakhon Nayok,5-5,0,2003,HepatitisB
 Prachin Buri,5-5,0,2003,HepatitisB
 Sa Kaeo,5-5,0,2003,HepatitisB
 Samut Prakan,5-5,0,2003,HepatitisB
-Zone 9,5-5,1,2003,HepatitisB
+Zone:9,5-5,1,2003,HepatitisB
 Chanthaburi,5-5,1,2003,HepatitisB
 Chon Buri,5-5,0,2003,HepatitisB
 Rayong,5-5,0,2003,HepatitisB
 Trat,5-5,0,2003,HepatitisB
 North-Eastern Region,5-5,0,2003,HepatitisB
-Zone 10,5-5,0,2003,HepatitisB
+Zone:10,5-5,0,2003,HepatitisB
 Loei,5-5,0,2003,HepatitisB
 Nong Bua Lam Phu,5-5,0,2003,HepatitisB
 Nong Khai,5-5,0,2003,HepatitisB
 Udon Thani,5-5,0,2003,HepatitisB
-Zone 11,5-5,0,2003,HepatitisB
+Zone:11,5-5,0,2003,HepatitisB
 Kalasin,5-5,0,2003,HepatitisB
 Mukdahan,5-5,0,2003,HepatitisB
 Nakhon Phanom,5-5,0,2003,HepatitisB
 Sakon Nakhon,5-5,0,2003,HepatitisB
-Zone 12,5-5,0,2003,HepatitisB
+Zone:12,5-5,0,2003,HepatitisB
 Khon Kaen,5-5,0,2003,HepatitisB
 Maha Sarakham,5-5,0,2003,HepatitisB
 Roi Et,5-5,0,2003,HepatitisB
-Zone 13,5-5,0,2003,HepatitisB
+Zone:13,5-5,0,2003,HepatitisB
 Buri Ram,5-5,0,2003,HepatitisB
 Chaiyaphum,5-5,0,2003,HepatitisB
 Nakhon Ratchasima,5-5,0,2003,HepatitisB
 Surin,5-5,0,2003,HepatitisB
-Zone 14,5-5,0,2003,HepatitisB
+Zone:14,5-5,0,2003,HepatitisB
 Amnat Charoen,5-5,0,2003,HepatitisB
 Si Sa Ket,5-5,0,2003,HepatitisB
 Ubon Ratchathani,5-5,0,2003,HepatitisB
 Yasothon,5-5,0,2003,HepatitisB
 South Region,5-5,4,2003,HepatitisB
-Zone 15,5-5,0,2003,HepatitisB
+Zone:15,5-5,0,2003,HepatitisB
 Chumphon,5-5,0,2003,HepatitisB
 Ranong,5-5,0,2003,HepatitisB
 Surat Thani,5-5,0,2003,HepatitisB
-Zone 16,5-5,0,2003,HepatitisB
+Zone:16,5-5,0,2003,HepatitisB
 Nakhon Si Thammarat,5-5,0,2003,HepatitisB
 Phatthalung,5-5,0,2003,HepatitisB
 Trang,5-5,0,2003,HepatitisB
-Zone 17,5-5,0,2003,HepatitisB
+Zone:17,5-5,0,2003,HepatitisB
 Krabi,5-5,0,2003,HepatitisB
 Phangnga,5-5,0,2003,HepatitisB
 Phuket,5-5,0,2003,HepatitisB
-Zone 18,5-5,4,2003,HepatitisB
+Zone:18,5-5,4,2003,HepatitisB
 Narathiwat,5-5,2,2003,HepatitisB
 Pattani,5-5,1,2003,HepatitisB
 Yala,5-5,1,2003,HepatitisB
-Zone 19,5-5,0,2003,HepatitisB
+Zone:19,5-5,0,2003,HepatitisB
 Satun,5-5,0,2003,HepatitisB
 Songkhla,5-5,0,2003,HepatitisB
 Total,6-6,10,2003,HepatitisB
 North Region,6-6,1,2003,HepatitisB
-Zone 1,6-6,0,2003,HepatitisB
+Zone:1,6-6,0,2003,HepatitisB
 Chiang Mai,6-6,0,2003,HepatitisB
 Chiang Rai,6-6,0,2003,HepatitisB
 Lampang,6-6,0,2003,HepatitisB
@@ -28116,98 +28116,98 @@ Mae Hong Son,6-6,0,2003,HepatitisB
 Nan,6-6,0,2003,HepatitisB
 Phayao,6-6,0,2003,HepatitisB
 Phrae,6-6,0,2003,HepatitisB
-Zone 2,6-6,1,2003,HepatitisB
+Zone:2,6-6,1,2003,HepatitisB
 Phetchabun,6-6,0,2003,HepatitisB
 Phitsanulok,6-6,0,2003,HepatitisB
 Sukhothai,6-6,0,2003,HepatitisB
 Tak,6-6,1,2003,HepatitisB
 Uttaradit,6-6,0,2003,HepatitisB
-Zone 3,6-6,0,2003,HepatitisB
+Zone:3,6-6,0,2003,HepatitisB
 Kamphaeng Phet,6-6,0,2003,HepatitisB
 Nakhon Sawan,6-6,0,2003,HepatitisB
 Phichit,6-6,0,2003,HepatitisB
 Uthai Thani,6-6,0,2003,HepatitisB
 Central Region,6-6,3,2003,HepatitisB
 Bangkok,6-6,2,2003,HepatitisB
-Zone 4,6-6,0,2003,HepatitisB
+Zone:4,6-6,0,2003,HepatitisB
 Ang Thong,6-6,0,2003,HepatitisB
 Nonthaburi,6-6,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,6-6,0,2003,HepatitisB
 Pathum Thani,6-6,0,2003,HepatitisB
-Zone 5,6-6,0,2003,HepatitisB
+Zone:5,6-6,0,2003,HepatitisB
 Chai Nat,6-6,0,2003,HepatitisB
 Lop Buri,6-6,0,2003,HepatitisB
 Saraburi,6-6,0,2003,HepatitisB
 Sing Buri,6-6,0,2003,HepatitisB
-Zone 6,6-6,0,2003,HepatitisB
+Zone:6,6-6,0,2003,HepatitisB
 Kanchanaburi,6-6,0,2003,HepatitisB
 Nakhon Pathom,6-6,0,2003,HepatitisB
 Ratchaburi,6-6,0,2003,HepatitisB
 Suphan Buri,6-6,0,2003,HepatitisB
-Zone 7,6-6,0,2003,HepatitisB
+Zone:7,6-6,0,2003,HepatitisB
 Phetchaburi,6-6,0,2003,HepatitisB
 Prachuap Khiri Khan,6-6,0,2003,HepatitisB
 Samut Sakhon,6-6,0,2003,HepatitisB
 Samut Songkhram,6-6,0,2003,HepatitisB
-Zone 8,6-6,1,2003,HepatitisB
+Zone:8,6-6,1,2003,HepatitisB
 Chachoengsao,6-6,0,2003,HepatitisB
 Nakhon Nayok,6-6,0,2003,HepatitisB
 Prachin Buri,6-6,1,2003,HepatitisB
 Sa Kaeo,6-6,0,2003,HepatitisB
 Samut Prakan,6-6,0,2003,HepatitisB
-Zone 9,6-6,0,2003,HepatitisB
+Zone:9,6-6,0,2003,HepatitisB
 Chanthaburi,6-6,0,2003,HepatitisB
 Chon Buri,6-6,0,2003,HepatitisB
 Rayong,6-6,0,2003,HepatitisB
 Trat,6-6,0,2003,HepatitisB
 North-Eastern Region,6-6,2,2003,HepatitisB
-Zone 10,6-6,1,2003,HepatitisB
+Zone:10,6-6,1,2003,HepatitisB
 Loei,6-6,0,2003,HepatitisB
 Nong Bua Lam Phu,6-6,0,2003,HepatitisB
 Nong Khai,6-6,0,2003,HepatitisB
 Udon Thani,6-6,1,2003,HepatitisB
-Zone 11,6-6,0,2003,HepatitisB
+Zone:11,6-6,0,2003,HepatitisB
 Kalasin,6-6,0,2003,HepatitisB
 Mukdahan,6-6,0,2003,HepatitisB
 Nakhon Phanom,6-6,0,2003,HepatitisB
 Sakon Nakhon,6-6,0,2003,HepatitisB
-Zone 12,6-6,0,2003,HepatitisB
+Zone:12,6-6,0,2003,HepatitisB
 Khon Kaen,6-6,0,2003,HepatitisB
 Maha Sarakham,6-6,0,2003,HepatitisB
 Roi Et,6-6,0,2003,HepatitisB
-Zone 13,6-6,1,2003,HepatitisB
+Zone:13,6-6,1,2003,HepatitisB
 Buri Ram,6-6,0,2003,HepatitisB
 Chaiyaphum,6-6,1,2003,HepatitisB
 Nakhon Ratchasima,6-6,0,2003,HepatitisB
 Surin,6-6,0,2003,HepatitisB
-Zone 14,6-6,0,2003,HepatitisB
+Zone:14,6-6,0,2003,HepatitisB
 Amnat Charoen,6-6,0,2003,HepatitisB
 Si Sa Ket,6-6,0,2003,HepatitisB
 Ubon Ratchathani,6-6,0,2003,HepatitisB
 Yasothon,6-6,0,2003,HepatitisB
 South Region,6-6,4,2003,HepatitisB
-Zone 15,6-6,0,2003,HepatitisB
+Zone:15,6-6,0,2003,HepatitisB
 Chumphon,6-6,0,2003,HepatitisB
 Ranong,6-6,0,2003,HepatitisB
 Surat Thani,6-6,0,2003,HepatitisB
-Zone 16,6-6,0,2003,HepatitisB
+Zone:16,6-6,0,2003,HepatitisB
 Nakhon Si Thammarat,6-6,0,2003,HepatitisB
 Phatthalung,6-6,0,2003,HepatitisB
 Trang,6-6,0,2003,HepatitisB
-Zone 17,6-6,0,2003,HepatitisB
+Zone:17,6-6,0,2003,HepatitisB
 Krabi,6-6,0,2003,HepatitisB
 Phangnga,6-6,0,2003,HepatitisB
 Phuket,6-6,0,2003,HepatitisB
-Zone 18,6-6,4,2003,HepatitisB
+Zone:18,6-6,4,2003,HepatitisB
 Narathiwat,6-6,0,2003,HepatitisB
 Pattani,6-6,2,2003,HepatitisB
 Yala,6-6,2,2003,HepatitisB
-Zone 19,6-6,0,2003,HepatitisB
+Zone:19,6-6,0,2003,HepatitisB
 Satun,6-6,0,2003,HepatitisB
 Songkhla,6-6,0,2003,HepatitisB
 Total,7-9,22,2003,HepatitisB
 North Region,7-9,6,2003,HepatitisB
-Zone 1,7-9,4,2003,HepatitisB
+Zone:1,7-9,4,2003,HepatitisB
 Chiang Mai,7-9,3,2003,HepatitisB
 Chiang Rai,7-9,0,2003,HepatitisB
 Lampang,7-9,0,2003,HepatitisB
@@ -28216,98 +28216,98 @@ Mae Hong Son,7-9,1,2003,HepatitisB
 Nan,7-9,0,2003,HepatitisB
 Phayao,7-9,0,2003,HepatitisB
 Phrae,7-9,0,2003,HepatitisB
-Zone 2,7-9,2,2003,HepatitisB
+Zone:2,7-9,2,2003,HepatitisB
 Phetchabun,7-9,0,2003,HepatitisB
 Phitsanulok,7-9,0,2003,HepatitisB
 Sukhothai,7-9,1,2003,HepatitisB
 Tak,7-9,1,2003,HepatitisB
 Uttaradit,7-9,0,2003,HepatitisB
-Zone 3,7-9,0,2003,HepatitisB
+Zone:3,7-9,0,2003,HepatitisB
 Kamphaeng Phet,7-9,0,2003,HepatitisB
 Nakhon Sawan,7-9,0,2003,HepatitisB
 Phichit,7-9,0,2003,HepatitisB
 Uthai Thani,7-9,0,2003,HepatitisB
 Central Region,7-9,1,2003,HepatitisB
 Bangkok,7-9,1,2003,HepatitisB
-Zone 4,7-9,0,2003,HepatitisB
+Zone:4,7-9,0,2003,HepatitisB
 Ang Thong,7-9,0,2003,HepatitisB
 Nonthaburi,7-9,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,7-9,0,2003,HepatitisB
 Pathum Thani,7-9,0,2003,HepatitisB
-Zone 5,7-9,0,2003,HepatitisB
+Zone:5,7-9,0,2003,HepatitisB
 Chai Nat,7-9,0,2003,HepatitisB
 Lop Buri,7-9,0,2003,HepatitisB
 Saraburi,7-9,0,2003,HepatitisB
 Sing Buri,7-9,0,2003,HepatitisB
-Zone 6,7-9,0,2003,HepatitisB
+Zone:6,7-9,0,2003,HepatitisB
 Kanchanaburi,7-9,0,2003,HepatitisB
 Nakhon Pathom,7-9,0,2003,HepatitisB
 Ratchaburi,7-9,0,2003,HepatitisB
 Suphan Buri,7-9,0,2003,HepatitisB
-Zone 7,7-9,0,2003,HepatitisB
+Zone:7,7-9,0,2003,HepatitisB
 Phetchaburi,7-9,0,2003,HepatitisB
 Prachuap Khiri Khan,7-9,0,2003,HepatitisB
 Samut Sakhon,7-9,0,2003,HepatitisB
 Samut Songkhram,7-9,0,2003,HepatitisB
-Zone 8,7-9,0,2003,HepatitisB
+Zone:8,7-9,0,2003,HepatitisB
 Chachoengsao,7-9,0,2003,HepatitisB
 Nakhon Nayok,7-9,0,2003,HepatitisB
 Prachin Buri,7-9,0,2003,HepatitisB
 Sa Kaeo,7-9,0,2003,HepatitisB
 Samut Prakan,7-9,0,2003,HepatitisB
-Zone 9,7-9,0,2003,HepatitisB
+Zone:9,7-9,0,2003,HepatitisB
 Chanthaburi,7-9,0,2003,HepatitisB
 Chon Buri,7-9,0,2003,HepatitisB
 Rayong,7-9,0,2003,HepatitisB
 Trat,7-9,0,2003,HepatitisB
 North-Eastern Region,7-9,1,2003,HepatitisB
-Zone 10,7-9,0,2003,HepatitisB
+Zone:10,7-9,0,2003,HepatitisB
 Loei,7-9,0,2003,HepatitisB
 Nong Bua Lam Phu,7-9,0,2003,HepatitisB
 Nong Khai,7-9,0,2003,HepatitisB
 Udon Thani,7-9,0,2003,HepatitisB
-Zone 11,7-9,0,2003,HepatitisB
+Zone:11,7-9,0,2003,HepatitisB
 Kalasin,7-9,0,2003,HepatitisB
 Mukdahan,7-9,0,2003,HepatitisB
 Nakhon Phanom,7-9,0,2003,HepatitisB
 Sakon Nakhon,7-9,0,2003,HepatitisB
-Zone 12,7-9,0,2003,HepatitisB
+Zone:12,7-9,0,2003,HepatitisB
 Khon Kaen,7-9,0,2003,HepatitisB
 Maha Sarakham,7-9,0,2003,HepatitisB
 Roi Et,7-9,0,2003,HepatitisB
-Zone 13,7-9,1,2003,HepatitisB
+Zone:13,7-9,1,2003,HepatitisB
 Buri Ram,7-9,0,2003,HepatitisB
 Chaiyaphum,7-9,0,2003,HepatitisB
 Nakhon Ratchasima,7-9,1,2003,HepatitisB
 Surin,7-9,0,2003,HepatitisB
-Zone 14,7-9,0,2003,HepatitisB
+Zone:14,7-9,0,2003,HepatitisB
 Amnat Charoen,7-9,0,2003,HepatitisB
 Si Sa Ket,7-9,0,2003,HepatitisB
 Ubon Ratchathani,7-9,0,2003,HepatitisB
 Yasothon,7-9,0,2003,HepatitisB
 South Region,7-9,14,2003,HepatitisB
-Zone 15,7-9,0,2003,HepatitisB
+Zone:15,7-9,0,2003,HepatitisB
 Chumphon,7-9,0,2003,HepatitisB
 Ranong,7-9,0,2003,HepatitisB
 Surat Thani,7-9,0,2003,HepatitisB
-Zone 16,7-9,0,2003,HepatitisB
+Zone:16,7-9,0,2003,HepatitisB
 Nakhon Si Thammarat,7-9,0,2003,HepatitisB
 Phatthalung,7-9,0,2003,HepatitisB
 Trang,7-9,0,2003,HepatitisB
-Zone 17,7-9,0,2003,HepatitisB
+Zone:17,7-9,0,2003,HepatitisB
 Krabi,7-9,0,2003,HepatitisB
 Phangnga,7-9,0,2003,HepatitisB
 Phuket,7-9,0,2003,HepatitisB
-Zone 18,7-9,13,2003,HepatitisB
+Zone:18,7-9,13,2003,HepatitisB
 Narathiwat,7-9,4,2003,HepatitisB
 Pattani,7-9,6,2003,HepatitisB
 Yala,7-9,3,2003,HepatitisB
-Zone 19,7-9,1,2003,HepatitisB
+Zone:19,7-9,1,2003,HepatitisB
 Satun,7-9,0,2003,HepatitisB
 Songkhla,7-9,1,2003,HepatitisB
 Total,10-14,70,2003,HepatitisB
 North Region,10-14,18,2003,HepatitisB
-Zone 1,10-14,15,2003,HepatitisB
+Zone:1,10-14,15,2003,HepatitisB
 Chiang Mai,10-14,5,2003,HepatitisB
 Chiang Rai,10-14,2,2003,HepatitisB
 Lampang,10-14,3,2003,HepatitisB
@@ -28316,98 +28316,98 @@ Mae Hong Son,10-14,0,2003,HepatitisB
 Nan,10-14,3,2003,HepatitisB
 Phayao,10-14,2,2003,HepatitisB
 Phrae,10-14,0,2003,HepatitisB
-Zone 2,10-14,2,2003,HepatitisB
+Zone:2,10-14,2,2003,HepatitisB
 Phetchabun,10-14,1,2003,HepatitisB
 Phitsanulok,10-14,0,2003,HepatitisB
 Sukhothai,10-14,0,2003,HepatitisB
 Tak,10-14,1,2003,HepatitisB
 Uttaradit,10-14,0,2003,HepatitisB
-Zone 3,10-14,1,2003,HepatitisB
+Zone:3,10-14,1,2003,HepatitisB
 Kamphaeng Phet,10-14,1,2003,HepatitisB
 Nakhon Sawan,10-14,0,2003,HepatitisB
 Phichit,10-14,0,2003,HepatitisB
 Uthai Thani,10-14,0,2003,HepatitisB
 Central Region,10-14,8,2003,HepatitisB
 Bangkok,10-14,2,2003,HepatitisB
-Zone 4,10-14,0,2003,HepatitisB
+Zone:4,10-14,0,2003,HepatitisB
 Ang Thong,10-14,0,2003,HepatitisB
 Nonthaburi,10-14,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,10-14,0,2003,HepatitisB
 Pathum Thani,10-14,0,2003,HepatitisB
-Zone 5,10-14,2,2003,HepatitisB
+Zone:5,10-14,2,2003,HepatitisB
 Chai Nat,10-14,0,2003,HepatitisB
 Lop Buri,10-14,1,2003,HepatitisB
 Saraburi,10-14,0,2003,HepatitisB
 Sing Buri,10-14,1,2003,HepatitisB
-Zone 6,10-14,1,2003,HepatitisB
+Zone:6,10-14,1,2003,HepatitisB
 Kanchanaburi,10-14,0,2003,HepatitisB
 Nakhon Pathom,10-14,1,2003,HepatitisB
 Ratchaburi,10-14,0,2003,HepatitisB
 Suphan Buri,10-14,0,2003,HepatitisB
-Zone 7,10-14,0,2003,HepatitisB
+Zone:7,10-14,0,2003,HepatitisB
 Phetchaburi,10-14,0,2003,HepatitisB
 Prachuap Khiri Khan,10-14,0,2003,HepatitisB
 Samut Sakhon,10-14,0,2003,HepatitisB
 Samut Songkhram,10-14,0,2003,HepatitisB
-Zone 8,10-14,3,2003,HepatitisB
+Zone:8,10-14,3,2003,HepatitisB
 Chachoengsao,10-14,1,2003,HepatitisB
 Nakhon Nayok,10-14,0,2003,HepatitisB
 Prachin Buri,10-14,2,2003,HepatitisB
 Sa Kaeo,10-14,0,2003,HepatitisB
 Samut Prakan,10-14,0,2003,HepatitisB
-Zone 9,10-14,0,2003,HepatitisB
+Zone:9,10-14,0,2003,HepatitisB
 Chanthaburi,10-14,0,2003,HepatitisB
 Chon Buri,10-14,0,2003,HepatitisB
 Rayong,10-14,0,2003,HepatitisB
 Trat,10-14,0,2003,HepatitisB
 North-Eastern Region,10-14,23,2003,HepatitisB
-Zone 10,10-14,3,2003,HepatitisB
+Zone:10,10-14,3,2003,HepatitisB
 Loei,10-14,0,2003,HepatitisB
 Nong Bua Lam Phu,10-14,0,2003,HepatitisB
 Nong Khai,10-14,1,2003,HepatitisB
 Udon Thani,10-14,2,2003,HepatitisB
-Zone 11,10-14,0,2003,HepatitisB
+Zone:11,10-14,0,2003,HepatitisB
 Kalasin,10-14,0,2003,HepatitisB
 Mukdahan,10-14,0,2003,HepatitisB
 Nakhon Phanom,10-14,0,2003,HepatitisB
 Sakon Nakhon,10-14,0,2003,HepatitisB
-Zone 12,10-14,4,2003,HepatitisB
+Zone:12,10-14,4,2003,HepatitisB
 Khon Kaen,10-14,0,2003,HepatitisB
 Maha Sarakham,10-14,0,2003,HepatitisB
 Roi Et,10-14,4,2003,HepatitisB
-Zone 13,10-14,6,2003,HepatitisB
+Zone:13,10-14,6,2003,HepatitisB
 Buri Ram,10-14,2,2003,HepatitisB
 Chaiyaphum,10-14,2,2003,HepatitisB
 Nakhon Ratchasima,10-14,2,2003,HepatitisB
 Surin,10-14,0,2003,HepatitisB
-Zone 14,10-14,10,2003,HepatitisB
+Zone:14,10-14,10,2003,HepatitisB
 Amnat Charoen,10-14,2,2003,HepatitisB
 Si Sa Ket,10-14,5,2003,HepatitisB
 Ubon Ratchathani,10-14,3,2003,HepatitisB
 Yasothon,10-14,0,2003,HepatitisB
 South Region,10-14,21,2003,HepatitisB
-Zone 15,10-14,1,2003,HepatitisB
+Zone:15,10-14,1,2003,HepatitisB
 Chumphon,10-14,0,2003,HepatitisB
 Ranong,10-14,1,2003,HepatitisB
 Surat Thani,10-14,0,2003,HepatitisB
-Zone 16,10-14,2,2003,HepatitisB
+Zone:16,10-14,2,2003,HepatitisB
 Nakhon Si Thammarat,10-14,0,2003,HepatitisB
 Phatthalung,10-14,1,2003,HepatitisB
 Trang,10-14,1,2003,HepatitisB
-Zone 17,10-14,0,2003,HepatitisB
+Zone:17,10-14,0,2003,HepatitisB
 Krabi,10-14,0,2003,HepatitisB
 Phangnga,10-14,0,2003,HepatitisB
 Phuket,10-14,0,2003,HepatitisB
-Zone 18,10-14,18,2003,HepatitisB
+Zone:18,10-14,18,2003,HepatitisB
 Narathiwat,10-14,5,2003,HepatitisB
 Pattani,10-14,7,2003,HepatitisB
 Yala,10-14,6,2003,HepatitisB
-Zone 19,10-14,0,2003,HepatitisB
+Zone:19,10-14,0,2003,HepatitisB
 Satun,10-14,0,2003,HepatitisB
 Songkhla,10-14,0,2003,HepatitisB
 Total,15-24,652,2003,HepatitisB
 North Region,15-24,216,2003,HepatitisB
-Zone 1,15-24,149,2003,HepatitisB
+Zone:1,15-24,149,2003,HepatitisB
 Chiang Mai,15-24,35,2003,HepatitisB
 Chiang Rai,15-24,31,2003,HepatitisB
 Lampang,15-24,18,2003,HepatitisB
@@ -28416,98 +28416,98 @@ Mae Hong Son,15-24,2,2003,HepatitisB
 Nan,15-24,24,2003,HepatitisB
 Phayao,15-24,19,2003,HepatitisB
 Phrae,15-24,9,2003,HepatitisB
-Zone 2,15-24,39,2003,HepatitisB
+Zone:2,15-24,39,2003,HepatitisB
 Phetchabun,15-24,10,2003,HepatitisB
 Phitsanulok,15-24,8,2003,HepatitisB
 Sukhothai,15-24,9,2003,HepatitisB
 Tak,15-24,10,2003,HepatitisB
 Uttaradit,15-24,2,2003,HepatitisB
-Zone 3,15-24,28,2003,HepatitisB
+Zone:3,15-24,28,2003,HepatitisB
 Kamphaeng Phet,15-24,13,2003,HepatitisB
 Nakhon Sawan,15-24,12,2003,HepatitisB
 Phichit,15-24,1,2003,HepatitisB
 Uthai Thani,15-24,2,2003,HepatitisB
 Central Region,15-24,194,2003,HepatitisB
 Bangkok,15-24,59,2003,HepatitisB
-Zone 4,15-24,27,2003,HepatitisB
+Zone:4,15-24,27,2003,HepatitisB
 Ang Thong,15-24,0,2003,HepatitisB
 Nonthaburi,15-24,5,2003,HepatitisB
 P.Nakhon S.Ayutthaya,15-24,10,2003,HepatitisB
 Pathum Thani,15-24,12,2003,HepatitisB
-Zone 5,15-24,11,2003,HepatitisB
+Zone:5,15-24,11,2003,HepatitisB
 Chai Nat,15-24,4,2003,HepatitisB
 Lop Buri,15-24,2,2003,HepatitisB
 Saraburi,15-24,2,2003,HepatitisB
 Sing Buri,15-24,3,2003,HepatitisB
-Zone 6,15-24,48,2003,HepatitisB
+Zone:6,15-24,48,2003,HepatitisB
 Kanchanaburi,15-24,18,2003,HepatitisB
 Nakhon Pathom,15-24,19,2003,HepatitisB
 Ratchaburi,15-24,8,2003,HepatitisB
 Suphan Buri,15-24,3,2003,HepatitisB
-Zone 7,15-24,6,2003,HepatitisB
+Zone:7,15-24,6,2003,HepatitisB
 Phetchaburi,15-24,0,2003,HepatitisB
 Prachuap Khiri Khan,15-24,5,2003,HepatitisB
 Samut Sakhon,15-24,1,2003,HepatitisB
 Samut Songkhram,15-24,0,2003,HepatitisB
-Zone 8,15-24,28,2003,HepatitisB
+Zone:8,15-24,28,2003,HepatitisB
 Chachoengsao,15-24,22,2003,HepatitisB
 Nakhon Nayok,15-24,0,2003,HepatitisB
 Prachin Buri,15-24,5,2003,HepatitisB
 Sa Kaeo,15-24,1,2003,HepatitisB
 Samut Prakan,15-24,0,2003,HepatitisB
-Zone 9,15-24,15,2003,HepatitisB
+Zone:9,15-24,15,2003,HepatitisB
 Chanthaburi,15-24,0,2003,HepatitisB
 Chon Buri,15-24,3,2003,HepatitisB
 Rayong,15-24,8,2003,HepatitisB
 Trat,15-24,4,2003,HepatitisB
 North-Eastern Region,15-24,172,2003,HepatitisB
-Zone 10,15-24,16,2003,HepatitisB
+Zone:10,15-24,16,2003,HepatitisB
 Loei,15-24,4,2003,HepatitisB
 Nong Bua Lam Phu,15-24,1,2003,HepatitisB
 Nong Khai,15-24,2,2003,HepatitisB
 Udon Thani,15-24,9,2003,HepatitisB
-Zone 11,15-24,13,2003,HepatitisB
+Zone:11,15-24,13,2003,HepatitisB
 Kalasin,15-24,4,2003,HepatitisB
 Mukdahan,15-24,1,2003,HepatitisB
 Nakhon Phanom,15-24,4,2003,HepatitisB
 Sakon Nakhon,15-24,4,2003,HepatitisB
-Zone 12,15-24,14,2003,HepatitisB
+Zone:12,15-24,14,2003,HepatitisB
 Khon Kaen,15-24,7,2003,HepatitisB
 Maha Sarakham,15-24,0,2003,HepatitisB
 Roi Et,15-24,7,2003,HepatitisB
-Zone 13,15-24,72,2003,HepatitisB
+Zone:13,15-24,72,2003,HepatitisB
 Buri Ram,15-24,25,2003,HepatitisB
 Chaiyaphum,15-24,23,2003,HepatitisB
 Nakhon Ratchasima,15-24,16,2003,HepatitisB
 Surin,15-24,8,2003,HepatitisB
-Zone 14,15-24,57,2003,HepatitisB
+Zone:14,15-24,57,2003,HepatitisB
 Amnat Charoen,15-24,4,2003,HepatitisB
 Si Sa Ket,15-24,14,2003,HepatitisB
 Ubon Ratchathani,15-24,37,2003,HepatitisB
 Yasothon,15-24,2,2003,HepatitisB
 South Region,15-24,70,2003,HepatitisB
-Zone 15,15-24,11,2003,HepatitisB
+Zone:15,15-24,11,2003,HepatitisB
 Chumphon,15-24,1,2003,HepatitisB
 Ranong,15-24,1,2003,HepatitisB
 Surat Thani,15-24,9,2003,HepatitisB
-Zone 16,15-24,7,2003,HepatitisB
+Zone:16,15-24,7,2003,HepatitisB
 Nakhon Si Thammarat,15-24,0,2003,HepatitisB
 Phatthalung,15-24,1,2003,HepatitisB
 Trang,15-24,6,2003,HepatitisB
-Zone 17,15-24,13,2003,HepatitisB
+Zone:17,15-24,13,2003,HepatitisB
 Krabi,15-24,9,2003,HepatitisB
 Phangnga,15-24,1,2003,HepatitisB
 Phuket,15-24,3,2003,HepatitisB
-Zone 18,15-24,14,2003,HepatitisB
+Zone:18,15-24,14,2003,HepatitisB
 Narathiwat,15-24,5,2003,HepatitisB
 Pattani,15-24,6,2003,HepatitisB
 Yala,15-24,3,2003,HepatitisB
-Zone 19,15-24,25,2003,HepatitisB
+Zone:19,15-24,25,2003,HepatitisB
 Satun,15-24,1,2003,HepatitisB
 Songkhla,15-24,24,2003,HepatitisB
 Total,25-34,566,2003,HepatitisB
 North Region,25-34,155,2003,HepatitisB
-Zone 1,25-34,85,2003,HepatitisB
+Zone:1,25-34,85,2003,HepatitisB
 Chiang Mai,25-34,18,2003,HepatitisB
 Chiang Rai,25-34,16,2003,HepatitisB
 Lampang,25-34,17,2003,HepatitisB
@@ -28516,98 +28516,98 @@ Mae Hong Son,25-34,1,2003,HepatitisB
 Nan,25-34,19,2003,HepatitisB
 Phayao,25-34,7,2003,HepatitisB
 Phrae,25-34,3,2003,HepatitisB
-Zone 2,25-34,34,2003,HepatitisB
+Zone:2,25-34,34,2003,HepatitisB
 Phetchabun,25-34,13,2003,HepatitisB
 Phitsanulok,25-34,4,2003,HepatitisB
 Sukhothai,25-34,7,2003,HepatitisB
 Tak,25-34,7,2003,HepatitisB
 Uttaradit,25-34,3,2003,HepatitisB
-Zone 3,25-34,36,2003,HepatitisB
+Zone:3,25-34,36,2003,HepatitisB
 Kamphaeng Phet,25-34,23,2003,HepatitisB
 Nakhon Sawan,25-34,9,2003,HepatitisB
 Phichit,25-34,0,2003,HepatitisB
 Uthai Thani,25-34,4,2003,HepatitisB
 Central Region,25-34,178,2003,HepatitisB
 Bangkok,25-34,76,2003,HepatitisB
-Zone 4,25-34,18,2003,HepatitisB
+Zone:4,25-34,18,2003,HepatitisB
 Ang Thong,25-34,2,2003,HepatitisB
 Nonthaburi,25-34,6,2003,HepatitisB
 P.Nakhon S.Ayutthaya,25-34,2,2003,HepatitisB
 Pathum Thani,25-34,8,2003,HepatitisB
-Zone 5,25-34,11,2003,HepatitisB
+Zone:5,25-34,11,2003,HepatitisB
 Chai Nat,25-34,2,2003,HepatitisB
 Lop Buri,25-34,3,2003,HepatitisB
 Saraburi,25-34,3,2003,HepatitisB
 Sing Buri,25-34,3,2003,HepatitisB
-Zone 6,25-34,33,2003,HepatitisB
+Zone:6,25-34,33,2003,HepatitisB
 Kanchanaburi,25-34,10,2003,HepatitisB
 Nakhon Pathom,25-34,11,2003,HepatitisB
 Ratchaburi,25-34,12,2003,HepatitisB
 Suphan Buri,25-34,0,2003,HepatitisB
-Zone 7,25-34,3,2003,HepatitisB
+Zone:7,25-34,3,2003,HepatitisB
 Phetchaburi,25-34,3,2003,HepatitisB
 Prachuap Khiri Khan,25-34,0,2003,HepatitisB
 Samut Sakhon,25-34,0,2003,HepatitisB
 Samut Songkhram,25-34,0,2003,HepatitisB
-Zone 8,25-34,21,2003,HepatitisB
+Zone:8,25-34,21,2003,HepatitisB
 Chachoengsao,25-34,7,2003,HepatitisB
 Nakhon Nayok,25-34,2,2003,HepatitisB
 Prachin Buri,25-34,7,2003,HepatitisB
 Sa Kaeo,25-34,4,2003,HepatitisB
 Samut Prakan,25-34,1,2003,HepatitisB
-Zone 9,25-34,16,2003,HepatitisB
+Zone:9,25-34,16,2003,HepatitisB
 Chanthaburi,25-34,5,2003,HepatitisB
 Chon Buri,25-34,3,2003,HepatitisB
 Rayong,25-34,5,2003,HepatitisB
 Trat,25-34,3,2003,HepatitisB
 North-Eastern Region,25-34,189,2003,HepatitisB
-Zone 10,25-34,36,2003,HepatitisB
+Zone:10,25-34,36,2003,HepatitisB
 Loei,25-34,10,2003,HepatitisB
 Nong Bua Lam Phu,25-34,12,2003,HepatitisB
 Nong Khai,25-34,3,2003,HepatitisB
 Udon Thani,25-34,11,2003,HepatitisB
-Zone 11,25-34,13,2003,HepatitisB
+Zone:11,25-34,13,2003,HepatitisB
 Kalasin,25-34,4,2003,HepatitisB
 Mukdahan,25-34,0,2003,HepatitisB
 Nakhon Phanom,25-34,3,2003,HepatitisB
 Sakon Nakhon,25-34,6,2003,HepatitisB
-Zone 12,25-34,17,2003,HepatitisB
+Zone:12,25-34,17,2003,HepatitisB
 Khon Kaen,25-34,10,2003,HepatitisB
 Maha Sarakham,25-34,0,2003,HepatitisB
 Roi Et,25-34,7,2003,HepatitisB
-Zone 13,25-34,66,2003,HepatitisB
+Zone:13,25-34,66,2003,HepatitisB
 Buri Ram,25-34,9,2003,HepatitisB
 Chaiyaphum,25-34,15,2003,HepatitisB
 Nakhon Ratchasima,25-34,34,2003,HepatitisB
 Surin,25-34,8,2003,HepatitisB
-Zone 14,25-34,57,2003,HepatitisB
+Zone:14,25-34,57,2003,HepatitisB
 Amnat Charoen,25-34,4,2003,HepatitisB
 Si Sa Ket,25-34,12,2003,HepatitisB
 Ubon Ratchathani,25-34,36,2003,HepatitisB
 Yasothon,25-34,5,2003,HepatitisB
 South Region,25-34,44,2003,HepatitisB
-Zone 15,25-34,4,2003,HepatitisB
+Zone:15,25-34,4,2003,HepatitisB
 Chumphon,25-34,0,2003,HepatitisB
 Ranong,25-34,0,2003,HepatitisB
 Surat Thani,25-34,4,2003,HepatitisB
-Zone 16,25-34,7,2003,HepatitisB
+Zone:16,25-34,7,2003,HepatitisB
 Nakhon Si Thammarat,25-34,2,2003,HepatitisB
 Phatthalung,25-34,2,2003,HepatitisB
 Trang,25-34,3,2003,HepatitisB
-Zone 17,25-34,6,2003,HepatitisB
+Zone:17,25-34,6,2003,HepatitisB
 Krabi,25-34,4,2003,HepatitisB
 Phangnga,25-34,0,2003,HepatitisB
 Phuket,25-34,2,2003,HepatitisB
-Zone 18,25-34,14,2003,HepatitisB
+Zone:18,25-34,14,2003,HepatitisB
 Narathiwat,25-34,5,2003,HepatitisB
 Pattani,25-34,4,2003,HepatitisB
 Yala,25-34,5,2003,HepatitisB
-Zone 19,25-34,13,2003,HepatitisB
+Zone:19,25-34,13,2003,HepatitisB
 Satun,25-34,0,2003,HepatitisB
 Songkhla,25-34,13,2003,HepatitisB
 Total,35-44,475,2003,HepatitisB
 North Region,35-44,140,2003,HepatitisB
-Zone 1,35-44,80,2003,HepatitisB
+Zone:1,35-44,80,2003,HepatitisB
 Chiang Mai,35-44,11,2003,HepatitisB
 Chiang Rai,35-44,8,2003,HepatitisB
 Lampang,35-44,11,2003,HepatitisB
@@ -28616,98 +28616,98 @@ Mae Hong Son,35-44,0,2003,HepatitisB
 Nan,35-44,25,2003,HepatitisB
 Phayao,35-44,20,2003,HepatitisB
 Phrae,35-44,0,2003,HepatitisB
-Zone 2,35-44,38,2003,HepatitisB
+Zone:2,35-44,38,2003,HepatitisB
 Phetchabun,35-44,14,2003,HepatitisB
 Phitsanulok,35-44,2,2003,HepatitisB
 Sukhothai,35-44,12,2003,HepatitisB
 Tak,35-44,7,2003,HepatitisB
 Uttaradit,35-44,3,2003,HepatitisB
-Zone 3,35-44,22,2003,HepatitisB
+Zone:3,35-44,22,2003,HepatitisB
 Kamphaeng Phet,35-44,16,2003,HepatitisB
 Nakhon Sawan,35-44,4,2003,HepatitisB
 Phichit,35-44,1,2003,HepatitisB
 Uthai Thani,35-44,1,2003,HepatitisB
 Central Region,35-44,115,2003,HepatitisB
 Bangkok,35-44,40,2003,HepatitisB
-Zone 4,35-44,8,2003,HepatitisB
+Zone:4,35-44,8,2003,HepatitisB
 Ang Thong,35-44,0,2003,HepatitisB
 Nonthaburi,35-44,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,35-44,1,2003,HepatitisB
 Pathum Thani,35-44,7,2003,HepatitisB
-Zone 5,35-44,6,2003,HepatitisB
+Zone:5,35-44,6,2003,HepatitisB
 Chai Nat,35-44,1,2003,HepatitisB
 Lop Buri,35-44,2,2003,HepatitisB
 Saraburi,35-44,2,2003,HepatitisB
 Sing Buri,35-44,1,2003,HepatitisB
-Zone 6,35-44,19,2003,HepatitisB
+Zone:6,35-44,19,2003,HepatitisB
 Kanchanaburi,35-44,3,2003,HepatitisB
 Nakhon Pathom,35-44,11,2003,HepatitisB
 Ratchaburi,35-44,4,2003,HepatitisB
 Suphan Buri,35-44,1,2003,HepatitisB
-Zone 7,35-44,7,2003,HepatitisB
+Zone:7,35-44,7,2003,HepatitisB
 Phetchaburi,35-44,1,2003,HepatitisB
 Prachuap Khiri Khan,35-44,1,2003,HepatitisB
 Samut Sakhon,35-44,4,2003,HepatitisB
 Samut Songkhram,35-44,1,2003,HepatitisB
-Zone 8,35-44,16,2003,HepatitisB
+Zone:8,35-44,16,2003,HepatitisB
 Chachoengsao,35-44,10,2003,HepatitisB
 Nakhon Nayok,35-44,0,2003,HepatitisB
 Prachin Buri,35-44,3,2003,HepatitisB
 Sa Kaeo,35-44,2,2003,HepatitisB
 Samut Prakan,35-44,1,2003,HepatitisB
-Zone 9,35-44,19,2003,HepatitisB
+Zone:9,35-44,19,2003,HepatitisB
 Chanthaburi,35-44,5,2003,HepatitisB
 Chon Buri,35-44,5,2003,HepatitisB
 Rayong,35-44,6,2003,HepatitisB
 Trat,35-44,3,2003,HepatitisB
 North-Eastern Region,35-44,152,2003,HepatitisB
-Zone 10,35-44,12,2003,HepatitisB
+Zone:10,35-44,12,2003,HepatitisB
 Loei,35-44,5,2003,HepatitisB
 Nong Bua Lam Phu,35-44,4,2003,HepatitisB
 Nong Khai,35-44,1,2003,HepatitisB
 Udon Thani,35-44,2,2003,HepatitisB
-Zone 11,35-44,15,2003,HepatitisB
+Zone:11,35-44,15,2003,HepatitisB
 Kalasin,35-44,7,2003,HepatitisB
 Mukdahan,35-44,5,2003,HepatitisB
 Nakhon Phanom,35-44,1,2003,HepatitisB
 Sakon Nakhon,35-44,2,2003,HepatitisB
-Zone 12,35-44,6,2003,HepatitisB
+Zone:12,35-44,6,2003,HepatitisB
 Khon Kaen,35-44,4,2003,HepatitisB
 Maha Sarakham,35-44,0,2003,HepatitisB
 Roi Et,35-44,2,2003,HepatitisB
-Zone 13,35-44,67,2003,HepatitisB
+Zone:13,35-44,67,2003,HepatitisB
 Buri Ram,35-44,24,2003,HepatitisB
 Chaiyaphum,35-44,15,2003,HepatitisB
 Nakhon Ratchasima,35-44,14,2003,HepatitisB
 Surin,35-44,14,2003,HepatitisB
-Zone 14,35-44,52,2003,HepatitisB
+Zone:14,35-44,52,2003,HepatitisB
 Amnat Charoen,35-44,1,2003,HepatitisB
 Si Sa Ket,35-44,21,2003,HepatitisB
 Ubon Ratchathani,35-44,28,2003,HepatitisB
 Yasothon,35-44,2,2003,HepatitisB
 South Region,35-44,68,2003,HepatitisB
-Zone 15,35-44,6,2003,HepatitisB
+Zone:15,35-44,6,2003,HepatitisB
 Chumphon,35-44,0,2003,HepatitisB
 Ranong,35-44,2,2003,HepatitisB
 Surat Thani,35-44,4,2003,HepatitisB
-Zone 16,35-44,7,2003,HepatitisB
+Zone:16,35-44,7,2003,HepatitisB
 Nakhon Si Thammarat,35-44,1,2003,HepatitisB
 Phatthalung,35-44,0,2003,HepatitisB
 Trang,35-44,6,2003,HepatitisB
-Zone 17,35-44,11,2003,HepatitisB
+Zone:17,35-44,11,2003,HepatitisB
 Krabi,35-44,5,2003,HepatitisB
 Phangnga,35-44,0,2003,HepatitisB
 Phuket,35-44,6,2003,HepatitisB
-Zone 18,35-44,12,2003,HepatitisB
+Zone:18,35-44,12,2003,HepatitisB
 Narathiwat,35-44,3,2003,HepatitisB
 Pattani,35-44,2,2003,HepatitisB
 Yala,35-44,7,2003,HepatitisB
-Zone 19,35-44,32,2003,HepatitisB
+Zone:19,35-44,32,2003,HepatitisB
 Satun,35-44,1,2003,HepatitisB
 Songkhla,35-44,31,2003,HepatitisB
 Total,45-54,290,2003,HepatitisB
 North Region,45-54,86,2003,HepatitisB
-Zone 1,45-54,57,2003,HepatitisB
+Zone:1,45-54,57,2003,HepatitisB
 Chiang Mai,45-54,14,2003,HepatitisB
 Chiang Rai,45-54,11,2003,HepatitisB
 Lampang,45-54,9,2003,HepatitisB
@@ -28716,98 +28716,98 @@ Mae Hong Son,45-54,1,2003,HepatitisB
 Nan,45-54,12,2003,HepatitisB
 Phayao,45-54,6,2003,HepatitisB
 Phrae,45-54,0,2003,HepatitisB
-Zone 2,45-54,14,2003,HepatitisB
+Zone:2,45-54,14,2003,HepatitisB
 Phetchabun,45-54,3,2003,HepatitisB
 Phitsanulok,45-54,0,2003,HepatitisB
 Sukhothai,45-54,5,2003,HepatitisB
 Tak,45-54,3,2003,HepatitisB
 Uttaradit,45-54,3,2003,HepatitisB
-Zone 3,45-54,15,2003,HepatitisB
+Zone:3,45-54,15,2003,HepatitisB
 Kamphaeng Phet,45-54,8,2003,HepatitisB
 Nakhon Sawan,45-54,7,2003,HepatitisB
 Phichit,45-54,0,2003,HepatitisB
 Uthai Thani,45-54,0,2003,HepatitisB
 Central Region,45-54,96,2003,HepatitisB
 Bangkok,45-54,21,2003,HepatitisB
-Zone 4,45-54,21,2003,HepatitisB
+Zone:4,45-54,21,2003,HepatitisB
 Ang Thong,45-54,0,2003,HepatitisB
 Nonthaburi,45-54,9,2003,HepatitisB
 P.Nakhon S.Ayutthaya,45-54,8,2003,HepatitisB
 Pathum Thani,45-54,4,2003,HepatitisB
-Zone 5,45-54,5,2003,HepatitisB
+Zone:5,45-54,5,2003,HepatitisB
 Chai Nat,45-54,1,2003,HepatitisB
 Lop Buri,45-54,2,2003,HepatitisB
 Saraburi,45-54,1,2003,HepatitisB
 Sing Buri,45-54,1,2003,HepatitisB
-Zone 6,45-54,23,2003,HepatitisB
+Zone:6,45-54,23,2003,HepatitisB
 Kanchanaburi,45-54,1,2003,HepatitisB
 Nakhon Pathom,45-54,10,2003,HepatitisB
 Ratchaburi,45-54,10,2003,HepatitisB
 Suphan Buri,45-54,2,2003,HepatitisB
-Zone 7,45-54,2,2003,HepatitisB
+Zone:7,45-54,2,2003,HepatitisB
 Phetchaburi,45-54,1,2003,HepatitisB
 Prachuap Khiri Khan,45-54,0,2003,HepatitisB
 Samut Sakhon,45-54,0,2003,HepatitisB
 Samut Songkhram,45-54,1,2003,HepatitisB
-Zone 8,45-54,11,2003,HepatitisB
+Zone:8,45-54,11,2003,HepatitisB
 Chachoengsao,45-54,7,2003,HepatitisB
 Nakhon Nayok,45-54,0,2003,HepatitisB
 Prachin Buri,45-54,3,2003,HepatitisB
 Sa Kaeo,45-54,1,2003,HepatitisB
 Samut Prakan,45-54,0,2003,HepatitisB
-Zone 9,45-54,13,2003,HepatitisB
+Zone:9,45-54,13,2003,HepatitisB
 Chanthaburi,45-54,5,2003,HepatitisB
 Chon Buri,45-54,0,2003,HepatitisB
 Rayong,45-54,5,2003,HepatitisB
 Trat,45-54,3,2003,HepatitisB
 North-Eastern Region,45-54,72,2003,HepatitisB
-Zone 10,45-54,7,2003,HepatitisB
+Zone:10,45-54,7,2003,HepatitisB
 Loei,45-54,4,2003,HepatitisB
 Nong Bua Lam Phu,45-54,2,2003,HepatitisB
 Nong Khai,45-54,0,2003,HepatitisB
 Udon Thani,45-54,1,2003,HepatitisB
-Zone 11,45-54,3,2003,HepatitisB
+Zone:11,45-54,3,2003,HepatitisB
 Kalasin,45-54,0,2003,HepatitisB
 Mukdahan,45-54,2,2003,HepatitisB
 Nakhon Phanom,45-54,0,2003,HepatitisB
 Sakon Nakhon,45-54,1,2003,HepatitisB
-Zone 12,45-54,2,2003,HepatitisB
+Zone:12,45-54,2,2003,HepatitisB
 Khon Kaen,45-54,2,2003,HepatitisB
 Maha Sarakham,45-54,0,2003,HepatitisB
 Roi Et,45-54,0,2003,HepatitisB
-Zone 13,45-54,32,2003,HepatitisB
+Zone:13,45-54,32,2003,HepatitisB
 Buri Ram,45-54,8,2003,HepatitisB
 Chaiyaphum,45-54,9,2003,HepatitisB
 Nakhon Ratchasima,45-54,7,2003,HepatitisB
 Surin,45-54,8,2003,HepatitisB
-Zone 14,45-54,28,2003,HepatitisB
+Zone:14,45-54,28,2003,HepatitisB
 Amnat Charoen,45-54,2,2003,HepatitisB
 Si Sa Ket,45-54,13,2003,HepatitisB
 Ubon Ratchathani,45-54,9,2003,HepatitisB
 Yasothon,45-54,4,2003,HepatitisB
 South Region,45-54,36,2003,HepatitisB
-Zone 15,45-54,3,2003,HepatitisB
+Zone:15,45-54,3,2003,HepatitisB
 Chumphon,45-54,0,2003,HepatitisB
 Ranong,45-54,0,2003,HepatitisB
 Surat Thani,45-54,3,2003,HepatitisB
-Zone 16,45-54,2,2003,HepatitisB
+Zone:16,45-54,2,2003,HepatitisB
 Nakhon Si Thammarat,45-54,0,2003,HepatitisB
 Phatthalung,45-54,0,2003,HepatitisB
 Trang,45-54,2,2003,HepatitisB
-Zone 17,45-54,5,2003,HepatitisB
+Zone:17,45-54,5,2003,HepatitisB
 Krabi,45-54,5,2003,HepatitisB
 Phangnga,45-54,0,2003,HepatitisB
 Phuket,45-54,0,2003,HepatitisB
-Zone 18,45-54,10,2003,HepatitisB
+Zone:18,45-54,10,2003,HepatitisB
 Narathiwat,45-54,4,2003,HepatitisB
 Pattani,45-54,2,2003,HepatitisB
 Yala,45-54,4,2003,HepatitisB
-Zone 19,45-54,16,2003,HepatitisB
+Zone:19,45-54,16,2003,HepatitisB
 Satun,45-54,0,2003,HepatitisB
 Songkhla,45-54,16,2003,HepatitisB
 Total,55-64,161,2003,HepatitisB
 North Region,55-64,43,2003,HepatitisB
-Zone 1,55-64,19,2003,HepatitisB
+Zone:1,55-64,19,2003,HepatitisB
 Chiang Mai,55-64,3,2003,HepatitisB
 Chiang Rai,55-64,2,2003,HepatitisB
 Lampang,55-64,2,2003,HepatitisB
@@ -28816,98 +28816,98 @@ Mae Hong Son,55-64,0,2003,HepatitisB
 Nan,55-64,4,2003,HepatitisB
 Phayao,55-64,6,2003,HepatitisB
 Phrae,55-64,1,2003,HepatitisB
-Zone 2,55-64,13,2003,HepatitisB
+Zone:2,55-64,13,2003,HepatitisB
 Phetchabun,55-64,2,2003,HepatitisB
 Phitsanulok,55-64,0,2003,HepatitisB
 Sukhothai,55-64,6,2003,HepatitisB
 Tak,55-64,3,2003,HepatitisB
 Uttaradit,55-64,2,2003,HepatitisB
-Zone 3,55-64,11,2003,HepatitisB
+Zone:3,55-64,11,2003,HepatitisB
 Kamphaeng Phet,55-64,5,2003,HepatitisB
 Nakhon Sawan,55-64,3,2003,HepatitisB
 Phichit,55-64,2,2003,HepatitisB
 Uthai Thani,55-64,1,2003,HepatitisB
 Central Region,55-64,38,2003,HepatitisB
 Bangkok,55-64,11,2003,HepatitisB
-Zone 4,55-64,7,2003,HepatitisB
+Zone:4,55-64,7,2003,HepatitisB
 Ang Thong,55-64,0,2003,HepatitisB
 Nonthaburi,55-64,2,2003,HepatitisB
 P.Nakhon S.Ayutthaya,55-64,4,2003,HepatitisB
 Pathum Thani,55-64,1,2003,HepatitisB
-Zone 5,55-64,4,2003,HepatitisB
+Zone:5,55-64,4,2003,HepatitisB
 Chai Nat,55-64,2,2003,HepatitisB
 Lop Buri,55-64,0,2003,HepatitisB
 Saraburi,55-64,0,2003,HepatitisB
 Sing Buri,55-64,2,2003,HepatitisB
-Zone 6,55-64,9,2003,HepatitisB
+Zone:6,55-64,9,2003,HepatitisB
 Kanchanaburi,55-64,4,2003,HepatitisB
 Nakhon Pathom,55-64,3,2003,HepatitisB
 Ratchaburi,55-64,2,2003,HepatitisB
 Suphan Buri,55-64,0,2003,HepatitisB
-Zone 7,55-64,3,2003,HepatitisB
+Zone:7,55-64,3,2003,HepatitisB
 Phetchaburi,55-64,2,2003,HepatitisB
 Prachuap Khiri Khan,55-64,1,2003,HepatitisB
 Samut Sakhon,55-64,0,2003,HepatitisB
 Samut Songkhram,55-64,0,2003,HepatitisB
-Zone 8,55-64,2,2003,HepatitisB
+Zone:8,55-64,2,2003,HepatitisB
 Chachoengsao,55-64,2,2003,HepatitisB
 Nakhon Nayok,55-64,0,2003,HepatitisB
 Prachin Buri,55-64,0,2003,HepatitisB
 Sa Kaeo,55-64,0,2003,HepatitisB
 Samut Prakan,55-64,0,2003,HepatitisB
-Zone 9,55-64,2,2003,HepatitisB
+Zone:9,55-64,2,2003,HepatitisB
 Chanthaburi,55-64,0,2003,HepatitisB
 Chon Buri,55-64,1,2003,HepatitisB
 Rayong,55-64,0,2003,HepatitisB
 Trat,55-64,1,2003,HepatitisB
 North-Eastern Region,55-64,55,2003,HepatitisB
-Zone 10,55-64,7,2003,HepatitisB
+Zone:10,55-64,7,2003,HepatitisB
 Loei,55-64,3,2003,HepatitisB
 Nong Bua Lam Phu,55-64,1,2003,HepatitisB
 Nong Khai,55-64,2,2003,HepatitisB
 Udon Thani,55-64,1,2003,HepatitisB
-Zone 11,55-64,1,2003,HepatitisB
+Zone:11,55-64,1,2003,HepatitisB
 Kalasin,55-64,1,2003,HepatitisB
 Mukdahan,55-64,0,2003,HepatitisB
 Nakhon Phanom,55-64,0,2003,HepatitisB
 Sakon Nakhon,55-64,0,2003,HepatitisB
-Zone 12,55-64,3,2003,HepatitisB
+Zone:12,55-64,3,2003,HepatitisB
 Khon Kaen,55-64,0,2003,HepatitisB
 Maha Sarakham,55-64,0,2003,HepatitisB
 Roi Et,55-64,3,2003,HepatitisB
-Zone 13,55-64,35,2003,HepatitisB
+Zone:13,55-64,35,2003,HepatitisB
 Buri Ram,55-64,14,2003,HepatitisB
 Chaiyaphum,55-64,7,2003,HepatitisB
 Nakhon Ratchasima,55-64,5,2003,HepatitisB
 Surin,55-64,9,2003,HepatitisB
-Zone 14,55-64,9,2003,HepatitisB
+Zone:14,55-64,9,2003,HepatitisB
 Amnat Charoen,55-64,1,2003,HepatitisB
 Si Sa Ket,55-64,5,2003,HepatitisB
 Ubon Ratchathani,55-64,3,2003,HepatitisB
 Yasothon,55-64,0,2003,HepatitisB
 South Region,55-64,25,2003,HepatitisB
-Zone 15,55-64,5,2003,HepatitisB
+Zone:15,55-64,5,2003,HepatitisB
 Chumphon,55-64,1,2003,HepatitisB
 Ranong,55-64,1,2003,HepatitisB
 Surat Thani,55-64,3,2003,HepatitisB
-Zone 16,55-64,1,2003,HepatitisB
+Zone:16,55-64,1,2003,HepatitisB
 Nakhon Si Thammarat,55-64,0,2003,HepatitisB
 Phatthalung,55-64,0,2003,HepatitisB
 Trang,55-64,1,2003,HepatitisB
-Zone 17,55-64,2,2003,HepatitisB
+Zone:17,55-64,2,2003,HepatitisB
 Krabi,55-64,1,2003,HepatitisB
 Phangnga,55-64,0,2003,HepatitisB
 Phuket,55-64,1,2003,HepatitisB
-Zone 18,55-64,7,2003,HepatitisB
+Zone:18,55-64,7,2003,HepatitisB
 Narathiwat,55-64,1,2003,HepatitisB
 Pattani,55-64,3,2003,HepatitisB
 Yala,55-64,3,2003,HepatitisB
-Zone 19,55-64,10,2003,HepatitisB
+Zone:19,55-64,10,2003,HepatitisB
 Satun,55-64,0,2003,HepatitisB
 Songkhla,55-64,10,2003,HepatitisB
 Total,65+,98,2003,HepatitisB
 North Region,65+,18,2003,HepatitisB
-Zone 1,65+,6,2003,HepatitisB
+Zone:1,65+,6,2003,HepatitisB
 Chiang Mai,65+,1,2003,HepatitisB
 Chiang Rai,65+,1,2003,HepatitisB
 Lampang,65+,0,2003,HepatitisB
@@ -28916,98 +28916,98 @@ Mae Hong Son,65+,1,2003,HepatitisB
 Nan,65+,0,2003,HepatitisB
 Phayao,65+,2,2003,HepatitisB
 Phrae,65+,0,2003,HepatitisB
-Zone 2,65+,5,2003,HepatitisB
+Zone:2,65+,5,2003,HepatitisB
 Phetchabun,65+,0,2003,HepatitisB
 Phitsanulok,65+,2,2003,HepatitisB
 Sukhothai,65+,2,2003,HepatitisB
 Tak,65+,0,2003,HepatitisB
 Uttaradit,65+,1,2003,HepatitisB
-Zone 3,65+,7,2003,HepatitisB
+Zone:3,65+,7,2003,HepatitisB
 Kamphaeng Phet,65+,3,2003,HepatitisB
 Nakhon Sawan,65+,2,2003,HepatitisB
 Phichit,65+,0,2003,HepatitisB
 Uthai Thani,65+,2,2003,HepatitisB
 Central Region,65+,28,2003,HepatitisB
 Bangkok,65+,5,2003,HepatitisB
-Zone 4,65+,9,2003,HepatitisB
+Zone:4,65+,9,2003,HepatitisB
 Ang Thong,65+,1,2003,HepatitisB
 Nonthaburi,65+,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,65+,7,2003,HepatitisB
 Pathum Thani,65+,1,2003,HepatitisB
-Zone 5,65+,2,2003,HepatitisB
+Zone:5,65+,2,2003,HepatitisB
 Chai Nat,65+,0,2003,HepatitisB
 Lop Buri,65+,0,2003,HepatitisB
 Saraburi,65+,0,2003,HepatitisB
 Sing Buri,65+,2,2003,HepatitisB
-Zone 6,65+,7,2003,HepatitisB
+Zone:6,65+,7,2003,HepatitisB
 Kanchanaburi,65+,3,2003,HepatitisB
 Nakhon Pathom,65+,1,2003,HepatitisB
 Ratchaburi,65+,3,2003,HepatitisB
 Suphan Buri,65+,0,2003,HepatitisB
-Zone 7,65+,2,2003,HepatitisB
+Zone:7,65+,2,2003,HepatitisB
 Phetchaburi,65+,1,2003,HepatitisB
 Prachuap Khiri Khan,65+,0,2003,HepatitisB
 Samut Sakhon,65+,0,2003,HepatitisB
 Samut Songkhram,65+,1,2003,HepatitisB
-Zone 8,65+,2,2003,HepatitisB
+Zone:8,65+,2,2003,HepatitisB
 Chachoengsao,65+,0,2003,HepatitisB
 Nakhon Nayok,65+,0,2003,HepatitisB
 Prachin Buri,65+,1,2003,HepatitisB
 Sa Kaeo,65+,1,2003,HepatitisB
 Samut Prakan,65+,0,2003,HepatitisB
-Zone 9,65+,1,2003,HepatitisB
+Zone:9,65+,1,2003,HepatitisB
 Chanthaburi,65+,1,2003,HepatitisB
 Chon Buri,65+,0,2003,HepatitisB
 Rayong,65+,0,2003,HepatitisB
 Trat,65+,0,2003,HepatitisB
 North-Eastern Region,65+,31,2003,HepatitisB
-Zone 10,65+,5,2003,HepatitisB
+Zone:10,65+,5,2003,HepatitisB
 Loei,65+,2,2003,HepatitisB
 Nong Bua Lam Phu,65+,0,2003,HepatitisB
 Nong Khai,65+,1,2003,HepatitisB
 Udon Thani,65+,2,2003,HepatitisB
-Zone 11,65+,2,2003,HepatitisB
+Zone:11,65+,2,2003,HepatitisB
 Kalasin,65+,1,2003,HepatitisB
 Mukdahan,65+,1,2003,HepatitisB
 Nakhon Phanom,65+,0,2003,HepatitisB
 Sakon Nakhon,65+,0,2003,HepatitisB
-Zone 12,65+,1,2003,HepatitisB
+Zone:12,65+,1,2003,HepatitisB
 Khon Kaen,65+,1,2003,HepatitisB
 Maha Sarakham,65+,0,2003,HepatitisB
 Roi Et,65+,0,2003,HepatitisB
-Zone 13,65+,16,2003,HepatitisB
+Zone:13,65+,16,2003,HepatitisB
 Buri Ram,65+,5,2003,HepatitisB
 Chaiyaphum,65+,2,2003,HepatitisB
 Nakhon Ratchasima,65+,5,2003,HepatitisB
 Surin,65+,4,2003,HepatitisB
-Zone 14,65+,7,2003,HepatitisB
+Zone:14,65+,7,2003,HepatitisB
 Amnat Charoen,65+,1,2003,HepatitisB
 Si Sa Ket,65+,2,2003,HepatitisB
 Ubon Ratchathani,65+,4,2003,HepatitisB
 Yasothon,65+,0,2003,HepatitisB
 South Region,65+,21,2003,HepatitisB
-Zone 15,65+,7,2003,HepatitisB
+Zone:15,65+,7,2003,HepatitisB
 Chumphon,65+,0,2003,HepatitisB
 Ranong,65+,0,2003,HepatitisB
 Surat Thani,65+,7,2003,HepatitisB
-Zone 16,65+,2,2003,HepatitisB
+Zone:16,65+,2,2003,HepatitisB
 Nakhon Si Thammarat,65+,1,2003,HepatitisB
 Phatthalung,65+,1,2003,HepatitisB
 Trang,65+,0,2003,HepatitisB
-Zone 17,65+,3,2003,HepatitisB
+Zone:17,65+,3,2003,HepatitisB
 Krabi,65+,1,2003,HepatitisB
 Phangnga,65+,0,2003,HepatitisB
 Phuket,65+,2,2003,HepatitisB
-Zone 18,65+,3,2003,HepatitisB
+Zone:18,65+,3,2003,HepatitisB
 Narathiwat,65+,1,2003,HepatitisB
 Pattani,65+,2,2003,HepatitisB
 Yala,65+,0,2003,HepatitisB
-Zone 19,65+,6,2003,HepatitisB
+Zone:19,65+,6,2003,HepatitisB
 Satun,65+,0,2003,HepatitisB
 Songkhla,65+,6,2003,HepatitisB
 Total,Unknown,1,2003,HepatitisB
 North Region,Unknown,0,2003,HepatitisB
-Zone 1,Unknown,0,2003,HepatitisB
+Zone:1,Unknown,0,2003,HepatitisB
 Chiang Mai,Unknown,0,2003,HepatitisB
 Chiang Rai,Unknown,0,2003,HepatitisB
 Lampang,Unknown,0,2003,HepatitisB
@@ -29016,93 +29016,93 @@ Mae Hong Son,Unknown,0,2003,HepatitisB
 Nan,Unknown,0,2003,HepatitisB
 Phayao,Unknown,0,2003,HepatitisB
 Phrae,Unknown,0,2003,HepatitisB
-Zone 2,Unknown,0,2003,HepatitisB
+Zone:2,Unknown,0,2003,HepatitisB
 Phetchabun,Unknown,0,2003,HepatitisB
 Phitsanulok,Unknown,0,2003,HepatitisB
 Sukhothai,Unknown,0,2003,HepatitisB
 Tak,Unknown,0,2003,HepatitisB
 Uttaradit,Unknown,0,2003,HepatitisB
-Zone 3,Unknown,0,2003,HepatitisB
+Zone:3,Unknown,0,2003,HepatitisB
 Kamphaeng Phet,Unknown,0,2003,HepatitisB
 Nakhon Sawan,Unknown,0,2003,HepatitisB
 Phichit,Unknown,0,2003,HepatitisB
 Uthai Thani,Unknown,0,2003,HepatitisB
 Central Region,Unknown,1,2003,HepatitisB
 Bangkok,Unknown,1,2003,HepatitisB
-Zone 4,Unknown,0,2003,HepatitisB
+Zone:4,Unknown,0,2003,HepatitisB
 Ang Thong,Unknown,0,2003,HepatitisB
 Nonthaburi,Unknown,0,2003,HepatitisB
 P.Nakhon S.Ayutthaya,Unknown,0,2003,HepatitisB
 Pathum Thani,Unknown,0,2003,HepatitisB
-Zone 5,Unknown,0,2003,HepatitisB
+Zone:5,Unknown,0,2003,HepatitisB
 Chai Nat,Unknown,0,2003,HepatitisB
 Lop Buri,Unknown,0,2003,HepatitisB
 Saraburi,Unknown,0,2003,HepatitisB
 Sing Buri,Unknown,0,2003,HepatitisB
-Zone 6,Unknown,0,2003,HepatitisB
+Zone:6,Unknown,0,2003,HepatitisB
 Kanchanaburi,Unknown,0,2003,HepatitisB
 Nakhon Pathom,Unknown,0,2003,HepatitisB
 Ratchaburi,Unknown,0,2003,HepatitisB
 Suphan Buri,Unknown,0,2003,HepatitisB
-Zone 7,Unknown,0,2003,HepatitisB
+Zone:7,Unknown,0,2003,HepatitisB
 Phetchaburi,Unknown,0,2003,HepatitisB
 Prachuap Khiri Khan,Unknown,0,2003,HepatitisB
 Samut Sakhon,Unknown,0,2003,HepatitisB
 Samut Songkhram,Unknown,0,2003,HepatitisB
-Zone 8,Unknown,0,2003,HepatitisB
+Zone:8,Unknown,0,2003,HepatitisB
 Chachoengsao,Unknown,0,2003,HepatitisB
 Nakhon Nayok,Unknown,0,2003,HepatitisB
 Prachin Buri,Unknown,0,2003,HepatitisB
 Sa Kaeo,Unknown,0,2003,HepatitisB
 Samut Prakan,Unknown,0,2003,HepatitisB
-Zone 9,Unknown,0,2003,HepatitisB
+Zone:9,Unknown,0,2003,HepatitisB
 Chanthaburi,Unknown,0,2003,HepatitisB
 Chon Buri,Unknown,0,2003,HepatitisB
 Rayong,Unknown,0,2003,HepatitisB
 Trat,Unknown,0,2003,HepatitisB
 North-Eastern Region,Unknown,0,2003,HepatitisB
-Zone 10,Unknown,0,2003,HepatitisB
+Zone:10,Unknown,0,2003,HepatitisB
 Loei,Unknown,0,2003,HepatitisB
 Nong Bua Lam Phu,Unknown,0,2003,HepatitisB
 Nong Khai,Unknown,0,2003,HepatitisB
 Udon Thani,Unknown,0,2003,HepatitisB
-Zone 11,Unknown,0,2003,HepatitisB
+Zone:11,Unknown,0,2003,HepatitisB
 Kalasin,Unknown,0,2003,HepatitisB
 Mukdahan,Unknown,0,2003,HepatitisB
 Nakhon Phanom,Unknown,0,2003,HepatitisB
 Sakon Nakhon,Unknown,0,2003,HepatitisB
-Zone 12,Unknown,0,2003,HepatitisB
+Zone:12,Unknown,0,2003,HepatitisB
 Khon Kaen,Unknown,0,2003,HepatitisB
 Maha Sarakham,Unknown,0,2003,HepatitisB
 Roi Et,Unknown,0,2003,HepatitisB
-Zone 13,Unknown,0,2003,HepatitisB
+Zone:13,Unknown,0,2003,HepatitisB
 Buri Ram,Unknown,0,2003,HepatitisB
 Chaiyaphum,Unknown,0,2003,HepatitisB
 Nakhon Ratchasima,Unknown,0,2003,HepatitisB
 Surin,Unknown,0,2003,HepatitisB
-Zone 14,Unknown,0,2003,HepatitisB
+Zone:14,Unknown,0,2003,HepatitisB
 Amnat Charoen,Unknown,0,2003,HepatitisB
 Si Sa Ket,Unknown,0,2003,HepatitisB
 Ubon Ratchathani,Unknown,0,2003,HepatitisB
 Yasothon,Unknown,0,2003,HepatitisB
 South Region,Unknown,0,2003,HepatitisB
-Zone 15,Unknown,0,2003,HepatitisB
+Zone:15,Unknown,0,2003,HepatitisB
 Chumphon,Unknown,0,2003,HepatitisB
 Ranong,Unknown,0,2003,HepatitisB
 Surat Thani,Unknown,0,2003,HepatitisB
-Zone 16,Unknown,0,2003,HepatitisB
+Zone:16,Unknown,0,2003,HepatitisB
 Nakhon Si Thammarat,Unknown,0,2003,HepatitisB
 Phatthalung,Unknown,0,2003,HepatitisB
 Trang,Unknown,0,2003,HepatitisB
-Zone 17,Unknown,0,2003,HepatitisB
+Zone:17,Unknown,0,2003,HepatitisB
 Krabi,Unknown,0,2003,HepatitisB
 Phangnga,Unknown,0,2003,HepatitisB
 Phuket,Unknown,0,2003,HepatitisB
-Zone 18,Unknown,0,2003,HepatitisB
+Zone:18,Unknown,0,2003,HepatitisB
 Narathiwat,Unknown,0,2003,HepatitisB
 Pattani,Unknown,0,2003,HepatitisB
 Yala,Unknown,0,2003,HepatitisB
-Zone 19,Unknown,0,2003,HepatitisB
+Zone:19,Unknown,0,2003,HepatitisB
 Satun,Unknown,0,2003,HepatitisB
 Songkhla,Unknown,0,2003,HepatitisB
 Total,Total,6184,2013,HepatitisB

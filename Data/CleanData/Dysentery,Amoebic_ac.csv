@@ -8533,7 +8533,7 @@ ZONE:13,Unknown,0,2019,Dysentery
 Bangkok,Unknown,0,2019,Dysentery
 Total,Total,2492,2004,Dysentery
 North Region,Total,1169,2004,Dysentery
-Zone 1,Total,931,2004,Dysentery
+Zone:1,Total,931,2004,Dysentery
 Chiang Mai,Total,360,2004,Dysentery
 Chiang Rai,Total,29,2004,Dysentery
 Lampang,Total,85,2004,Dysentery
@@ -8542,98 +8542,98 @@ Mae Hong Son,Total,402,2004,Dysentery
 Nan,Total,36,2004,Dysentery
 Phayao,Total,3,2004,Dysentery
 Phrae,Total,15,2004,Dysentery
-Zone 2,Total,159,2004,Dysentery
+Zone:2,Total,159,2004,Dysentery
 Phetchabun,Total,57,2004,Dysentery
 Phitsanulok,Total,67,2004,Dysentery
 Sukhothai,Total,2,2004,Dysentery
 Tak,Total,28,2004,Dysentery
 Uttaradit,Total,5,2004,Dysentery
-Zone 3,Total,79,2004,Dysentery
+Zone:3,Total,79,2004,Dysentery
 Kamphaeng Phet,Total,47,2004,Dysentery
 Nakhon Sawan,Total,22,2004,Dysentery
 Phichit,Total,1,2004,Dysentery
 Uthai Thani,Total,9,2004,Dysentery
 Central Region,Total,159,2004,Dysentery
 Bangkok,Total,8,2004,Dysentery
-Zone 4,Total,19,2004,Dysentery
+Zone:4,Total,19,2004,Dysentery
 Ang Thong,Total,0,2004,Dysentery
 Nonthaburi,Total,6,2004,Dysentery
 P.Nakhon S.Ayutthaya,Total,6,2004,Dysentery
 Pathum Thani,Total,7,2004,Dysentery
-Zone 5,Total,16,2004,Dysentery
+Zone:5,Total,16,2004,Dysentery
 Chai Nat,Total,0,2004,Dysentery
 Lop Buri,Total,8,2004,Dysentery
 Saraburi,Total,7,2004,Dysentery
 Sing Buri,Total,1,2004,Dysentery
-Zone 6,Total,20,2004,Dysentery
+Zone:6,Total,20,2004,Dysentery
 Kanchanaburi,Total,2,2004,Dysentery
 Nakhon Pathom,Total,5,2004,Dysentery
 Ratchaburi,Total,6,2004,Dysentery
 Suphan Buri,Total,7,2004,Dysentery
-Zone 7,Total,20,2004,Dysentery
+Zone:7,Total,20,2004,Dysentery
 Phetchaburi,Total,6,2004,Dysentery
 Prachuap Khiri Khan,Total,12,2004,Dysentery
 Samut Sakhon,Total,1,2004,Dysentery
 Samut Songkhram,Total,1,2004,Dysentery
-Zone 8,Total,33,2004,Dysentery
+Zone:8,Total,33,2004,Dysentery
 Chachoengsao,Total,15,2004,Dysentery
 Nakhon Nayok,Total,0,2004,Dysentery
 Prachin Buri,Total,5,2004,Dysentery
 Sa Kaeo,Total,8,2004,Dysentery
 Samut Prakan,Total,5,2004,Dysentery
-Zone 9,Total,43,2004,Dysentery
+Zone:9,Total,43,2004,Dysentery
 Chanthaburi,Total,4,2004,Dysentery
 Chon Buri,Total,25,2004,Dysentery
 Rayong,Total,5,2004,Dysentery
 Trat,Total,9,2004,Dysentery
 North-Eastern Region,Total,766,2004,Dysentery
-Zone 10,Total,244,2004,Dysentery
+Zone:10,Total,244,2004,Dysentery
 Loei,Total,12,2004,Dysentery
 Nong Bua Lam Phu,Total,7,2004,Dysentery
 Nong Khai,Total,22,2004,Dysentery
 Udon Thani,Total,203,2004,Dysentery
-Zone 11,Total,65,2004,Dysentery
+Zone:11,Total,65,2004,Dysentery
 Kalasin,Total,7,2004,Dysentery
 Mukdahan,Total,14,2004,Dysentery
 Nakhon Phanom,Total,29,2004,Dysentery
 Sakon Nakhon,Total,15,2004,Dysentery
-Zone 12,Total,78,2004,Dysentery
+Zone:12,Total,78,2004,Dysentery
 Khon Kaen,Total,46,2004,Dysentery
 Maha Sarakham,Total,5,2004,Dysentery
 Roi Et,Total,27,2004,Dysentery
-Zone 13,Total,159,2004,Dysentery
+Zone:13,Total,159,2004,Dysentery
 Buri Ram,Total,72,2004,Dysentery
 Chaiyaphum,Total,10,2004,Dysentery
 Nakhon Ratchasima,Total,33,2004,Dysentery
 Surin,Total,44,2004,Dysentery
-Zone 14,Total,220,2004,Dysentery
+Zone:14,Total,220,2004,Dysentery
 Amnat Charoen,Total,2,2004,Dysentery
 Si Sa Ket,Total,151,2004,Dysentery
 Ubon Ratchathani,Total,47,2004,Dysentery
 Yasothon,Total,20,2004,Dysentery
 South Region,Total,398,2004,Dysentery
-Zone 15,Total,62,2004,Dysentery
+Zone:15,Total,62,2004,Dysentery
 Chumphon,Total,7,2004,Dysentery
 Ranong,Total,11,2004,Dysentery
 Surat Thani,Total,44,2004,Dysentery
-Zone 16,Total,80,2004,Dysentery
+Zone:16,Total,80,2004,Dysentery
 Nakhon Si Thammarat,Total,51,2004,Dysentery
 Phatthalung,Total,0,2004,Dysentery
 Trang,Total,29,2004,Dysentery
-Zone 17,Total,17,2004,Dysentery
+Zone:17,Total,17,2004,Dysentery
 Krabi,Total,3,2004,Dysentery
 Phangnga,Total,4,2004,Dysentery
 Phuket,Total,10,2004,Dysentery
-Zone 18,Total,220,2004,Dysentery
+Zone:18,Total,220,2004,Dysentery
 Narathiwat,Total,145,2004,Dysentery
 Pattani,Total,22,2004,Dysentery
 Yala,Total,53,2004,Dysentery
-Zone 19,Total,19,2004,Dysentery
+Zone:19,Total,19,2004,Dysentery
 Satun,Total,2,2004,Dysentery
 Songkhla,Total,17,2004,Dysentery
 Total,0,1,2004,Dysentery
 North Region,0,0,2004,Dysentery
-Zone 1,0,0,2004,Dysentery
+Zone:1,0,0,2004,Dysentery
 Chiang Mai,0,0,2004,Dysentery
 Chiang Rai,0,0,2004,Dysentery
 Lampang,0,0,2004,Dysentery
@@ -8642,98 +8642,98 @@ Mae Hong Son,0,0,2004,Dysentery
 Nan,0,0,2004,Dysentery
 Phayao,0,0,2004,Dysentery
 Phrae,0,0,2004,Dysentery
-Zone 2,0,0,2004,Dysentery
+Zone:2,0,0,2004,Dysentery
 Phetchabun,0,0,2004,Dysentery
 Phitsanulok,0,0,2004,Dysentery
 Sukhothai,0,0,2004,Dysentery
 Tak,0,0,2004,Dysentery
 Uttaradit,0,0,2004,Dysentery
-Zone 3,0,0,2004,Dysentery
+Zone:3,0,0,2004,Dysentery
 Kamphaeng Phet,0,0,2004,Dysentery
 Nakhon Sawan,0,0,2004,Dysentery
 Phichit,0,0,2004,Dysentery
 Uthai Thani,0,0,2004,Dysentery
 Central Region,0,0,2004,Dysentery
 Bangkok,0,0,2004,Dysentery
-Zone 4,0,0,2004,Dysentery
+Zone:4,0,0,2004,Dysentery
 Ang Thong,0,0,2004,Dysentery
 Nonthaburi,0,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,0,0,2004,Dysentery
 Pathum Thani,0,0,2004,Dysentery
-Zone 5,0,0,2004,Dysentery
+Zone:5,0,0,2004,Dysentery
 Chai Nat,0,0,2004,Dysentery
 Lop Buri,0,0,2004,Dysentery
 Saraburi,0,0,2004,Dysentery
 Sing Buri,0,0,2004,Dysentery
-Zone 6,0,0,2004,Dysentery
+Zone:6,0,0,2004,Dysentery
 Kanchanaburi,0,0,2004,Dysentery
 Nakhon Pathom,0,0,2004,Dysentery
 Ratchaburi,0,0,2004,Dysentery
 Suphan Buri,0,0,2004,Dysentery
-Zone 7,0,0,2004,Dysentery
+Zone:7,0,0,2004,Dysentery
 Phetchaburi,0,0,2004,Dysentery
 Prachuap Khiri Khan,0,0,2004,Dysentery
 Samut Sakhon,0,0,2004,Dysentery
 Samut Songkhram,0,0,2004,Dysentery
-Zone 8,0,0,2004,Dysentery
+Zone:8,0,0,2004,Dysentery
 Chachoengsao,0,0,2004,Dysentery
 Nakhon Nayok,0,0,2004,Dysentery
 Prachin Buri,0,0,2004,Dysentery
 Sa Kaeo,0,0,2004,Dysentery
 Samut Prakan,0,0,2004,Dysentery
-Zone 9,0,0,2004,Dysentery
+Zone:9,0,0,2004,Dysentery
 Chanthaburi,0,0,2004,Dysentery
 Chon Buri,0,0,2004,Dysentery
 Rayong,0,0,2004,Dysentery
 Trat,0,0,2004,Dysentery
 North-Eastern Region,0,0,2004,Dysentery
-Zone 10,0,0,2004,Dysentery
+Zone:10,0,0,2004,Dysentery
 Loei,0,0,2004,Dysentery
 Nong Bua Lam Phu,0,0,2004,Dysentery
 Nong Khai,0,0,2004,Dysentery
 Udon Thani,0,0,2004,Dysentery
-Zone 11,0,0,2004,Dysentery
+Zone:11,0,0,2004,Dysentery
 Kalasin,0,0,2004,Dysentery
 Mukdahan,0,0,2004,Dysentery
 Nakhon Phanom,0,0,2004,Dysentery
 Sakon Nakhon,0,0,2004,Dysentery
-Zone 12,0,0,2004,Dysentery
+Zone:12,0,0,2004,Dysentery
 Khon Kaen,0,0,2004,Dysentery
 Maha Sarakham,0,0,2004,Dysentery
 Roi Et,0,0,2004,Dysentery
-Zone 13,0,0,2004,Dysentery
+Zone:13,0,0,2004,Dysentery
 Buri Ram,0,0,2004,Dysentery
 Chaiyaphum,0,0,2004,Dysentery
 Nakhon Ratchasima,0,0,2004,Dysentery
 Surin,0,0,2004,Dysentery
-Zone 14,0,0,2004,Dysentery
+Zone:14,0,0,2004,Dysentery
 Amnat Charoen,0,0,2004,Dysentery
 Si Sa Ket,0,0,2004,Dysentery
 Ubon Ratchathani,0,0,2004,Dysentery
 Yasothon,0,0,2004,Dysentery
 South Region,0,1,2004,Dysentery
-Zone 15,0,0,2004,Dysentery
+Zone:15,0,0,2004,Dysentery
 Chumphon,0,0,2004,Dysentery
 Ranong,0,0,2004,Dysentery
 Surat Thani,0,0,2004,Dysentery
-Zone 16,0,0,2004,Dysentery
+Zone:16,0,0,2004,Dysentery
 Nakhon Si Thammarat,0,0,2004,Dysentery
 Phatthalung,0,0,2004,Dysentery
 Trang,0,0,2004,Dysentery
-Zone 17,0,0,2004,Dysentery
+Zone:17,0,0,2004,Dysentery
 Krabi,0,0,2004,Dysentery
 Phangnga,0,0,2004,Dysentery
 Phuket,0,0,2004,Dysentery
-Zone 18,0,1,2004,Dysentery
+Zone:18,0,1,2004,Dysentery
 Narathiwat,0,1,2004,Dysentery
 Pattani,0,0,2004,Dysentery
 Yala,0,0,2004,Dysentery
-Zone 19,0,0,2004,Dysentery
+Zone:19,0,0,2004,Dysentery
 Satun,0,0,2004,Dysentery
 Songkhla,0,0,2004,Dysentery
 Total,<1,202,2004,Dysentery
 North Region,<1,86,2004,Dysentery
-Zone 1,<1,58,2004,Dysentery
+Zone:1,<1,58,2004,Dysentery
 Chiang Mai,<1,15,2004,Dysentery
 Chiang Rai,<1,1,2004,Dysentery
 Lampang,<1,3,2004,Dysentery
@@ -8742,98 +8742,98 @@ Mae Hong Son,<1,35,2004,Dysentery
 Nan,<1,4,2004,Dysentery
 Phayao,<1,0,2004,Dysentery
 Phrae,<1,0,2004,Dysentery
-Zone 2,<1,22,2004,Dysentery
+Zone:2,<1,22,2004,Dysentery
 Phetchabun,<1,9,2004,Dysentery
 Phitsanulok,<1,8,2004,Dysentery
 Sukhothai,<1,1,2004,Dysentery
 Tak,<1,3,2004,Dysentery
 Uttaradit,<1,1,2004,Dysentery
-Zone 3,<1,6,2004,Dysentery
+Zone:3,<1,6,2004,Dysentery
 Kamphaeng Phet,<1,0,2004,Dysentery
 Nakhon Sawan,<1,5,2004,Dysentery
 Phichit,<1,0,2004,Dysentery
 Uthai Thani,<1,1,2004,Dysentery
 Central Region,<1,9,2004,Dysentery
 Bangkok,<1,0,2004,Dysentery
-Zone 4,<1,3,2004,Dysentery
+Zone:4,<1,3,2004,Dysentery
 Ang Thong,<1,0,2004,Dysentery
 Nonthaburi,<1,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,<1,2,2004,Dysentery
 Pathum Thani,<1,1,2004,Dysentery
-Zone 5,<1,0,2004,Dysentery
+Zone:5,<1,0,2004,Dysentery
 Chai Nat,<1,0,2004,Dysentery
 Lop Buri,<1,0,2004,Dysentery
 Saraburi,<1,0,2004,Dysentery
 Sing Buri,<1,0,2004,Dysentery
-Zone 6,<1,0,2004,Dysentery
+Zone:6,<1,0,2004,Dysentery
 Kanchanaburi,<1,0,2004,Dysentery
 Nakhon Pathom,<1,0,2004,Dysentery
 Ratchaburi,<1,0,2004,Dysentery
 Suphan Buri,<1,0,2004,Dysentery
-Zone 7,<1,3,2004,Dysentery
+Zone:7,<1,3,2004,Dysentery
 Phetchaburi,<1,2,2004,Dysentery
 Prachuap Khiri Khan,<1,1,2004,Dysentery
 Samut Sakhon,<1,0,2004,Dysentery
 Samut Songkhram,<1,0,2004,Dysentery
-Zone 8,<1,1,2004,Dysentery
+Zone:8,<1,1,2004,Dysentery
 Chachoengsao,<1,1,2004,Dysentery
 Nakhon Nayok,<1,0,2004,Dysentery
 Prachin Buri,<1,0,2004,Dysentery
 Sa Kaeo,<1,0,2004,Dysentery
 Samut Prakan,<1,0,2004,Dysentery
-Zone 9,<1,2,2004,Dysentery
+Zone:9,<1,2,2004,Dysentery
 Chanthaburi,<1,0,2004,Dysentery
 Chon Buri,<1,1,2004,Dysentery
 Rayong,<1,1,2004,Dysentery
 Trat,<1,0,2004,Dysentery
 North-Eastern Region,<1,70,2004,Dysentery
-Zone 10,<1,23,2004,Dysentery
+Zone:10,<1,23,2004,Dysentery
 Loei,<1,0,2004,Dysentery
 Nong Bua Lam Phu,<1,1,2004,Dysentery
 Nong Khai,<1,3,2004,Dysentery
 Udon Thani,<1,19,2004,Dysentery
-Zone 11,<1,8,2004,Dysentery
+Zone:11,<1,8,2004,Dysentery
 Kalasin,<1,1,2004,Dysentery
 Mukdahan,<1,2,2004,Dysentery
 Nakhon Phanom,<1,4,2004,Dysentery
 Sakon Nakhon,<1,1,2004,Dysentery
-Zone 12,<1,7,2004,Dysentery
+Zone:12,<1,7,2004,Dysentery
 Khon Kaen,<1,3,2004,Dysentery
 Maha Sarakham,<1,0,2004,Dysentery
 Roi Et,<1,4,2004,Dysentery
-Zone 13,<1,20,2004,Dysentery
+Zone:13,<1,20,2004,Dysentery
 Buri Ram,<1,10,2004,Dysentery
 Chaiyaphum,<1,2,2004,Dysentery
 Nakhon Ratchasima,<1,4,2004,Dysentery
 Surin,<1,4,2004,Dysentery
-Zone 14,<1,12,2004,Dysentery
+Zone:14,<1,12,2004,Dysentery
 Amnat Charoen,<1,0,2004,Dysentery
 Si Sa Ket,<1,10,2004,Dysentery
 Ubon Ratchathani,<1,1,2004,Dysentery
 Yasothon,<1,1,2004,Dysentery
 South Region,<1,37,2004,Dysentery
-Zone 15,<1,8,2004,Dysentery
+Zone:15,<1,8,2004,Dysentery
 Chumphon,<1,5,2004,Dysentery
 Ranong,<1,3,2004,Dysentery
 Surat Thani,<1,0,2004,Dysentery
-Zone 16,<1,9,2004,Dysentery
+Zone:16,<1,9,2004,Dysentery
 Nakhon Si Thammarat,<1,5,2004,Dysentery
 Phatthalung,<1,0,2004,Dysentery
 Trang,<1,4,2004,Dysentery
-Zone 17,<1,3,2004,Dysentery
+Zone:17,<1,3,2004,Dysentery
 Krabi,<1,0,2004,Dysentery
 Phangnga,<1,1,2004,Dysentery
 Phuket,<1,2,2004,Dysentery
-Zone 18,<1,16,2004,Dysentery
+Zone:18,<1,16,2004,Dysentery
 Narathiwat,<1,7,2004,Dysentery
 Pattani,<1,1,2004,Dysentery
 Yala,<1,8,2004,Dysentery
-Zone 19,<1,1,2004,Dysentery
+Zone:19,<1,1,2004,Dysentery
 Satun,<1,0,2004,Dysentery
 Songkhla,<1,1,2004,Dysentery
 Total,1-1,211,2004,Dysentery
 North Region,1-1,104,2004,Dysentery
-Zone 1,1-1,78,2004,Dysentery
+Zone:1,1-1,78,2004,Dysentery
 Chiang Mai,1-1,16,2004,Dysentery
 Chiang Rai,1-1,2,2004,Dysentery
 Lampang,1-1,10,2004,Dysentery
@@ -8842,98 +8842,98 @@ Mae Hong Son,1-1,46,2004,Dysentery
 Nan,1-1,4,2004,Dysentery
 Phayao,1-1,0,2004,Dysentery
 Phrae,1-1,0,2004,Dysentery
-Zone 2,1-1,19,2004,Dysentery
+Zone:2,1-1,19,2004,Dysentery
 Phetchabun,1-1,6,2004,Dysentery
 Phitsanulok,1-1,12,2004,Dysentery
 Sukhothai,1-1,0,2004,Dysentery
 Tak,1-1,1,2004,Dysentery
 Uttaradit,1-1,0,2004,Dysentery
-Zone 3,1-1,7,2004,Dysentery
+Zone:3,1-1,7,2004,Dysentery
 Kamphaeng Phet,1-1,4,2004,Dysentery
 Nakhon Sawan,1-1,2,2004,Dysentery
 Phichit,1-1,0,2004,Dysentery
 Uthai Thani,1-1,1,2004,Dysentery
 Central Region,1-1,14,2004,Dysentery
 Bangkok,1-1,0,2004,Dysentery
-Zone 4,1-1,1,2004,Dysentery
+Zone:4,1-1,1,2004,Dysentery
 Ang Thong,1-1,0,2004,Dysentery
 Nonthaburi,1-1,1,2004,Dysentery
 P.Nakhon S.Ayutthaya,1-1,0,2004,Dysentery
 Pathum Thani,1-1,0,2004,Dysentery
-Zone 5,1-1,0,2004,Dysentery
+Zone:5,1-1,0,2004,Dysentery
 Chai Nat,1-1,0,2004,Dysentery
 Lop Buri,1-1,0,2004,Dysentery
 Saraburi,1-1,0,2004,Dysentery
 Sing Buri,1-1,0,2004,Dysentery
-Zone 6,1-1,2,2004,Dysentery
+Zone:6,1-1,2,2004,Dysentery
 Kanchanaburi,1-1,0,2004,Dysentery
 Nakhon Pathom,1-1,1,2004,Dysentery
 Ratchaburi,1-1,0,2004,Dysentery
 Suphan Buri,1-1,1,2004,Dysentery
-Zone 7,1-1,3,2004,Dysentery
+Zone:7,1-1,3,2004,Dysentery
 Phetchaburi,1-1,1,2004,Dysentery
 Prachuap Khiri Khan,1-1,2,2004,Dysentery
 Samut Sakhon,1-1,0,2004,Dysentery
 Samut Songkhram,1-1,0,2004,Dysentery
-Zone 8,1-1,4,2004,Dysentery
+Zone:8,1-1,4,2004,Dysentery
 Chachoengsao,1-1,3,2004,Dysentery
 Nakhon Nayok,1-1,0,2004,Dysentery
 Prachin Buri,1-1,0,2004,Dysentery
 Sa Kaeo,1-1,0,2004,Dysentery
 Samut Prakan,1-1,1,2004,Dysentery
-Zone 9,1-1,4,2004,Dysentery
+Zone:9,1-1,4,2004,Dysentery
 Chanthaburi,1-1,2,2004,Dysentery
 Chon Buri,1-1,0,2004,Dysentery
 Rayong,1-1,1,2004,Dysentery
 Trat,1-1,1,2004,Dysentery
 North-Eastern Region,1-1,73,2004,Dysentery
-Zone 10,1-1,34,2004,Dysentery
+Zone:10,1-1,34,2004,Dysentery
 Loei,1-1,0,2004,Dysentery
 Nong Bua Lam Phu,1-1,2,2004,Dysentery
 Nong Khai,1-1,3,2004,Dysentery
 Udon Thani,1-1,29,2004,Dysentery
-Zone 11,1-1,8,2004,Dysentery
+Zone:11,1-1,8,2004,Dysentery
 Kalasin,1-1,3,2004,Dysentery
 Mukdahan,1-1,2,2004,Dysentery
 Nakhon Phanom,1-1,2,2004,Dysentery
 Sakon Nakhon,1-1,1,2004,Dysentery
-Zone 12,1-1,2,2004,Dysentery
+Zone:12,1-1,2,2004,Dysentery
 Khon Kaen,1-1,2,2004,Dysentery
 Maha Sarakham,1-1,0,2004,Dysentery
 Roi Et,1-1,0,2004,Dysentery
-Zone 13,1-1,17,2004,Dysentery
+Zone:13,1-1,17,2004,Dysentery
 Buri Ram,1-1,12,2004,Dysentery
 Chaiyaphum,1-1,1,2004,Dysentery
 Nakhon Ratchasima,1-1,1,2004,Dysentery
 Surin,1-1,3,2004,Dysentery
-Zone 14,1-1,12,2004,Dysentery
+Zone:14,1-1,12,2004,Dysentery
 Amnat Charoen,1-1,0,2004,Dysentery
 Si Sa Ket,1-1,11,2004,Dysentery
 Ubon Ratchathani,1-1,1,2004,Dysentery
 Yasothon,1-1,0,2004,Dysentery
 South Region,1-1,20,2004,Dysentery
-Zone 15,1-1,2,2004,Dysentery
+Zone:15,1-1,2,2004,Dysentery
 Chumphon,1-1,2,2004,Dysentery
 Ranong,1-1,0,2004,Dysentery
 Surat Thani,1-1,0,2004,Dysentery
-Zone 16,1-1,1,2004,Dysentery
+Zone:16,1-1,1,2004,Dysentery
 Nakhon Si Thammarat,1-1,1,2004,Dysentery
 Phatthalung,1-1,0,2004,Dysentery
 Trang,1-1,0,2004,Dysentery
-Zone 17,1-1,1,2004,Dysentery
+Zone:17,1-1,1,2004,Dysentery
 Krabi,1-1,0,2004,Dysentery
 Phangnga,1-1,0,2004,Dysentery
 Phuket,1-1,1,2004,Dysentery
-Zone 18,1-1,15,2004,Dysentery
+Zone:18,1-1,15,2004,Dysentery
 Narathiwat,1-1,4,2004,Dysentery
 Pattani,1-1,2,2004,Dysentery
 Yala,1-1,9,2004,Dysentery
-Zone 19,1-1,1,2004,Dysentery
+Zone:19,1-1,1,2004,Dysentery
 Satun,1-1,0,2004,Dysentery
 Songkhla,1-1,1,2004,Dysentery
 Total,2-2,132,2004,Dysentery
 North Region,2-2,51,2004,Dysentery
-Zone 1,2-2,42,2004,Dysentery
+Zone:1,2-2,42,2004,Dysentery
 Chiang Mai,2-2,16,2004,Dysentery
 Chiang Rai,2-2,1,2004,Dysentery
 Lampang,2-2,3,2004,Dysentery
@@ -8942,98 +8942,98 @@ Mae Hong Son,2-2,19,2004,Dysentery
 Nan,2-2,3,2004,Dysentery
 Phayao,2-2,0,2004,Dysentery
 Phrae,2-2,0,2004,Dysentery
-Zone 2,2-2,8,2004,Dysentery
+Zone:2,2-2,8,2004,Dysentery
 Phetchabun,2-2,4,2004,Dysentery
 Phitsanulok,2-2,1,2004,Dysentery
 Sukhothai,2-2,0,2004,Dysentery
 Tak,2-2,3,2004,Dysentery
 Uttaradit,2-2,0,2004,Dysentery
-Zone 3,2-2,1,2004,Dysentery
+Zone:3,2-2,1,2004,Dysentery
 Kamphaeng Phet,2-2,1,2004,Dysentery
 Nakhon Sawan,2-2,0,2004,Dysentery
 Phichit,2-2,0,2004,Dysentery
 Uthai Thani,2-2,0,2004,Dysentery
 Central Region,2-2,6,2004,Dysentery
 Bangkok,2-2,0,2004,Dysentery
-Zone 4,2-2,0,2004,Dysentery
+Zone:4,2-2,0,2004,Dysentery
 Ang Thong,2-2,0,2004,Dysentery
 Nonthaburi,2-2,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,2-2,0,2004,Dysentery
 Pathum Thani,2-2,0,2004,Dysentery
-Zone 5,2-2,0,2004,Dysentery
+Zone:5,2-2,0,2004,Dysentery
 Chai Nat,2-2,0,2004,Dysentery
 Lop Buri,2-2,0,2004,Dysentery
 Saraburi,2-2,0,2004,Dysentery
 Sing Buri,2-2,0,2004,Dysentery
-Zone 6,2-2,3,2004,Dysentery
+Zone:6,2-2,3,2004,Dysentery
 Kanchanaburi,2-2,0,2004,Dysentery
 Nakhon Pathom,2-2,1,2004,Dysentery
 Ratchaburi,2-2,0,2004,Dysentery
 Suphan Buri,2-2,2,2004,Dysentery
-Zone 7,2-2,1,2004,Dysentery
+Zone:7,2-2,1,2004,Dysentery
 Phetchaburi,2-2,0,2004,Dysentery
 Prachuap Khiri Khan,2-2,0,2004,Dysentery
 Samut Sakhon,2-2,0,2004,Dysentery
 Samut Songkhram,2-2,1,2004,Dysentery
-Zone 8,2-2,2,2004,Dysentery
+Zone:8,2-2,2,2004,Dysentery
 Chachoengsao,2-2,1,2004,Dysentery
 Nakhon Nayok,2-2,0,2004,Dysentery
 Prachin Buri,2-2,1,2004,Dysentery
 Sa Kaeo,2-2,0,2004,Dysentery
 Samut Prakan,2-2,0,2004,Dysentery
-Zone 9,2-2,0,2004,Dysentery
+Zone:9,2-2,0,2004,Dysentery
 Chanthaburi,2-2,0,2004,Dysentery
 Chon Buri,2-2,0,2004,Dysentery
 Rayong,2-2,0,2004,Dysentery
 Trat,2-2,0,2004,Dysentery
 North-Eastern Region,2-2,56,2004,Dysentery
-Zone 10,2-2,27,2004,Dysentery
+Zone:10,2-2,27,2004,Dysentery
 Loei,2-2,0,2004,Dysentery
 Nong Bua Lam Phu,2-2,1,2004,Dysentery
 Nong Khai,2-2,4,2004,Dysentery
 Udon Thani,2-2,22,2004,Dysentery
-Zone 11,2-2,5,2004,Dysentery
+Zone:11,2-2,5,2004,Dysentery
 Kalasin,2-2,0,2004,Dysentery
 Mukdahan,2-2,0,2004,Dysentery
 Nakhon Phanom,2-2,3,2004,Dysentery
 Sakon Nakhon,2-2,2,2004,Dysentery
-Zone 12,2-2,3,2004,Dysentery
+Zone:12,2-2,3,2004,Dysentery
 Khon Kaen,2-2,3,2004,Dysentery
 Maha Sarakham,2-2,0,2004,Dysentery
 Roi Et,2-2,0,2004,Dysentery
-Zone 13,2-2,7,2004,Dysentery
+Zone:13,2-2,7,2004,Dysentery
 Buri Ram,2-2,5,2004,Dysentery
 Chaiyaphum,2-2,0,2004,Dysentery
 Nakhon Ratchasima,2-2,0,2004,Dysentery
 Surin,2-2,2,2004,Dysentery
-Zone 14,2-2,14,2004,Dysentery
+Zone:14,2-2,14,2004,Dysentery
 Amnat Charoen,2-2,0,2004,Dysentery
 Si Sa Ket,2-2,9,2004,Dysentery
 Ubon Ratchathani,2-2,2,2004,Dysentery
 Yasothon,2-2,3,2004,Dysentery
 South Region,2-2,19,2004,Dysentery
-Zone 15,2-2,3,2004,Dysentery
+Zone:15,2-2,3,2004,Dysentery
 Chumphon,2-2,0,2004,Dysentery
 Ranong,2-2,1,2004,Dysentery
 Surat Thani,2-2,2,2004,Dysentery
-Zone 16,2-2,2,2004,Dysentery
+Zone:16,2-2,2,2004,Dysentery
 Nakhon Si Thammarat,2-2,2,2004,Dysentery
 Phatthalung,2-2,0,2004,Dysentery
 Trang,2-2,0,2004,Dysentery
-Zone 17,2-2,1,2004,Dysentery
+Zone:17,2-2,1,2004,Dysentery
 Krabi,2-2,0,2004,Dysentery
 Phangnga,2-2,0,2004,Dysentery
 Phuket,2-2,1,2004,Dysentery
-Zone 18,2-2,13,2004,Dysentery
+Zone:18,2-2,13,2004,Dysentery
 Narathiwat,2-2,10,2004,Dysentery
 Pattani,2-2,0,2004,Dysentery
 Yala,2-2,3,2004,Dysentery
-Zone 19,2-2,0,2004,Dysentery
+Zone:19,2-2,0,2004,Dysentery
 Satun,2-2,0,2004,Dysentery
 Songkhla,2-2,0,2004,Dysentery
 Total,3-3,97,2004,Dysentery
 North Region,3-3,51,2004,Dysentery
-Zone 1,3-3,42,2004,Dysentery
+Zone:1,3-3,42,2004,Dysentery
 Chiang Mai,3-3,15,2004,Dysentery
 Chiang Rai,3-3,2,2004,Dysentery
 Lampang,3-3,3,2004,Dysentery
@@ -9042,98 +9042,98 @@ Mae Hong Son,3-3,21,2004,Dysentery
 Nan,3-3,1,2004,Dysentery
 Phayao,3-3,0,2004,Dysentery
 Phrae,3-3,0,2004,Dysentery
-Zone 2,3-3,6,2004,Dysentery
+Zone:2,3-3,6,2004,Dysentery
 Phetchabun,3-3,4,2004,Dysentery
 Phitsanulok,3-3,2,2004,Dysentery
 Sukhothai,3-3,0,2004,Dysentery
 Tak,3-3,0,2004,Dysentery
 Uttaradit,3-3,0,2004,Dysentery
-Zone 3,3-3,3,2004,Dysentery
+Zone:3,3-3,3,2004,Dysentery
 Kamphaeng Phet,3-3,2,2004,Dysentery
 Nakhon Sawan,3-3,1,2004,Dysentery
 Phichit,3-3,0,2004,Dysentery
 Uthai Thani,3-3,0,2004,Dysentery
 Central Region,3-3,3,2004,Dysentery
 Bangkok,3-3,1,2004,Dysentery
-Zone 4,3-3,0,2004,Dysentery
+Zone:4,3-3,0,2004,Dysentery
 Ang Thong,3-3,0,2004,Dysentery
 Nonthaburi,3-3,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,3-3,0,2004,Dysentery
 Pathum Thani,3-3,0,2004,Dysentery
-Zone 5,3-3,0,2004,Dysentery
+Zone:5,3-3,0,2004,Dysentery
 Chai Nat,3-3,0,2004,Dysentery
 Lop Buri,3-3,0,2004,Dysentery
 Saraburi,3-3,0,2004,Dysentery
 Sing Buri,3-3,0,2004,Dysentery
-Zone 6,3-3,0,2004,Dysentery
+Zone:6,3-3,0,2004,Dysentery
 Kanchanaburi,3-3,0,2004,Dysentery
 Nakhon Pathom,3-3,0,2004,Dysentery
 Ratchaburi,3-3,0,2004,Dysentery
 Suphan Buri,3-3,0,2004,Dysentery
-Zone 7,3-3,0,2004,Dysentery
+Zone:7,3-3,0,2004,Dysentery
 Phetchaburi,3-3,0,2004,Dysentery
 Prachuap Khiri Khan,3-3,0,2004,Dysentery
 Samut Sakhon,3-3,0,2004,Dysentery
 Samut Songkhram,3-3,0,2004,Dysentery
-Zone 8,3-3,2,2004,Dysentery
+Zone:8,3-3,2,2004,Dysentery
 Chachoengsao,3-3,1,2004,Dysentery
 Nakhon Nayok,3-3,0,2004,Dysentery
 Prachin Buri,3-3,0,2004,Dysentery
 Sa Kaeo,3-3,1,2004,Dysentery
 Samut Prakan,3-3,0,2004,Dysentery
-Zone 9,3-3,0,2004,Dysentery
+Zone:9,3-3,0,2004,Dysentery
 Chanthaburi,3-3,0,2004,Dysentery
 Chon Buri,3-3,0,2004,Dysentery
 Rayong,3-3,0,2004,Dysentery
 Trat,3-3,0,2004,Dysentery
 North-Eastern Region,3-3,30,2004,Dysentery
-Zone 10,3-3,9,2004,Dysentery
+Zone:10,3-3,9,2004,Dysentery
 Loei,3-3,1,2004,Dysentery
 Nong Bua Lam Phu,3-3,0,2004,Dysentery
 Nong Khai,3-3,0,2004,Dysentery
 Udon Thani,3-3,8,2004,Dysentery
-Zone 11,3-3,1,2004,Dysentery
+Zone:11,3-3,1,2004,Dysentery
 Kalasin,3-3,0,2004,Dysentery
 Mukdahan,3-3,0,2004,Dysentery
 Nakhon Phanom,3-3,0,2004,Dysentery
 Sakon Nakhon,3-3,1,2004,Dysentery
-Zone 12,3-3,1,2004,Dysentery
+Zone:12,3-3,1,2004,Dysentery
 Khon Kaen,3-3,1,2004,Dysentery
 Maha Sarakham,3-3,0,2004,Dysentery
 Roi Et,3-3,0,2004,Dysentery
-Zone 13,3-3,6,2004,Dysentery
+Zone:13,3-3,6,2004,Dysentery
 Buri Ram,3-3,2,2004,Dysentery
 Chaiyaphum,3-3,0,2004,Dysentery
 Nakhon Ratchasima,3-3,2,2004,Dysentery
 Surin,3-3,2,2004,Dysentery
-Zone 14,3-3,13,2004,Dysentery
+Zone:14,3-3,13,2004,Dysentery
 Amnat Charoen,3-3,0,2004,Dysentery
 Si Sa Ket,3-3,9,2004,Dysentery
 Ubon Ratchathani,3-3,3,2004,Dysentery
 Yasothon,3-3,1,2004,Dysentery
 South Region,3-3,13,2004,Dysentery
-Zone 15,3-3,0,2004,Dysentery
+Zone:15,3-3,0,2004,Dysentery
 Chumphon,3-3,0,2004,Dysentery
 Ranong,3-3,0,2004,Dysentery
 Surat Thani,3-3,0,2004,Dysentery
-Zone 16,3-3,6,2004,Dysentery
+Zone:16,3-3,6,2004,Dysentery
 Nakhon Si Thammarat,3-3,4,2004,Dysentery
 Phatthalung,3-3,0,2004,Dysentery
 Trang,3-3,2,2004,Dysentery
-Zone 17,3-3,1,2004,Dysentery
+Zone:17,3-3,1,2004,Dysentery
 Krabi,3-3,0,2004,Dysentery
 Phangnga,3-3,0,2004,Dysentery
 Phuket,3-3,1,2004,Dysentery
-Zone 18,3-3,6,2004,Dysentery
+Zone:18,3-3,6,2004,Dysentery
 Narathiwat,3-3,4,2004,Dysentery
 Pattani,3-3,0,2004,Dysentery
 Yala,3-3,2,2004,Dysentery
-Zone 19,3-3,0,2004,Dysentery
+Zone:19,3-3,0,2004,Dysentery
 Satun,3-3,0,2004,Dysentery
 Songkhla,3-3,0,2004,Dysentery
 Total,4-4,74,2004,Dysentery
 North Region,4-4,33,2004,Dysentery
-Zone 1,4-4,27,2004,Dysentery
+Zone:1,4-4,27,2004,Dysentery
 Chiang Mai,4-4,10,2004,Dysentery
 Chiang Rai,4-4,1,2004,Dysentery
 Lampang,4-4,0,2004,Dysentery
@@ -9142,98 +9142,98 @@ Mae Hong Son,4-4,16,2004,Dysentery
 Nan,4-4,0,2004,Dysentery
 Phayao,4-4,0,2004,Dysentery
 Phrae,4-4,0,2004,Dysentery
-Zone 2,4-4,6,2004,Dysentery
+Zone:2,4-4,6,2004,Dysentery
 Phetchabun,4-4,4,2004,Dysentery
 Phitsanulok,4-4,2,2004,Dysentery
 Sukhothai,4-4,0,2004,Dysentery
 Tak,4-4,0,2004,Dysentery
 Uttaradit,4-4,0,2004,Dysentery
-Zone 3,4-4,0,2004,Dysentery
+Zone:3,4-4,0,2004,Dysentery
 Kamphaeng Phet,4-4,0,2004,Dysentery
 Nakhon Sawan,4-4,0,2004,Dysentery
 Phichit,4-4,0,2004,Dysentery
 Uthai Thani,4-4,0,2004,Dysentery
 Central Region,4-4,7,2004,Dysentery
 Bangkok,4-4,1,2004,Dysentery
-Zone 4,4-4,0,2004,Dysentery
+Zone:4,4-4,0,2004,Dysentery
 Ang Thong,4-4,0,2004,Dysentery
 Nonthaburi,4-4,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,4-4,0,2004,Dysentery
 Pathum Thani,4-4,0,2004,Dysentery
-Zone 5,4-4,2,2004,Dysentery
+Zone:5,4-4,2,2004,Dysentery
 Chai Nat,4-4,0,2004,Dysentery
 Lop Buri,4-4,2,2004,Dysentery
 Saraburi,4-4,0,2004,Dysentery
 Sing Buri,4-4,0,2004,Dysentery
-Zone 6,4-4,1,2004,Dysentery
+Zone:6,4-4,1,2004,Dysentery
 Kanchanaburi,4-4,1,2004,Dysentery
 Nakhon Pathom,4-4,0,2004,Dysentery
 Ratchaburi,4-4,0,2004,Dysentery
 Suphan Buri,4-4,0,2004,Dysentery
-Zone 7,4-4,0,2004,Dysentery
+Zone:7,4-4,0,2004,Dysentery
 Phetchaburi,4-4,0,2004,Dysentery
 Prachuap Khiri Khan,4-4,0,2004,Dysentery
 Samut Sakhon,4-4,0,2004,Dysentery
 Samut Songkhram,4-4,0,2004,Dysentery
-Zone 8,4-4,0,2004,Dysentery
+Zone:8,4-4,0,2004,Dysentery
 Chachoengsao,4-4,0,2004,Dysentery
 Nakhon Nayok,4-4,0,2004,Dysentery
 Prachin Buri,4-4,0,2004,Dysentery
 Sa Kaeo,4-4,0,2004,Dysentery
 Samut Prakan,4-4,0,2004,Dysentery
-Zone 9,4-4,3,2004,Dysentery
+Zone:9,4-4,3,2004,Dysentery
 Chanthaburi,4-4,0,2004,Dysentery
 Chon Buri,4-4,1,2004,Dysentery
 Rayong,4-4,1,2004,Dysentery
 Trat,4-4,1,2004,Dysentery
 North-Eastern Region,4-4,22,2004,Dysentery
-Zone 10,4-4,6,2004,Dysentery
+Zone:10,4-4,6,2004,Dysentery
 Loei,4-4,0,2004,Dysentery
 Nong Bua Lam Phu,4-4,0,2004,Dysentery
 Nong Khai,4-4,1,2004,Dysentery
 Udon Thani,4-4,5,2004,Dysentery
-Zone 11,4-4,2,2004,Dysentery
+Zone:11,4-4,2,2004,Dysentery
 Kalasin,4-4,1,2004,Dysentery
 Mukdahan,4-4,0,2004,Dysentery
 Nakhon Phanom,4-4,1,2004,Dysentery
 Sakon Nakhon,4-4,0,2004,Dysentery
-Zone 12,4-4,1,2004,Dysentery
+Zone:12,4-4,1,2004,Dysentery
 Khon Kaen,4-4,0,2004,Dysentery
 Maha Sarakham,4-4,0,2004,Dysentery
 Roi Et,4-4,1,2004,Dysentery
-Zone 13,4-4,6,2004,Dysentery
+Zone:13,4-4,6,2004,Dysentery
 Buri Ram,4-4,1,2004,Dysentery
 Chaiyaphum,4-4,1,2004,Dysentery
 Nakhon Ratchasima,4-4,1,2004,Dysentery
 Surin,4-4,3,2004,Dysentery
-Zone 14,4-4,7,2004,Dysentery
+Zone:14,4-4,7,2004,Dysentery
 Amnat Charoen,4-4,0,2004,Dysentery
 Si Sa Ket,4-4,7,2004,Dysentery
 Ubon Ratchathani,4-4,0,2004,Dysentery
 Yasothon,4-4,0,2004,Dysentery
 South Region,4-4,12,2004,Dysentery
-Zone 15,4-4,1,2004,Dysentery
+Zone:15,4-4,1,2004,Dysentery
 Chumphon,4-4,0,2004,Dysentery
 Ranong,4-4,0,2004,Dysentery
 Surat Thani,4-4,1,2004,Dysentery
-Zone 16,4-4,1,2004,Dysentery
+Zone:16,4-4,1,2004,Dysentery
 Nakhon Si Thammarat,4-4,0,2004,Dysentery
 Phatthalung,4-4,0,2004,Dysentery
 Trang,4-4,1,2004,Dysentery
-Zone 17,4-4,3,2004,Dysentery
+Zone:17,4-4,3,2004,Dysentery
 Krabi,4-4,0,2004,Dysentery
 Phangnga,4-4,2,2004,Dysentery
 Phuket,4-4,1,2004,Dysentery
-Zone 18,4-4,7,2004,Dysentery
+Zone:18,4-4,7,2004,Dysentery
 Narathiwat,4-4,3,2004,Dysentery
 Pattani,4-4,2,2004,Dysentery
 Yala,4-4,2,2004,Dysentery
-Zone 19,4-4,0,2004,Dysentery
+Zone:19,4-4,0,2004,Dysentery
 Satun,4-4,0,2004,Dysentery
 Songkhla,4-4,0,2004,Dysentery
 Total,5-5,53,2004,Dysentery
 North Region,5-5,25,2004,Dysentery
-Zone 1,5-5,23,2004,Dysentery
+Zone:1,5-5,23,2004,Dysentery
 Chiang Mai,5-5,7,2004,Dysentery
 Chiang Rai,5-5,1,2004,Dysentery
 Lampang,5-5,1,2004,Dysentery
@@ -9242,98 +9242,98 @@ Mae Hong Son,5-5,13,2004,Dysentery
 Nan,5-5,0,2004,Dysentery
 Phayao,5-5,0,2004,Dysentery
 Phrae,5-5,1,2004,Dysentery
-Zone 2,5-5,2,2004,Dysentery
+Zone:2,5-5,2,2004,Dysentery
 Phetchabun,5-5,2,2004,Dysentery
 Phitsanulok,5-5,0,2004,Dysentery
 Sukhothai,5-5,0,2004,Dysentery
 Tak,5-5,0,2004,Dysentery
 Uttaradit,5-5,0,2004,Dysentery
-Zone 3,5-5,0,2004,Dysentery
+Zone:3,5-5,0,2004,Dysentery
 Kamphaeng Phet,5-5,0,2004,Dysentery
 Nakhon Sawan,5-5,0,2004,Dysentery
 Phichit,5-5,0,2004,Dysentery
 Uthai Thani,5-5,0,2004,Dysentery
 Central Region,5-5,4,2004,Dysentery
 Bangkok,5-5,0,2004,Dysentery
-Zone 4,5-5,1,2004,Dysentery
+Zone:4,5-5,1,2004,Dysentery
 Ang Thong,5-5,0,2004,Dysentery
 Nonthaburi,5-5,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,5-5,0,2004,Dysentery
 Pathum Thani,5-5,1,2004,Dysentery
-Zone 5,5-5,1,2004,Dysentery
+Zone:5,5-5,1,2004,Dysentery
 Chai Nat,5-5,0,2004,Dysentery
 Lop Buri,5-5,1,2004,Dysentery
 Saraburi,5-5,0,2004,Dysentery
 Sing Buri,5-5,0,2004,Dysentery
-Zone 6,5-5,0,2004,Dysentery
+Zone:6,5-5,0,2004,Dysentery
 Kanchanaburi,5-5,0,2004,Dysentery
 Nakhon Pathom,5-5,0,2004,Dysentery
 Ratchaburi,5-5,0,2004,Dysentery
 Suphan Buri,5-5,0,2004,Dysentery
-Zone 7,5-5,2,2004,Dysentery
+Zone:7,5-5,2,2004,Dysentery
 Phetchaburi,5-5,1,2004,Dysentery
 Prachuap Khiri Khan,5-5,1,2004,Dysentery
 Samut Sakhon,5-5,0,2004,Dysentery
 Samut Songkhram,5-5,0,2004,Dysentery
-Zone 8,5-5,0,2004,Dysentery
+Zone:8,5-5,0,2004,Dysentery
 Chachoengsao,5-5,0,2004,Dysentery
 Nakhon Nayok,5-5,0,2004,Dysentery
 Prachin Buri,5-5,0,2004,Dysentery
 Sa Kaeo,5-5,0,2004,Dysentery
 Samut Prakan,5-5,0,2004,Dysentery
-Zone 9,5-5,0,2004,Dysentery
+Zone:9,5-5,0,2004,Dysentery
 Chanthaburi,5-5,0,2004,Dysentery
 Chon Buri,5-5,0,2004,Dysentery
 Rayong,5-5,0,2004,Dysentery
 Trat,5-5,0,2004,Dysentery
 North-Eastern Region,5-5,21,2004,Dysentery
-Zone 10,5-5,6,2004,Dysentery
+Zone:10,5-5,6,2004,Dysentery
 Loei,5-5,0,2004,Dysentery
 Nong Bua Lam Phu,5-5,0,2004,Dysentery
 Nong Khai,5-5,0,2004,Dysentery
 Udon Thani,5-5,6,2004,Dysentery
-Zone 11,5-5,2,2004,Dysentery
+Zone:11,5-5,2,2004,Dysentery
 Kalasin,5-5,0,2004,Dysentery
 Mukdahan,5-5,0,2004,Dysentery
 Nakhon Phanom,5-5,2,2004,Dysentery
 Sakon Nakhon,5-5,0,2004,Dysentery
-Zone 12,5-5,0,2004,Dysentery
+Zone:12,5-5,0,2004,Dysentery
 Khon Kaen,5-5,0,2004,Dysentery
 Maha Sarakham,5-5,0,2004,Dysentery
 Roi Et,5-5,0,2004,Dysentery
-Zone 13,5-5,4,2004,Dysentery
+Zone:13,5-5,4,2004,Dysentery
 Buri Ram,5-5,2,2004,Dysentery
 Chaiyaphum,5-5,0,2004,Dysentery
 Nakhon Ratchasima,5-5,1,2004,Dysentery
 Surin,5-5,1,2004,Dysentery
-Zone 14,5-5,9,2004,Dysentery
+Zone:14,5-5,9,2004,Dysentery
 Amnat Charoen,5-5,0,2004,Dysentery
 Si Sa Ket,5-5,9,2004,Dysentery
 Ubon Ratchathani,5-5,0,2004,Dysentery
 Yasothon,5-5,0,2004,Dysentery
 South Region,5-5,3,2004,Dysentery
-Zone 15,5-5,0,2004,Dysentery
+Zone:15,5-5,0,2004,Dysentery
 Chumphon,5-5,0,2004,Dysentery
 Ranong,5-5,0,2004,Dysentery
 Surat Thani,5-5,0,2004,Dysentery
-Zone 16,5-5,0,2004,Dysentery
+Zone:16,5-5,0,2004,Dysentery
 Nakhon Si Thammarat,5-5,0,2004,Dysentery
 Phatthalung,5-5,0,2004,Dysentery
 Trang,5-5,0,2004,Dysentery
-Zone 17,5-5,0,2004,Dysentery
+Zone:17,5-5,0,2004,Dysentery
 Krabi,5-5,0,2004,Dysentery
 Phangnga,5-5,0,2004,Dysentery
 Phuket,5-5,0,2004,Dysentery
-Zone 18,5-5,3,2004,Dysentery
+Zone:18,5-5,3,2004,Dysentery
 Narathiwat,5-5,0,2004,Dysentery
 Pattani,5-5,2,2004,Dysentery
 Yala,5-5,1,2004,Dysentery
-Zone 19,5-5,0,2004,Dysentery
+Zone:19,5-5,0,2004,Dysentery
 Satun,5-5,0,2004,Dysentery
 Songkhla,5-5,0,2004,Dysentery
 Total,6-6,43,2004,Dysentery
 North Region,6-6,26,2004,Dysentery
-Zone 1,6-6,23,2004,Dysentery
+Zone:1,6-6,23,2004,Dysentery
 Chiang Mai,6-6,9,2004,Dysentery
 Chiang Rai,6-6,1,2004,Dysentery
 Lampang,6-6,1,2004,Dysentery
@@ -9342,98 +9342,98 @@ Mae Hong Son,6-6,10,2004,Dysentery
 Nan,6-6,1,2004,Dysentery
 Phayao,6-6,0,2004,Dysentery
 Phrae,6-6,1,2004,Dysentery
-Zone 2,6-6,2,2004,Dysentery
+Zone:2,6-6,2,2004,Dysentery
 Phetchabun,6-6,1,2004,Dysentery
 Phitsanulok,6-6,1,2004,Dysentery
 Sukhothai,6-6,0,2004,Dysentery
 Tak,6-6,0,2004,Dysentery
 Uttaradit,6-6,0,2004,Dysentery
-Zone 3,6-6,1,2004,Dysentery
+Zone:3,6-6,1,2004,Dysentery
 Kamphaeng Phet,6-6,0,2004,Dysentery
 Nakhon Sawan,6-6,0,2004,Dysentery
 Phichit,6-6,0,2004,Dysentery
 Uthai Thani,6-6,1,2004,Dysentery
 Central Region,6-6,2,2004,Dysentery
 Bangkok,6-6,1,2004,Dysentery
-Zone 4,6-6,0,2004,Dysentery
+Zone:4,6-6,0,2004,Dysentery
 Ang Thong,6-6,0,2004,Dysentery
 Nonthaburi,6-6,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,6-6,0,2004,Dysentery
 Pathum Thani,6-6,0,2004,Dysentery
-Zone 5,6-6,0,2004,Dysentery
+Zone:5,6-6,0,2004,Dysentery
 Chai Nat,6-6,0,2004,Dysentery
 Lop Buri,6-6,0,2004,Dysentery
 Saraburi,6-6,0,2004,Dysentery
 Sing Buri,6-6,0,2004,Dysentery
-Zone 6,6-6,0,2004,Dysentery
+Zone:6,6-6,0,2004,Dysentery
 Kanchanaburi,6-6,0,2004,Dysentery
 Nakhon Pathom,6-6,0,2004,Dysentery
 Ratchaburi,6-6,0,2004,Dysentery
 Suphan Buri,6-6,0,2004,Dysentery
-Zone 7,6-6,0,2004,Dysentery
+Zone:7,6-6,0,2004,Dysentery
 Phetchaburi,6-6,0,2004,Dysentery
 Prachuap Khiri Khan,6-6,0,2004,Dysentery
 Samut Sakhon,6-6,0,2004,Dysentery
 Samut Songkhram,6-6,0,2004,Dysentery
-Zone 8,6-6,0,2004,Dysentery
+Zone:8,6-6,0,2004,Dysentery
 Chachoengsao,6-6,0,2004,Dysentery
 Nakhon Nayok,6-6,0,2004,Dysentery
 Prachin Buri,6-6,0,2004,Dysentery
 Sa Kaeo,6-6,0,2004,Dysentery
 Samut Prakan,6-6,0,2004,Dysentery
-Zone 9,6-6,1,2004,Dysentery
+Zone:9,6-6,1,2004,Dysentery
 Chanthaburi,6-6,0,2004,Dysentery
 Chon Buri,6-6,1,2004,Dysentery
 Rayong,6-6,0,2004,Dysentery
 Trat,6-6,0,2004,Dysentery
 North-Eastern Region,6-6,8,2004,Dysentery
-Zone 10,6-6,2,2004,Dysentery
+Zone:10,6-6,2,2004,Dysentery
 Loei,6-6,0,2004,Dysentery
 Nong Bua Lam Phu,6-6,0,2004,Dysentery
 Nong Khai,6-6,0,2004,Dysentery
 Udon Thani,6-6,2,2004,Dysentery
-Zone 11,6-6,2,2004,Dysentery
+Zone:11,6-6,2,2004,Dysentery
 Kalasin,6-6,0,2004,Dysentery
 Mukdahan,6-6,0,2004,Dysentery
 Nakhon Phanom,6-6,2,2004,Dysentery
 Sakon Nakhon,6-6,0,2004,Dysentery
-Zone 12,6-6,0,2004,Dysentery
+Zone:12,6-6,0,2004,Dysentery
 Khon Kaen,6-6,0,2004,Dysentery
 Maha Sarakham,6-6,0,2004,Dysentery
 Roi Et,6-6,0,2004,Dysentery
-Zone 13,6-6,2,2004,Dysentery
+Zone:13,6-6,2,2004,Dysentery
 Buri Ram,6-6,1,2004,Dysentery
 Chaiyaphum,6-6,0,2004,Dysentery
 Nakhon Ratchasima,6-6,0,2004,Dysentery
 Surin,6-6,1,2004,Dysentery
-Zone 14,6-6,2,2004,Dysentery
+Zone:14,6-6,2,2004,Dysentery
 Amnat Charoen,6-6,0,2004,Dysentery
 Si Sa Ket,6-6,2,2004,Dysentery
 Ubon Ratchathani,6-6,0,2004,Dysentery
 Yasothon,6-6,0,2004,Dysentery
 South Region,6-6,7,2004,Dysentery
-Zone 15,6-6,0,2004,Dysentery
+Zone:15,6-6,0,2004,Dysentery
 Chumphon,6-6,0,2004,Dysentery
 Ranong,6-6,0,2004,Dysentery
 Surat Thani,6-6,0,2004,Dysentery
-Zone 16,6-6,1,2004,Dysentery
+Zone:16,6-6,1,2004,Dysentery
 Nakhon Si Thammarat,6-6,1,2004,Dysentery
 Phatthalung,6-6,0,2004,Dysentery
 Trang,6-6,0,2004,Dysentery
-Zone 17,6-6,0,2004,Dysentery
+Zone:17,6-6,0,2004,Dysentery
 Krabi,6-6,0,2004,Dysentery
 Phangnga,6-6,0,2004,Dysentery
 Phuket,6-6,0,2004,Dysentery
-Zone 18,6-6,6,2004,Dysentery
+Zone:18,6-6,6,2004,Dysentery
 Narathiwat,6-6,3,2004,Dysentery
 Pattani,6-6,1,2004,Dysentery
 Yala,6-6,2,2004,Dysentery
-Zone 19,6-6,0,2004,Dysentery
+Zone:19,6-6,0,2004,Dysentery
 Satun,6-6,0,2004,Dysentery
 Songkhla,6-6,0,2004,Dysentery
 Total,7-9,130,2004,Dysentery
 North Region,7-9,63,2004,Dysentery
-Zone 1,7-9,48,2004,Dysentery
+Zone:1,7-9,48,2004,Dysentery
 Chiang Mai,7-9,22,2004,Dysentery
 Chiang Rai,7-9,0,2004,Dysentery
 Lampang,7-9,5,2004,Dysentery
@@ -9442,98 +9442,98 @@ Mae Hong Son,7-9,19,2004,Dysentery
 Nan,7-9,1,2004,Dysentery
 Phayao,7-9,0,2004,Dysentery
 Phrae,7-9,1,2004,Dysentery
-Zone 2,7-9,9,2004,Dysentery
+Zone:2,7-9,9,2004,Dysentery
 Phetchabun,7-9,1,2004,Dysentery
 Phitsanulok,7-9,4,2004,Dysentery
 Sukhothai,7-9,0,2004,Dysentery
 Tak,7-9,3,2004,Dysentery
 Uttaradit,7-9,1,2004,Dysentery
-Zone 3,7-9,6,2004,Dysentery
+Zone:3,7-9,6,2004,Dysentery
 Kamphaeng Phet,7-9,2,2004,Dysentery
 Nakhon Sawan,7-9,3,2004,Dysentery
 Phichit,7-9,0,2004,Dysentery
 Uthai Thani,7-9,1,2004,Dysentery
 Central Region,7-9,8,2004,Dysentery
 Bangkok,7-9,1,2004,Dysentery
-Zone 4,7-9,0,2004,Dysentery
+Zone:4,7-9,0,2004,Dysentery
 Ang Thong,7-9,0,2004,Dysentery
 Nonthaburi,7-9,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,7-9,0,2004,Dysentery
 Pathum Thani,7-9,0,2004,Dysentery
-Zone 5,7-9,0,2004,Dysentery
+Zone:5,7-9,0,2004,Dysentery
 Chai Nat,7-9,0,2004,Dysentery
 Lop Buri,7-9,0,2004,Dysentery
 Saraburi,7-9,0,2004,Dysentery
 Sing Buri,7-9,0,2004,Dysentery
-Zone 6,7-9,0,2004,Dysentery
+Zone:6,7-9,0,2004,Dysentery
 Kanchanaburi,7-9,0,2004,Dysentery
 Nakhon Pathom,7-9,0,2004,Dysentery
 Ratchaburi,7-9,0,2004,Dysentery
 Suphan Buri,7-9,0,2004,Dysentery
-Zone 7,7-9,4,2004,Dysentery
+Zone:7,7-9,4,2004,Dysentery
 Phetchaburi,7-9,1,2004,Dysentery
 Prachuap Khiri Khan,7-9,2,2004,Dysentery
 Samut Sakhon,7-9,1,2004,Dysentery
 Samut Songkhram,7-9,0,2004,Dysentery
-Zone 8,7-9,3,2004,Dysentery
+Zone:8,7-9,3,2004,Dysentery
 Chachoengsao,7-9,2,2004,Dysentery
 Nakhon Nayok,7-9,0,2004,Dysentery
 Prachin Buri,7-9,0,2004,Dysentery
 Sa Kaeo,7-9,0,2004,Dysentery
 Samut Prakan,7-9,1,2004,Dysentery
-Zone 9,7-9,0,2004,Dysentery
+Zone:9,7-9,0,2004,Dysentery
 Chanthaburi,7-9,0,2004,Dysentery
 Chon Buri,7-9,0,2004,Dysentery
 Rayong,7-9,0,2004,Dysentery
 Trat,7-9,0,2004,Dysentery
 North-Eastern Region,7-9,36,2004,Dysentery
-Zone 10,7-9,13,2004,Dysentery
+Zone:10,7-9,13,2004,Dysentery
 Loei,7-9,0,2004,Dysentery
 Nong Bua Lam Phu,7-9,1,2004,Dysentery
 Nong Khai,7-9,0,2004,Dysentery
 Udon Thani,7-9,12,2004,Dysentery
-Zone 11,7-9,2,2004,Dysentery
+Zone:11,7-9,2,2004,Dysentery
 Kalasin,7-9,1,2004,Dysentery
 Mukdahan,7-9,0,2004,Dysentery
 Nakhon Phanom,7-9,0,2004,Dysentery
 Sakon Nakhon,7-9,1,2004,Dysentery
-Zone 12,7-9,3,2004,Dysentery
+Zone:12,7-9,3,2004,Dysentery
 Khon Kaen,7-9,2,2004,Dysentery
 Maha Sarakham,7-9,0,2004,Dysentery
 Roi Et,7-9,1,2004,Dysentery
-Zone 13,7-9,8,2004,Dysentery
+Zone:13,7-9,8,2004,Dysentery
 Buri Ram,7-9,4,2004,Dysentery
 Chaiyaphum,7-9,0,2004,Dysentery
 Nakhon Ratchasima,7-9,0,2004,Dysentery
 Surin,7-9,4,2004,Dysentery
-Zone 14,7-9,10,2004,Dysentery
+Zone:14,7-9,10,2004,Dysentery
 Amnat Charoen,7-9,0,2004,Dysentery
 Si Sa Ket,7-9,9,2004,Dysentery
 Ubon Ratchathani,7-9,0,2004,Dysentery
 Yasothon,7-9,1,2004,Dysentery
 South Region,7-9,23,2004,Dysentery
-Zone 15,7-9,1,2004,Dysentery
+Zone:15,7-9,1,2004,Dysentery
 Chumphon,7-9,0,2004,Dysentery
 Ranong,7-9,1,2004,Dysentery
 Surat Thani,7-9,0,2004,Dysentery
-Zone 16,7-9,5,2004,Dysentery
+Zone:16,7-9,5,2004,Dysentery
 Nakhon Si Thammarat,7-9,3,2004,Dysentery
 Phatthalung,7-9,0,2004,Dysentery
 Trang,7-9,2,2004,Dysentery
-Zone 17,7-9,4,2004,Dysentery
+Zone:17,7-9,4,2004,Dysentery
 Krabi,7-9,0,2004,Dysentery
 Phangnga,7-9,0,2004,Dysentery
 Phuket,7-9,4,2004,Dysentery
-Zone 18,7-9,13,2004,Dysentery
+Zone:18,7-9,13,2004,Dysentery
 Narathiwat,7-9,7,2004,Dysentery
 Pattani,7-9,4,2004,Dysentery
 Yala,7-9,2,2004,Dysentery
-Zone 19,7-9,0,2004,Dysentery
+Zone:19,7-9,0,2004,Dysentery
 Satun,7-9,0,2004,Dysentery
 Songkhla,7-9,0,2004,Dysentery
 Total,10-14,119,2004,Dysentery
 North Region,10-14,69,2004,Dysentery
-Zone 1,10-14,61,2004,Dysentery
+Zone:1,10-14,61,2004,Dysentery
 Chiang Mai,10-14,29,2004,Dysentery
 Chiang Rai,10-14,3,2004,Dysentery
 Lampang,10-14,5,2004,Dysentery
@@ -9542,98 +9542,98 @@ Mae Hong Son,10-14,23,2004,Dysentery
 Nan,10-14,0,2004,Dysentery
 Phayao,10-14,0,2004,Dysentery
 Phrae,10-14,1,2004,Dysentery
-Zone 2,10-14,4,2004,Dysentery
+Zone:2,10-14,4,2004,Dysentery
 Phetchabun,10-14,3,2004,Dysentery
 Phitsanulok,10-14,1,2004,Dysentery
 Sukhothai,10-14,0,2004,Dysentery
 Tak,10-14,0,2004,Dysentery
 Uttaradit,10-14,0,2004,Dysentery
-Zone 3,10-14,4,2004,Dysentery
+Zone:3,10-14,4,2004,Dysentery
 Kamphaeng Phet,10-14,2,2004,Dysentery
 Nakhon Sawan,10-14,1,2004,Dysentery
 Phichit,10-14,0,2004,Dysentery
 Uthai Thani,10-14,1,2004,Dysentery
 Central Region,10-14,6,2004,Dysentery
 Bangkok,10-14,1,2004,Dysentery
-Zone 4,10-14,0,2004,Dysentery
+Zone:4,10-14,0,2004,Dysentery
 Ang Thong,10-14,0,2004,Dysentery
 Nonthaburi,10-14,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,10-14,0,2004,Dysentery
 Pathum Thani,10-14,0,2004,Dysentery
-Zone 5,10-14,2,2004,Dysentery
+Zone:5,10-14,2,2004,Dysentery
 Chai Nat,10-14,0,2004,Dysentery
 Lop Buri,10-14,2,2004,Dysentery
 Saraburi,10-14,0,2004,Dysentery
 Sing Buri,10-14,0,2004,Dysentery
-Zone 6,10-14,0,2004,Dysentery
+Zone:6,10-14,0,2004,Dysentery
 Kanchanaburi,10-14,0,2004,Dysentery
 Nakhon Pathom,10-14,0,2004,Dysentery
 Ratchaburi,10-14,0,2004,Dysentery
 Suphan Buri,10-14,0,2004,Dysentery
-Zone 7,10-14,0,2004,Dysentery
+Zone:7,10-14,0,2004,Dysentery
 Phetchaburi,10-14,0,2004,Dysentery
 Prachuap Khiri Khan,10-14,0,2004,Dysentery
 Samut Sakhon,10-14,0,2004,Dysentery
 Samut Songkhram,10-14,0,2004,Dysentery
-Zone 8,10-14,3,2004,Dysentery
+Zone:8,10-14,3,2004,Dysentery
 Chachoengsao,10-14,2,2004,Dysentery
 Nakhon Nayok,10-14,0,2004,Dysentery
 Prachin Buri,10-14,1,2004,Dysentery
 Sa Kaeo,10-14,0,2004,Dysentery
 Samut Prakan,10-14,0,2004,Dysentery
-Zone 9,10-14,0,2004,Dysentery
+Zone:9,10-14,0,2004,Dysentery
 Chanthaburi,10-14,0,2004,Dysentery
 Chon Buri,10-14,0,2004,Dysentery
 Rayong,10-14,0,2004,Dysentery
 Trat,10-14,0,2004,Dysentery
 North-Eastern Region,10-14,27,2004,Dysentery
-Zone 10,10-14,7,2004,Dysentery
+Zone:10,10-14,7,2004,Dysentery
 Loei,10-14,1,2004,Dysentery
 Nong Bua Lam Phu,10-14,0,2004,Dysentery
 Nong Khai,10-14,0,2004,Dysentery
 Udon Thani,10-14,6,2004,Dysentery
-Zone 11,10-14,6,2004,Dysentery
+Zone:11,10-14,6,2004,Dysentery
 Kalasin,10-14,1,2004,Dysentery
 Mukdahan,10-14,4,2004,Dysentery
 Nakhon Phanom,10-14,1,2004,Dysentery
 Sakon Nakhon,10-14,0,2004,Dysentery
-Zone 12,10-14,2,2004,Dysentery
+Zone:12,10-14,2,2004,Dysentery
 Khon Kaen,10-14,2,2004,Dysentery
 Maha Sarakham,10-14,0,2004,Dysentery
 Roi Et,10-14,0,2004,Dysentery
-Zone 13,10-14,2,2004,Dysentery
+Zone:13,10-14,2,2004,Dysentery
 Buri Ram,10-14,2,2004,Dysentery
 Chaiyaphum,10-14,0,2004,Dysentery
 Nakhon Ratchasima,10-14,0,2004,Dysentery
 Surin,10-14,0,2004,Dysentery
-Zone 14,10-14,10,2004,Dysentery
+Zone:14,10-14,10,2004,Dysentery
 Amnat Charoen,10-14,0,2004,Dysentery
 Si Sa Ket,10-14,8,2004,Dysentery
 Ubon Ratchathani,10-14,1,2004,Dysentery
 Yasothon,10-14,1,2004,Dysentery
 South Region,10-14,17,2004,Dysentery
-Zone 15,10-14,2,2004,Dysentery
+Zone:15,10-14,2,2004,Dysentery
 Chumphon,10-14,0,2004,Dysentery
 Ranong,10-14,0,2004,Dysentery
 Surat Thani,10-14,2,2004,Dysentery
-Zone 16,10-14,7,2004,Dysentery
+Zone:16,10-14,7,2004,Dysentery
 Nakhon Si Thammarat,10-14,7,2004,Dysentery
 Phatthalung,10-14,0,2004,Dysentery
 Trang,10-14,0,2004,Dysentery
-Zone 17,10-14,0,2004,Dysentery
+Zone:17,10-14,0,2004,Dysentery
 Krabi,10-14,0,2004,Dysentery
 Phangnga,10-14,0,2004,Dysentery
 Phuket,10-14,0,2004,Dysentery
-Zone 18,10-14,7,2004,Dysentery
+Zone:18,10-14,7,2004,Dysentery
 Narathiwat,10-14,4,2004,Dysentery
 Pattani,10-14,1,2004,Dysentery
 Yala,10-14,2,2004,Dysentery
-Zone 19,10-14,1,2004,Dysentery
+Zone:19,10-14,1,2004,Dysentery
 Satun,10-14,1,2004,Dysentery
 Songkhla,10-14,0,2004,Dysentery
 Total,15-24,217,2004,Dysentery
 North Region,15-24,117,2004,Dysentery
-Zone 1,15-24,98,2004,Dysentery
+Zone:1,15-24,98,2004,Dysentery
 Chiang Mai,15-24,36,2004,Dysentery
 Chiang Rai,15-24,3,2004,Dysentery
 Lampang,15-24,3,2004,Dysentery
@@ -9642,98 +9642,98 @@ Mae Hong Son,15-24,51,2004,Dysentery
 Nan,15-24,1,2004,Dysentery
 Phayao,15-24,1,2004,Dysentery
 Phrae,15-24,2,2004,Dysentery
-Zone 2,15-24,13,2004,Dysentery
+Zone:2,15-24,13,2004,Dysentery
 Phetchabun,15-24,8,2004,Dysentery
 Phitsanulok,15-24,1,2004,Dysentery
 Sukhothai,15-24,0,2004,Dysentery
 Tak,15-24,4,2004,Dysentery
 Uttaradit,15-24,0,2004,Dysentery
-Zone 3,15-24,6,2004,Dysentery
+Zone:3,15-24,6,2004,Dysentery
 Kamphaeng Phet,15-24,2,2004,Dysentery
 Nakhon Sawan,15-24,2,2004,Dysentery
 Phichit,15-24,0,2004,Dysentery
 Uthai Thani,15-24,2,2004,Dysentery
 Central Region,15-24,23,2004,Dysentery
 Bangkok,15-24,1,2004,Dysentery
-Zone 4,15-24,1,2004,Dysentery
+Zone:4,15-24,1,2004,Dysentery
 Ang Thong,15-24,0,2004,Dysentery
 Nonthaburi,15-24,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,15-24,0,2004,Dysentery
 Pathum Thani,15-24,1,2004,Dysentery
-Zone 5,15-24,2,2004,Dysentery
+Zone:5,15-24,2,2004,Dysentery
 Chai Nat,15-24,0,2004,Dysentery
 Lop Buri,15-24,0,2004,Dysentery
 Saraburi,15-24,2,2004,Dysentery
 Sing Buri,15-24,0,2004,Dysentery
-Zone 6,15-24,4,2004,Dysentery
+Zone:6,15-24,4,2004,Dysentery
 Kanchanaburi,15-24,0,2004,Dysentery
 Nakhon Pathom,15-24,1,2004,Dysentery
 Ratchaburi,15-24,3,2004,Dysentery
 Suphan Buri,15-24,0,2004,Dysentery
-Zone 7,15-24,1,2004,Dysentery
+Zone:7,15-24,1,2004,Dysentery
 Phetchaburi,15-24,1,2004,Dysentery
 Prachuap Khiri Khan,15-24,0,2004,Dysentery
 Samut Sakhon,15-24,0,2004,Dysentery
 Samut Songkhram,15-24,0,2004,Dysentery
-Zone 8,15-24,4,2004,Dysentery
+Zone:8,15-24,4,2004,Dysentery
 Chachoengsao,15-24,0,2004,Dysentery
 Nakhon Nayok,15-24,0,2004,Dysentery
 Prachin Buri,15-24,1,2004,Dysentery
 Sa Kaeo,15-24,2,2004,Dysentery
 Samut Prakan,15-24,1,2004,Dysentery
-Zone 9,15-24,10,2004,Dysentery
+Zone:9,15-24,10,2004,Dysentery
 Chanthaburi,15-24,0,2004,Dysentery
 Chon Buri,15-24,7,2004,Dysentery
 Rayong,15-24,1,2004,Dysentery
 Trat,15-24,2,2004,Dysentery
 North-Eastern Region,15-24,32,2004,Dysentery
-Zone 10,15-24,9,2004,Dysentery
+Zone:10,15-24,9,2004,Dysentery
 Loei,15-24,0,2004,Dysentery
 Nong Bua Lam Phu,15-24,0,2004,Dysentery
 Nong Khai,15-24,1,2004,Dysentery
 Udon Thani,15-24,8,2004,Dysentery
-Zone 11,15-24,3,2004,Dysentery
+Zone:11,15-24,3,2004,Dysentery
 Kalasin,15-24,0,2004,Dysentery
 Mukdahan,15-24,0,2004,Dysentery
 Nakhon Phanom,15-24,2,2004,Dysentery
 Sakon Nakhon,15-24,1,2004,Dysentery
-Zone 12,15-24,3,2004,Dysentery
+Zone:12,15-24,3,2004,Dysentery
 Khon Kaen,15-24,1,2004,Dysentery
 Maha Sarakham,15-24,0,2004,Dysentery
 Roi Et,15-24,2,2004,Dysentery
-Zone 13,15-24,10,2004,Dysentery
+Zone:13,15-24,10,2004,Dysentery
 Buri Ram,15-24,6,2004,Dysentery
 Chaiyaphum,15-24,0,2004,Dysentery
 Nakhon Ratchasima,15-24,2,2004,Dysentery
 Surin,15-24,2,2004,Dysentery
-Zone 14,15-24,7,2004,Dysentery
+Zone:14,15-24,7,2004,Dysentery
 Amnat Charoen,15-24,0,2004,Dysentery
 Si Sa Ket,15-24,3,2004,Dysentery
 Ubon Ratchathani,15-24,2,2004,Dysentery
 Yasothon,15-24,2,2004,Dysentery
 South Region,15-24,45,2004,Dysentery
-Zone 15,15-24,19,2004,Dysentery
+Zone:15,15-24,19,2004,Dysentery
 Chumphon,15-24,0,2004,Dysentery
 Ranong,15-24,1,2004,Dysentery
 Surat Thani,15-24,18,2004,Dysentery
-Zone 16,15-24,7,2004,Dysentery
+Zone:16,15-24,7,2004,Dysentery
 Nakhon Si Thammarat,15-24,5,2004,Dysentery
 Phatthalung,15-24,0,2004,Dysentery
 Trang,15-24,2,2004,Dysentery
-Zone 17,15-24,0,2004,Dysentery
+Zone:17,15-24,0,2004,Dysentery
 Krabi,15-24,0,2004,Dysentery
 Phangnga,15-24,0,2004,Dysentery
 Phuket,15-24,0,2004,Dysentery
-Zone 18,15-24,15,2004,Dysentery
+Zone:18,15-24,15,2004,Dysentery
 Narathiwat,15-24,8,2004,Dysentery
 Pattani,15-24,3,2004,Dysentery
 Yala,15-24,4,2004,Dysentery
-Zone 19,15-24,4,2004,Dysentery
+Zone:19,15-24,4,2004,Dysentery
 Satun,15-24,0,2004,Dysentery
 Songkhla,15-24,4,2004,Dysentery
 Total,25-34,269,2004,Dysentery
 North Region,25-34,113,2004,Dysentery
-Zone 1,25-34,97,2004,Dysentery
+Zone:1,25-34,97,2004,Dysentery
 Chiang Mai,25-34,39,2004,Dysentery
 Chiang Rai,25-34,1,2004,Dysentery
 Lampang,25-34,7,2004,Dysentery
@@ -9742,98 +9742,98 @@ Mae Hong Son,25-34,45,2004,Dysentery
 Nan,25-34,5,2004,Dysentery
 Phayao,25-34,0,2004,Dysentery
 Phrae,25-34,0,2004,Dysentery
-Zone 2,25-34,12,2004,Dysentery
+Zone:2,25-34,12,2004,Dysentery
 Phetchabun,25-34,2,2004,Dysentery
 Phitsanulok,25-34,5,2004,Dysentery
 Sukhothai,25-34,0,2004,Dysentery
 Tak,25-34,5,2004,Dysentery
 Uttaradit,25-34,0,2004,Dysentery
-Zone 3,25-34,4,2004,Dysentery
+Zone:3,25-34,4,2004,Dysentery
 Kamphaeng Phet,25-34,4,2004,Dysentery
 Nakhon Sawan,25-34,0,2004,Dysentery
 Phichit,25-34,0,2004,Dysentery
 Uthai Thani,25-34,0,2004,Dysentery
 Central Region,25-34,18,2004,Dysentery
 Bangkok,25-34,0,2004,Dysentery
-Zone 4,25-34,1,2004,Dysentery
+Zone:4,25-34,1,2004,Dysentery
 Ang Thong,25-34,0,2004,Dysentery
 Nonthaburi,25-34,1,2004,Dysentery
 P.Nakhon S.Ayutthaya,25-34,0,2004,Dysentery
 Pathum Thani,25-34,0,2004,Dysentery
-Zone 5,25-34,2,2004,Dysentery
+Zone:5,25-34,2,2004,Dysentery
 Chai Nat,25-34,0,2004,Dysentery
 Lop Buri,25-34,0,2004,Dysentery
 Saraburi,25-34,2,2004,Dysentery
 Sing Buri,25-34,0,2004,Dysentery
-Zone 6,25-34,1,2004,Dysentery
+Zone:6,25-34,1,2004,Dysentery
 Kanchanaburi,25-34,0,2004,Dysentery
 Nakhon Pathom,25-34,0,2004,Dysentery
 Ratchaburi,25-34,1,2004,Dysentery
 Suphan Buri,25-34,0,2004,Dysentery
-Zone 7,25-34,2,2004,Dysentery
+Zone:7,25-34,2,2004,Dysentery
 Phetchaburi,25-34,0,2004,Dysentery
 Prachuap Khiri Khan,25-34,2,2004,Dysentery
 Samut Sakhon,25-34,0,2004,Dysentery
 Samut Songkhram,25-34,0,2004,Dysentery
-Zone 8,25-34,2,2004,Dysentery
+Zone:8,25-34,2,2004,Dysentery
 Chachoengsao,25-34,0,2004,Dysentery
 Nakhon Nayok,25-34,0,2004,Dysentery
 Prachin Buri,25-34,0,2004,Dysentery
 Sa Kaeo,25-34,1,2004,Dysentery
 Samut Prakan,25-34,1,2004,Dysentery
-Zone 9,25-34,10,2004,Dysentery
+Zone:9,25-34,10,2004,Dysentery
 Chanthaburi,25-34,0,2004,Dysentery
 Chon Buri,25-34,7,2004,Dysentery
 Rayong,25-34,0,2004,Dysentery
 Trat,25-34,3,2004,Dysentery
 North-Eastern Region,25-34,85,2004,Dysentery
-Zone 10,25-34,21,2004,Dysentery
+Zone:10,25-34,21,2004,Dysentery
 Loei,25-34,1,2004,Dysentery
 Nong Bua Lam Phu,25-34,1,2004,Dysentery
 Nong Khai,25-34,2,2004,Dysentery
 Udon Thani,25-34,17,2004,Dysentery
-Zone 11,25-34,3,2004,Dysentery
+Zone:11,25-34,3,2004,Dysentery
 Kalasin,25-34,0,2004,Dysentery
 Mukdahan,25-34,0,2004,Dysentery
 Nakhon Phanom,25-34,1,2004,Dysentery
 Sakon Nakhon,25-34,2,2004,Dysentery
-Zone 12,25-34,11,2004,Dysentery
+Zone:12,25-34,11,2004,Dysentery
 Khon Kaen,25-34,9,2004,Dysentery
 Maha Sarakham,25-34,0,2004,Dysentery
 Roi Et,25-34,2,2004,Dysentery
-Zone 13,25-34,17,2004,Dysentery
+Zone:13,25-34,17,2004,Dysentery
 Buri Ram,25-34,5,2004,Dysentery
 Chaiyaphum,25-34,1,2004,Dysentery
 Nakhon Ratchasima,25-34,7,2004,Dysentery
 Surin,25-34,4,2004,Dysentery
-Zone 14,25-34,33,2004,Dysentery
+Zone:14,25-34,33,2004,Dysentery
 Amnat Charoen,25-34,0,2004,Dysentery
 Si Sa Ket,25-34,23,2004,Dysentery
 Ubon Ratchathani,25-34,6,2004,Dysentery
 Yasothon,25-34,4,2004,Dysentery
 South Region,25-34,53,2004,Dysentery
-Zone 15,25-34,7,2004,Dysentery
+Zone:15,25-34,7,2004,Dysentery
 Chumphon,25-34,0,2004,Dysentery
 Ranong,25-34,1,2004,Dysentery
 Surat Thani,25-34,6,2004,Dysentery
-Zone 16,25-34,12,2004,Dysentery
+Zone:16,25-34,12,2004,Dysentery
 Nakhon Si Thammarat,25-34,8,2004,Dysentery
 Phatthalung,25-34,0,2004,Dysentery
 Trang,25-34,4,2004,Dysentery
-Zone 17,25-34,2,2004,Dysentery
+Zone:17,25-34,2,2004,Dysentery
 Krabi,25-34,2,2004,Dysentery
 Phangnga,25-34,0,2004,Dysentery
 Phuket,25-34,0,2004,Dysentery
-Zone 18,25-34,30,2004,Dysentery
+Zone:18,25-34,30,2004,Dysentery
 Narathiwat,25-34,24,2004,Dysentery
 Pattani,25-34,0,2004,Dysentery
 Yala,25-34,6,2004,Dysentery
-Zone 19,25-34,2,2004,Dysentery
+Zone:19,25-34,2,2004,Dysentery
 Satun,25-34,0,2004,Dysentery
 Songkhla,25-34,2,2004,Dysentery
 Total,35-44,295,2004,Dysentery
 North Region,35-44,135,2004,Dysentery
-Zone 1,35-44,113,2004,Dysentery
+Zone:1,35-44,113,2004,Dysentery
 Chiang Mai,35-44,51,2004,Dysentery
 Chiang Rai,35-44,3,2004,Dysentery
 Lampang,35-44,17,2004,Dysentery
@@ -9842,98 +9842,98 @@ Mae Hong Son,35-44,38,2004,Dysentery
 Nan,35-44,3,2004,Dysentery
 Phayao,35-44,0,2004,Dysentery
 Phrae,35-44,1,2004,Dysentery
-Zone 2,35-44,16,2004,Dysentery
+Zone:2,35-44,16,2004,Dysentery
 Phetchabun,35-44,3,2004,Dysentery
 Phitsanulok,35-44,9,2004,Dysentery
 Sukhothai,35-44,0,2004,Dysentery
 Tak,35-44,2,2004,Dysentery
 Uttaradit,35-44,2,2004,Dysentery
-Zone 3,35-44,6,2004,Dysentery
+Zone:3,35-44,6,2004,Dysentery
 Kamphaeng Phet,35-44,4,2004,Dysentery
 Nakhon Sawan,35-44,2,2004,Dysentery
 Phichit,35-44,0,2004,Dysentery
 Uthai Thani,35-44,0,2004,Dysentery
 Central Region,35-44,20,2004,Dysentery
 Bangkok,35-44,0,2004,Dysentery
-Zone 4,35-44,4,2004,Dysentery
+Zone:4,35-44,4,2004,Dysentery
 Ang Thong,35-44,0,2004,Dysentery
 Nonthaburi,35-44,1,2004,Dysentery
 P.Nakhon S.Ayutthaya,35-44,3,2004,Dysentery
 Pathum Thani,35-44,0,2004,Dysentery
-Zone 5,35-44,3,2004,Dysentery
+Zone:5,35-44,3,2004,Dysentery
 Chai Nat,35-44,0,2004,Dysentery
 Lop Buri,35-44,1,2004,Dysentery
 Saraburi,35-44,2,2004,Dysentery
 Sing Buri,35-44,0,2004,Dysentery
-Zone 6,35-44,4,2004,Dysentery
+Zone:6,35-44,4,2004,Dysentery
 Kanchanaburi,35-44,0,2004,Dysentery
 Nakhon Pathom,35-44,0,2004,Dysentery
 Ratchaburi,35-44,1,2004,Dysentery
 Suphan Buri,35-44,3,2004,Dysentery
-Zone 7,35-44,1,2004,Dysentery
+Zone:7,35-44,1,2004,Dysentery
 Phetchaburi,35-44,0,2004,Dysentery
 Prachuap Khiri Khan,35-44,1,2004,Dysentery
 Samut Sakhon,35-44,0,2004,Dysentery
 Samut Songkhram,35-44,0,2004,Dysentery
-Zone 8,35-44,3,2004,Dysentery
+Zone:8,35-44,3,2004,Dysentery
 Chachoengsao,35-44,2,2004,Dysentery
 Nakhon Nayok,35-44,0,2004,Dysentery
 Prachin Buri,35-44,0,2004,Dysentery
 Sa Kaeo,35-44,0,2004,Dysentery
 Samut Prakan,35-44,1,2004,Dysentery
-Zone 9,35-44,5,2004,Dysentery
+Zone:9,35-44,5,2004,Dysentery
 Chanthaburi,35-44,1,2004,Dysentery
 Chon Buri,35-44,3,2004,Dysentery
 Rayong,35-44,0,2004,Dysentery
 Trat,35-44,1,2004,Dysentery
 North-Eastern Region,35-44,78,2004,Dysentery
-Zone 10,35-44,18,2004,Dysentery
+Zone:10,35-44,18,2004,Dysentery
 Loei,35-44,1,2004,Dysentery
 Nong Bua Lam Phu,35-44,0,2004,Dysentery
 Nong Khai,35-44,0,2004,Dysentery
 Udon Thani,35-44,17,2004,Dysentery
-Zone 11,35-44,10,2004,Dysentery
+Zone:11,35-44,10,2004,Dysentery
 Kalasin,35-44,0,2004,Dysentery
 Mukdahan,35-44,3,2004,Dysentery
 Nakhon Phanom,35-44,6,2004,Dysentery
 Sakon Nakhon,35-44,1,2004,Dysentery
-Zone 12,35-44,8,2004,Dysentery
+Zone:12,35-44,8,2004,Dysentery
 Khon Kaen,35-44,2,2004,Dysentery
 Maha Sarakham,35-44,2,2004,Dysentery
 Roi Et,35-44,4,2004,Dysentery
-Zone 13,35-44,19,2004,Dysentery
+Zone:13,35-44,19,2004,Dysentery
 Buri Ram,35-44,5,2004,Dysentery
 Chaiyaphum,35-44,2,2004,Dysentery
 Nakhon Ratchasima,35-44,8,2004,Dysentery
 Surin,35-44,4,2004,Dysentery
-Zone 14,35-44,23,2004,Dysentery
+Zone:14,35-44,23,2004,Dysentery
 Amnat Charoen,35-44,1,2004,Dysentery
 Si Sa Ket,35-44,16,2004,Dysentery
 Ubon Ratchathani,35-44,4,2004,Dysentery
 Yasothon,35-44,2,2004,Dysentery
 South Region,35-44,62,2004,Dysentery
-Zone 15,35-44,7,2004,Dysentery
+Zone:15,35-44,7,2004,Dysentery
 Chumphon,35-44,0,2004,Dysentery
 Ranong,35-44,1,2004,Dysentery
 Surat Thani,35-44,6,2004,Dysentery
-Zone 16,35-44,13,2004,Dysentery
+Zone:16,35-44,13,2004,Dysentery
 Nakhon Si Thammarat,35-44,7,2004,Dysentery
 Phatthalung,35-44,0,2004,Dysentery
 Trang,35-44,6,2004,Dysentery
-Zone 17,35-44,1,2004,Dysentery
+Zone:17,35-44,1,2004,Dysentery
 Krabi,35-44,0,2004,Dysentery
 Phangnga,35-44,1,2004,Dysentery
 Phuket,35-44,0,2004,Dysentery
-Zone 18,35-44,39,2004,Dysentery
+Zone:18,35-44,39,2004,Dysentery
 Narathiwat,35-44,31,2004,Dysentery
 Pattani,35-44,1,2004,Dysentery
 Yala,35-44,7,2004,Dysentery
-Zone 19,35-44,2,2004,Dysentery
+Zone:19,35-44,2,2004,Dysentery
 Satun,35-44,0,2004,Dysentery
 Songkhla,35-44,2,2004,Dysentery
 Total,45-54,222,2004,Dysentery
 North Region,45-54,103,2004,Dysentery
-Zone 1,45-54,78,2004,Dysentery
+Zone:1,45-54,78,2004,Dysentery
 Chiang Mai,45-54,27,2004,Dysentery
 Chiang Rai,45-54,3,2004,Dysentery
 Lampang,45-54,15,2004,Dysentery
@@ -9942,98 +9942,98 @@ Mae Hong Son,45-54,24,2004,Dysentery
 Nan,45-54,4,2004,Dysentery
 Phayao,45-54,1,2004,Dysentery
 Phrae,45-54,4,2004,Dysentery
-Zone 2,45-54,16,2004,Dysentery
+Zone:2,45-54,16,2004,Dysentery
 Phetchabun,45-54,2,2004,Dysentery
 Phitsanulok,45-54,9,2004,Dysentery
 Sukhothai,45-54,1,2004,Dysentery
 Tak,45-54,4,2004,Dysentery
 Uttaradit,45-54,0,2004,Dysentery
-Zone 3,45-54,9,2004,Dysentery
+Zone:3,45-54,9,2004,Dysentery
 Kamphaeng Phet,45-54,7,2004,Dysentery
 Nakhon Sawan,45-54,1,2004,Dysentery
 Phichit,45-54,1,2004,Dysentery
 Uthai Thani,45-54,0,2004,Dysentery
 Central Region,45-54,14,2004,Dysentery
 Bangkok,45-54,1,2004,Dysentery
-Zone 4,45-54,4,2004,Dysentery
+Zone:4,45-54,4,2004,Dysentery
 Ang Thong,45-54,0,2004,Dysentery
 Nonthaburi,45-54,2,2004,Dysentery
 P.Nakhon S.Ayutthaya,45-54,1,2004,Dysentery
 Pathum Thani,45-54,1,2004,Dysentery
-Zone 5,45-54,2,2004,Dysentery
+Zone:5,45-54,2,2004,Dysentery
 Chai Nat,45-54,0,2004,Dysentery
 Lop Buri,45-54,1,2004,Dysentery
 Saraburi,45-54,0,2004,Dysentery
 Sing Buri,45-54,1,2004,Dysentery
-Zone 6,45-54,3,2004,Dysentery
+Zone:6,45-54,3,2004,Dysentery
 Kanchanaburi,45-54,1,2004,Dysentery
 Nakhon Pathom,45-54,0,2004,Dysentery
 Ratchaburi,45-54,1,2004,Dysentery
 Suphan Buri,45-54,1,2004,Dysentery
-Zone 7,45-54,1,2004,Dysentery
+Zone:7,45-54,1,2004,Dysentery
 Phetchaburi,45-54,0,2004,Dysentery
 Prachuap Khiri Khan,45-54,1,2004,Dysentery
 Samut Sakhon,45-54,0,2004,Dysentery
 Samut Songkhram,45-54,0,2004,Dysentery
-Zone 8,45-54,2,2004,Dysentery
+Zone:8,45-54,2,2004,Dysentery
 Chachoengsao,45-54,0,2004,Dysentery
 Nakhon Nayok,45-54,0,2004,Dysentery
 Prachin Buri,45-54,2,2004,Dysentery
 Sa Kaeo,45-54,0,2004,Dysentery
 Samut Prakan,45-54,0,2004,Dysentery
-Zone 9,45-54,1,2004,Dysentery
+Zone:9,45-54,1,2004,Dysentery
 Chanthaburi,45-54,0,2004,Dysentery
 Chon Buri,45-54,1,2004,Dysentery
 Rayong,45-54,0,2004,Dysentery
 Trat,45-54,0,2004,Dysentery
 North-Eastern Region,45-54,77,2004,Dysentery
-Zone 10,45-54,18,2004,Dysentery
+Zone:10,45-54,18,2004,Dysentery
 Loei,45-54,4,2004,Dysentery
 Nong Bua Lam Phu,45-54,1,2004,Dysentery
 Nong Khai,45-54,1,2004,Dysentery
 Udon Thani,45-54,12,2004,Dysentery
-Zone 11,45-54,7,2004,Dysentery
+Zone:11,45-54,7,2004,Dysentery
 Kalasin,45-54,0,2004,Dysentery
 Mukdahan,45-54,2,2004,Dysentery
 Nakhon Phanom,45-54,3,2004,Dysentery
 Sakon Nakhon,45-54,2,2004,Dysentery
-Zone 12,45-54,12,2004,Dysentery
+Zone:12,45-54,12,2004,Dysentery
 Khon Kaen,45-54,8,2004,Dysentery
 Maha Sarakham,45-54,0,2004,Dysentery
 Roi Et,45-54,4,2004,Dysentery
-Zone 13,45-54,11,2004,Dysentery
+Zone:13,45-54,11,2004,Dysentery
 Buri Ram,45-54,6,2004,Dysentery
 Chaiyaphum,45-54,0,2004,Dysentery
 Nakhon Ratchasima,45-54,4,2004,Dysentery
 Surin,45-54,1,2004,Dysentery
-Zone 14,45-54,29,2004,Dysentery
+Zone:14,45-54,29,2004,Dysentery
 Amnat Charoen,45-54,0,2004,Dysentery
 Si Sa Ket,45-54,13,2004,Dysentery
 Ubon Ratchathani,45-54,15,2004,Dysentery
 Yasothon,45-54,1,2004,Dysentery
 South Region,45-54,28,2004,Dysentery
-Zone 15,45-54,6,2004,Dysentery
+Zone:15,45-54,6,2004,Dysentery
 Chumphon,45-54,0,2004,Dysentery
 Ranong,45-54,0,2004,Dysentery
 Surat Thani,45-54,6,2004,Dysentery
-Zone 16,45-54,4,2004,Dysentery
+Zone:16,45-54,4,2004,Dysentery
 Nakhon Si Thammarat,45-54,2,2004,Dysentery
 Phatthalung,45-54,0,2004,Dysentery
 Trang,45-54,2,2004,Dysentery
-Zone 17,45-54,0,2004,Dysentery
+Zone:17,45-54,0,2004,Dysentery
 Krabi,45-54,0,2004,Dysentery
 Phangnga,45-54,0,2004,Dysentery
 Phuket,45-54,0,2004,Dysentery
-Zone 18,45-54,14,2004,Dysentery
+Zone:18,45-54,14,2004,Dysentery
 Narathiwat,45-54,10,2004,Dysentery
 Pattani,45-54,2,2004,Dysentery
 Yala,45-54,2,2004,Dysentery
-Zone 19,45-54,4,2004,Dysentery
+Zone:19,45-54,4,2004,Dysentery
 Satun,45-54,0,2004,Dysentery
 Songkhla,45-54,4,2004,Dysentery
 Total,55-64,184,2004,Dysentery
 North Region,55-64,71,2004,Dysentery
-Zone 1,55-64,57,2004,Dysentery
+Zone:1,55-64,57,2004,Dysentery
 Chiang Mai,55-64,28,2004,Dysentery
 Chiang Rai,55-64,1,2004,Dysentery
 Lampang,55-64,6,2004,Dysentery
@@ -10042,98 +10042,98 @@ Mae Hong Son,55-64,19,2004,Dysentery
 Nan,55-64,1,2004,Dysentery
 Phayao,55-64,0,2004,Dysentery
 Phrae,55-64,2,2004,Dysentery
-Zone 2,55-64,6,2004,Dysentery
+Zone:2,55-64,6,2004,Dysentery
 Phetchabun,55-64,5,2004,Dysentery
 Phitsanulok,55-64,1,2004,Dysentery
 Sukhothai,55-64,0,2004,Dysentery
 Tak,55-64,0,2004,Dysentery
 Uttaradit,55-64,0,2004,Dysentery
-Zone 3,55-64,8,2004,Dysentery
+Zone:3,55-64,8,2004,Dysentery
 Kamphaeng Phet,55-64,5,2004,Dysentery
 Nakhon Sawan,55-64,2,2004,Dysentery
 Phichit,55-64,0,2004,Dysentery
 Uthai Thani,55-64,1,2004,Dysentery
 Central Region,55-64,10,2004,Dysentery
 Bangkok,55-64,0,2004,Dysentery
-Zone 4,55-64,1,2004,Dysentery
+Zone:4,55-64,1,2004,Dysentery
 Ang Thong,55-64,0,2004,Dysentery
 Nonthaburi,55-64,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,55-64,0,2004,Dysentery
 Pathum Thani,55-64,1,2004,Dysentery
-Zone 5,55-64,2,2004,Dysentery
+Zone:5,55-64,2,2004,Dysentery
 Chai Nat,55-64,0,2004,Dysentery
 Lop Buri,55-64,1,2004,Dysentery
 Saraburi,55-64,1,2004,Dysentery
 Sing Buri,55-64,0,2004,Dysentery
-Zone 6,55-64,0,2004,Dysentery
+Zone:6,55-64,0,2004,Dysentery
 Kanchanaburi,55-64,0,2004,Dysentery
 Nakhon Pathom,55-64,0,2004,Dysentery
 Ratchaburi,55-64,0,2004,Dysentery
 Suphan Buri,55-64,0,2004,Dysentery
-Zone 7,55-64,2,2004,Dysentery
+Zone:7,55-64,2,2004,Dysentery
 Phetchaburi,55-64,0,2004,Dysentery
 Prachuap Khiri Khan,55-64,2,2004,Dysentery
 Samut Sakhon,55-64,0,2004,Dysentery
 Samut Songkhram,55-64,0,2004,Dysentery
-Zone 8,55-64,3,2004,Dysentery
+Zone:8,55-64,3,2004,Dysentery
 Chachoengsao,55-64,2,2004,Dysentery
 Nakhon Nayok,55-64,0,2004,Dysentery
 Prachin Buri,55-64,0,2004,Dysentery
 Sa Kaeo,55-64,1,2004,Dysentery
 Samut Prakan,55-64,0,2004,Dysentery
-Zone 9,55-64,2,2004,Dysentery
+Zone:9,55-64,2,2004,Dysentery
 Chanthaburi,55-64,0,2004,Dysentery
 Chon Buri,55-64,1,2004,Dysentery
 Rayong,55-64,0,2004,Dysentery
 Trat,55-64,1,2004,Dysentery
 North-Eastern Region,55-64,74,2004,Dysentery
-Zone 10,55-64,25,2004,Dysentery
+Zone:10,55-64,25,2004,Dysentery
 Loei,55-64,4,2004,Dysentery
 Nong Bua Lam Phu,55-64,0,2004,Dysentery
 Nong Khai,55-64,4,2004,Dysentery
 Udon Thani,55-64,17,2004,Dysentery
-Zone 11,55-64,4,2004,Dysentery
+Zone:11,55-64,4,2004,Dysentery
 Kalasin,55-64,0,2004,Dysentery
 Mukdahan,55-64,1,2004,Dysentery
 Nakhon Phanom,55-64,1,2004,Dysentery
 Sakon Nakhon,55-64,2,2004,Dysentery
-Zone 12,55-64,7,2004,Dysentery
+Zone:12,55-64,7,2004,Dysentery
 Khon Kaen,55-64,3,2004,Dysentery
 Maha Sarakham,55-64,0,2004,Dysentery
 Roi Et,55-64,4,2004,Dysentery
-Zone 13,55-64,20,2004,Dysentery
+Zone:13,55-64,20,2004,Dysentery
 Buri Ram,55-64,9,2004,Dysentery
 Chaiyaphum,55-64,2,2004,Dysentery
 Nakhon Ratchasima,55-64,1,2004,Dysentery
 Surin,55-64,8,2004,Dysentery
-Zone 14,55-64,18,2004,Dysentery
+Zone:14,55-64,18,2004,Dysentery
 Amnat Charoen,55-64,1,2004,Dysentery
 Si Sa Ket,55-64,9,2004,Dysentery
 Ubon Ratchathani,55-64,5,2004,Dysentery
 Yasothon,55-64,3,2004,Dysentery
 South Region,55-64,29,2004,Dysentery
-Zone 15,55-64,4,2004,Dysentery
+Zone:15,55-64,4,2004,Dysentery
 Chumphon,55-64,0,2004,Dysentery
 Ranong,55-64,1,2004,Dysentery
 Surat Thani,55-64,3,2004,Dysentery
-Zone 16,55-64,7,2004,Dysentery
+Zone:16,55-64,7,2004,Dysentery
 Nakhon Si Thammarat,55-64,2,2004,Dysentery
 Phatthalung,55-64,0,2004,Dysentery
 Trang,55-64,5,2004,Dysentery
-Zone 17,55-64,0,2004,Dysentery
+Zone:17,55-64,0,2004,Dysentery
 Krabi,55-64,0,2004,Dysentery
 Phangnga,55-64,0,2004,Dysentery
 Phuket,55-64,0,2004,Dysentery
-Zone 18,55-64,16,2004,Dysentery
+Zone:18,55-64,16,2004,Dysentery
 Narathiwat,55-64,13,2004,Dysentery
 Pattani,55-64,1,2004,Dysentery
 Yala,55-64,2,2004,Dysentery
-Zone 19,55-64,2,2004,Dysentery
+Zone:19,55-64,2,2004,Dysentery
 Satun,55-64,0,2004,Dysentery
 Songkhla,55-64,2,2004,Dysentery
 Total,65+,234,2004,Dysentery
 North Region,65+,122,2004,Dysentery
-Zone 1,65+,86,2004,Dysentery
+Zone:1,65+,86,2004,Dysentery
 Chiang Mai,65+,40,2004,Dysentery
 Chiang Rai,65+,6,2004,Dysentery
 Lampang,65+,6,2004,Dysentery
@@ -10142,98 +10142,98 @@ Mae Hong Son,65+,23,2004,Dysentery
 Nan,65+,8,2004,Dysentery
 Phayao,65+,1,2004,Dysentery
 Phrae,65+,2,2004,Dysentery
-Zone 2,65+,18,2004,Dysentery
+Zone:2,65+,18,2004,Dysentery
 Phetchabun,65+,3,2004,Dysentery
 Phitsanulok,65+,11,2004,Dysentery
 Sukhothai,65+,0,2004,Dysentery
 Tak,65+,3,2004,Dysentery
 Uttaradit,65+,1,2004,Dysentery
-Zone 3,65+,18,2004,Dysentery
+Zone:3,65+,18,2004,Dysentery
 Kamphaeng Phet,65+,14,2004,Dysentery
 Nakhon Sawan,65+,3,2004,Dysentery
 Phichit,65+,0,2004,Dysentery
 Uthai Thani,65+,1,2004,Dysentery
 Central Region,65+,15,2004,Dysentery
 Bangkok,65+,1,2004,Dysentery
-Zone 4,65+,3,2004,Dysentery
+Zone:4,65+,3,2004,Dysentery
 Ang Thong,65+,0,2004,Dysentery
 Nonthaburi,65+,1,2004,Dysentery
 P.Nakhon S.Ayutthaya,65+,0,2004,Dysentery
 Pathum Thani,65+,2,2004,Dysentery
-Zone 5,65+,0,2004,Dysentery
+Zone:5,65+,0,2004,Dysentery
 Chai Nat,65+,0,2004,Dysentery
 Lop Buri,65+,0,2004,Dysentery
 Saraburi,65+,0,2004,Dysentery
 Sing Buri,65+,0,2004,Dysentery
-Zone 6,65+,2,2004,Dysentery
+Zone:6,65+,2,2004,Dysentery
 Kanchanaburi,65+,0,2004,Dysentery
 Nakhon Pathom,65+,2,2004,Dysentery
 Ratchaburi,65+,0,2004,Dysentery
 Suphan Buri,65+,0,2004,Dysentery
-Zone 7,65+,0,2004,Dysentery
+Zone:7,65+,0,2004,Dysentery
 Phetchaburi,65+,0,2004,Dysentery
 Prachuap Khiri Khan,65+,0,2004,Dysentery
 Samut Sakhon,65+,0,2004,Dysentery
 Samut Songkhram,65+,0,2004,Dysentery
-Zone 8,65+,4,2004,Dysentery
+Zone:8,65+,4,2004,Dysentery
 Chachoengsao,65+,1,2004,Dysentery
 Nakhon Nayok,65+,0,2004,Dysentery
 Prachin Buri,65+,0,2004,Dysentery
 Sa Kaeo,65+,3,2004,Dysentery
 Samut Prakan,65+,0,2004,Dysentery
-Zone 9,65+,5,2004,Dysentery
+Zone:9,65+,5,2004,Dysentery
 Chanthaburi,65+,1,2004,Dysentery
 Chon Buri,65+,3,2004,Dysentery
 Rayong,65+,1,2004,Dysentery
 Trat,65+,0,2004,Dysentery
 North-Eastern Region,65+,68,2004,Dysentery
-Zone 10,65+,18,2004,Dysentery
+Zone:10,65+,18,2004,Dysentery
 Loei,65+,0,2004,Dysentery
 Nong Bua Lam Phu,65+,0,2004,Dysentery
 Nong Khai,65+,3,2004,Dysentery
 Udon Thani,65+,15,2004,Dysentery
-Zone 11,65+,2,2004,Dysentery
+Zone:11,65+,2,2004,Dysentery
 Kalasin,65+,0,2004,Dysentery
 Mukdahan,65+,0,2004,Dysentery
 Nakhon Phanom,65+,1,2004,Dysentery
 Sakon Nakhon,65+,1,2004,Dysentery
-Zone 12,65+,18,2004,Dysentery
+Zone:12,65+,18,2004,Dysentery
 Khon Kaen,65+,10,2004,Dysentery
 Maha Sarakham,65+,3,2004,Dysentery
 Roi Et,65+,5,2004,Dysentery
-Zone 13,65+,10,2004,Dysentery
+Zone:13,65+,10,2004,Dysentery
 Buri Ram,65+,2,2004,Dysentery
 Chaiyaphum,65+,1,2004,Dysentery
 Nakhon Ratchasima,65+,2,2004,Dysentery
 Surin,65+,5,2004,Dysentery
-Zone 14,65+,20,2004,Dysentery
+Zone:14,65+,20,2004,Dysentery
 Amnat Charoen,65+,0,2004,Dysentery
 Si Sa Ket,65+,12,2004,Dysentery
 Ubon Ratchathani,65+,7,2004,Dysentery
 Yasothon,65+,1,2004,Dysentery
 South Region,65+,29,2004,Dysentery
-Zone 15,65+,2,2004,Dysentery
+Zone:15,65+,2,2004,Dysentery
 Chumphon,65+,0,2004,Dysentery
 Ranong,65+,2,2004,Dysentery
 Surat Thani,65+,0,2004,Dysentery
-Zone 16,65+,5,2004,Dysentery
+Zone:16,65+,5,2004,Dysentery
 Nakhon Si Thammarat,65+,4,2004,Dysentery
 Phatthalung,65+,0,2004,Dysentery
 Trang,65+,1,2004,Dysentery
-Zone 17,65+,1,2004,Dysentery
+Zone:17,65+,1,2004,Dysentery
 Krabi,65+,1,2004,Dysentery
 Phangnga,65+,0,2004,Dysentery
 Phuket,65+,0,2004,Dysentery
-Zone 18,65+,19,2004,Dysentery
+Zone:18,65+,19,2004,Dysentery
 Narathiwat,65+,16,2004,Dysentery
 Pattani,65+,2,2004,Dysentery
 Yala,65+,1,2004,Dysentery
-Zone 19,65+,2,2004,Dysentery
+Zone:19,65+,2,2004,Dysentery
 Satun,65+,1,2004,Dysentery
 Songkhla,65+,1,2004,Dysentery
 Total,Unknown,9,2004,Dysentery
 North Region,Unknown,0,2004,Dysentery
-Zone 1,Unknown,0,2004,Dysentery
+Zone:1,Unknown,0,2004,Dysentery
 Chiang Mai,Unknown,0,2004,Dysentery
 Chiang Rai,Unknown,0,2004,Dysentery
 Lampang,Unknown,0,2004,Dysentery
@@ -10242,93 +10242,93 @@ Mae Hong Son,Unknown,0,2004,Dysentery
 Nan,Unknown,0,2004,Dysentery
 Phayao,Unknown,0,2004,Dysentery
 Phrae,Unknown,0,2004,Dysentery
-Zone 2,Unknown,0,2004,Dysentery
+Zone:2,Unknown,0,2004,Dysentery
 Phetchabun,Unknown,0,2004,Dysentery
 Phitsanulok,Unknown,0,2004,Dysentery
 Sukhothai,Unknown,0,2004,Dysentery
 Tak,Unknown,0,2004,Dysentery
 Uttaradit,Unknown,0,2004,Dysentery
-Zone 3,Unknown,0,2004,Dysentery
+Zone:3,Unknown,0,2004,Dysentery
 Kamphaeng Phet,Unknown,0,2004,Dysentery
 Nakhon Sawan,Unknown,0,2004,Dysentery
 Phichit,Unknown,0,2004,Dysentery
 Uthai Thani,Unknown,0,2004,Dysentery
 Central Region,Unknown,0,2004,Dysentery
 Bangkok,Unknown,0,2004,Dysentery
-Zone 4,Unknown,0,2004,Dysentery
+Zone:4,Unknown,0,2004,Dysentery
 Ang Thong,Unknown,0,2004,Dysentery
 Nonthaburi,Unknown,0,2004,Dysentery
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Dysentery
 Pathum Thani,Unknown,0,2004,Dysentery
-Zone 5,Unknown,0,2004,Dysentery
+Zone:5,Unknown,0,2004,Dysentery
 Chai Nat,Unknown,0,2004,Dysentery
 Lop Buri,Unknown,0,2004,Dysentery
 Saraburi,Unknown,0,2004,Dysentery
 Sing Buri,Unknown,0,2004,Dysentery
-Zone 6,Unknown,0,2004,Dysentery
+Zone:6,Unknown,0,2004,Dysentery
 Kanchanaburi,Unknown,0,2004,Dysentery
 Nakhon Pathom,Unknown,0,2004,Dysentery
 Ratchaburi,Unknown,0,2004,Dysentery
 Suphan Buri,Unknown,0,2004,Dysentery
-Zone 7,Unknown,0,2004,Dysentery
+Zone:7,Unknown,0,2004,Dysentery
 Phetchaburi,Unknown,0,2004,Dysentery
 Prachuap Khiri Khan,Unknown,0,2004,Dysentery
 Samut Sakhon,Unknown,0,2004,Dysentery
 Samut Songkhram,Unknown,0,2004,Dysentery
-Zone 8,Unknown,0,2004,Dysentery
+Zone:8,Unknown,0,2004,Dysentery
 Chachoengsao,Unknown,0,2004,Dysentery
 Nakhon Nayok,Unknown,0,2004,Dysentery
 Prachin Buri,Unknown,0,2004,Dysentery
 Sa Kaeo,Unknown,0,2004,Dysentery
 Samut Prakan,Unknown,0,2004,Dysentery
-Zone 9,Unknown,0,2004,Dysentery
+Zone:9,Unknown,0,2004,Dysentery
 Chanthaburi,Unknown,0,2004,Dysentery
 Chon Buri,Unknown,0,2004,Dysentery
 Rayong,Unknown,0,2004,Dysentery
 Trat,Unknown,0,2004,Dysentery
 North-Eastern Region,Unknown,9,2004,Dysentery
-Zone 10,Unknown,8,2004,Dysentery
+Zone:10,Unknown,8,2004,Dysentery
 Loei,Unknown,0,2004,Dysentery
 Nong Bua Lam Phu,Unknown,0,2004,Dysentery
 Nong Khai,Unknown,0,2004,Dysentery
 Udon Thani,Unknown,8,2004,Dysentery
-Zone 11,Unknown,0,2004,Dysentery
+Zone:11,Unknown,0,2004,Dysentery
 Kalasin,Unknown,0,2004,Dysentery
 Mukdahan,Unknown,0,2004,Dysentery
 Nakhon Phanom,Unknown,0,2004,Dysentery
 Sakon Nakhon,Unknown,0,2004,Dysentery
-Zone 12,Unknown,0,2004,Dysentery
+Zone:12,Unknown,0,2004,Dysentery
 Khon Kaen,Unknown,0,2004,Dysentery
 Maha Sarakham,Unknown,0,2004,Dysentery
 Roi Et,Unknown,0,2004,Dysentery
-Zone 13,Unknown,0,2004,Dysentery
+Zone:13,Unknown,0,2004,Dysentery
 Buri Ram,Unknown,0,2004,Dysentery
 Chaiyaphum,Unknown,0,2004,Dysentery
 Nakhon Ratchasima,Unknown,0,2004,Dysentery
 Surin,Unknown,0,2004,Dysentery
-Zone 14,Unknown,1,2004,Dysentery
+Zone:14,Unknown,1,2004,Dysentery
 Amnat Charoen,Unknown,0,2004,Dysentery
 Si Sa Ket,Unknown,1,2004,Dysentery
 Ubon Ratchathani,Unknown,0,2004,Dysentery
 Yasothon,Unknown,0,2004,Dysentery
 South Region,Unknown,0,2004,Dysentery
-Zone 15,Unknown,0,2004,Dysentery
+Zone:15,Unknown,0,2004,Dysentery
 Chumphon,Unknown,0,2004,Dysentery
 Ranong,Unknown,0,2004,Dysentery
 Surat Thani,Unknown,0,2004,Dysentery
-Zone 16,Unknown,0,2004,Dysentery
+Zone:16,Unknown,0,2004,Dysentery
 Nakhon Si Thammarat,Unknown,0,2004,Dysentery
 Phatthalung,Unknown,0,2004,Dysentery
 Trang,Unknown,0,2004,Dysentery
-Zone 17,Unknown,0,2004,Dysentery
+Zone:17,Unknown,0,2004,Dysentery
 Krabi,Unknown,0,2004,Dysentery
 Phangnga,Unknown,0,2004,Dysentery
 Phuket,Unknown,0,2004,Dysentery
-Zone 18,Unknown,0,2004,Dysentery
+Zone:18,Unknown,0,2004,Dysentery
 Narathiwat,Unknown,0,2004,Dysentery
 Pattani,Unknown,0,2004,Dysentery
 Yala,Unknown,0,2004,Dysentery
-Zone 19,Unknown,0,2004,Dysentery
+Zone:19,Unknown,0,2004,Dysentery
 Satun,Unknown,0,2004,Dysentery
 Songkhla,Unknown,0,2004,Dysentery
 Total,Total,914,2021,Dysentery
@@ -31123,7 +31123,7 @@ Satun,Unknown,0,2005,Dysentery
 Songkhla,Unknown,0,2005,Dysentery
 Total,Total,1784,2003,Dysentery
 North Region,Total,961,2003,Dysentery
-Zone 1,Total,741,2003,Dysentery
+Zone:1,Total,741,2003,Dysentery
 Chiang Mai,Total,289,2003,Dysentery
 Chiang Rai,Total,34,2003,Dysentery
 Lampang,Total,77,2003,Dysentery
@@ -31132,98 +31132,98 @@ Mae Hong Son,Total,222,2003,Dysentery
 Nan,Total,57,2003,Dysentery
 Phayao,Total,42,2003,Dysentery
 Phrae,Total,16,2003,Dysentery
-Zone 2,Total,140,2003,Dysentery
+Zone:2,Total,140,2003,Dysentery
 Phetchabun,Total,25,2003,Dysentery
 Phitsanulok,Total,105,2003,Dysentery
 Sukhothai,Total,3,2003,Dysentery
 Tak,Total,6,2003,Dysentery
 Uttaradit,Total,1,2003,Dysentery
-Zone 3,Total,80,2003,Dysentery
+Zone:3,Total,80,2003,Dysentery
 Kamphaeng Phet,Total,63,2003,Dysentery
 Nakhon Sawan,Total,16,2003,Dysentery
 Phichit,Total,0,2003,Dysentery
 Uthai Thani,Total,1,2003,Dysentery
 Central Region,Total,137,2003,Dysentery
 Bangkok,Total,4,2003,Dysentery
-Zone 4,Total,8,2003,Dysentery
+Zone:4,Total,8,2003,Dysentery
 Ang Thong,Total,0,2003,Dysentery
 Nonthaburi,Total,1,2003,Dysentery
 P.Nakhon S.Ayutthaya,Total,6,2003,Dysentery
 Pathum Thani,Total,1,2003,Dysentery
-Zone 5,Total,8,2003,Dysentery
+Zone:5,Total,8,2003,Dysentery
 Chai Nat,Total,1,2003,Dysentery
 Lop Buri,Total,2,2003,Dysentery
 Saraburi,Total,5,2003,Dysentery
 Sing Buri,Total,0,2003,Dysentery
-Zone 6,Total,24,2003,Dysentery
+Zone:6,Total,24,2003,Dysentery
 Kanchanaburi,Total,3,2003,Dysentery
 Nakhon Pathom,Total,8,2003,Dysentery
 Ratchaburi,Total,3,2003,Dysentery
 Suphan Buri,Total,10,2003,Dysentery
-Zone 7,Total,16,2003,Dysentery
+Zone:7,Total,16,2003,Dysentery
 Phetchaburi,Total,4,2003,Dysentery
 Prachuap Khiri Khan,Total,10,2003,Dysentery
 Samut Sakhon,Total,1,2003,Dysentery
 Samut Songkhram,Total,1,2003,Dysentery
-Zone 8,Total,50,2003,Dysentery
+Zone:8,Total,50,2003,Dysentery
 Chachoengsao,Total,14,2003,Dysentery
 Nakhon Nayok,Total,0,2003,Dysentery
 Prachin Buri,Total,5,2003,Dysentery
 Sa Kaeo,Total,11,2003,Dysentery
 Samut Prakan,Total,20,2003,Dysentery
-Zone 9,Total,27,2003,Dysentery
+Zone:9,Total,27,2003,Dysentery
 Chanthaburi,Total,5,2003,Dysentery
 Chon Buri,Total,3,2003,Dysentery
 Rayong,Total,11,2003,Dysentery
 Trat,Total,8,2003,Dysentery
 North-Eastern Region,Total,374,2003,Dysentery
-Zone 10,Total,89,2003,Dysentery
+Zone:10,Total,89,2003,Dysentery
 Loei,Total,3,2003,Dysentery
 Nong Bua Lam Phu,Total,6,2003,Dysentery
 Nong Khai,Total,22,2003,Dysentery
 Udon Thani,Total,58,2003,Dysentery
-Zone 11,Total,30,2003,Dysentery
+Zone:11,Total,30,2003,Dysentery
 Kalasin,Total,12,2003,Dysentery
 Mukdahan,Total,4,2003,Dysentery
 Nakhon Phanom,Total,2,2003,Dysentery
 Sakon Nakhon,Total,12,2003,Dysentery
-Zone 12,Total,52,2003,Dysentery
+Zone:12,Total,52,2003,Dysentery
 Khon Kaen,Total,32,2003,Dysentery
 Maha Sarakham,Total,3,2003,Dysentery
 Roi Et,Total,17,2003,Dysentery
-Zone 13,Total,133,2003,Dysentery
+Zone:13,Total,133,2003,Dysentery
 Buri Ram,Total,40,2003,Dysentery
 Chaiyaphum,Total,23,2003,Dysentery
 Nakhon Ratchasima,Total,45,2003,Dysentery
 Surin,Total,25,2003,Dysentery
-Zone 14,Total,70,2003,Dysentery
+Zone:14,Total,70,2003,Dysentery
 Amnat Charoen,Total,0,2003,Dysentery
 Si Sa Ket,Total,46,2003,Dysentery
 Ubon Ratchathani,Total,14,2003,Dysentery
 Yasothon,Total,10,2003,Dysentery
 South Region,Total,312,2003,Dysentery
-Zone 15,Total,83,2003,Dysentery
+Zone:15,Total,83,2003,Dysentery
 Chumphon,Total,35,2003,Dysentery
 Ranong,Total,18,2003,Dysentery
 Surat Thani,Total,30,2003,Dysentery
-Zone 16,Total,99,2003,Dysentery
+Zone:16,Total,99,2003,Dysentery
 Nakhon Si Thammarat,Total,49,2003,Dysentery
 Phatthalung,Total,2,2003,Dysentery
 Trang,Total,48,2003,Dysentery
-Zone 17,Total,24,2003,Dysentery
+Zone:17,Total,24,2003,Dysentery
 Krabi,Total,4,2003,Dysentery
 Phangnga,Total,12,2003,Dysentery
 Phuket,Total,8,2003,Dysentery
-Zone 18,Total,78,2003,Dysentery
+Zone:18,Total,78,2003,Dysentery
 Narathiwat,Total,36,2003,Dysentery
 Pattani,Total,13,2003,Dysentery
 Yala,Total,29,2003,Dysentery
-Zone 19,Total,28,2003,Dysentery
+Zone:19,Total,28,2003,Dysentery
 Satun,Total,5,2003,Dysentery
 Songkhla,Total,23,2003,Dysentery
 Total,0,6,2003,Dysentery
 North Region,0,3,2003,Dysentery
-Zone 1,0,1,2003,Dysentery
+Zone:1,0,1,2003,Dysentery
 Chiang Mai,0,1,2003,Dysentery
 Chiang Rai,0,0,2003,Dysentery
 Lampang,0,0,2003,Dysentery
@@ -31232,98 +31232,98 @@ Mae Hong Son,0,0,2003,Dysentery
 Nan,0,0,2003,Dysentery
 Phayao,0,0,2003,Dysentery
 Phrae,0,0,2003,Dysentery
-Zone 2,0,1,2003,Dysentery
+Zone:2,0,1,2003,Dysentery
 Phetchabun,0,1,2003,Dysentery
 Phitsanulok,0,0,2003,Dysentery
 Sukhothai,0,0,2003,Dysentery
 Tak,0,0,2003,Dysentery
 Uttaradit,0,0,2003,Dysentery
-Zone 3,0,1,2003,Dysentery
+Zone:3,0,1,2003,Dysentery
 Kamphaeng Phet,0,1,2003,Dysentery
 Nakhon Sawan,0,0,2003,Dysentery
 Phichit,0,0,2003,Dysentery
 Uthai Thani,0,0,2003,Dysentery
 Central Region,0,1,2003,Dysentery
 Bangkok,0,0,2003,Dysentery
-Zone 4,0,0,2003,Dysentery
+Zone:4,0,0,2003,Dysentery
 Ang Thong,0,0,2003,Dysentery
 Nonthaburi,0,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,0,0,2003,Dysentery
 Pathum Thani,0,0,2003,Dysentery
-Zone 5,0,0,2003,Dysentery
+Zone:5,0,0,2003,Dysentery
 Chai Nat,0,0,2003,Dysentery
 Lop Buri,0,0,2003,Dysentery
 Saraburi,0,0,2003,Dysentery
 Sing Buri,0,0,2003,Dysentery
-Zone 6,0,0,2003,Dysentery
+Zone:6,0,0,2003,Dysentery
 Kanchanaburi,0,0,2003,Dysentery
 Nakhon Pathom,0,0,2003,Dysentery
 Ratchaburi,0,0,2003,Dysentery
 Suphan Buri,0,0,2003,Dysentery
-Zone 7,0,0,2003,Dysentery
+Zone:7,0,0,2003,Dysentery
 Phetchaburi,0,0,2003,Dysentery
 Prachuap Khiri Khan,0,0,2003,Dysentery
 Samut Sakhon,0,0,2003,Dysentery
 Samut Songkhram,0,0,2003,Dysentery
-Zone 8,0,0,2003,Dysentery
+Zone:8,0,0,2003,Dysentery
 Chachoengsao,0,0,2003,Dysentery
 Nakhon Nayok,0,0,2003,Dysentery
 Prachin Buri,0,0,2003,Dysentery
 Sa Kaeo,0,0,2003,Dysentery
 Samut Prakan,0,0,2003,Dysentery
-Zone 9,0,1,2003,Dysentery
+Zone:9,0,1,2003,Dysentery
 Chanthaburi,0,0,2003,Dysentery
 Chon Buri,0,0,2003,Dysentery
 Rayong,0,1,2003,Dysentery
 Trat,0,0,2003,Dysentery
 North-Eastern Region,0,2,2003,Dysentery
-Zone 10,0,0,2003,Dysentery
+Zone:10,0,0,2003,Dysentery
 Loei,0,0,2003,Dysentery
 Nong Bua Lam Phu,0,0,2003,Dysentery
 Nong Khai,0,0,2003,Dysentery
 Udon Thani,0,0,2003,Dysentery
-Zone 11,0,1,2003,Dysentery
+Zone:11,0,1,2003,Dysentery
 Kalasin,0,0,2003,Dysentery
 Mukdahan,0,0,2003,Dysentery
 Nakhon Phanom,0,0,2003,Dysentery
 Sakon Nakhon,0,1,2003,Dysentery
-Zone 12,0,0,2003,Dysentery
+Zone:12,0,0,2003,Dysentery
 Khon Kaen,0,0,2003,Dysentery
 Maha Sarakham,0,0,2003,Dysentery
 Roi Et,0,0,2003,Dysentery
-Zone 13,0,1,2003,Dysentery
+Zone:13,0,1,2003,Dysentery
 Buri Ram,0,0,2003,Dysentery
 Chaiyaphum,0,0,2003,Dysentery
 Nakhon Ratchasima,0,0,2003,Dysentery
 Surin,0,1,2003,Dysentery
-Zone 14,0,0,2003,Dysentery
+Zone:14,0,0,2003,Dysentery
 Amnat Charoen,0,0,2003,Dysentery
 Si Sa Ket,0,0,2003,Dysentery
 Ubon Ratchathani,0,0,2003,Dysentery
 Yasothon,0,0,2003,Dysentery
 South Region,0,0,2003,Dysentery
-Zone 15,0,0,2003,Dysentery
+Zone:15,0,0,2003,Dysentery
 Chumphon,0,0,2003,Dysentery
 Ranong,0,0,2003,Dysentery
 Surat Thani,0,0,2003,Dysentery
-Zone 16,0,0,2003,Dysentery
+Zone:16,0,0,2003,Dysentery
 Nakhon Si Thammarat,0,0,2003,Dysentery
 Phatthalung,0,0,2003,Dysentery
 Trang,0,0,2003,Dysentery
-Zone 17,0,0,2003,Dysentery
+Zone:17,0,0,2003,Dysentery
 Krabi,0,0,2003,Dysentery
 Phangnga,0,0,2003,Dysentery
 Phuket,0,0,2003,Dysentery
-Zone 18,0,0,2003,Dysentery
+Zone:18,0,0,2003,Dysentery
 Narathiwat,0,0,2003,Dysentery
 Pattani,0,0,2003,Dysentery
 Yala,0,0,2003,Dysentery
-Zone 19,0,0,2003,Dysentery
+Zone:19,0,0,2003,Dysentery
 Satun,0,0,2003,Dysentery
 Songkhla,0,0,2003,Dysentery
 Total,<1,160,2003,Dysentery
 North Region,<1,77,2003,Dysentery
-Zone 1,<1,43,2003,Dysentery
+Zone:1,<1,43,2003,Dysentery
 Chiang Mai,<1,6,2003,Dysentery
 Chiang Rai,<1,2,2003,Dysentery
 Lampang,<1,9,2003,Dysentery
@@ -31332,98 +31332,98 @@ Mae Hong Son,<1,18,2003,Dysentery
 Nan,<1,4,2003,Dysentery
 Phayao,<1,3,2003,Dysentery
 Phrae,<1,0,2003,Dysentery
-Zone 2,<1,23,2003,Dysentery
+Zone:2,<1,23,2003,Dysentery
 Phetchabun,<1,4,2003,Dysentery
 Phitsanulok,<1,19,2003,Dysentery
 Sukhothai,<1,0,2003,Dysentery
 Tak,<1,0,2003,Dysentery
 Uttaradit,<1,0,2003,Dysentery
-Zone 3,<1,11,2003,Dysentery
+Zone:3,<1,11,2003,Dysentery
 Kamphaeng Phet,<1,6,2003,Dysentery
 Nakhon Sawan,<1,5,2003,Dysentery
 Phichit,<1,0,2003,Dysentery
 Uthai Thani,<1,0,2003,Dysentery
 Central Region,<1,23,2003,Dysentery
 Bangkok,<1,2,2003,Dysentery
-Zone 4,<1,3,2003,Dysentery
+Zone:4,<1,3,2003,Dysentery
 Ang Thong,<1,0,2003,Dysentery
 Nonthaburi,<1,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,<1,2,2003,Dysentery
 Pathum Thani,<1,1,2003,Dysentery
-Zone 5,<1,0,2003,Dysentery
+Zone:5,<1,0,2003,Dysentery
 Chai Nat,<1,0,2003,Dysentery
 Lop Buri,<1,0,2003,Dysentery
 Saraburi,<1,0,2003,Dysentery
 Sing Buri,<1,0,2003,Dysentery
-Zone 6,<1,3,2003,Dysentery
+Zone:6,<1,3,2003,Dysentery
 Kanchanaburi,<1,1,2003,Dysentery
 Nakhon Pathom,<1,1,2003,Dysentery
 Ratchaburi,<1,1,2003,Dysentery
 Suphan Buri,<1,0,2003,Dysentery
-Zone 7,<1,5,2003,Dysentery
+Zone:7,<1,5,2003,Dysentery
 Phetchaburi,<1,0,2003,Dysentery
 Prachuap Khiri Khan,<1,4,2003,Dysentery
 Samut Sakhon,<1,1,2003,Dysentery
 Samut Songkhram,<1,0,2003,Dysentery
-Zone 8,<1,4,2003,Dysentery
+Zone:8,<1,4,2003,Dysentery
 Chachoengsao,<1,0,2003,Dysentery
 Nakhon Nayok,<1,0,2003,Dysentery
 Prachin Buri,<1,1,2003,Dysentery
 Sa Kaeo,<1,1,2003,Dysentery
 Samut Prakan,<1,2,2003,Dysentery
-Zone 9,<1,6,2003,Dysentery
+Zone:9,<1,6,2003,Dysentery
 Chanthaburi,<1,1,2003,Dysentery
 Chon Buri,<1,1,2003,Dysentery
 Rayong,<1,2,2003,Dysentery
 Trat,<1,2,2003,Dysentery
 North-Eastern Region,<1,30,2003,Dysentery
-Zone 10,<1,7,2003,Dysentery
+Zone:10,<1,7,2003,Dysentery
 Loei,<1,0,2003,Dysentery
 Nong Bua Lam Phu,<1,1,2003,Dysentery
 Nong Khai,<1,3,2003,Dysentery
 Udon Thani,<1,3,2003,Dysentery
-Zone 11,<1,3,2003,Dysentery
+Zone:11,<1,3,2003,Dysentery
 Kalasin,<1,1,2003,Dysentery
 Mukdahan,<1,1,2003,Dysentery
 Nakhon Phanom,<1,0,2003,Dysentery
 Sakon Nakhon,<1,1,2003,Dysentery
-Zone 12,<1,3,2003,Dysentery
+Zone:12,<1,3,2003,Dysentery
 Khon Kaen,<1,1,2003,Dysentery
 Maha Sarakham,<1,0,2003,Dysentery
 Roi Et,<1,2,2003,Dysentery
-Zone 13,<1,10,2003,Dysentery
+Zone:13,<1,10,2003,Dysentery
 Buri Ram,<1,5,2003,Dysentery
 Chaiyaphum,<1,0,2003,Dysentery
 Nakhon Ratchasima,<1,5,2003,Dysentery
 Surin,<1,0,2003,Dysentery
-Zone 14,<1,7,2003,Dysentery
+Zone:14,<1,7,2003,Dysentery
 Amnat Charoen,<1,0,2003,Dysentery
 Si Sa Ket,<1,7,2003,Dysentery
 Ubon Ratchathani,<1,0,2003,Dysentery
 Yasothon,<1,0,2003,Dysentery
 South Region,<1,30,2003,Dysentery
-Zone 15,<1,10,2003,Dysentery
+Zone:15,<1,10,2003,Dysentery
 Chumphon,<1,7,2003,Dysentery
 Ranong,<1,1,2003,Dysentery
 Surat Thani,<1,2,2003,Dysentery
-Zone 16,<1,10,2003,Dysentery
+Zone:16,<1,10,2003,Dysentery
 Nakhon Si Thammarat,<1,0,2003,Dysentery
 Phatthalung,<1,0,2003,Dysentery
 Trang,<1,10,2003,Dysentery
-Zone 17,<1,4,2003,Dysentery
+Zone:17,<1,4,2003,Dysentery
 Krabi,<1,1,2003,Dysentery
 Phangnga,<1,2,2003,Dysentery
 Phuket,<1,1,2003,Dysentery
-Zone 18,<1,5,2003,Dysentery
+Zone:18,<1,5,2003,Dysentery
 Narathiwat,<1,0,2003,Dysentery
 Pattani,<1,0,2003,Dysentery
 Yala,<1,5,2003,Dysentery
-Zone 19,<1,1,2003,Dysentery
+Zone:19,<1,1,2003,Dysentery
 Satun,<1,1,2003,Dysentery
 Songkhla,<1,0,2003,Dysentery
 Total,1-1,145,2003,Dysentery
 North Region,1-1,77,2003,Dysentery
-Zone 1,1-1,53,2003,Dysentery
+Zone:1,1-1,53,2003,Dysentery
 Chiang Mai,1-1,13,2003,Dysentery
 Chiang Rai,1-1,2,2003,Dysentery
 Lampang,1-1,9,2003,Dysentery
@@ -31432,98 +31432,98 @@ Mae Hong Son,1-1,24,2003,Dysentery
 Nan,1-1,2,2003,Dysentery
 Phayao,1-1,3,2003,Dysentery
 Phrae,1-1,0,2003,Dysentery
-Zone 2,1-1,17,2003,Dysentery
+Zone:2,1-1,17,2003,Dysentery
 Phetchabun,1-1,0,2003,Dysentery
 Phitsanulok,1-1,16,2003,Dysentery
 Sukhothai,1-1,0,2003,Dysentery
 Tak,1-1,1,2003,Dysentery
 Uttaradit,1-1,0,2003,Dysentery
-Zone 3,1-1,7,2003,Dysentery
+Zone:3,1-1,7,2003,Dysentery
 Kamphaeng Phet,1-1,5,2003,Dysentery
 Nakhon Sawan,1-1,2,2003,Dysentery
 Phichit,1-1,0,2003,Dysentery
 Uthai Thani,1-1,0,2003,Dysentery
 Central Region,1-1,9,2003,Dysentery
 Bangkok,1-1,0,2003,Dysentery
-Zone 4,1-1,2,2003,Dysentery
+Zone:4,1-1,2,2003,Dysentery
 Ang Thong,1-1,0,2003,Dysentery
 Nonthaburi,1-1,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,1-1,2,2003,Dysentery
 Pathum Thani,1-1,0,2003,Dysentery
-Zone 5,1-1,0,2003,Dysentery
+Zone:5,1-1,0,2003,Dysentery
 Chai Nat,1-1,0,2003,Dysentery
 Lop Buri,1-1,0,2003,Dysentery
 Saraburi,1-1,0,2003,Dysentery
 Sing Buri,1-1,0,2003,Dysentery
-Zone 6,1-1,1,2003,Dysentery
+Zone:6,1-1,1,2003,Dysentery
 Kanchanaburi,1-1,0,2003,Dysentery
 Nakhon Pathom,1-1,0,2003,Dysentery
 Ratchaburi,1-1,0,2003,Dysentery
 Suphan Buri,1-1,1,2003,Dysentery
-Zone 7,1-1,1,2003,Dysentery
+Zone:7,1-1,1,2003,Dysentery
 Phetchaburi,1-1,0,2003,Dysentery
 Prachuap Khiri Khan,1-1,1,2003,Dysentery
 Samut Sakhon,1-1,0,2003,Dysentery
 Samut Songkhram,1-1,0,2003,Dysentery
-Zone 8,1-1,3,2003,Dysentery
+Zone:8,1-1,3,2003,Dysentery
 Chachoengsao,1-1,1,2003,Dysentery
 Nakhon Nayok,1-1,0,2003,Dysentery
 Prachin Buri,1-1,0,2003,Dysentery
 Sa Kaeo,1-1,1,2003,Dysentery
 Samut Prakan,1-1,1,2003,Dysentery
-Zone 9,1-1,2,2003,Dysentery
+Zone:9,1-1,2,2003,Dysentery
 Chanthaburi,1-1,0,2003,Dysentery
 Chon Buri,1-1,0,2003,Dysentery
 Rayong,1-1,0,2003,Dysentery
 Trat,1-1,2,2003,Dysentery
 North-Eastern Region,1-1,25,2003,Dysentery
-Zone 10,1-1,6,2003,Dysentery
+Zone:10,1-1,6,2003,Dysentery
 Loei,1-1,1,2003,Dysentery
 Nong Bua Lam Phu,1-1,0,2003,Dysentery
 Nong Khai,1-1,3,2003,Dysentery
 Udon Thani,1-1,2,2003,Dysentery
-Zone 11,1-1,3,2003,Dysentery
+Zone:11,1-1,3,2003,Dysentery
 Kalasin,1-1,3,2003,Dysentery
 Mukdahan,1-1,0,2003,Dysentery
 Nakhon Phanom,1-1,0,2003,Dysentery
 Sakon Nakhon,1-1,0,2003,Dysentery
-Zone 12,1-1,5,2003,Dysentery
+Zone:12,1-1,5,2003,Dysentery
 Khon Kaen,1-1,2,2003,Dysentery
 Maha Sarakham,1-1,0,2003,Dysentery
 Roi Et,1-1,3,2003,Dysentery
-Zone 13,1-1,5,2003,Dysentery
+Zone:13,1-1,5,2003,Dysentery
 Buri Ram,1-1,2,2003,Dysentery
 Chaiyaphum,1-1,0,2003,Dysentery
 Nakhon Ratchasima,1-1,1,2003,Dysentery
 Surin,1-1,2,2003,Dysentery
-Zone 14,1-1,6,2003,Dysentery
+Zone:14,1-1,6,2003,Dysentery
 Amnat Charoen,1-1,0,2003,Dysentery
 Si Sa Ket,1-1,4,2003,Dysentery
 Ubon Ratchathani,1-1,1,2003,Dysentery
 Yasothon,1-1,1,2003,Dysentery
 South Region,1-1,34,2003,Dysentery
-Zone 15,1-1,4,2003,Dysentery
+Zone:15,1-1,4,2003,Dysentery
 Chumphon,1-1,0,2003,Dysentery
 Ranong,1-1,2,2003,Dysentery
 Surat Thani,1-1,2,2003,Dysentery
-Zone 16,1-1,18,2003,Dysentery
+Zone:16,1-1,18,2003,Dysentery
 Nakhon Si Thammarat,1-1,12,2003,Dysentery
 Phatthalung,1-1,0,2003,Dysentery
 Trang,1-1,6,2003,Dysentery
-Zone 17,1-1,1,2003,Dysentery
+Zone:17,1-1,1,2003,Dysentery
 Krabi,1-1,0,2003,Dysentery
 Phangnga,1-1,1,2003,Dysentery
 Phuket,1-1,0,2003,Dysentery
-Zone 18,1-1,7,2003,Dysentery
+Zone:18,1-1,7,2003,Dysentery
 Narathiwat,1-1,1,2003,Dysentery
 Pattani,1-1,0,2003,Dysentery
 Yala,1-1,6,2003,Dysentery
-Zone 19,1-1,4,2003,Dysentery
+Zone:19,1-1,4,2003,Dysentery
 Satun,1-1,0,2003,Dysentery
 Songkhla,1-1,4,2003,Dysentery
 Total,2-2,87,2003,Dysentery
 North Region,2-2,51,2003,Dysentery
-Zone 1,2-2,44,2003,Dysentery
+Zone:1,2-2,44,2003,Dysentery
 Chiang Mai,2-2,22,2003,Dysentery
 Chiang Rai,2-2,2,2003,Dysentery
 Lampang,2-2,2,2003,Dysentery
@@ -31532,98 +31532,98 @@ Mae Hong Son,2-2,11,2003,Dysentery
 Nan,2-2,3,2003,Dysentery
 Phayao,2-2,3,2003,Dysentery
 Phrae,2-2,1,2003,Dysentery
-Zone 2,2-2,4,2003,Dysentery
+Zone:2,2-2,4,2003,Dysentery
 Phetchabun,2-2,0,2003,Dysentery
 Phitsanulok,2-2,3,2003,Dysentery
 Sukhothai,2-2,0,2003,Dysentery
 Tak,2-2,1,2003,Dysentery
 Uttaradit,2-2,0,2003,Dysentery
-Zone 3,2-2,3,2003,Dysentery
+Zone:3,2-2,3,2003,Dysentery
 Kamphaeng Phet,2-2,3,2003,Dysentery
 Nakhon Sawan,2-2,0,2003,Dysentery
 Phichit,2-2,0,2003,Dysentery
 Uthai Thani,2-2,0,2003,Dysentery
 Central Region,2-2,8,2003,Dysentery
 Bangkok,2-2,0,2003,Dysentery
-Zone 4,2-2,0,2003,Dysentery
+Zone:4,2-2,0,2003,Dysentery
 Ang Thong,2-2,0,2003,Dysentery
 Nonthaburi,2-2,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,2-2,0,2003,Dysentery
 Pathum Thani,2-2,0,2003,Dysentery
-Zone 5,2-2,1,2003,Dysentery
+Zone:5,2-2,1,2003,Dysentery
 Chai Nat,2-2,0,2003,Dysentery
 Lop Buri,2-2,0,2003,Dysentery
 Saraburi,2-2,1,2003,Dysentery
 Sing Buri,2-2,0,2003,Dysentery
-Zone 6,2-2,2,2003,Dysentery
+Zone:6,2-2,2,2003,Dysentery
 Kanchanaburi,2-2,0,2003,Dysentery
 Nakhon Pathom,2-2,0,2003,Dysentery
 Ratchaburi,2-2,2,2003,Dysentery
 Suphan Buri,2-2,0,2003,Dysentery
-Zone 7,2-2,2,2003,Dysentery
+Zone:7,2-2,2,2003,Dysentery
 Phetchaburi,2-2,0,2003,Dysentery
 Prachuap Khiri Khan,2-2,2,2003,Dysentery
 Samut Sakhon,2-2,0,2003,Dysentery
 Samut Songkhram,2-2,0,2003,Dysentery
-Zone 8,2-2,3,2003,Dysentery
+Zone:8,2-2,3,2003,Dysentery
 Chachoengsao,2-2,0,2003,Dysentery
 Nakhon Nayok,2-2,0,2003,Dysentery
 Prachin Buri,2-2,0,2003,Dysentery
 Sa Kaeo,2-2,1,2003,Dysentery
 Samut Prakan,2-2,2,2003,Dysentery
-Zone 9,2-2,0,2003,Dysentery
+Zone:9,2-2,0,2003,Dysentery
 Chanthaburi,2-2,0,2003,Dysentery
 Chon Buri,2-2,0,2003,Dysentery
 Rayong,2-2,0,2003,Dysentery
 Trat,2-2,0,2003,Dysentery
 North-Eastern Region,2-2,17,2003,Dysentery
-Zone 10,2-2,6,2003,Dysentery
+Zone:10,2-2,6,2003,Dysentery
 Loei,2-2,0,2003,Dysentery
 Nong Bua Lam Phu,2-2,0,2003,Dysentery
 Nong Khai,2-2,0,2003,Dysentery
 Udon Thani,2-2,6,2003,Dysentery
-Zone 11,2-2,1,2003,Dysentery
+Zone:11,2-2,1,2003,Dysentery
 Kalasin,2-2,0,2003,Dysentery
 Mukdahan,2-2,1,2003,Dysentery
 Nakhon Phanom,2-2,0,2003,Dysentery
 Sakon Nakhon,2-2,0,2003,Dysentery
-Zone 12,2-2,4,2003,Dysentery
+Zone:12,2-2,4,2003,Dysentery
 Khon Kaen,2-2,3,2003,Dysentery
 Maha Sarakham,2-2,0,2003,Dysentery
 Roi Et,2-2,1,2003,Dysentery
-Zone 13,2-2,3,2003,Dysentery
+Zone:13,2-2,3,2003,Dysentery
 Buri Ram,2-2,0,2003,Dysentery
 Chaiyaphum,2-2,2,2003,Dysentery
 Nakhon Ratchasima,2-2,0,2003,Dysentery
 Surin,2-2,1,2003,Dysentery
-Zone 14,2-2,3,2003,Dysentery
+Zone:14,2-2,3,2003,Dysentery
 Amnat Charoen,2-2,0,2003,Dysentery
 Si Sa Ket,2-2,2,2003,Dysentery
 Ubon Ratchathani,2-2,1,2003,Dysentery
 Yasothon,2-2,0,2003,Dysentery
 South Region,2-2,11,2003,Dysentery
-Zone 15,2-2,1,2003,Dysentery
+Zone:15,2-2,1,2003,Dysentery
 Chumphon,2-2,0,2003,Dysentery
 Ranong,2-2,0,2003,Dysentery
 Surat Thani,2-2,1,2003,Dysentery
-Zone 16,2-2,4,2003,Dysentery
+Zone:16,2-2,4,2003,Dysentery
 Nakhon Si Thammarat,2-2,3,2003,Dysentery
 Phatthalung,2-2,0,2003,Dysentery
 Trang,2-2,1,2003,Dysentery
-Zone 17,2-2,3,2003,Dysentery
+Zone:17,2-2,3,2003,Dysentery
 Krabi,2-2,0,2003,Dysentery
 Phangnga,2-2,2,2003,Dysentery
 Phuket,2-2,1,2003,Dysentery
-Zone 18,2-2,3,2003,Dysentery
+Zone:18,2-2,3,2003,Dysentery
 Narathiwat,2-2,1,2003,Dysentery
 Pattani,2-2,0,2003,Dysentery
 Yala,2-2,2,2003,Dysentery
-Zone 19,2-2,0,2003,Dysentery
+Zone:19,2-2,0,2003,Dysentery
 Satun,2-2,0,2003,Dysentery
 Songkhla,2-2,0,2003,Dysentery
 Total,3-3,57,2003,Dysentery
 North Region,3-3,27,2003,Dysentery
-Zone 1,3-3,24,2003,Dysentery
+Zone:1,3-3,24,2003,Dysentery
 Chiang Mai,3-3,14,2003,Dysentery
 Chiang Rai,3-3,1,2003,Dysentery
 Lampang,3-3,3,2003,Dysentery
@@ -31632,98 +31632,98 @@ Mae Hong Son,3-3,4,2003,Dysentery
 Nan,3-3,1,2003,Dysentery
 Phayao,3-3,1,2003,Dysentery
 Phrae,3-3,0,2003,Dysentery
-Zone 2,3-3,0,2003,Dysentery
+Zone:2,3-3,0,2003,Dysentery
 Phetchabun,3-3,0,2003,Dysentery
 Phitsanulok,3-3,0,2003,Dysentery
 Sukhothai,3-3,0,2003,Dysentery
 Tak,3-3,0,2003,Dysentery
 Uttaradit,3-3,0,2003,Dysentery
-Zone 3,3-3,3,2003,Dysentery
+Zone:3,3-3,3,2003,Dysentery
 Kamphaeng Phet,3-3,3,2003,Dysentery
 Nakhon Sawan,3-3,0,2003,Dysentery
 Phichit,3-3,0,2003,Dysentery
 Uthai Thani,3-3,0,2003,Dysentery
 Central Region,3-3,5,2003,Dysentery
 Bangkok,3-3,0,2003,Dysentery
-Zone 4,3-3,0,2003,Dysentery
+Zone:4,3-3,0,2003,Dysentery
 Ang Thong,3-3,0,2003,Dysentery
 Nonthaburi,3-3,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,3-3,0,2003,Dysentery
 Pathum Thani,3-3,0,2003,Dysentery
-Zone 5,3-3,0,2003,Dysentery
+Zone:5,3-3,0,2003,Dysentery
 Chai Nat,3-3,0,2003,Dysentery
 Lop Buri,3-3,0,2003,Dysentery
 Saraburi,3-3,0,2003,Dysentery
 Sing Buri,3-3,0,2003,Dysentery
-Zone 6,3-3,1,2003,Dysentery
+Zone:6,3-3,1,2003,Dysentery
 Kanchanaburi,3-3,0,2003,Dysentery
 Nakhon Pathom,3-3,1,2003,Dysentery
 Ratchaburi,3-3,0,2003,Dysentery
 Suphan Buri,3-3,0,2003,Dysentery
-Zone 7,3-3,1,2003,Dysentery
+Zone:7,3-3,1,2003,Dysentery
 Phetchaburi,3-3,0,2003,Dysentery
 Prachuap Khiri Khan,3-3,1,2003,Dysentery
 Samut Sakhon,3-3,0,2003,Dysentery
 Samut Songkhram,3-3,0,2003,Dysentery
-Zone 8,3-3,1,2003,Dysentery
+Zone:8,3-3,1,2003,Dysentery
 Chachoengsao,3-3,0,2003,Dysentery
 Nakhon Nayok,3-3,0,2003,Dysentery
 Prachin Buri,3-3,0,2003,Dysentery
 Sa Kaeo,3-3,1,2003,Dysentery
 Samut Prakan,3-3,0,2003,Dysentery
-Zone 9,3-3,2,2003,Dysentery
+Zone:9,3-3,2,2003,Dysentery
 Chanthaburi,3-3,0,2003,Dysentery
 Chon Buri,3-3,0,2003,Dysentery
 Rayong,3-3,1,2003,Dysentery
 Trat,3-3,1,2003,Dysentery
 North-Eastern Region,3-3,13,2003,Dysentery
-Zone 10,3-3,2,2003,Dysentery
+Zone:10,3-3,2,2003,Dysentery
 Loei,3-3,0,2003,Dysentery
 Nong Bua Lam Phu,3-3,0,2003,Dysentery
 Nong Khai,3-3,1,2003,Dysentery
 Udon Thani,3-3,1,2003,Dysentery
-Zone 11,3-3,1,2003,Dysentery
+Zone:11,3-3,1,2003,Dysentery
 Kalasin,3-3,0,2003,Dysentery
 Mukdahan,3-3,0,2003,Dysentery
 Nakhon Phanom,3-3,1,2003,Dysentery
 Sakon Nakhon,3-3,0,2003,Dysentery
-Zone 12,3-3,3,2003,Dysentery
+Zone:12,3-3,3,2003,Dysentery
 Khon Kaen,3-3,0,2003,Dysentery
 Maha Sarakham,3-3,0,2003,Dysentery
 Roi Et,3-3,3,2003,Dysentery
-Zone 13,3-3,4,2003,Dysentery
+Zone:13,3-3,4,2003,Dysentery
 Buri Ram,3-3,3,2003,Dysentery
 Chaiyaphum,3-3,0,2003,Dysentery
 Nakhon Ratchasima,3-3,1,2003,Dysentery
 Surin,3-3,0,2003,Dysentery
-Zone 14,3-3,3,2003,Dysentery
+Zone:14,3-3,3,2003,Dysentery
 Amnat Charoen,3-3,0,2003,Dysentery
 Si Sa Ket,3-3,2,2003,Dysentery
 Ubon Ratchathani,3-3,1,2003,Dysentery
 Yasothon,3-3,0,2003,Dysentery
 South Region,3-3,12,2003,Dysentery
-Zone 15,3-3,3,2003,Dysentery
+Zone:15,3-3,3,2003,Dysentery
 Chumphon,3-3,1,2003,Dysentery
 Ranong,3-3,1,2003,Dysentery
 Surat Thani,3-3,1,2003,Dysentery
-Zone 16,3-3,4,2003,Dysentery
+Zone:16,3-3,4,2003,Dysentery
 Nakhon Si Thammarat,3-3,3,2003,Dysentery
 Phatthalung,3-3,0,2003,Dysentery
 Trang,3-3,1,2003,Dysentery
-Zone 17,3-3,2,2003,Dysentery
+Zone:17,3-3,2,2003,Dysentery
 Krabi,3-3,1,2003,Dysentery
 Phangnga,3-3,0,2003,Dysentery
 Phuket,3-3,1,2003,Dysentery
-Zone 18,3-3,2,2003,Dysentery
+Zone:18,3-3,2,2003,Dysentery
 Narathiwat,3-3,1,2003,Dysentery
 Pattani,3-3,0,2003,Dysentery
 Yala,3-3,1,2003,Dysentery
-Zone 19,3-3,1,2003,Dysentery
+Zone:19,3-3,1,2003,Dysentery
 Satun,3-3,1,2003,Dysentery
 Songkhla,3-3,0,2003,Dysentery
 Total,4-4,48,2003,Dysentery
 North Region,4-4,19,2003,Dysentery
-Zone 1,4-4,17,2003,Dysentery
+Zone:1,4-4,17,2003,Dysentery
 Chiang Mai,4-4,8,2003,Dysentery
 Chiang Rai,4-4,1,2003,Dysentery
 Lampang,4-4,2,2003,Dysentery
@@ -31732,98 +31732,98 @@ Mae Hong Son,4-4,5,2003,Dysentery
 Nan,4-4,0,2003,Dysentery
 Phayao,4-4,1,2003,Dysentery
 Phrae,4-4,0,2003,Dysentery
-Zone 2,4-4,2,2003,Dysentery
+Zone:2,4-4,2,2003,Dysentery
 Phetchabun,4-4,0,2003,Dysentery
 Phitsanulok,4-4,2,2003,Dysentery
 Sukhothai,4-4,0,2003,Dysentery
 Tak,4-4,0,2003,Dysentery
 Uttaradit,4-4,0,2003,Dysentery
-Zone 3,4-4,0,2003,Dysentery
+Zone:3,4-4,0,2003,Dysentery
 Kamphaeng Phet,4-4,0,2003,Dysentery
 Nakhon Sawan,4-4,0,2003,Dysentery
 Phichit,4-4,0,2003,Dysentery
 Uthai Thani,4-4,0,2003,Dysentery
 Central Region,4-4,6,2003,Dysentery
 Bangkok,4-4,0,2003,Dysentery
-Zone 4,4-4,0,2003,Dysentery
+Zone:4,4-4,0,2003,Dysentery
 Ang Thong,4-4,0,2003,Dysentery
 Nonthaburi,4-4,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,4-4,0,2003,Dysentery
 Pathum Thani,4-4,0,2003,Dysentery
-Zone 5,4-4,0,2003,Dysentery
+Zone:5,4-4,0,2003,Dysentery
 Chai Nat,4-4,0,2003,Dysentery
 Lop Buri,4-4,0,2003,Dysentery
 Saraburi,4-4,0,2003,Dysentery
 Sing Buri,4-4,0,2003,Dysentery
-Zone 6,4-4,0,2003,Dysentery
+Zone:6,4-4,0,2003,Dysentery
 Kanchanaburi,4-4,0,2003,Dysentery
 Nakhon Pathom,4-4,0,2003,Dysentery
 Ratchaburi,4-4,0,2003,Dysentery
 Suphan Buri,4-4,0,2003,Dysentery
-Zone 7,4-4,1,2003,Dysentery
+Zone:7,4-4,1,2003,Dysentery
 Phetchaburi,4-4,1,2003,Dysentery
 Prachuap Khiri Khan,4-4,0,2003,Dysentery
 Samut Sakhon,4-4,0,2003,Dysentery
 Samut Songkhram,4-4,0,2003,Dysentery
-Zone 8,4-4,3,2003,Dysentery
+Zone:8,4-4,3,2003,Dysentery
 Chachoengsao,4-4,1,2003,Dysentery
 Nakhon Nayok,4-4,0,2003,Dysentery
 Prachin Buri,4-4,0,2003,Dysentery
 Sa Kaeo,4-4,1,2003,Dysentery
 Samut Prakan,4-4,1,2003,Dysentery
-Zone 9,4-4,2,2003,Dysentery
+Zone:9,4-4,2,2003,Dysentery
 Chanthaburi,4-4,0,2003,Dysentery
 Chon Buri,4-4,0,2003,Dysentery
 Rayong,4-4,2,2003,Dysentery
 Trat,4-4,0,2003,Dysentery
 North-Eastern Region,4-4,11,2003,Dysentery
-Zone 10,4-4,3,2003,Dysentery
+Zone:10,4-4,3,2003,Dysentery
 Loei,4-4,0,2003,Dysentery
 Nong Bua Lam Phu,4-4,1,2003,Dysentery
 Nong Khai,4-4,1,2003,Dysentery
 Udon Thani,4-4,1,2003,Dysentery
-Zone 11,4-4,1,2003,Dysentery
+Zone:11,4-4,1,2003,Dysentery
 Kalasin,4-4,0,2003,Dysentery
 Mukdahan,4-4,1,2003,Dysentery
 Nakhon Phanom,4-4,0,2003,Dysentery
 Sakon Nakhon,4-4,0,2003,Dysentery
-Zone 12,4-4,2,2003,Dysentery
+Zone:12,4-4,2,2003,Dysentery
 Khon Kaen,4-4,2,2003,Dysentery
 Maha Sarakham,4-4,0,2003,Dysentery
 Roi Et,4-4,0,2003,Dysentery
-Zone 13,4-4,4,2003,Dysentery
+Zone:13,4-4,4,2003,Dysentery
 Buri Ram,4-4,1,2003,Dysentery
 Chaiyaphum,4-4,0,2003,Dysentery
 Nakhon Ratchasima,4-4,1,2003,Dysentery
 Surin,4-4,2,2003,Dysentery
-Zone 14,4-4,1,2003,Dysentery
+Zone:14,4-4,1,2003,Dysentery
 Amnat Charoen,4-4,0,2003,Dysentery
 Si Sa Ket,4-4,1,2003,Dysentery
 Ubon Ratchathani,4-4,0,2003,Dysentery
 Yasothon,4-4,0,2003,Dysentery
 South Region,4-4,12,2003,Dysentery
-Zone 15,4-4,3,2003,Dysentery
+Zone:15,4-4,3,2003,Dysentery
 Chumphon,4-4,2,2003,Dysentery
 Ranong,4-4,0,2003,Dysentery
 Surat Thani,4-4,1,2003,Dysentery
-Zone 16,4-4,4,2003,Dysentery
+Zone:16,4-4,4,2003,Dysentery
 Nakhon Si Thammarat,4-4,2,2003,Dysentery
 Phatthalung,4-4,1,2003,Dysentery
 Trang,4-4,1,2003,Dysentery
-Zone 17,4-4,2,2003,Dysentery
+Zone:17,4-4,2,2003,Dysentery
 Krabi,4-4,0,2003,Dysentery
 Phangnga,4-4,1,2003,Dysentery
 Phuket,4-4,1,2003,Dysentery
-Zone 18,4-4,3,2003,Dysentery
+Zone:18,4-4,3,2003,Dysentery
 Narathiwat,4-4,0,2003,Dysentery
 Pattani,4-4,0,2003,Dysentery
 Yala,4-4,3,2003,Dysentery
-Zone 19,4-4,0,2003,Dysentery
+Zone:19,4-4,0,2003,Dysentery
 Satun,4-4,0,2003,Dysentery
 Songkhla,4-4,0,2003,Dysentery
 Total,5-5,36,2003,Dysentery
 North Region,5-5,19,2003,Dysentery
-Zone 1,5-5,13,2003,Dysentery
+Zone:1,5-5,13,2003,Dysentery
 Chiang Mai,5-5,5,2003,Dysentery
 Chiang Rai,5-5,2,2003,Dysentery
 Lampang,5-5,1,2003,Dysentery
@@ -31832,98 +31832,98 @@ Mae Hong Son,5-5,4,2003,Dysentery
 Nan,5-5,1,2003,Dysentery
 Phayao,5-5,0,2003,Dysentery
 Phrae,5-5,0,2003,Dysentery
-Zone 2,5-5,3,2003,Dysentery
+Zone:2,5-5,3,2003,Dysentery
 Phetchabun,5-5,2,2003,Dysentery
 Phitsanulok,5-5,1,2003,Dysentery
 Sukhothai,5-5,0,2003,Dysentery
 Tak,5-5,0,2003,Dysentery
 Uttaradit,5-5,0,2003,Dysentery
-Zone 3,5-5,3,2003,Dysentery
+Zone:3,5-5,3,2003,Dysentery
 Kamphaeng Phet,5-5,2,2003,Dysentery
 Nakhon Sawan,5-5,1,2003,Dysentery
 Phichit,5-5,0,2003,Dysentery
 Uthai Thani,5-5,0,2003,Dysentery
 Central Region,5-5,2,2003,Dysentery
 Bangkok,5-5,0,2003,Dysentery
-Zone 4,5-5,0,2003,Dysentery
+Zone:4,5-5,0,2003,Dysentery
 Ang Thong,5-5,0,2003,Dysentery
 Nonthaburi,5-5,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,5-5,0,2003,Dysentery
 Pathum Thani,5-5,0,2003,Dysentery
-Zone 5,5-5,0,2003,Dysentery
+Zone:5,5-5,0,2003,Dysentery
 Chai Nat,5-5,0,2003,Dysentery
 Lop Buri,5-5,0,2003,Dysentery
 Saraburi,5-5,0,2003,Dysentery
 Sing Buri,5-5,0,2003,Dysentery
-Zone 6,5-5,0,2003,Dysentery
+Zone:6,5-5,0,2003,Dysentery
 Kanchanaburi,5-5,0,2003,Dysentery
 Nakhon Pathom,5-5,0,2003,Dysentery
 Ratchaburi,5-5,0,2003,Dysentery
 Suphan Buri,5-5,0,2003,Dysentery
-Zone 7,5-5,0,2003,Dysentery
+Zone:7,5-5,0,2003,Dysentery
 Phetchaburi,5-5,0,2003,Dysentery
 Prachuap Khiri Khan,5-5,0,2003,Dysentery
 Samut Sakhon,5-5,0,2003,Dysentery
 Samut Songkhram,5-5,0,2003,Dysentery
-Zone 8,5-5,2,2003,Dysentery
+Zone:8,5-5,2,2003,Dysentery
 Chachoengsao,5-5,2,2003,Dysentery
 Nakhon Nayok,5-5,0,2003,Dysentery
 Prachin Buri,5-5,0,2003,Dysentery
 Sa Kaeo,5-5,0,2003,Dysentery
 Samut Prakan,5-5,0,2003,Dysentery
-Zone 9,5-5,0,2003,Dysentery
+Zone:9,5-5,0,2003,Dysentery
 Chanthaburi,5-5,0,2003,Dysentery
 Chon Buri,5-5,0,2003,Dysentery
 Rayong,5-5,0,2003,Dysentery
 Trat,5-5,0,2003,Dysentery
 North-Eastern Region,5-5,6,2003,Dysentery
-Zone 10,5-5,0,2003,Dysentery
+Zone:10,5-5,0,2003,Dysentery
 Loei,5-5,0,2003,Dysentery
 Nong Bua Lam Phu,5-5,0,2003,Dysentery
 Nong Khai,5-5,0,2003,Dysentery
 Udon Thani,5-5,0,2003,Dysentery
-Zone 11,5-5,0,2003,Dysentery
+Zone:11,5-5,0,2003,Dysentery
 Kalasin,5-5,0,2003,Dysentery
 Mukdahan,5-5,0,2003,Dysentery
 Nakhon Phanom,5-5,0,2003,Dysentery
 Sakon Nakhon,5-5,0,2003,Dysentery
-Zone 12,5-5,1,2003,Dysentery
+Zone:12,5-5,1,2003,Dysentery
 Khon Kaen,5-5,1,2003,Dysentery
 Maha Sarakham,5-5,0,2003,Dysentery
 Roi Et,5-5,0,2003,Dysentery
-Zone 13,5-5,4,2003,Dysentery
+Zone:13,5-5,4,2003,Dysentery
 Buri Ram,5-5,0,2003,Dysentery
 Chaiyaphum,5-5,2,2003,Dysentery
 Nakhon Ratchasima,5-5,2,2003,Dysentery
 Surin,5-5,0,2003,Dysentery
-Zone 14,5-5,1,2003,Dysentery
+Zone:14,5-5,1,2003,Dysentery
 Amnat Charoen,5-5,0,2003,Dysentery
 Si Sa Ket,5-5,1,2003,Dysentery
 Ubon Ratchathani,5-5,0,2003,Dysentery
 Yasothon,5-5,0,2003,Dysentery
 South Region,5-5,9,2003,Dysentery
-Zone 15,5-5,3,2003,Dysentery
+Zone:15,5-5,3,2003,Dysentery
 Chumphon,5-5,1,2003,Dysentery
 Ranong,5-5,1,2003,Dysentery
 Surat Thani,5-5,1,2003,Dysentery
-Zone 16,5-5,1,2003,Dysentery
+Zone:16,5-5,1,2003,Dysentery
 Nakhon Si Thammarat,5-5,0,2003,Dysentery
 Phatthalung,5-5,1,2003,Dysentery
 Trang,5-5,0,2003,Dysentery
-Zone 17,5-5,1,2003,Dysentery
+Zone:17,5-5,1,2003,Dysentery
 Krabi,5-5,0,2003,Dysentery
 Phangnga,5-5,1,2003,Dysentery
 Phuket,5-5,0,2003,Dysentery
-Zone 18,5-5,1,2003,Dysentery
+Zone:18,5-5,1,2003,Dysentery
 Narathiwat,5-5,0,2003,Dysentery
 Pattani,5-5,0,2003,Dysentery
 Yala,5-5,1,2003,Dysentery
-Zone 19,5-5,3,2003,Dysentery
+Zone:19,5-5,3,2003,Dysentery
 Satun,5-5,0,2003,Dysentery
 Songkhla,5-5,3,2003,Dysentery
 Total,6-6,19,2003,Dysentery
 North Region,6-6,13,2003,Dysentery
-Zone 1,6-6,9,2003,Dysentery
+Zone:1,6-6,9,2003,Dysentery
 Chiang Mai,6-6,2,2003,Dysentery
 Chiang Rai,6-6,0,2003,Dysentery
 Lampang,6-6,1,2003,Dysentery
@@ -31932,98 +31932,98 @@ Mae Hong Son,6-6,2,2003,Dysentery
 Nan,6-6,3,2003,Dysentery
 Phayao,6-6,1,2003,Dysentery
 Phrae,6-6,0,2003,Dysentery
-Zone 2,6-6,3,2003,Dysentery
+Zone:2,6-6,3,2003,Dysentery
 Phetchabun,6-6,0,2003,Dysentery
 Phitsanulok,6-6,3,2003,Dysentery
 Sukhothai,6-6,0,2003,Dysentery
 Tak,6-6,0,2003,Dysentery
 Uttaradit,6-6,0,2003,Dysentery
-Zone 3,6-6,1,2003,Dysentery
+Zone:3,6-6,1,2003,Dysentery
 Kamphaeng Phet,6-6,1,2003,Dysentery
 Nakhon Sawan,6-6,0,2003,Dysentery
 Phichit,6-6,0,2003,Dysentery
 Uthai Thani,6-6,0,2003,Dysentery
 Central Region,6-6,0,2003,Dysentery
 Bangkok,6-6,0,2003,Dysentery
-Zone 4,6-6,0,2003,Dysentery
+Zone:4,6-6,0,2003,Dysentery
 Ang Thong,6-6,0,2003,Dysentery
 Nonthaburi,6-6,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,6-6,0,2003,Dysentery
 Pathum Thani,6-6,0,2003,Dysentery
-Zone 5,6-6,0,2003,Dysentery
+Zone:5,6-6,0,2003,Dysentery
 Chai Nat,6-6,0,2003,Dysentery
 Lop Buri,6-6,0,2003,Dysentery
 Saraburi,6-6,0,2003,Dysentery
 Sing Buri,6-6,0,2003,Dysentery
-Zone 6,6-6,0,2003,Dysentery
+Zone:6,6-6,0,2003,Dysentery
 Kanchanaburi,6-6,0,2003,Dysentery
 Nakhon Pathom,6-6,0,2003,Dysentery
 Ratchaburi,6-6,0,2003,Dysentery
 Suphan Buri,6-6,0,2003,Dysentery
-Zone 7,6-6,0,2003,Dysentery
+Zone:7,6-6,0,2003,Dysentery
 Phetchaburi,6-6,0,2003,Dysentery
 Prachuap Khiri Khan,6-6,0,2003,Dysentery
 Samut Sakhon,6-6,0,2003,Dysentery
 Samut Songkhram,6-6,0,2003,Dysentery
-Zone 8,6-6,0,2003,Dysentery
+Zone:8,6-6,0,2003,Dysentery
 Chachoengsao,6-6,0,2003,Dysentery
 Nakhon Nayok,6-6,0,2003,Dysentery
 Prachin Buri,6-6,0,2003,Dysentery
 Sa Kaeo,6-6,0,2003,Dysentery
 Samut Prakan,6-6,0,2003,Dysentery
-Zone 9,6-6,0,2003,Dysentery
+Zone:9,6-6,0,2003,Dysentery
 Chanthaburi,6-6,0,2003,Dysentery
 Chon Buri,6-6,0,2003,Dysentery
 Rayong,6-6,0,2003,Dysentery
 Trat,6-6,0,2003,Dysentery
 North-Eastern Region,6-6,1,2003,Dysentery
-Zone 10,6-6,1,2003,Dysentery
+Zone:10,6-6,1,2003,Dysentery
 Loei,6-6,0,2003,Dysentery
 Nong Bua Lam Phu,6-6,0,2003,Dysentery
 Nong Khai,6-6,1,2003,Dysentery
 Udon Thani,6-6,0,2003,Dysentery
-Zone 11,6-6,0,2003,Dysentery
+Zone:11,6-6,0,2003,Dysentery
 Kalasin,6-6,0,2003,Dysentery
 Mukdahan,6-6,0,2003,Dysentery
 Nakhon Phanom,6-6,0,2003,Dysentery
 Sakon Nakhon,6-6,0,2003,Dysentery
-Zone 12,6-6,0,2003,Dysentery
+Zone:12,6-6,0,2003,Dysentery
 Khon Kaen,6-6,0,2003,Dysentery
 Maha Sarakham,6-6,0,2003,Dysentery
 Roi Et,6-6,0,2003,Dysentery
-Zone 13,6-6,0,2003,Dysentery
+Zone:13,6-6,0,2003,Dysentery
 Buri Ram,6-6,0,2003,Dysentery
 Chaiyaphum,6-6,0,2003,Dysentery
 Nakhon Ratchasima,6-6,0,2003,Dysentery
 Surin,6-6,0,2003,Dysentery
-Zone 14,6-6,0,2003,Dysentery
+Zone:14,6-6,0,2003,Dysentery
 Amnat Charoen,6-6,0,2003,Dysentery
 Si Sa Ket,6-6,0,2003,Dysentery
 Ubon Ratchathani,6-6,0,2003,Dysentery
 Yasothon,6-6,0,2003,Dysentery
 South Region,6-6,5,2003,Dysentery
-Zone 15,6-6,2,2003,Dysentery
+Zone:15,6-6,2,2003,Dysentery
 Chumphon,6-6,2,2003,Dysentery
 Ranong,6-6,0,2003,Dysentery
 Surat Thani,6-6,0,2003,Dysentery
-Zone 16,6-6,2,2003,Dysentery
+Zone:16,6-6,2,2003,Dysentery
 Nakhon Si Thammarat,6-6,0,2003,Dysentery
 Phatthalung,6-6,0,2003,Dysentery
 Trang,6-6,2,2003,Dysentery
-Zone 17,6-6,0,2003,Dysentery
+Zone:17,6-6,0,2003,Dysentery
 Krabi,6-6,0,2003,Dysentery
 Phangnga,6-6,0,2003,Dysentery
 Phuket,6-6,0,2003,Dysentery
-Zone 18,6-6,1,2003,Dysentery
+Zone:18,6-6,1,2003,Dysentery
 Narathiwat,6-6,1,2003,Dysentery
 Pattani,6-6,0,2003,Dysentery
 Yala,6-6,0,2003,Dysentery
-Zone 19,6-6,0,2003,Dysentery
+Zone:19,6-6,0,2003,Dysentery
 Satun,6-6,0,2003,Dysentery
 Songkhla,6-6,0,2003,Dysentery
 Total,7-9,80,2003,Dysentery
 North Region,7-9,40,2003,Dysentery
-Zone 1,7-9,30,2003,Dysentery
+Zone:1,7-9,30,2003,Dysentery
 Chiang Mai,7-9,7,2003,Dysentery
 Chiang Rai,7-9,1,2003,Dysentery
 Lampang,7-9,2,2003,Dysentery
@@ -32032,98 +32032,98 @@ Mae Hong Son,7-9,12,2003,Dysentery
 Nan,7-9,5,2003,Dysentery
 Phayao,7-9,2,2003,Dysentery
 Phrae,7-9,1,2003,Dysentery
-Zone 2,7-9,7,2003,Dysentery
+Zone:2,7-9,7,2003,Dysentery
 Phetchabun,7-9,2,2003,Dysentery
 Phitsanulok,7-9,5,2003,Dysentery
 Sukhothai,7-9,0,2003,Dysentery
 Tak,7-9,0,2003,Dysentery
 Uttaradit,7-9,0,2003,Dysentery
-Zone 3,7-9,3,2003,Dysentery
+Zone:3,7-9,3,2003,Dysentery
 Kamphaeng Phet,7-9,2,2003,Dysentery
 Nakhon Sawan,7-9,1,2003,Dysentery
 Phichit,7-9,0,2003,Dysentery
 Uthai Thani,7-9,0,2003,Dysentery
 Central Region,7-9,9,2003,Dysentery
 Bangkok,7-9,0,2003,Dysentery
-Zone 4,7-9,0,2003,Dysentery
+Zone:4,7-9,0,2003,Dysentery
 Ang Thong,7-9,0,2003,Dysentery
 Nonthaburi,7-9,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,7-9,0,2003,Dysentery
 Pathum Thani,7-9,0,2003,Dysentery
-Zone 5,7-9,1,2003,Dysentery
+Zone:5,7-9,1,2003,Dysentery
 Chai Nat,7-9,1,2003,Dysentery
 Lop Buri,7-9,0,2003,Dysentery
 Saraburi,7-9,0,2003,Dysentery
 Sing Buri,7-9,0,2003,Dysentery
-Zone 6,7-9,3,2003,Dysentery
+Zone:6,7-9,3,2003,Dysentery
 Kanchanaburi,7-9,0,2003,Dysentery
 Nakhon Pathom,7-9,0,2003,Dysentery
 Ratchaburi,7-9,0,2003,Dysentery
 Suphan Buri,7-9,3,2003,Dysentery
-Zone 7,7-9,0,2003,Dysentery
+Zone:7,7-9,0,2003,Dysentery
 Phetchaburi,7-9,0,2003,Dysentery
 Prachuap Khiri Khan,7-9,0,2003,Dysentery
 Samut Sakhon,7-9,0,2003,Dysentery
 Samut Songkhram,7-9,0,2003,Dysentery
-Zone 8,7-9,4,2003,Dysentery
+Zone:8,7-9,4,2003,Dysentery
 Chachoengsao,7-9,1,2003,Dysentery
 Nakhon Nayok,7-9,0,2003,Dysentery
 Prachin Buri,7-9,1,2003,Dysentery
 Sa Kaeo,7-9,1,2003,Dysentery
 Samut Prakan,7-9,1,2003,Dysentery
-Zone 9,7-9,1,2003,Dysentery
+Zone:9,7-9,1,2003,Dysentery
 Chanthaburi,7-9,0,2003,Dysentery
 Chon Buri,7-9,0,2003,Dysentery
 Rayong,7-9,1,2003,Dysentery
 Trat,7-9,0,2003,Dysentery
 North-Eastern Region,7-9,12,2003,Dysentery
-Zone 10,7-9,2,2003,Dysentery
+Zone:10,7-9,2,2003,Dysentery
 Loei,7-9,0,2003,Dysentery
 Nong Bua Lam Phu,7-9,0,2003,Dysentery
 Nong Khai,7-9,0,2003,Dysentery
 Udon Thani,7-9,2,2003,Dysentery
-Zone 11,7-9,0,2003,Dysentery
+Zone:11,7-9,0,2003,Dysentery
 Kalasin,7-9,0,2003,Dysentery
 Mukdahan,7-9,0,2003,Dysentery
 Nakhon Phanom,7-9,0,2003,Dysentery
 Sakon Nakhon,7-9,0,2003,Dysentery
-Zone 12,7-9,2,2003,Dysentery
+Zone:12,7-9,2,2003,Dysentery
 Khon Kaen,7-9,1,2003,Dysentery
 Maha Sarakham,7-9,0,2003,Dysentery
 Roi Et,7-9,1,2003,Dysentery
-Zone 13,7-9,6,2003,Dysentery
+Zone:13,7-9,6,2003,Dysentery
 Buri Ram,7-9,3,2003,Dysentery
 Chaiyaphum,7-9,1,2003,Dysentery
 Nakhon Ratchasima,7-9,1,2003,Dysentery
 Surin,7-9,1,2003,Dysentery
-Zone 14,7-9,2,2003,Dysentery
+Zone:14,7-9,2,2003,Dysentery
 Amnat Charoen,7-9,0,2003,Dysentery
 Si Sa Ket,7-9,1,2003,Dysentery
 Ubon Ratchathani,7-9,1,2003,Dysentery
 Yasothon,7-9,0,2003,Dysentery
 South Region,7-9,19,2003,Dysentery
-Zone 15,7-9,8,2003,Dysentery
+Zone:15,7-9,8,2003,Dysentery
 Chumphon,7-9,6,2003,Dysentery
 Ranong,7-9,2,2003,Dysentery
 Surat Thani,7-9,0,2003,Dysentery
-Zone 16,7-9,5,2003,Dysentery
+Zone:16,7-9,5,2003,Dysentery
 Nakhon Si Thammarat,7-9,3,2003,Dysentery
 Phatthalung,7-9,0,2003,Dysentery
 Trang,7-9,2,2003,Dysentery
-Zone 17,7-9,2,2003,Dysentery
+Zone:17,7-9,2,2003,Dysentery
 Krabi,7-9,1,2003,Dysentery
 Phangnga,7-9,1,2003,Dysentery
 Phuket,7-9,0,2003,Dysentery
-Zone 18,7-9,4,2003,Dysentery
+Zone:18,7-9,4,2003,Dysentery
 Narathiwat,7-9,1,2003,Dysentery
 Pattani,7-9,1,2003,Dysentery
 Yala,7-9,2,2003,Dysentery
-Zone 19,7-9,0,2003,Dysentery
+Zone:19,7-9,0,2003,Dysentery
 Satun,7-9,0,2003,Dysentery
 Songkhla,7-9,0,2003,Dysentery
 Total,10-14,64,2003,Dysentery
 North Region,10-14,30,2003,Dysentery
-Zone 1,10-14,25,2003,Dysentery
+Zone:1,10-14,25,2003,Dysentery
 Chiang Mai,10-14,9,2003,Dysentery
 Chiang Rai,10-14,0,2003,Dysentery
 Lampang,10-14,0,2003,Dysentery
@@ -32132,98 +32132,98 @@ Mae Hong Son,10-14,9,2003,Dysentery
 Nan,10-14,5,2003,Dysentery
 Phayao,10-14,2,2003,Dysentery
 Phrae,10-14,0,2003,Dysentery
-Zone 2,10-14,5,2003,Dysentery
+Zone:2,10-14,5,2003,Dysentery
 Phetchabun,10-14,1,2003,Dysentery
 Phitsanulok,10-14,4,2003,Dysentery
 Sukhothai,10-14,0,2003,Dysentery
 Tak,10-14,0,2003,Dysentery
 Uttaradit,10-14,0,2003,Dysentery
-Zone 3,10-14,0,2003,Dysentery
+Zone:3,10-14,0,2003,Dysentery
 Kamphaeng Phet,10-14,0,2003,Dysentery
 Nakhon Sawan,10-14,0,2003,Dysentery
 Phichit,10-14,0,2003,Dysentery
 Uthai Thani,10-14,0,2003,Dysentery
 Central Region,10-14,6,2003,Dysentery
 Bangkok,10-14,0,2003,Dysentery
-Zone 4,10-14,0,2003,Dysentery
+Zone:4,10-14,0,2003,Dysentery
 Ang Thong,10-14,0,2003,Dysentery
 Nonthaburi,10-14,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,10-14,0,2003,Dysentery
 Pathum Thani,10-14,0,2003,Dysentery
-Zone 5,10-14,1,2003,Dysentery
+Zone:5,10-14,1,2003,Dysentery
 Chai Nat,10-14,0,2003,Dysentery
 Lop Buri,10-14,1,2003,Dysentery
 Saraburi,10-14,0,2003,Dysentery
 Sing Buri,10-14,0,2003,Dysentery
-Zone 6,10-14,0,2003,Dysentery
+Zone:6,10-14,0,2003,Dysentery
 Kanchanaburi,10-14,0,2003,Dysentery
 Nakhon Pathom,10-14,0,2003,Dysentery
 Ratchaburi,10-14,0,2003,Dysentery
 Suphan Buri,10-14,0,2003,Dysentery
-Zone 7,10-14,0,2003,Dysentery
+Zone:7,10-14,0,2003,Dysentery
 Phetchaburi,10-14,0,2003,Dysentery
 Prachuap Khiri Khan,10-14,0,2003,Dysentery
 Samut Sakhon,10-14,0,2003,Dysentery
 Samut Songkhram,10-14,0,2003,Dysentery
-Zone 8,10-14,1,2003,Dysentery
+Zone:8,10-14,1,2003,Dysentery
 Chachoengsao,10-14,1,2003,Dysentery
 Nakhon Nayok,10-14,0,2003,Dysentery
 Prachin Buri,10-14,0,2003,Dysentery
 Sa Kaeo,10-14,0,2003,Dysentery
 Samut Prakan,10-14,0,2003,Dysentery
-Zone 9,10-14,4,2003,Dysentery
+Zone:9,10-14,4,2003,Dysentery
 Chanthaburi,10-14,2,2003,Dysentery
 Chon Buri,10-14,0,2003,Dysentery
 Rayong,10-14,2,2003,Dysentery
 Trat,10-14,0,2003,Dysentery
 North-Eastern Region,10-14,14,2003,Dysentery
-Zone 10,10-14,2,2003,Dysentery
+Zone:10,10-14,2,2003,Dysentery
 Loei,10-14,0,2003,Dysentery
 Nong Bua Lam Phu,10-14,0,2003,Dysentery
 Nong Khai,10-14,0,2003,Dysentery
 Udon Thani,10-14,2,2003,Dysentery
-Zone 11,10-14,0,2003,Dysentery
+Zone:11,10-14,0,2003,Dysentery
 Kalasin,10-14,0,2003,Dysentery
 Mukdahan,10-14,0,2003,Dysentery
 Nakhon Phanom,10-14,0,2003,Dysentery
 Sakon Nakhon,10-14,0,2003,Dysentery
-Zone 12,10-14,3,2003,Dysentery
+Zone:12,10-14,3,2003,Dysentery
 Khon Kaen,10-14,2,2003,Dysentery
 Maha Sarakham,10-14,0,2003,Dysentery
 Roi Et,10-14,1,2003,Dysentery
-Zone 13,10-14,8,2003,Dysentery
+Zone:13,10-14,8,2003,Dysentery
 Buri Ram,10-14,3,2003,Dysentery
 Chaiyaphum,10-14,4,2003,Dysentery
 Nakhon Ratchasima,10-14,1,2003,Dysentery
 Surin,10-14,0,2003,Dysentery
-Zone 14,10-14,1,2003,Dysentery
+Zone:14,10-14,1,2003,Dysentery
 Amnat Charoen,10-14,0,2003,Dysentery
 Si Sa Ket,10-14,1,2003,Dysentery
 Ubon Ratchathani,10-14,0,2003,Dysentery
 Yasothon,10-14,0,2003,Dysentery
 South Region,10-14,14,2003,Dysentery
-Zone 15,10-14,6,2003,Dysentery
+Zone:15,10-14,6,2003,Dysentery
 Chumphon,10-14,3,2003,Dysentery
 Ranong,10-14,2,2003,Dysentery
 Surat Thani,10-14,1,2003,Dysentery
-Zone 16,10-14,3,2003,Dysentery
+Zone:16,10-14,3,2003,Dysentery
 Nakhon Si Thammarat,10-14,2,2003,Dysentery
 Phatthalung,10-14,0,2003,Dysentery
 Trang,10-14,1,2003,Dysentery
-Zone 17,10-14,0,2003,Dysentery
+Zone:17,10-14,0,2003,Dysentery
 Krabi,10-14,0,2003,Dysentery
 Phangnga,10-14,0,2003,Dysentery
 Phuket,10-14,0,2003,Dysentery
-Zone 18,10-14,4,2003,Dysentery
+Zone:18,10-14,4,2003,Dysentery
 Narathiwat,10-14,3,2003,Dysentery
 Pattani,10-14,1,2003,Dysentery
 Yala,10-14,0,2003,Dysentery
-Zone 19,10-14,1,2003,Dysentery
+Zone:19,10-14,1,2003,Dysentery
 Satun,10-14,1,2003,Dysentery
 Songkhla,10-14,0,2003,Dysentery
 Total,15-24,149,2003,Dysentery
 North Region,15-24,87,2003,Dysentery
-Zone 1,15-24,73,2003,Dysentery
+Zone:1,15-24,73,2003,Dysentery
 Chiang Mai,15-24,38,2003,Dysentery
 Chiang Rai,15-24,0,2003,Dysentery
 Lampang,15-24,5,2003,Dysentery
@@ -32232,98 +32232,98 @@ Mae Hong Son,15-24,26,2003,Dysentery
 Nan,15-24,2,2003,Dysentery
 Phayao,15-24,1,2003,Dysentery
 Phrae,15-24,1,2003,Dysentery
-Zone 2,15-24,6,2003,Dysentery
+Zone:2,15-24,6,2003,Dysentery
 Phetchabun,15-24,0,2003,Dysentery
 Phitsanulok,15-24,5,2003,Dysentery
 Sukhothai,15-24,0,2003,Dysentery
 Tak,15-24,0,2003,Dysentery
 Uttaradit,15-24,1,2003,Dysentery
-Zone 3,15-24,8,2003,Dysentery
+Zone:3,15-24,8,2003,Dysentery
 Kamphaeng Phet,15-24,7,2003,Dysentery
 Nakhon Sawan,15-24,1,2003,Dysentery
 Phichit,15-24,0,2003,Dysentery
 Uthai Thani,15-24,0,2003,Dysentery
 Central Region,15-24,15,2003,Dysentery
 Bangkok,15-24,0,2003,Dysentery
-Zone 4,15-24,1,2003,Dysentery
+Zone:4,15-24,1,2003,Dysentery
 Ang Thong,15-24,0,2003,Dysentery
 Nonthaburi,15-24,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,15-24,1,2003,Dysentery
 Pathum Thani,15-24,0,2003,Dysentery
-Zone 5,15-24,1,2003,Dysentery
+Zone:5,15-24,1,2003,Dysentery
 Chai Nat,15-24,0,2003,Dysentery
 Lop Buri,15-24,0,2003,Dysentery
 Saraburi,15-24,1,2003,Dysentery
 Sing Buri,15-24,0,2003,Dysentery
-Zone 6,15-24,4,2003,Dysentery
+Zone:6,15-24,4,2003,Dysentery
 Kanchanaburi,15-24,2,2003,Dysentery
 Nakhon Pathom,15-24,2,2003,Dysentery
 Ratchaburi,15-24,0,2003,Dysentery
 Suphan Buri,15-24,0,2003,Dysentery
-Zone 7,15-24,0,2003,Dysentery
+Zone:7,15-24,0,2003,Dysentery
 Phetchaburi,15-24,0,2003,Dysentery
 Prachuap Khiri Khan,15-24,0,2003,Dysentery
 Samut Sakhon,15-24,0,2003,Dysentery
 Samut Songkhram,15-24,0,2003,Dysentery
-Zone 8,15-24,7,2003,Dysentery
+Zone:8,15-24,7,2003,Dysentery
 Chachoengsao,15-24,1,2003,Dysentery
 Nakhon Nayok,15-24,0,2003,Dysentery
 Prachin Buri,15-24,0,2003,Dysentery
 Sa Kaeo,15-24,0,2003,Dysentery
 Samut Prakan,15-24,6,2003,Dysentery
-Zone 9,15-24,2,2003,Dysentery
+Zone:9,15-24,2,2003,Dysentery
 Chanthaburi,15-24,1,2003,Dysentery
 Chon Buri,15-24,1,2003,Dysentery
 Rayong,15-24,0,2003,Dysentery
 Trat,15-24,0,2003,Dysentery
 North-Eastern Region,15-24,27,2003,Dysentery
-Zone 10,15-24,3,2003,Dysentery
+Zone:10,15-24,3,2003,Dysentery
 Loei,15-24,0,2003,Dysentery
 Nong Bua Lam Phu,15-24,0,2003,Dysentery
 Nong Khai,15-24,1,2003,Dysentery
 Udon Thani,15-24,2,2003,Dysentery
-Zone 11,15-24,2,2003,Dysentery
+Zone:11,15-24,2,2003,Dysentery
 Kalasin,15-24,2,2003,Dysentery
 Mukdahan,15-24,0,2003,Dysentery
 Nakhon Phanom,15-24,0,2003,Dysentery
 Sakon Nakhon,15-24,0,2003,Dysentery
-Zone 12,15-24,2,2003,Dysentery
+Zone:12,15-24,2,2003,Dysentery
 Khon Kaen,15-24,2,2003,Dysentery
 Maha Sarakham,15-24,0,2003,Dysentery
 Roi Et,15-24,0,2003,Dysentery
-Zone 13,15-24,14,2003,Dysentery
+Zone:13,15-24,14,2003,Dysentery
 Buri Ram,15-24,2,2003,Dysentery
 Chaiyaphum,15-24,2,2003,Dysentery
 Nakhon Ratchasima,15-24,8,2003,Dysentery
 Surin,15-24,2,2003,Dysentery
-Zone 14,15-24,6,2003,Dysentery
+Zone:14,15-24,6,2003,Dysentery
 Amnat Charoen,15-24,0,2003,Dysentery
 Si Sa Ket,15-24,3,2003,Dysentery
 Ubon Ratchathani,15-24,2,2003,Dysentery
 Yasothon,15-24,1,2003,Dysentery
 South Region,15-24,20,2003,Dysentery
-Zone 15,15-24,7,2003,Dysentery
+Zone:15,15-24,7,2003,Dysentery
 Chumphon,15-24,4,2003,Dysentery
 Ranong,15-24,0,2003,Dysentery
 Surat Thani,15-24,3,2003,Dysentery
-Zone 16,15-24,7,2003,Dysentery
+Zone:16,15-24,7,2003,Dysentery
 Nakhon Si Thammarat,15-24,2,2003,Dysentery
 Phatthalung,15-24,0,2003,Dysentery
 Trang,15-24,5,2003,Dysentery
-Zone 17,15-24,1,2003,Dysentery
+Zone:17,15-24,1,2003,Dysentery
 Krabi,15-24,0,2003,Dysentery
 Phangnga,15-24,0,2003,Dysentery
 Phuket,15-24,1,2003,Dysentery
-Zone 18,15-24,3,2003,Dysentery
+Zone:18,15-24,3,2003,Dysentery
 Narathiwat,15-24,2,2003,Dysentery
 Pattani,15-24,1,2003,Dysentery
 Yala,15-24,0,2003,Dysentery
-Zone 19,15-24,2,2003,Dysentery
+Zone:19,15-24,2,2003,Dysentery
 Satun,15-24,0,2003,Dysentery
 Songkhla,15-24,2,2003,Dysentery
 Total,25-34,241,2003,Dysentery
 North Region,25-34,117,2003,Dysentery
-Zone 1,25-34,93,2003,Dysentery
+Zone:1,25-34,93,2003,Dysentery
 Chiang Mai,25-34,38,2003,Dysentery
 Chiang Rai,25-34,5,2003,Dysentery
 Lampang,25-34,5,2003,Dysentery
@@ -32332,98 +32332,98 @@ Mae Hong Son,25-34,26,2003,Dysentery
 Nan,25-34,9,2003,Dysentery
 Phayao,25-34,4,2003,Dysentery
 Phrae,25-34,5,2003,Dysentery
-Zone 2,25-34,16,2003,Dysentery
+Zone:2,25-34,16,2003,Dysentery
 Phetchabun,25-34,6,2003,Dysentery
 Phitsanulok,25-34,8,2003,Dysentery
 Sukhothai,25-34,0,2003,Dysentery
 Tak,25-34,2,2003,Dysentery
 Uttaradit,25-34,0,2003,Dysentery
-Zone 3,25-34,8,2003,Dysentery
+Zone:3,25-34,8,2003,Dysentery
 Kamphaeng Phet,25-34,7,2003,Dysentery
 Nakhon Sawan,25-34,0,2003,Dysentery
 Phichit,25-34,0,2003,Dysentery
 Uthai Thani,25-34,1,2003,Dysentery
 Central Region,25-34,23,2003,Dysentery
 Bangkok,25-34,1,2003,Dysentery
-Zone 4,25-34,0,2003,Dysentery
+Zone:4,25-34,0,2003,Dysentery
 Ang Thong,25-34,0,2003,Dysentery
 Nonthaburi,25-34,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,25-34,0,2003,Dysentery
 Pathum Thani,25-34,0,2003,Dysentery
-Zone 5,25-34,2,2003,Dysentery
+Zone:5,25-34,2,2003,Dysentery
 Chai Nat,25-34,0,2003,Dysentery
 Lop Buri,25-34,1,2003,Dysentery
 Saraburi,25-34,1,2003,Dysentery
 Sing Buri,25-34,0,2003,Dysentery
-Zone 6,25-34,6,2003,Dysentery
+Zone:6,25-34,6,2003,Dysentery
 Kanchanaburi,25-34,0,2003,Dysentery
 Nakhon Pathom,25-34,4,2003,Dysentery
 Ratchaburi,25-34,0,2003,Dysentery
 Suphan Buri,25-34,2,2003,Dysentery
-Zone 7,25-34,2,2003,Dysentery
+Zone:7,25-34,2,2003,Dysentery
 Phetchaburi,25-34,2,2003,Dysentery
 Prachuap Khiri Khan,25-34,0,2003,Dysentery
 Samut Sakhon,25-34,0,2003,Dysentery
 Samut Songkhram,25-34,0,2003,Dysentery
-Zone 8,25-34,9,2003,Dysentery
+Zone:8,25-34,9,2003,Dysentery
 Chachoengsao,25-34,3,2003,Dysentery
 Nakhon Nayok,25-34,0,2003,Dysentery
 Prachin Buri,25-34,1,2003,Dysentery
 Sa Kaeo,25-34,2,2003,Dysentery
 Samut Prakan,25-34,3,2003,Dysentery
-Zone 9,25-34,3,2003,Dysentery
+Zone:9,25-34,3,2003,Dysentery
 Chanthaburi,25-34,1,2003,Dysentery
 Chon Buri,25-34,1,2003,Dysentery
 Rayong,25-34,1,2003,Dysentery
 Trat,25-34,0,2003,Dysentery
 North-Eastern Region,25-34,55,2003,Dysentery
-Zone 10,25-34,13,2003,Dysentery
+Zone:10,25-34,13,2003,Dysentery
 Loei,25-34,0,2003,Dysentery
 Nong Bua Lam Phu,25-34,2,2003,Dysentery
 Nong Khai,25-34,3,2003,Dysentery
 Udon Thani,25-34,8,2003,Dysentery
-Zone 11,25-34,4,2003,Dysentery
+Zone:11,25-34,4,2003,Dysentery
 Kalasin,25-34,2,2003,Dysentery
 Mukdahan,25-34,1,2003,Dysentery
 Nakhon Phanom,25-34,0,2003,Dysentery
 Sakon Nakhon,25-34,1,2003,Dysentery
-Zone 12,25-34,10,2003,Dysentery
+Zone:12,25-34,10,2003,Dysentery
 Khon Kaen,25-34,7,2003,Dysentery
 Maha Sarakham,25-34,1,2003,Dysentery
 Roi Et,25-34,2,2003,Dysentery
-Zone 13,25-34,16,2003,Dysentery
+Zone:13,25-34,16,2003,Dysentery
 Buri Ram,25-34,8,2003,Dysentery
 Chaiyaphum,25-34,0,2003,Dysentery
 Nakhon Ratchasima,25-34,4,2003,Dysentery
 Surin,25-34,4,2003,Dysentery
-Zone 14,25-34,12,2003,Dysentery
+Zone:14,25-34,12,2003,Dysentery
 Amnat Charoen,25-34,0,2003,Dysentery
 Si Sa Ket,25-34,6,2003,Dysentery
 Ubon Ratchathani,25-34,4,2003,Dysentery
 Yasothon,25-34,2,2003,Dysentery
 South Region,25-34,46,2003,Dysentery
-Zone 15,25-34,17,2003,Dysentery
+Zone:15,25-34,17,2003,Dysentery
 Chumphon,25-34,6,2003,Dysentery
 Ranong,25-34,2,2003,Dysentery
 Surat Thani,25-34,9,2003,Dysentery
-Zone 16,25-34,10,2003,Dysentery
+Zone:16,25-34,10,2003,Dysentery
 Nakhon Si Thammarat,25-34,5,2003,Dysentery
 Phatthalung,25-34,0,2003,Dysentery
 Trang,25-34,5,2003,Dysentery
-Zone 17,25-34,1,2003,Dysentery
+Zone:17,25-34,1,2003,Dysentery
 Krabi,25-34,0,2003,Dysentery
 Phangnga,25-34,1,2003,Dysentery
 Phuket,25-34,0,2003,Dysentery
-Zone 18,25-34,11,2003,Dysentery
+Zone:18,25-34,11,2003,Dysentery
 Narathiwat,25-34,5,2003,Dysentery
 Pattani,25-34,4,2003,Dysentery
 Yala,25-34,2,2003,Dysentery
-Zone 19,25-34,7,2003,Dysentery
+Zone:19,25-34,7,2003,Dysentery
 Satun,25-34,1,2003,Dysentery
 Songkhla,25-34,6,2003,Dysentery
 Total,35-44,225,2003,Dysentery
 North Region,35-44,138,2003,Dysentery
-Zone 1,35-44,114,2003,Dysentery
+Zone:1,35-44,114,2003,Dysentery
 Chiang Mai,35-44,39,2003,Dysentery
 Chiang Rai,35-44,6,2003,Dysentery
 Lampang,35-44,11,2003,Dysentery
@@ -32432,98 +32432,98 @@ Mae Hong Son,35-44,35,2003,Dysentery
 Nan,35-44,10,2003,Dysentery
 Phayao,35-44,8,2003,Dysentery
 Phrae,35-44,4,2003,Dysentery
-Zone 2,35-44,16,2003,Dysentery
+Zone:2,35-44,16,2003,Dysentery
 Phetchabun,35-44,2,2003,Dysentery
 Phitsanulok,35-44,11,2003,Dysentery
 Sukhothai,35-44,2,2003,Dysentery
 Tak,35-44,1,2003,Dysentery
 Uttaradit,35-44,0,2003,Dysentery
-Zone 3,35-44,8,2003,Dysentery
+Zone:3,35-44,8,2003,Dysentery
 Kamphaeng Phet,35-44,4,2003,Dysentery
 Nakhon Sawan,35-44,4,2003,Dysentery
 Phichit,35-44,0,2003,Dysentery
 Uthai Thani,35-44,0,2003,Dysentery
 Central Region,35-44,8,2003,Dysentery
 Bangkok,35-44,0,2003,Dysentery
-Zone 4,35-44,1,2003,Dysentery
+Zone:4,35-44,1,2003,Dysentery
 Ang Thong,35-44,0,2003,Dysentery
 Nonthaburi,35-44,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,35-44,1,2003,Dysentery
 Pathum Thani,35-44,0,2003,Dysentery
-Zone 5,35-44,0,2003,Dysentery
+Zone:5,35-44,0,2003,Dysentery
 Chai Nat,35-44,0,2003,Dysentery
 Lop Buri,35-44,0,2003,Dysentery
 Saraburi,35-44,0,2003,Dysentery
 Sing Buri,35-44,0,2003,Dysentery
-Zone 6,35-44,1,2003,Dysentery
+Zone:6,35-44,1,2003,Dysentery
 Kanchanaburi,35-44,0,2003,Dysentery
 Nakhon Pathom,35-44,0,2003,Dysentery
 Ratchaburi,35-44,0,2003,Dysentery
 Suphan Buri,35-44,1,2003,Dysentery
-Zone 7,35-44,0,2003,Dysentery
+Zone:7,35-44,0,2003,Dysentery
 Phetchaburi,35-44,0,2003,Dysentery
 Prachuap Khiri Khan,35-44,0,2003,Dysentery
 Samut Sakhon,35-44,0,2003,Dysentery
 Samut Songkhram,35-44,0,2003,Dysentery
-Zone 8,35-44,5,2003,Dysentery
+Zone:8,35-44,5,2003,Dysentery
 Chachoengsao,35-44,1,2003,Dysentery
 Nakhon Nayok,35-44,0,2003,Dysentery
 Prachin Buri,35-44,1,2003,Dysentery
 Sa Kaeo,35-44,2,2003,Dysentery
 Samut Prakan,35-44,1,2003,Dysentery
-Zone 9,35-44,1,2003,Dysentery
+Zone:9,35-44,1,2003,Dysentery
 Chanthaburi,35-44,0,2003,Dysentery
 Chon Buri,35-44,0,2003,Dysentery
 Rayong,35-44,1,2003,Dysentery
 Trat,35-44,0,2003,Dysentery
 North-Eastern Region,35-44,50,2003,Dysentery
-Zone 10,35-44,13,2003,Dysentery
+Zone:10,35-44,13,2003,Dysentery
 Loei,35-44,1,2003,Dysentery
 Nong Bua Lam Phu,35-44,2,2003,Dysentery
 Nong Khai,35-44,4,2003,Dysentery
 Udon Thani,35-44,6,2003,Dysentery
-Zone 11,35-44,1,2003,Dysentery
+Zone:11,35-44,1,2003,Dysentery
 Kalasin,35-44,1,2003,Dysentery
 Mukdahan,35-44,0,2003,Dysentery
 Nakhon Phanom,35-44,0,2003,Dysentery
 Sakon Nakhon,35-44,0,2003,Dysentery
-Zone 12,35-44,6,2003,Dysentery
+Zone:12,35-44,6,2003,Dysentery
 Khon Kaen,35-44,3,2003,Dysentery
 Maha Sarakham,35-44,1,2003,Dysentery
 Roi Et,35-44,2,2003,Dysentery
-Zone 13,35-44,23,2003,Dysentery
+Zone:13,35-44,23,2003,Dysentery
 Buri Ram,35-44,4,2003,Dysentery
 Chaiyaphum,35-44,6,2003,Dysentery
 Nakhon Ratchasima,35-44,9,2003,Dysentery
 Surin,35-44,4,2003,Dysentery
-Zone 14,35-44,7,2003,Dysentery
+Zone:14,35-44,7,2003,Dysentery
 Amnat Charoen,35-44,0,2003,Dysentery
 Si Sa Ket,35-44,4,2003,Dysentery
 Ubon Ratchathani,35-44,0,2003,Dysentery
 Yasothon,35-44,3,2003,Dysentery
 South Region,35-44,29,2003,Dysentery
-Zone 15,35-44,3,2003,Dysentery
+Zone:15,35-44,3,2003,Dysentery
 Chumphon,35-44,1,2003,Dysentery
 Ranong,35-44,0,2003,Dysentery
 Surat Thani,35-44,2,2003,Dysentery
-Zone 16,35-44,9,2003,Dysentery
+Zone:16,35-44,9,2003,Dysentery
 Nakhon Si Thammarat,35-44,5,2003,Dysentery
 Phatthalung,35-44,0,2003,Dysentery
 Trang,35-44,4,2003,Dysentery
-Zone 17,35-44,2,2003,Dysentery
+Zone:17,35-44,2,2003,Dysentery
 Krabi,35-44,0,2003,Dysentery
 Phangnga,35-44,1,2003,Dysentery
 Phuket,35-44,1,2003,Dysentery
-Zone 18,35-44,13,2003,Dysentery
+Zone:18,35-44,13,2003,Dysentery
 Narathiwat,35-44,9,2003,Dysentery
 Pattani,35-44,1,2003,Dysentery
 Yala,35-44,3,2003,Dysentery
-Zone 19,35-44,2,2003,Dysentery
+Zone:19,35-44,2,2003,Dysentery
 Satun,35-44,1,2003,Dysentery
 Songkhla,35-44,1,2003,Dysentery
 Total,45-54,170,2003,Dysentery
 North Region,45-54,99,2003,Dysentery
-Zone 1,45-54,79,2003,Dysentery
+Zone:1,45-54,79,2003,Dysentery
 Chiang Mai,45-54,38,2003,Dysentery
 Chiang Rai,45-54,3,2003,Dysentery
 Lampang,45-54,10,2003,Dysentery
@@ -32532,98 +32532,98 @@ Mae Hong Son,45-54,19,2003,Dysentery
 Nan,45-54,4,2003,Dysentery
 Phayao,45-54,3,2003,Dysentery
 Phrae,45-54,2,2003,Dysentery
-Zone 2,45-54,11,2003,Dysentery
+Zone:2,45-54,11,2003,Dysentery
 Phetchabun,45-54,3,2003,Dysentery
 Phitsanulok,45-54,8,2003,Dysentery
 Sukhothai,45-54,0,2003,Dysentery
 Tak,45-54,0,2003,Dysentery
 Uttaradit,45-54,0,2003,Dysentery
-Zone 3,45-54,9,2003,Dysentery
+Zone:3,45-54,9,2003,Dysentery
 Kamphaeng Phet,45-54,8,2003,Dysentery
 Nakhon Sawan,45-54,1,2003,Dysentery
 Phichit,45-54,0,2003,Dysentery
 Uthai Thani,45-54,0,2003,Dysentery
 Central Region,45-54,9,2003,Dysentery
 Bangkok,45-54,1,2003,Dysentery
-Zone 4,45-54,0,2003,Dysentery
+Zone:4,45-54,0,2003,Dysentery
 Ang Thong,45-54,0,2003,Dysentery
 Nonthaburi,45-54,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,45-54,0,2003,Dysentery
 Pathum Thani,45-54,0,2003,Dysentery
-Zone 5,45-54,0,2003,Dysentery
+Zone:5,45-54,0,2003,Dysentery
 Chai Nat,45-54,0,2003,Dysentery
 Lop Buri,45-54,0,2003,Dysentery
 Saraburi,45-54,0,2003,Dysentery
 Sing Buri,45-54,0,2003,Dysentery
-Zone 6,45-54,2,2003,Dysentery
+Zone:6,45-54,2,2003,Dysentery
 Kanchanaburi,45-54,0,2003,Dysentery
 Nakhon Pathom,45-54,0,2003,Dysentery
 Ratchaburi,45-54,0,2003,Dysentery
 Suphan Buri,45-54,2,2003,Dysentery
-Zone 7,45-54,2,2003,Dysentery
+Zone:7,45-54,2,2003,Dysentery
 Phetchaburi,45-54,1,2003,Dysentery
 Prachuap Khiri Khan,45-54,1,2003,Dysentery
 Samut Sakhon,45-54,0,2003,Dysentery
 Samut Songkhram,45-54,0,2003,Dysentery
-Zone 8,45-54,2,2003,Dysentery
+Zone:8,45-54,2,2003,Dysentery
 Chachoengsao,45-54,0,2003,Dysentery
 Nakhon Nayok,45-54,0,2003,Dysentery
 Prachin Buri,45-54,0,2003,Dysentery
 Sa Kaeo,45-54,1,2003,Dysentery
 Samut Prakan,45-54,1,2003,Dysentery
-Zone 9,45-54,2,2003,Dysentery
+Zone:9,45-54,2,2003,Dysentery
 Chanthaburi,45-54,0,2003,Dysentery
 Chon Buri,45-54,0,2003,Dysentery
 Rayong,45-54,0,2003,Dysentery
 Trat,45-54,2,2003,Dysentery
 North-Eastern Region,45-54,33,2003,Dysentery
-Zone 10,45-54,10,2003,Dysentery
+Zone:10,45-54,10,2003,Dysentery
 Loei,45-54,1,2003,Dysentery
 Nong Bua Lam Phu,45-54,0,2003,Dysentery
 Nong Khai,45-54,4,2003,Dysentery
 Udon Thani,45-54,5,2003,Dysentery
-Zone 11,45-54,3,2003,Dysentery
+Zone:11,45-54,3,2003,Dysentery
 Kalasin,45-54,1,2003,Dysentery
 Mukdahan,45-54,0,2003,Dysentery
 Nakhon Phanom,45-54,0,2003,Dysentery
 Sakon Nakhon,45-54,2,2003,Dysentery
-Zone 12,45-54,2,2003,Dysentery
+Zone:12,45-54,2,2003,Dysentery
 Khon Kaen,45-54,1,2003,Dysentery
 Maha Sarakham,45-54,1,2003,Dysentery
 Roi Et,45-54,0,2003,Dysentery
-Zone 13,45-54,10,2003,Dysentery
+Zone:13,45-54,10,2003,Dysentery
 Buri Ram,45-54,5,2003,Dysentery
 Chaiyaphum,45-54,1,2003,Dysentery
 Nakhon Ratchasima,45-54,3,2003,Dysentery
 Surin,45-54,1,2003,Dysentery
-Zone 14,45-54,8,2003,Dysentery
+Zone:14,45-54,8,2003,Dysentery
 Amnat Charoen,45-54,0,2003,Dysentery
 Si Sa Ket,45-54,5,2003,Dysentery
 Ubon Ratchathani,45-54,3,2003,Dysentery
 Yasothon,45-54,0,2003,Dysentery
 South Region,45-54,29,2003,Dysentery
-Zone 15,45-54,4,2003,Dysentery
+Zone:15,45-54,4,2003,Dysentery
 Chumphon,45-54,0,2003,Dysentery
 Ranong,45-54,2,2003,Dysentery
 Surat Thani,45-54,2,2003,Dysentery
-Zone 16,45-54,8,2003,Dysentery
+Zone:16,45-54,8,2003,Dysentery
 Nakhon Si Thammarat,45-54,5,2003,Dysentery
 Phatthalung,45-54,0,2003,Dysentery
 Trang,45-54,3,2003,Dysentery
-Zone 17,45-54,2,2003,Dysentery
+Zone:17,45-54,2,2003,Dysentery
 Krabi,45-54,0,2003,Dysentery
 Phangnga,45-54,2,2003,Dysentery
 Phuket,45-54,0,2003,Dysentery
-Zone 18,45-54,13,2003,Dysentery
+Zone:18,45-54,13,2003,Dysentery
 Narathiwat,45-54,8,2003,Dysentery
 Pattani,45-54,3,2003,Dysentery
 Yala,45-54,2,2003,Dysentery
-Zone 19,45-54,2,2003,Dysentery
+Zone:19,45-54,2,2003,Dysentery
 Satun,45-54,0,2003,Dysentery
 Songkhla,45-54,2,2003,Dysentery
 Total,55-64,137,2003,Dysentery
 North Region,55-64,76,2003,Dysentery
-Zone 1,55-64,59,2003,Dysentery
+Zone:1,55-64,59,2003,Dysentery
 Chiang Mai,55-64,29,2003,Dysentery
 Chiang Rai,55-64,3,2003,Dysentery
 Lampang,55-64,2,2003,Dysentery
@@ -32632,98 +32632,98 @@ Mae Hong Son,55-64,14,2003,Dysentery
 Nan,55-64,4,2003,Dysentery
 Phayao,55-64,6,2003,Dysentery
 Phrae,55-64,1,2003,Dysentery
-Zone 2,55-64,7,2003,Dysentery
+Zone:2,55-64,7,2003,Dysentery
 Phetchabun,55-64,3,2003,Dysentery
 Phitsanulok,55-64,3,2003,Dysentery
 Sukhothai,55-64,0,2003,Dysentery
 Tak,55-64,1,2003,Dysentery
 Uttaradit,55-64,0,2003,Dysentery
-Zone 3,55-64,10,2003,Dysentery
+Zone:3,55-64,10,2003,Dysentery
 Kamphaeng Phet,55-64,9,2003,Dysentery
 Nakhon Sawan,55-64,1,2003,Dysentery
 Phichit,55-64,0,2003,Dysentery
 Uthai Thani,55-64,0,2003,Dysentery
 Central Region,55-64,5,2003,Dysentery
 Bangkok,55-64,0,2003,Dysentery
-Zone 4,55-64,0,2003,Dysentery
+Zone:4,55-64,0,2003,Dysentery
 Ang Thong,55-64,0,2003,Dysentery
 Nonthaburi,55-64,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,55-64,0,2003,Dysentery
 Pathum Thani,55-64,0,2003,Dysentery
-Zone 5,55-64,1,2003,Dysentery
+Zone:5,55-64,1,2003,Dysentery
 Chai Nat,55-64,0,2003,Dysentery
 Lop Buri,55-64,0,2003,Dysentery
 Saraburi,55-64,1,2003,Dysentery
 Sing Buri,55-64,0,2003,Dysentery
-Zone 6,55-64,0,2003,Dysentery
+Zone:6,55-64,0,2003,Dysentery
 Kanchanaburi,55-64,0,2003,Dysentery
 Nakhon Pathom,55-64,0,2003,Dysentery
 Ratchaburi,55-64,0,2003,Dysentery
 Suphan Buri,55-64,0,2003,Dysentery
-Zone 7,55-64,1,2003,Dysentery
+Zone:7,55-64,1,2003,Dysentery
 Phetchaburi,55-64,0,2003,Dysentery
 Prachuap Khiri Khan,55-64,1,2003,Dysentery
 Samut Sakhon,55-64,0,2003,Dysentery
 Samut Songkhram,55-64,0,2003,Dysentery
-Zone 8,55-64,2,2003,Dysentery
+Zone:8,55-64,2,2003,Dysentery
 Chachoengsao,55-64,1,2003,Dysentery
 Nakhon Nayok,55-64,0,2003,Dysentery
 Prachin Buri,55-64,0,2003,Dysentery
 Sa Kaeo,55-64,0,2003,Dysentery
 Samut Prakan,55-64,1,2003,Dysentery
-Zone 9,55-64,1,2003,Dysentery
+Zone:9,55-64,1,2003,Dysentery
 Chanthaburi,55-64,0,2003,Dysentery
 Chon Buri,55-64,0,2003,Dysentery
 Rayong,55-64,0,2003,Dysentery
 Trat,55-64,1,2003,Dysentery
 North-Eastern Region,55-64,37,2003,Dysentery
-Zone 10,55-64,11,2003,Dysentery
+Zone:10,55-64,11,2003,Dysentery
 Loei,55-64,0,2003,Dysentery
 Nong Bua Lam Phu,55-64,0,2003,Dysentery
 Nong Khai,55-64,1,2003,Dysentery
 Udon Thani,55-64,10,2003,Dysentery
-Zone 11,55-64,6,2003,Dysentery
+Zone:11,55-64,6,2003,Dysentery
 Kalasin,55-64,0,2003,Dysentery
 Mukdahan,55-64,0,2003,Dysentery
 Nakhon Phanom,55-64,1,2003,Dysentery
 Sakon Nakhon,55-64,5,2003,Dysentery
-Zone 12,55-64,2,2003,Dysentery
+Zone:12,55-64,2,2003,Dysentery
 Khon Kaen,55-64,1,2003,Dysentery
 Maha Sarakham,55-64,0,2003,Dysentery
 Roi Et,55-64,1,2003,Dysentery
-Zone 13,55-64,9,2003,Dysentery
+Zone:13,55-64,9,2003,Dysentery
 Buri Ram,55-64,2,2003,Dysentery
 Chaiyaphum,55-64,2,2003,Dysentery
 Nakhon Ratchasima,55-64,3,2003,Dysentery
 Surin,55-64,2,2003,Dysentery
-Zone 14,55-64,9,2003,Dysentery
+Zone:14,55-64,9,2003,Dysentery
 Amnat Charoen,55-64,0,2003,Dysentery
 Si Sa Ket,55-64,5,2003,Dysentery
 Ubon Ratchathani,55-64,1,2003,Dysentery
 Yasothon,55-64,3,2003,Dysentery
 South Region,55-64,19,2003,Dysentery
-Zone 15,55-64,7,2003,Dysentery
+Zone:15,55-64,7,2003,Dysentery
 Chumphon,55-64,1,2003,Dysentery
 Ranong,55-64,2,2003,Dysentery
 Surat Thani,55-64,4,2003,Dysentery
-Zone 16,55-64,5,2003,Dysentery
+Zone:16,55-64,5,2003,Dysentery
 Nakhon Si Thammarat,55-64,3,2003,Dysentery
 Phatthalung,55-64,0,2003,Dysentery
 Trang,55-64,2,2003,Dysentery
-Zone 17,55-64,0,2003,Dysentery
+Zone:17,55-64,0,2003,Dysentery
 Krabi,55-64,0,2003,Dysentery
 Phangnga,55-64,0,2003,Dysentery
 Phuket,55-64,0,2003,Dysentery
-Zone 18,55-64,4,2003,Dysentery
+Zone:18,55-64,4,2003,Dysentery
 Narathiwat,55-64,3,2003,Dysentery
 Pattani,55-64,1,2003,Dysentery
 Yala,55-64,0,2003,Dysentery
-Zone 19,55-64,3,2003,Dysentery
+Zone:19,55-64,3,2003,Dysentery
 Satun,55-64,0,2003,Dysentery
 Songkhla,55-64,3,2003,Dysentery
 Total,65+,158,2003,Dysentery
 North Region,65+,88,2003,Dysentery
-Zone 1,65+,64,2003,Dysentery
+Zone:1,65+,64,2003,Dysentery
 Chiang Mai,65+,20,2003,Dysentery
 Chiang Rai,65+,6,2003,Dysentery
 Lampang,65+,15,2003,Dysentery
@@ -32732,98 +32732,98 @@ Mae Hong Son,65+,13,2003,Dysentery
 Nan,65+,4,2003,Dysentery
 Phayao,65+,4,2003,Dysentery
 Phrae,65+,1,2003,Dysentery
-Zone 2,65+,19,2003,Dysentery
+Zone:2,65+,19,2003,Dysentery
 Phetchabun,65+,1,2003,Dysentery
 Phitsanulok,65+,17,2003,Dysentery
 Sukhothai,65+,1,2003,Dysentery
 Tak,65+,0,2003,Dysentery
 Uttaradit,65+,0,2003,Dysentery
-Zone 3,65+,5,2003,Dysentery
+Zone:3,65+,5,2003,Dysentery
 Kamphaeng Phet,65+,5,2003,Dysentery
 Nakhon Sawan,65+,0,2003,Dysentery
 Phichit,65+,0,2003,Dysentery
 Uthai Thani,65+,0,2003,Dysentery
 Central Region,65+,8,2003,Dysentery
 Bangkok,65+,0,2003,Dysentery
-Zone 4,65+,1,2003,Dysentery
+Zone:4,65+,1,2003,Dysentery
 Ang Thong,65+,0,2003,Dysentery
 Nonthaburi,65+,1,2003,Dysentery
 P.Nakhon S.Ayutthaya,65+,0,2003,Dysentery
 Pathum Thani,65+,0,2003,Dysentery
-Zone 5,65+,1,2003,Dysentery
+Zone:5,65+,1,2003,Dysentery
 Chai Nat,65+,0,2003,Dysentery
 Lop Buri,65+,0,2003,Dysentery
 Saraburi,65+,1,2003,Dysentery
 Sing Buri,65+,0,2003,Dysentery
-Zone 6,65+,1,2003,Dysentery
+Zone:6,65+,1,2003,Dysentery
 Kanchanaburi,65+,0,2003,Dysentery
 Nakhon Pathom,65+,0,2003,Dysentery
 Ratchaburi,65+,0,2003,Dysentery
 Suphan Buri,65+,1,2003,Dysentery
-Zone 7,65+,1,2003,Dysentery
+Zone:7,65+,1,2003,Dysentery
 Phetchaburi,65+,0,2003,Dysentery
 Prachuap Khiri Khan,65+,0,2003,Dysentery
 Samut Sakhon,65+,0,2003,Dysentery
 Samut Songkhram,65+,1,2003,Dysentery
-Zone 8,65+,4,2003,Dysentery
+Zone:8,65+,4,2003,Dysentery
 Chachoengsao,65+,2,2003,Dysentery
 Nakhon Nayok,65+,0,2003,Dysentery
 Prachin Buri,65+,1,2003,Dysentery
 Sa Kaeo,65+,0,2003,Dysentery
 Samut Prakan,65+,1,2003,Dysentery
-Zone 9,65+,0,2003,Dysentery
+Zone:9,65+,0,2003,Dysentery
 Chanthaburi,65+,0,2003,Dysentery
 Chon Buri,65+,0,2003,Dysentery
 Rayong,65+,0,2003,Dysentery
 Trat,65+,0,2003,Dysentery
 North-Eastern Region,65+,39,2003,Dysentery
-Zone 10,65+,8,2003,Dysentery
+Zone:10,65+,8,2003,Dysentery
 Loei,65+,0,2003,Dysentery
 Nong Bua Lam Phu,65+,0,2003,Dysentery
 Nong Khai,65+,0,2003,Dysentery
 Udon Thani,65+,8,2003,Dysentery
-Zone 11,65+,4,2003,Dysentery
+Zone:11,65+,4,2003,Dysentery
 Kalasin,65+,2,2003,Dysentery
 Mukdahan,65+,0,2003,Dysentery
 Nakhon Phanom,65+,0,2003,Dysentery
 Sakon Nakhon,65+,2,2003,Dysentery
-Zone 12,65+,7,2003,Dysentery
+Zone:12,65+,7,2003,Dysentery
 Khon Kaen,65+,6,2003,Dysentery
 Maha Sarakham,65+,0,2003,Dysentery
 Roi Et,65+,1,2003,Dysentery
-Zone 13,65+,16,2003,Dysentery
+Zone:13,65+,16,2003,Dysentery
 Buri Ram,65+,2,2003,Dysentery
 Chaiyaphum,65+,3,2003,Dysentery
 Nakhon Ratchasima,65+,6,2003,Dysentery
 Surin,65+,5,2003,Dysentery
-Zone 14,65+,4,2003,Dysentery
+Zone:14,65+,4,2003,Dysentery
 Amnat Charoen,65+,0,2003,Dysentery
 Si Sa Ket,65+,4,2003,Dysentery
 Ubon Ratchathani,65+,0,2003,Dysentery
 Yasothon,65+,0,2003,Dysentery
 South Region,65+,23,2003,Dysentery
-Zone 15,65+,5,2003,Dysentery
+Zone:15,65+,5,2003,Dysentery
 Chumphon,65+,1,2003,Dysentery
 Ranong,65+,3,2003,Dysentery
 Surat Thani,65+,1,2003,Dysentery
-Zone 16,65+,9,2003,Dysentery
+Zone:16,65+,9,2003,Dysentery
 Nakhon Si Thammarat,65+,4,2003,Dysentery
 Phatthalung,65+,0,2003,Dysentery
 Trang,65+,5,2003,Dysentery
-Zone 17,65+,3,2003,Dysentery
+Zone:17,65+,3,2003,Dysentery
 Krabi,65+,1,2003,Dysentery
 Phangnga,65+,0,2003,Dysentery
 Phuket,65+,2,2003,Dysentery
-Zone 18,65+,4,2003,Dysentery
+Zone:18,65+,4,2003,Dysentery
 Narathiwat,65+,1,2003,Dysentery
 Pattani,65+,1,2003,Dysentery
 Yala,65+,2,2003,Dysentery
-Zone 19,65+,2,2003,Dysentery
+Zone:19,65+,2,2003,Dysentery
 Satun,65+,0,2003,Dysentery
 Songkhla,65+,2,2003,Dysentery
 Total,Unknown,2,2003,Dysentery
 North Region,Unknown,0,2003,Dysentery
-Zone 1,Unknown,0,2003,Dysentery
+Zone:1,Unknown,0,2003,Dysentery
 Chiang Mai,Unknown,0,2003,Dysentery
 Chiang Rai,Unknown,0,2003,Dysentery
 Lampang,Unknown,0,2003,Dysentery
@@ -32832,93 +32832,93 @@ Mae Hong Son,Unknown,0,2003,Dysentery
 Nan,Unknown,0,2003,Dysentery
 Phayao,Unknown,0,2003,Dysentery
 Phrae,Unknown,0,2003,Dysentery
-Zone 2,Unknown,0,2003,Dysentery
+Zone:2,Unknown,0,2003,Dysentery
 Phetchabun,Unknown,0,2003,Dysentery
 Phitsanulok,Unknown,0,2003,Dysentery
 Sukhothai,Unknown,0,2003,Dysentery
 Tak,Unknown,0,2003,Dysentery
 Uttaradit,Unknown,0,2003,Dysentery
-Zone 3,Unknown,0,2003,Dysentery
+Zone:3,Unknown,0,2003,Dysentery
 Kamphaeng Phet,Unknown,0,2003,Dysentery
 Nakhon Sawan,Unknown,0,2003,Dysentery
 Phichit,Unknown,0,2003,Dysentery
 Uthai Thani,Unknown,0,2003,Dysentery
 Central Region,Unknown,0,2003,Dysentery
 Bangkok,Unknown,0,2003,Dysentery
-Zone 4,Unknown,0,2003,Dysentery
+Zone:4,Unknown,0,2003,Dysentery
 Ang Thong,Unknown,0,2003,Dysentery
 Nonthaburi,Unknown,0,2003,Dysentery
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Dysentery
 Pathum Thani,Unknown,0,2003,Dysentery
-Zone 5,Unknown,0,2003,Dysentery
+Zone:5,Unknown,0,2003,Dysentery
 Chai Nat,Unknown,0,2003,Dysentery
 Lop Buri,Unknown,0,2003,Dysentery
 Saraburi,Unknown,0,2003,Dysentery
 Sing Buri,Unknown,0,2003,Dysentery
-Zone 6,Unknown,0,2003,Dysentery
+Zone:6,Unknown,0,2003,Dysentery
 Kanchanaburi,Unknown,0,2003,Dysentery
 Nakhon Pathom,Unknown,0,2003,Dysentery
 Ratchaburi,Unknown,0,2003,Dysentery
 Suphan Buri,Unknown,0,2003,Dysentery
-Zone 7,Unknown,0,2003,Dysentery
+Zone:7,Unknown,0,2003,Dysentery
 Phetchaburi,Unknown,0,2003,Dysentery
 Prachuap Khiri Khan,Unknown,0,2003,Dysentery
 Samut Sakhon,Unknown,0,2003,Dysentery
 Samut Songkhram,Unknown,0,2003,Dysentery
-Zone 8,Unknown,0,2003,Dysentery
+Zone:8,Unknown,0,2003,Dysentery
 Chachoengsao,Unknown,0,2003,Dysentery
 Nakhon Nayok,Unknown,0,2003,Dysentery
 Prachin Buri,Unknown,0,2003,Dysentery
 Sa Kaeo,Unknown,0,2003,Dysentery
 Samut Prakan,Unknown,0,2003,Dysentery
-Zone 9,Unknown,0,2003,Dysentery
+Zone:9,Unknown,0,2003,Dysentery
 Chanthaburi,Unknown,0,2003,Dysentery
 Chon Buri,Unknown,0,2003,Dysentery
 Rayong,Unknown,0,2003,Dysentery
 Trat,Unknown,0,2003,Dysentery
 North-Eastern Region,Unknown,2,2003,Dysentery
-Zone 10,Unknown,2,2003,Dysentery
+Zone:10,Unknown,2,2003,Dysentery
 Loei,Unknown,0,2003,Dysentery
 Nong Bua Lam Phu,Unknown,0,2003,Dysentery
 Nong Khai,Unknown,0,2003,Dysentery
 Udon Thani,Unknown,2,2003,Dysentery
-Zone 11,Unknown,0,2003,Dysentery
+Zone:11,Unknown,0,2003,Dysentery
 Kalasin,Unknown,0,2003,Dysentery
 Mukdahan,Unknown,0,2003,Dysentery
 Nakhon Phanom,Unknown,0,2003,Dysentery
 Sakon Nakhon,Unknown,0,2003,Dysentery
-Zone 12,Unknown,0,2003,Dysentery
+Zone:12,Unknown,0,2003,Dysentery
 Khon Kaen,Unknown,0,2003,Dysentery
 Maha Sarakham,Unknown,0,2003,Dysentery
 Roi Et,Unknown,0,2003,Dysentery
-Zone 13,Unknown,0,2003,Dysentery
+Zone:13,Unknown,0,2003,Dysentery
 Buri Ram,Unknown,0,2003,Dysentery
 Chaiyaphum,Unknown,0,2003,Dysentery
 Nakhon Ratchasima,Unknown,0,2003,Dysentery
 Surin,Unknown,0,2003,Dysentery
-Zone 14,Unknown,0,2003,Dysentery
+Zone:14,Unknown,0,2003,Dysentery
 Amnat Charoen,Unknown,0,2003,Dysentery
 Si Sa Ket,Unknown,0,2003,Dysentery
 Ubon Ratchathani,Unknown,0,2003,Dysentery
 Yasothon,Unknown,0,2003,Dysentery
 South Region,Unknown,0,2003,Dysentery
-Zone 15,Unknown,0,2003,Dysentery
+Zone:15,Unknown,0,2003,Dysentery
 Chumphon,Unknown,0,2003,Dysentery
 Ranong,Unknown,0,2003,Dysentery
 Surat Thani,Unknown,0,2003,Dysentery
-Zone 16,Unknown,0,2003,Dysentery
+Zone:16,Unknown,0,2003,Dysentery
 Nakhon Si Thammarat,Unknown,0,2003,Dysentery
 Phatthalung,Unknown,0,2003,Dysentery
 Trang,Unknown,0,2003,Dysentery
-Zone 17,Unknown,0,2003,Dysentery
+Zone:17,Unknown,0,2003,Dysentery
 Krabi,Unknown,0,2003,Dysentery
 Phangnga,Unknown,0,2003,Dysentery
 Phuket,Unknown,0,2003,Dysentery
-Zone 18,Unknown,0,2003,Dysentery
+Zone:18,Unknown,0,2003,Dysentery
 Narathiwat,Unknown,0,2003,Dysentery
 Pattani,Unknown,0,2003,Dysentery
 Yala,Unknown,0,2003,Dysentery
-Zone 19,Unknown,0,2003,Dysentery
+Zone:19,Unknown,0,2003,Dysentery
 Satun,Unknown,0,2003,Dysentery
 Songkhla,Unknown,0,2003,Dysentery
 Total,Total,3241,2014,Dysentery

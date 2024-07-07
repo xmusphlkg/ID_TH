@@ -27541,7 +27541,7 @@ ZONE:13,Unknown,0,2017,TBpulmonary
 Bangkok,Unknown,0,2017,TBpulmonary
 Total,Total,31821,2004,TBpulmonary
 North Region,Total,5503,2004,TBpulmonary
-Zone 1,Total,3026,2004,TBpulmonary
+Zone:1,Total,3026,2004,TBpulmonary
 Chiang Mai,Total,426,2004,TBpulmonary
 Chiang Rai,Total,728,2004,TBpulmonary
 Lampang,Total,846,2004,TBpulmonary
@@ -27550,98 +27550,98 @@ Mae Hong Son,Total,159,2004,TBpulmonary
 Nan,Total,229,2004,TBpulmonary
 Phayao,Total,249,2004,TBpulmonary
 Phrae,Total,176,2004,TBpulmonary
-Zone 2,Total,1116,2004,TBpulmonary
+Zone:2,Total,1116,2004,TBpulmonary
 Phetchabun,Total,316,2004,TBpulmonary
 Phitsanulok,Total,174,2004,TBpulmonary
 Sukhothai,Total,259,2004,TBpulmonary
 Tak,Total,211,2004,TBpulmonary
 Uttaradit,Total,156,2004,TBpulmonary
-Zone 3,Total,1361,2004,TBpulmonary
+Zone:3,Total,1361,2004,TBpulmonary
 Kamphaeng Phet,Total,410,2004,TBpulmonary
 Nakhon Sawan,Total,477,2004,TBpulmonary
 Phichit,Total,297,2004,TBpulmonary
 Uthai Thani,Total,177,2004,TBpulmonary
 Central Region,Total,11744,2004,TBpulmonary
 Bangkok,Total,4145,2004,TBpulmonary
-Zone 4,Total,907,2004,TBpulmonary
+Zone:4,Total,907,2004,TBpulmonary
 Ang Thong,Total,74,2004,TBpulmonary
 Nonthaburi,Total,422,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,Total,213,2004,TBpulmonary
 Pathum Thani,Total,198,2004,TBpulmonary
-Zone 5,Total,947,2004,TBpulmonary
+Zone:5,Total,947,2004,TBpulmonary
 Chai Nat,Total,150,2004,TBpulmonary
 Lop Buri,Total,278,2004,TBpulmonary
 Saraburi,Total,402,2004,TBpulmonary
 Sing Buri,Total,117,2004,TBpulmonary
-Zone 6,Total,1462,2004,TBpulmonary
+Zone:6,Total,1462,2004,TBpulmonary
 Kanchanaburi,Total,329,2004,TBpulmonary
 Nakhon Pathom,Total,344,2004,TBpulmonary
 Ratchaburi,Total,468,2004,TBpulmonary
 Suphan Buri,Total,321,2004,TBpulmonary
-Zone 7,Total,1175,2004,TBpulmonary
+Zone:7,Total,1175,2004,TBpulmonary
 Phetchaburi,Total,360,2004,TBpulmonary
 Prachuap Khiri Khan,Total,266,2004,TBpulmonary
 Samut Sakhon,Total,370,2004,TBpulmonary
 Samut Songkhram,Total,179,2004,TBpulmonary
-Zone 8,Total,1676,2004,TBpulmonary
+Zone:8,Total,1676,2004,TBpulmonary
 Chachoengsao,Total,327,2004,TBpulmonary
 Nakhon Nayok,Total,78,2004,TBpulmonary
 Prachin Buri,Total,394,2004,TBpulmonary
 Sa Kaeo,Total,348,2004,TBpulmonary
 Samut Prakan,Total,529,2004,TBpulmonary
-Zone 9,Total,1432,2004,TBpulmonary
+Zone:9,Total,1432,2004,TBpulmonary
 Chanthaburi,Total,405,2004,TBpulmonary
 Chon Buri,Total,523,2004,TBpulmonary
 Rayong,Total,365,2004,TBpulmonary
 Trat,Total,139,2004,TBpulmonary
 North-Eastern Region,Total,10324,2004,TBpulmonary
-Zone 10,Total,1431,2004,TBpulmonary
+Zone:10,Total,1431,2004,TBpulmonary
 Loei,Total,143,2004,TBpulmonary
 Nong Bua Lam Phu,Total,369,2004,TBpulmonary
 Nong Khai,Total,212,2004,TBpulmonary
 Udon Thani,Total,707,2004,TBpulmonary
-Zone 11,Total,1389,2004,TBpulmonary
+Zone:11,Total,1389,2004,TBpulmonary
 Kalasin,Total,588,2004,TBpulmonary
 Mukdahan,Total,150,2004,TBpulmonary
 Nakhon Phanom,Total,216,2004,TBpulmonary
 Sakon Nakhon,Total,435,2004,TBpulmonary
-Zone 12,Total,1325,2004,TBpulmonary
+Zone:12,Total,1325,2004,TBpulmonary
 Khon Kaen,Total,584,2004,TBpulmonary
 Maha Sarakham,Total,214,2004,TBpulmonary
 Roi Et,Total,527,2004,TBpulmonary
-Zone 13,Total,3054,2004,TBpulmonary
+Zone:13,Total,3054,2004,TBpulmonary
 Buri Ram,Total,574,2004,TBpulmonary
 Chaiyaphum,Total,343,2004,TBpulmonary
 Nakhon Ratchasima,Total,1259,2004,TBpulmonary
 Surin,Total,878,2004,TBpulmonary
-Zone 14,Total,3125,2004,TBpulmonary
+Zone:14,Total,3125,2004,TBpulmonary
 Amnat Charoen,Total,423,2004,TBpulmonary
 Si Sa Ket,Total,1942,2004,TBpulmonary
 Ubon Ratchathani,Total,539,2004,TBpulmonary
 Yasothon,Total,221,2004,TBpulmonary
 South Region,Total,4250,2004,TBpulmonary
-Zone 15,Total,849,2004,TBpulmonary
+Zone:15,Total,849,2004,TBpulmonary
 Chumphon,Total,287,2004,TBpulmonary
 Ranong,Total,116,2004,TBpulmonary
 Surat Thani,Total,446,2004,TBpulmonary
-Zone 16,Total,1236,2004,TBpulmonary
+Zone:16,Total,1236,2004,TBpulmonary
 Nakhon Si Thammarat,Total,831,2004,TBpulmonary
 Phatthalung,Total,195,2004,TBpulmonary
 Trang,Total,210,2004,TBpulmonary
-Zone 17,Total,304,2004,TBpulmonary
+Zone:17,Total,304,2004,TBpulmonary
 Krabi,Total,102,2004,TBpulmonary
 Phangnga,Total,40,2004,TBpulmonary
 Phuket,Total,162,2004,TBpulmonary
-Zone 18,Total,1082,2004,TBpulmonary
+Zone:18,Total,1082,2004,TBpulmonary
 Narathiwat,Total,428,2004,TBpulmonary
 Pattani,Total,422,2004,TBpulmonary
 Yala,Total,232,2004,TBpulmonary
-Zone 19,Total,779,2004,TBpulmonary
+Zone:19,Total,779,2004,TBpulmonary
 Satun,Total,198,2004,TBpulmonary
 Songkhla,Total,581,2004,TBpulmonary
 Total,0,6,2004,TBpulmonary
 North Region,0,0,2004,TBpulmonary
-Zone 1,0,0,2004,TBpulmonary
+Zone:1,0,0,2004,TBpulmonary
 Chiang Mai,0,0,2004,TBpulmonary
 Chiang Rai,0,0,2004,TBpulmonary
 Lampang,0,0,2004,TBpulmonary
@@ -27650,98 +27650,98 @@ Mae Hong Son,0,0,2004,TBpulmonary
 Nan,0,0,2004,TBpulmonary
 Phayao,0,0,2004,TBpulmonary
 Phrae,0,0,2004,TBpulmonary
-Zone 2,0,0,2004,TBpulmonary
+Zone:2,0,0,2004,TBpulmonary
 Phetchabun,0,0,2004,TBpulmonary
 Phitsanulok,0,0,2004,TBpulmonary
 Sukhothai,0,0,2004,TBpulmonary
 Tak,0,0,2004,TBpulmonary
 Uttaradit,0,0,2004,TBpulmonary
-Zone 3,0,0,2004,TBpulmonary
+Zone:3,0,0,2004,TBpulmonary
 Kamphaeng Phet,0,0,2004,TBpulmonary
 Nakhon Sawan,0,0,2004,TBpulmonary
 Phichit,0,0,2004,TBpulmonary
 Uthai Thani,0,0,2004,TBpulmonary
 Central Region,0,1,2004,TBpulmonary
 Bangkok,0,0,2004,TBpulmonary
-Zone 4,0,1,2004,TBpulmonary
+Zone:4,0,1,2004,TBpulmonary
 Ang Thong,0,0,2004,TBpulmonary
 Nonthaburi,0,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,0,1,2004,TBpulmonary
 Pathum Thani,0,0,2004,TBpulmonary
-Zone 5,0,0,2004,TBpulmonary
+Zone:5,0,0,2004,TBpulmonary
 Chai Nat,0,0,2004,TBpulmonary
 Lop Buri,0,0,2004,TBpulmonary
 Saraburi,0,0,2004,TBpulmonary
 Sing Buri,0,0,2004,TBpulmonary
-Zone 6,0,0,2004,TBpulmonary
+Zone:6,0,0,2004,TBpulmonary
 Kanchanaburi,0,0,2004,TBpulmonary
 Nakhon Pathom,0,0,2004,TBpulmonary
 Ratchaburi,0,0,2004,TBpulmonary
 Suphan Buri,0,0,2004,TBpulmonary
-Zone 7,0,0,2004,TBpulmonary
+Zone:7,0,0,2004,TBpulmonary
 Phetchaburi,0,0,2004,TBpulmonary
 Prachuap Khiri Khan,0,0,2004,TBpulmonary
 Samut Sakhon,0,0,2004,TBpulmonary
 Samut Songkhram,0,0,2004,TBpulmonary
-Zone 8,0,0,2004,TBpulmonary
+Zone:8,0,0,2004,TBpulmonary
 Chachoengsao,0,0,2004,TBpulmonary
 Nakhon Nayok,0,0,2004,TBpulmonary
 Prachin Buri,0,0,2004,TBpulmonary
 Sa Kaeo,0,0,2004,TBpulmonary
 Samut Prakan,0,0,2004,TBpulmonary
-Zone 9,0,0,2004,TBpulmonary
+Zone:9,0,0,2004,TBpulmonary
 Chanthaburi,0,0,2004,TBpulmonary
 Chon Buri,0,0,2004,TBpulmonary
 Rayong,0,0,2004,TBpulmonary
 Trat,0,0,2004,TBpulmonary
 North-Eastern Region,0,4,2004,TBpulmonary
-Zone 10,0,2,2004,TBpulmonary
+Zone:10,0,2,2004,TBpulmonary
 Loei,0,1,2004,TBpulmonary
 Nong Bua Lam Phu,0,0,2004,TBpulmonary
 Nong Khai,0,0,2004,TBpulmonary
 Udon Thani,0,1,2004,TBpulmonary
-Zone 11,0,0,2004,TBpulmonary
+Zone:11,0,0,2004,TBpulmonary
 Kalasin,0,0,2004,TBpulmonary
 Mukdahan,0,0,2004,TBpulmonary
 Nakhon Phanom,0,0,2004,TBpulmonary
 Sakon Nakhon,0,0,2004,TBpulmonary
-Zone 12,0,0,2004,TBpulmonary
+Zone:12,0,0,2004,TBpulmonary
 Khon Kaen,0,0,2004,TBpulmonary
 Maha Sarakham,0,0,2004,TBpulmonary
 Roi Et,0,0,2004,TBpulmonary
-Zone 13,0,0,2004,TBpulmonary
+Zone:13,0,0,2004,TBpulmonary
 Buri Ram,0,0,2004,TBpulmonary
 Chaiyaphum,0,0,2004,TBpulmonary
 Nakhon Ratchasima,0,0,2004,TBpulmonary
 Surin,0,0,2004,TBpulmonary
-Zone 14,0,2,2004,TBpulmonary
+Zone:14,0,2,2004,TBpulmonary
 Amnat Charoen,0,2,2004,TBpulmonary
 Si Sa Ket,0,0,2004,TBpulmonary
 Ubon Ratchathani,0,0,2004,TBpulmonary
 Yasothon,0,0,2004,TBpulmonary
 South Region,0,1,2004,TBpulmonary
-Zone 15,0,0,2004,TBpulmonary
+Zone:15,0,0,2004,TBpulmonary
 Chumphon,0,0,2004,TBpulmonary
 Ranong,0,0,2004,TBpulmonary
 Surat Thani,0,0,2004,TBpulmonary
-Zone 16,0,0,2004,TBpulmonary
+Zone:16,0,0,2004,TBpulmonary
 Nakhon Si Thammarat,0,0,2004,TBpulmonary
 Phatthalung,0,0,2004,TBpulmonary
 Trang,0,0,2004,TBpulmonary
-Zone 17,0,1,2004,TBpulmonary
+Zone:17,0,1,2004,TBpulmonary
 Krabi,0,0,2004,TBpulmonary
 Phangnga,0,1,2004,TBpulmonary
 Phuket,0,0,2004,TBpulmonary
-Zone 18,0,0,2004,TBpulmonary
+Zone:18,0,0,2004,TBpulmonary
 Narathiwat,0,0,2004,TBpulmonary
 Pattani,0,0,2004,TBpulmonary
 Yala,0,0,2004,TBpulmonary
-Zone 19,0,0,2004,TBpulmonary
+Zone:19,0,0,2004,TBpulmonary
 Satun,0,0,2004,TBpulmonary
 Songkhla,0,0,2004,TBpulmonary
 Total,<1,62,2004,TBpulmonary
 North Region,<1,13,2004,TBpulmonary
-Zone 1,<1,8,2004,TBpulmonary
+Zone:1,<1,8,2004,TBpulmonary
 Chiang Mai,<1,1,2004,TBpulmonary
 Chiang Rai,<1,3,2004,TBpulmonary
 Lampang,<1,1,2004,TBpulmonary
@@ -27750,98 +27750,98 @@ Mae Hong Son,<1,2,2004,TBpulmonary
 Nan,<1,1,2004,TBpulmonary
 Phayao,<1,0,2004,TBpulmonary
 Phrae,<1,0,2004,TBpulmonary
-Zone 2,<1,0,2004,TBpulmonary
+Zone:2,<1,0,2004,TBpulmonary
 Phetchabun,<1,0,2004,TBpulmonary
 Phitsanulok,<1,0,2004,TBpulmonary
 Sukhothai,<1,0,2004,TBpulmonary
 Tak,<1,0,2004,TBpulmonary
 Uttaradit,<1,0,2004,TBpulmonary
-Zone 3,<1,5,2004,TBpulmonary
+Zone:3,<1,5,2004,TBpulmonary
 Kamphaeng Phet,<1,1,2004,TBpulmonary
 Nakhon Sawan,<1,4,2004,TBpulmonary
 Phichit,<1,0,2004,TBpulmonary
 Uthai Thani,<1,0,2004,TBpulmonary
 Central Region,<1,21,2004,TBpulmonary
 Bangkok,<1,1,2004,TBpulmonary
-Zone 4,<1,10,2004,TBpulmonary
+Zone:4,<1,10,2004,TBpulmonary
 Ang Thong,<1,0,2004,TBpulmonary
 Nonthaburi,<1,1,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,<1,7,2004,TBpulmonary
 Pathum Thani,<1,2,2004,TBpulmonary
-Zone 5,<1,2,2004,TBpulmonary
+Zone:5,<1,2,2004,TBpulmonary
 Chai Nat,<1,1,2004,TBpulmonary
 Lop Buri,<1,0,2004,TBpulmonary
 Saraburi,<1,1,2004,TBpulmonary
 Sing Buri,<1,0,2004,TBpulmonary
-Zone 6,<1,1,2004,TBpulmonary
+Zone:6,<1,1,2004,TBpulmonary
 Kanchanaburi,<1,1,2004,TBpulmonary
 Nakhon Pathom,<1,0,2004,TBpulmonary
 Ratchaburi,<1,0,2004,TBpulmonary
 Suphan Buri,<1,0,2004,TBpulmonary
-Zone 7,<1,0,2004,TBpulmonary
+Zone:7,<1,0,2004,TBpulmonary
 Phetchaburi,<1,0,2004,TBpulmonary
 Prachuap Khiri Khan,<1,0,2004,TBpulmonary
 Samut Sakhon,<1,0,2004,TBpulmonary
 Samut Songkhram,<1,0,2004,TBpulmonary
-Zone 8,<1,2,2004,TBpulmonary
+Zone:8,<1,2,2004,TBpulmonary
 Chachoengsao,<1,0,2004,TBpulmonary
 Nakhon Nayok,<1,0,2004,TBpulmonary
 Prachin Buri,<1,0,2004,TBpulmonary
 Sa Kaeo,<1,0,2004,TBpulmonary
 Samut Prakan,<1,2,2004,TBpulmonary
-Zone 9,<1,5,2004,TBpulmonary
+Zone:9,<1,5,2004,TBpulmonary
 Chanthaburi,<1,1,2004,TBpulmonary
 Chon Buri,<1,4,2004,TBpulmonary
 Rayong,<1,0,2004,TBpulmonary
 Trat,<1,0,2004,TBpulmonary
 North-Eastern Region,<1,18,2004,TBpulmonary
-Zone 10,<1,4,2004,TBpulmonary
+Zone:10,<1,4,2004,TBpulmonary
 Loei,<1,0,2004,TBpulmonary
 Nong Bua Lam Phu,<1,2,2004,TBpulmonary
 Nong Khai,<1,1,2004,TBpulmonary
 Udon Thani,<1,1,2004,TBpulmonary
-Zone 11,<1,2,2004,TBpulmonary
+Zone:11,<1,2,2004,TBpulmonary
 Kalasin,<1,1,2004,TBpulmonary
 Mukdahan,<1,0,2004,TBpulmonary
 Nakhon Phanom,<1,1,2004,TBpulmonary
 Sakon Nakhon,<1,0,2004,TBpulmonary
-Zone 12,<1,1,2004,TBpulmonary
+Zone:12,<1,1,2004,TBpulmonary
 Khon Kaen,<1,0,2004,TBpulmonary
 Maha Sarakham,<1,1,2004,TBpulmonary
 Roi Et,<1,0,2004,TBpulmonary
-Zone 13,<1,3,2004,TBpulmonary
+Zone:13,<1,3,2004,TBpulmonary
 Buri Ram,<1,0,2004,TBpulmonary
 Chaiyaphum,<1,2,2004,TBpulmonary
 Nakhon Ratchasima,<1,0,2004,TBpulmonary
 Surin,<1,1,2004,TBpulmonary
-Zone 14,<1,8,2004,TBpulmonary
+Zone:14,<1,8,2004,TBpulmonary
 Amnat Charoen,<1,3,2004,TBpulmonary
 Si Sa Ket,<1,5,2004,TBpulmonary
 Ubon Ratchathani,<1,0,2004,TBpulmonary
 Yasothon,<1,0,2004,TBpulmonary
 South Region,<1,10,2004,TBpulmonary
-Zone 15,<1,2,2004,TBpulmonary
+Zone:15,<1,2,2004,TBpulmonary
 Chumphon,<1,2,2004,TBpulmonary
 Ranong,<1,0,2004,TBpulmonary
 Surat Thani,<1,0,2004,TBpulmonary
-Zone 16,<1,1,2004,TBpulmonary
+Zone:16,<1,1,2004,TBpulmonary
 Nakhon Si Thammarat,<1,1,2004,TBpulmonary
 Phatthalung,<1,0,2004,TBpulmonary
 Trang,<1,0,2004,TBpulmonary
-Zone 17,<1,0,2004,TBpulmonary
+Zone:17,<1,0,2004,TBpulmonary
 Krabi,<1,0,2004,TBpulmonary
 Phangnga,<1,0,2004,TBpulmonary
 Phuket,<1,0,2004,TBpulmonary
-Zone 18,<1,4,2004,TBpulmonary
+Zone:18,<1,4,2004,TBpulmonary
 Narathiwat,<1,1,2004,TBpulmonary
 Pattani,<1,1,2004,TBpulmonary
 Yala,<1,2,2004,TBpulmonary
-Zone 19,<1,3,2004,TBpulmonary
+Zone:19,<1,3,2004,TBpulmonary
 Satun,<1,0,2004,TBpulmonary
 Songkhla,<1,3,2004,TBpulmonary
 Total,1-1,72,2004,TBpulmonary
 North Region,1-1,14,2004,TBpulmonary
-Zone 1,1-1,8,2004,TBpulmonary
+Zone:1,1-1,8,2004,TBpulmonary
 Chiang Mai,1-1,2,2004,TBpulmonary
 Chiang Rai,1-1,2,2004,TBpulmonary
 Lampang,1-1,1,2004,TBpulmonary
@@ -27850,98 +27850,98 @@ Mae Hong Son,1-1,2,2004,TBpulmonary
 Nan,1-1,0,2004,TBpulmonary
 Phayao,1-1,0,2004,TBpulmonary
 Phrae,1-1,1,2004,TBpulmonary
-Zone 2,1-1,5,2004,TBpulmonary
+Zone:2,1-1,5,2004,TBpulmonary
 Phetchabun,1-1,3,2004,TBpulmonary
 Phitsanulok,1-1,0,2004,TBpulmonary
 Sukhothai,1-1,0,2004,TBpulmonary
 Tak,1-1,1,2004,TBpulmonary
 Uttaradit,1-1,1,2004,TBpulmonary
-Zone 3,1-1,1,2004,TBpulmonary
+Zone:3,1-1,1,2004,TBpulmonary
 Kamphaeng Phet,1-1,0,2004,TBpulmonary
 Nakhon Sawan,1-1,1,2004,TBpulmonary
 Phichit,1-1,0,2004,TBpulmonary
 Uthai Thani,1-1,0,2004,TBpulmonary
 Central Region,1-1,23,2004,TBpulmonary
 Bangkok,1-1,2,2004,TBpulmonary
-Zone 4,1-1,1,2004,TBpulmonary
+Zone:4,1-1,1,2004,TBpulmonary
 Ang Thong,1-1,0,2004,TBpulmonary
 Nonthaburi,1-1,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,1-1,1,2004,TBpulmonary
 Pathum Thani,1-1,0,2004,TBpulmonary
-Zone 5,1-1,2,2004,TBpulmonary
+Zone:5,1-1,2,2004,TBpulmonary
 Chai Nat,1-1,0,2004,TBpulmonary
 Lop Buri,1-1,0,2004,TBpulmonary
 Saraburi,1-1,1,2004,TBpulmonary
 Sing Buri,1-1,1,2004,TBpulmonary
-Zone 6,1-1,5,2004,TBpulmonary
+Zone:6,1-1,5,2004,TBpulmonary
 Kanchanaburi,1-1,1,2004,TBpulmonary
 Nakhon Pathom,1-1,1,2004,TBpulmonary
 Ratchaburi,1-1,1,2004,TBpulmonary
 Suphan Buri,1-1,2,2004,TBpulmonary
-Zone 7,1-1,0,2004,TBpulmonary
+Zone:7,1-1,0,2004,TBpulmonary
 Phetchaburi,1-1,0,2004,TBpulmonary
 Prachuap Khiri Khan,1-1,0,2004,TBpulmonary
 Samut Sakhon,1-1,0,2004,TBpulmonary
 Samut Songkhram,1-1,0,2004,TBpulmonary
-Zone 8,1-1,8,2004,TBpulmonary
+Zone:8,1-1,8,2004,TBpulmonary
 Chachoengsao,1-1,0,2004,TBpulmonary
 Nakhon Nayok,1-1,1,2004,TBpulmonary
 Prachin Buri,1-1,0,2004,TBpulmonary
 Sa Kaeo,1-1,1,2004,TBpulmonary
 Samut Prakan,1-1,6,2004,TBpulmonary
-Zone 9,1-1,5,2004,TBpulmonary
+Zone:9,1-1,5,2004,TBpulmonary
 Chanthaburi,1-1,0,2004,TBpulmonary
 Chon Buri,1-1,1,2004,TBpulmonary
 Rayong,1-1,4,2004,TBpulmonary
 Trat,1-1,0,2004,TBpulmonary
 North-Eastern Region,1-1,24,2004,TBpulmonary
-Zone 10,1-1,4,2004,TBpulmonary
+Zone:10,1-1,4,2004,TBpulmonary
 Loei,1-1,0,2004,TBpulmonary
 Nong Bua Lam Phu,1-1,0,2004,TBpulmonary
 Nong Khai,1-1,1,2004,TBpulmonary
 Udon Thani,1-1,3,2004,TBpulmonary
-Zone 11,1-1,2,2004,TBpulmonary
+Zone:11,1-1,2,2004,TBpulmonary
 Kalasin,1-1,2,2004,TBpulmonary
 Mukdahan,1-1,0,2004,TBpulmonary
 Nakhon Phanom,1-1,0,2004,TBpulmonary
 Sakon Nakhon,1-1,0,2004,TBpulmonary
-Zone 12,1-1,3,2004,TBpulmonary
+Zone:12,1-1,3,2004,TBpulmonary
 Khon Kaen,1-1,1,2004,TBpulmonary
 Maha Sarakham,1-1,1,2004,TBpulmonary
 Roi Et,1-1,1,2004,TBpulmonary
-Zone 13,1-1,3,2004,TBpulmonary
+Zone:13,1-1,3,2004,TBpulmonary
 Buri Ram,1-1,1,2004,TBpulmonary
 Chaiyaphum,1-1,0,2004,TBpulmonary
 Nakhon Ratchasima,1-1,1,2004,TBpulmonary
 Surin,1-1,1,2004,TBpulmonary
-Zone 14,1-1,12,2004,TBpulmonary
+Zone:14,1-1,12,2004,TBpulmonary
 Amnat Charoen,1-1,0,2004,TBpulmonary
 Si Sa Ket,1-1,11,2004,TBpulmonary
 Ubon Ratchathani,1-1,1,2004,TBpulmonary
 Yasothon,1-1,0,2004,TBpulmonary
 South Region,1-1,11,2004,TBpulmonary
-Zone 15,1-1,1,2004,TBpulmonary
+Zone:15,1-1,1,2004,TBpulmonary
 Chumphon,1-1,1,2004,TBpulmonary
 Ranong,1-1,0,2004,TBpulmonary
 Surat Thani,1-1,0,2004,TBpulmonary
-Zone 16,1-1,2,2004,TBpulmonary
+Zone:16,1-1,2,2004,TBpulmonary
 Nakhon Si Thammarat,1-1,0,2004,TBpulmonary
 Phatthalung,1-1,1,2004,TBpulmonary
 Trang,1-1,1,2004,TBpulmonary
-Zone 17,1-1,1,2004,TBpulmonary
+Zone:17,1-1,1,2004,TBpulmonary
 Krabi,1-1,1,2004,TBpulmonary
 Phangnga,1-1,0,2004,TBpulmonary
 Phuket,1-1,0,2004,TBpulmonary
-Zone 18,1-1,2,2004,TBpulmonary
+Zone:18,1-1,2,2004,TBpulmonary
 Narathiwat,1-1,1,2004,TBpulmonary
 Pattani,1-1,1,2004,TBpulmonary
 Yala,1-1,0,2004,TBpulmonary
-Zone 19,1-1,5,2004,TBpulmonary
+Zone:19,1-1,5,2004,TBpulmonary
 Satun,1-1,0,2004,TBpulmonary
 Songkhla,1-1,5,2004,TBpulmonary
 Total,2-2,37,2004,TBpulmonary
 North Region,2-2,10,2004,TBpulmonary
-Zone 1,2-2,8,2004,TBpulmonary
+Zone:1,2-2,8,2004,TBpulmonary
 Chiang Mai,2-2,1,2004,TBpulmonary
 Chiang Rai,2-2,5,2004,TBpulmonary
 Lampang,2-2,0,2004,TBpulmonary
@@ -27950,98 +27950,98 @@ Mae Hong Son,2-2,1,2004,TBpulmonary
 Nan,2-2,0,2004,TBpulmonary
 Phayao,2-2,1,2004,TBpulmonary
 Phrae,2-2,0,2004,TBpulmonary
-Zone 2,2-2,2,2004,TBpulmonary
+Zone:2,2-2,2,2004,TBpulmonary
 Phetchabun,2-2,0,2004,TBpulmonary
 Phitsanulok,2-2,0,2004,TBpulmonary
 Sukhothai,2-2,0,2004,TBpulmonary
 Tak,2-2,2,2004,TBpulmonary
 Uttaradit,2-2,0,2004,TBpulmonary
-Zone 3,2-2,0,2004,TBpulmonary
+Zone:3,2-2,0,2004,TBpulmonary
 Kamphaeng Phet,2-2,0,2004,TBpulmonary
 Nakhon Sawan,2-2,0,2004,TBpulmonary
 Phichit,2-2,0,2004,TBpulmonary
 Uthai Thani,2-2,0,2004,TBpulmonary
 Central Region,2-2,10,2004,TBpulmonary
 Bangkok,2-2,1,2004,TBpulmonary
-Zone 4,2-2,2,2004,TBpulmonary
+Zone:4,2-2,2,2004,TBpulmonary
 Ang Thong,2-2,0,2004,TBpulmonary
 Nonthaburi,2-2,2,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,2-2,0,2004,TBpulmonary
 Pathum Thani,2-2,0,2004,TBpulmonary
-Zone 5,2-2,2,2004,TBpulmonary
+Zone:5,2-2,2,2004,TBpulmonary
 Chai Nat,2-2,0,2004,TBpulmonary
 Lop Buri,2-2,0,2004,TBpulmonary
 Saraburi,2-2,2,2004,TBpulmonary
 Sing Buri,2-2,0,2004,TBpulmonary
-Zone 6,2-2,0,2004,TBpulmonary
+Zone:6,2-2,0,2004,TBpulmonary
 Kanchanaburi,2-2,0,2004,TBpulmonary
 Nakhon Pathom,2-2,0,2004,TBpulmonary
 Ratchaburi,2-2,0,2004,TBpulmonary
 Suphan Buri,2-2,0,2004,TBpulmonary
-Zone 7,2-2,1,2004,TBpulmonary
+Zone:7,2-2,1,2004,TBpulmonary
 Phetchaburi,2-2,1,2004,TBpulmonary
 Prachuap Khiri Khan,2-2,0,2004,TBpulmonary
 Samut Sakhon,2-2,0,2004,TBpulmonary
 Samut Songkhram,2-2,0,2004,TBpulmonary
-Zone 8,2-2,3,2004,TBpulmonary
+Zone:8,2-2,3,2004,TBpulmonary
 Chachoengsao,2-2,0,2004,TBpulmonary
 Nakhon Nayok,2-2,0,2004,TBpulmonary
 Prachin Buri,2-2,0,2004,TBpulmonary
 Sa Kaeo,2-2,0,2004,TBpulmonary
 Samut Prakan,2-2,3,2004,TBpulmonary
-Zone 9,2-2,1,2004,TBpulmonary
+Zone:9,2-2,1,2004,TBpulmonary
 Chanthaburi,2-2,0,2004,TBpulmonary
 Chon Buri,2-2,0,2004,TBpulmonary
 Rayong,2-2,1,2004,TBpulmonary
 Trat,2-2,0,2004,TBpulmonary
 North-Eastern Region,2-2,16,2004,TBpulmonary
-Zone 10,2-2,0,2004,TBpulmonary
+Zone:10,2-2,0,2004,TBpulmonary
 Loei,2-2,0,2004,TBpulmonary
 Nong Bua Lam Phu,2-2,0,2004,TBpulmonary
 Nong Khai,2-2,0,2004,TBpulmonary
 Udon Thani,2-2,0,2004,TBpulmonary
-Zone 11,2-2,1,2004,TBpulmonary
+Zone:11,2-2,1,2004,TBpulmonary
 Kalasin,2-2,1,2004,TBpulmonary
 Mukdahan,2-2,0,2004,TBpulmonary
 Nakhon Phanom,2-2,0,2004,TBpulmonary
 Sakon Nakhon,2-2,0,2004,TBpulmonary
-Zone 12,2-2,2,2004,TBpulmonary
+Zone:12,2-2,2,2004,TBpulmonary
 Khon Kaen,2-2,1,2004,TBpulmonary
 Maha Sarakham,2-2,1,2004,TBpulmonary
 Roi Et,2-2,0,2004,TBpulmonary
-Zone 13,2-2,6,2004,TBpulmonary
+Zone:13,2-2,6,2004,TBpulmonary
 Buri Ram,2-2,2,2004,TBpulmonary
 Chaiyaphum,2-2,0,2004,TBpulmonary
 Nakhon Ratchasima,2-2,1,2004,TBpulmonary
 Surin,2-2,3,2004,TBpulmonary
-Zone 14,2-2,7,2004,TBpulmonary
+Zone:14,2-2,7,2004,TBpulmonary
 Amnat Charoen,2-2,1,2004,TBpulmonary
 Si Sa Ket,2-2,6,2004,TBpulmonary
 Ubon Ratchathani,2-2,0,2004,TBpulmonary
 Yasothon,2-2,0,2004,TBpulmonary
 South Region,2-2,1,2004,TBpulmonary
-Zone 15,2-2,0,2004,TBpulmonary
+Zone:15,2-2,0,2004,TBpulmonary
 Chumphon,2-2,0,2004,TBpulmonary
 Ranong,2-2,0,2004,TBpulmonary
 Surat Thani,2-2,0,2004,TBpulmonary
-Zone 16,2-2,0,2004,TBpulmonary
+Zone:16,2-2,0,2004,TBpulmonary
 Nakhon Si Thammarat,2-2,0,2004,TBpulmonary
 Phatthalung,2-2,0,2004,TBpulmonary
 Trang,2-2,0,2004,TBpulmonary
-Zone 17,2-2,0,2004,TBpulmonary
+Zone:17,2-2,0,2004,TBpulmonary
 Krabi,2-2,0,2004,TBpulmonary
 Phangnga,2-2,0,2004,TBpulmonary
 Phuket,2-2,0,2004,TBpulmonary
-Zone 18,2-2,1,2004,TBpulmonary
+Zone:18,2-2,1,2004,TBpulmonary
 Narathiwat,2-2,0,2004,TBpulmonary
 Pattani,2-2,1,2004,TBpulmonary
 Yala,2-2,0,2004,TBpulmonary
-Zone 19,2-2,0,2004,TBpulmonary
+Zone:19,2-2,0,2004,TBpulmonary
 Satun,2-2,0,2004,TBpulmonary
 Songkhla,2-2,0,2004,TBpulmonary
 Total,3-3,38,2004,TBpulmonary
 North Region,3-3,6,2004,TBpulmonary
-Zone 1,3-3,4,2004,TBpulmonary
+Zone:1,3-3,4,2004,TBpulmonary
 Chiang Mai,3-3,0,2004,TBpulmonary
 Chiang Rai,3-3,2,2004,TBpulmonary
 Lampang,3-3,0,2004,TBpulmonary
@@ -28050,98 +28050,98 @@ Mae Hong Son,3-3,2,2004,TBpulmonary
 Nan,3-3,0,2004,TBpulmonary
 Phayao,3-3,0,2004,TBpulmonary
 Phrae,3-3,0,2004,TBpulmonary
-Zone 2,3-3,2,2004,TBpulmonary
+Zone:2,3-3,2,2004,TBpulmonary
 Phetchabun,3-3,0,2004,TBpulmonary
 Phitsanulok,3-3,1,2004,TBpulmonary
 Sukhothai,3-3,1,2004,TBpulmonary
 Tak,3-3,0,2004,TBpulmonary
 Uttaradit,3-3,0,2004,TBpulmonary
-Zone 3,3-3,0,2004,TBpulmonary
+Zone:3,3-3,0,2004,TBpulmonary
 Kamphaeng Phet,3-3,0,2004,TBpulmonary
 Nakhon Sawan,3-3,0,2004,TBpulmonary
 Phichit,3-3,0,2004,TBpulmonary
 Uthai Thani,3-3,0,2004,TBpulmonary
 Central Region,3-3,11,2004,TBpulmonary
 Bangkok,3-3,3,2004,TBpulmonary
-Zone 4,3-3,0,2004,TBpulmonary
+Zone:4,3-3,0,2004,TBpulmonary
 Ang Thong,3-3,0,2004,TBpulmonary
 Nonthaburi,3-3,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,3-3,0,2004,TBpulmonary
 Pathum Thani,3-3,0,2004,TBpulmonary
-Zone 5,3-3,1,2004,TBpulmonary
+Zone:5,3-3,1,2004,TBpulmonary
 Chai Nat,3-3,0,2004,TBpulmonary
 Lop Buri,3-3,0,2004,TBpulmonary
 Saraburi,3-3,1,2004,TBpulmonary
 Sing Buri,3-3,0,2004,TBpulmonary
-Zone 6,3-3,3,2004,TBpulmonary
+Zone:6,3-3,3,2004,TBpulmonary
 Kanchanaburi,3-3,2,2004,TBpulmonary
 Nakhon Pathom,3-3,0,2004,TBpulmonary
 Ratchaburi,3-3,0,2004,TBpulmonary
 Suphan Buri,3-3,1,2004,TBpulmonary
-Zone 7,3-3,0,2004,TBpulmonary
+Zone:7,3-3,0,2004,TBpulmonary
 Phetchaburi,3-3,0,2004,TBpulmonary
 Prachuap Khiri Khan,3-3,0,2004,TBpulmonary
 Samut Sakhon,3-3,0,2004,TBpulmonary
 Samut Songkhram,3-3,0,2004,TBpulmonary
-Zone 8,3-3,2,2004,TBpulmonary
+Zone:8,3-3,2,2004,TBpulmonary
 Chachoengsao,3-3,0,2004,TBpulmonary
 Nakhon Nayok,3-3,0,2004,TBpulmonary
 Prachin Buri,3-3,1,2004,TBpulmonary
 Sa Kaeo,3-3,0,2004,TBpulmonary
 Samut Prakan,3-3,1,2004,TBpulmonary
-Zone 9,3-3,2,2004,TBpulmonary
+Zone:9,3-3,2,2004,TBpulmonary
 Chanthaburi,3-3,2,2004,TBpulmonary
 Chon Buri,3-3,0,2004,TBpulmonary
 Rayong,3-3,0,2004,TBpulmonary
 Trat,3-3,0,2004,TBpulmonary
 North-Eastern Region,3-3,11,2004,TBpulmonary
-Zone 10,3-3,2,2004,TBpulmonary
+Zone:10,3-3,2,2004,TBpulmonary
 Loei,3-3,0,2004,TBpulmonary
 Nong Bua Lam Phu,3-3,1,2004,TBpulmonary
 Nong Khai,3-3,0,2004,TBpulmonary
 Udon Thani,3-3,1,2004,TBpulmonary
-Zone 11,3-3,1,2004,TBpulmonary
+Zone:11,3-3,1,2004,TBpulmonary
 Kalasin,3-3,1,2004,TBpulmonary
 Mukdahan,3-3,0,2004,TBpulmonary
 Nakhon Phanom,3-3,0,2004,TBpulmonary
 Sakon Nakhon,3-3,0,2004,TBpulmonary
-Zone 12,3-3,1,2004,TBpulmonary
+Zone:12,3-3,1,2004,TBpulmonary
 Khon Kaen,3-3,0,2004,TBpulmonary
 Maha Sarakham,3-3,1,2004,TBpulmonary
 Roi Et,3-3,0,2004,TBpulmonary
-Zone 13,3-3,1,2004,TBpulmonary
+Zone:13,3-3,1,2004,TBpulmonary
 Buri Ram,3-3,0,2004,TBpulmonary
 Chaiyaphum,3-3,0,2004,TBpulmonary
 Nakhon Ratchasima,3-3,0,2004,TBpulmonary
 Surin,3-3,1,2004,TBpulmonary
-Zone 14,3-3,6,2004,TBpulmonary
+Zone:14,3-3,6,2004,TBpulmonary
 Amnat Charoen,3-3,0,2004,TBpulmonary
 Si Sa Ket,3-3,5,2004,TBpulmonary
 Ubon Ratchathani,3-3,0,2004,TBpulmonary
 Yasothon,3-3,1,2004,TBpulmonary
 South Region,3-3,10,2004,TBpulmonary
-Zone 15,3-3,0,2004,TBpulmonary
+Zone:15,3-3,0,2004,TBpulmonary
 Chumphon,3-3,0,2004,TBpulmonary
 Ranong,3-3,0,2004,TBpulmonary
 Surat Thani,3-3,0,2004,TBpulmonary
-Zone 16,3-3,3,2004,TBpulmonary
+Zone:16,3-3,3,2004,TBpulmonary
 Nakhon Si Thammarat,3-3,2,2004,TBpulmonary
 Phatthalung,3-3,1,2004,TBpulmonary
 Trang,3-3,0,2004,TBpulmonary
-Zone 17,3-3,1,2004,TBpulmonary
+Zone:17,3-3,1,2004,TBpulmonary
 Krabi,3-3,0,2004,TBpulmonary
 Phangnga,3-3,1,2004,TBpulmonary
 Phuket,3-3,0,2004,TBpulmonary
-Zone 18,3-3,0,2004,TBpulmonary
+Zone:18,3-3,0,2004,TBpulmonary
 Narathiwat,3-3,0,2004,TBpulmonary
 Pattani,3-3,0,2004,TBpulmonary
 Yala,3-3,0,2004,TBpulmonary
-Zone 19,3-3,6,2004,TBpulmonary
+Zone:19,3-3,6,2004,TBpulmonary
 Satun,3-3,0,2004,TBpulmonary
 Songkhla,3-3,6,2004,TBpulmonary
 Total,4-4,27,2004,TBpulmonary
 North Region,4-4,2,2004,TBpulmonary
-Zone 1,4-4,2,2004,TBpulmonary
+Zone:1,4-4,2,2004,TBpulmonary
 Chiang Mai,4-4,0,2004,TBpulmonary
 Chiang Rai,4-4,1,2004,TBpulmonary
 Lampang,4-4,1,2004,TBpulmonary
@@ -28150,98 +28150,98 @@ Mae Hong Son,4-4,0,2004,TBpulmonary
 Nan,4-4,0,2004,TBpulmonary
 Phayao,4-4,0,2004,TBpulmonary
 Phrae,4-4,0,2004,TBpulmonary
-Zone 2,4-4,0,2004,TBpulmonary
+Zone:2,4-4,0,2004,TBpulmonary
 Phetchabun,4-4,0,2004,TBpulmonary
 Phitsanulok,4-4,0,2004,TBpulmonary
 Sukhothai,4-4,0,2004,TBpulmonary
 Tak,4-4,0,2004,TBpulmonary
 Uttaradit,4-4,0,2004,TBpulmonary
-Zone 3,4-4,0,2004,TBpulmonary
+Zone:3,4-4,0,2004,TBpulmonary
 Kamphaeng Phet,4-4,0,2004,TBpulmonary
 Nakhon Sawan,4-4,0,2004,TBpulmonary
 Phichit,4-4,0,2004,TBpulmonary
 Uthai Thani,4-4,0,2004,TBpulmonary
 Central Region,4-4,13,2004,TBpulmonary
 Bangkok,4-4,4,2004,TBpulmonary
-Zone 4,4-4,2,2004,TBpulmonary
+Zone:4,4-4,2,2004,TBpulmonary
 Ang Thong,4-4,0,2004,TBpulmonary
 Nonthaburi,4-4,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,4-4,1,2004,TBpulmonary
 Pathum Thani,4-4,1,2004,TBpulmonary
-Zone 5,4-4,0,2004,TBpulmonary
+Zone:5,4-4,0,2004,TBpulmonary
 Chai Nat,4-4,0,2004,TBpulmonary
 Lop Buri,4-4,0,2004,TBpulmonary
 Saraburi,4-4,0,2004,TBpulmonary
 Sing Buri,4-4,0,2004,TBpulmonary
-Zone 6,4-4,1,2004,TBpulmonary
+Zone:6,4-4,1,2004,TBpulmonary
 Kanchanaburi,4-4,1,2004,TBpulmonary
 Nakhon Pathom,4-4,0,2004,TBpulmonary
 Ratchaburi,4-4,0,2004,TBpulmonary
 Suphan Buri,4-4,0,2004,TBpulmonary
-Zone 7,4-4,0,2004,TBpulmonary
+Zone:7,4-4,0,2004,TBpulmonary
 Phetchaburi,4-4,0,2004,TBpulmonary
 Prachuap Khiri Khan,4-4,0,2004,TBpulmonary
 Samut Sakhon,4-4,0,2004,TBpulmonary
 Samut Songkhram,4-4,0,2004,TBpulmonary
-Zone 8,4-4,3,2004,TBpulmonary
+Zone:8,4-4,3,2004,TBpulmonary
 Chachoengsao,4-4,1,2004,TBpulmonary
 Nakhon Nayok,4-4,0,2004,TBpulmonary
 Prachin Buri,4-4,0,2004,TBpulmonary
 Sa Kaeo,4-4,0,2004,TBpulmonary
 Samut Prakan,4-4,2,2004,TBpulmonary
-Zone 9,4-4,3,2004,TBpulmonary
+Zone:9,4-4,3,2004,TBpulmonary
 Chanthaburi,4-4,2,2004,TBpulmonary
 Chon Buri,4-4,0,2004,TBpulmonary
 Rayong,4-4,1,2004,TBpulmonary
 Trat,4-4,0,2004,TBpulmonary
 North-Eastern Region,4-4,7,2004,TBpulmonary
-Zone 10,4-4,0,2004,TBpulmonary
+Zone:10,4-4,0,2004,TBpulmonary
 Loei,4-4,0,2004,TBpulmonary
 Nong Bua Lam Phu,4-4,0,2004,TBpulmonary
 Nong Khai,4-4,0,2004,TBpulmonary
 Udon Thani,4-4,0,2004,TBpulmonary
-Zone 11,4-4,1,2004,TBpulmonary
+Zone:11,4-4,1,2004,TBpulmonary
 Kalasin,4-4,1,2004,TBpulmonary
 Mukdahan,4-4,0,2004,TBpulmonary
 Nakhon Phanom,4-4,0,2004,TBpulmonary
 Sakon Nakhon,4-4,0,2004,TBpulmonary
-Zone 12,4-4,0,2004,TBpulmonary
+Zone:12,4-4,0,2004,TBpulmonary
 Khon Kaen,4-4,0,2004,TBpulmonary
 Maha Sarakham,4-4,0,2004,TBpulmonary
 Roi Et,4-4,0,2004,TBpulmonary
-Zone 13,4-4,2,2004,TBpulmonary
+Zone:13,4-4,2,2004,TBpulmonary
 Buri Ram,4-4,1,2004,TBpulmonary
 Chaiyaphum,4-4,0,2004,TBpulmonary
 Nakhon Ratchasima,4-4,0,2004,TBpulmonary
 Surin,4-4,1,2004,TBpulmonary
-Zone 14,4-4,4,2004,TBpulmonary
+Zone:14,4-4,4,2004,TBpulmonary
 Amnat Charoen,4-4,1,2004,TBpulmonary
 Si Sa Ket,4-4,3,2004,TBpulmonary
 Ubon Ratchathani,4-4,0,2004,TBpulmonary
 Yasothon,4-4,0,2004,TBpulmonary
 South Region,4-4,5,2004,TBpulmonary
-Zone 15,4-4,0,2004,TBpulmonary
+Zone:15,4-4,0,2004,TBpulmonary
 Chumphon,4-4,0,2004,TBpulmonary
 Ranong,4-4,0,2004,TBpulmonary
 Surat Thani,4-4,0,2004,TBpulmonary
-Zone 16,4-4,0,2004,TBpulmonary
+Zone:16,4-4,0,2004,TBpulmonary
 Nakhon Si Thammarat,4-4,0,2004,TBpulmonary
 Phatthalung,4-4,0,2004,TBpulmonary
 Trang,4-4,0,2004,TBpulmonary
-Zone 17,4-4,0,2004,TBpulmonary
+Zone:17,4-4,0,2004,TBpulmonary
 Krabi,4-4,0,2004,TBpulmonary
 Phangnga,4-4,0,2004,TBpulmonary
 Phuket,4-4,0,2004,TBpulmonary
-Zone 18,4-4,1,2004,TBpulmonary
+Zone:18,4-4,1,2004,TBpulmonary
 Narathiwat,4-4,0,2004,TBpulmonary
 Pattani,4-4,0,2004,TBpulmonary
 Yala,4-4,1,2004,TBpulmonary
-Zone 19,4-4,4,2004,TBpulmonary
+Zone:19,4-4,4,2004,TBpulmonary
 Satun,4-4,0,2004,TBpulmonary
 Songkhla,4-4,4,2004,TBpulmonary
 Total,5-5,41,2004,TBpulmonary
 North Region,5-5,8,2004,TBpulmonary
-Zone 1,5-5,8,2004,TBpulmonary
+Zone:1,5-5,8,2004,TBpulmonary
 Chiang Mai,5-5,0,2004,TBpulmonary
 Chiang Rai,5-5,2,2004,TBpulmonary
 Lampang,5-5,1,2004,TBpulmonary
@@ -28250,98 +28250,98 @@ Mae Hong Son,5-5,4,2004,TBpulmonary
 Nan,5-5,0,2004,TBpulmonary
 Phayao,5-5,0,2004,TBpulmonary
 Phrae,5-5,0,2004,TBpulmonary
-Zone 2,5-5,0,2004,TBpulmonary
+Zone:2,5-5,0,2004,TBpulmonary
 Phetchabun,5-5,0,2004,TBpulmonary
 Phitsanulok,5-5,0,2004,TBpulmonary
 Sukhothai,5-5,0,2004,TBpulmonary
 Tak,5-5,0,2004,TBpulmonary
 Uttaradit,5-5,0,2004,TBpulmonary
-Zone 3,5-5,0,2004,TBpulmonary
+Zone:3,5-5,0,2004,TBpulmonary
 Kamphaeng Phet,5-5,0,2004,TBpulmonary
 Nakhon Sawan,5-5,0,2004,TBpulmonary
 Phichit,5-5,0,2004,TBpulmonary
 Uthai Thani,5-5,0,2004,TBpulmonary
 Central Region,5-5,16,2004,TBpulmonary
 Bangkok,5-5,6,2004,TBpulmonary
-Zone 4,5-5,2,2004,TBpulmonary
+Zone:4,5-5,2,2004,TBpulmonary
 Ang Thong,5-5,1,2004,TBpulmonary
 Nonthaburi,5-5,1,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,5-5,0,2004,TBpulmonary
 Pathum Thani,5-5,0,2004,TBpulmonary
-Zone 5,5-5,0,2004,TBpulmonary
+Zone:5,5-5,0,2004,TBpulmonary
 Chai Nat,5-5,0,2004,TBpulmonary
 Lop Buri,5-5,0,2004,TBpulmonary
 Saraburi,5-5,0,2004,TBpulmonary
 Sing Buri,5-5,0,2004,TBpulmonary
-Zone 6,5-5,1,2004,TBpulmonary
+Zone:6,5-5,1,2004,TBpulmonary
 Kanchanaburi,5-5,0,2004,TBpulmonary
 Nakhon Pathom,5-5,0,2004,TBpulmonary
 Ratchaburi,5-5,0,2004,TBpulmonary
 Suphan Buri,5-5,1,2004,TBpulmonary
-Zone 7,5-5,3,2004,TBpulmonary
+Zone:7,5-5,3,2004,TBpulmonary
 Phetchaburi,5-5,1,2004,TBpulmonary
 Prachuap Khiri Khan,5-5,1,2004,TBpulmonary
 Samut Sakhon,5-5,0,2004,TBpulmonary
 Samut Songkhram,5-5,1,2004,TBpulmonary
-Zone 8,5-5,4,2004,TBpulmonary
+Zone:8,5-5,4,2004,TBpulmonary
 Chachoengsao,5-5,0,2004,TBpulmonary
 Nakhon Nayok,5-5,0,2004,TBpulmonary
 Prachin Buri,5-5,0,2004,TBpulmonary
 Sa Kaeo,5-5,0,2004,TBpulmonary
 Samut Prakan,5-5,4,2004,TBpulmonary
-Zone 9,5-5,0,2004,TBpulmonary
+Zone:9,5-5,0,2004,TBpulmonary
 Chanthaburi,5-5,0,2004,TBpulmonary
 Chon Buri,5-5,0,2004,TBpulmonary
 Rayong,5-5,0,2004,TBpulmonary
 Trat,5-5,0,2004,TBpulmonary
 North-Eastern Region,5-5,11,2004,TBpulmonary
-Zone 10,5-5,1,2004,TBpulmonary
+Zone:10,5-5,1,2004,TBpulmonary
 Loei,5-5,0,2004,TBpulmonary
 Nong Bua Lam Phu,5-5,1,2004,TBpulmonary
 Nong Khai,5-5,0,2004,TBpulmonary
 Udon Thani,5-5,0,2004,TBpulmonary
-Zone 11,5-5,1,2004,TBpulmonary
+Zone:11,5-5,1,2004,TBpulmonary
 Kalasin,5-5,0,2004,TBpulmonary
 Mukdahan,5-5,0,2004,TBpulmonary
 Nakhon Phanom,5-5,0,2004,TBpulmonary
 Sakon Nakhon,5-5,1,2004,TBpulmonary
-Zone 12,5-5,0,2004,TBpulmonary
+Zone:12,5-5,0,2004,TBpulmonary
 Khon Kaen,5-5,0,2004,TBpulmonary
 Maha Sarakham,5-5,0,2004,TBpulmonary
 Roi Et,5-5,0,2004,TBpulmonary
-Zone 13,5-5,4,2004,TBpulmonary
+Zone:13,5-5,4,2004,TBpulmonary
 Buri Ram,5-5,1,2004,TBpulmonary
 Chaiyaphum,5-5,0,2004,TBpulmonary
 Nakhon Ratchasima,5-5,2,2004,TBpulmonary
 Surin,5-5,1,2004,TBpulmonary
-Zone 14,5-5,5,2004,TBpulmonary
+Zone:14,5-5,5,2004,TBpulmonary
 Amnat Charoen,5-5,1,2004,TBpulmonary
 Si Sa Ket,5-5,4,2004,TBpulmonary
 Ubon Ratchathani,5-5,0,2004,TBpulmonary
 Yasothon,5-5,0,2004,TBpulmonary
 South Region,5-5,6,2004,TBpulmonary
-Zone 15,5-5,1,2004,TBpulmonary
+Zone:15,5-5,1,2004,TBpulmonary
 Chumphon,5-5,0,2004,TBpulmonary
 Ranong,5-5,0,2004,TBpulmonary
 Surat Thani,5-5,1,2004,TBpulmonary
-Zone 16,5-5,2,2004,TBpulmonary
+Zone:16,5-5,2,2004,TBpulmonary
 Nakhon Si Thammarat,5-5,1,2004,TBpulmonary
 Phatthalung,5-5,1,2004,TBpulmonary
 Trang,5-5,0,2004,TBpulmonary
-Zone 17,5-5,0,2004,TBpulmonary
+Zone:17,5-5,0,2004,TBpulmonary
 Krabi,5-5,0,2004,TBpulmonary
 Phangnga,5-5,0,2004,TBpulmonary
 Phuket,5-5,0,2004,TBpulmonary
-Zone 18,5-5,1,2004,TBpulmonary
+Zone:18,5-5,1,2004,TBpulmonary
 Narathiwat,5-5,0,2004,TBpulmonary
 Pattani,5-5,1,2004,TBpulmonary
 Yala,5-5,0,2004,TBpulmonary
-Zone 19,5-5,2,2004,TBpulmonary
+Zone:19,5-5,2,2004,TBpulmonary
 Satun,5-5,0,2004,TBpulmonary
 Songkhla,5-5,2,2004,TBpulmonary
 Total,6-6,53,2004,TBpulmonary
 North Region,6-6,11,2004,TBpulmonary
-Zone 1,6-6,6,2004,TBpulmonary
+Zone:1,6-6,6,2004,TBpulmonary
 Chiang Mai,6-6,0,2004,TBpulmonary
 Chiang Rai,6-6,2,2004,TBpulmonary
 Lampang,6-6,0,2004,TBpulmonary
@@ -28350,98 +28350,98 @@ Mae Hong Son,6-6,3,2004,TBpulmonary
 Nan,6-6,0,2004,TBpulmonary
 Phayao,6-6,1,2004,TBpulmonary
 Phrae,6-6,0,2004,TBpulmonary
-Zone 2,6-6,4,2004,TBpulmonary
+Zone:2,6-6,4,2004,TBpulmonary
 Phetchabun,6-6,1,2004,TBpulmonary
 Phitsanulok,6-6,3,2004,TBpulmonary
 Sukhothai,6-6,0,2004,TBpulmonary
 Tak,6-6,0,2004,TBpulmonary
 Uttaradit,6-6,0,2004,TBpulmonary
-Zone 3,6-6,1,2004,TBpulmonary
+Zone:3,6-6,1,2004,TBpulmonary
 Kamphaeng Phet,6-6,1,2004,TBpulmonary
 Nakhon Sawan,6-6,0,2004,TBpulmonary
 Phichit,6-6,0,2004,TBpulmonary
 Uthai Thani,6-6,0,2004,TBpulmonary
 Central Region,6-6,23,2004,TBpulmonary
 Bangkok,6-6,13,2004,TBpulmonary
-Zone 4,6-6,0,2004,TBpulmonary
+Zone:4,6-6,0,2004,TBpulmonary
 Ang Thong,6-6,0,2004,TBpulmonary
 Nonthaburi,6-6,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,6-6,0,2004,TBpulmonary
 Pathum Thani,6-6,0,2004,TBpulmonary
-Zone 5,6-6,0,2004,TBpulmonary
+Zone:5,6-6,0,2004,TBpulmonary
 Chai Nat,6-6,0,2004,TBpulmonary
 Lop Buri,6-6,0,2004,TBpulmonary
 Saraburi,6-6,0,2004,TBpulmonary
 Sing Buri,6-6,0,2004,TBpulmonary
-Zone 6,6-6,0,2004,TBpulmonary
+Zone:6,6-6,0,2004,TBpulmonary
 Kanchanaburi,6-6,0,2004,TBpulmonary
 Nakhon Pathom,6-6,0,2004,TBpulmonary
 Ratchaburi,6-6,0,2004,TBpulmonary
 Suphan Buri,6-6,0,2004,TBpulmonary
-Zone 7,6-6,1,2004,TBpulmonary
+Zone:7,6-6,1,2004,TBpulmonary
 Phetchaburi,6-6,0,2004,TBpulmonary
 Prachuap Khiri Khan,6-6,1,2004,TBpulmonary
 Samut Sakhon,6-6,0,2004,TBpulmonary
 Samut Songkhram,6-6,0,2004,TBpulmonary
-Zone 8,6-6,8,2004,TBpulmonary
+Zone:8,6-6,8,2004,TBpulmonary
 Chachoengsao,6-6,1,2004,TBpulmonary
 Nakhon Nayok,6-6,0,2004,TBpulmonary
 Prachin Buri,6-6,0,2004,TBpulmonary
 Sa Kaeo,6-6,0,2004,TBpulmonary
 Samut Prakan,6-6,7,2004,TBpulmonary
-Zone 9,6-6,1,2004,TBpulmonary
+Zone:9,6-6,1,2004,TBpulmonary
 Chanthaburi,6-6,0,2004,TBpulmonary
 Chon Buri,6-6,1,2004,TBpulmonary
 Rayong,6-6,0,2004,TBpulmonary
 Trat,6-6,0,2004,TBpulmonary
 North-Eastern Region,6-6,11,2004,TBpulmonary
-Zone 10,6-6,2,2004,TBpulmonary
+Zone:10,6-6,2,2004,TBpulmonary
 Loei,6-6,1,2004,TBpulmonary
 Nong Bua Lam Phu,6-6,0,2004,TBpulmonary
 Nong Khai,6-6,0,2004,TBpulmonary
 Udon Thani,6-6,1,2004,TBpulmonary
-Zone 11,6-6,0,2004,TBpulmonary
+Zone:11,6-6,0,2004,TBpulmonary
 Kalasin,6-6,0,2004,TBpulmonary
 Mukdahan,6-6,0,2004,TBpulmonary
 Nakhon Phanom,6-6,0,2004,TBpulmonary
 Sakon Nakhon,6-6,0,2004,TBpulmonary
-Zone 12,6-6,1,2004,TBpulmonary
+Zone:12,6-6,1,2004,TBpulmonary
 Khon Kaen,6-6,0,2004,TBpulmonary
 Maha Sarakham,6-6,0,2004,TBpulmonary
 Roi Et,6-6,1,2004,TBpulmonary
-Zone 13,6-6,1,2004,TBpulmonary
+Zone:13,6-6,1,2004,TBpulmonary
 Buri Ram,6-6,0,2004,TBpulmonary
 Chaiyaphum,6-6,0,2004,TBpulmonary
 Nakhon Ratchasima,6-6,0,2004,TBpulmonary
 Surin,6-6,1,2004,TBpulmonary
-Zone 14,6-6,7,2004,TBpulmonary
+Zone:14,6-6,7,2004,TBpulmonary
 Amnat Charoen,6-6,3,2004,TBpulmonary
 Si Sa Ket,6-6,4,2004,TBpulmonary
 Ubon Ratchathani,6-6,0,2004,TBpulmonary
 Yasothon,6-6,0,2004,TBpulmonary
 South Region,6-6,8,2004,TBpulmonary
-Zone 15,6-6,1,2004,TBpulmonary
+Zone:15,6-6,1,2004,TBpulmonary
 Chumphon,6-6,0,2004,TBpulmonary
 Ranong,6-6,0,2004,TBpulmonary
 Surat Thani,6-6,1,2004,TBpulmonary
-Zone 16,6-6,2,2004,TBpulmonary
+Zone:16,6-6,2,2004,TBpulmonary
 Nakhon Si Thammarat,6-6,1,2004,TBpulmonary
 Phatthalung,6-6,1,2004,TBpulmonary
 Trang,6-6,0,2004,TBpulmonary
-Zone 17,6-6,0,2004,TBpulmonary
+Zone:17,6-6,0,2004,TBpulmonary
 Krabi,6-6,0,2004,TBpulmonary
 Phangnga,6-6,0,2004,TBpulmonary
 Phuket,6-6,0,2004,TBpulmonary
-Zone 18,6-6,0,2004,TBpulmonary
+Zone:18,6-6,0,2004,TBpulmonary
 Narathiwat,6-6,0,2004,TBpulmonary
 Pattani,6-6,0,2004,TBpulmonary
 Yala,6-6,0,2004,TBpulmonary
-Zone 19,6-6,5,2004,TBpulmonary
+Zone:19,6-6,5,2004,TBpulmonary
 Satun,6-6,0,2004,TBpulmonary
 Songkhla,6-6,5,2004,TBpulmonary
 Total,7-9,97,2004,TBpulmonary
 North Region,7-9,17,2004,TBpulmonary
-Zone 1,7-9,14,2004,TBpulmonary
+Zone:1,7-9,14,2004,TBpulmonary
 Chiang Mai,7-9,3,2004,TBpulmonary
 Chiang Rai,7-9,2,2004,TBpulmonary
 Lampang,7-9,1,2004,TBpulmonary
@@ -28450,98 +28450,98 @@ Mae Hong Son,7-9,4,2004,TBpulmonary
 Nan,7-9,3,2004,TBpulmonary
 Phayao,7-9,1,2004,TBpulmonary
 Phrae,7-9,0,2004,TBpulmonary
-Zone 2,7-9,0,2004,TBpulmonary
+Zone:2,7-9,0,2004,TBpulmonary
 Phetchabun,7-9,0,2004,TBpulmonary
 Phitsanulok,7-9,0,2004,TBpulmonary
 Sukhothai,7-9,0,2004,TBpulmonary
 Tak,7-9,0,2004,TBpulmonary
 Uttaradit,7-9,0,2004,TBpulmonary
-Zone 3,7-9,3,2004,TBpulmonary
+Zone:3,7-9,3,2004,TBpulmonary
 Kamphaeng Phet,7-9,1,2004,TBpulmonary
 Nakhon Sawan,7-9,1,2004,TBpulmonary
 Phichit,7-9,1,2004,TBpulmonary
 Uthai Thani,7-9,0,2004,TBpulmonary
 Central Region,7-9,25,2004,TBpulmonary
 Bangkok,7-9,2,2004,TBpulmonary
-Zone 4,7-9,1,2004,TBpulmonary
+Zone:4,7-9,1,2004,TBpulmonary
 Ang Thong,7-9,0,2004,TBpulmonary
 Nonthaburi,7-9,1,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,7-9,0,2004,TBpulmonary
 Pathum Thani,7-9,0,2004,TBpulmonary
-Zone 5,7-9,2,2004,TBpulmonary
+Zone:5,7-9,2,2004,TBpulmonary
 Chai Nat,7-9,0,2004,TBpulmonary
 Lop Buri,7-9,0,2004,TBpulmonary
 Saraburi,7-9,2,2004,TBpulmonary
 Sing Buri,7-9,0,2004,TBpulmonary
-Zone 6,7-9,6,2004,TBpulmonary
+Zone:6,7-9,6,2004,TBpulmonary
 Kanchanaburi,7-9,2,2004,TBpulmonary
 Nakhon Pathom,7-9,0,2004,TBpulmonary
 Ratchaburi,7-9,2,2004,TBpulmonary
 Suphan Buri,7-9,2,2004,TBpulmonary
-Zone 7,7-9,0,2004,TBpulmonary
+Zone:7,7-9,0,2004,TBpulmonary
 Phetchaburi,7-9,0,2004,TBpulmonary
 Prachuap Khiri Khan,7-9,0,2004,TBpulmonary
 Samut Sakhon,7-9,0,2004,TBpulmonary
 Samut Songkhram,7-9,0,2004,TBpulmonary
-Zone 8,7-9,11,2004,TBpulmonary
+Zone:8,7-9,11,2004,TBpulmonary
 Chachoengsao,7-9,0,2004,TBpulmonary
 Nakhon Nayok,7-9,0,2004,TBpulmonary
 Prachin Buri,7-9,4,2004,TBpulmonary
 Sa Kaeo,7-9,0,2004,TBpulmonary
 Samut Prakan,7-9,7,2004,TBpulmonary
-Zone 9,7-9,3,2004,TBpulmonary
+Zone:9,7-9,3,2004,TBpulmonary
 Chanthaburi,7-9,2,2004,TBpulmonary
 Chon Buri,7-9,0,2004,TBpulmonary
 Rayong,7-9,1,2004,TBpulmonary
 Trat,7-9,0,2004,TBpulmonary
 North-Eastern Region,7-9,28,2004,TBpulmonary
-Zone 10,7-9,4,2004,TBpulmonary
+Zone:10,7-9,4,2004,TBpulmonary
 Loei,7-9,1,2004,TBpulmonary
 Nong Bua Lam Phu,7-9,1,2004,TBpulmonary
 Nong Khai,7-9,0,2004,TBpulmonary
 Udon Thani,7-9,2,2004,TBpulmonary
-Zone 11,7-9,1,2004,TBpulmonary
+Zone:11,7-9,1,2004,TBpulmonary
 Kalasin,7-9,1,2004,TBpulmonary
 Mukdahan,7-9,0,2004,TBpulmonary
 Nakhon Phanom,7-9,0,2004,TBpulmonary
 Sakon Nakhon,7-9,0,2004,TBpulmonary
-Zone 12,7-9,6,2004,TBpulmonary
+Zone:12,7-9,6,2004,TBpulmonary
 Khon Kaen,7-9,3,2004,TBpulmonary
 Maha Sarakham,7-9,1,2004,TBpulmonary
 Roi Et,7-9,2,2004,TBpulmonary
-Zone 13,7-9,3,2004,TBpulmonary
+Zone:13,7-9,3,2004,TBpulmonary
 Buri Ram,7-9,0,2004,TBpulmonary
 Chaiyaphum,7-9,0,2004,TBpulmonary
 Nakhon Ratchasima,7-9,3,2004,TBpulmonary
 Surin,7-9,0,2004,TBpulmonary
-Zone 14,7-9,14,2004,TBpulmonary
+Zone:14,7-9,14,2004,TBpulmonary
 Amnat Charoen,7-9,5,2004,TBpulmonary
 Si Sa Ket,7-9,8,2004,TBpulmonary
 Ubon Ratchathani,7-9,0,2004,TBpulmonary
 Yasothon,7-9,1,2004,TBpulmonary
 South Region,7-9,27,2004,TBpulmonary
-Zone 15,7-9,2,2004,TBpulmonary
+Zone:15,7-9,2,2004,TBpulmonary
 Chumphon,7-9,0,2004,TBpulmonary
 Ranong,7-9,0,2004,TBpulmonary
 Surat Thani,7-9,2,2004,TBpulmonary
-Zone 16,7-9,6,2004,TBpulmonary
+Zone:16,7-9,6,2004,TBpulmonary
 Nakhon Si Thammarat,7-9,5,2004,TBpulmonary
 Phatthalung,7-9,1,2004,TBpulmonary
 Trang,7-9,0,2004,TBpulmonary
-Zone 17,7-9,1,2004,TBpulmonary
+Zone:17,7-9,1,2004,TBpulmonary
 Krabi,7-9,0,2004,TBpulmonary
 Phangnga,7-9,0,2004,TBpulmonary
 Phuket,7-9,1,2004,TBpulmonary
-Zone 18,7-9,5,2004,TBpulmonary
+Zone:18,7-9,5,2004,TBpulmonary
 Narathiwat,7-9,1,2004,TBpulmonary
 Pattani,7-9,3,2004,TBpulmonary
 Yala,7-9,1,2004,TBpulmonary
-Zone 19,7-9,13,2004,TBpulmonary
+Zone:19,7-9,13,2004,TBpulmonary
 Satun,7-9,0,2004,TBpulmonary
 Songkhla,7-9,13,2004,TBpulmonary
 Total,10-14,168,2004,TBpulmonary
 North Region,10-14,31,2004,TBpulmonary
-Zone 1,10-14,18,2004,TBpulmonary
+Zone:1,10-14,18,2004,TBpulmonary
 Chiang Mai,10-14,5,2004,TBpulmonary
 Chiang Rai,10-14,3,2004,TBpulmonary
 Lampang,10-14,2,2004,TBpulmonary
@@ -28550,98 +28550,98 @@ Mae Hong Son,10-14,7,2004,TBpulmonary
 Nan,10-14,0,2004,TBpulmonary
 Phayao,10-14,1,2004,TBpulmonary
 Phrae,10-14,0,2004,TBpulmonary
-Zone 2,10-14,6,2004,TBpulmonary
+Zone:2,10-14,6,2004,TBpulmonary
 Phetchabun,10-14,4,2004,TBpulmonary
 Phitsanulok,10-14,0,2004,TBpulmonary
 Sukhothai,10-14,1,2004,TBpulmonary
 Tak,10-14,1,2004,TBpulmonary
 Uttaradit,10-14,0,2004,TBpulmonary
-Zone 3,10-14,7,2004,TBpulmonary
+Zone:3,10-14,7,2004,TBpulmonary
 Kamphaeng Phet,10-14,4,2004,TBpulmonary
 Nakhon Sawan,10-14,1,2004,TBpulmonary
 Phichit,10-14,1,2004,TBpulmonary
 Uthai Thani,10-14,1,2004,TBpulmonary
 Central Region,10-14,65,2004,TBpulmonary
 Bangkok,10-14,15,2004,TBpulmonary
-Zone 4,10-14,6,2004,TBpulmonary
+Zone:4,10-14,6,2004,TBpulmonary
 Ang Thong,10-14,0,2004,TBpulmonary
 Nonthaburi,10-14,4,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,10-14,1,2004,TBpulmonary
 Pathum Thani,10-14,1,2004,TBpulmonary
-Zone 5,10-14,3,2004,TBpulmonary
+Zone:5,10-14,3,2004,TBpulmonary
 Chai Nat,10-14,0,2004,TBpulmonary
 Lop Buri,10-14,0,2004,TBpulmonary
 Saraburi,10-14,3,2004,TBpulmonary
 Sing Buri,10-14,0,2004,TBpulmonary
-Zone 6,10-14,14,2004,TBpulmonary
+Zone:6,10-14,14,2004,TBpulmonary
 Kanchanaburi,10-14,3,2004,TBpulmonary
 Nakhon Pathom,10-14,5,2004,TBpulmonary
 Ratchaburi,10-14,0,2004,TBpulmonary
 Suphan Buri,10-14,6,2004,TBpulmonary
-Zone 7,10-14,7,2004,TBpulmonary
+Zone:7,10-14,7,2004,TBpulmonary
 Phetchaburi,10-14,0,2004,TBpulmonary
 Prachuap Khiri Khan,10-14,3,2004,TBpulmonary
 Samut Sakhon,10-14,1,2004,TBpulmonary
 Samut Songkhram,10-14,3,2004,TBpulmonary
-Zone 8,10-14,11,2004,TBpulmonary
+Zone:8,10-14,11,2004,TBpulmonary
 Chachoengsao,10-14,4,2004,TBpulmonary
 Nakhon Nayok,10-14,1,2004,TBpulmonary
 Prachin Buri,10-14,4,2004,TBpulmonary
 Sa Kaeo,10-14,0,2004,TBpulmonary
 Samut Prakan,10-14,2,2004,TBpulmonary
-Zone 9,10-14,9,2004,TBpulmonary
+Zone:9,10-14,9,2004,TBpulmonary
 Chanthaburi,10-14,3,2004,TBpulmonary
 Chon Buri,10-14,2,2004,TBpulmonary
 Rayong,10-14,2,2004,TBpulmonary
 Trat,10-14,2,2004,TBpulmonary
 North-Eastern Region,10-14,45,2004,TBpulmonary
-Zone 10,10-14,6,2004,TBpulmonary
+Zone:10,10-14,6,2004,TBpulmonary
 Loei,10-14,0,2004,TBpulmonary
 Nong Bua Lam Phu,10-14,1,2004,TBpulmonary
 Nong Khai,10-14,1,2004,TBpulmonary
 Udon Thani,10-14,4,2004,TBpulmonary
-Zone 11,10-14,6,2004,TBpulmonary
+Zone:11,10-14,6,2004,TBpulmonary
 Kalasin,10-14,4,2004,TBpulmonary
 Mukdahan,10-14,1,2004,TBpulmonary
 Nakhon Phanom,10-14,1,2004,TBpulmonary
 Sakon Nakhon,10-14,0,2004,TBpulmonary
-Zone 12,10-14,2,2004,TBpulmonary
+Zone:12,10-14,2,2004,TBpulmonary
 Khon Kaen,10-14,1,2004,TBpulmonary
 Maha Sarakham,10-14,0,2004,TBpulmonary
 Roi Et,10-14,1,2004,TBpulmonary
-Zone 13,10-14,12,2004,TBpulmonary
+Zone:13,10-14,12,2004,TBpulmonary
 Buri Ram,10-14,6,2004,TBpulmonary
 Chaiyaphum,10-14,1,2004,TBpulmonary
 Nakhon Ratchasima,10-14,1,2004,TBpulmonary
 Surin,10-14,4,2004,TBpulmonary
-Zone 14,10-14,19,2004,TBpulmonary
+Zone:14,10-14,19,2004,TBpulmonary
 Amnat Charoen,10-14,8,2004,TBpulmonary
 Si Sa Ket,10-14,10,2004,TBpulmonary
 Ubon Ratchathani,10-14,0,2004,TBpulmonary
 Yasothon,10-14,1,2004,TBpulmonary
 South Region,10-14,27,2004,TBpulmonary
-Zone 15,10-14,6,2004,TBpulmonary
+Zone:15,10-14,6,2004,TBpulmonary
 Chumphon,10-14,5,2004,TBpulmonary
 Ranong,10-14,0,2004,TBpulmonary
 Surat Thani,10-14,1,2004,TBpulmonary
-Zone 16,10-14,2,2004,TBpulmonary
+Zone:16,10-14,2,2004,TBpulmonary
 Nakhon Si Thammarat,10-14,2,2004,TBpulmonary
 Phatthalung,10-14,0,2004,TBpulmonary
 Trang,10-14,0,2004,TBpulmonary
-Zone 17,10-14,1,2004,TBpulmonary
+Zone:17,10-14,1,2004,TBpulmonary
 Krabi,10-14,0,2004,TBpulmonary
 Phangnga,10-14,0,2004,TBpulmonary
 Phuket,10-14,1,2004,TBpulmonary
-Zone 18,10-14,8,2004,TBpulmonary
+Zone:18,10-14,8,2004,TBpulmonary
 Narathiwat,10-14,3,2004,TBpulmonary
 Pattani,10-14,5,2004,TBpulmonary
 Yala,10-14,0,2004,TBpulmonary
-Zone 19,10-14,10,2004,TBpulmonary
+Zone:19,10-14,10,2004,TBpulmonary
 Satun,10-14,3,2004,TBpulmonary
 Songkhla,10-14,7,2004,TBpulmonary
 Total,15-24,2644,2004,TBpulmonary
 North Region,15-24,302,2004,TBpulmonary
-Zone 1,15-24,156,2004,TBpulmonary
+Zone:1,15-24,156,2004,TBpulmonary
 Chiang Mai,15-24,30,2004,TBpulmonary
 Chiang Rai,15-24,47,2004,TBpulmonary
 Lampang,15-24,32,2004,TBpulmonary
@@ -28650,98 +28650,98 @@ Mae Hong Son,15-24,15,2004,TBpulmonary
 Nan,15-24,14,2004,TBpulmonary
 Phayao,15-24,4,2004,TBpulmonary
 Phrae,15-24,4,2004,TBpulmonary
-Zone 2,15-24,59,2004,TBpulmonary
+Zone:2,15-24,59,2004,TBpulmonary
 Phetchabun,15-24,23,2004,TBpulmonary
 Phitsanulok,15-24,7,2004,TBpulmonary
 Sukhothai,15-24,9,2004,TBpulmonary
 Tak,15-24,14,2004,TBpulmonary
 Uttaradit,15-24,6,2004,TBpulmonary
-Zone 3,15-24,87,2004,TBpulmonary
+Zone:3,15-24,87,2004,TBpulmonary
 Kamphaeng Phet,15-24,31,2004,TBpulmonary
 Nakhon Sawan,15-24,32,2004,TBpulmonary
 Phichit,15-24,13,2004,TBpulmonary
 Uthai Thani,15-24,11,2004,TBpulmonary
 Central Region,15-24,1410,2004,TBpulmonary
 Bangkok,15-24,714,2004,TBpulmonary
-Zone 4,15-24,118,2004,TBpulmonary
+Zone:4,15-24,118,2004,TBpulmonary
 Ang Thong,15-24,4,2004,TBpulmonary
 Nonthaburi,15-24,62,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,15-24,26,2004,TBpulmonary
 Pathum Thani,15-24,26,2004,TBpulmonary
-Zone 5,15-24,51,2004,TBpulmonary
+Zone:5,15-24,51,2004,TBpulmonary
 Chai Nat,15-24,5,2004,TBpulmonary
 Lop Buri,15-24,15,2004,TBpulmonary
 Saraburi,15-24,25,2004,TBpulmonary
 Sing Buri,15-24,6,2004,TBpulmonary
-Zone 6,15-24,124,2004,TBpulmonary
+Zone:6,15-24,124,2004,TBpulmonary
 Kanchanaburi,15-24,34,2004,TBpulmonary
 Nakhon Pathom,15-24,28,2004,TBpulmonary
 Ratchaburi,15-24,41,2004,TBpulmonary
 Suphan Buri,15-24,21,2004,TBpulmonary
-Zone 7,15-24,122,2004,TBpulmonary
+Zone:7,15-24,122,2004,TBpulmonary
 Phetchaburi,15-24,20,2004,TBpulmonary
 Prachuap Khiri Khan,15-24,22,2004,TBpulmonary
 Samut Sakhon,15-24,69,2004,TBpulmonary
 Samut Songkhram,15-24,11,2004,TBpulmonary
-Zone 8,15-24,142,2004,TBpulmonary
+Zone:8,15-24,142,2004,TBpulmonary
 Chachoengsao,15-24,28,2004,TBpulmonary
 Nakhon Nayok,15-24,7,2004,TBpulmonary
 Prachin Buri,15-24,25,2004,TBpulmonary
 Sa Kaeo,15-24,24,2004,TBpulmonary
 Samut Prakan,15-24,58,2004,TBpulmonary
-Zone 9,15-24,139,2004,TBpulmonary
+Zone:9,15-24,139,2004,TBpulmonary
 Chanthaburi,15-24,26,2004,TBpulmonary
 Chon Buri,15-24,66,2004,TBpulmonary
 Rayong,15-24,39,2004,TBpulmonary
 Trat,15-24,8,2004,TBpulmonary
 North-Eastern Region,15-24,534,2004,TBpulmonary
-Zone 10,15-24,98,2004,TBpulmonary
+Zone:10,15-24,98,2004,TBpulmonary
 Loei,15-24,8,2004,TBpulmonary
 Nong Bua Lam Phu,15-24,22,2004,TBpulmonary
 Nong Khai,15-24,14,2004,TBpulmonary
 Udon Thani,15-24,54,2004,TBpulmonary
-Zone 11,15-24,64,2004,TBpulmonary
+Zone:11,15-24,64,2004,TBpulmonary
 Kalasin,15-24,27,2004,TBpulmonary
 Mukdahan,15-24,9,2004,TBpulmonary
 Nakhon Phanom,15-24,13,2004,TBpulmonary
 Sakon Nakhon,15-24,15,2004,TBpulmonary
-Zone 12,15-24,62,2004,TBpulmonary
+Zone:12,15-24,62,2004,TBpulmonary
 Khon Kaen,15-24,28,2004,TBpulmonary
 Maha Sarakham,15-24,14,2004,TBpulmonary
 Roi Et,15-24,20,2004,TBpulmonary
-Zone 13,15-24,132,2004,TBpulmonary
+Zone:13,15-24,132,2004,TBpulmonary
 Buri Ram,15-24,20,2004,TBpulmonary
 Chaiyaphum,15-24,12,2004,TBpulmonary
 Nakhon Ratchasima,15-24,68,2004,TBpulmonary
 Surin,15-24,32,2004,TBpulmonary
-Zone 14,15-24,178,2004,TBpulmonary
+Zone:14,15-24,178,2004,TBpulmonary
 Amnat Charoen,15-24,21,2004,TBpulmonary
 Si Sa Ket,15-24,114,2004,TBpulmonary
 Ubon Ratchathani,15-24,30,2004,TBpulmonary
 Yasothon,15-24,13,2004,TBpulmonary
 South Region,15-24,398,2004,TBpulmonary
-Zone 15,15-24,82,2004,TBpulmonary
+Zone:15,15-24,82,2004,TBpulmonary
 Chumphon,15-24,28,2004,TBpulmonary
 Ranong,15-24,9,2004,TBpulmonary
 Surat Thani,15-24,45,2004,TBpulmonary
-Zone 16,15-24,84,2004,TBpulmonary
+Zone:16,15-24,84,2004,TBpulmonary
 Nakhon Si Thammarat,15-24,61,2004,TBpulmonary
 Phatthalung,15-24,10,2004,TBpulmonary
 Trang,15-24,13,2004,TBpulmonary
-Zone 17,15-24,31,2004,TBpulmonary
+Zone:17,15-24,31,2004,TBpulmonary
 Krabi,15-24,10,2004,TBpulmonary
 Phangnga,15-24,4,2004,TBpulmonary
 Phuket,15-24,17,2004,TBpulmonary
-Zone 18,15-24,138,2004,TBpulmonary
+Zone:18,15-24,138,2004,TBpulmonary
 Narathiwat,15-24,56,2004,TBpulmonary
 Pattani,15-24,56,2004,TBpulmonary
 Yala,15-24,26,2004,TBpulmonary
-Zone 19,15-24,63,2004,TBpulmonary
+Zone:19,15-24,63,2004,TBpulmonary
 Satun,15-24,20,2004,TBpulmonary
 Songkhla,15-24,43,2004,TBpulmonary
 Total,25-34,6196,2004,TBpulmonary
 North Region,25-34,878,2004,TBpulmonary
-Zone 1,25-34,506,2004,TBpulmonary
+Zone:1,25-34,506,2004,TBpulmonary
 Chiang Mai,25-34,90,2004,TBpulmonary
 Chiang Rai,25-34,161,2004,TBpulmonary
 Lampang,25-34,116,2004,TBpulmonary
@@ -28750,98 +28750,98 @@ Mae Hong Son,25-34,30,2004,TBpulmonary
 Nan,25-34,26,2004,TBpulmonary
 Phayao,25-34,45,2004,TBpulmonary
 Phrae,25-34,17,2004,TBpulmonary
-Zone 2,25-34,151,2004,TBpulmonary
+Zone:2,25-34,151,2004,TBpulmonary
 Phetchabun,25-34,58,2004,TBpulmonary
 Phitsanulok,25-34,16,2004,TBpulmonary
 Sukhothai,25-34,26,2004,TBpulmonary
 Tak,25-34,34,2004,TBpulmonary
 Uttaradit,25-34,17,2004,TBpulmonary
-Zone 3,25-34,221,2004,TBpulmonary
+Zone:3,25-34,221,2004,TBpulmonary
 Kamphaeng Phet,25-34,78,2004,TBpulmonary
 Nakhon Sawan,25-34,67,2004,TBpulmonary
 Phichit,25-34,37,2004,TBpulmonary
 Uthai Thani,25-34,39,2004,TBpulmonary
 Central Region,25-34,2763,2004,TBpulmonary
 Bangkok,25-34,1153,2004,TBpulmonary
-Zone 4,25-34,190,2004,TBpulmonary
+Zone:4,25-34,190,2004,TBpulmonary
 Ang Thong,25-34,12,2004,TBpulmonary
 Nonthaburi,25-34,88,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,25-34,40,2004,TBpulmonary
 Pathum Thani,25-34,50,2004,TBpulmonary
-Zone 5,25-34,178,2004,TBpulmonary
+Zone:5,25-34,178,2004,TBpulmonary
 Chai Nat,25-34,22,2004,TBpulmonary
 Lop Buri,25-34,50,2004,TBpulmonary
 Saraburi,25-34,87,2004,TBpulmonary
 Sing Buri,25-34,19,2004,TBpulmonary
-Zone 6,25-34,289,2004,TBpulmonary
+Zone:6,25-34,289,2004,TBpulmonary
 Kanchanaburi,25-34,73,2004,TBpulmonary
 Nakhon Pathom,25-34,81,2004,TBpulmonary
 Ratchaburi,25-34,89,2004,TBpulmonary
 Suphan Buri,25-34,46,2004,TBpulmonary
-Zone 7,25-34,291,2004,TBpulmonary
+Zone:7,25-34,291,2004,TBpulmonary
 Phetchaburi,25-34,72,2004,TBpulmonary
 Prachuap Khiri Khan,25-34,63,2004,TBpulmonary
 Samut Sakhon,25-34,122,2004,TBpulmonary
 Samut Songkhram,25-34,34,2004,TBpulmonary
-Zone 8,25-34,318,2004,TBpulmonary
+Zone:8,25-34,318,2004,TBpulmonary
 Chachoengsao,25-34,64,2004,TBpulmonary
 Nakhon Nayok,25-34,17,2004,TBpulmonary
 Prachin Buri,25-34,63,2004,TBpulmonary
 Sa Kaeo,25-34,55,2004,TBpulmonary
 Samut Prakan,25-34,119,2004,TBpulmonary
-Zone 9,25-34,344,2004,TBpulmonary
+Zone:9,25-34,344,2004,TBpulmonary
 Chanthaburi,25-34,94,2004,TBpulmonary
 Chon Buri,25-34,120,2004,TBpulmonary
 Rayong,25-34,98,2004,TBpulmonary
 Trat,25-34,32,2004,TBpulmonary
 North-Eastern Region,25-34,1530,2004,TBpulmonary
-Zone 10,25-34,251,2004,TBpulmonary
+Zone:10,25-34,251,2004,TBpulmonary
 Loei,25-34,20,2004,TBpulmonary
 Nong Bua Lam Phu,25-34,63,2004,TBpulmonary
 Nong Khai,25-34,41,2004,TBpulmonary
 Udon Thani,25-34,127,2004,TBpulmonary
-Zone 11,25-34,244,2004,TBpulmonary
+Zone:11,25-34,244,2004,TBpulmonary
 Kalasin,25-34,101,2004,TBpulmonary
 Mukdahan,25-34,23,2004,TBpulmonary
 Nakhon Phanom,25-34,36,2004,TBpulmonary
 Sakon Nakhon,25-34,84,2004,TBpulmonary
-Zone 12,25-34,170,2004,TBpulmonary
+Zone:12,25-34,170,2004,TBpulmonary
 Khon Kaen,25-34,74,2004,TBpulmonary
 Maha Sarakham,25-34,24,2004,TBpulmonary
 Roi Et,25-34,72,2004,TBpulmonary
-Zone 13,25-34,428,2004,TBpulmonary
+Zone:13,25-34,428,2004,TBpulmonary
 Buri Ram,25-34,85,2004,TBpulmonary
 Chaiyaphum,25-34,56,2004,TBpulmonary
 Nakhon Ratchasima,25-34,184,2004,TBpulmonary
 Surin,25-34,103,2004,TBpulmonary
-Zone 14,25-34,437,2004,TBpulmonary
+Zone:14,25-34,437,2004,TBpulmonary
 Amnat Charoen,25-34,70,2004,TBpulmonary
 Si Sa Ket,25-34,244,2004,TBpulmonary
 Ubon Ratchathani,25-34,101,2004,TBpulmonary
 Yasothon,25-34,22,2004,TBpulmonary
 South Region,25-34,1025,2004,TBpulmonary
-Zone 15,25-34,221,2004,TBpulmonary
+Zone:15,25-34,221,2004,TBpulmonary
 Chumphon,25-34,63,2004,TBpulmonary
 Ranong,25-34,28,2004,TBpulmonary
 Surat Thani,25-34,130,2004,TBpulmonary
-Zone 16,25-34,317,2004,TBpulmonary
+Zone:16,25-34,317,2004,TBpulmonary
 Nakhon Si Thammarat,25-34,226,2004,TBpulmonary
 Phatthalung,25-34,38,2004,TBpulmonary
 Trang,25-34,53,2004,TBpulmonary
-Zone 17,25-34,75,2004,TBpulmonary
+Zone:17,25-34,75,2004,TBpulmonary
 Krabi,25-34,16,2004,TBpulmonary
 Phangnga,25-34,14,2004,TBpulmonary
 Phuket,25-34,45,2004,TBpulmonary
-Zone 18,25-34,248,2004,TBpulmonary
+Zone:18,25-34,248,2004,TBpulmonary
 Narathiwat,25-34,96,2004,TBpulmonary
 Pattani,25-34,87,2004,TBpulmonary
 Yala,25-34,65,2004,TBpulmonary
-Zone 19,25-34,164,2004,TBpulmonary
+Zone:19,25-34,164,2004,TBpulmonary
 Satun,25-34,53,2004,TBpulmonary
 Songkhla,25-34,111,2004,TBpulmonary
 Total,35-44,5968,2004,TBpulmonary
 North Region,35-44,1070,2004,TBpulmonary
-Zone 1,35-44,591,2004,TBpulmonary
+Zone:1,35-44,591,2004,TBpulmonary
 Chiang Mai,35-44,83,2004,TBpulmonary
 Chiang Rai,35-44,168,2004,TBpulmonary
 Lampang,35-44,148,2004,TBpulmonary
@@ -28850,98 +28850,98 @@ Mae Hong Son,35-44,35,2004,TBpulmonary
 Nan,35-44,43,2004,TBpulmonary
 Phayao,35-44,41,2004,TBpulmonary
 Phrae,35-44,31,2004,TBpulmonary
-Zone 2,35-44,212,2004,TBpulmonary
+Zone:2,35-44,212,2004,TBpulmonary
 Phetchabun,35-44,59,2004,TBpulmonary
 Phitsanulok,35-44,30,2004,TBpulmonary
 Sukhothai,35-44,46,2004,TBpulmonary
 Tak,35-44,51,2004,TBpulmonary
 Uttaradit,35-44,26,2004,TBpulmonary
-Zone 3,35-44,267,2004,TBpulmonary
+Zone:3,35-44,267,2004,TBpulmonary
 Kamphaeng Phet,35-44,71,2004,TBpulmonary
 Nakhon Sawan,35-44,105,2004,TBpulmonary
 Phichit,35-44,58,2004,TBpulmonary
 Uthai Thani,35-44,33,2004,TBpulmonary
 Central Region,35-44,2467,2004,TBpulmonary
 Bangkok,35-44,886,2004,TBpulmonary
-Zone 4,35-44,217,2004,TBpulmonary
+Zone:4,35-44,217,2004,TBpulmonary
 Ang Thong,35-44,22,2004,TBpulmonary
 Nonthaburi,35-44,106,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,35-44,45,2004,TBpulmonary
 Pathum Thani,35-44,44,2004,TBpulmonary
-Zone 5,35-44,166,2004,TBpulmonary
+Zone:5,35-44,166,2004,TBpulmonary
 Chai Nat,35-44,35,2004,TBpulmonary
 Lop Buri,35-44,46,2004,TBpulmonary
 Saraburi,35-44,69,2004,TBpulmonary
 Sing Buri,35-44,16,2004,TBpulmonary
-Zone 6,35-44,315,2004,TBpulmonary
+Zone:6,35-44,315,2004,TBpulmonary
 Kanchanaburi,35-44,63,2004,TBpulmonary
 Nakhon Pathom,35-44,75,2004,TBpulmonary
 Ratchaburi,35-44,110,2004,TBpulmonary
 Suphan Buri,35-44,67,2004,TBpulmonary
-Zone 7,35-44,256,2004,TBpulmonary
+Zone:7,35-44,256,2004,TBpulmonary
 Phetchaburi,35-44,78,2004,TBpulmonary
 Prachuap Khiri Khan,35-44,59,2004,TBpulmonary
 Samut Sakhon,35-44,66,2004,TBpulmonary
 Samut Songkhram,35-44,53,2004,TBpulmonary
-Zone 8,35-44,314,2004,TBpulmonary
+Zone:8,35-44,314,2004,TBpulmonary
 Chachoengsao,35-44,63,2004,TBpulmonary
 Nakhon Nayok,35-44,15,2004,TBpulmonary
 Prachin Buri,35-44,66,2004,TBpulmonary
 Sa Kaeo,35-44,74,2004,TBpulmonary
 Samut Prakan,35-44,96,2004,TBpulmonary
-Zone 9,35-44,313,2004,TBpulmonary
+Zone:9,35-44,313,2004,TBpulmonary
 Chanthaburi,35-44,89,2004,TBpulmonary
 Chon Buri,35-44,111,2004,TBpulmonary
 Rayong,35-44,85,2004,TBpulmonary
 Trat,35-44,28,2004,TBpulmonary
 North-Eastern Region,35-44,1558,2004,TBpulmonary
-Zone 10,35-44,210,2004,TBpulmonary
+Zone:10,35-44,210,2004,TBpulmonary
 Loei,35-44,23,2004,TBpulmonary
 Nong Bua Lam Phu,35-44,51,2004,TBpulmonary
 Nong Khai,35-44,33,2004,TBpulmonary
 Udon Thani,35-44,103,2004,TBpulmonary
-Zone 11,35-44,218,2004,TBpulmonary
+Zone:11,35-44,218,2004,TBpulmonary
 Kalasin,35-44,101,2004,TBpulmonary
 Mukdahan,35-44,16,2004,TBpulmonary
 Nakhon Phanom,35-44,37,2004,TBpulmonary
 Sakon Nakhon,35-44,64,2004,TBpulmonary
-Zone 12,35-44,189,2004,TBpulmonary
+Zone:12,35-44,189,2004,TBpulmonary
 Khon Kaen,35-44,89,2004,TBpulmonary
 Maha Sarakham,35-44,26,2004,TBpulmonary
 Roi Et,35-44,74,2004,TBpulmonary
-Zone 13,35-44,494,2004,TBpulmonary
+Zone:13,35-44,494,2004,TBpulmonary
 Buri Ram,35-44,97,2004,TBpulmonary
 Chaiyaphum,35-44,57,2004,TBpulmonary
 Nakhon Ratchasima,35-44,209,2004,TBpulmonary
 Surin,35-44,131,2004,TBpulmonary
-Zone 14,35-44,447,2004,TBpulmonary
+Zone:14,35-44,447,2004,TBpulmonary
 Amnat Charoen,35-44,69,2004,TBpulmonary
 Si Sa Ket,35-44,248,2004,TBpulmonary
 Ubon Ratchathani,35-44,95,2004,TBpulmonary
 Yasothon,35-44,35,2004,TBpulmonary
 South Region,35-44,873,2004,TBpulmonary
-Zone 15,35-44,195,2004,TBpulmonary
+Zone:15,35-44,195,2004,TBpulmonary
 Chumphon,35-44,71,2004,TBpulmonary
 Ranong,35-44,32,2004,TBpulmonary
 Surat Thani,35-44,92,2004,TBpulmonary
-Zone 16,35-44,234,2004,TBpulmonary
+Zone:16,35-44,234,2004,TBpulmonary
 Nakhon Si Thammarat,35-44,157,2004,TBpulmonary
 Phatthalung,35-44,38,2004,TBpulmonary
 Trang,35-44,39,2004,TBpulmonary
-Zone 17,35-44,60,2004,TBpulmonary
+Zone:17,35-44,60,2004,TBpulmonary
 Krabi,35-44,20,2004,TBpulmonary
 Phangnga,35-44,7,2004,TBpulmonary
 Phuket,35-44,33,2004,TBpulmonary
-Zone 18,35-44,208,2004,TBpulmonary
+Zone:18,35-44,208,2004,TBpulmonary
 Narathiwat,35-44,93,2004,TBpulmonary
 Pattani,35-44,68,2004,TBpulmonary
 Yala,35-44,47,2004,TBpulmonary
-Zone 19,35-44,176,2004,TBpulmonary
+Zone:19,35-44,176,2004,TBpulmonary
 Satun,35-44,42,2004,TBpulmonary
 Songkhla,35-44,134,2004,TBpulmonary
 Total,45-54,5228,2004,TBpulmonary
 North Region,45-54,924,2004,TBpulmonary
-Zone 1,45-54,514,2004,TBpulmonary
+Zone:1,45-54,514,2004,TBpulmonary
 Chiang Mai,45-54,86,2004,TBpulmonary
 Chiang Rai,45-54,108,2004,TBpulmonary
 Lampang,45-54,130,2004,TBpulmonary
@@ -28950,98 +28950,98 @@ Mae Hong Son,45-54,22,2004,TBpulmonary
 Nan,45-54,44,2004,TBpulmonary
 Phayao,45-54,47,2004,TBpulmonary
 Phrae,45-54,32,2004,TBpulmonary
-Zone 2,45-54,189,2004,TBpulmonary
+Zone:2,45-54,189,2004,TBpulmonary
 Phetchabun,45-54,54,2004,TBpulmonary
 Phitsanulok,45-54,37,2004,TBpulmonary
 Sukhothai,45-54,33,2004,TBpulmonary
 Tak,45-54,37,2004,TBpulmonary
 Uttaradit,45-54,28,2004,TBpulmonary
-Zone 3,45-54,221,2004,TBpulmonary
+Zone:3,45-54,221,2004,TBpulmonary
 Kamphaeng Phet,45-54,71,2004,TBpulmonary
 Nakhon Sawan,45-54,76,2004,TBpulmonary
 Phichit,45-54,41,2004,TBpulmonary
 Uthai Thani,45-54,33,2004,TBpulmonary
 Central Region,45-54,1858,2004,TBpulmonary
 Bangkok,45-54,599,2004,TBpulmonary
-Zone 4,45-54,145,2004,TBpulmonary
+Zone:4,45-54,145,2004,TBpulmonary
 Ang Thong,45-54,12,2004,TBpulmonary
 Nonthaburi,45-54,71,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,45-54,27,2004,TBpulmonary
 Pathum Thani,45-54,35,2004,TBpulmonary
-Zone 5,45-54,167,2004,TBpulmonary
+Zone:5,45-54,167,2004,TBpulmonary
 Chai Nat,45-54,29,2004,TBpulmonary
 Lop Buri,45-54,53,2004,TBpulmonary
 Saraburi,45-54,62,2004,TBpulmonary
 Sing Buri,45-54,23,2004,TBpulmonary
-Zone 6,45-54,256,2004,TBpulmonary
+Zone:6,45-54,256,2004,TBpulmonary
 Kanchanaburi,45-54,54,2004,TBpulmonary
 Nakhon Pathom,45-54,59,2004,TBpulmonary
 Ratchaburi,45-54,83,2004,TBpulmonary
 Suphan Buri,45-54,60,2004,TBpulmonary
-Zone 7,45-54,182,2004,TBpulmonary
+Zone:7,45-54,182,2004,TBpulmonary
 Phetchaburi,45-54,53,2004,TBpulmonary
 Prachuap Khiri Khan,45-54,41,2004,TBpulmonary
 Samut Sakhon,45-54,57,2004,TBpulmonary
 Samut Songkhram,45-54,31,2004,TBpulmonary
-Zone 8,45-54,285,2004,TBpulmonary
+Zone:8,45-54,285,2004,TBpulmonary
 Chachoengsao,45-54,55,2004,TBpulmonary
 Nakhon Nayok,45-54,10,2004,TBpulmonary
 Prachin Buri,45-54,69,2004,TBpulmonary
 Sa Kaeo,45-54,66,2004,TBpulmonary
 Samut Prakan,45-54,85,2004,TBpulmonary
-Zone 9,45-54,224,2004,TBpulmonary
+Zone:9,45-54,224,2004,TBpulmonary
 Chanthaburi,45-54,62,2004,TBpulmonary
 Chon Buri,45-54,78,2004,TBpulmonary
 Rayong,45-54,56,2004,TBpulmonary
 Trat,45-54,28,2004,TBpulmonary
 North-Eastern Region,45-54,1838,2004,TBpulmonary
-Zone 10,45-54,268,2004,TBpulmonary
+Zone:10,45-54,268,2004,TBpulmonary
 Loei,45-54,29,2004,TBpulmonary
 Nong Bua Lam Phu,45-54,67,2004,TBpulmonary
 Nong Khai,45-54,39,2004,TBpulmonary
 Udon Thani,45-54,133,2004,TBpulmonary
-Zone 11,45-54,258,2004,TBpulmonary
+Zone:11,45-54,258,2004,TBpulmonary
 Kalasin,45-54,104,2004,TBpulmonary
 Mukdahan,45-54,27,2004,TBpulmonary
 Nakhon Phanom,45-54,36,2004,TBpulmonary
 Sakon Nakhon,45-54,91,2004,TBpulmonary
-Zone 12,45-54,268,2004,TBpulmonary
+Zone:12,45-54,268,2004,TBpulmonary
 Khon Kaen,45-54,129,2004,TBpulmonary
 Maha Sarakham,45-54,41,2004,TBpulmonary
 Roi Et,45-54,98,2004,TBpulmonary
-Zone 13,45-54,526,2004,TBpulmonary
+Zone:13,45-54,526,2004,TBpulmonary
 Buri Ram,45-54,98,2004,TBpulmonary
 Chaiyaphum,45-54,63,2004,TBpulmonary
 Nakhon Ratchasima,45-54,208,2004,TBpulmonary
 Surin,45-54,157,2004,TBpulmonary
-Zone 14,45-54,518,2004,TBpulmonary
+Zone:14,45-54,518,2004,TBpulmonary
 Amnat Charoen,45-54,65,2004,TBpulmonary
 Si Sa Ket,45-54,335,2004,TBpulmonary
 Ubon Ratchathani,45-54,71,2004,TBpulmonary
 Yasothon,45-54,47,2004,TBpulmonary
 South Region,45-54,608,2004,TBpulmonary
-Zone 15,45-54,120,2004,TBpulmonary
+Zone:15,45-54,120,2004,TBpulmonary
 Chumphon,45-54,41,2004,TBpulmonary
 Ranong,45-54,18,2004,TBpulmonary
 Surat Thani,45-54,61,2004,TBpulmonary
-Zone 16,45-54,195,2004,TBpulmonary
+Zone:16,45-54,195,2004,TBpulmonary
 Nakhon Si Thammarat,45-54,126,2004,TBpulmonary
 Phatthalung,45-54,33,2004,TBpulmonary
 Trang,45-54,36,2004,TBpulmonary
-Zone 17,45-54,53,2004,TBpulmonary
+Zone:17,45-54,53,2004,TBpulmonary
 Krabi,45-54,20,2004,TBpulmonary
 Phangnga,45-54,3,2004,TBpulmonary
 Phuket,45-54,30,2004,TBpulmonary
-Zone 18,45-54,153,2004,TBpulmonary
+Zone:18,45-54,153,2004,TBpulmonary
 Narathiwat,45-54,63,2004,TBpulmonary
 Pattani,45-54,60,2004,TBpulmonary
 Yala,45-54,30,2004,TBpulmonary
-Zone 19,45-54,87,2004,TBpulmonary
+Zone:19,45-54,87,2004,TBpulmonary
 Satun,45-54,21,2004,TBpulmonary
 Songkhla,45-54,66,2004,TBpulmonary
 Total,55-64,4455,2004,TBpulmonary
 North Region,55-64,781,2004,TBpulmonary
-Zone 1,55-64,417,2004,TBpulmonary
+Zone:1,55-64,417,2004,TBpulmonary
 Chiang Mai,55-64,42,2004,TBpulmonary
 Chiang Rai,55-64,76,2004,TBpulmonary
 Lampang,55-64,136,2004,TBpulmonary
@@ -29050,98 +29050,98 @@ Mae Hong Son,55-64,10,2004,TBpulmonary
 Nan,55-64,32,2004,TBpulmonary
 Phayao,55-64,52,2004,TBpulmonary
 Phrae,55-64,35,2004,TBpulmonary
-Zone 2,55-64,164,2004,TBpulmonary
+Zone:2,55-64,164,2004,TBpulmonary
 Phetchabun,55-64,40,2004,TBpulmonary
 Phitsanulok,55-64,21,2004,TBpulmonary
 Sukhothai,55-64,56,2004,TBpulmonary
 Tak,55-64,28,2004,TBpulmonary
 Uttaradit,55-64,19,2004,TBpulmonary
-Zone 3,55-64,200,2004,TBpulmonary
+Zone:3,55-64,200,2004,TBpulmonary
 Kamphaeng Phet,55-64,61,2004,TBpulmonary
 Nakhon Sawan,55-64,69,2004,TBpulmonary
 Phichit,55-64,51,2004,TBpulmonary
 Uthai Thani,55-64,19,2004,TBpulmonary
 Central Region,55-64,1213,2004,TBpulmonary
 Bangkok,55-64,330,2004,TBpulmonary
-Zone 4,55-64,94,2004,TBpulmonary
+Zone:4,55-64,94,2004,TBpulmonary
 Ang Thong,55-64,9,2004,TBpulmonary
 Nonthaburi,55-64,42,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,55-64,27,2004,TBpulmonary
 Pathum Thani,55-64,16,2004,TBpulmonary
-Zone 5,55-64,127,2004,TBpulmonary
+Zone:5,55-64,127,2004,TBpulmonary
 Chai Nat,55-64,20,2004,TBpulmonary
 Lop Buri,55-64,41,2004,TBpulmonary
 Saraburi,55-64,53,2004,TBpulmonary
 Sing Buri,55-64,13,2004,TBpulmonary
-Zone 6,55-64,168,2004,TBpulmonary
+Zone:6,55-64,168,2004,TBpulmonary
 Kanchanaburi,55-64,38,2004,TBpulmonary
 Nakhon Pathom,55-64,40,2004,TBpulmonary
 Ratchaburi,55-64,45,2004,TBpulmonary
 Suphan Buri,55-64,45,2004,TBpulmonary
-Zone 7,55-64,106,2004,TBpulmonary
+Zone:7,55-64,106,2004,TBpulmonary
 Phetchaburi,55-64,40,2004,TBpulmonary
 Prachuap Khiri Khan,55-64,24,2004,TBpulmonary
 Samut Sakhon,55-64,22,2004,TBpulmonary
 Samut Songkhram,55-64,20,2004,TBpulmonary
-Zone 8,55-64,213,2004,TBpulmonary
+Zone:8,55-64,213,2004,TBpulmonary
 Chachoengsao,55-64,40,2004,TBpulmonary
 Nakhon Nayok,55-64,9,2004,TBpulmonary
 Prachin Buri,55-64,52,2004,TBpulmonary
 Sa Kaeo,55-64,55,2004,TBpulmonary
 Samut Prakan,55-64,57,2004,TBpulmonary
-Zone 9,55-64,175,2004,TBpulmonary
+Zone:9,55-64,175,2004,TBpulmonary
 Chanthaburi,55-64,52,2004,TBpulmonary
 Chon Buri,55-64,59,2004,TBpulmonary
 Rayong,55-64,44,2004,TBpulmonary
 Trat,55-64,20,2004,TBpulmonary
 North-Eastern Region,55-64,1999,2004,TBpulmonary
-Zone 10,55-64,265,2004,TBpulmonary
+Zone:10,55-64,265,2004,TBpulmonary
 Loei,55-64,26,2004,TBpulmonary
 Nong Bua Lam Phu,55-64,76,2004,TBpulmonary
 Nong Khai,55-64,34,2004,TBpulmonary
 Udon Thani,55-64,129,2004,TBpulmonary
-Zone 11,55-64,253,2004,TBpulmonary
+Zone:11,55-64,253,2004,TBpulmonary
 Kalasin,55-64,111,2004,TBpulmonary
 Mukdahan,55-64,24,2004,TBpulmonary
 Nakhon Phanom,55-64,36,2004,TBpulmonary
 Sakon Nakhon,55-64,82,2004,TBpulmonary
-Zone 12,55-64,285,2004,TBpulmonary
+Zone:12,55-64,285,2004,TBpulmonary
 Khon Kaen,55-64,120,2004,TBpulmonary
 Maha Sarakham,55-64,40,2004,TBpulmonary
 Roi Et,55-64,125,2004,TBpulmonary
-Zone 13,55-64,591,2004,TBpulmonary
+Zone:13,55-64,591,2004,TBpulmonary
 Buri Ram,55-64,102,2004,TBpulmonary
 Chaiyaphum,55-64,63,2004,TBpulmonary
 Nakhon Ratchasima,55-64,236,2004,TBpulmonary
 Surin,55-64,190,2004,TBpulmonary
-Zone 14,55-64,605,2004,TBpulmonary
+Zone:14,55-64,605,2004,TBpulmonary
 Amnat Charoen,55-64,67,2004,TBpulmonary
 Si Sa Ket,55-64,403,2004,TBpulmonary
 Ubon Ratchathani,55-64,84,2004,TBpulmonary
 Yasothon,55-64,51,2004,TBpulmonary
 South Region,55-64,462,2004,TBpulmonary
-Zone 15,55-64,80,2004,TBpulmonary
+Zone:15,55-64,80,2004,TBpulmonary
 Chumphon,55-64,25,2004,TBpulmonary
 Ranong,55-64,13,2004,TBpulmonary
 Surat Thani,55-64,42,2004,TBpulmonary
-Zone 16,55-64,125,2004,TBpulmonary
+Zone:16,55-64,125,2004,TBpulmonary
 Nakhon Si Thammarat,55-64,79,2004,TBpulmonary
 Phatthalung,55-64,23,2004,TBpulmonary
 Trang,55-64,23,2004,TBpulmonary
-Zone 17,55-64,32,2004,TBpulmonary
+Zone:17,55-64,32,2004,TBpulmonary
 Krabi,55-64,12,2004,TBpulmonary
 Phangnga,55-64,5,2004,TBpulmonary
 Phuket,55-64,15,2004,TBpulmonary
-Zone 18,55-64,133,2004,TBpulmonary
+Zone:18,55-64,133,2004,TBpulmonary
 Narathiwat,55-64,42,2004,TBpulmonary
 Pattani,55-64,60,2004,TBpulmonary
 Yala,55-64,31,2004,TBpulmonary
-Zone 19,55-64,92,2004,TBpulmonary
+Zone:19,55-64,92,2004,TBpulmonary
 Satun,55-64,13,2004,TBpulmonary
 Songkhla,55-64,79,2004,TBpulmonary
 Total,65+,6690,2004,TBpulmonary
 North Region,65+,1436,2004,TBpulmonary
-Zone 1,65+,766,2004,TBpulmonary
+Zone:1,65+,766,2004,TBpulmonary
 Chiang Mai,65+,83,2004,TBpulmonary
 Chiang Rai,65+,146,2004,TBpulmonary
 Lampang,65+,277,2004,TBpulmonary
@@ -29150,98 +29150,98 @@ Mae Hong Son,65+,22,2004,TBpulmonary
 Nan,65+,66,2004,TBpulmonary
 Phayao,65+,56,2004,TBpulmonary
 Phrae,65+,56,2004,TBpulmonary
-Zone 2,65+,322,2004,TBpulmonary
+Zone:2,65+,322,2004,TBpulmonary
 Phetchabun,65+,74,2004,TBpulmonary
 Phitsanulok,65+,59,2004,TBpulmonary
 Sukhothai,65+,87,2004,TBpulmonary
 Tak,65+,43,2004,TBpulmonary
 Uttaradit,65+,59,2004,TBpulmonary
-Zone 3,65+,348,2004,TBpulmonary
+Zone:3,65+,348,2004,TBpulmonary
 Kamphaeng Phet,65+,91,2004,TBpulmonary
 Nakhon Sawan,65+,121,2004,TBpulmonary
 Phichit,65+,95,2004,TBpulmonary
 Uthai Thani,65+,41,2004,TBpulmonary
 Central Region,65+,1791,2004,TBpulmonary
 Bangkok,65+,384,2004,TBpulmonary
-Zone 4,65+,118,2004,TBpulmonary
+Zone:4,65+,118,2004,TBpulmonary
 Ang Thong,65+,14,2004,TBpulmonary
 Nonthaburi,65+,44,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,65+,37,2004,TBpulmonary
 Pathum Thani,65+,23,2004,TBpulmonary
-Zone 5,65+,246,2004,TBpulmonary
+Zone:5,65+,246,2004,TBpulmonary
 Chai Nat,65+,38,2004,TBpulmonary
 Lop Buri,65+,73,2004,TBpulmonary
 Saraburi,65+,96,2004,TBpulmonary
 Sing Buri,65+,39,2004,TBpulmonary
-Zone 6,65+,279,2004,TBpulmonary
+Zone:6,65+,279,2004,TBpulmonary
 Kanchanaburi,65+,57,2004,TBpulmonary
 Nakhon Pathom,65+,55,2004,TBpulmonary
 Ratchaburi,65+,97,2004,TBpulmonary
 Suphan Buri,65+,70,2004,TBpulmonary
-Zone 7,65+,205,2004,TBpulmonary
+Zone:7,65+,205,2004,TBpulmonary
 Phetchaburi,65+,95,2004,TBpulmonary
 Prachuap Khiri Khan,65+,52,2004,TBpulmonary
 Samut Sakhon,65+,33,2004,TBpulmonary
 Samut Songkhram,65+,25,2004,TBpulmonary
-Zone 8,65+,352,2004,TBpulmonary
+Zone:8,65+,352,2004,TBpulmonary
 Chachoengsao,65+,71,2004,TBpulmonary
 Nakhon Nayok,65+,18,2004,TBpulmonary
 Prachin Buri,65+,110,2004,TBpulmonary
 Sa Kaeo,65+,73,2004,TBpulmonary
 Samut Prakan,65+,80,2004,TBpulmonary
-Zone 9,65+,207,2004,TBpulmonary
+Zone:9,65+,207,2004,TBpulmonary
 Chanthaburi,65+,72,2004,TBpulmonary
 Chon Buri,65+,81,2004,TBpulmonary
 Rayong,65+,33,2004,TBpulmonary
 Trat,65+,21,2004,TBpulmonary
 North-Eastern Region,65+,2685,2004,TBpulmonary
-Zone 10,65+,313,2004,TBpulmonary
+Zone:10,65+,313,2004,TBpulmonary
 Loei,65+,34,2004,TBpulmonary
 Nong Bua Lam Phu,65+,84,2004,TBpulmonary
 Nong Khai,65+,48,2004,TBpulmonary
 Udon Thani,65+,147,2004,TBpulmonary
-Zone 11,65+,334,2004,TBpulmonary
+Zone:11,65+,334,2004,TBpulmonary
 Kalasin,65+,133,2004,TBpulmonary
 Mukdahan,65+,47,2004,TBpulmonary
 Nakhon Phanom,65+,56,2004,TBpulmonary
 Sakon Nakhon,65+,98,2004,TBpulmonary
-Zone 12,65+,335,2004,TBpulmonary
+Zone:12,65+,335,2004,TBpulmonary
 Khon Kaen,65+,138,2004,TBpulmonary
 Maha Sarakham,65+,64,2004,TBpulmonary
 Roi Et,65+,133,2004,TBpulmonary
-Zone 13,65+,848,2004,TBpulmonary
+Zone:13,65+,848,2004,TBpulmonary
 Buri Ram,65+,161,2004,TBpulmonary
 Chaiyaphum,65+,89,2004,TBpulmonary
 Nakhon Ratchasima,65+,346,2004,TBpulmonary
 Surin,65+,252,2004,TBpulmonary
-Zone 14,65+,855,2004,TBpulmonary
+Zone:14,65+,855,2004,TBpulmonary
 Amnat Charoen,65+,106,2004,TBpulmonary
 Si Sa Ket,65+,542,2004,TBpulmonary
 Ubon Ratchathani,65+,157,2004,TBpulmonary
 Yasothon,65+,50,2004,TBpulmonary
 South Region,65+,778,2004,TBpulmonary
-Zone 15,65+,138,2004,TBpulmonary
+Zone:15,65+,138,2004,TBpulmonary
 Chumphon,65+,51,2004,TBpulmonary
 Ranong,65+,16,2004,TBpulmonary
 Surat Thani,65+,71,2004,TBpulmonary
-Zone 16,65+,263,2004,TBpulmonary
+Zone:16,65+,263,2004,TBpulmonary
 Nakhon Si Thammarat,65+,170,2004,TBpulmonary
 Phatthalung,65+,48,2004,TBpulmonary
 Trang,65+,45,2004,TBpulmonary
-Zone 17,65+,48,2004,TBpulmonary
+Zone:17,65+,48,2004,TBpulmonary
 Krabi,65+,23,2004,TBpulmonary
 Phangnga,65+,5,2004,TBpulmonary
 Phuket,65+,20,2004,TBpulmonary
-Zone 18,65+,180,2004,TBpulmonary
+Zone:18,65+,180,2004,TBpulmonary
 Narathiwat,65+,72,2004,TBpulmonary
 Pattani,65+,79,2004,TBpulmonary
 Yala,65+,29,2004,TBpulmonary
-Zone 19,65+,149,2004,TBpulmonary
+Zone:19,65+,149,2004,TBpulmonary
 Satun,65+,46,2004,TBpulmonary
 Songkhla,65+,103,2004,TBpulmonary
 Total,Unknown,39,2004,TBpulmonary
 North Region,Unknown,0,2004,TBpulmonary
-Zone 1,Unknown,0,2004,TBpulmonary
+Zone:1,Unknown,0,2004,TBpulmonary
 Chiang Mai,Unknown,0,2004,TBpulmonary
 Chiang Rai,Unknown,0,2004,TBpulmonary
 Lampang,Unknown,0,2004,TBpulmonary
@@ -29250,93 +29250,93 @@ Mae Hong Son,Unknown,0,2004,TBpulmonary
 Nan,Unknown,0,2004,TBpulmonary
 Phayao,Unknown,0,2004,TBpulmonary
 Phrae,Unknown,0,2004,TBpulmonary
-Zone 2,Unknown,0,2004,TBpulmonary
+Zone:2,Unknown,0,2004,TBpulmonary
 Phetchabun,Unknown,0,2004,TBpulmonary
 Phitsanulok,Unknown,0,2004,TBpulmonary
 Sukhothai,Unknown,0,2004,TBpulmonary
 Tak,Unknown,0,2004,TBpulmonary
 Uttaradit,Unknown,0,2004,TBpulmonary
-Zone 3,Unknown,0,2004,TBpulmonary
+Zone:3,Unknown,0,2004,TBpulmonary
 Kamphaeng Phet,Unknown,0,2004,TBpulmonary
 Nakhon Sawan,Unknown,0,2004,TBpulmonary
 Phichit,Unknown,0,2004,TBpulmonary
 Uthai Thani,Unknown,0,2004,TBpulmonary
 Central Region,Unknown,34,2004,TBpulmonary
 Bangkok,Unknown,32,2004,TBpulmonary
-Zone 4,Unknown,0,2004,TBpulmonary
+Zone:4,Unknown,0,2004,TBpulmonary
 Ang Thong,Unknown,0,2004,TBpulmonary
 Nonthaburi,Unknown,0,2004,TBpulmonary
 P.Nakhon S.Ayutthaya,Unknown,0,2004,TBpulmonary
 Pathum Thani,Unknown,0,2004,TBpulmonary
-Zone 5,Unknown,0,2004,TBpulmonary
+Zone:5,Unknown,0,2004,TBpulmonary
 Chai Nat,Unknown,0,2004,TBpulmonary
 Lop Buri,Unknown,0,2004,TBpulmonary
 Saraburi,Unknown,0,2004,TBpulmonary
 Sing Buri,Unknown,0,2004,TBpulmonary
-Zone 6,Unknown,0,2004,TBpulmonary
+Zone:6,Unknown,0,2004,TBpulmonary
 Kanchanaburi,Unknown,0,2004,TBpulmonary
 Nakhon Pathom,Unknown,0,2004,TBpulmonary
 Ratchaburi,Unknown,0,2004,TBpulmonary
 Suphan Buri,Unknown,0,2004,TBpulmonary
-Zone 7,Unknown,1,2004,TBpulmonary
+Zone:7,Unknown,1,2004,TBpulmonary
 Phetchaburi,Unknown,0,2004,TBpulmonary
 Prachuap Khiri Khan,Unknown,0,2004,TBpulmonary
 Samut Sakhon,Unknown,0,2004,TBpulmonary
 Samut Songkhram,Unknown,1,2004,TBpulmonary
-Zone 8,Unknown,0,2004,TBpulmonary
+Zone:8,Unknown,0,2004,TBpulmonary
 Chachoengsao,Unknown,0,2004,TBpulmonary
 Nakhon Nayok,Unknown,0,2004,TBpulmonary
 Prachin Buri,Unknown,0,2004,TBpulmonary
 Sa Kaeo,Unknown,0,2004,TBpulmonary
 Samut Prakan,Unknown,0,2004,TBpulmonary
-Zone 9,Unknown,1,2004,TBpulmonary
+Zone:9,Unknown,1,2004,TBpulmonary
 Chanthaburi,Unknown,0,2004,TBpulmonary
 Chon Buri,Unknown,0,2004,TBpulmonary
 Rayong,Unknown,1,2004,TBpulmonary
 Trat,Unknown,0,2004,TBpulmonary
 North-Eastern Region,Unknown,5,2004,TBpulmonary
-Zone 10,Unknown,1,2004,TBpulmonary
+Zone:10,Unknown,1,2004,TBpulmonary
 Loei,Unknown,0,2004,TBpulmonary
 Nong Bua Lam Phu,Unknown,0,2004,TBpulmonary
 Nong Khai,Unknown,0,2004,TBpulmonary
 Udon Thani,Unknown,1,2004,TBpulmonary
-Zone 11,Unknown,3,2004,TBpulmonary
+Zone:11,Unknown,3,2004,TBpulmonary
 Kalasin,Unknown,0,2004,TBpulmonary
 Mukdahan,Unknown,3,2004,TBpulmonary
 Nakhon Phanom,Unknown,0,2004,TBpulmonary
 Sakon Nakhon,Unknown,0,2004,TBpulmonary
-Zone 12,Unknown,0,2004,TBpulmonary
+Zone:12,Unknown,0,2004,TBpulmonary
 Khon Kaen,Unknown,0,2004,TBpulmonary
 Maha Sarakham,Unknown,0,2004,TBpulmonary
 Roi Et,Unknown,0,2004,TBpulmonary
-Zone 13,Unknown,0,2004,TBpulmonary
+Zone:13,Unknown,0,2004,TBpulmonary
 Buri Ram,Unknown,0,2004,TBpulmonary
 Chaiyaphum,Unknown,0,2004,TBpulmonary
 Nakhon Ratchasima,Unknown,0,2004,TBpulmonary
 Surin,Unknown,0,2004,TBpulmonary
-Zone 14,Unknown,1,2004,TBpulmonary
+Zone:14,Unknown,1,2004,TBpulmonary
 Amnat Charoen,Unknown,1,2004,TBpulmonary
 Si Sa Ket,Unknown,0,2004,TBpulmonary
 Ubon Ratchathani,Unknown,0,2004,TBpulmonary
 Yasothon,Unknown,0,2004,TBpulmonary
 South Region,Unknown,0,2004,TBpulmonary
-Zone 15,Unknown,0,2004,TBpulmonary
+Zone:15,Unknown,0,2004,TBpulmonary
 Chumphon,Unknown,0,2004,TBpulmonary
 Ranong,Unknown,0,2004,TBpulmonary
 Surat Thani,Unknown,0,2004,TBpulmonary
-Zone 16,Unknown,0,2004,TBpulmonary
+Zone:16,Unknown,0,2004,TBpulmonary
 Nakhon Si Thammarat,Unknown,0,2004,TBpulmonary
 Phatthalung,Unknown,0,2004,TBpulmonary
 Trang,Unknown,0,2004,TBpulmonary
-Zone 17,Unknown,0,2004,TBpulmonary
+Zone:17,Unknown,0,2004,TBpulmonary
 Krabi,Unknown,0,2004,TBpulmonary
 Phangnga,Unknown,0,2004,TBpulmonary
 Phuket,Unknown,0,2004,TBpulmonary
-Zone 18,Unknown,0,2004,TBpulmonary
+Zone:18,Unknown,0,2004,TBpulmonary
 Narathiwat,Unknown,0,2004,TBpulmonary
 Pattani,Unknown,0,2004,TBpulmonary
 Yala,Unknown,0,2004,TBpulmonary
-Zone 19,Unknown,0,2004,TBpulmonary
+Zone:19,Unknown,0,2004,TBpulmonary
 Satun,Unknown,0,2004,TBpulmonary
 Songkhla,Unknown,0,2004,TBpulmonary
 Total,Total,7850,2021,TBpulmonary

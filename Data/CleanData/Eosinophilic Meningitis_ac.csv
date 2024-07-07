@@ -3277,7 +3277,7 @@ ZONE:13,Unknown,0,2017,Eosinophilic
 Bangkok,Unknown,0,2017,Eosinophilic
 Total,Total,307,2003,Eosinophilic
 North Region,Total,7,2003,Eosinophilic
-Zone 1,Total,3,2003,Eosinophilic
+Zone:1,Total,3,2003,Eosinophilic
 Chiang Mai,Total,0,2003,Eosinophilic
 Chiang Rai,Total,0,2003,Eosinophilic
 Lampang,Total,0,2003,Eosinophilic
@@ -3286,98 +3286,98 @@ Mae Hong Son,Total,0,2003,Eosinophilic
 Nan,Total,1,2003,Eosinophilic
 Phayao,Total,2,2003,Eosinophilic
 Phrae,Total,0,2003,Eosinophilic
-Zone 2,Total,3,2003,Eosinophilic
+Zone:2,Total,3,2003,Eosinophilic
 Phetchabun,Total,0,2003,Eosinophilic
 Phitsanulok,Total,0,2003,Eosinophilic
 Sukhothai,Total,0,2003,Eosinophilic
 Tak,Total,3,2003,Eosinophilic
 Uttaradit,Total,0,2003,Eosinophilic
-Zone 3,Total,1,2003,Eosinophilic
+Zone:3,Total,1,2003,Eosinophilic
 Kamphaeng Phet,Total,1,2003,Eosinophilic
 Nakhon Sawan,Total,0,2003,Eosinophilic
 Phichit,Total,0,2003,Eosinophilic
 Uthai Thani,Total,0,2003,Eosinophilic
 Central Region,Total,8,2003,Eosinophilic
 Bangkok,Total,0,2003,Eosinophilic
-Zone 4,Total,2,2003,Eosinophilic
+Zone:4,Total,2,2003,Eosinophilic
 Ang Thong,Total,0,2003,Eosinophilic
 Nonthaburi,Total,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,Total,0,2003,Eosinophilic
 Pathum Thani,Total,2,2003,Eosinophilic
-Zone 5,Total,1,2003,Eosinophilic
+Zone:5,Total,1,2003,Eosinophilic
 Chai Nat,Total,0,2003,Eosinophilic
 Lop Buri,Total,0,2003,Eosinophilic
 Saraburi,Total,1,2003,Eosinophilic
 Sing Buri,Total,0,2003,Eosinophilic
-Zone 6,Total,0,2003,Eosinophilic
+Zone:6,Total,0,2003,Eosinophilic
 Kanchanaburi,Total,0,2003,Eosinophilic
 Nakhon Pathom,Total,0,2003,Eosinophilic
 Ratchaburi,Total,0,2003,Eosinophilic
 Suphan Buri,Total,0,2003,Eosinophilic
-Zone 7,Total,0,2003,Eosinophilic
+Zone:7,Total,0,2003,Eosinophilic
 Phetchaburi,Total,0,2003,Eosinophilic
 Prachuap Khiri Khan,Total,0,2003,Eosinophilic
 Samut Sakhon,Total,0,2003,Eosinophilic
 Samut Songkhram,Total,0,2003,Eosinophilic
-Zone 8,Total,0,2003,Eosinophilic
+Zone:8,Total,0,2003,Eosinophilic
 Chachoengsao,Total,0,2003,Eosinophilic
 Nakhon Nayok,Total,0,2003,Eosinophilic
 Prachin Buri,Total,0,2003,Eosinophilic
 Sa Kaeo,Total,0,2003,Eosinophilic
 Samut Prakan,Total,0,2003,Eosinophilic
-Zone 9,Total,5,2003,Eosinophilic
+Zone:9,Total,5,2003,Eosinophilic
 Chanthaburi,Total,3,2003,Eosinophilic
 Chon Buri,Total,0,2003,Eosinophilic
 Rayong,Total,2,2003,Eosinophilic
 Trat,Total,0,2003,Eosinophilic
 North-Eastern Region,Total,289,2003,Eosinophilic
-Zone 10,Total,146,2003,Eosinophilic
+Zone:10,Total,146,2003,Eosinophilic
 Loei,Total,142,2003,Eosinophilic
 Nong Bua Lam Phu,Total,1,2003,Eosinophilic
 Nong Khai,Total,0,2003,Eosinophilic
 Udon Thani,Total,3,2003,Eosinophilic
-Zone 11,Total,18,2003,Eosinophilic
+Zone:11,Total,18,2003,Eosinophilic
 Kalasin,Total,18,2003,Eosinophilic
 Mukdahan,Total,0,2003,Eosinophilic
 Nakhon Phanom,Total,0,2003,Eosinophilic
 Sakon Nakhon,Total,0,2003,Eosinophilic
-Zone 12,Total,41,2003,Eosinophilic
+Zone:12,Total,41,2003,Eosinophilic
 Khon Kaen,Total,16,2003,Eosinophilic
 Maha Sarakham,Total,6,2003,Eosinophilic
 Roi Et,Total,19,2003,Eosinophilic
-Zone 13,Total,84,2003,Eosinophilic
+Zone:13,Total,84,2003,Eosinophilic
 Buri Ram,Total,48,2003,Eosinophilic
 Chaiyaphum,Total,31,2003,Eosinophilic
 Nakhon Ratchasima,Total,5,2003,Eosinophilic
 Surin,Total,0,2003,Eosinophilic
-Zone 14,Total,0,2003,Eosinophilic
+Zone:14,Total,0,2003,Eosinophilic
 Amnat Charoen,Total,0,2003,Eosinophilic
 Si Sa Ket,Total,0,2003,Eosinophilic
 Ubon Ratchathani,Total,0,2003,Eosinophilic
 Yasothon,Total,0,2003,Eosinophilic
 South Region,Total,3,2003,Eosinophilic
-Zone 15,Total,1,2003,Eosinophilic
+Zone:15,Total,1,2003,Eosinophilic
 Chumphon,Total,1,2003,Eosinophilic
 Ranong,Total,0,2003,Eosinophilic
 Surat Thani,Total,0,2003,Eosinophilic
-Zone 16,Total,0,2003,Eosinophilic
+Zone:16,Total,0,2003,Eosinophilic
 Nakhon Si Thammarat,Total,0,2003,Eosinophilic
 Phatthalung,Total,0,2003,Eosinophilic
 Trang,Total,0,2003,Eosinophilic
-Zone 17,Total,2,2003,Eosinophilic
+Zone:17,Total,2,2003,Eosinophilic
 Krabi,Total,0,2003,Eosinophilic
 Phangnga,Total,0,2003,Eosinophilic
 Phuket,Total,2,2003,Eosinophilic
-Zone 18,Total,0,2003,Eosinophilic
+Zone:18,Total,0,2003,Eosinophilic
 Narathiwat,Total,0,2003,Eosinophilic
 Pattani,Total,0,2003,Eosinophilic
 Yala,Total,0,2003,Eosinophilic
-Zone 19,Total,0,2003,Eosinophilic
+Zone:19,Total,0,2003,Eosinophilic
 Satun,Total,0,2003,Eosinophilic
 Songkhla,Total,0,2003,Eosinophilic
 Total,0,0,2003,Eosinophilic
 North Region,0,0,2003,Eosinophilic
-Zone 1,0,0,2003,Eosinophilic
+Zone:1,0,0,2003,Eosinophilic
 Chiang Mai,0,0,2003,Eosinophilic
 Chiang Rai,0,0,2003,Eosinophilic
 Lampang,0,0,2003,Eosinophilic
@@ -3386,98 +3386,98 @@ Mae Hong Son,0,0,2003,Eosinophilic
 Nan,0,0,2003,Eosinophilic
 Phayao,0,0,2003,Eosinophilic
 Phrae,0,0,2003,Eosinophilic
-Zone 2,0,0,2003,Eosinophilic
+Zone:2,0,0,2003,Eosinophilic
 Phetchabun,0,0,2003,Eosinophilic
 Phitsanulok,0,0,2003,Eosinophilic
 Sukhothai,0,0,2003,Eosinophilic
 Tak,0,0,2003,Eosinophilic
 Uttaradit,0,0,2003,Eosinophilic
-Zone 3,0,0,2003,Eosinophilic
+Zone:3,0,0,2003,Eosinophilic
 Kamphaeng Phet,0,0,2003,Eosinophilic
 Nakhon Sawan,0,0,2003,Eosinophilic
 Phichit,0,0,2003,Eosinophilic
 Uthai Thani,0,0,2003,Eosinophilic
 Central Region,0,0,2003,Eosinophilic
 Bangkok,0,0,2003,Eosinophilic
-Zone 4,0,0,2003,Eosinophilic
+Zone:4,0,0,2003,Eosinophilic
 Ang Thong,0,0,2003,Eosinophilic
 Nonthaburi,0,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,0,0,2003,Eosinophilic
 Pathum Thani,0,0,2003,Eosinophilic
-Zone 5,0,0,2003,Eosinophilic
+Zone:5,0,0,2003,Eosinophilic
 Chai Nat,0,0,2003,Eosinophilic
 Lop Buri,0,0,2003,Eosinophilic
 Saraburi,0,0,2003,Eosinophilic
 Sing Buri,0,0,2003,Eosinophilic
-Zone 6,0,0,2003,Eosinophilic
+Zone:6,0,0,2003,Eosinophilic
 Kanchanaburi,0,0,2003,Eosinophilic
 Nakhon Pathom,0,0,2003,Eosinophilic
 Ratchaburi,0,0,2003,Eosinophilic
 Suphan Buri,0,0,2003,Eosinophilic
-Zone 7,0,0,2003,Eosinophilic
+Zone:7,0,0,2003,Eosinophilic
 Phetchaburi,0,0,2003,Eosinophilic
 Prachuap Khiri Khan,0,0,2003,Eosinophilic
 Samut Sakhon,0,0,2003,Eosinophilic
 Samut Songkhram,0,0,2003,Eosinophilic
-Zone 8,0,0,2003,Eosinophilic
+Zone:8,0,0,2003,Eosinophilic
 Chachoengsao,0,0,2003,Eosinophilic
 Nakhon Nayok,0,0,2003,Eosinophilic
 Prachin Buri,0,0,2003,Eosinophilic
 Sa Kaeo,0,0,2003,Eosinophilic
 Samut Prakan,0,0,2003,Eosinophilic
-Zone 9,0,0,2003,Eosinophilic
+Zone:9,0,0,2003,Eosinophilic
 Chanthaburi,0,0,2003,Eosinophilic
 Chon Buri,0,0,2003,Eosinophilic
 Rayong,0,0,2003,Eosinophilic
 Trat,0,0,2003,Eosinophilic
 North-Eastern Region,0,0,2003,Eosinophilic
-Zone 10,0,0,2003,Eosinophilic
+Zone:10,0,0,2003,Eosinophilic
 Loei,0,0,2003,Eosinophilic
 Nong Bua Lam Phu,0,0,2003,Eosinophilic
 Nong Khai,0,0,2003,Eosinophilic
 Udon Thani,0,0,2003,Eosinophilic
-Zone 11,0,0,2003,Eosinophilic
+Zone:11,0,0,2003,Eosinophilic
 Kalasin,0,0,2003,Eosinophilic
 Mukdahan,0,0,2003,Eosinophilic
 Nakhon Phanom,0,0,2003,Eosinophilic
 Sakon Nakhon,0,0,2003,Eosinophilic
-Zone 12,0,0,2003,Eosinophilic
+Zone:12,0,0,2003,Eosinophilic
 Khon Kaen,0,0,2003,Eosinophilic
 Maha Sarakham,0,0,2003,Eosinophilic
 Roi Et,0,0,2003,Eosinophilic
-Zone 13,0,0,2003,Eosinophilic
+Zone:13,0,0,2003,Eosinophilic
 Buri Ram,0,0,2003,Eosinophilic
 Chaiyaphum,0,0,2003,Eosinophilic
 Nakhon Ratchasima,0,0,2003,Eosinophilic
 Surin,0,0,2003,Eosinophilic
-Zone 14,0,0,2003,Eosinophilic
+Zone:14,0,0,2003,Eosinophilic
 Amnat Charoen,0,0,2003,Eosinophilic
 Si Sa Ket,0,0,2003,Eosinophilic
 Ubon Ratchathani,0,0,2003,Eosinophilic
 Yasothon,0,0,2003,Eosinophilic
 South Region,0,0,2003,Eosinophilic
-Zone 15,0,0,2003,Eosinophilic
+Zone:15,0,0,2003,Eosinophilic
 Chumphon,0,0,2003,Eosinophilic
 Ranong,0,0,2003,Eosinophilic
 Surat Thani,0,0,2003,Eosinophilic
-Zone 16,0,0,2003,Eosinophilic
+Zone:16,0,0,2003,Eosinophilic
 Nakhon Si Thammarat,0,0,2003,Eosinophilic
 Phatthalung,0,0,2003,Eosinophilic
 Trang,0,0,2003,Eosinophilic
-Zone 17,0,0,2003,Eosinophilic
+Zone:17,0,0,2003,Eosinophilic
 Krabi,0,0,2003,Eosinophilic
 Phangnga,0,0,2003,Eosinophilic
 Phuket,0,0,2003,Eosinophilic
-Zone 18,0,0,2003,Eosinophilic
+Zone:18,0,0,2003,Eosinophilic
 Narathiwat,0,0,2003,Eosinophilic
 Pattani,0,0,2003,Eosinophilic
 Yala,0,0,2003,Eosinophilic
-Zone 19,0,0,2003,Eosinophilic
+Zone:19,0,0,2003,Eosinophilic
 Satun,0,0,2003,Eosinophilic
 Songkhla,0,0,2003,Eosinophilic
 Total,<1,2,2003,Eosinophilic
 North Region,<1,0,2003,Eosinophilic
-Zone 1,<1,0,2003,Eosinophilic
+Zone:1,<1,0,2003,Eosinophilic
 Chiang Mai,<1,0,2003,Eosinophilic
 Chiang Rai,<1,0,2003,Eosinophilic
 Lampang,<1,0,2003,Eosinophilic
@@ -3486,98 +3486,98 @@ Mae Hong Son,<1,0,2003,Eosinophilic
 Nan,<1,0,2003,Eosinophilic
 Phayao,<1,0,2003,Eosinophilic
 Phrae,<1,0,2003,Eosinophilic
-Zone 2,<1,0,2003,Eosinophilic
+Zone:2,<1,0,2003,Eosinophilic
 Phetchabun,<1,0,2003,Eosinophilic
 Phitsanulok,<1,0,2003,Eosinophilic
 Sukhothai,<1,0,2003,Eosinophilic
 Tak,<1,0,2003,Eosinophilic
 Uttaradit,<1,0,2003,Eosinophilic
-Zone 3,<1,0,2003,Eosinophilic
+Zone:3,<1,0,2003,Eosinophilic
 Kamphaeng Phet,<1,0,2003,Eosinophilic
 Nakhon Sawan,<1,0,2003,Eosinophilic
 Phichit,<1,0,2003,Eosinophilic
 Uthai Thani,<1,0,2003,Eosinophilic
 Central Region,<1,0,2003,Eosinophilic
 Bangkok,<1,0,2003,Eosinophilic
-Zone 4,<1,0,2003,Eosinophilic
+Zone:4,<1,0,2003,Eosinophilic
 Ang Thong,<1,0,2003,Eosinophilic
 Nonthaburi,<1,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,<1,0,2003,Eosinophilic
 Pathum Thani,<1,0,2003,Eosinophilic
-Zone 5,<1,0,2003,Eosinophilic
+Zone:5,<1,0,2003,Eosinophilic
 Chai Nat,<1,0,2003,Eosinophilic
 Lop Buri,<1,0,2003,Eosinophilic
 Saraburi,<1,0,2003,Eosinophilic
 Sing Buri,<1,0,2003,Eosinophilic
-Zone 6,<1,0,2003,Eosinophilic
+Zone:6,<1,0,2003,Eosinophilic
 Kanchanaburi,<1,0,2003,Eosinophilic
 Nakhon Pathom,<1,0,2003,Eosinophilic
 Ratchaburi,<1,0,2003,Eosinophilic
 Suphan Buri,<1,0,2003,Eosinophilic
-Zone 7,<1,0,2003,Eosinophilic
+Zone:7,<1,0,2003,Eosinophilic
 Phetchaburi,<1,0,2003,Eosinophilic
 Prachuap Khiri Khan,<1,0,2003,Eosinophilic
 Samut Sakhon,<1,0,2003,Eosinophilic
 Samut Songkhram,<1,0,2003,Eosinophilic
-Zone 8,<1,0,2003,Eosinophilic
+Zone:8,<1,0,2003,Eosinophilic
 Chachoengsao,<1,0,2003,Eosinophilic
 Nakhon Nayok,<1,0,2003,Eosinophilic
 Prachin Buri,<1,0,2003,Eosinophilic
 Sa Kaeo,<1,0,2003,Eosinophilic
 Samut Prakan,<1,0,2003,Eosinophilic
-Zone 9,<1,0,2003,Eosinophilic
+Zone:9,<1,0,2003,Eosinophilic
 Chanthaburi,<1,0,2003,Eosinophilic
 Chon Buri,<1,0,2003,Eosinophilic
 Rayong,<1,0,2003,Eosinophilic
 Trat,<1,0,2003,Eosinophilic
 North-Eastern Region,<1,2,2003,Eosinophilic
-Zone 10,<1,0,2003,Eosinophilic
+Zone:10,<1,0,2003,Eosinophilic
 Loei,<1,0,2003,Eosinophilic
 Nong Bua Lam Phu,<1,0,2003,Eosinophilic
 Nong Khai,<1,0,2003,Eosinophilic
 Udon Thani,<1,0,2003,Eosinophilic
-Zone 11,<1,2,2003,Eosinophilic
+Zone:11,<1,2,2003,Eosinophilic
 Kalasin,<1,2,2003,Eosinophilic
 Mukdahan,<1,0,2003,Eosinophilic
 Nakhon Phanom,<1,0,2003,Eosinophilic
 Sakon Nakhon,<1,0,2003,Eosinophilic
-Zone 12,<1,0,2003,Eosinophilic
+Zone:12,<1,0,2003,Eosinophilic
 Khon Kaen,<1,0,2003,Eosinophilic
 Maha Sarakham,<1,0,2003,Eosinophilic
 Roi Et,<1,0,2003,Eosinophilic
-Zone 13,<1,0,2003,Eosinophilic
+Zone:13,<1,0,2003,Eosinophilic
 Buri Ram,<1,0,2003,Eosinophilic
 Chaiyaphum,<1,0,2003,Eosinophilic
 Nakhon Ratchasima,<1,0,2003,Eosinophilic
 Surin,<1,0,2003,Eosinophilic
-Zone 14,<1,0,2003,Eosinophilic
+Zone:14,<1,0,2003,Eosinophilic
 Amnat Charoen,<1,0,2003,Eosinophilic
 Si Sa Ket,<1,0,2003,Eosinophilic
 Ubon Ratchathani,<1,0,2003,Eosinophilic
 Yasothon,<1,0,2003,Eosinophilic
 South Region,<1,0,2003,Eosinophilic
-Zone 15,<1,0,2003,Eosinophilic
+Zone:15,<1,0,2003,Eosinophilic
 Chumphon,<1,0,2003,Eosinophilic
 Ranong,<1,0,2003,Eosinophilic
 Surat Thani,<1,0,2003,Eosinophilic
-Zone 16,<1,0,2003,Eosinophilic
+Zone:16,<1,0,2003,Eosinophilic
 Nakhon Si Thammarat,<1,0,2003,Eosinophilic
 Phatthalung,<1,0,2003,Eosinophilic
 Trang,<1,0,2003,Eosinophilic
-Zone 17,<1,0,2003,Eosinophilic
+Zone:17,<1,0,2003,Eosinophilic
 Krabi,<1,0,2003,Eosinophilic
 Phangnga,<1,0,2003,Eosinophilic
 Phuket,<1,0,2003,Eosinophilic
-Zone 18,<1,0,2003,Eosinophilic
+Zone:18,<1,0,2003,Eosinophilic
 Narathiwat,<1,0,2003,Eosinophilic
 Pattani,<1,0,2003,Eosinophilic
 Yala,<1,0,2003,Eosinophilic
-Zone 19,<1,0,2003,Eosinophilic
+Zone:19,<1,0,2003,Eosinophilic
 Satun,<1,0,2003,Eosinophilic
 Songkhla,<1,0,2003,Eosinophilic
 Total,1-1,0,2003,Eosinophilic
 North Region,1-1,0,2003,Eosinophilic
-Zone 1,1-1,0,2003,Eosinophilic
+Zone:1,1-1,0,2003,Eosinophilic
 Chiang Mai,1-1,0,2003,Eosinophilic
 Chiang Rai,1-1,0,2003,Eosinophilic
 Lampang,1-1,0,2003,Eosinophilic
@@ -3586,98 +3586,98 @@ Mae Hong Son,1-1,0,2003,Eosinophilic
 Nan,1-1,0,2003,Eosinophilic
 Phayao,1-1,0,2003,Eosinophilic
 Phrae,1-1,0,2003,Eosinophilic
-Zone 2,1-1,0,2003,Eosinophilic
+Zone:2,1-1,0,2003,Eosinophilic
 Phetchabun,1-1,0,2003,Eosinophilic
 Phitsanulok,1-1,0,2003,Eosinophilic
 Sukhothai,1-1,0,2003,Eosinophilic
 Tak,1-1,0,2003,Eosinophilic
 Uttaradit,1-1,0,2003,Eosinophilic
-Zone 3,1-1,0,2003,Eosinophilic
+Zone:3,1-1,0,2003,Eosinophilic
 Kamphaeng Phet,1-1,0,2003,Eosinophilic
 Nakhon Sawan,1-1,0,2003,Eosinophilic
 Phichit,1-1,0,2003,Eosinophilic
 Uthai Thani,1-1,0,2003,Eosinophilic
 Central Region,1-1,0,2003,Eosinophilic
 Bangkok,1-1,0,2003,Eosinophilic
-Zone 4,1-1,0,2003,Eosinophilic
+Zone:4,1-1,0,2003,Eosinophilic
 Ang Thong,1-1,0,2003,Eosinophilic
 Nonthaburi,1-1,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,1-1,0,2003,Eosinophilic
 Pathum Thani,1-1,0,2003,Eosinophilic
-Zone 5,1-1,0,2003,Eosinophilic
+Zone:5,1-1,0,2003,Eosinophilic
 Chai Nat,1-1,0,2003,Eosinophilic
 Lop Buri,1-1,0,2003,Eosinophilic
 Saraburi,1-1,0,2003,Eosinophilic
 Sing Buri,1-1,0,2003,Eosinophilic
-Zone 6,1-1,0,2003,Eosinophilic
+Zone:6,1-1,0,2003,Eosinophilic
 Kanchanaburi,1-1,0,2003,Eosinophilic
 Nakhon Pathom,1-1,0,2003,Eosinophilic
 Ratchaburi,1-1,0,2003,Eosinophilic
 Suphan Buri,1-1,0,2003,Eosinophilic
-Zone 7,1-1,0,2003,Eosinophilic
+Zone:7,1-1,0,2003,Eosinophilic
 Phetchaburi,1-1,0,2003,Eosinophilic
 Prachuap Khiri Khan,1-1,0,2003,Eosinophilic
 Samut Sakhon,1-1,0,2003,Eosinophilic
 Samut Songkhram,1-1,0,2003,Eosinophilic
-Zone 8,1-1,0,2003,Eosinophilic
+Zone:8,1-1,0,2003,Eosinophilic
 Chachoengsao,1-1,0,2003,Eosinophilic
 Nakhon Nayok,1-1,0,2003,Eosinophilic
 Prachin Buri,1-1,0,2003,Eosinophilic
 Sa Kaeo,1-1,0,2003,Eosinophilic
 Samut Prakan,1-1,0,2003,Eosinophilic
-Zone 9,1-1,0,2003,Eosinophilic
+Zone:9,1-1,0,2003,Eosinophilic
 Chanthaburi,1-1,0,2003,Eosinophilic
 Chon Buri,1-1,0,2003,Eosinophilic
 Rayong,1-1,0,2003,Eosinophilic
 Trat,1-1,0,2003,Eosinophilic
 North-Eastern Region,1-1,0,2003,Eosinophilic
-Zone 10,1-1,0,2003,Eosinophilic
+Zone:10,1-1,0,2003,Eosinophilic
 Loei,1-1,0,2003,Eosinophilic
 Nong Bua Lam Phu,1-1,0,2003,Eosinophilic
 Nong Khai,1-1,0,2003,Eosinophilic
 Udon Thani,1-1,0,2003,Eosinophilic
-Zone 11,1-1,0,2003,Eosinophilic
+Zone:11,1-1,0,2003,Eosinophilic
 Kalasin,1-1,0,2003,Eosinophilic
 Mukdahan,1-1,0,2003,Eosinophilic
 Nakhon Phanom,1-1,0,2003,Eosinophilic
 Sakon Nakhon,1-1,0,2003,Eosinophilic
-Zone 12,1-1,0,2003,Eosinophilic
+Zone:12,1-1,0,2003,Eosinophilic
 Khon Kaen,1-1,0,2003,Eosinophilic
 Maha Sarakham,1-1,0,2003,Eosinophilic
 Roi Et,1-1,0,2003,Eosinophilic
-Zone 13,1-1,0,2003,Eosinophilic
+Zone:13,1-1,0,2003,Eosinophilic
 Buri Ram,1-1,0,2003,Eosinophilic
 Chaiyaphum,1-1,0,2003,Eosinophilic
 Nakhon Ratchasima,1-1,0,2003,Eosinophilic
 Surin,1-1,0,2003,Eosinophilic
-Zone 14,1-1,0,2003,Eosinophilic
+Zone:14,1-1,0,2003,Eosinophilic
 Amnat Charoen,1-1,0,2003,Eosinophilic
 Si Sa Ket,1-1,0,2003,Eosinophilic
 Ubon Ratchathani,1-1,0,2003,Eosinophilic
 Yasothon,1-1,0,2003,Eosinophilic
 South Region,1-1,0,2003,Eosinophilic
-Zone 15,1-1,0,2003,Eosinophilic
+Zone:15,1-1,0,2003,Eosinophilic
 Chumphon,1-1,0,2003,Eosinophilic
 Ranong,1-1,0,2003,Eosinophilic
 Surat Thani,1-1,0,2003,Eosinophilic
-Zone 16,1-1,0,2003,Eosinophilic
+Zone:16,1-1,0,2003,Eosinophilic
 Nakhon Si Thammarat,1-1,0,2003,Eosinophilic
 Phatthalung,1-1,0,2003,Eosinophilic
 Trang,1-1,0,2003,Eosinophilic
-Zone 17,1-1,0,2003,Eosinophilic
+Zone:17,1-1,0,2003,Eosinophilic
 Krabi,1-1,0,2003,Eosinophilic
 Phangnga,1-1,0,2003,Eosinophilic
 Phuket,1-1,0,2003,Eosinophilic
-Zone 18,1-1,0,2003,Eosinophilic
+Zone:18,1-1,0,2003,Eosinophilic
 Narathiwat,1-1,0,2003,Eosinophilic
 Pattani,1-1,0,2003,Eosinophilic
 Yala,1-1,0,2003,Eosinophilic
-Zone 19,1-1,0,2003,Eosinophilic
+Zone:19,1-1,0,2003,Eosinophilic
 Satun,1-1,0,2003,Eosinophilic
 Songkhla,1-1,0,2003,Eosinophilic
 Total,2-2,0,2003,Eosinophilic
 North Region,2-2,0,2003,Eosinophilic
-Zone 1,2-2,0,2003,Eosinophilic
+Zone:1,2-2,0,2003,Eosinophilic
 Chiang Mai,2-2,0,2003,Eosinophilic
 Chiang Rai,2-2,0,2003,Eosinophilic
 Lampang,2-2,0,2003,Eosinophilic
@@ -3686,98 +3686,98 @@ Mae Hong Son,2-2,0,2003,Eosinophilic
 Nan,2-2,0,2003,Eosinophilic
 Phayao,2-2,0,2003,Eosinophilic
 Phrae,2-2,0,2003,Eosinophilic
-Zone 2,2-2,0,2003,Eosinophilic
+Zone:2,2-2,0,2003,Eosinophilic
 Phetchabun,2-2,0,2003,Eosinophilic
 Phitsanulok,2-2,0,2003,Eosinophilic
 Sukhothai,2-2,0,2003,Eosinophilic
 Tak,2-2,0,2003,Eosinophilic
 Uttaradit,2-2,0,2003,Eosinophilic
-Zone 3,2-2,0,2003,Eosinophilic
+Zone:3,2-2,0,2003,Eosinophilic
 Kamphaeng Phet,2-2,0,2003,Eosinophilic
 Nakhon Sawan,2-2,0,2003,Eosinophilic
 Phichit,2-2,0,2003,Eosinophilic
 Uthai Thani,2-2,0,2003,Eosinophilic
 Central Region,2-2,0,2003,Eosinophilic
 Bangkok,2-2,0,2003,Eosinophilic
-Zone 4,2-2,0,2003,Eosinophilic
+Zone:4,2-2,0,2003,Eosinophilic
 Ang Thong,2-2,0,2003,Eosinophilic
 Nonthaburi,2-2,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,2-2,0,2003,Eosinophilic
 Pathum Thani,2-2,0,2003,Eosinophilic
-Zone 5,2-2,0,2003,Eosinophilic
+Zone:5,2-2,0,2003,Eosinophilic
 Chai Nat,2-2,0,2003,Eosinophilic
 Lop Buri,2-2,0,2003,Eosinophilic
 Saraburi,2-2,0,2003,Eosinophilic
 Sing Buri,2-2,0,2003,Eosinophilic
-Zone 6,2-2,0,2003,Eosinophilic
+Zone:6,2-2,0,2003,Eosinophilic
 Kanchanaburi,2-2,0,2003,Eosinophilic
 Nakhon Pathom,2-2,0,2003,Eosinophilic
 Ratchaburi,2-2,0,2003,Eosinophilic
 Suphan Buri,2-2,0,2003,Eosinophilic
-Zone 7,2-2,0,2003,Eosinophilic
+Zone:7,2-2,0,2003,Eosinophilic
 Phetchaburi,2-2,0,2003,Eosinophilic
 Prachuap Khiri Khan,2-2,0,2003,Eosinophilic
 Samut Sakhon,2-2,0,2003,Eosinophilic
 Samut Songkhram,2-2,0,2003,Eosinophilic
-Zone 8,2-2,0,2003,Eosinophilic
+Zone:8,2-2,0,2003,Eosinophilic
 Chachoengsao,2-2,0,2003,Eosinophilic
 Nakhon Nayok,2-2,0,2003,Eosinophilic
 Prachin Buri,2-2,0,2003,Eosinophilic
 Sa Kaeo,2-2,0,2003,Eosinophilic
 Samut Prakan,2-2,0,2003,Eosinophilic
-Zone 9,2-2,0,2003,Eosinophilic
+Zone:9,2-2,0,2003,Eosinophilic
 Chanthaburi,2-2,0,2003,Eosinophilic
 Chon Buri,2-2,0,2003,Eosinophilic
 Rayong,2-2,0,2003,Eosinophilic
 Trat,2-2,0,2003,Eosinophilic
 North-Eastern Region,2-2,0,2003,Eosinophilic
-Zone 10,2-2,0,2003,Eosinophilic
+Zone:10,2-2,0,2003,Eosinophilic
 Loei,2-2,0,2003,Eosinophilic
 Nong Bua Lam Phu,2-2,0,2003,Eosinophilic
 Nong Khai,2-2,0,2003,Eosinophilic
 Udon Thani,2-2,0,2003,Eosinophilic
-Zone 11,2-2,0,2003,Eosinophilic
+Zone:11,2-2,0,2003,Eosinophilic
 Kalasin,2-2,0,2003,Eosinophilic
 Mukdahan,2-2,0,2003,Eosinophilic
 Nakhon Phanom,2-2,0,2003,Eosinophilic
 Sakon Nakhon,2-2,0,2003,Eosinophilic
-Zone 12,2-2,0,2003,Eosinophilic
+Zone:12,2-2,0,2003,Eosinophilic
 Khon Kaen,2-2,0,2003,Eosinophilic
 Maha Sarakham,2-2,0,2003,Eosinophilic
 Roi Et,2-2,0,2003,Eosinophilic
-Zone 13,2-2,0,2003,Eosinophilic
+Zone:13,2-2,0,2003,Eosinophilic
 Buri Ram,2-2,0,2003,Eosinophilic
 Chaiyaphum,2-2,0,2003,Eosinophilic
 Nakhon Ratchasima,2-2,0,2003,Eosinophilic
 Surin,2-2,0,2003,Eosinophilic
-Zone 14,2-2,0,2003,Eosinophilic
+Zone:14,2-2,0,2003,Eosinophilic
 Amnat Charoen,2-2,0,2003,Eosinophilic
 Si Sa Ket,2-2,0,2003,Eosinophilic
 Ubon Ratchathani,2-2,0,2003,Eosinophilic
 Yasothon,2-2,0,2003,Eosinophilic
 South Region,2-2,0,2003,Eosinophilic
-Zone 15,2-2,0,2003,Eosinophilic
+Zone:15,2-2,0,2003,Eosinophilic
 Chumphon,2-2,0,2003,Eosinophilic
 Ranong,2-2,0,2003,Eosinophilic
 Surat Thani,2-2,0,2003,Eosinophilic
-Zone 16,2-2,0,2003,Eosinophilic
+Zone:16,2-2,0,2003,Eosinophilic
 Nakhon Si Thammarat,2-2,0,2003,Eosinophilic
 Phatthalung,2-2,0,2003,Eosinophilic
 Trang,2-2,0,2003,Eosinophilic
-Zone 17,2-2,0,2003,Eosinophilic
+Zone:17,2-2,0,2003,Eosinophilic
 Krabi,2-2,0,2003,Eosinophilic
 Phangnga,2-2,0,2003,Eosinophilic
 Phuket,2-2,0,2003,Eosinophilic
-Zone 18,2-2,0,2003,Eosinophilic
+Zone:18,2-2,0,2003,Eosinophilic
 Narathiwat,2-2,0,2003,Eosinophilic
 Pattani,2-2,0,2003,Eosinophilic
 Yala,2-2,0,2003,Eosinophilic
-Zone 19,2-2,0,2003,Eosinophilic
+Zone:19,2-2,0,2003,Eosinophilic
 Satun,2-2,0,2003,Eosinophilic
 Songkhla,2-2,0,2003,Eosinophilic
 Total,3-3,0,2003,Eosinophilic
 North Region,3-3,0,2003,Eosinophilic
-Zone 1,3-3,0,2003,Eosinophilic
+Zone:1,3-3,0,2003,Eosinophilic
 Chiang Mai,3-3,0,2003,Eosinophilic
 Chiang Rai,3-3,0,2003,Eosinophilic
 Lampang,3-3,0,2003,Eosinophilic
@@ -3786,98 +3786,98 @@ Mae Hong Son,3-3,0,2003,Eosinophilic
 Nan,3-3,0,2003,Eosinophilic
 Phayao,3-3,0,2003,Eosinophilic
 Phrae,3-3,0,2003,Eosinophilic
-Zone 2,3-3,0,2003,Eosinophilic
+Zone:2,3-3,0,2003,Eosinophilic
 Phetchabun,3-3,0,2003,Eosinophilic
 Phitsanulok,3-3,0,2003,Eosinophilic
 Sukhothai,3-3,0,2003,Eosinophilic
 Tak,3-3,0,2003,Eosinophilic
 Uttaradit,3-3,0,2003,Eosinophilic
-Zone 3,3-3,0,2003,Eosinophilic
+Zone:3,3-3,0,2003,Eosinophilic
 Kamphaeng Phet,3-3,0,2003,Eosinophilic
 Nakhon Sawan,3-3,0,2003,Eosinophilic
 Phichit,3-3,0,2003,Eosinophilic
 Uthai Thani,3-3,0,2003,Eosinophilic
 Central Region,3-3,0,2003,Eosinophilic
 Bangkok,3-3,0,2003,Eosinophilic
-Zone 4,3-3,0,2003,Eosinophilic
+Zone:4,3-3,0,2003,Eosinophilic
 Ang Thong,3-3,0,2003,Eosinophilic
 Nonthaburi,3-3,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,3-3,0,2003,Eosinophilic
 Pathum Thani,3-3,0,2003,Eosinophilic
-Zone 5,3-3,0,2003,Eosinophilic
+Zone:5,3-3,0,2003,Eosinophilic
 Chai Nat,3-3,0,2003,Eosinophilic
 Lop Buri,3-3,0,2003,Eosinophilic
 Saraburi,3-3,0,2003,Eosinophilic
 Sing Buri,3-3,0,2003,Eosinophilic
-Zone 6,3-3,0,2003,Eosinophilic
+Zone:6,3-3,0,2003,Eosinophilic
 Kanchanaburi,3-3,0,2003,Eosinophilic
 Nakhon Pathom,3-3,0,2003,Eosinophilic
 Ratchaburi,3-3,0,2003,Eosinophilic
 Suphan Buri,3-3,0,2003,Eosinophilic
-Zone 7,3-3,0,2003,Eosinophilic
+Zone:7,3-3,0,2003,Eosinophilic
 Phetchaburi,3-3,0,2003,Eosinophilic
 Prachuap Khiri Khan,3-3,0,2003,Eosinophilic
 Samut Sakhon,3-3,0,2003,Eosinophilic
 Samut Songkhram,3-3,0,2003,Eosinophilic
-Zone 8,3-3,0,2003,Eosinophilic
+Zone:8,3-3,0,2003,Eosinophilic
 Chachoengsao,3-3,0,2003,Eosinophilic
 Nakhon Nayok,3-3,0,2003,Eosinophilic
 Prachin Buri,3-3,0,2003,Eosinophilic
 Sa Kaeo,3-3,0,2003,Eosinophilic
 Samut Prakan,3-3,0,2003,Eosinophilic
-Zone 9,3-3,0,2003,Eosinophilic
+Zone:9,3-3,0,2003,Eosinophilic
 Chanthaburi,3-3,0,2003,Eosinophilic
 Chon Buri,3-3,0,2003,Eosinophilic
 Rayong,3-3,0,2003,Eosinophilic
 Trat,3-3,0,2003,Eosinophilic
 North-Eastern Region,3-3,0,2003,Eosinophilic
-Zone 10,3-3,0,2003,Eosinophilic
+Zone:10,3-3,0,2003,Eosinophilic
 Loei,3-3,0,2003,Eosinophilic
 Nong Bua Lam Phu,3-3,0,2003,Eosinophilic
 Nong Khai,3-3,0,2003,Eosinophilic
 Udon Thani,3-3,0,2003,Eosinophilic
-Zone 11,3-3,0,2003,Eosinophilic
+Zone:11,3-3,0,2003,Eosinophilic
 Kalasin,3-3,0,2003,Eosinophilic
 Mukdahan,3-3,0,2003,Eosinophilic
 Nakhon Phanom,3-3,0,2003,Eosinophilic
 Sakon Nakhon,3-3,0,2003,Eosinophilic
-Zone 12,3-3,0,2003,Eosinophilic
+Zone:12,3-3,0,2003,Eosinophilic
 Khon Kaen,3-3,0,2003,Eosinophilic
 Maha Sarakham,3-3,0,2003,Eosinophilic
 Roi Et,3-3,0,2003,Eosinophilic
-Zone 13,3-3,0,2003,Eosinophilic
+Zone:13,3-3,0,2003,Eosinophilic
 Buri Ram,3-3,0,2003,Eosinophilic
 Chaiyaphum,3-3,0,2003,Eosinophilic
 Nakhon Ratchasima,3-3,0,2003,Eosinophilic
 Surin,3-3,0,2003,Eosinophilic
-Zone 14,3-3,0,2003,Eosinophilic
+Zone:14,3-3,0,2003,Eosinophilic
 Amnat Charoen,3-3,0,2003,Eosinophilic
 Si Sa Ket,3-3,0,2003,Eosinophilic
 Ubon Ratchathani,3-3,0,2003,Eosinophilic
 Yasothon,3-3,0,2003,Eosinophilic
 South Region,3-3,0,2003,Eosinophilic
-Zone 15,3-3,0,2003,Eosinophilic
+Zone:15,3-3,0,2003,Eosinophilic
 Chumphon,3-3,0,2003,Eosinophilic
 Ranong,3-3,0,2003,Eosinophilic
 Surat Thani,3-3,0,2003,Eosinophilic
-Zone 16,3-3,0,2003,Eosinophilic
+Zone:16,3-3,0,2003,Eosinophilic
 Nakhon Si Thammarat,3-3,0,2003,Eosinophilic
 Phatthalung,3-3,0,2003,Eosinophilic
 Trang,3-3,0,2003,Eosinophilic
-Zone 17,3-3,0,2003,Eosinophilic
+Zone:17,3-3,0,2003,Eosinophilic
 Krabi,3-3,0,2003,Eosinophilic
 Phangnga,3-3,0,2003,Eosinophilic
 Phuket,3-3,0,2003,Eosinophilic
-Zone 18,3-3,0,2003,Eosinophilic
+Zone:18,3-3,0,2003,Eosinophilic
 Narathiwat,3-3,0,2003,Eosinophilic
 Pattani,3-3,0,2003,Eosinophilic
 Yala,3-3,0,2003,Eosinophilic
-Zone 19,3-3,0,2003,Eosinophilic
+Zone:19,3-3,0,2003,Eosinophilic
 Satun,3-3,0,2003,Eosinophilic
 Songkhla,3-3,0,2003,Eosinophilic
 Total,4-4,1,2003,Eosinophilic
 North Region,4-4,0,2003,Eosinophilic
-Zone 1,4-4,0,2003,Eosinophilic
+Zone:1,4-4,0,2003,Eosinophilic
 Chiang Mai,4-4,0,2003,Eosinophilic
 Chiang Rai,4-4,0,2003,Eosinophilic
 Lampang,4-4,0,2003,Eosinophilic
@@ -3886,98 +3886,98 @@ Mae Hong Son,4-4,0,2003,Eosinophilic
 Nan,4-4,0,2003,Eosinophilic
 Phayao,4-4,0,2003,Eosinophilic
 Phrae,4-4,0,2003,Eosinophilic
-Zone 2,4-4,0,2003,Eosinophilic
+Zone:2,4-4,0,2003,Eosinophilic
 Phetchabun,4-4,0,2003,Eosinophilic
 Phitsanulok,4-4,0,2003,Eosinophilic
 Sukhothai,4-4,0,2003,Eosinophilic
 Tak,4-4,0,2003,Eosinophilic
 Uttaradit,4-4,0,2003,Eosinophilic
-Zone 3,4-4,0,2003,Eosinophilic
+Zone:3,4-4,0,2003,Eosinophilic
 Kamphaeng Phet,4-4,0,2003,Eosinophilic
 Nakhon Sawan,4-4,0,2003,Eosinophilic
 Phichit,4-4,0,2003,Eosinophilic
 Uthai Thani,4-4,0,2003,Eosinophilic
 Central Region,4-4,0,2003,Eosinophilic
 Bangkok,4-4,0,2003,Eosinophilic
-Zone 4,4-4,0,2003,Eosinophilic
+Zone:4,4-4,0,2003,Eosinophilic
 Ang Thong,4-4,0,2003,Eosinophilic
 Nonthaburi,4-4,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,4-4,0,2003,Eosinophilic
 Pathum Thani,4-4,0,2003,Eosinophilic
-Zone 5,4-4,0,2003,Eosinophilic
+Zone:5,4-4,0,2003,Eosinophilic
 Chai Nat,4-4,0,2003,Eosinophilic
 Lop Buri,4-4,0,2003,Eosinophilic
 Saraburi,4-4,0,2003,Eosinophilic
 Sing Buri,4-4,0,2003,Eosinophilic
-Zone 6,4-4,0,2003,Eosinophilic
+Zone:6,4-4,0,2003,Eosinophilic
 Kanchanaburi,4-4,0,2003,Eosinophilic
 Nakhon Pathom,4-4,0,2003,Eosinophilic
 Ratchaburi,4-4,0,2003,Eosinophilic
 Suphan Buri,4-4,0,2003,Eosinophilic
-Zone 7,4-4,0,2003,Eosinophilic
+Zone:7,4-4,0,2003,Eosinophilic
 Phetchaburi,4-4,0,2003,Eosinophilic
 Prachuap Khiri Khan,4-4,0,2003,Eosinophilic
 Samut Sakhon,4-4,0,2003,Eosinophilic
 Samut Songkhram,4-4,0,2003,Eosinophilic
-Zone 8,4-4,0,2003,Eosinophilic
+Zone:8,4-4,0,2003,Eosinophilic
 Chachoengsao,4-4,0,2003,Eosinophilic
 Nakhon Nayok,4-4,0,2003,Eosinophilic
 Prachin Buri,4-4,0,2003,Eosinophilic
 Sa Kaeo,4-4,0,2003,Eosinophilic
 Samut Prakan,4-4,0,2003,Eosinophilic
-Zone 9,4-4,0,2003,Eosinophilic
+Zone:9,4-4,0,2003,Eosinophilic
 Chanthaburi,4-4,0,2003,Eosinophilic
 Chon Buri,4-4,0,2003,Eosinophilic
 Rayong,4-4,0,2003,Eosinophilic
 Trat,4-4,0,2003,Eosinophilic
 North-Eastern Region,4-4,1,2003,Eosinophilic
-Zone 10,4-4,1,2003,Eosinophilic
+Zone:10,4-4,1,2003,Eosinophilic
 Loei,4-4,1,2003,Eosinophilic
 Nong Bua Lam Phu,4-4,0,2003,Eosinophilic
 Nong Khai,4-4,0,2003,Eosinophilic
 Udon Thani,4-4,0,2003,Eosinophilic
-Zone 11,4-4,0,2003,Eosinophilic
+Zone:11,4-4,0,2003,Eosinophilic
 Kalasin,4-4,0,2003,Eosinophilic
 Mukdahan,4-4,0,2003,Eosinophilic
 Nakhon Phanom,4-4,0,2003,Eosinophilic
 Sakon Nakhon,4-4,0,2003,Eosinophilic
-Zone 12,4-4,0,2003,Eosinophilic
+Zone:12,4-4,0,2003,Eosinophilic
 Khon Kaen,4-4,0,2003,Eosinophilic
 Maha Sarakham,4-4,0,2003,Eosinophilic
 Roi Et,4-4,0,2003,Eosinophilic
-Zone 13,4-4,0,2003,Eosinophilic
+Zone:13,4-4,0,2003,Eosinophilic
 Buri Ram,4-4,0,2003,Eosinophilic
 Chaiyaphum,4-4,0,2003,Eosinophilic
 Nakhon Ratchasima,4-4,0,2003,Eosinophilic
 Surin,4-4,0,2003,Eosinophilic
-Zone 14,4-4,0,2003,Eosinophilic
+Zone:14,4-4,0,2003,Eosinophilic
 Amnat Charoen,4-4,0,2003,Eosinophilic
 Si Sa Ket,4-4,0,2003,Eosinophilic
 Ubon Ratchathani,4-4,0,2003,Eosinophilic
 Yasothon,4-4,0,2003,Eosinophilic
 South Region,4-4,0,2003,Eosinophilic
-Zone 15,4-4,0,2003,Eosinophilic
+Zone:15,4-4,0,2003,Eosinophilic
 Chumphon,4-4,0,2003,Eosinophilic
 Ranong,4-4,0,2003,Eosinophilic
 Surat Thani,4-4,0,2003,Eosinophilic
-Zone 16,4-4,0,2003,Eosinophilic
+Zone:16,4-4,0,2003,Eosinophilic
 Nakhon Si Thammarat,4-4,0,2003,Eosinophilic
 Phatthalung,4-4,0,2003,Eosinophilic
 Trang,4-4,0,2003,Eosinophilic
-Zone 17,4-4,0,2003,Eosinophilic
+Zone:17,4-4,0,2003,Eosinophilic
 Krabi,4-4,0,2003,Eosinophilic
 Phangnga,4-4,0,2003,Eosinophilic
 Phuket,4-4,0,2003,Eosinophilic
-Zone 18,4-4,0,2003,Eosinophilic
+Zone:18,4-4,0,2003,Eosinophilic
 Narathiwat,4-4,0,2003,Eosinophilic
 Pattani,4-4,0,2003,Eosinophilic
 Yala,4-4,0,2003,Eosinophilic
-Zone 19,4-4,0,2003,Eosinophilic
+Zone:19,4-4,0,2003,Eosinophilic
 Satun,4-4,0,2003,Eosinophilic
 Songkhla,4-4,0,2003,Eosinophilic
 Total,5-5,1,2003,Eosinophilic
 North Region,5-5,0,2003,Eosinophilic
-Zone 1,5-5,0,2003,Eosinophilic
+Zone:1,5-5,0,2003,Eosinophilic
 Chiang Mai,5-5,0,2003,Eosinophilic
 Chiang Rai,5-5,0,2003,Eosinophilic
 Lampang,5-5,0,2003,Eosinophilic
@@ -3986,98 +3986,98 @@ Mae Hong Son,5-5,0,2003,Eosinophilic
 Nan,5-5,0,2003,Eosinophilic
 Phayao,5-5,0,2003,Eosinophilic
 Phrae,5-5,0,2003,Eosinophilic
-Zone 2,5-5,0,2003,Eosinophilic
+Zone:2,5-5,0,2003,Eosinophilic
 Phetchabun,5-5,0,2003,Eosinophilic
 Phitsanulok,5-5,0,2003,Eosinophilic
 Sukhothai,5-5,0,2003,Eosinophilic
 Tak,5-5,0,2003,Eosinophilic
 Uttaradit,5-5,0,2003,Eosinophilic
-Zone 3,5-5,0,2003,Eosinophilic
+Zone:3,5-5,0,2003,Eosinophilic
 Kamphaeng Phet,5-5,0,2003,Eosinophilic
 Nakhon Sawan,5-5,0,2003,Eosinophilic
 Phichit,5-5,0,2003,Eosinophilic
 Uthai Thani,5-5,0,2003,Eosinophilic
 Central Region,5-5,0,2003,Eosinophilic
 Bangkok,5-5,0,2003,Eosinophilic
-Zone 4,5-5,0,2003,Eosinophilic
+Zone:4,5-5,0,2003,Eosinophilic
 Ang Thong,5-5,0,2003,Eosinophilic
 Nonthaburi,5-5,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,5-5,0,2003,Eosinophilic
 Pathum Thani,5-5,0,2003,Eosinophilic
-Zone 5,5-5,0,2003,Eosinophilic
+Zone:5,5-5,0,2003,Eosinophilic
 Chai Nat,5-5,0,2003,Eosinophilic
 Lop Buri,5-5,0,2003,Eosinophilic
 Saraburi,5-5,0,2003,Eosinophilic
 Sing Buri,5-5,0,2003,Eosinophilic
-Zone 6,5-5,0,2003,Eosinophilic
+Zone:6,5-5,0,2003,Eosinophilic
 Kanchanaburi,5-5,0,2003,Eosinophilic
 Nakhon Pathom,5-5,0,2003,Eosinophilic
 Ratchaburi,5-5,0,2003,Eosinophilic
 Suphan Buri,5-5,0,2003,Eosinophilic
-Zone 7,5-5,0,2003,Eosinophilic
+Zone:7,5-5,0,2003,Eosinophilic
 Phetchaburi,5-5,0,2003,Eosinophilic
 Prachuap Khiri Khan,5-5,0,2003,Eosinophilic
 Samut Sakhon,5-5,0,2003,Eosinophilic
 Samut Songkhram,5-5,0,2003,Eosinophilic
-Zone 8,5-5,0,2003,Eosinophilic
+Zone:8,5-5,0,2003,Eosinophilic
 Chachoengsao,5-5,0,2003,Eosinophilic
 Nakhon Nayok,5-5,0,2003,Eosinophilic
 Prachin Buri,5-5,0,2003,Eosinophilic
 Sa Kaeo,5-5,0,2003,Eosinophilic
 Samut Prakan,5-5,0,2003,Eosinophilic
-Zone 9,5-5,0,2003,Eosinophilic
+Zone:9,5-5,0,2003,Eosinophilic
 Chanthaburi,5-5,0,2003,Eosinophilic
 Chon Buri,5-5,0,2003,Eosinophilic
 Rayong,5-5,0,2003,Eosinophilic
 Trat,5-5,0,2003,Eosinophilic
 North-Eastern Region,5-5,1,2003,Eosinophilic
-Zone 10,5-5,1,2003,Eosinophilic
+Zone:10,5-5,1,2003,Eosinophilic
 Loei,5-5,1,2003,Eosinophilic
 Nong Bua Lam Phu,5-5,0,2003,Eosinophilic
 Nong Khai,5-5,0,2003,Eosinophilic
 Udon Thani,5-5,0,2003,Eosinophilic
-Zone 11,5-5,0,2003,Eosinophilic
+Zone:11,5-5,0,2003,Eosinophilic
 Kalasin,5-5,0,2003,Eosinophilic
 Mukdahan,5-5,0,2003,Eosinophilic
 Nakhon Phanom,5-5,0,2003,Eosinophilic
 Sakon Nakhon,5-5,0,2003,Eosinophilic
-Zone 12,5-5,0,2003,Eosinophilic
+Zone:12,5-5,0,2003,Eosinophilic
 Khon Kaen,5-5,0,2003,Eosinophilic
 Maha Sarakham,5-5,0,2003,Eosinophilic
 Roi Et,5-5,0,2003,Eosinophilic
-Zone 13,5-5,0,2003,Eosinophilic
+Zone:13,5-5,0,2003,Eosinophilic
 Buri Ram,5-5,0,2003,Eosinophilic
 Chaiyaphum,5-5,0,2003,Eosinophilic
 Nakhon Ratchasima,5-5,0,2003,Eosinophilic
 Surin,5-5,0,2003,Eosinophilic
-Zone 14,5-5,0,2003,Eosinophilic
+Zone:14,5-5,0,2003,Eosinophilic
 Amnat Charoen,5-5,0,2003,Eosinophilic
 Si Sa Ket,5-5,0,2003,Eosinophilic
 Ubon Ratchathani,5-5,0,2003,Eosinophilic
 Yasothon,5-5,0,2003,Eosinophilic
 South Region,5-5,0,2003,Eosinophilic
-Zone 15,5-5,0,2003,Eosinophilic
+Zone:15,5-5,0,2003,Eosinophilic
 Chumphon,5-5,0,2003,Eosinophilic
 Ranong,5-5,0,2003,Eosinophilic
 Surat Thani,5-5,0,2003,Eosinophilic
-Zone 16,5-5,0,2003,Eosinophilic
+Zone:16,5-5,0,2003,Eosinophilic
 Nakhon Si Thammarat,5-5,0,2003,Eosinophilic
 Phatthalung,5-5,0,2003,Eosinophilic
 Trang,5-5,0,2003,Eosinophilic
-Zone 17,5-5,0,2003,Eosinophilic
+Zone:17,5-5,0,2003,Eosinophilic
 Krabi,5-5,0,2003,Eosinophilic
 Phangnga,5-5,0,2003,Eosinophilic
 Phuket,5-5,0,2003,Eosinophilic
-Zone 18,5-5,0,2003,Eosinophilic
+Zone:18,5-5,0,2003,Eosinophilic
 Narathiwat,5-5,0,2003,Eosinophilic
 Pattani,5-5,0,2003,Eosinophilic
 Yala,5-5,0,2003,Eosinophilic
-Zone 19,5-5,0,2003,Eosinophilic
+Zone:19,5-5,0,2003,Eosinophilic
 Satun,5-5,0,2003,Eosinophilic
 Songkhla,5-5,0,2003,Eosinophilic
 Total,6-6,1,2003,Eosinophilic
 North Region,6-6,0,2003,Eosinophilic
-Zone 1,6-6,0,2003,Eosinophilic
+Zone:1,6-6,0,2003,Eosinophilic
 Chiang Mai,6-6,0,2003,Eosinophilic
 Chiang Rai,6-6,0,2003,Eosinophilic
 Lampang,6-6,0,2003,Eosinophilic
@@ -4086,98 +4086,98 @@ Mae Hong Son,6-6,0,2003,Eosinophilic
 Nan,6-6,0,2003,Eosinophilic
 Phayao,6-6,0,2003,Eosinophilic
 Phrae,6-6,0,2003,Eosinophilic
-Zone 2,6-6,0,2003,Eosinophilic
+Zone:2,6-6,0,2003,Eosinophilic
 Phetchabun,6-6,0,2003,Eosinophilic
 Phitsanulok,6-6,0,2003,Eosinophilic
 Sukhothai,6-6,0,2003,Eosinophilic
 Tak,6-6,0,2003,Eosinophilic
 Uttaradit,6-6,0,2003,Eosinophilic
-Zone 3,6-6,0,2003,Eosinophilic
+Zone:3,6-6,0,2003,Eosinophilic
 Kamphaeng Phet,6-6,0,2003,Eosinophilic
 Nakhon Sawan,6-6,0,2003,Eosinophilic
 Phichit,6-6,0,2003,Eosinophilic
 Uthai Thani,6-6,0,2003,Eosinophilic
 Central Region,6-6,0,2003,Eosinophilic
 Bangkok,6-6,0,2003,Eosinophilic
-Zone 4,6-6,0,2003,Eosinophilic
+Zone:4,6-6,0,2003,Eosinophilic
 Ang Thong,6-6,0,2003,Eosinophilic
 Nonthaburi,6-6,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,6-6,0,2003,Eosinophilic
 Pathum Thani,6-6,0,2003,Eosinophilic
-Zone 5,6-6,0,2003,Eosinophilic
+Zone:5,6-6,0,2003,Eosinophilic
 Chai Nat,6-6,0,2003,Eosinophilic
 Lop Buri,6-6,0,2003,Eosinophilic
 Saraburi,6-6,0,2003,Eosinophilic
 Sing Buri,6-6,0,2003,Eosinophilic
-Zone 6,6-6,0,2003,Eosinophilic
+Zone:6,6-6,0,2003,Eosinophilic
 Kanchanaburi,6-6,0,2003,Eosinophilic
 Nakhon Pathom,6-6,0,2003,Eosinophilic
 Ratchaburi,6-6,0,2003,Eosinophilic
 Suphan Buri,6-6,0,2003,Eosinophilic
-Zone 7,6-6,0,2003,Eosinophilic
+Zone:7,6-6,0,2003,Eosinophilic
 Phetchaburi,6-6,0,2003,Eosinophilic
 Prachuap Khiri Khan,6-6,0,2003,Eosinophilic
 Samut Sakhon,6-6,0,2003,Eosinophilic
 Samut Songkhram,6-6,0,2003,Eosinophilic
-Zone 8,6-6,0,2003,Eosinophilic
+Zone:8,6-6,0,2003,Eosinophilic
 Chachoengsao,6-6,0,2003,Eosinophilic
 Nakhon Nayok,6-6,0,2003,Eosinophilic
 Prachin Buri,6-6,0,2003,Eosinophilic
 Sa Kaeo,6-6,0,2003,Eosinophilic
 Samut Prakan,6-6,0,2003,Eosinophilic
-Zone 9,6-6,0,2003,Eosinophilic
+Zone:9,6-6,0,2003,Eosinophilic
 Chanthaburi,6-6,0,2003,Eosinophilic
 Chon Buri,6-6,0,2003,Eosinophilic
 Rayong,6-6,0,2003,Eosinophilic
 Trat,6-6,0,2003,Eosinophilic
 North-Eastern Region,6-6,1,2003,Eosinophilic
-Zone 10,6-6,0,2003,Eosinophilic
+Zone:10,6-6,0,2003,Eosinophilic
 Loei,6-6,0,2003,Eosinophilic
 Nong Bua Lam Phu,6-6,0,2003,Eosinophilic
 Nong Khai,6-6,0,2003,Eosinophilic
 Udon Thani,6-6,0,2003,Eosinophilic
-Zone 11,6-6,0,2003,Eosinophilic
+Zone:11,6-6,0,2003,Eosinophilic
 Kalasin,6-6,0,2003,Eosinophilic
 Mukdahan,6-6,0,2003,Eosinophilic
 Nakhon Phanom,6-6,0,2003,Eosinophilic
 Sakon Nakhon,6-6,0,2003,Eosinophilic
-Zone 12,6-6,0,2003,Eosinophilic
+Zone:12,6-6,0,2003,Eosinophilic
 Khon Kaen,6-6,0,2003,Eosinophilic
 Maha Sarakham,6-6,0,2003,Eosinophilic
 Roi Et,6-6,0,2003,Eosinophilic
-Zone 13,6-6,1,2003,Eosinophilic
+Zone:13,6-6,1,2003,Eosinophilic
 Buri Ram,6-6,0,2003,Eosinophilic
 Chaiyaphum,6-6,1,2003,Eosinophilic
 Nakhon Ratchasima,6-6,0,2003,Eosinophilic
 Surin,6-6,0,2003,Eosinophilic
-Zone 14,6-6,0,2003,Eosinophilic
+Zone:14,6-6,0,2003,Eosinophilic
 Amnat Charoen,6-6,0,2003,Eosinophilic
 Si Sa Ket,6-6,0,2003,Eosinophilic
 Ubon Ratchathani,6-6,0,2003,Eosinophilic
 Yasothon,6-6,0,2003,Eosinophilic
 South Region,6-6,0,2003,Eosinophilic
-Zone 15,6-6,0,2003,Eosinophilic
+Zone:15,6-6,0,2003,Eosinophilic
 Chumphon,6-6,0,2003,Eosinophilic
 Ranong,6-6,0,2003,Eosinophilic
 Surat Thani,6-6,0,2003,Eosinophilic
-Zone 16,6-6,0,2003,Eosinophilic
+Zone:16,6-6,0,2003,Eosinophilic
 Nakhon Si Thammarat,6-6,0,2003,Eosinophilic
 Phatthalung,6-6,0,2003,Eosinophilic
 Trang,6-6,0,2003,Eosinophilic
-Zone 17,6-6,0,2003,Eosinophilic
+Zone:17,6-6,0,2003,Eosinophilic
 Krabi,6-6,0,2003,Eosinophilic
 Phangnga,6-6,0,2003,Eosinophilic
 Phuket,6-6,0,2003,Eosinophilic
-Zone 18,6-6,0,2003,Eosinophilic
+Zone:18,6-6,0,2003,Eosinophilic
 Narathiwat,6-6,0,2003,Eosinophilic
 Pattani,6-6,0,2003,Eosinophilic
 Yala,6-6,0,2003,Eosinophilic
-Zone 19,6-6,0,2003,Eosinophilic
+Zone:19,6-6,0,2003,Eosinophilic
 Satun,6-6,0,2003,Eosinophilic
 Songkhla,6-6,0,2003,Eosinophilic
 Total,7-9,2,2003,Eosinophilic
 North Region,7-9,0,2003,Eosinophilic
-Zone 1,7-9,0,2003,Eosinophilic
+Zone:1,7-9,0,2003,Eosinophilic
 Chiang Mai,7-9,0,2003,Eosinophilic
 Chiang Rai,7-9,0,2003,Eosinophilic
 Lampang,7-9,0,2003,Eosinophilic
@@ -4186,98 +4186,98 @@ Mae Hong Son,7-9,0,2003,Eosinophilic
 Nan,7-9,0,2003,Eosinophilic
 Phayao,7-9,0,2003,Eosinophilic
 Phrae,7-9,0,2003,Eosinophilic
-Zone 2,7-9,0,2003,Eosinophilic
+Zone:2,7-9,0,2003,Eosinophilic
 Phetchabun,7-9,0,2003,Eosinophilic
 Phitsanulok,7-9,0,2003,Eosinophilic
 Sukhothai,7-9,0,2003,Eosinophilic
 Tak,7-9,0,2003,Eosinophilic
 Uttaradit,7-9,0,2003,Eosinophilic
-Zone 3,7-9,0,2003,Eosinophilic
+Zone:3,7-9,0,2003,Eosinophilic
 Kamphaeng Phet,7-9,0,2003,Eosinophilic
 Nakhon Sawan,7-9,0,2003,Eosinophilic
 Phichit,7-9,0,2003,Eosinophilic
 Uthai Thani,7-9,0,2003,Eosinophilic
 Central Region,7-9,0,2003,Eosinophilic
 Bangkok,7-9,0,2003,Eosinophilic
-Zone 4,7-9,0,2003,Eosinophilic
+Zone:4,7-9,0,2003,Eosinophilic
 Ang Thong,7-9,0,2003,Eosinophilic
 Nonthaburi,7-9,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,7-9,0,2003,Eosinophilic
 Pathum Thani,7-9,0,2003,Eosinophilic
-Zone 5,7-9,0,2003,Eosinophilic
+Zone:5,7-9,0,2003,Eosinophilic
 Chai Nat,7-9,0,2003,Eosinophilic
 Lop Buri,7-9,0,2003,Eosinophilic
 Saraburi,7-9,0,2003,Eosinophilic
 Sing Buri,7-9,0,2003,Eosinophilic
-Zone 6,7-9,0,2003,Eosinophilic
+Zone:6,7-9,0,2003,Eosinophilic
 Kanchanaburi,7-9,0,2003,Eosinophilic
 Nakhon Pathom,7-9,0,2003,Eosinophilic
 Ratchaburi,7-9,0,2003,Eosinophilic
 Suphan Buri,7-9,0,2003,Eosinophilic
-Zone 7,7-9,0,2003,Eosinophilic
+Zone:7,7-9,0,2003,Eosinophilic
 Phetchaburi,7-9,0,2003,Eosinophilic
 Prachuap Khiri Khan,7-9,0,2003,Eosinophilic
 Samut Sakhon,7-9,0,2003,Eosinophilic
 Samut Songkhram,7-9,0,2003,Eosinophilic
-Zone 8,7-9,0,2003,Eosinophilic
+Zone:8,7-9,0,2003,Eosinophilic
 Chachoengsao,7-9,0,2003,Eosinophilic
 Nakhon Nayok,7-9,0,2003,Eosinophilic
 Prachin Buri,7-9,0,2003,Eosinophilic
 Sa Kaeo,7-9,0,2003,Eosinophilic
 Samut Prakan,7-9,0,2003,Eosinophilic
-Zone 9,7-9,0,2003,Eosinophilic
+Zone:9,7-9,0,2003,Eosinophilic
 Chanthaburi,7-9,0,2003,Eosinophilic
 Chon Buri,7-9,0,2003,Eosinophilic
 Rayong,7-9,0,2003,Eosinophilic
 Trat,7-9,0,2003,Eosinophilic
 North-Eastern Region,7-9,2,2003,Eosinophilic
-Zone 10,7-9,0,2003,Eosinophilic
+Zone:10,7-9,0,2003,Eosinophilic
 Loei,7-9,0,2003,Eosinophilic
 Nong Bua Lam Phu,7-9,0,2003,Eosinophilic
 Nong Khai,7-9,0,2003,Eosinophilic
 Udon Thani,7-9,0,2003,Eosinophilic
-Zone 11,7-9,2,2003,Eosinophilic
+Zone:11,7-9,2,2003,Eosinophilic
 Kalasin,7-9,2,2003,Eosinophilic
 Mukdahan,7-9,0,2003,Eosinophilic
 Nakhon Phanom,7-9,0,2003,Eosinophilic
 Sakon Nakhon,7-9,0,2003,Eosinophilic
-Zone 12,7-9,0,2003,Eosinophilic
+Zone:12,7-9,0,2003,Eosinophilic
 Khon Kaen,7-9,0,2003,Eosinophilic
 Maha Sarakham,7-9,0,2003,Eosinophilic
 Roi Et,7-9,0,2003,Eosinophilic
-Zone 13,7-9,0,2003,Eosinophilic
+Zone:13,7-9,0,2003,Eosinophilic
 Buri Ram,7-9,0,2003,Eosinophilic
 Chaiyaphum,7-9,0,2003,Eosinophilic
 Nakhon Ratchasima,7-9,0,2003,Eosinophilic
 Surin,7-9,0,2003,Eosinophilic
-Zone 14,7-9,0,2003,Eosinophilic
+Zone:14,7-9,0,2003,Eosinophilic
 Amnat Charoen,7-9,0,2003,Eosinophilic
 Si Sa Ket,7-9,0,2003,Eosinophilic
 Ubon Ratchathani,7-9,0,2003,Eosinophilic
 Yasothon,7-9,0,2003,Eosinophilic
 South Region,7-9,0,2003,Eosinophilic
-Zone 15,7-9,0,2003,Eosinophilic
+Zone:15,7-9,0,2003,Eosinophilic
 Chumphon,7-9,0,2003,Eosinophilic
 Ranong,7-9,0,2003,Eosinophilic
 Surat Thani,7-9,0,2003,Eosinophilic
-Zone 16,7-9,0,2003,Eosinophilic
+Zone:16,7-9,0,2003,Eosinophilic
 Nakhon Si Thammarat,7-9,0,2003,Eosinophilic
 Phatthalung,7-9,0,2003,Eosinophilic
 Trang,7-9,0,2003,Eosinophilic
-Zone 17,7-9,0,2003,Eosinophilic
+Zone:17,7-9,0,2003,Eosinophilic
 Krabi,7-9,0,2003,Eosinophilic
 Phangnga,7-9,0,2003,Eosinophilic
 Phuket,7-9,0,2003,Eosinophilic
-Zone 18,7-9,0,2003,Eosinophilic
+Zone:18,7-9,0,2003,Eosinophilic
 Narathiwat,7-9,0,2003,Eosinophilic
 Pattani,7-9,0,2003,Eosinophilic
 Yala,7-9,0,2003,Eosinophilic
-Zone 19,7-9,0,2003,Eosinophilic
+Zone:19,7-9,0,2003,Eosinophilic
 Satun,7-9,0,2003,Eosinophilic
 Songkhla,7-9,0,2003,Eosinophilic
 Total,10-14,14,2003,Eosinophilic
 North Region,10-14,0,2003,Eosinophilic
-Zone 1,10-14,0,2003,Eosinophilic
+Zone:1,10-14,0,2003,Eosinophilic
 Chiang Mai,10-14,0,2003,Eosinophilic
 Chiang Rai,10-14,0,2003,Eosinophilic
 Lampang,10-14,0,2003,Eosinophilic
@@ -4286,98 +4286,98 @@ Mae Hong Son,10-14,0,2003,Eosinophilic
 Nan,10-14,0,2003,Eosinophilic
 Phayao,10-14,0,2003,Eosinophilic
 Phrae,10-14,0,2003,Eosinophilic
-Zone 2,10-14,0,2003,Eosinophilic
+Zone:2,10-14,0,2003,Eosinophilic
 Phetchabun,10-14,0,2003,Eosinophilic
 Phitsanulok,10-14,0,2003,Eosinophilic
 Sukhothai,10-14,0,2003,Eosinophilic
 Tak,10-14,0,2003,Eosinophilic
 Uttaradit,10-14,0,2003,Eosinophilic
-Zone 3,10-14,0,2003,Eosinophilic
+Zone:3,10-14,0,2003,Eosinophilic
 Kamphaeng Phet,10-14,0,2003,Eosinophilic
 Nakhon Sawan,10-14,0,2003,Eosinophilic
 Phichit,10-14,0,2003,Eosinophilic
 Uthai Thani,10-14,0,2003,Eosinophilic
 Central Region,10-14,1,2003,Eosinophilic
 Bangkok,10-14,0,2003,Eosinophilic
-Zone 4,10-14,0,2003,Eosinophilic
+Zone:4,10-14,0,2003,Eosinophilic
 Ang Thong,10-14,0,2003,Eosinophilic
 Nonthaburi,10-14,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,10-14,0,2003,Eosinophilic
 Pathum Thani,10-14,0,2003,Eosinophilic
-Zone 5,10-14,0,2003,Eosinophilic
+Zone:5,10-14,0,2003,Eosinophilic
 Chai Nat,10-14,0,2003,Eosinophilic
 Lop Buri,10-14,0,2003,Eosinophilic
 Saraburi,10-14,0,2003,Eosinophilic
 Sing Buri,10-14,0,2003,Eosinophilic
-Zone 6,10-14,0,2003,Eosinophilic
+Zone:6,10-14,0,2003,Eosinophilic
 Kanchanaburi,10-14,0,2003,Eosinophilic
 Nakhon Pathom,10-14,0,2003,Eosinophilic
 Ratchaburi,10-14,0,2003,Eosinophilic
 Suphan Buri,10-14,0,2003,Eosinophilic
-Zone 7,10-14,0,2003,Eosinophilic
+Zone:7,10-14,0,2003,Eosinophilic
 Phetchaburi,10-14,0,2003,Eosinophilic
 Prachuap Khiri Khan,10-14,0,2003,Eosinophilic
 Samut Sakhon,10-14,0,2003,Eosinophilic
 Samut Songkhram,10-14,0,2003,Eosinophilic
-Zone 8,10-14,0,2003,Eosinophilic
+Zone:8,10-14,0,2003,Eosinophilic
 Chachoengsao,10-14,0,2003,Eosinophilic
 Nakhon Nayok,10-14,0,2003,Eosinophilic
 Prachin Buri,10-14,0,2003,Eosinophilic
 Sa Kaeo,10-14,0,2003,Eosinophilic
 Samut Prakan,10-14,0,2003,Eosinophilic
-Zone 9,10-14,1,2003,Eosinophilic
+Zone:9,10-14,1,2003,Eosinophilic
 Chanthaburi,10-14,1,2003,Eosinophilic
 Chon Buri,10-14,0,2003,Eosinophilic
 Rayong,10-14,0,2003,Eosinophilic
 Trat,10-14,0,2003,Eosinophilic
 North-Eastern Region,10-14,13,2003,Eosinophilic
-Zone 10,10-14,6,2003,Eosinophilic
+Zone:10,10-14,6,2003,Eosinophilic
 Loei,10-14,6,2003,Eosinophilic
 Nong Bua Lam Phu,10-14,0,2003,Eosinophilic
 Nong Khai,10-14,0,2003,Eosinophilic
 Udon Thani,10-14,0,2003,Eosinophilic
-Zone 11,10-14,4,2003,Eosinophilic
+Zone:11,10-14,4,2003,Eosinophilic
 Kalasin,10-14,4,2003,Eosinophilic
 Mukdahan,10-14,0,2003,Eosinophilic
 Nakhon Phanom,10-14,0,2003,Eosinophilic
 Sakon Nakhon,10-14,0,2003,Eosinophilic
-Zone 12,10-14,1,2003,Eosinophilic
+Zone:12,10-14,1,2003,Eosinophilic
 Khon Kaen,10-14,0,2003,Eosinophilic
 Maha Sarakham,10-14,1,2003,Eosinophilic
 Roi Et,10-14,0,2003,Eosinophilic
-Zone 13,10-14,2,2003,Eosinophilic
+Zone:13,10-14,2,2003,Eosinophilic
 Buri Ram,10-14,1,2003,Eosinophilic
 Chaiyaphum,10-14,1,2003,Eosinophilic
 Nakhon Ratchasima,10-14,0,2003,Eosinophilic
 Surin,10-14,0,2003,Eosinophilic
-Zone 14,10-14,0,2003,Eosinophilic
+Zone:14,10-14,0,2003,Eosinophilic
 Amnat Charoen,10-14,0,2003,Eosinophilic
 Si Sa Ket,10-14,0,2003,Eosinophilic
 Ubon Ratchathani,10-14,0,2003,Eosinophilic
 Yasothon,10-14,0,2003,Eosinophilic
 South Region,10-14,0,2003,Eosinophilic
-Zone 15,10-14,0,2003,Eosinophilic
+Zone:15,10-14,0,2003,Eosinophilic
 Chumphon,10-14,0,2003,Eosinophilic
 Ranong,10-14,0,2003,Eosinophilic
 Surat Thani,10-14,0,2003,Eosinophilic
-Zone 16,10-14,0,2003,Eosinophilic
+Zone:16,10-14,0,2003,Eosinophilic
 Nakhon Si Thammarat,10-14,0,2003,Eosinophilic
 Phatthalung,10-14,0,2003,Eosinophilic
 Trang,10-14,0,2003,Eosinophilic
-Zone 17,10-14,0,2003,Eosinophilic
+Zone:17,10-14,0,2003,Eosinophilic
 Krabi,10-14,0,2003,Eosinophilic
 Phangnga,10-14,0,2003,Eosinophilic
 Phuket,10-14,0,2003,Eosinophilic
-Zone 18,10-14,0,2003,Eosinophilic
+Zone:18,10-14,0,2003,Eosinophilic
 Narathiwat,10-14,0,2003,Eosinophilic
 Pattani,10-14,0,2003,Eosinophilic
 Yala,10-14,0,2003,Eosinophilic
-Zone 19,10-14,0,2003,Eosinophilic
+Zone:19,10-14,0,2003,Eosinophilic
 Satun,10-14,0,2003,Eosinophilic
 Songkhla,10-14,0,2003,Eosinophilic
 Total,15-24,48,2003,Eosinophilic
 North Region,15-24,1,2003,Eosinophilic
-Zone 1,15-24,1,2003,Eosinophilic
+Zone:1,15-24,1,2003,Eosinophilic
 Chiang Mai,15-24,0,2003,Eosinophilic
 Chiang Rai,15-24,0,2003,Eosinophilic
 Lampang,15-24,0,2003,Eosinophilic
@@ -4386,98 +4386,98 @@ Mae Hong Son,15-24,0,2003,Eosinophilic
 Nan,15-24,0,2003,Eosinophilic
 Phayao,15-24,1,2003,Eosinophilic
 Phrae,15-24,0,2003,Eosinophilic
-Zone 2,15-24,0,2003,Eosinophilic
+Zone:2,15-24,0,2003,Eosinophilic
 Phetchabun,15-24,0,2003,Eosinophilic
 Phitsanulok,15-24,0,2003,Eosinophilic
 Sukhothai,15-24,0,2003,Eosinophilic
 Tak,15-24,0,2003,Eosinophilic
 Uttaradit,15-24,0,2003,Eosinophilic
-Zone 3,15-24,0,2003,Eosinophilic
+Zone:3,15-24,0,2003,Eosinophilic
 Kamphaeng Phet,15-24,0,2003,Eosinophilic
 Nakhon Sawan,15-24,0,2003,Eosinophilic
 Phichit,15-24,0,2003,Eosinophilic
 Uthai Thani,15-24,0,2003,Eosinophilic
 Central Region,15-24,2,2003,Eosinophilic
 Bangkok,15-24,0,2003,Eosinophilic
-Zone 4,15-24,0,2003,Eosinophilic
+Zone:4,15-24,0,2003,Eosinophilic
 Ang Thong,15-24,0,2003,Eosinophilic
 Nonthaburi,15-24,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,15-24,0,2003,Eosinophilic
 Pathum Thani,15-24,0,2003,Eosinophilic
-Zone 5,15-24,0,2003,Eosinophilic
+Zone:5,15-24,0,2003,Eosinophilic
 Chai Nat,15-24,0,2003,Eosinophilic
 Lop Buri,15-24,0,2003,Eosinophilic
 Saraburi,15-24,0,2003,Eosinophilic
 Sing Buri,15-24,0,2003,Eosinophilic
-Zone 6,15-24,0,2003,Eosinophilic
+Zone:6,15-24,0,2003,Eosinophilic
 Kanchanaburi,15-24,0,2003,Eosinophilic
 Nakhon Pathom,15-24,0,2003,Eosinophilic
 Ratchaburi,15-24,0,2003,Eosinophilic
 Suphan Buri,15-24,0,2003,Eosinophilic
-Zone 7,15-24,0,2003,Eosinophilic
+Zone:7,15-24,0,2003,Eosinophilic
 Phetchaburi,15-24,0,2003,Eosinophilic
 Prachuap Khiri Khan,15-24,0,2003,Eosinophilic
 Samut Sakhon,15-24,0,2003,Eosinophilic
 Samut Songkhram,15-24,0,2003,Eosinophilic
-Zone 8,15-24,0,2003,Eosinophilic
+Zone:8,15-24,0,2003,Eosinophilic
 Chachoengsao,15-24,0,2003,Eosinophilic
 Nakhon Nayok,15-24,0,2003,Eosinophilic
 Prachin Buri,15-24,0,2003,Eosinophilic
 Sa Kaeo,15-24,0,2003,Eosinophilic
 Samut Prakan,15-24,0,2003,Eosinophilic
-Zone 9,15-24,2,2003,Eosinophilic
+Zone:9,15-24,2,2003,Eosinophilic
 Chanthaburi,15-24,1,2003,Eosinophilic
 Chon Buri,15-24,0,2003,Eosinophilic
 Rayong,15-24,1,2003,Eosinophilic
 Trat,15-24,0,2003,Eosinophilic
 North-Eastern Region,15-24,44,2003,Eosinophilic
-Zone 10,15-24,25,2003,Eosinophilic
+Zone:10,15-24,25,2003,Eosinophilic
 Loei,15-24,24,2003,Eosinophilic
 Nong Bua Lam Phu,15-24,0,2003,Eosinophilic
 Nong Khai,15-24,0,2003,Eosinophilic
 Udon Thani,15-24,1,2003,Eosinophilic
-Zone 11,15-24,1,2003,Eosinophilic
+Zone:11,15-24,1,2003,Eosinophilic
 Kalasin,15-24,1,2003,Eosinophilic
 Mukdahan,15-24,0,2003,Eosinophilic
 Nakhon Phanom,15-24,0,2003,Eosinophilic
 Sakon Nakhon,15-24,0,2003,Eosinophilic
-Zone 12,15-24,5,2003,Eosinophilic
+Zone:12,15-24,5,2003,Eosinophilic
 Khon Kaen,15-24,0,2003,Eosinophilic
 Maha Sarakham,15-24,1,2003,Eosinophilic
 Roi Et,15-24,4,2003,Eosinophilic
-Zone 13,15-24,13,2003,Eosinophilic
+Zone:13,15-24,13,2003,Eosinophilic
 Buri Ram,15-24,5,2003,Eosinophilic
 Chaiyaphum,15-24,7,2003,Eosinophilic
 Nakhon Ratchasima,15-24,1,2003,Eosinophilic
 Surin,15-24,0,2003,Eosinophilic
-Zone 14,15-24,0,2003,Eosinophilic
+Zone:14,15-24,0,2003,Eosinophilic
 Amnat Charoen,15-24,0,2003,Eosinophilic
 Si Sa Ket,15-24,0,2003,Eosinophilic
 Ubon Ratchathani,15-24,0,2003,Eosinophilic
 Yasothon,15-24,0,2003,Eosinophilic
 South Region,15-24,1,2003,Eosinophilic
-Zone 15,15-24,1,2003,Eosinophilic
+Zone:15,15-24,1,2003,Eosinophilic
 Chumphon,15-24,1,2003,Eosinophilic
 Ranong,15-24,0,2003,Eosinophilic
 Surat Thani,15-24,0,2003,Eosinophilic
-Zone 16,15-24,0,2003,Eosinophilic
+Zone:16,15-24,0,2003,Eosinophilic
 Nakhon Si Thammarat,15-24,0,2003,Eosinophilic
 Phatthalung,15-24,0,2003,Eosinophilic
 Trang,15-24,0,2003,Eosinophilic
-Zone 17,15-24,0,2003,Eosinophilic
+Zone:17,15-24,0,2003,Eosinophilic
 Krabi,15-24,0,2003,Eosinophilic
 Phangnga,15-24,0,2003,Eosinophilic
 Phuket,15-24,0,2003,Eosinophilic
-Zone 18,15-24,0,2003,Eosinophilic
+Zone:18,15-24,0,2003,Eosinophilic
 Narathiwat,15-24,0,2003,Eosinophilic
 Pattani,15-24,0,2003,Eosinophilic
 Yala,15-24,0,2003,Eosinophilic
-Zone 19,15-24,0,2003,Eosinophilic
+Zone:19,15-24,0,2003,Eosinophilic
 Satun,15-24,0,2003,Eosinophilic
 Songkhla,15-24,0,2003,Eosinophilic
 Total,25-34,74,2003,Eosinophilic
 North Region,25-34,1,2003,Eosinophilic
-Zone 1,25-34,0,2003,Eosinophilic
+Zone:1,25-34,0,2003,Eosinophilic
 Chiang Mai,25-34,0,2003,Eosinophilic
 Chiang Rai,25-34,0,2003,Eosinophilic
 Lampang,25-34,0,2003,Eosinophilic
@@ -4486,98 +4486,98 @@ Mae Hong Son,25-34,0,2003,Eosinophilic
 Nan,25-34,0,2003,Eosinophilic
 Phayao,25-34,0,2003,Eosinophilic
 Phrae,25-34,0,2003,Eosinophilic
-Zone 2,25-34,0,2003,Eosinophilic
+Zone:2,25-34,0,2003,Eosinophilic
 Phetchabun,25-34,0,2003,Eosinophilic
 Phitsanulok,25-34,0,2003,Eosinophilic
 Sukhothai,25-34,0,2003,Eosinophilic
 Tak,25-34,0,2003,Eosinophilic
 Uttaradit,25-34,0,2003,Eosinophilic
-Zone 3,25-34,1,2003,Eosinophilic
+Zone:3,25-34,1,2003,Eosinophilic
 Kamphaeng Phet,25-34,1,2003,Eosinophilic
 Nakhon Sawan,25-34,0,2003,Eosinophilic
 Phichit,25-34,0,2003,Eosinophilic
 Uthai Thani,25-34,0,2003,Eosinophilic
 Central Region,25-34,2,2003,Eosinophilic
 Bangkok,25-34,0,2003,Eosinophilic
-Zone 4,25-34,2,2003,Eosinophilic
+Zone:4,25-34,2,2003,Eosinophilic
 Ang Thong,25-34,0,2003,Eosinophilic
 Nonthaburi,25-34,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,25-34,0,2003,Eosinophilic
 Pathum Thani,25-34,2,2003,Eosinophilic
-Zone 5,25-34,0,2003,Eosinophilic
+Zone:5,25-34,0,2003,Eosinophilic
 Chai Nat,25-34,0,2003,Eosinophilic
 Lop Buri,25-34,0,2003,Eosinophilic
 Saraburi,25-34,0,2003,Eosinophilic
 Sing Buri,25-34,0,2003,Eosinophilic
-Zone 6,25-34,0,2003,Eosinophilic
+Zone:6,25-34,0,2003,Eosinophilic
 Kanchanaburi,25-34,0,2003,Eosinophilic
 Nakhon Pathom,25-34,0,2003,Eosinophilic
 Ratchaburi,25-34,0,2003,Eosinophilic
 Suphan Buri,25-34,0,2003,Eosinophilic
-Zone 7,25-34,0,2003,Eosinophilic
+Zone:7,25-34,0,2003,Eosinophilic
 Phetchaburi,25-34,0,2003,Eosinophilic
 Prachuap Khiri Khan,25-34,0,2003,Eosinophilic
 Samut Sakhon,25-34,0,2003,Eosinophilic
 Samut Songkhram,25-34,0,2003,Eosinophilic
-Zone 8,25-34,0,2003,Eosinophilic
+Zone:8,25-34,0,2003,Eosinophilic
 Chachoengsao,25-34,0,2003,Eosinophilic
 Nakhon Nayok,25-34,0,2003,Eosinophilic
 Prachin Buri,25-34,0,2003,Eosinophilic
 Sa Kaeo,25-34,0,2003,Eosinophilic
 Samut Prakan,25-34,0,2003,Eosinophilic
-Zone 9,25-34,0,2003,Eosinophilic
+Zone:9,25-34,0,2003,Eosinophilic
 Chanthaburi,25-34,0,2003,Eosinophilic
 Chon Buri,25-34,0,2003,Eosinophilic
 Rayong,25-34,0,2003,Eosinophilic
 Trat,25-34,0,2003,Eosinophilic
 North-Eastern Region,25-34,71,2003,Eosinophilic
-Zone 10,25-34,37,2003,Eosinophilic
+Zone:10,25-34,37,2003,Eosinophilic
 Loei,25-34,37,2003,Eosinophilic
 Nong Bua Lam Phu,25-34,0,2003,Eosinophilic
 Nong Khai,25-34,0,2003,Eosinophilic
 Udon Thani,25-34,0,2003,Eosinophilic
-Zone 11,25-34,4,2003,Eosinophilic
+Zone:11,25-34,4,2003,Eosinophilic
 Kalasin,25-34,4,2003,Eosinophilic
 Mukdahan,25-34,0,2003,Eosinophilic
 Nakhon Phanom,25-34,0,2003,Eosinophilic
 Sakon Nakhon,25-34,0,2003,Eosinophilic
-Zone 12,25-34,12,2003,Eosinophilic
+Zone:12,25-34,12,2003,Eosinophilic
 Khon Kaen,25-34,3,2003,Eosinophilic
 Maha Sarakham,25-34,1,2003,Eosinophilic
 Roi Et,25-34,8,2003,Eosinophilic
-Zone 13,25-34,18,2003,Eosinophilic
+Zone:13,25-34,18,2003,Eosinophilic
 Buri Ram,25-34,8,2003,Eosinophilic
 Chaiyaphum,25-34,8,2003,Eosinophilic
 Nakhon Ratchasima,25-34,2,2003,Eosinophilic
 Surin,25-34,0,2003,Eosinophilic
-Zone 14,25-34,0,2003,Eosinophilic
+Zone:14,25-34,0,2003,Eosinophilic
 Amnat Charoen,25-34,0,2003,Eosinophilic
 Si Sa Ket,25-34,0,2003,Eosinophilic
 Ubon Ratchathani,25-34,0,2003,Eosinophilic
 Yasothon,25-34,0,2003,Eosinophilic
 South Region,25-34,0,2003,Eosinophilic
-Zone 15,25-34,0,2003,Eosinophilic
+Zone:15,25-34,0,2003,Eosinophilic
 Chumphon,25-34,0,2003,Eosinophilic
 Ranong,25-34,0,2003,Eosinophilic
 Surat Thani,25-34,0,2003,Eosinophilic
-Zone 16,25-34,0,2003,Eosinophilic
+Zone:16,25-34,0,2003,Eosinophilic
 Nakhon Si Thammarat,25-34,0,2003,Eosinophilic
 Phatthalung,25-34,0,2003,Eosinophilic
 Trang,25-34,0,2003,Eosinophilic
-Zone 17,25-34,0,2003,Eosinophilic
+Zone:17,25-34,0,2003,Eosinophilic
 Krabi,25-34,0,2003,Eosinophilic
 Phangnga,25-34,0,2003,Eosinophilic
 Phuket,25-34,0,2003,Eosinophilic
-Zone 18,25-34,0,2003,Eosinophilic
+Zone:18,25-34,0,2003,Eosinophilic
 Narathiwat,25-34,0,2003,Eosinophilic
 Pattani,25-34,0,2003,Eosinophilic
 Yala,25-34,0,2003,Eosinophilic
-Zone 19,25-34,0,2003,Eosinophilic
+Zone:19,25-34,0,2003,Eosinophilic
 Satun,25-34,0,2003,Eosinophilic
 Songkhla,25-34,0,2003,Eosinophilic
 Total,35-44,74,2003,Eosinophilic
 North Region,35-44,3,2003,Eosinophilic
-Zone 1,35-44,1,2003,Eosinophilic
+Zone:1,35-44,1,2003,Eosinophilic
 Chiang Mai,35-44,0,2003,Eosinophilic
 Chiang Rai,35-44,0,2003,Eosinophilic
 Lampang,35-44,0,2003,Eosinophilic
@@ -4586,98 +4586,98 @@ Mae Hong Son,35-44,0,2003,Eosinophilic
 Nan,35-44,0,2003,Eosinophilic
 Phayao,35-44,1,2003,Eosinophilic
 Phrae,35-44,0,2003,Eosinophilic
-Zone 2,35-44,2,2003,Eosinophilic
+Zone:2,35-44,2,2003,Eosinophilic
 Phetchabun,35-44,0,2003,Eosinophilic
 Phitsanulok,35-44,0,2003,Eosinophilic
 Sukhothai,35-44,0,2003,Eosinophilic
 Tak,35-44,2,2003,Eosinophilic
 Uttaradit,35-44,0,2003,Eosinophilic
-Zone 3,35-44,0,2003,Eosinophilic
+Zone:3,35-44,0,2003,Eosinophilic
 Kamphaeng Phet,35-44,0,2003,Eosinophilic
 Nakhon Sawan,35-44,0,2003,Eosinophilic
 Phichit,35-44,0,2003,Eosinophilic
 Uthai Thani,35-44,0,2003,Eosinophilic
 Central Region,35-44,2,2003,Eosinophilic
 Bangkok,35-44,0,2003,Eosinophilic
-Zone 4,35-44,0,2003,Eosinophilic
+Zone:4,35-44,0,2003,Eosinophilic
 Ang Thong,35-44,0,2003,Eosinophilic
 Nonthaburi,35-44,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,35-44,0,2003,Eosinophilic
 Pathum Thani,35-44,0,2003,Eosinophilic
-Zone 5,35-44,0,2003,Eosinophilic
+Zone:5,35-44,0,2003,Eosinophilic
 Chai Nat,35-44,0,2003,Eosinophilic
 Lop Buri,35-44,0,2003,Eosinophilic
 Saraburi,35-44,0,2003,Eosinophilic
 Sing Buri,35-44,0,2003,Eosinophilic
-Zone 6,35-44,0,2003,Eosinophilic
+Zone:6,35-44,0,2003,Eosinophilic
 Kanchanaburi,35-44,0,2003,Eosinophilic
 Nakhon Pathom,35-44,0,2003,Eosinophilic
 Ratchaburi,35-44,0,2003,Eosinophilic
 Suphan Buri,35-44,0,2003,Eosinophilic
-Zone 7,35-44,0,2003,Eosinophilic
+Zone:7,35-44,0,2003,Eosinophilic
 Phetchaburi,35-44,0,2003,Eosinophilic
 Prachuap Khiri Khan,35-44,0,2003,Eosinophilic
 Samut Sakhon,35-44,0,2003,Eosinophilic
 Samut Songkhram,35-44,0,2003,Eosinophilic
-Zone 8,35-44,0,2003,Eosinophilic
+Zone:8,35-44,0,2003,Eosinophilic
 Chachoengsao,35-44,0,2003,Eosinophilic
 Nakhon Nayok,35-44,0,2003,Eosinophilic
 Prachin Buri,35-44,0,2003,Eosinophilic
 Sa Kaeo,35-44,0,2003,Eosinophilic
 Samut Prakan,35-44,0,2003,Eosinophilic
-Zone 9,35-44,2,2003,Eosinophilic
+Zone:9,35-44,2,2003,Eosinophilic
 Chanthaburi,35-44,1,2003,Eosinophilic
 Chon Buri,35-44,0,2003,Eosinophilic
 Rayong,35-44,1,2003,Eosinophilic
 Trat,35-44,0,2003,Eosinophilic
 North-Eastern Region,35-44,68,2003,Eosinophilic
-Zone 10,35-44,34,2003,Eosinophilic
+Zone:10,35-44,34,2003,Eosinophilic
 Loei,35-44,32,2003,Eosinophilic
 Nong Bua Lam Phu,35-44,0,2003,Eosinophilic
 Nong Khai,35-44,0,2003,Eosinophilic
 Udon Thani,35-44,2,2003,Eosinophilic
-Zone 11,35-44,3,2003,Eosinophilic
+Zone:11,35-44,3,2003,Eosinophilic
 Kalasin,35-44,3,2003,Eosinophilic
 Mukdahan,35-44,0,2003,Eosinophilic
 Nakhon Phanom,35-44,0,2003,Eosinophilic
 Sakon Nakhon,35-44,0,2003,Eosinophilic
-Zone 12,35-44,10,2003,Eosinophilic
+Zone:12,35-44,10,2003,Eosinophilic
 Khon Kaen,35-44,8,2003,Eosinophilic
 Maha Sarakham,35-44,1,2003,Eosinophilic
 Roi Et,35-44,1,2003,Eosinophilic
-Zone 13,35-44,21,2003,Eosinophilic
+Zone:13,35-44,21,2003,Eosinophilic
 Buri Ram,35-44,13,2003,Eosinophilic
 Chaiyaphum,35-44,8,2003,Eosinophilic
 Nakhon Ratchasima,35-44,0,2003,Eosinophilic
 Surin,35-44,0,2003,Eosinophilic
-Zone 14,35-44,0,2003,Eosinophilic
+Zone:14,35-44,0,2003,Eosinophilic
 Amnat Charoen,35-44,0,2003,Eosinophilic
 Si Sa Ket,35-44,0,2003,Eosinophilic
 Ubon Ratchathani,35-44,0,2003,Eosinophilic
 Yasothon,35-44,0,2003,Eosinophilic
 South Region,35-44,1,2003,Eosinophilic
-Zone 15,35-44,0,2003,Eosinophilic
+Zone:15,35-44,0,2003,Eosinophilic
 Chumphon,35-44,0,2003,Eosinophilic
 Ranong,35-44,0,2003,Eosinophilic
 Surat Thani,35-44,0,2003,Eosinophilic
-Zone 16,35-44,0,2003,Eosinophilic
+Zone:16,35-44,0,2003,Eosinophilic
 Nakhon Si Thammarat,35-44,0,2003,Eosinophilic
 Phatthalung,35-44,0,2003,Eosinophilic
 Trang,35-44,0,2003,Eosinophilic
-Zone 17,35-44,1,2003,Eosinophilic
+Zone:17,35-44,1,2003,Eosinophilic
 Krabi,35-44,0,2003,Eosinophilic
 Phangnga,35-44,0,2003,Eosinophilic
 Phuket,35-44,1,2003,Eosinophilic
-Zone 18,35-44,0,2003,Eosinophilic
+Zone:18,35-44,0,2003,Eosinophilic
 Narathiwat,35-44,0,2003,Eosinophilic
 Pattani,35-44,0,2003,Eosinophilic
 Yala,35-44,0,2003,Eosinophilic
-Zone 19,35-44,0,2003,Eosinophilic
+Zone:19,35-44,0,2003,Eosinophilic
 Satun,35-44,0,2003,Eosinophilic
 Songkhla,35-44,0,2003,Eosinophilic
 Total,45-54,51,2003,Eosinophilic
 North Region,45-54,1,2003,Eosinophilic
-Zone 1,45-54,1,2003,Eosinophilic
+Zone:1,45-54,1,2003,Eosinophilic
 Chiang Mai,45-54,0,2003,Eosinophilic
 Chiang Rai,45-54,0,2003,Eosinophilic
 Lampang,45-54,0,2003,Eosinophilic
@@ -4686,98 +4686,98 @@ Mae Hong Son,45-54,0,2003,Eosinophilic
 Nan,45-54,1,2003,Eosinophilic
 Phayao,45-54,0,2003,Eosinophilic
 Phrae,45-54,0,2003,Eosinophilic
-Zone 2,45-54,0,2003,Eosinophilic
+Zone:2,45-54,0,2003,Eosinophilic
 Phetchabun,45-54,0,2003,Eosinophilic
 Phitsanulok,45-54,0,2003,Eosinophilic
 Sukhothai,45-54,0,2003,Eosinophilic
 Tak,45-54,0,2003,Eosinophilic
 Uttaradit,45-54,0,2003,Eosinophilic
-Zone 3,45-54,0,2003,Eosinophilic
+Zone:3,45-54,0,2003,Eosinophilic
 Kamphaeng Phet,45-54,0,2003,Eosinophilic
 Nakhon Sawan,45-54,0,2003,Eosinophilic
 Phichit,45-54,0,2003,Eosinophilic
 Uthai Thani,45-54,0,2003,Eosinophilic
 Central Region,45-54,0,2003,Eosinophilic
 Bangkok,45-54,0,2003,Eosinophilic
-Zone 4,45-54,0,2003,Eosinophilic
+Zone:4,45-54,0,2003,Eosinophilic
 Ang Thong,45-54,0,2003,Eosinophilic
 Nonthaburi,45-54,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,45-54,0,2003,Eosinophilic
 Pathum Thani,45-54,0,2003,Eosinophilic
-Zone 5,45-54,0,2003,Eosinophilic
+Zone:5,45-54,0,2003,Eosinophilic
 Chai Nat,45-54,0,2003,Eosinophilic
 Lop Buri,45-54,0,2003,Eosinophilic
 Saraburi,45-54,0,2003,Eosinophilic
 Sing Buri,45-54,0,2003,Eosinophilic
-Zone 6,45-54,0,2003,Eosinophilic
+Zone:6,45-54,0,2003,Eosinophilic
 Kanchanaburi,45-54,0,2003,Eosinophilic
 Nakhon Pathom,45-54,0,2003,Eosinophilic
 Ratchaburi,45-54,0,2003,Eosinophilic
 Suphan Buri,45-54,0,2003,Eosinophilic
-Zone 7,45-54,0,2003,Eosinophilic
+Zone:7,45-54,0,2003,Eosinophilic
 Phetchaburi,45-54,0,2003,Eosinophilic
 Prachuap Khiri Khan,45-54,0,2003,Eosinophilic
 Samut Sakhon,45-54,0,2003,Eosinophilic
 Samut Songkhram,45-54,0,2003,Eosinophilic
-Zone 8,45-54,0,2003,Eosinophilic
+Zone:8,45-54,0,2003,Eosinophilic
 Chachoengsao,45-54,0,2003,Eosinophilic
 Nakhon Nayok,45-54,0,2003,Eosinophilic
 Prachin Buri,45-54,0,2003,Eosinophilic
 Sa Kaeo,45-54,0,2003,Eosinophilic
 Samut Prakan,45-54,0,2003,Eosinophilic
-Zone 9,45-54,0,2003,Eosinophilic
+Zone:9,45-54,0,2003,Eosinophilic
 Chanthaburi,45-54,0,2003,Eosinophilic
 Chon Buri,45-54,0,2003,Eosinophilic
 Rayong,45-54,0,2003,Eosinophilic
 Trat,45-54,0,2003,Eosinophilic
 North-Eastern Region,45-54,50,2003,Eosinophilic
-Zone 10,45-54,24,2003,Eosinophilic
+Zone:10,45-54,24,2003,Eosinophilic
 Loei,45-54,24,2003,Eosinophilic
 Nong Bua Lam Phu,45-54,0,2003,Eosinophilic
 Nong Khai,45-54,0,2003,Eosinophilic
 Udon Thani,45-54,0,2003,Eosinophilic
-Zone 11,45-54,0,2003,Eosinophilic
+Zone:11,45-54,0,2003,Eosinophilic
 Kalasin,45-54,0,2003,Eosinophilic
 Mukdahan,45-54,0,2003,Eosinophilic
 Nakhon Phanom,45-54,0,2003,Eosinophilic
 Sakon Nakhon,45-54,0,2003,Eosinophilic
-Zone 12,45-54,8,2003,Eosinophilic
+Zone:12,45-54,8,2003,Eosinophilic
 Khon Kaen,45-54,3,2003,Eosinophilic
 Maha Sarakham,45-54,2,2003,Eosinophilic
 Roi Et,45-54,3,2003,Eosinophilic
-Zone 13,45-54,18,2003,Eosinophilic
+Zone:13,45-54,18,2003,Eosinophilic
 Buri Ram,45-54,14,2003,Eosinophilic
 Chaiyaphum,45-54,3,2003,Eosinophilic
 Nakhon Ratchasima,45-54,1,2003,Eosinophilic
 Surin,45-54,0,2003,Eosinophilic
-Zone 14,45-54,0,2003,Eosinophilic
+Zone:14,45-54,0,2003,Eosinophilic
 Amnat Charoen,45-54,0,2003,Eosinophilic
 Si Sa Ket,45-54,0,2003,Eosinophilic
 Ubon Ratchathani,45-54,0,2003,Eosinophilic
 Yasothon,45-54,0,2003,Eosinophilic
 South Region,45-54,0,2003,Eosinophilic
-Zone 15,45-54,0,2003,Eosinophilic
+Zone:15,45-54,0,2003,Eosinophilic
 Chumphon,45-54,0,2003,Eosinophilic
 Ranong,45-54,0,2003,Eosinophilic
 Surat Thani,45-54,0,2003,Eosinophilic
-Zone 16,45-54,0,2003,Eosinophilic
+Zone:16,45-54,0,2003,Eosinophilic
 Nakhon Si Thammarat,45-54,0,2003,Eosinophilic
 Phatthalung,45-54,0,2003,Eosinophilic
 Trang,45-54,0,2003,Eosinophilic
-Zone 17,45-54,0,2003,Eosinophilic
+Zone:17,45-54,0,2003,Eosinophilic
 Krabi,45-54,0,2003,Eosinophilic
 Phangnga,45-54,0,2003,Eosinophilic
 Phuket,45-54,0,2003,Eosinophilic
-Zone 18,45-54,0,2003,Eosinophilic
+Zone:18,45-54,0,2003,Eosinophilic
 Narathiwat,45-54,0,2003,Eosinophilic
 Pattani,45-54,0,2003,Eosinophilic
 Yala,45-54,0,2003,Eosinophilic
-Zone 19,45-54,0,2003,Eosinophilic
+Zone:19,45-54,0,2003,Eosinophilic
 Satun,45-54,0,2003,Eosinophilic
 Songkhla,45-54,0,2003,Eosinophilic
 Total,55-64,29,2003,Eosinophilic
 North Region,55-64,1,2003,Eosinophilic
-Zone 1,55-64,0,2003,Eosinophilic
+Zone:1,55-64,0,2003,Eosinophilic
 Chiang Mai,55-64,0,2003,Eosinophilic
 Chiang Rai,55-64,0,2003,Eosinophilic
 Lampang,55-64,0,2003,Eosinophilic
@@ -4786,98 +4786,98 @@ Mae Hong Son,55-64,0,2003,Eosinophilic
 Nan,55-64,0,2003,Eosinophilic
 Phayao,55-64,0,2003,Eosinophilic
 Phrae,55-64,0,2003,Eosinophilic
-Zone 2,55-64,1,2003,Eosinophilic
+Zone:2,55-64,1,2003,Eosinophilic
 Phetchabun,55-64,0,2003,Eosinophilic
 Phitsanulok,55-64,0,2003,Eosinophilic
 Sukhothai,55-64,0,2003,Eosinophilic
 Tak,55-64,1,2003,Eosinophilic
 Uttaradit,55-64,0,2003,Eosinophilic
-Zone 3,55-64,0,2003,Eosinophilic
+Zone:3,55-64,0,2003,Eosinophilic
 Kamphaeng Phet,55-64,0,2003,Eosinophilic
 Nakhon Sawan,55-64,0,2003,Eosinophilic
 Phichit,55-64,0,2003,Eosinophilic
 Uthai Thani,55-64,0,2003,Eosinophilic
 Central Region,55-64,0,2003,Eosinophilic
 Bangkok,55-64,0,2003,Eosinophilic
-Zone 4,55-64,0,2003,Eosinophilic
+Zone:4,55-64,0,2003,Eosinophilic
 Ang Thong,55-64,0,2003,Eosinophilic
 Nonthaburi,55-64,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,55-64,0,2003,Eosinophilic
 Pathum Thani,55-64,0,2003,Eosinophilic
-Zone 5,55-64,0,2003,Eosinophilic
+Zone:5,55-64,0,2003,Eosinophilic
 Chai Nat,55-64,0,2003,Eosinophilic
 Lop Buri,55-64,0,2003,Eosinophilic
 Saraburi,55-64,0,2003,Eosinophilic
 Sing Buri,55-64,0,2003,Eosinophilic
-Zone 6,55-64,0,2003,Eosinophilic
+Zone:6,55-64,0,2003,Eosinophilic
 Kanchanaburi,55-64,0,2003,Eosinophilic
 Nakhon Pathom,55-64,0,2003,Eosinophilic
 Ratchaburi,55-64,0,2003,Eosinophilic
 Suphan Buri,55-64,0,2003,Eosinophilic
-Zone 7,55-64,0,2003,Eosinophilic
+Zone:7,55-64,0,2003,Eosinophilic
 Phetchaburi,55-64,0,2003,Eosinophilic
 Prachuap Khiri Khan,55-64,0,2003,Eosinophilic
 Samut Sakhon,55-64,0,2003,Eosinophilic
 Samut Songkhram,55-64,0,2003,Eosinophilic
-Zone 8,55-64,0,2003,Eosinophilic
+Zone:8,55-64,0,2003,Eosinophilic
 Chachoengsao,55-64,0,2003,Eosinophilic
 Nakhon Nayok,55-64,0,2003,Eosinophilic
 Prachin Buri,55-64,0,2003,Eosinophilic
 Sa Kaeo,55-64,0,2003,Eosinophilic
 Samut Prakan,55-64,0,2003,Eosinophilic
-Zone 9,55-64,0,2003,Eosinophilic
+Zone:9,55-64,0,2003,Eosinophilic
 Chanthaburi,55-64,0,2003,Eosinophilic
 Chon Buri,55-64,0,2003,Eosinophilic
 Rayong,55-64,0,2003,Eosinophilic
 Trat,55-64,0,2003,Eosinophilic
 North-Eastern Region,55-64,28,2003,Eosinophilic
-Zone 10,55-64,12,2003,Eosinophilic
+Zone:10,55-64,12,2003,Eosinophilic
 Loei,55-64,11,2003,Eosinophilic
 Nong Bua Lam Phu,55-64,1,2003,Eosinophilic
 Nong Khai,55-64,0,2003,Eosinophilic
 Udon Thani,55-64,0,2003,Eosinophilic
-Zone 11,55-64,1,2003,Eosinophilic
+Zone:11,55-64,1,2003,Eosinophilic
 Kalasin,55-64,1,2003,Eosinophilic
 Mukdahan,55-64,0,2003,Eosinophilic
 Nakhon Phanom,55-64,0,2003,Eosinophilic
 Sakon Nakhon,55-64,0,2003,Eosinophilic
-Zone 12,55-64,5,2003,Eosinophilic
+Zone:12,55-64,5,2003,Eosinophilic
 Khon Kaen,55-64,2,2003,Eosinophilic
 Maha Sarakham,55-64,0,2003,Eosinophilic
 Roi Et,55-64,3,2003,Eosinophilic
-Zone 13,55-64,10,2003,Eosinophilic
+Zone:13,55-64,10,2003,Eosinophilic
 Buri Ram,55-64,6,2003,Eosinophilic
 Chaiyaphum,55-64,3,2003,Eosinophilic
 Nakhon Ratchasima,55-64,1,2003,Eosinophilic
 Surin,55-64,0,2003,Eosinophilic
-Zone 14,55-64,0,2003,Eosinophilic
+Zone:14,55-64,0,2003,Eosinophilic
 Amnat Charoen,55-64,0,2003,Eosinophilic
 Si Sa Ket,55-64,0,2003,Eosinophilic
 Ubon Ratchathani,55-64,0,2003,Eosinophilic
 Yasothon,55-64,0,2003,Eosinophilic
 South Region,55-64,0,2003,Eosinophilic
-Zone 15,55-64,0,2003,Eosinophilic
+Zone:15,55-64,0,2003,Eosinophilic
 Chumphon,55-64,0,2003,Eosinophilic
 Ranong,55-64,0,2003,Eosinophilic
 Surat Thani,55-64,0,2003,Eosinophilic
-Zone 16,55-64,0,2003,Eosinophilic
+Zone:16,55-64,0,2003,Eosinophilic
 Nakhon Si Thammarat,55-64,0,2003,Eosinophilic
 Phatthalung,55-64,0,2003,Eosinophilic
 Trang,55-64,0,2003,Eosinophilic
-Zone 17,55-64,0,2003,Eosinophilic
+Zone:17,55-64,0,2003,Eosinophilic
 Krabi,55-64,0,2003,Eosinophilic
 Phangnga,55-64,0,2003,Eosinophilic
 Phuket,55-64,0,2003,Eosinophilic
-Zone 18,55-64,0,2003,Eosinophilic
+Zone:18,55-64,0,2003,Eosinophilic
 Narathiwat,55-64,0,2003,Eosinophilic
 Pattani,55-64,0,2003,Eosinophilic
 Yala,55-64,0,2003,Eosinophilic
-Zone 19,55-64,0,2003,Eosinophilic
+Zone:19,55-64,0,2003,Eosinophilic
 Satun,55-64,0,2003,Eosinophilic
 Songkhla,55-64,0,2003,Eosinophilic
 Total,65+,10,2003,Eosinophilic
 North Region,65+,0,2003,Eosinophilic
-Zone 1,65+,0,2003,Eosinophilic
+Zone:1,65+,0,2003,Eosinophilic
 Chiang Mai,65+,0,2003,Eosinophilic
 Chiang Rai,65+,0,2003,Eosinophilic
 Lampang,65+,0,2003,Eosinophilic
@@ -4886,98 +4886,98 @@ Mae Hong Son,65+,0,2003,Eosinophilic
 Nan,65+,0,2003,Eosinophilic
 Phayao,65+,0,2003,Eosinophilic
 Phrae,65+,0,2003,Eosinophilic
-Zone 2,65+,0,2003,Eosinophilic
+Zone:2,65+,0,2003,Eosinophilic
 Phetchabun,65+,0,2003,Eosinophilic
 Phitsanulok,65+,0,2003,Eosinophilic
 Sukhothai,65+,0,2003,Eosinophilic
 Tak,65+,0,2003,Eosinophilic
 Uttaradit,65+,0,2003,Eosinophilic
-Zone 3,65+,0,2003,Eosinophilic
+Zone:3,65+,0,2003,Eosinophilic
 Kamphaeng Phet,65+,0,2003,Eosinophilic
 Nakhon Sawan,65+,0,2003,Eosinophilic
 Phichit,65+,0,2003,Eosinophilic
 Uthai Thani,65+,0,2003,Eosinophilic
 Central Region,65+,1,2003,Eosinophilic
 Bangkok,65+,0,2003,Eosinophilic
-Zone 4,65+,0,2003,Eosinophilic
+Zone:4,65+,0,2003,Eosinophilic
 Ang Thong,65+,0,2003,Eosinophilic
 Nonthaburi,65+,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,65+,0,2003,Eosinophilic
 Pathum Thani,65+,0,2003,Eosinophilic
-Zone 5,65+,1,2003,Eosinophilic
+Zone:5,65+,1,2003,Eosinophilic
 Chai Nat,65+,0,2003,Eosinophilic
 Lop Buri,65+,0,2003,Eosinophilic
 Saraburi,65+,1,2003,Eosinophilic
 Sing Buri,65+,0,2003,Eosinophilic
-Zone 6,65+,0,2003,Eosinophilic
+Zone:6,65+,0,2003,Eosinophilic
 Kanchanaburi,65+,0,2003,Eosinophilic
 Nakhon Pathom,65+,0,2003,Eosinophilic
 Ratchaburi,65+,0,2003,Eosinophilic
 Suphan Buri,65+,0,2003,Eosinophilic
-Zone 7,65+,0,2003,Eosinophilic
+Zone:7,65+,0,2003,Eosinophilic
 Phetchaburi,65+,0,2003,Eosinophilic
 Prachuap Khiri Khan,65+,0,2003,Eosinophilic
 Samut Sakhon,65+,0,2003,Eosinophilic
 Samut Songkhram,65+,0,2003,Eosinophilic
-Zone 8,65+,0,2003,Eosinophilic
+Zone:8,65+,0,2003,Eosinophilic
 Chachoengsao,65+,0,2003,Eosinophilic
 Nakhon Nayok,65+,0,2003,Eosinophilic
 Prachin Buri,65+,0,2003,Eosinophilic
 Sa Kaeo,65+,0,2003,Eosinophilic
 Samut Prakan,65+,0,2003,Eosinophilic
-Zone 9,65+,0,2003,Eosinophilic
+Zone:9,65+,0,2003,Eosinophilic
 Chanthaburi,65+,0,2003,Eosinophilic
 Chon Buri,65+,0,2003,Eosinophilic
 Rayong,65+,0,2003,Eosinophilic
 Trat,65+,0,2003,Eosinophilic
 North-Eastern Region,65+,8,2003,Eosinophilic
-Zone 10,65+,6,2003,Eosinophilic
+Zone:10,65+,6,2003,Eosinophilic
 Loei,65+,6,2003,Eosinophilic
 Nong Bua Lam Phu,65+,0,2003,Eosinophilic
 Nong Khai,65+,0,2003,Eosinophilic
 Udon Thani,65+,0,2003,Eosinophilic
-Zone 11,65+,1,2003,Eosinophilic
+Zone:11,65+,1,2003,Eosinophilic
 Kalasin,65+,1,2003,Eosinophilic
 Mukdahan,65+,0,2003,Eosinophilic
 Nakhon Phanom,65+,0,2003,Eosinophilic
 Sakon Nakhon,65+,0,2003,Eosinophilic
-Zone 12,65+,0,2003,Eosinophilic
+Zone:12,65+,0,2003,Eosinophilic
 Khon Kaen,65+,0,2003,Eosinophilic
 Maha Sarakham,65+,0,2003,Eosinophilic
 Roi Et,65+,0,2003,Eosinophilic
-Zone 13,65+,1,2003,Eosinophilic
+Zone:13,65+,1,2003,Eosinophilic
 Buri Ram,65+,1,2003,Eosinophilic
 Chaiyaphum,65+,0,2003,Eosinophilic
 Nakhon Ratchasima,65+,0,2003,Eosinophilic
 Surin,65+,0,2003,Eosinophilic
-Zone 14,65+,0,2003,Eosinophilic
+Zone:14,65+,0,2003,Eosinophilic
 Amnat Charoen,65+,0,2003,Eosinophilic
 Si Sa Ket,65+,0,2003,Eosinophilic
 Ubon Ratchathani,65+,0,2003,Eosinophilic
 Yasothon,65+,0,2003,Eosinophilic
 South Region,65+,1,2003,Eosinophilic
-Zone 15,65+,0,2003,Eosinophilic
+Zone:15,65+,0,2003,Eosinophilic
 Chumphon,65+,0,2003,Eosinophilic
 Ranong,65+,0,2003,Eosinophilic
 Surat Thani,65+,0,2003,Eosinophilic
-Zone 16,65+,0,2003,Eosinophilic
+Zone:16,65+,0,2003,Eosinophilic
 Nakhon Si Thammarat,65+,0,2003,Eosinophilic
 Phatthalung,65+,0,2003,Eosinophilic
 Trang,65+,0,2003,Eosinophilic
-Zone 17,65+,1,2003,Eosinophilic
+Zone:17,65+,1,2003,Eosinophilic
 Krabi,65+,0,2003,Eosinophilic
 Phangnga,65+,0,2003,Eosinophilic
 Phuket,65+,1,2003,Eosinophilic
-Zone 18,65+,0,2003,Eosinophilic
+Zone:18,65+,0,2003,Eosinophilic
 Narathiwat,65+,0,2003,Eosinophilic
 Pattani,65+,0,2003,Eosinophilic
 Yala,65+,0,2003,Eosinophilic
-Zone 19,65+,0,2003,Eosinophilic
+Zone:19,65+,0,2003,Eosinophilic
 Satun,65+,0,2003,Eosinophilic
 Songkhla,65+,0,2003,Eosinophilic
 Total,Unknown,0,2003,Eosinophilic
 North Region,Unknown,0,2003,Eosinophilic
-Zone 1,Unknown,0,2003,Eosinophilic
+Zone:1,Unknown,0,2003,Eosinophilic
 Chiang Mai,Unknown,0,2003,Eosinophilic
 Chiang Rai,Unknown,0,2003,Eosinophilic
 Lampang,Unknown,0,2003,Eosinophilic
@@ -4986,93 +4986,93 @@ Mae Hong Son,Unknown,0,2003,Eosinophilic
 Nan,Unknown,0,2003,Eosinophilic
 Phayao,Unknown,0,2003,Eosinophilic
 Phrae,Unknown,0,2003,Eosinophilic
-Zone 2,Unknown,0,2003,Eosinophilic
+Zone:2,Unknown,0,2003,Eosinophilic
 Phetchabun,Unknown,0,2003,Eosinophilic
 Phitsanulok,Unknown,0,2003,Eosinophilic
 Sukhothai,Unknown,0,2003,Eosinophilic
 Tak,Unknown,0,2003,Eosinophilic
 Uttaradit,Unknown,0,2003,Eosinophilic
-Zone 3,Unknown,0,2003,Eosinophilic
+Zone:3,Unknown,0,2003,Eosinophilic
 Kamphaeng Phet,Unknown,0,2003,Eosinophilic
 Nakhon Sawan,Unknown,0,2003,Eosinophilic
 Phichit,Unknown,0,2003,Eosinophilic
 Uthai Thani,Unknown,0,2003,Eosinophilic
 Central Region,Unknown,0,2003,Eosinophilic
 Bangkok,Unknown,0,2003,Eosinophilic
-Zone 4,Unknown,0,2003,Eosinophilic
+Zone:4,Unknown,0,2003,Eosinophilic
 Ang Thong,Unknown,0,2003,Eosinophilic
 Nonthaburi,Unknown,0,2003,Eosinophilic
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Eosinophilic
 Pathum Thani,Unknown,0,2003,Eosinophilic
-Zone 5,Unknown,0,2003,Eosinophilic
+Zone:5,Unknown,0,2003,Eosinophilic
 Chai Nat,Unknown,0,2003,Eosinophilic
 Lop Buri,Unknown,0,2003,Eosinophilic
 Saraburi,Unknown,0,2003,Eosinophilic
 Sing Buri,Unknown,0,2003,Eosinophilic
-Zone 6,Unknown,0,2003,Eosinophilic
+Zone:6,Unknown,0,2003,Eosinophilic
 Kanchanaburi,Unknown,0,2003,Eosinophilic
 Nakhon Pathom,Unknown,0,2003,Eosinophilic
 Ratchaburi,Unknown,0,2003,Eosinophilic
 Suphan Buri,Unknown,0,2003,Eosinophilic
-Zone 7,Unknown,0,2003,Eosinophilic
+Zone:7,Unknown,0,2003,Eosinophilic
 Phetchaburi,Unknown,0,2003,Eosinophilic
 Prachuap Khiri Khan,Unknown,0,2003,Eosinophilic
 Samut Sakhon,Unknown,0,2003,Eosinophilic
 Samut Songkhram,Unknown,0,2003,Eosinophilic
-Zone 8,Unknown,0,2003,Eosinophilic
+Zone:8,Unknown,0,2003,Eosinophilic
 Chachoengsao,Unknown,0,2003,Eosinophilic
 Nakhon Nayok,Unknown,0,2003,Eosinophilic
 Prachin Buri,Unknown,0,2003,Eosinophilic
 Sa Kaeo,Unknown,0,2003,Eosinophilic
 Samut Prakan,Unknown,0,2003,Eosinophilic
-Zone 9,Unknown,0,2003,Eosinophilic
+Zone:9,Unknown,0,2003,Eosinophilic
 Chanthaburi,Unknown,0,2003,Eosinophilic
 Chon Buri,Unknown,0,2003,Eosinophilic
 Rayong,Unknown,0,2003,Eosinophilic
 Trat,Unknown,0,2003,Eosinophilic
 North-Eastern Region,Unknown,0,2003,Eosinophilic
-Zone 10,Unknown,0,2003,Eosinophilic
+Zone:10,Unknown,0,2003,Eosinophilic
 Loei,Unknown,0,2003,Eosinophilic
 Nong Bua Lam Phu,Unknown,0,2003,Eosinophilic
 Nong Khai,Unknown,0,2003,Eosinophilic
 Udon Thani,Unknown,0,2003,Eosinophilic
-Zone 11,Unknown,0,2003,Eosinophilic
+Zone:11,Unknown,0,2003,Eosinophilic
 Kalasin,Unknown,0,2003,Eosinophilic
 Mukdahan,Unknown,0,2003,Eosinophilic
 Nakhon Phanom,Unknown,0,2003,Eosinophilic
 Sakon Nakhon,Unknown,0,2003,Eosinophilic
-Zone 12,Unknown,0,2003,Eosinophilic
+Zone:12,Unknown,0,2003,Eosinophilic
 Khon Kaen,Unknown,0,2003,Eosinophilic
 Maha Sarakham,Unknown,0,2003,Eosinophilic
 Roi Et,Unknown,0,2003,Eosinophilic
-Zone 13,Unknown,0,2003,Eosinophilic
+Zone:13,Unknown,0,2003,Eosinophilic
 Buri Ram,Unknown,0,2003,Eosinophilic
 Chaiyaphum,Unknown,0,2003,Eosinophilic
 Nakhon Ratchasima,Unknown,0,2003,Eosinophilic
 Surin,Unknown,0,2003,Eosinophilic
-Zone 14,Unknown,0,2003,Eosinophilic
+Zone:14,Unknown,0,2003,Eosinophilic
 Amnat Charoen,Unknown,0,2003,Eosinophilic
 Si Sa Ket,Unknown,0,2003,Eosinophilic
 Ubon Ratchathani,Unknown,0,2003,Eosinophilic
 Yasothon,Unknown,0,2003,Eosinophilic
 South Region,Unknown,0,2003,Eosinophilic
-Zone 15,Unknown,0,2003,Eosinophilic
+Zone:15,Unknown,0,2003,Eosinophilic
 Chumphon,Unknown,0,2003,Eosinophilic
 Ranong,Unknown,0,2003,Eosinophilic
 Surat Thani,Unknown,0,2003,Eosinophilic
-Zone 16,Unknown,0,2003,Eosinophilic
+Zone:16,Unknown,0,2003,Eosinophilic
 Nakhon Si Thammarat,Unknown,0,2003,Eosinophilic
 Phatthalung,Unknown,0,2003,Eosinophilic
 Trang,Unknown,0,2003,Eosinophilic
-Zone 17,Unknown,0,2003,Eosinophilic
+Zone:17,Unknown,0,2003,Eosinophilic
 Krabi,Unknown,0,2003,Eosinophilic
 Phangnga,Unknown,0,2003,Eosinophilic
 Phuket,Unknown,0,2003,Eosinophilic
-Zone 18,Unknown,0,2003,Eosinophilic
+Zone:18,Unknown,0,2003,Eosinophilic
 Narathiwat,Unknown,0,2003,Eosinophilic
 Pattani,Unknown,0,2003,Eosinophilic
 Yala,Unknown,0,2003,Eosinophilic
-Zone 19,Unknown,0,2003,Eosinophilic
+Zone:19,Unknown,0,2003,Eosinophilic
 Satun,Unknown,0,2003,Eosinophilic
 Songkhla,Unknown,0,2003,Eosinophilic
 Total,Total,155,2011,Eosinophilic
@@ -8533,7 +8533,7 @@ ZONE:13,Unknown,0,2019,Eosinophilic
 Bangkok,Unknown,0,2019,Eosinophilic
 Total,Total,250,2004,Eosinophilic
 North Region,Total,4,2004,Eosinophilic
-Zone 1,Total,4,2004,Eosinophilic
+Zone:1,Total,4,2004,Eosinophilic
 Chiang Mai,Total,0,2004,Eosinophilic
 Chiang Rai,Total,2,2004,Eosinophilic
 Lampang,Total,2,2004,Eosinophilic
@@ -8542,98 +8542,98 @@ Mae Hong Son,Total,0,2004,Eosinophilic
 Nan,Total,0,2004,Eosinophilic
 Phayao,Total,0,2004,Eosinophilic
 Phrae,Total,0,2004,Eosinophilic
-Zone 2,Total,0,2004,Eosinophilic
+Zone:2,Total,0,2004,Eosinophilic
 Phetchabun,Total,0,2004,Eosinophilic
 Phitsanulok,Total,0,2004,Eosinophilic
 Sukhothai,Total,0,2004,Eosinophilic
 Tak,Total,0,2004,Eosinophilic
 Uttaradit,Total,0,2004,Eosinophilic
-Zone 3,Total,0,2004,Eosinophilic
+Zone:3,Total,0,2004,Eosinophilic
 Kamphaeng Phet,Total,0,2004,Eosinophilic
 Nakhon Sawan,Total,0,2004,Eosinophilic
 Phichit,Total,0,2004,Eosinophilic
 Uthai Thani,Total,0,2004,Eosinophilic
 Central Region,Total,7,2004,Eosinophilic
 Bangkok,Total,0,2004,Eosinophilic
-Zone 4,Total,0,2004,Eosinophilic
+Zone:4,Total,0,2004,Eosinophilic
 Ang Thong,Total,0,2004,Eosinophilic
 Nonthaburi,Total,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,Total,0,2004,Eosinophilic
 Pathum Thani,Total,0,2004,Eosinophilic
-Zone 5,Total,0,2004,Eosinophilic
+Zone:5,Total,0,2004,Eosinophilic
 Chai Nat,Total,0,2004,Eosinophilic
 Lop Buri,Total,0,2004,Eosinophilic
 Saraburi,Total,0,2004,Eosinophilic
 Sing Buri,Total,0,2004,Eosinophilic
-Zone 6,Total,1,2004,Eosinophilic
+Zone:6,Total,1,2004,Eosinophilic
 Kanchanaburi,Total,0,2004,Eosinophilic
 Nakhon Pathom,Total,0,2004,Eosinophilic
 Ratchaburi,Total,1,2004,Eosinophilic
 Suphan Buri,Total,0,2004,Eosinophilic
-Zone 7,Total,0,2004,Eosinophilic
+Zone:7,Total,0,2004,Eosinophilic
 Phetchaburi,Total,0,2004,Eosinophilic
 Prachuap Khiri Khan,Total,0,2004,Eosinophilic
 Samut Sakhon,Total,0,2004,Eosinophilic
 Samut Songkhram,Total,0,2004,Eosinophilic
-Zone 8,Total,0,2004,Eosinophilic
+Zone:8,Total,0,2004,Eosinophilic
 Chachoengsao,Total,0,2004,Eosinophilic
 Nakhon Nayok,Total,0,2004,Eosinophilic
 Prachin Buri,Total,0,2004,Eosinophilic
 Sa Kaeo,Total,0,2004,Eosinophilic
 Samut Prakan,Total,0,2004,Eosinophilic
-Zone 9,Total,6,2004,Eosinophilic
+Zone:9,Total,6,2004,Eosinophilic
 Chanthaburi,Total,5,2004,Eosinophilic
 Chon Buri,Total,0,2004,Eosinophilic
 Rayong,Total,1,2004,Eosinophilic
 Trat,Total,0,2004,Eosinophilic
 North-Eastern Region,Total,237,2004,Eosinophilic
-Zone 10,Total,152,2004,Eosinophilic
+Zone:10,Total,152,2004,Eosinophilic
 Loei,Total,130,2004,Eosinophilic
 Nong Bua Lam Phu,Total,1,2004,Eosinophilic
 Nong Khai,Total,0,2004,Eosinophilic
 Udon Thani,Total,21,2004,Eosinophilic
-Zone 11,Total,16,2004,Eosinophilic
+Zone:11,Total,16,2004,Eosinophilic
 Kalasin,Total,15,2004,Eosinophilic
 Mukdahan,Total,1,2004,Eosinophilic
 Nakhon Phanom,Total,0,2004,Eosinophilic
 Sakon Nakhon,Total,0,2004,Eosinophilic
-Zone 12,Total,19,2004,Eosinophilic
+Zone:12,Total,19,2004,Eosinophilic
 Khon Kaen,Total,8,2004,Eosinophilic
 Maha Sarakham,Total,3,2004,Eosinophilic
 Roi Et,Total,8,2004,Eosinophilic
-Zone 13,Total,47,2004,Eosinophilic
+Zone:13,Total,47,2004,Eosinophilic
 Buri Ram,Total,15,2004,Eosinophilic
 Chaiyaphum,Total,29,2004,Eosinophilic
 Nakhon Ratchasima,Total,2,2004,Eosinophilic
 Surin,Total,1,2004,Eosinophilic
-Zone 14,Total,3,2004,Eosinophilic
+Zone:14,Total,3,2004,Eosinophilic
 Amnat Charoen,Total,0,2004,Eosinophilic
 Si Sa Ket,Total,3,2004,Eosinophilic
 Ubon Ratchathani,Total,0,2004,Eosinophilic
 Yasothon,Total,0,2004,Eosinophilic
 South Region,Total,2,2004,Eosinophilic
-Zone 15,Total,1,2004,Eosinophilic
+Zone:15,Total,1,2004,Eosinophilic
 Chumphon,Total,1,2004,Eosinophilic
 Ranong,Total,0,2004,Eosinophilic
 Surat Thani,Total,0,2004,Eosinophilic
-Zone 16,Total,0,2004,Eosinophilic
+Zone:16,Total,0,2004,Eosinophilic
 Nakhon Si Thammarat,Total,0,2004,Eosinophilic
 Phatthalung,Total,0,2004,Eosinophilic
 Trang,Total,0,2004,Eosinophilic
-Zone 17,Total,1,2004,Eosinophilic
+Zone:17,Total,1,2004,Eosinophilic
 Krabi,Total,0,2004,Eosinophilic
 Phangnga,Total,0,2004,Eosinophilic
 Phuket,Total,1,2004,Eosinophilic
-Zone 18,Total,0,2004,Eosinophilic
+Zone:18,Total,0,2004,Eosinophilic
 Narathiwat,Total,0,2004,Eosinophilic
 Pattani,Total,0,2004,Eosinophilic
 Yala,Total,0,2004,Eosinophilic
-Zone 19,Total,0,2004,Eosinophilic
+Zone:19,Total,0,2004,Eosinophilic
 Satun,Total,0,2004,Eosinophilic
 Songkhla,Total,0,2004,Eosinophilic
 Total,0,0,2004,Eosinophilic
 North Region,0,0,2004,Eosinophilic
-Zone 1,0,0,2004,Eosinophilic
+Zone:1,0,0,2004,Eosinophilic
 Chiang Mai,0,0,2004,Eosinophilic
 Chiang Rai,0,0,2004,Eosinophilic
 Lampang,0,0,2004,Eosinophilic
@@ -8642,98 +8642,98 @@ Mae Hong Son,0,0,2004,Eosinophilic
 Nan,0,0,2004,Eosinophilic
 Phayao,0,0,2004,Eosinophilic
 Phrae,0,0,2004,Eosinophilic
-Zone 2,0,0,2004,Eosinophilic
+Zone:2,0,0,2004,Eosinophilic
 Phetchabun,0,0,2004,Eosinophilic
 Phitsanulok,0,0,2004,Eosinophilic
 Sukhothai,0,0,2004,Eosinophilic
 Tak,0,0,2004,Eosinophilic
 Uttaradit,0,0,2004,Eosinophilic
-Zone 3,0,0,2004,Eosinophilic
+Zone:3,0,0,2004,Eosinophilic
 Kamphaeng Phet,0,0,2004,Eosinophilic
 Nakhon Sawan,0,0,2004,Eosinophilic
 Phichit,0,0,2004,Eosinophilic
 Uthai Thani,0,0,2004,Eosinophilic
 Central Region,0,0,2004,Eosinophilic
 Bangkok,0,0,2004,Eosinophilic
-Zone 4,0,0,2004,Eosinophilic
+Zone:4,0,0,2004,Eosinophilic
 Ang Thong,0,0,2004,Eosinophilic
 Nonthaburi,0,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,0,0,2004,Eosinophilic
 Pathum Thani,0,0,2004,Eosinophilic
-Zone 5,0,0,2004,Eosinophilic
+Zone:5,0,0,2004,Eosinophilic
 Chai Nat,0,0,2004,Eosinophilic
 Lop Buri,0,0,2004,Eosinophilic
 Saraburi,0,0,2004,Eosinophilic
 Sing Buri,0,0,2004,Eosinophilic
-Zone 6,0,0,2004,Eosinophilic
+Zone:6,0,0,2004,Eosinophilic
 Kanchanaburi,0,0,2004,Eosinophilic
 Nakhon Pathom,0,0,2004,Eosinophilic
 Ratchaburi,0,0,2004,Eosinophilic
 Suphan Buri,0,0,2004,Eosinophilic
-Zone 7,0,0,2004,Eosinophilic
+Zone:7,0,0,2004,Eosinophilic
 Phetchaburi,0,0,2004,Eosinophilic
 Prachuap Khiri Khan,0,0,2004,Eosinophilic
 Samut Sakhon,0,0,2004,Eosinophilic
 Samut Songkhram,0,0,2004,Eosinophilic
-Zone 8,0,0,2004,Eosinophilic
+Zone:8,0,0,2004,Eosinophilic
 Chachoengsao,0,0,2004,Eosinophilic
 Nakhon Nayok,0,0,2004,Eosinophilic
 Prachin Buri,0,0,2004,Eosinophilic
 Sa Kaeo,0,0,2004,Eosinophilic
 Samut Prakan,0,0,2004,Eosinophilic
-Zone 9,0,0,2004,Eosinophilic
+Zone:9,0,0,2004,Eosinophilic
 Chanthaburi,0,0,2004,Eosinophilic
 Chon Buri,0,0,2004,Eosinophilic
 Rayong,0,0,2004,Eosinophilic
 Trat,0,0,2004,Eosinophilic
 North-Eastern Region,0,0,2004,Eosinophilic
-Zone 10,0,0,2004,Eosinophilic
+Zone:10,0,0,2004,Eosinophilic
 Loei,0,0,2004,Eosinophilic
 Nong Bua Lam Phu,0,0,2004,Eosinophilic
 Nong Khai,0,0,2004,Eosinophilic
 Udon Thani,0,0,2004,Eosinophilic
-Zone 11,0,0,2004,Eosinophilic
+Zone:11,0,0,2004,Eosinophilic
 Kalasin,0,0,2004,Eosinophilic
 Mukdahan,0,0,2004,Eosinophilic
 Nakhon Phanom,0,0,2004,Eosinophilic
 Sakon Nakhon,0,0,2004,Eosinophilic
-Zone 12,0,0,2004,Eosinophilic
+Zone:12,0,0,2004,Eosinophilic
 Khon Kaen,0,0,2004,Eosinophilic
 Maha Sarakham,0,0,2004,Eosinophilic
 Roi Et,0,0,2004,Eosinophilic
-Zone 13,0,0,2004,Eosinophilic
+Zone:13,0,0,2004,Eosinophilic
 Buri Ram,0,0,2004,Eosinophilic
 Chaiyaphum,0,0,2004,Eosinophilic
 Nakhon Ratchasima,0,0,2004,Eosinophilic
 Surin,0,0,2004,Eosinophilic
-Zone 14,0,0,2004,Eosinophilic
+Zone:14,0,0,2004,Eosinophilic
 Amnat Charoen,0,0,2004,Eosinophilic
 Si Sa Ket,0,0,2004,Eosinophilic
 Ubon Ratchathani,0,0,2004,Eosinophilic
 Yasothon,0,0,2004,Eosinophilic
 South Region,0,0,2004,Eosinophilic
-Zone 15,0,0,2004,Eosinophilic
+Zone:15,0,0,2004,Eosinophilic
 Chumphon,0,0,2004,Eosinophilic
 Ranong,0,0,2004,Eosinophilic
 Surat Thani,0,0,2004,Eosinophilic
-Zone 16,0,0,2004,Eosinophilic
+Zone:16,0,0,2004,Eosinophilic
 Nakhon Si Thammarat,0,0,2004,Eosinophilic
 Phatthalung,0,0,2004,Eosinophilic
 Trang,0,0,2004,Eosinophilic
-Zone 17,0,0,2004,Eosinophilic
+Zone:17,0,0,2004,Eosinophilic
 Krabi,0,0,2004,Eosinophilic
 Phangnga,0,0,2004,Eosinophilic
 Phuket,0,0,2004,Eosinophilic
-Zone 18,0,0,2004,Eosinophilic
+Zone:18,0,0,2004,Eosinophilic
 Narathiwat,0,0,2004,Eosinophilic
 Pattani,0,0,2004,Eosinophilic
 Yala,0,0,2004,Eosinophilic
-Zone 19,0,0,2004,Eosinophilic
+Zone:19,0,0,2004,Eosinophilic
 Satun,0,0,2004,Eosinophilic
 Songkhla,0,0,2004,Eosinophilic
 Total,<1,0,2004,Eosinophilic
 North Region,<1,0,2004,Eosinophilic
-Zone 1,<1,0,2004,Eosinophilic
+Zone:1,<1,0,2004,Eosinophilic
 Chiang Mai,<1,0,2004,Eosinophilic
 Chiang Rai,<1,0,2004,Eosinophilic
 Lampang,<1,0,2004,Eosinophilic
@@ -8742,98 +8742,98 @@ Mae Hong Son,<1,0,2004,Eosinophilic
 Nan,<1,0,2004,Eosinophilic
 Phayao,<1,0,2004,Eosinophilic
 Phrae,<1,0,2004,Eosinophilic
-Zone 2,<1,0,2004,Eosinophilic
+Zone:2,<1,0,2004,Eosinophilic
 Phetchabun,<1,0,2004,Eosinophilic
 Phitsanulok,<1,0,2004,Eosinophilic
 Sukhothai,<1,0,2004,Eosinophilic
 Tak,<1,0,2004,Eosinophilic
 Uttaradit,<1,0,2004,Eosinophilic
-Zone 3,<1,0,2004,Eosinophilic
+Zone:3,<1,0,2004,Eosinophilic
 Kamphaeng Phet,<1,0,2004,Eosinophilic
 Nakhon Sawan,<1,0,2004,Eosinophilic
 Phichit,<1,0,2004,Eosinophilic
 Uthai Thani,<1,0,2004,Eosinophilic
 Central Region,<1,0,2004,Eosinophilic
 Bangkok,<1,0,2004,Eosinophilic
-Zone 4,<1,0,2004,Eosinophilic
+Zone:4,<1,0,2004,Eosinophilic
 Ang Thong,<1,0,2004,Eosinophilic
 Nonthaburi,<1,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,<1,0,2004,Eosinophilic
 Pathum Thani,<1,0,2004,Eosinophilic
-Zone 5,<1,0,2004,Eosinophilic
+Zone:5,<1,0,2004,Eosinophilic
 Chai Nat,<1,0,2004,Eosinophilic
 Lop Buri,<1,0,2004,Eosinophilic
 Saraburi,<1,0,2004,Eosinophilic
 Sing Buri,<1,0,2004,Eosinophilic
-Zone 6,<1,0,2004,Eosinophilic
+Zone:6,<1,0,2004,Eosinophilic
 Kanchanaburi,<1,0,2004,Eosinophilic
 Nakhon Pathom,<1,0,2004,Eosinophilic
 Ratchaburi,<1,0,2004,Eosinophilic
 Suphan Buri,<1,0,2004,Eosinophilic
-Zone 7,<1,0,2004,Eosinophilic
+Zone:7,<1,0,2004,Eosinophilic
 Phetchaburi,<1,0,2004,Eosinophilic
 Prachuap Khiri Khan,<1,0,2004,Eosinophilic
 Samut Sakhon,<1,0,2004,Eosinophilic
 Samut Songkhram,<1,0,2004,Eosinophilic
-Zone 8,<1,0,2004,Eosinophilic
+Zone:8,<1,0,2004,Eosinophilic
 Chachoengsao,<1,0,2004,Eosinophilic
 Nakhon Nayok,<1,0,2004,Eosinophilic
 Prachin Buri,<1,0,2004,Eosinophilic
 Sa Kaeo,<1,0,2004,Eosinophilic
 Samut Prakan,<1,0,2004,Eosinophilic
-Zone 9,<1,0,2004,Eosinophilic
+Zone:9,<1,0,2004,Eosinophilic
 Chanthaburi,<1,0,2004,Eosinophilic
 Chon Buri,<1,0,2004,Eosinophilic
 Rayong,<1,0,2004,Eosinophilic
 Trat,<1,0,2004,Eosinophilic
 North-Eastern Region,<1,0,2004,Eosinophilic
-Zone 10,<1,0,2004,Eosinophilic
+Zone:10,<1,0,2004,Eosinophilic
 Loei,<1,0,2004,Eosinophilic
 Nong Bua Lam Phu,<1,0,2004,Eosinophilic
 Nong Khai,<1,0,2004,Eosinophilic
 Udon Thani,<1,0,2004,Eosinophilic
-Zone 11,<1,0,2004,Eosinophilic
+Zone:11,<1,0,2004,Eosinophilic
 Kalasin,<1,0,2004,Eosinophilic
 Mukdahan,<1,0,2004,Eosinophilic
 Nakhon Phanom,<1,0,2004,Eosinophilic
 Sakon Nakhon,<1,0,2004,Eosinophilic
-Zone 12,<1,0,2004,Eosinophilic
+Zone:12,<1,0,2004,Eosinophilic
 Khon Kaen,<1,0,2004,Eosinophilic
 Maha Sarakham,<1,0,2004,Eosinophilic
 Roi Et,<1,0,2004,Eosinophilic
-Zone 13,<1,0,2004,Eosinophilic
+Zone:13,<1,0,2004,Eosinophilic
 Buri Ram,<1,0,2004,Eosinophilic
 Chaiyaphum,<1,0,2004,Eosinophilic
 Nakhon Ratchasima,<1,0,2004,Eosinophilic
 Surin,<1,0,2004,Eosinophilic
-Zone 14,<1,0,2004,Eosinophilic
+Zone:14,<1,0,2004,Eosinophilic
 Amnat Charoen,<1,0,2004,Eosinophilic
 Si Sa Ket,<1,0,2004,Eosinophilic
 Ubon Ratchathani,<1,0,2004,Eosinophilic
 Yasothon,<1,0,2004,Eosinophilic
 South Region,<1,0,2004,Eosinophilic
-Zone 15,<1,0,2004,Eosinophilic
+Zone:15,<1,0,2004,Eosinophilic
 Chumphon,<1,0,2004,Eosinophilic
 Ranong,<1,0,2004,Eosinophilic
 Surat Thani,<1,0,2004,Eosinophilic
-Zone 16,<1,0,2004,Eosinophilic
+Zone:16,<1,0,2004,Eosinophilic
 Nakhon Si Thammarat,<1,0,2004,Eosinophilic
 Phatthalung,<1,0,2004,Eosinophilic
 Trang,<1,0,2004,Eosinophilic
-Zone 17,<1,0,2004,Eosinophilic
+Zone:17,<1,0,2004,Eosinophilic
 Krabi,<1,0,2004,Eosinophilic
 Phangnga,<1,0,2004,Eosinophilic
 Phuket,<1,0,2004,Eosinophilic
-Zone 18,<1,0,2004,Eosinophilic
+Zone:18,<1,0,2004,Eosinophilic
 Narathiwat,<1,0,2004,Eosinophilic
 Pattani,<1,0,2004,Eosinophilic
 Yala,<1,0,2004,Eosinophilic
-Zone 19,<1,0,2004,Eosinophilic
+Zone:19,<1,0,2004,Eosinophilic
 Satun,<1,0,2004,Eosinophilic
 Songkhla,<1,0,2004,Eosinophilic
 Total,1-1,2,2004,Eosinophilic
 North Region,1-1,0,2004,Eosinophilic
-Zone 1,1-1,0,2004,Eosinophilic
+Zone:1,1-1,0,2004,Eosinophilic
 Chiang Mai,1-1,0,2004,Eosinophilic
 Chiang Rai,1-1,0,2004,Eosinophilic
 Lampang,1-1,0,2004,Eosinophilic
@@ -8842,98 +8842,98 @@ Mae Hong Son,1-1,0,2004,Eosinophilic
 Nan,1-1,0,2004,Eosinophilic
 Phayao,1-1,0,2004,Eosinophilic
 Phrae,1-1,0,2004,Eosinophilic
-Zone 2,1-1,0,2004,Eosinophilic
+Zone:2,1-1,0,2004,Eosinophilic
 Phetchabun,1-1,0,2004,Eosinophilic
 Phitsanulok,1-1,0,2004,Eosinophilic
 Sukhothai,1-1,0,2004,Eosinophilic
 Tak,1-1,0,2004,Eosinophilic
 Uttaradit,1-1,0,2004,Eosinophilic
-Zone 3,1-1,0,2004,Eosinophilic
+Zone:3,1-1,0,2004,Eosinophilic
 Kamphaeng Phet,1-1,0,2004,Eosinophilic
 Nakhon Sawan,1-1,0,2004,Eosinophilic
 Phichit,1-1,0,2004,Eosinophilic
 Uthai Thani,1-1,0,2004,Eosinophilic
 Central Region,1-1,1,2004,Eosinophilic
 Bangkok,1-1,0,2004,Eosinophilic
-Zone 4,1-1,0,2004,Eosinophilic
+Zone:4,1-1,0,2004,Eosinophilic
 Ang Thong,1-1,0,2004,Eosinophilic
 Nonthaburi,1-1,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,1-1,0,2004,Eosinophilic
 Pathum Thani,1-1,0,2004,Eosinophilic
-Zone 5,1-1,0,2004,Eosinophilic
+Zone:5,1-1,0,2004,Eosinophilic
 Chai Nat,1-1,0,2004,Eosinophilic
 Lop Buri,1-1,0,2004,Eosinophilic
 Saraburi,1-1,0,2004,Eosinophilic
 Sing Buri,1-1,0,2004,Eosinophilic
-Zone 6,1-1,1,2004,Eosinophilic
+Zone:6,1-1,1,2004,Eosinophilic
 Kanchanaburi,1-1,0,2004,Eosinophilic
 Nakhon Pathom,1-1,0,2004,Eosinophilic
 Ratchaburi,1-1,1,2004,Eosinophilic
 Suphan Buri,1-1,0,2004,Eosinophilic
-Zone 7,1-1,0,2004,Eosinophilic
+Zone:7,1-1,0,2004,Eosinophilic
 Phetchaburi,1-1,0,2004,Eosinophilic
 Prachuap Khiri Khan,1-1,0,2004,Eosinophilic
 Samut Sakhon,1-1,0,2004,Eosinophilic
 Samut Songkhram,1-1,0,2004,Eosinophilic
-Zone 8,1-1,0,2004,Eosinophilic
+Zone:8,1-1,0,2004,Eosinophilic
 Chachoengsao,1-1,0,2004,Eosinophilic
 Nakhon Nayok,1-1,0,2004,Eosinophilic
 Prachin Buri,1-1,0,2004,Eosinophilic
 Sa Kaeo,1-1,0,2004,Eosinophilic
 Samut Prakan,1-1,0,2004,Eosinophilic
-Zone 9,1-1,0,2004,Eosinophilic
+Zone:9,1-1,0,2004,Eosinophilic
 Chanthaburi,1-1,0,2004,Eosinophilic
 Chon Buri,1-1,0,2004,Eosinophilic
 Rayong,1-1,0,2004,Eosinophilic
 Trat,1-1,0,2004,Eosinophilic
 North-Eastern Region,1-1,0,2004,Eosinophilic
-Zone 10,1-1,0,2004,Eosinophilic
+Zone:10,1-1,0,2004,Eosinophilic
 Loei,1-1,0,2004,Eosinophilic
 Nong Bua Lam Phu,1-1,0,2004,Eosinophilic
 Nong Khai,1-1,0,2004,Eosinophilic
 Udon Thani,1-1,0,2004,Eosinophilic
-Zone 11,1-1,0,2004,Eosinophilic
+Zone:11,1-1,0,2004,Eosinophilic
 Kalasin,1-1,0,2004,Eosinophilic
 Mukdahan,1-1,0,2004,Eosinophilic
 Nakhon Phanom,1-1,0,2004,Eosinophilic
 Sakon Nakhon,1-1,0,2004,Eosinophilic
-Zone 12,1-1,0,2004,Eosinophilic
+Zone:12,1-1,0,2004,Eosinophilic
 Khon Kaen,1-1,0,2004,Eosinophilic
 Maha Sarakham,1-1,0,2004,Eosinophilic
 Roi Et,1-1,0,2004,Eosinophilic
-Zone 13,1-1,0,2004,Eosinophilic
+Zone:13,1-1,0,2004,Eosinophilic
 Buri Ram,1-1,0,2004,Eosinophilic
 Chaiyaphum,1-1,0,2004,Eosinophilic
 Nakhon Ratchasima,1-1,0,2004,Eosinophilic
 Surin,1-1,0,2004,Eosinophilic
-Zone 14,1-1,0,2004,Eosinophilic
+Zone:14,1-1,0,2004,Eosinophilic
 Amnat Charoen,1-1,0,2004,Eosinophilic
 Si Sa Ket,1-1,0,2004,Eosinophilic
 Ubon Ratchathani,1-1,0,2004,Eosinophilic
 Yasothon,1-1,0,2004,Eosinophilic
 South Region,1-1,1,2004,Eosinophilic
-Zone 15,1-1,0,2004,Eosinophilic
+Zone:15,1-1,0,2004,Eosinophilic
 Chumphon,1-1,0,2004,Eosinophilic
 Ranong,1-1,0,2004,Eosinophilic
 Surat Thani,1-1,0,2004,Eosinophilic
-Zone 16,1-1,0,2004,Eosinophilic
+Zone:16,1-1,0,2004,Eosinophilic
 Nakhon Si Thammarat,1-1,0,2004,Eosinophilic
 Phatthalung,1-1,0,2004,Eosinophilic
 Trang,1-1,0,2004,Eosinophilic
-Zone 17,1-1,1,2004,Eosinophilic
+Zone:17,1-1,1,2004,Eosinophilic
 Krabi,1-1,0,2004,Eosinophilic
 Phangnga,1-1,0,2004,Eosinophilic
 Phuket,1-1,1,2004,Eosinophilic
-Zone 18,1-1,0,2004,Eosinophilic
+Zone:18,1-1,0,2004,Eosinophilic
 Narathiwat,1-1,0,2004,Eosinophilic
 Pattani,1-1,0,2004,Eosinophilic
 Yala,1-1,0,2004,Eosinophilic
-Zone 19,1-1,0,2004,Eosinophilic
+Zone:19,1-1,0,2004,Eosinophilic
 Satun,1-1,0,2004,Eosinophilic
 Songkhla,1-1,0,2004,Eosinophilic
 Total,2-2,0,2004,Eosinophilic
 North Region,2-2,0,2004,Eosinophilic
-Zone 1,2-2,0,2004,Eosinophilic
+Zone:1,2-2,0,2004,Eosinophilic
 Chiang Mai,2-2,0,2004,Eosinophilic
 Chiang Rai,2-2,0,2004,Eosinophilic
 Lampang,2-2,0,2004,Eosinophilic
@@ -8942,98 +8942,98 @@ Mae Hong Son,2-2,0,2004,Eosinophilic
 Nan,2-2,0,2004,Eosinophilic
 Phayao,2-2,0,2004,Eosinophilic
 Phrae,2-2,0,2004,Eosinophilic
-Zone 2,2-2,0,2004,Eosinophilic
+Zone:2,2-2,0,2004,Eosinophilic
 Phetchabun,2-2,0,2004,Eosinophilic
 Phitsanulok,2-2,0,2004,Eosinophilic
 Sukhothai,2-2,0,2004,Eosinophilic
 Tak,2-2,0,2004,Eosinophilic
 Uttaradit,2-2,0,2004,Eosinophilic
-Zone 3,2-2,0,2004,Eosinophilic
+Zone:3,2-2,0,2004,Eosinophilic
 Kamphaeng Phet,2-2,0,2004,Eosinophilic
 Nakhon Sawan,2-2,0,2004,Eosinophilic
 Phichit,2-2,0,2004,Eosinophilic
 Uthai Thani,2-2,0,2004,Eosinophilic
 Central Region,2-2,0,2004,Eosinophilic
 Bangkok,2-2,0,2004,Eosinophilic
-Zone 4,2-2,0,2004,Eosinophilic
+Zone:4,2-2,0,2004,Eosinophilic
 Ang Thong,2-2,0,2004,Eosinophilic
 Nonthaburi,2-2,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,2-2,0,2004,Eosinophilic
 Pathum Thani,2-2,0,2004,Eosinophilic
-Zone 5,2-2,0,2004,Eosinophilic
+Zone:5,2-2,0,2004,Eosinophilic
 Chai Nat,2-2,0,2004,Eosinophilic
 Lop Buri,2-2,0,2004,Eosinophilic
 Saraburi,2-2,0,2004,Eosinophilic
 Sing Buri,2-2,0,2004,Eosinophilic
-Zone 6,2-2,0,2004,Eosinophilic
+Zone:6,2-2,0,2004,Eosinophilic
 Kanchanaburi,2-2,0,2004,Eosinophilic
 Nakhon Pathom,2-2,0,2004,Eosinophilic
 Ratchaburi,2-2,0,2004,Eosinophilic
 Suphan Buri,2-2,0,2004,Eosinophilic
-Zone 7,2-2,0,2004,Eosinophilic
+Zone:7,2-2,0,2004,Eosinophilic
 Phetchaburi,2-2,0,2004,Eosinophilic
 Prachuap Khiri Khan,2-2,0,2004,Eosinophilic
 Samut Sakhon,2-2,0,2004,Eosinophilic
 Samut Songkhram,2-2,0,2004,Eosinophilic
-Zone 8,2-2,0,2004,Eosinophilic
+Zone:8,2-2,0,2004,Eosinophilic
 Chachoengsao,2-2,0,2004,Eosinophilic
 Nakhon Nayok,2-2,0,2004,Eosinophilic
 Prachin Buri,2-2,0,2004,Eosinophilic
 Sa Kaeo,2-2,0,2004,Eosinophilic
 Samut Prakan,2-2,0,2004,Eosinophilic
-Zone 9,2-2,0,2004,Eosinophilic
+Zone:9,2-2,0,2004,Eosinophilic
 Chanthaburi,2-2,0,2004,Eosinophilic
 Chon Buri,2-2,0,2004,Eosinophilic
 Rayong,2-2,0,2004,Eosinophilic
 Trat,2-2,0,2004,Eosinophilic
 North-Eastern Region,2-2,0,2004,Eosinophilic
-Zone 10,2-2,0,2004,Eosinophilic
+Zone:10,2-2,0,2004,Eosinophilic
 Loei,2-2,0,2004,Eosinophilic
 Nong Bua Lam Phu,2-2,0,2004,Eosinophilic
 Nong Khai,2-2,0,2004,Eosinophilic
 Udon Thani,2-2,0,2004,Eosinophilic
-Zone 11,2-2,0,2004,Eosinophilic
+Zone:11,2-2,0,2004,Eosinophilic
 Kalasin,2-2,0,2004,Eosinophilic
 Mukdahan,2-2,0,2004,Eosinophilic
 Nakhon Phanom,2-2,0,2004,Eosinophilic
 Sakon Nakhon,2-2,0,2004,Eosinophilic
-Zone 12,2-2,0,2004,Eosinophilic
+Zone:12,2-2,0,2004,Eosinophilic
 Khon Kaen,2-2,0,2004,Eosinophilic
 Maha Sarakham,2-2,0,2004,Eosinophilic
 Roi Et,2-2,0,2004,Eosinophilic
-Zone 13,2-2,0,2004,Eosinophilic
+Zone:13,2-2,0,2004,Eosinophilic
 Buri Ram,2-2,0,2004,Eosinophilic
 Chaiyaphum,2-2,0,2004,Eosinophilic
 Nakhon Ratchasima,2-2,0,2004,Eosinophilic
 Surin,2-2,0,2004,Eosinophilic
-Zone 14,2-2,0,2004,Eosinophilic
+Zone:14,2-2,0,2004,Eosinophilic
 Amnat Charoen,2-2,0,2004,Eosinophilic
 Si Sa Ket,2-2,0,2004,Eosinophilic
 Ubon Ratchathani,2-2,0,2004,Eosinophilic
 Yasothon,2-2,0,2004,Eosinophilic
 South Region,2-2,0,2004,Eosinophilic
-Zone 15,2-2,0,2004,Eosinophilic
+Zone:15,2-2,0,2004,Eosinophilic
 Chumphon,2-2,0,2004,Eosinophilic
 Ranong,2-2,0,2004,Eosinophilic
 Surat Thani,2-2,0,2004,Eosinophilic
-Zone 16,2-2,0,2004,Eosinophilic
+Zone:16,2-2,0,2004,Eosinophilic
 Nakhon Si Thammarat,2-2,0,2004,Eosinophilic
 Phatthalung,2-2,0,2004,Eosinophilic
 Trang,2-2,0,2004,Eosinophilic
-Zone 17,2-2,0,2004,Eosinophilic
+Zone:17,2-2,0,2004,Eosinophilic
 Krabi,2-2,0,2004,Eosinophilic
 Phangnga,2-2,0,2004,Eosinophilic
 Phuket,2-2,0,2004,Eosinophilic
-Zone 18,2-2,0,2004,Eosinophilic
+Zone:18,2-2,0,2004,Eosinophilic
 Narathiwat,2-2,0,2004,Eosinophilic
 Pattani,2-2,0,2004,Eosinophilic
 Yala,2-2,0,2004,Eosinophilic
-Zone 19,2-2,0,2004,Eosinophilic
+Zone:19,2-2,0,2004,Eosinophilic
 Satun,2-2,0,2004,Eosinophilic
 Songkhla,2-2,0,2004,Eosinophilic
 Total,3-3,0,2004,Eosinophilic
 North Region,3-3,0,2004,Eosinophilic
-Zone 1,3-3,0,2004,Eosinophilic
+Zone:1,3-3,0,2004,Eosinophilic
 Chiang Mai,3-3,0,2004,Eosinophilic
 Chiang Rai,3-3,0,2004,Eosinophilic
 Lampang,3-3,0,2004,Eosinophilic
@@ -9042,98 +9042,98 @@ Mae Hong Son,3-3,0,2004,Eosinophilic
 Nan,3-3,0,2004,Eosinophilic
 Phayao,3-3,0,2004,Eosinophilic
 Phrae,3-3,0,2004,Eosinophilic
-Zone 2,3-3,0,2004,Eosinophilic
+Zone:2,3-3,0,2004,Eosinophilic
 Phetchabun,3-3,0,2004,Eosinophilic
 Phitsanulok,3-3,0,2004,Eosinophilic
 Sukhothai,3-3,0,2004,Eosinophilic
 Tak,3-3,0,2004,Eosinophilic
 Uttaradit,3-3,0,2004,Eosinophilic
-Zone 3,3-3,0,2004,Eosinophilic
+Zone:3,3-3,0,2004,Eosinophilic
 Kamphaeng Phet,3-3,0,2004,Eosinophilic
 Nakhon Sawan,3-3,0,2004,Eosinophilic
 Phichit,3-3,0,2004,Eosinophilic
 Uthai Thani,3-3,0,2004,Eosinophilic
 Central Region,3-3,0,2004,Eosinophilic
 Bangkok,3-3,0,2004,Eosinophilic
-Zone 4,3-3,0,2004,Eosinophilic
+Zone:4,3-3,0,2004,Eosinophilic
 Ang Thong,3-3,0,2004,Eosinophilic
 Nonthaburi,3-3,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,3-3,0,2004,Eosinophilic
 Pathum Thani,3-3,0,2004,Eosinophilic
-Zone 5,3-3,0,2004,Eosinophilic
+Zone:5,3-3,0,2004,Eosinophilic
 Chai Nat,3-3,0,2004,Eosinophilic
 Lop Buri,3-3,0,2004,Eosinophilic
 Saraburi,3-3,0,2004,Eosinophilic
 Sing Buri,3-3,0,2004,Eosinophilic
-Zone 6,3-3,0,2004,Eosinophilic
+Zone:6,3-3,0,2004,Eosinophilic
 Kanchanaburi,3-3,0,2004,Eosinophilic
 Nakhon Pathom,3-3,0,2004,Eosinophilic
 Ratchaburi,3-3,0,2004,Eosinophilic
 Suphan Buri,3-3,0,2004,Eosinophilic
-Zone 7,3-3,0,2004,Eosinophilic
+Zone:7,3-3,0,2004,Eosinophilic
 Phetchaburi,3-3,0,2004,Eosinophilic
 Prachuap Khiri Khan,3-3,0,2004,Eosinophilic
 Samut Sakhon,3-3,0,2004,Eosinophilic
 Samut Songkhram,3-3,0,2004,Eosinophilic
-Zone 8,3-3,0,2004,Eosinophilic
+Zone:8,3-3,0,2004,Eosinophilic
 Chachoengsao,3-3,0,2004,Eosinophilic
 Nakhon Nayok,3-3,0,2004,Eosinophilic
 Prachin Buri,3-3,0,2004,Eosinophilic
 Sa Kaeo,3-3,0,2004,Eosinophilic
 Samut Prakan,3-3,0,2004,Eosinophilic
-Zone 9,3-3,0,2004,Eosinophilic
+Zone:9,3-3,0,2004,Eosinophilic
 Chanthaburi,3-3,0,2004,Eosinophilic
 Chon Buri,3-3,0,2004,Eosinophilic
 Rayong,3-3,0,2004,Eosinophilic
 Trat,3-3,0,2004,Eosinophilic
 North-Eastern Region,3-3,0,2004,Eosinophilic
-Zone 10,3-3,0,2004,Eosinophilic
+Zone:10,3-3,0,2004,Eosinophilic
 Loei,3-3,0,2004,Eosinophilic
 Nong Bua Lam Phu,3-3,0,2004,Eosinophilic
 Nong Khai,3-3,0,2004,Eosinophilic
 Udon Thani,3-3,0,2004,Eosinophilic
-Zone 11,3-3,0,2004,Eosinophilic
+Zone:11,3-3,0,2004,Eosinophilic
 Kalasin,3-3,0,2004,Eosinophilic
 Mukdahan,3-3,0,2004,Eosinophilic
 Nakhon Phanom,3-3,0,2004,Eosinophilic
 Sakon Nakhon,3-3,0,2004,Eosinophilic
-Zone 12,3-3,0,2004,Eosinophilic
+Zone:12,3-3,0,2004,Eosinophilic
 Khon Kaen,3-3,0,2004,Eosinophilic
 Maha Sarakham,3-3,0,2004,Eosinophilic
 Roi Et,3-3,0,2004,Eosinophilic
-Zone 13,3-3,0,2004,Eosinophilic
+Zone:13,3-3,0,2004,Eosinophilic
 Buri Ram,3-3,0,2004,Eosinophilic
 Chaiyaphum,3-3,0,2004,Eosinophilic
 Nakhon Ratchasima,3-3,0,2004,Eosinophilic
 Surin,3-3,0,2004,Eosinophilic
-Zone 14,3-3,0,2004,Eosinophilic
+Zone:14,3-3,0,2004,Eosinophilic
 Amnat Charoen,3-3,0,2004,Eosinophilic
 Si Sa Ket,3-3,0,2004,Eosinophilic
 Ubon Ratchathani,3-3,0,2004,Eosinophilic
 Yasothon,3-3,0,2004,Eosinophilic
 South Region,3-3,0,2004,Eosinophilic
-Zone 15,3-3,0,2004,Eosinophilic
+Zone:15,3-3,0,2004,Eosinophilic
 Chumphon,3-3,0,2004,Eosinophilic
 Ranong,3-3,0,2004,Eosinophilic
 Surat Thani,3-3,0,2004,Eosinophilic
-Zone 16,3-3,0,2004,Eosinophilic
+Zone:16,3-3,0,2004,Eosinophilic
 Nakhon Si Thammarat,3-3,0,2004,Eosinophilic
 Phatthalung,3-3,0,2004,Eosinophilic
 Trang,3-3,0,2004,Eosinophilic
-Zone 17,3-3,0,2004,Eosinophilic
+Zone:17,3-3,0,2004,Eosinophilic
 Krabi,3-3,0,2004,Eosinophilic
 Phangnga,3-3,0,2004,Eosinophilic
 Phuket,3-3,0,2004,Eosinophilic
-Zone 18,3-3,0,2004,Eosinophilic
+Zone:18,3-3,0,2004,Eosinophilic
 Narathiwat,3-3,0,2004,Eosinophilic
 Pattani,3-3,0,2004,Eosinophilic
 Yala,3-3,0,2004,Eosinophilic
-Zone 19,3-3,0,2004,Eosinophilic
+Zone:19,3-3,0,2004,Eosinophilic
 Satun,3-3,0,2004,Eosinophilic
 Songkhla,3-3,0,2004,Eosinophilic
 Total,4-4,0,2004,Eosinophilic
 North Region,4-4,0,2004,Eosinophilic
-Zone 1,4-4,0,2004,Eosinophilic
+Zone:1,4-4,0,2004,Eosinophilic
 Chiang Mai,4-4,0,2004,Eosinophilic
 Chiang Rai,4-4,0,2004,Eosinophilic
 Lampang,4-4,0,2004,Eosinophilic
@@ -9142,98 +9142,98 @@ Mae Hong Son,4-4,0,2004,Eosinophilic
 Nan,4-4,0,2004,Eosinophilic
 Phayao,4-4,0,2004,Eosinophilic
 Phrae,4-4,0,2004,Eosinophilic
-Zone 2,4-4,0,2004,Eosinophilic
+Zone:2,4-4,0,2004,Eosinophilic
 Phetchabun,4-4,0,2004,Eosinophilic
 Phitsanulok,4-4,0,2004,Eosinophilic
 Sukhothai,4-4,0,2004,Eosinophilic
 Tak,4-4,0,2004,Eosinophilic
 Uttaradit,4-4,0,2004,Eosinophilic
-Zone 3,4-4,0,2004,Eosinophilic
+Zone:3,4-4,0,2004,Eosinophilic
 Kamphaeng Phet,4-4,0,2004,Eosinophilic
 Nakhon Sawan,4-4,0,2004,Eosinophilic
 Phichit,4-4,0,2004,Eosinophilic
 Uthai Thani,4-4,0,2004,Eosinophilic
 Central Region,4-4,0,2004,Eosinophilic
 Bangkok,4-4,0,2004,Eosinophilic
-Zone 4,4-4,0,2004,Eosinophilic
+Zone:4,4-4,0,2004,Eosinophilic
 Ang Thong,4-4,0,2004,Eosinophilic
 Nonthaburi,4-4,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,4-4,0,2004,Eosinophilic
 Pathum Thani,4-4,0,2004,Eosinophilic
-Zone 5,4-4,0,2004,Eosinophilic
+Zone:5,4-4,0,2004,Eosinophilic
 Chai Nat,4-4,0,2004,Eosinophilic
 Lop Buri,4-4,0,2004,Eosinophilic
 Saraburi,4-4,0,2004,Eosinophilic
 Sing Buri,4-4,0,2004,Eosinophilic
-Zone 6,4-4,0,2004,Eosinophilic
+Zone:6,4-4,0,2004,Eosinophilic
 Kanchanaburi,4-4,0,2004,Eosinophilic
 Nakhon Pathom,4-4,0,2004,Eosinophilic
 Ratchaburi,4-4,0,2004,Eosinophilic
 Suphan Buri,4-4,0,2004,Eosinophilic
-Zone 7,4-4,0,2004,Eosinophilic
+Zone:7,4-4,0,2004,Eosinophilic
 Phetchaburi,4-4,0,2004,Eosinophilic
 Prachuap Khiri Khan,4-4,0,2004,Eosinophilic
 Samut Sakhon,4-4,0,2004,Eosinophilic
 Samut Songkhram,4-4,0,2004,Eosinophilic
-Zone 8,4-4,0,2004,Eosinophilic
+Zone:8,4-4,0,2004,Eosinophilic
 Chachoengsao,4-4,0,2004,Eosinophilic
 Nakhon Nayok,4-4,0,2004,Eosinophilic
 Prachin Buri,4-4,0,2004,Eosinophilic
 Sa Kaeo,4-4,0,2004,Eosinophilic
 Samut Prakan,4-4,0,2004,Eosinophilic
-Zone 9,4-4,0,2004,Eosinophilic
+Zone:9,4-4,0,2004,Eosinophilic
 Chanthaburi,4-4,0,2004,Eosinophilic
 Chon Buri,4-4,0,2004,Eosinophilic
 Rayong,4-4,0,2004,Eosinophilic
 Trat,4-4,0,2004,Eosinophilic
 North-Eastern Region,4-4,0,2004,Eosinophilic
-Zone 10,4-4,0,2004,Eosinophilic
+Zone:10,4-4,0,2004,Eosinophilic
 Loei,4-4,0,2004,Eosinophilic
 Nong Bua Lam Phu,4-4,0,2004,Eosinophilic
 Nong Khai,4-4,0,2004,Eosinophilic
 Udon Thani,4-4,0,2004,Eosinophilic
-Zone 11,4-4,0,2004,Eosinophilic
+Zone:11,4-4,0,2004,Eosinophilic
 Kalasin,4-4,0,2004,Eosinophilic
 Mukdahan,4-4,0,2004,Eosinophilic
 Nakhon Phanom,4-4,0,2004,Eosinophilic
 Sakon Nakhon,4-4,0,2004,Eosinophilic
-Zone 12,4-4,0,2004,Eosinophilic
+Zone:12,4-4,0,2004,Eosinophilic
 Khon Kaen,4-4,0,2004,Eosinophilic
 Maha Sarakham,4-4,0,2004,Eosinophilic
 Roi Et,4-4,0,2004,Eosinophilic
-Zone 13,4-4,0,2004,Eosinophilic
+Zone:13,4-4,0,2004,Eosinophilic
 Buri Ram,4-4,0,2004,Eosinophilic
 Chaiyaphum,4-4,0,2004,Eosinophilic
 Nakhon Ratchasima,4-4,0,2004,Eosinophilic
 Surin,4-4,0,2004,Eosinophilic
-Zone 14,4-4,0,2004,Eosinophilic
+Zone:14,4-4,0,2004,Eosinophilic
 Amnat Charoen,4-4,0,2004,Eosinophilic
 Si Sa Ket,4-4,0,2004,Eosinophilic
 Ubon Ratchathani,4-4,0,2004,Eosinophilic
 Yasothon,4-4,0,2004,Eosinophilic
 South Region,4-4,0,2004,Eosinophilic
-Zone 15,4-4,0,2004,Eosinophilic
+Zone:15,4-4,0,2004,Eosinophilic
 Chumphon,4-4,0,2004,Eosinophilic
 Ranong,4-4,0,2004,Eosinophilic
 Surat Thani,4-4,0,2004,Eosinophilic
-Zone 16,4-4,0,2004,Eosinophilic
+Zone:16,4-4,0,2004,Eosinophilic
 Nakhon Si Thammarat,4-4,0,2004,Eosinophilic
 Phatthalung,4-4,0,2004,Eosinophilic
 Trang,4-4,0,2004,Eosinophilic
-Zone 17,4-4,0,2004,Eosinophilic
+Zone:17,4-4,0,2004,Eosinophilic
 Krabi,4-4,0,2004,Eosinophilic
 Phangnga,4-4,0,2004,Eosinophilic
 Phuket,4-4,0,2004,Eosinophilic
-Zone 18,4-4,0,2004,Eosinophilic
+Zone:18,4-4,0,2004,Eosinophilic
 Narathiwat,4-4,0,2004,Eosinophilic
 Pattani,4-4,0,2004,Eosinophilic
 Yala,4-4,0,2004,Eosinophilic
-Zone 19,4-4,0,2004,Eosinophilic
+Zone:19,4-4,0,2004,Eosinophilic
 Satun,4-4,0,2004,Eosinophilic
 Songkhla,4-4,0,2004,Eosinophilic
 Total,5-5,0,2004,Eosinophilic
 North Region,5-5,0,2004,Eosinophilic
-Zone 1,5-5,0,2004,Eosinophilic
+Zone:1,5-5,0,2004,Eosinophilic
 Chiang Mai,5-5,0,2004,Eosinophilic
 Chiang Rai,5-5,0,2004,Eosinophilic
 Lampang,5-5,0,2004,Eosinophilic
@@ -9242,98 +9242,98 @@ Mae Hong Son,5-5,0,2004,Eosinophilic
 Nan,5-5,0,2004,Eosinophilic
 Phayao,5-5,0,2004,Eosinophilic
 Phrae,5-5,0,2004,Eosinophilic
-Zone 2,5-5,0,2004,Eosinophilic
+Zone:2,5-5,0,2004,Eosinophilic
 Phetchabun,5-5,0,2004,Eosinophilic
 Phitsanulok,5-5,0,2004,Eosinophilic
 Sukhothai,5-5,0,2004,Eosinophilic
 Tak,5-5,0,2004,Eosinophilic
 Uttaradit,5-5,0,2004,Eosinophilic
-Zone 3,5-5,0,2004,Eosinophilic
+Zone:3,5-5,0,2004,Eosinophilic
 Kamphaeng Phet,5-5,0,2004,Eosinophilic
 Nakhon Sawan,5-5,0,2004,Eosinophilic
 Phichit,5-5,0,2004,Eosinophilic
 Uthai Thani,5-5,0,2004,Eosinophilic
 Central Region,5-5,0,2004,Eosinophilic
 Bangkok,5-5,0,2004,Eosinophilic
-Zone 4,5-5,0,2004,Eosinophilic
+Zone:4,5-5,0,2004,Eosinophilic
 Ang Thong,5-5,0,2004,Eosinophilic
 Nonthaburi,5-5,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,5-5,0,2004,Eosinophilic
 Pathum Thani,5-5,0,2004,Eosinophilic
-Zone 5,5-5,0,2004,Eosinophilic
+Zone:5,5-5,0,2004,Eosinophilic
 Chai Nat,5-5,0,2004,Eosinophilic
 Lop Buri,5-5,0,2004,Eosinophilic
 Saraburi,5-5,0,2004,Eosinophilic
 Sing Buri,5-5,0,2004,Eosinophilic
-Zone 6,5-5,0,2004,Eosinophilic
+Zone:6,5-5,0,2004,Eosinophilic
 Kanchanaburi,5-5,0,2004,Eosinophilic
 Nakhon Pathom,5-5,0,2004,Eosinophilic
 Ratchaburi,5-5,0,2004,Eosinophilic
 Suphan Buri,5-5,0,2004,Eosinophilic
-Zone 7,5-5,0,2004,Eosinophilic
+Zone:7,5-5,0,2004,Eosinophilic
 Phetchaburi,5-5,0,2004,Eosinophilic
 Prachuap Khiri Khan,5-5,0,2004,Eosinophilic
 Samut Sakhon,5-5,0,2004,Eosinophilic
 Samut Songkhram,5-5,0,2004,Eosinophilic
-Zone 8,5-5,0,2004,Eosinophilic
+Zone:8,5-5,0,2004,Eosinophilic
 Chachoengsao,5-5,0,2004,Eosinophilic
 Nakhon Nayok,5-5,0,2004,Eosinophilic
 Prachin Buri,5-5,0,2004,Eosinophilic
 Sa Kaeo,5-5,0,2004,Eosinophilic
 Samut Prakan,5-5,0,2004,Eosinophilic
-Zone 9,5-5,0,2004,Eosinophilic
+Zone:9,5-5,0,2004,Eosinophilic
 Chanthaburi,5-5,0,2004,Eosinophilic
 Chon Buri,5-5,0,2004,Eosinophilic
 Rayong,5-5,0,2004,Eosinophilic
 Trat,5-5,0,2004,Eosinophilic
 North-Eastern Region,5-5,0,2004,Eosinophilic
-Zone 10,5-5,0,2004,Eosinophilic
+Zone:10,5-5,0,2004,Eosinophilic
 Loei,5-5,0,2004,Eosinophilic
 Nong Bua Lam Phu,5-5,0,2004,Eosinophilic
 Nong Khai,5-5,0,2004,Eosinophilic
 Udon Thani,5-5,0,2004,Eosinophilic
-Zone 11,5-5,0,2004,Eosinophilic
+Zone:11,5-5,0,2004,Eosinophilic
 Kalasin,5-5,0,2004,Eosinophilic
 Mukdahan,5-5,0,2004,Eosinophilic
 Nakhon Phanom,5-5,0,2004,Eosinophilic
 Sakon Nakhon,5-5,0,2004,Eosinophilic
-Zone 12,5-5,0,2004,Eosinophilic
+Zone:12,5-5,0,2004,Eosinophilic
 Khon Kaen,5-5,0,2004,Eosinophilic
 Maha Sarakham,5-5,0,2004,Eosinophilic
 Roi Et,5-5,0,2004,Eosinophilic
-Zone 13,5-5,0,2004,Eosinophilic
+Zone:13,5-5,0,2004,Eosinophilic
 Buri Ram,5-5,0,2004,Eosinophilic
 Chaiyaphum,5-5,0,2004,Eosinophilic
 Nakhon Ratchasima,5-5,0,2004,Eosinophilic
 Surin,5-5,0,2004,Eosinophilic
-Zone 14,5-5,0,2004,Eosinophilic
+Zone:14,5-5,0,2004,Eosinophilic
 Amnat Charoen,5-5,0,2004,Eosinophilic
 Si Sa Ket,5-5,0,2004,Eosinophilic
 Ubon Ratchathani,5-5,0,2004,Eosinophilic
 Yasothon,5-5,0,2004,Eosinophilic
 South Region,5-5,0,2004,Eosinophilic
-Zone 15,5-5,0,2004,Eosinophilic
+Zone:15,5-5,0,2004,Eosinophilic
 Chumphon,5-5,0,2004,Eosinophilic
 Ranong,5-5,0,2004,Eosinophilic
 Surat Thani,5-5,0,2004,Eosinophilic
-Zone 16,5-5,0,2004,Eosinophilic
+Zone:16,5-5,0,2004,Eosinophilic
 Nakhon Si Thammarat,5-5,0,2004,Eosinophilic
 Phatthalung,5-5,0,2004,Eosinophilic
 Trang,5-5,0,2004,Eosinophilic
-Zone 17,5-5,0,2004,Eosinophilic
+Zone:17,5-5,0,2004,Eosinophilic
 Krabi,5-5,0,2004,Eosinophilic
 Phangnga,5-5,0,2004,Eosinophilic
 Phuket,5-5,0,2004,Eosinophilic
-Zone 18,5-5,0,2004,Eosinophilic
+Zone:18,5-5,0,2004,Eosinophilic
 Narathiwat,5-5,0,2004,Eosinophilic
 Pattani,5-5,0,2004,Eosinophilic
 Yala,5-5,0,2004,Eosinophilic
-Zone 19,5-5,0,2004,Eosinophilic
+Zone:19,5-5,0,2004,Eosinophilic
 Satun,5-5,0,2004,Eosinophilic
 Songkhla,5-5,0,2004,Eosinophilic
 Total,6-6,1,2004,Eosinophilic
 North Region,6-6,0,2004,Eosinophilic
-Zone 1,6-6,0,2004,Eosinophilic
+Zone:1,6-6,0,2004,Eosinophilic
 Chiang Mai,6-6,0,2004,Eosinophilic
 Chiang Rai,6-6,0,2004,Eosinophilic
 Lampang,6-6,0,2004,Eosinophilic
@@ -9342,98 +9342,98 @@ Mae Hong Son,6-6,0,2004,Eosinophilic
 Nan,6-6,0,2004,Eosinophilic
 Phayao,6-6,0,2004,Eosinophilic
 Phrae,6-6,0,2004,Eosinophilic
-Zone 2,6-6,0,2004,Eosinophilic
+Zone:2,6-6,0,2004,Eosinophilic
 Phetchabun,6-6,0,2004,Eosinophilic
 Phitsanulok,6-6,0,2004,Eosinophilic
 Sukhothai,6-6,0,2004,Eosinophilic
 Tak,6-6,0,2004,Eosinophilic
 Uttaradit,6-6,0,2004,Eosinophilic
-Zone 3,6-6,0,2004,Eosinophilic
+Zone:3,6-6,0,2004,Eosinophilic
 Kamphaeng Phet,6-6,0,2004,Eosinophilic
 Nakhon Sawan,6-6,0,2004,Eosinophilic
 Phichit,6-6,0,2004,Eosinophilic
 Uthai Thani,6-6,0,2004,Eosinophilic
 Central Region,6-6,0,2004,Eosinophilic
 Bangkok,6-6,0,2004,Eosinophilic
-Zone 4,6-6,0,2004,Eosinophilic
+Zone:4,6-6,0,2004,Eosinophilic
 Ang Thong,6-6,0,2004,Eosinophilic
 Nonthaburi,6-6,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,6-6,0,2004,Eosinophilic
 Pathum Thani,6-6,0,2004,Eosinophilic
-Zone 5,6-6,0,2004,Eosinophilic
+Zone:5,6-6,0,2004,Eosinophilic
 Chai Nat,6-6,0,2004,Eosinophilic
 Lop Buri,6-6,0,2004,Eosinophilic
 Saraburi,6-6,0,2004,Eosinophilic
 Sing Buri,6-6,0,2004,Eosinophilic
-Zone 6,6-6,0,2004,Eosinophilic
+Zone:6,6-6,0,2004,Eosinophilic
 Kanchanaburi,6-6,0,2004,Eosinophilic
 Nakhon Pathom,6-6,0,2004,Eosinophilic
 Ratchaburi,6-6,0,2004,Eosinophilic
 Suphan Buri,6-6,0,2004,Eosinophilic
-Zone 7,6-6,0,2004,Eosinophilic
+Zone:7,6-6,0,2004,Eosinophilic
 Phetchaburi,6-6,0,2004,Eosinophilic
 Prachuap Khiri Khan,6-6,0,2004,Eosinophilic
 Samut Sakhon,6-6,0,2004,Eosinophilic
 Samut Songkhram,6-6,0,2004,Eosinophilic
-Zone 8,6-6,0,2004,Eosinophilic
+Zone:8,6-6,0,2004,Eosinophilic
 Chachoengsao,6-6,0,2004,Eosinophilic
 Nakhon Nayok,6-6,0,2004,Eosinophilic
 Prachin Buri,6-6,0,2004,Eosinophilic
 Sa Kaeo,6-6,0,2004,Eosinophilic
 Samut Prakan,6-6,0,2004,Eosinophilic
-Zone 9,6-6,0,2004,Eosinophilic
+Zone:9,6-6,0,2004,Eosinophilic
 Chanthaburi,6-6,0,2004,Eosinophilic
 Chon Buri,6-6,0,2004,Eosinophilic
 Rayong,6-6,0,2004,Eosinophilic
 Trat,6-6,0,2004,Eosinophilic
 North-Eastern Region,6-6,1,2004,Eosinophilic
-Zone 10,6-6,0,2004,Eosinophilic
+Zone:10,6-6,0,2004,Eosinophilic
 Loei,6-6,0,2004,Eosinophilic
 Nong Bua Lam Phu,6-6,0,2004,Eosinophilic
 Nong Khai,6-6,0,2004,Eosinophilic
 Udon Thani,6-6,0,2004,Eosinophilic
-Zone 11,6-6,0,2004,Eosinophilic
+Zone:11,6-6,0,2004,Eosinophilic
 Kalasin,6-6,0,2004,Eosinophilic
 Mukdahan,6-6,0,2004,Eosinophilic
 Nakhon Phanom,6-6,0,2004,Eosinophilic
 Sakon Nakhon,6-6,0,2004,Eosinophilic
-Zone 12,6-6,0,2004,Eosinophilic
+Zone:12,6-6,0,2004,Eosinophilic
 Khon Kaen,6-6,0,2004,Eosinophilic
 Maha Sarakham,6-6,0,2004,Eosinophilic
 Roi Et,6-6,0,2004,Eosinophilic
-Zone 13,6-6,1,2004,Eosinophilic
+Zone:13,6-6,1,2004,Eosinophilic
 Buri Ram,6-6,0,2004,Eosinophilic
 Chaiyaphum,6-6,1,2004,Eosinophilic
 Nakhon Ratchasima,6-6,0,2004,Eosinophilic
 Surin,6-6,0,2004,Eosinophilic
-Zone 14,6-6,0,2004,Eosinophilic
+Zone:14,6-6,0,2004,Eosinophilic
 Amnat Charoen,6-6,0,2004,Eosinophilic
 Si Sa Ket,6-6,0,2004,Eosinophilic
 Ubon Ratchathani,6-6,0,2004,Eosinophilic
 Yasothon,6-6,0,2004,Eosinophilic
 South Region,6-6,0,2004,Eosinophilic
-Zone 15,6-6,0,2004,Eosinophilic
+Zone:15,6-6,0,2004,Eosinophilic
 Chumphon,6-6,0,2004,Eosinophilic
 Ranong,6-6,0,2004,Eosinophilic
 Surat Thani,6-6,0,2004,Eosinophilic
-Zone 16,6-6,0,2004,Eosinophilic
+Zone:16,6-6,0,2004,Eosinophilic
 Nakhon Si Thammarat,6-6,0,2004,Eosinophilic
 Phatthalung,6-6,0,2004,Eosinophilic
 Trang,6-6,0,2004,Eosinophilic
-Zone 17,6-6,0,2004,Eosinophilic
+Zone:17,6-6,0,2004,Eosinophilic
 Krabi,6-6,0,2004,Eosinophilic
 Phangnga,6-6,0,2004,Eosinophilic
 Phuket,6-6,0,2004,Eosinophilic
-Zone 18,6-6,0,2004,Eosinophilic
+Zone:18,6-6,0,2004,Eosinophilic
 Narathiwat,6-6,0,2004,Eosinophilic
 Pattani,6-6,0,2004,Eosinophilic
 Yala,6-6,0,2004,Eosinophilic
-Zone 19,6-6,0,2004,Eosinophilic
+Zone:19,6-6,0,2004,Eosinophilic
 Satun,6-6,0,2004,Eosinophilic
 Songkhla,6-6,0,2004,Eosinophilic
 Total,7-9,3,2004,Eosinophilic
 North Region,7-9,0,2004,Eosinophilic
-Zone 1,7-9,0,2004,Eosinophilic
+Zone:1,7-9,0,2004,Eosinophilic
 Chiang Mai,7-9,0,2004,Eosinophilic
 Chiang Rai,7-9,0,2004,Eosinophilic
 Lampang,7-9,0,2004,Eosinophilic
@@ -9442,98 +9442,98 @@ Mae Hong Son,7-9,0,2004,Eosinophilic
 Nan,7-9,0,2004,Eosinophilic
 Phayao,7-9,0,2004,Eosinophilic
 Phrae,7-9,0,2004,Eosinophilic
-Zone 2,7-9,0,2004,Eosinophilic
+Zone:2,7-9,0,2004,Eosinophilic
 Phetchabun,7-9,0,2004,Eosinophilic
 Phitsanulok,7-9,0,2004,Eosinophilic
 Sukhothai,7-9,0,2004,Eosinophilic
 Tak,7-9,0,2004,Eosinophilic
 Uttaradit,7-9,0,2004,Eosinophilic
-Zone 3,7-9,0,2004,Eosinophilic
+Zone:3,7-9,0,2004,Eosinophilic
 Kamphaeng Phet,7-9,0,2004,Eosinophilic
 Nakhon Sawan,7-9,0,2004,Eosinophilic
 Phichit,7-9,0,2004,Eosinophilic
 Uthai Thani,7-9,0,2004,Eosinophilic
 Central Region,7-9,0,2004,Eosinophilic
 Bangkok,7-9,0,2004,Eosinophilic
-Zone 4,7-9,0,2004,Eosinophilic
+Zone:4,7-9,0,2004,Eosinophilic
 Ang Thong,7-9,0,2004,Eosinophilic
 Nonthaburi,7-9,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,7-9,0,2004,Eosinophilic
 Pathum Thani,7-9,0,2004,Eosinophilic
-Zone 5,7-9,0,2004,Eosinophilic
+Zone:5,7-9,0,2004,Eosinophilic
 Chai Nat,7-9,0,2004,Eosinophilic
 Lop Buri,7-9,0,2004,Eosinophilic
 Saraburi,7-9,0,2004,Eosinophilic
 Sing Buri,7-9,0,2004,Eosinophilic
-Zone 6,7-9,0,2004,Eosinophilic
+Zone:6,7-9,0,2004,Eosinophilic
 Kanchanaburi,7-9,0,2004,Eosinophilic
 Nakhon Pathom,7-9,0,2004,Eosinophilic
 Ratchaburi,7-9,0,2004,Eosinophilic
 Suphan Buri,7-9,0,2004,Eosinophilic
-Zone 7,7-9,0,2004,Eosinophilic
+Zone:7,7-9,0,2004,Eosinophilic
 Phetchaburi,7-9,0,2004,Eosinophilic
 Prachuap Khiri Khan,7-9,0,2004,Eosinophilic
 Samut Sakhon,7-9,0,2004,Eosinophilic
 Samut Songkhram,7-9,0,2004,Eosinophilic
-Zone 8,7-9,0,2004,Eosinophilic
+Zone:8,7-9,0,2004,Eosinophilic
 Chachoengsao,7-9,0,2004,Eosinophilic
 Nakhon Nayok,7-9,0,2004,Eosinophilic
 Prachin Buri,7-9,0,2004,Eosinophilic
 Sa Kaeo,7-9,0,2004,Eosinophilic
 Samut Prakan,7-9,0,2004,Eosinophilic
-Zone 9,7-9,0,2004,Eosinophilic
+Zone:9,7-9,0,2004,Eosinophilic
 Chanthaburi,7-9,0,2004,Eosinophilic
 Chon Buri,7-9,0,2004,Eosinophilic
 Rayong,7-9,0,2004,Eosinophilic
 Trat,7-9,0,2004,Eosinophilic
 North-Eastern Region,7-9,2,2004,Eosinophilic
-Zone 10,7-9,1,2004,Eosinophilic
+Zone:10,7-9,1,2004,Eosinophilic
 Loei,7-9,1,2004,Eosinophilic
 Nong Bua Lam Phu,7-9,0,2004,Eosinophilic
 Nong Khai,7-9,0,2004,Eosinophilic
 Udon Thani,7-9,0,2004,Eosinophilic
-Zone 11,7-9,0,2004,Eosinophilic
+Zone:11,7-9,0,2004,Eosinophilic
 Kalasin,7-9,0,2004,Eosinophilic
 Mukdahan,7-9,0,2004,Eosinophilic
 Nakhon Phanom,7-9,0,2004,Eosinophilic
 Sakon Nakhon,7-9,0,2004,Eosinophilic
-Zone 12,7-9,0,2004,Eosinophilic
+Zone:12,7-9,0,2004,Eosinophilic
 Khon Kaen,7-9,0,2004,Eosinophilic
 Maha Sarakham,7-9,0,2004,Eosinophilic
 Roi Et,7-9,0,2004,Eosinophilic
-Zone 13,7-9,1,2004,Eosinophilic
+Zone:13,7-9,1,2004,Eosinophilic
 Buri Ram,7-9,1,2004,Eosinophilic
 Chaiyaphum,7-9,0,2004,Eosinophilic
 Nakhon Ratchasima,7-9,0,2004,Eosinophilic
 Surin,7-9,0,2004,Eosinophilic
-Zone 14,7-9,0,2004,Eosinophilic
+Zone:14,7-9,0,2004,Eosinophilic
 Amnat Charoen,7-9,0,2004,Eosinophilic
 Si Sa Ket,7-9,0,2004,Eosinophilic
 Ubon Ratchathani,7-9,0,2004,Eosinophilic
 Yasothon,7-9,0,2004,Eosinophilic
 South Region,7-9,1,2004,Eosinophilic
-Zone 15,7-9,1,2004,Eosinophilic
+Zone:15,7-9,1,2004,Eosinophilic
 Chumphon,7-9,1,2004,Eosinophilic
 Ranong,7-9,0,2004,Eosinophilic
 Surat Thani,7-9,0,2004,Eosinophilic
-Zone 16,7-9,0,2004,Eosinophilic
+Zone:16,7-9,0,2004,Eosinophilic
 Nakhon Si Thammarat,7-9,0,2004,Eosinophilic
 Phatthalung,7-9,0,2004,Eosinophilic
 Trang,7-9,0,2004,Eosinophilic
-Zone 17,7-9,0,2004,Eosinophilic
+Zone:17,7-9,0,2004,Eosinophilic
 Krabi,7-9,0,2004,Eosinophilic
 Phangnga,7-9,0,2004,Eosinophilic
 Phuket,7-9,0,2004,Eosinophilic
-Zone 18,7-9,0,2004,Eosinophilic
+Zone:18,7-9,0,2004,Eosinophilic
 Narathiwat,7-9,0,2004,Eosinophilic
 Pattani,7-9,0,2004,Eosinophilic
 Yala,7-9,0,2004,Eosinophilic
-Zone 19,7-9,0,2004,Eosinophilic
+Zone:19,7-9,0,2004,Eosinophilic
 Satun,7-9,0,2004,Eosinophilic
 Songkhla,7-9,0,2004,Eosinophilic
 Total,10-14,11,2004,Eosinophilic
 North Region,10-14,0,2004,Eosinophilic
-Zone 1,10-14,0,2004,Eosinophilic
+Zone:1,10-14,0,2004,Eosinophilic
 Chiang Mai,10-14,0,2004,Eosinophilic
 Chiang Rai,10-14,0,2004,Eosinophilic
 Lampang,10-14,0,2004,Eosinophilic
@@ -9542,98 +9542,98 @@ Mae Hong Son,10-14,0,2004,Eosinophilic
 Nan,10-14,0,2004,Eosinophilic
 Phayao,10-14,0,2004,Eosinophilic
 Phrae,10-14,0,2004,Eosinophilic
-Zone 2,10-14,0,2004,Eosinophilic
+Zone:2,10-14,0,2004,Eosinophilic
 Phetchabun,10-14,0,2004,Eosinophilic
 Phitsanulok,10-14,0,2004,Eosinophilic
 Sukhothai,10-14,0,2004,Eosinophilic
 Tak,10-14,0,2004,Eosinophilic
 Uttaradit,10-14,0,2004,Eosinophilic
-Zone 3,10-14,0,2004,Eosinophilic
+Zone:3,10-14,0,2004,Eosinophilic
 Kamphaeng Phet,10-14,0,2004,Eosinophilic
 Nakhon Sawan,10-14,0,2004,Eosinophilic
 Phichit,10-14,0,2004,Eosinophilic
 Uthai Thani,10-14,0,2004,Eosinophilic
 Central Region,10-14,1,2004,Eosinophilic
 Bangkok,10-14,0,2004,Eosinophilic
-Zone 4,10-14,0,2004,Eosinophilic
+Zone:4,10-14,0,2004,Eosinophilic
 Ang Thong,10-14,0,2004,Eosinophilic
 Nonthaburi,10-14,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,10-14,0,2004,Eosinophilic
 Pathum Thani,10-14,0,2004,Eosinophilic
-Zone 5,10-14,0,2004,Eosinophilic
+Zone:5,10-14,0,2004,Eosinophilic
 Chai Nat,10-14,0,2004,Eosinophilic
 Lop Buri,10-14,0,2004,Eosinophilic
 Saraburi,10-14,0,2004,Eosinophilic
 Sing Buri,10-14,0,2004,Eosinophilic
-Zone 6,10-14,0,2004,Eosinophilic
+Zone:6,10-14,0,2004,Eosinophilic
 Kanchanaburi,10-14,0,2004,Eosinophilic
 Nakhon Pathom,10-14,0,2004,Eosinophilic
 Ratchaburi,10-14,0,2004,Eosinophilic
 Suphan Buri,10-14,0,2004,Eosinophilic
-Zone 7,10-14,0,2004,Eosinophilic
+Zone:7,10-14,0,2004,Eosinophilic
 Phetchaburi,10-14,0,2004,Eosinophilic
 Prachuap Khiri Khan,10-14,0,2004,Eosinophilic
 Samut Sakhon,10-14,0,2004,Eosinophilic
 Samut Songkhram,10-14,0,2004,Eosinophilic
-Zone 8,10-14,0,2004,Eosinophilic
+Zone:8,10-14,0,2004,Eosinophilic
 Chachoengsao,10-14,0,2004,Eosinophilic
 Nakhon Nayok,10-14,0,2004,Eosinophilic
 Prachin Buri,10-14,0,2004,Eosinophilic
 Sa Kaeo,10-14,0,2004,Eosinophilic
 Samut Prakan,10-14,0,2004,Eosinophilic
-Zone 9,10-14,1,2004,Eosinophilic
+Zone:9,10-14,1,2004,Eosinophilic
 Chanthaburi,10-14,1,2004,Eosinophilic
 Chon Buri,10-14,0,2004,Eosinophilic
 Rayong,10-14,0,2004,Eosinophilic
 Trat,10-14,0,2004,Eosinophilic
 North-Eastern Region,10-14,10,2004,Eosinophilic
-Zone 10,10-14,7,2004,Eosinophilic
+Zone:10,10-14,7,2004,Eosinophilic
 Loei,10-14,5,2004,Eosinophilic
 Nong Bua Lam Phu,10-14,1,2004,Eosinophilic
 Nong Khai,10-14,0,2004,Eosinophilic
 Udon Thani,10-14,1,2004,Eosinophilic
-Zone 11,10-14,2,2004,Eosinophilic
+Zone:11,10-14,2,2004,Eosinophilic
 Kalasin,10-14,2,2004,Eosinophilic
 Mukdahan,10-14,0,2004,Eosinophilic
 Nakhon Phanom,10-14,0,2004,Eosinophilic
 Sakon Nakhon,10-14,0,2004,Eosinophilic
-Zone 12,10-14,0,2004,Eosinophilic
+Zone:12,10-14,0,2004,Eosinophilic
 Khon Kaen,10-14,0,2004,Eosinophilic
 Maha Sarakham,10-14,0,2004,Eosinophilic
 Roi Et,10-14,0,2004,Eosinophilic
-Zone 13,10-14,1,2004,Eosinophilic
+Zone:13,10-14,1,2004,Eosinophilic
 Buri Ram,10-14,1,2004,Eosinophilic
 Chaiyaphum,10-14,0,2004,Eosinophilic
 Nakhon Ratchasima,10-14,0,2004,Eosinophilic
 Surin,10-14,0,2004,Eosinophilic
-Zone 14,10-14,0,2004,Eosinophilic
+Zone:14,10-14,0,2004,Eosinophilic
 Amnat Charoen,10-14,0,2004,Eosinophilic
 Si Sa Ket,10-14,0,2004,Eosinophilic
 Ubon Ratchathani,10-14,0,2004,Eosinophilic
 Yasothon,10-14,0,2004,Eosinophilic
 South Region,10-14,0,2004,Eosinophilic
-Zone 15,10-14,0,2004,Eosinophilic
+Zone:15,10-14,0,2004,Eosinophilic
 Chumphon,10-14,0,2004,Eosinophilic
 Ranong,10-14,0,2004,Eosinophilic
 Surat Thani,10-14,0,2004,Eosinophilic
-Zone 16,10-14,0,2004,Eosinophilic
+Zone:16,10-14,0,2004,Eosinophilic
 Nakhon Si Thammarat,10-14,0,2004,Eosinophilic
 Phatthalung,10-14,0,2004,Eosinophilic
 Trang,10-14,0,2004,Eosinophilic
-Zone 17,10-14,0,2004,Eosinophilic
+Zone:17,10-14,0,2004,Eosinophilic
 Krabi,10-14,0,2004,Eosinophilic
 Phangnga,10-14,0,2004,Eosinophilic
 Phuket,10-14,0,2004,Eosinophilic
-Zone 18,10-14,0,2004,Eosinophilic
+Zone:18,10-14,0,2004,Eosinophilic
 Narathiwat,10-14,0,2004,Eosinophilic
 Pattani,10-14,0,2004,Eosinophilic
 Yala,10-14,0,2004,Eosinophilic
-Zone 19,10-14,0,2004,Eosinophilic
+Zone:19,10-14,0,2004,Eosinophilic
 Satun,10-14,0,2004,Eosinophilic
 Songkhla,10-14,0,2004,Eosinophilic
 Total,15-24,47,2004,Eosinophilic
 North Region,15-24,0,2004,Eosinophilic
-Zone 1,15-24,0,2004,Eosinophilic
+Zone:1,15-24,0,2004,Eosinophilic
 Chiang Mai,15-24,0,2004,Eosinophilic
 Chiang Rai,15-24,0,2004,Eosinophilic
 Lampang,15-24,0,2004,Eosinophilic
@@ -9642,98 +9642,98 @@ Mae Hong Son,15-24,0,2004,Eosinophilic
 Nan,15-24,0,2004,Eosinophilic
 Phayao,15-24,0,2004,Eosinophilic
 Phrae,15-24,0,2004,Eosinophilic
-Zone 2,15-24,0,2004,Eosinophilic
+Zone:2,15-24,0,2004,Eosinophilic
 Phetchabun,15-24,0,2004,Eosinophilic
 Phitsanulok,15-24,0,2004,Eosinophilic
 Sukhothai,15-24,0,2004,Eosinophilic
 Tak,15-24,0,2004,Eosinophilic
 Uttaradit,15-24,0,2004,Eosinophilic
-Zone 3,15-24,0,2004,Eosinophilic
+Zone:3,15-24,0,2004,Eosinophilic
 Kamphaeng Phet,15-24,0,2004,Eosinophilic
 Nakhon Sawan,15-24,0,2004,Eosinophilic
 Phichit,15-24,0,2004,Eosinophilic
 Uthai Thani,15-24,0,2004,Eosinophilic
 Central Region,15-24,2,2004,Eosinophilic
 Bangkok,15-24,0,2004,Eosinophilic
-Zone 4,15-24,0,2004,Eosinophilic
+Zone:4,15-24,0,2004,Eosinophilic
 Ang Thong,15-24,0,2004,Eosinophilic
 Nonthaburi,15-24,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,15-24,0,2004,Eosinophilic
 Pathum Thani,15-24,0,2004,Eosinophilic
-Zone 5,15-24,0,2004,Eosinophilic
+Zone:5,15-24,0,2004,Eosinophilic
 Chai Nat,15-24,0,2004,Eosinophilic
 Lop Buri,15-24,0,2004,Eosinophilic
 Saraburi,15-24,0,2004,Eosinophilic
 Sing Buri,15-24,0,2004,Eosinophilic
-Zone 6,15-24,0,2004,Eosinophilic
+Zone:6,15-24,0,2004,Eosinophilic
 Kanchanaburi,15-24,0,2004,Eosinophilic
 Nakhon Pathom,15-24,0,2004,Eosinophilic
 Ratchaburi,15-24,0,2004,Eosinophilic
 Suphan Buri,15-24,0,2004,Eosinophilic
-Zone 7,15-24,0,2004,Eosinophilic
+Zone:7,15-24,0,2004,Eosinophilic
 Phetchaburi,15-24,0,2004,Eosinophilic
 Prachuap Khiri Khan,15-24,0,2004,Eosinophilic
 Samut Sakhon,15-24,0,2004,Eosinophilic
 Samut Songkhram,15-24,0,2004,Eosinophilic
-Zone 8,15-24,0,2004,Eosinophilic
+Zone:8,15-24,0,2004,Eosinophilic
 Chachoengsao,15-24,0,2004,Eosinophilic
 Nakhon Nayok,15-24,0,2004,Eosinophilic
 Prachin Buri,15-24,0,2004,Eosinophilic
 Sa Kaeo,15-24,0,2004,Eosinophilic
 Samut Prakan,15-24,0,2004,Eosinophilic
-Zone 9,15-24,2,2004,Eosinophilic
+Zone:9,15-24,2,2004,Eosinophilic
 Chanthaburi,15-24,1,2004,Eosinophilic
 Chon Buri,15-24,0,2004,Eosinophilic
 Rayong,15-24,1,2004,Eosinophilic
 Trat,15-24,0,2004,Eosinophilic
 North-Eastern Region,15-24,45,2004,Eosinophilic
-Zone 10,15-24,29,2004,Eosinophilic
+Zone:10,15-24,29,2004,Eosinophilic
 Loei,15-24,26,2004,Eosinophilic
 Nong Bua Lam Phu,15-24,0,2004,Eosinophilic
 Nong Khai,15-24,0,2004,Eosinophilic
 Udon Thani,15-24,3,2004,Eosinophilic
-Zone 11,15-24,2,2004,Eosinophilic
+Zone:11,15-24,2,2004,Eosinophilic
 Kalasin,15-24,2,2004,Eosinophilic
 Mukdahan,15-24,0,2004,Eosinophilic
 Nakhon Phanom,15-24,0,2004,Eosinophilic
 Sakon Nakhon,15-24,0,2004,Eosinophilic
-Zone 12,15-24,2,2004,Eosinophilic
+Zone:12,15-24,2,2004,Eosinophilic
 Khon Kaen,15-24,1,2004,Eosinophilic
 Maha Sarakham,15-24,0,2004,Eosinophilic
 Roi Et,15-24,1,2004,Eosinophilic
-Zone 13,15-24,10,2004,Eosinophilic
+Zone:13,15-24,10,2004,Eosinophilic
 Buri Ram,15-24,1,2004,Eosinophilic
 Chaiyaphum,15-24,9,2004,Eosinophilic
 Nakhon Ratchasima,15-24,0,2004,Eosinophilic
 Surin,15-24,0,2004,Eosinophilic
-Zone 14,15-24,2,2004,Eosinophilic
+Zone:14,15-24,2,2004,Eosinophilic
 Amnat Charoen,15-24,0,2004,Eosinophilic
 Si Sa Ket,15-24,2,2004,Eosinophilic
 Ubon Ratchathani,15-24,0,2004,Eosinophilic
 Yasothon,15-24,0,2004,Eosinophilic
 South Region,15-24,0,2004,Eosinophilic
-Zone 15,15-24,0,2004,Eosinophilic
+Zone:15,15-24,0,2004,Eosinophilic
 Chumphon,15-24,0,2004,Eosinophilic
 Ranong,15-24,0,2004,Eosinophilic
 Surat Thani,15-24,0,2004,Eosinophilic
-Zone 16,15-24,0,2004,Eosinophilic
+Zone:16,15-24,0,2004,Eosinophilic
 Nakhon Si Thammarat,15-24,0,2004,Eosinophilic
 Phatthalung,15-24,0,2004,Eosinophilic
 Trang,15-24,0,2004,Eosinophilic
-Zone 17,15-24,0,2004,Eosinophilic
+Zone:17,15-24,0,2004,Eosinophilic
 Krabi,15-24,0,2004,Eosinophilic
 Phangnga,15-24,0,2004,Eosinophilic
 Phuket,15-24,0,2004,Eosinophilic
-Zone 18,15-24,0,2004,Eosinophilic
+Zone:18,15-24,0,2004,Eosinophilic
 Narathiwat,15-24,0,2004,Eosinophilic
 Pattani,15-24,0,2004,Eosinophilic
 Yala,15-24,0,2004,Eosinophilic
-Zone 19,15-24,0,2004,Eosinophilic
+Zone:19,15-24,0,2004,Eosinophilic
 Satun,15-24,0,2004,Eosinophilic
 Songkhla,15-24,0,2004,Eosinophilic
 Total,25-34,59,2004,Eosinophilic
 North Region,25-34,0,2004,Eosinophilic
-Zone 1,25-34,0,2004,Eosinophilic
+Zone:1,25-34,0,2004,Eosinophilic
 Chiang Mai,25-34,0,2004,Eosinophilic
 Chiang Rai,25-34,0,2004,Eosinophilic
 Lampang,25-34,0,2004,Eosinophilic
@@ -9742,98 +9742,98 @@ Mae Hong Son,25-34,0,2004,Eosinophilic
 Nan,25-34,0,2004,Eosinophilic
 Phayao,25-34,0,2004,Eosinophilic
 Phrae,25-34,0,2004,Eosinophilic
-Zone 2,25-34,0,2004,Eosinophilic
+Zone:2,25-34,0,2004,Eosinophilic
 Phetchabun,25-34,0,2004,Eosinophilic
 Phitsanulok,25-34,0,2004,Eosinophilic
 Sukhothai,25-34,0,2004,Eosinophilic
 Tak,25-34,0,2004,Eosinophilic
 Uttaradit,25-34,0,2004,Eosinophilic
-Zone 3,25-34,0,2004,Eosinophilic
+Zone:3,25-34,0,2004,Eosinophilic
 Kamphaeng Phet,25-34,0,2004,Eosinophilic
 Nakhon Sawan,25-34,0,2004,Eosinophilic
 Phichit,25-34,0,2004,Eosinophilic
 Uthai Thani,25-34,0,2004,Eosinophilic
 Central Region,25-34,0,2004,Eosinophilic
 Bangkok,25-34,0,2004,Eosinophilic
-Zone 4,25-34,0,2004,Eosinophilic
+Zone:4,25-34,0,2004,Eosinophilic
 Ang Thong,25-34,0,2004,Eosinophilic
 Nonthaburi,25-34,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,25-34,0,2004,Eosinophilic
 Pathum Thani,25-34,0,2004,Eosinophilic
-Zone 5,25-34,0,2004,Eosinophilic
+Zone:5,25-34,0,2004,Eosinophilic
 Chai Nat,25-34,0,2004,Eosinophilic
 Lop Buri,25-34,0,2004,Eosinophilic
 Saraburi,25-34,0,2004,Eosinophilic
 Sing Buri,25-34,0,2004,Eosinophilic
-Zone 6,25-34,0,2004,Eosinophilic
+Zone:6,25-34,0,2004,Eosinophilic
 Kanchanaburi,25-34,0,2004,Eosinophilic
 Nakhon Pathom,25-34,0,2004,Eosinophilic
 Ratchaburi,25-34,0,2004,Eosinophilic
 Suphan Buri,25-34,0,2004,Eosinophilic
-Zone 7,25-34,0,2004,Eosinophilic
+Zone:7,25-34,0,2004,Eosinophilic
 Phetchaburi,25-34,0,2004,Eosinophilic
 Prachuap Khiri Khan,25-34,0,2004,Eosinophilic
 Samut Sakhon,25-34,0,2004,Eosinophilic
 Samut Songkhram,25-34,0,2004,Eosinophilic
-Zone 8,25-34,0,2004,Eosinophilic
+Zone:8,25-34,0,2004,Eosinophilic
 Chachoengsao,25-34,0,2004,Eosinophilic
 Nakhon Nayok,25-34,0,2004,Eosinophilic
 Prachin Buri,25-34,0,2004,Eosinophilic
 Sa Kaeo,25-34,0,2004,Eosinophilic
 Samut Prakan,25-34,0,2004,Eosinophilic
-Zone 9,25-34,0,2004,Eosinophilic
+Zone:9,25-34,0,2004,Eosinophilic
 Chanthaburi,25-34,0,2004,Eosinophilic
 Chon Buri,25-34,0,2004,Eosinophilic
 Rayong,25-34,0,2004,Eosinophilic
 Trat,25-34,0,2004,Eosinophilic
 North-Eastern Region,25-34,59,2004,Eosinophilic
-Zone 10,25-34,40,2004,Eosinophilic
+Zone:10,25-34,40,2004,Eosinophilic
 Loei,25-34,35,2004,Eosinophilic
 Nong Bua Lam Phu,25-34,0,2004,Eosinophilic
 Nong Khai,25-34,0,2004,Eosinophilic
 Udon Thani,25-34,5,2004,Eosinophilic
-Zone 11,25-34,4,2004,Eosinophilic
+Zone:11,25-34,4,2004,Eosinophilic
 Kalasin,25-34,4,2004,Eosinophilic
 Mukdahan,25-34,0,2004,Eosinophilic
 Nakhon Phanom,25-34,0,2004,Eosinophilic
 Sakon Nakhon,25-34,0,2004,Eosinophilic
-Zone 12,25-34,5,2004,Eosinophilic
+Zone:12,25-34,5,2004,Eosinophilic
 Khon Kaen,25-34,3,2004,Eosinophilic
 Maha Sarakham,25-34,0,2004,Eosinophilic
 Roi Et,25-34,2,2004,Eosinophilic
-Zone 13,25-34,10,2004,Eosinophilic
+Zone:13,25-34,10,2004,Eosinophilic
 Buri Ram,25-34,4,2004,Eosinophilic
 Chaiyaphum,25-34,5,2004,Eosinophilic
 Nakhon Ratchasima,25-34,0,2004,Eosinophilic
 Surin,25-34,1,2004,Eosinophilic
-Zone 14,25-34,0,2004,Eosinophilic
+Zone:14,25-34,0,2004,Eosinophilic
 Amnat Charoen,25-34,0,2004,Eosinophilic
 Si Sa Ket,25-34,0,2004,Eosinophilic
 Ubon Ratchathani,25-34,0,2004,Eosinophilic
 Yasothon,25-34,0,2004,Eosinophilic
 South Region,25-34,0,2004,Eosinophilic
-Zone 15,25-34,0,2004,Eosinophilic
+Zone:15,25-34,0,2004,Eosinophilic
 Chumphon,25-34,0,2004,Eosinophilic
 Ranong,25-34,0,2004,Eosinophilic
 Surat Thani,25-34,0,2004,Eosinophilic
-Zone 16,25-34,0,2004,Eosinophilic
+Zone:16,25-34,0,2004,Eosinophilic
 Nakhon Si Thammarat,25-34,0,2004,Eosinophilic
 Phatthalung,25-34,0,2004,Eosinophilic
 Trang,25-34,0,2004,Eosinophilic
-Zone 17,25-34,0,2004,Eosinophilic
+Zone:17,25-34,0,2004,Eosinophilic
 Krabi,25-34,0,2004,Eosinophilic
 Phangnga,25-34,0,2004,Eosinophilic
 Phuket,25-34,0,2004,Eosinophilic
-Zone 18,25-34,0,2004,Eosinophilic
+Zone:18,25-34,0,2004,Eosinophilic
 Narathiwat,25-34,0,2004,Eosinophilic
 Pattani,25-34,0,2004,Eosinophilic
 Yala,25-34,0,2004,Eosinophilic
-Zone 19,25-34,0,2004,Eosinophilic
+Zone:19,25-34,0,2004,Eosinophilic
 Satun,25-34,0,2004,Eosinophilic
 Songkhla,25-34,0,2004,Eosinophilic
 Total,35-44,73,2004,Eosinophilic
 North Region,35-44,3,2004,Eosinophilic
-Zone 1,35-44,3,2004,Eosinophilic
+Zone:1,35-44,3,2004,Eosinophilic
 Chiang Mai,35-44,0,2004,Eosinophilic
 Chiang Rai,35-44,2,2004,Eosinophilic
 Lampang,35-44,1,2004,Eosinophilic
@@ -9842,98 +9842,98 @@ Mae Hong Son,35-44,0,2004,Eosinophilic
 Nan,35-44,0,2004,Eosinophilic
 Phayao,35-44,0,2004,Eosinophilic
 Phrae,35-44,0,2004,Eosinophilic
-Zone 2,35-44,0,2004,Eosinophilic
+Zone:2,35-44,0,2004,Eosinophilic
 Phetchabun,35-44,0,2004,Eosinophilic
 Phitsanulok,35-44,0,2004,Eosinophilic
 Sukhothai,35-44,0,2004,Eosinophilic
 Tak,35-44,0,2004,Eosinophilic
 Uttaradit,35-44,0,2004,Eosinophilic
-Zone 3,35-44,0,2004,Eosinophilic
+Zone:3,35-44,0,2004,Eosinophilic
 Kamphaeng Phet,35-44,0,2004,Eosinophilic
 Nakhon Sawan,35-44,0,2004,Eosinophilic
 Phichit,35-44,0,2004,Eosinophilic
 Uthai Thani,35-44,0,2004,Eosinophilic
 Central Region,35-44,2,2004,Eosinophilic
 Bangkok,35-44,0,2004,Eosinophilic
-Zone 4,35-44,0,2004,Eosinophilic
+Zone:4,35-44,0,2004,Eosinophilic
 Ang Thong,35-44,0,2004,Eosinophilic
 Nonthaburi,35-44,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,35-44,0,2004,Eosinophilic
 Pathum Thani,35-44,0,2004,Eosinophilic
-Zone 5,35-44,0,2004,Eosinophilic
+Zone:5,35-44,0,2004,Eosinophilic
 Chai Nat,35-44,0,2004,Eosinophilic
 Lop Buri,35-44,0,2004,Eosinophilic
 Saraburi,35-44,0,2004,Eosinophilic
 Sing Buri,35-44,0,2004,Eosinophilic
-Zone 6,35-44,0,2004,Eosinophilic
+Zone:6,35-44,0,2004,Eosinophilic
 Kanchanaburi,35-44,0,2004,Eosinophilic
 Nakhon Pathom,35-44,0,2004,Eosinophilic
 Ratchaburi,35-44,0,2004,Eosinophilic
 Suphan Buri,35-44,0,2004,Eosinophilic
-Zone 7,35-44,0,2004,Eosinophilic
+Zone:7,35-44,0,2004,Eosinophilic
 Phetchaburi,35-44,0,2004,Eosinophilic
 Prachuap Khiri Khan,35-44,0,2004,Eosinophilic
 Samut Sakhon,35-44,0,2004,Eosinophilic
 Samut Songkhram,35-44,0,2004,Eosinophilic
-Zone 8,35-44,0,2004,Eosinophilic
+Zone:8,35-44,0,2004,Eosinophilic
 Chachoengsao,35-44,0,2004,Eosinophilic
 Nakhon Nayok,35-44,0,2004,Eosinophilic
 Prachin Buri,35-44,0,2004,Eosinophilic
 Sa Kaeo,35-44,0,2004,Eosinophilic
 Samut Prakan,35-44,0,2004,Eosinophilic
-Zone 9,35-44,2,2004,Eosinophilic
+Zone:9,35-44,2,2004,Eosinophilic
 Chanthaburi,35-44,2,2004,Eosinophilic
 Chon Buri,35-44,0,2004,Eosinophilic
 Rayong,35-44,0,2004,Eosinophilic
 Trat,35-44,0,2004,Eosinophilic
 North-Eastern Region,35-44,68,2004,Eosinophilic
-Zone 10,35-44,43,2004,Eosinophilic
+Zone:10,35-44,43,2004,Eosinophilic
 Loei,35-44,34,2004,Eosinophilic
 Nong Bua Lam Phu,35-44,0,2004,Eosinophilic
 Nong Khai,35-44,0,2004,Eosinophilic
 Udon Thani,35-44,9,2004,Eosinophilic
-Zone 11,35-44,5,2004,Eosinophilic
+Zone:11,35-44,5,2004,Eosinophilic
 Kalasin,35-44,4,2004,Eosinophilic
 Mukdahan,35-44,1,2004,Eosinophilic
 Nakhon Phanom,35-44,0,2004,Eosinophilic
 Sakon Nakhon,35-44,0,2004,Eosinophilic
-Zone 12,35-44,5,2004,Eosinophilic
+Zone:12,35-44,5,2004,Eosinophilic
 Khon Kaen,35-44,3,2004,Eosinophilic
 Maha Sarakham,35-44,1,2004,Eosinophilic
 Roi Et,35-44,1,2004,Eosinophilic
-Zone 13,35-44,15,2004,Eosinophilic
+Zone:13,35-44,15,2004,Eosinophilic
 Buri Ram,35-44,5,2004,Eosinophilic
 Chaiyaphum,35-44,9,2004,Eosinophilic
 Nakhon Ratchasima,35-44,1,2004,Eosinophilic
 Surin,35-44,0,2004,Eosinophilic
-Zone 14,35-44,0,2004,Eosinophilic
+Zone:14,35-44,0,2004,Eosinophilic
 Amnat Charoen,35-44,0,2004,Eosinophilic
 Si Sa Ket,35-44,0,2004,Eosinophilic
 Ubon Ratchathani,35-44,0,2004,Eosinophilic
 Yasothon,35-44,0,2004,Eosinophilic
 South Region,35-44,0,2004,Eosinophilic
-Zone 15,35-44,0,2004,Eosinophilic
+Zone:15,35-44,0,2004,Eosinophilic
 Chumphon,35-44,0,2004,Eosinophilic
 Ranong,35-44,0,2004,Eosinophilic
 Surat Thani,35-44,0,2004,Eosinophilic
-Zone 16,35-44,0,2004,Eosinophilic
+Zone:16,35-44,0,2004,Eosinophilic
 Nakhon Si Thammarat,35-44,0,2004,Eosinophilic
 Phatthalung,35-44,0,2004,Eosinophilic
 Trang,35-44,0,2004,Eosinophilic
-Zone 17,35-44,0,2004,Eosinophilic
+Zone:17,35-44,0,2004,Eosinophilic
 Krabi,35-44,0,2004,Eosinophilic
 Phangnga,35-44,0,2004,Eosinophilic
 Phuket,35-44,0,2004,Eosinophilic
-Zone 18,35-44,0,2004,Eosinophilic
+Zone:18,35-44,0,2004,Eosinophilic
 Narathiwat,35-44,0,2004,Eosinophilic
 Pattani,35-44,0,2004,Eosinophilic
 Yala,35-44,0,2004,Eosinophilic
-Zone 19,35-44,0,2004,Eosinophilic
+Zone:19,35-44,0,2004,Eosinophilic
 Satun,35-44,0,2004,Eosinophilic
 Songkhla,35-44,0,2004,Eosinophilic
 Total,45-54,35,2004,Eosinophilic
 North Region,45-54,1,2004,Eosinophilic
-Zone 1,45-54,1,2004,Eosinophilic
+Zone:1,45-54,1,2004,Eosinophilic
 Chiang Mai,45-54,0,2004,Eosinophilic
 Chiang Rai,45-54,0,2004,Eosinophilic
 Lampang,45-54,1,2004,Eosinophilic
@@ -9942,98 +9942,98 @@ Mae Hong Son,45-54,0,2004,Eosinophilic
 Nan,45-54,0,2004,Eosinophilic
 Phayao,45-54,0,2004,Eosinophilic
 Phrae,45-54,0,2004,Eosinophilic
-Zone 2,45-54,0,2004,Eosinophilic
+Zone:2,45-54,0,2004,Eosinophilic
 Phetchabun,45-54,0,2004,Eosinophilic
 Phitsanulok,45-54,0,2004,Eosinophilic
 Sukhothai,45-54,0,2004,Eosinophilic
 Tak,45-54,0,2004,Eosinophilic
 Uttaradit,45-54,0,2004,Eosinophilic
-Zone 3,45-54,0,2004,Eosinophilic
+Zone:3,45-54,0,2004,Eosinophilic
 Kamphaeng Phet,45-54,0,2004,Eosinophilic
 Nakhon Sawan,45-54,0,2004,Eosinophilic
 Phichit,45-54,0,2004,Eosinophilic
 Uthai Thani,45-54,0,2004,Eosinophilic
 Central Region,45-54,0,2004,Eosinophilic
 Bangkok,45-54,0,2004,Eosinophilic
-Zone 4,45-54,0,2004,Eosinophilic
+Zone:4,45-54,0,2004,Eosinophilic
 Ang Thong,45-54,0,2004,Eosinophilic
 Nonthaburi,45-54,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,45-54,0,2004,Eosinophilic
 Pathum Thani,45-54,0,2004,Eosinophilic
-Zone 5,45-54,0,2004,Eosinophilic
+Zone:5,45-54,0,2004,Eosinophilic
 Chai Nat,45-54,0,2004,Eosinophilic
 Lop Buri,45-54,0,2004,Eosinophilic
 Saraburi,45-54,0,2004,Eosinophilic
 Sing Buri,45-54,0,2004,Eosinophilic
-Zone 6,45-54,0,2004,Eosinophilic
+Zone:6,45-54,0,2004,Eosinophilic
 Kanchanaburi,45-54,0,2004,Eosinophilic
 Nakhon Pathom,45-54,0,2004,Eosinophilic
 Ratchaburi,45-54,0,2004,Eosinophilic
 Suphan Buri,45-54,0,2004,Eosinophilic
-Zone 7,45-54,0,2004,Eosinophilic
+Zone:7,45-54,0,2004,Eosinophilic
 Phetchaburi,45-54,0,2004,Eosinophilic
 Prachuap Khiri Khan,45-54,0,2004,Eosinophilic
 Samut Sakhon,45-54,0,2004,Eosinophilic
 Samut Songkhram,45-54,0,2004,Eosinophilic
-Zone 8,45-54,0,2004,Eosinophilic
+Zone:8,45-54,0,2004,Eosinophilic
 Chachoengsao,45-54,0,2004,Eosinophilic
 Nakhon Nayok,45-54,0,2004,Eosinophilic
 Prachin Buri,45-54,0,2004,Eosinophilic
 Sa Kaeo,45-54,0,2004,Eosinophilic
 Samut Prakan,45-54,0,2004,Eosinophilic
-Zone 9,45-54,0,2004,Eosinophilic
+Zone:9,45-54,0,2004,Eosinophilic
 Chanthaburi,45-54,0,2004,Eosinophilic
 Chon Buri,45-54,0,2004,Eosinophilic
 Rayong,45-54,0,2004,Eosinophilic
 Trat,45-54,0,2004,Eosinophilic
 North-Eastern Region,45-54,34,2004,Eosinophilic
-Zone 10,45-54,24,2004,Eosinophilic
+Zone:10,45-54,24,2004,Eosinophilic
 Loei,45-54,21,2004,Eosinophilic
 Nong Bua Lam Phu,45-54,0,2004,Eosinophilic
 Nong Khai,45-54,0,2004,Eosinophilic
 Udon Thani,45-54,3,2004,Eosinophilic
-Zone 11,45-54,2,2004,Eosinophilic
+Zone:11,45-54,2,2004,Eosinophilic
 Kalasin,45-54,2,2004,Eosinophilic
 Mukdahan,45-54,0,2004,Eosinophilic
 Nakhon Phanom,45-54,0,2004,Eosinophilic
 Sakon Nakhon,45-54,0,2004,Eosinophilic
-Zone 12,45-54,5,2004,Eosinophilic
+Zone:12,45-54,5,2004,Eosinophilic
 Khon Kaen,45-54,1,2004,Eosinophilic
 Maha Sarakham,45-54,2,2004,Eosinophilic
 Roi Et,45-54,2,2004,Eosinophilic
-Zone 13,45-54,3,2004,Eosinophilic
+Zone:13,45-54,3,2004,Eosinophilic
 Buri Ram,45-54,1,2004,Eosinophilic
 Chaiyaphum,45-54,2,2004,Eosinophilic
 Nakhon Ratchasima,45-54,0,2004,Eosinophilic
 Surin,45-54,0,2004,Eosinophilic
-Zone 14,45-54,0,2004,Eosinophilic
+Zone:14,45-54,0,2004,Eosinophilic
 Amnat Charoen,45-54,0,2004,Eosinophilic
 Si Sa Ket,45-54,0,2004,Eosinophilic
 Ubon Ratchathani,45-54,0,2004,Eosinophilic
 Yasothon,45-54,0,2004,Eosinophilic
 South Region,45-54,0,2004,Eosinophilic
-Zone 15,45-54,0,2004,Eosinophilic
+Zone:15,45-54,0,2004,Eosinophilic
 Chumphon,45-54,0,2004,Eosinophilic
 Ranong,45-54,0,2004,Eosinophilic
 Surat Thani,45-54,0,2004,Eosinophilic
-Zone 16,45-54,0,2004,Eosinophilic
+Zone:16,45-54,0,2004,Eosinophilic
 Nakhon Si Thammarat,45-54,0,2004,Eosinophilic
 Phatthalung,45-54,0,2004,Eosinophilic
 Trang,45-54,0,2004,Eosinophilic
-Zone 17,45-54,0,2004,Eosinophilic
+Zone:17,45-54,0,2004,Eosinophilic
 Krabi,45-54,0,2004,Eosinophilic
 Phangnga,45-54,0,2004,Eosinophilic
 Phuket,45-54,0,2004,Eosinophilic
-Zone 18,45-54,0,2004,Eosinophilic
+Zone:18,45-54,0,2004,Eosinophilic
 Narathiwat,45-54,0,2004,Eosinophilic
 Pattani,45-54,0,2004,Eosinophilic
 Yala,45-54,0,2004,Eosinophilic
-Zone 19,45-54,0,2004,Eosinophilic
+Zone:19,45-54,0,2004,Eosinophilic
 Satun,45-54,0,2004,Eosinophilic
 Songkhla,45-54,0,2004,Eosinophilic
 Total,55-64,17,2004,Eosinophilic
 North Region,55-64,0,2004,Eosinophilic
-Zone 1,55-64,0,2004,Eosinophilic
+Zone:1,55-64,0,2004,Eosinophilic
 Chiang Mai,55-64,0,2004,Eosinophilic
 Chiang Rai,55-64,0,2004,Eosinophilic
 Lampang,55-64,0,2004,Eosinophilic
@@ -10042,98 +10042,98 @@ Mae Hong Son,55-64,0,2004,Eosinophilic
 Nan,55-64,0,2004,Eosinophilic
 Phayao,55-64,0,2004,Eosinophilic
 Phrae,55-64,0,2004,Eosinophilic
-Zone 2,55-64,0,2004,Eosinophilic
+Zone:2,55-64,0,2004,Eosinophilic
 Phetchabun,55-64,0,2004,Eosinophilic
 Phitsanulok,55-64,0,2004,Eosinophilic
 Sukhothai,55-64,0,2004,Eosinophilic
 Tak,55-64,0,2004,Eosinophilic
 Uttaradit,55-64,0,2004,Eosinophilic
-Zone 3,55-64,0,2004,Eosinophilic
+Zone:3,55-64,0,2004,Eosinophilic
 Kamphaeng Phet,55-64,0,2004,Eosinophilic
 Nakhon Sawan,55-64,0,2004,Eosinophilic
 Phichit,55-64,0,2004,Eosinophilic
 Uthai Thani,55-64,0,2004,Eosinophilic
 Central Region,55-64,1,2004,Eosinophilic
 Bangkok,55-64,0,2004,Eosinophilic
-Zone 4,55-64,0,2004,Eosinophilic
+Zone:4,55-64,0,2004,Eosinophilic
 Ang Thong,55-64,0,2004,Eosinophilic
 Nonthaburi,55-64,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,55-64,0,2004,Eosinophilic
 Pathum Thani,55-64,0,2004,Eosinophilic
-Zone 5,55-64,0,2004,Eosinophilic
+Zone:5,55-64,0,2004,Eosinophilic
 Chai Nat,55-64,0,2004,Eosinophilic
 Lop Buri,55-64,0,2004,Eosinophilic
 Saraburi,55-64,0,2004,Eosinophilic
 Sing Buri,55-64,0,2004,Eosinophilic
-Zone 6,55-64,0,2004,Eosinophilic
+Zone:6,55-64,0,2004,Eosinophilic
 Kanchanaburi,55-64,0,2004,Eosinophilic
 Nakhon Pathom,55-64,0,2004,Eosinophilic
 Ratchaburi,55-64,0,2004,Eosinophilic
 Suphan Buri,55-64,0,2004,Eosinophilic
-Zone 7,55-64,0,2004,Eosinophilic
+Zone:7,55-64,0,2004,Eosinophilic
 Phetchaburi,55-64,0,2004,Eosinophilic
 Prachuap Khiri Khan,55-64,0,2004,Eosinophilic
 Samut Sakhon,55-64,0,2004,Eosinophilic
 Samut Songkhram,55-64,0,2004,Eosinophilic
-Zone 8,55-64,0,2004,Eosinophilic
+Zone:8,55-64,0,2004,Eosinophilic
 Chachoengsao,55-64,0,2004,Eosinophilic
 Nakhon Nayok,55-64,0,2004,Eosinophilic
 Prachin Buri,55-64,0,2004,Eosinophilic
 Sa Kaeo,55-64,0,2004,Eosinophilic
 Samut Prakan,55-64,0,2004,Eosinophilic
-Zone 9,55-64,1,2004,Eosinophilic
+Zone:9,55-64,1,2004,Eosinophilic
 Chanthaburi,55-64,1,2004,Eosinophilic
 Chon Buri,55-64,0,2004,Eosinophilic
 Rayong,55-64,0,2004,Eosinophilic
 Trat,55-64,0,2004,Eosinophilic
 North-Eastern Region,55-64,16,2004,Eosinophilic
-Zone 10,55-64,7,2004,Eosinophilic
+Zone:10,55-64,7,2004,Eosinophilic
 Loei,55-64,7,2004,Eosinophilic
 Nong Bua Lam Phu,55-64,0,2004,Eosinophilic
 Nong Khai,55-64,0,2004,Eosinophilic
 Udon Thani,55-64,0,2004,Eosinophilic
-Zone 11,55-64,1,2004,Eosinophilic
+Zone:11,55-64,1,2004,Eosinophilic
 Kalasin,55-64,1,2004,Eosinophilic
 Mukdahan,55-64,0,2004,Eosinophilic
 Nakhon Phanom,55-64,0,2004,Eosinophilic
 Sakon Nakhon,55-64,0,2004,Eosinophilic
-Zone 12,55-64,2,2004,Eosinophilic
+Zone:12,55-64,2,2004,Eosinophilic
 Khon Kaen,55-64,0,2004,Eosinophilic
 Maha Sarakham,55-64,0,2004,Eosinophilic
 Roi Et,55-64,2,2004,Eosinophilic
-Zone 13,55-64,5,2004,Eosinophilic
+Zone:13,55-64,5,2004,Eosinophilic
 Buri Ram,55-64,2,2004,Eosinophilic
 Chaiyaphum,55-64,2,2004,Eosinophilic
 Nakhon Ratchasima,55-64,1,2004,Eosinophilic
 Surin,55-64,0,2004,Eosinophilic
-Zone 14,55-64,1,2004,Eosinophilic
+Zone:14,55-64,1,2004,Eosinophilic
 Amnat Charoen,55-64,0,2004,Eosinophilic
 Si Sa Ket,55-64,1,2004,Eosinophilic
 Ubon Ratchathani,55-64,0,2004,Eosinophilic
 Yasothon,55-64,0,2004,Eosinophilic
 South Region,55-64,0,2004,Eosinophilic
-Zone 15,55-64,0,2004,Eosinophilic
+Zone:15,55-64,0,2004,Eosinophilic
 Chumphon,55-64,0,2004,Eosinophilic
 Ranong,55-64,0,2004,Eosinophilic
 Surat Thani,55-64,0,2004,Eosinophilic
-Zone 16,55-64,0,2004,Eosinophilic
+Zone:16,55-64,0,2004,Eosinophilic
 Nakhon Si Thammarat,55-64,0,2004,Eosinophilic
 Phatthalung,55-64,0,2004,Eosinophilic
 Trang,55-64,0,2004,Eosinophilic
-Zone 17,55-64,0,2004,Eosinophilic
+Zone:17,55-64,0,2004,Eosinophilic
 Krabi,55-64,0,2004,Eosinophilic
 Phangnga,55-64,0,2004,Eosinophilic
 Phuket,55-64,0,2004,Eosinophilic
-Zone 18,55-64,0,2004,Eosinophilic
+Zone:18,55-64,0,2004,Eosinophilic
 Narathiwat,55-64,0,2004,Eosinophilic
 Pattani,55-64,0,2004,Eosinophilic
 Yala,55-64,0,2004,Eosinophilic
-Zone 19,55-64,0,2004,Eosinophilic
+Zone:19,55-64,0,2004,Eosinophilic
 Satun,55-64,0,2004,Eosinophilic
 Songkhla,55-64,0,2004,Eosinophilic
 Total,65+,2,2004,Eosinophilic
 North Region,65+,0,2004,Eosinophilic
-Zone 1,65+,0,2004,Eosinophilic
+Zone:1,65+,0,2004,Eosinophilic
 Chiang Mai,65+,0,2004,Eosinophilic
 Chiang Rai,65+,0,2004,Eosinophilic
 Lampang,65+,0,2004,Eosinophilic
@@ -10142,98 +10142,98 @@ Mae Hong Son,65+,0,2004,Eosinophilic
 Nan,65+,0,2004,Eosinophilic
 Phayao,65+,0,2004,Eosinophilic
 Phrae,65+,0,2004,Eosinophilic
-Zone 2,65+,0,2004,Eosinophilic
+Zone:2,65+,0,2004,Eosinophilic
 Phetchabun,65+,0,2004,Eosinophilic
 Phitsanulok,65+,0,2004,Eosinophilic
 Sukhothai,65+,0,2004,Eosinophilic
 Tak,65+,0,2004,Eosinophilic
 Uttaradit,65+,0,2004,Eosinophilic
-Zone 3,65+,0,2004,Eosinophilic
+Zone:3,65+,0,2004,Eosinophilic
 Kamphaeng Phet,65+,0,2004,Eosinophilic
 Nakhon Sawan,65+,0,2004,Eosinophilic
 Phichit,65+,0,2004,Eosinophilic
 Uthai Thani,65+,0,2004,Eosinophilic
 Central Region,65+,0,2004,Eosinophilic
 Bangkok,65+,0,2004,Eosinophilic
-Zone 4,65+,0,2004,Eosinophilic
+Zone:4,65+,0,2004,Eosinophilic
 Ang Thong,65+,0,2004,Eosinophilic
 Nonthaburi,65+,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,65+,0,2004,Eosinophilic
 Pathum Thani,65+,0,2004,Eosinophilic
-Zone 5,65+,0,2004,Eosinophilic
+Zone:5,65+,0,2004,Eosinophilic
 Chai Nat,65+,0,2004,Eosinophilic
 Lop Buri,65+,0,2004,Eosinophilic
 Saraburi,65+,0,2004,Eosinophilic
 Sing Buri,65+,0,2004,Eosinophilic
-Zone 6,65+,0,2004,Eosinophilic
+Zone:6,65+,0,2004,Eosinophilic
 Kanchanaburi,65+,0,2004,Eosinophilic
 Nakhon Pathom,65+,0,2004,Eosinophilic
 Ratchaburi,65+,0,2004,Eosinophilic
 Suphan Buri,65+,0,2004,Eosinophilic
-Zone 7,65+,0,2004,Eosinophilic
+Zone:7,65+,0,2004,Eosinophilic
 Phetchaburi,65+,0,2004,Eosinophilic
 Prachuap Khiri Khan,65+,0,2004,Eosinophilic
 Samut Sakhon,65+,0,2004,Eosinophilic
 Samut Songkhram,65+,0,2004,Eosinophilic
-Zone 8,65+,0,2004,Eosinophilic
+Zone:8,65+,0,2004,Eosinophilic
 Chachoengsao,65+,0,2004,Eosinophilic
 Nakhon Nayok,65+,0,2004,Eosinophilic
 Prachin Buri,65+,0,2004,Eosinophilic
 Sa Kaeo,65+,0,2004,Eosinophilic
 Samut Prakan,65+,0,2004,Eosinophilic
-Zone 9,65+,0,2004,Eosinophilic
+Zone:9,65+,0,2004,Eosinophilic
 Chanthaburi,65+,0,2004,Eosinophilic
 Chon Buri,65+,0,2004,Eosinophilic
 Rayong,65+,0,2004,Eosinophilic
 Trat,65+,0,2004,Eosinophilic
 North-Eastern Region,65+,2,2004,Eosinophilic
-Zone 10,65+,1,2004,Eosinophilic
+Zone:10,65+,1,2004,Eosinophilic
 Loei,65+,1,2004,Eosinophilic
 Nong Bua Lam Phu,65+,0,2004,Eosinophilic
 Nong Khai,65+,0,2004,Eosinophilic
 Udon Thani,65+,0,2004,Eosinophilic
-Zone 11,65+,0,2004,Eosinophilic
+Zone:11,65+,0,2004,Eosinophilic
 Kalasin,65+,0,2004,Eosinophilic
 Mukdahan,65+,0,2004,Eosinophilic
 Nakhon Phanom,65+,0,2004,Eosinophilic
 Sakon Nakhon,65+,0,2004,Eosinophilic
-Zone 12,65+,0,2004,Eosinophilic
+Zone:12,65+,0,2004,Eosinophilic
 Khon Kaen,65+,0,2004,Eosinophilic
 Maha Sarakham,65+,0,2004,Eosinophilic
 Roi Et,65+,0,2004,Eosinophilic
-Zone 13,65+,1,2004,Eosinophilic
+Zone:13,65+,1,2004,Eosinophilic
 Buri Ram,65+,0,2004,Eosinophilic
 Chaiyaphum,65+,1,2004,Eosinophilic
 Nakhon Ratchasima,65+,0,2004,Eosinophilic
 Surin,65+,0,2004,Eosinophilic
-Zone 14,65+,0,2004,Eosinophilic
+Zone:14,65+,0,2004,Eosinophilic
 Amnat Charoen,65+,0,2004,Eosinophilic
 Si Sa Ket,65+,0,2004,Eosinophilic
 Ubon Ratchathani,65+,0,2004,Eosinophilic
 Yasothon,65+,0,2004,Eosinophilic
 South Region,65+,0,2004,Eosinophilic
-Zone 15,65+,0,2004,Eosinophilic
+Zone:15,65+,0,2004,Eosinophilic
 Chumphon,65+,0,2004,Eosinophilic
 Ranong,65+,0,2004,Eosinophilic
 Surat Thani,65+,0,2004,Eosinophilic
-Zone 16,65+,0,2004,Eosinophilic
+Zone:16,65+,0,2004,Eosinophilic
 Nakhon Si Thammarat,65+,0,2004,Eosinophilic
 Phatthalung,65+,0,2004,Eosinophilic
 Trang,65+,0,2004,Eosinophilic
-Zone 17,65+,0,2004,Eosinophilic
+Zone:17,65+,0,2004,Eosinophilic
 Krabi,65+,0,2004,Eosinophilic
 Phangnga,65+,0,2004,Eosinophilic
 Phuket,65+,0,2004,Eosinophilic
-Zone 18,65+,0,2004,Eosinophilic
+Zone:18,65+,0,2004,Eosinophilic
 Narathiwat,65+,0,2004,Eosinophilic
 Pattani,65+,0,2004,Eosinophilic
 Yala,65+,0,2004,Eosinophilic
-Zone 19,65+,0,2004,Eosinophilic
+Zone:19,65+,0,2004,Eosinophilic
 Satun,65+,0,2004,Eosinophilic
 Songkhla,65+,0,2004,Eosinophilic
 Total,Unknown,0,2004,Eosinophilic
 North Region,Unknown,0,2004,Eosinophilic
-Zone 1,Unknown,0,2004,Eosinophilic
+Zone:1,Unknown,0,2004,Eosinophilic
 Chiang Mai,Unknown,0,2004,Eosinophilic
 Chiang Rai,Unknown,0,2004,Eosinophilic
 Lampang,Unknown,0,2004,Eosinophilic
@@ -10242,93 +10242,93 @@ Mae Hong Son,Unknown,0,2004,Eosinophilic
 Nan,Unknown,0,2004,Eosinophilic
 Phayao,Unknown,0,2004,Eosinophilic
 Phrae,Unknown,0,2004,Eosinophilic
-Zone 2,Unknown,0,2004,Eosinophilic
+Zone:2,Unknown,0,2004,Eosinophilic
 Phetchabun,Unknown,0,2004,Eosinophilic
 Phitsanulok,Unknown,0,2004,Eosinophilic
 Sukhothai,Unknown,0,2004,Eosinophilic
 Tak,Unknown,0,2004,Eosinophilic
 Uttaradit,Unknown,0,2004,Eosinophilic
-Zone 3,Unknown,0,2004,Eosinophilic
+Zone:3,Unknown,0,2004,Eosinophilic
 Kamphaeng Phet,Unknown,0,2004,Eosinophilic
 Nakhon Sawan,Unknown,0,2004,Eosinophilic
 Phichit,Unknown,0,2004,Eosinophilic
 Uthai Thani,Unknown,0,2004,Eosinophilic
 Central Region,Unknown,0,2004,Eosinophilic
 Bangkok,Unknown,0,2004,Eosinophilic
-Zone 4,Unknown,0,2004,Eosinophilic
+Zone:4,Unknown,0,2004,Eosinophilic
 Ang Thong,Unknown,0,2004,Eosinophilic
 Nonthaburi,Unknown,0,2004,Eosinophilic
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Eosinophilic
 Pathum Thani,Unknown,0,2004,Eosinophilic
-Zone 5,Unknown,0,2004,Eosinophilic
+Zone:5,Unknown,0,2004,Eosinophilic
 Chai Nat,Unknown,0,2004,Eosinophilic
 Lop Buri,Unknown,0,2004,Eosinophilic
 Saraburi,Unknown,0,2004,Eosinophilic
 Sing Buri,Unknown,0,2004,Eosinophilic
-Zone 6,Unknown,0,2004,Eosinophilic
+Zone:6,Unknown,0,2004,Eosinophilic
 Kanchanaburi,Unknown,0,2004,Eosinophilic
 Nakhon Pathom,Unknown,0,2004,Eosinophilic
 Ratchaburi,Unknown,0,2004,Eosinophilic
 Suphan Buri,Unknown,0,2004,Eosinophilic
-Zone 7,Unknown,0,2004,Eosinophilic
+Zone:7,Unknown,0,2004,Eosinophilic
 Phetchaburi,Unknown,0,2004,Eosinophilic
 Prachuap Khiri Khan,Unknown,0,2004,Eosinophilic
 Samut Sakhon,Unknown,0,2004,Eosinophilic
 Samut Songkhram,Unknown,0,2004,Eosinophilic
-Zone 8,Unknown,0,2004,Eosinophilic
+Zone:8,Unknown,0,2004,Eosinophilic
 Chachoengsao,Unknown,0,2004,Eosinophilic
 Nakhon Nayok,Unknown,0,2004,Eosinophilic
 Prachin Buri,Unknown,0,2004,Eosinophilic
 Sa Kaeo,Unknown,0,2004,Eosinophilic
 Samut Prakan,Unknown,0,2004,Eosinophilic
-Zone 9,Unknown,0,2004,Eosinophilic
+Zone:9,Unknown,0,2004,Eosinophilic
 Chanthaburi,Unknown,0,2004,Eosinophilic
 Chon Buri,Unknown,0,2004,Eosinophilic
 Rayong,Unknown,0,2004,Eosinophilic
 Trat,Unknown,0,2004,Eosinophilic
 North-Eastern Region,Unknown,0,2004,Eosinophilic
-Zone 10,Unknown,0,2004,Eosinophilic
+Zone:10,Unknown,0,2004,Eosinophilic
 Loei,Unknown,0,2004,Eosinophilic
 Nong Bua Lam Phu,Unknown,0,2004,Eosinophilic
 Nong Khai,Unknown,0,2004,Eosinophilic
 Udon Thani,Unknown,0,2004,Eosinophilic
-Zone 11,Unknown,0,2004,Eosinophilic
+Zone:11,Unknown,0,2004,Eosinophilic
 Kalasin,Unknown,0,2004,Eosinophilic
 Mukdahan,Unknown,0,2004,Eosinophilic
 Nakhon Phanom,Unknown,0,2004,Eosinophilic
 Sakon Nakhon,Unknown,0,2004,Eosinophilic
-Zone 12,Unknown,0,2004,Eosinophilic
+Zone:12,Unknown,0,2004,Eosinophilic
 Khon Kaen,Unknown,0,2004,Eosinophilic
 Maha Sarakham,Unknown,0,2004,Eosinophilic
 Roi Et,Unknown,0,2004,Eosinophilic
-Zone 13,Unknown,0,2004,Eosinophilic
+Zone:13,Unknown,0,2004,Eosinophilic
 Buri Ram,Unknown,0,2004,Eosinophilic
 Chaiyaphum,Unknown,0,2004,Eosinophilic
 Nakhon Ratchasima,Unknown,0,2004,Eosinophilic
 Surin,Unknown,0,2004,Eosinophilic
-Zone 14,Unknown,0,2004,Eosinophilic
+Zone:14,Unknown,0,2004,Eosinophilic
 Amnat Charoen,Unknown,0,2004,Eosinophilic
 Si Sa Ket,Unknown,0,2004,Eosinophilic
 Ubon Ratchathani,Unknown,0,2004,Eosinophilic
 Yasothon,Unknown,0,2004,Eosinophilic
 South Region,Unknown,0,2004,Eosinophilic
-Zone 15,Unknown,0,2004,Eosinophilic
+Zone:15,Unknown,0,2004,Eosinophilic
 Chumphon,Unknown,0,2004,Eosinophilic
 Ranong,Unknown,0,2004,Eosinophilic
 Surat Thani,Unknown,0,2004,Eosinophilic
-Zone 16,Unknown,0,2004,Eosinophilic
+Zone:16,Unknown,0,2004,Eosinophilic
 Nakhon Si Thammarat,Unknown,0,2004,Eosinophilic
 Phatthalung,Unknown,0,2004,Eosinophilic
 Trang,Unknown,0,2004,Eosinophilic
-Zone 17,Unknown,0,2004,Eosinophilic
+Zone:17,Unknown,0,2004,Eosinophilic
 Krabi,Unknown,0,2004,Eosinophilic
 Phangnga,Unknown,0,2004,Eosinophilic
 Phuket,Unknown,0,2004,Eosinophilic
-Zone 18,Unknown,0,2004,Eosinophilic
+Zone:18,Unknown,0,2004,Eosinophilic
 Narathiwat,Unknown,0,2004,Eosinophilic
 Pattani,Unknown,0,2004,Eosinophilic
 Yala,Unknown,0,2004,Eosinophilic
-Zone 19,Unknown,0,2004,Eosinophilic
+Zone:19,Unknown,0,2004,Eosinophilic
 Satun,Unknown,0,2004,Eosinophilic
 Songkhla,Unknown,0,2004,Eosinophilic
 Total,Total,172,2009,Eosinophilic

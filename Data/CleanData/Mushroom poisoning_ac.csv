@@ -13969,7 +13969,7 @@ ZONE:13,Unknown,0,2016,Mushroom
 Bangkok,Unknown,0,2016,Mushroom
 Total,Total,1303,2004,Mushroom
 North Region,Total,167,2004,Mushroom
-Zone 1,Total,125,2004,Mushroom
+Zone:1,Total,125,2004,Mushroom
 Chiang Mai,Total,18,2004,Mushroom
 Chiang Rai,Total,73,2004,Mushroom
 Lampang,Total,18,2004,Mushroom
@@ -13978,98 +13978,98 @@ Mae Hong Son,Total,1,2004,Mushroom
 Nan,Total,9,2004,Mushroom
 Phayao,Total,6,2004,Mushroom
 Phrae,Total,0,2004,Mushroom
-Zone 2,Total,19,2004,Mushroom
+Zone:2,Total,19,2004,Mushroom
 Phetchabun,Total,1,2004,Mushroom
 Phitsanulok,Total,16,2004,Mushroom
 Sukhothai,Total,0,2004,Mushroom
 Tak,Total,1,2004,Mushroom
 Uttaradit,Total,1,2004,Mushroom
-Zone 3,Total,23,2004,Mushroom
+Zone:3,Total,23,2004,Mushroom
 Kamphaeng Phet,Total,18,2004,Mushroom
 Nakhon Sawan,Total,5,2004,Mushroom
 Phichit,Total,0,2004,Mushroom
 Uthai Thani,Total,0,2004,Mushroom
 Central Region,Total,132,2004,Mushroom
 Bangkok,Total,0,2004,Mushroom
-Zone 4,Total,3,2004,Mushroom
+Zone:4,Total,3,2004,Mushroom
 Ang Thong,Total,0,2004,Mushroom
 Nonthaburi,Total,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,Total,0,2004,Mushroom
 Pathum Thani,Total,3,2004,Mushroom
-Zone 5,Total,0,2004,Mushroom
+Zone:5,Total,0,2004,Mushroom
 Chai Nat,Total,0,2004,Mushroom
 Lop Buri,Total,0,2004,Mushroom
 Saraburi,Total,0,2004,Mushroom
 Sing Buri,Total,0,2004,Mushroom
-Zone 6,Total,24,2004,Mushroom
+Zone:6,Total,24,2004,Mushroom
 Kanchanaburi,Total,7,2004,Mushroom
 Nakhon Pathom,Total,12,2004,Mushroom
 Ratchaburi,Total,4,2004,Mushroom
 Suphan Buri,Total,1,2004,Mushroom
-Zone 7,Total,0,2004,Mushroom
+Zone:7,Total,0,2004,Mushroom
 Phetchaburi,Total,0,2004,Mushroom
 Prachuap Khiri Khan,Total,0,2004,Mushroom
 Samut Sakhon,Total,0,2004,Mushroom
 Samut Songkhram,Total,0,2004,Mushroom
-Zone 8,Total,72,2004,Mushroom
+Zone:8,Total,72,2004,Mushroom
 Chachoengsao,Total,23,2004,Mushroom
 Nakhon Nayok,Total,0,2004,Mushroom
 Prachin Buri,Total,8,2004,Mushroom
 Sa Kaeo,Total,41,2004,Mushroom
 Samut Prakan,Total,0,2004,Mushroom
-Zone 9,Total,33,2004,Mushroom
+Zone:9,Total,33,2004,Mushroom
 Chanthaburi,Total,7,2004,Mushroom
 Chon Buri,Total,2,2004,Mushroom
 Rayong,Total,23,2004,Mushroom
 Trat,Total,1,2004,Mushroom
 North-Eastern Region,Total,924,2004,Mushroom
-Zone 10,Total,132,2004,Mushroom
+Zone:10,Total,132,2004,Mushroom
 Loei,Total,98,2004,Mushroom
 Nong Bua Lam Phu,Total,1,2004,Mushroom
 Nong Khai,Total,21,2004,Mushroom
 Udon Thani,Total,12,2004,Mushroom
-Zone 11,Total,117,2004,Mushroom
+Zone:11,Total,117,2004,Mushroom
 Kalasin,Total,0,2004,Mushroom
 Mukdahan,Total,2,2004,Mushroom
 Nakhon Phanom,Total,48,2004,Mushroom
 Sakon Nakhon,Total,67,2004,Mushroom
-Zone 12,Total,44,2004,Mushroom
+Zone:12,Total,44,2004,Mushroom
 Khon Kaen,Total,6,2004,Mushroom
 Maha Sarakham,Total,0,2004,Mushroom
 Roi Et,Total,38,2004,Mushroom
-Zone 13,Total,333,2004,Mushroom
+Zone:13,Total,333,2004,Mushroom
 Buri Ram,Total,190,2004,Mushroom
 Chaiyaphum,Total,0,2004,Mushroom
 Nakhon Ratchasima,Total,27,2004,Mushroom
 Surin,Total,116,2004,Mushroom
-Zone 14,Total,298,2004,Mushroom
+Zone:14,Total,298,2004,Mushroom
 Amnat Charoen,Total,27,2004,Mushroom
 Si Sa Ket,Total,47,2004,Mushroom
 Ubon Ratchathani,Total,217,2004,Mushroom
 Yasothon,Total,7,2004,Mushroom
 South Region,Total,80,2004,Mushroom
-Zone 15,Total,43,2004,Mushroom
+Zone:15,Total,43,2004,Mushroom
 Chumphon,Total,6,2004,Mushroom
 Ranong,Total,8,2004,Mushroom
 Surat Thani,Total,29,2004,Mushroom
-Zone 16,Total,12,2004,Mushroom
+Zone:16,Total,12,2004,Mushroom
 Nakhon Si Thammarat,Total,3,2004,Mushroom
 Phatthalung,Total,0,2004,Mushroom
 Trang,Total,9,2004,Mushroom
-Zone 17,Total,16,2004,Mushroom
+Zone:17,Total,16,2004,Mushroom
 Krabi,Total,16,2004,Mushroom
 Phangnga,Total,0,2004,Mushroom
 Phuket,Total,0,2004,Mushroom
-Zone 18,Total,0,2004,Mushroom
+Zone:18,Total,0,2004,Mushroom
 Narathiwat,Total,0,2004,Mushroom
 Pattani,Total,0,2004,Mushroom
 Yala,Total,0,2004,Mushroom
-Zone 19,Total,9,2004,Mushroom
+Zone:19,Total,9,2004,Mushroom
 Satun,Total,0,2004,Mushroom
 Songkhla,Total,9,2004,Mushroom
 Total,0,0,2004,Mushroom
 North Region,0,0,2004,Mushroom
-Zone 1,0,0,2004,Mushroom
+Zone:1,0,0,2004,Mushroom
 Chiang Mai,0,0,2004,Mushroom
 Chiang Rai,0,0,2004,Mushroom
 Lampang,0,0,2004,Mushroom
@@ -14078,98 +14078,98 @@ Mae Hong Son,0,0,2004,Mushroom
 Nan,0,0,2004,Mushroom
 Phayao,0,0,2004,Mushroom
 Phrae,0,0,2004,Mushroom
-Zone 2,0,0,2004,Mushroom
+Zone:2,0,0,2004,Mushroom
 Phetchabun,0,0,2004,Mushroom
 Phitsanulok,0,0,2004,Mushroom
 Sukhothai,0,0,2004,Mushroom
 Tak,0,0,2004,Mushroom
 Uttaradit,0,0,2004,Mushroom
-Zone 3,0,0,2004,Mushroom
+Zone:3,0,0,2004,Mushroom
 Kamphaeng Phet,0,0,2004,Mushroom
 Nakhon Sawan,0,0,2004,Mushroom
 Phichit,0,0,2004,Mushroom
 Uthai Thani,0,0,2004,Mushroom
 Central Region,0,0,2004,Mushroom
 Bangkok,0,0,2004,Mushroom
-Zone 4,0,0,2004,Mushroom
+Zone:4,0,0,2004,Mushroom
 Ang Thong,0,0,2004,Mushroom
 Nonthaburi,0,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,0,0,2004,Mushroom
 Pathum Thani,0,0,2004,Mushroom
-Zone 5,0,0,2004,Mushroom
+Zone:5,0,0,2004,Mushroom
 Chai Nat,0,0,2004,Mushroom
 Lop Buri,0,0,2004,Mushroom
 Saraburi,0,0,2004,Mushroom
 Sing Buri,0,0,2004,Mushroom
-Zone 6,0,0,2004,Mushroom
+Zone:6,0,0,2004,Mushroom
 Kanchanaburi,0,0,2004,Mushroom
 Nakhon Pathom,0,0,2004,Mushroom
 Ratchaburi,0,0,2004,Mushroom
 Suphan Buri,0,0,2004,Mushroom
-Zone 7,0,0,2004,Mushroom
+Zone:7,0,0,2004,Mushroom
 Phetchaburi,0,0,2004,Mushroom
 Prachuap Khiri Khan,0,0,2004,Mushroom
 Samut Sakhon,0,0,2004,Mushroom
 Samut Songkhram,0,0,2004,Mushroom
-Zone 8,0,0,2004,Mushroom
+Zone:8,0,0,2004,Mushroom
 Chachoengsao,0,0,2004,Mushroom
 Nakhon Nayok,0,0,2004,Mushroom
 Prachin Buri,0,0,2004,Mushroom
 Sa Kaeo,0,0,2004,Mushroom
 Samut Prakan,0,0,2004,Mushroom
-Zone 9,0,0,2004,Mushroom
+Zone:9,0,0,2004,Mushroom
 Chanthaburi,0,0,2004,Mushroom
 Chon Buri,0,0,2004,Mushroom
 Rayong,0,0,2004,Mushroom
 Trat,0,0,2004,Mushroom
 North-Eastern Region,0,0,2004,Mushroom
-Zone 10,0,0,2004,Mushroom
+Zone:10,0,0,2004,Mushroom
 Loei,0,0,2004,Mushroom
 Nong Bua Lam Phu,0,0,2004,Mushroom
 Nong Khai,0,0,2004,Mushroom
 Udon Thani,0,0,2004,Mushroom
-Zone 11,0,0,2004,Mushroom
+Zone:11,0,0,2004,Mushroom
 Kalasin,0,0,2004,Mushroom
 Mukdahan,0,0,2004,Mushroom
 Nakhon Phanom,0,0,2004,Mushroom
 Sakon Nakhon,0,0,2004,Mushroom
-Zone 12,0,0,2004,Mushroom
+Zone:12,0,0,2004,Mushroom
 Khon Kaen,0,0,2004,Mushroom
 Maha Sarakham,0,0,2004,Mushroom
 Roi Et,0,0,2004,Mushroom
-Zone 13,0,0,2004,Mushroom
+Zone:13,0,0,2004,Mushroom
 Buri Ram,0,0,2004,Mushroom
 Chaiyaphum,0,0,2004,Mushroom
 Nakhon Ratchasima,0,0,2004,Mushroom
 Surin,0,0,2004,Mushroom
-Zone 14,0,0,2004,Mushroom
+Zone:14,0,0,2004,Mushroom
 Amnat Charoen,0,0,2004,Mushroom
 Si Sa Ket,0,0,2004,Mushroom
 Ubon Ratchathani,0,0,2004,Mushroom
 Yasothon,0,0,2004,Mushroom
 South Region,0,0,2004,Mushroom
-Zone 15,0,0,2004,Mushroom
+Zone:15,0,0,2004,Mushroom
 Chumphon,0,0,2004,Mushroom
 Ranong,0,0,2004,Mushroom
 Surat Thani,0,0,2004,Mushroom
-Zone 16,0,0,2004,Mushroom
+Zone:16,0,0,2004,Mushroom
 Nakhon Si Thammarat,0,0,2004,Mushroom
 Phatthalung,0,0,2004,Mushroom
 Trang,0,0,2004,Mushroom
-Zone 17,0,0,2004,Mushroom
+Zone:17,0,0,2004,Mushroom
 Krabi,0,0,2004,Mushroom
 Phangnga,0,0,2004,Mushroom
 Phuket,0,0,2004,Mushroom
-Zone 18,0,0,2004,Mushroom
+Zone:18,0,0,2004,Mushroom
 Narathiwat,0,0,2004,Mushroom
 Pattani,0,0,2004,Mushroom
 Yala,0,0,2004,Mushroom
-Zone 19,0,0,2004,Mushroom
+Zone:19,0,0,2004,Mushroom
 Satun,0,0,2004,Mushroom
 Songkhla,0,0,2004,Mushroom
 Total,<1,1,2004,Mushroom
 North Region,<1,0,2004,Mushroom
-Zone 1,<1,0,2004,Mushroom
+Zone:1,<1,0,2004,Mushroom
 Chiang Mai,<1,0,2004,Mushroom
 Chiang Rai,<1,0,2004,Mushroom
 Lampang,<1,0,2004,Mushroom
@@ -14178,98 +14178,98 @@ Mae Hong Son,<1,0,2004,Mushroom
 Nan,<1,0,2004,Mushroom
 Phayao,<1,0,2004,Mushroom
 Phrae,<1,0,2004,Mushroom
-Zone 2,<1,0,2004,Mushroom
+Zone:2,<1,0,2004,Mushroom
 Phetchabun,<1,0,2004,Mushroom
 Phitsanulok,<1,0,2004,Mushroom
 Sukhothai,<1,0,2004,Mushroom
 Tak,<1,0,2004,Mushroom
 Uttaradit,<1,0,2004,Mushroom
-Zone 3,<1,0,2004,Mushroom
+Zone:3,<1,0,2004,Mushroom
 Kamphaeng Phet,<1,0,2004,Mushroom
 Nakhon Sawan,<1,0,2004,Mushroom
 Phichit,<1,0,2004,Mushroom
 Uthai Thani,<1,0,2004,Mushroom
 Central Region,<1,0,2004,Mushroom
 Bangkok,<1,0,2004,Mushroom
-Zone 4,<1,0,2004,Mushroom
+Zone:4,<1,0,2004,Mushroom
 Ang Thong,<1,0,2004,Mushroom
 Nonthaburi,<1,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,<1,0,2004,Mushroom
 Pathum Thani,<1,0,2004,Mushroom
-Zone 5,<1,0,2004,Mushroom
+Zone:5,<1,0,2004,Mushroom
 Chai Nat,<1,0,2004,Mushroom
 Lop Buri,<1,0,2004,Mushroom
 Saraburi,<1,0,2004,Mushroom
 Sing Buri,<1,0,2004,Mushroom
-Zone 6,<1,0,2004,Mushroom
+Zone:6,<1,0,2004,Mushroom
 Kanchanaburi,<1,0,2004,Mushroom
 Nakhon Pathom,<1,0,2004,Mushroom
 Ratchaburi,<1,0,2004,Mushroom
 Suphan Buri,<1,0,2004,Mushroom
-Zone 7,<1,0,2004,Mushroom
+Zone:7,<1,0,2004,Mushroom
 Phetchaburi,<1,0,2004,Mushroom
 Prachuap Khiri Khan,<1,0,2004,Mushroom
 Samut Sakhon,<1,0,2004,Mushroom
 Samut Songkhram,<1,0,2004,Mushroom
-Zone 8,<1,0,2004,Mushroom
+Zone:8,<1,0,2004,Mushroom
 Chachoengsao,<1,0,2004,Mushroom
 Nakhon Nayok,<1,0,2004,Mushroom
 Prachin Buri,<1,0,2004,Mushroom
 Sa Kaeo,<1,0,2004,Mushroom
 Samut Prakan,<1,0,2004,Mushroom
-Zone 9,<1,0,2004,Mushroom
+Zone:9,<1,0,2004,Mushroom
 Chanthaburi,<1,0,2004,Mushroom
 Chon Buri,<1,0,2004,Mushroom
 Rayong,<1,0,2004,Mushroom
 Trat,<1,0,2004,Mushroom
 North-Eastern Region,<1,0,2004,Mushroom
-Zone 10,<1,0,2004,Mushroom
+Zone:10,<1,0,2004,Mushroom
 Loei,<1,0,2004,Mushroom
 Nong Bua Lam Phu,<1,0,2004,Mushroom
 Nong Khai,<1,0,2004,Mushroom
 Udon Thani,<1,0,2004,Mushroom
-Zone 11,<1,0,2004,Mushroom
+Zone:11,<1,0,2004,Mushroom
 Kalasin,<1,0,2004,Mushroom
 Mukdahan,<1,0,2004,Mushroom
 Nakhon Phanom,<1,0,2004,Mushroom
 Sakon Nakhon,<1,0,2004,Mushroom
-Zone 12,<1,0,2004,Mushroom
+Zone:12,<1,0,2004,Mushroom
 Khon Kaen,<1,0,2004,Mushroom
 Maha Sarakham,<1,0,2004,Mushroom
 Roi Et,<1,0,2004,Mushroom
-Zone 13,<1,0,2004,Mushroom
+Zone:13,<1,0,2004,Mushroom
 Buri Ram,<1,0,2004,Mushroom
 Chaiyaphum,<1,0,2004,Mushroom
 Nakhon Ratchasima,<1,0,2004,Mushroom
 Surin,<1,0,2004,Mushroom
-Zone 14,<1,0,2004,Mushroom
+Zone:14,<1,0,2004,Mushroom
 Amnat Charoen,<1,0,2004,Mushroom
 Si Sa Ket,<1,0,2004,Mushroom
 Ubon Ratchathani,<1,0,2004,Mushroom
 Yasothon,<1,0,2004,Mushroom
 South Region,<1,1,2004,Mushroom
-Zone 15,<1,1,2004,Mushroom
+Zone:15,<1,1,2004,Mushroom
 Chumphon,<1,0,2004,Mushroom
 Ranong,<1,0,2004,Mushroom
 Surat Thani,<1,1,2004,Mushroom
-Zone 16,<1,0,2004,Mushroom
+Zone:16,<1,0,2004,Mushroom
 Nakhon Si Thammarat,<1,0,2004,Mushroom
 Phatthalung,<1,0,2004,Mushroom
 Trang,<1,0,2004,Mushroom
-Zone 17,<1,0,2004,Mushroom
+Zone:17,<1,0,2004,Mushroom
 Krabi,<1,0,2004,Mushroom
 Phangnga,<1,0,2004,Mushroom
 Phuket,<1,0,2004,Mushroom
-Zone 18,<1,0,2004,Mushroom
+Zone:18,<1,0,2004,Mushroom
 Narathiwat,<1,0,2004,Mushroom
 Pattani,<1,0,2004,Mushroom
 Yala,<1,0,2004,Mushroom
-Zone 19,<1,0,2004,Mushroom
+Zone:19,<1,0,2004,Mushroom
 Satun,<1,0,2004,Mushroom
 Songkhla,<1,0,2004,Mushroom
 Total,1-1,18,2004,Mushroom
 North Region,1-1,0,2004,Mushroom
-Zone 1,1-1,0,2004,Mushroom
+Zone:1,1-1,0,2004,Mushroom
 Chiang Mai,1-1,0,2004,Mushroom
 Chiang Rai,1-1,0,2004,Mushroom
 Lampang,1-1,0,2004,Mushroom
@@ -14278,98 +14278,98 @@ Mae Hong Son,1-1,0,2004,Mushroom
 Nan,1-1,0,2004,Mushroom
 Phayao,1-1,0,2004,Mushroom
 Phrae,1-1,0,2004,Mushroom
-Zone 2,1-1,0,2004,Mushroom
+Zone:2,1-1,0,2004,Mushroom
 Phetchabun,1-1,0,2004,Mushroom
 Phitsanulok,1-1,0,2004,Mushroom
 Sukhothai,1-1,0,2004,Mushroom
 Tak,1-1,0,2004,Mushroom
 Uttaradit,1-1,0,2004,Mushroom
-Zone 3,1-1,0,2004,Mushroom
+Zone:3,1-1,0,2004,Mushroom
 Kamphaeng Phet,1-1,0,2004,Mushroom
 Nakhon Sawan,1-1,0,2004,Mushroom
 Phichit,1-1,0,2004,Mushroom
 Uthai Thani,1-1,0,2004,Mushroom
 Central Region,1-1,6,2004,Mushroom
 Bangkok,1-1,0,2004,Mushroom
-Zone 4,1-1,0,2004,Mushroom
+Zone:4,1-1,0,2004,Mushroom
 Ang Thong,1-1,0,2004,Mushroom
 Nonthaburi,1-1,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,1-1,0,2004,Mushroom
 Pathum Thani,1-1,0,2004,Mushroom
-Zone 5,1-1,0,2004,Mushroom
+Zone:5,1-1,0,2004,Mushroom
 Chai Nat,1-1,0,2004,Mushroom
 Lop Buri,1-1,0,2004,Mushroom
 Saraburi,1-1,0,2004,Mushroom
 Sing Buri,1-1,0,2004,Mushroom
-Zone 6,1-1,4,2004,Mushroom
+Zone:6,1-1,4,2004,Mushroom
 Kanchanaburi,1-1,1,2004,Mushroom
 Nakhon Pathom,1-1,3,2004,Mushroom
 Ratchaburi,1-1,0,2004,Mushroom
 Suphan Buri,1-1,0,2004,Mushroom
-Zone 7,1-1,0,2004,Mushroom
+Zone:7,1-1,0,2004,Mushroom
 Phetchaburi,1-1,0,2004,Mushroom
 Prachuap Khiri Khan,1-1,0,2004,Mushroom
 Samut Sakhon,1-1,0,2004,Mushroom
 Samut Songkhram,1-1,0,2004,Mushroom
-Zone 8,1-1,1,2004,Mushroom
+Zone:8,1-1,1,2004,Mushroom
 Chachoengsao,1-1,0,2004,Mushroom
 Nakhon Nayok,1-1,0,2004,Mushroom
 Prachin Buri,1-1,1,2004,Mushroom
 Sa Kaeo,1-1,0,2004,Mushroom
 Samut Prakan,1-1,0,2004,Mushroom
-Zone 9,1-1,1,2004,Mushroom
+Zone:9,1-1,1,2004,Mushroom
 Chanthaburi,1-1,0,2004,Mushroom
 Chon Buri,1-1,0,2004,Mushroom
 Rayong,1-1,1,2004,Mushroom
 Trat,1-1,0,2004,Mushroom
 North-Eastern Region,1-1,11,2004,Mushroom
-Zone 10,1-1,1,2004,Mushroom
+Zone:10,1-1,1,2004,Mushroom
 Loei,1-1,1,2004,Mushroom
 Nong Bua Lam Phu,1-1,0,2004,Mushroom
 Nong Khai,1-1,0,2004,Mushroom
 Udon Thani,1-1,0,2004,Mushroom
-Zone 11,1-1,0,2004,Mushroom
+Zone:11,1-1,0,2004,Mushroom
 Kalasin,1-1,0,2004,Mushroom
 Mukdahan,1-1,0,2004,Mushroom
 Nakhon Phanom,1-1,0,2004,Mushroom
 Sakon Nakhon,1-1,0,2004,Mushroom
-Zone 12,1-1,0,2004,Mushroom
+Zone:12,1-1,0,2004,Mushroom
 Khon Kaen,1-1,0,2004,Mushroom
 Maha Sarakham,1-1,0,2004,Mushroom
 Roi Et,1-1,0,2004,Mushroom
-Zone 13,1-1,5,2004,Mushroom
+Zone:13,1-1,5,2004,Mushroom
 Buri Ram,1-1,2,2004,Mushroom
 Chaiyaphum,1-1,0,2004,Mushroom
 Nakhon Ratchasima,1-1,1,2004,Mushroom
 Surin,1-1,2,2004,Mushroom
-Zone 14,1-1,5,2004,Mushroom
+Zone:14,1-1,5,2004,Mushroom
 Amnat Charoen,1-1,1,2004,Mushroom
 Si Sa Ket,1-1,1,2004,Mushroom
 Ubon Ratchathani,1-1,3,2004,Mushroom
 Yasothon,1-1,0,2004,Mushroom
 South Region,1-1,1,2004,Mushroom
-Zone 15,1-1,0,2004,Mushroom
+Zone:15,1-1,0,2004,Mushroom
 Chumphon,1-1,0,2004,Mushroom
 Ranong,1-1,0,2004,Mushroom
 Surat Thani,1-1,0,2004,Mushroom
-Zone 16,1-1,1,2004,Mushroom
+Zone:16,1-1,1,2004,Mushroom
 Nakhon Si Thammarat,1-1,0,2004,Mushroom
 Phatthalung,1-1,0,2004,Mushroom
 Trang,1-1,1,2004,Mushroom
-Zone 17,1-1,0,2004,Mushroom
+Zone:17,1-1,0,2004,Mushroom
 Krabi,1-1,0,2004,Mushroom
 Phangnga,1-1,0,2004,Mushroom
 Phuket,1-1,0,2004,Mushroom
-Zone 18,1-1,0,2004,Mushroom
+Zone:18,1-1,0,2004,Mushroom
 Narathiwat,1-1,0,2004,Mushroom
 Pattani,1-1,0,2004,Mushroom
 Yala,1-1,0,2004,Mushroom
-Zone 19,1-1,0,2004,Mushroom
+Zone:19,1-1,0,2004,Mushroom
 Satun,1-1,0,2004,Mushroom
 Songkhla,1-1,0,2004,Mushroom
 Total,2-2,25,2004,Mushroom
 North Region,2-2,2,2004,Mushroom
-Zone 1,2-2,0,2004,Mushroom
+Zone:1,2-2,0,2004,Mushroom
 Chiang Mai,2-2,0,2004,Mushroom
 Chiang Rai,2-2,0,2004,Mushroom
 Lampang,2-2,0,2004,Mushroom
@@ -14378,98 +14378,98 @@ Mae Hong Son,2-2,0,2004,Mushroom
 Nan,2-2,0,2004,Mushroom
 Phayao,2-2,0,2004,Mushroom
 Phrae,2-2,0,2004,Mushroom
-Zone 2,2-2,1,2004,Mushroom
+Zone:2,2-2,1,2004,Mushroom
 Phetchabun,2-2,0,2004,Mushroom
 Phitsanulok,2-2,1,2004,Mushroom
 Sukhothai,2-2,0,2004,Mushroom
 Tak,2-2,0,2004,Mushroom
 Uttaradit,2-2,0,2004,Mushroom
-Zone 3,2-2,1,2004,Mushroom
+Zone:3,2-2,1,2004,Mushroom
 Kamphaeng Phet,2-2,1,2004,Mushroom
 Nakhon Sawan,2-2,0,2004,Mushroom
 Phichit,2-2,0,2004,Mushroom
 Uthai Thani,2-2,0,2004,Mushroom
 Central Region,2-2,3,2004,Mushroom
 Bangkok,2-2,0,2004,Mushroom
-Zone 4,2-2,0,2004,Mushroom
+Zone:4,2-2,0,2004,Mushroom
 Ang Thong,2-2,0,2004,Mushroom
 Nonthaburi,2-2,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,2-2,0,2004,Mushroom
 Pathum Thani,2-2,0,2004,Mushroom
-Zone 5,2-2,0,2004,Mushroom
+Zone:5,2-2,0,2004,Mushroom
 Chai Nat,2-2,0,2004,Mushroom
 Lop Buri,2-2,0,2004,Mushroom
 Saraburi,2-2,0,2004,Mushroom
 Sing Buri,2-2,0,2004,Mushroom
-Zone 6,2-2,1,2004,Mushroom
+Zone:6,2-2,1,2004,Mushroom
 Kanchanaburi,2-2,0,2004,Mushroom
 Nakhon Pathom,2-2,1,2004,Mushroom
 Ratchaburi,2-2,0,2004,Mushroom
 Suphan Buri,2-2,0,2004,Mushroom
-Zone 7,2-2,0,2004,Mushroom
+Zone:7,2-2,0,2004,Mushroom
 Phetchaburi,2-2,0,2004,Mushroom
 Prachuap Khiri Khan,2-2,0,2004,Mushroom
 Samut Sakhon,2-2,0,2004,Mushroom
 Samut Songkhram,2-2,0,2004,Mushroom
-Zone 8,2-2,1,2004,Mushroom
+Zone:8,2-2,1,2004,Mushroom
 Chachoengsao,2-2,1,2004,Mushroom
 Nakhon Nayok,2-2,0,2004,Mushroom
 Prachin Buri,2-2,0,2004,Mushroom
 Sa Kaeo,2-2,0,2004,Mushroom
 Samut Prakan,2-2,0,2004,Mushroom
-Zone 9,2-2,1,2004,Mushroom
+Zone:9,2-2,1,2004,Mushroom
 Chanthaburi,2-2,1,2004,Mushroom
 Chon Buri,2-2,0,2004,Mushroom
 Rayong,2-2,0,2004,Mushroom
 Trat,2-2,0,2004,Mushroom
 North-Eastern Region,2-2,20,2004,Mushroom
-Zone 10,2-2,1,2004,Mushroom
+Zone:10,2-2,1,2004,Mushroom
 Loei,2-2,1,2004,Mushroom
 Nong Bua Lam Phu,2-2,0,2004,Mushroom
 Nong Khai,2-2,0,2004,Mushroom
 Udon Thani,2-2,0,2004,Mushroom
-Zone 11,2-2,2,2004,Mushroom
+Zone:11,2-2,2,2004,Mushroom
 Kalasin,2-2,0,2004,Mushroom
 Mukdahan,2-2,0,2004,Mushroom
 Nakhon Phanom,2-2,1,2004,Mushroom
 Sakon Nakhon,2-2,1,2004,Mushroom
-Zone 12,2-2,0,2004,Mushroom
+Zone:12,2-2,0,2004,Mushroom
 Khon Kaen,2-2,0,2004,Mushroom
 Maha Sarakham,2-2,0,2004,Mushroom
 Roi Et,2-2,0,2004,Mushroom
-Zone 13,2-2,9,2004,Mushroom
+Zone:13,2-2,9,2004,Mushroom
 Buri Ram,2-2,1,2004,Mushroom
 Chaiyaphum,2-2,0,2004,Mushroom
 Nakhon Ratchasima,2-2,0,2004,Mushroom
 Surin,2-2,8,2004,Mushroom
-Zone 14,2-2,8,2004,Mushroom
+Zone:14,2-2,8,2004,Mushroom
 Amnat Charoen,2-2,2,2004,Mushroom
 Si Sa Ket,2-2,2,2004,Mushroom
 Ubon Ratchathani,2-2,4,2004,Mushroom
 Yasothon,2-2,0,2004,Mushroom
 South Region,2-2,0,2004,Mushroom
-Zone 15,2-2,0,2004,Mushroom
+Zone:15,2-2,0,2004,Mushroom
 Chumphon,2-2,0,2004,Mushroom
 Ranong,2-2,0,2004,Mushroom
 Surat Thani,2-2,0,2004,Mushroom
-Zone 16,2-2,0,2004,Mushroom
+Zone:16,2-2,0,2004,Mushroom
 Nakhon Si Thammarat,2-2,0,2004,Mushroom
 Phatthalung,2-2,0,2004,Mushroom
 Trang,2-2,0,2004,Mushroom
-Zone 17,2-2,0,2004,Mushroom
+Zone:17,2-2,0,2004,Mushroom
 Krabi,2-2,0,2004,Mushroom
 Phangnga,2-2,0,2004,Mushroom
 Phuket,2-2,0,2004,Mushroom
-Zone 18,2-2,0,2004,Mushroom
+Zone:18,2-2,0,2004,Mushroom
 Narathiwat,2-2,0,2004,Mushroom
 Pattani,2-2,0,2004,Mushroom
 Yala,2-2,0,2004,Mushroom
-Zone 19,2-2,0,2004,Mushroom
+Zone:19,2-2,0,2004,Mushroom
 Satun,2-2,0,2004,Mushroom
 Songkhla,2-2,0,2004,Mushroom
 Total,3-3,18,2004,Mushroom
 North Region,3-3,1,2004,Mushroom
-Zone 1,3-3,0,2004,Mushroom
+Zone:1,3-3,0,2004,Mushroom
 Chiang Mai,3-3,0,2004,Mushroom
 Chiang Rai,3-3,0,2004,Mushroom
 Lampang,3-3,0,2004,Mushroom
@@ -14478,98 +14478,98 @@ Mae Hong Son,3-3,0,2004,Mushroom
 Nan,3-3,0,2004,Mushroom
 Phayao,3-3,0,2004,Mushroom
 Phrae,3-3,0,2004,Mushroom
-Zone 2,3-3,1,2004,Mushroom
+Zone:2,3-3,1,2004,Mushroom
 Phetchabun,3-3,0,2004,Mushroom
 Phitsanulok,3-3,1,2004,Mushroom
 Sukhothai,3-3,0,2004,Mushroom
 Tak,3-3,0,2004,Mushroom
 Uttaradit,3-3,0,2004,Mushroom
-Zone 3,3-3,0,2004,Mushroom
+Zone:3,3-3,0,2004,Mushroom
 Kamphaeng Phet,3-3,0,2004,Mushroom
 Nakhon Sawan,3-3,0,2004,Mushroom
 Phichit,3-3,0,2004,Mushroom
 Uthai Thani,3-3,0,2004,Mushroom
 Central Region,3-3,3,2004,Mushroom
 Bangkok,3-3,0,2004,Mushroom
-Zone 4,3-3,0,2004,Mushroom
+Zone:4,3-3,0,2004,Mushroom
 Ang Thong,3-3,0,2004,Mushroom
 Nonthaburi,3-3,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,3-3,0,2004,Mushroom
 Pathum Thani,3-3,0,2004,Mushroom
-Zone 5,3-3,0,2004,Mushroom
+Zone:5,3-3,0,2004,Mushroom
 Chai Nat,3-3,0,2004,Mushroom
 Lop Buri,3-3,0,2004,Mushroom
 Saraburi,3-3,0,2004,Mushroom
 Sing Buri,3-3,0,2004,Mushroom
-Zone 6,3-3,1,2004,Mushroom
+Zone:6,3-3,1,2004,Mushroom
 Kanchanaburi,3-3,0,2004,Mushroom
 Nakhon Pathom,3-3,1,2004,Mushroom
 Ratchaburi,3-3,0,2004,Mushroom
 Suphan Buri,3-3,0,2004,Mushroom
-Zone 7,3-3,0,2004,Mushroom
+Zone:7,3-3,0,2004,Mushroom
 Phetchaburi,3-3,0,2004,Mushroom
 Prachuap Khiri Khan,3-3,0,2004,Mushroom
 Samut Sakhon,3-3,0,2004,Mushroom
 Samut Songkhram,3-3,0,2004,Mushroom
-Zone 8,3-3,2,2004,Mushroom
+Zone:8,3-3,2,2004,Mushroom
 Chachoengsao,3-3,1,2004,Mushroom
 Nakhon Nayok,3-3,0,2004,Mushroom
 Prachin Buri,3-3,0,2004,Mushroom
 Sa Kaeo,3-3,1,2004,Mushroom
 Samut Prakan,3-3,0,2004,Mushroom
-Zone 9,3-3,0,2004,Mushroom
+Zone:9,3-3,0,2004,Mushroom
 Chanthaburi,3-3,0,2004,Mushroom
 Chon Buri,3-3,0,2004,Mushroom
 Rayong,3-3,0,2004,Mushroom
 Trat,3-3,0,2004,Mushroom
 North-Eastern Region,3-3,13,2004,Mushroom
-Zone 10,3-3,0,2004,Mushroom
+Zone:10,3-3,0,2004,Mushroom
 Loei,3-3,0,2004,Mushroom
 Nong Bua Lam Phu,3-3,0,2004,Mushroom
 Nong Khai,3-3,0,2004,Mushroom
 Udon Thani,3-3,0,2004,Mushroom
-Zone 11,3-3,3,2004,Mushroom
+Zone:11,3-3,3,2004,Mushroom
 Kalasin,3-3,0,2004,Mushroom
 Mukdahan,3-3,0,2004,Mushroom
 Nakhon Phanom,3-3,1,2004,Mushroom
 Sakon Nakhon,3-3,2,2004,Mushroom
-Zone 12,3-3,0,2004,Mushroom
+Zone:12,3-3,0,2004,Mushroom
 Khon Kaen,3-3,0,2004,Mushroom
 Maha Sarakham,3-3,0,2004,Mushroom
 Roi Et,3-3,0,2004,Mushroom
-Zone 13,3-3,6,2004,Mushroom
+Zone:13,3-3,6,2004,Mushroom
 Buri Ram,3-3,3,2004,Mushroom
 Chaiyaphum,3-3,0,2004,Mushroom
 Nakhon Ratchasima,3-3,1,2004,Mushroom
 Surin,3-3,2,2004,Mushroom
-Zone 14,3-3,4,2004,Mushroom
+Zone:14,3-3,4,2004,Mushroom
 Amnat Charoen,3-3,0,2004,Mushroom
 Si Sa Ket,3-3,1,2004,Mushroom
 Ubon Ratchathani,3-3,3,2004,Mushroom
 Yasothon,3-3,0,2004,Mushroom
 South Region,3-3,1,2004,Mushroom
-Zone 15,3-3,0,2004,Mushroom
+Zone:15,3-3,0,2004,Mushroom
 Chumphon,3-3,0,2004,Mushroom
 Ranong,3-3,0,2004,Mushroom
 Surat Thani,3-3,0,2004,Mushroom
-Zone 16,3-3,0,2004,Mushroom
+Zone:16,3-3,0,2004,Mushroom
 Nakhon Si Thammarat,3-3,0,2004,Mushroom
 Phatthalung,3-3,0,2004,Mushroom
 Trang,3-3,0,2004,Mushroom
-Zone 17,3-3,1,2004,Mushroom
+Zone:17,3-3,1,2004,Mushroom
 Krabi,3-3,1,2004,Mushroom
 Phangnga,3-3,0,2004,Mushroom
 Phuket,3-3,0,2004,Mushroom
-Zone 18,3-3,0,2004,Mushroom
+Zone:18,3-3,0,2004,Mushroom
 Narathiwat,3-3,0,2004,Mushroom
 Pattani,3-3,0,2004,Mushroom
 Yala,3-3,0,2004,Mushroom
-Zone 19,3-3,0,2004,Mushroom
+Zone:19,3-3,0,2004,Mushroom
 Satun,3-3,0,2004,Mushroom
 Songkhla,3-3,0,2004,Mushroom
 Total,4-4,18,2004,Mushroom
 North Region,4-4,3,2004,Mushroom
-Zone 1,4-4,2,2004,Mushroom
+Zone:1,4-4,2,2004,Mushroom
 Chiang Mai,4-4,0,2004,Mushroom
 Chiang Rai,4-4,1,2004,Mushroom
 Lampang,4-4,1,2004,Mushroom
@@ -14578,98 +14578,98 @@ Mae Hong Son,4-4,0,2004,Mushroom
 Nan,4-4,0,2004,Mushroom
 Phayao,4-4,0,2004,Mushroom
 Phrae,4-4,0,2004,Mushroom
-Zone 2,4-4,0,2004,Mushroom
+Zone:2,4-4,0,2004,Mushroom
 Phetchabun,4-4,0,2004,Mushroom
 Phitsanulok,4-4,0,2004,Mushroom
 Sukhothai,4-4,0,2004,Mushroom
 Tak,4-4,0,2004,Mushroom
 Uttaradit,4-4,0,2004,Mushroom
-Zone 3,4-4,1,2004,Mushroom
+Zone:3,4-4,1,2004,Mushroom
 Kamphaeng Phet,4-4,1,2004,Mushroom
 Nakhon Sawan,4-4,0,2004,Mushroom
 Phichit,4-4,0,2004,Mushroom
 Uthai Thani,4-4,0,2004,Mushroom
 Central Region,4-4,2,2004,Mushroom
 Bangkok,4-4,0,2004,Mushroom
-Zone 4,4-4,0,2004,Mushroom
+Zone:4,4-4,0,2004,Mushroom
 Ang Thong,4-4,0,2004,Mushroom
 Nonthaburi,4-4,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,4-4,0,2004,Mushroom
 Pathum Thani,4-4,0,2004,Mushroom
-Zone 5,4-4,0,2004,Mushroom
+Zone:5,4-4,0,2004,Mushroom
 Chai Nat,4-4,0,2004,Mushroom
 Lop Buri,4-4,0,2004,Mushroom
 Saraburi,4-4,0,2004,Mushroom
 Sing Buri,4-4,0,2004,Mushroom
-Zone 6,4-4,0,2004,Mushroom
+Zone:6,4-4,0,2004,Mushroom
 Kanchanaburi,4-4,0,2004,Mushroom
 Nakhon Pathom,4-4,0,2004,Mushroom
 Ratchaburi,4-4,0,2004,Mushroom
 Suphan Buri,4-4,0,2004,Mushroom
-Zone 7,4-4,0,2004,Mushroom
+Zone:7,4-4,0,2004,Mushroom
 Phetchaburi,4-4,0,2004,Mushroom
 Prachuap Khiri Khan,4-4,0,2004,Mushroom
 Samut Sakhon,4-4,0,2004,Mushroom
 Samut Songkhram,4-4,0,2004,Mushroom
-Zone 8,4-4,2,2004,Mushroom
+Zone:8,4-4,2,2004,Mushroom
 Chachoengsao,4-4,0,2004,Mushroom
 Nakhon Nayok,4-4,0,2004,Mushroom
 Prachin Buri,4-4,0,2004,Mushroom
 Sa Kaeo,4-4,2,2004,Mushroom
 Samut Prakan,4-4,0,2004,Mushroom
-Zone 9,4-4,0,2004,Mushroom
+Zone:9,4-4,0,2004,Mushroom
 Chanthaburi,4-4,0,2004,Mushroom
 Chon Buri,4-4,0,2004,Mushroom
 Rayong,4-4,0,2004,Mushroom
 Trat,4-4,0,2004,Mushroom
 North-Eastern Region,4-4,13,2004,Mushroom
-Zone 10,4-4,0,2004,Mushroom
+Zone:10,4-4,0,2004,Mushroom
 Loei,4-4,0,2004,Mushroom
 Nong Bua Lam Phu,4-4,0,2004,Mushroom
 Nong Khai,4-4,0,2004,Mushroom
 Udon Thani,4-4,0,2004,Mushroom
-Zone 11,4-4,1,2004,Mushroom
+Zone:11,4-4,1,2004,Mushroom
 Kalasin,4-4,0,2004,Mushroom
 Mukdahan,4-4,0,2004,Mushroom
 Nakhon Phanom,4-4,1,2004,Mushroom
 Sakon Nakhon,4-4,0,2004,Mushroom
-Zone 12,4-4,0,2004,Mushroom
+Zone:12,4-4,0,2004,Mushroom
 Khon Kaen,4-4,0,2004,Mushroom
 Maha Sarakham,4-4,0,2004,Mushroom
 Roi Et,4-4,0,2004,Mushroom
-Zone 13,4-4,6,2004,Mushroom
+Zone:13,4-4,6,2004,Mushroom
 Buri Ram,4-4,5,2004,Mushroom
 Chaiyaphum,4-4,0,2004,Mushroom
 Nakhon Ratchasima,4-4,0,2004,Mushroom
 Surin,4-4,1,2004,Mushroom
-Zone 14,4-4,6,2004,Mushroom
+Zone:14,4-4,6,2004,Mushroom
 Amnat Charoen,4-4,2,2004,Mushroom
 Si Sa Ket,4-4,0,2004,Mushroom
 Ubon Ratchathani,4-4,4,2004,Mushroom
 Yasothon,4-4,0,2004,Mushroom
 South Region,4-4,0,2004,Mushroom
-Zone 15,4-4,0,2004,Mushroom
+Zone:15,4-4,0,2004,Mushroom
 Chumphon,4-4,0,2004,Mushroom
 Ranong,4-4,0,2004,Mushroom
 Surat Thani,4-4,0,2004,Mushroom
-Zone 16,4-4,0,2004,Mushroom
+Zone:16,4-4,0,2004,Mushroom
 Nakhon Si Thammarat,4-4,0,2004,Mushroom
 Phatthalung,4-4,0,2004,Mushroom
 Trang,4-4,0,2004,Mushroom
-Zone 17,4-4,0,2004,Mushroom
+Zone:17,4-4,0,2004,Mushroom
 Krabi,4-4,0,2004,Mushroom
 Phangnga,4-4,0,2004,Mushroom
 Phuket,4-4,0,2004,Mushroom
-Zone 18,4-4,0,2004,Mushroom
+Zone:18,4-4,0,2004,Mushroom
 Narathiwat,4-4,0,2004,Mushroom
 Pattani,4-4,0,2004,Mushroom
 Yala,4-4,0,2004,Mushroom
-Zone 19,4-4,0,2004,Mushroom
+Zone:19,4-4,0,2004,Mushroom
 Satun,4-4,0,2004,Mushroom
 Songkhla,4-4,0,2004,Mushroom
 Total,5-5,13,2004,Mushroom
 North Region,5-5,3,2004,Mushroom
-Zone 1,5-5,1,2004,Mushroom
+Zone:1,5-5,1,2004,Mushroom
 Chiang Mai,5-5,0,2004,Mushroom
 Chiang Rai,5-5,1,2004,Mushroom
 Lampang,5-5,0,2004,Mushroom
@@ -14678,98 +14678,98 @@ Mae Hong Son,5-5,0,2004,Mushroom
 Nan,5-5,0,2004,Mushroom
 Phayao,5-5,0,2004,Mushroom
 Phrae,5-5,0,2004,Mushroom
-Zone 2,5-5,1,2004,Mushroom
+Zone:2,5-5,1,2004,Mushroom
 Phetchabun,5-5,0,2004,Mushroom
 Phitsanulok,5-5,1,2004,Mushroom
 Sukhothai,5-5,0,2004,Mushroom
 Tak,5-5,0,2004,Mushroom
 Uttaradit,5-5,0,2004,Mushroom
-Zone 3,5-5,1,2004,Mushroom
+Zone:3,5-5,1,2004,Mushroom
 Kamphaeng Phet,5-5,1,2004,Mushroom
 Nakhon Sawan,5-5,0,2004,Mushroom
 Phichit,5-5,0,2004,Mushroom
 Uthai Thani,5-5,0,2004,Mushroom
 Central Region,5-5,0,2004,Mushroom
 Bangkok,5-5,0,2004,Mushroom
-Zone 4,5-5,0,2004,Mushroom
+Zone:4,5-5,0,2004,Mushroom
 Ang Thong,5-5,0,2004,Mushroom
 Nonthaburi,5-5,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,5-5,0,2004,Mushroom
 Pathum Thani,5-5,0,2004,Mushroom
-Zone 5,5-5,0,2004,Mushroom
+Zone:5,5-5,0,2004,Mushroom
 Chai Nat,5-5,0,2004,Mushroom
 Lop Buri,5-5,0,2004,Mushroom
 Saraburi,5-5,0,2004,Mushroom
 Sing Buri,5-5,0,2004,Mushroom
-Zone 6,5-5,0,2004,Mushroom
+Zone:6,5-5,0,2004,Mushroom
 Kanchanaburi,5-5,0,2004,Mushroom
 Nakhon Pathom,5-5,0,2004,Mushroom
 Ratchaburi,5-5,0,2004,Mushroom
 Suphan Buri,5-5,0,2004,Mushroom
-Zone 7,5-5,0,2004,Mushroom
+Zone:7,5-5,0,2004,Mushroom
 Phetchaburi,5-5,0,2004,Mushroom
 Prachuap Khiri Khan,5-5,0,2004,Mushroom
 Samut Sakhon,5-5,0,2004,Mushroom
 Samut Songkhram,5-5,0,2004,Mushroom
-Zone 8,5-5,0,2004,Mushroom
+Zone:8,5-5,0,2004,Mushroom
 Chachoengsao,5-5,0,2004,Mushroom
 Nakhon Nayok,5-5,0,2004,Mushroom
 Prachin Buri,5-5,0,2004,Mushroom
 Sa Kaeo,5-5,0,2004,Mushroom
 Samut Prakan,5-5,0,2004,Mushroom
-Zone 9,5-5,0,2004,Mushroom
+Zone:9,5-5,0,2004,Mushroom
 Chanthaburi,5-5,0,2004,Mushroom
 Chon Buri,5-5,0,2004,Mushroom
 Rayong,5-5,0,2004,Mushroom
 Trat,5-5,0,2004,Mushroom
 North-Eastern Region,5-5,9,2004,Mushroom
-Zone 10,5-5,0,2004,Mushroom
+Zone:10,5-5,0,2004,Mushroom
 Loei,5-5,0,2004,Mushroom
 Nong Bua Lam Phu,5-5,0,2004,Mushroom
 Nong Khai,5-5,0,2004,Mushroom
 Udon Thani,5-5,0,2004,Mushroom
-Zone 11,5-5,4,2004,Mushroom
+Zone:11,5-5,4,2004,Mushroom
 Kalasin,5-5,0,2004,Mushroom
 Mukdahan,5-5,0,2004,Mushroom
 Nakhon Phanom,5-5,3,2004,Mushroom
 Sakon Nakhon,5-5,1,2004,Mushroom
-Zone 12,5-5,0,2004,Mushroom
+Zone:12,5-5,0,2004,Mushroom
 Khon Kaen,5-5,0,2004,Mushroom
 Maha Sarakham,5-5,0,2004,Mushroom
 Roi Et,5-5,0,2004,Mushroom
-Zone 13,5-5,5,2004,Mushroom
+Zone:13,5-5,5,2004,Mushroom
 Buri Ram,5-5,4,2004,Mushroom
 Chaiyaphum,5-5,0,2004,Mushroom
 Nakhon Ratchasima,5-5,0,2004,Mushroom
 Surin,5-5,1,2004,Mushroom
-Zone 14,5-5,0,2004,Mushroom
+Zone:14,5-5,0,2004,Mushroom
 Amnat Charoen,5-5,0,2004,Mushroom
 Si Sa Ket,5-5,0,2004,Mushroom
 Ubon Ratchathani,5-5,0,2004,Mushroom
 Yasothon,5-5,0,2004,Mushroom
 South Region,5-5,1,2004,Mushroom
-Zone 15,5-5,0,2004,Mushroom
+Zone:15,5-5,0,2004,Mushroom
 Chumphon,5-5,0,2004,Mushroom
 Ranong,5-5,0,2004,Mushroom
 Surat Thani,5-5,0,2004,Mushroom
-Zone 16,5-5,1,2004,Mushroom
+Zone:16,5-5,1,2004,Mushroom
 Nakhon Si Thammarat,5-5,0,2004,Mushroom
 Phatthalung,5-5,0,2004,Mushroom
 Trang,5-5,1,2004,Mushroom
-Zone 17,5-5,0,2004,Mushroom
+Zone:17,5-5,0,2004,Mushroom
 Krabi,5-5,0,2004,Mushroom
 Phangnga,5-5,0,2004,Mushroom
 Phuket,5-5,0,2004,Mushroom
-Zone 18,5-5,0,2004,Mushroom
+Zone:18,5-5,0,2004,Mushroom
 Narathiwat,5-5,0,2004,Mushroom
 Pattani,5-5,0,2004,Mushroom
 Yala,5-5,0,2004,Mushroom
-Zone 19,5-5,0,2004,Mushroom
+Zone:19,5-5,0,2004,Mushroom
 Satun,5-5,0,2004,Mushroom
 Songkhla,5-5,0,2004,Mushroom
 Total,6-6,22,2004,Mushroom
 North Region,6-6,1,2004,Mushroom
-Zone 1,6-6,1,2004,Mushroom
+Zone:1,6-6,1,2004,Mushroom
 Chiang Mai,6-6,0,2004,Mushroom
 Chiang Rai,6-6,1,2004,Mushroom
 Lampang,6-6,0,2004,Mushroom
@@ -14778,98 +14778,98 @@ Mae Hong Son,6-6,0,2004,Mushroom
 Nan,6-6,0,2004,Mushroom
 Phayao,6-6,0,2004,Mushroom
 Phrae,6-6,0,2004,Mushroom
-Zone 2,6-6,0,2004,Mushroom
+Zone:2,6-6,0,2004,Mushroom
 Phetchabun,6-6,0,2004,Mushroom
 Phitsanulok,6-6,0,2004,Mushroom
 Sukhothai,6-6,0,2004,Mushroom
 Tak,6-6,0,2004,Mushroom
 Uttaradit,6-6,0,2004,Mushroom
-Zone 3,6-6,0,2004,Mushroom
+Zone:3,6-6,0,2004,Mushroom
 Kamphaeng Phet,6-6,0,2004,Mushroom
 Nakhon Sawan,6-6,0,2004,Mushroom
 Phichit,6-6,0,2004,Mushroom
 Uthai Thani,6-6,0,2004,Mushroom
 Central Region,6-6,3,2004,Mushroom
 Bangkok,6-6,0,2004,Mushroom
-Zone 4,6-6,0,2004,Mushroom
+Zone:4,6-6,0,2004,Mushroom
 Ang Thong,6-6,0,2004,Mushroom
 Nonthaburi,6-6,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,6-6,0,2004,Mushroom
 Pathum Thani,6-6,0,2004,Mushroom
-Zone 5,6-6,0,2004,Mushroom
+Zone:5,6-6,0,2004,Mushroom
 Chai Nat,6-6,0,2004,Mushroom
 Lop Buri,6-6,0,2004,Mushroom
 Saraburi,6-6,0,2004,Mushroom
 Sing Buri,6-6,0,2004,Mushroom
-Zone 6,6-6,2,2004,Mushroom
+Zone:6,6-6,2,2004,Mushroom
 Kanchanaburi,6-6,0,2004,Mushroom
 Nakhon Pathom,6-6,1,2004,Mushroom
 Ratchaburi,6-6,1,2004,Mushroom
 Suphan Buri,6-6,0,2004,Mushroom
-Zone 7,6-6,0,2004,Mushroom
+Zone:7,6-6,0,2004,Mushroom
 Phetchaburi,6-6,0,2004,Mushroom
 Prachuap Khiri Khan,6-6,0,2004,Mushroom
 Samut Sakhon,6-6,0,2004,Mushroom
 Samut Songkhram,6-6,0,2004,Mushroom
-Zone 8,6-6,1,2004,Mushroom
+Zone:8,6-6,1,2004,Mushroom
 Chachoengsao,6-6,0,2004,Mushroom
 Nakhon Nayok,6-6,0,2004,Mushroom
 Prachin Buri,6-6,0,2004,Mushroom
 Sa Kaeo,6-6,1,2004,Mushroom
 Samut Prakan,6-6,0,2004,Mushroom
-Zone 9,6-6,0,2004,Mushroom
+Zone:9,6-6,0,2004,Mushroom
 Chanthaburi,6-6,0,2004,Mushroom
 Chon Buri,6-6,0,2004,Mushroom
 Rayong,6-6,0,2004,Mushroom
 Trat,6-6,0,2004,Mushroom
 North-Eastern Region,6-6,15,2004,Mushroom
-Zone 10,6-6,2,2004,Mushroom
+Zone:10,6-6,2,2004,Mushroom
 Loei,6-6,2,2004,Mushroom
 Nong Bua Lam Phu,6-6,0,2004,Mushroom
 Nong Khai,6-6,0,2004,Mushroom
 Udon Thani,6-6,0,2004,Mushroom
-Zone 11,6-6,0,2004,Mushroom
+Zone:11,6-6,0,2004,Mushroom
 Kalasin,6-6,0,2004,Mushroom
 Mukdahan,6-6,0,2004,Mushroom
 Nakhon Phanom,6-6,0,2004,Mushroom
 Sakon Nakhon,6-6,0,2004,Mushroom
-Zone 12,6-6,0,2004,Mushroom
+Zone:12,6-6,0,2004,Mushroom
 Khon Kaen,6-6,0,2004,Mushroom
 Maha Sarakham,6-6,0,2004,Mushroom
 Roi Et,6-6,0,2004,Mushroom
-Zone 13,6-6,9,2004,Mushroom
+Zone:13,6-6,9,2004,Mushroom
 Buri Ram,6-6,5,2004,Mushroom
 Chaiyaphum,6-6,0,2004,Mushroom
 Nakhon Ratchasima,6-6,0,2004,Mushroom
 Surin,6-6,4,2004,Mushroom
-Zone 14,6-6,4,2004,Mushroom
+Zone:14,6-6,4,2004,Mushroom
 Amnat Charoen,6-6,1,2004,Mushroom
 Si Sa Ket,6-6,1,2004,Mushroom
 Ubon Ratchathani,6-6,2,2004,Mushroom
 Yasothon,6-6,0,2004,Mushroom
 South Region,6-6,3,2004,Mushroom
-Zone 15,6-6,2,2004,Mushroom
+Zone:15,6-6,2,2004,Mushroom
 Chumphon,6-6,1,2004,Mushroom
 Ranong,6-6,0,2004,Mushroom
 Surat Thani,6-6,1,2004,Mushroom
-Zone 16,6-6,0,2004,Mushroom
+Zone:16,6-6,0,2004,Mushroom
 Nakhon Si Thammarat,6-6,0,2004,Mushroom
 Phatthalung,6-6,0,2004,Mushroom
 Trang,6-6,0,2004,Mushroom
-Zone 17,6-6,1,2004,Mushroom
+Zone:17,6-6,1,2004,Mushroom
 Krabi,6-6,1,2004,Mushroom
 Phangnga,6-6,0,2004,Mushroom
 Phuket,6-6,0,2004,Mushroom
-Zone 18,6-6,0,2004,Mushroom
+Zone:18,6-6,0,2004,Mushroom
 Narathiwat,6-6,0,2004,Mushroom
 Pattani,6-6,0,2004,Mushroom
 Yala,6-6,0,2004,Mushroom
-Zone 19,6-6,0,2004,Mushroom
+Zone:19,6-6,0,2004,Mushroom
 Satun,6-6,0,2004,Mushroom
 Songkhla,6-6,0,2004,Mushroom
 Total,7-9,54,2004,Mushroom
 North Region,7-9,6,2004,Mushroom
-Zone 1,7-9,2,2004,Mushroom
+Zone:1,7-9,2,2004,Mushroom
 Chiang Mai,7-9,0,2004,Mushroom
 Chiang Rai,7-9,2,2004,Mushroom
 Lampang,7-9,0,2004,Mushroom
@@ -14878,98 +14878,98 @@ Mae Hong Son,7-9,0,2004,Mushroom
 Nan,7-9,0,2004,Mushroom
 Phayao,7-9,0,2004,Mushroom
 Phrae,7-9,0,2004,Mushroom
-Zone 2,7-9,2,2004,Mushroom
+Zone:2,7-9,2,2004,Mushroom
 Phetchabun,7-9,0,2004,Mushroom
 Phitsanulok,7-9,2,2004,Mushroom
 Sukhothai,7-9,0,2004,Mushroom
 Tak,7-9,0,2004,Mushroom
 Uttaradit,7-9,0,2004,Mushroom
-Zone 3,7-9,2,2004,Mushroom
+Zone:3,7-9,2,2004,Mushroom
 Kamphaeng Phet,7-9,2,2004,Mushroom
 Nakhon Sawan,7-9,0,2004,Mushroom
 Phichit,7-9,0,2004,Mushroom
 Uthai Thani,7-9,0,2004,Mushroom
 Central Region,7-9,3,2004,Mushroom
 Bangkok,7-9,0,2004,Mushroom
-Zone 4,7-9,0,2004,Mushroom
+Zone:4,7-9,0,2004,Mushroom
 Ang Thong,7-9,0,2004,Mushroom
 Nonthaburi,7-9,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,7-9,0,2004,Mushroom
 Pathum Thani,7-9,0,2004,Mushroom
-Zone 5,7-9,0,2004,Mushroom
+Zone:5,7-9,0,2004,Mushroom
 Chai Nat,7-9,0,2004,Mushroom
 Lop Buri,7-9,0,2004,Mushroom
 Saraburi,7-9,0,2004,Mushroom
 Sing Buri,7-9,0,2004,Mushroom
-Zone 6,7-9,0,2004,Mushroom
+Zone:6,7-9,0,2004,Mushroom
 Kanchanaburi,7-9,0,2004,Mushroom
 Nakhon Pathom,7-9,0,2004,Mushroom
 Ratchaburi,7-9,0,2004,Mushroom
 Suphan Buri,7-9,0,2004,Mushroom
-Zone 7,7-9,0,2004,Mushroom
+Zone:7,7-9,0,2004,Mushroom
 Phetchaburi,7-9,0,2004,Mushroom
 Prachuap Khiri Khan,7-9,0,2004,Mushroom
 Samut Sakhon,7-9,0,2004,Mushroom
 Samut Songkhram,7-9,0,2004,Mushroom
-Zone 8,7-9,3,2004,Mushroom
+Zone:8,7-9,3,2004,Mushroom
 Chachoengsao,7-9,1,2004,Mushroom
 Nakhon Nayok,7-9,0,2004,Mushroom
 Prachin Buri,7-9,0,2004,Mushroom
 Sa Kaeo,7-9,2,2004,Mushroom
 Samut Prakan,7-9,0,2004,Mushroom
-Zone 9,7-9,0,2004,Mushroom
+Zone:9,7-9,0,2004,Mushroom
 Chanthaburi,7-9,0,2004,Mushroom
 Chon Buri,7-9,0,2004,Mushroom
 Rayong,7-9,0,2004,Mushroom
 Trat,7-9,0,2004,Mushroom
 North-Eastern Region,7-9,44,2004,Mushroom
-Zone 10,7-9,2,2004,Mushroom
+Zone:10,7-9,2,2004,Mushroom
 Loei,7-9,1,2004,Mushroom
 Nong Bua Lam Phu,7-9,0,2004,Mushroom
 Nong Khai,7-9,1,2004,Mushroom
 Udon Thani,7-9,0,2004,Mushroom
-Zone 11,7-9,5,2004,Mushroom
+Zone:11,7-9,5,2004,Mushroom
 Kalasin,7-9,0,2004,Mushroom
 Mukdahan,7-9,0,2004,Mushroom
 Nakhon Phanom,7-9,1,2004,Mushroom
 Sakon Nakhon,7-9,4,2004,Mushroom
-Zone 12,7-9,4,2004,Mushroom
+Zone:12,7-9,4,2004,Mushroom
 Khon Kaen,7-9,2,2004,Mushroom
 Maha Sarakham,7-9,0,2004,Mushroom
 Roi Et,7-9,2,2004,Mushroom
-Zone 13,7-9,22,2004,Mushroom
+Zone:13,7-9,22,2004,Mushroom
 Buri Ram,7-9,13,2004,Mushroom
 Chaiyaphum,7-9,0,2004,Mushroom
 Nakhon Ratchasima,7-9,2,2004,Mushroom
 Surin,7-9,7,2004,Mushroom
-Zone 14,7-9,11,2004,Mushroom
+Zone:14,7-9,11,2004,Mushroom
 Amnat Charoen,7-9,0,2004,Mushroom
 Si Sa Ket,7-9,2,2004,Mushroom
 Ubon Ratchathani,7-9,9,2004,Mushroom
 Yasothon,7-9,0,2004,Mushroom
 South Region,7-9,1,2004,Mushroom
-Zone 15,7-9,0,2004,Mushroom
+Zone:15,7-9,0,2004,Mushroom
 Chumphon,7-9,0,2004,Mushroom
 Ranong,7-9,0,2004,Mushroom
 Surat Thani,7-9,0,2004,Mushroom
-Zone 16,7-9,1,2004,Mushroom
+Zone:16,7-9,1,2004,Mushroom
 Nakhon Si Thammarat,7-9,0,2004,Mushroom
 Phatthalung,7-9,0,2004,Mushroom
 Trang,7-9,1,2004,Mushroom
-Zone 17,7-9,0,2004,Mushroom
+Zone:17,7-9,0,2004,Mushroom
 Krabi,7-9,0,2004,Mushroom
 Phangnga,7-9,0,2004,Mushroom
 Phuket,7-9,0,2004,Mushroom
-Zone 18,7-9,0,2004,Mushroom
+Zone:18,7-9,0,2004,Mushroom
 Narathiwat,7-9,0,2004,Mushroom
 Pattani,7-9,0,2004,Mushroom
 Yala,7-9,0,2004,Mushroom
-Zone 19,7-9,0,2004,Mushroom
+Zone:19,7-9,0,2004,Mushroom
 Satun,7-9,0,2004,Mushroom
 Songkhla,7-9,0,2004,Mushroom
 Total,10-14,89,2004,Mushroom
 North Region,10-14,11,2004,Mushroom
-Zone 1,10-14,10,2004,Mushroom
+Zone:1,10-14,10,2004,Mushroom
 Chiang Mai,10-14,3,2004,Mushroom
 Chiang Rai,10-14,6,2004,Mushroom
 Lampang,10-14,1,2004,Mushroom
@@ -14978,98 +14978,98 @@ Mae Hong Son,10-14,0,2004,Mushroom
 Nan,10-14,0,2004,Mushroom
 Phayao,10-14,0,2004,Mushroom
 Phrae,10-14,0,2004,Mushroom
-Zone 2,10-14,1,2004,Mushroom
+Zone:2,10-14,1,2004,Mushroom
 Phetchabun,10-14,0,2004,Mushroom
 Phitsanulok,10-14,1,2004,Mushroom
 Sukhothai,10-14,0,2004,Mushroom
 Tak,10-14,0,2004,Mushroom
 Uttaradit,10-14,0,2004,Mushroom
-Zone 3,10-14,0,2004,Mushroom
+Zone:3,10-14,0,2004,Mushroom
 Kamphaeng Phet,10-14,0,2004,Mushroom
 Nakhon Sawan,10-14,0,2004,Mushroom
 Phichit,10-14,0,2004,Mushroom
 Uthai Thani,10-14,0,2004,Mushroom
 Central Region,10-14,5,2004,Mushroom
 Bangkok,10-14,0,2004,Mushroom
-Zone 4,10-14,0,2004,Mushroom
+Zone:4,10-14,0,2004,Mushroom
 Ang Thong,10-14,0,2004,Mushroom
 Nonthaburi,10-14,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,10-14,0,2004,Mushroom
 Pathum Thani,10-14,0,2004,Mushroom
-Zone 5,10-14,0,2004,Mushroom
+Zone:5,10-14,0,2004,Mushroom
 Chai Nat,10-14,0,2004,Mushroom
 Lop Buri,10-14,0,2004,Mushroom
 Saraburi,10-14,0,2004,Mushroom
 Sing Buri,10-14,0,2004,Mushroom
-Zone 6,10-14,1,2004,Mushroom
+Zone:6,10-14,1,2004,Mushroom
 Kanchanaburi,10-14,0,2004,Mushroom
 Nakhon Pathom,10-14,0,2004,Mushroom
 Ratchaburi,10-14,1,2004,Mushroom
 Suphan Buri,10-14,0,2004,Mushroom
-Zone 7,10-14,0,2004,Mushroom
+Zone:7,10-14,0,2004,Mushroom
 Phetchaburi,10-14,0,2004,Mushroom
 Prachuap Khiri Khan,10-14,0,2004,Mushroom
 Samut Sakhon,10-14,0,2004,Mushroom
 Samut Songkhram,10-14,0,2004,Mushroom
-Zone 8,10-14,4,2004,Mushroom
+Zone:8,10-14,4,2004,Mushroom
 Chachoengsao,10-14,3,2004,Mushroom
 Nakhon Nayok,10-14,0,2004,Mushroom
 Prachin Buri,10-14,0,2004,Mushroom
 Sa Kaeo,10-14,1,2004,Mushroom
 Samut Prakan,10-14,0,2004,Mushroom
-Zone 9,10-14,0,2004,Mushroom
+Zone:9,10-14,0,2004,Mushroom
 Chanthaburi,10-14,0,2004,Mushroom
 Chon Buri,10-14,0,2004,Mushroom
 Rayong,10-14,0,2004,Mushroom
 Trat,10-14,0,2004,Mushroom
 North-Eastern Region,10-14,64,2004,Mushroom
-Zone 10,10-14,6,2004,Mushroom
+Zone:10,10-14,6,2004,Mushroom
 Loei,10-14,4,2004,Mushroom
 Nong Bua Lam Phu,10-14,0,2004,Mushroom
 Nong Khai,10-14,1,2004,Mushroom
 Udon Thani,10-14,1,2004,Mushroom
-Zone 11,10-14,5,2004,Mushroom
+Zone:11,10-14,5,2004,Mushroom
 Kalasin,10-14,0,2004,Mushroom
 Mukdahan,10-14,0,2004,Mushroom
 Nakhon Phanom,10-14,3,2004,Mushroom
 Sakon Nakhon,10-14,2,2004,Mushroom
-Zone 12,10-14,4,2004,Mushroom
+Zone:12,10-14,4,2004,Mushroom
 Khon Kaen,10-14,1,2004,Mushroom
 Maha Sarakham,10-14,0,2004,Mushroom
 Roi Et,10-14,3,2004,Mushroom
-Zone 13,10-14,27,2004,Mushroom
+Zone:13,10-14,27,2004,Mushroom
 Buri Ram,10-14,19,2004,Mushroom
 Chaiyaphum,10-14,0,2004,Mushroom
 Nakhon Ratchasima,10-14,0,2004,Mushroom
 Surin,10-14,8,2004,Mushroom
-Zone 14,10-14,22,2004,Mushroom
+Zone:14,10-14,22,2004,Mushroom
 Amnat Charoen,10-14,1,2004,Mushroom
 Si Sa Ket,10-14,3,2004,Mushroom
 Ubon Ratchathani,10-14,18,2004,Mushroom
 Yasothon,10-14,0,2004,Mushroom
 South Region,10-14,9,2004,Mushroom
-Zone 15,10-14,5,2004,Mushroom
+Zone:15,10-14,5,2004,Mushroom
 Chumphon,10-14,0,2004,Mushroom
 Ranong,10-14,1,2004,Mushroom
 Surat Thani,10-14,4,2004,Mushroom
-Zone 16,10-14,1,2004,Mushroom
+Zone:16,10-14,1,2004,Mushroom
 Nakhon Si Thammarat,10-14,1,2004,Mushroom
 Phatthalung,10-14,0,2004,Mushroom
 Trang,10-14,0,2004,Mushroom
-Zone 17,10-14,2,2004,Mushroom
+Zone:17,10-14,2,2004,Mushroom
 Krabi,10-14,2,2004,Mushroom
 Phangnga,10-14,0,2004,Mushroom
 Phuket,10-14,0,2004,Mushroom
-Zone 18,10-14,0,2004,Mushroom
+Zone:18,10-14,0,2004,Mushroom
 Narathiwat,10-14,0,2004,Mushroom
 Pattani,10-14,0,2004,Mushroom
 Yala,10-14,0,2004,Mushroom
-Zone 19,10-14,1,2004,Mushroom
+Zone:19,10-14,1,2004,Mushroom
 Satun,10-14,0,2004,Mushroom
 Songkhla,10-14,1,2004,Mushroom
 Total,15-24,128,2004,Mushroom
 North Region,15-24,17,2004,Mushroom
-Zone 1,15-24,13,2004,Mushroom
+Zone:1,15-24,13,2004,Mushroom
 Chiang Mai,15-24,4,2004,Mushroom
 Chiang Rai,15-24,6,2004,Mushroom
 Lampang,15-24,3,2004,Mushroom
@@ -15078,98 +15078,98 @@ Mae Hong Son,15-24,0,2004,Mushroom
 Nan,15-24,0,2004,Mushroom
 Phayao,15-24,0,2004,Mushroom
 Phrae,15-24,0,2004,Mushroom
-Zone 2,15-24,3,2004,Mushroom
+Zone:2,15-24,3,2004,Mushroom
 Phetchabun,15-24,1,2004,Mushroom
 Phitsanulok,15-24,1,2004,Mushroom
 Sukhothai,15-24,0,2004,Mushroom
 Tak,15-24,1,2004,Mushroom
 Uttaradit,15-24,0,2004,Mushroom
-Zone 3,15-24,1,2004,Mushroom
+Zone:3,15-24,1,2004,Mushroom
 Kamphaeng Phet,15-24,1,2004,Mushroom
 Nakhon Sawan,15-24,0,2004,Mushroom
 Phichit,15-24,0,2004,Mushroom
 Uthai Thani,15-24,0,2004,Mushroom
 Central Region,15-24,17,2004,Mushroom
 Bangkok,15-24,0,2004,Mushroom
-Zone 4,15-24,0,2004,Mushroom
+Zone:4,15-24,0,2004,Mushroom
 Ang Thong,15-24,0,2004,Mushroom
 Nonthaburi,15-24,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,15-24,0,2004,Mushroom
 Pathum Thani,15-24,0,2004,Mushroom
-Zone 5,15-24,0,2004,Mushroom
+Zone:5,15-24,0,2004,Mushroom
 Chai Nat,15-24,0,2004,Mushroom
 Lop Buri,15-24,0,2004,Mushroom
 Saraburi,15-24,0,2004,Mushroom
 Sing Buri,15-24,0,2004,Mushroom
-Zone 6,15-24,3,2004,Mushroom
+Zone:6,15-24,3,2004,Mushroom
 Kanchanaburi,15-24,2,2004,Mushroom
 Nakhon Pathom,15-24,0,2004,Mushroom
 Ratchaburi,15-24,1,2004,Mushroom
 Suphan Buri,15-24,0,2004,Mushroom
-Zone 7,15-24,0,2004,Mushroom
+Zone:7,15-24,0,2004,Mushroom
 Phetchaburi,15-24,0,2004,Mushroom
 Prachuap Khiri Khan,15-24,0,2004,Mushroom
 Samut Sakhon,15-24,0,2004,Mushroom
 Samut Songkhram,15-24,0,2004,Mushroom
-Zone 8,15-24,7,2004,Mushroom
+Zone:8,15-24,7,2004,Mushroom
 Chachoengsao,15-24,3,2004,Mushroom
 Nakhon Nayok,15-24,0,2004,Mushroom
 Prachin Buri,15-24,1,2004,Mushroom
 Sa Kaeo,15-24,3,2004,Mushroom
 Samut Prakan,15-24,0,2004,Mushroom
-Zone 9,15-24,7,2004,Mushroom
+Zone:9,15-24,7,2004,Mushroom
 Chanthaburi,15-24,0,2004,Mushroom
 Chon Buri,15-24,1,2004,Mushroom
 Rayong,15-24,5,2004,Mushroom
 Trat,15-24,1,2004,Mushroom
 North-Eastern Region,15-24,71,2004,Mushroom
-Zone 10,15-24,12,2004,Mushroom
+Zone:10,15-24,12,2004,Mushroom
 Loei,15-24,9,2004,Mushroom
 Nong Bua Lam Phu,15-24,0,2004,Mushroom
 Nong Khai,15-24,0,2004,Mushroom
 Udon Thani,15-24,3,2004,Mushroom
-Zone 11,15-24,7,2004,Mushroom
+Zone:11,15-24,7,2004,Mushroom
 Kalasin,15-24,0,2004,Mushroom
 Mukdahan,15-24,0,2004,Mushroom
 Nakhon Phanom,15-24,2,2004,Mushroom
 Sakon Nakhon,15-24,5,2004,Mushroom
-Zone 12,15-24,4,2004,Mushroom
+Zone:12,15-24,4,2004,Mushroom
 Khon Kaen,15-24,1,2004,Mushroom
 Maha Sarakham,15-24,0,2004,Mushroom
 Roi Et,15-24,3,2004,Mushroom
-Zone 13,15-24,29,2004,Mushroom
+Zone:13,15-24,29,2004,Mushroom
 Buri Ram,15-24,19,2004,Mushroom
 Chaiyaphum,15-24,0,2004,Mushroom
 Nakhon Ratchasima,15-24,5,2004,Mushroom
 Surin,15-24,5,2004,Mushroom
-Zone 14,15-24,19,2004,Mushroom
+Zone:14,15-24,19,2004,Mushroom
 Amnat Charoen,15-24,2,2004,Mushroom
 Si Sa Ket,15-24,3,2004,Mushroom
 Ubon Ratchathani,15-24,13,2004,Mushroom
 Yasothon,15-24,1,2004,Mushroom
 South Region,15-24,23,2004,Mushroom
-Zone 15,15-24,13,2004,Mushroom
+Zone:15,15-24,13,2004,Mushroom
 Chumphon,15-24,3,2004,Mushroom
 Ranong,15-24,5,2004,Mushroom
 Surat Thani,15-24,5,2004,Mushroom
-Zone 16,15-24,3,2004,Mushroom
+Zone:16,15-24,3,2004,Mushroom
 Nakhon Si Thammarat,15-24,0,2004,Mushroom
 Phatthalung,15-24,0,2004,Mushroom
 Trang,15-24,3,2004,Mushroom
-Zone 17,15-24,5,2004,Mushroom
+Zone:17,15-24,5,2004,Mushroom
 Krabi,15-24,5,2004,Mushroom
 Phangnga,15-24,0,2004,Mushroom
 Phuket,15-24,0,2004,Mushroom
-Zone 18,15-24,0,2004,Mushroom
+Zone:18,15-24,0,2004,Mushroom
 Narathiwat,15-24,0,2004,Mushroom
 Pattani,15-24,0,2004,Mushroom
 Yala,15-24,0,2004,Mushroom
-Zone 19,15-24,2,2004,Mushroom
+Zone:19,15-24,2,2004,Mushroom
 Satun,15-24,0,2004,Mushroom
 Songkhla,15-24,2,2004,Mushroom
 Total,25-34,180,2004,Mushroom
 North Region,25-34,13,2004,Mushroom
-Zone 1,25-34,8,2004,Mushroom
+Zone:1,25-34,8,2004,Mushroom
 Chiang Mai,25-34,1,2004,Mushroom
 Chiang Rai,25-34,6,2004,Mushroom
 Lampang,25-34,0,2004,Mushroom
@@ -15178,98 +15178,98 @@ Mae Hong Son,25-34,0,2004,Mushroom
 Nan,25-34,1,2004,Mushroom
 Phayao,25-34,0,2004,Mushroom
 Phrae,25-34,0,2004,Mushroom
-Zone 2,25-34,2,2004,Mushroom
+Zone:2,25-34,2,2004,Mushroom
 Phetchabun,25-34,0,2004,Mushroom
 Phitsanulok,25-34,2,2004,Mushroom
 Sukhothai,25-34,0,2004,Mushroom
 Tak,25-34,0,2004,Mushroom
 Uttaradit,25-34,0,2004,Mushroom
-Zone 3,25-34,3,2004,Mushroom
+Zone:3,25-34,3,2004,Mushroom
 Kamphaeng Phet,25-34,2,2004,Mushroom
 Nakhon Sawan,25-34,1,2004,Mushroom
 Phichit,25-34,0,2004,Mushroom
 Uthai Thani,25-34,0,2004,Mushroom
 Central Region,25-34,24,2004,Mushroom
 Bangkok,25-34,0,2004,Mushroom
-Zone 4,25-34,2,2004,Mushroom
+Zone:4,25-34,2,2004,Mushroom
 Ang Thong,25-34,0,2004,Mushroom
 Nonthaburi,25-34,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,25-34,0,2004,Mushroom
 Pathum Thani,25-34,2,2004,Mushroom
-Zone 5,25-34,0,2004,Mushroom
+Zone:5,25-34,0,2004,Mushroom
 Chai Nat,25-34,0,2004,Mushroom
 Lop Buri,25-34,0,2004,Mushroom
 Saraburi,25-34,0,2004,Mushroom
 Sing Buri,25-34,0,2004,Mushroom
-Zone 6,25-34,2,2004,Mushroom
+Zone:6,25-34,2,2004,Mushroom
 Kanchanaburi,25-34,0,2004,Mushroom
 Nakhon Pathom,25-34,2,2004,Mushroom
 Ratchaburi,25-34,0,2004,Mushroom
 Suphan Buri,25-34,0,2004,Mushroom
-Zone 7,25-34,0,2004,Mushroom
+Zone:7,25-34,0,2004,Mushroom
 Phetchaburi,25-34,0,2004,Mushroom
 Prachuap Khiri Khan,25-34,0,2004,Mushroom
 Samut Sakhon,25-34,0,2004,Mushroom
 Samut Songkhram,25-34,0,2004,Mushroom
-Zone 8,25-34,10,2004,Mushroom
+Zone:8,25-34,10,2004,Mushroom
 Chachoengsao,25-34,1,2004,Mushroom
 Nakhon Nayok,25-34,0,2004,Mushroom
 Prachin Buri,25-34,3,2004,Mushroom
 Sa Kaeo,25-34,6,2004,Mushroom
 Samut Prakan,25-34,0,2004,Mushroom
-Zone 9,25-34,10,2004,Mushroom
+Zone:9,25-34,10,2004,Mushroom
 Chanthaburi,25-34,1,2004,Mushroom
 Chon Buri,25-34,1,2004,Mushroom
 Rayong,25-34,8,2004,Mushroom
 Trat,25-34,0,2004,Mushroom
 North-Eastern Region,25-34,135,2004,Mushroom
-Zone 10,25-34,25,2004,Mushroom
+Zone:10,25-34,25,2004,Mushroom
 Loei,25-34,23,2004,Mushroom
 Nong Bua Lam Phu,25-34,0,2004,Mushroom
 Nong Khai,25-34,2,2004,Mushroom
 Udon Thani,25-34,0,2004,Mushroom
-Zone 11,25-34,19,2004,Mushroom
+Zone:11,25-34,19,2004,Mushroom
 Kalasin,25-34,0,2004,Mushroom
 Mukdahan,25-34,1,2004,Mushroom
 Nakhon Phanom,25-34,11,2004,Mushroom
 Sakon Nakhon,25-34,7,2004,Mushroom
-Zone 12,25-34,6,2004,Mushroom
+Zone:12,25-34,6,2004,Mushroom
 Khon Kaen,25-34,1,2004,Mushroom
 Maha Sarakham,25-34,0,2004,Mushroom
 Roi Et,25-34,5,2004,Mushroom
-Zone 13,25-34,34,2004,Mushroom
+Zone:13,25-34,34,2004,Mushroom
 Buri Ram,25-34,15,2004,Mushroom
 Chaiyaphum,25-34,0,2004,Mushroom
 Nakhon Ratchasima,25-34,5,2004,Mushroom
 Surin,25-34,14,2004,Mushroom
-Zone 14,25-34,51,2004,Mushroom
+Zone:14,25-34,51,2004,Mushroom
 Amnat Charoen,25-34,5,2004,Mushroom
 Si Sa Ket,25-34,3,2004,Mushroom
 Ubon Ratchathani,25-34,41,2004,Mushroom
 Yasothon,25-34,2,2004,Mushroom
 South Region,25-34,8,2004,Mushroom
-Zone 15,25-34,4,2004,Mushroom
+Zone:15,25-34,4,2004,Mushroom
 Chumphon,25-34,0,2004,Mushroom
 Ranong,25-34,0,2004,Mushroom
 Surat Thani,25-34,4,2004,Mushroom
-Zone 16,25-34,2,2004,Mushroom
+Zone:16,25-34,2,2004,Mushroom
 Nakhon Si Thammarat,25-34,1,2004,Mushroom
 Phatthalung,25-34,0,2004,Mushroom
 Trang,25-34,1,2004,Mushroom
-Zone 17,25-34,0,2004,Mushroom
+Zone:17,25-34,0,2004,Mushroom
 Krabi,25-34,0,2004,Mushroom
 Phangnga,25-34,0,2004,Mushroom
 Phuket,25-34,0,2004,Mushroom
-Zone 18,25-34,0,2004,Mushroom
+Zone:18,25-34,0,2004,Mushroom
 Narathiwat,25-34,0,2004,Mushroom
 Pattani,25-34,0,2004,Mushroom
 Yala,25-34,0,2004,Mushroom
-Zone 19,25-34,2,2004,Mushroom
+Zone:19,25-34,2,2004,Mushroom
 Satun,25-34,0,2004,Mushroom
 Songkhla,25-34,2,2004,Mushroom
 Total,35-44,248,2004,Mushroom
 North Region,35-44,40,2004,Mushroom
-Zone 1,35-44,31,2004,Mushroom
+Zone:1,35-44,31,2004,Mushroom
 Chiang Mai,35-44,4,2004,Mushroom
 Chiang Rai,35-44,18,2004,Mushroom
 Lampang,35-44,2,2004,Mushroom
@@ -15278,98 +15278,98 @@ Mae Hong Son,35-44,1,2004,Mushroom
 Nan,35-44,2,2004,Mushroom
 Phayao,35-44,4,2004,Mushroom
 Phrae,35-44,0,2004,Mushroom
-Zone 2,35-44,4,2004,Mushroom
+Zone:2,35-44,4,2004,Mushroom
 Phetchabun,35-44,0,2004,Mushroom
 Phitsanulok,35-44,4,2004,Mushroom
 Sukhothai,35-44,0,2004,Mushroom
 Tak,35-44,0,2004,Mushroom
 Uttaradit,35-44,0,2004,Mushroom
-Zone 3,35-44,5,2004,Mushroom
+Zone:3,35-44,5,2004,Mushroom
 Kamphaeng Phet,35-44,3,2004,Mushroom
 Nakhon Sawan,35-44,2,2004,Mushroom
 Phichit,35-44,0,2004,Mushroom
 Uthai Thani,35-44,0,2004,Mushroom
 Central Region,35-44,24,2004,Mushroom
 Bangkok,35-44,0,2004,Mushroom
-Zone 4,35-44,0,2004,Mushroom
+Zone:4,35-44,0,2004,Mushroom
 Ang Thong,35-44,0,2004,Mushroom
 Nonthaburi,35-44,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,35-44,0,2004,Mushroom
 Pathum Thani,35-44,0,2004,Mushroom
-Zone 5,35-44,0,2004,Mushroom
+Zone:5,35-44,0,2004,Mushroom
 Chai Nat,35-44,0,2004,Mushroom
 Lop Buri,35-44,0,2004,Mushroom
 Saraburi,35-44,0,2004,Mushroom
 Sing Buri,35-44,0,2004,Mushroom
-Zone 6,35-44,3,2004,Mushroom
+Zone:6,35-44,3,2004,Mushroom
 Kanchanaburi,35-44,1,2004,Mushroom
 Nakhon Pathom,35-44,2,2004,Mushroom
 Ratchaburi,35-44,0,2004,Mushroom
 Suphan Buri,35-44,0,2004,Mushroom
-Zone 7,35-44,0,2004,Mushroom
+Zone:7,35-44,0,2004,Mushroom
 Phetchaburi,35-44,0,2004,Mushroom
 Prachuap Khiri Khan,35-44,0,2004,Mushroom
 Samut Sakhon,35-44,0,2004,Mushroom
 Samut Songkhram,35-44,0,2004,Mushroom
-Zone 8,35-44,18,2004,Mushroom
+Zone:8,35-44,18,2004,Mushroom
 Chachoengsao,35-44,4,2004,Mushroom
 Nakhon Nayok,35-44,0,2004,Mushroom
 Prachin Buri,35-44,2,2004,Mushroom
 Sa Kaeo,35-44,12,2004,Mushroom
 Samut Prakan,35-44,0,2004,Mushroom
-Zone 9,35-44,3,2004,Mushroom
+Zone:9,35-44,3,2004,Mushroom
 Chanthaburi,35-44,0,2004,Mushroom
 Chon Buri,35-44,0,2004,Mushroom
 Rayong,35-44,3,2004,Mushroom
 Trat,35-44,0,2004,Mushroom
 North-Eastern Region,35-44,169,2004,Mushroom
-Zone 10,35-44,31,2004,Mushroom
+Zone:10,35-44,31,2004,Mushroom
 Loei,35-44,20,2004,Mushroom
 Nong Bua Lam Phu,35-44,1,2004,Mushroom
 Nong Khai,35-44,8,2004,Mushroom
 Udon Thani,35-44,2,2004,Mushroom
-Zone 11,35-44,24,2004,Mushroom
+Zone:11,35-44,24,2004,Mushroom
 Kalasin,35-44,0,2004,Mushroom
 Mukdahan,35-44,1,2004,Mushroom
 Nakhon Phanom,35-44,7,2004,Mushroom
 Sakon Nakhon,35-44,16,2004,Mushroom
-Zone 12,35-44,9,2004,Mushroom
+Zone:12,35-44,9,2004,Mushroom
 Khon Kaen,35-44,0,2004,Mushroom
 Maha Sarakham,35-44,0,2004,Mushroom
 Roi Et,35-44,9,2004,Mushroom
-Zone 13,35-44,60,2004,Mushroom
+Zone:13,35-44,60,2004,Mushroom
 Buri Ram,35-44,38,2004,Mushroom
 Chaiyaphum,35-44,0,2004,Mushroom
 Nakhon Ratchasima,35-44,3,2004,Mushroom
 Surin,35-44,19,2004,Mushroom
-Zone 14,35-44,45,2004,Mushroom
+Zone:14,35-44,45,2004,Mushroom
 Amnat Charoen,35-44,2,2004,Mushroom
 Si Sa Ket,35-44,12,2004,Mushroom
 Ubon Ratchathani,35-44,30,2004,Mushroom
 Yasothon,35-44,1,2004,Mushroom
 South Region,35-44,15,2004,Mushroom
-Zone 15,35-44,7,2004,Mushroom
+Zone:15,35-44,7,2004,Mushroom
 Chumphon,35-44,1,2004,Mushroom
 Ranong,35-44,2,2004,Mushroom
 Surat Thani,35-44,4,2004,Mushroom
-Zone 16,35-44,1,2004,Mushroom
+Zone:16,35-44,1,2004,Mushroom
 Nakhon Si Thammarat,35-44,0,2004,Mushroom
 Phatthalung,35-44,0,2004,Mushroom
 Trang,35-44,1,2004,Mushroom
-Zone 17,35-44,5,2004,Mushroom
+Zone:17,35-44,5,2004,Mushroom
 Krabi,35-44,5,2004,Mushroom
 Phangnga,35-44,0,2004,Mushroom
 Phuket,35-44,0,2004,Mushroom
-Zone 18,35-44,0,2004,Mushroom
+Zone:18,35-44,0,2004,Mushroom
 Narathiwat,35-44,0,2004,Mushroom
 Pattani,35-44,0,2004,Mushroom
 Yala,35-44,0,2004,Mushroom
-Zone 19,35-44,2,2004,Mushroom
+Zone:19,35-44,2,2004,Mushroom
 Satun,35-44,0,2004,Mushroom
 Songkhla,35-44,2,2004,Mushroom
 Total,45-54,211,2004,Mushroom
 North Region,45-54,32,2004,Mushroom
-Zone 1,45-54,25,2004,Mushroom
+Zone:1,45-54,25,2004,Mushroom
 Chiang Mai,45-54,4,2004,Mushroom
 Chiang Rai,45-54,12,2004,Mushroom
 Lampang,45-54,5,2004,Mushroom
@@ -15378,98 +15378,98 @@ Mae Hong Son,45-54,0,2004,Mushroom
 Nan,45-54,4,2004,Mushroom
 Phayao,45-54,0,2004,Mushroom
 Phrae,45-54,0,2004,Mushroom
-Zone 2,45-54,3,2004,Mushroom
+Zone:2,45-54,3,2004,Mushroom
 Phetchabun,45-54,0,2004,Mushroom
 Phitsanulok,45-54,2,2004,Mushroom
 Sukhothai,45-54,0,2004,Mushroom
 Tak,45-54,0,2004,Mushroom
 Uttaradit,45-54,1,2004,Mushroom
-Zone 3,45-54,4,2004,Mushroom
+Zone:3,45-54,4,2004,Mushroom
 Kamphaeng Phet,45-54,4,2004,Mushroom
 Nakhon Sawan,45-54,0,2004,Mushroom
 Phichit,45-54,0,2004,Mushroom
 Uthai Thani,45-54,0,2004,Mushroom
 Central Region,45-54,23,2004,Mushroom
 Bangkok,45-54,0,2004,Mushroom
-Zone 4,45-54,1,2004,Mushroom
+Zone:4,45-54,1,2004,Mushroom
 Ang Thong,45-54,0,2004,Mushroom
 Nonthaburi,45-54,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,45-54,0,2004,Mushroom
 Pathum Thani,45-54,1,2004,Mushroom
-Zone 5,45-54,0,2004,Mushroom
+Zone:5,45-54,0,2004,Mushroom
 Chai Nat,45-54,0,2004,Mushroom
 Lop Buri,45-54,0,2004,Mushroom
 Saraburi,45-54,0,2004,Mushroom
 Sing Buri,45-54,0,2004,Mushroom
-Zone 6,45-54,2,2004,Mushroom
+Zone:6,45-54,2,2004,Mushroom
 Kanchanaburi,45-54,2,2004,Mushroom
 Nakhon Pathom,45-54,0,2004,Mushroom
 Ratchaburi,45-54,0,2004,Mushroom
 Suphan Buri,45-54,0,2004,Mushroom
-Zone 7,45-54,0,2004,Mushroom
+Zone:7,45-54,0,2004,Mushroom
 Phetchaburi,45-54,0,2004,Mushroom
 Prachuap Khiri Khan,45-54,0,2004,Mushroom
 Samut Sakhon,45-54,0,2004,Mushroom
 Samut Songkhram,45-54,0,2004,Mushroom
-Zone 8,45-54,11,2004,Mushroom
+Zone:8,45-54,11,2004,Mushroom
 Chachoengsao,45-54,3,2004,Mushroom
 Nakhon Nayok,45-54,0,2004,Mushroom
 Prachin Buri,45-54,1,2004,Mushroom
 Sa Kaeo,45-54,7,2004,Mushroom
 Samut Prakan,45-54,0,2004,Mushroom
-Zone 9,45-54,9,2004,Mushroom
+Zone:9,45-54,9,2004,Mushroom
 Chanthaburi,45-54,4,2004,Mushroom
 Chon Buri,45-54,0,2004,Mushroom
 Rayong,45-54,5,2004,Mushroom
 Trat,45-54,0,2004,Mushroom
 North-Eastern Region,45-54,146,2004,Mushroom
-Zone 10,45-54,22,2004,Mushroom
+Zone:10,45-54,22,2004,Mushroom
 Loei,45-54,16,2004,Mushroom
 Nong Bua Lam Phu,45-54,0,2004,Mushroom
 Nong Khai,45-54,3,2004,Mushroom
 Udon Thani,45-54,3,2004,Mushroom
-Zone 11,45-54,24,2004,Mushroom
+Zone:11,45-54,24,2004,Mushroom
 Kalasin,45-54,0,2004,Mushroom
 Mukdahan,45-54,0,2004,Mushroom
 Nakhon Phanom,45-54,9,2004,Mushroom
 Sakon Nakhon,45-54,15,2004,Mushroom
-Zone 12,45-54,5,2004,Mushroom
+Zone:12,45-54,5,2004,Mushroom
 Khon Kaen,45-54,1,2004,Mushroom
 Maha Sarakham,45-54,0,2004,Mushroom
 Roi Et,45-54,4,2004,Mushroom
-Zone 13,45-54,51,2004,Mushroom
+Zone:13,45-54,51,2004,Mushroom
 Buri Ram,45-54,28,2004,Mushroom
 Chaiyaphum,45-54,0,2004,Mushroom
 Nakhon Ratchasima,45-54,6,2004,Mushroom
 Surin,45-54,17,2004,Mushroom
-Zone 14,45-54,44,2004,Mushroom
+Zone:14,45-54,44,2004,Mushroom
 Amnat Charoen,45-54,4,2004,Mushroom
 Si Sa Ket,45-54,7,2004,Mushroom
 Ubon Ratchathani,45-54,33,2004,Mushroom
 Yasothon,45-54,0,2004,Mushroom
 South Region,45-54,10,2004,Mushroom
-Zone 15,45-54,5,2004,Mushroom
+Zone:15,45-54,5,2004,Mushroom
 Chumphon,45-54,0,2004,Mushroom
 Ranong,45-54,0,2004,Mushroom
 Surat Thani,45-54,5,2004,Mushroom
-Zone 16,45-54,2,2004,Mushroom
+Zone:16,45-54,2,2004,Mushroom
 Nakhon Si Thammarat,45-54,1,2004,Mushroom
 Phatthalung,45-54,0,2004,Mushroom
 Trang,45-54,1,2004,Mushroom
-Zone 17,45-54,2,2004,Mushroom
+Zone:17,45-54,2,2004,Mushroom
 Krabi,45-54,2,2004,Mushroom
 Phangnga,45-54,0,2004,Mushroom
 Phuket,45-54,0,2004,Mushroom
-Zone 18,45-54,0,2004,Mushroom
+Zone:18,45-54,0,2004,Mushroom
 Narathiwat,45-54,0,2004,Mushroom
 Pattani,45-54,0,2004,Mushroom
 Yala,45-54,0,2004,Mushroom
-Zone 19,45-54,1,2004,Mushroom
+Zone:19,45-54,1,2004,Mushroom
 Satun,45-54,0,2004,Mushroom
 Songkhla,45-54,1,2004,Mushroom
 Total,55-64,121,2004,Mushroom
 North Region,55-64,15,2004,Mushroom
-Zone 1,55-64,12,2004,Mushroom
+Zone:1,55-64,12,2004,Mushroom
 Chiang Mai,55-64,0,2004,Mushroom
 Chiang Rai,55-64,8,2004,Mushroom
 Lampang,55-64,3,2004,Mushroom
@@ -15478,98 +15478,98 @@ Mae Hong Son,55-64,0,2004,Mushroom
 Nan,55-64,1,2004,Mushroom
 Phayao,55-64,0,2004,Mushroom
 Phrae,55-64,0,2004,Mushroom
-Zone 2,55-64,1,2004,Mushroom
+Zone:2,55-64,1,2004,Mushroom
 Phetchabun,55-64,0,2004,Mushroom
 Phitsanulok,55-64,1,2004,Mushroom
 Sukhothai,55-64,0,2004,Mushroom
 Tak,55-64,0,2004,Mushroom
 Uttaradit,55-64,0,2004,Mushroom
-Zone 3,55-64,2,2004,Mushroom
+Zone:3,55-64,2,2004,Mushroom
 Kamphaeng Phet,55-64,1,2004,Mushroom
 Nakhon Sawan,55-64,1,2004,Mushroom
 Phichit,55-64,0,2004,Mushroom
 Uthai Thani,55-64,0,2004,Mushroom
 Central Region,55-64,7,2004,Mushroom
 Bangkok,55-64,0,2004,Mushroom
-Zone 4,55-64,0,2004,Mushroom
+Zone:4,55-64,0,2004,Mushroom
 Ang Thong,55-64,0,2004,Mushroom
 Nonthaburi,55-64,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,55-64,0,2004,Mushroom
 Pathum Thani,55-64,0,2004,Mushroom
-Zone 5,55-64,0,2004,Mushroom
+Zone:5,55-64,0,2004,Mushroom
 Chai Nat,55-64,0,2004,Mushroom
 Lop Buri,55-64,0,2004,Mushroom
 Saraburi,55-64,0,2004,Mushroom
 Sing Buri,55-64,0,2004,Mushroom
-Zone 6,55-64,1,2004,Mushroom
+Zone:6,55-64,1,2004,Mushroom
 Kanchanaburi,55-64,0,2004,Mushroom
 Nakhon Pathom,55-64,0,2004,Mushroom
 Ratchaburi,55-64,1,2004,Mushroom
 Suphan Buri,55-64,0,2004,Mushroom
-Zone 7,55-64,0,2004,Mushroom
+Zone:7,55-64,0,2004,Mushroom
 Phetchaburi,55-64,0,2004,Mushroom
 Prachuap Khiri Khan,55-64,0,2004,Mushroom
 Samut Sakhon,55-64,0,2004,Mushroom
 Samut Songkhram,55-64,0,2004,Mushroom
-Zone 8,55-64,6,2004,Mushroom
+Zone:8,55-64,6,2004,Mushroom
 Chachoengsao,55-64,5,2004,Mushroom
 Nakhon Nayok,55-64,0,2004,Mushroom
 Prachin Buri,55-64,0,2004,Mushroom
 Sa Kaeo,55-64,1,2004,Mushroom
 Samut Prakan,55-64,0,2004,Mushroom
-Zone 9,55-64,0,2004,Mushroom
+Zone:9,55-64,0,2004,Mushroom
 Chanthaburi,55-64,0,2004,Mushroom
 Chon Buri,55-64,0,2004,Mushroom
 Rayong,55-64,0,2004,Mushroom
 Trat,55-64,0,2004,Mushroom
 North-Eastern Region,55-64,96,2004,Mushroom
-Zone 10,55-64,9,2004,Mushroom
+Zone:10,55-64,9,2004,Mushroom
 Loei,55-64,8,2004,Mushroom
 Nong Bua Lam Phu,55-64,0,2004,Mushroom
 Nong Khai,55-64,0,2004,Mushroom
 Udon Thani,55-64,1,2004,Mushroom
-Zone 11,55-64,11,2004,Mushroom
+Zone:11,55-64,11,2004,Mushroom
 Kalasin,55-64,0,2004,Mushroom
 Mukdahan,55-64,0,2004,Mushroom
 Nakhon Phanom,55-64,6,2004,Mushroom
 Sakon Nakhon,55-64,5,2004,Mushroom
-Zone 12,55-64,9,2004,Mushroom
+Zone:12,55-64,9,2004,Mushroom
 Khon Kaen,55-64,0,2004,Mushroom
 Maha Sarakham,55-64,0,2004,Mushroom
 Roi Et,55-64,9,2004,Mushroom
-Zone 13,55-64,35,2004,Mushroom
+Zone:13,55-64,35,2004,Mushroom
 Buri Ram,55-64,20,2004,Mushroom
 Chaiyaphum,55-64,0,2004,Mushroom
 Nakhon Ratchasima,55-64,3,2004,Mushroom
 Surin,55-64,12,2004,Mushroom
-Zone 14,55-64,32,2004,Mushroom
+Zone:14,55-64,32,2004,Mushroom
 Amnat Charoen,55-64,2,2004,Mushroom
 Si Sa Ket,55-64,5,2004,Mushroom
 Ubon Ratchathani,55-64,24,2004,Mushroom
 Yasothon,55-64,1,2004,Mushroom
 South Region,55-64,3,2004,Mushroom
-Zone 15,55-64,3,2004,Mushroom
+Zone:15,55-64,3,2004,Mushroom
 Chumphon,55-64,0,2004,Mushroom
 Ranong,55-64,0,2004,Mushroom
 Surat Thani,55-64,3,2004,Mushroom
-Zone 16,55-64,0,2004,Mushroom
+Zone:16,55-64,0,2004,Mushroom
 Nakhon Si Thammarat,55-64,0,2004,Mushroom
 Phatthalung,55-64,0,2004,Mushroom
 Trang,55-64,0,2004,Mushroom
-Zone 17,55-64,0,2004,Mushroom
+Zone:17,55-64,0,2004,Mushroom
 Krabi,55-64,0,2004,Mushroom
 Phangnga,55-64,0,2004,Mushroom
 Phuket,55-64,0,2004,Mushroom
-Zone 18,55-64,0,2004,Mushroom
+Zone:18,55-64,0,2004,Mushroom
 Narathiwat,55-64,0,2004,Mushroom
 Pattani,55-64,0,2004,Mushroom
 Yala,55-64,0,2004,Mushroom
-Zone 19,55-64,0,2004,Mushroom
+Zone:19,55-64,0,2004,Mushroom
 Satun,55-64,0,2004,Mushroom
 Songkhla,55-64,0,2004,Mushroom
 Total,65+,157,2004,Mushroom
 North Region,65+,23,2004,Mushroom
-Zone 1,65+,20,2004,Mushroom
+Zone:1,65+,20,2004,Mushroom
 Chiang Mai,65+,2,2004,Mushroom
 Chiang Rai,65+,12,2004,Mushroom
 Lampang,65+,3,2004,Mushroom
@@ -15578,98 +15578,98 @@ Mae Hong Son,65+,0,2004,Mushroom
 Nan,65+,1,2004,Mushroom
 Phayao,65+,2,2004,Mushroom
 Phrae,65+,0,2004,Mushroom
-Zone 2,65+,0,2004,Mushroom
+Zone:2,65+,0,2004,Mushroom
 Phetchabun,65+,0,2004,Mushroom
 Phitsanulok,65+,0,2004,Mushroom
 Sukhothai,65+,0,2004,Mushroom
 Tak,65+,0,2004,Mushroom
 Uttaradit,65+,0,2004,Mushroom
-Zone 3,65+,3,2004,Mushroom
+Zone:3,65+,3,2004,Mushroom
 Kamphaeng Phet,65+,2,2004,Mushroom
 Nakhon Sawan,65+,1,2004,Mushroom
 Phichit,65+,0,2004,Mushroom
 Uthai Thani,65+,0,2004,Mushroom
 Central Region,65+,12,2004,Mushroom
 Bangkok,65+,0,2004,Mushroom
-Zone 4,65+,0,2004,Mushroom
+Zone:4,65+,0,2004,Mushroom
 Ang Thong,65+,0,2004,Mushroom
 Nonthaburi,65+,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,65+,0,2004,Mushroom
 Pathum Thani,65+,0,2004,Mushroom
-Zone 5,65+,0,2004,Mushroom
+Zone:5,65+,0,2004,Mushroom
 Chai Nat,65+,0,2004,Mushroom
 Lop Buri,65+,0,2004,Mushroom
 Saraburi,65+,0,2004,Mushroom
 Sing Buri,65+,0,2004,Mushroom
-Zone 6,65+,4,2004,Mushroom
+Zone:6,65+,4,2004,Mushroom
 Kanchanaburi,65+,1,2004,Mushroom
 Nakhon Pathom,65+,2,2004,Mushroom
 Ratchaburi,65+,0,2004,Mushroom
 Suphan Buri,65+,1,2004,Mushroom
-Zone 7,65+,0,2004,Mushroom
+Zone:7,65+,0,2004,Mushroom
 Phetchaburi,65+,0,2004,Mushroom
 Prachuap Khiri Khan,65+,0,2004,Mushroom
 Samut Sakhon,65+,0,2004,Mushroom
 Samut Songkhram,65+,0,2004,Mushroom
-Zone 8,65+,6,2004,Mushroom
+Zone:8,65+,6,2004,Mushroom
 Chachoengsao,65+,1,2004,Mushroom
 Nakhon Nayok,65+,0,2004,Mushroom
 Prachin Buri,65+,0,2004,Mushroom
 Sa Kaeo,65+,5,2004,Mushroom
 Samut Prakan,65+,0,2004,Mushroom
-Zone 9,65+,2,2004,Mushroom
+Zone:9,65+,2,2004,Mushroom
 Chanthaburi,65+,1,2004,Mushroom
 Chon Buri,65+,0,2004,Mushroom
 Rayong,65+,1,2004,Mushroom
 Trat,65+,0,2004,Mushroom
 North-Eastern Region,65+,118,2004,Mushroom
-Zone 10,65+,21,2004,Mushroom
+Zone:10,65+,21,2004,Mushroom
 Loei,65+,13,2004,Mushroom
 Nong Bua Lam Phu,65+,0,2004,Mushroom
 Nong Khai,65+,6,2004,Mushroom
 Udon Thani,65+,2,2004,Mushroom
-Zone 11,65+,12,2004,Mushroom
+Zone:11,65+,12,2004,Mushroom
 Kalasin,65+,0,2004,Mushroom
 Mukdahan,65+,0,2004,Mushroom
 Nakhon Phanom,65+,3,2004,Mushroom
 Sakon Nakhon,65+,9,2004,Mushroom
-Zone 12,65+,3,2004,Mushroom
+Zone:12,65+,3,2004,Mushroom
 Khon Kaen,65+,0,2004,Mushroom
 Maha Sarakham,65+,0,2004,Mushroom
 Roi Et,65+,3,2004,Mushroom
-Zone 13,65+,35,2004,Mushroom
+Zone:13,65+,35,2004,Mushroom
 Buri Ram,65+,18,2004,Mushroom
 Chaiyaphum,65+,0,2004,Mushroom
 Nakhon Ratchasima,65+,1,2004,Mushroom
 Surin,65+,16,2004,Mushroom
-Zone 14,65+,47,2004,Mushroom
+Zone:14,65+,47,2004,Mushroom
 Amnat Charoen,65+,5,2004,Mushroom
 Si Sa Ket,65+,7,2004,Mushroom
 Ubon Ratchathani,65+,33,2004,Mushroom
 Yasothon,65+,2,2004,Mushroom
 South Region,65+,4,2004,Mushroom
-Zone 15,65+,3,2004,Mushroom
+Zone:15,65+,3,2004,Mushroom
 Chumphon,65+,1,2004,Mushroom
 Ranong,65+,0,2004,Mushroom
 Surat Thani,65+,2,2004,Mushroom
-Zone 16,65+,0,2004,Mushroom
+Zone:16,65+,0,2004,Mushroom
 Nakhon Si Thammarat,65+,0,2004,Mushroom
 Phatthalung,65+,0,2004,Mushroom
 Trang,65+,0,2004,Mushroom
-Zone 17,65+,0,2004,Mushroom
+Zone:17,65+,0,2004,Mushroom
 Krabi,65+,0,2004,Mushroom
 Phangnga,65+,0,2004,Mushroom
 Phuket,65+,0,2004,Mushroom
-Zone 18,65+,0,2004,Mushroom
+Zone:18,65+,0,2004,Mushroom
 Narathiwat,65+,0,2004,Mushroom
 Pattani,65+,0,2004,Mushroom
 Yala,65+,0,2004,Mushroom
-Zone 19,65+,1,2004,Mushroom
+Zone:19,65+,1,2004,Mushroom
 Satun,65+,0,2004,Mushroom
 Songkhla,65+,1,2004,Mushroom
 Total,Unknown,0,2004,Mushroom
 North Region,Unknown,0,2004,Mushroom
-Zone 1,Unknown,0,2004,Mushroom
+Zone:1,Unknown,0,2004,Mushroom
 Chiang Mai,Unknown,0,2004,Mushroom
 Chiang Rai,Unknown,0,2004,Mushroom
 Lampang,Unknown,0,2004,Mushroom
@@ -15678,93 +15678,93 @@ Mae Hong Son,Unknown,0,2004,Mushroom
 Nan,Unknown,0,2004,Mushroom
 Phayao,Unknown,0,2004,Mushroom
 Phrae,Unknown,0,2004,Mushroom
-Zone 2,Unknown,0,2004,Mushroom
+Zone:2,Unknown,0,2004,Mushroom
 Phetchabun,Unknown,0,2004,Mushroom
 Phitsanulok,Unknown,0,2004,Mushroom
 Sukhothai,Unknown,0,2004,Mushroom
 Tak,Unknown,0,2004,Mushroom
 Uttaradit,Unknown,0,2004,Mushroom
-Zone 3,Unknown,0,2004,Mushroom
+Zone:3,Unknown,0,2004,Mushroom
 Kamphaeng Phet,Unknown,0,2004,Mushroom
 Nakhon Sawan,Unknown,0,2004,Mushroom
 Phichit,Unknown,0,2004,Mushroom
 Uthai Thani,Unknown,0,2004,Mushroom
 Central Region,Unknown,0,2004,Mushroom
 Bangkok,Unknown,0,2004,Mushroom
-Zone 4,Unknown,0,2004,Mushroom
+Zone:4,Unknown,0,2004,Mushroom
 Ang Thong,Unknown,0,2004,Mushroom
 Nonthaburi,Unknown,0,2004,Mushroom
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Mushroom
 Pathum Thani,Unknown,0,2004,Mushroom
-Zone 5,Unknown,0,2004,Mushroom
+Zone:5,Unknown,0,2004,Mushroom
 Chai Nat,Unknown,0,2004,Mushroom
 Lop Buri,Unknown,0,2004,Mushroom
 Saraburi,Unknown,0,2004,Mushroom
 Sing Buri,Unknown,0,2004,Mushroom
-Zone 6,Unknown,0,2004,Mushroom
+Zone:6,Unknown,0,2004,Mushroom
 Kanchanaburi,Unknown,0,2004,Mushroom
 Nakhon Pathom,Unknown,0,2004,Mushroom
 Ratchaburi,Unknown,0,2004,Mushroom
 Suphan Buri,Unknown,0,2004,Mushroom
-Zone 7,Unknown,0,2004,Mushroom
+Zone:7,Unknown,0,2004,Mushroom
 Phetchaburi,Unknown,0,2004,Mushroom
 Prachuap Khiri Khan,Unknown,0,2004,Mushroom
 Samut Sakhon,Unknown,0,2004,Mushroom
 Samut Songkhram,Unknown,0,2004,Mushroom
-Zone 8,Unknown,0,2004,Mushroom
+Zone:8,Unknown,0,2004,Mushroom
 Chachoengsao,Unknown,0,2004,Mushroom
 Nakhon Nayok,Unknown,0,2004,Mushroom
 Prachin Buri,Unknown,0,2004,Mushroom
 Sa Kaeo,Unknown,0,2004,Mushroom
 Samut Prakan,Unknown,0,2004,Mushroom
-Zone 9,Unknown,0,2004,Mushroom
+Zone:9,Unknown,0,2004,Mushroom
 Chanthaburi,Unknown,0,2004,Mushroom
 Chon Buri,Unknown,0,2004,Mushroom
 Rayong,Unknown,0,2004,Mushroom
 Trat,Unknown,0,2004,Mushroom
 North-Eastern Region,Unknown,0,2004,Mushroom
-Zone 10,Unknown,0,2004,Mushroom
+Zone:10,Unknown,0,2004,Mushroom
 Loei,Unknown,0,2004,Mushroom
 Nong Bua Lam Phu,Unknown,0,2004,Mushroom
 Nong Khai,Unknown,0,2004,Mushroom
 Udon Thani,Unknown,0,2004,Mushroom
-Zone 11,Unknown,0,2004,Mushroom
+Zone:11,Unknown,0,2004,Mushroom
 Kalasin,Unknown,0,2004,Mushroom
 Mukdahan,Unknown,0,2004,Mushroom
 Nakhon Phanom,Unknown,0,2004,Mushroom
 Sakon Nakhon,Unknown,0,2004,Mushroom
-Zone 12,Unknown,0,2004,Mushroom
+Zone:12,Unknown,0,2004,Mushroom
 Khon Kaen,Unknown,0,2004,Mushroom
 Maha Sarakham,Unknown,0,2004,Mushroom
 Roi Et,Unknown,0,2004,Mushroom
-Zone 13,Unknown,0,2004,Mushroom
+Zone:13,Unknown,0,2004,Mushroom
 Buri Ram,Unknown,0,2004,Mushroom
 Chaiyaphum,Unknown,0,2004,Mushroom
 Nakhon Ratchasima,Unknown,0,2004,Mushroom
 Surin,Unknown,0,2004,Mushroom
-Zone 14,Unknown,0,2004,Mushroom
+Zone:14,Unknown,0,2004,Mushroom
 Amnat Charoen,Unknown,0,2004,Mushroom
 Si Sa Ket,Unknown,0,2004,Mushroom
 Ubon Ratchathani,Unknown,0,2004,Mushroom
 Yasothon,Unknown,0,2004,Mushroom
 South Region,Unknown,0,2004,Mushroom
-Zone 15,Unknown,0,2004,Mushroom
+Zone:15,Unknown,0,2004,Mushroom
 Chumphon,Unknown,0,2004,Mushroom
 Ranong,Unknown,0,2004,Mushroom
 Surat Thani,Unknown,0,2004,Mushroom
-Zone 16,Unknown,0,2004,Mushroom
+Zone:16,Unknown,0,2004,Mushroom
 Nakhon Si Thammarat,Unknown,0,2004,Mushroom
 Phatthalung,Unknown,0,2004,Mushroom
 Trang,Unknown,0,2004,Mushroom
-Zone 17,Unknown,0,2004,Mushroom
+Zone:17,Unknown,0,2004,Mushroom
 Krabi,Unknown,0,2004,Mushroom
 Phangnga,Unknown,0,2004,Mushroom
 Phuket,Unknown,0,2004,Mushroom
-Zone 18,Unknown,0,2004,Mushroom
+Zone:18,Unknown,0,2004,Mushroom
 Narathiwat,Unknown,0,2004,Mushroom
 Pattani,Unknown,0,2004,Mushroom
 Yala,Unknown,0,2004,Mushroom
-Zone 19,Unknown,0,2004,Mushroom
+Zone:19,Unknown,0,2004,Mushroom
 Satun,Unknown,0,2004,Mushroom
 Songkhla,Unknown,0,2004,Mushroom
 Total,Total,1316,2015,Mushroom
@@ -19045,7 +19045,7 @@ ZONE:13,Unknown,0,2022,Mushroom
 Bangkok,Unknown,0,2022,Mushroom
 Total,Total,1558,2003,Mushroom
 North Region,Total,255,2003,Mushroom
-Zone 1,Total,232,2003,Mushroom
+Zone:1,Total,232,2003,Mushroom
 Chiang Mai,Total,27,2003,Mushroom
 Chiang Rai,Total,96,2003,Mushroom
 Lampang,Total,48,2003,Mushroom
@@ -19054,98 +19054,98 @@ Mae Hong Son,Total,6,2003,Mushroom
 Nan,Total,12,2003,Mushroom
 Phayao,Total,5,2003,Mushroom
 Phrae,Total,0,2003,Mushroom
-Zone 2,Total,13,2003,Mushroom
+Zone:2,Total,13,2003,Mushroom
 Phetchabun,Total,0,2003,Mushroom
 Phitsanulok,Total,10,2003,Mushroom
 Sukhothai,Total,0,2003,Mushroom
 Tak,Total,3,2003,Mushroom
 Uttaradit,Total,0,2003,Mushroom
-Zone 3,Total,10,2003,Mushroom
+Zone:3,Total,10,2003,Mushroom
 Kamphaeng Phet,Total,8,2003,Mushroom
 Nakhon Sawan,Total,2,2003,Mushroom
 Phichit,Total,0,2003,Mushroom
 Uthai Thani,Total,0,2003,Mushroom
 Central Region,Total,98,2003,Mushroom
 Bangkok,Total,0,2003,Mushroom
-Zone 4,Total,0,2003,Mushroom
+Zone:4,Total,0,2003,Mushroom
 Ang Thong,Total,0,2003,Mushroom
 Nonthaburi,Total,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,Total,0,2003,Mushroom
 Pathum Thani,Total,0,2003,Mushroom
-Zone 5,Total,14,2003,Mushroom
+Zone:5,Total,14,2003,Mushroom
 Chai Nat,Total,0,2003,Mushroom
 Lop Buri,Total,0,2003,Mushroom
 Saraburi,Total,14,2003,Mushroom
 Sing Buri,Total,0,2003,Mushroom
-Zone 6,Total,31,2003,Mushroom
+Zone:6,Total,31,2003,Mushroom
 Kanchanaburi,Total,5,2003,Mushroom
 Nakhon Pathom,Total,14,2003,Mushroom
 Ratchaburi,Total,2,2003,Mushroom
 Suphan Buri,Total,10,2003,Mushroom
-Zone 7,Total,7,2003,Mushroom
+Zone:7,Total,7,2003,Mushroom
 Phetchaburi,Total,3,2003,Mushroom
 Prachuap Khiri Khan,Total,4,2003,Mushroom
 Samut Sakhon,Total,0,2003,Mushroom
 Samut Songkhram,Total,0,2003,Mushroom
-Zone 8,Total,16,2003,Mushroom
+Zone:8,Total,16,2003,Mushroom
 Chachoengsao,Total,1,2003,Mushroom
 Nakhon Nayok,Total,0,2003,Mushroom
 Prachin Buri,Total,7,2003,Mushroom
 Sa Kaeo,Total,7,2003,Mushroom
 Samut Prakan,Total,1,2003,Mushroom
-Zone 9,Total,30,2003,Mushroom
+Zone:9,Total,30,2003,Mushroom
 Chanthaburi,Total,10,2003,Mushroom
 Chon Buri,Total,1,2003,Mushroom
 Rayong,Total,18,2003,Mushroom
 Trat,Total,1,2003,Mushroom
 North-Eastern Region,Total,1160,2003,Mushroom
-Zone 10,Total,118,2003,Mushroom
+Zone:10,Total,118,2003,Mushroom
 Loei,Total,86,2003,Mushroom
 Nong Bua Lam Phu,Total,3,2003,Mushroom
 Nong Khai,Total,0,2003,Mushroom
 Udon Thani,Total,29,2003,Mushroom
-Zone 11,Total,61,2003,Mushroom
+Zone:11,Total,61,2003,Mushroom
 Kalasin,Total,0,2003,Mushroom
 Mukdahan,Total,6,2003,Mushroom
 Nakhon Phanom,Total,9,2003,Mushroom
 Sakon Nakhon,Total,46,2003,Mushroom
-Zone 12,Total,49,2003,Mushroom
+Zone:12,Total,49,2003,Mushroom
 Khon Kaen,Total,11,2003,Mushroom
 Maha Sarakham,Total,1,2003,Mushroom
 Roi Et,Total,37,2003,Mushroom
-Zone 13,Total,620,2003,Mushroom
+Zone:13,Total,620,2003,Mushroom
 Buri Ram,Total,320,2003,Mushroom
 Chaiyaphum,Total,6,2003,Mushroom
 Nakhon Ratchasima,Total,38,2003,Mushroom
 Surin,Total,256,2003,Mushroom
-Zone 14,Total,312,2003,Mushroom
+Zone:14,Total,312,2003,Mushroom
 Amnat Charoen,Total,21,2003,Mushroom
 Si Sa Ket,Total,29,2003,Mushroom
 Ubon Ratchathani,Total,260,2003,Mushroom
 Yasothon,Total,2,2003,Mushroom
 South Region,Total,45,2003,Mushroom
-Zone 15,Total,18,2003,Mushroom
+Zone:15,Total,18,2003,Mushroom
 Chumphon,Total,0,2003,Mushroom
 Ranong,Total,1,2003,Mushroom
 Surat Thani,Total,17,2003,Mushroom
-Zone 16,Total,20,2003,Mushroom
+Zone:16,Total,20,2003,Mushroom
 Nakhon Si Thammarat,Total,1,2003,Mushroom
 Phatthalung,Total,0,2003,Mushroom
 Trang,Total,19,2003,Mushroom
-Zone 17,Total,5,2003,Mushroom
+Zone:17,Total,5,2003,Mushroom
 Krabi,Total,5,2003,Mushroom
 Phangnga,Total,0,2003,Mushroom
 Phuket,Total,0,2003,Mushroom
-Zone 18,Total,1,2003,Mushroom
+Zone:18,Total,1,2003,Mushroom
 Narathiwat,Total,0,2003,Mushroom
 Pattani,Total,0,2003,Mushroom
 Yala,Total,1,2003,Mushroom
-Zone 19,Total,1,2003,Mushroom
+Zone:19,Total,1,2003,Mushroom
 Satun,Total,0,2003,Mushroom
 Songkhla,Total,1,2003,Mushroom
 Total,0,0,2003,Mushroom
 North Region,0,0,2003,Mushroom
-Zone 1,0,0,2003,Mushroom
+Zone:1,0,0,2003,Mushroom
 Chiang Mai,0,0,2003,Mushroom
 Chiang Rai,0,0,2003,Mushroom
 Lampang,0,0,2003,Mushroom
@@ -19154,98 +19154,98 @@ Mae Hong Son,0,0,2003,Mushroom
 Nan,0,0,2003,Mushroom
 Phayao,0,0,2003,Mushroom
 Phrae,0,0,2003,Mushroom
-Zone 2,0,0,2003,Mushroom
+Zone:2,0,0,2003,Mushroom
 Phetchabun,0,0,2003,Mushroom
 Phitsanulok,0,0,2003,Mushroom
 Sukhothai,0,0,2003,Mushroom
 Tak,0,0,2003,Mushroom
 Uttaradit,0,0,2003,Mushroom
-Zone 3,0,0,2003,Mushroom
+Zone:3,0,0,2003,Mushroom
 Kamphaeng Phet,0,0,2003,Mushroom
 Nakhon Sawan,0,0,2003,Mushroom
 Phichit,0,0,2003,Mushroom
 Uthai Thani,0,0,2003,Mushroom
 Central Region,0,0,2003,Mushroom
 Bangkok,0,0,2003,Mushroom
-Zone 4,0,0,2003,Mushroom
+Zone:4,0,0,2003,Mushroom
 Ang Thong,0,0,2003,Mushroom
 Nonthaburi,0,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,0,0,2003,Mushroom
 Pathum Thani,0,0,2003,Mushroom
-Zone 5,0,0,2003,Mushroom
+Zone:5,0,0,2003,Mushroom
 Chai Nat,0,0,2003,Mushroom
 Lop Buri,0,0,2003,Mushroom
 Saraburi,0,0,2003,Mushroom
 Sing Buri,0,0,2003,Mushroom
-Zone 6,0,0,2003,Mushroom
+Zone:6,0,0,2003,Mushroom
 Kanchanaburi,0,0,2003,Mushroom
 Nakhon Pathom,0,0,2003,Mushroom
 Ratchaburi,0,0,2003,Mushroom
 Suphan Buri,0,0,2003,Mushroom
-Zone 7,0,0,2003,Mushroom
+Zone:7,0,0,2003,Mushroom
 Phetchaburi,0,0,2003,Mushroom
 Prachuap Khiri Khan,0,0,2003,Mushroom
 Samut Sakhon,0,0,2003,Mushroom
 Samut Songkhram,0,0,2003,Mushroom
-Zone 8,0,0,2003,Mushroom
+Zone:8,0,0,2003,Mushroom
 Chachoengsao,0,0,2003,Mushroom
 Nakhon Nayok,0,0,2003,Mushroom
 Prachin Buri,0,0,2003,Mushroom
 Sa Kaeo,0,0,2003,Mushroom
 Samut Prakan,0,0,2003,Mushroom
-Zone 9,0,0,2003,Mushroom
+Zone:9,0,0,2003,Mushroom
 Chanthaburi,0,0,2003,Mushroom
 Chon Buri,0,0,2003,Mushroom
 Rayong,0,0,2003,Mushroom
 Trat,0,0,2003,Mushroom
 North-Eastern Region,0,0,2003,Mushroom
-Zone 10,0,0,2003,Mushroom
+Zone:10,0,0,2003,Mushroom
 Loei,0,0,2003,Mushroom
 Nong Bua Lam Phu,0,0,2003,Mushroom
 Nong Khai,0,0,2003,Mushroom
 Udon Thani,0,0,2003,Mushroom
-Zone 11,0,0,2003,Mushroom
+Zone:11,0,0,2003,Mushroom
 Kalasin,0,0,2003,Mushroom
 Mukdahan,0,0,2003,Mushroom
 Nakhon Phanom,0,0,2003,Mushroom
 Sakon Nakhon,0,0,2003,Mushroom
-Zone 12,0,0,2003,Mushroom
+Zone:12,0,0,2003,Mushroom
 Khon Kaen,0,0,2003,Mushroom
 Maha Sarakham,0,0,2003,Mushroom
 Roi Et,0,0,2003,Mushroom
-Zone 13,0,0,2003,Mushroom
+Zone:13,0,0,2003,Mushroom
 Buri Ram,0,0,2003,Mushroom
 Chaiyaphum,0,0,2003,Mushroom
 Nakhon Ratchasima,0,0,2003,Mushroom
 Surin,0,0,2003,Mushroom
-Zone 14,0,0,2003,Mushroom
+Zone:14,0,0,2003,Mushroom
 Amnat Charoen,0,0,2003,Mushroom
 Si Sa Ket,0,0,2003,Mushroom
 Ubon Ratchathani,0,0,2003,Mushroom
 Yasothon,0,0,2003,Mushroom
 South Region,0,0,2003,Mushroom
-Zone 15,0,0,2003,Mushroom
+Zone:15,0,0,2003,Mushroom
 Chumphon,0,0,2003,Mushroom
 Ranong,0,0,2003,Mushroom
 Surat Thani,0,0,2003,Mushroom
-Zone 16,0,0,2003,Mushroom
+Zone:16,0,0,2003,Mushroom
 Nakhon Si Thammarat,0,0,2003,Mushroom
 Phatthalung,0,0,2003,Mushroom
 Trang,0,0,2003,Mushroom
-Zone 17,0,0,2003,Mushroom
+Zone:17,0,0,2003,Mushroom
 Krabi,0,0,2003,Mushroom
 Phangnga,0,0,2003,Mushroom
 Phuket,0,0,2003,Mushroom
-Zone 18,0,0,2003,Mushroom
+Zone:18,0,0,2003,Mushroom
 Narathiwat,0,0,2003,Mushroom
 Pattani,0,0,2003,Mushroom
 Yala,0,0,2003,Mushroom
-Zone 19,0,0,2003,Mushroom
+Zone:19,0,0,2003,Mushroom
 Satun,0,0,2003,Mushroom
 Songkhla,0,0,2003,Mushroom
 Total,<1,4,2003,Mushroom
 North Region,<1,0,2003,Mushroom
-Zone 1,<1,0,2003,Mushroom
+Zone:1,<1,0,2003,Mushroom
 Chiang Mai,<1,0,2003,Mushroom
 Chiang Rai,<1,0,2003,Mushroom
 Lampang,<1,0,2003,Mushroom
@@ -19254,98 +19254,98 @@ Mae Hong Son,<1,0,2003,Mushroom
 Nan,<1,0,2003,Mushroom
 Phayao,<1,0,2003,Mushroom
 Phrae,<1,0,2003,Mushroom
-Zone 2,<1,0,2003,Mushroom
+Zone:2,<1,0,2003,Mushroom
 Phetchabun,<1,0,2003,Mushroom
 Phitsanulok,<1,0,2003,Mushroom
 Sukhothai,<1,0,2003,Mushroom
 Tak,<1,0,2003,Mushroom
 Uttaradit,<1,0,2003,Mushroom
-Zone 3,<1,0,2003,Mushroom
+Zone:3,<1,0,2003,Mushroom
 Kamphaeng Phet,<1,0,2003,Mushroom
 Nakhon Sawan,<1,0,2003,Mushroom
 Phichit,<1,0,2003,Mushroom
 Uthai Thani,<1,0,2003,Mushroom
 Central Region,<1,1,2003,Mushroom
 Bangkok,<1,0,2003,Mushroom
-Zone 4,<1,0,2003,Mushroom
+Zone:4,<1,0,2003,Mushroom
 Ang Thong,<1,0,2003,Mushroom
 Nonthaburi,<1,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,<1,0,2003,Mushroom
 Pathum Thani,<1,0,2003,Mushroom
-Zone 5,<1,0,2003,Mushroom
+Zone:5,<1,0,2003,Mushroom
 Chai Nat,<1,0,2003,Mushroom
 Lop Buri,<1,0,2003,Mushroom
 Saraburi,<1,0,2003,Mushroom
 Sing Buri,<1,0,2003,Mushroom
-Zone 6,<1,1,2003,Mushroom
+Zone:6,<1,1,2003,Mushroom
 Kanchanaburi,<1,0,2003,Mushroom
 Nakhon Pathom,<1,1,2003,Mushroom
 Ratchaburi,<1,0,2003,Mushroom
 Suphan Buri,<1,0,2003,Mushroom
-Zone 7,<1,0,2003,Mushroom
+Zone:7,<1,0,2003,Mushroom
 Phetchaburi,<1,0,2003,Mushroom
 Prachuap Khiri Khan,<1,0,2003,Mushroom
 Samut Sakhon,<1,0,2003,Mushroom
 Samut Songkhram,<1,0,2003,Mushroom
-Zone 8,<1,0,2003,Mushroom
+Zone:8,<1,0,2003,Mushroom
 Chachoengsao,<1,0,2003,Mushroom
 Nakhon Nayok,<1,0,2003,Mushroom
 Prachin Buri,<1,0,2003,Mushroom
 Sa Kaeo,<1,0,2003,Mushroom
 Samut Prakan,<1,0,2003,Mushroom
-Zone 9,<1,0,2003,Mushroom
+Zone:9,<1,0,2003,Mushroom
 Chanthaburi,<1,0,2003,Mushroom
 Chon Buri,<1,0,2003,Mushroom
 Rayong,<1,0,2003,Mushroom
 Trat,<1,0,2003,Mushroom
 North-Eastern Region,<1,3,2003,Mushroom
-Zone 10,<1,1,2003,Mushroom
+Zone:10,<1,1,2003,Mushroom
 Loei,<1,1,2003,Mushroom
 Nong Bua Lam Phu,<1,0,2003,Mushroom
 Nong Khai,<1,0,2003,Mushroom
 Udon Thani,<1,0,2003,Mushroom
-Zone 11,<1,0,2003,Mushroom
+Zone:11,<1,0,2003,Mushroom
 Kalasin,<1,0,2003,Mushroom
 Mukdahan,<1,0,2003,Mushroom
 Nakhon Phanom,<1,0,2003,Mushroom
 Sakon Nakhon,<1,0,2003,Mushroom
-Zone 12,<1,1,2003,Mushroom
+Zone:12,<1,1,2003,Mushroom
 Khon Kaen,<1,0,2003,Mushroom
 Maha Sarakham,<1,1,2003,Mushroom
 Roi Et,<1,0,2003,Mushroom
-Zone 13,<1,1,2003,Mushroom
+Zone:13,<1,1,2003,Mushroom
 Buri Ram,<1,1,2003,Mushroom
 Chaiyaphum,<1,0,2003,Mushroom
 Nakhon Ratchasima,<1,0,2003,Mushroom
 Surin,<1,0,2003,Mushroom
-Zone 14,<1,0,2003,Mushroom
+Zone:14,<1,0,2003,Mushroom
 Amnat Charoen,<1,0,2003,Mushroom
 Si Sa Ket,<1,0,2003,Mushroom
 Ubon Ratchathani,<1,0,2003,Mushroom
 Yasothon,<1,0,2003,Mushroom
 South Region,<1,0,2003,Mushroom
-Zone 15,<1,0,2003,Mushroom
+Zone:15,<1,0,2003,Mushroom
 Chumphon,<1,0,2003,Mushroom
 Ranong,<1,0,2003,Mushroom
 Surat Thani,<1,0,2003,Mushroom
-Zone 16,<1,0,2003,Mushroom
+Zone:16,<1,0,2003,Mushroom
 Nakhon Si Thammarat,<1,0,2003,Mushroom
 Phatthalung,<1,0,2003,Mushroom
 Trang,<1,0,2003,Mushroom
-Zone 17,<1,0,2003,Mushroom
+Zone:17,<1,0,2003,Mushroom
 Krabi,<1,0,2003,Mushroom
 Phangnga,<1,0,2003,Mushroom
 Phuket,<1,0,2003,Mushroom
-Zone 18,<1,0,2003,Mushroom
+Zone:18,<1,0,2003,Mushroom
 Narathiwat,<1,0,2003,Mushroom
 Pattani,<1,0,2003,Mushroom
 Yala,<1,0,2003,Mushroom
-Zone 19,<1,0,2003,Mushroom
+Zone:19,<1,0,2003,Mushroom
 Satun,<1,0,2003,Mushroom
 Songkhla,<1,0,2003,Mushroom
 Total,1-1,22,2003,Mushroom
 North Region,1-1,2,2003,Mushroom
-Zone 1,1-1,2,2003,Mushroom
+Zone:1,1-1,2,2003,Mushroom
 Chiang Mai,1-1,0,2003,Mushroom
 Chiang Rai,1-1,0,2003,Mushroom
 Lampang,1-1,1,2003,Mushroom
@@ -19354,98 +19354,98 @@ Mae Hong Son,1-1,0,2003,Mushroom
 Nan,1-1,1,2003,Mushroom
 Phayao,1-1,0,2003,Mushroom
 Phrae,1-1,0,2003,Mushroom
-Zone 2,1-1,0,2003,Mushroom
+Zone:2,1-1,0,2003,Mushroom
 Phetchabun,1-1,0,2003,Mushroom
 Phitsanulok,1-1,0,2003,Mushroom
 Sukhothai,1-1,0,2003,Mushroom
 Tak,1-1,0,2003,Mushroom
 Uttaradit,1-1,0,2003,Mushroom
-Zone 3,1-1,0,2003,Mushroom
+Zone:3,1-1,0,2003,Mushroom
 Kamphaeng Phet,1-1,0,2003,Mushroom
 Nakhon Sawan,1-1,0,2003,Mushroom
 Phichit,1-1,0,2003,Mushroom
 Uthai Thani,1-1,0,2003,Mushroom
 Central Region,1-1,2,2003,Mushroom
 Bangkok,1-1,0,2003,Mushroom
-Zone 4,1-1,0,2003,Mushroom
+Zone:4,1-1,0,2003,Mushroom
 Ang Thong,1-1,0,2003,Mushroom
 Nonthaburi,1-1,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,1-1,0,2003,Mushroom
 Pathum Thani,1-1,0,2003,Mushroom
-Zone 5,1-1,0,2003,Mushroom
+Zone:5,1-1,0,2003,Mushroom
 Chai Nat,1-1,0,2003,Mushroom
 Lop Buri,1-1,0,2003,Mushroom
 Saraburi,1-1,0,2003,Mushroom
 Sing Buri,1-1,0,2003,Mushroom
-Zone 6,1-1,2,2003,Mushroom
+Zone:6,1-1,2,2003,Mushroom
 Kanchanaburi,1-1,0,2003,Mushroom
 Nakhon Pathom,1-1,2,2003,Mushroom
 Ratchaburi,1-1,0,2003,Mushroom
 Suphan Buri,1-1,0,2003,Mushroom
-Zone 7,1-1,0,2003,Mushroom
+Zone:7,1-1,0,2003,Mushroom
 Phetchaburi,1-1,0,2003,Mushroom
 Prachuap Khiri Khan,1-1,0,2003,Mushroom
 Samut Sakhon,1-1,0,2003,Mushroom
 Samut Songkhram,1-1,0,2003,Mushroom
-Zone 8,1-1,0,2003,Mushroom
+Zone:8,1-1,0,2003,Mushroom
 Chachoengsao,1-1,0,2003,Mushroom
 Nakhon Nayok,1-1,0,2003,Mushroom
 Prachin Buri,1-1,0,2003,Mushroom
 Sa Kaeo,1-1,0,2003,Mushroom
 Samut Prakan,1-1,0,2003,Mushroom
-Zone 9,1-1,0,2003,Mushroom
+Zone:9,1-1,0,2003,Mushroom
 Chanthaburi,1-1,0,2003,Mushroom
 Chon Buri,1-1,0,2003,Mushroom
 Rayong,1-1,0,2003,Mushroom
 Trat,1-1,0,2003,Mushroom
 North-Eastern Region,1-1,17,2003,Mushroom
-Zone 10,1-1,0,2003,Mushroom
+Zone:10,1-1,0,2003,Mushroom
 Loei,1-1,0,2003,Mushroom
 Nong Bua Lam Phu,1-1,0,2003,Mushroom
 Nong Khai,1-1,0,2003,Mushroom
 Udon Thani,1-1,0,2003,Mushroom
-Zone 11,1-1,0,2003,Mushroom
+Zone:11,1-1,0,2003,Mushroom
 Kalasin,1-1,0,2003,Mushroom
 Mukdahan,1-1,0,2003,Mushroom
 Nakhon Phanom,1-1,0,2003,Mushroom
 Sakon Nakhon,1-1,0,2003,Mushroom
-Zone 12,1-1,0,2003,Mushroom
+Zone:12,1-1,0,2003,Mushroom
 Khon Kaen,1-1,0,2003,Mushroom
 Maha Sarakham,1-1,0,2003,Mushroom
 Roi Et,1-1,0,2003,Mushroom
-Zone 13,1-1,13,2003,Mushroom
+Zone:13,1-1,13,2003,Mushroom
 Buri Ram,1-1,5,2003,Mushroom
 Chaiyaphum,1-1,0,2003,Mushroom
 Nakhon Ratchasima,1-1,0,2003,Mushroom
 Surin,1-1,8,2003,Mushroom
-Zone 14,1-1,4,2003,Mushroom
+Zone:14,1-1,4,2003,Mushroom
 Amnat Charoen,1-1,0,2003,Mushroom
 Si Sa Ket,1-1,0,2003,Mushroom
 Ubon Ratchathani,1-1,4,2003,Mushroom
 Yasothon,1-1,0,2003,Mushroom
 South Region,1-1,1,2003,Mushroom
-Zone 15,1-1,1,2003,Mushroom
+Zone:15,1-1,1,2003,Mushroom
 Chumphon,1-1,0,2003,Mushroom
 Ranong,1-1,0,2003,Mushroom
 Surat Thani,1-1,1,2003,Mushroom
-Zone 16,1-1,0,2003,Mushroom
+Zone:16,1-1,0,2003,Mushroom
 Nakhon Si Thammarat,1-1,0,2003,Mushroom
 Phatthalung,1-1,0,2003,Mushroom
 Trang,1-1,0,2003,Mushroom
-Zone 17,1-1,0,2003,Mushroom
+Zone:17,1-1,0,2003,Mushroom
 Krabi,1-1,0,2003,Mushroom
 Phangnga,1-1,0,2003,Mushroom
 Phuket,1-1,0,2003,Mushroom
-Zone 18,1-1,0,2003,Mushroom
+Zone:18,1-1,0,2003,Mushroom
 Narathiwat,1-1,0,2003,Mushroom
 Pattani,1-1,0,2003,Mushroom
 Yala,1-1,0,2003,Mushroom
-Zone 19,1-1,0,2003,Mushroom
+Zone:19,1-1,0,2003,Mushroom
 Satun,1-1,0,2003,Mushroom
 Songkhla,1-1,0,2003,Mushroom
 Total,2-2,30,2003,Mushroom
 North Region,2-2,1,2003,Mushroom
-Zone 1,2-2,1,2003,Mushroom
+Zone:1,2-2,1,2003,Mushroom
 Chiang Mai,2-2,1,2003,Mushroom
 Chiang Rai,2-2,0,2003,Mushroom
 Lampang,2-2,0,2003,Mushroom
@@ -19454,98 +19454,98 @@ Mae Hong Son,2-2,0,2003,Mushroom
 Nan,2-2,0,2003,Mushroom
 Phayao,2-2,0,2003,Mushroom
 Phrae,2-2,0,2003,Mushroom
-Zone 2,2-2,0,2003,Mushroom
+Zone:2,2-2,0,2003,Mushroom
 Phetchabun,2-2,0,2003,Mushroom
 Phitsanulok,2-2,0,2003,Mushroom
 Sukhothai,2-2,0,2003,Mushroom
 Tak,2-2,0,2003,Mushroom
 Uttaradit,2-2,0,2003,Mushroom
-Zone 3,2-2,0,2003,Mushroom
+Zone:3,2-2,0,2003,Mushroom
 Kamphaeng Phet,2-2,0,2003,Mushroom
 Nakhon Sawan,2-2,0,2003,Mushroom
 Phichit,2-2,0,2003,Mushroom
 Uthai Thani,2-2,0,2003,Mushroom
 Central Region,2-2,5,2003,Mushroom
 Bangkok,2-2,0,2003,Mushroom
-Zone 4,2-2,0,2003,Mushroom
+Zone:4,2-2,0,2003,Mushroom
 Ang Thong,2-2,0,2003,Mushroom
 Nonthaburi,2-2,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,2-2,0,2003,Mushroom
 Pathum Thani,2-2,0,2003,Mushroom
-Zone 5,2-2,0,2003,Mushroom
+Zone:5,2-2,0,2003,Mushroom
 Chai Nat,2-2,0,2003,Mushroom
 Lop Buri,2-2,0,2003,Mushroom
 Saraburi,2-2,0,2003,Mushroom
 Sing Buri,2-2,0,2003,Mushroom
-Zone 6,2-2,4,2003,Mushroom
+Zone:6,2-2,4,2003,Mushroom
 Kanchanaburi,2-2,1,2003,Mushroom
 Nakhon Pathom,2-2,2,2003,Mushroom
 Ratchaburi,2-2,0,2003,Mushroom
 Suphan Buri,2-2,1,2003,Mushroom
-Zone 7,2-2,0,2003,Mushroom
+Zone:7,2-2,0,2003,Mushroom
 Phetchaburi,2-2,0,2003,Mushroom
 Prachuap Khiri Khan,2-2,0,2003,Mushroom
 Samut Sakhon,2-2,0,2003,Mushroom
 Samut Songkhram,2-2,0,2003,Mushroom
-Zone 8,2-2,1,2003,Mushroom
+Zone:8,2-2,1,2003,Mushroom
 Chachoengsao,2-2,0,2003,Mushroom
 Nakhon Nayok,2-2,0,2003,Mushroom
 Prachin Buri,2-2,0,2003,Mushroom
 Sa Kaeo,2-2,0,2003,Mushroom
 Samut Prakan,2-2,1,2003,Mushroom
-Zone 9,2-2,0,2003,Mushroom
+Zone:9,2-2,0,2003,Mushroom
 Chanthaburi,2-2,0,2003,Mushroom
 Chon Buri,2-2,0,2003,Mushroom
 Rayong,2-2,0,2003,Mushroom
 Trat,2-2,0,2003,Mushroom
 North-Eastern Region,2-2,21,2003,Mushroom
-Zone 10,2-2,2,2003,Mushroom
+Zone:10,2-2,2,2003,Mushroom
 Loei,2-2,0,2003,Mushroom
 Nong Bua Lam Phu,2-2,1,2003,Mushroom
 Nong Khai,2-2,0,2003,Mushroom
 Udon Thani,2-2,1,2003,Mushroom
-Zone 11,2-2,0,2003,Mushroom
+Zone:11,2-2,0,2003,Mushroom
 Kalasin,2-2,0,2003,Mushroom
 Mukdahan,2-2,0,2003,Mushroom
 Nakhon Phanom,2-2,0,2003,Mushroom
 Sakon Nakhon,2-2,0,2003,Mushroom
-Zone 12,2-2,0,2003,Mushroom
+Zone:12,2-2,0,2003,Mushroom
 Khon Kaen,2-2,0,2003,Mushroom
 Maha Sarakham,2-2,0,2003,Mushroom
 Roi Et,2-2,0,2003,Mushroom
-Zone 13,2-2,14,2003,Mushroom
+Zone:13,2-2,14,2003,Mushroom
 Buri Ram,2-2,11,2003,Mushroom
 Chaiyaphum,2-2,0,2003,Mushroom
 Nakhon Ratchasima,2-2,0,2003,Mushroom
 Surin,2-2,3,2003,Mushroom
-Zone 14,2-2,5,2003,Mushroom
+Zone:14,2-2,5,2003,Mushroom
 Amnat Charoen,2-2,0,2003,Mushroom
 Si Sa Ket,2-2,0,2003,Mushroom
 Ubon Ratchathani,2-2,5,2003,Mushroom
 Yasothon,2-2,0,2003,Mushroom
 South Region,2-2,3,2003,Mushroom
-Zone 15,2-2,2,2003,Mushroom
+Zone:15,2-2,2,2003,Mushroom
 Chumphon,2-2,0,2003,Mushroom
 Ranong,2-2,0,2003,Mushroom
 Surat Thani,2-2,2,2003,Mushroom
-Zone 16,2-2,1,2003,Mushroom
+Zone:16,2-2,1,2003,Mushroom
 Nakhon Si Thammarat,2-2,0,2003,Mushroom
 Phatthalung,2-2,0,2003,Mushroom
 Trang,2-2,1,2003,Mushroom
-Zone 17,2-2,0,2003,Mushroom
+Zone:17,2-2,0,2003,Mushroom
 Krabi,2-2,0,2003,Mushroom
 Phangnga,2-2,0,2003,Mushroom
 Phuket,2-2,0,2003,Mushroom
-Zone 18,2-2,0,2003,Mushroom
+Zone:18,2-2,0,2003,Mushroom
 Narathiwat,2-2,0,2003,Mushroom
 Pattani,2-2,0,2003,Mushroom
 Yala,2-2,0,2003,Mushroom
-Zone 19,2-2,0,2003,Mushroom
+Zone:19,2-2,0,2003,Mushroom
 Satun,2-2,0,2003,Mushroom
 Songkhla,2-2,0,2003,Mushroom
 Total,3-3,26,2003,Mushroom
 North Region,3-3,1,2003,Mushroom
-Zone 1,3-3,1,2003,Mushroom
+Zone:1,3-3,1,2003,Mushroom
 Chiang Mai,3-3,0,2003,Mushroom
 Chiang Rai,3-3,1,2003,Mushroom
 Lampang,3-3,0,2003,Mushroom
@@ -19554,98 +19554,98 @@ Mae Hong Son,3-3,0,2003,Mushroom
 Nan,3-3,0,2003,Mushroom
 Phayao,3-3,0,2003,Mushroom
 Phrae,3-3,0,2003,Mushroom
-Zone 2,3-3,0,2003,Mushroom
+Zone:2,3-3,0,2003,Mushroom
 Phetchabun,3-3,0,2003,Mushroom
 Phitsanulok,3-3,0,2003,Mushroom
 Sukhothai,3-3,0,2003,Mushroom
 Tak,3-3,0,2003,Mushroom
 Uttaradit,3-3,0,2003,Mushroom
-Zone 3,3-3,0,2003,Mushroom
+Zone:3,3-3,0,2003,Mushroom
 Kamphaeng Phet,3-3,0,2003,Mushroom
 Nakhon Sawan,3-3,0,2003,Mushroom
 Phichit,3-3,0,2003,Mushroom
 Uthai Thani,3-3,0,2003,Mushroom
 Central Region,3-3,0,2003,Mushroom
 Bangkok,3-3,0,2003,Mushroom
-Zone 4,3-3,0,2003,Mushroom
+Zone:4,3-3,0,2003,Mushroom
 Ang Thong,3-3,0,2003,Mushroom
 Nonthaburi,3-3,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,3-3,0,2003,Mushroom
 Pathum Thani,3-3,0,2003,Mushroom
-Zone 5,3-3,0,2003,Mushroom
+Zone:5,3-3,0,2003,Mushroom
 Chai Nat,3-3,0,2003,Mushroom
 Lop Buri,3-3,0,2003,Mushroom
 Saraburi,3-3,0,2003,Mushroom
 Sing Buri,3-3,0,2003,Mushroom
-Zone 6,3-3,0,2003,Mushroom
+Zone:6,3-3,0,2003,Mushroom
 Kanchanaburi,3-3,0,2003,Mushroom
 Nakhon Pathom,3-3,0,2003,Mushroom
 Ratchaburi,3-3,0,2003,Mushroom
 Suphan Buri,3-3,0,2003,Mushroom
-Zone 7,3-3,0,2003,Mushroom
+Zone:7,3-3,0,2003,Mushroom
 Phetchaburi,3-3,0,2003,Mushroom
 Prachuap Khiri Khan,3-3,0,2003,Mushroom
 Samut Sakhon,3-3,0,2003,Mushroom
 Samut Songkhram,3-3,0,2003,Mushroom
-Zone 8,3-3,0,2003,Mushroom
+Zone:8,3-3,0,2003,Mushroom
 Chachoengsao,3-3,0,2003,Mushroom
 Nakhon Nayok,3-3,0,2003,Mushroom
 Prachin Buri,3-3,0,2003,Mushroom
 Sa Kaeo,3-3,0,2003,Mushroom
 Samut Prakan,3-3,0,2003,Mushroom
-Zone 9,3-3,0,2003,Mushroom
+Zone:9,3-3,0,2003,Mushroom
 Chanthaburi,3-3,0,2003,Mushroom
 Chon Buri,3-3,0,2003,Mushroom
 Rayong,3-3,0,2003,Mushroom
 Trat,3-3,0,2003,Mushroom
 North-Eastern Region,3-3,23,2003,Mushroom
-Zone 10,3-3,3,2003,Mushroom
+Zone:10,3-3,3,2003,Mushroom
 Loei,3-3,1,2003,Mushroom
 Nong Bua Lam Phu,3-3,1,2003,Mushroom
 Nong Khai,3-3,0,2003,Mushroom
 Udon Thani,3-3,1,2003,Mushroom
-Zone 11,3-3,0,2003,Mushroom
+Zone:11,3-3,0,2003,Mushroom
 Kalasin,3-3,0,2003,Mushroom
 Mukdahan,3-3,0,2003,Mushroom
 Nakhon Phanom,3-3,0,2003,Mushroom
 Sakon Nakhon,3-3,0,2003,Mushroom
-Zone 12,3-3,0,2003,Mushroom
+Zone:12,3-3,0,2003,Mushroom
 Khon Kaen,3-3,0,2003,Mushroom
 Maha Sarakham,3-3,0,2003,Mushroom
 Roi Et,3-3,0,2003,Mushroom
-Zone 13,3-3,17,2003,Mushroom
+Zone:13,3-3,17,2003,Mushroom
 Buri Ram,3-3,9,2003,Mushroom
 Chaiyaphum,3-3,0,2003,Mushroom
 Nakhon Ratchasima,3-3,0,2003,Mushroom
 Surin,3-3,8,2003,Mushroom
-Zone 14,3-3,3,2003,Mushroom
+Zone:14,3-3,3,2003,Mushroom
 Amnat Charoen,3-3,0,2003,Mushroom
 Si Sa Ket,3-3,0,2003,Mushroom
 Ubon Ratchathani,3-3,3,2003,Mushroom
 Yasothon,3-3,0,2003,Mushroom
 South Region,3-3,2,2003,Mushroom
-Zone 15,3-3,0,2003,Mushroom
+Zone:15,3-3,0,2003,Mushroom
 Chumphon,3-3,0,2003,Mushroom
 Ranong,3-3,0,2003,Mushroom
 Surat Thani,3-3,0,2003,Mushroom
-Zone 16,3-3,2,2003,Mushroom
+Zone:16,3-3,2,2003,Mushroom
 Nakhon Si Thammarat,3-3,0,2003,Mushroom
 Phatthalung,3-3,0,2003,Mushroom
 Trang,3-3,2,2003,Mushroom
-Zone 17,3-3,0,2003,Mushroom
+Zone:17,3-3,0,2003,Mushroom
 Krabi,3-3,0,2003,Mushroom
 Phangnga,3-3,0,2003,Mushroom
 Phuket,3-3,0,2003,Mushroom
-Zone 18,3-3,0,2003,Mushroom
+Zone:18,3-3,0,2003,Mushroom
 Narathiwat,3-3,0,2003,Mushroom
 Pattani,3-3,0,2003,Mushroom
 Yala,3-3,0,2003,Mushroom
-Zone 19,3-3,0,2003,Mushroom
+Zone:19,3-3,0,2003,Mushroom
 Satun,3-3,0,2003,Mushroom
 Songkhla,3-3,0,2003,Mushroom
 Total,4-4,28,2003,Mushroom
 North Region,4-4,4,2003,Mushroom
-Zone 1,4-4,4,2003,Mushroom
+Zone:1,4-4,4,2003,Mushroom
 Chiang Mai,4-4,0,2003,Mushroom
 Chiang Rai,4-4,1,2003,Mushroom
 Lampang,4-4,2,2003,Mushroom
@@ -19654,98 +19654,98 @@ Mae Hong Son,4-4,0,2003,Mushroom
 Nan,4-4,0,2003,Mushroom
 Phayao,4-4,0,2003,Mushroom
 Phrae,4-4,0,2003,Mushroom
-Zone 2,4-4,0,2003,Mushroom
+Zone:2,4-4,0,2003,Mushroom
 Phetchabun,4-4,0,2003,Mushroom
 Phitsanulok,4-4,0,2003,Mushroom
 Sukhothai,4-4,0,2003,Mushroom
 Tak,4-4,0,2003,Mushroom
 Uttaradit,4-4,0,2003,Mushroom
-Zone 3,4-4,0,2003,Mushroom
+Zone:3,4-4,0,2003,Mushroom
 Kamphaeng Phet,4-4,0,2003,Mushroom
 Nakhon Sawan,4-4,0,2003,Mushroom
 Phichit,4-4,0,2003,Mushroom
 Uthai Thani,4-4,0,2003,Mushroom
 Central Region,4-4,1,2003,Mushroom
 Bangkok,4-4,0,2003,Mushroom
-Zone 4,4-4,0,2003,Mushroom
+Zone:4,4-4,0,2003,Mushroom
 Ang Thong,4-4,0,2003,Mushroom
 Nonthaburi,4-4,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,4-4,0,2003,Mushroom
 Pathum Thani,4-4,0,2003,Mushroom
-Zone 5,4-4,0,2003,Mushroom
+Zone:5,4-4,0,2003,Mushroom
 Chai Nat,4-4,0,2003,Mushroom
 Lop Buri,4-4,0,2003,Mushroom
 Saraburi,4-4,0,2003,Mushroom
 Sing Buri,4-4,0,2003,Mushroom
-Zone 6,4-4,0,2003,Mushroom
+Zone:6,4-4,0,2003,Mushroom
 Kanchanaburi,4-4,0,2003,Mushroom
 Nakhon Pathom,4-4,0,2003,Mushroom
 Ratchaburi,4-4,0,2003,Mushroom
 Suphan Buri,4-4,0,2003,Mushroom
-Zone 7,4-4,0,2003,Mushroom
+Zone:7,4-4,0,2003,Mushroom
 Phetchaburi,4-4,0,2003,Mushroom
 Prachuap Khiri Khan,4-4,0,2003,Mushroom
 Samut Sakhon,4-4,0,2003,Mushroom
 Samut Songkhram,4-4,0,2003,Mushroom
-Zone 8,4-4,0,2003,Mushroom
+Zone:8,4-4,0,2003,Mushroom
 Chachoengsao,4-4,0,2003,Mushroom
 Nakhon Nayok,4-4,0,2003,Mushroom
 Prachin Buri,4-4,0,2003,Mushroom
 Sa Kaeo,4-4,0,2003,Mushroom
 Samut Prakan,4-4,0,2003,Mushroom
-Zone 9,4-4,1,2003,Mushroom
+Zone:9,4-4,1,2003,Mushroom
 Chanthaburi,4-4,0,2003,Mushroom
 Chon Buri,4-4,0,2003,Mushroom
 Rayong,4-4,1,2003,Mushroom
 Trat,4-4,0,2003,Mushroom
 North-Eastern Region,4-4,23,2003,Mushroom
-Zone 10,4-4,2,2003,Mushroom
+Zone:10,4-4,2,2003,Mushroom
 Loei,4-4,1,2003,Mushroom
 Nong Bua Lam Phu,4-4,0,2003,Mushroom
 Nong Khai,4-4,0,2003,Mushroom
 Udon Thani,4-4,1,2003,Mushroom
-Zone 11,4-4,1,2003,Mushroom
+Zone:11,4-4,1,2003,Mushroom
 Kalasin,4-4,0,2003,Mushroom
 Mukdahan,4-4,0,2003,Mushroom
 Nakhon Phanom,4-4,0,2003,Mushroom
 Sakon Nakhon,4-4,1,2003,Mushroom
-Zone 12,4-4,1,2003,Mushroom
+Zone:12,4-4,1,2003,Mushroom
 Khon Kaen,4-4,0,2003,Mushroom
 Maha Sarakham,4-4,0,2003,Mushroom
 Roi Et,4-4,1,2003,Mushroom
-Zone 13,4-4,14,2003,Mushroom
+Zone:13,4-4,14,2003,Mushroom
 Buri Ram,4-4,6,2003,Mushroom
 Chaiyaphum,4-4,0,2003,Mushroom
 Nakhon Ratchasima,4-4,0,2003,Mushroom
 Surin,4-4,8,2003,Mushroom
-Zone 14,4-4,5,2003,Mushroom
+Zone:14,4-4,5,2003,Mushroom
 Amnat Charoen,4-4,0,2003,Mushroom
 Si Sa Ket,4-4,1,2003,Mushroom
 Ubon Ratchathani,4-4,4,2003,Mushroom
 Yasothon,4-4,0,2003,Mushroom
 South Region,4-4,0,2003,Mushroom
-Zone 15,4-4,0,2003,Mushroom
+Zone:15,4-4,0,2003,Mushroom
 Chumphon,4-4,0,2003,Mushroom
 Ranong,4-4,0,2003,Mushroom
 Surat Thani,4-4,0,2003,Mushroom
-Zone 16,4-4,0,2003,Mushroom
+Zone:16,4-4,0,2003,Mushroom
 Nakhon Si Thammarat,4-4,0,2003,Mushroom
 Phatthalung,4-4,0,2003,Mushroom
 Trang,4-4,0,2003,Mushroom
-Zone 17,4-4,0,2003,Mushroom
+Zone:17,4-4,0,2003,Mushroom
 Krabi,4-4,0,2003,Mushroom
 Phangnga,4-4,0,2003,Mushroom
 Phuket,4-4,0,2003,Mushroom
-Zone 18,4-4,0,2003,Mushroom
+Zone:18,4-4,0,2003,Mushroom
 Narathiwat,4-4,0,2003,Mushroom
 Pattani,4-4,0,2003,Mushroom
 Yala,4-4,0,2003,Mushroom
-Zone 19,4-4,0,2003,Mushroom
+Zone:19,4-4,0,2003,Mushroom
 Satun,4-4,0,2003,Mushroom
 Songkhla,4-4,0,2003,Mushroom
 Total,5-5,27,2003,Mushroom
 North Region,5-5,4,2003,Mushroom
-Zone 1,5-5,4,2003,Mushroom
+Zone:1,5-5,4,2003,Mushroom
 Chiang Mai,5-5,0,2003,Mushroom
 Chiang Rai,5-5,3,2003,Mushroom
 Lampang,5-5,1,2003,Mushroom
@@ -19754,98 +19754,98 @@ Mae Hong Son,5-5,0,2003,Mushroom
 Nan,5-5,0,2003,Mushroom
 Phayao,5-5,0,2003,Mushroom
 Phrae,5-5,0,2003,Mushroom
-Zone 2,5-5,0,2003,Mushroom
+Zone:2,5-5,0,2003,Mushroom
 Phetchabun,5-5,0,2003,Mushroom
 Phitsanulok,5-5,0,2003,Mushroom
 Sukhothai,5-5,0,2003,Mushroom
 Tak,5-5,0,2003,Mushroom
 Uttaradit,5-5,0,2003,Mushroom
-Zone 3,5-5,0,2003,Mushroom
+Zone:3,5-5,0,2003,Mushroom
 Kamphaeng Phet,5-5,0,2003,Mushroom
 Nakhon Sawan,5-5,0,2003,Mushroom
 Phichit,5-5,0,2003,Mushroom
 Uthai Thani,5-5,0,2003,Mushroom
 Central Region,5-5,0,2003,Mushroom
 Bangkok,5-5,0,2003,Mushroom
-Zone 4,5-5,0,2003,Mushroom
+Zone:4,5-5,0,2003,Mushroom
 Ang Thong,5-5,0,2003,Mushroom
 Nonthaburi,5-5,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,5-5,0,2003,Mushroom
 Pathum Thani,5-5,0,2003,Mushroom
-Zone 5,5-5,0,2003,Mushroom
+Zone:5,5-5,0,2003,Mushroom
 Chai Nat,5-5,0,2003,Mushroom
 Lop Buri,5-5,0,2003,Mushroom
 Saraburi,5-5,0,2003,Mushroom
 Sing Buri,5-5,0,2003,Mushroom
-Zone 6,5-5,0,2003,Mushroom
+Zone:6,5-5,0,2003,Mushroom
 Kanchanaburi,5-5,0,2003,Mushroom
 Nakhon Pathom,5-5,0,2003,Mushroom
 Ratchaburi,5-5,0,2003,Mushroom
 Suphan Buri,5-5,0,2003,Mushroom
-Zone 7,5-5,0,2003,Mushroom
+Zone:7,5-5,0,2003,Mushroom
 Phetchaburi,5-5,0,2003,Mushroom
 Prachuap Khiri Khan,5-5,0,2003,Mushroom
 Samut Sakhon,5-5,0,2003,Mushroom
 Samut Songkhram,5-5,0,2003,Mushroom
-Zone 8,5-5,0,2003,Mushroom
+Zone:8,5-5,0,2003,Mushroom
 Chachoengsao,5-5,0,2003,Mushroom
 Nakhon Nayok,5-5,0,2003,Mushroom
 Prachin Buri,5-5,0,2003,Mushroom
 Sa Kaeo,5-5,0,2003,Mushroom
 Samut Prakan,5-5,0,2003,Mushroom
-Zone 9,5-5,0,2003,Mushroom
+Zone:9,5-5,0,2003,Mushroom
 Chanthaburi,5-5,0,2003,Mushroom
 Chon Buri,5-5,0,2003,Mushroom
 Rayong,5-5,0,2003,Mushroom
 Trat,5-5,0,2003,Mushroom
 North-Eastern Region,5-5,23,2003,Mushroom
-Zone 10,5-5,2,2003,Mushroom
+Zone:10,5-5,2,2003,Mushroom
 Loei,5-5,2,2003,Mushroom
 Nong Bua Lam Phu,5-5,0,2003,Mushroom
 Nong Khai,5-5,0,2003,Mushroom
 Udon Thani,5-5,0,2003,Mushroom
-Zone 11,5-5,0,2003,Mushroom
+Zone:11,5-5,0,2003,Mushroom
 Kalasin,5-5,0,2003,Mushroom
 Mukdahan,5-5,0,2003,Mushroom
 Nakhon Phanom,5-5,0,2003,Mushroom
 Sakon Nakhon,5-5,0,2003,Mushroom
-Zone 12,5-5,1,2003,Mushroom
+Zone:12,5-5,1,2003,Mushroom
 Khon Kaen,5-5,0,2003,Mushroom
 Maha Sarakham,5-5,0,2003,Mushroom
 Roi Et,5-5,1,2003,Mushroom
-Zone 13,5-5,16,2003,Mushroom
+Zone:13,5-5,16,2003,Mushroom
 Buri Ram,5-5,13,2003,Mushroom
 Chaiyaphum,5-5,0,2003,Mushroom
 Nakhon Ratchasima,5-5,0,2003,Mushroom
 Surin,5-5,3,2003,Mushroom
-Zone 14,5-5,4,2003,Mushroom
+Zone:14,5-5,4,2003,Mushroom
 Amnat Charoen,5-5,0,2003,Mushroom
 Si Sa Ket,5-5,1,2003,Mushroom
 Ubon Ratchathani,5-5,3,2003,Mushroom
 Yasothon,5-5,0,2003,Mushroom
 South Region,5-5,0,2003,Mushroom
-Zone 15,5-5,0,2003,Mushroom
+Zone:15,5-5,0,2003,Mushroom
 Chumphon,5-5,0,2003,Mushroom
 Ranong,5-5,0,2003,Mushroom
 Surat Thani,5-5,0,2003,Mushroom
-Zone 16,5-5,0,2003,Mushroom
+Zone:16,5-5,0,2003,Mushroom
 Nakhon Si Thammarat,5-5,0,2003,Mushroom
 Phatthalung,5-5,0,2003,Mushroom
 Trang,5-5,0,2003,Mushroom
-Zone 17,5-5,0,2003,Mushroom
+Zone:17,5-5,0,2003,Mushroom
 Krabi,5-5,0,2003,Mushroom
 Phangnga,5-5,0,2003,Mushroom
 Phuket,5-5,0,2003,Mushroom
-Zone 18,5-5,0,2003,Mushroom
+Zone:18,5-5,0,2003,Mushroom
 Narathiwat,5-5,0,2003,Mushroom
 Pattani,5-5,0,2003,Mushroom
 Yala,5-5,0,2003,Mushroom
-Zone 19,5-5,0,2003,Mushroom
+Zone:19,5-5,0,2003,Mushroom
 Satun,5-5,0,2003,Mushroom
 Songkhla,5-5,0,2003,Mushroom
 Total,6-6,27,2003,Mushroom
 North Region,6-6,5,2003,Mushroom
-Zone 1,6-6,4,2003,Mushroom
+Zone:1,6-6,4,2003,Mushroom
 Chiang Mai,6-6,1,2003,Mushroom
 Chiang Rai,6-6,1,2003,Mushroom
 Lampang,6-6,1,2003,Mushroom
@@ -19854,98 +19854,98 @@ Mae Hong Son,6-6,0,2003,Mushroom
 Nan,6-6,0,2003,Mushroom
 Phayao,6-6,0,2003,Mushroom
 Phrae,6-6,0,2003,Mushroom
-Zone 2,6-6,0,2003,Mushroom
+Zone:2,6-6,0,2003,Mushroom
 Phetchabun,6-6,0,2003,Mushroom
 Phitsanulok,6-6,0,2003,Mushroom
 Sukhothai,6-6,0,2003,Mushroom
 Tak,6-6,0,2003,Mushroom
 Uttaradit,6-6,0,2003,Mushroom
-Zone 3,6-6,1,2003,Mushroom
+Zone:3,6-6,1,2003,Mushroom
 Kamphaeng Phet,6-6,1,2003,Mushroom
 Nakhon Sawan,6-6,0,2003,Mushroom
 Phichit,6-6,0,2003,Mushroom
 Uthai Thani,6-6,0,2003,Mushroom
 Central Region,6-6,1,2003,Mushroom
 Bangkok,6-6,0,2003,Mushroom
-Zone 4,6-6,0,2003,Mushroom
+Zone:4,6-6,0,2003,Mushroom
 Ang Thong,6-6,0,2003,Mushroom
 Nonthaburi,6-6,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,6-6,0,2003,Mushroom
 Pathum Thani,6-6,0,2003,Mushroom
-Zone 5,6-6,0,2003,Mushroom
+Zone:5,6-6,0,2003,Mushroom
 Chai Nat,6-6,0,2003,Mushroom
 Lop Buri,6-6,0,2003,Mushroom
 Saraburi,6-6,0,2003,Mushroom
 Sing Buri,6-6,0,2003,Mushroom
-Zone 6,6-6,0,2003,Mushroom
+Zone:6,6-6,0,2003,Mushroom
 Kanchanaburi,6-6,0,2003,Mushroom
 Nakhon Pathom,6-6,0,2003,Mushroom
 Ratchaburi,6-6,0,2003,Mushroom
 Suphan Buri,6-6,0,2003,Mushroom
-Zone 7,6-6,0,2003,Mushroom
+Zone:7,6-6,0,2003,Mushroom
 Phetchaburi,6-6,0,2003,Mushroom
 Prachuap Khiri Khan,6-6,0,2003,Mushroom
 Samut Sakhon,6-6,0,2003,Mushroom
 Samut Songkhram,6-6,0,2003,Mushroom
-Zone 8,6-6,0,2003,Mushroom
+Zone:8,6-6,0,2003,Mushroom
 Chachoengsao,6-6,0,2003,Mushroom
 Nakhon Nayok,6-6,0,2003,Mushroom
 Prachin Buri,6-6,0,2003,Mushroom
 Sa Kaeo,6-6,0,2003,Mushroom
 Samut Prakan,6-6,0,2003,Mushroom
-Zone 9,6-6,1,2003,Mushroom
+Zone:9,6-6,1,2003,Mushroom
 Chanthaburi,6-6,0,2003,Mushroom
 Chon Buri,6-6,0,2003,Mushroom
 Rayong,6-6,1,2003,Mushroom
 Trat,6-6,0,2003,Mushroom
 North-Eastern Region,6-6,20,2003,Mushroom
-Zone 10,6-6,0,2003,Mushroom
+Zone:10,6-6,0,2003,Mushroom
 Loei,6-6,0,2003,Mushroom
 Nong Bua Lam Phu,6-6,0,2003,Mushroom
 Nong Khai,6-6,0,2003,Mushroom
 Udon Thani,6-6,0,2003,Mushroom
-Zone 11,6-6,0,2003,Mushroom
+Zone:11,6-6,0,2003,Mushroom
 Kalasin,6-6,0,2003,Mushroom
 Mukdahan,6-6,0,2003,Mushroom
 Nakhon Phanom,6-6,0,2003,Mushroom
 Sakon Nakhon,6-6,0,2003,Mushroom
-Zone 12,6-6,1,2003,Mushroom
+Zone:12,6-6,1,2003,Mushroom
 Khon Kaen,6-6,0,2003,Mushroom
 Maha Sarakham,6-6,0,2003,Mushroom
 Roi Et,6-6,1,2003,Mushroom
-Zone 13,6-6,17,2003,Mushroom
+Zone:13,6-6,17,2003,Mushroom
 Buri Ram,6-6,8,2003,Mushroom
 Chaiyaphum,6-6,0,2003,Mushroom
 Nakhon Ratchasima,6-6,0,2003,Mushroom
 Surin,6-6,9,2003,Mushroom
-Zone 14,6-6,2,2003,Mushroom
+Zone:14,6-6,2,2003,Mushroom
 Amnat Charoen,6-6,0,2003,Mushroom
 Si Sa Ket,6-6,0,2003,Mushroom
 Ubon Ratchathani,6-6,2,2003,Mushroom
 Yasothon,6-6,0,2003,Mushroom
 South Region,6-6,1,2003,Mushroom
-Zone 15,6-6,0,2003,Mushroom
+Zone:15,6-6,0,2003,Mushroom
 Chumphon,6-6,0,2003,Mushroom
 Ranong,6-6,0,2003,Mushroom
 Surat Thani,6-6,0,2003,Mushroom
-Zone 16,6-6,1,2003,Mushroom
+Zone:16,6-6,1,2003,Mushroom
 Nakhon Si Thammarat,6-6,0,2003,Mushroom
 Phatthalung,6-6,0,2003,Mushroom
 Trang,6-6,1,2003,Mushroom
-Zone 17,6-6,0,2003,Mushroom
+Zone:17,6-6,0,2003,Mushroom
 Krabi,6-6,0,2003,Mushroom
 Phangnga,6-6,0,2003,Mushroom
 Phuket,6-6,0,2003,Mushroom
-Zone 18,6-6,0,2003,Mushroom
+Zone:18,6-6,0,2003,Mushroom
 Narathiwat,6-6,0,2003,Mushroom
 Pattani,6-6,0,2003,Mushroom
 Yala,6-6,0,2003,Mushroom
-Zone 19,6-6,0,2003,Mushroom
+Zone:19,6-6,0,2003,Mushroom
 Satun,6-6,0,2003,Mushroom
 Songkhla,6-6,0,2003,Mushroom
 Total,7-9,81,2003,Mushroom
 North Region,7-9,11,2003,Mushroom
-Zone 1,7-9,11,2003,Mushroom
+Zone:1,7-9,11,2003,Mushroom
 Chiang Mai,7-9,2,2003,Mushroom
 Chiang Rai,7-9,2,2003,Mushroom
 Lampang,7-9,4,2003,Mushroom
@@ -19954,98 +19954,98 @@ Mae Hong Son,7-9,0,2003,Mushroom
 Nan,7-9,0,2003,Mushroom
 Phayao,7-9,0,2003,Mushroom
 Phrae,7-9,0,2003,Mushroom
-Zone 2,7-9,0,2003,Mushroom
+Zone:2,7-9,0,2003,Mushroom
 Phetchabun,7-9,0,2003,Mushroom
 Phitsanulok,7-9,0,2003,Mushroom
 Sukhothai,7-9,0,2003,Mushroom
 Tak,7-9,0,2003,Mushroom
 Uttaradit,7-9,0,2003,Mushroom
-Zone 3,7-9,0,2003,Mushroom
+Zone:3,7-9,0,2003,Mushroom
 Kamphaeng Phet,7-9,0,2003,Mushroom
 Nakhon Sawan,7-9,0,2003,Mushroom
 Phichit,7-9,0,2003,Mushroom
 Uthai Thani,7-9,0,2003,Mushroom
 Central Region,7-9,1,2003,Mushroom
 Bangkok,7-9,0,2003,Mushroom
-Zone 4,7-9,0,2003,Mushroom
+Zone:4,7-9,0,2003,Mushroom
 Ang Thong,7-9,0,2003,Mushroom
 Nonthaburi,7-9,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,7-9,0,2003,Mushroom
 Pathum Thani,7-9,0,2003,Mushroom
-Zone 5,7-9,0,2003,Mushroom
+Zone:5,7-9,0,2003,Mushroom
 Chai Nat,7-9,0,2003,Mushroom
 Lop Buri,7-9,0,2003,Mushroom
 Saraburi,7-9,0,2003,Mushroom
 Sing Buri,7-9,0,2003,Mushroom
-Zone 6,7-9,0,2003,Mushroom
+Zone:6,7-9,0,2003,Mushroom
 Kanchanaburi,7-9,0,2003,Mushroom
 Nakhon Pathom,7-9,0,2003,Mushroom
 Ratchaburi,7-9,0,2003,Mushroom
 Suphan Buri,7-9,0,2003,Mushroom
-Zone 7,7-9,0,2003,Mushroom
+Zone:7,7-9,0,2003,Mushroom
 Phetchaburi,7-9,0,2003,Mushroom
 Prachuap Khiri Khan,7-9,0,2003,Mushroom
 Samut Sakhon,7-9,0,2003,Mushroom
 Samut Songkhram,7-9,0,2003,Mushroom
-Zone 8,7-9,0,2003,Mushroom
+Zone:8,7-9,0,2003,Mushroom
 Chachoengsao,7-9,0,2003,Mushroom
 Nakhon Nayok,7-9,0,2003,Mushroom
 Prachin Buri,7-9,0,2003,Mushroom
 Sa Kaeo,7-9,0,2003,Mushroom
 Samut Prakan,7-9,0,2003,Mushroom
-Zone 9,7-9,1,2003,Mushroom
+Zone:9,7-9,1,2003,Mushroom
 Chanthaburi,7-9,0,2003,Mushroom
 Chon Buri,7-9,0,2003,Mushroom
 Rayong,7-9,1,2003,Mushroom
 Trat,7-9,0,2003,Mushroom
 North-Eastern Region,7-9,67,2003,Mushroom
-Zone 10,7-9,4,2003,Mushroom
+Zone:10,7-9,4,2003,Mushroom
 Loei,7-9,3,2003,Mushroom
 Nong Bua Lam Phu,7-9,0,2003,Mushroom
 Nong Khai,7-9,0,2003,Mushroom
 Udon Thani,7-9,1,2003,Mushroom
-Zone 11,7-9,1,2003,Mushroom
+Zone:11,7-9,1,2003,Mushroom
 Kalasin,7-9,0,2003,Mushroom
 Mukdahan,7-9,0,2003,Mushroom
 Nakhon Phanom,7-9,0,2003,Mushroom
 Sakon Nakhon,7-9,1,2003,Mushroom
-Zone 12,7-9,2,2003,Mushroom
+Zone:12,7-9,2,2003,Mushroom
 Khon Kaen,7-9,0,2003,Mushroom
 Maha Sarakham,7-9,0,2003,Mushroom
 Roi Et,7-9,2,2003,Mushroom
-Zone 13,7-9,53,2003,Mushroom
+Zone:13,7-9,53,2003,Mushroom
 Buri Ram,7-9,28,2003,Mushroom
 Chaiyaphum,7-9,0,2003,Mushroom
 Nakhon Ratchasima,7-9,5,2003,Mushroom
 Surin,7-9,20,2003,Mushroom
-Zone 14,7-9,7,2003,Mushroom
+Zone:14,7-9,7,2003,Mushroom
 Amnat Charoen,7-9,1,2003,Mushroom
 Si Sa Ket,7-9,2,2003,Mushroom
 Ubon Ratchathani,7-9,4,2003,Mushroom
 Yasothon,7-9,0,2003,Mushroom
 South Region,7-9,2,2003,Mushroom
-Zone 15,7-9,0,2003,Mushroom
+Zone:15,7-9,0,2003,Mushroom
 Chumphon,7-9,0,2003,Mushroom
 Ranong,7-9,0,2003,Mushroom
 Surat Thani,7-9,0,2003,Mushroom
-Zone 16,7-9,2,2003,Mushroom
+Zone:16,7-9,2,2003,Mushroom
 Nakhon Si Thammarat,7-9,1,2003,Mushroom
 Phatthalung,7-9,0,2003,Mushroom
 Trang,7-9,1,2003,Mushroom
-Zone 17,7-9,0,2003,Mushroom
+Zone:17,7-9,0,2003,Mushroom
 Krabi,7-9,0,2003,Mushroom
 Phangnga,7-9,0,2003,Mushroom
 Phuket,7-9,0,2003,Mushroom
-Zone 18,7-9,0,2003,Mushroom
+Zone:18,7-9,0,2003,Mushroom
 Narathiwat,7-9,0,2003,Mushroom
 Pattani,7-9,0,2003,Mushroom
 Yala,7-9,0,2003,Mushroom
-Zone 19,7-9,0,2003,Mushroom
+Zone:19,7-9,0,2003,Mushroom
 Satun,7-9,0,2003,Mushroom
 Songkhla,7-9,0,2003,Mushroom
 Total,10-14,112,2003,Mushroom
 North Region,10-14,19,2003,Mushroom
-Zone 1,10-14,17,2003,Mushroom
+Zone:1,10-14,17,2003,Mushroom
 Chiang Mai,10-14,2,2003,Mushroom
 Chiang Rai,10-14,4,2003,Mushroom
 Lampang,10-14,6,2003,Mushroom
@@ -20054,98 +20054,98 @@ Mae Hong Son,10-14,1,2003,Mushroom
 Nan,10-14,2,2003,Mushroom
 Phayao,10-14,0,2003,Mushroom
 Phrae,10-14,0,2003,Mushroom
-Zone 2,10-14,1,2003,Mushroom
+Zone:2,10-14,1,2003,Mushroom
 Phetchabun,10-14,0,2003,Mushroom
 Phitsanulok,10-14,1,2003,Mushroom
 Sukhothai,10-14,0,2003,Mushroom
 Tak,10-14,0,2003,Mushroom
 Uttaradit,10-14,0,2003,Mushroom
-Zone 3,10-14,1,2003,Mushroom
+Zone:3,10-14,1,2003,Mushroom
 Kamphaeng Phet,10-14,1,2003,Mushroom
 Nakhon Sawan,10-14,0,2003,Mushroom
 Phichit,10-14,0,2003,Mushroom
 Uthai Thani,10-14,0,2003,Mushroom
 Central Region,10-14,3,2003,Mushroom
 Bangkok,10-14,0,2003,Mushroom
-Zone 4,10-14,0,2003,Mushroom
+Zone:4,10-14,0,2003,Mushroom
 Ang Thong,10-14,0,2003,Mushroom
 Nonthaburi,10-14,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,10-14,0,2003,Mushroom
 Pathum Thani,10-14,0,2003,Mushroom
-Zone 5,10-14,0,2003,Mushroom
+Zone:5,10-14,0,2003,Mushroom
 Chai Nat,10-14,0,2003,Mushroom
 Lop Buri,10-14,0,2003,Mushroom
 Saraburi,10-14,0,2003,Mushroom
 Sing Buri,10-14,0,2003,Mushroom
-Zone 6,10-14,1,2003,Mushroom
+Zone:6,10-14,1,2003,Mushroom
 Kanchanaburi,10-14,1,2003,Mushroom
 Nakhon Pathom,10-14,0,2003,Mushroom
 Ratchaburi,10-14,0,2003,Mushroom
 Suphan Buri,10-14,0,2003,Mushroom
-Zone 7,10-14,1,2003,Mushroom
+Zone:7,10-14,1,2003,Mushroom
 Phetchaburi,10-14,1,2003,Mushroom
 Prachuap Khiri Khan,10-14,0,2003,Mushroom
 Samut Sakhon,10-14,0,2003,Mushroom
 Samut Songkhram,10-14,0,2003,Mushroom
-Zone 8,10-14,0,2003,Mushroom
+Zone:8,10-14,0,2003,Mushroom
 Chachoengsao,10-14,0,2003,Mushroom
 Nakhon Nayok,10-14,0,2003,Mushroom
 Prachin Buri,10-14,0,2003,Mushroom
 Sa Kaeo,10-14,0,2003,Mushroom
 Samut Prakan,10-14,0,2003,Mushroom
-Zone 9,10-14,1,2003,Mushroom
+Zone:9,10-14,1,2003,Mushroom
 Chanthaburi,10-14,0,2003,Mushroom
 Chon Buri,10-14,0,2003,Mushroom
 Rayong,10-14,1,2003,Mushroom
 Trat,10-14,0,2003,Mushroom
 North-Eastern Region,10-14,87,2003,Mushroom
-Zone 10,10-14,9,2003,Mushroom
+Zone:10,10-14,9,2003,Mushroom
 Loei,10-14,7,2003,Mushroom
 Nong Bua Lam Phu,10-14,0,2003,Mushroom
 Nong Khai,10-14,0,2003,Mushroom
 Udon Thani,10-14,2,2003,Mushroom
-Zone 11,10-14,1,2003,Mushroom
+Zone:11,10-14,1,2003,Mushroom
 Kalasin,10-14,0,2003,Mushroom
 Mukdahan,10-14,0,2003,Mushroom
 Nakhon Phanom,10-14,1,2003,Mushroom
 Sakon Nakhon,10-14,0,2003,Mushroom
-Zone 12,10-14,1,2003,Mushroom
+Zone:12,10-14,1,2003,Mushroom
 Khon Kaen,10-14,0,2003,Mushroom
 Maha Sarakham,10-14,0,2003,Mushroom
 Roi Et,10-14,1,2003,Mushroom
-Zone 13,10-14,62,2003,Mushroom
+Zone:13,10-14,62,2003,Mushroom
 Buri Ram,10-14,39,2003,Mushroom
 Chaiyaphum,10-14,0,2003,Mushroom
 Nakhon Ratchasima,10-14,3,2003,Mushroom
 Surin,10-14,20,2003,Mushroom
-Zone 14,10-14,14,2003,Mushroom
+Zone:14,10-14,14,2003,Mushroom
 Amnat Charoen,10-14,2,2003,Mushroom
 Si Sa Ket,10-14,1,2003,Mushroom
 Ubon Ratchathani,10-14,11,2003,Mushroom
 Yasothon,10-14,0,2003,Mushroom
 South Region,10-14,3,2003,Mushroom
-Zone 15,10-14,3,2003,Mushroom
+Zone:15,10-14,3,2003,Mushroom
 Chumphon,10-14,0,2003,Mushroom
 Ranong,10-14,0,2003,Mushroom
 Surat Thani,10-14,3,2003,Mushroom
-Zone 16,10-14,0,2003,Mushroom
+Zone:16,10-14,0,2003,Mushroom
 Nakhon Si Thammarat,10-14,0,2003,Mushroom
 Phatthalung,10-14,0,2003,Mushroom
 Trang,10-14,0,2003,Mushroom
-Zone 17,10-14,0,2003,Mushroom
+Zone:17,10-14,0,2003,Mushroom
 Krabi,10-14,0,2003,Mushroom
 Phangnga,10-14,0,2003,Mushroom
 Phuket,10-14,0,2003,Mushroom
-Zone 18,10-14,0,2003,Mushroom
+Zone:18,10-14,0,2003,Mushroom
 Narathiwat,10-14,0,2003,Mushroom
 Pattani,10-14,0,2003,Mushroom
 Yala,10-14,0,2003,Mushroom
-Zone 19,10-14,0,2003,Mushroom
+Zone:19,10-14,0,2003,Mushroom
 Satun,10-14,0,2003,Mushroom
 Songkhla,10-14,0,2003,Mushroom
 Total,15-24,139,2003,Mushroom
 North Region,15-24,26,2003,Mushroom
-Zone 1,15-24,24,2003,Mushroom
+Zone:1,15-24,24,2003,Mushroom
 Chiang Mai,15-24,1,2003,Mushroom
 Chiang Rai,15-24,12,2003,Mushroom
 Lampang,15-24,2,2003,Mushroom
@@ -20154,98 +20154,98 @@ Mae Hong Son,15-24,2,2003,Mushroom
 Nan,15-24,2,2003,Mushroom
 Phayao,15-24,0,2003,Mushroom
 Phrae,15-24,0,2003,Mushroom
-Zone 2,15-24,1,2003,Mushroom
+Zone:2,15-24,1,2003,Mushroom
 Phetchabun,15-24,0,2003,Mushroom
 Phitsanulok,15-24,0,2003,Mushroom
 Sukhothai,15-24,0,2003,Mushroom
 Tak,15-24,1,2003,Mushroom
 Uttaradit,15-24,0,2003,Mushroom
-Zone 3,15-24,1,2003,Mushroom
+Zone:3,15-24,1,2003,Mushroom
 Kamphaeng Phet,15-24,1,2003,Mushroom
 Nakhon Sawan,15-24,0,2003,Mushroom
 Phichit,15-24,0,2003,Mushroom
 Uthai Thani,15-24,0,2003,Mushroom
 Central Region,15-24,15,2003,Mushroom
 Bangkok,15-24,0,2003,Mushroom
-Zone 4,15-24,0,2003,Mushroom
+Zone:4,15-24,0,2003,Mushroom
 Ang Thong,15-24,0,2003,Mushroom
 Nonthaburi,15-24,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,15-24,0,2003,Mushroom
 Pathum Thani,15-24,0,2003,Mushroom
-Zone 5,15-24,3,2003,Mushroom
+Zone:5,15-24,3,2003,Mushroom
 Chai Nat,15-24,0,2003,Mushroom
 Lop Buri,15-24,0,2003,Mushroom
 Saraburi,15-24,3,2003,Mushroom
 Sing Buri,15-24,0,2003,Mushroom
-Zone 6,15-24,6,2003,Mushroom
+Zone:6,15-24,6,2003,Mushroom
 Kanchanaburi,15-24,0,2003,Mushroom
 Nakhon Pathom,15-24,3,2003,Mushroom
 Ratchaburi,15-24,0,2003,Mushroom
 Suphan Buri,15-24,3,2003,Mushroom
-Zone 7,15-24,1,2003,Mushroom
+Zone:7,15-24,1,2003,Mushroom
 Phetchaburi,15-24,0,2003,Mushroom
 Prachuap Khiri Khan,15-24,1,2003,Mushroom
 Samut Sakhon,15-24,0,2003,Mushroom
 Samut Songkhram,15-24,0,2003,Mushroom
-Zone 8,15-24,3,2003,Mushroom
+Zone:8,15-24,3,2003,Mushroom
 Chachoengsao,15-24,0,2003,Mushroom
 Nakhon Nayok,15-24,0,2003,Mushroom
 Prachin Buri,15-24,2,2003,Mushroom
 Sa Kaeo,15-24,1,2003,Mushroom
 Samut Prakan,15-24,0,2003,Mushroom
-Zone 9,15-24,2,2003,Mushroom
+Zone:9,15-24,2,2003,Mushroom
 Chanthaburi,15-24,1,2003,Mushroom
 Chon Buri,15-24,0,2003,Mushroom
 Rayong,15-24,1,2003,Mushroom
 Trat,15-24,0,2003,Mushroom
 North-Eastern Region,15-24,93,2003,Mushroom
-Zone 10,15-24,9,2003,Mushroom
+Zone:10,15-24,9,2003,Mushroom
 Loei,15-24,6,2003,Mushroom
 Nong Bua Lam Phu,15-24,1,2003,Mushroom
 Nong Khai,15-24,0,2003,Mushroom
 Udon Thani,15-24,2,2003,Mushroom
-Zone 11,15-24,6,2003,Mushroom
+Zone:11,15-24,6,2003,Mushroom
 Kalasin,15-24,0,2003,Mushroom
 Mukdahan,15-24,0,2003,Mushroom
 Nakhon Phanom,15-24,0,2003,Mushroom
 Sakon Nakhon,15-24,6,2003,Mushroom
-Zone 12,15-24,4,2003,Mushroom
+Zone:12,15-24,4,2003,Mushroom
 Khon Kaen,15-24,1,2003,Mushroom
 Maha Sarakham,15-24,0,2003,Mushroom
 Roi Et,15-24,3,2003,Mushroom
-Zone 13,15-24,49,2003,Mushroom
+Zone:13,15-24,49,2003,Mushroom
 Buri Ram,15-24,24,2003,Mushroom
 Chaiyaphum,15-24,0,2003,Mushroom
 Nakhon Ratchasima,15-24,5,2003,Mushroom
 Surin,15-24,20,2003,Mushroom
-Zone 14,15-24,25,2003,Mushroom
+Zone:14,15-24,25,2003,Mushroom
 Amnat Charoen,15-24,0,2003,Mushroom
 Si Sa Ket,15-24,4,2003,Mushroom
 Ubon Ratchathani,15-24,21,2003,Mushroom
 Yasothon,15-24,0,2003,Mushroom
 South Region,15-24,5,2003,Mushroom
-Zone 15,15-24,3,2003,Mushroom
+Zone:15,15-24,3,2003,Mushroom
 Chumphon,15-24,0,2003,Mushroom
 Ranong,15-24,1,2003,Mushroom
 Surat Thani,15-24,2,2003,Mushroom
-Zone 16,15-24,2,2003,Mushroom
+Zone:16,15-24,2,2003,Mushroom
 Nakhon Si Thammarat,15-24,0,2003,Mushroom
 Phatthalung,15-24,0,2003,Mushroom
 Trang,15-24,2,2003,Mushroom
-Zone 17,15-24,0,2003,Mushroom
+Zone:17,15-24,0,2003,Mushroom
 Krabi,15-24,0,2003,Mushroom
 Phangnga,15-24,0,2003,Mushroom
 Phuket,15-24,0,2003,Mushroom
-Zone 18,15-24,0,2003,Mushroom
+Zone:18,15-24,0,2003,Mushroom
 Narathiwat,15-24,0,2003,Mushroom
 Pattani,15-24,0,2003,Mushroom
 Yala,15-24,0,2003,Mushroom
-Zone 19,15-24,0,2003,Mushroom
+Zone:19,15-24,0,2003,Mushroom
 Satun,15-24,0,2003,Mushroom
 Songkhla,15-24,0,2003,Mushroom
 Total,25-34,260,2003,Mushroom
 North Region,25-34,40,2003,Mushroom
-Zone 1,25-34,38,2003,Mushroom
+Zone:1,25-34,38,2003,Mushroom
 Chiang Mai,25-34,3,2003,Mushroom
 Chiang Rai,25-34,16,2003,Mushroom
 Lampang,25-34,8,2003,Mushroom
@@ -20254,98 +20254,98 @@ Mae Hong Son,25-34,2,2003,Mushroom
 Nan,25-34,2,2003,Mushroom
 Phayao,25-34,2,2003,Mushroom
 Phrae,25-34,0,2003,Mushroom
-Zone 2,25-34,1,2003,Mushroom
+Zone:2,25-34,1,2003,Mushroom
 Phetchabun,25-34,0,2003,Mushroom
 Phitsanulok,25-34,0,2003,Mushroom
 Sukhothai,25-34,0,2003,Mushroom
 Tak,25-34,1,2003,Mushroom
 Uttaradit,25-34,0,2003,Mushroom
-Zone 3,25-34,1,2003,Mushroom
+Zone:3,25-34,1,2003,Mushroom
 Kamphaeng Phet,25-34,0,2003,Mushroom
 Nakhon Sawan,25-34,1,2003,Mushroom
 Phichit,25-34,0,2003,Mushroom
 Uthai Thani,25-34,0,2003,Mushroom
 Central Region,25-34,23,2003,Mushroom
 Bangkok,25-34,0,2003,Mushroom
-Zone 4,25-34,0,2003,Mushroom
+Zone:4,25-34,0,2003,Mushroom
 Ang Thong,25-34,0,2003,Mushroom
 Nonthaburi,25-34,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,25-34,0,2003,Mushroom
 Pathum Thani,25-34,0,2003,Mushroom
-Zone 5,25-34,5,2003,Mushroom
+Zone:5,25-34,5,2003,Mushroom
 Chai Nat,25-34,0,2003,Mushroom
 Lop Buri,25-34,0,2003,Mushroom
 Saraburi,25-34,5,2003,Mushroom
 Sing Buri,25-34,0,2003,Mushroom
-Zone 6,25-34,6,2003,Mushroom
+Zone:6,25-34,6,2003,Mushroom
 Kanchanaburi,25-34,1,2003,Mushroom
 Nakhon Pathom,25-34,1,2003,Mushroom
 Ratchaburi,25-34,2,2003,Mushroom
 Suphan Buri,25-34,2,2003,Mushroom
-Zone 7,25-34,3,2003,Mushroom
+Zone:7,25-34,3,2003,Mushroom
 Phetchaburi,25-34,1,2003,Mushroom
 Prachuap Khiri Khan,25-34,2,2003,Mushroom
 Samut Sakhon,25-34,0,2003,Mushroom
 Samut Songkhram,25-34,0,2003,Mushroom
-Zone 8,25-34,2,2003,Mushroom
+Zone:8,25-34,2,2003,Mushroom
 Chachoengsao,25-34,0,2003,Mushroom
 Nakhon Nayok,25-34,0,2003,Mushroom
 Prachin Buri,25-34,0,2003,Mushroom
 Sa Kaeo,25-34,2,2003,Mushroom
 Samut Prakan,25-34,0,2003,Mushroom
-Zone 9,25-34,7,2003,Mushroom
+Zone:9,25-34,7,2003,Mushroom
 Chanthaburi,25-34,1,2003,Mushroom
 Chon Buri,25-34,0,2003,Mushroom
 Rayong,25-34,6,2003,Mushroom
 Trat,25-34,0,2003,Mushroom
 North-Eastern Region,25-34,187,2003,Mushroom
-Zone 10,25-34,26,2003,Mushroom
+Zone:10,25-34,26,2003,Mushroom
 Loei,25-34,16,2003,Mushroom
 Nong Bua Lam Phu,25-34,0,2003,Mushroom
 Nong Khai,25-34,0,2003,Mushroom
 Udon Thani,25-34,10,2003,Mushroom
-Zone 11,25-34,13,2003,Mushroom
+Zone:11,25-34,13,2003,Mushroom
 Kalasin,25-34,0,2003,Mushroom
 Mukdahan,25-34,2,2003,Mushroom
 Nakhon Phanom,25-34,3,2003,Mushroom
 Sakon Nakhon,25-34,8,2003,Mushroom
-Zone 12,25-34,13,2003,Mushroom
+Zone:12,25-34,13,2003,Mushroom
 Khon Kaen,25-34,2,2003,Mushroom
 Maha Sarakham,25-34,0,2003,Mushroom
 Roi Et,25-34,11,2003,Mushroom
-Zone 13,25-34,70,2003,Mushroom
+Zone:13,25-34,70,2003,Mushroom
 Buri Ram,25-34,36,2003,Mushroom
 Chaiyaphum,25-34,0,2003,Mushroom
 Nakhon Ratchasima,25-34,1,2003,Mushroom
 Surin,25-34,33,2003,Mushroom
-Zone 14,25-34,65,2003,Mushroom
+Zone:14,25-34,65,2003,Mushroom
 Amnat Charoen,25-34,3,2003,Mushroom
 Si Sa Ket,25-34,3,2003,Mushroom
 Ubon Ratchathani,25-34,59,2003,Mushroom
 Yasothon,25-34,0,2003,Mushroom
 South Region,25-34,10,2003,Mushroom
-Zone 15,25-34,2,2003,Mushroom
+Zone:15,25-34,2,2003,Mushroom
 Chumphon,25-34,0,2003,Mushroom
 Ranong,25-34,0,2003,Mushroom
 Surat Thani,25-34,2,2003,Mushroom
-Zone 16,25-34,6,2003,Mushroom
+Zone:16,25-34,6,2003,Mushroom
 Nakhon Si Thammarat,25-34,0,2003,Mushroom
 Phatthalung,25-34,0,2003,Mushroom
 Trang,25-34,6,2003,Mushroom
-Zone 17,25-34,2,2003,Mushroom
+Zone:17,25-34,2,2003,Mushroom
 Krabi,25-34,2,2003,Mushroom
 Phangnga,25-34,0,2003,Mushroom
 Phuket,25-34,0,2003,Mushroom
-Zone 18,25-34,0,2003,Mushroom
+Zone:18,25-34,0,2003,Mushroom
 Narathiwat,25-34,0,2003,Mushroom
 Pattani,25-34,0,2003,Mushroom
 Yala,25-34,0,2003,Mushroom
-Zone 19,25-34,0,2003,Mushroom
+Zone:19,25-34,0,2003,Mushroom
 Satun,25-34,0,2003,Mushroom
 Songkhla,25-34,0,2003,Mushroom
 Total,35-44,302,2003,Mushroom
 North Region,35-44,53,2003,Mushroom
-Zone 1,35-44,46,2003,Mushroom
+Zone:1,35-44,46,2003,Mushroom
 Chiang Mai,35-44,8,2003,Mushroom
 Chiang Rai,35-44,22,2003,Mushroom
 Lampang,35-44,8,2003,Mushroom
@@ -20354,98 +20354,98 @@ Mae Hong Son,35-44,0,2003,Mushroom
 Nan,35-44,3,2003,Mushroom
 Phayao,35-44,0,2003,Mushroom
 Phrae,35-44,0,2003,Mushroom
-Zone 2,35-44,4,2003,Mushroom
+Zone:2,35-44,4,2003,Mushroom
 Phetchabun,35-44,0,2003,Mushroom
 Phitsanulok,35-44,4,2003,Mushroom
 Sukhothai,35-44,0,2003,Mushroom
 Tak,35-44,0,2003,Mushroom
 Uttaradit,35-44,0,2003,Mushroom
-Zone 3,35-44,3,2003,Mushroom
+Zone:3,35-44,3,2003,Mushroom
 Kamphaeng Phet,35-44,2,2003,Mushroom
 Nakhon Sawan,35-44,1,2003,Mushroom
 Phichit,35-44,0,2003,Mushroom
 Uthai Thani,35-44,0,2003,Mushroom
 Central Region,35-44,21,2003,Mushroom
 Bangkok,35-44,0,2003,Mushroom
-Zone 4,35-44,0,2003,Mushroom
+Zone:4,35-44,0,2003,Mushroom
 Ang Thong,35-44,0,2003,Mushroom
 Nonthaburi,35-44,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,35-44,0,2003,Mushroom
 Pathum Thani,35-44,0,2003,Mushroom
-Zone 5,35-44,5,2003,Mushroom
+Zone:5,35-44,5,2003,Mushroom
 Chai Nat,35-44,0,2003,Mushroom
 Lop Buri,35-44,0,2003,Mushroom
 Saraburi,35-44,5,2003,Mushroom
 Sing Buri,35-44,0,2003,Mushroom
-Zone 6,35-44,2,2003,Mushroom
+Zone:6,35-44,2,2003,Mushroom
 Kanchanaburi,35-44,0,2003,Mushroom
 Nakhon Pathom,35-44,1,2003,Mushroom
 Ratchaburi,35-44,0,2003,Mushroom
 Suphan Buri,35-44,1,2003,Mushroom
-Zone 7,35-44,0,2003,Mushroom
+Zone:7,35-44,0,2003,Mushroom
 Phetchaburi,35-44,0,2003,Mushroom
 Prachuap Khiri Khan,35-44,0,2003,Mushroom
 Samut Sakhon,35-44,0,2003,Mushroom
 Samut Songkhram,35-44,0,2003,Mushroom
-Zone 8,35-44,4,2003,Mushroom
+Zone:8,35-44,4,2003,Mushroom
 Chachoengsao,35-44,0,2003,Mushroom
 Nakhon Nayok,35-44,0,2003,Mushroom
 Prachin Buri,35-44,2,2003,Mushroom
 Sa Kaeo,35-44,2,2003,Mushroom
 Samut Prakan,35-44,0,2003,Mushroom
-Zone 9,35-44,10,2003,Mushroom
+Zone:9,35-44,10,2003,Mushroom
 Chanthaburi,35-44,2,2003,Mushroom
 Chon Buri,35-44,1,2003,Mushroom
 Rayong,35-44,6,2003,Mushroom
 Trat,35-44,1,2003,Mushroom
 North-Eastern Region,35-44,220,2003,Mushroom
-Zone 10,35-44,29,2003,Mushroom
+Zone:10,35-44,29,2003,Mushroom
 Loei,35-44,26,2003,Mushroom
 Nong Bua Lam Phu,35-44,0,2003,Mushroom
 Nong Khai,35-44,0,2003,Mushroom
 Udon Thani,35-44,3,2003,Mushroom
-Zone 11,35-44,13,2003,Mushroom
+Zone:11,35-44,13,2003,Mushroom
 Kalasin,35-44,0,2003,Mushroom
 Mukdahan,35-44,1,2003,Mushroom
 Nakhon Phanom,35-44,2,2003,Mushroom
 Sakon Nakhon,35-44,10,2003,Mushroom
-Zone 12,35-44,7,2003,Mushroom
+Zone:12,35-44,7,2003,Mushroom
 Khon Kaen,35-44,2,2003,Mushroom
 Maha Sarakham,35-44,0,2003,Mushroom
 Roi Et,35-44,5,2003,Mushroom
-Zone 13,35-44,113,2003,Mushroom
+Zone:13,35-44,113,2003,Mushroom
 Buri Ram,35-44,50,2003,Mushroom
 Chaiyaphum,35-44,2,2003,Mushroom
 Nakhon Ratchasima,35-44,8,2003,Mushroom
 Surin,35-44,53,2003,Mushroom
-Zone 14,35-44,58,2003,Mushroom
+Zone:14,35-44,58,2003,Mushroom
 Amnat Charoen,35-44,3,2003,Mushroom
 Si Sa Ket,35-44,5,2003,Mushroom
 Ubon Ratchathani,35-44,49,2003,Mushroom
 Yasothon,35-44,1,2003,Mushroom
 South Region,35-44,8,2003,Mushroom
-Zone 15,35-44,3,2003,Mushroom
+Zone:15,35-44,3,2003,Mushroom
 Chumphon,35-44,0,2003,Mushroom
 Ranong,35-44,0,2003,Mushroom
 Surat Thani,35-44,3,2003,Mushroom
-Zone 16,35-44,2,2003,Mushroom
+Zone:16,35-44,2,2003,Mushroom
 Nakhon Si Thammarat,35-44,0,2003,Mushroom
 Phatthalung,35-44,0,2003,Mushroom
 Trang,35-44,2,2003,Mushroom
-Zone 17,35-44,3,2003,Mushroom
+Zone:17,35-44,3,2003,Mushroom
 Krabi,35-44,3,2003,Mushroom
 Phangnga,35-44,0,2003,Mushroom
 Phuket,35-44,0,2003,Mushroom
-Zone 18,35-44,0,2003,Mushroom
+Zone:18,35-44,0,2003,Mushroom
 Narathiwat,35-44,0,2003,Mushroom
 Pattani,35-44,0,2003,Mushroom
 Yala,35-44,0,2003,Mushroom
-Zone 19,35-44,0,2003,Mushroom
+Zone:19,35-44,0,2003,Mushroom
 Satun,35-44,0,2003,Mushroom
 Songkhla,35-44,0,2003,Mushroom
 Total,45-54,214,2003,Mushroom
 North Region,45-54,38,2003,Mushroom
-Zone 1,45-54,32,2003,Mushroom
+Zone:1,45-54,32,2003,Mushroom
 Chiang Mai,45-54,3,2003,Mushroom
 Chiang Rai,45-54,15,2003,Mushroom
 Lampang,45-54,6,2003,Mushroom
@@ -20454,98 +20454,98 @@ Mae Hong Son,45-54,1,2003,Mushroom
 Nan,45-54,1,2003,Mushroom
 Phayao,45-54,2,2003,Mushroom
 Phrae,45-54,0,2003,Mushroom
-Zone 2,45-54,4,2003,Mushroom
+Zone:2,45-54,4,2003,Mushroom
 Phetchabun,45-54,0,2003,Mushroom
 Phitsanulok,45-54,3,2003,Mushroom
 Sukhothai,45-54,0,2003,Mushroom
 Tak,45-54,1,2003,Mushroom
 Uttaradit,45-54,0,2003,Mushroom
-Zone 3,45-54,2,2003,Mushroom
+Zone:3,45-54,2,2003,Mushroom
 Kamphaeng Phet,45-54,2,2003,Mushroom
 Nakhon Sawan,45-54,0,2003,Mushroom
 Phichit,45-54,0,2003,Mushroom
 Uthai Thani,45-54,0,2003,Mushroom
 Central Region,45-54,15,2003,Mushroom
 Bangkok,45-54,0,2003,Mushroom
-Zone 4,45-54,0,2003,Mushroom
+Zone:4,45-54,0,2003,Mushroom
 Ang Thong,45-54,0,2003,Mushroom
 Nonthaburi,45-54,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,45-54,0,2003,Mushroom
 Pathum Thani,45-54,0,2003,Mushroom
-Zone 5,45-54,1,2003,Mushroom
+Zone:5,45-54,1,2003,Mushroom
 Chai Nat,45-54,0,2003,Mushroom
 Lop Buri,45-54,0,2003,Mushroom
 Saraburi,45-54,1,2003,Mushroom
 Sing Buri,45-54,0,2003,Mushroom
-Zone 6,45-54,5,2003,Mushroom
+Zone:6,45-54,5,2003,Mushroom
 Kanchanaburi,45-54,1,2003,Mushroom
 Nakhon Pathom,45-54,3,2003,Mushroom
 Ratchaburi,45-54,0,2003,Mushroom
 Suphan Buri,45-54,1,2003,Mushroom
-Zone 7,45-54,2,2003,Mushroom
+Zone:7,45-54,2,2003,Mushroom
 Phetchaburi,45-54,1,2003,Mushroom
 Prachuap Khiri Khan,45-54,1,2003,Mushroom
 Samut Sakhon,45-54,0,2003,Mushroom
 Samut Songkhram,45-54,0,2003,Mushroom
-Zone 8,45-54,5,2003,Mushroom
+Zone:8,45-54,5,2003,Mushroom
 Chachoengsao,45-54,1,2003,Mushroom
 Nakhon Nayok,45-54,0,2003,Mushroom
 Prachin Buri,45-54,3,2003,Mushroom
 Sa Kaeo,45-54,1,2003,Mushroom
 Samut Prakan,45-54,0,2003,Mushroom
-Zone 9,45-54,2,2003,Mushroom
+Zone:9,45-54,2,2003,Mushroom
 Chanthaburi,45-54,2,2003,Mushroom
 Chon Buri,45-54,0,2003,Mushroom
 Rayong,45-54,0,2003,Mushroom
 Trat,45-54,0,2003,Mushroom
 North-Eastern Region,45-54,157,2003,Mushroom
-Zone 10,45-54,16,2003,Mushroom
+Zone:10,45-54,16,2003,Mushroom
 Loei,45-54,12,2003,Mushroom
 Nong Bua Lam Phu,45-54,0,2003,Mushroom
 Nong Khai,45-54,0,2003,Mushroom
 Udon Thani,45-54,4,2003,Mushroom
-Zone 11,45-54,12,2003,Mushroom
+Zone:11,45-54,12,2003,Mushroom
 Kalasin,45-54,0,2003,Mushroom
 Mukdahan,45-54,1,2003,Mushroom
 Nakhon Phanom,45-54,2,2003,Mushroom
 Sakon Nakhon,45-54,9,2003,Mushroom
-Zone 12,45-54,5,2003,Mushroom
+Zone:12,45-54,5,2003,Mushroom
 Khon Kaen,45-54,2,2003,Mushroom
 Maha Sarakham,45-54,0,2003,Mushroom
 Roi Et,45-54,3,2003,Mushroom
-Zone 13,45-54,78,2003,Mushroom
+Zone:13,45-54,78,2003,Mushroom
 Buri Ram,45-54,39,2003,Mushroom
 Chaiyaphum,45-54,2,2003,Mushroom
 Nakhon Ratchasima,45-54,7,2003,Mushroom
 Surin,45-54,30,2003,Mushroom
-Zone 14,45-54,46,2003,Mushroom
+Zone:14,45-54,46,2003,Mushroom
 Amnat Charoen,45-54,5,2003,Mushroom
 Si Sa Ket,45-54,7,2003,Mushroom
 Ubon Ratchathani,45-54,34,2003,Mushroom
 Yasothon,45-54,0,2003,Mushroom
 South Region,45-54,4,2003,Mushroom
-Zone 15,45-54,1,2003,Mushroom
+Zone:15,45-54,1,2003,Mushroom
 Chumphon,45-54,0,2003,Mushroom
 Ranong,45-54,0,2003,Mushroom
 Surat Thani,45-54,1,2003,Mushroom
-Zone 16,45-54,2,2003,Mushroom
+Zone:16,45-54,2,2003,Mushroom
 Nakhon Si Thammarat,45-54,0,2003,Mushroom
 Phatthalung,45-54,0,2003,Mushroom
 Trang,45-54,2,2003,Mushroom
-Zone 17,45-54,0,2003,Mushroom
+Zone:17,45-54,0,2003,Mushroom
 Krabi,45-54,0,2003,Mushroom
 Phangnga,45-54,0,2003,Mushroom
 Phuket,45-54,0,2003,Mushroom
-Zone 18,45-54,1,2003,Mushroom
+Zone:18,45-54,1,2003,Mushroom
 Narathiwat,45-54,0,2003,Mushroom
 Pattani,45-54,0,2003,Mushroom
 Yala,45-54,1,2003,Mushroom
-Zone 19,45-54,0,2003,Mushroom
+Zone:19,45-54,0,2003,Mushroom
 Satun,45-54,0,2003,Mushroom
 Songkhla,45-54,0,2003,Mushroom
 Total,55-64,149,2003,Mushroom
 North Region,55-64,28,2003,Mushroom
-Zone 1,55-64,26,2003,Mushroom
+Zone:1,55-64,26,2003,Mushroom
 Chiang Mai,55-64,4,2003,Mushroom
 Chiang Rai,55-64,9,2003,Mushroom
 Lampang,55-64,7,2003,Mushroom
@@ -20554,98 +20554,98 @@ Mae Hong Son,55-64,0,2003,Mushroom
 Nan,55-64,0,2003,Mushroom
 Phayao,55-64,0,2003,Mushroom
 Phrae,55-64,0,2003,Mushroom
-Zone 2,55-64,1,2003,Mushroom
+Zone:2,55-64,1,2003,Mushroom
 Phetchabun,55-64,0,2003,Mushroom
 Phitsanulok,55-64,1,2003,Mushroom
 Sukhothai,55-64,0,2003,Mushroom
 Tak,55-64,0,2003,Mushroom
 Uttaradit,55-64,0,2003,Mushroom
-Zone 3,55-64,1,2003,Mushroom
+Zone:3,55-64,1,2003,Mushroom
 Kamphaeng Phet,55-64,1,2003,Mushroom
 Nakhon Sawan,55-64,0,2003,Mushroom
 Phichit,55-64,0,2003,Mushroom
 Uthai Thani,55-64,0,2003,Mushroom
 Central Region,55-64,7,2003,Mushroom
 Bangkok,55-64,0,2003,Mushroom
-Zone 4,55-64,0,2003,Mushroom
+Zone:4,55-64,0,2003,Mushroom
 Ang Thong,55-64,0,2003,Mushroom
 Nonthaburi,55-64,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,55-64,0,2003,Mushroom
 Pathum Thani,55-64,0,2003,Mushroom
-Zone 5,55-64,0,2003,Mushroom
+Zone:5,55-64,0,2003,Mushroom
 Chai Nat,55-64,0,2003,Mushroom
 Lop Buri,55-64,0,2003,Mushroom
 Saraburi,55-64,0,2003,Mushroom
 Sing Buri,55-64,0,2003,Mushroom
-Zone 6,55-64,2,2003,Mushroom
+Zone:6,55-64,2,2003,Mushroom
 Kanchanaburi,55-64,1,2003,Mushroom
 Nakhon Pathom,55-64,0,2003,Mushroom
 Ratchaburi,55-64,0,2003,Mushroom
 Suphan Buri,55-64,1,2003,Mushroom
-Zone 7,55-64,0,2003,Mushroom
+Zone:7,55-64,0,2003,Mushroom
 Phetchaburi,55-64,0,2003,Mushroom
 Prachuap Khiri Khan,55-64,0,2003,Mushroom
 Samut Sakhon,55-64,0,2003,Mushroom
 Samut Songkhram,55-64,0,2003,Mushroom
-Zone 8,55-64,1,2003,Mushroom
+Zone:8,55-64,1,2003,Mushroom
 Chachoengsao,55-64,0,2003,Mushroom
 Nakhon Nayok,55-64,0,2003,Mushroom
 Prachin Buri,55-64,0,2003,Mushroom
 Sa Kaeo,55-64,1,2003,Mushroom
 Samut Prakan,55-64,0,2003,Mushroom
-Zone 9,55-64,4,2003,Mushroom
+Zone:9,55-64,4,2003,Mushroom
 Chanthaburi,55-64,4,2003,Mushroom
 Chon Buri,55-64,0,2003,Mushroom
 Rayong,55-64,0,2003,Mushroom
 Trat,55-64,0,2003,Mushroom
 North-Eastern Region,55-64,111,2003,Mushroom
-Zone 10,55-64,10,2003,Mushroom
+Zone:10,55-64,10,2003,Mushroom
 Loei,55-64,7,2003,Mushroom
 Nong Bua Lam Phu,55-64,0,2003,Mushroom
 Nong Khai,55-64,0,2003,Mushroom
 Udon Thani,55-64,3,2003,Mushroom
-Zone 11,55-64,7,2003,Mushroom
+Zone:11,55-64,7,2003,Mushroom
 Kalasin,55-64,0,2003,Mushroom
 Mukdahan,55-64,2,2003,Mushroom
 Nakhon Phanom,55-64,1,2003,Mushroom
 Sakon Nakhon,55-64,4,2003,Mushroom
-Zone 12,55-64,8,2003,Mushroom
+Zone:12,55-64,8,2003,Mushroom
 Khon Kaen,55-64,2,2003,Mushroom
 Maha Sarakham,55-64,0,2003,Mushroom
 Roi Et,55-64,6,2003,Mushroom
-Zone 13,55-64,53,2003,Mushroom
+Zone:13,55-64,53,2003,Mushroom
 Buri Ram,55-64,27,2003,Mushroom
 Chaiyaphum,55-64,1,2003,Mushroom
 Nakhon Ratchasima,55-64,3,2003,Mushroom
 Surin,55-64,22,2003,Mushroom
-Zone 14,55-64,33,2003,Mushroom
+Zone:14,55-64,33,2003,Mushroom
 Amnat Charoen,55-64,5,2003,Mushroom
 Si Sa Ket,55-64,3,2003,Mushroom
 Ubon Ratchathani,55-64,25,2003,Mushroom
 Yasothon,55-64,0,2003,Mushroom
 South Region,55-64,3,2003,Mushroom
-Zone 15,55-64,1,2003,Mushroom
+Zone:15,55-64,1,2003,Mushroom
 Chumphon,55-64,0,2003,Mushroom
 Ranong,55-64,0,2003,Mushroom
 Surat Thani,55-64,1,2003,Mushroom
-Zone 16,55-64,1,2003,Mushroom
+Zone:16,55-64,1,2003,Mushroom
 Nakhon Si Thammarat,55-64,0,2003,Mushroom
 Phatthalung,55-64,0,2003,Mushroom
 Trang,55-64,1,2003,Mushroom
-Zone 17,55-64,0,2003,Mushroom
+Zone:17,55-64,0,2003,Mushroom
 Krabi,55-64,0,2003,Mushroom
 Phangnga,55-64,0,2003,Mushroom
 Phuket,55-64,0,2003,Mushroom
-Zone 18,55-64,0,2003,Mushroom
+Zone:18,55-64,0,2003,Mushroom
 Narathiwat,55-64,0,2003,Mushroom
 Pattani,55-64,0,2003,Mushroom
 Yala,55-64,0,2003,Mushroom
-Zone 19,55-64,1,2003,Mushroom
+Zone:19,55-64,1,2003,Mushroom
 Satun,55-64,0,2003,Mushroom
 Songkhla,55-64,1,2003,Mushroom
 Total,65+,137,2003,Mushroom
 North Region,65+,23,2003,Mushroom
-Zone 1,65+,22,2003,Mushroom
+Zone:1,65+,22,2003,Mushroom
 Chiang Mai,65+,2,2003,Mushroom
 Chiang Rai,65+,10,2003,Mushroom
 Lampang,65+,2,2003,Mushroom
@@ -20654,98 +20654,98 @@ Mae Hong Son,65+,0,2003,Mushroom
 Nan,65+,1,2003,Mushroom
 Phayao,65+,1,2003,Mushroom
 Phrae,65+,0,2003,Mushroom
-Zone 2,65+,1,2003,Mushroom
+Zone:2,65+,1,2003,Mushroom
 Phetchabun,65+,0,2003,Mushroom
 Phitsanulok,65+,1,2003,Mushroom
 Sukhothai,65+,0,2003,Mushroom
 Tak,65+,0,2003,Mushroom
 Uttaradit,65+,0,2003,Mushroom
-Zone 3,65+,0,2003,Mushroom
+Zone:3,65+,0,2003,Mushroom
 Kamphaeng Phet,65+,0,2003,Mushroom
 Nakhon Sawan,65+,0,2003,Mushroom
 Phichit,65+,0,2003,Mushroom
 Uthai Thani,65+,0,2003,Mushroom
 Central Region,65+,3,2003,Mushroom
 Bangkok,65+,0,2003,Mushroom
-Zone 4,65+,0,2003,Mushroom
+Zone:4,65+,0,2003,Mushroom
 Ang Thong,65+,0,2003,Mushroom
 Nonthaburi,65+,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,65+,0,2003,Mushroom
 Pathum Thani,65+,0,2003,Mushroom
-Zone 5,65+,0,2003,Mushroom
+Zone:5,65+,0,2003,Mushroom
 Chai Nat,65+,0,2003,Mushroom
 Lop Buri,65+,0,2003,Mushroom
 Saraburi,65+,0,2003,Mushroom
 Sing Buri,65+,0,2003,Mushroom
-Zone 6,65+,2,2003,Mushroom
+Zone:6,65+,2,2003,Mushroom
 Kanchanaburi,65+,0,2003,Mushroom
 Nakhon Pathom,65+,1,2003,Mushroom
 Ratchaburi,65+,0,2003,Mushroom
 Suphan Buri,65+,1,2003,Mushroom
-Zone 7,65+,0,2003,Mushroom
+Zone:7,65+,0,2003,Mushroom
 Phetchaburi,65+,0,2003,Mushroom
 Prachuap Khiri Khan,65+,0,2003,Mushroom
 Samut Sakhon,65+,0,2003,Mushroom
 Samut Songkhram,65+,0,2003,Mushroom
-Zone 8,65+,0,2003,Mushroom
+Zone:8,65+,0,2003,Mushroom
 Chachoengsao,65+,0,2003,Mushroom
 Nakhon Nayok,65+,0,2003,Mushroom
 Prachin Buri,65+,0,2003,Mushroom
 Sa Kaeo,65+,0,2003,Mushroom
 Samut Prakan,65+,0,2003,Mushroom
-Zone 9,65+,1,2003,Mushroom
+Zone:9,65+,1,2003,Mushroom
 Chanthaburi,65+,0,2003,Mushroom
 Chon Buri,65+,0,2003,Mushroom
 Rayong,65+,1,2003,Mushroom
 Trat,65+,0,2003,Mushroom
 North-Eastern Region,65+,108,2003,Mushroom
-Zone 10,65+,5,2003,Mushroom
+Zone:10,65+,5,2003,Mushroom
 Loei,65+,4,2003,Mushroom
 Nong Bua Lam Phu,65+,0,2003,Mushroom
 Nong Khai,65+,0,2003,Mushroom
 Udon Thani,65+,1,2003,Mushroom
-Zone 11,65+,7,2003,Mushroom
+Zone:11,65+,7,2003,Mushroom
 Kalasin,65+,0,2003,Mushroom
 Mukdahan,65+,0,2003,Mushroom
 Nakhon Phanom,65+,0,2003,Mushroom
 Sakon Nakhon,65+,7,2003,Mushroom
-Zone 12,65+,5,2003,Mushroom
+Zone:12,65+,5,2003,Mushroom
 Khon Kaen,65+,2,2003,Mushroom
 Maha Sarakham,65+,0,2003,Mushroom
 Roi Et,65+,3,2003,Mushroom
-Zone 13,65+,50,2003,Mushroom
+Zone:13,65+,50,2003,Mushroom
 Buri Ram,65+,24,2003,Mushroom
 Chaiyaphum,65+,1,2003,Mushroom
 Nakhon Ratchasima,65+,6,2003,Mushroom
 Surin,65+,19,2003,Mushroom
-Zone 14,65+,41,2003,Mushroom
+Zone:14,65+,41,2003,Mushroom
 Amnat Charoen,65+,2,2003,Mushroom
 Si Sa Ket,65+,2,2003,Mushroom
 Ubon Ratchathani,65+,36,2003,Mushroom
 Yasothon,65+,1,2003,Mushroom
 South Region,65+,3,2003,Mushroom
-Zone 15,65+,2,2003,Mushroom
+Zone:15,65+,2,2003,Mushroom
 Chumphon,65+,0,2003,Mushroom
 Ranong,65+,0,2003,Mushroom
 Surat Thani,65+,2,2003,Mushroom
-Zone 16,65+,1,2003,Mushroom
+Zone:16,65+,1,2003,Mushroom
 Nakhon Si Thammarat,65+,0,2003,Mushroom
 Phatthalung,65+,0,2003,Mushroom
 Trang,65+,1,2003,Mushroom
-Zone 17,65+,0,2003,Mushroom
+Zone:17,65+,0,2003,Mushroom
 Krabi,65+,0,2003,Mushroom
 Phangnga,65+,0,2003,Mushroom
 Phuket,65+,0,2003,Mushroom
-Zone 18,65+,0,2003,Mushroom
+Zone:18,65+,0,2003,Mushroom
 Narathiwat,65+,0,2003,Mushroom
 Pattani,65+,0,2003,Mushroom
 Yala,65+,0,2003,Mushroom
-Zone 19,65+,0,2003,Mushroom
+Zone:19,65+,0,2003,Mushroom
 Satun,65+,0,2003,Mushroom
 Songkhla,65+,0,2003,Mushroom
 Total,Unknown,0,2003,Mushroom
 North Region,Unknown,0,2003,Mushroom
-Zone 1,Unknown,0,2003,Mushroom
+Zone:1,Unknown,0,2003,Mushroom
 Chiang Mai,Unknown,0,2003,Mushroom
 Chiang Rai,Unknown,0,2003,Mushroom
 Lampang,Unknown,0,2003,Mushroom
@@ -20754,93 +20754,93 @@ Mae Hong Son,Unknown,0,2003,Mushroom
 Nan,Unknown,0,2003,Mushroom
 Phayao,Unknown,0,2003,Mushroom
 Phrae,Unknown,0,2003,Mushroom
-Zone 2,Unknown,0,2003,Mushroom
+Zone:2,Unknown,0,2003,Mushroom
 Phetchabun,Unknown,0,2003,Mushroom
 Phitsanulok,Unknown,0,2003,Mushroom
 Sukhothai,Unknown,0,2003,Mushroom
 Tak,Unknown,0,2003,Mushroom
 Uttaradit,Unknown,0,2003,Mushroom
-Zone 3,Unknown,0,2003,Mushroom
+Zone:3,Unknown,0,2003,Mushroom
 Kamphaeng Phet,Unknown,0,2003,Mushroom
 Nakhon Sawan,Unknown,0,2003,Mushroom
 Phichit,Unknown,0,2003,Mushroom
 Uthai Thani,Unknown,0,2003,Mushroom
 Central Region,Unknown,0,2003,Mushroom
 Bangkok,Unknown,0,2003,Mushroom
-Zone 4,Unknown,0,2003,Mushroom
+Zone:4,Unknown,0,2003,Mushroom
 Ang Thong,Unknown,0,2003,Mushroom
 Nonthaburi,Unknown,0,2003,Mushroom
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Mushroom
 Pathum Thani,Unknown,0,2003,Mushroom
-Zone 5,Unknown,0,2003,Mushroom
+Zone:5,Unknown,0,2003,Mushroom
 Chai Nat,Unknown,0,2003,Mushroom
 Lop Buri,Unknown,0,2003,Mushroom
 Saraburi,Unknown,0,2003,Mushroom
 Sing Buri,Unknown,0,2003,Mushroom
-Zone 6,Unknown,0,2003,Mushroom
+Zone:6,Unknown,0,2003,Mushroom
 Kanchanaburi,Unknown,0,2003,Mushroom
 Nakhon Pathom,Unknown,0,2003,Mushroom
 Ratchaburi,Unknown,0,2003,Mushroom
 Suphan Buri,Unknown,0,2003,Mushroom
-Zone 7,Unknown,0,2003,Mushroom
+Zone:7,Unknown,0,2003,Mushroom
 Phetchaburi,Unknown,0,2003,Mushroom
 Prachuap Khiri Khan,Unknown,0,2003,Mushroom
 Samut Sakhon,Unknown,0,2003,Mushroom
 Samut Songkhram,Unknown,0,2003,Mushroom
-Zone 8,Unknown,0,2003,Mushroom
+Zone:8,Unknown,0,2003,Mushroom
 Chachoengsao,Unknown,0,2003,Mushroom
 Nakhon Nayok,Unknown,0,2003,Mushroom
 Prachin Buri,Unknown,0,2003,Mushroom
 Sa Kaeo,Unknown,0,2003,Mushroom
 Samut Prakan,Unknown,0,2003,Mushroom
-Zone 9,Unknown,0,2003,Mushroom
+Zone:9,Unknown,0,2003,Mushroom
 Chanthaburi,Unknown,0,2003,Mushroom
 Chon Buri,Unknown,0,2003,Mushroom
 Rayong,Unknown,0,2003,Mushroom
 Trat,Unknown,0,2003,Mushroom
 North-Eastern Region,Unknown,0,2003,Mushroom
-Zone 10,Unknown,0,2003,Mushroom
+Zone:10,Unknown,0,2003,Mushroom
 Loei,Unknown,0,2003,Mushroom
 Nong Bua Lam Phu,Unknown,0,2003,Mushroom
 Nong Khai,Unknown,0,2003,Mushroom
 Udon Thani,Unknown,0,2003,Mushroom
-Zone 11,Unknown,0,2003,Mushroom
+Zone:11,Unknown,0,2003,Mushroom
 Kalasin,Unknown,0,2003,Mushroom
 Mukdahan,Unknown,0,2003,Mushroom
 Nakhon Phanom,Unknown,0,2003,Mushroom
 Sakon Nakhon,Unknown,0,2003,Mushroom
-Zone 12,Unknown,0,2003,Mushroom
+Zone:12,Unknown,0,2003,Mushroom
 Khon Kaen,Unknown,0,2003,Mushroom
 Maha Sarakham,Unknown,0,2003,Mushroom
 Roi Et,Unknown,0,2003,Mushroom
-Zone 13,Unknown,0,2003,Mushroom
+Zone:13,Unknown,0,2003,Mushroom
 Buri Ram,Unknown,0,2003,Mushroom
 Chaiyaphum,Unknown,0,2003,Mushroom
 Nakhon Ratchasima,Unknown,0,2003,Mushroom
 Surin,Unknown,0,2003,Mushroom
-Zone 14,Unknown,0,2003,Mushroom
+Zone:14,Unknown,0,2003,Mushroom
 Amnat Charoen,Unknown,0,2003,Mushroom
 Si Sa Ket,Unknown,0,2003,Mushroom
 Ubon Ratchathani,Unknown,0,2003,Mushroom
 Yasothon,Unknown,0,2003,Mushroom
 South Region,Unknown,0,2003,Mushroom
-Zone 15,Unknown,0,2003,Mushroom
+Zone:15,Unknown,0,2003,Mushroom
 Chumphon,Unknown,0,2003,Mushroom
 Ranong,Unknown,0,2003,Mushroom
 Surat Thani,Unknown,0,2003,Mushroom
-Zone 16,Unknown,0,2003,Mushroom
+Zone:16,Unknown,0,2003,Mushroom
 Nakhon Si Thammarat,Unknown,0,2003,Mushroom
 Phatthalung,Unknown,0,2003,Mushroom
 Trang,Unknown,0,2003,Mushroom
-Zone 17,Unknown,0,2003,Mushroom
+Zone:17,Unknown,0,2003,Mushroom
 Krabi,Unknown,0,2003,Mushroom
 Phangnga,Unknown,0,2003,Mushroom
 Phuket,Unknown,0,2003,Mushroom
-Zone 18,Unknown,0,2003,Mushroom
+Zone:18,Unknown,0,2003,Mushroom
 Narathiwat,Unknown,0,2003,Mushroom
 Pattani,Unknown,0,2003,Mushroom
 Yala,Unknown,0,2003,Mushroom
-Zone 19,Unknown,0,2003,Mushroom
+Zone:19,Unknown,0,2003,Mushroom
 Satun,Unknown,0,2003,Mushroom
 Songkhla,Unknown,0,2003,Mushroom
 Total,Total,2547,2023,Mushroom

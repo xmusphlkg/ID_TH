@@ -27505,7 +27505,7 @@ Trang,Unknown,0,2014,Foodpoi
 Yala,Unknown,0,2014,Foodpoi
 Total,Total,154678,2004,Foodpoi
 North Region,Total,31009,2004,Foodpoi
-Zone 1,Total,17150,2004,Foodpoi
+Zone:1,Total,17150,2004,Foodpoi
 Chiang Mai,Total,3651,2004,Foodpoi
 Chiang Rai,Total,3474,2004,Foodpoi
 Lampang,Total,3571,2004,Foodpoi
@@ -27514,98 +27514,98 @@ Mae Hong Son,Total,400,2004,Foodpoi
 Nan,Total,1575,2004,Foodpoi
 Phayao,Total,1697,2004,Foodpoi
 Phrae,Total,1131,2004,Foodpoi
-Zone 2,Total,9632,2004,Foodpoi
+Zone:2,Total,9632,2004,Foodpoi
 Phetchabun,Total,1949,2004,Foodpoi
 Phitsanulok,Total,3858,2004,Foodpoi
 Sukhothai,Total,1603,2004,Foodpoi
 Tak,Total,1072,2004,Foodpoi
 Uttaradit,Total,1150,2004,Foodpoi
-Zone 3,Total,4227,2004,Foodpoi
+Zone:3,Total,4227,2004,Foodpoi
 Kamphaeng Phet,Total,839,2004,Foodpoi
 Nakhon Sawan,Total,2026,2004,Foodpoi
 Phichit,Total,637,2004,Foodpoi
 Uthai Thani,Total,725,2004,Foodpoi
 Central Region,Total,30834,2004,Foodpoi
 Bangkok,Total,3559,2004,Foodpoi
-Zone 4,Total,2987,2004,Foodpoi
+Zone:4,Total,2987,2004,Foodpoi
 Ang Thong,Total,259,2004,Foodpoi
 Nonthaburi,Total,764,2004,Foodpoi
 P.Nakhon S.Ayutthaya,Total,1273,2004,Foodpoi
 Pathum Thani,Total,691,2004,Foodpoi
-Zone 5,Total,2183,2004,Foodpoi
+Zone:5,Total,2183,2004,Foodpoi
 Chai Nat,Total,569,2004,Foodpoi
 Lop Buri,Total,636,2004,Foodpoi
 Saraburi,Total,565,2004,Foodpoi
 Sing Buri,Total,413,2004,Foodpoi
-Zone 6,Total,5057,2004,Foodpoi
+Zone:6,Total,5057,2004,Foodpoi
 Kanchanaburi,Total,1062,2004,Foodpoi
 Nakhon Pathom,Total,2358,2004,Foodpoi
 Ratchaburi,Total,893,2004,Foodpoi
 Suphan Buri,Total,744,2004,Foodpoi
-Zone 7,Total,2334,2004,Foodpoi
+Zone:7,Total,2334,2004,Foodpoi
 Phetchaburi,Total,686,2004,Foodpoi
 Prachuap Khiri Khan,Total,689,2004,Foodpoi
 Samut Sakhon,Total,796,2004,Foodpoi
 Samut Songkhram,Total,163,2004,Foodpoi
-Zone 8,Total,6287,2004,Foodpoi
+Zone:8,Total,6287,2004,Foodpoi
 Chachoengsao,Total,1238,2004,Foodpoi
 Nakhon Nayok,Total,443,2004,Foodpoi
 Prachin Buri,Total,1874,2004,Foodpoi
 Sa Kaeo,Total,606,2004,Foodpoi
 Samut Prakan,Total,2126,2004,Foodpoi
-Zone 9,Total,8427,2004,Foodpoi
+Zone:9,Total,8427,2004,Foodpoi
 Chanthaburi,Total,1235,2004,Foodpoi
 Chon Buri,Total,1899,2004,Foodpoi
 Rayong,Total,4522,2004,Foodpoi
 Trat,Total,771,2004,Foodpoi
 North-Eastern Region,Total,86078,2004,Foodpoi
-Zone 10,Total,13239,2004,Foodpoi
+Zone:10,Total,13239,2004,Foodpoi
 Loei,Total,2072,2004,Foodpoi
 Nong Bua Lam Phu,Total,2165,2004,Foodpoi
 Nong Khai,Total,2178,2004,Foodpoi
 Udon Thani,Total,6824,2004,Foodpoi
-Zone 11,Total,10308,2004,Foodpoi
+Zone:11,Total,10308,2004,Foodpoi
 Kalasin,Total,4188,2004,Foodpoi
 Mukdahan,Total,1657,2004,Foodpoi
 Nakhon Phanom,Total,1666,2004,Foodpoi
 Sakon Nakhon,Total,2797,2004,Foodpoi
-Zone 12,Total,15205,2004,Foodpoi
+Zone:12,Total,15205,2004,Foodpoi
 Khon Kaen,Total,8050,2004,Foodpoi
 Maha Sarakham,Total,2281,2004,Foodpoi
 Roi Et,Total,4874,2004,Foodpoi
-Zone 13,Total,24089,2004,Foodpoi
+Zone:13,Total,24089,2004,Foodpoi
 Buri Ram,Total,5370,2004,Foodpoi
 Chaiyaphum,Total,4295,2004,Foodpoi
 Nakhon Ratchasima,Total,8486,2004,Foodpoi
 Surin,Total,5938,2004,Foodpoi
-Zone 14,Total,23237,2004,Foodpoi
+Zone:14,Total,23237,2004,Foodpoi
 Amnat Charoen,Total,1352,2004,Foodpoi
 Si Sa Ket,Total,7826,2004,Foodpoi
 Ubon Ratchathani,Total,10370,2004,Foodpoi
 Yasothon,Total,3689,2004,Foodpoi
 South Region,Total,6757,2004,Foodpoi
-Zone 15,Total,1736,2004,Foodpoi
+Zone:15,Total,1736,2004,Foodpoi
 Chumphon,Total,595,2004,Foodpoi
 Ranong,Total,200,2004,Foodpoi
 Surat Thani,Total,941,2004,Foodpoi
-Zone 16,Total,2055,2004,Foodpoi
+Zone:16,Total,2055,2004,Foodpoi
 Nakhon Si Thammarat,Total,1132,2004,Foodpoi
 Phatthalung,Total,367,2004,Foodpoi
 Trang,Total,556,2004,Foodpoi
-Zone 17,Total,850,2004,Foodpoi
+Zone:17,Total,850,2004,Foodpoi
 Krabi,Total,434,2004,Foodpoi
 Phangnga,Total,222,2004,Foodpoi
 Phuket,Total,194,2004,Foodpoi
-Zone 18,Total,760,2004,Foodpoi
+Zone:18,Total,760,2004,Foodpoi
 Narathiwat,Total,155,2004,Foodpoi
 Pattani,Total,205,2004,Foodpoi
 Yala,Total,400,2004,Foodpoi
-Zone 19,Total,1356,2004,Foodpoi
+Zone:19,Total,1356,2004,Foodpoi
 Satun,Total,235,2004,Foodpoi
 Songkhla,Total,1121,2004,Foodpoi
 Total,0,132,2004,Foodpoi
 North Region,0,7,2004,Foodpoi
-Zone 1,0,1,2004,Foodpoi
+Zone:1,0,1,2004,Foodpoi
 Chiang Mai,0,0,2004,Foodpoi
 Chiang Rai,0,1,2004,Foodpoi
 Lampang,0,0,2004,Foodpoi
@@ -27614,98 +27614,98 @@ Mae Hong Son,0,0,2004,Foodpoi
 Nan,0,0,2004,Foodpoi
 Phayao,0,0,2004,Foodpoi
 Phrae,0,0,2004,Foodpoi
-Zone 2,0,4,2004,Foodpoi
+Zone:2,0,4,2004,Foodpoi
 Phetchabun,0,0,2004,Foodpoi
 Phitsanulok,0,1,2004,Foodpoi
 Sukhothai,0,0,2004,Foodpoi
 Tak,0,1,2004,Foodpoi
 Uttaradit,0,2,2004,Foodpoi
-Zone 3,0,2,2004,Foodpoi
+Zone:3,0,2,2004,Foodpoi
 Kamphaeng Phet,0,0,2004,Foodpoi
 Nakhon Sawan,0,2,2004,Foodpoi
 Phichit,0,0,2004,Foodpoi
 Uthai Thani,0,0,2004,Foodpoi
 Central Region,0,21,2004,Foodpoi
 Bangkok,0,7,2004,Foodpoi
-Zone 4,0,2,2004,Foodpoi
+Zone:4,0,2,2004,Foodpoi
 Ang Thong,0,0,2004,Foodpoi
 Nonthaburi,0,0,2004,Foodpoi
 P.Nakhon S.Ayutthaya,0,2,2004,Foodpoi
 Pathum Thani,0,0,2004,Foodpoi
-Zone 5,0,0,2004,Foodpoi
+Zone:5,0,0,2004,Foodpoi
 Chai Nat,0,0,2004,Foodpoi
 Lop Buri,0,0,2004,Foodpoi
 Saraburi,0,0,2004,Foodpoi
 Sing Buri,0,0,2004,Foodpoi
-Zone 6,0,0,2004,Foodpoi
+Zone:6,0,0,2004,Foodpoi
 Kanchanaburi,0,0,2004,Foodpoi
 Nakhon Pathom,0,0,2004,Foodpoi
 Ratchaburi,0,0,2004,Foodpoi
 Suphan Buri,0,0,2004,Foodpoi
-Zone 7,0,1,2004,Foodpoi
+Zone:7,0,1,2004,Foodpoi
 Phetchaburi,0,1,2004,Foodpoi
 Prachuap Khiri Khan,0,0,2004,Foodpoi
 Samut Sakhon,0,0,2004,Foodpoi
 Samut Songkhram,0,0,2004,Foodpoi
-Zone 8,0,8,2004,Foodpoi
+Zone:8,0,8,2004,Foodpoi
 Chachoengsao,0,0,2004,Foodpoi
 Nakhon Nayok,0,0,2004,Foodpoi
 Prachin Buri,0,2,2004,Foodpoi
 Sa Kaeo,0,0,2004,Foodpoi
 Samut Prakan,0,6,2004,Foodpoi
-Zone 9,0,3,2004,Foodpoi
+Zone:9,0,3,2004,Foodpoi
 Chanthaburi,0,2,2004,Foodpoi
 Chon Buri,0,1,2004,Foodpoi
 Rayong,0,0,2004,Foodpoi
 Trat,0,0,2004,Foodpoi
 North-Eastern Region,0,99,2004,Foodpoi
-Zone 10,0,11,2004,Foodpoi
+Zone:10,0,11,2004,Foodpoi
 Loei,0,0,2004,Foodpoi
 Nong Bua Lam Phu,0,0,2004,Foodpoi
 Nong Khai,0,1,2004,Foodpoi
 Udon Thani,0,10,2004,Foodpoi
-Zone 11,0,9,2004,Foodpoi
+Zone:11,0,9,2004,Foodpoi
 Kalasin,0,0,2004,Foodpoi
 Mukdahan,0,1,2004,Foodpoi
 Nakhon Phanom,0,1,2004,Foodpoi
 Sakon Nakhon,0,7,2004,Foodpoi
-Zone 12,0,14,2004,Foodpoi
+Zone:12,0,14,2004,Foodpoi
 Khon Kaen,0,8,2004,Foodpoi
 Maha Sarakham,0,2,2004,Foodpoi
 Roi Et,0,4,2004,Foodpoi
-Zone 13,0,38,2004,Foodpoi
+Zone:13,0,38,2004,Foodpoi
 Buri Ram,0,1,2004,Foodpoi
 Chaiyaphum,0,5,2004,Foodpoi
 Nakhon Ratchasima,0,13,2004,Foodpoi
 Surin,0,19,2004,Foodpoi
-Zone 14,0,27,2004,Foodpoi
+Zone:14,0,27,2004,Foodpoi
 Amnat Charoen,0,0,2004,Foodpoi
 Si Sa Ket,0,10,2004,Foodpoi
 Ubon Ratchathani,0,15,2004,Foodpoi
 Yasothon,0,2,2004,Foodpoi
 South Region,0,5,2004,Foodpoi
-Zone 15,0,0,2004,Foodpoi
+Zone:15,0,0,2004,Foodpoi
 Chumphon,0,0,2004,Foodpoi
 Ranong,0,0,2004,Foodpoi
 Surat Thani,0,0,2004,Foodpoi
-Zone 16,0,3,2004,Foodpoi
+Zone:16,0,3,2004,Foodpoi
 Nakhon Si Thammarat,0,3,2004,Foodpoi
 Phatthalung,0,0,2004,Foodpoi
 Trang,0,0,2004,Foodpoi
-Zone 17,0,0,2004,Foodpoi
+Zone:17,0,0,2004,Foodpoi
 Krabi,0,0,2004,Foodpoi
 Phangnga,0,0,2004,Foodpoi
 Phuket,0,0,2004,Foodpoi
-Zone 18,0,1,2004,Foodpoi
+Zone:18,0,1,2004,Foodpoi
 Narathiwat,0,0,2004,Foodpoi
 Pattani,0,1,2004,Foodpoi
 Yala,0,0,2004,Foodpoi
-Zone 19,0,1,2004,Foodpoi
+Zone:19,0,1,2004,Foodpoi
 Satun,0,0,2004,Foodpoi
 Songkhla,0,1,2004,Foodpoi
 Total,<1,5177,2004,Foodpoi
 North Region,<1,750,2004,Foodpoi
-Zone 1,<1,250,2004,Foodpoi
+Zone:1,<1,250,2004,Foodpoi
 Chiang Mai,<1,73,2004,Foodpoi
 Chiang Rai,<1,66,2004,Foodpoi
 Lampang,<1,28,2004,Foodpoi
@@ -27714,98 +27714,98 @@ Mae Hong Son,<1,4,2004,Foodpoi
 Nan,<1,7,2004,Foodpoi
 Phayao,<1,35,2004,Foodpoi
 Phrae,<1,16,2004,Foodpoi
-Zone 2,<1,407,2004,Foodpoi
+Zone:2,<1,407,2004,Foodpoi
 Phetchabun,<1,37,2004,Foodpoi
 Phitsanulok,<1,227,2004,Foodpoi
 Sukhothai,<1,76,2004,Foodpoi
 Tak,<1,29,2004,Foodpoi
 Uttaradit,<1,38,2004,Foodpoi
-Zone 3,<1,93,2004,Foodpoi
+Zone:3,<1,93,2004,Foodpoi
 Kamphaeng Phet,<1,24,2004,Foodpoi
 Nakhon Sawan,<1,51,2004,Foodpoi
 Phichit,<1,2,2004,Foodpoi
 Uthai Thani,<1,16,2004,Foodpoi
 Central Region,<1,870,2004,Foodpoi
 Bangkok,<1,115,2004,Foodpoi
-Zone 4,<1,89,2004,Foodpoi
+Zone:4,<1,89,2004,Foodpoi
 Ang Thong,<1,1,2004,Foodpoi
 Nonthaburi,<1,19,2004,Foodpoi
 P.Nakhon S.Ayutthaya,<1,57,2004,Foodpoi
 Pathum Thani,<1,12,2004,Foodpoi
-Zone 5,<1,38,2004,Foodpoi
+Zone:5,<1,38,2004,Foodpoi
 Chai Nat,<1,5,2004,Foodpoi
 Lop Buri,<1,17,2004,Foodpoi
 Saraburi,<1,4,2004,Foodpoi
 Sing Buri,<1,12,2004,Foodpoi
-Zone 6,<1,90,2004,Foodpoi
+Zone:6,<1,90,2004,Foodpoi
 Kanchanaburi,<1,12,2004,Foodpoi
 Nakhon Pathom,<1,50,2004,Foodpoi
 Ratchaburi,<1,7,2004,Foodpoi
 Suphan Buri,<1,21,2004,Foodpoi
-Zone 7,<1,66,2004,Foodpoi
+Zone:7,<1,66,2004,Foodpoi
 Phetchaburi,<1,9,2004,Foodpoi
 Prachuap Khiri Khan,<1,12,2004,Foodpoi
 Samut Sakhon,<1,44,2004,Foodpoi
 Samut Songkhram,<1,1,2004,Foodpoi
-Zone 8,<1,239,2004,Foodpoi
+Zone:8,<1,239,2004,Foodpoi
 Chachoengsao,<1,21,2004,Foodpoi
 Nakhon Nayok,<1,13,2004,Foodpoi
 Prachin Buri,<1,39,2004,Foodpoi
 Sa Kaeo,<1,24,2004,Foodpoi
 Samut Prakan,<1,142,2004,Foodpoi
-Zone 9,<1,233,2004,Foodpoi
+Zone:9,<1,233,2004,Foodpoi
 Chanthaburi,<1,23,2004,Foodpoi
 Chon Buri,<1,73,2004,Foodpoi
 Rayong,<1,126,2004,Foodpoi
 Trat,<1,11,2004,Foodpoi
 North-Eastern Region,<1,3296,2004,Foodpoi
-Zone 10,<1,429,2004,Foodpoi
+Zone:10,<1,429,2004,Foodpoi
 Loei,<1,41,2004,Foodpoi
 Nong Bua Lam Phu,<1,59,2004,Foodpoi
 Nong Khai,<1,80,2004,Foodpoi
 Udon Thani,<1,249,2004,Foodpoi
-Zone 11,<1,296,2004,Foodpoi
+Zone:11,<1,296,2004,Foodpoi
 Kalasin,<1,110,2004,Foodpoi
 Mukdahan,<1,37,2004,Foodpoi
 Nakhon Phanom,<1,31,2004,Foodpoi
 Sakon Nakhon,<1,118,2004,Foodpoi
-Zone 12,<1,419,2004,Foodpoi
+Zone:12,<1,419,2004,Foodpoi
 Khon Kaen,<1,312,2004,Foodpoi
 Maha Sarakham,<1,49,2004,Foodpoi
 Roi Et,<1,58,2004,Foodpoi
-Zone 13,<1,831,2004,Foodpoi
+Zone:13,<1,831,2004,Foodpoi
 Buri Ram,<1,122,2004,Foodpoi
 Chaiyaphum,<1,147,2004,Foodpoi
 Nakhon Ratchasima,<1,361,2004,Foodpoi
 Surin,<1,201,2004,Foodpoi
-Zone 14,<1,1321,2004,Foodpoi
+Zone:14,<1,1321,2004,Foodpoi
 Amnat Charoen,<1,30,2004,Foodpoi
 Si Sa Ket,<1,444,2004,Foodpoi
 Ubon Ratchathani,<1,722,2004,Foodpoi
 Yasothon,<1,125,2004,Foodpoi
 South Region,<1,261,2004,Foodpoi
-Zone 15,<1,81,2004,Foodpoi
+Zone:15,<1,81,2004,Foodpoi
 Chumphon,<1,17,2004,Foodpoi
 Ranong,<1,1,2004,Foodpoi
 Surat Thani,<1,63,2004,Foodpoi
-Zone 16,<1,88,2004,Foodpoi
+Zone:16,<1,88,2004,Foodpoi
 Nakhon Si Thammarat,<1,76,2004,Foodpoi
 Phatthalung,<1,9,2004,Foodpoi
 Trang,<1,3,2004,Foodpoi
-Zone 17,<1,43,2004,Foodpoi
+Zone:17,<1,43,2004,Foodpoi
 Krabi,<1,32,2004,Foodpoi
 Phangnga,<1,8,2004,Foodpoi
 Phuket,<1,3,2004,Foodpoi
-Zone 18,<1,15,2004,Foodpoi
+Zone:18,<1,15,2004,Foodpoi
 Narathiwat,<1,4,2004,Foodpoi
 Pattani,<1,4,2004,Foodpoi
 Yala,<1,7,2004,Foodpoi
-Zone 19,<1,34,2004,Foodpoi
+Zone:19,<1,34,2004,Foodpoi
 Satun,<1,3,2004,Foodpoi
 Songkhla,<1,31,2004,Foodpoi
 Total,1-1,7828,2004,Foodpoi
 North Region,1-1,1293,2004,Foodpoi
-Zone 1,1-1,541,2004,Foodpoi
+Zone:1,1-1,541,2004,Foodpoi
 Chiang Mai,1-1,151,2004,Foodpoi
 Chiang Rai,1-1,127,2004,Foodpoi
 Lampang,1-1,54,2004,Foodpoi
@@ -27814,98 +27814,98 @@ Mae Hong Son,1-1,15,2004,Foodpoi
 Nan,1-1,42,2004,Foodpoi
 Phayao,1-1,60,2004,Foodpoi
 Phrae,1-1,34,2004,Foodpoi
-Zone 2,1-1,545,2004,Foodpoi
+Zone:2,1-1,545,2004,Foodpoi
 Phetchabun,1-1,87,2004,Foodpoi
 Phitsanulok,1-1,254,2004,Foodpoi
 Sukhothai,1-1,92,2004,Foodpoi
 Tak,1-1,47,2004,Foodpoi
 Uttaradit,1-1,65,2004,Foodpoi
-Zone 3,1-1,207,2004,Foodpoi
+Zone:3,1-1,207,2004,Foodpoi
 Kamphaeng Phet,1-1,31,2004,Foodpoi
 Nakhon Sawan,1-1,105,2004,Foodpoi
 Phichit,1-1,20,2004,Foodpoi
 Uthai Thani,1-1,51,2004,Foodpoi
 Central Region,1-1,1209,2004,Foodpoi
 Bangkok,1-1,179,2004,Foodpoi
-Zone 4,1-1,117,2004,Foodpoi
+Zone:4,1-1,117,2004,Foodpoi
 Ang Thong,1-1,3,2004,Foodpoi
 Nonthaburi,1-1,37,2004,Foodpoi
 P.Nakhon S.Ayutthaya,1-1,57,2004,Foodpoi
 Pathum Thani,1-1,20,2004,Foodpoi
-Zone 5,1-1,51,2004,Foodpoi
+Zone:5,1-1,51,2004,Foodpoi
 Chai Nat,1-1,11,2004,Foodpoi
 Lop Buri,1-1,17,2004,Foodpoi
 Saraburi,1-1,9,2004,Foodpoi
 Sing Buri,1-1,14,2004,Foodpoi
-Zone 6,1-1,186,2004,Foodpoi
+Zone:6,1-1,186,2004,Foodpoi
 Kanchanaburi,1-1,45,2004,Foodpoi
 Nakhon Pathom,1-1,95,2004,Foodpoi
 Ratchaburi,1-1,20,2004,Foodpoi
 Suphan Buri,1-1,26,2004,Foodpoi
-Zone 7,1-1,77,2004,Foodpoi
+Zone:7,1-1,77,2004,Foodpoi
 Phetchaburi,1-1,12,2004,Foodpoi
 Prachuap Khiri Khan,1-1,36,2004,Foodpoi
 Samut Sakhon,1-1,25,2004,Foodpoi
 Samut Songkhram,1-1,4,2004,Foodpoi
-Zone 8,1-1,331,2004,Foodpoi
+Zone:8,1-1,331,2004,Foodpoi
 Chachoengsao,1-1,34,2004,Foodpoi
 Nakhon Nayok,1-1,18,2004,Foodpoi
 Prachin Buri,1-1,88,2004,Foodpoi
 Sa Kaeo,1-1,13,2004,Foodpoi
 Samut Prakan,1-1,178,2004,Foodpoi
-Zone 9,1-1,268,2004,Foodpoi
+Zone:9,1-1,268,2004,Foodpoi
 Chanthaburi,1-1,35,2004,Foodpoi
 Chon Buri,1-1,79,2004,Foodpoi
 Rayong,1-1,131,2004,Foodpoi
 Trat,1-1,23,2004,Foodpoi
 North-Eastern Region,1-1,4931,2004,Foodpoi
-Zone 10,1-1,760,2004,Foodpoi
+Zone:10,1-1,760,2004,Foodpoi
 Loei,1-1,46,2004,Foodpoi
 Nong Bua Lam Phu,1-1,87,2004,Foodpoi
 Nong Khai,1-1,179,2004,Foodpoi
 Udon Thani,1-1,448,2004,Foodpoi
-Zone 11,1-1,580,2004,Foodpoi
+Zone:11,1-1,580,2004,Foodpoi
 Kalasin,1-1,239,2004,Foodpoi
 Mukdahan,1-1,121,2004,Foodpoi
 Nakhon Phanom,1-1,67,2004,Foodpoi
 Sakon Nakhon,1-1,153,2004,Foodpoi
-Zone 12,1-1,729,2004,Foodpoi
+Zone:12,1-1,729,2004,Foodpoi
 Khon Kaen,1-1,467,2004,Foodpoi
 Maha Sarakham,1-1,111,2004,Foodpoi
 Roi Et,1-1,151,2004,Foodpoi
-Zone 13,1-1,1174,2004,Foodpoi
+Zone:13,1-1,1174,2004,Foodpoi
 Buri Ram,1-1,226,2004,Foodpoi
 Chaiyaphum,1-1,228,2004,Foodpoi
 Nakhon Ratchasima,1-1,413,2004,Foodpoi
 Surin,1-1,307,2004,Foodpoi
-Zone 14,1-1,1688,2004,Foodpoi
+Zone:14,1-1,1688,2004,Foodpoi
 Amnat Charoen,1-1,97,2004,Foodpoi
 Si Sa Ket,1-1,461,2004,Foodpoi
 Ubon Ratchathani,1-1,933,2004,Foodpoi
 Yasothon,1-1,197,2004,Foodpoi
 South Region,1-1,395,2004,Foodpoi
-Zone 15,1-1,98,2004,Foodpoi
+Zone:15,1-1,98,2004,Foodpoi
 Chumphon,1-1,42,2004,Foodpoi
 Ranong,1-1,1,2004,Foodpoi
 Surat Thani,1-1,55,2004,Foodpoi
-Zone 16,1-1,128,2004,Foodpoi
+Zone:16,1-1,128,2004,Foodpoi
 Nakhon Si Thammarat,1-1,94,2004,Foodpoi
 Phatthalung,1-1,17,2004,Foodpoi
 Trang,1-1,17,2004,Foodpoi
-Zone 17,1-1,59,2004,Foodpoi
+Zone:17,1-1,59,2004,Foodpoi
 Krabi,1-1,39,2004,Foodpoi
 Phangnga,1-1,17,2004,Foodpoi
 Phuket,1-1,3,2004,Foodpoi
-Zone 18,1-1,29,2004,Foodpoi
+Zone:18,1-1,29,2004,Foodpoi
 Narathiwat,1-1,9,2004,Foodpoi
 Pattani,1-1,10,2004,Foodpoi
 Yala,1-1,10,2004,Foodpoi
-Zone 19,1-1,81,2004,Foodpoi
+Zone:19,1-1,81,2004,Foodpoi
 Satun,1-1,8,2004,Foodpoi
 Songkhla,1-1,73,2004,Foodpoi
 Total,2-2,5903,2004,Foodpoi
 North Region,2-2,1063,2004,Foodpoi
-Zone 1,2-2,531,2004,Foodpoi
+Zone:1,2-2,531,2004,Foodpoi
 Chiang Mai,2-2,177,2004,Foodpoi
 Chiang Rai,2-2,109,2004,Foodpoi
 Lampang,2-2,65,2004,Foodpoi
@@ -27914,98 +27914,98 @@ Mae Hong Son,2-2,16,2004,Foodpoi
 Nan,2-2,45,2004,Foodpoi
 Phayao,2-2,52,2004,Foodpoi
 Phrae,2-2,24,2004,Foodpoi
-Zone 2,2-2,391,2004,Foodpoi
+Zone:2,2-2,391,2004,Foodpoi
 Phetchabun,2-2,71,2004,Foodpoi
 Phitsanulok,2-2,151,2004,Foodpoi
 Sukhothai,2-2,74,2004,Foodpoi
 Tak,2-2,45,2004,Foodpoi
 Uttaradit,2-2,50,2004,Foodpoi
-Zone 3,2-2,141,2004,Foodpoi
+Zone:3,2-2,141,2004,Foodpoi
 Kamphaeng Phet,2-2,32,2004,Foodpoi
 Nakhon Sawan,2-2,70,2004,Foodpoi
 Phichit,2-2,15,2004,Foodpoi
 Uthai Thani,2-2,24,2004,Foodpoi
 Central Region,2-2,972,2004,Foodpoi
 Bangkok,2-2,152,2004,Foodpoi
-Zone 4,2-2,103,2004,Foodpoi
+Zone:4,2-2,103,2004,Foodpoi
 Ang Thong,2-2,7,2004,Foodpoi
 Nonthaburi,2-2,22,2004,Foodpoi
 P.Nakhon S.Ayutthaya,2-2,52,2004,Foodpoi
 Pathum Thani,2-2,22,2004,Foodpoi
-Zone 5,2-2,58,2004,Foodpoi
+Zone:5,2-2,58,2004,Foodpoi
 Chai Nat,2-2,7,2004,Foodpoi
 Lop Buri,2-2,22,2004,Foodpoi
 Saraburi,2-2,13,2004,Foodpoi
 Sing Buri,2-2,16,2004,Foodpoi
-Zone 6,2-2,176,2004,Foodpoi
+Zone:6,2-2,176,2004,Foodpoi
 Kanchanaburi,2-2,48,2004,Foodpoi
 Nakhon Pathom,2-2,79,2004,Foodpoi
 Ratchaburi,2-2,31,2004,Foodpoi
 Suphan Buri,2-2,18,2004,Foodpoi
-Zone 7,2-2,67,2004,Foodpoi
+Zone:7,2-2,67,2004,Foodpoi
 Phetchaburi,2-2,17,2004,Foodpoi
 Prachuap Khiri Khan,2-2,30,2004,Foodpoi
 Samut Sakhon,2-2,15,2004,Foodpoi
 Samut Songkhram,2-2,5,2004,Foodpoi
-Zone 8,2-2,221,2004,Foodpoi
+Zone:8,2-2,221,2004,Foodpoi
 Chachoengsao,2-2,24,2004,Foodpoi
 Nakhon Nayok,2-2,17,2004,Foodpoi
 Prachin Buri,2-2,53,2004,Foodpoi
 Sa Kaeo,2-2,14,2004,Foodpoi
 Samut Prakan,2-2,113,2004,Foodpoi
-Zone 9,2-2,195,2004,Foodpoi
+Zone:9,2-2,195,2004,Foodpoi
 Chanthaburi,2-2,24,2004,Foodpoi
 Chon Buri,2-2,41,2004,Foodpoi
 Rayong,2-2,108,2004,Foodpoi
 Trat,2-2,22,2004,Foodpoi
 North-Eastern Region,2-2,3576,2004,Foodpoi
-Zone 10,2-2,567,2004,Foodpoi
+Zone:10,2-2,567,2004,Foodpoi
 Loei,2-2,63,2004,Foodpoi
 Nong Bua Lam Phu,2-2,88,2004,Foodpoi
 Nong Khai,2-2,102,2004,Foodpoi
 Udon Thani,2-2,314,2004,Foodpoi
-Zone 11,2-2,365,2004,Foodpoi
+Zone:11,2-2,365,2004,Foodpoi
 Kalasin,2-2,164,2004,Foodpoi
 Mukdahan,2-2,72,2004,Foodpoi
 Nakhon Phanom,2-2,50,2004,Foodpoi
 Sakon Nakhon,2-2,79,2004,Foodpoi
-Zone 12,2-2,696,2004,Foodpoi
+Zone:12,2-2,696,2004,Foodpoi
 Khon Kaen,2-2,468,2004,Foodpoi
 Maha Sarakham,2-2,87,2004,Foodpoi
 Roi Et,2-2,141,2004,Foodpoi
-Zone 13,2-2,911,2004,Foodpoi
+Zone:13,2-2,911,2004,Foodpoi
 Buri Ram,2-2,196,2004,Foodpoi
 Chaiyaphum,2-2,170,2004,Foodpoi
 Nakhon Ratchasima,2-2,290,2004,Foodpoi
 Surin,2-2,255,2004,Foodpoi
-Zone 14,2-2,1037,2004,Foodpoi
+Zone:14,2-2,1037,2004,Foodpoi
 Amnat Charoen,2-2,66,2004,Foodpoi
 Si Sa Ket,2-2,301,2004,Foodpoi
 Ubon Ratchathani,2-2,537,2004,Foodpoi
 Yasothon,2-2,133,2004,Foodpoi
 South Region,2-2,292,2004,Foodpoi
-Zone 15,2-2,72,2004,Foodpoi
+Zone:15,2-2,72,2004,Foodpoi
 Chumphon,2-2,31,2004,Foodpoi
 Ranong,2-2,5,2004,Foodpoi
 Surat Thani,2-2,36,2004,Foodpoi
-Zone 16,2-2,86,2004,Foodpoi
+Zone:16,2-2,86,2004,Foodpoi
 Nakhon Si Thammarat,2-2,58,2004,Foodpoi
 Phatthalung,2-2,7,2004,Foodpoi
 Trang,2-2,21,2004,Foodpoi
-Zone 17,2-2,31,2004,Foodpoi
+Zone:17,2-2,31,2004,Foodpoi
 Krabi,2-2,19,2004,Foodpoi
 Phangnga,2-2,10,2004,Foodpoi
 Phuket,2-2,2,2004,Foodpoi
-Zone 18,2-2,31,2004,Foodpoi
+Zone:18,2-2,31,2004,Foodpoi
 Narathiwat,2-2,7,2004,Foodpoi
 Pattani,2-2,15,2004,Foodpoi
 Yala,2-2,9,2004,Foodpoi
-Zone 19,2-2,72,2004,Foodpoi
+Zone:19,2-2,72,2004,Foodpoi
 Satun,2-2,7,2004,Foodpoi
 Songkhla,2-2,65,2004,Foodpoi
 Total,3-3,4415,2004,Foodpoi
 North Region,3-3,779,2004,Foodpoi
-Zone 1,3-3,411,2004,Foodpoi
+Zone:1,3-3,411,2004,Foodpoi
 Chiang Mai,3-3,134,2004,Foodpoi
 Chiang Rai,3-3,66,2004,Foodpoi
 Lampang,3-3,76,2004,Foodpoi
@@ -28014,98 +28014,98 @@ Mae Hong Son,3-3,10,2004,Foodpoi
 Nan,3-3,39,2004,Foodpoi
 Phayao,3-3,37,2004,Foodpoi
 Phrae,3-3,17,2004,Foodpoi
-Zone 2,3-3,272,2004,Foodpoi
+Zone:2,3-3,272,2004,Foodpoi
 Phetchabun,3-3,56,2004,Foodpoi
 Phitsanulok,3-3,99,2004,Foodpoi
 Sukhothai,3-3,51,2004,Foodpoi
 Tak,3-3,30,2004,Foodpoi
 Uttaradit,3-3,36,2004,Foodpoi
-Zone 3,3-3,96,2004,Foodpoi
+Zone:3,3-3,96,2004,Foodpoi
 Kamphaeng Phet,3-3,15,2004,Foodpoi
 Nakhon Sawan,3-3,51,2004,Foodpoi
 Phichit,3-3,12,2004,Foodpoi
 Uthai Thani,3-3,18,2004,Foodpoi
 Central Region,3-3,781,2004,Foodpoi
 Bangkok,3-3,117,2004,Foodpoi
-Zone 4,3-3,78,2004,Foodpoi
+Zone:4,3-3,78,2004,Foodpoi
 Ang Thong,3-3,4,2004,Foodpoi
 Nonthaburi,3-3,27,2004,Foodpoi
 P.Nakhon S.Ayutthaya,3-3,23,2004,Foodpoi
 Pathum Thani,3-3,24,2004,Foodpoi
-Zone 5,3-3,57,2004,Foodpoi
+Zone:5,3-3,57,2004,Foodpoi
 Chai Nat,3-3,7,2004,Foodpoi
 Lop Buri,3-3,19,2004,Foodpoi
 Saraburi,3-3,7,2004,Foodpoi
 Sing Buri,3-3,24,2004,Foodpoi
-Zone 6,3-3,148,2004,Foodpoi
+Zone:6,3-3,148,2004,Foodpoi
 Kanchanaburi,3-3,35,2004,Foodpoi
 Nakhon Pathom,3-3,68,2004,Foodpoi
 Ratchaburi,3-3,18,2004,Foodpoi
 Suphan Buri,3-3,27,2004,Foodpoi
-Zone 7,3-3,47,2004,Foodpoi
+Zone:7,3-3,47,2004,Foodpoi
 Phetchaburi,3-3,10,2004,Foodpoi
 Prachuap Khiri Khan,3-3,20,2004,Foodpoi
 Samut Sakhon,3-3,10,2004,Foodpoi
 Samut Songkhram,3-3,7,2004,Foodpoi
-Zone 8,3-3,177,2004,Foodpoi
+Zone:8,3-3,177,2004,Foodpoi
 Chachoengsao,3-3,24,2004,Foodpoi
 Nakhon Nayok,3-3,13,2004,Foodpoi
 Prachin Buri,3-3,36,2004,Foodpoi
 Sa Kaeo,3-3,16,2004,Foodpoi
 Samut Prakan,3-3,88,2004,Foodpoi
-Zone 9,3-3,157,2004,Foodpoi
+Zone:9,3-3,157,2004,Foodpoi
 Chanthaburi,3-3,21,2004,Foodpoi
 Chon Buri,3-3,50,2004,Foodpoi
 Rayong,3-3,65,2004,Foodpoi
 Trat,3-3,21,2004,Foodpoi
 North-Eastern Region,3-3,2623,2004,Foodpoi
-Zone 10,3-3,409,2004,Foodpoi
+Zone:10,3-3,409,2004,Foodpoi
 Loei,3-3,33,2004,Foodpoi
 Nong Bua Lam Phu,3-3,66,2004,Foodpoi
 Nong Khai,3-3,73,2004,Foodpoi
 Udon Thani,3-3,237,2004,Foodpoi
-Zone 11,3-3,310,2004,Foodpoi
+Zone:11,3-3,310,2004,Foodpoi
 Kalasin,3-3,138,2004,Foodpoi
 Mukdahan,3-3,55,2004,Foodpoi
 Nakhon Phanom,3-3,31,2004,Foodpoi
 Sakon Nakhon,3-3,86,2004,Foodpoi
-Zone 12,3-3,480,2004,Foodpoi
+Zone:12,3-3,480,2004,Foodpoi
 Khon Kaen,3-3,293,2004,Foodpoi
 Maha Sarakham,3-3,65,2004,Foodpoi
 Roi Et,3-3,122,2004,Foodpoi
-Zone 13,3-3,646,2004,Foodpoi
+Zone:13,3-3,646,2004,Foodpoi
 Buri Ram,3-3,164,2004,Foodpoi
 Chaiyaphum,3-3,119,2004,Foodpoi
 Nakhon Ratchasima,3-3,182,2004,Foodpoi
 Surin,3-3,181,2004,Foodpoi
-Zone 14,3-3,778,2004,Foodpoi
+Zone:14,3-3,778,2004,Foodpoi
 Amnat Charoen,3-3,58,2004,Foodpoi
 Si Sa Ket,3-3,248,2004,Foodpoi
 Ubon Ratchathani,3-3,381,2004,Foodpoi
 Yasothon,3-3,91,2004,Foodpoi
 South Region,3-3,232,2004,Foodpoi
-Zone 15,3-3,61,2004,Foodpoi
+Zone:15,3-3,61,2004,Foodpoi
 Chumphon,3-3,21,2004,Foodpoi
 Ranong,3-3,3,2004,Foodpoi
 Surat Thani,3-3,37,2004,Foodpoi
-Zone 16,3-3,75,2004,Foodpoi
+Zone:16,3-3,75,2004,Foodpoi
 Nakhon Si Thammarat,3-3,47,2004,Foodpoi
 Phatthalung,3-3,11,2004,Foodpoi
 Trang,3-3,17,2004,Foodpoi
-Zone 17,3-3,28,2004,Foodpoi
+Zone:17,3-3,28,2004,Foodpoi
 Krabi,3-3,13,2004,Foodpoi
 Phangnga,3-3,13,2004,Foodpoi
 Phuket,3-3,2,2004,Foodpoi
-Zone 18,3-3,21,2004,Foodpoi
+Zone:18,3-3,21,2004,Foodpoi
 Narathiwat,3-3,8,2004,Foodpoi
 Pattani,3-3,4,2004,Foodpoi
 Yala,3-3,9,2004,Foodpoi
-Zone 19,3-3,47,2004,Foodpoi
+Zone:19,3-3,47,2004,Foodpoi
 Satun,3-3,2,2004,Foodpoi
 Songkhla,3-3,45,2004,Foodpoi
 Total,4-4,3568,2004,Foodpoi
 North Region,4-4,644,2004,Foodpoi
-Zone 1,4-4,325,2004,Foodpoi
+Zone:1,4-4,325,2004,Foodpoi
 Chiang Mai,4-4,111,2004,Foodpoi
 Chiang Rai,4-4,57,2004,Foodpoi
 Lampang,4-4,52,2004,Foodpoi
@@ -28114,98 +28114,98 @@ Mae Hong Son,4-4,8,2004,Foodpoi
 Nan,4-4,37,2004,Foodpoi
 Phayao,4-4,28,2004,Foodpoi
 Phrae,4-4,13,2004,Foodpoi
-Zone 2,4-4,234,2004,Foodpoi
+Zone:2,4-4,234,2004,Foodpoi
 Phetchabun,4-4,60,2004,Foodpoi
 Phitsanulok,4-4,80,2004,Foodpoi
 Sukhothai,4-4,53,2004,Foodpoi
 Tak,4-4,23,2004,Foodpoi
 Uttaradit,4-4,18,2004,Foodpoi
-Zone 3,4-4,85,2004,Foodpoi
+Zone:3,4-4,85,2004,Foodpoi
 Kamphaeng Phet,4-4,23,2004,Foodpoi
 Nakhon Sawan,4-4,35,2004,Foodpoi
 Phichit,4-4,8,2004,Foodpoi
 Uthai Thani,4-4,19,2004,Foodpoi
 Central Region,4-4,667,2004,Foodpoi
 Bangkok,4-4,109,2004,Foodpoi
-Zone 4,4-4,76,2004,Foodpoi
+Zone:4,4-4,76,2004,Foodpoi
 Ang Thong,4-4,8,2004,Foodpoi
 Nonthaburi,4-4,23,2004,Foodpoi
 P.Nakhon S.Ayutthaya,4-4,29,2004,Foodpoi
 Pathum Thani,4-4,16,2004,Foodpoi
-Zone 5,4-4,45,2004,Foodpoi
+Zone:5,4-4,45,2004,Foodpoi
 Chai Nat,4-4,11,2004,Foodpoi
 Lop Buri,4-4,12,2004,Foodpoi
 Saraburi,4-4,8,2004,Foodpoi
 Sing Buri,4-4,14,2004,Foodpoi
-Zone 6,4-4,124,2004,Foodpoi
+Zone:6,4-4,124,2004,Foodpoi
 Kanchanaburi,4-4,32,2004,Foodpoi
 Nakhon Pathom,4-4,53,2004,Foodpoi
 Ratchaburi,4-4,25,2004,Foodpoi
 Suphan Buri,4-4,14,2004,Foodpoi
-Zone 7,4-4,37,2004,Foodpoi
+Zone:7,4-4,37,2004,Foodpoi
 Phetchaburi,4-4,8,2004,Foodpoi
 Prachuap Khiri Khan,4-4,17,2004,Foodpoi
 Samut Sakhon,4-4,9,2004,Foodpoi
 Samut Songkhram,4-4,3,2004,Foodpoi
-Zone 8,4-4,126,2004,Foodpoi
+Zone:8,4-4,126,2004,Foodpoi
 Chachoengsao,4-4,18,2004,Foodpoi
 Nakhon Nayok,4-4,9,2004,Foodpoi
 Prachin Buri,4-4,26,2004,Foodpoi
 Sa Kaeo,4-4,12,2004,Foodpoi
 Samut Prakan,4-4,61,2004,Foodpoi
-Zone 9,4-4,150,2004,Foodpoi
+Zone:9,4-4,150,2004,Foodpoi
 Chanthaburi,4-4,16,2004,Foodpoi
 Chon Buri,4-4,31,2004,Foodpoi
 Rayong,4-4,82,2004,Foodpoi
 Trat,4-4,21,2004,Foodpoi
 North-Eastern Region,4-4,2051,2004,Foodpoi
-Zone 10,4-4,305,2004,Foodpoi
+Zone:10,4-4,305,2004,Foodpoi
 Loei,4-4,20,2004,Foodpoi
 Nong Bua Lam Phu,4-4,61,2004,Foodpoi
 Nong Khai,4-4,59,2004,Foodpoi
 Udon Thani,4-4,165,2004,Foodpoi
-Zone 11,4-4,266,2004,Foodpoi
+Zone:11,4-4,266,2004,Foodpoi
 Kalasin,4-4,114,2004,Foodpoi
 Mukdahan,4-4,42,2004,Foodpoi
 Nakhon Phanom,4-4,36,2004,Foodpoi
 Sakon Nakhon,4-4,74,2004,Foodpoi
-Zone 12,4-4,321,2004,Foodpoi
+Zone:12,4-4,321,2004,Foodpoi
 Khon Kaen,4-4,201,2004,Foodpoi
 Maha Sarakham,4-4,50,2004,Foodpoi
 Roi Et,4-4,70,2004,Foodpoi
-Zone 13,4-4,544,2004,Foodpoi
+Zone:13,4-4,544,2004,Foodpoi
 Buri Ram,4-4,144,2004,Foodpoi
 Chaiyaphum,4-4,83,2004,Foodpoi
 Nakhon Ratchasima,4-4,170,2004,Foodpoi
 Surin,4-4,147,2004,Foodpoi
-Zone 14,4-4,615,2004,Foodpoi
+Zone:14,4-4,615,2004,Foodpoi
 Amnat Charoen,4-4,44,2004,Foodpoi
 Si Sa Ket,4-4,188,2004,Foodpoi
 Ubon Ratchathani,4-4,286,2004,Foodpoi
 Yasothon,4-4,97,2004,Foodpoi
 South Region,4-4,206,2004,Foodpoi
-Zone 15,4-4,53,2004,Foodpoi
+Zone:15,4-4,53,2004,Foodpoi
 Chumphon,4-4,12,2004,Foodpoi
 Ranong,4-4,6,2004,Foodpoi
 Surat Thani,4-4,35,2004,Foodpoi
-Zone 16,4-4,65,2004,Foodpoi
+Zone:16,4-4,65,2004,Foodpoi
 Nakhon Si Thammarat,4-4,38,2004,Foodpoi
 Phatthalung,4-4,7,2004,Foodpoi
 Trang,4-4,20,2004,Foodpoi
-Zone 17,4-4,24,2004,Foodpoi
+Zone:17,4-4,24,2004,Foodpoi
 Krabi,4-4,12,2004,Foodpoi
 Phangnga,4-4,8,2004,Foodpoi
 Phuket,4-4,4,2004,Foodpoi
-Zone 18,4-4,25,2004,Foodpoi
+Zone:18,4-4,25,2004,Foodpoi
 Narathiwat,4-4,6,2004,Foodpoi
 Pattani,4-4,7,2004,Foodpoi
 Yala,4-4,12,2004,Foodpoi
-Zone 19,4-4,39,2004,Foodpoi
+Zone:19,4-4,39,2004,Foodpoi
 Satun,4-4,5,2004,Foodpoi
 Songkhla,4-4,34,2004,Foodpoi
 Total,5-5,3181,2004,Foodpoi
 North Region,5-5,649,2004,Foodpoi
-Zone 1,5-5,330,2004,Foodpoi
+Zone:1,5-5,330,2004,Foodpoi
 Chiang Mai,5-5,76,2004,Foodpoi
 Chiang Rai,5-5,65,2004,Foodpoi
 Lampang,5-5,67,2004,Foodpoi
@@ -28214,98 +28214,98 @@ Mae Hong Son,5-5,7,2004,Foodpoi
 Nan,5-5,34,2004,Foodpoi
 Phayao,5-5,33,2004,Foodpoi
 Phrae,5-5,21,2004,Foodpoi
-Zone 2,5-5,227,2004,Foodpoi
+Zone:2,5-5,227,2004,Foodpoi
 Phetchabun,5-5,40,2004,Foodpoi
 Phitsanulok,5-5,85,2004,Foodpoi
 Sukhothai,5-5,47,2004,Foodpoi
 Tak,5-5,27,2004,Foodpoi
 Uttaradit,5-5,28,2004,Foodpoi
-Zone 3,5-5,92,2004,Foodpoi
+Zone:3,5-5,92,2004,Foodpoi
 Kamphaeng Phet,5-5,15,2004,Foodpoi
 Nakhon Sawan,5-5,43,2004,Foodpoi
 Phichit,5-5,13,2004,Foodpoi
 Uthai Thani,5-5,21,2004,Foodpoi
 Central Region,5-5,566,2004,Foodpoi
 Bangkok,5-5,83,2004,Foodpoi
-Zone 4,5-5,54,2004,Foodpoi
+Zone:4,5-5,54,2004,Foodpoi
 Ang Thong,5-5,7,2004,Foodpoi
 Nonthaburi,5-5,10,2004,Foodpoi
 P.Nakhon S.Ayutthaya,5-5,25,2004,Foodpoi
 Pathum Thani,5-5,12,2004,Foodpoi
-Zone 5,5-5,35,2004,Foodpoi
+Zone:5,5-5,35,2004,Foodpoi
 Chai Nat,5-5,3,2004,Foodpoi
 Lop Buri,5-5,17,2004,Foodpoi
 Saraburi,5-5,8,2004,Foodpoi
 Sing Buri,5-5,7,2004,Foodpoi
-Zone 6,5-5,99,2004,Foodpoi
+Zone:6,5-5,99,2004,Foodpoi
 Kanchanaburi,5-5,33,2004,Foodpoi
 Nakhon Pathom,5-5,33,2004,Foodpoi
 Ratchaburi,5-5,15,2004,Foodpoi
 Suphan Buri,5-5,18,2004,Foodpoi
-Zone 7,5-5,37,2004,Foodpoi
+Zone:7,5-5,37,2004,Foodpoi
 Phetchaburi,5-5,9,2004,Foodpoi
 Prachuap Khiri Khan,5-5,17,2004,Foodpoi
 Samut Sakhon,5-5,9,2004,Foodpoi
 Samut Songkhram,5-5,2,2004,Foodpoi
-Zone 8,5-5,129,2004,Foodpoi
+Zone:8,5-5,129,2004,Foodpoi
 Chachoengsao,5-5,27,2004,Foodpoi
 Nakhon Nayok,5-5,12,2004,Foodpoi
 Prachin Buri,5-5,31,2004,Foodpoi
 Sa Kaeo,5-5,12,2004,Foodpoi
 Samut Prakan,5-5,47,2004,Foodpoi
-Zone 9,5-5,129,2004,Foodpoi
+Zone:9,5-5,129,2004,Foodpoi
 Chanthaburi,5-5,15,2004,Foodpoi
 Chon Buri,5-5,40,2004,Foodpoi
 Rayong,5-5,64,2004,Foodpoi
 Trat,5-5,10,2004,Foodpoi
 North-Eastern Region,5-5,1788,2004,Foodpoi
-Zone 10,5-5,242,2004,Foodpoi
+Zone:10,5-5,242,2004,Foodpoi
 Loei,5-5,23,2004,Foodpoi
 Nong Bua Lam Phu,5-5,38,2004,Foodpoi
 Nong Khai,5-5,35,2004,Foodpoi
 Udon Thani,5-5,146,2004,Foodpoi
-Zone 11,5-5,203,2004,Foodpoi
+Zone:11,5-5,203,2004,Foodpoi
 Kalasin,5-5,95,2004,Foodpoi
 Mukdahan,5-5,45,2004,Foodpoi
 Nakhon Phanom,5-5,24,2004,Foodpoi
 Sakon Nakhon,5-5,39,2004,Foodpoi
-Zone 12,5-5,322,2004,Foodpoi
+Zone:12,5-5,322,2004,Foodpoi
 Khon Kaen,5-5,202,2004,Foodpoi
 Maha Sarakham,5-5,36,2004,Foodpoi
 Roi Et,5-5,84,2004,Foodpoi
-Zone 13,5-5,503,2004,Foodpoi
+Zone:13,5-5,503,2004,Foodpoi
 Buri Ram,5-5,104,2004,Foodpoi
 Chaiyaphum,5-5,83,2004,Foodpoi
 Nakhon Ratchasima,5-5,176,2004,Foodpoi
 Surin,5-5,140,2004,Foodpoi
-Zone 14,5-5,518,2004,Foodpoi
+Zone:14,5-5,518,2004,Foodpoi
 Amnat Charoen,5-5,41,2004,Foodpoi
 Si Sa Ket,5-5,163,2004,Foodpoi
 Ubon Ratchathani,5-5,235,2004,Foodpoi
 Yasothon,5-5,79,2004,Foodpoi
 South Region,5-5,178,2004,Foodpoi
-Zone 15,5-5,45,2004,Foodpoi
+Zone:15,5-5,45,2004,Foodpoi
 Chumphon,5-5,14,2004,Foodpoi
 Ranong,5-5,8,2004,Foodpoi
 Surat Thani,5-5,23,2004,Foodpoi
-Zone 16,5-5,60,2004,Foodpoi
+Zone:16,5-5,60,2004,Foodpoi
 Nakhon Si Thammarat,5-5,31,2004,Foodpoi
 Phatthalung,5-5,7,2004,Foodpoi
 Trang,5-5,22,2004,Foodpoi
-Zone 17,5-5,23,2004,Foodpoi
+Zone:17,5-5,23,2004,Foodpoi
 Krabi,5-5,8,2004,Foodpoi
 Phangnga,5-5,10,2004,Foodpoi
 Phuket,5-5,5,2004,Foodpoi
-Zone 18,5-5,21,2004,Foodpoi
+Zone:18,5-5,21,2004,Foodpoi
 Narathiwat,5-5,3,2004,Foodpoi
 Pattani,5-5,9,2004,Foodpoi
 Yala,5-5,9,2004,Foodpoi
-Zone 19,5-5,29,2004,Foodpoi
+Zone:19,5-5,29,2004,Foodpoi
 Satun,5-5,7,2004,Foodpoi
 Songkhla,5-5,22,2004,Foodpoi
 Total,6-6,3159,2004,Foodpoi
 North Region,6-6,674,2004,Foodpoi
-Zone 1,6-6,367,2004,Foodpoi
+Zone:1,6-6,367,2004,Foodpoi
 Chiang Mai,6-6,91,2004,Foodpoi
 Chiang Rai,6-6,62,2004,Foodpoi
 Lampang,6-6,87,2004,Foodpoi
@@ -28314,98 +28314,98 @@ Mae Hong Son,6-6,9,2004,Foodpoi
 Nan,6-6,39,2004,Foodpoi
 Phayao,6-6,28,2004,Foodpoi
 Phrae,6-6,19,2004,Foodpoi
-Zone 2,6-6,221,2004,Foodpoi
+Zone:2,6-6,221,2004,Foodpoi
 Phetchabun,6-6,53,2004,Foodpoi
 Phitsanulok,6-6,77,2004,Foodpoi
 Sukhothai,6-6,48,2004,Foodpoi
 Tak,6-6,25,2004,Foodpoi
 Uttaradit,6-6,18,2004,Foodpoi
-Zone 3,6-6,86,2004,Foodpoi
+Zone:3,6-6,86,2004,Foodpoi
 Kamphaeng Phet,6-6,20,2004,Foodpoi
 Nakhon Sawan,6-6,43,2004,Foodpoi
 Phichit,6-6,7,2004,Foodpoi
 Uthai Thani,6-6,16,2004,Foodpoi
 Central Region,6-6,589,2004,Foodpoi
 Bangkok,6-6,82,2004,Foodpoi
-Zone 4,6-6,47,2004,Foodpoi
+Zone:4,6-6,47,2004,Foodpoi
 Ang Thong,6-6,3,2004,Foodpoi
 Nonthaburi,6-6,12,2004,Foodpoi
 P.Nakhon S.Ayutthaya,6-6,21,2004,Foodpoi
 Pathum Thani,6-6,11,2004,Foodpoi
-Zone 5,6-6,49,2004,Foodpoi
+Zone:5,6-6,49,2004,Foodpoi
 Chai Nat,6-6,19,2004,Foodpoi
 Lop Buri,6-6,7,2004,Foodpoi
 Saraburi,6-6,14,2004,Foodpoi
 Sing Buri,6-6,9,2004,Foodpoi
-Zone 6,6-6,111,2004,Foodpoi
+Zone:6,6-6,111,2004,Foodpoi
 Kanchanaburi,6-6,40,2004,Foodpoi
 Nakhon Pathom,6-6,39,2004,Foodpoi
 Ratchaburi,6-6,16,2004,Foodpoi
 Suphan Buri,6-6,16,2004,Foodpoi
-Zone 7,6-6,34,2004,Foodpoi
+Zone:7,6-6,34,2004,Foodpoi
 Phetchaburi,6-6,6,2004,Foodpoi
 Prachuap Khiri Khan,6-6,10,2004,Foodpoi
 Samut Sakhon,6-6,13,2004,Foodpoi
 Samut Songkhram,6-6,5,2004,Foodpoi
-Zone 8,6-6,123,2004,Foodpoi
+Zone:8,6-6,123,2004,Foodpoi
 Chachoengsao,6-6,20,2004,Foodpoi
 Nakhon Nayok,6-6,17,2004,Foodpoi
 Prachin Buri,6-6,28,2004,Foodpoi
 Sa Kaeo,6-6,13,2004,Foodpoi
 Samut Prakan,6-6,45,2004,Foodpoi
-Zone 9,6-6,143,2004,Foodpoi
+Zone:9,6-6,143,2004,Foodpoi
 Chanthaburi,6-6,21,2004,Foodpoi
 Chon Buri,6-6,35,2004,Foodpoi
 Rayong,6-6,68,2004,Foodpoi
 Trat,6-6,19,2004,Foodpoi
 North-Eastern Region,6-6,1732,2004,Foodpoi
-Zone 10,6-6,237,2004,Foodpoi
+Zone:10,6-6,237,2004,Foodpoi
 Loei,6-6,31,2004,Foodpoi
 Nong Bua Lam Phu,6-6,41,2004,Foodpoi
 Nong Khai,6-6,41,2004,Foodpoi
 Udon Thani,6-6,124,2004,Foodpoi
-Zone 11,6-6,199,2004,Foodpoi
+Zone:11,6-6,199,2004,Foodpoi
 Kalasin,6-6,84,2004,Foodpoi
 Mukdahan,6-6,29,2004,Foodpoi
 Nakhon Phanom,6-6,38,2004,Foodpoi
 Sakon Nakhon,6-6,48,2004,Foodpoi
-Zone 12,6-6,307,2004,Foodpoi
+Zone:12,6-6,307,2004,Foodpoi
 Khon Kaen,6-6,179,2004,Foodpoi
 Maha Sarakham,6-6,51,2004,Foodpoi
 Roi Et,6-6,77,2004,Foodpoi
-Zone 13,6-6,511,2004,Foodpoi
+Zone:13,6-6,511,2004,Foodpoi
 Buri Ram,6-6,112,2004,Foodpoi
 Chaiyaphum,6-6,78,2004,Foodpoi
 Nakhon Ratchasima,6-6,173,2004,Foodpoi
 Surin,6-6,148,2004,Foodpoi
-Zone 14,6-6,478,2004,Foodpoi
+Zone:14,6-6,478,2004,Foodpoi
 Amnat Charoen,6-6,30,2004,Foodpoi
 Si Sa Ket,6-6,151,2004,Foodpoi
 Ubon Ratchathani,6-6,214,2004,Foodpoi
 Yasothon,6-6,83,2004,Foodpoi
 South Region,6-6,164,2004,Foodpoi
-Zone 15,6-6,34,2004,Foodpoi
+Zone:15,6-6,34,2004,Foodpoi
 Chumphon,6-6,5,2004,Foodpoi
 Ranong,6-6,5,2004,Foodpoi
 Surat Thani,6-6,24,2004,Foodpoi
-Zone 16,6-6,50,2004,Foodpoi
+Zone:16,6-6,50,2004,Foodpoi
 Nakhon Si Thammarat,6-6,23,2004,Foodpoi
 Phatthalung,6-6,5,2004,Foodpoi
 Trang,6-6,22,2004,Foodpoi
-Zone 17,6-6,8,2004,Foodpoi
+Zone:17,6-6,8,2004,Foodpoi
 Krabi,6-6,2,2004,Foodpoi
 Phangnga,6-6,5,2004,Foodpoi
 Phuket,6-6,1,2004,Foodpoi
-Zone 18,6-6,26,2004,Foodpoi
+Zone:18,6-6,26,2004,Foodpoi
 Narathiwat,6-6,4,2004,Foodpoi
 Pattani,6-6,10,2004,Foodpoi
 Yala,6-6,12,2004,Foodpoi
-Zone 19,6-6,46,2004,Foodpoi
+Zone:19,6-6,46,2004,Foodpoi
 Satun,6-6,2,2004,Foodpoi
 Songkhla,6-6,44,2004,Foodpoi
 Total,7-9,9290,2004,Foodpoi
 North Region,7-9,2056,2004,Foodpoi
-Zone 1,7-9,1093,2004,Foodpoi
+Zone:1,7-9,1093,2004,Foodpoi
 Chiang Mai,7-9,224,2004,Foodpoi
 Chiang Rai,7-9,223,2004,Foodpoi
 Lampang,7-9,244,2004,Foodpoi
@@ -28414,98 +28414,98 @@ Mae Hong Son,7-9,20,2004,Foodpoi
 Nan,7-9,130,2004,Foodpoi
 Phayao,7-9,87,2004,Foodpoi
 Phrae,7-9,74,2004,Foodpoi
-Zone 2,7-9,654,2004,Foodpoi
+Zone:2,7-9,654,2004,Foodpoi
 Phetchabun,7-9,145,2004,Foodpoi
 Phitsanulok,7-9,208,2004,Foodpoi
 Sukhothai,7-9,143,2004,Foodpoi
 Tak,7-9,92,2004,Foodpoi
 Uttaradit,7-9,66,2004,Foodpoi
-Zone 3,7-9,309,2004,Foodpoi
+Zone:3,7-9,309,2004,Foodpoi
 Kamphaeng Phet,7-9,57,2004,Foodpoi
 Nakhon Sawan,7-9,175,2004,Foodpoi
 Phichit,7-9,32,2004,Foodpoi
 Uthai Thani,7-9,45,2004,Foodpoi
 Central Region,7-9,1866,2004,Foodpoi
 Bangkok,7-9,222,2004,Foodpoi
-Zone 4,7-9,173,2004,Foodpoi
+Zone:4,7-9,173,2004,Foodpoi
 Ang Thong,7-9,31,2004,Foodpoi
 Nonthaburi,7-9,48,2004,Foodpoi
 P.Nakhon S.Ayutthaya,7-9,64,2004,Foodpoi
 Pathum Thani,7-9,30,2004,Foodpoi
-Zone 5,7-9,170,2004,Foodpoi
+Zone:5,7-9,170,2004,Foodpoi
 Chai Nat,7-9,79,2004,Foodpoi
 Lop Buri,7-9,42,2004,Foodpoi
 Saraburi,7-9,29,2004,Foodpoi
 Sing Buri,7-9,20,2004,Foodpoi
-Zone 6,7-9,395,2004,Foodpoi
+Zone:6,7-9,395,2004,Foodpoi
 Kanchanaburi,7-9,75,2004,Foodpoi
 Nakhon Pathom,7-9,179,2004,Foodpoi
 Ratchaburi,7-9,82,2004,Foodpoi
 Suphan Buri,7-9,59,2004,Foodpoi
-Zone 7,7-9,102,2004,Foodpoi
+Zone:7,7-9,102,2004,Foodpoi
 Phetchaburi,7-9,35,2004,Foodpoi
 Prachuap Khiri Khan,7-9,37,2004,Foodpoi
 Samut Sakhon,7-9,22,2004,Foodpoi
 Samut Songkhram,7-9,8,2004,Foodpoi
-Zone 8,7-9,387,2004,Foodpoi
+Zone:8,7-9,387,2004,Foodpoi
 Chachoengsao,7-9,81,2004,Foodpoi
 Nakhon Nayok,7-9,37,2004,Foodpoi
 Prachin Buri,7-9,115,2004,Foodpoi
 Sa Kaeo,7-9,34,2004,Foodpoi
 Samut Prakan,7-9,120,2004,Foodpoi
-Zone 9,7-9,417,2004,Foodpoi
+Zone:9,7-9,417,2004,Foodpoi
 Chanthaburi,7-9,74,2004,Foodpoi
 Chon Buri,7-9,93,2004,Foodpoi
 Rayong,7-9,207,2004,Foodpoi
 Trat,7-9,43,2004,Foodpoi
 North-Eastern Region,7-9,4857,2004,Foodpoi
-Zone 10,7-9,725,2004,Foodpoi
+Zone:10,7-9,725,2004,Foodpoi
 Loei,7-9,104,2004,Foodpoi
 Nong Bua Lam Phu,7-9,131,2004,Foodpoi
 Nong Khai,7-9,125,2004,Foodpoi
 Udon Thani,7-9,365,2004,Foodpoi
-Zone 11,7-9,534,2004,Foodpoi
+Zone:11,7-9,534,2004,Foodpoi
 Kalasin,7-9,240,2004,Foodpoi
 Mukdahan,7-9,74,2004,Foodpoi
 Nakhon Phanom,7-9,93,2004,Foodpoi
 Sakon Nakhon,7-9,127,2004,Foodpoi
-Zone 12,7-9,975,2004,Foodpoi
+Zone:12,7-9,975,2004,Foodpoi
 Khon Kaen,7-9,568,2004,Foodpoi
 Maha Sarakham,7-9,144,2004,Foodpoi
 Roi Et,7-9,263,2004,Foodpoi
-Zone 13,7-9,1386,2004,Foodpoi
+Zone:13,7-9,1386,2004,Foodpoi
 Buri Ram,7-9,367,2004,Foodpoi
 Chaiyaphum,7-9,228,2004,Foodpoi
 Nakhon Ratchasima,7-9,431,2004,Foodpoi
 Surin,7-9,360,2004,Foodpoi
-Zone 14,7-9,1237,2004,Foodpoi
+Zone:14,7-9,1237,2004,Foodpoi
 Amnat Charoen,7-9,96,2004,Foodpoi
 Si Sa Ket,7-9,419,2004,Foodpoi
 Ubon Ratchathani,7-9,529,2004,Foodpoi
 Yasothon,7-9,193,2004,Foodpoi
 South Region,7-9,511,2004,Foodpoi
-Zone 15,7-9,118,2004,Foodpoi
+Zone:15,7-9,118,2004,Foodpoi
 Chumphon,7-9,40,2004,Foodpoi
 Ranong,7-9,18,2004,Foodpoi
 Surat Thani,7-9,60,2004,Foodpoi
-Zone 16,7-9,180,2004,Foodpoi
+Zone:16,7-9,180,2004,Foodpoi
 Nakhon Si Thammarat,7-9,83,2004,Foodpoi
 Phatthalung,7-9,42,2004,Foodpoi
 Trang,7-9,55,2004,Foodpoi
-Zone 17,7-9,46,2004,Foodpoi
+Zone:17,7-9,46,2004,Foodpoi
 Krabi,7-9,27,2004,Foodpoi
 Phangnga,7-9,11,2004,Foodpoi
 Phuket,7-9,8,2004,Foodpoi
-Zone 18,7-9,76,2004,Foodpoi
+Zone:18,7-9,76,2004,Foodpoi
 Narathiwat,7-9,15,2004,Foodpoi
 Pattani,7-9,13,2004,Foodpoi
 Yala,7-9,48,2004,Foodpoi
-Zone 19,7-9,91,2004,Foodpoi
+Zone:19,7-9,91,2004,Foodpoi
 Satun,7-9,6,2004,Foodpoi
 Songkhla,7-9,85,2004,Foodpoi
 Total,10-14,11570,2004,Foodpoi
 North Region,10-14,2633,2004,Foodpoi
-Zone 1,10-14,1476,2004,Foodpoi
+Zone:1,10-14,1476,2004,Foodpoi
 Chiang Mai,10-14,305,2004,Foodpoi
 Chiang Rai,10-14,249,2004,Foodpoi
 Lampang,10-14,338,2004,Foodpoi
@@ -28514,98 +28514,98 @@ Mae Hong Son,10-14,39,2004,Foodpoi
 Nan,10-14,143,2004,Foodpoi
 Phayao,10-14,123,2004,Foodpoi
 Phrae,10-14,135,2004,Foodpoi
-Zone 2,10-14,771,2004,Foodpoi
+Zone:2,10-14,771,2004,Foodpoi
 Phetchabun,10-14,191,2004,Foodpoi
 Phitsanulok,10-14,269,2004,Foodpoi
 Sukhothai,10-14,143,2004,Foodpoi
 Tak,10-14,105,2004,Foodpoi
 Uttaradit,10-14,63,2004,Foodpoi
-Zone 3,10-14,386,2004,Foodpoi
+Zone:3,10-14,386,2004,Foodpoi
 Kamphaeng Phet,10-14,91,2004,Foodpoi
 Nakhon Sawan,10-14,176,2004,Foodpoi
 Phichit,10-14,58,2004,Foodpoi
 Uthai Thani,10-14,61,2004,Foodpoi
 Central Region,10-14,2251,2004,Foodpoi
 Bangkok,10-14,216,2004,Foodpoi
-Zone 4,10-14,200,2004,Foodpoi
+Zone:4,10-14,200,2004,Foodpoi
 Ang Thong,10-14,49,2004,Foodpoi
 Nonthaburi,10-14,51,2004,Foodpoi
 P.Nakhon S.Ayutthaya,10-14,60,2004,Foodpoi
 Pathum Thani,10-14,40,2004,Foodpoi
-Zone 5,10-14,211,2004,Foodpoi
+Zone:5,10-14,211,2004,Foodpoi
 Chai Nat,10-14,79,2004,Foodpoi
 Lop Buri,10-14,59,2004,Foodpoi
 Saraburi,10-14,43,2004,Foodpoi
 Sing Buri,10-14,30,2004,Foodpoi
-Zone 6,10-14,479,2004,Foodpoi
+Zone:6,10-14,479,2004,Foodpoi
 Kanchanaburi,10-14,98,2004,Foodpoi
 Nakhon Pathom,10-14,179,2004,Foodpoi
 Ratchaburi,10-14,99,2004,Foodpoi
 Suphan Buri,10-14,103,2004,Foodpoi
-Zone 7,10-14,169,2004,Foodpoi
+Zone:7,10-14,169,2004,Foodpoi
 Phetchaburi,10-14,56,2004,Foodpoi
 Prachuap Khiri Khan,10-14,55,2004,Foodpoi
 Samut Sakhon,10-14,37,2004,Foodpoi
 Samut Songkhram,10-14,21,2004,Foodpoi
-Zone 8,10-14,428,2004,Foodpoi
+Zone:8,10-14,428,2004,Foodpoi
 Chachoengsao,10-14,99,2004,Foodpoi
 Nakhon Nayok,10-14,42,2004,Foodpoi
 Prachin Buri,10-14,93,2004,Foodpoi
 Sa Kaeo,10-14,54,2004,Foodpoi
 Samut Prakan,10-14,140,2004,Foodpoi
-Zone 9,10-14,548,2004,Foodpoi
+Zone:9,10-14,548,2004,Foodpoi
 Chanthaburi,10-14,102,2004,Foodpoi
 Chon Buri,10-14,109,2004,Foodpoi
 Rayong,10-14,274,2004,Foodpoi
 Trat,10-14,63,2004,Foodpoi
 North-Eastern Region,10-14,6067,2004,Foodpoi
-Zone 10,10-14,1016,2004,Foodpoi
+Zone:10,10-14,1016,2004,Foodpoi
 Loei,10-14,262,2004,Foodpoi
 Nong Bua Lam Phu,10-14,170,2004,Foodpoi
 Nong Khai,10-14,160,2004,Foodpoi
 Udon Thani,10-14,424,2004,Foodpoi
-Zone 11,10-14,692,2004,Foodpoi
+Zone:11,10-14,692,2004,Foodpoi
 Kalasin,10-14,268,2004,Foodpoi
 Mukdahan,10-14,113,2004,Foodpoi
 Nakhon Phanom,10-14,124,2004,Foodpoi
 Sakon Nakhon,10-14,187,2004,Foodpoi
-Zone 12,10-14,1118,2004,Foodpoi
+Zone:12,10-14,1118,2004,Foodpoi
 Khon Kaen,10-14,551,2004,Foodpoi
 Maha Sarakham,10-14,168,2004,Foodpoi
 Roi Et,10-14,399,2004,Foodpoi
-Zone 13,10-14,1773,2004,Foodpoi
+Zone:13,10-14,1773,2004,Foodpoi
 Buri Ram,10-14,442,2004,Foodpoi
 Chaiyaphum,10-14,305,2004,Foodpoi
 Nakhon Ratchasima,10-14,562,2004,Foodpoi
 Surin,10-14,464,2004,Foodpoi
-Zone 14,10-14,1468,2004,Foodpoi
+Zone:14,10-14,1468,2004,Foodpoi
 Amnat Charoen,10-14,100,2004,Foodpoi
 Si Sa Ket,10-14,516,2004,Foodpoi
 Ubon Ratchathani,10-14,612,2004,Foodpoi
 Yasothon,10-14,240,2004,Foodpoi
 South Region,10-14,619,2004,Foodpoi
-Zone 15,10-14,126,2004,Foodpoi
+Zone:15,10-14,126,2004,Foodpoi
 Chumphon,10-14,47,2004,Foodpoi
 Ranong,10-14,14,2004,Foodpoi
 Surat Thani,10-14,65,2004,Foodpoi
-Zone 16,10-14,222,2004,Foodpoi
+Zone:16,10-14,222,2004,Foodpoi
 Nakhon Si Thammarat,10-14,98,2004,Foodpoi
 Phatthalung,10-14,40,2004,Foodpoi
 Trang,10-14,84,2004,Foodpoi
-Zone 17,10-14,69,2004,Foodpoi
+Zone:17,10-14,69,2004,Foodpoi
 Krabi,10-14,51,2004,Foodpoi
 Phangnga,10-14,10,2004,Foodpoi
 Phuket,10-14,8,2004,Foodpoi
-Zone 18,10-14,89,2004,Foodpoi
+Zone:18,10-14,89,2004,Foodpoi
 Narathiwat,10-14,12,2004,Foodpoi
 Pattani,10-14,16,2004,Foodpoi
 Yala,10-14,61,2004,Foodpoi
-Zone 19,10-14,113,2004,Foodpoi
+Zone:19,10-14,113,2004,Foodpoi
 Satun,10-14,14,2004,Foodpoi
 Songkhla,10-14,99,2004,Foodpoi
 Total,15-24,16299,2004,Foodpoi
 North Region,15-24,3086,2004,Foodpoi
-Zone 1,15-24,1948,2004,Foodpoi
+Zone:1,15-24,1948,2004,Foodpoi
 Chiang Mai,15-24,447,2004,Foodpoi
 Chiang Rai,15-24,347,2004,Foodpoi
 Lampang,15-24,460,2004,Foodpoi
@@ -28614,98 +28614,98 @@ Mae Hong Son,15-24,48,2004,Foodpoi
 Nan,15-24,156,2004,Foodpoi
 Phayao,15-24,142,2004,Foodpoi
 Phrae,15-24,118,2004,Foodpoi
-Zone 2,15-24,732,2004,Foodpoi
+Zone:2,15-24,732,2004,Foodpoi
 Phetchabun,15-24,174,2004,Foodpoi
 Phitsanulok,15-24,283,2004,Foodpoi
 Sukhothai,15-24,100,2004,Foodpoi
 Tak,15-24,84,2004,Foodpoi
 Uttaradit,15-24,91,2004,Foodpoi
-Zone 3,15-24,406,2004,Foodpoi
+Zone:3,15-24,406,2004,Foodpoi
 Kamphaeng Phet,15-24,98,2004,Foodpoi
 Nakhon Sawan,15-24,179,2004,Foodpoi
 Phichit,15-24,68,2004,Foodpoi
 Uthai Thani,15-24,61,2004,Foodpoi
 Central Region,15-24,5180,2004,Foodpoi
 Bangkok,15-24,601,2004,Foodpoi
-Zone 4,15-24,467,2004,Foodpoi
+Zone:4,15-24,467,2004,Foodpoi
 Ang Thong,15-24,36,2004,Foodpoi
 Nonthaburi,15-24,129,2004,Foodpoi
 P.Nakhon S.Ayutthaya,15-24,184,2004,Foodpoi
 Pathum Thani,15-24,118,2004,Foodpoi
-Zone 5,15-24,286,2004,Foodpoi
+Zone:5,15-24,286,2004,Foodpoi
 Chai Nat,15-24,54,2004,Foodpoi
 Lop Buri,15-24,89,2004,Foodpoi
 Saraburi,15-24,101,2004,Foodpoi
 Sing Buri,15-24,42,2004,Foodpoi
-Zone 6,15-24,738,2004,Foodpoi
+Zone:6,15-24,738,2004,Foodpoi
 Kanchanaburi,15-24,130,2004,Foodpoi
 Nakhon Pathom,15-24,383,2004,Foodpoi
 Ratchaburi,15-24,150,2004,Foodpoi
 Suphan Buri,15-24,75,2004,Foodpoi
-Zone 7,15-24,449,2004,Foodpoi
+Zone:7,15-24,449,2004,Foodpoi
 Phetchaburi,15-24,116,2004,Foodpoi
 Prachuap Khiri Khan,15-24,111,2004,Foodpoi
 Samut Sakhon,15-24,198,2004,Foodpoi
 Samut Songkhram,15-24,24,2004,Foodpoi
-Zone 8,15-24,993,2004,Foodpoi
+Zone:8,15-24,993,2004,Foodpoi
 Chachoengsao,15-24,224,2004,Foodpoi
 Nakhon Nayok,15-24,59,2004,Foodpoi
 Prachin Buri,15-24,303,2004,Foodpoi
 Sa Kaeo,15-24,55,2004,Foodpoi
 Samut Prakan,15-24,352,2004,Foodpoi
-Zone 9,15-24,1646,2004,Foodpoi
+Zone:9,15-24,1646,2004,Foodpoi
 Chanthaburi,15-24,210,2004,Foodpoi
 Chon Buri,15-24,411,2004,Foodpoi
 Rayong,15-24,903,2004,Foodpoi
 Trat,15-24,122,2004,Foodpoi
 North-Eastern Region,15-24,7245,2004,Foodpoi
-Zone 10,15-24,1089,2004,Foodpoi
+Zone:10,15-24,1089,2004,Foodpoi
 Loei,15-24,228,2004,Foodpoi
 Nong Bua Lam Phu,15-24,162,2004,Foodpoi
 Nong Khai,15-24,176,2004,Foodpoi
 Udon Thani,15-24,523,2004,Foodpoi
-Zone 11,15-24,859,2004,Foodpoi
+Zone:11,15-24,859,2004,Foodpoi
 Kalasin,15-24,330,2004,Foodpoi
 Mukdahan,15-24,113,2004,Foodpoi
 Nakhon Phanom,15-24,164,2004,Foodpoi
 Sakon Nakhon,15-24,252,2004,Foodpoi
-Zone 12,15-24,1433,2004,Foodpoi
+Zone:12,15-24,1433,2004,Foodpoi
 Khon Kaen,15-24,865,2004,Foodpoi
 Maha Sarakham,15-24,183,2004,Foodpoi
 Roi Et,15-24,385,2004,Foodpoi
-Zone 13,15-24,2154,2004,Foodpoi
+Zone:13,15-24,2154,2004,Foodpoi
 Buri Ram,15-24,402,2004,Foodpoi
 Chaiyaphum,15-24,323,2004,Foodpoi
 Nakhon Ratchasima,15-24,1012,2004,Foodpoi
 Surin,15-24,417,2004,Foodpoi
-Zone 14,15-24,1710,2004,Foodpoi
+Zone:14,15-24,1710,2004,Foodpoi
 Amnat Charoen,15-24,78,2004,Foodpoi
 Si Sa Ket,15-24,584,2004,Foodpoi
 Ubon Ratchathani,15-24,748,2004,Foodpoi
 Yasothon,15-24,300,2004,Foodpoi
 South Region,15-24,788,2004,Foodpoi
-Zone 15,15-24,219,2004,Foodpoi
+Zone:15,15-24,219,2004,Foodpoi
 Chumphon,15-24,66,2004,Foodpoi
 Ranong,15-24,32,2004,Foodpoi
 Surat Thani,15-24,121,2004,Foodpoi
-Zone 16,15-24,199,2004,Foodpoi
+Zone:16,15-24,199,2004,Foodpoi
 Nakhon Si Thammarat,15-24,100,2004,Foodpoi
 Phatthalung,15-24,38,2004,Foodpoi
 Trang,15-24,61,2004,Foodpoi
-Zone 17,15-24,109,2004,Foodpoi
+Zone:17,15-24,109,2004,Foodpoi
 Krabi,15-24,49,2004,Foodpoi
 Phangnga,15-24,19,2004,Foodpoi
 Phuket,15-24,41,2004,Foodpoi
-Zone 18,15-24,85,2004,Foodpoi
+Zone:18,15-24,85,2004,Foodpoi
 Narathiwat,15-24,13,2004,Foodpoi
 Pattani,15-24,24,2004,Foodpoi
 Yala,15-24,48,2004,Foodpoi
-Zone 19,15-24,176,2004,Foodpoi
+Zone:19,15-24,176,2004,Foodpoi
 Satun,15-24,31,2004,Foodpoi
 Songkhla,15-24,145,2004,Foodpoi
 Total,25-34,19543,2004,Foodpoi
 North Region,25-34,3462,2004,Foodpoi
-Zone 1,25-34,1965,2004,Foodpoi
+Zone:1,25-34,1965,2004,Foodpoi
 Chiang Mai,25-34,370,2004,Foodpoi
 Chiang Rai,25-34,420,2004,Foodpoi
 Lampang,25-34,439,2004,Foodpoi
@@ -28714,98 +28714,98 @@ Mae Hong Son,25-34,71,2004,Foodpoi
 Nan,25-34,176,2004,Foodpoi
 Phayao,25-34,157,2004,Foodpoi
 Phrae,25-34,122,2004,Foodpoi
-Zone 2,25-34,1031,2004,Foodpoi
+Zone:2,25-34,1031,2004,Foodpoi
 Phetchabun,25-34,227,2004,Foodpoi
 Phitsanulok,25-34,378,2004,Foodpoi
 Sukhothai,25-34,144,2004,Foodpoi
 Tak,25-34,155,2004,Foodpoi
 Uttaradit,25-34,127,2004,Foodpoi
-Zone 3,25-34,466,2004,Foodpoi
+Zone:3,25-34,466,2004,Foodpoi
 Kamphaeng Phet,25-34,106,2004,Foodpoi
 Nakhon Sawan,25-34,220,2004,Foodpoi
 Phichit,25-34,72,2004,Foodpoi
 Uthai Thani,25-34,68,2004,Foodpoi
 Central Region,25-34,5488,2004,Foodpoi
 Bangkok,25-34,645,2004,Foodpoi
-Zone 4,25-34,497,2004,Foodpoi
+Zone:4,25-34,497,2004,Foodpoi
 Ang Thong,25-34,20,2004,Foodpoi
 Nonthaburi,25-34,133,2004,Foodpoi
 P.Nakhon S.Ayutthaya,25-34,203,2004,Foodpoi
 Pathum Thani,25-34,141,2004,Foodpoi
-Zone 5,25-34,332,2004,Foodpoi
+Zone:5,25-34,332,2004,Foodpoi
 Chai Nat,25-34,48,2004,Foodpoi
 Lop Buri,25-34,116,2004,Foodpoi
 Saraburi,25-34,118,2004,Foodpoi
 Sing Buri,25-34,50,2004,Foodpoi
-Zone 6,25-34,734,2004,Foodpoi
+Zone:6,25-34,734,2004,Foodpoi
 Kanchanaburi,25-34,155,2004,Foodpoi
 Nakhon Pathom,25-34,381,2004,Foodpoi
 Ratchaburi,25-34,127,2004,Foodpoi
 Suphan Buri,25-34,71,2004,Foodpoi
-Zone 7,25-34,424,2004,Foodpoi
+Zone:7,25-34,424,2004,Foodpoi
 Phetchaburi,25-34,121,2004,Foodpoi
 Prachuap Khiri Khan,25-34,106,2004,Foodpoi
 Samut Sakhon,25-34,171,2004,Foodpoi
 Samut Songkhram,25-34,26,2004,Foodpoi
-Zone 8,25-34,1058,2004,Foodpoi
+Zone:8,25-34,1058,2004,Foodpoi
 Chachoengsao,25-34,257,2004,Foodpoi
 Nakhon Nayok,25-34,57,2004,Foodpoi
 Prachin Buri,25-34,368,2004,Foodpoi
 Sa Kaeo,25-34,78,2004,Foodpoi
 Samut Prakan,25-34,298,2004,Foodpoi
-Zone 9,25-34,1798,2004,Foodpoi
+Zone:9,25-34,1798,2004,Foodpoi
 Chanthaburi,25-34,225,2004,Foodpoi
 Chon Buri,25-34,414,2004,Foodpoi
 Rayong,25-34,1036,2004,Foodpoi
 Trat,25-34,123,2004,Foodpoi
 North-Eastern Region,25-34,9647,2004,Foodpoi
-Zone 10,25-34,1502,2004,Foodpoi
+Zone:10,25-34,1502,2004,Foodpoi
 Loei,25-34,232,2004,Foodpoi
 Nong Bua Lam Phu,25-34,246,2004,Foodpoi
 Nong Khai,25-34,236,2004,Foodpoi
 Udon Thani,25-34,788,2004,Foodpoi
-Zone 11,25-34,1264,2004,Foodpoi
+Zone:11,25-34,1264,2004,Foodpoi
 Kalasin,25-34,506,2004,Foodpoi
 Mukdahan,25-34,204,2004,Foodpoi
 Nakhon Phanom,25-34,214,2004,Foodpoi
 Sakon Nakhon,25-34,340,2004,Foodpoi
-Zone 12,25-34,1663,2004,Foodpoi
+Zone:12,25-34,1663,2004,Foodpoi
 Khon Kaen,25-34,832,2004,Foodpoi
 Maha Sarakham,25-34,272,2004,Foodpoi
 Roi Et,25-34,559,2004,Foodpoi
-Zone 13,25-34,2804,2004,Foodpoi
+Zone:13,25-34,2804,2004,Foodpoi
 Buri Ram,25-34,648,2004,Foodpoi
 Chaiyaphum,25-34,463,2004,Foodpoi
 Nakhon Ratchasima,25-34,1084,2004,Foodpoi
 Surin,25-34,609,2004,Foodpoi
-Zone 14,25-34,2414,2004,Foodpoi
+Zone:14,25-34,2414,2004,Foodpoi
 Amnat Charoen,25-34,143,2004,Foodpoi
 Si Sa Ket,25-34,811,2004,Foodpoi
 Ubon Ratchathani,25-34,1072,2004,Foodpoi
 Yasothon,25-34,388,2004,Foodpoi
 South Region,25-34,946,2004,Foodpoi
-Zone 15,25-34,288,2004,Foodpoi
+Zone:15,25-34,288,2004,Foodpoi
 Chumphon,25-34,90,2004,Foodpoi
 Ranong,25-34,30,2004,Foodpoi
 Surat Thani,25-34,168,2004,Foodpoi
-Zone 16,25-34,234,2004,Foodpoi
+Zone:16,25-34,234,2004,Foodpoi
 Nakhon Si Thammarat,25-34,113,2004,Foodpoi
 Phatthalung,25-34,46,2004,Foodpoi
 Trang,25-34,75,2004,Foodpoi
-Zone 17,25-34,133,2004,Foodpoi
+Zone:17,25-34,133,2004,Foodpoi
 Krabi,25-34,57,2004,Foodpoi
 Phangnga,25-34,29,2004,Foodpoi
 Phuket,25-34,47,2004,Foodpoi
-Zone 18,25-34,92,2004,Foodpoi
+Zone:18,25-34,92,2004,Foodpoi
 Narathiwat,25-34,17,2004,Foodpoi
 Pattani,25-34,29,2004,Foodpoi
 Yala,25-34,46,2004,Foodpoi
-Zone 19,25-34,199,2004,Foodpoi
+Zone:19,25-34,199,2004,Foodpoi
 Satun,25-34,41,2004,Foodpoi
 Songkhla,25-34,158,2004,Foodpoi
 Total,35-44,21342,2004,Foodpoi
 North Region,35-44,4601,2004,Foodpoi
-Zone 1,35-44,2639,2004,Foodpoi
+Zone:1,35-44,2639,2004,Foodpoi
 Chiang Mai,35-44,479,2004,Foodpoi
 Chiang Rai,35-44,566,2004,Foodpoi
 Lampang,35-44,561,2004,Foodpoi
@@ -28814,98 +28814,98 @@ Mae Hong Son,35-44,63,2004,Foodpoi
 Nan,35-44,248,2004,Foodpoi
 Phayao,35-44,309,2004,Foodpoi
 Phrae,35-44,161,2004,Foodpoi
-Zone 2,35-44,1358,2004,Foodpoi
+Zone:2,35-44,1358,2004,Foodpoi
 Phetchabun,35-44,263,2004,Foodpoi
 Phitsanulok,35-44,531,2004,Foodpoi
 Sukhothai,35-44,204,2004,Foodpoi
 Tak,35-44,165,2004,Foodpoi
 Uttaradit,35-44,195,2004,Foodpoi
-Zone 3,35-44,604,2004,Foodpoi
+Zone:3,35-44,604,2004,Foodpoi
 Kamphaeng Phet,35-44,113,2004,Foodpoi
 Nakhon Sawan,35-44,279,2004,Foodpoi
 Phichit,35-44,100,2004,Foodpoi
 Uthai Thani,35-44,112,2004,Foodpoi
 Central Region,35-44,4117,2004,Foodpoi
 Bangkok,35-44,436,2004,Foodpoi
-Zone 4,35-44,383,2004,Foodpoi
+Zone:4,35-44,383,2004,Foodpoi
 Ang Thong,35-44,25,2004,Foodpoi
 Nonthaburi,35-44,95,2004,Foodpoi
 P.Nakhon S.Ayutthaya,35-44,164,2004,Foodpoi
 Pathum Thani,35-44,99,2004,Foodpoi
-Zone 5,35-44,320,2004,Foodpoi
+Zone:5,35-44,320,2004,Foodpoi
 Chai Nat,35-44,76,2004,Foodpoi
 Lop Buri,35-44,94,2004,Foodpoi
 Saraburi,35-44,89,2004,Foodpoi
 Sing Buri,35-44,61,2004,Foodpoi
-Zone 6,35-44,644,2004,Foodpoi
+Zone:6,35-44,644,2004,Foodpoi
 Kanchanaburi,35-44,136,2004,Foodpoi
 Nakhon Pathom,35-44,286,2004,Foodpoi
 Ratchaburi,35-44,118,2004,Foodpoi
 Suphan Buri,35-44,104,2004,Foodpoi
-Zone 7,35-44,291,2004,Foodpoi
+Zone:7,35-44,291,2004,Foodpoi
 Phetchaburi,35-44,78,2004,Foodpoi
 Prachuap Khiri Khan,35-44,95,2004,Foodpoi
 Samut Sakhon,35-44,96,2004,Foodpoi
 Samut Songkhram,35-44,22,2004,Foodpoi
-Zone 8,35-44,858,2004,Foodpoi
+Zone:8,35-44,858,2004,Foodpoi
 Chachoengsao,35-44,182,2004,Foodpoi
 Nakhon Nayok,35-44,53,2004,Foodpoi
 Prachin Buri,35-44,284,2004,Foodpoi
 Sa Kaeo,35-44,103,2004,Foodpoi
 Samut Prakan,35-44,236,2004,Foodpoi
-Zone 9,35-44,1185,2004,Foodpoi
+Zone:9,35-44,1185,2004,Foodpoi
 Chanthaburi,35-44,168,2004,Foodpoi
 Chon Buri,35-44,253,2004,Foodpoi
 Rayong,35-44,657,2004,Foodpoi
 Trat,35-44,107,2004,Foodpoi
 North-Eastern Region,35-44,11752,2004,Foodpoi
-Zone 10,35-44,1881,2004,Foodpoi
+Zone:10,35-44,1881,2004,Foodpoi
 Loei,35-44,299,2004,Foodpoi
 Nong Bua Lam Phu,35-44,317,2004,Foodpoi
 Nong Khai,35-44,299,2004,Foodpoi
 Udon Thani,35-44,966,2004,Foodpoi
-Zone 11,35-44,1526,2004,Foodpoi
+Zone:11,35-44,1526,2004,Foodpoi
 Kalasin,35-44,588,2004,Foodpoi
 Mukdahan,35-44,248,2004,Foodpoi
 Nakhon Phanom,35-44,262,2004,Foodpoi
 Sakon Nakhon,35-44,428,2004,Foodpoi
-Zone 12,35-44,2023,2004,Foodpoi
+Zone:12,35-44,2023,2004,Foodpoi
 Khon Kaen,35-44,964,2004,Foodpoi
 Maha Sarakham,35-44,324,2004,Foodpoi
 Roi Et,35-44,735,2004,Foodpoi
-Zone 13,35-44,3372,2004,Foodpoi
+Zone:13,35-44,3372,2004,Foodpoi
 Buri Ram,35-44,812,2004,Foodpoi
 Chaiyaphum,35-44,618,2004,Foodpoi
 Nakhon Ratchasima,35-44,1113,2004,Foodpoi
 Surin,35-44,829,2004,Foodpoi
-Zone 14,35-44,2950,2004,Foodpoi
+Zone:14,35-44,2950,2004,Foodpoi
 Amnat Charoen,35-44,182,2004,Foodpoi
 Si Sa Ket,35-44,1090,2004,Foodpoi
 Ubon Ratchathani,35-44,1142,2004,Foodpoi
 Yasothon,35-44,536,2004,Foodpoi
 South Region,35-44,872,2004,Foodpoi
-Zone 15,35-44,219,2004,Foodpoi
+Zone:15,35-44,219,2004,Foodpoi
 Chumphon,35-44,84,2004,Foodpoi
 Ranong,35-44,31,2004,Foodpoi
 Surat Thani,35-44,104,2004,Foodpoi
-Zone 16,35-44,264,2004,Foodpoi
+Zone:16,35-44,264,2004,Foodpoi
 Nakhon Si Thammarat,35-44,133,2004,Foodpoi
 Phatthalung,35-44,53,2004,Foodpoi
 Trang,35-44,78,2004,Foodpoi
-Zone 17,35-44,115,2004,Foodpoi
+Zone:17,35-44,115,2004,Foodpoi
 Krabi,35-44,42,2004,Foodpoi
 Phangnga,35-44,34,2004,Foodpoi
 Phuket,35-44,39,2004,Foodpoi
-Zone 18,35-44,104,2004,Foodpoi
+Zone:18,35-44,104,2004,Foodpoi
 Narathiwat,35-44,25,2004,Foodpoi
 Pattani,35-44,21,2004,Foodpoi
 Yala,35-44,58,2004,Foodpoi
-Zone 19,35-44,170,2004,Foodpoi
+Zone:19,35-44,170,2004,Foodpoi
 Satun,35-44,40,2004,Foodpoi
 Songkhla,35-44,130,2004,Foodpoi
 Total,45-54,17701,2004,Foodpoi
 North Region,45-54,3958,2004,Foodpoi
-Zone 1,45-54,2391,2004,Foodpoi
+Zone:1,45-54,2391,2004,Foodpoi
 Chiang Mai,45-54,463,2004,Foodpoi
 Chiang Rai,45-54,502,2004,Foodpoi
 Lampang,45-54,473,2004,Foodpoi
@@ -28914,98 +28914,98 @@ Mae Hong Son,45-54,48,2004,Foodpoi
 Nan,45-54,219,2004,Foodpoi
 Phayao,45-54,294,2004,Foodpoi
 Phrae,45-54,168,2004,Foodpoi
-Zone 2,45-54,1075,2004,Foodpoi
+Zone:2,45-54,1075,2004,Foodpoi
 Phetchabun,45-54,223,2004,Foodpoi
 Phitsanulok,45-54,425,2004,Foodpoi
 Sukhothai,45-54,163,2004,Foodpoi
 Tak,45-54,114,2004,Foodpoi
 Uttaradit,45-54,150,2004,Foodpoi
-Zone 3,45-54,492,2004,Foodpoi
+Zone:3,45-54,492,2004,Foodpoi
 Kamphaeng Phet,45-54,85,2004,Foodpoi
 Nakhon Sawan,45-54,224,2004,Foodpoi
 Phichit,45-54,87,2004,Foodpoi
 Uthai Thani,45-54,96,2004,Foodpoi
 Central Region,45-54,2826,2004,Foodpoi
 Bangkok,45-54,283,2004,Foodpoi
-Zone 4,45-54,309,2004,Foodpoi
+Zone:4,45-54,309,2004,Foodpoi
 Ang Thong,45-54,21,2004,Foodpoi
 Nonthaburi,45-54,75,2004,Foodpoi
 P.Nakhon S.Ayutthaya,45-54,135,2004,Foodpoi
 Pathum Thani,45-54,78,2004,Foodpoi
-Zone 5,45-54,205,2004,Foodpoi
+Zone:5,45-54,205,2004,Foodpoi
 Chai Nat,45-54,64,2004,Foodpoi
 Lop Buri,45-54,48,2004,Foodpoi
 Saraburi,45-54,52,2004,Foodpoi
 Sing Buri,45-54,41,2004,Foodpoi
-Zone 6,45-54,508,2004,Foodpoi
+Zone:6,45-54,508,2004,Foodpoi
 Kanchanaburi,45-54,119,2004,Foodpoi
 Nakhon Pathom,45-54,232,2004,Foodpoi
 Ratchaburi,45-54,78,2004,Foodpoi
 Suphan Buri,45-54,79,2004,Foodpoi
-Zone 7,45-54,227,2004,Foodpoi
+Zone:7,45-54,227,2004,Foodpoi
 Phetchaburi,45-54,92,2004,Foodpoi
 Prachuap Khiri Khan,45-54,53,2004,Foodpoi
 Samut Sakhon,45-54,65,2004,Foodpoi
 Samut Songkhram,45-54,17,2004,Foodpoi
-Zone 8,45-54,543,2004,Foodpoi
+Zone:8,45-54,543,2004,Foodpoi
 Chachoengsao,45-54,106,2004,Foodpoi
 Nakhon Nayok,45-54,42,2004,Foodpoi
 Prachin Buri,45-54,195,2004,Foodpoi
 Sa Kaeo,45-54,71,2004,Foodpoi
 Samut Prakan,45-54,129,2004,Foodpoi
-Zone 9,45-54,751,2004,Foodpoi
+Zone:9,45-54,751,2004,Foodpoi
 Chanthaburi,45-54,133,2004,Foodpoi
 Chon Buri,45-54,120,2004,Foodpoi
 Rayong,45-54,412,2004,Foodpoi
 Trat,45-54,86,2004,Foodpoi
 North-Eastern Region,45-54,10354,2004,Foodpoi
-Zone 10,45-54,1697,2004,Foodpoi
+Zone:10,45-54,1697,2004,Foodpoi
 Loei,45-54,290,2004,Foodpoi
 Nong Bua Lam Phu,45-54,306,2004,Foodpoi
 Nong Khai,45-54,269,2004,Foodpoi
 Udon Thani,45-54,832,2004,Foodpoi
-Zone 11,45-54,1274,2004,Foodpoi
+Zone:11,45-54,1274,2004,Foodpoi
 Kalasin,45-54,494,2004,Foodpoi
 Mukdahan,45-54,196,2004,Foodpoi
 Nakhon Phanom,45-54,214,2004,Foodpoi
 Sakon Nakhon,45-54,370,2004,Foodpoi
-Zone 12,45-54,1904,2004,Foodpoi
+Zone:12,45-54,1904,2004,Foodpoi
 Khon Kaen,45-54,835,2004,Foodpoi
 Maha Sarakham,45-54,324,2004,Foodpoi
 Roi Et,45-54,745,2004,Foodpoi
-Zone 13,45-54,2929,2004,Foodpoi
+Zone:13,45-54,2929,2004,Foodpoi
 Buri Ram,45-54,699,2004,Foodpoi
 Chaiyaphum,45-54,563,2004,Foodpoi
 Nakhon Ratchasima,45-54,933,2004,Foodpoi
 Surin,45-54,734,2004,Foodpoi
-Zone 14,45-54,2550,2004,Foodpoi
+Zone:14,45-54,2550,2004,Foodpoi
 Amnat Charoen,45-54,139,2004,Foodpoi
 Si Sa Ket,45-54,883,2004,Foodpoi
 Ubon Ratchathani,45-54,1052,2004,Foodpoi
 Yasothon,45-54,476,2004,Foodpoi
 South Region,45-54,563,2004,Foodpoi
-Zone 15,45-54,147,2004,Foodpoi
+Zone:15,45-54,147,2004,Foodpoi
 Chumphon,45-54,52,2004,Foodpoi
 Ranong,45-54,24,2004,Foodpoi
 Surat Thani,45-54,71,2004,Foodpoi
-Zone 16,45-54,156,2004,Foodpoi
+Zone:16,45-54,156,2004,Foodpoi
 Nakhon Si Thammarat,45-54,87,2004,Foodpoi
 Phatthalung,45-54,38,2004,Foodpoi
 Trang,45-54,31,2004,Foodpoi
-Zone 17,45-54,66,2004,Foodpoi
+Zone:17,45-54,66,2004,Foodpoi
 Krabi,45-54,31,2004,Foodpoi
 Phangnga,45-54,20,2004,Foodpoi
 Phuket,45-54,15,2004,Foodpoi
-Zone 18,45-54,70,2004,Foodpoi
+Zone:18,45-54,70,2004,Foodpoi
 Narathiwat,45-54,16,2004,Foodpoi
 Pattani,45-54,13,2004,Foodpoi
 Yala,45-54,41,2004,Foodpoi
-Zone 19,45-54,124,2004,Foodpoi
+Zone:19,45-54,124,2004,Foodpoi
 Satun,45-54,27,2004,Foodpoi
 Songkhla,45-54,97,2004,Foodpoi
 Total,55-64,12182,2004,Foodpoi
 North Region,55-64,2439,2004,Foodpoi
-Zone 1,55-64,1281,2004,Foodpoi
+Zone:1,55-64,1281,2004,Foodpoi
 Chiang Mai,55-64,227,2004,Foodpoi
 Chiang Rai,55-64,268,2004,Foodpoi
 Lampang,55-64,264,2004,Foodpoi
@@ -29014,98 +29014,98 @@ Mae Hong Son,55-64,22,2004,Foodpoi
 Nan,55-64,135,2004,Foodpoi
 Phayao,55-64,142,2004,Foodpoi
 Phrae,55-64,107,2004,Foodpoi
-Zone 2,55-64,812,2004,Foodpoi
+Zone:2,55-64,812,2004,Foodpoi
 Phetchabun,55-64,159,2004,Foodpoi
 Phitsanulok,55-64,355,2004,Foodpoi
 Sukhothai,55-64,122,2004,Foodpoi
 Tak,55-64,65,2004,Foodpoi
 Uttaradit,55-64,111,2004,Foodpoi
-Zone 3,55-64,346,2004,Foodpoi
+Zone:3,55-64,346,2004,Foodpoi
 Kamphaeng Phet,55-64,54,2004,Foodpoi
 Nakhon Sawan,55-64,157,2004,Foodpoi
 Phichit,55-64,80,2004,Foodpoi
 Uthai Thani,55-64,55,2004,Foodpoi
 Central Region,55-64,1632,2004,Foodpoi
 Bangkok,55-64,156,2004,Foodpoi
-Zone 4,55-64,184,2004,Foodpoi
+Zone:4,55-64,184,2004,Foodpoi
 Ang Thong,55-64,21,2004,Foodpoi
 Nonthaburi,55-64,43,2004,Foodpoi
 P.Nakhon S.Ayutthaya,55-64,81,2004,Foodpoi
 Pathum Thani,55-64,39,2004,Foodpoi
-Zone 5,55-64,160,2004,Foodpoi
+Zone:5,55-64,160,2004,Foodpoi
 Chai Nat,55-64,51,2004,Foodpoi
 Lop Buri,55-64,41,2004,Foodpoi
 Saraburi,55-64,33,2004,Foodpoi
 Sing Buri,55-64,35,2004,Foodpoi
-Zone 6,55-64,291,2004,Foodpoi
+Zone:6,55-64,291,2004,Foodpoi
 Kanchanaburi,55-64,53,2004,Foodpoi
 Nakhon Pathom,55-64,134,2004,Foodpoi
 Ratchaburi,55-64,52,2004,Foodpoi
 Suphan Buri,55-64,52,2004,Foodpoi
-Zone 7,55-64,133,2004,Foodpoi
+Zone:7,55-64,133,2004,Foodpoi
 Phetchaburi,55-64,50,2004,Foodpoi
 Prachuap Khiri Khan,55-64,38,2004,Foodpoi
 Samut Sakhon,55-64,35,2004,Foodpoi
 Samut Songkhram,55-64,10,2004,Foodpoi
-Zone 8,55-64,317,2004,Foodpoi
+Zone:8,55-64,317,2004,Foodpoi
 Chachoengsao,55-64,54,2004,Foodpoi
 Nakhon Nayok,55-64,31,2004,Foodpoi
 Prachin Buri,55-64,94,2004,Foodpoi
 Sa Kaeo,55-64,57,2004,Foodpoi
 Samut Prakan,55-64,81,2004,Foodpoi
-Zone 9,55-64,391,2004,Foodpoi
+Zone:9,55-64,391,2004,Foodpoi
 Chanthaburi,55-64,76,2004,Foodpoi
 Chon Buri,55-64,73,2004,Foodpoi
 Rayong,55-64,196,2004,Foodpoi
 Trat,55-64,46,2004,Foodpoi
 North-Eastern Region,55-64,7789,2004,Foodpoi
-Zone 10,55-64,1191,2004,Foodpoi
+Zone:10,55-64,1191,2004,Foodpoi
 Loei,55-64,211,2004,Foodpoi
 Nong Bua Lam Phu,55-64,219,2004,Foodpoi
 Nong Khai,55-64,181,2004,Foodpoi
 Udon Thani,55-64,580,2004,Foodpoi
-Zone 11,55-64,1018,2004,Foodpoi
+Zone:11,55-64,1018,2004,Foodpoi
 Kalasin,55-64,431,2004,Foodpoi
 Mukdahan,55-64,139,2004,Foodpoi
 Nakhon Phanom,55-64,169,2004,Foodpoi
 Sakon Nakhon,55-64,279,2004,Foodpoi
-Zone 12,55-64,1460,2004,Foodpoi
+Zone:12,55-64,1460,2004,Foodpoi
 Khon Kaen,55-64,682,2004,Foodpoi
 Maha Sarakham,55-64,205,2004,Foodpoi
 Roi Et,55-64,573,2004,Foodpoi
-Zone 13,55-64,2163,2004,Foodpoi
+Zone:13,55-64,2163,2004,Foodpoi
 Buri Ram,55-64,465,2004,Foodpoi
 Chaiyaphum,55-64,460,2004,Foodpoi
 Nakhon Ratchasima,55-64,701,2004,Foodpoi
 Surin,55-64,537,2004,Foodpoi
-Zone 14,55-64,1957,2004,Foodpoi
+Zone:14,55-64,1957,2004,Foodpoi
 Amnat Charoen,55-64,119,2004,Foodpoi
 Si Sa Ket,55-64,719,2004,Foodpoi
 Ubon Ratchathani,55-64,759,2004,Foodpoi
 Yasothon,55-64,360,2004,Foodpoi
 South Region,55-64,322,2004,Foodpoi
-Zone 15,55-64,81,2004,Foodpoi
+Zone:15,55-64,81,2004,Foodpoi
 Chumphon,55-64,37,2004,Foodpoi
 Ranong,55-64,11,2004,Foodpoi
 Surat Thani,55-64,33,2004,Foodpoi
-Zone 16,55-64,113,2004,Foodpoi
+Zone:16,55-64,113,2004,Foodpoi
 Nakhon Si Thammarat,55-64,63,2004,Foodpoi
 Phatthalung,55-64,28,2004,Foodpoi
 Trang,55-64,22,2004,Foodpoi
-Zone 17,55-64,44,2004,Foodpoi
+Zone:17,55-64,44,2004,Foodpoi
 Krabi,55-64,22,2004,Foodpoi
 Phangnga,55-64,13,2004,Foodpoi
 Phuket,55-64,9,2004,Foodpoi
-Zone 18,55-64,31,2004,Foodpoi
+Zone:18,55-64,31,2004,Foodpoi
 Narathiwat,55-64,7,2004,Foodpoi
 Pattani,55-64,10,2004,Foodpoi
 Yala,55-64,14,2004,Foodpoi
-Zone 19,55-64,53,2004,Foodpoi
+Zone:19,55-64,53,2004,Foodpoi
 Satun,55-64,16,2004,Foodpoi
 Songkhla,55-64,37,2004,Foodpoi
 Total,65+,13229,2004,Foodpoi
 North Region,65+,2901,2004,Foodpoi
-Zone 1,65+,1587,2004,Foodpoi
+Zone:1,65+,1587,2004,Foodpoi
 Chiang Mai,65+,322,2004,Foodpoi
 Chiang Rai,65+,333,2004,Foodpoi
 Lampang,65+,363,2004,Foodpoi
@@ -29114,98 +29114,98 @@ Mae Hong Son,65+,20,2004,Foodpoi
 Nan,65+,125,2004,Foodpoi
 Phayao,65+,170,2004,Foodpoi
 Phrae,65+,102,2004,Foodpoi
-Zone 2,65+,898,2004,Foodpoi
+Zone:2,65+,898,2004,Foodpoi
 Phetchabun,65+,163,2004,Foodpoi
 Phitsanulok,65+,435,2004,Foodpoi
 Sukhothai,65+,143,2004,Foodpoi
 Tak,65+,65,2004,Foodpoi
 Uttaradit,65+,92,2004,Foodpoi
-Zone 3,65+,416,2004,Foodpoi
+Zone:3,65+,416,2004,Foodpoi
 Kamphaeng Phet,65+,75,2004,Foodpoi
 Nakhon Sawan,65+,216,2004,Foodpoi
 Phichit,65+,63,2004,Foodpoi
 Uthai Thani,65+,62,2004,Foodpoi
 Central Region,65+,1747,2004,Foodpoi
 Bangkok,65+,111,2004,Foodpoi
-Zone 4,65+,206,2004,Foodpoi
+Zone:4,65+,206,2004,Foodpoi
 Ang Thong,65+,23,2004,Foodpoi
 Nonthaburi,65+,40,2004,Foodpoi
 P.Nakhon S.Ayutthaya,65+,114,2004,Foodpoi
 Pathum Thani,65+,29,2004,Foodpoi
-Zone 5,65+,166,2004,Foodpoi
+Zone:5,65+,166,2004,Foodpoi
 Chai Nat,65+,55,2004,Foodpoi
 Lop Buri,65+,36,2004,Foodpoi
 Saraburi,65+,37,2004,Foodpoi
 Sing Buri,65+,38,2004,Foodpoi
-Zone 6,65+,334,2004,Foodpoi
+Zone:6,65+,334,2004,Foodpoi
 Kanchanaburi,65+,51,2004,Foodpoi
 Nakhon Pathom,65+,167,2004,Foodpoi
 Ratchaburi,65+,55,2004,Foodpoi
 Suphan Buri,65+,61,2004,Foodpoi
-Zone 7,65+,173,2004,Foodpoi
+Zone:7,65+,173,2004,Foodpoi
 Phetchaburi,65+,66,2004,Foodpoi
 Prachuap Khiri Khan,65+,52,2004,Foodpoi
 Samut Sakhon,65+,47,2004,Foodpoi
 Samut Songkhram,65+,8,2004,Foodpoi
-Zone 8,65+,344,2004,Foodpoi
+Zone:8,65+,344,2004,Foodpoi
 Chachoengsao,65+,67,2004,Foodpoi
 Nakhon Nayok,65+,23,2004,Foodpoi
 Prachin Buri,65+,119,2004,Foodpoi
 Sa Kaeo,65+,50,2004,Foodpoi
 Samut Prakan,65+,85,2004,Foodpoi
-Zone 9,65+,413,2004,Foodpoi
+Zone:9,65+,413,2004,Foodpoi
 Chanthaburi,65+,90,2004,Foodpoi
 Chon Buri,65+,76,2004,Foodpoi
 Rayong,65+,193,2004,Foodpoi
 Trat,65+,54,2004,Foodpoi
 North-Eastern Region,65+,8179,2004,Foodpoi
-Zone 10,65+,1138,2004,Foodpoi
+Zone:10,65+,1138,2004,Foodpoi
 Loei,65+,189,2004,Foodpoi
 Nong Bua Lam Phu,65+,173,2004,Foodpoi
 Nong Khai,65+,162,2004,Foodpoi
 Udon Thani,65+,614,2004,Foodpoi
-Zone 11,65+,887,2004,Foodpoi
+Zone:11,65+,887,2004,Foodpoi
 Kalasin,65+,385,2004,Foodpoi
 Mukdahan,65+,144,2004,Foodpoi
 Nakhon Phanom,65+,148,2004,Foodpoi
 Sakon Nakhon,65+,210,2004,Foodpoi
-Zone 12,65+,1341,2004,Foodpoi
+Zone:12,65+,1341,2004,Foodpoi
 Khon Kaen,65+,623,2004,Foodpoi
 Maha Sarakham,65+,210,2004,Foodpoi
 Roi Et,65+,508,2004,Foodpoi
-Zone 13,65+,2347,2004,Foodpoi
+Zone:13,65+,2347,2004,Foodpoi
 Buri Ram,65+,466,2004,Foodpoi
 Chaiyaphum,65+,422,2004,Foodpoi
 Nakhon Ratchasima,65+,872,2004,Foodpoi
 Surin,65+,587,2004,Foodpoi
-Zone 14,65+,2466,2004,Foodpoi
+Zone:14,65+,2466,2004,Foodpoi
 Amnat Charoen,65+,129,2004,Foodpoi
 Si Sa Ket,65+,825,2004,Foodpoi
 Ubon Ratchathani,65+,1129,2004,Foodpoi
 Yasothon,65+,383,2004,Foodpoi
 South Region,65+,402,2004,Foodpoi
-Zone 15,65+,94,2004,Foodpoi
+Zone:15,65+,94,2004,Foodpoi
 Chumphon,65+,37,2004,Foodpoi
 Ranong,65+,11,2004,Foodpoi
 Surat Thani,65+,46,2004,Foodpoi
-Zone 16,65+,131,2004,Foodpoi
+Zone:16,65+,131,2004,Foodpoi
 Nakhon Si Thammarat,65+,84,2004,Foodpoi
 Phatthalung,65+,19,2004,Foodpoi
 Trang,65+,28,2004,Foodpoi
-Zone 17,65+,52,2004,Foodpoi
+Zone:17,65+,52,2004,Foodpoi
 Krabi,65+,30,2004,Foodpoi
 Phangnga,65+,15,2004,Foodpoi
 Phuket,65+,7,2004,Foodpoi
-Zone 18,65+,44,2004,Foodpoi
+Zone:18,65+,44,2004,Foodpoi
 Narathiwat,65+,9,2004,Foodpoi
 Pattani,65+,19,2004,Foodpoi
 Yala,65+,16,2004,Foodpoi
-Zone 19,65+,81,2004,Foodpoi
+Zone:19,65+,81,2004,Foodpoi
 Satun,65+,26,2004,Foodpoi
 Songkhla,65+,55,2004,Foodpoi
 Total,Unknown,159,2004,Foodpoi
 North Region,Unknown,14,2004,Foodpoi
-Zone 1,Unknown,14,2004,Foodpoi
+Zone:1,Unknown,14,2004,Foodpoi
 Chiang Mai,Unknown,1,2004,Foodpoi
 Chiang Rai,Unknown,13,2004,Foodpoi
 Lampang,Unknown,0,2004,Foodpoi
@@ -29214,93 +29214,93 @@ Mae Hong Son,Unknown,0,2004,Foodpoi
 Nan,Unknown,0,2004,Foodpoi
 Phayao,Unknown,0,2004,Foodpoi
 Phrae,Unknown,0,2004,Foodpoi
-Zone 2,Unknown,0,2004,Foodpoi
+Zone:2,Unknown,0,2004,Foodpoi
 Phetchabun,Unknown,0,2004,Foodpoi
 Phitsanulok,Unknown,0,2004,Foodpoi
 Sukhothai,Unknown,0,2004,Foodpoi
 Tak,Unknown,0,2004,Foodpoi
 Uttaradit,Unknown,0,2004,Foodpoi
-Zone 3,Unknown,0,2004,Foodpoi
+Zone:3,Unknown,0,2004,Foodpoi
 Kamphaeng Phet,Unknown,0,2004,Foodpoi
 Nakhon Sawan,Unknown,0,2004,Foodpoi
 Phichit,Unknown,0,2004,Foodpoi
 Uthai Thani,Unknown,0,2004,Foodpoi
 Central Region,Unknown,52,2004,Foodpoi
 Bangkok,Unknown,45,2004,Foodpoi
-Zone 4,Unknown,2,2004,Foodpoi
+Zone:4,Unknown,2,2004,Foodpoi
 Ang Thong,Unknown,0,2004,Foodpoi
 Nonthaburi,Unknown,0,2004,Foodpoi
 P.Nakhon S.Ayutthaya,Unknown,2,2004,Foodpoi
 Pathum Thani,Unknown,0,2004,Foodpoi
-Zone 5,Unknown,0,2004,Foodpoi
+Zone:5,Unknown,0,2004,Foodpoi
 Chai Nat,Unknown,0,2004,Foodpoi
 Lop Buri,Unknown,0,2004,Foodpoi
 Saraburi,Unknown,0,2004,Foodpoi
 Sing Buri,Unknown,0,2004,Foodpoi
-Zone 6,Unknown,0,2004,Foodpoi
+Zone:6,Unknown,0,2004,Foodpoi
 Kanchanaburi,Unknown,0,2004,Foodpoi
 Nakhon Pathom,Unknown,0,2004,Foodpoi
 Ratchaburi,Unknown,0,2004,Foodpoi
 Suphan Buri,Unknown,0,2004,Foodpoi
-Zone 7,Unknown,0,2004,Foodpoi
+Zone:7,Unknown,0,2004,Foodpoi
 Phetchaburi,Unknown,0,2004,Foodpoi
 Prachuap Khiri Khan,Unknown,0,2004,Foodpoi
 Samut Sakhon,Unknown,0,2004,Foodpoi
 Samut Songkhram,Unknown,0,2004,Foodpoi
-Zone 8,Unknown,5,2004,Foodpoi
+Zone:8,Unknown,5,2004,Foodpoi
 Chachoengsao,Unknown,0,2004,Foodpoi
 Nakhon Nayok,Unknown,0,2004,Foodpoi
 Prachin Buri,Unknown,0,2004,Foodpoi
 Sa Kaeo,Unknown,0,2004,Foodpoi
 Samut Prakan,Unknown,5,2004,Foodpoi
-Zone 9,Unknown,0,2004,Foodpoi
+Zone:9,Unknown,0,2004,Foodpoi
 Chanthaburi,Unknown,0,2004,Foodpoi
 Chon Buri,Unknown,0,2004,Foodpoi
 Rayong,Unknown,0,2004,Foodpoi
 Trat,Unknown,0,2004,Foodpoi
 North-Eastern Region,Unknown,92,2004,Foodpoi
-Zone 10,Unknown,40,2004,Foodpoi
+Zone:10,Unknown,40,2004,Foodpoi
 Loei,Unknown,0,2004,Foodpoi
 Nong Bua Lam Phu,Unknown,1,2004,Foodpoi
 Nong Khai,Unknown,0,2004,Foodpoi
 Udon Thani,Unknown,39,2004,Foodpoi
-Zone 11,Unknown,26,2004,Foodpoi
+Zone:11,Unknown,26,2004,Foodpoi
 Kalasin,Unknown,2,2004,Foodpoi
 Mukdahan,Unknown,24,2004,Foodpoi
 Nakhon Phanom,Unknown,0,2004,Foodpoi
 Sakon Nakhon,Unknown,0,2004,Foodpoi
-Zone 12,Unknown,0,2004,Foodpoi
+Zone:12,Unknown,0,2004,Foodpoi
 Khon Kaen,Unknown,0,2004,Foodpoi
 Maha Sarakham,Unknown,0,2004,Foodpoi
 Roi Et,Unknown,0,2004,Foodpoi
-Zone 13,Unknown,3,2004,Foodpoi
+Zone:13,Unknown,3,2004,Foodpoi
 Buri Ram,Unknown,0,2004,Foodpoi
 Chaiyaphum,Unknown,0,2004,Foodpoi
 Nakhon Ratchasima,Unknown,0,2004,Foodpoi
 Surin,Unknown,3,2004,Foodpoi
-Zone 14,Unknown,23,2004,Foodpoi
+Zone:14,Unknown,23,2004,Foodpoi
 Amnat Charoen,Unknown,0,2004,Foodpoi
 Si Sa Ket,Unknown,13,2004,Foodpoi
 Ubon Ratchathani,Unknown,4,2004,Foodpoi
 Yasothon,Unknown,6,2004,Foodpoi
 South Region,Unknown,1,2004,Foodpoi
-Zone 15,Unknown,0,2004,Foodpoi
+Zone:15,Unknown,0,2004,Foodpoi
 Chumphon,Unknown,0,2004,Foodpoi
 Ranong,Unknown,0,2004,Foodpoi
 Surat Thani,Unknown,0,2004,Foodpoi
-Zone 16,Unknown,1,2004,Foodpoi
+Zone:16,Unknown,1,2004,Foodpoi
 Nakhon Si Thammarat,Unknown,1,2004,Foodpoi
 Phatthalung,Unknown,0,2004,Foodpoi
 Trang,Unknown,0,2004,Foodpoi
-Zone 17,Unknown,0,2004,Foodpoi
+Zone:17,Unknown,0,2004,Foodpoi
 Krabi,Unknown,0,2004,Foodpoi
 Phangnga,Unknown,0,2004,Foodpoi
 Phuket,Unknown,0,2004,Foodpoi
-Zone 18,Unknown,0,2004,Foodpoi
+Zone:18,Unknown,0,2004,Foodpoi
 Narathiwat,Unknown,0,2004,Foodpoi
 Pattani,Unknown,0,2004,Foodpoi
 Yala,Unknown,0,2004,Foodpoi
-Zone 19,Unknown,0,2004,Foodpoi
+Zone:19,Unknown,0,2004,Foodpoi
 Satun,Unknown,0,2004,Foodpoi
 Songkhla,Unknown,0,2004,Foodpoi
 Total,Total,118754,2012,Foodpoi

@@ -18865,7 +18865,7 @@ Trang,Unknown,0,2015,Measles
 Yala,Unknown,0,2015,Measles
 Total,Total,3900,2004,Measles
 North Region,Total,882,2004,Measles
-Zone 1,Total,292,2004,Measles
+Zone:1,Total,292,2004,Measles
 Chiang Mai,Total,110,2004,Measles
 Chiang Rai,Total,53,2004,Measles
 Lampang,Total,22,2004,Measles
@@ -18874,98 +18874,98 @@ Mae Hong Son,Total,9,2004,Measles
 Nan,Total,17,2004,Measles
 Phayao,Total,49,2004,Measles
 Phrae,Total,16,2004,Measles
-Zone 2,Total,448,2004,Measles
+Zone:2,Total,448,2004,Measles
 Phetchabun,Total,78,2004,Measles
 Phitsanulok,Total,43,2004,Measles
 Sukhothai,Total,112,2004,Measles
 Tak,Total,75,2004,Measles
 Uttaradit,Total,140,2004,Measles
-Zone 3,Total,142,2004,Measles
+Zone:3,Total,142,2004,Measles
 Kamphaeng Phet,Total,30,2004,Measles
 Nakhon Sawan,Total,84,2004,Measles
 Phichit,Total,19,2004,Measles
 Uthai Thani,Total,9,2004,Measles
 Central Region,Total,1072,2004,Measles
 Bangkok,Total,84,2004,Measles
-Zone 4,Total,142,2004,Measles
+Zone:4,Total,142,2004,Measles
 Ang Thong,Total,6,2004,Measles
 Nonthaburi,Total,41,2004,Measles
 P.Nakhon S.Ayutthaya,Total,64,2004,Measles
 Pathum Thani,Total,31,2004,Measles
-Zone 5,Total,92,2004,Measles
+Zone:5,Total,92,2004,Measles
 Chai Nat,Total,12,2004,Measles
 Lop Buri,Total,24,2004,Measles
 Saraburi,Total,51,2004,Measles
 Sing Buri,Total,5,2004,Measles
-Zone 6,Total,202,2004,Measles
+Zone:6,Total,202,2004,Measles
 Kanchanaburi,Total,50,2004,Measles
 Nakhon Pathom,Total,60,2004,Measles
 Ratchaburi,Total,30,2004,Measles
 Suphan Buri,Total,62,2004,Measles
-Zone 7,Total,50,2004,Measles
+Zone:7,Total,50,2004,Measles
 Phetchaburi,Total,11,2004,Measles
 Prachuap Khiri Khan,Total,10,2004,Measles
 Samut Sakhon,Total,24,2004,Measles
 Samut Songkhram,Total,5,2004,Measles
-Zone 8,Total,333,2004,Measles
+Zone:8,Total,333,2004,Measles
 Chachoengsao,Total,100,2004,Measles
 Nakhon Nayok,Total,14,2004,Measles
 Prachin Buri,Total,82,2004,Measles
 Sa Kaeo,Total,30,2004,Measles
 Samut Prakan,Total,107,2004,Measles
-Zone 9,Total,169,2004,Measles
+Zone:9,Total,169,2004,Measles
 Chanthaburi,Total,23,2004,Measles
 Chon Buri,Total,58,2004,Measles
 Rayong,Total,76,2004,Measles
 Trat,Total,12,2004,Measles
 North-Eastern Region,Total,1067,2004,Measles
-Zone 10,Total,52,2004,Measles
+Zone:10,Total,52,2004,Measles
 Loei,Total,13,2004,Measles
 Nong Bua Lam Phu,Total,18,2004,Measles
 Nong Khai,Total,7,2004,Measles
 Udon Thani,Total,14,2004,Measles
-Zone 11,Total,137,2004,Measles
+Zone:11,Total,137,2004,Measles
 Kalasin,Total,23,2004,Measles
 Mukdahan,Total,15,2004,Measles
 Nakhon Phanom,Total,16,2004,Measles
 Sakon Nakhon,Total,83,2004,Measles
-Zone 12,Total,92,2004,Measles
+Zone:12,Total,92,2004,Measles
 Khon Kaen,Total,52,2004,Measles
 Maha Sarakham,Total,16,2004,Measles
 Roi Et,Total,24,2004,Measles
-Zone 13,Total,505,2004,Measles
+Zone:13,Total,505,2004,Measles
 Buri Ram,Total,66,2004,Measles
 Chaiyaphum,Total,120,2004,Measles
 Nakhon Ratchasima,Total,235,2004,Measles
 Surin,Total,84,2004,Measles
-Zone 14,Total,281,2004,Measles
+Zone:14,Total,281,2004,Measles
 Amnat Charoen,Total,26,2004,Measles
 Si Sa Ket,Total,83,2004,Measles
 Ubon Ratchathani,Total,153,2004,Measles
 Yasothon,Total,19,2004,Measles
 South Region,Total,879,2004,Measles
-Zone 15,Total,153,2004,Measles
+Zone:15,Total,153,2004,Measles
 Chumphon,Total,69,2004,Measles
 Ranong,Total,15,2004,Measles
 Surat Thani,Total,69,2004,Measles
-Zone 16,Total,126,2004,Measles
+Zone:16,Total,126,2004,Measles
 Nakhon Si Thammarat,Total,75,2004,Measles
 Phatthalung,Total,18,2004,Measles
 Trang,Total,33,2004,Measles
-Zone 17,Total,26,2004,Measles
+Zone:17,Total,26,2004,Measles
 Krabi,Total,18,2004,Measles
 Phangnga,Total,1,2004,Measles
 Phuket,Total,7,2004,Measles
-Zone 18,Total,381,2004,Measles
+Zone:18,Total,381,2004,Measles
 Narathiwat,Total,147,2004,Measles
 Pattani,Total,75,2004,Measles
 Yala,Total,159,2004,Measles
-Zone 19,Total,193,2004,Measles
+Zone:19,Total,193,2004,Measles
 Satun,Total,19,2004,Measles
 Songkhla,Total,174,2004,Measles
 Total,0,2,2004,Measles
 North Region,0,2,2004,Measles
-Zone 1,0,0,2004,Measles
+Zone:1,0,0,2004,Measles
 Chiang Mai,0,0,2004,Measles
 Chiang Rai,0,0,2004,Measles
 Lampang,0,0,2004,Measles
@@ -18974,98 +18974,98 @@ Mae Hong Son,0,0,2004,Measles
 Nan,0,0,2004,Measles
 Phayao,0,0,2004,Measles
 Phrae,0,0,2004,Measles
-Zone 2,0,2,2004,Measles
+Zone:2,0,2,2004,Measles
 Phetchabun,0,1,2004,Measles
 Phitsanulok,0,1,2004,Measles
 Sukhothai,0,0,2004,Measles
 Tak,0,0,2004,Measles
 Uttaradit,0,0,2004,Measles
-Zone 3,0,0,2004,Measles
+Zone:3,0,0,2004,Measles
 Kamphaeng Phet,0,0,2004,Measles
 Nakhon Sawan,0,0,2004,Measles
 Phichit,0,0,2004,Measles
 Uthai Thani,0,0,2004,Measles
 Central Region,0,0,2004,Measles
 Bangkok,0,0,2004,Measles
-Zone 4,0,0,2004,Measles
+Zone:4,0,0,2004,Measles
 Ang Thong,0,0,2004,Measles
 Nonthaburi,0,0,2004,Measles
 P.Nakhon S.Ayutthaya,0,0,2004,Measles
 Pathum Thani,0,0,2004,Measles
-Zone 5,0,0,2004,Measles
+Zone:5,0,0,2004,Measles
 Chai Nat,0,0,2004,Measles
 Lop Buri,0,0,2004,Measles
 Saraburi,0,0,2004,Measles
 Sing Buri,0,0,2004,Measles
-Zone 6,0,0,2004,Measles
+Zone:6,0,0,2004,Measles
 Kanchanaburi,0,0,2004,Measles
 Nakhon Pathom,0,0,2004,Measles
 Ratchaburi,0,0,2004,Measles
 Suphan Buri,0,0,2004,Measles
-Zone 7,0,0,2004,Measles
+Zone:7,0,0,2004,Measles
 Phetchaburi,0,0,2004,Measles
 Prachuap Khiri Khan,0,0,2004,Measles
 Samut Sakhon,0,0,2004,Measles
 Samut Songkhram,0,0,2004,Measles
-Zone 8,0,0,2004,Measles
+Zone:8,0,0,2004,Measles
 Chachoengsao,0,0,2004,Measles
 Nakhon Nayok,0,0,2004,Measles
 Prachin Buri,0,0,2004,Measles
 Sa Kaeo,0,0,2004,Measles
 Samut Prakan,0,0,2004,Measles
-Zone 9,0,0,2004,Measles
+Zone:9,0,0,2004,Measles
 Chanthaburi,0,0,2004,Measles
 Chon Buri,0,0,2004,Measles
 Rayong,0,0,2004,Measles
 Trat,0,0,2004,Measles
 North-Eastern Region,0,0,2004,Measles
-Zone 10,0,0,2004,Measles
+Zone:10,0,0,2004,Measles
 Loei,0,0,2004,Measles
 Nong Bua Lam Phu,0,0,2004,Measles
 Nong Khai,0,0,2004,Measles
 Udon Thani,0,0,2004,Measles
-Zone 11,0,0,2004,Measles
+Zone:11,0,0,2004,Measles
 Kalasin,0,0,2004,Measles
 Mukdahan,0,0,2004,Measles
 Nakhon Phanom,0,0,2004,Measles
 Sakon Nakhon,0,0,2004,Measles
-Zone 12,0,0,2004,Measles
+Zone:12,0,0,2004,Measles
 Khon Kaen,0,0,2004,Measles
 Maha Sarakham,0,0,2004,Measles
 Roi Et,0,0,2004,Measles
-Zone 13,0,0,2004,Measles
+Zone:13,0,0,2004,Measles
 Buri Ram,0,0,2004,Measles
 Chaiyaphum,0,0,2004,Measles
 Nakhon Ratchasima,0,0,2004,Measles
 Surin,0,0,2004,Measles
-Zone 14,0,0,2004,Measles
+Zone:14,0,0,2004,Measles
 Amnat Charoen,0,0,2004,Measles
 Si Sa Ket,0,0,2004,Measles
 Ubon Ratchathani,0,0,2004,Measles
 Yasothon,0,0,2004,Measles
 South Region,0,0,2004,Measles
-Zone 15,0,0,2004,Measles
+Zone:15,0,0,2004,Measles
 Chumphon,0,0,2004,Measles
 Ranong,0,0,2004,Measles
 Surat Thani,0,0,2004,Measles
-Zone 16,0,0,2004,Measles
+Zone:16,0,0,2004,Measles
 Nakhon Si Thammarat,0,0,2004,Measles
 Phatthalung,0,0,2004,Measles
 Trang,0,0,2004,Measles
-Zone 17,0,0,2004,Measles
+Zone:17,0,0,2004,Measles
 Krabi,0,0,2004,Measles
 Phangnga,0,0,2004,Measles
 Phuket,0,0,2004,Measles
-Zone 18,0,0,2004,Measles
+Zone:18,0,0,2004,Measles
 Narathiwat,0,0,2004,Measles
 Pattani,0,0,2004,Measles
 Yala,0,0,2004,Measles
-Zone 19,0,0,2004,Measles
+Zone:19,0,0,2004,Measles
 Satun,0,0,2004,Measles
 Songkhla,0,0,2004,Measles
 Total,<1,602,2004,Measles
 North Region,<1,157,2004,Measles
-Zone 1,<1,55,2004,Measles
+Zone:1,<1,55,2004,Measles
 Chiang Mai,<1,13,2004,Measles
 Chiang Rai,<1,21,2004,Measles
 Lampang,<1,4,2004,Measles
@@ -19074,98 +19074,98 @@ Mae Hong Son,<1,2,2004,Measles
 Nan,<1,5,2004,Measles
 Phayao,<1,4,2004,Measles
 Phrae,<1,5,2004,Measles
-Zone 2,<1,72,2004,Measles
+Zone:2,<1,72,2004,Measles
 Phetchabun,<1,20,2004,Measles
 Phitsanulok,<1,15,2004,Measles
 Sukhothai,<1,5,2004,Measles
 Tak,<1,20,2004,Measles
 Uttaradit,<1,12,2004,Measles
-Zone 3,<1,30,2004,Measles
+Zone:3,<1,30,2004,Measles
 Kamphaeng Phet,<1,5,2004,Measles
 Nakhon Sawan,<1,18,2004,Measles
 Phichit,<1,5,2004,Measles
 Uthai Thani,<1,2,2004,Measles
 Central Region,<1,192,2004,Measles
 Bangkok,<1,8,2004,Measles
-Zone 4,<1,37,2004,Measles
+Zone:4,<1,37,2004,Measles
 Ang Thong,<1,2,2004,Measles
 Nonthaburi,<1,10,2004,Measles
 P.Nakhon S.Ayutthaya,<1,18,2004,Measles
 Pathum Thani,<1,7,2004,Measles
-Zone 5,<1,23,2004,Measles
+Zone:5,<1,23,2004,Measles
 Chai Nat,<1,4,2004,Measles
 Lop Buri,<1,9,2004,Measles
 Saraburi,<1,7,2004,Measles
 Sing Buri,<1,3,2004,Measles
-Zone 6,<1,30,2004,Measles
+Zone:6,<1,30,2004,Measles
 Kanchanaburi,<1,9,2004,Measles
 Nakhon Pathom,<1,9,2004,Measles
 Ratchaburi,<1,4,2004,Measles
 Suphan Buri,<1,8,2004,Measles
-Zone 7,<1,12,2004,Measles
+Zone:7,<1,12,2004,Measles
 Phetchaburi,<1,4,2004,Measles
 Prachuap Khiri Khan,<1,3,2004,Measles
 Samut Sakhon,<1,5,2004,Measles
 Samut Songkhram,<1,0,2004,Measles
-Zone 8,<1,49,2004,Measles
+Zone:8,<1,49,2004,Measles
 Chachoengsao,<1,14,2004,Measles
 Nakhon Nayok,<1,4,2004,Measles
 Prachin Buri,<1,10,2004,Measles
 Sa Kaeo,<1,8,2004,Measles
 Samut Prakan,<1,13,2004,Measles
-Zone 9,<1,33,2004,Measles
+Zone:9,<1,33,2004,Measles
 Chanthaburi,<1,3,2004,Measles
 Chon Buri,<1,9,2004,Measles
 Rayong,<1,19,2004,Measles
 Trat,<1,2,2004,Measles
 North-Eastern Region,<1,150,2004,Measles
-Zone 10,<1,13,2004,Measles
+Zone:10,<1,13,2004,Measles
 Loei,<1,5,2004,Measles
 Nong Bua Lam Phu,<1,2,2004,Measles
 Nong Khai,<1,1,2004,Measles
 Udon Thani,<1,5,2004,Measles
-Zone 11,<1,9,2004,Measles
+Zone:11,<1,9,2004,Measles
 Kalasin,<1,5,2004,Measles
 Mukdahan,<1,1,2004,Measles
 Nakhon Phanom,<1,0,2004,Measles
 Sakon Nakhon,<1,3,2004,Measles
-Zone 12,<1,11,2004,Measles
+Zone:12,<1,11,2004,Measles
 Khon Kaen,<1,4,2004,Measles
 Maha Sarakham,<1,5,2004,Measles
 Roi Et,<1,2,2004,Measles
-Zone 13,<1,79,2004,Measles
+Zone:13,<1,79,2004,Measles
 Buri Ram,<1,10,2004,Measles
 Chaiyaphum,<1,13,2004,Measles
 Nakhon Ratchasima,<1,49,2004,Measles
 Surin,<1,7,2004,Measles
-Zone 14,<1,38,2004,Measles
+Zone:14,<1,38,2004,Measles
 Amnat Charoen,<1,7,2004,Measles
 Si Sa Ket,<1,16,2004,Measles
 Ubon Ratchathani,<1,14,2004,Measles
 Yasothon,<1,1,2004,Measles
 South Region,<1,103,2004,Measles
-Zone 15,<1,16,2004,Measles
+Zone:15,<1,16,2004,Measles
 Chumphon,<1,4,2004,Measles
 Ranong,<1,1,2004,Measles
 Surat Thani,<1,11,2004,Measles
-Zone 16,<1,17,2004,Measles
+Zone:16,<1,17,2004,Measles
 Nakhon Si Thammarat,<1,9,2004,Measles
 Phatthalung,<1,1,2004,Measles
 Trang,<1,7,2004,Measles
-Zone 17,<1,6,2004,Measles
+Zone:17,<1,6,2004,Measles
 Krabi,<1,4,2004,Measles
 Phangnga,<1,0,2004,Measles
 Phuket,<1,2,2004,Measles
-Zone 18,<1,53,2004,Measles
+Zone:18,<1,53,2004,Measles
 Narathiwat,<1,21,2004,Measles
 Pattani,<1,4,2004,Measles
 Yala,<1,28,2004,Measles
-Zone 19,<1,11,2004,Measles
+Zone:19,<1,11,2004,Measles
 Satun,<1,4,2004,Measles
 Songkhla,<1,7,2004,Measles
 Total,1-1,335,2004,Measles
 North Region,1-1,71,2004,Measles
-Zone 1,1-1,25,2004,Measles
+Zone:1,1-1,25,2004,Measles
 Chiang Mai,1-1,6,2004,Measles
 Chiang Rai,1-1,3,2004,Measles
 Lampang,1-1,1,2004,Measles
@@ -19174,98 +19174,98 @@ Mae Hong Son,1-1,2,2004,Measles
 Nan,1-1,2,2004,Measles
 Phayao,1-1,9,2004,Measles
 Phrae,1-1,2,2004,Measles
-Zone 2,1-1,33,2004,Measles
+Zone:2,1-1,33,2004,Measles
 Phetchabun,1-1,6,2004,Measles
 Phitsanulok,1-1,4,2004,Measles
 Sukhothai,1-1,4,2004,Measles
 Tak,1-1,14,2004,Measles
 Uttaradit,1-1,5,2004,Measles
-Zone 3,1-1,13,2004,Measles
+Zone:3,1-1,13,2004,Measles
 Kamphaeng Phet,1-1,1,2004,Measles
 Nakhon Sawan,1-1,10,2004,Measles
 Phichit,1-1,1,2004,Measles
 Uthai Thani,1-1,1,2004,Measles
 Central Region,1-1,99,2004,Measles
 Bangkok,1-1,8,2004,Measles
-Zone 4,1-1,9,2004,Measles
+Zone:4,1-1,9,2004,Measles
 Ang Thong,1-1,0,2004,Measles
 Nonthaburi,1-1,0,2004,Measles
 P.Nakhon S.Ayutthaya,1-1,6,2004,Measles
 Pathum Thani,1-1,3,2004,Measles
-Zone 5,1-1,6,2004,Measles
+Zone:5,1-1,6,2004,Measles
 Chai Nat,1-1,0,2004,Measles
 Lop Buri,1-1,1,2004,Measles
 Saraburi,1-1,5,2004,Measles
 Sing Buri,1-1,0,2004,Measles
-Zone 6,1-1,20,2004,Measles
+Zone:6,1-1,20,2004,Measles
 Kanchanaburi,1-1,2,2004,Measles
 Nakhon Pathom,1-1,9,2004,Measles
 Ratchaburi,1-1,5,2004,Measles
 Suphan Buri,1-1,4,2004,Measles
-Zone 7,1-1,5,2004,Measles
+Zone:7,1-1,5,2004,Measles
 Phetchaburi,1-1,2,2004,Measles
 Prachuap Khiri Khan,1-1,0,2004,Measles
 Samut Sakhon,1-1,2,2004,Measles
 Samut Songkhram,1-1,1,2004,Measles
-Zone 8,1-1,38,2004,Measles
+Zone:8,1-1,38,2004,Measles
 Chachoengsao,1-1,12,2004,Measles
 Nakhon Nayok,1-1,0,2004,Measles
 Prachin Buri,1-1,9,2004,Measles
 Sa Kaeo,1-1,3,2004,Measles
 Samut Prakan,1-1,14,2004,Measles
-Zone 9,1-1,13,2004,Measles
+Zone:9,1-1,13,2004,Measles
 Chanthaburi,1-1,2,2004,Measles
 Chon Buri,1-1,3,2004,Measles
 Rayong,1-1,7,2004,Measles
 Trat,1-1,1,2004,Measles
 North-Eastern Region,1-1,71,2004,Measles
-Zone 10,1-1,4,2004,Measles
+Zone:10,1-1,4,2004,Measles
 Loei,1-1,2,2004,Measles
 Nong Bua Lam Phu,1-1,1,2004,Measles
 Nong Khai,1-1,0,2004,Measles
 Udon Thani,1-1,1,2004,Measles
-Zone 11,1-1,2,2004,Measles
+Zone:11,1-1,2,2004,Measles
 Kalasin,1-1,0,2004,Measles
 Mukdahan,1-1,0,2004,Measles
 Nakhon Phanom,1-1,1,2004,Measles
 Sakon Nakhon,1-1,1,2004,Measles
-Zone 12,1-1,7,2004,Measles
+Zone:12,1-1,7,2004,Measles
 Khon Kaen,1-1,4,2004,Measles
 Maha Sarakham,1-1,0,2004,Measles
 Roi Et,1-1,3,2004,Measles
-Zone 13,1-1,43,2004,Measles
+Zone:13,1-1,43,2004,Measles
 Buri Ram,1-1,8,2004,Measles
 Chaiyaphum,1-1,3,2004,Measles
 Nakhon Ratchasima,1-1,17,2004,Measles
 Surin,1-1,15,2004,Measles
-Zone 14,1-1,15,2004,Measles
+Zone:14,1-1,15,2004,Measles
 Amnat Charoen,1-1,2,2004,Measles
 Si Sa Ket,1-1,5,2004,Measles
 Ubon Ratchathani,1-1,6,2004,Measles
 Yasothon,1-1,2,2004,Measles
 South Region,1-1,94,2004,Measles
-Zone 15,1-1,10,2004,Measles
+Zone:15,1-1,10,2004,Measles
 Chumphon,1-1,3,2004,Measles
 Ranong,1-1,3,2004,Measles
 Surat Thani,1-1,4,2004,Measles
-Zone 16,1-1,12,2004,Measles
+Zone:16,1-1,12,2004,Measles
 Nakhon Si Thammarat,1-1,7,2004,Measles
 Phatthalung,1-1,5,2004,Measles
 Trang,1-1,0,2004,Measles
-Zone 17,1-1,4,2004,Measles
+Zone:17,1-1,4,2004,Measles
 Krabi,1-1,2,2004,Measles
 Phangnga,1-1,1,2004,Measles
 Phuket,1-1,1,2004,Measles
-Zone 18,1-1,42,2004,Measles
+Zone:18,1-1,42,2004,Measles
 Narathiwat,1-1,12,2004,Measles
 Pattani,1-1,12,2004,Measles
 Yala,1-1,18,2004,Measles
-Zone 19,1-1,26,2004,Measles
+Zone:19,1-1,26,2004,Measles
 Satun,1-1,7,2004,Measles
 Songkhla,1-1,19,2004,Measles
 Total,2-2,187,2004,Measles
 North Region,2-2,36,2004,Measles
-Zone 1,2-2,19,2004,Measles
+Zone:1,2-2,19,2004,Measles
 Chiang Mai,2-2,12,2004,Measles
 Chiang Rai,2-2,0,2004,Measles
 Lampang,2-2,3,2004,Measles
@@ -19274,98 +19274,98 @@ Mae Hong Son,2-2,0,2004,Measles
 Nan,2-2,1,2004,Measles
 Phayao,2-2,1,2004,Measles
 Phrae,2-2,1,2004,Measles
-Zone 2,2-2,13,2004,Measles
+Zone:2,2-2,13,2004,Measles
 Phetchabun,2-2,5,2004,Measles
 Phitsanulok,2-2,2,2004,Measles
 Sukhothai,2-2,1,2004,Measles
 Tak,2-2,3,2004,Measles
 Uttaradit,2-2,2,2004,Measles
-Zone 3,2-2,4,2004,Measles
+Zone:3,2-2,4,2004,Measles
 Kamphaeng Phet,2-2,0,2004,Measles
 Nakhon Sawan,2-2,3,2004,Measles
 Phichit,2-2,1,2004,Measles
 Uthai Thani,2-2,0,2004,Measles
 Central Region,2-2,51,2004,Measles
 Bangkok,2-2,2,2004,Measles
-Zone 4,2-2,3,2004,Measles
+Zone:4,2-2,3,2004,Measles
 Ang Thong,2-2,0,2004,Measles
 Nonthaburi,2-2,0,2004,Measles
 P.Nakhon S.Ayutthaya,2-2,0,2004,Measles
 Pathum Thani,2-2,3,2004,Measles
-Zone 5,2-2,3,2004,Measles
+Zone:5,2-2,3,2004,Measles
 Chai Nat,2-2,0,2004,Measles
 Lop Buri,2-2,2,2004,Measles
 Saraburi,2-2,1,2004,Measles
 Sing Buri,2-2,0,2004,Measles
-Zone 6,2-2,13,2004,Measles
+Zone:6,2-2,13,2004,Measles
 Kanchanaburi,2-2,6,2004,Measles
 Nakhon Pathom,2-2,5,2004,Measles
 Ratchaburi,2-2,0,2004,Measles
 Suphan Buri,2-2,2,2004,Measles
-Zone 7,2-2,6,2004,Measles
+Zone:7,2-2,6,2004,Measles
 Phetchaburi,2-2,1,2004,Measles
 Prachuap Khiri Khan,2-2,3,2004,Measles
 Samut Sakhon,2-2,2,2004,Measles
 Samut Songkhram,2-2,0,2004,Measles
-Zone 8,2-2,18,2004,Measles
+Zone:8,2-2,18,2004,Measles
 Chachoengsao,2-2,7,2004,Measles
 Nakhon Nayok,2-2,0,2004,Measles
 Prachin Buri,2-2,4,2004,Measles
 Sa Kaeo,2-2,1,2004,Measles
 Samut Prakan,2-2,6,2004,Measles
-Zone 9,2-2,6,2004,Measles
+Zone:9,2-2,6,2004,Measles
 Chanthaburi,2-2,1,2004,Measles
 Chon Buri,2-2,2,2004,Measles
 Rayong,2-2,3,2004,Measles
 Trat,2-2,0,2004,Measles
 North-Eastern Region,2-2,41,2004,Measles
-Zone 10,2-2,2,2004,Measles
+Zone:10,2-2,2,2004,Measles
 Loei,2-2,1,2004,Measles
 Nong Bua Lam Phu,2-2,1,2004,Measles
 Nong Khai,2-2,0,2004,Measles
 Udon Thani,2-2,0,2004,Measles
-Zone 11,2-2,1,2004,Measles
+Zone:11,2-2,1,2004,Measles
 Kalasin,2-2,0,2004,Measles
 Mukdahan,2-2,0,2004,Measles
 Nakhon Phanom,2-2,1,2004,Measles
 Sakon Nakhon,2-2,0,2004,Measles
-Zone 12,2-2,2,2004,Measles
+Zone:12,2-2,2,2004,Measles
 Khon Kaen,2-2,0,2004,Measles
 Maha Sarakham,2-2,0,2004,Measles
 Roi Et,2-2,2,2004,Measles
-Zone 13,2-2,19,2004,Measles
+Zone:13,2-2,19,2004,Measles
 Buri Ram,2-2,2,2004,Measles
 Chaiyaphum,2-2,4,2004,Measles
 Nakhon Ratchasima,2-2,11,2004,Measles
 Surin,2-2,2,2004,Measles
-Zone 14,2-2,17,2004,Measles
+Zone:14,2-2,17,2004,Measles
 Amnat Charoen,2-2,3,2004,Measles
 Si Sa Ket,2-2,5,2004,Measles
 Ubon Ratchathani,2-2,8,2004,Measles
 Yasothon,2-2,1,2004,Measles
 South Region,2-2,59,2004,Measles
-Zone 15,2-2,4,2004,Measles
+Zone:15,2-2,4,2004,Measles
 Chumphon,2-2,2,2004,Measles
 Ranong,2-2,1,2004,Measles
 Surat Thani,2-2,1,2004,Measles
-Zone 16,2-2,4,2004,Measles
+Zone:16,2-2,4,2004,Measles
 Nakhon Si Thammarat,2-2,1,2004,Measles
 Phatthalung,2-2,1,2004,Measles
 Trang,2-2,2,2004,Measles
-Zone 17,2-2,3,2004,Measles
+Zone:17,2-2,3,2004,Measles
 Krabi,2-2,3,2004,Measles
 Phangnga,2-2,0,2004,Measles
 Phuket,2-2,0,2004,Measles
-Zone 18,2-2,32,2004,Measles
+Zone:18,2-2,32,2004,Measles
 Narathiwat,2-2,11,2004,Measles
 Pattani,2-2,7,2004,Measles
 Yala,2-2,14,2004,Measles
-Zone 19,2-2,16,2004,Measles
+Zone:19,2-2,16,2004,Measles
 Satun,2-2,1,2004,Measles
 Songkhla,2-2,15,2004,Measles
 Total,3-3,170,2004,Measles
 North Region,3-3,29,2004,Measles
-Zone 1,3-3,14,2004,Measles
+Zone:1,3-3,14,2004,Measles
 Chiang Mai,3-3,2,2004,Measles
 Chiang Rai,3-3,8,2004,Measles
 Lampang,3-3,2,2004,Measles
@@ -19374,98 +19374,98 @@ Mae Hong Son,3-3,1,2004,Measles
 Nan,3-3,1,2004,Measles
 Phayao,3-3,0,2004,Measles
 Phrae,3-3,0,2004,Measles
-Zone 2,3-3,9,2004,Measles
+Zone:2,3-3,9,2004,Measles
 Phetchabun,3-3,3,2004,Measles
 Phitsanulok,3-3,0,2004,Measles
 Sukhothai,3-3,2,2004,Measles
 Tak,3-3,3,2004,Measles
 Uttaradit,3-3,1,2004,Measles
-Zone 3,3-3,6,2004,Measles
+Zone:3,3-3,6,2004,Measles
 Kamphaeng Phet,3-3,2,2004,Measles
 Nakhon Sawan,3-3,3,2004,Measles
 Phichit,3-3,0,2004,Measles
 Uthai Thani,3-3,1,2004,Measles
 Central Region,3-3,43,2004,Measles
 Bangkok,3-3,5,2004,Measles
-Zone 4,3-3,5,2004,Measles
+Zone:4,3-3,5,2004,Measles
 Ang Thong,3-3,0,2004,Measles
 Nonthaburi,3-3,0,2004,Measles
 P.Nakhon S.Ayutthaya,3-3,4,2004,Measles
 Pathum Thani,3-3,1,2004,Measles
-Zone 5,3-3,1,2004,Measles
+Zone:5,3-3,1,2004,Measles
 Chai Nat,3-3,0,2004,Measles
 Lop Buri,3-3,0,2004,Measles
 Saraburi,3-3,0,2004,Measles
 Sing Buri,3-3,1,2004,Measles
-Zone 6,3-3,13,2004,Measles
+Zone:6,3-3,13,2004,Measles
 Kanchanaburi,3-3,4,2004,Measles
 Nakhon Pathom,3-3,4,2004,Measles
 Ratchaburi,3-3,0,2004,Measles
 Suphan Buri,3-3,5,2004,Measles
-Zone 7,3-3,1,2004,Measles
+Zone:7,3-3,1,2004,Measles
 Phetchaburi,3-3,1,2004,Measles
 Prachuap Khiri Khan,3-3,0,2004,Measles
 Samut Sakhon,3-3,0,2004,Measles
 Samut Songkhram,3-3,0,2004,Measles
-Zone 8,3-3,17,2004,Measles
+Zone:8,3-3,17,2004,Measles
 Chachoengsao,3-3,4,2004,Measles
 Nakhon Nayok,3-3,1,2004,Measles
 Prachin Buri,3-3,5,2004,Measles
 Sa Kaeo,3-3,1,2004,Measles
 Samut Prakan,3-3,6,2004,Measles
-Zone 9,3-3,1,2004,Measles
+Zone:9,3-3,1,2004,Measles
 Chanthaburi,3-3,0,2004,Measles
 Chon Buri,3-3,0,2004,Measles
 Rayong,3-3,1,2004,Measles
 Trat,3-3,0,2004,Measles
 North-Eastern Region,3-3,53,2004,Measles
-Zone 10,3-3,2,2004,Measles
+Zone:10,3-3,2,2004,Measles
 Loei,3-3,0,2004,Measles
 Nong Bua Lam Phu,3-3,1,2004,Measles
 Nong Khai,3-3,0,2004,Measles
 Udon Thani,3-3,1,2004,Measles
-Zone 11,3-3,7,2004,Measles
+Zone:11,3-3,7,2004,Measles
 Kalasin,3-3,2,2004,Measles
 Mukdahan,3-3,0,2004,Measles
 Nakhon Phanom,3-3,1,2004,Measles
 Sakon Nakhon,3-3,4,2004,Measles
-Zone 12,3-3,9,2004,Measles
+Zone:12,3-3,9,2004,Measles
 Khon Kaen,3-3,5,2004,Measles
 Maha Sarakham,3-3,2,2004,Measles
 Roi Et,3-3,2,2004,Measles
-Zone 13,3-3,26,2004,Measles
+Zone:13,3-3,26,2004,Measles
 Buri Ram,3-3,5,2004,Measles
 Chaiyaphum,3-3,5,2004,Measles
 Nakhon Ratchasima,3-3,9,2004,Measles
 Surin,3-3,7,2004,Measles
-Zone 14,3-3,9,2004,Measles
+Zone:14,3-3,9,2004,Measles
 Amnat Charoen,3-3,1,2004,Measles
 Si Sa Ket,3-3,2,2004,Measles
 Ubon Ratchathani,3-3,5,2004,Measles
 Yasothon,3-3,1,2004,Measles
 South Region,3-3,45,2004,Measles
-Zone 15,3-3,1,2004,Measles
+Zone:15,3-3,1,2004,Measles
 Chumphon,3-3,0,2004,Measles
 Ranong,3-3,0,2004,Measles
 Surat Thani,3-3,1,2004,Measles
-Zone 16,3-3,6,2004,Measles
+Zone:16,3-3,6,2004,Measles
 Nakhon Si Thammarat,3-3,4,2004,Measles
 Phatthalung,3-3,0,2004,Measles
 Trang,3-3,2,2004,Measles
-Zone 17,3-3,0,2004,Measles
+Zone:17,3-3,0,2004,Measles
 Krabi,3-3,0,2004,Measles
 Phangnga,3-3,0,2004,Measles
 Phuket,3-3,0,2004,Measles
-Zone 18,3-3,28,2004,Measles
+Zone:18,3-3,28,2004,Measles
 Narathiwat,3-3,11,2004,Measles
 Pattani,3-3,6,2004,Measles
 Yala,3-3,11,2004,Measles
-Zone 19,3-3,10,2004,Measles
+Zone:19,3-3,10,2004,Measles
 Satun,3-3,0,2004,Measles
 Songkhla,3-3,10,2004,Measles
 Total,4-4,167,2004,Measles
 North Region,4-4,30,2004,Measles
-Zone 1,4-4,14,2004,Measles
+Zone:1,4-4,14,2004,Measles
 Chiang Mai,4-4,6,2004,Measles
 Chiang Rai,4-4,1,2004,Measles
 Lampang,4-4,1,2004,Measles
@@ -19474,98 +19474,98 @@ Mae Hong Son,4-4,0,2004,Measles
 Nan,4-4,1,2004,Measles
 Phayao,4-4,1,2004,Measles
 Phrae,4-4,1,2004,Measles
-Zone 2,4-4,12,2004,Measles
+Zone:2,4-4,12,2004,Measles
 Phetchabun,4-4,2,2004,Measles
 Phitsanulok,4-4,0,2004,Measles
 Sukhothai,4-4,3,2004,Measles
 Tak,4-4,3,2004,Measles
 Uttaradit,4-4,4,2004,Measles
-Zone 3,4-4,4,2004,Measles
+Zone:3,4-4,4,2004,Measles
 Kamphaeng Phet,4-4,0,2004,Measles
 Nakhon Sawan,4-4,2,2004,Measles
 Phichit,4-4,1,2004,Measles
 Uthai Thani,4-4,1,2004,Measles
 Central Region,4-4,34,2004,Measles
 Bangkok,4-4,3,2004,Measles
-Zone 4,4-4,3,2004,Measles
+Zone:4,4-4,3,2004,Measles
 Ang Thong,4-4,0,2004,Measles
 Nonthaburi,4-4,0,2004,Measles
 P.Nakhon S.Ayutthaya,4-4,2,2004,Measles
 Pathum Thani,4-4,1,2004,Measles
-Zone 5,4-4,2,2004,Measles
+Zone:5,4-4,2,2004,Measles
 Chai Nat,4-4,0,2004,Measles
 Lop Buri,4-4,0,2004,Measles
 Saraburi,4-4,1,2004,Measles
 Sing Buri,4-4,1,2004,Measles
-Zone 6,4-4,7,2004,Measles
+Zone:6,4-4,7,2004,Measles
 Kanchanaburi,4-4,5,2004,Measles
 Nakhon Pathom,4-4,0,2004,Measles
 Ratchaburi,4-4,0,2004,Measles
 Suphan Buri,4-4,2,2004,Measles
-Zone 7,4-4,4,2004,Measles
+Zone:7,4-4,4,2004,Measles
 Phetchaburi,4-4,0,2004,Measles
 Prachuap Khiri Khan,4-4,1,2004,Measles
 Samut Sakhon,4-4,3,2004,Measles
 Samut Songkhram,4-4,0,2004,Measles
-Zone 8,4-4,10,2004,Measles
+Zone:8,4-4,10,2004,Measles
 Chachoengsao,4-4,2,2004,Measles
 Nakhon Nayok,4-4,0,2004,Measles
 Prachin Buri,4-4,2,2004,Measles
 Sa Kaeo,4-4,1,2004,Measles
 Samut Prakan,4-4,5,2004,Measles
-Zone 9,4-4,5,2004,Measles
+Zone:9,4-4,5,2004,Measles
 Chanthaburi,4-4,1,2004,Measles
 Chon Buri,4-4,1,2004,Measles
 Rayong,4-4,3,2004,Measles
 Trat,4-4,0,2004,Measles
 North-Eastern Region,4-4,43,2004,Measles
-Zone 10,4-4,2,2004,Measles
+Zone:10,4-4,2,2004,Measles
 Loei,4-4,0,2004,Measles
 Nong Bua Lam Phu,4-4,2,2004,Measles
 Nong Khai,4-4,0,2004,Measles
 Udon Thani,4-4,0,2004,Measles
-Zone 11,4-4,4,2004,Measles
+Zone:11,4-4,4,2004,Measles
 Kalasin,4-4,1,2004,Measles
 Mukdahan,4-4,0,2004,Measles
 Nakhon Phanom,4-4,2,2004,Measles
 Sakon Nakhon,4-4,1,2004,Measles
-Zone 12,4-4,2,2004,Measles
+Zone:12,4-4,2,2004,Measles
 Khon Kaen,4-4,0,2004,Measles
 Maha Sarakham,4-4,0,2004,Measles
 Roi Et,4-4,2,2004,Measles
-Zone 13,4-4,24,2004,Measles
+Zone:13,4-4,24,2004,Measles
 Buri Ram,4-4,3,2004,Measles
 Chaiyaphum,4-4,6,2004,Measles
 Nakhon Ratchasima,4-4,9,2004,Measles
 Surin,4-4,6,2004,Measles
-Zone 14,4-4,11,2004,Measles
+Zone:14,4-4,11,2004,Measles
 Amnat Charoen,4-4,0,2004,Measles
 Si Sa Ket,4-4,2,2004,Measles
 Ubon Ratchathani,4-4,9,2004,Measles
 Yasothon,4-4,0,2004,Measles
 South Region,4-4,60,2004,Measles
-Zone 15,4-4,2,2004,Measles
+Zone:15,4-4,2,2004,Measles
 Chumphon,4-4,2,2004,Measles
 Ranong,4-4,0,2004,Measles
 Surat Thani,4-4,0,2004,Measles
-Zone 16,4-4,6,2004,Measles
+Zone:16,4-4,6,2004,Measles
 Nakhon Si Thammarat,4-4,3,2004,Measles
 Phatthalung,4-4,1,2004,Measles
 Trang,4-4,2,2004,Measles
-Zone 17,4-4,0,2004,Measles
+Zone:17,4-4,0,2004,Measles
 Krabi,4-4,0,2004,Measles
 Phangnga,4-4,0,2004,Measles
 Phuket,4-4,0,2004,Measles
-Zone 18,4-4,37,2004,Measles
+Zone:18,4-4,37,2004,Measles
 Narathiwat,4-4,21,2004,Measles
 Pattani,4-4,3,2004,Measles
 Yala,4-4,13,2004,Measles
-Zone 19,4-4,15,2004,Measles
+Zone:19,4-4,15,2004,Measles
 Satun,4-4,1,2004,Measles
 Songkhla,4-4,14,2004,Measles
 Total,5-5,184,2004,Measles
 North Region,5-5,36,2004,Measles
-Zone 1,5-5,13,2004,Measles
+Zone:1,5-5,13,2004,Measles
 Chiang Mai,5-5,2,2004,Measles
 Chiang Rai,5-5,4,2004,Measles
 Lampang,5-5,1,2004,Measles
@@ -19574,98 +19574,98 @@ Mae Hong Son,5-5,0,2004,Measles
 Nan,5-5,0,2004,Measles
 Phayao,5-5,6,2004,Measles
 Phrae,5-5,0,2004,Measles
-Zone 2,5-5,14,2004,Measles
+Zone:2,5-5,14,2004,Measles
 Phetchabun,5-5,1,2004,Measles
 Phitsanulok,5-5,1,2004,Measles
 Sukhothai,5-5,2,2004,Measles
 Tak,5-5,4,2004,Measles
 Uttaradit,5-5,6,2004,Measles
-Zone 3,5-5,9,2004,Measles
+Zone:3,5-5,9,2004,Measles
 Kamphaeng Phet,5-5,0,2004,Measles
 Nakhon Sawan,5-5,6,2004,Measles
 Phichit,5-5,2,2004,Measles
 Uthai Thani,5-5,1,2004,Measles
 Central Region,5-5,45,2004,Measles
 Bangkok,5-5,4,2004,Measles
-Zone 4,5-5,3,2004,Measles
+Zone:4,5-5,3,2004,Measles
 Ang Thong,5-5,0,2004,Measles
 Nonthaburi,5-5,2,2004,Measles
 P.Nakhon S.Ayutthaya,5-5,0,2004,Measles
 Pathum Thani,5-5,1,2004,Measles
-Zone 5,5-5,6,2004,Measles
+Zone:5,5-5,6,2004,Measles
 Chai Nat,5-5,1,2004,Measles
 Lop Buri,5-5,2,2004,Measles
 Saraburi,5-5,3,2004,Measles
 Sing Buri,5-5,0,2004,Measles
-Zone 6,5-5,8,2004,Measles
+Zone:6,5-5,8,2004,Measles
 Kanchanaburi,5-5,2,2004,Measles
 Nakhon Pathom,5-5,3,2004,Measles
 Ratchaburi,5-5,1,2004,Measles
 Suphan Buri,5-5,2,2004,Measles
-Zone 7,5-5,2,2004,Measles
+Zone:7,5-5,2,2004,Measles
 Phetchaburi,5-5,0,2004,Measles
 Prachuap Khiri Khan,5-5,1,2004,Measles
 Samut Sakhon,5-5,1,2004,Measles
 Samut Songkhram,5-5,0,2004,Measles
-Zone 8,5-5,16,2004,Measles
+Zone:8,5-5,16,2004,Measles
 Chachoengsao,5-5,6,2004,Measles
 Nakhon Nayok,5-5,1,2004,Measles
 Prachin Buri,5-5,3,2004,Measles
 Sa Kaeo,5-5,0,2004,Measles
 Samut Prakan,5-5,6,2004,Measles
-Zone 9,5-5,6,2004,Measles
+Zone:9,5-5,6,2004,Measles
 Chanthaburi,5-5,1,2004,Measles
 Chon Buri,5-5,3,2004,Measles
 Rayong,5-5,0,2004,Measles
 Trat,5-5,2,2004,Measles
 North-Eastern Region,5-5,45,2004,Measles
-Zone 10,5-5,1,2004,Measles
+Zone:10,5-5,1,2004,Measles
 Loei,5-5,0,2004,Measles
 Nong Bua Lam Phu,5-5,0,2004,Measles
 Nong Khai,5-5,0,2004,Measles
 Udon Thani,5-5,1,2004,Measles
-Zone 11,5-5,3,2004,Measles
+Zone:11,5-5,3,2004,Measles
 Kalasin,5-5,1,2004,Measles
 Mukdahan,5-5,1,2004,Measles
 Nakhon Phanom,5-5,0,2004,Measles
 Sakon Nakhon,5-5,1,2004,Measles
-Zone 12,5-5,2,2004,Measles
+Zone:12,5-5,2,2004,Measles
 Khon Kaen,5-5,1,2004,Measles
 Maha Sarakham,5-5,0,2004,Measles
 Roi Et,5-5,1,2004,Measles
-Zone 13,5-5,25,2004,Measles
+Zone:13,5-5,25,2004,Measles
 Buri Ram,5-5,3,2004,Measles
 Chaiyaphum,5-5,1,2004,Measles
 Nakhon Ratchasima,5-5,14,2004,Measles
 Surin,5-5,7,2004,Measles
-Zone 14,5-5,14,2004,Measles
+Zone:14,5-5,14,2004,Measles
 Amnat Charoen,5-5,2,2004,Measles
 Si Sa Ket,5-5,5,2004,Measles
 Ubon Ratchathani,5-5,7,2004,Measles
 Yasothon,5-5,0,2004,Measles
 South Region,5-5,58,2004,Measles
-Zone 15,5-5,6,2004,Measles
+Zone:15,5-5,6,2004,Measles
 Chumphon,5-5,3,2004,Measles
 Ranong,5-5,2,2004,Measles
 Surat Thani,5-5,1,2004,Measles
-Zone 16,5-5,8,2004,Measles
+Zone:16,5-5,8,2004,Measles
 Nakhon Si Thammarat,5-5,7,2004,Measles
 Phatthalung,5-5,0,2004,Measles
 Trang,5-5,1,2004,Measles
-Zone 17,5-5,1,2004,Measles
+Zone:17,5-5,1,2004,Measles
 Krabi,5-5,0,2004,Measles
 Phangnga,5-5,0,2004,Measles
 Phuket,5-5,1,2004,Measles
-Zone 18,5-5,35,2004,Measles
+Zone:18,5-5,35,2004,Measles
 Narathiwat,5-5,8,2004,Measles
 Pattani,5-5,6,2004,Measles
 Yala,5-5,21,2004,Measles
-Zone 19,5-5,8,2004,Measles
+Zone:19,5-5,8,2004,Measles
 Satun,5-5,0,2004,Measles
 Songkhla,5-5,8,2004,Measles
 Total,6-6,186,2004,Measles
 North Region,6-6,41,2004,Measles
-Zone 1,6-6,19,2004,Measles
+Zone:1,6-6,19,2004,Measles
 Chiang Mai,6-6,3,2004,Measles
 Chiang Rai,6-6,3,2004,Measles
 Lampang,6-6,0,2004,Measles
@@ -19674,98 +19674,98 @@ Mae Hong Son,6-6,1,2004,Measles
 Nan,6-6,1,2004,Measles
 Phayao,6-6,6,2004,Measles
 Phrae,6-6,0,2004,Measles
-Zone 2,6-6,18,2004,Measles
+Zone:2,6-6,18,2004,Measles
 Phetchabun,6-6,2,2004,Measles
 Phitsanulok,6-6,4,2004,Measles
 Sukhothai,6-6,4,2004,Measles
 Tak,6-6,5,2004,Measles
 Uttaradit,6-6,3,2004,Measles
-Zone 3,6-6,4,2004,Measles
+Zone:3,6-6,4,2004,Measles
 Kamphaeng Phet,6-6,2,2004,Measles
 Nakhon Sawan,6-6,2,2004,Measles
 Phichit,6-6,0,2004,Measles
 Uthai Thani,6-6,0,2004,Measles
 Central Region,6-6,30,2004,Measles
 Bangkok,6-6,2,2004,Measles
-Zone 4,6-6,2,2004,Measles
+Zone:4,6-6,2,2004,Measles
 Ang Thong,6-6,0,2004,Measles
 Nonthaburi,6-6,1,2004,Measles
 P.Nakhon S.Ayutthaya,6-6,1,2004,Measles
 Pathum Thani,6-6,0,2004,Measles
-Zone 5,6-6,0,2004,Measles
+Zone:5,6-6,0,2004,Measles
 Chai Nat,6-6,0,2004,Measles
 Lop Buri,6-6,0,2004,Measles
 Saraburi,6-6,0,2004,Measles
 Sing Buri,6-6,0,2004,Measles
-Zone 6,6-6,7,2004,Measles
+Zone:6,6-6,7,2004,Measles
 Kanchanaburi,6-6,1,2004,Measles
 Nakhon Pathom,6-6,4,2004,Measles
 Ratchaburi,6-6,0,2004,Measles
 Suphan Buri,6-6,2,2004,Measles
-Zone 7,6-6,1,2004,Measles
+Zone:7,6-6,1,2004,Measles
 Phetchaburi,6-6,0,2004,Measles
 Prachuap Khiri Khan,6-6,0,2004,Measles
 Samut Sakhon,6-6,1,2004,Measles
 Samut Songkhram,6-6,0,2004,Measles
-Zone 8,6-6,12,2004,Measles
+Zone:8,6-6,12,2004,Measles
 Chachoengsao,6-6,2,2004,Measles
 Nakhon Nayok,6-6,2,2004,Measles
 Prachin Buri,6-6,5,2004,Measles
 Sa Kaeo,6-6,1,2004,Measles
 Samut Prakan,6-6,2,2004,Measles
-Zone 9,6-6,6,2004,Measles
+Zone:9,6-6,6,2004,Measles
 Chanthaburi,6-6,0,2004,Measles
 Chon Buri,6-6,3,2004,Measles
 Rayong,6-6,2,2004,Measles
 Trat,6-6,1,2004,Measles
 North-Eastern Region,6-6,55,2004,Measles
-Zone 10,6-6,5,2004,Measles
+Zone:10,6-6,5,2004,Measles
 Loei,6-6,1,2004,Measles
 Nong Bua Lam Phu,6-6,2,2004,Measles
 Nong Khai,6-6,1,2004,Measles
 Udon Thani,6-6,1,2004,Measles
-Zone 11,6-6,8,2004,Measles
+Zone:11,6-6,8,2004,Measles
 Kalasin,6-6,2,2004,Measles
 Mukdahan,6-6,0,2004,Measles
 Nakhon Phanom,6-6,3,2004,Measles
 Sakon Nakhon,6-6,3,2004,Measles
-Zone 12,6-6,6,2004,Measles
+Zone:12,6-6,6,2004,Measles
 Khon Kaen,6-6,3,2004,Measles
 Maha Sarakham,6-6,1,2004,Measles
 Roi Et,6-6,2,2004,Measles
-Zone 13,6-6,23,2004,Measles
+Zone:13,6-6,23,2004,Measles
 Buri Ram,6-6,2,2004,Measles
 Chaiyaphum,6-6,5,2004,Measles
 Nakhon Ratchasima,6-6,11,2004,Measles
 Surin,6-6,5,2004,Measles
-Zone 14,6-6,13,2004,Measles
+Zone:14,6-6,13,2004,Measles
 Amnat Charoen,6-6,0,2004,Measles
 Si Sa Ket,6-6,8,2004,Measles
 Ubon Ratchathani,6-6,3,2004,Measles
 Yasothon,6-6,2,2004,Measles
 South Region,6-6,60,2004,Measles
-Zone 15,6-6,5,2004,Measles
+Zone:15,6-6,5,2004,Measles
 Chumphon,6-6,2,2004,Measles
 Ranong,6-6,1,2004,Measles
 Surat Thani,6-6,2,2004,Measles
-Zone 16,6-6,12,2004,Measles
+Zone:16,6-6,12,2004,Measles
 Nakhon Si Thammarat,6-6,7,2004,Measles
 Phatthalung,6-6,2,2004,Measles
 Trang,6-6,3,2004,Measles
-Zone 17,6-6,2,2004,Measles
+Zone:17,6-6,2,2004,Measles
 Krabi,6-6,2,2004,Measles
 Phangnga,6-6,0,2004,Measles
 Phuket,6-6,0,2004,Measles
-Zone 18,6-6,34,2004,Measles
+Zone:18,6-6,34,2004,Measles
 Narathiwat,6-6,14,2004,Measles
 Pattani,6-6,9,2004,Measles
 Yala,6-6,11,2004,Measles
-Zone 19,6-6,7,2004,Measles
+Zone:19,6-6,7,2004,Measles
 Satun,6-6,1,2004,Measles
 Songkhla,6-6,6,2004,Measles
 Total,7-9,356,2004,Measles
 North Region,7-9,64,2004,Measles
-Zone 1,7-9,25,2004,Measles
+Zone:1,7-9,25,2004,Measles
 Chiang Mai,7-9,16,2004,Measles
 Chiang Rai,7-9,4,2004,Measles
 Lampang,7-9,2,2004,Measles
@@ -19774,98 +19774,98 @@ Mae Hong Son,7-9,0,2004,Measles
 Nan,7-9,0,2004,Measles
 Phayao,7-9,2,2004,Measles
 Phrae,7-9,1,2004,Measles
-Zone 2,7-9,27,2004,Measles
+Zone:2,7-9,27,2004,Measles
 Phetchabun,7-9,10,2004,Measles
 Phitsanulok,7-9,0,2004,Measles
 Sukhothai,7-9,4,2004,Measles
 Tak,7-9,6,2004,Measles
 Uttaradit,7-9,7,2004,Measles
-Zone 3,7-9,12,2004,Measles
+Zone:3,7-9,12,2004,Measles
 Kamphaeng Phet,7-9,2,2004,Measles
 Nakhon Sawan,7-9,9,2004,Measles
 Phichit,7-9,0,2004,Measles
 Uthai Thani,7-9,1,2004,Measles
 Central Region,7-9,79,2004,Measles
 Bangkok,7-9,3,2004,Measles
-Zone 4,7-9,7,2004,Measles
+Zone:4,7-9,7,2004,Measles
 Ang Thong,7-9,0,2004,Measles
 Nonthaburi,7-9,3,2004,Measles
 P.Nakhon S.Ayutthaya,7-9,2,2004,Measles
 Pathum Thani,7-9,2,2004,Measles
-Zone 5,7-9,5,2004,Measles
+Zone:5,7-9,5,2004,Measles
 Chai Nat,7-9,0,2004,Measles
 Lop Buri,7-9,1,2004,Measles
 Saraburi,7-9,4,2004,Measles
 Sing Buri,7-9,0,2004,Measles
-Zone 6,7-9,22,2004,Measles
+Zone:6,7-9,22,2004,Measles
 Kanchanaburi,7-9,7,2004,Measles
 Nakhon Pathom,7-9,7,2004,Measles
 Ratchaburi,7-9,4,2004,Measles
 Suphan Buri,7-9,4,2004,Measles
-Zone 7,7-9,5,2004,Measles
+Zone:7,7-9,5,2004,Measles
 Phetchaburi,7-9,0,2004,Measles
 Prachuap Khiri Khan,7-9,1,2004,Measles
 Samut Sakhon,7-9,3,2004,Measles
 Samut Songkhram,7-9,1,2004,Measles
-Zone 8,7-9,21,2004,Measles
+Zone:8,7-9,21,2004,Measles
 Chachoengsao,7-9,9,2004,Measles
 Nakhon Nayok,7-9,2,2004,Measles
 Prachin Buri,7-9,2,2004,Measles
 Sa Kaeo,7-9,1,2004,Measles
 Samut Prakan,7-9,7,2004,Measles
-Zone 9,7-9,16,2004,Measles
+Zone:9,7-9,16,2004,Measles
 Chanthaburi,7-9,3,2004,Measles
 Chon Buri,7-9,9,2004,Measles
 Rayong,7-9,4,2004,Measles
 Trat,7-9,0,2004,Measles
 North-Eastern Region,7-9,121,2004,Measles
-Zone 10,7-9,6,2004,Measles
+Zone:10,7-9,6,2004,Measles
 Loei,7-9,1,2004,Measles
 Nong Bua Lam Phu,7-9,3,2004,Measles
 Nong Khai,7-9,1,2004,Measles
 Udon Thani,7-9,1,2004,Measles
-Zone 11,7-9,13,2004,Measles
+Zone:11,7-9,13,2004,Measles
 Kalasin,7-9,3,2004,Measles
 Mukdahan,7-9,2,2004,Measles
 Nakhon Phanom,7-9,2,2004,Measles
 Sakon Nakhon,7-9,6,2004,Measles
-Zone 12,7-9,10,2004,Measles
+Zone:12,7-9,10,2004,Measles
 Khon Kaen,7-9,4,2004,Measles
 Maha Sarakham,7-9,3,2004,Measles
 Roi Et,7-9,3,2004,Measles
-Zone 13,7-9,61,2004,Measles
+Zone:13,7-9,61,2004,Measles
 Buri Ram,7-9,14,2004,Measles
 Chaiyaphum,7-9,16,2004,Measles
 Nakhon Ratchasima,7-9,24,2004,Measles
 Surin,7-9,7,2004,Measles
-Zone 14,7-9,31,2004,Measles
+Zone:14,7-9,31,2004,Measles
 Amnat Charoen,7-9,3,2004,Measles
 Si Sa Ket,7-9,8,2004,Measles
 Ubon Ratchathani,7-9,16,2004,Measles
 Yasothon,7-9,4,2004,Measles
 South Region,7-9,92,2004,Measles
-Zone 15,7-9,5,2004,Measles
+Zone:15,7-9,5,2004,Measles
 Chumphon,7-9,2,2004,Measles
 Ranong,7-9,0,2004,Measles
 Surat Thani,7-9,3,2004,Measles
-Zone 16,7-9,14,2004,Measles
+Zone:16,7-9,14,2004,Measles
 Nakhon Si Thammarat,7-9,12,2004,Measles
 Phatthalung,7-9,1,2004,Measles
 Trang,7-9,1,2004,Measles
-Zone 17,7-9,3,2004,Measles
+Zone:17,7-9,3,2004,Measles
 Krabi,7-9,1,2004,Measles
 Phangnga,7-9,0,2004,Measles
 Phuket,7-9,2,2004,Measles
-Zone 18,7-9,56,2004,Measles
+Zone:18,7-9,56,2004,Measles
 Narathiwat,7-9,21,2004,Measles
 Pattani,7-9,18,2004,Measles
 Yala,7-9,17,2004,Measles
-Zone 19,7-9,14,2004,Measles
+Zone:19,7-9,14,2004,Measles
 Satun,7-9,0,2004,Measles
 Songkhla,7-9,14,2004,Measles
 Total,10-14,542,2004,Measles
 North Region,10-14,101,2004,Measles
-Zone 1,10-14,29,2004,Measles
+Zone:1,10-14,29,2004,Measles
 Chiang Mai,10-14,16,2004,Measles
 Chiang Rai,10-14,3,2004,Measles
 Lampang,10-14,2,2004,Measles
@@ -19874,98 +19874,98 @@ Mae Hong Son,10-14,0,2004,Measles
 Nan,10-14,1,2004,Measles
 Phayao,10-14,5,2004,Measles
 Phrae,10-14,2,2004,Measles
-Zone 2,10-14,49,2004,Measles
+Zone:2,10-14,49,2004,Measles
 Phetchabun,10-14,8,2004,Measles
 Phitsanulok,10-14,3,2004,Measles
 Sukhothai,10-14,15,2004,Measles
 Tak,10-14,11,2004,Measles
 Uttaradit,10-14,12,2004,Measles
-Zone 3,10-14,23,2004,Measles
+Zone:3,10-14,23,2004,Measles
 Kamphaeng Phet,10-14,6,2004,Measles
 Nakhon Sawan,10-14,15,2004,Measles
 Phichit,10-14,1,2004,Measles
 Uthai Thani,10-14,1,2004,Measles
 Central Region,10-14,120,2004,Measles
 Bangkok,10-14,13,2004,Measles
-Zone 4,10-14,16,2004,Measles
+Zone:4,10-14,16,2004,Measles
 Ang Thong,10-14,1,2004,Measles
 Nonthaburi,10-14,8,2004,Measles
 P.Nakhon S.Ayutthaya,10-14,4,2004,Measles
 Pathum Thani,10-14,3,2004,Measles
-Zone 5,10-14,11,2004,Measles
+Zone:5,10-14,11,2004,Measles
 Chai Nat,10-14,4,2004,Measles
 Lop Buri,10-14,1,2004,Measles
 Saraburi,10-14,6,2004,Measles
 Sing Buri,10-14,0,2004,Measles
-Zone 6,10-14,17,2004,Measles
+Zone:6,10-14,17,2004,Measles
 Kanchanaburi,10-14,3,2004,Measles
 Nakhon Pathom,10-14,3,2004,Measles
 Ratchaburi,10-14,2,2004,Measles
 Suphan Buri,10-14,9,2004,Measles
-Zone 7,10-14,7,2004,Measles
+Zone:7,10-14,7,2004,Measles
 Phetchaburi,10-14,3,2004,Measles
 Prachuap Khiri Khan,10-14,1,2004,Measles
 Samut Sakhon,10-14,2,2004,Measles
 Samut Songkhram,10-14,1,2004,Measles
-Zone 8,10-14,38,2004,Measles
+Zone:8,10-14,38,2004,Measles
 Chachoengsao,10-14,10,2004,Measles
 Nakhon Nayok,10-14,2,2004,Measles
 Prachin Buri,10-14,9,2004,Measles
 Sa Kaeo,10-14,9,2004,Measles
 Samut Prakan,10-14,8,2004,Measles
-Zone 9,10-14,18,2004,Measles
+Zone:9,10-14,18,2004,Measles
 Chanthaburi,10-14,5,2004,Measles
 Chon Buri,10-14,5,2004,Measles
 Rayong,10-14,4,2004,Measles
 Trat,10-14,4,2004,Measles
 North-Eastern Region,10-14,224,2004,Measles
-Zone 10,10-14,9,2004,Measles
+Zone:10,10-14,9,2004,Measles
 Loei,10-14,2,2004,Measles
 Nong Bua Lam Phu,10-14,6,2004,Measles
 Nong Khai,10-14,1,2004,Measles
 Udon Thani,10-14,0,2004,Measles
-Zone 11,10-14,24,2004,Measles
+Zone:11,10-14,24,2004,Measles
 Kalasin,10-14,3,2004,Measles
 Mukdahan,10-14,0,2004,Measles
 Nakhon Phanom,10-14,2,2004,Measles
 Sakon Nakhon,10-14,19,2004,Measles
-Zone 12,10-14,17,2004,Measles
+Zone:12,10-14,17,2004,Measles
 Khon Kaen,10-14,13,2004,Measles
 Maha Sarakham,10-14,1,2004,Measles
 Roi Et,10-14,3,2004,Measles
-Zone 13,10-14,110,2004,Measles
+Zone:13,10-14,110,2004,Measles
 Buri Ram,10-14,13,2004,Measles
 Chaiyaphum,10-14,45,2004,Measles
 Nakhon Ratchasima,10-14,37,2004,Measles
 Surin,10-14,15,2004,Measles
-Zone 14,10-14,64,2004,Measles
+Zone:14,10-14,64,2004,Measles
 Amnat Charoen,10-14,5,2004,Measles
 Si Sa Ket,10-14,11,2004,Measles
 Ubon Ratchathani,10-14,42,2004,Measles
 Yasothon,10-14,6,2004,Measles
 South Region,10-14,97,2004,Measles
-Zone 15,10-14,22,2004,Measles
+Zone:15,10-14,22,2004,Measles
 Chumphon,10-14,15,2004,Measles
 Ranong,10-14,5,2004,Measles
 Surat Thani,10-14,2,2004,Measles
-Zone 16,10-14,20,2004,Measles
+Zone:16,10-14,20,2004,Measles
 Nakhon Si Thammarat,10-14,14,2004,Measles
 Phatthalung,10-14,2,2004,Measles
 Trang,10-14,4,2004,Measles
-Zone 17,10-14,2,2004,Measles
+Zone:17,10-14,2,2004,Measles
 Krabi,10-14,2,2004,Measles
 Phangnga,10-14,0,2004,Measles
 Phuket,10-14,0,2004,Measles
-Zone 18,10-14,38,2004,Measles
+Zone:18,10-14,38,2004,Measles
 Narathiwat,10-14,18,2004,Measles
 Pattani,10-14,6,2004,Measles
 Yala,10-14,14,2004,Measles
-Zone 19,10-14,15,2004,Measles
+Zone:19,10-14,15,2004,Measles
 Satun,10-14,0,2004,Measles
 Songkhla,10-14,15,2004,Measles
 Total,15-24,904,2004,Measles
 North Region,15-24,254,2004,Measles
-Zone 1,15-24,50,2004,Measles
+Zone:1,15-24,50,2004,Measles
 Chiang Mai,15-24,23,2004,Measles
 Chiang Rai,15-24,4,2004,Measles
 Lampang,15-24,2,2004,Measles
@@ -19974,98 +19974,98 @@ Mae Hong Son,15-24,2,2004,Measles
 Nan,15-24,5,2004,Measles
 Phayao,15-24,8,2004,Measles
 Phrae,15-24,4,2004,Measles
-Zone 2,15-24,178,2004,Measles
+Zone:2,15-24,178,2004,Measles
 Phetchabun,15-24,17,2004,Measles
 Phitsanulok,15-24,10,2004,Measles
 Sukhothai,15-24,65,2004,Measles
 Tak,15-24,5,2004,Measles
 Uttaradit,15-24,81,2004,Measles
-Zone 3,15-24,26,2004,Measles
+Zone:3,15-24,26,2004,Measles
 Kamphaeng Phet,15-24,7,2004,Measles
 Nakhon Sawan,15-24,12,2004,Measles
 Phichit,15-24,6,2004,Measles
 Uthai Thani,15-24,1,2004,Measles
 Central Region,15-24,284,2004,Measles
 Bangkok,15-24,26,2004,Measles
-Zone 4,15-24,40,2004,Measles
+Zone:4,15-24,40,2004,Measles
 Ang Thong,15-24,2,2004,Measles
 Nonthaburi,15-24,9,2004,Measles
 P.Nakhon S.Ayutthaya,15-24,22,2004,Measles
 Pathum Thani,15-24,7,2004,Measles
-Zone 5,15-24,20,2004,Measles
+Zone:5,15-24,20,2004,Measles
 Chai Nat,15-24,1,2004,Measles
 Lop Buri,15-24,4,2004,Measles
 Saraburi,15-24,15,2004,Measles
 Sing Buri,15-24,0,2004,Measles
-Zone 6,15-24,48,2004,Measles
+Zone:6,15-24,48,2004,Measles
 Kanchanaburi,15-24,9,2004,Measles
 Nakhon Pathom,15-24,12,2004,Measles
 Ratchaburi,15-24,10,2004,Measles
 Suphan Buri,15-24,17,2004,Measles
-Zone 7,15-24,6,2004,Measles
+Zone:7,15-24,6,2004,Measles
 Phetchaburi,15-24,0,2004,Measles
 Prachuap Khiri Khan,15-24,0,2004,Measles
 Samut Sakhon,15-24,5,2004,Measles
 Samut Songkhram,15-24,1,2004,Measles
-Zone 8,15-24,94,2004,Measles
+Zone:8,15-24,94,2004,Measles
 Chachoengsao,15-24,28,2004,Measles
 Nakhon Nayok,15-24,1,2004,Measles
 Prachin Buri,15-24,26,2004,Measles
 Sa Kaeo,15-24,4,2004,Measles
 Samut Prakan,15-24,35,2004,Measles
-Zone 9,15-24,50,2004,Measles
+Zone:9,15-24,50,2004,Measles
 Chanthaburi,15-24,6,2004,Measles
 Chon Buri,15-24,16,2004,Measles
 Rayong,15-24,27,2004,Measles
 Trat,15-24,1,2004,Measles
 North-Eastern Region,15-24,203,2004,Measles
-Zone 10,15-24,4,2004,Measles
+Zone:10,15-24,4,2004,Measles
 Loei,15-24,0,2004,Measles
 Nong Bua Lam Phu,15-24,0,2004,Measles
 Nong Khai,15-24,2,2004,Measles
 Udon Thani,15-24,2,2004,Measles
-Zone 11,15-24,57,2004,Measles
+Zone:11,15-24,57,2004,Measles
 Kalasin,15-24,1,2004,Measles
 Mukdahan,15-24,11,2004,Measles
 Nakhon Phanom,15-24,1,2004,Measles
 Sakon Nakhon,15-24,44,2004,Measles
-Zone 12,15-24,16,2004,Measles
+Zone:12,15-24,16,2004,Measles
 Khon Kaen,15-24,12,2004,Measles
 Maha Sarakham,15-24,1,2004,Measles
 Roi Et,15-24,3,2004,Measles
-Zone 13,15-24,78,2004,Measles
+Zone:13,15-24,78,2004,Measles
 Buri Ram,15-24,4,2004,Measles
 Chaiyaphum,15-24,19,2004,Measles
 Nakhon Ratchasima,15-24,47,2004,Measles
 Surin,15-24,8,2004,Measles
-Zone 14,15-24,48,2004,Measles
+Zone:14,15-24,48,2004,Measles
 Amnat Charoen,15-24,2,2004,Measles
 Si Sa Ket,15-24,8,2004,Measles
 Ubon Ratchathani,15-24,36,2004,Measles
 Yasothon,15-24,2,2004,Measles
 South Region,15-24,163,2004,Measles
-Zone 15,15-24,49,2004,Measles
+Zone:15,15-24,49,2004,Measles
 Chumphon,15-24,34,2004,Measles
 Ranong,15-24,1,2004,Measles
 Surat Thani,15-24,14,2004,Measles
-Zone 16,15-24,23,2004,Measles
+Zone:16,15-24,23,2004,Measles
 Nakhon Si Thammarat,15-24,10,2004,Measles
 Phatthalung,15-24,2,2004,Measles
 Trang,15-24,11,2004,Measles
-Zone 17,15-24,5,2004,Measles
+Zone:17,15-24,5,2004,Measles
 Krabi,15-24,4,2004,Measles
 Phangnga,15-24,0,2004,Measles
 Phuket,15-24,1,2004,Measles
-Zone 18,15-24,22,2004,Measles
+Zone:18,15-24,22,2004,Measles
 Narathiwat,15-24,10,2004,Measles
 Pattani,15-24,4,2004,Measles
 Yala,15-24,8,2004,Measles
-Zone 19,15-24,64,2004,Measles
+Zone:19,15-24,64,2004,Measles
 Satun,15-24,4,2004,Measles
 Songkhla,15-24,60,2004,Measles
 Total,25-34,144,2004,Measles
 North Region,25-34,33,2004,Measles
-Zone 1,25-34,10,2004,Measles
+Zone:1,25-34,10,2004,Measles
 Chiang Mai,25-34,3,2004,Measles
 Chiang Rai,25-34,1,2004,Measles
 Lampang,25-34,1,2004,Measles
@@ -20074,98 +20074,98 @@ Mae Hong Son,25-34,1,2004,Measles
 Nan,25-34,0,2004,Measles
 Phayao,25-34,2,2004,Measles
 Phrae,25-34,0,2004,Measles
-Zone 2,25-34,15,2004,Measles
+Zone:2,25-34,15,2004,Measles
 Phetchabun,25-34,2,2004,Measles
 Phitsanulok,25-34,3,2004,Measles
 Sukhothai,25-34,4,2004,Measles
 Tak,25-34,1,2004,Measles
 Uttaradit,25-34,5,2004,Measles
-Zone 3,25-34,8,2004,Measles
+Zone:3,25-34,8,2004,Measles
 Kamphaeng Phet,25-34,5,2004,Measles
 Nakhon Sawan,25-34,2,2004,Measles
 Phichit,25-34,1,2004,Measles
 Uthai Thani,25-34,0,2004,Measles
 Central Region,25-34,58,2004,Measles
 Bangkok,25-34,4,2004,Measles
-Zone 4,25-34,14,2004,Measles
+Zone:4,25-34,14,2004,Measles
 Ang Thong,25-34,1,2004,Measles
 Nonthaburi,25-34,6,2004,Measles
 P.Nakhon S.Ayutthaya,25-34,4,2004,Measles
 Pathum Thani,25-34,3,2004,Measles
-Zone 5,25-34,6,2004,Measles
+Zone:5,25-34,6,2004,Measles
 Chai Nat,25-34,2,2004,Measles
 Lop Buri,25-34,1,2004,Measles
 Saraburi,25-34,3,2004,Measles
 Sing Buri,25-34,0,2004,Measles
-Zone 6,25-34,11,2004,Measles
+Zone:6,25-34,11,2004,Measles
 Kanchanaburi,25-34,2,2004,Measles
 Nakhon Pathom,25-34,3,2004,Measles
 Ratchaburi,25-34,2,2004,Measles
 Suphan Buri,25-34,4,2004,Measles
-Zone 7,25-34,0,2004,Measles
+Zone:7,25-34,0,2004,Measles
 Phetchaburi,25-34,0,2004,Measles
 Prachuap Khiri Khan,25-34,0,2004,Measles
 Samut Sakhon,25-34,0,2004,Measles
 Samut Songkhram,25-34,0,2004,Measles
-Zone 8,25-34,11,2004,Measles
+Zone:8,25-34,11,2004,Measles
 Chachoengsao,25-34,4,2004,Measles
 Nakhon Nayok,25-34,0,2004,Measles
 Prachin Buri,25-34,4,2004,Measles
 Sa Kaeo,25-34,0,2004,Measles
 Samut Prakan,25-34,3,2004,Measles
-Zone 9,25-34,12,2004,Measles
+Zone:9,25-34,12,2004,Measles
 Chanthaburi,25-34,1,2004,Measles
 Chon Buri,25-34,4,2004,Measles
 Rayong,25-34,6,2004,Measles
 Trat,25-34,1,2004,Measles
 North-Eastern Region,25-34,31,2004,Measles
-Zone 10,25-34,2,2004,Measles
+Zone:10,25-34,2,2004,Measles
 Loei,25-34,1,2004,Measles
 Nong Bua Lam Phu,25-34,0,2004,Measles
 Nong Khai,25-34,1,2004,Measles
 Udon Thani,25-34,0,2004,Measles
-Zone 11,25-34,2,2004,Measles
+Zone:11,25-34,2,2004,Measles
 Kalasin,25-34,2,2004,Measles
 Mukdahan,25-34,0,2004,Measles
 Nakhon Phanom,25-34,0,2004,Measles
 Sakon Nakhon,25-34,0,2004,Measles
-Zone 12,25-34,6,2004,Measles
+Zone:12,25-34,6,2004,Measles
 Khon Kaen,25-34,4,2004,Measles
 Maha Sarakham,25-34,2,2004,Measles
 Roi Et,25-34,0,2004,Measles
-Zone 13,25-34,9,2004,Measles
+Zone:13,25-34,9,2004,Measles
 Buri Ram,25-34,2,2004,Measles
 Chaiyaphum,25-34,2,2004,Measles
 Nakhon Ratchasima,25-34,3,2004,Measles
 Surin,25-34,2,2004,Measles
-Zone 14,25-34,12,2004,Measles
+Zone:14,25-34,12,2004,Measles
 Amnat Charoen,25-34,0,2004,Measles
 Si Sa Ket,25-34,8,2004,Measles
 Ubon Ratchathani,25-34,4,2004,Measles
 Yasothon,25-34,0,2004,Measles
 South Region,25-34,22,2004,Measles
-Zone 15,25-34,12,2004,Measles
+Zone:15,25-34,12,2004,Measles
 Chumphon,25-34,1,2004,Measles
 Ranong,25-34,0,2004,Measles
 Surat Thani,25-34,11,2004,Measles
-Zone 16,25-34,3,2004,Measles
+Zone:16,25-34,3,2004,Measles
 Nakhon Si Thammarat,25-34,0,2004,Measles
 Phatthalung,25-34,3,2004,Measles
 Trang,25-34,0,2004,Measles
-Zone 17,25-34,0,2004,Measles
+Zone:17,25-34,0,2004,Measles
 Krabi,25-34,0,2004,Measles
 Phangnga,25-34,0,2004,Measles
 Phuket,25-34,0,2004,Measles
-Zone 18,25-34,2,2004,Measles
+Zone:18,25-34,2,2004,Measles
 Narathiwat,25-34,0,2004,Measles
 Pattani,25-34,0,2004,Measles
 Yala,25-34,2,2004,Measles
-Zone 19,25-34,5,2004,Measles
+Zone:19,25-34,5,2004,Measles
 Satun,25-34,1,2004,Measles
 Songkhla,25-34,4,2004,Measles
 Total,35-44,49,2004,Measles
 North Region,35-44,9,2004,Measles
-Zone 1,35-44,5,2004,Measles
+Zone:1,35-44,5,2004,Measles
 Chiang Mai,35-44,2,2004,Measles
 Chiang Rai,35-44,0,2004,Measles
 Lampang,35-44,1,2004,Measles
@@ -20174,98 +20174,98 @@ Mae Hong Son,35-44,0,2004,Measles
 Nan,35-44,0,2004,Measles
 Phayao,35-44,1,2004,Measles
 Phrae,35-44,0,2004,Measles
-Zone 2,35-44,2,2004,Measles
+Zone:2,35-44,2,2004,Measles
 Phetchabun,35-44,1,2004,Measles
 Phitsanulok,35-44,0,2004,Measles
 Sukhothai,35-44,1,2004,Measles
 Tak,35-44,0,2004,Measles
 Uttaradit,35-44,0,2004,Measles
-Zone 3,35-44,2,2004,Measles
+Zone:3,35-44,2,2004,Measles
 Kamphaeng Phet,35-44,0,2004,Measles
 Nakhon Sawan,35-44,2,2004,Measles
 Phichit,35-44,0,2004,Measles
 Uthai Thani,35-44,0,2004,Measles
 Central Region,35-44,15,2004,Measles
 Bangkok,35-44,1,2004,Measles
-Zone 4,35-44,2,2004,Measles
+Zone:4,35-44,2,2004,Measles
 Ang Thong,35-44,0,2004,Measles
 Nonthaburi,35-44,1,2004,Measles
 P.Nakhon S.Ayutthaya,35-44,1,2004,Measles
 Pathum Thani,35-44,0,2004,Measles
-Zone 5,35-44,4,2004,Measles
+Zone:5,35-44,4,2004,Measles
 Chai Nat,35-44,0,2004,Measles
 Lop Buri,35-44,1,2004,Measles
 Saraburi,35-44,3,2004,Measles
 Sing Buri,35-44,0,2004,Measles
-Zone 6,35-44,3,2004,Measles
+Zone:6,35-44,3,2004,Measles
 Kanchanaburi,35-44,0,2004,Measles
 Nakhon Pathom,35-44,1,2004,Measles
 Ratchaburi,35-44,1,2004,Measles
 Suphan Buri,35-44,1,2004,Measles
-Zone 7,35-44,1,2004,Measles
+Zone:7,35-44,1,2004,Measles
 Phetchaburi,35-44,0,2004,Measles
 Prachuap Khiri Khan,35-44,0,2004,Measles
 Samut Sakhon,35-44,0,2004,Measles
 Samut Songkhram,35-44,1,2004,Measles
-Zone 8,35-44,3,2004,Measles
+Zone:8,35-44,3,2004,Measles
 Chachoengsao,35-44,0,2004,Measles
 Nakhon Nayok,35-44,1,2004,Measles
 Prachin Buri,35-44,1,2004,Measles
 Sa Kaeo,35-44,0,2004,Measles
 Samut Prakan,35-44,1,2004,Measles
-Zone 9,35-44,1,2004,Measles
+Zone:9,35-44,1,2004,Measles
 Chanthaburi,35-44,0,2004,Measles
 Chon Buri,35-44,1,2004,Measles
 Rayong,35-44,0,2004,Measles
 Trat,35-44,0,2004,Measles
 North-Eastern Region,35-44,16,2004,Measles
-Zone 10,35-44,2,2004,Measles
+Zone:10,35-44,2,2004,Measles
 Loei,35-44,0,2004,Measles
 Nong Bua Lam Phu,35-44,0,2004,Measles
 Nong Khai,35-44,0,2004,Measles
 Udon Thani,35-44,2,2004,Measles
-Zone 11,35-44,2,2004,Measles
+Zone:11,35-44,2,2004,Measles
 Kalasin,35-44,1,2004,Measles
 Mukdahan,35-44,0,2004,Measles
 Nakhon Phanom,35-44,1,2004,Measles
 Sakon Nakhon,35-44,0,2004,Measles
-Zone 12,35-44,4,2004,Measles
+Zone:12,35-44,4,2004,Measles
 Khon Kaen,35-44,2,2004,Measles
 Maha Sarakham,35-44,1,2004,Measles
 Roi Et,35-44,1,2004,Measles
-Zone 13,35-44,4,2004,Measles
+Zone:13,35-44,4,2004,Measles
 Buri Ram,35-44,0,2004,Measles
 Chaiyaphum,35-44,1,2004,Measles
 Nakhon Ratchasima,35-44,2,2004,Measles
 Surin,35-44,1,2004,Measles
-Zone 14,35-44,4,2004,Measles
+Zone:14,35-44,4,2004,Measles
 Amnat Charoen,35-44,0,2004,Measles
 Si Sa Ket,35-44,2,2004,Measles
 Ubon Ratchathani,35-44,2,2004,Measles
 Yasothon,35-44,0,2004,Measles
 South Region,35-44,9,2004,Measles
-Zone 15,35-44,7,2004,Measles
+Zone:15,35-44,7,2004,Measles
 Chumphon,35-44,1,2004,Measles
 Ranong,35-44,1,2004,Measles
 Surat Thani,35-44,5,2004,Measles
-Zone 16,35-44,0,2004,Measles
+Zone:16,35-44,0,2004,Measles
 Nakhon Si Thammarat,35-44,0,2004,Measles
 Phatthalung,35-44,0,2004,Measles
 Trang,35-44,0,2004,Measles
-Zone 17,35-44,0,2004,Measles
+Zone:17,35-44,0,2004,Measles
 Krabi,35-44,0,2004,Measles
 Phangnga,35-44,0,2004,Measles
 Phuket,35-44,0,2004,Measles
-Zone 18,35-44,1,2004,Measles
+Zone:18,35-44,1,2004,Measles
 Narathiwat,35-44,0,2004,Measles
 Pattani,35-44,0,2004,Measles
 Yala,35-44,1,2004,Measles
-Zone 19,35-44,1,2004,Measles
+Zone:19,35-44,1,2004,Measles
 Satun,35-44,0,2004,Measles
 Songkhla,35-44,1,2004,Measles
 Total,45-54,29,2004,Measles
 North Region,45-54,11,2004,Measles
-Zone 1,45-54,8,2004,Measles
+Zone:1,45-54,8,2004,Measles
 Chiang Mai,45-54,3,2004,Measles
 Chiang Rai,45-54,1,2004,Measles
 Lampang,45-54,1,2004,Measles
@@ -20274,98 +20274,98 @@ Mae Hong Son,45-54,0,2004,Measles
 Nan,45-54,0,2004,Measles
 Phayao,45-54,2,2004,Measles
 Phrae,45-54,0,2004,Measles
-Zone 2,45-54,2,2004,Measles
+Zone:2,45-54,2,2004,Measles
 Phetchabun,45-54,0,2004,Measles
 Phitsanulok,45-54,0,2004,Measles
 Sukhothai,45-54,0,2004,Measles
 Tak,45-54,0,2004,Measles
 Uttaradit,45-54,2,2004,Measles
-Zone 3,45-54,1,2004,Measles
+Zone:3,45-54,1,2004,Measles
 Kamphaeng Phet,45-54,0,2004,Measles
 Nakhon Sawan,45-54,0,2004,Measles
 Phichit,45-54,1,2004,Measles
 Uthai Thani,45-54,0,2004,Measles
 Central Region,45-54,7,2004,Measles
 Bangkok,45-54,1,2004,Measles
-Zone 4,45-54,1,2004,Measles
+Zone:4,45-54,1,2004,Measles
 Ang Thong,45-54,0,2004,Measles
 Nonthaburi,45-54,1,2004,Measles
 P.Nakhon S.Ayutthaya,45-54,0,2004,Measles
 Pathum Thani,45-54,0,2004,Measles
-Zone 5,45-54,3,2004,Measles
+Zone:5,45-54,3,2004,Measles
 Chai Nat,45-54,0,2004,Measles
 Lop Buri,45-54,1,2004,Measles
 Saraburi,45-54,2,2004,Measles
 Sing Buri,45-54,0,2004,Measles
-Zone 6,45-54,0,2004,Measles
+Zone:6,45-54,0,2004,Measles
 Kanchanaburi,45-54,0,2004,Measles
 Nakhon Pathom,45-54,0,2004,Measles
 Ratchaburi,45-54,0,2004,Measles
 Suphan Buri,45-54,0,2004,Measles
-Zone 7,45-54,0,2004,Measles
+Zone:7,45-54,0,2004,Measles
 Phetchaburi,45-54,0,2004,Measles
 Prachuap Khiri Khan,45-54,0,2004,Measles
 Samut Sakhon,45-54,0,2004,Measles
 Samut Songkhram,45-54,0,2004,Measles
-Zone 8,45-54,2,2004,Measles
+Zone:8,45-54,2,2004,Measles
 Chachoengsao,45-54,0,2004,Measles
 Nakhon Nayok,45-54,0,2004,Measles
 Prachin Buri,45-54,1,2004,Measles
 Sa Kaeo,45-54,1,2004,Measles
 Samut Prakan,45-54,0,2004,Measles
-Zone 9,45-54,0,2004,Measles
+Zone:9,45-54,0,2004,Measles
 Chanthaburi,45-54,0,2004,Measles
 Chon Buri,45-54,0,2004,Measles
 Rayong,45-54,0,2004,Measles
 Trat,45-54,0,2004,Measles
 North-Eastern Region,45-54,4,2004,Measles
-Zone 10,45-54,0,2004,Measles
+Zone:10,45-54,0,2004,Measles
 Loei,45-54,0,2004,Measles
 Nong Bua Lam Phu,45-54,0,2004,Measles
 Nong Khai,45-54,0,2004,Measles
 Udon Thani,45-54,0,2004,Measles
-Zone 11,45-54,2,2004,Measles
+Zone:11,45-54,2,2004,Measles
 Kalasin,45-54,1,2004,Measles
 Mukdahan,45-54,0,2004,Measles
 Nakhon Phanom,45-54,1,2004,Measles
 Sakon Nakhon,45-54,0,2004,Measles
-Zone 12,45-54,0,2004,Measles
+Zone:12,45-54,0,2004,Measles
 Khon Kaen,45-54,0,2004,Measles
 Maha Sarakham,45-54,0,2004,Measles
 Roi Et,45-54,0,2004,Measles
-Zone 13,45-54,0,2004,Measles
+Zone:13,45-54,0,2004,Measles
 Buri Ram,45-54,0,2004,Measles
 Chaiyaphum,45-54,0,2004,Measles
 Nakhon Ratchasima,45-54,0,2004,Measles
 Surin,45-54,0,2004,Measles
-Zone 14,45-54,2,2004,Measles
+Zone:14,45-54,2,2004,Measles
 Amnat Charoen,45-54,1,2004,Measles
 Si Sa Ket,45-54,1,2004,Measles
 Ubon Ratchathani,45-54,0,2004,Measles
 Yasothon,45-54,0,2004,Measles
 South Region,45-54,7,2004,Measles
-Zone 15,45-54,5,2004,Measles
+Zone:15,45-54,5,2004,Measles
 Chumphon,45-54,0,2004,Measles
 Ranong,45-54,0,2004,Measles
 Surat Thani,45-54,5,2004,Measles
-Zone 16,45-54,1,2004,Measles
+Zone:16,45-54,1,2004,Measles
 Nakhon Si Thammarat,45-54,1,2004,Measles
 Phatthalung,45-54,0,2004,Measles
 Trang,45-54,0,2004,Measles
-Zone 17,45-54,0,2004,Measles
+Zone:17,45-54,0,2004,Measles
 Krabi,45-54,0,2004,Measles
 Phangnga,45-54,0,2004,Measles
 Phuket,45-54,0,2004,Measles
-Zone 18,45-54,1,2004,Measles
+Zone:18,45-54,1,2004,Measles
 Narathiwat,45-54,0,2004,Measles
 Pattani,45-54,0,2004,Measles
 Yala,45-54,1,2004,Measles
-Zone 19,45-54,0,2004,Measles
+Zone:19,45-54,0,2004,Measles
 Satun,45-54,0,2004,Measles
 Songkhla,45-54,0,2004,Measles
 Total,55-64,17,2004,Measles
 North Region,55-64,3,2004,Measles
-Zone 1,55-64,3,2004,Measles
+Zone:1,55-64,3,2004,Measles
 Chiang Mai,55-64,1,2004,Measles
 Chiang Rai,55-64,0,2004,Measles
 Lampang,55-64,1,2004,Measles
@@ -20374,98 +20374,98 @@ Mae Hong Son,55-64,0,2004,Measles
 Nan,55-64,0,2004,Measles
 Phayao,55-64,1,2004,Measles
 Phrae,55-64,0,2004,Measles
-Zone 2,55-64,0,2004,Measles
+Zone:2,55-64,0,2004,Measles
 Phetchabun,55-64,0,2004,Measles
 Phitsanulok,55-64,0,2004,Measles
 Sukhothai,55-64,0,2004,Measles
 Tak,55-64,0,2004,Measles
 Uttaradit,55-64,0,2004,Measles
-Zone 3,55-64,0,2004,Measles
+Zone:3,55-64,0,2004,Measles
 Kamphaeng Phet,55-64,0,2004,Measles
 Nakhon Sawan,55-64,0,2004,Measles
 Phichit,55-64,0,2004,Measles
 Uthai Thani,55-64,0,2004,Measles
 Central Region,55-64,5,2004,Measles
 Bangkok,55-64,1,2004,Measles
-Zone 4,55-64,0,2004,Measles
+Zone:4,55-64,0,2004,Measles
 Ang Thong,55-64,0,2004,Measles
 Nonthaburi,55-64,0,2004,Measles
 P.Nakhon S.Ayutthaya,55-64,0,2004,Measles
 Pathum Thani,55-64,0,2004,Measles
-Zone 5,55-64,0,2004,Measles
+Zone:5,55-64,0,2004,Measles
 Chai Nat,55-64,0,2004,Measles
 Lop Buri,55-64,0,2004,Measles
 Saraburi,55-64,0,2004,Measles
 Sing Buri,55-64,0,2004,Measles
-Zone 6,55-64,0,2004,Measles
+Zone:6,55-64,0,2004,Measles
 Kanchanaburi,55-64,0,2004,Measles
 Nakhon Pathom,55-64,0,2004,Measles
 Ratchaburi,55-64,0,2004,Measles
 Suphan Buri,55-64,0,2004,Measles
-Zone 7,55-64,0,2004,Measles
+Zone:7,55-64,0,2004,Measles
 Phetchaburi,55-64,0,2004,Measles
 Prachuap Khiri Khan,55-64,0,2004,Measles
 Samut Sakhon,55-64,0,2004,Measles
 Samut Songkhram,55-64,0,2004,Measles
-Zone 8,55-64,2,2004,Measles
+Zone:8,55-64,2,2004,Measles
 Chachoengsao,55-64,1,2004,Measles
 Nakhon Nayok,55-64,0,2004,Measles
 Prachin Buri,55-64,1,2004,Measles
 Sa Kaeo,55-64,0,2004,Measles
 Samut Prakan,55-64,0,2004,Measles
-Zone 9,55-64,2,2004,Measles
+Zone:9,55-64,2,2004,Measles
 Chanthaburi,55-64,0,2004,Measles
 Chon Buri,55-64,2,2004,Measles
 Rayong,55-64,0,2004,Measles
 Trat,55-64,0,2004,Measles
 North-Eastern Region,55-64,6,2004,Measles
-Zone 10,55-64,0,2004,Measles
+Zone:10,55-64,0,2004,Measles
 Loei,55-64,0,2004,Measles
 Nong Bua Lam Phu,55-64,0,2004,Measles
 Nong Khai,55-64,0,2004,Measles
 Udon Thani,55-64,0,2004,Measles
-Zone 11,55-64,2,2004,Measles
+Zone:11,55-64,2,2004,Measles
 Kalasin,55-64,1,2004,Measles
 Mukdahan,55-64,0,2004,Measles
 Nakhon Phanom,55-64,1,2004,Measles
 Sakon Nakhon,55-64,0,2004,Measles
-Zone 12,55-64,0,2004,Measles
+Zone:12,55-64,0,2004,Measles
 Khon Kaen,55-64,0,2004,Measles
 Maha Sarakham,55-64,0,2004,Measles
 Roi Et,55-64,0,2004,Measles
-Zone 13,55-64,2,2004,Measles
+Zone:13,55-64,2,2004,Measles
 Buri Ram,55-64,0,2004,Measles
 Chaiyaphum,55-64,0,2004,Measles
 Nakhon Ratchasima,55-64,1,2004,Measles
 Surin,55-64,1,2004,Measles
-Zone 14,55-64,2,2004,Measles
+Zone:14,55-64,2,2004,Measles
 Amnat Charoen,55-64,0,2004,Measles
 Si Sa Ket,55-64,1,2004,Measles
 Ubon Ratchathani,55-64,1,2004,Measles
 Yasothon,55-64,0,2004,Measles
 South Region,55-64,3,2004,Measles
-Zone 15,55-64,3,2004,Measles
+Zone:15,55-64,3,2004,Measles
 Chumphon,55-64,0,2004,Measles
 Ranong,55-64,0,2004,Measles
 Surat Thani,55-64,3,2004,Measles
-Zone 16,55-64,0,2004,Measles
+Zone:16,55-64,0,2004,Measles
 Nakhon Si Thammarat,55-64,0,2004,Measles
 Phatthalung,55-64,0,2004,Measles
 Trang,55-64,0,2004,Measles
-Zone 17,55-64,0,2004,Measles
+Zone:17,55-64,0,2004,Measles
 Krabi,55-64,0,2004,Measles
 Phangnga,55-64,0,2004,Measles
 Phuket,55-64,0,2004,Measles
-Zone 18,55-64,0,2004,Measles
+Zone:18,55-64,0,2004,Measles
 Narathiwat,55-64,0,2004,Measles
 Pattani,55-64,0,2004,Measles
 Yala,55-64,0,2004,Measles
-Zone 19,55-64,0,2004,Measles
+Zone:19,55-64,0,2004,Measles
 Satun,55-64,0,2004,Measles
 Songkhla,55-64,0,2004,Measles
 Total,65+,23,2004,Measles
 North Region,65+,5,2004,Measles
-Zone 1,65+,3,2004,Measles
+Zone:1,65+,3,2004,Measles
 Chiang Mai,65+,2,2004,Measles
 Chiang Rai,65+,0,2004,Measles
 Lampang,65+,0,2004,Measles
@@ -20474,98 +20474,98 @@ Mae Hong Son,65+,0,2004,Measles
 Nan,65+,0,2004,Measles
 Phayao,65+,1,2004,Measles
 Phrae,65+,0,2004,Measles
-Zone 2,65+,2,2004,Measles
+Zone:2,65+,2,2004,Measles
 Phetchabun,65+,0,2004,Measles
 Phitsanulok,65+,0,2004,Measles
 Sukhothai,65+,2,2004,Measles
 Tak,65+,0,2004,Measles
 Uttaradit,65+,0,2004,Measles
-Zone 3,65+,0,2004,Measles
+Zone:3,65+,0,2004,Measles
 Kamphaeng Phet,65+,0,2004,Measles
 Nakhon Sawan,65+,0,2004,Measles
 Phichit,65+,0,2004,Measles
 Uthai Thani,65+,0,2004,Measles
 Central Region,65+,8,2004,Measles
 Bangkok,65+,3,2004,Measles
-Zone 4,65+,0,2004,Measles
+Zone:4,65+,0,2004,Measles
 Ang Thong,65+,0,2004,Measles
 Nonthaburi,65+,0,2004,Measles
 P.Nakhon S.Ayutthaya,65+,0,2004,Measles
 Pathum Thani,65+,0,2004,Measles
-Zone 5,65+,2,2004,Measles
+Zone:5,65+,2,2004,Measles
 Chai Nat,65+,0,2004,Measles
 Lop Buri,65+,1,2004,Measles
 Saraburi,65+,1,2004,Measles
 Sing Buri,65+,0,2004,Measles
-Zone 6,65+,1,2004,Measles
+Zone:6,65+,1,2004,Measles
 Kanchanaburi,65+,0,2004,Measles
 Nakhon Pathom,65+,0,2004,Measles
 Ratchaburi,65+,1,2004,Measles
 Suphan Buri,65+,0,2004,Measles
-Zone 7,65+,0,2004,Measles
+Zone:7,65+,0,2004,Measles
 Phetchaburi,65+,0,2004,Measles
 Prachuap Khiri Khan,65+,0,2004,Measles
 Samut Sakhon,65+,0,2004,Measles
 Samut Songkhram,65+,0,2004,Measles
-Zone 8,65+,2,2004,Measles
+Zone:8,65+,2,2004,Measles
 Chachoengsao,65+,1,2004,Measles
 Nakhon Nayok,65+,0,2004,Measles
 Prachin Buri,65+,0,2004,Measles
 Sa Kaeo,65+,0,2004,Measles
 Samut Prakan,65+,1,2004,Measles
-Zone 9,65+,0,2004,Measles
+Zone:9,65+,0,2004,Measles
 Chanthaburi,65+,0,2004,Measles
 Chon Buri,65+,0,2004,Measles
 Rayong,65+,0,2004,Measles
 Trat,65+,0,2004,Measles
 North-Eastern Region,65+,3,2004,Measles
-Zone 10,65+,0,2004,Measles
+Zone:10,65+,0,2004,Measles
 Loei,65+,0,2004,Measles
 Nong Bua Lam Phu,65+,0,2004,Measles
 Nong Khai,65+,0,2004,Measles
 Udon Thani,65+,0,2004,Measles
-Zone 11,65+,1,2004,Measles
+Zone:11,65+,1,2004,Measles
 Kalasin,65+,0,2004,Measles
 Mukdahan,65+,0,2004,Measles
 Nakhon Phanom,65+,0,2004,Measles
 Sakon Nakhon,65+,1,2004,Measles
-Zone 12,65+,0,2004,Measles
+Zone:12,65+,0,2004,Measles
 Khon Kaen,65+,0,2004,Measles
 Maha Sarakham,65+,0,2004,Measles
 Roi Et,65+,0,2004,Measles
-Zone 13,65+,1,2004,Measles
+Zone:13,65+,1,2004,Measles
 Buri Ram,65+,0,2004,Measles
 Chaiyaphum,65+,0,2004,Measles
 Nakhon Ratchasima,65+,1,2004,Measles
 Surin,65+,0,2004,Measles
-Zone 14,65+,1,2004,Measles
+Zone:14,65+,1,2004,Measles
 Amnat Charoen,65+,0,2004,Measles
 Si Sa Ket,65+,1,2004,Measles
 Ubon Ratchathani,65+,0,2004,Measles
 Yasothon,65+,0,2004,Measles
 South Region,65+,7,2004,Measles
-Zone 15,65+,6,2004,Measles
+Zone:15,65+,6,2004,Measles
 Chumphon,65+,0,2004,Measles
 Ranong,65+,0,2004,Measles
 Surat Thani,65+,6,2004,Measles
-Zone 16,65+,0,2004,Measles
+Zone:16,65+,0,2004,Measles
 Nakhon Si Thammarat,65+,0,2004,Measles
 Phatthalung,65+,0,2004,Measles
 Trang,65+,0,2004,Measles
-Zone 17,65+,0,2004,Measles
+Zone:17,65+,0,2004,Measles
 Krabi,65+,0,2004,Measles
 Phangnga,65+,0,2004,Measles
 Phuket,65+,0,2004,Measles
-Zone 18,65+,0,2004,Measles
+Zone:18,65+,0,2004,Measles
 Narathiwat,65+,0,2004,Measles
 Pattani,65+,0,2004,Measles
 Yala,65+,0,2004,Measles
-Zone 19,65+,1,2004,Measles
+Zone:19,65+,1,2004,Measles
 Satun,65+,0,2004,Measles
 Songkhla,65+,1,2004,Measles
 Total,Unknown,3,2004,Measles
 North Region,Unknown,0,2004,Measles
-Zone 1,Unknown,0,2004,Measles
+Zone:1,Unknown,0,2004,Measles
 Chiang Mai,Unknown,0,2004,Measles
 Chiang Rai,Unknown,0,2004,Measles
 Lampang,Unknown,0,2004,Measles
@@ -20574,93 +20574,93 @@ Mae Hong Son,Unknown,0,2004,Measles
 Nan,Unknown,0,2004,Measles
 Phayao,Unknown,0,2004,Measles
 Phrae,Unknown,0,2004,Measles
-Zone 2,Unknown,0,2004,Measles
+Zone:2,Unknown,0,2004,Measles
 Phetchabun,Unknown,0,2004,Measles
 Phitsanulok,Unknown,0,2004,Measles
 Sukhothai,Unknown,0,2004,Measles
 Tak,Unknown,0,2004,Measles
 Uttaradit,Unknown,0,2004,Measles
-Zone 3,Unknown,0,2004,Measles
+Zone:3,Unknown,0,2004,Measles
 Kamphaeng Phet,Unknown,0,2004,Measles
 Nakhon Sawan,Unknown,0,2004,Measles
 Phichit,Unknown,0,2004,Measles
 Uthai Thani,Unknown,0,2004,Measles
 Central Region,Unknown,2,2004,Measles
 Bangkok,Unknown,0,2004,Measles
-Zone 4,Unknown,0,2004,Measles
+Zone:4,Unknown,0,2004,Measles
 Ang Thong,Unknown,0,2004,Measles
 Nonthaburi,Unknown,0,2004,Measles
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Measles
 Pathum Thani,Unknown,0,2004,Measles
-Zone 5,Unknown,0,2004,Measles
+Zone:5,Unknown,0,2004,Measles
 Chai Nat,Unknown,0,2004,Measles
 Lop Buri,Unknown,0,2004,Measles
 Saraburi,Unknown,0,2004,Measles
 Sing Buri,Unknown,0,2004,Measles
-Zone 6,Unknown,2,2004,Measles
+Zone:6,Unknown,2,2004,Measles
 Kanchanaburi,Unknown,0,2004,Measles
 Nakhon Pathom,Unknown,0,2004,Measles
 Ratchaburi,Unknown,0,2004,Measles
 Suphan Buri,Unknown,2,2004,Measles
-Zone 7,Unknown,0,2004,Measles
+Zone:7,Unknown,0,2004,Measles
 Phetchaburi,Unknown,0,2004,Measles
 Prachuap Khiri Khan,Unknown,0,2004,Measles
 Samut Sakhon,Unknown,0,2004,Measles
 Samut Songkhram,Unknown,0,2004,Measles
-Zone 8,Unknown,0,2004,Measles
+Zone:8,Unknown,0,2004,Measles
 Chachoengsao,Unknown,0,2004,Measles
 Nakhon Nayok,Unknown,0,2004,Measles
 Prachin Buri,Unknown,0,2004,Measles
 Sa Kaeo,Unknown,0,2004,Measles
 Samut Prakan,Unknown,0,2004,Measles
-Zone 9,Unknown,0,2004,Measles
+Zone:9,Unknown,0,2004,Measles
 Chanthaburi,Unknown,0,2004,Measles
 Chon Buri,Unknown,0,2004,Measles
 Rayong,Unknown,0,2004,Measles
 Trat,Unknown,0,2004,Measles
 North-Eastern Region,Unknown,1,2004,Measles
-Zone 10,Unknown,0,2004,Measles
+Zone:10,Unknown,0,2004,Measles
 Loei,Unknown,0,2004,Measles
 Nong Bua Lam Phu,Unknown,0,2004,Measles
 Nong Khai,Unknown,0,2004,Measles
 Udon Thani,Unknown,0,2004,Measles
-Zone 11,Unknown,0,2004,Measles
+Zone:11,Unknown,0,2004,Measles
 Kalasin,Unknown,0,2004,Measles
 Mukdahan,Unknown,0,2004,Measles
 Nakhon Phanom,Unknown,0,2004,Measles
 Sakon Nakhon,Unknown,0,2004,Measles
-Zone 12,Unknown,0,2004,Measles
+Zone:12,Unknown,0,2004,Measles
 Khon Kaen,Unknown,0,2004,Measles
 Maha Sarakham,Unknown,0,2004,Measles
 Roi Et,Unknown,0,2004,Measles
-Zone 13,Unknown,1,2004,Measles
+Zone:13,Unknown,1,2004,Measles
 Buri Ram,Unknown,0,2004,Measles
 Chaiyaphum,Unknown,0,2004,Measles
 Nakhon Ratchasima,Unknown,0,2004,Measles
 Surin,Unknown,1,2004,Measles
-Zone 14,Unknown,0,2004,Measles
+Zone:14,Unknown,0,2004,Measles
 Amnat Charoen,Unknown,0,2004,Measles
 Si Sa Ket,Unknown,0,2004,Measles
 Ubon Ratchathani,Unknown,0,2004,Measles
 Yasothon,Unknown,0,2004,Measles
 South Region,Unknown,0,2004,Measles
-Zone 15,Unknown,0,2004,Measles
+Zone:15,Unknown,0,2004,Measles
 Chumphon,Unknown,0,2004,Measles
 Ranong,Unknown,0,2004,Measles
 Surat Thani,Unknown,0,2004,Measles
-Zone 16,Unknown,0,2004,Measles
+Zone:16,Unknown,0,2004,Measles
 Nakhon Si Thammarat,Unknown,0,2004,Measles
 Phatthalung,Unknown,0,2004,Measles
 Trang,Unknown,0,2004,Measles
-Zone 17,Unknown,0,2004,Measles
+Zone:17,Unknown,0,2004,Measles
 Krabi,Unknown,0,2004,Measles
 Phangnga,Unknown,0,2004,Measles
 Phuket,Unknown,0,2004,Measles
-Zone 18,Unknown,0,2004,Measles
+Zone:18,Unknown,0,2004,Measles
 Narathiwat,Unknown,0,2004,Measles
 Pattani,Unknown,0,2004,Measles
 Yala,Unknown,0,2004,Measles
-Zone 19,Unknown,0,2004,Measles
+Zone:19,Unknown,0,2004,Measles
 Satun,Unknown,0,2004,Measles
 Songkhla,Unknown,0,2004,Measles
 Total,Total,2981,2017,Measles
@@ -25903,7 +25903,7 @@ Satun,Unknown,0,2006,Measles
 Songkhla,Unknown,0,2006,Measles
 Total,Total,4269,2003,Measles
 North Region,Total,1132,2003,Measles
-Zone 1,Total,623,2003,Measles
+Zone:1,Total,623,2003,Measles
 Chiang Mai,Total,122,2003,Measles
 Chiang Rai,Total,92,2003,Measles
 Lampang,Total,233,2003,Measles
@@ -25912,98 +25912,98 @@ Mae Hong Son,Total,10,2003,Measles
 Nan,Total,44,2003,Measles
 Phayao,Total,43,2003,Measles
 Phrae,Total,20,2003,Measles
-Zone 2,Total,210,2003,Measles
+Zone:2,Total,210,2003,Measles
 Phetchabun,Total,68,2003,Measles
 Phitsanulok,Total,35,2003,Measles
 Sukhothai,Total,40,2003,Measles
 Tak,Total,39,2003,Measles
 Uttaradit,Total,28,2003,Measles
-Zone 3,Total,299,2003,Measles
+Zone:3,Total,299,2003,Measles
 Kamphaeng Phet,Total,47,2003,Measles
 Nakhon Sawan,Total,147,2003,Measles
 Phichit,Total,27,2003,Measles
 Uthai Thani,Total,78,2003,Measles
 Central Region,Total,1227,2003,Measles
 Bangkok,Total,50,2003,Measles
-Zone 4,Total,322,2003,Measles
+Zone:4,Total,322,2003,Measles
 Ang Thong,Total,12,2003,Measles
 Nonthaburi,Total,65,2003,Measles
 P.Nakhon S.Ayutthaya,Total,82,2003,Measles
 Pathum Thani,Total,163,2003,Measles
-Zone 5,Total,167,2003,Measles
+Zone:5,Total,167,2003,Measles
 Chai Nat,Total,12,2003,Measles
 Lop Buri,Total,48,2003,Measles
 Saraburi,Total,94,2003,Measles
 Sing Buri,Total,13,2003,Measles
-Zone 6,Total,195,2003,Measles
+Zone:6,Total,195,2003,Measles
 Kanchanaburi,Total,49,2003,Measles
 Nakhon Pathom,Total,49,2003,Measles
 Ratchaburi,Total,47,2003,Measles
 Suphan Buri,Total,50,2003,Measles
-Zone 7,Total,46,2003,Measles
+Zone:7,Total,46,2003,Measles
 Phetchaburi,Total,6,2003,Measles
 Prachuap Khiri Khan,Total,8,2003,Measles
 Samut Sakhon,Total,22,2003,Measles
 Samut Songkhram,Total,10,2003,Measles
-Zone 8,Total,270,2003,Measles
+Zone:8,Total,270,2003,Measles
 Chachoengsao,Total,99,2003,Measles
 Nakhon Nayok,Total,8,2003,Measles
 Prachin Buri,Total,65,2003,Measles
 Sa Kaeo,Total,21,2003,Measles
 Samut Prakan,Total,77,2003,Measles
-Zone 9,Total,177,2003,Measles
+Zone:9,Total,177,2003,Measles
 Chanthaburi,Total,23,2003,Measles
 Chon Buri,Total,67,2003,Measles
 Rayong,Total,69,2003,Measles
 Trat,Total,18,2003,Measles
 North-Eastern Region,Total,1513,2003,Measles
-Zone 10,Total,113,2003,Measles
+Zone:10,Total,113,2003,Measles
 Loei,Total,14,2003,Measles
 Nong Bua Lam Phu,Total,25,2003,Measles
 Nong Khai,Total,15,2003,Measles
 Udon Thani,Total,59,2003,Measles
-Zone 11,Total,166,2003,Measles
+Zone:11,Total,166,2003,Measles
 Kalasin,Total,111,2003,Measles
 Mukdahan,Total,10,2003,Measles
 Nakhon Phanom,Total,10,2003,Measles
 Sakon Nakhon,Total,35,2003,Measles
-Zone 12,Total,84,2003,Measles
+Zone:12,Total,84,2003,Measles
 Khon Kaen,Total,38,2003,Measles
 Maha Sarakham,Total,15,2003,Measles
 Roi Et,Total,31,2003,Measles
-Zone 13,Total,799,2003,Measles
+Zone:13,Total,799,2003,Measles
 Buri Ram,Total,229,2003,Measles
 Chaiyaphum,Total,38,2003,Measles
 Nakhon Ratchasima,Total,417,2003,Measles
 Surin,Total,115,2003,Measles
-Zone 14,Total,351,2003,Measles
+Zone:14,Total,351,2003,Measles
 Amnat Charoen,Total,32,2003,Measles
 Si Sa Ket,Total,219,2003,Measles
 Ubon Ratchathani,Total,73,2003,Measles
 Yasothon,Total,27,2003,Measles
 South Region,Total,397,2003,Measles
-Zone 15,Total,74,2003,Measles
+Zone:15,Total,74,2003,Measles
 Chumphon,Total,25,2003,Measles
 Ranong,Total,2,2003,Measles
 Surat Thani,Total,47,2003,Measles
-Zone 16,Total,89,2003,Measles
+Zone:16,Total,89,2003,Measles
 Nakhon Si Thammarat,Total,62,2003,Measles
 Phatthalung,Total,20,2003,Measles
 Trang,Total,7,2003,Measles
-Zone 17,Total,14,2003,Measles
+Zone:17,Total,14,2003,Measles
 Krabi,Total,6,2003,Measles
 Phangnga,Total,0,2003,Measles
 Phuket,Total,8,2003,Measles
-Zone 18,Total,165,2003,Measles
+Zone:18,Total,165,2003,Measles
 Narathiwat,Total,81,2003,Measles
 Pattani,Total,45,2003,Measles
 Yala,Total,39,2003,Measles
-Zone 19,Total,55,2003,Measles
+Zone:19,Total,55,2003,Measles
 Satun,Total,8,2003,Measles
 Songkhla,Total,47,2003,Measles
 Total,0,11,2003,Measles
 North Region,0,5,2003,Measles
-Zone 1,0,2,2003,Measles
+Zone:1,0,2,2003,Measles
 Chiang Mai,0,0,2003,Measles
 Chiang Rai,0,1,2003,Measles
 Lampang,0,1,2003,Measles
@@ -26012,98 +26012,98 @@ Mae Hong Son,0,0,2003,Measles
 Nan,0,0,2003,Measles
 Phayao,0,0,2003,Measles
 Phrae,0,0,2003,Measles
-Zone 2,0,0,2003,Measles
+Zone:2,0,0,2003,Measles
 Phetchabun,0,0,2003,Measles
 Phitsanulok,0,0,2003,Measles
 Sukhothai,0,0,2003,Measles
 Tak,0,0,2003,Measles
 Uttaradit,0,0,2003,Measles
-Zone 3,0,3,2003,Measles
+Zone:3,0,3,2003,Measles
 Kamphaeng Phet,0,3,2003,Measles
 Nakhon Sawan,0,0,2003,Measles
 Phichit,0,0,2003,Measles
 Uthai Thani,0,0,2003,Measles
 Central Region,0,2,2003,Measles
 Bangkok,0,0,2003,Measles
-Zone 4,0,0,2003,Measles
+Zone:4,0,0,2003,Measles
 Ang Thong,0,0,2003,Measles
 Nonthaburi,0,0,2003,Measles
 P.Nakhon S.Ayutthaya,0,0,2003,Measles
 Pathum Thani,0,0,2003,Measles
-Zone 5,0,0,2003,Measles
+Zone:5,0,0,2003,Measles
 Chai Nat,0,0,2003,Measles
 Lop Buri,0,0,2003,Measles
 Saraburi,0,0,2003,Measles
 Sing Buri,0,0,2003,Measles
-Zone 6,0,0,2003,Measles
+Zone:6,0,0,2003,Measles
 Kanchanaburi,0,0,2003,Measles
 Nakhon Pathom,0,0,2003,Measles
 Ratchaburi,0,0,2003,Measles
 Suphan Buri,0,0,2003,Measles
-Zone 7,0,0,2003,Measles
+Zone:7,0,0,2003,Measles
 Phetchaburi,0,0,2003,Measles
 Prachuap Khiri Khan,0,0,2003,Measles
 Samut Sakhon,0,0,2003,Measles
 Samut Songkhram,0,0,2003,Measles
-Zone 8,0,2,2003,Measles
+Zone:8,0,2,2003,Measles
 Chachoengsao,0,2,2003,Measles
 Nakhon Nayok,0,0,2003,Measles
 Prachin Buri,0,0,2003,Measles
 Sa Kaeo,0,0,2003,Measles
 Samut Prakan,0,0,2003,Measles
-Zone 9,0,0,2003,Measles
+Zone:9,0,0,2003,Measles
 Chanthaburi,0,0,2003,Measles
 Chon Buri,0,0,2003,Measles
 Rayong,0,0,2003,Measles
 Trat,0,0,2003,Measles
 North-Eastern Region,0,4,2003,Measles
-Zone 10,0,0,2003,Measles
+Zone:10,0,0,2003,Measles
 Loei,0,0,2003,Measles
 Nong Bua Lam Phu,0,0,2003,Measles
 Nong Khai,0,0,2003,Measles
 Udon Thani,0,0,2003,Measles
-Zone 11,0,0,2003,Measles
+Zone:11,0,0,2003,Measles
 Kalasin,0,0,2003,Measles
 Mukdahan,0,0,2003,Measles
 Nakhon Phanom,0,0,2003,Measles
 Sakon Nakhon,0,0,2003,Measles
-Zone 12,0,0,2003,Measles
+Zone:12,0,0,2003,Measles
 Khon Kaen,0,0,2003,Measles
 Maha Sarakham,0,0,2003,Measles
 Roi Et,0,0,2003,Measles
-Zone 13,0,3,2003,Measles
+Zone:13,0,3,2003,Measles
 Buri Ram,0,0,2003,Measles
 Chaiyaphum,0,0,2003,Measles
 Nakhon Ratchasima,0,0,2003,Measles
 Surin,0,3,2003,Measles
-Zone 14,0,1,2003,Measles
+Zone:14,0,1,2003,Measles
 Amnat Charoen,0,0,2003,Measles
 Si Sa Ket,0,0,2003,Measles
 Ubon Ratchathani,0,1,2003,Measles
 Yasothon,0,0,2003,Measles
 South Region,0,0,2003,Measles
-Zone 15,0,0,2003,Measles
+Zone:15,0,0,2003,Measles
 Chumphon,0,0,2003,Measles
 Ranong,0,0,2003,Measles
 Surat Thani,0,0,2003,Measles
-Zone 16,0,0,2003,Measles
+Zone:16,0,0,2003,Measles
 Nakhon Si Thammarat,0,0,2003,Measles
 Phatthalung,0,0,2003,Measles
 Trang,0,0,2003,Measles
-Zone 17,0,0,2003,Measles
+Zone:17,0,0,2003,Measles
 Krabi,0,0,2003,Measles
 Phangnga,0,0,2003,Measles
 Phuket,0,0,2003,Measles
-Zone 18,0,0,2003,Measles
+Zone:18,0,0,2003,Measles
 Narathiwat,0,0,2003,Measles
 Pattani,0,0,2003,Measles
 Yala,0,0,2003,Measles
-Zone 19,0,0,2003,Measles
+Zone:19,0,0,2003,Measles
 Satun,0,0,2003,Measles
 Songkhla,0,0,2003,Measles
 Total,<1,627,2003,Measles
 North Region,<1,178,2003,Measles
-Zone 1,<1,71,2003,Measles
+Zone:1,<1,71,2003,Measles
 Chiang Mai,<1,17,2003,Measles
 Chiang Rai,<1,14,2003,Measles
 Lampang,<1,7,2003,Measles
@@ -26112,98 +26112,98 @@ Mae Hong Son,<1,4,2003,Measles
 Nan,<1,10,2003,Measles
 Phayao,<1,5,2003,Measles
 Phrae,<1,6,2003,Measles
-Zone 2,<1,47,2003,Measles
+Zone:2,<1,47,2003,Measles
 Phetchabun,<1,12,2003,Measles
 Phitsanulok,<1,10,2003,Measles
 Sukhothai,<1,11,2003,Measles
 Tak,<1,10,2003,Measles
 Uttaradit,<1,4,2003,Measles
-Zone 3,<1,60,2003,Measles
+Zone:3,<1,60,2003,Measles
 Kamphaeng Phet,<1,15,2003,Measles
 Nakhon Sawan,<1,35,2003,Measles
 Phichit,<1,4,2003,Measles
 Uthai Thani,<1,6,2003,Measles
 Central Region,<1,211,2003,Measles
 Bangkok,<1,12,2003,Measles
-Zone 4,<1,48,2003,Measles
+Zone:4,<1,48,2003,Measles
 Ang Thong,<1,5,2003,Measles
 Nonthaburi,<1,12,2003,Measles
 P.Nakhon S.Ayutthaya,<1,12,2003,Measles
 Pathum Thani,<1,19,2003,Measles
-Zone 5,<1,33,2003,Measles
+Zone:5,<1,33,2003,Measles
 Chai Nat,<1,4,2003,Measles
 Lop Buri,<1,9,2003,Measles
 Saraburi,<1,20,2003,Measles
 Sing Buri,<1,0,2003,Measles
-Zone 6,<1,34,2003,Measles
+Zone:6,<1,34,2003,Measles
 Kanchanaburi,<1,12,2003,Measles
 Nakhon Pathom,<1,12,2003,Measles
 Ratchaburi,<1,6,2003,Measles
 Suphan Buri,<1,4,2003,Measles
-Zone 7,<1,5,2003,Measles
+Zone:7,<1,5,2003,Measles
 Phetchaburi,<1,0,2003,Measles
 Prachuap Khiri Khan,<1,2,2003,Measles
 Samut Sakhon,<1,3,2003,Measles
 Samut Songkhram,<1,0,2003,Measles
-Zone 8,<1,34,2003,Measles
+Zone:8,<1,34,2003,Measles
 Chachoengsao,<1,11,2003,Measles
 Nakhon Nayok,<1,2,2003,Measles
 Prachin Buri,<1,10,2003,Measles
 Sa Kaeo,<1,4,2003,Measles
 Samut Prakan,<1,7,2003,Measles
-Zone 9,<1,45,2003,Measles
+Zone:9,<1,45,2003,Measles
 Chanthaburi,<1,4,2003,Measles
 Chon Buri,<1,23,2003,Measles
 Rayong,<1,15,2003,Measles
 Trat,<1,3,2003,Measles
 North-Eastern Region,<1,166,2003,Measles
-Zone 10,<1,13,2003,Measles
+Zone:10,<1,13,2003,Measles
 Loei,<1,2,2003,Measles
 Nong Bua Lam Phu,<1,2,2003,Measles
 Nong Khai,<1,2,2003,Measles
 Udon Thani,<1,7,2003,Measles
-Zone 11,<1,9,2003,Measles
+Zone:11,<1,9,2003,Measles
 Kalasin,<1,4,2003,Measles
 Mukdahan,<1,2,2003,Measles
 Nakhon Phanom,<1,1,2003,Measles
 Sakon Nakhon,<1,2,2003,Measles
-Zone 12,<1,18,2003,Measles
+Zone:12,<1,18,2003,Measles
 Khon Kaen,<1,12,2003,Measles
 Maha Sarakham,<1,4,2003,Measles
 Roi Et,<1,2,2003,Measles
-Zone 13,<1,92,2003,Measles
+Zone:13,<1,92,2003,Measles
 Buri Ram,<1,16,2003,Measles
 Chaiyaphum,<1,6,2003,Measles
 Nakhon Ratchasima,<1,50,2003,Measles
 Surin,<1,20,2003,Measles
-Zone 14,<1,34,2003,Measles
+Zone:14,<1,34,2003,Measles
 Amnat Charoen,<1,4,2003,Measles
 Si Sa Ket,<1,10,2003,Measles
 Ubon Ratchathani,<1,15,2003,Measles
 Yasothon,<1,5,2003,Measles
 South Region,<1,72,2003,Measles
-Zone 15,<1,12,2003,Measles
+Zone:15,<1,12,2003,Measles
 Chumphon,<1,2,2003,Measles
 Ranong,<1,0,2003,Measles
 Surat Thani,<1,10,2003,Measles
-Zone 16,<1,20,2003,Measles
+Zone:16,<1,20,2003,Measles
 Nakhon Si Thammarat,<1,15,2003,Measles
 Phatthalung,<1,5,2003,Measles
 Trang,<1,0,2003,Measles
-Zone 17,<1,3,2003,Measles
+Zone:17,<1,3,2003,Measles
 Krabi,<1,1,2003,Measles
 Phangnga,<1,0,2003,Measles
 Phuket,<1,2,2003,Measles
-Zone 18,<1,28,2003,Measles
+Zone:18,<1,28,2003,Measles
 Narathiwat,<1,12,2003,Measles
 Pattani,<1,8,2003,Measles
 Yala,<1,8,2003,Measles
-Zone 19,<1,9,2003,Measles
+Zone:19,<1,9,2003,Measles
 Satun,<1,1,2003,Measles
 Songkhla,<1,8,2003,Measles
 Total,1-1,385,2003,Measles
 North Region,1-1,79,2003,Measles
-Zone 1,1-1,38,2003,Measles
+Zone:1,1-1,38,2003,Measles
 Chiang Mai,1-1,9,2003,Measles
 Chiang Rai,1-1,8,2003,Measles
 Lampang,1-1,9,2003,Measles
@@ -26212,98 +26212,98 @@ Mae Hong Son,1-1,0,2003,Measles
 Nan,1-1,3,2003,Measles
 Phayao,1-1,2,2003,Measles
 Phrae,1-1,2,2003,Measles
-Zone 2,1-1,14,2003,Measles
+Zone:2,1-1,14,2003,Measles
 Phetchabun,1-1,4,2003,Measles
 Phitsanulok,1-1,4,2003,Measles
 Sukhothai,1-1,2,2003,Measles
 Tak,1-1,3,2003,Measles
 Uttaradit,1-1,1,2003,Measles
-Zone 3,1-1,27,2003,Measles
+Zone:3,1-1,27,2003,Measles
 Kamphaeng Phet,1-1,9,2003,Measles
 Nakhon Sawan,1-1,16,2003,Measles
 Phichit,1-1,1,2003,Measles
 Uthai Thani,1-1,1,2003,Measles
 Central Region,1-1,113,2003,Measles
 Bangkok,1-1,2,2003,Measles
-Zone 4,1-1,22,2003,Measles
+Zone:4,1-1,22,2003,Measles
 Ang Thong,1-1,1,2003,Measles
 Nonthaburi,1-1,3,2003,Measles
 P.Nakhon S.Ayutthaya,1-1,6,2003,Measles
 Pathum Thani,1-1,12,2003,Measles
-Zone 5,1-1,6,2003,Measles
+Zone:5,1-1,6,2003,Measles
 Chai Nat,1-1,0,2003,Measles
 Lop Buri,1-1,1,2003,Measles
 Saraburi,1-1,3,2003,Measles
 Sing Buri,1-1,2,2003,Measles
-Zone 6,1-1,30,2003,Measles
+Zone:6,1-1,30,2003,Measles
 Kanchanaburi,1-1,5,2003,Measles
 Nakhon Pathom,1-1,9,2003,Measles
 Ratchaburi,1-1,3,2003,Measles
 Suphan Buri,1-1,13,2003,Measles
-Zone 7,1-1,3,2003,Measles
+Zone:7,1-1,3,2003,Measles
 Phetchaburi,1-1,1,2003,Measles
 Prachuap Khiri Khan,1-1,1,2003,Measles
 Samut Sakhon,1-1,1,2003,Measles
 Samut Songkhram,1-1,0,2003,Measles
-Zone 8,1-1,29,2003,Measles
+Zone:8,1-1,29,2003,Measles
 Chachoengsao,1-1,15,2003,Measles
 Nakhon Nayok,1-1,0,2003,Measles
 Prachin Buri,1-1,5,2003,Measles
 Sa Kaeo,1-1,2,2003,Measles
 Samut Prakan,1-1,7,2003,Measles
-Zone 9,1-1,21,2003,Measles
+Zone:9,1-1,21,2003,Measles
 Chanthaburi,1-1,2,2003,Measles
 Chon Buri,1-1,8,2003,Measles
 Rayong,1-1,8,2003,Measles
 Trat,1-1,3,2003,Measles
 North-Eastern Region,1-1,137,2003,Measles
-Zone 10,1-1,11,2003,Measles
+Zone:10,1-1,11,2003,Measles
 Loei,1-1,1,2003,Measles
 Nong Bua Lam Phu,1-1,4,2003,Measles
 Nong Khai,1-1,0,2003,Measles
 Udon Thani,1-1,6,2003,Measles
-Zone 11,1-1,13,2003,Measles
+Zone:11,1-1,13,2003,Measles
 Kalasin,1-1,9,2003,Measles
 Mukdahan,1-1,4,2003,Measles
 Nakhon Phanom,1-1,0,2003,Measles
 Sakon Nakhon,1-1,0,2003,Measles
-Zone 12,1-1,12,2003,Measles
+Zone:12,1-1,12,2003,Measles
 Khon Kaen,1-1,3,2003,Measles
 Maha Sarakham,1-1,5,2003,Measles
 Roi Et,1-1,4,2003,Measles
-Zone 13,1-1,68,2003,Measles
+Zone:13,1-1,68,2003,Measles
 Buri Ram,1-1,21,2003,Measles
 Chaiyaphum,1-1,4,2003,Measles
 Nakhon Ratchasima,1-1,35,2003,Measles
 Surin,1-1,8,2003,Measles
-Zone 14,1-1,33,2003,Measles
+Zone:14,1-1,33,2003,Measles
 Amnat Charoen,1-1,5,2003,Measles
 Si Sa Ket,1-1,10,2003,Measles
 Ubon Ratchathani,1-1,15,2003,Measles
 Yasothon,1-1,3,2003,Measles
 South Region,1-1,56,2003,Measles
-Zone 15,1-1,6,2003,Measles
+Zone:15,1-1,6,2003,Measles
 Chumphon,1-1,2,2003,Measles
 Ranong,1-1,0,2003,Measles
 Surat Thani,1-1,4,2003,Measles
-Zone 16,1-1,12,2003,Measles
+Zone:16,1-1,12,2003,Measles
 Nakhon Si Thammarat,1-1,4,2003,Measles
 Phatthalung,1-1,6,2003,Measles
 Trang,1-1,2,2003,Measles
-Zone 17,1-1,2,2003,Measles
+Zone:17,1-1,2,2003,Measles
 Krabi,1-1,0,2003,Measles
 Phangnga,1-1,0,2003,Measles
 Phuket,1-1,2,2003,Measles
-Zone 18,1-1,28,2003,Measles
+Zone:18,1-1,28,2003,Measles
 Narathiwat,1-1,12,2003,Measles
 Pattani,1-1,8,2003,Measles
 Yala,1-1,8,2003,Measles
-Zone 19,1-1,8,2003,Measles
+Zone:19,1-1,8,2003,Measles
 Satun,1-1,1,2003,Measles
 Songkhla,1-1,7,2003,Measles
 Total,2-2,191,2003,Measles
 North Region,2-2,48,2003,Measles
-Zone 1,2-2,18,2003,Measles
+Zone:1,2-2,18,2003,Measles
 Chiang Mai,2-2,4,2003,Measles
 Chiang Rai,2-2,6,2003,Measles
 Lampang,2-2,2,2003,Measles
@@ -26312,98 +26312,98 @@ Mae Hong Son,2-2,0,2003,Measles
 Nan,2-2,0,2003,Measles
 Phayao,2-2,1,2003,Measles
 Phrae,2-2,2,2003,Measles
-Zone 2,2-2,17,2003,Measles
+Zone:2,2-2,17,2003,Measles
 Phetchabun,2-2,9,2003,Measles
 Phitsanulok,2-2,0,2003,Measles
 Sukhothai,2-2,4,2003,Measles
 Tak,2-2,3,2003,Measles
 Uttaradit,2-2,1,2003,Measles
-Zone 3,2-2,13,2003,Measles
+Zone:3,2-2,13,2003,Measles
 Kamphaeng Phet,2-2,1,2003,Measles
 Nakhon Sawan,2-2,10,2003,Measles
 Phichit,2-2,1,2003,Measles
 Uthai Thani,2-2,1,2003,Measles
 Central Region,2-2,53,2003,Measles
 Bangkok,2-2,0,2003,Measles
-Zone 4,2-2,16,2003,Measles
+Zone:4,2-2,16,2003,Measles
 Ang Thong,2-2,0,2003,Measles
 Nonthaburi,2-2,3,2003,Measles
 P.Nakhon S.Ayutthaya,2-2,7,2003,Measles
 Pathum Thani,2-2,6,2003,Measles
-Zone 5,2-2,5,2003,Measles
+Zone:5,2-2,5,2003,Measles
 Chai Nat,2-2,1,2003,Measles
 Lop Buri,2-2,1,2003,Measles
 Saraburi,2-2,3,2003,Measles
 Sing Buri,2-2,0,2003,Measles
-Zone 6,2-2,8,2003,Measles
+Zone:6,2-2,8,2003,Measles
 Kanchanaburi,2-2,2,2003,Measles
 Nakhon Pathom,2-2,1,2003,Measles
 Ratchaburi,2-2,3,2003,Measles
 Suphan Buri,2-2,2,2003,Measles
-Zone 7,2-2,1,2003,Measles
+Zone:7,2-2,1,2003,Measles
 Phetchaburi,2-2,0,2003,Measles
 Prachuap Khiri Khan,2-2,0,2003,Measles
 Samut Sakhon,2-2,1,2003,Measles
 Samut Songkhram,2-2,0,2003,Measles
-Zone 8,2-2,10,2003,Measles
+Zone:8,2-2,10,2003,Measles
 Chachoengsao,2-2,4,2003,Measles
 Nakhon Nayok,2-2,1,2003,Measles
 Prachin Buri,2-2,0,2003,Measles
 Sa Kaeo,2-2,1,2003,Measles
 Samut Prakan,2-2,4,2003,Measles
-Zone 9,2-2,13,2003,Measles
+Zone:9,2-2,13,2003,Measles
 Chanthaburi,2-2,3,2003,Measles
 Chon Buri,2-2,5,2003,Measles
 Rayong,2-2,5,2003,Measles
 Trat,2-2,0,2003,Measles
 North-Eastern Region,2-2,67,2003,Measles
-Zone 10,2-2,5,2003,Measles
+Zone:10,2-2,5,2003,Measles
 Loei,2-2,0,2003,Measles
 Nong Bua Lam Phu,2-2,0,2003,Measles
 Nong Khai,2-2,1,2003,Measles
 Udon Thani,2-2,4,2003,Measles
-Zone 11,2-2,5,2003,Measles
+Zone:11,2-2,5,2003,Measles
 Kalasin,2-2,4,2003,Measles
 Mukdahan,2-2,1,2003,Measles
 Nakhon Phanom,2-2,0,2003,Measles
 Sakon Nakhon,2-2,0,2003,Measles
-Zone 12,2-2,4,2003,Measles
+Zone:12,2-2,4,2003,Measles
 Khon Kaen,2-2,2,2003,Measles
 Maha Sarakham,2-2,1,2003,Measles
 Roi Et,2-2,1,2003,Measles
-Zone 13,2-2,42,2003,Measles
+Zone:13,2-2,42,2003,Measles
 Buri Ram,2-2,13,2003,Measles
 Chaiyaphum,2-2,3,2003,Measles
 Nakhon Ratchasima,2-2,16,2003,Measles
 Surin,2-2,10,2003,Measles
-Zone 14,2-2,11,2003,Measles
+Zone:14,2-2,11,2003,Measles
 Amnat Charoen,2-2,2,2003,Measles
 Si Sa Ket,2-2,4,2003,Measles
 Ubon Ratchathani,2-2,3,2003,Measles
 Yasothon,2-2,2,2003,Measles
 South Region,2-2,23,2003,Measles
-Zone 15,2-2,5,2003,Measles
+Zone:15,2-2,5,2003,Measles
 Chumphon,2-2,3,2003,Measles
 Ranong,2-2,0,2003,Measles
 Surat Thani,2-2,2,2003,Measles
-Zone 16,2-2,3,2003,Measles
+Zone:16,2-2,3,2003,Measles
 Nakhon Si Thammarat,2-2,1,2003,Measles
 Phatthalung,2-2,2,2003,Measles
 Trang,2-2,0,2003,Measles
-Zone 17,2-2,1,2003,Measles
+Zone:17,2-2,1,2003,Measles
 Krabi,2-2,0,2003,Measles
 Phangnga,2-2,0,2003,Measles
 Phuket,2-2,1,2003,Measles
-Zone 18,2-2,11,2003,Measles
+Zone:18,2-2,11,2003,Measles
 Narathiwat,2-2,5,2003,Measles
 Pattani,2-2,2,2003,Measles
 Yala,2-2,4,2003,Measles
-Zone 19,2-2,3,2003,Measles
+Zone:19,2-2,3,2003,Measles
 Satun,2-2,0,2003,Measles
 Songkhla,2-2,3,2003,Measles
 Total,3-3,163,2003,Measles
 North Region,3-3,44,2003,Measles
-Zone 1,3-3,22,2003,Measles
+Zone:1,3-3,22,2003,Measles
 Chiang Mai,3-3,5,2003,Measles
 Chiang Rai,3-3,6,2003,Measles
 Lampang,3-3,4,2003,Measles
@@ -26412,98 +26412,98 @@ Mae Hong Son,3-3,0,2003,Measles
 Nan,3-3,1,2003,Measles
 Phayao,3-3,3,2003,Measles
 Phrae,3-3,1,2003,Measles
-Zone 2,3-3,13,2003,Measles
+Zone:2,3-3,13,2003,Measles
 Phetchabun,3-3,6,2003,Measles
 Phitsanulok,3-3,1,2003,Measles
 Sukhothai,3-3,1,2003,Measles
 Tak,3-3,5,2003,Measles
 Uttaradit,3-3,0,2003,Measles
-Zone 3,3-3,9,2003,Measles
+Zone:3,3-3,9,2003,Measles
 Kamphaeng Phet,3-3,0,2003,Measles
 Nakhon Sawan,3-3,7,2003,Measles
 Phichit,3-3,0,2003,Measles
 Uthai Thani,3-3,2,2003,Measles
 Central Region,3-3,44,2003,Measles
 Bangkok,3-3,1,2003,Measles
-Zone 4,3-3,12,2003,Measles
+Zone:4,3-3,12,2003,Measles
 Ang Thong,3-3,0,2003,Measles
 Nonthaburi,3-3,3,2003,Measles
 P.Nakhon S.Ayutthaya,3-3,2,2003,Measles
 Pathum Thani,3-3,7,2003,Measles
-Zone 5,3-3,8,2003,Measles
+Zone:5,3-3,8,2003,Measles
 Chai Nat,3-3,0,2003,Measles
 Lop Buri,3-3,2,2003,Measles
 Saraburi,3-3,5,2003,Measles
 Sing Buri,3-3,1,2003,Measles
-Zone 6,3-3,8,2003,Measles
+Zone:6,3-3,8,2003,Measles
 Kanchanaburi,3-3,3,2003,Measles
 Nakhon Pathom,3-3,2,2003,Measles
 Ratchaburi,3-3,2,2003,Measles
 Suphan Buri,3-3,1,2003,Measles
-Zone 7,3-3,2,2003,Measles
+Zone:7,3-3,2,2003,Measles
 Phetchaburi,3-3,0,2003,Measles
 Prachuap Khiri Khan,3-3,0,2003,Measles
 Samut Sakhon,3-3,1,2003,Measles
 Samut Songkhram,3-3,1,2003,Measles
-Zone 8,3-3,7,2003,Measles
+Zone:8,3-3,7,2003,Measles
 Chachoengsao,3-3,3,2003,Measles
 Nakhon Nayok,3-3,0,2003,Measles
 Prachin Buri,3-3,0,2003,Measles
 Sa Kaeo,3-3,2,2003,Measles
 Samut Prakan,3-3,2,2003,Measles
-Zone 9,3-3,6,2003,Measles
+Zone:9,3-3,6,2003,Measles
 Chanthaburi,3-3,0,2003,Measles
 Chon Buri,3-3,2,2003,Measles
 Rayong,3-3,3,2003,Measles
 Trat,3-3,1,2003,Measles
 North-Eastern Region,3-3,54,2003,Measles
-Zone 10,3-3,6,2003,Measles
+Zone:10,3-3,6,2003,Measles
 Loei,3-3,2,2003,Measles
 Nong Bua Lam Phu,3-3,1,2003,Measles
 Nong Khai,3-3,2,2003,Measles
 Udon Thani,3-3,1,2003,Measles
-Zone 11,3-3,2,2003,Measles
+Zone:11,3-3,2,2003,Measles
 Kalasin,3-3,0,2003,Measles
 Mukdahan,3-3,2,2003,Measles
 Nakhon Phanom,3-3,0,2003,Measles
 Sakon Nakhon,3-3,0,2003,Measles
-Zone 12,3-3,2,2003,Measles
+Zone:12,3-3,2,2003,Measles
 Khon Kaen,3-3,0,2003,Measles
 Maha Sarakham,3-3,0,2003,Measles
 Roi Et,3-3,2,2003,Measles
-Zone 13,3-3,29,2003,Measles
+Zone:13,3-3,29,2003,Measles
 Buri Ram,3-3,12,2003,Measles
 Chaiyaphum,3-3,0,2003,Measles
 Nakhon Ratchasima,3-3,11,2003,Measles
 Surin,3-3,6,2003,Measles
-Zone 14,3-3,15,2003,Measles
+Zone:14,3-3,15,2003,Measles
 Amnat Charoen,3-3,3,2003,Measles
 Si Sa Ket,3-3,7,2003,Measles
 Ubon Ratchathani,3-3,3,2003,Measles
 Yasothon,3-3,2,2003,Measles
 South Region,3-3,21,2003,Measles
-Zone 15,3-3,1,2003,Measles
+Zone:15,3-3,1,2003,Measles
 Chumphon,3-3,0,2003,Measles
 Ranong,3-3,0,2003,Measles
 Surat Thani,3-3,1,2003,Measles
-Zone 16,3-3,4,2003,Measles
+Zone:16,3-3,4,2003,Measles
 Nakhon Si Thammarat,3-3,4,2003,Measles
 Phatthalung,3-3,0,2003,Measles
 Trang,3-3,0,2003,Measles
-Zone 17,3-3,1,2003,Measles
+Zone:17,3-3,1,2003,Measles
 Krabi,3-3,0,2003,Measles
 Phangnga,3-3,0,2003,Measles
 Phuket,3-3,1,2003,Measles
-Zone 18,3-3,14,2003,Measles
+Zone:18,3-3,14,2003,Measles
 Narathiwat,3-3,9,2003,Measles
 Pattani,3-3,1,2003,Measles
 Yala,3-3,4,2003,Measles
-Zone 19,3-3,1,2003,Measles
+Zone:19,3-3,1,2003,Measles
 Satun,3-3,0,2003,Measles
 Songkhla,3-3,1,2003,Measles
 Total,4-4,171,2003,Measles
 North Region,4-4,41,2003,Measles
-Zone 1,4-4,24,2003,Measles
+Zone:1,4-4,24,2003,Measles
 Chiang Mai,4-4,6,2003,Measles
 Chiang Rai,4-4,6,2003,Measles
 Lampang,4-4,4,2003,Measles
@@ -26512,98 +26512,98 @@ Mae Hong Son,4-4,2,2003,Measles
 Nan,4-4,2,2003,Measles
 Phayao,4-4,1,2003,Measles
 Phrae,4-4,2,2003,Measles
-Zone 2,4-4,11,2003,Measles
+Zone:2,4-4,11,2003,Measles
 Phetchabun,4-4,4,2003,Measles
 Phitsanulok,4-4,1,2003,Measles
 Sukhothai,4-4,2,2003,Measles
 Tak,4-4,1,2003,Measles
 Uttaradit,4-4,3,2003,Measles
-Zone 3,4-4,6,2003,Measles
+Zone:3,4-4,6,2003,Measles
 Kamphaeng Phet,4-4,0,2003,Measles
 Nakhon Sawan,4-4,2,2003,Measles
 Phichit,4-4,1,2003,Measles
 Uthai Thani,4-4,3,2003,Measles
 Central Region,4-4,47,2003,Measles
 Bangkok,4-4,2,2003,Measles
-Zone 4,4-4,18,2003,Measles
+Zone:4,4-4,18,2003,Measles
 Ang Thong,4-4,1,2003,Measles
 Nonthaburi,4-4,6,2003,Measles
 P.Nakhon S.Ayutthaya,4-4,3,2003,Measles
 Pathum Thani,4-4,8,2003,Measles
-Zone 5,4-4,4,2003,Measles
+Zone:5,4-4,4,2003,Measles
 Chai Nat,4-4,0,2003,Measles
 Lop Buri,4-4,1,2003,Measles
 Saraburi,4-4,3,2003,Measles
 Sing Buri,4-4,0,2003,Measles
-Zone 6,4-4,7,2003,Measles
+Zone:6,4-4,7,2003,Measles
 Kanchanaburi,4-4,4,2003,Measles
 Nakhon Pathom,4-4,1,2003,Measles
 Ratchaburi,4-4,2,2003,Measles
 Suphan Buri,4-4,0,2003,Measles
-Zone 7,4-4,0,2003,Measles
+Zone:7,4-4,0,2003,Measles
 Phetchaburi,4-4,0,2003,Measles
 Prachuap Khiri Khan,4-4,0,2003,Measles
 Samut Sakhon,4-4,0,2003,Measles
 Samut Songkhram,4-4,0,2003,Measles
-Zone 8,4-4,13,2003,Measles
+Zone:8,4-4,13,2003,Measles
 Chachoengsao,4-4,3,2003,Measles
 Nakhon Nayok,4-4,0,2003,Measles
 Prachin Buri,4-4,3,2003,Measles
 Sa Kaeo,4-4,2,2003,Measles
 Samut Prakan,4-4,5,2003,Measles
-Zone 9,4-4,3,2003,Measles
+Zone:9,4-4,3,2003,Measles
 Chanthaburi,4-4,1,2003,Measles
 Chon Buri,4-4,1,2003,Measles
 Rayong,4-4,0,2003,Measles
 Trat,4-4,1,2003,Measles
 North-Eastern Region,4-4,57,2003,Measles
-Zone 10,4-4,5,2003,Measles
+Zone:10,4-4,5,2003,Measles
 Loei,4-4,1,2003,Measles
 Nong Bua Lam Phu,4-4,1,2003,Measles
 Nong Khai,4-4,1,2003,Measles
 Udon Thani,4-4,2,2003,Measles
-Zone 11,4-4,8,2003,Measles
+Zone:11,4-4,8,2003,Measles
 Kalasin,4-4,6,2003,Measles
 Mukdahan,4-4,0,2003,Measles
 Nakhon Phanom,4-4,1,2003,Measles
 Sakon Nakhon,4-4,1,2003,Measles
-Zone 12,4-4,4,2003,Measles
+Zone:12,4-4,4,2003,Measles
 Khon Kaen,4-4,3,2003,Measles
 Maha Sarakham,4-4,1,2003,Measles
 Roi Et,4-4,0,2003,Measles
-Zone 13,4-4,26,2003,Measles
+Zone:13,4-4,26,2003,Measles
 Buri Ram,4-4,11,2003,Measles
 Chaiyaphum,4-4,0,2003,Measles
 Nakhon Ratchasima,4-4,10,2003,Measles
 Surin,4-4,5,2003,Measles
-Zone 14,4-4,14,2003,Measles
+Zone:14,4-4,14,2003,Measles
 Amnat Charoen,4-4,0,2003,Measles
 Si Sa Ket,4-4,13,2003,Measles
 Ubon Ratchathani,4-4,1,2003,Measles
 Yasothon,4-4,0,2003,Measles
 South Region,4-4,26,2003,Measles
-Zone 15,4-4,2,2003,Measles
+Zone:15,4-4,2,2003,Measles
 Chumphon,4-4,2,2003,Measles
 Ranong,4-4,0,2003,Measles
 Surat Thani,4-4,0,2003,Measles
-Zone 16,4-4,5,2003,Measles
+Zone:16,4-4,5,2003,Measles
 Nakhon Si Thammarat,4-4,4,2003,Measles
 Phatthalung,4-4,1,2003,Measles
 Trang,4-4,0,2003,Measles
-Zone 17,4-4,1,2003,Measles
+Zone:17,4-4,1,2003,Measles
 Krabi,4-4,1,2003,Measles
 Phangnga,4-4,0,2003,Measles
 Phuket,4-4,0,2003,Measles
-Zone 18,4-4,16,2003,Measles
+Zone:18,4-4,16,2003,Measles
 Narathiwat,4-4,8,2003,Measles
 Pattani,4-4,5,2003,Measles
 Yala,4-4,3,2003,Measles
-Zone 19,4-4,2,2003,Measles
+Zone:19,4-4,2,2003,Measles
 Satun,4-4,0,2003,Measles
 Songkhla,4-4,2,2003,Measles
 Total,5-5,173,2003,Measles
 North Region,5-5,33,2003,Measles
-Zone 1,5-5,19,2003,Measles
+Zone:1,5-5,19,2003,Measles
 Chiang Mai,5-5,6,2003,Measles
 Chiang Rai,5-5,4,2003,Measles
 Lampang,5-5,5,2003,Measles
@@ -26612,98 +26612,98 @@ Mae Hong Son,5-5,0,2003,Measles
 Nan,5-5,0,2003,Measles
 Phayao,5-5,3,2003,Measles
 Phrae,5-5,0,2003,Measles
-Zone 2,5-5,8,2003,Measles
+Zone:2,5-5,8,2003,Measles
 Phetchabun,5-5,2,2003,Measles
 Phitsanulok,5-5,1,2003,Measles
 Sukhothai,5-5,0,2003,Measles
 Tak,5-5,4,2003,Measles
 Uttaradit,5-5,1,2003,Measles
-Zone 3,5-5,6,2003,Measles
+Zone:3,5-5,6,2003,Measles
 Kamphaeng Phet,5-5,1,2003,Measles
 Nakhon Sawan,5-5,4,2003,Measles
 Phichit,5-5,0,2003,Measles
 Uthai Thani,5-5,1,2003,Measles
 Central Region,5-5,35,2003,Measles
 Bangkok,5-5,3,2003,Measles
-Zone 4,5-5,12,2003,Measles
+Zone:4,5-5,12,2003,Measles
 Ang Thong,5-5,1,2003,Measles
 Nonthaburi,5-5,2,2003,Measles
 P.Nakhon S.Ayutthaya,5-5,0,2003,Measles
 Pathum Thani,5-5,9,2003,Measles
-Zone 5,5-5,7,2003,Measles
+Zone:5,5-5,7,2003,Measles
 Chai Nat,5-5,0,2003,Measles
 Lop Buri,5-5,4,2003,Measles
 Saraburi,5-5,3,2003,Measles
 Sing Buri,5-5,0,2003,Measles
-Zone 6,5-5,5,2003,Measles
+Zone:6,5-5,5,2003,Measles
 Kanchanaburi,5-5,2,2003,Measles
 Nakhon Pathom,5-5,2,2003,Measles
 Ratchaburi,5-5,0,2003,Measles
 Suphan Buri,5-5,1,2003,Measles
-Zone 7,5-5,0,2003,Measles
+Zone:7,5-5,0,2003,Measles
 Phetchaburi,5-5,0,2003,Measles
 Prachuap Khiri Khan,5-5,0,2003,Measles
 Samut Sakhon,5-5,0,2003,Measles
 Samut Songkhram,5-5,0,2003,Measles
-Zone 8,5-5,5,2003,Measles
+Zone:8,5-5,5,2003,Measles
 Chachoengsao,5-5,3,2003,Measles
 Nakhon Nayok,5-5,0,2003,Measles
 Prachin Buri,5-5,1,2003,Measles
 Sa Kaeo,5-5,0,2003,Measles
 Samut Prakan,5-5,1,2003,Measles
-Zone 9,5-5,3,2003,Measles
+Zone:9,5-5,3,2003,Measles
 Chanthaburi,5-5,1,2003,Measles
 Chon Buri,5-5,2,2003,Measles
 Rayong,5-5,0,2003,Measles
 Trat,5-5,0,2003,Measles
 North-Eastern Region,5-5,79,2003,Measles
-Zone 10,5-5,8,2003,Measles
+Zone:10,5-5,8,2003,Measles
 Loei,5-5,1,2003,Measles
 Nong Bua Lam Phu,5-5,4,2003,Measles
 Nong Khai,5-5,1,2003,Measles
 Udon Thani,5-5,2,2003,Measles
-Zone 11,5-5,5,2003,Measles
+Zone:11,5-5,5,2003,Measles
 Kalasin,5-5,1,2003,Measles
 Mukdahan,5-5,0,2003,Measles
 Nakhon Phanom,5-5,1,2003,Measles
 Sakon Nakhon,5-5,3,2003,Measles
-Zone 12,5-5,4,2003,Measles
+Zone:12,5-5,4,2003,Measles
 Khon Kaen,5-5,0,2003,Measles
 Maha Sarakham,5-5,2,2003,Measles
 Roi Et,5-5,2,2003,Measles
-Zone 13,5-5,39,2003,Measles
+Zone:13,5-5,39,2003,Measles
 Buri Ram,5-5,12,2003,Measles
 Chaiyaphum,5-5,3,2003,Measles
 Nakhon Ratchasima,5-5,17,2003,Measles
 Surin,5-5,7,2003,Measles
-Zone 14,5-5,23,2003,Measles
+Zone:14,5-5,23,2003,Measles
 Amnat Charoen,5-5,1,2003,Measles
 Si Sa Ket,5-5,20,2003,Measles
 Ubon Ratchathani,5-5,1,2003,Measles
 Yasothon,5-5,1,2003,Measles
 South Region,5-5,26,2003,Measles
-Zone 15,5-5,4,2003,Measles
+Zone:15,5-5,4,2003,Measles
 Chumphon,5-5,2,2003,Measles
 Ranong,5-5,0,2003,Measles
 Surat Thani,5-5,2,2003,Measles
-Zone 16,5-5,9,2003,Measles
+Zone:16,5-5,9,2003,Measles
 Nakhon Si Thammarat,5-5,6,2003,Measles
 Phatthalung,5-5,1,2003,Measles
 Trang,5-5,2,2003,Measles
-Zone 17,5-5,1,2003,Measles
+Zone:17,5-5,1,2003,Measles
 Krabi,5-5,1,2003,Measles
 Phangnga,5-5,0,2003,Measles
 Phuket,5-5,0,2003,Measles
-Zone 18,5-5,10,2003,Measles
+Zone:18,5-5,10,2003,Measles
 Narathiwat,5-5,6,2003,Measles
 Pattani,5-5,4,2003,Measles
 Yala,5-5,0,2003,Measles
-Zone 19,5-5,2,2003,Measles
+Zone:19,5-5,2,2003,Measles
 Satun,5-5,0,2003,Measles
 Songkhla,5-5,2,2003,Measles
 Total,6-6,189,2003,Measles
 North Region,6-6,41,2003,Measles
-Zone 1,6-6,21,2003,Measles
+Zone:1,6-6,21,2003,Measles
 Chiang Mai,6-6,2,2003,Measles
 Chiang Rai,6-6,4,2003,Measles
 Lampang,6-6,6,2003,Measles
@@ -26712,98 +26712,98 @@ Mae Hong Son,6-6,1,2003,Measles
 Nan,6-6,2,2003,Measles
 Phayao,6-6,3,2003,Measles
 Phrae,6-6,1,2003,Measles
-Zone 2,6-6,9,2003,Measles
+Zone:2,6-6,9,2003,Measles
 Phetchabun,6-6,5,2003,Measles
 Phitsanulok,6-6,2,2003,Measles
 Sukhothai,6-6,0,2003,Measles
 Tak,6-6,1,2003,Measles
 Uttaradit,6-6,1,2003,Measles
-Zone 3,6-6,11,2003,Measles
+Zone:3,6-6,11,2003,Measles
 Kamphaeng Phet,6-6,3,2003,Measles
 Nakhon Sawan,6-6,3,2003,Measles
 Phichit,6-6,3,2003,Measles
 Uthai Thani,6-6,2,2003,Measles
 Central Region,6-6,58,2003,Measles
 Bangkok,6-6,3,2003,Measles
-Zone 4,6-6,15,2003,Measles
+Zone:4,6-6,15,2003,Measles
 Ang Thong,6-6,0,2003,Measles
 Nonthaburi,6-6,3,2003,Measles
 P.Nakhon S.Ayutthaya,6-6,3,2003,Measles
 Pathum Thani,6-6,9,2003,Measles
-Zone 5,6-6,10,2003,Measles
+Zone:5,6-6,10,2003,Measles
 Chai Nat,6-6,0,2003,Measles
 Lop Buri,6-6,2,2003,Measles
 Saraburi,6-6,8,2003,Measles
 Sing Buri,6-6,0,2003,Measles
-Zone 6,6-6,8,2003,Measles
+Zone:6,6-6,8,2003,Measles
 Kanchanaburi,6-6,2,2003,Measles
 Nakhon Pathom,6-6,3,2003,Measles
 Ratchaburi,6-6,2,2003,Measles
 Suphan Buri,6-6,1,2003,Measles
-Zone 7,6-6,4,2003,Measles
+Zone:7,6-6,4,2003,Measles
 Phetchaburi,6-6,1,2003,Measles
 Prachuap Khiri Khan,6-6,1,2003,Measles
 Samut Sakhon,6-6,1,2003,Measles
 Samut Songkhram,6-6,1,2003,Measles
-Zone 8,6-6,12,2003,Measles
+Zone:8,6-6,12,2003,Measles
 Chachoengsao,6-6,6,2003,Measles
 Nakhon Nayok,6-6,0,2003,Measles
 Prachin Buri,6-6,2,2003,Measles
 Sa Kaeo,6-6,1,2003,Measles
 Samut Prakan,6-6,3,2003,Measles
-Zone 9,6-6,6,2003,Measles
+Zone:9,6-6,6,2003,Measles
 Chanthaburi,6-6,1,2003,Measles
 Chon Buri,6-6,2,2003,Measles
 Rayong,6-6,2,2003,Measles
 Trat,6-6,1,2003,Measles
 North-Eastern Region,6-6,67,2003,Measles
-Zone 10,6-6,4,2003,Measles
+Zone:10,6-6,4,2003,Measles
 Loei,6-6,0,2003,Measles
 Nong Bua Lam Phu,6-6,0,2003,Measles
 Nong Khai,6-6,2,2003,Measles
 Udon Thani,6-6,2,2003,Measles
-Zone 11,6-6,7,2003,Measles
+Zone:11,6-6,7,2003,Measles
 Kalasin,6-6,4,2003,Measles
 Mukdahan,6-6,0,2003,Measles
 Nakhon Phanom,6-6,0,2003,Measles
 Sakon Nakhon,6-6,3,2003,Measles
-Zone 12,6-6,4,2003,Measles
+Zone:12,6-6,4,2003,Measles
 Khon Kaen,6-6,1,2003,Measles
 Maha Sarakham,6-6,0,2003,Measles
 Roi Et,6-6,3,2003,Measles
-Zone 13,6-6,39,2003,Measles
+Zone:13,6-6,39,2003,Measles
 Buri Ram,6-6,11,2003,Measles
 Chaiyaphum,6-6,1,2003,Measles
 Nakhon Ratchasima,6-6,20,2003,Measles
 Surin,6-6,7,2003,Measles
-Zone 14,6-6,13,2003,Measles
+Zone:14,6-6,13,2003,Measles
 Amnat Charoen,6-6,0,2003,Measles
 Si Sa Ket,6-6,11,2003,Measles
 Ubon Ratchathani,6-6,2,2003,Measles
 Yasothon,6-6,0,2003,Measles
 South Region,6-6,23,2003,Measles
-Zone 15,6-6,3,2003,Measles
+Zone:15,6-6,3,2003,Measles
 Chumphon,6-6,2,2003,Measles
 Ranong,6-6,0,2003,Measles
 Surat Thani,6-6,1,2003,Measles
-Zone 16,6-6,2,2003,Measles
+Zone:16,6-6,2,2003,Measles
 Nakhon Si Thammarat,6-6,1,2003,Measles
 Phatthalung,6-6,1,2003,Measles
 Trang,6-6,0,2003,Measles
-Zone 17,6-6,1,2003,Measles
+Zone:17,6-6,1,2003,Measles
 Krabi,6-6,0,2003,Measles
 Phangnga,6-6,0,2003,Measles
 Phuket,6-6,1,2003,Measles
-Zone 18,6-6,16,2003,Measles
+Zone:18,6-6,16,2003,Measles
 Narathiwat,6-6,11,2003,Measles
 Pattani,6-6,3,2003,Measles
 Yala,6-6,2,2003,Measles
-Zone 19,6-6,1,2003,Measles
+Zone:19,6-6,1,2003,Measles
 Satun,6-6,0,2003,Measles
 Songkhla,6-6,1,2003,Measles
 Total,7-9,321,2003,Measles
 North Region,7-9,81,2003,Measles
-Zone 1,7-9,46,2003,Measles
+Zone:1,7-9,46,2003,Measles
 Chiang Mai,7-9,23,2003,Measles
 Chiang Rai,7-9,4,2003,Measles
 Lampang,7-9,7,2003,Measles
@@ -26812,98 +26812,98 @@ Mae Hong Son,7-9,1,2003,Measles
 Nan,7-9,4,2003,Measles
 Phayao,7-9,3,2003,Measles
 Phrae,7-9,0,2003,Measles
-Zone 2,7-9,12,2003,Measles
+Zone:2,7-9,12,2003,Measles
 Phetchabun,7-9,5,2003,Measles
 Phitsanulok,7-9,2,2003,Measles
 Sukhothai,7-9,1,2003,Measles
 Tak,7-9,2,2003,Measles
 Uttaradit,7-9,2,2003,Measles
-Zone 3,7-9,23,2003,Measles
+Zone:3,7-9,23,2003,Measles
 Kamphaeng Phet,7-9,6,2003,Measles
 Nakhon Sawan,7-9,10,2003,Measles
 Phichit,7-9,4,2003,Measles
 Uthai Thani,7-9,3,2003,Measles
 Central Region,7-9,87,2003,Measles
 Bangkok,7-9,3,2003,Measles
-Zone 4,7-9,19,2003,Measles
+Zone:4,7-9,19,2003,Measles
 Ang Thong,7-9,0,2003,Measles
 Nonthaburi,7-9,5,2003,Measles
 P.Nakhon S.Ayutthaya,7-9,4,2003,Measles
 Pathum Thani,7-9,10,2003,Measles
-Zone 5,7-9,3,2003,Measles
+Zone:5,7-9,3,2003,Measles
 Chai Nat,7-9,0,2003,Measles
 Lop Buri,7-9,1,2003,Measles
 Saraburi,7-9,1,2003,Measles
 Sing Buri,7-9,1,2003,Measles
-Zone 6,7-9,20,2003,Measles
+Zone:6,7-9,20,2003,Measles
 Kanchanaburi,7-9,5,2003,Measles
 Nakhon Pathom,7-9,5,2003,Measles
 Ratchaburi,7-9,7,2003,Measles
 Suphan Buri,7-9,3,2003,Measles
-Zone 7,7-9,1,2003,Measles
+Zone:7,7-9,1,2003,Measles
 Phetchaburi,7-9,1,2003,Measles
 Prachuap Khiri Khan,7-9,0,2003,Measles
 Samut Sakhon,7-9,0,2003,Measles
 Samut Songkhram,7-9,0,2003,Measles
-Zone 8,7-9,30,2003,Measles
+Zone:8,7-9,30,2003,Measles
 Chachoengsao,7-9,9,2003,Measles
 Nakhon Nayok,7-9,1,2003,Measles
 Prachin Buri,7-9,7,2003,Measles
 Sa Kaeo,7-9,0,2003,Measles
 Samut Prakan,7-9,13,2003,Measles
-Zone 9,7-9,11,2003,Measles
+Zone:9,7-9,11,2003,Measles
 Chanthaburi,7-9,2,2003,Measles
 Chon Buri,7-9,0,2003,Measles
 Rayong,7-9,5,2003,Measles
 Trat,7-9,4,2003,Measles
 North-Eastern Region,7-9,116,2003,Measles
-Zone 10,7-9,15,2003,Measles
+Zone:10,7-9,15,2003,Measles
 Loei,7-9,2,2003,Measles
 Nong Bua Lam Phu,7-9,2,2003,Measles
 Nong Khai,7-9,2,2003,Measles
 Udon Thani,7-9,9,2003,Measles
-Zone 11,7-9,15,2003,Measles
+Zone:11,7-9,15,2003,Measles
 Kalasin,7-9,9,2003,Measles
 Mukdahan,7-9,0,2003,Measles
 Nakhon Phanom,7-9,2,2003,Measles
 Sakon Nakhon,7-9,4,2003,Measles
-Zone 12,7-9,8,2003,Measles
+Zone:12,7-9,8,2003,Measles
 Khon Kaen,7-9,4,2003,Measles
 Maha Sarakham,7-9,0,2003,Measles
 Roi Et,7-9,4,2003,Measles
-Zone 13,7-9,49,2003,Measles
+Zone:13,7-9,49,2003,Measles
 Buri Ram,7-9,14,2003,Measles
 Chaiyaphum,7-9,6,2003,Measles
 Nakhon Ratchasima,7-9,22,2003,Measles
 Surin,7-9,7,2003,Measles
-Zone 14,7-9,29,2003,Measles
+Zone:14,7-9,29,2003,Measles
 Amnat Charoen,7-9,5,2003,Measles
 Si Sa Ket,7-9,12,2003,Measles
 Ubon Ratchathani,7-9,10,2003,Measles
 Yasothon,7-9,2,2003,Measles
 South Region,7-9,37,2003,Measles
-Zone 15,7-9,5,2003,Measles
+Zone:15,7-9,5,2003,Measles
 Chumphon,7-9,2,2003,Measles
 Ranong,7-9,0,2003,Measles
 Surat Thani,7-9,3,2003,Measles
-Zone 16,7-9,5,2003,Measles
+Zone:16,7-9,5,2003,Measles
 Nakhon Si Thammarat,7-9,4,2003,Measles
 Phatthalung,7-9,1,2003,Measles
 Trang,7-9,0,2003,Measles
-Zone 17,7-9,1,2003,Measles
+Zone:17,7-9,1,2003,Measles
 Krabi,7-9,1,2003,Measles
 Phangnga,7-9,0,2003,Measles
 Phuket,7-9,0,2003,Measles
-Zone 18,7-9,20,2003,Measles
+Zone:18,7-9,20,2003,Measles
 Narathiwat,7-9,10,2003,Measles
 Pattani,7-9,8,2003,Measles
 Yala,7-9,2,2003,Measles
-Zone 19,7-9,6,2003,Measles
+Zone:19,7-9,6,2003,Measles
 Satun,7-9,0,2003,Measles
 Songkhla,7-9,6,2003,Measles
 Total,10-14,733,2003,Measles
 North Region,10-14,185,2003,Measles
-Zone 1,10-14,119,2003,Measles
+Zone:1,10-14,119,2003,Measles
 Chiang Mai,10-14,22,2003,Measles
 Chiang Rai,10-14,16,2003,Measles
 Lampang,10-14,62,2003,Measles
@@ -26912,98 +26912,98 @@ Mae Hong Son,10-14,1,2003,Measles
 Nan,10-14,3,2003,Measles
 Phayao,10-14,7,2003,Measles
 Phrae,10-14,3,2003,Measles
-Zone 2,10-14,15,2003,Measles
+Zone:2,10-14,15,2003,Measles
 Phetchabun,10-14,8,2003,Measles
 Phitsanulok,10-14,3,2003,Measles
 Sukhothai,10-14,1,2003,Measles
 Tak,10-14,1,2003,Measles
 Uttaradit,10-14,2,2003,Measles
-Zone 3,10-14,51,2003,Measles
+Zone:3,10-14,51,2003,Measles
 Kamphaeng Phet,10-14,6,2003,Measles
 Nakhon Sawan,10-14,26,2003,Measles
 Phichit,10-14,2,2003,Measles
 Uthai Thani,10-14,17,2003,Measles
 Central Region,10-14,170,2003,Measles
 Bangkok,10-14,9,2003,Measles
-Zone 4,10-14,52,2003,Measles
+Zone:4,10-14,52,2003,Measles
 Ang Thong,10-14,1,2003,Measles
 Nonthaburi,10-14,11,2003,Measles
 P.Nakhon S.Ayutthaya,10-14,14,2003,Measles
 Pathum Thani,10-14,26,2003,Measles
-Zone 5,10-14,24,2003,Measles
+Zone:5,10-14,24,2003,Measles
 Chai Nat,10-14,1,2003,Measles
 Lop Buri,10-14,5,2003,Measles
 Saraburi,10-14,13,2003,Measles
 Sing Buri,10-14,5,2003,Measles
-Zone 6,10-14,23,2003,Measles
+Zone:6,10-14,23,2003,Measles
 Kanchanaburi,10-14,5,2003,Measles
 Nakhon Pathom,10-14,4,2003,Measles
 Ratchaburi,10-14,7,2003,Measles
 Suphan Buri,10-14,7,2003,Measles
-Zone 7,10-14,9,2003,Measles
+Zone:7,10-14,9,2003,Measles
 Phetchaburi,10-14,1,2003,Measles
 Prachuap Khiri Khan,10-14,2,2003,Measles
 Samut Sakhon,10-14,4,2003,Measles
 Samut Songkhram,10-14,2,2003,Measles
-Zone 8,10-14,39,2003,Measles
+Zone:8,10-14,39,2003,Measles
 Chachoengsao,10-14,10,2003,Measles
 Nakhon Nayok,10-14,1,2003,Measles
 Prachin Buri,10-14,17,2003,Measles
 Sa Kaeo,10-14,5,2003,Measles
 Samut Prakan,10-14,6,2003,Measles
-Zone 9,10-14,14,2003,Measles
+Zone:9,10-14,14,2003,Measles
 Chanthaburi,10-14,1,2003,Measles
 Chon Buri,10-14,1,2003,Measles
 Rayong,10-14,11,2003,Measles
 Trat,10-14,1,2003,Measles
 North-Eastern Region,10-14,343,2003,Measles
-Zone 10,10-14,21,2003,Measles
+Zone:10,10-14,21,2003,Measles
 Loei,10-14,2,2003,Measles
 Nong Bua Lam Phu,10-14,5,2003,Measles
 Nong Khai,10-14,2,2003,Measles
 Udon Thani,10-14,12,2003,Measles
-Zone 11,10-14,37,2003,Measles
+Zone:11,10-14,37,2003,Measles
 Kalasin,10-14,28,2003,Measles
 Mukdahan,10-14,0,2003,Measles
 Nakhon Phanom,10-14,1,2003,Measles
 Sakon Nakhon,10-14,8,2003,Measles
-Zone 12,10-14,16,2003,Measles
+Zone:12,10-14,16,2003,Measles
 Khon Kaen,10-14,8,2003,Measles
 Maha Sarakham,10-14,1,2003,Measles
 Roi Et,10-14,7,2003,Measles
-Zone 13,10-14,189,2003,Measles
+Zone:13,10-14,189,2003,Measles
 Buri Ram,10-14,62,2003,Measles
 Chaiyaphum,10-14,8,2003,Measles
 Nakhon Ratchasima,10-14,98,2003,Measles
 Surin,10-14,21,2003,Measles
-Zone 14,10-14,80,2003,Measles
+Zone:14,10-14,80,2003,Measles
 Amnat Charoen,10-14,8,2003,Measles
 Si Sa Ket,10-14,62,2003,Measles
 Ubon Ratchathani,10-14,6,2003,Measles
 Yasothon,10-14,4,2003,Measles
 South Region,10-14,35,2003,Measles
-Zone 15,10-14,6,2003,Measles
+Zone:15,10-14,6,2003,Measles
 Chumphon,10-14,5,2003,Measles
 Ranong,10-14,1,2003,Measles
 Surat Thani,10-14,0,2003,Measles
-Zone 16,10-14,11,2003,Measles
+Zone:16,10-14,11,2003,Measles
 Nakhon Si Thammarat,10-14,8,2003,Measles
 Phatthalung,10-14,1,2003,Measles
 Trang,10-14,2,2003,Measles
-Zone 17,10-14,1,2003,Measles
+Zone:17,10-14,1,2003,Measles
 Krabi,10-14,1,2003,Measles
 Phangnga,10-14,0,2003,Measles
 Phuket,10-14,0,2003,Measles
-Zone 18,10-14,8,2003,Measles
+Zone:18,10-14,8,2003,Measles
 Narathiwat,10-14,3,2003,Measles
 Pattani,10-14,3,2003,Measles
 Yala,10-14,2,2003,Measles
-Zone 19,10-14,9,2003,Measles
+Zone:19,10-14,9,2003,Measles
 Satun,10-14,1,2003,Measles
 Songkhla,10-14,8,2003,Measles
 Total,15-24,1043,2003,Measles
 North Region,15-24,332,2003,Measles
-Zone 1,15-24,200,2003,Measles
+Zone:1,15-24,200,2003,Measles
 Chiang Mai,15-24,18,2003,Measles
 Chiang Rai,15-24,13,2003,Measles
 Lampang,15-24,111,2003,Measles
@@ -27012,98 +27012,98 @@ Mae Hong Son,15-24,1,2003,Measles
 Nan,15-24,18,2003,Measles
 Phayao,15-24,15,2003,Measles
 Phrae,15-24,2,2003,Measles
-Zone 2,15-24,52,2003,Measles
+Zone:2,15-24,52,2003,Measles
 Phetchabun,15-24,5,2003,Measles
 Phitsanulok,15-24,10,2003,Measles
 Sukhothai,15-24,17,2003,Measles
 Tak,15-24,7,2003,Measles
 Uttaradit,15-24,13,2003,Measles
-Zone 3,15-24,80,2003,Measles
+Zone:3,15-24,80,2003,Measles
 Kamphaeng Phet,15-24,2,2003,Measles
 Nakhon Sawan,15-24,30,2003,Measles
 Phichit,15-24,8,2003,Measles
 Uthai Thani,15-24,40,2003,Measles
 Central Region,15-24,302,2003,Measles
 Bangkok,15-24,4,2003,Measles
-Zone 4,15-24,97,2003,Measles
+Zone:4,15-24,97,2003,Measles
 Ang Thong,15-24,2,2003,Measles
 Nonthaburi,15-24,15,2003,Measles
 P.Nakhon S.Ayutthaya,15-24,29,2003,Measles
 Pathum Thani,15-24,51,2003,Measles
-Zone 5,15-24,48,2003,Measles
+Zone:5,15-24,48,2003,Measles
 Chai Nat,15-24,6,2003,Measles
 Lop Buri,15-24,17,2003,Measles
 Saraburi,15-24,21,2003,Measles
 Sing Buri,15-24,4,2003,Measles
-Zone 6,15-24,38,2003,Measles
+Zone:6,15-24,38,2003,Measles
 Kanchanaburi,15-24,7,2003,Measles
 Nakhon Pathom,15-24,9,2003,Measles
 Ratchaburi,15-24,7,2003,Measles
 Suphan Buri,15-24,15,2003,Measles
-Zone 7,15-24,16,2003,Measles
+Zone:7,15-24,16,2003,Measles
 Phetchaburi,15-24,2,2003,Measles
 Prachuap Khiri Khan,15-24,1,2003,Measles
 Samut Sakhon,15-24,9,2003,Measles
 Samut Songkhram,15-24,4,2003,Measles
-Zone 8,15-24,64,2003,Measles
+Zone:8,15-24,64,2003,Measles
 Chachoengsao,15-24,27,2003,Measles
 Nakhon Nayok,15-24,2,2003,Measles
 Prachin Buri,15-24,8,2003,Measles
 Sa Kaeo,15-24,3,2003,Measles
 Samut Prakan,15-24,24,2003,Measles
-Zone 9,15-24,35,2003,Measles
+Zone:9,15-24,35,2003,Measles
 Chanthaburi,15-24,5,2003,Measles
 Chon Buri,15-24,15,2003,Measles
 Rayong,15-24,14,2003,Measles
 Trat,15-24,1,2003,Measles
 North-Eastern Region,15-24,370,2003,Measles
-Zone 10,15-24,22,2003,Measles
+Zone:10,15-24,22,2003,Measles
 Loei,15-24,3,2003,Measles
 Nong Bua Lam Phu,15-24,6,2003,Measles
 Nong Khai,15-24,0,2003,Measles
 Udon Thani,15-24,13,2003,Measles
-Zone 11,15-24,58,2003,Measles
+Zone:11,15-24,58,2003,Measles
 Kalasin,15-24,44,2003,Measles
 Mukdahan,15-24,0,2003,Measles
 Nakhon Phanom,15-24,2,2003,Measles
 Sakon Nakhon,15-24,12,2003,Measles
-Zone 12,15-24,11,2003,Measles
+Zone:12,15-24,11,2003,Measles
 Khon Kaen,15-24,5,2003,Measles
 Maha Sarakham,15-24,1,2003,Measles
 Roi Et,15-24,5,2003,Measles
-Zone 13,15-24,193,2003,Measles
+Zone:13,15-24,193,2003,Measles
 Buri Ram,15-24,50,2003,Measles
 Chaiyaphum,15-24,4,2003,Measles
 Nakhon Ratchasima,15-24,130,2003,Measles
 Surin,15-24,9,2003,Measles
-Zone 14,15-24,86,2003,Measles
+Zone:14,15-24,86,2003,Measles
 Amnat Charoen,15-24,4,2003,Measles
 Si Sa Ket,15-24,64,2003,Measles
 Ubon Ratchathani,15-24,14,2003,Measles
 Yasothon,15-24,4,2003,Measles
 South Region,15-24,39,2003,Measles
-Zone 15,15-24,10,2003,Measles
+Zone:15,15-24,10,2003,Measles
 Chumphon,15-24,4,2003,Measles
 Ranong,15-24,1,2003,Measles
 Surat Thani,15-24,5,2003,Measles
-Zone 16,15-24,12,2003,Measles
+Zone:16,15-24,12,2003,Measles
 Nakhon Si Thammarat,15-24,9,2003,Measles
 Phatthalung,15-24,2,2003,Measles
 Trang,15-24,1,2003,Measles
-Zone 17,15-24,2,2003,Measles
+Zone:17,15-24,2,2003,Measles
 Krabi,15-24,1,2003,Measles
 Phangnga,15-24,0,2003,Measles
 Phuket,15-24,1,2003,Measles
-Zone 18,15-24,7,2003,Measles
+Zone:18,15-24,7,2003,Measles
 Narathiwat,15-24,4,2003,Measles
 Pattani,15-24,2,2003,Measles
 Yala,15-24,1,2003,Measles
-Zone 19,15-24,8,2003,Measles
+Zone:19,15-24,8,2003,Measles
 Satun,15-24,2,2003,Measles
 Songkhla,15-24,6,2003,Measles
 Total,25-34,142,2003,Measles
 North Region,25-34,35,2003,Measles
-Zone 1,25-34,23,2003,Measles
+Zone:1,25-34,23,2003,Measles
 Chiang Mai,25-34,2,2003,Measles
 Chiang Rai,25-34,6,2003,Measles
 Lampang,25-34,12,2003,Measles
@@ -27112,98 +27112,98 @@ Mae Hong Son,25-34,0,2003,Measles
 Nan,25-34,0,2003,Measles
 Phayao,25-34,0,2003,Measles
 Phrae,25-34,0,2003,Measles
-Zone 2,25-34,7,2003,Measles
+Zone:2,25-34,7,2003,Measles
 Phetchabun,25-34,7,2003,Measles
 Phitsanulok,25-34,0,2003,Measles
 Sukhothai,25-34,0,2003,Measles
 Tak,25-34,0,2003,Measles
 Uttaradit,25-34,0,2003,Measles
-Zone 3,25-34,5,2003,Measles
+Zone:3,25-34,5,2003,Measles
 Kamphaeng Phet,25-34,0,2003,Measles
 Nakhon Sawan,25-34,2,2003,Measles
 Phichit,25-34,1,2003,Measles
 Uthai Thani,25-34,2,2003,Measles
 Central Region,25-34,71,2003,Measles
 Bangkok,25-34,4,2003,Measles
-Zone 4,25-34,9,2003,Measles
+Zone:4,25-34,9,2003,Measles
 Ang Thong,25-34,1,2003,Measles
 Nonthaburi,25-34,1,2003,Measles
 P.Nakhon S.Ayutthaya,25-34,2,2003,Measles
 Pathum Thani,25-34,5,2003,Measles
-Zone 5,25-34,12,2003,Measles
+Zone:5,25-34,12,2003,Measles
 Chai Nat,25-34,0,2003,Measles
 Lop Buri,25-34,4,2003,Measles
 Saraburi,25-34,8,2003,Measles
 Sing Buri,25-34,0,2003,Measles
-Zone 6,25-34,8,2003,Measles
+Zone:6,25-34,8,2003,Measles
 Kanchanaburi,25-34,2,2003,Measles
 Nakhon Pathom,25-34,1,2003,Measles
 Ratchaburi,25-34,3,2003,Measles
 Suphan Buri,25-34,2,2003,Measles
-Zone 7,25-34,4,2003,Measles
+Zone:7,25-34,4,2003,Measles
 Phetchaburi,25-34,0,2003,Measles
 Prachuap Khiri Khan,25-34,1,2003,Measles
 Samut Sakhon,25-34,1,2003,Measles
 Samut Songkhram,25-34,2,2003,Measles
-Zone 8,25-34,19,2003,Measles
+Zone:8,25-34,19,2003,Measles
 Chachoengsao,25-34,5,2003,Measles
 Nakhon Nayok,25-34,0,2003,Measles
 Prachin Buri,25-34,10,2003,Measles
 Sa Kaeo,25-34,0,2003,Measles
 Samut Prakan,25-34,4,2003,Measles
-Zone 9,25-34,15,2003,Measles
+Zone:9,25-34,15,2003,Measles
 Chanthaburi,25-34,1,2003,Measles
 Chon Buri,25-34,7,2003,Measles
 Rayong,25-34,5,2003,Measles
 Trat,25-34,2,2003,Measles
 North-Eastern Region,25-34,24,2003,Measles
-Zone 10,25-34,1,2003,Measles
+Zone:10,25-34,1,2003,Measles
 Loei,25-34,0,2003,Measles
 Nong Bua Lam Phu,25-34,0,2003,Measles
 Nong Khai,25-34,1,2003,Measles
 Udon Thani,25-34,0,2003,Measles
-Zone 11,25-34,5,2003,Measles
+Zone:11,25-34,5,2003,Measles
 Kalasin,25-34,2,2003,Measles
 Mukdahan,25-34,0,2003,Measles
 Nakhon Phanom,25-34,1,2003,Measles
 Sakon Nakhon,25-34,2,2003,Measles
-Zone 12,25-34,1,2003,Measles
+Zone:12,25-34,1,2003,Measles
 Khon Kaen,25-34,0,2003,Measles
 Maha Sarakham,25-34,0,2003,Measles
 Roi Et,25-34,1,2003,Measles
-Zone 13,25-34,11,2003,Measles
+Zone:13,25-34,11,2003,Measles
 Buri Ram,25-34,4,2003,Measles
 Chaiyaphum,25-34,1,2003,Measles
 Nakhon Ratchasima,25-34,3,2003,Measles
 Surin,25-34,3,2003,Measles
-Zone 14,25-34,6,2003,Measles
+Zone:14,25-34,6,2003,Measles
 Amnat Charoen,25-34,0,2003,Measles
 Si Sa Ket,25-34,4,2003,Measles
 Ubon Ratchathani,25-34,1,2003,Measles
 Yasothon,25-34,1,2003,Measles
 South Region,25-34,12,2003,Measles
-Zone 15,25-34,3,2003,Measles
+Zone:15,25-34,3,2003,Measles
 Chumphon,25-34,1,2003,Measles
 Ranong,25-34,0,2003,Measles
 Surat Thani,25-34,2,2003,Measles
-Zone 16,25-34,3,2003,Measles
+Zone:16,25-34,3,2003,Measles
 Nakhon Si Thammarat,25-34,3,2003,Measles
 Phatthalung,25-34,0,2003,Measles
 Trang,25-34,0,2003,Measles
-Zone 17,25-34,0,2003,Measles
+Zone:17,25-34,0,2003,Measles
 Krabi,25-34,0,2003,Measles
 Phangnga,25-34,0,2003,Measles
 Phuket,25-34,0,2003,Measles
-Zone 18,25-34,2,2003,Measles
+Zone:18,25-34,2,2003,Measles
 Narathiwat,25-34,0,2003,Measles
 Pattani,25-34,0,2003,Measles
 Yala,25-34,2,2003,Measles
-Zone 19,25-34,4,2003,Measles
+Zone:19,25-34,4,2003,Measles
 Satun,25-34,2,2003,Measles
 Songkhla,25-34,2,2003,Measles
 Total,35-44,58,2003,Measles
 North Region,35-44,13,2003,Measles
-Zone 1,35-44,10,2003,Measles
+Zone:1,35-44,10,2003,Measles
 Chiang Mai,35-44,4,2003,Measles
 Chiang Rai,35-44,1,2003,Measles
 Lampang,35-44,2,2003,Measles
@@ -27212,98 +27212,98 @@ Mae Hong Son,35-44,0,2003,Measles
 Nan,35-44,0,2003,Measles
 Phayao,35-44,0,2003,Measles
 Phrae,35-44,1,2003,Measles
-Zone 2,35-44,2,2003,Measles
+Zone:2,35-44,2,2003,Measles
 Phetchabun,35-44,0,2003,Measles
 Phitsanulok,35-44,1,2003,Measles
 Sukhothai,35-44,0,2003,Measles
 Tak,35-44,1,2003,Measles
 Uttaradit,35-44,0,2003,Measles
-Zone 3,35-44,1,2003,Measles
+Zone:3,35-44,1,2003,Measles
 Kamphaeng Phet,35-44,1,2003,Measles
 Nakhon Sawan,35-44,0,2003,Measles
 Phichit,35-44,0,2003,Measles
 Uthai Thani,35-44,0,2003,Measles
 Central Region,35-44,19,2003,Measles
 Bangkok,35-44,2,2003,Measles
-Zone 4,35-44,1,2003,Measles
+Zone:4,35-44,1,2003,Measles
 Ang Thong,35-44,0,2003,Measles
 Nonthaburi,35-44,0,2003,Measles
 P.Nakhon S.Ayutthaya,35-44,0,2003,Measles
 Pathum Thani,35-44,1,2003,Measles
-Zone 5,35-44,5,2003,Measles
+Zone:5,35-44,5,2003,Measles
 Chai Nat,35-44,0,2003,Measles
 Lop Buri,35-44,1,2003,Measles
 Saraburi,35-44,4,2003,Measles
 Sing Buri,35-44,0,2003,Measles
-Zone 6,35-44,3,2003,Measles
+Zone:6,35-44,3,2003,Measles
 Kanchanaburi,35-44,0,2003,Measles
 Nakhon Pathom,35-44,0,2003,Measles
 Ratchaburi,35-44,2,2003,Measles
 Suphan Buri,35-44,1,2003,Measles
-Zone 7,35-44,1,2003,Measles
+Zone:7,35-44,1,2003,Measles
 Phetchaburi,35-44,0,2003,Measles
 Prachuap Khiri Khan,35-44,0,2003,Measles
 Samut Sakhon,35-44,1,2003,Measles
 Samut Songkhram,35-44,0,2003,Measles
-Zone 8,35-44,4,2003,Measles
+Zone:8,35-44,4,2003,Measles
 Chachoengsao,35-44,1,2003,Measles
 Nakhon Nayok,35-44,0,2003,Measles
 Prachin Buri,35-44,2,2003,Measles
 Sa Kaeo,35-44,0,2003,Measles
 Samut Prakan,35-44,1,2003,Measles
-Zone 9,35-44,3,2003,Measles
+Zone:9,35-44,3,2003,Measles
 Chanthaburi,35-44,1,2003,Measles
 Chon Buri,35-44,0,2003,Measles
 Rayong,35-44,1,2003,Measles
 Trat,35-44,1,2003,Measles
 North-Eastern Region,35-44,16,2003,Measles
-Zone 10,35-44,1,2003,Measles
+Zone:10,35-44,1,2003,Measles
 Loei,35-44,0,2003,Measles
 Nong Bua Lam Phu,35-44,0,2003,Measles
 Nong Khai,35-44,0,2003,Measles
 Udon Thani,35-44,1,2003,Measles
-Zone 11,35-44,0,2003,Measles
+Zone:11,35-44,0,2003,Measles
 Kalasin,35-44,0,2003,Measles
 Mukdahan,35-44,0,2003,Measles
 Nakhon Phanom,35-44,0,2003,Measles
 Sakon Nakhon,35-44,0,2003,Measles
-Zone 12,35-44,0,2003,Measles
+Zone:12,35-44,0,2003,Measles
 Khon Kaen,35-44,0,2003,Measles
 Maha Sarakham,35-44,0,2003,Measles
 Roi Et,35-44,0,2003,Measles
-Zone 13,35-44,10,2003,Measles
+Zone:13,35-44,10,2003,Measles
 Buri Ram,35-44,1,2003,Measles
 Chaiyaphum,35-44,1,2003,Measles
 Nakhon Ratchasima,35-44,3,2003,Measles
 Surin,35-44,5,2003,Measles
-Zone 14,35-44,5,2003,Measles
+Zone:14,35-44,5,2003,Measles
 Amnat Charoen,35-44,0,2003,Measles
 Si Sa Ket,35-44,2,2003,Measles
 Ubon Ratchathani,35-44,1,2003,Measles
 Yasothon,35-44,2,2003,Measles
 South Region,35-44,10,2003,Measles
-Zone 15,35-44,6,2003,Measles
+Zone:15,35-44,6,2003,Measles
 Chumphon,35-44,0,2003,Measles
 Ranong,35-44,0,2003,Measles
 Surat Thani,35-44,6,2003,Measles
-Zone 16,35-44,1,2003,Measles
+Zone:16,35-44,1,2003,Measles
 Nakhon Si Thammarat,35-44,1,2003,Measles
 Phatthalung,35-44,0,2003,Measles
 Trang,35-44,0,2003,Measles
-Zone 17,35-44,0,2003,Measles
+Zone:17,35-44,0,2003,Measles
 Krabi,35-44,0,2003,Measles
 Phangnga,35-44,0,2003,Measles
 Phuket,35-44,0,2003,Measles
-Zone 18,35-44,3,2003,Measles
+Zone:18,35-44,3,2003,Measles
 Narathiwat,35-44,0,2003,Measles
 Pattani,35-44,1,2003,Measles
 Yala,35-44,2,2003,Measles
-Zone 19,35-44,0,2003,Measles
+Zone:19,35-44,0,2003,Measles
 Satun,35-44,0,2003,Measles
 Songkhla,35-44,0,2003,Measles
 Total,45-54,33,2003,Measles
 North Region,45-54,5,2003,Measles
-Zone 1,45-54,3,2003,Measles
+Zone:1,45-54,3,2003,Measles
 Chiang Mai,45-54,2,2003,Measles
 Chiang Rai,45-54,1,2003,Measles
 Lampang,45-54,0,2003,Measles
@@ -27312,98 +27312,98 @@ Mae Hong Son,45-54,0,2003,Measles
 Nan,45-54,0,2003,Measles
 Phayao,45-54,0,2003,Measles
 Phrae,45-54,0,2003,Measles
-Zone 2,45-54,1,2003,Measles
+Zone:2,45-54,1,2003,Measles
 Phetchabun,45-54,1,2003,Measles
 Phitsanulok,45-54,0,2003,Measles
 Sukhothai,45-54,0,2003,Measles
 Tak,45-54,0,2003,Measles
 Uttaradit,45-54,0,2003,Measles
-Zone 3,45-54,1,2003,Measles
+Zone:3,45-54,1,2003,Measles
 Kamphaeng Phet,45-54,0,2003,Measles
 Nakhon Sawan,45-54,0,2003,Measles
 Phichit,45-54,1,2003,Measles
 Uthai Thani,45-54,0,2003,Measles
 Central Region,45-54,8,2003,Measles
 Bangkok,45-54,2,2003,Measles
-Zone 4,45-54,0,2003,Measles
+Zone:4,45-54,0,2003,Measles
 Ang Thong,45-54,0,2003,Measles
 Nonthaburi,45-54,0,2003,Measles
 P.Nakhon S.Ayutthaya,45-54,0,2003,Measles
 Pathum Thani,45-54,0,2003,Measles
-Zone 5,45-54,1,2003,Measles
+Zone:5,45-54,1,2003,Measles
 Chai Nat,45-54,0,2003,Measles
 Lop Buri,45-54,0,2003,Measles
 Saraburi,45-54,1,2003,Measles
 Sing Buri,45-54,0,2003,Measles
-Zone 6,45-54,2,2003,Measles
+Zone:6,45-54,2,2003,Measles
 Kanchanaburi,45-54,0,2003,Measles
 Nakhon Pathom,45-54,0,2003,Measles
 Ratchaburi,45-54,2,2003,Measles
 Suphan Buri,45-54,0,2003,Measles
-Zone 7,45-54,0,2003,Measles
+Zone:7,45-54,0,2003,Measles
 Phetchaburi,45-54,0,2003,Measles
 Prachuap Khiri Khan,45-54,0,2003,Measles
 Samut Sakhon,45-54,0,2003,Measles
 Samut Songkhram,45-54,0,2003,Measles
-Zone 8,45-54,2,2003,Measles
+Zone:8,45-54,2,2003,Measles
 Chachoengsao,45-54,0,2003,Measles
 Nakhon Nayok,45-54,1,2003,Measles
 Prachin Buri,45-54,0,2003,Measles
 Sa Kaeo,45-54,1,2003,Measles
 Samut Prakan,45-54,0,2003,Measles
-Zone 9,45-54,1,2003,Measles
+Zone:9,45-54,1,2003,Measles
 Chanthaburi,45-54,0,2003,Measles
 Chon Buri,45-54,1,2003,Measles
 Rayong,45-54,0,2003,Measles
 Trat,45-54,0,2003,Measles
 North-Eastern Region,45-54,9,2003,Measles
-Zone 10,45-54,1,2003,Measles
+Zone:10,45-54,1,2003,Measles
 Loei,45-54,0,2003,Measles
 Nong Bua Lam Phu,45-54,0,2003,Measles
 Nong Khai,45-54,1,2003,Measles
 Udon Thani,45-54,0,2003,Measles
-Zone 11,45-54,1,2003,Measles
+Zone:11,45-54,1,2003,Measles
 Kalasin,45-54,0,2003,Measles
 Mukdahan,45-54,1,2003,Measles
 Nakhon Phanom,45-54,0,2003,Measles
 Sakon Nakhon,45-54,0,2003,Measles
-Zone 12,45-54,0,2003,Measles
+Zone:12,45-54,0,2003,Measles
 Khon Kaen,45-54,0,2003,Measles
 Maha Sarakham,45-54,0,2003,Measles
 Roi Et,45-54,0,2003,Measles
-Zone 13,45-54,6,2003,Measles
+Zone:13,45-54,6,2003,Measles
 Buri Ram,45-54,1,2003,Measles
 Chaiyaphum,45-54,1,2003,Measles
 Nakhon Ratchasima,45-54,2,2003,Measles
 Surin,45-54,2,2003,Measles
-Zone 14,45-54,1,2003,Measles
+Zone:14,45-54,1,2003,Measles
 Amnat Charoen,45-54,0,2003,Measles
 Si Sa Ket,45-54,0,2003,Measles
 Ubon Ratchathani,45-54,0,2003,Measles
 Yasothon,45-54,1,2003,Measles
 South Region,45-54,11,2003,Measles
-Zone 15,45-54,8,2003,Measles
+Zone:15,45-54,8,2003,Measles
 Chumphon,45-54,0,2003,Measles
 Ranong,45-54,0,2003,Measles
 Surat Thani,45-54,8,2003,Measles
-Zone 16,45-54,0,2003,Measles
+Zone:16,45-54,0,2003,Measles
 Nakhon Si Thammarat,45-54,0,2003,Measles
 Phatthalung,45-54,0,2003,Measles
 Trang,45-54,0,2003,Measles
-Zone 17,45-54,0,2003,Measles
+Zone:17,45-54,0,2003,Measles
 Krabi,45-54,0,2003,Measles
 Phangnga,45-54,0,2003,Measles
 Phuket,45-54,0,2003,Measles
-Zone 18,45-54,2,2003,Measles
+Zone:18,45-54,2,2003,Measles
 Narathiwat,45-54,1,2003,Measles
 Pattani,45-54,0,2003,Measles
 Yala,45-54,1,2003,Measles
-Zone 19,45-54,1,2003,Measles
+Zone:19,45-54,1,2003,Measles
 Satun,45-54,1,2003,Measles
 Songkhla,45-54,0,2003,Measles
 Total,55-64,12,2003,Measles
 North Region,55-64,2,2003,Measles
-Zone 1,55-64,2,2003,Measles
+Zone:1,55-64,2,2003,Measles
 Chiang Mai,55-64,0,2003,Measles
 Chiang Rai,55-64,1,2003,Measles
 Lampang,55-64,0,2003,Measles
@@ -27412,98 +27412,98 @@ Mae Hong Son,55-64,0,2003,Measles
 Nan,55-64,1,2003,Measles
 Phayao,55-64,0,2003,Measles
 Phrae,55-64,0,2003,Measles
-Zone 2,55-64,0,2003,Measles
+Zone:2,55-64,0,2003,Measles
 Phetchabun,55-64,0,2003,Measles
 Phitsanulok,55-64,0,2003,Measles
 Sukhothai,55-64,0,2003,Measles
 Tak,55-64,0,2003,Measles
 Uttaradit,55-64,0,2003,Measles
-Zone 3,55-64,0,2003,Measles
+Zone:3,55-64,0,2003,Measles
 Kamphaeng Phet,55-64,0,2003,Measles
 Nakhon Sawan,55-64,0,2003,Measles
 Phichit,55-64,0,2003,Measles
 Uthai Thani,55-64,0,2003,Measles
 Central Region,55-64,3,2003,Measles
 Bangkok,55-64,0,2003,Measles
-Zone 4,55-64,1,2003,Measles
+Zone:4,55-64,1,2003,Measles
 Ang Thong,55-64,0,2003,Measles
 Nonthaburi,55-64,1,2003,Measles
 P.Nakhon S.Ayutthaya,55-64,0,2003,Measles
 Pathum Thani,55-64,0,2003,Measles
-Zone 5,55-64,1,2003,Measles
+Zone:5,55-64,1,2003,Measles
 Chai Nat,55-64,0,2003,Measles
 Lop Buri,55-64,0,2003,Measles
 Saraburi,55-64,1,2003,Measles
 Sing Buri,55-64,0,2003,Measles
-Zone 6,55-64,1,2003,Measles
+Zone:6,55-64,1,2003,Measles
 Kanchanaburi,55-64,0,2003,Measles
 Nakhon Pathom,55-64,0,2003,Measles
 Ratchaburi,55-64,1,2003,Measles
 Suphan Buri,55-64,0,2003,Measles
-Zone 7,55-64,0,2003,Measles
+Zone:7,55-64,0,2003,Measles
 Phetchaburi,55-64,0,2003,Measles
 Prachuap Khiri Khan,55-64,0,2003,Measles
 Samut Sakhon,55-64,0,2003,Measles
 Samut Songkhram,55-64,0,2003,Measles
-Zone 8,55-64,0,2003,Measles
+Zone:8,55-64,0,2003,Measles
 Chachoengsao,55-64,0,2003,Measles
 Nakhon Nayok,55-64,0,2003,Measles
 Prachin Buri,55-64,0,2003,Measles
 Sa Kaeo,55-64,0,2003,Measles
 Samut Prakan,55-64,0,2003,Measles
-Zone 9,55-64,0,2003,Measles
+Zone:9,55-64,0,2003,Measles
 Chanthaburi,55-64,0,2003,Measles
 Chon Buri,55-64,0,2003,Measles
 Rayong,55-64,0,2003,Measles
 Trat,55-64,0,2003,Measles
 North-Eastern Region,55-64,4,2003,Measles
-Zone 10,55-64,0,2003,Measles
+Zone:10,55-64,0,2003,Measles
 Loei,55-64,0,2003,Measles
 Nong Bua Lam Phu,55-64,0,2003,Measles
 Nong Khai,55-64,0,2003,Measles
 Udon Thani,55-64,0,2003,Measles
-Zone 11,55-64,1,2003,Measles
+Zone:11,55-64,1,2003,Measles
 Kalasin,55-64,0,2003,Measles
 Mukdahan,55-64,0,2003,Measles
 Nakhon Phanom,55-64,1,2003,Measles
 Sakon Nakhon,55-64,0,2003,Measles
-Zone 12,55-64,0,2003,Measles
+Zone:12,55-64,0,2003,Measles
 Khon Kaen,55-64,0,2003,Measles
 Maha Sarakham,55-64,0,2003,Measles
 Roi Et,55-64,0,2003,Measles
-Zone 13,55-64,3,2003,Measles
+Zone:13,55-64,3,2003,Measles
 Buri Ram,55-64,1,2003,Measles
 Chaiyaphum,55-64,0,2003,Measles
 Nakhon Ratchasima,55-64,0,2003,Measles
 Surin,55-64,2,2003,Measles
-Zone 14,55-64,0,2003,Measles
+Zone:14,55-64,0,2003,Measles
 Amnat Charoen,55-64,0,2003,Measles
 Si Sa Ket,55-64,0,2003,Measles
 Ubon Ratchathani,55-64,0,2003,Measles
 Yasothon,55-64,0,2003,Measles
 South Region,55-64,3,2003,Measles
-Zone 15,55-64,2,2003,Measles
+Zone:15,55-64,2,2003,Measles
 Chumphon,55-64,0,2003,Measles
 Ranong,55-64,0,2003,Measles
 Surat Thani,55-64,2,2003,Measles
-Zone 16,55-64,1,2003,Measles
+Zone:16,55-64,1,2003,Measles
 Nakhon Si Thammarat,55-64,1,2003,Measles
 Phatthalung,55-64,0,2003,Measles
 Trang,55-64,0,2003,Measles
-Zone 17,55-64,0,2003,Measles
+Zone:17,55-64,0,2003,Measles
 Krabi,55-64,0,2003,Measles
 Phangnga,55-64,0,2003,Measles
 Phuket,55-64,0,2003,Measles
-Zone 18,55-64,0,2003,Measles
+Zone:18,55-64,0,2003,Measles
 Narathiwat,55-64,0,2003,Measles
 Pattani,55-64,0,2003,Measles
 Yala,55-64,0,2003,Measles
-Zone 19,55-64,0,2003,Measles
+Zone:19,55-64,0,2003,Measles
 Satun,55-64,0,2003,Measles
 Songkhla,55-64,0,2003,Measles
 Total,65+,15,2003,Measles
 North Region,65+,10,2003,Measles
-Zone 1,65+,5,2003,Measles
+Zone:1,65+,5,2003,Measles
 Chiang Mai,65+,2,2003,Measles
 Chiang Rai,65+,1,2003,Measles
 Lampang,65+,1,2003,Measles
@@ -27512,98 +27512,98 @@ Mae Hong Son,65+,0,2003,Measles
 Nan,65+,0,2003,Measles
 Phayao,65+,0,2003,Measles
 Phrae,65+,0,2003,Measles
-Zone 2,65+,2,2003,Measles
+Zone:2,65+,2,2003,Measles
 Phetchabun,65+,0,2003,Measles
 Phitsanulok,65+,0,2003,Measles
 Sukhothai,65+,1,2003,Measles
 Tak,65+,1,2003,Measles
 Uttaradit,65+,0,2003,Measles
-Zone 3,65+,3,2003,Measles
+Zone:3,65+,3,2003,Measles
 Kamphaeng Phet,65+,0,2003,Measles
 Nakhon Sawan,65+,2,2003,Measles
 Phichit,65+,1,2003,Measles
 Uthai Thani,65+,0,2003,Measles
 Central Region,65+,2,2003,Measles
 Bangkok,65+,1,2003,Measles
-Zone 4,65+,0,2003,Measles
+Zone:4,65+,0,2003,Measles
 Ang Thong,65+,0,2003,Measles
 Nonthaburi,65+,0,2003,Measles
 P.Nakhon S.Ayutthaya,65+,0,2003,Measles
 Pathum Thani,65+,0,2003,Measles
-Zone 5,65+,0,2003,Measles
+Zone:5,65+,0,2003,Measles
 Chai Nat,65+,0,2003,Measles
 Lop Buri,65+,0,2003,Measles
 Saraburi,65+,0,2003,Measles
 Sing Buri,65+,0,2003,Measles
-Zone 6,65+,0,2003,Measles
+Zone:6,65+,0,2003,Measles
 Kanchanaburi,65+,0,2003,Measles
 Nakhon Pathom,65+,0,2003,Measles
 Ratchaburi,65+,0,2003,Measles
 Suphan Buri,65+,0,2003,Measles
-Zone 7,65+,0,2003,Measles
+Zone:7,65+,0,2003,Measles
 Phetchaburi,65+,0,2003,Measles
 Prachuap Khiri Khan,65+,0,2003,Measles
 Samut Sakhon,65+,0,2003,Measles
 Samut Songkhram,65+,0,2003,Measles
-Zone 8,65+,0,2003,Measles
+Zone:8,65+,0,2003,Measles
 Chachoengsao,65+,0,2003,Measles
 Nakhon Nayok,65+,0,2003,Measles
 Prachin Buri,65+,0,2003,Measles
 Sa Kaeo,65+,0,2003,Measles
 Samut Prakan,65+,0,2003,Measles
-Zone 9,65+,1,2003,Measles
+Zone:9,65+,1,2003,Measles
 Chanthaburi,65+,1,2003,Measles
 Chon Buri,65+,0,2003,Measles
 Rayong,65+,0,2003,Measles
 Trat,65+,0,2003,Measles
 North-Eastern Region,65+,0,2003,Measles
-Zone 10,65+,0,2003,Measles
+Zone:10,65+,0,2003,Measles
 Loei,65+,0,2003,Measles
 Nong Bua Lam Phu,65+,0,2003,Measles
 Nong Khai,65+,0,2003,Measles
 Udon Thani,65+,0,2003,Measles
-Zone 11,65+,0,2003,Measles
+Zone:11,65+,0,2003,Measles
 Kalasin,65+,0,2003,Measles
 Mukdahan,65+,0,2003,Measles
 Nakhon Phanom,65+,0,2003,Measles
 Sakon Nakhon,65+,0,2003,Measles
-Zone 12,65+,0,2003,Measles
+Zone:12,65+,0,2003,Measles
 Khon Kaen,65+,0,2003,Measles
 Maha Sarakham,65+,0,2003,Measles
 Roi Et,65+,0,2003,Measles
-Zone 13,65+,0,2003,Measles
+Zone:13,65+,0,2003,Measles
 Buri Ram,65+,0,2003,Measles
 Chaiyaphum,65+,0,2003,Measles
 Nakhon Ratchasima,65+,0,2003,Measles
 Surin,65+,0,2003,Measles
-Zone 14,65+,0,2003,Measles
+Zone:14,65+,0,2003,Measles
 Amnat Charoen,65+,0,2003,Measles
 Si Sa Ket,65+,0,2003,Measles
 Ubon Ratchathani,65+,0,2003,Measles
 Yasothon,65+,0,2003,Measles
 South Region,65+,3,2003,Measles
-Zone 15,65+,1,2003,Measles
+Zone:15,65+,1,2003,Measles
 Chumphon,65+,0,2003,Measles
 Ranong,65+,0,2003,Measles
 Surat Thani,65+,1,2003,Measles
-Zone 16,65+,1,2003,Measles
+Zone:16,65+,1,2003,Measles
 Nakhon Si Thammarat,65+,1,2003,Measles
 Phatthalung,65+,0,2003,Measles
 Trang,65+,0,2003,Measles
-Zone 17,65+,0,2003,Measles
+Zone:17,65+,0,2003,Measles
 Krabi,65+,0,2003,Measles
 Phangnga,65+,0,2003,Measles
 Phuket,65+,0,2003,Measles
-Zone 18,65+,0,2003,Measles
+Zone:18,65+,0,2003,Measles
 Narathiwat,65+,0,2003,Measles
 Pattani,65+,0,2003,Measles
 Yala,65+,0,2003,Measles
-Zone 19,65+,1,2003,Measles
+Zone:19,65+,1,2003,Measles
 Satun,65+,0,2003,Measles
 Songkhla,65+,1,2003,Measles
 Total,Unknown,2,2003,Measles
 North Region,Unknown,0,2003,Measles
-Zone 1,Unknown,0,2003,Measles
+Zone:1,Unknown,0,2003,Measles
 Chiang Mai,Unknown,0,2003,Measles
 Chiang Rai,Unknown,0,2003,Measles
 Lampang,Unknown,0,2003,Measles
@@ -27612,93 +27612,93 @@ Mae Hong Son,Unknown,0,2003,Measles
 Nan,Unknown,0,2003,Measles
 Phayao,Unknown,0,2003,Measles
 Phrae,Unknown,0,2003,Measles
-Zone 2,Unknown,0,2003,Measles
+Zone:2,Unknown,0,2003,Measles
 Phetchabun,Unknown,0,2003,Measles
 Phitsanulok,Unknown,0,2003,Measles
 Sukhothai,Unknown,0,2003,Measles
 Tak,Unknown,0,2003,Measles
 Uttaradit,Unknown,0,2003,Measles
-Zone 3,Unknown,0,2003,Measles
+Zone:3,Unknown,0,2003,Measles
 Kamphaeng Phet,Unknown,0,2003,Measles
 Nakhon Sawan,Unknown,0,2003,Measles
 Phichit,Unknown,0,2003,Measles
 Uthai Thani,Unknown,0,2003,Measles
 Central Region,Unknown,2,2003,Measles
 Bangkok,Unknown,2,2003,Measles
-Zone 4,Unknown,0,2003,Measles
+Zone:4,Unknown,0,2003,Measles
 Ang Thong,Unknown,0,2003,Measles
 Nonthaburi,Unknown,0,2003,Measles
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Measles
 Pathum Thani,Unknown,0,2003,Measles
-Zone 5,Unknown,0,2003,Measles
+Zone:5,Unknown,0,2003,Measles
 Chai Nat,Unknown,0,2003,Measles
 Lop Buri,Unknown,0,2003,Measles
 Saraburi,Unknown,0,2003,Measles
 Sing Buri,Unknown,0,2003,Measles
-Zone 6,Unknown,0,2003,Measles
+Zone:6,Unknown,0,2003,Measles
 Kanchanaburi,Unknown,0,2003,Measles
 Nakhon Pathom,Unknown,0,2003,Measles
 Ratchaburi,Unknown,0,2003,Measles
 Suphan Buri,Unknown,0,2003,Measles
-Zone 7,Unknown,0,2003,Measles
+Zone:7,Unknown,0,2003,Measles
 Phetchaburi,Unknown,0,2003,Measles
 Prachuap Khiri Khan,Unknown,0,2003,Measles
 Samut Sakhon,Unknown,0,2003,Measles
 Samut Songkhram,Unknown,0,2003,Measles
-Zone 8,Unknown,0,2003,Measles
+Zone:8,Unknown,0,2003,Measles
 Chachoengsao,Unknown,0,2003,Measles
 Nakhon Nayok,Unknown,0,2003,Measles
 Prachin Buri,Unknown,0,2003,Measles
 Sa Kaeo,Unknown,0,2003,Measles
 Samut Prakan,Unknown,0,2003,Measles
-Zone 9,Unknown,0,2003,Measles
+Zone:9,Unknown,0,2003,Measles
 Chanthaburi,Unknown,0,2003,Measles
 Chon Buri,Unknown,0,2003,Measles
 Rayong,Unknown,0,2003,Measles
 Trat,Unknown,0,2003,Measles
 North-Eastern Region,Unknown,0,2003,Measles
-Zone 10,Unknown,0,2003,Measles
+Zone:10,Unknown,0,2003,Measles
 Loei,Unknown,0,2003,Measles
 Nong Bua Lam Phu,Unknown,0,2003,Measles
 Nong Khai,Unknown,0,2003,Measles
 Udon Thani,Unknown,0,2003,Measles
-Zone 11,Unknown,0,2003,Measles
+Zone:11,Unknown,0,2003,Measles
 Kalasin,Unknown,0,2003,Measles
 Mukdahan,Unknown,0,2003,Measles
 Nakhon Phanom,Unknown,0,2003,Measles
 Sakon Nakhon,Unknown,0,2003,Measles
-Zone 12,Unknown,0,2003,Measles
+Zone:12,Unknown,0,2003,Measles
 Khon Kaen,Unknown,0,2003,Measles
 Maha Sarakham,Unknown,0,2003,Measles
 Roi Et,Unknown,0,2003,Measles
-Zone 13,Unknown,0,2003,Measles
+Zone:13,Unknown,0,2003,Measles
 Buri Ram,Unknown,0,2003,Measles
 Chaiyaphum,Unknown,0,2003,Measles
 Nakhon Ratchasima,Unknown,0,2003,Measles
 Surin,Unknown,0,2003,Measles
-Zone 14,Unknown,0,2003,Measles
+Zone:14,Unknown,0,2003,Measles
 Amnat Charoen,Unknown,0,2003,Measles
 Si Sa Ket,Unknown,0,2003,Measles
 Ubon Ratchathani,Unknown,0,2003,Measles
 Yasothon,Unknown,0,2003,Measles
 South Region,Unknown,0,2003,Measles
-Zone 15,Unknown,0,2003,Measles
+Zone:15,Unknown,0,2003,Measles
 Chumphon,Unknown,0,2003,Measles
 Ranong,Unknown,0,2003,Measles
 Surat Thani,Unknown,0,2003,Measles
-Zone 16,Unknown,0,2003,Measles
+Zone:16,Unknown,0,2003,Measles
 Nakhon Si Thammarat,Unknown,0,2003,Measles
 Phatthalung,Unknown,0,2003,Measles
 Trang,Unknown,0,2003,Measles
-Zone 17,Unknown,0,2003,Measles
+Zone:17,Unknown,0,2003,Measles
 Krabi,Unknown,0,2003,Measles
 Phangnga,Unknown,0,2003,Measles
 Phuket,Unknown,0,2003,Measles
-Zone 18,Unknown,0,2003,Measles
+Zone:18,Unknown,0,2003,Measles
 Narathiwat,Unknown,0,2003,Measles
 Pattani,Unknown,0,2003,Measles
 Yala,Unknown,0,2003,Measles
-Zone 19,Unknown,0,2003,Measles
+Zone:19,Unknown,0,2003,Measles
 Satun,Unknown,0,2003,Measles
 Songkhla,Unknown,0,2003,Measles
 Total,Total,2302,2010,Measles

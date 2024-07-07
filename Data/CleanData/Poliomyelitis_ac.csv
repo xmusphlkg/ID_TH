@@ -11827,7 +11827,7 @@ ZONE:13,Unknown,0,2017,Polio
 Bangkok,Unknown,0,2017,Polio
 Total,Total,0,2003,Polio
 North Region,Total,0,2003,Polio
-Zone 1,Total,0,2003,Polio
+Zone:1,Total,0,2003,Polio
 Chiang Mai,Total,0,2003,Polio
 Chiang Rai,Total,0,2003,Polio
 Lampang,Total,0,2003,Polio
@@ -11836,98 +11836,98 @@ Mae Hong Son,Total,0,2003,Polio
 Nan,Total,0,2003,Polio
 Phayao,Total,0,2003,Polio
 Phrae,Total,0,2003,Polio
-Zone 2,Total,0,2003,Polio
+Zone:2,Total,0,2003,Polio
 Phetchabun,Total,0,2003,Polio
 Phitsanulok,Total,0,2003,Polio
 Sukhothai,Total,0,2003,Polio
 Tak,Total,0,2003,Polio
 Uttaradit,Total,0,2003,Polio
-Zone 3,Total,0,2003,Polio
+Zone:3,Total,0,2003,Polio
 Kamphaeng Phet,Total,0,2003,Polio
 Nakhon Sawan,Total,0,2003,Polio
 Phichit,Total,0,2003,Polio
 Uthai Thani,Total,0,2003,Polio
 Central Region,Total,0,2003,Polio
 Bangkok,Total,0,2003,Polio
-Zone 4,Total,0,2003,Polio
+Zone:4,Total,0,2003,Polio
 Ang Thong,Total,0,2003,Polio
 Nonthaburi,Total,0,2003,Polio
 P.Nakhon S.Ayutthaya,Total,0,2003,Polio
 Pathum Thani,Total,0,2003,Polio
-Zone 5,Total,0,2003,Polio
+Zone:5,Total,0,2003,Polio
 Chai Nat,Total,0,2003,Polio
 Lop Buri,Total,0,2003,Polio
 Saraburi,Total,0,2003,Polio
 Sing Buri,Total,0,2003,Polio
-Zone 6,Total,0,2003,Polio
+Zone:6,Total,0,2003,Polio
 Kanchanaburi,Total,0,2003,Polio
 Nakhon Pathom,Total,0,2003,Polio
 Ratchaburi,Total,0,2003,Polio
 Suphan Buri,Total,0,2003,Polio
-Zone 7,Total,0,2003,Polio
+Zone:7,Total,0,2003,Polio
 Phetchaburi,Total,0,2003,Polio
 Prachuap Khiri Khan,Total,0,2003,Polio
 Samut Sakhon,Total,0,2003,Polio
 Samut Songkhram,Total,0,2003,Polio
-Zone 8,Total,0,2003,Polio
+Zone:8,Total,0,2003,Polio
 Chachoengsao,Total,0,2003,Polio
 Nakhon Nayok,Total,0,2003,Polio
 Prachin Buri,Total,0,2003,Polio
 Sa Kaeo,Total,0,2003,Polio
 Samut Prakan,Total,0,2003,Polio
-Zone 9,Total,0,2003,Polio
+Zone:9,Total,0,2003,Polio
 Chanthaburi,Total,0,2003,Polio
 Chon Buri,Total,0,2003,Polio
 Rayong,Total,0,2003,Polio
 Trat,Total,0,2003,Polio
 North-Eastern Region,Total,0,2003,Polio
-Zone 10,Total,0,2003,Polio
+Zone:10,Total,0,2003,Polio
 Loei,Total,0,2003,Polio
 Nong Bua Lam Phu,Total,0,2003,Polio
 Nong Khai,Total,0,2003,Polio
 Udon Thani,Total,0,2003,Polio
-Zone 11,Total,0,2003,Polio
+Zone:11,Total,0,2003,Polio
 Kalasin,Total,0,2003,Polio
 Mukdahan,Total,0,2003,Polio
 Nakhon Phanom,Total,0,2003,Polio
 Sakon Nakhon,Total,0,2003,Polio
-Zone 12,Total,0,2003,Polio
+Zone:12,Total,0,2003,Polio
 Khon Kaen,Total,0,2003,Polio
 Maha Sarakham,Total,0,2003,Polio
 Roi Et,Total,0,2003,Polio
-Zone 13,Total,0,2003,Polio
+Zone:13,Total,0,2003,Polio
 Buri Ram,Total,0,2003,Polio
 Chaiyaphum,Total,0,2003,Polio
 Nakhon Ratchasima,Total,0,2003,Polio
 Surin,Total,0,2003,Polio
-Zone 14,Total,0,2003,Polio
+Zone:14,Total,0,2003,Polio
 Amnat Charoen,Total,0,2003,Polio
 Si Sa Ket,Total,0,2003,Polio
 Ubon Ratchathani,Total,0,2003,Polio
 Yasothon,Total,0,2003,Polio
 South Region,Total,0,2003,Polio
-Zone 15,Total,0,2003,Polio
+Zone:15,Total,0,2003,Polio
 Chumphon,Total,0,2003,Polio
 Ranong,Total,0,2003,Polio
 Surat Thani,Total,0,2003,Polio
-Zone 16,Total,0,2003,Polio
+Zone:16,Total,0,2003,Polio
 Nakhon Si Thammarat,Total,0,2003,Polio
 Phatthalung,Total,0,2003,Polio
 Trang,Total,0,2003,Polio
-Zone 17,Total,0,2003,Polio
+Zone:17,Total,0,2003,Polio
 Krabi,Total,0,2003,Polio
 Phangnga,Total,0,2003,Polio
 Phuket,Total,0,2003,Polio
-Zone 18,Total,0,2003,Polio
+Zone:18,Total,0,2003,Polio
 Narathiwat,Total,0,2003,Polio
 Pattani,Total,0,2003,Polio
 Yala,Total,0,2003,Polio
-Zone 19,Total,0,2003,Polio
+Zone:19,Total,0,2003,Polio
 Satun,Total,0,2003,Polio
 Songkhla,Total,0,2003,Polio
 Total,0,0,2003,Polio
 North Region,0,0,2003,Polio
-Zone 1,0,0,2003,Polio
+Zone:1,0,0,2003,Polio
 Chiang Mai,0,0,2003,Polio
 Chiang Rai,0,0,2003,Polio
 Lampang,0,0,2003,Polio
@@ -11936,98 +11936,98 @@ Mae Hong Son,0,0,2003,Polio
 Nan,0,0,2003,Polio
 Phayao,0,0,2003,Polio
 Phrae,0,0,2003,Polio
-Zone 2,0,0,2003,Polio
+Zone:2,0,0,2003,Polio
 Phetchabun,0,0,2003,Polio
 Phitsanulok,0,0,2003,Polio
 Sukhothai,0,0,2003,Polio
 Tak,0,0,2003,Polio
 Uttaradit,0,0,2003,Polio
-Zone 3,0,0,2003,Polio
+Zone:3,0,0,2003,Polio
 Kamphaeng Phet,0,0,2003,Polio
 Nakhon Sawan,0,0,2003,Polio
 Phichit,0,0,2003,Polio
 Uthai Thani,0,0,2003,Polio
 Central Region,0,0,2003,Polio
 Bangkok,0,0,2003,Polio
-Zone 4,0,0,2003,Polio
+Zone:4,0,0,2003,Polio
 Ang Thong,0,0,2003,Polio
 Nonthaburi,0,0,2003,Polio
 P.Nakhon S.Ayutthaya,0,0,2003,Polio
 Pathum Thani,0,0,2003,Polio
-Zone 5,0,0,2003,Polio
+Zone:5,0,0,2003,Polio
 Chai Nat,0,0,2003,Polio
 Lop Buri,0,0,2003,Polio
 Saraburi,0,0,2003,Polio
 Sing Buri,0,0,2003,Polio
-Zone 6,0,0,2003,Polio
+Zone:6,0,0,2003,Polio
 Kanchanaburi,0,0,2003,Polio
 Nakhon Pathom,0,0,2003,Polio
 Ratchaburi,0,0,2003,Polio
 Suphan Buri,0,0,2003,Polio
-Zone 7,0,0,2003,Polio
+Zone:7,0,0,2003,Polio
 Phetchaburi,0,0,2003,Polio
 Prachuap Khiri Khan,0,0,2003,Polio
 Samut Sakhon,0,0,2003,Polio
 Samut Songkhram,0,0,2003,Polio
-Zone 8,0,0,2003,Polio
+Zone:8,0,0,2003,Polio
 Chachoengsao,0,0,2003,Polio
 Nakhon Nayok,0,0,2003,Polio
 Prachin Buri,0,0,2003,Polio
 Sa Kaeo,0,0,2003,Polio
 Samut Prakan,0,0,2003,Polio
-Zone 9,0,0,2003,Polio
+Zone:9,0,0,2003,Polio
 Chanthaburi,0,0,2003,Polio
 Chon Buri,0,0,2003,Polio
 Rayong,0,0,2003,Polio
 Trat,0,0,2003,Polio
 North-Eastern Region,0,0,2003,Polio
-Zone 10,0,0,2003,Polio
+Zone:10,0,0,2003,Polio
 Loei,0,0,2003,Polio
 Nong Bua Lam Phu,0,0,2003,Polio
 Nong Khai,0,0,2003,Polio
 Udon Thani,0,0,2003,Polio
-Zone 11,0,0,2003,Polio
+Zone:11,0,0,2003,Polio
 Kalasin,0,0,2003,Polio
 Mukdahan,0,0,2003,Polio
 Nakhon Phanom,0,0,2003,Polio
 Sakon Nakhon,0,0,2003,Polio
-Zone 12,0,0,2003,Polio
+Zone:12,0,0,2003,Polio
 Khon Kaen,0,0,2003,Polio
 Maha Sarakham,0,0,2003,Polio
 Roi Et,0,0,2003,Polio
-Zone 13,0,0,2003,Polio
+Zone:13,0,0,2003,Polio
 Buri Ram,0,0,2003,Polio
 Chaiyaphum,0,0,2003,Polio
 Nakhon Ratchasima,0,0,2003,Polio
 Surin,0,0,2003,Polio
-Zone 14,0,0,2003,Polio
+Zone:14,0,0,2003,Polio
 Amnat Charoen,0,0,2003,Polio
 Si Sa Ket,0,0,2003,Polio
 Ubon Ratchathani,0,0,2003,Polio
 Yasothon,0,0,2003,Polio
 South Region,0,0,2003,Polio
-Zone 15,0,0,2003,Polio
+Zone:15,0,0,2003,Polio
 Chumphon,0,0,2003,Polio
 Ranong,0,0,2003,Polio
 Surat Thani,0,0,2003,Polio
-Zone 16,0,0,2003,Polio
+Zone:16,0,0,2003,Polio
 Nakhon Si Thammarat,0,0,2003,Polio
 Phatthalung,0,0,2003,Polio
 Trang,0,0,2003,Polio
-Zone 17,0,0,2003,Polio
+Zone:17,0,0,2003,Polio
 Krabi,0,0,2003,Polio
 Phangnga,0,0,2003,Polio
 Phuket,0,0,2003,Polio
-Zone 18,0,0,2003,Polio
+Zone:18,0,0,2003,Polio
 Narathiwat,0,0,2003,Polio
 Pattani,0,0,2003,Polio
 Yala,0,0,2003,Polio
-Zone 19,0,0,2003,Polio
+Zone:19,0,0,2003,Polio
 Satun,0,0,2003,Polio
 Songkhla,0,0,2003,Polio
 Total,<1,0,2003,Polio
 North Region,<1,0,2003,Polio
-Zone 1,<1,0,2003,Polio
+Zone:1,<1,0,2003,Polio
 Chiang Mai,<1,0,2003,Polio
 Chiang Rai,<1,0,2003,Polio
 Lampang,<1,0,2003,Polio
@@ -12036,98 +12036,98 @@ Mae Hong Son,<1,0,2003,Polio
 Nan,<1,0,2003,Polio
 Phayao,<1,0,2003,Polio
 Phrae,<1,0,2003,Polio
-Zone 2,<1,0,2003,Polio
+Zone:2,<1,0,2003,Polio
 Phetchabun,<1,0,2003,Polio
 Phitsanulok,<1,0,2003,Polio
 Sukhothai,<1,0,2003,Polio
 Tak,<1,0,2003,Polio
 Uttaradit,<1,0,2003,Polio
-Zone 3,<1,0,2003,Polio
+Zone:3,<1,0,2003,Polio
 Kamphaeng Phet,<1,0,2003,Polio
 Nakhon Sawan,<1,0,2003,Polio
 Phichit,<1,0,2003,Polio
 Uthai Thani,<1,0,2003,Polio
 Central Region,<1,0,2003,Polio
 Bangkok,<1,0,2003,Polio
-Zone 4,<1,0,2003,Polio
+Zone:4,<1,0,2003,Polio
 Ang Thong,<1,0,2003,Polio
 Nonthaburi,<1,0,2003,Polio
 P.Nakhon S.Ayutthaya,<1,0,2003,Polio
 Pathum Thani,<1,0,2003,Polio
-Zone 5,<1,0,2003,Polio
+Zone:5,<1,0,2003,Polio
 Chai Nat,<1,0,2003,Polio
 Lop Buri,<1,0,2003,Polio
 Saraburi,<1,0,2003,Polio
 Sing Buri,<1,0,2003,Polio
-Zone 6,<1,0,2003,Polio
+Zone:6,<1,0,2003,Polio
 Kanchanaburi,<1,0,2003,Polio
 Nakhon Pathom,<1,0,2003,Polio
 Ratchaburi,<1,0,2003,Polio
 Suphan Buri,<1,0,2003,Polio
-Zone 7,<1,0,2003,Polio
+Zone:7,<1,0,2003,Polio
 Phetchaburi,<1,0,2003,Polio
 Prachuap Khiri Khan,<1,0,2003,Polio
 Samut Sakhon,<1,0,2003,Polio
 Samut Songkhram,<1,0,2003,Polio
-Zone 8,<1,0,2003,Polio
+Zone:8,<1,0,2003,Polio
 Chachoengsao,<1,0,2003,Polio
 Nakhon Nayok,<1,0,2003,Polio
 Prachin Buri,<1,0,2003,Polio
 Sa Kaeo,<1,0,2003,Polio
 Samut Prakan,<1,0,2003,Polio
-Zone 9,<1,0,2003,Polio
+Zone:9,<1,0,2003,Polio
 Chanthaburi,<1,0,2003,Polio
 Chon Buri,<1,0,2003,Polio
 Rayong,<1,0,2003,Polio
 Trat,<1,0,2003,Polio
 North-Eastern Region,<1,0,2003,Polio
-Zone 10,<1,0,2003,Polio
+Zone:10,<1,0,2003,Polio
 Loei,<1,0,2003,Polio
 Nong Bua Lam Phu,<1,0,2003,Polio
 Nong Khai,<1,0,2003,Polio
 Udon Thani,<1,0,2003,Polio
-Zone 11,<1,0,2003,Polio
+Zone:11,<1,0,2003,Polio
 Kalasin,<1,0,2003,Polio
 Mukdahan,<1,0,2003,Polio
 Nakhon Phanom,<1,0,2003,Polio
 Sakon Nakhon,<1,0,2003,Polio
-Zone 12,<1,0,2003,Polio
+Zone:12,<1,0,2003,Polio
 Khon Kaen,<1,0,2003,Polio
 Maha Sarakham,<1,0,2003,Polio
 Roi Et,<1,0,2003,Polio
-Zone 13,<1,0,2003,Polio
+Zone:13,<1,0,2003,Polio
 Buri Ram,<1,0,2003,Polio
 Chaiyaphum,<1,0,2003,Polio
 Nakhon Ratchasima,<1,0,2003,Polio
 Surin,<1,0,2003,Polio
-Zone 14,<1,0,2003,Polio
+Zone:14,<1,0,2003,Polio
 Amnat Charoen,<1,0,2003,Polio
 Si Sa Ket,<1,0,2003,Polio
 Ubon Ratchathani,<1,0,2003,Polio
 Yasothon,<1,0,2003,Polio
 South Region,<1,0,2003,Polio
-Zone 15,<1,0,2003,Polio
+Zone:15,<1,0,2003,Polio
 Chumphon,<1,0,2003,Polio
 Ranong,<1,0,2003,Polio
 Surat Thani,<1,0,2003,Polio
-Zone 16,<1,0,2003,Polio
+Zone:16,<1,0,2003,Polio
 Nakhon Si Thammarat,<1,0,2003,Polio
 Phatthalung,<1,0,2003,Polio
 Trang,<1,0,2003,Polio
-Zone 17,<1,0,2003,Polio
+Zone:17,<1,0,2003,Polio
 Krabi,<1,0,2003,Polio
 Phangnga,<1,0,2003,Polio
 Phuket,<1,0,2003,Polio
-Zone 18,<1,0,2003,Polio
+Zone:18,<1,0,2003,Polio
 Narathiwat,<1,0,2003,Polio
 Pattani,<1,0,2003,Polio
 Yala,<1,0,2003,Polio
-Zone 19,<1,0,2003,Polio
+Zone:19,<1,0,2003,Polio
 Satun,<1,0,2003,Polio
 Songkhla,<1,0,2003,Polio
 Total,1-1,0,2003,Polio
 North Region,1-1,0,2003,Polio
-Zone 1,1-1,0,2003,Polio
+Zone:1,1-1,0,2003,Polio
 Chiang Mai,1-1,0,2003,Polio
 Chiang Rai,1-1,0,2003,Polio
 Lampang,1-1,0,2003,Polio
@@ -12136,98 +12136,98 @@ Mae Hong Son,1-1,0,2003,Polio
 Nan,1-1,0,2003,Polio
 Phayao,1-1,0,2003,Polio
 Phrae,1-1,0,2003,Polio
-Zone 2,1-1,0,2003,Polio
+Zone:2,1-1,0,2003,Polio
 Phetchabun,1-1,0,2003,Polio
 Phitsanulok,1-1,0,2003,Polio
 Sukhothai,1-1,0,2003,Polio
 Tak,1-1,0,2003,Polio
 Uttaradit,1-1,0,2003,Polio
-Zone 3,1-1,0,2003,Polio
+Zone:3,1-1,0,2003,Polio
 Kamphaeng Phet,1-1,0,2003,Polio
 Nakhon Sawan,1-1,0,2003,Polio
 Phichit,1-1,0,2003,Polio
 Uthai Thani,1-1,0,2003,Polio
 Central Region,1-1,0,2003,Polio
 Bangkok,1-1,0,2003,Polio
-Zone 4,1-1,0,2003,Polio
+Zone:4,1-1,0,2003,Polio
 Ang Thong,1-1,0,2003,Polio
 Nonthaburi,1-1,0,2003,Polio
 P.Nakhon S.Ayutthaya,1-1,0,2003,Polio
 Pathum Thani,1-1,0,2003,Polio
-Zone 5,1-1,0,2003,Polio
+Zone:5,1-1,0,2003,Polio
 Chai Nat,1-1,0,2003,Polio
 Lop Buri,1-1,0,2003,Polio
 Saraburi,1-1,0,2003,Polio
 Sing Buri,1-1,0,2003,Polio
-Zone 6,1-1,0,2003,Polio
+Zone:6,1-1,0,2003,Polio
 Kanchanaburi,1-1,0,2003,Polio
 Nakhon Pathom,1-1,0,2003,Polio
 Ratchaburi,1-1,0,2003,Polio
 Suphan Buri,1-1,0,2003,Polio
-Zone 7,1-1,0,2003,Polio
+Zone:7,1-1,0,2003,Polio
 Phetchaburi,1-1,0,2003,Polio
 Prachuap Khiri Khan,1-1,0,2003,Polio
 Samut Sakhon,1-1,0,2003,Polio
 Samut Songkhram,1-1,0,2003,Polio
-Zone 8,1-1,0,2003,Polio
+Zone:8,1-1,0,2003,Polio
 Chachoengsao,1-1,0,2003,Polio
 Nakhon Nayok,1-1,0,2003,Polio
 Prachin Buri,1-1,0,2003,Polio
 Sa Kaeo,1-1,0,2003,Polio
 Samut Prakan,1-1,0,2003,Polio
-Zone 9,1-1,0,2003,Polio
+Zone:9,1-1,0,2003,Polio
 Chanthaburi,1-1,0,2003,Polio
 Chon Buri,1-1,0,2003,Polio
 Rayong,1-1,0,2003,Polio
 Trat,1-1,0,2003,Polio
 North-Eastern Region,1-1,0,2003,Polio
-Zone 10,1-1,0,2003,Polio
+Zone:10,1-1,0,2003,Polio
 Loei,1-1,0,2003,Polio
 Nong Bua Lam Phu,1-1,0,2003,Polio
 Nong Khai,1-1,0,2003,Polio
 Udon Thani,1-1,0,2003,Polio
-Zone 11,1-1,0,2003,Polio
+Zone:11,1-1,0,2003,Polio
 Kalasin,1-1,0,2003,Polio
 Mukdahan,1-1,0,2003,Polio
 Nakhon Phanom,1-1,0,2003,Polio
 Sakon Nakhon,1-1,0,2003,Polio
-Zone 12,1-1,0,2003,Polio
+Zone:12,1-1,0,2003,Polio
 Khon Kaen,1-1,0,2003,Polio
 Maha Sarakham,1-1,0,2003,Polio
 Roi Et,1-1,0,2003,Polio
-Zone 13,1-1,0,2003,Polio
+Zone:13,1-1,0,2003,Polio
 Buri Ram,1-1,0,2003,Polio
 Chaiyaphum,1-1,0,2003,Polio
 Nakhon Ratchasima,1-1,0,2003,Polio
 Surin,1-1,0,2003,Polio
-Zone 14,1-1,0,2003,Polio
+Zone:14,1-1,0,2003,Polio
 Amnat Charoen,1-1,0,2003,Polio
 Si Sa Ket,1-1,0,2003,Polio
 Ubon Ratchathani,1-1,0,2003,Polio
 Yasothon,1-1,0,2003,Polio
 South Region,1-1,0,2003,Polio
-Zone 15,1-1,0,2003,Polio
+Zone:15,1-1,0,2003,Polio
 Chumphon,1-1,0,2003,Polio
 Ranong,1-1,0,2003,Polio
 Surat Thani,1-1,0,2003,Polio
-Zone 16,1-1,0,2003,Polio
+Zone:16,1-1,0,2003,Polio
 Nakhon Si Thammarat,1-1,0,2003,Polio
 Phatthalung,1-1,0,2003,Polio
 Trang,1-1,0,2003,Polio
-Zone 17,1-1,0,2003,Polio
+Zone:17,1-1,0,2003,Polio
 Krabi,1-1,0,2003,Polio
 Phangnga,1-1,0,2003,Polio
 Phuket,1-1,0,2003,Polio
-Zone 18,1-1,0,2003,Polio
+Zone:18,1-1,0,2003,Polio
 Narathiwat,1-1,0,2003,Polio
 Pattani,1-1,0,2003,Polio
 Yala,1-1,0,2003,Polio
-Zone 19,1-1,0,2003,Polio
+Zone:19,1-1,0,2003,Polio
 Satun,1-1,0,2003,Polio
 Songkhla,1-1,0,2003,Polio
 Total,2-2,0,2003,Polio
 North Region,2-2,0,2003,Polio
-Zone 1,2-2,0,2003,Polio
+Zone:1,2-2,0,2003,Polio
 Chiang Mai,2-2,0,2003,Polio
 Chiang Rai,2-2,0,2003,Polio
 Lampang,2-2,0,2003,Polio
@@ -12236,98 +12236,98 @@ Mae Hong Son,2-2,0,2003,Polio
 Nan,2-2,0,2003,Polio
 Phayao,2-2,0,2003,Polio
 Phrae,2-2,0,2003,Polio
-Zone 2,2-2,0,2003,Polio
+Zone:2,2-2,0,2003,Polio
 Phetchabun,2-2,0,2003,Polio
 Phitsanulok,2-2,0,2003,Polio
 Sukhothai,2-2,0,2003,Polio
 Tak,2-2,0,2003,Polio
 Uttaradit,2-2,0,2003,Polio
-Zone 3,2-2,0,2003,Polio
+Zone:3,2-2,0,2003,Polio
 Kamphaeng Phet,2-2,0,2003,Polio
 Nakhon Sawan,2-2,0,2003,Polio
 Phichit,2-2,0,2003,Polio
 Uthai Thani,2-2,0,2003,Polio
 Central Region,2-2,0,2003,Polio
 Bangkok,2-2,0,2003,Polio
-Zone 4,2-2,0,2003,Polio
+Zone:4,2-2,0,2003,Polio
 Ang Thong,2-2,0,2003,Polio
 Nonthaburi,2-2,0,2003,Polio
 P.Nakhon S.Ayutthaya,2-2,0,2003,Polio
 Pathum Thani,2-2,0,2003,Polio
-Zone 5,2-2,0,2003,Polio
+Zone:5,2-2,0,2003,Polio
 Chai Nat,2-2,0,2003,Polio
 Lop Buri,2-2,0,2003,Polio
 Saraburi,2-2,0,2003,Polio
 Sing Buri,2-2,0,2003,Polio
-Zone 6,2-2,0,2003,Polio
+Zone:6,2-2,0,2003,Polio
 Kanchanaburi,2-2,0,2003,Polio
 Nakhon Pathom,2-2,0,2003,Polio
 Ratchaburi,2-2,0,2003,Polio
 Suphan Buri,2-2,0,2003,Polio
-Zone 7,2-2,0,2003,Polio
+Zone:7,2-2,0,2003,Polio
 Phetchaburi,2-2,0,2003,Polio
 Prachuap Khiri Khan,2-2,0,2003,Polio
 Samut Sakhon,2-2,0,2003,Polio
 Samut Songkhram,2-2,0,2003,Polio
-Zone 8,2-2,0,2003,Polio
+Zone:8,2-2,0,2003,Polio
 Chachoengsao,2-2,0,2003,Polio
 Nakhon Nayok,2-2,0,2003,Polio
 Prachin Buri,2-2,0,2003,Polio
 Sa Kaeo,2-2,0,2003,Polio
 Samut Prakan,2-2,0,2003,Polio
-Zone 9,2-2,0,2003,Polio
+Zone:9,2-2,0,2003,Polio
 Chanthaburi,2-2,0,2003,Polio
 Chon Buri,2-2,0,2003,Polio
 Rayong,2-2,0,2003,Polio
 Trat,2-2,0,2003,Polio
 North-Eastern Region,2-2,0,2003,Polio
-Zone 10,2-2,0,2003,Polio
+Zone:10,2-2,0,2003,Polio
 Loei,2-2,0,2003,Polio
 Nong Bua Lam Phu,2-2,0,2003,Polio
 Nong Khai,2-2,0,2003,Polio
 Udon Thani,2-2,0,2003,Polio
-Zone 11,2-2,0,2003,Polio
+Zone:11,2-2,0,2003,Polio
 Kalasin,2-2,0,2003,Polio
 Mukdahan,2-2,0,2003,Polio
 Nakhon Phanom,2-2,0,2003,Polio
 Sakon Nakhon,2-2,0,2003,Polio
-Zone 12,2-2,0,2003,Polio
+Zone:12,2-2,0,2003,Polio
 Khon Kaen,2-2,0,2003,Polio
 Maha Sarakham,2-2,0,2003,Polio
 Roi Et,2-2,0,2003,Polio
-Zone 13,2-2,0,2003,Polio
+Zone:13,2-2,0,2003,Polio
 Buri Ram,2-2,0,2003,Polio
 Chaiyaphum,2-2,0,2003,Polio
 Nakhon Ratchasima,2-2,0,2003,Polio
 Surin,2-2,0,2003,Polio
-Zone 14,2-2,0,2003,Polio
+Zone:14,2-2,0,2003,Polio
 Amnat Charoen,2-2,0,2003,Polio
 Si Sa Ket,2-2,0,2003,Polio
 Ubon Ratchathani,2-2,0,2003,Polio
 Yasothon,2-2,0,2003,Polio
 South Region,2-2,0,2003,Polio
-Zone 15,2-2,0,2003,Polio
+Zone:15,2-2,0,2003,Polio
 Chumphon,2-2,0,2003,Polio
 Ranong,2-2,0,2003,Polio
 Surat Thani,2-2,0,2003,Polio
-Zone 16,2-2,0,2003,Polio
+Zone:16,2-2,0,2003,Polio
 Nakhon Si Thammarat,2-2,0,2003,Polio
 Phatthalung,2-2,0,2003,Polio
 Trang,2-2,0,2003,Polio
-Zone 17,2-2,0,2003,Polio
+Zone:17,2-2,0,2003,Polio
 Krabi,2-2,0,2003,Polio
 Phangnga,2-2,0,2003,Polio
 Phuket,2-2,0,2003,Polio
-Zone 18,2-2,0,2003,Polio
+Zone:18,2-2,0,2003,Polio
 Narathiwat,2-2,0,2003,Polio
 Pattani,2-2,0,2003,Polio
 Yala,2-2,0,2003,Polio
-Zone 19,2-2,0,2003,Polio
+Zone:19,2-2,0,2003,Polio
 Satun,2-2,0,2003,Polio
 Songkhla,2-2,0,2003,Polio
 Total,3-3,0,2003,Polio
 North Region,3-3,0,2003,Polio
-Zone 1,3-3,0,2003,Polio
+Zone:1,3-3,0,2003,Polio
 Chiang Mai,3-3,0,2003,Polio
 Chiang Rai,3-3,0,2003,Polio
 Lampang,3-3,0,2003,Polio
@@ -12336,98 +12336,98 @@ Mae Hong Son,3-3,0,2003,Polio
 Nan,3-3,0,2003,Polio
 Phayao,3-3,0,2003,Polio
 Phrae,3-3,0,2003,Polio
-Zone 2,3-3,0,2003,Polio
+Zone:2,3-3,0,2003,Polio
 Phetchabun,3-3,0,2003,Polio
 Phitsanulok,3-3,0,2003,Polio
 Sukhothai,3-3,0,2003,Polio
 Tak,3-3,0,2003,Polio
 Uttaradit,3-3,0,2003,Polio
-Zone 3,3-3,0,2003,Polio
+Zone:3,3-3,0,2003,Polio
 Kamphaeng Phet,3-3,0,2003,Polio
 Nakhon Sawan,3-3,0,2003,Polio
 Phichit,3-3,0,2003,Polio
 Uthai Thani,3-3,0,2003,Polio
 Central Region,3-3,0,2003,Polio
 Bangkok,3-3,0,2003,Polio
-Zone 4,3-3,0,2003,Polio
+Zone:4,3-3,0,2003,Polio
 Ang Thong,3-3,0,2003,Polio
 Nonthaburi,3-3,0,2003,Polio
 P.Nakhon S.Ayutthaya,3-3,0,2003,Polio
 Pathum Thani,3-3,0,2003,Polio
-Zone 5,3-3,0,2003,Polio
+Zone:5,3-3,0,2003,Polio
 Chai Nat,3-3,0,2003,Polio
 Lop Buri,3-3,0,2003,Polio
 Saraburi,3-3,0,2003,Polio
 Sing Buri,3-3,0,2003,Polio
-Zone 6,3-3,0,2003,Polio
+Zone:6,3-3,0,2003,Polio
 Kanchanaburi,3-3,0,2003,Polio
 Nakhon Pathom,3-3,0,2003,Polio
 Ratchaburi,3-3,0,2003,Polio
 Suphan Buri,3-3,0,2003,Polio
-Zone 7,3-3,0,2003,Polio
+Zone:7,3-3,0,2003,Polio
 Phetchaburi,3-3,0,2003,Polio
 Prachuap Khiri Khan,3-3,0,2003,Polio
 Samut Sakhon,3-3,0,2003,Polio
 Samut Songkhram,3-3,0,2003,Polio
-Zone 8,3-3,0,2003,Polio
+Zone:8,3-3,0,2003,Polio
 Chachoengsao,3-3,0,2003,Polio
 Nakhon Nayok,3-3,0,2003,Polio
 Prachin Buri,3-3,0,2003,Polio
 Sa Kaeo,3-3,0,2003,Polio
 Samut Prakan,3-3,0,2003,Polio
-Zone 9,3-3,0,2003,Polio
+Zone:9,3-3,0,2003,Polio
 Chanthaburi,3-3,0,2003,Polio
 Chon Buri,3-3,0,2003,Polio
 Rayong,3-3,0,2003,Polio
 Trat,3-3,0,2003,Polio
 North-Eastern Region,3-3,0,2003,Polio
-Zone 10,3-3,0,2003,Polio
+Zone:10,3-3,0,2003,Polio
 Loei,3-3,0,2003,Polio
 Nong Bua Lam Phu,3-3,0,2003,Polio
 Nong Khai,3-3,0,2003,Polio
 Udon Thani,3-3,0,2003,Polio
-Zone 11,3-3,0,2003,Polio
+Zone:11,3-3,0,2003,Polio
 Kalasin,3-3,0,2003,Polio
 Mukdahan,3-3,0,2003,Polio
 Nakhon Phanom,3-3,0,2003,Polio
 Sakon Nakhon,3-3,0,2003,Polio
-Zone 12,3-3,0,2003,Polio
+Zone:12,3-3,0,2003,Polio
 Khon Kaen,3-3,0,2003,Polio
 Maha Sarakham,3-3,0,2003,Polio
 Roi Et,3-3,0,2003,Polio
-Zone 13,3-3,0,2003,Polio
+Zone:13,3-3,0,2003,Polio
 Buri Ram,3-3,0,2003,Polio
 Chaiyaphum,3-3,0,2003,Polio
 Nakhon Ratchasima,3-3,0,2003,Polio
 Surin,3-3,0,2003,Polio
-Zone 14,3-3,0,2003,Polio
+Zone:14,3-3,0,2003,Polio
 Amnat Charoen,3-3,0,2003,Polio
 Si Sa Ket,3-3,0,2003,Polio
 Ubon Ratchathani,3-3,0,2003,Polio
 Yasothon,3-3,0,2003,Polio
 South Region,3-3,0,2003,Polio
-Zone 15,3-3,0,2003,Polio
+Zone:15,3-3,0,2003,Polio
 Chumphon,3-3,0,2003,Polio
 Ranong,3-3,0,2003,Polio
 Surat Thani,3-3,0,2003,Polio
-Zone 16,3-3,0,2003,Polio
+Zone:16,3-3,0,2003,Polio
 Nakhon Si Thammarat,3-3,0,2003,Polio
 Phatthalung,3-3,0,2003,Polio
 Trang,3-3,0,2003,Polio
-Zone 17,3-3,0,2003,Polio
+Zone:17,3-3,0,2003,Polio
 Krabi,3-3,0,2003,Polio
 Phangnga,3-3,0,2003,Polio
 Phuket,3-3,0,2003,Polio
-Zone 18,3-3,0,2003,Polio
+Zone:18,3-3,0,2003,Polio
 Narathiwat,3-3,0,2003,Polio
 Pattani,3-3,0,2003,Polio
 Yala,3-3,0,2003,Polio
-Zone 19,3-3,0,2003,Polio
+Zone:19,3-3,0,2003,Polio
 Satun,3-3,0,2003,Polio
 Songkhla,3-3,0,2003,Polio
 Total,4-4,0,2003,Polio
 North Region,4-4,0,2003,Polio
-Zone 1,4-4,0,2003,Polio
+Zone:1,4-4,0,2003,Polio
 Chiang Mai,4-4,0,2003,Polio
 Chiang Rai,4-4,0,2003,Polio
 Lampang,4-4,0,2003,Polio
@@ -12436,98 +12436,98 @@ Mae Hong Son,4-4,0,2003,Polio
 Nan,4-4,0,2003,Polio
 Phayao,4-4,0,2003,Polio
 Phrae,4-4,0,2003,Polio
-Zone 2,4-4,0,2003,Polio
+Zone:2,4-4,0,2003,Polio
 Phetchabun,4-4,0,2003,Polio
 Phitsanulok,4-4,0,2003,Polio
 Sukhothai,4-4,0,2003,Polio
 Tak,4-4,0,2003,Polio
 Uttaradit,4-4,0,2003,Polio
-Zone 3,4-4,0,2003,Polio
+Zone:3,4-4,0,2003,Polio
 Kamphaeng Phet,4-4,0,2003,Polio
 Nakhon Sawan,4-4,0,2003,Polio
 Phichit,4-4,0,2003,Polio
 Uthai Thani,4-4,0,2003,Polio
 Central Region,4-4,0,2003,Polio
 Bangkok,4-4,0,2003,Polio
-Zone 4,4-4,0,2003,Polio
+Zone:4,4-4,0,2003,Polio
 Ang Thong,4-4,0,2003,Polio
 Nonthaburi,4-4,0,2003,Polio
 P.Nakhon S.Ayutthaya,4-4,0,2003,Polio
 Pathum Thani,4-4,0,2003,Polio
-Zone 5,4-4,0,2003,Polio
+Zone:5,4-4,0,2003,Polio
 Chai Nat,4-4,0,2003,Polio
 Lop Buri,4-4,0,2003,Polio
 Saraburi,4-4,0,2003,Polio
 Sing Buri,4-4,0,2003,Polio
-Zone 6,4-4,0,2003,Polio
+Zone:6,4-4,0,2003,Polio
 Kanchanaburi,4-4,0,2003,Polio
 Nakhon Pathom,4-4,0,2003,Polio
 Ratchaburi,4-4,0,2003,Polio
 Suphan Buri,4-4,0,2003,Polio
-Zone 7,4-4,0,2003,Polio
+Zone:7,4-4,0,2003,Polio
 Phetchaburi,4-4,0,2003,Polio
 Prachuap Khiri Khan,4-4,0,2003,Polio
 Samut Sakhon,4-4,0,2003,Polio
 Samut Songkhram,4-4,0,2003,Polio
-Zone 8,4-4,0,2003,Polio
+Zone:8,4-4,0,2003,Polio
 Chachoengsao,4-4,0,2003,Polio
 Nakhon Nayok,4-4,0,2003,Polio
 Prachin Buri,4-4,0,2003,Polio
 Sa Kaeo,4-4,0,2003,Polio
 Samut Prakan,4-4,0,2003,Polio
-Zone 9,4-4,0,2003,Polio
+Zone:9,4-4,0,2003,Polio
 Chanthaburi,4-4,0,2003,Polio
 Chon Buri,4-4,0,2003,Polio
 Rayong,4-4,0,2003,Polio
 Trat,4-4,0,2003,Polio
 North-Eastern Region,4-4,0,2003,Polio
-Zone 10,4-4,0,2003,Polio
+Zone:10,4-4,0,2003,Polio
 Loei,4-4,0,2003,Polio
 Nong Bua Lam Phu,4-4,0,2003,Polio
 Nong Khai,4-4,0,2003,Polio
 Udon Thani,4-4,0,2003,Polio
-Zone 11,4-4,0,2003,Polio
+Zone:11,4-4,0,2003,Polio
 Kalasin,4-4,0,2003,Polio
 Mukdahan,4-4,0,2003,Polio
 Nakhon Phanom,4-4,0,2003,Polio
 Sakon Nakhon,4-4,0,2003,Polio
-Zone 12,4-4,0,2003,Polio
+Zone:12,4-4,0,2003,Polio
 Khon Kaen,4-4,0,2003,Polio
 Maha Sarakham,4-4,0,2003,Polio
 Roi Et,4-4,0,2003,Polio
-Zone 13,4-4,0,2003,Polio
+Zone:13,4-4,0,2003,Polio
 Buri Ram,4-4,0,2003,Polio
 Chaiyaphum,4-4,0,2003,Polio
 Nakhon Ratchasima,4-4,0,2003,Polio
 Surin,4-4,0,2003,Polio
-Zone 14,4-4,0,2003,Polio
+Zone:14,4-4,0,2003,Polio
 Amnat Charoen,4-4,0,2003,Polio
 Si Sa Ket,4-4,0,2003,Polio
 Ubon Ratchathani,4-4,0,2003,Polio
 Yasothon,4-4,0,2003,Polio
 South Region,4-4,0,2003,Polio
-Zone 15,4-4,0,2003,Polio
+Zone:15,4-4,0,2003,Polio
 Chumphon,4-4,0,2003,Polio
 Ranong,4-4,0,2003,Polio
 Surat Thani,4-4,0,2003,Polio
-Zone 16,4-4,0,2003,Polio
+Zone:16,4-4,0,2003,Polio
 Nakhon Si Thammarat,4-4,0,2003,Polio
 Phatthalung,4-4,0,2003,Polio
 Trang,4-4,0,2003,Polio
-Zone 17,4-4,0,2003,Polio
+Zone:17,4-4,0,2003,Polio
 Krabi,4-4,0,2003,Polio
 Phangnga,4-4,0,2003,Polio
 Phuket,4-4,0,2003,Polio
-Zone 18,4-4,0,2003,Polio
+Zone:18,4-4,0,2003,Polio
 Narathiwat,4-4,0,2003,Polio
 Pattani,4-4,0,2003,Polio
 Yala,4-4,0,2003,Polio
-Zone 19,4-4,0,2003,Polio
+Zone:19,4-4,0,2003,Polio
 Satun,4-4,0,2003,Polio
 Songkhla,4-4,0,2003,Polio
 Total,5-5,0,2003,Polio
 North Region,5-5,0,2003,Polio
-Zone 1,5-5,0,2003,Polio
+Zone:1,5-5,0,2003,Polio
 Chiang Mai,5-5,0,2003,Polio
 Chiang Rai,5-5,0,2003,Polio
 Lampang,5-5,0,2003,Polio
@@ -12536,98 +12536,98 @@ Mae Hong Son,5-5,0,2003,Polio
 Nan,5-5,0,2003,Polio
 Phayao,5-5,0,2003,Polio
 Phrae,5-5,0,2003,Polio
-Zone 2,5-5,0,2003,Polio
+Zone:2,5-5,0,2003,Polio
 Phetchabun,5-5,0,2003,Polio
 Phitsanulok,5-5,0,2003,Polio
 Sukhothai,5-5,0,2003,Polio
 Tak,5-5,0,2003,Polio
 Uttaradit,5-5,0,2003,Polio
-Zone 3,5-5,0,2003,Polio
+Zone:3,5-5,0,2003,Polio
 Kamphaeng Phet,5-5,0,2003,Polio
 Nakhon Sawan,5-5,0,2003,Polio
 Phichit,5-5,0,2003,Polio
 Uthai Thani,5-5,0,2003,Polio
 Central Region,5-5,0,2003,Polio
 Bangkok,5-5,0,2003,Polio
-Zone 4,5-5,0,2003,Polio
+Zone:4,5-5,0,2003,Polio
 Ang Thong,5-5,0,2003,Polio
 Nonthaburi,5-5,0,2003,Polio
 P.Nakhon S.Ayutthaya,5-5,0,2003,Polio
 Pathum Thani,5-5,0,2003,Polio
-Zone 5,5-5,0,2003,Polio
+Zone:5,5-5,0,2003,Polio
 Chai Nat,5-5,0,2003,Polio
 Lop Buri,5-5,0,2003,Polio
 Saraburi,5-5,0,2003,Polio
 Sing Buri,5-5,0,2003,Polio
-Zone 6,5-5,0,2003,Polio
+Zone:6,5-5,0,2003,Polio
 Kanchanaburi,5-5,0,2003,Polio
 Nakhon Pathom,5-5,0,2003,Polio
 Ratchaburi,5-5,0,2003,Polio
 Suphan Buri,5-5,0,2003,Polio
-Zone 7,5-5,0,2003,Polio
+Zone:7,5-5,0,2003,Polio
 Phetchaburi,5-5,0,2003,Polio
 Prachuap Khiri Khan,5-5,0,2003,Polio
 Samut Sakhon,5-5,0,2003,Polio
 Samut Songkhram,5-5,0,2003,Polio
-Zone 8,5-5,0,2003,Polio
+Zone:8,5-5,0,2003,Polio
 Chachoengsao,5-5,0,2003,Polio
 Nakhon Nayok,5-5,0,2003,Polio
 Prachin Buri,5-5,0,2003,Polio
 Sa Kaeo,5-5,0,2003,Polio
 Samut Prakan,5-5,0,2003,Polio
-Zone 9,5-5,0,2003,Polio
+Zone:9,5-5,0,2003,Polio
 Chanthaburi,5-5,0,2003,Polio
 Chon Buri,5-5,0,2003,Polio
 Rayong,5-5,0,2003,Polio
 Trat,5-5,0,2003,Polio
 North-Eastern Region,5-5,0,2003,Polio
-Zone 10,5-5,0,2003,Polio
+Zone:10,5-5,0,2003,Polio
 Loei,5-5,0,2003,Polio
 Nong Bua Lam Phu,5-5,0,2003,Polio
 Nong Khai,5-5,0,2003,Polio
 Udon Thani,5-5,0,2003,Polio
-Zone 11,5-5,0,2003,Polio
+Zone:11,5-5,0,2003,Polio
 Kalasin,5-5,0,2003,Polio
 Mukdahan,5-5,0,2003,Polio
 Nakhon Phanom,5-5,0,2003,Polio
 Sakon Nakhon,5-5,0,2003,Polio
-Zone 12,5-5,0,2003,Polio
+Zone:12,5-5,0,2003,Polio
 Khon Kaen,5-5,0,2003,Polio
 Maha Sarakham,5-5,0,2003,Polio
 Roi Et,5-5,0,2003,Polio
-Zone 13,5-5,0,2003,Polio
+Zone:13,5-5,0,2003,Polio
 Buri Ram,5-5,0,2003,Polio
 Chaiyaphum,5-5,0,2003,Polio
 Nakhon Ratchasima,5-5,0,2003,Polio
 Surin,5-5,0,2003,Polio
-Zone 14,5-5,0,2003,Polio
+Zone:14,5-5,0,2003,Polio
 Amnat Charoen,5-5,0,2003,Polio
 Si Sa Ket,5-5,0,2003,Polio
 Ubon Ratchathani,5-5,0,2003,Polio
 Yasothon,5-5,0,2003,Polio
 South Region,5-5,0,2003,Polio
-Zone 15,5-5,0,2003,Polio
+Zone:15,5-5,0,2003,Polio
 Chumphon,5-5,0,2003,Polio
 Ranong,5-5,0,2003,Polio
 Surat Thani,5-5,0,2003,Polio
-Zone 16,5-5,0,2003,Polio
+Zone:16,5-5,0,2003,Polio
 Nakhon Si Thammarat,5-5,0,2003,Polio
 Phatthalung,5-5,0,2003,Polio
 Trang,5-5,0,2003,Polio
-Zone 17,5-5,0,2003,Polio
+Zone:17,5-5,0,2003,Polio
 Krabi,5-5,0,2003,Polio
 Phangnga,5-5,0,2003,Polio
 Phuket,5-5,0,2003,Polio
-Zone 18,5-5,0,2003,Polio
+Zone:18,5-5,0,2003,Polio
 Narathiwat,5-5,0,2003,Polio
 Pattani,5-5,0,2003,Polio
 Yala,5-5,0,2003,Polio
-Zone 19,5-5,0,2003,Polio
+Zone:19,5-5,0,2003,Polio
 Satun,5-5,0,2003,Polio
 Songkhla,5-5,0,2003,Polio
 Total,6-6,0,2003,Polio
 North Region,6-6,0,2003,Polio
-Zone 1,6-6,0,2003,Polio
+Zone:1,6-6,0,2003,Polio
 Chiang Mai,6-6,0,2003,Polio
 Chiang Rai,6-6,0,2003,Polio
 Lampang,6-6,0,2003,Polio
@@ -12636,98 +12636,98 @@ Mae Hong Son,6-6,0,2003,Polio
 Nan,6-6,0,2003,Polio
 Phayao,6-6,0,2003,Polio
 Phrae,6-6,0,2003,Polio
-Zone 2,6-6,0,2003,Polio
+Zone:2,6-6,0,2003,Polio
 Phetchabun,6-6,0,2003,Polio
 Phitsanulok,6-6,0,2003,Polio
 Sukhothai,6-6,0,2003,Polio
 Tak,6-6,0,2003,Polio
 Uttaradit,6-6,0,2003,Polio
-Zone 3,6-6,0,2003,Polio
+Zone:3,6-6,0,2003,Polio
 Kamphaeng Phet,6-6,0,2003,Polio
 Nakhon Sawan,6-6,0,2003,Polio
 Phichit,6-6,0,2003,Polio
 Uthai Thani,6-6,0,2003,Polio
 Central Region,6-6,0,2003,Polio
 Bangkok,6-6,0,2003,Polio
-Zone 4,6-6,0,2003,Polio
+Zone:4,6-6,0,2003,Polio
 Ang Thong,6-6,0,2003,Polio
 Nonthaburi,6-6,0,2003,Polio
 P.Nakhon S.Ayutthaya,6-6,0,2003,Polio
 Pathum Thani,6-6,0,2003,Polio
-Zone 5,6-6,0,2003,Polio
+Zone:5,6-6,0,2003,Polio
 Chai Nat,6-6,0,2003,Polio
 Lop Buri,6-6,0,2003,Polio
 Saraburi,6-6,0,2003,Polio
 Sing Buri,6-6,0,2003,Polio
-Zone 6,6-6,0,2003,Polio
+Zone:6,6-6,0,2003,Polio
 Kanchanaburi,6-6,0,2003,Polio
 Nakhon Pathom,6-6,0,2003,Polio
 Ratchaburi,6-6,0,2003,Polio
 Suphan Buri,6-6,0,2003,Polio
-Zone 7,6-6,0,2003,Polio
+Zone:7,6-6,0,2003,Polio
 Phetchaburi,6-6,0,2003,Polio
 Prachuap Khiri Khan,6-6,0,2003,Polio
 Samut Sakhon,6-6,0,2003,Polio
 Samut Songkhram,6-6,0,2003,Polio
-Zone 8,6-6,0,2003,Polio
+Zone:8,6-6,0,2003,Polio
 Chachoengsao,6-6,0,2003,Polio
 Nakhon Nayok,6-6,0,2003,Polio
 Prachin Buri,6-6,0,2003,Polio
 Sa Kaeo,6-6,0,2003,Polio
 Samut Prakan,6-6,0,2003,Polio
-Zone 9,6-6,0,2003,Polio
+Zone:9,6-6,0,2003,Polio
 Chanthaburi,6-6,0,2003,Polio
 Chon Buri,6-6,0,2003,Polio
 Rayong,6-6,0,2003,Polio
 Trat,6-6,0,2003,Polio
 North-Eastern Region,6-6,0,2003,Polio
-Zone 10,6-6,0,2003,Polio
+Zone:10,6-6,0,2003,Polio
 Loei,6-6,0,2003,Polio
 Nong Bua Lam Phu,6-6,0,2003,Polio
 Nong Khai,6-6,0,2003,Polio
 Udon Thani,6-6,0,2003,Polio
-Zone 11,6-6,0,2003,Polio
+Zone:11,6-6,0,2003,Polio
 Kalasin,6-6,0,2003,Polio
 Mukdahan,6-6,0,2003,Polio
 Nakhon Phanom,6-6,0,2003,Polio
 Sakon Nakhon,6-6,0,2003,Polio
-Zone 12,6-6,0,2003,Polio
+Zone:12,6-6,0,2003,Polio
 Khon Kaen,6-6,0,2003,Polio
 Maha Sarakham,6-6,0,2003,Polio
 Roi Et,6-6,0,2003,Polio
-Zone 13,6-6,0,2003,Polio
+Zone:13,6-6,0,2003,Polio
 Buri Ram,6-6,0,2003,Polio
 Chaiyaphum,6-6,0,2003,Polio
 Nakhon Ratchasima,6-6,0,2003,Polio
 Surin,6-6,0,2003,Polio
-Zone 14,6-6,0,2003,Polio
+Zone:14,6-6,0,2003,Polio
 Amnat Charoen,6-6,0,2003,Polio
 Si Sa Ket,6-6,0,2003,Polio
 Ubon Ratchathani,6-6,0,2003,Polio
 Yasothon,6-6,0,2003,Polio
 South Region,6-6,0,2003,Polio
-Zone 15,6-6,0,2003,Polio
+Zone:15,6-6,0,2003,Polio
 Chumphon,6-6,0,2003,Polio
 Ranong,6-6,0,2003,Polio
 Surat Thani,6-6,0,2003,Polio
-Zone 16,6-6,0,2003,Polio
+Zone:16,6-6,0,2003,Polio
 Nakhon Si Thammarat,6-6,0,2003,Polio
 Phatthalung,6-6,0,2003,Polio
 Trang,6-6,0,2003,Polio
-Zone 17,6-6,0,2003,Polio
+Zone:17,6-6,0,2003,Polio
 Krabi,6-6,0,2003,Polio
 Phangnga,6-6,0,2003,Polio
 Phuket,6-6,0,2003,Polio
-Zone 18,6-6,0,2003,Polio
+Zone:18,6-6,0,2003,Polio
 Narathiwat,6-6,0,2003,Polio
 Pattani,6-6,0,2003,Polio
 Yala,6-6,0,2003,Polio
-Zone 19,6-6,0,2003,Polio
+Zone:19,6-6,0,2003,Polio
 Satun,6-6,0,2003,Polio
 Songkhla,6-6,0,2003,Polio
 Total,7-9,0,2003,Polio
 North Region,7-9,0,2003,Polio
-Zone 1,7-9,0,2003,Polio
+Zone:1,7-9,0,2003,Polio
 Chiang Mai,7-9,0,2003,Polio
 Chiang Rai,7-9,0,2003,Polio
 Lampang,7-9,0,2003,Polio
@@ -12736,98 +12736,98 @@ Mae Hong Son,7-9,0,2003,Polio
 Nan,7-9,0,2003,Polio
 Phayao,7-9,0,2003,Polio
 Phrae,7-9,0,2003,Polio
-Zone 2,7-9,0,2003,Polio
+Zone:2,7-9,0,2003,Polio
 Phetchabun,7-9,0,2003,Polio
 Phitsanulok,7-9,0,2003,Polio
 Sukhothai,7-9,0,2003,Polio
 Tak,7-9,0,2003,Polio
 Uttaradit,7-9,0,2003,Polio
-Zone 3,7-9,0,2003,Polio
+Zone:3,7-9,0,2003,Polio
 Kamphaeng Phet,7-9,0,2003,Polio
 Nakhon Sawan,7-9,0,2003,Polio
 Phichit,7-9,0,2003,Polio
 Uthai Thani,7-9,0,2003,Polio
 Central Region,7-9,0,2003,Polio
 Bangkok,7-9,0,2003,Polio
-Zone 4,7-9,0,2003,Polio
+Zone:4,7-9,0,2003,Polio
 Ang Thong,7-9,0,2003,Polio
 Nonthaburi,7-9,0,2003,Polio
 P.Nakhon S.Ayutthaya,7-9,0,2003,Polio
 Pathum Thani,7-9,0,2003,Polio
-Zone 5,7-9,0,2003,Polio
+Zone:5,7-9,0,2003,Polio
 Chai Nat,7-9,0,2003,Polio
 Lop Buri,7-9,0,2003,Polio
 Saraburi,7-9,0,2003,Polio
 Sing Buri,7-9,0,2003,Polio
-Zone 6,7-9,0,2003,Polio
+Zone:6,7-9,0,2003,Polio
 Kanchanaburi,7-9,0,2003,Polio
 Nakhon Pathom,7-9,0,2003,Polio
 Ratchaburi,7-9,0,2003,Polio
 Suphan Buri,7-9,0,2003,Polio
-Zone 7,7-9,0,2003,Polio
+Zone:7,7-9,0,2003,Polio
 Phetchaburi,7-9,0,2003,Polio
 Prachuap Khiri Khan,7-9,0,2003,Polio
 Samut Sakhon,7-9,0,2003,Polio
 Samut Songkhram,7-9,0,2003,Polio
-Zone 8,7-9,0,2003,Polio
+Zone:8,7-9,0,2003,Polio
 Chachoengsao,7-9,0,2003,Polio
 Nakhon Nayok,7-9,0,2003,Polio
 Prachin Buri,7-9,0,2003,Polio
 Sa Kaeo,7-9,0,2003,Polio
 Samut Prakan,7-9,0,2003,Polio
-Zone 9,7-9,0,2003,Polio
+Zone:9,7-9,0,2003,Polio
 Chanthaburi,7-9,0,2003,Polio
 Chon Buri,7-9,0,2003,Polio
 Rayong,7-9,0,2003,Polio
 Trat,7-9,0,2003,Polio
 North-Eastern Region,7-9,0,2003,Polio
-Zone 10,7-9,0,2003,Polio
+Zone:10,7-9,0,2003,Polio
 Loei,7-9,0,2003,Polio
 Nong Bua Lam Phu,7-9,0,2003,Polio
 Nong Khai,7-9,0,2003,Polio
 Udon Thani,7-9,0,2003,Polio
-Zone 11,7-9,0,2003,Polio
+Zone:11,7-9,0,2003,Polio
 Kalasin,7-9,0,2003,Polio
 Mukdahan,7-9,0,2003,Polio
 Nakhon Phanom,7-9,0,2003,Polio
 Sakon Nakhon,7-9,0,2003,Polio
-Zone 12,7-9,0,2003,Polio
+Zone:12,7-9,0,2003,Polio
 Khon Kaen,7-9,0,2003,Polio
 Maha Sarakham,7-9,0,2003,Polio
 Roi Et,7-9,0,2003,Polio
-Zone 13,7-9,0,2003,Polio
+Zone:13,7-9,0,2003,Polio
 Buri Ram,7-9,0,2003,Polio
 Chaiyaphum,7-9,0,2003,Polio
 Nakhon Ratchasima,7-9,0,2003,Polio
 Surin,7-9,0,2003,Polio
-Zone 14,7-9,0,2003,Polio
+Zone:14,7-9,0,2003,Polio
 Amnat Charoen,7-9,0,2003,Polio
 Si Sa Ket,7-9,0,2003,Polio
 Ubon Ratchathani,7-9,0,2003,Polio
 Yasothon,7-9,0,2003,Polio
 South Region,7-9,0,2003,Polio
-Zone 15,7-9,0,2003,Polio
+Zone:15,7-9,0,2003,Polio
 Chumphon,7-9,0,2003,Polio
 Ranong,7-9,0,2003,Polio
 Surat Thani,7-9,0,2003,Polio
-Zone 16,7-9,0,2003,Polio
+Zone:16,7-9,0,2003,Polio
 Nakhon Si Thammarat,7-9,0,2003,Polio
 Phatthalung,7-9,0,2003,Polio
 Trang,7-9,0,2003,Polio
-Zone 17,7-9,0,2003,Polio
+Zone:17,7-9,0,2003,Polio
 Krabi,7-9,0,2003,Polio
 Phangnga,7-9,0,2003,Polio
 Phuket,7-9,0,2003,Polio
-Zone 18,7-9,0,2003,Polio
+Zone:18,7-9,0,2003,Polio
 Narathiwat,7-9,0,2003,Polio
 Pattani,7-9,0,2003,Polio
 Yala,7-9,0,2003,Polio
-Zone 19,7-9,0,2003,Polio
+Zone:19,7-9,0,2003,Polio
 Satun,7-9,0,2003,Polio
 Songkhla,7-9,0,2003,Polio
 Total,10-14,0,2003,Polio
 North Region,10-14,0,2003,Polio
-Zone 1,10-14,0,2003,Polio
+Zone:1,10-14,0,2003,Polio
 Chiang Mai,10-14,0,2003,Polio
 Chiang Rai,10-14,0,2003,Polio
 Lampang,10-14,0,2003,Polio
@@ -12836,98 +12836,98 @@ Mae Hong Son,10-14,0,2003,Polio
 Nan,10-14,0,2003,Polio
 Phayao,10-14,0,2003,Polio
 Phrae,10-14,0,2003,Polio
-Zone 2,10-14,0,2003,Polio
+Zone:2,10-14,0,2003,Polio
 Phetchabun,10-14,0,2003,Polio
 Phitsanulok,10-14,0,2003,Polio
 Sukhothai,10-14,0,2003,Polio
 Tak,10-14,0,2003,Polio
 Uttaradit,10-14,0,2003,Polio
-Zone 3,10-14,0,2003,Polio
+Zone:3,10-14,0,2003,Polio
 Kamphaeng Phet,10-14,0,2003,Polio
 Nakhon Sawan,10-14,0,2003,Polio
 Phichit,10-14,0,2003,Polio
 Uthai Thani,10-14,0,2003,Polio
 Central Region,10-14,0,2003,Polio
 Bangkok,10-14,0,2003,Polio
-Zone 4,10-14,0,2003,Polio
+Zone:4,10-14,0,2003,Polio
 Ang Thong,10-14,0,2003,Polio
 Nonthaburi,10-14,0,2003,Polio
 P.Nakhon S.Ayutthaya,10-14,0,2003,Polio
 Pathum Thani,10-14,0,2003,Polio
-Zone 5,10-14,0,2003,Polio
+Zone:5,10-14,0,2003,Polio
 Chai Nat,10-14,0,2003,Polio
 Lop Buri,10-14,0,2003,Polio
 Saraburi,10-14,0,2003,Polio
 Sing Buri,10-14,0,2003,Polio
-Zone 6,10-14,0,2003,Polio
+Zone:6,10-14,0,2003,Polio
 Kanchanaburi,10-14,0,2003,Polio
 Nakhon Pathom,10-14,0,2003,Polio
 Ratchaburi,10-14,0,2003,Polio
 Suphan Buri,10-14,0,2003,Polio
-Zone 7,10-14,0,2003,Polio
+Zone:7,10-14,0,2003,Polio
 Phetchaburi,10-14,0,2003,Polio
 Prachuap Khiri Khan,10-14,0,2003,Polio
 Samut Sakhon,10-14,0,2003,Polio
 Samut Songkhram,10-14,0,2003,Polio
-Zone 8,10-14,0,2003,Polio
+Zone:8,10-14,0,2003,Polio
 Chachoengsao,10-14,0,2003,Polio
 Nakhon Nayok,10-14,0,2003,Polio
 Prachin Buri,10-14,0,2003,Polio
 Sa Kaeo,10-14,0,2003,Polio
 Samut Prakan,10-14,0,2003,Polio
-Zone 9,10-14,0,2003,Polio
+Zone:9,10-14,0,2003,Polio
 Chanthaburi,10-14,0,2003,Polio
 Chon Buri,10-14,0,2003,Polio
 Rayong,10-14,0,2003,Polio
 Trat,10-14,0,2003,Polio
 North-Eastern Region,10-14,0,2003,Polio
-Zone 10,10-14,0,2003,Polio
+Zone:10,10-14,0,2003,Polio
 Loei,10-14,0,2003,Polio
 Nong Bua Lam Phu,10-14,0,2003,Polio
 Nong Khai,10-14,0,2003,Polio
 Udon Thani,10-14,0,2003,Polio
-Zone 11,10-14,0,2003,Polio
+Zone:11,10-14,0,2003,Polio
 Kalasin,10-14,0,2003,Polio
 Mukdahan,10-14,0,2003,Polio
 Nakhon Phanom,10-14,0,2003,Polio
 Sakon Nakhon,10-14,0,2003,Polio
-Zone 12,10-14,0,2003,Polio
+Zone:12,10-14,0,2003,Polio
 Khon Kaen,10-14,0,2003,Polio
 Maha Sarakham,10-14,0,2003,Polio
 Roi Et,10-14,0,2003,Polio
-Zone 13,10-14,0,2003,Polio
+Zone:13,10-14,0,2003,Polio
 Buri Ram,10-14,0,2003,Polio
 Chaiyaphum,10-14,0,2003,Polio
 Nakhon Ratchasima,10-14,0,2003,Polio
 Surin,10-14,0,2003,Polio
-Zone 14,10-14,0,2003,Polio
+Zone:14,10-14,0,2003,Polio
 Amnat Charoen,10-14,0,2003,Polio
 Si Sa Ket,10-14,0,2003,Polio
 Ubon Ratchathani,10-14,0,2003,Polio
 Yasothon,10-14,0,2003,Polio
 South Region,10-14,0,2003,Polio
-Zone 15,10-14,0,2003,Polio
+Zone:15,10-14,0,2003,Polio
 Chumphon,10-14,0,2003,Polio
 Ranong,10-14,0,2003,Polio
 Surat Thani,10-14,0,2003,Polio
-Zone 16,10-14,0,2003,Polio
+Zone:16,10-14,0,2003,Polio
 Nakhon Si Thammarat,10-14,0,2003,Polio
 Phatthalung,10-14,0,2003,Polio
 Trang,10-14,0,2003,Polio
-Zone 17,10-14,0,2003,Polio
+Zone:17,10-14,0,2003,Polio
 Krabi,10-14,0,2003,Polio
 Phangnga,10-14,0,2003,Polio
 Phuket,10-14,0,2003,Polio
-Zone 18,10-14,0,2003,Polio
+Zone:18,10-14,0,2003,Polio
 Narathiwat,10-14,0,2003,Polio
 Pattani,10-14,0,2003,Polio
 Yala,10-14,0,2003,Polio
-Zone 19,10-14,0,2003,Polio
+Zone:19,10-14,0,2003,Polio
 Satun,10-14,0,2003,Polio
 Songkhla,10-14,0,2003,Polio
 Total,15-24,0,2003,Polio
 North Region,15-24,0,2003,Polio
-Zone 1,15-24,0,2003,Polio
+Zone:1,15-24,0,2003,Polio
 Chiang Mai,15-24,0,2003,Polio
 Chiang Rai,15-24,0,2003,Polio
 Lampang,15-24,0,2003,Polio
@@ -12936,98 +12936,98 @@ Mae Hong Son,15-24,0,2003,Polio
 Nan,15-24,0,2003,Polio
 Phayao,15-24,0,2003,Polio
 Phrae,15-24,0,2003,Polio
-Zone 2,15-24,0,2003,Polio
+Zone:2,15-24,0,2003,Polio
 Phetchabun,15-24,0,2003,Polio
 Phitsanulok,15-24,0,2003,Polio
 Sukhothai,15-24,0,2003,Polio
 Tak,15-24,0,2003,Polio
 Uttaradit,15-24,0,2003,Polio
-Zone 3,15-24,0,2003,Polio
+Zone:3,15-24,0,2003,Polio
 Kamphaeng Phet,15-24,0,2003,Polio
 Nakhon Sawan,15-24,0,2003,Polio
 Phichit,15-24,0,2003,Polio
 Uthai Thani,15-24,0,2003,Polio
 Central Region,15-24,0,2003,Polio
 Bangkok,15-24,0,2003,Polio
-Zone 4,15-24,0,2003,Polio
+Zone:4,15-24,0,2003,Polio
 Ang Thong,15-24,0,2003,Polio
 Nonthaburi,15-24,0,2003,Polio
 P.Nakhon S.Ayutthaya,15-24,0,2003,Polio
 Pathum Thani,15-24,0,2003,Polio
-Zone 5,15-24,0,2003,Polio
+Zone:5,15-24,0,2003,Polio
 Chai Nat,15-24,0,2003,Polio
 Lop Buri,15-24,0,2003,Polio
 Saraburi,15-24,0,2003,Polio
 Sing Buri,15-24,0,2003,Polio
-Zone 6,15-24,0,2003,Polio
+Zone:6,15-24,0,2003,Polio
 Kanchanaburi,15-24,0,2003,Polio
 Nakhon Pathom,15-24,0,2003,Polio
 Ratchaburi,15-24,0,2003,Polio
 Suphan Buri,15-24,0,2003,Polio
-Zone 7,15-24,0,2003,Polio
+Zone:7,15-24,0,2003,Polio
 Phetchaburi,15-24,0,2003,Polio
 Prachuap Khiri Khan,15-24,0,2003,Polio
 Samut Sakhon,15-24,0,2003,Polio
 Samut Songkhram,15-24,0,2003,Polio
-Zone 8,15-24,0,2003,Polio
+Zone:8,15-24,0,2003,Polio
 Chachoengsao,15-24,0,2003,Polio
 Nakhon Nayok,15-24,0,2003,Polio
 Prachin Buri,15-24,0,2003,Polio
 Sa Kaeo,15-24,0,2003,Polio
 Samut Prakan,15-24,0,2003,Polio
-Zone 9,15-24,0,2003,Polio
+Zone:9,15-24,0,2003,Polio
 Chanthaburi,15-24,0,2003,Polio
 Chon Buri,15-24,0,2003,Polio
 Rayong,15-24,0,2003,Polio
 Trat,15-24,0,2003,Polio
 North-Eastern Region,15-24,0,2003,Polio
-Zone 10,15-24,0,2003,Polio
+Zone:10,15-24,0,2003,Polio
 Loei,15-24,0,2003,Polio
 Nong Bua Lam Phu,15-24,0,2003,Polio
 Nong Khai,15-24,0,2003,Polio
 Udon Thani,15-24,0,2003,Polio
-Zone 11,15-24,0,2003,Polio
+Zone:11,15-24,0,2003,Polio
 Kalasin,15-24,0,2003,Polio
 Mukdahan,15-24,0,2003,Polio
 Nakhon Phanom,15-24,0,2003,Polio
 Sakon Nakhon,15-24,0,2003,Polio
-Zone 12,15-24,0,2003,Polio
+Zone:12,15-24,0,2003,Polio
 Khon Kaen,15-24,0,2003,Polio
 Maha Sarakham,15-24,0,2003,Polio
 Roi Et,15-24,0,2003,Polio
-Zone 13,15-24,0,2003,Polio
+Zone:13,15-24,0,2003,Polio
 Buri Ram,15-24,0,2003,Polio
 Chaiyaphum,15-24,0,2003,Polio
 Nakhon Ratchasima,15-24,0,2003,Polio
 Surin,15-24,0,2003,Polio
-Zone 14,15-24,0,2003,Polio
+Zone:14,15-24,0,2003,Polio
 Amnat Charoen,15-24,0,2003,Polio
 Si Sa Ket,15-24,0,2003,Polio
 Ubon Ratchathani,15-24,0,2003,Polio
 Yasothon,15-24,0,2003,Polio
 South Region,15-24,0,2003,Polio
-Zone 15,15-24,0,2003,Polio
+Zone:15,15-24,0,2003,Polio
 Chumphon,15-24,0,2003,Polio
 Ranong,15-24,0,2003,Polio
 Surat Thani,15-24,0,2003,Polio
-Zone 16,15-24,0,2003,Polio
+Zone:16,15-24,0,2003,Polio
 Nakhon Si Thammarat,15-24,0,2003,Polio
 Phatthalung,15-24,0,2003,Polio
 Trang,15-24,0,2003,Polio
-Zone 17,15-24,0,2003,Polio
+Zone:17,15-24,0,2003,Polio
 Krabi,15-24,0,2003,Polio
 Phangnga,15-24,0,2003,Polio
 Phuket,15-24,0,2003,Polio
-Zone 18,15-24,0,2003,Polio
+Zone:18,15-24,0,2003,Polio
 Narathiwat,15-24,0,2003,Polio
 Pattani,15-24,0,2003,Polio
 Yala,15-24,0,2003,Polio
-Zone 19,15-24,0,2003,Polio
+Zone:19,15-24,0,2003,Polio
 Satun,15-24,0,2003,Polio
 Songkhla,15-24,0,2003,Polio
 Total,25-34,0,2003,Polio
 North Region,25-34,0,2003,Polio
-Zone 1,25-34,0,2003,Polio
+Zone:1,25-34,0,2003,Polio
 Chiang Mai,25-34,0,2003,Polio
 Chiang Rai,25-34,0,2003,Polio
 Lampang,25-34,0,2003,Polio
@@ -13036,98 +13036,98 @@ Mae Hong Son,25-34,0,2003,Polio
 Nan,25-34,0,2003,Polio
 Phayao,25-34,0,2003,Polio
 Phrae,25-34,0,2003,Polio
-Zone 2,25-34,0,2003,Polio
+Zone:2,25-34,0,2003,Polio
 Phetchabun,25-34,0,2003,Polio
 Phitsanulok,25-34,0,2003,Polio
 Sukhothai,25-34,0,2003,Polio
 Tak,25-34,0,2003,Polio
 Uttaradit,25-34,0,2003,Polio
-Zone 3,25-34,0,2003,Polio
+Zone:3,25-34,0,2003,Polio
 Kamphaeng Phet,25-34,0,2003,Polio
 Nakhon Sawan,25-34,0,2003,Polio
 Phichit,25-34,0,2003,Polio
 Uthai Thani,25-34,0,2003,Polio
 Central Region,25-34,0,2003,Polio
 Bangkok,25-34,0,2003,Polio
-Zone 4,25-34,0,2003,Polio
+Zone:4,25-34,0,2003,Polio
 Ang Thong,25-34,0,2003,Polio
 Nonthaburi,25-34,0,2003,Polio
 P.Nakhon S.Ayutthaya,25-34,0,2003,Polio
 Pathum Thani,25-34,0,2003,Polio
-Zone 5,25-34,0,2003,Polio
+Zone:5,25-34,0,2003,Polio
 Chai Nat,25-34,0,2003,Polio
 Lop Buri,25-34,0,2003,Polio
 Saraburi,25-34,0,2003,Polio
 Sing Buri,25-34,0,2003,Polio
-Zone 6,25-34,0,2003,Polio
+Zone:6,25-34,0,2003,Polio
 Kanchanaburi,25-34,0,2003,Polio
 Nakhon Pathom,25-34,0,2003,Polio
 Ratchaburi,25-34,0,2003,Polio
 Suphan Buri,25-34,0,2003,Polio
-Zone 7,25-34,0,2003,Polio
+Zone:7,25-34,0,2003,Polio
 Phetchaburi,25-34,0,2003,Polio
 Prachuap Khiri Khan,25-34,0,2003,Polio
 Samut Sakhon,25-34,0,2003,Polio
 Samut Songkhram,25-34,0,2003,Polio
-Zone 8,25-34,0,2003,Polio
+Zone:8,25-34,0,2003,Polio
 Chachoengsao,25-34,0,2003,Polio
 Nakhon Nayok,25-34,0,2003,Polio
 Prachin Buri,25-34,0,2003,Polio
 Sa Kaeo,25-34,0,2003,Polio
 Samut Prakan,25-34,0,2003,Polio
-Zone 9,25-34,0,2003,Polio
+Zone:9,25-34,0,2003,Polio
 Chanthaburi,25-34,0,2003,Polio
 Chon Buri,25-34,0,2003,Polio
 Rayong,25-34,0,2003,Polio
 Trat,25-34,0,2003,Polio
 North-Eastern Region,25-34,0,2003,Polio
-Zone 10,25-34,0,2003,Polio
+Zone:10,25-34,0,2003,Polio
 Loei,25-34,0,2003,Polio
 Nong Bua Lam Phu,25-34,0,2003,Polio
 Nong Khai,25-34,0,2003,Polio
 Udon Thani,25-34,0,2003,Polio
-Zone 11,25-34,0,2003,Polio
+Zone:11,25-34,0,2003,Polio
 Kalasin,25-34,0,2003,Polio
 Mukdahan,25-34,0,2003,Polio
 Nakhon Phanom,25-34,0,2003,Polio
 Sakon Nakhon,25-34,0,2003,Polio
-Zone 12,25-34,0,2003,Polio
+Zone:12,25-34,0,2003,Polio
 Khon Kaen,25-34,0,2003,Polio
 Maha Sarakham,25-34,0,2003,Polio
 Roi Et,25-34,0,2003,Polio
-Zone 13,25-34,0,2003,Polio
+Zone:13,25-34,0,2003,Polio
 Buri Ram,25-34,0,2003,Polio
 Chaiyaphum,25-34,0,2003,Polio
 Nakhon Ratchasima,25-34,0,2003,Polio
 Surin,25-34,0,2003,Polio
-Zone 14,25-34,0,2003,Polio
+Zone:14,25-34,0,2003,Polio
 Amnat Charoen,25-34,0,2003,Polio
 Si Sa Ket,25-34,0,2003,Polio
 Ubon Ratchathani,25-34,0,2003,Polio
 Yasothon,25-34,0,2003,Polio
 South Region,25-34,0,2003,Polio
-Zone 15,25-34,0,2003,Polio
+Zone:15,25-34,0,2003,Polio
 Chumphon,25-34,0,2003,Polio
 Ranong,25-34,0,2003,Polio
 Surat Thani,25-34,0,2003,Polio
-Zone 16,25-34,0,2003,Polio
+Zone:16,25-34,0,2003,Polio
 Nakhon Si Thammarat,25-34,0,2003,Polio
 Phatthalung,25-34,0,2003,Polio
 Trang,25-34,0,2003,Polio
-Zone 17,25-34,0,2003,Polio
+Zone:17,25-34,0,2003,Polio
 Krabi,25-34,0,2003,Polio
 Phangnga,25-34,0,2003,Polio
 Phuket,25-34,0,2003,Polio
-Zone 18,25-34,0,2003,Polio
+Zone:18,25-34,0,2003,Polio
 Narathiwat,25-34,0,2003,Polio
 Pattani,25-34,0,2003,Polio
 Yala,25-34,0,2003,Polio
-Zone 19,25-34,0,2003,Polio
+Zone:19,25-34,0,2003,Polio
 Satun,25-34,0,2003,Polio
 Songkhla,25-34,0,2003,Polio
 Total,35-44,0,2003,Polio
 North Region,35-44,0,2003,Polio
-Zone 1,35-44,0,2003,Polio
+Zone:1,35-44,0,2003,Polio
 Chiang Mai,35-44,0,2003,Polio
 Chiang Rai,35-44,0,2003,Polio
 Lampang,35-44,0,2003,Polio
@@ -13136,98 +13136,98 @@ Mae Hong Son,35-44,0,2003,Polio
 Nan,35-44,0,2003,Polio
 Phayao,35-44,0,2003,Polio
 Phrae,35-44,0,2003,Polio
-Zone 2,35-44,0,2003,Polio
+Zone:2,35-44,0,2003,Polio
 Phetchabun,35-44,0,2003,Polio
 Phitsanulok,35-44,0,2003,Polio
 Sukhothai,35-44,0,2003,Polio
 Tak,35-44,0,2003,Polio
 Uttaradit,35-44,0,2003,Polio
-Zone 3,35-44,0,2003,Polio
+Zone:3,35-44,0,2003,Polio
 Kamphaeng Phet,35-44,0,2003,Polio
 Nakhon Sawan,35-44,0,2003,Polio
 Phichit,35-44,0,2003,Polio
 Uthai Thani,35-44,0,2003,Polio
 Central Region,35-44,0,2003,Polio
 Bangkok,35-44,0,2003,Polio
-Zone 4,35-44,0,2003,Polio
+Zone:4,35-44,0,2003,Polio
 Ang Thong,35-44,0,2003,Polio
 Nonthaburi,35-44,0,2003,Polio
 P.Nakhon S.Ayutthaya,35-44,0,2003,Polio
 Pathum Thani,35-44,0,2003,Polio
-Zone 5,35-44,0,2003,Polio
+Zone:5,35-44,0,2003,Polio
 Chai Nat,35-44,0,2003,Polio
 Lop Buri,35-44,0,2003,Polio
 Saraburi,35-44,0,2003,Polio
 Sing Buri,35-44,0,2003,Polio
-Zone 6,35-44,0,2003,Polio
+Zone:6,35-44,0,2003,Polio
 Kanchanaburi,35-44,0,2003,Polio
 Nakhon Pathom,35-44,0,2003,Polio
 Ratchaburi,35-44,0,2003,Polio
 Suphan Buri,35-44,0,2003,Polio
-Zone 7,35-44,0,2003,Polio
+Zone:7,35-44,0,2003,Polio
 Phetchaburi,35-44,0,2003,Polio
 Prachuap Khiri Khan,35-44,0,2003,Polio
 Samut Sakhon,35-44,0,2003,Polio
 Samut Songkhram,35-44,0,2003,Polio
-Zone 8,35-44,0,2003,Polio
+Zone:8,35-44,0,2003,Polio
 Chachoengsao,35-44,0,2003,Polio
 Nakhon Nayok,35-44,0,2003,Polio
 Prachin Buri,35-44,0,2003,Polio
 Sa Kaeo,35-44,0,2003,Polio
 Samut Prakan,35-44,0,2003,Polio
-Zone 9,35-44,0,2003,Polio
+Zone:9,35-44,0,2003,Polio
 Chanthaburi,35-44,0,2003,Polio
 Chon Buri,35-44,0,2003,Polio
 Rayong,35-44,0,2003,Polio
 Trat,35-44,0,2003,Polio
 North-Eastern Region,35-44,0,2003,Polio
-Zone 10,35-44,0,2003,Polio
+Zone:10,35-44,0,2003,Polio
 Loei,35-44,0,2003,Polio
 Nong Bua Lam Phu,35-44,0,2003,Polio
 Nong Khai,35-44,0,2003,Polio
 Udon Thani,35-44,0,2003,Polio
-Zone 11,35-44,0,2003,Polio
+Zone:11,35-44,0,2003,Polio
 Kalasin,35-44,0,2003,Polio
 Mukdahan,35-44,0,2003,Polio
 Nakhon Phanom,35-44,0,2003,Polio
 Sakon Nakhon,35-44,0,2003,Polio
-Zone 12,35-44,0,2003,Polio
+Zone:12,35-44,0,2003,Polio
 Khon Kaen,35-44,0,2003,Polio
 Maha Sarakham,35-44,0,2003,Polio
 Roi Et,35-44,0,2003,Polio
-Zone 13,35-44,0,2003,Polio
+Zone:13,35-44,0,2003,Polio
 Buri Ram,35-44,0,2003,Polio
 Chaiyaphum,35-44,0,2003,Polio
 Nakhon Ratchasima,35-44,0,2003,Polio
 Surin,35-44,0,2003,Polio
-Zone 14,35-44,0,2003,Polio
+Zone:14,35-44,0,2003,Polio
 Amnat Charoen,35-44,0,2003,Polio
 Si Sa Ket,35-44,0,2003,Polio
 Ubon Ratchathani,35-44,0,2003,Polio
 Yasothon,35-44,0,2003,Polio
 South Region,35-44,0,2003,Polio
-Zone 15,35-44,0,2003,Polio
+Zone:15,35-44,0,2003,Polio
 Chumphon,35-44,0,2003,Polio
 Ranong,35-44,0,2003,Polio
 Surat Thani,35-44,0,2003,Polio
-Zone 16,35-44,0,2003,Polio
+Zone:16,35-44,0,2003,Polio
 Nakhon Si Thammarat,35-44,0,2003,Polio
 Phatthalung,35-44,0,2003,Polio
 Trang,35-44,0,2003,Polio
-Zone 17,35-44,0,2003,Polio
+Zone:17,35-44,0,2003,Polio
 Krabi,35-44,0,2003,Polio
 Phangnga,35-44,0,2003,Polio
 Phuket,35-44,0,2003,Polio
-Zone 18,35-44,0,2003,Polio
+Zone:18,35-44,0,2003,Polio
 Narathiwat,35-44,0,2003,Polio
 Pattani,35-44,0,2003,Polio
 Yala,35-44,0,2003,Polio
-Zone 19,35-44,0,2003,Polio
+Zone:19,35-44,0,2003,Polio
 Satun,35-44,0,2003,Polio
 Songkhla,35-44,0,2003,Polio
 Total,45-54,0,2003,Polio
 North Region,45-54,0,2003,Polio
-Zone 1,45-54,0,2003,Polio
+Zone:1,45-54,0,2003,Polio
 Chiang Mai,45-54,0,2003,Polio
 Chiang Rai,45-54,0,2003,Polio
 Lampang,45-54,0,2003,Polio
@@ -13236,98 +13236,98 @@ Mae Hong Son,45-54,0,2003,Polio
 Nan,45-54,0,2003,Polio
 Phayao,45-54,0,2003,Polio
 Phrae,45-54,0,2003,Polio
-Zone 2,45-54,0,2003,Polio
+Zone:2,45-54,0,2003,Polio
 Phetchabun,45-54,0,2003,Polio
 Phitsanulok,45-54,0,2003,Polio
 Sukhothai,45-54,0,2003,Polio
 Tak,45-54,0,2003,Polio
 Uttaradit,45-54,0,2003,Polio
-Zone 3,45-54,0,2003,Polio
+Zone:3,45-54,0,2003,Polio
 Kamphaeng Phet,45-54,0,2003,Polio
 Nakhon Sawan,45-54,0,2003,Polio
 Phichit,45-54,0,2003,Polio
 Uthai Thani,45-54,0,2003,Polio
 Central Region,45-54,0,2003,Polio
 Bangkok,45-54,0,2003,Polio
-Zone 4,45-54,0,2003,Polio
+Zone:4,45-54,0,2003,Polio
 Ang Thong,45-54,0,2003,Polio
 Nonthaburi,45-54,0,2003,Polio
 P.Nakhon S.Ayutthaya,45-54,0,2003,Polio
 Pathum Thani,45-54,0,2003,Polio
-Zone 5,45-54,0,2003,Polio
+Zone:5,45-54,0,2003,Polio
 Chai Nat,45-54,0,2003,Polio
 Lop Buri,45-54,0,2003,Polio
 Saraburi,45-54,0,2003,Polio
 Sing Buri,45-54,0,2003,Polio
-Zone 6,45-54,0,2003,Polio
+Zone:6,45-54,0,2003,Polio
 Kanchanaburi,45-54,0,2003,Polio
 Nakhon Pathom,45-54,0,2003,Polio
 Ratchaburi,45-54,0,2003,Polio
 Suphan Buri,45-54,0,2003,Polio
-Zone 7,45-54,0,2003,Polio
+Zone:7,45-54,0,2003,Polio
 Phetchaburi,45-54,0,2003,Polio
 Prachuap Khiri Khan,45-54,0,2003,Polio
 Samut Sakhon,45-54,0,2003,Polio
 Samut Songkhram,45-54,0,2003,Polio
-Zone 8,45-54,0,2003,Polio
+Zone:8,45-54,0,2003,Polio
 Chachoengsao,45-54,0,2003,Polio
 Nakhon Nayok,45-54,0,2003,Polio
 Prachin Buri,45-54,0,2003,Polio
 Sa Kaeo,45-54,0,2003,Polio
 Samut Prakan,45-54,0,2003,Polio
-Zone 9,45-54,0,2003,Polio
+Zone:9,45-54,0,2003,Polio
 Chanthaburi,45-54,0,2003,Polio
 Chon Buri,45-54,0,2003,Polio
 Rayong,45-54,0,2003,Polio
 Trat,45-54,0,2003,Polio
 North-Eastern Region,45-54,0,2003,Polio
-Zone 10,45-54,0,2003,Polio
+Zone:10,45-54,0,2003,Polio
 Loei,45-54,0,2003,Polio
 Nong Bua Lam Phu,45-54,0,2003,Polio
 Nong Khai,45-54,0,2003,Polio
 Udon Thani,45-54,0,2003,Polio
-Zone 11,45-54,0,2003,Polio
+Zone:11,45-54,0,2003,Polio
 Kalasin,45-54,0,2003,Polio
 Mukdahan,45-54,0,2003,Polio
 Nakhon Phanom,45-54,0,2003,Polio
 Sakon Nakhon,45-54,0,2003,Polio
-Zone 12,45-54,0,2003,Polio
+Zone:12,45-54,0,2003,Polio
 Khon Kaen,45-54,0,2003,Polio
 Maha Sarakham,45-54,0,2003,Polio
 Roi Et,45-54,0,2003,Polio
-Zone 13,45-54,0,2003,Polio
+Zone:13,45-54,0,2003,Polio
 Buri Ram,45-54,0,2003,Polio
 Chaiyaphum,45-54,0,2003,Polio
 Nakhon Ratchasima,45-54,0,2003,Polio
 Surin,45-54,0,2003,Polio
-Zone 14,45-54,0,2003,Polio
+Zone:14,45-54,0,2003,Polio
 Amnat Charoen,45-54,0,2003,Polio
 Si Sa Ket,45-54,0,2003,Polio
 Ubon Ratchathani,45-54,0,2003,Polio
 Yasothon,45-54,0,2003,Polio
 South Region,45-54,0,2003,Polio
-Zone 15,45-54,0,2003,Polio
+Zone:15,45-54,0,2003,Polio
 Chumphon,45-54,0,2003,Polio
 Ranong,45-54,0,2003,Polio
 Surat Thani,45-54,0,2003,Polio
-Zone 16,45-54,0,2003,Polio
+Zone:16,45-54,0,2003,Polio
 Nakhon Si Thammarat,45-54,0,2003,Polio
 Phatthalung,45-54,0,2003,Polio
 Trang,45-54,0,2003,Polio
-Zone 17,45-54,0,2003,Polio
+Zone:17,45-54,0,2003,Polio
 Krabi,45-54,0,2003,Polio
 Phangnga,45-54,0,2003,Polio
 Phuket,45-54,0,2003,Polio
-Zone 18,45-54,0,2003,Polio
+Zone:18,45-54,0,2003,Polio
 Narathiwat,45-54,0,2003,Polio
 Pattani,45-54,0,2003,Polio
 Yala,45-54,0,2003,Polio
-Zone 19,45-54,0,2003,Polio
+Zone:19,45-54,0,2003,Polio
 Satun,45-54,0,2003,Polio
 Songkhla,45-54,0,2003,Polio
 Total,55-64,0,2003,Polio
 North Region,55-64,0,2003,Polio
-Zone 1,55-64,0,2003,Polio
+Zone:1,55-64,0,2003,Polio
 Chiang Mai,55-64,0,2003,Polio
 Chiang Rai,55-64,0,2003,Polio
 Lampang,55-64,0,2003,Polio
@@ -13336,98 +13336,98 @@ Mae Hong Son,55-64,0,2003,Polio
 Nan,55-64,0,2003,Polio
 Phayao,55-64,0,2003,Polio
 Phrae,55-64,0,2003,Polio
-Zone 2,55-64,0,2003,Polio
+Zone:2,55-64,0,2003,Polio
 Phetchabun,55-64,0,2003,Polio
 Phitsanulok,55-64,0,2003,Polio
 Sukhothai,55-64,0,2003,Polio
 Tak,55-64,0,2003,Polio
 Uttaradit,55-64,0,2003,Polio
-Zone 3,55-64,0,2003,Polio
+Zone:3,55-64,0,2003,Polio
 Kamphaeng Phet,55-64,0,2003,Polio
 Nakhon Sawan,55-64,0,2003,Polio
 Phichit,55-64,0,2003,Polio
 Uthai Thani,55-64,0,2003,Polio
 Central Region,55-64,0,2003,Polio
 Bangkok,55-64,0,2003,Polio
-Zone 4,55-64,0,2003,Polio
+Zone:4,55-64,0,2003,Polio
 Ang Thong,55-64,0,2003,Polio
 Nonthaburi,55-64,0,2003,Polio
 P.Nakhon S.Ayutthaya,55-64,0,2003,Polio
 Pathum Thani,55-64,0,2003,Polio
-Zone 5,55-64,0,2003,Polio
+Zone:5,55-64,0,2003,Polio
 Chai Nat,55-64,0,2003,Polio
 Lop Buri,55-64,0,2003,Polio
 Saraburi,55-64,0,2003,Polio
 Sing Buri,55-64,0,2003,Polio
-Zone 6,55-64,0,2003,Polio
+Zone:6,55-64,0,2003,Polio
 Kanchanaburi,55-64,0,2003,Polio
 Nakhon Pathom,55-64,0,2003,Polio
 Ratchaburi,55-64,0,2003,Polio
 Suphan Buri,55-64,0,2003,Polio
-Zone 7,55-64,0,2003,Polio
+Zone:7,55-64,0,2003,Polio
 Phetchaburi,55-64,0,2003,Polio
 Prachuap Khiri Khan,55-64,0,2003,Polio
 Samut Sakhon,55-64,0,2003,Polio
 Samut Songkhram,55-64,0,2003,Polio
-Zone 8,55-64,0,2003,Polio
+Zone:8,55-64,0,2003,Polio
 Chachoengsao,55-64,0,2003,Polio
 Nakhon Nayok,55-64,0,2003,Polio
 Prachin Buri,55-64,0,2003,Polio
 Sa Kaeo,55-64,0,2003,Polio
 Samut Prakan,55-64,0,2003,Polio
-Zone 9,55-64,0,2003,Polio
+Zone:9,55-64,0,2003,Polio
 Chanthaburi,55-64,0,2003,Polio
 Chon Buri,55-64,0,2003,Polio
 Rayong,55-64,0,2003,Polio
 Trat,55-64,0,2003,Polio
 North-Eastern Region,55-64,0,2003,Polio
-Zone 10,55-64,0,2003,Polio
+Zone:10,55-64,0,2003,Polio
 Loei,55-64,0,2003,Polio
 Nong Bua Lam Phu,55-64,0,2003,Polio
 Nong Khai,55-64,0,2003,Polio
 Udon Thani,55-64,0,2003,Polio
-Zone 11,55-64,0,2003,Polio
+Zone:11,55-64,0,2003,Polio
 Kalasin,55-64,0,2003,Polio
 Mukdahan,55-64,0,2003,Polio
 Nakhon Phanom,55-64,0,2003,Polio
 Sakon Nakhon,55-64,0,2003,Polio
-Zone 12,55-64,0,2003,Polio
+Zone:12,55-64,0,2003,Polio
 Khon Kaen,55-64,0,2003,Polio
 Maha Sarakham,55-64,0,2003,Polio
 Roi Et,55-64,0,2003,Polio
-Zone 13,55-64,0,2003,Polio
+Zone:13,55-64,0,2003,Polio
 Buri Ram,55-64,0,2003,Polio
 Chaiyaphum,55-64,0,2003,Polio
 Nakhon Ratchasima,55-64,0,2003,Polio
 Surin,55-64,0,2003,Polio
-Zone 14,55-64,0,2003,Polio
+Zone:14,55-64,0,2003,Polio
 Amnat Charoen,55-64,0,2003,Polio
 Si Sa Ket,55-64,0,2003,Polio
 Ubon Ratchathani,55-64,0,2003,Polio
 Yasothon,55-64,0,2003,Polio
 South Region,55-64,0,2003,Polio
-Zone 15,55-64,0,2003,Polio
+Zone:15,55-64,0,2003,Polio
 Chumphon,55-64,0,2003,Polio
 Ranong,55-64,0,2003,Polio
 Surat Thani,55-64,0,2003,Polio
-Zone 16,55-64,0,2003,Polio
+Zone:16,55-64,0,2003,Polio
 Nakhon Si Thammarat,55-64,0,2003,Polio
 Phatthalung,55-64,0,2003,Polio
 Trang,55-64,0,2003,Polio
-Zone 17,55-64,0,2003,Polio
+Zone:17,55-64,0,2003,Polio
 Krabi,55-64,0,2003,Polio
 Phangnga,55-64,0,2003,Polio
 Phuket,55-64,0,2003,Polio
-Zone 18,55-64,0,2003,Polio
+Zone:18,55-64,0,2003,Polio
 Narathiwat,55-64,0,2003,Polio
 Pattani,55-64,0,2003,Polio
 Yala,55-64,0,2003,Polio
-Zone 19,55-64,0,2003,Polio
+Zone:19,55-64,0,2003,Polio
 Satun,55-64,0,2003,Polio
 Songkhla,55-64,0,2003,Polio
 Total,65+,0,2003,Polio
 North Region,65+,0,2003,Polio
-Zone 1,65+,0,2003,Polio
+Zone:1,65+,0,2003,Polio
 Chiang Mai,65+,0,2003,Polio
 Chiang Rai,65+,0,2003,Polio
 Lampang,65+,0,2003,Polio
@@ -13436,98 +13436,98 @@ Mae Hong Son,65+,0,2003,Polio
 Nan,65+,0,2003,Polio
 Phayao,65+,0,2003,Polio
 Phrae,65+,0,2003,Polio
-Zone 2,65+,0,2003,Polio
+Zone:2,65+,0,2003,Polio
 Phetchabun,65+,0,2003,Polio
 Phitsanulok,65+,0,2003,Polio
 Sukhothai,65+,0,2003,Polio
 Tak,65+,0,2003,Polio
 Uttaradit,65+,0,2003,Polio
-Zone 3,65+,0,2003,Polio
+Zone:3,65+,0,2003,Polio
 Kamphaeng Phet,65+,0,2003,Polio
 Nakhon Sawan,65+,0,2003,Polio
 Phichit,65+,0,2003,Polio
 Uthai Thani,65+,0,2003,Polio
 Central Region,65+,0,2003,Polio
 Bangkok,65+,0,2003,Polio
-Zone 4,65+,0,2003,Polio
+Zone:4,65+,0,2003,Polio
 Ang Thong,65+,0,2003,Polio
 Nonthaburi,65+,0,2003,Polio
 P.Nakhon S.Ayutthaya,65+,0,2003,Polio
 Pathum Thani,65+,0,2003,Polio
-Zone 5,65+,0,2003,Polio
+Zone:5,65+,0,2003,Polio
 Chai Nat,65+,0,2003,Polio
 Lop Buri,65+,0,2003,Polio
 Saraburi,65+,0,2003,Polio
 Sing Buri,65+,0,2003,Polio
-Zone 6,65+,0,2003,Polio
+Zone:6,65+,0,2003,Polio
 Kanchanaburi,65+,0,2003,Polio
 Nakhon Pathom,65+,0,2003,Polio
 Ratchaburi,65+,0,2003,Polio
 Suphan Buri,65+,0,2003,Polio
-Zone 7,65+,0,2003,Polio
+Zone:7,65+,0,2003,Polio
 Phetchaburi,65+,0,2003,Polio
 Prachuap Khiri Khan,65+,0,2003,Polio
 Samut Sakhon,65+,0,2003,Polio
 Samut Songkhram,65+,0,2003,Polio
-Zone 8,65+,0,2003,Polio
+Zone:8,65+,0,2003,Polio
 Chachoengsao,65+,0,2003,Polio
 Nakhon Nayok,65+,0,2003,Polio
 Prachin Buri,65+,0,2003,Polio
 Sa Kaeo,65+,0,2003,Polio
 Samut Prakan,65+,0,2003,Polio
-Zone 9,65+,0,2003,Polio
+Zone:9,65+,0,2003,Polio
 Chanthaburi,65+,0,2003,Polio
 Chon Buri,65+,0,2003,Polio
 Rayong,65+,0,2003,Polio
 Trat,65+,0,2003,Polio
 North-Eastern Region,65+,0,2003,Polio
-Zone 10,65+,0,2003,Polio
+Zone:10,65+,0,2003,Polio
 Loei,65+,0,2003,Polio
 Nong Bua Lam Phu,65+,0,2003,Polio
 Nong Khai,65+,0,2003,Polio
 Udon Thani,65+,0,2003,Polio
-Zone 11,65+,0,2003,Polio
+Zone:11,65+,0,2003,Polio
 Kalasin,65+,0,2003,Polio
 Mukdahan,65+,0,2003,Polio
 Nakhon Phanom,65+,0,2003,Polio
 Sakon Nakhon,65+,0,2003,Polio
-Zone 12,65+,0,2003,Polio
+Zone:12,65+,0,2003,Polio
 Khon Kaen,65+,0,2003,Polio
 Maha Sarakham,65+,0,2003,Polio
 Roi Et,65+,0,2003,Polio
-Zone 13,65+,0,2003,Polio
+Zone:13,65+,0,2003,Polio
 Buri Ram,65+,0,2003,Polio
 Chaiyaphum,65+,0,2003,Polio
 Nakhon Ratchasima,65+,0,2003,Polio
 Surin,65+,0,2003,Polio
-Zone 14,65+,0,2003,Polio
+Zone:14,65+,0,2003,Polio
 Amnat Charoen,65+,0,2003,Polio
 Si Sa Ket,65+,0,2003,Polio
 Ubon Ratchathani,65+,0,2003,Polio
 Yasothon,65+,0,2003,Polio
 South Region,65+,0,2003,Polio
-Zone 15,65+,0,2003,Polio
+Zone:15,65+,0,2003,Polio
 Chumphon,65+,0,2003,Polio
 Ranong,65+,0,2003,Polio
 Surat Thani,65+,0,2003,Polio
-Zone 16,65+,0,2003,Polio
+Zone:16,65+,0,2003,Polio
 Nakhon Si Thammarat,65+,0,2003,Polio
 Phatthalung,65+,0,2003,Polio
 Trang,65+,0,2003,Polio
-Zone 17,65+,0,2003,Polio
+Zone:17,65+,0,2003,Polio
 Krabi,65+,0,2003,Polio
 Phangnga,65+,0,2003,Polio
 Phuket,65+,0,2003,Polio
-Zone 18,65+,0,2003,Polio
+Zone:18,65+,0,2003,Polio
 Narathiwat,65+,0,2003,Polio
 Pattani,65+,0,2003,Polio
 Yala,65+,0,2003,Polio
-Zone 19,65+,0,2003,Polio
+Zone:19,65+,0,2003,Polio
 Satun,65+,0,2003,Polio
 Songkhla,65+,0,2003,Polio
 Total,Unknown,0,2003,Polio
 North Region,Unknown,0,2003,Polio
-Zone 1,Unknown,0,2003,Polio
+Zone:1,Unknown,0,2003,Polio
 Chiang Mai,Unknown,0,2003,Polio
 Chiang Rai,Unknown,0,2003,Polio
 Lampang,Unknown,0,2003,Polio
@@ -13536,93 +13536,93 @@ Mae Hong Son,Unknown,0,2003,Polio
 Nan,Unknown,0,2003,Polio
 Phayao,Unknown,0,2003,Polio
 Phrae,Unknown,0,2003,Polio
-Zone 2,Unknown,0,2003,Polio
+Zone:2,Unknown,0,2003,Polio
 Phetchabun,Unknown,0,2003,Polio
 Phitsanulok,Unknown,0,2003,Polio
 Sukhothai,Unknown,0,2003,Polio
 Tak,Unknown,0,2003,Polio
 Uttaradit,Unknown,0,2003,Polio
-Zone 3,Unknown,0,2003,Polio
+Zone:3,Unknown,0,2003,Polio
 Kamphaeng Phet,Unknown,0,2003,Polio
 Nakhon Sawan,Unknown,0,2003,Polio
 Phichit,Unknown,0,2003,Polio
 Uthai Thani,Unknown,0,2003,Polio
 Central Region,Unknown,0,2003,Polio
 Bangkok,Unknown,0,2003,Polio
-Zone 4,Unknown,0,2003,Polio
+Zone:4,Unknown,0,2003,Polio
 Ang Thong,Unknown,0,2003,Polio
 Nonthaburi,Unknown,0,2003,Polio
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Polio
 Pathum Thani,Unknown,0,2003,Polio
-Zone 5,Unknown,0,2003,Polio
+Zone:5,Unknown,0,2003,Polio
 Chai Nat,Unknown,0,2003,Polio
 Lop Buri,Unknown,0,2003,Polio
 Saraburi,Unknown,0,2003,Polio
 Sing Buri,Unknown,0,2003,Polio
-Zone 6,Unknown,0,2003,Polio
+Zone:6,Unknown,0,2003,Polio
 Kanchanaburi,Unknown,0,2003,Polio
 Nakhon Pathom,Unknown,0,2003,Polio
 Ratchaburi,Unknown,0,2003,Polio
 Suphan Buri,Unknown,0,2003,Polio
-Zone 7,Unknown,0,2003,Polio
+Zone:7,Unknown,0,2003,Polio
 Phetchaburi,Unknown,0,2003,Polio
 Prachuap Khiri Khan,Unknown,0,2003,Polio
 Samut Sakhon,Unknown,0,2003,Polio
 Samut Songkhram,Unknown,0,2003,Polio
-Zone 8,Unknown,0,2003,Polio
+Zone:8,Unknown,0,2003,Polio
 Chachoengsao,Unknown,0,2003,Polio
 Nakhon Nayok,Unknown,0,2003,Polio
 Prachin Buri,Unknown,0,2003,Polio
 Sa Kaeo,Unknown,0,2003,Polio
 Samut Prakan,Unknown,0,2003,Polio
-Zone 9,Unknown,0,2003,Polio
+Zone:9,Unknown,0,2003,Polio
 Chanthaburi,Unknown,0,2003,Polio
 Chon Buri,Unknown,0,2003,Polio
 Rayong,Unknown,0,2003,Polio
 Trat,Unknown,0,2003,Polio
 North-Eastern Region,Unknown,0,2003,Polio
-Zone 10,Unknown,0,2003,Polio
+Zone:10,Unknown,0,2003,Polio
 Loei,Unknown,0,2003,Polio
 Nong Bua Lam Phu,Unknown,0,2003,Polio
 Nong Khai,Unknown,0,2003,Polio
 Udon Thani,Unknown,0,2003,Polio
-Zone 11,Unknown,0,2003,Polio
+Zone:11,Unknown,0,2003,Polio
 Kalasin,Unknown,0,2003,Polio
 Mukdahan,Unknown,0,2003,Polio
 Nakhon Phanom,Unknown,0,2003,Polio
 Sakon Nakhon,Unknown,0,2003,Polio
-Zone 12,Unknown,0,2003,Polio
+Zone:12,Unknown,0,2003,Polio
 Khon Kaen,Unknown,0,2003,Polio
 Maha Sarakham,Unknown,0,2003,Polio
 Roi Et,Unknown,0,2003,Polio
-Zone 13,Unknown,0,2003,Polio
+Zone:13,Unknown,0,2003,Polio
 Buri Ram,Unknown,0,2003,Polio
 Chaiyaphum,Unknown,0,2003,Polio
 Nakhon Ratchasima,Unknown,0,2003,Polio
 Surin,Unknown,0,2003,Polio
-Zone 14,Unknown,0,2003,Polio
+Zone:14,Unknown,0,2003,Polio
 Amnat Charoen,Unknown,0,2003,Polio
 Si Sa Ket,Unknown,0,2003,Polio
 Ubon Ratchathani,Unknown,0,2003,Polio
 Yasothon,Unknown,0,2003,Polio
 South Region,Unknown,0,2003,Polio
-Zone 15,Unknown,0,2003,Polio
+Zone:15,Unknown,0,2003,Polio
 Chumphon,Unknown,0,2003,Polio
 Ranong,Unknown,0,2003,Polio
 Surat Thani,Unknown,0,2003,Polio
-Zone 16,Unknown,0,2003,Polio
+Zone:16,Unknown,0,2003,Polio
 Nakhon Si Thammarat,Unknown,0,2003,Polio
 Phatthalung,Unknown,0,2003,Polio
 Trang,Unknown,0,2003,Polio
-Zone 17,Unknown,0,2003,Polio
+Zone:17,Unknown,0,2003,Polio
 Krabi,Unknown,0,2003,Polio
 Phangnga,Unknown,0,2003,Polio
 Phuket,Unknown,0,2003,Polio
-Zone 18,Unknown,0,2003,Polio
+Zone:18,Unknown,0,2003,Polio
 Narathiwat,Unknown,0,2003,Polio
 Pattani,Unknown,0,2003,Polio
 Yala,Unknown,0,2003,Polio
-Zone 19,Unknown,0,2003,Polio
+Zone:19,Unknown,0,2003,Polio
 Satun,Unknown,0,2003,Polio
 Songkhla,Unknown,0,2003,Polio
 Total,Total,0,2019,Polio
@@ -27505,7 +27505,7 @@ Satun,Unknown,0,2005,Polio
 Songkhla,Unknown,0,2005,Polio
 Total,Total,0,2004,Polio
 North Region,Total,0,2004,Polio
-Zone 1,Total,0,2004,Polio
+Zone:1,Total,0,2004,Polio
 Chiang Mai,Total,0,2004,Polio
 Chiang Rai,Total,0,2004,Polio
 Lampang,Total,0,2004,Polio
@@ -27514,98 +27514,98 @@ Mae Hong Son,Total,0,2004,Polio
 Nan,Total,0,2004,Polio
 Phayao,Total,0,2004,Polio
 Phrae,Total,0,2004,Polio
-Zone 2,Total,0,2004,Polio
+Zone:2,Total,0,2004,Polio
 Phetchabun,Total,0,2004,Polio
 Phitsanulok,Total,0,2004,Polio
 Sukhothai,Total,0,2004,Polio
 Tak,Total,0,2004,Polio
 Uttaradit,Total,0,2004,Polio
-Zone 3,Total,0,2004,Polio
+Zone:3,Total,0,2004,Polio
 Kamphaeng Phet,Total,0,2004,Polio
 Nakhon Sawan,Total,0,2004,Polio
 Phichit,Total,0,2004,Polio
 Uthai Thani,Total,0,2004,Polio
 Central Region,Total,0,2004,Polio
 Bangkok,Total,0,2004,Polio
-Zone 4,Total,0,2004,Polio
+Zone:4,Total,0,2004,Polio
 Ang Thong,Total,0,2004,Polio
 Nonthaburi,Total,0,2004,Polio
 P.Nakhon S.Ayutthaya,Total,0,2004,Polio
 Pathum Thani,Total,0,2004,Polio
-Zone 5,Total,0,2004,Polio
+Zone:5,Total,0,2004,Polio
 Chai Nat,Total,0,2004,Polio
 Lop Buri,Total,0,2004,Polio
 Saraburi,Total,0,2004,Polio
 Sing Buri,Total,0,2004,Polio
-Zone 6,Total,0,2004,Polio
+Zone:6,Total,0,2004,Polio
 Kanchanaburi,Total,0,2004,Polio
 Nakhon Pathom,Total,0,2004,Polio
 Ratchaburi,Total,0,2004,Polio
 Suphan Buri,Total,0,2004,Polio
-Zone 7,Total,0,2004,Polio
+Zone:7,Total,0,2004,Polio
 Phetchaburi,Total,0,2004,Polio
 Prachuap Khiri Khan,Total,0,2004,Polio
 Samut Sakhon,Total,0,2004,Polio
 Samut Songkhram,Total,0,2004,Polio
-Zone 8,Total,0,2004,Polio
+Zone:8,Total,0,2004,Polio
 Chachoengsao,Total,0,2004,Polio
 Nakhon Nayok,Total,0,2004,Polio
 Prachin Buri,Total,0,2004,Polio
 Sa Kaeo,Total,0,2004,Polio
 Samut Prakan,Total,0,2004,Polio
-Zone 9,Total,0,2004,Polio
+Zone:9,Total,0,2004,Polio
 Chanthaburi,Total,0,2004,Polio
 Chon Buri,Total,0,2004,Polio
 Rayong,Total,0,2004,Polio
 Trat,Total,0,2004,Polio
 North-Eastern Region,Total,0,2004,Polio
-Zone 10,Total,0,2004,Polio
+Zone:10,Total,0,2004,Polio
 Loei,Total,0,2004,Polio
 Nong Bua Lam Phu,Total,0,2004,Polio
 Nong Khai,Total,0,2004,Polio
 Udon Thani,Total,0,2004,Polio
-Zone 11,Total,0,2004,Polio
+Zone:11,Total,0,2004,Polio
 Kalasin,Total,0,2004,Polio
 Mukdahan,Total,0,2004,Polio
 Nakhon Phanom,Total,0,2004,Polio
 Sakon Nakhon,Total,0,2004,Polio
-Zone 12,Total,0,2004,Polio
+Zone:12,Total,0,2004,Polio
 Khon Kaen,Total,0,2004,Polio
 Maha Sarakham,Total,0,2004,Polio
 Roi Et,Total,0,2004,Polio
-Zone 13,Total,0,2004,Polio
+Zone:13,Total,0,2004,Polio
 Buri Ram,Total,0,2004,Polio
 Chaiyaphum,Total,0,2004,Polio
 Nakhon Ratchasima,Total,0,2004,Polio
 Surin,Total,0,2004,Polio
-Zone 14,Total,0,2004,Polio
+Zone:14,Total,0,2004,Polio
 Amnat Charoen,Total,0,2004,Polio
 Si Sa Ket,Total,0,2004,Polio
 Ubon Ratchathani,Total,0,2004,Polio
 Yasothon,Total,0,2004,Polio
 South Region,Total,0,2004,Polio
-Zone 15,Total,0,2004,Polio
+Zone:15,Total,0,2004,Polio
 Chumphon,Total,0,2004,Polio
 Ranong,Total,0,2004,Polio
 Surat Thani,Total,0,2004,Polio
-Zone 16,Total,0,2004,Polio
+Zone:16,Total,0,2004,Polio
 Nakhon Si Thammarat,Total,0,2004,Polio
 Phatthalung,Total,0,2004,Polio
 Trang,Total,0,2004,Polio
-Zone 17,Total,0,2004,Polio
+Zone:17,Total,0,2004,Polio
 Krabi,Total,0,2004,Polio
 Phangnga,Total,0,2004,Polio
 Phuket,Total,0,2004,Polio
-Zone 18,Total,0,2004,Polio
+Zone:18,Total,0,2004,Polio
 Narathiwat,Total,0,2004,Polio
 Pattani,Total,0,2004,Polio
 Yala,Total,0,2004,Polio
-Zone 19,Total,0,2004,Polio
+Zone:19,Total,0,2004,Polio
 Satun,Total,0,2004,Polio
 Songkhla,Total,0,2004,Polio
 Total,0,0,2004,Polio
 North Region,0,0,2004,Polio
-Zone 1,0,0,2004,Polio
+Zone:1,0,0,2004,Polio
 Chiang Mai,0,0,2004,Polio
 Chiang Rai,0,0,2004,Polio
 Lampang,0,0,2004,Polio
@@ -27614,98 +27614,98 @@ Mae Hong Son,0,0,2004,Polio
 Nan,0,0,2004,Polio
 Phayao,0,0,2004,Polio
 Phrae,0,0,2004,Polio
-Zone 2,0,0,2004,Polio
+Zone:2,0,0,2004,Polio
 Phetchabun,0,0,2004,Polio
 Phitsanulok,0,0,2004,Polio
 Sukhothai,0,0,2004,Polio
 Tak,0,0,2004,Polio
 Uttaradit,0,0,2004,Polio
-Zone 3,0,0,2004,Polio
+Zone:3,0,0,2004,Polio
 Kamphaeng Phet,0,0,2004,Polio
 Nakhon Sawan,0,0,2004,Polio
 Phichit,0,0,2004,Polio
 Uthai Thani,0,0,2004,Polio
 Central Region,0,0,2004,Polio
 Bangkok,0,0,2004,Polio
-Zone 4,0,0,2004,Polio
+Zone:4,0,0,2004,Polio
 Ang Thong,0,0,2004,Polio
 Nonthaburi,0,0,2004,Polio
 P.Nakhon S.Ayutthaya,0,0,2004,Polio
 Pathum Thani,0,0,2004,Polio
-Zone 5,0,0,2004,Polio
+Zone:5,0,0,2004,Polio
 Chai Nat,0,0,2004,Polio
 Lop Buri,0,0,2004,Polio
 Saraburi,0,0,2004,Polio
 Sing Buri,0,0,2004,Polio
-Zone 6,0,0,2004,Polio
+Zone:6,0,0,2004,Polio
 Kanchanaburi,0,0,2004,Polio
 Nakhon Pathom,0,0,2004,Polio
 Ratchaburi,0,0,2004,Polio
 Suphan Buri,0,0,2004,Polio
-Zone 7,0,0,2004,Polio
+Zone:7,0,0,2004,Polio
 Phetchaburi,0,0,2004,Polio
 Prachuap Khiri Khan,0,0,2004,Polio
 Samut Sakhon,0,0,2004,Polio
 Samut Songkhram,0,0,2004,Polio
-Zone 8,0,0,2004,Polio
+Zone:8,0,0,2004,Polio
 Chachoengsao,0,0,2004,Polio
 Nakhon Nayok,0,0,2004,Polio
 Prachin Buri,0,0,2004,Polio
 Sa Kaeo,0,0,2004,Polio
 Samut Prakan,0,0,2004,Polio
-Zone 9,0,0,2004,Polio
+Zone:9,0,0,2004,Polio
 Chanthaburi,0,0,2004,Polio
 Chon Buri,0,0,2004,Polio
 Rayong,0,0,2004,Polio
 Trat,0,0,2004,Polio
 North-Eastern Region,0,0,2004,Polio
-Zone 10,0,0,2004,Polio
+Zone:10,0,0,2004,Polio
 Loei,0,0,2004,Polio
 Nong Bua Lam Phu,0,0,2004,Polio
 Nong Khai,0,0,2004,Polio
 Udon Thani,0,0,2004,Polio
-Zone 11,0,0,2004,Polio
+Zone:11,0,0,2004,Polio
 Kalasin,0,0,2004,Polio
 Mukdahan,0,0,2004,Polio
 Nakhon Phanom,0,0,2004,Polio
 Sakon Nakhon,0,0,2004,Polio
-Zone 12,0,0,2004,Polio
+Zone:12,0,0,2004,Polio
 Khon Kaen,0,0,2004,Polio
 Maha Sarakham,0,0,2004,Polio
 Roi Et,0,0,2004,Polio
-Zone 13,0,0,2004,Polio
+Zone:13,0,0,2004,Polio
 Buri Ram,0,0,2004,Polio
 Chaiyaphum,0,0,2004,Polio
 Nakhon Ratchasima,0,0,2004,Polio
 Surin,0,0,2004,Polio
-Zone 14,0,0,2004,Polio
+Zone:14,0,0,2004,Polio
 Amnat Charoen,0,0,2004,Polio
 Si Sa Ket,0,0,2004,Polio
 Ubon Ratchathani,0,0,2004,Polio
 Yasothon,0,0,2004,Polio
 South Region,0,0,2004,Polio
-Zone 15,0,0,2004,Polio
+Zone:15,0,0,2004,Polio
 Chumphon,0,0,2004,Polio
 Ranong,0,0,2004,Polio
 Surat Thani,0,0,2004,Polio
-Zone 16,0,0,2004,Polio
+Zone:16,0,0,2004,Polio
 Nakhon Si Thammarat,0,0,2004,Polio
 Phatthalung,0,0,2004,Polio
 Trang,0,0,2004,Polio
-Zone 17,0,0,2004,Polio
+Zone:17,0,0,2004,Polio
 Krabi,0,0,2004,Polio
 Phangnga,0,0,2004,Polio
 Phuket,0,0,2004,Polio
-Zone 18,0,0,2004,Polio
+Zone:18,0,0,2004,Polio
 Narathiwat,0,0,2004,Polio
 Pattani,0,0,2004,Polio
 Yala,0,0,2004,Polio
-Zone 19,0,0,2004,Polio
+Zone:19,0,0,2004,Polio
 Satun,0,0,2004,Polio
 Songkhla,0,0,2004,Polio
 Total,<1,0,2004,Polio
 North Region,<1,0,2004,Polio
-Zone 1,<1,0,2004,Polio
+Zone:1,<1,0,2004,Polio
 Chiang Mai,<1,0,2004,Polio
 Chiang Rai,<1,0,2004,Polio
 Lampang,<1,0,2004,Polio
@@ -27714,98 +27714,98 @@ Mae Hong Son,<1,0,2004,Polio
 Nan,<1,0,2004,Polio
 Phayao,<1,0,2004,Polio
 Phrae,<1,0,2004,Polio
-Zone 2,<1,0,2004,Polio
+Zone:2,<1,0,2004,Polio
 Phetchabun,<1,0,2004,Polio
 Phitsanulok,<1,0,2004,Polio
 Sukhothai,<1,0,2004,Polio
 Tak,<1,0,2004,Polio
 Uttaradit,<1,0,2004,Polio
-Zone 3,<1,0,2004,Polio
+Zone:3,<1,0,2004,Polio
 Kamphaeng Phet,<1,0,2004,Polio
 Nakhon Sawan,<1,0,2004,Polio
 Phichit,<1,0,2004,Polio
 Uthai Thani,<1,0,2004,Polio
 Central Region,<1,0,2004,Polio
 Bangkok,<1,0,2004,Polio
-Zone 4,<1,0,2004,Polio
+Zone:4,<1,0,2004,Polio
 Ang Thong,<1,0,2004,Polio
 Nonthaburi,<1,0,2004,Polio
 P.Nakhon S.Ayutthaya,<1,0,2004,Polio
 Pathum Thani,<1,0,2004,Polio
-Zone 5,<1,0,2004,Polio
+Zone:5,<1,0,2004,Polio
 Chai Nat,<1,0,2004,Polio
 Lop Buri,<1,0,2004,Polio
 Saraburi,<1,0,2004,Polio
 Sing Buri,<1,0,2004,Polio
-Zone 6,<1,0,2004,Polio
+Zone:6,<1,0,2004,Polio
 Kanchanaburi,<1,0,2004,Polio
 Nakhon Pathom,<1,0,2004,Polio
 Ratchaburi,<1,0,2004,Polio
 Suphan Buri,<1,0,2004,Polio
-Zone 7,<1,0,2004,Polio
+Zone:7,<1,0,2004,Polio
 Phetchaburi,<1,0,2004,Polio
 Prachuap Khiri Khan,<1,0,2004,Polio
 Samut Sakhon,<1,0,2004,Polio
 Samut Songkhram,<1,0,2004,Polio
-Zone 8,<1,0,2004,Polio
+Zone:8,<1,0,2004,Polio
 Chachoengsao,<1,0,2004,Polio
 Nakhon Nayok,<1,0,2004,Polio
 Prachin Buri,<1,0,2004,Polio
 Sa Kaeo,<1,0,2004,Polio
 Samut Prakan,<1,0,2004,Polio
-Zone 9,<1,0,2004,Polio
+Zone:9,<1,0,2004,Polio
 Chanthaburi,<1,0,2004,Polio
 Chon Buri,<1,0,2004,Polio
 Rayong,<1,0,2004,Polio
 Trat,<1,0,2004,Polio
 North-Eastern Region,<1,0,2004,Polio
-Zone 10,<1,0,2004,Polio
+Zone:10,<1,0,2004,Polio
 Loei,<1,0,2004,Polio
 Nong Bua Lam Phu,<1,0,2004,Polio
 Nong Khai,<1,0,2004,Polio
 Udon Thani,<1,0,2004,Polio
-Zone 11,<1,0,2004,Polio
+Zone:11,<1,0,2004,Polio
 Kalasin,<1,0,2004,Polio
 Mukdahan,<1,0,2004,Polio
 Nakhon Phanom,<1,0,2004,Polio
 Sakon Nakhon,<1,0,2004,Polio
-Zone 12,<1,0,2004,Polio
+Zone:12,<1,0,2004,Polio
 Khon Kaen,<1,0,2004,Polio
 Maha Sarakham,<1,0,2004,Polio
 Roi Et,<1,0,2004,Polio
-Zone 13,<1,0,2004,Polio
+Zone:13,<1,0,2004,Polio
 Buri Ram,<1,0,2004,Polio
 Chaiyaphum,<1,0,2004,Polio
 Nakhon Ratchasima,<1,0,2004,Polio
 Surin,<1,0,2004,Polio
-Zone 14,<1,0,2004,Polio
+Zone:14,<1,0,2004,Polio
 Amnat Charoen,<1,0,2004,Polio
 Si Sa Ket,<1,0,2004,Polio
 Ubon Ratchathani,<1,0,2004,Polio
 Yasothon,<1,0,2004,Polio
 South Region,<1,0,2004,Polio
-Zone 15,<1,0,2004,Polio
+Zone:15,<1,0,2004,Polio
 Chumphon,<1,0,2004,Polio
 Ranong,<1,0,2004,Polio
 Surat Thani,<1,0,2004,Polio
-Zone 16,<1,0,2004,Polio
+Zone:16,<1,0,2004,Polio
 Nakhon Si Thammarat,<1,0,2004,Polio
 Phatthalung,<1,0,2004,Polio
 Trang,<1,0,2004,Polio
-Zone 17,<1,0,2004,Polio
+Zone:17,<1,0,2004,Polio
 Krabi,<1,0,2004,Polio
 Phangnga,<1,0,2004,Polio
 Phuket,<1,0,2004,Polio
-Zone 18,<1,0,2004,Polio
+Zone:18,<1,0,2004,Polio
 Narathiwat,<1,0,2004,Polio
 Pattani,<1,0,2004,Polio
 Yala,<1,0,2004,Polio
-Zone 19,<1,0,2004,Polio
+Zone:19,<1,0,2004,Polio
 Satun,<1,0,2004,Polio
 Songkhla,<1,0,2004,Polio
 Total,1-1,0,2004,Polio
 North Region,1-1,0,2004,Polio
-Zone 1,1-1,0,2004,Polio
+Zone:1,1-1,0,2004,Polio
 Chiang Mai,1-1,0,2004,Polio
 Chiang Rai,1-1,0,2004,Polio
 Lampang,1-1,0,2004,Polio
@@ -27814,98 +27814,98 @@ Mae Hong Son,1-1,0,2004,Polio
 Nan,1-1,0,2004,Polio
 Phayao,1-1,0,2004,Polio
 Phrae,1-1,0,2004,Polio
-Zone 2,1-1,0,2004,Polio
+Zone:2,1-1,0,2004,Polio
 Phetchabun,1-1,0,2004,Polio
 Phitsanulok,1-1,0,2004,Polio
 Sukhothai,1-1,0,2004,Polio
 Tak,1-1,0,2004,Polio
 Uttaradit,1-1,0,2004,Polio
-Zone 3,1-1,0,2004,Polio
+Zone:3,1-1,0,2004,Polio
 Kamphaeng Phet,1-1,0,2004,Polio
 Nakhon Sawan,1-1,0,2004,Polio
 Phichit,1-1,0,2004,Polio
 Uthai Thani,1-1,0,2004,Polio
 Central Region,1-1,0,2004,Polio
 Bangkok,1-1,0,2004,Polio
-Zone 4,1-1,0,2004,Polio
+Zone:4,1-1,0,2004,Polio
 Ang Thong,1-1,0,2004,Polio
 Nonthaburi,1-1,0,2004,Polio
 P.Nakhon S.Ayutthaya,1-1,0,2004,Polio
 Pathum Thani,1-1,0,2004,Polio
-Zone 5,1-1,0,2004,Polio
+Zone:5,1-1,0,2004,Polio
 Chai Nat,1-1,0,2004,Polio
 Lop Buri,1-1,0,2004,Polio
 Saraburi,1-1,0,2004,Polio
 Sing Buri,1-1,0,2004,Polio
-Zone 6,1-1,0,2004,Polio
+Zone:6,1-1,0,2004,Polio
 Kanchanaburi,1-1,0,2004,Polio
 Nakhon Pathom,1-1,0,2004,Polio
 Ratchaburi,1-1,0,2004,Polio
 Suphan Buri,1-1,0,2004,Polio
-Zone 7,1-1,0,2004,Polio
+Zone:7,1-1,0,2004,Polio
 Phetchaburi,1-1,0,2004,Polio
 Prachuap Khiri Khan,1-1,0,2004,Polio
 Samut Sakhon,1-1,0,2004,Polio
 Samut Songkhram,1-1,0,2004,Polio
-Zone 8,1-1,0,2004,Polio
+Zone:8,1-1,0,2004,Polio
 Chachoengsao,1-1,0,2004,Polio
 Nakhon Nayok,1-1,0,2004,Polio
 Prachin Buri,1-1,0,2004,Polio
 Sa Kaeo,1-1,0,2004,Polio
 Samut Prakan,1-1,0,2004,Polio
-Zone 9,1-1,0,2004,Polio
+Zone:9,1-1,0,2004,Polio
 Chanthaburi,1-1,0,2004,Polio
 Chon Buri,1-1,0,2004,Polio
 Rayong,1-1,0,2004,Polio
 Trat,1-1,0,2004,Polio
 North-Eastern Region,1-1,0,2004,Polio
-Zone 10,1-1,0,2004,Polio
+Zone:10,1-1,0,2004,Polio
 Loei,1-1,0,2004,Polio
 Nong Bua Lam Phu,1-1,0,2004,Polio
 Nong Khai,1-1,0,2004,Polio
 Udon Thani,1-1,0,2004,Polio
-Zone 11,1-1,0,2004,Polio
+Zone:11,1-1,0,2004,Polio
 Kalasin,1-1,0,2004,Polio
 Mukdahan,1-1,0,2004,Polio
 Nakhon Phanom,1-1,0,2004,Polio
 Sakon Nakhon,1-1,0,2004,Polio
-Zone 12,1-1,0,2004,Polio
+Zone:12,1-1,0,2004,Polio
 Khon Kaen,1-1,0,2004,Polio
 Maha Sarakham,1-1,0,2004,Polio
 Roi Et,1-1,0,2004,Polio
-Zone 13,1-1,0,2004,Polio
+Zone:13,1-1,0,2004,Polio
 Buri Ram,1-1,0,2004,Polio
 Chaiyaphum,1-1,0,2004,Polio
 Nakhon Ratchasima,1-1,0,2004,Polio
 Surin,1-1,0,2004,Polio
-Zone 14,1-1,0,2004,Polio
+Zone:14,1-1,0,2004,Polio
 Amnat Charoen,1-1,0,2004,Polio
 Si Sa Ket,1-1,0,2004,Polio
 Ubon Ratchathani,1-1,0,2004,Polio
 Yasothon,1-1,0,2004,Polio
 South Region,1-1,0,2004,Polio
-Zone 15,1-1,0,2004,Polio
+Zone:15,1-1,0,2004,Polio
 Chumphon,1-1,0,2004,Polio
 Ranong,1-1,0,2004,Polio
 Surat Thani,1-1,0,2004,Polio
-Zone 16,1-1,0,2004,Polio
+Zone:16,1-1,0,2004,Polio
 Nakhon Si Thammarat,1-1,0,2004,Polio
 Phatthalung,1-1,0,2004,Polio
 Trang,1-1,0,2004,Polio
-Zone 17,1-1,0,2004,Polio
+Zone:17,1-1,0,2004,Polio
 Krabi,1-1,0,2004,Polio
 Phangnga,1-1,0,2004,Polio
 Phuket,1-1,0,2004,Polio
-Zone 18,1-1,0,2004,Polio
+Zone:18,1-1,0,2004,Polio
 Narathiwat,1-1,0,2004,Polio
 Pattani,1-1,0,2004,Polio
 Yala,1-1,0,2004,Polio
-Zone 19,1-1,0,2004,Polio
+Zone:19,1-1,0,2004,Polio
 Satun,1-1,0,2004,Polio
 Songkhla,1-1,0,2004,Polio
 Total,2-2,0,2004,Polio
 North Region,2-2,0,2004,Polio
-Zone 1,2-2,0,2004,Polio
+Zone:1,2-2,0,2004,Polio
 Chiang Mai,2-2,0,2004,Polio
 Chiang Rai,2-2,0,2004,Polio
 Lampang,2-2,0,2004,Polio
@@ -27914,98 +27914,98 @@ Mae Hong Son,2-2,0,2004,Polio
 Nan,2-2,0,2004,Polio
 Phayao,2-2,0,2004,Polio
 Phrae,2-2,0,2004,Polio
-Zone 2,2-2,0,2004,Polio
+Zone:2,2-2,0,2004,Polio
 Phetchabun,2-2,0,2004,Polio
 Phitsanulok,2-2,0,2004,Polio
 Sukhothai,2-2,0,2004,Polio
 Tak,2-2,0,2004,Polio
 Uttaradit,2-2,0,2004,Polio
-Zone 3,2-2,0,2004,Polio
+Zone:3,2-2,0,2004,Polio
 Kamphaeng Phet,2-2,0,2004,Polio
 Nakhon Sawan,2-2,0,2004,Polio
 Phichit,2-2,0,2004,Polio
 Uthai Thani,2-2,0,2004,Polio
 Central Region,2-2,0,2004,Polio
 Bangkok,2-2,0,2004,Polio
-Zone 4,2-2,0,2004,Polio
+Zone:4,2-2,0,2004,Polio
 Ang Thong,2-2,0,2004,Polio
 Nonthaburi,2-2,0,2004,Polio
 P.Nakhon S.Ayutthaya,2-2,0,2004,Polio
 Pathum Thani,2-2,0,2004,Polio
-Zone 5,2-2,0,2004,Polio
+Zone:5,2-2,0,2004,Polio
 Chai Nat,2-2,0,2004,Polio
 Lop Buri,2-2,0,2004,Polio
 Saraburi,2-2,0,2004,Polio
 Sing Buri,2-2,0,2004,Polio
-Zone 6,2-2,0,2004,Polio
+Zone:6,2-2,0,2004,Polio
 Kanchanaburi,2-2,0,2004,Polio
 Nakhon Pathom,2-2,0,2004,Polio
 Ratchaburi,2-2,0,2004,Polio
 Suphan Buri,2-2,0,2004,Polio
-Zone 7,2-2,0,2004,Polio
+Zone:7,2-2,0,2004,Polio
 Phetchaburi,2-2,0,2004,Polio
 Prachuap Khiri Khan,2-2,0,2004,Polio
 Samut Sakhon,2-2,0,2004,Polio
 Samut Songkhram,2-2,0,2004,Polio
-Zone 8,2-2,0,2004,Polio
+Zone:8,2-2,0,2004,Polio
 Chachoengsao,2-2,0,2004,Polio
 Nakhon Nayok,2-2,0,2004,Polio
 Prachin Buri,2-2,0,2004,Polio
 Sa Kaeo,2-2,0,2004,Polio
 Samut Prakan,2-2,0,2004,Polio
-Zone 9,2-2,0,2004,Polio
+Zone:9,2-2,0,2004,Polio
 Chanthaburi,2-2,0,2004,Polio
 Chon Buri,2-2,0,2004,Polio
 Rayong,2-2,0,2004,Polio
 Trat,2-2,0,2004,Polio
 North-Eastern Region,2-2,0,2004,Polio
-Zone 10,2-2,0,2004,Polio
+Zone:10,2-2,0,2004,Polio
 Loei,2-2,0,2004,Polio
 Nong Bua Lam Phu,2-2,0,2004,Polio
 Nong Khai,2-2,0,2004,Polio
 Udon Thani,2-2,0,2004,Polio
-Zone 11,2-2,0,2004,Polio
+Zone:11,2-2,0,2004,Polio
 Kalasin,2-2,0,2004,Polio
 Mukdahan,2-2,0,2004,Polio
 Nakhon Phanom,2-2,0,2004,Polio
 Sakon Nakhon,2-2,0,2004,Polio
-Zone 12,2-2,0,2004,Polio
+Zone:12,2-2,0,2004,Polio
 Khon Kaen,2-2,0,2004,Polio
 Maha Sarakham,2-2,0,2004,Polio
 Roi Et,2-2,0,2004,Polio
-Zone 13,2-2,0,2004,Polio
+Zone:13,2-2,0,2004,Polio
 Buri Ram,2-2,0,2004,Polio
 Chaiyaphum,2-2,0,2004,Polio
 Nakhon Ratchasima,2-2,0,2004,Polio
 Surin,2-2,0,2004,Polio
-Zone 14,2-2,0,2004,Polio
+Zone:14,2-2,0,2004,Polio
 Amnat Charoen,2-2,0,2004,Polio
 Si Sa Ket,2-2,0,2004,Polio
 Ubon Ratchathani,2-2,0,2004,Polio
 Yasothon,2-2,0,2004,Polio
 South Region,2-2,0,2004,Polio
-Zone 15,2-2,0,2004,Polio
+Zone:15,2-2,0,2004,Polio
 Chumphon,2-2,0,2004,Polio
 Ranong,2-2,0,2004,Polio
 Surat Thani,2-2,0,2004,Polio
-Zone 16,2-2,0,2004,Polio
+Zone:16,2-2,0,2004,Polio
 Nakhon Si Thammarat,2-2,0,2004,Polio
 Phatthalung,2-2,0,2004,Polio
 Trang,2-2,0,2004,Polio
-Zone 17,2-2,0,2004,Polio
+Zone:17,2-2,0,2004,Polio
 Krabi,2-2,0,2004,Polio
 Phangnga,2-2,0,2004,Polio
 Phuket,2-2,0,2004,Polio
-Zone 18,2-2,0,2004,Polio
+Zone:18,2-2,0,2004,Polio
 Narathiwat,2-2,0,2004,Polio
 Pattani,2-2,0,2004,Polio
 Yala,2-2,0,2004,Polio
-Zone 19,2-2,0,2004,Polio
+Zone:19,2-2,0,2004,Polio
 Satun,2-2,0,2004,Polio
 Songkhla,2-2,0,2004,Polio
 Total,3-3,0,2004,Polio
 North Region,3-3,0,2004,Polio
-Zone 1,3-3,0,2004,Polio
+Zone:1,3-3,0,2004,Polio
 Chiang Mai,3-3,0,2004,Polio
 Chiang Rai,3-3,0,2004,Polio
 Lampang,3-3,0,2004,Polio
@@ -28014,98 +28014,98 @@ Mae Hong Son,3-3,0,2004,Polio
 Nan,3-3,0,2004,Polio
 Phayao,3-3,0,2004,Polio
 Phrae,3-3,0,2004,Polio
-Zone 2,3-3,0,2004,Polio
+Zone:2,3-3,0,2004,Polio
 Phetchabun,3-3,0,2004,Polio
 Phitsanulok,3-3,0,2004,Polio
 Sukhothai,3-3,0,2004,Polio
 Tak,3-3,0,2004,Polio
 Uttaradit,3-3,0,2004,Polio
-Zone 3,3-3,0,2004,Polio
+Zone:3,3-3,0,2004,Polio
 Kamphaeng Phet,3-3,0,2004,Polio
 Nakhon Sawan,3-3,0,2004,Polio
 Phichit,3-3,0,2004,Polio
 Uthai Thani,3-3,0,2004,Polio
 Central Region,3-3,0,2004,Polio
 Bangkok,3-3,0,2004,Polio
-Zone 4,3-3,0,2004,Polio
+Zone:4,3-3,0,2004,Polio
 Ang Thong,3-3,0,2004,Polio
 Nonthaburi,3-3,0,2004,Polio
 P.Nakhon S.Ayutthaya,3-3,0,2004,Polio
 Pathum Thani,3-3,0,2004,Polio
-Zone 5,3-3,0,2004,Polio
+Zone:5,3-3,0,2004,Polio
 Chai Nat,3-3,0,2004,Polio
 Lop Buri,3-3,0,2004,Polio
 Saraburi,3-3,0,2004,Polio
 Sing Buri,3-3,0,2004,Polio
-Zone 6,3-3,0,2004,Polio
+Zone:6,3-3,0,2004,Polio
 Kanchanaburi,3-3,0,2004,Polio
 Nakhon Pathom,3-3,0,2004,Polio
 Ratchaburi,3-3,0,2004,Polio
 Suphan Buri,3-3,0,2004,Polio
-Zone 7,3-3,0,2004,Polio
+Zone:7,3-3,0,2004,Polio
 Phetchaburi,3-3,0,2004,Polio
 Prachuap Khiri Khan,3-3,0,2004,Polio
 Samut Sakhon,3-3,0,2004,Polio
 Samut Songkhram,3-3,0,2004,Polio
-Zone 8,3-3,0,2004,Polio
+Zone:8,3-3,0,2004,Polio
 Chachoengsao,3-3,0,2004,Polio
 Nakhon Nayok,3-3,0,2004,Polio
 Prachin Buri,3-3,0,2004,Polio
 Sa Kaeo,3-3,0,2004,Polio
 Samut Prakan,3-3,0,2004,Polio
-Zone 9,3-3,0,2004,Polio
+Zone:9,3-3,0,2004,Polio
 Chanthaburi,3-3,0,2004,Polio
 Chon Buri,3-3,0,2004,Polio
 Rayong,3-3,0,2004,Polio
 Trat,3-3,0,2004,Polio
 North-Eastern Region,3-3,0,2004,Polio
-Zone 10,3-3,0,2004,Polio
+Zone:10,3-3,0,2004,Polio
 Loei,3-3,0,2004,Polio
 Nong Bua Lam Phu,3-3,0,2004,Polio
 Nong Khai,3-3,0,2004,Polio
 Udon Thani,3-3,0,2004,Polio
-Zone 11,3-3,0,2004,Polio
+Zone:11,3-3,0,2004,Polio
 Kalasin,3-3,0,2004,Polio
 Mukdahan,3-3,0,2004,Polio
 Nakhon Phanom,3-3,0,2004,Polio
 Sakon Nakhon,3-3,0,2004,Polio
-Zone 12,3-3,0,2004,Polio
+Zone:12,3-3,0,2004,Polio
 Khon Kaen,3-3,0,2004,Polio
 Maha Sarakham,3-3,0,2004,Polio
 Roi Et,3-3,0,2004,Polio
-Zone 13,3-3,0,2004,Polio
+Zone:13,3-3,0,2004,Polio
 Buri Ram,3-3,0,2004,Polio
 Chaiyaphum,3-3,0,2004,Polio
 Nakhon Ratchasima,3-3,0,2004,Polio
 Surin,3-3,0,2004,Polio
-Zone 14,3-3,0,2004,Polio
+Zone:14,3-3,0,2004,Polio
 Amnat Charoen,3-3,0,2004,Polio
 Si Sa Ket,3-3,0,2004,Polio
 Ubon Ratchathani,3-3,0,2004,Polio
 Yasothon,3-3,0,2004,Polio
 South Region,3-3,0,2004,Polio
-Zone 15,3-3,0,2004,Polio
+Zone:15,3-3,0,2004,Polio
 Chumphon,3-3,0,2004,Polio
 Ranong,3-3,0,2004,Polio
 Surat Thani,3-3,0,2004,Polio
-Zone 16,3-3,0,2004,Polio
+Zone:16,3-3,0,2004,Polio
 Nakhon Si Thammarat,3-3,0,2004,Polio
 Phatthalung,3-3,0,2004,Polio
 Trang,3-3,0,2004,Polio
-Zone 17,3-3,0,2004,Polio
+Zone:17,3-3,0,2004,Polio
 Krabi,3-3,0,2004,Polio
 Phangnga,3-3,0,2004,Polio
 Phuket,3-3,0,2004,Polio
-Zone 18,3-3,0,2004,Polio
+Zone:18,3-3,0,2004,Polio
 Narathiwat,3-3,0,2004,Polio
 Pattani,3-3,0,2004,Polio
 Yala,3-3,0,2004,Polio
-Zone 19,3-3,0,2004,Polio
+Zone:19,3-3,0,2004,Polio
 Satun,3-3,0,2004,Polio
 Songkhla,3-3,0,2004,Polio
 Total,4-4,0,2004,Polio
 North Region,4-4,0,2004,Polio
-Zone 1,4-4,0,2004,Polio
+Zone:1,4-4,0,2004,Polio
 Chiang Mai,4-4,0,2004,Polio
 Chiang Rai,4-4,0,2004,Polio
 Lampang,4-4,0,2004,Polio
@@ -28114,98 +28114,98 @@ Mae Hong Son,4-4,0,2004,Polio
 Nan,4-4,0,2004,Polio
 Phayao,4-4,0,2004,Polio
 Phrae,4-4,0,2004,Polio
-Zone 2,4-4,0,2004,Polio
+Zone:2,4-4,0,2004,Polio
 Phetchabun,4-4,0,2004,Polio
 Phitsanulok,4-4,0,2004,Polio
 Sukhothai,4-4,0,2004,Polio
 Tak,4-4,0,2004,Polio
 Uttaradit,4-4,0,2004,Polio
-Zone 3,4-4,0,2004,Polio
+Zone:3,4-4,0,2004,Polio
 Kamphaeng Phet,4-4,0,2004,Polio
 Nakhon Sawan,4-4,0,2004,Polio
 Phichit,4-4,0,2004,Polio
 Uthai Thani,4-4,0,2004,Polio
 Central Region,4-4,0,2004,Polio
 Bangkok,4-4,0,2004,Polio
-Zone 4,4-4,0,2004,Polio
+Zone:4,4-4,0,2004,Polio
 Ang Thong,4-4,0,2004,Polio
 Nonthaburi,4-4,0,2004,Polio
 P.Nakhon S.Ayutthaya,4-4,0,2004,Polio
 Pathum Thani,4-4,0,2004,Polio
-Zone 5,4-4,0,2004,Polio
+Zone:5,4-4,0,2004,Polio
 Chai Nat,4-4,0,2004,Polio
 Lop Buri,4-4,0,2004,Polio
 Saraburi,4-4,0,2004,Polio
 Sing Buri,4-4,0,2004,Polio
-Zone 6,4-4,0,2004,Polio
+Zone:6,4-4,0,2004,Polio
 Kanchanaburi,4-4,0,2004,Polio
 Nakhon Pathom,4-4,0,2004,Polio
 Ratchaburi,4-4,0,2004,Polio
 Suphan Buri,4-4,0,2004,Polio
-Zone 7,4-4,0,2004,Polio
+Zone:7,4-4,0,2004,Polio
 Phetchaburi,4-4,0,2004,Polio
 Prachuap Khiri Khan,4-4,0,2004,Polio
 Samut Sakhon,4-4,0,2004,Polio
 Samut Songkhram,4-4,0,2004,Polio
-Zone 8,4-4,0,2004,Polio
+Zone:8,4-4,0,2004,Polio
 Chachoengsao,4-4,0,2004,Polio
 Nakhon Nayok,4-4,0,2004,Polio
 Prachin Buri,4-4,0,2004,Polio
 Sa Kaeo,4-4,0,2004,Polio
 Samut Prakan,4-4,0,2004,Polio
-Zone 9,4-4,0,2004,Polio
+Zone:9,4-4,0,2004,Polio
 Chanthaburi,4-4,0,2004,Polio
 Chon Buri,4-4,0,2004,Polio
 Rayong,4-4,0,2004,Polio
 Trat,4-4,0,2004,Polio
 North-Eastern Region,4-4,0,2004,Polio
-Zone 10,4-4,0,2004,Polio
+Zone:10,4-4,0,2004,Polio
 Loei,4-4,0,2004,Polio
 Nong Bua Lam Phu,4-4,0,2004,Polio
 Nong Khai,4-4,0,2004,Polio
 Udon Thani,4-4,0,2004,Polio
-Zone 11,4-4,0,2004,Polio
+Zone:11,4-4,0,2004,Polio
 Kalasin,4-4,0,2004,Polio
 Mukdahan,4-4,0,2004,Polio
 Nakhon Phanom,4-4,0,2004,Polio
 Sakon Nakhon,4-4,0,2004,Polio
-Zone 12,4-4,0,2004,Polio
+Zone:12,4-4,0,2004,Polio
 Khon Kaen,4-4,0,2004,Polio
 Maha Sarakham,4-4,0,2004,Polio
 Roi Et,4-4,0,2004,Polio
-Zone 13,4-4,0,2004,Polio
+Zone:13,4-4,0,2004,Polio
 Buri Ram,4-4,0,2004,Polio
 Chaiyaphum,4-4,0,2004,Polio
 Nakhon Ratchasima,4-4,0,2004,Polio
 Surin,4-4,0,2004,Polio
-Zone 14,4-4,0,2004,Polio
+Zone:14,4-4,0,2004,Polio
 Amnat Charoen,4-4,0,2004,Polio
 Si Sa Ket,4-4,0,2004,Polio
 Ubon Ratchathani,4-4,0,2004,Polio
 Yasothon,4-4,0,2004,Polio
 South Region,4-4,0,2004,Polio
-Zone 15,4-4,0,2004,Polio
+Zone:15,4-4,0,2004,Polio
 Chumphon,4-4,0,2004,Polio
 Ranong,4-4,0,2004,Polio
 Surat Thani,4-4,0,2004,Polio
-Zone 16,4-4,0,2004,Polio
+Zone:16,4-4,0,2004,Polio
 Nakhon Si Thammarat,4-4,0,2004,Polio
 Phatthalung,4-4,0,2004,Polio
 Trang,4-4,0,2004,Polio
-Zone 17,4-4,0,2004,Polio
+Zone:17,4-4,0,2004,Polio
 Krabi,4-4,0,2004,Polio
 Phangnga,4-4,0,2004,Polio
 Phuket,4-4,0,2004,Polio
-Zone 18,4-4,0,2004,Polio
+Zone:18,4-4,0,2004,Polio
 Narathiwat,4-4,0,2004,Polio
 Pattani,4-4,0,2004,Polio
 Yala,4-4,0,2004,Polio
-Zone 19,4-4,0,2004,Polio
+Zone:19,4-4,0,2004,Polio
 Satun,4-4,0,2004,Polio
 Songkhla,4-4,0,2004,Polio
 Total,5-5,0,2004,Polio
 North Region,5-5,0,2004,Polio
-Zone 1,5-5,0,2004,Polio
+Zone:1,5-5,0,2004,Polio
 Chiang Mai,5-5,0,2004,Polio
 Chiang Rai,5-5,0,2004,Polio
 Lampang,5-5,0,2004,Polio
@@ -28214,98 +28214,98 @@ Mae Hong Son,5-5,0,2004,Polio
 Nan,5-5,0,2004,Polio
 Phayao,5-5,0,2004,Polio
 Phrae,5-5,0,2004,Polio
-Zone 2,5-5,0,2004,Polio
+Zone:2,5-5,0,2004,Polio
 Phetchabun,5-5,0,2004,Polio
 Phitsanulok,5-5,0,2004,Polio
 Sukhothai,5-5,0,2004,Polio
 Tak,5-5,0,2004,Polio
 Uttaradit,5-5,0,2004,Polio
-Zone 3,5-5,0,2004,Polio
+Zone:3,5-5,0,2004,Polio
 Kamphaeng Phet,5-5,0,2004,Polio
 Nakhon Sawan,5-5,0,2004,Polio
 Phichit,5-5,0,2004,Polio
 Uthai Thani,5-5,0,2004,Polio
 Central Region,5-5,0,2004,Polio
 Bangkok,5-5,0,2004,Polio
-Zone 4,5-5,0,2004,Polio
+Zone:4,5-5,0,2004,Polio
 Ang Thong,5-5,0,2004,Polio
 Nonthaburi,5-5,0,2004,Polio
 P.Nakhon S.Ayutthaya,5-5,0,2004,Polio
 Pathum Thani,5-5,0,2004,Polio
-Zone 5,5-5,0,2004,Polio
+Zone:5,5-5,0,2004,Polio
 Chai Nat,5-5,0,2004,Polio
 Lop Buri,5-5,0,2004,Polio
 Saraburi,5-5,0,2004,Polio
 Sing Buri,5-5,0,2004,Polio
-Zone 6,5-5,0,2004,Polio
+Zone:6,5-5,0,2004,Polio
 Kanchanaburi,5-5,0,2004,Polio
 Nakhon Pathom,5-5,0,2004,Polio
 Ratchaburi,5-5,0,2004,Polio
 Suphan Buri,5-5,0,2004,Polio
-Zone 7,5-5,0,2004,Polio
+Zone:7,5-5,0,2004,Polio
 Phetchaburi,5-5,0,2004,Polio
 Prachuap Khiri Khan,5-5,0,2004,Polio
 Samut Sakhon,5-5,0,2004,Polio
 Samut Songkhram,5-5,0,2004,Polio
-Zone 8,5-5,0,2004,Polio
+Zone:8,5-5,0,2004,Polio
 Chachoengsao,5-5,0,2004,Polio
 Nakhon Nayok,5-5,0,2004,Polio
 Prachin Buri,5-5,0,2004,Polio
 Sa Kaeo,5-5,0,2004,Polio
 Samut Prakan,5-5,0,2004,Polio
-Zone 9,5-5,0,2004,Polio
+Zone:9,5-5,0,2004,Polio
 Chanthaburi,5-5,0,2004,Polio
 Chon Buri,5-5,0,2004,Polio
 Rayong,5-5,0,2004,Polio
 Trat,5-5,0,2004,Polio
 North-Eastern Region,5-5,0,2004,Polio
-Zone 10,5-5,0,2004,Polio
+Zone:10,5-5,0,2004,Polio
 Loei,5-5,0,2004,Polio
 Nong Bua Lam Phu,5-5,0,2004,Polio
 Nong Khai,5-5,0,2004,Polio
 Udon Thani,5-5,0,2004,Polio
-Zone 11,5-5,0,2004,Polio
+Zone:11,5-5,0,2004,Polio
 Kalasin,5-5,0,2004,Polio
 Mukdahan,5-5,0,2004,Polio
 Nakhon Phanom,5-5,0,2004,Polio
 Sakon Nakhon,5-5,0,2004,Polio
-Zone 12,5-5,0,2004,Polio
+Zone:12,5-5,0,2004,Polio
 Khon Kaen,5-5,0,2004,Polio
 Maha Sarakham,5-5,0,2004,Polio
 Roi Et,5-5,0,2004,Polio
-Zone 13,5-5,0,2004,Polio
+Zone:13,5-5,0,2004,Polio
 Buri Ram,5-5,0,2004,Polio
 Chaiyaphum,5-5,0,2004,Polio
 Nakhon Ratchasima,5-5,0,2004,Polio
 Surin,5-5,0,2004,Polio
-Zone 14,5-5,0,2004,Polio
+Zone:14,5-5,0,2004,Polio
 Amnat Charoen,5-5,0,2004,Polio
 Si Sa Ket,5-5,0,2004,Polio
 Ubon Ratchathani,5-5,0,2004,Polio
 Yasothon,5-5,0,2004,Polio
 South Region,5-5,0,2004,Polio
-Zone 15,5-5,0,2004,Polio
+Zone:15,5-5,0,2004,Polio
 Chumphon,5-5,0,2004,Polio
 Ranong,5-5,0,2004,Polio
 Surat Thani,5-5,0,2004,Polio
-Zone 16,5-5,0,2004,Polio
+Zone:16,5-5,0,2004,Polio
 Nakhon Si Thammarat,5-5,0,2004,Polio
 Phatthalung,5-5,0,2004,Polio
 Trang,5-5,0,2004,Polio
-Zone 17,5-5,0,2004,Polio
+Zone:17,5-5,0,2004,Polio
 Krabi,5-5,0,2004,Polio
 Phangnga,5-5,0,2004,Polio
 Phuket,5-5,0,2004,Polio
-Zone 18,5-5,0,2004,Polio
+Zone:18,5-5,0,2004,Polio
 Narathiwat,5-5,0,2004,Polio
 Pattani,5-5,0,2004,Polio
 Yala,5-5,0,2004,Polio
-Zone 19,5-5,0,2004,Polio
+Zone:19,5-5,0,2004,Polio
 Satun,5-5,0,2004,Polio
 Songkhla,5-5,0,2004,Polio
 Total,6-6,0,2004,Polio
 North Region,6-6,0,2004,Polio
-Zone 1,6-6,0,2004,Polio
+Zone:1,6-6,0,2004,Polio
 Chiang Mai,6-6,0,2004,Polio
 Chiang Rai,6-6,0,2004,Polio
 Lampang,6-6,0,2004,Polio
@@ -28314,98 +28314,98 @@ Mae Hong Son,6-6,0,2004,Polio
 Nan,6-6,0,2004,Polio
 Phayao,6-6,0,2004,Polio
 Phrae,6-6,0,2004,Polio
-Zone 2,6-6,0,2004,Polio
+Zone:2,6-6,0,2004,Polio
 Phetchabun,6-6,0,2004,Polio
 Phitsanulok,6-6,0,2004,Polio
 Sukhothai,6-6,0,2004,Polio
 Tak,6-6,0,2004,Polio
 Uttaradit,6-6,0,2004,Polio
-Zone 3,6-6,0,2004,Polio
+Zone:3,6-6,0,2004,Polio
 Kamphaeng Phet,6-6,0,2004,Polio
 Nakhon Sawan,6-6,0,2004,Polio
 Phichit,6-6,0,2004,Polio
 Uthai Thani,6-6,0,2004,Polio
 Central Region,6-6,0,2004,Polio
 Bangkok,6-6,0,2004,Polio
-Zone 4,6-6,0,2004,Polio
+Zone:4,6-6,0,2004,Polio
 Ang Thong,6-6,0,2004,Polio
 Nonthaburi,6-6,0,2004,Polio
 P.Nakhon S.Ayutthaya,6-6,0,2004,Polio
 Pathum Thani,6-6,0,2004,Polio
-Zone 5,6-6,0,2004,Polio
+Zone:5,6-6,0,2004,Polio
 Chai Nat,6-6,0,2004,Polio
 Lop Buri,6-6,0,2004,Polio
 Saraburi,6-6,0,2004,Polio
 Sing Buri,6-6,0,2004,Polio
-Zone 6,6-6,0,2004,Polio
+Zone:6,6-6,0,2004,Polio
 Kanchanaburi,6-6,0,2004,Polio
 Nakhon Pathom,6-6,0,2004,Polio
 Ratchaburi,6-6,0,2004,Polio
 Suphan Buri,6-6,0,2004,Polio
-Zone 7,6-6,0,2004,Polio
+Zone:7,6-6,0,2004,Polio
 Phetchaburi,6-6,0,2004,Polio
 Prachuap Khiri Khan,6-6,0,2004,Polio
 Samut Sakhon,6-6,0,2004,Polio
 Samut Songkhram,6-6,0,2004,Polio
-Zone 8,6-6,0,2004,Polio
+Zone:8,6-6,0,2004,Polio
 Chachoengsao,6-6,0,2004,Polio
 Nakhon Nayok,6-6,0,2004,Polio
 Prachin Buri,6-6,0,2004,Polio
 Sa Kaeo,6-6,0,2004,Polio
 Samut Prakan,6-6,0,2004,Polio
-Zone 9,6-6,0,2004,Polio
+Zone:9,6-6,0,2004,Polio
 Chanthaburi,6-6,0,2004,Polio
 Chon Buri,6-6,0,2004,Polio
 Rayong,6-6,0,2004,Polio
 Trat,6-6,0,2004,Polio
 North-Eastern Region,6-6,0,2004,Polio
-Zone 10,6-6,0,2004,Polio
+Zone:10,6-6,0,2004,Polio
 Loei,6-6,0,2004,Polio
 Nong Bua Lam Phu,6-6,0,2004,Polio
 Nong Khai,6-6,0,2004,Polio
 Udon Thani,6-6,0,2004,Polio
-Zone 11,6-6,0,2004,Polio
+Zone:11,6-6,0,2004,Polio
 Kalasin,6-6,0,2004,Polio
 Mukdahan,6-6,0,2004,Polio
 Nakhon Phanom,6-6,0,2004,Polio
 Sakon Nakhon,6-6,0,2004,Polio
-Zone 12,6-6,0,2004,Polio
+Zone:12,6-6,0,2004,Polio
 Khon Kaen,6-6,0,2004,Polio
 Maha Sarakham,6-6,0,2004,Polio
 Roi Et,6-6,0,2004,Polio
-Zone 13,6-6,0,2004,Polio
+Zone:13,6-6,0,2004,Polio
 Buri Ram,6-6,0,2004,Polio
 Chaiyaphum,6-6,0,2004,Polio
 Nakhon Ratchasima,6-6,0,2004,Polio
 Surin,6-6,0,2004,Polio
-Zone 14,6-6,0,2004,Polio
+Zone:14,6-6,0,2004,Polio
 Amnat Charoen,6-6,0,2004,Polio
 Si Sa Ket,6-6,0,2004,Polio
 Ubon Ratchathani,6-6,0,2004,Polio
 Yasothon,6-6,0,2004,Polio
 South Region,6-6,0,2004,Polio
-Zone 15,6-6,0,2004,Polio
+Zone:15,6-6,0,2004,Polio
 Chumphon,6-6,0,2004,Polio
 Ranong,6-6,0,2004,Polio
 Surat Thani,6-6,0,2004,Polio
-Zone 16,6-6,0,2004,Polio
+Zone:16,6-6,0,2004,Polio
 Nakhon Si Thammarat,6-6,0,2004,Polio
 Phatthalung,6-6,0,2004,Polio
 Trang,6-6,0,2004,Polio
-Zone 17,6-6,0,2004,Polio
+Zone:17,6-6,0,2004,Polio
 Krabi,6-6,0,2004,Polio
 Phangnga,6-6,0,2004,Polio
 Phuket,6-6,0,2004,Polio
-Zone 18,6-6,0,2004,Polio
+Zone:18,6-6,0,2004,Polio
 Narathiwat,6-6,0,2004,Polio
 Pattani,6-6,0,2004,Polio
 Yala,6-6,0,2004,Polio
-Zone 19,6-6,0,2004,Polio
+Zone:19,6-6,0,2004,Polio
 Satun,6-6,0,2004,Polio
 Songkhla,6-6,0,2004,Polio
 Total,7-9,0,2004,Polio
 North Region,7-9,0,2004,Polio
-Zone 1,7-9,0,2004,Polio
+Zone:1,7-9,0,2004,Polio
 Chiang Mai,7-9,0,2004,Polio
 Chiang Rai,7-9,0,2004,Polio
 Lampang,7-9,0,2004,Polio
@@ -28414,98 +28414,98 @@ Mae Hong Son,7-9,0,2004,Polio
 Nan,7-9,0,2004,Polio
 Phayao,7-9,0,2004,Polio
 Phrae,7-9,0,2004,Polio
-Zone 2,7-9,0,2004,Polio
+Zone:2,7-9,0,2004,Polio
 Phetchabun,7-9,0,2004,Polio
 Phitsanulok,7-9,0,2004,Polio
 Sukhothai,7-9,0,2004,Polio
 Tak,7-9,0,2004,Polio
 Uttaradit,7-9,0,2004,Polio
-Zone 3,7-9,0,2004,Polio
+Zone:3,7-9,0,2004,Polio
 Kamphaeng Phet,7-9,0,2004,Polio
 Nakhon Sawan,7-9,0,2004,Polio
 Phichit,7-9,0,2004,Polio
 Uthai Thani,7-9,0,2004,Polio
 Central Region,7-9,0,2004,Polio
 Bangkok,7-9,0,2004,Polio
-Zone 4,7-9,0,2004,Polio
+Zone:4,7-9,0,2004,Polio
 Ang Thong,7-9,0,2004,Polio
 Nonthaburi,7-9,0,2004,Polio
 P.Nakhon S.Ayutthaya,7-9,0,2004,Polio
 Pathum Thani,7-9,0,2004,Polio
-Zone 5,7-9,0,2004,Polio
+Zone:5,7-9,0,2004,Polio
 Chai Nat,7-9,0,2004,Polio
 Lop Buri,7-9,0,2004,Polio
 Saraburi,7-9,0,2004,Polio
 Sing Buri,7-9,0,2004,Polio
-Zone 6,7-9,0,2004,Polio
+Zone:6,7-9,0,2004,Polio
 Kanchanaburi,7-9,0,2004,Polio
 Nakhon Pathom,7-9,0,2004,Polio
 Ratchaburi,7-9,0,2004,Polio
 Suphan Buri,7-9,0,2004,Polio
-Zone 7,7-9,0,2004,Polio
+Zone:7,7-9,0,2004,Polio
 Phetchaburi,7-9,0,2004,Polio
 Prachuap Khiri Khan,7-9,0,2004,Polio
 Samut Sakhon,7-9,0,2004,Polio
 Samut Songkhram,7-9,0,2004,Polio
-Zone 8,7-9,0,2004,Polio
+Zone:8,7-9,0,2004,Polio
 Chachoengsao,7-9,0,2004,Polio
 Nakhon Nayok,7-9,0,2004,Polio
 Prachin Buri,7-9,0,2004,Polio
 Sa Kaeo,7-9,0,2004,Polio
 Samut Prakan,7-9,0,2004,Polio
-Zone 9,7-9,0,2004,Polio
+Zone:9,7-9,0,2004,Polio
 Chanthaburi,7-9,0,2004,Polio
 Chon Buri,7-9,0,2004,Polio
 Rayong,7-9,0,2004,Polio
 Trat,7-9,0,2004,Polio
 North-Eastern Region,7-9,0,2004,Polio
-Zone 10,7-9,0,2004,Polio
+Zone:10,7-9,0,2004,Polio
 Loei,7-9,0,2004,Polio
 Nong Bua Lam Phu,7-9,0,2004,Polio
 Nong Khai,7-9,0,2004,Polio
 Udon Thani,7-9,0,2004,Polio
-Zone 11,7-9,0,2004,Polio
+Zone:11,7-9,0,2004,Polio
 Kalasin,7-9,0,2004,Polio
 Mukdahan,7-9,0,2004,Polio
 Nakhon Phanom,7-9,0,2004,Polio
 Sakon Nakhon,7-9,0,2004,Polio
-Zone 12,7-9,0,2004,Polio
+Zone:12,7-9,0,2004,Polio
 Khon Kaen,7-9,0,2004,Polio
 Maha Sarakham,7-9,0,2004,Polio
 Roi Et,7-9,0,2004,Polio
-Zone 13,7-9,0,2004,Polio
+Zone:13,7-9,0,2004,Polio
 Buri Ram,7-9,0,2004,Polio
 Chaiyaphum,7-9,0,2004,Polio
 Nakhon Ratchasima,7-9,0,2004,Polio
 Surin,7-9,0,2004,Polio
-Zone 14,7-9,0,2004,Polio
+Zone:14,7-9,0,2004,Polio
 Amnat Charoen,7-9,0,2004,Polio
 Si Sa Ket,7-9,0,2004,Polio
 Ubon Ratchathani,7-9,0,2004,Polio
 Yasothon,7-9,0,2004,Polio
 South Region,7-9,0,2004,Polio
-Zone 15,7-9,0,2004,Polio
+Zone:15,7-9,0,2004,Polio
 Chumphon,7-9,0,2004,Polio
 Ranong,7-9,0,2004,Polio
 Surat Thani,7-9,0,2004,Polio
-Zone 16,7-9,0,2004,Polio
+Zone:16,7-9,0,2004,Polio
 Nakhon Si Thammarat,7-9,0,2004,Polio
 Phatthalung,7-9,0,2004,Polio
 Trang,7-9,0,2004,Polio
-Zone 17,7-9,0,2004,Polio
+Zone:17,7-9,0,2004,Polio
 Krabi,7-9,0,2004,Polio
 Phangnga,7-9,0,2004,Polio
 Phuket,7-9,0,2004,Polio
-Zone 18,7-9,0,2004,Polio
+Zone:18,7-9,0,2004,Polio
 Narathiwat,7-9,0,2004,Polio
 Pattani,7-9,0,2004,Polio
 Yala,7-9,0,2004,Polio
-Zone 19,7-9,0,2004,Polio
+Zone:19,7-9,0,2004,Polio
 Satun,7-9,0,2004,Polio
 Songkhla,7-9,0,2004,Polio
 Total,10-14,0,2004,Polio
 North Region,10-14,0,2004,Polio
-Zone 1,10-14,0,2004,Polio
+Zone:1,10-14,0,2004,Polio
 Chiang Mai,10-14,0,2004,Polio
 Chiang Rai,10-14,0,2004,Polio
 Lampang,10-14,0,2004,Polio
@@ -28514,98 +28514,98 @@ Mae Hong Son,10-14,0,2004,Polio
 Nan,10-14,0,2004,Polio
 Phayao,10-14,0,2004,Polio
 Phrae,10-14,0,2004,Polio
-Zone 2,10-14,0,2004,Polio
+Zone:2,10-14,0,2004,Polio
 Phetchabun,10-14,0,2004,Polio
 Phitsanulok,10-14,0,2004,Polio
 Sukhothai,10-14,0,2004,Polio
 Tak,10-14,0,2004,Polio
 Uttaradit,10-14,0,2004,Polio
-Zone 3,10-14,0,2004,Polio
+Zone:3,10-14,0,2004,Polio
 Kamphaeng Phet,10-14,0,2004,Polio
 Nakhon Sawan,10-14,0,2004,Polio
 Phichit,10-14,0,2004,Polio
 Uthai Thani,10-14,0,2004,Polio
 Central Region,10-14,0,2004,Polio
 Bangkok,10-14,0,2004,Polio
-Zone 4,10-14,0,2004,Polio
+Zone:4,10-14,0,2004,Polio
 Ang Thong,10-14,0,2004,Polio
 Nonthaburi,10-14,0,2004,Polio
 P.Nakhon S.Ayutthaya,10-14,0,2004,Polio
 Pathum Thani,10-14,0,2004,Polio
-Zone 5,10-14,0,2004,Polio
+Zone:5,10-14,0,2004,Polio
 Chai Nat,10-14,0,2004,Polio
 Lop Buri,10-14,0,2004,Polio
 Saraburi,10-14,0,2004,Polio
 Sing Buri,10-14,0,2004,Polio
-Zone 6,10-14,0,2004,Polio
+Zone:6,10-14,0,2004,Polio
 Kanchanaburi,10-14,0,2004,Polio
 Nakhon Pathom,10-14,0,2004,Polio
 Ratchaburi,10-14,0,2004,Polio
 Suphan Buri,10-14,0,2004,Polio
-Zone 7,10-14,0,2004,Polio
+Zone:7,10-14,0,2004,Polio
 Phetchaburi,10-14,0,2004,Polio
 Prachuap Khiri Khan,10-14,0,2004,Polio
 Samut Sakhon,10-14,0,2004,Polio
 Samut Songkhram,10-14,0,2004,Polio
-Zone 8,10-14,0,2004,Polio
+Zone:8,10-14,0,2004,Polio
 Chachoengsao,10-14,0,2004,Polio
 Nakhon Nayok,10-14,0,2004,Polio
 Prachin Buri,10-14,0,2004,Polio
 Sa Kaeo,10-14,0,2004,Polio
 Samut Prakan,10-14,0,2004,Polio
-Zone 9,10-14,0,2004,Polio
+Zone:9,10-14,0,2004,Polio
 Chanthaburi,10-14,0,2004,Polio
 Chon Buri,10-14,0,2004,Polio
 Rayong,10-14,0,2004,Polio
 Trat,10-14,0,2004,Polio
 North-Eastern Region,10-14,0,2004,Polio
-Zone 10,10-14,0,2004,Polio
+Zone:10,10-14,0,2004,Polio
 Loei,10-14,0,2004,Polio
 Nong Bua Lam Phu,10-14,0,2004,Polio
 Nong Khai,10-14,0,2004,Polio
 Udon Thani,10-14,0,2004,Polio
-Zone 11,10-14,0,2004,Polio
+Zone:11,10-14,0,2004,Polio
 Kalasin,10-14,0,2004,Polio
 Mukdahan,10-14,0,2004,Polio
 Nakhon Phanom,10-14,0,2004,Polio
 Sakon Nakhon,10-14,0,2004,Polio
-Zone 12,10-14,0,2004,Polio
+Zone:12,10-14,0,2004,Polio
 Khon Kaen,10-14,0,2004,Polio
 Maha Sarakham,10-14,0,2004,Polio
 Roi Et,10-14,0,2004,Polio
-Zone 13,10-14,0,2004,Polio
+Zone:13,10-14,0,2004,Polio
 Buri Ram,10-14,0,2004,Polio
 Chaiyaphum,10-14,0,2004,Polio
 Nakhon Ratchasima,10-14,0,2004,Polio
 Surin,10-14,0,2004,Polio
-Zone 14,10-14,0,2004,Polio
+Zone:14,10-14,0,2004,Polio
 Amnat Charoen,10-14,0,2004,Polio
 Si Sa Ket,10-14,0,2004,Polio
 Ubon Ratchathani,10-14,0,2004,Polio
 Yasothon,10-14,0,2004,Polio
 South Region,10-14,0,2004,Polio
-Zone 15,10-14,0,2004,Polio
+Zone:15,10-14,0,2004,Polio
 Chumphon,10-14,0,2004,Polio
 Ranong,10-14,0,2004,Polio
 Surat Thani,10-14,0,2004,Polio
-Zone 16,10-14,0,2004,Polio
+Zone:16,10-14,0,2004,Polio
 Nakhon Si Thammarat,10-14,0,2004,Polio
 Phatthalung,10-14,0,2004,Polio
 Trang,10-14,0,2004,Polio
-Zone 17,10-14,0,2004,Polio
+Zone:17,10-14,0,2004,Polio
 Krabi,10-14,0,2004,Polio
 Phangnga,10-14,0,2004,Polio
 Phuket,10-14,0,2004,Polio
-Zone 18,10-14,0,2004,Polio
+Zone:18,10-14,0,2004,Polio
 Narathiwat,10-14,0,2004,Polio
 Pattani,10-14,0,2004,Polio
 Yala,10-14,0,2004,Polio
-Zone 19,10-14,0,2004,Polio
+Zone:19,10-14,0,2004,Polio
 Satun,10-14,0,2004,Polio
 Songkhla,10-14,0,2004,Polio
 Total,15-24,0,2004,Polio
 North Region,15-24,0,2004,Polio
-Zone 1,15-24,0,2004,Polio
+Zone:1,15-24,0,2004,Polio
 Chiang Mai,15-24,0,2004,Polio
 Chiang Rai,15-24,0,2004,Polio
 Lampang,15-24,0,2004,Polio
@@ -28614,98 +28614,98 @@ Mae Hong Son,15-24,0,2004,Polio
 Nan,15-24,0,2004,Polio
 Phayao,15-24,0,2004,Polio
 Phrae,15-24,0,2004,Polio
-Zone 2,15-24,0,2004,Polio
+Zone:2,15-24,0,2004,Polio
 Phetchabun,15-24,0,2004,Polio
 Phitsanulok,15-24,0,2004,Polio
 Sukhothai,15-24,0,2004,Polio
 Tak,15-24,0,2004,Polio
 Uttaradit,15-24,0,2004,Polio
-Zone 3,15-24,0,2004,Polio
+Zone:3,15-24,0,2004,Polio
 Kamphaeng Phet,15-24,0,2004,Polio
 Nakhon Sawan,15-24,0,2004,Polio
 Phichit,15-24,0,2004,Polio
 Uthai Thani,15-24,0,2004,Polio
 Central Region,15-24,0,2004,Polio
 Bangkok,15-24,0,2004,Polio
-Zone 4,15-24,0,2004,Polio
+Zone:4,15-24,0,2004,Polio
 Ang Thong,15-24,0,2004,Polio
 Nonthaburi,15-24,0,2004,Polio
 P.Nakhon S.Ayutthaya,15-24,0,2004,Polio
 Pathum Thani,15-24,0,2004,Polio
-Zone 5,15-24,0,2004,Polio
+Zone:5,15-24,0,2004,Polio
 Chai Nat,15-24,0,2004,Polio
 Lop Buri,15-24,0,2004,Polio
 Saraburi,15-24,0,2004,Polio
 Sing Buri,15-24,0,2004,Polio
-Zone 6,15-24,0,2004,Polio
+Zone:6,15-24,0,2004,Polio
 Kanchanaburi,15-24,0,2004,Polio
 Nakhon Pathom,15-24,0,2004,Polio
 Ratchaburi,15-24,0,2004,Polio
 Suphan Buri,15-24,0,2004,Polio
-Zone 7,15-24,0,2004,Polio
+Zone:7,15-24,0,2004,Polio
 Phetchaburi,15-24,0,2004,Polio
 Prachuap Khiri Khan,15-24,0,2004,Polio
 Samut Sakhon,15-24,0,2004,Polio
 Samut Songkhram,15-24,0,2004,Polio
-Zone 8,15-24,0,2004,Polio
+Zone:8,15-24,0,2004,Polio
 Chachoengsao,15-24,0,2004,Polio
 Nakhon Nayok,15-24,0,2004,Polio
 Prachin Buri,15-24,0,2004,Polio
 Sa Kaeo,15-24,0,2004,Polio
 Samut Prakan,15-24,0,2004,Polio
-Zone 9,15-24,0,2004,Polio
+Zone:9,15-24,0,2004,Polio
 Chanthaburi,15-24,0,2004,Polio
 Chon Buri,15-24,0,2004,Polio
 Rayong,15-24,0,2004,Polio
 Trat,15-24,0,2004,Polio
 North-Eastern Region,15-24,0,2004,Polio
-Zone 10,15-24,0,2004,Polio
+Zone:10,15-24,0,2004,Polio
 Loei,15-24,0,2004,Polio
 Nong Bua Lam Phu,15-24,0,2004,Polio
 Nong Khai,15-24,0,2004,Polio
 Udon Thani,15-24,0,2004,Polio
-Zone 11,15-24,0,2004,Polio
+Zone:11,15-24,0,2004,Polio
 Kalasin,15-24,0,2004,Polio
 Mukdahan,15-24,0,2004,Polio
 Nakhon Phanom,15-24,0,2004,Polio
 Sakon Nakhon,15-24,0,2004,Polio
-Zone 12,15-24,0,2004,Polio
+Zone:12,15-24,0,2004,Polio
 Khon Kaen,15-24,0,2004,Polio
 Maha Sarakham,15-24,0,2004,Polio
 Roi Et,15-24,0,2004,Polio
-Zone 13,15-24,0,2004,Polio
+Zone:13,15-24,0,2004,Polio
 Buri Ram,15-24,0,2004,Polio
 Chaiyaphum,15-24,0,2004,Polio
 Nakhon Ratchasima,15-24,0,2004,Polio
 Surin,15-24,0,2004,Polio
-Zone 14,15-24,0,2004,Polio
+Zone:14,15-24,0,2004,Polio
 Amnat Charoen,15-24,0,2004,Polio
 Si Sa Ket,15-24,0,2004,Polio
 Ubon Ratchathani,15-24,0,2004,Polio
 Yasothon,15-24,0,2004,Polio
 South Region,15-24,0,2004,Polio
-Zone 15,15-24,0,2004,Polio
+Zone:15,15-24,0,2004,Polio
 Chumphon,15-24,0,2004,Polio
 Ranong,15-24,0,2004,Polio
 Surat Thani,15-24,0,2004,Polio
-Zone 16,15-24,0,2004,Polio
+Zone:16,15-24,0,2004,Polio
 Nakhon Si Thammarat,15-24,0,2004,Polio
 Phatthalung,15-24,0,2004,Polio
 Trang,15-24,0,2004,Polio
-Zone 17,15-24,0,2004,Polio
+Zone:17,15-24,0,2004,Polio
 Krabi,15-24,0,2004,Polio
 Phangnga,15-24,0,2004,Polio
 Phuket,15-24,0,2004,Polio
-Zone 18,15-24,0,2004,Polio
+Zone:18,15-24,0,2004,Polio
 Narathiwat,15-24,0,2004,Polio
 Pattani,15-24,0,2004,Polio
 Yala,15-24,0,2004,Polio
-Zone 19,15-24,0,2004,Polio
+Zone:19,15-24,0,2004,Polio
 Satun,15-24,0,2004,Polio
 Songkhla,15-24,0,2004,Polio
 Total,25-34,0,2004,Polio
 North Region,25-34,0,2004,Polio
-Zone 1,25-34,0,2004,Polio
+Zone:1,25-34,0,2004,Polio
 Chiang Mai,25-34,0,2004,Polio
 Chiang Rai,25-34,0,2004,Polio
 Lampang,25-34,0,2004,Polio
@@ -28714,98 +28714,98 @@ Mae Hong Son,25-34,0,2004,Polio
 Nan,25-34,0,2004,Polio
 Phayao,25-34,0,2004,Polio
 Phrae,25-34,0,2004,Polio
-Zone 2,25-34,0,2004,Polio
+Zone:2,25-34,0,2004,Polio
 Phetchabun,25-34,0,2004,Polio
 Phitsanulok,25-34,0,2004,Polio
 Sukhothai,25-34,0,2004,Polio
 Tak,25-34,0,2004,Polio
 Uttaradit,25-34,0,2004,Polio
-Zone 3,25-34,0,2004,Polio
+Zone:3,25-34,0,2004,Polio
 Kamphaeng Phet,25-34,0,2004,Polio
 Nakhon Sawan,25-34,0,2004,Polio
 Phichit,25-34,0,2004,Polio
 Uthai Thani,25-34,0,2004,Polio
 Central Region,25-34,0,2004,Polio
 Bangkok,25-34,0,2004,Polio
-Zone 4,25-34,0,2004,Polio
+Zone:4,25-34,0,2004,Polio
 Ang Thong,25-34,0,2004,Polio
 Nonthaburi,25-34,0,2004,Polio
 P.Nakhon S.Ayutthaya,25-34,0,2004,Polio
 Pathum Thani,25-34,0,2004,Polio
-Zone 5,25-34,0,2004,Polio
+Zone:5,25-34,0,2004,Polio
 Chai Nat,25-34,0,2004,Polio
 Lop Buri,25-34,0,2004,Polio
 Saraburi,25-34,0,2004,Polio
 Sing Buri,25-34,0,2004,Polio
-Zone 6,25-34,0,2004,Polio
+Zone:6,25-34,0,2004,Polio
 Kanchanaburi,25-34,0,2004,Polio
 Nakhon Pathom,25-34,0,2004,Polio
 Ratchaburi,25-34,0,2004,Polio
 Suphan Buri,25-34,0,2004,Polio
-Zone 7,25-34,0,2004,Polio
+Zone:7,25-34,0,2004,Polio
 Phetchaburi,25-34,0,2004,Polio
 Prachuap Khiri Khan,25-34,0,2004,Polio
 Samut Sakhon,25-34,0,2004,Polio
 Samut Songkhram,25-34,0,2004,Polio
-Zone 8,25-34,0,2004,Polio
+Zone:8,25-34,0,2004,Polio
 Chachoengsao,25-34,0,2004,Polio
 Nakhon Nayok,25-34,0,2004,Polio
 Prachin Buri,25-34,0,2004,Polio
 Sa Kaeo,25-34,0,2004,Polio
 Samut Prakan,25-34,0,2004,Polio
-Zone 9,25-34,0,2004,Polio
+Zone:9,25-34,0,2004,Polio
 Chanthaburi,25-34,0,2004,Polio
 Chon Buri,25-34,0,2004,Polio
 Rayong,25-34,0,2004,Polio
 Trat,25-34,0,2004,Polio
 North-Eastern Region,25-34,0,2004,Polio
-Zone 10,25-34,0,2004,Polio
+Zone:10,25-34,0,2004,Polio
 Loei,25-34,0,2004,Polio
 Nong Bua Lam Phu,25-34,0,2004,Polio
 Nong Khai,25-34,0,2004,Polio
 Udon Thani,25-34,0,2004,Polio
-Zone 11,25-34,0,2004,Polio
+Zone:11,25-34,0,2004,Polio
 Kalasin,25-34,0,2004,Polio
 Mukdahan,25-34,0,2004,Polio
 Nakhon Phanom,25-34,0,2004,Polio
 Sakon Nakhon,25-34,0,2004,Polio
-Zone 12,25-34,0,2004,Polio
+Zone:12,25-34,0,2004,Polio
 Khon Kaen,25-34,0,2004,Polio
 Maha Sarakham,25-34,0,2004,Polio
 Roi Et,25-34,0,2004,Polio
-Zone 13,25-34,0,2004,Polio
+Zone:13,25-34,0,2004,Polio
 Buri Ram,25-34,0,2004,Polio
 Chaiyaphum,25-34,0,2004,Polio
 Nakhon Ratchasima,25-34,0,2004,Polio
 Surin,25-34,0,2004,Polio
-Zone 14,25-34,0,2004,Polio
+Zone:14,25-34,0,2004,Polio
 Amnat Charoen,25-34,0,2004,Polio
 Si Sa Ket,25-34,0,2004,Polio
 Ubon Ratchathani,25-34,0,2004,Polio
 Yasothon,25-34,0,2004,Polio
 South Region,25-34,0,2004,Polio
-Zone 15,25-34,0,2004,Polio
+Zone:15,25-34,0,2004,Polio
 Chumphon,25-34,0,2004,Polio
 Ranong,25-34,0,2004,Polio
 Surat Thani,25-34,0,2004,Polio
-Zone 16,25-34,0,2004,Polio
+Zone:16,25-34,0,2004,Polio
 Nakhon Si Thammarat,25-34,0,2004,Polio
 Phatthalung,25-34,0,2004,Polio
 Trang,25-34,0,2004,Polio
-Zone 17,25-34,0,2004,Polio
+Zone:17,25-34,0,2004,Polio
 Krabi,25-34,0,2004,Polio
 Phangnga,25-34,0,2004,Polio
 Phuket,25-34,0,2004,Polio
-Zone 18,25-34,0,2004,Polio
+Zone:18,25-34,0,2004,Polio
 Narathiwat,25-34,0,2004,Polio
 Pattani,25-34,0,2004,Polio
 Yala,25-34,0,2004,Polio
-Zone 19,25-34,0,2004,Polio
+Zone:19,25-34,0,2004,Polio
 Satun,25-34,0,2004,Polio
 Songkhla,25-34,0,2004,Polio
 Total,35-44,0,2004,Polio
 North Region,35-44,0,2004,Polio
-Zone 1,35-44,0,2004,Polio
+Zone:1,35-44,0,2004,Polio
 Chiang Mai,35-44,0,2004,Polio
 Chiang Rai,35-44,0,2004,Polio
 Lampang,35-44,0,2004,Polio
@@ -28814,98 +28814,98 @@ Mae Hong Son,35-44,0,2004,Polio
 Nan,35-44,0,2004,Polio
 Phayao,35-44,0,2004,Polio
 Phrae,35-44,0,2004,Polio
-Zone 2,35-44,0,2004,Polio
+Zone:2,35-44,0,2004,Polio
 Phetchabun,35-44,0,2004,Polio
 Phitsanulok,35-44,0,2004,Polio
 Sukhothai,35-44,0,2004,Polio
 Tak,35-44,0,2004,Polio
 Uttaradit,35-44,0,2004,Polio
-Zone 3,35-44,0,2004,Polio
+Zone:3,35-44,0,2004,Polio
 Kamphaeng Phet,35-44,0,2004,Polio
 Nakhon Sawan,35-44,0,2004,Polio
 Phichit,35-44,0,2004,Polio
 Uthai Thani,35-44,0,2004,Polio
 Central Region,35-44,0,2004,Polio
 Bangkok,35-44,0,2004,Polio
-Zone 4,35-44,0,2004,Polio
+Zone:4,35-44,0,2004,Polio
 Ang Thong,35-44,0,2004,Polio
 Nonthaburi,35-44,0,2004,Polio
 P.Nakhon S.Ayutthaya,35-44,0,2004,Polio
 Pathum Thani,35-44,0,2004,Polio
-Zone 5,35-44,0,2004,Polio
+Zone:5,35-44,0,2004,Polio
 Chai Nat,35-44,0,2004,Polio
 Lop Buri,35-44,0,2004,Polio
 Saraburi,35-44,0,2004,Polio
 Sing Buri,35-44,0,2004,Polio
-Zone 6,35-44,0,2004,Polio
+Zone:6,35-44,0,2004,Polio
 Kanchanaburi,35-44,0,2004,Polio
 Nakhon Pathom,35-44,0,2004,Polio
 Ratchaburi,35-44,0,2004,Polio
 Suphan Buri,35-44,0,2004,Polio
-Zone 7,35-44,0,2004,Polio
+Zone:7,35-44,0,2004,Polio
 Phetchaburi,35-44,0,2004,Polio
 Prachuap Khiri Khan,35-44,0,2004,Polio
 Samut Sakhon,35-44,0,2004,Polio
 Samut Songkhram,35-44,0,2004,Polio
-Zone 8,35-44,0,2004,Polio
+Zone:8,35-44,0,2004,Polio
 Chachoengsao,35-44,0,2004,Polio
 Nakhon Nayok,35-44,0,2004,Polio
 Prachin Buri,35-44,0,2004,Polio
 Sa Kaeo,35-44,0,2004,Polio
 Samut Prakan,35-44,0,2004,Polio
-Zone 9,35-44,0,2004,Polio
+Zone:9,35-44,0,2004,Polio
 Chanthaburi,35-44,0,2004,Polio
 Chon Buri,35-44,0,2004,Polio
 Rayong,35-44,0,2004,Polio
 Trat,35-44,0,2004,Polio
 North-Eastern Region,35-44,0,2004,Polio
-Zone 10,35-44,0,2004,Polio
+Zone:10,35-44,0,2004,Polio
 Loei,35-44,0,2004,Polio
 Nong Bua Lam Phu,35-44,0,2004,Polio
 Nong Khai,35-44,0,2004,Polio
 Udon Thani,35-44,0,2004,Polio
-Zone 11,35-44,0,2004,Polio
+Zone:11,35-44,0,2004,Polio
 Kalasin,35-44,0,2004,Polio
 Mukdahan,35-44,0,2004,Polio
 Nakhon Phanom,35-44,0,2004,Polio
 Sakon Nakhon,35-44,0,2004,Polio
-Zone 12,35-44,0,2004,Polio
+Zone:12,35-44,0,2004,Polio
 Khon Kaen,35-44,0,2004,Polio
 Maha Sarakham,35-44,0,2004,Polio
 Roi Et,35-44,0,2004,Polio
-Zone 13,35-44,0,2004,Polio
+Zone:13,35-44,0,2004,Polio
 Buri Ram,35-44,0,2004,Polio
 Chaiyaphum,35-44,0,2004,Polio
 Nakhon Ratchasima,35-44,0,2004,Polio
 Surin,35-44,0,2004,Polio
-Zone 14,35-44,0,2004,Polio
+Zone:14,35-44,0,2004,Polio
 Amnat Charoen,35-44,0,2004,Polio
 Si Sa Ket,35-44,0,2004,Polio
 Ubon Ratchathani,35-44,0,2004,Polio
 Yasothon,35-44,0,2004,Polio
 South Region,35-44,0,2004,Polio
-Zone 15,35-44,0,2004,Polio
+Zone:15,35-44,0,2004,Polio
 Chumphon,35-44,0,2004,Polio
 Ranong,35-44,0,2004,Polio
 Surat Thani,35-44,0,2004,Polio
-Zone 16,35-44,0,2004,Polio
+Zone:16,35-44,0,2004,Polio
 Nakhon Si Thammarat,35-44,0,2004,Polio
 Phatthalung,35-44,0,2004,Polio
 Trang,35-44,0,2004,Polio
-Zone 17,35-44,0,2004,Polio
+Zone:17,35-44,0,2004,Polio
 Krabi,35-44,0,2004,Polio
 Phangnga,35-44,0,2004,Polio
 Phuket,35-44,0,2004,Polio
-Zone 18,35-44,0,2004,Polio
+Zone:18,35-44,0,2004,Polio
 Narathiwat,35-44,0,2004,Polio
 Pattani,35-44,0,2004,Polio
 Yala,35-44,0,2004,Polio
-Zone 19,35-44,0,2004,Polio
+Zone:19,35-44,0,2004,Polio
 Satun,35-44,0,2004,Polio
 Songkhla,35-44,0,2004,Polio
 Total,45-54,0,2004,Polio
 North Region,45-54,0,2004,Polio
-Zone 1,45-54,0,2004,Polio
+Zone:1,45-54,0,2004,Polio
 Chiang Mai,45-54,0,2004,Polio
 Chiang Rai,45-54,0,2004,Polio
 Lampang,45-54,0,2004,Polio
@@ -28914,98 +28914,98 @@ Mae Hong Son,45-54,0,2004,Polio
 Nan,45-54,0,2004,Polio
 Phayao,45-54,0,2004,Polio
 Phrae,45-54,0,2004,Polio
-Zone 2,45-54,0,2004,Polio
+Zone:2,45-54,0,2004,Polio
 Phetchabun,45-54,0,2004,Polio
 Phitsanulok,45-54,0,2004,Polio
 Sukhothai,45-54,0,2004,Polio
 Tak,45-54,0,2004,Polio
 Uttaradit,45-54,0,2004,Polio
-Zone 3,45-54,0,2004,Polio
+Zone:3,45-54,0,2004,Polio
 Kamphaeng Phet,45-54,0,2004,Polio
 Nakhon Sawan,45-54,0,2004,Polio
 Phichit,45-54,0,2004,Polio
 Uthai Thani,45-54,0,2004,Polio
 Central Region,45-54,0,2004,Polio
 Bangkok,45-54,0,2004,Polio
-Zone 4,45-54,0,2004,Polio
+Zone:4,45-54,0,2004,Polio
 Ang Thong,45-54,0,2004,Polio
 Nonthaburi,45-54,0,2004,Polio
 P.Nakhon S.Ayutthaya,45-54,0,2004,Polio
 Pathum Thani,45-54,0,2004,Polio
-Zone 5,45-54,0,2004,Polio
+Zone:5,45-54,0,2004,Polio
 Chai Nat,45-54,0,2004,Polio
 Lop Buri,45-54,0,2004,Polio
 Saraburi,45-54,0,2004,Polio
 Sing Buri,45-54,0,2004,Polio
-Zone 6,45-54,0,2004,Polio
+Zone:6,45-54,0,2004,Polio
 Kanchanaburi,45-54,0,2004,Polio
 Nakhon Pathom,45-54,0,2004,Polio
 Ratchaburi,45-54,0,2004,Polio
 Suphan Buri,45-54,0,2004,Polio
-Zone 7,45-54,0,2004,Polio
+Zone:7,45-54,0,2004,Polio
 Phetchaburi,45-54,0,2004,Polio
 Prachuap Khiri Khan,45-54,0,2004,Polio
 Samut Sakhon,45-54,0,2004,Polio
 Samut Songkhram,45-54,0,2004,Polio
-Zone 8,45-54,0,2004,Polio
+Zone:8,45-54,0,2004,Polio
 Chachoengsao,45-54,0,2004,Polio
 Nakhon Nayok,45-54,0,2004,Polio
 Prachin Buri,45-54,0,2004,Polio
 Sa Kaeo,45-54,0,2004,Polio
 Samut Prakan,45-54,0,2004,Polio
-Zone 9,45-54,0,2004,Polio
+Zone:9,45-54,0,2004,Polio
 Chanthaburi,45-54,0,2004,Polio
 Chon Buri,45-54,0,2004,Polio
 Rayong,45-54,0,2004,Polio
 Trat,45-54,0,2004,Polio
 North-Eastern Region,45-54,0,2004,Polio
-Zone 10,45-54,0,2004,Polio
+Zone:10,45-54,0,2004,Polio
 Loei,45-54,0,2004,Polio
 Nong Bua Lam Phu,45-54,0,2004,Polio
 Nong Khai,45-54,0,2004,Polio
 Udon Thani,45-54,0,2004,Polio
-Zone 11,45-54,0,2004,Polio
+Zone:11,45-54,0,2004,Polio
 Kalasin,45-54,0,2004,Polio
 Mukdahan,45-54,0,2004,Polio
 Nakhon Phanom,45-54,0,2004,Polio
 Sakon Nakhon,45-54,0,2004,Polio
-Zone 12,45-54,0,2004,Polio
+Zone:12,45-54,0,2004,Polio
 Khon Kaen,45-54,0,2004,Polio
 Maha Sarakham,45-54,0,2004,Polio
 Roi Et,45-54,0,2004,Polio
-Zone 13,45-54,0,2004,Polio
+Zone:13,45-54,0,2004,Polio
 Buri Ram,45-54,0,2004,Polio
 Chaiyaphum,45-54,0,2004,Polio
 Nakhon Ratchasima,45-54,0,2004,Polio
 Surin,45-54,0,2004,Polio
-Zone 14,45-54,0,2004,Polio
+Zone:14,45-54,0,2004,Polio
 Amnat Charoen,45-54,0,2004,Polio
 Si Sa Ket,45-54,0,2004,Polio
 Ubon Ratchathani,45-54,0,2004,Polio
 Yasothon,45-54,0,2004,Polio
 South Region,45-54,0,2004,Polio
-Zone 15,45-54,0,2004,Polio
+Zone:15,45-54,0,2004,Polio
 Chumphon,45-54,0,2004,Polio
 Ranong,45-54,0,2004,Polio
 Surat Thani,45-54,0,2004,Polio
-Zone 16,45-54,0,2004,Polio
+Zone:16,45-54,0,2004,Polio
 Nakhon Si Thammarat,45-54,0,2004,Polio
 Phatthalung,45-54,0,2004,Polio
 Trang,45-54,0,2004,Polio
-Zone 17,45-54,0,2004,Polio
+Zone:17,45-54,0,2004,Polio
 Krabi,45-54,0,2004,Polio
 Phangnga,45-54,0,2004,Polio
 Phuket,45-54,0,2004,Polio
-Zone 18,45-54,0,2004,Polio
+Zone:18,45-54,0,2004,Polio
 Narathiwat,45-54,0,2004,Polio
 Pattani,45-54,0,2004,Polio
 Yala,45-54,0,2004,Polio
-Zone 19,45-54,0,2004,Polio
+Zone:19,45-54,0,2004,Polio
 Satun,45-54,0,2004,Polio
 Songkhla,45-54,0,2004,Polio
 Total,55-64,0,2004,Polio
 North Region,55-64,0,2004,Polio
-Zone 1,55-64,0,2004,Polio
+Zone:1,55-64,0,2004,Polio
 Chiang Mai,55-64,0,2004,Polio
 Chiang Rai,55-64,0,2004,Polio
 Lampang,55-64,0,2004,Polio
@@ -29014,98 +29014,98 @@ Mae Hong Son,55-64,0,2004,Polio
 Nan,55-64,0,2004,Polio
 Phayao,55-64,0,2004,Polio
 Phrae,55-64,0,2004,Polio
-Zone 2,55-64,0,2004,Polio
+Zone:2,55-64,0,2004,Polio
 Phetchabun,55-64,0,2004,Polio
 Phitsanulok,55-64,0,2004,Polio
 Sukhothai,55-64,0,2004,Polio
 Tak,55-64,0,2004,Polio
 Uttaradit,55-64,0,2004,Polio
-Zone 3,55-64,0,2004,Polio
+Zone:3,55-64,0,2004,Polio
 Kamphaeng Phet,55-64,0,2004,Polio
 Nakhon Sawan,55-64,0,2004,Polio
 Phichit,55-64,0,2004,Polio
 Uthai Thani,55-64,0,2004,Polio
 Central Region,55-64,0,2004,Polio
 Bangkok,55-64,0,2004,Polio
-Zone 4,55-64,0,2004,Polio
+Zone:4,55-64,0,2004,Polio
 Ang Thong,55-64,0,2004,Polio
 Nonthaburi,55-64,0,2004,Polio
 P.Nakhon S.Ayutthaya,55-64,0,2004,Polio
 Pathum Thani,55-64,0,2004,Polio
-Zone 5,55-64,0,2004,Polio
+Zone:5,55-64,0,2004,Polio
 Chai Nat,55-64,0,2004,Polio
 Lop Buri,55-64,0,2004,Polio
 Saraburi,55-64,0,2004,Polio
 Sing Buri,55-64,0,2004,Polio
-Zone 6,55-64,0,2004,Polio
+Zone:6,55-64,0,2004,Polio
 Kanchanaburi,55-64,0,2004,Polio
 Nakhon Pathom,55-64,0,2004,Polio
 Ratchaburi,55-64,0,2004,Polio
 Suphan Buri,55-64,0,2004,Polio
-Zone 7,55-64,0,2004,Polio
+Zone:7,55-64,0,2004,Polio
 Phetchaburi,55-64,0,2004,Polio
 Prachuap Khiri Khan,55-64,0,2004,Polio
 Samut Sakhon,55-64,0,2004,Polio
 Samut Songkhram,55-64,0,2004,Polio
-Zone 8,55-64,0,2004,Polio
+Zone:8,55-64,0,2004,Polio
 Chachoengsao,55-64,0,2004,Polio
 Nakhon Nayok,55-64,0,2004,Polio
 Prachin Buri,55-64,0,2004,Polio
 Sa Kaeo,55-64,0,2004,Polio
 Samut Prakan,55-64,0,2004,Polio
-Zone 9,55-64,0,2004,Polio
+Zone:9,55-64,0,2004,Polio
 Chanthaburi,55-64,0,2004,Polio
 Chon Buri,55-64,0,2004,Polio
 Rayong,55-64,0,2004,Polio
 Trat,55-64,0,2004,Polio
 North-Eastern Region,55-64,0,2004,Polio
-Zone 10,55-64,0,2004,Polio
+Zone:10,55-64,0,2004,Polio
 Loei,55-64,0,2004,Polio
 Nong Bua Lam Phu,55-64,0,2004,Polio
 Nong Khai,55-64,0,2004,Polio
 Udon Thani,55-64,0,2004,Polio
-Zone 11,55-64,0,2004,Polio
+Zone:11,55-64,0,2004,Polio
 Kalasin,55-64,0,2004,Polio
 Mukdahan,55-64,0,2004,Polio
 Nakhon Phanom,55-64,0,2004,Polio
 Sakon Nakhon,55-64,0,2004,Polio
-Zone 12,55-64,0,2004,Polio
+Zone:12,55-64,0,2004,Polio
 Khon Kaen,55-64,0,2004,Polio
 Maha Sarakham,55-64,0,2004,Polio
 Roi Et,55-64,0,2004,Polio
-Zone 13,55-64,0,2004,Polio
+Zone:13,55-64,0,2004,Polio
 Buri Ram,55-64,0,2004,Polio
 Chaiyaphum,55-64,0,2004,Polio
 Nakhon Ratchasima,55-64,0,2004,Polio
 Surin,55-64,0,2004,Polio
-Zone 14,55-64,0,2004,Polio
+Zone:14,55-64,0,2004,Polio
 Amnat Charoen,55-64,0,2004,Polio
 Si Sa Ket,55-64,0,2004,Polio
 Ubon Ratchathani,55-64,0,2004,Polio
 Yasothon,55-64,0,2004,Polio
 South Region,55-64,0,2004,Polio
-Zone 15,55-64,0,2004,Polio
+Zone:15,55-64,0,2004,Polio
 Chumphon,55-64,0,2004,Polio
 Ranong,55-64,0,2004,Polio
 Surat Thani,55-64,0,2004,Polio
-Zone 16,55-64,0,2004,Polio
+Zone:16,55-64,0,2004,Polio
 Nakhon Si Thammarat,55-64,0,2004,Polio
 Phatthalung,55-64,0,2004,Polio
 Trang,55-64,0,2004,Polio
-Zone 17,55-64,0,2004,Polio
+Zone:17,55-64,0,2004,Polio
 Krabi,55-64,0,2004,Polio
 Phangnga,55-64,0,2004,Polio
 Phuket,55-64,0,2004,Polio
-Zone 18,55-64,0,2004,Polio
+Zone:18,55-64,0,2004,Polio
 Narathiwat,55-64,0,2004,Polio
 Pattani,55-64,0,2004,Polio
 Yala,55-64,0,2004,Polio
-Zone 19,55-64,0,2004,Polio
+Zone:19,55-64,0,2004,Polio
 Satun,55-64,0,2004,Polio
 Songkhla,55-64,0,2004,Polio
 Total,65+,0,2004,Polio
 North Region,65+,0,2004,Polio
-Zone 1,65+,0,2004,Polio
+Zone:1,65+,0,2004,Polio
 Chiang Mai,65+,0,2004,Polio
 Chiang Rai,65+,0,2004,Polio
 Lampang,65+,0,2004,Polio
@@ -29114,98 +29114,98 @@ Mae Hong Son,65+,0,2004,Polio
 Nan,65+,0,2004,Polio
 Phayao,65+,0,2004,Polio
 Phrae,65+,0,2004,Polio
-Zone 2,65+,0,2004,Polio
+Zone:2,65+,0,2004,Polio
 Phetchabun,65+,0,2004,Polio
 Phitsanulok,65+,0,2004,Polio
 Sukhothai,65+,0,2004,Polio
 Tak,65+,0,2004,Polio
 Uttaradit,65+,0,2004,Polio
-Zone 3,65+,0,2004,Polio
+Zone:3,65+,0,2004,Polio
 Kamphaeng Phet,65+,0,2004,Polio
 Nakhon Sawan,65+,0,2004,Polio
 Phichit,65+,0,2004,Polio
 Uthai Thani,65+,0,2004,Polio
 Central Region,65+,0,2004,Polio
 Bangkok,65+,0,2004,Polio
-Zone 4,65+,0,2004,Polio
+Zone:4,65+,0,2004,Polio
 Ang Thong,65+,0,2004,Polio
 Nonthaburi,65+,0,2004,Polio
 P.Nakhon S.Ayutthaya,65+,0,2004,Polio
 Pathum Thani,65+,0,2004,Polio
-Zone 5,65+,0,2004,Polio
+Zone:5,65+,0,2004,Polio
 Chai Nat,65+,0,2004,Polio
 Lop Buri,65+,0,2004,Polio
 Saraburi,65+,0,2004,Polio
 Sing Buri,65+,0,2004,Polio
-Zone 6,65+,0,2004,Polio
+Zone:6,65+,0,2004,Polio
 Kanchanaburi,65+,0,2004,Polio
 Nakhon Pathom,65+,0,2004,Polio
 Ratchaburi,65+,0,2004,Polio
 Suphan Buri,65+,0,2004,Polio
-Zone 7,65+,0,2004,Polio
+Zone:7,65+,0,2004,Polio
 Phetchaburi,65+,0,2004,Polio
 Prachuap Khiri Khan,65+,0,2004,Polio
 Samut Sakhon,65+,0,2004,Polio
 Samut Songkhram,65+,0,2004,Polio
-Zone 8,65+,0,2004,Polio
+Zone:8,65+,0,2004,Polio
 Chachoengsao,65+,0,2004,Polio
 Nakhon Nayok,65+,0,2004,Polio
 Prachin Buri,65+,0,2004,Polio
 Sa Kaeo,65+,0,2004,Polio
 Samut Prakan,65+,0,2004,Polio
-Zone 9,65+,0,2004,Polio
+Zone:9,65+,0,2004,Polio
 Chanthaburi,65+,0,2004,Polio
 Chon Buri,65+,0,2004,Polio
 Rayong,65+,0,2004,Polio
 Trat,65+,0,2004,Polio
 North-Eastern Region,65+,0,2004,Polio
-Zone 10,65+,0,2004,Polio
+Zone:10,65+,0,2004,Polio
 Loei,65+,0,2004,Polio
 Nong Bua Lam Phu,65+,0,2004,Polio
 Nong Khai,65+,0,2004,Polio
 Udon Thani,65+,0,2004,Polio
-Zone 11,65+,0,2004,Polio
+Zone:11,65+,0,2004,Polio
 Kalasin,65+,0,2004,Polio
 Mukdahan,65+,0,2004,Polio
 Nakhon Phanom,65+,0,2004,Polio
 Sakon Nakhon,65+,0,2004,Polio
-Zone 12,65+,0,2004,Polio
+Zone:12,65+,0,2004,Polio
 Khon Kaen,65+,0,2004,Polio
 Maha Sarakham,65+,0,2004,Polio
 Roi Et,65+,0,2004,Polio
-Zone 13,65+,0,2004,Polio
+Zone:13,65+,0,2004,Polio
 Buri Ram,65+,0,2004,Polio
 Chaiyaphum,65+,0,2004,Polio
 Nakhon Ratchasima,65+,0,2004,Polio
 Surin,65+,0,2004,Polio
-Zone 14,65+,0,2004,Polio
+Zone:14,65+,0,2004,Polio
 Amnat Charoen,65+,0,2004,Polio
 Si Sa Ket,65+,0,2004,Polio
 Ubon Ratchathani,65+,0,2004,Polio
 Yasothon,65+,0,2004,Polio
 South Region,65+,0,2004,Polio
-Zone 15,65+,0,2004,Polio
+Zone:15,65+,0,2004,Polio
 Chumphon,65+,0,2004,Polio
 Ranong,65+,0,2004,Polio
 Surat Thani,65+,0,2004,Polio
-Zone 16,65+,0,2004,Polio
+Zone:16,65+,0,2004,Polio
 Nakhon Si Thammarat,65+,0,2004,Polio
 Phatthalung,65+,0,2004,Polio
 Trang,65+,0,2004,Polio
-Zone 17,65+,0,2004,Polio
+Zone:17,65+,0,2004,Polio
 Krabi,65+,0,2004,Polio
 Phangnga,65+,0,2004,Polio
 Phuket,65+,0,2004,Polio
-Zone 18,65+,0,2004,Polio
+Zone:18,65+,0,2004,Polio
 Narathiwat,65+,0,2004,Polio
 Pattani,65+,0,2004,Polio
 Yala,65+,0,2004,Polio
-Zone 19,65+,0,2004,Polio
+Zone:19,65+,0,2004,Polio
 Satun,65+,0,2004,Polio
 Songkhla,65+,0,2004,Polio
 Total,Unknown,0,2004,Polio
 North Region,Unknown,0,2004,Polio
-Zone 1,Unknown,0,2004,Polio
+Zone:1,Unknown,0,2004,Polio
 Chiang Mai,Unknown,0,2004,Polio
 Chiang Rai,Unknown,0,2004,Polio
 Lampang,Unknown,0,2004,Polio
@@ -29214,93 +29214,93 @@ Mae Hong Son,Unknown,0,2004,Polio
 Nan,Unknown,0,2004,Polio
 Phayao,Unknown,0,2004,Polio
 Phrae,Unknown,0,2004,Polio
-Zone 2,Unknown,0,2004,Polio
+Zone:2,Unknown,0,2004,Polio
 Phetchabun,Unknown,0,2004,Polio
 Phitsanulok,Unknown,0,2004,Polio
 Sukhothai,Unknown,0,2004,Polio
 Tak,Unknown,0,2004,Polio
 Uttaradit,Unknown,0,2004,Polio
-Zone 3,Unknown,0,2004,Polio
+Zone:3,Unknown,0,2004,Polio
 Kamphaeng Phet,Unknown,0,2004,Polio
 Nakhon Sawan,Unknown,0,2004,Polio
 Phichit,Unknown,0,2004,Polio
 Uthai Thani,Unknown,0,2004,Polio
 Central Region,Unknown,0,2004,Polio
 Bangkok,Unknown,0,2004,Polio
-Zone 4,Unknown,0,2004,Polio
+Zone:4,Unknown,0,2004,Polio
 Ang Thong,Unknown,0,2004,Polio
 Nonthaburi,Unknown,0,2004,Polio
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Polio
 Pathum Thani,Unknown,0,2004,Polio
-Zone 5,Unknown,0,2004,Polio
+Zone:5,Unknown,0,2004,Polio
 Chai Nat,Unknown,0,2004,Polio
 Lop Buri,Unknown,0,2004,Polio
 Saraburi,Unknown,0,2004,Polio
 Sing Buri,Unknown,0,2004,Polio
-Zone 6,Unknown,0,2004,Polio
+Zone:6,Unknown,0,2004,Polio
 Kanchanaburi,Unknown,0,2004,Polio
 Nakhon Pathom,Unknown,0,2004,Polio
 Ratchaburi,Unknown,0,2004,Polio
 Suphan Buri,Unknown,0,2004,Polio
-Zone 7,Unknown,0,2004,Polio
+Zone:7,Unknown,0,2004,Polio
 Phetchaburi,Unknown,0,2004,Polio
 Prachuap Khiri Khan,Unknown,0,2004,Polio
 Samut Sakhon,Unknown,0,2004,Polio
 Samut Songkhram,Unknown,0,2004,Polio
-Zone 8,Unknown,0,2004,Polio
+Zone:8,Unknown,0,2004,Polio
 Chachoengsao,Unknown,0,2004,Polio
 Nakhon Nayok,Unknown,0,2004,Polio
 Prachin Buri,Unknown,0,2004,Polio
 Sa Kaeo,Unknown,0,2004,Polio
 Samut Prakan,Unknown,0,2004,Polio
-Zone 9,Unknown,0,2004,Polio
+Zone:9,Unknown,0,2004,Polio
 Chanthaburi,Unknown,0,2004,Polio
 Chon Buri,Unknown,0,2004,Polio
 Rayong,Unknown,0,2004,Polio
 Trat,Unknown,0,2004,Polio
 North-Eastern Region,Unknown,0,2004,Polio
-Zone 10,Unknown,0,2004,Polio
+Zone:10,Unknown,0,2004,Polio
 Loei,Unknown,0,2004,Polio
 Nong Bua Lam Phu,Unknown,0,2004,Polio
 Nong Khai,Unknown,0,2004,Polio
 Udon Thani,Unknown,0,2004,Polio
-Zone 11,Unknown,0,2004,Polio
+Zone:11,Unknown,0,2004,Polio
 Kalasin,Unknown,0,2004,Polio
 Mukdahan,Unknown,0,2004,Polio
 Nakhon Phanom,Unknown,0,2004,Polio
 Sakon Nakhon,Unknown,0,2004,Polio
-Zone 12,Unknown,0,2004,Polio
+Zone:12,Unknown,0,2004,Polio
 Khon Kaen,Unknown,0,2004,Polio
 Maha Sarakham,Unknown,0,2004,Polio
 Roi Et,Unknown,0,2004,Polio
-Zone 13,Unknown,0,2004,Polio
+Zone:13,Unknown,0,2004,Polio
 Buri Ram,Unknown,0,2004,Polio
 Chaiyaphum,Unknown,0,2004,Polio
 Nakhon Ratchasima,Unknown,0,2004,Polio
 Surin,Unknown,0,2004,Polio
-Zone 14,Unknown,0,2004,Polio
+Zone:14,Unknown,0,2004,Polio
 Amnat Charoen,Unknown,0,2004,Polio
 Si Sa Ket,Unknown,0,2004,Polio
 Ubon Ratchathani,Unknown,0,2004,Polio
 Yasothon,Unknown,0,2004,Polio
 South Region,Unknown,0,2004,Polio
-Zone 15,Unknown,0,2004,Polio
+Zone:15,Unknown,0,2004,Polio
 Chumphon,Unknown,0,2004,Polio
 Ranong,Unknown,0,2004,Polio
 Surat Thani,Unknown,0,2004,Polio
-Zone 16,Unknown,0,2004,Polio
+Zone:16,Unknown,0,2004,Polio
 Nakhon Si Thammarat,Unknown,0,2004,Polio
 Phatthalung,Unknown,0,2004,Polio
 Trang,Unknown,0,2004,Polio
-Zone 17,Unknown,0,2004,Polio
+Zone:17,Unknown,0,2004,Polio
 Krabi,Unknown,0,2004,Polio
 Phangnga,Unknown,0,2004,Polio
 Phuket,Unknown,0,2004,Polio
-Zone 18,Unknown,0,2004,Polio
+Zone:18,Unknown,0,2004,Polio
 Narathiwat,Unknown,0,2004,Polio
 Pattani,Unknown,0,2004,Polio
 Yala,Unknown,0,2004,Polio
-Zone 19,Unknown,0,2004,Polio
+Zone:19,Unknown,0,2004,Polio
 Satun,Unknown,0,2004,Polio
 Songkhla,Unknown,0,2004,Polio
 Total,Total,0,2016,Polio

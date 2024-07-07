@@ -22105,7 +22105,7 @@ ZONE:13,Unknown,0,2016,Leprosy
 Bangkok,Unknown,0,2016,Leprosy
 Total,Total,545,2004,Leprosy
 North Region,Total,82,2004,Leprosy
-Zone 1,Total,56,2004,Leprosy
+Zone:1,Total,56,2004,Leprosy
 Chiang Mai,Total,27,2004,Leprosy
 Chiang Rai,Total,11,2004,Leprosy
 Lampang,Total,7,2004,Leprosy
@@ -22114,98 +22114,98 @@ Mae Hong Son,Total,10,2004,Leprosy
 Nan,Total,0,2004,Leprosy
 Phayao,Total,1,2004,Leprosy
 Phrae,Total,0,2004,Leprosy
-Zone 2,Total,19,2004,Leprosy
+Zone:2,Total,19,2004,Leprosy
 Phetchabun,Total,8,2004,Leprosy
 Phitsanulok,Total,3,2004,Leprosy
 Sukhothai,Total,1,2004,Leprosy
 Tak,Total,7,2004,Leprosy
 Uttaradit,Total,0,2004,Leprosy
-Zone 3,Total,7,2004,Leprosy
+Zone:3,Total,7,2004,Leprosy
 Kamphaeng Phet,Total,6,2004,Leprosy
 Nakhon Sawan,Total,0,2004,Leprosy
 Phichit,Total,1,2004,Leprosy
 Uthai Thani,Total,0,2004,Leprosy
 Central Region,Total,103,2004,Leprosy
 Bangkok,Total,18,2004,Leprosy
-Zone 4,Total,4,2004,Leprosy
+Zone:4,Total,4,2004,Leprosy
 Ang Thong,Total,0,2004,Leprosy
 Nonthaburi,Total,1,2004,Leprosy
 P.Nakhon S.Ayutthaya,Total,0,2004,Leprosy
 Pathum Thani,Total,3,2004,Leprosy
-Zone 5,Total,19,2004,Leprosy
+Zone:5,Total,19,2004,Leprosy
 Chai Nat,Total,0,2004,Leprosy
 Lop Buri,Total,16,2004,Leprosy
 Saraburi,Total,3,2004,Leprosy
 Sing Buri,Total,0,2004,Leprosy
-Zone 6,Total,9,2004,Leprosy
+Zone:6,Total,9,2004,Leprosy
 Kanchanaburi,Total,1,2004,Leprosy
 Nakhon Pathom,Total,2,2004,Leprosy
 Ratchaburi,Total,3,2004,Leprosy
 Suphan Buri,Total,3,2004,Leprosy
-Zone 7,Total,4,2004,Leprosy
+Zone:7,Total,4,2004,Leprosy
 Phetchaburi,Total,3,2004,Leprosy
 Prachuap Khiri Khan,Total,1,2004,Leprosy
 Samut Sakhon,Total,0,2004,Leprosy
 Samut Songkhram,Total,0,2004,Leprosy
-Zone 8,Total,17,2004,Leprosy
+Zone:8,Total,17,2004,Leprosy
 Chachoengsao,Total,0,2004,Leprosy
 Nakhon Nayok,Total,3,2004,Leprosy
 Prachin Buri,Total,7,2004,Leprosy
 Sa Kaeo,Total,7,2004,Leprosy
 Samut Prakan,Total,0,2004,Leprosy
-Zone 9,Total,32,2004,Leprosy
+Zone:9,Total,32,2004,Leprosy
 Chanthaburi,Total,18,2004,Leprosy
 Chon Buri,Total,4,2004,Leprosy
 Rayong,Total,9,2004,Leprosy
 Trat,Total,1,2004,Leprosy
 North-Eastern Region,Total,302,2004,Leprosy
-Zone 10,Total,30,2004,Leprosy
+Zone:10,Total,30,2004,Leprosy
 Loei,Total,0,2004,Leprosy
 Nong Bua Lam Phu,Total,17,2004,Leprosy
 Nong Khai,Total,3,2004,Leprosy
 Udon Thani,Total,10,2004,Leprosy
-Zone 11,Total,22,2004,Leprosy
+Zone:11,Total,22,2004,Leprosy
 Kalasin,Total,4,2004,Leprosy
 Mukdahan,Total,2,2004,Leprosy
 Nakhon Phanom,Total,3,2004,Leprosy
 Sakon Nakhon,Total,13,2004,Leprosy
-Zone 12,Total,34,2004,Leprosy
+Zone:12,Total,34,2004,Leprosy
 Khon Kaen,Total,16,2004,Leprosy
 Maha Sarakham,Total,10,2004,Leprosy
 Roi Et,Total,8,2004,Leprosy
-Zone 13,Total,120,2004,Leprosy
+Zone:13,Total,120,2004,Leprosy
 Buri Ram,Total,45,2004,Leprosy
 Chaiyaphum,Total,19,2004,Leprosy
 Nakhon Ratchasima,Total,33,2004,Leprosy
 Surin,Total,23,2004,Leprosy
-Zone 14,Total,96,2004,Leprosy
+Zone:14,Total,96,2004,Leprosy
 Amnat Charoen,Total,7,2004,Leprosy
 Si Sa Ket,Total,60,2004,Leprosy
 Ubon Ratchathani,Total,18,2004,Leprosy
 Yasothon,Total,11,2004,Leprosy
 South Region,Total,58,2004,Leprosy
-Zone 15,Total,5,2004,Leprosy
+Zone:15,Total,5,2004,Leprosy
 Chumphon,Total,2,2004,Leprosy
 Ranong,Total,0,2004,Leprosy
 Surat Thani,Total,3,2004,Leprosy
-Zone 16,Total,4,2004,Leprosy
+Zone:16,Total,4,2004,Leprosy
 Nakhon Si Thammarat,Total,1,2004,Leprosy
 Phatthalung,Total,1,2004,Leprosy
 Trang,Total,2,2004,Leprosy
-Zone 17,Total,3,2004,Leprosy
+Zone:17,Total,3,2004,Leprosy
 Krabi,Total,1,2004,Leprosy
 Phangnga,Total,0,2004,Leprosy
 Phuket,Total,2,2004,Leprosy
-Zone 18,Total,38,2004,Leprosy
+Zone:18,Total,38,2004,Leprosy
 Narathiwat,Total,11,2004,Leprosy
 Pattani,Total,24,2004,Leprosy
 Yala,Total,3,2004,Leprosy
-Zone 19,Total,8,2004,Leprosy
+Zone:19,Total,8,2004,Leprosy
 Satun,Total,2,2004,Leprosy
 Songkhla,Total,6,2004,Leprosy
 Total,0,0,2004,Leprosy
 North Region,0,0,2004,Leprosy
-Zone 1,0,0,2004,Leprosy
+Zone:1,0,0,2004,Leprosy
 Chiang Mai,0,0,2004,Leprosy
 Chiang Rai,0,0,2004,Leprosy
 Lampang,0,0,2004,Leprosy
@@ -22214,98 +22214,98 @@ Mae Hong Son,0,0,2004,Leprosy
 Nan,0,0,2004,Leprosy
 Phayao,0,0,2004,Leprosy
 Phrae,0,0,2004,Leprosy
-Zone 2,0,0,2004,Leprosy
+Zone:2,0,0,2004,Leprosy
 Phetchabun,0,0,2004,Leprosy
 Phitsanulok,0,0,2004,Leprosy
 Sukhothai,0,0,2004,Leprosy
 Tak,0,0,2004,Leprosy
 Uttaradit,0,0,2004,Leprosy
-Zone 3,0,0,2004,Leprosy
+Zone:3,0,0,2004,Leprosy
 Kamphaeng Phet,0,0,2004,Leprosy
 Nakhon Sawan,0,0,2004,Leprosy
 Phichit,0,0,2004,Leprosy
 Uthai Thani,0,0,2004,Leprosy
 Central Region,0,0,2004,Leprosy
 Bangkok,0,0,2004,Leprosy
-Zone 4,0,0,2004,Leprosy
+Zone:4,0,0,2004,Leprosy
 Ang Thong,0,0,2004,Leprosy
 Nonthaburi,0,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,0,0,2004,Leprosy
 Pathum Thani,0,0,2004,Leprosy
-Zone 5,0,0,2004,Leprosy
+Zone:5,0,0,2004,Leprosy
 Chai Nat,0,0,2004,Leprosy
 Lop Buri,0,0,2004,Leprosy
 Saraburi,0,0,2004,Leprosy
 Sing Buri,0,0,2004,Leprosy
-Zone 6,0,0,2004,Leprosy
+Zone:6,0,0,2004,Leprosy
 Kanchanaburi,0,0,2004,Leprosy
 Nakhon Pathom,0,0,2004,Leprosy
 Ratchaburi,0,0,2004,Leprosy
 Suphan Buri,0,0,2004,Leprosy
-Zone 7,0,0,2004,Leprosy
+Zone:7,0,0,2004,Leprosy
 Phetchaburi,0,0,2004,Leprosy
 Prachuap Khiri Khan,0,0,2004,Leprosy
 Samut Sakhon,0,0,2004,Leprosy
 Samut Songkhram,0,0,2004,Leprosy
-Zone 8,0,0,2004,Leprosy
+Zone:8,0,0,2004,Leprosy
 Chachoengsao,0,0,2004,Leprosy
 Nakhon Nayok,0,0,2004,Leprosy
 Prachin Buri,0,0,2004,Leprosy
 Sa Kaeo,0,0,2004,Leprosy
 Samut Prakan,0,0,2004,Leprosy
-Zone 9,0,0,2004,Leprosy
+Zone:9,0,0,2004,Leprosy
 Chanthaburi,0,0,2004,Leprosy
 Chon Buri,0,0,2004,Leprosy
 Rayong,0,0,2004,Leprosy
 Trat,0,0,2004,Leprosy
 North-Eastern Region,0,0,2004,Leprosy
-Zone 10,0,0,2004,Leprosy
+Zone:10,0,0,2004,Leprosy
 Loei,0,0,2004,Leprosy
 Nong Bua Lam Phu,0,0,2004,Leprosy
 Nong Khai,0,0,2004,Leprosy
 Udon Thani,0,0,2004,Leprosy
-Zone 11,0,0,2004,Leprosy
+Zone:11,0,0,2004,Leprosy
 Kalasin,0,0,2004,Leprosy
 Mukdahan,0,0,2004,Leprosy
 Nakhon Phanom,0,0,2004,Leprosy
 Sakon Nakhon,0,0,2004,Leprosy
-Zone 12,0,0,2004,Leprosy
+Zone:12,0,0,2004,Leprosy
 Khon Kaen,0,0,2004,Leprosy
 Maha Sarakham,0,0,2004,Leprosy
 Roi Et,0,0,2004,Leprosy
-Zone 13,0,0,2004,Leprosy
+Zone:13,0,0,2004,Leprosy
 Buri Ram,0,0,2004,Leprosy
 Chaiyaphum,0,0,2004,Leprosy
 Nakhon Ratchasima,0,0,2004,Leprosy
 Surin,0,0,2004,Leprosy
-Zone 14,0,0,2004,Leprosy
+Zone:14,0,0,2004,Leprosy
 Amnat Charoen,0,0,2004,Leprosy
 Si Sa Ket,0,0,2004,Leprosy
 Ubon Ratchathani,0,0,2004,Leprosy
 Yasothon,0,0,2004,Leprosy
 South Region,0,0,2004,Leprosy
-Zone 15,0,0,2004,Leprosy
+Zone:15,0,0,2004,Leprosy
 Chumphon,0,0,2004,Leprosy
 Ranong,0,0,2004,Leprosy
 Surat Thani,0,0,2004,Leprosy
-Zone 16,0,0,2004,Leprosy
+Zone:16,0,0,2004,Leprosy
 Nakhon Si Thammarat,0,0,2004,Leprosy
 Phatthalung,0,0,2004,Leprosy
 Trang,0,0,2004,Leprosy
-Zone 17,0,0,2004,Leprosy
+Zone:17,0,0,2004,Leprosy
 Krabi,0,0,2004,Leprosy
 Phangnga,0,0,2004,Leprosy
 Phuket,0,0,2004,Leprosy
-Zone 18,0,0,2004,Leprosy
+Zone:18,0,0,2004,Leprosy
 Narathiwat,0,0,2004,Leprosy
 Pattani,0,0,2004,Leprosy
 Yala,0,0,2004,Leprosy
-Zone 19,0,0,2004,Leprosy
+Zone:19,0,0,2004,Leprosy
 Satun,0,0,2004,Leprosy
 Songkhla,0,0,2004,Leprosy
 Total,<1,1,2004,Leprosy
 North Region,<1,0,2004,Leprosy
-Zone 1,<1,0,2004,Leprosy
+Zone:1,<1,0,2004,Leprosy
 Chiang Mai,<1,0,2004,Leprosy
 Chiang Rai,<1,0,2004,Leprosy
 Lampang,<1,0,2004,Leprosy
@@ -22314,98 +22314,98 @@ Mae Hong Son,<1,0,2004,Leprosy
 Nan,<1,0,2004,Leprosy
 Phayao,<1,0,2004,Leprosy
 Phrae,<1,0,2004,Leprosy
-Zone 2,<1,0,2004,Leprosy
+Zone:2,<1,0,2004,Leprosy
 Phetchabun,<1,0,2004,Leprosy
 Phitsanulok,<1,0,2004,Leprosy
 Sukhothai,<1,0,2004,Leprosy
 Tak,<1,0,2004,Leprosy
 Uttaradit,<1,0,2004,Leprosy
-Zone 3,<1,0,2004,Leprosy
+Zone:3,<1,0,2004,Leprosy
 Kamphaeng Phet,<1,0,2004,Leprosy
 Nakhon Sawan,<1,0,2004,Leprosy
 Phichit,<1,0,2004,Leprosy
 Uthai Thani,<1,0,2004,Leprosy
 Central Region,<1,1,2004,Leprosy
 Bangkok,<1,0,2004,Leprosy
-Zone 4,<1,0,2004,Leprosy
+Zone:4,<1,0,2004,Leprosy
 Ang Thong,<1,0,2004,Leprosy
 Nonthaburi,<1,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,<1,0,2004,Leprosy
 Pathum Thani,<1,0,2004,Leprosy
-Zone 5,<1,0,2004,Leprosy
+Zone:5,<1,0,2004,Leprosy
 Chai Nat,<1,0,2004,Leprosy
 Lop Buri,<1,0,2004,Leprosy
 Saraburi,<1,0,2004,Leprosy
 Sing Buri,<1,0,2004,Leprosy
-Zone 6,<1,0,2004,Leprosy
+Zone:6,<1,0,2004,Leprosy
 Kanchanaburi,<1,0,2004,Leprosy
 Nakhon Pathom,<1,0,2004,Leprosy
 Ratchaburi,<1,0,2004,Leprosy
 Suphan Buri,<1,0,2004,Leprosy
-Zone 7,<1,0,2004,Leprosy
+Zone:7,<1,0,2004,Leprosy
 Phetchaburi,<1,0,2004,Leprosy
 Prachuap Khiri Khan,<1,0,2004,Leprosy
 Samut Sakhon,<1,0,2004,Leprosy
 Samut Songkhram,<1,0,2004,Leprosy
-Zone 8,<1,0,2004,Leprosy
+Zone:8,<1,0,2004,Leprosy
 Chachoengsao,<1,0,2004,Leprosy
 Nakhon Nayok,<1,0,2004,Leprosy
 Prachin Buri,<1,0,2004,Leprosy
 Sa Kaeo,<1,0,2004,Leprosy
 Samut Prakan,<1,0,2004,Leprosy
-Zone 9,<1,1,2004,Leprosy
+Zone:9,<1,1,2004,Leprosy
 Chanthaburi,<1,1,2004,Leprosy
 Chon Buri,<1,0,2004,Leprosy
 Rayong,<1,0,2004,Leprosy
 Trat,<1,0,2004,Leprosy
 North-Eastern Region,<1,0,2004,Leprosy
-Zone 10,<1,0,2004,Leprosy
+Zone:10,<1,0,2004,Leprosy
 Loei,<1,0,2004,Leprosy
 Nong Bua Lam Phu,<1,0,2004,Leprosy
 Nong Khai,<1,0,2004,Leprosy
 Udon Thani,<1,0,2004,Leprosy
-Zone 11,<1,0,2004,Leprosy
+Zone:11,<1,0,2004,Leprosy
 Kalasin,<1,0,2004,Leprosy
 Mukdahan,<1,0,2004,Leprosy
 Nakhon Phanom,<1,0,2004,Leprosy
 Sakon Nakhon,<1,0,2004,Leprosy
-Zone 12,<1,0,2004,Leprosy
+Zone:12,<1,0,2004,Leprosy
 Khon Kaen,<1,0,2004,Leprosy
 Maha Sarakham,<1,0,2004,Leprosy
 Roi Et,<1,0,2004,Leprosy
-Zone 13,<1,0,2004,Leprosy
+Zone:13,<1,0,2004,Leprosy
 Buri Ram,<1,0,2004,Leprosy
 Chaiyaphum,<1,0,2004,Leprosy
 Nakhon Ratchasima,<1,0,2004,Leprosy
 Surin,<1,0,2004,Leprosy
-Zone 14,<1,0,2004,Leprosy
+Zone:14,<1,0,2004,Leprosy
 Amnat Charoen,<1,0,2004,Leprosy
 Si Sa Ket,<1,0,2004,Leprosy
 Ubon Ratchathani,<1,0,2004,Leprosy
 Yasothon,<1,0,2004,Leprosy
 South Region,<1,0,2004,Leprosy
-Zone 15,<1,0,2004,Leprosy
+Zone:15,<1,0,2004,Leprosy
 Chumphon,<1,0,2004,Leprosy
 Ranong,<1,0,2004,Leprosy
 Surat Thani,<1,0,2004,Leprosy
-Zone 16,<1,0,2004,Leprosy
+Zone:16,<1,0,2004,Leprosy
 Nakhon Si Thammarat,<1,0,2004,Leprosy
 Phatthalung,<1,0,2004,Leprosy
 Trang,<1,0,2004,Leprosy
-Zone 17,<1,0,2004,Leprosy
+Zone:17,<1,0,2004,Leprosy
 Krabi,<1,0,2004,Leprosy
 Phangnga,<1,0,2004,Leprosy
 Phuket,<1,0,2004,Leprosy
-Zone 18,<1,0,2004,Leprosy
+Zone:18,<1,0,2004,Leprosy
 Narathiwat,<1,0,2004,Leprosy
 Pattani,<1,0,2004,Leprosy
 Yala,<1,0,2004,Leprosy
-Zone 19,<1,0,2004,Leprosy
+Zone:19,<1,0,2004,Leprosy
 Satun,<1,0,2004,Leprosy
 Songkhla,<1,0,2004,Leprosy
 Total,1-1,2,2004,Leprosy
 North Region,1-1,0,2004,Leprosy
-Zone 1,1-1,0,2004,Leprosy
+Zone:1,1-1,0,2004,Leprosy
 Chiang Mai,1-1,0,2004,Leprosy
 Chiang Rai,1-1,0,2004,Leprosy
 Lampang,1-1,0,2004,Leprosy
@@ -22414,98 +22414,98 @@ Mae Hong Son,1-1,0,2004,Leprosy
 Nan,1-1,0,2004,Leprosy
 Phayao,1-1,0,2004,Leprosy
 Phrae,1-1,0,2004,Leprosy
-Zone 2,1-1,0,2004,Leprosy
+Zone:2,1-1,0,2004,Leprosy
 Phetchabun,1-1,0,2004,Leprosy
 Phitsanulok,1-1,0,2004,Leprosy
 Sukhothai,1-1,0,2004,Leprosy
 Tak,1-1,0,2004,Leprosy
 Uttaradit,1-1,0,2004,Leprosy
-Zone 3,1-1,0,2004,Leprosy
+Zone:3,1-1,0,2004,Leprosy
 Kamphaeng Phet,1-1,0,2004,Leprosy
 Nakhon Sawan,1-1,0,2004,Leprosy
 Phichit,1-1,0,2004,Leprosy
 Uthai Thani,1-1,0,2004,Leprosy
 Central Region,1-1,0,2004,Leprosy
 Bangkok,1-1,0,2004,Leprosy
-Zone 4,1-1,0,2004,Leprosy
+Zone:4,1-1,0,2004,Leprosy
 Ang Thong,1-1,0,2004,Leprosy
 Nonthaburi,1-1,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,1-1,0,2004,Leprosy
 Pathum Thani,1-1,0,2004,Leprosy
-Zone 5,1-1,0,2004,Leprosy
+Zone:5,1-1,0,2004,Leprosy
 Chai Nat,1-1,0,2004,Leprosy
 Lop Buri,1-1,0,2004,Leprosy
 Saraburi,1-1,0,2004,Leprosy
 Sing Buri,1-1,0,2004,Leprosy
-Zone 6,1-1,0,2004,Leprosy
+Zone:6,1-1,0,2004,Leprosy
 Kanchanaburi,1-1,0,2004,Leprosy
 Nakhon Pathom,1-1,0,2004,Leprosy
 Ratchaburi,1-1,0,2004,Leprosy
 Suphan Buri,1-1,0,2004,Leprosy
-Zone 7,1-1,0,2004,Leprosy
+Zone:7,1-1,0,2004,Leprosy
 Phetchaburi,1-1,0,2004,Leprosy
 Prachuap Khiri Khan,1-1,0,2004,Leprosy
 Samut Sakhon,1-1,0,2004,Leprosy
 Samut Songkhram,1-1,0,2004,Leprosy
-Zone 8,1-1,0,2004,Leprosy
+Zone:8,1-1,0,2004,Leprosy
 Chachoengsao,1-1,0,2004,Leprosy
 Nakhon Nayok,1-1,0,2004,Leprosy
 Prachin Buri,1-1,0,2004,Leprosy
 Sa Kaeo,1-1,0,2004,Leprosy
 Samut Prakan,1-1,0,2004,Leprosy
-Zone 9,1-1,0,2004,Leprosy
+Zone:9,1-1,0,2004,Leprosy
 Chanthaburi,1-1,0,2004,Leprosy
 Chon Buri,1-1,0,2004,Leprosy
 Rayong,1-1,0,2004,Leprosy
 Trat,1-1,0,2004,Leprosy
 North-Eastern Region,1-1,2,2004,Leprosy
-Zone 10,1-1,0,2004,Leprosy
+Zone:10,1-1,0,2004,Leprosy
 Loei,1-1,0,2004,Leprosy
 Nong Bua Lam Phu,1-1,0,2004,Leprosy
 Nong Khai,1-1,0,2004,Leprosy
 Udon Thani,1-1,0,2004,Leprosy
-Zone 11,1-1,1,2004,Leprosy
+Zone:11,1-1,1,2004,Leprosy
 Kalasin,1-1,1,2004,Leprosy
 Mukdahan,1-1,0,2004,Leprosy
 Nakhon Phanom,1-1,0,2004,Leprosy
 Sakon Nakhon,1-1,0,2004,Leprosy
-Zone 12,1-1,0,2004,Leprosy
+Zone:12,1-1,0,2004,Leprosy
 Khon Kaen,1-1,0,2004,Leprosy
 Maha Sarakham,1-1,0,2004,Leprosy
 Roi Et,1-1,0,2004,Leprosy
-Zone 13,1-1,0,2004,Leprosy
+Zone:13,1-1,0,2004,Leprosy
 Buri Ram,1-1,0,2004,Leprosy
 Chaiyaphum,1-1,0,2004,Leprosy
 Nakhon Ratchasima,1-1,0,2004,Leprosy
 Surin,1-1,0,2004,Leprosy
-Zone 14,1-1,1,2004,Leprosy
+Zone:14,1-1,1,2004,Leprosy
 Amnat Charoen,1-1,0,2004,Leprosy
 Si Sa Ket,1-1,1,2004,Leprosy
 Ubon Ratchathani,1-1,0,2004,Leprosy
 Yasothon,1-1,0,2004,Leprosy
 South Region,1-1,0,2004,Leprosy
-Zone 15,1-1,0,2004,Leprosy
+Zone:15,1-1,0,2004,Leprosy
 Chumphon,1-1,0,2004,Leprosy
 Ranong,1-1,0,2004,Leprosy
 Surat Thani,1-1,0,2004,Leprosy
-Zone 16,1-1,0,2004,Leprosy
+Zone:16,1-1,0,2004,Leprosy
 Nakhon Si Thammarat,1-1,0,2004,Leprosy
 Phatthalung,1-1,0,2004,Leprosy
 Trang,1-1,0,2004,Leprosy
-Zone 17,1-1,0,2004,Leprosy
+Zone:17,1-1,0,2004,Leprosy
 Krabi,1-1,0,2004,Leprosy
 Phangnga,1-1,0,2004,Leprosy
 Phuket,1-1,0,2004,Leprosy
-Zone 18,1-1,0,2004,Leprosy
+Zone:18,1-1,0,2004,Leprosy
 Narathiwat,1-1,0,2004,Leprosy
 Pattani,1-1,0,2004,Leprosy
 Yala,1-1,0,2004,Leprosy
-Zone 19,1-1,0,2004,Leprosy
+Zone:19,1-1,0,2004,Leprosy
 Satun,1-1,0,2004,Leprosy
 Songkhla,1-1,0,2004,Leprosy
 Total,2-2,0,2004,Leprosy
 North Region,2-2,0,2004,Leprosy
-Zone 1,2-2,0,2004,Leprosy
+Zone:1,2-2,0,2004,Leprosy
 Chiang Mai,2-2,0,2004,Leprosy
 Chiang Rai,2-2,0,2004,Leprosy
 Lampang,2-2,0,2004,Leprosy
@@ -22514,98 +22514,98 @@ Mae Hong Son,2-2,0,2004,Leprosy
 Nan,2-2,0,2004,Leprosy
 Phayao,2-2,0,2004,Leprosy
 Phrae,2-2,0,2004,Leprosy
-Zone 2,2-2,0,2004,Leprosy
+Zone:2,2-2,0,2004,Leprosy
 Phetchabun,2-2,0,2004,Leprosy
 Phitsanulok,2-2,0,2004,Leprosy
 Sukhothai,2-2,0,2004,Leprosy
 Tak,2-2,0,2004,Leprosy
 Uttaradit,2-2,0,2004,Leprosy
-Zone 3,2-2,0,2004,Leprosy
+Zone:3,2-2,0,2004,Leprosy
 Kamphaeng Phet,2-2,0,2004,Leprosy
 Nakhon Sawan,2-2,0,2004,Leprosy
 Phichit,2-2,0,2004,Leprosy
 Uthai Thani,2-2,0,2004,Leprosy
 Central Region,2-2,0,2004,Leprosy
 Bangkok,2-2,0,2004,Leprosy
-Zone 4,2-2,0,2004,Leprosy
+Zone:4,2-2,0,2004,Leprosy
 Ang Thong,2-2,0,2004,Leprosy
 Nonthaburi,2-2,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,2-2,0,2004,Leprosy
 Pathum Thani,2-2,0,2004,Leprosy
-Zone 5,2-2,0,2004,Leprosy
+Zone:5,2-2,0,2004,Leprosy
 Chai Nat,2-2,0,2004,Leprosy
 Lop Buri,2-2,0,2004,Leprosy
 Saraburi,2-2,0,2004,Leprosy
 Sing Buri,2-2,0,2004,Leprosy
-Zone 6,2-2,0,2004,Leprosy
+Zone:6,2-2,0,2004,Leprosy
 Kanchanaburi,2-2,0,2004,Leprosy
 Nakhon Pathom,2-2,0,2004,Leprosy
 Ratchaburi,2-2,0,2004,Leprosy
 Suphan Buri,2-2,0,2004,Leprosy
-Zone 7,2-2,0,2004,Leprosy
+Zone:7,2-2,0,2004,Leprosy
 Phetchaburi,2-2,0,2004,Leprosy
 Prachuap Khiri Khan,2-2,0,2004,Leprosy
 Samut Sakhon,2-2,0,2004,Leprosy
 Samut Songkhram,2-2,0,2004,Leprosy
-Zone 8,2-2,0,2004,Leprosy
+Zone:8,2-2,0,2004,Leprosy
 Chachoengsao,2-2,0,2004,Leprosy
 Nakhon Nayok,2-2,0,2004,Leprosy
 Prachin Buri,2-2,0,2004,Leprosy
 Sa Kaeo,2-2,0,2004,Leprosy
 Samut Prakan,2-2,0,2004,Leprosy
-Zone 9,2-2,0,2004,Leprosy
+Zone:9,2-2,0,2004,Leprosy
 Chanthaburi,2-2,0,2004,Leprosy
 Chon Buri,2-2,0,2004,Leprosy
 Rayong,2-2,0,2004,Leprosy
 Trat,2-2,0,2004,Leprosy
 North-Eastern Region,2-2,0,2004,Leprosy
-Zone 10,2-2,0,2004,Leprosy
+Zone:10,2-2,0,2004,Leprosy
 Loei,2-2,0,2004,Leprosy
 Nong Bua Lam Phu,2-2,0,2004,Leprosy
 Nong Khai,2-2,0,2004,Leprosy
 Udon Thani,2-2,0,2004,Leprosy
-Zone 11,2-2,0,2004,Leprosy
+Zone:11,2-2,0,2004,Leprosy
 Kalasin,2-2,0,2004,Leprosy
 Mukdahan,2-2,0,2004,Leprosy
 Nakhon Phanom,2-2,0,2004,Leprosy
 Sakon Nakhon,2-2,0,2004,Leprosy
-Zone 12,2-2,0,2004,Leprosy
+Zone:12,2-2,0,2004,Leprosy
 Khon Kaen,2-2,0,2004,Leprosy
 Maha Sarakham,2-2,0,2004,Leprosy
 Roi Et,2-2,0,2004,Leprosy
-Zone 13,2-2,0,2004,Leprosy
+Zone:13,2-2,0,2004,Leprosy
 Buri Ram,2-2,0,2004,Leprosy
 Chaiyaphum,2-2,0,2004,Leprosy
 Nakhon Ratchasima,2-2,0,2004,Leprosy
 Surin,2-2,0,2004,Leprosy
-Zone 14,2-2,0,2004,Leprosy
+Zone:14,2-2,0,2004,Leprosy
 Amnat Charoen,2-2,0,2004,Leprosy
 Si Sa Ket,2-2,0,2004,Leprosy
 Ubon Ratchathani,2-2,0,2004,Leprosy
 Yasothon,2-2,0,2004,Leprosy
 South Region,2-2,0,2004,Leprosy
-Zone 15,2-2,0,2004,Leprosy
+Zone:15,2-2,0,2004,Leprosy
 Chumphon,2-2,0,2004,Leprosy
 Ranong,2-2,0,2004,Leprosy
 Surat Thani,2-2,0,2004,Leprosy
-Zone 16,2-2,0,2004,Leprosy
+Zone:16,2-2,0,2004,Leprosy
 Nakhon Si Thammarat,2-2,0,2004,Leprosy
 Phatthalung,2-2,0,2004,Leprosy
 Trang,2-2,0,2004,Leprosy
-Zone 17,2-2,0,2004,Leprosy
+Zone:17,2-2,0,2004,Leprosy
 Krabi,2-2,0,2004,Leprosy
 Phangnga,2-2,0,2004,Leprosy
 Phuket,2-2,0,2004,Leprosy
-Zone 18,2-2,0,2004,Leprosy
+Zone:18,2-2,0,2004,Leprosy
 Narathiwat,2-2,0,2004,Leprosy
 Pattani,2-2,0,2004,Leprosy
 Yala,2-2,0,2004,Leprosy
-Zone 19,2-2,0,2004,Leprosy
+Zone:19,2-2,0,2004,Leprosy
 Satun,2-2,0,2004,Leprosy
 Songkhla,2-2,0,2004,Leprosy
 Total,3-3,1,2004,Leprosy
 North Region,3-3,0,2004,Leprosy
-Zone 1,3-3,0,2004,Leprosy
+Zone:1,3-3,0,2004,Leprosy
 Chiang Mai,3-3,0,2004,Leprosy
 Chiang Rai,3-3,0,2004,Leprosy
 Lampang,3-3,0,2004,Leprosy
@@ -22614,98 +22614,98 @@ Mae Hong Son,3-3,0,2004,Leprosy
 Nan,3-3,0,2004,Leprosy
 Phayao,3-3,0,2004,Leprosy
 Phrae,3-3,0,2004,Leprosy
-Zone 2,3-3,0,2004,Leprosy
+Zone:2,3-3,0,2004,Leprosy
 Phetchabun,3-3,0,2004,Leprosy
 Phitsanulok,3-3,0,2004,Leprosy
 Sukhothai,3-3,0,2004,Leprosy
 Tak,3-3,0,2004,Leprosy
 Uttaradit,3-3,0,2004,Leprosy
-Zone 3,3-3,0,2004,Leprosy
+Zone:3,3-3,0,2004,Leprosy
 Kamphaeng Phet,3-3,0,2004,Leprosy
 Nakhon Sawan,3-3,0,2004,Leprosy
 Phichit,3-3,0,2004,Leprosy
 Uthai Thani,3-3,0,2004,Leprosy
 Central Region,3-3,0,2004,Leprosy
 Bangkok,3-3,0,2004,Leprosy
-Zone 4,3-3,0,2004,Leprosy
+Zone:4,3-3,0,2004,Leprosy
 Ang Thong,3-3,0,2004,Leprosy
 Nonthaburi,3-3,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,3-3,0,2004,Leprosy
 Pathum Thani,3-3,0,2004,Leprosy
-Zone 5,3-3,0,2004,Leprosy
+Zone:5,3-3,0,2004,Leprosy
 Chai Nat,3-3,0,2004,Leprosy
 Lop Buri,3-3,0,2004,Leprosy
 Saraburi,3-3,0,2004,Leprosy
 Sing Buri,3-3,0,2004,Leprosy
-Zone 6,3-3,0,2004,Leprosy
+Zone:6,3-3,0,2004,Leprosy
 Kanchanaburi,3-3,0,2004,Leprosy
 Nakhon Pathom,3-3,0,2004,Leprosy
 Ratchaburi,3-3,0,2004,Leprosy
 Suphan Buri,3-3,0,2004,Leprosy
-Zone 7,3-3,0,2004,Leprosy
+Zone:7,3-3,0,2004,Leprosy
 Phetchaburi,3-3,0,2004,Leprosy
 Prachuap Khiri Khan,3-3,0,2004,Leprosy
 Samut Sakhon,3-3,0,2004,Leprosy
 Samut Songkhram,3-3,0,2004,Leprosy
-Zone 8,3-3,0,2004,Leprosy
+Zone:8,3-3,0,2004,Leprosy
 Chachoengsao,3-3,0,2004,Leprosy
 Nakhon Nayok,3-3,0,2004,Leprosy
 Prachin Buri,3-3,0,2004,Leprosy
 Sa Kaeo,3-3,0,2004,Leprosy
 Samut Prakan,3-3,0,2004,Leprosy
-Zone 9,3-3,0,2004,Leprosy
+Zone:9,3-3,0,2004,Leprosy
 Chanthaburi,3-3,0,2004,Leprosy
 Chon Buri,3-3,0,2004,Leprosy
 Rayong,3-3,0,2004,Leprosy
 Trat,3-3,0,2004,Leprosy
 North-Eastern Region,3-3,1,2004,Leprosy
-Zone 10,3-3,0,2004,Leprosy
+Zone:10,3-3,0,2004,Leprosy
 Loei,3-3,0,2004,Leprosy
 Nong Bua Lam Phu,3-3,0,2004,Leprosy
 Nong Khai,3-3,0,2004,Leprosy
 Udon Thani,3-3,0,2004,Leprosy
-Zone 11,3-3,0,2004,Leprosy
+Zone:11,3-3,0,2004,Leprosy
 Kalasin,3-3,0,2004,Leprosy
 Mukdahan,3-3,0,2004,Leprosy
 Nakhon Phanom,3-3,0,2004,Leprosy
 Sakon Nakhon,3-3,0,2004,Leprosy
-Zone 12,3-3,1,2004,Leprosy
+Zone:12,3-3,1,2004,Leprosy
 Khon Kaen,3-3,0,2004,Leprosy
 Maha Sarakham,3-3,1,2004,Leprosy
 Roi Et,3-3,0,2004,Leprosy
-Zone 13,3-3,0,2004,Leprosy
+Zone:13,3-3,0,2004,Leprosy
 Buri Ram,3-3,0,2004,Leprosy
 Chaiyaphum,3-3,0,2004,Leprosy
 Nakhon Ratchasima,3-3,0,2004,Leprosy
 Surin,3-3,0,2004,Leprosy
-Zone 14,3-3,0,2004,Leprosy
+Zone:14,3-3,0,2004,Leprosy
 Amnat Charoen,3-3,0,2004,Leprosy
 Si Sa Ket,3-3,0,2004,Leprosy
 Ubon Ratchathani,3-3,0,2004,Leprosy
 Yasothon,3-3,0,2004,Leprosy
 South Region,3-3,0,2004,Leprosy
-Zone 15,3-3,0,2004,Leprosy
+Zone:15,3-3,0,2004,Leprosy
 Chumphon,3-3,0,2004,Leprosy
 Ranong,3-3,0,2004,Leprosy
 Surat Thani,3-3,0,2004,Leprosy
-Zone 16,3-3,0,2004,Leprosy
+Zone:16,3-3,0,2004,Leprosy
 Nakhon Si Thammarat,3-3,0,2004,Leprosy
 Phatthalung,3-3,0,2004,Leprosy
 Trang,3-3,0,2004,Leprosy
-Zone 17,3-3,0,2004,Leprosy
+Zone:17,3-3,0,2004,Leprosy
 Krabi,3-3,0,2004,Leprosy
 Phangnga,3-3,0,2004,Leprosy
 Phuket,3-3,0,2004,Leprosy
-Zone 18,3-3,0,2004,Leprosy
+Zone:18,3-3,0,2004,Leprosy
 Narathiwat,3-3,0,2004,Leprosy
 Pattani,3-3,0,2004,Leprosy
 Yala,3-3,0,2004,Leprosy
-Zone 19,3-3,0,2004,Leprosy
+Zone:19,3-3,0,2004,Leprosy
 Satun,3-3,0,2004,Leprosy
 Songkhla,3-3,0,2004,Leprosy
 Total,4-4,2,2004,Leprosy
 North Region,4-4,1,2004,Leprosy
-Zone 1,4-4,1,2004,Leprosy
+Zone:1,4-4,1,2004,Leprosy
 Chiang Mai,4-4,0,2004,Leprosy
 Chiang Rai,4-4,0,2004,Leprosy
 Lampang,4-4,0,2004,Leprosy
@@ -22714,98 +22714,98 @@ Mae Hong Son,4-4,1,2004,Leprosy
 Nan,4-4,0,2004,Leprosy
 Phayao,4-4,0,2004,Leprosy
 Phrae,4-4,0,2004,Leprosy
-Zone 2,4-4,0,2004,Leprosy
+Zone:2,4-4,0,2004,Leprosy
 Phetchabun,4-4,0,2004,Leprosy
 Phitsanulok,4-4,0,2004,Leprosy
 Sukhothai,4-4,0,2004,Leprosy
 Tak,4-4,0,2004,Leprosy
 Uttaradit,4-4,0,2004,Leprosy
-Zone 3,4-4,0,2004,Leprosy
+Zone:3,4-4,0,2004,Leprosy
 Kamphaeng Phet,4-4,0,2004,Leprosy
 Nakhon Sawan,4-4,0,2004,Leprosy
 Phichit,4-4,0,2004,Leprosy
 Uthai Thani,4-4,0,2004,Leprosy
 Central Region,4-4,0,2004,Leprosy
 Bangkok,4-4,0,2004,Leprosy
-Zone 4,4-4,0,2004,Leprosy
+Zone:4,4-4,0,2004,Leprosy
 Ang Thong,4-4,0,2004,Leprosy
 Nonthaburi,4-4,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,4-4,0,2004,Leprosy
 Pathum Thani,4-4,0,2004,Leprosy
-Zone 5,4-4,0,2004,Leprosy
+Zone:5,4-4,0,2004,Leprosy
 Chai Nat,4-4,0,2004,Leprosy
 Lop Buri,4-4,0,2004,Leprosy
 Saraburi,4-4,0,2004,Leprosy
 Sing Buri,4-4,0,2004,Leprosy
-Zone 6,4-4,0,2004,Leprosy
+Zone:6,4-4,0,2004,Leprosy
 Kanchanaburi,4-4,0,2004,Leprosy
 Nakhon Pathom,4-4,0,2004,Leprosy
 Ratchaburi,4-4,0,2004,Leprosy
 Suphan Buri,4-4,0,2004,Leprosy
-Zone 7,4-4,0,2004,Leprosy
+Zone:7,4-4,0,2004,Leprosy
 Phetchaburi,4-4,0,2004,Leprosy
 Prachuap Khiri Khan,4-4,0,2004,Leprosy
 Samut Sakhon,4-4,0,2004,Leprosy
 Samut Songkhram,4-4,0,2004,Leprosy
-Zone 8,4-4,0,2004,Leprosy
+Zone:8,4-4,0,2004,Leprosy
 Chachoengsao,4-4,0,2004,Leprosy
 Nakhon Nayok,4-4,0,2004,Leprosy
 Prachin Buri,4-4,0,2004,Leprosy
 Sa Kaeo,4-4,0,2004,Leprosy
 Samut Prakan,4-4,0,2004,Leprosy
-Zone 9,4-4,0,2004,Leprosy
+Zone:9,4-4,0,2004,Leprosy
 Chanthaburi,4-4,0,2004,Leprosy
 Chon Buri,4-4,0,2004,Leprosy
 Rayong,4-4,0,2004,Leprosy
 Trat,4-4,0,2004,Leprosy
 North-Eastern Region,4-4,1,2004,Leprosy
-Zone 10,4-4,0,2004,Leprosy
+Zone:10,4-4,0,2004,Leprosy
 Loei,4-4,0,2004,Leprosy
 Nong Bua Lam Phu,4-4,0,2004,Leprosy
 Nong Khai,4-4,0,2004,Leprosy
 Udon Thani,4-4,0,2004,Leprosy
-Zone 11,4-4,0,2004,Leprosy
+Zone:11,4-4,0,2004,Leprosy
 Kalasin,4-4,0,2004,Leprosy
 Mukdahan,4-4,0,2004,Leprosy
 Nakhon Phanom,4-4,0,2004,Leprosy
 Sakon Nakhon,4-4,0,2004,Leprosy
-Zone 12,4-4,0,2004,Leprosy
+Zone:12,4-4,0,2004,Leprosy
 Khon Kaen,4-4,0,2004,Leprosy
 Maha Sarakham,4-4,0,2004,Leprosy
 Roi Et,4-4,0,2004,Leprosy
-Zone 13,4-4,1,2004,Leprosy
+Zone:13,4-4,1,2004,Leprosy
 Buri Ram,4-4,1,2004,Leprosy
 Chaiyaphum,4-4,0,2004,Leprosy
 Nakhon Ratchasima,4-4,0,2004,Leprosy
 Surin,4-4,0,2004,Leprosy
-Zone 14,4-4,0,2004,Leprosy
+Zone:14,4-4,0,2004,Leprosy
 Amnat Charoen,4-4,0,2004,Leprosy
 Si Sa Ket,4-4,0,2004,Leprosy
 Ubon Ratchathani,4-4,0,2004,Leprosy
 Yasothon,4-4,0,2004,Leprosy
 South Region,4-4,0,2004,Leprosy
-Zone 15,4-4,0,2004,Leprosy
+Zone:15,4-4,0,2004,Leprosy
 Chumphon,4-4,0,2004,Leprosy
 Ranong,4-4,0,2004,Leprosy
 Surat Thani,4-4,0,2004,Leprosy
-Zone 16,4-4,0,2004,Leprosy
+Zone:16,4-4,0,2004,Leprosy
 Nakhon Si Thammarat,4-4,0,2004,Leprosy
 Phatthalung,4-4,0,2004,Leprosy
 Trang,4-4,0,2004,Leprosy
-Zone 17,4-4,0,2004,Leprosy
+Zone:17,4-4,0,2004,Leprosy
 Krabi,4-4,0,2004,Leprosy
 Phangnga,4-4,0,2004,Leprosy
 Phuket,4-4,0,2004,Leprosy
-Zone 18,4-4,0,2004,Leprosy
+Zone:18,4-4,0,2004,Leprosy
 Narathiwat,4-4,0,2004,Leprosy
 Pattani,4-4,0,2004,Leprosy
 Yala,4-4,0,2004,Leprosy
-Zone 19,4-4,0,2004,Leprosy
+Zone:19,4-4,0,2004,Leprosy
 Satun,4-4,0,2004,Leprosy
 Songkhla,4-4,0,2004,Leprosy
 Total,5-5,1,2004,Leprosy
 North Region,5-5,0,2004,Leprosy
-Zone 1,5-5,0,2004,Leprosy
+Zone:1,5-5,0,2004,Leprosy
 Chiang Mai,5-5,0,2004,Leprosy
 Chiang Rai,5-5,0,2004,Leprosy
 Lampang,5-5,0,2004,Leprosy
@@ -22814,98 +22814,98 @@ Mae Hong Son,5-5,0,2004,Leprosy
 Nan,5-5,0,2004,Leprosy
 Phayao,5-5,0,2004,Leprosy
 Phrae,5-5,0,2004,Leprosy
-Zone 2,5-5,0,2004,Leprosy
+Zone:2,5-5,0,2004,Leprosy
 Phetchabun,5-5,0,2004,Leprosy
 Phitsanulok,5-5,0,2004,Leprosy
 Sukhothai,5-5,0,2004,Leprosy
 Tak,5-5,0,2004,Leprosy
 Uttaradit,5-5,0,2004,Leprosy
-Zone 3,5-5,0,2004,Leprosy
+Zone:3,5-5,0,2004,Leprosy
 Kamphaeng Phet,5-5,0,2004,Leprosy
 Nakhon Sawan,5-5,0,2004,Leprosy
 Phichit,5-5,0,2004,Leprosy
 Uthai Thani,5-5,0,2004,Leprosy
 Central Region,5-5,1,2004,Leprosy
 Bangkok,5-5,0,2004,Leprosy
-Zone 4,5-5,0,2004,Leprosy
+Zone:4,5-5,0,2004,Leprosy
 Ang Thong,5-5,0,2004,Leprosy
 Nonthaburi,5-5,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,5-5,0,2004,Leprosy
 Pathum Thani,5-5,0,2004,Leprosy
-Zone 5,5-5,0,2004,Leprosy
+Zone:5,5-5,0,2004,Leprosy
 Chai Nat,5-5,0,2004,Leprosy
 Lop Buri,5-5,0,2004,Leprosy
 Saraburi,5-5,0,2004,Leprosy
 Sing Buri,5-5,0,2004,Leprosy
-Zone 6,5-5,0,2004,Leprosy
+Zone:6,5-5,0,2004,Leprosy
 Kanchanaburi,5-5,0,2004,Leprosy
 Nakhon Pathom,5-5,0,2004,Leprosy
 Ratchaburi,5-5,0,2004,Leprosy
 Suphan Buri,5-5,0,2004,Leprosy
-Zone 7,5-5,0,2004,Leprosy
+Zone:7,5-5,0,2004,Leprosy
 Phetchaburi,5-5,0,2004,Leprosy
 Prachuap Khiri Khan,5-5,0,2004,Leprosy
 Samut Sakhon,5-5,0,2004,Leprosy
 Samut Songkhram,5-5,0,2004,Leprosy
-Zone 8,5-5,0,2004,Leprosy
+Zone:8,5-5,0,2004,Leprosy
 Chachoengsao,5-5,0,2004,Leprosy
 Nakhon Nayok,5-5,0,2004,Leprosy
 Prachin Buri,5-5,0,2004,Leprosy
 Sa Kaeo,5-5,0,2004,Leprosy
 Samut Prakan,5-5,0,2004,Leprosy
-Zone 9,5-5,1,2004,Leprosy
+Zone:9,5-5,1,2004,Leprosy
 Chanthaburi,5-5,1,2004,Leprosy
 Chon Buri,5-5,0,2004,Leprosy
 Rayong,5-5,0,2004,Leprosy
 Trat,5-5,0,2004,Leprosy
 North-Eastern Region,5-5,0,2004,Leprosy
-Zone 10,5-5,0,2004,Leprosy
+Zone:10,5-5,0,2004,Leprosy
 Loei,5-5,0,2004,Leprosy
 Nong Bua Lam Phu,5-5,0,2004,Leprosy
 Nong Khai,5-5,0,2004,Leprosy
 Udon Thani,5-5,0,2004,Leprosy
-Zone 11,5-5,0,2004,Leprosy
+Zone:11,5-5,0,2004,Leprosy
 Kalasin,5-5,0,2004,Leprosy
 Mukdahan,5-5,0,2004,Leprosy
 Nakhon Phanom,5-5,0,2004,Leprosy
 Sakon Nakhon,5-5,0,2004,Leprosy
-Zone 12,5-5,0,2004,Leprosy
+Zone:12,5-5,0,2004,Leprosy
 Khon Kaen,5-5,0,2004,Leprosy
 Maha Sarakham,5-5,0,2004,Leprosy
 Roi Et,5-5,0,2004,Leprosy
-Zone 13,5-5,0,2004,Leprosy
+Zone:13,5-5,0,2004,Leprosy
 Buri Ram,5-5,0,2004,Leprosy
 Chaiyaphum,5-5,0,2004,Leprosy
 Nakhon Ratchasima,5-5,0,2004,Leprosy
 Surin,5-5,0,2004,Leprosy
-Zone 14,5-5,0,2004,Leprosy
+Zone:14,5-5,0,2004,Leprosy
 Amnat Charoen,5-5,0,2004,Leprosy
 Si Sa Ket,5-5,0,2004,Leprosy
 Ubon Ratchathani,5-5,0,2004,Leprosy
 Yasothon,5-5,0,2004,Leprosy
 South Region,5-5,0,2004,Leprosy
-Zone 15,5-5,0,2004,Leprosy
+Zone:15,5-5,0,2004,Leprosy
 Chumphon,5-5,0,2004,Leprosy
 Ranong,5-5,0,2004,Leprosy
 Surat Thani,5-5,0,2004,Leprosy
-Zone 16,5-5,0,2004,Leprosy
+Zone:16,5-5,0,2004,Leprosy
 Nakhon Si Thammarat,5-5,0,2004,Leprosy
 Phatthalung,5-5,0,2004,Leprosy
 Trang,5-5,0,2004,Leprosy
-Zone 17,5-5,0,2004,Leprosy
+Zone:17,5-5,0,2004,Leprosy
 Krabi,5-5,0,2004,Leprosy
 Phangnga,5-5,0,2004,Leprosy
 Phuket,5-5,0,2004,Leprosy
-Zone 18,5-5,0,2004,Leprosy
+Zone:18,5-5,0,2004,Leprosy
 Narathiwat,5-5,0,2004,Leprosy
 Pattani,5-5,0,2004,Leprosy
 Yala,5-5,0,2004,Leprosy
-Zone 19,5-5,0,2004,Leprosy
+Zone:19,5-5,0,2004,Leprosy
 Satun,5-5,0,2004,Leprosy
 Songkhla,5-5,0,2004,Leprosy
 Total,6-6,0,2004,Leprosy
 North Region,6-6,0,2004,Leprosy
-Zone 1,6-6,0,2004,Leprosy
+Zone:1,6-6,0,2004,Leprosy
 Chiang Mai,6-6,0,2004,Leprosy
 Chiang Rai,6-6,0,2004,Leprosy
 Lampang,6-6,0,2004,Leprosy
@@ -22914,98 +22914,98 @@ Mae Hong Son,6-6,0,2004,Leprosy
 Nan,6-6,0,2004,Leprosy
 Phayao,6-6,0,2004,Leprosy
 Phrae,6-6,0,2004,Leprosy
-Zone 2,6-6,0,2004,Leprosy
+Zone:2,6-6,0,2004,Leprosy
 Phetchabun,6-6,0,2004,Leprosy
 Phitsanulok,6-6,0,2004,Leprosy
 Sukhothai,6-6,0,2004,Leprosy
 Tak,6-6,0,2004,Leprosy
 Uttaradit,6-6,0,2004,Leprosy
-Zone 3,6-6,0,2004,Leprosy
+Zone:3,6-6,0,2004,Leprosy
 Kamphaeng Phet,6-6,0,2004,Leprosy
 Nakhon Sawan,6-6,0,2004,Leprosy
 Phichit,6-6,0,2004,Leprosy
 Uthai Thani,6-6,0,2004,Leprosy
 Central Region,6-6,0,2004,Leprosy
 Bangkok,6-6,0,2004,Leprosy
-Zone 4,6-6,0,2004,Leprosy
+Zone:4,6-6,0,2004,Leprosy
 Ang Thong,6-6,0,2004,Leprosy
 Nonthaburi,6-6,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,6-6,0,2004,Leprosy
 Pathum Thani,6-6,0,2004,Leprosy
-Zone 5,6-6,0,2004,Leprosy
+Zone:5,6-6,0,2004,Leprosy
 Chai Nat,6-6,0,2004,Leprosy
 Lop Buri,6-6,0,2004,Leprosy
 Saraburi,6-6,0,2004,Leprosy
 Sing Buri,6-6,0,2004,Leprosy
-Zone 6,6-6,0,2004,Leprosy
+Zone:6,6-6,0,2004,Leprosy
 Kanchanaburi,6-6,0,2004,Leprosy
 Nakhon Pathom,6-6,0,2004,Leprosy
 Ratchaburi,6-6,0,2004,Leprosy
 Suphan Buri,6-6,0,2004,Leprosy
-Zone 7,6-6,0,2004,Leprosy
+Zone:7,6-6,0,2004,Leprosy
 Phetchaburi,6-6,0,2004,Leprosy
 Prachuap Khiri Khan,6-6,0,2004,Leprosy
 Samut Sakhon,6-6,0,2004,Leprosy
 Samut Songkhram,6-6,0,2004,Leprosy
-Zone 8,6-6,0,2004,Leprosy
+Zone:8,6-6,0,2004,Leprosy
 Chachoengsao,6-6,0,2004,Leprosy
 Nakhon Nayok,6-6,0,2004,Leprosy
 Prachin Buri,6-6,0,2004,Leprosy
 Sa Kaeo,6-6,0,2004,Leprosy
 Samut Prakan,6-6,0,2004,Leprosy
-Zone 9,6-6,0,2004,Leprosy
+Zone:9,6-6,0,2004,Leprosy
 Chanthaburi,6-6,0,2004,Leprosy
 Chon Buri,6-6,0,2004,Leprosy
 Rayong,6-6,0,2004,Leprosy
 Trat,6-6,0,2004,Leprosy
 North-Eastern Region,6-6,0,2004,Leprosy
-Zone 10,6-6,0,2004,Leprosy
+Zone:10,6-6,0,2004,Leprosy
 Loei,6-6,0,2004,Leprosy
 Nong Bua Lam Phu,6-6,0,2004,Leprosy
 Nong Khai,6-6,0,2004,Leprosy
 Udon Thani,6-6,0,2004,Leprosy
-Zone 11,6-6,0,2004,Leprosy
+Zone:11,6-6,0,2004,Leprosy
 Kalasin,6-6,0,2004,Leprosy
 Mukdahan,6-6,0,2004,Leprosy
 Nakhon Phanom,6-6,0,2004,Leprosy
 Sakon Nakhon,6-6,0,2004,Leprosy
-Zone 12,6-6,0,2004,Leprosy
+Zone:12,6-6,0,2004,Leprosy
 Khon Kaen,6-6,0,2004,Leprosy
 Maha Sarakham,6-6,0,2004,Leprosy
 Roi Et,6-6,0,2004,Leprosy
-Zone 13,6-6,0,2004,Leprosy
+Zone:13,6-6,0,2004,Leprosy
 Buri Ram,6-6,0,2004,Leprosy
 Chaiyaphum,6-6,0,2004,Leprosy
 Nakhon Ratchasima,6-6,0,2004,Leprosy
 Surin,6-6,0,2004,Leprosy
-Zone 14,6-6,0,2004,Leprosy
+Zone:14,6-6,0,2004,Leprosy
 Amnat Charoen,6-6,0,2004,Leprosy
 Si Sa Ket,6-6,0,2004,Leprosy
 Ubon Ratchathani,6-6,0,2004,Leprosy
 Yasothon,6-6,0,2004,Leprosy
 South Region,6-6,0,2004,Leprosy
-Zone 15,6-6,0,2004,Leprosy
+Zone:15,6-6,0,2004,Leprosy
 Chumphon,6-6,0,2004,Leprosy
 Ranong,6-6,0,2004,Leprosy
 Surat Thani,6-6,0,2004,Leprosy
-Zone 16,6-6,0,2004,Leprosy
+Zone:16,6-6,0,2004,Leprosy
 Nakhon Si Thammarat,6-6,0,2004,Leprosy
 Phatthalung,6-6,0,2004,Leprosy
 Trang,6-6,0,2004,Leprosy
-Zone 17,6-6,0,2004,Leprosy
+Zone:17,6-6,0,2004,Leprosy
 Krabi,6-6,0,2004,Leprosy
 Phangnga,6-6,0,2004,Leprosy
 Phuket,6-6,0,2004,Leprosy
-Zone 18,6-6,0,2004,Leprosy
+Zone:18,6-6,0,2004,Leprosy
 Narathiwat,6-6,0,2004,Leprosy
 Pattani,6-6,0,2004,Leprosy
 Yala,6-6,0,2004,Leprosy
-Zone 19,6-6,0,2004,Leprosy
+Zone:19,6-6,0,2004,Leprosy
 Satun,6-6,0,2004,Leprosy
 Songkhla,6-6,0,2004,Leprosy
 Total,7-9,4,2004,Leprosy
 North Region,7-9,1,2004,Leprosy
-Zone 1,7-9,0,2004,Leprosy
+Zone:1,7-9,0,2004,Leprosy
 Chiang Mai,7-9,0,2004,Leprosy
 Chiang Rai,7-9,0,2004,Leprosy
 Lampang,7-9,0,2004,Leprosy
@@ -23014,98 +23014,98 @@ Mae Hong Son,7-9,0,2004,Leprosy
 Nan,7-9,0,2004,Leprosy
 Phayao,7-9,0,2004,Leprosy
 Phrae,7-9,0,2004,Leprosy
-Zone 2,7-9,1,2004,Leprosy
+Zone:2,7-9,1,2004,Leprosy
 Phetchabun,7-9,0,2004,Leprosy
 Phitsanulok,7-9,1,2004,Leprosy
 Sukhothai,7-9,0,2004,Leprosy
 Tak,7-9,0,2004,Leprosy
 Uttaradit,7-9,0,2004,Leprosy
-Zone 3,7-9,0,2004,Leprosy
+Zone:3,7-9,0,2004,Leprosy
 Kamphaeng Phet,7-9,0,2004,Leprosy
 Nakhon Sawan,7-9,0,2004,Leprosy
 Phichit,7-9,0,2004,Leprosy
 Uthai Thani,7-9,0,2004,Leprosy
 Central Region,7-9,1,2004,Leprosy
 Bangkok,7-9,0,2004,Leprosy
-Zone 4,7-9,0,2004,Leprosy
+Zone:4,7-9,0,2004,Leprosy
 Ang Thong,7-9,0,2004,Leprosy
 Nonthaburi,7-9,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,7-9,0,2004,Leprosy
 Pathum Thani,7-9,0,2004,Leprosy
-Zone 5,7-9,0,2004,Leprosy
+Zone:5,7-9,0,2004,Leprosy
 Chai Nat,7-9,0,2004,Leprosy
 Lop Buri,7-9,0,2004,Leprosy
 Saraburi,7-9,0,2004,Leprosy
 Sing Buri,7-9,0,2004,Leprosy
-Zone 6,7-9,0,2004,Leprosy
+Zone:6,7-9,0,2004,Leprosy
 Kanchanaburi,7-9,0,2004,Leprosy
 Nakhon Pathom,7-9,0,2004,Leprosy
 Ratchaburi,7-9,0,2004,Leprosy
 Suphan Buri,7-9,0,2004,Leprosy
-Zone 7,7-9,0,2004,Leprosy
+Zone:7,7-9,0,2004,Leprosy
 Phetchaburi,7-9,0,2004,Leprosy
 Prachuap Khiri Khan,7-9,0,2004,Leprosy
 Samut Sakhon,7-9,0,2004,Leprosy
 Samut Songkhram,7-9,0,2004,Leprosy
-Zone 8,7-9,1,2004,Leprosy
+Zone:8,7-9,1,2004,Leprosy
 Chachoengsao,7-9,0,2004,Leprosy
 Nakhon Nayok,7-9,0,2004,Leprosy
 Prachin Buri,7-9,0,2004,Leprosy
 Sa Kaeo,7-9,1,2004,Leprosy
 Samut Prakan,7-9,0,2004,Leprosy
-Zone 9,7-9,0,2004,Leprosy
+Zone:9,7-9,0,2004,Leprosy
 Chanthaburi,7-9,0,2004,Leprosy
 Chon Buri,7-9,0,2004,Leprosy
 Rayong,7-9,0,2004,Leprosy
 Trat,7-9,0,2004,Leprosy
 North-Eastern Region,7-9,0,2004,Leprosy
-Zone 10,7-9,0,2004,Leprosy
+Zone:10,7-9,0,2004,Leprosy
 Loei,7-9,0,2004,Leprosy
 Nong Bua Lam Phu,7-9,0,2004,Leprosy
 Nong Khai,7-9,0,2004,Leprosy
 Udon Thani,7-9,0,2004,Leprosy
-Zone 11,7-9,0,2004,Leprosy
+Zone:11,7-9,0,2004,Leprosy
 Kalasin,7-9,0,2004,Leprosy
 Mukdahan,7-9,0,2004,Leprosy
 Nakhon Phanom,7-9,0,2004,Leprosy
 Sakon Nakhon,7-9,0,2004,Leprosy
-Zone 12,7-9,0,2004,Leprosy
+Zone:12,7-9,0,2004,Leprosy
 Khon Kaen,7-9,0,2004,Leprosy
 Maha Sarakham,7-9,0,2004,Leprosy
 Roi Et,7-9,0,2004,Leprosy
-Zone 13,7-9,0,2004,Leprosy
+Zone:13,7-9,0,2004,Leprosy
 Buri Ram,7-9,0,2004,Leprosy
 Chaiyaphum,7-9,0,2004,Leprosy
 Nakhon Ratchasima,7-9,0,2004,Leprosy
 Surin,7-9,0,2004,Leprosy
-Zone 14,7-9,0,2004,Leprosy
+Zone:14,7-9,0,2004,Leprosy
 Amnat Charoen,7-9,0,2004,Leprosy
 Si Sa Ket,7-9,0,2004,Leprosy
 Ubon Ratchathani,7-9,0,2004,Leprosy
 Yasothon,7-9,0,2004,Leprosy
 South Region,7-9,2,2004,Leprosy
-Zone 15,7-9,0,2004,Leprosy
+Zone:15,7-9,0,2004,Leprosy
 Chumphon,7-9,0,2004,Leprosy
 Ranong,7-9,0,2004,Leprosy
 Surat Thani,7-9,0,2004,Leprosy
-Zone 16,7-9,0,2004,Leprosy
+Zone:16,7-9,0,2004,Leprosy
 Nakhon Si Thammarat,7-9,0,2004,Leprosy
 Phatthalung,7-9,0,2004,Leprosy
 Trang,7-9,0,2004,Leprosy
-Zone 17,7-9,0,2004,Leprosy
+Zone:17,7-9,0,2004,Leprosy
 Krabi,7-9,0,2004,Leprosy
 Phangnga,7-9,0,2004,Leprosy
 Phuket,7-9,0,2004,Leprosy
-Zone 18,7-9,2,2004,Leprosy
+Zone:18,7-9,2,2004,Leprosy
 Narathiwat,7-9,0,2004,Leprosy
 Pattani,7-9,2,2004,Leprosy
 Yala,7-9,0,2004,Leprosy
-Zone 19,7-9,0,2004,Leprosy
+Zone:19,7-9,0,2004,Leprosy
 Satun,7-9,0,2004,Leprosy
 Songkhla,7-9,0,2004,Leprosy
 Total,10-14,12,2004,Leprosy
 North Region,10-14,3,2004,Leprosy
-Zone 1,10-14,2,2004,Leprosy
+Zone:1,10-14,2,2004,Leprosy
 Chiang Mai,10-14,1,2004,Leprosy
 Chiang Rai,10-14,1,2004,Leprosy
 Lampang,10-14,0,2004,Leprosy
@@ -23114,98 +23114,98 @@ Mae Hong Son,10-14,0,2004,Leprosy
 Nan,10-14,0,2004,Leprosy
 Phayao,10-14,0,2004,Leprosy
 Phrae,10-14,0,2004,Leprosy
-Zone 2,10-14,1,2004,Leprosy
+Zone:2,10-14,1,2004,Leprosy
 Phetchabun,10-14,0,2004,Leprosy
 Phitsanulok,10-14,0,2004,Leprosy
 Sukhothai,10-14,0,2004,Leprosy
 Tak,10-14,1,2004,Leprosy
 Uttaradit,10-14,0,2004,Leprosy
-Zone 3,10-14,0,2004,Leprosy
+Zone:3,10-14,0,2004,Leprosy
 Kamphaeng Phet,10-14,0,2004,Leprosy
 Nakhon Sawan,10-14,0,2004,Leprosy
 Phichit,10-14,0,2004,Leprosy
 Uthai Thani,10-14,0,2004,Leprosy
 Central Region,10-14,0,2004,Leprosy
 Bangkok,10-14,0,2004,Leprosy
-Zone 4,10-14,0,2004,Leprosy
+Zone:4,10-14,0,2004,Leprosy
 Ang Thong,10-14,0,2004,Leprosy
 Nonthaburi,10-14,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,10-14,0,2004,Leprosy
 Pathum Thani,10-14,0,2004,Leprosy
-Zone 5,10-14,0,2004,Leprosy
+Zone:5,10-14,0,2004,Leprosy
 Chai Nat,10-14,0,2004,Leprosy
 Lop Buri,10-14,0,2004,Leprosy
 Saraburi,10-14,0,2004,Leprosy
 Sing Buri,10-14,0,2004,Leprosy
-Zone 6,10-14,0,2004,Leprosy
+Zone:6,10-14,0,2004,Leprosy
 Kanchanaburi,10-14,0,2004,Leprosy
 Nakhon Pathom,10-14,0,2004,Leprosy
 Ratchaburi,10-14,0,2004,Leprosy
 Suphan Buri,10-14,0,2004,Leprosy
-Zone 7,10-14,0,2004,Leprosy
+Zone:7,10-14,0,2004,Leprosy
 Phetchaburi,10-14,0,2004,Leprosy
 Prachuap Khiri Khan,10-14,0,2004,Leprosy
 Samut Sakhon,10-14,0,2004,Leprosy
 Samut Songkhram,10-14,0,2004,Leprosy
-Zone 8,10-14,0,2004,Leprosy
+Zone:8,10-14,0,2004,Leprosy
 Chachoengsao,10-14,0,2004,Leprosy
 Nakhon Nayok,10-14,0,2004,Leprosy
 Prachin Buri,10-14,0,2004,Leprosy
 Sa Kaeo,10-14,0,2004,Leprosy
 Samut Prakan,10-14,0,2004,Leprosy
-Zone 9,10-14,0,2004,Leprosy
+Zone:9,10-14,0,2004,Leprosy
 Chanthaburi,10-14,0,2004,Leprosy
 Chon Buri,10-14,0,2004,Leprosy
 Rayong,10-14,0,2004,Leprosy
 Trat,10-14,0,2004,Leprosy
 North-Eastern Region,10-14,5,2004,Leprosy
-Zone 10,10-14,1,2004,Leprosy
+Zone:10,10-14,1,2004,Leprosy
 Loei,10-14,0,2004,Leprosy
 Nong Bua Lam Phu,10-14,1,2004,Leprosy
 Nong Khai,10-14,0,2004,Leprosy
 Udon Thani,10-14,0,2004,Leprosy
-Zone 11,10-14,1,2004,Leprosy
+Zone:11,10-14,1,2004,Leprosy
 Kalasin,10-14,1,2004,Leprosy
 Mukdahan,10-14,0,2004,Leprosy
 Nakhon Phanom,10-14,0,2004,Leprosy
 Sakon Nakhon,10-14,0,2004,Leprosy
-Zone 12,10-14,1,2004,Leprosy
+Zone:12,10-14,1,2004,Leprosy
 Khon Kaen,10-14,0,2004,Leprosy
 Maha Sarakham,10-14,1,2004,Leprosy
 Roi Et,10-14,0,2004,Leprosy
-Zone 13,10-14,2,2004,Leprosy
+Zone:13,10-14,2,2004,Leprosy
 Buri Ram,10-14,1,2004,Leprosy
 Chaiyaphum,10-14,0,2004,Leprosy
 Nakhon Ratchasima,10-14,0,2004,Leprosy
 Surin,10-14,1,2004,Leprosy
-Zone 14,10-14,0,2004,Leprosy
+Zone:14,10-14,0,2004,Leprosy
 Amnat Charoen,10-14,0,2004,Leprosy
 Si Sa Ket,10-14,0,2004,Leprosy
 Ubon Ratchathani,10-14,0,2004,Leprosy
 Yasothon,10-14,0,2004,Leprosy
 South Region,10-14,4,2004,Leprosy
-Zone 15,10-14,0,2004,Leprosy
+Zone:15,10-14,0,2004,Leprosy
 Chumphon,10-14,0,2004,Leprosy
 Ranong,10-14,0,2004,Leprosy
 Surat Thani,10-14,0,2004,Leprosy
-Zone 16,10-14,0,2004,Leprosy
+Zone:16,10-14,0,2004,Leprosy
 Nakhon Si Thammarat,10-14,0,2004,Leprosy
 Phatthalung,10-14,0,2004,Leprosy
 Trang,10-14,0,2004,Leprosy
-Zone 17,10-14,0,2004,Leprosy
+Zone:17,10-14,0,2004,Leprosy
 Krabi,10-14,0,2004,Leprosy
 Phangnga,10-14,0,2004,Leprosy
 Phuket,10-14,0,2004,Leprosy
-Zone 18,10-14,4,2004,Leprosy
+Zone:18,10-14,4,2004,Leprosy
 Narathiwat,10-14,0,2004,Leprosy
 Pattani,10-14,4,2004,Leprosy
 Yala,10-14,0,2004,Leprosy
-Zone 19,10-14,0,2004,Leprosy
+Zone:19,10-14,0,2004,Leprosy
 Satun,10-14,0,2004,Leprosy
 Songkhla,10-14,0,2004,Leprosy
 Total,15-24,45,2004,Leprosy
 North Region,15-24,4,2004,Leprosy
-Zone 1,15-24,4,2004,Leprosy
+Zone:1,15-24,4,2004,Leprosy
 Chiang Mai,15-24,3,2004,Leprosy
 Chiang Rai,15-24,0,2004,Leprosy
 Lampang,15-24,0,2004,Leprosy
@@ -23214,98 +23214,98 @@ Mae Hong Son,15-24,1,2004,Leprosy
 Nan,15-24,0,2004,Leprosy
 Phayao,15-24,0,2004,Leprosy
 Phrae,15-24,0,2004,Leprosy
-Zone 2,15-24,0,2004,Leprosy
+Zone:2,15-24,0,2004,Leprosy
 Phetchabun,15-24,0,2004,Leprosy
 Phitsanulok,15-24,0,2004,Leprosy
 Sukhothai,15-24,0,2004,Leprosy
 Tak,15-24,0,2004,Leprosy
 Uttaradit,15-24,0,2004,Leprosy
-Zone 3,15-24,0,2004,Leprosy
+Zone:3,15-24,0,2004,Leprosy
 Kamphaeng Phet,15-24,0,2004,Leprosy
 Nakhon Sawan,15-24,0,2004,Leprosy
 Phichit,15-24,0,2004,Leprosy
 Uthai Thani,15-24,0,2004,Leprosy
 Central Region,15-24,10,2004,Leprosy
 Bangkok,15-24,3,2004,Leprosy
-Zone 4,15-24,0,2004,Leprosy
+Zone:4,15-24,0,2004,Leprosy
 Ang Thong,15-24,0,2004,Leprosy
 Nonthaburi,15-24,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,15-24,0,2004,Leprosy
 Pathum Thani,15-24,0,2004,Leprosy
-Zone 5,15-24,3,2004,Leprosy
+Zone:5,15-24,3,2004,Leprosy
 Chai Nat,15-24,0,2004,Leprosy
 Lop Buri,15-24,3,2004,Leprosy
 Saraburi,15-24,0,2004,Leprosy
 Sing Buri,15-24,0,2004,Leprosy
-Zone 6,15-24,1,2004,Leprosy
+Zone:6,15-24,1,2004,Leprosy
 Kanchanaburi,15-24,0,2004,Leprosy
 Nakhon Pathom,15-24,0,2004,Leprosy
 Ratchaburi,15-24,1,2004,Leprosy
 Suphan Buri,15-24,0,2004,Leprosy
-Zone 7,15-24,0,2004,Leprosy
+Zone:7,15-24,0,2004,Leprosy
 Phetchaburi,15-24,0,2004,Leprosy
 Prachuap Khiri Khan,15-24,0,2004,Leprosy
 Samut Sakhon,15-24,0,2004,Leprosy
 Samut Songkhram,15-24,0,2004,Leprosy
-Zone 8,15-24,1,2004,Leprosy
+Zone:8,15-24,1,2004,Leprosy
 Chachoengsao,15-24,0,2004,Leprosy
 Nakhon Nayok,15-24,1,2004,Leprosy
 Prachin Buri,15-24,0,2004,Leprosy
 Sa Kaeo,15-24,0,2004,Leprosy
 Samut Prakan,15-24,0,2004,Leprosy
-Zone 9,15-24,2,2004,Leprosy
+Zone:9,15-24,2,2004,Leprosy
 Chanthaburi,15-24,1,2004,Leprosy
 Chon Buri,15-24,0,2004,Leprosy
 Rayong,15-24,0,2004,Leprosy
 Trat,15-24,1,2004,Leprosy
 North-Eastern Region,15-24,23,2004,Leprosy
-Zone 10,15-24,1,2004,Leprosy
+Zone:10,15-24,1,2004,Leprosy
 Loei,15-24,0,2004,Leprosy
 Nong Bua Lam Phu,15-24,0,2004,Leprosy
 Nong Khai,15-24,0,2004,Leprosy
 Udon Thani,15-24,1,2004,Leprosy
-Zone 11,15-24,2,2004,Leprosy
+Zone:11,15-24,2,2004,Leprosy
 Kalasin,15-24,1,2004,Leprosy
 Mukdahan,15-24,0,2004,Leprosy
 Nakhon Phanom,15-24,0,2004,Leprosy
 Sakon Nakhon,15-24,1,2004,Leprosy
-Zone 12,15-24,3,2004,Leprosy
+Zone:12,15-24,3,2004,Leprosy
 Khon Kaen,15-24,2,2004,Leprosy
 Maha Sarakham,15-24,0,2004,Leprosy
 Roi Et,15-24,1,2004,Leprosy
-Zone 13,15-24,9,2004,Leprosy
+Zone:13,15-24,9,2004,Leprosy
 Buri Ram,15-24,3,2004,Leprosy
 Chaiyaphum,15-24,3,2004,Leprosy
 Nakhon Ratchasima,15-24,2,2004,Leprosy
 Surin,15-24,1,2004,Leprosy
-Zone 14,15-24,8,2004,Leprosy
+Zone:14,15-24,8,2004,Leprosy
 Amnat Charoen,15-24,0,2004,Leprosy
 Si Sa Ket,15-24,2,2004,Leprosy
 Ubon Ratchathani,15-24,5,2004,Leprosy
 Yasothon,15-24,1,2004,Leprosy
 South Region,15-24,8,2004,Leprosy
-Zone 15,15-24,1,2004,Leprosy
+Zone:15,15-24,1,2004,Leprosy
 Chumphon,15-24,0,2004,Leprosy
 Ranong,15-24,0,2004,Leprosy
 Surat Thani,15-24,1,2004,Leprosy
-Zone 16,15-24,0,2004,Leprosy
+Zone:16,15-24,0,2004,Leprosy
 Nakhon Si Thammarat,15-24,0,2004,Leprosy
 Phatthalung,15-24,0,2004,Leprosy
 Trang,15-24,0,2004,Leprosy
-Zone 17,15-24,2,2004,Leprosy
+Zone:17,15-24,2,2004,Leprosy
 Krabi,15-24,0,2004,Leprosy
 Phangnga,15-24,0,2004,Leprosy
 Phuket,15-24,2,2004,Leprosy
-Zone 18,15-24,5,2004,Leprosy
+Zone:18,15-24,5,2004,Leprosy
 Narathiwat,15-24,1,2004,Leprosy
 Pattani,15-24,2,2004,Leprosy
 Yala,15-24,2,2004,Leprosy
-Zone 19,15-24,0,2004,Leprosy
+Zone:19,15-24,0,2004,Leprosy
 Satun,15-24,0,2004,Leprosy
 Songkhla,15-24,0,2004,Leprosy
 Total,25-34,74,2004,Leprosy
 North Region,25-34,7,2004,Leprosy
-Zone 1,25-34,6,2004,Leprosy
+Zone:1,25-34,6,2004,Leprosy
 Chiang Mai,25-34,3,2004,Leprosy
 Chiang Rai,25-34,1,2004,Leprosy
 Lampang,25-34,0,2004,Leprosy
@@ -23314,98 +23314,98 @@ Mae Hong Son,25-34,2,2004,Leprosy
 Nan,25-34,0,2004,Leprosy
 Phayao,25-34,0,2004,Leprosy
 Phrae,25-34,0,2004,Leprosy
-Zone 2,25-34,1,2004,Leprosy
+Zone:2,25-34,1,2004,Leprosy
 Phetchabun,25-34,1,2004,Leprosy
 Phitsanulok,25-34,0,2004,Leprosy
 Sukhothai,25-34,0,2004,Leprosy
 Tak,25-34,0,2004,Leprosy
 Uttaradit,25-34,0,2004,Leprosy
-Zone 3,25-34,0,2004,Leprosy
+Zone:3,25-34,0,2004,Leprosy
 Kamphaeng Phet,25-34,0,2004,Leprosy
 Nakhon Sawan,25-34,0,2004,Leprosy
 Phichit,25-34,0,2004,Leprosy
 Uthai Thani,25-34,0,2004,Leprosy
 Central Region,25-34,19,2004,Leprosy
 Bangkok,25-34,4,2004,Leprosy
-Zone 4,25-34,1,2004,Leprosy
+Zone:4,25-34,1,2004,Leprosy
 Ang Thong,25-34,0,2004,Leprosy
 Nonthaburi,25-34,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,25-34,0,2004,Leprosy
 Pathum Thani,25-34,1,2004,Leprosy
-Zone 5,25-34,0,2004,Leprosy
+Zone:5,25-34,0,2004,Leprosy
 Chai Nat,25-34,0,2004,Leprosy
 Lop Buri,25-34,0,2004,Leprosy
 Saraburi,25-34,0,2004,Leprosy
 Sing Buri,25-34,0,2004,Leprosy
-Zone 6,25-34,1,2004,Leprosy
+Zone:6,25-34,1,2004,Leprosy
 Kanchanaburi,25-34,0,2004,Leprosy
 Nakhon Pathom,25-34,0,2004,Leprosy
 Ratchaburi,25-34,1,2004,Leprosy
 Suphan Buri,25-34,0,2004,Leprosy
-Zone 7,25-34,1,2004,Leprosy
+Zone:7,25-34,1,2004,Leprosy
 Phetchaburi,25-34,1,2004,Leprosy
 Prachuap Khiri Khan,25-34,0,2004,Leprosy
 Samut Sakhon,25-34,0,2004,Leprosy
 Samut Songkhram,25-34,0,2004,Leprosy
-Zone 8,25-34,6,2004,Leprosy
+Zone:8,25-34,6,2004,Leprosy
 Chachoengsao,25-34,0,2004,Leprosy
 Nakhon Nayok,25-34,1,2004,Leprosy
 Prachin Buri,25-34,3,2004,Leprosy
 Sa Kaeo,25-34,2,2004,Leprosy
 Samut Prakan,25-34,0,2004,Leprosy
-Zone 9,25-34,6,2004,Leprosy
+Zone:9,25-34,6,2004,Leprosy
 Chanthaburi,25-34,2,2004,Leprosy
 Chon Buri,25-34,0,2004,Leprosy
 Rayong,25-34,4,2004,Leprosy
 Trat,25-34,0,2004,Leprosy
 North-Eastern Region,25-34,37,2004,Leprosy
-Zone 10,25-34,10,2004,Leprosy
+Zone:10,25-34,10,2004,Leprosy
 Loei,25-34,0,2004,Leprosy
 Nong Bua Lam Phu,25-34,8,2004,Leprosy
 Nong Khai,25-34,1,2004,Leprosy
 Udon Thani,25-34,1,2004,Leprosy
-Zone 11,25-34,1,2004,Leprosy
+Zone:11,25-34,1,2004,Leprosy
 Kalasin,25-34,0,2004,Leprosy
 Mukdahan,25-34,0,2004,Leprosy
 Nakhon Phanom,25-34,1,2004,Leprosy
 Sakon Nakhon,25-34,0,2004,Leprosy
-Zone 12,25-34,5,2004,Leprosy
+Zone:12,25-34,5,2004,Leprosy
 Khon Kaen,25-34,3,2004,Leprosy
 Maha Sarakham,25-34,1,2004,Leprosy
 Roi Et,25-34,1,2004,Leprosy
-Zone 13,25-34,17,2004,Leprosy
+Zone:13,25-34,17,2004,Leprosy
 Buri Ram,25-34,6,2004,Leprosy
 Chaiyaphum,25-34,2,2004,Leprosy
 Nakhon Ratchasima,25-34,8,2004,Leprosy
 Surin,25-34,1,2004,Leprosy
-Zone 14,25-34,4,2004,Leprosy
+Zone:14,25-34,4,2004,Leprosy
 Amnat Charoen,25-34,0,2004,Leprosy
 Si Sa Ket,25-34,0,2004,Leprosy
 Ubon Ratchathani,25-34,4,2004,Leprosy
 Yasothon,25-34,0,2004,Leprosy
 South Region,25-34,11,2004,Leprosy
-Zone 15,25-34,1,2004,Leprosy
+Zone:15,25-34,1,2004,Leprosy
 Chumphon,25-34,0,2004,Leprosy
 Ranong,25-34,0,2004,Leprosy
 Surat Thani,25-34,1,2004,Leprosy
-Zone 16,25-34,2,2004,Leprosy
+Zone:16,25-34,2,2004,Leprosy
 Nakhon Si Thammarat,25-34,1,2004,Leprosy
 Phatthalung,25-34,1,2004,Leprosy
 Trang,25-34,0,2004,Leprosy
-Zone 17,25-34,0,2004,Leprosy
+Zone:17,25-34,0,2004,Leprosy
 Krabi,25-34,0,2004,Leprosy
 Phangnga,25-34,0,2004,Leprosy
 Phuket,25-34,0,2004,Leprosy
-Zone 18,25-34,8,2004,Leprosy
+Zone:18,25-34,8,2004,Leprosy
 Narathiwat,25-34,3,2004,Leprosy
 Pattani,25-34,5,2004,Leprosy
 Yala,25-34,0,2004,Leprosy
-Zone 19,25-34,0,2004,Leprosy
+Zone:19,25-34,0,2004,Leprosy
 Satun,25-34,0,2004,Leprosy
 Songkhla,25-34,0,2004,Leprosy
 Total,35-44,99,2004,Leprosy
 North Region,35-44,18,2004,Leprosy
-Zone 1,35-44,12,2004,Leprosy
+Zone:1,35-44,12,2004,Leprosy
 Chiang Mai,35-44,5,2004,Leprosy
 Chiang Rai,35-44,2,2004,Leprosy
 Lampang,35-44,1,2004,Leprosy
@@ -23414,98 +23414,98 @@ Mae Hong Son,35-44,3,2004,Leprosy
 Nan,35-44,0,2004,Leprosy
 Phayao,35-44,1,2004,Leprosy
 Phrae,35-44,0,2004,Leprosy
-Zone 2,35-44,6,2004,Leprosy
+Zone:2,35-44,6,2004,Leprosy
 Phetchabun,35-44,1,2004,Leprosy
 Phitsanulok,35-44,1,2004,Leprosy
 Sukhothai,35-44,0,2004,Leprosy
 Tak,35-44,4,2004,Leprosy
 Uttaradit,35-44,0,2004,Leprosy
-Zone 3,35-44,0,2004,Leprosy
+Zone:3,35-44,0,2004,Leprosy
 Kamphaeng Phet,35-44,0,2004,Leprosy
 Nakhon Sawan,35-44,0,2004,Leprosy
 Phichit,35-44,0,2004,Leprosy
 Uthai Thani,35-44,0,2004,Leprosy
 Central Region,35-44,11,2004,Leprosy
 Bangkok,35-44,4,2004,Leprosy
-Zone 4,35-44,2,2004,Leprosy
+Zone:4,35-44,2,2004,Leprosy
 Ang Thong,35-44,0,2004,Leprosy
 Nonthaburi,35-44,1,2004,Leprosy
 P.Nakhon S.Ayutthaya,35-44,0,2004,Leprosy
 Pathum Thani,35-44,1,2004,Leprosy
-Zone 5,35-44,1,2004,Leprosy
+Zone:5,35-44,1,2004,Leprosy
 Chai Nat,35-44,0,2004,Leprosy
 Lop Buri,35-44,1,2004,Leprosy
 Saraburi,35-44,0,2004,Leprosy
 Sing Buri,35-44,0,2004,Leprosy
-Zone 6,35-44,0,2004,Leprosy
+Zone:6,35-44,0,2004,Leprosy
 Kanchanaburi,35-44,0,2004,Leprosy
 Nakhon Pathom,35-44,0,2004,Leprosy
 Ratchaburi,35-44,0,2004,Leprosy
 Suphan Buri,35-44,0,2004,Leprosy
-Zone 7,35-44,0,2004,Leprosy
+Zone:7,35-44,0,2004,Leprosy
 Phetchaburi,35-44,0,2004,Leprosy
 Prachuap Khiri Khan,35-44,0,2004,Leprosy
 Samut Sakhon,35-44,0,2004,Leprosy
 Samut Songkhram,35-44,0,2004,Leprosy
-Zone 8,35-44,0,2004,Leprosy
+Zone:8,35-44,0,2004,Leprosy
 Chachoengsao,35-44,0,2004,Leprosy
 Nakhon Nayok,35-44,0,2004,Leprosy
 Prachin Buri,35-44,0,2004,Leprosy
 Sa Kaeo,35-44,0,2004,Leprosy
 Samut Prakan,35-44,0,2004,Leprosy
-Zone 9,35-44,4,2004,Leprosy
+Zone:9,35-44,4,2004,Leprosy
 Chanthaburi,35-44,2,2004,Leprosy
 Chon Buri,35-44,1,2004,Leprosy
 Rayong,35-44,1,2004,Leprosy
 Trat,35-44,0,2004,Leprosy
 North-Eastern Region,35-44,61,2004,Leprosy
-Zone 10,35-44,12,2004,Leprosy
+Zone:10,35-44,12,2004,Leprosy
 Loei,35-44,0,2004,Leprosy
 Nong Bua Lam Phu,35-44,6,2004,Leprosy
 Nong Khai,35-44,2,2004,Leprosy
 Udon Thani,35-44,4,2004,Leprosy
-Zone 11,35-44,6,2004,Leprosy
+Zone:11,35-44,6,2004,Leprosy
 Kalasin,35-44,0,2004,Leprosy
 Mukdahan,35-44,1,2004,Leprosy
 Nakhon Phanom,35-44,0,2004,Leprosy
 Sakon Nakhon,35-44,5,2004,Leprosy
-Zone 12,35-44,3,2004,Leprosy
+Zone:12,35-44,3,2004,Leprosy
 Khon Kaen,35-44,1,2004,Leprosy
 Maha Sarakham,35-44,2,2004,Leprosy
 Roi Et,35-44,0,2004,Leprosy
-Zone 13,35-44,14,2004,Leprosy
+Zone:13,35-44,14,2004,Leprosy
 Buri Ram,35-44,8,2004,Leprosy
 Chaiyaphum,35-44,1,2004,Leprosy
 Nakhon Ratchasima,35-44,1,2004,Leprosy
 Surin,35-44,4,2004,Leprosy
-Zone 14,35-44,26,2004,Leprosy
+Zone:14,35-44,26,2004,Leprosy
 Amnat Charoen,35-44,2,2004,Leprosy
 Si Sa Ket,35-44,18,2004,Leprosy
 Ubon Ratchathani,35-44,2,2004,Leprosy
 Yasothon,35-44,4,2004,Leprosy
 South Region,35-44,9,2004,Leprosy
-Zone 15,35-44,1,2004,Leprosy
+Zone:15,35-44,1,2004,Leprosy
 Chumphon,35-44,1,2004,Leprosy
 Ranong,35-44,0,2004,Leprosy
 Surat Thani,35-44,0,2004,Leprosy
-Zone 16,35-44,0,2004,Leprosy
+Zone:16,35-44,0,2004,Leprosy
 Nakhon Si Thammarat,35-44,0,2004,Leprosy
 Phatthalung,35-44,0,2004,Leprosy
 Trang,35-44,0,2004,Leprosy
-Zone 17,35-44,0,2004,Leprosy
+Zone:17,35-44,0,2004,Leprosy
 Krabi,35-44,0,2004,Leprosy
 Phangnga,35-44,0,2004,Leprosy
 Phuket,35-44,0,2004,Leprosy
-Zone 18,35-44,5,2004,Leprosy
+Zone:18,35-44,5,2004,Leprosy
 Narathiwat,35-44,1,2004,Leprosy
 Pattani,35-44,3,2004,Leprosy
 Yala,35-44,1,2004,Leprosy
-Zone 19,35-44,3,2004,Leprosy
+Zone:19,35-44,3,2004,Leprosy
 Satun,35-44,2,2004,Leprosy
 Songkhla,35-44,1,2004,Leprosy
 Total,45-54,95,2004,Leprosy
 North Region,45-54,18,2004,Leprosy
-Zone 1,45-54,12,2004,Leprosy
+Zone:1,45-54,12,2004,Leprosy
 Chiang Mai,45-54,7,2004,Leprosy
 Chiang Rai,45-54,2,2004,Leprosy
 Lampang,45-54,1,2004,Leprosy
@@ -23514,98 +23514,98 @@ Mae Hong Son,45-54,2,2004,Leprosy
 Nan,45-54,0,2004,Leprosy
 Phayao,45-54,0,2004,Leprosy
 Phrae,45-54,0,2004,Leprosy
-Zone 2,45-54,2,2004,Leprosy
+Zone:2,45-54,2,2004,Leprosy
 Phetchabun,45-54,1,2004,Leprosy
 Phitsanulok,45-54,0,2004,Leprosy
 Sukhothai,45-54,0,2004,Leprosy
 Tak,45-54,1,2004,Leprosy
 Uttaradit,45-54,0,2004,Leprosy
-Zone 3,45-54,4,2004,Leprosy
+Zone:3,45-54,4,2004,Leprosy
 Kamphaeng Phet,45-54,3,2004,Leprosy
 Nakhon Sawan,45-54,0,2004,Leprosy
 Phichit,45-54,1,2004,Leprosy
 Uthai Thani,45-54,0,2004,Leprosy
 Central Region,45-54,18,2004,Leprosy
 Bangkok,45-54,2,2004,Leprosy
-Zone 4,45-54,1,2004,Leprosy
+Zone:4,45-54,1,2004,Leprosy
 Ang Thong,45-54,0,2004,Leprosy
 Nonthaburi,45-54,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,45-54,0,2004,Leprosy
 Pathum Thani,45-54,1,2004,Leprosy
-Zone 5,45-54,7,2004,Leprosy
+Zone:5,45-54,7,2004,Leprosy
 Chai Nat,45-54,0,2004,Leprosy
 Lop Buri,45-54,5,2004,Leprosy
 Saraburi,45-54,2,2004,Leprosy
 Sing Buri,45-54,0,2004,Leprosy
-Zone 6,45-54,4,2004,Leprosy
+Zone:6,45-54,4,2004,Leprosy
 Kanchanaburi,45-54,1,2004,Leprosy
 Nakhon Pathom,45-54,2,2004,Leprosy
 Ratchaburi,45-54,0,2004,Leprosy
 Suphan Buri,45-54,1,2004,Leprosy
-Zone 7,45-54,0,2004,Leprosy
+Zone:7,45-54,0,2004,Leprosy
 Phetchaburi,45-54,0,2004,Leprosy
 Prachuap Khiri Khan,45-54,0,2004,Leprosy
 Samut Sakhon,45-54,0,2004,Leprosy
 Samut Songkhram,45-54,0,2004,Leprosy
-Zone 8,45-54,3,2004,Leprosy
+Zone:8,45-54,3,2004,Leprosy
 Chachoengsao,45-54,0,2004,Leprosy
 Nakhon Nayok,45-54,0,2004,Leprosy
 Prachin Buri,45-54,1,2004,Leprosy
 Sa Kaeo,45-54,2,2004,Leprosy
 Samut Prakan,45-54,0,2004,Leprosy
-Zone 9,45-54,1,2004,Leprosy
+Zone:9,45-54,1,2004,Leprosy
 Chanthaburi,45-54,1,2004,Leprosy
 Chon Buri,45-54,0,2004,Leprosy
 Rayong,45-54,0,2004,Leprosy
 Trat,45-54,0,2004,Leprosy
 North-Eastern Region,45-54,48,2004,Leprosy
-Zone 10,45-54,4,2004,Leprosy
+Zone:10,45-54,4,2004,Leprosy
 Loei,45-54,0,2004,Leprosy
 Nong Bua Lam Phu,45-54,2,2004,Leprosy
 Nong Khai,45-54,0,2004,Leprosy
 Udon Thani,45-54,2,2004,Leprosy
-Zone 11,45-54,0,2004,Leprosy
+Zone:11,45-54,0,2004,Leprosy
 Kalasin,45-54,0,2004,Leprosy
 Mukdahan,45-54,0,2004,Leprosy
 Nakhon Phanom,45-54,0,2004,Leprosy
 Sakon Nakhon,45-54,0,2004,Leprosy
-Zone 12,45-54,6,2004,Leprosy
+Zone:12,45-54,6,2004,Leprosy
 Khon Kaen,45-54,2,2004,Leprosy
 Maha Sarakham,45-54,2,2004,Leprosy
 Roi Et,45-54,2,2004,Leprosy
-Zone 13,45-54,24,2004,Leprosy
+Zone:13,45-54,24,2004,Leprosy
 Buri Ram,45-54,13,2004,Leprosy
 Chaiyaphum,45-54,5,2004,Leprosy
 Nakhon Ratchasima,45-54,2,2004,Leprosy
 Surin,45-54,4,2004,Leprosy
-Zone 14,45-54,14,2004,Leprosy
+Zone:14,45-54,14,2004,Leprosy
 Amnat Charoen,45-54,0,2004,Leprosy
 Si Sa Ket,45-54,11,2004,Leprosy
 Ubon Ratchathani,45-54,2,2004,Leprosy
 Yasothon,45-54,1,2004,Leprosy
 South Region,45-54,11,2004,Leprosy
-Zone 15,45-54,1,2004,Leprosy
+Zone:15,45-54,1,2004,Leprosy
 Chumphon,45-54,0,2004,Leprosy
 Ranong,45-54,0,2004,Leprosy
 Surat Thani,45-54,1,2004,Leprosy
-Zone 16,45-54,1,2004,Leprosy
+Zone:16,45-54,1,2004,Leprosy
 Nakhon Si Thammarat,45-54,0,2004,Leprosy
 Phatthalung,45-54,0,2004,Leprosy
 Trang,45-54,1,2004,Leprosy
-Zone 17,45-54,0,2004,Leprosy
+Zone:17,45-54,0,2004,Leprosy
 Krabi,45-54,0,2004,Leprosy
 Phangnga,45-54,0,2004,Leprosy
 Phuket,45-54,0,2004,Leprosy
-Zone 18,45-54,6,2004,Leprosy
+Zone:18,45-54,6,2004,Leprosy
 Narathiwat,45-54,2,2004,Leprosy
 Pattani,45-54,4,2004,Leprosy
 Yala,45-54,0,2004,Leprosy
-Zone 19,45-54,3,2004,Leprosy
+Zone:19,45-54,3,2004,Leprosy
 Satun,45-54,0,2004,Leprosy
 Songkhla,45-54,3,2004,Leprosy
 Total,55-64,97,2004,Leprosy
 North Region,55-64,15,2004,Leprosy
-Zone 1,55-64,10,2004,Leprosy
+Zone:1,55-64,10,2004,Leprosy
 Chiang Mai,55-64,4,2004,Leprosy
 Chiang Rai,55-64,4,2004,Leprosy
 Lampang,55-64,1,2004,Leprosy
@@ -23614,98 +23614,98 @@ Mae Hong Son,55-64,1,2004,Leprosy
 Nan,55-64,0,2004,Leprosy
 Phayao,55-64,0,2004,Leprosy
 Phrae,55-64,0,2004,Leprosy
-Zone 2,55-64,4,2004,Leprosy
+Zone:2,55-64,4,2004,Leprosy
 Phetchabun,55-64,2,2004,Leprosy
 Phitsanulok,55-64,1,2004,Leprosy
 Sukhothai,55-64,1,2004,Leprosy
 Tak,55-64,0,2004,Leprosy
 Uttaradit,55-64,0,2004,Leprosy
-Zone 3,55-64,1,2004,Leprosy
+Zone:3,55-64,1,2004,Leprosy
 Kamphaeng Phet,55-64,1,2004,Leprosy
 Nakhon Sawan,55-64,0,2004,Leprosy
 Phichit,55-64,0,2004,Leprosy
 Uthai Thani,55-64,0,2004,Leprosy
 Central Region,55-64,16,2004,Leprosy
 Bangkok,55-64,1,2004,Leprosy
-Zone 4,55-64,0,2004,Leprosy
+Zone:4,55-64,0,2004,Leprosy
 Ang Thong,55-64,0,2004,Leprosy
 Nonthaburi,55-64,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,55-64,0,2004,Leprosy
 Pathum Thani,55-64,0,2004,Leprosy
-Zone 5,55-64,4,2004,Leprosy
+Zone:5,55-64,4,2004,Leprosy
 Chai Nat,55-64,0,2004,Leprosy
 Lop Buri,55-64,4,2004,Leprosy
 Saraburi,55-64,0,2004,Leprosy
 Sing Buri,55-64,0,2004,Leprosy
-Zone 6,55-64,1,2004,Leprosy
+Zone:6,55-64,1,2004,Leprosy
 Kanchanaburi,55-64,0,2004,Leprosy
 Nakhon Pathom,55-64,0,2004,Leprosy
 Ratchaburi,55-64,0,2004,Leprosy
 Suphan Buri,55-64,1,2004,Leprosy
-Zone 7,55-64,1,2004,Leprosy
+Zone:7,55-64,1,2004,Leprosy
 Phetchaburi,55-64,1,2004,Leprosy
 Prachuap Khiri Khan,55-64,0,2004,Leprosy
 Samut Sakhon,55-64,0,2004,Leprosy
 Samut Songkhram,55-64,0,2004,Leprosy
-Zone 8,55-64,4,2004,Leprosy
+Zone:8,55-64,4,2004,Leprosy
 Chachoengsao,55-64,0,2004,Leprosy
 Nakhon Nayok,55-64,1,2004,Leprosy
 Prachin Buri,55-64,3,2004,Leprosy
 Sa Kaeo,55-64,0,2004,Leprosy
 Samut Prakan,55-64,0,2004,Leprosy
-Zone 9,55-64,5,2004,Leprosy
+Zone:9,55-64,5,2004,Leprosy
 Chanthaburi,55-64,4,2004,Leprosy
 Chon Buri,55-64,1,2004,Leprosy
 Rayong,55-64,0,2004,Leprosy
 Trat,55-64,0,2004,Leprosy
 North-Eastern Region,55-64,61,2004,Leprosy
-Zone 10,55-64,1,2004,Leprosy
+Zone:10,55-64,1,2004,Leprosy
 Loei,55-64,0,2004,Leprosy
 Nong Bua Lam Phu,55-64,0,2004,Leprosy
 Nong Khai,55-64,0,2004,Leprosy
 Udon Thani,55-64,1,2004,Leprosy
-Zone 11,55-64,8,2004,Leprosy
+Zone:11,55-64,8,2004,Leprosy
 Kalasin,55-64,0,2004,Leprosy
 Mukdahan,55-64,0,2004,Leprosy
 Nakhon Phanom,55-64,1,2004,Leprosy
 Sakon Nakhon,55-64,7,2004,Leprosy
-Zone 12,55-64,2,2004,Leprosy
+Zone:12,55-64,2,2004,Leprosy
 Khon Kaen,55-64,1,2004,Leprosy
 Maha Sarakham,55-64,0,2004,Leprosy
 Roi Et,55-64,1,2004,Leprosy
-Zone 13,55-64,24,2004,Leprosy
+Zone:13,55-64,24,2004,Leprosy
 Buri Ram,55-64,7,2004,Leprosy
 Chaiyaphum,55-64,0,2004,Leprosy
 Nakhon Ratchasima,55-64,11,2004,Leprosy
 Surin,55-64,6,2004,Leprosy
-Zone 14,55-64,26,2004,Leprosy
+Zone:14,55-64,26,2004,Leprosy
 Amnat Charoen,55-64,3,2004,Leprosy
 Si Sa Ket,55-64,18,2004,Leprosy
 Ubon Ratchathani,55-64,4,2004,Leprosy
 Yasothon,55-64,1,2004,Leprosy
 South Region,55-64,5,2004,Leprosy
-Zone 15,55-64,0,2004,Leprosy
+Zone:15,55-64,0,2004,Leprosy
 Chumphon,55-64,0,2004,Leprosy
 Ranong,55-64,0,2004,Leprosy
 Surat Thani,55-64,0,2004,Leprosy
-Zone 16,55-64,1,2004,Leprosy
+Zone:16,55-64,1,2004,Leprosy
 Nakhon Si Thammarat,55-64,0,2004,Leprosy
 Phatthalung,55-64,0,2004,Leprosy
 Trang,55-64,1,2004,Leprosy
-Zone 17,55-64,1,2004,Leprosy
+Zone:17,55-64,1,2004,Leprosy
 Krabi,55-64,1,2004,Leprosy
 Phangnga,55-64,0,2004,Leprosy
 Phuket,55-64,0,2004,Leprosy
-Zone 18,55-64,3,2004,Leprosy
+Zone:18,55-64,3,2004,Leprosy
 Narathiwat,55-64,1,2004,Leprosy
 Pattani,55-64,2,2004,Leprosy
 Yala,55-64,0,2004,Leprosy
-Zone 19,55-64,0,2004,Leprosy
+Zone:19,55-64,0,2004,Leprosy
 Satun,55-64,0,2004,Leprosy
 Songkhla,55-64,0,2004,Leprosy
 Total,65+,110,2004,Leprosy
 North Region,65+,15,2004,Leprosy
-Zone 1,65+,9,2004,Leprosy
+Zone:1,65+,9,2004,Leprosy
 Chiang Mai,65+,4,2004,Leprosy
 Chiang Rai,65+,1,2004,Leprosy
 Lampang,65+,4,2004,Leprosy
@@ -23714,98 +23714,98 @@ Mae Hong Son,65+,0,2004,Leprosy
 Nan,65+,0,2004,Leprosy
 Phayao,65+,0,2004,Leprosy
 Phrae,65+,0,2004,Leprosy
-Zone 2,65+,4,2004,Leprosy
+Zone:2,65+,4,2004,Leprosy
 Phetchabun,65+,3,2004,Leprosy
 Phitsanulok,65+,0,2004,Leprosy
 Sukhothai,65+,0,2004,Leprosy
 Tak,65+,1,2004,Leprosy
 Uttaradit,65+,0,2004,Leprosy
-Zone 3,65+,2,2004,Leprosy
+Zone:3,65+,2,2004,Leprosy
 Kamphaeng Phet,65+,2,2004,Leprosy
 Nakhon Sawan,65+,0,2004,Leprosy
 Phichit,65+,0,2004,Leprosy
 Uthai Thani,65+,0,2004,Leprosy
 Central Region,65+,24,2004,Leprosy
 Bangkok,65+,2,2004,Leprosy
-Zone 4,65+,0,2004,Leprosy
+Zone:4,65+,0,2004,Leprosy
 Ang Thong,65+,0,2004,Leprosy
 Nonthaburi,65+,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,65+,0,2004,Leprosy
 Pathum Thani,65+,0,2004,Leprosy
-Zone 5,65+,4,2004,Leprosy
+Zone:5,65+,4,2004,Leprosy
 Chai Nat,65+,0,2004,Leprosy
 Lop Buri,65+,3,2004,Leprosy
 Saraburi,65+,1,2004,Leprosy
 Sing Buri,65+,0,2004,Leprosy
-Zone 6,65+,2,2004,Leprosy
+Zone:6,65+,2,2004,Leprosy
 Kanchanaburi,65+,0,2004,Leprosy
 Nakhon Pathom,65+,0,2004,Leprosy
 Ratchaburi,65+,1,2004,Leprosy
 Suphan Buri,65+,1,2004,Leprosy
-Zone 7,65+,2,2004,Leprosy
+Zone:7,65+,2,2004,Leprosy
 Phetchaburi,65+,1,2004,Leprosy
 Prachuap Khiri Khan,65+,1,2004,Leprosy
 Samut Sakhon,65+,0,2004,Leprosy
 Samut Songkhram,65+,0,2004,Leprosy
-Zone 8,65+,2,2004,Leprosy
+Zone:8,65+,2,2004,Leprosy
 Chachoengsao,65+,0,2004,Leprosy
 Nakhon Nayok,65+,0,2004,Leprosy
 Prachin Buri,65+,0,2004,Leprosy
 Sa Kaeo,65+,2,2004,Leprosy
 Samut Prakan,65+,0,2004,Leprosy
-Zone 9,65+,12,2004,Leprosy
+Zone:9,65+,12,2004,Leprosy
 Chanthaburi,65+,6,2004,Leprosy
 Chon Buri,65+,2,2004,Leprosy
 Rayong,65+,4,2004,Leprosy
 Trat,65+,0,2004,Leprosy
 North-Eastern Region,65+,63,2004,Leprosy
-Zone 10,65+,1,2004,Leprosy
+Zone:10,65+,1,2004,Leprosy
 Loei,65+,0,2004,Leprosy
 Nong Bua Lam Phu,65+,0,2004,Leprosy
 Nong Khai,65+,0,2004,Leprosy
 Udon Thani,65+,1,2004,Leprosy
-Zone 11,65+,3,2004,Leprosy
+Zone:11,65+,3,2004,Leprosy
 Kalasin,65+,1,2004,Leprosy
 Mukdahan,65+,1,2004,Leprosy
 Nakhon Phanom,65+,1,2004,Leprosy
 Sakon Nakhon,65+,0,2004,Leprosy
-Zone 12,65+,13,2004,Leprosy
+Zone:12,65+,13,2004,Leprosy
 Khon Kaen,65+,7,2004,Leprosy
 Maha Sarakham,65+,3,2004,Leprosy
 Roi Et,65+,3,2004,Leprosy
-Zone 13,65+,29,2004,Leprosy
+Zone:13,65+,29,2004,Leprosy
 Buri Ram,65+,6,2004,Leprosy
 Chaiyaphum,65+,8,2004,Leprosy
 Nakhon Ratchasima,65+,9,2004,Leprosy
 Surin,65+,6,2004,Leprosy
-Zone 14,65+,17,2004,Leprosy
+Zone:14,65+,17,2004,Leprosy
 Amnat Charoen,65+,2,2004,Leprosy
 Si Sa Ket,65+,10,2004,Leprosy
 Ubon Ratchathani,65+,1,2004,Leprosy
 Yasothon,65+,4,2004,Leprosy
 South Region,65+,8,2004,Leprosy
-Zone 15,65+,1,2004,Leprosy
+Zone:15,65+,1,2004,Leprosy
 Chumphon,65+,1,2004,Leprosy
 Ranong,65+,0,2004,Leprosy
 Surat Thani,65+,0,2004,Leprosy
-Zone 16,65+,0,2004,Leprosy
+Zone:16,65+,0,2004,Leprosy
 Nakhon Si Thammarat,65+,0,2004,Leprosy
 Phatthalung,65+,0,2004,Leprosy
 Trang,65+,0,2004,Leprosy
-Zone 17,65+,0,2004,Leprosy
+Zone:17,65+,0,2004,Leprosy
 Krabi,65+,0,2004,Leprosy
 Phangnga,65+,0,2004,Leprosy
 Phuket,65+,0,2004,Leprosy
-Zone 18,65+,5,2004,Leprosy
+Zone:18,65+,5,2004,Leprosy
 Narathiwat,65+,3,2004,Leprosy
 Pattani,65+,2,2004,Leprosy
 Yala,65+,0,2004,Leprosy
-Zone 19,65+,2,2004,Leprosy
+Zone:19,65+,2,2004,Leprosy
 Satun,65+,0,2004,Leprosy
 Songkhla,65+,2,2004,Leprosy
 Total,Unknown,2,2004,Leprosy
 North Region,Unknown,0,2004,Leprosy
-Zone 1,Unknown,0,2004,Leprosy
+Zone:1,Unknown,0,2004,Leprosy
 Chiang Mai,Unknown,0,2004,Leprosy
 Chiang Rai,Unknown,0,2004,Leprosy
 Lampang,Unknown,0,2004,Leprosy
@@ -23814,93 +23814,93 @@ Mae Hong Son,Unknown,0,2004,Leprosy
 Nan,Unknown,0,2004,Leprosy
 Phayao,Unknown,0,2004,Leprosy
 Phrae,Unknown,0,2004,Leprosy
-Zone 2,Unknown,0,2004,Leprosy
+Zone:2,Unknown,0,2004,Leprosy
 Phetchabun,Unknown,0,2004,Leprosy
 Phitsanulok,Unknown,0,2004,Leprosy
 Sukhothai,Unknown,0,2004,Leprosy
 Tak,Unknown,0,2004,Leprosy
 Uttaradit,Unknown,0,2004,Leprosy
-Zone 3,Unknown,0,2004,Leprosy
+Zone:3,Unknown,0,2004,Leprosy
 Kamphaeng Phet,Unknown,0,2004,Leprosy
 Nakhon Sawan,Unknown,0,2004,Leprosy
 Phichit,Unknown,0,2004,Leprosy
 Uthai Thani,Unknown,0,2004,Leprosy
 Central Region,Unknown,2,2004,Leprosy
 Bangkok,Unknown,2,2004,Leprosy
-Zone 4,Unknown,0,2004,Leprosy
+Zone:4,Unknown,0,2004,Leprosy
 Ang Thong,Unknown,0,2004,Leprosy
 Nonthaburi,Unknown,0,2004,Leprosy
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Leprosy
 Pathum Thani,Unknown,0,2004,Leprosy
-Zone 5,Unknown,0,2004,Leprosy
+Zone:5,Unknown,0,2004,Leprosy
 Chai Nat,Unknown,0,2004,Leprosy
 Lop Buri,Unknown,0,2004,Leprosy
 Saraburi,Unknown,0,2004,Leprosy
 Sing Buri,Unknown,0,2004,Leprosy
-Zone 6,Unknown,0,2004,Leprosy
+Zone:6,Unknown,0,2004,Leprosy
 Kanchanaburi,Unknown,0,2004,Leprosy
 Nakhon Pathom,Unknown,0,2004,Leprosy
 Ratchaburi,Unknown,0,2004,Leprosy
 Suphan Buri,Unknown,0,2004,Leprosy
-Zone 7,Unknown,0,2004,Leprosy
+Zone:7,Unknown,0,2004,Leprosy
 Phetchaburi,Unknown,0,2004,Leprosy
 Prachuap Khiri Khan,Unknown,0,2004,Leprosy
 Samut Sakhon,Unknown,0,2004,Leprosy
 Samut Songkhram,Unknown,0,2004,Leprosy
-Zone 8,Unknown,0,2004,Leprosy
+Zone:8,Unknown,0,2004,Leprosy
 Chachoengsao,Unknown,0,2004,Leprosy
 Nakhon Nayok,Unknown,0,2004,Leprosy
 Prachin Buri,Unknown,0,2004,Leprosy
 Sa Kaeo,Unknown,0,2004,Leprosy
 Samut Prakan,Unknown,0,2004,Leprosy
-Zone 9,Unknown,0,2004,Leprosy
+Zone:9,Unknown,0,2004,Leprosy
 Chanthaburi,Unknown,0,2004,Leprosy
 Chon Buri,Unknown,0,2004,Leprosy
 Rayong,Unknown,0,2004,Leprosy
 Trat,Unknown,0,2004,Leprosy
 North-Eastern Region,Unknown,0,2004,Leprosy
-Zone 10,Unknown,0,2004,Leprosy
+Zone:10,Unknown,0,2004,Leprosy
 Loei,Unknown,0,2004,Leprosy
 Nong Bua Lam Phu,Unknown,0,2004,Leprosy
 Nong Khai,Unknown,0,2004,Leprosy
 Udon Thani,Unknown,0,2004,Leprosy
-Zone 11,Unknown,0,2004,Leprosy
+Zone:11,Unknown,0,2004,Leprosy
 Kalasin,Unknown,0,2004,Leprosy
 Mukdahan,Unknown,0,2004,Leprosy
 Nakhon Phanom,Unknown,0,2004,Leprosy
 Sakon Nakhon,Unknown,0,2004,Leprosy
-Zone 12,Unknown,0,2004,Leprosy
+Zone:12,Unknown,0,2004,Leprosy
 Khon Kaen,Unknown,0,2004,Leprosy
 Maha Sarakham,Unknown,0,2004,Leprosy
 Roi Et,Unknown,0,2004,Leprosy
-Zone 13,Unknown,0,2004,Leprosy
+Zone:13,Unknown,0,2004,Leprosy
 Buri Ram,Unknown,0,2004,Leprosy
 Chaiyaphum,Unknown,0,2004,Leprosy
 Nakhon Ratchasima,Unknown,0,2004,Leprosy
 Surin,Unknown,0,2004,Leprosy
-Zone 14,Unknown,0,2004,Leprosy
+Zone:14,Unknown,0,2004,Leprosy
 Amnat Charoen,Unknown,0,2004,Leprosy
 Si Sa Ket,Unknown,0,2004,Leprosy
 Ubon Ratchathani,Unknown,0,2004,Leprosy
 Yasothon,Unknown,0,2004,Leprosy
 South Region,Unknown,0,2004,Leprosy
-Zone 15,Unknown,0,2004,Leprosy
+Zone:15,Unknown,0,2004,Leprosy
 Chumphon,Unknown,0,2004,Leprosy
 Ranong,Unknown,0,2004,Leprosy
 Surat Thani,Unknown,0,2004,Leprosy
-Zone 16,Unknown,0,2004,Leprosy
+Zone:16,Unknown,0,2004,Leprosy
 Nakhon Si Thammarat,Unknown,0,2004,Leprosy
 Phatthalung,Unknown,0,2004,Leprosy
 Trang,Unknown,0,2004,Leprosy
-Zone 17,Unknown,0,2004,Leprosy
+Zone:17,Unknown,0,2004,Leprosy
 Krabi,Unknown,0,2004,Leprosy
 Phangnga,Unknown,0,2004,Leprosy
 Phuket,Unknown,0,2004,Leprosy
-Zone 18,Unknown,0,2004,Leprosy
+Zone:18,Unknown,0,2004,Leprosy
 Narathiwat,Unknown,0,2004,Leprosy
 Pattani,Unknown,0,2004,Leprosy
 Yala,Unknown,0,2004,Leprosy
-Zone 19,Unknown,0,2004,Leprosy
+Zone:19,Unknown,0,2004,Leprosy
 Satun,Unknown,0,2004,Leprosy
 Songkhla,Unknown,0,2004,Leprosy
 Total,Total,341,2007,Leprosy
@@ -29143,7 +29143,7 @@ Phichit,Unknown,0,2010,Leprosy
 Uthai Thani,Unknown,0,2010,Leprosy
 Total,Total,503,2003,Leprosy
 North Region,Total,59,2003,Leprosy
-Zone 1,Total,34,2003,Leprosy
+Zone:1,Total,34,2003,Leprosy
 Chiang Mai,Total,8,2003,Leprosy
 Chiang Rai,Total,7,2003,Leprosy
 Lampang,Total,2,2003,Leprosy
@@ -29152,98 +29152,98 @@ Mae Hong Son,Total,12,2003,Leprosy
 Nan,Total,0,2003,Leprosy
 Phayao,Total,2,2003,Leprosy
 Phrae,Total,1,2003,Leprosy
-Zone 2,Total,15,2003,Leprosy
+Zone:2,Total,15,2003,Leprosy
 Phetchabun,Total,3,2003,Leprosy
 Phitsanulok,Total,4,2003,Leprosy
 Sukhothai,Total,3,2003,Leprosy
 Tak,Total,4,2003,Leprosy
 Uttaradit,Total,1,2003,Leprosy
-Zone 3,Total,10,2003,Leprosy
+Zone:3,Total,10,2003,Leprosy
 Kamphaeng Phet,Total,7,2003,Leprosy
 Nakhon Sawan,Total,0,2003,Leprosy
 Phichit,Total,3,2003,Leprosy
 Uthai Thani,Total,0,2003,Leprosy
 Central Region,Total,61,2003,Leprosy
 Bangkok,Total,8,2003,Leprosy
-Zone 4,Total,2,2003,Leprosy
+Zone:4,Total,2,2003,Leprosy
 Ang Thong,Total,0,2003,Leprosy
 Nonthaburi,Total,1,2003,Leprosy
 P.Nakhon S.Ayutthaya,Total,0,2003,Leprosy
 Pathum Thani,Total,1,2003,Leprosy
-Zone 5,Total,15,2003,Leprosy
+Zone:5,Total,15,2003,Leprosy
 Chai Nat,Total,0,2003,Leprosy
 Lop Buri,Total,14,2003,Leprosy
 Saraburi,Total,1,2003,Leprosy
 Sing Buri,Total,0,2003,Leprosy
-Zone 6,Total,7,2003,Leprosy
+Zone:6,Total,7,2003,Leprosy
 Kanchanaburi,Total,1,2003,Leprosy
 Nakhon Pathom,Total,1,2003,Leprosy
 Ratchaburi,Total,0,2003,Leprosy
 Suphan Buri,Total,5,2003,Leprosy
-Zone 7,Total,2,2003,Leprosy
+Zone:7,Total,2,2003,Leprosy
 Phetchaburi,Total,1,2003,Leprosy
 Prachuap Khiri Khan,Total,1,2003,Leprosy
 Samut Sakhon,Total,0,2003,Leprosy
 Samut Songkhram,Total,0,2003,Leprosy
-Zone 8,Total,10,2003,Leprosy
+Zone:8,Total,10,2003,Leprosy
 Chachoengsao,Total,2,2003,Leprosy
 Nakhon Nayok,Total,4,2003,Leprosy
 Prachin Buri,Total,3,2003,Leprosy
 Sa Kaeo,Total,1,2003,Leprosy
 Samut Prakan,Total,0,2003,Leprosy
-Zone 9,Total,17,2003,Leprosy
+Zone:9,Total,17,2003,Leprosy
 Chanthaburi,Total,5,2003,Leprosy
 Chon Buri,Total,3,2003,Leprosy
 Rayong,Total,7,2003,Leprosy
 Trat,Total,2,2003,Leprosy
 North-Eastern Region,Total,320,2003,Leprosy
-Zone 10,Total,20,2003,Leprosy
+Zone:10,Total,20,2003,Leprosy
 Loei,Total,0,2003,Leprosy
 Nong Bua Lam Phu,Total,9,2003,Leprosy
 Nong Khai,Total,2,2003,Leprosy
 Udon Thani,Total,9,2003,Leprosy
-Zone 11,Total,16,2003,Leprosy
+Zone:11,Total,16,2003,Leprosy
 Kalasin,Total,7,2003,Leprosy
 Mukdahan,Total,0,2003,Leprosy
 Nakhon Phanom,Total,1,2003,Leprosy
 Sakon Nakhon,Total,8,2003,Leprosy
-Zone 12,Total,28,2003,Leprosy
+Zone:12,Total,28,2003,Leprosy
 Khon Kaen,Total,12,2003,Leprosy
 Maha Sarakham,Total,7,2003,Leprosy
 Roi Et,Total,9,2003,Leprosy
-Zone 13,Total,132,2003,Leprosy
+Zone:13,Total,132,2003,Leprosy
 Buri Ram,Total,46,2003,Leprosy
 Chaiyaphum,Total,21,2003,Leprosy
 Nakhon Ratchasima,Total,34,2003,Leprosy
 Surin,Total,31,2003,Leprosy
-Zone 14,Total,124,2003,Leprosy
+Zone:14,Total,124,2003,Leprosy
 Amnat Charoen,Total,14,2003,Leprosy
 Si Sa Ket,Total,85,2003,Leprosy
 Ubon Ratchathani,Total,16,2003,Leprosy
 Yasothon,Total,9,2003,Leprosy
 South Region,Total,63,2003,Leprosy
-Zone 15,Total,21,2003,Leprosy
+Zone:15,Total,21,2003,Leprosy
 Chumphon,Total,5,2003,Leprosy
 Ranong,Total,1,2003,Leprosy
 Surat Thani,Total,15,2003,Leprosy
-Zone 16,Total,6,2003,Leprosy
+Zone:16,Total,6,2003,Leprosy
 Nakhon Si Thammarat,Total,2,2003,Leprosy
 Phatthalung,Total,1,2003,Leprosy
 Trang,Total,3,2003,Leprosy
-Zone 17,Total,4,2003,Leprosy
+Zone:17,Total,4,2003,Leprosy
 Krabi,Total,2,2003,Leprosy
 Phangnga,Total,2,2003,Leprosy
 Phuket,Total,0,2003,Leprosy
-Zone 18,Total,28,2003,Leprosy
+Zone:18,Total,28,2003,Leprosy
 Narathiwat,Total,10,2003,Leprosy
 Pattani,Total,18,2003,Leprosy
 Yala,Total,0,2003,Leprosy
-Zone 19,Total,4,2003,Leprosy
+Zone:19,Total,4,2003,Leprosy
 Satun,Total,1,2003,Leprosy
 Songkhla,Total,3,2003,Leprosy
 Total,0,0,2003,Leprosy
 North Region,0,0,2003,Leprosy
-Zone 1,0,0,2003,Leprosy
+Zone:1,0,0,2003,Leprosy
 Chiang Mai,0,0,2003,Leprosy
 Chiang Rai,0,0,2003,Leprosy
 Lampang,0,0,2003,Leprosy
@@ -29252,98 +29252,98 @@ Mae Hong Son,0,0,2003,Leprosy
 Nan,0,0,2003,Leprosy
 Phayao,0,0,2003,Leprosy
 Phrae,0,0,2003,Leprosy
-Zone 2,0,0,2003,Leprosy
+Zone:2,0,0,2003,Leprosy
 Phetchabun,0,0,2003,Leprosy
 Phitsanulok,0,0,2003,Leprosy
 Sukhothai,0,0,2003,Leprosy
 Tak,0,0,2003,Leprosy
 Uttaradit,0,0,2003,Leprosy
-Zone 3,0,0,2003,Leprosy
+Zone:3,0,0,2003,Leprosy
 Kamphaeng Phet,0,0,2003,Leprosy
 Nakhon Sawan,0,0,2003,Leprosy
 Phichit,0,0,2003,Leprosy
 Uthai Thani,0,0,2003,Leprosy
 Central Region,0,0,2003,Leprosy
 Bangkok,0,0,2003,Leprosy
-Zone 4,0,0,2003,Leprosy
+Zone:4,0,0,2003,Leprosy
 Ang Thong,0,0,2003,Leprosy
 Nonthaburi,0,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,0,0,2003,Leprosy
 Pathum Thani,0,0,2003,Leprosy
-Zone 5,0,0,2003,Leprosy
+Zone:5,0,0,2003,Leprosy
 Chai Nat,0,0,2003,Leprosy
 Lop Buri,0,0,2003,Leprosy
 Saraburi,0,0,2003,Leprosy
 Sing Buri,0,0,2003,Leprosy
-Zone 6,0,0,2003,Leprosy
+Zone:6,0,0,2003,Leprosy
 Kanchanaburi,0,0,2003,Leprosy
 Nakhon Pathom,0,0,2003,Leprosy
 Ratchaburi,0,0,2003,Leprosy
 Suphan Buri,0,0,2003,Leprosy
-Zone 7,0,0,2003,Leprosy
+Zone:7,0,0,2003,Leprosy
 Phetchaburi,0,0,2003,Leprosy
 Prachuap Khiri Khan,0,0,2003,Leprosy
 Samut Sakhon,0,0,2003,Leprosy
 Samut Songkhram,0,0,2003,Leprosy
-Zone 8,0,0,2003,Leprosy
+Zone:8,0,0,2003,Leprosy
 Chachoengsao,0,0,2003,Leprosy
 Nakhon Nayok,0,0,2003,Leprosy
 Prachin Buri,0,0,2003,Leprosy
 Sa Kaeo,0,0,2003,Leprosy
 Samut Prakan,0,0,2003,Leprosy
-Zone 9,0,0,2003,Leprosy
+Zone:9,0,0,2003,Leprosy
 Chanthaburi,0,0,2003,Leprosy
 Chon Buri,0,0,2003,Leprosy
 Rayong,0,0,2003,Leprosy
 Trat,0,0,2003,Leprosy
 North-Eastern Region,0,0,2003,Leprosy
-Zone 10,0,0,2003,Leprosy
+Zone:10,0,0,2003,Leprosy
 Loei,0,0,2003,Leprosy
 Nong Bua Lam Phu,0,0,2003,Leprosy
 Nong Khai,0,0,2003,Leprosy
 Udon Thani,0,0,2003,Leprosy
-Zone 11,0,0,2003,Leprosy
+Zone:11,0,0,2003,Leprosy
 Kalasin,0,0,2003,Leprosy
 Mukdahan,0,0,2003,Leprosy
 Nakhon Phanom,0,0,2003,Leprosy
 Sakon Nakhon,0,0,2003,Leprosy
-Zone 12,0,0,2003,Leprosy
+Zone:12,0,0,2003,Leprosy
 Khon Kaen,0,0,2003,Leprosy
 Maha Sarakham,0,0,2003,Leprosy
 Roi Et,0,0,2003,Leprosy
-Zone 13,0,0,2003,Leprosy
+Zone:13,0,0,2003,Leprosy
 Buri Ram,0,0,2003,Leprosy
 Chaiyaphum,0,0,2003,Leprosy
 Nakhon Ratchasima,0,0,2003,Leprosy
 Surin,0,0,2003,Leprosy
-Zone 14,0,0,2003,Leprosy
+Zone:14,0,0,2003,Leprosy
 Amnat Charoen,0,0,2003,Leprosy
 Si Sa Ket,0,0,2003,Leprosy
 Ubon Ratchathani,0,0,2003,Leprosy
 Yasothon,0,0,2003,Leprosy
 South Region,0,0,2003,Leprosy
-Zone 15,0,0,2003,Leprosy
+Zone:15,0,0,2003,Leprosy
 Chumphon,0,0,2003,Leprosy
 Ranong,0,0,2003,Leprosy
 Surat Thani,0,0,2003,Leprosy
-Zone 16,0,0,2003,Leprosy
+Zone:16,0,0,2003,Leprosy
 Nakhon Si Thammarat,0,0,2003,Leprosy
 Phatthalung,0,0,2003,Leprosy
 Trang,0,0,2003,Leprosy
-Zone 17,0,0,2003,Leprosy
+Zone:17,0,0,2003,Leprosy
 Krabi,0,0,2003,Leprosy
 Phangnga,0,0,2003,Leprosy
 Phuket,0,0,2003,Leprosy
-Zone 18,0,0,2003,Leprosy
+Zone:18,0,0,2003,Leprosy
 Narathiwat,0,0,2003,Leprosy
 Pattani,0,0,2003,Leprosy
 Yala,0,0,2003,Leprosy
-Zone 19,0,0,2003,Leprosy
+Zone:19,0,0,2003,Leprosy
 Satun,0,0,2003,Leprosy
 Songkhla,0,0,2003,Leprosy
 Total,<1,0,2003,Leprosy
 North Region,<1,0,2003,Leprosy
-Zone 1,<1,0,2003,Leprosy
+Zone:1,<1,0,2003,Leprosy
 Chiang Mai,<1,0,2003,Leprosy
 Chiang Rai,<1,0,2003,Leprosy
 Lampang,<1,0,2003,Leprosy
@@ -29352,98 +29352,98 @@ Mae Hong Son,<1,0,2003,Leprosy
 Nan,<1,0,2003,Leprosy
 Phayao,<1,0,2003,Leprosy
 Phrae,<1,0,2003,Leprosy
-Zone 2,<1,0,2003,Leprosy
+Zone:2,<1,0,2003,Leprosy
 Phetchabun,<1,0,2003,Leprosy
 Phitsanulok,<1,0,2003,Leprosy
 Sukhothai,<1,0,2003,Leprosy
 Tak,<1,0,2003,Leprosy
 Uttaradit,<1,0,2003,Leprosy
-Zone 3,<1,0,2003,Leprosy
+Zone:3,<1,0,2003,Leprosy
 Kamphaeng Phet,<1,0,2003,Leprosy
 Nakhon Sawan,<1,0,2003,Leprosy
 Phichit,<1,0,2003,Leprosy
 Uthai Thani,<1,0,2003,Leprosy
 Central Region,<1,0,2003,Leprosy
 Bangkok,<1,0,2003,Leprosy
-Zone 4,<1,0,2003,Leprosy
+Zone:4,<1,0,2003,Leprosy
 Ang Thong,<1,0,2003,Leprosy
 Nonthaburi,<1,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,<1,0,2003,Leprosy
 Pathum Thani,<1,0,2003,Leprosy
-Zone 5,<1,0,2003,Leprosy
+Zone:5,<1,0,2003,Leprosy
 Chai Nat,<1,0,2003,Leprosy
 Lop Buri,<1,0,2003,Leprosy
 Saraburi,<1,0,2003,Leprosy
 Sing Buri,<1,0,2003,Leprosy
-Zone 6,<1,0,2003,Leprosy
+Zone:6,<1,0,2003,Leprosy
 Kanchanaburi,<1,0,2003,Leprosy
 Nakhon Pathom,<1,0,2003,Leprosy
 Ratchaburi,<1,0,2003,Leprosy
 Suphan Buri,<1,0,2003,Leprosy
-Zone 7,<1,0,2003,Leprosy
+Zone:7,<1,0,2003,Leprosy
 Phetchaburi,<1,0,2003,Leprosy
 Prachuap Khiri Khan,<1,0,2003,Leprosy
 Samut Sakhon,<1,0,2003,Leprosy
 Samut Songkhram,<1,0,2003,Leprosy
-Zone 8,<1,0,2003,Leprosy
+Zone:8,<1,0,2003,Leprosy
 Chachoengsao,<1,0,2003,Leprosy
 Nakhon Nayok,<1,0,2003,Leprosy
 Prachin Buri,<1,0,2003,Leprosy
 Sa Kaeo,<1,0,2003,Leprosy
 Samut Prakan,<1,0,2003,Leprosy
-Zone 9,<1,0,2003,Leprosy
+Zone:9,<1,0,2003,Leprosy
 Chanthaburi,<1,0,2003,Leprosy
 Chon Buri,<1,0,2003,Leprosy
 Rayong,<1,0,2003,Leprosy
 Trat,<1,0,2003,Leprosy
 North-Eastern Region,<1,0,2003,Leprosy
-Zone 10,<1,0,2003,Leprosy
+Zone:10,<1,0,2003,Leprosy
 Loei,<1,0,2003,Leprosy
 Nong Bua Lam Phu,<1,0,2003,Leprosy
 Nong Khai,<1,0,2003,Leprosy
 Udon Thani,<1,0,2003,Leprosy
-Zone 11,<1,0,2003,Leprosy
+Zone:11,<1,0,2003,Leprosy
 Kalasin,<1,0,2003,Leprosy
 Mukdahan,<1,0,2003,Leprosy
 Nakhon Phanom,<1,0,2003,Leprosy
 Sakon Nakhon,<1,0,2003,Leprosy
-Zone 12,<1,0,2003,Leprosy
+Zone:12,<1,0,2003,Leprosy
 Khon Kaen,<1,0,2003,Leprosy
 Maha Sarakham,<1,0,2003,Leprosy
 Roi Et,<1,0,2003,Leprosy
-Zone 13,<1,0,2003,Leprosy
+Zone:13,<1,0,2003,Leprosy
 Buri Ram,<1,0,2003,Leprosy
 Chaiyaphum,<1,0,2003,Leprosy
 Nakhon Ratchasima,<1,0,2003,Leprosy
 Surin,<1,0,2003,Leprosy
-Zone 14,<1,0,2003,Leprosy
+Zone:14,<1,0,2003,Leprosy
 Amnat Charoen,<1,0,2003,Leprosy
 Si Sa Ket,<1,0,2003,Leprosy
 Ubon Ratchathani,<1,0,2003,Leprosy
 Yasothon,<1,0,2003,Leprosy
 South Region,<1,0,2003,Leprosy
-Zone 15,<1,0,2003,Leprosy
+Zone:15,<1,0,2003,Leprosy
 Chumphon,<1,0,2003,Leprosy
 Ranong,<1,0,2003,Leprosy
 Surat Thani,<1,0,2003,Leprosy
-Zone 16,<1,0,2003,Leprosy
+Zone:16,<1,0,2003,Leprosy
 Nakhon Si Thammarat,<1,0,2003,Leprosy
 Phatthalung,<1,0,2003,Leprosy
 Trang,<1,0,2003,Leprosy
-Zone 17,<1,0,2003,Leprosy
+Zone:17,<1,0,2003,Leprosy
 Krabi,<1,0,2003,Leprosy
 Phangnga,<1,0,2003,Leprosy
 Phuket,<1,0,2003,Leprosy
-Zone 18,<1,0,2003,Leprosy
+Zone:18,<1,0,2003,Leprosy
 Narathiwat,<1,0,2003,Leprosy
 Pattani,<1,0,2003,Leprosy
 Yala,<1,0,2003,Leprosy
-Zone 19,<1,0,2003,Leprosy
+Zone:19,<1,0,2003,Leprosy
 Satun,<1,0,2003,Leprosy
 Songkhla,<1,0,2003,Leprosy
 Total,1-1,0,2003,Leprosy
 North Region,1-1,0,2003,Leprosy
-Zone 1,1-1,0,2003,Leprosy
+Zone:1,1-1,0,2003,Leprosy
 Chiang Mai,1-1,0,2003,Leprosy
 Chiang Rai,1-1,0,2003,Leprosy
 Lampang,1-1,0,2003,Leprosy
@@ -29452,98 +29452,98 @@ Mae Hong Son,1-1,0,2003,Leprosy
 Nan,1-1,0,2003,Leprosy
 Phayao,1-1,0,2003,Leprosy
 Phrae,1-1,0,2003,Leprosy
-Zone 2,1-1,0,2003,Leprosy
+Zone:2,1-1,0,2003,Leprosy
 Phetchabun,1-1,0,2003,Leprosy
 Phitsanulok,1-1,0,2003,Leprosy
 Sukhothai,1-1,0,2003,Leprosy
 Tak,1-1,0,2003,Leprosy
 Uttaradit,1-1,0,2003,Leprosy
-Zone 3,1-1,0,2003,Leprosy
+Zone:3,1-1,0,2003,Leprosy
 Kamphaeng Phet,1-1,0,2003,Leprosy
 Nakhon Sawan,1-1,0,2003,Leprosy
 Phichit,1-1,0,2003,Leprosy
 Uthai Thani,1-1,0,2003,Leprosy
 Central Region,1-1,0,2003,Leprosy
 Bangkok,1-1,0,2003,Leprosy
-Zone 4,1-1,0,2003,Leprosy
+Zone:4,1-1,0,2003,Leprosy
 Ang Thong,1-1,0,2003,Leprosy
 Nonthaburi,1-1,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,1-1,0,2003,Leprosy
 Pathum Thani,1-1,0,2003,Leprosy
-Zone 5,1-1,0,2003,Leprosy
+Zone:5,1-1,0,2003,Leprosy
 Chai Nat,1-1,0,2003,Leprosy
 Lop Buri,1-1,0,2003,Leprosy
 Saraburi,1-1,0,2003,Leprosy
 Sing Buri,1-1,0,2003,Leprosy
-Zone 6,1-1,0,2003,Leprosy
+Zone:6,1-1,0,2003,Leprosy
 Kanchanaburi,1-1,0,2003,Leprosy
 Nakhon Pathom,1-1,0,2003,Leprosy
 Ratchaburi,1-1,0,2003,Leprosy
 Suphan Buri,1-1,0,2003,Leprosy
-Zone 7,1-1,0,2003,Leprosy
+Zone:7,1-1,0,2003,Leprosy
 Phetchaburi,1-1,0,2003,Leprosy
 Prachuap Khiri Khan,1-1,0,2003,Leprosy
 Samut Sakhon,1-1,0,2003,Leprosy
 Samut Songkhram,1-1,0,2003,Leprosy
-Zone 8,1-1,0,2003,Leprosy
+Zone:8,1-1,0,2003,Leprosy
 Chachoengsao,1-1,0,2003,Leprosy
 Nakhon Nayok,1-1,0,2003,Leprosy
 Prachin Buri,1-1,0,2003,Leprosy
 Sa Kaeo,1-1,0,2003,Leprosy
 Samut Prakan,1-1,0,2003,Leprosy
-Zone 9,1-1,0,2003,Leprosy
+Zone:9,1-1,0,2003,Leprosy
 Chanthaburi,1-1,0,2003,Leprosy
 Chon Buri,1-1,0,2003,Leprosy
 Rayong,1-1,0,2003,Leprosy
 Trat,1-1,0,2003,Leprosy
 North-Eastern Region,1-1,0,2003,Leprosy
-Zone 10,1-1,0,2003,Leprosy
+Zone:10,1-1,0,2003,Leprosy
 Loei,1-1,0,2003,Leprosy
 Nong Bua Lam Phu,1-1,0,2003,Leprosy
 Nong Khai,1-1,0,2003,Leprosy
 Udon Thani,1-1,0,2003,Leprosy
-Zone 11,1-1,0,2003,Leprosy
+Zone:11,1-1,0,2003,Leprosy
 Kalasin,1-1,0,2003,Leprosy
 Mukdahan,1-1,0,2003,Leprosy
 Nakhon Phanom,1-1,0,2003,Leprosy
 Sakon Nakhon,1-1,0,2003,Leprosy
-Zone 12,1-1,0,2003,Leprosy
+Zone:12,1-1,0,2003,Leprosy
 Khon Kaen,1-1,0,2003,Leprosy
 Maha Sarakham,1-1,0,2003,Leprosy
 Roi Et,1-1,0,2003,Leprosy
-Zone 13,1-1,0,2003,Leprosy
+Zone:13,1-1,0,2003,Leprosy
 Buri Ram,1-1,0,2003,Leprosy
 Chaiyaphum,1-1,0,2003,Leprosy
 Nakhon Ratchasima,1-1,0,2003,Leprosy
 Surin,1-1,0,2003,Leprosy
-Zone 14,1-1,0,2003,Leprosy
+Zone:14,1-1,0,2003,Leprosy
 Amnat Charoen,1-1,0,2003,Leprosy
 Si Sa Ket,1-1,0,2003,Leprosy
 Ubon Ratchathani,1-1,0,2003,Leprosy
 Yasothon,1-1,0,2003,Leprosy
 South Region,1-1,0,2003,Leprosy
-Zone 15,1-1,0,2003,Leprosy
+Zone:15,1-1,0,2003,Leprosy
 Chumphon,1-1,0,2003,Leprosy
 Ranong,1-1,0,2003,Leprosy
 Surat Thani,1-1,0,2003,Leprosy
-Zone 16,1-1,0,2003,Leprosy
+Zone:16,1-1,0,2003,Leprosy
 Nakhon Si Thammarat,1-1,0,2003,Leprosy
 Phatthalung,1-1,0,2003,Leprosy
 Trang,1-1,0,2003,Leprosy
-Zone 17,1-1,0,2003,Leprosy
+Zone:17,1-1,0,2003,Leprosy
 Krabi,1-1,0,2003,Leprosy
 Phangnga,1-1,0,2003,Leprosy
 Phuket,1-1,0,2003,Leprosy
-Zone 18,1-1,0,2003,Leprosy
+Zone:18,1-1,0,2003,Leprosy
 Narathiwat,1-1,0,2003,Leprosy
 Pattani,1-1,0,2003,Leprosy
 Yala,1-1,0,2003,Leprosy
-Zone 19,1-1,0,2003,Leprosy
+Zone:19,1-1,0,2003,Leprosy
 Satun,1-1,0,2003,Leprosy
 Songkhla,1-1,0,2003,Leprosy
 Total,2-2,0,2003,Leprosy
 North Region,2-2,0,2003,Leprosy
-Zone 1,2-2,0,2003,Leprosy
+Zone:1,2-2,0,2003,Leprosy
 Chiang Mai,2-2,0,2003,Leprosy
 Chiang Rai,2-2,0,2003,Leprosy
 Lampang,2-2,0,2003,Leprosy
@@ -29552,98 +29552,98 @@ Mae Hong Son,2-2,0,2003,Leprosy
 Nan,2-2,0,2003,Leprosy
 Phayao,2-2,0,2003,Leprosy
 Phrae,2-2,0,2003,Leprosy
-Zone 2,2-2,0,2003,Leprosy
+Zone:2,2-2,0,2003,Leprosy
 Phetchabun,2-2,0,2003,Leprosy
 Phitsanulok,2-2,0,2003,Leprosy
 Sukhothai,2-2,0,2003,Leprosy
 Tak,2-2,0,2003,Leprosy
 Uttaradit,2-2,0,2003,Leprosy
-Zone 3,2-2,0,2003,Leprosy
+Zone:3,2-2,0,2003,Leprosy
 Kamphaeng Phet,2-2,0,2003,Leprosy
 Nakhon Sawan,2-2,0,2003,Leprosy
 Phichit,2-2,0,2003,Leprosy
 Uthai Thani,2-2,0,2003,Leprosy
 Central Region,2-2,0,2003,Leprosy
 Bangkok,2-2,0,2003,Leprosy
-Zone 4,2-2,0,2003,Leprosy
+Zone:4,2-2,0,2003,Leprosy
 Ang Thong,2-2,0,2003,Leprosy
 Nonthaburi,2-2,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,2-2,0,2003,Leprosy
 Pathum Thani,2-2,0,2003,Leprosy
-Zone 5,2-2,0,2003,Leprosy
+Zone:5,2-2,0,2003,Leprosy
 Chai Nat,2-2,0,2003,Leprosy
 Lop Buri,2-2,0,2003,Leprosy
 Saraburi,2-2,0,2003,Leprosy
 Sing Buri,2-2,0,2003,Leprosy
-Zone 6,2-2,0,2003,Leprosy
+Zone:6,2-2,0,2003,Leprosy
 Kanchanaburi,2-2,0,2003,Leprosy
 Nakhon Pathom,2-2,0,2003,Leprosy
 Ratchaburi,2-2,0,2003,Leprosy
 Suphan Buri,2-2,0,2003,Leprosy
-Zone 7,2-2,0,2003,Leprosy
+Zone:7,2-2,0,2003,Leprosy
 Phetchaburi,2-2,0,2003,Leprosy
 Prachuap Khiri Khan,2-2,0,2003,Leprosy
 Samut Sakhon,2-2,0,2003,Leprosy
 Samut Songkhram,2-2,0,2003,Leprosy
-Zone 8,2-2,0,2003,Leprosy
+Zone:8,2-2,0,2003,Leprosy
 Chachoengsao,2-2,0,2003,Leprosy
 Nakhon Nayok,2-2,0,2003,Leprosy
 Prachin Buri,2-2,0,2003,Leprosy
 Sa Kaeo,2-2,0,2003,Leprosy
 Samut Prakan,2-2,0,2003,Leprosy
-Zone 9,2-2,0,2003,Leprosy
+Zone:9,2-2,0,2003,Leprosy
 Chanthaburi,2-2,0,2003,Leprosy
 Chon Buri,2-2,0,2003,Leprosy
 Rayong,2-2,0,2003,Leprosy
 Trat,2-2,0,2003,Leprosy
 North-Eastern Region,2-2,0,2003,Leprosy
-Zone 10,2-2,0,2003,Leprosy
+Zone:10,2-2,0,2003,Leprosy
 Loei,2-2,0,2003,Leprosy
 Nong Bua Lam Phu,2-2,0,2003,Leprosy
 Nong Khai,2-2,0,2003,Leprosy
 Udon Thani,2-2,0,2003,Leprosy
-Zone 11,2-2,0,2003,Leprosy
+Zone:11,2-2,0,2003,Leprosy
 Kalasin,2-2,0,2003,Leprosy
 Mukdahan,2-2,0,2003,Leprosy
 Nakhon Phanom,2-2,0,2003,Leprosy
 Sakon Nakhon,2-2,0,2003,Leprosy
-Zone 12,2-2,0,2003,Leprosy
+Zone:12,2-2,0,2003,Leprosy
 Khon Kaen,2-2,0,2003,Leprosy
 Maha Sarakham,2-2,0,2003,Leprosy
 Roi Et,2-2,0,2003,Leprosy
-Zone 13,2-2,0,2003,Leprosy
+Zone:13,2-2,0,2003,Leprosy
 Buri Ram,2-2,0,2003,Leprosy
 Chaiyaphum,2-2,0,2003,Leprosy
 Nakhon Ratchasima,2-2,0,2003,Leprosy
 Surin,2-2,0,2003,Leprosy
-Zone 14,2-2,0,2003,Leprosy
+Zone:14,2-2,0,2003,Leprosy
 Amnat Charoen,2-2,0,2003,Leprosy
 Si Sa Ket,2-2,0,2003,Leprosy
 Ubon Ratchathani,2-2,0,2003,Leprosy
 Yasothon,2-2,0,2003,Leprosy
 South Region,2-2,0,2003,Leprosy
-Zone 15,2-2,0,2003,Leprosy
+Zone:15,2-2,0,2003,Leprosy
 Chumphon,2-2,0,2003,Leprosy
 Ranong,2-2,0,2003,Leprosy
 Surat Thani,2-2,0,2003,Leprosy
-Zone 16,2-2,0,2003,Leprosy
+Zone:16,2-2,0,2003,Leprosy
 Nakhon Si Thammarat,2-2,0,2003,Leprosy
 Phatthalung,2-2,0,2003,Leprosy
 Trang,2-2,0,2003,Leprosy
-Zone 17,2-2,0,2003,Leprosy
+Zone:17,2-2,0,2003,Leprosy
 Krabi,2-2,0,2003,Leprosy
 Phangnga,2-2,0,2003,Leprosy
 Phuket,2-2,0,2003,Leprosy
-Zone 18,2-2,0,2003,Leprosy
+Zone:18,2-2,0,2003,Leprosy
 Narathiwat,2-2,0,2003,Leprosy
 Pattani,2-2,0,2003,Leprosy
 Yala,2-2,0,2003,Leprosy
-Zone 19,2-2,0,2003,Leprosy
+Zone:19,2-2,0,2003,Leprosy
 Satun,2-2,0,2003,Leprosy
 Songkhla,2-2,0,2003,Leprosy
 Total,3-3,5,2003,Leprosy
 North Region,3-3,2,2003,Leprosy
-Zone 1,3-3,2,2003,Leprosy
+Zone:1,3-3,2,2003,Leprosy
 Chiang Mai,3-3,1,2003,Leprosy
 Chiang Rai,3-3,1,2003,Leprosy
 Lampang,3-3,0,2003,Leprosy
@@ -29652,98 +29652,98 @@ Mae Hong Son,3-3,0,2003,Leprosy
 Nan,3-3,0,2003,Leprosy
 Phayao,3-3,0,2003,Leprosy
 Phrae,3-3,0,2003,Leprosy
-Zone 2,3-3,0,2003,Leprosy
+Zone:2,3-3,0,2003,Leprosy
 Phetchabun,3-3,0,2003,Leprosy
 Phitsanulok,3-3,0,2003,Leprosy
 Sukhothai,3-3,0,2003,Leprosy
 Tak,3-3,0,2003,Leprosy
 Uttaradit,3-3,0,2003,Leprosy
-Zone 3,3-3,0,2003,Leprosy
+Zone:3,3-3,0,2003,Leprosy
 Kamphaeng Phet,3-3,0,2003,Leprosy
 Nakhon Sawan,3-3,0,2003,Leprosy
 Phichit,3-3,0,2003,Leprosy
 Uthai Thani,3-3,0,2003,Leprosy
 Central Region,3-3,1,2003,Leprosy
 Bangkok,3-3,1,2003,Leprosy
-Zone 4,3-3,0,2003,Leprosy
+Zone:4,3-3,0,2003,Leprosy
 Ang Thong,3-3,0,2003,Leprosy
 Nonthaburi,3-3,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,3-3,0,2003,Leprosy
 Pathum Thani,3-3,0,2003,Leprosy
-Zone 5,3-3,0,2003,Leprosy
+Zone:5,3-3,0,2003,Leprosy
 Chai Nat,3-3,0,2003,Leprosy
 Lop Buri,3-3,0,2003,Leprosy
 Saraburi,3-3,0,2003,Leprosy
 Sing Buri,3-3,0,2003,Leprosy
-Zone 6,3-3,0,2003,Leprosy
+Zone:6,3-3,0,2003,Leprosy
 Kanchanaburi,3-3,0,2003,Leprosy
 Nakhon Pathom,3-3,0,2003,Leprosy
 Ratchaburi,3-3,0,2003,Leprosy
 Suphan Buri,3-3,0,2003,Leprosy
-Zone 7,3-3,0,2003,Leprosy
+Zone:7,3-3,0,2003,Leprosy
 Phetchaburi,3-3,0,2003,Leprosy
 Prachuap Khiri Khan,3-3,0,2003,Leprosy
 Samut Sakhon,3-3,0,2003,Leprosy
 Samut Songkhram,3-3,0,2003,Leprosy
-Zone 8,3-3,0,2003,Leprosy
+Zone:8,3-3,0,2003,Leprosy
 Chachoengsao,3-3,0,2003,Leprosy
 Nakhon Nayok,3-3,0,2003,Leprosy
 Prachin Buri,3-3,0,2003,Leprosy
 Sa Kaeo,3-3,0,2003,Leprosy
 Samut Prakan,3-3,0,2003,Leprosy
-Zone 9,3-3,0,2003,Leprosy
+Zone:9,3-3,0,2003,Leprosy
 Chanthaburi,3-3,0,2003,Leprosy
 Chon Buri,3-3,0,2003,Leprosy
 Rayong,3-3,0,2003,Leprosy
 Trat,3-3,0,2003,Leprosy
 North-Eastern Region,3-3,2,2003,Leprosy
-Zone 10,3-3,0,2003,Leprosy
+Zone:10,3-3,0,2003,Leprosy
 Loei,3-3,0,2003,Leprosy
 Nong Bua Lam Phu,3-3,0,2003,Leprosy
 Nong Khai,3-3,0,2003,Leprosy
 Udon Thani,3-3,0,2003,Leprosy
-Zone 11,3-3,0,2003,Leprosy
+Zone:11,3-3,0,2003,Leprosy
 Kalasin,3-3,0,2003,Leprosy
 Mukdahan,3-3,0,2003,Leprosy
 Nakhon Phanom,3-3,0,2003,Leprosy
 Sakon Nakhon,3-3,0,2003,Leprosy
-Zone 12,3-3,0,2003,Leprosy
+Zone:12,3-3,0,2003,Leprosy
 Khon Kaen,3-3,0,2003,Leprosy
 Maha Sarakham,3-3,0,2003,Leprosy
 Roi Et,3-3,0,2003,Leprosy
-Zone 13,3-3,2,2003,Leprosy
+Zone:13,3-3,2,2003,Leprosy
 Buri Ram,3-3,0,2003,Leprosy
 Chaiyaphum,3-3,0,2003,Leprosy
 Nakhon Ratchasima,3-3,0,2003,Leprosy
 Surin,3-3,2,2003,Leprosy
-Zone 14,3-3,0,2003,Leprosy
+Zone:14,3-3,0,2003,Leprosy
 Amnat Charoen,3-3,0,2003,Leprosy
 Si Sa Ket,3-3,0,2003,Leprosy
 Ubon Ratchathani,3-3,0,2003,Leprosy
 Yasothon,3-3,0,2003,Leprosy
 South Region,3-3,0,2003,Leprosy
-Zone 15,3-3,0,2003,Leprosy
+Zone:15,3-3,0,2003,Leprosy
 Chumphon,3-3,0,2003,Leprosy
 Ranong,3-3,0,2003,Leprosy
 Surat Thani,3-3,0,2003,Leprosy
-Zone 16,3-3,0,2003,Leprosy
+Zone:16,3-3,0,2003,Leprosy
 Nakhon Si Thammarat,3-3,0,2003,Leprosy
 Phatthalung,3-3,0,2003,Leprosy
 Trang,3-3,0,2003,Leprosy
-Zone 17,3-3,0,2003,Leprosy
+Zone:17,3-3,0,2003,Leprosy
 Krabi,3-3,0,2003,Leprosy
 Phangnga,3-3,0,2003,Leprosy
 Phuket,3-3,0,2003,Leprosy
-Zone 18,3-3,0,2003,Leprosy
+Zone:18,3-3,0,2003,Leprosy
 Narathiwat,3-3,0,2003,Leprosy
 Pattani,3-3,0,2003,Leprosy
 Yala,3-3,0,2003,Leprosy
-Zone 19,3-3,0,2003,Leprosy
+Zone:19,3-3,0,2003,Leprosy
 Satun,3-3,0,2003,Leprosy
 Songkhla,3-3,0,2003,Leprosy
 Total,4-4,2,2003,Leprosy
 North Region,4-4,1,2003,Leprosy
-Zone 1,4-4,1,2003,Leprosy
+Zone:1,4-4,1,2003,Leprosy
 Chiang Mai,4-4,0,2003,Leprosy
 Chiang Rai,4-4,1,2003,Leprosy
 Lampang,4-4,0,2003,Leprosy
@@ -29752,98 +29752,98 @@ Mae Hong Son,4-4,0,2003,Leprosy
 Nan,4-4,0,2003,Leprosy
 Phayao,4-4,0,2003,Leprosy
 Phrae,4-4,0,2003,Leprosy
-Zone 2,4-4,0,2003,Leprosy
+Zone:2,4-4,0,2003,Leprosy
 Phetchabun,4-4,0,2003,Leprosy
 Phitsanulok,4-4,0,2003,Leprosy
 Sukhothai,4-4,0,2003,Leprosy
 Tak,4-4,0,2003,Leprosy
 Uttaradit,4-4,0,2003,Leprosy
-Zone 3,4-4,0,2003,Leprosy
+Zone:3,4-4,0,2003,Leprosy
 Kamphaeng Phet,4-4,0,2003,Leprosy
 Nakhon Sawan,4-4,0,2003,Leprosy
 Phichit,4-4,0,2003,Leprosy
 Uthai Thani,4-4,0,2003,Leprosy
 Central Region,4-4,0,2003,Leprosy
 Bangkok,4-4,0,2003,Leprosy
-Zone 4,4-4,0,2003,Leprosy
+Zone:4,4-4,0,2003,Leprosy
 Ang Thong,4-4,0,2003,Leprosy
 Nonthaburi,4-4,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,4-4,0,2003,Leprosy
 Pathum Thani,4-4,0,2003,Leprosy
-Zone 5,4-4,0,2003,Leprosy
+Zone:5,4-4,0,2003,Leprosy
 Chai Nat,4-4,0,2003,Leprosy
 Lop Buri,4-4,0,2003,Leprosy
 Saraburi,4-4,0,2003,Leprosy
 Sing Buri,4-4,0,2003,Leprosy
-Zone 6,4-4,0,2003,Leprosy
+Zone:6,4-4,0,2003,Leprosy
 Kanchanaburi,4-4,0,2003,Leprosy
 Nakhon Pathom,4-4,0,2003,Leprosy
 Ratchaburi,4-4,0,2003,Leprosy
 Suphan Buri,4-4,0,2003,Leprosy
-Zone 7,4-4,0,2003,Leprosy
+Zone:7,4-4,0,2003,Leprosy
 Phetchaburi,4-4,0,2003,Leprosy
 Prachuap Khiri Khan,4-4,0,2003,Leprosy
 Samut Sakhon,4-4,0,2003,Leprosy
 Samut Songkhram,4-4,0,2003,Leprosy
-Zone 8,4-4,0,2003,Leprosy
+Zone:8,4-4,0,2003,Leprosy
 Chachoengsao,4-4,0,2003,Leprosy
 Nakhon Nayok,4-4,0,2003,Leprosy
 Prachin Buri,4-4,0,2003,Leprosy
 Sa Kaeo,4-4,0,2003,Leprosy
 Samut Prakan,4-4,0,2003,Leprosy
-Zone 9,4-4,0,2003,Leprosy
+Zone:9,4-4,0,2003,Leprosy
 Chanthaburi,4-4,0,2003,Leprosy
 Chon Buri,4-4,0,2003,Leprosy
 Rayong,4-4,0,2003,Leprosy
 Trat,4-4,0,2003,Leprosy
 North-Eastern Region,4-4,1,2003,Leprosy
-Zone 10,4-4,0,2003,Leprosy
+Zone:10,4-4,0,2003,Leprosy
 Loei,4-4,0,2003,Leprosy
 Nong Bua Lam Phu,4-4,0,2003,Leprosy
 Nong Khai,4-4,0,2003,Leprosy
 Udon Thani,4-4,0,2003,Leprosy
-Zone 11,4-4,0,2003,Leprosy
+Zone:11,4-4,0,2003,Leprosy
 Kalasin,4-4,0,2003,Leprosy
 Mukdahan,4-4,0,2003,Leprosy
 Nakhon Phanom,4-4,0,2003,Leprosy
 Sakon Nakhon,4-4,0,2003,Leprosy
-Zone 12,4-4,0,2003,Leprosy
+Zone:12,4-4,0,2003,Leprosy
 Khon Kaen,4-4,0,2003,Leprosy
 Maha Sarakham,4-4,0,2003,Leprosy
 Roi Et,4-4,0,2003,Leprosy
-Zone 13,4-4,1,2003,Leprosy
+Zone:13,4-4,1,2003,Leprosy
 Buri Ram,4-4,0,2003,Leprosy
 Chaiyaphum,4-4,0,2003,Leprosy
 Nakhon Ratchasima,4-4,1,2003,Leprosy
 Surin,4-4,0,2003,Leprosy
-Zone 14,4-4,0,2003,Leprosy
+Zone:14,4-4,0,2003,Leprosy
 Amnat Charoen,4-4,0,2003,Leprosy
 Si Sa Ket,4-4,0,2003,Leprosy
 Ubon Ratchathani,4-4,0,2003,Leprosy
 Yasothon,4-4,0,2003,Leprosy
 South Region,4-4,0,2003,Leprosy
-Zone 15,4-4,0,2003,Leprosy
+Zone:15,4-4,0,2003,Leprosy
 Chumphon,4-4,0,2003,Leprosy
 Ranong,4-4,0,2003,Leprosy
 Surat Thani,4-4,0,2003,Leprosy
-Zone 16,4-4,0,2003,Leprosy
+Zone:16,4-4,0,2003,Leprosy
 Nakhon Si Thammarat,4-4,0,2003,Leprosy
 Phatthalung,4-4,0,2003,Leprosy
 Trang,4-4,0,2003,Leprosy
-Zone 17,4-4,0,2003,Leprosy
+Zone:17,4-4,0,2003,Leprosy
 Krabi,4-4,0,2003,Leprosy
 Phangnga,4-4,0,2003,Leprosy
 Phuket,4-4,0,2003,Leprosy
-Zone 18,4-4,0,2003,Leprosy
+Zone:18,4-4,0,2003,Leprosy
 Narathiwat,4-4,0,2003,Leprosy
 Pattani,4-4,0,2003,Leprosy
 Yala,4-4,0,2003,Leprosy
-Zone 19,4-4,0,2003,Leprosy
+Zone:19,4-4,0,2003,Leprosy
 Satun,4-4,0,2003,Leprosy
 Songkhla,4-4,0,2003,Leprosy
 Total,5-5,0,2003,Leprosy
 North Region,5-5,0,2003,Leprosy
-Zone 1,5-5,0,2003,Leprosy
+Zone:1,5-5,0,2003,Leprosy
 Chiang Mai,5-5,0,2003,Leprosy
 Chiang Rai,5-5,0,2003,Leprosy
 Lampang,5-5,0,2003,Leprosy
@@ -29852,98 +29852,98 @@ Mae Hong Son,5-5,0,2003,Leprosy
 Nan,5-5,0,2003,Leprosy
 Phayao,5-5,0,2003,Leprosy
 Phrae,5-5,0,2003,Leprosy
-Zone 2,5-5,0,2003,Leprosy
+Zone:2,5-5,0,2003,Leprosy
 Phetchabun,5-5,0,2003,Leprosy
 Phitsanulok,5-5,0,2003,Leprosy
 Sukhothai,5-5,0,2003,Leprosy
 Tak,5-5,0,2003,Leprosy
 Uttaradit,5-5,0,2003,Leprosy
-Zone 3,5-5,0,2003,Leprosy
+Zone:3,5-5,0,2003,Leprosy
 Kamphaeng Phet,5-5,0,2003,Leprosy
 Nakhon Sawan,5-5,0,2003,Leprosy
 Phichit,5-5,0,2003,Leprosy
 Uthai Thani,5-5,0,2003,Leprosy
 Central Region,5-5,0,2003,Leprosy
 Bangkok,5-5,0,2003,Leprosy
-Zone 4,5-5,0,2003,Leprosy
+Zone:4,5-5,0,2003,Leprosy
 Ang Thong,5-5,0,2003,Leprosy
 Nonthaburi,5-5,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,5-5,0,2003,Leprosy
 Pathum Thani,5-5,0,2003,Leprosy
-Zone 5,5-5,0,2003,Leprosy
+Zone:5,5-5,0,2003,Leprosy
 Chai Nat,5-5,0,2003,Leprosy
 Lop Buri,5-5,0,2003,Leprosy
 Saraburi,5-5,0,2003,Leprosy
 Sing Buri,5-5,0,2003,Leprosy
-Zone 6,5-5,0,2003,Leprosy
+Zone:6,5-5,0,2003,Leprosy
 Kanchanaburi,5-5,0,2003,Leprosy
 Nakhon Pathom,5-5,0,2003,Leprosy
 Ratchaburi,5-5,0,2003,Leprosy
 Suphan Buri,5-5,0,2003,Leprosy
-Zone 7,5-5,0,2003,Leprosy
+Zone:7,5-5,0,2003,Leprosy
 Phetchaburi,5-5,0,2003,Leprosy
 Prachuap Khiri Khan,5-5,0,2003,Leprosy
 Samut Sakhon,5-5,0,2003,Leprosy
 Samut Songkhram,5-5,0,2003,Leprosy
-Zone 8,5-5,0,2003,Leprosy
+Zone:8,5-5,0,2003,Leprosy
 Chachoengsao,5-5,0,2003,Leprosy
 Nakhon Nayok,5-5,0,2003,Leprosy
 Prachin Buri,5-5,0,2003,Leprosy
 Sa Kaeo,5-5,0,2003,Leprosy
 Samut Prakan,5-5,0,2003,Leprosy
-Zone 9,5-5,0,2003,Leprosy
+Zone:9,5-5,0,2003,Leprosy
 Chanthaburi,5-5,0,2003,Leprosy
 Chon Buri,5-5,0,2003,Leprosy
 Rayong,5-5,0,2003,Leprosy
 Trat,5-5,0,2003,Leprosy
 North-Eastern Region,5-5,0,2003,Leprosy
-Zone 10,5-5,0,2003,Leprosy
+Zone:10,5-5,0,2003,Leprosy
 Loei,5-5,0,2003,Leprosy
 Nong Bua Lam Phu,5-5,0,2003,Leprosy
 Nong Khai,5-5,0,2003,Leprosy
 Udon Thani,5-5,0,2003,Leprosy
-Zone 11,5-5,0,2003,Leprosy
+Zone:11,5-5,0,2003,Leprosy
 Kalasin,5-5,0,2003,Leprosy
 Mukdahan,5-5,0,2003,Leprosy
 Nakhon Phanom,5-5,0,2003,Leprosy
 Sakon Nakhon,5-5,0,2003,Leprosy
-Zone 12,5-5,0,2003,Leprosy
+Zone:12,5-5,0,2003,Leprosy
 Khon Kaen,5-5,0,2003,Leprosy
 Maha Sarakham,5-5,0,2003,Leprosy
 Roi Et,5-5,0,2003,Leprosy
-Zone 13,5-5,0,2003,Leprosy
+Zone:13,5-5,0,2003,Leprosy
 Buri Ram,5-5,0,2003,Leprosy
 Chaiyaphum,5-5,0,2003,Leprosy
 Nakhon Ratchasima,5-5,0,2003,Leprosy
 Surin,5-5,0,2003,Leprosy
-Zone 14,5-5,0,2003,Leprosy
+Zone:14,5-5,0,2003,Leprosy
 Amnat Charoen,5-5,0,2003,Leprosy
 Si Sa Ket,5-5,0,2003,Leprosy
 Ubon Ratchathani,5-5,0,2003,Leprosy
 Yasothon,5-5,0,2003,Leprosy
 South Region,5-5,0,2003,Leprosy
-Zone 15,5-5,0,2003,Leprosy
+Zone:15,5-5,0,2003,Leprosy
 Chumphon,5-5,0,2003,Leprosy
 Ranong,5-5,0,2003,Leprosy
 Surat Thani,5-5,0,2003,Leprosy
-Zone 16,5-5,0,2003,Leprosy
+Zone:16,5-5,0,2003,Leprosy
 Nakhon Si Thammarat,5-5,0,2003,Leprosy
 Phatthalung,5-5,0,2003,Leprosy
 Trang,5-5,0,2003,Leprosy
-Zone 17,5-5,0,2003,Leprosy
+Zone:17,5-5,0,2003,Leprosy
 Krabi,5-5,0,2003,Leprosy
 Phangnga,5-5,0,2003,Leprosy
 Phuket,5-5,0,2003,Leprosy
-Zone 18,5-5,0,2003,Leprosy
+Zone:18,5-5,0,2003,Leprosy
 Narathiwat,5-5,0,2003,Leprosy
 Pattani,5-5,0,2003,Leprosy
 Yala,5-5,0,2003,Leprosy
-Zone 19,5-5,0,2003,Leprosy
+Zone:19,5-5,0,2003,Leprosy
 Satun,5-5,0,2003,Leprosy
 Songkhla,5-5,0,2003,Leprosy
 Total,6-6,0,2003,Leprosy
 North Region,6-6,0,2003,Leprosy
-Zone 1,6-6,0,2003,Leprosy
+Zone:1,6-6,0,2003,Leprosy
 Chiang Mai,6-6,0,2003,Leprosy
 Chiang Rai,6-6,0,2003,Leprosy
 Lampang,6-6,0,2003,Leprosy
@@ -29952,98 +29952,98 @@ Mae Hong Son,6-6,0,2003,Leprosy
 Nan,6-6,0,2003,Leprosy
 Phayao,6-6,0,2003,Leprosy
 Phrae,6-6,0,2003,Leprosy
-Zone 2,6-6,0,2003,Leprosy
+Zone:2,6-6,0,2003,Leprosy
 Phetchabun,6-6,0,2003,Leprosy
 Phitsanulok,6-6,0,2003,Leprosy
 Sukhothai,6-6,0,2003,Leprosy
 Tak,6-6,0,2003,Leprosy
 Uttaradit,6-6,0,2003,Leprosy
-Zone 3,6-6,0,2003,Leprosy
+Zone:3,6-6,0,2003,Leprosy
 Kamphaeng Phet,6-6,0,2003,Leprosy
 Nakhon Sawan,6-6,0,2003,Leprosy
 Phichit,6-6,0,2003,Leprosy
 Uthai Thani,6-6,0,2003,Leprosy
 Central Region,6-6,0,2003,Leprosy
 Bangkok,6-6,0,2003,Leprosy
-Zone 4,6-6,0,2003,Leprosy
+Zone:4,6-6,0,2003,Leprosy
 Ang Thong,6-6,0,2003,Leprosy
 Nonthaburi,6-6,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,6-6,0,2003,Leprosy
 Pathum Thani,6-6,0,2003,Leprosy
-Zone 5,6-6,0,2003,Leprosy
+Zone:5,6-6,0,2003,Leprosy
 Chai Nat,6-6,0,2003,Leprosy
 Lop Buri,6-6,0,2003,Leprosy
 Saraburi,6-6,0,2003,Leprosy
 Sing Buri,6-6,0,2003,Leprosy
-Zone 6,6-6,0,2003,Leprosy
+Zone:6,6-6,0,2003,Leprosy
 Kanchanaburi,6-6,0,2003,Leprosy
 Nakhon Pathom,6-6,0,2003,Leprosy
 Ratchaburi,6-6,0,2003,Leprosy
 Suphan Buri,6-6,0,2003,Leprosy
-Zone 7,6-6,0,2003,Leprosy
+Zone:7,6-6,0,2003,Leprosy
 Phetchaburi,6-6,0,2003,Leprosy
 Prachuap Khiri Khan,6-6,0,2003,Leprosy
 Samut Sakhon,6-6,0,2003,Leprosy
 Samut Songkhram,6-6,0,2003,Leprosy
-Zone 8,6-6,0,2003,Leprosy
+Zone:8,6-6,0,2003,Leprosy
 Chachoengsao,6-6,0,2003,Leprosy
 Nakhon Nayok,6-6,0,2003,Leprosy
 Prachin Buri,6-6,0,2003,Leprosy
 Sa Kaeo,6-6,0,2003,Leprosy
 Samut Prakan,6-6,0,2003,Leprosy
-Zone 9,6-6,0,2003,Leprosy
+Zone:9,6-6,0,2003,Leprosy
 Chanthaburi,6-6,0,2003,Leprosy
 Chon Buri,6-6,0,2003,Leprosy
 Rayong,6-6,0,2003,Leprosy
 Trat,6-6,0,2003,Leprosy
 North-Eastern Region,6-6,0,2003,Leprosy
-Zone 10,6-6,0,2003,Leprosy
+Zone:10,6-6,0,2003,Leprosy
 Loei,6-6,0,2003,Leprosy
 Nong Bua Lam Phu,6-6,0,2003,Leprosy
 Nong Khai,6-6,0,2003,Leprosy
 Udon Thani,6-6,0,2003,Leprosy
-Zone 11,6-6,0,2003,Leprosy
+Zone:11,6-6,0,2003,Leprosy
 Kalasin,6-6,0,2003,Leprosy
 Mukdahan,6-6,0,2003,Leprosy
 Nakhon Phanom,6-6,0,2003,Leprosy
 Sakon Nakhon,6-6,0,2003,Leprosy
-Zone 12,6-6,0,2003,Leprosy
+Zone:12,6-6,0,2003,Leprosy
 Khon Kaen,6-6,0,2003,Leprosy
 Maha Sarakham,6-6,0,2003,Leprosy
 Roi Et,6-6,0,2003,Leprosy
-Zone 13,6-6,0,2003,Leprosy
+Zone:13,6-6,0,2003,Leprosy
 Buri Ram,6-6,0,2003,Leprosy
 Chaiyaphum,6-6,0,2003,Leprosy
 Nakhon Ratchasima,6-6,0,2003,Leprosy
 Surin,6-6,0,2003,Leprosy
-Zone 14,6-6,0,2003,Leprosy
+Zone:14,6-6,0,2003,Leprosy
 Amnat Charoen,6-6,0,2003,Leprosy
 Si Sa Ket,6-6,0,2003,Leprosy
 Ubon Ratchathani,6-6,0,2003,Leprosy
 Yasothon,6-6,0,2003,Leprosy
 South Region,6-6,0,2003,Leprosy
-Zone 15,6-6,0,2003,Leprosy
+Zone:15,6-6,0,2003,Leprosy
 Chumphon,6-6,0,2003,Leprosy
 Ranong,6-6,0,2003,Leprosy
 Surat Thani,6-6,0,2003,Leprosy
-Zone 16,6-6,0,2003,Leprosy
+Zone:16,6-6,0,2003,Leprosy
 Nakhon Si Thammarat,6-6,0,2003,Leprosy
 Phatthalung,6-6,0,2003,Leprosy
 Trang,6-6,0,2003,Leprosy
-Zone 17,6-6,0,2003,Leprosy
+Zone:17,6-6,0,2003,Leprosy
 Krabi,6-6,0,2003,Leprosy
 Phangnga,6-6,0,2003,Leprosy
 Phuket,6-6,0,2003,Leprosy
-Zone 18,6-6,0,2003,Leprosy
+Zone:18,6-6,0,2003,Leprosy
 Narathiwat,6-6,0,2003,Leprosy
 Pattani,6-6,0,2003,Leprosy
 Yala,6-6,0,2003,Leprosy
-Zone 19,6-6,0,2003,Leprosy
+Zone:19,6-6,0,2003,Leprosy
 Satun,6-6,0,2003,Leprosy
 Songkhla,6-6,0,2003,Leprosy
 Total,7-9,8,2003,Leprosy
 North Region,7-9,1,2003,Leprosy
-Zone 1,7-9,0,2003,Leprosy
+Zone:1,7-9,0,2003,Leprosy
 Chiang Mai,7-9,0,2003,Leprosy
 Chiang Rai,7-9,0,2003,Leprosy
 Lampang,7-9,0,2003,Leprosy
@@ -30052,98 +30052,98 @@ Mae Hong Son,7-9,0,2003,Leprosy
 Nan,7-9,0,2003,Leprosy
 Phayao,7-9,0,2003,Leprosy
 Phrae,7-9,0,2003,Leprosy
-Zone 2,7-9,0,2003,Leprosy
+Zone:2,7-9,0,2003,Leprosy
 Phetchabun,7-9,0,2003,Leprosy
 Phitsanulok,7-9,0,2003,Leprosy
 Sukhothai,7-9,0,2003,Leprosy
 Tak,7-9,0,2003,Leprosy
 Uttaradit,7-9,0,2003,Leprosy
-Zone 3,7-9,1,2003,Leprosy
+Zone:3,7-9,1,2003,Leprosy
 Kamphaeng Phet,7-9,1,2003,Leprosy
 Nakhon Sawan,7-9,0,2003,Leprosy
 Phichit,7-9,0,2003,Leprosy
 Uthai Thani,7-9,0,2003,Leprosy
 Central Region,7-9,2,2003,Leprosy
 Bangkok,7-9,0,2003,Leprosy
-Zone 4,7-9,0,2003,Leprosy
+Zone:4,7-9,0,2003,Leprosy
 Ang Thong,7-9,0,2003,Leprosy
 Nonthaburi,7-9,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,7-9,0,2003,Leprosy
 Pathum Thani,7-9,0,2003,Leprosy
-Zone 5,7-9,0,2003,Leprosy
+Zone:5,7-9,0,2003,Leprosy
 Chai Nat,7-9,0,2003,Leprosy
 Lop Buri,7-9,0,2003,Leprosy
 Saraburi,7-9,0,2003,Leprosy
 Sing Buri,7-9,0,2003,Leprosy
-Zone 6,7-9,0,2003,Leprosy
+Zone:6,7-9,0,2003,Leprosy
 Kanchanaburi,7-9,0,2003,Leprosy
 Nakhon Pathom,7-9,0,2003,Leprosy
 Ratchaburi,7-9,0,2003,Leprosy
 Suphan Buri,7-9,0,2003,Leprosy
-Zone 7,7-9,0,2003,Leprosy
+Zone:7,7-9,0,2003,Leprosy
 Phetchaburi,7-9,0,2003,Leprosy
 Prachuap Khiri Khan,7-9,0,2003,Leprosy
 Samut Sakhon,7-9,0,2003,Leprosy
 Samut Songkhram,7-9,0,2003,Leprosy
-Zone 8,7-9,1,2003,Leprosy
+Zone:8,7-9,1,2003,Leprosy
 Chachoengsao,7-9,0,2003,Leprosy
 Nakhon Nayok,7-9,1,2003,Leprosy
 Prachin Buri,7-9,0,2003,Leprosy
 Sa Kaeo,7-9,0,2003,Leprosy
 Samut Prakan,7-9,0,2003,Leprosy
-Zone 9,7-9,1,2003,Leprosy
+Zone:9,7-9,1,2003,Leprosy
 Chanthaburi,7-9,0,2003,Leprosy
 Chon Buri,7-9,1,2003,Leprosy
 Rayong,7-9,0,2003,Leprosy
 Trat,7-9,0,2003,Leprosy
 North-Eastern Region,7-9,5,2003,Leprosy
-Zone 10,7-9,0,2003,Leprosy
+Zone:10,7-9,0,2003,Leprosy
 Loei,7-9,0,2003,Leprosy
 Nong Bua Lam Phu,7-9,0,2003,Leprosy
 Nong Khai,7-9,0,2003,Leprosy
 Udon Thani,7-9,0,2003,Leprosy
-Zone 11,7-9,0,2003,Leprosy
+Zone:11,7-9,0,2003,Leprosy
 Kalasin,7-9,0,2003,Leprosy
 Mukdahan,7-9,0,2003,Leprosy
 Nakhon Phanom,7-9,0,2003,Leprosy
 Sakon Nakhon,7-9,0,2003,Leprosy
-Zone 12,7-9,0,2003,Leprosy
+Zone:12,7-9,0,2003,Leprosy
 Khon Kaen,7-9,0,2003,Leprosy
 Maha Sarakham,7-9,0,2003,Leprosy
 Roi Et,7-9,0,2003,Leprosy
-Zone 13,7-9,2,2003,Leprosy
+Zone:13,7-9,2,2003,Leprosy
 Buri Ram,7-9,0,2003,Leprosy
 Chaiyaphum,7-9,1,2003,Leprosy
 Nakhon Ratchasima,7-9,1,2003,Leprosy
 Surin,7-9,0,2003,Leprosy
-Zone 14,7-9,3,2003,Leprosy
+Zone:14,7-9,3,2003,Leprosy
 Amnat Charoen,7-9,1,2003,Leprosy
 Si Sa Ket,7-9,2,2003,Leprosy
 Ubon Ratchathani,7-9,0,2003,Leprosy
 Yasothon,7-9,0,2003,Leprosy
 South Region,7-9,0,2003,Leprosy
-Zone 15,7-9,0,2003,Leprosy
+Zone:15,7-9,0,2003,Leprosy
 Chumphon,7-9,0,2003,Leprosy
 Ranong,7-9,0,2003,Leprosy
 Surat Thani,7-9,0,2003,Leprosy
-Zone 16,7-9,0,2003,Leprosy
+Zone:16,7-9,0,2003,Leprosy
 Nakhon Si Thammarat,7-9,0,2003,Leprosy
 Phatthalung,7-9,0,2003,Leprosy
 Trang,7-9,0,2003,Leprosy
-Zone 17,7-9,0,2003,Leprosy
+Zone:17,7-9,0,2003,Leprosy
 Krabi,7-9,0,2003,Leprosy
 Phangnga,7-9,0,2003,Leprosy
 Phuket,7-9,0,2003,Leprosy
-Zone 18,7-9,0,2003,Leprosy
+Zone:18,7-9,0,2003,Leprosy
 Narathiwat,7-9,0,2003,Leprosy
 Pattani,7-9,0,2003,Leprosy
 Yala,7-9,0,2003,Leprosy
-Zone 19,7-9,0,2003,Leprosy
+Zone:19,7-9,0,2003,Leprosy
 Satun,7-9,0,2003,Leprosy
 Songkhla,7-9,0,2003,Leprosy
 Total,10-14,12,2003,Leprosy
 North Region,10-14,1,2003,Leprosy
-Zone 1,10-14,1,2003,Leprosy
+Zone:1,10-14,1,2003,Leprosy
 Chiang Mai,10-14,1,2003,Leprosy
 Chiang Rai,10-14,0,2003,Leprosy
 Lampang,10-14,0,2003,Leprosy
@@ -30152,98 +30152,98 @@ Mae Hong Son,10-14,0,2003,Leprosy
 Nan,10-14,0,2003,Leprosy
 Phayao,10-14,0,2003,Leprosy
 Phrae,10-14,0,2003,Leprosy
-Zone 2,10-14,0,2003,Leprosy
+Zone:2,10-14,0,2003,Leprosy
 Phetchabun,10-14,0,2003,Leprosy
 Phitsanulok,10-14,0,2003,Leprosy
 Sukhothai,10-14,0,2003,Leprosy
 Tak,10-14,0,2003,Leprosy
 Uttaradit,10-14,0,2003,Leprosy
-Zone 3,10-14,0,2003,Leprosy
+Zone:3,10-14,0,2003,Leprosy
 Kamphaeng Phet,10-14,0,2003,Leprosy
 Nakhon Sawan,10-14,0,2003,Leprosy
 Phichit,10-14,0,2003,Leprosy
 Uthai Thani,10-14,0,2003,Leprosy
 Central Region,10-14,2,2003,Leprosy
 Bangkok,10-14,1,2003,Leprosy
-Zone 4,10-14,0,2003,Leprosy
+Zone:4,10-14,0,2003,Leprosy
 Ang Thong,10-14,0,2003,Leprosy
 Nonthaburi,10-14,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,10-14,0,2003,Leprosy
 Pathum Thani,10-14,0,2003,Leprosy
-Zone 5,10-14,0,2003,Leprosy
+Zone:5,10-14,0,2003,Leprosy
 Chai Nat,10-14,0,2003,Leprosy
 Lop Buri,10-14,0,2003,Leprosy
 Saraburi,10-14,0,2003,Leprosy
 Sing Buri,10-14,0,2003,Leprosy
-Zone 6,10-14,0,2003,Leprosy
+Zone:6,10-14,0,2003,Leprosy
 Kanchanaburi,10-14,0,2003,Leprosy
 Nakhon Pathom,10-14,0,2003,Leprosy
 Ratchaburi,10-14,0,2003,Leprosy
 Suphan Buri,10-14,0,2003,Leprosy
-Zone 7,10-14,0,2003,Leprosy
+Zone:7,10-14,0,2003,Leprosy
 Phetchaburi,10-14,0,2003,Leprosy
 Prachuap Khiri Khan,10-14,0,2003,Leprosy
 Samut Sakhon,10-14,0,2003,Leprosy
 Samut Songkhram,10-14,0,2003,Leprosy
-Zone 8,10-14,1,2003,Leprosy
+Zone:8,10-14,1,2003,Leprosy
 Chachoengsao,10-14,0,2003,Leprosy
 Nakhon Nayok,10-14,0,2003,Leprosy
 Prachin Buri,10-14,0,2003,Leprosy
 Sa Kaeo,10-14,1,2003,Leprosy
 Samut Prakan,10-14,0,2003,Leprosy
-Zone 9,10-14,0,2003,Leprosy
+Zone:9,10-14,0,2003,Leprosy
 Chanthaburi,10-14,0,2003,Leprosy
 Chon Buri,10-14,0,2003,Leprosy
 Rayong,10-14,0,2003,Leprosy
 Trat,10-14,0,2003,Leprosy
 North-Eastern Region,10-14,7,2003,Leprosy
-Zone 10,10-14,0,2003,Leprosy
+Zone:10,10-14,0,2003,Leprosy
 Loei,10-14,0,2003,Leprosy
 Nong Bua Lam Phu,10-14,0,2003,Leprosy
 Nong Khai,10-14,0,2003,Leprosy
 Udon Thani,10-14,0,2003,Leprosy
-Zone 11,10-14,0,2003,Leprosy
+Zone:11,10-14,0,2003,Leprosy
 Kalasin,10-14,0,2003,Leprosy
 Mukdahan,10-14,0,2003,Leprosy
 Nakhon Phanom,10-14,0,2003,Leprosy
 Sakon Nakhon,10-14,0,2003,Leprosy
-Zone 12,10-14,1,2003,Leprosy
+Zone:12,10-14,1,2003,Leprosy
 Khon Kaen,10-14,0,2003,Leprosy
 Maha Sarakham,10-14,1,2003,Leprosy
 Roi Et,10-14,0,2003,Leprosy
-Zone 13,10-14,0,2003,Leprosy
+Zone:13,10-14,0,2003,Leprosy
 Buri Ram,10-14,0,2003,Leprosy
 Chaiyaphum,10-14,0,2003,Leprosy
 Nakhon Ratchasima,10-14,0,2003,Leprosy
 Surin,10-14,0,2003,Leprosy
-Zone 14,10-14,6,2003,Leprosy
+Zone:14,10-14,6,2003,Leprosy
 Amnat Charoen,10-14,0,2003,Leprosy
 Si Sa Ket,10-14,6,2003,Leprosy
 Ubon Ratchathani,10-14,0,2003,Leprosy
 Yasothon,10-14,0,2003,Leprosy
 South Region,10-14,2,2003,Leprosy
-Zone 15,10-14,0,2003,Leprosy
+Zone:15,10-14,0,2003,Leprosy
 Chumphon,10-14,0,2003,Leprosy
 Ranong,10-14,0,2003,Leprosy
 Surat Thani,10-14,0,2003,Leprosy
-Zone 16,10-14,0,2003,Leprosy
+Zone:16,10-14,0,2003,Leprosy
 Nakhon Si Thammarat,10-14,0,2003,Leprosy
 Phatthalung,10-14,0,2003,Leprosy
 Trang,10-14,0,2003,Leprosy
-Zone 17,10-14,0,2003,Leprosy
+Zone:17,10-14,0,2003,Leprosy
 Krabi,10-14,0,2003,Leprosy
 Phangnga,10-14,0,2003,Leprosy
 Phuket,10-14,0,2003,Leprosy
-Zone 18,10-14,2,2003,Leprosy
+Zone:18,10-14,2,2003,Leprosy
 Narathiwat,10-14,0,2003,Leprosy
 Pattani,10-14,2,2003,Leprosy
 Yala,10-14,0,2003,Leprosy
-Zone 19,10-14,0,2003,Leprosy
+Zone:19,10-14,0,2003,Leprosy
 Satun,10-14,0,2003,Leprosy
 Songkhla,10-14,0,2003,Leprosy
 Total,15-24,48,2003,Leprosy
 North Region,15-24,6,2003,Leprosy
-Zone 1,15-24,4,2003,Leprosy
+Zone:1,15-24,4,2003,Leprosy
 Chiang Mai,15-24,2,2003,Leprosy
 Chiang Rai,15-24,0,2003,Leprosy
 Lampang,15-24,0,2003,Leprosy
@@ -30252,98 +30252,98 @@ Mae Hong Son,15-24,1,2003,Leprosy
 Nan,15-24,0,2003,Leprosy
 Phayao,15-24,1,2003,Leprosy
 Phrae,15-24,0,2003,Leprosy
-Zone 2,15-24,1,2003,Leprosy
+Zone:2,15-24,1,2003,Leprosy
 Phetchabun,15-24,0,2003,Leprosy
 Phitsanulok,15-24,1,2003,Leprosy
 Sukhothai,15-24,0,2003,Leprosy
 Tak,15-24,0,2003,Leprosy
 Uttaradit,15-24,0,2003,Leprosy
-Zone 3,15-24,1,2003,Leprosy
+Zone:3,15-24,1,2003,Leprosy
 Kamphaeng Phet,15-24,0,2003,Leprosy
 Nakhon Sawan,15-24,0,2003,Leprosy
 Phichit,15-24,1,2003,Leprosy
 Uthai Thani,15-24,0,2003,Leprosy
 Central Region,15-24,5,2003,Leprosy
 Bangkok,15-24,1,2003,Leprosy
-Zone 4,15-24,1,2003,Leprosy
+Zone:4,15-24,1,2003,Leprosy
 Ang Thong,15-24,0,2003,Leprosy
 Nonthaburi,15-24,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,15-24,0,2003,Leprosy
 Pathum Thani,15-24,1,2003,Leprosy
-Zone 5,15-24,0,2003,Leprosy
+Zone:5,15-24,0,2003,Leprosy
 Chai Nat,15-24,0,2003,Leprosy
 Lop Buri,15-24,0,2003,Leprosy
 Saraburi,15-24,0,2003,Leprosy
 Sing Buri,15-24,0,2003,Leprosy
-Zone 6,15-24,0,2003,Leprosy
+Zone:6,15-24,0,2003,Leprosy
 Kanchanaburi,15-24,0,2003,Leprosy
 Nakhon Pathom,15-24,0,2003,Leprosy
 Ratchaburi,15-24,0,2003,Leprosy
 Suphan Buri,15-24,0,2003,Leprosy
-Zone 7,15-24,0,2003,Leprosy
+Zone:7,15-24,0,2003,Leprosy
 Phetchaburi,15-24,0,2003,Leprosy
 Prachuap Khiri Khan,15-24,0,2003,Leprosy
 Samut Sakhon,15-24,0,2003,Leprosy
 Samut Songkhram,15-24,0,2003,Leprosy
-Zone 8,15-24,1,2003,Leprosy
+Zone:8,15-24,1,2003,Leprosy
 Chachoengsao,15-24,0,2003,Leprosy
 Nakhon Nayok,15-24,0,2003,Leprosy
 Prachin Buri,15-24,1,2003,Leprosy
 Sa Kaeo,15-24,0,2003,Leprosy
 Samut Prakan,15-24,0,2003,Leprosy
-Zone 9,15-24,2,2003,Leprosy
+Zone:9,15-24,2,2003,Leprosy
 Chanthaburi,15-24,1,2003,Leprosy
 Chon Buri,15-24,0,2003,Leprosy
 Rayong,15-24,1,2003,Leprosy
 Trat,15-24,0,2003,Leprosy
 North-Eastern Region,15-24,33,2003,Leprosy
-Zone 10,15-24,3,2003,Leprosy
+Zone:10,15-24,3,2003,Leprosy
 Loei,15-24,0,2003,Leprosy
 Nong Bua Lam Phu,15-24,3,2003,Leprosy
 Nong Khai,15-24,0,2003,Leprosy
 Udon Thani,15-24,0,2003,Leprosy
-Zone 11,15-24,3,2003,Leprosy
+Zone:11,15-24,3,2003,Leprosy
 Kalasin,15-24,2,2003,Leprosy
 Mukdahan,15-24,0,2003,Leprosy
 Nakhon Phanom,15-24,0,2003,Leprosy
 Sakon Nakhon,15-24,1,2003,Leprosy
-Zone 12,15-24,0,2003,Leprosy
+Zone:12,15-24,0,2003,Leprosy
 Khon Kaen,15-24,0,2003,Leprosy
 Maha Sarakham,15-24,0,2003,Leprosy
 Roi Et,15-24,0,2003,Leprosy
-Zone 13,15-24,11,2003,Leprosy
+Zone:13,15-24,11,2003,Leprosy
 Buri Ram,15-24,1,2003,Leprosy
 Chaiyaphum,15-24,1,2003,Leprosy
 Nakhon Ratchasima,15-24,5,2003,Leprosy
 Surin,15-24,4,2003,Leprosy
-Zone 14,15-24,16,2003,Leprosy
+Zone:14,15-24,16,2003,Leprosy
 Amnat Charoen,15-24,1,2003,Leprosy
 Si Sa Ket,15-24,12,2003,Leprosy
 Ubon Ratchathani,15-24,1,2003,Leprosy
 Yasothon,15-24,2,2003,Leprosy
 South Region,15-24,4,2003,Leprosy
-Zone 15,15-24,3,2003,Leprosy
+Zone:15,15-24,3,2003,Leprosy
 Chumphon,15-24,0,2003,Leprosy
 Ranong,15-24,0,2003,Leprosy
 Surat Thani,15-24,3,2003,Leprosy
-Zone 16,15-24,0,2003,Leprosy
+Zone:16,15-24,0,2003,Leprosy
 Nakhon Si Thammarat,15-24,0,2003,Leprosy
 Phatthalung,15-24,0,2003,Leprosy
 Trang,15-24,0,2003,Leprosy
-Zone 17,15-24,0,2003,Leprosy
+Zone:17,15-24,0,2003,Leprosy
 Krabi,15-24,0,2003,Leprosy
 Phangnga,15-24,0,2003,Leprosy
 Phuket,15-24,0,2003,Leprosy
-Zone 18,15-24,1,2003,Leprosy
+Zone:18,15-24,1,2003,Leprosy
 Narathiwat,15-24,0,2003,Leprosy
 Pattani,15-24,1,2003,Leprosy
 Yala,15-24,0,2003,Leprosy
-Zone 19,15-24,0,2003,Leprosy
+Zone:19,15-24,0,2003,Leprosy
 Satun,15-24,0,2003,Leprosy
 Songkhla,15-24,0,2003,Leprosy
 Total,25-34,62,2003,Leprosy
 North Region,25-34,9,2003,Leprosy
-Zone 1,25-34,4,2003,Leprosy
+Zone:1,25-34,4,2003,Leprosy
 Chiang Mai,25-34,0,2003,Leprosy
 Chiang Rai,25-34,2,2003,Leprosy
 Lampang,25-34,0,2003,Leprosy
@@ -30352,98 +30352,98 @@ Mae Hong Son,25-34,2,2003,Leprosy
 Nan,25-34,0,2003,Leprosy
 Phayao,25-34,0,2003,Leprosy
 Phrae,25-34,0,2003,Leprosy
-Zone 2,25-34,4,2003,Leprosy
+Zone:2,25-34,4,2003,Leprosy
 Phetchabun,25-34,0,2003,Leprosy
 Phitsanulok,25-34,1,2003,Leprosy
 Sukhothai,25-34,1,2003,Leprosy
 Tak,25-34,2,2003,Leprosy
 Uttaradit,25-34,0,2003,Leprosy
-Zone 3,25-34,1,2003,Leprosy
+Zone:3,25-34,1,2003,Leprosy
 Kamphaeng Phet,25-34,0,2003,Leprosy
 Nakhon Sawan,25-34,0,2003,Leprosy
 Phichit,25-34,1,2003,Leprosy
 Uthai Thani,25-34,0,2003,Leprosy
 Central Region,25-34,13,2003,Leprosy
 Bangkok,25-34,1,2003,Leprosy
-Zone 4,25-34,1,2003,Leprosy
+Zone:4,25-34,1,2003,Leprosy
 Ang Thong,25-34,0,2003,Leprosy
 Nonthaburi,25-34,1,2003,Leprosy
 P.Nakhon S.Ayutthaya,25-34,0,2003,Leprosy
 Pathum Thani,25-34,0,2003,Leprosy
-Zone 5,25-34,2,2003,Leprosy
+Zone:5,25-34,2,2003,Leprosy
 Chai Nat,25-34,0,2003,Leprosy
 Lop Buri,25-34,2,2003,Leprosy
 Saraburi,25-34,0,2003,Leprosy
 Sing Buri,25-34,0,2003,Leprosy
-Zone 6,25-34,2,2003,Leprosy
+Zone:6,25-34,2,2003,Leprosy
 Kanchanaburi,25-34,0,2003,Leprosy
 Nakhon Pathom,25-34,1,2003,Leprosy
 Ratchaburi,25-34,0,2003,Leprosy
 Suphan Buri,25-34,1,2003,Leprosy
-Zone 7,25-34,0,2003,Leprosy
+Zone:7,25-34,0,2003,Leprosy
 Phetchaburi,25-34,0,2003,Leprosy
 Prachuap Khiri Khan,25-34,0,2003,Leprosy
 Samut Sakhon,25-34,0,2003,Leprosy
 Samut Songkhram,25-34,0,2003,Leprosy
-Zone 8,25-34,1,2003,Leprosy
+Zone:8,25-34,1,2003,Leprosy
 Chachoengsao,25-34,0,2003,Leprosy
 Nakhon Nayok,25-34,0,2003,Leprosy
 Prachin Buri,25-34,1,2003,Leprosy
 Sa Kaeo,25-34,0,2003,Leprosy
 Samut Prakan,25-34,0,2003,Leprosy
-Zone 9,25-34,6,2003,Leprosy
+Zone:9,25-34,6,2003,Leprosy
 Chanthaburi,25-34,1,2003,Leprosy
 Chon Buri,25-34,1,2003,Leprosy
 Rayong,25-34,4,2003,Leprosy
 Trat,25-34,0,2003,Leprosy
 North-Eastern Region,25-34,32,2003,Leprosy
-Zone 10,25-34,3,2003,Leprosy
+Zone:10,25-34,3,2003,Leprosy
 Loei,25-34,0,2003,Leprosy
 Nong Bua Lam Phu,25-34,3,2003,Leprosy
 Nong Khai,25-34,0,2003,Leprosy
 Udon Thani,25-34,0,2003,Leprosy
-Zone 11,25-34,3,2003,Leprosy
+Zone:11,25-34,3,2003,Leprosy
 Kalasin,25-34,0,2003,Leprosy
 Mukdahan,25-34,0,2003,Leprosy
 Nakhon Phanom,25-34,0,2003,Leprosy
 Sakon Nakhon,25-34,3,2003,Leprosy
-Zone 12,25-34,1,2003,Leprosy
+Zone:12,25-34,1,2003,Leprosy
 Khon Kaen,25-34,0,2003,Leprosy
 Maha Sarakham,25-34,1,2003,Leprosy
 Roi Et,25-34,0,2003,Leprosy
-Zone 13,25-34,13,2003,Leprosy
+Zone:13,25-34,13,2003,Leprosy
 Buri Ram,25-34,3,2003,Leprosy
 Chaiyaphum,25-34,2,2003,Leprosy
 Nakhon Ratchasima,25-34,3,2003,Leprosy
 Surin,25-34,5,2003,Leprosy
-Zone 14,25-34,12,2003,Leprosy
+Zone:14,25-34,12,2003,Leprosy
 Amnat Charoen,25-34,0,2003,Leprosy
 Si Sa Ket,25-34,11,2003,Leprosy
 Ubon Ratchathani,25-34,0,2003,Leprosy
 Yasothon,25-34,1,2003,Leprosy
 South Region,25-34,8,2003,Leprosy
-Zone 15,25-34,2,2003,Leprosy
+Zone:15,25-34,2,2003,Leprosy
 Chumphon,25-34,1,2003,Leprosy
 Ranong,25-34,0,2003,Leprosy
 Surat Thani,25-34,1,2003,Leprosy
-Zone 16,25-34,2,2003,Leprosy
+Zone:16,25-34,2,2003,Leprosy
 Nakhon Si Thammarat,25-34,0,2003,Leprosy
 Phatthalung,25-34,1,2003,Leprosy
 Trang,25-34,1,2003,Leprosy
-Zone 17,25-34,0,2003,Leprosy
+Zone:17,25-34,0,2003,Leprosy
 Krabi,25-34,0,2003,Leprosy
 Phangnga,25-34,0,2003,Leprosy
 Phuket,25-34,0,2003,Leprosy
-Zone 18,25-34,4,2003,Leprosy
+Zone:18,25-34,4,2003,Leprosy
 Narathiwat,25-34,2,2003,Leprosy
 Pattani,25-34,2,2003,Leprosy
 Yala,25-34,0,2003,Leprosy
-Zone 19,25-34,0,2003,Leprosy
+Zone:19,25-34,0,2003,Leprosy
 Satun,25-34,0,2003,Leprosy
 Songkhla,25-34,0,2003,Leprosy
 Total,35-44,80,2003,Leprosy
 North Region,35-44,14,2003,Leprosy
-Zone 1,35-44,8,2003,Leprosy
+Zone:1,35-44,8,2003,Leprosy
 Chiang Mai,35-44,1,2003,Leprosy
 Chiang Rai,35-44,0,2003,Leprosy
 Lampang,35-44,1,2003,Leprosy
@@ -30452,98 +30452,98 @@ Mae Hong Son,35-44,5,2003,Leprosy
 Nan,35-44,0,2003,Leprosy
 Phayao,35-44,1,2003,Leprosy
 Phrae,35-44,0,2003,Leprosy
-Zone 2,35-44,3,2003,Leprosy
+Zone:2,35-44,3,2003,Leprosy
 Phetchabun,35-44,0,2003,Leprosy
 Phitsanulok,35-44,0,2003,Leprosy
 Sukhothai,35-44,1,2003,Leprosy
 Tak,35-44,1,2003,Leprosy
 Uttaradit,35-44,1,2003,Leprosy
-Zone 3,35-44,3,2003,Leprosy
+Zone:3,35-44,3,2003,Leprosy
 Kamphaeng Phet,35-44,2,2003,Leprosy
 Nakhon Sawan,35-44,0,2003,Leprosy
 Phichit,35-44,1,2003,Leprosy
 Uthai Thani,35-44,0,2003,Leprosy
 Central Region,35-44,8,2003,Leprosy
 Bangkok,35-44,3,2003,Leprosy
-Zone 4,35-44,0,2003,Leprosy
+Zone:4,35-44,0,2003,Leprosy
 Ang Thong,35-44,0,2003,Leprosy
 Nonthaburi,35-44,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,35-44,0,2003,Leprosy
 Pathum Thani,35-44,0,2003,Leprosy
-Zone 5,35-44,0,2003,Leprosy
+Zone:5,35-44,0,2003,Leprosy
 Chai Nat,35-44,0,2003,Leprosy
 Lop Buri,35-44,0,2003,Leprosy
 Saraburi,35-44,0,2003,Leprosy
 Sing Buri,35-44,0,2003,Leprosy
-Zone 6,35-44,1,2003,Leprosy
+Zone:6,35-44,1,2003,Leprosy
 Kanchanaburi,35-44,0,2003,Leprosy
 Nakhon Pathom,35-44,0,2003,Leprosy
 Ratchaburi,35-44,0,2003,Leprosy
 Suphan Buri,35-44,1,2003,Leprosy
-Zone 7,35-44,1,2003,Leprosy
+Zone:7,35-44,1,2003,Leprosy
 Phetchaburi,35-44,1,2003,Leprosy
 Prachuap Khiri Khan,35-44,0,2003,Leprosy
 Samut Sakhon,35-44,0,2003,Leprosy
 Samut Songkhram,35-44,0,2003,Leprosy
-Zone 8,35-44,1,2003,Leprosy
+Zone:8,35-44,1,2003,Leprosy
 Chachoengsao,35-44,0,2003,Leprosy
 Nakhon Nayok,35-44,1,2003,Leprosy
 Prachin Buri,35-44,0,2003,Leprosy
 Sa Kaeo,35-44,0,2003,Leprosy
 Samut Prakan,35-44,0,2003,Leprosy
-Zone 9,35-44,2,2003,Leprosy
+Zone:9,35-44,2,2003,Leprosy
 Chanthaburi,35-44,0,2003,Leprosy
 Chon Buri,35-44,0,2003,Leprosy
 Rayong,35-44,0,2003,Leprosy
 Trat,35-44,2,2003,Leprosy
 North-Eastern Region,35-44,44,2003,Leprosy
-Zone 10,35-44,1,2003,Leprosy
+Zone:10,35-44,1,2003,Leprosy
 Loei,35-44,0,2003,Leprosy
 Nong Bua Lam Phu,35-44,1,2003,Leprosy
 Nong Khai,35-44,0,2003,Leprosy
 Udon Thani,35-44,0,2003,Leprosy
-Zone 11,35-44,5,2003,Leprosy
+Zone:11,35-44,5,2003,Leprosy
 Kalasin,35-44,4,2003,Leprosy
 Mukdahan,35-44,0,2003,Leprosy
 Nakhon Phanom,35-44,0,2003,Leprosy
 Sakon Nakhon,35-44,1,2003,Leprosy
-Zone 12,35-44,4,2003,Leprosy
+Zone:12,35-44,4,2003,Leprosy
 Khon Kaen,35-44,2,2003,Leprosy
 Maha Sarakham,35-44,2,2003,Leprosy
 Roi Et,35-44,0,2003,Leprosy
-Zone 13,35-44,13,2003,Leprosy
+Zone:13,35-44,13,2003,Leprosy
 Buri Ram,35-44,8,2003,Leprosy
 Chaiyaphum,35-44,0,2003,Leprosy
 Nakhon Ratchasima,35-44,4,2003,Leprosy
 Surin,35-44,1,2003,Leprosy
-Zone 14,35-44,21,2003,Leprosy
+Zone:14,35-44,21,2003,Leprosy
 Amnat Charoen,35-44,2,2003,Leprosy
 Si Sa Ket,35-44,15,2003,Leprosy
 Ubon Ratchathani,35-44,2,2003,Leprosy
 Yasothon,35-44,2,2003,Leprosy
 South Region,35-44,14,2003,Leprosy
-Zone 15,35-44,8,2003,Leprosy
+Zone:15,35-44,8,2003,Leprosy
 Chumphon,35-44,1,2003,Leprosy
 Ranong,35-44,0,2003,Leprosy
 Surat Thani,35-44,7,2003,Leprosy
-Zone 16,35-44,1,2003,Leprosy
+Zone:16,35-44,1,2003,Leprosy
 Nakhon Si Thammarat,35-44,1,2003,Leprosy
 Phatthalung,35-44,0,2003,Leprosy
 Trang,35-44,0,2003,Leprosy
-Zone 17,35-44,1,2003,Leprosy
+Zone:17,35-44,1,2003,Leprosy
 Krabi,35-44,0,2003,Leprosy
 Phangnga,35-44,1,2003,Leprosy
 Phuket,35-44,0,2003,Leprosy
-Zone 18,35-44,4,2003,Leprosy
+Zone:18,35-44,4,2003,Leprosy
 Narathiwat,35-44,2,2003,Leprosy
 Pattani,35-44,2,2003,Leprosy
 Yala,35-44,0,2003,Leprosy
-Zone 19,35-44,0,2003,Leprosy
+Zone:19,35-44,0,2003,Leprosy
 Satun,35-44,0,2003,Leprosy
 Songkhla,35-44,0,2003,Leprosy
 Total,45-54,84,2003,Leprosy
 North Region,45-54,8,2003,Leprosy
-Zone 1,45-54,5,2003,Leprosy
+Zone:1,45-54,5,2003,Leprosy
 Chiang Mai,45-54,0,2003,Leprosy
 Chiang Rai,45-54,2,2003,Leprosy
 Lampang,45-54,0,2003,Leprosy
@@ -30552,98 +30552,98 @@ Mae Hong Son,45-54,3,2003,Leprosy
 Nan,45-54,0,2003,Leprosy
 Phayao,45-54,0,2003,Leprosy
 Phrae,45-54,0,2003,Leprosy
-Zone 2,45-54,2,2003,Leprosy
+Zone:2,45-54,2,2003,Leprosy
 Phetchabun,45-54,2,2003,Leprosy
 Phitsanulok,45-54,0,2003,Leprosy
 Sukhothai,45-54,0,2003,Leprosy
 Tak,45-54,0,2003,Leprosy
 Uttaradit,45-54,0,2003,Leprosy
-Zone 3,45-54,1,2003,Leprosy
+Zone:3,45-54,1,2003,Leprosy
 Kamphaeng Phet,45-54,1,2003,Leprosy
 Nakhon Sawan,45-54,0,2003,Leprosy
 Phichit,45-54,0,2003,Leprosy
 Uthai Thani,45-54,0,2003,Leprosy
 Central Region,45-54,3,2003,Leprosy
 Bangkok,45-54,0,2003,Leprosy
-Zone 4,45-54,0,2003,Leprosy
+Zone:4,45-54,0,2003,Leprosy
 Ang Thong,45-54,0,2003,Leprosy
 Nonthaburi,45-54,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,45-54,0,2003,Leprosy
 Pathum Thani,45-54,0,2003,Leprosy
-Zone 5,45-54,0,2003,Leprosy
+Zone:5,45-54,0,2003,Leprosy
 Chai Nat,45-54,0,2003,Leprosy
 Lop Buri,45-54,0,2003,Leprosy
 Saraburi,45-54,0,2003,Leprosy
 Sing Buri,45-54,0,2003,Leprosy
-Zone 6,45-54,1,2003,Leprosy
+Zone:6,45-54,1,2003,Leprosy
 Kanchanaburi,45-54,1,2003,Leprosy
 Nakhon Pathom,45-54,0,2003,Leprosy
 Ratchaburi,45-54,0,2003,Leprosy
 Suphan Buri,45-54,0,2003,Leprosy
-Zone 7,45-54,0,2003,Leprosy
+Zone:7,45-54,0,2003,Leprosy
 Phetchaburi,45-54,0,2003,Leprosy
 Prachuap Khiri Khan,45-54,0,2003,Leprosy
 Samut Sakhon,45-54,0,2003,Leprosy
 Samut Songkhram,45-54,0,2003,Leprosy
-Zone 8,45-54,2,2003,Leprosy
+Zone:8,45-54,2,2003,Leprosy
 Chachoengsao,45-54,0,2003,Leprosy
 Nakhon Nayok,45-54,2,2003,Leprosy
 Prachin Buri,45-54,0,2003,Leprosy
 Sa Kaeo,45-54,0,2003,Leprosy
 Samut Prakan,45-54,0,2003,Leprosy
-Zone 9,45-54,0,2003,Leprosy
+Zone:9,45-54,0,2003,Leprosy
 Chanthaburi,45-54,0,2003,Leprosy
 Chon Buri,45-54,0,2003,Leprosy
 Rayong,45-54,0,2003,Leprosy
 Trat,45-54,0,2003,Leprosy
 North-Eastern Region,45-54,63,2003,Leprosy
-Zone 10,45-54,3,2003,Leprosy
+Zone:10,45-54,3,2003,Leprosy
 Loei,45-54,0,2003,Leprosy
 Nong Bua Lam Phu,45-54,1,2003,Leprosy
 Nong Khai,45-54,1,2003,Leprosy
 Udon Thani,45-54,1,2003,Leprosy
-Zone 11,45-54,2,2003,Leprosy
+Zone:11,45-54,2,2003,Leprosy
 Kalasin,45-54,0,2003,Leprosy
 Mukdahan,45-54,0,2003,Leprosy
 Nakhon Phanom,45-54,1,2003,Leprosy
 Sakon Nakhon,45-54,1,2003,Leprosy
-Zone 12,45-54,6,2003,Leprosy
+Zone:12,45-54,6,2003,Leprosy
 Khon Kaen,45-54,1,2003,Leprosy
 Maha Sarakham,45-54,1,2003,Leprosy
 Roi Et,45-54,4,2003,Leprosy
-Zone 13,45-54,27,2003,Leprosy
+Zone:13,45-54,27,2003,Leprosy
 Buri Ram,45-54,12,2003,Leprosy
 Chaiyaphum,45-54,5,2003,Leprosy
 Nakhon Ratchasima,45-54,2,2003,Leprosy
 Surin,45-54,8,2003,Leprosy
-Zone 14,45-54,25,2003,Leprosy
+Zone:14,45-54,25,2003,Leprosy
 Amnat Charoen,45-54,3,2003,Leprosy
 Si Sa Ket,45-54,11,2003,Leprosy
 Ubon Ratchathani,45-54,8,2003,Leprosy
 Yasothon,45-54,3,2003,Leprosy
 South Region,45-54,10,2003,Leprosy
-Zone 15,45-54,6,2003,Leprosy
+Zone:15,45-54,6,2003,Leprosy
 Chumphon,45-54,1,2003,Leprosy
 Ranong,45-54,1,2003,Leprosy
 Surat Thani,45-54,4,2003,Leprosy
-Zone 16,45-54,0,2003,Leprosy
+Zone:16,45-54,0,2003,Leprosy
 Nakhon Si Thammarat,45-54,0,2003,Leprosy
 Phatthalung,45-54,0,2003,Leprosy
 Trang,45-54,0,2003,Leprosy
-Zone 17,45-54,1,2003,Leprosy
+Zone:17,45-54,1,2003,Leprosy
 Krabi,45-54,1,2003,Leprosy
 Phangnga,45-54,0,2003,Leprosy
 Phuket,45-54,0,2003,Leprosy
-Zone 18,45-54,3,2003,Leprosy
+Zone:18,45-54,3,2003,Leprosy
 Narathiwat,45-54,0,2003,Leprosy
 Pattani,45-54,3,2003,Leprosy
 Yala,45-54,0,2003,Leprosy
-Zone 19,45-54,0,2003,Leprosy
+Zone:19,45-54,0,2003,Leprosy
 Satun,45-54,0,2003,Leprosy
 Songkhla,45-54,0,2003,Leprosy
 Total,55-64,106,2003,Leprosy
 North Region,55-64,6,2003,Leprosy
-Zone 1,55-64,1,2003,Leprosy
+Zone:1,55-64,1,2003,Leprosy
 Chiang Mai,55-64,0,2003,Leprosy
 Chiang Rai,55-64,1,2003,Leprosy
 Lampang,55-64,0,2003,Leprosy
@@ -30652,98 +30652,98 @@ Mae Hong Son,55-64,0,2003,Leprosy
 Nan,55-64,0,2003,Leprosy
 Phayao,55-64,0,2003,Leprosy
 Phrae,55-64,0,2003,Leprosy
-Zone 2,55-64,4,2003,Leprosy
+Zone:2,55-64,4,2003,Leprosy
 Phetchabun,55-64,1,2003,Leprosy
 Phitsanulok,55-64,2,2003,Leprosy
 Sukhothai,55-64,0,2003,Leprosy
 Tak,55-64,1,2003,Leprosy
 Uttaradit,55-64,0,2003,Leprosy
-Zone 3,55-64,1,2003,Leprosy
+Zone:3,55-64,1,2003,Leprosy
 Kamphaeng Phet,55-64,1,2003,Leprosy
 Nakhon Sawan,55-64,0,2003,Leprosy
 Phichit,55-64,0,2003,Leprosy
 Uthai Thani,55-64,0,2003,Leprosy
 Central Region,55-64,15,2003,Leprosy
 Bangkok,55-64,1,2003,Leprosy
-Zone 4,55-64,0,2003,Leprosy
+Zone:4,55-64,0,2003,Leprosy
 Ang Thong,55-64,0,2003,Leprosy
 Nonthaburi,55-64,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,55-64,0,2003,Leprosy
 Pathum Thani,55-64,0,2003,Leprosy
-Zone 5,55-64,6,2003,Leprosy
+Zone:5,55-64,6,2003,Leprosy
 Chai Nat,55-64,0,2003,Leprosy
 Lop Buri,55-64,6,2003,Leprosy
 Saraburi,55-64,0,2003,Leprosy
 Sing Buri,55-64,0,2003,Leprosy
-Zone 6,55-64,2,2003,Leprosy
+Zone:6,55-64,2,2003,Leprosy
 Kanchanaburi,55-64,0,2003,Leprosy
 Nakhon Pathom,55-64,0,2003,Leprosy
 Ratchaburi,55-64,0,2003,Leprosy
 Suphan Buri,55-64,2,2003,Leprosy
-Zone 7,55-64,0,2003,Leprosy
+Zone:7,55-64,0,2003,Leprosy
 Phetchaburi,55-64,0,2003,Leprosy
 Prachuap Khiri Khan,55-64,0,2003,Leprosy
 Samut Sakhon,55-64,0,2003,Leprosy
 Samut Songkhram,55-64,0,2003,Leprosy
-Zone 8,55-64,2,2003,Leprosy
+Zone:8,55-64,2,2003,Leprosy
 Chachoengsao,55-64,1,2003,Leprosy
 Nakhon Nayok,55-64,0,2003,Leprosy
 Prachin Buri,55-64,1,2003,Leprosy
 Sa Kaeo,55-64,0,2003,Leprosy
 Samut Prakan,55-64,0,2003,Leprosy
-Zone 9,55-64,4,2003,Leprosy
+Zone:9,55-64,4,2003,Leprosy
 Chanthaburi,55-64,3,2003,Leprosy
 Chon Buri,55-64,0,2003,Leprosy
 Rayong,55-64,1,2003,Leprosy
 Trat,55-64,0,2003,Leprosy
 North-Eastern Region,55-64,74,2003,Leprosy
-Zone 10,55-64,5,2003,Leprosy
+Zone:10,55-64,5,2003,Leprosy
 Loei,55-64,0,2003,Leprosy
 Nong Bua Lam Phu,55-64,0,2003,Leprosy
 Nong Khai,55-64,0,2003,Leprosy
 Udon Thani,55-64,5,2003,Leprosy
-Zone 11,55-64,2,2003,Leprosy
+Zone:11,55-64,2,2003,Leprosy
 Kalasin,55-64,0,2003,Leprosy
 Mukdahan,55-64,0,2003,Leprosy
 Nakhon Phanom,55-64,0,2003,Leprosy
 Sakon Nakhon,55-64,2,2003,Leprosy
-Zone 12,55-64,9,2003,Leprosy
+Zone:12,55-64,9,2003,Leprosy
 Khon Kaen,55-64,8,2003,Leprosy
 Maha Sarakham,55-64,0,2003,Leprosy
 Roi Et,55-64,1,2003,Leprosy
-Zone 13,55-64,33,2003,Leprosy
+Zone:13,55-64,33,2003,Leprosy
 Buri Ram,55-64,10,2003,Leprosy
 Chaiyaphum,55-64,8,2003,Leprosy
 Nakhon Ratchasima,55-64,10,2003,Leprosy
 Surin,55-64,5,2003,Leprosy
-Zone 14,55-64,25,2003,Leprosy
+Zone:14,55-64,25,2003,Leprosy
 Amnat Charoen,55-64,2,2003,Leprosy
 Si Sa Ket,55-64,20,2003,Leprosy
 Ubon Ratchathani,55-64,2,2003,Leprosy
 Yasothon,55-64,1,2003,Leprosy
 South Region,55-64,11,2003,Leprosy
-Zone 15,55-64,0,2003,Leprosy
+Zone:15,55-64,0,2003,Leprosy
 Chumphon,55-64,0,2003,Leprosy
 Ranong,55-64,0,2003,Leprosy
 Surat Thani,55-64,0,2003,Leprosy
-Zone 16,55-64,2,2003,Leprosy
+Zone:16,55-64,2,2003,Leprosy
 Nakhon Si Thammarat,55-64,0,2003,Leprosy
 Phatthalung,55-64,0,2003,Leprosy
 Trang,55-64,2,2003,Leprosy
-Zone 17,55-64,2,2003,Leprosy
+Zone:17,55-64,2,2003,Leprosy
 Krabi,55-64,1,2003,Leprosy
 Phangnga,55-64,1,2003,Leprosy
 Phuket,55-64,0,2003,Leprosy
-Zone 18,55-64,6,2003,Leprosy
+Zone:18,55-64,6,2003,Leprosy
 Narathiwat,55-64,2,2003,Leprosy
 Pattani,55-64,4,2003,Leprosy
 Yala,55-64,0,2003,Leprosy
-Zone 19,55-64,1,2003,Leprosy
+Zone:19,55-64,1,2003,Leprosy
 Satun,55-64,0,2003,Leprosy
 Songkhla,55-64,1,2003,Leprosy
 Total,65+,96,2003,Leprosy
 North Region,65+,11,2003,Leprosy
-Zone 1,65+,8,2003,Leprosy
+Zone:1,65+,8,2003,Leprosy
 Chiang Mai,65+,3,2003,Leprosy
 Chiang Rai,65+,0,2003,Leprosy
 Lampang,65+,1,2003,Leprosy
@@ -30752,98 +30752,98 @@ Mae Hong Son,65+,1,2003,Leprosy
 Nan,65+,0,2003,Leprosy
 Phayao,65+,0,2003,Leprosy
 Phrae,65+,1,2003,Leprosy
-Zone 2,65+,1,2003,Leprosy
+Zone:2,65+,1,2003,Leprosy
 Phetchabun,65+,0,2003,Leprosy
 Phitsanulok,65+,0,2003,Leprosy
 Sukhothai,65+,1,2003,Leprosy
 Tak,65+,0,2003,Leprosy
 Uttaradit,65+,0,2003,Leprosy
-Zone 3,65+,2,2003,Leprosy
+Zone:3,65+,2,2003,Leprosy
 Kamphaeng Phet,65+,2,2003,Leprosy
 Nakhon Sawan,65+,0,2003,Leprosy
 Phichit,65+,0,2003,Leprosy
 Uthai Thani,65+,0,2003,Leprosy
 Central Region,65+,12,2003,Leprosy
 Bangkok,65+,0,2003,Leprosy
-Zone 4,65+,0,2003,Leprosy
+Zone:4,65+,0,2003,Leprosy
 Ang Thong,65+,0,2003,Leprosy
 Nonthaburi,65+,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,65+,0,2003,Leprosy
 Pathum Thani,65+,0,2003,Leprosy
-Zone 5,65+,7,2003,Leprosy
+Zone:5,65+,7,2003,Leprosy
 Chai Nat,65+,0,2003,Leprosy
 Lop Buri,65+,6,2003,Leprosy
 Saraburi,65+,1,2003,Leprosy
 Sing Buri,65+,0,2003,Leprosy
-Zone 6,65+,1,2003,Leprosy
+Zone:6,65+,1,2003,Leprosy
 Kanchanaburi,65+,0,2003,Leprosy
 Nakhon Pathom,65+,0,2003,Leprosy
 Ratchaburi,65+,0,2003,Leprosy
 Suphan Buri,65+,1,2003,Leprosy
-Zone 7,65+,1,2003,Leprosy
+Zone:7,65+,1,2003,Leprosy
 Phetchaburi,65+,0,2003,Leprosy
 Prachuap Khiri Khan,65+,1,2003,Leprosy
 Samut Sakhon,65+,0,2003,Leprosy
 Samut Songkhram,65+,0,2003,Leprosy
-Zone 8,65+,1,2003,Leprosy
+Zone:8,65+,1,2003,Leprosy
 Chachoengsao,65+,1,2003,Leprosy
 Nakhon Nayok,65+,0,2003,Leprosy
 Prachin Buri,65+,0,2003,Leprosy
 Sa Kaeo,65+,0,2003,Leprosy
 Samut Prakan,65+,0,2003,Leprosy
-Zone 9,65+,2,2003,Leprosy
+Zone:9,65+,2,2003,Leprosy
 Chanthaburi,65+,0,2003,Leprosy
 Chon Buri,65+,1,2003,Leprosy
 Rayong,65+,1,2003,Leprosy
 Trat,65+,0,2003,Leprosy
 North-Eastern Region,65+,59,2003,Leprosy
-Zone 10,65+,5,2003,Leprosy
+Zone:10,65+,5,2003,Leprosy
 Loei,65+,0,2003,Leprosy
 Nong Bua Lam Phu,65+,1,2003,Leprosy
 Nong Khai,65+,1,2003,Leprosy
 Udon Thani,65+,3,2003,Leprosy
-Zone 11,65+,1,2003,Leprosy
+Zone:11,65+,1,2003,Leprosy
 Kalasin,65+,1,2003,Leprosy
 Mukdahan,65+,0,2003,Leprosy
 Nakhon Phanom,65+,0,2003,Leprosy
 Sakon Nakhon,65+,0,2003,Leprosy
-Zone 12,65+,7,2003,Leprosy
+Zone:12,65+,7,2003,Leprosy
 Khon Kaen,65+,1,2003,Leprosy
 Maha Sarakham,65+,2,2003,Leprosy
 Roi Et,65+,4,2003,Leprosy
-Zone 13,65+,30,2003,Leprosy
+Zone:13,65+,30,2003,Leprosy
 Buri Ram,65+,12,2003,Leprosy
 Chaiyaphum,65+,4,2003,Leprosy
 Nakhon Ratchasima,65+,8,2003,Leprosy
 Surin,65+,6,2003,Leprosy
-Zone 14,65+,16,2003,Leprosy
+Zone:14,65+,16,2003,Leprosy
 Amnat Charoen,65+,5,2003,Leprosy
 Si Sa Ket,65+,8,2003,Leprosy
 Ubon Ratchathani,65+,3,2003,Leprosy
 Yasothon,65+,0,2003,Leprosy
 South Region,65+,14,2003,Leprosy
-Zone 15,65+,2,2003,Leprosy
+Zone:15,65+,2,2003,Leprosy
 Chumphon,65+,2,2003,Leprosy
 Ranong,65+,0,2003,Leprosy
 Surat Thani,65+,0,2003,Leprosy
-Zone 16,65+,1,2003,Leprosy
+Zone:16,65+,1,2003,Leprosy
 Nakhon Si Thammarat,65+,1,2003,Leprosy
 Phatthalung,65+,0,2003,Leprosy
 Trang,65+,0,2003,Leprosy
-Zone 17,65+,0,2003,Leprosy
+Zone:17,65+,0,2003,Leprosy
 Krabi,65+,0,2003,Leprosy
 Phangnga,65+,0,2003,Leprosy
 Phuket,65+,0,2003,Leprosy
-Zone 18,65+,8,2003,Leprosy
+Zone:18,65+,8,2003,Leprosy
 Narathiwat,65+,4,2003,Leprosy
 Pattani,65+,4,2003,Leprosy
 Yala,65+,0,2003,Leprosy
-Zone 19,65+,3,2003,Leprosy
+Zone:19,65+,3,2003,Leprosy
 Satun,65+,1,2003,Leprosy
 Songkhla,65+,2,2003,Leprosy
 Total,Unknown,0,2003,Leprosy
 North Region,Unknown,0,2003,Leprosy
-Zone 1,Unknown,0,2003,Leprosy
+Zone:1,Unknown,0,2003,Leprosy
 Chiang Mai,Unknown,0,2003,Leprosy
 Chiang Rai,Unknown,0,2003,Leprosy
 Lampang,Unknown,0,2003,Leprosy
@@ -30852,93 +30852,93 @@ Mae Hong Son,Unknown,0,2003,Leprosy
 Nan,Unknown,0,2003,Leprosy
 Phayao,Unknown,0,2003,Leprosy
 Phrae,Unknown,0,2003,Leprosy
-Zone 2,Unknown,0,2003,Leprosy
+Zone:2,Unknown,0,2003,Leprosy
 Phetchabun,Unknown,0,2003,Leprosy
 Phitsanulok,Unknown,0,2003,Leprosy
 Sukhothai,Unknown,0,2003,Leprosy
 Tak,Unknown,0,2003,Leprosy
 Uttaradit,Unknown,0,2003,Leprosy
-Zone 3,Unknown,0,2003,Leprosy
+Zone:3,Unknown,0,2003,Leprosy
 Kamphaeng Phet,Unknown,0,2003,Leprosy
 Nakhon Sawan,Unknown,0,2003,Leprosy
 Phichit,Unknown,0,2003,Leprosy
 Uthai Thani,Unknown,0,2003,Leprosy
 Central Region,Unknown,0,2003,Leprosy
 Bangkok,Unknown,0,2003,Leprosy
-Zone 4,Unknown,0,2003,Leprosy
+Zone:4,Unknown,0,2003,Leprosy
 Ang Thong,Unknown,0,2003,Leprosy
 Nonthaburi,Unknown,0,2003,Leprosy
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Leprosy
 Pathum Thani,Unknown,0,2003,Leprosy
-Zone 5,Unknown,0,2003,Leprosy
+Zone:5,Unknown,0,2003,Leprosy
 Chai Nat,Unknown,0,2003,Leprosy
 Lop Buri,Unknown,0,2003,Leprosy
 Saraburi,Unknown,0,2003,Leprosy
 Sing Buri,Unknown,0,2003,Leprosy
-Zone 6,Unknown,0,2003,Leprosy
+Zone:6,Unknown,0,2003,Leprosy
 Kanchanaburi,Unknown,0,2003,Leprosy
 Nakhon Pathom,Unknown,0,2003,Leprosy
 Ratchaburi,Unknown,0,2003,Leprosy
 Suphan Buri,Unknown,0,2003,Leprosy
-Zone 7,Unknown,0,2003,Leprosy
+Zone:7,Unknown,0,2003,Leprosy
 Phetchaburi,Unknown,0,2003,Leprosy
 Prachuap Khiri Khan,Unknown,0,2003,Leprosy
 Samut Sakhon,Unknown,0,2003,Leprosy
 Samut Songkhram,Unknown,0,2003,Leprosy
-Zone 8,Unknown,0,2003,Leprosy
+Zone:8,Unknown,0,2003,Leprosy
 Chachoengsao,Unknown,0,2003,Leprosy
 Nakhon Nayok,Unknown,0,2003,Leprosy
 Prachin Buri,Unknown,0,2003,Leprosy
 Sa Kaeo,Unknown,0,2003,Leprosy
 Samut Prakan,Unknown,0,2003,Leprosy
-Zone 9,Unknown,0,2003,Leprosy
+Zone:9,Unknown,0,2003,Leprosy
 Chanthaburi,Unknown,0,2003,Leprosy
 Chon Buri,Unknown,0,2003,Leprosy
 Rayong,Unknown,0,2003,Leprosy
 Trat,Unknown,0,2003,Leprosy
 North-Eastern Region,Unknown,0,2003,Leprosy
-Zone 10,Unknown,0,2003,Leprosy
+Zone:10,Unknown,0,2003,Leprosy
 Loei,Unknown,0,2003,Leprosy
 Nong Bua Lam Phu,Unknown,0,2003,Leprosy
 Nong Khai,Unknown,0,2003,Leprosy
 Udon Thani,Unknown,0,2003,Leprosy
-Zone 11,Unknown,0,2003,Leprosy
+Zone:11,Unknown,0,2003,Leprosy
 Kalasin,Unknown,0,2003,Leprosy
 Mukdahan,Unknown,0,2003,Leprosy
 Nakhon Phanom,Unknown,0,2003,Leprosy
 Sakon Nakhon,Unknown,0,2003,Leprosy
-Zone 12,Unknown,0,2003,Leprosy
+Zone:12,Unknown,0,2003,Leprosy
 Khon Kaen,Unknown,0,2003,Leprosy
 Maha Sarakham,Unknown,0,2003,Leprosy
 Roi Et,Unknown,0,2003,Leprosy
-Zone 13,Unknown,0,2003,Leprosy
+Zone:13,Unknown,0,2003,Leprosy
 Buri Ram,Unknown,0,2003,Leprosy
 Chaiyaphum,Unknown,0,2003,Leprosy
 Nakhon Ratchasima,Unknown,0,2003,Leprosy
 Surin,Unknown,0,2003,Leprosy
-Zone 14,Unknown,0,2003,Leprosy
+Zone:14,Unknown,0,2003,Leprosy
 Amnat Charoen,Unknown,0,2003,Leprosy
 Si Sa Ket,Unknown,0,2003,Leprosy
 Ubon Ratchathani,Unknown,0,2003,Leprosy
 Yasothon,Unknown,0,2003,Leprosy
 South Region,Unknown,0,2003,Leprosy
-Zone 15,Unknown,0,2003,Leprosy
+Zone:15,Unknown,0,2003,Leprosy
 Chumphon,Unknown,0,2003,Leprosy
 Ranong,Unknown,0,2003,Leprosy
 Surat Thani,Unknown,0,2003,Leprosy
-Zone 16,Unknown,0,2003,Leprosy
+Zone:16,Unknown,0,2003,Leprosy
 Nakhon Si Thammarat,Unknown,0,2003,Leprosy
 Phatthalung,Unknown,0,2003,Leprosy
 Trang,Unknown,0,2003,Leprosy
-Zone 17,Unknown,0,2003,Leprosy
+Zone:17,Unknown,0,2003,Leprosy
 Krabi,Unknown,0,2003,Leprosy
 Phangnga,Unknown,0,2003,Leprosy
 Phuket,Unknown,0,2003,Leprosy
-Zone 18,Unknown,0,2003,Leprosy
+Zone:18,Unknown,0,2003,Leprosy
 Narathiwat,Unknown,0,2003,Leprosy
 Pattani,Unknown,0,2003,Leprosy
 Yala,Unknown,0,2003,Leprosy
-Zone 19,Unknown,0,2003,Leprosy
+Zone:19,Unknown,0,2003,Leprosy
 Satun,Unknown,0,2003,Leprosy
 Songkhla,Unknown,0,2003,Leprosy
 Total,Total,391,2006,Leprosy

@@ -7021,7 +7021,7 @@ ZONE:13,Unknown,0,2017,Pneumonia
 Bangkok,Unknown,0,2017,Pneumonia
 Total,Total,136323,2004,Pneumonia
 North Region,Total,32665,2004,Pneumonia
-Zone 1,Total,20068,2004,Pneumonia
+Zone:1,Total,20068,2004,Pneumonia
 Chiang Mai,Total,4286,2004,Pneumonia
 Chiang Rai,Total,5762,2004,Pneumonia
 Lampang,Total,3437,2004,Pneumonia
@@ -7030,98 +7030,98 @@ Mae Hong Son,Total,2013,2004,Pneumonia
 Nan,Total,999,2004,Pneumonia
 Phayao,Total,1590,2004,Pneumonia
 Phrae,Total,689,2004,Pneumonia
-Zone 2,Total,7147,2004,Pneumonia
+Zone:2,Total,7147,2004,Pneumonia
 Phetchabun,Total,1014,2004,Pneumonia
 Phitsanulok,Total,1207,2004,Pneumonia
 Sukhothai,Total,1687,2004,Pneumonia
 Tak,Total,1506,2004,Pneumonia
 Uttaradit,Total,1733,2004,Pneumonia
-Zone 3,Total,5450,2004,Pneumonia
+Zone:3,Total,5450,2004,Pneumonia
 Kamphaeng Phet,Total,1715,2004,Pneumonia
 Nakhon Sawan,Total,1781,2004,Pneumonia
 Phichit,Total,888,2004,Pneumonia
 Uthai Thani,Total,1066,2004,Pneumonia
 Central Region,Total,36695,2004,Pneumonia
 Bangkok,Total,7722,2004,Pneumonia
-Zone 4,Total,6135,2004,Pneumonia
+Zone:4,Total,6135,2004,Pneumonia
 Ang Thong,Total,642,2004,Pneumonia
 Nonthaburi,Total,1033,2004,Pneumonia
 P.Nakhon S.Ayutthaya,Total,2635,2004,Pneumonia
 Pathum Thani,Total,1825,2004,Pneumonia
-Zone 5,Total,2857,2004,Pneumonia
+Zone:5,Total,2857,2004,Pneumonia
 Chai Nat,Total,354,2004,Pneumonia
 Lop Buri,Total,1421,2004,Pneumonia
 Saraburi,Total,817,2004,Pneumonia
 Sing Buri,Total,265,2004,Pneumonia
-Zone 6,Total,6827,2004,Pneumonia
+Zone:6,Total,6827,2004,Pneumonia
 Kanchanaburi,Total,2153,2004,Pneumonia
 Nakhon Pathom,Total,1873,2004,Pneumonia
 Ratchaburi,Total,1705,2004,Pneumonia
 Suphan Buri,Total,1096,2004,Pneumonia
-Zone 7,Total,2546,2004,Pneumonia
+Zone:7,Total,2546,2004,Pneumonia
 Phetchaburi,Total,779,2004,Pneumonia
 Prachuap Khiri Khan,Total,832,2004,Pneumonia
 Samut Sakhon,Total,566,2004,Pneumonia
 Samut Songkhram,Total,369,2004,Pneumonia
-Zone 8,Total,6027,2004,Pneumonia
+Zone:8,Total,6027,2004,Pneumonia
 Chachoengsao,Total,2374,2004,Pneumonia
 Nakhon Nayok,Total,354,2004,Pneumonia
 Prachin Buri,Total,1684,2004,Pneumonia
 Sa Kaeo,Total,681,2004,Pneumonia
 Samut Prakan,Total,934,2004,Pneumonia
-Zone 9,Total,4581,2004,Pneumonia
+Zone:9,Total,4581,2004,Pneumonia
 Chanthaburi,Total,1372,2004,Pneumonia
 Chon Buri,Total,989,2004,Pneumonia
 Rayong,Total,1724,2004,Pneumonia
 Trat,Total,496,2004,Pneumonia
 North-Eastern Region,Total,46562,2004,Pneumonia
-Zone 10,Total,5159,2004,Pneumonia
+Zone:10,Total,5159,2004,Pneumonia
 Loei,Total,592,2004,Pneumonia
 Nong Bua Lam Phu,Total,875,2004,Pneumonia
 Nong Khai,Total,971,2004,Pneumonia
 Udon Thani,Total,2721,2004,Pneumonia
-Zone 11,Total,5334,2004,Pneumonia
+Zone:11,Total,5334,2004,Pneumonia
 Kalasin,Total,1256,2004,Pneumonia
 Mukdahan,Total,710,2004,Pneumonia
 Nakhon Phanom,Total,2443,2004,Pneumonia
 Sakon Nakhon,Total,925,2004,Pneumonia
-Zone 12,Total,7288,2004,Pneumonia
+Zone:12,Total,7288,2004,Pneumonia
 Khon Kaen,Total,3339,2004,Pneumonia
 Maha Sarakham,Total,2122,2004,Pneumonia
 Roi Et,Total,1827,2004,Pneumonia
-Zone 13,Total,18010,2004,Pneumonia
+Zone:13,Total,18010,2004,Pneumonia
 Buri Ram,Total,3056,2004,Pneumonia
 Chaiyaphum,Total,2327,2004,Pneumonia
 Nakhon Ratchasima,Total,6192,2004,Pneumonia
 Surin,Total,6435,2004,Pneumonia
-Zone 14,Total,10771,2004,Pneumonia
+Zone:14,Total,10771,2004,Pneumonia
 Amnat Charoen,Total,736,2004,Pneumonia
 Si Sa Ket,Total,3036,2004,Pneumonia
 Ubon Ratchathani,Total,6158,2004,Pneumonia
 Yasothon,Total,841,2004,Pneumonia
 South Region,Total,20401,2004,Pneumonia
-Zone 15,Total,4237,2004,Pneumonia
+Zone:15,Total,4237,2004,Pneumonia
 Chumphon,Total,1134,2004,Pneumonia
 Ranong,Total,392,2004,Pneumonia
 Surat Thani,Total,2711,2004,Pneumonia
-Zone 16,Total,4762,2004,Pneumonia
+Zone:16,Total,4762,2004,Pneumonia
 Nakhon Si Thammarat,Total,1915,2004,Pneumonia
 Phatthalung,Total,1508,2004,Pneumonia
 Trang,Total,1339,2004,Pneumonia
-Zone 17,Total,2011,2004,Pneumonia
+Zone:17,Total,2011,2004,Pneumonia
 Krabi,Total,1272,2004,Pneumonia
 Phangnga,Total,246,2004,Pneumonia
 Phuket,Total,493,2004,Pneumonia
-Zone 18,Total,6666,2004,Pneumonia
+Zone:18,Total,6666,2004,Pneumonia
 Narathiwat,Total,3100,2004,Pneumonia
 Pattani,Total,1105,2004,Pneumonia
 Yala,Total,2461,2004,Pneumonia
-Zone 19,Total,2725,2004,Pneumonia
+Zone:19,Total,2725,2004,Pneumonia
 Satun,Total,368,2004,Pneumonia
 Songkhla,Total,2357,2004,Pneumonia
 Total,0,1169,2004,Pneumonia
 North Region,0,194,2004,Pneumonia
-Zone 1,0,126,2004,Pneumonia
+Zone:1,0,126,2004,Pneumonia
 Chiang Mai,0,20,2004,Pneumonia
 Chiang Rai,0,46,2004,Pneumonia
 Lampang,0,12,2004,Pneumonia
@@ -7130,98 +7130,98 @@ Mae Hong Son,0,13,2004,Pneumonia
 Nan,0,6,2004,Pneumonia
 Phayao,0,16,2004,Pneumonia
 Phrae,0,6,2004,Pneumonia
-Zone 2,0,39,2004,Pneumonia
+Zone:2,0,39,2004,Pneumonia
 Phetchabun,0,2,2004,Pneumonia
 Phitsanulok,0,2,2004,Pneumonia
 Sukhothai,0,8,2004,Pneumonia
 Tak,0,10,2004,Pneumonia
 Uttaradit,0,17,2004,Pneumonia
-Zone 3,0,29,2004,Pneumonia
+Zone:3,0,29,2004,Pneumonia
 Kamphaeng Phet,0,20,2004,Pneumonia
 Nakhon Sawan,0,6,2004,Pneumonia
 Phichit,0,1,2004,Pneumonia
 Uthai Thani,0,2,2004,Pneumonia
 Central Region,0,409,2004,Pneumonia
 Bangkok,0,64,2004,Pneumonia
-Zone 4,0,216,2004,Pneumonia
+Zone:4,0,216,2004,Pneumonia
 Ang Thong,0,15,2004,Pneumonia
 Nonthaburi,0,5,2004,Pneumonia
 P.Nakhon S.Ayutthaya,0,170,2004,Pneumonia
 Pathum Thani,0,26,2004,Pneumonia
-Zone 5,0,14,2004,Pneumonia
+Zone:5,0,14,2004,Pneumonia
 Chai Nat,0,1,2004,Pneumonia
 Lop Buri,0,9,2004,Pneumonia
 Saraburi,0,4,2004,Pneumonia
 Sing Buri,0,0,2004,Pneumonia
-Zone 6,0,56,2004,Pneumonia
+Zone:6,0,56,2004,Pneumonia
 Kanchanaburi,0,16,2004,Pneumonia
 Nakhon Pathom,0,13,2004,Pneumonia
 Ratchaburi,0,13,2004,Pneumonia
 Suphan Buri,0,14,2004,Pneumonia
-Zone 7,0,25,2004,Pneumonia
+Zone:7,0,25,2004,Pneumonia
 Phetchaburi,0,9,2004,Pneumonia
 Prachuap Khiri Khan,0,3,2004,Pneumonia
 Samut Sakhon,0,6,2004,Pneumonia
 Samut Songkhram,0,7,2004,Pneumonia
-Zone 8,0,21,2004,Pneumonia
+Zone:8,0,21,2004,Pneumonia
 Chachoengsao,0,5,2004,Pneumonia
 Nakhon Nayok,0,4,2004,Pneumonia
 Prachin Buri,0,12,2004,Pneumonia
 Sa Kaeo,0,0,2004,Pneumonia
 Samut Prakan,0,0,2004,Pneumonia
-Zone 9,0,13,2004,Pneumonia
+Zone:9,0,13,2004,Pneumonia
 Chanthaburi,0,2,2004,Pneumonia
 Chon Buri,0,6,2004,Pneumonia
 Rayong,0,2,2004,Pneumonia
 Trat,0,3,2004,Pneumonia
 North-Eastern Region,0,400,2004,Pneumonia
-Zone 10,0,12,2004,Pneumonia
+Zone:10,0,12,2004,Pneumonia
 Loei,0,1,2004,Pneumonia
 Nong Bua Lam Phu,0,3,2004,Pneumonia
 Nong Khai,0,2,2004,Pneumonia
 Udon Thani,0,6,2004,Pneumonia
-Zone 11,0,24,2004,Pneumonia
+Zone:11,0,24,2004,Pneumonia
 Kalasin,0,6,2004,Pneumonia
 Mukdahan,0,4,2004,Pneumonia
 Nakhon Phanom,0,4,2004,Pneumonia
 Sakon Nakhon,0,10,2004,Pneumonia
-Zone 12,0,20,2004,Pneumonia
+Zone:12,0,20,2004,Pneumonia
 Khon Kaen,0,11,2004,Pneumonia
 Maha Sarakham,0,3,2004,Pneumonia
 Roi Et,0,6,2004,Pneumonia
-Zone 13,0,312,2004,Pneumonia
+Zone:13,0,312,2004,Pneumonia
 Buri Ram,0,5,2004,Pneumonia
 Chaiyaphum,0,15,2004,Pneumonia
 Nakhon Ratchasima,0,16,2004,Pneumonia
 Surin,0,276,2004,Pneumonia
-Zone 14,0,32,2004,Pneumonia
+Zone:14,0,32,2004,Pneumonia
 Amnat Charoen,0,4,2004,Pneumonia
 Si Sa Ket,0,6,2004,Pneumonia
 Ubon Ratchathani,0,16,2004,Pneumonia
 Yasothon,0,6,2004,Pneumonia
 South Region,0,166,2004,Pneumonia
-Zone 15,0,37,2004,Pneumonia
+Zone:15,0,37,2004,Pneumonia
 Chumphon,0,6,2004,Pneumonia
 Ranong,0,4,2004,Pneumonia
 Surat Thani,0,27,2004,Pneumonia
-Zone 16,0,20,2004,Pneumonia
+Zone:16,0,20,2004,Pneumonia
 Nakhon Si Thammarat,0,3,2004,Pneumonia
 Phatthalung,0,4,2004,Pneumonia
 Trang,0,13,2004,Pneumonia
-Zone 17,0,29,2004,Pneumonia
+Zone:17,0,29,2004,Pneumonia
 Krabi,0,9,2004,Pneumonia
 Phangnga,0,2,2004,Pneumonia
 Phuket,0,18,2004,Pneumonia
-Zone 18,0,49,2004,Pneumonia
+Zone:18,0,49,2004,Pneumonia
 Narathiwat,0,29,2004,Pneumonia
 Pattani,0,8,2004,Pneumonia
 Yala,0,12,2004,Pneumonia
-Zone 19,0,31,2004,Pneumonia
+Zone:19,0,31,2004,Pneumonia
 Satun,0,10,2004,Pneumonia
 Songkhla,0,21,2004,Pneumonia
 Total,<1,20701,2004,Pneumonia
 North Region,<1,4259,2004,Pneumonia
-Zone 1,<1,2839,2004,Pneumonia
+Zone:1,<1,2839,2004,Pneumonia
 Chiang Mai,<1,684,2004,Pneumonia
 Chiang Rai,<1,997,2004,Pneumonia
 Lampang,<1,283,2004,Pneumonia
@@ -7230,98 +7230,98 @@ Mae Hong Son,<1,396,2004,Pneumonia
 Nan,<1,96,2004,Pneumonia
 Phayao,<1,164,2004,Pneumonia
 Phrae,<1,74,2004,Pneumonia
-Zone 2,<1,803,2004,Pneumonia
+Zone:2,<1,803,2004,Pneumonia
 Phetchabun,<1,100,2004,Pneumonia
 Phitsanulok,<1,68,2004,Pneumonia
 Sukhothai,<1,143,2004,Pneumonia
 Tak,<1,308,2004,Pneumonia
 Uttaradit,<1,184,2004,Pneumonia
-Zone 3,<1,617,2004,Pneumonia
+Zone:3,<1,617,2004,Pneumonia
 Kamphaeng Phet,<1,213,2004,Pneumonia
 Nakhon Sawan,<1,202,2004,Pneumonia
 Phichit,<1,109,2004,Pneumonia
 Uthai Thani,<1,93,2004,Pneumonia
 Central Region,<1,6211,2004,Pneumonia
 Bangkok,<1,1526,2004,Pneumonia
-Zone 4,<1,1383,2004,Pneumonia
+Zone:4,<1,1383,2004,Pneumonia
 Ang Thong,<1,103,2004,Pneumonia
 Nonthaburi,<1,261,2004,Pneumonia
 P.Nakhon S.Ayutthaya,<1,671,2004,Pneumonia
 Pathum Thani,<1,348,2004,Pneumonia
-Zone 5,<1,405,2004,Pneumonia
+Zone:5,<1,405,2004,Pneumonia
 Chai Nat,<1,47,2004,Pneumonia
 Lop Buri,<1,176,2004,Pneumonia
 Saraburi,<1,154,2004,Pneumonia
 Sing Buri,<1,28,2004,Pneumonia
-Zone 6,<1,979,2004,Pneumonia
+Zone:6,<1,979,2004,Pneumonia
 Kanchanaburi,<1,311,2004,Pneumonia
 Nakhon Pathom,<1,200,2004,Pneumonia
 Ratchaburi,<1,299,2004,Pneumonia
 Suphan Buri,<1,169,2004,Pneumonia
-Zone 7,<1,412,2004,Pneumonia
+Zone:7,<1,412,2004,Pneumonia
 Phetchaburi,<1,112,2004,Pneumonia
 Prachuap Khiri Khan,<1,96,2004,Pneumonia
 Samut Sakhon,<1,166,2004,Pneumonia
 Samut Songkhram,<1,38,2004,Pneumonia
-Zone 8,<1,867,2004,Pneumonia
+Zone:8,<1,867,2004,Pneumonia
 Chachoengsao,<1,304,2004,Pneumonia
 Nakhon Nayok,<1,53,2004,Pneumonia
 Prachin Buri,<1,242,2004,Pneumonia
 Sa Kaeo,<1,64,2004,Pneumonia
 Samut Prakan,<1,204,2004,Pneumonia
-Zone 9,<1,639,2004,Pneumonia
+Zone:9,<1,639,2004,Pneumonia
 Chanthaburi,<1,178,2004,Pneumonia
 Chon Buri,<1,161,2004,Pneumonia
 Rayong,<1,255,2004,Pneumonia
 Trat,<1,45,2004,Pneumonia
 North-Eastern Region,<1,5666,2004,Pneumonia
-Zone 10,<1,643,2004,Pneumonia
+Zone:10,<1,643,2004,Pneumonia
 Loei,<1,58,2004,Pneumonia
 Nong Bua Lam Phu,<1,90,2004,Pneumonia
 Nong Khai,<1,115,2004,Pneumonia
 Udon Thani,<1,380,2004,Pneumonia
-Zone 11,<1,803,2004,Pneumonia
+Zone:11,<1,803,2004,Pneumonia
 Kalasin,<1,199,2004,Pneumonia
 Mukdahan,<1,82,2004,Pneumonia
 Nakhon Phanom,<1,412,2004,Pneumonia
 Sakon Nakhon,<1,110,2004,Pneumonia
-Zone 12,<1,1003,2004,Pneumonia
+Zone:12,<1,1003,2004,Pneumonia
 Khon Kaen,<1,367,2004,Pneumonia
 Maha Sarakham,<1,354,2004,Pneumonia
 Roi Et,<1,282,2004,Pneumonia
-Zone 13,<1,2011,2004,Pneumonia
+Zone:13,<1,2011,2004,Pneumonia
 Buri Ram,<1,381,2004,Pneumonia
 Chaiyaphum,<1,320,2004,Pneumonia
 Nakhon Ratchasima,<1,651,2004,Pneumonia
 Surin,<1,659,2004,Pneumonia
-Zone 14,<1,1206,2004,Pneumonia
+Zone:14,<1,1206,2004,Pneumonia
 Amnat Charoen,<1,88,2004,Pneumonia
 Si Sa Ket,<1,273,2004,Pneumonia
 Ubon Ratchathani,<1,774,2004,Pneumonia
 Yasothon,<1,71,2004,Pneumonia
 South Region,<1,4565,2004,Pneumonia
-Zone 15,<1,658,2004,Pneumonia
+Zone:15,<1,658,2004,Pneumonia
 Chumphon,<1,164,2004,Pneumonia
 Ranong,<1,33,2004,Pneumonia
 Surat Thani,<1,461,2004,Pneumonia
-Zone 16,<1,916,2004,Pneumonia
+Zone:16,<1,916,2004,Pneumonia
 Nakhon Si Thammarat,<1,371,2004,Pneumonia
 Phatthalung,<1,335,2004,Pneumonia
 Trang,<1,210,2004,Pneumonia
-Zone 17,<1,478,2004,Pneumonia
+Zone:17,<1,478,2004,Pneumonia
 Krabi,<1,330,2004,Pneumonia
 Phangnga,<1,48,2004,Pneumonia
 Phuket,<1,100,2004,Pneumonia
-Zone 18,<1,1977,2004,Pneumonia
+Zone:18,<1,1977,2004,Pneumonia
 Narathiwat,<1,917,2004,Pneumonia
 Pattani,<1,326,2004,Pneumonia
 Yala,<1,734,2004,Pneumonia
-Zone 19,<1,536,2004,Pneumonia
+Zone:19,<1,536,2004,Pneumonia
 Satun,<1,60,2004,Pneumonia
 Songkhla,<1,476,2004,Pneumonia
 Total,1-1,21035,2004,Pneumonia
 North Region,1-1,4628,2004,Pneumonia
-Zone 1,1-1,3234,2004,Pneumonia
+Zone:1,1-1,3234,2004,Pneumonia
 Chiang Mai,1-1,653,2004,Pneumonia
 Chiang Rai,1-1,1127,2004,Pneumonia
 Lampang,1-1,424,2004,Pneumonia
@@ -7330,98 +7330,98 @@ Mae Hong Son,1-1,428,2004,Pneumonia
 Nan,1-1,113,2004,Pneumonia
 Phayao,1-1,232,2004,Pneumonia
 Phrae,1-1,69,2004,Pneumonia
-Zone 2,1-1,849,2004,Pneumonia
+Zone:2,1-1,849,2004,Pneumonia
 Phetchabun,1-1,104,2004,Pneumonia
 Phitsanulok,1-1,141,2004,Pneumonia
 Sukhothai,1-1,168,2004,Pneumonia
 Tak,1-1,232,2004,Pneumonia
 Uttaradit,1-1,204,2004,Pneumonia
-Zone 3,1-1,545,2004,Pneumonia
+Zone:3,1-1,545,2004,Pneumonia
 Kamphaeng Phet,1-1,154,2004,Pneumonia
 Nakhon Sawan,1-1,199,2004,Pneumonia
 Phichit,1-1,87,2004,Pneumonia
 Uthai Thani,1-1,105,2004,Pneumonia
 Central Region,1-1,5706,2004,Pneumonia
 Bangkok,1-1,1408,2004,Pneumonia
-Zone 4,1-1,1019,2004,Pneumonia
+Zone:4,1-1,1019,2004,Pneumonia
 Ang Thong,1-1,102,2004,Pneumonia
 Nonthaburi,1-1,152,2004,Pneumonia
 P.Nakhon S.Ayutthaya,1-1,445,2004,Pneumonia
 Pathum Thani,1-1,320,2004,Pneumonia
-Zone 5,1-1,381,2004,Pneumonia
+Zone:5,1-1,381,2004,Pneumonia
 Chai Nat,1-1,39,2004,Pneumonia
 Lop Buri,1-1,200,2004,Pneumonia
 Saraburi,1-1,122,2004,Pneumonia
 Sing Buri,1-1,20,2004,Pneumonia
-Zone 6,1-1,1146,2004,Pneumonia
+Zone:6,1-1,1146,2004,Pneumonia
 Kanchanaburi,1-1,375,2004,Pneumonia
 Nakhon Pathom,1-1,302,2004,Pneumonia
 Ratchaburi,1-1,323,2004,Pneumonia
 Suphan Buri,1-1,146,2004,Pneumonia
-Zone 7,1-1,336,2004,Pneumonia
+Zone:7,1-1,336,2004,Pneumonia
 Phetchaburi,1-1,82,2004,Pneumonia
 Prachuap Khiri Khan,1-1,113,2004,Pneumonia
 Samut Sakhon,1-1,110,2004,Pneumonia
 Samut Songkhram,1-1,31,2004,Pneumonia
-Zone 8,1-1,852,2004,Pneumonia
+Zone:8,1-1,852,2004,Pneumonia
 Chachoengsao,1-1,341,2004,Pneumonia
 Nakhon Nayok,1-1,51,2004,Pneumonia
 Prachin Buri,1-1,231,2004,Pneumonia
 Sa Kaeo,1-1,66,2004,Pneumonia
 Samut Prakan,1-1,163,2004,Pneumonia
-Zone 9,1-1,564,2004,Pneumonia
+Zone:9,1-1,564,2004,Pneumonia
 Chanthaburi,1-1,181,2004,Pneumonia
 Chon Buri,1-1,106,2004,Pneumonia
 Rayong,1-1,246,2004,Pneumonia
 Trat,1-1,31,2004,Pneumonia
 North-Eastern Region,1-1,7026,2004,Pneumonia
-Zone 10,1-1,765,2004,Pneumonia
+Zone:10,1-1,765,2004,Pneumonia
 Loei,1-1,58,2004,Pneumonia
 Nong Bua Lam Phu,1-1,108,2004,Pneumonia
 Nong Khai,1-1,137,2004,Pneumonia
 Udon Thani,1-1,462,2004,Pneumonia
-Zone 11,1-1,915,2004,Pneumonia
+Zone:11,1-1,915,2004,Pneumonia
 Kalasin,1-1,188,2004,Pneumonia
 Mukdahan,1-1,63,2004,Pneumonia
 Nakhon Phanom,1-1,532,2004,Pneumonia
 Sakon Nakhon,1-1,132,2004,Pneumonia
-Zone 12,1-1,1198,2004,Pneumonia
+Zone:12,1-1,1198,2004,Pneumonia
 Khon Kaen,1-1,514,2004,Pneumonia
 Maha Sarakham,1-1,394,2004,Pneumonia
 Roi Et,1-1,290,2004,Pneumonia
-Zone 13,1-1,2765,2004,Pneumonia
+Zone:13,1-1,2765,2004,Pneumonia
 Buri Ram,1-1,435,2004,Pneumonia
 Chaiyaphum,1-1,304,2004,Pneumonia
 Nakhon Ratchasima,1-1,737,2004,Pneumonia
 Surin,1-1,1289,2004,Pneumonia
-Zone 14,1-1,1383,2004,Pneumonia
+Zone:14,1-1,1383,2004,Pneumonia
 Amnat Charoen,1-1,90,2004,Pneumonia
 Si Sa Ket,1-1,354,2004,Pneumonia
 Ubon Ratchathani,1-1,841,2004,Pneumonia
 Yasothon,1-1,98,2004,Pneumonia
 South Region,1-1,3675,2004,Pneumonia
-Zone 15,1-1,639,2004,Pneumonia
+Zone:15,1-1,639,2004,Pneumonia
 Chumphon,1-1,162,2004,Pneumonia
 Ranong,1-1,48,2004,Pneumonia
 Surat Thani,1-1,429,2004,Pneumonia
-Zone 16,1-1,806,2004,Pneumonia
+Zone:16,1-1,806,2004,Pneumonia
 Nakhon Si Thammarat,1-1,300,2004,Pneumonia
 Phatthalung,1-1,284,2004,Pneumonia
 Trang,1-1,222,2004,Pneumonia
-Zone 17,1-1,324,2004,Pneumonia
+Zone:17,1-1,324,2004,Pneumonia
 Krabi,1-1,208,2004,Pneumonia
 Phangnga,1-1,31,2004,Pneumonia
 Phuket,1-1,85,2004,Pneumonia
-Zone 18,1-1,1457,2004,Pneumonia
+Zone:18,1-1,1457,2004,Pneumonia
 Narathiwat,1-1,691,2004,Pneumonia
 Pattani,1-1,197,2004,Pneumonia
 Yala,1-1,569,2004,Pneumonia
-Zone 19,1-1,449,2004,Pneumonia
+Zone:19,1-1,449,2004,Pneumonia
 Satun,1-1,70,2004,Pneumonia
 Songkhla,1-1,379,2004,Pneumonia
 Total,2-2,13176,2004,Pneumonia
 North Region,2-2,3281,2004,Pneumonia
-Zone 1,2-2,2340,2004,Pneumonia
+Zone:1,2-2,2340,2004,Pneumonia
 Chiang Mai,2-2,549,2004,Pneumonia
 Chiang Rai,2-2,750,2004,Pneumonia
 Lampang,2-2,249,2004,Pneumonia
@@ -7430,98 +7430,98 @@ Mae Hong Son,2-2,309,2004,Pneumonia
 Nan,2-2,82,2004,Pneumonia
 Phayao,2-2,191,2004,Pneumonia
 Phrae,2-2,47,2004,Pneumonia
-Zone 2,2-2,582,2004,Pneumonia
+Zone:2,2-2,582,2004,Pneumonia
 Phetchabun,2-2,63,2004,Pneumonia
 Phitsanulok,2-2,117,2004,Pneumonia
 Sukhothai,2-2,110,2004,Pneumonia
 Tak,2-2,150,2004,Pneumonia
 Uttaradit,2-2,142,2004,Pneumonia
-Zone 3,2-2,359,2004,Pneumonia
+Zone:3,2-2,359,2004,Pneumonia
 Kamphaeng Phet,2-2,100,2004,Pneumonia
 Nakhon Sawan,2-2,134,2004,Pneumonia
 Phichit,2-2,63,2004,Pneumonia
 Uthai Thani,2-2,62,2004,Pneumonia
 Central Region,2-2,3434,2004,Pneumonia
 Bangkok,2-2,875,2004,Pneumonia
-Zone 4,2-2,557,2004,Pneumonia
+Zone:4,2-2,557,2004,Pneumonia
 Ang Thong,2-2,57,2004,Pneumonia
 Nonthaburi,2-2,91,2004,Pneumonia
 P.Nakhon S.Ayutthaya,2-2,209,2004,Pneumonia
 Pathum Thani,2-2,200,2004,Pneumonia
-Zone 5,2-2,209,2004,Pneumonia
+Zone:5,2-2,209,2004,Pneumonia
 Chai Nat,2-2,28,2004,Pneumonia
 Lop Buri,2-2,113,2004,Pneumonia
 Saraburi,2-2,53,2004,Pneumonia
 Sing Buri,2-2,15,2004,Pneumonia
-Zone 6,2-2,682,2004,Pneumonia
+Zone:6,2-2,682,2004,Pneumonia
 Kanchanaburi,2-2,212,2004,Pneumonia
 Nakhon Pathom,2-2,181,2004,Pneumonia
 Ratchaburi,2-2,198,2004,Pneumonia
 Suphan Buri,2-2,91,2004,Pneumonia
-Zone 7,2-2,223,2004,Pneumonia
+Zone:7,2-2,223,2004,Pneumonia
 Phetchaburi,2-2,65,2004,Pneumonia
 Prachuap Khiri Khan,2-2,68,2004,Pneumonia
 Samut Sakhon,2-2,77,2004,Pneumonia
 Samut Songkhram,2-2,13,2004,Pneumonia
-Zone 8,2-2,518,2004,Pneumonia
+Zone:8,2-2,518,2004,Pneumonia
 Chachoengsao,2-2,222,2004,Pneumonia
 Nakhon Nayok,2-2,34,2004,Pneumonia
 Prachin Buri,2-2,133,2004,Pneumonia
 Sa Kaeo,2-2,48,2004,Pneumonia
 Samut Prakan,2-2,81,2004,Pneumonia
-Zone 9,2-2,370,2004,Pneumonia
+Zone:9,2-2,370,2004,Pneumonia
 Chanthaburi,2-2,102,2004,Pneumonia
 Chon Buri,2-2,103,2004,Pneumonia
 Rayong,2-2,141,2004,Pneumonia
 Trat,2-2,24,2004,Pneumonia
 North-Eastern Region,2-2,4469,2004,Pneumonia
-Zone 10,2-2,546,2004,Pneumonia
+Zone:10,2-2,546,2004,Pneumonia
 Loei,2-2,37,2004,Pneumonia
 Nong Bua Lam Phu,2-2,75,2004,Pneumonia
 Nong Khai,2-2,119,2004,Pneumonia
 Udon Thani,2-2,315,2004,Pneumonia
-Zone 11,2-2,583,2004,Pneumonia
+Zone:11,2-2,583,2004,Pneumonia
 Kalasin,2-2,101,2004,Pneumonia
 Mukdahan,2-2,58,2004,Pneumonia
 Nakhon Phanom,2-2,327,2004,Pneumonia
 Sakon Nakhon,2-2,97,2004,Pneumonia
-Zone 12,2-2,742,2004,Pneumonia
+Zone:12,2-2,742,2004,Pneumonia
 Khon Kaen,2-2,343,2004,Pneumonia
 Maha Sarakham,2-2,209,2004,Pneumonia
 Roi Et,2-2,190,2004,Pneumonia
-Zone 13,2-2,1613,2004,Pneumonia
+Zone:13,2-2,1613,2004,Pneumonia
 Buri Ram,2-2,264,2004,Pneumonia
 Chaiyaphum,2-2,157,2004,Pneumonia
 Nakhon Ratchasima,2-2,480,2004,Pneumonia
 Surin,2-2,712,2004,Pneumonia
-Zone 14,2-2,985,2004,Pneumonia
+Zone:14,2-2,985,2004,Pneumonia
 Amnat Charoen,2-2,61,2004,Pneumonia
 Si Sa Ket,2-2,256,2004,Pneumonia
 Ubon Ratchathani,2-2,618,2004,Pneumonia
 Yasothon,2-2,50,2004,Pneumonia
 South Region,2-2,1992,2004,Pneumonia
-Zone 15,2-2,343,2004,Pneumonia
+Zone:15,2-2,343,2004,Pneumonia
 Chumphon,2-2,100,2004,Pneumonia
 Ranong,2-2,28,2004,Pneumonia
 Surat Thani,2-2,215,2004,Pneumonia
-Zone 16,2-2,465,2004,Pneumonia
+Zone:16,2-2,465,2004,Pneumonia
 Nakhon Si Thammarat,2-2,160,2004,Pneumonia
 Phatthalung,2-2,165,2004,Pneumonia
 Trang,2-2,140,2004,Pneumonia
-Zone 17,2-2,184,2004,Pneumonia
+Zone:17,2-2,184,2004,Pneumonia
 Krabi,2-2,118,2004,Pneumonia
 Phangnga,2-2,28,2004,Pneumonia
 Phuket,2-2,38,2004,Pneumonia
-Zone 18,2-2,742,2004,Pneumonia
+Zone:18,2-2,742,2004,Pneumonia
 Narathiwat,2-2,360,2004,Pneumonia
 Pattani,2-2,119,2004,Pneumonia
 Yala,2-2,263,2004,Pneumonia
-Zone 19,2-2,258,2004,Pneumonia
+Zone:19,2-2,258,2004,Pneumonia
 Satun,2-2,37,2004,Pneumonia
 Songkhla,2-2,221,2004,Pneumonia
 Total,3-3,8632,2004,Pneumonia
 North Region,3-3,2004,2004,Pneumonia
-Zone 1,3-3,1374,2004,Pneumonia
+Zone:1,3-3,1374,2004,Pneumonia
 Chiang Mai,3-3,281,2004,Pneumonia
 Chiang Rai,3-3,465,2004,Pneumonia
 Lampang,3-3,148,2004,Pneumonia
@@ -7530,98 +7530,98 @@ Mae Hong Son,3-3,231,2004,Pneumonia
 Nan,3-3,54,2004,Pneumonia
 Phayao,3-3,103,2004,Pneumonia
 Phrae,3-3,22,2004,Pneumonia
-Zone 2,3-3,384,2004,Pneumonia
+Zone:2,3-3,384,2004,Pneumonia
 Phetchabun,3-3,41,2004,Pneumonia
 Phitsanulok,3-3,35,2004,Pneumonia
 Sukhothai,3-3,94,2004,Pneumonia
 Tak,3-3,114,2004,Pneumonia
 Uttaradit,3-3,100,2004,Pneumonia
-Zone 3,3-3,246,2004,Pneumonia
+Zone:3,3-3,246,2004,Pneumonia
 Kamphaeng Phet,3-3,62,2004,Pneumonia
 Nakhon Sawan,3-3,94,2004,Pneumonia
 Phichit,3-3,48,2004,Pneumonia
 Uthai Thani,3-3,42,2004,Pneumonia
 Central Region,3-3,2558,2004,Pneumonia
 Bangkok,3-3,730,2004,Pneumonia
-Zone 4,3-3,368,2004,Pneumonia
+Zone:4,3-3,368,2004,Pneumonia
 Ang Thong,3-3,39,2004,Pneumonia
 Nonthaburi,3-3,62,2004,Pneumonia
 P.Nakhon S.Ayutthaya,3-3,128,2004,Pneumonia
 Pathum Thani,3-3,139,2004,Pneumonia
-Zone 5,3-3,183,2004,Pneumonia
+Zone:5,3-3,183,2004,Pneumonia
 Chai Nat,3-3,20,2004,Pneumonia
 Lop Buri,3-3,100,2004,Pneumonia
 Saraburi,3-3,45,2004,Pneumonia
 Sing Buri,3-3,18,2004,Pneumonia
-Zone 6,3-3,494,2004,Pneumonia
+Zone:6,3-3,494,2004,Pneumonia
 Kanchanaburi,3-3,183,2004,Pneumonia
 Nakhon Pathom,3-3,128,2004,Pneumonia
 Ratchaburi,3-3,121,2004,Pneumonia
 Suphan Buri,3-3,62,2004,Pneumonia
-Zone 7,3-3,136,2004,Pneumonia
+Zone:7,3-3,136,2004,Pneumonia
 Phetchaburi,3-3,34,2004,Pneumonia
 Prachuap Khiri Khan,3-3,53,2004,Pneumonia
 Samut Sakhon,3-3,33,2004,Pneumonia
 Samut Songkhram,3-3,16,2004,Pneumonia
-Zone 8,3-3,399,2004,Pneumonia
+Zone:8,3-3,399,2004,Pneumonia
 Chachoengsao,3-3,187,2004,Pneumonia
 Nakhon Nayok,3-3,23,2004,Pneumonia
 Prachin Buri,3-3,113,2004,Pneumonia
 Sa Kaeo,3-3,26,2004,Pneumonia
 Samut Prakan,3-3,50,2004,Pneumonia
-Zone 9,3-3,248,2004,Pneumonia
+Zone:9,3-3,248,2004,Pneumonia
 Chanthaburi,3-3,75,2004,Pneumonia
 Chon Buri,3-3,52,2004,Pneumonia
 Rayong,3-3,100,2004,Pneumonia
 Trat,3-3,21,2004,Pneumonia
 North-Eastern Region,3-3,2790,2004,Pneumonia
-Zone 10,3-3,312,2004,Pneumonia
+Zone:10,3-3,312,2004,Pneumonia
 Loei,3-3,38,2004,Pneumonia
 Nong Bua Lam Phu,3-3,35,2004,Pneumonia
 Nong Khai,3-3,70,2004,Pneumonia
 Udon Thani,3-3,169,2004,Pneumonia
-Zone 11,3-3,351,2004,Pneumonia
+Zone:11,3-3,351,2004,Pneumonia
 Kalasin,3-3,61,2004,Pneumonia
 Mukdahan,3-3,47,2004,Pneumonia
 Nakhon Phanom,3-3,165,2004,Pneumonia
 Sakon Nakhon,3-3,78,2004,Pneumonia
-Zone 12,3-3,441,2004,Pneumonia
+Zone:12,3-3,441,2004,Pneumonia
 Khon Kaen,3-3,225,2004,Pneumonia
 Maha Sarakham,3-3,112,2004,Pneumonia
 Roi Et,3-3,104,2004,Pneumonia
-Zone 13,3-3,1045,2004,Pneumonia
+Zone:13,3-3,1045,2004,Pneumonia
 Buri Ram,3-3,185,2004,Pneumonia
 Chaiyaphum,3-3,109,2004,Pneumonia
 Nakhon Ratchasima,3-3,325,2004,Pneumonia
 Surin,3-3,426,2004,Pneumonia
-Zone 14,3-3,641,2004,Pneumonia
+Zone:14,3-3,641,2004,Pneumonia
 Amnat Charoen,3-3,47,2004,Pneumonia
 Si Sa Ket,3-3,181,2004,Pneumonia
 Ubon Ratchathani,3-3,372,2004,Pneumonia
 Yasothon,3-3,41,2004,Pneumonia
 South Region,3-3,1280,2004,Pneumonia
-Zone 15,3-3,257,2004,Pneumonia
+Zone:15,3-3,257,2004,Pneumonia
 Chumphon,3-3,75,2004,Pneumonia
 Ranong,3-3,17,2004,Pneumonia
 Surat Thani,3-3,165,2004,Pneumonia
-Zone 16,3-3,284,2004,Pneumonia
+Zone:16,3-3,284,2004,Pneumonia
 Nakhon Si Thammarat,3-3,123,2004,Pneumonia
 Phatthalung,3-3,97,2004,Pneumonia
 Trang,3-3,64,2004,Pneumonia
-Zone 17,3-3,98,2004,Pneumonia
+Zone:17,3-3,98,2004,Pneumonia
 Krabi,3-3,70,2004,Pneumonia
 Phangnga,3-3,9,2004,Pneumonia
 Phuket,3-3,19,2004,Pneumonia
-Zone 18,3-3,472,2004,Pneumonia
+Zone:18,3-3,472,2004,Pneumonia
 Narathiwat,3-3,228,2004,Pneumonia
 Pattani,3-3,73,2004,Pneumonia
 Yala,3-3,171,2004,Pneumonia
-Zone 19,3-3,169,2004,Pneumonia
+Zone:19,3-3,169,2004,Pneumonia
 Satun,3-3,24,2004,Pneumonia
 Songkhla,3-3,145,2004,Pneumonia
 Total,4-4,5340,2004,Pneumonia
 North Region,4-4,1208,2004,Pneumonia
-Zone 1,4-4,766,2004,Pneumonia
+Zone:1,4-4,766,2004,Pneumonia
 Chiang Mai,4-4,160,2004,Pneumonia
 Chiang Rai,4-4,235,2004,Pneumonia
 Lampang,4-4,93,2004,Pneumonia
@@ -7630,98 +7630,98 @@ Mae Hong Son,4-4,121,2004,Pneumonia
 Nan,4-4,29,2004,Pneumonia
 Phayao,4-4,68,2004,Pneumonia
 Phrae,4-4,24,2004,Pneumonia
-Zone 2,4-4,246,2004,Pneumonia
+Zone:2,4-4,246,2004,Pneumonia
 Phetchabun,4-4,40,2004,Pneumonia
 Phitsanulok,4-4,41,2004,Pneumonia
 Sukhothai,4-4,53,2004,Pneumonia
 Tak,4-4,67,2004,Pneumonia
 Uttaradit,4-4,45,2004,Pneumonia
-Zone 3,4-4,196,2004,Pneumonia
+Zone:3,4-4,196,2004,Pneumonia
 Kamphaeng Phet,4-4,53,2004,Pneumonia
 Nakhon Sawan,4-4,73,2004,Pneumonia
 Phichit,4-4,42,2004,Pneumonia
 Uthai Thani,4-4,28,2004,Pneumonia
 Central Region,4-4,1706,2004,Pneumonia
 Bangkok,4-4,430,2004,Pneumonia
-Zone 4,4-4,278,2004,Pneumonia
+Zone:4,4-4,278,2004,Pneumonia
 Ang Thong,4-4,32,2004,Pneumonia
 Nonthaburi,4-4,38,2004,Pneumonia
 P.Nakhon S.Ayutthaya,4-4,111,2004,Pneumonia
 Pathum Thani,4-4,97,2004,Pneumonia
-Zone 5,4-4,124,2004,Pneumonia
+Zone:5,4-4,124,2004,Pneumonia
 Chai Nat,4-4,18,2004,Pneumonia
 Lop Buri,4-4,58,2004,Pneumonia
 Saraburi,4-4,38,2004,Pneumonia
 Sing Buri,4-4,10,2004,Pneumonia
-Zone 6,4-4,331,2004,Pneumonia
+Zone:6,4-4,331,2004,Pneumonia
 Kanchanaburi,4-4,105,2004,Pneumonia
 Nakhon Pathom,4-4,86,2004,Pneumonia
 Ratchaburi,4-4,84,2004,Pneumonia
 Suphan Buri,4-4,56,2004,Pneumonia
-Zone 7,4-4,107,2004,Pneumonia
+Zone:7,4-4,107,2004,Pneumonia
 Phetchaburi,4-4,26,2004,Pneumonia
 Prachuap Khiri Khan,4-4,45,2004,Pneumonia
 Samut Sakhon,4-4,28,2004,Pneumonia
 Samut Songkhram,4-4,8,2004,Pneumonia
-Zone 8,4-4,277,2004,Pneumonia
+Zone:8,4-4,277,2004,Pneumonia
 Chachoengsao,4-4,136,2004,Pneumonia
 Nakhon Nayok,4-4,14,2004,Pneumonia
 Prachin Buri,4-4,66,2004,Pneumonia
 Sa Kaeo,4-4,21,2004,Pneumonia
 Samut Prakan,4-4,40,2004,Pneumonia
-Zone 9,4-4,159,2004,Pneumonia
+Zone:9,4-4,159,2004,Pneumonia
 Chanthaburi,4-4,46,2004,Pneumonia
 Chon Buri,4-4,32,2004,Pneumonia
 Rayong,4-4,69,2004,Pneumonia
 Trat,4-4,12,2004,Pneumonia
 North-Eastern Region,4-4,1662,2004,Pneumonia
-Zone 10,4-4,214,2004,Pneumonia
+Zone:10,4-4,214,2004,Pneumonia
 Loei,4-4,24,2004,Pneumonia
 Nong Bua Lam Phu,4-4,21,2004,Pneumonia
 Nong Khai,4-4,42,2004,Pneumonia
 Udon Thani,4-4,127,2004,Pneumonia
-Zone 11,4-4,249,2004,Pneumonia
+Zone:11,4-4,249,2004,Pneumonia
 Kalasin,4-4,51,2004,Pneumonia
 Mukdahan,4-4,29,2004,Pneumonia
 Nakhon Phanom,4-4,112,2004,Pneumonia
 Sakon Nakhon,4-4,57,2004,Pneumonia
-Zone 12,4-4,269,2004,Pneumonia
+Zone:12,4-4,269,2004,Pneumonia
 Khon Kaen,4-4,143,2004,Pneumonia
 Maha Sarakham,4-4,73,2004,Pneumonia
 Roi Et,4-4,53,2004,Pneumonia
-Zone 13,4-4,556,2004,Pneumonia
+Zone:13,4-4,556,2004,Pneumonia
 Buri Ram,4-4,112,2004,Pneumonia
 Chaiyaphum,4-4,70,2004,Pneumonia
 Nakhon Ratchasima,4-4,155,2004,Pneumonia
 Surin,4-4,219,2004,Pneumonia
-Zone 14,4-4,374,2004,Pneumonia
+Zone:14,4-4,374,2004,Pneumonia
 Amnat Charoen,4-4,26,2004,Pneumonia
 Si Sa Ket,4-4,106,2004,Pneumonia
 Ubon Ratchathani,4-4,221,2004,Pneumonia
 Yasothon,4-4,21,2004,Pneumonia
 South Region,4-4,764,2004,Pneumonia
-Zone 15,4-4,168,2004,Pneumonia
+Zone:15,4-4,168,2004,Pneumonia
 Chumphon,4-4,54,2004,Pneumonia
 Ranong,4-4,15,2004,Pneumonia
 Surat Thani,4-4,99,2004,Pneumonia
-Zone 16,4-4,172,2004,Pneumonia
+Zone:16,4-4,172,2004,Pneumonia
 Nakhon Si Thammarat,4-4,68,2004,Pneumonia
 Phatthalung,4-4,58,2004,Pneumonia
 Trang,4-4,46,2004,Pneumonia
-Zone 17,4-4,73,2004,Pneumonia
+Zone:17,4-4,73,2004,Pneumonia
 Krabi,4-4,54,2004,Pneumonia
 Phangnga,4-4,7,2004,Pneumonia
 Phuket,4-4,12,2004,Pneumonia
-Zone 18,4-4,254,2004,Pneumonia
+Zone:18,4-4,254,2004,Pneumonia
 Narathiwat,4-4,127,2004,Pneumonia
 Pattani,4-4,38,2004,Pneumonia
 Yala,4-4,89,2004,Pneumonia
-Zone 19,4-4,97,2004,Pneumonia
+Zone:19,4-4,97,2004,Pneumonia
 Satun,4-4,8,2004,Pneumonia
 Songkhla,4-4,89,2004,Pneumonia
 Total,5-5,3370,2004,Pneumonia
 North Region,5-5,710,2004,Pneumonia
-Zone 1,5-5,387,2004,Pneumonia
+Zone:1,5-5,387,2004,Pneumonia
 Chiang Mai,5-5,93,2004,Pneumonia
 Chiang Rai,5-5,90,2004,Pneumonia
 Lampang,5-5,53,2004,Pneumonia
@@ -7730,98 +7730,98 @@ Mae Hong Son,5-5,70,2004,Pneumonia
 Nan,5-5,22,2004,Pneumonia
 Phayao,5-5,29,2004,Pneumonia
 Phrae,5-5,13,2004,Pneumonia
-Zone 2,5-5,194,2004,Pneumonia
+Zone:2,5-5,194,2004,Pneumonia
 Phetchabun,5-5,24,2004,Pneumonia
 Phitsanulok,5-5,25,2004,Pneumonia
 Sukhothai,5-5,58,2004,Pneumonia
 Tak,5-5,50,2004,Pneumonia
 Uttaradit,5-5,37,2004,Pneumonia
-Zone 3,5-5,129,2004,Pneumonia
+Zone:3,5-5,129,2004,Pneumonia
 Kamphaeng Phet,5-5,35,2004,Pneumonia
 Nakhon Sawan,5-5,43,2004,Pneumonia
 Phichit,5-5,32,2004,Pneumonia
 Uthai Thani,5-5,19,2004,Pneumonia
 Central Region,5-5,1093,2004,Pneumonia
 Bangkok,5-5,291,2004,Pneumonia
-Zone 4,5-5,188,2004,Pneumonia
+Zone:4,5-5,188,2004,Pneumonia
 Ang Thong,5-5,23,2004,Pneumonia
 Nonthaburi,5-5,44,2004,Pneumonia
 P.Nakhon S.Ayutthaya,5-5,57,2004,Pneumonia
 Pathum Thani,5-5,64,2004,Pneumonia
-Zone 5,5-5,83,2004,Pneumonia
+Zone:5,5-5,83,2004,Pneumonia
 Chai Nat,5-5,5,2004,Pneumonia
 Lop Buri,5-5,51,2004,Pneumonia
 Saraburi,5-5,21,2004,Pneumonia
 Sing Buri,5-5,6,2004,Pneumonia
-Zone 6,5-5,201,2004,Pneumonia
+Zone:6,5-5,201,2004,Pneumonia
 Kanchanaburi,5-5,79,2004,Pneumonia
 Nakhon Pathom,5-5,42,2004,Pneumonia
 Ratchaburi,5-5,51,2004,Pneumonia
 Suphan Buri,5-5,29,2004,Pneumonia
-Zone 7,5-5,57,2004,Pneumonia
+Zone:7,5-5,57,2004,Pneumonia
 Phetchaburi,5-5,19,2004,Pneumonia
 Prachuap Khiri Khan,5-5,24,2004,Pneumonia
 Samut Sakhon,5-5,12,2004,Pneumonia
 Samut Songkhram,5-5,2,2004,Pneumonia
-Zone 8,5-5,173,2004,Pneumonia
+Zone:8,5-5,173,2004,Pneumonia
 Chachoengsao,5-5,91,2004,Pneumonia
 Nakhon Nayok,5-5,8,2004,Pneumonia
 Prachin Buri,5-5,47,2004,Pneumonia
 Sa Kaeo,5-5,5,2004,Pneumonia
 Samut Prakan,5-5,22,2004,Pneumonia
-Zone 9,5-5,100,2004,Pneumonia
+Zone:9,5-5,100,2004,Pneumonia
 Chanthaburi,5-5,30,2004,Pneumonia
 Chon Buri,5-5,21,2004,Pneumonia
 Rayong,5-5,39,2004,Pneumonia
 Trat,5-5,10,2004,Pneumonia
 North-Eastern Region,5-5,1123,2004,Pneumonia
-Zone 10,5-5,138,2004,Pneumonia
+Zone:10,5-5,138,2004,Pneumonia
 Loei,5-5,16,2004,Pneumonia
 Nong Bua Lam Phu,5-5,15,2004,Pneumonia
 Nong Khai,5-5,41,2004,Pneumonia
 Udon Thani,5-5,66,2004,Pneumonia
-Zone 11,5-5,148,2004,Pneumonia
+Zone:11,5-5,148,2004,Pneumonia
 Kalasin,5-5,39,2004,Pneumonia
 Mukdahan,5-5,21,2004,Pneumonia
 Nakhon Phanom,5-5,69,2004,Pneumonia
 Sakon Nakhon,5-5,19,2004,Pneumonia
-Zone 12,5-5,162,2004,Pneumonia
+Zone:12,5-5,162,2004,Pneumonia
 Khon Kaen,5-5,74,2004,Pneumonia
 Maha Sarakham,5-5,54,2004,Pneumonia
 Roi Et,5-5,34,2004,Pneumonia
-Zone 13,5-5,407,2004,Pneumonia
+Zone:13,5-5,407,2004,Pneumonia
 Buri Ram,5-5,77,2004,Pneumonia
 Chaiyaphum,5-5,43,2004,Pneumonia
 Nakhon Ratchasima,5-5,131,2004,Pneumonia
 Surin,5-5,156,2004,Pneumonia
-Zone 14,5-5,268,2004,Pneumonia
+Zone:14,5-5,268,2004,Pneumonia
 Amnat Charoen,5-5,26,2004,Pneumonia
 Si Sa Ket,5-5,74,2004,Pneumonia
 Ubon Ratchathani,5-5,151,2004,Pneumonia
 Yasothon,5-5,17,2004,Pneumonia
 South Region,5-5,444,2004,Pneumonia
-Zone 15,5-5,69,2004,Pneumonia
+Zone:15,5-5,69,2004,Pneumonia
 Chumphon,5-5,25,2004,Pneumonia
 Ranong,5-5,6,2004,Pneumonia
 Surat Thani,5-5,38,2004,Pneumonia
-Zone 16,5-5,100,2004,Pneumonia
+Zone:16,5-5,100,2004,Pneumonia
 Nakhon Si Thammarat,5-5,32,2004,Pneumonia
 Phatthalung,5-5,45,2004,Pneumonia
 Trang,5-5,23,2004,Pneumonia
-Zone 17,5-5,47,2004,Pneumonia
+Zone:17,5-5,47,2004,Pneumonia
 Krabi,5-5,35,2004,Pneumonia
 Phangnga,5-5,4,2004,Pneumonia
 Phuket,5-5,8,2004,Pneumonia
-Zone 18,5-5,150,2004,Pneumonia
+Zone:18,5-5,150,2004,Pneumonia
 Narathiwat,5-5,66,2004,Pneumonia
 Pattani,5-5,33,2004,Pneumonia
 Yala,5-5,51,2004,Pneumonia
-Zone 19,5-5,78,2004,Pneumonia
+Zone:19,5-5,78,2004,Pneumonia
 Satun,5-5,11,2004,Pneumonia
 Songkhla,5-5,67,2004,Pneumonia
 Total,6-6,2504,2004,Pneumonia
 North Region,6-6,513,2004,Pneumonia
-Zone 1,6-6,287,2004,Pneumonia
+Zone:1,6-6,287,2004,Pneumonia
 Chiang Mai,6-6,61,2004,Pneumonia
 Chiang Rai,6-6,72,2004,Pneumonia
 Lampang,6-6,36,2004,Pneumonia
@@ -7830,98 +7830,98 @@ Mae Hong Son,6-6,50,2004,Pneumonia
 Nan,6-6,11,2004,Pneumonia
 Phayao,6-6,33,2004,Pneumonia
 Phrae,6-6,11,2004,Pneumonia
-Zone 2,6-6,141,2004,Pneumonia
+Zone:2,6-6,141,2004,Pneumonia
 Phetchabun,6-6,15,2004,Pneumonia
 Phitsanulok,6-6,27,2004,Pneumonia
 Sukhothai,6-6,37,2004,Pneumonia
 Tak,6-6,28,2004,Pneumonia
 Uttaradit,6-6,34,2004,Pneumonia
-Zone 3,6-6,85,2004,Pneumonia
+Zone:3,6-6,85,2004,Pneumonia
 Kamphaeng Phet,6-6,20,2004,Pneumonia
 Nakhon Sawan,6-6,33,2004,Pneumonia
 Phichit,6-6,15,2004,Pneumonia
 Uthai Thani,6-6,17,2004,Pneumonia
 Central Region,6-6,838,2004,Pneumonia
 Bangkok,6-6,232,2004,Pneumonia
-Zone 4,6-6,138,2004,Pneumonia
+Zone:4,6-6,138,2004,Pneumonia
 Ang Thong,6-6,16,2004,Pneumonia
 Nonthaburi,6-6,24,2004,Pneumonia
 P.Nakhon S.Ayutthaya,6-6,55,2004,Pneumonia
 Pathum Thani,6-6,43,2004,Pneumonia
-Zone 5,6-6,51,2004,Pneumonia
+Zone:5,6-6,51,2004,Pneumonia
 Chai Nat,6-6,8,2004,Pneumonia
 Lop Buri,6-6,25,2004,Pneumonia
 Saraburi,6-6,13,2004,Pneumonia
 Sing Buri,6-6,5,2004,Pneumonia
-Zone 6,6-6,183,2004,Pneumonia
+Zone:6,6-6,183,2004,Pneumonia
 Kanchanaburi,6-6,78,2004,Pneumonia
 Nakhon Pathom,6-6,46,2004,Pneumonia
 Ratchaburi,6-6,38,2004,Pneumonia
 Suphan Buri,6-6,21,2004,Pneumonia
-Zone 7,6-6,44,2004,Pneumonia
+Zone:7,6-6,44,2004,Pneumonia
 Phetchaburi,6-6,10,2004,Pneumonia
 Prachuap Khiri Khan,6-6,15,2004,Pneumonia
 Samut Sakhon,6-6,11,2004,Pneumonia
 Samut Songkhram,6-6,8,2004,Pneumonia
-Zone 8,6-6,102,2004,Pneumonia
+Zone:8,6-6,102,2004,Pneumonia
 Chachoengsao,6-6,57,2004,Pneumonia
 Nakhon Nayok,6-6,2,2004,Pneumonia
 Prachin Buri,6-6,20,2004,Pneumonia
 Sa Kaeo,6-6,7,2004,Pneumonia
 Samut Prakan,6-6,16,2004,Pneumonia
-Zone 9,6-6,88,2004,Pneumonia
+Zone:9,6-6,88,2004,Pneumonia
 Chanthaburi,6-6,26,2004,Pneumonia
 Chon Buri,6-6,24,2004,Pneumonia
 Rayong,6-6,33,2004,Pneumonia
 Trat,6-6,5,2004,Pneumonia
 North-Eastern Region,6-6,836,2004,Pneumonia
-Zone 10,6-6,120,2004,Pneumonia
+Zone:10,6-6,120,2004,Pneumonia
 Loei,6-6,15,2004,Pneumonia
 Nong Bua Lam Phu,6-6,13,2004,Pneumonia
 Nong Khai,6-6,25,2004,Pneumonia
 Udon Thani,6-6,67,2004,Pneumonia
-Zone 11,6-6,96,2004,Pneumonia
+Zone:11,6-6,96,2004,Pneumonia
 Kalasin,6-6,26,2004,Pneumonia
 Mukdahan,6-6,10,2004,Pneumonia
 Nakhon Phanom,6-6,42,2004,Pneumonia
 Sakon Nakhon,6-6,18,2004,Pneumonia
-Zone 12,6-6,131,2004,Pneumonia
+Zone:12,6-6,131,2004,Pneumonia
 Khon Kaen,6-6,61,2004,Pneumonia
 Maha Sarakham,6-6,38,2004,Pneumonia
 Roi Et,6-6,32,2004,Pneumonia
-Zone 13,6-6,311,2004,Pneumonia
+Zone:13,6-6,311,2004,Pneumonia
 Buri Ram,6-6,54,2004,Pneumonia
 Chaiyaphum,6-6,40,2004,Pneumonia
 Nakhon Ratchasima,6-6,106,2004,Pneumonia
 Surin,6-6,111,2004,Pneumonia
-Zone 14,6-6,178,2004,Pneumonia
+Zone:14,6-6,178,2004,Pneumonia
 Amnat Charoen,6-6,14,2004,Pneumonia
 Si Sa Ket,6-6,53,2004,Pneumonia
 Ubon Ratchathani,6-6,107,2004,Pneumonia
 Yasothon,6-6,4,2004,Pneumonia
 South Region,6-6,317,2004,Pneumonia
-Zone 15,6-6,85,2004,Pneumonia
+Zone:15,6-6,85,2004,Pneumonia
 Chumphon,6-6,28,2004,Pneumonia
 Ranong,6-6,5,2004,Pneumonia
 Surat Thani,6-6,52,2004,Pneumonia
-Zone 16,6-6,72,2004,Pneumonia
+Zone:16,6-6,72,2004,Pneumonia
 Nakhon Si Thammarat,6-6,23,2004,Pneumonia
 Phatthalung,6-6,23,2004,Pneumonia
 Trang,6-6,26,2004,Pneumonia
-Zone 17,6-6,29,2004,Pneumonia
+Zone:17,6-6,29,2004,Pneumonia
 Krabi,6-6,22,2004,Pneumonia
 Phangnga,6-6,4,2004,Pneumonia
 Phuket,6-6,3,2004,Pneumonia
-Zone 18,6-6,88,2004,Pneumonia
+Zone:18,6-6,88,2004,Pneumonia
 Narathiwat,6-6,34,2004,Pneumonia
 Pattani,6-6,18,2004,Pneumonia
 Yala,6-6,36,2004,Pneumonia
-Zone 19,6-6,43,2004,Pneumonia
+Zone:19,6-6,43,2004,Pneumonia
 Satun,6-6,8,2004,Pneumonia
 Songkhla,6-6,35,2004,Pneumonia
 Total,7-9,4459,2004,Pneumonia
 North Region,7-9,896,2004,Pneumonia
-Zone 1,7-9,466,2004,Pneumonia
+Zone:1,7-9,466,2004,Pneumonia
 Chiang Mai,7-9,104,2004,Pneumonia
 Chiang Rai,7-9,125,2004,Pneumonia
 Lampang,7-9,66,2004,Pneumonia
@@ -7930,98 +7930,98 @@ Mae Hong Son,7-9,40,2004,Pneumonia
 Nan,7-9,24,2004,Pneumonia
 Phayao,7-9,60,2004,Pneumonia
 Phrae,7-9,17,2004,Pneumonia
-Zone 2,7-9,253,2004,Pneumonia
+Zone:2,7-9,253,2004,Pneumonia
 Phetchabun,7-9,32,2004,Pneumonia
 Phitsanulok,7-9,31,2004,Pneumonia
 Sukhothai,7-9,83,2004,Pneumonia
 Tak,7-9,56,2004,Pneumonia
 Uttaradit,7-9,51,2004,Pneumonia
-Zone 3,7-9,177,2004,Pneumonia
+Zone:3,7-9,177,2004,Pneumonia
 Kamphaeng Phet,7-9,48,2004,Pneumonia
 Nakhon Sawan,7-9,65,2004,Pneumonia
 Phichit,7-9,33,2004,Pneumonia
 Uthai Thani,7-9,31,2004,Pneumonia
 Central Region,7-9,1422,2004,Pneumonia
 Bangkok,7-9,329,2004,Pneumonia
-Zone 4,7-9,217,2004,Pneumonia
+Zone:4,7-9,217,2004,Pneumonia
 Ang Thong,7-9,32,2004,Pneumonia
 Nonthaburi,7-9,31,2004,Pneumonia
 P.Nakhon S.Ayutthaya,7-9,68,2004,Pneumonia
 Pathum Thani,7-9,86,2004,Pneumonia
-Zone 5,7-9,94,2004,Pneumonia
+Zone:5,7-9,94,2004,Pneumonia
 Chai Nat,7-9,9,2004,Pneumonia
 Lop Buri,7-9,52,2004,Pneumonia
 Saraburi,7-9,22,2004,Pneumonia
 Sing Buri,7-9,11,2004,Pneumonia
-Zone 6,7-9,303,2004,Pneumonia
+Zone:6,7-9,303,2004,Pneumonia
 Kanchanaburi,7-9,137,2004,Pneumonia
 Nakhon Pathom,7-9,62,2004,Pneumonia
 Ratchaburi,7-9,67,2004,Pneumonia
 Suphan Buri,7-9,37,2004,Pneumonia
-Zone 7,7-9,96,2004,Pneumonia
+Zone:7,7-9,96,2004,Pneumonia
 Phetchaburi,7-9,27,2004,Pneumonia
 Prachuap Khiri Khan,7-9,38,2004,Pneumonia
 Samut Sakhon,7-9,26,2004,Pneumonia
 Samut Songkhram,7-9,5,2004,Pneumonia
-Zone 8,7-9,229,2004,Pneumonia
+Zone:8,7-9,229,2004,Pneumonia
 Chachoengsao,7-9,132,2004,Pneumonia
 Nakhon Nayok,7-9,8,2004,Pneumonia
 Prachin Buri,7-9,39,2004,Pneumonia
 Sa Kaeo,7-9,18,2004,Pneumonia
 Samut Prakan,7-9,32,2004,Pneumonia
-Zone 9,7-9,154,2004,Pneumonia
+Zone:9,7-9,154,2004,Pneumonia
 Chanthaburi,7-9,44,2004,Pneumonia
 Chon Buri,7-9,46,2004,Pneumonia
 Rayong,7-9,53,2004,Pneumonia
 Trat,7-9,11,2004,Pneumonia
 North-Eastern Region,7-9,1570,2004,Pneumonia
-Zone 10,7-9,183,2004,Pneumonia
+Zone:10,7-9,183,2004,Pneumonia
 Loei,7-9,16,2004,Pneumonia
 Nong Bua Lam Phu,7-9,27,2004,Pneumonia
 Nong Khai,7-9,47,2004,Pneumonia
 Udon Thani,7-9,93,2004,Pneumonia
-Zone 11,7-9,200,2004,Pneumonia
+Zone:11,7-9,200,2004,Pneumonia
 Kalasin,7-9,80,2004,Pneumonia
 Mukdahan,7-9,17,2004,Pneumonia
 Nakhon Phanom,7-9,76,2004,Pneumonia
 Sakon Nakhon,7-9,27,2004,Pneumonia
-Zone 12,7-9,257,2004,Pneumonia
+Zone:12,7-9,257,2004,Pneumonia
 Khon Kaen,7-9,118,2004,Pneumonia
 Maha Sarakham,7-9,71,2004,Pneumonia
 Roi Et,7-9,68,2004,Pneumonia
-Zone 13,7-9,606,2004,Pneumonia
+Zone:13,7-9,606,2004,Pneumonia
 Buri Ram,7-9,95,2004,Pneumonia
 Chaiyaphum,7-9,68,2004,Pneumonia
 Nakhon Ratchasima,7-9,222,2004,Pneumonia
 Surin,7-9,221,2004,Pneumonia
-Zone 14,7-9,324,2004,Pneumonia
+Zone:14,7-9,324,2004,Pneumonia
 Amnat Charoen,7-9,35,2004,Pneumonia
 Si Sa Ket,7-9,99,2004,Pneumonia
 Ubon Ratchathani,7-9,162,2004,Pneumonia
 Yasothon,7-9,28,2004,Pneumonia
 South Region,7-9,571,2004,Pneumonia
-Zone 15,7-9,114,2004,Pneumonia
+Zone:15,7-9,114,2004,Pneumonia
 Chumphon,7-9,35,2004,Pneumonia
 Ranong,7-9,4,2004,Pneumonia
 Surat Thani,7-9,75,2004,Pneumonia
-Zone 16,7-9,164,2004,Pneumonia
+Zone:16,7-9,164,2004,Pneumonia
 Nakhon Si Thammarat,7-9,72,2004,Pneumonia
 Phatthalung,7-9,59,2004,Pneumonia
 Trang,7-9,33,2004,Pneumonia
-Zone 17,7-9,54,2004,Pneumonia
+Zone:17,7-9,54,2004,Pneumonia
 Krabi,7-9,32,2004,Pneumonia
 Phangnga,7-9,12,2004,Pneumonia
 Phuket,7-9,10,2004,Pneumonia
-Zone 18,7-9,158,2004,Pneumonia
+Zone:18,7-9,158,2004,Pneumonia
 Narathiwat,7-9,73,2004,Pneumonia
 Pattani,7-9,33,2004,Pneumonia
 Yala,7-9,52,2004,Pneumonia
-Zone 19,7-9,81,2004,Pneumonia
+Zone:19,7-9,81,2004,Pneumonia
 Satun,7-9,14,2004,Pneumonia
 Songkhla,7-9,67,2004,Pneumonia
 Total,10-14,3194,2004,Pneumonia
 North Region,10-14,707,2004,Pneumonia
-Zone 1,10-14,355,2004,Pneumonia
+Zone:1,10-14,355,2004,Pneumonia
 Chiang Mai,10-14,71,2004,Pneumonia
 Chiang Rai,10-14,79,2004,Pneumonia
 Lampang,10-14,72,2004,Pneumonia
@@ -8030,98 +8030,98 @@ Mae Hong Son,10-14,23,2004,Pneumonia
 Nan,10-14,20,2004,Pneumonia
 Phayao,10-14,39,2004,Pneumonia
 Phrae,10-14,19,2004,Pneumonia
-Zone 2,10-14,208,2004,Pneumonia
+Zone:2,10-14,208,2004,Pneumonia
 Phetchabun,10-14,32,2004,Pneumonia
 Phitsanulok,10-14,29,2004,Pneumonia
 Sukhothai,10-14,72,2004,Pneumonia
 Tak,10-14,33,2004,Pneumonia
 Uttaradit,10-14,42,2004,Pneumonia
-Zone 3,10-14,144,2004,Pneumonia
+Zone:3,10-14,144,2004,Pneumonia
 Kamphaeng Phet,10-14,34,2004,Pneumonia
 Nakhon Sawan,10-14,50,2004,Pneumonia
 Phichit,10-14,37,2004,Pneumonia
 Uthai Thani,10-14,23,2004,Pneumonia
 Central Region,10-14,968,2004,Pneumonia
 Bangkok,10-14,202,2004,Pneumonia
-Zone 4,10-14,127,2004,Pneumonia
+Zone:4,10-14,127,2004,Pneumonia
 Ang Thong,10-14,11,2004,Pneumonia
 Nonthaburi,10-14,26,2004,Pneumonia
 P.Nakhon S.Ayutthaya,10-14,46,2004,Pneumonia
 Pathum Thani,10-14,44,2004,Pneumonia
-Zone 5,10-14,62,2004,Pneumonia
+Zone:5,10-14,62,2004,Pneumonia
 Chai Nat,10-14,10,2004,Pneumonia
 Lop Buri,10-14,29,2004,Pneumonia
 Saraburi,10-14,14,2004,Pneumonia
 Sing Buri,10-14,9,2004,Pneumonia
-Zone 6,10-14,207,2004,Pneumonia
+Zone:6,10-14,207,2004,Pneumonia
 Kanchanaburi,10-14,79,2004,Pneumonia
 Nakhon Pathom,10-14,59,2004,Pneumonia
 Ratchaburi,10-14,45,2004,Pneumonia
 Suphan Buri,10-14,24,2004,Pneumonia
-Zone 7,10-14,59,2004,Pneumonia
+Zone:7,10-14,59,2004,Pneumonia
 Phetchaburi,10-14,14,2004,Pneumonia
 Prachuap Khiri Khan,10-14,33,2004,Pneumonia
 Samut Sakhon,10-14,8,2004,Pneumonia
 Samut Songkhram,10-14,4,2004,Pneumonia
-Zone 8,10-14,182,2004,Pneumonia
+Zone:8,10-14,182,2004,Pneumonia
 Chachoengsao,10-14,92,2004,Pneumonia
 Nakhon Nayok,10-14,6,2004,Pneumonia
 Prachin Buri,10-14,38,2004,Pneumonia
 Sa Kaeo,10-14,19,2004,Pneumonia
 Samut Prakan,10-14,27,2004,Pneumonia
-Zone 9,10-14,129,2004,Pneumonia
+Zone:9,10-14,129,2004,Pneumonia
 Chanthaburi,10-14,40,2004,Pneumonia
 Chon Buri,10-14,43,2004,Pneumonia
 Rayong,10-14,38,2004,Pneumonia
 Trat,10-14,8,2004,Pneumonia
 North-Eastern Region,10-14,1143,2004,Pneumonia
-Zone 10,10-14,132,2004,Pneumonia
+Zone:10,10-14,132,2004,Pneumonia
 Loei,10-14,18,2004,Pneumonia
 Nong Bua Lam Phu,10-14,23,2004,Pneumonia
 Nong Khai,10-14,23,2004,Pneumonia
 Udon Thani,10-14,68,2004,Pneumonia
-Zone 11,10-14,144,2004,Pneumonia
+Zone:11,10-14,144,2004,Pneumonia
 Kalasin,10-14,54,2004,Pneumonia
 Mukdahan,10-14,31,2004,Pneumonia
 Nakhon Phanom,10-14,44,2004,Pneumonia
 Sakon Nakhon,10-14,15,2004,Pneumonia
-Zone 12,10-14,217,2004,Pneumonia
+Zone:12,10-14,217,2004,Pneumonia
 Khon Kaen,10-14,108,2004,Pneumonia
 Maha Sarakham,10-14,58,2004,Pneumonia
 Roi Et,10-14,51,2004,Pneumonia
-Zone 13,10-14,424,2004,Pneumonia
+Zone:13,10-14,424,2004,Pneumonia
 Buri Ram,10-14,72,2004,Pneumonia
 Chaiyaphum,10-14,61,2004,Pneumonia
 Nakhon Ratchasima,10-14,137,2004,Pneumonia
 Surin,10-14,154,2004,Pneumonia
-Zone 14,10-14,226,2004,Pneumonia
+Zone:14,10-14,226,2004,Pneumonia
 Amnat Charoen,10-14,15,2004,Pneumonia
 Si Sa Ket,10-14,63,2004,Pneumonia
 Ubon Ratchathani,10-14,128,2004,Pneumonia
 Yasothon,10-14,20,2004,Pneumonia
 South Region,10-14,376,2004,Pneumonia
-Zone 15,10-14,88,2004,Pneumonia
+Zone:15,10-14,88,2004,Pneumonia
 Chumphon,10-14,22,2004,Pneumonia
 Ranong,10-14,8,2004,Pneumonia
 Surat Thani,10-14,58,2004,Pneumonia
-Zone 16,10-14,85,2004,Pneumonia
+Zone:16,10-14,85,2004,Pneumonia
 Nakhon Si Thammarat,10-14,45,2004,Pneumonia
 Phatthalung,10-14,19,2004,Pneumonia
 Trang,10-14,21,2004,Pneumonia
-Zone 17,10-14,39,2004,Pneumonia
+Zone:17,10-14,39,2004,Pneumonia
 Krabi,10-14,18,2004,Pneumonia
 Phangnga,10-14,9,2004,Pneumonia
 Phuket,10-14,12,2004,Pneumonia
-Zone 18,10-14,103,2004,Pneumonia
+Zone:18,10-14,103,2004,Pneumonia
 Narathiwat,10-14,34,2004,Pneumonia
 Pattani,10-14,22,2004,Pneumonia
 Yala,10-14,47,2004,Pneumonia
-Zone 19,10-14,61,2004,Pneumonia
+Zone:19,10-14,61,2004,Pneumonia
 Satun,10-14,10,2004,Pneumonia
 Songkhla,10-14,51,2004,Pneumonia
 Total,15-24,2608,2004,Pneumonia
 North Region,15-24,587,2004,Pneumonia
-Zone 1,15-24,295,2004,Pneumonia
+Zone:1,15-24,295,2004,Pneumonia
 Chiang Mai,15-24,69,2004,Pneumonia
 Chiang Rai,15-24,75,2004,Pneumonia
 Lampang,15-24,50,2004,Pneumonia
@@ -8130,98 +8130,98 @@ Mae Hong Son,15-24,30,2004,Pneumonia
 Nan,15-24,14,2004,Pneumonia
 Phayao,15-24,28,2004,Pneumonia
 Phrae,15-24,8,2004,Pneumonia
-Zone 2,15-24,162,2004,Pneumonia
+Zone:2,15-24,162,2004,Pneumonia
 Phetchabun,15-24,26,2004,Pneumonia
 Phitsanulok,15-24,27,2004,Pneumonia
 Sukhothai,15-24,37,2004,Pneumonia
 Tak,15-24,36,2004,Pneumonia
 Uttaradit,15-24,36,2004,Pneumonia
-Zone 3,15-24,130,2004,Pneumonia
+Zone:3,15-24,130,2004,Pneumonia
 Kamphaeng Phet,15-24,44,2004,Pneumonia
 Nakhon Sawan,15-24,49,2004,Pneumonia
 Phichit,15-24,10,2004,Pneumonia
 Uthai Thani,15-24,27,2004,Pneumonia
 Central Region,15-24,751,2004,Pneumonia
 Bangkok,15-24,134,2004,Pneumonia
-Zone 4,15-24,91,2004,Pneumonia
+Zone:4,15-24,91,2004,Pneumonia
 Ang Thong,15-24,9,2004,Pneumonia
 Nonthaburi,15-24,16,2004,Pneumonia
 P.Nakhon S.Ayutthaya,15-24,36,2004,Pneumonia
 Pathum Thani,15-24,30,2004,Pneumonia
-Zone 5,15-24,54,2004,Pneumonia
+Zone:5,15-24,54,2004,Pneumonia
 Chai Nat,15-24,8,2004,Pneumonia
 Lop Buri,15-24,27,2004,Pneumonia
 Saraburi,15-24,14,2004,Pneumonia
 Sing Buri,15-24,5,2004,Pneumonia
-Zone 6,15-24,133,2004,Pneumonia
+Zone:6,15-24,133,2004,Pneumonia
 Kanchanaburi,15-24,37,2004,Pneumonia
 Nakhon Pathom,15-24,53,2004,Pneumonia
 Ratchaburi,15-24,22,2004,Pneumonia
 Suphan Buri,15-24,21,2004,Pneumonia
-Zone 7,15-24,48,2004,Pneumonia
+Zone:7,15-24,48,2004,Pneumonia
 Phetchaburi,15-24,12,2004,Pneumonia
 Prachuap Khiri Khan,15-24,16,2004,Pneumonia
 Samut Sakhon,15-24,11,2004,Pneumonia
 Samut Songkhram,15-24,9,2004,Pneumonia
-Zone 8,15-24,143,2004,Pneumonia
+Zone:8,15-24,143,2004,Pneumonia
 Chachoengsao,15-24,53,2004,Pneumonia
 Nakhon Nayok,15-24,7,2004,Pneumonia
 Prachin Buri,15-24,36,2004,Pneumonia
 Sa Kaeo,15-24,28,2004,Pneumonia
 Samut Prakan,15-24,19,2004,Pneumonia
-Zone 9,15-24,148,2004,Pneumonia
+Zone:9,15-24,148,2004,Pneumonia
 Chanthaburi,15-24,35,2004,Pneumonia
 Chon Buri,15-24,33,2004,Pneumonia
 Rayong,15-24,62,2004,Pneumonia
 Trat,15-24,18,2004,Pneumonia
 North-Eastern Region,15-24,892,2004,Pneumonia
-Zone 10,15-24,111,2004,Pneumonia
+Zone:10,15-24,111,2004,Pneumonia
 Loei,15-24,15,2004,Pneumonia
 Nong Bua Lam Phu,15-24,12,2004,Pneumonia
 Nong Khai,15-24,28,2004,Pneumonia
 Udon Thani,15-24,56,2004,Pneumonia
-Zone 11,15-24,109,2004,Pneumonia
+Zone:11,15-24,109,2004,Pneumonia
 Kalasin,15-24,19,2004,Pneumonia
 Mukdahan,15-24,24,2004,Pneumonia
 Nakhon Phanom,15-24,50,2004,Pneumonia
 Sakon Nakhon,15-24,16,2004,Pneumonia
-Zone 12,15-24,115,2004,Pneumonia
+Zone:12,15-24,115,2004,Pneumonia
 Khon Kaen,15-24,61,2004,Pneumonia
 Maha Sarakham,15-24,34,2004,Pneumonia
 Roi Et,15-24,20,2004,Pneumonia
-Zone 13,15-24,307,2004,Pneumonia
+Zone:13,15-24,307,2004,Pneumonia
 Buri Ram,15-24,60,2004,Pneumonia
 Chaiyaphum,15-24,42,2004,Pneumonia
 Nakhon Ratchasima,15-24,128,2004,Pneumonia
 Surin,15-24,77,2004,Pneumonia
-Zone 14,15-24,250,2004,Pneumonia
+Zone:14,15-24,250,2004,Pneumonia
 Amnat Charoen,15-24,14,2004,Pneumonia
 Si Sa Ket,15-24,81,2004,Pneumonia
 Ubon Ratchathani,15-24,132,2004,Pneumonia
 Yasothon,15-24,23,2004,Pneumonia
 South Region,15-24,378,2004,Pneumonia
-Zone 15,15-24,111,2004,Pneumonia
+Zone:15,15-24,111,2004,Pneumonia
 Chumphon,15-24,23,2004,Pneumonia
 Ranong,15-24,16,2004,Pneumonia
 Surat Thani,15-24,72,2004,Pneumonia
-Zone 16,15-24,92,2004,Pneumonia
+Zone:16,15-24,92,2004,Pneumonia
 Nakhon Si Thammarat,15-24,49,2004,Pneumonia
 Phatthalung,15-24,20,2004,Pneumonia
 Trang,15-24,23,2004,Pneumonia
-Zone 17,15-24,33,2004,Pneumonia
+Zone:17,15-24,33,2004,Pneumonia
 Krabi,15-24,19,2004,Pneumonia
 Phangnga,15-24,5,2004,Pneumonia
 Phuket,15-24,9,2004,Pneumonia
-Zone 18,15-24,86,2004,Pneumonia
+Zone:18,15-24,86,2004,Pneumonia
 Narathiwat,15-24,42,2004,Pneumonia
 Pattani,15-24,19,2004,Pneumonia
 Yala,15-24,25,2004,Pneumonia
-Zone 19,15-24,56,2004,Pneumonia
+Zone:19,15-24,56,2004,Pneumonia
 Satun,15-24,14,2004,Pneumonia
 Songkhla,15-24,42,2004,Pneumonia
 Total,25-34,4590,2004,Pneumonia
 North Region,25-34,1025,2004,Pneumonia
-Zone 1,25-34,556,2004,Pneumonia
+Zone:1,25-34,556,2004,Pneumonia
 Chiang Mai,25-34,121,2004,Pneumonia
 Chiang Rai,25-34,151,2004,Pneumonia
 Lampang,25-34,110,2004,Pneumonia
@@ -8230,98 +8230,98 @@ Mae Hong Son,25-34,40,2004,Pneumonia
 Nan,25-34,32,2004,Pneumonia
 Phayao,25-34,44,2004,Pneumonia
 Phrae,25-34,16,2004,Pneumonia
-Zone 2,25-34,252,2004,Pneumonia
+Zone:2,25-34,252,2004,Pneumonia
 Phetchabun,25-34,43,2004,Pneumonia
 Phitsanulok,25-34,48,2004,Pneumonia
 Sukhothai,25-34,72,2004,Pneumonia
 Tak,25-34,36,2004,Pneumonia
 Uttaradit,25-34,53,2004,Pneumonia
-Zone 3,25-34,217,2004,Pneumonia
+Zone:3,25-34,217,2004,Pneumonia
 Kamphaeng Phet,25-34,74,2004,Pneumonia
 Nakhon Sawan,25-34,64,2004,Pneumonia
 Phichit,25-34,33,2004,Pneumonia
 Uthai Thani,25-34,46,2004,Pneumonia
 Central Region,25-34,1219,2004,Pneumonia
 Bangkok,25-34,192,2004,Pneumonia
-Zone 4,25-34,139,2004,Pneumonia
+Zone:4,25-34,139,2004,Pneumonia
 Ang Thong,25-34,16,2004,Pneumonia
 Nonthaburi,25-34,27,2004,Pneumonia
 P.Nakhon S.Ayutthaya,25-34,45,2004,Pneumonia
 Pathum Thani,25-34,51,2004,Pneumonia
-Zone 5,25-34,70,2004,Pneumonia
+Zone:5,25-34,70,2004,Pneumonia
 Chai Nat,25-34,13,2004,Pneumonia
 Lop Buri,25-34,29,2004,Pneumonia
 Saraburi,25-34,21,2004,Pneumonia
 Sing Buri,25-34,7,2004,Pneumonia
-Zone 6,25-34,218,2004,Pneumonia
+Zone:6,25-34,218,2004,Pneumonia
 Kanchanaburi,25-34,76,2004,Pneumonia
 Nakhon Pathom,25-34,74,2004,Pneumonia
 Ratchaburi,25-34,35,2004,Pneumonia
 Suphan Buri,25-34,33,2004,Pneumonia
-Zone 7,25-34,108,2004,Pneumonia
+Zone:7,25-34,108,2004,Pneumonia
 Phetchaburi,25-34,31,2004,Pneumonia
 Prachuap Khiri Khan,25-34,45,2004,Pneumonia
 Samut Sakhon,25-34,10,2004,Pneumonia
 Samut Songkhram,25-34,22,2004,Pneumonia
-Zone 8,25-34,243,2004,Pneumonia
+Zone:8,25-34,243,2004,Pneumonia
 Chachoengsao,25-34,81,2004,Pneumonia
 Nakhon Nayok,25-34,5,2004,Pneumonia
 Prachin Buri,25-34,75,2004,Pneumonia
 Sa Kaeo,25-34,38,2004,Pneumonia
 Samut Prakan,25-34,44,2004,Pneumonia
-Zone 9,25-34,249,2004,Pneumonia
+Zone:9,25-34,249,2004,Pneumonia
 Chanthaburi,25-34,52,2004,Pneumonia
 Chon Buri,25-34,52,2004,Pneumonia
 Rayong,25-34,115,2004,Pneumonia
 Trat,25-34,30,2004,Pneumonia
 North-Eastern Region,25-34,1763,2004,Pneumonia
-Zone 10,25-34,227,2004,Pneumonia
+Zone:10,25-34,227,2004,Pneumonia
 Loei,25-34,32,2004,Pneumonia
 Nong Bua Lam Phu,25-34,39,2004,Pneumonia
 Nong Khai,25-34,48,2004,Pneumonia
 Udon Thani,25-34,108,2004,Pneumonia
-Zone 11,25-34,174,2004,Pneumonia
+Zone:11,25-34,174,2004,Pneumonia
 Kalasin,25-34,49,2004,Pneumonia
 Mukdahan,25-34,24,2004,Pneumonia
 Nakhon Phanom,25-34,72,2004,Pneumonia
 Sakon Nakhon,25-34,29,2004,Pneumonia
-Zone 12,25-34,241,2004,Pneumonia
+Zone:12,25-34,241,2004,Pneumonia
 Khon Kaen,25-34,118,2004,Pneumonia
 Maha Sarakham,25-34,51,2004,Pneumonia
 Roi Et,25-34,72,2004,Pneumonia
-Zone 13,25-34,631,2004,Pneumonia
+Zone:13,25-34,631,2004,Pneumonia
 Buri Ram,25-34,115,2004,Pneumonia
 Chaiyaphum,25-34,85,2004,Pneumonia
 Nakhon Ratchasima,25-34,262,2004,Pneumonia
 Surin,25-34,169,2004,Pneumonia
-Zone 14,25-34,490,2004,Pneumonia
+Zone:14,25-34,490,2004,Pneumonia
 Amnat Charoen,25-34,32,2004,Pneumonia
 Si Sa Ket,25-34,140,2004,Pneumonia
 Ubon Ratchathani,25-34,276,2004,Pneumonia
 Yasothon,25-34,42,2004,Pneumonia
 South Region,25-34,583,2004,Pneumonia
-Zone 15,25-34,151,2004,Pneumonia
+Zone:15,25-34,151,2004,Pneumonia
 Chumphon,25-34,23,2004,Pneumonia
 Ranong,25-34,21,2004,Pneumonia
 Surat Thani,25-34,107,2004,Pneumonia
-Zone 16,25-34,171,2004,Pneumonia
+Zone:16,25-34,171,2004,Pneumonia
 Nakhon Si Thammarat,25-34,81,2004,Pneumonia
 Phatthalung,25-34,34,2004,Pneumonia
 Trang,25-34,56,2004,Pneumonia
-Zone 17,25-34,62,2004,Pneumonia
+Zone:17,25-34,62,2004,Pneumonia
 Krabi,25-34,32,2004,Pneumonia
 Phangnga,25-34,9,2004,Pneumonia
 Phuket,25-34,21,2004,Pneumonia
-Zone 18,25-34,119,2004,Pneumonia
+Zone:18,25-34,119,2004,Pneumonia
 Narathiwat,25-34,56,2004,Pneumonia
 Pattani,25-34,30,2004,Pneumonia
 Yala,25-34,33,2004,Pneumonia
-Zone 19,25-34,80,2004,Pneumonia
+Zone:19,25-34,80,2004,Pneumonia
 Satun,25-34,12,2004,Pneumonia
 Songkhla,25-34,68,2004,Pneumonia
 Total,35-44,5509,2004,Pneumonia
 North Region,35-44,1395,2004,Pneumonia
-Zone 1,35-44,784,2004,Pneumonia
+Zone:1,35-44,784,2004,Pneumonia
 Chiang Mai,35-44,182,2004,Pneumonia
 Chiang Rai,35-44,174,2004,Pneumonia
 Lampang,35-44,191,2004,Pneumonia
@@ -8330,98 +8330,98 @@ Mae Hong Son,35-44,46,2004,Pneumonia
 Nan,35-44,56,2004,Pneumonia
 Phayao,35-44,58,2004,Pneumonia
 Phrae,35-44,26,2004,Pneumonia
-Zone 2,35-44,347,2004,Pneumonia
+Zone:2,35-44,347,2004,Pneumonia
 Phetchabun,35-44,58,2004,Pneumonia
 Phitsanulok,35-44,75,2004,Pneumonia
 Sukhothai,35-44,98,2004,Pneumonia
 Tak,35-44,52,2004,Pneumonia
 Uttaradit,35-44,64,2004,Pneumonia
-Zone 3,35-44,264,2004,Pneumonia
+Zone:3,35-44,264,2004,Pneumonia
 Kamphaeng Phet,35-44,77,2004,Pneumonia
 Nakhon Sawan,35-44,88,2004,Pneumonia
 Phichit,35-44,44,2004,Pneumonia
 Uthai Thani,35-44,55,2004,Pneumonia
 Central Region,35-44,1378,2004,Pneumonia
 Bangkok,35-44,196,2004,Pneumonia
-Zone 4,35-44,177,2004,Pneumonia
+Zone:4,35-44,177,2004,Pneumonia
 Ang Thong,35-44,19,2004,Pneumonia
 Nonthaburi,35-44,34,2004,Pneumonia
 P.Nakhon S.Ayutthaya,35-44,63,2004,Pneumonia
 Pathum Thani,35-44,61,2004,Pneumonia
-Zone 5,35-44,115,2004,Pneumonia
+Zone:5,35-44,115,2004,Pneumonia
 Chai Nat,35-44,8,2004,Pneumonia
 Lop Buri,35-44,58,2004,Pneumonia
 Saraburi,35-44,40,2004,Pneumonia
 Sing Buri,35-44,9,2004,Pneumonia
-Zone 6,35-44,247,2004,Pneumonia
+Zone:6,35-44,247,2004,Pneumonia
 Kanchanaburi,35-44,86,2004,Pneumonia
 Nakhon Pathom,35-44,76,2004,Pneumonia
 Ratchaburi,35-44,49,2004,Pneumonia
 Suphan Buri,35-44,36,2004,Pneumonia
-Zone 7,35-44,79,2004,Pneumonia
+Zone:7,35-44,79,2004,Pneumonia
 Phetchaburi,35-44,24,2004,Pneumonia
 Prachuap Khiri Khan,35-44,28,2004,Pneumonia
 Samut Sakhon,35-44,6,2004,Pneumonia
 Samut Songkhram,35-44,21,2004,Pneumonia
-Zone 8,35-44,270,2004,Pneumonia
+Zone:8,35-44,270,2004,Pneumonia
 Chachoengsao,35-44,89,2004,Pneumonia
 Nakhon Nayok,35-44,15,2004,Pneumonia
 Prachin Buri,35-44,80,2004,Pneumonia
 Sa Kaeo,35-44,52,2004,Pneumonia
 Samut Prakan,35-44,34,2004,Pneumonia
-Zone 9,35-44,294,2004,Pneumonia
+Zone:9,35-44,294,2004,Pneumonia
 Chanthaburi,35-44,64,2004,Pneumonia
 Chon Buri,35-44,60,2004,Pneumonia
 Rayong,35-44,123,2004,Pneumonia
 Trat,35-44,47,2004,Pneumonia
 North-Eastern Region,35-44,2101,2004,Pneumonia
-Zone 10,35-44,235,2004,Pneumonia
+Zone:10,35-44,235,2004,Pneumonia
 Loei,35-44,24,2004,Pneumonia
 Nong Bua Lam Phu,35-44,52,2004,Pneumonia
 Nong Khai,35-44,54,2004,Pneumonia
 Udon Thani,35-44,105,2004,Pneumonia
-Zone 11,35-44,194,2004,Pneumonia
+Zone:11,35-44,194,2004,Pneumonia
 Kalasin,35-44,47,2004,Pneumonia
 Mukdahan,35-44,40,2004,Pneumonia
 Nakhon Phanom,35-44,63,2004,Pneumonia
 Sakon Nakhon,35-44,44,2004,Pneumonia
-Zone 12,35-44,298,2004,Pneumonia
+Zone:12,35-44,298,2004,Pneumonia
 Khon Kaen,35-44,154,2004,Pneumonia
 Maha Sarakham,35-44,82,2004,Pneumonia
 Roi Et,35-44,62,2004,Pneumonia
-Zone 13,35-44,842,2004,Pneumonia
+Zone:13,35-44,842,2004,Pneumonia
 Buri Ram,35-44,160,2004,Pneumonia
 Chaiyaphum,35-44,111,2004,Pneumonia
 Nakhon Ratchasima,35-44,331,2004,Pneumonia
 Surin,35-44,240,2004,Pneumonia
-Zone 14,35-44,532,2004,Pneumonia
+Zone:14,35-44,532,2004,Pneumonia
 Amnat Charoen,35-44,31,2004,Pneumonia
 Si Sa Ket,35-44,153,2004,Pneumonia
 Ubon Ratchathani,35-44,289,2004,Pneumonia
 Yasothon,35-44,59,2004,Pneumonia
 South Region,35-44,635,2004,Pneumonia
-Zone 15,35-44,184,2004,Pneumonia
+Zone:15,35-44,184,2004,Pneumonia
 Chumphon,35-44,46,2004,Pneumonia
 Ranong,35-44,23,2004,Pneumonia
 Surat Thani,35-44,115,2004,Pneumonia
-Zone 16,35-44,154,2004,Pneumonia
+Zone:16,35-44,154,2004,Pneumonia
 Nakhon Si Thammarat,35-44,54,2004,Pneumonia
 Phatthalung,35-44,39,2004,Pneumonia
 Trang,35-44,61,2004,Pneumonia
-Zone 17,35-44,87,2004,Pneumonia
+Zone:17,35-44,87,2004,Pneumonia
 Krabi,35-44,43,2004,Pneumonia
 Phangnga,35-44,11,2004,Pneumonia
 Phuket,35-44,33,2004,Pneumonia
-Zone 18,35-44,123,2004,Pneumonia
+Zone:18,35-44,123,2004,Pneumonia
 Narathiwat,35-44,53,2004,Pneumonia
 Pattani,35-44,16,2004,Pneumonia
 Yala,35-44,54,2004,Pneumonia
-Zone 19,35-44,87,2004,Pneumonia
+Zone:19,35-44,87,2004,Pneumonia
 Satun,35-44,11,2004,Pneumonia
 Songkhla,35-44,76,2004,Pneumonia
 Total,45-54,6522,2004,Pneumonia
 North Region,45-54,1724,2004,Pneumonia
-Zone 1,45-54,998,2004,Pneumonia
+Zone:1,45-54,998,2004,Pneumonia
 Chiang Mai,45-54,205,2004,Pneumonia
 Chiang Rai,45-54,218,2004,Pneumonia
 Lampang,45-54,252,2004,Pneumonia
@@ -8430,98 +8430,98 @@ Mae Hong Son,45-54,37,2004,Pneumonia
 Nan,45-54,75,2004,Pneumonia
 Phayao,45-54,83,2004,Pneumonia
 Phrae,45-54,43,2004,Pneumonia
-Zone 2,45-54,408,2004,Pneumonia
+Zone:2,45-54,408,2004,Pneumonia
 Phetchabun,45-54,50,2004,Pneumonia
 Phitsanulok,45-54,75,2004,Pneumonia
 Sukhothai,45-54,117,2004,Pneumonia
 Tak,45-54,80,2004,Pneumonia
 Uttaradit,45-54,86,2004,Pneumonia
-Zone 3,45-54,318,2004,Pneumonia
+Zone:3,45-54,318,2004,Pneumonia
 Kamphaeng Phet,45-54,108,2004,Pneumonia
 Nakhon Sawan,45-54,106,2004,Pneumonia
 Phichit,45-54,45,2004,Pneumonia
 Uthai Thani,45-54,59,2004,Pneumonia
 Central Region,45-54,1444,2004,Pneumonia
 Bangkok,45-54,191,2004,Pneumonia
-Zone 4,45-54,180,2004,Pneumonia
+Zone:4,45-54,180,2004,Pneumonia
 Ang Thong,45-54,23,2004,Pneumonia
 Nonthaburi,45-54,39,2004,Pneumonia
 P.Nakhon S.Ayutthaya,45-54,71,2004,Pneumonia
 Pathum Thani,45-54,47,2004,Pneumonia
-Zone 5,45-54,144,2004,Pneumonia
+Zone:5,45-54,144,2004,Pneumonia
 Chai Nat,45-54,23,2004,Pneumonia
 Lop Buri,45-54,59,2004,Pneumonia
 Saraburi,45-54,48,2004,Pneumonia
 Sing Buri,45-54,14,2004,Pneumonia
-Zone 6,45-54,275,2004,Pneumonia
+Zone:6,45-54,275,2004,Pneumonia
 Kanchanaburi,45-54,81,2004,Pneumonia
 Nakhon Pathom,45-54,85,2004,Pneumonia
 Ratchaburi,45-54,58,2004,Pneumonia
 Suphan Buri,45-54,51,2004,Pneumonia
-Zone 7,45-54,118,2004,Pneumonia
+Zone:7,45-54,118,2004,Pneumonia
 Phetchaburi,45-54,37,2004,Pneumonia
 Prachuap Khiri Khan,45-54,48,2004,Pneumonia
 Samut Sakhon,45-54,9,2004,Pneumonia
 Samut Songkhram,45-54,24,2004,Pneumonia
-Zone 8,45-54,290,2004,Pneumonia
+Zone:8,45-54,290,2004,Pneumonia
 Chachoengsao,45-54,102,2004,Pneumonia
 Nakhon Nayok,45-54,20,2004,Pneumonia
 Prachin Buri,45-54,80,2004,Pneumonia
 Sa Kaeo,45-54,43,2004,Pneumonia
 Samut Prakan,45-54,45,2004,Pneumonia
-Zone 9,45-54,246,2004,Pneumonia
+Zone:9,45-54,246,2004,Pneumonia
 Chanthaburi,45-54,67,2004,Pneumonia
 Chon Buri,45-54,44,2004,Pneumonia
 Rayong,45-54,102,2004,Pneumonia
 Trat,45-54,33,2004,Pneumonia
 North-Eastern Region,45-54,2695,2004,Pneumonia
-Zone 10,45-54,305,2004,Pneumonia
+Zone:10,45-54,305,2004,Pneumonia
 Loei,45-54,49,2004,Pneumonia
 Nong Bua Lam Phu,45-54,71,2004,Pneumonia
 Nong Khai,45-54,49,2004,Pneumonia
 Udon Thani,45-54,136,2004,Pneumonia
-Zone 11,45-54,276,2004,Pneumonia
+Zone:11,45-54,276,2004,Pneumonia
 Kalasin,45-54,73,2004,Pneumonia
 Mukdahan,45-54,37,2004,Pneumonia
 Nakhon Phanom,45-54,107,2004,Pneumonia
 Sakon Nakhon,45-54,59,2004,Pneumonia
-Zone 12,45-54,390,2004,Pneumonia
+Zone:12,45-54,390,2004,Pneumonia
 Khon Kaen,45-54,201,2004,Pneumonia
 Maha Sarakham,45-54,113,2004,Pneumonia
 Roi Et,45-54,76,2004,Pneumonia
-Zone 13,45-54,1046,2004,Pneumonia
+Zone:13,45-54,1046,2004,Pneumonia
 Buri Ram,45-54,195,2004,Pneumonia
 Chaiyaphum,45-54,178,2004,Pneumonia
 Nakhon Ratchasima,45-54,371,2004,Pneumonia
 Surin,45-54,302,2004,Pneumonia
-Zone 14,45-54,678,2004,Pneumonia
+Zone:14,45-54,678,2004,Pneumonia
 Amnat Charoen,45-54,48,2004,Pneumonia
 Si Sa Ket,45-54,235,2004,Pneumonia
 Ubon Ratchathani,45-54,332,2004,Pneumonia
 Yasothon,45-54,63,2004,Pneumonia
 South Region,45-54,659,2004,Pneumonia
-Zone 15,45-54,200,2004,Pneumonia
+Zone:15,45-54,200,2004,Pneumonia
 Chumphon,45-54,48,2004,Pneumonia
 Ranong,45-54,31,2004,Pneumonia
 Surat Thani,45-54,121,2004,Pneumonia
-Zone 16,45-54,169,2004,Pneumonia
+Zone:16,45-54,169,2004,Pneumonia
 Nakhon Si Thammarat,45-54,72,2004,Pneumonia
 Phatthalung,45-54,35,2004,Pneumonia
 Trang,45-54,62,2004,Pneumonia
-Zone 17,45-54,66,2004,Pneumonia
+Zone:17,45-54,66,2004,Pneumonia
 Krabi,45-54,42,2004,Pneumonia
 Phangnga,45-54,6,2004,Pneumonia
 Phuket,45-54,18,2004,Pneumonia
-Zone 18,45-54,125,2004,Pneumonia
+Zone:18,45-54,125,2004,Pneumonia
 Narathiwat,45-54,60,2004,Pneumonia
 Pattani,45-54,17,2004,Pneumonia
 Yala,45-54,48,2004,Pneumonia
-Zone 19,45-54,99,2004,Pneumonia
+Zone:19,45-54,99,2004,Pneumonia
 Satun,45-54,11,2004,Pneumonia
 Songkhla,45-54,88,2004,Pneumonia
 Total,55-64,8267,2004,Pneumonia
 North Region,55-64,2197,2004,Pneumonia
-Zone 1,55-64,1231,2004,Pneumonia
+Zone:1,55-64,1231,2004,Pneumonia
 Chiang Mai,55-64,235,2004,Pneumonia
 Chiang Rai,55-64,262,2004,Pneumonia
 Lampang,55-64,325,2004,Pneumonia
@@ -8530,98 +8530,98 @@ Mae Hong Son,55-64,53,2004,Pneumonia
 Nan,55-64,101,2004,Pneumonia
 Phayao,55-64,109,2004,Pneumonia
 Phrae,55-64,72,2004,Pneumonia
-Zone 2,55-64,535,2004,Pneumonia
+Zone:2,55-64,535,2004,Pneumonia
 Phetchabun,55-64,92,2004,Pneumonia
 Phitsanulok,55-64,99,2004,Pneumonia
 Sukhothai,55-64,137,2004,Pneumonia
 Tak,55-64,71,2004,Pneumonia
 Uttaradit,55-64,136,2004,Pneumonia
-Zone 3,55-64,431,2004,Pneumonia
+Zone:3,55-64,431,2004,Pneumonia
 Kamphaeng Phet,55-64,151,2004,Pneumonia
 Nakhon Sawan,55-64,124,2004,Pneumonia
 Phichit,55-64,55,2004,Pneumonia
 Uthai Thani,55-64,101,2004,Pneumonia
 Central Region,55-64,1615,2004,Pneumonia
 Bangkok,55-64,181,2004,Pneumonia
-Zone 4,55-64,232,2004,Pneumonia
+Zone:4,55-64,232,2004,Pneumonia
 Ang Thong,55-64,24,2004,Pneumonia
 Nonthaburi,55-64,35,2004,Pneumonia
 P.Nakhon S.Ayutthaya,55-64,98,2004,Pneumonia
 Pathum Thani,55-64,75,2004,Pneumonia
-Zone 5,55-64,164,2004,Pneumonia
+Zone:5,55-64,164,2004,Pneumonia
 Chai Nat,55-64,22,2004,Pneumonia
 Lop Buri,55-64,86,2004,Pneumonia
 Saraburi,55-64,40,2004,Pneumonia
 Sing Buri,55-64,16,2004,Pneumonia
-Zone 6,55-64,303,2004,Pneumonia
+Zone:6,55-64,303,2004,Pneumonia
 Kanchanaburi,55-64,84,2004,Pneumonia
 Nakhon Pathom,55-64,88,2004,Pneumonia
 Ratchaburi,55-64,68,2004,Pneumonia
 Suphan Buri,55-64,63,2004,Pneumonia
-Zone 7,55-64,116,2004,Pneumonia
+Zone:7,55-64,116,2004,Pneumonia
 Phetchaburi,55-64,49,2004,Pneumonia
 Prachuap Khiri Khan,55-64,42,2004,Pneumonia
 Samut Sakhon,55-64,10,2004,Pneumonia
 Samut Songkhram,55-64,15,2004,Pneumonia
-Zone 8,55-64,320,2004,Pneumonia
+Zone:8,55-64,320,2004,Pneumonia
 Chachoengsao,55-64,119,2004,Pneumonia
 Nakhon Nayok,55-64,19,2004,Pneumonia
 Prachin Buri,55-64,90,2004,Pneumonia
 Sa Kaeo,55-64,66,2004,Pneumonia
 Samut Prakan,55-64,26,2004,Pneumonia
-Zone 9,55-64,299,2004,Pneumonia
+Zone:9,55-64,299,2004,Pneumonia
 Chanthaburi,55-64,88,2004,Pneumonia
 Chon Buri,55-64,56,2004,Pneumonia
 Rayong,55-64,90,2004,Pneumonia
 Trat,55-64,65,2004,Pneumonia
 North-Eastern Region,55-64,3643,2004,Pneumonia
-Zone 10,55-64,390,2004,Pneumonia
+Zone:10,55-64,390,2004,Pneumonia
 Loei,55-64,50,2004,Pneumonia
 Nong Bua Lam Phu,55-64,104,2004,Pneumonia
 Nong Khai,55-64,48,2004,Pneumonia
 Udon Thani,55-64,188,2004,Pneumonia
-Zone 11,55-64,324,2004,Pneumonia
+Zone:11,55-64,324,2004,Pneumonia
 Kalasin,55-64,95,2004,Pneumonia
 Mukdahan,55-64,51,2004,Pneumonia
 Nakhon Phanom,55-64,114,2004,Pneumonia
 Sakon Nakhon,55-64,64,2004,Pneumonia
-Zone 12,55-64,606,2004,Pneumonia
+Zone:12,55-64,606,2004,Pneumonia
 Khon Kaen,55-64,305,2004,Pneumonia
 Maha Sarakham,55-64,158,2004,Pneumonia
 Roi Et,55-64,143,2004,Pneumonia
-Zone 13,55-64,1447,2004,Pneumonia
+Zone:13,55-64,1447,2004,Pneumonia
 Buri Ram,55-64,251,2004,Pneumonia
 Chaiyaphum,55-64,209,2004,Pneumonia
 Nakhon Ratchasima,55-64,561,2004,Pneumonia
 Surin,55-64,426,2004,Pneumonia
-Zone 14,55-64,876,2004,Pneumonia
+Zone:14,55-64,876,2004,Pneumonia
 Amnat Charoen,55-64,54,2004,Pneumonia
 Si Sa Ket,55-64,299,2004,Pneumonia
 Ubon Ratchathani,55-64,433,2004,Pneumonia
 Yasothon,55-64,90,2004,Pneumonia
 South Region,55-64,812,2004,Pneumonia
-Zone 15,55-64,202,2004,Pneumonia
+Zone:15,55-64,202,2004,Pneumonia
 Chumphon,55-64,53,2004,Pneumonia
 Ranong,55-64,23,2004,Pneumonia
 Surat Thani,55-64,126,2004,Pneumonia
-Zone 16,55-64,210,2004,Pneumonia
+Zone:16,55-64,210,2004,Pneumonia
 Nakhon Si Thammarat,55-64,88,2004,Pneumonia
 Phatthalung,55-64,63,2004,Pneumonia
 Trang,55-64,59,2004,Pneumonia
-Zone 17,55-64,96,2004,Pneumonia
+Zone:17,55-64,96,2004,Pneumonia
 Krabi,55-64,57,2004,Pneumonia
 Phangnga,55-64,18,2004,Pneumonia
 Phuket,55-64,21,2004,Pneumonia
-Zone 18,55-64,202,2004,Pneumonia
+Zone:18,55-64,202,2004,Pneumonia
 Narathiwat,55-64,105,2004,Pneumonia
 Pattani,55-64,27,2004,Pneumonia
 Yala,55-64,70,2004,Pneumonia
-Zone 19,55-64,102,2004,Pneumonia
+Zone:19,55-64,102,2004,Pneumonia
 Satun,55-64,10,2004,Pneumonia
 Songkhla,55-64,92,2004,Pneumonia
 Total,65+,25102,2004,Pneumonia
 North Region,65+,7314,2004,Pneumonia
-Zone 1,65+,4007,2004,Pneumonia
+Zone:1,65+,4007,2004,Pneumonia
 Chiang Mai,65+,798,2004,Pneumonia
 Chiang Rai,65+,873,2004,Pneumonia
 Lampang,65+,1073,2004,Pneumonia
@@ -8630,98 +8630,98 @@ Mae Hong Son,65+,126,2004,Pneumonia
 Nan,65+,264,2004,Pneumonia
 Phayao,65+,333,2004,Pneumonia
 Phrae,65+,222,2004,Pneumonia
-Zone 2,65+,1744,2004,Pneumonia
+Zone:2,65+,1744,2004,Pneumonia
 Phetchabun,65+,292,2004,Pneumonia
 Phitsanulok,65+,367,2004,Pneumonia
 Sukhothai,65+,400,2004,Pneumonia
 Tak,65+,183,2004,Pneumonia
 Uttaradit,65+,502,2004,Pneumonia
-Zone 3,65+,1563,2004,Pneumonia
+Zone:3,65+,1563,2004,Pneumonia
 Kamphaeng Phet,65+,522,2004,Pneumonia
 Nakhon Sawan,65+,451,2004,Pneumonia
 Phichit,65+,234,2004,Pneumonia
 Uthai Thani,65+,356,2004,Pneumonia
 Central Region,65+,5887,2004,Pneumonia
 Bangkok,65+,685,2004,Pneumonia
-Zone 4,65+,825,2004,Pneumonia
+Zone:4,65+,825,2004,Pneumonia
 Ang Thong,65+,121,2004,Pneumonia
 Nonthaburi,65+,148,2004,Pneumonia
 P.Nakhon S.Ayutthaya,65+,362,2004,Pneumonia
 Pathum Thani,65+,194,2004,Pneumonia
-Zone 5,65+,704,2004,Pneumonia
+Zone:5,65+,704,2004,Pneumonia
 Chai Nat,65+,95,2004,Pneumonia
 Lop Buri,65+,349,2004,Pneumonia
 Saraburi,65+,168,2004,Pneumonia
 Sing Buri,65+,92,2004,Pneumonia
-Zone 6,65+,1069,2004,Pneumonia
+Zone:6,65+,1069,2004,Pneumonia
 Kanchanaburi,65+,214,2004,Pneumonia
 Nakhon Pathom,65+,378,2004,Pneumonia
 Ratchaburi,65+,234,2004,Pneumonia
 Suphan Buri,65+,243,2004,Pneumonia
-Zone 7,65+,582,2004,Pneumonia
+Zone:7,65+,582,2004,Pneumonia
 Phetchaburi,65+,228,2004,Pneumonia
 Prachuap Khiri Khan,65+,165,2004,Pneumonia
 Samut Sakhon,65+,43,2004,Pneumonia
 Samut Songkhram,65+,146,2004,Pneumonia
-Zone 8,65+,1141,2004,Pneumonia
+Zone:8,65+,1141,2004,Pneumonia
 Chachoengsao,65+,363,2004,Pneumonia
 Nakhon Nayok,65+,85,2004,Pneumonia
 Prachin Buri,65+,382,2004,Pneumonia
 Sa Kaeo,65+,180,2004,Pneumonia
 Samut Prakan,65+,131,2004,Pneumonia
-Zone 9,65+,881,2004,Pneumonia
+Zone:9,65+,881,2004,Pneumonia
 Chanthaburi,65+,342,2004,Pneumonia
 Chon Buri,65+,150,2004,Pneumonia
 Rayong,65+,256,2004,Pneumonia
 Trat,65+,133,2004,Pneumonia
 North-Eastern Region,65+,8718,2004,Pneumonia
-Zone 10,65+,826,2004,Pneumonia
+Zone:10,65+,826,2004,Pneumonia
 Loei,65+,141,2004,Pneumonia
 Nong Bua Lam Phu,65+,187,2004,Pneumonia
 Nong Khai,65+,123,2004,Pneumonia
 Udon Thani,65+,375,2004,Pneumonia
-Zone 11,65+,705,2004,Pneumonia
+Zone:11,65+,705,2004,Pneumonia
 Kalasin,65+,167,2004,Pneumonia
 Mukdahan,65+,135,2004,Pneumonia
 Nakhon Phanom,65+,253,2004,Pneumonia
 Sakon Nakhon,65+,150,2004,Pneumonia
-Zone 12,65+,1198,2004,Pneumonia
+Zone:12,65+,1198,2004,Pneumonia
 Khon Kaen,65+,536,2004,Pneumonia
 Maha Sarakham,65+,318,2004,Pneumonia
 Roi Et,65+,344,2004,Pneumonia
-Zone 13,65+,3664,2004,Pneumonia
+Zone:13,65+,3664,2004,Pneumonia
 Buri Ram,65+,589,2004,Pneumonia
 Chaiyaphum,65+,515,2004,Pneumonia
 Nakhon Ratchasima,65+,1579,2004,Pneumonia
 Surin,65+,981,2004,Pneumonia
-Zone 14,65+,2325,2004,Pneumonia
+Zone:14,65+,2325,2004,Pneumonia
 Amnat Charoen,65+,150,2004,Pneumonia
 Si Sa Ket,65+,662,2004,Pneumonia
 Ubon Ratchathani,65+,1305,2004,Pneumonia
 Yasothon,65+,208,2004,Pneumonia
 South Region,65+,3183,2004,Pneumonia
-Zone 15,65+,931,2004,Pneumonia
+Zone:15,65+,931,2004,Pneumonia
 Chumphon,65+,270,2004,Pneumonia
 Ranong,65+,110,2004,Pneumonia
 Surat Thani,65+,551,2004,Pneumonia
-Zone 16,65+,881,2004,Pneumonia
+Zone:16,65+,881,2004,Pneumonia
 Nakhon Si Thammarat,65+,374,2004,Pneumonia
 Phatthalung,65+,228,2004,Pneumonia
 Trang,65+,279,2004,Pneumonia
-Zone 17,65+,312,2004,Pneumonia
+Zone:17,65+,312,2004,Pneumonia
 Krabi,65+,183,2004,Pneumonia
 Phangnga,65+,43,2004,Pneumonia
 Phuket,65+,86,2004,Pneumonia
-Zone 18,65+,561,2004,Pneumonia
+Zone:18,65+,561,2004,Pneumonia
 Narathiwat,65+,225,2004,Pneumonia
 Pattani,65+,129,2004,Pneumonia
 Yala,65+,207,2004,Pneumonia
-Zone 19,65+,498,2004,Pneumonia
+Zone:19,65+,498,2004,Pneumonia
 Satun,65+,58,2004,Pneumonia
 Songkhla,65+,440,2004,Pneumonia
 Total,Unknown,145,2004,Pneumonia
 North Region,Unknown,23,2004,Pneumonia
-Zone 1,Unknown,23,2004,Pneumonia
+Zone:1,Unknown,23,2004,Pneumonia
 Chiang Mai,Unknown,0,2004,Pneumonia
 Chiang Rai,Unknown,23,2004,Pneumonia
 Lampang,Unknown,0,2004,Pneumonia
@@ -8730,93 +8730,93 @@ Mae Hong Son,Unknown,0,2004,Pneumonia
 Nan,Unknown,0,2004,Pneumonia
 Phayao,Unknown,0,2004,Pneumonia
 Phrae,Unknown,0,2004,Pneumonia
-Zone 2,Unknown,0,2004,Pneumonia
+Zone:2,Unknown,0,2004,Pneumonia
 Phetchabun,Unknown,0,2004,Pneumonia
 Phitsanulok,Unknown,0,2004,Pneumonia
 Sukhothai,Unknown,0,2004,Pneumonia
 Tak,Unknown,0,2004,Pneumonia
 Uttaradit,Unknown,0,2004,Pneumonia
-Zone 3,Unknown,0,2004,Pneumonia
+Zone:3,Unknown,0,2004,Pneumonia
 Kamphaeng Phet,Unknown,0,2004,Pneumonia
 Nakhon Sawan,Unknown,0,2004,Pneumonia
 Phichit,Unknown,0,2004,Pneumonia
 Uthai Thani,Unknown,0,2004,Pneumonia
 Central Region,Unknown,56,2004,Pneumonia
 Bangkok,Unknown,56,2004,Pneumonia
-Zone 4,Unknown,0,2004,Pneumonia
+Zone:4,Unknown,0,2004,Pneumonia
 Ang Thong,Unknown,0,2004,Pneumonia
 Nonthaburi,Unknown,0,2004,Pneumonia
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Pneumonia
 Pathum Thani,Unknown,0,2004,Pneumonia
-Zone 5,Unknown,0,2004,Pneumonia
+Zone:5,Unknown,0,2004,Pneumonia
 Chai Nat,Unknown,0,2004,Pneumonia
 Lop Buri,Unknown,0,2004,Pneumonia
 Saraburi,Unknown,0,2004,Pneumonia
 Sing Buri,Unknown,0,2004,Pneumonia
-Zone 6,Unknown,0,2004,Pneumonia
+Zone:6,Unknown,0,2004,Pneumonia
 Kanchanaburi,Unknown,0,2004,Pneumonia
 Nakhon Pathom,Unknown,0,2004,Pneumonia
 Ratchaburi,Unknown,0,2004,Pneumonia
 Suphan Buri,Unknown,0,2004,Pneumonia
-Zone 7,Unknown,0,2004,Pneumonia
+Zone:7,Unknown,0,2004,Pneumonia
 Phetchaburi,Unknown,0,2004,Pneumonia
 Prachuap Khiri Khan,Unknown,0,2004,Pneumonia
 Samut Sakhon,Unknown,0,2004,Pneumonia
 Samut Songkhram,Unknown,0,2004,Pneumonia
-Zone 8,Unknown,0,2004,Pneumonia
+Zone:8,Unknown,0,2004,Pneumonia
 Chachoengsao,Unknown,0,2004,Pneumonia
 Nakhon Nayok,Unknown,0,2004,Pneumonia
 Prachin Buri,Unknown,0,2004,Pneumonia
 Sa Kaeo,Unknown,0,2004,Pneumonia
 Samut Prakan,Unknown,0,2004,Pneumonia
-Zone 9,Unknown,0,2004,Pneumonia
+Zone:9,Unknown,0,2004,Pneumonia
 Chanthaburi,Unknown,0,2004,Pneumonia
 Chon Buri,Unknown,0,2004,Pneumonia
 Rayong,Unknown,0,2004,Pneumonia
 Trat,Unknown,0,2004,Pneumonia
 North-Eastern Region,Unknown,65,2004,Pneumonia
-Zone 10,Unknown,0,2004,Pneumonia
+Zone:10,Unknown,0,2004,Pneumonia
 Loei,Unknown,0,2004,Pneumonia
 Nong Bua Lam Phu,Unknown,0,2004,Pneumonia
 Nong Khai,Unknown,0,2004,Pneumonia
 Udon Thani,Unknown,0,2004,Pneumonia
-Zone 11,Unknown,39,2004,Pneumonia
+Zone:11,Unknown,39,2004,Pneumonia
 Kalasin,Unknown,1,2004,Pneumonia
 Mukdahan,Unknown,37,2004,Pneumonia
 Nakhon Phanom,Unknown,1,2004,Pneumonia
 Sakon Nakhon,Unknown,0,2004,Pneumonia
-Zone 12,Unknown,0,2004,Pneumonia
+Zone:12,Unknown,0,2004,Pneumonia
 Khon Kaen,Unknown,0,2004,Pneumonia
 Maha Sarakham,Unknown,0,2004,Pneumonia
 Roi Et,Unknown,0,2004,Pneumonia
-Zone 13,Unknown,23,2004,Pneumonia
+Zone:13,Unknown,23,2004,Pneumonia
 Buri Ram,Unknown,6,2004,Pneumonia
 Chaiyaphum,Unknown,0,2004,Pneumonia
 Nakhon Ratchasima,Unknown,0,2004,Pneumonia
 Surin,Unknown,17,2004,Pneumonia
-Zone 14,Unknown,3,2004,Pneumonia
+Zone:14,Unknown,3,2004,Pneumonia
 Amnat Charoen,Unknown,1,2004,Pneumonia
 Si Sa Ket,Unknown,1,2004,Pneumonia
 Ubon Ratchathani,Unknown,1,2004,Pneumonia
 Yasothon,Unknown,0,2004,Pneumonia
 South Region,Unknown,1,2004,Pneumonia
-Zone 15,Unknown,0,2004,Pneumonia
+Zone:15,Unknown,0,2004,Pneumonia
 Chumphon,Unknown,0,2004,Pneumonia
 Ranong,Unknown,0,2004,Pneumonia
 Surat Thani,Unknown,0,2004,Pneumonia
-Zone 16,Unknown,1,2004,Pneumonia
+Zone:16,Unknown,1,2004,Pneumonia
 Nakhon Si Thammarat,Unknown,0,2004,Pneumonia
 Phatthalung,Unknown,0,2004,Pneumonia
 Trang,Unknown,1,2004,Pneumonia
-Zone 17,Unknown,0,2004,Pneumonia
+Zone:17,Unknown,0,2004,Pneumonia
 Krabi,Unknown,0,2004,Pneumonia
 Phangnga,Unknown,0,2004,Pneumonia
 Phuket,Unknown,0,2004,Pneumonia
-Zone 18,Unknown,0,2004,Pneumonia
+Zone:18,Unknown,0,2004,Pneumonia
 Narathiwat,Unknown,0,2004,Pneumonia
 Pattani,Unknown,0,2004,Pneumonia
 Yala,Unknown,0,2004,Pneumonia
-Zone 19,Unknown,0,2004,Pneumonia
+Zone:19,Unknown,0,2004,Pneumonia
 Satun,Unknown,0,2004,Pneumonia
 Songkhla,Unknown,0,2004,Pneumonia
 Total,Total,146065,2009,Pneumonia
@@ -17497,7 +17497,7 @@ ZONE:13,Unknown,12,2016,Pneumonia
 Bangkok,Unknown,12,2016,Pneumonia
 Total,Total,129417,2003,Pneumonia
 North Region,Total,32190,2003,Pneumonia
-Zone 1,Total,19990,2003,Pneumonia
+Zone:1,Total,19990,2003,Pneumonia
 Chiang Mai,Total,4617,2003,Pneumonia
 Chiang Rai,Total,5835,2003,Pneumonia
 Lampang,Total,3212,2003,Pneumonia
@@ -17506,98 +17506,98 @@ Mae Hong Son,Total,1818,2003,Pneumonia
 Nan,Total,918,2003,Pneumonia
 Phayao,Total,1512,2003,Pneumonia
 Phrae,Total,526,2003,Pneumonia
-Zone 2,Total,6710,2003,Pneumonia
+Zone:2,Total,6710,2003,Pneumonia
 Phetchabun,Total,1051,2003,Pneumonia
 Phitsanulok,Total,1282,2003,Pneumonia
 Sukhothai,Total,1398,2003,Pneumonia
 Tak,Total,1693,2003,Pneumonia
 Uttaradit,Total,1286,2003,Pneumonia
-Zone 3,Total,5490,2003,Pneumonia
+Zone:3,Total,5490,2003,Pneumonia
 Kamphaeng Phet,Total,1778,2003,Pneumonia
 Nakhon Sawan,Total,2007,2003,Pneumonia
 Phichit,Total,617,2003,Pneumonia
 Uthai Thani,Total,1088,2003,Pneumonia
 Central Region,Total,34825,2003,Pneumonia
 Bangkok,Total,5868,2003,Pneumonia
-Zone 4,Total,6414,2003,Pneumonia
+Zone:4,Total,6414,2003,Pneumonia
 Ang Thong,Total,735,2003,Pneumonia
 Nonthaburi,Total,1015,2003,Pneumonia
 P.Nakhon S.Ayutthaya,Total,2637,2003,Pneumonia
 Pathum Thani,Total,2027,2003,Pneumonia
-Zone 5,Total,3780,2003,Pneumonia
+Zone:5,Total,3780,2003,Pneumonia
 Chai Nat,Total,346,2003,Pneumonia
 Lop Buri,Total,1453,2003,Pneumonia
 Saraburi,Total,1337,2003,Pneumonia
 Sing Buri,Total,644,2003,Pneumonia
-Zone 6,Total,6554,2003,Pneumonia
+Zone:6,Total,6554,2003,Pneumonia
 Kanchanaburi,Total,1775,2003,Pneumonia
 Nakhon Pathom,Total,1743,2003,Pneumonia
 Ratchaburi,Total,1632,2003,Pneumonia
 Suphan Buri,Total,1404,2003,Pneumonia
-Zone 7,Total,2339,2003,Pneumonia
+Zone:7,Total,2339,2003,Pneumonia
 Phetchaburi,Total,761,2003,Pneumonia
 Prachuap Khiri Khan,Total,805,2003,Pneumonia
 Samut Sakhon,Total,487,2003,Pneumonia
 Samut Songkhram,Total,286,2003,Pneumonia
-Zone 8,Total,5555,2003,Pneumonia
+Zone:8,Total,5555,2003,Pneumonia
 Chachoengsao,Total,2403,2003,Pneumonia
 Nakhon Nayok,Total,183,2003,Pneumonia
 Prachin Buri,Total,1345,2003,Pneumonia
 Sa Kaeo,Total,558,2003,Pneumonia
 Samut Prakan,Total,1066,2003,Pneumonia
-Zone 9,Total,4315,2003,Pneumonia
+Zone:9,Total,4315,2003,Pneumonia
 Chanthaburi,Total,1374,2003,Pneumonia
 Chon Buri,Total,1030,2003,Pneumonia
 Rayong,Total,1527,2003,Pneumonia
 Trat,Total,384,2003,Pneumonia
 North-Eastern Region,Total,41832,2003,Pneumonia
-Zone 10,Total,5185,2003,Pneumonia
+Zone:10,Total,5185,2003,Pneumonia
 Loei,Total,806,2003,Pneumonia
 Nong Bua Lam Phu,Total,1102,2003,Pneumonia
 Nong Khai,Total,760,2003,Pneumonia
 Udon Thani,Total,2517,2003,Pneumonia
-Zone 11,Total,3853,2003,Pneumonia
+Zone:11,Total,3853,2003,Pneumonia
 Kalasin,Total,1431,2003,Pneumonia
 Mukdahan,Total,423,2003,Pneumonia
 Nakhon Phanom,Total,1131,2003,Pneumonia
 Sakon Nakhon,Total,868,2003,Pneumonia
-Zone 12,Total,7705,2003,Pneumonia
+Zone:12,Total,7705,2003,Pneumonia
 Khon Kaen,Total,3267,2003,Pneumonia
 Maha Sarakham,Total,2009,2003,Pneumonia
 Roi Et,Total,2429,2003,Pneumonia
-Zone 13,Total,16233,2003,Pneumonia
+Zone:13,Total,16233,2003,Pneumonia
 Buri Ram,Total,3849,2003,Pneumonia
 Chaiyaphum,Total,2697,2003,Pneumonia
 Nakhon Ratchasima,Total,5403,2003,Pneumonia
 Surin,Total,4284,2003,Pneumonia
-Zone 14,Total,8856,2003,Pneumonia
+Zone:14,Total,8856,2003,Pneumonia
 Amnat Charoen,Total,510,2003,Pneumonia
 Si Sa Ket,Total,2369,2003,Pneumonia
 Ubon Ratchathani,Total,5257,2003,Pneumonia
 Yasothon,Total,720,2003,Pneumonia
 South Region,Total,20570,2003,Pneumonia
-Zone 15,Total,3954,2003,Pneumonia
+Zone:15,Total,3954,2003,Pneumonia
 Chumphon,Total,1074,2003,Pneumonia
 Ranong,Total,394,2003,Pneumonia
 Surat Thani,Total,2486,2003,Pneumonia
-Zone 16,Total,4699,2003,Pneumonia
+Zone:16,Total,4699,2003,Pneumonia
 Nakhon Si Thammarat,Total,1632,2003,Pneumonia
 Phatthalung,Total,1530,2003,Pneumonia
 Trang,Total,1537,2003,Pneumonia
-Zone 17,Total,2130,2003,Pneumonia
+Zone:17,Total,2130,2003,Pneumonia
 Krabi,Total,1402,2003,Pneumonia
 Phangnga,Total,232,2003,Pneumonia
 Phuket,Total,496,2003,Pneumonia
-Zone 18,Total,7033,2003,Pneumonia
+Zone:18,Total,7033,2003,Pneumonia
 Narathiwat,Total,2810,2003,Pneumonia
 Pattani,Total,1215,2003,Pneumonia
 Yala,Total,3008,2003,Pneumonia
-Zone 19,Total,2754,2003,Pneumonia
+Zone:19,Total,2754,2003,Pneumonia
 Satun,Total,414,2003,Pneumonia
 Songkhla,Total,2340,2003,Pneumonia
 Total,0,1081,2003,Pneumonia
 North Region,0,238,2003,Pneumonia
-Zone 1,0,146,2003,Pneumonia
+Zone:1,0,146,2003,Pneumonia
 Chiang Mai,0,19,2003,Pneumonia
 Chiang Rai,0,54,2003,Pneumonia
 Lampang,0,26,2003,Pneumonia
@@ -17606,98 +17606,98 @@ Mae Hong Son,0,5,2003,Pneumonia
 Nan,0,6,2003,Pneumonia
 Phayao,0,14,2003,Pneumonia
 Phrae,0,5,2003,Pneumonia
-Zone 2,0,49,2003,Pneumonia
+Zone:2,0,49,2003,Pneumonia
 Phetchabun,0,13,2003,Pneumonia
 Phitsanulok,0,5,2003,Pneumonia
 Sukhothai,0,7,2003,Pneumonia
 Tak,0,16,2003,Pneumonia
 Uttaradit,0,8,2003,Pneumonia
-Zone 3,0,43,2003,Pneumonia
+Zone:3,0,43,2003,Pneumonia
 Kamphaeng Phet,0,20,2003,Pneumonia
 Nakhon Sawan,0,11,2003,Pneumonia
 Phichit,0,9,2003,Pneumonia
 Uthai Thani,0,3,2003,Pneumonia
 Central Region,0,409,2003,Pneumonia
 Bangkok,0,49,2003,Pneumonia
-Zone 4,0,223,2003,Pneumonia
+Zone:4,0,223,2003,Pneumonia
 Ang Thong,0,10,2003,Pneumonia
 Nonthaburi,0,13,2003,Pneumonia
 P.Nakhon S.Ayutthaya,0,173,2003,Pneumonia
 Pathum Thani,0,27,2003,Pneumonia
-Zone 5,0,33,2003,Pneumonia
+Zone:5,0,33,2003,Pneumonia
 Chai Nat,0,3,2003,Pneumonia
 Lop Buri,0,23,2003,Pneumonia
 Saraburi,0,3,2003,Pneumonia
 Sing Buri,0,4,2003,Pneumonia
-Zone 6,0,40,2003,Pneumonia
+Zone:6,0,40,2003,Pneumonia
 Kanchanaburi,0,11,2003,Pneumonia
 Nakhon Pathom,0,21,2003,Pneumonia
 Ratchaburi,0,8,2003,Pneumonia
 Suphan Buri,0,0,2003,Pneumonia
-Zone 7,0,13,2003,Pneumonia
+Zone:7,0,13,2003,Pneumonia
 Phetchaburi,0,1,2003,Pneumonia
 Prachuap Khiri Khan,0,8,2003,Pneumonia
 Samut Sakhon,0,1,2003,Pneumonia
 Samut Songkhram,0,3,2003,Pneumonia
-Zone 8,0,28,2003,Pneumonia
+Zone:8,0,28,2003,Pneumonia
 Chachoengsao,0,12,2003,Pneumonia
 Nakhon Nayok,0,0,2003,Pneumonia
 Prachin Buri,0,8,2003,Pneumonia
 Sa Kaeo,0,5,2003,Pneumonia
 Samut Prakan,0,3,2003,Pneumonia
-Zone 9,0,23,2003,Pneumonia
+Zone:9,0,23,2003,Pneumonia
 Chanthaburi,0,5,2003,Pneumonia
 Chon Buri,0,8,2003,Pneumonia
 Rayong,0,8,2003,Pneumonia
 Trat,0,2,2003,Pneumonia
 North-Eastern Region,0,234,2003,Pneumonia
-Zone 10,0,14,2003,Pneumonia
+Zone:10,0,14,2003,Pneumonia
 Loei,0,2,2003,Pneumonia
 Nong Bua Lam Phu,0,3,2003,Pneumonia
 Nong Khai,0,0,2003,Pneumonia
 Udon Thani,0,9,2003,Pneumonia
-Zone 11,0,44,2003,Pneumonia
+Zone:11,0,44,2003,Pneumonia
 Kalasin,0,32,2003,Pneumonia
 Mukdahan,0,1,2003,Pneumonia
 Nakhon Phanom,0,6,2003,Pneumonia
 Sakon Nakhon,0,5,2003,Pneumonia
-Zone 12,0,32,2003,Pneumonia
+Zone:12,0,32,2003,Pneumonia
 Khon Kaen,0,7,2003,Pneumonia
 Maha Sarakham,0,5,2003,Pneumonia
 Roi Et,0,20,2003,Pneumonia
-Zone 13,0,98,2003,Pneumonia
+Zone:13,0,98,2003,Pneumonia
 Buri Ram,0,18,2003,Pneumonia
 Chaiyaphum,0,15,2003,Pneumonia
 Nakhon Ratchasima,0,15,2003,Pneumonia
 Surin,0,50,2003,Pneumonia
-Zone 14,0,46,2003,Pneumonia
+Zone:14,0,46,2003,Pneumonia
 Amnat Charoen,0,5,2003,Pneumonia
 Si Sa Ket,0,13,2003,Pneumonia
 Ubon Ratchathani,0,22,2003,Pneumonia
 Yasothon,0,6,2003,Pneumonia
 South Region,0,200,2003,Pneumonia
-Zone 15,0,39,2003,Pneumonia
+Zone:15,0,39,2003,Pneumonia
 Chumphon,0,0,2003,Pneumonia
 Ranong,0,2,2003,Pneumonia
 Surat Thani,0,37,2003,Pneumonia
-Zone 16,0,45,2003,Pneumonia
+Zone:16,0,45,2003,Pneumonia
 Nakhon Si Thammarat,0,5,2003,Pneumonia
 Phatthalung,0,4,2003,Pneumonia
 Trang,0,36,2003,Pneumonia
-Zone 17,0,43,2003,Pneumonia
+Zone:17,0,43,2003,Pneumonia
 Krabi,0,22,2003,Pneumonia
 Phangnga,0,1,2003,Pneumonia
 Phuket,0,20,2003,Pneumonia
-Zone 18,0,35,2003,Pneumonia
+Zone:18,0,35,2003,Pneumonia
 Narathiwat,0,18,2003,Pneumonia
 Pattani,0,4,2003,Pneumonia
 Yala,0,13,2003,Pneumonia
-Zone 19,0,38,2003,Pneumonia
+Zone:19,0,38,2003,Pneumonia
 Satun,0,5,2003,Pneumonia
 Songkhla,0,33,2003,Pneumonia
 Total,<1,21920,2003,Pneumonia
 North Region,<1,4696,2003,Pneumonia
-Zone 1,<1,3071,2003,Pneumonia
+Zone:1,<1,3071,2003,Pneumonia
 Chiang Mai,<1,665,2003,Pneumonia
 Chiang Rai,<1,1117,2003,Pneumonia
 Lampang,<1,354,2003,Pneumonia
@@ -17706,98 +17706,98 @@ Mae Hong Son,<1,368,2003,Pneumonia
 Nan,<1,142,2003,Pneumonia
 Phayao,<1,167,2003,Pneumonia
 Phrae,<1,64,2003,Pneumonia
-Zone 2,<1,902,2003,Pneumonia
+Zone:2,<1,902,2003,Pneumonia
 Phetchabun,<1,120,2003,Pneumonia
 Phitsanulok,<1,132,2003,Pneumonia
 Sukhothai,<1,158,2003,Pneumonia
 Tak,<1,286,2003,Pneumonia
 Uttaradit,<1,206,2003,Pneumonia
-Zone 3,<1,723,2003,Pneumonia
+Zone:3,<1,723,2003,Pneumonia
 Kamphaeng Phet,<1,258,2003,Pneumonia
 Nakhon Sawan,<1,265,2003,Pneumonia
 Phichit,<1,85,2003,Pneumonia
 Uthai Thani,<1,115,2003,Pneumonia
 Central Region,<1,6412,2003,Pneumonia
 Bangkok,<1,1323,2003,Pneumonia
-Zone 4,<1,1577,2003,Pneumonia
+Zone:4,<1,1577,2003,Pneumonia
 Ang Thong,<1,133,2003,Pneumonia
 Nonthaburi,<1,270,2003,Pneumonia
 P.Nakhon S.Ayutthaya,<1,774,2003,Pneumonia
 Pathum Thani,<1,400,2003,Pneumonia
-Zone 5,<1,627,2003,Pneumonia
+Zone:5,<1,627,2003,Pneumonia
 Chai Nat,<1,44,2003,Pneumonia
 Lop Buri,<1,213,2003,Pneumonia
 Saraburi,<1,278,2003,Pneumonia
 Sing Buri,<1,92,2003,Pneumonia
-Zone 6,<1,860,2003,Pneumonia
+Zone:6,<1,860,2003,Pneumonia
 Kanchanaburi,<1,253,2003,Pneumonia
 Nakhon Pathom,<1,217,2003,Pneumonia
 Ratchaburi,<1,325,2003,Pneumonia
 Suphan Buri,<1,65,2003,Pneumonia
-Zone 7,<1,431,2003,Pneumonia
+Zone:7,<1,431,2003,Pneumonia
 Phetchaburi,<1,132,2003,Pneumonia
 Prachuap Khiri Khan,<1,130,2003,Pneumonia
 Samut Sakhon,<1,131,2003,Pneumonia
 Samut Songkhram,<1,38,2003,Pneumonia
-Zone 8,<1,908,2003,Pneumonia
+Zone:8,<1,908,2003,Pneumonia
 Chachoengsao,<1,322,2003,Pneumonia
 Nakhon Nayok,<1,28,2003,Pneumonia
 Prachin Buri,<1,212,2003,Pneumonia
 Sa Kaeo,<1,76,2003,Pneumonia
 Samut Prakan,<1,270,2003,Pneumonia
-Zone 9,<1,686,2003,Pneumonia
+Zone:9,<1,686,2003,Pneumonia
 Chanthaburi,<1,210,2003,Pneumonia
 Chon Buri,<1,222,2003,Pneumonia
 Rayong,<1,223,2003,Pneumonia
 Trat,<1,31,2003,Pneumonia
 North-Eastern Region,<1,6042,2003,Pneumonia
-Zone 10,<1,663,2003,Pneumonia
+Zone:10,<1,663,2003,Pneumonia
 Loei,<1,91,2003,Pneumonia
 Nong Bua Lam Phu,<1,140,2003,Pneumonia
 Nong Khai,<1,113,2003,Pneumonia
 Udon Thani,<1,319,2003,Pneumonia
-Zone 11,<1,714,2003,Pneumonia
+Zone:11,<1,714,2003,Pneumonia
 Kalasin,<1,277,2003,Pneumonia
 Mukdahan,<1,75,2003,Pneumonia
 Nakhon Phanom,<1,200,2003,Pneumonia
 Sakon Nakhon,<1,162,2003,Pneumonia
-Zone 12,<1,1266,2003,Pneumonia
+Zone:12,<1,1266,2003,Pneumonia
 Khon Kaen,<1,463,2003,Pneumonia
 Maha Sarakham,<1,345,2003,Pneumonia
 Roi Et,<1,458,2003,Pneumonia
-Zone 13,<1,2309,2003,Pneumonia
+Zone:13,<1,2309,2003,Pneumonia
 Buri Ram,<1,521,2003,Pneumonia
 Chaiyaphum,<1,361,2003,Pneumonia
 Nakhon Ratchasima,<1,700,2003,Pneumonia
 Surin,<1,727,2003,Pneumonia
-Zone 14,<1,1090,2003,Pneumonia
+Zone:14,<1,1090,2003,Pneumonia
 Amnat Charoen,<1,81,2003,Pneumonia
 Si Sa Ket,<1,192,2003,Pneumonia
 Ubon Ratchathani,<1,742,2003,Pneumonia
 Yasothon,<1,75,2003,Pneumonia
 South Region,<1,4770,2003,Pneumonia
-Zone 15,<1,769,2003,Pneumonia
+Zone:15,<1,769,2003,Pneumonia
 Chumphon,<1,172,2003,Pneumonia
 Ranong,<1,32,2003,Pneumonia
 Surat Thani,<1,565,2003,Pneumonia
-Zone 16,<1,943,2003,Pneumonia
+Zone:16,<1,943,2003,Pneumonia
 Nakhon Si Thammarat,<1,363,2003,Pneumonia
 Phatthalung,<1,306,2003,Pneumonia
 Trang,<1,274,2003,Pneumonia
-Zone 17,<1,543,2003,Pneumonia
+Zone:17,<1,543,2003,Pneumonia
 Krabi,<1,385,2003,Pneumonia
 Phangnga,<1,47,2003,Pneumonia
 Phuket,<1,111,2003,Pneumonia
-Zone 18,<1,1897,2003,Pneumonia
+Zone:18,<1,1897,2003,Pneumonia
 Narathiwat,<1,753,2003,Pneumonia
 Pattani,<1,300,2003,Pneumonia
 Yala,<1,844,2003,Pneumonia
-Zone 19,<1,618,2003,Pneumonia
+Zone:19,<1,618,2003,Pneumonia
 Satun,<1,69,2003,Pneumonia
 Songkhla,<1,549,2003,Pneumonia
 Total,1-1,21855,2003,Pneumonia
 North Region,1-1,5096,2003,Pneumonia
-Zone 1,1-1,3504,2003,Pneumonia
+Zone:1,1-1,3504,2003,Pneumonia
 Chiang Mai,1-1,802,2003,Pneumonia
 Chiang Rai,1-1,1155,2003,Pneumonia
 Lampang,1-1,434,2003,Pneumonia
@@ -17806,98 +17806,98 @@ Mae Hong Son,1-1,412,2003,Pneumonia
 Nan,1-1,132,2003,Pneumonia
 Phayao,1-1,268,2003,Pneumonia
 Phrae,1-1,73,2003,Pneumonia
-Zone 2,1-1,989,2003,Pneumonia
+Zone:2,1-1,989,2003,Pneumonia
 Phetchabun,1-1,101,2003,Pneumonia
 Phitsanulok,1-1,219,2003,Pneumonia
 Sukhothai,1-1,175,2003,Pneumonia
 Tak,1-1,297,2003,Pneumonia
 Uttaradit,1-1,197,2003,Pneumonia
-Zone 3,1-1,603,2003,Pneumonia
+Zone:3,1-1,603,2003,Pneumonia
 Kamphaeng Phet,1-1,154,2003,Pneumonia
 Nakhon Sawan,1-1,239,2003,Pneumonia
 Phichit,1-1,84,2003,Pneumonia
 Uthai Thani,1-1,126,2003,Pneumonia
 Central Region,1-1,5890,2003,Pneumonia
 Bangkok,1-1,1143,2003,Pneumonia
-Zone 4,1-1,1119,2003,Pneumonia
+Zone:4,1-1,1119,2003,Pneumonia
 Ang Thong,1-1,139,2003,Pneumonia
 Nonthaburi,1-1,171,2003,Pneumonia
 P.Nakhon S.Ayutthaya,1-1,421,2003,Pneumonia
 Pathum Thani,1-1,388,2003,Pneumonia
-Zone 5,1-1,475,2003,Pneumonia
+Zone:5,1-1,475,2003,Pneumonia
 Chai Nat,1-1,44,2003,Pneumonia
 Lop Buri,1-1,183,2003,Pneumonia
 Saraburi,1-1,194,2003,Pneumonia
 Sing Buri,1-1,54,2003,Pneumonia
-Zone 6,1-1,1420,2003,Pneumonia
+Zone:6,1-1,1420,2003,Pneumonia
 Kanchanaburi,1-1,310,2003,Pneumonia
 Nakhon Pathom,1-1,300,2003,Pneumonia
 Ratchaburi,1-1,304,2003,Pneumonia
 Suphan Buri,1-1,506,2003,Pneumonia
-Zone 7,1-1,364,2003,Pneumonia
+Zone:7,1-1,364,2003,Pneumonia
 Phetchaburi,1-1,111,2003,Pneumonia
 Prachuap Khiri Khan,1-1,125,2003,Pneumonia
 Samut Sakhon,1-1,98,2003,Pneumonia
 Samut Songkhram,1-1,30,2003,Pneumonia
-Zone 8,1-1,797,2003,Pneumonia
+Zone:8,1-1,797,2003,Pneumonia
 Chachoengsao,1-1,312,2003,Pneumonia
 Nakhon Nayok,1-1,29,2003,Pneumonia
 Prachin Buri,1-1,205,2003,Pneumonia
 Sa Kaeo,1-1,72,2003,Pneumonia
 Samut Prakan,1-1,179,2003,Pneumonia
-Zone 9,1-1,572,2003,Pneumonia
+Zone:9,1-1,572,2003,Pneumonia
 Chanthaburi,1-1,201,2003,Pneumonia
 Chon Buri,1-1,164,2003,Pneumonia
 Rayong,1-1,184,2003,Pneumonia
 Trat,1-1,23,2003,Pneumonia
 North-Eastern Region,1-1,7151,2003,Pneumonia
-Zone 10,1-1,877,2003,Pneumonia
+Zone:10,1-1,877,2003,Pneumonia
 Loei,1-1,84,2003,Pneumonia
 Nong Bua Lam Phu,1-1,179,2003,Pneumonia
 Nong Khai,1-1,125,2003,Pneumonia
 Udon Thani,1-1,489,2003,Pneumonia
-Zone 11,1-1,719,2003,Pneumonia
+Zone:11,1-1,719,2003,Pneumonia
 Kalasin,1-1,215,2003,Pneumonia
 Mukdahan,1-1,66,2003,Pneumonia
 Nakhon Phanom,1-1,291,2003,Pneumonia
 Sakon Nakhon,1-1,147,2003,Pneumonia
-Zone 12,1-1,1329,2003,Pneumonia
+Zone:12,1-1,1329,2003,Pneumonia
 Khon Kaen,1-1,561,2003,Pneumonia
 Maha Sarakham,1-1,348,2003,Pneumonia
 Roi Et,1-1,420,2003,Pneumonia
-Zone 13,1-1,2848,2003,Pneumonia
+Zone:13,1-1,2848,2003,Pneumonia
 Buri Ram,1-1,712,2003,Pneumonia
 Chaiyaphum,1-1,463,2003,Pneumonia
 Nakhon Ratchasima,1-1,717,2003,Pneumonia
 Surin,1-1,956,2003,Pneumonia
-Zone 14,1-1,1378,2003,Pneumonia
+Zone:14,1-1,1378,2003,Pneumonia
 Amnat Charoen,1-1,85,2003,Pneumonia
 Si Sa Ket,1-1,268,2003,Pneumonia
 Ubon Ratchathani,1-1,908,2003,Pneumonia
 Yasothon,1-1,117,2003,Pneumonia
 South Region,1-1,3718,2003,Pneumonia
-Zone 15,1-1,632,2003,Pneumonia
+Zone:15,1-1,632,2003,Pneumonia
 Chumphon,1-1,173,2003,Pneumonia
 Ranong,1-1,44,2003,Pneumonia
 Surat Thani,1-1,415,2003,Pneumonia
-Zone 16,1-1,852,2003,Pneumonia
+Zone:16,1-1,852,2003,Pneumonia
 Nakhon Si Thammarat,1-1,256,2003,Pneumonia
 Phatthalung,1-1,318,2003,Pneumonia
 Trang,1-1,278,2003,Pneumonia
-Zone 17,1-1,334,2003,Pneumonia
+Zone:17,1-1,334,2003,Pneumonia
 Krabi,1-1,231,2003,Pneumonia
 Phangnga,1-1,30,2003,Pneumonia
 Phuket,1-1,73,2003,Pneumonia
-Zone 18,1-1,1463,2003,Pneumonia
+Zone:18,1-1,1463,2003,Pneumonia
 Narathiwat,1-1,516,2003,Pneumonia
 Pattani,1-1,224,2003,Pneumonia
 Yala,1-1,723,2003,Pneumonia
-Zone 19,1-1,437,2003,Pneumonia
+Zone:19,1-1,437,2003,Pneumonia
 Satun,1-1,74,2003,Pneumonia
 Songkhla,1-1,363,2003,Pneumonia
 Total,2-2,14060,2003,Pneumonia
 North Region,2-2,3795,2003,Pneumonia
-Zone 1,2-2,2713,2003,Pneumonia
+Zone:1,2-2,2713,2003,Pneumonia
 Chiang Mai,2-2,624,2003,Pneumonia
 Chiang Rai,2-2,923,2003,Pneumonia
 Lampang,2-2,329,2003,Pneumonia
@@ -17906,98 +17906,98 @@ Mae Hong Son,2-2,314,2003,Pneumonia
 Nan,2-2,108,2003,Pneumonia
 Phayao,2-2,192,2003,Pneumonia
 Phrae,2-2,55,2003,Pneumonia
-Zone 2,2-2,700,2003,Pneumonia
+Zone:2,2-2,700,2003,Pneumonia
 Phetchabun,2-2,84,2003,Pneumonia
 Phitsanulok,2-2,105,2003,Pneumonia
 Sukhothai,2-2,124,2003,Pneumonia
 Tak,2-2,255,2003,Pneumonia
 Uttaradit,2-2,132,2003,Pneumonia
-Zone 3,2-2,382,2003,Pneumonia
+Zone:3,2-2,382,2003,Pneumonia
 Kamphaeng Phet,2-2,114,2003,Pneumonia
 Nakhon Sawan,2-2,146,2003,Pneumonia
 Phichit,2-2,43,2003,Pneumonia
 Uthai Thani,2-2,79,2003,Pneumonia
 Central Region,2-2,3465,2003,Pneumonia
 Bangkok,2-2,763,2003,Pneumonia
-Zone 4,2-2,590,2003,Pneumonia
+Zone:4,2-2,590,2003,Pneumonia
 Ang Thong,2-2,76,2003,Pneumonia
 Nonthaburi,2-2,108,2003,Pneumonia
 P.Nakhon S.Ayutthaya,2-2,202,2003,Pneumonia
 Pathum Thani,2-2,204,2003,Pneumonia
-Zone 5,2-2,318,2003,Pneumonia
+Zone:5,2-2,318,2003,Pneumonia
 Chai Nat,2-2,37,2003,Pneumonia
 Lop Buri,2-2,128,2003,Pneumonia
 Saraburi,2-2,116,2003,Pneumonia
 Sing Buri,2-2,37,2003,Pneumonia
-Zone 6,2-2,740,2003,Pneumonia
+Zone:6,2-2,740,2003,Pneumonia
 Kanchanaburi,2-2,223,2003,Pneumonia
 Nakhon Pathom,2-2,179,2003,Pneumonia
 Ratchaburi,2-2,194,2003,Pneumonia
 Suphan Buri,2-2,144,2003,Pneumonia
-Zone 7,2-2,236,2003,Pneumonia
+Zone:7,2-2,236,2003,Pneumonia
 Phetchaburi,2-2,66,2003,Pneumonia
 Prachuap Khiri Khan,2-2,85,2003,Pneumonia
 Samut Sakhon,2-2,65,2003,Pneumonia
 Samut Songkhram,2-2,20,2003,Pneumonia
-Zone 8,2-2,473,2003,Pneumonia
+Zone:8,2-2,473,2003,Pneumonia
 Chachoengsao,2-2,205,2003,Pneumonia
 Nakhon Nayok,2-2,17,2003,Pneumonia
 Prachin Buri,2-2,117,2003,Pneumonia
 Sa Kaeo,2-2,36,2003,Pneumonia
 Samut Prakan,2-2,98,2003,Pneumonia
-Zone 9,2-2,345,2003,Pneumonia
+Zone:9,2-2,345,2003,Pneumonia
 Chanthaburi,2-2,116,2003,Pneumonia
 Chon Buri,2-2,88,2003,Pneumonia
 Rayong,2-2,129,2003,Pneumonia
 Trat,2-2,12,2003,Pneumonia
 North-Eastern Region,2-2,4524,2003,Pneumonia
-Zone 10,2-2,571,2003,Pneumonia
+Zone:10,2-2,571,2003,Pneumonia
 Loei,2-2,83,2003,Pneumonia
 Nong Bua Lam Phu,2-2,113,2003,Pneumonia
 Nong Khai,2-2,99,2003,Pneumonia
 Udon Thani,2-2,276,2003,Pneumonia
-Zone 11,2-2,471,2003,Pneumonia
+Zone:11,2-2,471,2003,Pneumonia
 Kalasin,2-2,164,2003,Pneumonia
 Mukdahan,2-2,36,2003,Pneumonia
 Nakhon Phanom,2-2,153,2003,Pneumonia
 Sakon Nakhon,2-2,118,2003,Pneumonia
-Zone 12,2-2,902,2003,Pneumonia
+Zone:12,2-2,902,2003,Pneumonia
 Khon Kaen,2-2,385,2003,Pneumonia
 Maha Sarakham,2-2,236,2003,Pneumonia
 Roi Et,2-2,281,2003,Pneumonia
-Zone 13,2-2,1646,2003,Pneumonia
+Zone:13,2-2,1646,2003,Pneumonia
 Buri Ram,2-2,431,2003,Pneumonia
 Chaiyaphum,2-2,281,2003,Pneumonia
 Nakhon Ratchasima,2-2,416,2003,Pneumonia
 Surin,2-2,518,2003,Pneumonia
-Zone 14,2-2,934,2003,Pneumonia
+Zone:14,2-2,934,2003,Pneumonia
 Amnat Charoen,2-2,56,2003,Pneumonia
 Si Sa Ket,2-2,188,2003,Pneumonia
 Ubon Ratchathani,2-2,603,2003,Pneumonia
 Yasothon,2-2,87,2003,Pneumonia
 South Region,2-2,2276,2003,Pneumonia
-Zone 15,2-2,416,2003,Pneumonia
+Zone:15,2-2,416,2003,Pneumonia
 Chumphon,2-2,124,2003,Pneumonia
 Ranong,2-2,35,2003,Pneumonia
 Surat Thani,2-2,257,2003,Pneumonia
-Zone 16,2-2,501,2003,Pneumonia
+Zone:16,2-2,501,2003,Pneumonia
 Nakhon Si Thammarat,2-2,129,2003,Pneumonia
 Phatthalung,2-2,212,2003,Pneumonia
 Trang,2-2,160,2003,Pneumonia
-Zone 17,2-2,184,2003,Pneumonia
+Zone:17,2-2,184,2003,Pneumonia
 Krabi,2-2,109,2003,Pneumonia
 Phangnga,2-2,26,2003,Pneumonia
 Phuket,2-2,49,2003,Pneumonia
-Zone 18,2-2,872,2003,Pneumonia
+Zone:18,2-2,872,2003,Pneumonia
 Narathiwat,2-2,330,2003,Pneumonia
 Pattani,2-2,139,2003,Pneumonia
 Yala,2-2,403,2003,Pneumonia
-Zone 19,2-2,303,2003,Pneumonia
+Zone:19,2-2,303,2003,Pneumonia
 Satun,2-2,43,2003,Pneumonia
 Songkhla,2-2,260,2003,Pneumonia
 Total,3-3,8298,2003,Pneumonia
 North Region,3-3,2000,2003,Pneumonia
-Zone 1,3-3,1366,2003,Pneumonia
+Zone:1,3-3,1366,2003,Pneumonia
 Chiang Mai,3-3,339,2003,Pneumonia
 Chiang Rai,3-3,449,2003,Pneumonia
 Lampang,3-3,173,2003,Pneumonia
@@ -18006,98 +18006,98 @@ Mae Hong Son,3-3,169,2003,Pneumonia
 Nan,3-3,41,2003,Pneumonia
 Phayao,3-3,94,2003,Pneumonia
 Phrae,3-3,21,2003,Pneumonia
-Zone 2,3-3,398,2003,Pneumonia
+Zone:2,3-3,398,2003,Pneumonia
 Phetchabun,3-3,62,2003,Pneumonia
 Phitsanulok,3-3,72,2003,Pneumonia
 Sukhothai,3-3,70,2003,Pneumonia
 Tak,3-3,149,2003,Pneumonia
 Uttaradit,3-3,45,2003,Pneumonia
-Zone 3,3-3,236,2003,Pneumonia
+Zone:3,3-3,236,2003,Pneumonia
 Kamphaeng Phet,3-3,66,2003,Pneumonia
 Nakhon Sawan,3-3,98,2003,Pneumonia
 Phichit,3-3,29,2003,Pneumonia
 Uthai Thani,3-3,43,2003,Pneumonia
 Central Region,3-3,2392,2003,Pneumonia
 Bangkok,3-3,518,2003,Pneumonia
-Zone 4,3-3,415,2003,Pneumonia
+Zone:4,3-3,415,2003,Pneumonia
 Ang Thong,3-3,42,2003,Pneumonia
 Nonthaburi,3-3,79,2003,Pneumonia
 P.Nakhon S.Ayutthaya,3-3,135,2003,Pneumonia
 Pathum Thani,3-3,159,2003,Pneumonia
-Zone 5,3-3,226,2003,Pneumonia
+Zone:5,3-3,226,2003,Pneumonia
 Chai Nat,3-3,30,2003,Pneumonia
 Lop Buri,3-3,86,2003,Pneumonia
 Saraburi,3-3,87,2003,Pneumonia
 Sing Buri,3-3,23,2003,Pneumonia
-Zone 6,3-3,470,2003,Pneumonia
+Zone:6,3-3,470,2003,Pneumonia
 Kanchanaburi,3-3,113,2003,Pneumonia
 Nakhon Pathom,3-3,144,2003,Pneumonia
 Ratchaburi,3-3,131,2003,Pneumonia
 Suphan Buri,3-3,82,2003,Pneumonia
-Zone 7,3-3,137,2003,Pneumonia
+Zone:7,3-3,137,2003,Pneumonia
 Phetchaburi,3-3,43,2003,Pneumonia
 Prachuap Khiri Khan,3-3,40,2003,Pneumonia
 Samut Sakhon,3-3,43,2003,Pneumonia
 Samut Songkhram,3-3,11,2003,Pneumonia
-Zone 8,3-3,384,2003,Pneumonia
+Zone:8,3-3,384,2003,Pneumonia
 Chachoengsao,3-3,207,2003,Pneumonia
 Nakhon Nayok,3-3,8,2003,Pneumonia
 Prachin Buri,3-3,85,2003,Pneumonia
 Sa Kaeo,3-3,18,2003,Pneumonia
 Samut Prakan,3-3,66,2003,Pneumonia
-Zone 9,3-3,242,2003,Pneumonia
+Zone:9,3-3,242,2003,Pneumonia
 Chanthaburi,3-3,71,2003,Pneumonia
 Chon Buri,3-3,65,2003,Pneumonia
 Rayong,3-3,90,2003,Pneumonia
 Trat,3-3,16,2003,Pneumonia
 North-Eastern Region,3-3,2632,2003,Pneumonia
-Zone 10,3-3,322,2003,Pneumonia
+Zone:10,3-3,322,2003,Pneumonia
 Loei,3-3,36,2003,Pneumonia
 Nong Bua Lam Phu,3-3,89,2003,Pneumonia
 Nong Khai,3-3,52,2003,Pneumonia
 Udon Thani,3-3,145,2003,Pneumonia
-Zone 11,3-3,288,2003,Pneumonia
+Zone:11,3-3,288,2003,Pneumonia
 Kalasin,3-3,80,2003,Pneumonia
 Mukdahan,3-3,22,2003,Pneumonia
 Nakhon Phanom,3-3,98,2003,Pneumonia
 Sakon Nakhon,3-3,88,2003,Pneumonia
-Zone 12,3-3,496,2003,Pneumonia
+Zone:12,3-3,496,2003,Pneumonia
 Khon Kaen,3-3,212,2003,Pneumonia
 Maha Sarakham,3-3,106,2003,Pneumonia
 Roi Et,3-3,178,2003,Pneumonia
-Zone 13,3-3,959,2003,Pneumonia
+Zone:13,3-3,959,2003,Pneumonia
 Buri Ram,3-3,251,2003,Pneumonia
 Chaiyaphum,3-3,149,2003,Pneumonia
 Nakhon Ratchasima,3-3,273,2003,Pneumonia
 Surin,3-3,286,2003,Pneumonia
-Zone 14,3-3,567,2003,Pneumonia
+Zone:14,3-3,567,2003,Pneumonia
 Amnat Charoen,3-3,43,2003,Pneumonia
 Si Sa Ket,3-3,120,2003,Pneumonia
 Ubon Ratchathani,3-3,355,2003,Pneumonia
 Yasothon,3-3,49,2003,Pneumonia
 South Region,3-3,1274,2003,Pneumonia
-Zone 15,3-3,256,2003,Pneumonia
+Zone:15,3-3,256,2003,Pneumonia
 Chumphon,3-3,75,2003,Pneumonia
 Ranong,3-3,20,2003,Pneumonia
 Surat Thani,3-3,161,2003,Pneumonia
-Zone 16,3-3,305,2003,Pneumonia
+Zone:16,3-3,305,2003,Pneumonia
 Nakhon Si Thammarat,3-3,80,2003,Pneumonia
 Phatthalung,3-3,138,2003,Pneumonia
 Trang,3-3,87,2003,Pneumonia
-Zone 17,3-3,116,2003,Pneumonia
+Zone:17,3-3,116,2003,Pneumonia
 Krabi,3-3,74,2003,Pneumonia
 Phangnga,3-3,14,2003,Pneumonia
 Phuket,3-3,28,2003,Pneumonia
-Zone 18,3-3,436,2003,Pneumonia
+Zone:18,3-3,436,2003,Pneumonia
 Narathiwat,3-3,156,2003,Pneumonia
 Pattani,3-3,79,2003,Pneumonia
 Yala,3-3,201,2003,Pneumonia
-Zone 19,3-3,161,2003,Pneumonia
+Zone:19,3-3,161,2003,Pneumonia
 Satun,3-3,18,2003,Pneumonia
 Songkhla,3-3,143,2003,Pneumonia
 Total,4-4,4693,2003,Pneumonia
 North Region,4-4,1139,2003,Pneumonia
-Zone 1,4-4,742,2003,Pneumonia
+Zone:1,4-4,742,2003,Pneumonia
 Chiang Mai,4-4,172,2003,Pneumonia
 Chiang Rai,4-4,235,2003,Pneumonia
 Lampang,4-4,83,2003,Pneumonia
@@ -18106,98 +18106,98 @@ Mae Hong Son,4-4,109,2003,Pneumonia
 Nan,4-4,29,2003,Pneumonia
 Phayao,4-4,46,2003,Pneumonia
 Phrae,4-4,15,2003,Pneumonia
-Zone 2,4-4,247,2003,Pneumonia
+Zone:2,4-4,247,2003,Pneumonia
 Phetchabun,4-4,34,2003,Pneumonia
 Phitsanulok,4-4,42,2003,Pneumonia
 Sukhothai,4-4,39,2003,Pneumonia
 Tak,4-4,73,2003,Pneumonia
 Uttaradit,4-4,59,2003,Pneumonia
-Zone 3,4-4,150,2003,Pneumonia
+Zone:3,4-4,150,2003,Pneumonia
 Kamphaeng Phet,4-4,48,2003,Pneumonia
 Nakhon Sawan,4-4,60,2003,Pneumonia
 Phichit,4-4,20,2003,Pneumonia
 Uthai Thani,4-4,22,2003,Pneumonia
 Central Region,4-4,1427,2003,Pneumonia
 Bangkok,4-4,281,2003,Pneumonia
-Zone 4,4-4,280,2003,Pneumonia
+Zone:4,4-4,280,2003,Pneumonia
 Ang Thong,4-4,20,2003,Pneumonia
 Nonthaburi,4-4,52,2003,Pneumonia
 P.Nakhon S.Ayutthaya,4-4,81,2003,Pneumonia
 Pathum Thani,4-4,127,2003,Pneumonia
-Zone 5,4-4,124,2003,Pneumonia
+Zone:5,4-4,124,2003,Pneumonia
 Chai Nat,4-4,13,2003,Pneumonia
 Lop Buri,4-4,57,2003,Pneumonia
 Saraburi,4-4,36,2003,Pneumonia
 Sing Buri,4-4,18,2003,Pneumonia
-Zone 6,4-4,273,2003,Pneumonia
+Zone:6,4-4,273,2003,Pneumonia
 Kanchanaburi,4-4,85,2003,Pneumonia
 Nakhon Pathom,4-4,78,2003,Pneumonia
 Ratchaburi,4-4,68,2003,Pneumonia
 Suphan Buri,4-4,42,2003,Pneumonia
-Zone 7,4-4,98,2003,Pneumonia
+Zone:7,4-4,98,2003,Pneumonia
 Phetchaburi,4-4,31,2003,Pneumonia
 Prachuap Khiri Khan,4-4,38,2003,Pneumonia
 Samut Sakhon,4-4,24,2003,Pneumonia
 Samut Songkhram,4-4,5,2003,Pneumonia
-Zone 8,4-4,209,2003,Pneumonia
+Zone:8,4-4,209,2003,Pneumonia
 Chachoengsao,4-4,121,2003,Pneumonia
 Nakhon Nayok,4-4,9,2003,Pneumonia
 Prachin Buri,4-4,38,2003,Pneumonia
 Sa Kaeo,4-4,16,2003,Pneumonia
 Samut Prakan,4-4,25,2003,Pneumonia
-Zone 9,4-4,162,2003,Pneumonia
+Zone:9,4-4,162,2003,Pneumonia
 Chanthaburi,4-4,59,2003,Pneumonia
 Chon Buri,4-4,36,2003,Pneumonia
 Rayong,4-4,59,2003,Pneumonia
 Trat,4-4,8,2003,Pneumonia
 North-Eastern Region,4-4,1417,2003,Pneumonia
-Zone 10,4-4,177,2003,Pneumonia
+Zone:10,4-4,177,2003,Pneumonia
 Loei,4-4,18,2003,Pneumonia
 Nong Bua Lam Phu,4-4,31,2003,Pneumonia
 Nong Khai,4-4,26,2003,Pneumonia
 Udon Thani,4-4,102,2003,Pneumonia
-Zone 11,4-4,161,2003,Pneumonia
+Zone:11,4-4,161,2003,Pneumonia
 Kalasin,4-4,51,2003,Pneumonia
 Mukdahan,4-4,20,2003,Pneumonia
 Nakhon Phanom,4-4,49,2003,Pneumonia
 Sakon Nakhon,4-4,41,2003,Pneumonia
-Zone 12,4-4,275,2003,Pneumonia
+Zone:12,4-4,275,2003,Pneumonia
 Khon Kaen,4-4,111,2003,Pneumonia
 Maha Sarakham,4-4,71,2003,Pneumonia
 Roi Et,4-4,93,2003,Pneumonia
-Zone 13,4-4,513,2003,Pneumonia
+Zone:13,4-4,513,2003,Pneumonia
 Buri Ram,4-4,133,2003,Pneumonia
 Chaiyaphum,4-4,81,2003,Pneumonia
 Nakhon Ratchasima,4-4,166,2003,Pneumonia
 Surin,4-4,133,2003,Pneumonia
-Zone 14,4-4,291,2003,Pneumonia
+Zone:14,4-4,291,2003,Pneumonia
 Amnat Charoen,4-4,19,2003,Pneumonia
 Si Sa Ket,4-4,66,2003,Pneumonia
 Ubon Ratchathani,4-4,185,2003,Pneumonia
 Yasothon,4-4,21,2003,Pneumonia
 South Region,4-4,710,2003,Pneumonia
-Zone 15,4-4,113,2003,Pneumonia
+Zone:15,4-4,113,2003,Pneumonia
 Chumphon,4-4,26,2003,Pneumonia
 Ranong,4-4,7,2003,Pneumonia
 Surat Thani,4-4,80,2003,Pneumonia
-Zone 16,4-4,166,2003,Pneumonia
+Zone:16,4-4,166,2003,Pneumonia
 Nakhon Si Thammarat,4-4,47,2003,Pneumonia
 Phatthalung,4-4,73,2003,Pneumonia
 Trang,4-4,46,2003,Pneumonia
-Zone 17,4-4,73,2003,Pneumonia
+Zone:17,4-4,73,2003,Pneumonia
 Krabi,4-4,55,2003,Pneumonia
 Phangnga,4-4,4,2003,Pneumonia
 Phuket,4-4,14,2003,Pneumonia
-Zone 18,4-4,266,2003,Pneumonia
+Zone:18,4-4,266,2003,Pneumonia
 Narathiwat,4-4,92,2003,Pneumonia
 Pattani,4-4,53,2003,Pneumonia
 Yala,4-4,121,2003,Pneumonia
-Zone 19,4-4,92,2003,Pneumonia
+Zone:19,4-4,92,2003,Pneumonia
 Satun,4-4,5,2003,Pneumonia
 Songkhla,4-4,87,2003,Pneumonia
 Total,5-5,3075,2003,Pneumonia
 North Region,5-5,698,2003,Pneumonia
-Zone 1,5-5,409,2003,Pneumonia
+Zone:1,5-5,409,2003,Pneumonia
 Chiang Mai,5-5,107,2003,Pneumonia
 Chiang Rai,5-5,108,2003,Pneumonia
 Lampang,5-5,50,2003,Pneumonia
@@ -18206,98 +18206,98 @@ Mae Hong Son,5-5,73,2003,Pneumonia
 Nan,5-5,14,2003,Pneumonia
 Phayao,5-5,30,2003,Pneumonia
 Phrae,5-5,7,2003,Pneumonia
-Zone 2,5-5,173,2003,Pneumonia
+Zone:2,5-5,173,2003,Pneumonia
 Phetchabun,5-5,28,2003,Pneumonia
 Phitsanulok,5-5,28,2003,Pneumonia
 Sukhothai,5-5,20,2003,Pneumonia
 Tak,5-5,68,2003,Pneumonia
 Uttaradit,5-5,29,2003,Pneumonia
-Zone 3,5-5,116,2003,Pneumonia
+Zone:3,5-5,116,2003,Pneumonia
 Kamphaeng Phet,5-5,27,2003,Pneumonia
 Nakhon Sawan,5-5,40,2003,Pneumonia
 Phichit,5-5,29,2003,Pneumonia
 Uthai Thani,5-5,20,2003,Pneumonia
 Central Region,5-5,974,2003,Pneumonia
 Bangkok,5-5,148,2003,Pneumonia
-Zone 4,5-5,214,2003,Pneumonia
+Zone:4,5-5,214,2003,Pneumonia
 Ang Thong,5-5,16,2003,Pneumonia
 Nonthaburi,5-5,29,2003,Pneumonia
 P.Nakhon S.Ayutthaya,5-5,84,2003,Pneumonia
 Pathum Thani,5-5,85,2003,Pneumonia
-Zone 5,5-5,96,2003,Pneumonia
+Zone:5,5-5,96,2003,Pneumonia
 Chai Nat,5-5,12,2003,Pneumonia
 Lop Buri,5-5,35,2003,Pneumonia
 Saraburi,5-5,31,2003,Pneumonia
 Sing Buri,5-5,18,2003,Pneumonia
-Zone 6,5-5,188,2003,Pneumonia
+Zone:6,5-5,188,2003,Pneumonia
 Kanchanaburi,5-5,59,2003,Pneumonia
 Nakhon Pathom,5-5,41,2003,Pneumonia
 Ratchaburi,5-5,57,2003,Pneumonia
 Suphan Buri,5-5,31,2003,Pneumonia
-Zone 7,5-5,47,2003,Pneumonia
+Zone:7,5-5,47,2003,Pneumonia
 Phetchaburi,5-5,18,2003,Pneumonia
 Prachuap Khiri Khan,5-5,20,2003,Pneumonia
 Samut Sakhon,5-5,7,2003,Pneumonia
 Samut Songkhram,5-5,2,2003,Pneumonia
-Zone 8,5-5,168,2003,Pneumonia
+Zone:8,5-5,168,2003,Pneumonia
 Chachoengsao,5-5,98,2003,Pneumonia
 Nakhon Nayok,5-5,4,2003,Pneumonia
 Prachin Buri,5-5,30,2003,Pneumonia
 Sa Kaeo,5-5,13,2003,Pneumonia
 Samut Prakan,5-5,23,2003,Pneumonia
-Zone 9,5-5,113,2003,Pneumonia
+Zone:9,5-5,113,2003,Pneumonia
 Chanthaburi,5-5,35,2003,Pneumonia
 Chon Buri,5-5,28,2003,Pneumonia
 Rayong,5-5,43,2003,Pneumonia
 Trat,5-5,7,2003,Pneumonia
 North-Eastern Region,5-5,971,2003,Pneumonia
-Zone 10,5-5,131,2003,Pneumonia
+Zone:10,5-5,131,2003,Pneumonia
 Loei,5-5,18,2003,Pneumonia
 Nong Bua Lam Phu,5-5,26,2003,Pneumonia
 Nong Khai,5-5,18,2003,Pneumonia
 Udon Thani,5-5,69,2003,Pneumonia
-Zone 11,5-5,89,2003,Pneumonia
+Zone:11,5-5,89,2003,Pneumonia
 Kalasin,5-5,33,2003,Pneumonia
 Mukdahan,5-5,6,2003,Pneumonia
 Nakhon Phanom,5-5,25,2003,Pneumonia
 Sakon Nakhon,5-5,25,2003,Pneumonia
-Zone 12,5-5,185,2003,Pneumonia
+Zone:12,5-5,185,2003,Pneumonia
 Khon Kaen,5-5,61,2003,Pneumonia
 Maha Sarakham,5-5,63,2003,Pneumonia
 Roi Et,5-5,61,2003,Pneumonia
-Zone 13,5-5,374,2003,Pneumonia
+Zone:13,5-5,374,2003,Pneumonia
 Buri Ram,5-5,94,2003,Pneumonia
 Chaiyaphum,5-5,51,2003,Pneumonia
 Nakhon Ratchasima,5-5,116,2003,Pneumonia
 Surin,5-5,113,2003,Pneumonia
-Zone 14,5-5,192,2003,Pneumonia
+Zone:14,5-5,192,2003,Pneumonia
 Amnat Charoen,5-5,17,2003,Pneumonia
 Si Sa Ket,5-5,42,2003,Pneumonia
 Ubon Ratchathani,5-5,107,2003,Pneumonia
 Yasothon,5-5,26,2003,Pneumonia
 South Region,5-5,432,2003,Pneumonia
-Zone 15,5-5,89,2003,Pneumonia
+Zone:15,5-5,89,2003,Pneumonia
 Chumphon,5-5,33,2003,Pneumonia
 Ranong,5-5,6,2003,Pneumonia
 Surat Thani,5-5,50,2003,Pneumonia
-Zone 16,5-5,93,2003,Pneumonia
+Zone:16,5-5,93,2003,Pneumonia
 Nakhon Si Thammarat,5-5,29,2003,Pneumonia
 Phatthalung,5-5,28,2003,Pneumonia
 Trang,5-5,36,2003,Pneumonia
-Zone 17,5-5,41,2003,Pneumonia
+Zone:17,5-5,41,2003,Pneumonia
 Krabi,5-5,30,2003,Pneumonia
 Phangnga,5-5,3,2003,Pneumonia
 Phuket,5-5,8,2003,Pneumonia
-Zone 18,5-5,163,2003,Pneumonia
+Zone:18,5-5,163,2003,Pneumonia
 Narathiwat,5-5,59,2003,Pneumonia
 Pattani,5-5,37,2003,Pneumonia
 Yala,5-5,67,2003,Pneumonia
-Zone 19,5-5,46,2003,Pneumonia
+Zone:19,5-5,46,2003,Pneumonia
 Satun,5-5,7,2003,Pneumonia
 Songkhla,5-5,39,2003,Pneumonia
 Total,6-6,2117,2003,Pneumonia
 North Region,6-6,418,2003,Pneumonia
-Zone 1,6-6,227,2003,Pneumonia
+Zone:1,6-6,227,2003,Pneumonia
 Chiang Mai,6-6,73,2003,Pneumonia
 Chiang Rai,6-6,42,2003,Pneumonia
 Lampang,6-6,33,2003,Pneumonia
@@ -18306,98 +18306,98 @@ Mae Hong Son,6-6,33,2003,Pneumonia
 Nan,6-6,11,2003,Pneumonia
 Phayao,6-6,18,2003,Pneumonia
 Phrae,6-6,5,2003,Pneumonia
-Zone 2,6-6,113,2003,Pneumonia
+Zone:2,6-6,113,2003,Pneumonia
 Phetchabun,6-6,12,2003,Pneumonia
 Phitsanulok,6-6,23,2003,Pneumonia
 Sukhothai,6-6,18,2003,Pneumonia
 Tak,6-6,36,2003,Pneumonia
 Uttaradit,6-6,24,2003,Pneumonia
-Zone 3,6-6,78,2003,Pneumonia
+Zone:3,6-6,78,2003,Pneumonia
 Kamphaeng Phet,6-6,18,2003,Pneumonia
 Nakhon Sawan,6-6,38,2003,Pneumonia
 Phichit,6-6,9,2003,Pneumonia
 Uthai Thani,6-6,13,2003,Pneumonia
 Central Region,6-6,683,2003,Pneumonia
 Bangkok,6-6,127,2003,Pneumonia
-Zone 4,6-6,136,2003,Pneumonia
+Zone:4,6-6,136,2003,Pneumonia
 Ang Thong,6-6,14,2003,Pneumonia
 Nonthaburi,6-6,16,2003,Pneumonia
 P.Nakhon S.Ayutthaya,6-6,41,2003,Pneumonia
 Pathum Thani,6-6,65,2003,Pneumonia
-Zone 5,6-6,65,2003,Pneumonia
+Zone:5,6-6,65,2003,Pneumonia
 Chai Nat,6-6,5,2003,Pneumonia
 Lop Buri,6-6,27,2003,Pneumonia
 Saraburi,6-6,23,2003,Pneumonia
 Sing Buri,6-6,10,2003,Pneumonia
-Zone 6,6-6,155,2003,Pneumonia
+Zone:6,6-6,155,2003,Pneumonia
 Kanchanaburi,6-6,61,2003,Pneumonia
 Nakhon Pathom,6-6,31,2003,Pneumonia
 Ratchaburi,6-6,32,2003,Pneumonia
 Suphan Buri,6-6,31,2003,Pneumonia
-Zone 7,6-6,37,2003,Pneumonia
+Zone:7,6-6,37,2003,Pneumonia
 Phetchaburi,6-6,13,2003,Pneumonia
 Prachuap Khiri Khan,6-6,12,2003,Pneumonia
 Samut Sakhon,6-6,10,2003,Pneumonia
 Samut Songkhram,6-6,2,2003,Pneumonia
-Zone 8,6-6,99,2003,Pneumonia
+Zone:8,6-6,99,2003,Pneumonia
 Chachoengsao,6-6,67,2003,Pneumonia
 Nakhon Nayok,6-6,2,2003,Pneumonia
 Prachin Buri,6-6,14,2003,Pneumonia
 Sa Kaeo,6-6,5,2003,Pneumonia
 Samut Prakan,6-6,11,2003,Pneumonia
-Zone 9,6-6,64,2003,Pneumonia
+Zone:9,6-6,64,2003,Pneumonia
 Chanthaburi,6-6,17,2003,Pneumonia
 Chon Buri,6-6,21,2003,Pneumonia
 Rayong,6-6,22,2003,Pneumonia
 Trat,6-6,4,2003,Pneumonia
 North-Eastern Region,6-6,677,2003,Pneumonia
-Zone 10,6-6,103,2003,Pneumonia
+Zone:10,6-6,103,2003,Pneumonia
 Loei,6-6,10,2003,Pneumonia
 Nong Bua Lam Phu,6-6,25,2003,Pneumonia
 Nong Khai,6-6,16,2003,Pneumonia
 Udon Thani,6-6,52,2003,Pneumonia
-Zone 11,6-6,73,2003,Pneumonia
+Zone:11,6-6,73,2003,Pneumonia
 Kalasin,6-6,35,2003,Pneumonia
 Mukdahan,6-6,7,2003,Pneumonia
 Nakhon Phanom,6-6,17,2003,Pneumonia
 Sakon Nakhon,6-6,14,2003,Pneumonia
-Zone 12,6-6,109,2003,Pneumonia
+Zone:12,6-6,109,2003,Pneumonia
 Khon Kaen,6-6,48,2003,Pneumonia
 Maha Sarakham,6-6,24,2003,Pneumonia
 Roi Et,6-6,37,2003,Pneumonia
-Zone 13,6-6,254,2003,Pneumonia
+Zone:13,6-6,254,2003,Pneumonia
 Buri Ram,6-6,78,2003,Pneumonia
 Chaiyaphum,6-6,31,2003,Pneumonia
 Nakhon Ratchasima,6-6,82,2003,Pneumonia
 Surin,6-6,63,2003,Pneumonia
-Zone 14,6-6,138,2003,Pneumonia
+Zone:14,6-6,138,2003,Pneumonia
 Amnat Charoen,6-6,7,2003,Pneumonia
 Si Sa Ket,6-6,38,2003,Pneumonia
 Ubon Ratchathani,6-6,72,2003,Pneumonia
 Yasothon,6-6,21,2003,Pneumonia
 South Region,6-6,339,2003,Pneumonia
-Zone 15,6-6,66,2003,Pneumonia
+Zone:15,6-6,66,2003,Pneumonia
 Chumphon,6-6,18,2003,Pneumonia
 Ranong,6-6,4,2003,Pneumonia
 Surat Thani,6-6,44,2003,Pneumonia
-Zone 16,6-6,87,2003,Pneumonia
+Zone:16,6-6,87,2003,Pneumonia
 Nakhon Si Thammarat,6-6,31,2003,Pneumonia
 Phatthalung,6-6,28,2003,Pneumonia
 Trang,6-6,28,2003,Pneumonia
-Zone 17,6-6,26,2003,Pneumonia
+Zone:17,6-6,26,2003,Pneumonia
 Krabi,6-6,16,2003,Pneumonia
 Phangnga,6-6,5,2003,Pneumonia
 Phuket,6-6,5,2003,Pneumonia
-Zone 18,6-6,118,2003,Pneumonia
+Zone:18,6-6,118,2003,Pneumonia
 Narathiwat,6-6,36,2003,Pneumonia
 Pattani,6-6,24,2003,Pneumonia
 Yala,6-6,58,2003,Pneumonia
-Zone 19,6-6,42,2003,Pneumonia
+Zone:19,6-6,42,2003,Pneumonia
 Satun,6-6,4,2003,Pneumonia
 Songkhla,6-6,38,2003,Pneumonia
 Total,7-9,3866,2003,Pneumonia
 North Region,7-9,792,2003,Pneumonia
-Zone 1,7-9,440,2003,Pneumonia
+Zone:1,7-9,440,2003,Pneumonia
 Chiang Mai,7-9,109,2003,Pneumonia
 Chiang Rai,7-9,86,2003,Pneumonia
 Lampang,7-9,75,2003,Pneumonia
@@ -18406,98 +18406,98 @@ Mae Hong Son,7-9,47,2003,Pneumonia
 Nan,7-9,31,2003,Pneumonia
 Phayao,7-9,60,2003,Pneumonia
 Phrae,7-9,7,2003,Pneumonia
-Zone 2,7-9,205,2003,Pneumonia
+Zone:2,7-9,205,2003,Pneumonia
 Phetchabun,7-9,31,2003,Pneumonia
 Phitsanulok,7-9,40,2003,Pneumonia
 Sukhothai,7-9,48,2003,Pneumonia
 Tak,7-9,52,2003,Pneumonia
 Uttaradit,7-9,34,2003,Pneumonia
-Zone 3,7-9,147,2003,Pneumonia
+Zone:3,7-9,147,2003,Pneumonia
 Kamphaeng Phet,7-9,28,2003,Pneumonia
 Nakhon Sawan,7-9,74,2003,Pneumonia
 Phichit,7-9,22,2003,Pneumonia
 Uthai Thani,7-9,23,2003,Pneumonia
 Central Region,7-9,1253,2003,Pneumonia
 Bangkok,7-9,221,2003,Pneumonia
-Zone 4,7-9,224,2003,Pneumonia
+Zone:4,7-9,224,2003,Pneumonia
 Ang Thong,7-9,25,2003,Pneumonia
 Nonthaburi,7-9,29,2003,Pneumonia
 P.Nakhon S.Ayutthaya,7-9,73,2003,Pneumonia
 Pathum Thani,7-9,97,2003,Pneumonia
-Zone 5,7-9,135,2003,Pneumonia
+Zone:5,7-9,135,2003,Pneumonia
 Chai Nat,7-9,10,2003,Pneumonia
 Lop Buri,7-9,44,2003,Pneumonia
 Saraburi,7-9,54,2003,Pneumonia
 Sing Buri,7-9,27,2003,Pneumonia
-Zone 6,7-9,247,2003,Pneumonia
+Zone:6,7-9,247,2003,Pneumonia
 Kanchanaburi,7-9,86,2003,Pneumonia
 Nakhon Pathom,7-9,61,2003,Pneumonia
 Ratchaburi,7-9,60,2003,Pneumonia
 Suphan Buri,7-9,40,2003,Pneumonia
-Zone 7,7-9,70,2003,Pneumonia
+Zone:7,7-9,70,2003,Pneumonia
 Phetchaburi,7-9,22,2003,Pneumonia
 Prachuap Khiri Khan,7-9,23,2003,Pneumonia
 Samut Sakhon,7-9,22,2003,Pneumonia
 Samut Songkhram,7-9,3,2003,Pneumonia
-Zone 8,7-9,232,2003,Pneumonia
+Zone:8,7-9,232,2003,Pneumonia
 Chachoengsao,7-9,139,2003,Pneumonia
 Nakhon Nayok,7-9,7,2003,Pneumonia
 Prachin Buri,7-9,50,2003,Pneumonia
 Sa Kaeo,7-9,6,2003,Pneumonia
 Samut Prakan,7-9,30,2003,Pneumonia
-Zone 9,7-9,124,2003,Pneumonia
+Zone:9,7-9,124,2003,Pneumonia
 Chanthaburi,7-9,46,2003,Pneumonia
 Chon Buri,7-9,28,2003,Pneumonia
 Rayong,7-9,39,2003,Pneumonia
 Trat,7-9,11,2003,Pneumonia
 North-Eastern Region,7-9,1270,2003,Pneumonia
-Zone 10,7-9,176,2003,Pneumonia
+Zone:10,7-9,176,2003,Pneumonia
 Loei,7-9,26,2003,Pneumonia
 Nong Bua Lam Phu,7-9,31,2003,Pneumonia
 Nong Khai,7-9,31,2003,Pneumonia
 Udon Thani,7-9,88,2003,Pneumonia
-Zone 11,7-9,140,2003,Pneumonia
+Zone:11,7-9,140,2003,Pneumonia
 Kalasin,7-9,77,2003,Pneumonia
 Mukdahan,7-9,9,2003,Pneumonia
 Nakhon Phanom,7-9,29,2003,Pneumonia
 Sakon Nakhon,7-9,25,2003,Pneumonia
-Zone 12,7-9,261,2003,Pneumonia
+Zone:12,7-9,261,2003,Pneumonia
 Khon Kaen,7-9,110,2003,Pneumonia
 Maha Sarakham,7-9,84,2003,Pneumonia
 Roi Et,7-9,67,2003,Pneumonia
-Zone 13,7-9,461,2003,Pneumonia
+Zone:13,7-9,461,2003,Pneumonia
 Buri Ram,7-9,101,2003,Pneumonia
 Chaiyaphum,7-9,90,2003,Pneumonia
 Nakhon Ratchasima,7-9,155,2003,Pneumonia
 Surin,7-9,115,2003,Pneumonia
-Zone 14,7-9,232,2003,Pneumonia
+Zone:14,7-9,232,2003,Pneumonia
 Amnat Charoen,7-9,9,2003,Pneumonia
 Si Sa Ket,7-9,64,2003,Pneumonia
 Ubon Ratchathani,7-9,134,2003,Pneumonia
 Yasothon,7-9,25,2003,Pneumonia
 South Region,7-9,551,2003,Pneumonia
-Zone 15,7-9,101,2003,Pneumonia
+Zone:15,7-9,101,2003,Pneumonia
 Chumphon,7-9,35,2003,Pneumonia
 Ranong,7-9,7,2003,Pneumonia
 Surat Thani,7-9,59,2003,Pneumonia
-Zone 16,7-9,116,2003,Pneumonia
+Zone:16,7-9,116,2003,Pneumonia
 Nakhon Si Thammarat,7-9,41,2003,Pneumonia
 Phatthalung,7-9,41,2003,Pneumonia
 Trang,7-9,34,2003,Pneumonia
-Zone 17,7-9,62,2003,Pneumonia
+Zone:17,7-9,62,2003,Pneumonia
 Krabi,7-9,42,2003,Pneumonia
 Phangnga,7-9,14,2003,Pneumonia
 Phuket,7-9,6,2003,Pneumonia
-Zone 18,7-9,189,2003,Pneumonia
+Zone:18,7-9,189,2003,Pneumonia
 Narathiwat,7-9,53,2003,Pneumonia
 Pattani,7-9,52,2003,Pneumonia
 Yala,7-9,84,2003,Pneumonia
-Zone 19,7-9,83,2003,Pneumonia
+Zone:19,7-9,83,2003,Pneumonia
 Satun,7-9,8,2003,Pneumonia
 Songkhla,7-9,75,2003,Pneumonia
 Total,10-14,2818,2003,Pneumonia
 North Region,10-14,628,2003,Pneumonia
-Zone 1,10-14,360,2003,Pneumonia
+Zone:1,10-14,360,2003,Pneumonia
 Chiang Mai,10-14,99,2003,Pneumonia
 Chiang Rai,10-14,80,2003,Pneumonia
 Lampang,10-14,60,2003,Pneumonia
@@ -18506,98 +18506,98 @@ Mae Hong Son,10-14,13,2003,Pneumonia
 Nan,10-14,24,2003,Pneumonia
 Phayao,10-14,45,2003,Pneumonia
 Phrae,10-14,6,2003,Pneumonia
-Zone 2,10-14,155,2003,Pneumonia
+Zone:2,10-14,155,2003,Pneumonia
 Phetchabun,10-14,27,2003,Pneumonia
 Phitsanulok,10-14,25,2003,Pneumonia
 Sukhothai,10-14,29,2003,Pneumonia
 Tak,10-14,36,2003,Pneumonia
 Uttaradit,10-14,38,2003,Pneumonia
-Zone 3,10-14,113,2003,Pneumonia
+Zone:3,10-14,113,2003,Pneumonia
 Kamphaeng Phet,10-14,31,2003,Pneumonia
 Nakhon Sawan,10-14,48,2003,Pneumonia
 Phichit,10-14,14,2003,Pneumonia
 Uthai Thani,10-14,20,2003,Pneumonia
 Central Region,10-14,861,2003,Pneumonia
 Bangkok,10-14,127,2003,Pneumonia
-Zone 4,10-14,145,2003,Pneumonia
+Zone:4,10-14,145,2003,Pneumonia
 Ang Thong,10-14,21,2003,Pneumonia
 Nonthaburi,10-14,19,2003,Pneumonia
 P.Nakhon S.Ayutthaya,10-14,44,2003,Pneumonia
 Pathum Thani,10-14,61,2003,Pneumonia
-Zone 5,10-14,94,2003,Pneumonia
+Zone:5,10-14,94,2003,Pneumonia
 Chai Nat,10-14,6,2003,Pneumonia
 Lop Buri,10-14,34,2003,Pneumonia
 Saraburi,10-14,38,2003,Pneumonia
 Sing Buri,10-14,16,2003,Pneumonia
-Zone 6,10-14,190,2003,Pneumonia
+Zone:6,10-14,190,2003,Pneumonia
 Kanchanaburi,10-14,69,2003,Pneumonia
 Nakhon Pathom,10-14,44,2003,Pneumonia
 Ratchaburi,10-14,40,2003,Pneumonia
 Suphan Buri,10-14,37,2003,Pneumonia
-Zone 7,10-14,43,2003,Pneumonia
+Zone:7,10-14,43,2003,Pneumonia
 Phetchaburi,10-14,18,2003,Pneumonia
 Prachuap Khiri Khan,10-14,11,2003,Pneumonia
 Samut Sakhon,10-14,7,2003,Pneumonia
 Samut Songkhram,10-14,7,2003,Pneumonia
-Zone 8,10-14,176,2003,Pneumonia
+Zone:8,10-14,176,2003,Pneumonia
 Chachoengsao,10-14,101,2003,Pneumonia
 Nakhon Nayok,10-14,4,2003,Pneumonia
 Prachin Buri,10-14,36,2003,Pneumonia
 Sa Kaeo,10-14,13,2003,Pneumonia
 Samut Prakan,10-14,22,2003,Pneumonia
-Zone 9,10-14,86,2003,Pneumonia
+Zone:9,10-14,86,2003,Pneumonia
 Chanthaburi,10-14,18,2003,Pneumonia
 Chon Buri,10-14,23,2003,Pneumonia
 Rayong,10-14,43,2003,Pneumonia
 Trat,10-14,2,2003,Pneumonia
 North-Eastern Region,10-14,960,2003,Pneumonia
-Zone 10,10-14,149,2003,Pneumonia
+Zone:10,10-14,149,2003,Pneumonia
 Loei,10-14,17,2003,Pneumonia
 Nong Bua Lam Phu,10-14,33,2003,Pneumonia
 Nong Khai,10-14,22,2003,Pneumonia
 Udon Thani,10-14,77,2003,Pneumonia
-Zone 11,10-14,109,2003,Pneumonia
+Zone:11,10-14,109,2003,Pneumonia
 Kalasin,10-14,51,2003,Pneumonia
 Mukdahan,10-14,8,2003,Pneumonia
 Nakhon Phanom,10-14,36,2003,Pneumonia
 Sakon Nakhon,10-14,14,2003,Pneumonia
-Zone 12,10-14,174,2003,Pneumonia
+Zone:12,10-14,174,2003,Pneumonia
 Khon Kaen,10-14,67,2003,Pneumonia
 Maha Sarakham,10-14,56,2003,Pneumonia
 Roi Et,10-14,51,2003,Pneumonia
-Zone 13,10-14,352,2003,Pneumonia
+Zone:13,10-14,352,2003,Pneumonia
 Buri Ram,10-14,62,2003,Pneumonia
 Chaiyaphum,10-14,65,2003,Pneumonia
 Nakhon Ratchasima,10-14,132,2003,Pneumonia
 Surin,10-14,93,2003,Pneumonia
-Zone 14,10-14,176,2003,Pneumonia
+Zone:14,10-14,176,2003,Pneumonia
 Amnat Charoen,10-14,7,2003,Pneumonia
 Si Sa Ket,10-14,52,2003,Pneumonia
 Ubon Ratchathani,10-14,100,2003,Pneumonia
 Yasothon,10-14,17,2003,Pneumonia
 South Region,10-14,369,2003,Pneumonia
-Zone 15,10-14,68,2003,Pneumonia
+Zone:15,10-14,68,2003,Pneumonia
 Chumphon,10-14,19,2003,Pneumonia
 Ranong,10-14,9,2003,Pneumonia
 Surat Thani,10-14,40,2003,Pneumonia
-Zone 16,10-14,78,2003,Pneumonia
+Zone:16,10-14,78,2003,Pneumonia
 Nakhon Si Thammarat,10-14,23,2003,Pneumonia
 Phatthalung,10-14,29,2003,Pneumonia
 Trang,10-14,26,2003,Pneumonia
-Zone 17,10-14,43,2003,Pneumonia
+Zone:17,10-14,43,2003,Pneumonia
 Krabi,10-14,28,2003,Pneumonia
 Phangnga,10-14,7,2003,Pneumonia
 Phuket,10-14,8,2003,Pneumonia
-Zone 18,10-14,137,2003,Pneumonia
+Zone:18,10-14,137,2003,Pneumonia
 Narathiwat,10-14,42,2003,Pneumonia
 Pattani,10-14,37,2003,Pneumonia
 Yala,10-14,58,2003,Pneumonia
-Zone 19,10-14,43,2003,Pneumonia
+Zone:19,10-14,43,2003,Pneumonia
 Satun,10-14,13,2003,Pneumonia
 Songkhla,10-14,30,2003,Pneumonia
 Total,15-24,2611,2003,Pneumonia
 North Region,15-24,611,2003,Pneumonia
-Zone 1,15-24,363,2003,Pneumonia
+Zone:1,15-24,363,2003,Pneumonia
 Chiang Mai,15-24,119,2003,Pneumonia
 Chiang Rai,15-24,92,2003,Pneumonia
 Lampang,15-24,47,2003,Pneumonia
@@ -18606,98 +18606,98 @@ Mae Hong Son,15-24,21,2003,Pneumonia
 Nan,15-24,22,2003,Pneumonia
 Phayao,15-24,25,2003,Pneumonia
 Phrae,15-24,3,2003,Pneumonia
-Zone 2,15-24,121,2003,Pneumonia
+Zone:2,15-24,121,2003,Pneumonia
 Phetchabun,15-24,14,2003,Pneumonia
 Phitsanulok,15-24,28,2003,Pneumonia
 Sukhothai,15-24,30,2003,Pneumonia
 Tak,15-24,33,2003,Pneumonia
 Uttaradit,15-24,16,2003,Pneumonia
-Zone 3,15-24,127,2003,Pneumonia
+Zone:3,15-24,127,2003,Pneumonia
 Kamphaeng Phet,15-24,41,2003,Pneumonia
 Nakhon Sawan,15-24,51,2003,Pneumonia
 Phichit,15-24,8,2003,Pneumonia
 Uthai Thani,15-24,27,2003,Pneumonia
 Central Region,15-24,768,2003,Pneumonia
 Bangkok,15-24,122,2003,Pneumonia
-Zone 4,15-24,78,2003,Pneumonia
+Zone:4,15-24,78,2003,Pneumonia
 Ang Thong,15-24,7,2003,Pneumonia
 Nonthaburi,15-24,16,2003,Pneumonia
 P.Nakhon S.Ayutthaya,15-24,26,2003,Pneumonia
 Pathum Thani,15-24,29,2003,Pneumonia
-Zone 5,15-24,77,2003,Pneumonia
+Zone:5,15-24,77,2003,Pneumonia
 Chai Nat,15-24,6,2003,Pneumonia
 Lop Buri,15-24,33,2003,Pneumonia
 Saraburi,15-24,24,2003,Pneumonia
 Sing Buri,15-24,14,2003,Pneumonia
-Zone 6,15-24,141,2003,Pneumonia
+Zone:6,15-24,141,2003,Pneumonia
 Kanchanaburi,15-24,46,2003,Pneumonia
 Nakhon Pathom,15-24,37,2003,Pneumonia
 Ratchaburi,15-24,30,2003,Pneumonia
 Suphan Buri,15-24,28,2003,Pneumonia
-Zone 7,15-24,51,2003,Pneumonia
+Zone:7,15-24,51,2003,Pneumonia
 Phetchaburi,15-24,16,2003,Pneumonia
 Prachuap Khiri Khan,15-24,21,2003,Pneumonia
 Samut Sakhon,15-24,6,2003,Pneumonia
 Samut Songkhram,15-24,8,2003,Pneumonia
-Zone 8,15-24,178,2003,Pneumonia
+Zone:8,15-24,178,2003,Pneumonia
 Chachoengsao,15-24,79,2003,Pneumonia
 Nakhon Nayok,15-24,7,2003,Pneumonia
 Prachin Buri,15-24,42,2003,Pneumonia
 Sa Kaeo,15-24,19,2003,Pneumonia
 Samut Prakan,15-24,31,2003,Pneumonia
-Zone 9,15-24,121,2003,Pneumonia
+Zone:9,15-24,121,2003,Pneumonia
 Chanthaburi,15-24,32,2003,Pneumonia
 Chon Buri,15-24,23,2003,Pneumonia
 Rayong,15-24,57,2003,Pneumonia
 Trat,15-24,9,2003,Pneumonia
 North-Eastern Region,15-24,822,2003,Pneumonia
-Zone 10,15-24,140,2003,Pneumonia
+Zone:10,15-24,140,2003,Pneumonia
 Loei,15-24,24,2003,Pneumonia
 Nong Bua Lam Phu,15-24,29,2003,Pneumonia
 Nong Khai,15-24,20,2003,Pneumonia
 Udon Thani,15-24,67,2003,Pneumonia
-Zone 11,15-24,49,2003,Pneumonia
+Zone:11,15-24,49,2003,Pneumonia
 Kalasin,15-24,12,2003,Pneumonia
 Mukdahan,15-24,9,2003,Pneumonia
 Nakhon Phanom,15-24,10,2003,Pneumonia
 Sakon Nakhon,15-24,18,2003,Pneumonia
-Zone 12,15-24,141,2003,Pneumonia
+Zone:12,15-24,141,2003,Pneumonia
 Khon Kaen,15-24,59,2003,Pneumonia
 Maha Sarakham,15-24,40,2003,Pneumonia
 Roi Et,15-24,42,2003,Pneumonia
-Zone 13,15-24,309,2003,Pneumonia
+Zone:13,15-24,309,2003,Pneumonia
 Buri Ram,15-24,86,2003,Pneumonia
 Chaiyaphum,15-24,52,2003,Pneumonia
 Nakhon Ratchasima,15-24,111,2003,Pneumonia
 Surin,15-24,60,2003,Pneumonia
-Zone 14,15-24,183,2003,Pneumonia
+Zone:14,15-24,183,2003,Pneumonia
 Amnat Charoen,15-24,10,2003,Pneumonia
 Si Sa Ket,15-24,67,2003,Pneumonia
 Ubon Ratchathani,15-24,93,2003,Pneumonia
 Yasothon,15-24,13,2003,Pneumonia
 South Region,15-24,410,2003,Pneumonia
-Zone 15,15-24,84,2003,Pneumonia
+Zone:15,15-24,84,2003,Pneumonia
 Chumphon,15-24,24,2003,Pneumonia
 Ranong,15-24,9,2003,Pneumonia
 Surat Thani,15-24,51,2003,Pneumonia
-Zone 16,15-24,99,2003,Pneumonia
+Zone:16,15-24,99,2003,Pneumonia
 Nakhon Si Thammarat,15-24,46,2003,Pneumonia
 Phatthalung,15-24,18,2003,Pneumonia
 Trang,15-24,35,2003,Pneumonia
-Zone 17,15-24,57,2003,Pneumonia
+Zone:17,15-24,57,2003,Pneumonia
 Krabi,15-24,41,2003,Pneumonia
 Phangnga,15-24,4,2003,Pneumonia
 Phuket,15-24,12,2003,Pneumonia
-Zone 18,15-24,95,2003,Pneumonia
+Zone:18,15-24,95,2003,Pneumonia
 Narathiwat,15-24,43,2003,Pneumonia
 Pattani,15-24,23,2003,Pneumonia
 Yala,15-24,29,2003,Pneumonia
-Zone 19,15-24,75,2003,Pneumonia
+Zone:19,15-24,75,2003,Pneumonia
 Satun,15-24,17,2003,Pneumonia
 Songkhla,15-24,58,2003,Pneumonia
 Total,25-34,4361,2003,Pneumonia
 North Region,25-34,1046,2003,Pneumonia
-Zone 1,25-34,590,2003,Pneumonia
+Zone:1,25-34,590,2003,Pneumonia
 Chiang Mai,25-34,151,2003,Pneumonia
 Chiang Rai,25-34,137,2003,Pneumonia
 Lampang,25-34,127,2003,Pneumonia
@@ -18706,98 +18706,98 @@ Mae Hong Son,25-34,44,2003,Pneumonia
 Nan,25-34,25,2003,Pneumonia
 Phayao,25-34,47,2003,Pneumonia
 Phrae,25-34,14,2003,Pneumonia
-Zone 2,25-34,216,2003,Pneumonia
+Zone:2,25-34,216,2003,Pneumonia
 Phetchabun,25-34,43,2003,Pneumonia
 Phitsanulok,25-34,42,2003,Pneumonia
 Sukhothai,25-34,58,2003,Pneumonia
 Tak,25-34,44,2003,Pneumonia
 Uttaradit,25-34,29,2003,Pneumonia
-Zone 3,25-34,240,2003,Pneumonia
+Zone:3,25-34,240,2003,Pneumonia
 Kamphaeng Phet,25-34,86,2003,Pneumonia
 Nakhon Sawan,25-34,86,2003,Pneumonia
 Phichit,25-34,25,2003,Pneumonia
 Uthai Thani,25-34,43,2003,Pneumonia
 Central Region,25-34,1217,2003,Pneumonia
 Bangkok,25-34,173,2003,Pneumonia
-Zone 4,25-34,136,2003,Pneumonia
+Zone:4,25-34,136,2003,Pneumonia
 Ang Thong,25-34,14,2003,Pneumonia
 Nonthaburi,25-34,29,2003,Pneumonia
 P.Nakhon S.Ayutthaya,25-34,44,2003,Pneumonia
 Pathum Thani,25-34,49,2003,Pneumonia
-Zone 5,25-34,134,2003,Pneumonia
+Zone:5,25-34,134,2003,Pneumonia
 Chai Nat,25-34,14,2003,Pneumonia
 Lop Buri,25-34,48,2003,Pneumonia
 Saraburi,25-34,44,2003,Pneumonia
 Sing Buri,25-34,28,2003,Pneumonia
-Zone 6,25-34,224,2003,Pneumonia
+Zone:6,25-34,224,2003,Pneumonia
 Kanchanaburi,25-34,65,2003,Pneumonia
 Nakhon Pathom,25-34,65,2003,Pneumonia
 Ratchaburi,25-34,37,2003,Pneumonia
 Suphan Buri,25-34,57,2003,Pneumonia
-Zone 7,25-34,98,2003,Pneumonia
+Zone:7,25-34,98,2003,Pneumonia
 Phetchaburi,25-34,35,2003,Pneumonia
 Prachuap Khiri Khan,25-34,37,2003,Pneumonia
 Samut Sakhon,25-34,14,2003,Pneumonia
 Samut Songkhram,25-34,12,2003,Pneumonia
-Zone 8,25-34,235,2003,Pneumonia
+Zone:8,25-34,235,2003,Pneumonia
 Chachoengsao,25-34,85,2003,Pneumonia
 Nakhon Nayok,25-34,10,2003,Pneumonia
 Prachin Buri,25-34,58,2003,Pneumonia
 Sa Kaeo,25-34,25,2003,Pneumonia
 Samut Prakan,25-34,57,2003,Pneumonia
-Zone 9,25-34,217,2003,Pneumonia
+Zone:9,25-34,217,2003,Pneumonia
 Chanthaburi,25-34,47,2003,Pneumonia
 Chon Buri,25-34,48,2003,Pneumonia
 Rayong,25-34,93,2003,Pneumonia
 Trat,25-34,29,2003,Pneumonia
 North-Eastern Region,25-34,1516,2003,Pneumonia
-Zone 10,25-34,210,2003,Pneumonia
+Zone:10,25-34,210,2003,Pneumonia
 Loei,25-34,26,2003,Pneumonia
 Nong Bua Lam Phu,25-34,53,2003,Pneumonia
 Nong Khai,25-34,30,2003,Pneumonia
 Udon Thani,25-34,101,2003,Pneumonia
-Zone 11,25-34,138,2003,Pneumonia
+Zone:11,25-34,138,2003,Pneumonia
 Kalasin,25-34,63,2003,Pneumonia
 Mukdahan,25-34,15,2003,Pneumonia
 Nakhon Phanom,25-34,30,2003,Pneumonia
 Sakon Nakhon,25-34,30,2003,Pneumonia
-Zone 12,25-34,254,2003,Pneumonia
+Zone:12,25-34,254,2003,Pneumonia
 Khon Kaen,25-34,133,2003,Pneumonia
 Maha Sarakham,25-34,56,2003,Pneumonia
 Roi Et,25-34,65,2003,Pneumonia
-Zone 13,25-34,544,2003,Pneumonia
+Zone:13,25-34,544,2003,Pneumonia
 Buri Ram,25-34,147,2003,Pneumonia
 Chaiyaphum,25-34,96,2003,Pneumonia
 Nakhon Ratchasima,25-34,189,2003,Pneumonia
 Surin,25-34,112,2003,Pneumonia
-Zone 14,25-34,370,2003,Pneumonia
+Zone:14,25-34,370,2003,Pneumonia
 Amnat Charoen,25-34,29,2003,Pneumonia
 Si Sa Ket,25-34,97,2003,Pneumonia
 Ubon Ratchathani,25-34,219,2003,Pneumonia
 Yasothon,25-34,25,2003,Pneumonia
 South Region,25-34,582,2003,Pneumonia
-Zone 15,25-34,143,2003,Pneumonia
+Zone:15,25-34,143,2003,Pneumonia
 Chumphon,25-34,26,2003,Pneumonia
 Ranong,25-34,15,2003,Pneumonia
 Surat Thani,25-34,102,2003,Pneumonia
-Zone 16,25-34,144,2003,Pneumonia
+Zone:16,25-34,144,2003,Pneumonia
 Nakhon Si Thammarat,25-34,50,2003,Pneumonia
 Phatthalung,25-34,24,2003,Pneumonia
 Trang,25-34,70,2003,Pneumonia
-Zone 17,25-34,58,2003,Pneumonia
+Zone:17,25-34,58,2003,Pneumonia
 Krabi,25-34,39,2003,Pneumonia
 Phangnga,25-34,6,2003,Pneumonia
 Phuket,25-34,13,2003,Pneumonia
-Zone 18,25-34,147,2003,Pneumonia
+Zone:18,25-34,147,2003,Pneumonia
 Narathiwat,25-34,78,2003,Pneumonia
 Pattani,25-34,27,2003,Pneumonia
 Yala,25-34,42,2003,Pneumonia
-Zone 19,25-34,90,2003,Pneumonia
+Zone:19,25-34,90,2003,Pneumonia
 Satun,25-34,18,2003,Pneumonia
 Songkhla,25-34,72,2003,Pneumonia
 Total,35-44,4794,2003,Pneumonia
 North Region,35-44,1367,2003,Pneumonia
-Zone 1,35-44,770,2003,Pneumonia
+Zone:1,35-44,770,2003,Pneumonia
 Chiang Mai,35-44,172,2003,Pneumonia
 Chiang Rai,35-44,187,2003,Pneumonia
 Lampang,35-44,177,2003,Pneumonia
@@ -18806,98 +18806,98 @@ Mae Hong Son,35-44,33,2003,Pneumonia
 Nan,35-44,36,2003,Pneumonia
 Phayao,35-44,66,2003,Pneumonia
 Phrae,35-44,17,2003,Pneumonia
-Zone 2,35-44,296,2003,Pneumonia
+Zone:2,35-44,296,2003,Pneumonia
 Phetchabun,35-44,49,2003,Pneumonia
 Phitsanulok,35-44,53,2003,Pneumonia
 Sukhothai,35-44,79,2003,Pneumonia
 Tak,35-44,62,2003,Pneumonia
 Uttaradit,35-44,53,2003,Pneumonia
-Zone 3,35-44,301,2003,Pneumonia
+Zone:3,35-44,301,2003,Pneumonia
 Kamphaeng Phet,35-44,86,2003,Pneumonia
 Nakhon Sawan,35-44,106,2003,Pneumonia
 Phichit,35-44,38,2003,Pneumonia
 Uthai Thani,35-44,71,2003,Pneumonia
 Central Region,35-44,1198,2003,Pneumonia
 Bangkok,35-44,142,2003,Pneumonia
-Zone 4,35-44,146,2003,Pneumonia
+Zone:4,35-44,146,2003,Pneumonia
 Ang Thong,35-44,28,2003,Pneumonia
 Nonthaburi,35-44,26,2003,Pneumonia
 P.Nakhon S.Ayutthaya,35-44,54,2003,Pneumonia
 Pathum Thani,35-44,38,2003,Pneumonia
-Zone 5,35-44,148,2003,Pneumonia
+Zone:5,35-44,148,2003,Pneumonia
 Chai Nat,35-44,15,2003,Pneumonia
 Lop Buri,35-44,54,2003,Pneumonia
 Saraburi,35-44,57,2003,Pneumonia
 Sing Buri,35-44,22,2003,Pneumonia
-Zone 6,35-44,193,2003,Pneumonia
+Zone:6,35-44,193,2003,Pneumonia
 Kanchanaburi,35-44,52,2003,Pneumonia
 Nakhon Pathom,35-44,57,2003,Pneumonia
 Ratchaburi,35-44,38,2003,Pneumonia
 Suphan Buri,35-44,46,2003,Pneumonia
-Zone 7,35-44,92,2003,Pneumonia
+Zone:7,35-44,92,2003,Pneumonia
 Phetchaburi,35-44,27,2003,Pneumonia
 Prachuap Khiri Khan,35-44,38,2003,Pneumonia
 Samut Sakhon,35-44,11,2003,Pneumonia
 Samut Songkhram,35-44,16,2003,Pneumonia
-Zone 8,35-44,248,2003,Pneumonia
+Zone:8,35-44,248,2003,Pneumonia
 Chachoengsao,35-44,85,2003,Pneumonia
 Nakhon Nayok,35-44,12,2003,Pneumonia
 Prachin Buri,35-44,65,2003,Pneumonia
 Sa Kaeo,35-44,41,2003,Pneumonia
 Samut Prakan,35-44,45,2003,Pneumonia
-Zone 9,35-44,229,2003,Pneumonia
+Zone:9,35-44,229,2003,Pneumonia
 Chanthaburi,35-44,57,2003,Pneumonia
 Chon Buri,35-44,48,2003,Pneumonia
 Rayong,35-44,89,2003,Pneumonia
 Trat,35-44,35,2003,Pneumonia
 North-Eastern Region,35-44,1675,2003,Pneumonia
-Zone 10,35-44,246,2003,Pneumonia
+Zone:10,35-44,246,2003,Pneumonia
 Loei,35-44,56,2003,Pneumonia
 Nong Bua Lam Phu,35-44,45,2003,Pneumonia
 Nong Khai,35-44,35,2003,Pneumonia
 Udon Thani,35-44,110,2003,Pneumonia
-Zone 11,35-44,110,2003,Pneumonia
+Zone:11,35-44,110,2003,Pneumonia
 Kalasin,35-44,54,2003,Pneumonia
 Mukdahan,35-44,23,2003,Pneumonia
 Nakhon Phanom,35-44,16,2003,Pneumonia
 Sakon Nakhon,35-44,17,2003,Pneumonia
-Zone 12,35-44,281,2003,Pneumonia
+Zone:12,35-44,281,2003,Pneumonia
 Khon Kaen,35-44,141,2003,Pneumonia
 Maha Sarakham,35-44,62,2003,Pneumonia
 Roi Et,35-44,78,2003,Pneumonia
-Zone 13,35-44,625,2003,Pneumonia
+Zone:13,35-44,625,2003,Pneumonia
 Buri Ram,35-44,137,2003,Pneumonia
 Chaiyaphum,35-44,120,2003,Pneumonia
 Nakhon Ratchasima,35-44,237,2003,Pneumonia
 Surin,35-44,131,2003,Pneumonia
-Zone 14,35-44,413,2003,Pneumonia
+Zone:14,35-44,413,2003,Pneumonia
 Amnat Charoen,35-44,15,2003,Pneumonia
 Si Sa Ket,35-44,150,2003,Pneumonia
 Ubon Ratchathani,35-44,222,2003,Pneumonia
 Yasothon,35-44,26,2003,Pneumonia
 South Region,35-44,554,2003,Pneumonia
-Zone 15,35-44,134,2003,Pneumonia
+Zone:15,35-44,134,2003,Pneumonia
 Chumphon,35-44,39,2003,Pneumonia
 Ranong,35-44,27,2003,Pneumonia
 Surat Thani,35-44,68,2003,Pneumonia
-Zone 16,35-44,138,2003,Pneumonia
+Zone:16,35-44,138,2003,Pneumonia
 Nakhon Si Thammarat,35-44,55,2003,Pneumonia
 Phatthalung,35-44,28,2003,Pneumonia
 Trang,35-44,55,2003,Pneumonia
-Zone 17,35-44,59,2003,Pneumonia
+Zone:17,35-44,59,2003,Pneumonia
 Krabi,35-44,40,2003,Pneumonia
 Phangnga,35-44,5,2003,Pneumonia
 Phuket,35-44,14,2003,Pneumonia
-Zone 18,35-44,159,2003,Pneumonia
+Zone:18,35-44,159,2003,Pneumonia
 Narathiwat,35-44,84,2003,Pneumonia
 Pattani,35-44,19,2003,Pneumonia
 Yala,35-44,56,2003,Pneumonia
-Zone 19,35-44,64,2003,Pneumonia
+Zone:19,35-44,64,2003,Pneumonia
 Satun,35-44,13,2003,Pneumonia
 Songkhla,35-44,51,2003,Pneumonia
 Total,45-54,5417,2003,Pneumonia
 North Region,45-54,1487,2003,Pneumonia
-Zone 1,45-54,864,2003,Pneumonia
+Zone:1,45-54,864,2003,Pneumonia
 Chiang Mai,45-54,187,2003,Pneumonia
 Chiang Rai,45-54,197,2003,Pneumonia
 Lampang,45-54,179,2003,Pneumonia
@@ -18906,98 +18906,98 @@ Mae Hong Son,45-54,40,2003,Pneumonia
 Nan,45-54,44,2003,Pneumonia
 Phayao,45-54,86,2003,Pneumonia
 Phrae,45-54,38,2003,Pneumonia
-Zone 2,45-54,309,2003,Pneumonia
+Zone:2,45-54,309,2003,Pneumonia
 Phetchabun,45-54,72,2003,Pneumonia
 Phitsanulok,45-54,55,2003,Pneumonia
 Sukhothai,45-54,74,2003,Pneumonia
 Tak,45-54,60,2003,Pneumonia
 Uttaradit,45-54,48,2003,Pneumonia
-Zone 3,45-54,314,2003,Pneumonia
+Zone:3,45-54,314,2003,Pneumonia
 Kamphaeng Phet,45-54,108,2003,Pneumonia
 Nakhon Sawan,45-54,109,2003,Pneumonia
 Phichit,45-54,23,2003,Pneumonia
 Uthai Thani,45-54,74,2003,Pneumonia
 Central Region,45-54,1156,2003,Pneumonia
 Bangkok,45-54,113,2003,Pneumonia
-Zone 4,45-54,168,2003,Pneumonia
+Zone:4,45-54,168,2003,Pneumonia
 Ang Thong,45-54,30,2003,Pneumonia
 Nonthaburi,45-54,23,2003,Pneumonia
 P.Nakhon S.Ayutthaya,45-54,58,2003,Pneumonia
 Pathum Thani,45-54,57,2003,Pneumonia
-Zone 5,45-54,157,2003,Pneumonia
+Zone:5,45-54,157,2003,Pneumonia
 Chai Nat,45-54,14,2003,Pneumonia
 Lop Buri,45-54,56,2003,Pneumonia
 Saraburi,45-54,57,2003,Pneumonia
 Sing Buri,45-54,30,2003,Pneumonia
-Zone 6,45-54,187,2003,Pneumonia
+Zone:6,45-54,187,2003,Pneumonia
 Kanchanaburi,45-54,49,2003,Pneumonia
 Nakhon Pathom,45-54,60,2003,Pneumonia
 Ratchaburi,45-54,40,2003,Pneumonia
 Suphan Buri,45-54,38,2003,Pneumonia
-Zone 7,45-54,83,2003,Pneumonia
+Zone:7,45-54,83,2003,Pneumonia
 Phetchaburi,45-54,33,2003,Pneumonia
 Prachuap Khiri Khan,45-54,33,2003,Pneumonia
 Samut Sakhon,45-54,9,2003,Pneumonia
 Samut Songkhram,45-54,8,2003,Pneumonia
-Zone 8,45-54,226,2003,Pneumonia
+Zone:8,45-54,226,2003,Pneumonia
 Chachoengsao,45-54,91,2003,Pneumonia
 Nakhon Nayok,45-54,7,2003,Pneumonia
 Prachin Buri,45-54,56,2003,Pneumonia
 Sa Kaeo,45-54,29,2003,Pneumonia
 Samut Prakan,45-54,43,2003,Pneumonia
-Zone 9,45-54,222,2003,Pneumonia
+Zone:9,45-54,222,2003,Pneumonia
 Chanthaburi,45-54,61,2003,Pneumonia
 Chon Buri,45-54,42,2003,Pneumonia
 Rayong,45-54,87,2003,Pneumonia
 Trat,45-54,32,2003,Pneumonia
 North-Eastern Region,45-54,2165,2003,Pneumonia
-Zone 10,45-54,287,2003,Pneumonia
+Zone:10,45-54,287,2003,Pneumonia
 Loei,45-54,50,2003,Pneumonia
 Nong Bua Lam Phu,45-54,64,2003,Pneumonia
 Nong Khai,45-54,36,2003,Pneumonia
 Udon Thani,45-54,137,2003,Pneumonia
-Zone 11,45-54,150,2003,Pneumonia
+Zone:11,45-54,150,2003,Pneumonia
 Kalasin,45-54,67,2003,Pneumonia
 Mukdahan,45-54,25,2003,Pneumonia
 Nakhon Phanom,45-54,38,2003,Pneumonia
 Sakon Nakhon,45-54,20,2003,Pneumonia
-Zone 12,45-54,391,2003,Pneumonia
+Zone:12,45-54,391,2003,Pneumonia
 Khon Kaen,45-54,185,2003,Pneumonia
 Maha Sarakham,45-54,110,2003,Pneumonia
 Roi Et,45-54,96,2003,Pneumonia
-Zone 13,45-54,832,2003,Pneumonia
+Zone:13,45-54,832,2003,Pneumonia
 Buri Ram,45-54,231,2003,Pneumonia
 Chaiyaphum,45-54,127,2003,Pneumonia
 Nakhon Ratchasima,45-54,312,2003,Pneumonia
 Surin,45-54,162,2003,Pneumonia
-Zone 14,45-54,505,2003,Pneumonia
+Zone:14,45-54,505,2003,Pneumonia
 Amnat Charoen,45-54,23,2003,Pneumonia
 Si Sa Ket,45-54,205,2003,Pneumonia
 Ubon Ratchathani,45-54,233,2003,Pneumonia
 Yasothon,45-54,44,2003,Pneumonia
 South Region,45-54,609,2003,Pneumonia
-Zone 15,45-54,121,2003,Pneumonia
+Zone:15,45-54,121,2003,Pneumonia
 Chumphon,45-54,41,2003,Pneumonia
 Ranong,45-54,13,2003,Pneumonia
 Surat Thani,45-54,67,2003,Pneumonia
-Zone 16,45-54,142,2003,Pneumonia
+Zone:16,45-54,142,2003,Pneumonia
 Nakhon Si Thammarat,45-54,53,2003,Pneumonia
 Phatthalung,45-54,28,2003,Pneumonia
 Trang,45-54,61,2003,Pneumonia
-Zone 17,45-54,73,2003,Pneumonia
+Zone:17,45-54,73,2003,Pneumonia
 Krabi,45-54,46,2003,Pneumonia
 Phangnga,45-54,5,2003,Pneumonia
 Phuket,45-54,22,2003,Pneumonia
-Zone 18,45-54,195,2003,Pneumonia
+Zone:18,45-54,195,2003,Pneumonia
 Narathiwat,45-54,103,2003,Pneumonia
 Pattani,45-54,33,2003,Pneumonia
 Yala,45-54,59,2003,Pneumonia
-Zone 19,45-54,78,2003,Pneumonia
+Zone:19,45-54,78,2003,Pneumonia
 Satun,45-54,22,2003,Pneumonia
 Songkhla,45-54,56,2003,Pneumonia
 Total,55-64,6899,2003,Pneumonia
 North Region,55-64,1866,2003,Pneumonia
-Zone 1,55-64,1028,2003,Pneumonia
+Zone:1,55-64,1028,2003,Pneumonia
 Chiang Mai,55-64,221,2003,Pneumonia
 Chiang Rai,55-64,260,2003,Pneumonia
 Lampang,55-64,214,2003,Pneumonia
@@ -19006,98 +19006,98 @@ Mae Hong Son,55-64,37,2003,Pneumonia
 Nan,55-64,52,2003,Pneumonia
 Phayao,55-64,85,2003,Pneumonia
 Phrae,55-64,50,2003,Pneumonia
-Zone 2,55-64,429,2003,Pneumonia
+Zone:2,55-64,429,2003,Pneumonia
 Phetchabun,55-64,81,2003,Pneumonia
 Phitsanulok,55-64,80,2003,Pneumonia
 Sukhothai,55-64,119,2003,Pneumonia
 Tak,55-64,67,2003,Pneumonia
 Uttaradit,55-64,82,2003,Pneumonia
-Zone 3,55-64,409,2003,Pneumonia
+Zone:3,55-64,409,2003,Pneumonia
 Kamphaeng Phet,55-64,151,2003,Pneumonia
 Nakhon Sawan,55-64,135,2003,Pneumonia
 Phichit,55-64,37,2003,Pneumonia
 Uthai Thani,55-64,86,2003,Pneumonia
 Central Region,55-64,1431,2003,Pneumonia
 Bangkok,55-64,127,2003,Pneumonia
-Zone 4,55-64,201,2003,Pneumonia
+Zone:4,55-64,201,2003,Pneumonia
 Ang Thong,55-64,22,2003,Pneumonia
 Nonthaburi,55-64,28,2003,Pneumonia
 P.Nakhon S.Ayutthaya,55-64,81,2003,Pneumonia
 Pathum Thani,55-64,70,2003,Pneumonia
-Zone 5,55-64,206,2003,Pneumonia
+Zone:5,55-64,206,2003,Pneumonia
 Chai Nat,55-64,16,2003,Pneumonia
 Lop Buri,55-64,93,2003,Pneumonia
 Saraburi,55-64,53,2003,Pneumonia
 Sing Buri,55-64,44,2003,Pneumonia
-Zone 6,55-64,290,2003,Pneumonia
+Zone:6,55-64,290,2003,Pneumonia
 Kanchanaburi,55-64,79,2003,Pneumonia
 Nakhon Pathom,55-64,87,2003,Pneumonia
 Ratchaburi,55-64,48,2003,Pneumonia
 Suphan Buri,55-64,76,2003,Pneumonia
-Zone 7,55-64,99,2003,Pneumonia
+Zone:7,55-64,99,2003,Pneumonia
 Phetchaburi,55-64,26,2003,Pneumonia
 Prachuap Khiri Khan,55-64,40,2003,Pneumonia
 Samut Sakhon,55-64,12,2003,Pneumonia
 Samut Songkhram,55-64,21,2003,Pneumonia
-Zone 8,55-64,254,2003,Pneumonia
+Zone:8,55-64,254,2003,Pneumonia
 Chachoengsao,55-64,96,2003,Pneumonia
 Nakhon Nayok,55-64,6,2003,Pneumonia
 Prachin Buri,55-64,73,2003,Pneumonia
 Sa Kaeo,55-64,47,2003,Pneumonia
 Samut Prakan,55-64,32,2003,Pneumonia
-Zone 9,55-64,254,2003,Pneumonia
+Zone:9,55-64,254,2003,Pneumonia
 Chanthaburi,55-64,79,2003,Pneumonia
 Chon Buri,55-64,45,2003,Pneumonia
 Rayong,55-64,95,2003,Pneumonia
 Trat,55-64,35,2003,Pneumonia
 North-Eastern Region,55-64,2817,2003,Pneumonia
-Zone 10,55-64,345,2003,Pneumonia
+Zone:10,55-64,345,2003,Pneumonia
 Loei,55-64,72,2003,Pneumonia
 Nong Bua Lam Phu,55-64,74,2003,Pneumonia
 Nong Khai,55-64,35,2003,Pneumonia
 Udon Thani,55-64,164,2003,Pneumonia
-Zone 11,55-64,173,2003,Pneumonia
+Zone:11,55-64,173,2003,Pneumonia
 Kalasin,55-64,82,2003,Pneumonia
 Mukdahan,55-64,24,2003,Pneumonia
 Nakhon Phanom,55-64,35,2003,Pneumonia
 Sakon Nakhon,55-64,32,2003,Pneumonia
-Zone 12,55-64,541,2003,Pneumonia
+Zone:12,55-64,541,2003,Pneumonia
 Khon Kaen,55-64,254,2003,Pneumonia
 Maha Sarakham,55-64,147,2003,Pneumonia
 Roi Et,55-64,140,2003,Pneumonia
-Zone 13,55-64,1100,2003,Pneumonia
+Zone:13,55-64,1100,2003,Pneumonia
 Buri Ram,55-64,282,2003,Pneumonia
 Chaiyaphum,55-64,194,2003,Pneumonia
 Nakhon Ratchasima,55-64,415,2003,Pneumonia
 Surin,55-64,209,2003,Pneumonia
-Zone 14,55-64,658,2003,Pneumonia
+Zone:14,55-64,658,2003,Pneumonia
 Amnat Charoen,55-64,29,2003,Pneumonia
 Si Sa Ket,55-64,227,2003,Pneumonia
 Ubon Ratchathani,55-64,361,2003,Pneumonia
 Yasothon,55-64,41,2003,Pneumonia
 South Region,55-64,785,2003,Pneumonia
-Zone 15,55-64,166,2003,Pneumonia
+Zone:15,55-64,166,2003,Pneumonia
 Chumphon,55-64,53,2003,Pneumonia
 Ranong,55-64,27,2003,Pneumonia
 Surat Thani,55-64,86,2003,Pneumonia
-Zone 16,55-64,185,2003,Pneumonia
+Zone:16,55-64,185,2003,Pneumonia
 Nakhon Si Thammarat,55-64,80,2003,Pneumonia
 Phatthalung,55-64,48,2003,Pneumonia
 Trang,55-64,57,2003,Pneumonia
-Zone 17,55-64,89,2003,Pneumonia
+Zone:17,55-64,89,2003,Pneumonia
 Krabi,55-64,53,2003,Pneumonia
 Phangnga,55-64,10,2003,Pneumonia
 Phuket,55-64,26,2003,Pneumonia
-Zone 18,55-64,215,2003,Pneumonia
+Zone:18,55-64,215,2003,Pneumonia
 Narathiwat,55-64,119,2003,Pneumonia
 Pattani,55-64,42,2003,Pneumonia
 Yala,55-64,54,2003,Pneumonia
-Zone 19,55-64,130,2003,Pneumonia
+Zone:19,55-64,130,2003,Pneumonia
 Satun,55-64,16,2003,Pneumonia
 Songkhla,55-64,114,2003,Pneumonia
 Total,65+,21499,2003,Pneumonia
 North Region,65+,6313,2003,Pneumonia
-Zone 1,65+,3397,2003,Pneumonia
+Zone:1,65+,3397,2003,Pneumonia
 Chiang Mai,65+,758,2003,Pneumonia
 Chiang Rai,65+,713,2003,Pneumonia
 Lampang,65+,851,2003,Pneumonia
@@ -19106,98 +19106,98 @@ Mae Hong Son,65+,100,2003,Pneumonia
 Nan,65+,201,2003,Pneumonia
 Phayao,65+,269,2003,Pneumonia
 Phrae,65+,146,2003,Pneumonia
-Zone 2,65+,1408,2003,Pneumonia
+Zone:2,65+,1408,2003,Pneumonia
 Phetchabun,65+,280,2003,Pneumonia
 Phitsanulok,65+,333,2003,Pneumonia
 Sukhothai,65+,350,2003,Pneumonia
 Tak,65+,159,2003,Pneumonia
 Uttaradit,65+,286,2003,Pneumonia
-Zone 3,65+,1508,2003,Pneumonia
+Zone:3,65+,1508,2003,Pneumonia
 Kamphaeng Phet,65+,542,2003,Pneumonia
 Nakhon Sawan,65+,501,2003,Pneumonia
 Phichit,65+,142,2003,Pneumonia
 Uthai Thani,65+,323,2003,Pneumonia
 Central Region,65+,5239,2003,Pneumonia
 Bangkok,65+,444,2003,Pneumonia
-Zone 4,65+,762,2003,Pneumonia
+Zone:4,65+,762,2003,Pneumonia
 Ang Thong,65+,138,2003,Pneumonia
 Nonthaburi,65+,107,2003,Pneumonia
 P.Nakhon S.Ayutthaya,65+,346,2003,Pneumonia
 Pathum Thani,65+,171,2003,Pneumonia
-Zone 5,65+,865,2003,Pneumonia
+Zone:5,65+,865,2003,Pneumonia
 Chai Nat,65+,77,2003,Pneumonia
 Lop Buri,65+,339,2003,Pneumonia
 Saraburi,65+,242,2003,Pneumonia
 Sing Buri,65+,207,2003,Pneumonia
-Zone 6,65+,933,2003,Pneumonia
+Zone:6,65+,933,2003,Pneumonia
 Kanchanaburi,65+,214,2003,Pneumonia
 Nakhon Pathom,65+,318,2003,Pneumonia
 Ratchaburi,65+,220,2003,Pneumonia
 Suphan Buri,65+,181,2003,Pneumonia
-Zone 7,65+,440,2003,Pneumonia
+Zone:7,65+,440,2003,Pneumonia
 Phetchaburi,65+,169,2003,Pneumonia
 Prachuap Khiri Khan,65+,144,2003,Pneumonia
 Samut Sakhon,65+,27,2003,Pneumonia
 Samut Songkhram,65+,100,2003,Pneumonia
-Zone 8,65+,940,2003,Pneumonia
+Zone:8,65+,940,2003,Pneumonia
 Chachoengsao,65+,383,2003,Pneumonia
 Nakhon Nayok,65+,33,2003,Pneumonia
 Prachin Buri,65+,256,2003,Pneumonia
 Sa Kaeo,65+,137,2003,Pneumonia
 Samut Prakan,65+,131,2003,Pneumonia
-Zone 9,65+,855,2003,Pneumonia
+Zone:9,65+,855,2003,Pneumonia
 Chanthaburi,65+,320,2003,Pneumonia
 Chon Buri,65+,141,2003,Pneumonia
 Rayong,65+,266,2003,Pneumonia
 Trat,65+,128,2003,Pneumonia
 North-Eastern Region,65+,6957,2003,Pneumonia
-Zone 10,65+,773,2003,Pneumonia
+Zone:10,65+,773,2003,Pneumonia
 Loei,65+,193,2003,Pneumonia
 Nong Bua Lam Phu,65+,166,2003,Pneumonia
 Nong Khai,65+,102,2003,Pneumonia
 Udon Thani,65+,312,2003,Pneumonia
-Zone 11,65+,425,2003,Pneumonia
+Zone:11,65+,425,2003,Pneumonia
 Kalasin,65+,138,2003,Pneumonia
 Mukdahan,65+,77,2003,Pneumonia
 Nakhon Phanom,65+,98,2003,Pneumonia
 Sakon Nakhon,65+,112,2003,Pneumonia
-Zone 12,65+,1068,2003,Pneumonia
+Zone:12,65+,1068,2003,Pneumonia
 Khon Kaen,65+,470,2003,Pneumonia
 Maha Sarakham,65+,256,2003,Pneumonia
 Roi Et,65+,342,2003,Pneumonia
-Zone 13,65+,3009,2003,Pneumonia
+Zone:13,65+,3009,2003,Pneumonia
 Buri Ram,65+,565,2003,Pneumonia
 Chaiyaphum,65+,521,2003,Pneumonia
 Nakhon Ratchasima,65+,1367,2003,Pneumonia
 Surin,65+,556,2003,Pneumonia
-Zone 14,65+,1682,2003,Pneumonia
+Zone:14,65+,1682,2003,Pneumonia
 Amnat Charoen,65+,75,2003,Pneumonia
 Si Sa Ket,65+,579,2003,Pneumonia
 Ubon Ratchathani,65+,901,2003,Pneumonia
 Yasothon,65+,127,2003,Pneumonia
 South Region,65+,2990,2003,Pneumonia
-Zone 15,65+,757,2003,Pneumonia
+Zone:15,65+,757,2003,Pneumonia
 Chumphon,65+,216,2003,Pneumonia
 Ranong,65+,137,2003,Pneumonia
 Surat Thani,65+,404,2003,Pneumonia
-Zone 16,65+,805,2003,Pneumonia
+Zone:16,65+,805,2003,Pneumonia
 Nakhon Si Thammarat,65+,344,2003,Pneumonia
 Phatthalung,65+,207,2003,Pneumonia
 Trang,65+,254,2003,Pneumonia
-Zone 17,65+,329,2003,Pneumonia
+Zone:17,65+,329,2003,Pneumonia
 Krabi,65+,191,2003,Pneumonia
 Phangnga,65+,51,2003,Pneumonia
 Phuket,65+,87,2003,Pneumonia
-Zone 18,65+,646,2003,Pneumonia
+Zone:18,65+,646,2003,Pneumonia
 Narathiwat,65+,328,2003,Pneumonia
 Pattani,65+,122,2003,Pneumonia
 Yala,65+,196,2003,Pneumonia
-Zone 19,65+,453,2003,Pneumonia
+Zone:19,65+,453,2003,Pneumonia
 Satun,65+,82,2003,Pneumonia
 Songkhla,65+,371,2003,Pneumonia
 Total,Unknown,53,2003,Pneumonia
 North Region,Unknown,0,2003,Pneumonia
-Zone 1,Unknown,0,2003,Pneumonia
+Zone:1,Unknown,0,2003,Pneumonia
 Chiang Mai,Unknown,0,2003,Pneumonia
 Chiang Rai,Unknown,0,2003,Pneumonia
 Lampang,Unknown,0,2003,Pneumonia
@@ -19206,93 +19206,93 @@ Mae Hong Son,Unknown,0,2003,Pneumonia
 Nan,Unknown,0,2003,Pneumonia
 Phayao,Unknown,0,2003,Pneumonia
 Phrae,Unknown,0,2003,Pneumonia
-Zone 2,Unknown,0,2003,Pneumonia
+Zone:2,Unknown,0,2003,Pneumonia
 Phetchabun,Unknown,0,2003,Pneumonia
 Phitsanulok,Unknown,0,2003,Pneumonia
 Sukhothai,Unknown,0,2003,Pneumonia
 Tak,Unknown,0,2003,Pneumonia
 Uttaradit,Unknown,0,2003,Pneumonia
-Zone 3,Unknown,0,2003,Pneumonia
+Zone:3,Unknown,0,2003,Pneumonia
 Kamphaeng Phet,Unknown,0,2003,Pneumonia
 Nakhon Sawan,Unknown,0,2003,Pneumonia
 Phichit,Unknown,0,2003,Pneumonia
 Uthai Thani,Unknown,0,2003,Pneumonia
 Central Region,Unknown,50,2003,Pneumonia
 Bangkok,Unknown,47,2003,Pneumonia
-Zone 4,Unknown,0,2003,Pneumonia
+Zone:4,Unknown,0,2003,Pneumonia
 Ang Thong,Unknown,0,2003,Pneumonia
 Nonthaburi,Unknown,0,2003,Pneumonia
 P.Nakhon S.Ayutthaya,Unknown,0,2003,Pneumonia
 Pathum Thani,Unknown,0,2003,Pneumonia
-Zone 5,Unknown,0,2003,Pneumonia
+Zone:5,Unknown,0,2003,Pneumonia
 Chai Nat,Unknown,0,2003,Pneumonia
 Lop Buri,Unknown,0,2003,Pneumonia
 Saraburi,Unknown,0,2003,Pneumonia
 Sing Buri,Unknown,0,2003,Pneumonia
-Zone 6,Unknown,3,2003,Pneumonia
+Zone:6,Unknown,3,2003,Pneumonia
 Kanchanaburi,Unknown,0,2003,Pneumonia
 Nakhon Pathom,Unknown,3,2003,Pneumonia
 Ratchaburi,Unknown,0,2003,Pneumonia
 Suphan Buri,Unknown,0,2003,Pneumonia
-Zone 7,Unknown,0,2003,Pneumonia
+Zone:7,Unknown,0,2003,Pneumonia
 Phetchaburi,Unknown,0,2003,Pneumonia
 Prachuap Khiri Khan,Unknown,0,2003,Pneumonia
 Samut Sakhon,Unknown,0,2003,Pneumonia
 Samut Songkhram,Unknown,0,2003,Pneumonia
-Zone 8,Unknown,0,2003,Pneumonia
+Zone:8,Unknown,0,2003,Pneumonia
 Chachoengsao,Unknown,0,2003,Pneumonia
 Nakhon Nayok,Unknown,0,2003,Pneumonia
 Prachin Buri,Unknown,0,2003,Pneumonia
 Sa Kaeo,Unknown,0,2003,Pneumonia
 Samut Prakan,Unknown,0,2003,Pneumonia
-Zone 9,Unknown,0,2003,Pneumonia
+Zone:9,Unknown,0,2003,Pneumonia
 Chanthaburi,Unknown,0,2003,Pneumonia
 Chon Buri,Unknown,0,2003,Pneumonia
 Rayong,Unknown,0,2003,Pneumonia
 Trat,Unknown,0,2003,Pneumonia
 North-Eastern Region,Unknown,2,2003,Pneumonia
-Zone 10,Unknown,1,2003,Pneumonia
+Zone:10,Unknown,1,2003,Pneumonia
 Loei,Unknown,0,2003,Pneumonia
 Nong Bua Lam Phu,Unknown,1,2003,Pneumonia
 Nong Khai,Unknown,0,2003,Pneumonia
 Udon Thani,Unknown,0,2003,Pneumonia
-Zone 11,Unknown,0,2003,Pneumonia
+Zone:11,Unknown,0,2003,Pneumonia
 Kalasin,Unknown,0,2003,Pneumonia
 Mukdahan,Unknown,0,2003,Pneumonia
 Nakhon Phanom,Unknown,0,2003,Pneumonia
 Sakon Nakhon,Unknown,0,2003,Pneumonia
-Zone 12,Unknown,0,2003,Pneumonia
+Zone:12,Unknown,0,2003,Pneumonia
 Khon Kaen,Unknown,0,2003,Pneumonia
 Maha Sarakham,Unknown,0,2003,Pneumonia
 Roi Et,Unknown,0,2003,Pneumonia
-Zone 13,Unknown,0,2003,Pneumonia
+Zone:13,Unknown,0,2003,Pneumonia
 Buri Ram,Unknown,0,2003,Pneumonia
 Chaiyaphum,Unknown,0,2003,Pneumonia
 Nakhon Ratchasima,Unknown,0,2003,Pneumonia
 Surin,Unknown,0,2003,Pneumonia
-Zone 14,Unknown,1,2003,Pneumonia
+Zone:14,Unknown,1,2003,Pneumonia
 Amnat Charoen,Unknown,0,2003,Pneumonia
 Si Sa Ket,Unknown,1,2003,Pneumonia
 Ubon Ratchathani,Unknown,0,2003,Pneumonia
 Yasothon,Unknown,0,2003,Pneumonia
 South Region,Unknown,1,2003,Pneumonia
-Zone 15,Unknown,0,2003,Pneumonia
+Zone:15,Unknown,0,2003,Pneumonia
 Chumphon,Unknown,0,2003,Pneumonia
 Ranong,Unknown,0,2003,Pneumonia
 Surat Thani,Unknown,0,2003,Pneumonia
-Zone 16,Unknown,0,2003,Pneumonia
+Zone:16,Unknown,0,2003,Pneumonia
 Nakhon Si Thammarat,Unknown,0,2003,Pneumonia
 Phatthalung,Unknown,0,2003,Pneumonia
 Trang,Unknown,0,2003,Pneumonia
-Zone 17,Unknown,0,2003,Pneumonia
+Zone:17,Unknown,0,2003,Pneumonia
 Krabi,Unknown,0,2003,Pneumonia
 Phangnga,Unknown,0,2003,Pneumonia
 Phuket,Unknown,0,2003,Pneumonia
-Zone 18,Unknown,0,2003,Pneumonia
+Zone:18,Unknown,0,2003,Pneumonia
 Narathiwat,Unknown,0,2003,Pneumonia
 Pattani,Unknown,0,2003,Pneumonia
 Yala,Unknown,0,2003,Pneumonia
-Zone 19,Unknown,1,2003,Pneumonia
+Zone:19,Unknown,1,2003,Pneumonia
 Satun,Unknown,0,2003,Pneumonia
 Songkhla,Unknown,1,2003,Pneumonia
 Total,Total,184510,2013,Pneumonia

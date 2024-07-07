@@ -20809,7 +20809,7 @@ Satun,Unknown,0,2005,HepatitisC
 Songkhla,Unknown,0,2005,HepatitisC
 Total,Total,369,2004,HepatitisC
 North Region,Total,74,2004,HepatitisC
-Zone 1,Total,23,2004,HepatitisC
+Zone:1,Total,23,2004,HepatitisC
 Chiang Mai,Total,2,2004,HepatitisC
 Chiang Rai,Total,2,2004,HepatitisC
 Lampang,Total,1,2004,HepatitisC
@@ -20818,98 +20818,98 @@ Mae Hong Son,Total,3,2004,HepatitisC
 Nan,Total,3,2004,HepatitisC
 Phayao,Total,9,2004,HepatitisC
 Phrae,Total,1,2004,HepatitisC
-Zone 2,Total,48,2004,HepatitisC
+Zone:2,Total,48,2004,HepatitisC
 Phetchabun,Total,34,2004,HepatitisC
 Phitsanulok,Total,0,2004,HepatitisC
 Sukhothai,Total,3,2004,HepatitisC
 Tak,Total,6,2004,HepatitisC
 Uttaradit,Total,5,2004,HepatitisC
-Zone 3,Total,3,2004,HepatitisC
+Zone:3,Total,3,2004,HepatitisC
 Kamphaeng Phet,Total,0,2004,HepatitisC
 Nakhon Sawan,Total,2,2004,HepatitisC
 Phichit,Total,1,2004,HepatitisC
 Uthai Thani,Total,0,2004,HepatitisC
 Central Region,Total,144,2004,HepatitisC
 Bangkok,Total,83,2004,HepatitisC
-Zone 4,Total,15,2004,HepatitisC
+Zone:4,Total,15,2004,HepatitisC
 Ang Thong,Total,1,2004,HepatitisC
 Nonthaburi,Total,4,2004,HepatitisC
 P.Nakhon S.Ayutthaya,Total,8,2004,HepatitisC
 Pathum Thani,Total,2,2004,HepatitisC
-Zone 5,Total,2,2004,HepatitisC
+Zone:5,Total,2,2004,HepatitisC
 Chai Nat,Total,0,2004,HepatitisC
 Lop Buri,Total,1,2004,HepatitisC
 Saraburi,Total,0,2004,HepatitisC
 Sing Buri,Total,1,2004,HepatitisC
-Zone 6,Total,12,2004,HepatitisC
+Zone:6,Total,12,2004,HepatitisC
 Kanchanaburi,Total,0,2004,HepatitisC
 Nakhon Pathom,Total,12,2004,HepatitisC
 Ratchaburi,Total,0,2004,HepatitisC
 Suphan Buri,Total,0,2004,HepatitisC
-Zone 7,Total,3,2004,HepatitisC
+Zone:7,Total,3,2004,HepatitisC
 Phetchaburi,Total,0,2004,HepatitisC
 Prachuap Khiri Khan,Total,1,2004,HepatitisC
 Samut Sakhon,Total,2,2004,HepatitisC
 Samut Songkhram,Total,0,2004,HepatitisC
-Zone 8,Total,20,2004,HepatitisC
+Zone:8,Total,20,2004,HepatitisC
 Chachoengsao,Total,2,2004,HepatitisC
 Nakhon Nayok,Total,0,2004,HepatitisC
 Prachin Buri,Total,10,2004,HepatitisC
 Sa Kaeo,Total,8,2004,HepatitisC
 Samut Prakan,Total,0,2004,HepatitisC
-Zone 9,Total,9,2004,HepatitisC
+Zone:9,Total,9,2004,HepatitisC
 Chanthaburi,Total,0,2004,HepatitisC
 Chon Buri,Total,1,2004,HepatitisC
 Rayong,Total,3,2004,HepatitisC
 Trat,Total,5,2004,HepatitisC
 North-Eastern Region,Total,125,2004,HepatitisC
-Zone 10,Total,28,2004,HepatitisC
+Zone:10,Total,28,2004,HepatitisC
 Loei,Total,5,2004,HepatitisC
 Nong Bua Lam Phu,Total,7,2004,HepatitisC
 Nong Khai,Total,5,2004,HepatitisC
 Udon Thani,Total,11,2004,HepatitisC
-Zone 11,Total,10,2004,HepatitisC
+Zone:11,Total,10,2004,HepatitisC
 Kalasin,Total,5,2004,HepatitisC
 Mukdahan,Total,2,2004,HepatitisC
 Nakhon Phanom,Total,1,2004,HepatitisC
 Sakon Nakhon,Total,2,2004,HepatitisC
-Zone 12,Total,20,2004,HepatitisC
+Zone:12,Total,20,2004,HepatitisC
 Khon Kaen,Total,19,2004,HepatitisC
 Maha Sarakham,Total,1,2004,HepatitisC
 Roi Et,Total,0,2004,HepatitisC
-Zone 13,Total,22,2004,HepatitisC
+Zone:13,Total,22,2004,HepatitisC
 Buri Ram,Total,0,2004,HepatitisC
 Chaiyaphum,Total,12,2004,HepatitisC
 Nakhon Ratchasima,Total,6,2004,HepatitisC
 Surin,Total,4,2004,HepatitisC
-Zone 14,Total,45,2004,HepatitisC
+Zone:14,Total,45,2004,HepatitisC
 Amnat Charoen,Total,4,2004,HepatitisC
 Si Sa Ket,Total,10,2004,HepatitisC
 Ubon Ratchathani,Total,27,2004,HepatitisC
 Yasothon,Total,4,2004,HepatitisC
 South Region,Total,26,2004,HepatitisC
-Zone 15,Total,5,2004,HepatitisC
+Zone:15,Total,5,2004,HepatitisC
 Chumphon,Total,0,2004,HepatitisC
 Ranong,Total,0,2004,HepatitisC
 Surat Thani,Total,5,2004,HepatitisC
-Zone 16,Total,2,2004,HepatitisC
+Zone:16,Total,2,2004,HepatitisC
 Nakhon Si Thammarat,Total,0,2004,HepatitisC
 Phatthalung,Total,1,2004,HepatitisC
 Trang,Total,1,2004,HepatitisC
-Zone 17,Total,6,2004,HepatitisC
+Zone:17,Total,6,2004,HepatitisC
 Krabi,Total,2,2004,HepatitisC
 Phangnga,Total,0,2004,HepatitisC
 Phuket,Total,4,2004,HepatitisC
-Zone 18,Total,3,2004,HepatitisC
+Zone:18,Total,3,2004,HepatitisC
 Narathiwat,Total,0,2004,HepatitisC
 Pattani,Total,1,2004,HepatitisC
 Yala,Total,2,2004,HepatitisC
-Zone 19,Total,10,2004,HepatitisC
+Zone:19,Total,10,2004,HepatitisC
 Satun,Total,0,2004,HepatitisC
 Songkhla,Total,10,2004,HepatitisC
 Total,0,0,2004,HepatitisC
 North Region,0,0,2004,HepatitisC
-Zone 1,0,0,2004,HepatitisC
+Zone:1,0,0,2004,HepatitisC
 Chiang Mai,0,0,2004,HepatitisC
 Chiang Rai,0,0,2004,HepatitisC
 Lampang,0,0,2004,HepatitisC
@@ -20918,98 +20918,98 @@ Mae Hong Son,0,0,2004,HepatitisC
 Nan,0,0,2004,HepatitisC
 Phayao,0,0,2004,HepatitisC
 Phrae,0,0,2004,HepatitisC
-Zone 2,0,0,2004,HepatitisC
+Zone:2,0,0,2004,HepatitisC
 Phetchabun,0,0,2004,HepatitisC
 Phitsanulok,0,0,2004,HepatitisC
 Sukhothai,0,0,2004,HepatitisC
 Tak,0,0,2004,HepatitisC
 Uttaradit,0,0,2004,HepatitisC
-Zone 3,0,0,2004,HepatitisC
+Zone:3,0,0,2004,HepatitisC
 Kamphaeng Phet,0,0,2004,HepatitisC
 Nakhon Sawan,0,0,2004,HepatitisC
 Phichit,0,0,2004,HepatitisC
 Uthai Thani,0,0,2004,HepatitisC
 Central Region,0,0,2004,HepatitisC
 Bangkok,0,0,2004,HepatitisC
-Zone 4,0,0,2004,HepatitisC
+Zone:4,0,0,2004,HepatitisC
 Ang Thong,0,0,2004,HepatitisC
 Nonthaburi,0,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,0,0,2004,HepatitisC
 Pathum Thani,0,0,2004,HepatitisC
-Zone 5,0,0,2004,HepatitisC
+Zone:5,0,0,2004,HepatitisC
 Chai Nat,0,0,2004,HepatitisC
 Lop Buri,0,0,2004,HepatitisC
 Saraburi,0,0,2004,HepatitisC
 Sing Buri,0,0,2004,HepatitisC
-Zone 6,0,0,2004,HepatitisC
+Zone:6,0,0,2004,HepatitisC
 Kanchanaburi,0,0,2004,HepatitisC
 Nakhon Pathom,0,0,2004,HepatitisC
 Ratchaburi,0,0,2004,HepatitisC
 Suphan Buri,0,0,2004,HepatitisC
-Zone 7,0,0,2004,HepatitisC
+Zone:7,0,0,2004,HepatitisC
 Phetchaburi,0,0,2004,HepatitisC
 Prachuap Khiri Khan,0,0,2004,HepatitisC
 Samut Sakhon,0,0,2004,HepatitisC
 Samut Songkhram,0,0,2004,HepatitisC
-Zone 8,0,0,2004,HepatitisC
+Zone:8,0,0,2004,HepatitisC
 Chachoengsao,0,0,2004,HepatitisC
 Nakhon Nayok,0,0,2004,HepatitisC
 Prachin Buri,0,0,2004,HepatitisC
 Sa Kaeo,0,0,2004,HepatitisC
 Samut Prakan,0,0,2004,HepatitisC
-Zone 9,0,0,2004,HepatitisC
+Zone:9,0,0,2004,HepatitisC
 Chanthaburi,0,0,2004,HepatitisC
 Chon Buri,0,0,2004,HepatitisC
 Rayong,0,0,2004,HepatitisC
 Trat,0,0,2004,HepatitisC
 North-Eastern Region,0,0,2004,HepatitisC
-Zone 10,0,0,2004,HepatitisC
+Zone:10,0,0,2004,HepatitisC
 Loei,0,0,2004,HepatitisC
 Nong Bua Lam Phu,0,0,2004,HepatitisC
 Nong Khai,0,0,2004,HepatitisC
 Udon Thani,0,0,2004,HepatitisC
-Zone 11,0,0,2004,HepatitisC
+Zone:11,0,0,2004,HepatitisC
 Kalasin,0,0,2004,HepatitisC
 Mukdahan,0,0,2004,HepatitisC
 Nakhon Phanom,0,0,2004,HepatitisC
 Sakon Nakhon,0,0,2004,HepatitisC
-Zone 12,0,0,2004,HepatitisC
+Zone:12,0,0,2004,HepatitisC
 Khon Kaen,0,0,2004,HepatitisC
 Maha Sarakham,0,0,2004,HepatitisC
 Roi Et,0,0,2004,HepatitisC
-Zone 13,0,0,2004,HepatitisC
+Zone:13,0,0,2004,HepatitisC
 Buri Ram,0,0,2004,HepatitisC
 Chaiyaphum,0,0,2004,HepatitisC
 Nakhon Ratchasima,0,0,2004,HepatitisC
 Surin,0,0,2004,HepatitisC
-Zone 14,0,0,2004,HepatitisC
+Zone:14,0,0,2004,HepatitisC
 Amnat Charoen,0,0,2004,HepatitisC
 Si Sa Ket,0,0,2004,HepatitisC
 Ubon Ratchathani,0,0,2004,HepatitisC
 Yasothon,0,0,2004,HepatitisC
 South Region,0,0,2004,HepatitisC
-Zone 15,0,0,2004,HepatitisC
+Zone:15,0,0,2004,HepatitisC
 Chumphon,0,0,2004,HepatitisC
 Ranong,0,0,2004,HepatitisC
 Surat Thani,0,0,2004,HepatitisC
-Zone 16,0,0,2004,HepatitisC
+Zone:16,0,0,2004,HepatitisC
 Nakhon Si Thammarat,0,0,2004,HepatitisC
 Phatthalung,0,0,2004,HepatitisC
 Trang,0,0,2004,HepatitisC
-Zone 17,0,0,2004,HepatitisC
+Zone:17,0,0,2004,HepatitisC
 Krabi,0,0,2004,HepatitisC
 Phangnga,0,0,2004,HepatitisC
 Phuket,0,0,2004,HepatitisC
-Zone 18,0,0,2004,HepatitisC
+Zone:18,0,0,2004,HepatitisC
 Narathiwat,0,0,2004,HepatitisC
 Pattani,0,0,2004,HepatitisC
 Yala,0,0,2004,HepatitisC
-Zone 19,0,0,2004,HepatitisC
+Zone:19,0,0,2004,HepatitisC
 Satun,0,0,2004,HepatitisC
 Songkhla,0,0,2004,HepatitisC
 Total,<1,3,2004,HepatitisC
 North Region,<1,0,2004,HepatitisC
-Zone 1,<1,0,2004,HepatitisC
+Zone:1,<1,0,2004,HepatitisC
 Chiang Mai,<1,0,2004,HepatitisC
 Chiang Rai,<1,0,2004,HepatitisC
 Lampang,<1,0,2004,HepatitisC
@@ -21018,98 +21018,98 @@ Mae Hong Son,<1,0,2004,HepatitisC
 Nan,<1,0,2004,HepatitisC
 Phayao,<1,0,2004,HepatitisC
 Phrae,<1,0,2004,HepatitisC
-Zone 2,<1,0,2004,HepatitisC
+Zone:2,<1,0,2004,HepatitisC
 Phetchabun,<1,0,2004,HepatitisC
 Phitsanulok,<1,0,2004,HepatitisC
 Sukhothai,<1,0,2004,HepatitisC
 Tak,<1,0,2004,HepatitisC
 Uttaradit,<1,0,2004,HepatitisC
-Zone 3,<1,0,2004,HepatitisC
+Zone:3,<1,0,2004,HepatitisC
 Kamphaeng Phet,<1,0,2004,HepatitisC
 Nakhon Sawan,<1,0,2004,HepatitisC
 Phichit,<1,0,2004,HepatitisC
 Uthai Thani,<1,0,2004,HepatitisC
 Central Region,<1,0,2004,HepatitisC
 Bangkok,<1,0,2004,HepatitisC
-Zone 4,<1,0,2004,HepatitisC
+Zone:4,<1,0,2004,HepatitisC
 Ang Thong,<1,0,2004,HepatitisC
 Nonthaburi,<1,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,<1,0,2004,HepatitisC
 Pathum Thani,<1,0,2004,HepatitisC
-Zone 5,<1,0,2004,HepatitisC
+Zone:5,<1,0,2004,HepatitisC
 Chai Nat,<1,0,2004,HepatitisC
 Lop Buri,<1,0,2004,HepatitisC
 Saraburi,<1,0,2004,HepatitisC
 Sing Buri,<1,0,2004,HepatitisC
-Zone 6,<1,0,2004,HepatitisC
+Zone:6,<1,0,2004,HepatitisC
 Kanchanaburi,<1,0,2004,HepatitisC
 Nakhon Pathom,<1,0,2004,HepatitisC
 Ratchaburi,<1,0,2004,HepatitisC
 Suphan Buri,<1,0,2004,HepatitisC
-Zone 7,<1,0,2004,HepatitisC
+Zone:7,<1,0,2004,HepatitisC
 Phetchaburi,<1,0,2004,HepatitisC
 Prachuap Khiri Khan,<1,0,2004,HepatitisC
 Samut Sakhon,<1,0,2004,HepatitisC
 Samut Songkhram,<1,0,2004,HepatitisC
-Zone 8,<1,0,2004,HepatitisC
+Zone:8,<1,0,2004,HepatitisC
 Chachoengsao,<1,0,2004,HepatitisC
 Nakhon Nayok,<1,0,2004,HepatitisC
 Prachin Buri,<1,0,2004,HepatitisC
 Sa Kaeo,<1,0,2004,HepatitisC
 Samut Prakan,<1,0,2004,HepatitisC
-Zone 9,<1,0,2004,HepatitisC
+Zone:9,<1,0,2004,HepatitisC
 Chanthaburi,<1,0,2004,HepatitisC
 Chon Buri,<1,0,2004,HepatitisC
 Rayong,<1,0,2004,HepatitisC
 Trat,<1,0,2004,HepatitisC
 North-Eastern Region,<1,3,2004,HepatitisC
-Zone 10,<1,0,2004,HepatitisC
+Zone:10,<1,0,2004,HepatitisC
 Loei,<1,0,2004,HepatitisC
 Nong Bua Lam Phu,<1,0,2004,HepatitisC
 Nong Khai,<1,0,2004,HepatitisC
 Udon Thani,<1,0,2004,HepatitisC
-Zone 11,<1,2,2004,HepatitisC
+Zone:11,<1,2,2004,HepatitisC
 Kalasin,<1,2,2004,HepatitisC
 Mukdahan,<1,0,2004,HepatitisC
 Nakhon Phanom,<1,0,2004,HepatitisC
 Sakon Nakhon,<1,0,2004,HepatitisC
-Zone 12,<1,1,2004,HepatitisC
+Zone:12,<1,1,2004,HepatitisC
 Khon Kaen,<1,1,2004,HepatitisC
 Maha Sarakham,<1,0,2004,HepatitisC
 Roi Et,<1,0,2004,HepatitisC
-Zone 13,<1,0,2004,HepatitisC
+Zone:13,<1,0,2004,HepatitisC
 Buri Ram,<1,0,2004,HepatitisC
 Chaiyaphum,<1,0,2004,HepatitisC
 Nakhon Ratchasima,<1,0,2004,HepatitisC
 Surin,<1,0,2004,HepatitisC
-Zone 14,<1,0,2004,HepatitisC
+Zone:14,<1,0,2004,HepatitisC
 Amnat Charoen,<1,0,2004,HepatitisC
 Si Sa Ket,<1,0,2004,HepatitisC
 Ubon Ratchathani,<1,0,2004,HepatitisC
 Yasothon,<1,0,2004,HepatitisC
 South Region,<1,0,2004,HepatitisC
-Zone 15,<1,0,2004,HepatitisC
+Zone:15,<1,0,2004,HepatitisC
 Chumphon,<1,0,2004,HepatitisC
 Ranong,<1,0,2004,HepatitisC
 Surat Thani,<1,0,2004,HepatitisC
-Zone 16,<1,0,2004,HepatitisC
+Zone:16,<1,0,2004,HepatitisC
 Nakhon Si Thammarat,<1,0,2004,HepatitisC
 Phatthalung,<1,0,2004,HepatitisC
 Trang,<1,0,2004,HepatitisC
-Zone 17,<1,0,2004,HepatitisC
+Zone:17,<1,0,2004,HepatitisC
 Krabi,<1,0,2004,HepatitisC
 Phangnga,<1,0,2004,HepatitisC
 Phuket,<1,0,2004,HepatitisC
-Zone 18,<1,0,2004,HepatitisC
+Zone:18,<1,0,2004,HepatitisC
 Narathiwat,<1,0,2004,HepatitisC
 Pattani,<1,0,2004,HepatitisC
 Yala,<1,0,2004,HepatitisC
-Zone 19,<1,0,2004,HepatitisC
+Zone:19,<1,0,2004,HepatitisC
 Satun,<1,0,2004,HepatitisC
 Songkhla,<1,0,2004,HepatitisC
 Total,1-1,0,2004,HepatitisC
 North Region,1-1,0,2004,HepatitisC
-Zone 1,1-1,0,2004,HepatitisC
+Zone:1,1-1,0,2004,HepatitisC
 Chiang Mai,1-1,0,2004,HepatitisC
 Chiang Rai,1-1,0,2004,HepatitisC
 Lampang,1-1,0,2004,HepatitisC
@@ -21118,98 +21118,98 @@ Mae Hong Son,1-1,0,2004,HepatitisC
 Nan,1-1,0,2004,HepatitisC
 Phayao,1-1,0,2004,HepatitisC
 Phrae,1-1,0,2004,HepatitisC
-Zone 2,1-1,0,2004,HepatitisC
+Zone:2,1-1,0,2004,HepatitisC
 Phetchabun,1-1,0,2004,HepatitisC
 Phitsanulok,1-1,0,2004,HepatitisC
 Sukhothai,1-1,0,2004,HepatitisC
 Tak,1-1,0,2004,HepatitisC
 Uttaradit,1-1,0,2004,HepatitisC
-Zone 3,1-1,0,2004,HepatitisC
+Zone:3,1-1,0,2004,HepatitisC
 Kamphaeng Phet,1-1,0,2004,HepatitisC
 Nakhon Sawan,1-1,0,2004,HepatitisC
 Phichit,1-1,0,2004,HepatitisC
 Uthai Thani,1-1,0,2004,HepatitisC
 Central Region,1-1,0,2004,HepatitisC
 Bangkok,1-1,0,2004,HepatitisC
-Zone 4,1-1,0,2004,HepatitisC
+Zone:4,1-1,0,2004,HepatitisC
 Ang Thong,1-1,0,2004,HepatitisC
 Nonthaburi,1-1,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,1-1,0,2004,HepatitisC
 Pathum Thani,1-1,0,2004,HepatitisC
-Zone 5,1-1,0,2004,HepatitisC
+Zone:5,1-1,0,2004,HepatitisC
 Chai Nat,1-1,0,2004,HepatitisC
 Lop Buri,1-1,0,2004,HepatitisC
 Saraburi,1-1,0,2004,HepatitisC
 Sing Buri,1-1,0,2004,HepatitisC
-Zone 6,1-1,0,2004,HepatitisC
+Zone:6,1-1,0,2004,HepatitisC
 Kanchanaburi,1-1,0,2004,HepatitisC
 Nakhon Pathom,1-1,0,2004,HepatitisC
 Ratchaburi,1-1,0,2004,HepatitisC
 Suphan Buri,1-1,0,2004,HepatitisC
-Zone 7,1-1,0,2004,HepatitisC
+Zone:7,1-1,0,2004,HepatitisC
 Phetchaburi,1-1,0,2004,HepatitisC
 Prachuap Khiri Khan,1-1,0,2004,HepatitisC
 Samut Sakhon,1-1,0,2004,HepatitisC
 Samut Songkhram,1-1,0,2004,HepatitisC
-Zone 8,1-1,0,2004,HepatitisC
+Zone:8,1-1,0,2004,HepatitisC
 Chachoengsao,1-1,0,2004,HepatitisC
 Nakhon Nayok,1-1,0,2004,HepatitisC
 Prachin Buri,1-1,0,2004,HepatitisC
 Sa Kaeo,1-1,0,2004,HepatitisC
 Samut Prakan,1-1,0,2004,HepatitisC
-Zone 9,1-1,0,2004,HepatitisC
+Zone:9,1-1,0,2004,HepatitisC
 Chanthaburi,1-1,0,2004,HepatitisC
 Chon Buri,1-1,0,2004,HepatitisC
 Rayong,1-1,0,2004,HepatitisC
 Trat,1-1,0,2004,HepatitisC
 North-Eastern Region,1-1,0,2004,HepatitisC
-Zone 10,1-1,0,2004,HepatitisC
+Zone:10,1-1,0,2004,HepatitisC
 Loei,1-1,0,2004,HepatitisC
 Nong Bua Lam Phu,1-1,0,2004,HepatitisC
 Nong Khai,1-1,0,2004,HepatitisC
 Udon Thani,1-1,0,2004,HepatitisC
-Zone 11,1-1,0,2004,HepatitisC
+Zone:11,1-1,0,2004,HepatitisC
 Kalasin,1-1,0,2004,HepatitisC
 Mukdahan,1-1,0,2004,HepatitisC
 Nakhon Phanom,1-1,0,2004,HepatitisC
 Sakon Nakhon,1-1,0,2004,HepatitisC
-Zone 12,1-1,0,2004,HepatitisC
+Zone:12,1-1,0,2004,HepatitisC
 Khon Kaen,1-1,0,2004,HepatitisC
 Maha Sarakham,1-1,0,2004,HepatitisC
 Roi Et,1-1,0,2004,HepatitisC
-Zone 13,1-1,0,2004,HepatitisC
+Zone:13,1-1,0,2004,HepatitisC
 Buri Ram,1-1,0,2004,HepatitisC
 Chaiyaphum,1-1,0,2004,HepatitisC
 Nakhon Ratchasima,1-1,0,2004,HepatitisC
 Surin,1-1,0,2004,HepatitisC
-Zone 14,1-1,0,2004,HepatitisC
+Zone:14,1-1,0,2004,HepatitisC
 Amnat Charoen,1-1,0,2004,HepatitisC
 Si Sa Ket,1-1,0,2004,HepatitisC
 Ubon Ratchathani,1-1,0,2004,HepatitisC
 Yasothon,1-1,0,2004,HepatitisC
 South Region,1-1,0,2004,HepatitisC
-Zone 15,1-1,0,2004,HepatitisC
+Zone:15,1-1,0,2004,HepatitisC
 Chumphon,1-1,0,2004,HepatitisC
 Ranong,1-1,0,2004,HepatitisC
 Surat Thani,1-1,0,2004,HepatitisC
-Zone 16,1-1,0,2004,HepatitisC
+Zone:16,1-1,0,2004,HepatitisC
 Nakhon Si Thammarat,1-1,0,2004,HepatitisC
 Phatthalung,1-1,0,2004,HepatitisC
 Trang,1-1,0,2004,HepatitisC
-Zone 17,1-1,0,2004,HepatitisC
+Zone:17,1-1,0,2004,HepatitisC
 Krabi,1-1,0,2004,HepatitisC
 Phangnga,1-1,0,2004,HepatitisC
 Phuket,1-1,0,2004,HepatitisC
-Zone 18,1-1,0,2004,HepatitisC
+Zone:18,1-1,0,2004,HepatitisC
 Narathiwat,1-1,0,2004,HepatitisC
 Pattani,1-1,0,2004,HepatitisC
 Yala,1-1,0,2004,HepatitisC
-Zone 19,1-1,0,2004,HepatitisC
+Zone:19,1-1,0,2004,HepatitisC
 Satun,1-1,0,2004,HepatitisC
 Songkhla,1-1,0,2004,HepatitisC
 Total,2-2,1,2004,HepatitisC
 North Region,2-2,1,2004,HepatitisC
-Zone 1,2-2,1,2004,HepatitisC
+Zone:1,2-2,1,2004,HepatitisC
 Chiang Mai,2-2,0,2004,HepatitisC
 Chiang Rai,2-2,0,2004,HepatitisC
 Lampang,2-2,0,2004,HepatitisC
@@ -21218,98 +21218,98 @@ Mae Hong Son,2-2,0,2004,HepatitisC
 Nan,2-2,1,2004,HepatitisC
 Phayao,2-2,0,2004,HepatitisC
 Phrae,2-2,0,2004,HepatitisC
-Zone 2,2-2,0,2004,HepatitisC
+Zone:2,2-2,0,2004,HepatitisC
 Phetchabun,2-2,0,2004,HepatitisC
 Phitsanulok,2-2,0,2004,HepatitisC
 Sukhothai,2-2,0,2004,HepatitisC
 Tak,2-2,0,2004,HepatitisC
 Uttaradit,2-2,0,2004,HepatitisC
-Zone 3,2-2,0,2004,HepatitisC
+Zone:3,2-2,0,2004,HepatitisC
 Kamphaeng Phet,2-2,0,2004,HepatitisC
 Nakhon Sawan,2-2,0,2004,HepatitisC
 Phichit,2-2,0,2004,HepatitisC
 Uthai Thani,2-2,0,2004,HepatitisC
 Central Region,2-2,0,2004,HepatitisC
 Bangkok,2-2,0,2004,HepatitisC
-Zone 4,2-2,0,2004,HepatitisC
+Zone:4,2-2,0,2004,HepatitisC
 Ang Thong,2-2,0,2004,HepatitisC
 Nonthaburi,2-2,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,2-2,0,2004,HepatitisC
 Pathum Thani,2-2,0,2004,HepatitisC
-Zone 5,2-2,0,2004,HepatitisC
+Zone:5,2-2,0,2004,HepatitisC
 Chai Nat,2-2,0,2004,HepatitisC
 Lop Buri,2-2,0,2004,HepatitisC
 Saraburi,2-2,0,2004,HepatitisC
 Sing Buri,2-2,0,2004,HepatitisC
-Zone 6,2-2,0,2004,HepatitisC
+Zone:6,2-2,0,2004,HepatitisC
 Kanchanaburi,2-2,0,2004,HepatitisC
 Nakhon Pathom,2-2,0,2004,HepatitisC
 Ratchaburi,2-2,0,2004,HepatitisC
 Suphan Buri,2-2,0,2004,HepatitisC
-Zone 7,2-2,0,2004,HepatitisC
+Zone:7,2-2,0,2004,HepatitisC
 Phetchaburi,2-2,0,2004,HepatitisC
 Prachuap Khiri Khan,2-2,0,2004,HepatitisC
 Samut Sakhon,2-2,0,2004,HepatitisC
 Samut Songkhram,2-2,0,2004,HepatitisC
-Zone 8,2-2,0,2004,HepatitisC
+Zone:8,2-2,0,2004,HepatitisC
 Chachoengsao,2-2,0,2004,HepatitisC
 Nakhon Nayok,2-2,0,2004,HepatitisC
 Prachin Buri,2-2,0,2004,HepatitisC
 Sa Kaeo,2-2,0,2004,HepatitisC
 Samut Prakan,2-2,0,2004,HepatitisC
-Zone 9,2-2,0,2004,HepatitisC
+Zone:9,2-2,0,2004,HepatitisC
 Chanthaburi,2-2,0,2004,HepatitisC
 Chon Buri,2-2,0,2004,HepatitisC
 Rayong,2-2,0,2004,HepatitisC
 Trat,2-2,0,2004,HepatitisC
 North-Eastern Region,2-2,0,2004,HepatitisC
-Zone 10,2-2,0,2004,HepatitisC
+Zone:10,2-2,0,2004,HepatitisC
 Loei,2-2,0,2004,HepatitisC
 Nong Bua Lam Phu,2-2,0,2004,HepatitisC
 Nong Khai,2-2,0,2004,HepatitisC
 Udon Thani,2-2,0,2004,HepatitisC
-Zone 11,2-2,0,2004,HepatitisC
+Zone:11,2-2,0,2004,HepatitisC
 Kalasin,2-2,0,2004,HepatitisC
 Mukdahan,2-2,0,2004,HepatitisC
 Nakhon Phanom,2-2,0,2004,HepatitisC
 Sakon Nakhon,2-2,0,2004,HepatitisC
-Zone 12,2-2,0,2004,HepatitisC
+Zone:12,2-2,0,2004,HepatitisC
 Khon Kaen,2-2,0,2004,HepatitisC
 Maha Sarakham,2-2,0,2004,HepatitisC
 Roi Et,2-2,0,2004,HepatitisC
-Zone 13,2-2,0,2004,HepatitisC
+Zone:13,2-2,0,2004,HepatitisC
 Buri Ram,2-2,0,2004,HepatitisC
 Chaiyaphum,2-2,0,2004,HepatitisC
 Nakhon Ratchasima,2-2,0,2004,HepatitisC
 Surin,2-2,0,2004,HepatitisC
-Zone 14,2-2,0,2004,HepatitisC
+Zone:14,2-2,0,2004,HepatitisC
 Amnat Charoen,2-2,0,2004,HepatitisC
 Si Sa Ket,2-2,0,2004,HepatitisC
 Ubon Ratchathani,2-2,0,2004,HepatitisC
 Yasothon,2-2,0,2004,HepatitisC
 South Region,2-2,0,2004,HepatitisC
-Zone 15,2-2,0,2004,HepatitisC
+Zone:15,2-2,0,2004,HepatitisC
 Chumphon,2-2,0,2004,HepatitisC
 Ranong,2-2,0,2004,HepatitisC
 Surat Thani,2-2,0,2004,HepatitisC
-Zone 16,2-2,0,2004,HepatitisC
+Zone:16,2-2,0,2004,HepatitisC
 Nakhon Si Thammarat,2-2,0,2004,HepatitisC
 Phatthalung,2-2,0,2004,HepatitisC
 Trang,2-2,0,2004,HepatitisC
-Zone 17,2-2,0,2004,HepatitisC
+Zone:17,2-2,0,2004,HepatitisC
 Krabi,2-2,0,2004,HepatitisC
 Phangnga,2-2,0,2004,HepatitisC
 Phuket,2-2,0,2004,HepatitisC
-Zone 18,2-2,0,2004,HepatitisC
+Zone:18,2-2,0,2004,HepatitisC
 Narathiwat,2-2,0,2004,HepatitisC
 Pattani,2-2,0,2004,HepatitisC
 Yala,2-2,0,2004,HepatitisC
-Zone 19,2-2,0,2004,HepatitisC
+Zone:19,2-2,0,2004,HepatitisC
 Satun,2-2,0,2004,HepatitisC
 Songkhla,2-2,0,2004,HepatitisC
 Total,3-3,2,2004,HepatitisC
 North Region,3-3,1,2004,HepatitisC
-Zone 1,3-3,0,2004,HepatitisC
+Zone:1,3-3,0,2004,HepatitisC
 Chiang Mai,3-3,0,2004,HepatitisC
 Chiang Rai,3-3,0,2004,HepatitisC
 Lampang,3-3,0,2004,HepatitisC
@@ -21318,98 +21318,98 @@ Mae Hong Son,3-3,0,2004,HepatitisC
 Nan,3-3,0,2004,HepatitisC
 Phayao,3-3,0,2004,HepatitisC
 Phrae,3-3,0,2004,HepatitisC
-Zone 2,3-3,0,2004,HepatitisC
+Zone:2,3-3,0,2004,HepatitisC
 Phetchabun,3-3,0,2004,HepatitisC
 Phitsanulok,3-3,0,2004,HepatitisC
 Sukhothai,3-3,0,2004,HepatitisC
 Tak,3-3,0,2004,HepatitisC
 Uttaradit,3-3,0,2004,HepatitisC
-Zone 3,3-3,1,2004,HepatitisC
+Zone:3,3-3,1,2004,HepatitisC
 Kamphaeng Phet,3-3,0,2004,HepatitisC
 Nakhon Sawan,3-3,0,2004,HepatitisC
 Phichit,3-3,1,2004,HepatitisC
 Uthai Thani,3-3,0,2004,HepatitisC
 Central Region,3-3,1,2004,HepatitisC
 Bangkok,3-3,1,2004,HepatitisC
-Zone 4,3-3,0,2004,HepatitisC
+Zone:4,3-3,0,2004,HepatitisC
 Ang Thong,3-3,0,2004,HepatitisC
 Nonthaburi,3-3,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,3-3,0,2004,HepatitisC
 Pathum Thani,3-3,0,2004,HepatitisC
-Zone 5,3-3,0,2004,HepatitisC
+Zone:5,3-3,0,2004,HepatitisC
 Chai Nat,3-3,0,2004,HepatitisC
 Lop Buri,3-3,0,2004,HepatitisC
 Saraburi,3-3,0,2004,HepatitisC
 Sing Buri,3-3,0,2004,HepatitisC
-Zone 6,3-3,0,2004,HepatitisC
+Zone:6,3-3,0,2004,HepatitisC
 Kanchanaburi,3-3,0,2004,HepatitisC
 Nakhon Pathom,3-3,0,2004,HepatitisC
 Ratchaburi,3-3,0,2004,HepatitisC
 Suphan Buri,3-3,0,2004,HepatitisC
-Zone 7,3-3,0,2004,HepatitisC
+Zone:7,3-3,0,2004,HepatitisC
 Phetchaburi,3-3,0,2004,HepatitisC
 Prachuap Khiri Khan,3-3,0,2004,HepatitisC
 Samut Sakhon,3-3,0,2004,HepatitisC
 Samut Songkhram,3-3,0,2004,HepatitisC
-Zone 8,3-3,0,2004,HepatitisC
+Zone:8,3-3,0,2004,HepatitisC
 Chachoengsao,3-3,0,2004,HepatitisC
 Nakhon Nayok,3-3,0,2004,HepatitisC
 Prachin Buri,3-3,0,2004,HepatitisC
 Sa Kaeo,3-3,0,2004,HepatitisC
 Samut Prakan,3-3,0,2004,HepatitisC
-Zone 9,3-3,0,2004,HepatitisC
+Zone:9,3-3,0,2004,HepatitisC
 Chanthaburi,3-3,0,2004,HepatitisC
 Chon Buri,3-3,0,2004,HepatitisC
 Rayong,3-3,0,2004,HepatitisC
 Trat,3-3,0,2004,HepatitisC
 North-Eastern Region,3-3,0,2004,HepatitisC
-Zone 10,3-3,0,2004,HepatitisC
+Zone:10,3-3,0,2004,HepatitisC
 Loei,3-3,0,2004,HepatitisC
 Nong Bua Lam Phu,3-3,0,2004,HepatitisC
 Nong Khai,3-3,0,2004,HepatitisC
 Udon Thani,3-3,0,2004,HepatitisC
-Zone 11,3-3,0,2004,HepatitisC
+Zone:11,3-3,0,2004,HepatitisC
 Kalasin,3-3,0,2004,HepatitisC
 Mukdahan,3-3,0,2004,HepatitisC
 Nakhon Phanom,3-3,0,2004,HepatitisC
 Sakon Nakhon,3-3,0,2004,HepatitisC
-Zone 12,3-3,0,2004,HepatitisC
+Zone:12,3-3,0,2004,HepatitisC
 Khon Kaen,3-3,0,2004,HepatitisC
 Maha Sarakham,3-3,0,2004,HepatitisC
 Roi Et,3-3,0,2004,HepatitisC
-Zone 13,3-3,0,2004,HepatitisC
+Zone:13,3-3,0,2004,HepatitisC
 Buri Ram,3-3,0,2004,HepatitisC
 Chaiyaphum,3-3,0,2004,HepatitisC
 Nakhon Ratchasima,3-3,0,2004,HepatitisC
 Surin,3-3,0,2004,HepatitisC
-Zone 14,3-3,0,2004,HepatitisC
+Zone:14,3-3,0,2004,HepatitisC
 Amnat Charoen,3-3,0,2004,HepatitisC
 Si Sa Ket,3-3,0,2004,HepatitisC
 Ubon Ratchathani,3-3,0,2004,HepatitisC
 Yasothon,3-3,0,2004,HepatitisC
 South Region,3-3,0,2004,HepatitisC
-Zone 15,3-3,0,2004,HepatitisC
+Zone:15,3-3,0,2004,HepatitisC
 Chumphon,3-3,0,2004,HepatitisC
 Ranong,3-3,0,2004,HepatitisC
 Surat Thani,3-3,0,2004,HepatitisC
-Zone 16,3-3,0,2004,HepatitisC
+Zone:16,3-3,0,2004,HepatitisC
 Nakhon Si Thammarat,3-3,0,2004,HepatitisC
 Phatthalung,3-3,0,2004,HepatitisC
 Trang,3-3,0,2004,HepatitisC
-Zone 17,3-3,0,2004,HepatitisC
+Zone:17,3-3,0,2004,HepatitisC
 Krabi,3-3,0,2004,HepatitisC
 Phangnga,3-3,0,2004,HepatitisC
 Phuket,3-3,0,2004,HepatitisC
-Zone 18,3-3,0,2004,HepatitisC
+Zone:18,3-3,0,2004,HepatitisC
 Narathiwat,3-3,0,2004,HepatitisC
 Pattani,3-3,0,2004,HepatitisC
 Yala,3-3,0,2004,HepatitisC
-Zone 19,3-3,0,2004,HepatitisC
+Zone:19,3-3,0,2004,HepatitisC
 Satun,3-3,0,2004,HepatitisC
 Songkhla,3-3,0,2004,HepatitisC
 Total,4-4,2,2004,HepatitisC
 North Region,4-4,1,2004,HepatitisC
-Zone 1,4-4,1,2004,HepatitisC
+Zone:1,4-4,1,2004,HepatitisC
 Chiang Mai,4-4,0,2004,HepatitisC
 Chiang Rai,4-4,0,2004,HepatitisC
 Lampang,4-4,0,2004,HepatitisC
@@ -21418,98 +21418,98 @@ Mae Hong Son,4-4,0,2004,HepatitisC
 Nan,4-4,0,2004,HepatitisC
 Phayao,4-4,1,2004,HepatitisC
 Phrae,4-4,0,2004,HepatitisC
-Zone 2,4-4,0,2004,HepatitisC
+Zone:2,4-4,0,2004,HepatitisC
 Phetchabun,4-4,0,2004,HepatitisC
 Phitsanulok,4-4,0,2004,HepatitisC
 Sukhothai,4-4,0,2004,HepatitisC
 Tak,4-4,0,2004,HepatitisC
 Uttaradit,4-4,0,2004,HepatitisC
-Zone 3,4-4,0,2004,HepatitisC
+Zone:3,4-4,0,2004,HepatitisC
 Kamphaeng Phet,4-4,0,2004,HepatitisC
 Nakhon Sawan,4-4,0,2004,HepatitisC
 Phichit,4-4,0,2004,HepatitisC
 Uthai Thani,4-4,0,2004,HepatitisC
 Central Region,4-4,1,2004,HepatitisC
 Bangkok,4-4,0,2004,HepatitisC
-Zone 4,4-4,0,2004,HepatitisC
+Zone:4,4-4,0,2004,HepatitisC
 Ang Thong,4-4,0,2004,HepatitisC
 Nonthaburi,4-4,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,4-4,0,2004,HepatitisC
 Pathum Thani,4-4,0,2004,HepatitisC
-Zone 5,4-4,0,2004,HepatitisC
+Zone:5,4-4,0,2004,HepatitisC
 Chai Nat,4-4,0,2004,HepatitisC
 Lop Buri,4-4,0,2004,HepatitisC
 Saraburi,4-4,0,2004,HepatitisC
 Sing Buri,4-4,0,2004,HepatitisC
-Zone 6,4-4,0,2004,HepatitisC
+Zone:6,4-4,0,2004,HepatitisC
 Kanchanaburi,4-4,0,2004,HepatitisC
 Nakhon Pathom,4-4,0,2004,HepatitisC
 Ratchaburi,4-4,0,2004,HepatitisC
 Suphan Buri,4-4,0,2004,HepatitisC
-Zone 7,4-4,0,2004,HepatitisC
+Zone:7,4-4,0,2004,HepatitisC
 Phetchaburi,4-4,0,2004,HepatitisC
 Prachuap Khiri Khan,4-4,0,2004,HepatitisC
 Samut Sakhon,4-4,0,2004,HepatitisC
 Samut Songkhram,4-4,0,2004,HepatitisC
-Zone 8,4-4,1,2004,HepatitisC
+Zone:8,4-4,1,2004,HepatitisC
 Chachoengsao,4-4,0,2004,HepatitisC
 Nakhon Nayok,4-4,0,2004,HepatitisC
 Prachin Buri,4-4,1,2004,HepatitisC
 Sa Kaeo,4-4,0,2004,HepatitisC
 Samut Prakan,4-4,0,2004,HepatitisC
-Zone 9,4-4,0,2004,HepatitisC
+Zone:9,4-4,0,2004,HepatitisC
 Chanthaburi,4-4,0,2004,HepatitisC
 Chon Buri,4-4,0,2004,HepatitisC
 Rayong,4-4,0,2004,HepatitisC
 Trat,4-4,0,2004,HepatitisC
 North-Eastern Region,4-4,0,2004,HepatitisC
-Zone 10,4-4,0,2004,HepatitisC
+Zone:10,4-4,0,2004,HepatitisC
 Loei,4-4,0,2004,HepatitisC
 Nong Bua Lam Phu,4-4,0,2004,HepatitisC
 Nong Khai,4-4,0,2004,HepatitisC
 Udon Thani,4-4,0,2004,HepatitisC
-Zone 11,4-4,0,2004,HepatitisC
+Zone:11,4-4,0,2004,HepatitisC
 Kalasin,4-4,0,2004,HepatitisC
 Mukdahan,4-4,0,2004,HepatitisC
 Nakhon Phanom,4-4,0,2004,HepatitisC
 Sakon Nakhon,4-4,0,2004,HepatitisC
-Zone 12,4-4,0,2004,HepatitisC
+Zone:12,4-4,0,2004,HepatitisC
 Khon Kaen,4-4,0,2004,HepatitisC
 Maha Sarakham,4-4,0,2004,HepatitisC
 Roi Et,4-4,0,2004,HepatitisC
-Zone 13,4-4,0,2004,HepatitisC
+Zone:13,4-4,0,2004,HepatitisC
 Buri Ram,4-4,0,2004,HepatitisC
 Chaiyaphum,4-4,0,2004,HepatitisC
 Nakhon Ratchasima,4-4,0,2004,HepatitisC
 Surin,4-4,0,2004,HepatitisC
-Zone 14,4-4,0,2004,HepatitisC
+Zone:14,4-4,0,2004,HepatitisC
 Amnat Charoen,4-4,0,2004,HepatitisC
 Si Sa Ket,4-4,0,2004,HepatitisC
 Ubon Ratchathani,4-4,0,2004,HepatitisC
 Yasothon,4-4,0,2004,HepatitisC
 South Region,4-4,0,2004,HepatitisC
-Zone 15,4-4,0,2004,HepatitisC
+Zone:15,4-4,0,2004,HepatitisC
 Chumphon,4-4,0,2004,HepatitisC
 Ranong,4-4,0,2004,HepatitisC
 Surat Thani,4-4,0,2004,HepatitisC
-Zone 16,4-4,0,2004,HepatitisC
+Zone:16,4-4,0,2004,HepatitisC
 Nakhon Si Thammarat,4-4,0,2004,HepatitisC
 Phatthalung,4-4,0,2004,HepatitisC
 Trang,4-4,0,2004,HepatitisC
-Zone 17,4-4,0,2004,HepatitisC
+Zone:17,4-4,0,2004,HepatitisC
 Krabi,4-4,0,2004,HepatitisC
 Phangnga,4-4,0,2004,HepatitisC
 Phuket,4-4,0,2004,HepatitisC
-Zone 18,4-4,0,2004,HepatitisC
+Zone:18,4-4,0,2004,HepatitisC
 Narathiwat,4-4,0,2004,HepatitisC
 Pattani,4-4,0,2004,HepatitisC
 Yala,4-4,0,2004,HepatitisC
-Zone 19,4-4,0,2004,HepatitisC
+Zone:19,4-4,0,2004,HepatitisC
 Satun,4-4,0,2004,HepatitisC
 Songkhla,4-4,0,2004,HepatitisC
 Total,5-5,1,2004,HepatitisC
 North Region,5-5,0,2004,HepatitisC
-Zone 1,5-5,0,2004,HepatitisC
+Zone:1,5-5,0,2004,HepatitisC
 Chiang Mai,5-5,0,2004,HepatitisC
 Chiang Rai,5-5,0,2004,HepatitisC
 Lampang,5-5,0,2004,HepatitisC
@@ -21518,98 +21518,98 @@ Mae Hong Son,5-5,0,2004,HepatitisC
 Nan,5-5,0,2004,HepatitisC
 Phayao,5-5,0,2004,HepatitisC
 Phrae,5-5,0,2004,HepatitisC
-Zone 2,5-5,0,2004,HepatitisC
+Zone:2,5-5,0,2004,HepatitisC
 Phetchabun,5-5,0,2004,HepatitisC
 Phitsanulok,5-5,0,2004,HepatitisC
 Sukhothai,5-5,0,2004,HepatitisC
 Tak,5-5,0,2004,HepatitisC
 Uttaradit,5-5,0,2004,HepatitisC
-Zone 3,5-5,0,2004,HepatitisC
+Zone:3,5-5,0,2004,HepatitisC
 Kamphaeng Phet,5-5,0,2004,HepatitisC
 Nakhon Sawan,5-5,0,2004,HepatitisC
 Phichit,5-5,0,2004,HepatitisC
 Uthai Thani,5-5,0,2004,HepatitisC
 Central Region,5-5,1,2004,HepatitisC
 Bangkok,5-5,0,2004,HepatitisC
-Zone 4,5-5,1,2004,HepatitisC
+Zone:4,5-5,1,2004,HepatitisC
 Ang Thong,5-5,0,2004,HepatitisC
 Nonthaburi,5-5,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,5-5,1,2004,HepatitisC
 Pathum Thani,5-5,0,2004,HepatitisC
-Zone 5,5-5,0,2004,HepatitisC
+Zone:5,5-5,0,2004,HepatitisC
 Chai Nat,5-5,0,2004,HepatitisC
 Lop Buri,5-5,0,2004,HepatitisC
 Saraburi,5-5,0,2004,HepatitisC
 Sing Buri,5-5,0,2004,HepatitisC
-Zone 6,5-5,0,2004,HepatitisC
+Zone:6,5-5,0,2004,HepatitisC
 Kanchanaburi,5-5,0,2004,HepatitisC
 Nakhon Pathom,5-5,0,2004,HepatitisC
 Ratchaburi,5-5,0,2004,HepatitisC
 Suphan Buri,5-5,0,2004,HepatitisC
-Zone 7,5-5,0,2004,HepatitisC
+Zone:7,5-5,0,2004,HepatitisC
 Phetchaburi,5-5,0,2004,HepatitisC
 Prachuap Khiri Khan,5-5,0,2004,HepatitisC
 Samut Sakhon,5-5,0,2004,HepatitisC
 Samut Songkhram,5-5,0,2004,HepatitisC
-Zone 8,5-5,0,2004,HepatitisC
+Zone:8,5-5,0,2004,HepatitisC
 Chachoengsao,5-5,0,2004,HepatitisC
 Nakhon Nayok,5-5,0,2004,HepatitisC
 Prachin Buri,5-5,0,2004,HepatitisC
 Sa Kaeo,5-5,0,2004,HepatitisC
 Samut Prakan,5-5,0,2004,HepatitisC
-Zone 9,5-5,0,2004,HepatitisC
+Zone:9,5-5,0,2004,HepatitisC
 Chanthaburi,5-5,0,2004,HepatitisC
 Chon Buri,5-5,0,2004,HepatitisC
 Rayong,5-5,0,2004,HepatitisC
 Trat,5-5,0,2004,HepatitisC
 North-Eastern Region,5-5,0,2004,HepatitisC
-Zone 10,5-5,0,2004,HepatitisC
+Zone:10,5-5,0,2004,HepatitisC
 Loei,5-5,0,2004,HepatitisC
 Nong Bua Lam Phu,5-5,0,2004,HepatitisC
 Nong Khai,5-5,0,2004,HepatitisC
 Udon Thani,5-5,0,2004,HepatitisC
-Zone 11,5-5,0,2004,HepatitisC
+Zone:11,5-5,0,2004,HepatitisC
 Kalasin,5-5,0,2004,HepatitisC
 Mukdahan,5-5,0,2004,HepatitisC
 Nakhon Phanom,5-5,0,2004,HepatitisC
 Sakon Nakhon,5-5,0,2004,HepatitisC
-Zone 12,5-5,0,2004,HepatitisC
+Zone:12,5-5,0,2004,HepatitisC
 Khon Kaen,5-5,0,2004,HepatitisC
 Maha Sarakham,5-5,0,2004,HepatitisC
 Roi Et,5-5,0,2004,HepatitisC
-Zone 13,5-5,0,2004,HepatitisC
+Zone:13,5-5,0,2004,HepatitisC
 Buri Ram,5-5,0,2004,HepatitisC
 Chaiyaphum,5-5,0,2004,HepatitisC
 Nakhon Ratchasima,5-5,0,2004,HepatitisC
 Surin,5-5,0,2004,HepatitisC
-Zone 14,5-5,0,2004,HepatitisC
+Zone:14,5-5,0,2004,HepatitisC
 Amnat Charoen,5-5,0,2004,HepatitisC
 Si Sa Ket,5-5,0,2004,HepatitisC
 Ubon Ratchathani,5-5,0,2004,HepatitisC
 Yasothon,5-5,0,2004,HepatitisC
 South Region,5-5,0,2004,HepatitisC
-Zone 15,5-5,0,2004,HepatitisC
+Zone:15,5-5,0,2004,HepatitisC
 Chumphon,5-5,0,2004,HepatitisC
 Ranong,5-5,0,2004,HepatitisC
 Surat Thani,5-5,0,2004,HepatitisC
-Zone 16,5-5,0,2004,HepatitisC
+Zone:16,5-5,0,2004,HepatitisC
 Nakhon Si Thammarat,5-5,0,2004,HepatitisC
 Phatthalung,5-5,0,2004,HepatitisC
 Trang,5-5,0,2004,HepatitisC
-Zone 17,5-5,0,2004,HepatitisC
+Zone:17,5-5,0,2004,HepatitisC
 Krabi,5-5,0,2004,HepatitisC
 Phangnga,5-5,0,2004,HepatitisC
 Phuket,5-5,0,2004,HepatitisC
-Zone 18,5-5,0,2004,HepatitisC
+Zone:18,5-5,0,2004,HepatitisC
 Narathiwat,5-5,0,2004,HepatitisC
 Pattani,5-5,0,2004,HepatitisC
 Yala,5-5,0,2004,HepatitisC
-Zone 19,5-5,0,2004,HepatitisC
+Zone:19,5-5,0,2004,HepatitisC
 Satun,5-5,0,2004,HepatitisC
 Songkhla,5-5,0,2004,HepatitisC
 Total,6-6,2,2004,HepatitisC
 North Region,6-6,1,2004,HepatitisC
-Zone 1,6-6,0,2004,HepatitisC
+Zone:1,6-6,0,2004,HepatitisC
 Chiang Mai,6-6,0,2004,HepatitisC
 Chiang Rai,6-6,0,2004,HepatitisC
 Lampang,6-6,0,2004,HepatitisC
@@ -21618,98 +21618,98 @@ Mae Hong Son,6-6,0,2004,HepatitisC
 Nan,6-6,0,2004,HepatitisC
 Phayao,6-6,0,2004,HepatitisC
 Phrae,6-6,0,2004,HepatitisC
-Zone 2,6-6,0,2004,HepatitisC
+Zone:2,6-6,0,2004,HepatitisC
 Phetchabun,6-6,0,2004,HepatitisC
 Phitsanulok,6-6,0,2004,HepatitisC
 Sukhothai,6-6,0,2004,HepatitisC
 Tak,6-6,0,2004,HepatitisC
 Uttaradit,6-6,0,2004,HepatitisC
-Zone 3,6-6,1,2004,HepatitisC
+Zone:3,6-6,1,2004,HepatitisC
 Kamphaeng Phet,6-6,0,2004,HepatitisC
 Nakhon Sawan,6-6,1,2004,HepatitisC
 Phichit,6-6,0,2004,HepatitisC
 Uthai Thani,6-6,0,2004,HepatitisC
 Central Region,6-6,1,2004,HepatitisC
 Bangkok,6-6,1,2004,HepatitisC
-Zone 4,6-6,0,2004,HepatitisC
+Zone:4,6-6,0,2004,HepatitisC
 Ang Thong,6-6,0,2004,HepatitisC
 Nonthaburi,6-6,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,6-6,0,2004,HepatitisC
 Pathum Thani,6-6,0,2004,HepatitisC
-Zone 5,6-6,0,2004,HepatitisC
+Zone:5,6-6,0,2004,HepatitisC
 Chai Nat,6-6,0,2004,HepatitisC
 Lop Buri,6-6,0,2004,HepatitisC
 Saraburi,6-6,0,2004,HepatitisC
 Sing Buri,6-6,0,2004,HepatitisC
-Zone 6,6-6,0,2004,HepatitisC
+Zone:6,6-6,0,2004,HepatitisC
 Kanchanaburi,6-6,0,2004,HepatitisC
 Nakhon Pathom,6-6,0,2004,HepatitisC
 Ratchaburi,6-6,0,2004,HepatitisC
 Suphan Buri,6-6,0,2004,HepatitisC
-Zone 7,6-6,0,2004,HepatitisC
+Zone:7,6-6,0,2004,HepatitisC
 Phetchaburi,6-6,0,2004,HepatitisC
 Prachuap Khiri Khan,6-6,0,2004,HepatitisC
 Samut Sakhon,6-6,0,2004,HepatitisC
 Samut Songkhram,6-6,0,2004,HepatitisC
-Zone 8,6-6,0,2004,HepatitisC
+Zone:8,6-6,0,2004,HepatitisC
 Chachoengsao,6-6,0,2004,HepatitisC
 Nakhon Nayok,6-6,0,2004,HepatitisC
 Prachin Buri,6-6,0,2004,HepatitisC
 Sa Kaeo,6-6,0,2004,HepatitisC
 Samut Prakan,6-6,0,2004,HepatitisC
-Zone 9,6-6,0,2004,HepatitisC
+Zone:9,6-6,0,2004,HepatitisC
 Chanthaburi,6-6,0,2004,HepatitisC
 Chon Buri,6-6,0,2004,HepatitisC
 Rayong,6-6,0,2004,HepatitisC
 Trat,6-6,0,2004,HepatitisC
 North-Eastern Region,6-6,0,2004,HepatitisC
-Zone 10,6-6,0,2004,HepatitisC
+Zone:10,6-6,0,2004,HepatitisC
 Loei,6-6,0,2004,HepatitisC
 Nong Bua Lam Phu,6-6,0,2004,HepatitisC
 Nong Khai,6-6,0,2004,HepatitisC
 Udon Thani,6-6,0,2004,HepatitisC
-Zone 11,6-6,0,2004,HepatitisC
+Zone:11,6-6,0,2004,HepatitisC
 Kalasin,6-6,0,2004,HepatitisC
 Mukdahan,6-6,0,2004,HepatitisC
 Nakhon Phanom,6-6,0,2004,HepatitisC
 Sakon Nakhon,6-6,0,2004,HepatitisC
-Zone 12,6-6,0,2004,HepatitisC
+Zone:12,6-6,0,2004,HepatitisC
 Khon Kaen,6-6,0,2004,HepatitisC
 Maha Sarakham,6-6,0,2004,HepatitisC
 Roi Et,6-6,0,2004,HepatitisC
-Zone 13,6-6,0,2004,HepatitisC
+Zone:13,6-6,0,2004,HepatitisC
 Buri Ram,6-6,0,2004,HepatitisC
 Chaiyaphum,6-6,0,2004,HepatitisC
 Nakhon Ratchasima,6-6,0,2004,HepatitisC
 Surin,6-6,0,2004,HepatitisC
-Zone 14,6-6,0,2004,HepatitisC
+Zone:14,6-6,0,2004,HepatitisC
 Amnat Charoen,6-6,0,2004,HepatitisC
 Si Sa Ket,6-6,0,2004,HepatitisC
 Ubon Ratchathani,6-6,0,2004,HepatitisC
 Yasothon,6-6,0,2004,HepatitisC
 South Region,6-6,0,2004,HepatitisC
-Zone 15,6-6,0,2004,HepatitisC
+Zone:15,6-6,0,2004,HepatitisC
 Chumphon,6-6,0,2004,HepatitisC
 Ranong,6-6,0,2004,HepatitisC
 Surat Thani,6-6,0,2004,HepatitisC
-Zone 16,6-6,0,2004,HepatitisC
+Zone:16,6-6,0,2004,HepatitisC
 Nakhon Si Thammarat,6-6,0,2004,HepatitisC
 Phatthalung,6-6,0,2004,HepatitisC
 Trang,6-6,0,2004,HepatitisC
-Zone 17,6-6,0,2004,HepatitisC
+Zone:17,6-6,0,2004,HepatitisC
 Krabi,6-6,0,2004,HepatitisC
 Phangnga,6-6,0,2004,HepatitisC
 Phuket,6-6,0,2004,HepatitisC
-Zone 18,6-6,0,2004,HepatitisC
+Zone:18,6-6,0,2004,HepatitisC
 Narathiwat,6-6,0,2004,HepatitisC
 Pattani,6-6,0,2004,HepatitisC
 Yala,6-6,0,2004,HepatitisC
-Zone 19,6-6,0,2004,HepatitisC
+Zone:19,6-6,0,2004,HepatitisC
 Satun,6-6,0,2004,HepatitisC
 Songkhla,6-6,0,2004,HepatitisC
 Total,7-9,5,2004,HepatitisC
 North Region,7-9,2,2004,HepatitisC
-Zone 1,7-9,0,2004,HepatitisC
+Zone:1,7-9,0,2004,HepatitisC
 Chiang Mai,7-9,0,2004,HepatitisC
 Chiang Rai,7-9,0,2004,HepatitisC
 Lampang,7-9,0,2004,HepatitisC
@@ -21718,98 +21718,98 @@ Mae Hong Son,7-9,0,2004,HepatitisC
 Nan,7-9,0,2004,HepatitisC
 Phayao,7-9,0,2004,HepatitisC
 Phrae,7-9,0,2004,HepatitisC
-Zone 2,7-9,2,2004,HepatitisC
+Zone:2,7-9,2,2004,HepatitisC
 Phetchabun,7-9,0,2004,HepatitisC
 Phitsanulok,7-9,0,2004,HepatitisC
 Sukhothai,7-9,0,2004,HepatitisC
 Tak,7-9,2,2004,HepatitisC
 Uttaradit,7-9,0,2004,HepatitisC
-Zone 3,7-9,0,2004,HepatitisC
+Zone:3,7-9,0,2004,HepatitisC
 Kamphaeng Phet,7-9,0,2004,HepatitisC
 Nakhon Sawan,7-9,0,2004,HepatitisC
 Phichit,7-9,0,2004,HepatitisC
 Uthai Thani,7-9,0,2004,HepatitisC
 Central Region,7-9,1,2004,HepatitisC
 Bangkok,7-9,1,2004,HepatitisC
-Zone 4,7-9,0,2004,HepatitisC
+Zone:4,7-9,0,2004,HepatitisC
 Ang Thong,7-9,0,2004,HepatitisC
 Nonthaburi,7-9,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,7-9,0,2004,HepatitisC
 Pathum Thani,7-9,0,2004,HepatitisC
-Zone 5,7-9,0,2004,HepatitisC
+Zone:5,7-9,0,2004,HepatitisC
 Chai Nat,7-9,0,2004,HepatitisC
 Lop Buri,7-9,0,2004,HepatitisC
 Saraburi,7-9,0,2004,HepatitisC
 Sing Buri,7-9,0,2004,HepatitisC
-Zone 6,7-9,0,2004,HepatitisC
+Zone:6,7-9,0,2004,HepatitisC
 Kanchanaburi,7-9,0,2004,HepatitisC
 Nakhon Pathom,7-9,0,2004,HepatitisC
 Ratchaburi,7-9,0,2004,HepatitisC
 Suphan Buri,7-9,0,2004,HepatitisC
-Zone 7,7-9,0,2004,HepatitisC
+Zone:7,7-9,0,2004,HepatitisC
 Phetchaburi,7-9,0,2004,HepatitisC
 Prachuap Khiri Khan,7-9,0,2004,HepatitisC
 Samut Sakhon,7-9,0,2004,HepatitisC
 Samut Songkhram,7-9,0,2004,HepatitisC
-Zone 8,7-9,0,2004,HepatitisC
+Zone:8,7-9,0,2004,HepatitisC
 Chachoengsao,7-9,0,2004,HepatitisC
 Nakhon Nayok,7-9,0,2004,HepatitisC
 Prachin Buri,7-9,0,2004,HepatitisC
 Sa Kaeo,7-9,0,2004,HepatitisC
 Samut Prakan,7-9,0,2004,HepatitisC
-Zone 9,7-9,0,2004,HepatitisC
+Zone:9,7-9,0,2004,HepatitisC
 Chanthaburi,7-9,0,2004,HepatitisC
 Chon Buri,7-9,0,2004,HepatitisC
 Rayong,7-9,0,2004,HepatitisC
 Trat,7-9,0,2004,HepatitisC
 North-Eastern Region,7-9,2,2004,HepatitisC
-Zone 10,7-9,2,2004,HepatitisC
+Zone:10,7-9,2,2004,HepatitisC
 Loei,7-9,2,2004,HepatitisC
 Nong Bua Lam Phu,7-9,0,2004,HepatitisC
 Nong Khai,7-9,0,2004,HepatitisC
 Udon Thani,7-9,0,2004,HepatitisC
-Zone 11,7-9,0,2004,HepatitisC
+Zone:11,7-9,0,2004,HepatitisC
 Kalasin,7-9,0,2004,HepatitisC
 Mukdahan,7-9,0,2004,HepatitisC
 Nakhon Phanom,7-9,0,2004,HepatitisC
 Sakon Nakhon,7-9,0,2004,HepatitisC
-Zone 12,7-9,0,2004,HepatitisC
+Zone:12,7-9,0,2004,HepatitisC
 Khon Kaen,7-9,0,2004,HepatitisC
 Maha Sarakham,7-9,0,2004,HepatitisC
 Roi Et,7-9,0,2004,HepatitisC
-Zone 13,7-9,0,2004,HepatitisC
+Zone:13,7-9,0,2004,HepatitisC
 Buri Ram,7-9,0,2004,HepatitisC
 Chaiyaphum,7-9,0,2004,HepatitisC
 Nakhon Ratchasima,7-9,0,2004,HepatitisC
 Surin,7-9,0,2004,HepatitisC
-Zone 14,7-9,0,2004,HepatitisC
+Zone:14,7-9,0,2004,HepatitisC
 Amnat Charoen,7-9,0,2004,HepatitisC
 Si Sa Ket,7-9,0,2004,HepatitisC
 Ubon Ratchathani,7-9,0,2004,HepatitisC
 Yasothon,7-9,0,2004,HepatitisC
 South Region,7-9,0,2004,HepatitisC
-Zone 15,7-9,0,2004,HepatitisC
+Zone:15,7-9,0,2004,HepatitisC
 Chumphon,7-9,0,2004,HepatitisC
 Ranong,7-9,0,2004,HepatitisC
 Surat Thani,7-9,0,2004,HepatitisC
-Zone 16,7-9,0,2004,HepatitisC
+Zone:16,7-9,0,2004,HepatitisC
 Nakhon Si Thammarat,7-9,0,2004,HepatitisC
 Phatthalung,7-9,0,2004,HepatitisC
 Trang,7-9,0,2004,HepatitisC
-Zone 17,7-9,0,2004,HepatitisC
+Zone:17,7-9,0,2004,HepatitisC
 Krabi,7-9,0,2004,HepatitisC
 Phangnga,7-9,0,2004,HepatitisC
 Phuket,7-9,0,2004,HepatitisC
-Zone 18,7-9,0,2004,HepatitisC
+Zone:18,7-9,0,2004,HepatitisC
 Narathiwat,7-9,0,2004,HepatitisC
 Pattani,7-9,0,2004,HepatitisC
 Yala,7-9,0,2004,HepatitisC
-Zone 19,7-9,0,2004,HepatitisC
+Zone:19,7-9,0,2004,HepatitisC
 Satun,7-9,0,2004,HepatitisC
 Songkhla,7-9,0,2004,HepatitisC
 Total,10-14,6,2004,HepatitisC
 North Region,10-14,0,2004,HepatitisC
-Zone 1,10-14,0,2004,HepatitisC
+Zone:1,10-14,0,2004,HepatitisC
 Chiang Mai,10-14,0,2004,HepatitisC
 Chiang Rai,10-14,0,2004,HepatitisC
 Lampang,10-14,0,2004,HepatitisC
@@ -21818,98 +21818,98 @@ Mae Hong Son,10-14,0,2004,HepatitisC
 Nan,10-14,0,2004,HepatitisC
 Phayao,10-14,0,2004,HepatitisC
 Phrae,10-14,0,2004,HepatitisC
-Zone 2,10-14,0,2004,HepatitisC
+Zone:2,10-14,0,2004,HepatitisC
 Phetchabun,10-14,0,2004,HepatitisC
 Phitsanulok,10-14,0,2004,HepatitisC
 Sukhothai,10-14,0,2004,HepatitisC
 Tak,10-14,0,2004,HepatitisC
 Uttaradit,10-14,0,2004,HepatitisC
-Zone 3,10-14,0,2004,HepatitisC
+Zone:3,10-14,0,2004,HepatitisC
 Kamphaeng Phet,10-14,0,2004,HepatitisC
 Nakhon Sawan,10-14,0,2004,HepatitisC
 Phichit,10-14,0,2004,HepatitisC
 Uthai Thani,10-14,0,2004,HepatitisC
 Central Region,10-14,1,2004,HepatitisC
 Bangkok,10-14,0,2004,HepatitisC
-Zone 4,10-14,1,2004,HepatitisC
+Zone:4,10-14,1,2004,HepatitisC
 Ang Thong,10-14,0,2004,HepatitisC
 Nonthaburi,10-14,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,10-14,1,2004,HepatitisC
 Pathum Thani,10-14,0,2004,HepatitisC
-Zone 5,10-14,0,2004,HepatitisC
+Zone:5,10-14,0,2004,HepatitisC
 Chai Nat,10-14,0,2004,HepatitisC
 Lop Buri,10-14,0,2004,HepatitisC
 Saraburi,10-14,0,2004,HepatitisC
 Sing Buri,10-14,0,2004,HepatitisC
-Zone 6,10-14,0,2004,HepatitisC
+Zone:6,10-14,0,2004,HepatitisC
 Kanchanaburi,10-14,0,2004,HepatitisC
 Nakhon Pathom,10-14,0,2004,HepatitisC
 Ratchaburi,10-14,0,2004,HepatitisC
 Suphan Buri,10-14,0,2004,HepatitisC
-Zone 7,10-14,0,2004,HepatitisC
+Zone:7,10-14,0,2004,HepatitisC
 Phetchaburi,10-14,0,2004,HepatitisC
 Prachuap Khiri Khan,10-14,0,2004,HepatitisC
 Samut Sakhon,10-14,0,2004,HepatitisC
 Samut Songkhram,10-14,0,2004,HepatitisC
-Zone 8,10-14,0,2004,HepatitisC
+Zone:8,10-14,0,2004,HepatitisC
 Chachoengsao,10-14,0,2004,HepatitisC
 Nakhon Nayok,10-14,0,2004,HepatitisC
 Prachin Buri,10-14,0,2004,HepatitisC
 Sa Kaeo,10-14,0,2004,HepatitisC
 Samut Prakan,10-14,0,2004,HepatitisC
-Zone 9,10-14,0,2004,HepatitisC
+Zone:9,10-14,0,2004,HepatitisC
 Chanthaburi,10-14,0,2004,HepatitisC
 Chon Buri,10-14,0,2004,HepatitisC
 Rayong,10-14,0,2004,HepatitisC
 Trat,10-14,0,2004,HepatitisC
 North-Eastern Region,10-14,5,2004,HepatitisC
-Zone 10,10-14,2,2004,HepatitisC
+Zone:10,10-14,2,2004,HepatitisC
 Loei,10-14,1,2004,HepatitisC
 Nong Bua Lam Phu,10-14,0,2004,HepatitisC
 Nong Khai,10-14,1,2004,HepatitisC
 Udon Thani,10-14,0,2004,HepatitisC
-Zone 11,10-14,0,2004,HepatitisC
+Zone:11,10-14,0,2004,HepatitisC
 Kalasin,10-14,0,2004,HepatitisC
 Mukdahan,10-14,0,2004,HepatitisC
 Nakhon Phanom,10-14,0,2004,HepatitisC
 Sakon Nakhon,10-14,0,2004,HepatitisC
-Zone 12,10-14,0,2004,HepatitisC
+Zone:12,10-14,0,2004,HepatitisC
 Khon Kaen,10-14,0,2004,HepatitisC
 Maha Sarakham,10-14,0,2004,HepatitisC
 Roi Et,10-14,0,2004,HepatitisC
-Zone 13,10-14,2,2004,HepatitisC
+Zone:13,10-14,2,2004,HepatitisC
 Buri Ram,10-14,0,2004,HepatitisC
 Chaiyaphum,10-14,1,2004,HepatitisC
 Nakhon Ratchasima,10-14,1,2004,HepatitisC
 Surin,10-14,0,2004,HepatitisC
-Zone 14,10-14,1,2004,HepatitisC
+Zone:14,10-14,1,2004,HepatitisC
 Amnat Charoen,10-14,0,2004,HepatitisC
 Si Sa Ket,10-14,0,2004,HepatitisC
 Ubon Ratchathani,10-14,1,2004,HepatitisC
 Yasothon,10-14,0,2004,HepatitisC
 South Region,10-14,0,2004,HepatitisC
-Zone 15,10-14,0,2004,HepatitisC
+Zone:15,10-14,0,2004,HepatitisC
 Chumphon,10-14,0,2004,HepatitisC
 Ranong,10-14,0,2004,HepatitisC
 Surat Thani,10-14,0,2004,HepatitisC
-Zone 16,10-14,0,2004,HepatitisC
+Zone:16,10-14,0,2004,HepatitisC
 Nakhon Si Thammarat,10-14,0,2004,HepatitisC
 Phatthalung,10-14,0,2004,HepatitisC
 Trang,10-14,0,2004,HepatitisC
-Zone 17,10-14,0,2004,HepatitisC
+Zone:17,10-14,0,2004,HepatitisC
 Krabi,10-14,0,2004,HepatitisC
 Phangnga,10-14,0,2004,HepatitisC
 Phuket,10-14,0,2004,HepatitisC
-Zone 18,10-14,0,2004,HepatitisC
+Zone:18,10-14,0,2004,HepatitisC
 Narathiwat,10-14,0,2004,HepatitisC
 Pattani,10-14,0,2004,HepatitisC
 Yala,10-14,0,2004,HepatitisC
-Zone 19,10-14,0,2004,HepatitisC
+Zone:19,10-14,0,2004,HepatitisC
 Satun,10-14,0,2004,HepatitisC
 Songkhla,10-14,0,2004,HepatitisC
 Total,15-24,25,2004,HepatitisC
 North Region,15-24,4,2004,HepatitisC
-Zone 1,15-24,3,2004,HepatitisC
+Zone:1,15-24,3,2004,HepatitisC
 Chiang Mai,15-24,0,2004,HepatitisC
 Chiang Rai,15-24,0,2004,HepatitisC
 Lampang,15-24,0,2004,HepatitisC
@@ -21918,98 +21918,98 @@ Mae Hong Son,15-24,0,2004,HepatitisC
 Nan,15-24,1,2004,HepatitisC
 Phayao,15-24,2,2004,HepatitisC
 Phrae,15-24,0,2004,HepatitisC
-Zone 2,15-24,1,2004,HepatitisC
+Zone:2,15-24,1,2004,HepatitisC
 Phetchabun,15-24,1,2004,HepatitisC
 Phitsanulok,15-24,0,2004,HepatitisC
 Sukhothai,15-24,0,2004,HepatitisC
 Tak,15-24,0,2004,HepatitisC
 Uttaradit,15-24,0,2004,HepatitisC
-Zone 3,15-24,0,2004,HepatitisC
+Zone:3,15-24,0,2004,HepatitisC
 Kamphaeng Phet,15-24,0,2004,HepatitisC
 Nakhon Sawan,15-24,0,2004,HepatitisC
 Phichit,15-24,0,2004,HepatitisC
 Uthai Thani,15-24,0,2004,HepatitisC
 Central Region,15-24,8,2004,HepatitisC
 Bangkok,15-24,4,2004,HepatitisC
-Zone 4,15-24,3,2004,HepatitisC
+Zone:4,15-24,3,2004,HepatitisC
 Ang Thong,15-24,0,2004,HepatitisC
 Nonthaburi,15-24,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,15-24,3,2004,HepatitisC
 Pathum Thani,15-24,0,2004,HepatitisC
-Zone 5,15-24,0,2004,HepatitisC
+Zone:5,15-24,0,2004,HepatitisC
 Chai Nat,15-24,0,2004,HepatitisC
 Lop Buri,15-24,0,2004,HepatitisC
 Saraburi,15-24,0,2004,HepatitisC
 Sing Buri,15-24,0,2004,HepatitisC
-Zone 6,15-24,0,2004,HepatitisC
+Zone:6,15-24,0,2004,HepatitisC
 Kanchanaburi,15-24,0,2004,HepatitisC
 Nakhon Pathom,15-24,0,2004,HepatitisC
 Ratchaburi,15-24,0,2004,HepatitisC
 Suphan Buri,15-24,0,2004,HepatitisC
-Zone 7,15-24,0,2004,HepatitisC
+Zone:7,15-24,0,2004,HepatitisC
 Phetchaburi,15-24,0,2004,HepatitisC
 Prachuap Khiri Khan,15-24,0,2004,HepatitisC
 Samut Sakhon,15-24,0,2004,HepatitisC
 Samut Songkhram,15-24,0,2004,HepatitisC
-Zone 8,15-24,1,2004,HepatitisC
+Zone:8,15-24,1,2004,HepatitisC
 Chachoengsao,15-24,0,2004,HepatitisC
 Nakhon Nayok,15-24,0,2004,HepatitisC
 Prachin Buri,15-24,0,2004,HepatitisC
 Sa Kaeo,15-24,1,2004,HepatitisC
 Samut Prakan,15-24,0,2004,HepatitisC
-Zone 9,15-24,0,2004,HepatitisC
+Zone:9,15-24,0,2004,HepatitisC
 Chanthaburi,15-24,0,2004,HepatitisC
 Chon Buri,15-24,0,2004,HepatitisC
 Rayong,15-24,0,2004,HepatitisC
 Trat,15-24,0,2004,HepatitisC
 North-Eastern Region,15-24,13,2004,HepatitisC
-Zone 10,15-24,2,2004,HepatitisC
+Zone:10,15-24,2,2004,HepatitisC
 Loei,15-24,0,2004,HepatitisC
 Nong Bua Lam Phu,15-24,2,2004,HepatitisC
 Nong Khai,15-24,0,2004,HepatitisC
 Udon Thani,15-24,0,2004,HepatitisC
-Zone 11,15-24,0,2004,HepatitisC
+Zone:11,15-24,0,2004,HepatitisC
 Kalasin,15-24,0,2004,HepatitisC
 Mukdahan,15-24,0,2004,HepatitisC
 Nakhon Phanom,15-24,0,2004,HepatitisC
 Sakon Nakhon,15-24,0,2004,HepatitisC
-Zone 12,15-24,1,2004,HepatitisC
+Zone:12,15-24,1,2004,HepatitisC
 Khon Kaen,15-24,1,2004,HepatitisC
 Maha Sarakham,15-24,0,2004,HepatitisC
 Roi Et,15-24,0,2004,HepatitisC
-Zone 13,15-24,0,2004,HepatitisC
+Zone:13,15-24,0,2004,HepatitisC
 Buri Ram,15-24,0,2004,HepatitisC
 Chaiyaphum,15-24,0,2004,HepatitisC
 Nakhon Ratchasima,15-24,0,2004,HepatitisC
 Surin,15-24,0,2004,HepatitisC
-Zone 14,15-24,10,2004,HepatitisC
+Zone:14,15-24,10,2004,HepatitisC
 Amnat Charoen,15-24,1,2004,HepatitisC
 Si Sa Ket,15-24,1,2004,HepatitisC
 Ubon Ratchathani,15-24,7,2004,HepatitisC
 Yasothon,15-24,1,2004,HepatitisC
 South Region,15-24,0,2004,HepatitisC
-Zone 15,15-24,0,2004,HepatitisC
+Zone:15,15-24,0,2004,HepatitisC
 Chumphon,15-24,0,2004,HepatitisC
 Ranong,15-24,0,2004,HepatitisC
 Surat Thani,15-24,0,2004,HepatitisC
-Zone 16,15-24,0,2004,HepatitisC
+Zone:16,15-24,0,2004,HepatitisC
 Nakhon Si Thammarat,15-24,0,2004,HepatitisC
 Phatthalung,15-24,0,2004,HepatitisC
 Trang,15-24,0,2004,HepatitisC
-Zone 17,15-24,0,2004,HepatitisC
+Zone:17,15-24,0,2004,HepatitisC
 Krabi,15-24,0,2004,HepatitisC
 Phangnga,15-24,0,2004,HepatitisC
 Phuket,15-24,0,2004,HepatitisC
-Zone 18,15-24,0,2004,HepatitisC
+Zone:18,15-24,0,2004,HepatitisC
 Narathiwat,15-24,0,2004,HepatitisC
 Pattani,15-24,0,2004,HepatitisC
 Yala,15-24,0,2004,HepatitisC
-Zone 19,15-24,0,2004,HepatitisC
+Zone:19,15-24,0,2004,HepatitisC
 Satun,15-24,0,2004,HepatitisC
 Songkhla,15-24,0,2004,HepatitisC
 Total,25-34,60,2004,HepatitisC
 North Region,25-34,14,2004,HepatitisC
-Zone 1,25-34,2,2004,HepatitisC
+Zone:1,25-34,2,2004,HepatitisC
 Chiang Mai,25-34,0,2004,HepatitisC
 Chiang Rai,25-34,0,2004,HepatitisC
 Lampang,25-34,0,2004,HepatitisC
@@ -22018,98 +22018,98 @@ Mae Hong Son,25-34,1,2004,HepatitisC
 Nan,25-34,0,2004,HepatitisC
 Phayao,25-34,1,2004,HepatitisC
 Phrae,25-34,0,2004,HepatitisC
-Zone 2,25-34,12,2004,HepatitisC
+Zone:2,25-34,12,2004,HepatitisC
 Phetchabun,25-34,12,2004,HepatitisC
 Phitsanulok,25-34,0,2004,HepatitisC
 Sukhothai,25-34,0,2004,HepatitisC
 Tak,25-34,0,2004,HepatitisC
 Uttaradit,25-34,0,2004,HepatitisC
-Zone 3,25-34,0,2004,HepatitisC
+Zone:3,25-34,0,2004,HepatitisC
 Kamphaeng Phet,25-34,0,2004,HepatitisC
 Nakhon Sawan,25-34,0,2004,HepatitisC
 Phichit,25-34,0,2004,HepatitisC
 Uthai Thani,25-34,0,2004,HepatitisC
 Central Region,25-34,19,2004,HepatitisC
 Bangkok,25-34,11,2004,HepatitisC
-Zone 4,25-34,1,2004,HepatitisC
+Zone:4,25-34,1,2004,HepatitisC
 Ang Thong,25-34,0,2004,HepatitisC
 Nonthaburi,25-34,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,25-34,1,2004,HepatitisC
 Pathum Thani,25-34,0,2004,HepatitisC
-Zone 5,25-34,0,2004,HepatitisC
+Zone:5,25-34,0,2004,HepatitisC
 Chai Nat,25-34,0,2004,HepatitisC
 Lop Buri,25-34,0,2004,HepatitisC
 Saraburi,25-34,0,2004,HepatitisC
 Sing Buri,25-34,0,2004,HepatitisC
-Zone 6,25-34,1,2004,HepatitisC
+Zone:6,25-34,1,2004,HepatitisC
 Kanchanaburi,25-34,0,2004,HepatitisC
 Nakhon Pathom,25-34,1,2004,HepatitisC
 Ratchaburi,25-34,0,2004,HepatitisC
 Suphan Buri,25-34,0,2004,HepatitisC
-Zone 7,25-34,0,2004,HepatitisC
+Zone:7,25-34,0,2004,HepatitisC
 Phetchaburi,25-34,0,2004,HepatitisC
 Prachuap Khiri Khan,25-34,0,2004,HepatitisC
 Samut Sakhon,25-34,0,2004,HepatitisC
 Samut Songkhram,25-34,0,2004,HepatitisC
-Zone 8,25-34,5,2004,HepatitisC
+Zone:8,25-34,5,2004,HepatitisC
 Chachoengsao,25-34,1,2004,HepatitisC
 Nakhon Nayok,25-34,0,2004,HepatitisC
 Prachin Buri,25-34,4,2004,HepatitisC
 Sa Kaeo,25-34,0,2004,HepatitisC
 Samut Prakan,25-34,0,2004,HepatitisC
-Zone 9,25-34,1,2004,HepatitisC
+Zone:9,25-34,1,2004,HepatitisC
 Chanthaburi,25-34,0,2004,HepatitisC
 Chon Buri,25-34,0,2004,HepatitisC
 Rayong,25-34,1,2004,HepatitisC
 Trat,25-34,0,2004,HepatitisC
 North-Eastern Region,25-34,21,2004,HepatitisC
-Zone 10,25-34,1,2004,HepatitisC
+Zone:10,25-34,1,2004,HepatitisC
 Loei,25-34,0,2004,HepatitisC
 Nong Bua Lam Phu,25-34,0,2004,HepatitisC
 Nong Khai,25-34,0,2004,HepatitisC
 Udon Thani,25-34,1,2004,HepatitisC
-Zone 11,25-34,4,2004,HepatitisC
+Zone:11,25-34,4,2004,HepatitisC
 Kalasin,25-34,1,2004,HepatitisC
 Mukdahan,25-34,2,2004,HepatitisC
 Nakhon Phanom,25-34,0,2004,HepatitisC
 Sakon Nakhon,25-34,1,2004,HepatitisC
-Zone 12,25-34,4,2004,HepatitisC
+Zone:12,25-34,4,2004,HepatitisC
 Khon Kaen,25-34,4,2004,HepatitisC
 Maha Sarakham,25-34,0,2004,HepatitisC
 Roi Et,25-34,0,2004,HepatitisC
-Zone 13,25-34,6,2004,HepatitisC
+Zone:13,25-34,6,2004,HepatitisC
 Buri Ram,25-34,0,2004,HepatitisC
 Chaiyaphum,25-34,3,2004,HepatitisC
 Nakhon Ratchasima,25-34,1,2004,HepatitisC
 Surin,25-34,2,2004,HepatitisC
-Zone 14,25-34,6,2004,HepatitisC
+Zone:14,25-34,6,2004,HepatitisC
 Amnat Charoen,25-34,1,2004,HepatitisC
 Si Sa Ket,25-34,2,2004,HepatitisC
 Ubon Ratchathani,25-34,3,2004,HepatitisC
 Yasothon,25-34,0,2004,HepatitisC
 South Region,25-34,6,2004,HepatitisC
-Zone 15,25-34,1,2004,HepatitisC
+Zone:15,25-34,1,2004,HepatitisC
 Chumphon,25-34,0,2004,HepatitisC
 Ranong,25-34,0,2004,HepatitisC
 Surat Thani,25-34,1,2004,HepatitisC
-Zone 16,25-34,1,2004,HepatitisC
+Zone:16,25-34,1,2004,HepatitisC
 Nakhon Si Thammarat,25-34,0,2004,HepatitisC
 Phatthalung,25-34,0,2004,HepatitisC
 Trang,25-34,1,2004,HepatitisC
-Zone 17,25-34,0,2004,HepatitisC
+Zone:17,25-34,0,2004,HepatitisC
 Krabi,25-34,0,2004,HepatitisC
 Phangnga,25-34,0,2004,HepatitisC
 Phuket,25-34,0,2004,HepatitisC
-Zone 18,25-34,2,2004,HepatitisC
+Zone:18,25-34,2,2004,HepatitisC
 Narathiwat,25-34,0,2004,HepatitisC
 Pattani,25-34,0,2004,HepatitisC
 Yala,25-34,2,2004,HepatitisC
-Zone 19,25-34,2,2004,HepatitisC
+Zone:19,25-34,2,2004,HepatitisC
 Satun,25-34,0,2004,HepatitisC
 Songkhla,25-34,2,2004,HepatitisC
 Total,35-44,75,2004,HepatitisC
 North Region,35-44,15,2004,HepatitisC
-Zone 1,35-44,6,2004,HepatitisC
+Zone:1,35-44,6,2004,HepatitisC
 Chiang Mai,35-44,0,2004,HepatitisC
 Chiang Rai,35-44,1,2004,HepatitisC
 Lampang,35-44,1,2004,HepatitisC
@@ -22118,98 +22118,98 @@ Mae Hong Son,35-44,1,2004,HepatitisC
 Nan,35-44,0,2004,HepatitisC
 Phayao,35-44,2,2004,HepatitisC
 Phrae,35-44,1,2004,HepatitisC
-Zone 2,35-44,9,2004,HepatitisC
+Zone:2,35-44,9,2004,HepatitisC
 Phetchabun,35-44,5,2004,HepatitisC
 Phitsanulok,35-44,0,2004,HepatitisC
 Sukhothai,35-44,1,2004,HepatitisC
 Tak,35-44,2,2004,HepatitisC
 Uttaradit,35-44,1,2004,HepatitisC
-Zone 3,35-44,0,2004,HepatitisC
+Zone:3,35-44,0,2004,HepatitisC
 Kamphaeng Phet,35-44,0,2004,HepatitisC
 Nakhon Sawan,35-44,0,2004,HepatitisC
 Phichit,35-44,0,2004,HepatitisC
 Uthai Thani,35-44,0,2004,HepatitisC
 Central Region,35-44,26,2004,HepatitisC
 Bangkok,35-44,19,2004,HepatitisC
-Zone 4,35-44,2,2004,HepatitisC
+Zone:4,35-44,2,2004,HepatitisC
 Ang Thong,35-44,0,2004,HepatitisC
 Nonthaburi,35-44,2,2004,HepatitisC
 P.Nakhon S.Ayutthaya,35-44,0,2004,HepatitisC
 Pathum Thani,35-44,0,2004,HepatitisC
-Zone 5,35-44,0,2004,HepatitisC
+Zone:5,35-44,0,2004,HepatitisC
 Chai Nat,35-44,0,2004,HepatitisC
 Lop Buri,35-44,0,2004,HepatitisC
 Saraburi,35-44,0,2004,HepatitisC
 Sing Buri,35-44,0,2004,HepatitisC
-Zone 6,35-44,1,2004,HepatitisC
+Zone:6,35-44,1,2004,HepatitisC
 Kanchanaburi,35-44,0,2004,HepatitisC
 Nakhon Pathom,35-44,1,2004,HepatitisC
 Ratchaburi,35-44,0,2004,HepatitisC
 Suphan Buri,35-44,0,2004,HepatitisC
-Zone 7,35-44,1,2004,HepatitisC
+Zone:7,35-44,1,2004,HepatitisC
 Phetchaburi,35-44,0,2004,HepatitisC
 Prachuap Khiri Khan,35-44,0,2004,HepatitisC
 Samut Sakhon,35-44,1,2004,HepatitisC
 Samut Songkhram,35-44,0,2004,HepatitisC
-Zone 8,35-44,3,2004,HepatitisC
+Zone:8,35-44,3,2004,HepatitisC
 Chachoengsao,35-44,0,2004,HepatitisC
 Nakhon Nayok,35-44,0,2004,HepatitisC
 Prachin Buri,35-44,1,2004,HepatitisC
 Sa Kaeo,35-44,2,2004,HepatitisC
 Samut Prakan,35-44,0,2004,HepatitisC
-Zone 9,35-44,0,2004,HepatitisC
+Zone:9,35-44,0,2004,HepatitisC
 Chanthaburi,35-44,0,2004,HepatitisC
 Chon Buri,35-44,0,2004,HepatitisC
 Rayong,35-44,0,2004,HepatitisC
 Trat,35-44,0,2004,HepatitisC
 North-Eastern Region,35-44,29,2004,HepatitisC
-Zone 10,35-44,10,2004,HepatitisC
+Zone:10,35-44,10,2004,HepatitisC
 Loei,35-44,2,2004,HepatitisC
 Nong Bua Lam Phu,35-44,1,2004,HepatitisC
 Nong Khai,35-44,4,2004,HepatitisC
 Udon Thani,35-44,3,2004,HepatitisC
-Zone 11,35-44,0,2004,HepatitisC
+Zone:11,35-44,0,2004,HepatitisC
 Kalasin,35-44,0,2004,HepatitisC
 Mukdahan,35-44,0,2004,HepatitisC
 Nakhon Phanom,35-44,0,2004,HepatitisC
 Sakon Nakhon,35-44,0,2004,HepatitisC
-Zone 12,35-44,8,2004,HepatitisC
+Zone:12,35-44,8,2004,HepatitisC
 Khon Kaen,35-44,7,2004,HepatitisC
 Maha Sarakham,35-44,1,2004,HepatitisC
 Roi Et,35-44,0,2004,HepatitisC
-Zone 13,35-44,2,2004,HepatitisC
+Zone:13,35-44,2,2004,HepatitisC
 Buri Ram,35-44,0,2004,HepatitisC
 Chaiyaphum,35-44,2,2004,HepatitisC
 Nakhon Ratchasima,35-44,0,2004,HepatitisC
 Surin,35-44,0,2004,HepatitisC
-Zone 14,35-44,9,2004,HepatitisC
+Zone:14,35-44,9,2004,HepatitisC
 Amnat Charoen,35-44,1,2004,HepatitisC
 Si Sa Ket,35-44,2,2004,HepatitisC
 Ubon Ratchathani,35-44,5,2004,HepatitisC
 Yasothon,35-44,1,2004,HepatitisC
 South Region,35-44,5,2004,HepatitisC
-Zone 15,35-44,1,2004,HepatitisC
+Zone:15,35-44,1,2004,HepatitisC
 Chumphon,35-44,0,2004,HepatitisC
 Ranong,35-44,0,2004,HepatitisC
 Surat Thani,35-44,1,2004,HepatitisC
-Zone 16,35-44,1,2004,HepatitisC
+Zone:16,35-44,1,2004,HepatitisC
 Nakhon Si Thammarat,35-44,0,2004,HepatitisC
 Phatthalung,35-44,1,2004,HepatitisC
 Trang,35-44,0,2004,HepatitisC
-Zone 17,35-44,2,2004,HepatitisC
+Zone:17,35-44,2,2004,HepatitisC
 Krabi,35-44,2,2004,HepatitisC
 Phangnga,35-44,0,2004,HepatitisC
 Phuket,35-44,0,2004,HepatitisC
-Zone 18,35-44,0,2004,HepatitisC
+Zone:18,35-44,0,2004,HepatitisC
 Narathiwat,35-44,0,2004,HepatitisC
 Pattani,35-44,0,2004,HepatitisC
 Yala,35-44,0,2004,HepatitisC
-Zone 19,35-44,1,2004,HepatitisC
+Zone:19,35-44,1,2004,HepatitisC
 Satun,35-44,0,2004,HepatitisC
 Songkhla,35-44,1,2004,HepatitisC
 Total,45-54,102,2004,HepatitisC
 North Region,45-54,16,2004,HepatitisC
-Zone 1,45-54,4,2004,HepatitisC
+Zone:1,45-54,4,2004,HepatitisC
 Chiang Mai,45-54,0,2004,HepatitisC
 Chiang Rai,45-54,0,2004,HepatitisC
 Lampang,45-54,0,2004,HepatitisC
@@ -22218,98 +22218,98 @@ Mae Hong Son,45-54,1,2004,HepatitisC
 Nan,45-54,0,2004,HepatitisC
 Phayao,45-54,1,2004,HepatitisC
 Phrae,45-54,0,2004,HepatitisC
-Zone 2,45-54,11,2004,HepatitisC
+Zone:2,45-54,11,2004,HepatitisC
 Phetchabun,45-54,7,2004,HepatitisC
 Phitsanulok,45-54,0,2004,HepatitisC
 Sukhothai,45-54,1,2004,HepatitisC
 Tak,45-54,2,2004,HepatitisC
 Uttaradit,45-54,1,2004,HepatitisC
-Zone 3,45-54,1,2004,HepatitisC
+Zone:3,45-54,1,2004,HepatitisC
 Kamphaeng Phet,45-54,0,2004,HepatitisC
 Nakhon Sawan,45-54,1,2004,HepatitisC
 Phichit,45-54,0,2004,HepatitisC
 Uthai Thani,45-54,0,2004,HepatitisC
 Central Region,45-54,46,2004,HepatitisC
 Bangkok,45-54,27,2004,HepatitisC
-Zone 4,45-54,3,2004,HepatitisC
+Zone:4,45-54,3,2004,HepatitisC
 Ang Thong,45-54,0,2004,HepatitisC
 Nonthaburi,45-54,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,45-54,1,2004,HepatitisC
 Pathum Thani,45-54,2,2004,HepatitisC
-Zone 5,45-54,0,2004,HepatitisC
+Zone:5,45-54,0,2004,HepatitisC
 Chai Nat,45-54,0,2004,HepatitisC
 Lop Buri,45-54,0,2004,HepatitisC
 Saraburi,45-54,0,2004,HepatitisC
 Sing Buri,45-54,0,2004,HepatitisC
-Zone 6,45-54,5,2004,HepatitisC
+Zone:6,45-54,5,2004,HepatitisC
 Kanchanaburi,45-54,0,2004,HepatitisC
 Nakhon Pathom,45-54,5,2004,HepatitisC
 Ratchaburi,45-54,0,2004,HepatitisC
 Suphan Buri,45-54,0,2004,HepatitisC
-Zone 7,45-54,2,2004,HepatitisC
+Zone:7,45-54,2,2004,HepatitisC
 Phetchaburi,45-54,0,2004,HepatitisC
 Prachuap Khiri Khan,45-54,1,2004,HepatitisC
 Samut Sakhon,45-54,1,2004,HepatitisC
 Samut Songkhram,45-54,0,2004,HepatitisC
-Zone 8,45-54,6,2004,HepatitisC
+Zone:8,45-54,6,2004,HepatitisC
 Chachoengsao,45-54,1,2004,HepatitisC
 Nakhon Nayok,45-54,0,2004,HepatitisC
 Prachin Buri,45-54,2,2004,HepatitisC
 Sa Kaeo,45-54,3,2004,HepatitisC
 Samut Prakan,45-54,0,2004,HepatitisC
-Zone 9,45-54,3,2004,HepatitisC
+Zone:9,45-54,3,2004,HepatitisC
 Chanthaburi,45-54,0,2004,HepatitisC
 Chon Buri,45-54,1,2004,HepatitisC
 Rayong,45-54,1,2004,HepatitisC
 Trat,45-54,1,2004,HepatitisC
 North-Eastern Region,45-54,32,2004,HepatitisC
-Zone 10,45-54,6,2004,HepatitisC
+Zone:10,45-54,6,2004,HepatitisC
 Loei,45-54,0,2004,HepatitisC
 Nong Bua Lam Phu,45-54,2,2004,HepatitisC
 Nong Khai,45-54,0,2004,HepatitisC
 Udon Thani,45-54,4,2004,HepatitisC
-Zone 11,45-54,2,2004,HepatitisC
+Zone:11,45-54,2,2004,HepatitisC
 Kalasin,45-54,1,2004,HepatitisC
 Mukdahan,45-54,0,2004,HepatitisC
 Nakhon Phanom,45-54,1,2004,HepatitisC
 Sakon Nakhon,45-54,0,2004,HepatitisC
-Zone 12,45-54,5,2004,HepatitisC
+Zone:12,45-54,5,2004,HepatitisC
 Khon Kaen,45-54,5,2004,HepatitisC
 Maha Sarakham,45-54,0,2004,HepatitisC
 Roi Et,45-54,0,2004,HepatitisC
-Zone 13,45-54,8,2004,HepatitisC
+Zone:13,45-54,8,2004,HepatitisC
 Buri Ram,45-54,0,2004,HepatitisC
 Chaiyaphum,45-54,6,2004,HepatitisC
 Nakhon Ratchasima,45-54,2,2004,HepatitisC
 Surin,45-54,0,2004,HepatitisC
-Zone 14,45-54,11,2004,HepatitisC
+Zone:14,45-54,11,2004,HepatitisC
 Amnat Charoen,45-54,1,2004,HepatitisC
 Si Sa Ket,45-54,3,2004,HepatitisC
 Ubon Ratchathani,45-54,6,2004,HepatitisC
 Yasothon,45-54,1,2004,HepatitisC
 South Region,45-54,8,2004,HepatitisC
-Zone 15,45-54,2,2004,HepatitisC
+Zone:15,45-54,2,2004,HepatitisC
 Chumphon,45-54,0,2004,HepatitisC
 Ranong,45-54,0,2004,HepatitisC
 Surat Thani,45-54,2,2004,HepatitisC
-Zone 16,45-54,0,2004,HepatitisC
+Zone:16,45-54,0,2004,HepatitisC
 Nakhon Si Thammarat,45-54,0,2004,HepatitisC
 Phatthalung,45-54,0,2004,HepatitisC
 Trang,45-54,0,2004,HepatitisC
-Zone 17,45-54,1,2004,HepatitisC
+Zone:17,45-54,1,2004,HepatitisC
 Krabi,45-54,0,2004,HepatitisC
 Phangnga,45-54,0,2004,HepatitisC
 Phuket,45-54,1,2004,HepatitisC
-Zone 18,45-54,1,2004,HepatitisC
+Zone:18,45-54,1,2004,HepatitisC
 Narathiwat,45-54,0,2004,HepatitisC
 Pattani,45-54,1,2004,HepatitisC
 Yala,45-54,0,2004,HepatitisC
-Zone 19,45-54,4,2004,HepatitisC
+Zone:19,45-54,4,2004,HepatitisC
 Satun,45-54,0,2004,HepatitisC
 Songkhla,45-54,4,2004,HepatitisC
 Total,55-64,51,2004,HepatitisC
 North Region,55-64,11,2004,HepatitisC
-Zone 1,55-64,4,2004,HepatitisC
+Zone:1,55-64,4,2004,HepatitisC
 Chiang Mai,55-64,2,2004,HepatitisC
 Chiang Rai,55-64,0,2004,HepatitisC
 Lampang,55-64,0,2004,HepatitisC
@@ -22318,98 +22318,98 @@ Mae Hong Son,55-64,0,2004,HepatitisC
 Nan,55-64,1,2004,HepatitisC
 Phayao,55-64,1,2004,HepatitisC
 Phrae,55-64,0,2004,HepatitisC
-Zone 2,55-64,7,2004,HepatitisC
+Zone:2,55-64,7,2004,HepatitisC
 Phetchabun,55-64,5,2004,HepatitisC
 Phitsanulok,55-64,0,2004,HepatitisC
 Sukhothai,55-64,1,2004,HepatitisC
 Tak,55-64,0,2004,HepatitisC
 Uttaradit,55-64,1,2004,HepatitisC
-Zone 3,55-64,0,2004,HepatitisC
+Zone:3,55-64,0,2004,HepatitisC
 Kamphaeng Phet,55-64,0,2004,HepatitisC
 Nakhon Sawan,55-64,0,2004,HepatitisC
 Phichit,55-64,0,2004,HepatitisC
 Uthai Thani,55-64,0,2004,HepatitisC
 Central Region,55-64,25,2004,HepatitisC
 Bangkok,55-64,15,2004,HepatitisC
-Zone 4,55-64,2,2004,HepatitisC
+Zone:4,55-64,2,2004,HepatitisC
 Ang Thong,55-64,0,2004,HepatitisC
 Nonthaburi,55-64,1,2004,HepatitisC
 P.Nakhon S.Ayutthaya,55-64,1,2004,HepatitisC
 Pathum Thani,55-64,0,2004,HepatitisC
-Zone 5,55-64,2,2004,HepatitisC
+Zone:5,55-64,2,2004,HepatitisC
 Chai Nat,55-64,0,2004,HepatitisC
 Lop Buri,55-64,1,2004,HepatitisC
 Saraburi,55-64,0,2004,HepatitisC
 Sing Buri,55-64,1,2004,HepatitisC
-Zone 6,55-64,2,2004,HepatitisC
+Zone:6,55-64,2,2004,HepatitisC
 Kanchanaburi,55-64,0,2004,HepatitisC
 Nakhon Pathom,55-64,2,2004,HepatitisC
 Ratchaburi,55-64,0,2004,HepatitisC
 Suphan Buri,55-64,0,2004,HepatitisC
-Zone 7,55-64,0,2004,HepatitisC
+Zone:7,55-64,0,2004,HepatitisC
 Phetchaburi,55-64,0,2004,HepatitisC
 Prachuap Khiri Khan,55-64,0,2004,HepatitisC
 Samut Sakhon,55-64,0,2004,HepatitisC
 Samut Songkhram,55-64,0,2004,HepatitisC
-Zone 8,55-64,2,2004,HepatitisC
+Zone:8,55-64,2,2004,HepatitisC
 Chachoengsao,55-64,0,2004,HepatitisC
 Nakhon Nayok,55-64,0,2004,HepatitisC
 Prachin Buri,55-64,1,2004,HepatitisC
 Sa Kaeo,55-64,1,2004,HepatitisC
 Samut Prakan,55-64,0,2004,HepatitisC
-Zone 9,55-64,2,2004,HepatitisC
+Zone:9,55-64,2,2004,HepatitisC
 Chanthaburi,55-64,0,2004,HepatitisC
 Chon Buri,55-64,0,2004,HepatitisC
 Rayong,55-64,1,2004,HepatitisC
 Trat,55-64,1,2004,HepatitisC
 North-Eastern Region,55-64,9,2004,HepatitisC
-Zone 10,55-64,3,2004,HepatitisC
+Zone:10,55-64,3,2004,HepatitisC
 Loei,55-64,0,2004,HepatitisC
 Nong Bua Lam Phu,55-64,0,2004,HepatitisC
 Nong Khai,55-64,0,2004,HepatitisC
 Udon Thani,55-64,3,2004,HepatitisC
-Zone 11,55-64,2,2004,HepatitisC
+Zone:11,55-64,2,2004,HepatitisC
 Kalasin,55-64,1,2004,HepatitisC
 Mukdahan,55-64,0,2004,HepatitisC
 Nakhon Phanom,55-64,0,2004,HepatitisC
 Sakon Nakhon,55-64,1,2004,HepatitisC
-Zone 12,55-64,1,2004,HepatitisC
+Zone:12,55-64,1,2004,HepatitisC
 Khon Kaen,55-64,1,2004,HepatitisC
 Maha Sarakham,55-64,0,2004,HepatitisC
 Roi Et,55-64,0,2004,HepatitisC
-Zone 13,55-64,1,2004,HepatitisC
+Zone:13,55-64,1,2004,HepatitisC
 Buri Ram,55-64,0,2004,HepatitisC
 Chaiyaphum,55-64,0,2004,HepatitisC
 Nakhon Ratchasima,55-64,1,2004,HepatitisC
 Surin,55-64,0,2004,HepatitisC
-Zone 14,55-64,2,2004,HepatitisC
+Zone:14,55-64,2,2004,HepatitisC
 Amnat Charoen,55-64,0,2004,HepatitisC
 Si Sa Ket,55-64,1,2004,HepatitisC
 Ubon Ratchathani,55-64,1,2004,HepatitisC
 Yasothon,55-64,0,2004,HepatitisC
 South Region,55-64,6,2004,HepatitisC
-Zone 15,55-64,1,2004,HepatitisC
+Zone:15,55-64,1,2004,HepatitisC
 Chumphon,55-64,0,2004,HepatitisC
 Ranong,55-64,0,2004,HepatitisC
 Surat Thani,55-64,1,2004,HepatitisC
-Zone 16,55-64,0,2004,HepatitisC
+Zone:16,55-64,0,2004,HepatitisC
 Nakhon Si Thammarat,55-64,0,2004,HepatitisC
 Phatthalung,55-64,0,2004,HepatitisC
 Trang,55-64,0,2004,HepatitisC
-Zone 17,55-64,2,2004,HepatitisC
+Zone:17,55-64,2,2004,HepatitisC
 Krabi,55-64,0,2004,HepatitisC
 Phangnga,55-64,0,2004,HepatitisC
 Phuket,55-64,2,2004,HepatitisC
-Zone 18,55-64,0,2004,HepatitisC
+Zone:18,55-64,0,2004,HepatitisC
 Narathiwat,55-64,0,2004,HepatitisC
 Pattani,55-64,0,2004,HepatitisC
 Yala,55-64,0,2004,HepatitisC
-Zone 19,55-64,3,2004,HepatitisC
+Zone:19,55-64,3,2004,HepatitisC
 Satun,55-64,0,2004,HepatitisC
 Songkhla,55-64,3,2004,HepatitisC
 Total,65+,31,2004,HepatitisC
 North Region,65+,8,2004,HepatitisC
-Zone 1,65+,2,2004,HepatitisC
+Zone:1,65+,2,2004,HepatitisC
 Chiang Mai,65+,0,2004,HepatitisC
 Chiang Rai,65+,1,2004,HepatitisC
 Lampang,65+,0,2004,HepatitisC
@@ -22418,98 +22418,98 @@ Mae Hong Son,65+,0,2004,HepatitisC
 Nan,65+,0,2004,HepatitisC
 Phayao,65+,1,2004,HepatitisC
 Phrae,65+,0,2004,HepatitisC
-Zone 2,65+,6,2004,HepatitisC
+Zone:2,65+,6,2004,HepatitisC
 Phetchabun,65+,4,2004,HepatitisC
 Phitsanulok,65+,0,2004,HepatitisC
 Sukhothai,65+,0,2004,HepatitisC
 Tak,65+,0,2004,HepatitisC
 Uttaradit,65+,2,2004,HepatitisC
-Zone 3,65+,0,2004,HepatitisC
+Zone:3,65+,0,2004,HepatitisC
 Kamphaeng Phet,65+,0,2004,HepatitisC
 Nakhon Sawan,65+,0,2004,HepatitisC
 Phichit,65+,0,2004,HepatitisC
 Uthai Thani,65+,0,2004,HepatitisC
 Central Region,65+,11,2004,HepatitisC
 Bangkok,65+,1,2004,HepatitisC
-Zone 4,65+,2,2004,HepatitisC
+Zone:4,65+,2,2004,HepatitisC
 Ang Thong,65+,1,2004,HepatitisC
 Nonthaburi,65+,1,2004,HepatitisC
 P.Nakhon S.Ayutthaya,65+,0,2004,HepatitisC
 Pathum Thani,65+,0,2004,HepatitisC
-Zone 5,65+,0,2004,HepatitisC
+Zone:5,65+,0,2004,HepatitisC
 Chai Nat,65+,0,2004,HepatitisC
 Lop Buri,65+,0,2004,HepatitisC
 Saraburi,65+,0,2004,HepatitisC
 Sing Buri,65+,0,2004,HepatitisC
-Zone 6,65+,3,2004,HepatitisC
+Zone:6,65+,3,2004,HepatitisC
 Kanchanaburi,65+,0,2004,HepatitisC
 Nakhon Pathom,65+,3,2004,HepatitisC
 Ratchaburi,65+,0,2004,HepatitisC
 Suphan Buri,65+,0,2004,HepatitisC
-Zone 7,65+,0,2004,HepatitisC
+Zone:7,65+,0,2004,HepatitisC
 Phetchaburi,65+,0,2004,HepatitisC
 Prachuap Khiri Khan,65+,0,2004,HepatitisC
 Samut Sakhon,65+,0,2004,HepatitisC
 Samut Songkhram,65+,0,2004,HepatitisC
-Zone 8,65+,2,2004,HepatitisC
+Zone:8,65+,2,2004,HepatitisC
 Chachoengsao,65+,0,2004,HepatitisC
 Nakhon Nayok,65+,0,2004,HepatitisC
 Prachin Buri,65+,1,2004,HepatitisC
 Sa Kaeo,65+,1,2004,HepatitisC
 Samut Prakan,65+,0,2004,HepatitisC
-Zone 9,65+,3,2004,HepatitisC
+Zone:9,65+,3,2004,HepatitisC
 Chanthaburi,65+,0,2004,HepatitisC
 Chon Buri,65+,0,2004,HepatitisC
 Rayong,65+,0,2004,HepatitisC
 Trat,65+,3,2004,HepatitisC
 North-Eastern Region,65+,11,2004,HepatitisC
-Zone 10,65+,2,2004,HepatitisC
+Zone:10,65+,2,2004,HepatitisC
 Loei,65+,0,2004,HepatitisC
 Nong Bua Lam Phu,65+,2,2004,HepatitisC
 Nong Khai,65+,0,2004,HepatitisC
 Udon Thani,65+,0,2004,HepatitisC
-Zone 11,65+,0,2004,HepatitisC
+Zone:11,65+,0,2004,HepatitisC
 Kalasin,65+,0,2004,HepatitisC
 Mukdahan,65+,0,2004,HepatitisC
 Nakhon Phanom,65+,0,2004,HepatitisC
 Sakon Nakhon,65+,0,2004,HepatitisC
-Zone 12,65+,0,2004,HepatitisC
+Zone:12,65+,0,2004,HepatitisC
 Khon Kaen,65+,0,2004,HepatitisC
 Maha Sarakham,65+,0,2004,HepatitisC
 Roi Et,65+,0,2004,HepatitisC
-Zone 13,65+,3,2004,HepatitisC
+Zone:13,65+,3,2004,HepatitisC
 Buri Ram,65+,0,2004,HepatitisC
 Chaiyaphum,65+,0,2004,HepatitisC
 Nakhon Ratchasima,65+,1,2004,HepatitisC
 Surin,65+,2,2004,HepatitisC
-Zone 14,65+,6,2004,HepatitisC
+Zone:14,65+,6,2004,HepatitisC
 Amnat Charoen,65+,0,2004,HepatitisC
 Si Sa Ket,65+,1,2004,HepatitisC
 Ubon Ratchathani,65+,4,2004,HepatitisC
 Yasothon,65+,1,2004,HepatitisC
 South Region,65+,1,2004,HepatitisC
-Zone 15,65+,0,2004,HepatitisC
+Zone:15,65+,0,2004,HepatitisC
 Chumphon,65+,0,2004,HepatitisC
 Ranong,65+,0,2004,HepatitisC
 Surat Thani,65+,0,2004,HepatitisC
-Zone 16,65+,0,2004,HepatitisC
+Zone:16,65+,0,2004,HepatitisC
 Nakhon Si Thammarat,65+,0,2004,HepatitisC
 Phatthalung,65+,0,2004,HepatitisC
 Trang,65+,0,2004,HepatitisC
-Zone 17,65+,1,2004,HepatitisC
+Zone:17,65+,1,2004,HepatitisC
 Krabi,65+,0,2004,HepatitisC
 Phangnga,65+,0,2004,HepatitisC
 Phuket,65+,1,2004,HepatitisC
-Zone 18,65+,0,2004,HepatitisC
+Zone:18,65+,0,2004,HepatitisC
 Narathiwat,65+,0,2004,HepatitisC
 Pattani,65+,0,2004,HepatitisC
 Yala,65+,0,2004,HepatitisC
-Zone 19,65+,0,2004,HepatitisC
+Zone:19,65+,0,2004,HepatitisC
 Satun,65+,0,2004,HepatitisC
 Songkhla,65+,0,2004,HepatitisC
 Total,Unknown,3,2004,HepatitisC
 North Region,Unknown,0,2004,HepatitisC
-Zone 1,Unknown,0,2004,HepatitisC
+Zone:1,Unknown,0,2004,HepatitisC
 Chiang Mai,Unknown,0,2004,HepatitisC
 Chiang Rai,Unknown,0,2004,HepatitisC
 Lampang,Unknown,0,2004,HepatitisC
@@ -22518,93 +22518,93 @@ Mae Hong Son,Unknown,0,2004,HepatitisC
 Nan,Unknown,0,2004,HepatitisC
 Phayao,Unknown,0,2004,HepatitisC
 Phrae,Unknown,0,2004,HepatitisC
-Zone 2,Unknown,0,2004,HepatitisC
+Zone:2,Unknown,0,2004,HepatitisC
 Phetchabun,Unknown,0,2004,HepatitisC
 Phitsanulok,Unknown,0,2004,HepatitisC
 Sukhothai,Unknown,0,2004,HepatitisC
 Tak,Unknown,0,2004,HepatitisC
 Uttaradit,Unknown,0,2004,HepatitisC
-Zone 3,Unknown,0,2004,HepatitisC
+Zone:3,Unknown,0,2004,HepatitisC
 Kamphaeng Phet,Unknown,0,2004,HepatitisC
 Nakhon Sawan,Unknown,0,2004,HepatitisC
 Phichit,Unknown,0,2004,HepatitisC
 Uthai Thani,Unknown,0,2004,HepatitisC
 Central Region,Unknown,3,2004,HepatitisC
 Bangkok,Unknown,3,2004,HepatitisC
-Zone 4,Unknown,0,2004,HepatitisC
+Zone:4,Unknown,0,2004,HepatitisC
 Ang Thong,Unknown,0,2004,HepatitisC
 Nonthaburi,Unknown,0,2004,HepatitisC
 P.Nakhon S.Ayutthaya,Unknown,0,2004,HepatitisC
 Pathum Thani,Unknown,0,2004,HepatitisC
-Zone 5,Unknown,0,2004,HepatitisC
+Zone:5,Unknown,0,2004,HepatitisC
 Chai Nat,Unknown,0,2004,HepatitisC
 Lop Buri,Unknown,0,2004,HepatitisC
 Saraburi,Unknown,0,2004,HepatitisC
 Sing Buri,Unknown,0,2004,HepatitisC
-Zone 6,Unknown,0,2004,HepatitisC
+Zone:6,Unknown,0,2004,HepatitisC
 Kanchanaburi,Unknown,0,2004,HepatitisC
 Nakhon Pathom,Unknown,0,2004,HepatitisC
 Ratchaburi,Unknown,0,2004,HepatitisC
 Suphan Buri,Unknown,0,2004,HepatitisC
-Zone 7,Unknown,0,2004,HepatitisC
+Zone:7,Unknown,0,2004,HepatitisC
 Phetchaburi,Unknown,0,2004,HepatitisC
 Prachuap Khiri Khan,Unknown,0,2004,HepatitisC
 Samut Sakhon,Unknown,0,2004,HepatitisC
 Samut Songkhram,Unknown,0,2004,HepatitisC
-Zone 8,Unknown,0,2004,HepatitisC
+Zone:8,Unknown,0,2004,HepatitisC
 Chachoengsao,Unknown,0,2004,HepatitisC
 Nakhon Nayok,Unknown,0,2004,HepatitisC
 Prachin Buri,Unknown,0,2004,HepatitisC
 Sa Kaeo,Unknown,0,2004,HepatitisC
 Samut Prakan,Unknown,0,2004,HepatitisC
-Zone 9,Unknown,0,2004,HepatitisC
+Zone:9,Unknown,0,2004,HepatitisC
 Chanthaburi,Unknown,0,2004,HepatitisC
 Chon Buri,Unknown,0,2004,HepatitisC
 Rayong,Unknown,0,2004,HepatitisC
 Trat,Unknown,0,2004,HepatitisC
 North-Eastern Region,Unknown,0,2004,HepatitisC
-Zone 10,Unknown,0,2004,HepatitisC
+Zone:10,Unknown,0,2004,HepatitisC
 Loei,Unknown,0,2004,HepatitisC
 Nong Bua Lam Phu,Unknown,0,2004,HepatitisC
 Nong Khai,Unknown,0,2004,HepatitisC
 Udon Thani,Unknown,0,2004,HepatitisC
-Zone 11,Unknown,0,2004,HepatitisC
+Zone:11,Unknown,0,2004,HepatitisC
 Kalasin,Unknown,0,2004,HepatitisC
 Mukdahan,Unknown,0,2004,HepatitisC
 Nakhon Phanom,Unknown,0,2004,HepatitisC
 Sakon Nakhon,Unknown,0,2004,HepatitisC
-Zone 12,Unknown,0,2004,HepatitisC
+Zone:12,Unknown,0,2004,HepatitisC
 Khon Kaen,Unknown,0,2004,HepatitisC
 Maha Sarakham,Unknown,0,2004,HepatitisC
 Roi Et,Unknown,0,2004,HepatitisC
-Zone 13,Unknown,0,2004,HepatitisC
+Zone:13,Unknown,0,2004,HepatitisC
 Buri Ram,Unknown,0,2004,HepatitisC
 Chaiyaphum,Unknown,0,2004,HepatitisC
 Nakhon Ratchasima,Unknown,0,2004,HepatitisC
 Surin,Unknown,0,2004,HepatitisC
-Zone 14,Unknown,0,2004,HepatitisC
+Zone:14,Unknown,0,2004,HepatitisC
 Amnat Charoen,Unknown,0,2004,HepatitisC
 Si Sa Ket,Unknown,0,2004,HepatitisC
 Ubon Ratchathani,Unknown,0,2004,HepatitisC
 Yasothon,Unknown,0,2004,HepatitisC
 South Region,Unknown,0,2004,HepatitisC
-Zone 15,Unknown,0,2004,HepatitisC
+Zone:15,Unknown,0,2004,HepatitisC
 Chumphon,Unknown,0,2004,HepatitisC
 Ranong,Unknown,0,2004,HepatitisC
 Surat Thani,Unknown,0,2004,HepatitisC
-Zone 16,Unknown,0,2004,HepatitisC
+Zone:16,Unknown,0,2004,HepatitisC
 Nakhon Si Thammarat,Unknown,0,2004,HepatitisC
 Phatthalung,Unknown,0,2004,HepatitisC
 Trang,Unknown,0,2004,HepatitisC
-Zone 17,Unknown,0,2004,HepatitisC
+Zone:17,Unknown,0,2004,HepatitisC
 Krabi,Unknown,0,2004,HepatitisC
 Phangnga,Unknown,0,2004,HepatitisC
 Phuket,Unknown,0,2004,HepatitisC
-Zone 18,Unknown,0,2004,HepatitisC
+Zone:18,Unknown,0,2004,HepatitisC
 Narathiwat,Unknown,0,2004,HepatitisC
 Pattani,Unknown,0,2004,HepatitisC
 Yala,Unknown,0,2004,HepatitisC
-Zone 19,Unknown,0,2004,HepatitisC
+Zone:19,Unknown,0,2004,HepatitisC
 Satun,Unknown,0,2004,HepatitisC
 Songkhla,Unknown,0,2004,HepatitisC
 Total,Total,350,2014,HepatitisC
@@ -29485,7 +29485,7 @@ ZONE:13,Unknown,0,2016,HepatitisC
 Bangkok,Unknown,0,2016,HepatitisC
 Total,Total,270,2003,HepatitisC
 North Region,Total,75,2003,HepatitisC
-Zone 1,Total,52,2003,HepatitisC
+Zone:1,Total,52,2003,HepatitisC
 Chiang Mai,Total,3,2003,HepatitisC
 Chiang Rai,Total,6,2003,HepatitisC
 Lampang,Total,1,2003,HepatitisC
@@ -29494,98 +29494,98 @@ Mae Hong Son,Total,0,2003,HepatitisC
 Nan,Total,0,2003,HepatitisC
 Phayao,Total,41,2003,HepatitisC
 Phrae,Total,0,2003,HepatitisC
-Zone 2,Total,19,2003,HepatitisC
+Zone:2,Total,19,2003,HepatitisC
 Phetchabun,Total,13,2003,HepatitisC
 Phitsanulok,Total,0,2003,HepatitisC
 Sukhothai,Total,1,2003,HepatitisC
 Tak,Total,2,2003,HepatitisC
 Uttaradit,Total,3,2003,HepatitisC
-Zone 3,Total,4,2003,HepatitisC
+Zone:3,Total,4,2003,HepatitisC
 Kamphaeng Phet,Total,1,2003,HepatitisC
 Nakhon Sawan,Total,1,2003,HepatitisC
 Phichit,Total,1,2003,HepatitisC
 Uthai Thani,Total,1,2003,HepatitisC
 Central Region,Total,71,2003,HepatitisC
 Bangkok,Total,33,2003,HepatitisC
-Zone 4,Total,7,2003,HepatitisC
+Zone:4,Total,7,2003,HepatitisC
 Ang Thong,Total,0,2003,HepatitisC
 Nonthaburi,Total,3,2003,HepatitisC
 P.Nakhon S.Ayutthaya,Total,1,2003,HepatitisC
 Pathum Thani,Total,3,2003,HepatitisC
-Zone 5,Total,1,2003,HepatitisC
+Zone:5,Total,1,2003,HepatitisC
 Chai Nat,Total,0,2003,HepatitisC
 Lop Buri,Total,1,2003,HepatitisC
 Saraburi,Total,0,2003,HepatitisC
 Sing Buri,Total,0,2003,HepatitisC
-Zone 6,Total,12,2003,HepatitisC
+Zone:6,Total,12,2003,HepatitisC
 Kanchanaburi,Total,0,2003,HepatitisC
 Nakhon Pathom,Total,6,2003,HepatitisC
 Ratchaburi,Total,5,2003,HepatitisC
 Suphan Buri,Total,1,2003,HepatitisC
-Zone 7,Total,2,2003,HepatitisC
+Zone:7,Total,2,2003,HepatitisC
 Phetchaburi,Total,1,2003,HepatitisC
 Prachuap Khiri Khan,Total,1,2003,HepatitisC
 Samut Sakhon,Total,0,2003,HepatitisC
 Samut Songkhram,Total,0,2003,HepatitisC
-Zone 8,Total,9,2003,HepatitisC
+Zone:8,Total,9,2003,HepatitisC
 Chachoengsao,Total,1,2003,HepatitisC
 Nakhon Nayok,Total,0,2003,HepatitisC
 Prachin Buri,Total,1,2003,HepatitisC
 Sa Kaeo,Total,5,2003,HepatitisC
 Samut Prakan,Total,2,2003,HepatitisC
-Zone 9,Total,7,2003,HepatitisC
+Zone:9,Total,7,2003,HepatitisC
 Chanthaburi,Total,0,2003,HepatitisC
 Chon Buri,Total,0,2003,HepatitisC
 Rayong,Total,3,2003,HepatitisC
 Trat,Total,4,2003,HepatitisC
 North-Eastern Region,Total,69,2003,HepatitisC
-Zone 10,Total,8,2003,HepatitisC
+Zone:10,Total,8,2003,HepatitisC
 Loei,Total,0,2003,HepatitisC
 Nong Bua Lam Phu,Total,1,2003,HepatitisC
 Nong Khai,Total,2,2003,HepatitisC
 Udon Thani,Total,5,2003,HepatitisC
-Zone 11,Total,1,2003,HepatitisC
+Zone:11,Total,1,2003,HepatitisC
 Kalasin,Total,1,2003,HepatitisC
 Mukdahan,Total,0,2003,HepatitisC
 Nakhon Phanom,Total,0,2003,HepatitisC
 Sakon Nakhon,Total,0,2003,HepatitisC
-Zone 12,Total,11,2003,HepatitisC
+Zone:12,Total,11,2003,HepatitisC
 Khon Kaen,Total,11,2003,HepatitisC
 Maha Sarakham,Total,0,2003,HepatitisC
 Roi Et,Total,0,2003,HepatitisC
-Zone 13,Total,21,2003,HepatitisC
+Zone:13,Total,21,2003,HepatitisC
 Buri Ram,Total,3,2003,HepatitisC
 Chaiyaphum,Total,13,2003,HepatitisC
 Nakhon Ratchasima,Total,5,2003,HepatitisC
 Surin,Total,0,2003,HepatitisC
-Zone 14,Total,28,2003,HepatitisC
+Zone:14,Total,28,2003,HepatitisC
 Amnat Charoen,Total,3,2003,HepatitisC
 Si Sa Ket,Total,5,2003,HepatitisC
 Ubon Ratchathani,Total,19,2003,HepatitisC
 Yasothon,Total,1,2003,HepatitisC
 South Region,Total,55,2003,HepatitisC
-Zone 15,Total,4,2003,HepatitisC
+Zone:15,Total,4,2003,HepatitisC
 Chumphon,Total,0,2003,HepatitisC
 Ranong,Total,0,2003,HepatitisC
 Surat Thani,Total,4,2003,HepatitisC
-Zone 16,Total,7,2003,HepatitisC
+Zone:16,Total,7,2003,HepatitisC
 Nakhon Si Thammarat,Total,2,2003,HepatitisC
 Phatthalung,Total,0,2003,HepatitisC
 Trang,Total,5,2003,HepatitisC
-Zone 17,Total,2,2003,HepatitisC
+Zone:17,Total,2,2003,HepatitisC
 Krabi,Total,2,2003,HepatitisC
 Phangnga,Total,0,2003,HepatitisC
 Phuket,Total,0,2003,HepatitisC
-Zone 18,Total,14,2003,HepatitisC
+Zone:18,Total,14,2003,HepatitisC
 Narathiwat,Total,8,2003,HepatitisC
 Pattani,Total,3,2003,HepatitisC
 Yala,Total,3,2003,HepatitisC
-Zone 19,Total,28,2003,HepatitisC
+Zone:19,Total,28,2003,HepatitisC
 Satun,Total,0,2003,HepatitisC
 Songkhla,Total,28,2003,HepatitisC
 Total,0,0,2003,HepatitisC
 North Region,0,0,2003,HepatitisC
-Zone 1,0,0,2003,HepatitisC
+Zone:1,0,0,2003,HepatitisC
 Chiang Mai,0,0,2003,HepatitisC
 Chiang Rai,0,0,2003,HepatitisC
 Lampang,0,0,2003,HepatitisC
@@ -29594,98 +29594,98 @@ Mae Hong Son,0,0,2003,HepatitisC
 Nan,0,0,2003,HepatitisC
 Phayao,0,0,2003,HepatitisC
 Phrae,0,0,2003,HepatitisC
-Zone 2,0,0,2003,HepatitisC
+Zone:2,0,0,2003,HepatitisC
 Phetchabun,0,0,2003,HepatitisC
 Phitsanulok,0,0,2003,HepatitisC
 Sukhothai,0,0,2003,HepatitisC
 Tak,0,0,2003,HepatitisC
 Uttaradit,0,0,2003,HepatitisC
-Zone 3,0,0,2003,HepatitisC
+Zone:3,0,0,2003,HepatitisC
 Kamphaeng Phet,0,0,2003,HepatitisC
 Nakhon Sawan,0,0,2003,HepatitisC
 Phichit,0,0,2003,HepatitisC
 Uthai Thani,0,0,2003,HepatitisC
 Central Region,0,0,2003,HepatitisC
 Bangkok,0,0,2003,HepatitisC
-Zone 4,0,0,2003,HepatitisC
+Zone:4,0,0,2003,HepatitisC
 Ang Thong,0,0,2003,HepatitisC
 Nonthaburi,0,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,0,0,2003,HepatitisC
 Pathum Thani,0,0,2003,HepatitisC
-Zone 5,0,0,2003,HepatitisC
+Zone:5,0,0,2003,HepatitisC
 Chai Nat,0,0,2003,HepatitisC
 Lop Buri,0,0,2003,HepatitisC
 Saraburi,0,0,2003,HepatitisC
 Sing Buri,0,0,2003,HepatitisC
-Zone 6,0,0,2003,HepatitisC
+Zone:6,0,0,2003,HepatitisC
 Kanchanaburi,0,0,2003,HepatitisC
 Nakhon Pathom,0,0,2003,HepatitisC
 Ratchaburi,0,0,2003,HepatitisC
 Suphan Buri,0,0,2003,HepatitisC
-Zone 7,0,0,2003,HepatitisC
+Zone:7,0,0,2003,HepatitisC
 Phetchaburi,0,0,2003,HepatitisC
 Prachuap Khiri Khan,0,0,2003,HepatitisC
 Samut Sakhon,0,0,2003,HepatitisC
 Samut Songkhram,0,0,2003,HepatitisC
-Zone 8,0,0,2003,HepatitisC
+Zone:8,0,0,2003,HepatitisC
 Chachoengsao,0,0,2003,HepatitisC
 Nakhon Nayok,0,0,2003,HepatitisC
 Prachin Buri,0,0,2003,HepatitisC
 Sa Kaeo,0,0,2003,HepatitisC
 Samut Prakan,0,0,2003,HepatitisC
-Zone 9,0,0,2003,HepatitisC
+Zone:9,0,0,2003,HepatitisC
 Chanthaburi,0,0,2003,HepatitisC
 Chon Buri,0,0,2003,HepatitisC
 Rayong,0,0,2003,HepatitisC
 Trat,0,0,2003,HepatitisC
 North-Eastern Region,0,0,2003,HepatitisC
-Zone 10,0,0,2003,HepatitisC
+Zone:10,0,0,2003,HepatitisC
 Loei,0,0,2003,HepatitisC
 Nong Bua Lam Phu,0,0,2003,HepatitisC
 Nong Khai,0,0,2003,HepatitisC
 Udon Thani,0,0,2003,HepatitisC
-Zone 11,0,0,2003,HepatitisC
+Zone:11,0,0,2003,HepatitisC
 Kalasin,0,0,2003,HepatitisC
 Mukdahan,0,0,2003,HepatitisC
 Nakhon Phanom,0,0,2003,HepatitisC
 Sakon Nakhon,0,0,2003,HepatitisC
-Zone 12,0,0,2003,HepatitisC
+Zone:12,0,0,2003,HepatitisC
 Khon Kaen,0,0,2003,HepatitisC
 Maha Sarakham,0,0,2003,HepatitisC
 Roi Et,0,0,2003,HepatitisC
-Zone 13,0,0,2003,HepatitisC
+Zone:13,0,0,2003,HepatitisC
 Buri Ram,0,0,2003,HepatitisC
 Chaiyaphum,0,0,2003,HepatitisC
 Nakhon Ratchasima,0,0,2003,HepatitisC
 Surin,0,0,2003,HepatitisC
-Zone 14,0,0,2003,HepatitisC
+Zone:14,0,0,2003,HepatitisC
 Amnat Charoen,0,0,2003,HepatitisC
 Si Sa Ket,0,0,2003,HepatitisC
 Ubon Ratchathani,0,0,2003,HepatitisC
 Yasothon,0,0,2003,HepatitisC
 South Region,0,0,2003,HepatitisC
-Zone 15,0,0,2003,HepatitisC
+Zone:15,0,0,2003,HepatitisC
 Chumphon,0,0,2003,HepatitisC
 Ranong,0,0,2003,HepatitisC
 Surat Thani,0,0,2003,HepatitisC
-Zone 16,0,0,2003,HepatitisC
+Zone:16,0,0,2003,HepatitisC
 Nakhon Si Thammarat,0,0,2003,HepatitisC
 Phatthalung,0,0,2003,HepatitisC
 Trang,0,0,2003,HepatitisC
-Zone 17,0,0,2003,HepatitisC
+Zone:17,0,0,2003,HepatitisC
 Krabi,0,0,2003,HepatitisC
 Phangnga,0,0,2003,HepatitisC
 Phuket,0,0,2003,HepatitisC
-Zone 18,0,0,2003,HepatitisC
+Zone:18,0,0,2003,HepatitisC
 Narathiwat,0,0,2003,HepatitisC
 Pattani,0,0,2003,HepatitisC
 Yala,0,0,2003,HepatitisC
-Zone 19,0,0,2003,HepatitisC
+Zone:19,0,0,2003,HepatitisC
 Satun,0,0,2003,HepatitisC
 Songkhla,0,0,2003,HepatitisC
 Total,<1,1,2003,HepatitisC
 North Region,<1,0,2003,HepatitisC
-Zone 1,<1,0,2003,HepatitisC
+Zone:1,<1,0,2003,HepatitisC
 Chiang Mai,<1,0,2003,HepatitisC
 Chiang Rai,<1,0,2003,HepatitisC
 Lampang,<1,0,2003,HepatitisC
@@ -29694,98 +29694,98 @@ Mae Hong Son,<1,0,2003,HepatitisC
 Nan,<1,0,2003,HepatitisC
 Phayao,<1,0,2003,HepatitisC
 Phrae,<1,0,2003,HepatitisC
-Zone 2,<1,0,2003,HepatitisC
+Zone:2,<1,0,2003,HepatitisC
 Phetchabun,<1,0,2003,HepatitisC
 Phitsanulok,<1,0,2003,HepatitisC
 Sukhothai,<1,0,2003,HepatitisC
 Tak,<1,0,2003,HepatitisC
 Uttaradit,<1,0,2003,HepatitisC
-Zone 3,<1,0,2003,HepatitisC
+Zone:3,<1,0,2003,HepatitisC
 Kamphaeng Phet,<1,0,2003,HepatitisC
 Nakhon Sawan,<1,0,2003,HepatitisC
 Phichit,<1,0,2003,HepatitisC
 Uthai Thani,<1,0,2003,HepatitisC
 Central Region,<1,1,2003,HepatitisC
 Bangkok,<1,1,2003,HepatitisC
-Zone 4,<1,0,2003,HepatitisC
+Zone:4,<1,0,2003,HepatitisC
 Ang Thong,<1,0,2003,HepatitisC
 Nonthaburi,<1,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,<1,0,2003,HepatitisC
 Pathum Thani,<1,0,2003,HepatitisC
-Zone 5,<1,0,2003,HepatitisC
+Zone:5,<1,0,2003,HepatitisC
 Chai Nat,<1,0,2003,HepatitisC
 Lop Buri,<1,0,2003,HepatitisC
 Saraburi,<1,0,2003,HepatitisC
 Sing Buri,<1,0,2003,HepatitisC
-Zone 6,<1,0,2003,HepatitisC
+Zone:6,<1,0,2003,HepatitisC
 Kanchanaburi,<1,0,2003,HepatitisC
 Nakhon Pathom,<1,0,2003,HepatitisC
 Ratchaburi,<1,0,2003,HepatitisC
 Suphan Buri,<1,0,2003,HepatitisC
-Zone 7,<1,0,2003,HepatitisC
+Zone:7,<1,0,2003,HepatitisC
 Phetchaburi,<1,0,2003,HepatitisC
 Prachuap Khiri Khan,<1,0,2003,HepatitisC
 Samut Sakhon,<1,0,2003,HepatitisC
 Samut Songkhram,<1,0,2003,HepatitisC
-Zone 8,<1,0,2003,HepatitisC
+Zone:8,<1,0,2003,HepatitisC
 Chachoengsao,<1,0,2003,HepatitisC
 Nakhon Nayok,<1,0,2003,HepatitisC
 Prachin Buri,<1,0,2003,HepatitisC
 Sa Kaeo,<1,0,2003,HepatitisC
 Samut Prakan,<1,0,2003,HepatitisC
-Zone 9,<1,0,2003,HepatitisC
+Zone:9,<1,0,2003,HepatitisC
 Chanthaburi,<1,0,2003,HepatitisC
 Chon Buri,<1,0,2003,HepatitisC
 Rayong,<1,0,2003,HepatitisC
 Trat,<1,0,2003,HepatitisC
 North-Eastern Region,<1,0,2003,HepatitisC
-Zone 10,<1,0,2003,HepatitisC
+Zone:10,<1,0,2003,HepatitisC
 Loei,<1,0,2003,HepatitisC
 Nong Bua Lam Phu,<1,0,2003,HepatitisC
 Nong Khai,<1,0,2003,HepatitisC
 Udon Thani,<1,0,2003,HepatitisC
-Zone 11,<1,0,2003,HepatitisC
+Zone:11,<1,0,2003,HepatitisC
 Kalasin,<1,0,2003,HepatitisC
 Mukdahan,<1,0,2003,HepatitisC
 Nakhon Phanom,<1,0,2003,HepatitisC
 Sakon Nakhon,<1,0,2003,HepatitisC
-Zone 12,<1,0,2003,HepatitisC
+Zone:12,<1,0,2003,HepatitisC
 Khon Kaen,<1,0,2003,HepatitisC
 Maha Sarakham,<1,0,2003,HepatitisC
 Roi Et,<1,0,2003,HepatitisC
-Zone 13,<1,0,2003,HepatitisC
+Zone:13,<1,0,2003,HepatitisC
 Buri Ram,<1,0,2003,HepatitisC
 Chaiyaphum,<1,0,2003,HepatitisC
 Nakhon Ratchasima,<1,0,2003,HepatitisC
 Surin,<1,0,2003,HepatitisC
-Zone 14,<1,0,2003,HepatitisC
+Zone:14,<1,0,2003,HepatitisC
 Amnat Charoen,<1,0,2003,HepatitisC
 Si Sa Ket,<1,0,2003,HepatitisC
 Ubon Ratchathani,<1,0,2003,HepatitisC
 Yasothon,<1,0,2003,HepatitisC
 South Region,<1,0,2003,HepatitisC
-Zone 15,<1,0,2003,HepatitisC
+Zone:15,<1,0,2003,HepatitisC
 Chumphon,<1,0,2003,HepatitisC
 Ranong,<1,0,2003,HepatitisC
 Surat Thani,<1,0,2003,HepatitisC
-Zone 16,<1,0,2003,HepatitisC
+Zone:16,<1,0,2003,HepatitisC
 Nakhon Si Thammarat,<1,0,2003,HepatitisC
 Phatthalung,<1,0,2003,HepatitisC
 Trang,<1,0,2003,HepatitisC
-Zone 17,<1,0,2003,HepatitisC
+Zone:17,<1,0,2003,HepatitisC
 Krabi,<1,0,2003,HepatitisC
 Phangnga,<1,0,2003,HepatitisC
 Phuket,<1,0,2003,HepatitisC
-Zone 18,<1,0,2003,HepatitisC
+Zone:18,<1,0,2003,HepatitisC
 Narathiwat,<1,0,2003,HepatitisC
 Pattani,<1,0,2003,HepatitisC
 Yala,<1,0,2003,HepatitisC
-Zone 19,<1,0,2003,HepatitisC
+Zone:19,<1,0,2003,HepatitisC
 Satun,<1,0,2003,HepatitisC
 Songkhla,<1,0,2003,HepatitisC
 Total,1-1,1,2003,HepatitisC
 North Region,1-1,0,2003,HepatitisC
-Zone 1,1-1,0,2003,HepatitisC
+Zone:1,1-1,0,2003,HepatitisC
 Chiang Mai,1-1,0,2003,HepatitisC
 Chiang Rai,1-1,0,2003,HepatitisC
 Lampang,1-1,0,2003,HepatitisC
@@ -29794,98 +29794,98 @@ Mae Hong Son,1-1,0,2003,HepatitisC
 Nan,1-1,0,2003,HepatitisC
 Phayao,1-1,0,2003,HepatitisC
 Phrae,1-1,0,2003,HepatitisC
-Zone 2,1-1,0,2003,HepatitisC
+Zone:2,1-1,0,2003,HepatitisC
 Phetchabun,1-1,0,2003,HepatitisC
 Phitsanulok,1-1,0,2003,HepatitisC
 Sukhothai,1-1,0,2003,HepatitisC
 Tak,1-1,0,2003,HepatitisC
 Uttaradit,1-1,0,2003,HepatitisC
-Zone 3,1-1,0,2003,HepatitisC
+Zone:3,1-1,0,2003,HepatitisC
 Kamphaeng Phet,1-1,0,2003,HepatitisC
 Nakhon Sawan,1-1,0,2003,HepatitisC
 Phichit,1-1,0,2003,HepatitisC
 Uthai Thani,1-1,0,2003,HepatitisC
 Central Region,1-1,0,2003,HepatitisC
 Bangkok,1-1,0,2003,HepatitisC
-Zone 4,1-1,0,2003,HepatitisC
+Zone:4,1-1,0,2003,HepatitisC
 Ang Thong,1-1,0,2003,HepatitisC
 Nonthaburi,1-1,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,1-1,0,2003,HepatitisC
 Pathum Thani,1-1,0,2003,HepatitisC
-Zone 5,1-1,0,2003,HepatitisC
+Zone:5,1-1,0,2003,HepatitisC
 Chai Nat,1-1,0,2003,HepatitisC
 Lop Buri,1-1,0,2003,HepatitisC
 Saraburi,1-1,0,2003,HepatitisC
 Sing Buri,1-1,0,2003,HepatitisC
-Zone 6,1-1,0,2003,HepatitisC
+Zone:6,1-1,0,2003,HepatitisC
 Kanchanaburi,1-1,0,2003,HepatitisC
 Nakhon Pathom,1-1,0,2003,HepatitisC
 Ratchaburi,1-1,0,2003,HepatitisC
 Suphan Buri,1-1,0,2003,HepatitisC
-Zone 7,1-1,0,2003,HepatitisC
+Zone:7,1-1,0,2003,HepatitisC
 Phetchaburi,1-1,0,2003,HepatitisC
 Prachuap Khiri Khan,1-1,0,2003,HepatitisC
 Samut Sakhon,1-1,0,2003,HepatitisC
 Samut Songkhram,1-1,0,2003,HepatitisC
-Zone 8,1-1,0,2003,HepatitisC
+Zone:8,1-1,0,2003,HepatitisC
 Chachoengsao,1-1,0,2003,HepatitisC
 Nakhon Nayok,1-1,0,2003,HepatitisC
 Prachin Buri,1-1,0,2003,HepatitisC
 Sa Kaeo,1-1,0,2003,HepatitisC
 Samut Prakan,1-1,0,2003,HepatitisC
-Zone 9,1-1,0,2003,HepatitisC
+Zone:9,1-1,0,2003,HepatitisC
 Chanthaburi,1-1,0,2003,HepatitisC
 Chon Buri,1-1,0,2003,HepatitisC
 Rayong,1-1,0,2003,HepatitisC
 Trat,1-1,0,2003,HepatitisC
 North-Eastern Region,1-1,1,2003,HepatitisC
-Zone 10,1-1,0,2003,HepatitisC
+Zone:10,1-1,0,2003,HepatitisC
 Loei,1-1,0,2003,HepatitisC
 Nong Bua Lam Phu,1-1,0,2003,HepatitisC
 Nong Khai,1-1,0,2003,HepatitisC
 Udon Thani,1-1,0,2003,HepatitisC
-Zone 11,1-1,0,2003,HepatitisC
+Zone:11,1-1,0,2003,HepatitisC
 Kalasin,1-1,0,2003,HepatitisC
 Mukdahan,1-1,0,2003,HepatitisC
 Nakhon Phanom,1-1,0,2003,HepatitisC
 Sakon Nakhon,1-1,0,2003,HepatitisC
-Zone 12,1-1,0,2003,HepatitisC
+Zone:12,1-1,0,2003,HepatitisC
 Khon Kaen,1-1,0,2003,HepatitisC
 Maha Sarakham,1-1,0,2003,HepatitisC
 Roi Et,1-1,0,2003,HepatitisC
-Zone 13,1-1,0,2003,HepatitisC
+Zone:13,1-1,0,2003,HepatitisC
 Buri Ram,1-1,0,2003,HepatitisC
 Chaiyaphum,1-1,0,2003,HepatitisC
 Nakhon Ratchasima,1-1,0,2003,HepatitisC
 Surin,1-1,0,2003,HepatitisC
-Zone 14,1-1,1,2003,HepatitisC
+Zone:14,1-1,1,2003,HepatitisC
 Amnat Charoen,1-1,0,2003,HepatitisC
 Si Sa Ket,1-1,0,2003,HepatitisC
 Ubon Ratchathani,1-1,1,2003,HepatitisC
 Yasothon,1-1,0,2003,HepatitisC
 South Region,1-1,0,2003,HepatitisC
-Zone 15,1-1,0,2003,HepatitisC
+Zone:15,1-1,0,2003,HepatitisC
 Chumphon,1-1,0,2003,HepatitisC
 Ranong,1-1,0,2003,HepatitisC
 Surat Thani,1-1,0,2003,HepatitisC
-Zone 16,1-1,0,2003,HepatitisC
+Zone:16,1-1,0,2003,HepatitisC
 Nakhon Si Thammarat,1-1,0,2003,HepatitisC
 Phatthalung,1-1,0,2003,HepatitisC
 Trang,1-1,0,2003,HepatitisC
-Zone 17,1-1,0,2003,HepatitisC
+Zone:17,1-1,0,2003,HepatitisC
 Krabi,1-1,0,2003,HepatitisC
 Phangnga,1-1,0,2003,HepatitisC
 Phuket,1-1,0,2003,HepatitisC
-Zone 18,1-1,0,2003,HepatitisC
+Zone:18,1-1,0,2003,HepatitisC
 Narathiwat,1-1,0,2003,HepatitisC
 Pattani,1-1,0,2003,HepatitisC
 Yala,1-1,0,2003,HepatitisC
-Zone 19,1-1,0,2003,HepatitisC
+Zone:19,1-1,0,2003,HepatitisC
 Satun,1-1,0,2003,HepatitisC
 Songkhla,1-1,0,2003,HepatitisC
 Total,2-2,1,2003,HepatitisC
 North Region,2-2,0,2003,HepatitisC
-Zone 1,2-2,0,2003,HepatitisC
+Zone:1,2-2,0,2003,HepatitisC
 Chiang Mai,2-2,0,2003,HepatitisC
 Chiang Rai,2-2,0,2003,HepatitisC
 Lampang,2-2,0,2003,HepatitisC
@@ -29894,98 +29894,98 @@ Mae Hong Son,2-2,0,2003,HepatitisC
 Nan,2-2,0,2003,HepatitisC
 Phayao,2-2,0,2003,HepatitisC
 Phrae,2-2,0,2003,HepatitisC
-Zone 2,2-2,0,2003,HepatitisC
+Zone:2,2-2,0,2003,HepatitisC
 Phetchabun,2-2,0,2003,HepatitisC
 Phitsanulok,2-2,0,2003,HepatitisC
 Sukhothai,2-2,0,2003,HepatitisC
 Tak,2-2,0,2003,HepatitisC
 Uttaradit,2-2,0,2003,HepatitisC
-Zone 3,2-2,0,2003,HepatitisC
+Zone:3,2-2,0,2003,HepatitisC
 Kamphaeng Phet,2-2,0,2003,HepatitisC
 Nakhon Sawan,2-2,0,2003,HepatitisC
 Phichit,2-2,0,2003,HepatitisC
 Uthai Thani,2-2,0,2003,HepatitisC
 Central Region,2-2,0,2003,HepatitisC
 Bangkok,2-2,0,2003,HepatitisC
-Zone 4,2-2,0,2003,HepatitisC
+Zone:4,2-2,0,2003,HepatitisC
 Ang Thong,2-2,0,2003,HepatitisC
 Nonthaburi,2-2,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,2-2,0,2003,HepatitisC
 Pathum Thani,2-2,0,2003,HepatitisC
-Zone 5,2-2,0,2003,HepatitisC
+Zone:5,2-2,0,2003,HepatitisC
 Chai Nat,2-2,0,2003,HepatitisC
 Lop Buri,2-2,0,2003,HepatitisC
 Saraburi,2-2,0,2003,HepatitisC
 Sing Buri,2-2,0,2003,HepatitisC
-Zone 6,2-2,0,2003,HepatitisC
+Zone:6,2-2,0,2003,HepatitisC
 Kanchanaburi,2-2,0,2003,HepatitisC
 Nakhon Pathom,2-2,0,2003,HepatitisC
 Ratchaburi,2-2,0,2003,HepatitisC
 Suphan Buri,2-2,0,2003,HepatitisC
-Zone 7,2-2,0,2003,HepatitisC
+Zone:7,2-2,0,2003,HepatitisC
 Phetchaburi,2-2,0,2003,HepatitisC
 Prachuap Khiri Khan,2-2,0,2003,HepatitisC
 Samut Sakhon,2-2,0,2003,HepatitisC
 Samut Songkhram,2-2,0,2003,HepatitisC
-Zone 8,2-2,0,2003,HepatitisC
+Zone:8,2-2,0,2003,HepatitisC
 Chachoengsao,2-2,0,2003,HepatitisC
 Nakhon Nayok,2-2,0,2003,HepatitisC
 Prachin Buri,2-2,0,2003,HepatitisC
 Sa Kaeo,2-2,0,2003,HepatitisC
 Samut Prakan,2-2,0,2003,HepatitisC
-Zone 9,2-2,0,2003,HepatitisC
+Zone:9,2-2,0,2003,HepatitisC
 Chanthaburi,2-2,0,2003,HepatitisC
 Chon Buri,2-2,0,2003,HepatitisC
 Rayong,2-2,0,2003,HepatitisC
 Trat,2-2,0,2003,HepatitisC
 North-Eastern Region,2-2,1,2003,HepatitisC
-Zone 10,2-2,0,2003,HepatitisC
+Zone:10,2-2,0,2003,HepatitisC
 Loei,2-2,0,2003,HepatitisC
 Nong Bua Lam Phu,2-2,0,2003,HepatitisC
 Nong Khai,2-2,0,2003,HepatitisC
 Udon Thani,2-2,0,2003,HepatitisC
-Zone 11,2-2,0,2003,HepatitisC
+Zone:11,2-2,0,2003,HepatitisC
 Kalasin,2-2,0,2003,HepatitisC
 Mukdahan,2-2,0,2003,HepatitisC
 Nakhon Phanom,2-2,0,2003,HepatitisC
 Sakon Nakhon,2-2,0,2003,HepatitisC
-Zone 12,2-2,0,2003,HepatitisC
+Zone:12,2-2,0,2003,HepatitisC
 Khon Kaen,2-2,0,2003,HepatitisC
 Maha Sarakham,2-2,0,2003,HepatitisC
 Roi Et,2-2,0,2003,HepatitisC
-Zone 13,2-2,1,2003,HepatitisC
+Zone:13,2-2,1,2003,HepatitisC
 Buri Ram,2-2,0,2003,HepatitisC
 Chaiyaphum,2-2,0,2003,HepatitisC
 Nakhon Ratchasima,2-2,1,2003,HepatitisC
 Surin,2-2,0,2003,HepatitisC
-Zone 14,2-2,0,2003,HepatitisC
+Zone:14,2-2,0,2003,HepatitisC
 Amnat Charoen,2-2,0,2003,HepatitisC
 Si Sa Ket,2-2,0,2003,HepatitisC
 Ubon Ratchathani,2-2,0,2003,HepatitisC
 Yasothon,2-2,0,2003,HepatitisC
 South Region,2-2,0,2003,HepatitisC
-Zone 15,2-2,0,2003,HepatitisC
+Zone:15,2-2,0,2003,HepatitisC
 Chumphon,2-2,0,2003,HepatitisC
 Ranong,2-2,0,2003,HepatitisC
 Surat Thani,2-2,0,2003,HepatitisC
-Zone 16,2-2,0,2003,HepatitisC
+Zone:16,2-2,0,2003,HepatitisC
 Nakhon Si Thammarat,2-2,0,2003,HepatitisC
 Phatthalung,2-2,0,2003,HepatitisC
 Trang,2-2,0,2003,HepatitisC
-Zone 17,2-2,0,2003,HepatitisC
+Zone:17,2-2,0,2003,HepatitisC
 Krabi,2-2,0,2003,HepatitisC
 Phangnga,2-2,0,2003,HepatitisC
 Phuket,2-2,0,2003,HepatitisC
-Zone 18,2-2,0,2003,HepatitisC
+Zone:18,2-2,0,2003,HepatitisC
 Narathiwat,2-2,0,2003,HepatitisC
 Pattani,2-2,0,2003,HepatitisC
 Yala,2-2,0,2003,HepatitisC
-Zone 19,2-2,0,2003,HepatitisC
+Zone:19,2-2,0,2003,HepatitisC
 Satun,2-2,0,2003,HepatitisC
 Songkhla,2-2,0,2003,HepatitisC
 Total,3-3,2,2003,HepatitisC
 North Region,3-3,0,2003,HepatitisC
-Zone 1,3-3,0,2003,HepatitisC
+Zone:1,3-3,0,2003,HepatitisC
 Chiang Mai,3-3,0,2003,HepatitisC
 Chiang Rai,3-3,0,2003,HepatitisC
 Lampang,3-3,0,2003,HepatitisC
@@ -29994,98 +29994,98 @@ Mae Hong Son,3-3,0,2003,HepatitisC
 Nan,3-3,0,2003,HepatitisC
 Phayao,3-3,0,2003,HepatitisC
 Phrae,3-3,0,2003,HepatitisC
-Zone 2,3-3,0,2003,HepatitisC
+Zone:2,3-3,0,2003,HepatitisC
 Phetchabun,3-3,0,2003,HepatitisC
 Phitsanulok,3-3,0,2003,HepatitisC
 Sukhothai,3-3,0,2003,HepatitisC
 Tak,3-3,0,2003,HepatitisC
 Uttaradit,3-3,0,2003,HepatitisC
-Zone 3,3-3,0,2003,HepatitisC
+Zone:3,3-3,0,2003,HepatitisC
 Kamphaeng Phet,3-3,0,2003,HepatitisC
 Nakhon Sawan,3-3,0,2003,HepatitisC
 Phichit,3-3,0,2003,HepatitisC
 Uthai Thani,3-3,0,2003,HepatitisC
 Central Region,3-3,2,2003,HepatitisC
 Bangkok,3-3,1,2003,HepatitisC
-Zone 4,3-3,1,2003,HepatitisC
+Zone:4,3-3,1,2003,HepatitisC
 Ang Thong,3-3,0,2003,HepatitisC
 Nonthaburi,3-3,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,3-3,0,2003,HepatitisC
 Pathum Thani,3-3,1,2003,HepatitisC
-Zone 5,3-3,0,2003,HepatitisC
+Zone:5,3-3,0,2003,HepatitisC
 Chai Nat,3-3,0,2003,HepatitisC
 Lop Buri,3-3,0,2003,HepatitisC
 Saraburi,3-3,0,2003,HepatitisC
 Sing Buri,3-3,0,2003,HepatitisC
-Zone 6,3-3,0,2003,HepatitisC
+Zone:6,3-3,0,2003,HepatitisC
 Kanchanaburi,3-3,0,2003,HepatitisC
 Nakhon Pathom,3-3,0,2003,HepatitisC
 Ratchaburi,3-3,0,2003,HepatitisC
 Suphan Buri,3-3,0,2003,HepatitisC
-Zone 7,3-3,0,2003,HepatitisC
+Zone:7,3-3,0,2003,HepatitisC
 Phetchaburi,3-3,0,2003,HepatitisC
 Prachuap Khiri Khan,3-3,0,2003,HepatitisC
 Samut Sakhon,3-3,0,2003,HepatitisC
 Samut Songkhram,3-3,0,2003,HepatitisC
-Zone 8,3-3,0,2003,HepatitisC
+Zone:8,3-3,0,2003,HepatitisC
 Chachoengsao,3-3,0,2003,HepatitisC
 Nakhon Nayok,3-3,0,2003,HepatitisC
 Prachin Buri,3-3,0,2003,HepatitisC
 Sa Kaeo,3-3,0,2003,HepatitisC
 Samut Prakan,3-3,0,2003,HepatitisC
-Zone 9,3-3,0,2003,HepatitisC
+Zone:9,3-3,0,2003,HepatitisC
 Chanthaburi,3-3,0,2003,HepatitisC
 Chon Buri,3-3,0,2003,HepatitisC
 Rayong,3-3,0,2003,HepatitisC
 Trat,3-3,0,2003,HepatitisC
 North-Eastern Region,3-3,0,2003,HepatitisC
-Zone 10,3-3,0,2003,HepatitisC
+Zone:10,3-3,0,2003,HepatitisC
 Loei,3-3,0,2003,HepatitisC
 Nong Bua Lam Phu,3-3,0,2003,HepatitisC
 Nong Khai,3-3,0,2003,HepatitisC
 Udon Thani,3-3,0,2003,HepatitisC
-Zone 11,3-3,0,2003,HepatitisC
+Zone:11,3-3,0,2003,HepatitisC
 Kalasin,3-3,0,2003,HepatitisC
 Mukdahan,3-3,0,2003,HepatitisC
 Nakhon Phanom,3-3,0,2003,HepatitisC
 Sakon Nakhon,3-3,0,2003,HepatitisC
-Zone 12,3-3,0,2003,HepatitisC
+Zone:12,3-3,0,2003,HepatitisC
 Khon Kaen,3-3,0,2003,HepatitisC
 Maha Sarakham,3-3,0,2003,HepatitisC
 Roi Et,3-3,0,2003,HepatitisC
-Zone 13,3-3,0,2003,HepatitisC
+Zone:13,3-3,0,2003,HepatitisC
 Buri Ram,3-3,0,2003,HepatitisC
 Chaiyaphum,3-3,0,2003,HepatitisC
 Nakhon Ratchasima,3-3,0,2003,HepatitisC
 Surin,3-3,0,2003,HepatitisC
-Zone 14,3-3,0,2003,HepatitisC
+Zone:14,3-3,0,2003,HepatitisC
 Amnat Charoen,3-3,0,2003,HepatitisC
 Si Sa Ket,3-3,0,2003,HepatitisC
 Ubon Ratchathani,3-3,0,2003,HepatitisC
 Yasothon,3-3,0,2003,HepatitisC
 South Region,3-3,0,2003,HepatitisC
-Zone 15,3-3,0,2003,HepatitisC
+Zone:15,3-3,0,2003,HepatitisC
 Chumphon,3-3,0,2003,HepatitisC
 Ranong,3-3,0,2003,HepatitisC
 Surat Thani,3-3,0,2003,HepatitisC
-Zone 16,3-3,0,2003,HepatitisC
+Zone:16,3-3,0,2003,HepatitisC
 Nakhon Si Thammarat,3-3,0,2003,HepatitisC
 Phatthalung,3-3,0,2003,HepatitisC
 Trang,3-3,0,2003,HepatitisC
-Zone 17,3-3,0,2003,HepatitisC
+Zone:17,3-3,0,2003,HepatitisC
 Krabi,3-3,0,2003,HepatitisC
 Phangnga,3-3,0,2003,HepatitisC
 Phuket,3-3,0,2003,HepatitisC
-Zone 18,3-3,0,2003,HepatitisC
+Zone:18,3-3,0,2003,HepatitisC
 Narathiwat,3-3,0,2003,HepatitisC
 Pattani,3-3,0,2003,HepatitisC
 Yala,3-3,0,2003,HepatitisC
-Zone 19,3-3,0,2003,HepatitisC
+Zone:19,3-3,0,2003,HepatitisC
 Satun,3-3,0,2003,HepatitisC
 Songkhla,3-3,0,2003,HepatitisC
 Total,4-4,0,2003,HepatitisC
 North Region,4-4,0,2003,HepatitisC
-Zone 1,4-4,0,2003,HepatitisC
+Zone:1,4-4,0,2003,HepatitisC
 Chiang Mai,4-4,0,2003,HepatitisC
 Chiang Rai,4-4,0,2003,HepatitisC
 Lampang,4-4,0,2003,HepatitisC
@@ -30094,98 +30094,98 @@ Mae Hong Son,4-4,0,2003,HepatitisC
 Nan,4-4,0,2003,HepatitisC
 Phayao,4-4,0,2003,HepatitisC
 Phrae,4-4,0,2003,HepatitisC
-Zone 2,4-4,0,2003,HepatitisC
+Zone:2,4-4,0,2003,HepatitisC
 Phetchabun,4-4,0,2003,HepatitisC
 Phitsanulok,4-4,0,2003,HepatitisC
 Sukhothai,4-4,0,2003,HepatitisC
 Tak,4-4,0,2003,HepatitisC
 Uttaradit,4-4,0,2003,HepatitisC
-Zone 3,4-4,0,2003,HepatitisC
+Zone:3,4-4,0,2003,HepatitisC
 Kamphaeng Phet,4-4,0,2003,HepatitisC
 Nakhon Sawan,4-4,0,2003,HepatitisC
 Phichit,4-4,0,2003,HepatitisC
 Uthai Thani,4-4,0,2003,HepatitisC
 Central Region,4-4,0,2003,HepatitisC
 Bangkok,4-4,0,2003,HepatitisC
-Zone 4,4-4,0,2003,HepatitisC
+Zone:4,4-4,0,2003,HepatitisC
 Ang Thong,4-4,0,2003,HepatitisC
 Nonthaburi,4-4,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,4-4,0,2003,HepatitisC
 Pathum Thani,4-4,0,2003,HepatitisC
-Zone 5,4-4,0,2003,HepatitisC
+Zone:5,4-4,0,2003,HepatitisC
 Chai Nat,4-4,0,2003,HepatitisC
 Lop Buri,4-4,0,2003,HepatitisC
 Saraburi,4-4,0,2003,HepatitisC
 Sing Buri,4-4,0,2003,HepatitisC
-Zone 6,4-4,0,2003,HepatitisC
+Zone:6,4-4,0,2003,HepatitisC
 Kanchanaburi,4-4,0,2003,HepatitisC
 Nakhon Pathom,4-4,0,2003,HepatitisC
 Ratchaburi,4-4,0,2003,HepatitisC
 Suphan Buri,4-4,0,2003,HepatitisC
-Zone 7,4-4,0,2003,HepatitisC
+Zone:7,4-4,0,2003,HepatitisC
 Phetchaburi,4-4,0,2003,HepatitisC
 Prachuap Khiri Khan,4-4,0,2003,HepatitisC
 Samut Sakhon,4-4,0,2003,HepatitisC
 Samut Songkhram,4-4,0,2003,HepatitisC
-Zone 8,4-4,0,2003,HepatitisC
+Zone:8,4-4,0,2003,HepatitisC
 Chachoengsao,4-4,0,2003,HepatitisC
 Nakhon Nayok,4-4,0,2003,HepatitisC
 Prachin Buri,4-4,0,2003,HepatitisC
 Sa Kaeo,4-4,0,2003,HepatitisC
 Samut Prakan,4-4,0,2003,HepatitisC
-Zone 9,4-4,0,2003,HepatitisC
+Zone:9,4-4,0,2003,HepatitisC
 Chanthaburi,4-4,0,2003,HepatitisC
 Chon Buri,4-4,0,2003,HepatitisC
 Rayong,4-4,0,2003,HepatitisC
 Trat,4-4,0,2003,HepatitisC
 North-Eastern Region,4-4,0,2003,HepatitisC
-Zone 10,4-4,0,2003,HepatitisC
+Zone:10,4-4,0,2003,HepatitisC
 Loei,4-4,0,2003,HepatitisC
 Nong Bua Lam Phu,4-4,0,2003,HepatitisC
 Nong Khai,4-4,0,2003,HepatitisC
 Udon Thani,4-4,0,2003,HepatitisC
-Zone 11,4-4,0,2003,HepatitisC
+Zone:11,4-4,0,2003,HepatitisC
 Kalasin,4-4,0,2003,HepatitisC
 Mukdahan,4-4,0,2003,HepatitisC
 Nakhon Phanom,4-4,0,2003,HepatitisC
 Sakon Nakhon,4-4,0,2003,HepatitisC
-Zone 12,4-4,0,2003,HepatitisC
+Zone:12,4-4,0,2003,HepatitisC
 Khon Kaen,4-4,0,2003,HepatitisC
 Maha Sarakham,4-4,0,2003,HepatitisC
 Roi Et,4-4,0,2003,HepatitisC
-Zone 13,4-4,0,2003,HepatitisC
+Zone:13,4-4,0,2003,HepatitisC
 Buri Ram,4-4,0,2003,HepatitisC
 Chaiyaphum,4-4,0,2003,HepatitisC
 Nakhon Ratchasima,4-4,0,2003,HepatitisC
 Surin,4-4,0,2003,HepatitisC
-Zone 14,4-4,0,2003,HepatitisC
+Zone:14,4-4,0,2003,HepatitisC
 Amnat Charoen,4-4,0,2003,HepatitisC
 Si Sa Ket,4-4,0,2003,HepatitisC
 Ubon Ratchathani,4-4,0,2003,HepatitisC
 Yasothon,4-4,0,2003,HepatitisC
 South Region,4-4,0,2003,HepatitisC
-Zone 15,4-4,0,2003,HepatitisC
+Zone:15,4-4,0,2003,HepatitisC
 Chumphon,4-4,0,2003,HepatitisC
 Ranong,4-4,0,2003,HepatitisC
 Surat Thani,4-4,0,2003,HepatitisC
-Zone 16,4-4,0,2003,HepatitisC
+Zone:16,4-4,0,2003,HepatitisC
 Nakhon Si Thammarat,4-4,0,2003,HepatitisC
 Phatthalung,4-4,0,2003,HepatitisC
 Trang,4-4,0,2003,HepatitisC
-Zone 17,4-4,0,2003,HepatitisC
+Zone:17,4-4,0,2003,HepatitisC
 Krabi,4-4,0,2003,HepatitisC
 Phangnga,4-4,0,2003,HepatitisC
 Phuket,4-4,0,2003,HepatitisC
-Zone 18,4-4,0,2003,HepatitisC
+Zone:18,4-4,0,2003,HepatitisC
 Narathiwat,4-4,0,2003,HepatitisC
 Pattani,4-4,0,2003,HepatitisC
 Yala,4-4,0,2003,HepatitisC
-Zone 19,4-4,0,2003,HepatitisC
+Zone:19,4-4,0,2003,HepatitisC
 Satun,4-4,0,2003,HepatitisC
 Songkhla,4-4,0,2003,HepatitisC
 Total,5-5,4,2003,HepatitisC
 North Region,5-5,3,2003,HepatitisC
-Zone 1,5-5,2,2003,HepatitisC
+Zone:1,5-5,2,2003,HepatitisC
 Chiang Mai,5-5,0,2003,HepatitisC
 Chiang Rai,5-5,0,2003,HepatitisC
 Lampang,5-5,0,2003,HepatitisC
@@ -30194,98 +30194,98 @@ Mae Hong Son,5-5,0,2003,HepatitisC
 Nan,5-5,0,2003,HepatitisC
 Phayao,5-5,2,2003,HepatitisC
 Phrae,5-5,0,2003,HepatitisC
-Zone 2,5-5,1,2003,HepatitisC
+Zone:2,5-5,1,2003,HepatitisC
 Phetchabun,5-5,0,2003,HepatitisC
 Phitsanulok,5-5,0,2003,HepatitisC
 Sukhothai,5-5,0,2003,HepatitisC
 Tak,5-5,0,2003,HepatitisC
 Uttaradit,5-5,1,2003,HepatitisC
-Zone 3,5-5,0,2003,HepatitisC
+Zone:3,5-5,0,2003,HepatitisC
 Kamphaeng Phet,5-5,0,2003,HepatitisC
 Nakhon Sawan,5-5,0,2003,HepatitisC
 Phichit,5-5,0,2003,HepatitisC
 Uthai Thani,5-5,0,2003,HepatitisC
 Central Region,5-5,0,2003,HepatitisC
 Bangkok,5-5,0,2003,HepatitisC
-Zone 4,5-5,0,2003,HepatitisC
+Zone:4,5-5,0,2003,HepatitisC
 Ang Thong,5-5,0,2003,HepatitisC
 Nonthaburi,5-5,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,5-5,0,2003,HepatitisC
 Pathum Thani,5-5,0,2003,HepatitisC
-Zone 5,5-5,0,2003,HepatitisC
+Zone:5,5-5,0,2003,HepatitisC
 Chai Nat,5-5,0,2003,HepatitisC
 Lop Buri,5-5,0,2003,HepatitisC
 Saraburi,5-5,0,2003,HepatitisC
 Sing Buri,5-5,0,2003,HepatitisC
-Zone 6,5-5,0,2003,HepatitisC
+Zone:6,5-5,0,2003,HepatitisC
 Kanchanaburi,5-5,0,2003,HepatitisC
 Nakhon Pathom,5-5,0,2003,HepatitisC
 Ratchaburi,5-5,0,2003,HepatitisC
 Suphan Buri,5-5,0,2003,HepatitisC
-Zone 7,5-5,0,2003,HepatitisC
+Zone:7,5-5,0,2003,HepatitisC
 Phetchaburi,5-5,0,2003,HepatitisC
 Prachuap Khiri Khan,5-5,0,2003,HepatitisC
 Samut Sakhon,5-5,0,2003,HepatitisC
 Samut Songkhram,5-5,0,2003,HepatitisC
-Zone 8,5-5,0,2003,HepatitisC
+Zone:8,5-5,0,2003,HepatitisC
 Chachoengsao,5-5,0,2003,HepatitisC
 Nakhon Nayok,5-5,0,2003,HepatitisC
 Prachin Buri,5-5,0,2003,HepatitisC
 Sa Kaeo,5-5,0,2003,HepatitisC
 Samut Prakan,5-5,0,2003,HepatitisC
-Zone 9,5-5,0,2003,HepatitisC
+Zone:9,5-5,0,2003,HepatitisC
 Chanthaburi,5-5,0,2003,HepatitisC
 Chon Buri,5-5,0,2003,HepatitisC
 Rayong,5-5,0,2003,HepatitisC
 Trat,5-5,0,2003,HepatitisC
 North-Eastern Region,5-5,1,2003,HepatitisC
-Zone 10,5-5,1,2003,HepatitisC
+Zone:10,5-5,1,2003,HepatitisC
 Loei,5-5,0,2003,HepatitisC
 Nong Bua Lam Phu,5-5,0,2003,HepatitisC
 Nong Khai,5-5,1,2003,HepatitisC
 Udon Thani,5-5,0,2003,HepatitisC
-Zone 11,5-5,0,2003,HepatitisC
+Zone:11,5-5,0,2003,HepatitisC
 Kalasin,5-5,0,2003,HepatitisC
 Mukdahan,5-5,0,2003,HepatitisC
 Nakhon Phanom,5-5,0,2003,HepatitisC
 Sakon Nakhon,5-5,0,2003,HepatitisC
-Zone 12,5-5,0,2003,HepatitisC
+Zone:12,5-5,0,2003,HepatitisC
 Khon Kaen,5-5,0,2003,HepatitisC
 Maha Sarakham,5-5,0,2003,HepatitisC
 Roi Et,5-5,0,2003,HepatitisC
-Zone 13,5-5,0,2003,HepatitisC
+Zone:13,5-5,0,2003,HepatitisC
 Buri Ram,5-5,0,2003,HepatitisC
 Chaiyaphum,5-5,0,2003,HepatitisC
 Nakhon Ratchasima,5-5,0,2003,HepatitisC
 Surin,5-5,0,2003,HepatitisC
-Zone 14,5-5,0,2003,HepatitisC
+Zone:14,5-5,0,2003,HepatitisC
 Amnat Charoen,5-5,0,2003,HepatitisC
 Si Sa Ket,5-5,0,2003,HepatitisC
 Ubon Ratchathani,5-5,0,2003,HepatitisC
 Yasothon,5-5,0,2003,HepatitisC
 South Region,5-5,0,2003,HepatitisC
-Zone 15,5-5,0,2003,HepatitisC
+Zone:15,5-5,0,2003,HepatitisC
 Chumphon,5-5,0,2003,HepatitisC
 Ranong,5-5,0,2003,HepatitisC
 Surat Thani,5-5,0,2003,HepatitisC
-Zone 16,5-5,0,2003,HepatitisC
+Zone:16,5-5,0,2003,HepatitisC
 Nakhon Si Thammarat,5-5,0,2003,HepatitisC
 Phatthalung,5-5,0,2003,HepatitisC
 Trang,5-5,0,2003,HepatitisC
-Zone 17,5-5,0,2003,HepatitisC
+Zone:17,5-5,0,2003,HepatitisC
 Krabi,5-5,0,2003,HepatitisC
 Phangnga,5-5,0,2003,HepatitisC
 Phuket,5-5,0,2003,HepatitisC
-Zone 18,5-5,0,2003,HepatitisC
+Zone:18,5-5,0,2003,HepatitisC
 Narathiwat,5-5,0,2003,HepatitisC
 Pattani,5-5,0,2003,HepatitisC
 Yala,5-5,0,2003,HepatitisC
-Zone 19,5-5,0,2003,HepatitisC
+Zone:19,5-5,0,2003,HepatitisC
 Satun,5-5,0,2003,HepatitisC
 Songkhla,5-5,0,2003,HepatitisC
 Total,6-6,2,2003,HepatitisC
 North Region,6-6,0,2003,HepatitisC
-Zone 1,6-6,0,2003,HepatitisC
+Zone:1,6-6,0,2003,HepatitisC
 Chiang Mai,6-6,0,2003,HepatitisC
 Chiang Rai,6-6,0,2003,HepatitisC
 Lampang,6-6,0,2003,HepatitisC
@@ -30294,98 +30294,98 @@ Mae Hong Son,6-6,0,2003,HepatitisC
 Nan,6-6,0,2003,HepatitisC
 Phayao,6-6,0,2003,HepatitisC
 Phrae,6-6,0,2003,HepatitisC
-Zone 2,6-6,0,2003,HepatitisC
+Zone:2,6-6,0,2003,HepatitisC
 Phetchabun,6-6,0,2003,HepatitisC
 Phitsanulok,6-6,0,2003,HepatitisC
 Sukhothai,6-6,0,2003,HepatitisC
 Tak,6-6,0,2003,HepatitisC
 Uttaradit,6-6,0,2003,HepatitisC
-Zone 3,6-6,0,2003,HepatitisC
+Zone:3,6-6,0,2003,HepatitisC
 Kamphaeng Phet,6-6,0,2003,HepatitisC
 Nakhon Sawan,6-6,0,2003,HepatitisC
 Phichit,6-6,0,2003,HepatitisC
 Uthai Thani,6-6,0,2003,HepatitisC
 Central Region,6-6,1,2003,HepatitisC
 Bangkok,6-6,1,2003,HepatitisC
-Zone 4,6-6,0,2003,HepatitisC
+Zone:4,6-6,0,2003,HepatitisC
 Ang Thong,6-6,0,2003,HepatitisC
 Nonthaburi,6-6,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,6-6,0,2003,HepatitisC
 Pathum Thani,6-6,0,2003,HepatitisC
-Zone 5,6-6,0,2003,HepatitisC
+Zone:5,6-6,0,2003,HepatitisC
 Chai Nat,6-6,0,2003,HepatitisC
 Lop Buri,6-6,0,2003,HepatitisC
 Saraburi,6-6,0,2003,HepatitisC
 Sing Buri,6-6,0,2003,HepatitisC
-Zone 6,6-6,0,2003,HepatitisC
+Zone:6,6-6,0,2003,HepatitisC
 Kanchanaburi,6-6,0,2003,HepatitisC
 Nakhon Pathom,6-6,0,2003,HepatitisC
 Ratchaburi,6-6,0,2003,HepatitisC
 Suphan Buri,6-6,0,2003,HepatitisC
-Zone 7,6-6,0,2003,HepatitisC
+Zone:7,6-6,0,2003,HepatitisC
 Phetchaburi,6-6,0,2003,HepatitisC
 Prachuap Khiri Khan,6-6,0,2003,HepatitisC
 Samut Sakhon,6-6,0,2003,HepatitisC
 Samut Songkhram,6-6,0,2003,HepatitisC
-Zone 8,6-6,0,2003,HepatitisC
+Zone:8,6-6,0,2003,HepatitisC
 Chachoengsao,6-6,0,2003,HepatitisC
 Nakhon Nayok,6-6,0,2003,HepatitisC
 Prachin Buri,6-6,0,2003,HepatitisC
 Sa Kaeo,6-6,0,2003,HepatitisC
 Samut Prakan,6-6,0,2003,HepatitisC
-Zone 9,6-6,0,2003,HepatitisC
+Zone:9,6-6,0,2003,HepatitisC
 Chanthaburi,6-6,0,2003,HepatitisC
 Chon Buri,6-6,0,2003,HepatitisC
 Rayong,6-6,0,2003,HepatitisC
 Trat,6-6,0,2003,HepatitisC
 North-Eastern Region,6-6,0,2003,HepatitisC
-Zone 10,6-6,0,2003,HepatitisC
+Zone:10,6-6,0,2003,HepatitisC
 Loei,6-6,0,2003,HepatitisC
 Nong Bua Lam Phu,6-6,0,2003,HepatitisC
 Nong Khai,6-6,0,2003,HepatitisC
 Udon Thani,6-6,0,2003,HepatitisC
-Zone 11,6-6,0,2003,HepatitisC
+Zone:11,6-6,0,2003,HepatitisC
 Kalasin,6-6,0,2003,HepatitisC
 Mukdahan,6-6,0,2003,HepatitisC
 Nakhon Phanom,6-6,0,2003,HepatitisC
 Sakon Nakhon,6-6,0,2003,HepatitisC
-Zone 12,6-6,0,2003,HepatitisC
+Zone:12,6-6,0,2003,HepatitisC
 Khon Kaen,6-6,0,2003,HepatitisC
 Maha Sarakham,6-6,0,2003,HepatitisC
 Roi Et,6-6,0,2003,HepatitisC
-Zone 13,6-6,0,2003,HepatitisC
+Zone:13,6-6,0,2003,HepatitisC
 Buri Ram,6-6,0,2003,HepatitisC
 Chaiyaphum,6-6,0,2003,HepatitisC
 Nakhon Ratchasima,6-6,0,2003,HepatitisC
 Surin,6-6,0,2003,HepatitisC
-Zone 14,6-6,0,2003,HepatitisC
+Zone:14,6-6,0,2003,HepatitisC
 Amnat Charoen,6-6,0,2003,HepatitisC
 Si Sa Ket,6-6,0,2003,HepatitisC
 Ubon Ratchathani,6-6,0,2003,HepatitisC
 Yasothon,6-6,0,2003,HepatitisC
 South Region,6-6,1,2003,HepatitisC
-Zone 15,6-6,0,2003,HepatitisC
+Zone:15,6-6,0,2003,HepatitisC
 Chumphon,6-6,0,2003,HepatitisC
 Ranong,6-6,0,2003,HepatitisC
 Surat Thani,6-6,0,2003,HepatitisC
-Zone 16,6-6,0,2003,HepatitisC
+Zone:16,6-6,0,2003,HepatitisC
 Nakhon Si Thammarat,6-6,0,2003,HepatitisC
 Phatthalung,6-6,0,2003,HepatitisC
 Trang,6-6,0,2003,HepatitisC
-Zone 17,6-6,0,2003,HepatitisC
+Zone:17,6-6,0,2003,HepatitisC
 Krabi,6-6,0,2003,HepatitisC
 Phangnga,6-6,0,2003,HepatitisC
 Phuket,6-6,0,2003,HepatitisC
-Zone 18,6-6,1,2003,HepatitisC
+Zone:18,6-6,1,2003,HepatitisC
 Narathiwat,6-6,0,2003,HepatitisC
 Pattani,6-6,1,2003,HepatitisC
 Yala,6-6,0,2003,HepatitisC
-Zone 19,6-6,0,2003,HepatitisC
+Zone:19,6-6,0,2003,HepatitisC
 Satun,6-6,0,2003,HepatitisC
 Songkhla,6-6,0,2003,HepatitisC
 Total,7-9,2,2003,HepatitisC
 North Region,7-9,1,2003,HepatitisC
-Zone 1,7-9,1,2003,HepatitisC
+Zone:1,7-9,1,2003,HepatitisC
 Chiang Mai,7-9,0,2003,HepatitisC
 Chiang Rai,7-9,0,2003,HepatitisC
 Lampang,7-9,0,2003,HepatitisC
@@ -30394,98 +30394,98 @@ Mae Hong Son,7-9,0,2003,HepatitisC
 Nan,7-9,0,2003,HepatitisC
 Phayao,7-9,1,2003,HepatitisC
 Phrae,7-9,0,2003,HepatitisC
-Zone 2,7-9,0,2003,HepatitisC
+Zone:2,7-9,0,2003,HepatitisC
 Phetchabun,7-9,0,2003,HepatitisC
 Phitsanulok,7-9,0,2003,HepatitisC
 Sukhothai,7-9,0,2003,HepatitisC
 Tak,7-9,0,2003,HepatitisC
 Uttaradit,7-9,0,2003,HepatitisC
-Zone 3,7-9,0,2003,HepatitisC
+Zone:3,7-9,0,2003,HepatitisC
 Kamphaeng Phet,7-9,0,2003,HepatitisC
 Nakhon Sawan,7-9,0,2003,HepatitisC
 Phichit,7-9,0,2003,HepatitisC
 Uthai Thani,7-9,0,2003,HepatitisC
 Central Region,7-9,0,2003,HepatitisC
 Bangkok,7-9,0,2003,HepatitisC
-Zone 4,7-9,0,2003,HepatitisC
+Zone:4,7-9,0,2003,HepatitisC
 Ang Thong,7-9,0,2003,HepatitisC
 Nonthaburi,7-9,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,7-9,0,2003,HepatitisC
 Pathum Thani,7-9,0,2003,HepatitisC
-Zone 5,7-9,0,2003,HepatitisC
+Zone:5,7-9,0,2003,HepatitisC
 Chai Nat,7-9,0,2003,HepatitisC
 Lop Buri,7-9,0,2003,HepatitisC
 Saraburi,7-9,0,2003,HepatitisC
 Sing Buri,7-9,0,2003,HepatitisC
-Zone 6,7-9,0,2003,HepatitisC
+Zone:6,7-9,0,2003,HepatitisC
 Kanchanaburi,7-9,0,2003,HepatitisC
 Nakhon Pathom,7-9,0,2003,HepatitisC
 Ratchaburi,7-9,0,2003,HepatitisC
 Suphan Buri,7-9,0,2003,HepatitisC
-Zone 7,7-9,0,2003,HepatitisC
+Zone:7,7-9,0,2003,HepatitisC
 Phetchaburi,7-9,0,2003,HepatitisC
 Prachuap Khiri Khan,7-9,0,2003,HepatitisC
 Samut Sakhon,7-9,0,2003,HepatitisC
 Samut Songkhram,7-9,0,2003,HepatitisC
-Zone 8,7-9,0,2003,HepatitisC
+Zone:8,7-9,0,2003,HepatitisC
 Chachoengsao,7-9,0,2003,HepatitisC
 Nakhon Nayok,7-9,0,2003,HepatitisC
 Prachin Buri,7-9,0,2003,HepatitisC
 Sa Kaeo,7-9,0,2003,HepatitisC
 Samut Prakan,7-9,0,2003,HepatitisC
-Zone 9,7-9,0,2003,HepatitisC
+Zone:9,7-9,0,2003,HepatitisC
 Chanthaburi,7-9,0,2003,HepatitisC
 Chon Buri,7-9,0,2003,HepatitisC
 Rayong,7-9,0,2003,HepatitisC
 Trat,7-9,0,2003,HepatitisC
 North-Eastern Region,7-9,1,2003,HepatitisC
-Zone 10,7-9,1,2003,HepatitisC
+Zone:10,7-9,1,2003,HepatitisC
 Loei,7-9,0,2003,HepatitisC
 Nong Bua Lam Phu,7-9,0,2003,HepatitisC
 Nong Khai,7-9,1,2003,HepatitisC
 Udon Thani,7-9,0,2003,HepatitisC
-Zone 11,7-9,0,2003,HepatitisC
+Zone:11,7-9,0,2003,HepatitisC
 Kalasin,7-9,0,2003,HepatitisC
 Mukdahan,7-9,0,2003,HepatitisC
 Nakhon Phanom,7-9,0,2003,HepatitisC
 Sakon Nakhon,7-9,0,2003,HepatitisC
-Zone 12,7-9,0,2003,HepatitisC
+Zone:12,7-9,0,2003,HepatitisC
 Khon Kaen,7-9,0,2003,HepatitisC
 Maha Sarakham,7-9,0,2003,HepatitisC
 Roi Et,7-9,0,2003,HepatitisC
-Zone 13,7-9,0,2003,HepatitisC
+Zone:13,7-9,0,2003,HepatitisC
 Buri Ram,7-9,0,2003,HepatitisC
 Chaiyaphum,7-9,0,2003,HepatitisC
 Nakhon Ratchasima,7-9,0,2003,HepatitisC
 Surin,7-9,0,2003,HepatitisC
-Zone 14,7-9,0,2003,HepatitisC
+Zone:14,7-9,0,2003,HepatitisC
 Amnat Charoen,7-9,0,2003,HepatitisC
 Si Sa Ket,7-9,0,2003,HepatitisC
 Ubon Ratchathani,7-9,0,2003,HepatitisC
 Yasothon,7-9,0,2003,HepatitisC
 South Region,7-9,0,2003,HepatitisC
-Zone 15,7-9,0,2003,HepatitisC
+Zone:15,7-9,0,2003,HepatitisC
 Chumphon,7-9,0,2003,HepatitisC
 Ranong,7-9,0,2003,HepatitisC
 Surat Thani,7-9,0,2003,HepatitisC
-Zone 16,7-9,0,2003,HepatitisC
+Zone:16,7-9,0,2003,HepatitisC
 Nakhon Si Thammarat,7-9,0,2003,HepatitisC
 Phatthalung,7-9,0,2003,HepatitisC
 Trang,7-9,0,2003,HepatitisC
-Zone 17,7-9,0,2003,HepatitisC
+Zone:17,7-9,0,2003,HepatitisC
 Krabi,7-9,0,2003,HepatitisC
 Phangnga,7-9,0,2003,HepatitisC
 Phuket,7-9,0,2003,HepatitisC
-Zone 18,7-9,0,2003,HepatitisC
+Zone:18,7-9,0,2003,HepatitisC
 Narathiwat,7-9,0,2003,HepatitisC
 Pattani,7-9,0,2003,HepatitisC
 Yala,7-9,0,2003,HepatitisC
-Zone 19,7-9,0,2003,HepatitisC
+Zone:19,7-9,0,2003,HepatitisC
 Satun,7-9,0,2003,HepatitisC
 Songkhla,7-9,0,2003,HepatitisC
 Total,10-14,9,2003,HepatitisC
 North Region,10-14,1,2003,HepatitisC
-Zone 1,10-14,0,2003,HepatitisC
+Zone:1,10-14,0,2003,HepatitisC
 Chiang Mai,10-14,0,2003,HepatitisC
 Chiang Rai,10-14,0,2003,HepatitisC
 Lampang,10-14,0,2003,HepatitisC
@@ -30494,98 +30494,98 @@ Mae Hong Son,10-14,0,2003,HepatitisC
 Nan,10-14,0,2003,HepatitisC
 Phayao,10-14,0,2003,HepatitisC
 Phrae,10-14,0,2003,HepatitisC
-Zone 2,10-14,1,2003,HepatitisC
+Zone:2,10-14,1,2003,HepatitisC
 Phetchabun,10-14,1,2003,HepatitisC
 Phitsanulok,10-14,0,2003,HepatitisC
 Sukhothai,10-14,0,2003,HepatitisC
 Tak,10-14,0,2003,HepatitisC
 Uttaradit,10-14,0,2003,HepatitisC
-Zone 3,10-14,0,2003,HepatitisC
+Zone:3,10-14,0,2003,HepatitisC
 Kamphaeng Phet,10-14,0,2003,HepatitisC
 Nakhon Sawan,10-14,0,2003,HepatitisC
 Phichit,10-14,0,2003,HepatitisC
 Uthai Thani,10-14,0,2003,HepatitisC
 Central Region,10-14,1,2003,HepatitisC
 Bangkok,10-14,0,2003,HepatitisC
-Zone 4,10-14,0,2003,HepatitisC
+Zone:4,10-14,0,2003,HepatitisC
 Ang Thong,10-14,0,2003,HepatitisC
 Nonthaburi,10-14,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,10-14,0,2003,HepatitisC
 Pathum Thani,10-14,0,2003,HepatitisC
-Zone 5,10-14,0,2003,HepatitisC
+Zone:5,10-14,0,2003,HepatitisC
 Chai Nat,10-14,0,2003,HepatitisC
 Lop Buri,10-14,0,2003,HepatitisC
 Saraburi,10-14,0,2003,HepatitisC
 Sing Buri,10-14,0,2003,HepatitisC
-Zone 6,10-14,0,2003,HepatitisC
+Zone:6,10-14,0,2003,HepatitisC
 Kanchanaburi,10-14,0,2003,HepatitisC
 Nakhon Pathom,10-14,0,2003,HepatitisC
 Ratchaburi,10-14,0,2003,HepatitisC
 Suphan Buri,10-14,0,2003,HepatitisC
-Zone 7,10-14,0,2003,HepatitisC
+Zone:7,10-14,0,2003,HepatitisC
 Phetchaburi,10-14,0,2003,HepatitisC
 Prachuap Khiri Khan,10-14,0,2003,HepatitisC
 Samut Sakhon,10-14,0,2003,HepatitisC
 Samut Songkhram,10-14,0,2003,HepatitisC
-Zone 8,10-14,1,2003,HepatitisC
+Zone:8,10-14,1,2003,HepatitisC
 Chachoengsao,10-14,0,2003,HepatitisC
 Nakhon Nayok,10-14,0,2003,HepatitisC
 Prachin Buri,10-14,1,2003,HepatitisC
 Sa Kaeo,10-14,0,2003,HepatitisC
 Samut Prakan,10-14,0,2003,HepatitisC
-Zone 9,10-14,0,2003,HepatitisC
+Zone:9,10-14,0,2003,HepatitisC
 Chanthaburi,10-14,0,2003,HepatitisC
 Chon Buri,10-14,0,2003,HepatitisC
 Rayong,10-14,0,2003,HepatitisC
 Trat,10-14,0,2003,HepatitisC
 North-Eastern Region,10-14,1,2003,HepatitisC
-Zone 10,10-14,0,2003,HepatitisC
+Zone:10,10-14,0,2003,HepatitisC
 Loei,10-14,0,2003,HepatitisC
 Nong Bua Lam Phu,10-14,0,2003,HepatitisC
 Nong Khai,10-14,0,2003,HepatitisC
 Udon Thani,10-14,0,2003,HepatitisC
-Zone 11,10-14,0,2003,HepatitisC
+Zone:11,10-14,0,2003,HepatitisC
 Kalasin,10-14,0,2003,HepatitisC
 Mukdahan,10-14,0,2003,HepatitisC
 Nakhon Phanom,10-14,0,2003,HepatitisC
 Sakon Nakhon,10-14,0,2003,HepatitisC
-Zone 12,10-14,0,2003,HepatitisC
+Zone:12,10-14,0,2003,HepatitisC
 Khon Kaen,10-14,0,2003,HepatitisC
 Maha Sarakham,10-14,0,2003,HepatitisC
 Roi Et,10-14,0,2003,HepatitisC
-Zone 13,10-14,0,2003,HepatitisC
+Zone:13,10-14,0,2003,HepatitisC
 Buri Ram,10-14,0,2003,HepatitisC
 Chaiyaphum,10-14,0,2003,HepatitisC
 Nakhon Ratchasima,10-14,0,2003,HepatitisC
 Surin,10-14,0,2003,HepatitisC
-Zone 14,10-14,1,2003,HepatitisC
+Zone:14,10-14,1,2003,HepatitisC
 Amnat Charoen,10-14,0,2003,HepatitisC
 Si Sa Ket,10-14,0,2003,HepatitisC
 Ubon Ratchathani,10-14,1,2003,HepatitisC
 Yasothon,10-14,0,2003,HepatitisC
 South Region,10-14,6,2003,HepatitisC
-Zone 15,10-14,0,2003,HepatitisC
+Zone:15,10-14,0,2003,HepatitisC
 Chumphon,10-14,0,2003,HepatitisC
 Ranong,10-14,0,2003,HepatitisC
 Surat Thani,10-14,0,2003,HepatitisC
-Zone 16,10-14,0,2003,HepatitisC
+Zone:16,10-14,0,2003,HepatitisC
 Nakhon Si Thammarat,10-14,0,2003,HepatitisC
 Phatthalung,10-14,0,2003,HepatitisC
 Trang,10-14,0,2003,HepatitisC
-Zone 17,10-14,0,2003,HepatitisC
+Zone:17,10-14,0,2003,HepatitisC
 Krabi,10-14,0,2003,HepatitisC
 Phangnga,10-14,0,2003,HepatitisC
 Phuket,10-14,0,2003,HepatitisC
-Zone 18,10-14,6,2003,HepatitisC
+Zone:18,10-14,6,2003,HepatitisC
 Narathiwat,10-14,3,2003,HepatitisC
 Pattani,10-14,2,2003,HepatitisC
 Yala,10-14,1,2003,HepatitisC
-Zone 19,10-14,0,2003,HepatitisC
+Zone:19,10-14,0,2003,HepatitisC
 Satun,10-14,0,2003,HepatitisC
 Songkhla,10-14,0,2003,HepatitisC
 Total,15-24,29,2003,HepatitisC
 North Region,15-24,6,2003,HepatitisC
-Zone 1,15-24,6,2003,HepatitisC
+Zone:1,15-24,6,2003,HepatitisC
 Chiang Mai,15-24,1,2003,HepatitisC
 Chiang Rai,15-24,2,2003,HepatitisC
 Lampang,15-24,0,2003,HepatitisC
@@ -30594,98 +30594,98 @@ Mae Hong Son,15-24,0,2003,HepatitisC
 Nan,15-24,0,2003,HepatitisC
 Phayao,15-24,3,2003,HepatitisC
 Phrae,15-24,0,2003,HepatitisC
-Zone 2,15-24,0,2003,HepatitisC
+Zone:2,15-24,0,2003,HepatitisC
 Phetchabun,15-24,0,2003,HepatitisC
 Phitsanulok,15-24,0,2003,HepatitisC
 Sukhothai,15-24,0,2003,HepatitisC
 Tak,15-24,0,2003,HepatitisC
 Uttaradit,15-24,0,2003,HepatitisC
-Zone 3,15-24,0,2003,HepatitisC
+Zone:3,15-24,0,2003,HepatitisC
 Kamphaeng Phet,15-24,0,2003,HepatitisC
 Nakhon Sawan,15-24,0,2003,HepatitisC
 Phichit,15-24,0,2003,HepatitisC
 Uthai Thani,15-24,0,2003,HepatitisC
 Central Region,15-24,3,2003,HepatitisC
 Bangkok,15-24,2,2003,HepatitisC
-Zone 4,15-24,0,2003,HepatitisC
+Zone:4,15-24,0,2003,HepatitisC
 Ang Thong,15-24,0,2003,HepatitisC
 Nonthaburi,15-24,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,15-24,0,2003,HepatitisC
 Pathum Thani,15-24,0,2003,HepatitisC
-Zone 5,15-24,0,2003,HepatitisC
+Zone:5,15-24,0,2003,HepatitisC
 Chai Nat,15-24,0,2003,HepatitisC
 Lop Buri,15-24,0,2003,HepatitisC
 Saraburi,15-24,0,2003,HepatitisC
 Sing Buri,15-24,0,2003,HepatitisC
-Zone 6,15-24,0,2003,HepatitisC
+Zone:6,15-24,0,2003,HepatitisC
 Kanchanaburi,15-24,0,2003,HepatitisC
 Nakhon Pathom,15-24,0,2003,HepatitisC
 Ratchaburi,15-24,0,2003,HepatitisC
 Suphan Buri,15-24,0,2003,HepatitisC
-Zone 7,15-24,0,2003,HepatitisC
+Zone:7,15-24,0,2003,HepatitisC
 Phetchaburi,15-24,0,2003,HepatitisC
 Prachuap Khiri Khan,15-24,0,2003,HepatitisC
 Samut Sakhon,15-24,0,2003,HepatitisC
 Samut Songkhram,15-24,0,2003,HepatitisC
-Zone 8,15-24,1,2003,HepatitisC
+Zone:8,15-24,1,2003,HepatitisC
 Chachoengsao,15-24,0,2003,HepatitisC
 Nakhon Nayok,15-24,0,2003,HepatitisC
 Prachin Buri,15-24,0,2003,HepatitisC
 Sa Kaeo,15-24,1,2003,HepatitisC
 Samut Prakan,15-24,0,2003,HepatitisC
-Zone 9,15-24,0,2003,HepatitisC
+Zone:9,15-24,0,2003,HepatitisC
 Chanthaburi,15-24,0,2003,HepatitisC
 Chon Buri,15-24,0,2003,HepatitisC
 Rayong,15-24,0,2003,HepatitisC
 Trat,15-24,0,2003,HepatitisC
 North-Eastern Region,15-24,18,2003,HepatitisC
-Zone 10,15-24,1,2003,HepatitisC
+Zone:10,15-24,1,2003,HepatitisC
 Loei,15-24,0,2003,HepatitisC
 Nong Bua Lam Phu,15-24,0,2003,HepatitisC
 Nong Khai,15-24,0,2003,HepatitisC
 Udon Thani,15-24,1,2003,HepatitisC
-Zone 11,15-24,0,2003,HepatitisC
+Zone:11,15-24,0,2003,HepatitisC
 Kalasin,15-24,0,2003,HepatitisC
 Mukdahan,15-24,0,2003,HepatitisC
 Nakhon Phanom,15-24,0,2003,HepatitisC
 Sakon Nakhon,15-24,0,2003,HepatitisC
-Zone 12,15-24,2,2003,HepatitisC
+Zone:12,15-24,2,2003,HepatitisC
 Khon Kaen,15-24,2,2003,HepatitisC
 Maha Sarakham,15-24,0,2003,HepatitisC
 Roi Et,15-24,0,2003,HepatitisC
-Zone 13,15-24,4,2003,HepatitisC
+Zone:13,15-24,4,2003,HepatitisC
 Buri Ram,15-24,1,2003,HepatitisC
 Chaiyaphum,15-24,2,2003,HepatitisC
 Nakhon Ratchasima,15-24,1,2003,HepatitisC
 Surin,15-24,0,2003,HepatitisC
-Zone 14,15-24,11,2003,HepatitisC
+Zone:14,15-24,11,2003,HepatitisC
 Amnat Charoen,15-24,2,2003,HepatitisC
 Si Sa Ket,15-24,2,2003,HepatitisC
 Ubon Ratchathani,15-24,7,2003,HepatitisC
 Yasothon,15-24,0,2003,HepatitisC
 South Region,15-24,2,2003,HepatitisC
-Zone 15,15-24,0,2003,HepatitisC
+Zone:15,15-24,0,2003,HepatitisC
 Chumphon,15-24,0,2003,HepatitisC
 Ranong,15-24,0,2003,HepatitisC
 Surat Thani,15-24,0,2003,HepatitisC
-Zone 16,15-24,0,2003,HepatitisC
+Zone:16,15-24,0,2003,HepatitisC
 Nakhon Si Thammarat,15-24,0,2003,HepatitisC
 Phatthalung,15-24,0,2003,HepatitisC
 Trang,15-24,0,2003,HepatitisC
-Zone 17,15-24,0,2003,HepatitisC
+Zone:17,15-24,0,2003,HepatitisC
 Krabi,15-24,0,2003,HepatitisC
 Phangnga,15-24,0,2003,HepatitisC
 Phuket,15-24,0,2003,HepatitisC
-Zone 18,15-24,2,2003,HepatitisC
+Zone:18,15-24,2,2003,HepatitisC
 Narathiwat,15-24,2,2003,HepatitisC
 Pattani,15-24,0,2003,HepatitisC
 Yala,15-24,0,2003,HepatitisC
-Zone 19,15-24,0,2003,HepatitisC
+Zone:19,15-24,0,2003,HepatitisC
 Satun,15-24,0,2003,HepatitisC
 Songkhla,15-24,0,2003,HepatitisC
 Total,25-34,48,2003,HepatitisC
 North Region,25-34,11,2003,HepatitisC
-Zone 1,25-34,6,2003,HepatitisC
+Zone:1,25-34,6,2003,HepatitisC
 Chiang Mai,25-34,1,2003,HepatitisC
 Chiang Rai,25-34,0,2003,HepatitisC
 Lampang,25-34,0,2003,HepatitisC
@@ -30694,98 +30694,98 @@ Mae Hong Son,25-34,0,2003,HepatitisC
 Nan,25-34,0,2003,HepatitisC
 Phayao,25-34,5,2003,HepatitisC
 Phrae,25-34,0,2003,HepatitisC
-Zone 2,25-34,3,2003,HepatitisC
+Zone:2,25-34,3,2003,HepatitisC
 Phetchabun,25-34,3,2003,HepatitisC
 Phitsanulok,25-34,0,2003,HepatitisC
 Sukhothai,25-34,0,2003,HepatitisC
 Tak,25-34,0,2003,HepatitisC
 Uttaradit,25-34,0,2003,HepatitisC
-Zone 3,25-34,2,2003,HepatitisC
+Zone:3,25-34,2,2003,HepatitisC
 Kamphaeng Phet,25-34,1,2003,HepatitisC
 Nakhon Sawan,25-34,1,2003,HepatitisC
 Phichit,25-34,0,2003,HepatitisC
 Uthai Thani,25-34,0,2003,HepatitisC
 Central Region,25-34,10,2003,HepatitisC
 Bangkok,25-34,6,2003,HepatitisC
-Zone 4,25-34,1,2003,HepatitisC
+Zone:4,25-34,1,2003,HepatitisC
 Ang Thong,25-34,0,2003,HepatitisC
 Nonthaburi,25-34,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,25-34,0,2003,HepatitisC
 Pathum Thani,25-34,1,2003,HepatitisC
-Zone 5,25-34,0,2003,HepatitisC
+Zone:5,25-34,0,2003,HepatitisC
 Chai Nat,25-34,0,2003,HepatitisC
 Lop Buri,25-34,0,2003,HepatitisC
 Saraburi,25-34,0,2003,HepatitisC
 Sing Buri,25-34,0,2003,HepatitisC
-Zone 6,25-34,0,2003,HepatitisC
+Zone:6,25-34,0,2003,HepatitisC
 Kanchanaburi,25-34,0,2003,HepatitisC
 Nakhon Pathom,25-34,0,2003,HepatitisC
 Ratchaburi,25-34,0,2003,HepatitisC
 Suphan Buri,25-34,0,2003,HepatitisC
-Zone 7,25-34,1,2003,HepatitisC
+Zone:7,25-34,1,2003,HepatitisC
 Phetchaburi,25-34,0,2003,HepatitisC
 Prachuap Khiri Khan,25-34,1,2003,HepatitisC
 Samut Sakhon,25-34,0,2003,HepatitisC
 Samut Songkhram,25-34,0,2003,HepatitisC
-Zone 8,25-34,1,2003,HepatitisC
+Zone:8,25-34,1,2003,HepatitisC
 Chachoengsao,25-34,0,2003,HepatitisC
 Nakhon Nayok,25-34,0,2003,HepatitisC
 Prachin Buri,25-34,0,2003,HepatitisC
 Sa Kaeo,25-34,1,2003,HepatitisC
 Samut Prakan,25-34,0,2003,HepatitisC
-Zone 9,25-34,1,2003,HepatitisC
+Zone:9,25-34,1,2003,HepatitisC
 Chanthaburi,25-34,0,2003,HepatitisC
 Chon Buri,25-34,0,2003,HepatitisC
 Rayong,25-34,1,2003,HepatitisC
 Trat,25-34,0,2003,HepatitisC
 North-Eastern Region,25-34,16,2003,HepatitisC
-Zone 10,25-34,2,2003,HepatitisC
+Zone:10,25-34,2,2003,HepatitisC
 Loei,25-34,0,2003,HepatitisC
 Nong Bua Lam Phu,25-34,0,2003,HepatitisC
 Nong Khai,25-34,0,2003,HepatitisC
 Udon Thani,25-34,2,2003,HepatitisC
-Zone 11,25-34,0,2003,HepatitisC
+Zone:11,25-34,0,2003,HepatitisC
 Kalasin,25-34,0,2003,HepatitisC
 Mukdahan,25-34,0,2003,HepatitisC
 Nakhon Phanom,25-34,0,2003,HepatitisC
 Sakon Nakhon,25-34,0,2003,HepatitisC
-Zone 12,25-34,1,2003,HepatitisC
+Zone:12,25-34,1,2003,HepatitisC
 Khon Kaen,25-34,1,2003,HepatitisC
 Maha Sarakham,25-34,0,2003,HepatitisC
 Roi Et,25-34,0,2003,HepatitisC
-Zone 13,25-34,4,2003,HepatitisC
+Zone:13,25-34,4,2003,HepatitisC
 Buri Ram,25-34,1,2003,HepatitisC
 Chaiyaphum,25-34,2,2003,HepatitisC
 Nakhon Ratchasima,25-34,1,2003,HepatitisC
 Surin,25-34,0,2003,HepatitisC
-Zone 14,25-34,9,2003,HepatitisC
+Zone:14,25-34,9,2003,HepatitisC
 Amnat Charoen,25-34,0,2003,HepatitisC
 Si Sa Ket,25-34,2,2003,HepatitisC
 Ubon Ratchathani,25-34,7,2003,HepatitisC
 Yasothon,25-34,0,2003,HepatitisC
 South Region,25-34,11,2003,HepatitisC
-Zone 15,25-34,0,2003,HepatitisC
+Zone:15,25-34,0,2003,HepatitisC
 Chumphon,25-34,0,2003,HepatitisC
 Ranong,25-34,0,2003,HepatitisC
 Surat Thani,25-34,0,2003,HepatitisC
-Zone 16,25-34,3,2003,HepatitisC
+Zone:16,25-34,3,2003,HepatitisC
 Nakhon Si Thammarat,25-34,1,2003,HepatitisC
 Phatthalung,25-34,0,2003,HepatitisC
 Trang,25-34,2,2003,HepatitisC
-Zone 17,25-34,0,2003,HepatitisC
+Zone:17,25-34,0,2003,HepatitisC
 Krabi,25-34,0,2003,HepatitisC
 Phangnga,25-34,0,2003,HepatitisC
 Phuket,25-34,0,2003,HepatitisC
-Zone 18,25-34,2,2003,HepatitisC
+Zone:18,25-34,2,2003,HepatitisC
 Narathiwat,25-34,1,2003,HepatitisC
 Pattani,25-34,0,2003,HepatitisC
 Yala,25-34,1,2003,HepatitisC
-Zone 19,25-34,6,2003,HepatitisC
+Zone:19,25-34,6,2003,HepatitisC
 Satun,25-34,0,2003,HepatitisC
 Songkhla,25-34,6,2003,HepatitisC
 Total,35-44,56,2003,HepatitisC
 North Region,35-44,19,2003,HepatitisC
-Zone 1,35-44,11,2003,HepatitisC
+Zone:1,35-44,11,2003,HepatitisC
 Chiang Mai,35-44,0,2003,HepatitisC
 Chiang Rai,35-44,0,2003,HepatitisC
 Lampang,35-44,1,2003,HepatitisC
@@ -30794,98 +30794,98 @@ Mae Hong Son,35-44,0,2003,HepatitisC
 Nan,35-44,0,2003,HepatitisC
 Phayao,35-44,10,2003,HepatitisC
 Phrae,35-44,0,2003,HepatitisC
-Zone 2,35-44,7,2003,HepatitisC
+Zone:2,35-44,7,2003,HepatitisC
 Phetchabun,35-44,6,2003,HepatitisC
 Phitsanulok,35-44,0,2003,HepatitisC
 Sukhothai,35-44,0,2003,HepatitisC
 Tak,35-44,1,2003,HepatitisC
 Uttaradit,35-44,0,2003,HepatitisC
-Zone 3,35-44,1,2003,HepatitisC
+Zone:3,35-44,1,2003,HepatitisC
 Kamphaeng Phet,35-44,0,2003,HepatitisC
 Nakhon Sawan,35-44,0,2003,HepatitisC
 Phichit,35-44,0,2003,HepatitisC
 Uthai Thani,35-44,1,2003,HepatitisC
 Central Region,35-44,13,2003,HepatitisC
 Bangkok,35-44,6,2003,HepatitisC
-Zone 4,35-44,0,2003,HepatitisC
+Zone:4,35-44,0,2003,HepatitisC
 Ang Thong,35-44,0,2003,HepatitisC
 Nonthaburi,35-44,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,35-44,0,2003,HepatitisC
 Pathum Thani,35-44,0,2003,HepatitisC
-Zone 5,35-44,0,2003,HepatitisC
+Zone:5,35-44,0,2003,HepatitisC
 Chai Nat,35-44,0,2003,HepatitisC
 Lop Buri,35-44,0,2003,HepatitisC
 Saraburi,35-44,0,2003,HepatitisC
 Sing Buri,35-44,0,2003,HepatitisC
-Zone 6,35-44,1,2003,HepatitisC
+Zone:6,35-44,1,2003,HepatitisC
 Kanchanaburi,35-44,0,2003,HepatitisC
 Nakhon Pathom,35-44,0,2003,HepatitisC
 Ratchaburi,35-44,1,2003,HepatitisC
 Suphan Buri,35-44,0,2003,HepatitisC
-Zone 7,35-44,0,2003,HepatitisC
+Zone:7,35-44,0,2003,HepatitisC
 Phetchaburi,35-44,0,2003,HepatitisC
 Prachuap Khiri Khan,35-44,0,2003,HepatitisC
 Samut Sakhon,35-44,0,2003,HepatitisC
 Samut Songkhram,35-44,0,2003,HepatitisC
-Zone 8,35-44,2,2003,HepatitisC
+Zone:8,35-44,2,2003,HepatitisC
 Chachoengsao,35-44,0,2003,HepatitisC
 Nakhon Nayok,35-44,0,2003,HepatitisC
 Prachin Buri,35-44,0,2003,HepatitisC
 Sa Kaeo,35-44,1,2003,HepatitisC
 Samut Prakan,35-44,1,2003,HepatitisC
-Zone 9,35-44,4,2003,HepatitisC
+Zone:9,35-44,4,2003,HepatitisC
 Chanthaburi,35-44,0,2003,HepatitisC
 Chon Buri,35-44,0,2003,HepatitisC
 Rayong,35-44,2,2003,HepatitisC
 Trat,35-44,2,2003,HepatitisC
 North-Eastern Region,35-44,15,2003,HepatitisC
-Zone 10,35-44,2,2003,HepatitisC
+Zone:10,35-44,2,2003,HepatitisC
 Loei,35-44,0,2003,HepatitisC
 Nong Bua Lam Phu,35-44,1,2003,HepatitisC
 Nong Khai,35-44,0,2003,HepatitisC
 Udon Thani,35-44,1,2003,HepatitisC
-Zone 11,35-44,1,2003,HepatitisC
+Zone:11,35-44,1,2003,HepatitisC
 Kalasin,35-44,1,2003,HepatitisC
 Mukdahan,35-44,0,2003,HepatitisC
 Nakhon Phanom,35-44,0,2003,HepatitisC
 Sakon Nakhon,35-44,0,2003,HepatitisC
-Zone 12,35-44,3,2003,HepatitisC
+Zone:12,35-44,3,2003,HepatitisC
 Khon Kaen,35-44,3,2003,HepatitisC
 Maha Sarakham,35-44,0,2003,HepatitisC
 Roi Et,35-44,0,2003,HepatitisC
-Zone 13,35-44,8,2003,HepatitisC
+Zone:13,35-44,8,2003,HepatitisC
 Buri Ram,35-44,1,2003,HepatitisC
 Chaiyaphum,35-44,5,2003,HepatitisC
 Nakhon Ratchasima,35-44,2,2003,HepatitisC
 Surin,35-44,0,2003,HepatitisC
-Zone 14,35-44,1,2003,HepatitisC
+Zone:14,35-44,1,2003,HepatitisC
 Amnat Charoen,35-44,0,2003,HepatitisC
 Si Sa Ket,35-44,1,2003,HepatitisC
 Ubon Ratchathani,35-44,0,2003,HepatitisC
 Yasothon,35-44,0,2003,HepatitisC
 South Region,35-44,9,2003,HepatitisC
-Zone 15,35-44,3,2003,HepatitisC
+Zone:15,35-44,3,2003,HepatitisC
 Chumphon,35-44,0,2003,HepatitisC
 Ranong,35-44,0,2003,HepatitisC
 Surat Thani,35-44,3,2003,HepatitisC
-Zone 16,35-44,1,2003,HepatitisC
+Zone:16,35-44,1,2003,HepatitisC
 Nakhon Si Thammarat,35-44,0,2003,HepatitisC
 Phatthalung,35-44,0,2003,HepatitisC
 Trang,35-44,1,2003,HepatitisC
-Zone 17,35-44,1,2003,HepatitisC
+Zone:17,35-44,1,2003,HepatitisC
 Krabi,35-44,1,2003,HepatitisC
 Phangnga,35-44,0,2003,HepatitisC
 Phuket,35-44,0,2003,HepatitisC
-Zone 18,35-44,2,2003,HepatitisC
+Zone:18,35-44,2,2003,HepatitisC
 Narathiwat,35-44,1,2003,HepatitisC
 Pattani,35-44,0,2003,HepatitisC
 Yala,35-44,1,2003,HepatitisC
-Zone 19,35-44,2,2003,HepatitisC
+Zone:19,35-44,2,2003,HepatitisC
 Satun,35-44,0,2003,HepatitisC
 Songkhla,35-44,2,2003,HepatitisC
 Total,45-54,68,2003,HepatitisC
 North Region,45-54,25,2003,HepatitisC
-Zone 1,45-54,21,2003,HepatitisC
+Zone:1,45-54,21,2003,HepatitisC
 Chiang Mai,45-54,1,2003,HepatitisC
 Chiang Rai,45-54,3,2003,HepatitisC
 Lampang,45-54,0,2003,HepatitisC
@@ -30894,98 +30894,98 @@ Mae Hong Son,45-54,0,2003,HepatitisC
 Nan,45-54,0,2003,HepatitisC
 Phayao,45-54,17,2003,HepatitisC
 Phrae,45-54,0,2003,HepatitisC
-Zone 2,45-54,3,2003,HepatitisC
+Zone:2,45-54,3,2003,HepatitisC
 Phetchabun,45-54,1,2003,HepatitisC
 Phitsanulok,45-54,0,2003,HepatitisC
 Sukhothai,45-54,0,2003,HepatitisC
 Tak,45-54,1,2003,HepatitisC
 Uttaradit,45-54,1,2003,HepatitisC
-Zone 3,45-54,1,2003,HepatitisC
+Zone:3,45-54,1,2003,HepatitisC
 Kamphaeng Phet,45-54,0,2003,HepatitisC
 Nakhon Sawan,45-54,0,2003,HepatitisC
 Phichit,45-54,1,2003,HepatitisC
 Uthai Thani,45-54,0,2003,HepatitisC
 Central Region,45-54,20,2003,HepatitisC
 Bangkok,45-54,8,2003,HepatitisC
-Zone 4,45-54,3,2003,HepatitisC
+Zone:4,45-54,3,2003,HepatitisC
 Ang Thong,45-54,0,2003,HepatitisC
 Nonthaburi,45-54,1,2003,HepatitisC
 P.Nakhon S.Ayutthaya,45-54,1,2003,HepatitisC
 Pathum Thani,45-54,1,2003,HepatitisC
-Zone 5,45-54,1,2003,HepatitisC
+Zone:5,45-54,1,2003,HepatitisC
 Chai Nat,45-54,0,2003,HepatitisC
 Lop Buri,45-54,1,2003,HepatitisC
 Saraburi,45-54,0,2003,HepatitisC
 Sing Buri,45-54,0,2003,HepatitisC
-Zone 6,45-54,6,2003,HepatitisC
+Zone:6,45-54,6,2003,HepatitisC
 Kanchanaburi,45-54,0,2003,HepatitisC
 Nakhon Pathom,45-54,2,2003,HepatitisC
 Ratchaburi,45-54,3,2003,HepatitisC
 Suphan Buri,45-54,1,2003,HepatitisC
-Zone 7,45-54,0,2003,HepatitisC
+Zone:7,45-54,0,2003,HepatitisC
 Phetchaburi,45-54,0,2003,HepatitisC
 Prachuap Khiri Khan,45-54,0,2003,HepatitisC
 Samut Sakhon,45-54,0,2003,HepatitisC
 Samut Songkhram,45-54,0,2003,HepatitisC
-Zone 8,45-54,2,2003,HepatitisC
+Zone:8,45-54,2,2003,HepatitisC
 Chachoengsao,45-54,1,2003,HepatitisC
 Nakhon Nayok,45-54,0,2003,HepatitisC
 Prachin Buri,45-54,0,2003,HepatitisC
 Sa Kaeo,45-54,1,2003,HepatitisC
 Samut Prakan,45-54,0,2003,HepatitisC
-Zone 9,45-54,0,2003,HepatitisC
+Zone:9,45-54,0,2003,HepatitisC
 Chanthaburi,45-54,0,2003,HepatitisC
 Chon Buri,45-54,0,2003,HepatitisC
 Rayong,45-54,0,2003,HepatitisC
 Trat,45-54,0,2003,HepatitisC
 North-Eastern Region,45-54,10,2003,HepatitisC
-Zone 10,45-54,0,2003,HepatitisC
+Zone:10,45-54,0,2003,HepatitisC
 Loei,45-54,0,2003,HepatitisC
 Nong Bua Lam Phu,45-54,0,2003,HepatitisC
 Nong Khai,45-54,0,2003,HepatitisC
 Udon Thani,45-54,0,2003,HepatitisC
-Zone 11,45-54,0,2003,HepatitisC
+Zone:11,45-54,0,2003,HepatitisC
 Kalasin,45-54,0,2003,HepatitisC
 Mukdahan,45-54,0,2003,HepatitisC
 Nakhon Phanom,45-54,0,2003,HepatitisC
 Sakon Nakhon,45-54,0,2003,HepatitisC
-Zone 12,45-54,3,2003,HepatitisC
+Zone:12,45-54,3,2003,HepatitisC
 Khon Kaen,45-54,3,2003,HepatitisC
 Maha Sarakham,45-54,0,2003,HepatitisC
 Roi Et,45-54,0,2003,HepatitisC
-Zone 13,45-54,4,2003,HepatitisC
+Zone:13,45-54,4,2003,HepatitisC
 Buri Ram,45-54,0,2003,HepatitisC
 Chaiyaphum,45-54,4,2003,HepatitisC
 Nakhon Ratchasima,45-54,0,2003,HepatitisC
 Surin,45-54,0,2003,HepatitisC
-Zone 14,45-54,3,2003,HepatitisC
+Zone:14,45-54,3,2003,HepatitisC
 Amnat Charoen,45-54,1,2003,HepatitisC
 Si Sa Ket,45-54,0,2003,HepatitisC
 Ubon Ratchathani,45-54,1,2003,HepatitisC
 Yasothon,45-54,1,2003,HepatitisC
 South Region,45-54,13,2003,HepatitisC
-Zone 15,45-54,0,2003,HepatitisC
+Zone:15,45-54,0,2003,HepatitisC
 Chumphon,45-54,0,2003,HepatitisC
 Ranong,45-54,0,2003,HepatitisC
 Surat Thani,45-54,0,2003,HepatitisC
-Zone 16,45-54,1,2003,HepatitisC
+Zone:16,45-54,1,2003,HepatitisC
 Nakhon Si Thammarat,45-54,0,2003,HepatitisC
 Phatthalung,45-54,0,2003,HepatitisC
 Trang,45-54,1,2003,HepatitisC
-Zone 17,45-54,0,2003,HepatitisC
+Zone:17,45-54,0,2003,HepatitisC
 Krabi,45-54,0,2003,HepatitisC
 Phangnga,45-54,0,2003,HepatitisC
 Phuket,45-54,0,2003,HepatitisC
-Zone 18,45-54,1,2003,HepatitisC
+Zone:18,45-54,1,2003,HepatitisC
 Narathiwat,45-54,1,2003,HepatitisC
 Pattani,45-54,0,2003,HepatitisC
 Yala,45-54,0,2003,HepatitisC
-Zone 19,45-54,11,2003,HepatitisC
+Zone:19,45-54,11,2003,HepatitisC
 Satun,45-54,0,2003,HepatitisC
 Songkhla,45-54,11,2003,HepatitisC
 Total,55-64,26,2003,HepatitisC
 North Region,55-64,5,2003,HepatitisC
-Zone 1,55-64,2,2003,HepatitisC
+Zone:1,55-64,2,2003,HepatitisC
 Chiang Mai,55-64,0,2003,HepatitisC
 Chiang Rai,55-64,1,2003,HepatitisC
 Lampang,55-64,0,2003,HepatitisC
@@ -30994,98 +30994,98 @@ Mae Hong Son,55-64,0,2003,HepatitisC
 Nan,55-64,0,2003,HepatitisC
 Phayao,55-64,1,2003,HepatitisC
 Phrae,55-64,0,2003,HepatitisC
-Zone 2,55-64,3,2003,HepatitisC
+Zone:2,55-64,3,2003,HepatitisC
 Phetchabun,55-64,2,2003,HepatitisC
 Phitsanulok,55-64,0,2003,HepatitisC
 Sukhothai,55-64,0,2003,HepatitisC
 Tak,55-64,0,2003,HepatitisC
 Uttaradit,55-64,1,2003,HepatitisC
-Zone 3,55-64,0,2003,HepatitisC
+Zone:3,55-64,0,2003,HepatitisC
 Kamphaeng Phet,55-64,0,2003,HepatitisC
 Nakhon Sawan,55-64,0,2003,HepatitisC
 Phichit,55-64,0,2003,HepatitisC
 Uthai Thani,55-64,0,2003,HepatitisC
 Central Region,55-64,8,2003,HepatitisC
 Bangkok,55-64,5,2003,HepatitisC
-Zone 4,55-64,1,2003,HepatitisC
+Zone:4,55-64,1,2003,HepatitisC
 Ang Thong,55-64,0,2003,HepatitisC
 Nonthaburi,55-64,1,2003,HepatitisC
 P.Nakhon S.Ayutthaya,55-64,0,2003,HepatitisC
 Pathum Thani,55-64,0,2003,HepatitisC
-Zone 5,55-64,0,2003,HepatitisC
+Zone:5,55-64,0,2003,HepatitisC
 Chai Nat,55-64,0,2003,HepatitisC
 Lop Buri,55-64,0,2003,HepatitisC
 Saraburi,55-64,0,2003,HepatitisC
 Sing Buri,55-64,0,2003,HepatitisC
-Zone 6,55-64,0,2003,HepatitisC
+Zone:6,55-64,0,2003,HepatitisC
 Kanchanaburi,55-64,0,2003,HepatitisC
 Nakhon Pathom,55-64,0,2003,HepatitisC
 Ratchaburi,55-64,0,2003,HepatitisC
 Suphan Buri,55-64,0,2003,HepatitisC
-Zone 7,55-64,0,2003,HepatitisC
+Zone:7,55-64,0,2003,HepatitisC
 Phetchaburi,55-64,0,2003,HepatitisC
 Prachuap Khiri Khan,55-64,0,2003,HepatitisC
 Samut Sakhon,55-64,0,2003,HepatitisC
 Samut Songkhram,55-64,0,2003,HepatitisC
-Zone 8,55-64,1,2003,HepatitisC
+Zone:8,55-64,1,2003,HepatitisC
 Chachoengsao,55-64,0,2003,HepatitisC
 Nakhon Nayok,55-64,0,2003,HepatitisC
 Prachin Buri,55-64,0,2003,HepatitisC
 Sa Kaeo,55-64,1,2003,HepatitisC
 Samut Prakan,55-64,0,2003,HepatitisC
-Zone 9,55-64,1,2003,HepatitisC
+Zone:9,55-64,1,2003,HepatitisC
 Chanthaburi,55-64,0,2003,HepatitisC
 Chon Buri,55-64,0,2003,HepatitisC
 Rayong,55-64,0,2003,HepatitisC
 Trat,55-64,1,2003,HepatitisC
 North-Eastern Region,55-64,2,2003,HepatitisC
-Zone 10,55-64,0,2003,HepatitisC
+Zone:10,55-64,0,2003,HepatitisC
 Loei,55-64,0,2003,HepatitisC
 Nong Bua Lam Phu,55-64,0,2003,HepatitisC
 Nong Khai,55-64,0,2003,HepatitisC
 Udon Thani,55-64,0,2003,HepatitisC
-Zone 11,55-64,0,2003,HepatitisC
+Zone:11,55-64,0,2003,HepatitisC
 Kalasin,55-64,0,2003,HepatitisC
 Mukdahan,55-64,0,2003,HepatitisC
 Nakhon Phanom,55-64,0,2003,HepatitisC
 Sakon Nakhon,55-64,0,2003,HepatitisC
-Zone 12,55-64,2,2003,HepatitisC
+Zone:12,55-64,2,2003,HepatitisC
 Khon Kaen,55-64,2,2003,HepatitisC
 Maha Sarakham,55-64,0,2003,HepatitisC
 Roi Et,55-64,0,2003,HepatitisC
-Zone 13,55-64,0,2003,HepatitisC
+Zone:13,55-64,0,2003,HepatitisC
 Buri Ram,55-64,0,2003,HepatitisC
 Chaiyaphum,55-64,0,2003,HepatitisC
 Nakhon Ratchasima,55-64,0,2003,HepatitisC
 Surin,55-64,0,2003,HepatitisC
-Zone 14,55-64,0,2003,HepatitisC
+Zone:14,55-64,0,2003,HepatitisC
 Amnat Charoen,55-64,0,2003,HepatitisC
 Si Sa Ket,55-64,0,2003,HepatitisC
 Ubon Ratchathani,55-64,0,2003,HepatitisC
 Yasothon,55-64,0,2003,HepatitisC
 South Region,55-64,11,2003,HepatitisC
-Zone 15,55-64,1,2003,HepatitisC
+Zone:15,55-64,1,2003,HepatitisC
 Chumphon,55-64,0,2003,HepatitisC
 Ranong,55-64,0,2003,HepatitisC
 Surat Thani,55-64,1,2003,HepatitisC
-Zone 16,55-64,0,2003,HepatitisC
+Zone:16,55-64,0,2003,HepatitisC
 Nakhon Si Thammarat,55-64,0,2003,HepatitisC
 Phatthalung,55-64,0,2003,HepatitisC
 Trang,55-64,0,2003,HepatitisC
-Zone 17,55-64,1,2003,HepatitisC
+Zone:17,55-64,1,2003,HepatitisC
 Krabi,55-64,1,2003,HepatitisC
 Phangnga,55-64,0,2003,HepatitisC
 Phuket,55-64,0,2003,HepatitisC
-Zone 18,55-64,0,2003,HepatitisC
+Zone:18,55-64,0,2003,HepatitisC
 Narathiwat,55-64,0,2003,HepatitisC
 Pattani,55-64,0,2003,HepatitisC
 Yala,55-64,0,2003,HepatitisC
-Zone 19,55-64,9,2003,HepatitisC
+Zone:19,55-64,9,2003,HepatitisC
 Satun,55-64,0,2003,HepatitisC
 Songkhla,55-64,9,2003,HepatitisC
 Total,65+,21,2003,HepatitisC
 North Region,65+,4,2003,HepatitisC
-Zone 1,65+,3,2003,HepatitisC
+Zone:1,65+,3,2003,HepatitisC
 Chiang Mai,65+,0,2003,HepatitisC
 Chiang Rai,65+,0,2003,HepatitisC
 Lampang,65+,0,2003,HepatitisC
@@ -31094,98 +31094,98 @@ Mae Hong Son,65+,0,2003,HepatitisC
 Nan,65+,0,2003,HepatitisC
 Phayao,65+,2,2003,HepatitisC
 Phrae,65+,0,2003,HepatitisC
-Zone 2,65+,1,2003,HepatitisC
+Zone:2,65+,1,2003,HepatitisC
 Phetchabun,65+,0,2003,HepatitisC
 Phitsanulok,65+,0,2003,HepatitisC
 Sukhothai,65+,1,2003,HepatitisC
 Tak,65+,0,2003,HepatitisC
 Uttaradit,65+,0,2003,HepatitisC
-Zone 3,65+,0,2003,HepatitisC
+Zone:3,65+,0,2003,HepatitisC
 Kamphaeng Phet,65+,0,2003,HepatitisC
 Nakhon Sawan,65+,0,2003,HepatitisC
 Phichit,65+,0,2003,HepatitisC
 Uthai Thani,65+,0,2003,HepatitisC
 Central Region,65+,12,2003,HepatitisC
 Bangkok,65+,3,2003,HepatitisC
-Zone 4,65+,1,2003,HepatitisC
+Zone:4,65+,1,2003,HepatitisC
 Ang Thong,65+,0,2003,HepatitisC
 Nonthaburi,65+,1,2003,HepatitisC
 P.Nakhon S.Ayutthaya,65+,0,2003,HepatitisC
 Pathum Thani,65+,0,2003,HepatitisC
-Zone 5,65+,0,2003,HepatitisC
+Zone:5,65+,0,2003,HepatitisC
 Chai Nat,65+,0,2003,HepatitisC
 Lop Buri,65+,0,2003,HepatitisC
 Saraburi,65+,0,2003,HepatitisC
 Sing Buri,65+,0,2003,HepatitisC
-Zone 6,65+,5,2003,HepatitisC
+Zone:6,65+,5,2003,HepatitisC
 Kanchanaburi,65+,0,2003,HepatitisC
 Nakhon Pathom,65+,4,2003,HepatitisC
 Ratchaburi,65+,1,2003,HepatitisC
 Suphan Buri,65+,0,2003,HepatitisC
-Zone 7,65+,1,2003,HepatitisC
+Zone:7,65+,1,2003,HepatitisC
 Phetchaburi,65+,1,2003,HepatitisC
 Prachuap Khiri Khan,65+,0,2003,HepatitisC
 Samut Sakhon,65+,0,2003,HepatitisC
 Samut Songkhram,65+,0,2003,HepatitisC
-Zone 8,65+,1,2003,HepatitisC
+Zone:8,65+,1,2003,HepatitisC
 Chachoengsao,65+,0,2003,HepatitisC
 Nakhon Nayok,65+,0,2003,HepatitisC
 Prachin Buri,65+,0,2003,HepatitisC
 Sa Kaeo,65+,0,2003,HepatitisC
 Samut Prakan,65+,1,2003,HepatitisC
-Zone 9,65+,1,2003,HepatitisC
+Zone:9,65+,1,2003,HepatitisC
 Chanthaburi,65+,0,2003,HepatitisC
 Chon Buri,65+,0,2003,HepatitisC
 Rayong,65+,0,2003,HepatitisC
 Trat,65+,1,2003,HepatitisC
 North-Eastern Region,65+,3,2003,HepatitisC
-Zone 10,65+,1,2003,HepatitisC
+Zone:10,65+,1,2003,HepatitisC
 Loei,65+,0,2003,HepatitisC
 Nong Bua Lam Phu,65+,0,2003,HepatitisC
 Nong Khai,65+,0,2003,HepatitisC
 Udon Thani,65+,1,2003,HepatitisC
-Zone 11,65+,0,2003,HepatitisC
+Zone:11,65+,0,2003,HepatitisC
 Kalasin,65+,0,2003,HepatitisC
 Mukdahan,65+,0,2003,HepatitisC
 Nakhon Phanom,65+,0,2003,HepatitisC
 Sakon Nakhon,65+,0,2003,HepatitisC
-Zone 12,65+,0,2003,HepatitisC
+Zone:12,65+,0,2003,HepatitisC
 Khon Kaen,65+,0,2003,HepatitisC
 Maha Sarakham,65+,0,2003,HepatitisC
 Roi Et,65+,0,2003,HepatitisC
-Zone 13,65+,0,2003,HepatitisC
+Zone:13,65+,0,2003,HepatitisC
 Buri Ram,65+,0,2003,HepatitisC
 Chaiyaphum,65+,0,2003,HepatitisC
 Nakhon Ratchasima,65+,0,2003,HepatitisC
 Surin,65+,0,2003,HepatitisC
-Zone 14,65+,2,2003,HepatitisC
+Zone:14,65+,2,2003,HepatitisC
 Amnat Charoen,65+,0,2003,HepatitisC
 Si Sa Ket,65+,0,2003,HepatitisC
 Ubon Ratchathani,65+,2,2003,HepatitisC
 Yasothon,65+,0,2003,HepatitisC
 South Region,65+,2,2003,HepatitisC
-Zone 15,65+,0,2003,HepatitisC
+Zone:15,65+,0,2003,HepatitisC
 Chumphon,65+,0,2003,HepatitisC
 Ranong,65+,0,2003,HepatitisC
 Surat Thani,65+,0,2003,HepatitisC
-Zone 16,65+,2,2003,HepatitisC
+Zone:16,65+,2,2003,HepatitisC
 Nakhon Si Thammarat,65+,1,2003,HepatitisC
 Phatthalung,65+,0,2003,HepatitisC
 Trang,65+,1,2003,HepatitisC
-Zone 17,65+,0,2003,HepatitisC
+Zone:17,65+,0,2003,HepatitisC
 Krabi,65+,0,2003,HepatitisC
 Phangnga,65+,0,2003,HepatitisC
 Phuket,65+,0,2003,HepatitisC
-Zone 18,65+,0,2003,HepatitisC
+Zone:18,65+,0,2003,HepatitisC
 Narathiwat,65+,0,2003,HepatitisC
 Pattani,65+,0,2003,HepatitisC
 Yala,65+,0,2003,HepatitisC
-Zone 19,65+,0,2003,HepatitisC
+Zone:19,65+,0,2003,HepatitisC
 Satun,65+,0,2003,HepatitisC
 Songkhla,65+,0,2003,HepatitisC
 Total,Unknown,0,2003,HepatitisC
 North Region,Unknown,0,2003,HepatitisC
-Zone 1,Unknown,0,2003,HepatitisC
+Zone:1,Unknown,0,2003,HepatitisC
 Chiang Mai,Unknown,0,2003,HepatitisC
 Chiang Rai,Unknown,0,2003,HepatitisC
 Lampang,Unknown,0,2003,HepatitisC
@@ -31194,93 +31194,93 @@ Mae Hong Son,Unknown,0,2003,HepatitisC
 Nan,Unknown,0,2003,HepatitisC
 Phayao,Unknown,0,2003,HepatitisC
 Phrae,Unknown,0,2003,HepatitisC
-Zone 2,Unknown,0,2003,HepatitisC
+Zone:2,Unknown,0,2003,HepatitisC
 Phetchabun,Unknown,0,2003,HepatitisC
 Phitsanulok,Unknown,0,2003,HepatitisC
 Sukhothai,Unknown,0,2003,HepatitisC
 Tak,Unknown,0,2003,HepatitisC
 Uttaradit,Unknown,0,2003,HepatitisC
-Zone 3,Unknown,0,2003,HepatitisC
+Zone:3,Unknown,0,2003,HepatitisC
 Kamphaeng Phet,Unknown,0,2003,HepatitisC
 Nakhon Sawan,Unknown,0,2003,HepatitisC
 Phichit,Unknown,0,2003,HepatitisC
 Uthai Thani,Unknown,0,2003,HepatitisC
 Central Region,Unknown,0,2003,HepatitisC
 Bangkok,Unknown,0,2003,HepatitisC
-Zone 4,Unknown,0,2003,HepatitisC
+Zone:4,Unknown,0,2003,HepatitisC
 Ang Thong,Unknown,0,2003,HepatitisC
 Nonthaburi,Unknown,0,2003,HepatitisC
 P.Nakhon S.Ayutthaya,Unknown,0,2003,HepatitisC
 Pathum Thani,Unknown,0,2003,HepatitisC
-Zone 5,Unknown,0,2003,HepatitisC
+Zone:5,Unknown,0,2003,HepatitisC
 Chai Nat,Unknown,0,2003,HepatitisC
 Lop Buri,Unknown,0,2003,HepatitisC
 Saraburi,Unknown,0,2003,HepatitisC
 Sing Buri,Unknown,0,2003,HepatitisC
-Zone 6,Unknown,0,2003,HepatitisC
+Zone:6,Unknown,0,2003,HepatitisC
 Kanchanaburi,Unknown,0,2003,HepatitisC
 Nakhon Pathom,Unknown,0,2003,HepatitisC
 Ratchaburi,Unknown,0,2003,HepatitisC
 Suphan Buri,Unknown,0,2003,HepatitisC
-Zone 7,Unknown,0,2003,HepatitisC
+Zone:7,Unknown,0,2003,HepatitisC
 Phetchaburi,Unknown,0,2003,HepatitisC
 Prachuap Khiri Khan,Unknown,0,2003,HepatitisC
 Samut Sakhon,Unknown,0,2003,HepatitisC
 Samut Songkhram,Unknown,0,2003,HepatitisC
-Zone 8,Unknown,0,2003,HepatitisC
+Zone:8,Unknown,0,2003,HepatitisC
 Chachoengsao,Unknown,0,2003,HepatitisC
 Nakhon Nayok,Unknown,0,2003,HepatitisC
 Prachin Buri,Unknown,0,2003,HepatitisC
 Sa Kaeo,Unknown,0,2003,HepatitisC
 Samut Prakan,Unknown,0,2003,HepatitisC
-Zone 9,Unknown,0,2003,HepatitisC
+Zone:9,Unknown,0,2003,HepatitisC
 Chanthaburi,Unknown,0,2003,HepatitisC
 Chon Buri,Unknown,0,2003,HepatitisC
 Rayong,Unknown,0,2003,HepatitisC
 Trat,Unknown,0,2003,HepatitisC
 North-Eastern Region,Unknown,0,2003,HepatitisC
-Zone 10,Unknown,0,2003,HepatitisC
+Zone:10,Unknown,0,2003,HepatitisC
 Loei,Unknown,0,2003,HepatitisC
 Nong Bua Lam Phu,Unknown,0,2003,HepatitisC
 Nong Khai,Unknown,0,2003,HepatitisC
 Udon Thani,Unknown,0,2003,HepatitisC
-Zone 11,Unknown,0,2003,HepatitisC
+Zone:11,Unknown,0,2003,HepatitisC
 Kalasin,Unknown,0,2003,HepatitisC
 Mukdahan,Unknown,0,2003,HepatitisC
 Nakhon Phanom,Unknown,0,2003,HepatitisC
 Sakon Nakhon,Unknown,0,2003,HepatitisC
-Zone 12,Unknown,0,2003,HepatitisC
+Zone:12,Unknown,0,2003,HepatitisC
 Khon Kaen,Unknown,0,2003,HepatitisC
 Maha Sarakham,Unknown,0,2003,HepatitisC
 Roi Et,Unknown,0,2003,HepatitisC
-Zone 13,Unknown,0,2003,HepatitisC
+Zone:13,Unknown,0,2003,HepatitisC
 Buri Ram,Unknown,0,2003,HepatitisC
 Chaiyaphum,Unknown,0,2003,HepatitisC
 Nakhon Ratchasima,Unknown,0,2003,HepatitisC
 Surin,Unknown,0,2003,HepatitisC
-Zone 14,Unknown,0,2003,HepatitisC
+Zone:14,Unknown,0,2003,HepatitisC
 Amnat Charoen,Unknown,0,2003,HepatitisC
 Si Sa Ket,Unknown,0,2003,HepatitisC
 Ubon Ratchathani,Unknown,0,2003,HepatitisC
 Yasothon,Unknown,0,2003,HepatitisC
 South Region,Unknown,0,2003,HepatitisC
-Zone 15,Unknown,0,2003,HepatitisC
+Zone:15,Unknown,0,2003,HepatitisC
 Chumphon,Unknown,0,2003,HepatitisC
 Ranong,Unknown,0,2003,HepatitisC
 Surat Thani,Unknown,0,2003,HepatitisC
-Zone 16,Unknown,0,2003,HepatitisC
+Zone:16,Unknown,0,2003,HepatitisC
 Nakhon Si Thammarat,Unknown,0,2003,HepatitisC
 Phatthalung,Unknown,0,2003,HepatitisC
 Trang,Unknown,0,2003,HepatitisC
-Zone 17,Unknown,0,2003,HepatitisC
+Zone:17,Unknown,0,2003,HepatitisC
 Krabi,Unknown,0,2003,HepatitisC
 Phangnga,Unknown,0,2003,HepatitisC
 Phuket,Unknown,0,2003,HepatitisC
-Zone 18,Unknown,0,2003,HepatitisC
+Zone:18,Unknown,0,2003,HepatitisC
 Narathiwat,Unknown,0,2003,HepatitisC
 Pattani,Unknown,0,2003,HepatitisC
 Yala,Unknown,0,2003,HepatitisC
-Zone 19,Unknown,0,2003,HepatitisC
+Zone:19,Unknown,0,2003,HepatitisC
 Satun,Unknown,0,2003,HepatitisC
 Songkhla,Unknown,0,2003,HepatitisC
 Total,Total,586,2022,HepatitisC

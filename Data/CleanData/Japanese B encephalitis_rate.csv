@@ -1,0 +1,571 @@
+Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,8,0.01,0,0.00,0.00,66486458,2019,Japanese
+ZONE:01,0,0.00,0,0.00,0.00,5891985,2019,Japanese
+Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Japanese
+Chiang Rai,0,0.00,0,0.00,0.00,1295217,2019,Japanese
+Lampang,0,0.00,0,0.00,0.00,740600,2019,Japanese
+Lamphun,0,0.00,0,0.00,0.00,405515,2019,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,283352,2019,Japanese
+Nan,0,0.00,0,0.00,0.00,478608,2019,Japanese
+Phayao,0,0.00,0,0.00,0.00,473786,2019,Japanese
+Phrae,0,0.00,0,0.00,0.00,443408,2019,Japanese
+ZONE:02,0,0.00,0,0.00,0.00,3570128,2019,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,993496,2019,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,866068,2019,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,596165,2019,Japanese
+Tak,0,0.00,0,0.00,0.00,660147,2019,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,454252,2019,Japanese
+ZONE:03,0,0.00,0,0.00,0.00,2983068,2019,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,327437,2019,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1061926,2019,Japanese
+Phichit,0,0.00,0,0.00,0.00,537843,2019,Japanese
+Uthai Thani,0,0.00,0,0.00,0.00,329026,2019,Japanese
+ZONE:04,0,0.00,0,0.00,0.00,5381695,2019,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,260421,2019,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1255840,2019,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,818815,2019,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1154848,2019,Japanese
+Saraburi,0,0.00,0,0.00,0.00,645468,2019,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Japanese
+ZONE:05,0,0.00,0,0.00,0.00,5344807,2019,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,894338,2019,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551466,2019,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,873310,2019,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,193548,2019,Japanese
+Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Japanese
+ZONE:06,0,0.00,0,0.00,0.00,6154601,2019,Japanese
+Chachoengsao,0,0.00,0,0.00,0.00,717561,2019,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,537097,2019,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1546873,2019,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,493159,2019,Japanese
+Rayong,0,0.00,0,0.00,0.00,729035,2019,Japanese
+Sa Kaeo,0,0.00,0,0.00,0.00,565198,2019,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1335742,2019,Japanese
+Trat,0,0.00,0,0.00,0.00,229936,2019,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",06/08/2563,,,,,,2019,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2562  (2019)",Japanese B encephalitis,29,,,,,2019,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2019,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2019,Japanese
+ZONE:07,0,0.00,0,0.00,0.00,5057831,2019,Japanese
+Kalasin,0,0.00,0,0.00,0.00,984381,2019,Japanese
+Khon Kaen,0,0.00,0,0.00,0.00,1804384,2019,Japanese
+Maha Sarakham,0,0.00,0,0.00,0.00,962856,2019,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1306210,2019,Japanese
+ZONE:08,0,0.00,0,0.00,0.00,5559986,2019,Japanese
+Bungkan,0,0.00,0,0.00,0.00,424016,2019,Japanese
+Loei,0,0.00,0,0.00,0.00,642862,2019,Japanese
+Nakhon Phanom,0,0.00,0,0.00,0.00,718961,2019,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,512449,2019,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,522207,2019,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1152835,2019,Japanese
+Udon Thani,0,0.00,0,0.00,0.00,1586656,2019,Japanese
+ZONE:09,0,0.00,0,0.00,0.00,6778372,2019,Japanese
+Buri Ram,0,0.00,0,0.00,0.00,1595299,2019,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1138067,2019,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2647663,2019,Japanese
+Surin,0,0.00,0,0.00,0.00,1397343,2019,Japanese
+ZONE:10,8,0.17,0,0.00,0.00,4618551,2019,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,378530,2019,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,352727,2019,Japanese
+Si Sa Ket,1,0.07,0,0.00,0.00,1472934,2019,Japanese
+Ubon Ratchathani,7,0.37,0,0.00,0.00,1876347,2019,Japanese
+Yasothon,0,0.00,0,0.00,0.00,538013,2019,Japanese
+ZONE:11,0,0.00,0,0.00,0.00,4487837,2019,Japanese
+Chumphon,0,0.00,0,0.00,0.00,511134,2019,Japanese
+Krabi,0,0.00,0,0.00,0.00,475239,2019,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1561179,2019,Japanese
+Phangnga,0,0.00,0,0.00,0.00,268513,2019,Japanese
+Phuket,0,0.00,0,0.00,0.00,413397,2019,Japanese
+Ranong,0,0.00,0,0.00,0.00,192619,2019,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1065756,2019,Japanese
+ZONE:12,0,0.00,0,0.00,0.00,4986140,2019,Japanese
+Narathiwat,0,0.00,0,0.00,0.00,805248,2019,Japanese
+Pattani,0,0.00,0,0.00,0.00,721591,2019,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,524955,2019,Japanese
+Satun,0,0.00,0,0.00,0.00,322580,2019,Japanese
+Songkhla,0,0.00,0,0.00,0.00,1434298,2019,Japanese
+Trang,0,0.00,0,0.00,0.00,643140,2019,Japanese
+Yala,0,0.00,0,0.00,0.00,534328,2019,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5671457,2019,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5671457,2019,Japanese
+Total,6,0.01,0,0.00,0.00,66179083,2021,Japanese
+ZONE:01,2,0.03,0,0.00,0.00,5875424,2021,Japanese
+Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Japanese
+Chiang Rai,2,0.15,0,0.00,0.00,1296725,2021,Japanese
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Japanese
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Japanese
+Nan,0,0.00,0,0.00,0.00,476300,2021,Japanese
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Japanese
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Japanese
+ZONE:02,0,0.00,0,0.00,0.00,3536074,2021,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Japanese
+Tak,0,0.00,0,0.00,0.00,673423,2021,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Japanese
+ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Japanese
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Japanese
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Japanese
+ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Japanese
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Japanese
+ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Japanese
+Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Japanese
+ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Japanese
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Japanese
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Japanese
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Japanese
+Trat,0,0.00,0,0.00,0.00,228456,2021,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",25/7/2565,,,,,,2021,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2564(2021),Japanese B encephalitis,29,,,,2021,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2021,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2021,Japanese
+ZONE:07,0,0.00,0,0.00,0.00,5017381,2021,Japanese
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Japanese
+Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Japanese
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Japanese
+ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Japanese
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Japanese
+Loei,0,0.00,0,0.00,0.00,638734,2021,Japanese
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Japanese
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Japanese
+ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Japanese
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Japanese
+Surin,0,0.00,0,0.00,0.00,1377226,2021,Japanese
+ZONE:10,4,0.09,0,0.00,0.00,4587095,2021,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Japanese
+Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Japanese
+Ubon Ratchathani,4,0.21,0,0.00,0.00,1867608,2021,Japanese
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Japanese
+ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Japanese
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Japanese
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Japanese
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Japanese
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Japanese
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Japanese
+ZONE:12,0,0.00,0,0.00,0.00,4992834,2021,Japanese
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Japanese
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Japanese
+Satun,0,0.00,0,0.00,0.00,324467,2021,Japanese
+Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Japanese
+Trang,0,0.00,0,0.00,0.00,640182,2021,Japanese
+Yala,0,0.00,0,0.00,0.00,540458,2021,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Japanese
+Total,18,0.03,0,0.00,0.00,66301242,2018,Japanese
+ZONE:01,5,0.09,0,0.00,0.00,5878537,2018,Japanese
+Chiang Mai,1,0.06,0,0.00,0.00,1755291,2018,Japanese
+Chiang Rai,4,0.31,0,0.00,0.00,1289873,2018,Japanese
+Lampang,0,0.00,0,0.00,0.00,744714,2018,Japanese
+Lamphun,0,0.00,0,0.00,0.00,405936,2018,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,280826,2018,Japanese
+Nan,0,0.00,0,0.00,0.00,479414,2018,Japanese
+Phayao,0,0.00,0,0.00,0.00,476157,2018,Japanese
+Phrae,0,0.00,0,0.00,0.00,446326,2018,Japanese
+ZONE:02,0,0.00,0,0.00,0.00,3565071,2018,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,994936,2018,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,866129,2018,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Japanese
+Tak,0,0.00,0,0.00,0.00,649472,2018,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,456247,2018,Japanese
+ZONE:03,1,0.03,0,0.00,0.00,2992420,2018,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1064649,2018,Japanese
+Phichit,0,0.00,0,0.00,0.00,540620,2018,Japanese
+Uthai Thani,1,0.30,0,0.00,0.00,329688,2018,Japanese
+ZONE:04,0,0.00,0,0.00,0.00,5343264,2018,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1137603,2018,Japanese
+Saraburi,0,0.00,0,0.00,0.00,643531,2018,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Japanese
+ZONE:05,0,0.00,0,0.00,0.00,5324608,2018,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,890565,2018,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,914273,2018,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,573215,2018,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Japanese
+Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Japanese
+ZONE:06,0,0.00,0,0.00,0.00,6088563,2018,Japanese
+Chachoengsao,0,0.00,0,0.00,0.00,712449,2018,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,535478,2018,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,489592,2018,Japanese
+Rayong,0,0.00,0,0.00,0.00,717276,2018,Japanese
+Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Japanese
+Trat,0,0.00,0,0.00,0.00,229782,2018,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",12/9/2562,,,,,,2018,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2561  (2018)",Japanese B encephalitis,29,,,,,2018,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2018,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2018,Japanese
+ZONE:07,1,0.02,0,0.00,0.00,5062199,2018,Japanese
+Kalasin,0,0.00,0,0.00,0.00,985676,2018,Japanese
+Khon Kaen,1,0.06,0,0.00,0.00,1805903,2018,Japanese
+Maha Sarakham,0,0.00,0,0.00,0.00,963060,2018,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Japanese
+ZONE:08,1,0.02,0,0.00,0.00,5553738,2018,Japanese
+Bungkan,0,0.00,0,0.00,0.00,423485,2018,Japanese
+Loei,0,0.00,0,0.00,0.00,642220,2018,Japanese
+Nakhon Phanom,1,0.14,0,0.00,0.00,718406,2018,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,521995,2018,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Japanese
+Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Japanese
+ZONE:09,1,0.01,0,0.00,0.00,6772779,2018,Japanese
+Buri Ram,1,0.06,0,0.00,0.00,1593378,2018,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2642815,2018,Japanese
+Surin,0,0.00,0,0.00,0.00,1397519,2018,Japanese
+ZONE:10,6,0.13,0,0.00,0.00,4613643,2018,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Japanese
+Si Sa Ket,0,0.00,0,0.00,0.00,1472521,2018,Japanese
+Ubon Ratchathani,6,0.32,0,0.00,0.00,1872091,2018,Japanese
+Yasothon,0,0.00,0,0.00,0.00,539136,2018,Japanese
+ZONE:11,1,0.02,0,0.00,0.00,4466673,2018,Japanese
+Chumphon,0,0.00,0,0.00,0.00,510307,2018,Japanese
+Krabi,1,0.21,0,0.00,0.00,471754,2018,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1558958,2018,Japanese
+Phangnga,0,0.00,0,0.00,0.00,267866,2018,Japanese
+Phuket,0,0.00,0,0.00,0.00,406113,2018,Japanese
+Ranong,0,0.00,0,0.00,0.00,191134,2018,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Japanese
+ZONE:12,2,0.04,0,0.00,0.00,4960215,2018,Japanese
+Narathiwat,1,0.13,0,0.00,0.00,799357,2018,Japanese
+Pattani,0,0.00,0,0.00,0.00,713937,2018,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Japanese
+Satun,0,0.00,0,0.00,0.00,320637,2018,Japanese
+Songkhla,1,0.07,0,0.00,0.00,1428429,2018,Japanese
+Trang,0,0.00,0,0.00,0.00,643093,2018,Japanese
+Yala,0,0.00,0,0.00,0.00,529811,2018,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5679532,2018,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5679532,2018,Japanese
+Total,9,0.01,0,0.00,0.00,66372831,2020,Japanese
+ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Japanese
+Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Japanese
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Japanese
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Japanese
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Japanese
+Nan,0,0.00,0,0.00,0.00,477476,2020,Japanese
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Japanese
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Japanese
+ZONE:02,1,0.03,0,0.00,0.00,3554902,2020,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Japanese
+Tak,1,0.15,0,0.00,0.00,667942,2020,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Japanese
+ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Japanese
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Japanese
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Japanese
+ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Japanese
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Japanese
+ZONE:05,1,0.02,0,0.00,0.00,5342038,2020,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Japanese
+Suphan Buri,1,0.12,0,0.00,0.00,842481,2020,Japanese
+ZONE:06,0,0.00,0,0.00,0.00,6192990,2020,Japanese
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Japanese
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Japanese
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Japanese
+Trat,0,0.00,0,0.00,0.00,229247,2020,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",22/09/2564,,,,,,2020,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2563  (2020)",Japanese B encephalitis,29,,,,,2020,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2020,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2020,Japanese
+ZONE:07,1,0.02,0,0.00,0.00,5039088,2020,Japanese
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Japanese
+Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Japanese
+Maha Sarakham,1,0.10,0,0.00,0.00,958163,2020,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Japanese
+ZONE:08,1,0.02,0,0.00,0.00,5540556,2020,Japanese
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Japanese
+Loei,0,0.00,0,0.00,0.00,640843,2020,Japanese
+Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Japanese
+Udon Thani,1,0.06,0,0.00,0.00,1577315,2020,Japanese
+ZONE:09,0,0.00,0,0.00,0.00,6748199,2020,Japanese
+Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Japanese
+Surin,0,0.00,0,0.00,0.00,1387526,2020,Japanese
+ZONE:10,5,0.11,0,0.00,0.00,4603401,2020,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Japanese
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Japanese
+Ubon Ratchathani,5,0.27,0,0.00,0.00,1872422,2020,Japanese
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Japanese
+ZONE:11,0,0.00,0,0.00,0.00,4489609,2020,Japanese
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Japanese
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Japanese
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Japanese
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Japanese
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Japanese
+ZONE:12,0,0.00,0,0.00,0.00,4991217,2020,Japanese
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Japanese
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Japanese
+Satun,0,0.00,0,0.00,0.00,323841,2020,Japanese
+Songkhla,0,0.00,0,0.00,0.00,1432288,2020,Japanese
+Trang,0,0.00,0,0.00,0.00,641868,2020,Japanese
+Yala,0,0.00,0,0.00,0.00,537466,2020,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Japanese
+Total,4,0.01,0,0.00,0.00,66171439,2022,Japanese
+ZONE:01,1,0.02,0,0.00,0.00,5874503,2022,Japanese
+Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Japanese
+Chiang Rai,1,0.08,0,0.00,0.00,1298425,2022,Japanese
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Japanese
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Japanese
+Nan,0,0.00,0,0.00,0.00,475875,2022,Japanese
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Japanese
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Japanese
+ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Japanese
+Tak,0,0.00,0,0.00,0.00,676583,2022,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Japanese
+ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Japanese
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Japanese
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Japanese
+ZONE:04,1,0.02,0,0.00,0.00,5422367,2022,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Japanese
+Saraburi,1,0.16,0,0.00,0.00,643963,2022,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Japanese
+ZONE:05,0,0.00,0,0.00,0.00,5333543,2022,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Japanese
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Japanese
+ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Japanese
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Japanese
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Japanese
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Japanese
+Trat,0,0.00,0,0.00,0.00,228376,2022,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",14/6/2566,,,,,,2022,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2565(2022),Japanese B encephalitis,29,,,,2022,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2022,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2022,Japanese
+ZONE:07,1,0.02,0,0.00,0.00,5010756,2022,Japanese
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Japanese
+Khon Kaen,1,0.06,0,0.00,0.00,1790863,2022,Japanese
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Japanese
+ZONE:08,1,0.02,0,0.00,0.00,5516407,2022,Japanese
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Japanese
+Loei,0,0.00,0,0.00,0.00,638732,2022,Japanese
+Nakhon Phanom,1,0.14,0,0.00,0.00,717040,2022,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Japanese
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Japanese
+ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Japanese
+Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Japanese
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Japanese
+ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Japanese
+Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Japanese
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Japanese
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Japanese
+ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Japanese
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Japanese
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Japanese
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Japanese
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Japanese
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Japanese
+ZONE:12,0,0.00,0,0.00,0.00,5000255,2022,Japanese
+Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Japanese
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Japanese
+Satun,0,0.00,0,0.00,0.00,324835,2022,Japanese
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Japanese
+Trang,0,0.00,0,0.00,0.00,639788,2022,Japanese
+Yala,0,0.00,0,0.00,0.00,542314,2022,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Japanese
+Total,6,0.01,1,16.67,0.00,66130957,2023,Japanese
+ZONE:01,2,0.03,1,50.00,0.02,5869190,2023,Japanese
+Chiang Mai,1,0.06,1,100.00,0.06,1790929,2023,Japanese
+Chiang Rai,1,0.08,0,0.00,0.00,1299030,2023,Japanese
+Lampang,0,0.00,0,0.00,0.00,721734,2023,Japanese
+Lamphun,0,0.00,0,0.00,0.00,400348,2023,Japanese
+Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Japanese
+Nan,0,0.00,0,0.00,0.00,475207,2023,Japanese
+Phayao,0,0.00,0,0.00,0.00,462968,2023,Japanese
+Phrae,0,0.00,0,0.00,0.00,432624,2023,Japanese
+ZONE:02,0,0.00,0,0.00,0.00,3530228,2023,Japanese
+Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Japanese
+Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Japanese
+Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Japanese
+Tak,0,0.00,0,0.00,0.00,680361,2023,Japanese
+Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Japanese
+ZONE:03,0,0.00,0,0.00,0.00,2913905,2023,Japanese
+Chai Nat,0,0.00,0,0.00,0.00,319370,2023,Japanese
+Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Japanese
+Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Japanese
+Phichit,0,0.00,0,0.00,0.00,527669,2023,Japanese
+Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Japanese
+ZONE:04,0,0.00,0,0.00,0.00,5424945,2023,Japanese
+Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Japanese
+Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Japanese
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Japanese
+Nonthaburi,0,0.00,0,0.00,0.00,1292276,2023,Japanese
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Japanese
+Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Japanese
+Saraburi,0,0.00,0,0.00,0.00,641272,2023,Japanese
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Japanese
+ZONE:05,0,0.00,0,0.00,0.00,5330665,2023,Japanese
+Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Japanese
+Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Japanese
+Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Japanese
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553234,2023,Japanese
+Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Japanese
+Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Japanese
+Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Japanese
+Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Japanese
+ZONE:06,3,0.05,0,0.00,0.00,6251747,2023,Japanese
+Chachoengsao,2,0.28,0,0.00,0.00,725433,2023,Japanese
+Chanthaburi,0,0.00,0,0.00,0.00,536351,2023,Japanese
+Chon Buri,0,0.00,0,0.00,0.00,1589214,2023,Japanese
+Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Japanese
+Rayong,0,0.00,0,0.00,0.00,755364,2023,Japanese
+Sa Kaeo,1,0.18,0,0.00,0.00,562404,2023,Japanese
+Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Japanese
+Trat,0,0.00,0,0.00,0.00,228092,2023,Japanese
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",2/7/2567,,,,,,2023,Japanese
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2566(2023),Japanese B encephalitis,29,,,,2023,Japanese
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2023,Japanese
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2023,Japanese
+ZONE:07,1,0.02,0,0.00,0.00,5001616,2023,Japanese
+Kalasin,0,0.00,0,0.00,0.00,973835,2023,Japanese
+Khon Kaen,1,0.06,0,0.00,0.00,1787752,2023,Japanese
+Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Japanese
+Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Japanese
+ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Japanese
+Bungkan,0,0.00,0,0.00,0.00,421840,2023,Japanese
+Loei,0,0.00,0,0.00,0.00,638037,2023,Japanese
+Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Japanese
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Japanese
+Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Japanese
+Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Japanese
+Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Japanese
+ZONE:09,0,0.00,0,0.00,0.00,6705133,2023,Japanese
+Buri Ram,0,0.00,0,0.00,0.00,1578361,2023,Japanese
+Chaiyaphum,0,0.00,0,0.00,0.00,1120095,2023,Japanese
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Japanese
+Surin,0,0.00,0,0.00,0.00,1374571,2023,Japanese
+ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Japanese
+Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Japanese
+Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Japanese
+Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Japanese
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Japanese
+Yasothon,0,0.00,0,0.00,0.00,532497,2023,Japanese
+ZONE:11,0,0.00,0,0.00,0.00,4489916,2023,Japanese
+Chumphon,0,0.00,0,0.00,0.00,509433,2023,Japanese
+Krabi,0,0.00,0,0.00,0.00,479705,2023,Japanese
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Japanese
+Phangnga,0,0.00,0,0.00,0.00,267729,2023,Japanese
+Phuket,0,0.00,0,0.00,0.00,418339,2023,Japanese
+Ranong,0,0.00,0,0.00,0.00,194400,2023,Japanese
+Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Japanese
+ZONE:12,0,0.00,0,0.00,0.00,5004720,2023,Japanese
+Narathiwat,0,0.00,0,0.00,0.00,811891,2023,Japanese
+Pattani,0,0.00,0,0.00,0.00,731269,2023,Japanese
+Phatthalung,0,0.00,0,0.00,0.00,522080,2023,Japanese
+Satun,0,0.00,0,0.00,0.00,325069,2023,Japanese
+Songkhla,0,0.00,0,0.00,0.00,1431300,2023,Japanese
+Trang,0,0.00,0,0.00,0.00,638997,2023,Japanese
+Yala,0,0.00,0,0.00,0.00,544114,2023,Japanese
+ZONE:13,0,0.00,0,0.00,0.00,5511463,2023,Japanese
+Bangkok,0,0.00,0,0.00,0.00,5511463,2023,Japanese

@@ -1,0 +1,1060 @@
+Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,359,0.55,20,5.57,0.03,65124716,2015,Streptococcus
+ZONE:00,0,0.00,0,0.00,0.00,5692284,2015,Streptococcus
+Bangkok,0,0.00,0,0.00,0.00,5692284,2015,Streptococcus
+ZONE:01,94,1.65,2,2.13,0.04,5709443,2015,Streptococcus
+Chiang Mai,29,1.73,0,0.00,0.00,1678284,2015,Streptococcus
+Chiang Rai,7,0.58,0,0.00,0.00,1207699,2015,Streptococcus
+Lampang,0,0.00,0,0.00,0.00,753013,2015,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,405468,2015,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Streptococcus
+Nan,50,10.45,1,2.00,0.21,478264,2015,Streptococcus
+Phayao,7,1.44,1,14.29,0.21,484454,2015,Streptococcus
+Phrae,1,0.22,0,0.00,0.00,454083,2015,Streptococcus
+ZONE:02,79,2.29,7,8.86,0.20,3457208,2015,Streptococcus
+Phetchabun,27,2.71,0,0.00,0.00,995807,2015,Streptococcus
+Phitsanulok,1,0.12,0,0.00,0.00,858988,2015,Streptococcus
+Sukhothai,17,2.82,4,23.53,0.66,602460,2015,Streptococcus
+Tak,7,1.30,0,0.00,0.00,539553,2015,Streptococcus
+Uttaradit,27,5.86,3,11.11,0.65,460400,2015,Streptococcus
+ZONE:03,74,2.46,6,8.11,0.20,3012283,2015,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Streptococcus
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Streptococcus
+Nakhon Sawan,60,5.59,6,10.00,0.56,1072756,2015,Streptococcus
+Phichit,12,2.19,0,0.00,0.00,547543,2015,Streptococcus
+Uthai Thani,2,0.61,0,0.00,0.00,330179,2015,Streptococcus
+ZONE:04,4,0.08,0,0.00,0.00,5196419,2015,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,283568,2015,Streptococcus
+Lop Buri,2,0.26,0,0.00,0.00,758406,2015,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1173870,2015,Streptococcus
+P.Nakhon S.Ayutthaya,2,0.25,0,0.00,0.00,803599,2015,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Streptococcus
+Saraburi,0,0.00,0,0.00,0.00,633460,2015,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Streptococcus
+ZONE:05,2,0.04,0,0.00,0.00,5166914,2015,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,848198,2015,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Streptococcus
+Ratchaburi,0,0.00,0,0.00,0.00,853217,2015,Streptococcus
+Samut Sakhon,2,0.38,0,0.00,0.00,531887,2015,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Streptococcus
+ZONE:06,19,0.33,0,0.00,0.00,5836407,2015,Streptococcus
+Chachoengsao,5,0.72,0,0.00,0.00,695478,2015,Streptococcus
+Chanthaburi,4,0.76,0,0.00,0.00,527350,2015,Streptococcus
+Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Streptococcus
+Prachin Buri,9,1.88,0,0.00,0.00,479314,2015,Streptococcus
+Rayong,1,0.15,0,0.00,0.00,674393,2015,Streptococcus
+Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Streptococcus
+Trat,0,0.00,0,0.00,0.00,224730,2015,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",5/2/2559,,,,,,2015,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand  2558  (2015)",Streptococcus suis,82,,,,,2015,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2015,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2015,Streptococcus
+ZONE:07,0,0.00,0,0.00,0.00,5043862,2015,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,984907,2015,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1790049,2015,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Streptococcus
+ZONE:08,0,0.00,0,0.00,0.00,5501453,2015,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,418566,2015,Streptococcus
+Loei,0,0.00,0,0.00,0.00,634513,2015,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1138609,2015,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Streptococcus
+ZONE:09,56,0.83,5,8.93,0.07,6728450,2015,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1579248,2015,Streptococcus
+Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Streptococcus
+Nakhon Ratchasima,50,1.91,5,10.00,0.19,2620517,2015,Streptococcus
+Surin,6,0.43,0,0.00,0.00,1391636,2015,Streptococcus
+ZONE:10,31,0.68,0,0.00,0.00,4571489,2015,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Streptococcus
+Si Sa Ket,31,2.12,0,0.00,0.00,1465213,2015,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,540211,2015,Streptococcus
+ZONE:11,0,0.00,0,0.00,0.00,4362467,2015,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,500575,2015,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,456811,2015,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1548028,2015,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,261370,2015,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,378364,2015,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,177089,2015,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1040230,2015,Streptococcus
+ZONE:12,0,0.00,0,0.00,0.00,4846037,2015,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,774799,2015,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,686186,2015,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Streptococcus
+Satun,0,0.00,0,0.00,0.00,312673,2015,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1401303,2015,Streptococcus
+Trang,0,0.00,0,0.00,0.00,638746,2015,Streptococcus
+Yala,0,0.00,0,0.00,0.00,511911,2015,Streptococcus
+Total,318,0.48,15,4.72,0.02,66060027,2017,Streptococcus
+ZONE:01,70,1.19,4,5.71,0.07,5864232,2017,Streptococcus
+Chiang Mai,17,0.98,1,5.88,0.06,1741301,2017,Streptococcus
+Chiang Rai,5,0.39,0,0.00,0.00,1285080,2017,Streptococcus
+Lampang,0,0.00,0,0.00,0.00,747699,2017,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,405959,2017,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,277486,2017,Streptococcus
+Nan,22,4.58,0,0.00,0.00,479877,2017,Streptococcus
+Phayao,23,4.81,3,13.04,0.63,478144,2017,Streptococcus
+Phrae,3,0.67,0,0.00,0.00,448686,2017,Streptococcus
+ZONE:02,74,2.08,2,2.70,0.06,3556376,2017,Streptococcus
+Phetchabun,29,2.91,0,0.00,0.00,995277,2017,Streptococcus
+Phitsanulok,0,0.00,0,0.00,0.00,865564,2017,Streptococcus
+Sukhothai,9,1.50,0,0.00,0.00,599775,2017,Streptococcus
+Tak,4,0.63,0,0.00,0.00,638115,2017,Streptococcus
+Uttaradit,32,6.99,2,6.25,0.44,457645,2017,Streptococcus
+ZONE:03,68,2.27,5,7.35,0.17,2998104,2017,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,330077,2017,Streptococcus
+Kamphaeng Phet,8,1.10,0,0.00,0.00,729337,2017,Streptococcus
+Nakhon Sawan,44,4.13,3,6.82,0.28,1065895,2017,Streptococcus
+Phichit,16,2.95,2,12.50,0.37,542674,2017,Streptococcus
+Uthai Thani,0,0.00,0,0.00,0.00,330121,2017,Streptococcus
+ZONE:04,5,0.09,0,0.00,0.00,5302492,2017,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Streptococcus
+Lop Buri,3,0.40,0,0.00,0.00,757296,2017,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1220829,2017,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,812086,2017,Streptococcus
+Pathum Thani,1,0.09,0,0.00,0.00,1120246,2017,Streptococcus
+Saraburi,1,0.16,0,0.00,0.00,641052,2017,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Streptococcus
+ZONE:05,2,0.04,0,0.00,0.00,5295696,2017,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,886546,2017,Streptococcus
+Nakhon Pathom,1,0.11,0,0.00,0.00,908249,2017,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,481514,2017,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,541756,2017,Streptococcus
+Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Streptococcus
+Samut Sakhon,1,0.18,0,0.00,0.00,562592,2017,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,193985,2017,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,850285,2017,Streptococcus
+ZONE:06,28,0.47,0,0.00,0.00,6020790,2017,Streptococcus
+Chachoengsao,0,0.00,0,0.00,0.00,707145,2017,Streptococcus
+Chanthaburi,4,0.75,0,0.00,0.00,533463,2017,Streptococcus
+Chon Buri,0,0.00,0,0.00,0.00,1496086,2017,Streptococcus
+Prachin Buri,8,1.65,0,0.00,0.00,486187,2017,Streptococcus
+Rayong,0,0.00,0,0.00,0.00,705729,2017,Streptococcus
+Sa Kaeo,16,2.85,0,0.00,0.00,560478,2017,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1302160,2017,Streptococcus
+Trat,0,0.00,0,0.00,0.00,229542,2017,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",5/4/2561,,,,,,2017,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2560  (2017)",Streptococcus suis,82,,,,,2017,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2017,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2017,Streptococcus
+ZONE:07,2,0.04,0,0.00,0.00,5060674,2017,Streptococcus
+Kalasin,1,0.10,0,0.00,0.00,985619,2017,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1803831,2017,Streptococcus
+Maha Sarakham,1,0.10,0,0.00,0.00,963277,2017,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1307947,2017,Streptococcus
+ZONE:08,6,0.11,0,0.00,0.00,5541473,2017,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,422328,2017,Streptococcus
+Loei,0,0.00,0,0.00,0.00,640734,2017,Streptococcus
+Nakhon Phanom,1,0.14,0,0.00,0.00,717451,2017,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511188,2017,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,521125,2017,Streptococcus
+Sakon Nakhon,2,0.17,0,0.00,0.00,1147710,2017,Streptococcus
+Udon Thani,3,0.19,0,0.00,0.00,1580937,2017,Streptococcus
+ZONE:09,55,0.81,4,7.27,0.06,6760383,2017,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1589900,2017,Streptococcus
+Chaiyaphum,1,0.09,0,0.00,0.00,1138778,2017,Streptococcus
+Nakhon Ratchasima,54,2.05,4,7.41,0.15,2635331,2017,Streptococcus
+Surin,0,0.00,0,0.00,0.00,1396374,2017,Streptococcus
+ZONE:10,2,0.04,0,0.00,0.00,4604905,2017,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,377614,2017,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,350128,2017,Streptococcus
+Si Sa Ket,1,0.07,0,0.00,0.00,1471185,2017,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1866299,2017,Streptococcus
+Yasothon,1,0.19,0,0.00,0.00,539679,2017,Streptococcus
+ZONE:11,1,0.02,0,0.00,0.00,4441086,2017,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,508627,2017,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,467851,2017,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1555957,2017,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,266535,2017,Streptococcus
+Phuket,1,0.25,0,0.00,0.00,398092,2017,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,189777,2017,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1054247,2017,Streptococcus
+ZONE:12,0,0.00,0,0.00,0.00,4929285,2017,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,792961,2017,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,705379,2017,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,524291,2017,Streptococcus
+Satun,0,0.00,0,0.00,0.00,318655,2017,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1420834,2017,Streptococcus
+Trang,0,0.00,0,0.00,0.00,642377,2017,Streptococcus
+Yala,0,0.00,0,0.00,0.00,524788,2017,Streptococcus
+ZONE:13,5,0.09,0,0.00,0.00,5684531,2017,Streptococcus
+Bangkok,5,0.09,0,0.00,0.00,5684531,2017,Streptococcus
+Total,226,0.35,15,6.64,0.02,64076033,2014,Streptococcus
+ZONE:0,0,0.00,0,0.00,0.00,5674843,2014,Streptococcus
+Bangkok,0,0.00,0,0.00,0.00,5674843,2014,Streptococcus
+ZONE:0,31,0.55,0,0.00,0.00,5672168,2014,Streptococcus
+Chiang Mai,8,0.49,0,0.00,0.00,1646144,2014,Streptococcus
+Chiang Rai,4,0.33,0,0.00,0.00,1198656,2014,Streptococcus
+Lampang,1,0.13,0,0.00,0.00,757534,2014,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,403952,2014,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,244048,2014,Streptococcus
+Nan,0,0.00,0,0.00,0.00,476612,2014,Streptococcus
+Phayao,16,3.29,0,0.00,0.00,486472,2014,Streptococcus
+Phrae,2,0.44,0,0.00,0.00,458750,2014,Streptococcus
+ZONE:0,77,2.24,6,7.79,0.17,3435726,2014,Streptococcus
+Phetchabun,23,2.32,1,4.35,0.10,990807,2014,Streptococcus
+Phitsanulok,0,0.00,0,0.00,0.00,851357,2014,Streptococcus
+Sukhothai,5,0.83,1,20.00,0.17,601504,2014,Streptococcus
+Tak,17,3.20,1,5.88,0.19,531018,2014,Streptococcus
+Uttaradit,32,6.94,3,9.38,0.65,461040,2014,Streptococcus
+ZONE:0,66,2.19,7,10.61,0.23,3008673,2014,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,333256,2014,Streptococcus
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2014,Streptococcus
+Nakhon Sawan,63,5.88,7,11.11,0.65,1071686,2014,Streptococcus
+Phichit,0,0.00,0,0.00,0.00,549688,2014,Streptococcus
+Uthai Thani,3,0.91,0,0.00,0.00,328034,2014,Streptococcus
+ZONE:0,2,0.04,0,0.00,0.00,5049238,2014,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,284061,2014,Streptococcus
+Lop Buri,0,0.00,0,0.00,0.00,756127,2014,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,253831,2014,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1122627,2014,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,787653,2014,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1010898,2014,Streptococcus
+Saraburi,2,0.32,0,0.00,0.00,620454,2014,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,213587,2014,Streptococcus
+ZONE:0,4,0.08,0,0.00,0.00,5064546,2014,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,838914,2014,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,866064,2014,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,466079,2014,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,512568,2014,Streptococcus
+Ratchaburi,0,0.00,0,0.00,0.00,842684,2014,Streptococcus
+Samut Sakhon,4,0.80,0,0.00,0.00,499098,2014,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,194086,2014,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,845053,2014,Streptococcus
+ZONE:0,9,0.16,1,11.11,0.02,5613101,2014,Streptococcus
+Chachoengsao,3,0.44,1,33.33,0.15,679370,2014,Streptococcus
+Chanthaburi,2,0.39,0,0.00,0.00,516855,2014,Streptococcus
+Chon Buri,0,0.00,0,0.00,0.00,1338656,2014,Streptococcus
+Prachin Buri,2,0.43,0,0.00,0.00,469652,2014,Streptococcus
+Rayong,2,0.31,0,0.00,0.00,637736,2014,Streptococcus
+Sa Kaeo,0,0.00,0,0.00,0.00,545596,2014,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1203223,2014,Streptococcus
+Trat,0,0.00,0,0.00,0.00,222013,2014,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",20/2/2558,,,,,,2014,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand  2014(2557)",Streptococcus suis,82,,,,,2014,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2014,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2014,Streptococcus
+ZONE:0,0,0.00,0,0.00,0.00,4992515,2014,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,981655,2014,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1766066,2014,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,939736,2014,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1305058,2014,Streptococcus
+ZONE:0,0,0.00,0,0.00,0.00,5421201,2014,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,407634,2014,Streptococcus
+Loei,0,0.00,0,0.00,0.00,624920,2014,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,704768,2014,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502551,2014,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,509870,2014,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1123351,2014,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1548107,2014,Streptococcus
+ZONE:0,35,0.53,1,2.86,0.02,6652232,2014,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1559085,2014,Streptococcus
+Chaiyaphum,0,0.00,0,0.00,0.00,1127423,2014,Streptococcus
+Nakhon Ratchasima,35,1.35,1,2.86,0.04,2585325,2014,Streptococcus
+Surin,0,0.00,0,0.00,0.00,1380399,2014,Streptococcus
+ZONE:1,2,0.04,0,0.00,0.00,4519935,2014,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,372241,2014,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,340581,2014,Streptococcus
+Si Sa Ket,2,0.14,0,0.00,0.00,1452203,2014,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1816057,2014,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,538853,2014,Streptococcus
+ZONE:1,0,0.00,0,0.00,0.00,4260983,2014,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,492182,2014,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,438039,2014,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1526071,2014,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,254931,2014,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,353847,2014,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,183849,2014,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1012064,2014,Streptococcus
+ZONE:1,0,0.00,0,0.00,0.00,4710872,2014,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,747372,2014,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,663485,2014,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,511063,2014,Streptococcus
+Satun,0,0.00,0,0.00,0.00,301467,2014,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1367010,2014,Streptococcus
+Trang,0,0.00,0,0.00,0.00,626708,2014,Streptococcus
+Yala,0,0.00,0,0.00,0.00,493767,2014,Streptococcus
+Total,317,0.48,29,9.15,0.04,66301242,2018,Streptococcus
+ZONE:01,49,0.83,1,2.04,0.02,5878537,2018,Streptococcus
+Chiang Mai,2,0.11,0,0.00,0.00,1755291,2018,Streptococcus
+Chiang Rai,1,0.08,0,0.00,0.00,1289873,2018,Streptococcus
+Lampang,0,0.00,0,0.00,0.00,744714,2018,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,405936,2018,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,280826,2018,Streptococcus
+Nan,14,2.92,1,7.14,0.21,479414,2018,Streptococcus
+Phayao,30,6.30,0,0.00,0.00,476157,2018,Streptococcus
+Phrae,2,0.45,0,0.00,0.00,446326,2018,Streptococcus
+ZONE:02,65,1.82,7,10.77,0.20,3565071,2018,Streptococcus
+Phetchabun,17,1.71,0,0.00,0.00,994936,2018,Streptococcus
+Phitsanulok,6,0.69,0,0.00,0.00,866129,2018,Streptococcus
+Sukhothai,7,1.17,1,14.29,0.17,598287,2018,Streptococcus
+Tak,5,0.77,0,0.00,0.00,649472,2018,Streptococcus
+Uttaradit,30,6.58,6,20.00,1.32,456247,2018,Streptococcus
+ZONE:03,115,3.84,13,11.30,0.43,2992420,2018,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Streptococcus
+Kamphaeng Phet,41,5.63,6,14.63,0.82,728470,2018,Streptococcus
+Nakhon Sawan,53,4.98,5,9.43,0.47,1064649,2018,Streptococcus
+Phichit,15,2.77,2,13.33,0.37,540620,2018,Streptococcus
+Uthai Thani,6,1.82,0,0.00,0.00,329688,2018,Streptococcus
+ZONE:04,6,0.11,0,0.00,0.00,5343264,2018,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Streptococcus
+Lop Buri,1,0.13,0,0.00,0.00,758003,2018,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Streptococcus
+Pathum Thani,1,0.09,0,0.00,0.00,1137603,2018,Streptococcus
+Saraburi,4,0.62,0,0.00,0.00,643531,2018,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Streptococcus
+ZONE:05,1,0.02,0,0.00,0.00,5324608,2018,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,890565,2018,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,914273,2018,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Streptococcus
+Ratchaburi,1,0.11,0,0.00,0.00,872615,2018,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,573215,2018,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Streptococcus
+ZONE:06,29,0.48,1,3.45,0.02,6088563,2018,Streptococcus
+Chachoengsao,1,0.14,0,0.00,0.00,712449,2018,Streptococcus
+Chanthaburi,9,1.68,0,0.00,0.00,535478,2018,Streptococcus
+Chon Buri,3,0.20,0,0.00,0.00,1522285,2018,Streptococcus
+Prachin Buri,4,0.82,1,25.00,0.20,489592,2018,Streptococcus
+Rayong,0,0.00,0,0.00,0.00,717276,2018,Streptococcus
+Sa Kaeo,12,2.13,0,0.00,0.00,563014,2018,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Streptococcus
+Trat,0,0.00,0,0.00,0.00,229782,2018,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",12/9/2562,,,,,,2018,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2561  (2018)",Streptococcus suis,82,,,,,2018,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2018,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2018,Streptococcus
+ZONE:07,0,0.00,0,0.00,0.00,5062199,2018,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,985676,2018,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1805903,2018,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,963060,2018,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Streptococcus
+ZONE:08,0,0.00,0,0.00,0.00,5553738,2018,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,423485,2018,Streptococcus
+Loei,0,0.00,0,0.00,0.00,642220,2018,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,718406,2018,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,521995,2018,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Streptococcus
+ZONE:09,49,0.72,7,14.29,0.10,6772779,2018,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Streptococcus
+Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Streptococcus
+Nakhon Ratchasima,46,1.74,7,15.22,0.26,2642815,2018,Streptococcus
+Surin,3,0.21,0,0.00,0.00,1397519,2018,Streptococcus
+ZONE:10,0,0.00,0,0.00,0.00,4613643,2018,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Streptococcus
+Si Sa Ket,0,0.00,0,0.00,0.00,1472521,2018,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872091,2018,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,539136,2018,Streptococcus
+ZONE:11,1,0.02,0,0.00,0.00,4466673,2018,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,510307,2018,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,471754,2018,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1558958,2018,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,267866,2018,Streptococcus
+Phuket,1,0.25,0,0.00,0.00,406113,2018,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,191134,2018,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Streptococcus
+ZONE:12,0,0.00,0,0.00,0.00,4960215,2018,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,799357,2018,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,713937,2018,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Streptococcus
+Satun,0,0.00,0,0.00,0.00,320637,2018,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1428429,2018,Streptococcus
+Trang,0,0.00,0,0.00,0.00,643093,2018,Streptococcus
+Yala,0,0.00,0,0.00,0.00,529811,2018,Streptococcus
+ZONE:13,2,0.04,0,0.00,0.00,5679532,2018,Streptococcus
+Bangkok,2,0.04,0,0.00,0.00,5679532,2018,Streptococcus
+Total,383,0.58,10,2.61,0.02,66171439,2022,Streptococcus
+ZONE:01,92,1.57,5,5.43,0.09,5874503,2022,Streptococcus
+Chiang Mai,26,1.45,2,7.69,0.11,1789385,2022,Streptococcus
+Chiang Rai,22,1.69,1,4.55,0.08,1298425,2022,Streptococcus
+Lampang,20,2.76,1,5.00,0.14,724678,2022,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Streptococcus
+Mae Hong Son,1,0.35,1,100.00,0.35,285916,2022,Streptococcus
+Nan,7,1.47,0,0.00,0.00,475875,2022,Streptococcus
+Phayao,12,2.58,0,0.00,0.00,464505,2022,Streptococcus
+Phrae,4,0.92,0,0.00,0.00,434580,2022,Streptococcus
+ZONE:02,50,1.41,1,2.00,0.03,3533839,2022,Streptococcus
+Phetchabun,21,2.15,1,4.76,0.10,978372,2022,Streptococcus
+Phitsanulok,4,0.47,0,0.00,0.00,847384,2022,Streptococcus
+Sukhothai,7,1.20,0,0.00,0.00,585352,2022,Streptococcus
+Tak,7,1.03,0,0.00,0.00,676583,2022,Streptococcus
+Uttaradit,11,2.47,0,0.00,0.00,446148,2022,Streptococcus
+ZONE:03,47,1.61,2,4.26,0.07,2922114,2022,Streptococcus
+Chai Nat,3,0.94,0,0.00,0.00,320432,2022,Streptococcus
+Kamphaeng Phet,19,2.67,1,5.26,0.14,712143,2022,Streptococcus
+Nakhon Sawan,9,0.87,0,0.00,0.00,1035028,2022,Streptococcus
+Phichit,7,1.32,1,14.29,0.19,529395,2022,Streptococcus
+Uthai Thani,9,2.77,0,0.00,0.00,325116,2022,Streptococcus
+ZONE:04,3,0.06,0,0.00,0.00,5422367,2022,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Streptococcus
+Lop Buri,1,0.14,0,0.00,0.00,739473,2022,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Streptococcus
+Nonthaburi,1,0.08,0,0.00,0.00,1288637,2022,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Streptococcus
+Saraburi,1,0.16,0,0.00,0.00,643963,2022,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Streptococcus
+ZONE:05,2,0.04,0,0.00,0.00,5333543,2022,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Streptococcus
+Ratchaburi,2,0.23,0,0.00,0.00,868281,2022,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Streptococcus
+ZONE:06,19,0.30,0,0.00,0.00,6237892,2022,Streptococcus
+Chachoengsao,2,0.28,0,0.00,0.00,724178,2022,Streptococcus
+Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Streptococcus
+Chon Buri,9,0.57,0,0.00,0.00,1583672,2022,Streptococcus
+Prachin Buri,2,0.40,0,0.00,0.00,495325,2022,Streptococcus
+Rayong,3,0.40,0,0.00,0.00,751343,2022,Streptococcus
+Sa Kaeo,2,0.36,0,0.00,0.00,561992,2022,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Streptococcus
+Trat,1,0.44,0,0.00,0.00,228376,2022,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",14/6/2566,,,,,,2022,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2565(2022),Streptococcus suis,82,,,,2022,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2022,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2022,Streptococcus
+ZONE:07,8,0.16,1,12.50,0.02,5010756,2022,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Streptococcus
+Maha Sarakham,6,0.63,0,0.00,0.00,948310,2022,Streptococcus
+Roi Et,2,0.15,1,50.00,0.08,1296013,2022,Streptococcus
+ZONE:08,13,0.24,1,7.69,0.02,5516407,2022,Streptococcus
+Bungkan,1,0.24,0,0.00,0.00,421995,2022,Streptococcus
+Loei,0,0.00,0,0.00,0.00,638732,2022,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Streptococcus
+Nong Khai,6,1.16,1,16.67,0.19,516843,2022,Streptococcus
+Sakon Nakhon,3,0.26,0,0.00,0.00,1146286,2022,Streptococcus
+Udon Thani,3,0.19,0,0.00,0.00,1566510,2022,Streptococcus
+ZONE:09,120,1.79,0,0.00,0.00,6712454,2022,Streptococcus
+Buri Ram,1,0.06,0,0.00,0.00,1579805,2022,Streptococcus
+Chaiyaphum,3,0.27,0,0.00,0.00,1122265,2022,Streptococcus
+Nakhon Ratchasima,99,3.76,0,0.00,0.00,2634154,2022,Streptococcus
+Surin,17,1.24,0,0.00,0.00,1376230,2022,Streptococcus
+ZONE:10,7,0.15,0,0.00,0.00,4587303,2022,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Streptococcus
+Si Sa Ket,7,0.48,0,0.00,0.00,1457556,2022,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Streptococcus
+ZONE:11,8,0.18,0,0.00,0.00,4492012,2022,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Streptococcus
+Surat Thani,8,0.75,0,0.00,0.00,1072464,2022,Streptococcus
+ZONE:12,7,0.14,0,0.00,0.00,5000255,2022,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Streptococcus
+Phatthalung,2,0.38,0,0.00,0.00,522541,2022,Streptococcus
+Satun,0,0.00,0,0.00,0.00,324835,2022,Streptococcus
+Songkhla,5,0.35,0,0.00,0.00,1431536,2022,Streptococcus
+Trang,0,0.00,0,0.00,0.00,639788,2022,Streptococcus
+Yala,0,0.00,0,0.00,0.00,542314,2022,Streptococcus
+ZONE:13,7,0.13,0,0.00,0.00,5527994,2022,Streptococcus
+Bangkok,7,0.13,0,0.00,0.00,5527994,2022,Streptococcus
+Total,344,0.52,11,3.20,0.02,66372831,2020,Streptococcus
+ZONE:01,91,1.55,1,1.10,0.02,5886870,2020,Streptococcus
+Chiang Mai,14,0.79,0,0.00,0.00,1781812,2020,Streptococcus
+Chiang Rai,9,0.69,0,0.00,0.00,1296664,2020,Streptococcus
+Lampang,24,3.27,0,0.00,0.00,733640,2020,Streptococcus
+Lamphun,6,1.49,0,0.00,0.00,403542,2020,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Streptococcus
+Nan,13,2.72,0,0.00,0.00,477476,2020,Streptococcus
+Phayao,18,3.83,1,5.56,0.21,469856,2020,Streptococcus
+Phrae,7,1.59,0,0.00,0.00,439537,2020,Streptococcus
+ZONE:02,56,1.58,2,3.57,0.06,3554902,2020,Streptococcus
+Phetchabun,13,1.32,0,0.00,0.00,987196,2020,Streptococcus
+Phitsanulok,11,1.28,0,0.00,0.00,857364,2020,Streptococcus
+Sukhothai,9,1.52,1,11.11,0.17,591477,2020,Streptococcus
+Tak,1,0.15,0,0.00,0.00,667942,2020,Streptococcus
+Uttaradit,22,4.88,1,4.55,0.22,450923,2020,Streptococcus
+ZONE:03,72,2.44,5,6.94,0.17,2956189,2020,Streptococcus
+Chai Nat,3,0.92,0,0.00,0.00,324544,2020,Streptococcus
+Kamphaeng Phet,23,3.19,0,0.00,0.00,719993,2020,Streptococcus
+Nakhon Sawan,21,2.00,1,4.76,0.10,1050098,2020,Streptococcus
+Phichit,21,3.93,4,19.05,0.75,534311,2020,Streptococcus
+Uthai Thani,4,1.22,0,0.00,0.00,327243,2020,Streptococcus
+ZONE:04,2,0.04,0,0.00,0.00,5400529,2020,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Streptococcus
+Lop Buri,1,0.13,0,0.00,0.00,749242,2020,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Streptococcus
+Saraburi,1,0.16,0,0.00,0.00,644869,2020,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Streptococcus
+ZONE:05,3,0.06,0,0.00,0.00,5342038,2020,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Streptococcus
+Ratchaburi,2,0.23,0,0.00,0.00,871207,2020,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Streptococcus
+Suphan Buri,1,0.12,0,0.00,0.00,842481,2020,Streptococcus
+ZONE:06,21,0.34,0,0.00,0.00,6192990,2020,Streptococcus
+Chachoengsao,1,0.14,0,0.00,0.00,720416,2020,Streptococcus
+Chanthaburi,2,0.37,0,0.00,0.00,536629,2020,Streptococcus
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Streptococcus
+Prachin Buri,13,2.63,0,0.00,0.00,494175,2020,Streptococcus
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Streptococcus
+Sa Kaeo,5,0.89,0,0.00,0.00,563614,2020,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Streptococcus
+Trat,0,0.00,0,0.00,0.00,229247,2020,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",22/09/2564,,,,,,2020,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2563  (2020)",Streptococcus suis,82,,,,,2020,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2020,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2020,Streptococcus
+ZONE:07,7,0.14,0,0.00,0.00,5039088,2020,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Streptococcus
+Khon Kaen,6,0.33,0,0.00,0.00,1798702,2020,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Streptococcus
+Roi Et,1,0.08,0,0.00,0.00,1301926,2020,Streptococcus
+ZONE:08,6,0.11,0,0.00,0.00,5540556,2020,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Streptococcus
+Loei,0,0.00,0,0.00,0.00,640843,2020,Streptococcus
+Nakhon Phanom,3,0.42,0,0.00,0.00,718169,2020,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Streptococcus
+Nong Khai,3,0.58,0,0.00,0.00,519873,2020,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Streptococcus
+ZONE:09,84,1.24,3,3.57,0.04,6748199,2020,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Streptococcus
+Chaiyaphum,9,0.80,0,0.00,0.00,1131140,2020,Streptococcus
+Nakhon Ratchasima,67,2.54,3,4.48,0.11,2641067,2020,Streptococcus
+Surin,8,0.58,0,0.00,0.00,1387526,2020,Streptococcus
+ZONE:10,0,0.00,0,0.00,0.00,4603401,2020,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Streptococcus
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Streptococcus
+ZONE:11,0,0.00,0,0.00,0.00,4489609,2020,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Streptococcus
+ZONE:12,1,0.02,0,0.00,0.00,4991217,2020,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Streptococcus
+Satun,0,0.00,0,0.00,0.00,323841,2020,Streptococcus
+Songkhla,1,0.07,0,0.00,0.00,1432288,2020,Streptococcus
+Trang,0,0.00,0,0.00,0.00,641868,2020,Streptococcus
+Yala,0,0.00,0,0.00,0.00,537466,2020,Streptococcus
+ZONE:13,1,0.02,0,0.00,0.00,5627243,2020,Streptococcus
+Bangkok,1,0.02,0,0.00,0.00,5627243,2020,Streptococcus
+Total,586,0.89,24,4.10,0.04,66179083,2021,Streptococcus
+ZONE:01,192,3.27,5,2.60,0.09,5875424,2021,Streptococcus
+Chiang Mai,29,1.62,0,0.00,0.00,1786877,2021,Streptococcus
+Chiang Rai,11,0.85,0,0.00,0.00,1296725,2021,Streptococcus
+Lampang,71,9.77,0,0.00,0.00,726821,2021,Streptococcus
+Lamphun,1,0.25,0,0.00,0.00,401574,2021,Streptococcus
+Mae Hong Son,1,0.35,0,0.00,0.00,285232,2021,Streptococcus
+Nan,35,7.35,3,8.57,0.63,476300,2021,Streptococcus
+Phayao,38,8.16,1,2.63,0.21,465930,2021,Streptococcus
+Phrae,6,1.38,1,16.67,0.23,435965,2021,Streptococcus
+ZONE:02,132,3.73,4,3.03,0.11,3536074,2021,Streptococcus
+Phetchabun,28,2.86,0,0.00,0.00,980156,2021,Streptococcus
+Phitsanulok,19,2.24,2,10.53,0.24,848432,2021,Streptococcus
+Sukhothai,41,6.99,1,2.44,0.17,586617,2021,Streptococcus
+Tak,6,0.89,1,16.67,0.15,673423,2021,Streptococcus
+Uttaradit,38,8.49,0,0.00,0.00,447446,2021,Streptococcus
+ZONE:03,62,2.12,6,9.68,0.20,2928596,2021,Streptococcus
+Chai Nat,3,0.93,0,0.00,0.00,321454,2021,Streptococcus
+Kamphaeng Phet,15,2.10,1,6.67,0.14,713130,2021,Streptococcus
+Nakhon Sawan,22,2.12,3,13.64,0.29,1037668,2021,Streptococcus
+Phichit,14,2.64,2,14.29,0.38,530852,2021,Streptococcus
+Uthai Thani,8,2.46,0,0.00,0.00,325492,2021,Streptococcus
+ZONE:04,2,0.04,0,0.00,0.00,5411959,2021,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Streptococcus
+Lop Buri,1,0.13,0,0.00,0.00,741200,2021,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Streptococcus
+Nonthaburi,1,0.08,0,0.00,0.00,1282690,2021,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Streptococcus
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Streptococcus
+ZONE:05,5,0.09,0,0.00,0.00,5332653,2021,Streptococcus
+Kanchanaburi,1,0.11,0,0.00,0.00,893014,2021,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Streptococcus
+Ratchaburi,3,0.35,0,0.00,0.00,868797,2021,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Streptococcus
+Suphan Buri,1,0.12,0,0.00,0.00,836993,2021,Streptococcus
+ZONE:06,17,0.27,0,0.00,0.00,6218594,2021,Streptococcus
+Chachoengsao,6,0.83,0,0.00,0.00,722448,2021,Streptococcus
+Chanthaburi,5,0.93,0,0.00,0.00,536058,2021,Streptococcus
+Chon Buri,4,0.25,0,0.00,0.00,1575278,2021,Streptococcus
+Prachin Buri,2,0.40,0,0.00,0.00,494498,2021,Streptococcus
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Streptococcus
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Streptococcus
+Trat,0,0.00,0,0.00,0.00,228456,2021,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",25/7/2565,,,,,,2021,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2564(2021),Streptococcus suis,82,,,,2021,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2021,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2021,Streptococcus
+ZONE:07,2,0.04,0,0.00,0.00,5017381,2021,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Streptococcus
+Khon Kaen,2,0.11,0,0.00,0.00,1792697,2021,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Streptococcus
+ZONE:08,1,0.02,0,0.00,0.00,5518109,2021,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Streptococcus
+Loei,0,0.00,0,0.00,0.00,638734,2021,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Streptococcus
+Sakon Nakhon,1,0.09,0,0.00,0.00,1146612,2021,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Streptococcus
+ZONE:09,158,2.35,7,4.43,0.10,6714997,2021,Streptococcus
+Buri Ram,1,0.06,0,0.00,0.00,1580495,2021,Streptococcus
+Chaiyaphum,14,1.25,0,0.00,0.00,1123595,2021,Streptococcus
+Nakhon Ratchasima,140,5.32,7,5.00,0.27,2633681,2021,Streptococcus
+Surin,3,0.22,0,0.00,0.00,1377226,2021,Streptococcus
+ZONE:10,5,0.11,1,20.00,0.02,4587095,2021,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Streptococcus
+Mukdahan,3,0.85,0,0.00,0.00,351198,2021,Streptococcus
+Si Sa Ket,2,0.14,1,50.00,0.07,1458068,2021,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Streptococcus
+ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Streptococcus
+ZONE:12,5,0.10,1,20.00,0.02,4992834,2021,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Streptococcus
+Phatthalung,3,0.57,1,33.33,0.19,522810,2021,Streptococcus
+Satun,0,0.00,0,0.00,0.00,324467,2021,Streptococcus
+Songkhla,2,0.14,0,0.00,0.00,1430073,2021,Streptococcus
+Trang,0,0.00,0,0.00,0.00,640182,2021,Streptococcus
+Yala,0,0.00,0,0.00,0.00,540458,2021,Streptococcus
+ZONE:13,5,0.09,0,0.00,0.00,5558108,2021,Streptococcus
+Bangkok,5,0.09,0,0.00,0.00,5558108,2021,Streptococcus
+Total,300,0.46,16,5.33,0.02,65426907,2016,Streptococcus
+ZONE:01,64,1.11,2,3.13,0.03,5781324,2016,Streptococcus
+Chiang Mai,15,0.88,0,0.00,0.00,1703263,2016,Streptococcus
+Chiang Rai,1,0.08,0,0.00,0.00,1242825,2016,Streptococcus
+Lampang,0,0.00,0,0.00,0.00,752685,2016,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,405927,2016,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Streptococcus
+Nan,33,6.89,2,6.06,0.42,478890,2016,Streptococcus
+Phayao,15,3.10,0,0.00,0.00,483550,2016,Streptococcus
+Phrae,0,0.00,0,0.00,0.00,453213,2016,Streptococcus
+ZONE:02,84,2.40,4,4.76,0.11,3498728,2016,Streptococcus
+Phetchabun,29,2.91,0,0.00,0.00,996397,2016,Streptococcus
+Phitsanulok,1,0.12,0,0.00,0.00,861194,2016,Streptococcus
+Sukhothai,10,1.66,0,0.00,0.00,602085,2016,Streptococcus
+Tak,9,1.55,1,11.11,0.17,578968,2016,Streptococcus
+Uttaradit,35,7.61,3,8.57,0.65,460084,2016,Streptococcus
+ZONE:03,62,2.06,5,8.06,0.17,3011449,2016,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Streptococcus
+Kamphaeng Phet,8,1.10,1,12.50,0.14,729839,2016,Streptococcus
+Nakhon Sawan,36,3.36,2,5.56,0.19,1072349,2016,Streptococcus
+Phichit,11,2.01,1,9.09,0.18,546750,2016,Streptococcus
+Uthai Thani,7,2.12,1,14.29,0.30,330543,2016,Streptococcus
+ZONE:04,9,0.17,0,0.00,0.00,5221125,2016,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Streptococcus
+Lop Buri,3,0.40,0,0.00,0.00,758531,2016,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1084154,2016,Streptococcus
+Saraburi,6,0.94,0,0.00,0.00,635567,2016,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Streptococcus
+ZONE:05,0,0.00,0,0.00,0.00,5209561,2016,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,895207,2016,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Streptococcus
+Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Streptococcus
+ZONE:06,11,0.19,0,0.00,0.00,5880124,2016,Streptococcus
+Chachoengsao,1,0.14,0,0.00,0.00,698190,2016,Streptococcus
+Chanthaburi,2,0.38,0,0.00,0.00,529194,2016,Streptococcus
+Chon Buri,1,0.07,0,0.00,0.00,1438231,2016,Streptococcus
+Prachin Buri,5,1.04,0,0.00,0.00,480755,2016,Streptococcus
+Rayong,1,0.15,0,0.00,0.00,681696,2016,Streptococcus
+Sa Kaeo,1,0.18,0,0.00,0.00,554555,2016,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Streptococcus
+Trat,0,0.00,0,0.00,0.00,227083,2016,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",3/2/2560,,,,,,2016,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2559  (2016)",Streptococcus suis,82,,,,,2016,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2016,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2016,Streptococcus
+ZONE:07,2,0.04,0,0.00,0.00,5049920,2016,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,985055,2016,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,962592,2016,Streptococcus
+Roi Et,2,0.15,0,0.00,0.00,1308241,2016,Streptococcus
+ZONE:08,6,0.11,0,0.00,0.00,5511930,2016,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,419607,2016,Streptococcus
+Loei,0,0.00,0,0.00,0.00,636666,2016,Streptococcus
+Nakhon Phanom,6,0.84,0,0.00,0.00,714369,2016,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1140673,2016,Streptococcus
+Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Streptococcus
+ZONE:09,53,0.79,5,9.43,0.07,6737604,2016,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1581955,2016,Streptococcus
+Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Streptococcus
+Nakhon Ratchasima,53,2.02,5,9.43,0.19,2624668,2016,Streptococcus
+Surin,0,0.00,0,0.00,0.00,1393330,2016,Streptococcus
+ZONE:10,2,0.04,0,0.00,0.00,4581192,2016,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Streptococcus
+Si Sa Ket,0,0.00,0,0.00,0.00,1467006,2016,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1851049,2016,Streptococcus
+Yasothon,2,0.37,0,0.00,0.00,540197,2016,Streptococcus
+ZONE:11,3,0.07,0,0.00,0.00,4383957,2016,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,503203,2016,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,459456,2016,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,262721,2016,Streptococcus
+Phuket,1,0.26,0,0.00,0.00,382485,2016,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,182313,2016,Streptococcus
+Surat Thani,2,0.19,0,0.00,0.00,1043501,2016,Streptococcus
+ZONE:12,0,0.00,0,0.00,0.00,4865646,2016,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,778941,2016,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,690104,2016,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Streptococcus
+Satun,0,0.00,0,0.00,0.00,314297,2016,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1405939,2016,Streptococcus
+Trang,0,0.00,0,0.00,0.00,639770,2016,Streptococcus
+Yala,0,0.00,0,0.00,0.00,515025,2016,Streptococcus
+ZONE:13,4,0.07,0,0.00,0.00,5694347,2016,Streptococcus
+Bangkok,4,0.07,0,0.00,0.00,5694347,2016,Streptococcus
+Total,377,0.57,29,7.69,0.04,66486458,2019,Streptococcus
+ZONE:01,67,1.14,2,2.99,0.03,5891985,2019,Streptococcus
+Chiang Mai,12,0.68,0,0.00,0.00,1771499,2019,Streptococcus
+Chiang Rai,3,0.23,0,0.00,0.00,1295217,2019,Streptococcus
+Lampang,10,1.35,0,0.00,0.00,740600,2019,Streptococcus
+Lamphun,0,0.00,0,0.00,0.00,405515,2019,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,283352,2019,Streptococcus
+Nan,17,3.55,0,0.00,0.00,478608,2019,Streptococcus
+Phayao,11,2.32,1,9.09,0.21,473786,2019,Streptococcus
+Phrae,14,3.16,1,7.14,0.23,443408,2019,Streptococcus
+ZONE:02,90,2.52,6,6.67,0.17,3570128,2019,Streptococcus
+Phetchabun,27,2.72,0,0.00,0.00,993496,2019,Streptococcus
+Phitsanulok,9,1.04,1,11.11,0.12,866068,2019,Streptococcus
+Sukhothai,12,2.01,2,16.67,0.34,596165,2019,Streptococcus
+Tak,4,0.61,0,0.00,0.00,660147,2019,Streptococcus
+Uttaradit,38,8.37,3,7.89,0.66,454252,2019,Streptococcus
+ZONE:03,113,3.79,14,12.39,0.47,2983068,2019,Streptococcus
+Chai Nat,4,1.22,1,25.00,0.31,327437,2019,Streptococcus
+Kamphaeng Phet,35,4.82,4,11.43,0.55,726836,2019,Streptococcus
+Nakhon Sawan,65,6.12,8,12.31,0.75,1061926,2019,Streptococcus
+Phichit,6,1.12,1,16.67,0.19,537843,2019,Streptococcus
+Uthai Thani,3,0.91,0,0.00,0.00,329026,2019,Streptococcus
+ZONE:04,4,0.07,0,0.00,0.00,5381695,2019,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Streptococcus
+Lop Buri,2,0.26,0,0.00,0.00,757145,2019,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260421,2019,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1255840,2019,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,818815,2019,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1154848,2019,Streptococcus
+Saraburi,2,0.31,0,0.00,0.00,645468,2019,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Streptococcus
+ZONE:05,1,0.02,0,0.00,0.00,5344807,2019,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,894338,2019,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551466,2019,Streptococcus
+Ratchaburi,1,0.11,0,0.00,0.00,873310,2019,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,193548,2019,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Streptococcus
+ZONE:06,29,0.47,1,3.45,0.02,6154601,2019,Streptococcus
+Chachoengsao,0,0.00,0,0.00,0.00,717561,2019,Streptococcus
+Chanthaburi,4,0.74,0,0.00,0.00,537097,2019,Streptococcus
+Chon Buri,6,0.39,0,0.00,0.00,1546873,2019,Streptococcus
+Prachin Buri,9,1.82,1,11.11,0.20,493159,2019,Streptococcus
+Rayong,2,0.27,0,0.00,0.00,729035,2019,Streptococcus
+Sa Kaeo,8,1.42,0,0.00,0.00,565198,2019,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1335742,2019,Streptococcus
+Trat,0,0.00,0,0.00,0.00,229936,2019,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",06/08/2563,,,,,,2019,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand 2562  (2019)",Streptococcus suis,82,,,,,2019,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2019,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2019,Streptococcus
+ZONE:07,0,0.00,0,0.00,0.00,5057831,2019,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,984381,2019,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1804384,2019,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,962856,2019,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1306210,2019,Streptococcus
+ZONE:08,11,0.20,0,0.00,0.00,5559986,2019,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,424016,2019,Streptococcus
+Loei,0,0.00,0,0.00,0.00,642862,2019,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,718961,2019,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,512449,2019,Streptococcus
+Nong Khai,9,1.72,0,0.00,0.00,522207,2019,Streptococcus
+Sakon Nakhon,1,0.09,0,0.00,0.00,1152835,2019,Streptococcus
+Udon Thani,1,0.06,0,0.00,0.00,1586656,2019,Streptococcus
+ZONE:09,59,0.87,6,10.17,0.09,6778372,2019,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1595299,2019,Streptococcus
+Chaiyaphum,2,0.18,0,0.00,0.00,1138067,2019,Streptococcus
+Nakhon Ratchasima,56,2.12,6,10.71,0.23,2647663,2019,Streptococcus
+Surin,1,0.07,0,0.00,0.00,1397343,2019,Streptococcus
+ZONE:10,2,0.04,0,0.00,0.00,4618551,2019,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,378530,2019,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,352727,2019,Streptococcus
+Si Sa Ket,2,0.14,0,0.00,0.00,1472934,2019,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1876347,2019,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,538013,2019,Streptococcus
+ZONE:11,1,0.02,0,0.00,0.00,4487837,2019,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,511134,2019,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,475239,2019,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1561179,2019,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,268513,2019,Streptococcus
+Phuket,1,0.24,0,0.00,0.00,413397,2019,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,192619,2019,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1065756,2019,Streptococcus
+ZONE:12,0,0.00,0,0.00,0.00,4986140,2019,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,805248,2019,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,721591,2019,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,524955,2019,Streptococcus
+Satun,0,0.00,0,0.00,0.00,322580,2019,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1434298,2019,Streptococcus
+Trang,0,0.00,0,0.00,0.00,643140,2019,Streptococcus
+Yala,0,0.00,0,0.00,0.00,534328,2019,Streptococcus
+ZONE:13,0,0.00,0,0.00,0.00,5671457,2019,Streptococcus
+Bangkok,0,0.00,0,0.00,0.00,5671457,2019,Streptococcus
+Total,188,0.29,11,5.85,0.02,64076033,2013,Streptococcus
+Central Region,6,0.03,0,0.00,0.00,21734984,2013,Streptococcus
+Zone:0,0,0.00,0,0.00,0.00,5674843,2013,Streptococcus
+Bangkok,0,0.00,0,0.00,0.00,5674843,2013,Streptococcus
+Zone:1,0,0.00,0,0.00,0.00,3541632,2013,Streptococcus
+Nonthaburi,0,0.00,0,0.00,0.00,1122627,2013,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,787653,2013,Streptococcus
+Pathum Thani,0,0.00,0,0.00,0.00,1010898,2013,Streptococcus
+Saraburi,0,0.00,0,0.00,0.00,620454,2013,Streptococcus
+Zone:2,1,0.06,0,0.00,0.00,1587031,2013,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,284061,2013,Streptococcus
+Chai Nat,0,0.00,0,0.00,0.00,333256,2013,Streptococcus
+Lop Buri,1,0.13,0,0.00,0.00,756127,2013,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,213587,2013,Streptococcus
+Zone:3,4,0.13,0,0.00,0.00,3151672,2013,Streptococcus
+Chachoengsao,1,0.15,0,0.00,0.00,679370,2013,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,253831,2013,Streptococcus
+Prachin Buri,2,0.43,0,0.00,0.00,469652,2013,Streptococcus
+Sa Kaeo,1,0.18,0,0.00,0.00,545596,2013,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1203223,2013,Streptococcus
+Zone:4,1,0.03,0,0.00,0.00,3392715,2013,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,838914,2013,Streptococcus
+Nakhon Pathom,0,0.00,0,0.00,0.00,866064,2013,Streptococcus
+Ratchaburi,1,0.12,0,0.00,0.00,842684,2013,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,845053,2013,Streptococcus
+Zone:5,0,0.00,0,0.00,0.00,1671831,2013,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,466079,2013,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,512568,2013,Streptococcus
+Samut Sakhon,0,0.00,0,0.00,0.00,499098,2013,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,194086,2013,Streptococcus
+Zone:9,0,0.00,0,0.00,0.00,2715260,2013,Streptococcus
+Chanthaburi,0,0.00,0,0.00,0.00,516855,2013,Streptococcus
+Chon Buri,0,0.00,0,0.00,0.00,1338656,2013,Streptococcus
+Rayong,0,0.00,0,0.00,0.00,637736,2013,Streptococcus
+Trat,0,0.00,0,0.00,0.00,222013,2013,Streptococcus
+South Region,0,0.00,0,0.00,0.00,8971855,2013,Streptococcus
+Zone:6,0,0.00,0,0.00,0.00,3541380,2013,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,492182,2013,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1526071,2013,Streptococcus
+Phatthalung,0,0.00,0,0.00,0.00,511063,2013,Streptococcus
+Surat Thani,0,0.00,0,0.00,0.00,1012064,2013,Streptococcus
+Zone:7,0,0.00,0,0.00,0.00,1857374,2013,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,438039,2013,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,254931,2013,Streptococcus
+Phuket,0,0.00,0,0.00,0.00,353847,2013,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,183849,2013,Streptococcus
+Trang,0,0.00,0,0.00,0.00,626708,2013,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/4/2557,,,,,,2013,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand  2013(2556)",Streptococcus suis,82,,,,,2013,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2013,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2013,Streptococcus
+Zone:8,0,0.00,0,0.00,0.00,3573101,2013,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,747372,2013,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,663485,2013,Streptococcus
+Satun,0,0.00,0,0.00,0.00,301467,2013,Streptococcus
+Songkhla,0,0.00,0,0.00,0.00,1367010,2013,Streptococcus
+Yala,0,0.00,0,0.00,0.00,493767,2013,Streptococcus
+North-Eastern Region,21,0.10,3,14.29,0.01,21585883,2013,Streptococcus
+Zone:10,2,0.06,0,0.00,0.00,3593082,2013,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,407634,2013,Streptococcus
+Loei,0,0.00,0,0.00,0.00,624920,2013,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502551,2013,Streptococcus
+Nong Khai,0,0.00,0,0.00,0.00,509870,2013,Streptococcus
+Udon Thani,2,0.13,0,0.00,0.00,1548107,2013,Streptococcus
+Zone:11,0,0.00,0,0.00,0.00,2168700,2013,Streptococcus
+Mukdahan,0,0.00,0,0.00,0.00,340581,2013,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,704768,2013,Streptococcus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1123351,2013,Streptococcus
+Zone:12,0,0.00,0,0.00,0.00,4992515,2013,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,981655,2013,Streptococcus
+Khon Kaen,0,0.00,0,0.00,0.00,1766066,2013,Streptococcus
+Maha Sarakham,0,0.00,0,0.00,0.00,939736,2013,Streptococcus
+Roi Et,0,0.00,0,0.00,0.00,1305058,2013,Streptococcus
+Zone:13,0,0.00,0,0.00,0.00,4179354,2013,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,372241,2013,Streptococcus
+Si Sa Ket,0,0.00,0,0.00,0.00,1452203,2013,Streptococcus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1816057,2013,Streptococcus
+Yasothon,0,0.00,0,0.00,0.00,538853,2013,Streptococcus
+Zone:14,19,0.29,3,15.79,0.05,6652232,2013,Streptococcus
+Buri Ram,0,0.00,0,0.00,0.00,1559085,2013,Streptococcus
+Chaiyaphum,0,0.00,0,0.00,0.00,1127423,2013,Streptococcus
+Nakhon Ratchasima,19,0.73,3,15.79,0.12,2585325,2013,Streptococcus
+Surin,0,0.00,0,0.00,0.00,1380399,2013,Streptococcus
+North Region,161,1.37,8,4.97,0.07,11783311,2013,Streptococcus
+Zone:15,38,1.25,1,2.63,0.03,3051678,2013,Streptococcus
+Chiang Mai,35,2.13,1,2.86,0.06,1646144,2013,Streptococcus
+Lampang,2,0.26,0,0.00,0.00,757534,2013,Streptococcus
+Lamphun,1,0.25,0,0.00,0.00,403952,2013,Streptococcus
+Mae Hong Son,0,0.00,0,0.00,0.00,244048,2013,Streptococcus
+Zone:16,7,0.27,0,0.00,0.00,2620490,2013,Streptococcus
+Chiang Rai,3,0.25,0,0.00,0.00,1198656,2013,Streptococcus
+Nan,0,0.00,0,0.00,0.00,476612,2013,Streptococcus
+Phayao,4,0.82,0,0.00,0.00,486472,2013,Streptococcus
+Phrae,0,0.00,0,0.00,0.00,458750,2013,Streptococcus
+Zone:17,65,1.89,2,3.08,0.06,3435726,2013,Streptococcus
+Phetchabun,18,1.82,0,0.00,0.00,990807,2013,Streptococcus
+Phitsanulok,6,0.70,0,0.00,0.00,851357,2013,Streptococcus
+Sukhothai,2,0.33,1,50.00,0.17,601504,2013,Streptococcus
+Tak,6,1.13,0,0.00,0.00,531018,2013,Streptococcus
+Uttaradit,33,7.16,1,3.03,0.22,461040,2013,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/4/2557,,,,,,2013,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand  2013(2556)",Streptococcus suis,82,,,,,2013,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2013,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2013,Streptococcus
+Zone:18,51,1.91,5,9.80,0.19,2675417,2013,Streptococcus
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2013,Streptococcus
+Nakhon Sawan,50,4.67,5,10.00,0.47,1071686,2013,Streptococcus
+Phichit,0,0.00,0,0.00,0.00,549688,2013,Streptococcus
+Uthai Thani,1,0.30,0,0.00,0.00,328034,2013,Streptococcus
+Total,605,0.91,34,5.62,0.05,66130957,2023,Streptococcus
+ZONE:01,117,1.99,3,2.56,0.05,5869190,2023,Streptococcus
+Chiang Mai,10,0.56,1,10.00,0.06,1790929,2023,Streptococcus
+Chiang Rai,6,0.46,0,0.00,0.00,1299030,2023,Streptococcus
+Lampang,50,6.93,0,0.00,0.00,721734,2023,Streptococcus
+Lamphun,1,0.25,0,0.00,0.00,400348,2023,Streptococcus
+Mae Hong Son,5,1.75,1,20.00,0.35,286350,2023,Streptococcus
+Nan,7,1.47,1,14.29,0.21,475207,2023,Streptococcus
+Phayao,16,3.46,0,0.00,0.00,462968,2023,Streptococcus
+Phrae,22,5.09,0,0.00,0.00,432624,2023,Streptococcus
+ZONE:02,88,2.49,7,7.95,0.20,3530228,2023,Streptococcus
+Phetchabun,12,1.23,0,0.00,0.00,975879,2023,Streptococcus
+Phitsanulok,17,2.01,0,0.00,0.00,845938,2023,Streptococcus
+Sukhothai,19,3.26,1,5.26,0.17,583502,2023,Streptococcus
+Tak,18,2.65,4,22.22,0.59,680361,2023,Streptococcus
+Uttaradit,22,4.95,2,9.09,0.45,444548,2023,Streptococcus
+ZONE:03,99,3.40,5,5.05,0.17,2913905,2023,Streptococcus
+Chai Nat,12,3.76,0,0.00,0.00,319370,2023,Streptococcus
+Kamphaeng Phet,36,5.07,1,2.78,0.14,710458,2023,Streptococcus
+Nakhon Sawan,13,1.26,0,0.00,0.00,1031921,2023,Streptococcus
+Phichit,28,5.31,2,7.14,0.38,527669,2023,Streptococcus
+Uthai Thani,10,3.08,2,20.00,0.62,324487,2023,Streptococcus
+ZONE:04,16,0.29,0,0.00,0.00,5424945,2023,Streptococcus
+Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Streptococcus
+Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Streptococcus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Streptococcus
+Nonthaburi,3,0.23,0,0.00,0.00,1292276,2023,Streptococcus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Streptococcus
+Pathum Thani,1,0.08,0,0.00,0.00,1195796,2023,Streptococcus
+Saraburi,12,1.87,0,0.00,0.00,641272,2023,Streptococcus
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Streptococcus
+ZONE:05,17,0.32,2,11.76,0.04,5330665,2023,Streptococcus
+Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Streptococcus
+Nakhon Pathom,11,1.19,1,9.09,0.11,922026,2023,Streptococcus
+Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Streptococcus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553234,2023,Streptococcus
+Ratchaburi,5,0.58,0,0.00,0.00,867043,2023,Streptococcus
+Samut Sakhon,1,0.17,1,100.00,0.17,588108,2023,Streptococcus
+Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Streptococcus
+Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Streptococcus
+ZONE:06,28,0.45,0,0.00,0.00,6251747,2023,Streptococcus
+Chachoengsao,2,0.28,0,0.00,0.00,725433,2023,Streptococcus
+Chanthaburi,4,0.75,0,0.00,0.00,536351,2023,Streptococcus
+Chon Buri,7,0.44,0,0.00,0.00,1589214,2023,Streptococcus
+Prachin Buri,6,1.21,0,0.00,0.00,496551,2023,Streptococcus
+Rayong,2,0.26,0,0.00,0.00,755364,2023,Streptococcus
+Sa Kaeo,6,1.07,0,0.00,0.00,562404,2023,Streptococcus
+Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Streptococcus
+Trat,1,0.44,0,0.00,0.00,228092,2023,Streptococcus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",2/7/2567,,,,,,2023,Streptococcus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2566(2023),Streptococcus suis,82,,,,2023,Streptococcus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2023,Streptococcus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2023,Streptococcus
+ZONE:07,25,0.50,5,20.00,0.10,5001616,2023,Streptococcus
+Kalasin,0,0.00,0,0.00,0.00,973835,2023,Streptococcus
+Khon Kaen,1,0.06,0,0.00,0.00,1787752,2023,Streptococcus
+Maha Sarakham,15,1.58,5,33.33,0.53,946457,2023,Streptococcus
+Roi Et,9,0.70,0,0.00,0.00,1293572,2023,Streptococcus
+ZONE:08,21,0.38,2,9.52,0.04,5512222,2023,Streptococcus
+Bungkan,0,0.00,0,0.00,0.00,421840,2023,Streptococcus
+Loei,0,0.00,0,0.00,0.00,638037,2023,Streptococcus
+Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Streptococcus
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Streptococcus
+Nong Khai,14,2.71,2,14.29,0.39,516320,2023,Streptococcus
+Sakon Nakhon,4,0.35,0,0.00,0.00,1145737,2023,Streptococcus
+Udon Thani,3,0.19,0,0.00,0.00,1564780,2023,Streptococcus
+ZONE:09,140,2.09,8,5.71,0.12,6705133,2023,Streptococcus
+Buri Ram,8,0.51,1,12.50,0.06,1578361,2023,Streptococcus
+Chaiyaphum,13,1.16,1,7.69,0.09,1120095,2023,Streptococcus
+Nakhon Ratchasima,102,3.88,5,4.90,0.19,2632106,2023,Streptococcus
+Surin,17,1.24,1,5.88,0.07,1374571,2023,Streptococcus
+ZONE:10,10,0.22,0,0.00,0.00,4585207,2023,Streptococcus
+Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Streptococcus
+Mukdahan,5,1.42,0,0.00,0.00,351537,2023,Streptococcus
+Si Sa Ket,3,0.21,0,0.00,0.00,1456144,2023,Streptococcus
+Ubon Ratchathani,1,0.05,0,0.00,0.00,1869163,2023,Streptococcus
+Yasothon,1,0.19,0,0.00,0.00,532497,2023,Streptococcus
+ZONE:11,13,0.29,0,0.00,0.00,4489916,2023,Streptococcus
+Chumphon,0,0.00,0,0.00,0.00,509433,2023,Streptococcus
+Krabi,0,0.00,0,0.00,0.00,479705,2023,Streptococcus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Streptococcus
+Phangnga,0,0.00,0,0.00,0.00,267729,2023,Streptococcus
+Phuket,1,0.24,0,0.00,0.00,418339,2023,Streptococcus
+Ranong,0,0.00,0,0.00,0.00,194400,2023,Streptococcus
+Surat Thani,12,1.12,0,0.00,0.00,1073064,2023,Streptococcus
+ZONE:12,20,0.40,1,5.00,0.02,5004720,2023,Streptococcus
+Narathiwat,0,0.00,0,0.00,0.00,811891,2023,Streptococcus
+Pattani,0,0.00,0,0.00,0.00,731269,2023,Streptococcus
+Phatthalung,12,2.30,0,0.00,0.00,522080,2023,Streptococcus
+Satun,0,0.00,0,0.00,0.00,325069,2023,Streptococcus
+Songkhla,8,0.56,1,12.50,0.07,1431300,2023,Streptococcus
+Trang,0,0.00,0,0.00,0.00,638997,2023,Streptococcus
+Yala,0,0.00,0,0.00,0.00,544114,2023,Streptococcus
+ZONE:13,11,0.20,1,9.09,0.02,5511463,2023,Streptococcus
+Bangkok,11,0.20,1,9.09,0.02,5511463,2023,Streptococcus

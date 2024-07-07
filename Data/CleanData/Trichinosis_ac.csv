@@ -7201,7 +7201,7 @@ Satun,Unknown,0,2006,Trichinosis
 Songkhla,Unknown,0,2006,Trichinosis
 Total,Total,154,2004,Trichinosis
 North Region,Total,30,2004,Trichinosis
-Zone 1,Total,29,2004,Trichinosis
+Zone:1,Total,29,2004,Trichinosis
 Chiang Mai,Total,3,2004,Trichinosis
 Chiang Rai,Total,0,2004,Trichinosis
 Lampang,Total,0,2004,Trichinosis
@@ -7210,98 +7210,98 @@ Mae Hong Son,Total,25,2004,Trichinosis
 Nan,Total,1,2004,Trichinosis
 Phayao,Total,0,2004,Trichinosis
 Phrae,Total,0,2004,Trichinosis
-Zone 2,Total,1,2004,Trichinosis
+Zone:2,Total,1,2004,Trichinosis
 Phetchabun,Total,0,2004,Trichinosis
 Phitsanulok,Total,0,2004,Trichinosis
 Sukhothai,Total,0,2004,Trichinosis
 Tak,Total,1,2004,Trichinosis
 Uttaradit,Total,0,2004,Trichinosis
-Zone 3,Total,0,2004,Trichinosis
+Zone:3,Total,0,2004,Trichinosis
 Kamphaeng Phet,Total,0,2004,Trichinosis
 Nakhon Sawan,Total,0,2004,Trichinosis
 Phichit,Total,0,2004,Trichinosis
 Uthai Thani,Total,0,2004,Trichinosis
 Central Region,Total,0,2004,Trichinosis
 Bangkok,Total,0,2004,Trichinosis
-Zone 4,Total,0,2004,Trichinosis
+Zone:4,Total,0,2004,Trichinosis
 Ang Thong,Total,0,2004,Trichinosis
 Nonthaburi,Total,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,Total,0,2004,Trichinosis
 Pathum Thani,Total,0,2004,Trichinosis
-Zone 5,Total,0,2004,Trichinosis
+Zone:5,Total,0,2004,Trichinosis
 Chai Nat,Total,0,2004,Trichinosis
 Lop Buri,Total,0,2004,Trichinosis
 Saraburi,Total,0,2004,Trichinosis
 Sing Buri,Total,0,2004,Trichinosis
-Zone 6,Total,0,2004,Trichinosis
+Zone:6,Total,0,2004,Trichinosis
 Kanchanaburi,Total,0,2004,Trichinosis
 Nakhon Pathom,Total,0,2004,Trichinosis
 Ratchaburi,Total,0,2004,Trichinosis
 Suphan Buri,Total,0,2004,Trichinosis
-Zone 7,Total,0,2004,Trichinosis
+Zone:7,Total,0,2004,Trichinosis
 Phetchaburi,Total,0,2004,Trichinosis
 Prachuap Khiri Khan,Total,0,2004,Trichinosis
 Samut Sakhon,Total,0,2004,Trichinosis
 Samut Songkhram,Total,0,2004,Trichinosis
-Zone 8,Total,0,2004,Trichinosis
+Zone:8,Total,0,2004,Trichinosis
 Chachoengsao,Total,0,2004,Trichinosis
 Nakhon Nayok,Total,0,2004,Trichinosis
 Prachin Buri,Total,0,2004,Trichinosis
 Sa Kaeo,Total,0,2004,Trichinosis
 Samut Prakan,Total,0,2004,Trichinosis
-Zone 9,Total,0,2004,Trichinosis
+Zone:9,Total,0,2004,Trichinosis
 Chanthaburi,Total,0,2004,Trichinosis
 Chon Buri,Total,0,2004,Trichinosis
 Rayong,Total,0,2004,Trichinosis
 Trat,Total,0,2004,Trichinosis
 North-Eastern Region,Total,124,2004,Trichinosis
-Zone 10,Total,105,2004,Trichinosis
+Zone:10,Total,105,2004,Trichinosis
 Loei,Total,0,2004,Trichinosis
 Nong Bua Lam Phu,Total,83,2004,Trichinosis
 Nong Khai,Total,19,2004,Trichinosis
 Udon Thani,Total,3,2004,Trichinosis
-Zone 11,Total,1,2004,Trichinosis
+Zone:11,Total,1,2004,Trichinosis
 Kalasin,Total,0,2004,Trichinosis
 Mukdahan,Total,0,2004,Trichinosis
 Nakhon Phanom,Total,0,2004,Trichinosis
 Sakon Nakhon,Total,1,2004,Trichinosis
-Zone 12,Total,18,2004,Trichinosis
+Zone:12,Total,18,2004,Trichinosis
 Khon Kaen,Total,18,2004,Trichinosis
 Maha Sarakham,Total,0,2004,Trichinosis
 Roi Et,Total,0,2004,Trichinosis
-Zone 13,Total,0,2004,Trichinosis
+Zone:13,Total,0,2004,Trichinosis
 Buri Ram,Total,0,2004,Trichinosis
 Chaiyaphum,Total,0,2004,Trichinosis
 Nakhon Ratchasima,Total,0,2004,Trichinosis
 Surin,Total,0,2004,Trichinosis
-Zone 14,Total,0,2004,Trichinosis
+Zone:14,Total,0,2004,Trichinosis
 Amnat Charoen,Total,0,2004,Trichinosis
 Si Sa Ket,Total,0,2004,Trichinosis
 Ubon Ratchathani,Total,0,2004,Trichinosis
 Yasothon,Total,0,2004,Trichinosis
 South Region,Total,0,2004,Trichinosis
-Zone 15,Total,0,2004,Trichinosis
+Zone:15,Total,0,2004,Trichinosis
 Chumphon,Total,0,2004,Trichinosis
 Ranong,Total,0,2004,Trichinosis
 Surat Thani,Total,0,2004,Trichinosis
-Zone 16,Total,0,2004,Trichinosis
+Zone:16,Total,0,2004,Trichinosis
 Nakhon Si Thammarat,Total,0,2004,Trichinosis
 Phatthalung,Total,0,2004,Trichinosis
 Trang,Total,0,2004,Trichinosis
-Zone 17,Total,0,2004,Trichinosis
+Zone:17,Total,0,2004,Trichinosis
 Krabi,Total,0,2004,Trichinosis
 Phangnga,Total,0,2004,Trichinosis
 Phuket,Total,0,2004,Trichinosis
-Zone 18,Total,0,2004,Trichinosis
+Zone:18,Total,0,2004,Trichinosis
 Narathiwat,Total,0,2004,Trichinosis
 Pattani,Total,0,2004,Trichinosis
 Yala,Total,0,2004,Trichinosis
-Zone 19,Total,0,2004,Trichinosis
+Zone:19,Total,0,2004,Trichinosis
 Satun,Total,0,2004,Trichinosis
 Songkhla,Total,0,2004,Trichinosis
 Total,0,0,2004,Trichinosis
 North Region,0,0,2004,Trichinosis
-Zone 1,0,0,2004,Trichinosis
+Zone:1,0,0,2004,Trichinosis
 Chiang Mai,0,0,2004,Trichinosis
 Chiang Rai,0,0,2004,Trichinosis
 Lampang,0,0,2004,Trichinosis
@@ -7310,98 +7310,98 @@ Mae Hong Son,0,0,2004,Trichinosis
 Nan,0,0,2004,Trichinosis
 Phayao,0,0,2004,Trichinosis
 Phrae,0,0,2004,Trichinosis
-Zone 2,0,0,2004,Trichinosis
+Zone:2,0,0,2004,Trichinosis
 Phetchabun,0,0,2004,Trichinosis
 Phitsanulok,0,0,2004,Trichinosis
 Sukhothai,0,0,2004,Trichinosis
 Tak,0,0,2004,Trichinosis
 Uttaradit,0,0,2004,Trichinosis
-Zone 3,0,0,2004,Trichinosis
+Zone:3,0,0,2004,Trichinosis
 Kamphaeng Phet,0,0,2004,Trichinosis
 Nakhon Sawan,0,0,2004,Trichinosis
 Phichit,0,0,2004,Trichinosis
 Uthai Thani,0,0,2004,Trichinosis
 Central Region,0,0,2004,Trichinosis
 Bangkok,0,0,2004,Trichinosis
-Zone 4,0,0,2004,Trichinosis
+Zone:4,0,0,2004,Trichinosis
 Ang Thong,0,0,2004,Trichinosis
 Nonthaburi,0,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,0,0,2004,Trichinosis
 Pathum Thani,0,0,2004,Trichinosis
-Zone 5,0,0,2004,Trichinosis
+Zone:5,0,0,2004,Trichinosis
 Chai Nat,0,0,2004,Trichinosis
 Lop Buri,0,0,2004,Trichinosis
 Saraburi,0,0,2004,Trichinosis
 Sing Buri,0,0,2004,Trichinosis
-Zone 6,0,0,2004,Trichinosis
+Zone:6,0,0,2004,Trichinosis
 Kanchanaburi,0,0,2004,Trichinosis
 Nakhon Pathom,0,0,2004,Trichinosis
 Ratchaburi,0,0,2004,Trichinosis
 Suphan Buri,0,0,2004,Trichinosis
-Zone 7,0,0,2004,Trichinosis
+Zone:7,0,0,2004,Trichinosis
 Phetchaburi,0,0,2004,Trichinosis
 Prachuap Khiri Khan,0,0,2004,Trichinosis
 Samut Sakhon,0,0,2004,Trichinosis
 Samut Songkhram,0,0,2004,Trichinosis
-Zone 8,0,0,2004,Trichinosis
+Zone:8,0,0,2004,Trichinosis
 Chachoengsao,0,0,2004,Trichinosis
 Nakhon Nayok,0,0,2004,Trichinosis
 Prachin Buri,0,0,2004,Trichinosis
 Sa Kaeo,0,0,2004,Trichinosis
 Samut Prakan,0,0,2004,Trichinosis
-Zone 9,0,0,2004,Trichinosis
+Zone:9,0,0,2004,Trichinosis
 Chanthaburi,0,0,2004,Trichinosis
 Chon Buri,0,0,2004,Trichinosis
 Rayong,0,0,2004,Trichinosis
 Trat,0,0,2004,Trichinosis
 North-Eastern Region,0,0,2004,Trichinosis
-Zone 10,0,0,2004,Trichinosis
+Zone:10,0,0,2004,Trichinosis
 Loei,0,0,2004,Trichinosis
 Nong Bua Lam Phu,0,0,2004,Trichinosis
 Nong Khai,0,0,2004,Trichinosis
 Udon Thani,0,0,2004,Trichinosis
-Zone 11,0,0,2004,Trichinosis
+Zone:11,0,0,2004,Trichinosis
 Kalasin,0,0,2004,Trichinosis
 Mukdahan,0,0,2004,Trichinosis
 Nakhon Phanom,0,0,2004,Trichinosis
 Sakon Nakhon,0,0,2004,Trichinosis
-Zone 12,0,0,2004,Trichinosis
+Zone:12,0,0,2004,Trichinosis
 Khon Kaen,0,0,2004,Trichinosis
 Maha Sarakham,0,0,2004,Trichinosis
 Roi Et,0,0,2004,Trichinosis
-Zone 13,0,0,2004,Trichinosis
+Zone:13,0,0,2004,Trichinosis
 Buri Ram,0,0,2004,Trichinosis
 Chaiyaphum,0,0,2004,Trichinosis
 Nakhon Ratchasima,0,0,2004,Trichinosis
 Surin,0,0,2004,Trichinosis
-Zone 14,0,0,2004,Trichinosis
+Zone:14,0,0,2004,Trichinosis
 Amnat Charoen,0,0,2004,Trichinosis
 Si Sa Ket,0,0,2004,Trichinosis
 Ubon Ratchathani,0,0,2004,Trichinosis
 Yasothon,0,0,2004,Trichinosis
 South Region,0,0,2004,Trichinosis
-Zone 15,0,0,2004,Trichinosis
+Zone:15,0,0,2004,Trichinosis
 Chumphon,0,0,2004,Trichinosis
 Ranong,0,0,2004,Trichinosis
 Surat Thani,0,0,2004,Trichinosis
-Zone 16,0,0,2004,Trichinosis
+Zone:16,0,0,2004,Trichinosis
 Nakhon Si Thammarat,0,0,2004,Trichinosis
 Phatthalung,0,0,2004,Trichinosis
 Trang,0,0,2004,Trichinosis
-Zone 17,0,0,2004,Trichinosis
+Zone:17,0,0,2004,Trichinosis
 Krabi,0,0,2004,Trichinosis
 Phangnga,0,0,2004,Trichinosis
 Phuket,0,0,2004,Trichinosis
-Zone 18,0,0,2004,Trichinosis
+Zone:18,0,0,2004,Trichinosis
 Narathiwat,0,0,2004,Trichinosis
 Pattani,0,0,2004,Trichinosis
 Yala,0,0,2004,Trichinosis
-Zone 19,0,0,2004,Trichinosis
+Zone:19,0,0,2004,Trichinosis
 Satun,0,0,2004,Trichinosis
 Songkhla,0,0,2004,Trichinosis
 Total,<1,0,2004,Trichinosis
 North Region,<1,0,2004,Trichinosis
-Zone 1,<1,0,2004,Trichinosis
+Zone:1,<1,0,2004,Trichinosis
 Chiang Mai,<1,0,2004,Trichinosis
 Chiang Rai,<1,0,2004,Trichinosis
 Lampang,<1,0,2004,Trichinosis
@@ -7410,98 +7410,98 @@ Mae Hong Son,<1,0,2004,Trichinosis
 Nan,<1,0,2004,Trichinosis
 Phayao,<1,0,2004,Trichinosis
 Phrae,<1,0,2004,Trichinosis
-Zone 2,<1,0,2004,Trichinosis
+Zone:2,<1,0,2004,Trichinosis
 Phetchabun,<1,0,2004,Trichinosis
 Phitsanulok,<1,0,2004,Trichinosis
 Sukhothai,<1,0,2004,Trichinosis
 Tak,<1,0,2004,Trichinosis
 Uttaradit,<1,0,2004,Trichinosis
-Zone 3,<1,0,2004,Trichinosis
+Zone:3,<1,0,2004,Trichinosis
 Kamphaeng Phet,<1,0,2004,Trichinosis
 Nakhon Sawan,<1,0,2004,Trichinosis
 Phichit,<1,0,2004,Trichinosis
 Uthai Thani,<1,0,2004,Trichinosis
 Central Region,<1,0,2004,Trichinosis
 Bangkok,<1,0,2004,Trichinosis
-Zone 4,<1,0,2004,Trichinosis
+Zone:4,<1,0,2004,Trichinosis
 Ang Thong,<1,0,2004,Trichinosis
 Nonthaburi,<1,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,<1,0,2004,Trichinosis
 Pathum Thani,<1,0,2004,Trichinosis
-Zone 5,<1,0,2004,Trichinosis
+Zone:5,<1,0,2004,Trichinosis
 Chai Nat,<1,0,2004,Trichinosis
 Lop Buri,<1,0,2004,Trichinosis
 Saraburi,<1,0,2004,Trichinosis
 Sing Buri,<1,0,2004,Trichinosis
-Zone 6,<1,0,2004,Trichinosis
+Zone:6,<1,0,2004,Trichinosis
 Kanchanaburi,<1,0,2004,Trichinosis
 Nakhon Pathom,<1,0,2004,Trichinosis
 Ratchaburi,<1,0,2004,Trichinosis
 Suphan Buri,<1,0,2004,Trichinosis
-Zone 7,<1,0,2004,Trichinosis
+Zone:7,<1,0,2004,Trichinosis
 Phetchaburi,<1,0,2004,Trichinosis
 Prachuap Khiri Khan,<1,0,2004,Trichinosis
 Samut Sakhon,<1,0,2004,Trichinosis
 Samut Songkhram,<1,0,2004,Trichinosis
-Zone 8,<1,0,2004,Trichinosis
+Zone:8,<1,0,2004,Trichinosis
 Chachoengsao,<1,0,2004,Trichinosis
 Nakhon Nayok,<1,0,2004,Trichinosis
 Prachin Buri,<1,0,2004,Trichinosis
 Sa Kaeo,<1,0,2004,Trichinosis
 Samut Prakan,<1,0,2004,Trichinosis
-Zone 9,<1,0,2004,Trichinosis
+Zone:9,<1,0,2004,Trichinosis
 Chanthaburi,<1,0,2004,Trichinosis
 Chon Buri,<1,0,2004,Trichinosis
 Rayong,<1,0,2004,Trichinosis
 Trat,<1,0,2004,Trichinosis
 North-Eastern Region,<1,0,2004,Trichinosis
-Zone 10,<1,0,2004,Trichinosis
+Zone:10,<1,0,2004,Trichinosis
 Loei,<1,0,2004,Trichinosis
 Nong Bua Lam Phu,<1,0,2004,Trichinosis
 Nong Khai,<1,0,2004,Trichinosis
 Udon Thani,<1,0,2004,Trichinosis
-Zone 11,<1,0,2004,Trichinosis
+Zone:11,<1,0,2004,Trichinosis
 Kalasin,<1,0,2004,Trichinosis
 Mukdahan,<1,0,2004,Trichinosis
 Nakhon Phanom,<1,0,2004,Trichinosis
 Sakon Nakhon,<1,0,2004,Trichinosis
-Zone 12,<1,0,2004,Trichinosis
+Zone:12,<1,0,2004,Trichinosis
 Khon Kaen,<1,0,2004,Trichinosis
 Maha Sarakham,<1,0,2004,Trichinosis
 Roi Et,<1,0,2004,Trichinosis
-Zone 13,<1,0,2004,Trichinosis
+Zone:13,<1,0,2004,Trichinosis
 Buri Ram,<1,0,2004,Trichinosis
 Chaiyaphum,<1,0,2004,Trichinosis
 Nakhon Ratchasima,<1,0,2004,Trichinosis
 Surin,<1,0,2004,Trichinosis
-Zone 14,<1,0,2004,Trichinosis
+Zone:14,<1,0,2004,Trichinosis
 Amnat Charoen,<1,0,2004,Trichinosis
 Si Sa Ket,<1,0,2004,Trichinosis
 Ubon Ratchathani,<1,0,2004,Trichinosis
 Yasothon,<1,0,2004,Trichinosis
 South Region,<1,0,2004,Trichinosis
-Zone 15,<1,0,2004,Trichinosis
+Zone:15,<1,0,2004,Trichinosis
 Chumphon,<1,0,2004,Trichinosis
 Ranong,<1,0,2004,Trichinosis
 Surat Thani,<1,0,2004,Trichinosis
-Zone 16,<1,0,2004,Trichinosis
+Zone:16,<1,0,2004,Trichinosis
 Nakhon Si Thammarat,<1,0,2004,Trichinosis
 Phatthalung,<1,0,2004,Trichinosis
 Trang,<1,0,2004,Trichinosis
-Zone 17,<1,0,2004,Trichinosis
+Zone:17,<1,0,2004,Trichinosis
 Krabi,<1,0,2004,Trichinosis
 Phangnga,<1,0,2004,Trichinosis
 Phuket,<1,0,2004,Trichinosis
-Zone 18,<1,0,2004,Trichinosis
+Zone:18,<1,0,2004,Trichinosis
 Narathiwat,<1,0,2004,Trichinosis
 Pattani,<1,0,2004,Trichinosis
 Yala,<1,0,2004,Trichinosis
-Zone 19,<1,0,2004,Trichinosis
+Zone:19,<1,0,2004,Trichinosis
 Satun,<1,0,2004,Trichinosis
 Songkhla,<1,0,2004,Trichinosis
 Total,1-1,0,2004,Trichinosis
 North Region,1-1,0,2004,Trichinosis
-Zone 1,1-1,0,2004,Trichinosis
+Zone:1,1-1,0,2004,Trichinosis
 Chiang Mai,1-1,0,2004,Trichinosis
 Chiang Rai,1-1,0,2004,Trichinosis
 Lampang,1-1,0,2004,Trichinosis
@@ -7510,98 +7510,98 @@ Mae Hong Son,1-1,0,2004,Trichinosis
 Nan,1-1,0,2004,Trichinosis
 Phayao,1-1,0,2004,Trichinosis
 Phrae,1-1,0,2004,Trichinosis
-Zone 2,1-1,0,2004,Trichinosis
+Zone:2,1-1,0,2004,Trichinosis
 Phetchabun,1-1,0,2004,Trichinosis
 Phitsanulok,1-1,0,2004,Trichinosis
 Sukhothai,1-1,0,2004,Trichinosis
 Tak,1-1,0,2004,Trichinosis
 Uttaradit,1-1,0,2004,Trichinosis
-Zone 3,1-1,0,2004,Trichinosis
+Zone:3,1-1,0,2004,Trichinosis
 Kamphaeng Phet,1-1,0,2004,Trichinosis
 Nakhon Sawan,1-1,0,2004,Trichinosis
 Phichit,1-1,0,2004,Trichinosis
 Uthai Thani,1-1,0,2004,Trichinosis
 Central Region,1-1,0,2004,Trichinosis
 Bangkok,1-1,0,2004,Trichinosis
-Zone 4,1-1,0,2004,Trichinosis
+Zone:4,1-1,0,2004,Trichinosis
 Ang Thong,1-1,0,2004,Trichinosis
 Nonthaburi,1-1,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,1-1,0,2004,Trichinosis
 Pathum Thani,1-1,0,2004,Trichinosis
-Zone 5,1-1,0,2004,Trichinosis
+Zone:5,1-1,0,2004,Trichinosis
 Chai Nat,1-1,0,2004,Trichinosis
 Lop Buri,1-1,0,2004,Trichinosis
 Saraburi,1-1,0,2004,Trichinosis
 Sing Buri,1-1,0,2004,Trichinosis
-Zone 6,1-1,0,2004,Trichinosis
+Zone:6,1-1,0,2004,Trichinosis
 Kanchanaburi,1-1,0,2004,Trichinosis
 Nakhon Pathom,1-1,0,2004,Trichinosis
 Ratchaburi,1-1,0,2004,Trichinosis
 Suphan Buri,1-1,0,2004,Trichinosis
-Zone 7,1-1,0,2004,Trichinosis
+Zone:7,1-1,0,2004,Trichinosis
 Phetchaburi,1-1,0,2004,Trichinosis
 Prachuap Khiri Khan,1-1,0,2004,Trichinosis
 Samut Sakhon,1-1,0,2004,Trichinosis
 Samut Songkhram,1-1,0,2004,Trichinosis
-Zone 8,1-1,0,2004,Trichinosis
+Zone:8,1-1,0,2004,Trichinosis
 Chachoengsao,1-1,0,2004,Trichinosis
 Nakhon Nayok,1-1,0,2004,Trichinosis
 Prachin Buri,1-1,0,2004,Trichinosis
 Sa Kaeo,1-1,0,2004,Trichinosis
 Samut Prakan,1-1,0,2004,Trichinosis
-Zone 9,1-1,0,2004,Trichinosis
+Zone:9,1-1,0,2004,Trichinosis
 Chanthaburi,1-1,0,2004,Trichinosis
 Chon Buri,1-1,0,2004,Trichinosis
 Rayong,1-1,0,2004,Trichinosis
 Trat,1-1,0,2004,Trichinosis
 North-Eastern Region,1-1,0,2004,Trichinosis
-Zone 10,1-1,0,2004,Trichinosis
+Zone:10,1-1,0,2004,Trichinosis
 Loei,1-1,0,2004,Trichinosis
 Nong Bua Lam Phu,1-1,0,2004,Trichinosis
 Nong Khai,1-1,0,2004,Trichinosis
 Udon Thani,1-1,0,2004,Trichinosis
-Zone 11,1-1,0,2004,Trichinosis
+Zone:11,1-1,0,2004,Trichinosis
 Kalasin,1-1,0,2004,Trichinosis
 Mukdahan,1-1,0,2004,Trichinosis
 Nakhon Phanom,1-1,0,2004,Trichinosis
 Sakon Nakhon,1-1,0,2004,Trichinosis
-Zone 12,1-1,0,2004,Trichinosis
+Zone:12,1-1,0,2004,Trichinosis
 Khon Kaen,1-1,0,2004,Trichinosis
 Maha Sarakham,1-1,0,2004,Trichinosis
 Roi Et,1-1,0,2004,Trichinosis
-Zone 13,1-1,0,2004,Trichinosis
+Zone:13,1-1,0,2004,Trichinosis
 Buri Ram,1-1,0,2004,Trichinosis
 Chaiyaphum,1-1,0,2004,Trichinosis
 Nakhon Ratchasima,1-1,0,2004,Trichinosis
 Surin,1-1,0,2004,Trichinosis
-Zone 14,1-1,0,2004,Trichinosis
+Zone:14,1-1,0,2004,Trichinosis
 Amnat Charoen,1-1,0,2004,Trichinosis
 Si Sa Ket,1-1,0,2004,Trichinosis
 Ubon Ratchathani,1-1,0,2004,Trichinosis
 Yasothon,1-1,0,2004,Trichinosis
 South Region,1-1,0,2004,Trichinosis
-Zone 15,1-1,0,2004,Trichinosis
+Zone:15,1-1,0,2004,Trichinosis
 Chumphon,1-1,0,2004,Trichinosis
 Ranong,1-1,0,2004,Trichinosis
 Surat Thani,1-1,0,2004,Trichinosis
-Zone 16,1-1,0,2004,Trichinosis
+Zone:16,1-1,0,2004,Trichinosis
 Nakhon Si Thammarat,1-1,0,2004,Trichinosis
 Phatthalung,1-1,0,2004,Trichinosis
 Trang,1-1,0,2004,Trichinosis
-Zone 17,1-1,0,2004,Trichinosis
+Zone:17,1-1,0,2004,Trichinosis
 Krabi,1-1,0,2004,Trichinosis
 Phangnga,1-1,0,2004,Trichinosis
 Phuket,1-1,0,2004,Trichinosis
-Zone 18,1-1,0,2004,Trichinosis
+Zone:18,1-1,0,2004,Trichinosis
 Narathiwat,1-1,0,2004,Trichinosis
 Pattani,1-1,0,2004,Trichinosis
 Yala,1-1,0,2004,Trichinosis
-Zone 19,1-1,0,2004,Trichinosis
+Zone:19,1-1,0,2004,Trichinosis
 Satun,1-1,0,2004,Trichinosis
 Songkhla,1-1,0,2004,Trichinosis
 Total,2-2,1,2004,Trichinosis
 North Region,2-2,0,2004,Trichinosis
-Zone 1,2-2,0,2004,Trichinosis
+Zone:1,2-2,0,2004,Trichinosis
 Chiang Mai,2-2,0,2004,Trichinosis
 Chiang Rai,2-2,0,2004,Trichinosis
 Lampang,2-2,0,2004,Trichinosis
@@ -7610,98 +7610,98 @@ Mae Hong Son,2-2,0,2004,Trichinosis
 Nan,2-2,0,2004,Trichinosis
 Phayao,2-2,0,2004,Trichinosis
 Phrae,2-2,0,2004,Trichinosis
-Zone 2,2-2,0,2004,Trichinosis
+Zone:2,2-2,0,2004,Trichinosis
 Phetchabun,2-2,0,2004,Trichinosis
 Phitsanulok,2-2,0,2004,Trichinosis
 Sukhothai,2-2,0,2004,Trichinosis
 Tak,2-2,0,2004,Trichinosis
 Uttaradit,2-2,0,2004,Trichinosis
-Zone 3,2-2,0,2004,Trichinosis
+Zone:3,2-2,0,2004,Trichinosis
 Kamphaeng Phet,2-2,0,2004,Trichinosis
 Nakhon Sawan,2-2,0,2004,Trichinosis
 Phichit,2-2,0,2004,Trichinosis
 Uthai Thani,2-2,0,2004,Trichinosis
 Central Region,2-2,0,2004,Trichinosis
 Bangkok,2-2,0,2004,Trichinosis
-Zone 4,2-2,0,2004,Trichinosis
+Zone:4,2-2,0,2004,Trichinosis
 Ang Thong,2-2,0,2004,Trichinosis
 Nonthaburi,2-2,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,2-2,0,2004,Trichinosis
 Pathum Thani,2-2,0,2004,Trichinosis
-Zone 5,2-2,0,2004,Trichinosis
+Zone:5,2-2,0,2004,Trichinosis
 Chai Nat,2-2,0,2004,Trichinosis
 Lop Buri,2-2,0,2004,Trichinosis
 Saraburi,2-2,0,2004,Trichinosis
 Sing Buri,2-2,0,2004,Trichinosis
-Zone 6,2-2,0,2004,Trichinosis
+Zone:6,2-2,0,2004,Trichinosis
 Kanchanaburi,2-2,0,2004,Trichinosis
 Nakhon Pathom,2-2,0,2004,Trichinosis
 Ratchaburi,2-2,0,2004,Trichinosis
 Suphan Buri,2-2,0,2004,Trichinosis
-Zone 7,2-2,0,2004,Trichinosis
+Zone:7,2-2,0,2004,Trichinosis
 Phetchaburi,2-2,0,2004,Trichinosis
 Prachuap Khiri Khan,2-2,0,2004,Trichinosis
 Samut Sakhon,2-2,0,2004,Trichinosis
 Samut Songkhram,2-2,0,2004,Trichinosis
-Zone 8,2-2,0,2004,Trichinosis
+Zone:8,2-2,0,2004,Trichinosis
 Chachoengsao,2-2,0,2004,Trichinosis
 Nakhon Nayok,2-2,0,2004,Trichinosis
 Prachin Buri,2-2,0,2004,Trichinosis
 Sa Kaeo,2-2,0,2004,Trichinosis
 Samut Prakan,2-2,0,2004,Trichinosis
-Zone 9,2-2,0,2004,Trichinosis
+Zone:9,2-2,0,2004,Trichinosis
 Chanthaburi,2-2,0,2004,Trichinosis
 Chon Buri,2-2,0,2004,Trichinosis
 Rayong,2-2,0,2004,Trichinosis
 Trat,2-2,0,2004,Trichinosis
 North-Eastern Region,2-2,1,2004,Trichinosis
-Zone 10,2-2,1,2004,Trichinosis
+Zone:10,2-2,1,2004,Trichinosis
 Loei,2-2,0,2004,Trichinosis
 Nong Bua Lam Phu,2-2,0,2004,Trichinosis
 Nong Khai,2-2,1,2004,Trichinosis
 Udon Thani,2-2,0,2004,Trichinosis
-Zone 11,2-2,0,2004,Trichinosis
+Zone:11,2-2,0,2004,Trichinosis
 Kalasin,2-2,0,2004,Trichinosis
 Mukdahan,2-2,0,2004,Trichinosis
 Nakhon Phanom,2-2,0,2004,Trichinosis
 Sakon Nakhon,2-2,0,2004,Trichinosis
-Zone 12,2-2,0,2004,Trichinosis
+Zone:12,2-2,0,2004,Trichinosis
 Khon Kaen,2-2,0,2004,Trichinosis
 Maha Sarakham,2-2,0,2004,Trichinosis
 Roi Et,2-2,0,2004,Trichinosis
-Zone 13,2-2,0,2004,Trichinosis
+Zone:13,2-2,0,2004,Trichinosis
 Buri Ram,2-2,0,2004,Trichinosis
 Chaiyaphum,2-2,0,2004,Trichinosis
 Nakhon Ratchasima,2-2,0,2004,Trichinosis
 Surin,2-2,0,2004,Trichinosis
-Zone 14,2-2,0,2004,Trichinosis
+Zone:14,2-2,0,2004,Trichinosis
 Amnat Charoen,2-2,0,2004,Trichinosis
 Si Sa Ket,2-2,0,2004,Trichinosis
 Ubon Ratchathani,2-2,0,2004,Trichinosis
 Yasothon,2-2,0,2004,Trichinosis
 South Region,2-2,0,2004,Trichinosis
-Zone 15,2-2,0,2004,Trichinosis
+Zone:15,2-2,0,2004,Trichinosis
 Chumphon,2-2,0,2004,Trichinosis
 Ranong,2-2,0,2004,Trichinosis
 Surat Thani,2-2,0,2004,Trichinosis
-Zone 16,2-2,0,2004,Trichinosis
+Zone:16,2-2,0,2004,Trichinosis
 Nakhon Si Thammarat,2-2,0,2004,Trichinosis
 Phatthalung,2-2,0,2004,Trichinosis
 Trang,2-2,0,2004,Trichinosis
-Zone 17,2-2,0,2004,Trichinosis
+Zone:17,2-2,0,2004,Trichinosis
 Krabi,2-2,0,2004,Trichinosis
 Phangnga,2-2,0,2004,Trichinosis
 Phuket,2-2,0,2004,Trichinosis
-Zone 18,2-2,0,2004,Trichinosis
+Zone:18,2-2,0,2004,Trichinosis
 Narathiwat,2-2,0,2004,Trichinosis
 Pattani,2-2,0,2004,Trichinosis
 Yala,2-2,0,2004,Trichinosis
-Zone 19,2-2,0,2004,Trichinosis
+Zone:19,2-2,0,2004,Trichinosis
 Satun,2-2,0,2004,Trichinosis
 Songkhla,2-2,0,2004,Trichinosis
 Total,3-3,0,2004,Trichinosis
 North Region,3-3,0,2004,Trichinosis
-Zone 1,3-3,0,2004,Trichinosis
+Zone:1,3-3,0,2004,Trichinosis
 Chiang Mai,3-3,0,2004,Trichinosis
 Chiang Rai,3-3,0,2004,Trichinosis
 Lampang,3-3,0,2004,Trichinosis
@@ -7710,98 +7710,98 @@ Mae Hong Son,3-3,0,2004,Trichinosis
 Nan,3-3,0,2004,Trichinosis
 Phayao,3-3,0,2004,Trichinosis
 Phrae,3-3,0,2004,Trichinosis
-Zone 2,3-3,0,2004,Trichinosis
+Zone:2,3-3,0,2004,Trichinosis
 Phetchabun,3-3,0,2004,Trichinosis
 Phitsanulok,3-3,0,2004,Trichinosis
 Sukhothai,3-3,0,2004,Trichinosis
 Tak,3-3,0,2004,Trichinosis
 Uttaradit,3-3,0,2004,Trichinosis
-Zone 3,3-3,0,2004,Trichinosis
+Zone:3,3-3,0,2004,Trichinosis
 Kamphaeng Phet,3-3,0,2004,Trichinosis
 Nakhon Sawan,3-3,0,2004,Trichinosis
 Phichit,3-3,0,2004,Trichinosis
 Uthai Thani,3-3,0,2004,Trichinosis
 Central Region,3-3,0,2004,Trichinosis
 Bangkok,3-3,0,2004,Trichinosis
-Zone 4,3-3,0,2004,Trichinosis
+Zone:4,3-3,0,2004,Trichinosis
 Ang Thong,3-3,0,2004,Trichinosis
 Nonthaburi,3-3,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,3-3,0,2004,Trichinosis
 Pathum Thani,3-3,0,2004,Trichinosis
-Zone 5,3-3,0,2004,Trichinosis
+Zone:5,3-3,0,2004,Trichinosis
 Chai Nat,3-3,0,2004,Trichinosis
 Lop Buri,3-3,0,2004,Trichinosis
 Saraburi,3-3,0,2004,Trichinosis
 Sing Buri,3-3,0,2004,Trichinosis
-Zone 6,3-3,0,2004,Trichinosis
+Zone:6,3-3,0,2004,Trichinosis
 Kanchanaburi,3-3,0,2004,Trichinosis
 Nakhon Pathom,3-3,0,2004,Trichinosis
 Ratchaburi,3-3,0,2004,Trichinosis
 Suphan Buri,3-3,0,2004,Trichinosis
-Zone 7,3-3,0,2004,Trichinosis
+Zone:7,3-3,0,2004,Trichinosis
 Phetchaburi,3-3,0,2004,Trichinosis
 Prachuap Khiri Khan,3-3,0,2004,Trichinosis
 Samut Sakhon,3-3,0,2004,Trichinosis
 Samut Songkhram,3-3,0,2004,Trichinosis
-Zone 8,3-3,0,2004,Trichinosis
+Zone:8,3-3,0,2004,Trichinosis
 Chachoengsao,3-3,0,2004,Trichinosis
 Nakhon Nayok,3-3,0,2004,Trichinosis
 Prachin Buri,3-3,0,2004,Trichinosis
 Sa Kaeo,3-3,0,2004,Trichinosis
 Samut Prakan,3-3,0,2004,Trichinosis
-Zone 9,3-3,0,2004,Trichinosis
+Zone:9,3-3,0,2004,Trichinosis
 Chanthaburi,3-3,0,2004,Trichinosis
 Chon Buri,3-3,0,2004,Trichinosis
 Rayong,3-3,0,2004,Trichinosis
 Trat,3-3,0,2004,Trichinosis
 North-Eastern Region,3-3,0,2004,Trichinosis
-Zone 10,3-3,0,2004,Trichinosis
+Zone:10,3-3,0,2004,Trichinosis
 Loei,3-3,0,2004,Trichinosis
 Nong Bua Lam Phu,3-3,0,2004,Trichinosis
 Nong Khai,3-3,0,2004,Trichinosis
 Udon Thani,3-3,0,2004,Trichinosis
-Zone 11,3-3,0,2004,Trichinosis
+Zone:11,3-3,0,2004,Trichinosis
 Kalasin,3-3,0,2004,Trichinosis
 Mukdahan,3-3,0,2004,Trichinosis
 Nakhon Phanom,3-3,0,2004,Trichinosis
 Sakon Nakhon,3-3,0,2004,Trichinosis
-Zone 12,3-3,0,2004,Trichinosis
+Zone:12,3-3,0,2004,Trichinosis
 Khon Kaen,3-3,0,2004,Trichinosis
 Maha Sarakham,3-3,0,2004,Trichinosis
 Roi Et,3-3,0,2004,Trichinosis
-Zone 13,3-3,0,2004,Trichinosis
+Zone:13,3-3,0,2004,Trichinosis
 Buri Ram,3-3,0,2004,Trichinosis
 Chaiyaphum,3-3,0,2004,Trichinosis
 Nakhon Ratchasima,3-3,0,2004,Trichinosis
 Surin,3-3,0,2004,Trichinosis
-Zone 14,3-3,0,2004,Trichinosis
+Zone:14,3-3,0,2004,Trichinosis
 Amnat Charoen,3-3,0,2004,Trichinosis
 Si Sa Ket,3-3,0,2004,Trichinosis
 Ubon Ratchathani,3-3,0,2004,Trichinosis
 Yasothon,3-3,0,2004,Trichinosis
 South Region,3-3,0,2004,Trichinosis
-Zone 15,3-3,0,2004,Trichinosis
+Zone:15,3-3,0,2004,Trichinosis
 Chumphon,3-3,0,2004,Trichinosis
 Ranong,3-3,0,2004,Trichinosis
 Surat Thani,3-3,0,2004,Trichinosis
-Zone 16,3-3,0,2004,Trichinosis
+Zone:16,3-3,0,2004,Trichinosis
 Nakhon Si Thammarat,3-3,0,2004,Trichinosis
 Phatthalung,3-3,0,2004,Trichinosis
 Trang,3-3,0,2004,Trichinosis
-Zone 17,3-3,0,2004,Trichinosis
+Zone:17,3-3,0,2004,Trichinosis
 Krabi,3-3,0,2004,Trichinosis
 Phangnga,3-3,0,2004,Trichinosis
 Phuket,3-3,0,2004,Trichinosis
-Zone 18,3-3,0,2004,Trichinosis
+Zone:18,3-3,0,2004,Trichinosis
 Narathiwat,3-3,0,2004,Trichinosis
 Pattani,3-3,0,2004,Trichinosis
 Yala,3-3,0,2004,Trichinosis
-Zone 19,3-3,0,2004,Trichinosis
+Zone:19,3-3,0,2004,Trichinosis
 Satun,3-3,0,2004,Trichinosis
 Songkhla,3-3,0,2004,Trichinosis
 Total,4-4,0,2004,Trichinosis
 North Region,4-4,0,2004,Trichinosis
-Zone 1,4-4,0,2004,Trichinosis
+Zone:1,4-4,0,2004,Trichinosis
 Chiang Mai,4-4,0,2004,Trichinosis
 Chiang Rai,4-4,0,2004,Trichinosis
 Lampang,4-4,0,2004,Trichinosis
@@ -7810,98 +7810,98 @@ Mae Hong Son,4-4,0,2004,Trichinosis
 Nan,4-4,0,2004,Trichinosis
 Phayao,4-4,0,2004,Trichinosis
 Phrae,4-4,0,2004,Trichinosis
-Zone 2,4-4,0,2004,Trichinosis
+Zone:2,4-4,0,2004,Trichinosis
 Phetchabun,4-4,0,2004,Trichinosis
 Phitsanulok,4-4,0,2004,Trichinosis
 Sukhothai,4-4,0,2004,Trichinosis
 Tak,4-4,0,2004,Trichinosis
 Uttaradit,4-4,0,2004,Trichinosis
-Zone 3,4-4,0,2004,Trichinosis
+Zone:3,4-4,0,2004,Trichinosis
 Kamphaeng Phet,4-4,0,2004,Trichinosis
 Nakhon Sawan,4-4,0,2004,Trichinosis
 Phichit,4-4,0,2004,Trichinosis
 Uthai Thani,4-4,0,2004,Trichinosis
 Central Region,4-4,0,2004,Trichinosis
 Bangkok,4-4,0,2004,Trichinosis
-Zone 4,4-4,0,2004,Trichinosis
+Zone:4,4-4,0,2004,Trichinosis
 Ang Thong,4-4,0,2004,Trichinosis
 Nonthaburi,4-4,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,4-4,0,2004,Trichinosis
 Pathum Thani,4-4,0,2004,Trichinosis
-Zone 5,4-4,0,2004,Trichinosis
+Zone:5,4-4,0,2004,Trichinosis
 Chai Nat,4-4,0,2004,Trichinosis
 Lop Buri,4-4,0,2004,Trichinosis
 Saraburi,4-4,0,2004,Trichinosis
 Sing Buri,4-4,0,2004,Trichinosis
-Zone 6,4-4,0,2004,Trichinosis
+Zone:6,4-4,0,2004,Trichinosis
 Kanchanaburi,4-4,0,2004,Trichinosis
 Nakhon Pathom,4-4,0,2004,Trichinosis
 Ratchaburi,4-4,0,2004,Trichinosis
 Suphan Buri,4-4,0,2004,Trichinosis
-Zone 7,4-4,0,2004,Trichinosis
+Zone:7,4-4,0,2004,Trichinosis
 Phetchaburi,4-4,0,2004,Trichinosis
 Prachuap Khiri Khan,4-4,0,2004,Trichinosis
 Samut Sakhon,4-4,0,2004,Trichinosis
 Samut Songkhram,4-4,0,2004,Trichinosis
-Zone 8,4-4,0,2004,Trichinosis
+Zone:8,4-4,0,2004,Trichinosis
 Chachoengsao,4-4,0,2004,Trichinosis
 Nakhon Nayok,4-4,0,2004,Trichinosis
 Prachin Buri,4-4,0,2004,Trichinosis
 Sa Kaeo,4-4,0,2004,Trichinosis
 Samut Prakan,4-4,0,2004,Trichinosis
-Zone 9,4-4,0,2004,Trichinosis
+Zone:9,4-4,0,2004,Trichinosis
 Chanthaburi,4-4,0,2004,Trichinosis
 Chon Buri,4-4,0,2004,Trichinosis
 Rayong,4-4,0,2004,Trichinosis
 Trat,4-4,0,2004,Trichinosis
 North-Eastern Region,4-4,0,2004,Trichinosis
-Zone 10,4-4,0,2004,Trichinosis
+Zone:10,4-4,0,2004,Trichinosis
 Loei,4-4,0,2004,Trichinosis
 Nong Bua Lam Phu,4-4,0,2004,Trichinosis
 Nong Khai,4-4,0,2004,Trichinosis
 Udon Thani,4-4,0,2004,Trichinosis
-Zone 11,4-4,0,2004,Trichinosis
+Zone:11,4-4,0,2004,Trichinosis
 Kalasin,4-4,0,2004,Trichinosis
 Mukdahan,4-4,0,2004,Trichinosis
 Nakhon Phanom,4-4,0,2004,Trichinosis
 Sakon Nakhon,4-4,0,2004,Trichinosis
-Zone 12,4-4,0,2004,Trichinosis
+Zone:12,4-4,0,2004,Trichinosis
 Khon Kaen,4-4,0,2004,Trichinosis
 Maha Sarakham,4-4,0,2004,Trichinosis
 Roi Et,4-4,0,2004,Trichinosis
-Zone 13,4-4,0,2004,Trichinosis
+Zone:13,4-4,0,2004,Trichinosis
 Buri Ram,4-4,0,2004,Trichinosis
 Chaiyaphum,4-4,0,2004,Trichinosis
 Nakhon Ratchasima,4-4,0,2004,Trichinosis
 Surin,4-4,0,2004,Trichinosis
-Zone 14,4-4,0,2004,Trichinosis
+Zone:14,4-4,0,2004,Trichinosis
 Amnat Charoen,4-4,0,2004,Trichinosis
 Si Sa Ket,4-4,0,2004,Trichinosis
 Ubon Ratchathani,4-4,0,2004,Trichinosis
 Yasothon,4-4,0,2004,Trichinosis
 South Region,4-4,0,2004,Trichinosis
-Zone 15,4-4,0,2004,Trichinosis
+Zone:15,4-4,0,2004,Trichinosis
 Chumphon,4-4,0,2004,Trichinosis
 Ranong,4-4,0,2004,Trichinosis
 Surat Thani,4-4,0,2004,Trichinosis
-Zone 16,4-4,0,2004,Trichinosis
+Zone:16,4-4,0,2004,Trichinosis
 Nakhon Si Thammarat,4-4,0,2004,Trichinosis
 Phatthalung,4-4,0,2004,Trichinosis
 Trang,4-4,0,2004,Trichinosis
-Zone 17,4-4,0,2004,Trichinosis
+Zone:17,4-4,0,2004,Trichinosis
 Krabi,4-4,0,2004,Trichinosis
 Phangnga,4-4,0,2004,Trichinosis
 Phuket,4-4,0,2004,Trichinosis
-Zone 18,4-4,0,2004,Trichinosis
+Zone:18,4-4,0,2004,Trichinosis
 Narathiwat,4-4,0,2004,Trichinosis
 Pattani,4-4,0,2004,Trichinosis
 Yala,4-4,0,2004,Trichinosis
-Zone 19,4-4,0,2004,Trichinosis
+Zone:19,4-4,0,2004,Trichinosis
 Satun,4-4,0,2004,Trichinosis
 Songkhla,4-4,0,2004,Trichinosis
 Total,5-5,0,2004,Trichinosis
 North Region,5-5,0,2004,Trichinosis
-Zone 1,5-5,0,2004,Trichinosis
+Zone:1,5-5,0,2004,Trichinosis
 Chiang Mai,5-5,0,2004,Trichinosis
 Chiang Rai,5-5,0,2004,Trichinosis
 Lampang,5-5,0,2004,Trichinosis
@@ -7910,98 +7910,98 @@ Mae Hong Son,5-5,0,2004,Trichinosis
 Nan,5-5,0,2004,Trichinosis
 Phayao,5-5,0,2004,Trichinosis
 Phrae,5-5,0,2004,Trichinosis
-Zone 2,5-5,0,2004,Trichinosis
+Zone:2,5-5,0,2004,Trichinosis
 Phetchabun,5-5,0,2004,Trichinosis
 Phitsanulok,5-5,0,2004,Trichinosis
 Sukhothai,5-5,0,2004,Trichinosis
 Tak,5-5,0,2004,Trichinosis
 Uttaradit,5-5,0,2004,Trichinosis
-Zone 3,5-5,0,2004,Trichinosis
+Zone:3,5-5,0,2004,Trichinosis
 Kamphaeng Phet,5-5,0,2004,Trichinosis
 Nakhon Sawan,5-5,0,2004,Trichinosis
 Phichit,5-5,0,2004,Trichinosis
 Uthai Thani,5-5,0,2004,Trichinosis
 Central Region,5-5,0,2004,Trichinosis
 Bangkok,5-5,0,2004,Trichinosis
-Zone 4,5-5,0,2004,Trichinosis
+Zone:4,5-5,0,2004,Trichinosis
 Ang Thong,5-5,0,2004,Trichinosis
 Nonthaburi,5-5,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,5-5,0,2004,Trichinosis
 Pathum Thani,5-5,0,2004,Trichinosis
-Zone 5,5-5,0,2004,Trichinosis
+Zone:5,5-5,0,2004,Trichinosis
 Chai Nat,5-5,0,2004,Trichinosis
 Lop Buri,5-5,0,2004,Trichinosis
 Saraburi,5-5,0,2004,Trichinosis
 Sing Buri,5-5,0,2004,Trichinosis
-Zone 6,5-5,0,2004,Trichinosis
+Zone:6,5-5,0,2004,Trichinosis
 Kanchanaburi,5-5,0,2004,Trichinosis
 Nakhon Pathom,5-5,0,2004,Trichinosis
 Ratchaburi,5-5,0,2004,Trichinosis
 Suphan Buri,5-5,0,2004,Trichinosis
-Zone 7,5-5,0,2004,Trichinosis
+Zone:7,5-5,0,2004,Trichinosis
 Phetchaburi,5-5,0,2004,Trichinosis
 Prachuap Khiri Khan,5-5,0,2004,Trichinosis
 Samut Sakhon,5-5,0,2004,Trichinosis
 Samut Songkhram,5-5,0,2004,Trichinosis
-Zone 8,5-5,0,2004,Trichinosis
+Zone:8,5-5,0,2004,Trichinosis
 Chachoengsao,5-5,0,2004,Trichinosis
 Nakhon Nayok,5-5,0,2004,Trichinosis
 Prachin Buri,5-5,0,2004,Trichinosis
 Sa Kaeo,5-5,0,2004,Trichinosis
 Samut Prakan,5-5,0,2004,Trichinosis
-Zone 9,5-5,0,2004,Trichinosis
+Zone:9,5-5,0,2004,Trichinosis
 Chanthaburi,5-5,0,2004,Trichinosis
 Chon Buri,5-5,0,2004,Trichinosis
 Rayong,5-5,0,2004,Trichinosis
 Trat,5-5,0,2004,Trichinosis
 North-Eastern Region,5-5,0,2004,Trichinosis
-Zone 10,5-5,0,2004,Trichinosis
+Zone:10,5-5,0,2004,Trichinosis
 Loei,5-5,0,2004,Trichinosis
 Nong Bua Lam Phu,5-5,0,2004,Trichinosis
 Nong Khai,5-5,0,2004,Trichinosis
 Udon Thani,5-5,0,2004,Trichinosis
-Zone 11,5-5,0,2004,Trichinosis
+Zone:11,5-5,0,2004,Trichinosis
 Kalasin,5-5,0,2004,Trichinosis
 Mukdahan,5-5,0,2004,Trichinosis
 Nakhon Phanom,5-5,0,2004,Trichinosis
 Sakon Nakhon,5-5,0,2004,Trichinosis
-Zone 12,5-5,0,2004,Trichinosis
+Zone:12,5-5,0,2004,Trichinosis
 Khon Kaen,5-5,0,2004,Trichinosis
 Maha Sarakham,5-5,0,2004,Trichinosis
 Roi Et,5-5,0,2004,Trichinosis
-Zone 13,5-5,0,2004,Trichinosis
+Zone:13,5-5,0,2004,Trichinosis
 Buri Ram,5-5,0,2004,Trichinosis
 Chaiyaphum,5-5,0,2004,Trichinosis
 Nakhon Ratchasima,5-5,0,2004,Trichinosis
 Surin,5-5,0,2004,Trichinosis
-Zone 14,5-5,0,2004,Trichinosis
+Zone:14,5-5,0,2004,Trichinosis
 Amnat Charoen,5-5,0,2004,Trichinosis
 Si Sa Ket,5-5,0,2004,Trichinosis
 Ubon Ratchathani,5-5,0,2004,Trichinosis
 Yasothon,5-5,0,2004,Trichinosis
 South Region,5-5,0,2004,Trichinosis
-Zone 15,5-5,0,2004,Trichinosis
+Zone:15,5-5,0,2004,Trichinosis
 Chumphon,5-5,0,2004,Trichinosis
 Ranong,5-5,0,2004,Trichinosis
 Surat Thani,5-5,0,2004,Trichinosis
-Zone 16,5-5,0,2004,Trichinosis
+Zone:16,5-5,0,2004,Trichinosis
 Nakhon Si Thammarat,5-5,0,2004,Trichinosis
 Phatthalung,5-5,0,2004,Trichinosis
 Trang,5-5,0,2004,Trichinosis
-Zone 17,5-5,0,2004,Trichinosis
+Zone:17,5-5,0,2004,Trichinosis
 Krabi,5-5,0,2004,Trichinosis
 Phangnga,5-5,0,2004,Trichinosis
 Phuket,5-5,0,2004,Trichinosis
-Zone 18,5-5,0,2004,Trichinosis
+Zone:18,5-5,0,2004,Trichinosis
 Narathiwat,5-5,0,2004,Trichinosis
 Pattani,5-5,0,2004,Trichinosis
 Yala,5-5,0,2004,Trichinosis
-Zone 19,5-5,0,2004,Trichinosis
+Zone:19,5-5,0,2004,Trichinosis
 Satun,5-5,0,2004,Trichinosis
 Songkhla,5-5,0,2004,Trichinosis
 Total,6-6,2,2004,Trichinosis
 North Region,6-6,0,2004,Trichinosis
-Zone 1,6-6,0,2004,Trichinosis
+Zone:1,6-6,0,2004,Trichinosis
 Chiang Mai,6-6,0,2004,Trichinosis
 Chiang Rai,6-6,0,2004,Trichinosis
 Lampang,6-6,0,2004,Trichinosis
@@ -8010,98 +8010,98 @@ Mae Hong Son,6-6,0,2004,Trichinosis
 Nan,6-6,0,2004,Trichinosis
 Phayao,6-6,0,2004,Trichinosis
 Phrae,6-6,0,2004,Trichinosis
-Zone 2,6-6,0,2004,Trichinosis
+Zone:2,6-6,0,2004,Trichinosis
 Phetchabun,6-6,0,2004,Trichinosis
 Phitsanulok,6-6,0,2004,Trichinosis
 Sukhothai,6-6,0,2004,Trichinosis
 Tak,6-6,0,2004,Trichinosis
 Uttaradit,6-6,0,2004,Trichinosis
-Zone 3,6-6,0,2004,Trichinosis
+Zone:3,6-6,0,2004,Trichinosis
 Kamphaeng Phet,6-6,0,2004,Trichinosis
 Nakhon Sawan,6-6,0,2004,Trichinosis
 Phichit,6-6,0,2004,Trichinosis
 Uthai Thani,6-6,0,2004,Trichinosis
 Central Region,6-6,0,2004,Trichinosis
 Bangkok,6-6,0,2004,Trichinosis
-Zone 4,6-6,0,2004,Trichinosis
+Zone:4,6-6,0,2004,Trichinosis
 Ang Thong,6-6,0,2004,Trichinosis
 Nonthaburi,6-6,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,6-6,0,2004,Trichinosis
 Pathum Thani,6-6,0,2004,Trichinosis
-Zone 5,6-6,0,2004,Trichinosis
+Zone:5,6-6,0,2004,Trichinosis
 Chai Nat,6-6,0,2004,Trichinosis
 Lop Buri,6-6,0,2004,Trichinosis
 Saraburi,6-6,0,2004,Trichinosis
 Sing Buri,6-6,0,2004,Trichinosis
-Zone 6,6-6,0,2004,Trichinosis
+Zone:6,6-6,0,2004,Trichinosis
 Kanchanaburi,6-6,0,2004,Trichinosis
 Nakhon Pathom,6-6,0,2004,Trichinosis
 Ratchaburi,6-6,0,2004,Trichinosis
 Suphan Buri,6-6,0,2004,Trichinosis
-Zone 7,6-6,0,2004,Trichinosis
+Zone:7,6-6,0,2004,Trichinosis
 Phetchaburi,6-6,0,2004,Trichinosis
 Prachuap Khiri Khan,6-6,0,2004,Trichinosis
 Samut Sakhon,6-6,0,2004,Trichinosis
 Samut Songkhram,6-6,0,2004,Trichinosis
-Zone 8,6-6,0,2004,Trichinosis
+Zone:8,6-6,0,2004,Trichinosis
 Chachoengsao,6-6,0,2004,Trichinosis
 Nakhon Nayok,6-6,0,2004,Trichinosis
 Prachin Buri,6-6,0,2004,Trichinosis
 Sa Kaeo,6-6,0,2004,Trichinosis
 Samut Prakan,6-6,0,2004,Trichinosis
-Zone 9,6-6,0,2004,Trichinosis
+Zone:9,6-6,0,2004,Trichinosis
 Chanthaburi,6-6,0,2004,Trichinosis
 Chon Buri,6-6,0,2004,Trichinosis
 Rayong,6-6,0,2004,Trichinosis
 Trat,6-6,0,2004,Trichinosis
 North-Eastern Region,6-6,2,2004,Trichinosis
-Zone 10,6-6,2,2004,Trichinosis
+Zone:10,6-6,2,2004,Trichinosis
 Loei,6-6,0,2004,Trichinosis
 Nong Bua Lam Phu,6-6,1,2004,Trichinosis
 Nong Khai,6-6,1,2004,Trichinosis
 Udon Thani,6-6,0,2004,Trichinosis
-Zone 11,6-6,0,2004,Trichinosis
+Zone:11,6-6,0,2004,Trichinosis
 Kalasin,6-6,0,2004,Trichinosis
 Mukdahan,6-6,0,2004,Trichinosis
 Nakhon Phanom,6-6,0,2004,Trichinosis
 Sakon Nakhon,6-6,0,2004,Trichinosis
-Zone 12,6-6,0,2004,Trichinosis
+Zone:12,6-6,0,2004,Trichinosis
 Khon Kaen,6-6,0,2004,Trichinosis
 Maha Sarakham,6-6,0,2004,Trichinosis
 Roi Et,6-6,0,2004,Trichinosis
-Zone 13,6-6,0,2004,Trichinosis
+Zone:13,6-6,0,2004,Trichinosis
 Buri Ram,6-6,0,2004,Trichinosis
 Chaiyaphum,6-6,0,2004,Trichinosis
 Nakhon Ratchasima,6-6,0,2004,Trichinosis
 Surin,6-6,0,2004,Trichinosis
-Zone 14,6-6,0,2004,Trichinosis
+Zone:14,6-6,0,2004,Trichinosis
 Amnat Charoen,6-6,0,2004,Trichinosis
 Si Sa Ket,6-6,0,2004,Trichinosis
 Ubon Ratchathani,6-6,0,2004,Trichinosis
 Yasothon,6-6,0,2004,Trichinosis
 South Region,6-6,0,2004,Trichinosis
-Zone 15,6-6,0,2004,Trichinosis
+Zone:15,6-6,0,2004,Trichinosis
 Chumphon,6-6,0,2004,Trichinosis
 Ranong,6-6,0,2004,Trichinosis
 Surat Thani,6-6,0,2004,Trichinosis
-Zone 16,6-6,0,2004,Trichinosis
+Zone:16,6-6,0,2004,Trichinosis
 Nakhon Si Thammarat,6-6,0,2004,Trichinosis
 Phatthalung,6-6,0,2004,Trichinosis
 Trang,6-6,0,2004,Trichinosis
-Zone 17,6-6,0,2004,Trichinosis
+Zone:17,6-6,0,2004,Trichinosis
 Krabi,6-6,0,2004,Trichinosis
 Phangnga,6-6,0,2004,Trichinosis
 Phuket,6-6,0,2004,Trichinosis
-Zone 18,6-6,0,2004,Trichinosis
+Zone:18,6-6,0,2004,Trichinosis
 Narathiwat,6-6,0,2004,Trichinosis
 Pattani,6-6,0,2004,Trichinosis
 Yala,6-6,0,2004,Trichinosis
-Zone 19,6-6,0,2004,Trichinosis
+Zone:19,6-6,0,2004,Trichinosis
 Satun,6-6,0,2004,Trichinosis
 Songkhla,6-6,0,2004,Trichinosis
 Total,7-9,1,2004,Trichinosis
 North Region,7-9,0,2004,Trichinosis
-Zone 1,7-9,0,2004,Trichinosis
+Zone:1,7-9,0,2004,Trichinosis
 Chiang Mai,7-9,0,2004,Trichinosis
 Chiang Rai,7-9,0,2004,Trichinosis
 Lampang,7-9,0,2004,Trichinosis
@@ -8110,98 +8110,98 @@ Mae Hong Son,7-9,0,2004,Trichinosis
 Nan,7-9,0,2004,Trichinosis
 Phayao,7-9,0,2004,Trichinosis
 Phrae,7-9,0,2004,Trichinosis
-Zone 2,7-9,0,2004,Trichinosis
+Zone:2,7-9,0,2004,Trichinosis
 Phetchabun,7-9,0,2004,Trichinosis
 Phitsanulok,7-9,0,2004,Trichinosis
 Sukhothai,7-9,0,2004,Trichinosis
 Tak,7-9,0,2004,Trichinosis
 Uttaradit,7-9,0,2004,Trichinosis
-Zone 3,7-9,0,2004,Trichinosis
+Zone:3,7-9,0,2004,Trichinosis
 Kamphaeng Phet,7-9,0,2004,Trichinosis
 Nakhon Sawan,7-9,0,2004,Trichinosis
 Phichit,7-9,0,2004,Trichinosis
 Uthai Thani,7-9,0,2004,Trichinosis
 Central Region,7-9,0,2004,Trichinosis
 Bangkok,7-9,0,2004,Trichinosis
-Zone 4,7-9,0,2004,Trichinosis
+Zone:4,7-9,0,2004,Trichinosis
 Ang Thong,7-9,0,2004,Trichinosis
 Nonthaburi,7-9,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,7-9,0,2004,Trichinosis
 Pathum Thani,7-9,0,2004,Trichinosis
-Zone 5,7-9,0,2004,Trichinosis
+Zone:5,7-9,0,2004,Trichinosis
 Chai Nat,7-9,0,2004,Trichinosis
 Lop Buri,7-9,0,2004,Trichinosis
 Saraburi,7-9,0,2004,Trichinosis
 Sing Buri,7-9,0,2004,Trichinosis
-Zone 6,7-9,0,2004,Trichinosis
+Zone:6,7-9,0,2004,Trichinosis
 Kanchanaburi,7-9,0,2004,Trichinosis
 Nakhon Pathom,7-9,0,2004,Trichinosis
 Ratchaburi,7-9,0,2004,Trichinosis
 Suphan Buri,7-9,0,2004,Trichinosis
-Zone 7,7-9,0,2004,Trichinosis
+Zone:7,7-9,0,2004,Trichinosis
 Phetchaburi,7-9,0,2004,Trichinosis
 Prachuap Khiri Khan,7-9,0,2004,Trichinosis
 Samut Sakhon,7-9,0,2004,Trichinosis
 Samut Songkhram,7-9,0,2004,Trichinosis
-Zone 8,7-9,0,2004,Trichinosis
+Zone:8,7-9,0,2004,Trichinosis
 Chachoengsao,7-9,0,2004,Trichinosis
 Nakhon Nayok,7-9,0,2004,Trichinosis
 Prachin Buri,7-9,0,2004,Trichinosis
 Sa Kaeo,7-9,0,2004,Trichinosis
 Samut Prakan,7-9,0,2004,Trichinosis
-Zone 9,7-9,0,2004,Trichinosis
+Zone:9,7-9,0,2004,Trichinosis
 Chanthaburi,7-9,0,2004,Trichinosis
 Chon Buri,7-9,0,2004,Trichinosis
 Rayong,7-9,0,2004,Trichinosis
 Trat,7-9,0,2004,Trichinosis
 North-Eastern Region,7-9,1,2004,Trichinosis
-Zone 10,7-9,1,2004,Trichinosis
+Zone:10,7-9,1,2004,Trichinosis
 Loei,7-9,0,2004,Trichinosis
 Nong Bua Lam Phu,7-9,1,2004,Trichinosis
 Nong Khai,7-9,0,2004,Trichinosis
 Udon Thani,7-9,0,2004,Trichinosis
-Zone 11,7-9,0,2004,Trichinosis
+Zone:11,7-9,0,2004,Trichinosis
 Kalasin,7-9,0,2004,Trichinosis
 Mukdahan,7-9,0,2004,Trichinosis
 Nakhon Phanom,7-9,0,2004,Trichinosis
 Sakon Nakhon,7-9,0,2004,Trichinosis
-Zone 12,7-9,0,2004,Trichinosis
+Zone:12,7-9,0,2004,Trichinosis
 Khon Kaen,7-9,0,2004,Trichinosis
 Maha Sarakham,7-9,0,2004,Trichinosis
 Roi Et,7-9,0,2004,Trichinosis
-Zone 13,7-9,0,2004,Trichinosis
+Zone:13,7-9,0,2004,Trichinosis
 Buri Ram,7-9,0,2004,Trichinosis
 Chaiyaphum,7-9,0,2004,Trichinosis
 Nakhon Ratchasima,7-9,0,2004,Trichinosis
 Surin,7-9,0,2004,Trichinosis
-Zone 14,7-9,0,2004,Trichinosis
+Zone:14,7-9,0,2004,Trichinosis
 Amnat Charoen,7-9,0,2004,Trichinosis
 Si Sa Ket,7-9,0,2004,Trichinosis
 Ubon Ratchathani,7-9,0,2004,Trichinosis
 Yasothon,7-9,0,2004,Trichinosis
 South Region,7-9,0,2004,Trichinosis
-Zone 15,7-9,0,2004,Trichinosis
+Zone:15,7-9,0,2004,Trichinosis
 Chumphon,7-9,0,2004,Trichinosis
 Ranong,7-9,0,2004,Trichinosis
 Surat Thani,7-9,0,2004,Trichinosis
-Zone 16,7-9,0,2004,Trichinosis
+Zone:16,7-9,0,2004,Trichinosis
 Nakhon Si Thammarat,7-9,0,2004,Trichinosis
 Phatthalung,7-9,0,2004,Trichinosis
 Trang,7-9,0,2004,Trichinosis
-Zone 17,7-9,0,2004,Trichinosis
+Zone:17,7-9,0,2004,Trichinosis
 Krabi,7-9,0,2004,Trichinosis
 Phangnga,7-9,0,2004,Trichinosis
 Phuket,7-9,0,2004,Trichinosis
-Zone 18,7-9,0,2004,Trichinosis
+Zone:18,7-9,0,2004,Trichinosis
 Narathiwat,7-9,0,2004,Trichinosis
 Pattani,7-9,0,2004,Trichinosis
 Yala,7-9,0,2004,Trichinosis
-Zone 19,7-9,0,2004,Trichinosis
+Zone:19,7-9,0,2004,Trichinosis
 Satun,7-9,0,2004,Trichinosis
 Songkhla,7-9,0,2004,Trichinosis
 Total,10-14,15,2004,Trichinosis
 North Region,10-14,8,2004,Trichinosis
-Zone 1,10-14,8,2004,Trichinosis
+Zone:1,10-14,8,2004,Trichinosis
 Chiang Mai,10-14,2,2004,Trichinosis
 Chiang Rai,10-14,0,2004,Trichinosis
 Lampang,10-14,0,2004,Trichinosis
@@ -8210,98 +8210,98 @@ Mae Hong Son,10-14,6,2004,Trichinosis
 Nan,10-14,0,2004,Trichinosis
 Phayao,10-14,0,2004,Trichinosis
 Phrae,10-14,0,2004,Trichinosis
-Zone 2,10-14,0,2004,Trichinosis
+Zone:2,10-14,0,2004,Trichinosis
 Phetchabun,10-14,0,2004,Trichinosis
 Phitsanulok,10-14,0,2004,Trichinosis
 Sukhothai,10-14,0,2004,Trichinosis
 Tak,10-14,0,2004,Trichinosis
 Uttaradit,10-14,0,2004,Trichinosis
-Zone 3,10-14,0,2004,Trichinosis
+Zone:3,10-14,0,2004,Trichinosis
 Kamphaeng Phet,10-14,0,2004,Trichinosis
 Nakhon Sawan,10-14,0,2004,Trichinosis
 Phichit,10-14,0,2004,Trichinosis
 Uthai Thani,10-14,0,2004,Trichinosis
 Central Region,10-14,0,2004,Trichinosis
 Bangkok,10-14,0,2004,Trichinosis
-Zone 4,10-14,0,2004,Trichinosis
+Zone:4,10-14,0,2004,Trichinosis
 Ang Thong,10-14,0,2004,Trichinosis
 Nonthaburi,10-14,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,10-14,0,2004,Trichinosis
 Pathum Thani,10-14,0,2004,Trichinosis
-Zone 5,10-14,0,2004,Trichinosis
+Zone:5,10-14,0,2004,Trichinosis
 Chai Nat,10-14,0,2004,Trichinosis
 Lop Buri,10-14,0,2004,Trichinosis
 Saraburi,10-14,0,2004,Trichinosis
 Sing Buri,10-14,0,2004,Trichinosis
-Zone 6,10-14,0,2004,Trichinosis
+Zone:6,10-14,0,2004,Trichinosis
 Kanchanaburi,10-14,0,2004,Trichinosis
 Nakhon Pathom,10-14,0,2004,Trichinosis
 Ratchaburi,10-14,0,2004,Trichinosis
 Suphan Buri,10-14,0,2004,Trichinosis
-Zone 7,10-14,0,2004,Trichinosis
+Zone:7,10-14,0,2004,Trichinosis
 Phetchaburi,10-14,0,2004,Trichinosis
 Prachuap Khiri Khan,10-14,0,2004,Trichinosis
 Samut Sakhon,10-14,0,2004,Trichinosis
 Samut Songkhram,10-14,0,2004,Trichinosis
-Zone 8,10-14,0,2004,Trichinosis
+Zone:8,10-14,0,2004,Trichinosis
 Chachoengsao,10-14,0,2004,Trichinosis
 Nakhon Nayok,10-14,0,2004,Trichinosis
 Prachin Buri,10-14,0,2004,Trichinosis
 Sa Kaeo,10-14,0,2004,Trichinosis
 Samut Prakan,10-14,0,2004,Trichinosis
-Zone 9,10-14,0,2004,Trichinosis
+Zone:9,10-14,0,2004,Trichinosis
 Chanthaburi,10-14,0,2004,Trichinosis
 Chon Buri,10-14,0,2004,Trichinosis
 Rayong,10-14,0,2004,Trichinosis
 Trat,10-14,0,2004,Trichinosis
 North-Eastern Region,10-14,7,2004,Trichinosis
-Zone 10,10-14,6,2004,Trichinosis
+Zone:10,10-14,6,2004,Trichinosis
 Loei,10-14,0,2004,Trichinosis
 Nong Bua Lam Phu,10-14,6,2004,Trichinosis
 Nong Khai,10-14,0,2004,Trichinosis
 Udon Thani,10-14,0,2004,Trichinosis
-Zone 11,10-14,0,2004,Trichinosis
+Zone:11,10-14,0,2004,Trichinosis
 Kalasin,10-14,0,2004,Trichinosis
 Mukdahan,10-14,0,2004,Trichinosis
 Nakhon Phanom,10-14,0,2004,Trichinosis
 Sakon Nakhon,10-14,0,2004,Trichinosis
-Zone 12,10-14,1,2004,Trichinosis
+Zone:12,10-14,1,2004,Trichinosis
 Khon Kaen,10-14,1,2004,Trichinosis
 Maha Sarakham,10-14,0,2004,Trichinosis
 Roi Et,10-14,0,2004,Trichinosis
-Zone 13,10-14,0,2004,Trichinosis
+Zone:13,10-14,0,2004,Trichinosis
 Buri Ram,10-14,0,2004,Trichinosis
 Chaiyaphum,10-14,0,2004,Trichinosis
 Nakhon Ratchasima,10-14,0,2004,Trichinosis
 Surin,10-14,0,2004,Trichinosis
-Zone 14,10-14,0,2004,Trichinosis
+Zone:14,10-14,0,2004,Trichinosis
 Amnat Charoen,10-14,0,2004,Trichinosis
 Si Sa Ket,10-14,0,2004,Trichinosis
 Ubon Ratchathani,10-14,0,2004,Trichinosis
 Yasothon,10-14,0,2004,Trichinosis
 South Region,10-14,0,2004,Trichinosis
-Zone 15,10-14,0,2004,Trichinosis
+Zone:15,10-14,0,2004,Trichinosis
 Chumphon,10-14,0,2004,Trichinosis
 Ranong,10-14,0,2004,Trichinosis
 Surat Thani,10-14,0,2004,Trichinosis
-Zone 16,10-14,0,2004,Trichinosis
+Zone:16,10-14,0,2004,Trichinosis
 Nakhon Si Thammarat,10-14,0,2004,Trichinosis
 Phatthalung,10-14,0,2004,Trichinosis
 Trang,10-14,0,2004,Trichinosis
-Zone 17,10-14,0,2004,Trichinosis
+Zone:17,10-14,0,2004,Trichinosis
 Krabi,10-14,0,2004,Trichinosis
 Phangnga,10-14,0,2004,Trichinosis
 Phuket,10-14,0,2004,Trichinosis
-Zone 18,10-14,0,2004,Trichinosis
+Zone:18,10-14,0,2004,Trichinosis
 Narathiwat,10-14,0,2004,Trichinosis
 Pattani,10-14,0,2004,Trichinosis
 Yala,10-14,0,2004,Trichinosis
-Zone 19,10-14,0,2004,Trichinosis
+Zone:19,10-14,0,2004,Trichinosis
 Satun,10-14,0,2004,Trichinosis
 Songkhla,10-14,0,2004,Trichinosis
 Total,15-24,8,2004,Trichinosis
 North Region,15-24,2,2004,Trichinosis
-Zone 1,15-24,2,2004,Trichinosis
+Zone:1,15-24,2,2004,Trichinosis
 Chiang Mai,15-24,0,2004,Trichinosis
 Chiang Rai,15-24,0,2004,Trichinosis
 Lampang,15-24,0,2004,Trichinosis
@@ -8310,98 +8310,98 @@ Mae Hong Son,15-24,2,2004,Trichinosis
 Nan,15-24,0,2004,Trichinosis
 Phayao,15-24,0,2004,Trichinosis
 Phrae,15-24,0,2004,Trichinosis
-Zone 2,15-24,0,2004,Trichinosis
+Zone:2,15-24,0,2004,Trichinosis
 Phetchabun,15-24,0,2004,Trichinosis
 Phitsanulok,15-24,0,2004,Trichinosis
 Sukhothai,15-24,0,2004,Trichinosis
 Tak,15-24,0,2004,Trichinosis
 Uttaradit,15-24,0,2004,Trichinosis
-Zone 3,15-24,0,2004,Trichinosis
+Zone:3,15-24,0,2004,Trichinosis
 Kamphaeng Phet,15-24,0,2004,Trichinosis
 Nakhon Sawan,15-24,0,2004,Trichinosis
 Phichit,15-24,0,2004,Trichinosis
 Uthai Thani,15-24,0,2004,Trichinosis
 Central Region,15-24,0,2004,Trichinosis
 Bangkok,15-24,0,2004,Trichinosis
-Zone 4,15-24,0,2004,Trichinosis
+Zone:4,15-24,0,2004,Trichinosis
 Ang Thong,15-24,0,2004,Trichinosis
 Nonthaburi,15-24,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,15-24,0,2004,Trichinosis
 Pathum Thani,15-24,0,2004,Trichinosis
-Zone 5,15-24,0,2004,Trichinosis
+Zone:5,15-24,0,2004,Trichinosis
 Chai Nat,15-24,0,2004,Trichinosis
 Lop Buri,15-24,0,2004,Trichinosis
 Saraburi,15-24,0,2004,Trichinosis
 Sing Buri,15-24,0,2004,Trichinosis
-Zone 6,15-24,0,2004,Trichinosis
+Zone:6,15-24,0,2004,Trichinosis
 Kanchanaburi,15-24,0,2004,Trichinosis
 Nakhon Pathom,15-24,0,2004,Trichinosis
 Ratchaburi,15-24,0,2004,Trichinosis
 Suphan Buri,15-24,0,2004,Trichinosis
-Zone 7,15-24,0,2004,Trichinosis
+Zone:7,15-24,0,2004,Trichinosis
 Phetchaburi,15-24,0,2004,Trichinosis
 Prachuap Khiri Khan,15-24,0,2004,Trichinosis
 Samut Sakhon,15-24,0,2004,Trichinosis
 Samut Songkhram,15-24,0,2004,Trichinosis
-Zone 8,15-24,0,2004,Trichinosis
+Zone:8,15-24,0,2004,Trichinosis
 Chachoengsao,15-24,0,2004,Trichinosis
 Nakhon Nayok,15-24,0,2004,Trichinosis
 Prachin Buri,15-24,0,2004,Trichinosis
 Sa Kaeo,15-24,0,2004,Trichinosis
 Samut Prakan,15-24,0,2004,Trichinosis
-Zone 9,15-24,0,2004,Trichinosis
+Zone:9,15-24,0,2004,Trichinosis
 Chanthaburi,15-24,0,2004,Trichinosis
 Chon Buri,15-24,0,2004,Trichinosis
 Rayong,15-24,0,2004,Trichinosis
 Trat,15-24,0,2004,Trichinosis
 North-Eastern Region,15-24,6,2004,Trichinosis
-Zone 10,15-24,5,2004,Trichinosis
+Zone:10,15-24,5,2004,Trichinosis
 Loei,15-24,0,2004,Trichinosis
 Nong Bua Lam Phu,15-24,5,2004,Trichinosis
 Nong Khai,15-24,0,2004,Trichinosis
 Udon Thani,15-24,0,2004,Trichinosis
-Zone 11,15-24,0,2004,Trichinosis
+Zone:11,15-24,0,2004,Trichinosis
 Kalasin,15-24,0,2004,Trichinosis
 Mukdahan,15-24,0,2004,Trichinosis
 Nakhon Phanom,15-24,0,2004,Trichinosis
 Sakon Nakhon,15-24,0,2004,Trichinosis
-Zone 12,15-24,1,2004,Trichinosis
+Zone:12,15-24,1,2004,Trichinosis
 Khon Kaen,15-24,1,2004,Trichinosis
 Maha Sarakham,15-24,0,2004,Trichinosis
 Roi Et,15-24,0,2004,Trichinosis
-Zone 13,15-24,0,2004,Trichinosis
+Zone:13,15-24,0,2004,Trichinosis
 Buri Ram,15-24,0,2004,Trichinosis
 Chaiyaphum,15-24,0,2004,Trichinosis
 Nakhon Ratchasima,15-24,0,2004,Trichinosis
 Surin,15-24,0,2004,Trichinosis
-Zone 14,15-24,0,2004,Trichinosis
+Zone:14,15-24,0,2004,Trichinosis
 Amnat Charoen,15-24,0,2004,Trichinosis
 Si Sa Ket,15-24,0,2004,Trichinosis
 Ubon Ratchathani,15-24,0,2004,Trichinosis
 Yasothon,15-24,0,2004,Trichinosis
 South Region,15-24,0,2004,Trichinosis
-Zone 15,15-24,0,2004,Trichinosis
+Zone:15,15-24,0,2004,Trichinosis
 Chumphon,15-24,0,2004,Trichinosis
 Ranong,15-24,0,2004,Trichinosis
 Surat Thani,15-24,0,2004,Trichinosis
-Zone 16,15-24,0,2004,Trichinosis
+Zone:16,15-24,0,2004,Trichinosis
 Nakhon Si Thammarat,15-24,0,2004,Trichinosis
 Phatthalung,15-24,0,2004,Trichinosis
 Trang,15-24,0,2004,Trichinosis
-Zone 17,15-24,0,2004,Trichinosis
+Zone:17,15-24,0,2004,Trichinosis
 Krabi,15-24,0,2004,Trichinosis
 Phangnga,15-24,0,2004,Trichinosis
 Phuket,15-24,0,2004,Trichinosis
-Zone 18,15-24,0,2004,Trichinosis
+Zone:18,15-24,0,2004,Trichinosis
 Narathiwat,15-24,0,2004,Trichinosis
 Pattani,15-24,0,2004,Trichinosis
 Yala,15-24,0,2004,Trichinosis
-Zone 19,15-24,0,2004,Trichinosis
+Zone:19,15-24,0,2004,Trichinosis
 Satun,15-24,0,2004,Trichinosis
 Songkhla,15-24,0,2004,Trichinosis
 Total,25-34,26,2004,Trichinosis
 North Region,25-34,8,2004,Trichinosis
-Zone 1,25-34,8,2004,Trichinosis
+Zone:1,25-34,8,2004,Trichinosis
 Chiang Mai,25-34,1,2004,Trichinosis
 Chiang Rai,25-34,0,2004,Trichinosis
 Lampang,25-34,0,2004,Trichinosis
@@ -8410,98 +8410,98 @@ Mae Hong Son,25-34,6,2004,Trichinosis
 Nan,25-34,1,2004,Trichinosis
 Phayao,25-34,0,2004,Trichinosis
 Phrae,25-34,0,2004,Trichinosis
-Zone 2,25-34,0,2004,Trichinosis
+Zone:2,25-34,0,2004,Trichinosis
 Phetchabun,25-34,0,2004,Trichinosis
 Phitsanulok,25-34,0,2004,Trichinosis
 Sukhothai,25-34,0,2004,Trichinosis
 Tak,25-34,0,2004,Trichinosis
 Uttaradit,25-34,0,2004,Trichinosis
-Zone 3,25-34,0,2004,Trichinosis
+Zone:3,25-34,0,2004,Trichinosis
 Kamphaeng Phet,25-34,0,2004,Trichinosis
 Nakhon Sawan,25-34,0,2004,Trichinosis
 Phichit,25-34,0,2004,Trichinosis
 Uthai Thani,25-34,0,2004,Trichinosis
 Central Region,25-34,0,2004,Trichinosis
 Bangkok,25-34,0,2004,Trichinosis
-Zone 4,25-34,0,2004,Trichinosis
+Zone:4,25-34,0,2004,Trichinosis
 Ang Thong,25-34,0,2004,Trichinosis
 Nonthaburi,25-34,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,25-34,0,2004,Trichinosis
 Pathum Thani,25-34,0,2004,Trichinosis
-Zone 5,25-34,0,2004,Trichinosis
+Zone:5,25-34,0,2004,Trichinosis
 Chai Nat,25-34,0,2004,Trichinosis
 Lop Buri,25-34,0,2004,Trichinosis
 Saraburi,25-34,0,2004,Trichinosis
 Sing Buri,25-34,0,2004,Trichinosis
-Zone 6,25-34,0,2004,Trichinosis
+Zone:6,25-34,0,2004,Trichinosis
 Kanchanaburi,25-34,0,2004,Trichinosis
 Nakhon Pathom,25-34,0,2004,Trichinosis
 Ratchaburi,25-34,0,2004,Trichinosis
 Suphan Buri,25-34,0,2004,Trichinosis
-Zone 7,25-34,0,2004,Trichinosis
+Zone:7,25-34,0,2004,Trichinosis
 Phetchaburi,25-34,0,2004,Trichinosis
 Prachuap Khiri Khan,25-34,0,2004,Trichinosis
 Samut Sakhon,25-34,0,2004,Trichinosis
 Samut Songkhram,25-34,0,2004,Trichinosis
-Zone 8,25-34,0,2004,Trichinosis
+Zone:8,25-34,0,2004,Trichinosis
 Chachoengsao,25-34,0,2004,Trichinosis
 Nakhon Nayok,25-34,0,2004,Trichinosis
 Prachin Buri,25-34,0,2004,Trichinosis
 Sa Kaeo,25-34,0,2004,Trichinosis
 Samut Prakan,25-34,0,2004,Trichinosis
-Zone 9,25-34,0,2004,Trichinosis
+Zone:9,25-34,0,2004,Trichinosis
 Chanthaburi,25-34,0,2004,Trichinosis
 Chon Buri,25-34,0,2004,Trichinosis
 Rayong,25-34,0,2004,Trichinosis
 Trat,25-34,0,2004,Trichinosis
 North-Eastern Region,25-34,18,2004,Trichinosis
-Zone 10,25-34,13,2004,Trichinosis
+Zone:10,25-34,13,2004,Trichinosis
 Loei,25-34,0,2004,Trichinosis
 Nong Bua Lam Phu,25-34,7,2004,Trichinosis
 Nong Khai,25-34,6,2004,Trichinosis
 Udon Thani,25-34,0,2004,Trichinosis
-Zone 11,25-34,1,2004,Trichinosis
+Zone:11,25-34,1,2004,Trichinosis
 Kalasin,25-34,0,2004,Trichinosis
 Mukdahan,25-34,0,2004,Trichinosis
 Nakhon Phanom,25-34,0,2004,Trichinosis
 Sakon Nakhon,25-34,1,2004,Trichinosis
-Zone 12,25-34,4,2004,Trichinosis
+Zone:12,25-34,4,2004,Trichinosis
 Khon Kaen,25-34,4,2004,Trichinosis
 Maha Sarakham,25-34,0,2004,Trichinosis
 Roi Et,25-34,0,2004,Trichinosis
-Zone 13,25-34,0,2004,Trichinosis
+Zone:13,25-34,0,2004,Trichinosis
 Buri Ram,25-34,0,2004,Trichinosis
 Chaiyaphum,25-34,0,2004,Trichinosis
 Nakhon Ratchasima,25-34,0,2004,Trichinosis
 Surin,25-34,0,2004,Trichinosis
-Zone 14,25-34,0,2004,Trichinosis
+Zone:14,25-34,0,2004,Trichinosis
 Amnat Charoen,25-34,0,2004,Trichinosis
 Si Sa Ket,25-34,0,2004,Trichinosis
 Ubon Ratchathani,25-34,0,2004,Trichinosis
 Yasothon,25-34,0,2004,Trichinosis
 South Region,25-34,0,2004,Trichinosis
-Zone 15,25-34,0,2004,Trichinosis
+Zone:15,25-34,0,2004,Trichinosis
 Chumphon,25-34,0,2004,Trichinosis
 Ranong,25-34,0,2004,Trichinosis
 Surat Thani,25-34,0,2004,Trichinosis
-Zone 16,25-34,0,2004,Trichinosis
+Zone:16,25-34,0,2004,Trichinosis
 Nakhon Si Thammarat,25-34,0,2004,Trichinosis
 Phatthalung,25-34,0,2004,Trichinosis
 Trang,25-34,0,2004,Trichinosis
-Zone 17,25-34,0,2004,Trichinosis
+Zone:17,25-34,0,2004,Trichinosis
 Krabi,25-34,0,2004,Trichinosis
 Phangnga,25-34,0,2004,Trichinosis
 Phuket,25-34,0,2004,Trichinosis
-Zone 18,25-34,0,2004,Trichinosis
+Zone:18,25-34,0,2004,Trichinosis
 Narathiwat,25-34,0,2004,Trichinosis
 Pattani,25-34,0,2004,Trichinosis
 Yala,25-34,0,2004,Trichinosis
-Zone 19,25-34,0,2004,Trichinosis
+Zone:19,25-34,0,2004,Trichinosis
 Satun,25-34,0,2004,Trichinosis
 Songkhla,25-34,0,2004,Trichinosis
 Total,35-44,41,2004,Trichinosis
 North Region,35-44,8,2004,Trichinosis
-Zone 1,35-44,7,2004,Trichinosis
+Zone:1,35-44,7,2004,Trichinosis
 Chiang Mai,35-44,0,2004,Trichinosis
 Chiang Rai,35-44,0,2004,Trichinosis
 Lampang,35-44,0,2004,Trichinosis
@@ -8510,98 +8510,98 @@ Mae Hong Son,35-44,7,2004,Trichinosis
 Nan,35-44,0,2004,Trichinosis
 Phayao,35-44,0,2004,Trichinosis
 Phrae,35-44,0,2004,Trichinosis
-Zone 2,35-44,1,2004,Trichinosis
+Zone:2,35-44,1,2004,Trichinosis
 Phetchabun,35-44,0,2004,Trichinosis
 Phitsanulok,35-44,0,2004,Trichinosis
 Sukhothai,35-44,0,2004,Trichinosis
 Tak,35-44,1,2004,Trichinosis
 Uttaradit,35-44,0,2004,Trichinosis
-Zone 3,35-44,0,2004,Trichinosis
+Zone:3,35-44,0,2004,Trichinosis
 Kamphaeng Phet,35-44,0,2004,Trichinosis
 Nakhon Sawan,35-44,0,2004,Trichinosis
 Phichit,35-44,0,2004,Trichinosis
 Uthai Thani,35-44,0,2004,Trichinosis
 Central Region,35-44,0,2004,Trichinosis
 Bangkok,35-44,0,2004,Trichinosis
-Zone 4,35-44,0,2004,Trichinosis
+Zone:4,35-44,0,2004,Trichinosis
 Ang Thong,35-44,0,2004,Trichinosis
 Nonthaburi,35-44,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,35-44,0,2004,Trichinosis
 Pathum Thani,35-44,0,2004,Trichinosis
-Zone 5,35-44,0,2004,Trichinosis
+Zone:5,35-44,0,2004,Trichinosis
 Chai Nat,35-44,0,2004,Trichinosis
 Lop Buri,35-44,0,2004,Trichinosis
 Saraburi,35-44,0,2004,Trichinosis
 Sing Buri,35-44,0,2004,Trichinosis
-Zone 6,35-44,0,2004,Trichinosis
+Zone:6,35-44,0,2004,Trichinosis
 Kanchanaburi,35-44,0,2004,Trichinosis
 Nakhon Pathom,35-44,0,2004,Trichinosis
 Ratchaburi,35-44,0,2004,Trichinosis
 Suphan Buri,35-44,0,2004,Trichinosis
-Zone 7,35-44,0,2004,Trichinosis
+Zone:7,35-44,0,2004,Trichinosis
 Phetchaburi,35-44,0,2004,Trichinosis
 Prachuap Khiri Khan,35-44,0,2004,Trichinosis
 Samut Sakhon,35-44,0,2004,Trichinosis
 Samut Songkhram,35-44,0,2004,Trichinosis
-Zone 8,35-44,0,2004,Trichinosis
+Zone:8,35-44,0,2004,Trichinosis
 Chachoengsao,35-44,0,2004,Trichinosis
 Nakhon Nayok,35-44,0,2004,Trichinosis
 Prachin Buri,35-44,0,2004,Trichinosis
 Sa Kaeo,35-44,0,2004,Trichinosis
 Samut Prakan,35-44,0,2004,Trichinosis
-Zone 9,35-44,0,2004,Trichinosis
+Zone:9,35-44,0,2004,Trichinosis
 Chanthaburi,35-44,0,2004,Trichinosis
 Chon Buri,35-44,0,2004,Trichinosis
 Rayong,35-44,0,2004,Trichinosis
 Trat,35-44,0,2004,Trichinosis
 North-Eastern Region,35-44,33,2004,Trichinosis
-Zone 10,35-44,28,2004,Trichinosis
+Zone:10,35-44,28,2004,Trichinosis
 Loei,35-44,0,2004,Trichinosis
 Nong Bua Lam Phu,35-44,20,2004,Trichinosis
 Nong Khai,35-44,7,2004,Trichinosis
 Udon Thani,35-44,1,2004,Trichinosis
-Zone 11,35-44,0,2004,Trichinosis
+Zone:11,35-44,0,2004,Trichinosis
 Kalasin,35-44,0,2004,Trichinosis
 Mukdahan,35-44,0,2004,Trichinosis
 Nakhon Phanom,35-44,0,2004,Trichinosis
 Sakon Nakhon,35-44,0,2004,Trichinosis
-Zone 12,35-44,5,2004,Trichinosis
+Zone:12,35-44,5,2004,Trichinosis
 Khon Kaen,35-44,5,2004,Trichinosis
 Maha Sarakham,35-44,0,2004,Trichinosis
 Roi Et,35-44,0,2004,Trichinosis
-Zone 13,35-44,0,2004,Trichinosis
+Zone:13,35-44,0,2004,Trichinosis
 Buri Ram,35-44,0,2004,Trichinosis
 Chaiyaphum,35-44,0,2004,Trichinosis
 Nakhon Ratchasima,35-44,0,2004,Trichinosis
 Surin,35-44,0,2004,Trichinosis
-Zone 14,35-44,0,2004,Trichinosis
+Zone:14,35-44,0,2004,Trichinosis
 Amnat Charoen,35-44,0,2004,Trichinosis
 Si Sa Ket,35-44,0,2004,Trichinosis
 Ubon Ratchathani,35-44,0,2004,Trichinosis
 Yasothon,35-44,0,2004,Trichinosis
 South Region,35-44,0,2004,Trichinosis
-Zone 15,35-44,0,2004,Trichinosis
+Zone:15,35-44,0,2004,Trichinosis
 Chumphon,35-44,0,2004,Trichinosis
 Ranong,35-44,0,2004,Trichinosis
 Surat Thani,35-44,0,2004,Trichinosis
-Zone 16,35-44,0,2004,Trichinosis
+Zone:16,35-44,0,2004,Trichinosis
 Nakhon Si Thammarat,35-44,0,2004,Trichinosis
 Phatthalung,35-44,0,2004,Trichinosis
 Trang,35-44,0,2004,Trichinosis
-Zone 17,35-44,0,2004,Trichinosis
+Zone:17,35-44,0,2004,Trichinosis
 Krabi,35-44,0,2004,Trichinosis
 Phangnga,35-44,0,2004,Trichinosis
 Phuket,35-44,0,2004,Trichinosis
-Zone 18,35-44,0,2004,Trichinosis
+Zone:18,35-44,0,2004,Trichinosis
 Narathiwat,35-44,0,2004,Trichinosis
 Pattani,35-44,0,2004,Trichinosis
 Yala,35-44,0,2004,Trichinosis
-Zone 19,35-44,0,2004,Trichinosis
+Zone:19,35-44,0,2004,Trichinosis
 Satun,35-44,0,2004,Trichinosis
 Songkhla,35-44,0,2004,Trichinosis
 Total,45-54,28,2004,Trichinosis
 North Region,45-54,0,2004,Trichinosis
-Zone 1,45-54,0,2004,Trichinosis
+Zone:1,45-54,0,2004,Trichinosis
 Chiang Mai,45-54,0,2004,Trichinosis
 Chiang Rai,45-54,0,2004,Trichinosis
 Lampang,45-54,0,2004,Trichinosis
@@ -8610,98 +8610,98 @@ Mae Hong Son,45-54,0,2004,Trichinosis
 Nan,45-54,0,2004,Trichinosis
 Phayao,45-54,0,2004,Trichinosis
 Phrae,45-54,0,2004,Trichinosis
-Zone 2,45-54,0,2004,Trichinosis
+Zone:2,45-54,0,2004,Trichinosis
 Phetchabun,45-54,0,2004,Trichinosis
 Phitsanulok,45-54,0,2004,Trichinosis
 Sukhothai,45-54,0,2004,Trichinosis
 Tak,45-54,0,2004,Trichinosis
 Uttaradit,45-54,0,2004,Trichinosis
-Zone 3,45-54,0,2004,Trichinosis
+Zone:3,45-54,0,2004,Trichinosis
 Kamphaeng Phet,45-54,0,2004,Trichinosis
 Nakhon Sawan,45-54,0,2004,Trichinosis
 Phichit,45-54,0,2004,Trichinosis
 Uthai Thani,45-54,0,2004,Trichinosis
 Central Region,45-54,0,2004,Trichinosis
 Bangkok,45-54,0,2004,Trichinosis
-Zone 4,45-54,0,2004,Trichinosis
+Zone:4,45-54,0,2004,Trichinosis
 Ang Thong,45-54,0,2004,Trichinosis
 Nonthaburi,45-54,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,45-54,0,2004,Trichinosis
 Pathum Thani,45-54,0,2004,Trichinosis
-Zone 5,45-54,0,2004,Trichinosis
+Zone:5,45-54,0,2004,Trichinosis
 Chai Nat,45-54,0,2004,Trichinosis
 Lop Buri,45-54,0,2004,Trichinosis
 Saraburi,45-54,0,2004,Trichinosis
 Sing Buri,45-54,0,2004,Trichinosis
-Zone 6,45-54,0,2004,Trichinosis
+Zone:6,45-54,0,2004,Trichinosis
 Kanchanaburi,45-54,0,2004,Trichinosis
 Nakhon Pathom,45-54,0,2004,Trichinosis
 Ratchaburi,45-54,0,2004,Trichinosis
 Suphan Buri,45-54,0,2004,Trichinosis
-Zone 7,45-54,0,2004,Trichinosis
+Zone:7,45-54,0,2004,Trichinosis
 Phetchaburi,45-54,0,2004,Trichinosis
 Prachuap Khiri Khan,45-54,0,2004,Trichinosis
 Samut Sakhon,45-54,0,2004,Trichinosis
 Samut Songkhram,45-54,0,2004,Trichinosis
-Zone 8,45-54,0,2004,Trichinosis
+Zone:8,45-54,0,2004,Trichinosis
 Chachoengsao,45-54,0,2004,Trichinosis
 Nakhon Nayok,45-54,0,2004,Trichinosis
 Prachin Buri,45-54,0,2004,Trichinosis
 Sa Kaeo,45-54,0,2004,Trichinosis
 Samut Prakan,45-54,0,2004,Trichinosis
-Zone 9,45-54,0,2004,Trichinosis
+Zone:9,45-54,0,2004,Trichinosis
 Chanthaburi,45-54,0,2004,Trichinosis
 Chon Buri,45-54,0,2004,Trichinosis
 Rayong,45-54,0,2004,Trichinosis
 Trat,45-54,0,2004,Trichinosis
 North-Eastern Region,45-54,28,2004,Trichinosis
-Zone 10,45-54,25,2004,Trichinosis
+Zone:10,45-54,25,2004,Trichinosis
 Loei,45-54,0,2004,Trichinosis
 Nong Bua Lam Phu,45-54,22,2004,Trichinosis
 Nong Khai,45-54,2,2004,Trichinosis
 Udon Thani,45-54,1,2004,Trichinosis
-Zone 11,45-54,0,2004,Trichinosis
+Zone:11,45-54,0,2004,Trichinosis
 Kalasin,45-54,0,2004,Trichinosis
 Mukdahan,45-54,0,2004,Trichinosis
 Nakhon Phanom,45-54,0,2004,Trichinosis
 Sakon Nakhon,45-54,0,2004,Trichinosis
-Zone 12,45-54,3,2004,Trichinosis
+Zone:12,45-54,3,2004,Trichinosis
 Khon Kaen,45-54,3,2004,Trichinosis
 Maha Sarakham,45-54,0,2004,Trichinosis
 Roi Et,45-54,0,2004,Trichinosis
-Zone 13,45-54,0,2004,Trichinosis
+Zone:13,45-54,0,2004,Trichinosis
 Buri Ram,45-54,0,2004,Trichinosis
 Chaiyaphum,45-54,0,2004,Trichinosis
 Nakhon Ratchasima,45-54,0,2004,Trichinosis
 Surin,45-54,0,2004,Trichinosis
-Zone 14,45-54,0,2004,Trichinosis
+Zone:14,45-54,0,2004,Trichinosis
 Amnat Charoen,45-54,0,2004,Trichinosis
 Si Sa Ket,45-54,0,2004,Trichinosis
 Ubon Ratchathani,45-54,0,2004,Trichinosis
 Yasothon,45-54,0,2004,Trichinosis
 South Region,45-54,0,2004,Trichinosis
-Zone 15,45-54,0,2004,Trichinosis
+Zone:15,45-54,0,2004,Trichinosis
 Chumphon,45-54,0,2004,Trichinosis
 Ranong,45-54,0,2004,Trichinosis
 Surat Thani,45-54,0,2004,Trichinosis
-Zone 16,45-54,0,2004,Trichinosis
+Zone:16,45-54,0,2004,Trichinosis
 Nakhon Si Thammarat,45-54,0,2004,Trichinosis
 Phatthalung,45-54,0,2004,Trichinosis
 Trang,45-54,0,2004,Trichinosis
-Zone 17,45-54,0,2004,Trichinosis
+Zone:17,45-54,0,2004,Trichinosis
 Krabi,45-54,0,2004,Trichinosis
 Phangnga,45-54,0,2004,Trichinosis
 Phuket,45-54,0,2004,Trichinosis
-Zone 18,45-54,0,2004,Trichinosis
+Zone:18,45-54,0,2004,Trichinosis
 Narathiwat,45-54,0,2004,Trichinosis
 Pattani,45-54,0,2004,Trichinosis
 Yala,45-54,0,2004,Trichinosis
-Zone 19,45-54,0,2004,Trichinosis
+Zone:19,45-54,0,2004,Trichinosis
 Satun,45-54,0,2004,Trichinosis
 Songkhla,45-54,0,2004,Trichinosis
 Total,55-64,19,2004,Trichinosis
 North Region,55-64,1,2004,Trichinosis
-Zone 1,55-64,1,2004,Trichinosis
+Zone:1,55-64,1,2004,Trichinosis
 Chiang Mai,55-64,0,2004,Trichinosis
 Chiang Rai,55-64,0,2004,Trichinosis
 Lampang,55-64,0,2004,Trichinosis
@@ -8710,98 +8710,98 @@ Mae Hong Son,55-64,1,2004,Trichinosis
 Nan,55-64,0,2004,Trichinosis
 Phayao,55-64,0,2004,Trichinosis
 Phrae,55-64,0,2004,Trichinosis
-Zone 2,55-64,0,2004,Trichinosis
+Zone:2,55-64,0,2004,Trichinosis
 Phetchabun,55-64,0,2004,Trichinosis
 Phitsanulok,55-64,0,2004,Trichinosis
 Sukhothai,55-64,0,2004,Trichinosis
 Tak,55-64,0,2004,Trichinosis
 Uttaradit,55-64,0,2004,Trichinosis
-Zone 3,55-64,0,2004,Trichinosis
+Zone:3,55-64,0,2004,Trichinosis
 Kamphaeng Phet,55-64,0,2004,Trichinosis
 Nakhon Sawan,55-64,0,2004,Trichinosis
 Phichit,55-64,0,2004,Trichinosis
 Uthai Thani,55-64,0,2004,Trichinosis
 Central Region,55-64,0,2004,Trichinosis
 Bangkok,55-64,0,2004,Trichinosis
-Zone 4,55-64,0,2004,Trichinosis
+Zone:4,55-64,0,2004,Trichinosis
 Ang Thong,55-64,0,2004,Trichinosis
 Nonthaburi,55-64,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,55-64,0,2004,Trichinosis
 Pathum Thani,55-64,0,2004,Trichinosis
-Zone 5,55-64,0,2004,Trichinosis
+Zone:5,55-64,0,2004,Trichinosis
 Chai Nat,55-64,0,2004,Trichinosis
 Lop Buri,55-64,0,2004,Trichinosis
 Saraburi,55-64,0,2004,Trichinosis
 Sing Buri,55-64,0,2004,Trichinosis
-Zone 6,55-64,0,2004,Trichinosis
+Zone:6,55-64,0,2004,Trichinosis
 Kanchanaburi,55-64,0,2004,Trichinosis
 Nakhon Pathom,55-64,0,2004,Trichinosis
 Ratchaburi,55-64,0,2004,Trichinosis
 Suphan Buri,55-64,0,2004,Trichinosis
-Zone 7,55-64,0,2004,Trichinosis
+Zone:7,55-64,0,2004,Trichinosis
 Phetchaburi,55-64,0,2004,Trichinosis
 Prachuap Khiri Khan,55-64,0,2004,Trichinosis
 Samut Sakhon,55-64,0,2004,Trichinosis
 Samut Songkhram,55-64,0,2004,Trichinosis
-Zone 8,55-64,0,2004,Trichinosis
+Zone:8,55-64,0,2004,Trichinosis
 Chachoengsao,55-64,0,2004,Trichinosis
 Nakhon Nayok,55-64,0,2004,Trichinosis
 Prachin Buri,55-64,0,2004,Trichinosis
 Sa Kaeo,55-64,0,2004,Trichinosis
 Samut Prakan,55-64,0,2004,Trichinosis
-Zone 9,55-64,0,2004,Trichinosis
+Zone:9,55-64,0,2004,Trichinosis
 Chanthaburi,55-64,0,2004,Trichinosis
 Chon Buri,55-64,0,2004,Trichinosis
 Rayong,55-64,0,2004,Trichinosis
 Trat,55-64,0,2004,Trichinosis
 North-Eastern Region,55-64,18,2004,Trichinosis
-Zone 10,55-64,17,2004,Trichinosis
+Zone:10,55-64,17,2004,Trichinosis
 Loei,55-64,0,2004,Trichinosis
 Nong Bua Lam Phu,55-64,15,2004,Trichinosis
 Nong Khai,55-64,1,2004,Trichinosis
 Udon Thani,55-64,1,2004,Trichinosis
-Zone 11,55-64,0,2004,Trichinosis
+Zone:11,55-64,0,2004,Trichinosis
 Kalasin,55-64,0,2004,Trichinosis
 Mukdahan,55-64,0,2004,Trichinosis
 Nakhon Phanom,55-64,0,2004,Trichinosis
 Sakon Nakhon,55-64,0,2004,Trichinosis
-Zone 12,55-64,1,2004,Trichinosis
+Zone:12,55-64,1,2004,Trichinosis
 Khon Kaen,55-64,1,2004,Trichinosis
 Maha Sarakham,55-64,0,2004,Trichinosis
 Roi Et,55-64,0,2004,Trichinosis
-Zone 13,55-64,0,2004,Trichinosis
+Zone:13,55-64,0,2004,Trichinosis
 Buri Ram,55-64,0,2004,Trichinosis
 Chaiyaphum,55-64,0,2004,Trichinosis
 Nakhon Ratchasima,55-64,0,2004,Trichinosis
 Surin,55-64,0,2004,Trichinosis
-Zone 14,55-64,0,2004,Trichinosis
+Zone:14,55-64,0,2004,Trichinosis
 Amnat Charoen,55-64,0,2004,Trichinosis
 Si Sa Ket,55-64,0,2004,Trichinosis
 Ubon Ratchathani,55-64,0,2004,Trichinosis
 Yasothon,55-64,0,2004,Trichinosis
 South Region,55-64,0,2004,Trichinosis
-Zone 15,55-64,0,2004,Trichinosis
+Zone:15,55-64,0,2004,Trichinosis
 Chumphon,55-64,0,2004,Trichinosis
 Ranong,55-64,0,2004,Trichinosis
 Surat Thani,55-64,0,2004,Trichinosis
-Zone 16,55-64,0,2004,Trichinosis
+Zone:16,55-64,0,2004,Trichinosis
 Nakhon Si Thammarat,55-64,0,2004,Trichinosis
 Phatthalung,55-64,0,2004,Trichinosis
 Trang,55-64,0,2004,Trichinosis
-Zone 17,55-64,0,2004,Trichinosis
+Zone:17,55-64,0,2004,Trichinosis
 Krabi,55-64,0,2004,Trichinosis
 Phangnga,55-64,0,2004,Trichinosis
 Phuket,55-64,0,2004,Trichinosis
-Zone 18,55-64,0,2004,Trichinosis
+Zone:18,55-64,0,2004,Trichinosis
 Narathiwat,55-64,0,2004,Trichinosis
 Pattani,55-64,0,2004,Trichinosis
 Yala,55-64,0,2004,Trichinosis
-Zone 19,55-64,0,2004,Trichinosis
+Zone:19,55-64,0,2004,Trichinosis
 Satun,55-64,0,2004,Trichinosis
 Songkhla,55-64,0,2004,Trichinosis
 Total,65+,13,2004,Trichinosis
 North Region,65+,3,2004,Trichinosis
-Zone 1,65+,3,2004,Trichinosis
+Zone:1,65+,3,2004,Trichinosis
 Chiang Mai,65+,0,2004,Trichinosis
 Chiang Rai,65+,0,2004,Trichinosis
 Lampang,65+,0,2004,Trichinosis
@@ -8810,98 +8810,98 @@ Mae Hong Son,65+,3,2004,Trichinosis
 Nan,65+,0,2004,Trichinosis
 Phayao,65+,0,2004,Trichinosis
 Phrae,65+,0,2004,Trichinosis
-Zone 2,65+,0,2004,Trichinosis
+Zone:2,65+,0,2004,Trichinosis
 Phetchabun,65+,0,2004,Trichinosis
 Phitsanulok,65+,0,2004,Trichinosis
 Sukhothai,65+,0,2004,Trichinosis
 Tak,65+,0,2004,Trichinosis
 Uttaradit,65+,0,2004,Trichinosis
-Zone 3,65+,0,2004,Trichinosis
+Zone:3,65+,0,2004,Trichinosis
 Kamphaeng Phet,65+,0,2004,Trichinosis
 Nakhon Sawan,65+,0,2004,Trichinosis
 Phichit,65+,0,2004,Trichinosis
 Uthai Thani,65+,0,2004,Trichinosis
 Central Region,65+,0,2004,Trichinosis
 Bangkok,65+,0,2004,Trichinosis
-Zone 4,65+,0,2004,Trichinosis
+Zone:4,65+,0,2004,Trichinosis
 Ang Thong,65+,0,2004,Trichinosis
 Nonthaburi,65+,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,65+,0,2004,Trichinosis
 Pathum Thani,65+,0,2004,Trichinosis
-Zone 5,65+,0,2004,Trichinosis
+Zone:5,65+,0,2004,Trichinosis
 Chai Nat,65+,0,2004,Trichinosis
 Lop Buri,65+,0,2004,Trichinosis
 Saraburi,65+,0,2004,Trichinosis
 Sing Buri,65+,0,2004,Trichinosis
-Zone 6,65+,0,2004,Trichinosis
+Zone:6,65+,0,2004,Trichinosis
 Kanchanaburi,65+,0,2004,Trichinosis
 Nakhon Pathom,65+,0,2004,Trichinosis
 Ratchaburi,65+,0,2004,Trichinosis
 Suphan Buri,65+,0,2004,Trichinosis
-Zone 7,65+,0,2004,Trichinosis
+Zone:7,65+,0,2004,Trichinosis
 Phetchaburi,65+,0,2004,Trichinosis
 Prachuap Khiri Khan,65+,0,2004,Trichinosis
 Samut Sakhon,65+,0,2004,Trichinosis
 Samut Songkhram,65+,0,2004,Trichinosis
-Zone 8,65+,0,2004,Trichinosis
+Zone:8,65+,0,2004,Trichinosis
 Chachoengsao,65+,0,2004,Trichinosis
 Nakhon Nayok,65+,0,2004,Trichinosis
 Prachin Buri,65+,0,2004,Trichinosis
 Sa Kaeo,65+,0,2004,Trichinosis
 Samut Prakan,65+,0,2004,Trichinosis
-Zone 9,65+,0,2004,Trichinosis
+Zone:9,65+,0,2004,Trichinosis
 Chanthaburi,65+,0,2004,Trichinosis
 Chon Buri,65+,0,2004,Trichinosis
 Rayong,65+,0,2004,Trichinosis
 Trat,65+,0,2004,Trichinosis
 North-Eastern Region,65+,10,2004,Trichinosis
-Zone 10,65+,7,2004,Trichinosis
+Zone:10,65+,7,2004,Trichinosis
 Loei,65+,0,2004,Trichinosis
 Nong Bua Lam Phu,65+,6,2004,Trichinosis
 Nong Khai,65+,1,2004,Trichinosis
 Udon Thani,65+,0,2004,Trichinosis
-Zone 11,65+,0,2004,Trichinosis
+Zone:11,65+,0,2004,Trichinosis
 Kalasin,65+,0,2004,Trichinosis
 Mukdahan,65+,0,2004,Trichinosis
 Nakhon Phanom,65+,0,2004,Trichinosis
 Sakon Nakhon,65+,0,2004,Trichinosis
-Zone 12,65+,3,2004,Trichinosis
+Zone:12,65+,3,2004,Trichinosis
 Khon Kaen,65+,3,2004,Trichinosis
 Maha Sarakham,65+,0,2004,Trichinosis
 Roi Et,65+,0,2004,Trichinosis
-Zone 13,65+,0,2004,Trichinosis
+Zone:13,65+,0,2004,Trichinosis
 Buri Ram,65+,0,2004,Trichinosis
 Chaiyaphum,65+,0,2004,Trichinosis
 Nakhon Ratchasima,65+,0,2004,Trichinosis
 Surin,65+,0,2004,Trichinosis
-Zone 14,65+,0,2004,Trichinosis
+Zone:14,65+,0,2004,Trichinosis
 Amnat Charoen,65+,0,2004,Trichinosis
 Si Sa Ket,65+,0,2004,Trichinosis
 Ubon Ratchathani,65+,0,2004,Trichinosis
 Yasothon,65+,0,2004,Trichinosis
 South Region,65+,0,2004,Trichinosis
-Zone 15,65+,0,2004,Trichinosis
+Zone:15,65+,0,2004,Trichinosis
 Chumphon,65+,0,2004,Trichinosis
 Ranong,65+,0,2004,Trichinosis
 Surat Thani,65+,0,2004,Trichinosis
-Zone 16,65+,0,2004,Trichinosis
+Zone:16,65+,0,2004,Trichinosis
 Nakhon Si Thammarat,65+,0,2004,Trichinosis
 Phatthalung,65+,0,2004,Trichinosis
 Trang,65+,0,2004,Trichinosis
-Zone 17,65+,0,2004,Trichinosis
+Zone:17,65+,0,2004,Trichinosis
 Krabi,65+,0,2004,Trichinosis
 Phangnga,65+,0,2004,Trichinosis
 Phuket,65+,0,2004,Trichinosis
-Zone 18,65+,0,2004,Trichinosis
+Zone:18,65+,0,2004,Trichinosis
 Narathiwat,65+,0,2004,Trichinosis
 Pattani,65+,0,2004,Trichinosis
 Yala,65+,0,2004,Trichinosis
-Zone 19,65+,0,2004,Trichinosis
+Zone:19,65+,0,2004,Trichinosis
 Satun,65+,0,2004,Trichinosis
 Songkhla,65+,0,2004,Trichinosis
 Total,Unknown,0,2004,Trichinosis
 North Region,Unknown,0,2004,Trichinosis
-Zone 1,Unknown,0,2004,Trichinosis
+Zone:1,Unknown,0,2004,Trichinosis
 Chiang Mai,Unknown,0,2004,Trichinosis
 Chiang Rai,Unknown,0,2004,Trichinosis
 Lampang,Unknown,0,2004,Trichinosis
@@ -8910,93 +8910,93 @@ Mae Hong Son,Unknown,0,2004,Trichinosis
 Nan,Unknown,0,2004,Trichinosis
 Phayao,Unknown,0,2004,Trichinosis
 Phrae,Unknown,0,2004,Trichinosis
-Zone 2,Unknown,0,2004,Trichinosis
+Zone:2,Unknown,0,2004,Trichinosis
 Phetchabun,Unknown,0,2004,Trichinosis
 Phitsanulok,Unknown,0,2004,Trichinosis
 Sukhothai,Unknown,0,2004,Trichinosis
 Tak,Unknown,0,2004,Trichinosis
 Uttaradit,Unknown,0,2004,Trichinosis
-Zone 3,Unknown,0,2004,Trichinosis
+Zone:3,Unknown,0,2004,Trichinosis
 Kamphaeng Phet,Unknown,0,2004,Trichinosis
 Nakhon Sawan,Unknown,0,2004,Trichinosis
 Phichit,Unknown,0,2004,Trichinosis
 Uthai Thani,Unknown,0,2004,Trichinosis
 Central Region,Unknown,0,2004,Trichinosis
 Bangkok,Unknown,0,2004,Trichinosis
-Zone 4,Unknown,0,2004,Trichinosis
+Zone:4,Unknown,0,2004,Trichinosis
 Ang Thong,Unknown,0,2004,Trichinosis
 Nonthaburi,Unknown,0,2004,Trichinosis
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Trichinosis
 Pathum Thani,Unknown,0,2004,Trichinosis
-Zone 5,Unknown,0,2004,Trichinosis
+Zone:5,Unknown,0,2004,Trichinosis
 Chai Nat,Unknown,0,2004,Trichinosis
 Lop Buri,Unknown,0,2004,Trichinosis
 Saraburi,Unknown,0,2004,Trichinosis
 Sing Buri,Unknown,0,2004,Trichinosis
-Zone 6,Unknown,0,2004,Trichinosis
+Zone:6,Unknown,0,2004,Trichinosis
 Kanchanaburi,Unknown,0,2004,Trichinosis
 Nakhon Pathom,Unknown,0,2004,Trichinosis
 Ratchaburi,Unknown,0,2004,Trichinosis
 Suphan Buri,Unknown,0,2004,Trichinosis
-Zone 7,Unknown,0,2004,Trichinosis
+Zone:7,Unknown,0,2004,Trichinosis
 Phetchaburi,Unknown,0,2004,Trichinosis
 Prachuap Khiri Khan,Unknown,0,2004,Trichinosis
 Samut Sakhon,Unknown,0,2004,Trichinosis
 Samut Songkhram,Unknown,0,2004,Trichinosis
-Zone 8,Unknown,0,2004,Trichinosis
+Zone:8,Unknown,0,2004,Trichinosis
 Chachoengsao,Unknown,0,2004,Trichinosis
 Nakhon Nayok,Unknown,0,2004,Trichinosis
 Prachin Buri,Unknown,0,2004,Trichinosis
 Sa Kaeo,Unknown,0,2004,Trichinosis
 Samut Prakan,Unknown,0,2004,Trichinosis
-Zone 9,Unknown,0,2004,Trichinosis
+Zone:9,Unknown,0,2004,Trichinosis
 Chanthaburi,Unknown,0,2004,Trichinosis
 Chon Buri,Unknown,0,2004,Trichinosis
 Rayong,Unknown,0,2004,Trichinosis
 Trat,Unknown,0,2004,Trichinosis
 North-Eastern Region,Unknown,0,2004,Trichinosis
-Zone 10,Unknown,0,2004,Trichinosis
+Zone:10,Unknown,0,2004,Trichinosis
 Loei,Unknown,0,2004,Trichinosis
 Nong Bua Lam Phu,Unknown,0,2004,Trichinosis
 Nong Khai,Unknown,0,2004,Trichinosis
 Udon Thani,Unknown,0,2004,Trichinosis
-Zone 11,Unknown,0,2004,Trichinosis
+Zone:11,Unknown,0,2004,Trichinosis
 Kalasin,Unknown,0,2004,Trichinosis
 Mukdahan,Unknown,0,2004,Trichinosis
 Nakhon Phanom,Unknown,0,2004,Trichinosis
 Sakon Nakhon,Unknown,0,2004,Trichinosis
-Zone 12,Unknown,0,2004,Trichinosis
+Zone:12,Unknown,0,2004,Trichinosis
 Khon Kaen,Unknown,0,2004,Trichinosis
 Maha Sarakham,Unknown,0,2004,Trichinosis
 Roi Et,Unknown,0,2004,Trichinosis
-Zone 13,Unknown,0,2004,Trichinosis
+Zone:13,Unknown,0,2004,Trichinosis
 Buri Ram,Unknown,0,2004,Trichinosis
 Chaiyaphum,Unknown,0,2004,Trichinosis
 Nakhon Ratchasima,Unknown,0,2004,Trichinosis
 Surin,Unknown,0,2004,Trichinosis
-Zone 14,Unknown,0,2004,Trichinosis
+Zone:14,Unknown,0,2004,Trichinosis
 Amnat Charoen,Unknown,0,2004,Trichinosis
 Si Sa Ket,Unknown,0,2004,Trichinosis
 Ubon Ratchathani,Unknown,0,2004,Trichinosis
 Yasothon,Unknown,0,2004,Trichinosis
 South Region,Unknown,0,2004,Trichinosis
-Zone 15,Unknown,0,2004,Trichinosis
+Zone:15,Unknown,0,2004,Trichinosis
 Chumphon,Unknown,0,2004,Trichinosis
 Ranong,Unknown,0,2004,Trichinosis
 Surat Thani,Unknown,0,2004,Trichinosis
-Zone 16,Unknown,0,2004,Trichinosis
+Zone:16,Unknown,0,2004,Trichinosis
 Nakhon Si Thammarat,Unknown,0,2004,Trichinosis
 Phatthalung,Unknown,0,2004,Trichinosis
 Trang,Unknown,0,2004,Trichinosis
-Zone 17,Unknown,0,2004,Trichinosis
+Zone:17,Unknown,0,2004,Trichinosis
 Krabi,Unknown,0,2004,Trichinosis
 Phangnga,Unknown,0,2004,Trichinosis
 Phuket,Unknown,0,2004,Trichinosis
-Zone 18,Unknown,0,2004,Trichinosis
+Zone:18,Unknown,0,2004,Trichinosis
 Narathiwat,Unknown,0,2004,Trichinosis
 Pattani,Unknown,0,2004,Trichinosis
 Yala,Unknown,0,2004,Trichinosis
-Zone 19,Unknown,0,2004,Trichinosis
+Zone:19,Unknown,0,2004,Trichinosis
 Satun,Unknown,0,2004,Trichinosis
 Songkhla,Unknown,0,2004,Trichinosis
 Total,Total,17,2019,Trichinosis

@@ -27685,7 +27685,7 @@ ZONE:13,Unknown,0,2020,Typhoid
 Bangkok,Unknown,0,2020,Typhoid
 Total,Total,5051,2004,Typhoid
 North Region,Total,2294,2004,Typhoid
-Zone 1,Total,2097,2004,Typhoid
+Zone:1,Total,2097,2004,Typhoid
 Chiang Mai,Total,617,2004,Typhoid
 Chiang Rai,Total,873,2004,Typhoid
 Lampang,Total,45,2004,Typhoid
@@ -27694,98 +27694,98 @@ Mae Hong Son,Total,155,2004,Typhoid
 Nan,Total,47,2004,Typhoid
 Phayao,Total,93,2004,Typhoid
 Phrae,Total,81,2004,Typhoid
-Zone 2,Total,149,2004,Typhoid
+Zone:2,Total,149,2004,Typhoid
 Phetchabun,Total,21,2004,Typhoid
 Phitsanulok,Total,4,2004,Typhoid
 Sukhothai,Total,14,2004,Typhoid
 Tak,Total,80,2004,Typhoid
 Uttaradit,Total,30,2004,Typhoid
-Zone 3,Total,48,2004,Typhoid
+Zone:3,Total,48,2004,Typhoid
 Kamphaeng Phet,Total,17,2004,Typhoid
 Nakhon Sawan,Total,20,2004,Typhoid
 Phichit,Total,10,2004,Typhoid
 Uthai Thani,Total,1,2004,Typhoid
 Central Region,Total,345,2004,Typhoid
 Bangkok,Total,56,2004,Typhoid
-Zone 4,Total,21,2004,Typhoid
+Zone:4,Total,21,2004,Typhoid
 Ang Thong,Total,11,2004,Typhoid
 Nonthaburi,Total,5,2004,Typhoid
 P.Nakhon S.Ayutthaya,Total,3,2004,Typhoid
 Pathum Thani,Total,2,2004,Typhoid
-Zone 5,Total,17,2004,Typhoid
+Zone:5,Total,17,2004,Typhoid
 Chai Nat,Total,9,2004,Typhoid
 Lop Buri,Total,4,2004,Typhoid
 Saraburi,Total,0,2004,Typhoid
 Sing Buri,Total,4,2004,Typhoid
-Zone 6,Total,39,2004,Typhoid
+Zone:6,Total,39,2004,Typhoid
 Kanchanaburi,Total,22,2004,Typhoid
 Nakhon Pathom,Total,3,2004,Typhoid
 Ratchaburi,Total,9,2004,Typhoid
 Suphan Buri,Total,5,2004,Typhoid
-Zone 7,Total,56,2004,Typhoid
+Zone:7,Total,56,2004,Typhoid
 Phetchaburi,Total,32,2004,Typhoid
 Prachuap Khiri Khan,Total,15,2004,Typhoid
 Samut Sakhon,Total,6,2004,Typhoid
 Samut Songkhram,Total,3,2004,Typhoid
-Zone 8,Total,70,2004,Typhoid
+Zone:8,Total,70,2004,Typhoid
 Chachoengsao,Total,21,2004,Typhoid
 Nakhon Nayok,Total,9,2004,Typhoid
 Prachin Buri,Total,3,2004,Typhoid
 Sa Kaeo,Total,36,2004,Typhoid
 Samut Prakan,Total,1,2004,Typhoid
-Zone 9,Total,86,2004,Typhoid
+Zone:9,Total,86,2004,Typhoid
 Chanthaburi,Total,15,2004,Typhoid
 Chon Buri,Total,9,2004,Typhoid
 Rayong,Total,27,2004,Typhoid
 Trat,Total,35,2004,Typhoid
 North-Eastern Region,Total,987,2004,Typhoid
-Zone 10,Total,112,2004,Typhoid
+Zone:10,Total,112,2004,Typhoid
 Loei,Total,7,2004,Typhoid
 Nong Bua Lam Phu,Total,4,2004,Typhoid
 Nong Khai,Total,9,2004,Typhoid
 Udon Thani,Total,92,2004,Typhoid
-Zone 11,Total,331,2004,Typhoid
+Zone:11,Total,331,2004,Typhoid
 Kalasin,Total,37,2004,Typhoid
 Mukdahan,Total,7,2004,Typhoid
 Nakhon Phanom,Total,115,2004,Typhoid
 Sakon Nakhon,Total,172,2004,Typhoid
-Zone 12,Total,66,2004,Typhoid
+Zone:12,Total,66,2004,Typhoid
 Khon Kaen,Total,14,2004,Typhoid
 Maha Sarakham,Total,2,2004,Typhoid
 Roi Et,Total,50,2004,Typhoid
-Zone 13,Total,439,2004,Typhoid
+Zone:13,Total,439,2004,Typhoid
 Buri Ram,Total,225,2004,Typhoid
 Chaiyaphum,Total,38,2004,Typhoid
 Nakhon Ratchasima,Total,24,2004,Typhoid
 Surin,Total,152,2004,Typhoid
-Zone 14,Total,39,2004,Typhoid
+Zone:14,Total,39,2004,Typhoid
 Amnat Charoen,Total,3,2004,Typhoid
 Si Sa Ket,Total,24,2004,Typhoid
 Ubon Ratchathani,Total,0,2004,Typhoid
 Yasothon,Total,12,2004,Typhoid
 South Region,Total,1425,2004,Typhoid
-Zone 15,Total,66,2004,Typhoid
+Zone:15,Total,66,2004,Typhoid
 Chumphon,Total,10,2004,Typhoid
 Ranong,Total,20,2004,Typhoid
 Surat Thani,Total,36,2004,Typhoid
-Zone 16,Total,509,2004,Typhoid
+Zone:16,Total,509,2004,Typhoid
 Nakhon Si Thammarat,Total,468,2004,Typhoid
 Phatthalung,Total,30,2004,Typhoid
 Trang,Total,11,2004,Typhoid
-Zone 17,Total,182,2004,Typhoid
+Zone:17,Total,182,2004,Typhoid
 Krabi,Total,56,2004,Typhoid
 Phangnga,Total,122,2004,Typhoid
 Phuket,Total,4,2004,Typhoid
-Zone 18,Total,610,2004,Typhoid
+Zone:18,Total,610,2004,Typhoid
 Narathiwat,Total,222,2004,Typhoid
 Pattani,Total,50,2004,Typhoid
 Yala,Total,338,2004,Typhoid
-Zone 19,Total,58,2004,Typhoid
+Zone:19,Total,58,2004,Typhoid
 Satun,Total,33,2004,Typhoid
 Songkhla,Total,25,2004,Typhoid
 Total,0,1,2004,Typhoid
 North Region,0,0,2004,Typhoid
-Zone 1,0,0,2004,Typhoid
+Zone:1,0,0,2004,Typhoid
 Chiang Mai,0,0,2004,Typhoid
 Chiang Rai,0,0,2004,Typhoid
 Lampang,0,0,2004,Typhoid
@@ -27794,98 +27794,98 @@ Mae Hong Son,0,0,2004,Typhoid
 Nan,0,0,2004,Typhoid
 Phayao,0,0,2004,Typhoid
 Phrae,0,0,2004,Typhoid
-Zone 2,0,0,2004,Typhoid
+Zone:2,0,0,2004,Typhoid
 Phetchabun,0,0,2004,Typhoid
 Phitsanulok,0,0,2004,Typhoid
 Sukhothai,0,0,2004,Typhoid
 Tak,0,0,2004,Typhoid
 Uttaradit,0,0,2004,Typhoid
-Zone 3,0,0,2004,Typhoid
+Zone:3,0,0,2004,Typhoid
 Kamphaeng Phet,0,0,2004,Typhoid
 Nakhon Sawan,0,0,2004,Typhoid
 Phichit,0,0,2004,Typhoid
 Uthai Thani,0,0,2004,Typhoid
 Central Region,0,0,2004,Typhoid
 Bangkok,0,0,2004,Typhoid
-Zone 4,0,0,2004,Typhoid
+Zone:4,0,0,2004,Typhoid
 Ang Thong,0,0,2004,Typhoid
 Nonthaburi,0,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,0,0,2004,Typhoid
 Pathum Thani,0,0,2004,Typhoid
-Zone 5,0,0,2004,Typhoid
+Zone:5,0,0,2004,Typhoid
 Chai Nat,0,0,2004,Typhoid
 Lop Buri,0,0,2004,Typhoid
 Saraburi,0,0,2004,Typhoid
 Sing Buri,0,0,2004,Typhoid
-Zone 6,0,0,2004,Typhoid
+Zone:6,0,0,2004,Typhoid
 Kanchanaburi,0,0,2004,Typhoid
 Nakhon Pathom,0,0,2004,Typhoid
 Ratchaburi,0,0,2004,Typhoid
 Suphan Buri,0,0,2004,Typhoid
-Zone 7,0,0,2004,Typhoid
+Zone:7,0,0,2004,Typhoid
 Phetchaburi,0,0,2004,Typhoid
 Prachuap Khiri Khan,0,0,2004,Typhoid
 Samut Sakhon,0,0,2004,Typhoid
 Samut Songkhram,0,0,2004,Typhoid
-Zone 8,0,0,2004,Typhoid
+Zone:8,0,0,2004,Typhoid
 Chachoengsao,0,0,2004,Typhoid
 Nakhon Nayok,0,0,2004,Typhoid
 Prachin Buri,0,0,2004,Typhoid
 Sa Kaeo,0,0,2004,Typhoid
 Samut Prakan,0,0,2004,Typhoid
-Zone 9,0,0,2004,Typhoid
+Zone:9,0,0,2004,Typhoid
 Chanthaburi,0,0,2004,Typhoid
 Chon Buri,0,0,2004,Typhoid
 Rayong,0,0,2004,Typhoid
 Trat,0,0,2004,Typhoid
 North-Eastern Region,0,1,2004,Typhoid
-Zone 10,0,0,2004,Typhoid
+Zone:10,0,0,2004,Typhoid
 Loei,0,0,2004,Typhoid
 Nong Bua Lam Phu,0,0,2004,Typhoid
 Nong Khai,0,0,2004,Typhoid
 Udon Thani,0,0,2004,Typhoid
-Zone 11,0,0,2004,Typhoid
+Zone:11,0,0,2004,Typhoid
 Kalasin,0,0,2004,Typhoid
 Mukdahan,0,0,2004,Typhoid
 Nakhon Phanom,0,0,2004,Typhoid
 Sakon Nakhon,0,0,2004,Typhoid
-Zone 12,0,0,2004,Typhoid
+Zone:12,0,0,2004,Typhoid
 Khon Kaen,0,0,2004,Typhoid
 Maha Sarakham,0,0,2004,Typhoid
 Roi Et,0,0,2004,Typhoid
-Zone 13,0,1,2004,Typhoid
+Zone:13,0,1,2004,Typhoid
 Buri Ram,0,0,2004,Typhoid
 Chaiyaphum,0,0,2004,Typhoid
 Nakhon Ratchasima,0,0,2004,Typhoid
 Surin,0,1,2004,Typhoid
-Zone 14,0,0,2004,Typhoid
+Zone:14,0,0,2004,Typhoid
 Amnat Charoen,0,0,2004,Typhoid
 Si Sa Ket,0,0,2004,Typhoid
 Ubon Ratchathani,0,0,2004,Typhoid
 Yasothon,0,0,2004,Typhoid
 South Region,0,0,2004,Typhoid
-Zone 15,0,0,2004,Typhoid
+Zone:15,0,0,2004,Typhoid
 Chumphon,0,0,2004,Typhoid
 Ranong,0,0,2004,Typhoid
 Surat Thani,0,0,2004,Typhoid
-Zone 16,0,0,2004,Typhoid
+Zone:16,0,0,2004,Typhoid
 Nakhon Si Thammarat,0,0,2004,Typhoid
 Phatthalung,0,0,2004,Typhoid
 Trang,0,0,2004,Typhoid
-Zone 17,0,0,2004,Typhoid
+Zone:17,0,0,2004,Typhoid
 Krabi,0,0,2004,Typhoid
 Phangnga,0,0,2004,Typhoid
 Phuket,0,0,2004,Typhoid
-Zone 18,0,0,2004,Typhoid
+Zone:18,0,0,2004,Typhoid
 Narathiwat,0,0,2004,Typhoid
 Pattani,0,0,2004,Typhoid
 Yala,0,0,2004,Typhoid
-Zone 19,0,0,2004,Typhoid
+Zone:19,0,0,2004,Typhoid
 Satun,0,0,2004,Typhoid
 Songkhla,0,0,2004,Typhoid
 Total,<1,37,2004,Typhoid
 North Region,<1,8,2004,Typhoid
-Zone 1,<1,6,2004,Typhoid
+Zone:1,<1,6,2004,Typhoid
 Chiang Mai,<1,1,2004,Typhoid
 Chiang Rai,<1,4,2004,Typhoid
 Lampang,<1,0,2004,Typhoid
@@ -27894,98 +27894,98 @@ Mae Hong Son,<1,1,2004,Typhoid
 Nan,<1,0,2004,Typhoid
 Phayao,<1,0,2004,Typhoid
 Phrae,<1,0,2004,Typhoid
-Zone 2,<1,2,2004,Typhoid
+Zone:2,<1,2,2004,Typhoid
 Phetchabun,<1,0,2004,Typhoid
 Phitsanulok,<1,0,2004,Typhoid
 Sukhothai,<1,0,2004,Typhoid
 Tak,<1,1,2004,Typhoid
 Uttaradit,<1,1,2004,Typhoid
-Zone 3,<1,0,2004,Typhoid
+Zone:3,<1,0,2004,Typhoid
 Kamphaeng Phet,<1,0,2004,Typhoid
 Nakhon Sawan,<1,0,2004,Typhoid
 Phichit,<1,0,2004,Typhoid
 Uthai Thani,<1,0,2004,Typhoid
 Central Region,<1,6,2004,Typhoid
 Bangkok,<1,4,2004,Typhoid
-Zone 4,<1,2,2004,Typhoid
+Zone:4,<1,2,2004,Typhoid
 Ang Thong,<1,0,2004,Typhoid
 Nonthaburi,<1,1,2004,Typhoid
 P.Nakhon S.Ayutthaya,<1,1,2004,Typhoid
 Pathum Thani,<1,0,2004,Typhoid
-Zone 5,<1,0,2004,Typhoid
+Zone:5,<1,0,2004,Typhoid
 Chai Nat,<1,0,2004,Typhoid
 Lop Buri,<1,0,2004,Typhoid
 Saraburi,<1,0,2004,Typhoid
 Sing Buri,<1,0,2004,Typhoid
-Zone 6,<1,0,2004,Typhoid
+Zone:6,<1,0,2004,Typhoid
 Kanchanaburi,<1,0,2004,Typhoid
 Nakhon Pathom,<1,0,2004,Typhoid
 Ratchaburi,<1,0,2004,Typhoid
 Suphan Buri,<1,0,2004,Typhoid
-Zone 7,<1,0,2004,Typhoid
+Zone:7,<1,0,2004,Typhoid
 Phetchaburi,<1,0,2004,Typhoid
 Prachuap Khiri Khan,<1,0,2004,Typhoid
 Samut Sakhon,<1,0,2004,Typhoid
 Samut Songkhram,<1,0,2004,Typhoid
-Zone 8,<1,0,2004,Typhoid
+Zone:8,<1,0,2004,Typhoid
 Chachoengsao,<1,0,2004,Typhoid
 Nakhon Nayok,<1,0,2004,Typhoid
 Prachin Buri,<1,0,2004,Typhoid
 Sa Kaeo,<1,0,2004,Typhoid
 Samut Prakan,<1,0,2004,Typhoid
-Zone 9,<1,0,2004,Typhoid
+Zone:9,<1,0,2004,Typhoid
 Chanthaburi,<1,0,2004,Typhoid
 Chon Buri,<1,0,2004,Typhoid
 Rayong,<1,0,2004,Typhoid
 Trat,<1,0,2004,Typhoid
 North-Eastern Region,<1,6,2004,Typhoid
-Zone 10,<1,0,2004,Typhoid
+Zone:10,<1,0,2004,Typhoid
 Loei,<1,0,2004,Typhoid
 Nong Bua Lam Phu,<1,0,2004,Typhoid
 Nong Khai,<1,0,2004,Typhoid
 Udon Thani,<1,0,2004,Typhoid
-Zone 11,<1,0,2004,Typhoid
+Zone:11,<1,0,2004,Typhoid
 Kalasin,<1,0,2004,Typhoid
 Mukdahan,<1,0,2004,Typhoid
 Nakhon Phanom,<1,0,2004,Typhoid
 Sakon Nakhon,<1,0,2004,Typhoid
-Zone 12,<1,0,2004,Typhoid
+Zone:12,<1,0,2004,Typhoid
 Khon Kaen,<1,0,2004,Typhoid
 Maha Sarakham,<1,0,2004,Typhoid
 Roi Et,<1,0,2004,Typhoid
-Zone 13,<1,6,2004,Typhoid
+Zone:13,<1,6,2004,Typhoid
 Buri Ram,<1,5,2004,Typhoid
 Chaiyaphum,<1,1,2004,Typhoid
 Nakhon Ratchasima,<1,0,2004,Typhoid
 Surin,<1,0,2004,Typhoid
-Zone 14,<1,0,2004,Typhoid
+Zone:14,<1,0,2004,Typhoid
 Amnat Charoen,<1,0,2004,Typhoid
 Si Sa Ket,<1,0,2004,Typhoid
 Ubon Ratchathani,<1,0,2004,Typhoid
 Yasothon,<1,0,2004,Typhoid
 South Region,<1,17,2004,Typhoid
-Zone 15,<1,4,2004,Typhoid
+Zone:15,<1,4,2004,Typhoid
 Chumphon,<1,1,2004,Typhoid
 Ranong,<1,0,2004,Typhoid
 Surat Thani,<1,3,2004,Typhoid
-Zone 16,<1,10,2004,Typhoid
+Zone:16,<1,10,2004,Typhoid
 Nakhon Si Thammarat,<1,10,2004,Typhoid
 Phatthalung,<1,0,2004,Typhoid
 Trang,<1,0,2004,Typhoid
-Zone 17,<1,1,2004,Typhoid
+Zone:17,<1,1,2004,Typhoid
 Krabi,<1,0,2004,Typhoid
 Phangnga,<1,1,2004,Typhoid
 Phuket,<1,0,2004,Typhoid
-Zone 18,<1,2,2004,Typhoid
+Zone:18,<1,2,2004,Typhoid
 Narathiwat,<1,0,2004,Typhoid
 Pattani,<1,0,2004,Typhoid
 Yala,<1,2,2004,Typhoid
-Zone 19,<1,0,2004,Typhoid
+Zone:19,<1,0,2004,Typhoid
 Satun,<1,0,2004,Typhoid
 Songkhla,<1,0,2004,Typhoid
 Total,1-1,95,2004,Typhoid
 North Region,1-1,20,2004,Typhoid
-Zone 1,1-1,13,2004,Typhoid
+Zone:1,1-1,13,2004,Typhoid
 Chiang Mai,1-1,3,2004,Typhoid
 Chiang Rai,1-1,7,2004,Typhoid
 Lampang,1-1,0,2004,Typhoid
@@ -27994,98 +27994,98 @@ Mae Hong Son,1-1,2,2004,Typhoid
 Nan,1-1,0,2004,Typhoid
 Phayao,1-1,0,2004,Typhoid
 Phrae,1-1,1,2004,Typhoid
-Zone 2,1-1,4,2004,Typhoid
+Zone:2,1-1,4,2004,Typhoid
 Phetchabun,1-1,0,2004,Typhoid
 Phitsanulok,1-1,0,2004,Typhoid
 Sukhothai,1-1,0,2004,Typhoid
 Tak,1-1,3,2004,Typhoid
 Uttaradit,1-1,1,2004,Typhoid
-Zone 3,1-1,3,2004,Typhoid
+Zone:3,1-1,3,2004,Typhoid
 Kamphaeng Phet,1-1,1,2004,Typhoid
 Nakhon Sawan,1-1,2,2004,Typhoid
 Phichit,1-1,0,2004,Typhoid
 Uthai Thani,1-1,0,2004,Typhoid
 Central Region,1-1,11,2004,Typhoid
 Bangkok,1-1,7,2004,Typhoid
-Zone 4,1-1,0,2004,Typhoid
+Zone:4,1-1,0,2004,Typhoid
 Ang Thong,1-1,0,2004,Typhoid
 Nonthaburi,1-1,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,1-1,0,2004,Typhoid
 Pathum Thani,1-1,0,2004,Typhoid
-Zone 5,1-1,0,2004,Typhoid
+Zone:5,1-1,0,2004,Typhoid
 Chai Nat,1-1,0,2004,Typhoid
 Lop Buri,1-1,0,2004,Typhoid
 Saraburi,1-1,0,2004,Typhoid
 Sing Buri,1-1,0,2004,Typhoid
-Zone 6,1-1,2,2004,Typhoid
+Zone:6,1-1,2,2004,Typhoid
 Kanchanaburi,1-1,2,2004,Typhoid
 Nakhon Pathom,1-1,0,2004,Typhoid
 Ratchaburi,1-1,0,2004,Typhoid
 Suphan Buri,1-1,0,2004,Typhoid
-Zone 7,1-1,1,2004,Typhoid
+Zone:7,1-1,1,2004,Typhoid
 Phetchaburi,1-1,1,2004,Typhoid
 Prachuap Khiri Khan,1-1,0,2004,Typhoid
 Samut Sakhon,1-1,0,2004,Typhoid
 Samut Songkhram,1-1,0,2004,Typhoid
-Zone 8,1-1,0,2004,Typhoid
+Zone:8,1-1,0,2004,Typhoid
 Chachoengsao,1-1,0,2004,Typhoid
 Nakhon Nayok,1-1,0,2004,Typhoid
 Prachin Buri,1-1,0,2004,Typhoid
 Sa Kaeo,1-1,0,2004,Typhoid
 Samut Prakan,1-1,0,2004,Typhoid
-Zone 9,1-1,1,2004,Typhoid
+Zone:9,1-1,1,2004,Typhoid
 Chanthaburi,1-1,0,2004,Typhoid
 Chon Buri,1-1,0,2004,Typhoid
 Rayong,1-1,0,2004,Typhoid
 Trat,1-1,1,2004,Typhoid
 North-Eastern Region,1-1,18,2004,Typhoid
-Zone 10,1-1,0,2004,Typhoid
+Zone:10,1-1,0,2004,Typhoid
 Loei,1-1,0,2004,Typhoid
 Nong Bua Lam Phu,1-1,0,2004,Typhoid
 Nong Khai,1-1,0,2004,Typhoid
 Udon Thani,1-1,0,2004,Typhoid
-Zone 11,1-1,1,2004,Typhoid
+Zone:11,1-1,1,2004,Typhoid
 Kalasin,1-1,0,2004,Typhoid
 Mukdahan,1-1,0,2004,Typhoid
 Nakhon Phanom,1-1,1,2004,Typhoid
 Sakon Nakhon,1-1,0,2004,Typhoid
-Zone 12,1-1,2,2004,Typhoid
+Zone:12,1-1,2,2004,Typhoid
 Khon Kaen,1-1,2,2004,Typhoid
 Maha Sarakham,1-1,0,2004,Typhoid
 Roi Et,1-1,0,2004,Typhoid
-Zone 13,1-1,15,2004,Typhoid
+Zone:13,1-1,15,2004,Typhoid
 Buri Ram,1-1,12,2004,Typhoid
 Chaiyaphum,1-1,1,2004,Typhoid
 Nakhon Ratchasima,1-1,0,2004,Typhoid
 Surin,1-1,2,2004,Typhoid
-Zone 14,1-1,0,2004,Typhoid
+Zone:14,1-1,0,2004,Typhoid
 Amnat Charoen,1-1,0,2004,Typhoid
 Si Sa Ket,1-1,0,2004,Typhoid
 Ubon Ratchathani,1-1,0,2004,Typhoid
 Yasothon,1-1,0,2004,Typhoid
 South Region,1-1,46,2004,Typhoid
-Zone 15,1-1,1,2004,Typhoid
+Zone:15,1-1,1,2004,Typhoid
 Chumphon,1-1,0,2004,Typhoid
 Ranong,1-1,0,2004,Typhoid
 Surat Thani,1-1,1,2004,Typhoid
-Zone 16,1-1,36,2004,Typhoid
+Zone:16,1-1,36,2004,Typhoid
 Nakhon Si Thammarat,1-1,36,2004,Typhoid
 Phatthalung,1-1,0,2004,Typhoid
 Trang,1-1,0,2004,Typhoid
-Zone 17,1-1,1,2004,Typhoid
+Zone:17,1-1,1,2004,Typhoid
 Krabi,1-1,0,2004,Typhoid
 Phangnga,1-1,1,2004,Typhoid
 Phuket,1-1,0,2004,Typhoid
-Zone 18,1-1,5,2004,Typhoid
+Zone:18,1-1,5,2004,Typhoid
 Narathiwat,1-1,0,2004,Typhoid
 Pattani,1-1,0,2004,Typhoid
 Yala,1-1,5,2004,Typhoid
-Zone 19,1-1,3,2004,Typhoid
+Zone:19,1-1,3,2004,Typhoid
 Satun,1-1,1,2004,Typhoid
 Songkhla,1-1,2,2004,Typhoid
 Total,2-2,88,2004,Typhoid
 North Region,2-2,28,2004,Typhoid
-Zone 1,2-2,18,2004,Typhoid
+Zone:1,2-2,18,2004,Typhoid
 Chiang Mai,2-2,5,2004,Typhoid
 Chiang Rai,2-2,7,2004,Typhoid
 Lampang,2-2,1,2004,Typhoid
@@ -28094,98 +28094,98 @@ Mae Hong Son,2-2,0,2004,Typhoid
 Nan,2-2,1,2004,Typhoid
 Phayao,2-2,1,2004,Typhoid
 Phrae,2-2,0,2004,Typhoid
-Zone 2,2-2,8,2004,Typhoid
+Zone:2,2-2,8,2004,Typhoid
 Phetchabun,2-2,0,2004,Typhoid
 Phitsanulok,2-2,0,2004,Typhoid
 Sukhothai,2-2,0,2004,Typhoid
 Tak,2-2,7,2004,Typhoid
 Uttaradit,2-2,1,2004,Typhoid
-Zone 3,2-2,2,2004,Typhoid
+Zone:3,2-2,2,2004,Typhoid
 Kamphaeng Phet,2-2,1,2004,Typhoid
 Nakhon Sawan,2-2,1,2004,Typhoid
 Phichit,2-2,0,2004,Typhoid
 Uthai Thani,2-2,0,2004,Typhoid
 Central Region,2-2,9,2004,Typhoid
 Bangkok,2-2,3,2004,Typhoid
-Zone 4,2-2,1,2004,Typhoid
+Zone:4,2-2,1,2004,Typhoid
 Ang Thong,2-2,1,2004,Typhoid
 Nonthaburi,2-2,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,2-2,0,2004,Typhoid
 Pathum Thani,2-2,0,2004,Typhoid
-Zone 5,2-2,0,2004,Typhoid
+Zone:5,2-2,0,2004,Typhoid
 Chai Nat,2-2,0,2004,Typhoid
 Lop Buri,2-2,0,2004,Typhoid
 Saraburi,2-2,0,2004,Typhoid
 Sing Buri,2-2,0,2004,Typhoid
-Zone 6,2-2,2,2004,Typhoid
+Zone:6,2-2,2,2004,Typhoid
 Kanchanaburi,2-2,2,2004,Typhoid
 Nakhon Pathom,2-2,0,2004,Typhoid
 Ratchaburi,2-2,0,2004,Typhoid
 Suphan Buri,2-2,0,2004,Typhoid
-Zone 7,2-2,2,2004,Typhoid
+Zone:7,2-2,2,2004,Typhoid
 Phetchaburi,2-2,2,2004,Typhoid
 Prachuap Khiri Khan,2-2,0,2004,Typhoid
 Samut Sakhon,2-2,0,2004,Typhoid
 Samut Songkhram,2-2,0,2004,Typhoid
-Zone 8,2-2,0,2004,Typhoid
+Zone:8,2-2,0,2004,Typhoid
 Chachoengsao,2-2,0,2004,Typhoid
 Nakhon Nayok,2-2,0,2004,Typhoid
 Prachin Buri,2-2,0,2004,Typhoid
 Sa Kaeo,2-2,0,2004,Typhoid
 Samut Prakan,2-2,0,2004,Typhoid
-Zone 9,2-2,1,2004,Typhoid
+Zone:9,2-2,1,2004,Typhoid
 Chanthaburi,2-2,0,2004,Typhoid
 Chon Buri,2-2,0,2004,Typhoid
 Rayong,2-2,1,2004,Typhoid
 Trat,2-2,0,2004,Typhoid
 North-Eastern Region,2-2,10,2004,Typhoid
-Zone 10,2-2,1,2004,Typhoid
+Zone:10,2-2,1,2004,Typhoid
 Loei,2-2,0,2004,Typhoid
 Nong Bua Lam Phu,2-2,1,2004,Typhoid
 Nong Khai,2-2,0,2004,Typhoid
 Udon Thani,2-2,0,2004,Typhoid
-Zone 11,2-2,0,2004,Typhoid
+Zone:11,2-2,0,2004,Typhoid
 Kalasin,2-2,0,2004,Typhoid
 Mukdahan,2-2,0,2004,Typhoid
 Nakhon Phanom,2-2,0,2004,Typhoid
 Sakon Nakhon,2-2,0,2004,Typhoid
-Zone 12,2-2,1,2004,Typhoid
+Zone:12,2-2,1,2004,Typhoid
 Khon Kaen,2-2,1,2004,Typhoid
 Maha Sarakham,2-2,0,2004,Typhoid
 Roi Et,2-2,0,2004,Typhoid
-Zone 13,2-2,7,2004,Typhoid
+Zone:13,2-2,7,2004,Typhoid
 Buri Ram,2-2,5,2004,Typhoid
 Chaiyaphum,2-2,1,2004,Typhoid
 Nakhon Ratchasima,2-2,0,2004,Typhoid
 Surin,2-2,1,2004,Typhoid
-Zone 14,2-2,1,2004,Typhoid
+Zone:14,2-2,1,2004,Typhoid
 Amnat Charoen,2-2,0,2004,Typhoid
 Si Sa Ket,2-2,1,2004,Typhoid
 Ubon Ratchathani,2-2,0,2004,Typhoid
 Yasothon,2-2,0,2004,Typhoid
 South Region,2-2,41,2004,Typhoid
-Zone 15,2-2,5,2004,Typhoid
+Zone:15,2-2,5,2004,Typhoid
 Chumphon,2-2,0,2004,Typhoid
 Ranong,2-2,0,2004,Typhoid
 Surat Thani,2-2,5,2004,Typhoid
-Zone 16,2-2,23,2004,Typhoid
+Zone:16,2-2,23,2004,Typhoid
 Nakhon Si Thammarat,2-2,21,2004,Typhoid
 Phatthalung,2-2,0,2004,Typhoid
 Trang,2-2,2,2004,Typhoid
-Zone 17,2-2,3,2004,Typhoid
+Zone:17,2-2,3,2004,Typhoid
 Krabi,2-2,1,2004,Typhoid
 Phangnga,2-2,2,2004,Typhoid
 Phuket,2-2,0,2004,Typhoid
-Zone 18,2-2,9,2004,Typhoid
+Zone:18,2-2,9,2004,Typhoid
 Narathiwat,2-2,6,2004,Typhoid
 Pattani,2-2,0,2004,Typhoid
 Yala,2-2,3,2004,Typhoid
-Zone 19,2-2,1,2004,Typhoid
+Zone:19,2-2,1,2004,Typhoid
 Satun,2-2,1,2004,Typhoid
 Songkhla,2-2,0,2004,Typhoid
 Total,3-3,93,2004,Typhoid
 North Region,3-3,23,2004,Typhoid
-Zone 1,3-3,19,2004,Typhoid
+Zone:1,3-3,19,2004,Typhoid
 Chiang Mai,3-3,5,2004,Typhoid
 Chiang Rai,3-3,9,2004,Typhoid
 Lampang,3-3,0,2004,Typhoid
@@ -28194,98 +28194,98 @@ Mae Hong Son,3-3,1,2004,Typhoid
 Nan,3-3,0,2004,Typhoid
 Phayao,3-3,0,2004,Typhoid
 Phrae,3-3,0,2004,Typhoid
-Zone 2,3-3,3,2004,Typhoid
+Zone:2,3-3,3,2004,Typhoid
 Phetchabun,3-3,0,2004,Typhoid
 Phitsanulok,3-3,0,2004,Typhoid
 Sukhothai,3-3,0,2004,Typhoid
 Tak,3-3,3,2004,Typhoid
 Uttaradit,3-3,0,2004,Typhoid
-Zone 3,3-3,1,2004,Typhoid
+Zone:3,3-3,1,2004,Typhoid
 Kamphaeng Phet,3-3,0,2004,Typhoid
 Nakhon Sawan,3-3,0,2004,Typhoid
 Phichit,3-3,1,2004,Typhoid
 Uthai Thani,3-3,0,2004,Typhoid
 Central Region,3-3,4,2004,Typhoid
 Bangkok,3-3,0,2004,Typhoid
-Zone 4,3-3,0,2004,Typhoid
+Zone:4,3-3,0,2004,Typhoid
 Ang Thong,3-3,0,2004,Typhoid
 Nonthaburi,3-3,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,3-3,0,2004,Typhoid
 Pathum Thani,3-3,0,2004,Typhoid
-Zone 5,3-3,0,2004,Typhoid
+Zone:5,3-3,0,2004,Typhoid
 Chai Nat,3-3,0,2004,Typhoid
 Lop Buri,3-3,0,2004,Typhoid
 Saraburi,3-3,0,2004,Typhoid
 Sing Buri,3-3,0,2004,Typhoid
-Zone 6,3-3,2,2004,Typhoid
+Zone:6,3-3,2,2004,Typhoid
 Kanchanaburi,3-3,1,2004,Typhoid
 Nakhon Pathom,3-3,0,2004,Typhoid
 Ratchaburi,3-3,0,2004,Typhoid
 Suphan Buri,3-3,1,2004,Typhoid
-Zone 7,3-3,1,2004,Typhoid
+Zone:7,3-3,1,2004,Typhoid
 Phetchaburi,3-3,0,2004,Typhoid
 Prachuap Khiri Khan,3-3,0,2004,Typhoid
 Samut Sakhon,3-3,0,2004,Typhoid
 Samut Songkhram,3-3,1,2004,Typhoid
-Zone 8,3-3,1,2004,Typhoid
+Zone:8,3-3,1,2004,Typhoid
 Chachoengsao,3-3,0,2004,Typhoid
 Nakhon Nayok,3-3,0,2004,Typhoid
 Prachin Buri,3-3,0,2004,Typhoid
 Sa Kaeo,3-3,1,2004,Typhoid
 Samut Prakan,3-3,0,2004,Typhoid
-Zone 9,3-3,0,2004,Typhoid
+Zone:9,3-3,0,2004,Typhoid
 Chanthaburi,3-3,0,2004,Typhoid
 Chon Buri,3-3,0,2004,Typhoid
 Rayong,3-3,0,2004,Typhoid
 Trat,3-3,0,2004,Typhoid
 North-Eastern Region,3-3,20,2004,Typhoid
-Zone 10,3-3,1,2004,Typhoid
+Zone:10,3-3,1,2004,Typhoid
 Loei,3-3,0,2004,Typhoid
 Nong Bua Lam Phu,3-3,1,2004,Typhoid
 Nong Khai,3-3,0,2004,Typhoid
 Udon Thani,3-3,0,2004,Typhoid
-Zone 11,3-3,1,2004,Typhoid
+Zone:11,3-3,1,2004,Typhoid
 Kalasin,3-3,0,2004,Typhoid
 Mukdahan,3-3,0,2004,Typhoid
 Nakhon Phanom,3-3,1,2004,Typhoid
 Sakon Nakhon,3-3,0,2004,Typhoid
-Zone 12,3-3,1,2004,Typhoid
+Zone:12,3-3,1,2004,Typhoid
 Khon Kaen,3-3,1,2004,Typhoid
 Maha Sarakham,3-3,0,2004,Typhoid
 Roi Et,3-3,0,2004,Typhoid
-Zone 13,3-3,16,2004,Typhoid
+Zone:13,3-3,16,2004,Typhoid
 Buri Ram,3-3,10,2004,Typhoid
 Chaiyaphum,3-3,0,2004,Typhoid
 Nakhon Ratchasima,3-3,0,2004,Typhoid
 Surin,3-3,6,2004,Typhoid
-Zone 14,3-3,1,2004,Typhoid
+Zone:14,3-3,1,2004,Typhoid
 Amnat Charoen,3-3,0,2004,Typhoid
 Si Sa Ket,3-3,1,2004,Typhoid
 Ubon Ratchathani,3-3,0,2004,Typhoid
 Yasothon,3-3,0,2004,Typhoid
 South Region,3-3,46,2004,Typhoid
-Zone 15,3-3,3,2004,Typhoid
+Zone:15,3-3,3,2004,Typhoid
 Chumphon,3-3,1,2004,Typhoid
 Ranong,3-3,0,2004,Typhoid
 Surat Thani,3-3,2,2004,Typhoid
-Zone 16,3-3,27,2004,Typhoid
+Zone:16,3-3,27,2004,Typhoid
 Nakhon Si Thammarat,3-3,26,2004,Typhoid
 Phatthalung,3-3,1,2004,Typhoid
 Trang,3-3,0,2004,Typhoid
-Zone 17,3-3,3,2004,Typhoid
+Zone:17,3-3,3,2004,Typhoid
 Krabi,3-3,0,2004,Typhoid
 Phangnga,3-3,3,2004,Typhoid
 Phuket,3-3,0,2004,Typhoid
-Zone 18,3-3,13,2004,Typhoid
+Zone:18,3-3,13,2004,Typhoid
 Narathiwat,3-3,5,2004,Typhoid
 Pattani,3-3,1,2004,Typhoid
 Yala,3-3,7,2004,Typhoid
-Zone 19,3-3,0,2004,Typhoid
+Zone:19,3-3,0,2004,Typhoid
 Satun,3-3,0,2004,Typhoid
 Songkhla,3-3,0,2004,Typhoid
 Total,4-4,86,2004,Typhoid
 North Region,4-4,23,2004,Typhoid
-Zone 1,4-4,21,2004,Typhoid
+Zone:1,4-4,21,2004,Typhoid
 Chiang Mai,4-4,14,2004,Typhoid
 Chiang Rai,4-4,6,2004,Typhoid
 Lampang,4-4,0,2004,Typhoid
@@ -28294,98 +28294,98 @@ Mae Hong Son,4-4,0,2004,Typhoid
 Nan,4-4,0,2004,Typhoid
 Phayao,4-4,0,2004,Typhoid
 Phrae,4-4,1,2004,Typhoid
-Zone 2,4-4,1,2004,Typhoid
+Zone:2,4-4,1,2004,Typhoid
 Phetchabun,4-4,0,2004,Typhoid
 Phitsanulok,4-4,0,2004,Typhoid
 Sukhothai,4-4,0,2004,Typhoid
 Tak,4-4,1,2004,Typhoid
 Uttaradit,4-4,0,2004,Typhoid
-Zone 3,4-4,1,2004,Typhoid
+Zone:3,4-4,1,2004,Typhoid
 Kamphaeng Phet,4-4,1,2004,Typhoid
 Nakhon Sawan,4-4,0,2004,Typhoid
 Phichit,4-4,0,2004,Typhoid
 Uthai Thani,4-4,0,2004,Typhoid
 Central Region,4-4,5,2004,Typhoid
 Bangkok,4-4,0,2004,Typhoid
-Zone 4,4-4,1,2004,Typhoid
+Zone:4,4-4,1,2004,Typhoid
 Ang Thong,4-4,0,2004,Typhoid
 Nonthaburi,4-4,1,2004,Typhoid
 P.Nakhon S.Ayutthaya,4-4,0,2004,Typhoid
 Pathum Thani,4-4,0,2004,Typhoid
-Zone 5,4-4,0,2004,Typhoid
+Zone:5,4-4,0,2004,Typhoid
 Chai Nat,4-4,0,2004,Typhoid
 Lop Buri,4-4,0,2004,Typhoid
 Saraburi,4-4,0,2004,Typhoid
 Sing Buri,4-4,0,2004,Typhoid
-Zone 6,4-4,0,2004,Typhoid
+Zone:6,4-4,0,2004,Typhoid
 Kanchanaburi,4-4,0,2004,Typhoid
 Nakhon Pathom,4-4,0,2004,Typhoid
 Ratchaburi,4-4,0,2004,Typhoid
 Suphan Buri,4-4,0,2004,Typhoid
-Zone 7,4-4,2,2004,Typhoid
+Zone:7,4-4,2,2004,Typhoid
 Phetchaburi,4-4,1,2004,Typhoid
 Prachuap Khiri Khan,4-4,0,2004,Typhoid
 Samut Sakhon,4-4,1,2004,Typhoid
 Samut Songkhram,4-4,0,2004,Typhoid
-Zone 8,4-4,2,2004,Typhoid
+Zone:8,4-4,2,2004,Typhoid
 Chachoengsao,4-4,1,2004,Typhoid
 Nakhon Nayok,4-4,0,2004,Typhoid
 Prachin Buri,4-4,0,2004,Typhoid
 Sa Kaeo,4-4,1,2004,Typhoid
 Samut Prakan,4-4,0,2004,Typhoid
-Zone 9,4-4,0,2004,Typhoid
+Zone:9,4-4,0,2004,Typhoid
 Chanthaburi,4-4,0,2004,Typhoid
 Chon Buri,4-4,0,2004,Typhoid
 Rayong,4-4,0,2004,Typhoid
 Trat,4-4,0,2004,Typhoid
 North-Eastern Region,4-4,25,2004,Typhoid
-Zone 10,4-4,3,2004,Typhoid
+Zone:10,4-4,3,2004,Typhoid
 Loei,4-4,1,2004,Typhoid
 Nong Bua Lam Phu,4-4,0,2004,Typhoid
 Nong Khai,4-4,0,2004,Typhoid
 Udon Thani,4-4,2,2004,Typhoid
-Zone 11,4-4,1,2004,Typhoid
+Zone:11,4-4,1,2004,Typhoid
 Kalasin,4-4,0,2004,Typhoid
 Mukdahan,4-4,0,2004,Typhoid
 Nakhon Phanom,4-4,0,2004,Typhoid
 Sakon Nakhon,4-4,1,2004,Typhoid
-Zone 12,4-4,1,2004,Typhoid
+Zone:12,4-4,1,2004,Typhoid
 Khon Kaen,4-4,0,2004,Typhoid
 Maha Sarakham,4-4,0,2004,Typhoid
 Roi Et,4-4,1,2004,Typhoid
-Zone 13,4-4,19,2004,Typhoid
+Zone:13,4-4,19,2004,Typhoid
 Buri Ram,4-4,13,2004,Typhoid
 Chaiyaphum,4-4,2,2004,Typhoid
 Nakhon Ratchasima,4-4,0,2004,Typhoid
 Surin,4-4,4,2004,Typhoid
-Zone 14,4-4,1,2004,Typhoid
+Zone:14,4-4,1,2004,Typhoid
 Amnat Charoen,4-4,1,2004,Typhoid
 Si Sa Ket,4-4,0,2004,Typhoid
 Ubon Ratchathani,4-4,0,2004,Typhoid
 Yasothon,4-4,0,2004,Typhoid
 South Region,4-4,33,2004,Typhoid
-Zone 15,4-4,1,2004,Typhoid
+Zone:15,4-4,1,2004,Typhoid
 Chumphon,4-4,0,2004,Typhoid
 Ranong,4-4,0,2004,Typhoid
 Surat Thani,4-4,1,2004,Typhoid
-Zone 16,4-4,17,2004,Typhoid
+Zone:16,4-4,17,2004,Typhoid
 Nakhon Si Thammarat,4-4,17,2004,Typhoid
 Phatthalung,4-4,0,2004,Typhoid
 Trang,4-4,0,2004,Typhoid
-Zone 17,4-4,4,2004,Typhoid
+Zone:17,4-4,4,2004,Typhoid
 Krabi,4-4,1,2004,Typhoid
 Phangnga,4-4,2,2004,Typhoid
 Phuket,4-4,1,2004,Typhoid
-Zone 18,4-4,9,2004,Typhoid
+Zone:18,4-4,9,2004,Typhoid
 Narathiwat,4-4,0,2004,Typhoid
 Pattani,4-4,0,2004,Typhoid
 Yala,4-4,9,2004,Typhoid
-Zone 19,4-4,2,2004,Typhoid
+Zone:19,4-4,2,2004,Typhoid
 Satun,4-4,1,2004,Typhoid
 Songkhla,4-4,1,2004,Typhoid
 Total,5-5,99,2004,Typhoid
 North Region,5-5,30,2004,Typhoid
-Zone 1,5-5,20,2004,Typhoid
+Zone:1,5-5,20,2004,Typhoid
 Chiang Mai,5-5,10,2004,Typhoid
 Chiang Rai,5-5,6,2004,Typhoid
 Lampang,5-5,0,2004,Typhoid
@@ -28394,98 +28394,98 @@ Mae Hong Son,5-5,1,2004,Typhoid
 Nan,5-5,0,2004,Typhoid
 Phayao,5-5,0,2004,Typhoid
 Phrae,5-5,0,2004,Typhoid
-Zone 2,5-5,7,2004,Typhoid
+Zone:2,5-5,7,2004,Typhoid
 Phetchabun,5-5,1,2004,Typhoid
 Phitsanulok,5-5,0,2004,Typhoid
 Sukhothai,5-5,0,2004,Typhoid
 Tak,5-5,5,2004,Typhoid
 Uttaradit,5-5,1,2004,Typhoid
-Zone 3,5-5,3,2004,Typhoid
+Zone:3,5-5,3,2004,Typhoid
 Kamphaeng Phet,5-5,0,2004,Typhoid
 Nakhon Sawan,5-5,2,2004,Typhoid
 Phichit,5-5,1,2004,Typhoid
 Uthai Thani,5-5,0,2004,Typhoid
 Central Region,5-5,7,2004,Typhoid
 Bangkok,5-5,2,2004,Typhoid
-Zone 4,5-5,0,2004,Typhoid
+Zone:4,5-5,0,2004,Typhoid
 Ang Thong,5-5,0,2004,Typhoid
 Nonthaburi,5-5,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,5-5,0,2004,Typhoid
 Pathum Thani,5-5,0,2004,Typhoid
-Zone 5,5-5,0,2004,Typhoid
+Zone:5,5-5,0,2004,Typhoid
 Chai Nat,5-5,0,2004,Typhoid
 Lop Buri,5-5,0,2004,Typhoid
 Saraburi,5-5,0,2004,Typhoid
 Sing Buri,5-5,0,2004,Typhoid
-Zone 6,5-5,1,2004,Typhoid
+Zone:6,5-5,1,2004,Typhoid
 Kanchanaburi,5-5,1,2004,Typhoid
 Nakhon Pathom,5-5,0,2004,Typhoid
 Ratchaburi,5-5,0,2004,Typhoid
 Suphan Buri,5-5,0,2004,Typhoid
-Zone 7,5-5,0,2004,Typhoid
+Zone:7,5-5,0,2004,Typhoid
 Phetchaburi,5-5,0,2004,Typhoid
 Prachuap Khiri Khan,5-5,0,2004,Typhoid
 Samut Sakhon,5-5,0,2004,Typhoid
 Samut Songkhram,5-5,0,2004,Typhoid
-Zone 8,5-5,3,2004,Typhoid
+Zone:8,5-5,3,2004,Typhoid
 Chachoengsao,5-5,3,2004,Typhoid
 Nakhon Nayok,5-5,0,2004,Typhoid
 Prachin Buri,5-5,0,2004,Typhoid
 Sa Kaeo,5-5,0,2004,Typhoid
 Samut Prakan,5-5,0,2004,Typhoid
-Zone 9,5-5,1,2004,Typhoid
+Zone:9,5-5,1,2004,Typhoid
 Chanthaburi,5-5,0,2004,Typhoid
 Chon Buri,5-5,0,2004,Typhoid
 Rayong,5-5,1,2004,Typhoid
 Trat,5-5,0,2004,Typhoid
 North-Eastern Region,5-5,27,2004,Typhoid
-Zone 10,5-5,2,2004,Typhoid
+Zone:10,5-5,2,2004,Typhoid
 Loei,5-5,0,2004,Typhoid
 Nong Bua Lam Phu,5-5,0,2004,Typhoid
 Nong Khai,5-5,0,2004,Typhoid
 Udon Thani,5-5,2,2004,Typhoid
-Zone 11,5-5,2,2004,Typhoid
+Zone:11,5-5,2,2004,Typhoid
 Kalasin,5-5,0,2004,Typhoid
 Mukdahan,5-5,0,2004,Typhoid
 Nakhon Phanom,5-5,2,2004,Typhoid
 Sakon Nakhon,5-5,0,2004,Typhoid
-Zone 12,5-5,0,2004,Typhoid
+Zone:12,5-5,0,2004,Typhoid
 Khon Kaen,5-5,0,2004,Typhoid
 Maha Sarakham,5-5,0,2004,Typhoid
 Roi Et,5-5,0,2004,Typhoid
-Zone 13,5-5,23,2004,Typhoid
+Zone:13,5-5,23,2004,Typhoid
 Buri Ram,5-5,19,2004,Typhoid
 Chaiyaphum,5-5,1,2004,Typhoid
 Nakhon Ratchasima,5-5,0,2004,Typhoid
 Surin,5-5,3,2004,Typhoid
-Zone 14,5-5,0,2004,Typhoid
+Zone:14,5-5,0,2004,Typhoid
 Amnat Charoen,5-5,0,2004,Typhoid
 Si Sa Ket,5-5,0,2004,Typhoid
 Ubon Ratchathani,5-5,0,2004,Typhoid
 Yasothon,5-5,0,2004,Typhoid
 South Region,5-5,35,2004,Typhoid
-Zone 15,5-5,0,2004,Typhoid
+Zone:15,5-5,0,2004,Typhoid
 Chumphon,5-5,0,2004,Typhoid
 Ranong,5-5,0,2004,Typhoid
 Surat Thani,5-5,0,2004,Typhoid
-Zone 16,5-5,13,2004,Typhoid
+Zone:16,5-5,13,2004,Typhoid
 Nakhon Si Thammarat,5-5,12,2004,Typhoid
 Phatthalung,5-5,1,2004,Typhoid
 Trang,5-5,0,2004,Typhoid
-Zone 17,5-5,2,2004,Typhoid
+Zone:17,5-5,2,2004,Typhoid
 Krabi,5-5,0,2004,Typhoid
 Phangnga,5-5,2,2004,Typhoid
 Phuket,5-5,0,2004,Typhoid
-Zone 18,5-5,18,2004,Typhoid
+Zone:18,5-5,18,2004,Typhoid
 Narathiwat,5-5,4,2004,Typhoid
 Pattani,5-5,1,2004,Typhoid
 Yala,5-5,13,2004,Typhoid
-Zone 19,5-5,2,2004,Typhoid
+Zone:19,5-5,2,2004,Typhoid
 Satun,5-5,2,2004,Typhoid
 Songkhla,5-5,0,2004,Typhoid
 Total,6-6,92,2004,Typhoid
 North Region,6-6,43,2004,Typhoid
-Zone 1,6-6,36,2004,Typhoid
+Zone:1,6-6,36,2004,Typhoid
 Chiang Mai,6-6,14,2004,Typhoid
 Chiang Rai,6-6,18,2004,Typhoid
 Lampang,6-6,0,2004,Typhoid
@@ -28494,98 +28494,98 @@ Mae Hong Son,6-6,2,2004,Typhoid
 Nan,6-6,0,2004,Typhoid
 Phayao,6-6,0,2004,Typhoid
 Phrae,6-6,0,2004,Typhoid
-Zone 2,6-6,7,2004,Typhoid
+Zone:2,6-6,7,2004,Typhoid
 Phetchabun,6-6,1,2004,Typhoid
 Phitsanulok,6-6,0,2004,Typhoid
 Sukhothai,6-6,0,2004,Typhoid
 Tak,6-6,6,2004,Typhoid
 Uttaradit,6-6,0,2004,Typhoid
-Zone 3,6-6,0,2004,Typhoid
+Zone:3,6-6,0,2004,Typhoid
 Kamphaeng Phet,6-6,0,2004,Typhoid
 Nakhon Sawan,6-6,0,2004,Typhoid
 Phichit,6-6,0,2004,Typhoid
 Uthai Thani,6-6,0,2004,Typhoid
 Central Region,6-6,5,2004,Typhoid
 Bangkok,6-6,1,2004,Typhoid
-Zone 4,6-6,0,2004,Typhoid
+Zone:4,6-6,0,2004,Typhoid
 Ang Thong,6-6,0,2004,Typhoid
 Nonthaburi,6-6,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,6-6,0,2004,Typhoid
 Pathum Thani,6-6,0,2004,Typhoid
-Zone 5,6-6,0,2004,Typhoid
+Zone:5,6-6,0,2004,Typhoid
 Chai Nat,6-6,0,2004,Typhoid
 Lop Buri,6-6,0,2004,Typhoid
 Saraburi,6-6,0,2004,Typhoid
 Sing Buri,6-6,0,2004,Typhoid
-Zone 6,6-6,0,2004,Typhoid
+Zone:6,6-6,0,2004,Typhoid
 Kanchanaburi,6-6,0,2004,Typhoid
 Nakhon Pathom,6-6,0,2004,Typhoid
 Ratchaburi,6-6,0,2004,Typhoid
 Suphan Buri,6-6,0,2004,Typhoid
-Zone 7,6-6,1,2004,Typhoid
+Zone:7,6-6,1,2004,Typhoid
 Phetchaburi,6-6,1,2004,Typhoid
 Prachuap Khiri Khan,6-6,0,2004,Typhoid
 Samut Sakhon,6-6,0,2004,Typhoid
 Samut Songkhram,6-6,0,2004,Typhoid
-Zone 8,6-6,3,2004,Typhoid
+Zone:8,6-6,3,2004,Typhoid
 Chachoengsao,6-6,1,2004,Typhoid
 Nakhon Nayok,6-6,1,2004,Typhoid
 Prachin Buri,6-6,1,2004,Typhoid
 Sa Kaeo,6-6,0,2004,Typhoid
 Samut Prakan,6-6,0,2004,Typhoid
-Zone 9,6-6,0,2004,Typhoid
+Zone:9,6-6,0,2004,Typhoid
 Chanthaburi,6-6,0,2004,Typhoid
 Chon Buri,6-6,0,2004,Typhoid
 Rayong,6-6,0,2004,Typhoid
 Trat,6-6,0,2004,Typhoid
 North-Eastern Region,6-6,14,2004,Typhoid
-Zone 10,6-6,1,2004,Typhoid
+Zone:10,6-6,1,2004,Typhoid
 Loei,6-6,0,2004,Typhoid
 Nong Bua Lam Phu,6-6,0,2004,Typhoid
 Nong Khai,6-6,0,2004,Typhoid
 Udon Thani,6-6,1,2004,Typhoid
-Zone 11,6-6,4,2004,Typhoid
+Zone:11,6-6,4,2004,Typhoid
 Kalasin,6-6,0,2004,Typhoid
 Mukdahan,6-6,0,2004,Typhoid
 Nakhon Phanom,6-6,3,2004,Typhoid
 Sakon Nakhon,6-6,1,2004,Typhoid
-Zone 12,6-6,0,2004,Typhoid
+Zone:12,6-6,0,2004,Typhoid
 Khon Kaen,6-6,0,2004,Typhoid
 Maha Sarakham,6-6,0,2004,Typhoid
 Roi Et,6-6,0,2004,Typhoid
-Zone 13,6-6,8,2004,Typhoid
+Zone:13,6-6,8,2004,Typhoid
 Buri Ram,6-6,6,2004,Typhoid
 Chaiyaphum,6-6,0,2004,Typhoid
 Nakhon Ratchasima,6-6,0,2004,Typhoid
 Surin,6-6,2,2004,Typhoid
-Zone 14,6-6,1,2004,Typhoid
+Zone:14,6-6,1,2004,Typhoid
 Amnat Charoen,6-6,0,2004,Typhoid
 Si Sa Ket,6-6,1,2004,Typhoid
 Ubon Ratchathani,6-6,0,2004,Typhoid
 Yasothon,6-6,0,2004,Typhoid
 South Region,6-6,30,2004,Typhoid
-Zone 15,6-6,2,2004,Typhoid
+Zone:15,6-6,2,2004,Typhoid
 Chumphon,6-6,0,2004,Typhoid
 Ranong,6-6,0,2004,Typhoid
 Surat Thani,6-6,2,2004,Typhoid
-Zone 16,6-6,8,2004,Typhoid
+Zone:16,6-6,8,2004,Typhoid
 Nakhon Si Thammarat,6-6,7,2004,Typhoid
 Phatthalung,6-6,1,2004,Typhoid
 Trang,6-6,0,2004,Typhoid
-Zone 17,6-6,2,2004,Typhoid
+Zone:17,6-6,2,2004,Typhoid
 Krabi,6-6,1,2004,Typhoid
 Phangnga,6-6,1,2004,Typhoid
 Phuket,6-6,0,2004,Typhoid
-Zone 18,6-6,16,2004,Typhoid
+Zone:18,6-6,16,2004,Typhoid
 Narathiwat,6-6,5,2004,Typhoid
 Pattani,6-6,0,2004,Typhoid
 Yala,6-6,11,2004,Typhoid
-Zone 19,6-6,2,2004,Typhoid
+Zone:19,6-6,2,2004,Typhoid
 Satun,6-6,1,2004,Typhoid
 Songkhla,6-6,1,2004,Typhoid
 Total,7-9,344,2004,Typhoid
 North Region,7-9,126,2004,Typhoid
-Zone 1,7-9,103,2004,Typhoid
+Zone:1,7-9,103,2004,Typhoid
 Chiang Mai,7-9,31,2004,Typhoid
 Chiang Rai,7-9,53,2004,Typhoid
 Lampang,7-9,1,2004,Typhoid
@@ -28594,98 +28594,98 @@ Mae Hong Son,7-9,7,2004,Typhoid
 Nan,7-9,2,2004,Typhoid
 Phayao,7-9,3,2004,Typhoid
 Phrae,7-9,4,2004,Typhoid
-Zone 2,7-9,14,2004,Typhoid
+Zone:2,7-9,14,2004,Typhoid
 Phetchabun,7-9,2,2004,Typhoid
 Phitsanulok,7-9,0,2004,Typhoid
 Sukhothai,7-9,1,2004,Typhoid
 Tak,7-9,11,2004,Typhoid
 Uttaradit,7-9,0,2004,Typhoid
-Zone 3,7-9,9,2004,Typhoid
+Zone:3,7-9,9,2004,Typhoid
 Kamphaeng Phet,7-9,3,2004,Typhoid
 Nakhon Sawan,7-9,6,2004,Typhoid
 Phichit,7-9,0,2004,Typhoid
 Uthai Thani,7-9,0,2004,Typhoid
 Central Region,7-9,19,2004,Typhoid
 Bangkok,7-9,5,2004,Typhoid
-Zone 4,7-9,3,2004,Typhoid
+Zone:4,7-9,3,2004,Typhoid
 Ang Thong,7-9,2,2004,Typhoid
 Nonthaburi,7-9,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,7-9,1,2004,Typhoid
 Pathum Thani,7-9,0,2004,Typhoid
-Zone 5,7-9,0,2004,Typhoid
+Zone:5,7-9,0,2004,Typhoid
 Chai Nat,7-9,0,2004,Typhoid
 Lop Buri,7-9,0,2004,Typhoid
 Saraburi,7-9,0,2004,Typhoid
 Sing Buri,7-9,0,2004,Typhoid
-Zone 6,7-9,2,2004,Typhoid
+Zone:6,7-9,2,2004,Typhoid
 Kanchanaburi,7-9,2,2004,Typhoid
 Nakhon Pathom,7-9,0,2004,Typhoid
 Ratchaburi,7-9,0,2004,Typhoid
 Suphan Buri,7-9,0,2004,Typhoid
-Zone 7,7-9,4,2004,Typhoid
+Zone:7,7-9,4,2004,Typhoid
 Phetchaburi,7-9,1,2004,Typhoid
 Prachuap Khiri Khan,7-9,3,2004,Typhoid
 Samut Sakhon,7-9,0,2004,Typhoid
 Samut Songkhram,7-9,0,2004,Typhoid
-Zone 8,7-9,2,2004,Typhoid
+Zone:8,7-9,2,2004,Typhoid
 Chachoengsao,7-9,2,2004,Typhoid
 Nakhon Nayok,7-9,0,2004,Typhoid
 Prachin Buri,7-9,0,2004,Typhoid
 Sa Kaeo,7-9,0,2004,Typhoid
 Samut Prakan,7-9,0,2004,Typhoid
-Zone 9,7-9,3,2004,Typhoid
+Zone:9,7-9,3,2004,Typhoid
 Chanthaburi,7-9,0,2004,Typhoid
 Chon Buri,7-9,0,2004,Typhoid
 Rayong,7-9,1,2004,Typhoid
 Trat,7-9,2,2004,Typhoid
 North-Eastern Region,7-9,80,2004,Typhoid
-Zone 10,7-9,6,2004,Typhoid
+Zone:10,7-9,6,2004,Typhoid
 Loei,7-9,3,2004,Typhoid
 Nong Bua Lam Phu,7-9,0,2004,Typhoid
 Nong Khai,7-9,0,2004,Typhoid
 Udon Thani,7-9,3,2004,Typhoid
-Zone 11,7-9,16,2004,Typhoid
+Zone:11,7-9,16,2004,Typhoid
 Kalasin,7-9,2,2004,Typhoid
 Mukdahan,7-9,1,2004,Typhoid
 Nakhon Phanom,7-9,9,2004,Typhoid
 Sakon Nakhon,7-9,4,2004,Typhoid
-Zone 12,7-9,5,2004,Typhoid
+Zone:12,7-9,5,2004,Typhoid
 Khon Kaen,7-9,3,2004,Typhoid
 Maha Sarakham,7-9,1,2004,Typhoid
 Roi Et,7-9,1,2004,Typhoid
-Zone 13,7-9,52,2004,Typhoid
+Zone:13,7-9,52,2004,Typhoid
 Buri Ram,7-9,30,2004,Typhoid
 Chaiyaphum,7-9,2,2004,Typhoid
 Nakhon Ratchasima,7-9,0,2004,Typhoid
 Surin,7-9,20,2004,Typhoid
-Zone 14,7-9,1,2004,Typhoid
+Zone:14,7-9,1,2004,Typhoid
 Amnat Charoen,7-9,0,2004,Typhoid
 Si Sa Ket,7-9,1,2004,Typhoid
 Ubon Ratchathani,7-9,0,2004,Typhoid
 Yasothon,7-9,0,2004,Typhoid
 South Region,7-9,119,2004,Typhoid
-Zone 15,7-9,4,2004,Typhoid
+Zone:15,7-9,4,2004,Typhoid
 Chumphon,7-9,1,2004,Typhoid
 Ranong,7-9,0,2004,Typhoid
 Surat Thani,7-9,3,2004,Typhoid
-Zone 16,7-9,40,2004,Typhoid
+Zone:16,7-9,40,2004,Typhoid
 Nakhon Si Thammarat,7-9,39,2004,Typhoid
 Phatthalung,7-9,0,2004,Typhoid
 Trang,7-9,1,2004,Typhoid
-Zone 17,7-9,10,2004,Typhoid
+Zone:17,7-9,10,2004,Typhoid
 Krabi,7-9,4,2004,Typhoid
 Phangnga,7-9,6,2004,Typhoid
 Phuket,7-9,0,2004,Typhoid
-Zone 18,7-9,56,2004,Typhoid
+Zone:18,7-9,56,2004,Typhoid
 Narathiwat,7-9,21,2004,Typhoid
 Pattani,7-9,3,2004,Typhoid
 Yala,7-9,32,2004,Typhoid
-Zone 19,7-9,9,2004,Typhoid
+Zone:19,7-9,9,2004,Typhoid
 Satun,7-9,5,2004,Typhoid
 Songkhla,7-9,4,2004,Typhoid
 Total,10-14,481,2004,Typhoid
 North Region,10-14,212,2004,Typhoid
-Zone 1,10-14,197,2004,Typhoid
+Zone:1,10-14,197,2004,Typhoid
 Chiang Mai,10-14,43,2004,Typhoid
 Chiang Rai,10-14,94,2004,Typhoid
 Lampang,10-14,4,2004,Typhoid
@@ -28694,98 +28694,98 @@ Mae Hong Son,10-14,22,2004,Typhoid
 Nan,10-14,5,2004,Typhoid
 Phayao,10-14,5,2004,Typhoid
 Phrae,10-14,1,2004,Typhoid
-Zone 2,10-14,11,2004,Typhoid
+Zone:2,10-14,11,2004,Typhoid
 Phetchabun,10-14,2,2004,Typhoid
 Phitsanulok,10-14,0,2004,Typhoid
 Sukhothai,10-14,1,2004,Typhoid
 Tak,10-14,7,2004,Typhoid
 Uttaradit,10-14,1,2004,Typhoid
-Zone 3,10-14,4,2004,Typhoid
+Zone:3,10-14,4,2004,Typhoid
 Kamphaeng Phet,10-14,1,2004,Typhoid
 Nakhon Sawan,10-14,2,2004,Typhoid
 Phichit,10-14,1,2004,Typhoid
 Uthai Thani,10-14,0,2004,Typhoid
 Central Region,10-14,19,2004,Typhoid
 Bangkok,10-14,2,2004,Typhoid
-Zone 4,10-14,2,2004,Typhoid
+Zone:4,10-14,2,2004,Typhoid
 Ang Thong,10-14,1,2004,Typhoid
 Nonthaburi,10-14,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,10-14,0,2004,Typhoid
 Pathum Thani,10-14,1,2004,Typhoid
-Zone 5,10-14,0,2004,Typhoid
+Zone:5,10-14,0,2004,Typhoid
 Chai Nat,10-14,0,2004,Typhoid
 Lop Buri,10-14,0,2004,Typhoid
 Saraburi,10-14,0,2004,Typhoid
 Sing Buri,10-14,0,2004,Typhoid
-Zone 6,10-14,6,2004,Typhoid
+Zone:6,10-14,6,2004,Typhoid
 Kanchanaburi,10-14,3,2004,Typhoid
 Nakhon Pathom,10-14,1,2004,Typhoid
 Ratchaburi,10-14,1,2004,Typhoid
 Suphan Buri,10-14,1,2004,Typhoid
-Zone 7,10-14,5,2004,Typhoid
+Zone:7,10-14,5,2004,Typhoid
 Phetchaburi,10-14,3,2004,Typhoid
 Prachuap Khiri Khan,10-14,1,2004,Typhoid
 Samut Sakhon,10-14,1,2004,Typhoid
 Samut Songkhram,10-14,0,2004,Typhoid
-Zone 8,10-14,3,2004,Typhoid
+Zone:8,10-14,3,2004,Typhoid
 Chachoengsao,10-14,0,2004,Typhoid
 Nakhon Nayok,10-14,0,2004,Typhoid
 Prachin Buri,10-14,1,2004,Typhoid
 Sa Kaeo,10-14,2,2004,Typhoid
 Samut Prakan,10-14,0,2004,Typhoid
-Zone 9,10-14,1,2004,Typhoid
+Zone:9,10-14,1,2004,Typhoid
 Chanthaburi,10-14,0,2004,Typhoid
 Chon Buri,10-14,0,2004,Typhoid
 Rayong,10-14,1,2004,Typhoid
 Trat,10-14,0,2004,Typhoid
 North-Eastern Region,10-14,103,2004,Typhoid
-Zone 10,10-14,12,2004,Typhoid
+Zone:10,10-14,12,2004,Typhoid
 Loei,10-14,1,2004,Typhoid
 Nong Bua Lam Phu,10-14,0,2004,Typhoid
 Nong Khai,10-14,0,2004,Typhoid
 Udon Thani,10-14,11,2004,Typhoid
-Zone 11,10-14,21,2004,Typhoid
+Zone:11,10-14,21,2004,Typhoid
 Kalasin,10-14,4,2004,Typhoid
 Mukdahan,10-14,0,2004,Typhoid
 Nakhon Phanom,10-14,11,2004,Typhoid
 Sakon Nakhon,10-14,6,2004,Typhoid
-Zone 12,10-14,3,2004,Typhoid
+Zone:12,10-14,3,2004,Typhoid
 Khon Kaen,10-14,2,2004,Typhoid
 Maha Sarakham,10-14,0,2004,Typhoid
 Roi Et,10-14,1,2004,Typhoid
-Zone 13,10-14,64,2004,Typhoid
+Zone:13,10-14,64,2004,Typhoid
 Buri Ram,10-14,30,2004,Typhoid
 Chaiyaphum,10-14,7,2004,Typhoid
 Nakhon Ratchasima,10-14,5,2004,Typhoid
 Surin,10-14,22,2004,Typhoid
-Zone 14,10-14,3,2004,Typhoid
+Zone:14,10-14,3,2004,Typhoid
 Amnat Charoen,10-14,0,2004,Typhoid
 Si Sa Ket,10-14,1,2004,Typhoid
 Ubon Ratchathani,10-14,0,2004,Typhoid
 Yasothon,10-14,2,2004,Typhoid
 South Region,10-14,147,2004,Typhoid
-Zone 15,10-14,6,2004,Typhoid
+Zone:15,10-14,6,2004,Typhoid
 Chumphon,10-14,1,2004,Typhoid
 Ranong,10-14,1,2004,Typhoid
 Surat Thani,10-14,4,2004,Typhoid
-Zone 16,10-14,48,2004,Typhoid
+Zone:16,10-14,48,2004,Typhoid
 Nakhon Si Thammarat,10-14,46,2004,Typhoid
 Phatthalung,10-14,1,2004,Typhoid
 Trang,10-14,1,2004,Typhoid
-Zone 17,10-14,17,2004,Typhoid
+Zone:17,10-14,17,2004,Typhoid
 Krabi,10-14,5,2004,Typhoid
 Phangnga,10-14,12,2004,Typhoid
 Phuket,10-14,0,2004,Typhoid
-Zone 18,10-14,72,2004,Typhoid
+Zone:18,10-14,72,2004,Typhoid
 Narathiwat,10-14,25,2004,Typhoid
 Pattani,10-14,6,2004,Typhoid
 Yala,10-14,41,2004,Typhoid
-Zone 19,10-14,4,2004,Typhoid
+Zone:19,10-14,4,2004,Typhoid
 Satun,10-14,1,2004,Typhoid
 Songkhla,10-14,3,2004,Typhoid
 Total,15-24,698,2004,Typhoid
 North Region,15-24,312,2004,Typhoid
-Zone 1,15-24,289,2004,Typhoid
+Zone:1,15-24,289,2004,Typhoid
 Chiang Mai,15-24,117,2004,Typhoid
 Chiang Rai,15-24,88,2004,Typhoid
 Lampang,15-24,2,2004,Typhoid
@@ -28794,98 +28794,98 @@ Mae Hong Son,15-24,25,2004,Typhoid
 Nan,15-24,3,2004,Typhoid
 Phayao,15-24,11,2004,Typhoid
 Phrae,15-24,12,2004,Typhoid
-Zone 2,15-24,19,2004,Typhoid
+Zone:2,15-24,19,2004,Typhoid
 Phetchabun,15-24,2,2004,Typhoid
 Phitsanulok,15-24,1,2004,Typhoid
 Sukhothai,15-24,2,2004,Typhoid
 Tak,15-24,10,2004,Typhoid
 Uttaradit,15-24,4,2004,Typhoid
-Zone 3,15-24,4,2004,Typhoid
+Zone:3,15-24,4,2004,Typhoid
 Kamphaeng Phet,15-24,1,2004,Typhoid
 Nakhon Sawan,15-24,2,2004,Typhoid
 Phichit,15-24,0,2004,Typhoid
 Uthai Thani,15-24,1,2004,Typhoid
 Central Region,15-24,53,2004,Typhoid
 Bangkok,15-24,9,2004,Typhoid
-Zone 4,15-24,2,2004,Typhoid
+Zone:4,15-24,2,2004,Typhoid
 Ang Thong,15-24,1,2004,Typhoid
 Nonthaburi,15-24,1,2004,Typhoid
 P.Nakhon S.Ayutthaya,15-24,0,2004,Typhoid
 Pathum Thani,15-24,0,2004,Typhoid
-Zone 5,15-24,3,2004,Typhoid
+Zone:5,15-24,3,2004,Typhoid
 Chai Nat,15-24,1,2004,Typhoid
 Lop Buri,15-24,1,2004,Typhoid
 Saraburi,15-24,0,2004,Typhoid
 Sing Buri,15-24,1,2004,Typhoid
-Zone 6,15-24,3,2004,Typhoid
+Zone:6,15-24,3,2004,Typhoid
 Kanchanaburi,15-24,3,2004,Typhoid
 Nakhon Pathom,15-24,0,2004,Typhoid
 Ratchaburi,15-24,0,2004,Typhoid
 Suphan Buri,15-24,0,2004,Typhoid
-Zone 7,15-24,9,2004,Typhoid
+Zone:7,15-24,9,2004,Typhoid
 Phetchaburi,15-24,6,2004,Typhoid
 Prachuap Khiri Khan,15-24,2,2004,Typhoid
 Samut Sakhon,15-24,1,2004,Typhoid
 Samut Songkhram,15-24,0,2004,Typhoid
-Zone 8,15-24,13,2004,Typhoid
+Zone:8,15-24,13,2004,Typhoid
 Chachoengsao,15-24,4,2004,Typhoid
 Nakhon Nayok,15-24,0,2004,Typhoid
 Prachin Buri,15-24,1,2004,Typhoid
 Sa Kaeo,15-24,7,2004,Typhoid
 Samut Prakan,15-24,1,2004,Typhoid
-Zone 9,15-24,14,2004,Typhoid
+Zone:9,15-24,14,2004,Typhoid
 Chanthaburi,15-24,1,2004,Typhoid
 Chon Buri,15-24,2,2004,Typhoid
 Rayong,15-24,4,2004,Typhoid
 Trat,15-24,7,2004,Typhoid
 North-Eastern Region,15-24,111,2004,Typhoid
-Zone 10,15-24,13,2004,Typhoid
+Zone:10,15-24,13,2004,Typhoid
 Loei,15-24,0,2004,Typhoid
 Nong Bua Lam Phu,15-24,0,2004,Typhoid
 Nong Khai,15-24,2,2004,Typhoid
 Udon Thani,15-24,11,2004,Typhoid
-Zone 11,15-24,40,2004,Typhoid
+Zone:11,15-24,40,2004,Typhoid
 Kalasin,15-24,2,2004,Typhoid
 Mukdahan,15-24,2,2004,Typhoid
 Nakhon Phanom,15-24,16,2004,Typhoid
 Sakon Nakhon,15-24,20,2004,Typhoid
-Zone 12,15-24,9,2004,Typhoid
+Zone:12,15-24,9,2004,Typhoid
 Khon Kaen,15-24,1,2004,Typhoid
 Maha Sarakham,15-24,0,2004,Typhoid
 Roi Et,15-24,8,2004,Typhoid
-Zone 13,15-24,44,2004,Typhoid
+Zone:13,15-24,44,2004,Typhoid
 Buri Ram,15-24,13,2004,Typhoid
 Chaiyaphum,15-24,5,2004,Typhoid
 Nakhon Ratchasima,15-24,6,2004,Typhoid
 Surin,15-24,20,2004,Typhoid
-Zone 14,15-24,5,2004,Typhoid
+Zone:14,15-24,5,2004,Typhoid
 Amnat Charoen,15-24,1,2004,Typhoid
 Si Sa Ket,15-24,1,2004,Typhoid
 Ubon Ratchathani,15-24,0,2004,Typhoid
 Yasothon,15-24,3,2004,Typhoid
 South Region,15-24,222,2004,Typhoid
-Zone 15,15-24,7,2004,Typhoid
+Zone:15,15-24,7,2004,Typhoid
 Chumphon,15-24,2,2004,Typhoid
 Ranong,15-24,3,2004,Typhoid
 Surat Thani,15-24,2,2004,Typhoid
-Zone 16,15-24,67,2004,Typhoid
+Zone:16,15-24,67,2004,Typhoid
 Nakhon Si Thammarat,15-24,58,2004,Typhoid
 Phatthalung,15-24,7,2004,Typhoid
 Trang,15-24,2,2004,Typhoid
-Zone 17,15-24,38,2004,Typhoid
+Zone:17,15-24,38,2004,Typhoid
 Krabi,15-24,14,2004,Typhoid
 Phangnga,15-24,24,2004,Typhoid
 Phuket,15-24,0,2004,Typhoid
-Zone 18,15-24,102,2004,Typhoid
+Zone:18,15-24,102,2004,Typhoid
 Narathiwat,15-24,46,2004,Typhoid
 Pattani,15-24,5,2004,Typhoid
 Yala,15-24,51,2004,Typhoid
-Zone 19,15-24,8,2004,Typhoid
+Zone:19,15-24,8,2004,Typhoid
 Satun,15-24,4,2004,Typhoid
 Songkhla,15-24,4,2004,Typhoid
 Total,25-34,909,2004,Typhoid
 North Region,25-34,408,2004,Typhoid
-Zone 1,25-34,385,2004,Typhoid
+Zone:1,25-34,385,2004,Typhoid
 Chiang Mai,25-34,152,2004,Typhoid
 Chiang Rai,25-34,130,2004,Typhoid
 Lampang,25-34,9,2004,Typhoid
@@ -28894,98 +28894,98 @@ Mae Hong Son,25-34,24,2004,Typhoid
 Nan,25-34,3,2004,Typhoid
 Phayao,25-34,14,2004,Typhoid
 Phrae,25-34,18,2004,Typhoid
-Zone 2,25-34,17,2004,Typhoid
+Zone:2,25-34,17,2004,Typhoid
 Phetchabun,25-34,5,2004,Typhoid
 Phitsanulok,25-34,1,2004,Typhoid
 Sukhothai,25-34,2,2004,Typhoid
 Tak,25-34,5,2004,Typhoid
 Uttaradit,25-34,4,2004,Typhoid
-Zone 3,25-34,6,2004,Typhoid
+Zone:3,25-34,6,2004,Typhoid
 Kamphaeng Phet,25-34,4,2004,Typhoid
 Nakhon Sawan,25-34,2,2004,Typhoid
 Phichit,25-34,0,2004,Typhoid
 Uthai Thani,25-34,0,2004,Typhoid
 Central Region,25-34,69,2004,Typhoid
 Bangkok,25-34,8,2004,Typhoid
-Zone 4,25-34,3,2004,Typhoid
+Zone:4,25-34,3,2004,Typhoid
 Ang Thong,25-34,3,2004,Typhoid
 Nonthaburi,25-34,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,25-34,0,2004,Typhoid
 Pathum Thani,25-34,0,2004,Typhoid
-Zone 5,25-34,1,2004,Typhoid
+Zone:5,25-34,1,2004,Typhoid
 Chai Nat,25-34,0,2004,Typhoid
 Lop Buri,25-34,0,2004,Typhoid
 Saraburi,25-34,0,2004,Typhoid
 Sing Buri,25-34,1,2004,Typhoid
-Zone 6,25-34,6,2004,Typhoid
+Zone:6,25-34,6,2004,Typhoid
 Kanchanaburi,25-34,0,2004,Typhoid
 Nakhon Pathom,25-34,2,2004,Typhoid
 Ratchaburi,25-34,2,2004,Typhoid
 Suphan Buri,25-34,2,2004,Typhoid
-Zone 7,25-34,11,2004,Typhoid
+Zone:7,25-34,11,2004,Typhoid
 Phetchaburi,25-34,3,2004,Typhoid
 Prachuap Khiri Khan,25-34,6,2004,Typhoid
 Samut Sakhon,25-34,2,2004,Typhoid
 Samut Songkhram,25-34,0,2004,Typhoid
-Zone 8,25-34,14,2004,Typhoid
+Zone:8,25-34,14,2004,Typhoid
 Chachoengsao,25-34,3,2004,Typhoid
 Nakhon Nayok,25-34,0,2004,Typhoid
 Prachin Buri,25-34,0,2004,Typhoid
 Sa Kaeo,25-34,11,2004,Typhoid
 Samut Prakan,25-34,0,2004,Typhoid
-Zone 9,25-34,26,2004,Typhoid
+Zone:9,25-34,26,2004,Typhoid
 Chanthaburi,25-34,8,2004,Typhoid
 Chon Buri,25-34,2,2004,Typhoid
 Rayong,25-34,5,2004,Typhoid
 Trat,25-34,11,2004,Typhoid
 North-Eastern Region,25-34,166,2004,Typhoid
-Zone 10,25-34,17,2004,Typhoid
+Zone:10,25-34,17,2004,Typhoid
 Loei,25-34,0,2004,Typhoid
 Nong Bua Lam Phu,25-34,1,2004,Typhoid
 Nong Khai,25-34,2,2004,Typhoid
 Udon Thani,25-34,14,2004,Typhoid
-Zone 11,25-34,71,2004,Typhoid
+Zone:11,25-34,71,2004,Typhoid
 Kalasin,25-34,6,2004,Typhoid
 Mukdahan,25-34,1,2004,Typhoid
 Nakhon Phanom,25-34,24,2004,Typhoid
 Sakon Nakhon,25-34,40,2004,Typhoid
-Zone 12,25-34,14,2004,Typhoid
+Zone:12,25-34,14,2004,Typhoid
 Khon Kaen,25-34,2,2004,Typhoid
 Maha Sarakham,25-34,0,2004,Typhoid
 Roi Et,25-34,12,2004,Typhoid
-Zone 13,25-34,59,2004,Typhoid
+Zone:13,25-34,59,2004,Typhoid
 Buri Ram,25-34,27,2004,Typhoid
 Chaiyaphum,25-34,11,2004,Typhoid
 Nakhon Ratchasima,25-34,6,2004,Typhoid
 Surin,25-34,15,2004,Typhoid
-Zone 14,25-34,5,2004,Typhoid
+Zone:14,25-34,5,2004,Typhoid
 Amnat Charoen,25-34,0,2004,Typhoid
 Si Sa Ket,25-34,3,2004,Typhoid
 Ubon Ratchathani,25-34,0,2004,Typhoid
 Yasothon,25-34,2,2004,Typhoid
 South Region,25-34,266,2004,Typhoid
-Zone 15,25-34,14,2004,Typhoid
+Zone:15,25-34,14,2004,Typhoid
 Chumphon,25-34,0,2004,Typhoid
 Ranong,25-34,9,2004,Typhoid
 Surat Thani,25-34,5,2004,Typhoid
-Zone 16,25-34,76,2004,Typhoid
+Zone:16,25-34,76,2004,Typhoid
 Nakhon Si Thammarat,25-34,63,2004,Typhoid
 Phatthalung,25-34,9,2004,Typhoid
 Trang,25-34,4,2004,Typhoid
-Zone 17,25-34,42,2004,Typhoid
+Zone:17,25-34,42,2004,Typhoid
 Krabi,25-34,17,2004,Typhoid
 Phangnga,25-34,23,2004,Typhoid
 Phuket,25-34,2,2004,Typhoid
-Zone 18,25-34,123,2004,Typhoid
+Zone:18,25-34,123,2004,Typhoid
 Narathiwat,25-34,42,2004,Typhoid
 Pattani,25-34,13,2004,Typhoid
 Yala,25-34,68,2004,Typhoid
-Zone 19,25-34,11,2004,Typhoid
+Zone:19,25-34,11,2004,Typhoid
 Satun,25-34,9,2004,Typhoid
 Songkhla,25-34,2,2004,Typhoid
 Total,35-44,798,2004,Typhoid
 North Region,35-44,427,2004,Typhoid
-Zone 1,35-44,402,2004,Typhoid
+Zone:1,35-44,402,2004,Typhoid
 Chiang Mai,35-44,93,2004,Typhoid
 Chiang Rai,35-44,166,2004,Typhoid
 Lampang,35-44,17,2004,Typhoid
@@ -28994,98 +28994,98 @@ Mae Hong Son,35-44,32,2004,Typhoid
 Nan,35-44,13,2004,Typhoid
 Phayao,35-44,26,2004,Typhoid
 Phrae,35-44,17,2004,Typhoid
-Zone 2,35-44,21,2004,Typhoid
+Zone:2,35-44,21,2004,Typhoid
 Phetchabun,35-44,4,2004,Typhoid
 Phitsanulok,35-44,0,2004,Typhoid
 Sukhothai,35-44,4,2004,Typhoid
 Tak,35-44,10,2004,Typhoid
 Uttaradit,35-44,3,2004,Typhoid
-Zone 3,35-44,4,2004,Typhoid
+Zone:3,35-44,4,2004,Typhoid
 Kamphaeng Phet,35-44,2,2004,Typhoid
 Nakhon Sawan,35-44,1,2004,Typhoid
 Phichit,35-44,1,2004,Typhoid
 Uthai Thani,35-44,0,2004,Typhoid
 Central Region,35-44,54,2004,Typhoid
 Bangkok,35-44,6,2004,Typhoid
-Zone 4,35-44,4,2004,Typhoid
+Zone:4,35-44,4,2004,Typhoid
 Ang Thong,35-44,2,2004,Typhoid
 Nonthaburi,35-44,1,2004,Typhoid
 P.Nakhon S.Ayutthaya,35-44,1,2004,Typhoid
 Pathum Thani,35-44,0,2004,Typhoid
-Zone 5,35-44,2,2004,Typhoid
+Zone:5,35-44,2,2004,Typhoid
 Chai Nat,35-44,2,2004,Typhoid
 Lop Buri,35-44,0,2004,Typhoid
 Saraburi,35-44,0,2004,Typhoid
 Sing Buri,35-44,0,2004,Typhoid
-Zone 6,35-44,3,2004,Typhoid
+Zone:6,35-44,3,2004,Typhoid
 Kanchanaburi,35-44,2,2004,Typhoid
 Nakhon Pathom,35-44,0,2004,Typhoid
 Ratchaburi,35-44,1,2004,Typhoid
 Suphan Buri,35-44,0,2004,Typhoid
-Zone 7,35-44,9,2004,Typhoid
+Zone:7,35-44,9,2004,Typhoid
 Phetchaburi,35-44,5,2004,Typhoid
 Prachuap Khiri Khan,35-44,1,2004,Typhoid
 Samut Sakhon,35-44,1,2004,Typhoid
 Samut Songkhram,35-44,2,2004,Typhoid
-Zone 8,35-44,11,2004,Typhoid
+Zone:8,35-44,11,2004,Typhoid
 Chachoengsao,35-44,1,2004,Typhoid
 Nakhon Nayok,35-44,3,2004,Typhoid
 Prachin Buri,35-44,0,2004,Typhoid
 Sa Kaeo,35-44,7,2004,Typhoid
 Samut Prakan,35-44,0,2004,Typhoid
-Zone 9,35-44,19,2004,Typhoid
+Zone:9,35-44,19,2004,Typhoid
 Chanthaburi,35-44,4,2004,Typhoid
 Chon Buri,35-44,2,2004,Typhoid
 Rayong,35-44,6,2004,Typhoid
 Trat,35-44,7,2004,Typhoid
 North-Eastern Region,35-44,127,2004,Typhoid
-Zone 10,35-44,25,2004,Typhoid
+Zone:10,35-44,25,2004,Typhoid
 Loei,35-44,2,2004,Typhoid
 Nong Bua Lam Phu,35-44,1,2004,Typhoid
 Nong Khai,35-44,1,2004,Typhoid
 Udon Thani,35-44,21,2004,Typhoid
-Zone 11,35-44,44,2004,Typhoid
+Zone:11,35-44,44,2004,Typhoid
 Kalasin,35-44,4,2004,Typhoid
 Mukdahan,35-44,1,2004,Typhoid
 Nakhon Phanom,35-44,7,2004,Typhoid
 Sakon Nakhon,35-44,32,2004,Typhoid
-Zone 12,35-44,7,2004,Typhoid
+Zone:12,35-44,7,2004,Typhoid
 Khon Kaen,35-44,0,2004,Typhoid
 Maha Sarakham,35-44,0,2004,Typhoid
 Roi Et,35-44,7,2004,Typhoid
-Zone 13,35-44,42,2004,Typhoid
+Zone:13,35-44,42,2004,Typhoid
 Buri Ram,35-44,17,2004,Typhoid
 Chaiyaphum,35-44,2,2004,Typhoid
 Nakhon Ratchasima,35-44,3,2004,Typhoid
 Surin,35-44,20,2004,Typhoid
-Zone 14,35-44,9,2004,Typhoid
+Zone:14,35-44,9,2004,Typhoid
 Amnat Charoen,35-44,0,2004,Typhoid
 Si Sa Ket,35-44,6,2004,Typhoid
 Ubon Ratchathani,35-44,0,2004,Typhoid
 Yasothon,35-44,3,2004,Typhoid
 South Region,35-44,190,2004,Typhoid
-Zone 15,35-44,9,2004,Typhoid
+Zone:15,35-44,9,2004,Typhoid
 Chumphon,35-44,0,2004,Typhoid
 Ranong,35-44,4,2004,Typhoid
 Surat Thani,35-44,5,2004,Typhoid
-Zone 16,35-44,51,2004,Typhoid
+Zone:16,35-44,51,2004,Typhoid
 Nakhon Si Thammarat,35-44,45,2004,Typhoid
 Phatthalung,35-44,6,2004,Typhoid
 Trang,35-44,0,2004,Typhoid
-Zone 17,35-44,30,2004,Typhoid
+Zone:17,35-44,30,2004,Typhoid
 Krabi,35-44,7,2004,Typhoid
 Phangnga,35-44,23,2004,Typhoid
 Phuket,35-44,0,2004,Typhoid
-Zone 18,35-44,91,2004,Typhoid
+Zone:18,35-44,91,2004,Typhoid
 Narathiwat,35-44,34,2004,Typhoid
 Pattani,35-44,11,2004,Typhoid
 Yala,35-44,46,2004,Typhoid
-Zone 19,35-44,9,2004,Typhoid
+Zone:19,35-44,9,2004,Typhoid
 Satun,35-44,6,2004,Typhoid
 Songkhla,35-44,3,2004,Typhoid
 Total,45-54,548,2004,Typhoid
 North Region,45-54,309,2004,Typhoid
-Zone 1,45-54,291,2004,Typhoid
+Zone:1,45-54,291,2004,Typhoid
 Chiang Mai,45-54,62,2004,Typhoid
 Chiang Rai,45-54,136,2004,Typhoid
 Lampang,45-54,5,2004,Typhoid
@@ -29094,98 +29094,98 @@ Mae Hong Son,45-54,24,2004,Typhoid
 Nan,45-54,12,2004,Typhoid
 Phayao,45-54,18,2004,Typhoid
 Phrae,45-54,13,2004,Typhoid
-Zone 2,45-54,14,2004,Typhoid
+Zone:2,45-54,14,2004,Typhoid
 Phetchabun,45-54,3,2004,Typhoid
 Phitsanulok,45-54,0,2004,Typhoid
 Sukhothai,45-54,0,2004,Typhoid
 Tak,45-54,6,2004,Typhoid
 Uttaradit,45-54,5,2004,Typhoid
-Zone 3,45-54,4,2004,Typhoid
+Zone:3,45-54,4,2004,Typhoid
 Kamphaeng Phet,45-54,2,2004,Typhoid
 Nakhon Sawan,45-54,0,2004,Typhoid
 Phichit,45-54,2,2004,Typhoid
 Uthai Thani,45-54,0,2004,Typhoid
 Central Region,45-54,35,2004,Typhoid
 Bangkok,45-54,3,2004,Typhoid
-Zone 4,45-54,3,2004,Typhoid
+Zone:4,45-54,3,2004,Typhoid
 Ang Thong,45-54,1,2004,Typhoid
 Nonthaburi,45-54,1,2004,Typhoid
 P.Nakhon S.Ayutthaya,45-54,0,2004,Typhoid
 Pathum Thani,45-54,1,2004,Typhoid
-Zone 5,45-54,6,2004,Typhoid
+Zone:5,45-54,6,2004,Typhoid
 Chai Nat,45-54,2,2004,Typhoid
 Lop Buri,45-54,3,2004,Typhoid
 Saraburi,45-54,0,2004,Typhoid
 Sing Buri,45-54,1,2004,Typhoid
-Zone 6,45-54,3,2004,Typhoid
+Zone:6,45-54,3,2004,Typhoid
 Kanchanaburi,45-54,1,2004,Typhoid
 Nakhon Pathom,45-54,0,2004,Typhoid
 Ratchaburi,45-54,2,2004,Typhoid
 Suphan Buri,45-54,0,2004,Typhoid
-Zone 7,45-54,3,2004,Typhoid
+Zone:7,45-54,3,2004,Typhoid
 Phetchaburi,45-54,1,2004,Typhoid
 Prachuap Khiri Khan,45-54,2,2004,Typhoid
 Samut Sakhon,45-54,0,2004,Typhoid
 Samut Songkhram,45-54,0,2004,Typhoid
-Zone 8,45-54,7,2004,Typhoid
+Zone:8,45-54,7,2004,Typhoid
 Chachoengsao,45-54,3,2004,Typhoid
 Nakhon Nayok,45-54,2,2004,Typhoid
 Prachin Buri,45-54,0,2004,Typhoid
 Sa Kaeo,45-54,2,2004,Typhoid
 Samut Prakan,45-54,0,2004,Typhoid
-Zone 9,45-54,10,2004,Typhoid
+Zone:9,45-54,10,2004,Typhoid
 Chanthaburi,45-54,1,2004,Typhoid
 Chon Buri,45-54,3,2004,Typhoid
 Rayong,45-54,4,2004,Typhoid
 Trat,45-54,2,2004,Typhoid
 North-Eastern Region,45-54,122,2004,Typhoid
-Zone 10,45-54,16,2004,Typhoid
+Zone:10,45-54,16,2004,Typhoid
 Loei,45-54,0,2004,Typhoid
 Nong Bua Lam Phu,45-54,0,2004,Typhoid
 Nong Khai,45-54,3,2004,Typhoid
 Udon Thani,45-54,13,2004,Typhoid
-Zone 11,45-54,59,2004,Typhoid
+Zone:11,45-54,59,2004,Typhoid
 Kalasin,45-54,11,2004,Typhoid
 Mukdahan,45-54,2,2004,Typhoid
 Nakhon Phanom,45-54,20,2004,Typhoid
 Sakon Nakhon,45-54,26,2004,Typhoid
-Zone 12,45-54,13,2004,Typhoid
+Zone:12,45-54,13,2004,Typhoid
 Khon Kaen,45-54,2,2004,Typhoid
 Maha Sarakham,45-54,1,2004,Typhoid
 Roi Et,45-54,10,2004,Typhoid
-Zone 13,45-54,31,2004,Typhoid
+Zone:13,45-54,31,2004,Typhoid
 Buri Ram,45-54,12,2004,Typhoid
 Chaiyaphum,45-54,2,2004,Typhoid
 Nakhon Ratchasima,45-54,1,2004,Typhoid
 Surin,45-54,16,2004,Typhoid
-Zone 14,45-54,3,2004,Typhoid
+Zone:14,45-54,3,2004,Typhoid
 Amnat Charoen,45-54,1,2004,Typhoid
 Si Sa Ket,45-54,2,2004,Typhoid
 Ubon Ratchathani,45-54,0,2004,Typhoid
 Yasothon,45-54,0,2004,Typhoid
 South Region,45-54,82,2004,Typhoid
-Zone 15,45-54,2,2004,Typhoid
+Zone:15,45-54,2,2004,Typhoid
 Chumphon,45-54,0,2004,Typhoid
 Ranong,45-54,1,2004,Typhoid
 Surat Thani,45-54,1,2004,Typhoid
-Zone 16,45-54,27,2004,Typhoid
+Zone:16,45-54,27,2004,Typhoid
 Nakhon Si Thammarat,45-54,25,2004,Typhoid
 Phatthalung,45-54,2,2004,Typhoid
 Trang,45-54,0,2004,Typhoid
-Zone 17,45-54,10,2004,Typhoid
+Zone:17,45-54,10,2004,Typhoid
 Krabi,45-54,3,2004,Typhoid
 Phangnga,45-54,7,2004,Typhoid
 Phuket,45-54,0,2004,Typhoid
-Zone 18,45-54,38,2004,Typhoid
+Zone:18,45-54,38,2004,Typhoid
 Narathiwat,45-54,16,2004,Typhoid
 Pattani,45-54,4,2004,Typhoid
 Yala,45-54,18,2004,Typhoid
-Zone 19,45-54,5,2004,Typhoid
+Zone:19,45-54,5,2004,Typhoid
 Satun,45-54,1,2004,Typhoid
 Songkhla,45-54,4,2004,Typhoid
 Total,55-64,354,2004,Typhoid
 North Region,55-64,170,2004,Typhoid
-Zone 1,55-64,155,2004,Typhoid
+Zone:1,55-64,155,2004,Typhoid
 Chiang Mai,55-64,37,2004,Typhoid
 Chiang Rai,55-64,73,2004,Typhoid
 Lampang,55-64,2,2004,Typhoid
@@ -29194,98 +29194,98 @@ Mae Hong Son,55-64,7,2004,Typhoid
 Nan,55-64,5,2004,Typhoid
 Phayao,55-64,9,2004,Typhoid
 Phrae,55-64,9,2004,Typhoid
-Zone 2,55-64,13,2004,Typhoid
+Zone:2,55-64,13,2004,Typhoid
 Phetchabun,55-64,0,2004,Typhoid
 Phitsanulok,55-64,1,2004,Typhoid
 Sukhothai,55-64,4,2004,Typhoid
 Tak,55-64,3,2004,Typhoid
 Uttaradit,55-64,5,2004,Typhoid
-Zone 3,55-64,2,2004,Typhoid
+Zone:3,55-64,2,2004,Typhoid
 Kamphaeng Phet,55-64,0,2004,Typhoid
 Nakhon Sawan,55-64,1,2004,Typhoid
 Phichit,55-64,1,2004,Typhoid
 Uthai Thani,55-64,0,2004,Typhoid
 Central Region,55-64,28,2004,Typhoid
 Bangkok,55-64,4,2004,Typhoid
-Zone 4,55-64,0,2004,Typhoid
+Zone:4,55-64,0,2004,Typhoid
 Ang Thong,55-64,0,2004,Typhoid
 Nonthaburi,55-64,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,55-64,0,2004,Typhoid
 Pathum Thani,55-64,0,2004,Typhoid
-Zone 5,55-64,2,2004,Typhoid
+Zone:5,55-64,2,2004,Typhoid
 Chai Nat,55-64,2,2004,Typhoid
 Lop Buri,55-64,0,2004,Typhoid
 Saraburi,55-64,0,2004,Typhoid
 Sing Buri,55-64,0,2004,Typhoid
-Zone 6,55-64,5,2004,Typhoid
+Zone:6,55-64,5,2004,Typhoid
 Kanchanaburi,55-64,3,2004,Typhoid
 Nakhon Pathom,55-64,0,2004,Typhoid
 Ratchaburi,55-64,1,2004,Typhoid
 Suphan Buri,55-64,1,2004,Typhoid
-Zone 7,55-64,6,2004,Typhoid
+Zone:7,55-64,6,2004,Typhoid
 Phetchaburi,55-64,6,2004,Typhoid
 Prachuap Khiri Khan,55-64,0,2004,Typhoid
 Samut Sakhon,55-64,0,2004,Typhoid
 Samut Songkhram,55-64,0,2004,Typhoid
-Zone 8,55-64,6,2004,Typhoid
+Zone:8,55-64,6,2004,Typhoid
 Chachoengsao,55-64,1,2004,Typhoid
 Nakhon Nayok,55-64,1,2004,Typhoid
 Prachin Buri,55-64,0,2004,Typhoid
 Sa Kaeo,55-64,4,2004,Typhoid
 Samut Prakan,55-64,0,2004,Typhoid
-Zone 9,55-64,5,2004,Typhoid
+Zone:9,55-64,5,2004,Typhoid
 Chanthaburi,55-64,1,2004,Typhoid
 Chon Buri,55-64,0,2004,Typhoid
 Rayong,55-64,2,2004,Typhoid
 Trat,55-64,2,2004,Typhoid
 North-Eastern Region,55-64,87,2004,Typhoid
-Zone 10,55-64,10,2004,Typhoid
+Zone:10,55-64,10,2004,Typhoid
 Loei,55-64,0,2004,Typhoid
 Nong Bua Lam Phu,55-64,0,2004,Typhoid
 Nong Khai,55-64,1,2004,Typhoid
 Udon Thani,55-64,9,2004,Typhoid
-Zone 11,55-64,37,2004,Typhoid
+Zone:11,55-64,37,2004,Typhoid
 Kalasin,55-64,5,2004,Typhoid
 Mukdahan,55-64,0,2004,Typhoid
 Nakhon Phanom,55-64,9,2004,Typhoid
 Sakon Nakhon,55-64,23,2004,Typhoid
-Zone 12,55-64,7,2004,Typhoid
+Zone:12,55-64,7,2004,Typhoid
 Khon Kaen,55-64,0,2004,Typhoid
 Maha Sarakham,55-64,0,2004,Typhoid
 Roi Et,55-64,7,2004,Typhoid
-Zone 13,55-64,28,2004,Typhoid
+Zone:13,55-64,28,2004,Typhoid
 Buri Ram,55-64,12,2004,Typhoid
 Chaiyaphum,55-64,1,2004,Typhoid
 Nakhon Ratchasima,55-64,2,2004,Typhoid
 Surin,55-64,13,2004,Typhoid
-Zone 14,55-64,5,2004,Typhoid
+Zone:14,55-64,5,2004,Typhoid
 Amnat Charoen,55-64,0,2004,Typhoid
 Si Sa Ket,55-64,3,2004,Typhoid
 Ubon Ratchathani,55-64,0,2004,Typhoid
 Yasothon,55-64,2,2004,Typhoid
 South Region,55-64,69,2004,Typhoid
-Zone 15,55-64,5,2004,Typhoid
+Zone:15,55-64,5,2004,Typhoid
 Chumphon,55-64,3,2004,Typhoid
 Ranong,55-64,2,2004,Typhoid
 Surat Thani,55-64,0,2004,Typhoid
-Zone 16,55-64,30,2004,Typhoid
+Zone:16,55-64,30,2004,Typhoid
 Nakhon Si Thammarat,55-64,29,2004,Typhoid
 Phatthalung,55-64,1,2004,Typhoid
 Trang,55-64,0,2004,Typhoid
-Zone 17,55-64,2,2004,Typhoid
+Zone:17,55-64,2,2004,Typhoid
 Krabi,55-64,0,2004,Typhoid
 Phangnga,55-64,1,2004,Typhoid
 Phuket,55-64,1,2004,Typhoid
-Zone 18,55-64,31,2004,Typhoid
+Zone:18,55-64,31,2004,Typhoid
 Narathiwat,55-64,11,2004,Typhoid
 Pattani,55-64,1,2004,Typhoid
 Yala,55-64,19,2004,Typhoid
-Zone 19,55-64,1,2004,Typhoid
+Zone:19,55-64,1,2004,Typhoid
 Satun,55-64,0,2004,Typhoid
 Songkhla,55-64,1,2004,Typhoid
 Total,65+,327,2004,Typhoid
 North Region,65+,155,2004,Typhoid
-Zone 1,65+,142,2004,Typhoid
+Zone:1,65+,142,2004,Typhoid
 Chiang Mai,65+,30,2004,Typhoid
 Chiang Rai,65+,76,2004,Typhoid
 Lampang,65+,4,2004,Typhoid
@@ -29294,98 +29294,98 @@ Mae Hong Son,65+,7,2004,Typhoid
 Nan,65+,3,2004,Typhoid
 Phayao,65+,6,2004,Typhoid
 Phrae,65+,5,2004,Typhoid
-Zone 2,65+,8,2004,Typhoid
+Zone:2,65+,8,2004,Typhoid
 Phetchabun,65+,1,2004,Typhoid
 Phitsanulok,65+,1,2004,Typhoid
 Sukhothai,65+,0,2004,Typhoid
 Tak,65+,2,2004,Typhoid
 Uttaradit,65+,4,2004,Typhoid
-Zone 3,65+,5,2004,Typhoid
+Zone:3,65+,5,2004,Typhoid
 Kamphaeng Phet,65+,1,2004,Typhoid
 Nakhon Sawan,65+,1,2004,Typhoid
 Phichit,65+,3,2004,Typhoid
 Uthai Thani,65+,0,2004,Typhoid
 Central Region,65+,20,2004,Typhoid
 Bangkok,65+,1,2004,Typhoid
-Zone 4,65+,0,2004,Typhoid
+Zone:4,65+,0,2004,Typhoid
 Ang Thong,65+,0,2004,Typhoid
 Nonthaburi,65+,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,65+,0,2004,Typhoid
 Pathum Thani,65+,0,2004,Typhoid
-Zone 5,65+,3,2004,Typhoid
+Zone:5,65+,3,2004,Typhoid
 Chai Nat,65+,2,2004,Typhoid
 Lop Buri,65+,0,2004,Typhoid
 Saraburi,65+,0,2004,Typhoid
 Sing Buri,65+,1,2004,Typhoid
-Zone 6,65+,4,2004,Typhoid
+Zone:6,65+,4,2004,Typhoid
 Kanchanaburi,65+,2,2004,Typhoid
 Nakhon Pathom,65+,0,2004,Typhoid
 Ratchaburi,65+,2,2004,Typhoid
 Suphan Buri,65+,0,2004,Typhoid
-Zone 7,65+,2,2004,Typhoid
+Zone:7,65+,2,2004,Typhoid
 Phetchaburi,65+,2,2004,Typhoid
 Prachuap Khiri Khan,65+,0,2004,Typhoid
 Samut Sakhon,65+,0,2004,Typhoid
 Samut Songkhram,65+,0,2004,Typhoid
-Zone 8,65+,5,2004,Typhoid
+Zone:8,65+,5,2004,Typhoid
 Chachoengsao,65+,2,2004,Typhoid
 Nakhon Nayok,65+,2,2004,Typhoid
 Prachin Buri,65+,0,2004,Typhoid
 Sa Kaeo,65+,1,2004,Typhoid
 Samut Prakan,65+,0,2004,Typhoid
-Zone 9,65+,5,2004,Typhoid
+Zone:9,65+,5,2004,Typhoid
 Chanthaburi,65+,0,2004,Typhoid
 Chon Buri,65+,0,2004,Typhoid
 Rayong,65+,2,2004,Typhoid
 Trat,65+,3,2004,Typhoid
 North-Eastern Region,65+,70,2004,Typhoid
-Zone 10,65+,5,2004,Typhoid
+Zone:10,65+,5,2004,Typhoid
 Loei,65+,0,2004,Typhoid
 Nong Bua Lam Phu,65+,0,2004,Typhoid
 Nong Khai,65+,0,2004,Typhoid
 Udon Thani,65+,5,2004,Typhoid
-Zone 11,65+,34,2004,Typhoid
+Zone:11,65+,34,2004,Typhoid
 Kalasin,65+,3,2004,Typhoid
 Mukdahan,65+,0,2004,Typhoid
 Nakhon Phanom,65+,12,2004,Typhoid
 Sakon Nakhon,65+,19,2004,Typhoid
-Zone 12,65+,3,2004,Typhoid
+Zone:12,65+,3,2004,Typhoid
 Khon Kaen,65+,0,2004,Typhoid
 Maha Sarakham,65+,0,2004,Typhoid
 Roi Et,65+,3,2004,Typhoid
-Zone 13,65+,24,2004,Typhoid
+Zone:13,65+,24,2004,Typhoid
 Buri Ram,65+,14,2004,Typhoid
 Chaiyaphum,65+,2,2004,Typhoid
 Nakhon Ratchasima,65+,1,2004,Typhoid
 Surin,65+,7,2004,Typhoid
-Zone 14,65+,4,2004,Typhoid
+Zone:14,65+,4,2004,Typhoid
 Amnat Charoen,65+,0,2004,Typhoid
 Si Sa Ket,65+,4,2004,Typhoid
 Ubon Ratchathani,65+,0,2004,Typhoid
 Yasothon,65+,0,2004,Typhoid
 South Region,65+,82,2004,Typhoid
-Zone 15,65+,3,2004,Typhoid
+Zone:15,65+,3,2004,Typhoid
 Chumphon,65+,1,2004,Typhoid
 Ranong,65+,0,2004,Typhoid
 Surat Thani,65+,2,2004,Typhoid
-Zone 16,65+,36,2004,Typhoid
+Zone:16,65+,36,2004,Typhoid
 Nakhon Si Thammarat,65+,34,2004,Typhoid
 Phatthalung,65+,1,2004,Typhoid
 Trang,65+,1,2004,Typhoid
-Zone 17,65+,17,2004,Typhoid
+Zone:17,65+,17,2004,Typhoid
 Krabi,65+,3,2004,Typhoid
 Phangnga,65+,14,2004,Typhoid
 Phuket,65+,0,2004,Typhoid
-Zone 18,65+,25,2004,Typhoid
+Zone:18,65+,25,2004,Typhoid
 Narathiwat,65+,7,2004,Typhoid
 Pattani,65+,5,2004,Typhoid
 Yala,65+,13,2004,Typhoid
-Zone 19,65+,1,2004,Typhoid
+Zone:19,65+,1,2004,Typhoid
 Satun,65+,1,2004,Typhoid
 Songkhla,65+,0,2004,Typhoid
 Total,Unknown,1,2004,Typhoid
 North Region,Unknown,0,2004,Typhoid
-Zone 1,Unknown,0,2004,Typhoid
+Zone:1,Unknown,0,2004,Typhoid
 Chiang Mai,Unknown,0,2004,Typhoid
 Chiang Rai,Unknown,0,2004,Typhoid
 Lampang,Unknown,0,2004,Typhoid
@@ -29394,93 +29394,93 @@ Mae Hong Son,Unknown,0,2004,Typhoid
 Nan,Unknown,0,2004,Typhoid
 Phayao,Unknown,0,2004,Typhoid
 Phrae,Unknown,0,2004,Typhoid
-Zone 2,Unknown,0,2004,Typhoid
+Zone:2,Unknown,0,2004,Typhoid
 Phetchabun,Unknown,0,2004,Typhoid
 Phitsanulok,Unknown,0,2004,Typhoid
 Sukhothai,Unknown,0,2004,Typhoid
 Tak,Unknown,0,2004,Typhoid
 Uttaradit,Unknown,0,2004,Typhoid
-Zone 3,Unknown,0,2004,Typhoid
+Zone:3,Unknown,0,2004,Typhoid
 Kamphaeng Phet,Unknown,0,2004,Typhoid
 Nakhon Sawan,Unknown,0,2004,Typhoid
 Phichit,Unknown,0,2004,Typhoid
 Uthai Thani,Unknown,0,2004,Typhoid
 Central Region,Unknown,1,2004,Typhoid
 Bangkok,Unknown,1,2004,Typhoid
-Zone 4,Unknown,0,2004,Typhoid
+Zone:4,Unknown,0,2004,Typhoid
 Ang Thong,Unknown,0,2004,Typhoid
 Nonthaburi,Unknown,0,2004,Typhoid
 P.Nakhon S.Ayutthaya,Unknown,0,2004,Typhoid
 Pathum Thani,Unknown,0,2004,Typhoid
-Zone 5,Unknown,0,2004,Typhoid
+Zone:5,Unknown,0,2004,Typhoid
 Chai Nat,Unknown,0,2004,Typhoid
 Lop Buri,Unknown,0,2004,Typhoid
 Saraburi,Unknown,0,2004,Typhoid
 Sing Buri,Unknown,0,2004,Typhoid
-Zone 6,Unknown,0,2004,Typhoid
+Zone:6,Unknown,0,2004,Typhoid
 Kanchanaburi,Unknown,0,2004,Typhoid
 Nakhon Pathom,Unknown,0,2004,Typhoid
 Ratchaburi,Unknown,0,2004,Typhoid
 Suphan Buri,Unknown,0,2004,Typhoid
-Zone 7,Unknown,0,2004,Typhoid
+Zone:7,Unknown,0,2004,Typhoid
 Phetchaburi,Unknown,0,2004,Typhoid
 Prachuap Khiri Khan,Unknown,0,2004,Typhoid
 Samut Sakhon,Unknown,0,2004,Typhoid
 Samut Songkhram,Unknown,0,2004,Typhoid
-Zone 8,Unknown,0,2004,Typhoid
+Zone:8,Unknown,0,2004,Typhoid
 Chachoengsao,Unknown,0,2004,Typhoid
 Nakhon Nayok,Unknown,0,2004,Typhoid
 Prachin Buri,Unknown,0,2004,Typhoid
 Sa Kaeo,Unknown,0,2004,Typhoid
 Samut Prakan,Unknown,0,2004,Typhoid
-Zone 9,Unknown,0,2004,Typhoid
+Zone:9,Unknown,0,2004,Typhoid
 Chanthaburi,Unknown,0,2004,Typhoid
 Chon Buri,Unknown,0,2004,Typhoid
 Rayong,Unknown,0,2004,Typhoid
 Trat,Unknown,0,2004,Typhoid
 North-Eastern Region,Unknown,0,2004,Typhoid
-Zone 10,Unknown,0,2004,Typhoid
+Zone:10,Unknown,0,2004,Typhoid
 Loei,Unknown,0,2004,Typhoid
 Nong Bua Lam Phu,Unknown,0,2004,Typhoid
 Nong Khai,Unknown,0,2004,Typhoid
 Udon Thani,Unknown,0,2004,Typhoid
-Zone 11,Unknown,0,2004,Typhoid
+Zone:11,Unknown,0,2004,Typhoid
 Kalasin,Unknown,0,2004,Typhoid
 Mukdahan,Unknown,0,2004,Typhoid
 Nakhon Phanom,Unknown,0,2004,Typhoid
 Sakon Nakhon,Unknown,0,2004,Typhoid
-Zone 12,Unknown,0,2004,Typhoid
+Zone:12,Unknown,0,2004,Typhoid
 Khon Kaen,Unknown,0,2004,Typhoid
 Maha Sarakham,Unknown,0,2004,Typhoid
 Roi Et,Unknown,0,2004,Typhoid
-Zone 13,Unknown,0,2004,Typhoid
+Zone:13,Unknown,0,2004,Typhoid
 Buri Ram,Unknown,0,2004,Typhoid
 Chaiyaphum,Unknown,0,2004,Typhoid
 Nakhon Ratchasima,Unknown,0,2004,Typhoid
 Surin,Unknown,0,2004,Typhoid
-Zone 14,Unknown,0,2004,Typhoid
+Zone:14,Unknown,0,2004,Typhoid
 Amnat Charoen,Unknown,0,2004,Typhoid
 Si Sa Ket,Unknown,0,2004,Typhoid
 Ubon Ratchathani,Unknown,0,2004,Typhoid
 Yasothon,Unknown,0,2004,Typhoid
 South Region,Unknown,0,2004,Typhoid
-Zone 15,Unknown,0,2004,Typhoid
+Zone:15,Unknown,0,2004,Typhoid
 Chumphon,Unknown,0,2004,Typhoid
 Ranong,Unknown,0,2004,Typhoid
 Surat Thani,Unknown,0,2004,Typhoid
-Zone 16,Unknown,0,2004,Typhoid
+Zone:16,Unknown,0,2004,Typhoid
 Nakhon Si Thammarat,Unknown,0,2004,Typhoid
 Phatthalung,Unknown,0,2004,Typhoid
 Trang,Unknown,0,2004,Typhoid
-Zone 17,Unknown,0,2004,Typhoid
+Zone:17,Unknown,0,2004,Typhoid
 Krabi,Unknown,0,2004,Typhoid
 Phangnga,Unknown,0,2004,Typhoid
 Phuket,Unknown,0,2004,Typhoid
-Zone 18,Unknown,0,2004,Typhoid
+Zone:18,Unknown,0,2004,Typhoid
 Narathiwat,Unknown,0,2004,Typhoid
 Pattani,Unknown,0,2004,Typhoid
 Yala,Unknown,0,2004,Typhoid
-Zone 19,Unknown,0,2004,Typhoid
+Zone:19,Unknown,0,2004,Typhoid
 Satun,Unknown,0,2004,Typhoid
 Songkhla,Unknown,0,2004,Typhoid
 Total,Total,1572,2016,Typhoid

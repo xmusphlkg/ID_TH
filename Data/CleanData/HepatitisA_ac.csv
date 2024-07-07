@@ -29161,7 +29161,7 @@ ZONE:13,Unknown,0,2016,HepatitisA
 Bangkok,Unknown,0,2016,HepatitisA
 Total,Total,391,2004,HepatitisA
 North Region,Total,178,2004,HepatitisA
-Zone 1,Total,133,2004,HepatitisA
+Zone:1,Total,133,2004,HepatitisA
 Chiang Mai,Total,23,2004,HepatitisA
 Chiang Rai,Total,63,2004,HepatitisA
 Lampang,Total,22,2004,HepatitisA
@@ -29170,98 +29170,98 @@ Mae Hong Son,Total,4,2004,HepatitisA
 Nan,Total,12,2004,HepatitisA
 Phayao,Total,6,2004,HepatitisA
 Phrae,Total,1,2004,HepatitisA
-Zone 2,Total,35,2004,HepatitisA
+Zone:2,Total,35,2004,HepatitisA
 Phetchabun,Total,0,2004,HepatitisA
 Phitsanulok,Total,6,2004,HepatitisA
 Sukhothai,Total,1,2004,HepatitisA
 Tak,Total,28,2004,HepatitisA
 Uttaradit,Total,0,2004,HepatitisA
-Zone 3,Total,10,2004,HepatitisA
+Zone:3,Total,10,2004,HepatitisA
 Kamphaeng Phet,Total,8,2004,HepatitisA
 Nakhon Sawan,Total,2,2004,HepatitisA
 Phichit,Total,0,2004,HepatitisA
 Uthai Thani,Total,0,2004,HepatitisA
 Central Region,Total,85,2004,HepatitisA
 Bangkok,Total,22,2004,HepatitisA
-Zone 4,Total,4,2004,HepatitisA
+Zone:4,Total,4,2004,HepatitisA
 Ang Thong,Total,0,2004,HepatitisA
 Nonthaburi,Total,1,2004,HepatitisA
 P.Nakhon S.Ayutthaya,Total,3,2004,HepatitisA
 Pathum Thani,Total,0,2004,HepatitisA
-Zone 5,Total,4,2004,HepatitisA
+Zone:5,Total,4,2004,HepatitisA
 Chai Nat,Total,1,2004,HepatitisA
 Lop Buri,Total,3,2004,HepatitisA
 Saraburi,Total,0,2004,HepatitisA
 Sing Buri,Total,0,2004,HepatitisA
-Zone 6,Total,17,2004,HepatitisA
+Zone:6,Total,17,2004,HepatitisA
 Kanchanaburi,Total,1,2004,HepatitisA
 Nakhon Pathom,Total,6,2004,HepatitisA
 Ratchaburi,Total,5,2004,HepatitisA
 Suphan Buri,Total,5,2004,HepatitisA
-Zone 7,Total,2,2004,HepatitisA
+Zone:7,Total,2,2004,HepatitisA
 Phetchaburi,Total,1,2004,HepatitisA
 Prachuap Khiri Khan,Total,0,2004,HepatitisA
 Samut Sakhon,Total,0,2004,HepatitisA
 Samut Songkhram,Total,1,2004,HepatitisA
-Zone 8,Total,6,2004,HepatitisA
+Zone:8,Total,6,2004,HepatitisA
 Chachoengsao,Total,2,2004,HepatitisA
 Nakhon Nayok,Total,1,2004,HepatitisA
 Prachin Buri,Total,1,2004,HepatitisA
 Sa Kaeo,Total,2,2004,HepatitisA
 Samut Prakan,Total,0,2004,HepatitisA
-Zone 9,Total,30,2004,HepatitisA
+Zone:9,Total,30,2004,HepatitisA
 Chanthaburi,Total,8,2004,HepatitisA
 Chon Buri,Total,15,2004,HepatitisA
 Rayong,Total,4,2004,HepatitisA
 Trat,Total,3,2004,HepatitisA
 North-Eastern Region,Total,50,2004,HepatitisA
-Zone 10,Total,8,2004,HepatitisA
+Zone:10,Total,8,2004,HepatitisA
 Loei,Total,2,2004,HepatitisA
 Nong Bua Lam Phu,Total,4,2004,HepatitisA
 Nong Khai,Total,2,2004,HepatitisA
 Udon Thani,Total,0,2004,HepatitisA
-Zone 11,Total,7,2004,HepatitisA
+Zone:11,Total,7,2004,HepatitisA
 Kalasin,Total,4,2004,HepatitisA
 Mukdahan,Total,0,2004,HepatitisA
 Nakhon Phanom,Total,2,2004,HepatitisA
 Sakon Nakhon,Total,1,2004,HepatitisA
-Zone 12,Total,5,2004,HepatitisA
+Zone:12,Total,5,2004,HepatitisA
 Khon Kaen,Total,4,2004,HepatitisA
 Maha Sarakham,Total,1,2004,HepatitisA
 Roi Et,Total,0,2004,HepatitisA
-Zone 13,Total,21,2004,HepatitisA
+Zone:13,Total,21,2004,HepatitisA
 Buri Ram,Total,7,2004,HepatitisA
 Chaiyaphum,Total,7,2004,HepatitisA
 Nakhon Ratchasima,Total,3,2004,HepatitisA
 Surin,Total,4,2004,HepatitisA
-Zone 14,Total,9,2004,HepatitisA
+Zone:14,Total,9,2004,HepatitisA
 Amnat Charoen,Total,5,2004,HepatitisA
 Si Sa Ket,Total,1,2004,HepatitisA
 Ubon Ratchathani,Total,3,2004,HepatitisA
 Yasothon,Total,0,2004,HepatitisA
 South Region,Total,78,2004,HepatitisA
-Zone 15,Total,13,2004,HepatitisA
+Zone:15,Total,13,2004,HepatitisA
 Chumphon,Total,0,2004,HepatitisA
 Ranong,Total,0,2004,HepatitisA
 Surat Thani,Total,13,2004,HepatitisA
-Zone 16,Total,2,2004,HepatitisA
+Zone:16,Total,2,2004,HepatitisA
 Nakhon Si Thammarat,Total,2,2004,HepatitisA
 Phatthalung,Total,0,2004,HepatitisA
 Trang,Total,0,2004,HepatitisA
-Zone 17,Total,5,2004,HepatitisA
+Zone:17,Total,5,2004,HepatitisA
 Krabi,Total,3,2004,HepatitisA
 Phangnga,Total,0,2004,HepatitisA
 Phuket,Total,2,2004,HepatitisA
-Zone 18,Total,36,2004,HepatitisA
+Zone:18,Total,36,2004,HepatitisA
 Narathiwat,Total,14,2004,HepatitisA
 Pattani,Total,8,2004,HepatitisA
 Yala,Total,14,2004,HepatitisA
-Zone 19,Total,22,2004,HepatitisA
+Zone:19,Total,22,2004,HepatitisA
 Satun,Total,0,2004,HepatitisA
 Songkhla,Total,22,2004,HepatitisA
 Total,0,1,2004,HepatitisA
 North Region,0,0,2004,HepatitisA
-Zone 1,0,0,2004,HepatitisA
+Zone:1,0,0,2004,HepatitisA
 Chiang Mai,0,0,2004,HepatitisA
 Chiang Rai,0,0,2004,HepatitisA
 Lampang,0,0,2004,HepatitisA
@@ -29270,98 +29270,98 @@ Mae Hong Son,0,0,2004,HepatitisA
 Nan,0,0,2004,HepatitisA
 Phayao,0,0,2004,HepatitisA
 Phrae,0,0,2004,HepatitisA
-Zone 2,0,0,2004,HepatitisA
+Zone:2,0,0,2004,HepatitisA
 Phetchabun,0,0,2004,HepatitisA
 Phitsanulok,0,0,2004,HepatitisA
 Sukhothai,0,0,2004,HepatitisA
 Tak,0,0,2004,HepatitisA
 Uttaradit,0,0,2004,HepatitisA
-Zone 3,0,0,2004,HepatitisA
+Zone:3,0,0,2004,HepatitisA
 Kamphaeng Phet,0,0,2004,HepatitisA
 Nakhon Sawan,0,0,2004,HepatitisA
 Phichit,0,0,2004,HepatitisA
 Uthai Thani,0,0,2004,HepatitisA
 Central Region,0,0,2004,HepatitisA
 Bangkok,0,0,2004,HepatitisA
-Zone 4,0,0,2004,HepatitisA
+Zone:4,0,0,2004,HepatitisA
 Ang Thong,0,0,2004,HepatitisA
 Nonthaburi,0,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,0,0,2004,HepatitisA
 Pathum Thani,0,0,2004,HepatitisA
-Zone 5,0,0,2004,HepatitisA
+Zone:5,0,0,2004,HepatitisA
 Chai Nat,0,0,2004,HepatitisA
 Lop Buri,0,0,2004,HepatitisA
 Saraburi,0,0,2004,HepatitisA
 Sing Buri,0,0,2004,HepatitisA
-Zone 6,0,0,2004,HepatitisA
+Zone:6,0,0,2004,HepatitisA
 Kanchanaburi,0,0,2004,HepatitisA
 Nakhon Pathom,0,0,2004,HepatitisA
 Ratchaburi,0,0,2004,HepatitisA
 Suphan Buri,0,0,2004,HepatitisA
-Zone 7,0,0,2004,HepatitisA
+Zone:7,0,0,2004,HepatitisA
 Phetchaburi,0,0,2004,HepatitisA
 Prachuap Khiri Khan,0,0,2004,HepatitisA
 Samut Sakhon,0,0,2004,HepatitisA
 Samut Songkhram,0,0,2004,HepatitisA
-Zone 8,0,0,2004,HepatitisA
+Zone:8,0,0,2004,HepatitisA
 Chachoengsao,0,0,2004,HepatitisA
 Nakhon Nayok,0,0,2004,HepatitisA
 Prachin Buri,0,0,2004,HepatitisA
 Sa Kaeo,0,0,2004,HepatitisA
 Samut Prakan,0,0,2004,HepatitisA
-Zone 9,0,0,2004,HepatitisA
+Zone:9,0,0,2004,HepatitisA
 Chanthaburi,0,0,2004,HepatitisA
 Chon Buri,0,0,2004,HepatitisA
 Rayong,0,0,2004,HepatitisA
 Trat,0,0,2004,HepatitisA
 North-Eastern Region,0,0,2004,HepatitisA
-Zone 10,0,0,2004,HepatitisA
+Zone:10,0,0,2004,HepatitisA
 Loei,0,0,2004,HepatitisA
 Nong Bua Lam Phu,0,0,2004,HepatitisA
 Nong Khai,0,0,2004,HepatitisA
 Udon Thani,0,0,2004,HepatitisA
-Zone 11,0,0,2004,HepatitisA
+Zone:11,0,0,2004,HepatitisA
 Kalasin,0,0,2004,HepatitisA
 Mukdahan,0,0,2004,HepatitisA
 Nakhon Phanom,0,0,2004,HepatitisA
 Sakon Nakhon,0,0,2004,HepatitisA
-Zone 12,0,0,2004,HepatitisA
+Zone:12,0,0,2004,HepatitisA
 Khon Kaen,0,0,2004,HepatitisA
 Maha Sarakham,0,0,2004,HepatitisA
 Roi Et,0,0,2004,HepatitisA
-Zone 13,0,0,2004,HepatitisA
+Zone:13,0,0,2004,HepatitisA
 Buri Ram,0,0,2004,HepatitisA
 Chaiyaphum,0,0,2004,HepatitisA
 Nakhon Ratchasima,0,0,2004,HepatitisA
 Surin,0,0,2004,HepatitisA
-Zone 14,0,0,2004,HepatitisA
+Zone:14,0,0,2004,HepatitisA
 Amnat Charoen,0,0,2004,HepatitisA
 Si Sa Ket,0,0,2004,HepatitisA
 Ubon Ratchathani,0,0,2004,HepatitisA
 Yasothon,0,0,2004,HepatitisA
 South Region,0,1,2004,HepatitisA
-Zone 15,0,1,2004,HepatitisA
+Zone:15,0,1,2004,HepatitisA
 Chumphon,0,0,2004,HepatitisA
 Ranong,0,0,2004,HepatitisA
 Surat Thani,0,1,2004,HepatitisA
-Zone 16,0,0,2004,HepatitisA
+Zone:16,0,0,2004,HepatitisA
 Nakhon Si Thammarat,0,0,2004,HepatitisA
 Phatthalung,0,0,2004,HepatitisA
 Trang,0,0,2004,HepatitisA
-Zone 17,0,0,2004,HepatitisA
+Zone:17,0,0,2004,HepatitisA
 Krabi,0,0,2004,HepatitisA
 Phangnga,0,0,2004,HepatitisA
 Phuket,0,0,2004,HepatitisA
-Zone 18,0,0,2004,HepatitisA
+Zone:18,0,0,2004,HepatitisA
 Narathiwat,0,0,2004,HepatitisA
 Pattani,0,0,2004,HepatitisA
 Yala,0,0,2004,HepatitisA
-Zone 19,0,0,2004,HepatitisA
+Zone:19,0,0,2004,HepatitisA
 Satun,0,0,2004,HepatitisA
 Songkhla,0,0,2004,HepatitisA
 Total,<1,3,2004,HepatitisA
 North Region,<1,1,2004,HepatitisA
-Zone 1,<1,1,2004,HepatitisA
+Zone:1,<1,1,2004,HepatitisA
 Chiang Mai,<1,0,2004,HepatitisA
 Chiang Rai,<1,1,2004,HepatitisA
 Lampang,<1,0,2004,HepatitisA
@@ -29370,98 +29370,98 @@ Mae Hong Son,<1,0,2004,HepatitisA
 Nan,<1,0,2004,HepatitisA
 Phayao,<1,0,2004,HepatitisA
 Phrae,<1,0,2004,HepatitisA
-Zone 2,<1,0,2004,HepatitisA
+Zone:2,<1,0,2004,HepatitisA
 Phetchabun,<1,0,2004,HepatitisA
 Phitsanulok,<1,0,2004,HepatitisA
 Sukhothai,<1,0,2004,HepatitisA
 Tak,<1,0,2004,HepatitisA
 Uttaradit,<1,0,2004,HepatitisA
-Zone 3,<1,0,2004,HepatitisA
+Zone:3,<1,0,2004,HepatitisA
 Kamphaeng Phet,<1,0,2004,HepatitisA
 Nakhon Sawan,<1,0,2004,HepatitisA
 Phichit,<1,0,2004,HepatitisA
 Uthai Thani,<1,0,2004,HepatitisA
 Central Region,<1,2,2004,HepatitisA
 Bangkok,<1,0,2004,HepatitisA
-Zone 4,<1,0,2004,HepatitisA
+Zone:4,<1,0,2004,HepatitisA
 Ang Thong,<1,0,2004,HepatitisA
 Nonthaburi,<1,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,<1,0,2004,HepatitisA
 Pathum Thani,<1,0,2004,HepatitisA
-Zone 5,<1,0,2004,HepatitisA
+Zone:5,<1,0,2004,HepatitisA
 Chai Nat,<1,0,2004,HepatitisA
 Lop Buri,<1,0,2004,HepatitisA
 Saraburi,<1,0,2004,HepatitisA
 Sing Buri,<1,0,2004,HepatitisA
-Zone 6,<1,0,2004,HepatitisA
+Zone:6,<1,0,2004,HepatitisA
 Kanchanaburi,<1,0,2004,HepatitisA
 Nakhon Pathom,<1,0,2004,HepatitisA
 Ratchaburi,<1,0,2004,HepatitisA
 Suphan Buri,<1,0,2004,HepatitisA
-Zone 7,<1,1,2004,HepatitisA
+Zone:7,<1,1,2004,HepatitisA
 Phetchaburi,<1,0,2004,HepatitisA
 Prachuap Khiri Khan,<1,0,2004,HepatitisA
 Samut Sakhon,<1,0,2004,HepatitisA
 Samut Songkhram,<1,1,2004,HepatitisA
-Zone 8,<1,0,2004,HepatitisA
+Zone:8,<1,0,2004,HepatitisA
 Chachoengsao,<1,0,2004,HepatitisA
 Nakhon Nayok,<1,0,2004,HepatitisA
 Prachin Buri,<1,0,2004,HepatitisA
 Sa Kaeo,<1,0,2004,HepatitisA
 Samut Prakan,<1,0,2004,HepatitisA
-Zone 9,<1,1,2004,HepatitisA
+Zone:9,<1,1,2004,HepatitisA
 Chanthaburi,<1,1,2004,HepatitisA
 Chon Buri,<1,0,2004,HepatitisA
 Rayong,<1,0,2004,HepatitisA
 Trat,<1,0,2004,HepatitisA
 North-Eastern Region,<1,0,2004,HepatitisA
-Zone 10,<1,0,2004,HepatitisA
+Zone:10,<1,0,2004,HepatitisA
 Loei,<1,0,2004,HepatitisA
 Nong Bua Lam Phu,<1,0,2004,HepatitisA
 Nong Khai,<1,0,2004,HepatitisA
 Udon Thani,<1,0,2004,HepatitisA
-Zone 11,<1,0,2004,HepatitisA
+Zone:11,<1,0,2004,HepatitisA
 Kalasin,<1,0,2004,HepatitisA
 Mukdahan,<1,0,2004,HepatitisA
 Nakhon Phanom,<1,0,2004,HepatitisA
 Sakon Nakhon,<1,0,2004,HepatitisA
-Zone 12,<1,0,2004,HepatitisA
+Zone:12,<1,0,2004,HepatitisA
 Khon Kaen,<1,0,2004,HepatitisA
 Maha Sarakham,<1,0,2004,HepatitisA
 Roi Et,<1,0,2004,HepatitisA
-Zone 13,<1,0,2004,HepatitisA
+Zone:13,<1,0,2004,HepatitisA
 Buri Ram,<1,0,2004,HepatitisA
 Chaiyaphum,<1,0,2004,HepatitisA
 Nakhon Ratchasima,<1,0,2004,HepatitisA
 Surin,<1,0,2004,HepatitisA
-Zone 14,<1,0,2004,HepatitisA
+Zone:14,<1,0,2004,HepatitisA
 Amnat Charoen,<1,0,2004,HepatitisA
 Si Sa Ket,<1,0,2004,HepatitisA
 Ubon Ratchathani,<1,0,2004,HepatitisA
 Yasothon,<1,0,2004,HepatitisA
 South Region,<1,0,2004,HepatitisA
-Zone 15,<1,0,2004,HepatitisA
+Zone:15,<1,0,2004,HepatitisA
 Chumphon,<1,0,2004,HepatitisA
 Ranong,<1,0,2004,HepatitisA
 Surat Thani,<1,0,2004,HepatitisA
-Zone 16,<1,0,2004,HepatitisA
+Zone:16,<1,0,2004,HepatitisA
 Nakhon Si Thammarat,<1,0,2004,HepatitisA
 Phatthalung,<1,0,2004,HepatitisA
 Trang,<1,0,2004,HepatitisA
-Zone 17,<1,0,2004,HepatitisA
+Zone:17,<1,0,2004,HepatitisA
 Krabi,<1,0,2004,HepatitisA
 Phangnga,<1,0,2004,HepatitisA
 Phuket,<1,0,2004,HepatitisA
-Zone 18,<1,0,2004,HepatitisA
+Zone:18,<1,0,2004,HepatitisA
 Narathiwat,<1,0,2004,HepatitisA
 Pattani,<1,0,2004,HepatitisA
 Yala,<1,0,2004,HepatitisA
-Zone 19,<1,0,2004,HepatitisA
+Zone:19,<1,0,2004,HepatitisA
 Satun,<1,0,2004,HepatitisA
 Songkhla,<1,0,2004,HepatitisA
 Total,1-1,2,2004,HepatitisA
 North Region,1-1,1,2004,HepatitisA
-Zone 1,1-1,1,2004,HepatitisA
+Zone:1,1-1,1,2004,HepatitisA
 Chiang Mai,1-1,0,2004,HepatitisA
 Chiang Rai,1-1,1,2004,HepatitisA
 Lampang,1-1,0,2004,HepatitisA
@@ -29470,98 +29470,98 @@ Mae Hong Son,1-1,0,2004,HepatitisA
 Nan,1-1,0,2004,HepatitisA
 Phayao,1-1,0,2004,HepatitisA
 Phrae,1-1,0,2004,HepatitisA
-Zone 2,1-1,0,2004,HepatitisA
+Zone:2,1-1,0,2004,HepatitisA
 Phetchabun,1-1,0,2004,HepatitisA
 Phitsanulok,1-1,0,2004,HepatitisA
 Sukhothai,1-1,0,2004,HepatitisA
 Tak,1-1,0,2004,HepatitisA
 Uttaradit,1-1,0,2004,HepatitisA
-Zone 3,1-1,0,2004,HepatitisA
+Zone:3,1-1,0,2004,HepatitisA
 Kamphaeng Phet,1-1,0,2004,HepatitisA
 Nakhon Sawan,1-1,0,2004,HepatitisA
 Phichit,1-1,0,2004,HepatitisA
 Uthai Thani,1-1,0,2004,HepatitisA
 Central Region,1-1,1,2004,HepatitisA
 Bangkok,1-1,0,2004,HepatitisA
-Zone 4,1-1,0,2004,HepatitisA
+Zone:4,1-1,0,2004,HepatitisA
 Ang Thong,1-1,0,2004,HepatitisA
 Nonthaburi,1-1,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,1-1,0,2004,HepatitisA
 Pathum Thani,1-1,0,2004,HepatitisA
-Zone 5,1-1,0,2004,HepatitisA
+Zone:5,1-1,0,2004,HepatitisA
 Chai Nat,1-1,0,2004,HepatitisA
 Lop Buri,1-1,0,2004,HepatitisA
 Saraburi,1-1,0,2004,HepatitisA
 Sing Buri,1-1,0,2004,HepatitisA
-Zone 6,1-1,0,2004,HepatitisA
+Zone:6,1-1,0,2004,HepatitisA
 Kanchanaburi,1-1,0,2004,HepatitisA
 Nakhon Pathom,1-1,0,2004,HepatitisA
 Ratchaburi,1-1,0,2004,HepatitisA
 Suphan Buri,1-1,0,2004,HepatitisA
-Zone 7,1-1,0,2004,HepatitisA
+Zone:7,1-1,0,2004,HepatitisA
 Phetchaburi,1-1,0,2004,HepatitisA
 Prachuap Khiri Khan,1-1,0,2004,HepatitisA
 Samut Sakhon,1-1,0,2004,HepatitisA
 Samut Songkhram,1-1,0,2004,HepatitisA
-Zone 8,1-1,1,2004,HepatitisA
+Zone:8,1-1,1,2004,HepatitisA
 Chachoengsao,1-1,0,2004,HepatitisA
 Nakhon Nayok,1-1,0,2004,HepatitisA
 Prachin Buri,1-1,1,2004,HepatitisA
 Sa Kaeo,1-1,0,2004,HepatitisA
 Samut Prakan,1-1,0,2004,HepatitisA
-Zone 9,1-1,0,2004,HepatitisA
+Zone:9,1-1,0,2004,HepatitisA
 Chanthaburi,1-1,0,2004,HepatitisA
 Chon Buri,1-1,0,2004,HepatitisA
 Rayong,1-1,0,2004,HepatitisA
 Trat,1-1,0,2004,HepatitisA
 North-Eastern Region,1-1,0,2004,HepatitisA
-Zone 10,1-1,0,2004,HepatitisA
+Zone:10,1-1,0,2004,HepatitisA
 Loei,1-1,0,2004,HepatitisA
 Nong Bua Lam Phu,1-1,0,2004,HepatitisA
 Nong Khai,1-1,0,2004,HepatitisA
 Udon Thani,1-1,0,2004,HepatitisA
-Zone 11,1-1,0,2004,HepatitisA
+Zone:11,1-1,0,2004,HepatitisA
 Kalasin,1-1,0,2004,HepatitisA
 Mukdahan,1-1,0,2004,HepatitisA
 Nakhon Phanom,1-1,0,2004,HepatitisA
 Sakon Nakhon,1-1,0,2004,HepatitisA
-Zone 12,1-1,0,2004,HepatitisA
+Zone:12,1-1,0,2004,HepatitisA
 Khon Kaen,1-1,0,2004,HepatitisA
 Maha Sarakham,1-1,0,2004,HepatitisA
 Roi Et,1-1,0,2004,HepatitisA
-Zone 13,1-1,0,2004,HepatitisA
+Zone:13,1-1,0,2004,HepatitisA
 Buri Ram,1-1,0,2004,HepatitisA
 Chaiyaphum,1-1,0,2004,HepatitisA
 Nakhon Ratchasima,1-1,0,2004,HepatitisA
 Surin,1-1,0,2004,HepatitisA
-Zone 14,1-1,0,2004,HepatitisA
+Zone:14,1-1,0,2004,HepatitisA
 Amnat Charoen,1-1,0,2004,HepatitisA
 Si Sa Ket,1-1,0,2004,HepatitisA
 Ubon Ratchathani,1-1,0,2004,HepatitisA
 Yasothon,1-1,0,2004,HepatitisA
 South Region,1-1,0,2004,HepatitisA
-Zone 15,1-1,0,2004,HepatitisA
+Zone:15,1-1,0,2004,HepatitisA
 Chumphon,1-1,0,2004,HepatitisA
 Ranong,1-1,0,2004,HepatitisA
 Surat Thani,1-1,0,2004,HepatitisA
-Zone 16,1-1,0,2004,HepatitisA
+Zone:16,1-1,0,2004,HepatitisA
 Nakhon Si Thammarat,1-1,0,2004,HepatitisA
 Phatthalung,1-1,0,2004,HepatitisA
 Trang,1-1,0,2004,HepatitisA
-Zone 17,1-1,0,2004,HepatitisA
+Zone:17,1-1,0,2004,HepatitisA
 Krabi,1-1,0,2004,HepatitisA
 Phangnga,1-1,0,2004,HepatitisA
 Phuket,1-1,0,2004,HepatitisA
-Zone 18,1-1,0,2004,HepatitisA
+Zone:18,1-1,0,2004,HepatitisA
 Narathiwat,1-1,0,2004,HepatitisA
 Pattani,1-1,0,2004,HepatitisA
 Yala,1-1,0,2004,HepatitisA
-Zone 19,1-1,0,2004,HepatitisA
+Zone:19,1-1,0,2004,HepatitisA
 Satun,1-1,0,2004,HepatitisA
 Songkhla,1-1,0,2004,HepatitisA
 Total,2-2,1,2004,HepatitisA
 North Region,2-2,0,2004,HepatitisA
-Zone 1,2-2,0,2004,HepatitisA
+Zone:1,2-2,0,2004,HepatitisA
 Chiang Mai,2-2,0,2004,HepatitisA
 Chiang Rai,2-2,0,2004,HepatitisA
 Lampang,2-2,0,2004,HepatitisA
@@ -29570,98 +29570,98 @@ Mae Hong Son,2-2,0,2004,HepatitisA
 Nan,2-2,0,2004,HepatitisA
 Phayao,2-2,0,2004,HepatitisA
 Phrae,2-2,0,2004,HepatitisA
-Zone 2,2-2,0,2004,HepatitisA
+Zone:2,2-2,0,2004,HepatitisA
 Phetchabun,2-2,0,2004,HepatitisA
 Phitsanulok,2-2,0,2004,HepatitisA
 Sukhothai,2-2,0,2004,HepatitisA
 Tak,2-2,0,2004,HepatitisA
 Uttaradit,2-2,0,2004,HepatitisA
-Zone 3,2-2,0,2004,HepatitisA
+Zone:3,2-2,0,2004,HepatitisA
 Kamphaeng Phet,2-2,0,2004,HepatitisA
 Nakhon Sawan,2-2,0,2004,HepatitisA
 Phichit,2-2,0,2004,HepatitisA
 Uthai Thani,2-2,0,2004,HepatitisA
 Central Region,2-2,0,2004,HepatitisA
 Bangkok,2-2,0,2004,HepatitisA
-Zone 4,2-2,0,2004,HepatitisA
+Zone:4,2-2,0,2004,HepatitisA
 Ang Thong,2-2,0,2004,HepatitisA
 Nonthaburi,2-2,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,2-2,0,2004,HepatitisA
 Pathum Thani,2-2,0,2004,HepatitisA
-Zone 5,2-2,0,2004,HepatitisA
+Zone:5,2-2,0,2004,HepatitisA
 Chai Nat,2-2,0,2004,HepatitisA
 Lop Buri,2-2,0,2004,HepatitisA
 Saraburi,2-2,0,2004,HepatitisA
 Sing Buri,2-2,0,2004,HepatitisA
-Zone 6,2-2,0,2004,HepatitisA
+Zone:6,2-2,0,2004,HepatitisA
 Kanchanaburi,2-2,0,2004,HepatitisA
 Nakhon Pathom,2-2,0,2004,HepatitisA
 Ratchaburi,2-2,0,2004,HepatitisA
 Suphan Buri,2-2,0,2004,HepatitisA
-Zone 7,2-2,0,2004,HepatitisA
+Zone:7,2-2,0,2004,HepatitisA
 Phetchaburi,2-2,0,2004,HepatitisA
 Prachuap Khiri Khan,2-2,0,2004,HepatitisA
 Samut Sakhon,2-2,0,2004,HepatitisA
 Samut Songkhram,2-2,0,2004,HepatitisA
-Zone 8,2-2,0,2004,HepatitisA
+Zone:8,2-2,0,2004,HepatitisA
 Chachoengsao,2-2,0,2004,HepatitisA
 Nakhon Nayok,2-2,0,2004,HepatitisA
 Prachin Buri,2-2,0,2004,HepatitisA
 Sa Kaeo,2-2,0,2004,HepatitisA
 Samut Prakan,2-2,0,2004,HepatitisA
-Zone 9,2-2,0,2004,HepatitisA
+Zone:9,2-2,0,2004,HepatitisA
 Chanthaburi,2-2,0,2004,HepatitisA
 Chon Buri,2-2,0,2004,HepatitisA
 Rayong,2-2,0,2004,HepatitisA
 Trat,2-2,0,2004,HepatitisA
 North-Eastern Region,2-2,0,2004,HepatitisA
-Zone 10,2-2,0,2004,HepatitisA
+Zone:10,2-2,0,2004,HepatitisA
 Loei,2-2,0,2004,HepatitisA
 Nong Bua Lam Phu,2-2,0,2004,HepatitisA
 Nong Khai,2-2,0,2004,HepatitisA
 Udon Thani,2-2,0,2004,HepatitisA
-Zone 11,2-2,0,2004,HepatitisA
+Zone:11,2-2,0,2004,HepatitisA
 Kalasin,2-2,0,2004,HepatitisA
 Mukdahan,2-2,0,2004,HepatitisA
 Nakhon Phanom,2-2,0,2004,HepatitisA
 Sakon Nakhon,2-2,0,2004,HepatitisA
-Zone 12,2-2,0,2004,HepatitisA
+Zone:12,2-2,0,2004,HepatitisA
 Khon Kaen,2-2,0,2004,HepatitisA
 Maha Sarakham,2-2,0,2004,HepatitisA
 Roi Et,2-2,0,2004,HepatitisA
-Zone 13,2-2,0,2004,HepatitisA
+Zone:13,2-2,0,2004,HepatitisA
 Buri Ram,2-2,0,2004,HepatitisA
 Chaiyaphum,2-2,0,2004,HepatitisA
 Nakhon Ratchasima,2-2,0,2004,HepatitisA
 Surin,2-2,0,2004,HepatitisA
-Zone 14,2-2,0,2004,HepatitisA
+Zone:14,2-2,0,2004,HepatitisA
 Amnat Charoen,2-2,0,2004,HepatitisA
 Si Sa Ket,2-2,0,2004,HepatitisA
 Ubon Ratchathani,2-2,0,2004,HepatitisA
 Yasothon,2-2,0,2004,HepatitisA
 South Region,2-2,1,2004,HepatitisA
-Zone 15,2-2,0,2004,HepatitisA
+Zone:15,2-2,0,2004,HepatitisA
 Chumphon,2-2,0,2004,HepatitisA
 Ranong,2-2,0,2004,HepatitisA
 Surat Thani,2-2,0,2004,HepatitisA
-Zone 16,2-2,0,2004,HepatitisA
+Zone:16,2-2,0,2004,HepatitisA
 Nakhon Si Thammarat,2-2,0,2004,HepatitisA
 Phatthalung,2-2,0,2004,HepatitisA
 Trang,2-2,0,2004,HepatitisA
-Zone 17,2-2,0,2004,HepatitisA
+Zone:17,2-2,0,2004,HepatitisA
 Krabi,2-2,0,2004,HepatitisA
 Phangnga,2-2,0,2004,HepatitisA
 Phuket,2-2,0,2004,HepatitisA
-Zone 18,2-2,1,2004,HepatitisA
+Zone:18,2-2,1,2004,HepatitisA
 Narathiwat,2-2,0,2004,HepatitisA
 Pattani,2-2,0,2004,HepatitisA
 Yala,2-2,1,2004,HepatitisA
-Zone 19,2-2,0,2004,HepatitisA
+Zone:19,2-2,0,2004,HepatitisA
 Satun,2-2,0,2004,HepatitisA
 Songkhla,2-2,0,2004,HepatitisA
 Total,3-3,4,2004,HepatitisA
 North Region,3-3,2,2004,HepatitisA
-Zone 1,3-3,2,2004,HepatitisA
+Zone:1,3-3,2,2004,HepatitisA
 Chiang Mai,3-3,0,2004,HepatitisA
 Chiang Rai,3-3,2,2004,HepatitisA
 Lampang,3-3,0,2004,HepatitisA
@@ -29670,98 +29670,98 @@ Mae Hong Son,3-3,0,2004,HepatitisA
 Nan,3-3,0,2004,HepatitisA
 Phayao,3-3,0,2004,HepatitisA
 Phrae,3-3,0,2004,HepatitisA
-Zone 2,3-3,0,2004,HepatitisA
+Zone:2,3-3,0,2004,HepatitisA
 Phetchabun,3-3,0,2004,HepatitisA
 Phitsanulok,3-3,0,2004,HepatitisA
 Sukhothai,3-3,0,2004,HepatitisA
 Tak,3-3,0,2004,HepatitisA
 Uttaradit,3-3,0,2004,HepatitisA
-Zone 3,3-3,0,2004,HepatitisA
+Zone:3,3-3,0,2004,HepatitisA
 Kamphaeng Phet,3-3,0,2004,HepatitisA
 Nakhon Sawan,3-3,0,2004,HepatitisA
 Phichit,3-3,0,2004,HepatitisA
 Uthai Thani,3-3,0,2004,HepatitisA
 Central Region,3-3,0,2004,HepatitisA
 Bangkok,3-3,0,2004,HepatitisA
-Zone 4,3-3,0,2004,HepatitisA
+Zone:4,3-3,0,2004,HepatitisA
 Ang Thong,3-3,0,2004,HepatitisA
 Nonthaburi,3-3,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,3-3,0,2004,HepatitisA
 Pathum Thani,3-3,0,2004,HepatitisA
-Zone 5,3-3,0,2004,HepatitisA
+Zone:5,3-3,0,2004,HepatitisA
 Chai Nat,3-3,0,2004,HepatitisA
 Lop Buri,3-3,0,2004,HepatitisA
 Saraburi,3-3,0,2004,HepatitisA
 Sing Buri,3-3,0,2004,HepatitisA
-Zone 6,3-3,0,2004,HepatitisA
+Zone:6,3-3,0,2004,HepatitisA
 Kanchanaburi,3-3,0,2004,HepatitisA
 Nakhon Pathom,3-3,0,2004,HepatitisA
 Ratchaburi,3-3,0,2004,HepatitisA
 Suphan Buri,3-3,0,2004,HepatitisA
-Zone 7,3-3,0,2004,HepatitisA
+Zone:7,3-3,0,2004,HepatitisA
 Phetchaburi,3-3,0,2004,HepatitisA
 Prachuap Khiri Khan,3-3,0,2004,HepatitisA
 Samut Sakhon,3-3,0,2004,HepatitisA
 Samut Songkhram,3-3,0,2004,HepatitisA
-Zone 8,3-3,0,2004,HepatitisA
+Zone:8,3-3,0,2004,HepatitisA
 Chachoengsao,3-3,0,2004,HepatitisA
 Nakhon Nayok,3-3,0,2004,HepatitisA
 Prachin Buri,3-3,0,2004,HepatitisA
 Sa Kaeo,3-3,0,2004,HepatitisA
 Samut Prakan,3-3,0,2004,HepatitisA
-Zone 9,3-3,0,2004,HepatitisA
+Zone:9,3-3,0,2004,HepatitisA
 Chanthaburi,3-3,0,2004,HepatitisA
 Chon Buri,3-3,0,2004,HepatitisA
 Rayong,3-3,0,2004,HepatitisA
 Trat,3-3,0,2004,HepatitisA
 North-Eastern Region,3-3,0,2004,HepatitisA
-Zone 10,3-3,0,2004,HepatitisA
+Zone:10,3-3,0,2004,HepatitisA
 Loei,3-3,0,2004,HepatitisA
 Nong Bua Lam Phu,3-3,0,2004,HepatitisA
 Nong Khai,3-3,0,2004,HepatitisA
 Udon Thani,3-3,0,2004,HepatitisA
-Zone 11,3-3,0,2004,HepatitisA
+Zone:11,3-3,0,2004,HepatitisA
 Kalasin,3-3,0,2004,HepatitisA
 Mukdahan,3-3,0,2004,HepatitisA
 Nakhon Phanom,3-3,0,2004,HepatitisA
 Sakon Nakhon,3-3,0,2004,HepatitisA
-Zone 12,3-3,0,2004,HepatitisA
+Zone:12,3-3,0,2004,HepatitisA
 Khon Kaen,3-3,0,2004,HepatitisA
 Maha Sarakham,3-3,0,2004,HepatitisA
 Roi Et,3-3,0,2004,HepatitisA
-Zone 13,3-3,0,2004,HepatitisA
+Zone:13,3-3,0,2004,HepatitisA
 Buri Ram,3-3,0,2004,HepatitisA
 Chaiyaphum,3-3,0,2004,HepatitisA
 Nakhon Ratchasima,3-3,0,2004,HepatitisA
 Surin,3-3,0,2004,HepatitisA
-Zone 14,3-3,0,2004,HepatitisA
+Zone:14,3-3,0,2004,HepatitisA
 Amnat Charoen,3-3,0,2004,HepatitisA
 Si Sa Ket,3-3,0,2004,HepatitisA
 Ubon Ratchathani,3-3,0,2004,HepatitisA
 Yasothon,3-3,0,2004,HepatitisA
 South Region,3-3,2,2004,HepatitisA
-Zone 15,3-3,0,2004,HepatitisA
+Zone:15,3-3,0,2004,HepatitisA
 Chumphon,3-3,0,2004,HepatitisA
 Ranong,3-3,0,2004,HepatitisA
 Surat Thani,3-3,0,2004,HepatitisA
-Zone 16,3-3,0,2004,HepatitisA
+Zone:16,3-3,0,2004,HepatitisA
 Nakhon Si Thammarat,3-3,0,2004,HepatitisA
 Phatthalung,3-3,0,2004,HepatitisA
 Trang,3-3,0,2004,HepatitisA
-Zone 17,3-3,0,2004,HepatitisA
+Zone:17,3-3,0,2004,HepatitisA
 Krabi,3-3,0,2004,HepatitisA
 Phangnga,3-3,0,2004,HepatitisA
 Phuket,3-3,0,2004,HepatitisA
-Zone 18,3-3,2,2004,HepatitisA
+Zone:18,3-3,2,2004,HepatitisA
 Narathiwat,3-3,1,2004,HepatitisA
 Pattani,3-3,1,2004,HepatitisA
 Yala,3-3,0,2004,HepatitisA
-Zone 19,3-3,0,2004,HepatitisA
+Zone:19,3-3,0,2004,HepatitisA
 Satun,3-3,0,2004,HepatitisA
 Songkhla,3-3,0,2004,HepatitisA
 Total,4-4,2,2004,HepatitisA
 North Region,4-4,0,2004,HepatitisA
-Zone 1,4-4,0,2004,HepatitisA
+Zone:1,4-4,0,2004,HepatitisA
 Chiang Mai,4-4,0,2004,HepatitisA
 Chiang Rai,4-4,0,2004,HepatitisA
 Lampang,4-4,0,2004,HepatitisA
@@ -29770,98 +29770,98 @@ Mae Hong Son,4-4,0,2004,HepatitisA
 Nan,4-4,0,2004,HepatitisA
 Phayao,4-4,0,2004,HepatitisA
 Phrae,4-4,0,2004,HepatitisA
-Zone 2,4-4,0,2004,HepatitisA
+Zone:2,4-4,0,2004,HepatitisA
 Phetchabun,4-4,0,2004,HepatitisA
 Phitsanulok,4-4,0,2004,HepatitisA
 Sukhothai,4-4,0,2004,HepatitisA
 Tak,4-4,0,2004,HepatitisA
 Uttaradit,4-4,0,2004,HepatitisA
-Zone 3,4-4,0,2004,HepatitisA
+Zone:3,4-4,0,2004,HepatitisA
 Kamphaeng Phet,4-4,0,2004,HepatitisA
 Nakhon Sawan,4-4,0,2004,HepatitisA
 Phichit,4-4,0,2004,HepatitisA
 Uthai Thani,4-4,0,2004,HepatitisA
 Central Region,4-4,0,2004,HepatitisA
 Bangkok,4-4,0,2004,HepatitisA
-Zone 4,4-4,0,2004,HepatitisA
+Zone:4,4-4,0,2004,HepatitisA
 Ang Thong,4-4,0,2004,HepatitisA
 Nonthaburi,4-4,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,4-4,0,2004,HepatitisA
 Pathum Thani,4-4,0,2004,HepatitisA
-Zone 5,4-4,0,2004,HepatitisA
+Zone:5,4-4,0,2004,HepatitisA
 Chai Nat,4-4,0,2004,HepatitisA
 Lop Buri,4-4,0,2004,HepatitisA
 Saraburi,4-4,0,2004,HepatitisA
 Sing Buri,4-4,0,2004,HepatitisA
-Zone 6,4-4,0,2004,HepatitisA
+Zone:6,4-4,0,2004,HepatitisA
 Kanchanaburi,4-4,0,2004,HepatitisA
 Nakhon Pathom,4-4,0,2004,HepatitisA
 Ratchaburi,4-4,0,2004,HepatitisA
 Suphan Buri,4-4,0,2004,HepatitisA
-Zone 7,4-4,0,2004,HepatitisA
+Zone:7,4-4,0,2004,HepatitisA
 Phetchaburi,4-4,0,2004,HepatitisA
 Prachuap Khiri Khan,4-4,0,2004,HepatitisA
 Samut Sakhon,4-4,0,2004,HepatitisA
 Samut Songkhram,4-4,0,2004,HepatitisA
-Zone 8,4-4,0,2004,HepatitisA
+Zone:8,4-4,0,2004,HepatitisA
 Chachoengsao,4-4,0,2004,HepatitisA
 Nakhon Nayok,4-4,0,2004,HepatitisA
 Prachin Buri,4-4,0,2004,HepatitisA
 Sa Kaeo,4-4,0,2004,HepatitisA
 Samut Prakan,4-4,0,2004,HepatitisA
-Zone 9,4-4,0,2004,HepatitisA
+Zone:9,4-4,0,2004,HepatitisA
 Chanthaburi,4-4,0,2004,HepatitisA
 Chon Buri,4-4,0,2004,HepatitisA
 Rayong,4-4,0,2004,HepatitisA
 Trat,4-4,0,2004,HepatitisA
 North-Eastern Region,4-4,0,2004,HepatitisA
-Zone 10,4-4,0,2004,HepatitisA
+Zone:10,4-4,0,2004,HepatitisA
 Loei,4-4,0,2004,HepatitisA
 Nong Bua Lam Phu,4-4,0,2004,HepatitisA
 Nong Khai,4-4,0,2004,HepatitisA
 Udon Thani,4-4,0,2004,HepatitisA
-Zone 11,4-4,0,2004,HepatitisA
+Zone:11,4-4,0,2004,HepatitisA
 Kalasin,4-4,0,2004,HepatitisA
 Mukdahan,4-4,0,2004,HepatitisA
 Nakhon Phanom,4-4,0,2004,HepatitisA
 Sakon Nakhon,4-4,0,2004,HepatitisA
-Zone 12,4-4,0,2004,HepatitisA
+Zone:12,4-4,0,2004,HepatitisA
 Khon Kaen,4-4,0,2004,HepatitisA
 Maha Sarakham,4-4,0,2004,HepatitisA
 Roi Et,4-4,0,2004,HepatitisA
-Zone 13,4-4,0,2004,HepatitisA
+Zone:13,4-4,0,2004,HepatitisA
 Buri Ram,4-4,0,2004,HepatitisA
 Chaiyaphum,4-4,0,2004,HepatitisA
 Nakhon Ratchasima,4-4,0,2004,HepatitisA
 Surin,4-4,0,2004,HepatitisA
-Zone 14,4-4,0,2004,HepatitisA
+Zone:14,4-4,0,2004,HepatitisA
 Amnat Charoen,4-4,0,2004,HepatitisA
 Si Sa Ket,4-4,0,2004,HepatitisA
 Ubon Ratchathani,4-4,0,2004,HepatitisA
 Yasothon,4-4,0,2004,HepatitisA
 South Region,4-4,2,2004,HepatitisA
-Zone 15,4-4,0,2004,HepatitisA
+Zone:15,4-4,0,2004,HepatitisA
 Chumphon,4-4,0,2004,HepatitisA
 Ranong,4-4,0,2004,HepatitisA
 Surat Thani,4-4,0,2004,HepatitisA
-Zone 16,4-4,0,2004,HepatitisA
+Zone:16,4-4,0,2004,HepatitisA
 Nakhon Si Thammarat,4-4,0,2004,HepatitisA
 Phatthalung,4-4,0,2004,HepatitisA
 Trang,4-4,0,2004,HepatitisA
-Zone 17,4-4,0,2004,HepatitisA
+Zone:17,4-4,0,2004,HepatitisA
 Krabi,4-4,0,2004,HepatitisA
 Phangnga,4-4,0,2004,HepatitisA
 Phuket,4-4,0,2004,HepatitisA
-Zone 18,4-4,2,2004,HepatitisA
+Zone:18,4-4,2,2004,HepatitisA
 Narathiwat,4-4,1,2004,HepatitisA
 Pattani,4-4,0,2004,HepatitisA
 Yala,4-4,1,2004,HepatitisA
-Zone 19,4-4,0,2004,HepatitisA
+Zone:19,4-4,0,2004,HepatitisA
 Satun,4-4,0,2004,HepatitisA
 Songkhla,4-4,0,2004,HepatitisA
 Total,5-5,7,2004,HepatitisA
 North Region,5-5,0,2004,HepatitisA
-Zone 1,5-5,0,2004,HepatitisA
+Zone:1,5-5,0,2004,HepatitisA
 Chiang Mai,5-5,0,2004,HepatitisA
 Chiang Rai,5-5,0,2004,HepatitisA
 Lampang,5-5,0,2004,HepatitisA
@@ -29870,98 +29870,98 @@ Mae Hong Son,5-5,0,2004,HepatitisA
 Nan,5-5,0,2004,HepatitisA
 Phayao,5-5,0,2004,HepatitisA
 Phrae,5-5,0,2004,HepatitisA
-Zone 2,5-5,0,2004,HepatitisA
+Zone:2,5-5,0,2004,HepatitisA
 Phetchabun,5-5,0,2004,HepatitisA
 Phitsanulok,5-5,0,2004,HepatitisA
 Sukhothai,5-5,0,2004,HepatitisA
 Tak,5-5,0,2004,HepatitisA
 Uttaradit,5-5,0,2004,HepatitisA
-Zone 3,5-5,0,2004,HepatitisA
+Zone:3,5-5,0,2004,HepatitisA
 Kamphaeng Phet,5-5,0,2004,HepatitisA
 Nakhon Sawan,5-5,0,2004,HepatitisA
 Phichit,5-5,0,2004,HepatitisA
 Uthai Thani,5-5,0,2004,HepatitisA
 Central Region,5-5,4,2004,HepatitisA
 Bangkok,5-5,4,2004,HepatitisA
-Zone 4,5-5,0,2004,HepatitisA
+Zone:4,5-5,0,2004,HepatitisA
 Ang Thong,5-5,0,2004,HepatitisA
 Nonthaburi,5-5,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,5-5,0,2004,HepatitisA
 Pathum Thani,5-5,0,2004,HepatitisA
-Zone 5,5-5,0,2004,HepatitisA
+Zone:5,5-5,0,2004,HepatitisA
 Chai Nat,5-5,0,2004,HepatitisA
 Lop Buri,5-5,0,2004,HepatitisA
 Saraburi,5-5,0,2004,HepatitisA
 Sing Buri,5-5,0,2004,HepatitisA
-Zone 6,5-5,0,2004,HepatitisA
+Zone:6,5-5,0,2004,HepatitisA
 Kanchanaburi,5-5,0,2004,HepatitisA
 Nakhon Pathom,5-5,0,2004,HepatitisA
 Ratchaburi,5-5,0,2004,HepatitisA
 Suphan Buri,5-5,0,2004,HepatitisA
-Zone 7,5-5,0,2004,HepatitisA
+Zone:7,5-5,0,2004,HepatitisA
 Phetchaburi,5-5,0,2004,HepatitisA
 Prachuap Khiri Khan,5-5,0,2004,HepatitisA
 Samut Sakhon,5-5,0,2004,HepatitisA
 Samut Songkhram,5-5,0,2004,HepatitisA
-Zone 8,5-5,0,2004,HepatitisA
+Zone:8,5-5,0,2004,HepatitisA
 Chachoengsao,5-5,0,2004,HepatitisA
 Nakhon Nayok,5-5,0,2004,HepatitisA
 Prachin Buri,5-5,0,2004,HepatitisA
 Sa Kaeo,5-5,0,2004,HepatitisA
 Samut Prakan,5-5,0,2004,HepatitisA
-Zone 9,5-5,0,2004,HepatitisA
+Zone:9,5-5,0,2004,HepatitisA
 Chanthaburi,5-5,0,2004,HepatitisA
 Chon Buri,5-5,0,2004,HepatitisA
 Rayong,5-5,0,2004,HepatitisA
 Trat,5-5,0,2004,HepatitisA
 North-Eastern Region,5-5,1,2004,HepatitisA
-Zone 10,5-5,0,2004,HepatitisA
+Zone:10,5-5,0,2004,HepatitisA
 Loei,5-5,0,2004,HepatitisA
 Nong Bua Lam Phu,5-5,0,2004,HepatitisA
 Nong Khai,5-5,0,2004,HepatitisA
 Udon Thani,5-5,0,2004,HepatitisA
-Zone 11,5-5,0,2004,HepatitisA
+Zone:11,5-5,0,2004,HepatitisA
 Kalasin,5-5,0,2004,HepatitisA
 Mukdahan,5-5,0,2004,HepatitisA
 Nakhon Phanom,5-5,0,2004,HepatitisA
 Sakon Nakhon,5-5,0,2004,HepatitisA
-Zone 12,5-5,0,2004,HepatitisA
+Zone:12,5-5,0,2004,HepatitisA
 Khon Kaen,5-5,0,2004,HepatitisA
 Maha Sarakham,5-5,0,2004,HepatitisA
 Roi Et,5-5,0,2004,HepatitisA
-Zone 13,5-5,1,2004,HepatitisA
+Zone:13,5-5,1,2004,HepatitisA
 Buri Ram,5-5,1,2004,HepatitisA
 Chaiyaphum,5-5,0,2004,HepatitisA
 Nakhon Ratchasima,5-5,0,2004,HepatitisA
 Surin,5-5,0,2004,HepatitisA
-Zone 14,5-5,0,2004,HepatitisA
+Zone:14,5-5,0,2004,HepatitisA
 Amnat Charoen,5-5,0,2004,HepatitisA
 Si Sa Ket,5-5,0,2004,HepatitisA
 Ubon Ratchathani,5-5,0,2004,HepatitisA
 Yasothon,5-5,0,2004,HepatitisA
 South Region,5-5,2,2004,HepatitisA
-Zone 15,5-5,0,2004,HepatitisA
+Zone:15,5-5,0,2004,HepatitisA
 Chumphon,5-5,0,2004,HepatitisA
 Ranong,5-5,0,2004,HepatitisA
 Surat Thani,5-5,0,2004,HepatitisA
-Zone 16,5-5,0,2004,HepatitisA
+Zone:16,5-5,0,2004,HepatitisA
 Nakhon Si Thammarat,5-5,0,2004,HepatitisA
 Phatthalung,5-5,0,2004,HepatitisA
 Trang,5-5,0,2004,HepatitisA
-Zone 17,5-5,0,2004,HepatitisA
+Zone:17,5-5,0,2004,HepatitisA
 Krabi,5-5,0,2004,HepatitisA
 Phangnga,5-5,0,2004,HepatitisA
 Phuket,5-5,0,2004,HepatitisA
-Zone 18,5-5,2,2004,HepatitisA
+Zone:18,5-5,2,2004,HepatitisA
 Narathiwat,5-5,1,2004,HepatitisA
 Pattani,5-5,0,2004,HepatitisA
 Yala,5-5,1,2004,HepatitisA
-Zone 19,5-5,0,2004,HepatitisA
+Zone:19,5-5,0,2004,HepatitisA
 Satun,5-5,0,2004,HepatitisA
 Songkhla,5-5,0,2004,HepatitisA
 Total,6-6,4,2004,HepatitisA
 North Region,6-6,1,2004,HepatitisA
-Zone 1,6-6,0,2004,HepatitisA
+Zone:1,6-6,0,2004,HepatitisA
 Chiang Mai,6-6,0,2004,HepatitisA
 Chiang Rai,6-6,0,2004,HepatitisA
 Lampang,6-6,0,2004,HepatitisA
@@ -29970,98 +29970,98 @@ Mae Hong Son,6-6,0,2004,HepatitisA
 Nan,6-6,0,2004,HepatitisA
 Phayao,6-6,0,2004,HepatitisA
 Phrae,6-6,0,2004,HepatitisA
-Zone 2,6-6,1,2004,HepatitisA
+Zone:2,6-6,1,2004,HepatitisA
 Phetchabun,6-6,0,2004,HepatitisA
 Phitsanulok,6-6,0,2004,HepatitisA
 Sukhothai,6-6,0,2004,HepatitisA
 Tak,6-6,1,2004,HepatitisA
 Uttaradit,6-6,0,2004,HepatitisA
-Zone 3,6-6,0,2004,HepatitisA
+Zone:3,6-6,0,2004,HepatitisA
 Kamphaeng Phet,6-6,0,2004,HepatitisA
 Nakhon Sawan,6-6,0,2004,HepatitisA
 Phichit,6-6,0,2004,HepatitisA
 Uthai Thani,6-6,0,2004,HepatitisA
 Central Region,6-6,3,2004,HepatitisA
 Bangkok,6-6,3,2004,HepatitisA
-Zone 4,6-6,0,2004,HepatitisA
+Zone:4,6-6,0,2004,HepatitisA
 Ang Thong,6-6,0,2004,HepatitisA
 Nonthaburi,6-6,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,6-6,0,2004,HepatitisA
 Pathum Thani,6-6,0,2004,HepatitisA
-Zone 5,6-6,0,2004,HepatitisA
+Zone:5,6-6,0,2004,HepatitisA
 Chai Nat,6-6,0,2004,HepatitisA
 Lop Buri,6-6,0,2004,HepatitisA
 Saraburi,6-6,0,2004,HepatitisA
 Sing Buri,6-6,0,2004,HepatitisA
-Zone 6,6-6,0,2004,HepatitisA
+Zone:6,6-6,0,2004,HepatitisA
 Kanchanaburi,6-6,0,2004,HepatitisA
 Nakhon Pathom,6-6,0,2004,HepatitisA
 Ratchaburi,6-6,0,2004,HepatitisA
 Suphan Buri,6-6,0,2004,HepatitisA
-Zone 7,6-6,0,2004,HepatitisA
+Zone:7,6-6,0,2004,HepatitisA
 Phetchaburi,6-6,0,2004,HepatitisA
 Prachuap Khiri Khan,6-6,0,2004,HepatitisA
 Samut Sakhon,6-6,0,2004,HepatitisA
 Samut Songkhram,6-6,0,2004,HepatitisA
-Zone 8,6-6,0,2004,HepatitisA
+Zone:8,6-6,0,2004,HepatitisA
 Chachoengsao,6-6,0,2004,HepatitisA
 Nakhon Nayok,6-6,0,2004,HepatitisA
 Prachin Buri,6-6,0,2004,HepatitisA
 Sa Kaeo,6-6,0,2004,HepatitisA
 Samut Prakan,6-6,0,2004,HepatitisA
-Zone 9,6-6,0,2004,HepatitisA
+Zone:9,6-6,0,2004,HepatitisA
 Chanthaburi,6-6,0,2004,HepatitisA
 Chon Buri,6-6,0,2004,HepatitisA
 Rayong,6-6,0,2004,HepatitisA
 Trat,6-6,0,2004,HepatitisA
 North-Eastern Region,6-6,0,2004,HepatitisA
-Zone 10,6-6,0,2004,HepatitisA
+Zone:10,6-6,0,2004,HepatitisA
 Loei,6-6,0,2004,HepatitisA
 Nong Bua Lam Phu,6-6,0,2004,HepatitisA
 Nong Khai,6-6,0,2004,HepatitisA
 Udon Thani,6-6,0,2004,HepatitisA
-Zone 11,6-6,0,2004,HepatitisA
+Zone:11,6-6,0,2004,HepatitisA
 Kalasin,6-6,0,2004,HepatitisA
 Mukdahan,6-6,0,2004,HepatitisA
 Nakhon Phanom,6-6,0,2004,HepatitisA
 Sakon Nakhon,6-6,0,2004,HepatitisA
-Zone 12,6-6,0,2004,HepatitisA
+Zone:12,6-6,0,2004,HepatitisA
 Khon Kaen,6-6,0,2004,HepatitisA
 Maha Sarakham,6-6,0,2004,HepatitisA
 Roi Et,6-6,0,2004,HepatitisA
-Zone 13,6-6,0,2004,HepatitisA
+Zone:13,6-6,0,2004,HepatitisA
 Buri Ram,6-6,0,2004,HepatitisA
 Chaiyaphum,6-6,0,2004,HepatitisA
 Nakhon Ratchasima,6-6,0,2004,HepatitisA
 Surin,6-6,0,2004,HepatitisA
-Zone 14,6-6,0,2004,HepatitisA
+Zone:14,6-6,0,2004,HepatitisA
 Amnat Charoen,6-6,0,2004,HepatitisA
 Si Sa Ket,6-6,0,2004,HepatitisA
 Ubon Ratchathani,6-6,0,2004,HepatitisA
 Yasothon,6-6,0,2004,HepatitisA
 South Region,6-6,0,2004,HepatitisA
-Zone 15,6-6,0,2004,HepatitisA
+Zone:15,6-6,0,2004,HepatitisA
 Chumphon,6-6,0,2004,HepatitisA
 Ranong,6-6,0,2004,HepatitisA
 Surat Thani,6-6,0,2004,HepatitisA
-Zone 16,6-6,0,2004,HepatitisA
+Zone:16,6-6,0,2004,HepatitisA
 Nakhon Si Thammarat,6-6,0,2004,HepatitisA
 Phatthalung,6-6,0,2004,HepatitisA
 Trang,6-6,0,2004,HepatitisA
-Zone 17,6-6,0,2004,HepatitisA
+Zone:17,6-6,0,2004,HepatitisA
 Krabi,6-6,0,2004,HepatitisA
 Phangnga,6-6,0,2004,HepatitisA
 Phuket,6-6,0,2004,HepatitisA
-Zone 18,6-6,0,2004,HepatitisA
+Zone:18,6-6,0,2004,HepatitisA
 Narathiwat,6-6,0,2004,HepatitisA
 Pattani,6-6,0,2004,HepatitisA
 Yala,6-6,0,2004,HepatitisA
-Zone 19,6-6,0,2004,HepatitisA
+Zone:19,6-6,0,2004,HepatitisA
 Satun,6-6,0,2004,HepatitisA
 Songkhla,6-6,0,2004,HepatitisA
 Total,7-9,21,2004,HepatitisA
 North Region,7-9,8,2004,HepatitisA
-Zone 1,7-9,6,2004,HepatitisA
+Zone:1,7-9,6,2004,HepatitisA
 Chiang Mai,7-9,2,2004,HepatitisA
 Chiang Rai,7-9,4,2004,HepatitisA
 Lampang,7-9,0,2004,HepatitisA
@@ -30070,98 +30070,98 @@ Mae Hong Son,7-9,0,2004,HepatitisA
 Nan,7-9,0,2004,HepatitisA
 Phayao,7-9,0,2004,HepatitisA
 Phrae,7-9,0,2004,HepatitisA
-Zone 2,7-9,2,2004,HepatitisA
+Zone:2,7-9,2,2004,HepatitisA
 Phetchabun,7-9,0,2004,HepatitisA
 Phitsanulok,7-9,0,2004,HepatitisA
 Sukhothai,7-9,0,2004,HepatitisA
 Tak,7-9,2,2004,HepatitisA
 Uttaradit,7-9,0,2004,HepatitisA
-Zone 3,7-9,0,2004,HepatitisA
+Zone:3,7-9,0,2004,HepatitisA
 Kamphaeng Phet,7-9,0,2004,HepatitisA
 Nakhon Sawan,7-9,0,2004,HepatitisA
 Phichit,7-9,0,2004,HepatitisA
 Uthai Thani,7-9,0,2004,HepatitisA
 Central Region,7-9,4,2004,HepatitisA
 Bangkok,7-9,2,2004,HepatitisA
-Zone 4,7-9,0,2004,HepatitisA
+Zone:4,7-9,0,2004,HepatitisA
 Ang Thong,7-9,0,2004,HepatitisA
 Nonthaburi,7-9,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,7-9,0,2004,HepatitisA
 Pathum Thani,7-9,0,2004,HepatitisA
-Zone 5,7-9,0,2004,HepatitisA
+Zone:5,7-9,0,2004,HepatitisA
 Chai Nat,7-9,0,2004,HepatitisA
 Lop Buri,7-9,0,2004,HepatitisA
 Saraburi,7-9,0,2004,HepatitisA
 Sing Buri,7-9,0,2004,HepatitisA
-Zone 6,7-9,1,2004,HepatitisA
+Zone:6,7-9,1,2004,HepatitisA
 Kanchanaburi,7-9,0,2004,HepatitisA
 Nakhon Pathom,7-9,0,2004,HepatitisA
 Ratchaburi,7-9,1,2004,HepatitisA
 Suphan Buri,7-9,0,2004,HepatitisA
-Zone 7,7-9,0,2004,HepatitisA
+Zone:7,7-9,0,2004,HepatitisA
 Phetchaburi,7-9,0,2004,HepatitisA
 Prachuap Khiri Khan,7-9,0,2004,HepatitisA
 Samut Sakhon,7-9,0,2004,HepatitisA
 Samut Songkhram,7-9,0,2004,HepatitisA
-Zone 8,7-9,0,2004,HepatitisA
+Zone:8,7-9,0,2004,HepatitisA
 Chachoengsao,7-9,0,2004,HepatitisA
 Nakhon Nayok,7-9,0,2004,HepatitisA
 Prachin Buri,7-9,0,2004,HepatitisA
 Sa Kaeo,7-9,0,2004,HepatitisA
 Samut Prakan,7-9,0,2004,HepatitisA
-Zone 9,7-9,1,2004,HepatitisA
+Zone:9,7-9,1,2004,HepatitisA
 Chanthaburi,7-9,1,2004,HepatitisA
 Chon Buri,7-9,0,2004,HepatitisA
 Rayong,7-9,0,2004,HepatitisA
 Trat,7-9,0,2004,HepatitisA
 North-Eastern Region,7-9,0,2004,HepatitisA
-Zone 10,7-9,0,2004,HepatitisA
+Zone:10,7-9,0,2004,HepatitisA
 Loei,7-9,0,2004,HepatitisA
 Nong Bua Lam Phu,7-9,0,2004,HepatitisA
 Nong Khai,7-9,0,2004,HepatitisA
 Udon Thani,7-9,0,2004,HepatitisA
-Zone 11,7-9,0,2004,HepatitisA
+Zone:11,7-9,0,2004,HepatitisA
 Kalasin,7-9,0,2004,HepatitisA
 Mukdahan,7-9,0,2004,HepatitisA
 Nakhon Phanom,7-9,0,2004,HepatitisA
 Sakon Nakhon,7-9,0,2004,HepatitisA
-Zone 12,7-9,0,2004,HepatitisA
+Zone:12,7-9,0,2004,HepatitisA
 Khon Kaen,7-9,0,2004,HepatitisA
 Maha Sarakham,7-9,0,2004,HepatitisA
 Roi Et,7-9,0,2004,HepatitisA
-Zone 13,7-9,0,2004,HepatitisA
+Zone:13,7-9,0,2004,HepatitisA
 Buri Ram,7-9,0,2004,HepatitisA
 Chaiyaphum,7-9,0,2004,HepatitisA
 Nakhon Ratchasima,7-9,0,2004,HepatitisA
 Surin,7-9,0,2004,HepatitisA
-Zone 14,7-9,0,2004,HepatitisA
+Zone:14,7-9,0,2004,HepatitisA
 Amnat Charoen,7-9,0,2004,HepatitisA
 Si Sa Ket,7-9,0,2004,HepatitisA
 Ubon Ratchathani,7-9,0,2004,HepatitisA
 Yasothon,7-9,0,2004,HepatitisA
 South Region,7-9,9,2004,HepatitisA
-Zone 15,7-9,0,2004,HepatitisA
+Zone:15,7-9,0,2004,HepatitisA
 Chumphon,7-9,0,2004,HepatitisA
 Ranong,7-9,0,2004,HepatitisA
 Surat Thani,7-9,0,2004,HepatitisA
-Zone 16,7-9,0,2004,HepatitisA
+Zone:16,7-9,0,2004,HepatitisA
 Nakhon Si Thammarat,7-9,0,2004,HepatitisA
 Phatthalung,7-9,0,2004,HepatitisA
 Trang,7-9,0,2004,HepatitisA
-Zone 17,7-9,0,2004,HepatitisA
+Zone:17,7-9,0,2004,HepatitisA
 Krabi,7-9,0,2004,HepatitisA
 Phangnga,7-9,0,2004,HepatitisA
 Phuket,7-9,0,2004,HepatitisA
-Zone 18,7-9,9,2004,HepatitisA
+Zone:18,7-9,9,2004,HepatitisA
 Narathiwat,7-9,5,2004,HepatitisA
 Pattani,7-9,3,2004,HepatitisA
 Yala,7-9,1,2004,HepatitisA
-Zone 19,7-9,0,2004,HepatitisA
+Zone:19,7-9,0,2004,HepatitisA
 Satun,7-9,0,2004,HepatitisA
 Songkhla,7-9,0,2004,HepatitisA
 Total,10-14,44,2004,HepatitisA
 North Region,10-14,19,2004,HepatitisA
-Zone 1,10-14,15,2004,HepatitisA
+Zone:1,10-14,15,2004,HepatitisA
 Chiang Mai,10-14,6,2004,HepatitisA
 Chiang Rai,10-14,7,2004,HepatitisA
 Lampang,10-14,1,2004,HepatitisA
@@ -30170,98 +30170,98 @@ Mae Hong Son,10-14,1,2004,HepatitisA
 Nan,10-14,0,2004,HepatitisA
 Phayao,10-14,0,2004,HepatitisA
 Phrae,10-14,0,2004,HepatitisA
-Zone 2,10-14,4,2004,HepatitisA
+Zone:2,10-14,4,2004,HepatitisA
 Phetchabun,10-14,0,2004,HepatitisA
 Phitsanulok,10-14,0,2004,HepatitisA
 Sukhothai,10-14,0,2004,HepatitisA
 Tak,10-14,4,2004,HepatitisA
 Uttaradit,10-14,0,2004,HepatitisA
-Zone 3,10-14,0,2004,HepatitisA
+Zone:3,10-14,0,2004,HepatitisA
 Kamphaeng Phet,10-14,0,2004,HepatitisA
 Nakhon Sawan,10-14,0,2004,HepatitisA
 Phichit,10-14,0,2004,HepatitisA
 Uthai Thani,10-14,0,2004,HepatitisA
 Central Region,10-14,5,2004,HepatitisA
 Bangkok,10-14,1,2004,HepatitisA
-Zone 4,10-14,0,2004,HepatitisA
+Zone:4,10-14,0,2004,HepatitisA
 Ang Thong,10-14,0,2004,HepatitisA
 Nonthaburi,10-14,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,10-14,0,2004,HepatitisA
 Pathum Thani,10-14,0,2004,HepatitisA
-Zone 5,10-14,0,2004,HepatitisA
+Zone:5,10-14,0,2004,HepatitisA
 Chai Nat,10-14,0,2004,HepatitisA
 Lop Buri,10-14,0,2004,HepatitisA
 Saraburi,10-14,0,2004,HepatitisA
 Sing Buri,10-14,0,2004,HepatitisA
-Zone 6,10-14,3,2004,HepatitisA
+Zone:6,10-14,3,2004,HepatitisA
 Kanchanaburi,10-14,1,2004,HepatitisA
 Nakhon Pathom,10-14,0,2004,HepatitisA
 Ratchaburi,10-14,1,2004,HepatitisA
 Suphan Buri,10-14,1,2004,HepatitisA
-Zone 7,10-14,0,2004,HepatitisA
+Zone:7,10-14,0,2004,HepatitisA
 Phetchaburi,10-14,0,2004,HepatitisA
 Prachuap Khiri Khan,10-14,0,2004,HepatitisA
 Samut Sakhon,10-14,0,2004,HepatitisA
 Samut Songkhram,10-14,0,2004,HepatitisA
-Zone 8,10-14,0,2004,HepatitisA
+Zone:8,10-14,0,2004,HepatitisA
 Chachoengsao,10-14,0,2004,HepatitisA
 Nakhon Nayok,10-14,0,2004,HepatitisA
 Prachin Buri,10-14,0,2004,HepatitisA
 Sa Kaeo,10-14,0,2004,HepatitisA
 Samut Prakan,10-14,0,2004,HepatitisA
-Zone 9,10-14,1,2004,HepatitisA
+Zone:9,10-14,1,2004,HepatitisA
 Chanthaburi,10-14,1,2004,HepatitisA
 Chon Buri,10-14,0,2004,HepatitisA
 Rayong,10-14,0,2004,HepatitisA
 Trat,10-14,0,2004,HepatitisA
 North-Eastern Region,10-14,1,2004,HepatitisA
-Zone 10,10-14,0,2004,HepatitisA
+Zone:10,10-14,0,2004,HepatitisA
 Loei,10-14,0,2004,HepatitisA
 Nong Bua Lam Phu,10-14,0,2004,HepatitisA
 Nong Khai,10-14,0,2004,HepatitisA
 Udon Thani,10-14,0,2004,HepatitisA
-Zone 11,10-14,0,2004,HepatitisA
+Zone:11,10-14,0,2004,HepatitisA
 Kalasin,10-14,0,2004,HepatitisA
 Mukdahan,10-14,0,2004,HepatitisA
 Nakhon Phanom,10-14,0,2004,HepatitisA
 Sakon Nakhon,10-14,0,2004,HepatitisA
-Zone 12,10-14,1,2004,HepatitisA
+Zone:12,10-14,1,2004,HepatitisA
 Khon Kaen,10-14,1,2004,HepatitisA
 Maha Sarakham,10-14,0,2004,HepatitisA
 Roi Et,10-14,0,2004,HepatitisA
-Zone 13,10-14,0,2004,HepatitisA
+Zone:13,10-14,0,2004,HepatitisA
 Buri Ram,10-14,0,2004,HepatitisA
 Chaiyaphum,10-14,0,2004,HepatitisA
 Nakhon Ratchasima,10-14,0,2004,HepatitisA
 Surin,10-14,0,2004,HepatitisA
-Zone 14,10-14,0,2004,HepatitisA
+Zone:14,10-14,0,2004,HepatitisA
 Amnat Charoen,10-14,0,2004,HepatitisA
 Si Sa Ket,10-14,0,2004,HepatitisA
 Ubon Ratchathani,10-14,0,2004,HepatitisA
 Yasothon,10-14,0,2004,HepatitisA
 South Region,10-14,19,2004,HepatitisA
-Zone 15,10-14,0,2004,HepatitisA
+Zone:15,10-14,0,2004,HepatitisA
 Chumphon,10-14,0,2004,HepatitisA
 Ranong,10-14,0,2004,HepatitisA
 Surat Thani,10-14,0,2004,HepatitisA
-Zone 16,10-14,0,2004,HepatitisA
+Zone:16,10-14,0,2004,HepatitisA
 Nakhon Si Thammarat,10-14,0,2004,HepatitisA
 Phatthalung,10-14,0,2004,HepatitisA
 Trang,10-14,0,2004,HepatitisA
-Zone 17,10-14,2,2004,HepatitisA
+Zone:17,10-14,2,2004,HepatitisA
 Krabi,10-14,0,2004,HepatitisA
 Phangnga,10-14,0,2004,HepatitisA
 Phuket,10-14,2,2004,HepatitisA
-Zone 18,10-14,8,2004,HepatitisA
+Zone:18,10-14,8,2004,HepatitisA
 Narathiwat,10-14,3,2004,HepatitisA
 Pattani,10-14,0,2004,HepatitisA
 Yala,10-14,5,2004,HepatitisA
-Zone 19,10-14,9,2004,HepatitisA
+Zone:19,10-14,9,2004,HepatitisA
 Satun,10-14,0,2004,HepatitisA
 Songkhla,10-14,9,2004,HepatitisA
 Total,15-24,91,2004,HepatitisA
 North Region,15-24,42,2004,HepatitisA
-Zone 1,15-24,29,2004,HepatitisA
+Zone:1,15-24,29,2004,HepatitisA
 Chiang Mai,15-24,5,2004,HepatitisA
 Chiang Rai,15-24,15,2004,HepatitisA
 Lampang,15-24,2,2004,HepatitisA
@@ -30270,98 +30270,98 @@ Mae Hong Son,15-24,1,2004,HepatitisA
 Nan,15-24,2,2004,HepatitisA
 Phayao,15-24,2,2004,HepatitisA
 Phrae,15-24,0,2004,HepatitisA
-Zone 2,15-24,12,2004,HepatitisA
+Zone:2,15-24,12,2004,HepatitisA
 Phetchabun,15-24,0,2004,HepatitisA
 Phitsanulok,15-24,1,2004,HepatitisA
 Sukhothai,15-24,0,2004,HepatitisA
 Tak,15-24,11,2004,HepatitisA
 Uttaradit,15-24,0,2004,HepatitisA
-Zone 3,15-24,1,2004,HepatitisA
+Zone:3,15-24,1,2004,HepatitisA
 Kamphaeng Phet,15-24,1,2004,HepatitisA
 Nakhon Sawan,15-24,0,2004,HepatitisA
 Phichit,15-24,0,2004,HepatitisA
 Uthai Thani,15-24,0,2004,HepatitisA
 Central Region,15-24,20,2004,HepatitisA
 Bangkok,15-24,4,2004,HepatitisA
-Zone 4,15-24,0,2004,HepatitisA
+Zone:4,15-24,0,2004,HepatitisA
 Ang Thong,15-24,0,2004,HepatitisA
 Nonthaburi,15-24,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,15-24,0,2004,HepatitisA
 Pathum Thani,15-24,0,2004,HepatitisA
-Zone 5,15-24,1,2004,HepatitisA
+Zone:5,15-24,1,2004,HepatitisA
 Chai Nat,15-24,0,2004,HepatitisA
 Lop Buri,15-24,1,2004,HepatitisA
 Saraburi,15-24,0,2004,HepatitisA
 Sing Buri,15-24,0,2004,HepatitisA
-Zone 6,15-24,3,2004,HepatitisA
+Zone:6,15-24,3,2004,HepatitisA
 Kanchanaburi,15-24,0,2004,HepatitisA
 Nakhon Pathom,15-24,1,2004,HepatitisA
 Ratchaburi,15-24,0,2004,HepatitisA
 Suphan Buri,15-24,2,2004,HepatitisA
-Zone 7,15-24,0,2004,HepatitisA
+Zone:7,15-24,0,2004,HepatitisA
 Phetchaburi,15-24,0,2004,HepatitisA
 Prachuap Khiri Khan,15-24,0,2004,HepatitisA
 Samut Sakhon,15-24,0,2004,HepatitisA
 Samut Songkhram,15-24,0,2004,HepatitisA
-Zone 8,15-24,3,2004,HepatitisA
+Zone:8,15-24,3,2004,HepatitisA
 Chachoengsao,15-24,2,2004,HepatitisA
 Nakhon Nayok,15-24,0,2004,HepatitisA
 Prachin Buri,15-24,0,2004,HepatitisA
 Sa Kaeo,15-24,1,2004,HepatitisA
 Samut Prakan,15-24,0,2004,HepatitisA
-Zone 9,15-24,9,2004,HepatitisA
+Zone:9,15-24,9,2004,HepatitisA
 Chanthaburi,15-24,3,2004,HepatitisA
 Chon Buri,15-24,5,2004,HepatitisA
 Rayong,15-24,1,2004,HepatitisA
 Trat,15-24,0,2004,HepatitisA
 North-Eastern Region,15-24,12,2004,HepatitisA
-Zone 10,15-24,1,2004,HepatitisA
+Zone:10,15-24,1,2004,HepatitisA
 Loei,15-24,0,2004,HepatitisA
 Nong Bua Lam Phu,15-24,1,2004,HepatitisA
 Nong Khai,15-24,0,2004,HepatitisA
 Udon Thani,15-24,0,2004,HepatitisA
-Zone 11,15-24,2,2004,HepatitisA
+Zone:11,15-24,2,2004,HepatitisA
 Kalasin,15-24,1,2004,HepatitisA
 Mukdahan,15-24,0,2004,HepatitisA
 Nakhon Phanom,15-24,1,2004,HepatitisA
 Sakon Nakhon,15-24,0,2004,HepatitisA
-Zone 12,15-24,0,2004,HepatitisA
+Zone:12,15-24,0,2004,HepatitisA
 Khon Kaen,15-24,0,2004,HepatitisA
 Maha Sarakham,15-24,0,2004,HepatitisA
 Roi Et,15-24,0,2004,HepatitisA
-Zone 13,15-24,5,2004,HepatitisA
+Zone:13,15-24,5,2004,HepatitisA
 Buri Ram,15-24,2,2004,HepatitisA
 Chaiyaphum,15-24,2,2004,HepatitisA
 Nakhon Ratchasima,15-24,0,2004,HepatitisA
 Surin,15-24,1,2004,HepatitisA
-Zone 14,15-24,4,2004,HepatitisA
+Zone:14,15-24,4,2004,HepatitisA
 Amnat Charoen,15-24,3,2004,HepatitisA
 Si Sa Ket,15-24,1,2004,HepatitisA
 Ubon Ratchathani,15-24,0,2004,HepatitisA
 Yasothon,15-24,0,2004,HepatitisA
 South Region,15-24,17,2004,HepatitisA
-Zone 15,15-24,2,2004,HepatitisA
+Zone:15,15-24,2,2004,HepatitisA
 Chumphon,15-24,0,2004,HepatitisA
 Ranong,15-24,0,2004,HepatitisA
 Surat Thani,15-24,2,2004,HepatitisA
-Zone 16,15-24,0,2004,HepatitisA
+Zone:16,15-24,0,2004,HepatitisA
 Nakhon Si Thammarat,15-24,0,2004,HepatitisA
 Phatthalung,15-24,0,2004,HepatitisA
 Trang,15-24,0,2004,HepatitisA
-Zone 17,15-24,1,2004,HepatitisA
+Zone:17,15-24,1,2004,HepatitisA
 Krabi,15-24,1,2004,HepatitisA
 Phangnga,15-24,0,2004,HepatitisA
 Phuket,15-24,0,2004,HepatitisA
-Zone 18,15-24,5,2004,HepatitisA
+Zone:18,15-24,5,2004,HepatitisA
 Narathiwat,15-24,3,2004,HepatitisA
 Pattani,15-24,1,2004,HepatitisA
 Yala,15-24,1,2004,HepatitisA
-Zone 19,15-24,9,2004,HepatitisA
+Zone:19,15-24,9,2004,HepatitisA
 Satun,15-24,0,2004,HepatitisA
 Songkhla,15-24,9,2004,HepatitisA
 Total,25-34,56,2004,HepatitisA
 North Region,25-34,31,2004,HepatitisA
-Zone 1,25-34,21,2004,HepatitisA
+Zone:1,25-34,21,2004,HepatitisA
 Chiang Mai,25-34,5,2004,HepatitisA
 Chiang Rai,25-34,8,2004,HepatitisA
 Lampang,25-34,3,2004,HepatitisA
@@ -30370,98 +30370,98 @@ Mae Hong Son,25-34,2,2004,HepatitisA
 Nan,25-34,1,2004,HepatitisA
 Phayao,25-34,2,2004,HepatitisA
 Phrae,25-34,0,2004,HepatitisA
-Zone 2,25-34,8,2004,HepatitisA
+Zone:2,25-34,8,2004,HepatitisA
 Phetchabun,25-34,0,2004,HepatitisA
 Phitsanulok,25-34,1,2004,HepatitisA
 Sukhothai,25-34,1,2004,HepatitisA
 Tak,25-34,6,2004,HepatitisA
 Uttaradit,25-34,0,2004,HepatitisA
-Zone 3,25-34,2,2004,HepatitisA
+Zone:3,25-34,2,2004,HepatitisA
 Kamphaeng Phet,25-34,2,2004,HepatitisA
 Nakhon Sawan,25-34,0,2004,HepatitisA
 Phichit,25-34,0,2004,HepatitisA
 Uthai Thani,25-34,0,2004,HepatitisA
 Central Region,25-34,8,2004,HepatitisA
 Bangkok,25-34,4,2004,HepatitisA
-Zone 4,25-34,2,2004,HepatitisA
+Zone:4,25-34,2,2004,HepatitisA
 Ang Thong,25-34,0,2004,HepatitisA
 Nonthaburi,25-34,1,2004,HepatitisA
 P.Nakhon S.Ayutthaya,25-34,1,2004,HepatitisA
 Pathum Thani,25-34,0,2004,HepatitisA
-Zone 5,25-34,0,2004,HepatitisA
+Zone:5,25-34,0,2004,HepatitisA
 Chai Nat,25-34,0,2004,HepatitisA
 Lop Buri,25-34,0,2004,HepatitisA
 Saraburi,25-34,0,2004,HepatitisA
 Sing Buri,25-34,0,2004,HepatitisA
-Zone 6,25-34,1,2004,HepatitisA
+Zone:6,25-34,1,2004,HepatitisA
 Kanchanaburi,25-34,0,2004,HepatitisA
 Nakhon Pathom,25-34,0,2004,HepatitisA
 Ratchaburi,25-34,0,2004,HepatitisA
 Suphan Buri,25-34,1,2004,HepatitisA
-Zone 7,25-34,0,2004,HepatitisA
+Zone:7,25-34,0,2004,HepatitisA
 Phetchaburi,25-34,0,2004,HepatitisA
 Prachuap Khiri Khan,25-34,0,2004,HepatitisA
 Samut Sakhon,25-34,0,2004,HepatitisA
 Samut Songkhram,25-34,0,2004,HepatitisA
-Zone 8,25-34,1,2004,HepatitisA
+Zone:8,25-34,1,2004,HepatitisA
 Chachoengsao,25-34,0,2004,HepatitisA
 Nakhon Nayok,25-34,1,2004,HepatitisA
 Prachin Buri,25-34,0,2004,HepatitisA
 Sa Kaeo,25-34,0,2004,HepatitisA
 Samut Prakan,25-34,0,2004,HepatitisA
-Zone 9,25-34,0,2004,HepatitisA
+Zone:9,25-34,0,2004,HepatitisA
 Chanthaburi,25-34,0,2004,HepatitisA
 Chon Buri,25-34,0,2004,HepatitisA
 Rayong,25-34,0,2004,HepatitisA
 Trat,25-34,0,2004,HepatitisA
 North-Eastern Region,25-34,10,2004,HepatitisA
-Zone 10,25-34,1,2004,HepatitisA
+Zone:10,25-34,1,2004,HepatitisA
 Loei,25-34,0,2004,HepatitisA
 Nong Bua Lam Phu,25-34,1,2004,HepatitisA
 Nong Khai,25-34,0,2004,HepatitisA
 Udon Thani,25-34,0,2004,HepatitisA
-Zone 11,25-34,1,2004,HepatitisA
+Zone:11,25-34,1,2004,HepatitisA
 Kalasin,25-34,1,2004,HepatitisA
 Mukdahan,25-34,0,2004,HepatitisA
 Nakhon Phanom,25-34,0,2004,HepatitisA
 Sakon Nakhon,25-34,0,2004,HepatitisA
-Zone 12,25-34,0,2004,HepatitisA
+Zone:12,25-34,0,2004,HepatitisA
 Khon Kaen,25-34,0,2004,HepatitisA
 Maha Sarakham,25-34,0,2004,HepatitisA
 Roi Et,25-34,0,2004,HepatitisA
-Zone 13,25-34,5,2004,HepatitisA
+Zone:13,25-34,5,2004,HepatitisA
 Buri Ram,25-34,2,2004,HepatitisA
 Chaiyaphum,25-34,2,2004,HepatitisA
 Nakhon Ratchasima,25-34,0,2004,HepatitisA
 Surin,25-34,1,2004,HepatitisA
-Zone 14,25-34,3,2004,HepatitisA
+Zone:14,25-34,3,2004,HepatitisA
 Amnat Charoen,25-34,2,2004,HepatitisA
 Si Sa Ket,25-34,0,2004,HepatitisA
 Ubon Ratchathani,25-34,1,2004,HepatitisA
 Yasothon,25-34,0,2004,HepatitisA
 South Region,25-34,7,2004,HepatitisA
-Zone 15,25-34,0,2004,HepatitisA
+Zone:15,25-34,0,2004,HepatitisA
 Chumphon,25-34,0,2004,HepatitisA
 Ranong,25-34,0,2004,HepatitisA
 Surat Thani,25-34,0,2004,HepatitisA
-Zone 16,25-34,1,2004,HepatitisA
+Zone:16,25-34,1,2004,HepatitisA
 Nakhon Si Thammarat,25-34,1,2004,HepatitisA
 Phatthalung,25-34,0,2004,HepatitisA
 Trang,25-34,0,2004,HepatitisA
-Zone 17,25-34,1,2004,HepatitisA
+Zone:17,25-34,1,2004,HepatitisA
 Krabi,25-34,1,2004,HepatitisA
 Phangnga,25-34,0,2004,HepatitisA
 Phuket,25-34,0,2004,HepatitisA
-Zone 18,25-34,2,2004,HepatitisA
+Zone:18,25-34,2,2004,HepatitisA
 Narathiwat,25-34,0,2004,HepatitisA
 Pattani,25-34,0,2004,HepatitisA
 Yala,25-34,2,2004,HepatitisA
-Zone 19,25-34,3,2004,HepatitisA
+Zone:19,25-34,3,2004,HepatitisA
 Satun,25-34,0,2004,HepatitisA
 Songkhla,25-34,3,2004,HepatitisA
 Total,35-44,66,2004,HepatitisA
 North Region,35-44,31,2004,HepatitisA
-Zone 1,35-44,23,2004,HepatitisA
+Zone:1,35-44,23,2004,HepatitisA
 Chiang Mai,35-44,3,2004,HepatitisA
 Chiang Rai,35-44,11,2004,HepatitisA
 Lampang,35-44,7,2004,HepatitisA
@@ -30470,98 +30470,98 @@ Mae Hong Son,35-44,0,2004,HepatitisA
 Nan,35-44,2,2004,HepatitisA
 Phayao,35-44,0,2004,HepatitisA
 Phrae,35-44,0,2004,HepatitisA
-Zone 2,35-44,5,2004,HepatitisA
+Zone:2,35-44,5,2004,HepatitisA
 Phetchabun,35-44,0,2004,HepatitisA
 Phitsanulok,35-44,3,2004,HepatitisA
 Sukhothai,35-44,0,2004,HepatitisA
 Tak,35-44,2,2004,HepatitisA
 Uttaradit,35-44,0,2004,HepatitisA
-Zone 3,35-44,3,2004,HepatitisA
+Zone:3,35-44,3,2004,HepatitisA
 Kamphaeng Phet,35-44,1,2004,HepatitisA
 Nakhon Sawan,35-44,2,2004,HepatitisA
 Phichit,35-44,0,2004,HepatitisA
 Uthai Thani,35-44,0,2004,HepatitisA
 Central Region,35-44,15,2004,HepatitisA
 Bangkok,35-44,1,2004,HepatitisA
-Zone 4,35-44,1,2004,HepatitisA
+Zone:4,35-44,1,2004,HepatitisA
 Ang Thong,35-44,0,2004,HepatitisA
 Nonthaburi,35-44,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,35-44,1,2004,HepatitisA
 Pathum Thani,35-44,0,2004,HepatitisA
-Zone 5,35-44,1,2004,HepatitisA
+Zone:5,35-44,1,2004,HepatitisA
 Chai Nat,35-44,0,2004,HepatitisA
 Lop Buri,35-44,1,2004,HepatitisA
 Saraburi,35-44,0,2004,HepatitisA
 Sing Buri,35-44,0,2004,HepatitisA
-Zone 6,35-44,3,2004,HepatitisA
+Zone:6,35-44,3,2004,HepatitisA
 Kanchanaburi,35-44,0,2004,HepatitisA
 Nakhon Pathom,35-44,3,2004,HepatitisA
 Ratchaburi,35-44,0,2004,HepatitisA
 Suphan Buri,35-44,0,2004,HepatitisA
-Zone 7,35-44,0,2004,HepatitisA
+Zone:7,35-44,0,2004,HepatitisA
 Phetchaburi,35-44,0,2004,HepatitisA
 Prachuap Khiri Khan,35-44,0,2004,HepatitisA
 Samut Sakhon,35-44,0,2004,HepatitisA
 Samut Songkhram,35-44,0,2004,HepatitisA
-Zone 8,35-44,1,2004,HepatitisA
+Zone:8,35-44,1,2004,HepatitisA
 Chachoengsao,35-44,0,2004,HepatitisA
 Nakhon Nayok,35-44,0,2004,HepatitisA
 Prachin Buri,35-44,0,2004,HepatitisA
 Sa Kaeo,35-44,1,2004,HepatitisA
 Samut Prakan,35-44,0,2004,HepatitisA
-Zone 9,35-44,8,2004,HepatitisA
+Zone:9,35-44,8,2004,HepatitisA
 Chanthaburi,35-44,2,2004,HepatitisA
 Chon Buri,35-44,3,2004,HepatitisA
 Rayong,35-44,1,2004,HepatitisA
 Trat,35-44,2,2004,HepatitisA
 North-Eastern Region,35-44,13,2004,HepatitisA
-Zone 10,35-44,4,2004,HepatitisA
+Zone:10,35-44,4,2004,HepatitisA
 Loei,35-44,2,2004,HepatitisA
 Nong Bua Lam Phu,35-44,1,2004,HepatitisA
 Nong Khai,35-44,1,2004,HepatitisA
 Udon Thani,35-44,0,2004,HepatitisA
-Zone 11,35-44,2,2004,HepatitisA
+Zone:11,35-44,2,2004,HepatitisA
 Kalasin,35-44,1,2004,HepatitisA
 Mukdahan,35-44,0,2004,HepatitisA
 Nakhon Phanom,35-44,1,2004,HepatitisA
 Sakon Nakhon,35-44,0,2004,HepatitisA
-Zone 12,35-44,2,2004,HepatitisA
+Zone:12,35-44,2,2004,HepatitisA
 Khon Kaen,35-44,1,2004,HepatitisA
 Maha Sarakham,35-44,1,2004,HepatitisA
 Roi Et,35-44,0,2004,HepatitisA
-Zone 13,35-44,5,2004,HepatitisA
+Zone:13,35-44,5,2004,HepatitisA
 Buri Ram,35-44,2,2004,HepatitisA
 Chaiyaphum,35-44,0,2004,HepatitisA
 Nakhon Ratchasima,35-44,2,2004,HepatitisA
 Surin,35-44,1,2004,HepatitisA
-Zone 14,35-44,0,2004,HepatitisA
+Zone:14,35-44,0,2004,HepatitisA
 Amnat Charoen,35-44,0,2004,HepatitisA
 Si Sa Ket,35-44,0,2004,HepatitisA
 Ubon Ratchathani,35-44,0,2004,HepatitisA
 Yasothon,35-44,0,2004,HepatitisA
 South Region,35-44,7,2004,HepatitisA
-Zone 15,35-44,2,2004,HepatitisA
+Zone:15,35-44,2,2004,HepatitisA
 Chumphon,35-44,0,2004,HepatitisA
 Ranong,35-44,0,2004,HepatitisA
 Surat Thani,35-44,2,2004,HepatitisA
-Zone 16,35-44,1,2004,HepatitisA
+Zone:16,35-44,1,2004,HepatitisA
 Nakhon Si Thammarat,35-44,1,2004,HepatitisA
 Phatthalung,35-44,0,2004,HepatitisA
 Trang,35-44,0,2004,HepatitisA
-Zone 17,35-44,1,2004,HepatitisA
+Zone:17,35-44,1,2004,HepatitisA
 Krabi,35-44,1,2004,HepatitisA
 Phangnga,35-44,0,2004,HepatitisA
 Phuket,35-44,0,2004,HepatitisA
-Zone 18,35-44,2,2004,HepatitisA
+Zone:18,35-44,2,2004,HepatitisA
 Narathiwat,35-44,0,2004,HepatitisA
 Pattani,35-44,2,2004,HepatitisA
 Yala,35-44,0,2004,HepatitisA
-Zone 19,35-44,1,2004,HepatitisA
+Zone:19,35-44,1,2004,HepatitisA
 Satun,35-44,0,2004,HepatitisA
 Songkhla,35-44,1,2004,HepatitisA
 Total,45-54,37,2004,HepatitisA
 North Region,45-54,14,2004,HepatitisA
-Zone 1,45-54,12,2004,HepatitisA
+Zone:1,45-54,12,2004,HepatitisA
 Chiang Mai,45-54,1,2004,HepatitisA
 Chiang Rai,45-54,7,2004,HepatitisA
 Lampang,45-54,1,2004,HepatitisA
@@ -30570,98 +30570,98 @@ Mae Hong Son,45-54,0,2004,HepatitisA
 Nan,45-54,2,2004,HepatitisA
 Phayao,45-54,1,2004,HepatitisA
 Phrae,45-54,0,2004,HepatitisA
-Zone 2,45-54,1,2004,HepatitisA
+Zone:2,45-54,1,2004,HepatitisA
 Phetchabun,45-54,0,2004,HepatitisA
 Phitsanulok,45-54,0,2004,HepatitisA
 Sukhothai,45-54,0,2004,HepatitisA
 Tak,45-54,1,2004,HepatitisA
 Uttaradit,45-54,0,2004,HepatitisA
-Zone 3,45-54,1,2004,HepatitisA
+Zone:3,45-54,1,2004,HepatitisA
 Kamphaeng Phet,45-54,1,2004,HepatitisA
 Nakhon Sawan,45-54,0,2004,HepatitisA
 Phichit,45-54,0,2004,HepatitisA
 Uthai Thani,45-54,0,2004,HepatitisA
 Central Region,45-54,13,2004,HepatitisA
 Bangkok,45-54,0,2004,HepatitisA
-Zone 4,45-54,1,2004,HepatitisA
+Zone:4,45-54,1,2004,HepatitisA
 Ang Thong,45-54,0,2004,HepatitisA
 Nonthaburi,45-54,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,45-54,1,2004,HepatitisA
 Pathum Thani,45-54,0,2004,HepatitisA
-Zone 5,45-54,2,2004,HepatitisA
+Zone:5,45-54,2,2004,HepatitisA
 Chai Nat,45-54,1,2004,HepatitisA
 Lop Buri,45-54,1,2004,HepatitisA
 Saraburi,45-54,0,2004,HepatitisA
 Sing Buri,45-54,0,2004,HepatitisA
-Zone 6,45-54,4,2004,HepatitisA
+Zone:6,45-54,4,2004,HepatitisA
 Kanchanaburi,45-54,0,2004,HepatitisA
 Nakhon Pathom,45-54,2,2004,HepatitisA
 Ratchaburi,45-54,2,2004,HepatitisA
 Suphan Buri,45-54,0,2004,HepatitisA
-Zone 7,45-54,0,2004,HepatitisA
+Zone:7,45-54,0,2004,HepatitisA
 Phetchaburi,45-54,0,2004,HepatitisA
 Prachuap Khiri Khan,45-54,0,2004,HepatitisA
 Samut Sakhon,45-54,0,2004,HepatitisA
 Samut Songkhram,45-54,0,2004,HepatitisA
-Zone 8,45-54,0,2004,HepatitisA
+Zone:8,45-54,0,2004,HepatitisA
 Chachoengsao,45-54,0,2004,HepatitisA
 Nakhon Nayok,45-54,0,2004,HepatitisA
 Prachin Buri,45-54,0,2004,HepatitisA
 Sa Kaeo,45-54,0,2004,HepatitisA
 Samut Prakan,45-54,0,2004,HepatitisA
-Zone 9,45-54,6,2004,HepatitisA
+Zone:9,45-54,6,2004,HepatitisA
 Chanthaburi,45-54,0,2004,HepatitisA
 Chon Buri,45-54,4,2004,HepatitisA
 Rayong,45-54,2,2004,HepatitisA
 Trat,45-54,0,2004,HepatitisA
 North-Eastern Region,45-54,8,2004,HepatitisA
-Zone 10,45-54,1,2004,HepatitisA
+Zone:10,45-54,1,2004,HepatitisA
 Loei,45-54,0,2004,HepatitisA
 Nong Bua Lam Phu,45-54,1,2004,HepatitisA
 Nong Khai,45-54,0,2004,HepatitisA
 Udon Thani,45-54,0,2004,HepatitisA
-Zone 11,45-54,2,2004,HepatitisA
+Zone:11,45-54,2,2004,HepatitisA
 Kalasin,45-54,1,2004,HepatitisA
 Mukdahan,45-54,0,2004,HepatitisA
 Nakhon Phanom,45-54,0,2004,HepatitisA
 Sakon Nakhon,45-54,1,2004,HepatitisA
-Zone 12,45-54,1,2004,HepatitisA
+Zone:12,45-54,1,2004,HepatitisA
 Khon Kaen,45-54,1,2004,HepatitisA
 Maha Sarakham,45-54,0,2004,HepatitisA
 Roi Et,45-54,0,2004,HepatitisA
-Zone 13,45-54,2,2004,HepatitisA
+Zone:13,45-54,2,2004,HepatitisA
 Buri Ram,45-54,0,2004,HepatitisA
 Chaiyaphum,45-54,1,2004,HepatitisA
 Nakhon Ratchasima,45-54,0,2004,HepatitisA
 Surin,45-54,1,2004,HepatitisA
-Zone 14,45-54,2,2004,HepatitisA
+Zone:14,45-54,2,2004,HepatitisA
 Amnat Charoen,45-54,0,2004,HepatitisA
 Si Sa Ket,45-54,0,2004,HepatitisA
 Ubon Ratchathani,45-54,2,2004,HepatitisA
 Yasothon,45-54,0,2004,HepatitisA
 South Region,45-54,2,2004,HepatitisA
-Zone 15,45-54,2,2004,HepatitisA
+Zone:15,45-54,2,2004,HepatitisA
 Chumphon,45-54,0,2004,HepatitisA
 Ranong,45-54,0,2004,HepatitisA
 Surat Thani,45-54,2,2004,HepatitisA
-Zone 16,45-54,0,2004,HepatitisA
+Zone:16,45-54,0,2004,HepatitisA
 Nakhon Si Thammarat,45-54,0,2004,HepatitisA
 Phatthalung,45-54,0,2004,HepatitisA
 Trang,45-54,0,2004,HepatitisA
-Zone 17,45-54,0,2004,HepatitisA
+Zone:17,45-54,0,2004,HepatitisA
 Krabi,45-54,0,2004,HepatitisA
 Phangnga,45-54,0,2004,HepatitisA
 Phuket,45-54,0,2004,HepatitisA
-Zone 18,45-54,0,2004,HepatitisA
+Zone:18,45-54,0,2004,HepatitisA
 Narathiwat,45-54,0,2004,HepatitisA
 Pattani,45-54,0,2004,HepatitisA
 Yala,45-54,0,2004,HepatitisA
-Zone 19,45-54,0,2004,HepatitisA
+Zone:19,45-54,0,2004,HepatitisA
 Satun,45-54,0,2004,HepatitisA
 Songkhla,45-54,0,2004,HepatitisA
 Total,55-64,27,2004,HepatitisA
 North Region,55-64,19,2004,HepatitisA
-Zone 1,55-64,14,2004,HepatitisA
+Zone:1,55-64,14,2004,HepatitisA
 Chiang Mai,55-64,0,2004,HepatitisA
 Chiang Rai,55-64,1,2004,HepatitisA
 Lampang,55-64,6,2004,HepatitisA
@@ -30670,98 +30670,98 @@ Mae Hong Son,55-64,0,2004,HepatitisA
 Nan,55-64,5,2004,HepatitisA
 Phayao,55-64,1,2004,HepatitisA
 Phrae,55-64,1,2004,HepatitisA
-Zone 2,55-64,2,2004,HepatitisA
+Zone:2,55-64,2,2004,HepatitisA
 Phetchabun,55-64,0,2004,HepatitisA
 Phitsanulok,55-64,1,2004,HepatitisA
 Sukhothai,55-64,0,2004,HepatitisA
 Tak,55-64,1,2004,HepatitisA
 Uttaradit,55-64,0,2004,HepatitisA
-Zone 3,55-64,3,2004,HepatitisA
+Zone:3,55-64,3,2004,HepatitisA
 Kamphaeng Phet,55-64,3,2004,HepatitisA
 Nakhon Sawan,55-64,0,2004,HepatitisA
 Phichit,55-64,0,2004,HepatitisA
 Uthai Thani,55-64,0,2004,HepatitisA
 Central Region,55-64,5,2004,HepatitisA
 Bangkok,55-64,2,2004,HepatitisA
-Zone 4,55-64,0,2004,HepatitisA
+Zone:4,55-64,0,2004,HepatitisA
 Ang Thong,55-64,0,2004,HepatitisA
 Nonthaburi,55-64,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,55-64,0,2004,HepatitisA
 Pathum Thani,55-64,0,2004,HepatitisA
-Zone 5,55-64,0,2004,HepatitisA
+Zone:5,55-64,0,2004,HepatitisA
 Chai Nat,55-64,0,2004,HepatitisA
 Lop Buri,55-64,0,2004,HepatitisA
 Saraburi,55-64,0,2004,HepatitisA
 Sing Buri,55-64,0,2004,HepatitisA
-Zone 6,55-64,0,2004,HepatitisA
+Zone:6,55-64,0,2004,HepatitisA
 Kanchanaburi,55-64,0,2004,HepatitisA
 Nakhon Pathom,55-64,0,2004,HepatitisA
 Ratchaburi,55-64,0,2004,HepatitisA
 Suphan Buri,55-64,0,2004,HepatitisA
-Zone 7,55-64,1,2004,HepatitisA
+Zone:7,55-64,1,2004,HepatitisA
 Phetchaburi,55-64,1,2004,HepatitisA
 Prachuap Khiri Khan,55-64,0,2004,HepatitisA
 Samut Sakhon,55-64,0,2004,HepatitisA
 Samut Songkhram,55-64,0,2004,HepatitisA
-Zone 8,55-64,0,2004,HepatitisA
+Zone:8,55-64,0,2004,HepatitisA
 Chachoengsao,55-64,0,2004,HepatitisA
 Nakhon Nayok,55-64,0,2004,HepatitisA
 Prachin Buri,55-64,0,2004,HepatitisA
 Sa Kaeo,55-64,0,2004,HepatitisA
 Samut Prakan,55-64,0,2004,HepatitisA
-Zone 9,55-64,2,2004,HepatitisA
+Zone:9,55-64,2,2004,HepatitisA
 Chanthaburi,55-64,0,2004,HepatitisA
 Chon Buri,55-64,2,2004,HepatitisA
 Rayong,55-64,0,2004,HepatitisA
 Trat,55-64,0,2004,HepatitisA
 North-Eastern Region,55-64,3,2004,HepatitisA
-Zone 10,55-64,1,2004,HepatitisA
+Zone:10,55-64,1,2004,HepatitisA
 Loei,55-64,0,2004,HepatitisA
 Nong Bua Lam Phu,55-64,0,2004,HepatitisA
 Nong Khai,55-64,1,2004,HepatitisA
 Udon Thani,55-64,0,2004,HepatitisA
-Zone 11,55-64,0,2004,HepatitisA
+Zone:11,55-64,0,2004,HepatitisA
 Kalasin,55-64,0,2004,HepatitisA
 Mukdahan,55-64,0,2004,HepatitisA
 Nakhon Phanom,55-64,0,2004,HepatitisA
 Sakon Nakhon,55-64,0,2004,HepatitisA
-Zone 12,55-64,0,2004,HepatitisA
+Zone:12,55-64,0,2004,HepatitisA
 Khon Kaen,55-64,0,2004,HepatitisA
 Maha Sarakham,55-64,0,2004,HepatitisA
 Roi Et,55-64,0,2004,HepatitisA
-Zone 13,55-64,2,2004,HepatitisA
+Zone:13,55-64,2,2004,HepatitisA
 Buri Ram,55-64,0,2004,HepatitisA
 Chaiyaphum,55-64,2,2004,HepatitisA
 Nakhon Ratchasima,55-64,0,2004,HepatitisA
 Surin,55-64,0,2004,HepatitisA
-Zone 14,55-64,0,2004,HepatitisA
+Zone:14,55-64,0,2004,HepatitisA
 Amnat Charoen,55-64,0,2004,HepatitisA
 Si Sa Ket,55-64,0,2004,HepatitisA
 Ubon Ratchathani,55-64,0,2004,HepatitisA
 Yasothon,55-64,0,2004,HepatitisA
 South Region,55-64,0,2004,HepatitisA
-Zone 15,55-64,0,2004,HepatitisA
+Zone:15,55-64,0,2004,HepatitisA
 Chumphon,55-64,0,2004,HepatitisA
 Ranong,55-64,0,2004,HepatitisA
 Surat Thani,55-64,0,2004,HepatitisA
-Zone 16,55-64,0,2004,HepatitisA
+Zone:16,55-64,0,2004,HepatitisA
 Nakhon Si Thammarat,55-64,0,2004,HepatitisA
 Phatthalung,55-64,0,2004,HepatitisA
 Trang,55-64,0,2004,HepatitisA
-Zone 17,55-64,0,2004,HepatitisA
+Zone:17,55-64,0,2004,HepatitisA
 Krabi,55-64,0,2004,HepatitisA
 Phangnga,55-64,0,2004,HepatitisA
 Phuket,55-64,0,2004,HepatitisA
-Zone 18,55-64,0,2004,HepatitisA
+Zone:18,55-64,0,2004,HepatitisA
 Narathiwat,55-64,0,2004,HepatitisA
 Pattani,55-64,0,2004,HepatitisA
 Yala,55-64,0,2004,HepatitisA
-Zone 19,55-64,0,2004,HepatitisA
+Zone:19,55-64,0,2004,HepatitisA
 Satun,55-64,0,2004,HepatitisA
 Songkhla,55-64,0,2004,HepatitisA
 Total,65+,25,2004,HepatitisA
 North Region,65+,9,2004,HepatitisA
-Zone 1,65+,9,2004,HepatitisA
+Zone:1,65+,9,2004,HepatitisA
 Chiang Mai,65+,1,2004,HepatitisA
 Chiang Rai,65+,6,2004,HepatitisA
 Lampang,65+,2,2004,HepatitisA
@@ -30770,98 +30770,98 @@ Mae Hong Son,65+,0,2004,HepatitisA
 Nan,65+,0,2004,HepatitisA
 Phayao,65+,0,2004,HepatitisA
 Phrae,65+,0,2004,HepatitisA
-Zone 2,65+,0,2004,HepatitisA
+Zone:2,65+,0,2004,HepatitisA
 Phetchabun,65+,0,2004,HepatitisA
 Phitsanulok,65+,0,2004,HepatitisA
 Sukhothai,65+,0,2004,HepatitisA
 Tak,65+,0,2004,HepatitisA
 Uttaradit,65+,0,2004,HepatitisA
-Zone 3,65+,0,2004,HepatitisA
+Zone:3,65+,0,2004,HepatitisA
 Kamphaeng Phet,65+,0,2004,HepatitisA
 Nakhon Sawan,65+,0,2004,HepatitisA
 Phichit,65+,0,2004,HepatitisA
 Uthai Thani,65+,0,2004,HepatitisA
 Central Region,65+,5,2004,HepatitisA
 Bangkok,65+,1,2004,HepatitisA
-Zone 4,65+,0,2004,HepatitisA
+Zone:4,65+,0,2004,HepatitisA
 Ang Thong,65+,0,2004,HepatitisA
 Nonthaburi,65+,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,65+,0,2004,HepatitisA
 Pathum Thani,65+,0,2004,HepatitisA
-Zone 5,65+,0,2004,HepatitisA
+Zone:5,65+,0,2004,HepatitisA
 Chai Nat,65+,0,2004,HepatitisA
 Lop Buri,65+,0,2004,HepatitisA
 Saraburi,65+,0,2004,HepatitisA
 Sing Buri,65+,0,2004,HepatitisA
-Zone 6,65+,2,2004,HepatitisA
+Zone:6,65+,2,2004,HepatitisA
 Kanchanaburi,65+,0,2004,HepatitisA
 Nakhon Pathom,65+,0,2004,HepatitisA
 Ratchaburi,65+,1,2004,HepatitisA
 Suphan Buri,65+,1,2004,HepatitisA
-Zone 7,65+,0,2004,HepatitisA
+Zone:7,65+,0,2004,HepatitisA
 Phetchaburi,65+,0,2004,HepatitisA
 Prachuap Khiri Khan,65+,0,2004,HepatitisA
 Samut Sakhon,65+,0,2004,HepatitisA
 Samut Songkhram,65+,0,2004,HepatitisA
-Zone 8,65+,0,2004,HepatitisA
+Zone:8,65+,0,2004,HepatitisA
 Chachoengsao,65+,0,2004,HepatitisA
 Nakhon Nayok,65+,0,2004,HepatitisA
 Prachin Buri,65+,0,2004,HepatitisA
 Sa Kaeo,65+,0,2004,HepatitisA
 Samut Prakan,65+,0,2004,HepatitisA
-Zone 9,65+,2,2004,HepatitisA
+Zone:9,65+,2,2004,HepatitisA
 Chanthaburi,65+,0,2004,HepatitisA
 Chon Buri,65+,1,2004,HepatitisA
 Rayong,65+,0,2004,HepatitisA
 Trat,65+,1,2004,HepatitisA
 North-Eastern Region,65+,2,2004,HepatitisA
-Zone 10,65+,0,2004,HepatitisA
+Zone:10,65+,0,2004,HepatitisA
 Loei,65+,0,2004,HepatitisA
 Nong Bua Lam Phu,65+,0,2004,HepatitisA
 Nong Khai,65+,0,2004,HepatitisA
 Udon Thani,65+,0,2004,HepatitisA
-Zone 11,65+,0,2004,HepatitisA
+Zone:11,65+,0,2004,HepatitisA
 Kalasin,65+,0,2004,HepatitisA
 Mukdahan,65+,0,2004,HepatitisA
 Nakhon Phanom,65+,0,2004,HepatitisA
 Sakon Nakhon,65+,0,2004,HepatitisA
-Zone 12,65+,1,2004,HepatitisA
+Zone:12,65+,1,2004,HepatitisA
 Khon Kaen,65+,1,2004,HepatitisA
 Maha Sarakham,65+,0,2004,HepatitisA
 Roi Et,65+,0,2004,HepatitisA
-Zone 13,65+,1,2004,HepatitisA
+Zone:13,65+,1,2004,HepatitisA
 Buri Ram,65+,0,2004,HepatitisA
 Chaiyaphum,65+,0,2004,HepatitisA
 Nakhon Ratchasima,65+,1,2004,HepatitisA
 Surin,65+,0,2004,HepatitisA
-Zone 14,65+,0,2004,HepatitisA
+Zone:14,65+,0,2004,HepatitisA
 Amnat Charoen,65+,0,2004,HepatitisA
 Si Sa Ket,65+,0,2004,HepatitisA
 Ubon Ratchathani,65+,0,2004,HepatitisA
 Yasothon,65+,0,2004,HepatitisA
 South Region,65+,9,2004,HepatitisA
-Zone 15,65+,6,2004,HepatitisA
+Zone:15,65+,6,2004,HepatitisA
 Chumphon,65+,0,2004,HepatitisA
 Ranong,65+,0,2004,HepatitisA
 Surat Thani,65+,6,2004,HepatitisA
-Zone 16,65+,0,2004,HepatitisA
+Zone:16,65+,0,2004,HepatitisA
 Nakhon Si Thammarat,65+,0,2004,HepatitisA
 Phatthalung,65+,0,2004,HepatitisA
 Trang,65+,0,2004,HepatitisA
-Zone 17,65+,0,2004,HepatitisA
+Zone:17,65+,0,2004,HepatitisA
 Krabi,65+,0,2004,HepatitisA
 Phangnga,65+,0,2004,HepatitisA
 Phuket,65+,0,2004,HepatitisA
-Zone 18,65+,3,2004,HepatitisA
+Zone:18,65+,3,2004,HepatitisA
 Narathiwat,65+,0,2004,HepatitisA
 Pattani,65+,1,2004,HepatitisA
 Yala,65+,2,2004,HepatitisA
-Zone 19,65+,0,2004,HepatitisA
+Zone:19,65+,0,2004,HepatitisA
 Satun,65+,0,2004,HepatitisA
 Songkhla,65+,0,2004,HepatitisA
 Total,Unknown,0,2004,HepatitisA
 North Region,Unknown,0,2004,HepatitisA
-Zone 1,Unknown,0,2004,HepatitisA
+Zone:1,Unknown,0,2004,HepatitisA
 Chiang Mai,Unknown,0,2004,HepatitisA
 Chiang Rai,Unknown,0,2004,HepatitisA
 Lampang,Unknown,0,2004,HepatitisA
@@ -30870,93 +30870,93 @@ Mae Hong Son,Unknown,0,2004,HepatitisA
 Nan,Unknown,0,2004,HepatitisA
 Phayao,Unknown,0,2004,HepatitisA
 Phrae,Unknown,0,2004,HepatitisA
-Zone 2,Unknown,0,2004,HepatitisA
+Zone:2,Unknown,0,2004,HepatitisA
 Phetchabun,Unknown,0,2004,HepatitisA
 Phitsanulok,Unknown,0,2004,HepatitisA
 Sukhothai,Unknown,0,2004,HepatitisA
 Tak,Unknown,0,2004,HepatitisA
 Uttaradit,Unknown,0,2004,HepatitisA
-Zone 3,Unknown,0,2004,HepatitisA
+Zone:3,Unknown,0,2004,HepatitisA
 Kamphaeng Phet,Unknown,0,2004,HepatitisA
 Nakhon Sawan,Unknown,0,2004,HepatitisA
 Phichit,Unknown,0,2004,HepatitisA
 Uthai Thani,Unknown,0,2004,HepatitisA
 Central Region,Unknown,0,2004,HepatitisA
 Bangkok,Unknown,0,2004,HepatitisA
-Zone 4,Unknown,0,2004,HepatitisA
+Zone:4,Unknown,0,2004,HepatitisA
 Ang Thong,Unknown,0,2004,HepatitisA
 Nonthaburi,Unknown,0,2004,HepatitisA
 P.Nakhon S.Ayutthaya,Unknown,0,2004,HepatitisA
 Pathum Thani,Unknown,0,2004,HepatitisA
-Zone 5,Unknown,0,2004,HepatitisA
+Zone:5,Unknown,0,2004,HepatitisA
 Chai Nat,Unknown,0,2004,HepatitisA
 Lop Buri,Unknown,0,2004,HepatitisA
 Saraburi,Unknown,0,2004,HepatitisA
 Sing Buri,Unknown,0,2004,HepatitisA
-Zone 6,Unknown,0,2004,HepatitisA
+Zone:6,Unknown,0,2004,HepatitisA
 Kanchanaburi,Unknown,0,2004,HepatitisA
 Nakhon Pathom,Unknown,0,2004,HepatitisA
 Ratchaburi,Unknown,0,2004,HepatitisA
 Suphan Buri,Unknown,0,2004,HepatitisA
-Zone 7,Unknown,0,2004,HepatitisA
+Zone:7,Unknown,0,2004,HepatitisA
 Phetchaburi,Unknown,0,2004,HepatitisA
 Prachuap Khiri Khan,Unknown,0,2004,HepatitisA
 Samut Sakhon,Unknown,0,2004,HepatitisA
 Samut Songkhram,Unknown,0,2004,HepatitisA
-Zone 8,Unknown,0,2004,HepatitisA
+Zone:8,Unknown,0,2004,HepatitisA
 Chachoengsao,Unknown,0,2004,HepatitisA
 Nakhon Nayok,Unknown,0,2004,HepatitisA
 Prachin Buri,Unknown,0,2004,HepatitisA
 Sa Kaeo,Unknown,0,2004,HepatitisA
 Samut Prakan,Unknown,0,2004,HepatitisA
-Zone 9,Unknown,0,2004,HepatitisA
+Zone:9,Unknown,0,2004,HepatitisA
 Chanthaburi,Unknown,0,2004,HepatitisA
 Chon Buri,Unknown,0,2004,HepatitisA
 Rayong,Unknown,0,2004,HepatitisA
 Trat,Unknown,0,2004,HepatitisA
 North-Eastern Region,Unknown,0,2004,HepatitisA
-Zone 10,Unknown,0,2004,HepatitisA
+Zone:10,Unknown,0,2004,HepatitisA
 Loei,Unknown,0,2004,HepatitisA
 Nong Bua Lam Phu,Unknown,0,2004,HepatitisA
 Nong Khai,Unknown,0,2004,HepatitisA
 Udon Thani,Unknown,0,2004,HepatitisA
-Zone 11,Unknown,0,2004,HepatitisA
+Zone:11,Unknown,0,2004,HepatitisA
 Kalasin,Unknown,0,2004,HepatitisA
 Mukdahan,Unknown,0,2004,HepatitisA
 Nakhon Phanom,Unknown,0,2004,HepatitisA
 Sakon Nakhon,Unknown,0,2004,HepatitisA
-Zone 12,Unknown,0,2004,HepatitisA
+Zone:12,Unknown,0,2004,HepatitisA
 Khon Kaen,Unknown,0,2004,HepatitisA
 Maha Sarakham,Unknown,0,2004,HepatitisA
 Roi Et,Unknown,0,2004,HepatitisA
-Zone 13,Unknown,0,2004,HepatitisA
+Zone:13,Unknown,0,2004,HepatitisA
 Buri Ram,Unknown,0,2004,HepatitisA
 Chaiyaphum,Unknown,0,2004,HepatitisA
 Nakhon Ratchasima,Unknown,0,2004,HepatitisA
 Surin,Unknown,0,2004,HepatitisA
-Zone 14,Unknown,0,2004,HepatitisA
+Zone:14,Unknown,0,2004,HepatitisA
 Amnat Charoen,Unknown,0,2004,HepatitisA
 Si Sa Ket,Unknown,0,2004,HepatitisA
 Ubon Ratchathani,Unknown,0,2004,HepatitisA
 Yasothon,Unknown,0,2004,HepatitisA
 South Region,Unknown,0,2004,HepatitisA
-Zone 15,Unknown,0,2004,HepatitisA
+Zone:15,Unknown,0,2004,HepatitisA
 Chumphon,Unknown,0,2004,HepatitisA
 Ranong,Unknown,0,2004,HepatitisA
 Surat Thani,Unknown,0,2004,HepatitisA
-Zone 16,Unknown,0,2004,HepatitisA
+Zone:16,Unknown,0,2004,HepatitisA
 Nakhon Si Thammarat,Unknown,0,2004,HepatitisA
 Phatthalung,Unknown,0,2004,HepatitisA
 Trang,Unknown,0,2004,HepatitisA
-Zone 17,Unknown,0,2004,HepatitisA
+Zone:17,Unknown,0,2004,HepatitisA
 Krabi,Unknown,0,2004,HepatitisA
 Phangnga,Unknown,0,2004,HepatitisA
 Phuket,Unknown,0,2004,HepatitisA
-Zone 18,Unknown,0,2004,HepatitisA
+Zone:18,Unknown,0,2004,HepatitisA
 Narathiwat,Unknown,0,2004,HepatitisA
 Pattani,Unknown,0,2004,HepatitisA
 Yala,Unknown,0,2004,HepatitisA
-Zone 19,Unknown,0,2004,HepatitisA
+Zone:19,Unknown,0,2004,HepatitisA
 Satun,Unknown,0,2004,HepatitisA
 Songkhla,Unknown,0,2004,HepatitisA
 Total,Total,2421,2005,HepatitisA
@@ -34399,7 +34399,7 @@ ZONE:13,Unknown,0,2023,HepatitisA
 Bangkok,Unknown,0,2023,HepatitisA
 Total,Total,522,2003,HepatitisA
 North Region,Total,170,2003,HepatitisA
-Zone 1,Total,129,2003,HepatitisA
+Zone:1,Total,129,2003,HepatitisA
 Chiang Mai,Total,55,2003,HepatitisA
 Chiang Rai,Total,34,2003,HepatitisA
 Lampang,Total,10,2003,HepatitisA
@@ -34408,98 +34408,98 @@ Mae Hong Son,Total,3,2003,HepatitisA
 Nan,Total,14,2003,HepatitisA
 Phayao,Total,7,2003,HepatitisA
 Phrae,Total,1,2003,HepatitisA
-Zone 2,Total,27,2003,HepatitisA
+Zone:2,Total,27,2003,HepatitisA
 Phetchabun,Total,0,2003,HepatitisA
 Phitsanulok,Total,16,2003,HepatitisA
 Sukhothai,Total,0,2003,HepatitisA
 Tak,Total,10,2003,HepatitisA
 Uttaradit,Total,1,2003,HepatitisA
-Zone 3,Total,14,2003,HepatitisA
+Zone:3,Total,14,2003,HepatitisA
 Kamphaeng Phet,Total,11,2003,HepatitisA
 Nakhon Sawan,Total,0,2003,HepatitisA
 Phichit,Total,1,2003,HepatitisA
 Uthai Thani,Total,2,2003,HepatitisA
 Central Region,Total,72,2003,HepatitisA
 Bangkok,Total,21,2003,HepatitisA
-Zone 4,Total,6,2003,HepatitisA
+Zone:4,Total,6,2003,HepatitisA
 Ang Thong,Total,0,2003,HepatitisA
 Nonthaburi,Total,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,Total,4,2003,HepatitisA
 Pathum Thani,Total,2,2003,HepatitisA
-Zone 5,Total,2,2003,HepatitisA
+Zone:5,Total,2,2003,HepatitisA
 Chai Nat,Total,0,2003,HepatitisA
 Lop Buri,Total,0,2003,HepatitisA
 Saraburi,Total,1,2003,HepatitisA
 Sing Buri,Total,1,2003,HepatitisA
-Zone 6,Total,22,2003,HepatitisA
+Zone:6,Total,22,2003,HepatitisA
 Kanchanaburi,Total,0,2003,HepatitisA
 Nakhon Pathom,Total,5,2003,HepatitisA
 Ratchaburi,Total,4,2003,HepatitisA
 Suphan Buri,Total,13,2003,HepatitisA
-Zone 7,Total,2,2003,HepatitisA
+Zone:7,Total,2,2003,HepatitisA
 Phetchaburi,Total,0,2003,HepatitisA
 Prachuap Khiri Khan,Total,1,2003,HepatitisA
 Samut Sakhon,Total,1,2003,HepatitisA
 Samut Songkhram,Total,0,2003,HepatitisA
-Zone 8,Total,5,2003,HepatitisA
+Zone:8,Total,5,2003,HepatitisA
 Chachoengsao,Total,2,2003,HepatitisA
 Nakhon Nayok,Total,1,2003,HepatitisA
 Prachin Buri,Total,1,2003,HepatitisA
 Sa Kaeo,Total,1,2003,HepatitisA
 Samut Prakan,Total,0,2003,HepatitisA
-Zone 9,Total,14,2003,HepatitisA
+Zone:9,Total,14,2003,HepatitisA
 Chanthaburi,Total,0,2003,HepatitisA
 Chon Buri,Total,0,2003,HepatitisA
 Rayong,Total,2,2003,HepatitisA
 Trat,Total,12,2003,HepatitisA
 North-Eastern Region,Total,47,2003,HepatitisA
-Zone 10,Total,4,2003,HepatitisA
+Zone:10,Total,4,2003,HepatitisA
 Loei,Total,3,2003,HepatitisA
 Nong Bua Lam Phu,Total,0,2003,HepatitisA
 Nong Khai,Total,0,2003,HepatitisA
 Udon Thani,Total,1,2003,HepatitisA
-Zone 11,Total,3,2003,HepatitisA
+Zone:11,Total,3,2003,HepatitisA
 Kalasin,Total,1,2003,HepatitisA
 Mukdahan,Total,0,2003,HepatitisA
 Nakhon Phanom,Total,0,2003,HepatitisA
 Sakon Nakhon,Total,2,2003,HepatitisA
-Zone 12,Total,3,2003,HepatitisA
+Zone:12,Total,3,2003,HepatitisA
 Khon Kaen,Total,3,2003,HepatitisA
 Maha Sarakham,Total,0,2003,HepatitisA
 Roi Et,Total,0,2003,HepatitisA
-Zone 13,Total,28,2003,HepatitisA
+Zone:13,Total,28,2003,HepatitisA
 Buri Ram,Total,14,2003,HepatitisA
 Chaiyaphum,Total,8,2003,HepatitisA
 Nakhon Ratchasima,Total,3,2003,HepatitisA
 Surin,Total,3,2003,HepatitisA
-Zone 14,Total,9,2003,HepatitisA
+Zone:14,Total,9,2003,HepatitisA
 Amnat Charoen,Total,4,2003,HepatitisA
 Si Sa Ket,Total,3,2003,HepatitisA
 Ubon Ratchathani,Total,1,2003,HepatitisA
 Yasothon,Total,1,2003,HepatitisA
 South Region,Total,233,2003,HepatitisA
-Zone 15,Total,10,2003,HepatitisA
+Zone:15,Total,10,2003,HepatitisA
 Chumphon,Total,0,2003,HepatitisA
 Ranong,Total,2,2003,HepatitisA
 Surat Thani,Total,8,2003,HepatitisA
-Zone 16,Total,9,2003,HepatitisA
+Zone:16,Total,9,2003,HepatitisA
 Nakhon Si Thammarat,Total,8,2003,HepatitisA
 Phatthalung,Total,1,2003,HepatitisA
 Trang,Total,0,2003,HepatitisA
-Zone 17,Total,3,2003,HepatitisA
+Zone:17,Total,3,2003,HepatitisA
 Krabi,Total,2,2003,HepatitisA
 Phangnga,Total,0,2003,HepatitisA
 Phuket,Total,1,2003,HepatitisA
-Zone 18,Total,190,2003,HepatitisA
+Zone:18,Total,190,2003,HepatitisA
 Narathiwat,Total,121,2003,HepatitisA
 Pattani,Total,47,2003,HepatitisA
 Yala,Total,22,2003,HepatitisA
-Zone 19,Total,21,2003,HepatitisA
+Zone:19,Total,21,2003,HepatitisA
 Satun,Total,2,2003,HepatitisA
 Songkhla,Total,19,2003,HepatitisA
 Total,0,1,2003,HepatitisA
 North Region,0,0,2003,HepatitisA
-Zone 1,0,0,2003,HepatitisA
+Zone:1,0,0,2003,HepatitisA
 Chiang Mai,0,0,2003,HepatitisA
 Chiang Rai,0,0,2003,HepatitisA
 Lampang,0,0,2003,HepatitisA
@@ -34508,98 +34508,98 @@ Mae Hong Son,0,0,2003,HepatitisA
 Nan,0,0,2003,HepatitisA
 Phayao,0,0,2003,HepatitisA
 Phrae,0,0,2003,HepatitisA
-Zone 2,0,0,2003,HepatitisA
+Zone:2,0,0,2003,HepatitisA
 Phetchabun,0,0,2003,HepatitisA
 Phitsanulok,0,0,2003,HepatitisA
 Sukhothai,0,0,2003,HepatitisA
 Tak,0,0,2003,HepatitisA
 Uttaradit,0,0,2003,HepatitisA
-Zone 3,0,0,2003,HepatitisA
+Zone:3,0,0,2003,HepatitisA
 Kamphaeng Phet,0,0,2003,HepatitisA
 Nakhon Sawan,0,0,2003,HepatitisA
 Phichit,0,0,2003,HepatitisA
 Uthai Thani,0,0,2003,HepatitisA
 Central Region,0,0,2003,HepatitisA
 Bangkok,0,0,2003,HepatitisA
-Zone 4,0,0,2003,HepatitisA
+Zone:4,0,0,2003,HepatitisA
 Ang Thong,0,0,2003,HepatitisA
 Nonthaburi,0,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,0,0,2003,HepatitisA
 Pathum Thani,0,0,2003,HepatitisA
-Zone 5,0,0,2003,HepatitisA
+Zone:5,0,0,2003,HepatitisA
 Chai Nat,0,0,2003,HepatitisA
 Lop Buri,0,0,2003,HepatitisA
 Saraburi,0,0,2003,HepatitisA
 Sing Buri,0,0,2003,HepatitisA
-Zone 6,0,0,2003,HepatitisA
+Zone:6,0,0,2003,HepatitisA
 Kanchanaburi,0,0,2003,HepatitisA
 Nakhon Pathom,0,0,2003,HepatitisA
 Ratchaburi,0,0,2003,HepatitisA
 Suphan Buri,0,0,2003,HepatitisA
-Zone 7,0,0,2003,HepatitisA
+Zone:7,0,0,2003,HepatitisA
 Phetchaburi,0,0,2003,HepatitisA
 Prachuap Khiri Khan,0,0,2003,HepatitisA
 Samut Sakhon,0,0,2003,HepatitisA
 Samut Songkhram,0,0,2003,HepatitisA
-Zone 8,0,0,2003,HepatitisA
+Zone:8,0,0,2003,HepatitisA
 Chachoengsao,0,0,2003,HepatitisA
 Nakhon Nayok,0,0,2003,HepatitisA
 Prachin Buri,0,0,2003,HepatitisA
 Sa Kaeo,0,0,2003,HepatitisA
 Samut Prakan,0,0,2003,HepatitisA
-Zone 9,0,0,2003,HepatitisA
+Zone:9,0,0,2003,HepatitisA
 Chanthaburi,0,0,2003,HepatitisA
 Chon Buri,0,0,2003,HepatitisA
 Rayong,0,0,2003,HepatitisA
 Trat,0,0,2003,HepatitisA
 North-Eastern Region,0,0,2003,HepatitisA
-Zone 10,0,0,2003,HepatitisA
+Zone:10,0,0,2003,HepatitisA
 Loei,0,0,2003,HepatitisA
 Nong Bua Lam Phu,0,0,2003,HepatitisA
 Nong Khai,0,0,2003,HepatitisA
 Udon Thani,0,0,2003,HepatitisA
-Zone 11,0,0,2003,HepatitisA
+Zone:11,0,0,2003,HepatitisA
 Kalasin,0,0,2003,HepatitisA
 Mukdahan,0,0,2003,HepatitisA
 Nakhon Phanom,0,0,2003,HepatitisA
 Sakon Nakhon,0,0,2003,HepatitisA
-Zone 12,0,0,2003,HepatitisA
+Zone:12,0,0,2003,HepatitisA
 Khon Kaen,0,0,2003,HepatitisA
 Maha Sarakham,0,0,2003,HepatitisA
 Roi Et,0,0,2003,HepatitisA
-Zone 13,0,0,2003,HepatitisA
+Zone:13,0,0,2003,HepatitisA
 Buri Ram,0,0,2003,HepatitisA
 Chaiyaphum,0,0,2003,HepatitisA
 Nakhon Ratchasima,0,0,2003,HepatitisA
 Surin,0,0,2003,HepatitisA
-Zone 14,0,0,2003,HepatitisA
+Zone:14,0,0,2003,HepatitisA
 Amnat Charoen,0,0,2003,HepatitisA
 Si Sa Ket,0,0,2003,HepatitisA
 Ubon Ratchathani,0,0,2003,HepatitisA
 Yasothon,0,0,2003,HepatitisA
 South Region,0,1,2003,HepatitisA
-Zone 15,0,0,2003,HepatitisA
+Zone:15,0,0,2003,HepatitisA
 Chumphon,0,0,2003,HepatitisA
 Ranong,0,0,2003,HepatitisA
 Surat Thani,0,0,2003,HepatitisA
-Zone 16,0,0,2003,HepatitisA
+Zone:16,0,0,2003,HepatitisA
 Nakhon Si Thammarat,0,0,2003,HepatitisA
 Phatthalung,0,0,2003,HepatitisA
 Trang,0,0,2003,HepatitisA
-Zone 17,0,0,2003,HepatitisA
+Zone:17,0,0,2003,HepatitisA
 Krabi,0,0,2003,HepatitisA
 Phangnga,0,0,2003,HepatitisA
 Phuket,0,0,2003,HepatitisA
-Zone 18,0,0,2003,HepatitisA
+Zone:18,0,0,2003,HepatitisA
 Narathiwat,0,0,2003,HepatitisA
 Pattani,0,0,2003,HepatitisA
 Yala,0,0,2003,HepatitisA
-Zone 19,0,1,2003,HepatitisA
+Zone:19,0,1,2003,HepatitisA
 Satun,0,0,2003,HepatitisA
 Songkhla,0,1,2003,HepatitisA
 Total,<1,6,2003,HepatitisA
 North Region,<1,1,2003,HepatitisA
-Zone 1,<1,1,2003,HepatitisA
+Zone:1,<1,1,2003,HepatitisA
 Chiang Mai,<1,1,2003,HepatitisA
 Chiang Rai,<1,0,2003,HepatitisA
 Lampang,<1,0,2003,HepatitisA
@@ -34608,98 +34608,98 @@ Mae Hong Son,<1,0,2003,HepatitisA
 Nan,<1,0,2003,HepatitisA
 Phayao,<1,0,2003,HepatitisA
 Phrae,<1,0,2003,HepatitisA
-Zone 2,<1,0,2003,HepatitisA
+Zone:2,<1,0,2003,HepatitisA
 Phetchabun,<1,0,2003,HepatitisA
 Phitsanulok,<1,0,2003,HepatitisA
 Sukhothai,<1,0,2003,HepatitisA
 Tak,<1,0,2003,HepatitisA
 Uttaradit,<1,0,2003,HepatitisA
-Zone 3,<1,0,2003,HepatitisA
+Zone:3,<1,0,2003,HepatitisA
 Kamphaeng Phet,<1,0,2003,HepatitisA
 Nakhon Sawan,<1,0,2003,HepatitisA
 Phichit,<1,0,2003,HepatitisA
 Uthai Thani,<1,0,2003,HepatitisA
 Central Region,<1,2,2003,HepatitisA
 Bangkok,<1,1,2003,HepatitisA
-Zone 4,<1,0,2003,HepatitisA
+Zone:4,<1,0,2003,HepatitisA
 Ang Thong,<1,0,2003,HepatitisA
 Nonthaburi,<1,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,<1,0,2003,HepatitisA
 Pathum Thani,<1,0,2003,HepatitisA
-Zone 5,<1,0,2003,HepatitisA
+Zone:5,<1,0,2003,HepatitisA
 Chai Nat,<1,0,2003,HepatitisA
 Lop Buri,<1,0,2003,HepatitisA
 Saraburi,<1,0,2003,HepatitisA
 Sing Buri,<1,0,2003,HepatitisA
-Zone 6,<1,1,2003,HepatitisA
+Zone:6,<1,1,2003,HepatitisA
 Kanchanaburi,<1,0,2003,HepatitisA
 Nakhon Pathom,<1,1,2003,HepatitisA
 Ratchaburi,<1,0,2003,HepatitisA
 Suphan Buri,<1,0,2003,HepatitisA
-Zone 7,<1,0,2003,HepatitisA
+Zone:7,<1,0,2003,HepatitisA
 Phetchaburi,<1,0,2003,HepatitisA
 Prachuap Khiri Khan,<1,0,2003,HepatitisA
 Samut Sakhon,<1,0,2003,HepatitisA
 Samut Songkhram,<1,0,2003,HepatitisA
-Zone 8,<1,0,2003,HepatitisA
+Zone:8,<1,0,2003,HepatitisA
 Chachoengsao,<1,0,2003,HepatitisA
 Nakhon Nayok,<1,0,2003,HepatitisA
 Prachin Buri,<1,0,2003,HepatitisA
 Sa Kaeo,<1,0,2003,HepatitisA
 Samut Prakan,<1,0,2003,HepatitisA
-Zone 9,<1,0,2003,HepatitisA
+Zone:9,<1,0,2003,HepatitisA
 Chanthaburi,<1,0,2003,HepatitisA
 Chon Buri,<1,0,2003,HepatitisA
 Rayong,<1,0,2003,HepatitisA
 Trat,<1,0,2003,HepatitisA
 North-Eastern Region,<1,0,2003,HepatitisA
-Zone 10,<1,0,2003,HepatitisA
+Zone:10,<1,0,2003,HepatitisA
 Loei,<1,0,2003,HepatitisA
 Nong Bua Lam Phu,<1,0,2003,HepatitisA
 Nong Khai,<1,0,2003,HepatitisA
 Udon Thani,<1,0,2003,HepatitisA
-Zone 11,<1,0,2003,HepatitisA
+Zone:11,<1,0,2003,HepatitisA
 Kalasin,<1,0,2003,HepatitisA
 Mukdahan,<1,0,2003,HepatitisA
 Nakhon Phanom,<1,0,2003,HepatitisA
 Sakon Nakhon,<1,0,2003,HepatitisA
-Zone 12,<1,0,2003,HepatitisA
+Zone:12,<1,0,2003,HepatitisA
 Khon Kaen,<1,0,2003,HepatitisA
 Maha Sarakham,<1,0,2003,HepatitisA
 Roi Et,<1,0,2003,HepatitisA
-Zone 13,<1,0,2003,HepatitisA
+Zone:13,<1,0,2003,HepatitisA
 Buri Ram,<1,0,2003,HepatitisA
 Chaiyaphum,<1,0,2003,HepatitisA
 Nakhon Ratchasima,<1,0,2003,HepatitisA
 Surin,<1,0,2003,HepatitisA
-Zone 14,<1,0,2003,HepatitisA
+Zone:14,<1,0,2003,HepatitisA
 Amnat Charoen,<1,0,2003,HepatitisA
 Si Sa Ket,<1,0,2003,HepatitisA
 Ubon Ratchathani,<1,0,2003,HepatitisA
 Yasothon,<1,0,2003,HepatitisA
 South Region,<1,3,2003,HepatitisA
-Zone 15,<1,1,2003,HepatitisA
+Zone:15,<1,1,2003,HepatitisA
 Chumphon,<1,0,2003,HepatitisA
 Ranong,<1,0,2003,HepatitisA
 Surat Thani,<1,1,2003,HepatitisA
-Zone 16,<1,0,2003,HepatitisA
+Zone:16,<1,0,2003,HepatitisA
 Nakhon Si Thammarat,<1,0,2003,HepatitisA
 Phatthalung,<1,0,2003,HepatitisA
 Trang,<1,0,2003,HepatitisA
-Zone 17,<1,0,2003,HepatitisA
+Zone:17,<1,0,2003,HepatitisA
 Krabi,<1,0,2003,HepatitisA
 Phangnga,<1,0,2003,HepatitisA
 Phuket,<1,0,2003,HepatitisA
-Zone 18,<1,2,2003,HepatitisA
+Zone:18,<1,2,2003,HepatitisA
 Narathiwat,<1,1,2003,HepatitisA
 Pattani,<1,0,2003,HepatitisA
 Yala,<1,1,2003,HepatitisA
-Zone 19,<1,0,2003,HepatitisA
+Zone:19,<1,0,2003,HepatitisA
 Satun,<1,0,2003,HepatitisA
 Songkhla,<1,0,2003,HepatitisA
 Total,1-1,4,2003,HepatitisA
 North Region,1-1,1,2003,HepatitisA
-Zone 1,1-1,1,2003,HepatitisA
+Zone:1,1-1,1,2003,HepatitisA
 Chiang Mai,1-1,0,2003,HepatitisA
 Chiang Rai,1-1,1,2003,HepatitisA
 Lampang,1-1,0,2003,HepatitisA
@@ -34708,98 +34708,98 @@ Mae Hong Son,1-1,0,2003,HepatitisA
 Nan,1-1,0,2003,HepatitisA
 Phayao,1-1,0,2003,HepatitisA
 Phrae,1-1,0,2003,HepatitisA
-Zone 2,1-1,0,2003,HepatitisA
+Zone:2,1-1,0,2003,HepatitisA
 Phetchabun,1-1,0,2003,HepatitisA
 Phitsanulok,1-1,0,2003,HepatitisA
 Sukhothai,1-1,0,2003,HepatitisA
 Tak,1-1,0,2003,HepatitisA
 Uttaradit,1-1,0,2003,HepatitisA
-Zone 3,1-1,0,2003,HepatitisA
+Zone:3,1-1,0,2003,HepatitisA
 Kamphaeng Phet,1-1,0,2003,HepatitisA
 Nakhon Sawan,1-1,0,2003,HepatitisA
 Phichit,1-1,0,2003,HepatitisA
 Uthai Thani,1-1,0,2003,HepatitisA
 Central Region,1-1,1,2003,HepatitisA
 Bangkok,1-1,1,2003,HepatitisA
-Zone 4,1-1,0,2003,HepatitisA
+Zone:4,1-1,0,2003,HepatitisA
 Ang Thong,1-1,0,2003,HepatitisA
 Nonthaburi,1-1,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,1-1,0,2003,HepatitisA
 Pathum Thani,1-1,0,2003,HepatitisA
-Zone 5,1-1,0,2003,HepatitisA
+Zone:5,1-1,0,2003,HepatitisA
 Chai Nat,1-1,0,2003,HepatitisA
 Lop Buri,1-1,0,2003,HepatitisA
 Saraburi,1-1,0,2003,HepatitisA
 Sing Buri,1-1,0,2003,HepatitisA
-Zone 6,1-1,0,2003,HepatitisA
+Zone:6,1-1,0,2003,HepatitisA
 Kanchanaburi,1-1,0,2003,HepatitisA
 Nakhon Pathom,1-1,0,2003,HepatitisA
 Ratchaburi,1-1,0,2003,HepatitisA
 Suphan Buri,1-1,0,2003,HepatitisA
-Zone 7,1-1,0,2003,HepatitisA
+Zone:7,1-1,0,2003,HepatitisA
 Phetchaburi,1-1,0,2003,HepatitisA
 Prachuap Khiri Khan,1-1,0,2003,HepatitisA
 Samut Sakhon,1-1,0,2003,HepatitisA
 Samut Songkhram,1-1,0,2003,HepatitisA
-Zone 8,1-1,0,2003,HepatitisA
+Zone:8,1-1,0,2003,HepatitisA
 Chachoengsao,1-1,0,2003,HepatitisA
 Nakhon Nayok,1-1,0,2003,HepatitisA
 Prachin Buri,1-1,0,2003,HepatitisA
 Sa Kaeo,1-1,0,2003,HepatitisA
 Samut Prakan,1-1,0,2003,HepatitisA
-Zone 9,1-1,0,2003,HepatitisA
+Zone:9,1-1,0,2003,HepatitisA
 Chanthaburi,1-1,0,2003,HepatitisA
 Chon Buri,1-1,0,2003,HepatitisA
 Rayong,1-1,0,2003,HepatitisA
 Trat,1-1,0,2003,HepatitisA
 North-Eastern Region,1-1,0,2003,HepatitisA
-Zone 10,1-1,0,2003,HepatitisA
+Zone:10,1-1,0,2003,HepatitisA
 Loei,1-1,0,2003,HepatitisA
 Nong Bua Lam Phu,1-1,0,2003,HepatitisA
 Nong Khai,1-1,0,2003,HepatitisA
 Udon Thani,1-1,0,2003,HepatitisA
-Zone 11,1-1,0,2003,HepatitisA
+Zone:11,1-1,0,2003,HepatitisA
 Kalasin,1-1,0,2003,HepatitisA
 Mukdahan,1-1,0,2003,HepatitisA
 Nakhon Phanom,1-1,0,2003,HepatitisA
 Sakon Nakhon,1-1,0,2003,HepatitisA
-Zone 12,1-1,0,2003,HepatitisA
+Zone:12,1-1,0,2003,HepatitisA
 Khon Kaen,1-1,0,2003,HepatitisA
 Maha Sarakham,1-1,0,2003,HepatitisA
 Roi Et,1-1,0,2003,HepatitisA
-Zone 13,1-1,0,2003,HepatitisA
+Zone:13,1-1,0,2003,HepatitisA
 Buri Ram,1-1,0,2003,HepatitisA
 Chaiyaphum,1-1,0,2003,HepatitisA
 Nakhon Ratchasima,1-1,0,2003,HepatitisA
 Surin,1-1,0,2003,HepatitisA
-Zone 14,1-1,0,2003,HepatitisA
+Zone:14,1-1,0,2003,HepatitisA
 Amnat Charoen,1-1,0,2003,HepatitisA
 Si Sa Ket,1-1,0,2003,HepatitisA
 Ubon Ratchathani,1-1,0,2003,HepatitisA
 Yasothon,1-1,0,2003,HepatitisA
 South Region,1-1,2,2003,HepatitisA
-Zone 15,1-1,0,2003,HepatitisA
+Zone:15,1-1,0,2003,HepatitisA
 Chumphon,1-1,0,2003,HepatitisA
 Ranong,1-1,0,2003,HepatitisA
 Surat Thani,1-1,0,2003,HepatitisA
-Zone 16,1-1,0,2003,HepatitisA
+Zone:16,1-1,0,2003,HepatitisA
 Nakhon Si Thammarat,1-1,0,2003,HepatitisA
 Phatthalung,1-1,0,2003,HepatitisA
 Trang,1-1,0,2003,HepatitisA
-Zone 17,1-1,0,2003,HepatitisA
+Zone:17,1-1,0,2003,HepatitisA
 Krabi,1-1,0,2003,HepatitisA
 Phangnga,1-1,0,2003,HepatitisA
 Phuket,1-1,0,2003,HepatitisA
-Zone 18,1-1,1,2003,HepatitisA
+Zone:18,1-1,1,2003,HepatitisA
 Narathiwat,1-1,0,2003,HepatitisA
 Pattani,1-1,1,2003,HepatitisA
 Yala,1-1,0,2003,HepatitisA
-Zone 19,1-1,1,2003,HepatitisA
+Zone:19,1-1,1,2003,HepatitisA
 Satun,1-1,1,2003,HepatitisA
 Songkhla,1-1,0,2003,HepatitisA
 Total,2-2,4,2003,HepatitisA
 North Region,2-2,0,2003,HepatitisA
-Zone 1,2-2,0,2003,HepatitisA
+Zone:1,2-2,0,2003,HepatitisA
 Chiang Mai,2-2,0,2003,HepatitisA
 Chiang Rai,2-2,0,2003,HepatitisA
 Lampang,2-2,0,2003,HepatitisA
@@ -34808,98 +34808,98 @@ Mae Hong Son,2-2,0,2003,HepatitisA
 Nan,2-2,0,2003,HepatitisA
 Phayao,2-2,0,2003,HepatitisA
 Phrae,2-2,0,2003,HepatitisA
-Zone 2,2-2,0,2003,HepatitisA
+Zone:2,2-2,0,2003,HepatitisA
 Phetchabun,2-2,0,2003,HepatitisA
 Phitsanulok,2-2,0,2003,HepatitisA
 Sukhothai,2-2,0,2003,HepatitisA
 Tak,2-2,0,2003,HepatitisA
 Uttaradit,2-2,0,2003,HepatitisA
-Zone 3,2-2,0,2003,HepatitisA
+Zone:3,2-2,0,2003,HepatitisA
 Kamphaeng Phet,2-2,0,2003,HepatitisA
 Nakhon Sawan,2-2,0,2003,HepatitisA
 Phichit,2-2,0,2003,HepatitisA
 Uthai Thani,2-2,0,2003,HepatitisA
 Central Region,2-2,1,2003,HepatitisA
 Bangkok,2-2,1,2003,HepatitisA
-Zone 4,2-2,0,2003,HepatitisA
+Zone:4,2-2,0,2003,HepatitisA
 Ang Thong,2-2,0,2003,HepatitisA
 Nonthaburi,2-2,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,2-2,0,2003,HepatitisA
 Pathum Thani,2-2,0,2003,HepatitisA
-Zone 5,2-2,0,2003,HepatitisA
+Zone:5,2-2,0,2003,HepatitisA
 Chai Nat,2-2,0,2003,HepatitisA
 Lop Buri,2-2,0,2003,HepatitisA
 Saraburi,2-2,0,2003,HepatitisA
 Sing Buri,2-2,0,2003,HepatitisA
-Zone 6,2-2,0,2003,HepatitisA
+Zone:6,2-2,0,2003,HepatitisA
 Kanchanaburi,2-2,0,2003,HepatitisA
 Nakhon Pathom,2-2,0,2003,HepatitisA
 Ratchaburi,2-2,0,2003,HepatitisA
 Suphan Buri,2-2,0,2003,HepatitisA
-Zone 7,2-2,0,2003,HepatitisA
+Zone:7,2-2,0,2003,HepatitisA
 Phetchaburi,2-2,0,2003,HepatitisA
 Prachuap Khiri Khan,2-2,0,2003,HepatitisA
 Samut Sakhon,2-2,0,2003,HepatitisA
 Samut Songkhram,2-2,0,2003,HepatitisA
-Zone 8,2-2,0,2003,HepatitisA
+Zone:8,2-2,0,2003,HepatitisA
 Chachoengsao,2-2,0,2003,HepatitisA
 Nakhon Nayok,2-2,0,2003,HepatitisA
 Prachin Buri,2-2,0,2003,HepatitisA
 Sa Kaeo,2-2,0,2003,HepatitisA
 Samut Prakan,2-2,0,2003,HepatitisA
-Zone 9,2-2,0,2003,HepatitisA
+Zone:9,2-2,0,2003,HepatitisA
 Chanthaburi,2-2,0,2003,HepatitisA
 Chon Buri,2-2,0,2003,HepatitisA
 Rayong,2-2,0,2003,HepatitisA
 Trat,2-2,0,2003,HepatitisA
 North-Eastern Region,2-2,0,2003,HepatitisA
-Zone 10,2-2,0,2003,HepatitisA
+Zone:10,2-2,0,2003,HepatitisA
 Loei,2-2,0,2003,HepatitisA
 Nong Bua Lam Phu,2-2,0,2003,HepatitisA
 Nong Khai,2-2,0,2003,HepatitisA
 Udon Thani,2-2,0,2003,HepatitisA
-Zone 11,2-2,0,2003,HepatitisA
+Zone:11,2-2,0,2003,HepatitisA
 Kalasin,2-2,0,2003,HepatitisA
 Mukdahan,2-2,0,2003,HepatitisA
 Nakhon Phanom,2-2,0,2003,HepatitisA
 Sakon Nakhon,2-2,0,2003,HepatitisA
-Zone 12,2-2,0,2003,HepatitisA
+Zone:12,2-2,0,2003,HepatitisA
 Khon Kaen,2-2,0,2003,HepatitisA
 Maha Sarakham,2-2,0,2003,HepatitisA
 Roi Et,2-2,0,2003,HepatitisA
-Zone 13,2-2,0,2003,HepatitisA
+Zone:13,2-2,0,2003,HepatitisA
 Buri Ram,2-2,0,2003,HepatitisA
 Chaiyaphum,2-2,0,2003,HepatitisA
 Nakhon Ratchasima,2-2,0,2003,HepatitisA
 Surin,2-2,0,2003,HepatitisA
-Zone 14,2-2,0,2003,HepatitisA
+Zone:14,2-2,0,2003,HepatitisA
 Amnat Charoen,2-2,0,2003,HepatitisA
 Si Sa Ket,2-2,0,2003,HepatitisA
 Ubon Ratchathani,2-2,0,2003,HepatitisA
 Yasothon,2-2,0,2003,HepatitisA
 South Region,2-2,3,2003,HepatitisA
-Zone 15,2-2,1,2003,HepatitisA
+Zone:15,2-2,1,2003,HepatitisA
 Chumphon,2-2,0,2003,HepatitisA
 Ranong,2-2,0,2003,HepatitisA
 Surat Thani,2-2,1,2003,HepatitisA
-Zone 16,2-2,1,2003,HepatitisA
+Zone:16,2-2,1,2003,HepatitisA
 Nakhon Si Thammarat,2-2,1,2003,HepatitisA
 Phatthalung,2-2,0,2003,HepatitisA
 Trang,2-2,0,2003,HepatitisA
-Zone 17,2-2,0,2003,HepatitisA
+Zone:17,2-2,0,2003,HepatitisA
 Krabi,2-2,0,2003,HepatitisA
 Phangnga,2-2,0,2003,HepatitisA
 Phuket,2-2,0,2003,HepatitisA
-Zone 18,2-2,1,2003,HepatitisA
+Zone:18,2-2,1,2003,HepatitisA
 Narathiwat,2-2,0,2003,HepatitisA
 Pattani,2-2,1,2003,HepatitisA
 Yala,2-2,0,2003,HepatitisA
-Zone 19,2-2,0,2003,HepatitisA
+Zone:19,2-2,0,2003,HepatitisA
 Satun,2-2,0,2003,HepatitisA
 Songkhla,2-2,0,2003,HepatitisA
 Total,3-3,6,2003,HepatitisA
 North Region,3-3,0,2003,HepatitisA
-Zone 1,3-3,0,2003,HepatitisA
+Zone:1,3-3,0,2003,HepatitisA
 Chiang Mai,3-3,0,2003,HepatitisA
 Chiang Rai,3-3,0,2003,HepatitisA
 Lampang,3-3,0,2003,HepatitisA
@@ -34908,98 +34908,98 @@ Mae Hong Son,3-3,0,2003,HepatitisA
 Nan,3-3,0,2003,HepatitisA
 Phayao,3-3,0,2003,HepatitisA
 Phrae,3-3,0,2003,HepatitisA
-Zone 2,3-3,0,2003,HepatitisA
+Zone:2,3-3,0,2003,HepatitisA
 Phetchabun,3-3,0,2003,HepatitisA
 Phitsanulok,3-3,0,2003,HepatitisA
 Sukhothai,3-3,0,2003,HepatitisA
 Tak,3-3,0,2003,HepatitisA
 Uttaradit,3-3,0,2003,HepatitisA
-Zone 3,3-3,0,2003,HepatitisA
+Zone:3,3-3,0,2003,HepatitisA
 Kamphaeng Phet,3-3,0,2003,HepatitisA
 Nakhon Sawan,3-3,0,2003,HepatitisA
 Phichit,3-3,0,2003,HepatitisA
 Uthai Thani,3-3,0,2003,HepatitisA
 Central Region,3-3,0,2003,HepatitisA
 Bangkok,3-3,0,2003,HepatitisA
-Zone 4,3-3,0,2003,HepatitisA
+Zone:4,3-3,0,2003,HepatitisA
 Ang Thong,3-3,0,2003,HepatitisA
 Nonthaburi,3-3,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,3-3,0,2003,HepatitisA
 Pathum Thani,3-3,0,2003,HepatitisA
-Zone 5,3-3,0,2003,HepatitisA
+Zone:5,3-3,0,2003,HepatitisA
 Chai Nat,3-3,0,2003,HepatitisA
 Lop Buri,3-3,0,2003,HepatitisA
 Saraburi,3-3,0,2003,HepatitisA
 Sing Buri,3-3,0,2003,HepatitisA
-Zone 6,3-3,0,2003,HepatitisA
+Zone:6,3-3,0,2003,HepatitisA
 Kanchanaburi,3-3,0,2003,HepatitisA
 Nakhon Pathom,3-3,0,2003,HepatitisA
 Ratchaburi,3-3,0,2003,HepatitisA
 Suphan Buri,3-3,0,2003,HepatitisA
-Zone 7,3-3,0,2003,HepatitisA
+Zone:7,3-3,0,2003,HepatitisA
 Phetchaburi,3-3,0,2003,HepatitisA
 Prachuap Khiri Khan,3-3,0,2003,HepatitisA
 Samut Sakhon,3-3,0,2003,HepatitisA
 Samut Songkhram,3-3,0,2003,HepatitisA
-Zone 8,3-3,0,2003,HepatitisA
+Zone:8,3-3,0,2003,HepatitisA
 Chachoengsao,3-3,0,2003,HepatitisA
 Nakhon Nayok,3-3,0,2003,HepatitisA
 Prachin Buri,3-3,0,2003,HepatitisA
 Sa Kaeo,3-3,0,2003,HepatitisA
 Samut Prakan,3-3,0,2003,HepatitisA
-Zone 9,3-3,0,2003,HepatitisA
+Zone:9,3-3,0,2003,HepatitisA
 Chanthaburi,3-3,0,2003,HepatitisA
 Chon Buri,3-3,0,2003,HepatitisA
 Rayong,3-3,0,2003,HepatitisA
 Trat,3-3,0,2003,HepatitisA
 North-Eastern Region,3-3,1,2003,HepatitisA
-Zone 10,3-3,0,2003,HepatitisA
+Zone:10,3-3,0,2003,HepatitisA
 Loei,3-3,0,2003,HepatitisA
 Nong Bua Lam Phu,3-3,0,2003,HepatitisA
 Nong Khai,3-3,0,2003,HepatitisA
 Udon Thani,3-3,0,2003,HepatitisA
-Zone 11,3-3,0,2003,HepatitisA
+Zone:11,3-3,0,2003,HepatitisA
 Kalasin,3-3,0,2003,HepatitisA
 Mukdahan,3-3,0,2003,HepatitisA
 Nakhon Phanom,3-3,0,2003,HepatitisA
 Sakon Nakhon,3-3,0,2003,HepatitisA
-Zone 12,3-3,1,2003,HepatitisA
+Zone:12,3-3,1,2003,HepatitisA
 Khon Kaen,3-3,1,2003,HepatitisA
 Maha Sarakham,3-3,0,2003,HepatitisA
 Roi Et,3-3,0,2003,HepatitisA
-Zone 13,3-3,0,2003,HepatitisA
+Zone:13,3-3,0,2003,HepatitisA
 Buri Ram,3-3,0,2003,HepatitisA
 Chaiyaphum,3-3,0,2003,HepatitisA
 Nakhon Ratchasima,3-3,0,2003,HepatitisA
 Surin,3-3,0,2003,HepatitisA
-Zone 14,3-3,0,2003,HepatitisA
+Zone:14,3-3,0,2003,HepatitisA
 Amnat Charoen,3-3,0,2003,HepatitisA
 Si Sa Ket,3-3,0,2003,HepatitisA
 Ubon Ratchathani,3-3,0,2003,HepatitisA
 Yasothon,3-3,0,2003,HepatitisA
 South Region,3-3,5,2003,HepatitisA
-Zone 15,3-3,0,2003,HepatitisA
+Zone:15,3-3,0,2003,HepatitisA
 Chumphon,3-3,0,2003,HepatitisA
 Ranong,3-3,0,2003,HepatitisA
 Surat Thani,3-3,0,2003,HepatitisA
-Zone 16,3-3,0,2003,HepatitisA
+Zone:16,3-3,0,2003,HepatitisA
 Nakhon Si Thammarat,3-3,0,2003,HepatitisA
 Phatthalung,3-3,0,2003,HepatitisA
 Trang,3-3,0,2003,HepatitisA
-Zone 17,3-3,0,2003,HepatitisA
+Zone:17,3-3,0,2003,HepatitisA
 Krabi,3-3,0,2003,HepatitisA
 Phangnga,3-3,0,2003,HepatitisA
 Phuket,3-3,0,2003,HepatitisA
-Zone 18,3-3,5,2003,HepatitisA
+Zone:18,3-3,5,2003,HepatitisA
 Narathiwat,3-3,5,2003,HepatitisA
 Pattani,3-3,0,2003,HepatitisA
 Yala,3-3,0,2003,HepatitisA
-Zone 19,3-3,0,2003,HepatitisA
+Zone:19,3-3,0,2003,HepatitisA
 Satun,3-3,0,2003,HepatitisA
 Songkhla,3-3,0,2003,HepatitisA
 Total,4-4,6,2003,HepatitisA
 North Region,4-4,1,2003,HepatitisA
-Zone 1,4-4,1,2003,HepatitisA
+Zone:1,4-4,1,2003,HepatitisA
 Chiang Mai,4-4,1,2003,HepatitisA
 Chiang Rai,4-4,0,2003,HepatitisA
 Lampang,4-4,0,2003,HepatitisA
@@ -35008,98 +35008,98 @@ Mae Hong Son,4-4,0,2003,HepatitisA
 Nan,4-4,0,2003,HepatitisA
 Phayao,4-4,0,2003,HepatitisA
 Phrae,4-4,0,2003,HepatitisA
-Zone 2,4-4,0,2003,HepatitisA
+Zone:2,4-4,0,2003,HepatitisA
 Phetchabun,4-4,0,2003,HepatitisA
 Phitsanulok,4-4,0,2003,HepatitisA
 Sukhothai,4-4,0,2003,HepatitisA
 Tak,4-4,0,2003,HepatitisA
 Uttaradit,4-4,0,2003,HepatitisA
-Zone 3,4-4,0,2003,HepatitisA
+Zone:3,4-4,0,2003,HepatitisA
 Kamphaeng Phet,4-4,0,2003,HepatitisA
 Nakhon Sawan,4-4,0,2003,HepatitisA
 Phichit,4-4,0,2003,HepatitisA
 Uthai Thani,4-4,0,2003,HepatitisA
 Central Region,4-4,2,2003,HepatitisA
 Bangkok,4-4,1,2003,HepatitisA
-Zone 4,4-4,0,2003,HepatitisA
+Zone:4,4-4,0,2003,HepatitisA
 Ang Thong,4-4,0,2003,HepatitisA
 Nonthaburi,4-4,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,4-4,0,2003,HepatitisA
 Pathum Thani,4-4,0,2003,HepatitisA
-Zone 5,4-4,0,2003,HepatitisA
+Zone:5,4-4,0,2003,HepatitisA
 Chai Nat,4-4,0,2003,HepatitisA
 Lop Buri,4-4,0,2003,HepatitisA
 Saraburi,4-4,0,2003,HepatitisA
 Sing Buri,4-4,0,2003,HepatitisA
-Zone 6,4-4,1,2003,HepatitisA
+Zone:6,4-4,1,2003,HepatitisA
 Kanchanaburi,4-4,0,2003,HepatitisA
 Nakhon Pathom,4-4,0,2003,HepatitisA
 Ratchaburi,4-4,0,2003,HepatitisA
 Suphan Buri,4-4,1,2003,HepatitisA
-Zone 7,4-4,0,2003,HepatitisA
+Zone:7,4-4,0,2003,HepatitisA
 Phetchaburi,4-4,0,2003,HepatitisA
 Prachuap Khiri Khan,4-4,0,2003,HepatitisA
 Samut Sakhon,4-4,0,2003,HepatitisA
 Samut Songkhram,4-4,0,2003,HepatitisA
-Zone 8,4-4,0,2003,HepatitisA
+Zone:8,4-4,0,2003,HepatitisA
 Chachoengsao,4-4,0,2003,HepatitisA
 Nakhon Nayok,4-4,0,2003,HepatitisA
 Prachin Buri,4-4,0,2003,HepatitisA
 Sa Kaeo,4-4,0,2003,HepatitisA
 Samut Prakan,4-4,0,2003,HepatitisA
-Zone 9,4-4,0,2003,HepatitisA
+Zone:9,4-4,0,2003,HepatitisA
 Chanthaburi,4-4,0,2003,HepatitisA
 Chon Buri,4-4,0,2003,HepatitisA
 Rayong,4-4,0,2003,HepatitisA
 Trat,4-4,0,2003,HepatitisA
 North-Eastern Region,4-4,1,2003,HepatitisA
-Zone 10,4-4,0,2003,HepatitisA
+Zone:10,4-4,0,2003,HepatitisA
 Loei,4-4,0,2003,HepatitisA
 Nong Bua Lam Phu,4-4,0,2003,HepatitisA
 Nong Khai,4-4,0,2003,HepatitisA
 Udon Thani,4-4,0,2003,HepatitisA
-Zone 11,4-4,0,2003,HepatitisA
+Zone:11,4-4,0,2003,HepatitisA
 Kalasin,4-4,0,2003,HepatitisA
 Mukdahan,4-4,0,2003,HepatitisA
 Nakhon Phanom,4-4,0,2003,HepatitisA
 Sakon Nakhon,4-4,0,2003,HepatitisA
-Zone 12,4-4,0,2003,HepatitisA
+Zone:12,4-4,0,2003,HepatitisA
 Khon Kaen,4-4,0,2003,HepatitisA
 Maha Sarakham,4-4,0,2003,HepatitisA
 Roi Et,4-4,0,2003,HepatitisA
-Zone 13,4-4,1,2003,HepatitisA
+Zone:13,4-4,1,2003,HepatitisA
 Buri Ram,4-4,0,2003,HepatitisA
 Chaiyaphum,4-4,1,2003,HepatitisA
 Nakhon Ratchasima,4-4,0,2003,HepatitisA
 Surin,4-4,0,2003,HepatitisA
-Zone 14,4-4,0,2003,HepatitisA
+Zone:14,4-4,0,2003,HepatitisA
 Amnat Charoen,4-4,0,2003,HepatitisA
 Si Sa Ket,4-4,0,2003,HepatitisA
 Ubon Ratchathani,4-4,0,2003,HepatitisA
 Yasothon,4-4,0,2003,HepatitisA
 South Region,4-4,2,2003,HepatitisA
-Zone 15,4-4,0,2003,HepatitisA
+Zone:15,4-4,0,2003,HepatitisA
 Chumphon,4-4,0,2003,HepatitisA
 Ranong,4-4,0,2003,HepatitisA
 Surat Thani,4-4,0,2003,HepatitisA
-Zone 16,4-4,0,2003,HepatitisA
+Zone:16,4-4,0,2003,HepatitisA
 Nakhon Si Thammarat,4-4,0,2003,HepatitisA
 Phatthalung,4-4,0,2003,HepatitisA
 Trang,4-4,0,2003,HepatitisA
-Zone 17,4-4,0,2003,HepatitisA
+Zone:17,4-4,0,2003,HepatitisA
 Krabi,4-4,0,2003,HepatitisA
 Phangnga,4-4,0,2003,HepatitisA
 Phuket,4-4,0,2003,HepatitisA
-Zone 18,4-4,2,2003,HepatitisA
+Zone:18,4-4,2,2003,HepatitisA
 Narathiwat,4-4,2,2003,HepatitisA
 Pattani,4-4,0,2003,HepatitisA
 Yala,4-4,0,2003,HepatitisA
-Zone 19,4-4,0,2003,HepatitisA
+Zone:19,4-4,0,2003,HepatitisA
 Satun,4-4,0,2003,HepatitisA
 Songkhla,4-4,0,2003,HepatitisA
 Total,5-5,13,2003,HepatitisA
 North Region,5-5,5,2003,HepatitisA
-Zone 1,5-5,4,2003,HepatitisA
+Zone:1,5-5,4,2003,HepatitisA
 Chiang Mai,5-5,4,2003,HepatitisA
 Chiang Rai,5-5,0,2003,HepatitisA
 Lampang,5-5,0,2003,HepatitisA
@@ -35108,98 +35108,98 @@ Mae Hong Son,5-5,0,2003,HepatitisA
 Nan,5-5,0,2003,HepatitisA
 Phayao,5-5,0,2003,HepatitisA
 Phrae,5-5,0,2003,HepatitisA
-Zone 2,5-5,1,2003,HepatitisA
+Zone:2,5-5,1,2003,HepatitisA
 Phetchabun,5-5,0,2003,HepatitisA
 Phitsanulok,5-5,1,2003,HepatitisA
 Sukhothai,5-5,0,2003,HepatitisA
 Tak,5-5,0,2003,HepatitisA
 Uttaradit,5-5,0,2003,HepatitisA
-Zone 3,5-5,0,2003,HepatitisA
+Zone:3,5-5,0,2003,HepatitisA
 Kamphaeng Phet,5-5,0,2003,HepatitisA
 Nakhon Sawan,5-5,0,2003,HepatitisA
 Phichit,5-5,0,2003,HepatitisA
 Uthai Thani,5-5,0,2003,HepatitisA
 Central Region,5-5,2,2003,HepatitisA
 Bangkok,5-5,2,2003,HepatitisA
-Zone 4,5-5,0,2003,HepatitisA
+Zone:4,5-5,0,2003,HepatitisA
 Ang Thong,5-5,0,2003,HepatitisA
 Nonthaburi,5-5,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,5-5,0,2003,HepatitisA
 Pathum Thani,5-5,0,2003,HepatitisA
-Zone 5,5-5,0,2003,HepatitisA
+Zone:5,5-5,0,2003,HepatitisA
 Chai Nat,5-5,0,2003,HepatitisA
 Lop Buri,5-5,0,2003,HepatitisA
 Saraburi,5-5,0,2003,HepatitisA
 Sing Buri,5-5,0,2003,HepatitisA
-Zone 6,5-5,0,2003,HepatitisA
+Zone:6,5-5,0,2003,HepatitisA
 Kanchanaburi,5-5,0,2003,HepatitisA
 Nakhon Pathom,5-5,0,2003,HepatitisA
 Ratchaburi,5-5,0,2003,HepatitisA
 Suphan Buri,5-5,0,2003,HepatitisA
-Zone 7,5-5,0,2003,HepatitisA
+Zone:7,5-5,0,2003,HepatitisA
 Phetchaburi,5-5,0,2003,HepatitisA
 Prachuap Khiri Khan,5-5,0,2003,HepatitisA
 Samut Sakhon,5-5,0,2003,HepatitisA
 Samut Songkhram,5-5,0,2003,HepatitisA
-Zone 8,5-5,0,2003,HepatitisA
+Zone:8,5-5,0,2003,HepatitisA
 Chachoengsao,5-5,0,2003,HepatitisA
 Nakhon Nayok,5-5,0,2003,HepatitisA
 Prachin Buri,5-5,0,2003,HepatitisA
 Sa Kaeo,5-5,0,2003,HepatitisA
 Samut Prakan,5-5,0,2003,HepatitisA
-Zone 9,5-5,0,2003,HepatitisA
+Zone:9,5-5,0,2003,HepatitisA
 Chanthaburi,5-5,0,2003,HepatitisA
 Chon Buri,5-5,0,2003,HepatitisA
 Rayong,5-5,0,2003,HepatitisA
 Trat,5-5,0,2003,HepatitisA
 North-Eastern Region,5-5,1,2003,HepatitisA
-Zone 10,5-5,0,2003,HepatitisA
+Zone:10,5-5,0,2003,HepatitisA
 Loei,5-5,0,2003,HepatitisA
 Nong Bua Lam Phu,5-5,0,2003,HepatitisA
 Nong Khai,5-5,0,2003,HepatitisA
 Udon Thani,5-5,0,2003,HepatitisA
-Zone 11,5-5,0,2003,HepatitisA
+Zone:11,5-5,0,2003,HepatitisA
 Kalasin,5-5,0,2003,HepatitisA
 Mukdahan,5-5,0,2003,HepatitisA
 Nakhon Phanom,5-5,0,2003,HepatitisA
 Sakon Nakhon,5-5,0,2003,HepatitisA
-Zone 12,5-5,0,2003,HepatitisA
+Zone:12,5-5,0,2003,HepatitisA
 Khon Kaen,5-5,0,2003,HepatitisA
 Maha Sarakham,5-5,0,2003,HepatitisA
 Roi Et,5-5,0,2003,HepatitisA
-Zone 13,5-5,1,2003,HepatitisA
+Zone:13,5-5,1,2003,HepatitisA
 Buri Ram,5-5,1,2003,HepatitisA
 Chaiyaphum,5-5,0,2003,HepatitisA
 Nakhon Ratchasima,5-5,0,2003,HepatitisA
 Surin,5-5,0,2003,HepatitisA
-Zone 14,5-5,0,2003,HepatitisA
+Zone:14,5-5,0,2003,HepatitisA
 Amnat Charoen,5-5,0,2003,HepatitisA
 Si Sa Ket,5-5,0,2003,HepatitisA
 Ubon Ratchathani,5-5,0,2003,HepatitisA
 Yasothon,5-5,0,2003,HepatitisA
 South Region,5-5,5,2003,HepatitisA
-Zone 15,5-5,0,2003,HepatitisA
+Zone:15,5-5,0,2003,HepatitisA
 Chumphon,5-5,0,2003,HepatitisA
 Ranong,5-5,0,2003,HepatitisA
 Surat Thani,5-5,0,2003,HepatitisA
-Zone 16,5-5,0,2003,HepatitisA
+Zone:16,5-5,0,2003,HepatitisA
 Nakhon Si Thammarat,5-5,0,2003,HepatitisA
 Phatthalung,5-5,0,2003,HepatitisA
 Trang,5-5,0,2003,HepatitisA
-Zone 17,5-5,0,2003,HepatitisA
+Zone:17,5-5,0,2003,HepatitisA
 Krabi,5-5,0,2003,HepatitisA
 Phangnga,5-5,0,2003,HepatitisA
 Phuket,5-5,0,2003,HepatitisA
-Zone 18,5-5,5,2003,HepatitisA
+Zone:18,5-5,5,2003,HepatitisA
 Narathiwat,5-5,1,2003,HepatitisA
 Pattani,5-5,2,2003,HepatitisA
 Yala,5-5,2,2003,HepatitisA
-Zone 19,5-5,0,2003,HepatitisA
+Zone:19,5-5,0,2003,HepatitisA
 Satun,5-5,0,2003,HepatitisA
 Songkhla,5-5,0,2003,HepatitisA
 Total,6-6,10,2003,HepatitisA
 North Region,6-6,3,2003,HepatitisA
-Zone 1,6-6,2,2003,HepatitisA
+Zone:1,6-6,2,2003,HepatitisA
 Chiang Mai,6-6,2,2003,HepatitisA
 Chiang Rai,6-6,0,2003,HepatitisA
 Lampang,6-6,0,2003,HepatitisA
@@ -35208,98 +35208,98 @@ Mae Hong Son,6-6,0,2003,HepatitisA
 Nan,6-6,0,2003,HepatitisA
 Phayao,6-6,0,2003,HepatitisA
 Phrae,6-6,0,2003,HepatitisA
-Zone 2,6-6,1,2003,HepatitisA
+Zone:2,6-6,1,2003,HepatitisA
 Phetchabun,6-6,0,2003,HepatitisA
 Phitsanulok,6-6,0,2003,HepatitisA
 Sukhothai,6-6,0,2003,HepatitisA
 Tak,6-6,1,2003,HepatitisA
 Uttaradit,6-6,0,2003,HepatitisA
-Zone 3,6-6,0,2003,HepatitisA
+Zone:3,6-6,0,2003,HepatitisA
 Kamphaeng Phet,6-6,0,2003,HepatitisA
 Nakhon Sawan,6-6,0,2003,HepatitisA
 Phichit,6-6,0,2003,HepatitisA
 Uthai Thani,6-6,0,2003,HepatitisA
 Central Region,6-6,1,2003,HepatitisA
 Bangkok,6-6,1,2003,HepatitisA
-Zone 4,6-6,0,2003,HepatitisA
+Zone:4,6-6,0,2003,HepatitisA
 Ang Thong,6-6,0,2003,HepatitisA
 Nonthaburi,6-6,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,6-6,0,2003,HepatitisA
 Pathum Thani,6-6,0,2003,HepatitisA
-Zone 5,6-6,0,2003,HepatitisA
+Zone:5,6-6,0,2003,HepatitisA
 Chai Nat,6-6,0,2003,HepatitisA
 Lop Buri,6-6,0,2003,HepatitisA
 Saraburi,6-6,0,2003,HepatitisA
 Sing Buri,6-6,0,2003,HepatitisA
-Zone 6,6-6,0,2003,HepatitisA
+Zone:6,6-6,0,2003,HepatitisA
 Kanchanaburi,6-6,0,2003,HepatitisA
 Nakhon Pathom,6-6,0,2003,HepatitisA
 Ratchaburi,6-6,0,2003,HepatitisA
 Suphan Buri,6-6,0,2003,HepatitisA
-Zone 7,6-6,0,2003,HepatitisA
+Zone:7,6-6,0,2003,HepatitisA
 Phetchaburi,6-6,0,2003,HepatitisA
 Prachuap Khiri Khan,6-6,0,2003,HepatitisA
 Samut Sakhon,6-6,0,2003,HepatitisA
 Samut Songkhram,6-6,0,2003,HepatitisA
-Zone 8,6-6,0,2003,HepatitisA
+Zone:8,6-6,0,2003,HepatitisA
 Chachoengsao,6-6,0,2003,HepatitisA
 Nakhon Nayok,6-6,0,2003,HepatitisA
 Prachin Buri,6-6,0,2003,HepatitisA
 Sa Kaeo,6-6,0,2003,HepatitisA
 Samut Prakan,6-6,0,2003,HepatitisA
-Zone 9,6-6,0,2003,HepatitisA
+Zone:9,6-6,0,2003,HepatitisA
 Chanthaburi,6-6,0,2003,HepatitisA
 Chon Buri,6-6,0,2003,HepatitisA
 Rayong,6-6,0,2003,HepatitisA
 Trat,6-6,0,2003,HepatitisA
 North-Eastern Region,6-6,0,2003,HepatitisA
-Zone 10,6-6,0,2003,HepatitisA
+Zone:10,6-6,0,2003,HepatitisA
 Loei,6-6,0,2003,HepatitisA
 Nong Bua Lam Phu,6-6,0,2003,HepatitisA
 Nong Khai,6-6,0,2003,HepatitisA
 Udon Thani,6-6,0,2003,HepatitisA
-Zone 11,6-6,0,2003,HepatitisA
+Zone:11,6-6,0,2003,HepatitisA
 Kalasin,6-6,0,2003,HepatitisA
 Mukdahan,6-6,0,2003,HepatitisA
 Nakhon Phanom,6-6,0,2003,HepatitisA
 Sakon Nakhon,6-6,0,2003,HepatitisA
-Zone 12,6-6,0,2003,HepatitisA
+Zone:12,6-6,0,2003,HepatitisA
 Khon Kaen,6-6,0,2003,HepatitisA
 Maha Sarakham,6-6,0,2003,HepatitisA
 Roi Et,6-6,0,2003,HepatitisA
-Zone 13,6-6,0,2003,HepatitisA
+Zone:13,6-6,0,2003,HepatitisA
 Buri Ram,6-6,0,2003,HepatitisA
 Chaiyaphum,6-6,0,2003,HepatitisA
 Nakhon Ratchasima,6-6,0,2003,HepatitisA
 Surin,6-6,0,2003,HepatitisA
-Zone 14,6-6,0,2003,HepatitisA
+Zone:14,6-6,0,2003,HepatitisA
 Amnat Charoen,6-6,0,2003,HepatitisA
 Si Sa Ket,6-6,0,2003,HepatitisA
 Ubon Ratchathani,6-6,0,2003,HepatitisA
 Yasothon,6-6,0,2003,HepatitisA
 South Region,6-6,6,2003,HepatitisA
-Zone 15,6-6,0,2003,HepatitisA
+Zone:15,6-6,0,2003,HepatitisA
 Chumphon,6-6,0,2003,HepatitisA
 Ranong,6-6,0,2003,HepatitisA
 Surat Thani,6-6,0,2003,HepatitisA
-Zone 16,6-6,1,2003,HepatitisA
+Zone:16,6-6,1,2003,HepatitisA
 Nakhon Si Thammarat,6-6,1,2003,HepatitisA
 Phatthalung,6-6,0,2003,HepatitisA
 Trang,6-6,0,2003,HepatitisA
-Zone 17,6-6,0,2003,HepatitisA
+Zone:17,6-6,0,2003,HepatitisA
 Krabi,6-6,0,2003,HepatitisA
 Phangnga,6-6,0,2003,HepatitisA
 Phuket,6-6,0,2003,HepatitisA
-Zone 18,6-6,5,2003,HepatitisA
+Zone:18,6-6,5,2003,HepatitisA
 Narathiwat,6-6,3,2003,HepatitisA
 Pattani,6-6,2,2003,HepatitisA
 Yala,6-6,0,2003,HepatitisA
-Zone 19,6-6,0,2003,HepatitisA
+Zone:19,6-6,0,2003,HepatitisA
 Satun,6-6,0,2003,HepatitisA
 Songkhla,6-6,0,2003,HepatitisA
 Total,7-9,64,2003,HepatitisA
 North Region,7-9,7,2003,HepatitisA
-Zone 1,7-9,4,2003,HepatitisA
+Zone:1,7-9,4,2003,HepatitisA
 Chiang Mai,7-9,4,2003,HepatitisA
 Chiang Rai,7-9,0,2003,HepatitisA
 Lampang,7-9,0,2003,HepatitisA
@@ -35308,98 +35308,98 @@ Mae Hong Son,7-9,0,2003,HepatitisA
 Nan,7-9,0,2003,HepatitisA
 Phayao,7-9,0,2003,HepatitisA
 Phrae,7-9,0,2003,HepatitisA
-Zone 2,7-9,3,2003,HepatitisA
+Zone:2,7-9,3,2003,HepatitisA
 Phetchabun,7-9,0,2003,HepatitisA
 Phitsanulok,7-9,0,2003,HepatitisA
 Sukhothai,7-9,0,2003,HepatitisA
 Tak,7-9,3,2003,HepatitisA
 Uttaradit,7-9,0,2003,HepatitisA
-Zone 3,7-9,0,2003,HepatitisA
+Zone:3,7-9,0,2003,HepatitisA
 Kamphaeng Phet,7-9,0,2003,HepatitisA
 Nakhon Sawan,7-9,0,2003,HepatitisA
 Phichit,7-9,0,2003,HepatitisA
 Uthai Thani,7-9,0,2003,HepatitisA
 Central Region,7-9,6,2003,HepatitisA
 Bangkok,7-9,2,2003,HepatitisA
-Zone 4,7-9,0,2003,HepatitisA
+Zone:4,7-9,0,2003,HepatitisA
 Ang Thong,7-9,0,2003,HepatitisA
 Nonthaburi,7-9,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,7-9,0,2003,HepatitisA
 Pathum Thani,7-9,0,2003,HepatitisA
-Zone 5,7-9,0,2003,HepatitisA
+Zone:5,7-9,0,2003,HepatitisA
 Chai Nat,7-9,0,2003,HepatitisA
 Lop Buri,7-9,0,2003,HepatitisA
 Saraburi,7-9,0,2003,HepatitisA
 Sing Buri,7-9,0,2003,HepatitisA
-Zone 6,7-9,3,2003,HepatitisA
+Zone:6,7-9,3,2003,HepatitisA
 Kanchanaburi,7-9,0,2003,HepatitisA
 Nakhon Pathom,7-9,1,2003,HepatitisA
 Ratchaburi,7-9,1,2003,HepatitisA
 Suphan Buri,7-9,1,2003,HepatitisA
-Zone 7,7-9,1,2003,HepatitisA
+Zone:7,7-9,1,2003,HepatitisA
 Phetchaburi,7-9,0,2003,HepatitisA
 Prachuap Khiri Khan,7-9,0,2003,HepatitisA
 Samut Sakhon,7-9,1,2003,HepatitisA
 Samut Songkhram,7-9,0,2003,HepatitisA
-Zone 8,7-9,0,2003,HepatitisA
+Zone:8,7-9,0,2003,HepatitisA
 Chachoengsao,7-9,0,2003,HepatitisA
 Nakhon Nayok,7-9,0,2003,HepatitisA
 Prachin Buri,7-9,0,2003,HepatitisA
 Sa Kaeo,7-9,0,2003,HepatitisA
 Samut Prakan,7-9,0,2003,HepatitisA
-Zone 9,7-9,0,2003,HepatitisA
+Zone:9,7-9,0,2003,HepatitisA
 Chanthaburi,7-9,0,2003,HepatitisA
 Chon Buri,7-9,0,2003,HepatitisA
 Rayong,7-9,0,2003,HepatitisA
 Trat,7-9,0,2003,HepatitisA
 North-Eastern Region,7-9,0,2003,HepatitisA
-Zone 10,7-9,0,2003,HepatitisA
+Zone:10,7-9,0,2003,HepatitisA
 Loei,7-9,0,2003,HepatitisA
 Nong Bua Lam Phu,7-9,0,2003,HepatitisA
 Nong Khai,7-9,0,2003,HepatitisA
 Udon Thani,7-9,0,2003,HepatitisA
-Zone 11,7-9,0,2003,HepatitisA
+Zone:11,7-9,0,2003,HepatitisA
 Kalasin,7-9,0,2003,HepatitisA
 Mukdahan,7-9,0,2003,HepatitisA
 Nakhon Phanom,7-9,0,2003,HepatitisA
 Sakon Nakhon,7-9,0,2003,HepatitisA
-Zone 12,7-9,0,2003,HepatitisA
+Zone:12,7-9,0,2003,HepatitisA
 Khon Kaen,7-9,0,2003,HepatitisA
 Maha Sarakham,7-9,0,2003,HepatitisA
 Roi Et,7-9,0,2003,HepatitisA
-Zone 13,7-9,0,2003,HepatitisA
+Zone:13,7-9,0,2003,HepatitisA
 Buri Ram,7-9,0,2003,HepatitisA
 Chaiyaphum,7-9,0,2003,HepatitisA
 Nakhon Ratchasima,7-9,0,2003,HepatitisA
 Surin,7-9,0,2003,HepatitisA
-Zone 14,7-9,0,2003,HepatitisA
+Zone:14,7-9,0,2003,HepatitisA
 Amnat Charoen,7-9,0,2003,HepatitisA
 Si Sa Ket,7-9,0,2003,HepatitisA
 Ubon Ratchathani,7-9,0,2003,HepatitisA
 Yasothon,7-9,0,2003,HepatitisA
 South Region,7-9,51,2003,HepatitisA
-Zone 15,7-9,0,2003,HepatitisA
+Zone:15,7-9,0,2003,HepatitisA
 Chumphon,7-9,0,2003,HepatitisA
 Ranong,7-9,0,2003,HepatitisA
 Surat Thani,7-9,0,2003,HepatitisA
-Zone 16,7-9,1,2003,HepatitisA
+Zone:16,7-9,1,2003,HepatitisA
 Nakhon Si Thammarat,7-9,1,2003,HepatitisA
 Phatthalung,7-9,0,2003,HepatitisA
 Trang,7-9,0,2003,HepatitisA
-Zone 17,7-9,0,2003,HepatitisA
+Zone:17,7-9,0,2003,HepatitisA
 Krabi,7-9,0,2003,HepatitisA
 Phangnga,7-9,0,2003,HepatitisA
 Phuket,7-9,0,2003,HepatitisA
-Zone 18,7-9,47,2003,HepatitisA
+Zone:18,7-9,47,2003,HepatitisA
 Narathiwat,7-9,32,2003,HepatitisA
 Pattani,7-9,10,2003,HepatitisA
 Yala,7-9,5,2003,HepatitisA
-Zone 19,7-9,3,2003,HepatitisA
+Zone:19,7-9,3,2003,HepatitisA
 Satun,7-9,0,2003,HepatitisA
 Songkhla,7-9,3,2003,HepatitisA
 Total,10-14,93,2003,HepatitisA
 North Region,10-14,23,2003,HepatitisA
-Zone 1,10-14,21,2003,HepatitisA
+Zone:1,10-14,21,2003,HepatitisA
 Chiang Mai,10-14,13,2003,HepatitisA
 Chiang Rai,10-14,2,2003,HepatitisA
 Lampang,10-14,0,2003,HepatitisA
@@ -35408,98 +35408,98 @@ Mae Hong Son,10-14,1,2003,HepatitisA
 Nan,10-14,3,2003,HepatitisA
 Phayao,10-14,1,2003,HepatitisA
 Phrae,10-14,0,2003,HepatitisA
-Zone 2,10-14,2,2003,HepatitisA
+Zone:2,10-14,2,2003,HepatitisA
 Phetchabun,10-14,0,2003,HepatitisA
 Phitsanulok,10-14,1,2003,HepatitisA
 Sukhothai,10-14,0,2003,HepatitisA
 Tak,10-14,1,2003,HepatitisA
 Uttaradit,10-14,0,2003,HepatitisA
-Zone 3,10-14,0,2003,HepatitisA
+Zone:3,10-14,0,2003,HepatitisA
 Kamphaeng Phet,10-14,0,2003,HepatitisA
 Nakhon Sawan,10-14,0,2003,HepatitisA
 Phichit,10-14,0,2003,HepatitisA
 Uthai Thani,10-14,0,2003,HepatitisA
 Central Region,10-14,13,2003,HepatitisA
 Bangkok,10-14,1,2003,HepatitisA
-Zone 4,10-14,0,2003,HepatitisA
+Zone:4,10-14,0,2003,HepatitisA
 Ang Thong,10-14,0,2003,HepatitisA
 Nonthaburi,10-14,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,10-14,0,2003,HepatitisA
 Pathum Thani,10-14,0,2003,HepatitisA
-Zone 5,10-14,1,2003,HepatitisA
+Zone:5,10-14,1,2003,HepatitisA
 Chai Nat,10-14,0,2003,HepatitisA
 Lop Buri,10-14,0,2003,HepatitisA
 Saraburi,10-14,0,2003,HepatitisA
 Sing Buri,10-14,1,2003,HepatitisA
-Zone 6,10-14,9,2003,HepatitisA
+Zone:6,10-14,9,2003,HepatitisA
 Kanchanaburi,10-14,0,2003,HepatitisA
 Nakhon Pathom,10-14,2,2003,HepatitisA
 Ratchaburi,10-14,0,2003,HepatitisA
 Suphan Buri,10-14,7,2003,HepatitisA
-Zone 7,10-14,0,2003,HepatitisA
+Zone:7,10-14,0,2003,HepatitisA
 Phetchaburi,10-14,0,2003,HepatitisA
 Prachuap Khiri Khan,10-14,0,2003,HepatitisA
 Samut Sakhon,10-14,0,2003,HepatitisA
 Samut Songkhram,10-14,0,2003,HepatitisA
-Zone 8,10-14,1,2003,HepatitisA
+Zone:8,10-14,1,2003,HepatitisA
 Chachoengsao,10-14,0,2003,HepatitisA
 Nakhon Nayok,10-14,0,2003,HepatitisA
 Prachin Buri,10-14,0,2003,HepatitisA
 Sa Kaeo,10-14,1,2003,HepatitisA
 Samut Prakan,10-14,0,2003,HepatitisA
-Zone 9,10-14,1,2003,HepatitisA
+Zone:9,10-14,1,2003,HepatitisA
 Chanthaburi,10-14,0,2003,HepatitisA
 Chon Buri,10-14,0,2003,HepatitisA
 Rayong,10-14,1,2003,HepatitisA
 Trat,10-14,0,2003,HepatitisA
 North-Eastern Region,10-14,2,2003,HepatitisA
-Zone 10,10-14,0,2003,HepatitisA
+Zone:10,10-14,0,2003,HepatitisA
 Loei,10-14,0,2003,HepatitisA
 Nong Bua Lam Phu,10-14,0,2003,HepatitisA
 Nong Khai,10-14,0,2003,HepatitisA
 Udon Thani,10-14,0,2003,HepatitisA
-Zone 11,10-14,0,2003,HepatitisA
+Zone:11,10-14,0,2003,HepatitisA
 Kalasin,10-14,0,2003,HepatitisA
 Mukdahan,10-14,0,2003,HepatitisA
 Nakhon Phanom,10-14,0,2003,HepatitisA
 Sakon Nakhon,10-14,0,2003,HepatitisA
-Zone 12,10-14,0,2003,HepatitisA
+Zone:12,10-14,0,2003,HepatitisA
 Khon Kaen,10-14,0,2003,HepatitisA
 Maha Sarakham,10-14,0,2003,HepatitisA
 Roi Et,10-14,0,2003,HepatitisA
-Zone 13,10-14,1,2003,HepatitisA
+Zone:13,10-14,1,2003,HepatitisA
 Buri Ram,10-14,0,2003,HepatitisA
 Chaiyaphum,10-14,0,2003,HepatitisA
 Nakhon Ratchasima,10-14,1,2003,HepatitisA
 Surin,10-14,0,2003,HepatitisA
-Zone 14,10-14,1,2003,HepatitisA
+Zone:14,10-14,1,2003,HepatitisA
 Amnat Charoen,10-14,0,2003,HepatitisA
 Si Sa Ket,10-14,1,2003,HepatitisA
 Ubon Ratchathani,10-14,0,2003,HepatitisA
 Yasothon,10-14,0,2003,HepatitisA
 South Region,10-14,55,2003,HepatitisA
-Zone 15,10-14,0,2003,HepatitisA
+Zone:15,10-14,0,2003,HepatitisA
 Chumphon,10-14,0,2003,HepatitisA
 Ranong,10-14,0,2003,HepatitisA
 Surat Thani,10-14,0,2003,HepatitisA
-Zone 16,10-14,0,2003,HepatitisA
+Zone:16,10-14,0,2003,HepatitisA
 Nakhon Si Thammarat,10-14,0,2003,HepatitisA
 Phatthalung,10-14,0,2003,HepatitisA
 Trang,10-14,0,2003,HepatitisA
-Zone 17,10-14,0,2003,HepatitisA
+Zone:17,10-14,0,2003,HepatitisA
 Krabi,10-14,0,2003,HepatitisA
 Phangnga,10-14,0,2003,HepatitisA
 Phuket,10-14,0,2003,HepatitisA
-Zone 18,10-14,52,2003,HepatitisA
+Zone:18,10-14,52,2003,HepatitisA
 Narathiwat,10-14,38,2003,HepatitisA
 Pattani,10-14,8,2003,HepatitisA
 Yala,10-14,6,2003,HepatitisA
-Zone 19,10-14,3,2003,HepatitisA
+Zone:19,10-14,3,2003,HepatitisA
 Satun,10-14,1,2003,HepatitisA
 Songkhla,10-14,2,2003,HepatitisA
 Total,15-24,118,2003,HepatitisA
 North Region,15-24,45,2003,HepatitisA
-Zone 1,15-24,40,2003,HepatitisA
+Zone:1,15-24,40,2003,HepatitisA
 Chiang Mai,15-24,16,2003,HepatitisA
 Chiang Rai,15-24,11,2003,HepatitisA
 Lampang,15-24,4,2003,HepatitisA
@@ -35508,98 +35508,98 @@ Mae Hong Son,15-24,2,2003,HepatitisA
 Nan,15-24,1,2003,HepatitisA
 Phayao,15-24,2,2003,HepatitisA
 Phrae,15-24,0,2003,HepatitisA
-Zone 2,15-24,3,2003,HepatitisA
+Zone:2,15-24,3,2003,HepatitisA
 Phetchabun,15-24,0,2003,HepatitisA
 Phitsanulok,15-24,2,2003,HepatitisA
 Sukhothai,15-24,0,2003,HepatitisA
 Tak,15-24,0,2003,HepatitisA
 Uttaradit,15-24,1,2003,HepatitisA
-Zone 3,15-24,2,2003,HepatitisA
+Zone:3,15-24,2,2003,HepatitisA
 Kamphaeng Phet,15-24,2,2003,HepatitisA
 Nakhon Sawan,15-24,0,2003,HepatitisA
 Phichit,15-24,0,2003,HepatitisA
 Uthai Thani,15-24,0,2003,HepatitisA
 Central Region,15-24,11,2003,HepatitisA
 Bangkok,15-24,4,2003,HepatitisA
-Zone 4,15-24,2,2003,HepatitisA
+Zone:4,15-24,2,2003,HepatitisA
 Ang Thong,15-24,0,2003,HepatitisA
 Nonthaburi,15-24,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,15-24,0,2003,HepatitisA
 Pathum Thani,15-24,2,2003,HepatitisA
-Zone 5,15-24,0,2003,HepatitisA
+Zone:5,15-24,0,2003,HepatitisA
 Chai Nat,15-24,0,2003,HepatitisA
 Lop Buri,15-24,0,2003,HepatitisA
 Saraburi,15-24,0,2003,HepatitisA
 Sing Buri,15-24,0,2003,HepatitisA
-Zone 6,15-24,2,2003,HepatitisA
+Zone:6,15-24,2,2003,HepatitisA
 Kanchanaburi,15-24,0,2003,HepatitisA
 Nakhon Pathom,15-24,0,2003,HepatitisA
 Ratchaburi,15-24,0,2003,HepatitisA
 Suphan Buri,15-24,2,2003,HepatitisA
-Zone 7,15-24,0,2003,HepatitisA
+Zone:7,15-24,0,2003,HepatitisA
 Phetchaburi,15-24,0,2003,HepatitisA
 Prachuap Khiri Khan,15-24,0,2003,HepatitisA
 Samut Sakhon,15-24,0,2003,HepatitisA
 Samut Songkhram,15-24,0,2003,HepatitisA
-Zone 8,15-24,1,2003,HepatitisA
+Zone:8,15-24,1,2003,HepatitisA
 Chachoengsao,15-24,1,2003,HepatitisA
 Nakhon Nayok,15-24,0,2003,HepatitisA
 Prachin Buri,15-24,0,2003,HepatitisA
 Sa Kaeo,15-24,0,2003,HepatitisA
 Samut Prakan,15-24,0,2003,HepatitisA
-Zone 9,15-24,2,2003,HepatitisA
+Zone:9,15-24,2,2003,HepatitisA
 Chanthaburi,15-24,0,2003,HepatitisA
 Chon Buri,15-24,0,2003,HepatitisA
 Rayong,15-24,0,2003,HepatitisA
 Trat,15-24,2,2003,HepatitisA
 North-Eastern Region,15-24,11,2003,HepatitisA
-Zone 10,15-24,2,2003,HepatitisA
+Zone:10,15-24,2,2003,HepatitisA
 Loei,15-24,2,2003,HepatitisA
 Nong Bua Lam Phu,15-24,0,2003,HepatitisA
 Nong Khai,15-24,0,2003,HepatitisA
 Udon Thani,15-24,0,2003,HepatitisA
-Zone 11,15-24,0,2003,HepatitisA
+Zone:11,15-24,0,2003,HepatitisA
 Kalasin,15-24,0,2003,HepatitisA
 Mukdahan,15-24,0,2003,HepatitisA
 Nakhon Phanom,15-24,0,2003,HepatitisA
 Sakon Nakhon,15-24,0,2003,HepatitisA
-Zone 12,15-24,0,2003,HepatitisA
+Zone:12,15-24,0,2003,HepatitisA
 Khon Kaen,15-24,0,2003,HepatitisA
 Maha Sarakham,15-24,0,2003,HepatitisA
 Roi Et,15-24,0,2003,HepatitisA
-Zone 13,15-24,6,2003,HepatitisA
+Zone:13,15-24,6,2003,HepatitisA
 Buri Ram,15-24,2,2003,HepatitisA
 Chaiyaphum,15-24,3,2003,HepatitisA
 Nakhon Ratchasima,15-24,0,2003,HepatitisA
 Surin,15-24,1,2003,HepatitisA
-Zone 14,15-24,3,2003,HepatitisA
+Zone:14,15-24,3,2003,HepatitisA
 Amnat Charoen,15-24,1,2003,HepatitisA
 Si Sa Ket,15-24,0,2003,HepatitisA
 Ubon Ratchathani,15-24,1,2003,HepatitisA
 Yasothon,15-24,1,2003,HepatitisA
 South Region,15-24,51,2003,HepatitisA
-Zone 15,15-24,3,2003,HepatitisA
+Zone:15,15-24,3,2003,HepatitisA
 Chumphon,15-24,0,2003,HepatitisA
 Ranong,15-24,2,2003,HepatitisA
 Surat Thani,15-24,1,2003,HepatitisA
-Zone 16,15-24,1,2003,HepatitisA
+Zone:16,15-24,1,2003,HepatitisA
 Nakhon Si Thammarat,15-24,0,2003,HepatitisA
 Phatthalung,15-24,1,2003,HepatitisA
 Trang,15-24,0,2003,HepatitisA
-Zone 17,15-24,1,2003,HepatitisA
+Zone:17,15-24,1,2003,HepatitisA
 Krabi,15-24,0,2003,HepatitisA
 Phangnga,15-24,0,2003,HepatitisA
 Phuket,15-24,1,2003,HepatitisA
-Zone 18,15-24,39,2003,HepatitisA
+Zone:18,15-24,39,2003,HepatitisA
 Narathiwat,15-24,23,2003,HepatitisA
 Pattani,15-24,12,2003,HepatitisA
 Yala,15-24,4,2003,HepatitisA
-Zone 19,15-24,7,2003,HepatitisA
+Zone:19,15-24,7,2003,HepatitisA
 Satun,15-24,0,2003,HepatitisA
 Songkhla,15-24,7,2003,HepatitisA
 Total,25-34,72,2003,HepatitisA
 North Region,25-34,23,2003,HepatitisA
-Zone 1,25-34,17,2003,HepatitisA
+Zone:1,25-34,17,2003,HepatitisA
 Chiang Mai,25-34,7,2003,HepatitisA
 Chiang Rai,25-34,6,2003,HepatitisA
 Lampang,25-34,1,2003,HepatitisA
@@ -35608,98 +35608,98 @@ Mae Hong Son,25-34,0,2003,HepatitisA
 Nan,25-34,2,2003,HepatitisA
 Phayao,25-34,1,2003,HepatitisA
 Phrae,25-34,0,2003,HepatitisA
-Zone 2,25-34,3,2003,HepatitisA
+Zone:2,25-34,3,2003,HepatitisA
 Phetchabun,25-34,0,2003,HepatitisA
 Phitsanulok,25-34,2,2003,HepatitisA
 Sukhothai,25-34,0,2003,HepatitisA
 Tak,25-34,1,2003,HepatitisA
 Uttaradit,25-34,0,2003,HepatitisA
-Zone 3,25-34,3,2003,HepatitisA
+Zone:3,25-34,3,2003,HepatitisA
 Kamphaeng Phet,25-34,3,2003,HepatitisA
 Nakhon Sawan,25-34,0,2003,HepatitisA
 Phichit,25-34,0,2003,HepatitisA
 Uthai Thani,25-34,0,2003,HepatitisA
 Central Region,25-34,14,2003,HepatitisA
 Bangkok,25-34,4,2003,HepatitisA
-Zone 4,25-34,0,2003,HepatitisA
+Zone:4,25-34,0,2003,HepatitisA
 Ang Thong,25-34,0,2003,HepatitisA
 Nonthaburi,25-34,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,25-34,0,2003,HepatitisA
 Pathum Thani,25-34,0,2003,HepatitisA
-Zone 5,25-34,1,2003,HepatitisA
+Zone:5,25-34,1,2003,HepatitisA
 Chai Nat,25-34,0,2003,HepatitisA
 Lop Buri,25-34,0,2003,HepatitisA
 Saraburi,25-34,1,2003,HepatitisA
 Sing Buri,25-34,0,2003,HepatitisA
-Zone 6,25-34,4,2003,HepatitisA
+Zone:6,25-34,4,2003,HepatitisA
 Kanchanaburi,25-34,0,2003,HepatitisA
 Nakhon Pathom,25-34,1,2003,HepatitisA
 Ratchaburi,25-34,3,2003,HepatitisA
 Suphan Buri,25-34,0,2003,HepatitisA
-Zone 7,25-34,0,2003,HepatitisA
+Zone:7,25-34,0,2003,HepatitisA
 Phetchaburi,25-34,0,2003,HepatitisA
 Prachuap Khiri Khan,25-34,0,2003,HepatitisA
 Samut Sakhon,25-34,0,2003,HepatitisA
 Samut Songkhram,25-34,0,2003,HepatitisA
-Zone 8,25-34,0,2003,HepatitisA
+Zone:8,25-34,0,2003,HepatitisA
 Chachoengsao,25-34,0,2003,HepatitisA
 Nakhon Nayok,25-34,0,2003,HepatitisA
 Prachin Buri,25-34,0,2003,HepatitisA
 Sa Kaeo,25-34,0,2003,HepatitisA
 Samut Prakan,25-34,0,2003,HepatitisA
-Zone 9,25-34,5,2003,HepatitisA
+Zone:9,25-34,5,2003,HepatitisA
 Chanthaburi,25-34,0,2003,HepatitisA
 Chon Buri,25-34,0,2003,HepatitisA
 Rayong,25-34,1,2003,HepatitisA
 Trat,25-34,4,2003,HepatitisA
 North-Eastern Region,25-34,12,2003,HepatitisA
-Zone 10,25-34,1,2003,HepatitisA
+Zone:10,25-34,1,2003,HepatitisA
 Loei,25-34,0,2003,HepatitisA
 Nong Bua Lam Phu,25-34,0,2003,HepatitisA
 Nong Khai,25-34,0,2003,HepatitisA
 Udon Thani,25-34,1,2003,HepatitisA
-Zone 11,25-34,2,2003,HepatitisA
+Zone:11,25-34,2,2003,HepatitisA
 Kalasin,25-34,0,2003,HepatitisA
 Mukdahan,25-34,0,2003,HepatitisA
 Nakhon Phanom,25-34,0,2003,HepatitisA
 Sakon Nakhon,25-34,2,2003,HepatitisA
-Zone 12,25-34,0,2003,HepatitisA
+Zone:12,25-34,0,2003,HepatitisA
 Khon Kaen,25-34,0,2003,HepatitisA
 Maha Sarakham,25-34,0,2003,HepatitisA
 Roi Et,25-34,0,2003,HepatitisA
-Zone 13,25-34,6,2003,HepatitisA
+Zone:13,25-34,6,2003,HepatitisA
 Buri Ram,25-34,3,2003,HepatitisA
 Chaiyaphum,25-34,1,2003,HepatitisA
 Nakhon Ratchasima,25-34,1,2003,HepatitisA
 Surin,25-34,1,2003,HepatitisA
-Zone 14,25-34,3,2003,HepatitisA
+Zone:14,25-34,3,2003,HepatitisA
 Amnat Charoen,25-34,2,2003,HepatitisA
 Si Sa Ket,25-34,1,2003,HepatitisA
 Ubon Ratchathani,25-34,0,2003,HepatitisA
 Yasothon,25-34,0,2003,HepatitisA
 South Region,25-34,23,2003,HepatitisA
-Zone 15,25-34,0,2003,HepatitisA
+Zone:15,25-34,0,2003,HepatitisA
 Chumphon,25-34,0,2003,HepatitisA
 Ranong,25-34,0,2003,HepatitisA
 Surat Thani,25-34,0,2003,HepatitisA
-Zone 16,25-34,1,2003,HepatitisA
+Zone:16,25-34,1,2003,HepatitisA
 Nakhon Si Thammarat,25-34,1,2003,HepatitisA
 Phatthalung,25-34,0,2003,HepatitisA
 Trang,25-34,0,2003,HepatitisA
-Zone 17,25-34,1,2003,HepatitisA
+Zone:17,25-34,1,2003,HepatitisA
 Krabi,25-34,1,2003,HepatitisA
 Phangnga,25-34,0,2003,HepatitisA
 Phuket,25-34,0,2003,HepatitisA
-Zone 18,25-34,19,2003,HepatitisA
+Zone:18,25-34,19,2003,HepatitisA
 Narathiwat,25-34,12,2003,HepatitisA
 Pattani,25-34,4,2003,HepatitisA
 Yala,25-34,3,2003,HepatitisA
-Zone 19,25-34,2,2003,HepatitisA
+Zone:19,25-34,2,2003,HepatitisA
 Satun,25-34,0,2003,HepatitisA
 Songkhla,25-34,2,2003,HepatitisA
 Total,35-44,54,2003,HepatitisA
 North Region,35-44,28,2003,HepatitisA
-Zone 1,35-44,21,2003,HepatitisA
+Zone:1,35-44,21,2003,HepatitisA
 Chiang Mai,35-44,3,2003,HepatitisA
 Chiang Rai,35-44,6,2003,HepatitisA
 Lampang,35-44,3,2003,HepatitisA
@@ -35708,98 +35708,98 @@ Mae Hong Son,35-44,0,2003,HepatitisA
 Nan,35-44,6,2003,HepatitisA
 Phayao,35-44,2,2003,HepatitisA
 Phrae,35-44,1,2003,HepatitisA
-Zone 2,35-44,7,2003,HepatitisA
+Zone:2,35-44,7,2003,HepatitisA
 Phetchabun,35-44,0,2003,HepatitisA
 Phitsanulok,35-44,5,2003,HepatitisA
 Sukhothai,35-44,0,2003,HepatitisA
 Tak,35-44,2,2003,HepatitisA
 Uttaradit,35-44,0,2003,HepatitisA
-Zone 3,35-44,0,2003,HepatitisA
+Zone:3,35-44,0,2003,HepatitisA
 Kamphaeng Phet,35-44,0,2003,HepatitisA
 Nakhon Sawan,35-44,0,2003,HepatitisA
 Phichit,35-44,0,2003,HepatitisA
 Uthai Thani,35-44,0,2003,HepatitisA
 Central Region,35-44,5,2003,HepatitisA
 Bangkok,35-44,0,2003,HepatitisA
-Zone 4,35-44,3,2003,HepatitisA
+Zone:4,35-44,3,2003,HepatitisA
 Ang Thong,35-44,0,2003,HepatitisA
 Nonthaburi,35-44,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,35-44,3,2003,HepatitisA
 Pathum Thani,35-44,0,2003,HepatitisA
-Zone 5,35-44,0,2003,HepatitisA
+Zone:5,35-44,0,2003,HepatitisA
 Chai Nat,35-44,0,2003,HepatitisA
 Lop Buri,35-44,0,2003,HepatitisA
 Saraburi,35-44,0,2003,HepatitisA
 Sing Buri,35-44,0,2003,HepatitisA
-Zone 6,35-44,0,2003,HepatitisA
+Zone:6,35-44,0,2003,HepatitisA
 Kanchanaburi,35-44,0,2003,HepatitisA
 Nakhon Pathom,35-44,0,2003,HepatitisA
 Ratchaburi,35-44,0,2003,HepatitisA
 Suphan Buri,35-44,0,2003,HepatitisA
-Zone 7,35-44,1,2003,HepatitisA
+Zone:7,35-44,1,2003,HepatitisA
 Phetchaburi,35-44,0,2003,HepatitisA
 Prachuap Khiri Khan,35-44,1,2003,HepatitisA
 Samut Sakhon,35-44,0,2003,HepatitisA
 Samut Songkhram,35-44,0,2003,HepatitisA
-Zone 8,35-44,1,2003,HepatitisA
+Zone:8,35-44,1,2003,HepatitisA
 Chachoengsao,35-44,0,2003,HepatitisA
 Nakhon Nayok,35-44,0,2003,HepatitisA
 Prachin Buri,35-44,1,2003,HepatitisA
 Sa Kaeo,35-44,0,2003,HepatitisA
 Samut Prakan,35-44,0,2003,HepatitisA
-Zone 9,35-44,0,2003,HepatitisA
+Zone:9,35-44,0,2003,HepatitisA
 Chanthaburi,35-44,0,2003,HepatitisA
 Chon Buri,35-44,0,2003,HepatitisA
 Rayong,35-44,0,2003,HepatitisA
 Trat,35-44,0,2003,HepatitisA
 North-Eastern Region,35-44,12,2003,HepatitisA
-Zone 10,35-44,1,2003,HepatitisA
+Zone:10,35-44,1,2003,HepatitisA
 Loei,35-44,1,2003,HepatitisA
 Nong Bua Lam Phu,35-44,0,2003,HepatitisA
 Nong Khai,35-44,0,2003,HepatitisA
 Udon Thani,35-44,0,2003,HepatitisA
-Zone 11,35-44,0,2003,HepatitisA
+Zone:11,35-44,0,2003,HepatitisA
 Kalasin,35-44,0,2003,HepatitisA
 Mukdahan,35-44,0,2003,HepatitisA
 Nakhon Phanom,35-44,0,2003,HepatitisA
 Sakon Nakhon,35-44,0,2003,HepatitisA
-Zone 12,35-44,2,2003,HepatitisA
+Zone:12,35-44,2,2003,HepatitisA
 Khon Kaen,35-44,2,2003,HepatitisA
 Maha Sarakham,35-44,0,2003,HepatitisA
 Roi Et,35-44,0,2003,HepatitisA
-Zone 13,35-44,8,2003,HepatitisA
+Zone:13,35-44,8,2003,HepatitisA
 Buri Ram,35-44,4,2003,HepatitisA
 Chaiyaphum,35-44,2,2003,HepatitisA
 Nakhon Ratchasima,35-44,1,2003,HepatitisA
 Surin,35-44,1,2003,HepatitisA
-Zone 14,35-44,1,2003,HepatitisA
+Zone:14,35-44,1,2003,HepatitisA
 Amnat Charoen,35-44,0,2003,HepatitisA
 Si Sa Ket,35-44,1,2003,HepatitisA
 Ubon Ratchathani,35-44,0,2003,HepatitisA
 Yasothon,35-44,0,2003,HepatitisA
 South Region,35-44,9,2003,HepatitisA
-Zone 15,35-44,2,2003,HepatitisA
+Zone:15,35-44,2,2003,HepatitisA
 Chumphon,35-44,0,2003,HepatitisA
 Ranong,35-44,0,2003,HepatitisA
 Surat Thani,35-44,2,2003,HepatitisA
-Zone 16,35-44,1,2003,HepatitisA
+Zone:16,35-44,1,2003,HepatitisA
 Nakhon Si Thammarat,35-44,1,2003,HepatitisA
 Phatthalung,35-44,0,2003,HepatitisA
 Trang,35-44,0,2003,HepatitisA
-Zone 17,35-44,0,2003,HepatitisA
+Zone:17,35-44,0,2003,HepatitisA
 Krabi,35-44,0,2003,HepatitisA
 Phangnga,35-44,0,2003,HepatitisA
 Phuket,35-44,0,2003,HepatitisA
-Zone 18,35-44,4,2003,HepatitisA
+Zone:18,35-44,4,2003,HepatitisA
 Narathiwat,35-44,2,2003,HepatitisA
 Pattani,35-44,2,2003,HepatitisA
 Yala,35-44,0,2003,HepatitisA
-Zone 19,35-44,2,2003,HepatitisA
+Zone:19,35-44,2,2003,HepatitisA
 Satun,35-44,0,2003,HepatitisA
 Songkhla,35-44,2,2003,HepatitisA
 Total,45-54,33,2003,HepatitisA
 North Region,45-54,20,2003,HepatitisA
-Zone 1,45-54,9,2003,HepatitisA
+Zone:1,45-54,9,2003,HepatitisA
 Chiang Mai,45-54,1,2003,HepatitisA
 Chiang Rai,45-54,5,2003,HepatitisA
 Lampang,45-54,2,2003,HepatitisA
@@ -35808,98 +35808,98 @@ Mae Hong Son,45-54,0,2003,HepatitisA
 Nan,45-54,0,2003,HepatitisA
 Phayao,45-54,1,2003,HepatitisA
 Phrae,45-54,0,2003,HepatitisA
-Zone 2,45-54,6,2003,HepatitisA
+Zone:2,45-54,6,2003,HepatitisA
 Phetchabun,45-54,0,2003,HepatitisA
 Phitsanulok,45-54,5,2003,HepatitisA
 Sukhothai,45-54,0,2003,HepatitisA
 Tak,45-54,1,2003,HepatitisA
 Uttaradit,45-54,0,2003,HepatitisA
-Zone 3,45-54,5,2003,HepatitisA
+Zone:3,45-54,5,2003,HepatitisA
 Kamphaeng Phet,45-54,4,2003,HepatitisA
 Nakhon Sawan,45-54,0,2003,HepatitisA
 Phichit,45-54,1,2003,HepatitisA
 Uthai Thani,45-54,0,2003,HepatitisA
 Central Region,45-54,3,2003,HepatitisA
 Bangkok,45-54,1,2003,HepatitisA
-Zone 4,45-54,0,2003,HepatitisA
+Zone:4,45-54,0,2003,HepatitisA
 Ang Thong,45-54,0,2003,HepatitisA
 Nonthaburi,45-54,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,45-54,0,2003,HepatitisA
 Pathum Thani,45-54,0,2003,HepatitisA
-Zone 5,45-54,0,2003,HepatitisA
+Zone:5,45-54,0,2003,HepatitisA
 Chai Nat,45-54,0,2003,HepatitisA
 Lop Buri,45-54,0,2003,HepatitisA
 Saraburi,45-54,0,2003,HepatitisA
 Sing Buri,45-54,0,2003,HepatitisA
-Zone 6,45-54,1,2003,HepatitisA
+Zone:6,45-54,1,2003,HepatitisA
 Kanchanaburi,45-54,0,2003,HepatitisA
 Nakhon Pathom,45-54,0,2003,HepatitisA
 Ratchaburi,45-54,0,2003,HepatitisA
 Suphan Buri,45-54,1,2003,HepatitisA
-Zone 7,45-54,0,2003,HepatitisA
+Zone:7,45-54,0,2003,HepatitisA
 Phetchaburi,45-54,0,2003,HepatitisA
 Prachuap Khiri Khan,45-54,0,2003,HepatitisA
 Samut Sakhon,45-54,0,2003,HepatitisA
 Samut Songkhram,45-54,0,2003,HepatitisA
-Zone 8,45-54,0,2003,HepatitisA
+Zone:8,45-54,0,2003,HepatitisA
 Chachoengsao,45-54,0,2003,HepatitisA
 Nakhon Nayok,45-54,0,2003,HepatitisA
 Prachin Buri,45-54,0,2003,HepatitisA
 Sa Kaeo,45-54,0,2003,HepatitisA
 Samut Prakan,45-54,0,2003,HepatitisA
-Zone 9,45-54,1,2003,HepatitisA
+Zone:9,45-54,1,2003,HepatitisA
 Chanthaburi,45-54,0,2003,HepatitisA
 Chon Buri,45-54,0,2003,HepatitisA
 Rayong,45-54,0,2003,HepatitisA
 Trat,45-54,1,2003,HepatitisA
 North-Eastern Region,45-54,4,2003,HepatitisA
-Zone 10,45-54,0,2003,HepatitisA
+Zone:10,45-54,0,2003,HepatitisA
 Loei,45-54,0,2003,HepatitisA
 Nong Bua Lam Phu,45-54,0,2003,HepatitisA
 Nong Khai,45-54,0,2003,HepatitisA
 Udon Thani,45-54,0,2003,HepatitisA
-Zone 11,45-54,0,2003,HepatitisA
+Zone:11,45-54,0,2003,HepatitisA
 Kalasin,45-54,0,2003,HepatitisA
 Mukdahan,45-54,0,2003,HepatitisA
 Nakhon Phanom,45-54,0,2003,HepatitisA
 Sakon Nakhon,45-54,0,2003,HepatitisA
-Zone 12,45-54,0,2003,HepatitisA
+Zone:12,45-54,0,2003,HepatitisA
 Khon Kaen,45-54,0,2003,HepatitisA
 Maha Sarakham,45-54,0,2003,HepatitisA
 Roi Et,45-54,0,2003,HepatitisA
-Zone 13,45-54,3,2003,HepatitisA
+Zone:13,45-54,3,2003,HepatitisA
 Buri Ram,45-54,2,2003,HepatitisA
 Chaiyaphum,45-54,1,2003,HepatitisA
 Nakhon Ratchasima,45-54,0,2003,HepatitisA
 Surin,45-54,0,2003,HepatitisA
-Zone 14,45-54,1,2003,HepatitisA
+Zone:14,45-54,1,2003,HepatitisA
 Amnat Charoen,45-54,1,2003,HepatitisA
 Si Sa Ket,45-54,0,2003,HepatitisA
 Ubon Ratchathani,45-54,0,2003,HepatitisA
 Yasothon,45-54,0,2003,HepatitisA
 South Region,45-54,6,2003,HepatitisA
-Zone 15,45-54,2,2003,HepatitisA
+Zone:15,45-54,2,2003,HepatitisA
 Chumphon,45-54,0,2003,HepatitisA
 Ranong,45-54,0,2003,HepatitisA
 Surat Thani,45-54,2,2003,HepatitisA
-Zone 16,45-54,1,2003,HepatitisA
+Zone:16,45-54,1,2003,HepatitisA
 Nakhon Si Thammarat,45-54,1,2003,HepatitisA
 Phatthalung,45-54,0,2003,HepatitisA
 Trang,45-54,0,2003,HepatitisA
-Zone 17,45-54,0,2003,HepatitisA
+Zone:17,45-54,0,2003,HepatitisA
 Krabi,45-54,0,2003,HepatitisA
 Phangnga,45-54,0,2003,HepatitisA
 Phuket,45-54,0,2003,HepatitisA
-Zone 18,45-54,2,2003,HepatitisA
+Zone:18,45-54,2,2003,HepatitisA
 Narathiwat,45-54,1,2003,HepatitisA
 Pattani,45-54,1,2003,HepatitisA
 Yala,45-54,0,2003,HepatitisA
-Zone 19,45-54,1,2003,HepatitisA
+Zone:19,45-54,1,2003,HepatitisA
 Satun,45-54,0,2003,HepatitisA
 Songkhla,45-54,1,2003,HepatitisA
 Total,55-64,20,2003,HepatitisA
 North Region,55-64,8,2003,HepatitisA
-Zone 1,55-64,6,2003,HepatitisA
+Zone:1,55-64,6,2003,HepatitisA
 Chiang Mai,55-64,3,2003,HepatitisA
 Chiang Rai,55-64,2,2003,HepatitisA
 Lampang,55-64,0,2003,HepatitisA
@@ -35908,98 +35908,98 @@ Mae Hong Son,55-64,0,2003,HepatitisA
 Nan,55-64,1,2003,HepatitisA
 Phayao,55-64,0,2003,HepatitisA
 Phrae,55-64,0,2003,HepatitisA
-Zone 2,55-64,1,2003,HepatitisA
+Zone:2,55-64,1,2003,HepatitisA
 Phetchabun,55-64,0,2003,HepatitisA
 Phitsanulok,55-64,0,2003,HepatitisA
 Sukhothai,55-64,0,2003,HepatitisA
 Tak,55-64,1,2003,HepatitisA
 Uttaradit,55-64,0,2003,HepatitisA
-Zone 3,55-64,1,2003,HepatitisA
+Zone:3,55-64,1,2003,HepatitisA
 Kamphaeng Phet,55-64,1,2003,HepatitisA
 Nakhon Sawan,55-64,0,2003,HepatitisA
 Phichit,55-64,0,2003,HepatitisA
 Uthai Thani,55-64,0,2003,HepatitisA
 Central Region,55-64,7,2003,HepatitisA
 Bangkok,55-64,0,2003,HepatitisA
-Zone 4,55-64,1,2003,HepatitisA
+Zone:4,55-64,1,2003,HepatitisA
 Ang Thong,55-64,0,2003,HepatitisA
 Nonthaburi,55-64,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,55-64,1,2003,HepatitisA
 Pathum Thani,55-64,0,2003,HepatitisA
-Zone 5,55-64,0,2003,HepatitisA
+Zone:5,55-64,0,2003,HepatitisA
 Chai Nat,55-64,0,2003,HepatitisA
 Lop Buri,55-64,0,2003,HepatitisA
 Saraburi,55-64,0,2003,HepatitisA
 Sing Buri,55-64,0,2003,HepatitisA
-Zone 6,55-64,1,2003,HepatitisA
+Zone:6,55-64,1,2003,HepatitisA
 Kanchanaburi,55-64,0,2003,HepatitisA
 Nakhon Pathom,55-64,0,2003,HepatitisA
 Ratchaburi,55-64,0,2003,HepatitisA
 Suphan Buri,55-64,1,2003,HepatitisA
-Zone 7,55-64,0,2003,HepatitisA
+Zone:7,55-64,0,2003,HepatitisA
 Phetchaburi,55-64,0,2003,HepatitisA
 Prachuap Khiri Khan,55-64,0,2003,HepatitisA
 Samut Sakhon,55-64,0,2003,HepatitisA
 Samut Songkhram,55-64,0,2003,HepatitisA
-Zone 8,55-64,2,2003,HepatitisA
+Zone:8,55-64,2,2003,HepatitisA
 Chachoengsao,55-64,1,2003,HepatitisA
 Nakhon Nayok,55-64,1,2003,HepatitisA
 Prachin Buri,55-64,0,2003,HepatitisA
 Sa Kaeo,55-64,0,2003,HepatitisA
 Samut Prakan,55-64,0,2003,HepatitisA
-Zone 9,55-64,3,2003,HepatitisA
+Zone:9,55-64,3,2003,HepatitisA
 Chanthaburi,55-64,0,2003,HepatitisA
 Chon Buri,55-64,0,2003,HepatitisA
 Rayong,55-64,0,2003,HepatitisA
 Trat,55-64,3,2003,HepatitisA
 North-Eastern Region,55-64,1,2003,HepatitisA
-Zone 10,55-64,0,2003,HepatitisA
+Zone:10,55-64,0,2003,HepatitisA
 Loei,55-64,0,2003,HepatitisA
 Nong Bua Lam Phu,55-64,0,2003,HepatitisA
 Nong Khai,55-64,0,2003,HepatitisA
 Udon Thani,55-64,0,2003,HepatitisA
-Zone 11,55-64,0,2003,HepatitisA
+Zone:11,55-64,0,2003,HepatitisA
 Kalasin,55-64,0,2003,HepatitisA
 Mukdahan,55-64,0,2003,HepatitisA
 Nakhon Phanom,55-64,0,2003,HepatitisA
 Sakon Nakhon,55-64,0,2003,HepatitisA
-Zone 12,55-64,0,2003,HepatitisA
+Zone:12,55-64,0,2003,HepatitisA
 Khon Kaen,55-64,0,2003,HepatitisA
 Maha Sarakham,55-64,0,2003,HepatitisA
 Roi Et,55-64,0,2003,HepatitisA
-Zone 13,55-64,1,2003,HepatitisA
+Zone:13,55-64,1,2003,HepatitisA
 Buri Ram,55-64,1,2003,HepatitisA
 Chaiyaphum,55-64,0,2003,HepatitisA
 Nakhon Ratchasima,55-64,0,2003,HepatitisA
 Surin,55-64,0,2003,HepatitisA
-Zone 14,55-64,0,2003,HepatitisA
+Zone:14,55-64,0,2003,HepatitisA
 Amnat Charoen,55-64,0,2003,HepatitisA
 Si Sa Ket,55-64,0,2003,HepatitisA
 Ubon Ratchathani,55-64,0,2003,HepatitisA
 Yasothon,55-64,0,2003,HepatitisA
 South Region,55-64,4,2003,HepatitisA
-Zone 15,55-64,0,2003,HepatitisA
+Zone:15,55-64,0,2003,HepatitisA
 Chumphon,55-64,0,2003,HepatitisA
 Ranong,55-64,0,2003,HepatitisA
 Surat Thani,55-64,0,2003,HepatitisA
-Zone 16,55-64,2,2003,HepatitisA
+Zone:16,55-64,2,2003,HepatitisA
 Nakhon Si Thammarat,55-64,2,2003,HepatitisA
 Phatthalung,55-64,0,2003,HepatitisA
 Trang,55-64,0,2003,HepatitisA
-Zone 17,55-64,0,2003,HepatitisA
+Zone:17,55-64,0,2003,HepatitisA
 Krabi,55-64,0,2003,HepatitisA
 Phangnga,55-64,0,2003,HepatitisA
 Phuket,55-64,0,2003,HepatitisA
-Zone 18,55-64,2,2003,HepatitisA
+Zone:18,55-64,2,2003,HepatitisA
 Narathiwat,55-64,1,2003,HepatitisA
 Pattani,55-64,1,2003,HepatitisA
 Yala,55-64,0,2003,HepatitisA
-Zone 19,55-64,0,2003,HepatitisA
+Zone:19,55-64,0,2003,HepatitisA
 Satun,55-64,0,2003,HepatitisA
 Songkhla,55-64,0,2003,HepatitisA
 Total,65+,17,2003,HepatitisA
 North Region,65+,5,2003,HepatitisA
-Zone 1,65+,2,2003,HepatitisA
+Zone:1,65+,2,2003,HepatitisA
 Chiang Mai,65+,0,2003,HepatitisA
 Chiang Rai,65+,1,2003,HepatitisA
 Lampang,65+,0,2003,HepatitisA
@@ -36008,98 +36008,98 @@ Mae Hong Son,65+,0,2003,HepatitisA
 Nan,65+,1,2003,HepatitisA
 Phayao,65+,0,2003,HepatitisA
 Phrae,65+,0,2003,HepatitisA
-Zone 2,65+,0,2003,HepatitisA
+Zone:2,65+,0,2003,HepatitisA
 Phetchabun,65+,0,2003,HepatitisA
 Phitsanulok,65+,0,2003,HepatitisA
 Sukhothai,65+,0,2003,HepatitisA
 Tak,65+,0,2003,HepatitisA
 Uttaradit,65+,0,2003,HepatitisA
-Zone 3,65+,3,2003,HepatitisA
+Zone:3,65+,3,2003,HepatitisA
 Kamphaeng Phet,65+,1,2003,HepatitisA
 Nakhon Sawan,65+,0,2003,HepatitisA
 Phichit,65+,0,2003,HepatitisA
 Uthai Thani,65+,2,2003,HepatitisA
 Central Region,65+,3,2003,HepatitisA
 Bangkok,65+,1,2003,HepatitisA
-Zone 4,65+,0,2003,HepatitisA
+Zone:4,65+,0,2003,HepatitisA
 Ang Thong,65+,0,2003,HepatitisA
 Nonthaburi,65+,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,65+,0,2003,HepatitisA
 Pathum Thani,65+,0,2003,HepatitisA
-Zone 5,65+,0,2003,HepatitisA
+Zone:5,65+,0,2003,HepatitisA
 Chai Nat,65+,0,2003,HepatitisA
 Lop Buri,65+,0,2003,HepatitisA
 Saraburi,65+,0,2003,HepatitisA
 Sing Buri,65+,0,2003,HepatitisA
-Zone 6,65+,0,2003,HepatitisA
+Zone:6,65+,0,2003,HepatitisA
 Kanchanaburi,65+,0,2003,HepatitisA
 Nakhon Pathom,65+,0,2003,HepatitisA
 Ratchaburi,65+,0,2003,HepatitisA
 Suphan Buri,65+,0,2003,HepatitisA
-Zone 7,65+,0,2003,HepatitisA
+Zone:7,65+,0,2003,HepatitisA
 Phetchaburi,65+,0,2003,HepatitisA
 Prachuap Khiri Khan,65+,0,2003,HepatitisA
 Samut Sakhon,65+,0,2003,HepatitisA
 Samut Songkhram,65+,0,2003,HepatitisA
-Zone 8,65+,0,2003,HepatitisA
+Zone:8,65+,0,2003,HepatitisA
 Chachoengsao,65+,0,2003,HepatitisA
 Nakhon Nayok,65+,0,2003,HepatitisA
 Prachin Buri,65+,0,2003,HepatitisA
 Sa Kaeo,65+,0,2003,HepatitisA
 Samut Prakan,65+,0,2003,HepatitisA
-Zone 9,65+,2,2003,HepatitisA
+Zone:9,65+,2,2003,HepatitisA
 Chanthaburi,65+,0,2003,HepatitisA
 Chon Buri,65+,0,2003,HepatitisA
 Rayong,65+,0,2003,HepatitisA
 Trat,65+,2,2003,HepatitisA
 North-Eastern Region,65+,2,2003,HepatitisA
-Zone 10,65+,0,2003,HepatitisA
+Zone:10,65+,0,2003,HepatitisA
 Loei,65+,0,2003,HepatitisA
 Nong Bua Lam Phu,65+,0,2003,HepatitisA
 Nong Khai,65+,0,2003,HepatitisA
 Udon Thani,65+,0,2003,HepatitisA
-Zone 11,65+,1,2003,HepatitisA
+Zone:11,65+,1,2003,HepatitisA
 Kalasin,65+,1,2003,HepatitisA
 Mukdahan,65+,0,2003,HepatitisA
 Nakhon Phanom,65+,0,2003,HepatitisA
 Sakon Nakhon,65+,0,2003,HepatitisA
-Zone 12,65+,0,2003,HepatitisA
+Zone:12,65+,0,2003,HepatitisA
 Khon Kaen,65+,0,2003,HepatitisA
 Maha Sarakham,65+,0,2003,HepatitisA
 Roi Et,65+,0,2003,HepatitisA
-Zone 13,65+,1,2003,HepatitisA
+Zone:13,65+,1,2003,HepatitisA
 Buri Ram,65+,1,2003,HepatitisA
 Chaiyaphum,65+,0,2003,HepatitisA
 Nakhon Ratchasima,65+,0,2003,HepatitisA
 Surin,65+,0,2003,HepatitisA
-Zone 14,65+,0,2003,HepatitisA
+Zone:14,65+,0,2003,HepatitisA
 Amnat Charoen,65+,0,2003,HepatitisA
 Si Sa Ket,65+,0,2003,HepatitisA
 Ubon Ratchathani,65+,0,2003,HepatitisA
 Yasothon,65+,0,2003,HepatitisA
 South Region,65+,7,2003,HepatitisA
-Zone 15,65+,1,2003,HepatitisA
+Zone:15,65+,1,2003,HepatitisA
 Chumphon,65+,0,2003,HepatitisA
 Ranong,65+,0,2003,HepatitisA
 Surat Thani,65+,1,2003,HepatitisA
-Zone 16,65+,0,2003,HepatitisA
+Zone:16,65+,0,2003,HepatitisA
 Nakhon Si Thammarat,65+,0,2003,HepatitisA
 Phatthalung,65+,0,2003,HepatitisA
 Trang,65+,0,2003,HepatitisA
-Zone 17,65+,1,2003,HepatitisA
+Zone:17,65+,1,2003,HepatitisA
 Krabi,65+,1,2003,HepatitisA
 Phangnga,65+,0,2003,HepatitisA
 Phuket,65+,0,2003,HepatitisA
-Zone 18,65+,4,2003,HepatitisA
+Zone:18,65+,4,2003,HepatitisA
 Narathiwat,65+,0,2003,HepatitisA
 Pattani,65+,3,2003,HepatitisA
 Yala,65+,1,2003,HepatitisA
-Zone 19,65+,1,2003,HepatitisA
+Zone:19,65+,1,2003,HepatitisA
 Satun,65+,0,2003,HepatitisA
 Songkhla,65+,1,2003,HepatitisA
 Total,Unknown,1,2003,HepatitisA
 North Region,Unknown,0,2003,HepatitisA
-Zone 1,Unknown,0,2003,HepatitisA
+Zone:1,Unknown,0,2003,HepatitisA
 Chiang Mai,Unknown,0,2003,HepatitisA
 Chiang Rai,Unknown,0,2003,HepatitisA
 Lampang,Unknown,0,2003,HepatitisA
@@ -36108,92 +36108,92 @@ Mae Hong Son,Unknown,0,2003,HepatitisA
 Nan,Unknown,0,2003,HepatitisA
 Phayao,Unknown,0,2003,HepatitisA
 Phrae,Unknown,0,2003,HepatitisA
-Zone 2,Unknown,0,2003,HepatitisA
+Zone:2,Unknown,0,2003,HepatitisA
 Phetchabun,Unknown,0,2003,HepatitisA
 Phitsanulok,Unknown,0,2003,HepatitisA
 Sukhothai,Unknown,0,2003,HepatitisA
 Tak,Unknown,0,2003,HepatitisA
 Uttaradit,Unknown,0,2003,HepatitisA
-Zone 3,Unknown,0,2003,HepatitisA
+Zone:3,Unknown,0,2003,HepatitisA
 Kamphaeng Phet,Unknown,0,2003,HepatitisA
 Nakhon Sawan,Unknown,0,2003,HepatitisA
 Phichit,Unknown,0,2003,HepatitisA
 Uthai Thani,Unknown,0,2003,HepatitisA
 Central Region,Unknown,1,2003,HepatitisA
 Bangkok,Unknown,1,2003,HepatitisA
-Zone 4,Unknown,0,2003,HepatitisA
+Zone:4,Unknown,0,2003,HepatitisA
 Ang Thong,Unknown,0,2003,HepatitisA
 Nonthaburi,Unknown,0,2003,HepatitisA
 P.Nakhon S.Ayutthaya,Unknown,0,2003,HepatitisA
 Pathum Thani,Unknown,0,2003,HepatitisA
-Zone 5,Unknown,0,2003,HepatitisA
+Zone:5,Unknown,0,2003,HepatitisA
 Chai Nat,Unknown,0,2003,HepatitisA
 Lop Buri,Unknown,0,2003,HepatitisA
 Saraburi,Unknown,0,2003,HepatitisA
 Sing Buri,Unknown,0,2003,HepatitisA
-Zone 6,Unknown,0,2003,HepatitisA
+Zone:6,Unknown,0,2003,HepatitisA
 Kanchanaburi,Unknown,0,2003,HepatitisA
 Nakhon Pathom,Unknown,0,2003,HepatitisA
 Ratchaburi,Unknown,0,2003,HepatitisA
 Suphan Buri,Unknown,0,2003,HepatitisA
-Zone 7,Unknown,0,2003,HepatitisA
+Zone:7,Unknown,0,2003,HepatitisA
 Phetchaburi,Unknown,0,2003,HepatitisA
 Prachuap Khiri Khan,Unknown,0,2003,HepatitisA
 Samut Sakhon,Unknown,0,2003,HepatitisA
 Samut Songkhram,Unknown,0,2003,HepatitisA
-Zone 8,Unknown,0,2003,HepatitisA
+Zone:8,Unknown,0,2003,HepatitisA
 Chachoengsao,Unknown,0,2003,HepatitisA
 Nakhon Nayok,Unknown,0,2003,HepatitisA
 Prachin Buri,Unknown,0,2003,HepatitisA
 Sa Kaeo,Unknown,0,2003,HepatitisA
 Samut Prakan,Unknown,0,2003,HepatitisA
-Zone 9,Unknown,0,2003,HepatitisA
+Zone:9,Unknown,0,2003,HepatitisA
 Chanthaburi,Unknown,0,2003,HepatitisA
 Chon Buri,Unknown,0,2003,HepatitisA
 Rayong,Unknown,0,2003,HepatitisA
 Trat,Unknown,0,2003,HepatitisA
 North-Eastern Region,Unknown,0,2003,HepatitisA
-Zone 10,Unknown,0,2003,HepatitisA
+Zone:10,Unknown,0,2003,HepatitisA
 Loei,Unknown,0,2003,HepatitisA
 Nong Bua Lam Phu,Unknown,0,2003,HepatitisA
 Nong Khai,Unknown,0,2003,HepatitisA
 Udon Thani,Unknown,0,2003,HepatitisA
-Zone 11,Unknown,0,2003,HepatitisA
+Zone:11,Unknown,0,2003,HepatitisA
 Kalasin,Unknown,0,2003,HepatitisA
 Mukdahan,Unknown,0,2003,HepatitisA
 Nakhon Phanom,Unknown,0,2003,HepatitisA
 Sakon Nakhon,Unknown,0,2003,HepatitisA
-Zone 12,Unknown,0,2003,HepatitisA
+Zone:12,Unknown,0,2003,HepatitisA
 Khon Kaen,Unknown,0,2003,HepatitisA
 Maha Sarakham,Unknown,0,2003,HepatitisA
 Roi Et,Unknown,0,2003,HepatitisA
-Zone 13,Unknown,0,2003,HepatitisA
+Zone:13,Unknown,0,2003,HepatitisA
 Buri Ram,Unknown,0,2003,HepatitisA
 Chaiyaphum,Unknown,0,2003,HepatitisA
 Nakhon Ratchasima,Unknown,0,2003,HepatitisA
 Surin,Unknown,0,2003,HepatitisA
-Zone 14,Unknown,0,2003,HepatitisA
+Zone:14,Unknown,0,2003,HepatitisA
 Amnat Charoen,Unknown,0,2003,HepatitisA
 Si Sa Ket,Unknown,0,2003,HepatitisA
 Ubon Ratchathani,Unknown,0,2003,HepatitisA
 Yasothon,Unknown,0,2003,HepatitisA
 South Region,Unknown,0,2003,HepatitisA
-Zone 15,Unknown,0,2003,HepatitisA
+Zone:15,Unknown,0,2003,HepatitisA
 Chumphon,Unknown,0,2003,HepatitisA
 Ranong,Unknown,0,2003,HepatitisA
 Surat Thani,Unknown,0,2003,HepatitisA
-Zone 16,Unknown,0,2003,HepatitisA
+Zone:16,Unknown,0,2003,HepatitisA
 Nakhon Si Thammarat,Unknown,0,2003,HepatitisA
 Phatthalung,Unknown,0,2003,HepatitisA
 Trang,Unknown,0,2003,HepatitisA
-Zone 17,Unknown,0,2003,HepatitisA
+Zone:17,Unknown,0,2003,HepatitisA
 Krabi,Unknown,0,2003,HepatitisA
 Phangnga,Unknown,0,2003,HepatitisA
 Phuket,Unknown,0,2003,HepatitisA
-Zone 18,Unknown,0,2003,HepatitisA
+Zone:18,Unknown,0,2003,HepatitisA
 Narathiwat,Unknown,0,2003,HepatitisA
 Pattani,Unknown,0,2003,HepatitisA
 Yala,Unknown,0,2003,HepatitisA
-Zone 19,Unknown,0,2003,HepatitisA
+Zone:19,Unknown,0,2003,HepatitisA
 Satun,Unknown,0,2003,HepatitisA
 Songkhla,Unknown,0,2003,HepatitisA

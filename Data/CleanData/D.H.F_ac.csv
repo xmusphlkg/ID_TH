@@ -22429,7 +22429,7 @@ Trang,Unknown,0,2014,DHF
 Yala,Unknown,0,2014,DHF
 Total,Total,27111,2004,DHF
 North Region,Total,4042,2004,DHF
-Zone 1,Total,1432,2004,DHF
+Zone:1,Total,1432,2004,DHF
 Chiang Mai,Total,504,2004,DHF
 Chiang Rai,Total,79,2004,DHF
 Lampang,Total,256,2004,DHF
@@ -22438,98 +22438,98 @@ Mae Hong Son,Total,50,2004,DHF
 Nan,Total,35,2004,DHF
 Phayao,Total,162,2004,DHF
 Phrae,Total,147,2004,DHF
-Zone 2,Total,1423,2004,DHF
+Zone:2,Total,1423,2004,DHF
 Phetchabun,Total,715,2004,DHF
 Phitsanulok,Total,370,2004,DHF
 Sukhothai,Total,129,2004,DHF
 Tak,Total,132,2004,DHF
 Uttaradit,Total,77,2004,DHF
-Zone 3,Total,1187,2004,DHF
+Zone:3,Total,1187,2004,DHF
 Kamphaeng Phet,Total,318,2004,DHF
 Nakhon Sawan,Total,469,2004,DHF
 Phichit,Total,303,2004,DHF
 Uthai Thani,Total,97,2004,DHF
 Central Region,Total,13119,2004,DHF
 Bangkok,Total,4516,2004,DHF
-Zone 4,Total,1505,2004,DHF
+Zone:4,Total,1505,2004,DHF
 Ang Thong,Total,90,2004,DHF
 Nonthaburi,Total,578,2004,DHF
 P.Nakhon S.Ayutthaya,Total,384,2004,DHF
 Pathum Thani,Total,453,2004,DHF
-Zone 5,Total,1105,2004,DHF
+Zone:5,Total,1105,2004,DHF
 Chai Nat,Total,180,2004,DHF
 Lop Buri,Total,494,2004,DHF
 Saraburi,Total,337,2004,DHF
 Sing Buri,Total,94,2004,DHF
-Zone 6,Total,2416,2004,DHF
+Zone:6,Total,2416,2004,DHF
 Kanchanaburi,Total,606,2004,DHF
 Nakhon Pathom,Total,921,2004,DHF
 Ratchaburi,Total,496,2004,DHF
 Suphan Buri,Total,393,2004,DHF
-Zone 7,Total,788,2004,DHF
+Zone:7,Total,788,2004,DHF
 Phetchaburi,Total,247,2004,DHF
 Prachuap Khiri Khan,Total,129,2004,DHF
 Samut Sakhon,Total,281,2004,DHF
 Samut Songkhram,Total,131,2004,DHF
-Zone 8,Total,1733,2004,DHF
+Zone:8,Total,1733,2004,DHF
 Chachoengsao,Total,506,2004,DHF
 Nakhon Nayok,Total,107,2004,DHF
 Prachin Buri,Total,168,2004,DHF
 Sa Kaeo,Total,252,2004,DHF
 Samut Prakan,Total,700,2004,DHF
-Zone 9,Total,1056,2004,DHF
+Zone:9,Total,1056,2004,DHF
 Chanthaburi,Total,319,2004,DHF
 Chon Buri,Total,190,2004,DHF
 Rayong,Total,470,2004,DHF
 Trat,Total,77,2004,DHF
 North-Eastern Region,Total,6595,2004,DHF
-Zone 10,Total,628,2004,DHF
+Zone:10,Total,628,2004,DHF
 Loei,Total,90,2004,DHF
 Nong Bua Lam Phu,Total,86,2004,DHF
 Nong Khai,Total,198,2004,DHF
 Udon Thani,Total,254,2004,DHF
-Zone 11,Total,816,2004,DHF
+Zone:11,Total,816,2004,DHF
 Kalasin,Total,264,2004,DHF
 Mukdahan,Total,84,2004,DHF
 Nakhon Phanom,Total,145,2004,DHF
 Sakon Nakhon,Total,323,2004,DHF
-Zone 12,Total,993,2004,DHF
+Zone:12,Total,993,2004,DHF
 Khon Kaen,Total,370,2004,DHF
 Maha Sarakham,Total,167,2004,DHF
 Roi Et,Total,456,2004,DHF
-Zone 13,Total,2719,2004,DHF
+Zone:13,Total,2719,2004,DHF
 Buri Ram,Total,744,2004,DHF
 Chaiyaphum,Total,288,2004,DHF
 Nakhon Ratchasima,Total,1406,2004,DHF
 Surin,Total,281,2004,DHF
-Zone 14,Total,1439,2004,DHF
+Zone:14,Total,1439,2004,DHF
 Amnat Charoen,Total,81,2004,DHF
 Si Sa Ket,Total,646,2004,DHF
 Ubon Ratchathani,Total,615,2004,DHF
 Yasothon,Total,97,2004,DHF
 South Region,Total,3355,2004,DHF
-Zone 15,Total,836,2004,DHF
+Zone:15,Total,836,2004,DHF
 Chumphon,Total,334,2004,DHF
 Ranong,Total,55,2004,DHF
 Surat Thani,Total,447,2004,DHF
-Zone 16,Total,817,2004,DHF
+Zone:16,Total,817,2004,DHF
 Nakhon Si Thammarat,Total,393,2004,DHF
 Phatthalung,Total,140,2004,DHF
 Trang,Total,284,2004,DHF
-Zone 17,Total,331,2004,DHF
+Zone:17,Total,331,2004,DHF
 Krabi,Total,182,2004,DHF
 Phangnga,Total,64,2004,DHF
 Phuket,Total,85,2004,DHF
-Zone 18,Total,719,2004,DHF
+Zone:18,Total,719,2004,DHF
 Narathiwat,Total,382,2004,DHF
 Pattani,Total,147,2004,DHF
 Yala,Total,190,2004,DHF
-Zone 19,Total,652,2004,DHF
+Zone:19,Total,652,2004,DHF
 Satun,Total,140,2004,DHF
 Songkhla,Total,512,2004,DHF
 Total,0,8,2004,DHF
 North Region,0,0,2004,DHF
-Zone 1,0,0,2004,DHF
+Zone:1,0,0,2004,DHF
 Chiang Mai,0,0,2004,DHF
 Chiang Rai,0,0,2004,DHF
 Lampang,0,0,2004,DHF
@@ -22538,98 +22538,98 @@ Mae Hong Son,0,0,2004,DHF
 Nan,0,0,2004,DHF
 Phayao,0,0,2004,DHF
 Phrae,0,0,2004,DHF
-Zone 2,0,0,2004,DHF
+Zone:2,0,0,2004,DHF
 Phetchabun,0,0,2004,DHF
 Phitsanulok,0,0,2004,DHF
 Sukhothai,0,0,2004,DHF
 Tak,0,0,2004,DHF
 Uttaradit,0,0,2004,DHF
-Zone 3,0,0,2004,DHF
+Zone:3,0,0,2004,DHF
 Kamphaeng Phet,0,0,2004,DHF
 Nakhon Sawan,0,0,2004,DHF
 Phichit,0,0,2004,DHF
 Uthai Thani,0,0,2004,DHF
 Central Region,0,5,2004,DHF
 Bangkok,0,3,2004,DHF
-Zone 4,0,0,2004,DHF
+Zone:4,0,0,2004,DHF
 Ang Thong,0,0,2004,DHF
 Nonthaburi,0,0,2004,DHF
 P.Nakhon S.Ayutthaya,0,0,2004,DHF
 Pathum Thani,0,0,2004,DHF
-Zone 5,0,0,2004,DHF
+Zone:5,0,0,2004,DHF
 Chai Nat,0,0,2004,DHF
 Lop Buri,0,0,2004,DHF
 Saraburi,0,0,2004,DHF
 Sing Buri,0,0,2004,DHF
-Zone 6,0,2,2004,DHF
+Zone:6,0,2,2004,DHF
 Kanchanaburi,0,0,2004,DHF
 Nakhon Pathom,0,0,2004,DHF
 Ratchaburi,0,0,2004,DHF
 Suphan Buri,0,2,2004,DHF
-Zone 7,0,0,2004,DHF
+Zone:7,0,0,2004,DHF
 Phetchaburi,0,0,2004,DHF
 Prachuap Khiri Khan,0,0,2004,DHF
 Samut Sakhon,0,0,2004,DHF
 Samut Songkhram,0,0,2004,DHF
-Zone 8,0,0,2004,DHF
+Zone:8,0,0,2004,DHF
 Chachoengsao,0,0,2004,DHF
 Nakhon Nayok,0,0,2004,DHF
 Prachin Buri,0,0,2004,DHF
 Sa Kaeo,0,0,2004,DHF
 Samut Prakan,0,0,2004,DHF
-Zone 9,0,0,2004,DHF
+Zone:9,0,0,2004,DHF
 Chanthaburi,0,0,2004,DHF
 Chon Buri,0,0,2004,DHF
 Rayong,0,0,2004,DHF
 Trat,0,0,2004,DHF
 North-Eastern Region,0,2,2004,DHF
-Zone 10,0,0,2004,DHF
+Zone:10,0,0,2004,DHF
 Loei,0,0,2004,DHF
 Nong Bua Lam Phu,0,0,2004,DHF
 Nong Khai,0,0,2004,DHF
 Udon Thani,0,0,2004,DHF
-Zone 11,0,2,2004,DHF
+Zone:11,0,2,2004,DHF
 Kalasin,0,0,2004,DHF
 Mukdahan,0,1,2004,DHF
 Nakhon Phanom,0,1,2004,DHF
 Sakon Nakhon,0,0,2004,DHF
-Zone 12,0,0,2004,DHF
+Zone:12,0,0,2004,DHF
 Khon Kaen,0,0,2004,DHF
 Maha Sarakham,0,0,2004,DHF
 Roi Et,0,0,2004,DHF
-Zone 13,0,0,2004,DHF
+Zone:13,0,0,2004,DHF
 Buri Ram,0,0,2004,DHF
 Chaiyaphum,0,0,2004,DHF
 Nakhon Ratchasima,0,0,2004,DHF
 Surin,0,0,2004,DHF
-Zone 14,0,0,2004,DHF
+Zone:14,0,0,2004,DHF
 Amnat Charoen,0,0,2004,DHF
 Si Sa Ket,0,0,2004,DHF
 Ubon Ratchathani,0,0,2004,DHF
 Yasothon,0,0,2004,DHF
 South Region,0,1,2004,DHF
-Zone 15,0,0,2004,DHF
+Zone:15,0,0,2004,DHF
 Chumphon,0,0,2004,DHF
 Ranong,0,0,2004,DHF
 Surat Thani,0,0,2004,DHF
-Zone 16,0,0,2004,DHF
+Zone:16,0,0,2004,DHF
 Nakhon Si Thammarat,0,0,2004,DHF
 Phatthalung,0,0,2004,DHF
 Trang,0,0,2004,DHF
-Zone 17,0,0,2004,DHF
+Zone:17,0,0,2004,DHF
 Krabi,0,0,2004,DHF
 Phangnga,0,0,2004,DHF
 Phuket,0,0,2004,DHF
-Zone 18,0,0,2004,DHF
+Zone:18,0,0,2004,DHF
 Narathiwat,0,0,2004,DHF
 Pattani,0,0,2004,DHF
 Yala,0,0,2004,DHF
-Zone 19,0,1,2004,DHF
+Zone:19,0,1,2004,DHF
 Satun,0,1,2004,DHF
 Songkhla,0,0,2004,DHF
 Total,<1,184,2004,DHF
 North Region,<1,16,2004,DHF
-Zone 1,<1,2,2004,DHF
+Zone:1,<1,2,2004,DHF
 Chiang Mai,<1,0,2004,DHF
 Chiang Rai,<1,0,2004,DHF
 Lampang,<1,0,2004,DHF
@@ -22638,98 +22638,98 @@ Mae Hong Son,<1,0,2004,DHF
 Nan,<1,0,2004,DHF
 Phayao,<1,2,2004,DHF
 Phrae,<1,0,2004,DHF
-Zone 2,<1,10,2004,DHF
+Zone:2,<1,10,2004,DHF
 Phetchabun,<1,7,2004,DHF
 Phitsanulok,<1,2,2004,DHF
 Sukhothai,<1,0,2004,DHF
 Tak,<1,1,2004,DHF
 Uttaradit,<1,0,2004,DHF
-Zone 3,<1,4,2004,DHF
+Zone:3,<1,4,2004,DHF
 Kamphaeng Phet,<1,1,2004,DHF
 Nakhon Sawan,<1,2,2004,DHF
 Phichit,<1,1,2004,DHF
 Uthai Thani,<1,0,2004,DHF
 Central Region,<1,90,2004,DHF
 Bangkok,<1,26,2004,DHF
-Zone 4,<1,10,2004,DHF
+Zone:4,<1,10,2004,DHF
 Ang Thong,<1,0,2004,DHF
 Nonthaburi,<1,5,2004,DHF
 P.Nakhon S.Ayutthaya,<1,3,2004,DHF
 Pathum Thani,<1,2,2004,DHF
-Zone 5,<1,6,2004,DHF
+Zone:5,<1,6,2004,DHF
 Chai Nat,<1,0,2004,DHF
 Lop Buri,<1,4,2004,DHF
 Saraburi,<1,2,2004,DHF
 Sing Buri,<1,0,2004,DHF
-Zone 6,<1,25,2004,DHF
+Zone:6,<1,25,2004,DHF
 Kanchanaburi,<1,15,2004,DHF
 Nakhon Pathom,<1,4,2004,DHF
 Ratchaburi,<1,2,2004,DHF
 Suphan Buri,<1,4,2004,DHF
-Zone 7,<1,1,2004,DHF
+Zone:7,<1,1,2004,DHF
 Phetchaburi,<1,0,2004,DHF
 Prachuap Khiri Khan,<1,1,2004,DHF
 Samut Sakhon,<1,0,2004,DHF
 Samut Songkhram,<1,0,2004,DHF
-Zone 8,<1,11,2004,DHF
+Zone:8,<1,11,2004,DHF
 Chachoengsao,<1,1,2004,DHF
 Nakhon Nayok,<1,2,2004,DHF
 Prachin Buri,<1,2,2004,DHF
 Sa Kaeo,<1,1,2004,DHF
 Samut Prakan,<1,5,2004,DHF
-Zone 9,<1,11,2004,DHF
+Zone:9,<1,11,2004,DHF
 Chanthaburi,<1,3,2004,DHF
 Chon Buri,<1,0,2004,DHF
 Rayong,<1,7,2004,DHF
 Trat,<1,1,2004,DHF
 North-Eastern Region,<1,35,2004,DHF
-Zone 10,<1,1,2004,DHF
+Zone:10,<1,1,2004,DHF
 Loei,<1,0,2004,DHF
 Nong Bua Lam Phu,<1,0,2004,DHF
 Nong Khai,<1,1,2004,DHF
 Udon Thani,<1,0,2004,DHF
-Zone 11,<1,5,2004,DHF
+Zone:11,<1,5,2004,DHF
 Kalasin,<1,3,2004,DHF
 Mukdahan,<1,0,2004,DHF
 Nakhon Phanom,<1,1,2004,DHF
 Sakon Nakhon,<1,1,2004,DHF
-Zone 12,<1,3,2004,DHF
+Zone:12,<1,3,2004,DHF
 Khon Kaen,<1,2,2004,DHF
 Maha Sarakham,<1,0,2004,DHF
 Roi Et,<1,1,2004,DHF
-Zone 13,<1,21,2004,DHF
+Zone:13,<1,21,2004,DHF
 Buri Ram,<1,4,2004,DHF
 Chaiyaphum,<1,0,2004,DHF
 Nakhon Ratchasima,<1,15,2004,DHF
 Surin,<1,2,2004,DHF
-Zone 14,<1,5,2004,DHF
+Zone:14,<1,5,2004,DHF
 Amnat Charoen,<1,0,2004,DHF
 Si Sa Ket,<1,0,2004,DHF
 Ubon Ratchathani,<1,3,2004,DHF
 Yasothon,<1,2,2004,DHF
 South Region,<1,43,2004,DHF
-Zone 15,<1,9,2004,DHF
+Zone:15,<1,9,2004,DHF
 Chumphon,<1,2,2004,DHF
 Ranong,<1,0,2004,DHF
 Surat Thani,<1,7,2004,DHF
-Zone 16,<1,15,2004,DHF
+Zone:16,<1,15,2004,DHF
 Nakhon Si Thammarat,<1,7,2004,DHF
 Phatthalung,<1,3,2004,DHF
 Trang,<1,5,2004,DHF
-Zone 17,<1,2,2004,DHF
+Zone:17,<1,2,2004,DHF
 Krabi,<1,0,2004,DHF
 Phangnga,<1,0,2004,DHF
 Phuket,<1,2,2004,DHF
-Zone 18,<1,14,2004,DHF
+Zone:18,<1,14,2004,DHF
 Narathiwat,<1,6,2004,DHF
 Pattani,<1,6,2004,DHF
 Yala,<1,2,2004,DHF
-Zone 19,<1,3,2004,DHF
+Zone:19,<1,3,2004,DHF
 Satun,<1,0,2004,DHF
 Songkhla,<1,3,2004,DHF
 Total,1-1,158,2004,DHF
 North Region,1-1,13,2004,DHF
-Zone 1,1-1,2,2004,DHF
+Zone:1,1-1,2,2004,DHF
 Chiang Mai,1-1,0,2004,DHF
 Chiang Rai,1-1,1,2004,DHF
 Lampang,1-1,0,2004,DHF
@@ -22738,98 +22738,98 @@ Mae Hong Son,1-1,0,2004,DHF
 Nan,1-1,0,2004,DHF
 Phayao,1-1,0,2004,DHF
 Phrae,1-1,0,2004,DHF
-Zone 2,1-1,2,2004,DHF
+Zone:2,1-1,2,2004,DHF
 Phetchabun,1-1,1,2004,DHF
 Phitsanulok,1-1,1,2004,DHF
 Sukhothai,1-1,0,2004,DHF
 Tak,1-1,0,2004,DHF
 Uttaradit,1-1,0,2004,DHF
-Zone 3,1-1,9,2004,DHF
+Zone:3,1-1,9,2004,DHF
 Kamphaeng Phet,1-1,2,2004,DHF
 Nakhon Sawan,1-1,3,2004,DHF
 Phichit,1-1,3,2004,DHF
 Uthai Thani,1-1,1,2004,DHF
 Central Region,1-1,88,2004,DHF
 Bangkok,1-1,30,2004,DHF
-Zone 4,1-1,6,2004,DHF
+Zone:4,1-1,6,2004,DHF
 Ang Thong,1-1,0,2004,DHF
 Nonthaburi,1-1,1,2004,DHF
 P.Nakhon S.Ayutthaya,1-1,1,2004,DHF
 Pathum Thani,1-1,4,2004,DHF
-Zone 5,1-1,6,2004,DHF
+Zone:5,1-1,6,2004,DHF
 Chai Nat,1-1,0,2004,DHF
 Lop Buri,1-1,2,2004,DHF
 Saraburi,1-1,4,2004,DHF
 Sing Buri,1-1,0,2004,DHF
-Zone 6,1-1,15,2004,DHF
+Zone:6,1-1,15,2004,DHF
 Kanchanaburi,1-1,8,2004,DHF
 Nakhon Pathom,1-1,4,2004,DHF
 Ratchaburi,1-1,1,2004,DHF
 Suphan Buri,1-1,2,2004,DHF
-Zone 7,1-1,8,2004,DHF
+Zone:7,1-1,8,2004,DHF
 Phetchaburi,1-1,2,2004,DHF
 Prachuap Khiri Khan,1-1,4,2004,DHF
 Samut Sakhon,1-1,2,2004,DHF
 Samut Songkhram,1-1,0,2004,DHF
-Zone 8,1-1,14,2004,DHF
+Zone:8,1-1,14,2004,DHF
 Chachoengsao,1-1,3,2004,DHF
 Nakhon Nayok,1-1,1,2004,DHF
 Prachin Buri,1-1,2,2004,DHF
 Sa Kaeo,1-1,3,2004,DHF
 Samut Prakan,1-1,5,2004,DHF
-Zone 9,1-1,9,2004,DHF
+Zone:9,1-1,9,2004,DHF
 Chanthaburi,1-1,4,2004,DHF
 Chon Buri,1-1,2,2004,DHF
 Rayong,1-1,3,2004,DHF
 Trat,1-1,0,2004,DHF
 North-Eastern Region,1-1,38,2004,DHF
-Zone 10,1-1,3,2004,DHF
+Zone:10,1-1,3,2004,DHF
 Loei,1-1,0,2004,DHF
 Nong Bua Lam Phu,1-1,2,2004,DHF
 Nong Khai,1-1,0,2004,DHF
 Udon Thani,1-1,1,2004,DHF
-Zone 11,1-1,6,2004,DHF
+Zone:11,1-1,6,2004,DHF
 Kalasin,1-1,0,2004,DHF
 Mukdahan,1-1,0,2004,DHF
 Nakhon Phanom,1-1,1,2004,DHF
 Sakon Nakhon,1-1,5,2004,DHF
-Zone 12,1-1,3,2004,DHF
+Zone:12,1-1,3,2004,DHF
 Khon Kaen,1-1,1,2004,DHF
 Maha Sarakham,1-1,0,2004,DHF
 Roi Et,1-1,2,2004,DHF
-Zone 13,1-1,19,2004,DHF
+Zone:13,1-1,19,2004,DHF
 Buri Ram,1-1,6,2004,DHF
 Chaiyaphum,1-1,0,2004,DHF
 Nakhon Ratchasima,1-1,11,2004,DHF
 Surin,1-1,2,2004,DHF
-Zone 14,1-1,7,2004,DHF
+Zone:14,1-1,7,2004,DHF
 Amnat Charoen,1-1,0,2004,DHF
 Si Sa Ket,1-1,2,2004,DHF
 Ubon Ratchathani,1-1,4,2004,DHF
 Yasothon,1-1,1,2004,DHF
 South Region,1-1,19,2004,DHF
-Zone 15,1-1,3,2004,DHF
+Zone:15,1-1,3,2004,DHF
 Chumphon,1-1,3,2004,DHF
 Ranong,1-1,0,2004,DHF
 Surat Thani,1-1,0,2004,DHF
-Zone 16,1-1,5,2004,DHF
+Zone:16,1-1,5,2004,DHF
 Nakhon Si Thammarat,1-1,2,2004,DHF
 Phatthalung,1-1,0,2004,DHF
 Trang,1-1,3,2004,DHF
-Zone 17,1-1,5,2004,DHF
+Zone:17,1-1,5,2004,DHF
 Krabi,1-1,2,2004,DHF
 Phangnga,1-1,0,2004,DHF
 Phuket,1-1,3,2004,DHF
-Zone 18,1-1,3,2004,DHF
+Zone:18,1-1,3,2004,DHF
 Narathiwat,1-1,1,2004,DHF
 Pattani,1-1,1,2004,DHF
 Yala,1-1,1,2004,DHF
-Zone 19,1-1,3,2004,DHF
+Zone:19,1-1,3,2004,DHF
 Satun,1-1,2,2004,DHF
 Songkhla,1-1,1,2004,DHF
 Total,2-2,305,2004,DHF
 North Region,2-2,32,2004,DHF
-Zone 1,2-2,7,2004,DHF
+Zone:1,2-2,7,2004,DHF
 Chiang Mai,2-2,4,2004,DHF
 Chiang Rai,2-2,0,2004,DHF
 Lampang,2-2,1,2004,DHF
@@ -22838,98 +22838,98 @@ Mae Hong Son,2-2,0,2004,DHF
 Nan,2-2,0,2004,DHF
 Phayao,2-2,0,2004,DHF
 Phrae,2-2,2,2004,DHF
-Zone 2,2-2,17,2004,DHF
+Zone:2,2-2,17,2004,DHF
 Phetchabun,2-2,10,2004,DHF
 Phitsanulok,2-2,4,2004,DHF
 Sukhothai,2-2,1,2004,DHF
 Tak,2-2,1,2004,DHF
 Uttaradit,2-2,1,2004,DHF
-Zone 3,2-2,8,2004,DHF
+Zone:3,2-2,8,2004,DHF
 Kamphaeng Phet,2-2,3,2004,DHF
 Nakhon Sawan,2-2,3,2004,DHF
 Phichit,2-2,2,2004,DHF
 Uthai Thani,2-2,0,2004,DHF
 Central Region,2-2,137,2004,DHF
 Bangkok,2-2,51,2004,DHF
-Zone 4,2-2,8,2004,DHF
+Zone:4,2-2,8,2004,DHF
 Ang Thong,2-2,0,2004,DHF
 Nonthaburi,2-2,1,2004,DHF
 P.Nakhon S.Ayutthaya,2-2,1,2004,DHF
 Pathum Thani,2-2,6,2004,DHF
-Zone 5,2-2,11,2004,DHF
+Zone:5,2-2,11,2004,DHF
 Chai Nat,2-2,0,2004,DHF
 Lop Buri,2-2,4,2004,DHF
 Saraburi,2-2,7,2004,DHF
 Sing Buri,2-2,0,2004,DHF
-Zone 6,2-2,28,2004,DHF
+Zone:6,2-2,28,2004,DHF
 Kanchanaburi,2-2,15,2004,DHF
 Nakhon Pathom,2-2,8,2004,DHF
 Ratchaburi,2-2,4,2004,DHF
 Suphan Buri,2-2,1,2004,DHF
-Zone 7,2-2,6,2004,DHF
+Zone:7,2-2,6,2004,DHF
 Phetchaburi,2-2,0,2004,DHF
 Prachuap Khiri Khan,2-2,3,2004,DHF
 Samut Sakhon,2-2,3,2004,DHF
 Samut Songkhram,2-2,0,2004,DHF
-Zone 8,2-2,24,2004,DHF
+Zone:8,2-2,24,2004,DHF
 Chachoengsao,2-2,2,2004,DHF
 Nakhon Nayok,2-2,0,2004,DHF
 Prachin Buri,2-2,4,2004,DHF
 Sa Kaeo,2-2,6,2004,DHF
 Samut Prakan,2-2,12,2004,DHF
-Zone 9,2-2,9,2004,DHF
+Zone:9,2-2,9,2004,DHF
 Chanthaburi,2-2,4,2004,DHF
 Chon Buri,2-2,0,2004,DHF
 Rayong,2-2,3,2004,DHF
 Trat,2-2,2,2004,DHF
 North-Eastern Region,2-2,81,2004,DHF
-Zone 10,2-2,14,2004,DHF
+Zone:10,2-2,14,2004,DHF
 Loei,2-2,1,2004,DHF
 Nong Bua Lam Phu,2-2,2,2004,DHF
 Nong Khai,2-2,4,2004,DHF
 Udon Thani,2-2,7,2004,DHF
-Zone 11,2-2,4,2004,DHF
+Zone:11,2-2,4,2004,DHF
 Kalasin,2-2,0,2004,DHF
 Mukdahan,2-2,1,2004,DHF
 Nakhon Phanom,2-2,2,2004,DHF
 Sakon Nakhon,2-2,1,2004,DHF
-Zone 12,2-2,7,2004,DHF
+Zone:12,2-2,7,2004,DHF
 Khon Kaen,2-2,2,2004,DHF
 Maha Sarakham,2-2,1,2004,DHF
 Roi Et,2-2,4,2004,DHF
-Zone 13,2-2,40,2004,DHF
+Zone:13,2-2,40,2004,DHF
 Buri Ram,2-2,10,2004,DHF
 Chaiyaphum,2-2,1,2004,DHF
 Nakhon Ratchasima,2-2,25,2004,DHF
 Surin,2-2,4,2004,DHF
-Zone 14,2-2,16,2004,DHF
+Zone:14,2-2,16,2004,DHF
 Amnat Charoen,2-2,1,2004,DHF
 Si Sa Ket,2-2,6,2004,DHF
 Ubon Ratchathani,2-2,8,2004,DHF
 Yasothon,2-2,1,2004,DHF
 South Region,2-2,55,2004,DHF
-Zone 15,2-2,17,2004,DHF
+Zone:15,2-2,17,2004,DHF
 Chumphon,2-2,6,2004,DHF
 Ranong,2-2,0,2004,DHF
 Surat Thani,2-2,11,2004,DHF
-Zone 16,2-2,12,2004,DHF
+Zone:16,2-2,12,2004,DHF
 Nakhon Si Thammarat,2-2,7,2004,DHF
 Phatthalung,2-2,2,2004,DHF
 Trang,2-2,3,2004,DHF
-Zone 17,2-2,1,2004,DHF
+Zone:17,2-2,1,2004,DHF
 Krabi,2-2,0,2004,DHF
 Phangnga,2-2,1,2004,DHF
 Phuket,2-2,0,2004,DHF
-Zone 18,2-2,16,2004,DHF
+Zone:18,2-2,16,2004,DHF
 Narathiwat,2-2,5,2004,DHF
 Pattani,2-2,9,2004,DHF
 Yala,2-2,2,2004,DHF
-Zone 19,2-2,9,2004,DHF
+Zone:19,2-2,9,2004,DHF
 Satun,2-2,1,2004,DHF
 Songkhla,2-2,8,2004,DHF
 Total,3-3,454,2004,DHF
 North Region,3-3,39,2004,DHF
-Zone 1,3-3,8,2004,DHF
+Zone:1,3-3,8,2004,DHF
 Chiang Mai,3-3,4,2004,DHF
 Chiang Rai,3-3,0,2004,DHF
 Lampang,3-3,1,2004,DHF
@@ -22938,98 +22938,98 @@ Mae Hong Son,3-3,0,2004,DHF
 Nan,3-3,0,2004,DHF
 Phayao,3-3,1,2004,DHF
 Phrae,3-3,0,2004,DHF
-Zone 2,3-3,20,2004,DHF
+Zone:2,3-3,20,2004,DHF
 Phetchabun,3-3,11,2004,DHF
 Phitsanulok,3-3,5,2004,DHF
 Sukhothai,3-3,2,2004,DHF
 Tak,3-3,2,2004,DHF
 Uttaradit,3-3,0,2004,DHF
-Zone 3,3-3,11,2004,DHF
+Zone:3,3-3,11,2004,DHF
 Kamphaeng Phet,3-3,4,2004,DHF
 Nakhon Sawan,3-3,6,2004,DHF
 Phichit,3-3,1,2004,DHF
 Uthai Thani,3-3,0,2004,DHF
 Central Region,3-3,183,2004,DHF
 Bangkok,3-3,38,2004,DHF
-Zone 4,3-3,14,2004,DHF
+Zone:4,3-3,14,2004,DHF
 Ang Thong,3-3,2,2004,DHF
 Nonthaburi,3-3,4,2004,DHF
 P.Nakhon S.Ayutthaya,3-3,6,2004,DHF
 Pathum Thani,3-3,2,2004,DHF
-Zone 5,3-3,20,2004,DHF
+Zone:5,3-3,20,2004,DHF
 Chai Nat,3-3,2,2004,DHF
 Lop Buri,3-3,9,2004,DHF
 Saraburi,3-3,9,2004,DHF
 Sing Buri,3-3,0,2004,DHF
-Zone 6,3-3,49,2004,DHF
+Zone:6,3-3,49,2004,DHF
 Kanchanaburi,3-3,30,2004,DHF
 Nakhon Pathom,3-3,6,2004,DHF
 Ratchaburi,3-3,8,2004,DHF
 Suphan Buri,3-3,5,2004,DHF
-Zone 7,3-3,7,2004,DHF
+Zone:7,3-3,7,2004,DHF
 Phetchaburi,3-3,3,2004,DHF
 Prachuap Khiri Khan,3-3,2,2004,DHF
 Samut Sakhon,3-3,2,2004,DHF
 Samut Songkhram,3-3,0,2004,DHF
-Zone 8,3-3,30,2004,DHF
+Zone:8,3-3,30,2004,DHF
 Chachoengsao,3-3,0,2004,DHF
 Nakhon Nayok,3-3,0,2004,DHF
 Prachin Buri,3-3,5,2004,DHF
 Sa Kaeo,3-3,8,2004,DHF
 Samut Prakan,3-3,17,2004,DHF
-Zone 9,3-3,25,2004,DHF
+Zone:9,3-3,25,2004,DHF
 Chanthaburi,3-3,8,2004,DHF
 Chon Buri,3-3,3,2004,DHF
 Rayong,3-3,8,2004,DHF
 Trat,3-3,6,2004,DHF
 North-Eastern Region,3-3,149,2004,DHF
-Zone 10,3-3,11,2004,DHF
+Zone:10,3-3,11,2004,DHF
 Loei,3-3,0,2004,DHF
 Nong Bua Lam Phu,3-3,0,2004,DHF
 Nong Khai,3-3,6,2004,DHF
 Udon Thani,3-3,5,2004,DHF
-Zone 11,3-3,18,2004,DHF
+Zone:11,3-3,18,2004,DHF
 Kalasin,3-3,3,2004,DHF
 Mukdahan,3-3,0,2004,DHF
 Nakhon Phanom,3-3,6,2004,DHF
 Sakon Nakhon,3-3,9,2004,DHF
-Zone 12,3-3,24,2004,DHF
+Zone:12,3-3,24,2004,DHF
 Khon Kaen,3-3,6,2004,DHF
 Maha Sarakham,3-3,4,2004,DHF
 Roi Et,3-3,14,2004,DHF
-Zone 13,3-3,67,2004,DHF
+Zone:13,3-3,67,2004,DHF
 Buri Ram,3-3,25,2004,DHF
 Chaiyaphum,3-3,6,2004,DHF
 Nakhon Ratchasima,3-3,30,2004,DHF
 Surin,3-3,6,2004,DHF
-Zone 14,3-3,29,2004,DHF
+Zone:14,3-3,29,2004,DHF
 Amnat Charoen,3-3,2,2004,DHF
 Si Sa Ket,3-3,12,2004,DHF
 Ubon Ratchathani,3-3,11,2004,DHF
 Yasothon,3-3,4,2004,DHF
 South Region,3-3,83,2004,DHF
-Zone 15,3-3,23,2004,DHF
+Zone:15,3-3,23,2004,DHF
 Chumphon,3-3,7,2004,DHF
 Ranong,3-3,1,2004,DHF
 Surat Thani,3-3,15,2004,DHF
-Zone 16,3-3,20,2004,DHF
+Zone:16,3-3,20,2004,DHF
 Nakhon Si Thammarat,3-3,10,2004,DHF
 Phatthalung,3-3,4,2004,DHF
 Trang,3-3,6,2004,DHF
-Zone 17,3-3,3,2004,DHF
+Zone:17,3-3,3,2004,DHF
 Krabi,3-3,0,2004,DHF
 Phangnga,3-3,0,2004,DHF
 Phuket,3-3,3,2004,DHF
-Zone 18,3-3,20,2004,DHF
+Zone:18,3-3,20,2004,DHF
 Narathiwat,3-3,11,2004,DHF
 Pattani,3-3,4,2004,DHF
 Yala,3-3,5,2004,DHF
-Zone 19,3-3,17,2004,DHF
+Zone:19,3-3,17,2004,DHF
 Satun,3-3,4,2004,DHF
 Songkhla,3-3,13,2004,DHF
 Total,4-4,628,2004,DHF
 North Region,4-4,79,2004,DHF
-Zone 1,4-4,9,2004,DHF
+Zone:1,4-4,9,2004,DHF
 Chiang Mai,4-4,3,2004,DHF
 Chiang Rai,4-4,1,2004,DHF
 Lampang,4-4,0,2004,DHF
@@ -23038,98 +23038,98 @@ Mae Hong Son,4-4,0,2004,DHF
 Nan,4-4,0,2004,DHF
 Phayao,4-4,1,2004,DHF
 Phrae,4-4,3,2004,DHF
-Zone 2,4-4,34,2004,DHF
+Zone:2,4-4,34,2004,DHF
 Phetchabun,4-4,18,2004,DHF
 Phitsanulok,4-4,9,2004,DHF
 Sukhothai,4-4,3,2004,DHF
 Tak,4-4,2,2004,DHF
 Uttaradit,4-4,2,2004,DHF
-Zone 3,4-4,36,2004,DHF
+Zone:3,4-4,36,2004,DHF
 Kamphaeng Phet,4-4,11,2004,DHF
 Nakhon Sawan,4-4,13,2004,DHF
 Phichit,4-4,10,2004,DHF
 Uthai Thani,4-4,2,2004,DHF
 Central Region,4-4,270,2004,DHF
 Bangkok,4-4,69,2004,DHF
-Zone 4,4-4,29,2004,DHF
+Zone:4,4-4,29,2004,DHF
 Ang Thong,4-4,1,2004,DHF
 Nonthaburi,4-4,5,2004,DHF
 P.Nakhon S.Ayutthaya,4-4,9,2004,DHF
 Pathum Thani,4-4,14,2004,DHF
-Zone 5,4-4,24,2004,DHF
+Zone:5,4-4,24,2004,DHF
 Chai Nat,4-4,5,2004,DHF
 Lop Buri,4-4,4,2004,DHF
 Saraburi,4-4,15,2004,DHF
 Sing Buri,4-4,0,2004,DHF
-Zone 6,4-4,55,2004,DHF
+Zone:6,4-4,55,2004,DHF
 Kanchanaburi,4-4,27,2004,DHF
 Nakhon Pathom,4-4,12,2004,DHF
 Ratchaburi,4-4,12,2004,DHF
 Suphan Buri,4-4,4,2004,DHF
-Zone 7,4-4,15,2004,DHF
+Zone:7,4-4,15,2004,DHF
 Phetchaburi,4-4,3,2004,DHF
 Prachuap Khiri Khan,4-4,8,2004,DHF
 Samut Sakhon,4-4,3,2004,DHF
 Samut Songkhram,4-4,1,2004,DHF
-Zone 8,4-4,49,2004,DHF
+Zone:8,4-4,49,2004,DHF
 Chachoengsao,4-4,5,2004,DHF
 Nakhon Nayok,4-4,2,2004,DHF
 Prachin Buri,4-4,3,2004,DHF
 Sa Kaeo,4-4,21,2004,DHF
 Samut Prakan,4-4,18,2004,DHF
-Zone 9,4-4,29,2004,DHF
+Zone:9,4-4,29,2004,DHF
 Chanthaburi,4-4,10,2004,DHF
 Chon Buri,4-4,8,2004,DHF
 Rayong,4-4,6,2004,DHF
 Trat,4-4,5,2004,DHF
 North-Eastern Region,4-4,180,2004,DHF
-Zone 10,4-4,19,2004,DHF
+Zone:10,4-4,19,2004,DHF
 Loei,4-4,2,2004,DHF
 Nong Bua Lam Phu,4-4,4,2004,DHF
 Nong Khai,4-4,7,2004,DHF
 Udon Thani,4-4,6,2004,DHF
-Zone 11,4-4,21,2004,DHF
+Zone:11,4-4,21,2004,DHF
 Kalasin,4-4,8,2004,DHF
 Mukdahan,4-4,1,2004,DHF
 Nakhon Phanom,4-4,6,2004,DHF
 Sakon Nakhon,4-4,6,2004,DHF
-Zone 12,4-4,26,2004,DHF
+Zone:12,4-4,26,2004,DHF
 Khon Kaen,4-4,9,2004,DHF
 Maha Sarakham,4-4,5,2004,DHF
 Roi Et,4-4,12,2004,DHF
-Zone 13,4-4,80,2004,DHF
+Zone:13,4-4,80,2004,DHF
 Buri Ram,4-4,23,2004,DHF
 Chaiyaphum,4-4,10,2004,DHF
 Nakhon Ratchasima,4-4,38,2004,DHF
 Surin,4-4,9,2004,DHF
-Zone 14,4-4,34,2004,DHF
+Zone:14,4-4,34,2004,DHF
 Amnat Charoen,4-4,2,2004,DHF
 Si Sa Ket,4-4,17,2004,DHF
 Ubon Ratchathani,4-4,13,2004,DHF
 Yasothon,4-4,2,2004,DHF
 South Region,4-4,99,2004,DHF
-Zone 15,4-4,28,2004,DHF
+Zone:15,4-4,28,2004,DHF
 Chumphon,4-4,10,2004,DHF
 Ranong,4-4,1,2004,DHF
 Surat Thani,4-4,17,2004,DHF
-Zone 16,4-4,17,2004,DHF
+Zone:16,4-4,17,2004,DHF
 Nakhon Si Thammarat,4-4,11,2004,DHF
 Phatthalung,4-4,3,2004,DHF
 Trang,4-4,3,2004,DHF
-Zone 17,4-4,10,2004,DHF
+Zone:17,4-4,10,2004,DHF
 Krabi,4-4,5,2004,DHF
 Phangnga,4-4,0,2004,DHF
 Phuket,4-4,5,2004,DHF
-Zone 18,4-4,22,2004,DHF
+Zone:18,4-4,22,2004,DHF
 Narathiwat,4-4,10,2004,DHF
 Pattani,4-4,8,2004,DHF
 Yala,4-4,4,2004,DHF
-Zone 19,4-4,22,2004,DHF
+Zone:19,4-4,22,2004,DHF
 Satun,4-4,6,2004,DHF
 Songkhla,4-4,16,2004,DHF
 Total,5-5,709,2004,DHF
 North Region,5-5,93,2004,DHF
-Zone 1,5-5,17,2004,DHF
+Zone:1,5-5,17,2004,DHF
 Chiang Mai,5-5,8,2004,DHF
 Chiang Rai,5-5,1,2004,DHF
 Lampang,5-5,1,2004,DHF
@@ -23138,98 +23138,98 @@ Mae Hong Son,5-5,1,2004,DHF
 Nan,5-5,1,2004,DHF
 Phayao,5-5,2,2004,DHF
 Phrae,5-5,2,2004,DHF
-Zone 2,5-5,47,2004,DHF
+Zone:2,5-5,47,2004,DHF
 Phetchabun,5-5,32,2004,DHF
 Phitsanulok,5-5,6,2004,DHF
 Sukhothai,5-5,3,2004,DHF
 Tak,5-5,4,2004,DHF
 Uttaradit,5-5,2,2004,DHF
-Zone 3,5-5,29,2004,DHF
+Zone:3,5-5,29,2004,DHF
 Kamphaeng Phet,5-5,6,2004,DHF
 Nakhon Sawan,5-5,9,2004,DHF
 Phichit,5-5,11,2004,DHF
 Uthai Thani,5-5,3,2004,DHF
 Central Region,5-5,271,2004,DHF
 Bangkok,5-5,69,2004,DHF
-Zone 4,5-5,29,2004,DHF
+Zone:4,5-5,29,2004,DHF
 Ang Thong,5-5,2,2004,DHF
 Nonthaburi,5-5,13,2004,DHF
 P.Nakhon S.Ayutthaya,5-5,5,2004,DHF
 Pathum Thani,5-5,9,2004,DHF
-Zone 5,5-5,29,2004,DHF
+Zone:5,5-5,29,2004,DHF
 Chai Nat,5-5,6,2004,DHF
 Lop Buri,5-5,11,2004,DHF
 Saraburi,5-5,12,2004,DHF
 Sing Buri,5-5,0,2004,DHF
-Zone 6,5-5,62,2004,DHF
+Zone:6,5-5,62,2004,DHF
 Kanchanaburi,5-5,17,2004,DHF
 Nakhon Pathom,5-5,17,2004,DHF
 Ratchaburi,5-5,21,2004,DHF
 Suphan Buri,5-5,7,2004,DHF
-Zone 7,5-5,20,2004,DHF
+Zone:7,5-5,20,2004,DHF
 Phetchaburi,5-5,8,2004,DHF
 Prachuap Khiri Khan,5-5,6,2004,DHF
 Samut Sakhon,5-5,5,2004,DHF
 Samut Songkhram,5-5,1,2004,DHF
-Zone 8,5-5,37,2004,DHF
+Zone:8,5-5,37,2004,DHF
 Chachoengsao,5-5,3,2004,DHF
 Nakhon Nayok,5-5,1,2004,DHF
 Prachin Buri,5-5,3,2004,DHF
 Sa Kaeo,5-5,15,2004,DHF
 Samut Prakan,5-5,15,2004,DHF
-Zone 9,5-5,25,2004,DHF
+Zone:9,5-5,25,2004,DHF
 Chanthaburi,5-5,11,2004,DHF
 Chon Buri,5-5,4,2004,DHF
 Rayong,5-5,6,2004,DHF
 Trat,5-5,4,2004,DHF
 North-Eastern Region,5-5,219,2004,DHF
-Zone 10,5-5,15,2004,DHF
+Zone:10,5-5,15,2004,DHF
 Loei,5-5,1,2004,DHF
 Nong Bua Lam Phu,5-5,0,2004,DHF
 Nong Khai,5-5,7,2004,DHF
 Udon Thani,5-5,7,2004,DHF
-Zone 11,5-5,23,2004,DHF
+Zone:11,5-5,23,2004,DHF
 Kalasin,5-5,13,2004,DHF
 Mukdahan,5-5,2,2004,DHF
 Nakhon Phanom,5-5,6,2004,DHF
 Sakon Nakhon,5-5,2,2004,DHF
-Zone 12,5-5,41,2004,DHF
+Zone:12,5-5,41,2004,DHF
 Khon Kaen,5-5,17,2004,DHF
 Maha Sarakham,5-5,7,2004,DHF
 Roi Et,5-5,17,2004,DHF
-Zone 13,5-5,98,2004,DHF
+Zone:13,5-5,98,2004,DHF
 Buri Ram,5-5,27,2004,DHF
 Chaiyaphum,5-5,7,2004,DHF
 Nakhon Ratchasima,5-5,49,2004,DHF
 Surin,5-5,15,2004,DHF
-Zone 14,5-5,42,2004,DHF
+Zone:14,5-5,42,2004,DHF
 Amnat Charoen,5-5,0,2004,DHF
 Si Sa Ket,5-5,17,2004,DHF
 Ubon Ratchathani,5-5,22,2004,DHF
 Yasothon,5-5,3,2004,DHF
 South Region,5-5,126,2004,DHF
-Zone 15,5-5,26,2004,DHF
+Zone:15,5-5,26,2004,DHF
 Chumphon,5-5,9,2004,DHF
 Ranong,5-5,2,2004,DHF
 Surat Thani,5-5,15,2004,DHF
-Zone 16,5-5,28,2004,DHF
+Zone:16,5-5,28,2004,DHF
 Nakhon Si Thammarat,5-5,12,2004,DHF
 Phatthalung,5-5,8,2004,DHF
 Trang,5-5,8,2004,DHF
-Zone 17,5-5,13,2004,DHF
+Zone:17,5-5,13,2004,DHF
 Krabi,5-5,3,2004,DHF
 Phangnga,5-5,4,2004,DHF
 Phuket,5-5,6,2004,DHF
-Zone 18,5-5,21,2004,DHF
+Zone:18,5-5,21,2004,DHF
 Narathiwat,5-5,7,2004,DHF
 Pattani,5-5,5,2004,DHF
 Yala,5-5,9,2004,DHF
-Zone 19,5-5,38,2004,DHF
+Zone:19,5-5,38,2004,DHF
 Satun,5-5,6,2004,DHF
 Songkhla,5-5,32,2004,DHF
 Total,6-6,1020,2004,DHF
 North Region,6-6,135,2004,DHF
-Zone 1,6-6,24,2004,DHF
+Zone:1,6-6,24,2004,DHF
 Chiang Mai,6-6,3,2004,DHF
 Chiang Rai,6-6,4,2004,DHF
 Lampang,6-6,6,2004,DHF
@@ -23238,98 +23238,98 @@ Mae Hong Son,6-6,1,2004,DHF
 Nan,6-6,0,2004,DHF
 Phayao,6-6,4,2004,DHF
 Phrae,6-6,4,2004,DHF
-Zone 2,6-6,69,2004,DHF
+Zone:2,6-6,69,2004,DHF
 Phetchabun,6-6,46,2004,DHF
 Phitsanulok,6-6,12,2004,DHF
 Sukhothai,6-6,8,2004,DHF
 Tak,6-6,3,2004,DHF
 Uttaradit,6-6,0,2004,DHF
-Zone 3,6-6,42,2004,DHF
+Zone:3,6-6,42,2004,DHF
 Kamphaeng Phet,6-6,15,2004,DHF
 Nakhon Sawan,6-6,16,2004,DHF
 Phichit,6-6,10,2004,DHF
 Uthai Thani,6-6,1,2004,DHF
 Central Region,6-6,393,2004,DHF
 Bangkok,6-6,122,2004,DHF
-Zone 4,6-6,39,2004,DHF
+Zone:4,6-6,39,2004,DHF
 Ang Thong,6-6,4,2004,DHF
 Nonthaburi,6-6,11,2004,DHF
 P.Nakhon S.Ayutthaya,6-6,10,2004,DHF
 Pathum Thani,6-6,14,2004,DHF
-Zone 5,6-6,35,2004,DHF
+Zone:5,6-6,35,2004,DHF
 Chai Nat,6-6,6,2004,DHF
 Lop Buri,6-6,11,2004,DHF
 Saraburi,6-6,17,2004,DHF
 Sing Buri,6-6,1,2004,DHF
-Zone 6,6-6,82,2004,DHF
+Zone:6,6-6,82,2004,DHF
 Kanchanaburi,6-6,41,2004,DHF
 Nakhon Pathom,6-6,14,2004,DHF
 Ratchaburi,6-6,12,2004,DHF
 Suphan Buri,6-6,15,2004,DHF
-Zone 7,6-6,27,2004,DHF
+Zone:7,6-6,27,2004,DHF
 Phetchaburi,6-6,12,2004,DHF
 Prachuap Khiri Khan,6-6,5,2004,DHF
 Samut Sakhon,6-6,6,2004,DHF
 Samut Songkhram,6-6,4,2004,DHF
-Zone 8,6-6,57,2004,DHF
+Zone:8,6-6,57,2004,DHF
 Chachoengsao,6-6,8,2004,DHF
 Nakhon Nayok,6-6,1,2004,DHF
 Prachin Buri,6-6,5,2004,DHF
 Sa Kaeo,6-6,20,2004,DHF
 Samut Prakan,6-6,23,2004,DHF
-Zone 9,6-6,31,2004,DHF
+Zone:9,6-6,31,2004,DHF
 Chanthaburi,6-6,7,2004,DHF
 Chon Buri,6-6,6,2004,DHF
 Rayong,6-6,15,2004,DHF
 Trat,6-6,3,2004,DHF
 North-Eastern Region,6-6,318,2004,DHF
-Zone 10,6-6,24,2004,DHF
+Zone:10,6-6,24,2004,DHF
 Loei,6-6,1,2004,DHF
 Nong Bua Lam Phu,6-6,4,2004,DHF
 Nong Khai,6-6,9,2004,DHF
 Udon Thani,6-6,10,2004,DHF
-Zone 11,6-6,31,2004,DHF
+Zone:11,6-6,31,2004,DHF
 Kalasin,6-6,10,2004,DHF
 Mukdahan,6-6,5,2004,DHF
 Nakhon Phanom,6-6,4,2004,DHF
 Sakon Nakhon,6-6,12,2004,DHF
-Zone 12,6-6,49,2004,DHF
+Zone:12,6-6,49,2004,DHF
 Khon Kaen,6-6,28,2004,DHF
 Maha Sarakham,6-6,3,2004,DHF
 Roi Et,6-6,18,2004,DHF
-Zone 13,6-6,141,2004,DHF
+Zone:13,6-6,141,2004,DHF
 Buri Ram,6-6,42,2004,DHF
 Chaiyaphum,6-6,17,2004,DHF
 Nakhon Ratchasima,6-6,67,2004,DHF
 Surin,6-6,15,2004,DHF
-Zone 14,6-6,73,2004,DHF
+Zone:14,6-6,73,2004,DHF
 Amnat Charoen,6-6,4,2004,DHF
 Si Sa Ket,6-6,41,2004,DHF
 Ubon Ratchathani,6-6,22,2004,DHF
 Yasothon,6-6,6,2004,DHF
 South Region,6-6,174,2004,DHF
-Zone 15,6-6,42,2004,DHF
+Zone:15,6-6,42,2004,DHF
 Chumphon,6-6,15,2004,DHF
 Ranong,6-6,7,2004,DHF
 Surat Thani,6-6,20,2004,DHF
-Zone 16,6-6,38,2004,DHF
+Zone:16,6-6,38,2004,DHF
 Nakhon Si Thammarat,6-6,27,2004,DHF
 Phatthalung,6-6,3,2004,DHF
 Trang,6-6,8,2004,DHF
-Zone 17,6-6,18,2004,DHF
+Zone:17,6-6,18,2004,DHF
 Krabi,6-6,9,2004,DHF
 Phangnga,6-6,5,2004,DHF
 Phuket,6-6,4,2004,DHF
-Zone 18,6-6,39,2004,DHF
+Zone:18,6-6,39,2004,DHF
 Narathiwat,6-6,16,2004,DHF
 Pattani,6-6,13,2004,DHF
 Yala,6-6,10,2004,DHF
-Zone 19,6-6,37,2004,DHF
+Zone:19,6-6,37,2004,DHF
 Satun,6-6,8,2004,DHF
 Songkhla,6-6,29,2004,DHF
 Total,7-9,4079,2004,DHF
 North Region,7-9,550,2004,DHF
-Zone 1,7-9,116,2004,DHF
+Zone:1,7-9,116,2004,DHF
 Chiang Mai,7-9,40,2004,DHF
 Chiang Rai,7-9,5,2004,DHF
 Lampang,7-9,17,2004,DHF
@@ -23338,98 +23338,98 @@ Mae Hong Son,7-9,1,2004,DHF
 Nan,7-9,6,2004,DHF
 Phayao,7-9,18,2004,DHF
 Phrae,7-9,21,2004,DHF
-Zone 2,7-9,268,2004,DHF
+Zone:2,7-9,268,2004,DHF
 Phetchabun,7-9,147,2004,DHF
 Phitsanulok,7-9,65,2004,DHF
 Sukhothai,7-9,21,2004,DHF
 Tak,7-9,27,2004,DHF
 Uttaradit,7-9,8,2004,DHF
-Zone 3,7-9,166,2004,DHF
+Zone:3,7-9,166,2004,DHF
 Kamphaeng Phet,7-9,47,2004,DHF
 Nakhon Sawan,7-9,64,2004,DHF
 Phichit,7-9,42,2004,DHF
 Uthai Thani,7-9,13,2004,DHF
 Central Region,7-9,1620,2004,DHF
 Bangkok,7-9,457,2004,DHF
-Zone 4,7-9,162,2004,DHF
+Zone:4,7-9,162,2004,DHF
 Ang Thong,7-9,13,2004,DHF
 Nonthaburi,7-9,58,2004,DHF
 P.Nakhon S.Ayutthaya,7-9,42,2004,DHF
 Pathum Thani,7-9,49,2004,DHF
-Zone 5,7-9,178,2004,DHF
+Zone:5,7-9,178,2004,DHF
 Chai Nat,7-9,17,2004,DHF
 Lop Buri,7-9,86,2004,DHF
 Saraburi,7-9,67,2004,DHF
 Sing Buri,7-9,8,2004,DHF
-Zone 6,7-9,381,2004,DHF
+Zone:6,7-9,381,2004,DHF
 Kanchanaburi,7-9,130,2004,DHF
 Nakhon Pathom,7-9,123,2004,DHF
 Ratchaburi,7-9,83,2004,DHF
 Suphan Buri,7-9,45,2004,DHF
-Zone 7,7-9,101,2004,DHF
+Zone:7,7-9,101,2004,DHF
 Phetchaburi,7-9,27,2004,DHF
 Prachuap Khiri Khan,7-9,21,2004,DHF
 Samut Sakhon,7-9,28,2004,DHF
 Samut Songkhram,7-9,25,2004,DHF
-Zone 8,7-9,213,2004,DHF
+Zone:8,7-9,213,2004,DHF
 Chachoengsao,7-9,37,2004,DHF
 Nakhon Nayok,7-9,11,2004,DHF
 Prachin Buri,7-9,29,2004,DHF
 Sa Kaeo,7-9,58,2004,DHF
 Samut Prakan,7-9,78,2004,DHF
-Zone 9,7-9,128,2004,DHF
+Zone:9,7-9,128,2004,DHF
 Chanthaburi,7-9,39,2004,DHF
 Chon Buri,7-9,20,2004,DHF
 Rayong,7-9,56,2004,DHF
 Trat,7-9,13,2004,DHF
 North-Eastern Region,7-9,1363,2004,DHF
-Zone 10,7-9,148,2004,DHF
+Zone:10,7-9,148,2004,DHF
 Loei,7-9,16,2004,DHF
 Nong Bua Lam Phu,7-9,23,2004,DHF
 Nong Khai,7-9,50,2004,DHF
 Udon Thani,7-9,59,2004,DHF
-Zone 11,7-9,165,2004,DHF
+Zone:11,7-9,165,2004,DHF
 Kalasin,7-9,58,2004,DHF
 Mukdahan,7-9,19,2004,DHF
 Nakhon Phanom,7-9,23,2004,DHF
 Sakon Nakhon,7-9,65,2004,DHF
-Zone 12,7-9,229,2004,DHF
+Zone:12,7-9,229,2004,DHF
 Khon Kaen,7-9,101,2004,DHF
 Maha Sarakham,7-9,32,2004,DHF
 Roi Et,7-9,96,2004,DHF
-Zone 13,7-9,531,2004,DHF
+Zone:13,7-9,531,2004,DHF
 Buri Ram,7-9,166,2004,DHF
 Chaiyaphum,7-9,58,2004,DHF
 Nakhon Ratchasima,7-9,249,2004,DHF
 Surin,7-9,58,2004,DHF
-Zone 14,7-9,290,2004,DHF
+Zone:14,7-9,290,2004,DHF
 Amnat Charoen,7-9,13,2004,DHF
 Si Sa Ket,7-9,131,2004,DHF
 Ubon Ratchathani,7-9,119,2004,DHF
 Yasothon,7-9,27,2004,DHF
 South Region,7-9,546,2004,DHF
-Zone 15,7-9,156,2004,DHF
+Zone:15,7-9,156,2004,DHF
 Chumphon,7-9,75,2004,DHF
 Ranong,7-9,10,2004,DHF
 Surat Thani,7-9,71,2004,DHF
-Zone 16,7-9,120,2004,DHF
+Zone:16,7-9,120,2004,DHF
 Nakhon Si Thammarat,7-9,57,2004,DHF
 Phatthalung,7-9,22,2004,DHF
 Trang,7-9,41,2004,DHF
-Zone 17,7-9,64,2004,DHF
+Zone:17,7-9,64,2004,DHF
 Krabi,7-9,37,2004,DHF
 Phangnga,7-9,13,2004,DHF
 Phuket,7-9,14,2004,DHF
-Zone 18,7-9,100,2004,DHF
+Zone:18,7-9,100,2004,DHF
 Narathiwat,7-9,45,2004,DHF
 Pattani,7-9,25,2004,DHF
 Yala,7-9,30,2004,DHF
-Zone 19,7-9,106,2004,DHF
+Zone:19,7-9,106,2004,DHF
 Satun,7-9,30,2004,DHF
 Songkhla,7-9,76,2004,DHF
 Total,10-14,7916,2004,DHF
 North Region,10-14,1194,2004,DHF
-Zone 1,10-14,347,2004,DHF
+Zone:1,10-14,347,2004,DHF
 Chiang Mai,10-14,77,2004,DHF
 Chiang Rai,10-14,16,2004,DHF
 Lampang,10-14,77,2004,DHF
@@ -23438,98 +23438,98 @@ Mae Hong Son,10-14,7,2004,DHF
 Nan,10-14,11,2004,DHF
 Phayao,10-14,55,2004,DHF
 Phrae,10-14,47,2004,DHF
-Zone 2,10-14,501,2004,DHF
+Zone:2,10-14,501,2004,DHF
 Phetchabun,10-14,280,2004,DHF
 Phitsanulok,10-14,103,2004,DHF
 Sukhothai,10-14,52,2004,DHF
 Tak,10-14,48,2004,DHF
 Uttaradit,10-14,18,2004,DHF
-Zone 3,10-14,346,2004,DHF
+Zone:3,10-14,346,2004,DHF
 Kamphaeng Phet,10-14,102,2004,DHF
 Nakhon Sawan,10-14,138,2004,DHF
 Phichit,10-14,84,2004,DHF
 Uthai Thani,10-14,22,2004,DHF
 Central Region,10-14,3259,2004,DHF
 Bangkok,10-14,973,2004,DHF
-Zone 4,10-14,345,2004,DHF
+Zone:4,10-14,345,2004,DHF
 Ang Thong,10-14,22,2004,DHF
 Nonthaburi,10-14,103,2004,DHF
 P.Nakhon S.Ayutthaya,10-14,118,2004,DHF
 Pathum Thani,10-14,102,2004,DHF
-Zone 5,10-14,394,2004,DHF
+Zone:5,10-14,394,2004,DHF
 Chai Nat,10-14,52,2004,DHF
 Lop Buri,10-14,180,2004,DHF
 Saraburi,10-14,128,2004,DHF
 Sing Buri,10-14,34,2004,DHF
-Zone 6,10-14,674,2004,DHF
+Zone:6,10-14,674,2004,DHF
 Kanchanaburi,10-14,183,2004,DHF
 Nakhon Pathom,10-14,221,2004,DHF
 Ratchaburi,10-14,153,2004,DHF
 Suphan Buri,10-14,117,2004,DHF
-Zone 7,10-14,212,2004,DHF
+Zone:7,10-14,212,2004,DHF
 Phetchaburi,10-14,86,2004,DHF
 Prachuap Khiri Khan,10-14,37,2004,DHF
 Samut Sakhon,10-14,53,2004,DHF
 Samut Songkhram,10-14,36,2004,DHF
-Zone 8,10-14,412,2004,DHF
+Zone:8,10-14,412,2004,DHF
 Chachoengsao,10-14,110,2004,DHF
 Nakhon Nayok,10-14,30,2004,DHF
 Prachin Buri,10-14,44,2004,DHF
 Sa Kaeo,10-14,74,2004,DHF
 Samut Prakan,10-14,154,2004,DHF
-Zone 9,10-14,249,2004,DHF
+Zone:9,10-14,249,2004,DHF
 Chanthaburi,10-14,83,2004,DHF
 Chon Buri,10-14,40,2004,DHF
 Rayong,10-14,110,2004,DHF
 Trat,10-14,16,2004,DHF
 North-Eastern Region,10-14,2621,2004,DHF
-Zone 10,10-14,244,2004,DHF
+Zone:10,10-14,244,2004,DHF
 Loei,10-14,45,2004,DHF
 Nong Bua Lam Phu,10-14,30,2004,DHF
 Nong Khai,10-14,74,2004,DHF
 Udon Thani,10-14,95,2004,DHF
-Zone 11,10-14,352,2004,DHF
+Zone:11,10-14,352,2004,DHF
 Kalasin,10-14,109,2004,DHF
 Mukdahan,10-14,39,2004,DHF
 Nakhon Phanom,10-14,60,2004,DHF
 Sakon Nakhon,10-14,144,2004,DHF
-Zone 12,10-14,438,2004,DHF
+Zone:12,10-14,438,2004,DHF
 Khon Kaen,10-14,153,2004,DHF
 Maha Sarakham,10-14,75,2004,DHF
 Roi Et,10-14,210,2004,DHF
-Zone 13,10-14,1012,2004,DHF
+Zone:13,10-14,1012,2004,DHF
 Buri Ram,10-14,314,2004,DHF
 Chaiyaphum,10-14,138,2004,DHF
 Nakhon Ratchasima,10-14,457,2004,DHF
 Surin,10-14,103,2004,DHF
-Zone 14,10-14,575,2004,DHF
+Zone:14,10-14,575,2004,DHF
 Amnat Charoen,10-14,34,2004,DHF
 Si Sa Ket,10-14,270,2004,DHF
 Ubon Ratchathani,10-14,238,2004,DHF
 Yasothon,10-14,33,2004,DHF
 South Region,10-14,842,2004,DHF
-Zone 15,10-14,229,2004,DHF
+Zone:15,10-14,229,2004,DHF
 Chumphon,10-14,102,2004,DHF
 Ranong,10-14,10,2004,DHF
 Surat Thani,10-14,117,2004,DHF
-Zone 16,10-14,212,2004,DHF
+Zone:16,10-14,212,2004,DHF
 Nakhon Si Thammarat,10-14,109,2004,DHF
 Phatthalung,10-14,40,2004,DHF
 Trang,10-14,63,2004,DHF
-Zone 17,10-14,88,2004,DHF
+Zone:17,10-14,88,2004,DHF
 Krabi,10-14,49,2004,DHF
 Phangnga,10-14,16,2004,DHF
 Phuket,10-14,23,2004,DHF
-Zone 18,10-14,147,2004,DHF
+Zone:18,10-14,147,2004,DHF
 Narathiwat,10-14,65,2004,DHF
 Pattani,10-14,32,2004,DHF
 Yala,10-14,50,2004,DHF
-Zone 19,10-14,166,2004,DHF
+Zone:19,10-14,166,2004,DHF
 Satun,10-14,41,2004,DHF
 Songkhla,10-14,125,2004,DHF
 Total,15-24,6836,2004,DHF
 North Region,15-24,1193,2004,DHF
-Zone 1,15-24,502,2004,DHF
+Zone:1,15-24,502,2004,DHF
 Chiang Mai,15-24,190,2004,DHF
 Chiang Rai,15-24,19,2004,DHF
 Lampang,15-24,84,2004,DHF
@@ -23538,98 +23538,98 @@ Mae Hong Son,15-24,18,2004,DHF
 Nan,15-24,10,2004,DHF
 Phayao,15-24,48,2004,DHF
 Phrae,15-24,57,2004,DHF
-Zone 2,15-24,326,2004,DHF
+Zone:2,15-24,326,2004,DHF
 Phetchabun,15-24,120,2004,DHF
 Phitsanulok,15-24,119,2004,DHF
 Sukhothai,15-24,31,2004,DHF
 Tak,15-24,27,2004,DHF
 Uttaradit,15-24,29,2004,DHF
-Zone 3,15-24,365,2004,DHF
+Zone:3,15-24,365,2004,DHF
 Kamphaeng Phet,15-24,90,2004,DHF
 Nakhon Sawan,15-24,147,2004,DHF
 Phichit,15-24,91,2004,DHF
 Uthai Thani,15-24,37,2004,DHF
 Central Region,15-24,3651,2004,DHF
 Bangkok,15-24,1212,2004,DHF
-Zone 4,15-24,481,2004,DHF
+Zone:4,15-24,481,2004,DHF
 Ang Thong,15-24,30,2004,DHF
 Nonthaburi,15-24,194,2004,DHF
 P.Nakhon S.Ayutthaya,15-24,125,2004,DHF
 Pathum Thani,15-24,132,2004,DHF
-Zone 5,15-24,280,2004,DHF
+Zone:5,15-24,280,2004,DHF
 Chai Nat,15-24,56,2004,DHF
 Lop Buri,15-24,135,2004,DHF
 Saraburi,15-24,56,2004,DHF
 Sing Buri,15-24,33,2004,DHF
-Zone 6,15-24,650,2004,DHF
+Zone:6,15-24,650,2004,DHF
 Kanchanaburi,15-24,92,2004,DHF
 Nakhon Pathom,15-24,305,2004,DHF
 Ratchaburi,15-24,128,2004,DHF
 Suphan Buri,15-24,125,2004,DHF
-Zone 7,15-24,237,2004,DHF
+Zone:7,15-24,237,2004,DHF
 Phetchaburi,15-24,69,2004,DHF
 Prachuap Khiri Khan,15-24,31,2004,DHF
 Samut Sakhon,15-24,98,2004,DHF
 Samut Songkhram,15-24,39,2004,DHF
-Zone 8,15-24,502,2004,DHF
+Zone:8,15-24,502,2004,DHF
 Chachoengsao,15-24,185,2004,DHF
 Nakhon Nayok,15-24,37,2004,DHF
 Prachin Buri,15-24,45,2004,DHF
 Sa Kaeo,15-24,29,2004,DHF
 Samut Prakan,15-24,206,2004,DHF
-Zone 9,15-24,289,2004,DHF
+Zone:9,15-24,289,2004,DHF
 Chanthaburi,15-24,94,2004,DHF
 Chon Buri,15-24,47,2004,DHF
 Rayong,15-24,133,2004,DHF
 Trat,15-24,15,2004,DHF
 North-Eastern Region,15-24,1185,2004,DHF
-Zone 10,15-24,124,2004,DHF
+Zone:10,15-24,124,2004,DHF
 Loei,15-24,21,2004,DHF
 Nong Bua Lam Phu,15-24,18,2004,DHF
 Nong Khai,15-24,38,2004,DHF
 Udon Thani,15-24,47,2004,DHF
-Zone 11,15-24,154,2004,DHF
+Zone:11,15-24,154,2004,DHF
 Kalasin,15-24,50,2004,DHF
 Mukdahan,15-24,13,2004,DHF
 Nakhon Phanom,15-24,27,2004,DHF
 Sakon Nakhon,15-24,64,2004,DHF
-Zone 12,15-24,139,2004,DHF
+Zone:12,15-24,139,2004,DHF
 Khon Kaen,15-24,37,2004,DHF
 Maha Sarakham,15-24,36,2004,DHF
 Roi Et,15-24,66,2004,DHF
-Zone 13,15-24,505,2004,DHF
+Zone:13,15-24,505,2004,DHF
 Buri Ram,15-24,88,2004,DHF
 Chaiyaphum,15-24,39,2004,DHF
 Nakhon Ratchasima,15-24,326,2004,DHF
 Surin,15-24,52,2004,DHF
-Zone 14,15-24,263,2004,DHF
+Zone:14,15-24,263,2004,DHF
 Amnat Charoen,15-24,18,2004,DHF
 Si Sa Ket,15-24,106,2004,DHF
 Ubon Ratchathani,15-24,123,2004,DHF
 Yasothon,15-24,16,2004,DHF
 South Region,15-24,807,2004,DHF
-Zone 15,15-24,197,2004,DHF
+Zone:15,15-24,197,2004,DHF
 Chumphon,15-24,80,2004,DHF
 Ranong,15-24,15,2004,DHF
 Surat Thani,15-24,102,2004,DHF
-Zone 16,15-24,235,2004,DHF
+Zone:16,15-24,235,2004,DHF
 Nakhon Si Thammarat,15-24,113,2004,DHF
 Phatthalung,15-24,31,2004,DHF
 Trang,15-24,91,2004,DHF
-Zone 17,15-24,73,2004,DHF
+Zone:17,15-24,73,2004,DHF
 Krabi,15-24,48,2004,DHF
 Phangnga,15-24,9,2004,DHF
 Phuket,15-24,16,2004,DHF
-Zone 18,15-24,165,2004,DHF
+Zone:18,15-24,165,2004,DHF
 Narathiwat,15-24,107,2004,DHF
 Pattani,15-24,23,2004,DHF
 Yala,15-24,35,2004,DHF
-Zone 19,15-24,137,2004,DHF
+Zone:19,15-24,137,2004,DHF
 Satun,15-24,23,2004,DHF
 Songkhla,15-24,114,2004,DHF
 Total,25-34,2605,2004,DHF
 North Region,25-34,342,2004,DHF
-Zone 1,25-34,170,2004,DHF
+Zone:1,25-34,170,2004,DHF
 Chiang Mai,25-34,91,2004,DHF
 Chiang Rai,25-34,12,2004,DHF
 Lampang,25-34,24,2004,DHF
@@ -23638,98 +23638,98 @@ Mae Hong Son,25-34,9,2004,DHF
 Nan,25-34,2,2004,DHF
 Phayao,25-34,7,2004,DHF
 Phrae,25-34,4,2004,DHF
-Zone 2,25-34,73,2004,DHF
+Zone:2,25-34,73,2004,DHF
 Phetchabun,25-34,26,2004,DHF
 Phitsanulok,25-34,22,2004,DHF
 Sukhothai,25-34,5,2004,DHF
 Tak,25-34,11,2004,DHF
 Uttaradit,25-34,9,2004,DHF
-Zone 3,25-34,99,2004,DHF
+Zone:3,25-34,99,2004,DHF
 Kamphaeng Phet,25-34,22,2004,DHF
 Nakhon Sawan,25-34,35,2004,DHF
 Phichit,25-34,28,2004,DHF
 Uthai Thani,25-34,14,2004,DHF
 Central Region,25-34,1709,2004,DHF
 Bangkok,25-34,745,2004,DHF
-Zone 4,25-34,198,2004,DHF
+Zone:4,25-34,198,2004,DHF
 Ang Thong,25-34,12,2004,DHF
 Nonthaburi,25-34,97,2004,DHF
 P.Nakhon S.Ayutthaya,25-34,35,2004,DHF
 Pathum Thani,25-34,54,2004,DHF
-Zone 5,25-34,65,2004,DHF
+Zone:5,25-34,65,2004,DHF
 Chai Nat,25-34,14,2004,DHF
 Lop Buri,25-34,25,2004,DHF
 Saraburi,25-34,13,2004,DHF
 Sing Buri,25-34,13,2004,DHF
-Zone 6,25-34,226,2004,DHF
+Zone:6,25-34,226,2004,DHF
 Kanchanaburi,25-34,31,2004,DHF
 Nakhon Pathom,25-34,111,2004,DHF
 Ratchaburi,25-34,47,2004,DHF
 Suphan Buri,25-34,37,2004,DHF
-Zone 7,25-34,95,2004,DHF
+Zone:7,25-34,95,2004,DHF
 Phetchaburi,25-34,20,2004,DHF
 Prachuap Khiri Khan,25-34,7,2004,DHF
 Samut Sakhon,25-34,50,2004,DHF
 Samut Songkhram,25-34,18,2004,DHF
-Zone 8,25-34,226,2004,DHF
+Zone:8,25-34,226,2004,DHF
 Chachoengsao,25-34,80,2004,DHF
 Nakhon Nayok,25-34,12,2004,DHF
 Prachin Buri,25-34,17,2004,DHF
 Sa Kaeo,25-34,8,2004,DHF
 Samut Prakan,25-34,109,2004,DHF
-Zone 9,25-34,154,2004,DHF
+Zone:9,25-34,154,2004,DHF
 Chanthaburi,25-34,34,2004,DHF
 Chon Buri,25-34,28,2004,DHF
 Rayong,25-34,86,2004,DHF
 Trat,25-34,6,2004,DHF
 North-Eastern Region,25-34,242,2004,DHF
-Zone 10,25-34,18,2004,DHF
+Zone:10,25-34,18,2004,DHF
 Loei,25-34,2,2004,DHF
 Nong Bua Lam Phu,25-34,2,2004,DHF
 Nong Khai,25-34,1,2004,DHF
 Udon Thani,25-34,13,2004,DHF
-Zone 11,25-34,20,2004,DHF
+Zone:11,25-34,20,2004,DHF
 Kalasin,25-34,4,2004,DHF
 Mukdahan,25-34,2,2004,DHF
 Nakhon Phanom,25-34,7,2004,DHF
 Sakon Nakhon,25-34,7,2004,DHF
-Zone 12,25-34,25,2004,DHF
+Zone:12,25-34,25,2004,DHF
 Khon Kaen,25-34,14,2004,DHF
 Maha Sarakham,25-34,3,2004,DHF
 Roi Et,25-34,8,2004,DHF
-Zone 13,25-34,115,2004,DHF
+Zone:13,25-34,115,2004,DHF
 Buri Ram,25-34,23,2004,DHF
 Chaiyaphum,25-34,5,2004,DHF
 Nakhon Ratchasima,25-34,78,2004,DHF
 Surin,25-34,9,2004,DHF
-Zone 14,25-34,64,2004,DHF
+Zone:14,25-34,64,2004,DHF
 Amnat Charoen,25-34,3,2004,DHF
 Si Sa Ket,25-34,30,2004,DHF
 Ubon Ratchathani,25-34,31,2004,DHF
 Yasothon,25-34,0,2004,DHF
 South Region,25-34,312,2004,DHF
-Zone 15,25-34,68,2004,DHF
+Zone:15,25-34,68,2004,DHF
 Chumphon,25-34,15,2004,DHF
 Ranong,25-34,8,2004,DHF
 Surat Thani,25-34,45,2004,DHF
-Zone 16,25-34,64,2004,DHF
+Zone:16,25-34,64,2004,DHF
 Nakhon Si Thammarat,25-34,23,2004,DHF
 Phatthalung,25-34,11,2004,DHF
 Trang,25-34,30,2004,DHF
-Zone 17,25-34,25,2004,DHF
+Zone:17,25-34,25,2004,DHF
 Krabi,25-34,12,2004,DHF
 Phangnga,25-34,8,2004,DHF
 Phuket,25-34,5,2004,DHF
-Zone 18,25-34,89,2004,DHF
+Zone:18,25-34,89,2004,DHF
 Narathiwat,25-34,50,2004,DHF
 Pattani,25-34,14,2004,DHF
 Yala,25-34,25,2004,DHF
-Zone 19,25-34,66,2004,DHF
+Zone:19,25-34,66,2004,DHF
 Satun,25-34,9,2004,DHF
 Songkhla,25-34,57,2004,DHF
 Total,35-44,1316,2004,DHF
 North Region,35-44,214,2004,DHF
-Zone 1,35-44,137,2004,DHF
+Zone:1,35-44,137,2004,DHF
 Chiang Mai,35-44,45,2004,DHF
 Chiang Rai,35-44,13,2004,DHF
 Lampang,35-44,32,2004,DHF
@@ -23738,98 +23738,98 @@ Mae Hong Son,35-44,5,2004,DHF
 Nan,35-44,3,2004,DHF
 Phayao,35-44,15,2004,DHF
 Phrae,35-44,6,2004,DHF
-Zone 2,35-44,34,2004,DHF
+Zone:2,35-44,34,2004,DHF
 Phetchabun,35-44,11,2004,DHF
 Phitsanulok,35-44,12,2004,DHF
 Sukhothai,35-44,3,2004,DHF
 Tak,35-44,3,2004,DHF
 Uttaradit,35-44,5,2004,DHF
-Zone 3,35-44,43,2004,DHF
+Zone:3,35-44,43,2004,DHF
 Kamphaeng Phet,35-44,7,2004,DHF
 Nakhon Sawan,35-44,20,2004,DHF
 Phichit,35-44,14,2004,DHF
 Uthai Thani,35-44,2,2004,DHF
 Central Region,35-44,853,2004,DHF
 Bangkok,35-44,390,2004,DHF
-Zone 4,35-44,116,2004,DHF
+Zone:4,35-44,116,2004,DHF
 Ang Thong,35-44,2,2004,DHF
 Nonthaburi,35-44,58,2004,DHF
 P.Nakhon S.Ayutthaya,35-44,17,2004,DHF
 Pathum Thani,35-44,39,2004,DHF
-Zone 5,35-44,35,2004,DHF
+Zone:5,35-44,35,2004,DHF
 Chai Nat,35-44,8,2004,DHF
 Lop Buri,35-44,17,2004,DHF
 Saraburi,35-44,5,2004,DHF
 Sing Buri,35-44,5,2004,DHF
-Zone 6,35-44,107,2004,DHF
+Zone:6,35-44,107,2004,DHF
 Kanchanaburi,35-44,10,2004,DHF
 Nakhon Pathom,35-44,58,2004,DHF
 Ratchaburi,35-44,19,2004,DHF
 Suphan Buri,35-44,20,2004,DHF
-Zone 7,35-44,42,2004,DHF
+Zone:7,35-44,42,2004,DHF
 Phetchaburi,35-44,14,2004,DHF
 Prachuap Khiri Khan,35-44,3,2004,DHF
 Samut Sakhon,35-44,22,2004,DHF
 Samut Songkhram,35-44,3,2004,DHF
-Zone 8,35-44,97,2004,DHF
+Zone:8,35-44,97,2004,DHF
 Chachoengsao,35-44,45,2004,DHF
 Nakhon Nayok,35-44,8,2004,DHF
 Prachin Buri,35-44,6,2004,DHF
 Sa Kaeo,35-44,5,2004,DHF
 Samut Prakan,35-44,33,2004,DHF
-Zone 9,35-44,66,2004,DHF
+Zone:9,35-44,66,2004,DHF
 Chanthaburi,35-44,14,2004,DHF
 Chon Buri,35-44,20,2004,DHF
 Rayong,35-44,27,2004,DHF
 Trat,35-44,5,2004,DHF
 North-Eastern Region,35-44,105,2004,DHF
-Zone 10,35-44,4,2004,DHF
+Zone:10,35-44,4,2004,DHF
 Loei,35-44,1,2004,DHF
 Nong Bua Lam Phu,35-44,1,2004,DHF
 Nong Khai,35-44,0,2004,DHF
 Udon Thani,35-44,2,2004,DHF
-Zone 11,35-44,10,2004,DHF
+Zone:11,35-44,10,2004,DHF
 Kalasin,35-44,4,2004,DHF
 Mukdahan,35-44,1,2004,DHF
 Nakhon Phanom,35-44,0,2004,DHF
 Sakon Nakhon,35-44,5,2004,DHF
-Zone 12,35-44,6,2004,DHF
+Zone:12,35-44,6,2004,DHF
 Khon Kaen,35-44,0,2004,DHF
 Maha Sarakham,35-44,1,2004,DHF
 Roi Et,35-44,5,2004,DHF
-Zone 13,35-44,63,2004,DHF
+Zone:13,35-44,63,2004,DHF
 Buri Ram,35-44,9,2004,DHF
 Chaiyaphum,35-44,6,2004,DHF
 Nakhon Ratchasima,35-44,45,2004,DHF
 Surin,35-44,3,2004,DHF
-Zone 14,35-44,22,2004,DHF
+Zone:14,35-44,22,2004,DHF
 Amnat Charoen,35-44,1,2004,DHF
 Si Sa Ket,35-44,6,2004,DHF
 Ubon Ratchathani,35-44,14,2004,DHF
 Yasothon,35-44,1,2004,DHF
 South Region,35-44,144,2004,DHF
-Zone 15,35-44,22,2004,DHF
+Zone:15,35-44,22,2004,DHF
 Chumphon,35-44,4,2004,DHF
 Ranong,35-44,1,2004,DHF
 Surat Thani,35-44,17,2004,DHF
-Zone 16,35-44,24,2004,DHF
+Zone:16,35-44,24,2004,DHF
 Nakhon Si Thammarat,35-44,7,2004,DHF
 Phatthalung,35-44,4,2004,DHF
 Trang,35-44,13,2004,DHF
-Zone 17,35-44,21,2004,DHF
+Zone:17,35-44,21,2004,DHF
 Krabi,35-44,14,2004,DHF
 Phangnga,35-44,5,2004,DHF
 Phuket,35-44,2,2004,DHF
-Zone 18,35-44,46,2004,DHF
+Zone:18,35-44,46,2004,DHF
 Narathiwat,35-44,32,2004,DHF
 Pattani,35-44,3,2004,DHF
 Yala,35-44,11,2004,DHF
-Zone 19,35-44,31,2004,DHF
+Zone:19,35-44,31,2004,DHF
 Satun,35-44,8,2004,DHF
 Songkhla,35-44,23,2004,DHF
 Total,45-54,544,2004,DHF
 North Region,45-54,106,2004,DHF
-Zone 1,45-54,69,2004,DHF
+Zone:1,45-54,69,2004,DHF
 Chiang Mai,45-54,28,2004,DHF
 Chiang Rai,45-54,4,2004,DHF
 Lampang,45-54,12,2004,DHF
@@ -23838,98 +23838,98 @@ Mae Hong Son,45-54,8,2004,DHF
 Nan,45-54,1,2004,DHF
 Phayao,45-54,8,2004,DHF
 Phrae,45-54,1,2004,DHF
-Zone 2,45-54,15,2004,DHF
+Zone:2,45-54,15,2004,DHF
 Phetchabun,45-54,2,2004,DHF
 Phitsanulok,45-54,7,2004,DHF
 Sukhothai,45-54,0,2004,DHF
 Tak,45-54,3,2004,DHF
 Uttaradit,45-54,3,2004,DHF
-Zone 3,45-54,22,2004,DHF
+Zone:3,45-54,22,2004,DHF
 Kamphaeng Phet,45-54,7,2004,DHF
 Nakhon Sawan,45-54,9,2004,DHF
 Phichit,45-54,4,2004,DHF
 Uthai Thani,45-54,2,2004,DHF
 Central Region,45-54,344,2004,DHF
 Bangkok,45-54,186,2004,DHF
-Zone 4,45-54,46,2004,DHF
+Zone:4,45-54,46,2004,DHF
 Ang Thong,45-54,1,2004,DHF
 Nonthaburi,45-54,19,2004,DHF
 P.Nakhon S.Ayutthaya,45-54,9,2004,DHF
 Pathum Thani,45-54,17,2004,DHF
-Zone 5,45-54,17,2004,DHF
+Zone:5,45-54,17,2004,DHF
 Chai Nat,45-54,11,2004,DHF
 Lop Buri,45-54,4,2004,DHF
 Saraburi,45-54,2,2004,DHF
 Sing Buri,45-54,0,2004,DHF
-Zone 6,45-54,36,2004,DHF
+Zone:6,45-54,36,2004,DHF
 Kanchanaburi,45-54,4,2004,DHF
 Nakhon Pathom,45-54,25,2004,DHF
 Ratchaburi,45-54,3,2004,DHF
 Suphan Buri,45-54,4,2004,DHF
-Zone 7,45-54,9,2004,DHF
+Zone:7,45-54,9,2004,DHF
 Phetchaburi,45-54,1,2004,DHF
 Prachuap Khiri Khan,45-54,1,2004,DHF
 Samut Sakhon,45-54,5,2004,DHF
 Samut Songkhram,45-54,2,2004,DHF
-Zone 8,45-54,37,2004,DHF
+Zone:8,45-54,37,2004,DHF
 Chachoengsao,45-54,21,2004,DHF
 Nakhon Nayok,45-54,2,2004,DHF
 Prachin Buri,45-54,1,2004,DHF
 Sa Kaeo,45-54,4,2004,DHF
 Samut Prakan,45-54,9,2004,DHF
-Zone 9,45-54,13,2004,DHF
+Zone:9,45-54,13,2004,DHF
 Chanthaburi,45-54,5,2004,DHF
 Chon Buri,45-54,4,2004,DHF
 Rayong,45-54,4,2004,DHF
 Trat,45-54,0,2004,DHF
 North-Eastern Region,45-54,32,2004,DHF
-Zone 10,45-54,1,2004,DHF
+Zone:10,45-54,1,2004,DHF
 Loei,45-54,0,2004,DHF
 Nong Bua Lam Phu,45-54,0,2004,DHF
 Nong Khai,45-54,1,2004,DHF
 Udon Thani,45-54,0,2004,DHF
-Zone 11,45-54,5,2004,DHF
+Zone:11,45-54,5,2004,DHF
 Kalasin,45-54,2,2004,DHF
 Mukdahan,45-54,0,2004,DHF
 Nakhon Phanom,45-54,1,2004,DHF
 Sakon Nakhon,45-54,2,2004,DHF
-Zone 12,45-54,1,2004,DHF
+Zone:12,45-54,1,2004,DHF
 Khon Kaen,45-54,0,2004,DHF
 Maha Sarakham,45-54,0,2004,DHF
 Roi Et,45-54,1,2004,DHF
-Zone 13,45-54,11,2004,DHF
+Zone:13,45-54,11,2004,DHF
 Buri Ram,45-54,2,2004,DHF
 Chaiyaphum,45-54,0,2004,DHF
 Nakhon Ratchasima,45-54,6,2004,DHF
 Surin,45-54,3,2004,DHF
-Zone 14,45-54,14,2004,DHF
+Zone:14,45-54,14,2004,DHF
 Amnat Charoen,45-54,3,2004,DHF
 Si Sa Ket,45-54,5,2004,DHF
 Ubon Ratchathani,45-54,5,2004,DHF
 Yasothon,45-54,1,2004,DHF
 South Region,45-54,62,2004,DHF
-Zone 15,45-54,8,2004,DHF
+Zone:15,45-54,8,2004,DHF
 Chumphon,45-54,2,2004,DHF
 Ranong,45-54,0,2004,DHF
 Surat Thani,45-54,6,2004,DHF
-Zone 16,45-54,16,2004,DHF
+Zone:16,45-54,16,2004,DHF
 Nakhon Si Thammarat,45-54,5,2004,DHF
 Phatthalung,45-54,6,2004,DHF
 Trang,45-54,5,2004,DHF
-Zone 17,45-54,5,2004,DHF
+Zone:17,45-54,5,2004,DHF
 Krabi,45-54,2,2004,DHF
 Phangnga,45-54,2,2004,DHF
 Phuket,45-54,1,2004,DHF
-Zone 18,45-54,25,2004,DHF
+Zone:18,45-54,25,2004,DHF
 Narathiwat,45-54,17,2004,DHF
 Pattani,45-54,2,2004,DHF
 Yala,45-54,6,2004,DHF
-Zone 19,45-54,8,2004,DHF
+Zone:19,45-54,8,2004,DHF
 Satun,45-54,1,2004,DHF
 Songkhla,45-54,7,2004,DHF
 Total,55-64,171,2004,DHF
 North Region,55-64,21,2004,DHF
-Zone 1,55-64,15,2004,DHF
+Zone:1,55-64,15,2004,DHF
 Chiang Mai,55-64,7,2004,DHF
 Chiang Rai,55-64,2,2004,DHF
 Lampang,55-64,1,2004,DHF
@@ -23938,98 +23938,98 @@ Mae Hong Son,55-64,0,2004,DHF
 Nan,55-64,1,2004,DHF
 Phayao,55-64,1,2004,DHF
 Phrae,55-64,0,2004,DHF
-Zone 2,55-64,4,2004,DHF
+Zone:2,55-64,4,2004,DHF
 Phetchabun,55-64,2,2004,DHF
 Phitsanulok,55-64,2,2004,DHF
 Sukhothai,55-64,0,2004,DHF
 Tak,55-64,0,2004,DHF
 Uttaradit,55-64,0,2004,DHF
-Zone 3,55-64,2,2004,DHF
+Zone:3,55-64,2,2004,DHF
 Kamphaeng Phet,55-64,0,2004,DHF
 Nakhon Sawan,55-64,2,2004,DHF
 Phichit,55-64,0,2004,DHF
 Uthai Thani,55-64,0,2004,DHF
 Central Region,55-64,114,2004,DHF
 Bangkok,55-64,61,2004,DHF
-Zone 4,55-64,11,2004,DHF
+Zone:4,55-64,11,2004,DHF
 Ang Thong,55-64,1,2004,DHF
 Nonthaburi,55-64,6,2004,DHF
 P.Nakhon S.Ayutthaya,55-64,1,2004,DHF
 Pathum Thani,55-64,3,2004,DHF
-Zone 5,55-64,5,2004,DHF
+Zone:5,55-64,5,2004,DHF
 Chai Nat,55-64,3,2004,DHF
 Lop Buri,55-64,2,2004,DHF
 Saraburi,55-64,0,2004,DHF
 Sing Buri,55-64,0,2004,DHF
-Zone 6,55-64,14,2004,DHF
+Zone:6,55-64,14,2004,DHF
 Kanchanaburi,55-64,3,2004,DHF
 Nakhon Pathom,55-64,8,2004,DHF
 Ratchaburi,55-64,1,2004,DHF
 Suphan Buri,55-64,2,2004,DHF
-Zone 7,55-64,4,2004,DHF
+Zone:7,55-64,4,2004,DHF
 Phetchaburi,55-64,1,2004,DHF
 Prachuap Khiri Khan,55-64,0,2004,DHF
 Samut Sakhon,55-64,2,2004,DHF
 Samut Songkhram,55-64,1,2004,DHF
-Zone 8,55-64,12,2004,DHF
+Zone:8,55-64,12,2004,DHF
 Chachoengsao,55-64,3,2004,DHF
 Nakhon Nayok,55-64,0,2004,DHF
 Prachin Buri,55-64,0,2004,DHF
 Sa Kaeo,55-64,0,2004,DHF
 Samut Prakan,55-64,9,2004,DHF
-Zone 9,55-64,7,2004,DHF
+Zone:9,55-64,7,2004,DHF
 Chanthaburi,55-64,1,2004,DHF
 Chon Buri,55-64,4,2004,DHF
 Rayong,55-64,1,2004,DHF
 Trat,55-64,1,2004,DHF
 North-Eastern Region,55-64,13,2004,DHF
-Zone 10,55-64,2,2004,DHF
+Zone:10,55-64,2,2004,DHF
 Loei,55-64,0,2004,DHF
 Nong Bua Lam Phu,55-64,0,2004,DHF
 Nong Khai,55-64,0,2004,DHF
 Udon Thani,55-64,2,2004,DHF
-Zone 11,55-64,0,2004,DHF
+Zone:11,55-64,0,2004,DHF
 Kalasin,55-64,0,2004,DHF
 Mukdahan,55-64,0,2004,DHF
 Nakhon Phanom,55-64,0,2004,DHF
 Sakon Nakhon,55-64,0,2004,DHF
-Zone 12,55-64,2,2004,DHF
+Zone:12,55-64,2,2004,DHF
 Khon Kaen,55-64,0,2004,DHF
 Maha Sarakham,55-64,0,2004,DHF
 Roi Et,55-64,2,2004,DHF
-Zone 13,55-64,6,2004,DHF
+Zone:13,55-64,6,2004,DHF
 Buri Ram,55-64,1,2004,DHF
 Chaiyaphum,55-64,0,2004,DHF
 Nakhon Ratchasima,55-64,5,2004,DHF
 Surin,55-64,0,2004,DHF
-Zone 14,55-64,3,2004,DHF
+Zone:14,55-64,3,2004,DHF
 Amnat Charoen,55-64,0,2004,DHF
 Si Sa Ket,55-64,2,2004,DHF
 Ubon Ratchathani,55-64,1,2004,DHF
 Yasothon,55-64,0,2004,DHF
 South Region,55-64,23,2004,DHF
-Zone 15,55-64,4,2004,DHF
+Zone:15,55-64,4,2004,DHF
 Chumphon,55-64,2,2004,DHF
 Ranong,55-64,0,2004,DHF
 Surat Thani,55-64,2,2004,DHF
-Zone 16,55-64,6,2004,DHF
+Zone:16,55-64,6,2004,DHF
 Nakhon Si Thammarat,55-64,3,2004,DHF
 Phatthalung,55-64,1,2004,DHF
 Trang,55-64,2,2004,DHF
-Zone 17,55-64,3,2004,DHF
+Zone:17,55-64,3,2004,DHF
 Krabi,55-64,1,2004,DHF
 Phangnga,55-64,1,2004,DHF
 Phuket,55-64,1,2004,DHF
-Zone 18,55-64,7,2004,DHF
+Zone:18,55-64,7,2004,DHF
 Narathiwat,55-64,6,2004,DHF
 Pattani,55-64,1,2004,DHF
 Yala,55-64,0,2004,DHF
-Zone 19,55-64,3,2004,DHF
+Zone:19,55-64,3,2004,DHF
 Satun,55-64,0,2004,DHF
 Songkhla,55-64,3,2004,DHF
 Total,65+,140,2004,DHF
 North Region,65+,15,2004,DHF
-Zone 1,65+,7,2004,DHF
+Zone:1,65+,7,2004,DHF
 Chiang Mai,65+,4,2004,DHF
 Chiang Rai,65+,1,2004,DHF
 Lampang,65+,0,2004,DHF
@@ -24038,98 +24038,98 @@ Mae Hong Son,65+,0,2004,DHF
 Nan,65+,0,2004,DHF
 Phayao,65+,0,2004,DHF
 Phrae,65+,0,2004,DHF
-Zone 2,65+,3,2004,DHF
+Zone:2,65+,3,2004,DHF
 Phetchabun,65+,2,2004,DHF
 Phitsanulok,65+,1,2004,DHF
 Sukhothai,65+,0,2004,DHF
 Tak,65+,0,2004,DHF
 Uttaradit,65+,0,2004,DHF
-Zone 3,65+,5,2004,DHF
+Zone:3,65+,5,2004,DHF
 Kamphaeng Phet,65+,1,2004,DHF
 Nakhon Sawan,65+,2,2004,DHF
 Phichit,65+,2,2004,DHF
 Uthai Thani,65+,0,2004,DHF
 Central Region,65+,94,2004,DHF
 Bangkok,65+,46,2004,DHF
-Zone 4,65+,11,2004,DHF
+Zone:4,65+,11,2004,DHF
 Ang Thong,65+,0,2004,DHF
 Nonthaburi,65+,3,2004,DHF
 P.Nakhon S.Ayutthaya,65+,2,2004,DHF
 Pathum Thani,65+,6,2004,DHF
-Zone 5,65+,0,2004,DHF
+Zone:5,65+,0,2004,DHF
 Chai Nat,65+,0,2004,DHF
 Lop Buri,65+,0,2004,DHF
 Saraburi,65+,0,2004,DHF
 Sing Buri,65+,0,2004,DHF
-Zone 6,65+,10,2004,DHF
+Zone:6,65+,10,2004,DHF
 Kanchanaburi,65+,0,2004,DHF
 Nakhon Pathom,65+,5,2004,DHF
 Ratchaburi,65+,2,2004,DHF
 Suphan Buri,65+,3,2004,DHF
-Zone 7,65+,4,2004,DHF
+Zone:7,65+,4,2004,DHF
 Phetchaburi,65+,1,2004,DHF
 Prachuap Khiri Khan,65+,0,2004,DHF
 Samut Sakhon,65+,2,2004,DHF
 Samut Songkhram,65+,1,2004,DHF
-Zone 8,65+,12,2004,DHF
+Zone:8,65+,12,2004,DHF
 Chachoengsao,65+,3,2004,DHF
 Nakhon Nayok,65+,0,2004,DHF
 Prachin Buri,65+,2,2004,DHF
 Sa Kaeo,65+,0,2004,DHF
 Samut Prakan,65+,7,2004,DHF
-Zone 9,65+,11,2004,DHF
+Zone:9,65+,11,2004,DHF
 Chanthaburi,65+,2,2004,DHF
 Chon Buri,65+,4,2004,DHF
 Rayong,65+,5,2004,DHF
 Trat,65+,0,2004,DHF
 North-Eastern Region,65+,12,2004,DHF
-Zone 10,65+,0,2004,DHF
+Zone:10,65+,0,2004,DHF
 Loei,65+,0,2004,DHF
 Nong Bua Lam Phu,65+,0,2004,DHF
 Nong Khai,65+,0,2004,DHF
 Udon Thani,65+,0,2004,DHF
-Zone 11,65+,0,2004,DHF
+Zone:11,65+,0,2004,DHF
 Kalasin,65+,0,2004,DHF
 Mukdahan,65+,0,2004,DHF
 Nakhon Phanom,65+,0,2004,DHF
 Sakon Nakhon,65+,0,2004,DHF
-Zone 12,65+,0,2004,DHF
+Zone:12,65+,0,2004,DHF
 Khon Kaen,65+,0,2004,DHF
 Maha Sarakham,65+,0,2004,DHF
 Roi Et,65+,0,2004,DHF
-Zone 13,65+,10,2004,DHF
+Zone:13,65+,10,2004,DHF
 Buri Ram,65+,4,2004,DHF
 Chaiyaphum,65+,1,2004,DHF
 Nakhon Ratchasima,65+,5,2004,DHF
 Surin,65+,0,2004,DHF
-Zone 14,65+,2,2004,DHF
+Zone:14,65+,2,2004,DHF
 Amnat Charoen,65+,0,2004,DHF
 Si Sa Ket,65+,1,2004,DHF
 Ubon Ratchathani,65+,1,2004,DHF
 Yasothon,65+,0,2004,DHF
 South Region,65+,19,2004,DHF
-Zone 15,65+,4,2004,DHF
+Zone:15,65+,4,2004,DHF
 Chumphon,65+,2,2004,DHF
 Ranong,65+,0,2004,DHF
 Surat Thani,65+,2,2004,DHF
-Zone 16,65+,5,2004,DHF
+Zone:16,65+,5,2004,DHF
 Nakhon Si Thammarat,65+,0,2004,DHF
 Phatthalung,65+,2,2004,DHF
 Trang,65+,3,2004,DHF
-Zone 17,65+,0,2004,DHF
+Zone:17,65+,0,2004,DHF
 Krabi,65+,0,2004,DHF
 Phangnga,65+,0,2004,DHF
 Phuket,65+,0,2004,DHF
-Zone 18,65+,5,2004,DHF
+Zone:18,65+,5,2004,DHF
 Narathiwat,65+,4,2004,DHF
 Pattani,65+,1,2004,DHF
 Yala,65+,0,2004,DHF
-Zone 19,65+,5,2004,DHF
+Zone:19,65+,5,2004,DHF
 Satun,65+,0,2004,DHF
 Songkhla,65+,5,2004,DHF
 Total,Unknown,38,2004,DHF
 North Region,Unknown,0,2004,DHF
-Zone 1,Unknown,0,2004,DHF
+Zone:1,Unknown,0,2004,DHF
 Chiang Mai,Unknown,0,2004,DHF
 Chiang Rai,Unknown,0,2004,DHF
 Lampang,Unknown,0,2004,DHF
@@ -24138,93 +24138,93 @@ Mae Hong Son,Unknown,0,2004,DHF
 Nan,Unknown,0,2004,DHF
 Phayao,Unknown,0,2004,DHF
 Phrae,Unknown,0,2004,DHF
-Zone 2,Unknown,0,2004,DHF
+Zone:2,Unknown,0,2004,DHF
 Phetchabun,Unknown,0,2004,DHF
 Phitsanulok,Unknown,0,2004,DHF
 Sukhothai,Unknown,0,2004,DHF
 Tak,Unknown,0,2004,DHF
 Uttaradit,Unknown,0,2004,DHF
-Zone 3,Unknown,0,2004,DHF
+Zone:3,Unknown,0,2004,DHF
 Kamphaeng Phet,Unknown,0,2004,DHF
 Nakhon Sawan,Unknown,0,2004,DHF
 Phichit,Unknown,0,2004,DHF
 Uthai Thani,Unknown,0,2004,DHF
 Central Region,Unknown,38,2004,DHF
 Bangkok,Unknown,38,2004,DHF
-Zone 4,Unknown,0,2004,DHF
+Zone:4,Unknown,0,2004,DHF
 Ang Thong,Unknown,0,2004,DHF
 Nonthaburi,Unknown,0,2004,DHF
 P.Nakhon S.Ayutthaya,Unknown,0,2004,DHF
 Pathum Thani,Unknown,0,2004,DHF
-Zone 5,Unknown,0,2004,DHF
+Zone:5,Unknown,0,2004,DHF
 Chai Nat,Unknown,0,2004,DHF
 Lop Buri,Unknown,0,2004,DHF
 Saraburi,Unknown,0,2004,DHF
 Sing Buri,Unknown,0,2004,DHF
-Zone 6,Unknown,0,2004,DHF
+Zone:6,Unknown,0,2004,DHF
 Kanchanaburi,Unknown,0,2004,DHF
 Nakhon Pathom,Unknown,0,2004,DHF
 Ratchaburi,Unknown,0,2004,DHF
 Suphan Buri,Unknown,0,2004,DHF
-Zone 7,Unknown,0,2004,DHF
+Zone:7,Unknown,0,2004,DHF
 Phetchaburi,Unknown,0,2004,DHF
 Prachuap Khiri Khan,Unknown,0,2004,DHF
 Samut Sakhon,Unknown,0,2004,DHF
 Samut Songkhram,Unknown,0,2004,DHF
-Zone 8,Unknown,0,2004,DHF
+Zone:8,Unknown,0,2004,DHF
 Chachoengsao,Unknown,0,2004,DHF
 Nakhon Nayok,Unknown,0,2004,DHF
 Prachin Buri,Unknown,0,2004,DHF
 Sa Kaeo,Unknown,0,2004,DHF
 Samut Prakan,Unknown,0,2004,DHF
-Zone 9,Unknown,0,2004,DHF
+Zone:9,Unknown,0,2004,DHF
 Chanthaburi,Unknown,0,2004,DHF
 Chon Buri,Unknown,0,2004,DHF
 Rayong,Unknown,0,2004,DHF
 Trat,Unknown,0,2004,DHF
 North-Eastern Region,Unknown,0,2004,DHF
-Zone 10,Unknown,0,2004,DHF
+Zone:10,Unknown,0,2004,DHF
 Loei,Unknown,0,2004,DHF
 Nong Bua Lam Phu,Unknown,0,2004,DHF
 Nong Khai,Unknown,0,2004,DHF
 Udon Thani,Unknown,0,2004,DHF
-Zone 11,Unknown,0,2004,DHF
+Zone:11,Unknown,0,2004,DHF
 Kalasin,Unknown,0,2004,DHF
 Mukdahan,Unknown,0,2004,DHF
 Nakhon Phanom,Unknown,0,2004,DHF
 Sakon Nakhon,Unknown,0,2004,DHF
-Zone 12,Unknown,0,2004,DHF
+Zone:12,Unknown,0,2004,DHF
 Khon Kaen,Unknown,0,2004,DHF
 Maha Sarakham,Unknown,0,2004,DHF
 Roi Et,Unknown,0,2004,DHF
-Zone 13,Unknown,0,2004,DHF
+Zone:13,Unknown,0,2004,DHF
 Buri Ram,Unknown,0,2004,DHF
 Chaiyaphum,Unknown,0,2004,DHF
 Nakhon Ratchasima,Unknown,0,2004,DHF
 Surin,Unknown,0,2004,DHF
-Zone 14,Unknown,0,2004,DHF
+Zone:14,Unknown,0,2004,DHF
 Amnat Charoen,Unknown,0,2004,DHF
 Si Sa Ket,Unknown,0,2004,DHF
 Ubon Ratchathani,Unknown,0,2004,DHF
 Yasothon,Unknown,0,2004,DHF
 South Region,Unknown,0,2004,DHF
-Zone 15,Unknown,0,2004,DHF
+Zone:15,Unknown,0,2004,DHF
 Chumphon,Unknown,0,2004,DHF
 Ranong,Unknown,0,2004,DHF
 Surat Thani,Unknown,0,2004,DHF
-Zone 16,Unknown,0,2004,DHF
+Zone:16,Unknown,0,2004,DHF
 Nakhon Si Thammarat,Unknown,0,2004,DHF
 Phatthalung,Unknown,0,2004,DHF
 Trang,Unknown,0,2004,DHF
-Zone 17,Unknown,0,2004,DHF
+Zone:17,Unknown,0,2004,DHF
 Krabi,Unknown,0,2004,DHF
 Phangnga,Unknown,0,2004,DHF
 Phuket,Unknown,0,2004,DHF
-Zone 18,Unknown,0,2004,DHF
+Zone:18,Unknown,0,2004,DHF
 Narathiwat,Unknown,0,2004,DHF
 Pattani,Unknown,0,2004,DHF
 Yala,Unknown,0,2004,DHF
-Zone 19,Unknown,0,2004,DHF
+Zone:19,Unknown,0,2004,DHF
 Satun,Unknown,0,2004,DHF
 Songkhla,Unknown,0,2004,DHF
 Total,Total,37675,2012,DHF
@@ -27685,7 +27685,7 @@ ZONE:13,Unknown,0,2020,DHF
 Bangkok,Unknown,0,2020,DHF
 Total,Total,44877,2003,DHF
 North Region,Total,7209,2003,DHF
-Zone 1,Total,2483,2003,DHF
+Zone:1,Total,2483,2003,DHF
 Chiang Mai,Total,1193,2003,DHF
 Chiang Rai,Total,265,2003,DHF
 Lampang,Total,405,2003,DHF
@@ -27694,98 +27694,98 @@ Mae Hong Son,Total,36,2003,DHF
 Nan,Total,94,2003,DHF
 Phayao,Total,159,2003,DHF
 Phrae,Total,168,2003,DHF
-Zone 2,Total,1888,2003,DHF
+Zone:2,Total,1888,2003,DHF
 Phetchabun,Total,507,2003,DHF
 Phitsanulok,Total,636,2003,DHF
 Sukhothai,Total,251,2003,DHF
 Tak,Total,174,2003,DHF
 Uttaradit,Total,320,2003,DHF
-Zone 3,Total,2838,2003,DHF
+Zone:3,Total,2838,2003,DHF
 Kamphaeng Phet,Total,564,2003,DHF
 Nakhon Sawan,Total,1349,2003,DHF
 Phichit,Total,767,2003,DHF
 Uthai Thani,Total,158,2003,DHF
 Central Region,Total,20001,2003,DHF
 Bangkok,Total,7078,2003,DHF
-Zone 4,Total,2364,2003,DHF
+Zone:4,Total,2364,2003,DHF
 Ang Thong,Total,192,2003,DHF
 Nonthaburi,Total,860,2003,DHF
 P.Nakhon S.Ayutthaya,Total,386,2003,DHF
 Pathum Thani,Total,926,2003,DHF
-Zone 5,Total,1082,2003,DHF
+Zone:5,Total,1082,2003,DHF
 Chai Nat,Total,231,2003,DHF
 Lop Buri,Total,418,2003,DHF
 Saraburi,Total,333,2003,DHF
 Sing Buri,Total,100,2003,DHF
-Zone 6,Total,2986,2003,DHF
+Zone:6,Total,2986,2003,DHF
 Kanchanaburi,Total,512,2003,DHF
 Nakhon Pathom,Total,1176,2003,DHF
 Ratchaburi,Total,816,2003,DHF
 Suphan Buri,Total,482,2003,DHF
-Zone 7,Total,1584,2003,DHF
+Zone:7,Total,1584,2003,DHF
 Phetchaburi,Total,473,2003,DHF
 Prachuap Khiri Khan,Total,503,2003,DHF
 Samut Sakhon,Total,443,2003,DHF
 Samut Songkhram,Total,165,2003,DHF
-Zone 8,Total,2674,2003,DHF
+Zone:8,Total,2674,2003,DHF
 Chachoengsao,Total,650,2003,DHF
 Nakhon Nayok,Total,108,2003,DHF
 Prachin Buri,Total,158,2003,DHF
 Sa Kaeo,Total,478,2003,DHF
 Samut Prakan,Total,1280,2003,DHF
-Zone 9,Total,2233,2003,DHF
+Zone:9,Total,2233,2003,DHF
 Chanthaburi,Total,386,2003,DHF
 Chon Buri,Total,925,2003,DHF
 Rayong,Total,846,2003,DHF
 Trat,Total,76,2003,DHF
 North-Eastern Region,Total,12364,2003,DHF
-Zone 10,Total,958,2003,DHF
+Zone:10,Total,958,2003,DHF
 Loei,Total,149,2003,DHF
 Nong Bua Lam Phu,Total,101,2003,DHF
 Nong Khai,Total,253,2003,DHF
 Udon Thani,Total,455,2003,DHF
-Zone 11,Total,1358,2003,DHF
+Zone:11,Total,1358,2003,DHF
 Kalasin,Total,238,2003,DHF
 Mukdahan,Total,171,2003,DHF
 Nakhon Phanom,Total,564,2003,DHF
 Sakon Nakhon,Total,385,2003,DHF
-Zone 12,Total,1899,2003,DHF
+Zone:12,Total,1899,2003,DHF
 Khon Kaen,Total,638,2003,DHF
 Maha Sarakham,Total,359,2003,DHF
 Roi Et,Total,902,2003,DHF
-Zone 13,Total,4018,2003,DHF
+Zone:13,Total,4018,2003,DHF
 Buri Ram,Total,1222,2003,DHF
 Chaiyaphum,Total,414,2003,DHF
 Nakhon Ratchasima,Total,1330,2003,DHF
 Surin,Total,1052,2003,DHF
-Zone 14,Total,4131,2003,DHF
+Zone:14,Total,4131,2003,DHF
 Amnat Charoen,Total,371,2003,DHF
 Si Sa Ket,Total,1161,2003,DHF
 Ubon Ratchathani,Total,2333,2003,DHF
 Yasothon,Total,266,2003,DHF
 South Region,Total,5303,2003,DHF
-Zone 15,Total,952,2003,DHF
+Zone:15,Total,952,2003,DHF
 Chumphon,Total,306,2003,DHF
 Ranong,Total,76,2003,DHF
 Surat Thani,Total,570,2003,DHF
-Zone 16,Total,1011,2003,DHF
+Zone:16,Total,1011,2003,DHF
 Nakhon Si Thammarat,Total,680,2003,DHF
 Phatthalung,Total,157,2003,DHF
 Trang,Total,174,2003,DHF
-Zone 17,Total,423,2003,DHF
+Zone:17,Total,423,2003,DHF
 Krabi,Total,166,2003,DHF
 Phangnga,Total,115,2003,DHF
 Phuket,Total,142,2003,DHF
-Zone 18,Total,1514,2003,DHF
+Zone:18,Total,1514,2003,DHF
 Narathiwat,Total,631,2003,DHF
 Pattani,Total,538,2003,DHF
 Yala,Total,345,2003,DHF
-Zone 19,Total,1403,2003,DHF
+Zone:19,Total,1403,2003,DHF
 Satun,Total,56,2003,DHF
 Songkhla,Total,1347,2003,DHF
 Total,0,6,2003,DHF
 North Region,0,0,2003,DHF
-Zone 1,0,0,2003,DHF
+Zone:1,0,0,2003,DHF
 Chiang Mai,0,0,2003,DHF
 Chiang Rai,0,0,2003,DHF
 Lampang,0,0,2003,DHF
@@ -27794,98 +27794,98 @@ Mae Hong Son,0,0,2003,DHF
 Nan,0,0,2003,DHF
 Phayao,0,0,2003,DHF
 Phrae,0,0,2003,DHF
-Zone 2,0,0,2003,DHF
+Zone:2,0,0,2003,DHF
 Phetchabun,0,0,2003,DHF
 Phitsanulok,0,0,2003,DHF
 Sukhothai,0,0,2003,DHF
 Tak,0,0,2003,DHF
 Uttaradit,0,0,2003,DHF
-Zone 3,0,0,2003,DHF
+Zone:3,0,0,2003,DHF
 Kamphaeng Phet,0,0,2003,DHF
 Nakhon Sawan,0,0,2003,DHF
 Phichit,0,0,2003,DHF
 Uthai Thani,0,0,2003,DHF
 Central Region,0,5,2003,DHF
 Bangkok,0,5,2003,DHF
-Zone 4,0,0,2003,DHF
+Zone:4,0,0,2003,DHF
 Ang Thong,0,0,2003,DHF
 Nonthaburi,0,0,2003,DHF
 P.Nakhon S.Ayutthaya,0,0,2003,DHF
 Pathum Thani,0,0,2003,DHF
-Zone 5,0,0,2003,DHF
+Zone:5,0,0,2003,DHF
 Chai Nat,0,0,2003,DHF
 Lop Buri,0,0,2003,DHF
 Saraburi,0,0,2003,DHF
 Sing Buri,0,0,2003,DHF
-Zone 6,0,0,2003,DHF
+Zone:6,0,0,2003,DHF
 Kanchanaburi,0,0,2003,DHF
 Nakhon Pathom,0,0,2003,DHF
 Ratchaburi,0,0,2003,DHF
 Suphan Buri,0,0,2003,DHF
-Zone 7,0,0,2003,DHF
+Zone:7,0,0,2003,DHF
 Phetchaburi,0,0,2003,DHF
 Prachuap Khiri Khan,0,0,2003,DHF
 Samut Sakhon,0,0,2003,DHF
 Samut Songkhram,0,0,2003,DHF
-Zone 8,0,0,2003,DHF
+Zone:8,0,0,2003,DHF
 Chachoengsao,0,0,2003,DHF
 Nakhon Nayok,0,0,2003,DHF
 Prachin Buri,0,0,2003,DHF
 Sa Kaeo,0,0,2003,DHF
 Samut Prakan,0,0,2003,DHF
-Zone 9,0,0,2003,DHF
+Zone:9,0,0,2003,DHF
 Chanthaburi,0,0,2003,DHF
 Chon Buri,0,0,2003,DHF
 Rayong,0,0,2003,DHF
 Trat,0,0,2003,DHF
 North-Eastern Region,0,0,2003,DHF
-Zone 10,0,0,2003,DHF
+Zone:10,0,0,2003,DHF
 Loei,0,0,2003,DHF
 Nong Bua Lam Phu,0,0,2003,DHF
 Nong Khai,0,0,2003,DHF
 Udon Thani,0,0,2003,DHF
-Zone 11,0,0,2003,DHF
+Zone:11,0,0,2003,DHF
 Kalasin,0,0,2003,DHF
 Mukdahan,0,0,2003,DHF
 Nakhon Phanom,0,0,2003,DHF
 Sakon Nakhon,0,0,2003,DHF
-Zone 12,0,0,2003,DHF
+Zone:12,0,0,2003,DHF
 Khon Kaen,0,0,2003,DHF
 Maha Sarakham,0,0,2003,DHF
 Roi Et,0,0,2003,DHF
-Zone 13,0,0,2003,DHF
+Zone:13,0,0,2003,DHF
 Buri Ram,0,0,2003,DHF
 Chaiyaphum,0,0,2003,DHF
 Nakhon Ratchasima,0,0,2003,DHF
 Surin,0,0,2003,DHF
-Zone 14,0,0,2003,DHF
+Zone:14,0,0,2003,DHF
 Amnat Charoen,0,0,2003,DHF
 Si Sa Ket,0,0,2003,DHF
 Ubon Ratchathani,0,0,2003,DHF
 Yasothon,0,0,2003,DHF
 South Region,0,1,2003,DHF
-Zone 15,0,1,2003,DHF
+Zone:15,0,1,2003,DHF
 Chumphon,0,0,2003,DHF
 Ranong,0,0,2003,DHF
 Surat Thani,0,1,2003,DHF
-Zone 16,0,0,2003,DHF
+Zone:16,0,0,2003,DHF
 Nakhon Si Thammarat,0,0,2003,DHF
 Phatthalung,0,0,2003,DHF
 Trang,0,0,2003,DHF
-Zone 17,0,0,2003,DHF
+Zone:17,0,0,2003,DHF
 Krabi,0,0,2003,DHF
 Phangnga,0,0,2003,DHF
 Phuket,0,0,2003,DHF
-Zone 18,0,0,2003,DHF
+Zone:18,0,0,2003,DHF
 Narathiwat,0,0,2003,DHF
 Pattani,0,0,2003,DHF
 Yala,0,0,2003,DHF
-Zone 19,0,0,2003,DHF
+Zone:19,0,0,2003,DHF
 Satun,0,0,2003,DHF
 Songkhla,0,0,2003,DHF
 Total,<1,351,2003,DHF
 North Region,<1,42,2003,DHF
-Zone 1,<1,7,2003,DHF
+Zone:1,<1,7,2003,DHF
 Chiang Mai,<1,2,2003,DHF
 Chiang Rai,<1,1,2003,DHF
 Lampang,<1,0,2003,DHF
@@ -27894,98 +27894,98 @@ Mae Hong Son,<1,0,2003,DHF
 Nan,<1,1,2003,DHF
 Phayao,<1,1,2003,DHF
 Phrae,<1,0,2003,DHF
-Zone 2,<1,8,2003,DHF
+Zone:2,<1,8,2003,DHF
 Phetchabun,<1,2,2003,DHF
 Phitsanulok,<1,4,2003,DHF
 Sukhothai,<1,0,2003,DHF
 Tak,<1,2,2003,DHF
 Uttaradit,<1,0,2003,DHF
-Zone 3,<1,27,2003,DHF
+Zone:3,<1,27,2003,DHF
 Kamphaeng Phet,<1,5,2003,DHF
 Nakhon Sawan,<1,16,2003,DHF
 Phichit,<1,5,2003,DHF
 Uthai Thani,<1,1,2003,DHF
 Central Region,<1,144,2003,DHF
 Bangkok,<1,51,2003,DHF
-Zone 4,<1,12,2003,DHF
+Zone:4,<1,12,2003,DHF
 Ang Thong,<1,2,2003,DHF
 Nonthaburi,<1,3,2003,DHF
 P.Nakhon S.Ayutthaya,<1,1,2003,DHF
 Pathum Thani,<1,6,2003,DHF
-Zone 5,<1,8,2003,DHF
+Zone:5,<1,8,2003,DHF
 Chai Nat,<1,1,2003,DHF
 Lop Buri,<1,3,2003,DHF
 Saraburi,<1,4,2003,DHF
 Sing Buri,<1,0,2003,DHF
-Zone 6,<1,18,2003,DHF
+Zone:6,<1,18,2003,DHF
 Kanchanaburi,<1,3,2003,DHF
 Nakhon Pathom,<1,6,2003,DHF
 Ratchaburi,<1,8,2003,DHF
 Suphan Buri,<1,1,2003,DHF
-Zone 7,<1,5,2003,DHF
+Zone:7,<1,5,2003,DHF
 Phetchaburi,<1,1,2003,DHF
 Prachuap Khiri Khan,<1,3,2003,DHF
 Samut Sakhon,<1,1,2003,DHF
 Samut Songkhram,<1,0,2003,DHF
-Zone 8,<1,23,2003,DHF
+Zone:8,<1,23,2003,DHF
 Chachoengsao,<1,3,2003,DHF
 Nakhon Nayok,<1,0,2003,DHF
 Prachin Buri,<1,2,2003,DHF
 Sa Kaeo,<1,11,2003,DHF
 Samut Prakan,<1,7,2003,DHF
-Zone 9,<1,27,2003,DHF
+Zone:9,<1,27,2003,DHF
 Chanthaburi,<1,2,2003,DHF
 Chon Buri,<1,12,2003,DHF
 Rayong,<1,13,2003,DHF
 Trat,<1,0,2003,DHF
 North-Eastern Region,<1,94,2003,DHF
-Zone 10,<1,9,2003,DHF
+Zone:10,<1,9,2003,DHF
 Loei,<1,0,2003,DHF
 Nong Bua Lam Phu,<1,2,2003,DHF
 Nong Khai,<1,4,2003,DHF
 Udon Thani,<1,3,2003,DHF
-Zone 11,<1,17,2003,DHF
+Zone:11,<1,17,2003,DHF
 Kalasin,<1,2,2003,DHF
 Mukdahan,<1,2,2003,DHF
 Nakhon Phanom,<1,11,2003,DHF
 Sakon Nakhon,<1,2,2003,DHF
-Zone 12,<1,11,2003,DHF
+Zone:12,<1,11,2003,DHF
 Khon Kaen,<1,3,2003,DHF
 Maha Sarakham,<1,3,2003,DHF
 Roi Et,<1,5,2003,DHF
-Zone 13,<1,40,2003,DHF
+Zone:13,<1,40,2003,DHF
 Buri Ram,<1,10,2003,DHF
 Chaiyaphum,<1,4,2003,DHF
 Nakhon Ratchasima,<1,17,2003,DHF
 Surin,<1,9,2003,DHF
-Zone 14,<1,17,2003,DHF
+Zone:14,<1,17,2003,DHF
 Amnat Charoen,<1,2,2003,DHF
 Si Sa Ket,<1,5,2003,DHF
 Ubon Ratchathani,<1,9,2003,DHF
 Yasothon,<1,1,2003,DHF
 South Region,<1,71,2003,DHF
-Zone 15,<1,13,2003,DHF
+Zone:15,<1,13,2003,DHF
 Chumphon,<1,2,2003,DHF
 Ranong,<1,1,2003,DHF
 Surat Thani,<1,10,2003,DHF
-Zone 16,<1,18,2003,DHF
+Zone:16,<1,18,2003,DHF
 Nakhon Si Thammarat,<1,18,2003,DHF
 Phatthalung,<1,0,2003,DHF
 Trang,<1,0,2003,DHF
-Zone 17,<1,6,2003,DHF
+Zone:17,<1,6,2003,DHF
 Krabi,<1,4,2003,DHF
 Phangnga,<1,2,2003,DHF
 Phuket,<1,0,2003,DHF
-Zone 18,<1,20,2003,DHF
+Zone:18,<1,20,2003,DHF
 Narathiwat,<1,4,2003,DHF
 Pattani,<1,13,2003,DHF
 Yala,<1,3,2003,DHF
-Zone 19,<1,14,2003,DHF
+Zone:19,<1,14,2003,DHF
 Satun,<1,1,2003,DHF
 Songkhla,<1,13,2003,DHF
 Total,1-1,336,2003,DHF
 North Region,1-1,35,2003,DHF
-Zone 1,1-1,3,2003,DHF
+Zone:1,1-1,3,2003,DHF
 Chiang Mai,1-1,2,2003,DHF
 Chiang Rai,1-1,1,2003,DHF
 Lampang,1-1,0,2003,DHF
@@ -27994,98 +27994,98 @@ Mae Hong Son,1-1,0,2003,DHF
 Nan,1-1,0,2003,DHF
 Phayao,1-1,0,2003,DHF
 Phrae,1-1,0,2003,DHF
-Zone 2,1-1,11,2003,DHF
+Zone:2,1-1,11,2003,DHF
 Phetchabun,1-1,4,2003,DHF
 Phitsanulok,1-1,4,2003,DHF
 Sukhothai,1-1,0,2003,DHF
 Tak,1-1,1,2003,DHF
 Uttaradit,1-1,2,2003,DHF
-Zone 3,1-1,21,2003,DHF
+Zone:3,1-1,21,2003,DHF
 Kamphaeng Phet,1-1,6,2003,DHF
 Nakhon Sawan,1-1,8,2003,DHF
 Phichit,1-1,7,2003,DHF
 Uthai Thani,1-1,0,2003,DHF
 Central Region,1-1,153,2003,DHF
 Bangkok,1-1,51,2003,DHF
-Zone 4,1-1,9,2003,DHF
+Zone:4,1-1,9,2003,DHF
 Ang Thong,1-1,2,2003,DHF
 Nonthaburi,1-1,2,2003,DHF
 P.Nakhon S.Ayutthaya,1-1,1,2003,DHF
 Pathum Thani,1-1,4,2003,DHF
-Zone 5,1-1,7,2003,DHF
+Zone:5,1-1,7,2003,DHF
 Chai Nat,1-1,0,2003,DHF
 Lop Buri,1-1,2,2003,DHF
 Saraburi,1-1,5,2003,DHF
 Sing Buri,1-1,0,2003,DHF
-Zone 6,1-1,29,2003,DHF
+Zone:6,1-1,29,2003,DHF
 Kanchanaburi,1-1,5,2003,DHF
 Nakhon Pathom,1-1,9,2003,DHF
 Ratchaburi,1-1,10,2003,DHF
 Suphan Buri,1-1,5,2003,DHF
-Zone 7,1-1,10,2003,DHF
+Zone:7,1-1,10,2003,DHF
 Phetchaburi,1-1,4,2003,DHF
 Prachuap Khiri Khan,1-1,2,2003,DHF
 Samut Sakhon,1-1,1,2003,DHF
 Samut Songkhram,1-1,3,2003,DHF
-Zone 8,1-1,30,2003,DHF
+Zone:8,1-1,30,2003,DHF
 Chachoengsao,1-1,7,2003,DHF
 Nakhon Nayok,1-1,2,2003,DHF
 Prachin Buri,1-1,1,2003,DHF
 Sa Kaeo,1-1,8,2003,DHF
 Samut Prakan,1-1,12,2003,DHF
-Zone 9,1-1,17,2003,DHF
+Zone:9,1-1,17,2003,DHF
 Chanthaburi,1-1,2,2003,DHF
 Chon Buri,1-1,9,2003,DHF
 Rayong,1-1,6,2003,DHF
 Trat,1-1,0,2003,DHF
 North-Eastern Region,1-1,97,2003,DHF
-Zone 10,1-1,7,2003,DHF
+Zone:10,1-1,7,2003,DHF
 Loei,1-1,1,2003,DHF
 Nong Bua Lam Phu,1-1,0,2003,DHF
 Nong Khai,1-1,2,2003,DHF
 Udon Thani,1-1,4,2003,DHF
-Zone 11,1-1,5,2003,DHF
+Zone:11,1-1,5,2003,DHF
 Kalasin,1-1,0,2003,DHF
 Mukdahan,1-1,2,2003,DHF
 Nakhon Phanom,1-1,2,2003,DHF
 Sakon Nakhon,1-1,1,2003,DHF
-Zone 12,1-1,13,2003,DHF
+Zone:12,1-1,13,2003,DHF
 Khon Kaen,1-1,4,2003,DHF
 Maha Sarakham,1-1,1,2003,DHF
 Roi Et,1-1,8,2003,DHF
-Zone 13,1-1,37,2003,DHF
+Zone:13,1-1,37,2003,DHF
 Buri Ram,1-1,12,2003,DHF
 Chaiyaphum,1-1,1,2003,DHF
 Nakhon Ratchasima,1-1,17,2003,DHF
 Surin,1-1,7,2003,DHF
-Zone 14,1-1,35,2003,DHF
+Zone:14,1-1,35,2003,DHF
 Amnat Charoen,1-1,0,2003,DHF
 Si Sa Ket,1-1,11,2003,DHF
 Ubon Ratchathani,1-1,22,2003,DHF
 Yasothon,1-1,2,2003,DHF
 South Region,1-1,51,2003,DHF
-Zone 15,1-1,9,2003,DHF
+Zone:15,1-1,9,2003,DHF
 Chumphon,1-1,0,2003,DHF
 Ranong,1-1,0,2003,DHF
 Surat Thani,1-1,9,2003,DHF
-Zone 16,1-1,16,2003,DHF
+Zone:16,1-1,16,2003,DHF
 Nakhon Si Thammarat,1-1,12,2003,DHF
 Phatthalung,1-1,0,2003,DHF
 Trang,1-1,4,2003,DHF
-Zone 17,1-1,4,2003,DHF
+Zone:17,1-1,4,2003,DHF
 Krabi,1-1,2,2003,DHF
 Phangnga,1-1,0,2003,DHF
 Phuket,1-1,2,2003,DHF
-Zone 18,1-1,15,2003,DHF
+Zone:18,1-1,15,2003,DHF
 Narathiwat,1-1,4,2003,DHF
 Pattani,1-1,10,2003,DHF
 Yala,1-1,1,2003,DHF
-Zone 19,1-1,7,2003,DHF
+Zone:19,1-1,7,2003,DHF
 Satun,1-1,3,2003,DHF
 Songkhla,1-1,4,2003,DHF
 Total,2-2,619,2003,DHF
 North Region,2-2,61,2003,DHF
-Zone 1,2-2,6,2003,DHF
+Zone:1,2-2,6,2003,DHF
 Chiang Mai,2-2,2,2003,DHF
 Chiang Rai,2-2,2,2003,DHF
 Lampang,2-2,0,2003,DHF
@@ -28094,98 +28094,98 @@ Mae Hong Son,2-2,0,2003,DHF
 Nan,2-2,0,2003,DHF
 Phayao,2-2,2,2003,DHF
 Phrae,2-2,0,2003,DHF
-Zone 2,2-2,16,2003,DHF
+Zone:2,2-2,16,2003,DHF
 Phetchabun,2-2,6,2003,DHF
 Phitsanulok,2-2,3,2003,DHF
 Sukhothai,2-2,3,2003,DHF
 Tak,2-2,1,2003,DHF
 Uttaradit,2-2,3,2003,DHF
-Zone 3,2-2,39,2003,DHF
+Zone:3,2-2,39,2003,DHF
 Kamphaeng Phet,2-2,9,2003,DHF
 Nakhon Sawan,2-2,20,2003,DHF
 Phichit,2-2,9,2003,DHF
 Uthai Thani,2-2,1,2003,DHF
 Central Region,2-2,268,2003,DHF
 Bangkok,2-2,86,2003,DHF
-Zone 4,2-2,20,2003,DHF
+Zone:4,2-2,20,2003,DHF
 Ang Thong,2-2,3,2003,DHF
 Nonthaburi,2-2,4,2003,DHF
 P.Nakhon S.Ayutthaya,2-2,1,2003,DHF
 Pathum Thani,2-2,12,2003,DHF
-Zone 5,2-2,25,2003,DHF
+Zone:5,2-2,25,2003,DHF
 Chai Nat,2-2,1,2003,DHF
 Lop Buri,2-2,6,2003,DHF
 Saraburi,2-2,17,2003,DHF
 Sing Buri,2-2,1,2003,DHF
-Zone 6,2-2,38,2003,DHF
+Zone:6,2-2,38,2003,DHF
 Kanchanaburi,2-2,7,2003,DHF
 Nakhon Pathom,2-2,16,2003,DHF
 Ratchaburi,2-2,13,2003,DHF
 Suphan Buri,2-2,2,2003,DHF
-Zone 7,2-2,23,2003,DHF
+Zone:7,2-2,23,2003,DHF
 Phetchaburi,2-2,12,2003,DHF
 Prachuap Khiri Khan,2-2,8,2003,DHF
 Samut Sakhon,2-2,3,2003,DHF
 Samut Songkhram,2-2,0,2003,DHF
-Zone 8,2-2,43,2003,DHF
+Zone:8,2-2,43,2003,DHF
 Chachoengsao,2-2,7,2003,DHF
 Nakhon Nayok,2-2,0,2003,DHF
 Prachin Buri,2-2,3,2003,DHF
 Sa Kaeo,2-2,14,2003,DHF
 Samut Prakan,2-2,19,2003,DHF
-Zone 9,2-2,33,2003,DHF
+Zone:9,2-2,33,2003,DHF
 Chanthaburi,2-2,5,2003,DHF
 Chon Buri,2-2,12,2003,DHF
 Rayong,2-2,14,2003,DHF
 Trat,2-2,2,2003,DHF
 North-Eastern Region,2-2,172,2003,DHF
-Zone 10,2-2,8,2003,DHF
+Zone:10,2-2,8,2003,DHF
 Loei,2-2,1,2003,DHF
 Nong Bua Lam Phu,2-2,2,2003,DHF
 Nong Khai,2-2,0,2003,DHF
 Udon Thani,2-2,5,2003,DHF
-Zone 11,2-2,14,2003,DHF
+Zone:11,2-2,14,2003,DHF
 Kalasin,2-2,1,2003,DHF
 Mukdahan,2-2,3,2003,DHF
 Nakhon Phanom,2-2,6,2003,DHF
 Sakon Nakhon,2-2,4,2003,DHF
-Zone 12,2-2,30,2003,DHF
+Zone:12,2-2,30,2003,DHF
 Khon Kaen,2-2,15,2003,DHF
 Maha Sarakham,2-2,5,2003,DHF
 Roi Et,2-2,10,2003,DHF
-Zone 13,2-2,62,2003,DHF
+Zone:13,2-2,62,2003,DHF
 Buri Ram,2-2,23,2003,DHF
 Chaiyaphum,2-2,3,2003,DHF
 Nakhon Ratchasima,2-2,23,2003,DHF
 Surin,2-2,13,2003,DHF
-Zone 14,2-2,58,2003,DHF
+Zone:14,2-2,58,2003,DHF
 Amnat Charoen,2-2,1,2003,DHF
 Si Sa Ket,2-2,12,2003,DHF
 Ubon Ratchathani,2-2,41,2003,DHF
 Yasothon,2-2,4,2003,DHF
 South Region,2-2,118,2003,DHF
-Zone 15,2-2,17,2003,DHF
+Zone:15,2-2,17,2003,DHF
 Chumphon,2-2,4,2003,DHF
 Ranong,2-2,0,2003,DHF
 Surat Thani,2-2,13,2003,DHF
-Zone 16,2-2,32,2003,DHF
+Zone:16,2-2,32,2003,DHF
 Nakhon Si Thammarat,2-2,29,2003,DHF
 Phatthalung,2-2,0,2003,DHF
 Trang,2-2,3,2003,DHF
-Zone 17,2-2,6,2003,DHF
+Zone:17,2-2,6,2003,DHF
 Krabi,2-2,2,2003,DHF
 Phangnga,2-2,3,2003,DHF
 Phuket,2-2,1,2003,DHF
-Zone 18,2-2,28,2003,DHF
+Zone:18,2-2,28,2003,DHF
 Narathiwat,2-2,7,2003,DHF
 Pattani,2-2,17,2003,DHF
 Yala,2-2,4,2003,DHF
-Zone 19,2-2,35,2003,DHF
+Zone:19,2-2,35,2003,DHF
 Satun,2-2,0,2003,DHF
 Songkhla,2-2,35,2003,DHF
 Total,3-3,865,2003,DHF
 North Region,3-3,83,2003,DHF
-Zone 1,3-3,16,2003,DHF
+Zone:1,3-3,16,2003,DHF
 Chiang Mai,3-3,9,2003,DHF
 Chiang Rai,3-3,2,2003,DHF
 Lampang,3-3,1,2003,DHF
@@ -28194,98 +28194,98 @@ Mae Hong Son,3-3,1,2003,DHF
 Nan,3-3,0,2003,DHF
 Phayao,3-3,2,2003,DHF
 Phrae,3-3,1,2003,DHF
-Zone 2,3-3,28,2003,DHF
+Zone:2,3-3,28,2003,DHF
 Phetchabun,3-3,11,2003,DHF
 Phitsanulok,3-3,7,2003,DHF
 Sukhothai,3-3,3,2003,DHF
 Tak,3-3,4,2003,DHF
 Uttaradit,3-3,3,2003,DHF
-Zone 3,3-3,39,2003,DHF
+Zone:3,3-3,39,2003,DHF
 Kamphaeng Phet,3-3,13,2003,DHF
 Nakhon Sawan,3-3,18,2003,DHF
 Phichit,3-3,8,2003,DHF
 Uthai Thani,3-3,0,2003,DHF
 Central Region,3-3,357,2003,DHF
 Bangkok,3-3,93,2003,DHF
-Zone 4,3-3,49,2003,DHF
+Zone:4,3-3,49,2003,DHF
 Ang Thong,3-3,2,2003,DHF
 Nonthaburi,3-3,12,2003,DHF
 P.Nakhon S.Ayutthaya,3-3,9,2003,DHF
 Pathum Thani,3-3,26,2003,DHF
-Zone 5,3-3,24,2003,DHF
+Zone:5,3-3,24,2003,DHF
 Chai Nat,3-3,2,2003,DHF
 Lop Buri,3-3,10,2003,DHF
 Saraburi,3-3,12,2003,DHF
 Sing Buri,3-3,0,2003,DHF
-Zone 6,3-3,69,2003,DHF
+Zone:6,3-3,69,2003,DHF
 Kanchanaburi,3-3,14,2003,DHF
 Nakhon Pathom,3-3,28,2003,DHF
 Ratchaburi,3-3,18,2003,DHF
 Suphan Buri,3-3,9,2003,DHF
-Zone 7,3-3,28,2003,DHF
+Zone:7,3-3,28,2003,DHF
 Phetchaburi,3-3,7,2003,DHF
 Prachuap Khiri Khan,3-3,14,2003,DHF
 Samut Sakhon,3-3,6,2003,DHF
 Samut Songkhram,3-3,1,2003,DHF
-Zone 8,3-3,44,2003,DHF
+Zone:8,3-3,44,2003,DHF
 Chachoengsao,3-3,9,2003,DHF
 Nakhon Nayok,3-3,1,2003,DHF
 Prachin Buri,3-3,3,2003,DHF
 Sa Kaeo,3-3,13,2003,DHF
 Samut Prakan,3-3,18,2003,DHF
-Zone 9,3-3,50,2003,DHF
+Zone:9,3-3,50,2003,DHF
 Chanthaburi,3-3,8,2003,DHF
 Chon Buri,3-3,22,2003,DHF
 Rayong,3-3,20,2003,DHF
 Trat,3-3,0,2003,DHF
 North-Eastern Region,3-3,303,2003,DHF
-Zone 10,3-3,19,2003,DHF
+Zone:10,3-3,19,2003,DHF
 Loei,3-3,4,2003,DHF
 Nong Bua Lam Phu,3-3,2,2003,DHF
 Nong Khai,3-3,5,2003,DHF
 Udon Thani,3-3,8,2003,DHF
-Zone 11,3-3,27,2003,DHF
+Zone:11,3-3,27,2003,DHF
 Kalasin,3-3,3,2003,DHF
 Mukdahan,3-3,5,2003,DHF
 Nakhon Phanom,3-3,12,2003,DHF
 Sakon Nakhon,3-3,7,2003,DHF
-Zone 12,3-3,45,2003,DHF
+Zone:12,3-3,45,2003,DHF
 Khon Kaen,3-3,22,2003,DHF
 Maha Sarakham,3-3,5,2003,DHF
 Roi Et,3-3,18,2003,DHF
-Zone 13,3-3,115,2003,DHF
+Zone:13,3-3,115,2003,DHF
 Buri Ram,3-3,48,2003,DHF
 Chaiyaphum,3-3,15,2003,DHF
 Nakhon Ratchasima,3-3,30,2003,DHF
 Surin,3-3,22,2003,DHF
-Zone 14,3-3,97,2003,DHF
+Zone:14,3-3,97,2003,DHF
 Amnat Charoen,3-3,4,2003,DHF
 Si Sa Ket,3-3,29,2003,DHF
 Ubon Ratchathani,3-3,58,2003,DHF
 Yasothon,3-3,6,2003,DHF
 South Region,3-3,122,2003,DHF
-Zone 15,3-3,28,2003,DHF
+Zone:15,3-3,28,2003,DHF
 Chumphon,3-3,13,2003,DHF
 Ranong,3-3,3,2003,DHF
 Surat Thani,3-3,12,2003,DHF
-Zone 16,3-3,22,2003,DHF
+Zone:16,3-3,22,2003,DHF
 Nakhon Si Thammarat,3-3,18,2003,DHF
 Phatthalung,3-3,2,2003,DHF
 Trang,3-3,2,2003,DHF
-Zone 17,3-3,12,2003,DHF
+Zone:17,3-3,12,2003,DHF
 Krabi,3-3,3,2003,DHF
 Phangnga,3-3,5,2003,DHF
 Phuket,3-3,4,2003,DHF
-Zone 18,3-3,33,2003,DHF
+Zone:18,3-3,33,2003,DHF
 Narathiwat,3-3,7,2003,DHF
 Pattani,3-3,19,2003,DHF
 Yala,3-3,7,2003,DHF
-Zone 19,3-3,27,2003,DHF
+Zone:19,3-3,27,2003,DHF
 Satun,3-3,0,2003,DHF
 Songkhla,3-3,27,2003,DHF
 Total,4-4,1052,2003,DHF
 North Region,4-4,140,2003,DHF
-Zone 1,4-4,24,2003,DHF
+Zone:1,4-4,24,2003,DHF
 Chiang Mai,4-4,7,2003,DHF
 Chiang Rai,4-4,8,2003,DHF
 Lampang,4-4,5,2003,DHF
@@ -28294,98 +28294,98 @@ Mae Hong Son,4-4,0,2003,DHF
 Nan,4-4,0,2003,DHF
 Phayao,4-4,3,2003,DHF
 Phrae,4-4,0,2003,DHF
-Zone 2,4-4,45,2003,DHF
+Zone:2,4-4,45,2003,DHF
 Phetchabun,4-4,18,2003,DHF
 Phitsanulok,4-4,12,2003,DHF
 Sukhothai,4-4,5,2003,DHF
 Tak,4-4,7,2003,DHF
 Uttaradit,4-4,3,2003,DHF
-Zone 3,4-4,71,2003,DHF
+Zone:3,4-4,71,2003,DHF
 Kamphaeng Phet,4-4,17,2003,DHF
 Nakhon Sawan,4-4,33,2003,DHF
 Phichit,4-4,18,2003,DHF
 Uthai Thani,4-4,3,2003,DHF
 Central Region,4-4,431,2003,DHF
 Bangkok,4-4,119,2003,DHF
-Zone 4,4-4,62,2003,DHF
+Zone:4,4-4,62,2003,DHF
 Ang Thong,4-4,5,2003,DHF
 Nonthaburi,4-4,28,2003,DHF
 P.Nakhon S.Ayutthaya,4-4,12,2003,DHF
 Pathum Thani,4-4,17,2003,DHF
-Zone 5,4-4,33,2003,DHF
+Zone:5,4-4,33,2003,DHF
 Chai Nat,4-4,6,2003,DHF
 Lop Buri,4-4,12,2003,DHF
 Saraburi,4-4,15,2003,DHF
 Sing Buri,4-4,0,2003,DHF
-Zone 6,4-4,67,2003,DHF
+Zone:6,4-4,67,2003,DHF
 Kanchanaburi,4-4,18,2003,DHF
 Nakhon Pathom,4-4,23,2003,DHF
 Ratchaburi,4-4,12,2003,DHF
 Suphan Buri,4-4,14,2003,DHF
-Zone 7,4-4,25,2003,DHF
+Zone:7,4-4,25,2003,DHF
 Phetchaburi,4-4,8,2003,DHF
 Prachuap Khiri Khan,4-4,6,2003,DHF
 Samut Sakhon,4-4,8,2003,DHF
 Samut Songkhram,4-4,3,2003,DHF
-Zone 8,4-4,69,2003,DHF
+Zone:8,4-4,69,2003,DHF
 Chachoengsao,4-4,10,2003,DHF
 Nakhon Nayok,4-4,1,2003,DHF
 Prachin Buri,4-4,7,2003,DHF
 Sa Kaeo,4-4,20,2003,DHF
 Samut Prakan,4-4,31,2003,DHF
-Zone 9,4-4,56,2003,DHF
+Zone:9,4-4,56,2003,DHF
 Chanthaburi,4-4,8,2003,DHF
 Chon Buri,4-4,24,2003,DHF
 Rayong,4-4,22,2003,DHF
 Trat,4-4,2,2003,DHF
 North-Eastern Region,4-4,311,2003,DHF
-Zone 10,4-4,25,2003,DHF
+Zone:10,4-4,25,2003,DHF
 Loei,4-4,1,2003,DHF
 Nong Bua Lam Phu,4-4,5,2003,DHF
 Nong Khai,4-4,12,2003,DHF
 Udon Thani,4-4,7,2003,DHF
-Zone 11,4-4,28,2003,DHF
+Zone:11,4-4,28,2003,DHF
 Kalasin,4-4,7,2003,DHF
 Mukdahan,4-4,3,2003,DHF
 Nakhon Phanom,4-4,9,2003,DHF
 Sakon Nakhon,4-4,9,2003,DHF
-Zone 12,4-4,46,2003,DHF
+Zone:12,4-4,46,2003,DHF
 Khon Kaen,4-4,17,2003,DHF
 Maha Sarakham,4-4,12,2003,DHF
 Roi Et,4-4,17,2003,DHF
-Zone 13,4-4,105,2003,DHF
+Zone:13,4-4,105,2003,DHF
 Buri Ram,4-4,38,2003,DHF
 Chaiyaphum,4-4,9,2003,DHF
 Nakhon Ratchasima,4-4,35,2003,DHF
 Surin,4-4,23,2003,DHF
-Zone 14,4-4,107,2003,DHF
+Zone:14,4-4,107,2003,DHF
 Amnat Charoen,4-4,3,2003,DHF
 Si Sa Ket,4-4,26,2003,DHF
 Ubon Ratchathani,4-4,68,2003,DHF
 Yasothon,4-4,10,2003,DHF
 South Region,4-4,170,2003,DHF
-Zone 15,4-4,35,2003,DHF
+Zone:15,4-4,35,2003,DHF
 Chumphon,4-4,7,2003,DHF
 Ranong,4-4,2,2003,DHF
 Surat Thani,4-4,26,2003,DHF
-Zone 16,4-4,35,2003,DHF
+Zone:16,4-4,35,2003,DHF
 Nakhon Si Thammarat,4-4,27,2003,DHF
 Phatthalung,4-4,6,2003,DHF
 Trang,4-4,2,2003,DHF
-Zone 17,4-4,12,2003,DHF
+Zone:17,4-4,12,2003,DHF
 Krabi,4-4,5,2003,DHF
 Phangnga,4-4,1,2003,DHF
 Phuket,4-4,6,2003,DHF
-Zone 18,4-4,46,2003,DHF
+Zone:18,4-4,46,2003,DHF
 Narathiwat,4-4,8,2003,DHF
 Pattani,4-4,21,2003,DHF
 Yala,4-4,17,2003,DHF
-Zone 19,4-4,42,2003,DHF
+Zone:19,4-4,42,2003,DHF
 Satun,4-4,1,2003,DHF
 Songkhla,4-4,41,2003,DHF
 Total,5-5,1455,2003,DHF
 North Region,5-5,178,2003,DHF
-Zone 1,5-5,35,2003,DHF
+Zone:1,5-5,35,2003,DHF
 Chiang Mai,5-5,22,2003,DHF
 Chiang Rai,5-5,1,2003,DHF
 Lampang,5-5,1,2003,DHF
@@ -28394,98 +28394,98 @@ Mae Hong Son,5-5,0,2003,DHF
 Nan,5-5,1,2003,DHF
 Phayao,5-5,4,2003,DHF
 Phrae,5-5,5,2003,DHF
-Zone 2,5-5,63,2003,DHF
+Zone:2,5-5,63,2003,DHF
 Phetchabun,5-5,23,2003,DHF
 Phitsanulok,5-5,17,2003,DHF
 Sukhothai,5-5,10,2003,DHF
 Tak,5-5,7,2003,DHF
 Uttaradit,5-5,6,2003,DHF
-Zone 3,5-5,80,2003,DHF
+Zone:3,5-5,80,2003,DHF
 Kamphaeng Phet,5-5,17,2003,DHF
 Nakhon Sawan,5-5,39,2003,DHF
 Phichit,5-5,22,2003,DHF
 Uthai Thani,5-5,2,2003,DHF
 Central Region,5-5,565,2003,DHF
 Bangkok,5-5,173,2003,DHF
-Zone 4,5-5,42,2003,DHF
+Zone:4,5-5,42,2003,DHF
 Ang Thong,5-5,7,2003,DHF
 Nonthaburi,5-5,11,2003,DHF
 P.Nakhon S.Ayutthaya,5-5,5,2003,DHF
 Pathum Thani,5-5,19,2003,DHF
-Zone 5,5-5,39,2003,DHF
+Zone:5,5-5,39,2003,DHF
 Chai Nat,5-5,7,2003,DHF
 Lop Buri,5-5,15,2003,DHF
 Saraburi,5-5,17,2003,DHF
 Sing Buri,5-5,0,2003,DHF
-Zone 6,5-5,93,2003,DHF
+Zone:6,5-5,93,2003,DHF
 Kanchanaburi,5-5,19,2003,DHF
 Nakhon Pathom,5-5,39,2003,DHF
 Ratchaburi,5-5,22,2003,DHF
 Suphan Buri,5-5,13,2003,DHF
-Zone 7,5-5,48,2003,DHF
+Zone:7,5-5,48,2003,DHF
 Phetchaburi,5-5,15,2003,DHF
 Prachuap Khiri Khan,5-5,16,2003,DHF
 Samut Sakhon,5-5,13,2003,DHF
 Samut Songkhram,5-5,4,2003,DHF
-Zone 8,5-5,105,2003,DHF
+Zone:8,5-5,105,2003,DHF
 Chachoengsao,5-5,14,2003,DHF
 Nakhon Nayok,5-5,6,2003,DHF
 Prachin Buri,5-5,5,2003,DHF
 Sa Kaeo,5-5,35,2003,DHF
 Samut Prakan,5-5,45,2003,DHF
-Zone 9,5-5,65,2003,DHF
+Zone:9,5-5,65,2003,DHF
 Chanthaburi,5-5,14,2003,DHF
 Chon Buri,5-5,20,2003,DHF
 Rayong,5-5,24,2003,DHF
 Trat,5-5,7,2003,DHF
 North-Eastern Region,5-5,495,2003,DHF
-Zone 10,5-5,49,2003,DHF
+Zone:10,5-5,49,2003,DHF
 Loei,5-5,5,2003,DHF
 Nong Bua Lam Phu,5-5,6,2003,DHF
 Nong Khai,5-5,12,2003,DHF
 Udon Thani,5-5,26,2003,DHF
-Zone 11,5-5,31,2003,DHF
+Zone:11,5-5,31,2003,DHF
 Kalasin,5-5,3,2003,DHF
 Mukdahan,5-5,6,2003,DHF
 Nakhon Phanom,5-5,9,2003,DHF
 Sakon Nakhon,5-5,13,2003,DHF
-Zone 12,5-5,78,2003,DHF
+Zone:12,5-5,78,2003,DHF
 Khon Kaen,5-5,32,2003,DHF
 Maha Sarakham,5-5,16,2003,DHF
 Roi Et,5-5,30,2003,DHF
-Zone 13,5-5,160,2003,DHF
+Zone:13,5-5,160,2003,DHF
 Buri Ram,5-5,55,2003,DHF
 Chaiyaphum,5-5,11,2003,DHF
 Nakhon Ratchasima,5-5,46,2003,DHF
 Surin,5-5,48,2003,DHF
-Zone 14,5-5,177,2003,DHF
+Zone:14,5-5,177,2003,DHF
 Amnat Charoen,5-5,8,2003,DHF
 Si Sa Ket,5-5,58,2003,DHF
 Ubon Ratchathani,5-5,100,2003,DHF
 Yasothon,5-5,11,2003,DHF
 South Region,5-5,217,2003,DHF
-Zone 15,5-5,42,2003,DHF
+Zone:15,5-5,42,2003,DHF
 Chumphon,5-5,12,2003,DHF
 Ranong,5-5,2,2003,DHF
 Surat Thani,5-5,28,2003,DHF
-Zone 16,5-5,48,2003,DHF
+Zone:16,5-5,48,2003,DHF
 Nakhon Si Thammarat,5-5,37,2003,DHF
 Phatthalung,5-5,4,2003,DHF
 Trang,5-5,7,2003,DHF
-Zone 17,5-5,19,2003,DHF
+Zone:17,5-5,19,2003,DHF
 Krabi,5-5,4,2003,DHF
 Phangnga,5-5,6,2003,DHF
 Phuket,5-5,9,2003,DHF
-Zone 18,5-5,53,2003,DHF
+Zone:18,5-5,53,2003,DHF
 Narathiwat,5-5,7,2003,DHF
 Pattani,5-5,32,2003,DHF
 Yala,5-5,14,2003,DHF
-Zone 19,5-5,55,2003,DHF
+Zone:19,5-5,55,2003,DHF
 Satun,5-5,1,2003,DHF
 Songkhla,5-5,54,2003,DHF
 Total,6-6,1943,2003,DHF
 North Region,6-6,250,2003,DHF
-Zone 1,6-6,55,2003,DHF
+Zone:1,6-6,55,2003,DHF
 Chiang Mai,6-6,24,2003,DHF
 Chiang Rai,6-6,5,2003,DHF
 Lampang,6-6,13,2003,DHF
@@ -28494,98 +28494,98 @@ Mae Hong Son,6-6,1,2003,DHF
 Nan,6-6,2,2003,DHF
 Phayao,6-6,4,2003,DHF
 Phrae,6-6,5,2003,DHF
-Zone 2,6-6,64,2003,DHF
+Zone:2,6-6,64,2003,DHF
 Phetchabun,6-6,28,2003,DHF
 Phitsanulok,6-6,9,2003,DHF
 Sukhothai,6-6,13,2003,DHF
 Tak,6-6,8,2003,DHF
 Uttaradit,6-6,6,2003,DHF
-Zone 3,6-6,131,2003,DHF
+Zone:3,6-6,131,2003,DHF
 Kamphaeng Phet,6-6,28,2003,DHF
 Nakhon Sawan,6-6,56,2003,DHF
 Phichit,6-6,42,2003,DHF
 Uthai Thani,6-6,5,2003,DHF
 Central Region,6-6,724,2003,DHF
 Bangkok,6-6,260,2003,DHF
-Zone 4,6-6,67,2003,DHF
+Zone:4,6-6,67,2003,DHF
 Ang Thong,6-6,9,2003,DHF
 Nonthaburi,6-6,22,2003,DHF
 P.Nakhon S.Ayutthaya,6-6,8,2003,DHF
 Pathum Thani,6-6,28,2003,DHF
-Zone 5,6-6,58,2003,DHF
+Zone:5,6-6,58,2003,DHF
 Chai Nat,6-6,8,2003,DHF
 Lop Buri,6-6,23,2003,DHF
 Saraburi,6-6,26,2003,DHF
 Sing Buri,6-6,1,2003,DHF
-Zone 6,6-6,92,2003,DHF
+Zone:6,6-6,92,2003,DHF
 Kanchanaburi,6-6,20,2003,DHF
 Nakhon Pathom,6-6,33,2003,DHF
 Ratchaburi,6-6,28,2003,DHF
 Suphan Buri,6-6,11,2003,DHF
-Zone 7,6-6,71,2003,DHF
+Zone:7,6-6,71,2003,DHF
 Phetchaburi,6-6,28,2003,DHF
 Prachuap Khiri Khan,6-6,25,2003,DHF
 Samut Sakhon,6-6,13,2003,DHF
 Samut Songkhram,6-6,5,2003,DHF
-Zone 8,6-6,97,2003,DHF
+Zone:8,6-6,97,2003,DHF
 Chachoengsao,6-6,14,2003,DHF
 Nakhon Nayok,6-6,4,2003,DHF
 Prachin Buri,6-6,7,2003,DHF
 Sa Kaeo,6-6,38,2003,DHF
 Samut Prakan,6-6,34,2003,DHF
-Zone 9,6-6,79,2003,DHF
+Zone:9,6-6,79,2003,DHF
 Chanthaburi,6-6,20,2003,DHF
 Chon Buri,6-6,33,2003,DHF
 Rayong,6-6,26,2003,DHF
 Trat,6-6,0,2003,DHF
 North-Eastern Region,6-6,704,2003,DHF
-Zone 10,6-6,45,2003,DHF
+Zone:10,6-6,45,2003,DHF
 Loei,6-6,5,2003,DHF
 Nong Bua Lam Phu,6-6,8,2003,DHF
 Nong Khai,6-6,14,2003,DHF
 Udon Thani,6-6,18,2003,DHF
-Zone 11,6-6,63,2003,DHF
+Zone:11,6-6,63,2003,DHF
 Kalasin,6-6,10,2003,DHF
 Mukdahan,6-6,5,2003,DHF
 Nakhon Phanom,6-6,19,2003,DHF
 Sakon Nakhon,6-6,29,2003,DHF
-Zone 12,6-6,102,2003,DHF
+Zone:12,6-6,102,2003,DHF
 Khon Kaen,6-6,33,2003,DHF
 Maha Sarakham,6-6,27,2003,DHF
 Roi Et,6-6,42,2003,DHF
-Zone 13,6-6,256,2003,DHF
+Zone:13,6-6,256,2003,DHF
 Buri Ram,6-6,92,2003,DHF
 Chaiyaphum,6-6,16,2003,DHF
 Nakhon Ratchasima,6-6,82,2003,DHF
 Surin,6-6,66,2003,DHF
-Zone 14,6-6,238,2003,DHF
+Zone:14,6-6,238,2003,DHF
 Amnat Charoen,6-6,11,2003,DHF
 Si Sa Ket,6-6,77,2003,DHF
 Ubon Ratchathani,6-6,133,2003,DHF
 Yasothon,6-6,17,2003,DHF
 South Region,6-6,265,2003,DHF
-Zone 15,6-6,52,2003,DHF
+Zone:15,6-6,52,2003,DHF
 Chumphon,6-6,13,2003,DHF
 Ranong,6-6,5,2003,DHF
 Surat Thani,6-6,34,2003,DHF
-Zone 16,6-6,43,2003,DHF
+Zone:16,6-6,43,2003,DHF
 Nakhon Si Thammarat,6-6,30,2003,DHF
 Phatthalung,6-6,6,2003,DHF
 Trang,6-6,7,2003,DHF
-Zone 17,6-6,21,2003,DHF
+Zone:17,6-6,21,2003,DHF
 Krabi,6-6,6,2003,DHF
 Phangnga,6-6,4,2003,DHF
 Phuket,6-6,11,2003,DHF
-Zone 18,6-6,70,2003,DHF
+Zone:18,6-6,70,2003,DHF
 Narathiwat,6-6,22,2003,DHF
 Pattani,6-6,40,2003,DHF
 Yala,6-6,8,2003,DHF
-Zone 19,6-6,79,2003,DHF
+Zone:19,6-6,79,2003,DHF
 Satun,6-6,1,2003,DHF
 Songkhla,6-6,78,2003,DHF
 Total,7-9,7367,2003,DHF
 North Region,7-9,992,2003,DHF
-Zone 1,7-9,196,2003,DHF
+Zone:1,7-9,196,2003,DHF
 Chiang Mai,7-9,62,2003,DHF
 Chiang Rai,7-9,25,2003,DHF
 Lampang,7-9,40,2003,DHF
@@ -28594,98 +28594,98 @@ Mae Hong Son,7-9,5,2003,DHF
 Nan,7-9,4,2003,DHF
 Phayao,7-9,24,2003,DHF
 Phrae,7-9,30,2003,DHF
-Zone 2,7-9,324,2003,DHF
+Zone:2,7-9,324,2003,DHF
 Phetchabun,7-9,115,2003,DHF
 Phitsanulok,7-9,85,2003,DHF
 Sukhothai,7-9,46,2003,DHF
 Tak,7-9,26,2003,DHF
 Uttaradit,7-9,52,2003,DHF
-Zone 3,7-9,472,2003,DHF
+Zone:3,7-9,472,2003,DHF
 Kamphaeng Phet,7-9,105,2003,DHF
 Nakhon Sawan,7-9,206,2003,DHF
 Phichit,7-9,138,2003,DHF
 Uthai Thani,7-9,23,2003,DHF
 Central Region,7-9,2606,2003,DHF
 Bangkok,7-9,768,2003,DHF
-Zone 4,7-9,253,2003,DHF
+Zone:4,7-9,253,2003,DHF
 Ang Thong,7-9,28,2003,DHF
 Nonthaburi,7-9,85,2003,DHF
 P.Nakhon S.Ayutthaya,7-9,44,2003,DHF
 Pathum Thani,7-9,96,2003,DHF
-Zone 5,7-9,197,2003,DHF
+Zone:5,7-9,197,2003,DHF
 Chai Nat,7-9,49,2003,DHF
 Lop Buri,7-9,79,2003,DHF
 Saraburi,7-9,64,2003,DHF
 Sing Buri,7-9,5,2003,DHF
-Zone 6,7-9,454,2003,DHF
+Zone:6,7-9,454,2003,DHF
 Kanchanaburi,7-9,122,2003,DHF
 Nakhon Pathom,7-9,145,2003,DHF
 Ratchaburi,7-9,121,2003,DHF
 Suphan Buri,7-9,66,2003,DHF
-Zone 7,7-9,249,2003,DHF
+Zone:7,7-9,249,2003,DHF
 Phetchaburi,7-9,62,2003,DHF
 Prachuap Khiri Khan,7-9,106,2003,DHF
 Samut Sakhon,7-9,57,2003,DHF
 Samut Songkhram,7-9,24,2003,DHF
-Zone 8,7-9,373,2003,DHF
+Zone:8,7-9,373,2003,DHF
 Chachoengsao,7-9,65,2003,DHF
 Nakhon Nayok,7-9,16,2003,DHF
 Prachin Buri,7-9,36,2003,DHF
 Sa Kaeo,7-9,114,2003,DHF
 Samut Prakan,7-9,142,2003,DHF
-Zone 9,7-9,312,2003,DHF
+Zone:9,7-9,312,2003,DHF
 Chanthaburi,7-9,67,2003,DHF
 Chon Buri,7-9,137,2003,DHF
 Rayong,7-9,96,2003,DHF
 Trat,7-9,12,2003,DHF
 North-Eastern Region,7-9,2961,2003,DHF
-Zone 10,7-9,223,2003,DHF
+Zone:10,7-9,223,2003,DHF
 Loei,7-9,21,2003,DHF
 Nong Bua Lam Phu,7-9,25,2003,DHF
 Nong Khai,7-9,73,2003,DHF
 Udon Thani,7-9,104,2003,DHF
-Zone 11,7-9,288,2003,DHF
+Zone:11,7-9,288,2003,DHF
 Kalasin,7-9,63,2003,DHF
 Mukdahan,7-9,30,2003,DHF
 Nakhon Phanom,7-9,106,2003,DHF
 Sakon Nakhon,7-9,89,2003,DHF
-Zone 12,7-9,451,2003,DHF
+Zone:12,7-9,451,2003,DHF
 Khon Kaen,7-9,152,2003,DHF
 Maha Sarakham,7-9,82,2003,DHF
 Roi Et,7-9,217,2003,DHF
-Zone 13,7-9,966,2003,DHF
+Zone:13,7-9,966,2003,DHF
 Buri Ram,7-9,311,2003,DHF
 Chaiyaphum,7-9,99,2003,DHF
 Nakhon Ratchasima,7-9,297,2003,DHF
 Surin,7-9,259,2003,DHF
-Zone 14,7-9,1033,2003,DHF
+Zone:14,7-9,1033,2003,DHF
 Amnat Charoen,7-9,100,2003,DHF
 Si Sa Ket,7-9,335,2003,DHF
 Ubon Ratchathani,7-9,544,2003,DHF
 Yasothon,7-9,54,2003,DHF
 South Region,7-9,808,2003,DHF
-Zone 15,7-9,187,2003,DHF
+Zone:15,7-9,187,2003,DHF
 Chumphon,7-9,61,2003,DHF
 Ranong,7-9,23,2003,DHF
 Surat Thani,7-9,103,2003,DHF
-Zone 16,7-9,153,2003,DHF
+Zone:16,7-9,153,2003,DHF
 Nakhon Si Thammarat,7-9,112,2003,DHF
 Phatthalung,7-9,23,2003,DHF
 Trang,7-9,18,2003,DHF
-Zone 17,7-9,65,2003,DHF
+Zone:17,7-9,65,2003,DHF
 Krabi,7-9,29,2003,DHF
 Phangnga,7-9,12,2003,DHF
 Phuket,7-9,24,2003,DHF
-Zone 18,7-9,201,2003,DHF
+Zone:18,7-9,201,2003,DHF
 Narathiwat,7-9,64,2003,DHF
 Pattani,7-9,96,2003,DHF
 Yala,7-9,41,2003,DHF
-Zone 19,7-9,202,2003,DHF
+Zone:19,7-9,202,2003,DHF
 Satun,7-9,10,2003,DHF
 Songkhla,7-9,192,2003,DHF
 Total,10-14,13443,2003,DHF
 North Region,10-14,2262,2003,DHF
-Zone 1,10-14,616,2003,DHF
+Zone:1,10-14,616,2003,DHF
 Chiang Mai,10-14,212,2003,DHF
 Chiang Rai,10-14,54,2003,DHF
 Lampang,10-14,136,2003,DHF
@@ -28694,98 +28694,98 @@ Mae Hong Son,10-14,9,2003,DHF
 Nan,10-14,30,2003,DHF
 Phayao,10-14,61,2003,DHF
 Phrae,10-14,77,2003,DHF
-Zone 2,10-14,716,2003,DHF
+Zone:2,10-14,716,2003,DHF
 Phetchabun,10-14,206,2003,DHF
 Phitsanulok,10-14,250,2003,DHF
 Sukhothai,10-14,100,2003,DHF
 Tak,10-14,48,2003,DHF
 Uttaradit,10-14,112,2003,DHF
-Zone 3,10-14,930,2003,DHF
+Zone:3,10-14,930,2003,DHF
 Kamphaeng Phet,10-14,201,2003,DHF
 Nakhon Sawan,10-14,416,2003,DHF
 Phichit,10-14,259,2003,DHF
 Uthai Thani,10-14,54,2003,DHF
 Central Region,10-14,5041,2003,DHF
 Bangkok,10-14,1512,2003,DHF
-Zone 4,10-14,557,2003,DHF
+Zone:4,10-14,557,2003,DHF
 Ang Thong,10-14,51,2003,DHF
 Nonthaburi,10-14,192,2003,DHF
 P.Nakhon S.Ayutthaya,10-14,109,2003,DHF
 Pathum Thani,10-14,205,2003,DHF
-Zone 5,10-14,361,2003,DHF
+Zone:5,10-14,361,2003,DHF
 Chai Nat,10-14,82,2003,DHF
 Lop Buri,10-14,128,2003,DHF
 Saraburi,10-14,120,2003,DHF
 Sing Buri,10-14,31,2003,DHF
-Zone 6,10-14,922,2003,DHF
+Zone:6,10-14,922,2003,DHF
 Kanchanaburi,10-14,183,2003,DHF
 Nakhon Pathom,10-14,335,2003,DHF
 Ratchaburi,10-14,245,2003,DHF
 Suphan Buri,10-14,159,2003,DHF
-Zone 7,10-14,450,2003,DHF
+Zone:7,10-14,450,2003,DHF
 Phetchaburi,10-14,155,2003,DHF
 Prachuap Khiri Khan,10-14,160,2003,DHF
 Samut Sakhon,10-14,100,2003,DHF
 Samut Songkhram,10-14,35,2003,DHF
-Zone 8,10-14,671,2003,DHF
+Zone:8,10-14,671,2003,DHF
 Chachoengsao,10-14,154,2003,DHF
 Nakhon Nayok,10-14,25,2003,DHF
 Prachin Buri,10-14,47,2003,DHF
 Sa Kaeo,10-14,153,2003,DHF
 Samut Prakan,10-14,292,2003,DHF
-Zone 9,10-14,568,2003,DHF
+Zone:9,10-14,568,2003,DHF
 Chanthaburi,10-14,105,2003,DHF
 Chon Buri,10-14,237,2003,DHF
 Rayong,10-14,207,2003,DHF
 Trat,10-14,19,2003,DHF
 North-Eastern Region,10-14,4794,2003,DHF
-Zone 10,10-14,338,2003,DHF
+Zone:10,10-14,338,2003,DHF
 Loei,10-14,53,2003,DHF
 Nong Bua Lam Phu,10-14,40,2003,DHF
 Nong Khai,10-14,91,2003,DHF
 Udon Thani,10-14,154,2003,DHF
-Zone 11,10-14,573,2003,DHF
+Zone:11,10-14,573,2003,DHF
 Kalasin,10-14,116,2003,DHF
 Mukdahan,10-14,61,2003,DHF
 Nakhon Phanom,10-14,224,2003,DHF
 Sakon Nakhon,10-14,172,2003,DHF
-Zone 12,10-14,770,2003,DHF
+Zone:12,10-14,770,2003,DHF
 Khon Kaen,10-14,237,2003,DHF
 Maha Sarakham,10-14,148,2003,DHF
 Roi Et,10-14,385,2003,DHF
-Zone 13,10-14,1497,2003,DHF
+Zone:13,10-14,1497,2003,DHF
 Buri Ram,10-14,460,2003,DHF
 Chaiyaphum,10-14,182,2003,DHF
 Nakhon Ratchasima,10-14,473,2003,DHF
 Surin,10-14,382,2003,DHF
-Zone 14,10-14,1616,2003,DHF
+Zone:14,10-14,1616,2003,DHF
 Amnat Charoen,10-14,165,2003,DHF
 Si Sa Ket,10-14,415,2003,DHF
 Ubon Ratchathani,10-14,914,2003,DHF
 Yasothon,10-14,122,2003,DHF
 South Region,10-14,1346,2003,DHF
-Zone 15,10-14,251,2003,DHF
+Zone:15,10-14,251,2003,DHF
 Chumphon,10-14,81,2003,DHF
 Ranong,10-14,26,2003,DHF
 Surat Thani,10-14,144,2003,DHF
-Zone 16,10-14,254,2003,DHF
+Zone:16,10-14,254,2003,DHF
 Nakhon Si Thammarat,10-14,152,2003,DHF
 Phatthalung,10-14,56,2003,DHF
 Trang,10-14,46,2003,DHF
-Zone 17,10-14,94,2003,DHF
+Zone:17,10-14,94,2003,DHF
 Krabi,10-14,36,2003,DHF
 Phangnga,10-14,27,2003,DHF
 Phuket,10-14,31,2003,DHF
-Zone 18,10-14,368,2003,DHF
+Zone:18,10-14,368,2003,DHF
 Narathiwat,10-14,141,2003,DHF
 Pattani,10-14,137,2003,DHF
 Yala,10-14,90,2003,DHF
-Zone 19,10-14,379,2003,DHF
+Zone:19,10-14,379,2003,DHF
 Satun,10-14,20,2003,DHF
 Songkhla,10-14,359,2003,DHF
 Total,15-24,10493,2003,DHF
 North Region,15-24,1949,2003,DHF
-Zone 1,15-24,815,2003,DHF
+Zone:1,15-24,815,2003,DHF
 Chiang Mai,15-24,438,2003,DHF
 Chiang Rai,15-24,60,2003,DHF
 Lampang,15-24,136,2003,DHF
@@ -28794,98 +28794,98 @@ Mae Hong Son,15-24,10,2003,DHF
 Nan,15-24,33,2003,DHF
 Phayao,15-24,31,2003,DHF
 Phrae,15-24,41,2003,DHF
-Zone 2,15-24,411,2003,DHF
+Zone:2,15-24,411,2003,DHF
 Phetchabun,15-24,68,2003,DHF
 Phitsanulok,15-24,172,2003,DHF
 Sukhothai,15-24,51,2003,DHF
 Tak,15-24,30,2003,DHF
 Uttaradit,15-24,90,2003,DHF
-Zone 3,15-24,723,2003,DHF
+Zone:3,15-24,723,2003,DHF
 Kamphaeng Phet,15-24,112,2003,DHF
 Nakhon Sawan,15-24,374,2003,DHF
 Phichit,15-24,190,2003,DHF
 Uthai Thani,15-24,47,2003,DHF
 Central Region,15-24,5396,2003,DHF
 Bangkok,15-24,1868,2003,DHF
-Zone 4,15-24,697,2003,DHF
+Zone:4,15-24,697,2003,DHF
 Ang Thong,15-24,54,2003,DHF
 Nonthaburi,15-24,229,2003,DHF
 P.Nakhon S.Ayutthaya,15-24,146,2003,DHF
 Pathum Thani,15-24,268,2003,DHF
-Zone 5,15-24,224,2003,DHF
+Zone:5,15-24,224,2003,DHF
 Chai Nat,15-24,46,2003,DHF
 Lop Buri,15-24,102,2003,DHF
 Saraburi,15-24,34,2003,DHF
 Sing Buri,15-24,42,2003,DHF
-Zone 6,15-24,786,2003,DHF
+Zone:6,15-24,786,2003,DHF
 Kanchanaburi,15-24,88,2003,DHF
 Nakhon Pathom,15-24,334,2003,DHF
 Ratchaburi,15-24,228,2003,DHF
 Suphan Buri,15-24,136,2003,DHF
-Zone 7,15-24,465,2003,DHF
+Zone:7,15-24,465,2003,DHF
 Phetchaburi,15-24,146,2003,DHF
 Prachuap Khiri Khan,15-24,108,2003,DHF
 Samut Sakhon,15-24,138,2003,DHF
 Samut Songkhram,15-24,73,2003,DHF
-Zone 8,15-24,756,2003,DHF
+Zone:8,15-24,756,2003,DHF
 Chachoengsao,15-24,231,2003,DHF
 Nakhon Nayok,15-24,33,2003,DHF
 Prachin Buri,15-24,31,2003,DHF
 Sa Kaeo,15-24,53,2003,DHF
 Samut Prakan,15-24,408,2003,DHF
-Zone 9,15-24,600,2003,DHF
+Zone:9,15-24,600,2003,DHF
 Chanthaburi,15-24,93,2003,DHF
 Chon Buri,15-24,235,2003,DHF
 Rayong,15-24,256,2003,DHF
 Trat,15-24,16,2003,DHF
 North-Eastern Region,15-24,1920,2003,DHF
-Zone 10,15-24,187,2003,DHF
+Zone:10,15-24,187,2003,DHF
 Loei,15-24,39,2003,DHF
 Nong Bua Lam Phu,15-24,10,2003,DHF
 Nong Khai,15-24,36,2003,DHF
 Udon Thani,15-24,102,2003,DHF
-Zone 11,15-24,227,2003,DHF
+Zone:11,15-24,227,2003,DHF
 Kalasin,15-24,27,2003,DHF
 Mukdahan,15-24,34,2003,DHF
 Nakhon Phanom,15-24,119,2003,DHF
 Sakon Nakhon,15-24,47,2003,DHF
-Zone 12,15-24,300,2003,DHF
+Zone:12,15-24,300,2003,DHF
 Khon Kaen,15-24,102,2003,DHF
 Maha Sarakham,15-24,58,2003,DHF
 Roi Et,15-24,140,2003,DHF
-Zone 13,15-24,615,2003,DHF
+Zone:13,15-24,615,2003,DHF
 Buri Ram,15-24,139,2003,DHF
 Chaiyaphum,15-24,61,2003,DHF
 Nakhon Ratchasima,15-24,251,2003,DHF
 Surin,15-24,164,2003,DHF
-Zone 14,15-24,591,2003,DHF
+Zone:14,15-24,591,2003,DHF
 Amnat Charoen,15-24,62,2003,DHF
 Si Sa Ket,15-24,152,2003,DHF
 Ubon Ratchathani,15-24,339,2003,DHF
 Yasothon,15-24,38,2003,DHF
 South Region,15-24,1228,2003,DHF
-Zone 15,15-24,211,2003,DHF
+Zone:15,15-24,211,2003,DHF
 Chumphon,15-24,75,2003,DHF
 Ranong,15-24,9,2003,DHF
 Surat Thani,15-24,127,2003,DHF
-Zone 16,15-24,231,2003,DHF
+Zone:16,15-24,231,2003,DHF
 Nakhon Si Thammarat,15-24,148,2003,DHF
 Phatthalung,15-24,36,2003,DHF
 Trang,15-24,47,2003,DHF
-Zone 17,15-24,94,2003,DHF
+Zone:17,15-24,94,2003,DHF
 Krabi,15-24,48,2003,DHF
 Phangnga,15-24,22,2003,DHF
 Phuket,15-24,24,2003,DHF
-Zone 18,15-24,361,2003,DHF
+Zone:18,15-24,361,2003,DHF
 Narathiwat,15-24,172,2003,DHF
 Pattani,15-24,92,2003,DHF
 Yala,15-24,97,2003,DHF
-Zone 19,15-24,331,2003,DHF
+Zone:19,15-24,331,2003,DHF
 Satun,15-24,13,2003,DHF
 Songkhla,15-24,318,2003,DHF
 Total,25-34,3800,2003,DHF
 North Region,25-34,636,2003,DHF
-Zone 1,25-34,340,2003,DHF
+Zone:1,25-34,340,2003,DHF
 Chiang Mai,25-34,219,2003,DHF
 Chiang Rai,25-34,45,2003,DHF
 Lampang,25-34,32,2003,DHF
@@ -28894,98 +28894,98 @@ Mae Hong Son,25-34,3,2003,DHF
 Nan,25-34,9,2003,DHF
 Phayao,25-34,13,2003,DHF
 Phrae,25-34,2,2003,DHF
-Zone 2,25-34,112,2003,DHF
+Zone:2,25-34,112,2003,DHF
 Phetchabun,25-34,16,2003,DHF
 Phitsanulok,25-34,38,2003,DHF
 Sukhothai,25-34,17,2003,DHF
 Tak,25-34,20,2003,DHF
 Uttaradit,25-34,21,2003,DHF
-Zone 3,25-34,184,2003,DHF
+Zone:3,25-34,184,2003,DHF
 Kamphaeng Phet,25-34,30,2003,DHF
 Nakhon Sawan,25-34,99,2003,DHF
 Phichit,25-34,40,2003,DHF
 Uthai Thani,25-34,15,2003,DHF
 Central Region,25-34,2371,2003,DHF
 Bangkok,25-34,1054,2003,DHF
-Zone 4,25-34,320,2003,DHF
+Zone:4,25-34,320,2003,DHF
 Ang Thong,25-34,16,2003,DHF
 Nonthaburi,25-34,137,2003,DHF
 P.Nakhon S.Ayutthaya,25-34,28,2003,DHF
 Pathum Thani,25-34,139,2003,DHF
-Zone 5,25-34,66,2003,DHF
+Zone:5,25-34,66,2003,DHF
 Chai Nat,25-34,17,2003,DHF
 Lop Buri,25-34,24,2003,DHF
 Saraburi,25-34,13,2003,DHF
 Sing Buri,25-34,12,2003,DHF
-Zone 6,25-34,246,2003,DHF
+Zone:6,25-34,246,2003,DHF
 Kanchanaburi,25-34,24,2003,DHF
 Nakhon Pathom,25-34,112,2003,DHF
 Ratchaburi,25-34,66,2003,DHF
 Suphan Buri,25-34,44,2003,DHF
-Zone 7,25-34,129,2003,DHF
+Zone:7,25-34,129,2003,DHF
 Phetchaburi,25-34,24,2003,DHF
 Prachuap Khiri Khan,25-34,36,2003,DHF
 Samut Sakhon,25-34,57,2003,DHF
 Samut Songkhram,25-34,12,2003,DHF
-Zone 8,25-34,276,2003,DHF
+Zone:8,25-34,276,2003,DHF
 Chachoengsao,25-34,82,2003,DHF
 Nakhon Nayok,25-34,13,2003,DHF
 Prachin Buri,25-34,8,2003,DHF
 Sa Kaeo,25-34,14,2003,DHF
 Samut Prakan,25-34,159,2003,DHF
-Zone 9,25-34,280,2003,DHF
+Zone:9,25-34,280,2003,DHF
 Chanthaburi,25-34,42,2003,DHF
 Chon Buri,25-34,116,2003,DHF
 Rayong,25-34,113,2003,DHF
 Trat,25-34,9,2003,DHF
 North-Eastern Region,25-34,314,2003,DHF
-Zone 10,25-34,27,2003,DHF
+Zone:10,25-34,27,2003,DHF
 Loei,25-34,8,2003,DHF
 Nong Bua Lam Phu,25-34,1,2003,DHF
 Nong Khai,25-34,3,2003,DHF
 Udon Thani,25-34,15,2003,DHF
-Zone 11,25-34,52,2003,DHF
+Zone:11,25-34,52,2003,DHF
 Kalasin,25-34,5,2003,DHF
 Mukdahan,25-34,10,2003,DHF
 Nakhon Phanom,25-34,31,2003,DHF
 Sakon Nakhon,25-34,6,2003,DHF
-Zone 12,25-34,34,2003,DHF
+Zone:12,25-34,34,2003,DHF
 Khon Kaen,25-34,12,2003,DHF
 Maha Sarakham,25-34,2,2003,DHF
 Roi Et,25-34,20,2003,DHF
-Zone 13,25-34,102,2003,DHF
+Zone:13,25-34,102,2003,DHF
 Buri Ram,25-34,19,2003,DHF
 Chaiyaphum,25-34,6,2003,DHF
 Nakhon Ratchasima,25-34,43,2003,DHF
 Surin,25-34,34,2003,DHF
-Zone 14,25-34,99,2003,DHF
+Zone:14,25-34,99,2003,DHF
 Amnat Charoen,25-34,11,2003,DHF
 Si Sa Ket,25-34,25,2003,DHF
 Ubon Ratchathani,25-34,62,2003,DHF
 Yasothon,25-34,1,2003,DHF
 South Region,25-34,479,2003,DHF
-Zone 15,25-34,60,2003,DHF
+Zone:15,25-34,60,2003,DHF
 Chumphon,25-34,20,2003,DHF
 Ranong,25-34,4,2003,DHF
 Surat Thani,25-34,36,2003,DHF
-Zone 16,25-34,85,2003,DHF
+Zone:16,25-34,85,2003,DHF
 Nakhon Si Thammarat,25-34,51,2003,DHF
 Phatthalung,25-34,13,2003,DHF
 Trang,25-34,21,2003,DHF
-Zone 17,25-34,51,2003,DHF
+Zone:17,25-34,51,2003,DHF
 Krabi,25-34,16,2003,DHF
 Phangnga,25-34,13,2003,DHF
 Phuket,25-34,22,2003,DHF
-Zone 18,25-34,156,2003,DHF
+Zone:18,25-34,156,2003,DHF
 Narathiwat,25-34,96,2003,DHF
 Pattani,25-34,26,2003,DHF
 Yala,25-34,34,2003,DHF
-Zone 19,25-34,127,2003,DHF
+Zone:19,25-34,127,2003,DHF
 Satun,25-34,4,2003,DHF
 Songkhla,25-34,123,2003,DHF
 Total,35-44,1838,2003,DHF
 North Region,35-44,340,2003,DHF
-Zone 1,35-44,196,2003,DHF
+Zone:1,35-44,196,2003,DHF
 Chiang Mai,35-44,104,2003,DHF
 Chiang Rai,35-44,27,2003,DHF
 Lampang,35-44,26,2003,DHF
@@ -28994,98 +28994,98 @@ Mae Hong Son,35-44,4,2003,DHF
 Nan,35-44,9,2003,DHF
 Phayao,35-44,5,2003,DHF
 Phrae,35-44,3,2003,DHF
-Zone 2,35-44,54,2003,DHF
+Zone:2,35-44,54,2003,DHF
 Phetchabun,35-44,7,2003,DHF
 Phitsanulok,35-44,21,2003,DHF
 Sukhothai,35-44,2,2003,DHF
 Tak,35-44,9,2003,DHF
 Uttaradit,35-44,15,2003,DHF
-Zone 3,35-44,90,2003,DHF
+Zone:3,35-44,90,2003,DHF
 Kamphaeng Phet,35-44,16,2003,DHF
 Nakhon Sawan,35-44,46,2003,DHF
 Phichit,35-44,22,2003,DHF
 Uthai Thani,35-44,6,2003,DHF
 Central Region,35-44,1132,2003,DHF
 Bangkok,35-44,581,2003,DHF
-Zone 4,35-44,158,2003,DHF
+Zone:4,35-44,158,2003,DHF
 Ang Thong,35-44,8,2003,DHF
 Nonthaburi,35-44,75,2003,DHF
 P.Nakhon S.Ayutthaya,35-44,14,2003,DHF
 Pathum Thani,35-44,61,2003,DHF
-Zone 5,35-44,28,2003,DHF
+Zone:5,35-44,28,2003,DHF
 Chai Nat,35-44,9,2003,DHF
 Lop Buri,35-44,8,2003,DHF
 Saraburi,35-44,5,2003,DHF
 Sing Buri,35-44,6,2003,DHF
-Zone 6,35-44,107,2003,DHF
+Zone:6,35-44,107,2003,DHF
 Kanchanaburi,35-44,6,2003,DHF
 Nakhon Pathom,35-44,56,2003,DHF
 Ratchaburi,35-44,31,2003,DHF
 Suphan Buri,35-44,14,2003,DHF
-Zone 7,35-44,54,2003,DHF
+Zone:7,35-44,54,2003,DHF
 Phetchaburi,35-44,6,2003,DHF
 Prachuap Khiri Khan,35-44,10,2003,DHF
 Samut Sakhon,35-44,36,2003,DHF
 Samut Songkhram,35-44,2,2003,DHF
-Zone 8,35-44,114,2003,DHF
+Zone:8,35-44,114,2003,DHF
 Chachoengsao,35-44,32,2003,DHF
 Nakhon Nayok,35-44,4,2003,DHF
 Prachin Buri,35-44,6,2003,DHF
 Sa Kaeo,35-44,3,2003,DHF
 Samut Prakan,35-44,69,2003,DHF
-Zone 9,35-44,90,2003,DHF
+Zone:9,35-44,90,2003,DHF
 Chanthaburi,35-44,15,2003,DHF
 Chon Buri,35-44,40,2003,DHF
 Rayong,35-44,27,2003,DHF
 Trat,35-44,8,2003,DHF
 North-Eastern Region,35-44,133,2003,DHF
-Zone 10,35-44,12,2003,DHF
+Zone:10,35-44,12,2003,DHF
 Loei,35-44,7,2003,DHF
 Nong Bua Lam Phu,35-44,0,2003,DHF
 Nong Khai,35-44,0,2003,DHF
 Udon Thani,35-44,5,2003,DHF
-Zone 11,35-44,24,2003,DHF
+Zone:11,35-44,24,2003,DHF
 Kalasin,35-44,1,2003,DHF
 Mukdahan,35-44,5,2003,DHF
 Nakhon Phanom,35-44,13,2003,DHF
 Sakon Nakhon,35-44,5,2003,DHF
-Zone 12,35-44,13,2003,DHF
+Zone:12,35-44,13,2003,DHF
 Khon Kaen,35-44,5,2003,DHF
 Maha Sarakham,35-44,0,2003,DHF
 Roi Et,35-44,8,2003,DHF
-Zone 13,35-44,43,2003,DHF
+Zone:13,35-44,43,2003,DHF
 Buri Ram,35-44,9,2003,DHF
 Chaiyaphum,35-44,5,2003,DHF
 Nakhon Ratchasima,35-44,12,2003,DHF
 Surin,35-44,17,2003,DHF
-Zone 14,35-44,41,2003,DHF
+Zone:14,35-44,41,2003,DHF
 Amnat Charoen,35-44,1,2003,DHF
 Si Sa Ket,35-44,12,2003,DHF
 Ubon Ratchathani,35-44,28,2003,DHF
 Yasothon,35-44,0,2003,DHF
 South Region,35-44,233,2003,DHF
-Zone 15,35-44,26,2003,DHF
+Zone:15,35-44,26,2003,DHF
 Chumphon,35-44,13,2003,DHF
 Ranong,35-44,0,2003,DHF
 Surat Thani,35-44,13,2003,DHF
-Zone 16,35-44,37,2003,DHF
+Zone:16,35-44,37,2003,DHF
 Nakhon Si Thammarat,35-44,21,2003,DHF
 Phatthalung,35-44,6,2003,DHF
 Trang,35-44,10,2003,DHF
-Zone 17,35-44,25,2003,DHF
+Zone:17,35-44,25,2003,DHF
 Krabi,35-44,6,2003,DHF
 Phangnga,35-44,12,2003,DHF
 Phuket,35-44,7,2003,DHF
-Zone 18,35-44,94,2003,DHF
+Zone:18,35-44,94,2003,DHF
 Narathiwat,35-44,56,2003,DHF
 Pattani,35-44,22,2003,DHF
 Yala,35-44,16,2003,DHF
-Zone 19,35-44,51,2003,DHF
+Zone:19,35-44,51,2003,DHF
 Satun,35-44,1,2003,DHF
 Songkhla,35-44,50,2003,DHF
 Total,45-54,793,2003,DHF
 North Region,45-54,163,2003,DHF
-Zone 1,45-54,122,2003,DHF
+Zone:1,45-54,122,2003,DHF
 Chiang Mai,45-54,68,2003,DHF
 Chiang Rai,45-54,21,2003,DHF
 Lampang,45-54,10,2003,DHF
@@ -29094,98 +29094,98 @@ Mae Hong Son,45-54,2,2003,DHF
 Nan,45-54,2,2003,DHF
 Phayao,45-54,7,2003,DHF
 Phrae,45-54,2,2003,DHF
-Zone 2,45-54,23,2003,DHF
+Zone:2,45-54,23,2003,DHF
 Phetchabun,45-54,2,2003,DHF
 Phitsanulok,45-54,11,2003,DHF
 Sukhothai,45-54,0,2003,DHF
 Tak,45-54,7,2003,DHF
 Uttaradit,45-54,3,2003,DHF
-Zone 3,45-54,18,2003,DHF
+Zone:3,45-54,18,2003,DHF
 Kamphaeng Phet,45-54,2,2003,DHF
 Nakhon Sawan,45-54,10,2003,DHF
 Phichit,45-54,5,2003,DHF
 Uthai Thani,45-54,1,2003,DHF
 Central Region,45-54,481,2003,DHF
 Bangkok,45-54,252,2003,DHF
-Zone 4,45-54,75,2003,DHF
+Zone:4,45-54,75,2003,DHF
 Ang Thong,45-54,3,2003,DHF
 Nonthaburi,45-54,36,2003,DHF
 P.Nakhon S.Ayutthaya,45-54,5,2003,DHF
 Pathum Thani,45-54,31,2003,DHF
-Zone 5,45-54,9,2003,DHF
+Zone:5,45-54,9,2003,DHF
 Chai Nat,45-54,3,2003,DHF
 Lop Buri,45-54,3,2003,DHF
 Saraburi,45-54,1,2003,DHF
 Sing Buri,45-54,2,2003,DHF
-Zone 6,45-54,41,2003,DHF
+Zone:6,45-54,41,2003,DHF
 Kanchanaburi,45-54,3,2003,DHF
 Nakhon Pathom,45-54,26,2003,DHF
 Ratchaburi,45-54,10,2003,DHF
 Suphan Buri,45-54,2,2003,DHF
-Zone 7,45-54,21,2003,DHF
+Zone:7,45-54,21,2003,DHF
 Phetchaburi,45-54,4,2003,DHF
 Prachuap Khiri Khan,45-54,6,2003,DHF
 Samut Sakhon,45-54,9,2003,DHF
 Samut Songkhram,45-54,2,2003,DHF
-Zone 8,45-54,52,2003,DHF
+Zone:8,45-54,52,2003,DHF
 Chachoengsao,45-54,15,2003,DHF
 Nakhon Nayok,45-54,2,2003,DHF
 Prachin Buri,45-54,1,2003,DHF
 Sa Kaeo,45-54,2,2003,DHF
 Samut Prakan,45-54,32,2003,DHF
-Zone 9,45-54,31,2003,DHF
+Zone:9,45-54,31,2003,DHF
 Chanthaburi,45-54,2,2003,DHF
 Chon Buri,45-54,13,2003,DHF
 Rayong,45-54,16,2003,DHF
 Trat,45-54,0,2003,DHF
 North-Eastern Region,45-54,40,2003,DHF
-Zone 10,45-54,4,2003,DHF
+Zone:10,45-54,4,2003,DHF
 Loei,45-54,2,2003,DHF
 Nong Bua Lam Phu,45-54,0,2003,DHF
 Nong Khai,45-54,0,2003,DHF
 Udon Thani,45-54,2,2003,DHF
-Zone 11,45-54,7,2003,DHF
+Zone:11,45-54,7,2003,DHF
 Kalasin,45-54,0,2003,DHF
 Mukdahan,45-54,3,2003,DHF
 Nakhon Phanom,45-54,3,2003,DHF
 Sakon Nakhon,45-54,1,2003,DHF
-Zone 12,45-54,4,2003,DHF
+Zone:12,45-54,4,2003,DHF
 Khon Kaen,45-54,4,2003,DHF
 Maha Sarakham,45-54,0,2003,DHF
 Roi Et,45-54,0,2003,DHF
-Zone 13,45-54,12,2003,DHF
+Zone:13,45-54,12,2003,DHF
 Buri Ram,45-54,2,2003,DHF
 Chaiyaphum,45-54,2,2003,DHF
 Nakhon Ratchasima,45-54,2,2003,DHF
 Surin,45-54,6,2003,DHF
-Zone 14,45-54,13,2003,DHF
+Zone:14,45-54,13,2003,DHF
 Amnat Charoen,45-54,1,2003,DHF
 Si Sa Ket,45-54,2,2003,DHF
 Ubon Ratchathani,45-54,10,2003,DHF
 Yasothon,45-54,0,2003,DHF
 South Region,45-54,109,2003,DHF
-Zone 15,45-54,11,2003,DHF
+Zone:15,45-54,11,2003,DHF
 Chumphon,45-54,3,2003,DHF
 Ranong,45-54,1,2003,DHF
 Surat Thani,45-54,7,2003,DHF
-Zone 16,45-54,19,2003,DHF
+Zone:16,45-54,19,2003,DHF
 Nakhon Si Thammarat,45-54,10,2003,DHF
 Phatthalung,45-54,3,2003,DHF
 Trang,45-54,6,2003,DHF
-Zone 17,45-54,8,2003,DHF
+Zone:17,45-54,8,2003,DHF
 Krabi,45-54,4,2003,DHF
 Phangnga,45-54,4,2003,DHF
 Phuket,45-54,0,2003,DHF
-Zone 18,45-54,40,2003,DHF
+Zone:18,45-54,40,2003,DHF
 Narathiwat,45-54,26,2003,DHF
 Pattani,45-54,4,2003,DHF
 Yala,45-54,10,2003,DHF
-Zone 19,45-54,31,2003,DHF
+Zone:19,45-54,31,2003,DHF
 Satun,45-54,1,2003,DHF
 Songkhla,45-54,30,2003,DHF
 Total,55-64,306,2003,DHF
 North Region,55-64,49,2003,DHF
-Zone 1,55-64,32,2003,DHF
+Zone:1,55-64,32,2003,DHF
 Chiang Mai,55-64,15,2003,DHF
 Chiang Rai,55-64,7,2003,DHF
 Lampang,55-64,3,2003,DHF
@@ -29194,98 +29194,98 @@ Mae Hong Son,55-64,0,2003,DHF
 Nan,55-64,2,2003,DHF
 Phayao,55-64,0,2003,DHF
 Phrae,55-64,1,2003,DHF
-Zone 2,55-64,11,2003,DHF
+Zone:2,55-64,11,2003,DHF
 Phetchabun,55-64,1,2003,DHF
 Phitsanulok,55-64,2,2003,DHF
 Sukhothai,55-64,1,2003,DHF
 Tak,55-64,4,2003,DHF
 Uttaradit,55-64,3,2003,DHF
-Zone 3,55-64,6,2003,DHF
+Zone:3,55-64,6,2003,DHF
 Kamphaeng Phet,55-64,0,2003,DHF
 Nakhon Sawan,55-64,4,2003,DHF
 Phichit,55-64,2,2003,DHF
 Uthai Thani,55-64,0,2003,DHF
 Central Region,55-64,193,2003,DHF
 Bangkok,55-64,104,2003,DHF
-Zone 4,55-64,29,2003,DHF
+Zone:4,55-64,29,2003,DHF
 Ang Thong,55-64,0,2003,DHF
 Nonthaburi,55-64,15,2003,DHF
 P.Nakhon S.Ayutthaya,55-64,3,2003,DHF
 Pathum Thani,55-64,11,2003,DHF
-Zone 5,55-64,2,2003,DHF
+Zone:5,55-64,2,2003,DHF
 Chai Nat,55-64,0,2003,DHF
 Lop Buri,55-64,2,2003,DHF
 Saraburi,55-64,0,2003,DHF
 Sing Buri,55-64,0,2003,DHF
-Zone 6,55-64,18,2003,DHF
+Zone:6,55-64,18,2003,DHF
 Kanchanaburi,55-64,0,2003,DHF
 Nakhon Pathom,55-64,11,2003,DHF
 Ratchaburi,55-64,3,2003,DHF
 Suphan Buri,55-64,4,2003,DHF
-Zone 7,55-64,4,2003,DHF
+Zone:7,55-64,4,2003,DHF
 Phetchaburi,55-64,1,2003,DHF
 Prachuap Khiri Khan,55-64,1,2003,DHF
 Samut Sakhon,55-64,1,2003,DHF
 Samut Songkhram,55-64,1,2003,DHF
-Zone 8,55-64,16,2003,DHF
+Zone:8,55-64,16,2003,DHF
 Chachoengsao,55-64,5,2003,DHF
 Nakhon Nayok,55-64,0,2003,DHF
 Prachin Buri,55-64,1,2003,DHF
 Sa Kaeo,55-64,0,2003,DHF
 Samut Prakan,55-64,10,2003,DHF
-Zone 9,55-64,20,2003,DHF
+Zone:9,55-64,20,2003,DHF
 Chanthaburi,55-64,2,2003,DHF
 Chon Buri,55-64,13,2003,DHF
 Rayong,55-64,5,2003,DHF
 Trat,55-64,0,2003,DHF
 North-Eastern Region,55-64,18,2003,DHF
-Zone 10,55-64,4,2003,DHF
+Zone:10,55-64,4,2003,DHF
 Loei,55-64,1,2003,DHF
 Nong Bua Lam Phu,55-64,0,2003,DHF
 Nong Khai,55-64,1,2003,DHF
 Udon Thani,55-64,2,2003,DHF
-Zone 11,55-64,2,2003,DHF
+Zone:11,55-64,2,2003,DHF
 Kalasin,55-64,0,2003,DHF
 Mukdahan,55-64,2,2003,DHF
 Nakhon Phanom,55-64,0,2003,DHF
 Sakon Nakhon,55-64,0,2003,DHF
-Zone 12,55-64,0,2003,DHF
+Zone:12,55-64,0,2003,DHF
 Khon Kaen,55-64,0,2003,DHF
 Maha Sarakham,55-64,0,2003,DHF
 Roi Et,55-64,0,2003,DHF
-Zone 13,55-64,7,2003,DHF
+Zone:13,55-64,7,2003,DHF
 Buri Ram,55-64,3,2003,DHF
 Chaiyaphum,55-64,0,2003,DHF
 Nakhon Ratchasima,55-64,2,2003,DHF
 Surin,55-64,2,2003,DHF
-Zone 14,55-64,5,2003,DHF
+Zone:14,55-64,5,2003,DHF
 Amnat Charoen,55-64,1,2003,DHF
 Si Sa Ket,55-64,1,2003,DHF
 Ubon Ratchathani,55-64,3,2003,DHF
 Yasothon,55-64,0,2003,DHF
 South Region,55-64,46,2003,DHF
-Zone 15,55-64,3,2003,DHF
+Zone:15,55-64,3,2003,DHF
 Chumphon,55-64,1,2003,DHF
 Ranong,55-64,0,2003,DHF
 Surat Thani,55-64,2,2003,DHF
-Zone 16,55-64,10,2003,DHF
+Zone:16,55-64,10,2003,DHF
 Nakhon Si Thammarat,55-64,8,2003,DHF
 Phatthalung,55-64,1,2003,DHF
 Trang,55-64,1,2003,DHF
-Zone 17,55-64,3,2003,DHF
+Zone:17,55-64,3,2003,DHF
 Krabi,55-64,1,2003,DHF
 Phangnga,55-64,2,2003,DHF
 Phuket,55-64,0,2003,DHF
-Zone 18,55-64,19,2003,DHF
+Zone:18,55-64,19,2003,DHF
 Narathiwat,55-64,10,2003,DHF
 Pattani,55-64,8,2003,DHF
 Yala,55-64,1,2003,DHF
-Zone 19,55-64,11,2003,DHF
+Zone:19,55-64,11,2003,DHF
 Satun,55-64,0,2003,DHF
 Songkhla,55-64,11,2003,DHF
 Total,65+,150,2003,DHF
 North Region,65+,29,2003,DHF
-Zone 1,65+,20,2003,DHF
+Zone:1,65+,20,2003,DHF
 Chiang Mai,65+,7,2003,DHF
 Chiang Rai,65+,6,2003,DHF
 Lampang,65+,2,2003,DHF
@@ -29294,98 +29294,98 @@ Mae Hong Son,65+,1,2003,DHF
 Nan,65+,1,2003,DHF
 Phayao,65+,2,2003,DHF
 Phrae,65+,1,2003,DHF
-Zone 2,65+,2,2003,DHF
+Zone:2,65+,2,2003,DHF
 Phetchabun,65+,0,2003,DHF
 Phitsanulok,65+,1,2003,DHF
 Sukhothai,65+,0,2003,DHF
 Tak,65+,0,2003,DHF
 Uttaradit,65+,1,2003,DHF
-Zone 3,65+,7,2003,DHF
+Zone:3,65+,7,2003,DHF
 Kamphaeng Phet,65+,3,2003,DHF
 Nakhon Sawan,65+,4,2003,DHF
 Phichit,65+,0,2003,DHF
 Uthai Thani,65+,0,2003,DHF
 Central Region,65+,74,2003,DHF
 Bangkok,65+,41,2003,DHF
-Zone 4,65+,14,2003,DHF
+Zone:4,65+,14,2003,DHF
 Ang Thong,65+,2,2003,DHF
 Nonthaburi,65+,9,2003,DHF
 P.Nakhon S.Ayutthaya,65+,0,2003,DHF
 Pathum Thani,65+,3,2003,DHF
-Zone 5,65+,1,2003,DHF
+Zone:5,65+,1,2003,DHF
 Chai Nat,65+,0,2003,DHF
 Lop Buri,65+,1,2003,DHF
 Saraburi,65+,0,2003,DHF
 Sing Buri,65+,0,2003,DHF
-Zone 6,65+,6,2003,DHF
+Zone:6,65+,6,2003,DHF
 Kanchanaburi,65+,0,2003,DHF
 Nakhon Pathom,65+,3,2003,DHF
 Ratchaburi,65+,1,2003,DHF
 Suphan Buri,65+,2,2003,DHF
-Zone 7,65+,2,2003,DHF
+Zone:7,65+,2,2003,DHF
 Phetchaburi,65+,0,2003,DHF
 Prachuap Khiri Khan,65+,2,2003,DHF
 Samut Sakhon,65+,0,2003,DHF
 Samut Songkhram,65+,0,2003,DHF
-Zone 8,65+,5,2003,DHF
+Zone:8,65+,5,2003,DHF
 Chachoengsao,65+,2,2003,DHF
 Nakhon Nayok,65+,1,2003,DHF
 Prachin Buri,65+,0,2003,DHF
 Sa Kaeo,65+,0,2003,DHF
 Samut Prakan,65+,2,2003,DHF
-Zone 9,65+,5,2003,DHF
+Zone:9,65+,5,2003,DHF
 Chanthaburi,65+,1,2003,DHF
 Chon Buri,65+,2,2003,DHF
 Rayong,65+,1,2003,DHF
 Trat,65+,1,2003,DHF
 North-Eastern Region,65+,8,2003,DHF
-Zone 10,65+,1,2003,DHF
+Zone:10,65+,1,2003,DHF
 Loei,65+,1,2003,DHF
 Nong Bua Lam Phu,65+,0,2003,DHF
 Nong Khai,65+,0,2003,DHF
 Udon Thani,65+,0,2003,DHF
-Zone 11,65+,0,2003,DHF
+Zone:11,65+,0,2003,DHF
 Kalasin,65+,0,2003,DHF
 Mukdahan,65+,0,2003,DHF
 Nakhon Phanom,65+,0,2003,DHF
 Sakon Nakhon,65+,0,2003,DHF
-Zone 12,65+,2,2003,DHF
+Zone:12,65+,2,2003,DHF
 Khon Kaen,65+,0,2003,DHF
 Maha Sarakham,65+,0,2003,DHF
 Roi Et,65+,2,2003,DHF
-Zone 13,65+,1,2003,DHF
+Zone:13,65+,1,2003,DHF
 Buri Ram,65+,1,2003,DHF
 Chaiyaphum,65+,0,2003,DHF
 Nakhon Ratchasima,65+,0,2003,DHF
 Surin,65+,0,2003,DHF
-Zone 14,65+,4,2003,DHF
+Zone:14,65+,4,2003,DHF
 Amnat Charoen,65+,1,2003,DHF
 Si Sa Ket,65+,1,2003,DHF
 Ubon Ratchathani,65+,2,2003,DHF
 Yasothon,65+,0,2003,DHF
 South Region,65+,39,2003,DHF
-Zone 15,65+,6,2003,DHF
+Zone:15,65+,6,2003,DHF
 Chumphon,65+,1,2003,DHF
 Ranong,65+,0,2003,DHF
 Surat Thani,65+,5,2003,DHF
-Zone 16,65+,8,2003,DHF
+Zone:16,65+,8,2003,DHF
 Nakhon Si Thammarat,65+,7,2003,DHF
 Phatthalung,65+,1,2003,DHF
 Trang,65+,0,2003,DHF
-Zone 17,65+,3,2003,DHF
+Zone:17,65+,3,2003,DHF
 Krabi,65+,0,2003,DHF
 Phangnga,65+,2,2003,DHF
 Phuket,65+,1,2003,DHF
-Zone 18,65+,10,2003,DHF
+Zone:18,65+,10,2003,DHF
 Narathiwat,65+,7,2003,DHF
 Pattani,65+,1,2003,DHF
 Yala,65+,2,2003,DHF
-Zone 19,65+,12,2003,DHF
+Zone:19,65+,12,2003,DHF
 Satun,65+,0,2003,DHF
 Songkhla,65+,12,2003,DHF
 Total,Unknown,60,2003,DHF
 North Region,Unknown,0,2003,DHF
-Zone 1,Unknown,0,2003,DHF
+Zone:1,Unknown,0,2003,DHF
 Chiang Mai,Unknown,0,2003,DHF
 Chiang Rai,Unknown,0,2003,DHF
 Lampang,Unknown,0,2003,DHF
@@ -29394,93 +29394,93 @@ Mae Hong Son,Unknown,0,2003,DHF
 Nan,Unknown,0,2003,DHF
 Phayao,Unknown,0,2003,DHF
 Phrae,Unknown,0,2003,DHF
-Zone 2,Unknown,0,2003,DHF
+Zone:2,Unknown,0,2003,DHF
 Phetchabun,Unknown,0,2003,DHF
 Phitsanulok,Unknown,0,2003,DHF
 Sukhothai,Unknown,0,2003,DHF
 Tak,Unknown,0,2003,DHF
 Uttaradit,Unknown,0,2003,DHF
-Zone 3,Unknown,0,2003,DHF
+Zone:3,Unknown,0,2003,DHF
 Kamphaeng Phet,Unknown,0,2003,DHF
 Nakhon Sawan,Unknown,0,2003,DHF
 Phichit,Unknown,0,2003,DHF
 Uthai Thani,Unknown,0,2003,DHF
 Central Region,Unknown,60,2003,DHF
 Bangkok,Unknown,60,2003,DHF
-Zone 4,Unknown,0,2003,DHF
+Zone:4,Unknown,0,2003,DHF
 Ang Thong,Unknown,0,2003,DHF
 Nonthaburi,Unknown,0,2003,DHF
 P.Nakhon S.Ayutthaya,Unknown,0,2003,DHF
 Pathum Thani,Unknown,0,2003,DHF
-Zone 5,Unknown,0,2003,DHF
+Zone:5,Unknown,0,2003,DHF
 Chai Nat,Unknown,0,2003,DHF
 Lop Buri,Unknown,0,2003,DHF
 Saraburi,Unknown,0,2003,DHF
 Sing Buri,Unknown,0,2003,DHF
-Zone 6,Unknown,0,2003,DHF
+Zone:6,Unknown,0,2003,DHF
 Kanchanaburi,Unknown,0,2003,DHF
 Nakhon Pathom,Unknown,0,2003,DHF
 Ratchaburi,Unknown,0,2003,DHF
 Suphan Buri,Unknown,0,2003,DHF
-Zone 7,Unknown,0,2003,DHF
+Zone:7,Unknown,0,2003,DHF
 Phetchaburi,Unknown,0,2003,DHF
 Prachuap Khiri Khan,Unknown,0,2003,DHF
 Samut Sakhon,Unknown,0,2003,DHF
 Samut Songkhram,Unknown,0,2003,DHF
-Zone 8,Unknown,0,2003,DHF
+Zone:8,Unknown,0,2003,DHF
 Chachoengsao,Unknown,0,2003,DHF
 Nakhon Nayok,Unknown,0,2003,DHF
 Prachin Buri,Unknown,0,2003,DHF
 Sa Kaeo,Unknown,0,2003,DHF
 Samut Prakan,Unknown,0,2003,DHF
-Zone 9,Unknown,0,2003,DHF
+Zone:9,Unknown,0,2003,DHF
 Chanthaburi,Unknown,0,2003,DHF
 Chon Buri,Unknown,0,2003,DHF
 Rayong,Unknown,0,2003,DHF
 Trat,Unknown,0,2003,DHF
 North-Eastern Region,Unknown,0,2003,DHF
-Zone 10,Unknown,0,2003,DHF
+Zone:10,Unknown,0,2003,DHF
 Loei,Unknown,0,2003,DHF
 Nong Bua Lam Phu,Unknown,0,2003,DHF
 Nong Khai,Unknown,0,2003,DHF
 Udon Thani,Unknown,0,2003,DHF
-Zone 11,Unknown,0,2003,DHF
+Zone:11,Unknown,0,2003,DHF
 Kalasin,Unknown,0,2003,DHF
 Mukdahan,Unknown,0,2003,DHF
 Nakhon Phanom,Unknown,0,2003,DHF
 Sakon Nakhon,Unknown,0,2003,DHF
-Zone 12,Unknown,0,2003,DHF
+Zone:12,Unknown,0,2003,DHF
 Khon Kaen,Unknown,0,2003,DHF
 Maha Sarakham,Unknown,0,2003,DHF
 Roi Et,Unknown,0,2003,DHF
-Zone 13,Unknown,0,2003,DHF
+Zone:13,Unknown,0,2003,DHF
 Buri Ram,Unknown,0,2003,DHF
 Chaiyaphum,Unknown,0,2003,DHF
 Nakhon Ratchasima,Unknown,0,2003,DHF
 Surin,Unknown,0,2003,DHF
-Zone 14,Unknown,0,2003,DHF
+Zone:14,Unknown,0,2003,DHF
 Amnat Charoen,Unknown,0,2003,DHF
 Si Sa Ket,Unknown,0,2003,DHF
 Ubon Ratchathani,Unknown,0,2003,DHF
 Yasothon,Unknown,0,2003,DHF
 South Region,Unknown,0,2003,DHF
-Zone 15,Unknown,0,2003,DHF
+Zone:15,Unknown,0,2003,DHF
 Chumphon,Unknown,0,2003,DHF
 Ranong,Unknown,0,2003,DHF
 Surat Thani,Unknown,0,2003,DHF
-Zone 16,Unknown,0,2003,DHF
+Zone:16,Unknown,0,2003,DHF
 Nakhon Si Thammarat,Unknown,0,2003,DHF
 Phatthalung,Unknown,0,2003,DHF
 Trang,Unknown,0,2003,DHF
-Zone 17,Unknown,0,2003,DHF
+Zone:17,Unknown,0,2003,DHF
 Krabi,Unknown,0,2003,DHF
 Phangnga,Unknown,0,2003,DHF
 Phuket,Unknown,0,2003,DHF
-Zone 18,Unknown,0,2003,DHF
+Zone:18,Unknown,0,2003,DHF
 Narathiwat,Unknown,0,2003,DHF
 Pattani,Unknown,0,2003,DHF
 Yala,Unknown,0,2003,DHF
-Zone 19,Unknown,0,2003,DHF
+Zone:19,Unknown,0,2003,DHF
 Satun,Unknown,0,2003,DHF
 Songkhla,Unknown,0,2003,DHF
 Total,Total,38474,2023,DHF
