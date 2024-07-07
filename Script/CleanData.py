@@ -8,7 +8,6 @@ from datetime import datetime
 # Setup logging
 logging.basicConfig(filename='./CleanData.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
 ## Function to clean the data
 def read_rtf(file_path):
     with open(file_path, 'r') as file:
