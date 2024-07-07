@@ -1377,6 +1377,101 @@ Yala,2461,531.93,5,0.20,1.08,462657,2004,Pneumonia
 Zone:19,2725,174.50,5,0.18,0.32,1561600,2004,Pneumonia
 Satun,368,134.49,0,0.00,0.00,273624,2004,Pneumonia
 Songkhla,2357,183.00,5,0.21,0.39,1287976,2004,Pneumonia
+Total,168633,255.23,409,0.24,0.62,66071545,2024,Pneumonia
+ZONE:01,17551,299.64,55,0.31,0.94,5857413,2024,Pneumonia
+Chiang Mai,3770,210.05,1,0.03,0.06,1794774,2024,Pneumonia
+Chiang Rai,3968,305.39,0,0.00,0.00,1299306,2024,Pneumonia
+Lampang,2376,332.25,49,2.06,6.85,715133,2024,Pneumonia
+Lamphun,1146,287.22,1,0.09,0.25,398998,2024,Pneumonia
+Mae Hong Son,1345,468.29,1,0.07,0.35,287215,2024,Pneumonia
+Nan,1175,248.08,2,0.17,0.42,473630,2024,Pneumonia
+Phayao,2180,474.06,0,0.00,0.00,459858,2024,Pneumonia
+Phrae,1591,371.30,1,0.06,0.23,428499,2024,Pneumonia
+ZONE:02,7413,210.45,12,0.16,0.34,3522489,2024,Pneumonia
+Phetchabun,2557,263.50,0,0.00,0.00,970403,2024,Pneumonia
+Phitsanulok,1386,164.39,0,0.00,0.00,843111,2024,Pneumonia
+Sukhothai,833,143.68,0,0.00,0.00,579759,2024,Pneumonia
+Tak,1462,212.52,11,0.75,1.60,687927,2024,Pneumonia
+Uttaradit,1175,266.27,1,0.09,0.23,441289,2024,Pneumonia
+ZONE:03,6901,238.26,38,0.55,1.31,2896463,2024,Pneumonia
+Chai Nat,445,140.26,1,0.22,0.32,317263,2024,Pneumonia
+Kamphaeng Phet,1635,231.30,33,2.02,4.67,706861,2024,Pneumonia
+Nakhon Sawan,2620,255.52,2,0.08,0.20,1025348,2024,Pneumonia
+Phichit,1175,224.27,0,0.00,0.00,523925,2024,Pneumonia
+Uthai Thani,1026,317.58,2,0.19,0.62,323066,2024,Pneumonia
+ZONE:04,12844,236.15,25,0.19,0.46,5438863,2024,Pneumonia
+Ang Thong,795,292.65,0,0.00,0.00,271656,2024,Pneumonia
+Lop Buri,1733,236.59,1,0.06,0.14,732495,2024,Pneumonia
+Nakhon Nayok,430,165.22,0,0.00,0.00,260261,2024,Pneumonia
+Nonthaburi,2171,166.74,3,0.14,0.23,1302004,2024,Pneumonia
+P.Nakhon S.Ayutthaya,1900,231.35,2,0.11,0.24,821261,2024,Pneumonia
+Pathum Thani,3636,300.41,2,0.06,0.17,1210365,2024,Pneumonia
+Saraburi,1419,222.17,2,0.14,0.31,638704,2024,Pneumonia
+Sing Buri,760,376.02,15,1.97,7.42,202117,2024,Pneumonia
+ZONE:05,9758,183.19,19,0.19,0.36,5326695,2024,Pneumonia
+Kanchanaburi,2125,237.49,4,0.19,0.45,894781,2024,Pneumonia
+Nakhon Pathom,1133,122.73,1,0.09,0.11,923201,2024,Pneumonia
+Phetchaburi,799,165.32,3,0.38,0.62,483305,2024,Pneumonia
+Prachuap Khiri Khan,1570,284.35,9,0.57,1.63,552137,2024,Pneumonia
+Ratchaburi,1075,124.24,2,0.19,0.23,865276,2024,Pneumonia
+Samut Sakhon,1347,228.02,0,0.00,0.00,590730,2024,Pneumonia
+Samut Songkhram,208,110.21,0,0.00,0.00,188723,2024,Pneumonia
+Suphan Buri,1501,181.16,0,0.00,0.00,828542,2024,Pneumonia
+ZONE:06,16111,256.05,45,0.28,0.72,6292163,2024,Pneumonia
+Chachoengsao,2868,393.62,4,0.14,0.55,728615,2024,Pneumonia
+Chanthaburi,1262,235.32,22,1.74,4.10,536290,2024,Pneumonia
+Chon Buri,4639,288.78,11,0.24,0.68,1606412,2024,Pneumonia
+Prachin Buri,1488,298.39,2,0.13,0.40,498671,2024,Pneumonia
+Rayong,1324,173.01,0,0.00,0.00,765287,2024,Pneumonia
+Sa Kaeo,829,147.28,3,0.36,0.53,562860,2024,Pneumonia
+Samut Prakan,3056,223.62,2,0.07,0.15,1366598,2024,Pneumonia
+Trat,645,283.60,1,0.16,0.44,227430,2024,Pneumonia
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/7/2567,,,,,,2024,Pneumonia
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2567(2024),Pneumonia,31,,,,2024,Pneumonia
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2024,Pneumonia
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2024,Pneumonia
+ZONE:07,17495,351.21,0,0.00,0.00,4981337,2024,Pneumonia
+Kalasin,2460,253.59,0,0.00,0.00,970084,2024,Pneumonia
+Khon Kaen,5294,297.08,0,0.00,0.00,1782008,2024,Pneumonia
+Maha Sarakham,4948,525.68,0,0.00,0.00,941261,2024,Pneumonia
+Roi Et,4793,372.13,0,0.00,0.00,1287984,2024,Pneumonia
+ZONE:08,11897,216.31,10,0.08,0.18,5500012,2024,Pneumonia
+Bungkan,764,181.44,0,0.00,0.00,421086,2024,Pneumonia
+Loei,2625,412.58,5,0.19,0.79,636242,2024,Pneumonia
+Nakhon Phanom,1660,232.02,0,0.00,0.00,715466,2024,Pneumonia
+Nong Bua Lam Phu,1092,215.13,0,0.00,0.00,507599,2024,Pneumonia
+Nong Khai,1008,195.76,0,0.00,0.00,514909,2024,Pneumonia
+Sakon Nakhon,1460,127.63,1,0.07,0.09,1143922,2024,Pneumonia
+Udon Thani,3288,210.66,4,0.12,0.26,1560788,2024,Pneumonia
+ZONE:09,16407,245.28,25,0.15,0.37,6689028,2024,Pneumonia
+Buri Ram,5131,325.76,0,0.00,0.00,1575073,2024,Pneumonia
+Chaiyaphum,2207,197.82,0,0.00,0.00,1115652,2024,Pneumonia
+Nakhon Ratchasima,5231,199.05,3,0.06,0.11,2627927,2024,Pneumonia
+Surin,3838,280.07,22,0.57,1.61,1370376,2024,Pneumonia
+ZONE:10,16985,370.95,45,0.26,0.98,4578831,2024,Pneumonia
+Amnat Charoen,730,194.79,0,0.00,0.00,374760,2024,Pneumonia
+Mukdahan,709,201.65,0,0.00,0.00,351592,2024,Pneumonia
+Si Sa Ket,4104,282.54,0,0.00,0.00,1452532,2024,Pneumonia
+Ubon Ratchathani,8537,456.60,44,0.52,2.35,1869708,2024,Pneumonia
+Yasothon,2905,547.87,1,0.03,0.19,530239,2024,Pneumonia
+ZONE:11,14486,322.64,106,0.73,2.36,4489783,2024,Pneumonia
+Chumphon,1280,251.41,0,0.00,0.00,509122,2024,Pneumonia
+Krabi,1340,278.53,1,0.07,0.21,481089,2024,Pneumonia
+Nakhon Si Thammarat,4776,309.52,2,0.04,0.13,1543051,2024,Pneumonia
+Phangnga,510,190.83,0,0.00,0.00,267250,2024,Pneumonia
+Phuket,2385,566.85,6,0.25,1.43,420746,2024,Pneumonia
+Ranong,552,284.83,0,0.00,0.00,193799,2024,Pneumonia
+Surat Thani,3643,338.97,97,2.66,9.03,1074726,2024,Pneumonia
+ZONE:12,13891,276.98,5,0.04,0.10,5015209,2024,Pneumonia
+Narathiwat,2215,271.23,0,0.00,0.00,816642,2024,Pneumonia
+Pattani,1160,157.82,0,0.00,0.00,735017,2024,Pneumonia
+Phatthalung,982,188.44,1,0.10,0.19,521109,2024,Pneumonia
+Satun,786,241.56,0,0.00,0.00,325387,2024,Pneumonia
+Songkhla,4908,342.85,2,0.04,0.14,1431512,2024,Pneumonia
+Trang,1273,199.65,0,0.00,0.00,637612,2024,Pneumonia
+Yala,2567,468.49,2,0.08,0.37,547930,2024,Pneumonia
+ZONE:13,6894,125.73,24,0.35,0.44,5483259,2024,Pneumonia
+Bangkok,6894,125.73,24,0.35,0.44,5483259,2024,Pneumonia
 Total,298758,451.77,367,0.12,0.55,66130957,2023,Pneumonia
 ZONE:01,36788,626.80,6,0.02,0.10,5869190,2023,Pneumonia
 Chiang Mai,12221,682.38,0,0.00,0.00,1790929,2023,Pneumonia

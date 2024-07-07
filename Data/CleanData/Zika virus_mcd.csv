@@ -1,4 +1,2372 @@
 Areas,Count,Month,Type,Year,Disease
+Total,148,Total,Cases,2024,Zika
+ZONE:01,0,Total,Cases,2024,Zika
+Chiang Mai,0,Total,Cases,2024,Zika
+Chiang Rai,0,Total,Cases,2024,Zika
+Lampang,0,Total,Cases,2024,Zika
+Lamphun,0,Total,Cases,2024,Zika
+Mae Hong Son,0,Total,Cases,2024,Zika
+Nan,0,Total,Cases,2024,Zika
+Phayao,0,Total,Cases,2024,Zika
+Phrae,0,Total,Cases,2024,Zika
+ZONE:02,4,Total,Cases,2024,Zika
+Phetchabun,0,Total,Cases,2024,Zika
+Phitsanulok,0,Total,Cases,2024,Zika
+Sukhothai,3,Total,Cases,2024,Zika
+Tak,1,Total,Cases,2024,Zika
+Uttaradit,0,Total,Cases,2024,Zika
+ZONE:03,4,Total,Cases,2024,Zika
+Chai Nat,1,Total,Cases,2024,Zika
+Kamphaeng Phet,1,Total,Cases,2024,Zika
+Nakhon Sawan,2,Total,Cases,2024,Zika
+Phichit,0,Total,Cases,2024,Zika
+Uthai Thani,0,Total,Cases,2024,Zika
+ZONE:04,15,Total,Cases,2024,Zika
+Ang Thong,1,Total,Cases,2024,Zika
+Lop Buri,2,Total,Cases,2024,Zika
+Nakhon Nayok,0,Total,Cases,2024,Zika
+Nonthaburi,0,Total,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Total,Cases,2024,Zika
+Pathum Thani,1,Total,Cases,2024,Zika
+Saraburi,11,Total,Cases,2024,Zika
+Sing Buri,0,Total,Cases,2024,Zika
+ZONE:05,40,Total,Cases,2024,Zika
+Kanchanaburi,0,Total,Cases,2024,Zika
+Nakhon Pathom,4,Total,Cases,2024,Zika
+Phetchaburi,4,Total,Cases,2024,Zika
+Prachuap Khiri Khan,30,Total,Cases,2024,Zika
+Ratchaburi,0,Total,Cases,2024,Zika
+Samut Sakhon,1,Total,Cases,2024,Zika
+Samut Songkhram,0,Total,Cases,2024,Zika
+Suphan Buri,1,Total,Cases,2024,Zika
+ZONE:06,17,Total,Cases,2024,Zika
+Chachoengsao,0,Total,Cases,2024,Zika
+Chanthaburi,3,Total,Cases,2024,Zika
+Chon Buri,11,Total,Cases,2024,Zika
+Prachin Buri,0,Total,Cases,2024,Zika
+Rayong,3,Total,Cases,2024,Zika
+Sa Kaeo,0,Total,Cases,2024,Zika
+Samut Prakan,0,Total,Cases,2024,Zika
+Trat,0,Total,Cases,2024,Zika
+ZONE:07,4,Total,Cases,2024,Zika
+Kalasin,0,Total,Cases,2024,Zika
+Khon Kaen,3,Total,Cases,2024,Zika
+Maha Sarakham,1,Total,Cases,2024,Zika
+Roi Et,0,Total,Cases,2024,Zika
+ZONE:08,0,Total,Cases,2024,Zika
+Bungkan,0,Total,Cases,2024,Zika
+Loei,0,Total,Cases,2024,Zika
+Nakhon Phanom,0,Total,Cases,2024,Zika
+Nong Bua Lam Phu,0,Total,Cases,2024,Zika
+Nong Khai,0,Total,Cases,2024,Zika
+Sakon Nakhon,0,Total,Cases,2024,Zika
+Udon Thani,0,Total,Cases,2024,Zika
+ZONE:09,1,Total,Cases,2024,Zika
+Buri Ram,0,Total,Cases,2024,Zika
+Chaiyaphum,0,Total,Cases,2024,Zika
+Nakhon Ratchasima,1,Total,Cases,2024,Zika
+Surin,0,Total,Cases,2024,Zika
+ZONE:10,0,Total,Cases,2024,Zika
+Amnat Charoen,0,Total,Cases,2024,Zika
+Mukdahan,0,Total,Cases,2024,Zika
+Si Sa Ket,0,Total,Cases,2024,Zika
+Ubon Ratchathani,0,Total,Cases,2024,Zika
+Yasothon,0,Total,Cases,2024,Zika
+ZONE:11,38,Total,Cases,2024,Zika
+Chumphon,0,Total,Cases,2024,Zika
+Krabi,4,Total,Cases,2024,Zika
+Nakhon Si Thammarat,0,Total,Cases,2024,Zika
+Phangnga,0,Total,Cases,2024,Zika
+Phuket,4,Total,Cases,2024,Zika
+Ranong,0,Total,Cases,2024,Zika
+Surat Thani,30,Total,Cases,2024,Zika
+ZONE:12,2,Total,Cases,2024,Zika
+Narathiwat,1,Total,Cases,2024,Zika
+Pattani,0,Total,Cases,2024,Zika
+Phatthalung,0,Total,Cases,2024,Zika
+Satun,0,Total,Cases,2024,Zika
+Songkhla,0,Total,Cases,2024,Zika
+Trang,0,Total,Cases,2024,Zika
+Yala,1,Total,Cases,2024,Zika
+ZONE:13,23,Total,Cases,2024,Zika
+Bangkok,23,Total,Cases,2024,Zika
+Total,0,Total,Deaths,2024,Zika
+ZONE:01,0,Total,Deaths,2024,Zika
+Chiang Mai,0,Total,Deaths,2024,Zika
+Chiang Rai,0,Total,Deaths,2024,Zika
+Lampang,0,Total,Deaths,2024,Zika
+Lamphun,0,Total,Deaths,2024,Zika
+Mae Hong Son,0,Total,Deaths,2024,Zika
+Nan,0,Total,Deaths,2024,Zika
+Phayao,0,Total,Deaths,2024,Zika
+Phrae,0,Total,Deaths,2024,Zika
+ZONE:02,0,Total,Deaths,2024,Zika
+Phetchabun,0,Total,Deaths,2024,Zika
+Phitsanulok,0,Total,Deaths,2024,Zika
+Sukhothai,0,Total,Deaths,2024,Zika
+Tak,0,Total,Deaths,2024,Zika
+Uttaradit,0,Total,Deaths,2024,Zika
+ZONE:03,0,Total,Deaths,2024,Zika
+Chai Nat,0,Total,Deaths,2024,Zika
+Kamphaeng Phet,0,Total,Deaths,2024,Zika
+Nakhon Sawan,0,Total,Deaths,2024,Zika
+Phichit,0,Total,Deaths,2024,Zika
+Uthai Thani,0,Total,Deaths,2024,Zika
+ZONE:04,0,Total,Deaths,2024,Zika
+Ang Thong,0,Total,Deaths,2024,Zika
+Lop Buri,0,Total,Deaths,2024,Zika
+Nakhon Nayok,0,Total,Deaths,2024,Zika
+Nonthaburi,0,Total,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Total,Deaths,2024,Zika
+Pathum Thani,0,Total,Deaths,2024,Zika
+Saraburi,0,Total,Deaths,2024,Zika
+Sing Buri,0,Total,Deaths,2024,Zika
+ZONE:05,0,Total,Deaths,2024,Zika
+Kanchanaburi,0,Total,Deaths,2024,Zika
+Nakhon Pathom,0,Total,Deaths,2024,Zika
+Phetchaburi,0,Total,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Total,Deaths,2024,Zika
+Ratchaburi,0,Total,Deaths,2024,Zika
+Samut Sakhon,0,Total,Deaths,2024,Zika
+Samut Songkhram,0,Total,Deaths,2024,Zika
+Suphan Buri,0,Total,Deaths,2024,Zika
+ZONE:06,0,Total,Deaths,2024,Zika
+Chachoengsao,0,Total,Deaths,2024,Zika
+Chanthaburi,0,Total,Deaths,2024,Zika
+Chon Buri,0,Total,Deaths,2024,Zika
+Prachin Buri,0,Total,Deaths,2024,Zika
+Rayong,0,Total,Deaths,2024,Zika
+Sa Kaeo,0,Total,Deaths,2024,Zika
+Samut Prakan,0,Total,Deaths,2024,Zika
+Trat,0,Total,Deaths,2024,Zika
+ZONE:07,0,Total,Deaths,2024,Zika
+Kalasin,0,Total,Deaths,2024,Zika
+Khon Kaen,0,Total,Deaths,2024,Zika
+Maha Sarakham,0,Total,Deaths,2024,Zika
+Roi Et,0,Total,Deaths,2024,Zika
+ZONE:08,0,Total,Deaths,2024,Zika
+Bungkan,0,Total,Deaths,2024,Zika
+Loei,0,Total,Deaths,2024,Zika
+Nakhon Phanom,0,Total,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Total,Deaths,2024,Zika
+Nong Khai,0,Total,Deaths,2024,Zika
+Sakon Nakhon,0,Total,Deaths,2024,Zika
+Udon Thani,0,Total,Deaths,2024,Zika
+ZONE:09,0,Total,Deaths,2024,Zika
+Buri Ram,0,Total,Deaths,2024,Zika
+Chaiyaphum,0,Total,Deaths,2024,Zika
+Nakhon Ratchasima,0,Total,Deaths,2024,Zika
+Surin,0,Total,Deaths,2024,Zika
+ZONE:10,0,Total,Deaths,2024,Zika
+Amnat Charoen,0,Total,Deaths,2024,Zika
+Mukdahan,0,Total,Deaths,2024,Zika
+Si Sa Ket,0,Total,Deaths,2024,Zika
+Ubon Ratchathani,0,Total,Deaths,2024,Zika
+Yasothon,0,Total,Deaths,2024,Zika
+ZONE:11,0,Total,Deaths,2024,Zika
+Chumphon,0,Total,Deaths,2024,Zika
+Krabi,0,Total,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Total,Deaths,2024,Zika
+Phangnga,0,Total,Deaths,2024,Zika
+Phuket,0,Total,Deaths,2024,Zika
+Ranong,0,Total,Deaths,2024,Zika
+Surat Thani,0,Total,Deaths,2024,Zika
+ZONE:12,0,Total,Deaths,2024,Zika
+Narathiwat,0,Total,Deaths,2024,Zika
+Pattani,0,Total,Deaths,2024,Zika
+Phatthalung,0,Total,Deaths,2024,Zika
+Satun,0,Total,Deaths,2024,Zika
+Songkhla,0,Total,Deaths,2024,Zika
+Trang,0,Total,Deaths,2024,Zika
+Yala,0,Total,Deaths,2024,Zika
+ZONE:13,0,Total,Deaths,2024,Zika
+Bangkok,0,Total,Deaths,2024,Zika
+Total,73,Jan,Cases,2024,Zika
+ZONE:01,0,Jan,Cases,2024,Zika
+Chiang Mai,0,Jan,Cases,2024,Zika
+Chiang Rai,0,Jan,Cases,2024,Zika
+Lampang,0,Jan,Cases,2024,Zika
+Lamphun,0,Jan,Cases,2024,Zika
+Mae Hong Son,0,Jan,Cases,2024,Zika
+Nan,0,Jan,Cases,2024,Zika
+Phayao,0,Jan,Cases,2024,Zika
+Phrae,0,Jan,Cases,2024,Zika
+ZONE:02,0,Jan,Cases,2024,Zika
+Phetchabun,0,Jan,Cases,2024,Zika
+Phitsanulok,0,Jan,Cases,2024,Zika
+Sukhothai,0,Jan,Cases,2024,Zika
+Tak,0,Jan,Cases,2024,Zika
+Uttaradit,0,Jan,Cases,2024,Zika
+ZONE:03,1,Jan,Cases,2024,Zika
+Chai Nat,0,Jan,Cases,2024,Zika
+Kamphaeng Phet,0,Jan,Cases,2024,Zika
+Nakhon Sawan,1,Jan,Cases,2024,Zika
+Phichit,0,Jan,Cases,2024,Zika
+Uthai Thani,0,Jan,Cases,2024,Zika
+ZONE:04,10,Jan,Cases,2024,Zika
+Ang Thong,1,Jan,Cases,2024,Zika
+Lop Buri,1,Jan,Cases,2024,Zika
+Nakhon Nayok,0,Jan,Cases,2024,Zika
+Nonthaburi,0,Jan,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Jan,Cases,2024,Zika
+Pathum Thani,1,Jan,Cases,2024,Zika
+Saraburi,7,Jan,Cases,2024,Zika
+Sing Buri,0,Jan,Cases,2024,Zika
+ZONE:05,26,Jan,Cases,2024,Zika
+Kanchanaburi,0,Jan,Cases,2024,Zika
+Nakhon Pathom,4,Jan,Cases,2024,Zika
+Phetchaburi,3,Jan,Cases,2024,Zika
+Prachuap Khiri Khan,19,Jan,Cases,2024,Zika
+Ratchaburi,0,Jan,Cases,2024,Zika
+Samut Sakhon,0,Jan,Cases,2024,Zika
+Samut Songkhram,0,Jan,Cases,2024,Zika
+Suphan Buri,0,Jan,Cases,2024,Zika
+ZONE:06,8,Jan,Cases,2024,Zika
+Chachoengsao,0,Jan,Cases,2024,Zika
+Chanthaburi,1,Jan,Cases,2024,Zika
+Chon Buri,4,Jan,Cases,2024,Zika
+Prachin Buri,0,Jan,Cases,2024,Zika
+Rayong,3,Jan,Cases,2024,Zika
+Sa Kaeo,0,Jan,Cases,2024,Zika
+Samut Prakan,0,Jan,Cases,2024,Zika
+Trat,0,Jan,Cases,2024,Zika
+ZONE:07,2,Jan,Cases,2024,Zika
+Kalasin,0,Jan,Cases,2024,Zika
+Khon Kaen,1,Jan,Cases,2024,Zika
+Maha Sarakham,1,Jan,Cases,2024,Zika
+Roi Et,0,Jan,Cases,2024,Zika
+ZONE:08,0,Jan,Cases,2024,Zika
+Bungkan,0,Jan,Cases,2024,Zika
+Loei,0,Jan,Cases,2024,Zika
+Nakhon Phanom,0,Jan,Cases,2024,Zika
+Nong Bua Lam Phu,0,Jan,Cases,2024,Zika
+Nong Khai,0,Jan,Cases,2024,Zika
+Sakon Nakhon,0,Jan,Cases,2024,Zika
+Udon Thani,0,Jan,Cases,2024,Zika
+ZONE:09,1,Jan,Cases,2024,Zika
+Buri Ram,0,Jan,Cases,2024,Zika
+Chaiyaphum,0,Jan,Cases,2024,Zika
+Nakhon Ratchasima,1,Jan,Cases,2024,Zika
+Surin,0,Jan,Cases,2024,Zika
+ZONE:10,0,Jan,Cases,2024,Zika
+Amnat Charoen,0,Jan,Cases,2024,Zika
+Mukdahan,0,Jan,Cases,2024,Zika
+Si Sa Ket,0,Jan,Cases,2024,Zika
+Ubon Ratchathani,0,Jan,Cases,2024,Zika
+Yasothon,0,Jan,Cases,2024,Zika
+ZONE:11,7,Jan,Cases,2024,Zika
+Chumphon,0,Jan,Cases,2024,Zika
+Krabi,0,Jan,Cases,2024,Zika
+Nakhon Si Thammarat,0,Jan,Cases,2024,Zika
+Phangnga,0,Jan,Cases,2024,Zika
+Phuket,2,Jan,Cases,2024,Zika
+Ranong,0,Jan,Cases,2024,Zika
+Surat Thani,5,Jan,Cases,2024,Zika
+ZONE:12,1,Jan,Cases,2024,Zika
+Narathiwat,0,Jan,Cases,2024,Zika
+Pattani,0,Jan,Cases,2024,Zika
+Phatthalung,0,Jan,Cases,2024,Zika
+Satun,0,Jan,Cases,2024,Zika
+Songkhla,0,Jan,Cases,2024,Zika
+Trang,0,Jan,Cases,2024,Zika
+Yala,1,Jan,Cases,2024,Zika
+ZONE:13,17,Jan,Cases,2024,Zika
+Bangkok,17,Jan,Cases,2024,Zika
+Total,0,Jan,Deaths,2024,Zika
+ZONE:01,0,Jan,Deaths,2024,Zika
+Chiang Mai,0,Jan,Deaths,2024,Zika
+Chiang Rai,0,Jan,Deaths,2024,Zika
+Lampang,0,Jan,Deaths,2024,Zika
+Lamphun,0,Jan,Deaths,2024,Zika
+Mae Hong Son,0,Jan,Deaths,2024,Zika
+Nan,0,Jan,Deaths,2024,Zika
+Phayao,0,Jan,Deaths,2024,Zika
+Phrae,0,Jan,Deaths,2024,Zika
+ZONE:02,0,Jan,Deaths,2024,Zika
+Phetchabun,0,Jan,Deaths,2024,Zika
+Phitsanulok,0,Jan,Deaths,2024,Zika
+Sukhothai,0,Jan,Deaths,2024,Zika
+Tak,0,Jan,Deaths,2024,Zika
+Uttaradit,0,Jan,Deaths,2024,Zika
+ZONE:03,0,Jan,Deaths,2024,Zika
+Chai Nat,0,Jan,Deaths,2024,Zika
+Kamphaeng Phet,0,Jan,Deaths,2024,Zika
+Nakhon Sawan,0,Jan,Deaths,2024,Zika
+Phichit,0,Jan,Deaths,2024,Zika
+Uthai Thani,0,Jan,Deaths,2024,Zika
+ZONE:04,0,Jan,Deaths,2024,Zika
+Ang Thong,0,Jan,Deaths,2024,Zika
+Lop Buri,0,Jan,Deaths,2024,Zika
+Nakhon Nayok,0,Jan,Deaths,2024,Zika
+Nonthaburi,0,Jan,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Jan,Deaths,2024,Zika
+Pathum Thani,0,Jan,Deaths,2024,Zika
+Saraburi,0,Jan,Deaths,2024,Zika
+Sing Buri,0,Jan,Deaths,2024,Zika
+Reported cases  and deaths by Province and by Month  Thailand,87,Jan,Deaths,2024,Zika
+ZONE:05,0,Jan,Deaths,2024,Zika
+Kanchanaburi,0,Jan,Deaths,2024,Zika
+Nakhon Pathom,0,Jan,Deaths,2024,Zika
+Phetchaburi,0,Jan,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Jan,Deaths,2024,Zika
+Ratchaburi,0,Jan,Deaths,2024,Zika
+Samut Sakhon,0,Jan,Deaths,2024,Zika
+Samut Songkhram,0,Jan,Deaths,2024,Zika
+Suphan Buri,0,Jan,Deaths,2024,Zika
+ZONE:06,0,Jan,Deaths,2024,Zika
+Chachoengsao,0,Jan,Deaths,2024,Zika
+Chanthaburi,0,Jan,Deaths,2024,Zika
+Chon Buri,0,Jan,Deaths,2024,Zika
+Prachin Buri,0,Jan,Deaths,2024,Zika
+Rayong,0,Jan,Deaths,2024,Zika
+Sa Kaeo,0,Jan,Deaths,2024,Zika
+Samut Prakan,0,Jan,Deaths,2024,Zika
+Trat,0,Jan,Deaths,2024,Zika
+ZONE:07,0,Jan,Deaths,2024,Zika
+Kalasin,0,Jan,Deaths,2024,Zika
+Khon Kaen,0,Jan,Deaths,2024,Zika
+Maha Sarakham,0,Jan,Deaths,2024,Zika
+Roi Et,0,Jan,Deaths,2024,Zika
+ZONE:08,0,Jan,Deaths,2024,Zika
+Bungkan,0,Jan,Deaths,2024,Zika
+Loei,0,Jan,Deaths,2024,Zika
+Nakhon Phanom,0,Jan,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Jan,Deaths,2024,Zika
+Nong Khai,0,Jan,Deaths,2024,Zika
+Sakon Nakhon,0,Jan,Deaths,2024,Zika
+Udon Thani,0,Jan,Deaths,2024,Zika
+ZONE:09,0,Jan,Deaths,2024,Zika
+Buri Ram,0,Jan,Deaths,2024,Zika
+Chaiyaphum,0,Jan,Deaths,2024,Zika
+Nakhon Ratchasima,0,Jan,Deaths,2024,Zika
+Surin,0,Jan,Deaths,2024,Zika
+Reported cases  and deaths by Province and by Month  Thailand,87,Jan,Deaths,2024,Zika
+ZONE:10,0,Jan,Deaths,2024,Zika
+Amnat Charoen,0,Jan,Deaths,2024,Zika
+Mukdahan,0,Jan,Deaths,2024,Zika
+Si Sa Ket,0,Jan,Deaths,2024,Zika
+Ubon Ratchathani,0,Jan,Deaths,2024,Zika
+Yasothon,0,Jan,Deaths,2024,Zika
+ZONE:11,0,Jan,Deaths,2024,Zika
+Chumphon,0,Jan,Deaths,2024,Zika
+Krabi,0,Jan,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Jan,Deaths,2024,Zika
+Phangnga,0,Jan,Deaths,2024,Zika
+Phuket,0,Jan,Deaths,2024,Zika
+Ranong,0,Jan,Deaths,2024,Zika
+Surat Thani,0,Jan,Deaths,2024,Zika
+ZONE:12,0,Jan,Deaths,2024,Zika
+Narathiwat,0,Jan,Deaths,2024,Zika
+Pattani,0,Jan,Deaths,2024,Zika
+Phatthalung,0,Jan,Deaths,2024,Zika
+Satun,0,Jan,Deaths,2024,Zika
+Songkhla,0,Jan,Deaths,2024,Zika
+Trang,0,Jan,Deaths,2024,Zika
+Yala,0,Jan,Deaths,2024,Zika
+ZONE:13,0,Jan,Deaths,2024,Zika
+Bangkok,0,Jan,Deaths,2024,Zika
+Total,27,Feb,Cases,2024,Zika
+ZONE:01,0,Feb,Cases,2024,Zika
+Chiang Mai,0,Feb,Cases,2024,Zika
+Chiang Rai,0,Feb,Cases,2024,Zika
+Lampang,0,Feb,Cases,2024,Zika
+Lamphun,0,Feb,Cases,2024,Zika
+Mae Hong Son,0,Feb,Cases,2024,Zika
+Nan,0,Feb,Cases,2024,Zika
+Phayao,0,Feb,Cases,2024,Zika
+Phrae,0,Feb,Cases,2024,Zika
+ZONE:02,1,Feb,Cases,2024,Zika
+Phetchabun,0,Feb,Cases,2024,Zika
+Phitsanulok,0,Feb,Cases,2024,Zika
+Sukhothai,0,Feb,Cases,2024,Zika
+Tak,1,Feb,Cases,2024,Zika
+Uttaradit,0,Feb,Cases,2024,Zika
+ZONE:03,2,Feb,Cases,2024,Zika
+Chai Nat,0,Feb,Cases,2024,Zika
+Kamphaeng Phet,1,Feb,Cases,2024,Zika
+Nakhon Sawan,1,Feb,Cases,2024,Zika
+Phichit,0,Feb,Cases,2024,Zika
+Uthai Thani,0,Feb,Cases,2024,Zika
+ZONE:04,3,Feb,Cases,2024,Zika
+Ang Thong,0,Feb,Cases,2024,Zika
+Lop Buri,1,Feb,Cases,2024,Zika
+Nakhon Nayok,0,Feb,Cases,2024,Zika
+Nonthaburi,0,Feb,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Feb,Cases,2024,Zika
+Pathum Thani,0,Feb,Cases,2024,Zika
+Saraburi,2,Feb,Cases,2024,Zika
+Sing Buri,0,Feb,Cases,2024,Zika
+ZONE:05,4,Feb,Cases,2024,Zika
+Kanchanaburi,0,Feb,Cases,2024,Zika
+Nakhon Pathom,0,Feb,Cases,2024,Zika
+Phetchaburi,1,Feb,Cases,2024,Zika
+Prachuap Khiri Khan,3,Feb,Cases,2024,Zika
+Ratchaburi,0,Feb,Cases,2024,Zika
+Samut Sakhon,0,Feb,Cases,2024,Zika
+Samut Songkhram,0,Feb,Cases,2024,Zika
+Suphan Buri,0,Feb,Cases,2024,Zika
+ZONE:06,1,Feb,Cases,2024,Zika
+Chachoengsao,0,Feb,Cases,2024,Zika
+Chanthaburi,0,Feb,Cases,2024,Zika
+Chon Buri,1,Feb,Cases,2024,Zika
+Prachin Buri,0,Feb,Cases,2024,Zika
+Rayong,0,Feb,Cases,2024,Zika
+Sa Kaeo,0,Feb,Cases,2024,Zika
+Samut Prakan,0,Feb,Cases,2024,Zika
+Trat,0,Feb,Cases,2024,Zika
+ZONE:07,1,Feb,Cases,2024,Zika
+Kalasin,0,Feb,Cases,2024,Zika
+Khon Kaen,1,Feb,Cases,2024,Zika
+Maha Sarakham,0,Feb,Cases,2024,Zika
+Roi Et,0,Feb,Cases,2024,Zika
+ZONE:08,0,Feb,Cases,2024,Zika
+Bungkan,0,Feb,Cases,2024,Zika
+Loei,0,Feb,Cases,2024,Zika
+Nakhon Phanom,0,Feb,Cases,2024,Zika
+Nong Bua Lam Phu,0,Feb,Cases,2024,Zika
+Nong Khai,0,Feb,Cases,2024,Zika
+Sakon Nakhon,0,Feb,Cases,2024,Zika
+Udon Thani,0,Feb,Cases,2024,Zika
+ZONE:09,0,Feb,Cases,2024,Zika
+Buri Ram,0,Feb,Cases,2024,Zika
+Chaiyaphum,0,Feb,Cases,2024,Zika
+Nakhon Ratchasima,0,Feb,Cases,2024,Zika
+Surin,0,Feb,Cases,2024,Zika
+ZONE:10,0,Feb,Cases,2024,Zika
+Amnat Charoen,0,Feb,Cases,2024,Zika
+Mukdahan,0,Feb,Cases,2024,Zika
+Si Sa Ket,0,Feb,Cases,2024,Zika
+Ubon Ratchathani,0,Feb,Cases,2024,Zika
+Yasothon,0,Feb,Cases,2024,Zika
+ZONE:11,11,Feb,Cases,2024,Zika
+Chumphon,0,Feb,Cases,2024,Zika
+Krabi,0,Feb,Cases,2024,Zika
+Nakhon Si Thammarat,0,Feb,Cases,2024,Zika
+Phangnga,0,Feb,Cases,2024,Zika
+Phuket,0,Feb,Cases,2024,Zika
+Ranong,0,Feb,Cases,2024,Zika
+Surat Thani,11,Feb,Cases,2024,Zika
+ZONE:12,0,Feb,Cases,2024,Zika
+Narathiwat,0,Feb,Cases,2024,Zika
+Pattani,0,Feb,Cases,2024,Zika
+Phatthalung,0,Feb,Cases,2024,Zika
+Satun,0,Feb,Cases,2024,Zika
+Songkhla,0,Feb,Cases,2024,Zika
+Trang,0,Feb,Cases,2024,Zika
+Yala,0,Feb,Cases,2024,Zika
+ZONE:13,4,Feb,Cases,2024,Zika
+Bangkok,4,Feb,Cases,2024,Zika
+Total,0,Feb,Deaths,2024,Zika
+ZONE:01,0,Feb,Deaths,2024,Zika
+Chiang Mai,0,Feb,Deaths,2024,Zika
+Chiang Rai,0,Feb,Deaths,2024,Zika
+Lampang,0,Feb,Deaths,2024,Zika
+Lamphun,0,Feb,Deaths,2024,Zika
+Mae Hong Son,0,Feb,Deaths,2024,Zika
+Nan,0,Feb,Deaths,2024,Zika
+Phayao,0,Feb,Deaths,2024,Zika
+Phrae,0,Feb,Deaths,2024,Zika
+ZONE:02,0,Feb,Deaths,2024,Zika
+Phetchabun,0,Feb,Deaths,2024,Zika
+Phitsanulok,0,Feb,Deaths,2024,Zika
+Sukhothai,0,Feb,Deaths,2024,Zika
+Tak,0,Feb,Deaths,2024,Zika
+Uttaradit,0,Feb,Deaths,2024,Zika
+ZONE:03,0,Feb,Deaths,2024,Zika
+Chai Nat,0,Feb,Deaths,2024,Zika
+Kamphaeng Phet,0,Feb,Deaths,2024,Zika
+Nakhon Sawan,0,Feb,Deaths,2024,Zika
+Phichit,0,Feb,Deaths,2024,Zika
+Uthai Thani,0,Feb,Deaths,2024,Zika
+ZONE:04,0,Feb,Deaths,2024,Zika
+Ang Thong,0,Feb,Deaths,2024,Zika
+Lop Buri,0,Feb,Deaths,2024,Zika
+Nakhon Nayok,0,Feb,Deaths,2024,Zika
+Nonthaburi,0,Feb,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Feb,Deaths,2024,Zika
+Pathum Thani,0,Feb,Deaths,2024,Zika
+Saraburi,0,Feb,Deaths,2024,Zika
+Sing Buri,0,Feb,Deaths,2024,Zika
+ZONE:05,0,Feb,Deaths,2024,Zika
+Kanchanaburi,0,Feb,Deaths,2024,Zika
+Nakhon Pathom,0,Feb,Deaths,2024,Zika
+Phetchaburi,0,Feb,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Feb,Deaths,2024,Zika
+Ratchaburi,0,Feb,Deaths,2024,Zika
+Samut Sakhon,0,Feb,Deaths,2024,Zika
+Samut Songkhram,0,Feb,Deaths,2024,Zika
+Suphan Buri,0,Feb,Deaths,2024,Zika
+ZONE:06,0,Feb,Deaths,2024,Zika
+Chachoengsao,0,Feb,Deaths,2024,Zika
+Chanthaburi,0,Feb,Deaths,2024,Zika
+Chon Buri,0,Feb,Deaths,2024,Zika
+Prachin Buri,0,Feb,Deaths,2024,Zika
+Rayong,0,Feb,Deaths,2024,Zika
+Sa Kaeo,0,Feb,Deaths,2024,Zika
+Samut Prakan,0,Feb,Deaths,2024,Zika
+Trat,0,Feb,Deaths,2024,Zika
+ZONE:07,0,Feb,Deaths,2024,Zika
+Kalasin,0,Feb,Deaths,2024,Zika
+Khon Kaen,0,Feb,Deaths,2024,Zika
+Maha Sarakham,0,Feb,Deaths,2024,Zika
+Roi Et,0,Feb,Deaths,2024,Zika
+ZONE:08,0,Feb,Deaths,2024,Zika
+Bungkan,0,Feb,Deaths,2024,Zika
+Loei,0,Feb,Deaths,2024,Zika
+Nakhon Phanom,0,Feb,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Feb,Deaths,2024,Zika
+Nong Khai,0,Feb,Deaths,2024,Zika
+Sakon Nakhon,0,Feb,Deaths,2024,Zika
+Udon Thani,0,Feb,Deaths,2024,Zika
+ZONE:09,0,Feb,Deaths,2024,Zika
+Buri Ram,0,Feb,Deaths,2024,Zika
+Chaiyaphum,0,Feb,Deaths,2024,Zika
+Nakhon Ratchasima,0,Feb,Deaths,2024,Zika
+Surin,0,Feb,Deaths,2024,Zika
+ZONE:10,0,Feb,Deaths,2024,Zika
+Amnat Charoen,0,Feb,Deaths,2024,Zika
+Mukdahan,0,Feb,Deaths,2024,Zika
+Si Sa Ket,0,Feb,Deaths,2024,Zika
+Ubon Ratchathani,0,Feb,Deaths,2024,Zika
+Yasothon,0,Feb,Deaths,2024,Zika
+ZONE:11,0,Feb,Deaths,2024,Zika
+Chumphon,0,Feb,Deaths,2024,Zika
+Krabi,0,Feb,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Feb,Deaths,2024,Zika
+Phangnga,0,Feb,Deaths,2024,Zika
+Phuket,0,Feb,Deaths,2024,Zika
+Ranong,0,Feb,Deaths,2024,Zika
+Surat Thani,0,Feb,Deaths,2024,Zika
+ZONE:12,0,Feb,Deaths,2024,Zika
+Narathiwat,0,Feb,Deaths,2024,Zika
+Pattani,0,Feb,Deaths,2024,Zika
+Phatthalung,0,Feb,Deaths,2024,Zika
+Satun,0,Feb,Deaths,2024,Zika
+Songkhla,0,Feb,Deaths,2024,Zika
+Trang,0,Feb,Deaths,2024,Zika
+Yala,0,Feb,Deaths,2024,Zika
+ZONE:13,0,Feb,Deaths,2024,Zika
+Bangkok,0,Feb,Deaths,2024,Zika
+Total,25,Mar,Cases,2024,Zika
+ZONE:01,0,Mar,Cases,2024,Zika
+Chiang Mai,0,Mar,Cases,2024,Zika
+Chiang Rai,0,Mar,Cases,2024,Zika
+Lampang,0,Mar,Cases,2024,Zika
+Lamphun,0,Mar,Cases,2024,Zika
+Mae Hong Son,0,Mar,Cases,2024,Zika
+Nan,0,Mar,Cases,2024,Zika
+Phayao,0,Mar,Cases,2024,Zika
+Phrae,0,Mar,Cases,2024,Zika
+ZONE:02,0,Mar,Cases,2024,Zika
+Phetchabun,0,Mar,Cases,2024,Zika
+Phitsanulok,0,Mar,Cases,2024,Zika
+Sukhothai,0,Mar,Cases,2024,Zika
+Tak,0,Mar,Cases,2024,Zika
+Uttaradit,0,Mar,Cases,2024,Zika
+ZONE:03,1,Mar,Cases,2024,Zika
+Chai Nat,1,Mar,Cases,2024,Zika
+Kamphaeng Phet,0,Mar,Cases,2024,Zika
+Nakhon Sawan,0,Mar,Cases,2024,Zika
+Phichit,0,Mar,Cases,2024,Zika
+Uthai Thani,0,Mar,Cases,2024,Zika
+ZONE:04,1,Mar,Cases,2024,Zika
+Ang Thong,0,Mar,Cases,2024,Zika
+Lop Buri,0,Mar,Cases,2024,Zika
+Nakhon Nayok,0,Mar,Cases,2024,Zika
+Nonthaburi,0,Mar,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Mar,Cases,2024,Zika
+Pathum Thani,0,Mar,Cases,2024,Zika
+Saraburi,1,Mar,Cases,2024,Zika
+Sing Buri,0,Mar,Cases,2024,Zika
+ZONE:05,3,Mar,Cases,2024,Zika
+Kanchanaburi,0,Mar,Cases,2024,Zika
+Nakhon Pathom,0,Mar,Cases,2024,Zika
+Phetchaburi,0,Mar,Cases,2024,Zika
+Prachuap Khiri Khan,2,Mar,Cases,2024,Zika
+Ratchaburi,0,Mar,Cases,2024,Zika
+Samut Sakhon,0,Mar,Cases,2024,Zika
+Samut Songkhram,0,Mar,Cases,2024,Zika
+Suphan Buri,1,Mar,Cases,2024,Zika
+ZONE:06,3,Mar,Cases,2024,Zika
+Chachoengsao,0,Mar,Cases,2024,Zika
+Chanthaburi,0,Mar,Cases,2024,Zika
+Chon Buri,3,Mar,Cases,2024,Zika
+Prachin Buri,0,Mar,Cases,2024,Zika
+Rayong,0,Mar,Cases,2024,Zika
+Sa Kaeo,0,Mar,Cases,2024,Zika
+Samut Prakan,0,Mar,Cases,2024,Zika
+Trat,0,Mar,Cases,2024,Zika
+ZONE:07,1,Mar,Cases,2024,Zika
+Kalasin,0,Mar,Cases,2024,Zika
+Khon Kaen,1,Mar,Cases,2024,Zika
+Maha Sarakham,0,Mar,Cases,2024,Zika
+Roi Et,0,Mar,Cases,2024,Zika
+ZONE:08,0,Mar,Cases,2024,Zika
+Bungkan,0,Mar,Cases,2024,Zika
+Loei,0,Mar,Cases,2024,Zika
+Nakhon Phanom,0,Mar,Cases,2024,Zika
+Nong Bua Lam Phu,0,Mar,Cases,2024,Zika
+Nong Khai,0,Mar,Cases,2024,Zika
+Sakon Nakhon,0,Mar,Cases,2024,Zika
+Udon Thani,0,Mar,Cases,2024,Zika
+ZONE:09,0,Mar,Cases,2024,Zika
+Buri Ram,0,Mar,Cases,2024,Zika
+Chaiyaphum,0,Mar,Cases,2024,Zika
+Nakhon Ratchasima,0,Mar,Cases,2024,Zika
+Surin,0,Mar,Cases,2024,Zika
+ZONE:10,0,Mar,Cases,2024,Zika
+Amnat Charoen,0,Mar,Cases,2024,Zika
+Mukdahan,0,Mar,Cases,2024,Zika
+Si Sa Ket,0,Mar,Cases,2024,Zika
+Ubon Ratchathani,0,Mar,Cases,2024,Zika
+Yasothon,0,Mar,Cases,2024,Zika
+ZONE:11,14,Mar,Cases,2024,Zika
+Chumphon,0,Mar,Cases,2024,Zika
+Krabi,0,Mar,Cases,2024,Zika
+Nakhon Si Thammarat,0,Mar,Cases,2024,Zika
+Phangnga,0,Mar,Cases,2024,Zika
+Phuket,1,Mar,Cases,2024,Zika
+Ranong,0,Mar,Cases,2024,Zika
+Surat Thani,13,Mar,Cases,2024,Zika
+ZONE:12,0,Mar,Cases,2024,Zika
+Narathiwat,0,Mar,Cases,2024,Zika
+Pattani,0,Mar,Cases,2024,Zika
+Phatthalung,0,Mar,Cases,2024,Zika
+Satun,0,Mar,Cases,2024,Zika
+Songkhla,0,Mar,Cases,2024,Zika
+Trang,0,Mar,Cases,2024,Zika
+Yala,0,Mar,Cases,2024,Zika
+ZONE:13,2,Mar,Cases,2024,Zika
+Bangkok,2,Mar,Cases,2024,Zika
+Total,0,Mar,Deaths,2024,Zika
+ZONE:01,0,Mar,Deaths,2024,Zika
+Chiang Mai,0,Mar,Deaths,2024,Zika
+Chiang Rai,0,Mar,Deaths,2024,Zika
+Lampang,0,Mar,Deaths,2024,Zika
+Lamphun,0,Mar,Deaths,2024,Zika
+Mae Hong Son,0,Mar,Deaths,2024,Zika
+Nan,0,Mar,Deaths,2024,Zika
+Phayao,0,Mar,Deaths,2024,Zika
+Phrae,0,Mar,Deaths,2024,Zika
+ZONE:02,0,Mar,Deaths,2024,Zika
+Phetchabun,0,Mar,Deaths,2024,Zika
+Phitsanulok,0,Mar,Deaths,2024,Zika
+Sukhothai,0,Mar,Deaths,2024,Zika
+Tak,0,Mar,Deaths,2024,Zika
+Uttaradit,0,Mar,Deaths,2024,Zika
+ZONE:03,0,Mar,Deaths,2024,Zika
+Chai Nat,0,Mar,Deaths,2024,Zika
+Kamphaeng Phet,0,Mar,Deaths,2024,Zika
+Nakhon Sawan,0,Mar,Deaths,2024,Zika
+Phichit,0,Mar,Deaths,2024,Zika
+Uthai Thani,0,Mar,Deaths,2024,Zika
+ZONE:04,0,Mar,Deaths,2024,Zika
+Ang Thong,0,Mar,Deaths,2024,Zika
+Lop Buri,0,Mar,Deaths,2024,Zika
+Nakhon Nayok,0,Mar,Deaths,2024,Zika
+Nonthaburi,0,Mar,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Mar,Deaths,2024,Zika
+Pathum Thani,0,Mar,Deaths,2024,Zika
+Saraburi,0,Mar,Deaths,2024,Zika
+Sing Buri,0,Mar,Deaths,2024,Zika
+ZONE:05,0,Mar,Deaths,2024,Zika
+Kanchanaburi,0,Mar,Deaths,2024,Zika
+Nakhon Pathom,0,Mar,Deaths,2024,Zika
+Phetchaburi,0,Mar,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Mar,Deaths,2024,Zika
+Ratchaburi,0,Mar,Deaths,2024,Zika
+Samut Sakhon,0,Mar,Deaths,2024,Zika
+Samut Songkhram,0,Mar,Deaths,2024,Zika
+Suphan Buri,0,Mar,Deaths,2024,Zika
+ZONE:06,0,Mar,Deaths,2024,Zika
+Chachoengsao,0,Mar,Deaths,2024,Zika
+Chanthaburi,0,Mar,Deaths,2024,Zika
+Chon Buri,0,Mar,Deaths,2024,Zika
+Prachin Buri,0,Mar,Deaths,2024,Zika
+Rayong,0,Mar,Deaths,2024,Zika
+Sa Kaeo,0,Mar,Deaths,2024,Zika
+Samut Prakan,0,Mar,Deaths,2024,Zika
+Trat,0,Mar,Deaths,2024,Zika
+ZONE:07,0,Mar,Deaths,2024,Zika
+Kalasin,0,Mar,Deaths,2024,Zika
+Khon Kaen,0,Mar,Deaths,2024,Zika
+Maha Sarakham,0,Mar,Deaths,2024,Zika
+Roi Et,0,Mar,Deaths,2024,Zika
+ZONE:08,0,Mar,Deaths,2024,Zika
+Bungkan,0,Mar,Deaths,2024,Zika
+Loei,0,Mar,Deaths,2024,Zika
+Nakhon Phanom,0,Mar,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Mar,Deaths,2024,Zika
+Nong Khai,0,Mar,Deaths,2024,Zika
+Sakon Nakhon,0,Mar,Deaths,2024,Zika
+Udon Thani,0,Mar,Deaths,2024,Zika
+ZONE:09,0,Mar,Deaths,2024,Zika
+Buri Ram,0,Mar,Deaths,2024,Zika
+Chaiyaphum,0,Mar,Deaths,2024,Zika
+Nakhon Ratchasima,0,Mar,Deaths,2024,Zika
+Surin,0,Mar,Deaths,2024,Zika
+ZONE:10,0,Mar,Deaths,2024,Zika
+Amnat Charoen,0,Mar,Deaths,2024,Zika
+Mukdahan,0,Mar,Deaths,2024,Zika
+Si Sa Ket,0,Mar,Deaths,2024,Zika
+Ubon Ratchathani,0,Mar,Deaths,2024,Zika
+Yasothon,0,Mar,Deaths,2024,Zika
+ZONE:11,0,Mar,Deaths,2024,Zika
+Chumphon,0,Mar,Deaths,2024,Zika
+Krabi,0,Mar,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Mar,Deaths,2024,Zika
+Phangnga,0,Mar,Deaths,2024,Zika
+Phuket,0,Mar,Deaths,2024,Zika
+Ranong,0,Mar,Deaths,2024,Zika
+Surat Thani,0,Mar,Deaths,2024,Zika
+ZONE:12,0,Mar,Deaths,2024,Zika
+Narathiwat,0,Mar,Deaths,2024,Zika
+Pattani,0,Mar,Deaths,2024,Zika
+Phatthalung,0,Mar,Deaths,2024,Zika
+Satun,0,Mar,Deaths,2024,Zika
+Songkhla,0,Mar,Deaths,2024,Zika
+Trang,0,Mar,Deaths,2024,Zika
+Yala,0,Mar,Deaths,2024,Zika
+ZONE:13,0,Mar,Deaths,2024,Zika
+Bangkok,0,Mar,Deaths,2024,Zika
+Total,4,Apr,Cases,2024,Zika
+ZONE:01,0,Apr,Cases,2024,Zika
+Chiang Mai,0,Apr,Cases,2024,Zika
+Chiang Rai,0,Apr,Cases,2024,Zika
+Lampang,0,Apr,Cases,2024,Zika
+Lamphun,0,Apr,Cases,2024,Zika
+Mae Hong Son,0,Apr,Cases,2024,Zika
+Nan,0,Apr,Cases,2024,Zika
+Phayao,0,Apr,Cases,2024,Zika
+Phrae,0,Apr,Cases,2024,Zika
+ZONE:02,0,Apr,Cases,2024,Zika
+Phetchabun,0,Apr,Cases,2024,Zika
+Phitsanulok,0,Apr,Cases,2024,Zika
+Sukhothai,0,Apr,Cases,2024,Zika
+Tak,0,Apr,Cases,2024,Zika
+Uttaradit,0,Apr,Cases,2024,Zika
+ZONE:03,0,Apr,Cases,2024,Zika
+Chai Nat,0,Apr,Cases,2024,Zika
+Kamphaeng Phet,0,Apr,Cases,2024,Zika
+Nakhon Sawan,0,Apr,Cases,2024,Zika
+Phichit,0,Apr,Cases,2024,Zika
+Uthai Thani,0,Apr,Cases,2024,Zika
+ZONE:04,0,Apr,Cases,2024,Zika
+Ang Thong,0,Apr,Cases,2024,Zika
+Lop Buri,0,Apr,Cases,2024,Zika
+Nakhon Nayok,0,Apr,Cases,2024,Zika
+Nonthaburi,0,Apr,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Apr,Cases,2024,Zika
+Pathum Thani,0,Apr,Cases,2024,Zika
+Saraburi,0,Apr,Cases,2024,Zika
+Sing Buri,0,Apr,Cases,2024,Zika
+ZONE:05,3,Apr,Cases,2024,Zika
+Kanchanaburi,0,Apr,Cases,2024,Zika
+Nakhon Pathom,0,Apr,Cases,2024,Zika
+Phetchaburi,0,Apr,Cases,2024,Zika
+Prachuap Khiri Khan,3,Apr,Cases,2024,Zika
+Ratchaburi,0,Apr,Cases,2024,Zika
+Samut Sakhon,0,Apr,Cases,2024,Zika
+Samut Songkhram,0,Apr,Cases,2024,Zika
+Suphan Buri,0,Apr,Cases,2024,Zika
+ZONE:06,0,Apr,Cases,2024,Zika
+Chachoengsao,0,Apr,Cases,2024,Zika
+Chanthaburi,0,Apr,Cases,2024,Zika
+Chon Buri,0,Apr,Cases,2024,Zika
+Prachin Buri,0,Apr,Cases,2024,Zika
+Rayong,0,Apr,Cases,2024,Zika
+Sa Kaeo,0,Apr,Cases,2024,Zika
+Samut Prakan,0,Apr,Cases,2024,Zika
+Trat,0,Apr,Cases,2024,Zika
+ZONE:07,0,Apr,Cases,2024,Zika
+Kalasin,0,Apr,Cases,2024,Zika
+Khon Kaen,0,Apr,Cases,2024,Zika
+Maha Sarakham,0,Apr,Cases,2024,Zika
+Roi Et,0,Apr,Cases,2024,Zika
+ZONE:08,0,Apr,Cases,2024,Zika
+Bungkan,0,Apr,Cases,2024,Zika
+Loei,0,Apr,Cases,2024,Zika
+Nakhon Phanom,0,Apr,Cases,2024,Zika
+Nong Bua Lam Phu,0,Apr,Cases,2024,Zika
+Nong Khai,0,Apr,Cases,2024,Zika
+Sakon Nakhon,0,Apr,Cases,2024,Zika
+Udon Thani,0,Apr,Cases,2024,Zika
+ZONE:09,0,Apr,Cases,2024,Zika
+Buri Ram,0,Apr,Cases,2024,Zika
+Chaiyaphum,0,Apr,Cases,2024,Zika
+Nakhon Ratchasima,0,Apr,Cases,2024,Zika
+Surin,0,Apr,Cases,2024,Zika
+ZONE:10,0,Apr,Cases,2024,Zika
+Amnat Charoen,0,Apr,Cases,2024,Zika
+Mukdahan,0,Apr,Cases,2024,Zika
+Si Sa Ket,0,Apr,Cases,2024,Zika
+Ubon Ratchathani,0,Apr,Cases,2024,Zika
+Yasothon,0,Apr,Cases,2024,Zika
+ZONE:11,1,Apr,Cases,2024,Zika
+Chumphon,0,Apr,Cases,2024,Zika
+Krabi,0,Apr,Cases,2024,Zika
+Nakhon Si Thammarat,0,Apr,Cases,2024,Zika
+Phangnga,0,Apr,Cases,2024,Zika
+Phuket,0,Apr,Cases,2024,Zika
+Ranong,0,Apr,Cases,2024,Zika
+Surat Thani,1,Apr,Cases,2024,Zika
+ZONE:12,0,Apr,Cases,2024,Zika
+Narathiwat,0,Apr,Cases,2024,Zika
+Pattani,0,Apr,Cases,2024,Zika
+Phatthalung,0,Apr,Cases,2024,Zika
+Satun,0,Apr,Cases,2024,Zika
+Songkhla,0,Apr,Cases,2024,Zika
+Trang,0,Apr,Cases,2024,Zika
+Yala,0,Apr,Cases,2024,Zika
+ZONE:13,0,Apr,Cases,2024,Zika
+Bangkok,0,Apr,Cases,2024,Zika
+Total,0,Apr,Deaths,2024,Zika
+ZONE:01,0,Apr,Deaths,2024,Zika
+Chiang Mai,0,Apr,Deaths,2024,Zika
+Chiang Rai,0,Apr,Deaths,2024,Zika
+Lampang,0,Apr,Deaths,2024,Zika
+Lamphun,0,Apr,Deaths,2024,Zika
+Mae Hong Son,0,Apr,Deaths,2024,Zika
+Nan,0,Apr,Deaths,2024,Zika
+Phayao,0,Apr,Deaths,2024,Zika
+Phrae,0,Apr,Deaths,2024,Zika
+ZONE:02,0,Apr,Deaths,2024,Zika
+Phetchabun,0,Apr,Deaths,2024,Zika
+Phitsanulok,0,Apr,Deaths,2024,Zika
+Sukhothai,0,Apr,Deaths,2024,Zika
+Tak,0,Apr,Deaths,2024,Zika
+Uttaradit,0,Apr,Deaths,2024,Zika
+ZONE:03,0,Apr,Deaths,2024,Zika
+Chai Nat,0,Apr,Deaths,2024,Zika
+Kamphaeng Phet,0,Apr,Deaths,2024,Zika
+Nakhon Sawan,0,Apr,Deaths,2024,Zika
+Phichit,0,Apr,Deaths,2024,Zika
+Uthai Thani,0,Apr,Deaths,2024,Zika
+ZONE:04,0,Apr,Deaths,2024,Zika
+Ang Thong,0,Apr,Deaths,2024,Zika
+Lop Buri,0,Apr,Deaths,2024,Zika
+Nakhon Nayok,0,Apr,Deaths,2024,Zika
+Nonthaburi,0,Apr,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Apr,Deaths,2024,Zika
+Pathum Thani,0,Apr,Deaths,2024,Zika
+Saraburi,0,Apr,Deaths,2024,Zika
+Sing Buri,0,Apr,Deaths,2024,Zika
+ZONE:05,0,Apr,Deaths,2024,Zika
+Kanchanaburi,0,Apr,Deaths,2024,Zika
+Nakhon Pathom,0,Apr,Deaths,2024,Zika
+Phetchaburi,0,Apr,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Apr,Deaths,2024,Zika
+Ratchaburi,0,Apr,Deaths,2024,Zika
+Samut Sakhon,0,Apr,Deaths,2024,Zika
+Samut Songkhram,0,Apr,Deaths,2024,Zika
+Suphan Buri,0,Apr,Deaths,2024,Zika
+ZONE:06,0,Apr,Deaths,2024,Zika
+Chachoengsao,0,Apr,Deaths,2024,Zika
+Chanthaburi,0,Apr,Deaths,2024,Zika
+Chon Buri,0,Apr,Deaths,2024,Zika
+Prachin Buri,0,Apr,Deaths,2024,Zika
+Rayong,0,Apr,Deaths,2024,Zika
+Sa Kaeo,0,Apr,Deaths,2024,Zika
+Samut Prakan,0,Apr,Deaths,2024,Zika
+Trat,0,Apr,Deaths,2024,Zika
+ZONE:07,0,Apr,Deaths,2024,Zika
+Kalasin,0,Apr,Deaths,2024,Zika
+Khon Kaen,0,Apr,Deaths,2024,Zika
+Maha Sarakham,0,Apr,Deaths,2024,Zika
+Roi Et,0,Apr,Deaths,2024,Zika
+ZONE:08,0,Apr,Deaths,2024,Zika
+Bungkan,0,Apr,Deaths,2024,Zika
+Loei,0,Apr,Deaths,2024,Zika
+Nakhon Phanom,0,Apr,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Apr,Deaths,2024,Zika
+Nong Khai,0,Apr,Deaths,2024,Zika
+Sakon Nakhon,0,Apr,Deaths,2024,Zika
+Udon Thani,0,Apr,Deaths,2024,Zika
+ZONE:09,0,Apr,Deaths,2024,Zika
+Buri Ram,0,Apr,Deaths,2024,Zika
+Chaiyaphum,0,Apr,Deaths,2024,Zika
+Nakhon Ratchasima,0,Apr,Deaths,2024,Zika
+Surin,0,Apr,Deaths,2024,Zika
+ZONE:10,0,Apr,Deaths,2024,Zika
+Amnat Charoen,0,Apr,Deaths,2024,Zika
+Mukdahan,0,Apr,Deaths,2024,Zika
+Si Sa Ket,0,Apr,Deaths,2024,Zika
+Ubon Ratchathani,0,Apr,Deaths,2024,Zika
+Yasothon,0,Apr,Deaths,2024,Zika
+ZONE:11,0,Apr,Deaths,2024,Zika
+Chumphon,0,Apr,Deaths,2024,Zika
+Krabi,0,Apr,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Apr,Deaths,2024,Zika
+Phangnga,0,Apr,Deaths,2024,Zika
+Phuket,0,Apr,Deaths,2024,Zika
+Ranong,0,Apr,Deaths,2024,Zika
+Surat Thani,0,Apr,Deaths,2024,Zika
+ZONE:12,0,Apr,Deaths,2024,Zika
+Narathiwat,0,Apr,Deaths,2024,Zika
+Pattani,0,Apr,Deaths,2024,Zika
+Phatthalung,0,Apr,Deaths,2024,Zika
+Satun,0,Apr,Deaths,2024,Zika
+Songkhla,0,Apr,Deaths,2024,Zika
+Trang,0,Apr,Deaths,2024,Zika
+Yala,0,Apr,Deaths,2024,Zika
+ZONE:13,0,Apr,Deaths,2024,Zika
+Bangkok,0,Apr,Deaths,2024,Zika
+Total,11,May,Cases,2024,Zika
+ZONE:01,0,May,Cases,2024,Zika
+Chiang Mai,0,May,Cases,2024,Zika
+Chiang Rai,0,May,Cases,2024,Zika
+Lampang,0,May,Cases,2024,Zika
+Lamphun,0,May,Cases,2024,Zika
+Mae Hong Son,0,May,Cases,2024,Zika
+Nan,0,May,Cases,2024,Zika
+Phayao,0,May,Cases,2024,Zika
+Phrae,0,May,Cases,2024,Zika
+ZONE:02,2,May,Cases,2024,Zika
+Phetchabun,0,May,Cases,2024,Zika
+Phitsanulok,0,May,Cases,2024,Zika
+Sukhothai,2,May,Cases,2024,Zika
+Tak,0,May,Cases,2024,Zika
+Uttaradit,0,May,Cases,2024,Zika
+ZONE:03,0,May,Cases,2024,Zika
+Chai Nat,0,May,Cases,2024,Zika
+Kamphaeng Phet,0,May,Cases,2024,Zika
+Nakhon Sawan,0,May,Cases,2024,Zika
+Phichit,0,May,Cases,2024,Zika
+Uthai Thani,0,May,Cases,2024,Zika
+ZONE:04,0,May,Cases,2024,Zika
+Ang Thong,0,May,Cases,2024,Zika
+Lop Buri,0,May,Cases,2024,Zika
+Nakhon Nayok,0,May,Cases,2024,Zika
+Nonthaburi,0,May,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,May,Cases,2024,Zika
+Pathum Thani,0,May,Cases,2024,Zika
+Saraburi,0,May,Cases,2024,Zika
+Sing Buri,0,May,Cases,2024,Zika
+ZONE:05,2,May,Cases,2024,Zika
+Kanchanaburi,0,May,Cases,2024,Zika
+Nakhon Pathom,0,May,Cases,2024,Zika
+Phetchaburi,0,May,Cases,2024,Zika
+Prachuap Khiri Khan,1,May,Cases,2024,Zika
+Ratchaburi,0,May,Cases,2024,Zika
+Samut Sakhon,1,May,Cases,2024,Zika
+Samut Songkhram,0,May,Cases,2024,Zika
+Suphan Buri,0,May,Cases,2024,Zika
+ZONE:06,2,May,Cases,2024,Zika
+Chachoengsao,0,May,Cases,2024,Zika
+Chanthaburi,0,May,Cases,2024,Zika
+Chon Buri,2,May,Cases,2024,Zika
+Prachin Buri,0,May,Cases,2024,Zika
+Rayong,0,May,Cases,2024,Zika
+Sa Kaeo,0,May,Cases,2024,Zika
+Samut Prakan,0,May,Cases,2024,Zika
+Trat,0,May,Cases,2024,Zika
+ZONE:07,0,May,Cases,2024,Zika
+Kalasin,0,May,Cases,2024,Zika
+Khon Kaen,0,May,Cases,2024,Zika
+Maha Sarakham,0,May,Cases,2024,Zika
+Roi Et,0,May,Cases,2024,Zika
+ZONE:08,0,May,Cases,2024,Zika
+Bungkan,0,May,Cases,2024,Zika
+Loei,0,May,Cases,2024,Zika
+Nakhon Phanom,0,May,Cases,2024,Zika
+Nong Bua Lam Phu,0,May,Cases,2024,Zika
+Nong Khai,0,May,Cases,2024,Zika
+Sakon Nakhon,0,May,Cases,2024,Zika
+Udon Thani,0,May,Cases,2024,Zika
+ZONE:09,0,May,Cases,2024,Zika
+Buri Ram,0,May,Cases,2024,Zika
+Chaiyaphum,0,May,Cases,2024,Zika
+Nakhon Ratchasima,0,May,Cases,2024,Zika
+Surin,0,May,Cases,2024,Zika
+ZONE:10,0,May,Cases,2024,Zika
+Amnat Charoen,0,May,Cases,2024,Zika
+Mukdahan,0,May,Cases,2024,Zika
+Si Sa Ket,0,May,Cases,2024,Zika
+Ubon Ratchathani,0,May,Cases,2024,Zika
+Yasothon,0,May,Cases,2024,Zika
+ZONE:11,4,May,Cases,2024,Zika
+Chumphon,0,May,Cases,2024,Zika
+Krabi,3,May,Cases,2024,Zika
+Nakhon Si Thammarat,0,May,Cases,2024,Zika
+Phangnga,0,May,Cases,2024,Zika
+Phuket,1,May,Cases,2024,Zika
+Ranong,0,May,Cases,2024,Zika
+Surat Thani,0,May,Cases,2024,Zika
+ZONE:12,1,May,Cases,2024,Zika
+Narathiwat,1,May,Cases,2024,Zika
+Pattani,0,May,Cases,2024,Zika
+Phatthalung,0,May,Cases,2024,Zika
+Satun,0,May,Cases,2024,Zika
+Songkhla,0,May,Cases,2024,Zika
+Trang,0,May,Cases,2024,Zika
+Yala,0,May,Cases,2024,Zika
+ZONE:13,0,May,Cases,2024,Zika
+Bangkok,0,May,Cases,2024,Zika
+Total,0,May,Deaths,2024,Zika
+ZONE:01,0,May,Deaths,2024,Zika
+Chiang Mai,0,May,Deaths,2024,Zika
+Chiang Rai,0,May,Deaths,2024,Zika
+Lampang,0,May,Deaths,2024,Zika
+Lamphun,0,May,Deaths,2024,Zika
+Mae Hong Son,0,May,Deaths,2024,Zika
+Nan,0,May,Deaths,2024,Zika
+Phayao,0,May,Deaths,2024,Zika
+Phrae,0,May,Deaths,2024,Zika
+ZONE:02,0,May,Deaths,2024,Zika
+Phetchabun,0,May,Deaths,2024,Zika
+Phitsanulok,0,May,Deaths,2024,Zika
+Sukhothai,0,May,Deaths,2024,Zika
+Tak,0,May,Deaths,2024,Zika
+Uttaradit,0,May,Deaths,2024,Zika
+ZONE:03,0,May,Deaths,2024,Zika
+Chai Nat,0,May,Deaths,2024,Zika
+Kamphaeng Phet,0,May,Deaths,2024,Zika
+Nakhon Sawan,0,May,Deaths,2024,Zika
+Phichit,0,May,Deaths,2024,Zika
+Uthai Thani,0,May,Deaths,2024,Zika
+ZONE:04,0,May,Deaths,2024,Zika
+Ang Thong,0,May,Deaths,2024,Zika
+Lop Buri,0,May,Deaths,2024,Zika
+Nakhon Nayok,0,May,Deaths,2024,Zika
+Nonthaburi,0,May,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,May,Deaths,2024,Zika
+Pathum Thani,0,May,Deaths,2024,Zika
+Saraburi,0,May,Deaths,2024,Zika
+Sing Buri,0,May,Deaths,2024,Zika
+ZONE:05,0,May,Deaths,2024,Zika
+Kanchanaburi,0,May,Deaths,2024,Zika
+Nakhon Pathom,0,May,Deaths,2024,Zika
+Phetchaburi,0,May,Deaths,2024,Zika
+Prachuap Khiri Khan,0,May,Deaths,2024,Zika
+Ratchaburi,0,May,Deaths,2024,Zika
+Samut Sakhon,0,May,Deaths,2024,Zika
+Samut Songkhram,0,May,Deaths,2024,Zika
+Suphan Buri,0,May,Deaths,2024,Zika
+ZONE:06,0,May,Deaths,2024,Zika
+Chachoengsao,0,May,Deaths,2024,Zika
+Chanthaburi,0,May,Deaths,2024,Zika
+Chon Buri,0,May,Deaths,2024,Zika
+Prachin Buri,0,May,Deaths,2024,Zika
+Rayong,0,May,Deaths,2024,Zika
+Sa Kaeo,0,May,Deaths,2024,Zika
+Samut Prakan,0,May,Deaths,2024,Zika
+Trat,0,May,Deaths,2024,Zika
+ZONE:07,0,May,Deaths,2024,Zika
+Kalasin,0,May,Deaths,2024,Zika
+Khon Kaen,0,May,Deaths,2024,Zika
+Maha Sarakham,0,May,Deaths,2024,Zika
+Roi Et,0,May,Deaths,2024,Zika
+ZONE:08,0,May,Deaths,2024,Zika
+Bungkan,0,May,Deaths,2024,Zika
+Loei,0,May,Deaths,2024,Zika
+Nakhon Phanom,0,May,Deaths,2024,Zika
+Nong Bua Lam Phu,0,May,Deaths,2024,Zika
+Nong Khai,0,May,Deaths,2024,Zika
+Sakon Nakhon,0,May,Deaths,2024,Zika
+Udon Thani,0,May,Deaths,2024,Zika
+ZONE:09,0,May,Deaths,2024,Zika
+Buri Ram,0,May,Deaths,2024,Zika
+Chaiyaphum,0,May,Deaths,2024,Zika
+Nakhon Ratchasima,0,May,Deaths,2024,Zika
+Surin,0,May,Deaths,2024,Zika
+ZONE:10,0,May,Deaths,2024,Zika
+Amnat Charoen,0,May,Deaths,2024,Zika
+Mukdahan,0,May,Deaths,2024,Zika
+Si Sa Ket,0,May,Deaths,2024,Zika
+Ubon Ratchathani,0,May,Deaths,2024,Zika
+Yasothon,0,May,Deaths,2024,Zika
+ZONE:11,0,May,Deaths,2024,Zika
+Chumphon,0,May,Deaths,2024,Zika
+Krabi,0,May,Deaths,2024,Zika
+Nakhon Si Thammarat,0,May,Deaths,2024,Zika
+Phangnga,0,May,Deaths,2024,Zika
+Phuket,0,May,Deaths,2024,Zika
+Ranong,0,May,Deaths,2024,Zika
+Surat Thani,0,May,Deaths,2024,Zika
+ZONE:12,0,May,Deaths,2024,Zika
+Narathiwat,0,May,Deaths,2024,Zika
+Pattani,0,May,Deaths,2024,Zika
+Phatthalung,0,May,Deaths,2024,Zika
+Satun,0,May,Deaths,2024,Zika
+Songkhla,0,May,Deaths,2024,Zika
+Trang,0,May,Deaths,2024,Zika
+Yala,0,May,Deaths,2024,Zika
+ZONE:13,0,May,Deaths,2024,Zika
+Bangkok,0,May,Deaths,2024,Zika
+Total,8,June,Cases,2024,Zika
+ZONE:01,0,June,Cases,2024,Zika
+Chiang Mai,0,June,Cases,2024,Zika
+Chiang Rai,0,June,Cases,2024,Zika
+Lampang,0,June,Cases,2024,Zika
+Lamphun,0,June,Cases,2024,Zika
+Mae Hong Son,0,June,Cases,2024,Zika
+Nan,0,June,Cases,2024,Zika
+Phayao,0,June,Cases,2024,Zika
+Phrae,0,June,Cases,2024,Zika
+ZONE:02,1,June,Cases,2024,Zika
+Phetchabun,0,June,Cases,2024,Zika
+Phitsanulok,0,June,Cases,2024,Zika
+Sukhothai,1,June,Cases,2024,Zika
+Tak,0,June,Cases,2024,Zika
+Uttaradit,0,June,Cases,2024,Zika
+ZONE:03,0,June,Cases,2024,Zika
+Chai Nat,0,June,Cases,2024,Zika
+Kamphaeng Phet,0,June,Cases,2024,Zika
+Nakhon Sawan,0,June,Cases,2024,Zika
+Phichit,0,June,Cases,2024,Zika
+Uthai Thani,0,June,Cases,2024,Zika
+ZONE:04,1,June,Cases,2024,Zika
+Ang Thong,0,June,Cases,2024,Zika
+Lop Buri,0,June,Cases,2024,Zika
+Nakhon Nayok,0,June,Cases,2024,Zika
+Nonthaburi,0,June,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,June,Cases,2024,Zika
+Pathum Thani,0,June,Cases,2024,Zika
+Saraburi,1,June,Cases,2024,Zika
+Sing Buri,0,June,Cases,2024,Zika
+ZONE:05,2,June,Cases,2024,Zika
+Kanchanaburi,0,June,Cases,2024,Zika
+Nakhon Pathom,0,June,Cases,2024,Zika
+Phetchaburi,0,June,Cases,2024,Zika
+Prachuap Khiri Khan,2,June,Cases,2024,Zika
+Ratchaburi,0,June,Cases,2024,Zika
+Samut Sakhon,0,June,Cases,2024,Zika
+Samut Songkhram,0,June,Cases,2024,Zika
+Suphan Buri,0,June,Cases,2024,Zika
+ZONE:06,3,June,Cases,2024,Zika
+Chachoengsao,0,June,Cases,2024,Zika
+Chanthaburi,2,June,Cases,2024,Zika
+Chon Buri,1,June,Cases,2024,Zika
+Prachin Buri,0,June,Cases,2024,Zika
+Rayong,0,June,Cases,2024,Zika
+Sa Kaeo,0,June,Cases,2024,Zika
+Samut Prakan,0,June,Cases,2024,Zika
+Trat,0,June,Cases,2024,Zika
+ZONE:07,0,June,Cases,2024,Zika
+Kalasin,0,June,Cases,2024,Zika
+Khon Kaen,0,June,Cases,2024,Zika
+Maha Sarakham,0,June,Cases,2024,Zika
+Roi Et,0,June,Cases,2024,Zika
+ZONE:08,0,June,Cases,2024,Zika
+Bungkan,0,June,Cases,2024,Zika
+Loei,0,June,Cases,2024,Zika
+Nakhon Phanom,0,June,Cases,2024,Zika
+Nong Bua Lam Phu,0,June,Cases,2024,Zika
+Nong Khai,0,June,Cases,2024,Zika
+Sakon Nakhon,0,June,Cases,2024,Zika
+Udon Thani,0,June,Cases,2024,Zika
+ZONE:09,0,June,Cases,2024,Zika
+Buri Ram,0,June,Cases,2024,Zika
+Chaiyaphum,0,June,Cases,2024,Zika
+Nakhon Ratchasima,0,June,Cases,2024,Zika
+Surin,0,June,Cases,2024,Zika
+ZONE:10,0,June,Cases,2024,Zika
+Amnat Charoen,0,June,Cases,2024,Zika
+Mukdahan,0,June,Cases,2024,Zika
+Si Sa Ket,0,June,Cases,2024,Zika
+Ubon Ratchathani,0,June,Cases,2024,Zika
+Yasothon,0,June,Cases,2024,Zika
+ZONE:11,1,June,Cases,2024,Zika
+Chumphon,0,June,Cases,2024,Zika
+Krabi,1,June,Cases,2024,Zika
+Nakhon Si Thammarat,0,June,Cases,2024,Zika
+Phangnga,0,June,Cases,2024,Zika
+Phuket,0,June,Cases,2024,Zika
+Ranong,0,June,Cases,2024,Zika
+Surat Thani,0,June,Cases,2024,Zika
+ZONE:12,0,June,Cases,2024,Zika
+Narathiwat,0,June,Cases,2024,Zika
+Pattani,0,June,Cases,2024,Zika
+Phatthalung,0,June,Cases,2024,Zika
+Satun,0,June,Cases,2024,Zika
+Songkhla,0,June,Cases,2024,Zika
+Trang,0,June,Cases,2024,Zika
+Yala,0,June,Cases,2024,Zika
+ZONE:13,0,June,Cases,2024,Zika
+Bangkok,0,June,Cases,2024,Zika
+Total,0,June,Deaths,2024,Zika
+ZONE:01,0,June,Deaths,2024,Zika
+Chiang Mai,0,June,Deaths,2024,Zika
+Chiang Rai,0,June,Deaths,2024,Zika
+Lampang,0,June,Deaths,2024,Zika
+Lamphun,0,June,Deaths,2024,Zika
+Mae Hong Son,0,June,Deaths,2024,Zika
+Nan,0,June,Deaths,2024,Zika
+Phayao,0,June,Deaths,2024,Zika
+Phrae,0,June,Deaths,2024,Zika
+ZONE:02,0,June,Deaths,2024,Zika
+Phetchabun,0,June,Deaths,2024,Zika
+Phitsanulok,0,June,Deaths,2024,Zika
+Sukhothai,0,June,Deaths,2024,Zika
+Tak,0,June,Deaths,2024,Zika
+Uttaradit,0,June,Deaths,2024,Zika
+ZONE:03,0,June,Deaths,2024,Zika
+Chai Nat,0,June,Deaths,2024,Zika
+Kamphaeng Phet,0,June,Deaths,2024,Zika
+Nakhon Sawan,0,June,Deaths,2024,Zika
+Phichit,0,June,Deaths,2024,Zika
+Uthai Thani,0,June,Deaths,2024,Zika
+ZONE:04,0,June,Deaths,2024,Zika
+Ang Thong,0,June,Deaths,2024,Zika
+Lop Buri,0,June,Deaths,2024,Zika
+Nakhon Nayok,0,June,Deaths,2024,Zika
+Nonthaburi,0,June,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,June,Deaths,2024,Zika
+Pathum Thani,0,June,Deaths,2024,Zika
+Saraburi,0,June,Deaths,2024,Zika
+Sing Buri,0,June,Deaths,2024,Zika
+ZONE:05,0,June,Deaths,2024,Zika
+Kanchanaburi,0,June,Deaths,2024,Zika
+Nakhon Pathom,0,June,Deaths,2024,Zika
+Phetchaburi,0,June,Deaths,2024,Zika
+Prachuap Khiri Khan,0,June,Deaths,2024,Zika
+Ratchaburi,0,June,Deaths,2024,Zika
+Samut Sakhon,0,June,Deaths,2024,Zika
+Samut Songkhram,0,June,Deaths,2024,Zika
+Suphan Buri,0,June,Deaths,2024,Zika
+ZONE:06,0,June,Deaths,2024,Zika
+Chachoengsao,0,June,Deaths,2024,Zika
+Chanthaburi,0,June,Deaths,2024,Zika
+Chon Buri,0,June,Deaths,2024,Zika
+Prachin Buri,0,June,Deaths,2024,Zika
+Rayong,0,June,Deaths,2024,Zika
+Sa Kaeo,0,June,Deaths,2024,Zika
+Samut Prakan,0,June,Deaths,2024,Zika
+Trat,0,June,Deaths,2024,Zika
+ZONE:07,0,June,Deaths,2024,Zika
+Kalasin,0,June,Deaths,2024,Zika
+Khon Kaen,0,June,Deaths,2024,Zika
+Maha Sarakham,0,June,Deaths,2024,Zika
+Roi Et,0,June,Deaths,2024,Zika
+ZONE:08,0,June,Deaths,2024,Zika
+Bungkan,0,June,Deaths,2024,Zika
+Loei,0,June,Deaths,2024,Zika
+Nakhon Phanom,0,June,Deaths,2024,Zika
+Nong Bua Lam Phu,0,June,Deaths,2024,Zika
+Nong Khai,0,June,Deaths,2024,Zika
+Sakon Nakhon,0,June,Deaths,2024,Zika
+Udon Thani,0,June,Deaths,2024,Zika
+ZONE:09,0,June,Deaths,2024,Zika
+Buri Ram,0,June,Deaths,2024,Zika
+Chaiyaphum,0,June,Deaths,2024,Zika
+Nakhon Ratchasima,0,June,Deaths,2024,Zika
+Surin,0,June,Deaths,2024,Zika
+ZONE:10,0,June,Deaths,2024,Zika
+Amnat Charoen,0,June,Deaths,2024,Zika
+Mukdahan,0,June,Deaths,2024,Zika
+Si Sa Ket,0,June,Deaths,2024,Zika
+Ubon Ratchathani,0,June,Deaths,2024,Zika
+Yasothon,0,June,Deaths,2024,Zika
+ZONE:11,0,June,Deaths,2024,Zika
+Chumphon,0,June,Deaths,2024,Zika
+Krabi,0,June,Deaths,2024,Zika
+Nakhon Si Thammarat,0,June,Deaths,2024,Zika
+Phangnga,0,June,Deaths,2024,Zika
+Phuket,0,June,Deaths,2024,Zika
+Ranong,0,June,Deaths,2024,Zika
+Surat Thani,0,June,Deaths,2024,Zika
+ZONE:12,0,June,Deaths,2024,Zika
+Narathiwat,0,June,Deaths,2024,Zika
+Pattani,0,June,Deaths,2024,Zika
+Phatthalung,0,June,Deaths,2024,Zika
+Satun,0,June,Deaths,2024,Zika
+Songkhla,0,June,Deaths,2024,Zika
+Trang,0,June,Deaths,2024,Zika
+Yala,0,June,Deaths,2024,Zika
+ZONE:13,0,June,Deaths,2024,Zika
+Bangkok,0,June,Deaths,2024,Zika
+Total,0,July,Cases,2024,Zika
+ZONE:01,0,July,Cases,2024,Zika
+Chiang Mai,0,July,Cases,2024,Zika
+Chiang Rai,0,July,Cases,2024,Zika
+Lampang,0,July,Cases,2024,Zika
+Lamphun,0,July,Cases,2024,Zika
+Mae Hong Son,0,July,Cases,2024,Zika
+Nan,0,July,Cases,2024,Zika
+Phayao,0,July,Cases,2024,Zika
+Phrae,0,July,Cases,2024,Zika
+ZONE:02,0,July,Cases,2024,Zika
+Phetchabun,0,July,Cases,2024,Zika
+Phitsanulok,0,July,Cases,2024,Zika
+Sukhothai,0,July,Cases,2024,Zika
+Tak,0,July,Cases,2024,Zika
+Uttaradit,0,July,Cases,2024,Zika
+ZONE:03,0,July,Cases,2024,Zika
+Chai Nat,0,July,Cases,2024,Zika
+Kamphaeng Phet,0,July,Cases,2024,Zika
+Nakhon Sawan,0,July,Cases,2024,Zika
+Phichit,0,July,Cases,2024,Zika
+Uthai Thani,0,July,Cases,2024,Zika
+ZONE:04,0,July,Cases,2024,Zika
+Ang Thong,0,July,Cases,2024,Zika
+Lop Buri,0,July,Cases,2024,Zika
+Nakhon Nayok,0,July,Cases,2024,Zika
+Nonthaburi,0,July,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,July,Cases,2024,Zika
+Pathum Thani,0,July,Cases,2024,Zika
+Saraburi,0,July,Cases,2024,Zika
+Sing Buri,0,July,Cases,2024,Zika
+ZONE:05,0,July,Cases,2024,Zika
+Kanchanaburi,0,July,Cases,2024,Zika
+Nakhon Pathom,0,July,Cases,2024,Zika
+Phetchaburi,0,July,Cases,2024,Zika
+Prachuap Khiri Khan,0,July,Cases,2024,Zika
+Ratchaburi,0,July,Cases,2024,Zika
+Samut Sakhon,0,July,Cases,2024,Zika
+Samut Songkhram,0,July,Cases,2024,Zika
+Suphan Buri,0,July,Cases,2024,Zika
+ZONE:06,0,July,Cases,2024,Zika
+Chachoengsao,0,July,Cases,2024,Zika
+Chanthaburi,0,July,Cases,2024,Zika
+Chon Buri,0,July,Cases,2024,Zika
+Prachin Buri,0,July,Cases,2024,Zika
+Rayong,0,July,Cases,2024,Zika
+Sa Kaeo,0,July,Cases,2024,Zika
+Samut Prakan,0,July,Cases,2024,Zika
+Trat,0,July,Cases,2024,Zika
+ZONE:07,0,July,Cases,2024,Zika
+Kalasin,0,July,Cases,2024,Zika
+Khon Kaen,0,July,Cases,2024,Zika
+Maha Sarakham,0,July,Cases,2024,Zika
+Roi Et,0,July,Cases,2024,Zika
+ZONE:08,0,July,Cases,2024,Zika
+Bungkan,0,July,Cases,2024,Zika
+Loei,0,July,Cases,2024,Zika
+Nakhon Phanom,0,July,Cases,2024,Zika
+Nong Bua Lam Phu,0,July,Cases,2024,Zika
+Nong Khai,0,July,Cases,2024,Zika
+Sakon Nakhon,0,July,Cases,2024,Zika
+Udon Thani,0,July,Cases,2024,Zika
+ZONE:09,0,July,Cases,2024,Zika
+Buri Ram,0,July,Cases,2024,Zika
+Chaiyaphum,0,July,Cases,2024,Zika
+Nakhon Ratchasima,0,July,Cases,2024,Zika
+Surin,0,July,Cases,2024,Zika
+ZONE:10,0,July,Cases,2024,Zika
+Amnat Charoen,0,July,Cases,2024,Zika
+Mukdahan,0,July,Cases,2024,Zika
+Si Sa Ket,0,July,Cases,2024,Zika
+Ubon Ratchathani,0,July,Cases,2024,Zika
+Yasothon,0,July,Cases,2024,Zika
+ZONE:11,0,July,Cases,2024,Zika
+Chumphon,0,July,Cases,2024,Zika
+Krabi,0,July,Cases,2024,Zika
+Nakhon Si Thammarat,0,July,Cases,2024,Zika
+Phangnga,0,July,Cases,2024,Zika
+Phuket,0,July,Cases,2024,Zika
+Ranong,0,July,Cases,2024,Zika
+Surat Thani,0,July,Cases,2024,Zika
+ZONE:12,0,July,Cases,2024,Zika
+Narathiwat,0,July,Cases,2024,Zika
+Pattani,0,July,Cases,2024,Zika
+Phatthalung,0,July,Cases,2024,Zika
+Satun,0,July,Cases,2024,Zika
+Songkhla,0,July,Cases,2024,Zika
+Trang,0,July,Cases,2024,Zika
+Yala,0,July,Cases,2024,Zika
+ZONE:13,0,July,Cases,2024,Zika
+Bangkok,0,July,Cases,2024,Zika
+Total,0,July,Deaths,2024,Zika
+ZONE:01,0,July,Deaths,2024,Zika
+Chiang Mai,0,July,Deaths,2024,Zika
+Chiang Rai,0,July,Deaths,2024,Zika
+Lampang,0,July,Deaths,2024,Zika
+Lamphun,0,July,Deaths,2024,Zika
+Mae Hong Son,0,July,Deaths,2024,Zika
+Nan,0,July,Deaths,2024,Zika
+Phayao,0,July,Deaths,2024,Zika
+Phrae,0,July,Deaths,2024,Zika
+ZONE:02,0,July,Deaths,2024,Zika
+Phetchabun,0,July,Deaths,2024,Zika
+Phitsanulok,0,July,Deaths,2024,Zika
+Sukhothai,0,July,Deaths,2024,Zika
+Tak,0,July,Deaths,2024,Zika
+Uttaradit,0,July,Deaths,2024,Zika
+ZONE:03,0,July,Deaths,2024,Zika
+Chai Nat,0,July,Deaths,2024,Zika
+Kamphaeng Phet,0,July,Deaths,2024,Zika
+Nakhon Sawan,0,July,Deaths,2024,Zika
+Phichit,0,July,Deaths,2024,Zika
+Uthai Thani,0,July,Deaths,2024,Zika
+ZONE:04,0,July,Deaths,2024,Zika
+Ang Thong,0,July,Deaths,2024,Zika
+Lop Buri,0,July,Deaths,2024,Zika
+Nakhon Nayok,0,July,Deaths,2024,Zika
+Nonthaburi,0,July,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,July,Deaths,2024,Zika
+Pathum Thani,0,July,Deaths,2024,Zika
+Saraburi,0,July,Deaths,2024,Zika
+Sing Buri,0,July,Deaths,2024,Zika
+ZONE:05,0,July,Deaths,2024,Zika
+Kanchanaburi,0,July,Deaths,2024,Zika
+Nakhon Pathom,0,July,Deaths,2024,Zika
+Phetchaburi,0,July,Deaths,2024,Zika
+Prachuap Khiri Khan,0,July,Deaths,2024,Zika
+Ratchaburi,0,July,Deaths,2024,Zika
+Samut Sakhon,0,July,Deaths,2024,Zika
+Samut Songkhram,0,July,Deaths,2024,Zika
+Suphan Buri,0,July,Deaths,2024,Zika
+ZONE:06,0,July,Deaths,2024,Zika
+Chachoengsao,0,July,Deaths,2024,Zika
+Chanthaburi,0,July,Deaths,2024,Zika
+Chon Buri,0,July,Deaths,2024,Zika
+Prachin Buri,0,July,Deaths,2024,Zika
+Rayong,0,July,Deaths,2024,Zika
+Sa Kaeo,0,July,Deaths,2024,Zika
+Samut Prakan,0,July,Deaths,2024,Zika
+Trat,0,July,Deaths,2024,Zika
+ZONE:07,0,July,Deaths,2024,Zika
+Kalasin,0,July,Deaths,2024,Zika
+Khon Kaen,0,July,Deaths,2024,Zika
+Maha Sarakham,0,July,Deaths,2024,Zika
+Roi Et,0,July,Deaths,2024,Zika
+ZONE:08,0,July,Deaths,2024,Zika
+Bungkan,0,July,Deaths,2024,Zika
+Loei,0,July,Deaths,2024,Zika
+Nakhon Phanom,0,July,Deaths,2024,Zika
+Nong Bua Lam Phu,0,July,Deaths,2024,Zika
+Nong Khai,0,July,Deaths,2024,Zika
+Sakon Nakhon,0,July,Deaths,2024,Zika
+Udon Thani,0,July,Deaths,2024,Zika
+ZONE:09,0,July,Deaths,2024,Zika
+Buri Ram,0,July,Deaths,2024,Zika
+Chaiyaphum,0,July,Deaths,2024,Zika
+Nakhon Ratchasima,0,July,Deaths,2024,Zika
+Surin,0,July,Deaths,2024,Zika
+ZONE:10,0,July,Deaths,2024,Zika
+Amnat Charoen,0,July,Deaths,2024,Zika
+Mukdahan,0,July,Deaths,2024,Zika
+Si Sa Ket,0,July,Deaths,2024,Zika
+Ubon Ratchathani,0,July,Deaths,2024,Zika
+Yasothon,0,July,Deaths,2024,Zika
+ZONE:11,0,July,Deaths,2024,Zika
+Chumphon,0,July,Deaths,2024,Zika
+Krabi,0,July,Deaths,2024,Zika
+Nakhon Si Thammarat,0,July,Deaths,2024,Zika
+Phangnga,0,July,Deaths,2024,Zika
+Phuket,0,July,Deaths,2024,Zika
+Ranong,0,July,Deaths,2024,Zika
+Surat Thani,0,July,Deaths,2024,Zika
+ZONE:12,0,July,Deaths,2024,Zika
+Narathiwat,0,July,Deaths,2024,Zika
+Pattani,0,July,Deaths,2024,Zika
+Phatthalung,0,July,Deaths,2024,Zika
+Satun,0,July,Deaths,2024,Zika
+Songkhla,0,July,Deaths,2024,Zika
+Trang,0,July,Deaths,2024,Zika
+Yala,0,July,Deaths,2024,Zika
+ZONE:13,0,July,Deaths,2024,Zika
+Bangkok,0,July,Deaths,2024,Zika
+Total,0,Aug,Cases,2024,Zika
+ZONE:01,0,Aug,Cases,2024,Zika
+Chiang Mai,0,Aug,Cases,2024,Zika
+Chiang Rai,0,Aug,Cases,2024,Zika
+Lampang,0,Aug,Cases,2024,Zika
+Lamphun,0,Aug,Cases,2024,Zika
+Mae Hong Son,0,Aug,Cases,2024,Zika
+Nan,0,Aug,Cases,2024,Zika
+Phayao,0,Aug,Cases,2024,Zika
+Phrae,0,Aug,Cases,2024,Zika
+ZONE:02,0,Aug,Cases,2024,Zika
+Phetchabun,0,Aug,Cases,2024,Zika
+Phitsanulok,0,Aug,Cases,2024,Zika
+Sukhothai,0,Aug,Cases,2024,Zika
+Tak,0,Aug,Cases,2024,Zika
+Uttaradit,0,Aug,Cases,2024,Zika
+ZONE:03,0,Aug,Cases,2024,Zika
+Chai Nat,0,Aug,Cases,2024,Zika
+Kamphaeng Phet,0,Aug,Cases,2024,Zika
+Nakhon Sawan,0,Aug,Cases,2024,Zika
+Phichit,0,Aug,Cases,2024,Zika
+Uthai Thani,0,Aug,Cases,2024,Zika
+ZONE:04,0,Aug,Cases,2024,Zika
+Ang Thong,0,Aug,Cases,2024,Zika
+Lop Buri,0,Aug,Cases,2024,Zika
+Nakhon Nayok,0,Aug,Cases,2024,Zika
+Nonthaburi,0,Aug,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,Zika
+Pathum Thani,0,Aug,Cases,2024,Zika
+Saraburi,0,Aug,Cases,2024,Zika
+Sing Buri,0,Aug,Cases,2024,Zika
+ZONE:05,0,Aug,Cases,2024,Zika
+Kanchanaburi,0,Aug,Cases,2024,Zika
+Nakhon Pathom,0,Aug,Cases,2024,Zika
+Phetchaburi,0,Aug,Cases,2024,Zika
+Prachuap Khiri Khan,0,Aug,Cases,2024,Zika
+Ratchaburi,0,Aug,Cases,2024,Zika
+Samut Sakhon,0,Aug,Cases,2024,Zika
+Samut Songkhram,0,Aug,Cases,2024,Zika
+Suphan Buri,0,Aug,Cases,2024,Zika
+ZONE:06,0,Aug,Cases,2024,Zika
+Chachoengsao,0,Aug,Cases,2024,Zika
+Chanthaburi,0,Aug,Cases,2024,Zika
+Chon Buri,0,Aug,Cases,2024,Zika
+Prachin Buri,0,Aug,Cases,2024,Zika
+Rayong,0,Aug,Cases,2024,Zika
+Sa Kaeo,0,Aug,Cases,2024,Zika
+Samut Prakan,0,Aug,Cases,2024,Zika
+Trat,0,Aug,Cases,2024,Zika
+ZONE:07,0,Aug,Cases,2024,Zika
+Kalasin,0,Aug,Cases,2024,Zika
+Khon Kaen,0,Aug,Cases,2024,Zika
+Maha Sarakham,0,Aug,Cases,2024,Zika
+Roi Et,0,Aug,Cases,2024,Zika
+ZONE:08,0,Aug,Cases,2024,Zika
+Bungkan,0,Aug,Cases,2024,Zika
+Loei,0,Aug,Cases,2024,Zika
+Nakhon Phanom,0,Aug,Cases,2024,Zika
+Nong Bua Lam Phu,0,Aug,Cases,2024,Zika
+Nong Khai,0,Aug,Cases,2024,Zika
+Sakon Nakhon,0,Aug,Cases,2024,Zika
+Udon Thani,0,Aug,Cases,2024,Zika
+ZONE:09,0,Aug,Cases,2024,Zika
+Buri Ram,0,Aug,Cases,2024,Zika
+Chaiyaphum,0,Aug,Cases,2024,Zika
+Nakhon Ratchasima,0,Aug,Cases,2024,Zika
+Surin,0,Aug,Cases,2024,Zika
+ZONE:10,0,Aug,Cases,2024,Zika
+Amnat Charoen,0,Aug,Cases,2024,Zika
+Mukdahan,0,Aug,Cases,2024,Zika
+Si Sa Ket,0,Aug,Cases,2024,Zika
+Ubon Ratchathani,0,Aug,Cases,2024,Zika
+Yasothon,0,Aug,Cases,2024,Zika
+ZONE:11,0,Aug,Cases,2024,Zika
+Chumphon,0,Aug,Cases,2024,Zika
+Krabi,0,Aug,Cases,2024,Zika
+Nakhon Si Thammarat,0,Aug,Cases,2024,Zika
+Phangnga,0,Aug,Cases,2024,Zika
+Phuket,0,Aug,Cases,2024,Zika
+Ranong,0,Aug,Cases,2024,Zika
+Surat Thani,0,Aug,Cases,2024,Zika
+ZONE:12,0,Aug,Cases,2024,Zika
+Narathiwat,0,Aug,Cases,2024,Zika
+Pattani,0,Aug,Cases,2024,Zika
+Phatthalung,0,Aug,Cases,2024,Zika
+Satun,0,Aug,Cases,2024,Zika
+Songkhla,0,Aug,Cases,2024,Zika
+Trang,0,Aug,Cases,2024,Zika
+Yala,0,Aug,Cases,2024,Zika
+ZONE:13,0,Aug,Cases,2024,Zika
+Bangkok,0,Aug,Cases,2024,Zika
+Total,0,Aug,Deaths,2024,Zika
+ZONE:01,0,Aug,Deaths,2024,Zika
+Chiang Mai,0,Aug,Deaths,2024,Zika
+Chiang Rai,0,Aug,Deaths,2024,Zika
+Lampang,0,Aug,Deaths,2024,Zika
+Lamphun,0,Aug,Deaths,2024,Zika
+Mae Hong Son,0,Aug,Deaths,2024,Zika
+Nan,0,Aug,Deaths,2024,Zika
+Phayao,0,Aug,Deaths,2024,Zika
+Phrae,0,Aug,Deaths,2024,Zika
+ZONE:02,0,Aug,Deaths,2024,Zika
+Phetchabun,0,Aug,Deaths,2024,Zika
+Phitsanulok,0,Aug,Deaths,2024,Zika
+Sukhothai,0,Aug,Deaths,2024,Zika
+Tak,0,Aug,Deaths,2024,Zika
+Uttaradit,0,Aug,Deaths,2024,Zika
+ZONE:03,0,Aug,Deaths,2024,Zika
+Chai Nat,0,Aug,Deaths,2024,Zika
+Kamphaeng Phet,0,Aug,Deaths,2024,Zika
+Nakhon Sawan,0,Aug,Deaths,2024,Zika
+Phichit,0,Aug,Deaths,2024,Zika
+Uthai Thani,0,Aug,Deaths,2024,Zika
+ZONE:04,0,Aug,Deaths,2024,Zika
+Ang Thong,0,Aug,Deaths,2024,Zika
+Lop Buri,0,Aug,Deaths,2024,Zika
+Nakhon Nayok,0,Aug,Deaths,2024,Zika
+Nonthaburi,0,Aug,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Aug,Deaths,2024,Zika
+Pathum Thani,0,Aug,Deaths,2024,Zika
+Saraburi,0,Aug,Deaths,2024,Zika
+Sing Buri,0,Aug,Deaths,2024,Zika
+ZONE:05,0,Aug,Deaths,2024,Zika
+Kanchanaburi,0,Aug,Deaths,2024,Zika
+Nakhon Pathom,0,Aug,Deaths,2024,Zika
+Phetchaburi,0,Aug,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Aug,Deaths,2024,Zika
+Ratchaburi,0,Aug,Deaths,2024,Zika
+Samut Sakhon,0,Aug,Deaths,2024,Zika
+Samut Songkhram,0,Aug,Deaths,2024,Zika
+Suphan Buri,0,Aug,Deaths,2024,Zika
+ZONE:06,0,Aug,Deaths,2024,Zika
+Chachoengsao,0,Aug,Deaths,2024,Zika
+Chanthaburi,0,Aug,Deaths,2024,Zika
+Chon Buri,0,Aug,Deaths,2024,Zika
+Prachin Buri,0,Aug,Deaths,2024,Zika
+Rayong,0,Aug,Deaths,2024,Zika
+Sa Kaeo,0,Aug,Deaths,2024,Zika
+Samut Prakan,0,Aug,Deaths,2024,Zika
+Trat,0,Aug,Deaths,2024,Zika
+ZONE:07,0,Aug,Deaths,2024,Zika
+Kalasin,0,Aug,Deaths,2024,Zika
+Khon Kaen,0,Aug,Deaths,2024,Zika
+Maha Sarakham,0,Aug,Deaths,2024,Zika
+Roi Et,0,Aug,Deaths,2024,Zika
+ZONE:08,0,Aug,Deaths,2024,Zika
+Bungkan,0,Aug,Deaths,2024,Zika
+Loei,0,Aug,Deaths,2024,Zika
+Nakhon Phanom,0,Aug,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Aug,Deaths,2024,Zika
+Nong Khai,0,Aug,Deaths,2024,Zika
+Sakon Nakhon,0,Aug,Deaths,2024,Zika
+Udon Thani,0,Aug,Deaths,2024,Zika
+ZONE:09,0,Aug,Deaths,2024,Zika
+Buri Ram,0,Aug,Deaths,2024,Zika
+Chaiyaphum,0,Aug,Deaths,2024,Zika
+Nakhon Ratchasima,0,Aug,Deaths,2024,Zika
+Surin,0,Aug,Deaths,2024,Zika
+ZONE:10,0,Aug,Deaths,2024,Zika
+Amnat Charoen,0,Aug,Deaths,2024,Zika
+Mukdahan,0,Aug,Deaths,2024,Zika
+Si Sa Ket,0,Aug,Deaths,2024,Zika
+Ubon Ratchathani,0,Aug,Deaths,2024,Zika
+Yasothon,0,Aug,Deaths,2024,Zika
+ZONE:11,0,Aug,Deaths,2024,Zika
+Chumphon,0,Aug,Deaths,2024,Zika
+Krabi,0,Aug,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Aug,Deaths,2024,Zika
+Phangnga,0,Aug,Deaths,2024,Zika
+Phuket,0,Aug,Deaths,2024,Zika
+Ranong,0,Aug,Deaths,2024,Zika
+Surat Thani,0,Aug,Deaths,2024,Zika
+ZONE:12,0,Aug,Deaths,2024,Zika
+Narathiwat,0,Aug,Deaths,2024,Zika
+Pattani,0,Aug,Deaths,2024,Zika
+Phatthalung,0,Aug,Deaths,2024,Zika
+Satun,0,Aug,Deaths,2024,Zika
+Songkhla,0,Aug,Deaths,2024,Zika
+Trang,0,Aug,Deaths,2024,Zika
+Yala,0,Aug,Deaths,2024,Zika
+ZONE:13,0,Aug,Deaths,2024,Zika
+Bangkok,0,Aug,Deaths,2024,Zika
+Total,0,Sept,Cases,2024,Zika
+ZONE:01,0,Sept,Cases,2024,Zika
+Chiang Mai,0,Sept,Cases,2024,Zika
+Chiang Rai,0,Sept,Cases,2024,Zika
+Lampang,0,Sept,Cases,2024,Zika
+Lamphun,0,Sept,Cases,2024,Zika
+Mae Hong Son,0,Sept,Cases,2024,Zika
+Nan,0,Sept,Cases,2024,Zika
+Phayao,0,Sept,Cases,2024,Zika
+Phrae,0,Sept,Cases,2024,Zika
+ZONE:02,0,Sept,Cases,2024,Zika
+Phetchabun,0,Sept,Cases,2024,Zika
+Phitsanulok,0,Sept,Cases,2024,Zika
+Sukhothai,0,Sept,Cases,2024,Zika
+Tak,0,Sept,Cases,2024,Zika
+Uttaradit,0,Sept,Cases,2024,Zika
+ZONE:03,0,Sept,Cases,2024,Zika
+Chai Nat,0,Sept,Cases,2024,Zika
+Kamphaeng Phet,0,Sept,Cases,2024,Zika
+Nakhon Sawan,0,Sept,Cases,2024,Zika
+Phichit,0,Sept,Cases,2024,Zika
+Uthai Thani,0,Sept,Cases,2024,Zika
+ZONE:04,0,Sept,Cases,2024,Zika
+Ang Thong,0,Sept,Cases,2024,Zika
+Lop Buri,0,Sept,Cases,2024,Zika
+Nakhon Nayok,0,Sept,Cases,2024,Zika
+Nonthaburi,0,Sept,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Sept,Cases,2024,Zika
+Pathum Thani,0,Sept,Cases,2024,Zika
+Saraburi,0,Sept,Cases,2024,Zika
+Sing Buri,0,Sept,Cases,2024,Zika
+ZONE:05,0,Sept,Cases,2024,Zika
+Kanchanaburi,0,Sept,Cases,2024,Zika
+Nakhon Pathom,0,Sept,Cases,2024,Zika
+Phetchaburi,0,Sept,Cases,2024,Zika
+Prachuap Khiri Khan,0,Sept,Cases,2024,Zika
+Ratchaburi,0,Sept,Cases,2024,Zika
+Samut Sakhon,0,Sept,Cases,2024,Zika
+Samut Songkhram,0,Sept,Cases,2024,Zika
+Suphan Buri,0,Sept,Cases,2024,Zika
+ZONE:06,0,Sept,Cases,2024,Zika
+Chachoengsao,0,Sept,Cases,2024,Zika
+Chanthaburi,0,Sept,Cases,2024,Zika
+Chon Buri,0,Sept,Cases,2024,Zika
+Prachin Buri,0,Sept,Cases,2024,Zika
+Rayong,0,Sept,Cases,2024,Zika
+Sa Kaeo,0,Sept,Cases,2024,Zika
+Samut Prakan,0,Sept,Cases,2024,Zika
+Trat,0,Sept,Cases,2024,Zika
+ZONE:07,0,Sept,Cases,2024,Zika
+Kalasin,0,Sept,Cases,2024,Zika
+Khon Kaen,0,Sept,Cases,2024,Zika
+Maha Sarakham,0,Sept,Cases,2024,Zika
+Roi Et,0,Sept,Cases,2024,Zika
+ZONE:08,0,Sept,Cases,2024,Zika
+Bungkan,0,Sept,Cases,2024,Zika
+Loei,0,Sept,Cases,2024,Zika
+Nakhon Phanom,0,Sept,Cases,2024,Zika
+Nong Bua Lam Phu,0,Sept,Cases,2024,Zika
+Nong Khai,0,Sept,Cases,2024,Zika
+Sakon Nakhon,0,Sept,Cases,2024,Zika
+Udon Thani,0,Sept,Cases,2024,Zika
+ZONE:09,0,Sept,Cases,2024,Zika
+Buri Ram,0,Sept,Cases,2024,Zika
+Chaiyaphum,0,Sept,Cases,2024,Zika
+Nakhon Ratchasima,0,Sept,Cases,2024,Zika
+Surin,0,Sept,Cases,2024,Zika
+ZONE:10,0,Sept,Cases,2024,Zika
+Amnat Charoen,0,Sept,Cases,2024,Zika
+Mukdahan,0,Sept,Cases,2024,Zika
+Si Sa Ket,0,Sept,Cases,2024,Zika
+Ubon Ratchathani,0,Sept,Cases,2024,Zika
+Yasothon,0,Sept,Cases,2024,Zika
+ZONE:11,0,Sept,Cases,2024,Zika
+Chumphon,0,Sept,Cases,2024,Zika
+Krabi,0,Sept,Cases,2024,Zika
+Nakhon Si Thammarat,0,Sept,Cases,2024,Zika
+Phangnga,0,Sept,Cases,2024,Zika
+Phuket,0,Sept,Cases,2024,Zika
+Ranong,0,Sept,Cases,2024,Zika
+Surat Thani,0,Sept,Cases,2024,Zika
+ZONE:12,0,Sept,Cases,2024,Zika
+Narathiwat,0,Sept,Cases,2024,Zika
+Pattani,0,Sept,Cases,2024,Zika
+Phatthalung,0,Sept,Cases,2024,Zika
+Satun,0,Sept,Cases,2024,Zika
+Songkhla,0,Sept,Cases,2024,Zika
+Trang,0,Sept,Cases,2024,Zika
+Yala,0,Sept,Cases,2024,Zika
+ZONE:13,0,Sept,Cases,2024,Zika
+Bangkok,0,Sept,Cases,2024,Zika
+Total,0,Sept,Deaths,2024,Zika
+ZONE:01,0,Sept,Deaths,2024,Zika
+Chiang Mai,0,Sept,Deaths,2024,Zika
+Chiang Rai,0,Sept,Deaths,2024,Zika
+Lampang,0,Sept,Deaths,2024,Zika
+Lamphun,0,Sept,Deaths,2024,Zika
+Mae Hong Son,0,Sept,Deaths,2024,Zika
+Nan,0,Sept,Deaths,2024,Zika
+Phayao,0,Sept,Deaths,2024,Zika
+Phrae,0,Sept,Deaths,2024,Zika
+ZONE:02,0,Sept,Deaths,2024,Zika
+Phetchabun,0,Sept,Deaths,2024,Zika
+Phitsanulok,0,Sept,Deaths,2024,Zika
+Sukhothai,0,Sept,Deaths,2024,Zika
+Tak,0,Sept,Deaths,2024,Zika
+Uttaradit,0,Sept,Deaths,2024,Zika
+ZONE:03,0,Sept,Deaths,2024,Zika
+Chai Nat,0,Sept,Deaths,2024,Zika
+Kamphaeng Phet,0,Sept,Deaths,2024,Zika
+Nakhon Sawan,0,Sept,Deaths,2024,Zika
+Phichit,0,Sept,Deaths,2024,Zika
+Uthai Thani,0,Sept,Deaths,2024,Zika
+ZONE:04,0,Sept,Deaths,2024,Zika
+Ang Thong,0,Sept,Deaths,2024,Zika
+Lop Buri,0,Sept,Deaths,2024,Zika
+Nakhon Nayok,0,Sept,Deaths,2024,Zika
+Nonthaburi,0,Sept,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Sept,Deaths,2024,Zika
+Pathum Thani,0,Sept,Deaths,2024,Zika
+Saraburi,0,Sept,Deaths,2024,Zika
+Sing Buri,0,Sept,Deaths,2024,Zika
+ZONE:05,0,Sept,Deaths,2024,Zika
+Kanchanaburi,0,Sept,Deaths,2024,Zika
+Nakhon Pathom,0,Sept,Deaths,2024,Zika
+Phetchaburi,0,Sept,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Sept,Deaths,2024,Zika
+Ratchaburi,0,Sept,Deaths,2024,Zika
+Samut Sakhon,0,Sept,Deaths,2024,Zika
+Samut Songkhram,0,Sept,Deaths,2024,Zika
+Suphan Buri,0,Sept,Deaths,2024,Zika
+ZONE:06,0,Sept,Deaths,2024,Zika
+Chachoengsao,0,Sept,Deaths,2024,Zika
+Chanthaburi,0,Sept,Deaths,2024,Zika
+Chon Buri,0,Sept,Deaths,2024,Zika
+Prachin Buri,0,Sept,Deaths,2024,Zika
+Rayong,0,Sept,Deaths,2024,Zika
+Sa Kaeo,0,Sept,Deaths,2024,Zika
+Samut Prakan,0,Sept,Deaths,2024,Zika
+Trat,0,Sept,Deaths,2024,Zika
+ZONE:07,0,Sept,Deaths,2024,Zika
+Kalasin,0,Sept,Deaths,2024,Zika
+Khon Kaen,0,Sept,Deaths,2024,Zika
+Maha Sarakham,0,Sept,Deaths,2024,Zika
+Roi Et,0,Sept,Deaths,2024,Zika
+ZONE:08,0,Sept,Deaths,2024,Zika
+Bungkan,0,Sept,Deaths,2024,Zika
+Loei,0,Sept,Deaths,2024,Zika
+Nakhon Phanom,0,Sept,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Sept,Deaths,2024,Zika
+Nong Khai,0,Sept,Deaths,2024,Zika
+Sakon Nakhon,0,Sept,Deaths,2024,Zika
+Udon Thani,0,Sept,Deaths,2024,Zika
+ZONE:09,0,Sept,Deaths,2024,Zika
+Buri Ram,0,Sept,Deaths,2024,Zika
+Chaiyaphum,0,Sept,Deaths,2024,Zika
+Nakhon Ratchasima,0,Sept,Deaths,2024,Zika
+Surin,0,Sept,Deaths,2024,Zika
+ZONE:10,0,Sept,Deaths,2024,Zika
+Amnat Charoen,0,Sept,Deaths,2024,Zika
+Mukdahan,0,Sept,Deaths,2024,Zika
+Si Sa Ket,0,Sept,Deaths,2024,Zika
+Ubon Ratchathani,0,Sept,Deaths,2024,Zika
+Yasothon,0,Sept,Deaths,2024,Zika
+ZONE:11,0,Sept,Deaths,2024,Zika
+Chumphon,0,Sept,Deaths,2024,Zika
+Krabi,0,Sept,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Sept,Deaths,2024,Zika
+Phangnga,0,Sept,Deaths,2024,Zika
+Phuket,0,Sept,Deaths,2024,Zika
+Ranong,0,Sept,Deaths,2024,Zika
+Surat Thani,0,Sept,Deaths,2024,Zika
+ZONE:12,0,Sept,Deaths,2024,Zika
+Narathiwat,0,Sept,Deaths,2024,Zika
+Pattani,0,Sept,Deaths,2024,Zika
+Phatthalung,0,Sept,Deaths,2024,Zika
+Satun,0,Sept,Deaths,2024,Zika
+Songkhla,0,Sept,Deaths,2024,Zika
+Trang,0,Sept,Deaths,2024,Zika
+Yala,0,Sept,Deaths,2024,Zika
+ZONE:13,0,Sept,Deaths,2024,Zika
+Bangkok,0,Sept,Deaths,2024,Zika
+Total,0,Oct,Cases,2024,Zika
+ZONE:01,0,Oct,Cases,2024,Zika
+Chiang Mai,0,Oct,Cases,2024,Zika
+Chiang Rai,0,Oct,Cases,2024,Zika
+Lampang,0,Oct,Cases,2024,Zika
+Lamphun,0,Oct,Cases,2024,Zika
+Mae Hong Son,0,Oct,Cases,2024,Zika
+Nan,0,Oct,Cases,2024,Zika
+Phayao,0,Oct,Cases,2024,Zika
+Phrae,0,Oct,Cases,2024,Zika
+ZONE:02,0,Oct,Cases,2024,Zika
+Phetchabun,0,Oct,Cases,2024,Zika
+Phitsanulok,0,Oct,Cases,2024,Zika
+Sukhothai,0,Oct,Cases,2024,Zika
+Tak,0,Oct,Cases,2024,Zika
+Uttaradit,0,Oct,Cases,2024,Zika
+ZONE:03,0,Oct,Cases,2024,Zika
+Chai Nat,0,Oct,Cases,2024,Zika
+Kamphaeng Phet,0,Oct,Cases,2024,Zika
+Nakhon Sawan,0,Oct,Cases,2024,Zika
+Phichit,0,Oct,Cases,2024,Zika
+Uthai Thani,0,Oct,Cases,2024,Zika
+ZONE:04,0,Oct,Cases,2024,Zika
+Ang Thong,0,Oct,Cases,2024,Zika
+Lop Buri,0,Oct,Cases,2024,Zika
+Nakhon Nayok,0,Oct,Cases,2024,Zika
+Nonthaburi,0,Oct,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Oct,Cases,2024,Zika
+Pathum Thani,0,Oct,Cases,2024,Zika
+Saraburi,0,Oct,Cases,2024,Zika
+Sing Buri,0,Oct,Cases,2024,Zika
+ZONE:05,0,Oct,Cases,2024,Zika
+Kanchanaburi,0,Oct,Cases,2024,Zika
+Nakhon Pathom,0,Oct,Cases,2024,Zika
+Phetchaburi,0,Oct,Cases,2024,Zika
+Prachuap Khiri Khan,0,Oct,Cases,2024,Zika
+Ratchaburi,0,Oct,Cases,2024,Zika
+Samut Sakhon,0,Oct,Cases,2024,Zika
+Samut Songkhram,0,Oct,Cases,2024,Zika
+Suphan Buri,0,Oct,Cases,2024,Zika
+ZONE:06,0,Oct,Cases,2024,Zika
+Chachoengsao,0,Oct,Cases,2024,Zika
+Chanthaburi,0,Oct,Cases,2024,Zika
+Chon Buri,0,Oct,Cases,2024,Zika
+Prachin Buri,0,Oct,Cases,2024,Zika
+Rayong,0,Oct,Cases,2024,Zika
+Sa Kaeo,0,Oct,Cases,2024,Zika
+Samut Prakan,0,Oct,Cases,2024,Zika
+Trat,0,Oct,Cases,2024,Zika
+ZONE:07,0,Oct,Cases,2024,Zika
+Kalasin,0,Oct,Cases,2024,Zika
+Khon Kaen,0,Oct,Cases,2024,Zika
+Maha Sarakham,0,Oct,Cases,2024,Zika
+Roi Et,0,Oct,Cases,2024,Zika
+ZONE:08,0,Oct,Cases,2024,Zika
+Bungkan,0,Oct,Cases,2024,Zika
+Loei,0,Oct,Cases,2024,Zika
+Nakhon Phanom,0,Oct,Cases,2024,Zika
+Nong Bua Lam Phu,0,Oct,Cases,2024,Zika
+Nong Khai,0,Oct,Cases,2024,Zika
+Sakon Nakhon,0,Oct,Cases,2024,Zika
+Udon Thani,0,Oct,Cases,2024,Zika
+ZONE:09,0,Oct,Cases,2024,Zika
+Buri Ram,0,Oct,Cases,2024,Zika
+Chaiyaphum,0,Oct,Cases,2024,Zika
+Nakhon Ratchasima,0,Oct,Cases,2024,Zika
+Surin,0,Oct,Cases,2024,Zika
+ZONE:10,0,Oct,Cases,2024,Zika
+Amnat Charoen,0,Oct,Cases,2024,Zika
+Mukdahan,0,Oct,Cases,2024,Zika
+Si Sa Ket,0,Oct,Cases,2024,Zika
+Ubon Ratchathani,0,Oct,Cases,2024,Zika
+Yasothon,0,Oct,Cases,2024,Zika
+ZONE:11,0,Oct,Cases,2024,Zika
+Chumphon,0,Oct,Cases,2024,Zika
+Krabi,0,Oct,Cases,2024,Zika
+Nakhon Si Thammarat,0,Oct,Cases,2024,Zika
+Phangnga,0,Oct,Cases,2024,Zika
+Phuket,0,Oct,Cases,2024,Zika
+Ranong,0,Oct,Cases,2024,Zika
+Surat Thani,0,Oct,Cases,2024,Zika
+ZONE:12,0,Oct,Cases,2024,Zika
+Narathiwat,0,Oct,Cases,2024,Zika
+Pattani,0,Oct,Cases,2024,Zika
+Phatthalung,0,Oct,Cases,2024,Zika
+Satun,0,Oct,Cases,2024,Zika
+Songkhla,0,Oct,Cases,2024,Zika
+Trang,0,Oct,Cases,2024,Zika
+Yala,0,Oct,Cases,2024,Zika
+ZONE:13,0,Oct,Cases,2024,Zika
+Bangkok,0,Oct,Cases,2024,Zika
+Total,0,Oct,Deaths,2024,Zika
+ZONE:01,0,Oct,Deaths,2024,Zika
+Chiang Mai,0,Oct,Deaths,2024,Zika
+Chiang Rai,0,Oct,Deaths,2024,Zika
+Lampang,0,Oct,Deaths,2024,Zika
+Lamphun,0,Oct,Deaths,2024,Zika
+Mae Hong Son,0,Oct,Deaths,2024,Zika
+Nan,0,Oct,Deaths,2024,Zika
+Phayao,0,Oct,Deaths,2024,Zika
+Phrae,0,Oct,Deaths,2024,Zika
+ZONE:02,0,Oct,Deaths,2024,Zika
+Phetchabun,0,Oct,Deaths,2024,Zika
+Phitsanulok,0,Oct,Deaths,2024,Zika
+Sukhothai,0,Oct,Deaths,2024,Zika
+Tak,0,Oct,Deaths,2024,Zika
+Uttaradit,0,Oct,Deaths,2024,Zika
+ZONE:03,0,Oct,Deaths,2024,Zika
+Chai Nat,0,Oct,Deaths,2024,Zika
+Kamphaeng Phet,0,Oct,Deaths,2024,Zika
+Nakhon Sawan,0,Oct,Deaths,2024,Zika
+Phichit,0,Oct,Deaths,2024,Zika
+Uthai Thani,0,Oct,Deaths,2024,Zika
+ZONE:04,0,Oct,Deaths,2024,Zika
+Ang Thong,0,Oct,Deaths,2024,Zika
+Lop Buri,0,Oct,Deaths,2024,Zika
+Nakhon Nayok,0,Oct,Deaths,2024,Zika
+Nonthaburi,0,Oct,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Oct,Deaths,2024,Zika
+Pathum Thani,0,Oct,Deaths,2024,Zika
+Saraburi,0,Oct,Deaths,2024,Zika
+Sing Buri,0,Oct,Deaths,2024,Zika
+ZONE:05,0,Oct,Deaths,2024,Zika
+Kanchanaburi,0,Oct,Deaths,2024,Zika
+Nakhon Pathom,0,Oct,Deaths,2024,Zika
+Phetchaburi,0,Oct,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Oct,Deaths,2024,Zika
+Ratchaburi,0,Oct,Deaths,2024,Zika
+Samut Sakhon,0,Oct,Deaths,2024,Zika
+Samut Songkhram,0,Oct,Deaths,2024,Zika
+Suphan Buri,0,Oct,Deaths,2024,Zika
+ZONE:06,0,Oct,Deaths,2024,Zika
+Chachoengsao,0,Oct,Deaths,2024,Zika
+Chanthaburi,0,Oct,Deaths,2024,Zika
+Chon Buri,0,Oct,Deaths,2024,Zika
+Prachin Buri,0,Oct,Deaths,2024,Zika
+Rayong,0,Oct,Deaths,2024,Zika
+Sa Kaeo,0,Oct,Deaths,2024,Zika
+Samut Prakan,0,Oct,Deaths,2024,Zika
+Trat,0,Oct,Deaths,2024,Zika
+ZONE:07,0,Oct,Deaths,2024,Zika
+Kalasin,0,Oct,Deaths,2024,Zika
+Khon Kaen,0,Oct,Deaths,2024,Zika
+Maha Sarakham,0,Oct,Deaths,2024,Zika
+Roi Et,0,Oct,Deaths,2024,Zika
+ZONE:08,0,Oct,Deaths,2024,Zika
+Bungkan,0,Oct,Deaths,2024,Zika
+Loei,0,Oct,Deaths,2024,Zika
+Nakhon Phanom,0,Oct,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Oct,Deaths,2024,Zika
+Nong Khai,0,Oct,Deaths,2024,Zika
+Sakon Nakhon,0,Oct,Deaths,2024,Zika
+Udon Thani,0,Oct,Deaths,2024,Zika
+ZONE:09,0,Oct,Deaths,2024,Zika
+Buri Ram,0,Oct,Deaths,2024,Zika
+Chaiyaphum,0,Oct,Deaths,2024,Zika
+Nakhon Ratchasima,0,Oct,Deaths,2024,Zika
+Surin,0,Oct,Deaths,2024,Zika
+ZONE:10,0,Oct,Deaths,2024,Zika
+Amnat Charoen,0,Oct,Deaths,2024,Zika
+Mukdahan,0,Oct,Deaths,2024,Zika
+Si Sa Ket,0,Oct,Deaths,2024,Zika
+Ubon Ratchathani,0,Oct,Deaths,2024,Zika
+Yasothon,0,Oct,Deaths,2024,Zika
+ZONE:11,0,Oct,Deaths,2024,Zika
+Chumphon,0,Oct,Deaths,2024,Zika
+Krabi,0,Oct,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Oct,Deaths,2024,Zika
+Phangnga,0,Oct,Deaths,2024,Zika
+Phuket,0,Oct,Deaths,2024,Zika
+Ranong,0,Oct,Deaths,2024,Zika
+Surat Thani,0,Oct,Deaths,2024,Zika
+ZONE:12,0,Oct,Deaths,2024,Zika
+Narathiwat,0,Oct,Deaths,2024,Zika
+Pattani,0,Oct,Deaths,2024,Zika
+Phatthalung,0,Oct,Deaths,2024,Zika
+Satun,0,Oct,Deaths,2024,Zika
+Songkhla,0,Oct,Deaths,2024,Zika
+Trang,0,Oct,Deaths,2024,Zika
+Yala,0,Oct,Deaths,2024,Zika
+ZONE:13,0,Oct,Deaths,2024,Zika
+Bangkok,0,Oct,Deaths,2024,Zika
+Total,0,Nov,Cases,2024,Zika
+ZONE:01,0,Nov,Cases,2024,Zika
+Chiang Mai,0,Nov,Cases,2024,Zika
+Chiang Rai,0,Nov,Cases,2024,Zika
+Lampang,0,Nov,Cases,2024,Zika
+Lamphun,0,Nov,Cases,2024,Zika
+Mae Hong Son,0,Nov,Cases,2024,Zika
+Nan,0,Nov,Cases,2024,Zika
+Phayao,0,Nov,Cases,2024,Zika
+Phrae,0,Nov,Cases,2024,Zika
+ZONE:02,0,Nov,Cases,2024,Zika
+Phetchabun,0,Nov,Cases,2024,Zika
+Phitsanulok,0,Nov,Cases,2024,Zika
+Sukhothai,0,Nov,Cases,2024,Zika
+Tak,0,Nov,Cases,2024,Zika
+Uttaradit,0,Nov,Cases,2024,Zika
+ZONE:03,0,Nov,Cases,2024,Zika
+Chai Nat,0,Nov,Cases,2024,Zika
+Kamphaeng Phet,0,Nov,Cases,2024,Zika
+Nakhon Sawan,0,Nov,Cases,2024,Zika
+Phichit,0,Nov,Cases,2024,Zika
+Uthai Thani,0,Nov,Cases,2024,Zika
+ZONE:04,0,Nov,Cases,2024,Zika
+Ang Thong,0,Nov,Cases,2024,Zika
+Lop Buri,0,Nov,Cases,2024,Zika
+Nakhon Nayok,0,Nov,Cases,2024,Zika
+Nonthaburi,0,Nov,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Nov,Cases,2024,Zika
+Pathum Thani,0,Nov,Cases,2024,Zika
+Saraburi,0,Nov,Cases,2024,Zika
+Sing Buri,0,Nov,Cases,2024,Zika
+ZONE:05,0,Nov,Cases,2024,Zika
+Kanchanaburi,0,Nov,Cases,2024,Zika
+Nakhon Pathom,0,Nov,Cases,2024,Zika
+Phetchaburi,0,Nov,Cases,2024,Zika
+Prachuap Khiri Khan,0,Nov,Cases,2024,Zika
+Ratchaburi,0,Nov,Cases,2024,Zika
+Samut Sakhon,0,Nov,Cases,2024,Zika
+Samut Songkhram,0,Nov,Cases,2024,Zika
+Suphan Buri,0,Nov,Cases,2024,Zika
+ZONE:06,0,Nov,Cases,2024,Zika
+Chachoengsao,0,Nov,Cases,2024,Zika
+Chanthaburi,0,Nov,Cases,2024,Zika
+Chon Buri,0,Nov,Cases,2024,Zika
+Prachin Buri,0,Nov,Cases,2024,Zika
+Rayong,0,Nov,Cases,2024,Zika
+Sa Kaeo,0,Nov,Cases,2024,Zika
+Samut Prakan,0,Nov,Cases,2024,Zika
+Trat,0,Nov,Cases,2024,Zika
+ZONE:07,0,Nov,Cases,2024,Zika
+Kalasin,0,Nov,Cases,2024,Zika
+Khon Kaen,0,Nov,Cases,2024,Zika
+Maha Sarakham,0,Nov,Cases,2024,Zika
+Roi Et,0,Nov,Cases,2024,Zika
+ZONE:08,0,Nov,Cases,2024,Zika
+Bungkan,0,Nov,Cases,2024,Zika
+Loei,0,Nov,Cases,2024,Zika
+Nakhon Phanom,0,Nov,Cases,2024,Zika
+Nong Bua Lam Phu,0,Nov,Cases,2024,Zika
+Nong Khai,0,Nov,Cases,2024,Zika
+Sakon Nakhon,0,Nov,Cases,2024,Zika
+Udon Thani,0,Nov,Cases,2024,Zika
+ZONE:09,0,Nov,Cases,2024,Zika
+Buri Ram,0,Nov,Cases,2024,Zika
+Chaiyaphum,0,Nov,Cases,2024,Zika
+Nakhon Ratchasima,0,Nov,Cases,2024,Zika
+Surin,0,Nov,Cases,2024,Zika
+ZONE:10,0,Nov,Cases,2024,Zika
+Amnat Charoen,0,Nov,Cases,2024,Zika
+Mukdahan,0,Nov,Cases,2024,Zika
+Si Sa Ket,0,Nov,Cases,2024,Zika
+Ubon Ratchathani,0,Nov,Cases,2024,Zika
+Yasothon,0,Nov,Cases,2024,Zika
+ZONE:11,0,Nov,Cases,2024,Zika
+Chumphon,0,Nov,Cases,2024,Zika
+Krabi,0,Nov,Cases,2024,Zika
+Nakhon Si Thammarat,0,Nov,Cases,2024,Zika
+Phangnga,0,Nov,Cases,2024,Zika
+Phuket,0,Nov,Cases,2024,Zika
+Ranong,0,Nov,Cases,2024,Zika
+Surat Thani,0,Nov,Cases,2024,Zika
+ZONE:12,0,Nov,Cases,2024,Zika
+Narathiwat,0,Nov,Cases,2024,Zika
+Pattani,0,Nov,Cases,2024,Zika
+Phatthalung,0,Nov,Cases,2024,Zika
+Satun,0,Nov,Cases,2024,Zika
+Songkhla,0,Nov,Cases,2024,Zika
+Trang,0,Nov,Cases,2024,Zika
+Yala,0,Nov,Cases,2024,Zika
+ZONE:13,0,Nov,Cases,2024,Zika
+Bangkok,0,Nov,Cases,2024,Zika
+Total,0,Nov,Deaths,2024,Zika
+ZONE:01,0,Nov,Deaths,2024,Zika
+Chiang Mai,0,Nov,Deaths,2024,Zika
+Chiang Rai,0,Nov,Deaths,2024,Zika
+Lampang,0,Nov,Deaths,2024,Zika
+Lamphun,0,Nov,Deaths,2024,Zika
+Mae Hong Son,0,Nov,Deaths,2024,Zika
+Nan,0,Nov,Deaths,2024,Zika
+Phayao,0,Nov,Deaths,2024,Zika
+Phrae,0,Nov,Deaths,2024,Zika
+ZONE:02,0,Nov,Deaths,2024,Zika
+Phetchabun,0,Nov,Deaths,2024,Zika
+Phitsanulok,0,Nov,Deaths,2024,Zika
+Sukhothai,0,Nov,Deaths,2024,Zika
+Tak,0,Nov,Deaths,2024,Zika
+Uttaradit,0,Nov,Deaths,2024,Zika
+ZONE:03,0,Nov,Deaths,2024,Zika
+Chai Nat,0,Nov,Deaths,2024,Zika
+Kamphaeng Phet,0,Nov,Deaths,2024,Zika
+Nakhon Sawan,0,Nov,Deaths,2024,Zika
+Phichit,0,Nov,Deaths,2024,Zika
+Uthai Thani,0,Nov,Deaths,2024,Zika
+ZONE:04,0,Nov,Deaths,2024,Zika
+Ang Thong,0,Nov,Deaths,2024,Zika
+Lop Buri,0,Nov,Deaths,2024,Zika
+Nakhon Nayok,0,Nov,Deaths,2024,Zika
+Nonthaburi,0,Nov,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Nov,Deaths,2024,Zika
+Pathum Thani,0,Nov,Deaths,2024,Zika
+Saraburi,0,Nov,Deaths,2024,Zika
+Sing Buri,0,Nov,Deaths,2024,Zika
+ZONE:05,0,Nov,Deaths,2024,Zika
+Kanchanaburi,0,Nov,Deaths,2024,Zika
+Nakhon Pathom,0,Nov,Deaths,2024,Zika
+Phetchaburi,0,Nov,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Nov,Deaths,2024,Zika
+Ratchaburi,0,Nov,Deaths,2024,Zika
+Samut Sakhon,0,Nov,Deaths,2024,Zika
+Samut Songkhram,0,Nov,Deaths,2024,Zika
+Suphan Buri,0,Nov,Deaths,2024,Zika
+ZONE:06,0,Nov,Deaths,2024,Zika
+Chachoengsao,0,Nov,Deaths,2024,Zika
+Chanthaburi,0,Nov,Deaths,2024,Zika
+Chon Buri,0,Nov,Deaths,2024,Zika
+Prachin Buri,0,Nov,Deaths,2024,Zika
+Rayong,0,Nov,Deaths,2024,Zika
+Sa Kaeo,0,Nov,Deaths,2024,Zika
+Samut Prakan,0,Nov,Deaths,2024,Zika
+Trat,0,Nov,Deaths,2024,Zika
+ZONE:07,0,Nov,Deaths,2024,Zika
+Kalasin,0,Nov,Deaths,2024,Zika
+Khon Kaen,0,Nov,Deaths,2024,Zika
+Maha Sarakham,0,Nov,Deaths,2024,Zika
+Roi Et,0,Nov,Deaths,2024,Zika
+ZONE:08,0,Nov,Deaths,2024,Zika
+Bungkan,0,Nov,Deaths,2024,Zika
+Loei,0,Nov,Deaths,2024,Zika
+Nakhon Phanom,0,Nov,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Nov,Deaths,2024,Zika
+Nong Khai,0,Nov,Deaths,2024,Zika
+Sakon Nakhon,0,Nov,Deaths,2024,Zika
+Udon Thani,0,Nov,Deaths,2024,Zika
+ZONE:09,0,Nov,Deaths,2024,Zika
+Buri Ram,0,Nov,Deaths,2024,Zika
+Chaiyaphum,0,Nov,Deaths,2024,Zika
+Nakhon Ratchasima,0,Nov,Deaths,2024,Zika
+Surin,0,Nov,Deaths,2024,Zika
+ZONE:10,0,Nov,Deaths,2024,Zika
+Amnat Charoen,0,Nov,Deaths,2024,Zika
+Mukdahan,0,Nov,Deaths,2024,Zika
+Si Sa Ket,0,Nov,Deaths,2024,Zika
+Ubon Ratchathani,0,Nov,Deaths,2024,Zika
+Yasothon,0,Nov,Deaths,2024,Zika
+ZONE:11,0,Nov,Deaths,2024,Zika
+Chumphon,0,Nov,Deaths,2024,Zika
+Krabi,0,Nov,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Nov,Deaths,2024,Zika
+Phangnga,0,Nov,Deaths,2024,Zika
+Phuket,0,Nov,Deaths,2024,Zika
+Ranong,0,Nov,Deaths,2024,Zika
+Surat Thani,0,Nov,Deaths,2024,Zika
+ZONE:12,0,Nov,Deaths,2024,Zika
+Narathiwat,0,Nov,Deaths,2024,Zika
+Pattani,0,Nov,Deaths,2024,Zika
+Phatthalung,0,Nov,Deaths,2024,Zika
+Satun,0,Nov,Deaths,2024,Zika
+Songkhla,0,Nov,Deaths,2024,Zika
+Trang,0,Nov,Deaths,2024,Zika
+Yala,0,Nov,Deaths,2024,Zika
+ZONE:13,0,Nov,Deaths,2024,Zika
+Bangkok,0,Nov,Deaths,2024,Zika
+Total,0,Dec,Cases,2024,Zika
+ZONE:01,0,Dec,Cases,2024,Zika
+Chiang Mai,0,Dec,Cases,2024,Zika
+Chiang Rai,0,Dec,Cases,2024,Zika
+Lampang,0,Dec,Cases,2024,Zika
+Lamphun,0,Dec,Cases,2024,Zika
+Mae Hong Son,0,Dec,Cases,2024,Zika
+Nan,0,Dec,Cases,2024,Zika
+Phayao,0,Dec,Cases,2024,Zika
+Phrae,0,Dec,Cases,2024,Zika
+ZONE:02,0,Dec,Cases,2024,Zika
+Phetchabun,0,Dec,Cases,2024,Zika
+Phitsanulok,0,Dec,Cases,2024,Zika
+Sukhothai,0,Dec,Cases,2024,Zika
+Tak,0,Dec,Cases,2024,Zika
+Uttaradit,0,Dec,Cases,2024,Zika
+ZONE:03,0,Dec,Cases,2024,Zika
+Chai Nat,0,Dec,Cases,2024,Zika
+Kamphaeng Phet,0,Dec,Cases,2024,Zika
+Nakhon Sawan,0,Dec,Cases,2024,Zika
+Phichit,0,Dec,Cases,2024,Zika
+Uthai Thani,0,Dec,Cases,2024,Zika
+ZONE:04,0,Dec,Cases,2024,Zika
+Ang Thong,0,Dec,Cases,2024,Zika
+Lop Buri,0,Dec,Cases,2024,Zika
+Nakhon Nayok,0,Dec,Cases,2024,Zika
+Nonthaburi,0,Dec,Cases,2024,Zika
+P.Nakhon S.Ayutthaya,0,Dec,Cases,2024,Zika
+Pathum Thani,0,Dec,Cases,2024,Zika
+Saraburi,0,Dec,Cases,2024,Zika
+Sing Buri,0,Dec,Cases,2024,Zika
+ZONE:05,0,Dec,Cases,2024,Zika
+Kanchanaburi,0,Dec,Cases,2024,Zika
+Nakhon Pathom,0,Dec,Cases,2024,Zika
+Phetchaburi,0,Dec,Cases,2024,Zika
+Prachuap Khiri Khan,0,Dec,Cases,2024,Zika
+Ratchaburi,0,Dec,Cases,2024,Zika
+Samut Sakhon,0,Dec,Cases,2024,Zika
+Samut Songkhram,0,Dec,Cases,2024,Zika
+Suphan Buri,0,Dec,Cases,2024,Zika
+ZONE:06,0,Dec,Cases,2024,Zika
+Chachoengsao,0,Dec,Cases,2024,Zika
+Chanthaburi,0,Dec,Cases,2024,Zika
+Chon Buri,0,Dec,Cases,2024,Zika
+Prachin Buri,0,Dec,Cases,2024,Zika
+Rayong,0,Dec,Cases,2024,Zika
+Sa Kaeo,0,Dec,Cases,2024,Zika
+Samut Prakan,0,Dec,Cases,2024,Zika
+Trat,0,Dec,Cases,2024,Zika
+ZONE:07,0,Dec,Cases,2024,Zika
+Kalasin,0,Dec,Cases,2024,Zika
+Khon Kaen,0,Dec,Cases,2024,Zika
+Maha Sarakham,0,Dec,Cases,2024,Zika
+Roi Et,0,Dec,Cases,2024,Zika
+ZONE:08,0,Dec,Cases,2024,Zika
+Bungkan,0,Dec,Cases,2024,Zika
+Loei,0,Dec,Cases,2024,Zika
+Nakhon Phanom,0,Dec,Cases,2024,Zika
+Nong Bua Lam Phu,0,Dec,Cases,2024,Zika
+Nong Khai,0,Dec,Cases,2024,Zika
+Sakon Nakhon,0,Dec,Cases,2024,Zika
+Udon Thani,0,Dec,Cases,2024,Zika
+ZONE:09,0,Dec,Cases,2024,Zika
+Buri Ram,0,Dec,Cases,2024,Zika
+Chaiyaphum,0,Dec,Cases,2024,Zika
+Nakhon Ratchasima,0,Dec,Cases,2024,Zika
+Surin,0,Dec,Cases,2024,Zika
+ZONE:10,0,Dec,Cases,2024,Zika
+Amnat Charoen,0,Dec,Cases,2024,Zika
+Mukdahan,0,Dec,Cases,2024,Zika
+Si Sa Ket,0,Dec,Cases,2024,Zika
+Ubon Ratchathani,0,Dec,Cases,2024,Zika
+Yasothon,0,Dec,Cases,2024,Zika
+ZONE:11,0,Dec,Cases,2024,Zika
+Chumphon,0,Dec,Cases,2024,Zika
+Krabi,0,Dec,Cases,2024,Zika
+Nakhon Si Thammarat,0,Dec,Cases,2024,Zika
+Phangnga,0,Dec,Cases,2024,Zika
+Phuket,0,Dec,Cases,2024,Zika
+Ranong,0,Dec,Cases,2024,Zika
+Surat Thani,0,Dec,Cases,2024,Zika
+ZONE:12,0,Dec,Cases,2024,Zika
+Narathiwat,0,Dec,Cases,2024,Zika
+Pattani,0,Dec,Cases,2024,Zika
+Phatthalung,0,Dec,Cases,2024,Zika
+Satun,0,Dec,Cases,2024,Zika
+Songkhla,0,Dec,Cases,2024,Zika
+Trang,0,Dec,Cases,2024,Zika
+Yala,0,Dec,Cases,2024,Zika
+ZONE:13,0,Dec,Cases,2024,Zika
+Bangkok,0,Dec,Cases,2024,Zika
+Total,0,Dec,Deaths,2024,Zika
+ZONE:01,0,Dec,Deaths,2024,Zika
+Chiang Mai,0,Dec,Deaths,2024,Zika
+Chiang Rai,0,Dec,Deaths,2024,Zika
+Lampang,0,Dec,Deaths,2024,Zika
+Lamphun,0,Dec,Deaths,2024,Zika
+Mae Hong Son,0,Dec,Deaths,2024,Zika
+Nan,0,Dec,Deaths,2024,Zika
+Phayao,0,Dec,Deaths,2024,Zika
+Phrae,0,Dec,Deaths,2024,Zika
+ZONE:02,0,Dec,Deaths,2024,Zika
+Phetchabun,0,Dec,Deaths,2024,Zika
+Phitsanulok,0,Dec,Deaths,2024,Zika
+Sukhothai,0,Dec,Deaths,2024,Zika
+Tak,0,Dec,Deaths,2024,Zika
+Uttaradit,0,Dec,Deaths,2024,Zika
+ZONE:03,0,Dec,Deaths,2024,Zika
+Chai Nat,0,Dec,Deaths,2024,Zika
+Kamphaeng Phet,0,Dec,Deaths,2024,Zika
+Nakhon Sawan,0,Dec,Deaths,2024,Zika
+Phichit,0,Dec,Deaths,2024,Zika
+Uthai Thani,0,Dec,Deaths,2024,Zika
+ZONE:04,0,Dec,Deaths,2024,Zika
+Ang Thong,0,Dec,Deaths,2024,Zika
+Lop Buri,0,Dec,Deaths,2024,Zika
+Nakhon Nayok,0,Dec,Deaths,2024,Zika
+Nonthaburi,0,Dec,Deaths,2024,Zika
+P.Nakhon S.Ayutthaya,0,Dec,Deaths,2024,Zika
+Pathum Thani,0,Dec,Deaths,2024,Zika
+Saraburi,0,Dec,Deaths,2024,Zika
+Sing Buri,0,Dec,Deaths,2024,Zika
+ZONE:05,0,Dec,Deaths,2024,Zika
+Kanchanaburi,0,Dec,Deaths,2024,Zika
+Nakhon Pathom,0,Dec,Deaths,2024,Zika
+Phetchaburi,0,Dec,Deaths,2024,Zika
+Prachuap Khiri Khan,0,Dec,Deaths,2024,Zika
+Ratchaburi,0,Dec,Deaths,2024,Zika
+Samut Sakhon,0,Dec,Deaths,2024,Zika
+Samut Songkhram,0,Dec,Deaths,2024,Zika
+Suphan Buri,0,Dec,Deaths,2024,Zika
+ZONE:06,0,Dec,Deaths,2024,Zika
+Chachoengsao,0,Dec,Deaths,2024,Zika
+Chanthaburi,0,Dec,Deaths,2024,Zika
+Chon Buri,0,Dec,Deaths,2024,Zika
+Prachin Buri,0,Dec,Deaths,2024,Zika
+Rayong,0,Dec,Deaths,2024,Zika
+Sa Kaeo,0,Dec,Deaths,2024,Zika
+Samut Prakan,0,Dec,Deaths,2024,Zika
+Trat,0,Dec,Deaths,2024,Zika
+ZONE:07,0,Dec,Deaths,2024,Zika
+Kalasin,0,Dec,Deaths,2024,Zika
+Khon Kaen,0,Dec,Deaths,2024,Zika
+Maha Sarakham,0,Dec,Deaths,2024,Zika
+Roi Et,0,Dec,Deaths,2024,Zika
+ZONE:08,0,Dec,Deaths,2024,Zika
+Bungkan,0,Dec,Deaths,2024,Zika
+Loei,0,Dec,Deaths,2024,Zika
+Nakhon Phanom,0,Dec,Deaths,2024,Zika
+Nong Bua Lam Phu,0,Dec,Deaths,2024,Zika
+Nong Khai,0,Dec,Deaths,2024,Zika
+Sakon Nakhon,0,Dec,Deaths,2024,Zika
+Udon Thani,0,Dec,Deaths,2024,Zika
+ZONE:09,0,Dec,Deaths,2024,Zika
+Buri Ram,0,Dec,Deaths,2024,Zika
+Chaiyaphum,0,Dec,Deaths,2024,Zika
+Nakhon Ratchasima,0,Dec,Deaths,2024,Zika
+Surin,0,Dec,Deaths,2024,Zika
+ZONE:10,0,Dec,Deaths,2024,Zika
+Amnat Charoen,0,Dec,Deaths,2024,Zika
+Mukdahan,0,Dec,Deaths,2024,Zika
+Si Sa Ket,0,Dec,Deaths,2024,Zika
+Ubon Ratchathani,0,Dec,Deaths,2024,Zika
+Yasothon,0,Dec,Deaths,2024,Zika
+ZONE:11,0,Dec,Deaths,2024,Zika
+Chumphon,0,Dec,Deaths,2024,Zika
+Krabi,0,Dec,Deaths,2024,Zika
+Nakhon Si Thammarat,0,Dec,Deaths,2024,Zika
+Phangnga,0,Dec,Deaths,2024,Zika
+Phuket,0,Dec,Deaths,2024,Zika
+Ranong,0,Dec,Deaths,2024,Zika
+Surat Thani,0,Dec,Deaths,2024,Zika
+ZONE:12,0,Dec,Deaths,2024,Zika
+Narathiwat,0,Dec,Deaths,2024,Zika
+Pattani,0,Dec,Deaths,2024,Zika
+Phatthalung,0,Dec,Deaths,2024,Zika
+Satun,0,Dec,Deaths,2024,Zika
+Songkhla,0,Dec,Deaths,2024,Zika
+Trang,0,Dec,Deaths,2024,Zika
+Yala,0,Dec,Deaths,2024,Zika
+ZONE:13,0,Dec,Deaths,2024,Zika
+Bangkok,0,Dec,Deaths,2024,Zika
 Total,63,Total,Cases,2021,Zika
 ZONE:01,1,Total,Cases,2021,Zika
 Chiang Mai,0,Total,Cases,2021,Zika

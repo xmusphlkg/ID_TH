@@ -1716,6 +1716,101 @@ Yala,37,8.00,0,0.00,0.00,462657,2004,ScrubTyphus
 Zone:19,14,0.90,0,0.00,0.00,1561600,2004,ScrubTyphus
 Satun,2,0.73,0,0.00,0.00,273624,2004,ScrubTyphus
 Songkhla,12,0.93,0,0.00,0.00,1287976,2004,ScrubTyphus
+Total,3071,4.65,0,0.00,0.00,66071545,2024,ScrubTyphus
+ZONE:01,1257,21.46,0,0.00,0.00,5857413,2024,ScrubTyphus
+Chiang Mai,458,25.52,0,0.00,0.00,1794774,2024,ScrubTyphus
+Chiang Rai,324,24.94,0,0.00,0.00,1299306,2024,ScrubTyphus
+Lampang,54,7.55,0,0.00,0.00,715133,2024,ScrubTyphus
+Lamphun,5,1.25,0,0.00,0.00,398998,2024,ScrubTyphus
+Mae Hong Son,280,97.49,0,0.00,0.00,287215,2024,ScrubTyphus
+Nan,123,25.97,0,0.00,0.00,473630,2024,ScrubTyphus
+Phayao,11,2.39,0,0.00,0.00,459858,2024,ScrubTyphus
+Phrae,2,0.47,0,0.00,0.00,428499,2024,ScrubTyphus
+ZONE:02,333,9.45,0,0.00,0.00,3522489,2024,ScrubTyphus
+Phetchabun,8,0.82,0,0.00,0.00,970403,2024,ScrubTyphus
+Phitsanulok,14,1.66,0,0.00,0.00,843111,2024,ScrubTyphus
+Sukhothai,3,0.52,0,0.00,0.00,579759,2024,ScrubTyphus
+Tak,274,39.83,0,0.00,0.00,687927,2024,ScrubTyphus
+Uttaradit,34,7.70,0,0.00,0.00,441289,2024,ScrubTyphus
+ZONE:03,15,0.52,0,0.00,0.00,2896463,2024,ScrubTyphus
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,ScrubTyphus
+Kamphaeng Phet,9,1.27,0,0.00,0.00,706861,2024,ScrubTyphus
+Nakhon Sawan,1,0.10,0,0.00,0.00,1025348,2024,ScrubTyphus
+Phichit,2,0.38,0,0.00,0.00,523925,2024,ScrubTyphus
+Uthai Thani,3,0.93,0,0.00,0.00,323066,2024,ScrubTyphus
+ZONE:04,25,0.46,0,0.00,0.00,5438863,2024,ScrubTyphus
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,ScrubTyphus
+Lop Buri,0,0.00,0,0.00,0.00,732495,2024,ScrubTyphus
+Nakhon Nayok,1,0.38,0,0.00,0.00,260261,2024,ScrubTyphus
+Nonthaburi,3,0.23,0,0.00,0.00,1302004,2024,ScrubTyphus
+P.Nakhon S.Ayutthaya,2,0.24,0,0.00,0.00,821261,2024,ScrubTyphus
+Pathum Thani,6,0.50,0,0.00,0.00,1210365,2024,ScrubTyphus
+Saraburi,12,1.88,0,0.00,0.00,638704,2024,ScrubTyphus
+Sing Buri,1,0.49,0,0.00,0.00,202117,2024,ScrubTyphus
+ZONE:05,26,0.49,0,0.00,0.00,5326695,2024,ScrubTyphus
+Kanchanaburi,5,0.56,0,0.00,0.00,894781,2024,ScrubTyphus
+Nakhon Pathom,1,0.11,0,0.00,0.00,923201,2024,ScrubTyphus
+Phetchaburi,15,3.10,0,0.00,0.00,483305,2024,ScrubTyphus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,ScrubTyphus
+Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,ScrubTyphus
+Samut Sakhon,3,0.51,0,0.00,0.00,590730,2024,ScrubTyphus
+Samut Songkhram,1,0.53,0,0.00,0.00,188723,2024,ScrubTyphus
+Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,ScrubTyphus
+ZONE:06,36,0.57,0,0.00,0.00,6292163,2024,ScrubTyphus
+Chachoengsao,2,0.27,0,0.00,0.00,728615,2024,ScrubTyphus
+Chanthaburi,1,0.19,0,0.00,0.00,536290,2024,ScrubTyphus
+Chon Buri,17,1.06,0,0.00,0.00,1606412,2024,ScrubTyphus
+Prachin Buri,2,0.40,0,0.00,0.00,498671,2024,ScrubTyphus
+Rayong,0,0.00,0,0.00,0.00,765287,2024,ScrubTyphus
+Sa Kaeo,6,1.07,0,0.00,0.00,562860,2024,ScrubTyphus
+Samut Prakan,6,0.44,0,0.00,0.00,1366598,2024,ScrubTyphus
+Trat,2,0.88,0,0.00,0.00,227430,2024,ScrubTyphus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/7/2567,,,,,,2024,ScrubTyphus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2567(2024),Scrub Typhus,44,,,,2024,ScrubTyphus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2024,ScrubTyphus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2024,ScrubTyphus
+ZONE:07,227,4.56,0,0.00,0.00,4981337,2024,ScrubTyphus
+Kalasin,31,3.20,0,0.00,0.00,970084,2024,ScrubTyphus
+Khon Kaen,24,1.35,0,0.00,0.00,1782008,2024,ScrubTyphus
+Maha Sarakham,10,1.06,0,0.00,0.00,941261,2024,ScrubTyphus
+Roi Et,162,12.58,0,0.00,0.00,1287984,2024,ScrubTyphus
+ZONE:08,80,1.45,0,0.00,0.00,5500012,2024,ScrubTyphus
+Bungkan,2,0.47,0,0.00,0.00,421086,2024,ScrubTyphus
+Loei,26,4.09,0,0.00,0.00,636242,2024,ScrubTyphus
+Nakhon Phanom,4,0.56,0,0.00,0.00,715466,2024,ScrubTyphus
+Nong Bua Lam Phu,3,0.59,0,0.00,0.00,507599,2024,ScrubTyphus
+Nong Khai,4,0.78,0,0.00,0.00,514909,2024,ScrubTyphus
+Sakon Nakhon,3,0.26,0,0.00,0.00,1143922,2024,ScrubTyphus
+Udon Thani,38,2.43,0,0.00,0.00,1560788,2024,ScrubTyphus
+ZONE:09,257,3.84,0,0.00,0.00,6689028,2024,ScrubTyphus
+Buri Ram,46,2.92,0,0.00,0.00,1575073,2024,ScrubTyphus
+Chaiyaphum,37,3.32,0,0.00,0.00,1115652,2024,ScrubTyphus
+Nakhon Ratchasima,129,4.91,0,0.00,0.00,2627927,2024,ScrubTyphus
+Surin,45,3.28,0,0.00,0.00,1370376,2024,ScrubTyphus
+ZONE:10,266,5.81,0,0.00,0.00,4578831,2024,ScrubTyphus
+Amnat Charoen,3,0.80,0,0.00,0.00,374760,2024,ScrubTyphus
+Mukdahan,2,0.57,0,0.00,0.00,351592,2024,ScrubTyphus
+Si Sa Ket,74,5.09,0,0.00,0.00,1452532,2024,ScrubTyphus
+Ubon Ratchathani,131,7.01,0,0.00,0.00,1869708,2024,ScrubTyphus
+Yasothon,56,10.56,0,0.00,0.00,530239,2024,ScrubTyphus
+ZONE:11,391,8.71,0,0.00,0.00,4489783,2024,ScrubTyphus
+Chumphon,7,1.37,0,0.00,0.00,509122,2024,ScrubTyphus
+Krabi,39,8.11,0,0.00,0.00,481089,2024,ScrubTyphus
+Nakhon Si Thammarat,19,1.23,0,0.00,0.00,1543051,2024,ScrubTyphus
+Phangnga,65,24.32,0,0.00,0.00,267250,2024,ScrubTyphus
+Phuket,12,2.85,0,0.00,0.00,420746,2024,ScrubTyphus
+Ranong,97,50.05,0,0.00,0.00,193799,2024,ScrubTyphus
+Surat Thani,152,14.14,0,0.00,0.00,1074726,2024,ScrubTyphus
+ZONE:12,135,2.69,0,0.00,0.00,5015209,2024,ScrubTyphus
+Narathiwat,6,0.73,0,0.00,0.00,816642,2024,ScrubTyphus
+Pattani,7,0.95,0,0.00,0.00,735017,2024,ScrubTyphus
+Phatthalung,49,9.40,0,0.00,0.00,521109,2024,ScrubTyphus
+Satun,9,2.77,0,0.00,0.00,325387,2024,ScrubTyphus
+Songkhla,36,2.51,0,0.00,0.00,1431512,2024,ScrubTyphus
+Trang,4,0.63,0,0.00,0.00,637612,2024,ScrubTyphus
+Yala,24,4.38,0,0.00,0.00,547930,2024,ScrubTyphus
+ZONE:13,23,0.42,0,0.00,0.00,5483259,2024,ScrubTyphus
+Bangkok,23,0.42,0,0.00,0.00,5483259,2024,ScrubTyphus
 Total,7310,11.43,3,0.04,0.00,63977185,2011,ScrubTyphus
 Central Region,270,1.25,0,0.00,0.00,21679246,2011,ScrubTyphus
 Zone:0,28,0.49,0,0.00,0.00,5688119,2011,ScrubTyphus

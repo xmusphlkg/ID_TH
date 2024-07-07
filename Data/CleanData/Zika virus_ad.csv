@@ -1,4 +1,1678 @@
 Areas,Age,Cases,Year,Disease
+Total,Total,0,2024,Zika
+ZONE:01,Total,0,2024,Zika
+Chiang Mai,Total,0,2024,Zika
+Chiang Rai,Total,0,2024,Zika
+Lampang,Total,0,2024,Zika
+Lamphun,Total,0,2024,Zika
+Mae Hong Son,Total,0,2024,Zika
+Nan,Total,0,2024,Zika
+Phayao,Total,0,2024,Zika
+Phrae,Total,0,2024,Zika
+ZONE:02,Total,0,2024,Zika
+Phetchabun,Total,0,2024,Zika
+Phitsanulok,Total,0,2024,Zika
+Sukhothai,Total,0,2024,Zika
+Tak,Total,0,2024,Zika
+Uttaradit,Total,0,2024,Zika
+ZONE:03,Total,0,2024,Zika
+Chai Nat,Total,0,2024,Zika
+Kamphaeng Phet,Total,0,2024,Zika
+Nakhon Sawan,Total,0,2024,Zika
+Phichit,Total,0,2024,Zika
+Uthai Thani,Total,0,2024,Zika
+ZONE:04,Total,0,2024,Zika
+Ang Thong,Total,0,2024,Zika
+Lop Buri,Total,0,2024,Zika
+Nakhon Nayok,Total,0,2024,Zika
+Nonthaburi,Total,0,2024,Zika
+P.Nakhon S.Ayutthaya,Total,0,2024,Zika
+Pathum Thani,Total,0,2024,Zika
+Saraburi,Total,0,2024,Zika
+Sing Buri,Total,0,2024,Zika
+ZONE:05,Total,0,2024,Zika
+Kanchanaburi,Total,0,2024,Zika
+Nakhon Pathom,Total,0,2024,Zika
+Phetchaburi,Total,0,2024,Zika
+Prachuap Khiri Khan,Total,0,2024,Zika
+Ratchaburi,Total,0,2024,Zika
+Samut Sakhon,Total,0,2024,Zika
+Samut Songkhram,Total,0,2024,Zika
+Suphan Buri,Total,0,2024,Zika
+ZONE:06,Total,0,2024,Zika
+Chachoengsao,Total,0,2024,Zika
+Chanthaburi,Total,0,2024,Zika
+Chon Buri,Total,0,2024,Zika
+Prachin Buri,Total,0,2024,Zika
+Rayong,Total,0,2024,Zika
+Sa Kaeo,Total,0,2024,Zika
+Samut Prakan,Total,0,2024,Zika
+Trat,Total,0,2024,Zika
+ZONE:07,Total,0,2024,Zika
+Kalasin,Total,0,2024,Zika
+Khon Kaen,Total,0,2024,Zika
+Reported deaths by province and by age group : Thailand,Total,2567(2024),2024,Zika
+Reporting Areas,Total,Total,2024,Zika
+Maha Sarakham,Total,0,2024,Zika
+Roi Et,Total,0,2024,Zika
+ZONE:08,Total,0,2024,Zika
+Bungkan,Total,0,2024,Zika
+Loei,Total,0,2024,Zika
+Nakhon Phanom,Total,0,2024,Zika
+Nong Bua Lam Phu,Total,0,2024,Zika
+Nong Khai,Total,0,2024,Zika
+Sakon Nakhon,Total,0,2024,Zika
+Udon Thani,Total,0,2024,Zika
+ZONE:09,Total,0,2024,Zika
+Buri Ram,Total,0,2024,Zika
+Chaiyaphum,Total,0,2024,Zika
+Nakhon Ratchasima,Total,0,2024,Zika
+Surin,Total,0,2024,Zika
+ZONE:10,Total,0,2024,Zika
+Amnat Charoen,Total,0,2024,Zika
+Mukdahan,Total,0,2024,Zika
+Si Sa Ket,Total,0,2024,Zika
+Ubon Ratchathani,Total,0,2024,Zika
+Yasothon,Total,0,2024,Zika
+ZONE:11,Total,0,2024,Zika
+Chumphon,Total,0,2024,Zika
+Krabi,Total,0,2024,Zika
+Nakhon Si Thammarat,Total,0,2024,Zika
+Phangnga,Total,0,2024,Zika
+Phuket,Total,0,2024,Zika
+Ranong,Total,0,2024,Zika
+Surat Thani,Total,0,2024,Zika
+ZONE:12,Total,0,2024,Zika
+Narathiwat,Total,0,2024,Zika
+Pattani,Total,0,2024,Zika
+Phatthalung,Total,0,2024,Zika
+Satun,Total,0,2024,Zika
+Songkhla,Total,0,2024,Zika
+Trang,Total,0,2024,Zika
+Yala,Total,0,2024,Zika
+ZONE:13,Total,0,2024,Zika
+Bangkok,Total,0,2024,Zika
+Total,0,0,2024,Zika
+ZONE:01,0,0,2024,Zika
+Chiang Mai,0,0,2024,Zika
+Chiang Rai,0,0,2024,Zika
+Lampang,0,0,2024,Zika
+Lamphun,0,0,2024,Zika
+Mae Hong Son,0,0,2024,Zika
+Nan,0,0,2024,Zika
+Phayao,0,0,2024,Zika
+Phrae,0,0,2024,Zika
+ZONE:02,0,0,2024,Zika
+Phetchabun,0,0,2024,Zika
+Phitsanulok,0,0,2024,Zika
+Sukhothai,0,0,2024,Zika
+Tak,0,0,2024,Zika
+Uttaradit,0,0,2024,Zika
+ZONE:03,0,0,2024,Zika
+Chai Nat,0,0,2024,Zika
+Kamphaeng Phet,0,0,2024,Zika
+Nakhon Sawan,0,0,2024,Zika
+Phichit,0,0,2024,Zika
+Uthai Thani,0,0,2024,Zika
+ZONE:04,0,0,2024,Zika
+Ang Thong,0,0,2024,Zika
+Lop Buri,0,0,2024,Zika
+Nakhon Nayok,0,0,2024,Zika
+Nonthaburi,0,0,2024,Zika
+P.Nakhon S.Ayutthaya,0,0,2024,Zika
+Pathum Thani,0,0,2024,Zika
+Saraburi,0,0,2024,Zika
+Sing Buri,0,0,2024,Zika
+ZONE:05,0,0,2024,Zika
+Kanchanaburi,0,0,2024,Zika
+Nakhon Pathom,0,0,2024,Zika
+Phetchaburi,0,0,2024,Zika
+Prachuap Khiri Khan,0,0,2024,Zika
+Ratchaburi,0,0,2024,Zika
+Samut Sakhon,0,0,2024,Zika
+Samut Songkhram,0,0,2024,Zika
+Suphan Buri,0,0,2024,Zika
+ZONE:06,0,0,2024,Zika
+Chachoengsao,0,0,2024,Zika
+Chanthaburi,0,0,2024,Zika
+Chon Buri,0,0,2024,Zika
+Prachin Buri,0,0,2024,Zika
+Rayong,0,0,2024,Zika
+Sa Kaeo,0,0,2024,Zika
+Samut Prakan,0,0,2024,Zika
+Trat,0,0,2024,Zika
+ZONE:07,0,0,2024,Zika
+Kalasin,0,0,2024,Zika
+Khon Kaen,0,0,2024,Zika
+Reported deaths by province and by age group : Thailand,0,Zika virus,2024,Zika
+Reporting Areas,0,<28วัน,2024,Zika
+Maha Sarakham,0,0,2024,Zika
+Roi Et,0,0,2024,Zika
+ZONE:08,0,0,2024,Zika
+Bungkan,0,0,2024,Zika
+Loei,0,0,2024,Zika
+Nakhon Phanom,0,0,2024,Zika
+Nong Bua Lam Phu,0,0,2024,Zika
+Nong Khai,0,0,2024,Zika
+Sakon Nakhon,0,0,2024,Zika
+Udon Thani,0,0,2024,Zika
+ZONE:09,0,0,2024,Zika
+Buri Ram,0,0,2024,Zika
+Chaiyaphum,0,0,2024,Zika
+Nakhon Ratchasima,0,0,2024,Zika
+Surin,0,0,2024,Zika
+ZONE:10,0,0,2024,Zika
+Amnat Charoen,0,0,2024,Zika
+Mukdahan,0,0,2024,Zika
+Si Sa Ket,0,0,2024,Zika
+Ubon Ratchathani,0,0,2024,Zika
+Yasothon,0,0,2024,Zika
+ZONE:11,0,0,2024,Zika
+Chumphon,0,0,2024,Zika
+Krabi,0,0,2024,Zika
+Nakhon Si Thammarat,0,0,2024,Zika
+Phangnga,0,0,2024,Zika
+Phuket,0,0,2024,Zika
+Ranong,0,0,2024,Zika
+Surat Thani,0,0,2024,Zika
+ZONE:12,0,0,2024,Zika
+Narathiwat,0,0,2024,Zika
+Pattani,0,0,2024,Zika
+Phatthalung,0,0,2024,Zika
+Satun,0,0,2024,Zika
+Songkhla,0,0,2024,Zika
+Trang,0,0,2024,Zika
+Yala,0,0,2024,Zika
+ZONE:13,0,0,2024,Zika
+Bangkok,0,0,2024,Zika
+Total,<1,0,2024,Zika
+ZONE:01,<1,0,2024,Zika
+Chiang Mai,<1,0,2024,Zika
+Chiang Rai,<1,0,2024,Zika
+Lampang,<1,0,2024,Zika
+Lamphun,<1,0,2024,Zika
+Mae Hong Son,<1,0,2024,Zika
+Nan,<1,0,2024,Zika
+Phayao,<1,0,2024,Zika
+Phrae,<1,0,2024,Zika
+ZONE:02,<1,0,2024,Zika
+Phetchabun,<1,0,2024,Zika
+Phitsanulok,<1,0,2024,Zika
+Sukhothai,<1,0,2024,Zika
+Tak,<1,0,2024,Zika
+Uttaradit,<1,0,2024,Zika
+ZONE:03,<1,0,2024,Zika
+Chai Nat,<1,0,2024,Zika
+Kamphaeng Phet,<1,0,2024,Zika
+Nakhon Sawan,<1,0,2024,Zika
+Phichit,<1,0,2024,Zika
+Uthai Thani,<1,0,2024,Zika
+ZONE:04,<1,0,2024,Zika
+Ang Thong,<1,0,2024,Zika
+Lop Buri,<1,0,2024,Zika
+Nakhon Nayok,<1,0,2024,Zika
+Nonthaburi,<1,0,2024,Zika
+P.Nakhon S.Ayutthaya,<1,0,2024,Zika
+Pathum Thani,<1,0,2024,Zika
+Saraburi,<1,0,2024,Zika
+Sing Buri,<1,0,2024,Zika
+ZONE:05,<1,0,2024,Zika
+Kanchanaburi,<1,0,2024,Zika
+Nakhon Pathom,<1,0,2024,Zika
+Phetchaburi,<1,0,2024,Zika
+Prachuap Khiri Khan,<1,0,2024,Zika
+Ratchaburi,<1,0,2024,Zika
+Samut Sakhon,<1,0,2024,Zika
+Samut Songkhram,<1,0,2024,Zika
+Suphan Buri,<1,0,2024,Zika
+ZONE:06,<1,0,2024,Zika
+Chachoengsao,<1,0,2024,Zika
+Chanthaburi,<1,0,2024,Zika
+Chon Buri,<1,0,2024,Zika
+Prachin Buri,<1,0,2024,Zika
+Rayong,<1,0,2024,Zika
+Sa Kaeo,<1,0,2024,Zika
+Samut Prakan,<1,0,2024,Zika
+Trat,<1,0,2024,Zika
+ZONE:07,<1,0,2024,Zika
+Kalasin,<1,0,2024,Zika
+Khon Kaen,<1,0,2024,Zika
+Reported deaths by province and by age group : Thailand,<1,รหัส,2024,Zika
+Reporting Areas,<1,<1,2024,Zika
+Maha Sarakham,<1,0,2024,Zika
+Roi Et,<1,0,2024,Zika
+ZONE:08,<1,0,2024,Zika
+Bungkan,<1,0,2024,Zika
+Loei,<1,0,2024,Zika
+Nakhon Phanom,<1,0,2024,Zika
+Nong Bua Lam Phu,<1,0,2024,Zika
+Nong Khai,<1,0,2024,Zika
+Sakon Nakhon,<1,0,2024,Zika
+Udon Thani,<1,0,2024,Zika
+ZONE:09,<1,0,2024,Zika
+Buri Ram,<1,0,2024,Zika
+Chaiyaphum,<1,0,2024,Zika
+Nakhon Ratchasima,<1,0,2024,Zika
+Surin,<1,0,2024,Zika
+ZONE:10,<1,0,2024,Zika
+Amnat Charoen,<1,0,2024,Zika
+Mukdahan,<1,0,2024,Zika
+Si Sa Ket,<1,0,2024,Zika
+Ubon Ratchathani,<1,0,2024,Zika
+Yasothon,<1,0,2024,Zika
+ZONE:11,<1,0,2024,Zika
+Chumphon,<1,0,2024,Zika
+Krabi,<1,0,2024,Zika
+Nakhon Si Thammarat,<1,0,2024,Zika
+Phangnga,<1,0,2024,Zika
+Phuket,<1,0,2024,Zika
+Ranong,<1,0,2024,Zika
+Surat Thani,<1,0,2024,Zika
+ZONE:12,<1,0,2024,Zika
+Narathiwat,<1,0,2024,Zika
+Pattani,<1,0,2024,Zika
+Phatthalung,<1,0,2024,Zika
+Satun,<1,0,2024,Zika
+Songkhla,<1,0,2024,Zika
+Trang,<1,0,2024,Zika
+Yala,<1,0,2024,Zika
+ZONE:13,<1,0,2024,Zika
+Bangkok,<1,0,2024,Zika
+Total,1-1,0,2024,Zika
+ZONE:01,1-1,0,2024,Zika
+Chiang Mai,1-1,0,2024,Zika
+Chiang Rai,1-1,0,2024,Zika
+Lampang,1-1,0,2024,Zika
+Lamphun,1-1,0,2024,Zika
+Mae Hong Son,1-1,0,2024,Zika
+Nan,1-1,0,2024,Zika
+Phayao,1-1,0,2024,Zika
+Phrae,1-1,0,2024,Zika
+ZONE:02,1-1,0,2024,Zika
+Phetchabun,1-1,0,2024,Zika
+Phitsanulok,1-1,0,2024,Zika
+Sukhothai,1-1,0,2024,Zika
+Tak,1-1,0,2024,Zika
+Uttaradit,1-1,0,2024,Zika
+ZONE:03,1-1,0,2024,Zika
+Chai Nat,1-1,0,2024,Zika
+Kamphaeng Phet,1-1,0,2024,Zika
+Nakhon Sawan,1-1,0,2024,Zika
+Phichit,1-1,0,2024,Zika
+Uthai Thani,1-1,0,2024,Zika
+ZONE:04,1-1,0,2024,Zika
+Ang Thong,1-1,0,2024,Zika
+Lop Buri,1-1,0,2024,Zika
+Nakhon Nayok,1-1,0,2024,Zika
+Nonthaburi,1-1,0,2024,Zika
+P.Nakhon S.Ayutthaya,1-1,0,2024,Zika
+Pathum Thani,1-1,0,2024,Zika
+Saraburi,1-1,0,2024,Zika
+Sing Buri,1-1,0,2024,Zika
+ZONE:05,1-1,0,2024,Zika
+Kanchanaburi,1-1,0,2024,Zika
+Nakhon Pathom,1-1,0,2024,Zika
+Phetchaburi,1-1,0,2024,Zika
+Prachuap Khiri Khan,1-1,0,2024,Zika
+Ratchaburi,1-1,0,2024,Zika
+Samut Sakhon,1-1,0,2024,Zika
+Samut Songkhram,1-1,0,2024,Zika
+Suphan Buri,1-1,0,2024,Zika
+ZONE:06,1-1,0,2024,Zika
+Chachoengsao,1-1,0,2024,Zika
+Chanthaburi,1-1,0,2024,Zika
+Chon Buri,1-1,0,2024,Zika
+Prachin Buri,1-1,0,2024,Zika
+Rayong,1-1,0,2024,Zika
+Sa Kaeo,1-1,0,2024,Zika
+Samut Prakan,1-1,0,2024,Zika
+Trat,1-1,0,2024,Zika
+ZONE:07,1-1,0,2024,Zika
+Kalasin,1-1,0,2024,Zika
+Khon Kaen,1-1,0,2024,Zika
+Reported deaths by province and by age group : Thailand,1-1,87,2024,Zika
+Reporting Areas,1-1,1+,2024,Zika
+Maha Sarakham,1-1,0,2024,Zika
+Roi Et,1-1,0,2024,Zika
+ZONE:08,1-1,0,2024,Zika
+Bungkan,1-1,0,2024,Zika
+Loei,1-1,0,2024,Zika
+Nakhon Phanom,1-1,0,2024,Zika
+Nong Bua Lam Phu,1-1,0,2024,Zika
+Nong Khai,1-1,0,2024,Zika
+Sakon Nakhon,1-1,0,2024,Zika
+Udon Thani,1-1,0,2024,Zika
+ZONE:09,1-1,0,2024,Zika
+Buri Ram,1-1,0,2024,Zika
+Chaiyaphum,1-1,0,2024,Zika
+Nakhon Ratchasima,1-1,0,2024,Zika
+Surin,1-1,0,2024,Zika
+ZONE:10,1-1,0,2024,Zika
+Amnat Charoen,1-1,0,2024,Zika
+Mukdahan,1-1,0,2024,Zika
+Si Sa Ket,1-1,0,2024,Zika
+Ubon Ratchathani,1-1,0,2024,Zika
+Yasothon,1-1,0,2024,Zika
+ZONE:11,1-1,0,2024,Zika
+Chumphon,1-1,0,2024,Zika
+Krabi,1-1,0,2024,Zika
+Nakhon Si Thammarat,1-1,0,2024,Zika
+Phangnga,1-1,0,2024,Zika
+Phuket,1-1,0,2024,Zika
+Ranong,1-1,0,2024,Zika
+Surat Thani,1-1,0,2024,Zika
+ZONE:12,1-1,0,2024,Zika
+Narathiwat,1-1,0,2024,Zika
+Pattani,1-1,0,2024,Zika
+Phatthalung,1-1,0,2024,Zika
+Satun,1-1,0,2024,Zika
+Songkhla,1-1,0,2024,Zika
+Trang,1-1,0,2024,Zika
+Yala,1-1,0,2024,Zika
+ZONE:13,1-1,0,2024,Zika
+Bangkok,1-1,0,2024,Zika
+Total,2-2,0,2024,Zika
+ZONE:01,2-2,0,2024,Zika
+Chiang Mai,2-2,0,2024,Zika
+Chiang Rai,2-2,0,2024,Zika
+Lampang,2-2,0,2024,Zika
+Lamphun,2-2,0,2024,Zika
+Mae Hong Son,2-2,0,2024,Zika
+Nan,2-2,0,2024,Zika
+Phayao,2-2,0,2024,Zika
+Phrae,2-2,0,2024,Zika
+ZONE:02,2-2,0,2024,Zika
+Phetchabun,2-2,0,2024,Zika
+Phitsanulok,2-2,0,2024,Zika
+Sukhothai,2-2,0,2024,Zika
+Tak,2-2,0,2024,Zika
+Uttaradit,2-2,0,2024,Zika
+ZONE:03,2-2,0,2024,Zika
+Chai Nat,2-2,0,2024,Zika
+Kamphaeng Phet,2-2,0,2024,Zika
+Nakhon Sawan,2-2,0,2024,Zika
+Phichit,2-2,0,2024,Zika
+Uthai Thani,2-2,0,2024,Zika
+ZONE:04,2-2,0,2024,Zika
+Ang Thong,2-2,0,2024,Zika
+Lop Buri,2-2,0,2024,Zika
+Nakhon Nayok,2-2,0,2024,Zika
+Nonthaburi,2-2,0,2024,Zika
+P.Nakhon S.Ayutthaya,2-2,0,2024,Zika
+Pathum Thani,2-2,0,2024,Zika
+Saraburi,2-2,0,2024,Zika
+Sing Buri,2-2,0,2024,Zika
+ZONE:05,2-2,0,2024,Zika
+Kanchanaburi,2-2,0,2024,Zika
+Nakhon Pathom,2-2,0,2024,Zika
+Phetchaburi,2-2,0,2024,Zika
+Prachuap Khiri Khan,2-2,0,2024,Zika
+Ratchaburi,2-2,0,2024,Zika
+Samut Sakhon,2-2,0,2024,Zika
+Samut Songkhram,2-2,0,2024,Zika
+Suphan Buri,2-2,0,2024,Zika
+ZONE:06,2-2,0,2024,Zika
+Chachoengsao,2-2,0,2024,Zika
+Chanthaburi,2-2,0,2024,Zika
+Chon Buri,2-2,0,2024,Zika
+Prachin Buri,2-2,0,2024,Zika
+Rayong,2-2,0,2024,Zika
+Sa Kaeo,2-2,0,2024,Zika
+Samut Prakan,2-2,0,2024,Zika
+Trat,2-2,0,2024,Zika
+ZONE:07,2-2,0,2024,Zika
+Kalasin,2-2,0,2024,Zika
+Khon Kaen,2-2,0,2024,Zika
+Reported deaths by province and by age group : Thailand,2-2,,2024,Zika
+Reporting Areas,2-2,2 +,2024,Zika
+Maha Sarakham,2-2,0,2024,Zika
+Roi Et,2-2,0,2024,Zika
+ZONE:08,2-2,0,2024,Zika
+Bungkan,2-2,0,2024,Zika
+Loei,2-2,0,2024,Zika
+Nakhon Phanom,2-2,0,2024,Zika
+Nong Bua Lam Phu,2-2,0,2024,Zika
+Nong Khai,2-2,0,2024,Zika
+Sakon Nakhon,2-2,0,2024,Zika
+Udon Thani,2-2,0,2024,Zika
+ZONE:09,2-2,0,2024,Zika
+Buri Ram,2-2,0,2024,Zika
+Chaiyaphum,2-2,0,2024,Zika
+Nakhon Ratchasima,2-2,0,2024,Zika
+Surin,2-2,0,2024,Zika
+ZONE:10,2-2,0,2024,Zika
+Amnat Charoen,2-2,0,2024,Zika
+Mukdahan,2-2,0,2024,Zika
+Si Sa Ket,2-2,0,2024,Zika
+Ubon Ratchathani,2-2,0,2024,Zika
+Yasothon,2-2,0,2024,Zika
+ZONE:11,2-2,0,2024,Zika
+Chumphon,2-2,0,2024,Zika
+Krabi,2-2,0,2024,Zika
+Nakhon Si Thammarat,2-2,0,2024,Zika
+Phangnga,2-2,0,2024,Zika
+Phuket,2-2,0,2024,Zika
+Ranong,2-2,0,2024,Zika
+Surat Thani,2-2,0,2024,Zika
+ZONE:12,2-2,0,2024,Zika
+Narathiwat,2-2,0,2024,Zika
+Pattani,2-2,0,2024,Zika
+Phatthalung,2-2,0,2024,Zika
+Satun,2-2,0,2024,Zika
+Songkhla,2-2,0,2024,Zika
+Trang,2-2,0,2024,Zika
+Yala,2-2,0,2024,Zika
+ZONE:13,2-2,0,2024,Zika
+Bangkok,2-2,0,2024,Zika
+Total,3-3,0,2024,Zika
+ZONE:01,3-3,0,2024,Zika
+Chiang Mai,3-3,0,2024,Zika
+Chiang Rai,3-3,0,2024,Zika
+Lampang,3-3,0,2024,Zika
+Lamphun,3-3,0,2024,Zika
+Mae Hong Son,3-3,0,2024,Zika
+Nan,3-3,0,2024,Zika
+Phayao,3-3,0,2024,Zika
+Phrae,3-3,0,2024,Zika
+ZONE:02,3-3,0,2024,Zika
+Phetchabun,3-3,0,2024,Zika
+Phitsanulok,3-3,0,2024,Zika
+Sukhothai,3-3,0,2024,Zika
+Tak,3-3,0,2024,Zika
+Uttaradit,3-3,0,2024,Zika
+ZONE:03,3-3,0,2024,Zika
+Chai Nat,3-3,0,2024,Zika
+Kamphaeng Phet,3-3,0,2024,Zika
+Nakhon Sawan,3-3,0,2024,Zika
+Phichit,3-3,0,2024,Zika
+Uthai Thani,3-3,0,2024,Zika
+ZONE:04,3-3,0,2024,Zika
+Ang Thong,3-3,0,2024,Zika
+Lop Buri,3-3,0,2024,Zika
+Nakhon Nayok,3-3,0,2024,Zika
+Nonthaburi,3-3,0,2024,Zika
+P.Nakhon S.Ayutthaya,3-3,0,2024,Zika
+Pathum Thani,3-3,0,2024,Zika
+Saraburi,3-3,0,2024,Zika
+Sing Buri,3-3,0,2024,Zika
+ZONE:05,3-3,0,2024,Zika
+Kanchanaburi,3-3,0,2024,Zika
+Nakhon Pathom,3-3,0,2024,Zika
+Phetchaburi,3-3,0,2024,Zika
+Prachuap Khiri Khan,3-3,0,2024,Zika
+Ratchaburi,3-3,0,2024,Zika
+Samut Sakhon,3-3,0,2024,Zika
+Samut Songkhram,3-3,0,2024,Zika
+Suphan Buri,3-3,0,2024,Zika
+ZONE:06,3-3,0,2024,Zika
+Chachoengsao,3-3,0,2024,Zika
+Chanthaburi,3-3,0,2024,Zika
+Chon Buri,3-3,0,2024,Zika
+Prachin Buri,3-3,0,2024,Zika
+Rayong,3-3,0,2024,Zika
+Sa Kaeo,3-3,0,2024,Zika
+Samut Prakan,3-3,0,2024,Zika
+Trat,3-3,0,2024,Zika
+ZONE:07,3-3,0,2024,Zika
+Kalasin,3-3,0,2024,Zika
+Khon Kaen,3-3,0,2024,Zika
+Reported deaths by province and by age group : Thailand,3-3,,2024,Zika
+Reporting Areas,3-3,3 +,2024,Zika
+Maha Sarakham,3-3,0,2024,Zika
+Roi Et,3-3,0,2024,Zika
+ZONE:08,3-3,0,2024,Zika
+Bungkan,3-3,0,2024,Zika
+Loei,3-3,0,2024,Zika
+Nakhon Phanom,3-3,0,2024,Zika
+Nong Bua Lam Phu,3-3,0,2024,Zika
+Nong Khai,3-3,0,2024,Zika
+Sakon Nakhon,3-3,0,2024,Zika
+Udon Thani,3-3,0,2024,Zika
+ZONE:09,3-3,0,2024,Zika
+Buri Ram,3-3,0,2024,Zika
+Chaiyaphum,3-3,0,2024,Zika
+Nakhon Ratchasima,3-3,0,2024,Zika
+Surin,3-3,0,2024,Zika
+ZONE:10,3-3,0,2024,Zika
+Amnat Charoen,3-3,0,2024,Zika
+Mukdahan,3-3,0,2024,Zika
+Si Sa Ket,3-3,0,2024,Zika
+Ubon Ratchathani,3-3,0,2024,Zika
+Yasothon,3-3,0,2024,Zika
+ZONE:11,3-3,0,2024,Zika
+Chumphon,3-3,0,2024,Zika
+Krabi,3-3,0,2024,Zika
+Nakhon Si Thammarat,3-3,0,2024,Zika
+Phangnga,3-3,0,2024,Zika
+Phuket,3-3,0,2024,Zika
+Ranong,3-3,0,2024,Zika
+Surat Thani,3-3,0,2024,Zika
+ZONE:12,3-3,0,2024,Zika
+Narathiwat,3-3,0,2024,Zika
+Pattani,3-3,0,2024,Zika
+Phatthalung,3-3,0,2024,Zika
+Satun,3-3,0,2024,Zika
+Songkhla,3-3,0,2024,Zika
+Trang,3-3,0,2024,Zika
+Yala,3-3,0,2024,Zika
+ZONE:13,3-3,0,2024,Zika
+Bangkok,3-3,0,2024,Zika
+Total,4-4,0,2024,Zika
+ZONE:01,4-4,0,2024,Zika
+Chiang Mai,4-4,0,2024,Zika
+Chiang Rai,4-4,0,2024,Zika
+Lampang,4-4,0,2024,Zika
+Lamphun,4-4,0,2024,Zika
+Mae Hong Son,4-4,0,2024,Zika
+Nan,4-4,0,2024,Zika
+Phayao,4-4,0,2024,Zika
+Phrae,4-4,0,2024,Zika
+ZONE:02,4-4,0,2024,Zika
+Phetchabun,4-4,0,2024,Zika
+Phitsanulok,4-4,0,2024,Zika
+Sukhothai,4-4,0,2024,Zika
+Tak,4-4,0,2024,Zika
+Uttaradit,4-4,0,2024,Zika
+ZONE:03,4-4,0,2024,Zika
+Chai Nat,4-4,0,2024,Zika
+Kamphaeng Phet,4-4,0,2024,Zika
+Nakhon Sawan,4-4,0,2024,Zika
+Phichit,4-4,0,2024,Zika
+Uthai Thani,4-4,0,2024,Zika
+ZONE:04,4-4,0,2024,Zika
+Ang Thong,4-4,0,2024,Zika
+Lop Buri,4-4,0,2024,Zika
+Nakhon Nayok,4-4,0,2024,Zika
+Nonthaburi,4-4,0,2024,Zika
+P.Nakhon S.Ayutthaya,4-4,0,2024,Zika
+Pathum Thani,4-4,0,2024,Zika
+Saraburi,4-4,0,2024,Zika
+Sing Buri,4-4,0,2024,Zika
+ZONE:05,4-4,0,2024,Zika
+Kanchanaburi,4-4,0,2024,Zika
+Nakhon Pathom,4-4,0,2024,Zika
+Phetchaburi,4-4,0,2024,Zika
+Prachuap Khiri Khan,4-4,0,2024,Zika
+Ratchaburi,4-4,0,2024,Zika
+Samut Sakhon,4-4,0,2024,Zika
+Samut Songkhram,4-4,0,2024,Zika
+Suphan Buri,4-4,0,2024,Zika
+ZONE:06,4-4,0,2024,Zika
+Chachoengsao,4-4,0,2024,Zika
+Chanthaburi,4-4,0,2024,Zika
+Chon Buri,4-4,0,2024,Zika
+Prachin Buri,4-4,0,2024,Zika
+Rayong,4-4,0,2024,Zika
+Sa Kaeo,4-4,0,2024,Zika
+Samut Prakan,4-4,0,2024,Zika
+Trat,4-4,0,2024,Zika
+ZONE:07,4-4,0,2024,Zika
+Kalasin,4-4,0,2024,Zika
+Khon Kaen,4-4,0,2024,Zika
+Reported deaths by province and by age group : Thailand,4-4,,2024,Zika
+Reporting Areas,4-4,4 +,2024,Zika
+Maha Sarakham,4-4,0,2024,Zika
+Roi Et,4-4,0,2024,Zika
+ZONE:08,4-4,0,2024,Zika
+Bungkan,4-4,0,2024,Zika
+Loei,4-4,0,2024,Zika
+Nakhon Phanom,4-4,0,2024,Zika
+Nong Bua Lam Phu,4-4,0,2024,Zika
+Nong Khai,4-4,0,2024,Zika
+Sakon Nakhon,4-4,0,2024,Zika
+Udon Thani,4-4,0,2024,Zika
+ZONE:09,4-4,0,2024,Zika
+Buri Ram,4-4,0,2024,Zika
+Chaiyaphum,4-4,0,2024,Zika
+Nakhon Ratchasima,4-4,0,2024,Zika
+Surin,4-4,0,2024,Zika
+ZONE:10,4-4,0,2024,Zika
+Amnat Charoen,4-4,0,2024,Zika
+Mukdahan,4-4,0,2024,Zika
+Si Sa Ket,4-4,0,2024,Zika
+Ubon Ratchathani,4-4,0,2024,Zika
+Yasothon,4-4,0,2024,Zika
+ZONE:11,4-4,0,2024,Zika
+Chumphon,4-4,0,2024,Zika
+Krabi,4-4,0,2024,Zika
+Nakhon Si Thammarat,4-4,0,2024,Zika
+Phangnga,4-4,0,2024,Zika
+Phuket,4-4,0,2024,Zika
+Ranong,4-4,0,2024,Zika
+Surat Thani,4-4,0,2024,Zika
+ZONE:12,4-4,0,2024,Zika
+Narathiwat,4-4,0,2024,Zika
+Pattani,4-4,0,2024,Zika
+Phatthalung,4-4,0,2024,Zika
+Satun,4-4,0,2024,Zika
+Songkhla,4-4,0,2024,Zika
+Trang,4-4,0,2024,Zika
+Yala,4-4,0,2024,Zika
+ZONE:13,4-4,0,2024,Zika
+Bangkok,4-4,0,2024,Zika
+Total,5-5,0,2024,Zika
+ZONE:01,5-5,0,2024,Zika
+Chiang Mai,5-5,0,2024,Zika
+Chiang Rai,5-5,0,2024,Zika
+Lampang,5-5,0,2024,Zika
+Lamphun,5-5,0,2024,Zika
+Mae Hong Son,5-5,0,2024,Zika
+Nan,5-5,0,2024,Zika
+Phayao,5-5,0,2024,Zika
+Phrae,5-5,0,2024,Zika
+ZONE:02,5-5,0,2024,Zika
+Phetchabun,5-5,0,2024,Zika
+Phitsanulok,5-5,0,2024,Zika
+Sukhothai,5-5,0,2024,Zika
+Tak,5-5,0,2024,Zika
+Uttaradit,5-5,0,2024,Zika
+ZONE:03,5-5,0,2024,Zika
+Chai Nat,5-5,0,2024,Zika
+Kamphaeng Phet,5-5,0,2024,Zika
+Nakhon Sawan,5-5,0,2024,Zika
+Phichit,5-5,0,2024,Zika
+Uthai Thani,5-5,0,2024,Zika
+ZONE:04,5-5,0,2024,Zika
+Ang Thong,5-5,0,2024,Zika
+Lop Buri,5-5,0,2024,Zika
+Nakhon Nayok,5-5,0,2024,Zika
+Nonthaburi,5-5,0,2024,Zika
+P.Nakhon S.Ayutthaya,5-5,0,2024,Zika
+Pathum Thani,5-5,0,2024,Zika
+Saraburi,5-5,0,2024,Zika
+Sing Buri,5-5,0,2024,Zika
+ZONE:05,5-5,0,2024,Zika
+Kanchanaburi,5-5,0,2024,Zika
+Nakhon Pathom,5-5,0,2024,Zika
+Phetchaburi,5-5,0,2024,Zika
+Prachuap Khiri Khan,5-5,0,2024,Zika
+Ratchaburi,5-5,0,2024,Zika
+Samut Sakhon,5-5,0,2024,Zika
+Samut Songkhram,5-5,0,2024,Zika
+Suphan Buri,5-5,0,2024,Zika
+ZONE:06,5-5,0,2024,Zika
+Chachoengsao,5-5,0,2024,Zika
+Chanthaburi,5-5,0,2024,Zika
+Chon Buri,5-5,0,2024,Zika
+Prachin Buri,5-5,0,2024,Zika
+Rayong,5-5,0,2024,Zika
+Sa Kaeo,5-5,0,2024,Zika
+Samut Prakan,5-5,0,2024,Zika
+Trat,5-5,0,2024,Zika
+ZONE:07,5-5,0,2024,Zika
+Kalasin,5-5,0,2024,Zika
+Khon Kaen,5-5,0,2024,Zika
+Reported deaths by province and by age group : Thailand,5-5,,2024,Zika
+Reporting Areas,5-5,5 +,2024,Zika
+Maha Sarakham,5-5,0,2024,Zika
+Roi Et,5-5,0,2024,Zika
+ZONE:08,5-5,0,2024,Zika
+Bungkan,5-5,0,2024,Zika
+Loei,5-5,0,2024,Zika
+Nakhon Phanom,5-5,0,2024,Zika
+Nong Bua Lam Phu,5-5,0,2024,Zika
+Nong Khai,5-5,0,2024,Zika
+Sakon Nakhon,5-5,0,2024,Zika
+Udon Thani,5-5,0,2024,Zika
+ZONE:09,5-5,0,2024,Zika
+Buri Ram,5-5,0,2024,Zika
+Chaiyaphum,5-5,0,2024,Zika
+Nakhon Ratchasima,5-5,0,2024,Zika
+Surin,5-5,0,2024,Zika
+ZONE:10,5-5,0,2024,Zika
+Amnat Charoen,5-5,0,2024,Zika
+Mukdahan,5-5,0,2024,Zika
+Si Sa Ket,5-5,0,2024,Zika
+Ubon Ratchathani,5-5,0,2024,Zika
+Yasothon,5-5,0,2024,Zika
+ZONE:11,5-5,0,2024,Zika
+Chumphon,5-5,0,2024,Zika
+Krabi,5-5,0,2024,Zika
+Nakhon Si Thammarat,5-5,0,2024,Zika
+Phangnga,5-5,0,2024,Zika
+Phuket,5-5,0,2024,Zika
+Ranong,5-5,0,2024,Zika
+Surat Thani,5-5,0,2024,Zika
+ZONE:12,5-5,0,2024,Zika
+Narathiwat,5-5,0,2024,Zika
+Pattani,5-5,0,2024,Zika
+Phatthalung,5-5,0,2024,Zika
+Satun,5-5,0,2024,Zika
+Songkhla,5-5,0,2024,Zika
+Trang,5-5,0,2024,Zika
+Yala,5-5,0,2024,Zika
+ZONE:13,5-5,0,2024,Zika
+Bangkok,5-5,0,2024,Zika
+Total,6-6,0,2024,Zika
+ZONE:01,6-6,0,2024,Zika
+Chiang Mai,6-6,0,2024,Zika
+Chiang Rai,6-6,0,2024,Zika
+Lampang,6-6,0,2024,Zika
+Lamphun,6-6,0,2024,Zika
+Mae Hong Son,6-6,0,2024,Zika
+Nan,6-6,0,2024,Zika
+Phayao,6-6,0,2024,Zika
+Phrae,6-6,0,2024,Zika
+ZONE:02,6-6,0,2024,Zika
+Phetchabun,6-6,0,2024,Zika
+Phitsanulok,6-6,0,2024,Zika
+Sukhothai,6-6,0,2024,Zika
+Tak,6-6,0,2024,Zika
+Uttaradit,6-6,0,2024,Zika
+ZONE:03,6-6,0,2024,Zika
+Chai Nat,6-6,0,2024,Zika
+Kamphaeng Phet,6-6,0,2024,Zika
+Nakhon Sawan,6-6,0,2024,Zika
+Phichit,6-6,0,2024,Zika
+Uthai Thani,6-6,0,2024,Zika
+ZONE:04,6-6,0,2024,Zika
+Ang Thong,6-6,0,2024,Zika
+Lop Buri,6-6,0,2024,Zika
+Nakhon Nayok,6-6,0,2024,Zika
+Nonthaburi,6-6,0,2024,Zika
+P.Nakhon S.Ayutthaya,6-6,0,2024,Zika
+Pathum Thani,6-6,0,2024,Zika
+Saraburi,6-6,0,2024,Zika
+Sing Buri,6-6,0,2024,Zika
+ZONE:05,6-6,0,2024,Zika
+Kanchanaburi,6-6,0,2024,Zika
+Nakhon Pathom,6-6,0,2024,Zika
+Phetchaburi,6-6,0,2024,Zika
+Prachuap Khiri Khan,6-6,0,2024,Zika
+Ratchaburi,6-6,0,2024,Zika
+Samut Sakhon,6-6,0,2024,Zika
+Samut Songkhram,6-6,0,2024,Zika
+Suphan Buri,6-6,0,2024,Zika
+ZONE:06,6-6,0,2024,Zika
+Chachoengsao,6-6,0,2024,Zika
+Chanthaburi,6-6,0,2024,Zika
+Chon Buri,6-6,0,2024,Zika
+Prachin Buri,6-6,0,2024,Zika
+Rayong,6-6,0,2024,Zika
+Sa Kaeo,6-6,0,2024,Zika
+Samut Prakan,6-6,0,2024,Zika
+Trat,6-6,0,2024,Zika
+ZONE:07,6-6,0,2024,Zika
+Kalasin,6-6,0,2024,Zika
+Khon Kaen,6-6,0,2024,Zika
+Reported deaths by province and by age group : Thailand,6-6,,2024,Zika
+Reporting Areas,6-6,6 +,2024,Zika
+Maha Sarakham,6-6,0,2024,Zika
+Roi Et,6-6,0,2024,Zika
+ZONE:08,6-6,0,2024,Zika
+Bungkan,6-6,0,2024,Zika
+Loei,6-6,0,2024,Zika
+Nakhon Phanom,6-6,0,2024,Zika
+Nong Bua Lam Phu,6-6,0,2024,Zika
+Nong Khai,6-6,0,2024,Zika
+Sakon Nakhon,6-6,0,2024,Zika
+Udon Thani,6-6,0,2024,Zika
+ZONE:09,6-6,0,2024,Zika
+Buri Ram,6-6,0,2024,Zika
+Chaiyaphum,6-6,0,2024,Zika
+Nakhon Ratchasima,6-6,0,2024,Zika
+Surin,6-6,0,2024,Zika
+ZONE:10,6-6,0,2024,Zika
+Amnat Charoen,6-6,0,2024,Zika
+Mukdahan,6-6,0,2024,Zika
+Si Sa Ket,6-6,0,2024,Zika
+Ubon Ratchathani,6-6,0,2024,Zika
+Yasothon,6-6,0,2024,Zika
+ZONE:11,6-6,0,2024,Zika
+Chumphon,6-6,0,2024,Zika
+Krabi,6-6,0,2024,Zika
+Nakhon Si Thammarat,6-6,0,2024,Zika
+Phangnga,6-6,0,2024,Zika
+Phuket,6-6,0,2024,Zika
+Ranong,6-6,0,2024,Zika
+Surat Thani,6-6,0,2024,Zika
+ZONE:12,6-6,0,2024,Zika
+Narathiwat,6-6,0,2024,Zika
+Pattani,6-6,0,2024,Zika
+Phatthalung,6-6,0,2024,Zika
+Satun,6-6,0,2024,Zika
+Songkhla,6-6,0,2024,Zika
+Trang,6-6,0,2024,Zika
+Yala,6-6,0,2024,Zika
+ZONE:13,6-6,0,2024,Zika
+Bangkok,6-6,0,2024,Zika
+Total,7-9,0,2024,Zika
+ZONE:01,7-9,0,2024,Zika
+Chiang Mai,7-9,0,2024,Zika
+Chiang Rai,7-9,0,2024,Zika
+Lampang,7-9,0,2024,Zika
+Lamphun,7-9,0,2024,Zika
+Mae Hong Son,7-9,0,2024,Zika
+Nan,7-9,0,2024,Zika
+Phayao,7-9,0,2024,Zika
+Phrae,7-9,0,2024,Zika
+ZONE:02,7-9,0,2024,Zika
+Phetchabun,7-9,0,2024,Zika
+Phitsanulok,7-9,0,2024,Zika
+Sukhothai,7-9,0,2024,Zika
+Tak,7-9,0,2024,Zika
+Uttaradit,7-9,0,2024,Zika
+ZONE:03,7-9,0,2024,Zika
+Chai Nat,7-9,0,2024,Zika
+Kamphaeng Phet,7-9,0,2024,Zika
+Nakhon Sawan,7-9,0,2024,Zika
+Phichit,7-9,0,2024,Zika
+Uthai Thani,7-9,0,2024,Zika
+ZONE:04,7-9,0,2024,Zika
+Ang Thong,7-9,0,2024,Zika
+Lop Buri,7-9,0,2024,Zika
+Nakhon Nayok,7-9,0,2024,Zika
+Nonthaburi,7-9,0,2024,Zika
+P.Nakhon S.Ayutthaya,7-9,0,2024,Zika
+Pathum Thani,7-9,0,2024,Zika
+Saraburi,7-9,0,2024,Zika
+Sing Buri,7-9,0,2024,Zika
+ZONE:05,7-9,0,2024,Zika
+Kanchanaburi,7-9,0,2024,Zika
+Nakhon Pathom,7-9,0,2024,Zika
+Phetchaburi,7-9,0,2024,Zika
+Prachuap Khiri Khan,7-9,0,2024,Zika
+Ratchaburi,7-9,0,2024,Zika
+Samut Sakhon,7-9,0,2024,Zika
+Samut Songkhram,7-9,0,2024,Zika
+Suphan Buri,7-9,0,2024,Zika
+ZONE:06,7-9,0,2024,Zika
+Chachoengsao,7-9,0,2024,Zika
+Chanthaburi,7-9,0,2024,Zika
+Chon Buri,7-9,0,2024,Zika
+Prachin Buri,7-9,0,2024,Zika
+Rayong,7-9,0,2024,Zika
+Sa Kaeo,7-9,0,2024,Zika
+Samut Prakan,7-9,0,2024,Zika
+Trat,7-9,0,2024,Zika
+ZONE:07,7-9,0,2024,Zika
+Kalasin,7-9,0,2024,Zika
+Khon Kaen,7-9,0,2024,Zika
+Reported deaths by province and by age group : Thailand,7-9,,2024,Zika
+Reporting Areas,7-9,7-9,2024,Zika
+Maha Sarakham,7-9,0,2024,Zika
+Roi Et,7-9,0,2024,Zika
+ZONE:08,7-9,0,2024,Zika
+Bungkan,7-9,0,2024,Zika
+Loei,7-9,0,2024,Zika
+Nakhon Phanom,7-9,0,2024,Zika
+Nong Bua Lam Phu,7-9,0,2024,Zika
+Nong Khai,7-9,0,2024,Zika
+Sakon Nakhon,7-9,0,2024,Zika
+Udon Thani,7-9,0,2024,Zika
+ZONE:09,7-9,0,2024,Zika
+Buri Ram,7-9,0,2024,Zika
+Chaiyaphum,7-9,0,2024,Zika
+Nakhon Ratchasima,7-9,0,2024,Zika
+Surin,7-9,0,2024,Zika
+ZONE:10,7-9,0,2024,Zika
+Amnat Charoen,7-9,0,2024,Zika
+Mukdahan,7-9,0,2024,Zika
+Si Sa Ket,7-9,0,2024,Zika
+Ubon Ratchathani,7-9,0,2024,Zika
+Yasothon,7-9,0,2024,Zika
+ZONE:11,7-9,0,2024,Zika
+Chumphon,7-9,0,2024,Zika
+Krabi,7-9,0,2024,Zika
+Nakhon Si Thammarat,7-9,0,2024,Zika
+Phangnga,7-9,0,2024,Zika
+Phuket,7-9,0,2024,Zika
+Ranong,7-9,0,2024,Zika
+Surat Thani,7-9,0,2024,Zika
+ZONE:12,7-9,0,2024,Zika
+Narathiwat,7-9,0,2024,Zika
+Pattani,7-9,0,2024,Zika
+Phatthalung,7-9,0,2024,Zika
+Satun,7-9,0,2024,Zika
+Songkhla,7-9,0,2024,Zika
+Trang,7-9,0,2024,Zika
+Yala,7-9,0,2024,Zika
+ZONE:13,7-9,0,2024,Zika
+Bangkok,7-9,0,2024,Zika
+Total,10-14,0,2024,Zika
+ZONE:01,10-14,0,2024,Zika
+Chiang Mai,10-14,0,2024,Zika
+Chiang Rai,10-14,0,2024,Zika
+Lampang,10-14,0,2024,Zika
+Lamphun,10-14,0,2024,Zika
+Mae Hong Son,10-14,0,2024,Zika
+Nan,10-14,0,2024,Zika
+Phayao,10-14,0,2024,Zika
+Phrae,10-14,0,2024,Zika
+ZONE:02,10-14,0,2024,Zika
+Phetchabun,10-14,0,2024,Zika
+Phitsanulok,10-14,0,2024,Zika
+Sukhothai,10-14,0,2024,Zika
+Tak,10-14,0,2024,Zika
+Uttaradit,10-14,0,2024,Zika
+ZONE:03,10-14,0,2024,Zika
+Chai Nat,10-14,0,2024,Zika
+Kamphaeng Phet,10-14,0,2024,Zika
+Nakhon Sawan,10-14,0,2024,Zika
+Phichit,10-14,0,2024,Zika
+Uthai Thani,10-14,0,2024,Zika
+ZONE:04,10-14,0,2024,Zika
+Ang Thong,10-14,0,2024,Zika
+Lop Buri,10-14,0,2024,Zika
+Nakhon Nayok,10-14,0,2024,Zika
+Nonthaburi,10-14,0,2024,Zika
+P.Nakhon S.Ayutthaya,10-14,0,2024,Zika
+Pathum Thani,10-14,0,2024,Zika
+Saraburi,10-14,0,2024,Zika
+Sing Buri,10-14,0,2024,Zika
+ZONE:05,10-14,0,2024,Zika
+Kanchanaburi,10-14,0,2024,Zika
+Nakhon Pathom,10-14,0,2024,Zika
+Phetchaburi,10-14,0,2024,Zika
+Prachuap Khiri Khan,10-14,0,2024,Zika
+Ratchaburi,10-14,0,2024,Zika
+Samut Sakhon,10-14,0,2024,Zika
+Samut Songkhram,10-14,0,2024,Zika
+Suphan Buri,10-14,0,2024,Zika
+ZONE:06,10-14,0,2024,Zika
+Chachoengsao,10-14,0,2024,Zika
+Chanthaburi,10-14,0,2024,Zika
+Chon Buri,10-14,0,2024,Zika
+Prachin Buri,10-14,0,2024,Zika
+Rayong,10-14,0,2024,Zika
+Sa Kaeo,10-14,0,2024,Zika
+Samut Prakan,10-14,0,2024,Zika
+Trat,10-14,0,2024,Zika
+ZONE:07,10-14,0,2024,Zika
+Kalasin,10-14,0,2024,Zika
+Khon Kaen,10-14,0,2024,Zika
+Reported deaths by province and by age group : Thailand,10-14,,2024,Zika
+Reporting Areas,10-14,10-14,2024,Zika
+Maha Sarakham,10-14,0,2024,Zika
+Roi Et,10-14,0,2024,Zika
+ZONE:08,10-14,0,2024,Zika
+Bungkan,10-14,0,2024,Zika
+Loei,10-14,0,2024,Zika
+Nakhon Phanom,10-14,0,2024,Zika
+Nong Bua Lam Phu,10-14,0,2024,Zika
+Nong Khai,10-14,0,2024,Zika
+Sakon Nakhon,10-14,0,2024,Zika
+Udon Thani,10-14,0,2024,Zika
+ZONE:09,10-14,0,2024,Zika
+Buri Ram,10-14,0,2024,Zika
+Chaiyaphum,10-14,0,2024,Zika
+Nakhon Ratchasima,10-14,0,2024,Zika
+Surin,10-14,0,2024,Zika
+ZONE:10,10-14,0,2024,Zika
+Amnat Charoen,10-14,0,2024,Zika
+Mukdahan,10-14,0,2024,Zika
+Si Sa Ket,10-14,0,2024,Zika
+Ubon Ratchathani,10-14,0,2024,Zika
+Yasothon,10-14,0,2024,Zika
+ZONE:11,10-14,0,2024,Zika
+Chumphon,10-14,0,2024,Zika
+Krabi,10-14,0,2024,Zika
+Nakhon Si Thammarat,10-14,0,2024,Zika
+Phangnga,10-14,0,2024,Zika
+Phuket,10-14,0,2024,Zika
+Ranong,10-14,0,2024,Zika
+Surat Thani,10-14,0,2024,Zika
+ZONE:12,10-14,0,2024,Zika
+Narathiwat,10-14,0,2024,Zika
+Pattani,10-14,0,2024,Zika
+Phatthalung,10-14,0,2024,Zika
+Satun,10-14,0,2024,Zika
+Songkhla,10-14,0,2024,Zika
+Trang,10-14,0,2024,Zika
+Yala,10-14,0,2024,Zika
+ZONE:13,10-14,0,2024,Zika
+Bangkok,10-14,0,2024,Zika
+Total,15-24,0,2024,Zika
+ZONE:01,15-24,0,2024,Zika
+Chiang Mai,15-24,0,2024,Zika
+Chiang Rai,15-24,0,2024,Zika
+Lampang,15-24,0,2024,Zika
+Lamphun,15-24,0,2024,Zika
+Mae Hong Son,15-24,0,2024,Zika
+Nan,15-24,0,2024,Zika
+Phayao,15-24,0,2024,Zika
+Phrae,15-24,0,2024,Zika
+ZONE:02,15-24,0,2024,Zika
+Phetchabun,15-24,0,2024,Zika
+Phitsanulok,15-24,0,2024,Zika
+Sukhothai,15-24,0,2024,Zika
+Tak,15-24,0,2024,Zika
+Uttaradit,15-24,0,2024,Zika
+ZONE:03,15-24,0,2024,Zika
+Chai Nat,15-24,0,2024,Zika
+Kamphaeng Phet,15-24,0,2024,Zika
+Nakhon Sawan,15-24,0,2024,Zika
+Phichit,15-24,0,2024,Zika
+Uthai Thani,15-24,0,2024,Zika
+ZONE:04,15-24,0,2024,Zika
+Ang Thong,15-24,0,2024,Zika
+Lop Buri,15-24,0,2024,Zika
+Nakhon Nayok,15-24,0,2024,Zika
+Nonthaburi,15-24,0,2024,Zika
+P.Nakhon S.Ayutthaya,15-24,0,2024,Zika
+Pathum Thani,15-24,0,2024,Zika
+Saraburi,15-24,0,2024,Zika
+Sing Buri,15-24,0,2024,Zika
+ZONE:05,15-24,0,2024,Zika
+Kanchanaburi,15-24,0,2024,Zika
+Nakhon Pathom,15-24,0,2024,Zika
+Phetchaburi,15-24,0,2024,Zika
+Prachuap Khiri Khan,15-24,0,2024,Zika
+Ratchaburi,15-24,0,2024,Zika
+Samut Sakhon,15-24,0,2024,Zika
+Samut Songkhram,15-24,0,2024,Zika
+Suphan Buri,15-24,0,2024,Zika
+ZONE:06,15-24,0,2024,Zika
+Chachoengsao,15-24,0,2024,Zika
+Chanthaburi,15-24,0,2024,Zika
+Chon Buri,15-24,0,2024,Zika
+Prachin Buri,15-24,0,2024,Zika
+Rayong,15-24,0,2024,Zika
+Sa Kaeo,15-24,0,2024,Zika
+Samut Prakan,15-24,0,2024,Zika
+Trat,15-24,0,2024,Zika
+ZONE:07,15-24,0,2024,Zika
+Kalasin,15-24,0,2024,Zika
+Khon Kaen,15-24,0,2024,Zika
+Reported deaths by province and by age group : Thailand,15-24,,2024,Zika
+Reporting Areas,15-24,15-24,2024,Zika
+Maha Sarakham,15-24,0,2024,Zika
+Roi Et,15-24,0,2024,Zika
+ZONE:08,15-24,0,2024,Zika
+Bungkan,15-24,0,2024,Zika
+Loei,15-24,0,2024,Zika
+Nakhon Phanom,15-24,0,2024,Zika
+Nong Bua Lam Phu,15-24,0,2024,Zika
+Nong Khai,15-24,0,2024,Zika
+Sakon Nakhon,15-24,0,2024,Zika
+Udon Thani,15-24,0,2024,Zika
+ZONE:09,15-24,0,2024,Zika
+Buri Ram,15-24,0,2024,Zika
+Chaiyaphum,15-24,0,2024,Zika
+Nakhon Ratchasima,15-24,0,2024,Zika
+Surin,15-24,0,2024,Zika
+ZONE:10,15-24,0,2024,Zika
+Amnat Charoen,15-24,0,2024,Zika
+Mukdahan,15-24,0,2024,Zika
+Si Sa Ket,15-24,0,2024,Zika
+Ubon Ratchathani,15-24,0,2024,Zika
+Yasothon,15-24,0,2024,Zika
+ZONE:11,15-24,0,2024,Zika
+Chumphon,15-24,0,2024,Zika
+Krabi,15-24,0,2024,Zika
+Nakhon Si Thammarat,15-24,0,2024,Zika
+Phangnga,15-24,0,2024,Zika
+Phuket,15-24,0,2024,Zika
+Ranong,15-24,0,2024,Zika
+Surat Thani,15-24,0,2024,Zika
+ZONE:12,15-24,0,2024,Zika
+Narathiwat,15-24,0,2024,Zika
+Pattani,15-24,0,2024,Zika
+Phatthalung,15-24,0,2024,Zika
+Satun,15-24,0,2024,Zika
+Songkhla,15-24,0,2024,Zika
+Trang,15-24,0,2024,Zika
+Yala,15-24,0,2024,Zika
+ZONE:13,15-24,0,2024,Zika
+Bangkok,15-24,0,2024,Zika
+Total,25-34,0,2024,Zika
+ZONE:01,25-34,0,2024,Zika
+Chiang Mai,25-34,0,2024,Zika
+Chiang Rai,25-34,0,2024,Zika
+Lampang,25-34,0,2024,Zika
+Lamphun,25-34,0,2024,Zika
+Mae Hong Son,25-34,0,2024,Zika
+Nan,25-34,0,2024,Zika
+Phayao,25-34,0,2024,Zika
+Phrae,25-34,0,2024,Zika
+ZONE:02,25-34,0,2024,Zika
+Phetchabun,25-34,0,2024,Zika
+Phitsanulok,25-34,0,2024,Zika
+Sukhothai,25-34,0,2024,Zika
+Tak,25-34,0,2024,Zika
+Uttaradit,25-34,0,2024,Zika
+ZONE:03,25-34,0,2024,Zika
+Chai Nat,25-34,0,2024,Zika
+Kamphaeng Phet,25-34,0,2024,Zika
+Nakhon Sawan,25-34,0,2024,Zika
+Phichit,25-34,0,2024,Zika
+Uthai Thani,25-34,0,2024,Zika
+ZONE:04,25-34,0,2024,Zika
+Ang Thong,25-34,0,2024,Zika
+Lop Buri,25-34,0,2024,Zika
+Nakhon Nayok,25-34,0,2024,Zika
+Nonthaburi,25-34,0,2024,Zika
+P.Nakhon S.Ayutthaya,25-34,0,2024,Zika
+Pathum Thani,25-34,0,2024,Zika
+Saraburi,25-34,0,2024,Zika
+Sing Buri,25-34,0,2024,Zika
+ZONE:05,25-34,0,2024,Zika
+Kanchanaburi,25-34,0,2024,Zika
+Nakhon Pathom,25-34,0,2024,Zika
+Phetchaburi,25-34,0,2024,Zika
+Prachuap Khiri Khan,25-34,0,2024,Zika
+Ratchaburi,25-34,0,2024,Zika
+Samut Sakhon,25-34,0,2024,Zika
+Samut Songkhram,25-34,0,2024,Zika
+Suphan Buri,25-34,0,2024,Zika
+ZONE:06,25-34,0,2024,Zika
+Chachoengsao,25-34,0,2024,Zika
+Chanthaburi,25-34,0,2024,Zika
+Chon Buri,25-34,0,2024,Zika
+Prachin Buri,25-34,0,2024,Zika
+Rayong,25-34,0,2024,Zika
+Sa Kaeo,25-34,0,2024,Zika
+Samut Prakan,25-34,0,2024,Zika
+Trat,25-34,0,2024,Zika
+ZONE:07,25-34,0,2024,Zika
+Kalasin,25-34,0,2024,Zika
+Khon Kaen,25-34,0,2024,Zika
+Reported deaths by province and by age group : Thailand,25-34,,2024,Zika
+Reporting Areas,25-34,25-34,2024,Zika
+Maha Sarakham,25-34,0,2024,Zika
+Roi Et,25-34,0,2024,Zika
+ZONE:08,25-34,0,2024,Zika
+Bungkan,25-34,0,2024,Zika
+Loei,25-34,0,2024,Zika
+Nakhon Phanom,25-34,0,2024,Zika
+Nong Bua Lam Phu,25-34,0,2024,Zika
+Nong Khai,25-34,0,2024,Zika
+Sakon Nakhon,25-34,0,2024,Zika
+Udon Thani,25-34,0,2024,Zika
+ZONE:09,25-34,0,2024,Zika
+Buri Ram,25-34,0,2024,Zika
+Chaiyaphum,25-34,0,2024,Zika
+Nakhon Ratchasima,25-34,0,2024,Zika
+Surin,25-34,0,2024,Zika
+ZONE:10,25-34,0,2024,Zika
+Amnat Charoen,25-34,0,2024,Zika
+Mukdahan,25-34,0,2024,Zika
+Si Sa Ket,25-34,0,2024,Zika
+Ubon Ratchathani,25-34,0,2024,Zika
+Yasothon,25-34,0,2024,Zika
+ZONE:11,25-34,0,2024,Zika
+Chumphon,25-34,0,2024,Zika
+Krabi,25-34,0,2024,Zika
+Nakhon Si Thammarat,25-34,0,2024,Zika
+Phangnga,25-34,0,2024,Zika
+Phuket,25-34,0,2024,Zika
+Ranong,25-34,0,2024,Zika
+Surat Thani,25-34,0,2024,Zika
+ZONE:12,25-34,0,2024,Zika
+Narathiwat,25-34,0,2024,Zika
+Pattani,25-34,0,2024,Zika
+Phatthalung,25-34,0,2024,Zika
+Satun,25-34,0,2024,Zika
+Songkhla,25-34,0,2024,Zika
+Trang,25-34,0,2024,Zika
+Yala,25-34,0,2024,Zika
+ZONE:13,25-34,0,2024,Zika
+Bangkok,25-34,0,2024,Zika
+Total,35-44,0,2024,Zika
+ZONE:01,35-44,0,2024,Zika
+Chiang Mai,35-44,0,2024,Zika
+Chiang Rai,35-44,0,2024,Zika
+Lampang,35-44,0,2024,Zika
+Lamphun,35-44,0,2024,Zika
+Mae Hong Son,35-44,0,2024,Zika
+Nan,35-44,0,2024,Zika
+Phayao,35-44,0,2024,Zika
+Phrae,35-44,0,2024,Zika
+ZONE:02,35-44,0,2024,Zika
+Phetchabun,35-44,0,2024,Zika
+Phitsanulok,35-44,0,2024,Zika
+Sukhothai,35-44,0,2024,Zika
+Tak,35-44,0,2024,Zika
+Uttaradit,35-44,0,2024,Zika
+ZONE:03,35-44,0,2024,Zika
+Chai Nat,35-44,0,2024,Zika
+Kamphaeng Phet,35-44,0,2024,Zika
+Nakhon Sawan,35-44,0,2024,Zika
+Phichit,35-44,0,2024,Zika
+Uthai Thani,35-44,0,2024,Zika
+ZONE:04,35-44,0,2024,Zika
+Ang Thong,35-44,0,2024,Zika
+Lop Buri,35-44,0,2024,Zika
+Nakhon Nayok,35-44,0,2024,Zika
+Nonthaburi,35-44,0,2024,Zika
+P.Nakhon S.Ayutthaya,35-44,0,2024,Zika
+Pathum Thani,35-44,0,2024,Zika
+Saraburi,35-44,0,2024,Zika
+Sing Buri,35-44,0,2024,Zika
+ZONE:05,35-44,0,2024,Zika
+Kanchanaburi,35-44,0,2024,Zika
+Nakhon Pathom,35-44,0,2024,Zika
+Phetchaburi,35-44,0,2024,Zika
+Prachuap Khiri Khan,35-44,0,2024,Zika
+Ratchaburi,35-44,0,2024,Zika
+Samut Sakhon,35-44,0,2024,Zika
+Samut Songkhram,35-44,0,2024,Zika
+Suphan Buri,35-44,0,2024,Zika
+ZONE:06,35-44,0,2024,Zika
+Chachoengsao,35-44,0,2024,Zika
+Chanthaburi,35-44,0,2024,Zika
+Chon Buri,35-44,0,2024,Zika
+Prachin Buri,35-44,0,2024,Zika
+Rayong,35-44,0,2024,Zika
+Sa Kaeo,35-44,0,2024,Zika
+Samut Prakan,35-44,0,2024,Zika
+Trat,35-44,0,2024,Zika
+ZONE:07,35-44,0,2024,Zika
+Kalasin,35-44,0,2024,Zika
+Khon Kaen,35-44,0,2024,Zika
+Reported deaths by province and by age group : Thailand,35-44,,2024,Zika
+Reporting Areas,35-44,35-44,2024,Zika
+Maha Sarakham,35-44,0,2024,Zika
+Roi Et,35-44,0,2024,Zika
+ZONE:08,35-44,0,2024,Zika
+Bungkan,35-44,0,2024,Zika
+Loei,35-44,0,2024,Zika
+Nakhon Phanom,35-44,0,2024,Zika
+Nong Bua Lam Phu,35-44,0,2024,Zika
+Nong Khai,35-44,0,2024,Zika
+Sakon Nakhon,35-44,0,2024,Zika
+Udon Thani,35-44,0,2024,Zika
+ZONE:09,35-44,0,2024,Zika
+Buri Ram,35-44,0,2024,Zika
+Chaiyaphum,35-44,0,2024,Zika
+Nakhon Ratchasima,35-44,0,2024,Zika
+Surin,35-44,0,2024,Zika
+ZONE:10,35-44,0,2024,Zika
+Amnat Charoen,35-44,0,2024,Zika
+Mukdahan,35-44,0,2024,Zika
+Si Sa Ket,35-44,0,2024,Zika
+Ubon Ratchathani,35-44,0,2024,Zika
+Yasothon,35-44,0,2024,Zika
+ZONE:11,35-44,0,2024,Zika
+Chumphon,35-44,0,2024,Zika
+Krabi,35-44,0,2024,Zika
+Nakhon Si Thammarat,35-44,0,2024,Zika
+Phangnga,35-44,0,2024,Zika
+Phuket,35-44,0,2024,Zika
+Ranong,35-44,0,2024,Zika
+Surat Thani,35-44,0,2024,Zika
+ZONE:12,35-44,0,2024,Zika
+Narathiwat,35-44,0,2024,Zika
+Pattani,35-44,0,2024,Zika
+Phatthalung,35-44,0,2024,Zika
+Satun,35-44,0,2024,Zika
+Songkhla,35-44,0,2024,Zika
+Trang,35-44,0,2024,Zika
+Yala,35-44,0,2024,Zika
+ZONE:13,35-44,0,2024,Zika
+Bangkok,35-44,0,2024,Zika
+Total,45-54,0,2024,Zika
+ZONE:01,45-54,0,2024,Zika
+Chiang Mai,45-54,0,2024,Zika
+Chiang Rai,45-54,0,2024,Zika
+Lampang,45-54,0,2024,Zika
+Lamphun,45-54,0,2024,Zika
+Mae Hong Son,45-54,0,2024,Zika
+Nan,45-54,0,2024,Zika
+Phayao,45-54,0,2024,Zika
+Phrae,45-54,0,2024,Zika
+ZONE:02,45-54,0,2024,Zika
+Phetchabun,45-54,0,2024,Zika
+Phitsanulok,45-54,0,2024,Zika
+Sukhothai,45-54,0,2024,Zika
+Tak,45-54,0,2024,Zika
+Uttaradit,45-54,0,2024,Zika
+ZONE:03,45-54,0,2024,Zika
+Chai Nat,45-54,0,2024,Zika
+Kamphaeng Phet,45-54,0,2024,Zika
+Nakhon Sawan,45-54,0,2024,Zika
+Phichit,45-54,0,2024,Zika
+Uthai Thani,45-54,0,2024,Zika
+ZONE:04,45-54,0,2024,Zika
+Ang Thong,45-54,0,2024,Zika
+Lop Buri,45-54,0,2024,Zika
+Nakhon Nayok,45-54,0,2024,Zika
+Nonthaburi,45-54,0,2024,Zika
+P.Nakhon S.Ayutthaya,45-54,0,2024,Zika
+Pathum Thani,45-54,0,2024,Zika
+Saraburi,45-54,0,2024,Zika
+Sing Buri,45-54,0,2024,Zika
+ZONE:05,45-54,0,2024,Zika
+Kanchanaburi,45-54,0,2024,Zika
+Nakhon Pathom,45-54,0,2024,Zika
+Phetchaburi,45-54,0,2024,Zika
+Prachuap Khiri Khan,45-54,0,2024,Zika
+Ratchaburi,45-54,0,2024,Zika
+Samut Sakhon,45-54,0,2024,Zika
+Samut Songkhram,45-54,0,2024,Zika
+Suphan Buri,45-54,0,2024,Zika
+ZONE:06,45-54,0,2024,Zika
+Chachoengsao,45-54,0,2024,Zika
+Chanthaburi,45-54,0,2024,Zika
+Chon Buri,45-54,0,2024,Zika
+Prachin Buri,45-54,0,2024,Zika
+Rayong,45-54,0,2024,Zika
+Sa Kaeo,45-54,0,2024,Zika
+Samut Prakan,45-54,0,2024,Zika
+Trat,45-54,0,2024,Zika
+ZONE:07,45-54,0,2024,Zika
+Kalasin,45-54,0,2024,Zika
+Khon Kaen,45-54,0,2024,Zika
+Reported deaths by province and by age group : Thailand,45-54,,2024,Zika
+Reporting Areas,45-54,45-54,2024,Zika
+Maha Sarakham,45-54,0,2024,Zika
+Roi Et,45-54,0,2024,Zika
+ZONE:08,45-54,0,2024,Zika
+Bungkan,45-54,0,2024,Zika
+Loei,45-54,0,2024,Zika
+Nakhon Phanom,45-54,0,2024,Zika
+Nong Bua Lam Phu,45-54,0,2024,Zika
+Nong Khai,45-54,0,2024,Zika
+Sakon Nakhon,45-54,0,2024,Zika
+Udon Thani,45-54,0,2024,Zika
+ZONE:09,45-54,0,2024,Zika
+Buri Ram,45-54,0,2024,Zika
+Chaiyaphum,45-54,0,2024,Zika
+Nakhon Ratchasima,45-54,0,2024,Zika
+Surin,45-54,0,2024,Zika
+ZONE:10,45-54,0,2024,Zika
+Amnat Charoen,45-54,0,2024,Zika
+Mukdahan,45-54,0,2024,Zika
+Si Sa Ket,45-54,0,2024,Zika
+Ubon Ratchathani,45-54,0,2024,Zika
+Yasothon,45-54,0,2024,Zika
+ZONE:11,45-54,0,2024,Zika
+Chumphon,45-54,0,2024,Zika
+Krabi,45-54,0,2024,Zika
+Nakhon Si Thammarat,45-54,0,2024,Zika
+Phangnga,45-54,0,2024,Zika
+Phuket,45-54,0,2024,Zika
+Ranong,45-54,0,2024,Zika
+Surat Thani,45-54,0,2024,Zika
+ZONE:12,45-54,0,2024,Zika
+Narathiwat,45-54,0,2024,Zika
+Pattani,45-54,0,2024,Zika
+Phatthalung,45-54,0,2024,Zika
+Satun,45-54,0,2024,Zika
+Songkhla,45-54,0,2024,Zika
+Trang,45-54,0,2024,Zika
+Yala,45-54,0,2024,Zika
+ZONE:13,45-54,0,2024,Zika
+Bangkok,45-54,0,2024,Zika
+Total,55-64,0,2024,Zika
+ZONE:01,55-64,0,2024,Zika
+Chiang Mai,55-64,0,2024,Zika
+Chiang Rai,55-64,0,2024,Zika
+Lampang,55-64,0,2024,Zika
+Lamphun,55-64,0,2024,Zika
+Mae Hong Son,55-64,0,2024,Zika
+Nan,55-64,0,2024,Zika
+Phayao,55-64,0,2024,Zika
+Phrae,55-64,0,2024,Zika
+ZONE:02,55-64,0,2024,Zika
+Phetchabun,55-64,0,2024,Zika
+Phitsanulok,55-64,0,2024,Zika
+Sukhothai,55-64,0,2024,Zika
+Tak,55-64,0,2024,Zika
+Uttaradit,55-64,0,2024,Zika
+ZONE:03,55-64,0,2024,Zika
+Chai Nat,55-64,0,2024,Zika
+Kamphaeng Phet,55-64,0,2024,Zika
+Nakhon Sawan,55-64,0,2024,Zika
+Phichit,55-64,0,2024,Zika
+Uthai Thani,55-64,0,2024,Zika
+ZONE:04,55-64,0,2024,Zika
+Ang Thong,55-64,0,2024,Zika
+Lop Buri,55-64,0,2024,Zika
+Nakhon Nayok,55-64,0,2024,Zika
+Nonthaburi,55-64,0,2024,Zika
+P.Nakhon S.Ayutthaya,55-64,0,2024,Zika
+Pathum Thani,55-64,0,2024,Zika
+Saraburi,55-64,0,2024,Zika
+Sing Buri,55-64,0,2024,Zika
+ZONE:05,55-64,0,2024,Zika
+Kanchanaburi,55-64,0,2024,Zika
+Nakhon Pathom,55-64,0,2024,Zika
+Phetchaburi,55-64,0,2024,Zika
+Prachuap Khiri Khan,55-64,0,2024,Zika
+Ratchaburi,55-64,0,2024,Zika
+Samut Sakhon,55-64,0,2024,Zika
+Samut Songkhram,55-64,0,2024,Zika
+Suphan Buri,55-64,0,2024,Zika
+ZONE:06,55-64,0,2024,Zika
+Chachoengsao,55-64,0,2024,Zika
+Chanthaburi,55-64,0,2024,Zika
+Chon Buri,55-64,0,2024,Zika
+Prachin Buri,55-64,0,2024,Zika
+Rayong,55-64,0,2024,Zika
+Sa Kaeo,55-64,0,2024,Zika
+Samut Prakan,55-64,0,2024,Zika
+Trat,55-64,0,2024,Zika
+ZONE:07,55-64,0,2024,Zika
+Kalasin,55-64,0,2024,Zika
+Khon Kaen,55-64,0,2024,Zika
+Reported deaths by province and by age group : Thailand,55-64,,2024,Zika
+Reporting Areas,55-64,55-64,2024,Zika
+Maha Sarakham,55-64,0,2024,Zika
+Roi Et,55-64,0,2024,Zika
+ZONE:08,55-64,0,2024,Zika
+Bungkan,55-64,0,2024,Zika
+Loei,55-64,0,2024,Zika
+Nakhon Phanom,55-64,0,2024,Zika
+Nong Bua Lam Phu,55-64,0,2024,Zika
+Nong Khai,55-64,0,2024,Zika
+Sakon Nakhon,55-64,0,2024,Zika
+Udon Thani,55-64,0,2024,Zika
+ZONE:09,55-64,0,2024,Zika
+Buri Ram,55-64,0,2024,Zika
+Chaiyaphum,55-64,0,2024,Zika
+Nakhon Ratchasima,55-64,0,2024,Zika
+Surin,55-64,0,2024,Zika
+ZONE:10,55-64,0,2024,Zika
+Amnat Charoen,55-64,0,2024,Zika
+Mukdahan,55-64,0,2024,Zika
+Si Sa Ket,55-64,0,2024,Zika
+Ubon Ratchathani,55-64,0,2024,Zika
+Yasothon,55-64,0,2024,Zika
+ZONE:11,55-64,0,2024,Zika
+Chumphon,55-64,0,2024,Zika
+Krabi,55-64,0,2024,Zika
+Nakhon Si Thammarat,55-64,0,2024,Zika
+Phangnga,55-64,0,2024,Zika
+Phuket,55-64,0,2024,Zika
+Ranong,55-64,0,2024,Zika
+Surat Thani,55-64,0,2024,Zika
+ZONE:12,55-64,0,2024,Zika
+Narathiwat,55-64,0,2024,Zika
+Pattani,55-64,0,2024,Zika
+Phatthalung,55-64,0,2024,Zika
+Satun,55-64,0,2024,Zika
+Songkhla,55-64,0,2024,Zika
+Trang,55-64,0,2024,Zika
+Yala,55-64,0,2024,Zika
+ZONE:13,55-64,0,2024,Zika
+Bangkok,55-64,0,2024,Zika
+Total,65+,0,2024,Zika
+ZONE:01,65+,0,2024,Zika
+Chiang Mai,65+,0,2024,Zika
+Chiang Rai,65+,0,2024,Zika
+Lampang,65+,0,2024,Zika
+Lamphun,65+,0,2024,Zika
+Mae Hong Son,65+,0,2024,Zika
+Nan,65+,0,2024,Zika
+Phayao,65+,0,2024,Zika
+Phrae,65+,0,2024,Zika
+ZONE:02,65+,0,2024,Zika
+Phetchabun,65+,0,2024,Zika
+Phitsanulok,65+,0,2024,Zika
+Sukhothai,65+,0,2024,Zika
+Tak,65+,0,2024,Zika
+Uttaradit,65+,0,2024,Zika
+ZONE:03,65+,0,2024,Zika
+Chai Nat,65+,0,2024,Zika
+Kamphaeng Phet,65+,0,2024,Zika
+Nakhon Sawan,65+,0,2024,Zika
+Phichit,65+,0,2024,Zika
+Uthai Thani,65+,0,2024,Zika
+ZONE:04,65+,0,2024,Zika
+Ang Thong,65+,0,2024,Zika
+Lop Buri,65+,0,2024,Zika
+Nakhon Nayok,65+,0,2024,Zika
+Nonthaburi,65+,0,2024,Zika
+P.Nakhon S.Ayutthaya,65+,0,2024,Zika
+Pathum Thani,65+,0,2024,Zika
+Saraburi,65+,0,2024,Zika
+Sing Buri,65+,0,2024,Zika
+ZONE:05,65+,0,2024,Zika
+Kanchanaburi,65+,0,2024,Zika
+Nakhon Pathom,65+,0,2024,Zika
+Phetchaburi,65+,0,2024,Zika
+Prachuap Khiri Khan,65+,0,2024,Zika
+Ratchaburi,65+,0,2024,Zika
+Samut Sakhon,65+,0,2024,Zika
+Samut Songkhram,65+,0,2024,Zika
+Suphan Buri,65+,0,2024,Zika
+ZONE:06,65+,0,2024,Zika
+Chachoengsao,65+,0,2024,Zika
+Chanthaburi,65+,0,2024,Zika
+Chon Buri,65+,0,2024,Zika
+Prachin Buri,65+,0,2024,Zika
+Rayong,65+,0,2024,Zika
+Sa Kaeo,65+,0,2024,Zika
+Samut Prakan,65+,0,2024,Zika
+Trat,65+,0,2024,Zika
+ZONE:07,65+,0,2024,Zika
+Kalasin,65+,0,2024,Zika
+Khon Kaen,65+,0,2024,Zika
+Reported deaths by province and by age group : Thailand,65+,,2024,Zika
+Reporting Areas,65+,65+,2024,Zika
+Maha Sarakham,65+,0,2024,Zika
+Roi Et,65+,0,2024,Zika
+ZONE:08,65+,0,2024,Zika
+Bungkan,65+,0,2024,Zika
+Loei,65+,0,2024,Zika
+Nakhon Phanom,65+,0,2024,Zika
+Nong Bua Lam Phu,65+,0,2024,Zika
+Nong Khai,65+,0,2024,Zika
+Sakon Nakhon,65+,0,2024,Zika
+Udon Thani,65+,0,2024,Zika
+ZONE:09,65+,0,2024,Zika
+Buri Ram,65+,0,2024,Zika
+Chaiyaphum,65+,0,2024,Zika
+Nakhon Ratchasima,65+,0,2024,Zika
+Surin,65+,0,2024,Zika
+ZONE:10,65+,0,2024,Zika
+Amnat Charoen,65+,0,2024,Zika
+Mukdahan,65+,0,2024,Zika
+Si Sa Ket,65+,0,2024,Zika
+Ubon Ratchathani,65+,0,2024,Zika
+Yasothon,65+,0,2024,Zika
+ZONE:11,65+,0,2024,Zika
+Chumphon,65+,0,2024,Zika
+Krabi,65+,0,2024,Zika
+Nakhon Si Thammarat,65+,0,2024,Zika
+Phangnga,65+,0,2024,Zika
+Phuket,65+,0,2024,Zika
+Ranong,65+,0,2024,Zika
+Surat Thani,65+,0,2024,Zika
+ZONE:12,65+,0,2024,Zika
+Narathiwat,65+,0,2024,Zika
+Pattani,65+,0,2024,Zika
+Phatthalung,65+,0,2024,Zika
+Satun,65+,0,2024,Zika
+Songkhla,65+,0,2024,Zika
+Trang,65+,0,2024,Zika
+Yala,65+,0,2024,Zika
+ZONE:13,65+,0,2024,Zika
+Bangkok,65+,0,2024,Zika
+Total,Unknown,0,2024,Zika
+ZONE:01,Unknown,0,2024,Zika
+Chiang Mai,Unknown,0,2024,Zika
+Chiang Rai,Unknown,0,2024,Zika
+Lampang,Unknown,0,2024,Zika
+Lamphun,Unknown,0,2024,Zika
+Mae Hong Son,Unknown,0,2024,Zika
+Nan,Unknown,0,2024,Zika
+Phayao,Unknown,0,2024,Zika
+Phrae,Unknown,0,2024,Zika
+ZONE:02,Unknown,0,2024,Zika
+Phetchabun,Unknown,0,2024,Zika
+Phitsanulok,Unknown,0,2024,Zika
+Sukhothai,Unknown,0,2024,Zika
+Tak,Unknown,0,2024,Zika
+Uttaradit,Unknown,0,2024,Zika
+ZONE:03,Unknown,0,2024,Zika
+Chai Nat,Unknown,0,2024,Zika
+Kamphaeng Phet,Unknown,0,2024,Zika
+Nakhon Sawan,Unknown,0,2024,Zika
+Phichit,Unknown,0,2024,Zika
+Uthai Thani,Unknown,0,2024,Zika
+ZONE:04,Unknown,0,2024,Zika
+Ang Thong,Unknown,0,2024,Zika
+Lop Buri,Unknown,0,2024,Zika
+Nakhon Nayok,Unknown,0,2024,Zika
+Nonthaburi,Unknown,0,2024,Zika
+P.Nakhon S.Ayutthaya,Unknown,0,2024,Zika
+Pathum Thani,Unknown,0,2024,Zika
+Saraburi,Unknown,0,2024,Zika
+Sing Buri,Unknown,0,2024,Zika
+ZONE:05,Unknown,0,2024,Zika
+Kanchanaburi,Unknown,0,2024,Zika
+Nakhon Pathom,Unknown,0,2024,Zika
+Phetchaburi,Unknown,0,2024,Zika
+Prachuap Khiri Khan,Unknown,0,2024,Zika
+Ratchaburi,Unknown,0,2024,Zika
+Samut Sakhon,Unknown,0,2024,Zika
+Samut Songkhram,Unknown,0,2024,Zika
+Suphan Buri,Unknown,0,2024,Zika
+ZONE:06,Unknown,0,2024,Zika
+Chachoengsao,Unknown,0,2024,Zika
+Chanthaburi,Unknown,0,2024,Zika
+Chon Buri,Unknown,0,2024,Zika
+Prachin Buri,Unknown,0,2024,Zika
+Rayong,Unknown,0,2024,Zika
+Sa Kaeo,Unknown,0,2024,Zika
+Samut Prakan,Unknown,0,2024,Zika
+Trat,Unknown,0,2024,Zika
+ZONE:07,Unknown,0,2024,Zika
+Kalasin,Unknown,0,2024,Zika
+Khon Kaen,Unknown,0,2024,Zika
+Reported deaths by province and by age group : Thailand,Unknown,,2024,Zika
+Reporting Areas,Unknown,ไม่ทรา,2024,Zika
+Maha Sarakham,Unknown,0,2024,Zika
+Roi Et,Unknown,0,2024,Zika
+ZONE:08,Unknown,0,2024,Zika
+Bungkan,Unknown,0,2024,Zika
+Loei,Unknown,0,2024,Zika
+Nakhon Phanom,Unknown,0,2024,Zika
+Nong Bua Lam Phu,Unknown,0,2024,Zika
+Nong Khai,Unknown,0,2024,Zika
+Sakon Nakhon,Unknown,0,2024,Zika
+Udon Thani,Unknown,0,2024,Zika
+ZONE:09,Unknown,0,2024,Zika
+Buri Ram,Unknown,0,2024,Zika
+Chaiyaphum,Unknown,0,2024,Zika
+Nakhon Ratchasima,Unknown,0,2024,Zika
+Surin,Unknown,0,2024,Zika
+ZONE:10,Unknown,0,2024,Zika
+Amnat Charoen,Unknown,0,2024,Zika
+Mukdahan,Unknown,0,2024,Zika
+Si Sa Ket,Unknown,0,2024,Zika
+Ubon Ratchathani,Unknown,0,2024,Zika
+Yasothon,Unknown,0,2024,Zika
+ZONE:11,Unknown,0,2024,Zika
+Chumphon,Unknown,0,2024,Zika
+Krabi,Unknown,0,2024,Zika
+Nakhon Si Thammarat,Unknown,0,2024,Zika
+Phangnga,Unknown,0,2024,Zika
+Phuket,Unknown,0,2024,Zika
+Ranong,Unknown,0,2024,Zika
+Surat Thani,Unknown,0,2024,Zika
+ZONE:12,Unknown,0,2024,Zika
+Narathiwat,Unknown,0,2024,Zika
+Pattani,Unknown,0,2024,Zika
+Phatthalung,Unknown,0,2024,Zika
+Satun,Unknown,0,2024,Zika
+Songkhla,Unknown,0,2024,Zika
+Trang,Unknown,0,2024,Zika
+Yala,Unknown,0,2024,Zika
+ZONE:13,Unknown,0,2024,Zika
+Bangkok,Unknown,0,2024,Zika
 Total,Total,0,2020,Zika
 ZONE:01,Total,0,2020,Zika
 Chiang Mai,Total,0,2020,Zika

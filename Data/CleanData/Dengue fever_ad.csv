@@ -1,4 +1,1678 @@
 Areas,Age,Cases,Year,Disease
+Total,Total,3,2024,DF
+ZONE:01,Total,0,2024,DF
+Chiang Mai,Total,0,2024,DF
+Chiang Rai,Total,0,2024,DF
+Lampang,Total,0,2024,DF
+Lamphun,Total,0,2024,DF
+Mae Hong Son,Total,0,2024,DF
+Nan,Total,0,2024,DF
+Phayao,Total,0,2024,DF
+Phrae,Total,0,2024,DF
+ZONE:02,Total,0,2024,DF
+Phetchabun,Total,0,2024,DF
+Phitsanulok,Total,0,2024,DF
+Sukhothai,Total,0,2024,DF
+Tak,Total,0,2024,DF
+Uttaradit,Total,0,2024,DF
+ZONE:03,Total,0,2024,DF
+Chai Nat,Total,0,2024,DF
+Kamphaeng Phet,Total,0,2024,DF
+Nakhon Sawan,Total,0,2024,DF
+Phichit,Total,0,2024,DF
+Uthai Thani,Total,0,2024,DF
+ZONE:04,Total,0,2024,DF
+Ang Thong,Total,0,2024,DF
+Lop Buri,Total,0,2024,DF
+Nakhon Nayok,Total,0,2024,DF
+Nonthaburi,Total,0,2024,DF
+P.Nakhon S.Ayutthaya,Total,0,2024,DF
+Pathum Thani,Total,0,2024,DF
+Saraburi,Total,0,2024,DF
+Sing Buri,Total,0,2024,DF
+ZONE:05,Total,1,2024,DF
+Kanchanaburi,Total,1,2024,DF
+Nakhon Pathom,Total,0,2024,DF
+Phetchaburi,Total,0,2024,DF
+Prachuap Khiri Khan,Total,0,2024,DF
+Ratchaburi,Total,0,2024,DF
+Samut Sakhon,Total,0,2024,DF
+Samut Songkhram,Total,0,2024,DF
+Suphan Buri,Total,0,2024,DF
+ZONE:06,Total,0,2024,DF
+Chachoengsao,Total,0,2024,DF
+Chanthaburi,Total,0,2024,DF
+Chon Buri,Total,0,2024,DF
+Prachin Buri,Total,0,2024,DF
+Rayong,Total,0,2024,DF
+Sa Kaeo,Total,0,2024,DF
+Samut Prakan,Total,0,2024,DF
+Trat,Total,0,2024,DF
+ZONE:07,Total,1,2024,DF
+Kalasin,Total,0,2024,DF
+Khon Kaen,Total,1,2024,DF
+Reported deaths by province and by age group : Thailand,Total,2567(2024),2024,DF
+Reporting Areas,Total,Total,2024,DF
+Maha Sarakham,Total,0,2024,DF
+Roi Et,Total,0,2024,DF
+ZONE:08,Total,0,2024,DF
+Bungkan,Total,0,2024,DF
+Loei,Total,0,2024,DF
+Nakhon Phanom,Total,0,2024,DF
+Nong Bua Lam Phu,Total,0,2024,DF
+Nong Khai,Total,0,2024,DF
+Sakon Nakhon,Total,0,2024,DF
+Udon Thani,Total,0,2024,DF
+ZONE:09,Total,0,2024,DF
+Buri Ram,Total,0,2024,DF
+Chaiyaphum,Total,0,2024,DF
+Nakhon Ratchasima,Total,0,2024,DF
+Surin,Total,0,2024,DF
+ZONE:10,Total,1,2024,DF
+Amnat Charoen,Total,0,2024,DF
+Mukdahan,Total,0,2024,DF
+Si Sa Ket,Total,0,2024,DF
+Ubon Ratchathani,Total,1,2024,DF
+Yasothon,Total,0,2024,DF
+ZONE:11,Total,0,2024,DF
+Chumphon,Total,0,2024,DF
+Krabi,Total,0,2024,DF
+Nakhon Si Thammarat,Total,0,2024,DF
+Phangnga,Total,0,2024,DF
+Phuket,Total,0,2024,DF
+Ranong,Total,0,2024,DF
+Surat Thani,Total,0,2024,DF
+ZONE:12,Total,0,2024,DF
+Narathiwat,Total,0,2024,DF
+Pattani,Total,0,2024,DF
+Phatthalung,Total,0,2024,DF
+Satun,Total,0,2024,DF
+Songkhla,Total,0,2024,DF
+Trang,Total,0,2024,DF
+Yala,Total,0,2024,DF
+ZONE:13,Total,0,2024,DF
+Bangkok,Total,0,2024,DF
+Total,0,0,2024,DF
+ZONE:01,0,0,2024,DF
+Chiang Mai,0,0,2024,DF
+Chiang Rai,0,0,2024,DF
+Lampang,0,0,2024,DF
+Lamphun,0,0,2024,DF
+Mae Hong Son,0,0,2024,DF
+Nan,0,0,2024,DF
+Phayao,0,0,2024,DF
+Phrae,0,0,2024,DF
+ZONE:02,0,0,2024,DF
+Phetchabun,0,0,2024,DF
+Phitsanulok,0,0,2024,DF
+Sukhothai,0,0,2024,DF
+Tak,0,0,2024,DF
+Uttaradit,0,0,2024,DF
+ZONE:03,0,0,2024,DF
+Chai Nat,0,0,2024,DF
+Kamphaeng Phet,0,0,2024,DF
+Nakhon Sawan,0,0,2024,DF
+Phichit,0,0,2024,DF
+Uthai Thani,0,0,2024,DF
+ZONE:04,0,0,2024,DF
+Ang Thong,0,0,2024,DF
+Lop Buri,0,0,2024,DF
+Nakhon Nayok,0,0,2024,DF
+Nonthaburi,0,0,2024,DF
+P.Nakhon S.Ayutthaya,0,0,2024,DF
+Pathum Thani,0,0,2024,DF
+Saraburi,0,0,2024,DF
+Sing Buri,0,0,2024,DF
+ZONE:05,0,0,2024,DF
+Kanchanaburi,0,0,2024,DF
+Nakhon Pathom,0,0,2024,DF
+Phetchaburi,0,0,2024,DF
+Prachuap Khiri Khan,0,0,2024,DF
+Ratchaburi,0,0,2024,DF
+Samut Sakhon,0,0,2024,DF
+Samut Songkhram,0,0,2024,DF
+Suphan Buri,0,0,2024,DF
+ZONE:06,0,0,2024,DF
+Chachoengsao,0,0,2024,DF
+Chanthaburi,0,0,2024,DF
+Chon Buri,0,0,2024,DF
+Prachin Buri,0,0,2024,DF
+Rayong,0,0,2024,DF
+Sa Kaeo,0,0,2024,DF
+Samut Prakan,0,0,2024,DF
+Trat,0,0,2024,DF
+ZONE:07,0,0,2024,DF
+Kalasin,0,0,2024,DF
+Khon Kaen,0,0,2024,DF
+Reported deaths by province and by age group : Thailand,0,Dengue fever,2024,DF
+Reporting Areas,0,<28วัน,2024,DF
+Maha Sarakham,0,0,2024,DF
+Roi Et,0,0,2024,DF
+ZONE:08,0,0,2024,DF
+Bungkan,0,0,2024,DF
+Loei,0,0,2024,DF
+Nakhon Phanom,0,0,2024,DF
+Nong Bua Lam Phu,0,0,2024,DF
+Nong Khai,0,0,2024,DF
+Sakon Nakhon,0,0,2024,DF
+Udon Thani,0,0,2024,DF
+ZONE:09,0,0,2024,DF
+Buri Ram,0,0,2024,DF
+Chaiyaphum,0,0,2024,DF
+Nakhon Ratchasima,0,0,2024,DF
+Surin,0,0,2024,DF
+ZONE:10,0,0,2024,DF
+Amnat Charoen,0,0,2024,DF
+Mukdahan,0,0,2024,DF
+Si Sa Ket,0,0,2024,DF
+Ubon Ratchathani,0,0,2024,DF
+Yasothon,0,0,2024,DF
+ZONE:11,0,0,2024,DF
+Chumphon,0,0,2024,DF
+Krabi,0,0,2024,DF
+Nakhon Si Thammarat,0,0,2024,DF
+Phangnga,0,0,2024,DF
+Phuket,0,0,2024,DF
+Ranong,0,0,2024,DF
+Surat Thani,0,0,2024,DF
+ZONE:12,0,0,2024,DF
+Narathiwat,0,0,2024,DF
+Pattani,0,0,2024,DF
+Phatthalung,0,0,2024,DF
+Satun,0,0,2024,DF
+Songkhla,0,0,2024,DF
+Trang,0,0,2024,DF
+Yala,0,0,2024,DF
+ZONE:13,0,0,2024,DF
+Bangkok,0,0,2024,DF
+Total,<1,0,2024,DF
+ZONE:01,<1,0,2024,DF
+Chiang Mai,<1,0,2024,DF
+Chiang Rai,<1,0,2024,DF
+Lampang,<1,0,2024,DF
+Lamphun,<1,0,2024,DF
+Mae Hong Son,<1,0,2024,DF
+Nan,<1,0,2024,DF
+Phayao,<1,0,2024,DF
+Phrae,<1,0,2024,DF
+ZONE:02,<1,0,2024,DF
+Phetchabun,<1,0,2024,DF
+Phitsanulok,<1,0,2024,DF
+Sukhothai,<1,0,2024,DF
+Tak,<1,0,2024,DF
+Uttaradit,<1,0,2024,DF
+ZONE:03,<1,0,2024,DF
+Chai Nat,<1,0,2024,DF
+Kamphaeng Phet,<1,0,2024,DF
+Nakhon Sawan,<1,0,2024,DF
+Phichit,<1,0,2024,DF
+Uthai Thani,<1,0,2024,DF
+ZONE:04,<1,0,2024,DF
+Ang Thong,<1,0,2024,DF
+Lop Buri,<1,0,2024,DF
+Nakhon Nayok,<1,0,2024,DF
+Nonthaburi,<1,0,2024,DF
+P.Nakhon S.Ayutthaya,<1,0,2024,DF
+Pathum Thani,<1,0,2024,DF
+Saraburi,<1,0,2024,DF
+Sing Buri,<1,0,2024,DF
+ZONE:05,<1,0,2024,DF
+Kanchanaburi,<1,0,2024,DF
+Nakhon Pathom,<1,0,2024,DF
+Phetchaburi,<1,0,2024,DF
+Prachuap Khiri Khan,<1,0,2024,DF
+Ratchaburi,<1,0,2024,DF
+Samut Sakhon,<1,0,2024,DF
+Samut Songkhram,<1,0,2024,DF
+Suphan Buri,<1,0,2024,DF
+ZONE:06,<1,0,2024,DF
+Chachoengsao,<1,0,2024,DF
+Chanthaburi,<1,0,2024,DF
+Chon Buri,<1,0,2024,DF
+Prachin Buri,<1,0,2024,DF
+Rayong,<1,0,2024,DF
+Sa Kaeo,<1,0,2024,DF
+Samut Prakan,<1,0,2024,DF
+Trat,<1,0,2024,DF
+ZONE:07,<1,0,2024,DF
+Kalasin,<1,0,2024,DF
+Khon Kaen,<1,0,2024,DF
+Reported deaths by province and by age group : Thailand,<1,รหัส,2024,DF
+Reporting Areas,<1,<1,2024,DF
+Maha Sarakham,<1,0,2024,DF
+Roi Et,<1,0,2024,DF
+ZONE:08,<1,0,2024,DF
+Bungkan,<1,0,2024,DF
+Loei,<1,0,2024,DF
+Nakhon Phanom,<1,0,2024,DF
+Nong Bua Lam Phu,<1,0,2024,DF
+Nong Khai,<1,0,2024,DF
+Sakon Nakhon,<1,0,2024,DF
+Udon Thani,<1,0,2024,DF
+ZONE:09,<1,0,2024,DF
+Buri Ram,<1,0,2024,DF
+Chaiyaphum,<1,0,2024,DF
+Nakhon Ratchasima,<1,0,2024,DF
+Surin,<1,0,2024,DF
+ZONE:10,<1,0,2024,DF
+Amnat Charoen,<1,0,2024,DF
+Mukdahan,<1,0,2024,DF
+Si Sa Ket,<1,0,2024,DF
+Ubon Ratchathani,<1,0,2024,DF
+Yasothon,<1,0,2024,DF
+ZONE:11,<1,0,2024,DF
+Chumphon,<1,0,2024,DF
+Krabi,<1,0,2024,DF
+Nakhon Si Thammarat,<1,0,2024,DF
+Phangnga,<1,0,2024,DF
+Phuket,<1,0,2024,DF
+Ranong,<1,0,2024,DF
+Surat Thani,<1,0,2024,DF
+ZONE:12,<1,0,2024,DF
+Narathiwat,<1,0,2024,DF
+Pattani,<1,0,2024,DF
+Phatthalung,<1,0,2024,DF
+Satun,<1,0,2024,DF
+Songkhla,<1,0,2024,DF
+Trang,<1,0,2024,DF
+Yala,<1,0,2024,DF
+ZONE:13,<1,0,2024,DF
+Bangkok,<1,0,2024,DF
+Total,1-1,0,2024,DF
+ZONE:01,1-1,0,2024,DF
+Chiang Mai,1-1,0,2024,DF
+Chiang Rai,1-1,0,2024,DF
+Lampang,1-1,0,2024,DF
+Lamphun,1-1,0,2024,DF
+Mae Hong Son,1-1,0,2024,DF
+Nan,1-1,0,2024,DF
+Phayao,1-1,0,2024,DF
+Phrae,1-1,0,2024,DF
+ZONE:02,1-1,0,2024,DF
+Phetchabun,1-1,0,2024,DF
+Phitsanulok,1-1,0,2024,DF
+Sukhothai,1-1,0,2024,DF
+Tak,1-1,0,2024,DF
+Uttaradit,1-1,0,2024,DF
+ZONE:03,1-1,0,2024,DF
+Chai Nat,1-1,0,2024,DF
+Kamphaeng Phet,1-1,0,2024,DF
+Nakhon Sawan,1-1,0,2024,DF
+Phichit,1-1,0,2024,DF
+Uthai Thani,1-1,0,2024,DF
+ZONE:04,1-1,0,2024,DF
+Ang Thong,1-1,0,2024,DF
+Lop Buri,1-1,0,2024,DF
+Nakhon Nayok,1-1,0,2024,DF
+Nonthaburi,1-1,0,2024,DF
+P.Nakhon S.Ayutthaya,1-1,0,2024,DF
+Pathum Thani,1-1,0,2024,DF
+Saraburi,1-1,0,2024,DF
+Sing Buri,1-1,0,2024,DF
+ZONE:05,1-1,0,2024,DF
+Kanchanaburi,1-1,0,2024,DF
+Nakhon Pathom,1-1,0,2024,DF
+Phetchaburi,1-1,0,2024,DF
+Prachuap Khiri Khan,1-1,0,2024,DF
+Ratchaburi,1-1,0,2024,DF
+Samut Sakhon,1-1,0,2024,DF
+Samut Songkhram,1-1,0,2024,DF
+Suphan Buri,1-1,0,2024,DF
+ZONE:06,1-1,0,2024,DF
+Chachoengsao,1-1,0,2024,DF
+Chanthaburi,1-1,0,2024,DF
+Chon Buri,1-1,0,2024,DF
+Prachin Buri,1-1,0,2024,DF
+Rayong,1-1,0,2024,DF
+Sa Kaeo,1-1,0,2024,DF
+Samut Prakan,1-1,0,2024,DF
+Trat,1-1,0,2024,DF
+ZONE:07,1-1,0,2024,DF
+Kalasin,1-1,0,2024,DF
+Khon Kaen,1-1,0,2024,DF
+Reported deaths by province and by age group : Thailand,1-1,66,2024,DF
+Reporting Areas,1-1,1+,2024,DF
+Maha Sarakham,1-1,0,2024,DF
+Roi Et,1-1,0,2024,DF
+ZONE:08,1-1,0,2024,DF
+Bungkan,1-1,0,2024,DF
+Loei,1-1,0,2024,DF
+Nakhon Phanom,1-1,0,2024,DF
+Nong Bua Lam Phu,1-1,0,2024,DF
+Nong Khai,1-1,0,2024,DF
+Sakon Nakhon,1-1,0,2024,DF
+Udon Thani,1-1,0,2024,DF
+ZONE:09,1-1,0,2024,DF
+Buri Ram,1-1,0,2024,DF
+Chaiyaphum,1-1,0,2024,DF
+Nakhon Ratchasima,1-1,0,2024,DF
+Surin,1-1,0,2024,DF
+ZONE:10,1-1,0,2024,DF
+Amnat Charoen,1-1,0,2024,DF
+Mukdahan,1-1,0,2024,DF
+Si Sa Ket,1-1,0,2024,DF
+Ubon Ratchathani,1-1,0,2024,DF
+Yasothon,1-1,0,2024,DF
+ZONE:11,1-1,0,2024,DF
+Chumphon,1-1,0,2024,DF
+Krabi,1-1,0,2024,DF
+Nakhon Si Thammarat,1-1,0,2024,DF
+Phangnga,1-1,0,2024,DF
+Phuket,1-1,0,2024,DF
+Ranong,1-1,0,2024,DF
+Surat Thani,1-1,0,2024,DF
+ZONE:12,1-1,0,2024,DF
+Narathiwat,1-1,0,2024,DF
+Pattani,1-1,0,2024,DF
+Phatthalung,1-1,0,2024,DF
+Satun,1-1,0,2024,DF
+Songkhla,1-1,0,2024,DF
+Trang,1-1,0,2024,DF
+Yala,1-1,0,2024,DF
+ZONE:13,1-1,0,2024,DF
+Bangkok,1-1,0,2024,DF
+Total,2-2,1,2024,DF
+ZONE:01,2-2,0,2024,DF
+Chiang Mai,2-2,0,2024,DF
+Chiang Rai,2-2,0,2024,DF
+Lampang,2-2,0,2024,DF
+Lamphun,2-2,0,2024,DF
+Mae Hong Son,2-2,0,2024,DF
+Nan,2-2,0,2024,DF
+Phayao,2-2,0,2024,DF
+Phrae,2-2,0,2024,DF
+ZONE:02,2-2,0,2024,DF
+Phetchabun,2-2,0,2024,DF
+Phitsanulok,2-2,0,2024,DF
+Sukhothai,2-2,0,2024,DF
+Tak,2-2,0,2024,DF
+Uttaradit,2-2,0,2024,DF
+ZONE:03,2-2,0,2024,DF
+Chai Nat,2-2,0,2024,DF
+Kamphaeng Phet,2-2,0,2024,DF
+Nakhon Sawan,2-2,0,2024,DF
+Phichit,2-2,0,2024,DF
+Uthai Thani,2-2,0,2024,DF
+ZONE:04,2-2,0,2024,DF
+Ang Thong,2-2,0,2024,DF
+Lop Buri,2-2,0,2024,DF
+Nakhon Nayok,2-2,0,2024,DF
+Nonthaburi,2-2,0,2024,DF
+P.Nakhon S.Ayutthaya,2-2,0,2024,DF
+Pathum Thani,2-2,0,2024,DF
+Saraburi,2-2,0,2024,DF
+Sing Buri,2-2,0,2024,DF
+ZONE:05,2-2,0,2024,DF
+Kanchanaburi,2-2,0,2024,DF
+Nakhon Pathom,2-2,0,2024,DF
+Phetchaburi,2-2,0,2024,DF
+Prachuap Khiri Khan,2-2,0,2024,DF
+Ratchaburi,2-2,0,2024,DF
+Samut Sakhon,2-2,0,2024,DF
+Samut Songkhram,2-2,0,2024,DF
+Suphan Buri,2-2,0,2024,DF
+ZONE:06,2-2,0,2024,DF
+Chachoengsao,2-2,0,2024,DF
+Chanthaburi,2-2,0,2024,DF
+Chon Buri,2-2,0,2024,DF
+Prachin Buri,2-2,0,2024,DF
+Rayong,2-2,0,2024,DF
+Sa Kaeo,2-2,0,2024,DF
+Samut Prakan,2-2,0,2024,DF
+Trat,2-2,0,2024,DF
+ZONE:07,2-2,1,2024,DF
+Kalasin,2-2,0,2024,DF
+Khon Kaen,2-2,1,2024,DF
+Reported deaths by province and by age group : Thailand,2-2,,2024,DF
+Reporting Areas,2-2,2 +,2024,DF
+Maha Sarakham,2-2,0,2024,DF
+Roi Et,2-2,0,2024,DF
+ZONE:08,2-2,0,2024,DF
+Bungkan,2-2,0,2024,DF
+Loei,2-2,0,2024,DF
+Nakhon Phanom,2-2,0,2024,DF
+Nong Bua Lam Phu,2-2,0,2024,DF
+Nong Khai,2-2,0,2024,DF
+Sakon Nakhon,2-2,0,2024,DF
+Udon Thani,2-2,0,2024,DF
+ZONE:09,2-2,0,2024,DF
+Buri Ram,2-2,0,2024,DF
+Chaiyaphum,2-2,0,2024,DF
+Nakhon Ratchasima,2-2,0,2024,DF
+Surin,2-2,0,2024,DF
+ZONE:10,2-2,0,2024,DF
+Amnat Charoen,2-2,0,2024,DF
+Mukdahan,2-2,0,2024,DF
+Si Sa Ket,2-2,0,2024,DF
+Ubon Ratchathani,2-2,0,2024,DF
+Yasothon,2-2,0,2024,DF
+ZONE:11,2-2,0,2024,DF
+Chumphon,2-2,0,2024,DF
+Krabi,2-2,0,2024,DF
+Nakhon Si Thammarat,2-2,0,2024,DF
+Phangnga,2-2,0,2024,DF
+Phuket,2-2,0,2024,DF
+Ranong,2-2,0,2024,DF
+Surat Thani,2-2,0,2024,DF
+ZONE:12,2-2,0,2024,DF
+Narathiwat,2-2,0,2024,DF
+Pattani,2-2,0,2024,DF
+Phatthalung,2-2,0,2024,DF
+Satun,2-2,0,2024,DF
+Songkhla,2-2,0,2024,DF
+Trang,2-2,0,2024,DF
+Yala,2-2,0,2024,DF
+ZONE:13,2-2,0,2024,DF
+Bangkok,2-2,0,2024,DF
+Total,3-3,0,2024,DF
+ZONE:01,3-3,0,2024,DF
+Chiang Mai,3-3,0,2024,DF
+Chiang Rai,3-3,0,2024,DF
+Lampang,3-3,0,2024,DF
+Lamphun,3-3,0,2024,DF
+Mae Hong Son,3-3,0,2024,DF
+Nan,3-3,0,2024,DF
+Phayao,3-3,0,2024,DF
+Phrae,3-3,0,2024,DF
+ZONE:02,3-3,0,2024,DF
+Phetchabun,3-3,0,2024,DF
+Phitsanulok,3-3,0,2024,DF
+Sukhothai,3-3,0,2024,DF
+Tak,3-3,0,2024,DF
+Uttaradit,3-3,0,2024,DF
+ZONE:03,3-3,0,2024,DF
+Chai Nat,3-3,0,2024,DF
+Kamphaeng Phet,3-3,0,2024,DF
+Nakhon Sawan,3-3,0,2024,DF
+Phichit,3-3,0,2024,DF
+Uthai Thani,3-3,0,2024,DF
+ZONE:04,3-3,0,2024,DF
+Ang Thong,3-3,0,2024,DF
+Lop Buri,3-3,0,2024,DF
+Nakhon Nayok,3-3,0,2024,DF
+Nonthaburi,3-3,0,2024,DF
+P.Nakhon S.Ayutthaya,3-3,0,2024,DF
+Pathum Thani,3-3,0,2024,DF
+Saraburi,3-3,0,2024,DF
+Sing Buri,3-3,0,2024,DF
+ZONE:05,3-3,0,2024,DF
+Kanchanaburi,3-3,0,2024,DF
+Nakhon Pathom,3-3,0,2024,DF
+Phetchaburi,3-3,0,2024,DF
+Prachuap Khiri Khan,3-3,0,2024,DF
+Ratchaburi,3-3,0,2024,DF
+Samut Sakhon,3-3,0,2024,DF
+Samut Songkhram,3-3,0,2024,DF
+Suphan Buri,3-3,0,2024,DF
+ZONE:06,3-3,0,2024,DF
+Chachoengsao,3-3,0,2024,DF
+Chanthaburi,3-3,0,2024,DF
+Chon Buri,3-3,0,2024,DF
+Prachin Buri,3-3,0,2024,DF
+Rayong,3-3,0,2024,DF
+Sa Kaeo,3-3,0,2024,DF
+Samut Prakan,3-3,0,2024,DF
+Trat,3-3,0,2024,DF
+ZONE:07,3-3,0,2024,DF
+Kalasin,3-3,0,2024,DF
+Khon Kaen,3-3,0,2024,DF
+Reported deaths by province and by age group : Thailand,3-3,,2024,DF
+Reporting Areas,3-3,3 +,2024,DF
+Maha Sarakham,3-3,0,2024,DF
+Roi Et,3-3,0,2024,DF
+ZONE:08,3-3,0,2024,DF
+Bungkan,3-3,0,2024,DF
+Loei,3-3,0,2024,DF
+Nakhon Phanom,3-3,0,2024,DF
+Nong Bua Lam Phu,3-3,0,2024,DF
+Nong Khai,3-3,0,2024,DF
+Sakon Nakhon,3-3,0,2024,DF
+Udon Thani,3-3,0,2024,DF
+ZONE:09,3-3,0,2024,DF
+Buri Ram,3-3,0,2024,DF
+Chaiyaphum,3-3,0,2024,DF
+Nakhon Ratchasima,3-3,0,2024,DF
+Surin,3-3,0,2024,DF
+ZONE:10,3-3,0,2024,DF
+Amnat Charoen,3-3,0,2024,DF
+Mukdahan,3-3,0,2024,DF
+Si Sa Ket,3-3,0,2024,DF
+Ubon Ratchathani,3-3,0,2024,DF
+Yasothon,3-3,0,2024,DF
+ZONE:11,3-3,0,2024,DF
+Chumphon,3-3,0,2024,DF
+Krabi,3-3,0,2024,DF
+Nakhon Si Thammarat,3-3,0,2024,DF
+Phangnga,3-3,0,2024,DF
+Phuket,3-3,0,2024,DF
+Ranong,3-3,0,2024,DF
+Surat Thani,3-3,0,2024,DF
+ZONE:12,3-3,0,2024,DF
+Narathiwat,3-3,0,2024,DF
+Pattani,3-3,0,2024,DF
+Phatthalung,3-3,0,2024,DF
+Satun,3-3,0,2024,DF
+Songkhla,3-3,0,2024,DF
+Trang,3-3,0,2024,DF
+Yala,3-3,0,2024,DF
+ZONE:13,3-3,0,2024,DF
+Bangkok,3-3,0,2024,DF
+Total,4-4,0,2024,DF
+ZONE:01,4-4,0,2024,DF
+Chiang Mai,4-4,0,2024,DF
+Chiang Rai,4-4,0,2024,DF
+Lampang,4-4,0,2024,DF
+Lamphun,4-4,0,2024,DF
+Mae Hong Son,4-4,0,2024,DF
+Nan,4-4,0,2024,DF
+Phayao,4-4,0,2024,DF
+Phrae,4-4,0,2024,DF
+ZONE:02,4-4,0,2024,DF
+Phetchabun,4-4,0,2024,DF
+Phitsanulok,4-4,0,2024,DF
+Sukhothai,4-4,0,2024,DF
+Tak,4-4,0,2024,DF
+Uttaradit,4-4,0,2024,DF
+ZONE:03,4-4,0,2024,DF
+Chai Nat,4-4,0,2024,DF
+Kamphaeng Phet,4-4,0,2024,DF
+Nakhon Sawan,4-4,0,2024,DF
+Phichit,4-4,0,2024,DF
+Uthai Thani,4-4,0,2024,DF
+ZONE:04,4-4,0,2024,DF
+Ang Thong,4-4,0,2024,DF
+Lop Buri,4-4,0,2024,DF
+Nakhon Nayok,4-4,0,2024,DF
+Nonthaburi,4-4,0,2024,DF
+P.Nakhon S.Ayutthaya,4-4,0,2024,DF
+Pathum Thani,4-4,0,2024,DF
+Saraburi,4-4,0,2024,DF
+Sing Buri,4-4,0,2024,DF
+ZONE:05,4-4,0,2024,DF
+Kanchanaburi,4-4,0,2024,DF
+Nakhon Pathom,4-4,0,2024,DF
+Phetchaburi,4-4,0,2024,DF
+Prachuap Khiri Khan,4-4,0,2024,DF
+Ratchaburi,4-4,0,2024,DF
+Samut Sakhon,4-4,0,2024,DF
+Samut Songkhram,4-4,0,2024,DF
+Suphan Buri,4-4,0,2024,DF
+ZONE:06,4-4,0,2024,DF
+Chachoengsao,4-4,0,2024,DF
+Chanthaburi,4-4,0,2024,DF
+Chon Buri,4-4,0,2024,DF
+Prachin Buri,4-4,0,2024,DF
+Rayong,4-4,0,2024,DF
+Sa Kaeo,4-4,0,2024,DF
+Samut Prakan,4-4,0,2024,DF
+Trat,4-4,0,2024,DF
+ZONE:07,4-4,0,2024,DF
+Kalasin,4-4,0,2024,DF
+Khon Kaen,4-4,0,2024,DF
+Reported deaths by province and by age group : Thailand,4-4,,2024,DF
+Reporting Areas,4-4,4 +,2024,DF
+Maha Sarakham,4-4,0,2024,DF
+Roi Et,4-4,0,2024,DF
+ZONE:08,4-4,0,2024,DF
+Bungkan,4-4,0,2024,DF
+Loei,4-4,0,2024,DF
+Nakhon Phanom,4-4,0,2024,DF
+Nong Bua Lam Phu,4-4,0,2024,DF
+Nong Khai,4-4,0,2024,DF
+Sakon Nakhon,4-4,0,2024,DF
+Udon Thani,4-4,0,2024,DF
+ZONE:09,4-4,0,2024,DF
+Buri Ram,4-4,0,2024,DF
+Chaiyaphum,4-4,0,2024,DF
+Nakhon Ratchasima,4-4,0,2024,DF
+Surin,4-4,0,2024,DF
+ZONE:10,4-4,0,2024,DF
+Amnat Charoen,4-4,0,2024,DF
+Mukdahan,4-4,0,2024,DF
+Si Sa Ket,4-4,0,2024,DF
+Ubon Ratchathani,4-4,0,2024,DF
+Yasothon,4-4,0,2024,DF
+ZONE:11,4-4,0,2024,DF
+Chumphon,4-4,0,2024,DF
+Krabi,4-4,0,2024,DF
+Nakhon Si Thammarat,4-4,0,2024,DF
+Phangnga,4-4,0,2024,DF
+Phuket,4-4,0,2024,DF
+Ranong,4-4,0,2024,DF
+Surat Thani,4-4,0,2024,DF
+ZONE:12,4-4,0,2024,DF
+Narathiwat,4-4,0,2024,DF
+Pattani,4-4,0,2024,DF
+Phatthalung,4-4,0,2024,DF
+Satun,4-4,0,2024,DF
+Songkhla,4-4,0,2024,DF
+Trang,4-4,0,2024,DF
+Yala,4-4,0,2024,DF
+ZONE:13,4-4,0,2024,DF
+Bangkok,4-4,0,2024,DF
+Total,5-5,0,2024,DF
+ZONE:01,5-5,0,2024,DF
+Chiang Mai,5-5,0,2024,DF
+Chiang Rai,5-5,0,2024,DF
+Lampang,5-5,0,2024,DF
+Lamphun,5-5,0,2024,DF
+Mae Hong Son,5-5,0,2024,DF
+Nan,5-5,0,2024,DF
+Phayao,5-5,0,2024,DF
+Phrae,5-5,0,2024,DF
+ZONE:02,5-5,0,2024,DF
+Phetchabun,5-5,0,2024,DF
+Phitsanulok,5-5,0,2024,DF
+Sukhothai,5-5,0,2024,DF
+Tak,5-5,0,2024,DF
+Uttaradit,5-5,0,2024,DF
+ZONE:03,5-5,0,2024,DF
+Chai Nat,5-5,0,2024,DF
+Kamphaeng Phet,5-5,0,2024,DF
+Nakhon Sawan,5-5,0,2024,DF
+Phichit,5-5,0,2024,DF
+Uthai Thani,5-5,0,2024,DF
+ZONE:04,5-5,0,2024,DF
+Ang Thong,5-5,0,2024,DF
+Lop Buri,5-5,0,2024,DF
+Nakhon Nayok,5-5,0,2024,DF
+Nonthaburi,5-5,0,2024,DF
+P.Nakhon S.Ayutthaya,5-5,0,2024,DF
+Pathum Thani,5-5,0,2024,DF
+Saraburi,5-5,0,2024,DF
+Sing Buri,5-5,0,2024,DF
+ZONE:05,5-5,0,2024,DF
+Kanchanaburi,5-5,0,2024,DF
+Nakhon Pathom,5-5,0,2024,DF
+Phetchaburi,5-5,0,2024,DF
+Prachuap Khiri Khan,5-5,0,2024,DF
+Ratchaburi,5-5,0,2024,DF
+Samut Sakhon,5-5,0,2024,DF
+Samut Songkhram,5-5,0,2024,DF
+Suphan Buri,5-5,0,2024,DF
+ZONE:06,5-5,0,2024,DF
+Chachoengsao,5-5,0,2024,DF
+Chanthaburi,5-5,0,2024,DF
+Chon Buri,5-5,0,2024,DF
+Prachin Buri,5-5,0,2024,DF
+Rayong,5-5,0,2024,DF
+Sa Kaeo,5-5,0,2024,DF
+Samut Prakan,5-5,0,2024,DF
+Trat,5-5,0,2024,DF
+ZONE:07,5-5,0,2024,DF
+Kalasin,5-5,0,2024,DF
+Khon Kaen,5-5,0,2024,DF
+Reported deaths by province and by age group : Thailand,5-5,,2024,DF
+Reporting Areas,5-5,5 +,2024,DF
+Maha Sarakham,5-5,0,2024,DF
+Roi Et,5-5,0,2024,DF
+ZONE:08,5-5,0,2024,DF
+Bungkan,5-5,0,2024,DF
+Loei,5-5,0,2024,DF
+Nakhon Phanom,5-5,0,2024,DF
+Nong Bua Lam Phu,5-5,0,2024,DF
+Nong Khai,5-5,0,2024,DF
+Sakon Nakhon,5-5,0,2024,DF
+Udon Thani,5-5,0,2024,DF
+ZONE:09,5-5,0,2024,DF
+Buri Ram,5-5,0,2024,DF
+Chaiyaphum,5-5,0,2024,DF
+Nakhon Ratchasima,5-5,0,2024,DF
+Surin,5-5,0,2024,DF
+ZONE:10,5-5,0,2024,DF
+Amnat Charoen,5-5,0,2024,DF
+Mukdahan,5-5,0,2024,DF
+Si Sa Ket,5-5,0,2024,DF
+Ubon Ratchathani,5-5,0,2024,DF
+Yasothon,5-5,0,2024,DF
+ZONE:11,5-5,0,2024,DF
+Chumphon,5-5,0,2024,DF
+Krabi,5-5,0,2024,DF
+Nakhon Si Thammarat,5-5,0,2024,DF
+Phangnga,5-5,0,2024,DF
+Phuket,5-5,0,2024,DF
+Ranong,5-5,0,2024,DF
+Surat Thani,5-5,0,2024,DF
+ZONE:12,5-5,0,2024,DF
+Narathiwat,5-5,0,2024,DF
+Pattani,5-5,0,2024,DF
+Phatthalung,5-5,0,2024,DF
+Satun,5-5,0,2024,DF
+Songkhla,5-5,0,2024,DF
+Trang,5-5,0,2024,DF
+Yala,5-5,0,2024,DF
+ZONE:13,5-5,0,2024,DF
+Bangkok,5-5,0,2024,DF
+Total,6-6,0,2024,DF
+ZONE:01,6-6,0,2024,DF
+Chiang Mai,6-6,0,2024,DF
+Chiang Rai,6-6,0,2024,DF
+Lampang,6-6,0,2024,DF
+Lamphun,6-6,0,2024,DF
+Mae Hong Son,6-6,0,2024,DF
+Nan,6-6,0,2024,DF
+Phayao,6-6,0,2024,DF
+Phrae,6-6,0,2024,DF
+ZONE:02,6-6,0,2024,DF
+Phetchabun,6-6,0,2024,DF
+Phitsanulok,6-6,0,2024,DF
+Sukhothai,6-6,0,2024,DF
+Tak,6-6,0,2024,DF
+Uttaradit,6-6,0,2024,DF
+ZONE:03,6-6,0,2024,DF
+Chai Nat,6-6,0,2024,DF
+Kamphaeng Phet,6-6,0,2024,DF
+Nakhon Sawan,6-6,0,2024,DF
+Phichit,6-6,0,2024,DF
+Uthai Thani,6-6,0,2024,DF
+ZONE:04,6-6,0,2024,DF
+Ang Thong,6-6,0,2024,DF
+Lop Buri,6-6,0,2024,DF
+Nakhon Nayok,6-6,0,2024,DF
+Nonthaburi,6-6,0,2024,DF
+P.Nakhon S.Ayutthaya,6-6,0,2024,DF
+Pathum Thani,6-6,0,2024,DF
+Saraburi,6-6,0,2024,DF
+Sing Buri,6-6,0,2024,DF
+ZONE:05,6-6,0,2024,DF
+Kanchanaburi,6-6,0,2024,DF
+Nakhon Pathom,6-6,0,2024,DF
+Phetchaburi,6-6,0,2024,DF
+Prachuap Khiri Khan,6-6,0,2024,DF
+Ratchaburi,6-6,0,2024,DF
+Samut Sakhon,6-6,0,2024,DF
+Samut Songkhram,6-6,0,2024,DF
+Suphan Buri,6-6,0,2024,DF
+ZONE:06,6-6,0,2024,DF
+Chachoengsao,6-6,0,2024,DF
+Chanthaburi,6-6,0,2024,DF
+Chon Buri,6-6,0,2024,DF
+Prachin Buri,6-6,0,2024,DF
+Rayong,6-6,0,2024,DF
+Sa Kaeo,6-6,0,2024,DF
+Samut Prakan,6-6,0,2024,DF
+Trat,6-6,0,2024,DF
+ZONE:07,6-6,0,2024,DF
+Kalasin,6-6,0,2024,DF
+Khon Kaen,6-6,0,2024,DF
+Reported deaths by province and by age group : Thailand,6-6,,2024,DF
+Reporting Areas,6-6,6 +,2024,DF
+Maha Sarakham,6-6,0,2024,DF
+Roi Et,6-6,0,2024,DF
+ZONE:08,6-6,0,2024,DF
+Bungkan,6-6,0,2024,DF
+Loei,6-6,0,2024,DF
+Nakhon Phanom,6-6,0,2024,DF
+Nong Bua Lam Phu,6-6,0,2024,DF
+Nong Khai,6-6,0,2024,DF
+Sakon Nakhon,6-6,0,2024,DF
+Udon Thani,6-6,0,2024,DF
+ZONE:09,6-6,0,2024,DF
+Buri Ram,6-6,0,2024,DF
+Chaiyaphum,6-6,0,2024,DF
+Nakhon Ratchasima,6-6,0,2024,DF
+Surin,6-6,0,2024,DF
+ZONE:10,6-6,0,2024,DF
+Amnat Charoen,6-6,0,2024,DF
+Mukdahan,6-6,0,2024,DF
+Si Sa Ket,6-6,0,2024,DF
+Ubon Ratchathani,6-6,0,2024,DF
+Yasothon,6-6,0,2024,DF
+ZONE:11,6-6,0,2024,DF
+Chumphon,6-6,0,2024,DF
+Krabi,6-6,0,2024,DF
+Nakhon Si Thammarat,6-6,0,2024,DF
+Phangnga,6-6,0,2024,DF
+Phuket,6-6,0,2024,DF
+Ranong,6-6,0,2024,DF
+Surat Thani,6-6,0,2024,DF
+ZONE:12,6-6,0,2024,DF
+Narathiwat,6-6,0,2024,DF
+Pattani,6-6,0,2024,DF
+Phatthalung,6-6,0,2024,DF
+Satun,6-6,0,2024,DF
+Songkhla,6-6,0,2024,DF
+Trang,6-6,0,2024,DF
+Yala,6-6,0,2024,DF
+ZONE:13,6-6,0,2024,DF
+Bangkok,6-6,0,2024,DF
+Total,7-9,1,2024,DF
+ZONE:01,7-9,0,2024,DF
+Chiang Mai,7-9,0,2024,DF
+Chiang Rai,7-9,0,2024,DF
+Lampang,7-9,0,2024,DF
+Lamphun,7-9,0,2024,DF
+Mae Hong Son,7-9,0,2024,DF
+Nan,7-9,0,2024,DF
+Phayao,7-9,0,2024,DF
+Phrae,7-9,0,2024,DF
+ZONE:02,7-9,0,2024,DF
+Phetchabun,7-9,0,2024,DF
+Phitsanulok,7-9,0,2024,DF
+Sukhothai,7-9,0,2024,DF
+Tak,7-9,0,2024,DF
+Uttaradit,7-9,0,2024,DF
+ZONE:03,7-9,0,2024,DF
+Chai Nat,7-9,0,2024,DF
+Kamphaeng Phet,7-9,0,2024,DF
+Nakhon Sawan,7-9,0,2024,DF
+Phichit,7-9,0,2024,DF
+Uthai Thani,7-9,0,2024,DF
+ZONE:04,7-9,0,2024,DF
+Ang Thong,7-9,0,2024,DF
+Lop Buri,7-9,0,2024,DF
+Nakhon Nayok,7-9,0,2024,DF
+Nonthaburi,7-9,0,2024,DF
+P.Nakhon S.Ayutthaya,7-9,0,2024,DF
+Pathum Thani,7-9,0,2024,DF
+Saraburi,7-9,0,2024,DF
+Sing Buri,7-9,0,2024,DF
+ZONE:05,7-9,0,2024,DF
+Kanchanaburi,7-9,0,2024,DF
+Nakhon Pathom,7-9,0,2024,DF
+Phetchaburi,7-9,0,2024,DF
+Prachuap Khiri Khan,7-9,0,2024,DF
+Ratchaburi,7-9,0,2024,DF
+Samut Sakhon,7-9,0,2024,DF
+Samut Songkhram,7-9,0,2024,DF
+Suphan Buri,7-9,0,2024,DF
+ZONE:06,7-9,0,2024,DF
+Chachoengsao,7-9,0,2024,DF
+Chanthaburi,7-9,0,2024,DF
+Chon Buri,7-9,0,2024,DF
+Prachin Buri,7-9,0,2024,DF
+Rayong,7-9,0,2024,DF
+Sa Kaeo,7-9,0,2024,DF
+Samut Prakan,7-9,0,2024,DF
+Trat,7-9,0,2024,DF
+ZONE:07,7-9,0,2024,DF
+Kalasin,7-9,0,2024,DF
+Khon Kaen,7-9,0,2024,DF
+Reported deaths by province and by age group : Thailand,7-9,,2024,DF
+Reporting Areas,7-9,7-9,2024,DF
+Maha Sarakham,7-9,0,2024,DF
+Roi Et,7-9,0,2024,DF
+ZONE:08,7-9,0,2024,DF
+Bungkan,7-9,0,2024,DF
+Loei,7-9,0,2024,DF
+Nakhon Phanom,7-9,0,2024,DF
+Nong Bua Lam Phu,7-9,0,2024,DF
+Nong Khai,7-9,0,2024,DF
+Sakon Nakhon,7-9,0,2024,DF
+Udon Thani,7-9,0,2024,DF
+ZONE:09,7-9,0,2024,DF
+Buri Ram,7-9,0,2024,DF
+Chaiyaphum,7-9,0,2024,DF
+Nakhon Ratchasima,7-9,0,2024,DF
+Surin,7-9,0,2024,DF
+ZONE:10,7-9,1,2024,DF
+Amnat Charoen,7-9,0,2024,DF
+Mukdahan,7-9,0,2024,DF
+Si Sa Ket,7-9,0,2024,DF
+Ubon Ratchathani,7-9,1,2024,DF
+Yasothon,7-9,0,2024,DF
+ZONE:11,7-9,0,2024,DF
+Chumphon,7-9,0,2024,DF
+Krabi,7-9,0,2024,DF
+Nakhon Si Thammarat,7-9,0,2024,DF
+Phangnga,7-9,0,2024,DF
+Phuket,7-9,0,2024,DF
+Ranong,7-9,0,2024,DF
+Surat Thani,7-9,0,2024,DF
+ZONE:12,7-9,0,2024,DF
+Narathiwat,7-9,0,2024,DF
+Pattani,7-9,0,2024,DF
+Phatthalung,7-9,0,2024,DF
+Satun,7-9,0,2024,DF
+Songkhla,7-9,0,2024,DF
+Trang,7-9,0,2024,DF
+Yala,7-9,0,2024,DF
+ZONE:13,7-9,0,2024,DF
+Bangkok,7-9,0,2024,DF
+Total,10-14,0,2024,DF
+ZONE:01,10-14,0,2024,DF
+Chiang Mai,10-14,0,2024,DF
+Chiang Rai,10-14,0,2024,DF
+Lampang,10-14,0,2024,DF
+Lamphun,10-14,0,2024,DF
+Mae Hong Son,10-14,0,2024,DF
+Nan,10-14,0,2024,DF
+Phayao,10-14,0,2024,DF
+Phrae,10-14,0,2024,DF
+ZONE:02,10-14,0,2024,DF
+Phetchabun,10-14,0,2024,DF
+Phitsanulok,10-14,0,2024,DF
+Sukhothai,10-14,0,2024,DF
+Tak,10-14,0,2024,DF
+Uttaradit,10-14,0,2024,DF
+ZONE:03,10-14,0,2024,DF
+Chai Nat,10-14,0,2024,DF
+Kamphaeng Phet,10-14,0,2024,DF
+Nakhon Sawan,10-14,0,2024,DF
+Phichit,10-14,0,2024,DF
+Uthai Thani,10-14,0,2024,DF
+ZONE:04,10-14,0,2024,DF
+Ang Thong,10-14,0,2024,DF
+Lop Buri,10-14,0,2024,DF
+Nakhon Nayok,10-14,0,2024,DF
+Nonthaburi,10-14,0,2024,DF
+P.Nakhon S.Ayutthaya,10-14,0,2024,DF
+Pathum Thani,10-14,0,2024,DF
+Saraburi,10-14,0,2024,DF
+Sing Buri,10-14,0,2024,DF
+ZONE:05,10-14,0,2024,DF
+Kanchanaburi,10-14,0,2024,DF
+Nakhon Pathom,10-14,0,2024,DF
+Phetchaburi,10-14,0,2024,DF
+Prachuap Khiri Khan,10-14,0,2024,DF
+Ratchaburi,10-14,0,2024,DF
+Samut Sakhon,10-14,0,2024,DF
+Samut Songkhram,10-14,0,2024,DF
+Suphan Buri,10-14,0,2024,DF
+ZONE:06,10-14,0,2024,DF
+Chachoengsao,10-14,0,2024,DF
+Chanthaburi,10-14,0,2024,DF
+Chon Buri,10-14,0,2024,DF
+Prachin Buri,10-14,0,2024,DF
+Rayong,10-14,0,2024,DF
+Sa Kaeo,10-14,0,2024,DF
+Samut Prakan,10-14,0,2024,DF
+Trat,10-14,0,2024,DF
+ZONE:07,10-14,0,2024,DF
+Kalasin,10-14,0,2024,DF
+Khon Kaen,10-14,0,2024,DF
+Reported deaths by province and by age group : Thailand,10-14,,2024,DF
+Reporting Areas,10-14,10-14,2024,DF
+Maha Sarakham,10-14,0,2024,DF
+Roi Et,10-14,0,2024,DF
+ZONE:08,10-14,0,2024,DF
+Bungkan,10-14,0,2024,DF
+Loei,10-14,0,2024,DF
+Nakhon Phanom,10-14,0,2024,DF
+Nong Bua Lam Phu,10-14,0,2024,DF
+Nong Khai,10-14,0,2024,DF
+Sakon Nakhon,10-14,0,2024,DF
+Udon Thani,10-14,0,2024,DF
+ZONE:09,10-14,0,2024,DF
+Buri Ram,10-14,0,2024,DF
+Chaiyaphum,10-14,0,2024,DF
+Nakhon Ratchasima,10-14,0,2024,DF
+Surin,10-14,0,2024,DF
+ZONE:10,10-14,0,2024,DF
+Amnat Charoen,10-14,0,2024,DF
+Mukdahan,10-14,0,2024,DF
+Si Sa Ket,10-14,0,2024,DF
+Ubon Ratchathani,10-14,0,2024,DF
+Yasothon,10-14,0,2024,DF
+ZONE:11,10-14,0,2024,DF
+Chumphon,10-14,0,2024,DF
+Krabi,10-14,0,2024,DF
+Nakhon Si Thammarat,10-14,0,2024,DF
+Phangnga,10-14,0,2024,DF
+Phuket,10-14,0,2024,DF
+Ranong,10-14,0,2024,DF
+Surat Thani,10-14,0,2024,DF
+ZONE:12,10-14,0,2024,DF
+Narathiwat,10-14,0,2024,DF
+Pattani,10-14,0,2024,DF
+Phatthalung,10-14,0,2024,DF
+Satun,10-14,0,2024,DF
+Songkhla,10-14,0,2024,DF
+Trang,10-14,0,2024,DF
+Yala,10-14,0,2024,DF
+ZONE:13,10-14,0,2024,DF
+Bangkok,10-14,0,2024,DF
+Total,15-24,0,2024,DF
+ZONE:01,15-24,0,2024,DF
+Chiang Mai,15-24,0,2024,DF
+Chiang Rai,15-24,0,2024,DF
+Lampang,15-24,0,2024,DF
+Lamphun,15-24,0,2024,DF
+Mae Hong Son,15-24,0,2024,DF
+Nan,15-24,0,2024,DF
+Phayao,15-24,0,2024,DF
+Phrae,15-24,0,2024,DF
+ZONE:02,15-24,0,2024,DF
+Phetchabun,15-24,0,2024,DF
+Phitsanulok,15-24,0,2024,DF
+Sukhothai,15-24,0,2024,DF
+Tak,15-24,0,2024,DF
+Uttaradit,15-24,0,2024,DF
+ZONE:03,15-24,0,2024,DF
+Chai Nat,15-24,0,2024,DF
+Kamphaeng Phet,15-24,0,2024,DF
+Nakhon Sawan,15-24,0,2024,DF
+Phichit,15-24,0,2024,DF
+Uthai Thani,15-24,0,2024,DF
+ZONE:04,15-24,0,2024,DF
+Ang Thong,15-24,0,2024,DF
+Lop Buri,15-24,0,2024,DF
+Nakhon Nayok,15-24,0,2024,DF
+Nonthaburi,15-24,0,2024,DF
+P.Nakhon S.Ayutthaya,15-24,0,2024,DF
+Pathum Thani,15-24,0,2024,DF
+Saraburi,15-24,0,2024,DF
+Sing Buri,15-24,0,2024,DF
+ZONE:05,15-24,0,2024,DF
+Kanchanaburi,15-24,0,2024,DF
+Nakhon Pathom,15-24,0,2024,DF
+Phetchaburi,15-24,0,2024,DF
+Prachuap Khiri Khan,15-24,0,2024,DF
+Ratchaburi,15-24,0,2024,DF
+Samut Sakhon,15-24,0,2024,DF
+Samut Songkhram,15-24,0,2024,DF
+Suphan Buri,15-24,0,2024,DF
+ZONE:06,15-24,0,2024,DF
+Chachoengsao,15-24,0,2024,DF
+Chanthaburi,15-24,0,2024,DF
+Chon Buri,15-24,0,2024,DF
+Prachin Buri,15-24,0,2024,DF
+Rayong,15-24,0,2024,DF
+Sa Kaeo,15-24,0,2024,DF
+Samut Prakan,15-24,0,2024,DF
+Trat,15-24,0,2024,DF
+ZONE:07,15-24,0,2024,DF
+Kalasin,15-24,0,2024,DF
+Khon Kaen,15-24,0,2024,DF
+Reported deaths by province and by age group : Thailand,15-24,,2024,DF
+Reporting Areas,15-24,15-24,2024,DF
+Maha Sarakham,15-24,0,2024,DF
+Roi Et,15-24,0,2024,DF
+ZONE:08,15-24,0,2024,DF
+Bungkan,15-24,0,2024,DF
+Loei,15-24,0,2024,DF
+Nakhon Phanom,15-24,0,2024,DF
+Nong Bua Lam Phu,15-24,0,2024,DF
+Nong Khai,15-24,0,2024,DF
+Sakon Nakhon,15-24,0,2024,DF
+Udon Thani,15-24,0,2024,DF
+ZONE:09,15-24,0,2024,DF
+Buri Ram,15-24,0,2024,DF
+Chaiyaphum,15-24,0,2024,DF
+Nakhon Ratchasima,15-24,0,2024,DF
+Surin,15-24,0,2024,DF
+ZONE:10,15-24,0,2024,DF
+Amnat Charoen,15-24,0,2024,DF
+Mukdahan,15-24,0,2024,DF
+Si Sa Ket,15-24,0,2024,DF
+Ubon Ratchathani,15-24,0,2024,DF
+Yasothon,15-24,0,2024,DF
+ZONE:11,15-24,0,2024,DF
+Chumphon,15-24,0,2024,DF
+Krabi,15-24,0,2024,DF
+Nakhon Si Thammarat,15-24,0,2024,DF
+Phangnga,15-24,0,2024,DF
+Phuket,15-24,0,2024,DF
+Ranong,15-24,0,2024,DF
+Surat Thani,15-24,0,2024,DF
+ZONE:12,15-24,0,2024,DF
+Narathiwat,15-24,0,2024,DF
+Pattani,15-24,0,2024,DF
+Phatthalung,15-24,0,2024,DF
+Satun,15-24,0,2024,DF
+Songkhla,15-24,0,2024,DF
+Trang,15-24,0,2024,DF
+Yala,15-24,0,2024,DF
+ZONE:13,15-24,0,2024,DF
+Bangkok,15-24,0,2024,DF
+Total,25-34,0,2024,DF
+ZONE:01,25-34,0,2024,DF
+Chiang Mai,25-34,0,2024,DF
+Chiang Rai,25-34,0,2024,DF
+Lampang,25-34,0,2024,DF
+Lamphun,25-34,0,2024,DF
+Mae Hong Son,25-34,0,2024,DF
+Nan,25-34,0,2024,DF
+Phayao,25-34,0,2024,DF
+Phrae,25-34,0,2024,DF
+ZONE:02,25-34,0,2024,DF
+Phetchabun,25-34,0,2024,DF
+Phitsanulok,25-34,0,2024,DF
+Sukhothai,25-34,0,2024,DF
+Tak,25-34,0,2024,DF
+Uttaradit,25-34,0,2024,DF
+ZONE:03,25-34,0,2024,DF
+Chai Nat,25-34,0,2024,DF
+Kamphaeng Phet,25-34,0,2024,DF
+Nakhon Sawan,25-34,0,2024,DF
+Phichit,25-34,0,2024,DF
+Uthai Thani,25-34,0,2024,DF
+ZONE:04,25-34,0,2024,DF
+Ang Thong,25-34,0,2024,DF
+Lop Buri,25-34,0,2024,DF
+Nakhon Nayok,25-34,0,2024,DF
+Nonthaburi,25-34,0,2024,DF
+P.Nakhon S.Ayutthaya,25-34,0,2024,DF
+Pathum Thani,25-34,0,2024,DF
+Saraburi,25-34,0,2024,DF
+Sing Buri,25-34,0,2024,DF
+ZONE:05,25-34,0,2024,DF
+Kanchanaburi,25-34,0,2024,DF
+Nakhon Pathom,25-34,0,2024,DF
+Phetchaburi,25-34,0,2024,DF
+Prachuap Khiri Khan,25-34,0,2024,DF
+Ratchaburi,25-34,0,2024,DF
+Samut Sakhon,25-34,0,2024,DF
+Samut Songkhram,25-34,0,2024,DF
+Suphan Buri,25-34,0,2024,DF
+ZONE:06,25-34,0,2024,DF
+Chachoengsao,25-34,0,2024,DF
+Chanthaburi,25-34,0,2024,DF
+Chon Buri,25-34,0,2024,DF
+Prachin Buri,25-34,0,2024,DF
+Rayong,25-34,0,2024,DF
+Sa Kaeo,25-34,0,2024,DF
+Samut Prakan,25-34,0,2024,DF
+Trat,25-34,0,2024,DF
+ZONE:07,25-34,0,2024,DF
+Kalasin,25-34,0,2024,DF
+Khon Kaen,25-34,0,2024,DF
+Reported deaths by province and by age group : Thailand,25-34,,2024,DF
+Reporting Areas,25-34,25-34,2024,DF
+Maha Sarakham,25-34,0,2024,DF
+Roi Et,25-34,0,2024,DF
+ZONE:08,25-34,0,2024,DF
+Bungkan,25-34,0,2024,DF
+Loei,25-34,0,2024,DF
+Nakhon Phanom,25-34,0,2024,DF
+Nong Bua Lam Phu,25-34,0,2024,DF
+Nong Khai,25-34,0,2024,DF
+Sakon Nakhon,25-34,0,2024,DF
+Udon Thani,25-34,0,2024,DF
+ZONE:09,25-34,0,2024,DF
+Buri Ram,25-34,0,2024,DF
+Chaiyaphum,25-34,0,2024,DF
+Nakhon Ratchasima,25-34,0,2024,DF
+Surin,25-34,0,2024,DF
+ZONE:10,25-34,0,2024,DF
+Amnat Charoen,25-34,0,2024,DF
+Mukdahan,25-34,0,2024,DF
+Si Sa Ket,25-34,0,2024,DF
+Ubon Ratchathani,25-34,0,2024,DF
+Yasothon,25-34,0,2024,DF
+ZONE:11,25-34,0,2024,DF
+Chumphon,25-34,0,2024,DF
+Krabi,25-34,0,2024,DF
+Nakhon Si Thammarat,25-34,0,2024,DF
+Phangnga,25-34,0,2024,DF
+Phuket,25-34,0,2024,DF
+Ranong,25-34,0,2024,DF
+Surat Thani,25-34,0,2024,DF
+ZONE:12,25-34,0,2024,DF
+Narathiwat,25-34,0,2024,DF
+Pattani,25-34,0,2024,DF
+Phatthalung,25-34,0,2024,DF
+Satun,25-34,0,2024,DF
+Songkhla,25-34,0,2024,DF
+Trang,25-34,0,2024,DF
+Yala,25-34,0,2024,DF
+ZONE:13,25-34,0,2024,DF
+Bangkok,25-34,0,2024,DF
+Total,35-44,0,2024,DF
+ZONE:01,35-44,0,2024,DF
+Chiang Mai,35-44,0,2024,DF
+Chiang Rai,35-44,0,2024,DF
+Lampang,35-44,0,2024,DF
+Lamphun,35-44,0,2024,DF
+Mae Hong Son,35-44,0,2024,DF
+Nan,35-44,0,2024,DF
+Phayao,35-44,0,2024,DF
+Phrae,35-44,0,2024,DF
+ZONE:02,35-44,0,2024,DF
+Phetchabun,35-44,0,2024,DF
+Phitsanulok,35-44,0,2024,DF
+Sukhothai,35-44,0,2024,DF
+Tak,35-44,0,2024,DF
+Uttaradit,35-44,0,2024,DF
+ZONE:03,35-44,0,2024,DF
+Chai Nat,35-44,0,2024,DF
+Kamphaeng Phet,35-44,0,2024,DF
+Nakhon Sawan,35-44,0,2024,DF
+Phichit,35-44,0,2024,DF
+Uthai Thani,35-44,0,2024,DF
+ZONE:04,35-44,0,2024,DF
+Ang Thong,35-44,0,2024,DF
+Lop Buri,35-44,0,2024,DF
+Nakhon Nayok,35-44,0,2024,DF
+Nonthaburi,35-44,0,2024,DF
+P.Nakhon S.Ayutthaya,35-44,0,2024,DF
+Pathum Thani,35-44,0,2024,DF
+Saraburi,35-44,0,2024,DF
+Sing Buri,35-44,0,2024,DF
+ZONE:05,35-44,0,2024,DF
+Kanchanaburi,35-44,0,2024,DF
+Nakhon Pathom,35-44,0,2024,DF
+Phetchaburi,35-44,0,2024,DF
+Prachuap Khiri Khan,35-44,0,2024,DF
+Ratchaburi,35-44,0,2024,DF
+Samut Sakhon,35-44,0,2024,DF
+Samut Songkhram,35-44,0,2024,DF
+Suphan Buri,35-44,0,2024,DF
+ZONE:06,35-44,0,2024,DF
+Chachoengsao,35-44,0,2024,DF
+Chanthaburi,35-44,0,2024,DF
+Chon Buri,35-44,0,2024,DF
+Prachin Buri,35-44,0,2024,DF
+Rayong,35-44,0,2024,DF
+Sa Kaeo,35-44,0,2024,DF
+Samut Prakan,35-44,0,2024,DF
+Trat,35-44,0,2024,DF
+ZONE:07,35-44,0,2024,DF
+Kalasin,35-44,0,2024,DF
+Khon Kaen,35-44,0,2024,DF
+Reported deaths by province and by age group : Thailand,35-44,,2024,DF
+Reporting Areas,35-44,35-44,2024,DF
+Maha Sarakham,35-44,0,2024,DF
+Roi Et,35-44,0,2024,DF
+ZONE:08,35-44,0,2024,DF
+Bungkan,35-44,0,2024,DF
+Loei,35-44,0,2024,DF
+Nakhon Phanom,35-44,0,2024,DF
+Nong Bua Lam Phu,35-44,0,2024,DF
+Nong Khai,35-44,0,2024,DF
+Sakon Nakhon,35-44,0,2024,DF
+Udon Thani,35-44,0,2024,DF
+ZONE:09,35-44,0,2024,DF
+Buri Ram,35-44,0,2024,DF
+Chaiyaphum,35-44,0,2024,DF
+Nakhon Ratchasima,35-44,0,2024,DF
+Surin,35-44,0,2024,DF
+ZONE:10,35-44,0,2024,DF
+Amnat Charoen,35-44,0,2024,DF
+Mukdahan,35-44,0,2024,DF
+Si Sa Ket,35-44,0,2024,DF
+Ubon Ratchathani,35-44,0,2024,DF
+Yasothon,35-44,0,2024,DF
+ZONE:11,35-44,0,2024,DF
+Chumphon,35-44,0,2024,DF
+Krabi,35-44,0,2024,DF
+Nakhon Si Thammarat,35-44,0,2024,DF
+Phangnga,35-44,0,2024,DF
+Phuket,35-44,0,2024,DF
+Ranong,35-44,0,2024,DF
+Surat Thani,35-44,0,2024,DF
+ZONE:12,35-44,0,2024,DF
+Narathiwat,35-44,0,2024,DF
+Pattani,35-44,0,2024,DF
+Phatthalung,35-44,0,2024,DF
+Satun,35-44,0,2024,DF
+Songkhla,35-44,0,2024,DF
+Trang,35-44,0,2024,DF
+Yala,35-44,0,2024,DF
+ZONE:13,35-44,0,2024,DF
+Bangkok,35-44,0,2024,DF
+Total,45-54,0,2024,DF
+ZONE:01,45-54,0,2024,DF
+Chiang Mai,45-54,0,2024,DF
+Chiang Rai,45-54,0,2024,DF
+Lampang,45-54,0,2024,DF
+Lamphun,45-54,0,2024,DF
+Mae Hong Son,45-54,0,2024,DF
+Nan,45-54,0,2024,DF
+Phayao,45-54,0,2024,DF
+Phrae,45-54,0,2024,DF
+ZONE:02,45-54,0,2024,DF
+Phetchabun,45-54,0,2024,DF
+Phitsanulok,45-54,0,2024,DF
+Sukhothai,45-54,0,2024,DF
+Tak,45-54,0,2024,DF
+Uttaradit,45-54,0,2024,DF
+ZONE:03,45-54,0,2024,DF
+Chai Nat,45-54,0,2024,DF
+Kamphaeng Phet,45-54,0,2024,DF
+Nakhon Sawan,45-54,0,2024,DF
+Phichit,45-54,0,2024,DF
+Uthai Thani,45-54,0,2024,DF
+ZONE:04,45-54,0,2024,DF
+Ang Thong,45-54,0,2024,DF
+Lop Buri,45-54,0,2024,DF
+Nakhon Nayok,45-54,0,2024,DF
+Nonthaburi,45-54,0,2024,DF
+P.Nakhon S.Ayutthaya,45-54,0,2024,DF
+Pathum Thani,45-54,0,2024,DF
+Saraburi,45-54,0,2024,DF
+Sing Buri,45-54,0,2024,DF
+ZONE:05,45-54,0,2024,DF
+Kanchanaburi,45-54,0,2024,DF
+Nakhon Pathom,45-54,0,2024,DF
+Phetchaburi,45-54,0,2024,DF
+Prachuap Khiri Khan,45-54,0,2024,DF
+Ratchaburi,45-54,0,2024,DF
+Samut Sakhon,45-54,0,2024,DF
+Samut Songkhram,45-54,0,2024,DF
+Suphan Buri,45-54,0,2024,DF
+ZONE:06,45-54,0,2024,DF
+Chachoengsao,45-54,0,2024,DF
+Chanthaburi,45-54,0,2024,DF
+Chon Buri,45-54,0,2024,DF
+Prachin Buri,45-54,0,2024,DF
+Rayong,45-54,0,2024,DF
+Sa Kaeo,45-54,0,2024,DF
+Samut Prakan,45-54,0,2024,DF
+Trat,45-54,0,2024,DF
+ZONE:07,45-54,0,2024,DF
+Kalasin,45-54,0,2024,DF
+Khon Kaen,45-54,0,2024,DF
+Reported deaths by province and by age group : Thailand,45-54,,2024,DF
+Reporting Areas,45-54,45-54,2024,DF
+Maha Sarakham,45-54,0,2024,DF
+Roi Et,45-54,0,2024,DF
+ZONE:08,45-54,0,2024,DF
+Bungkan,45-54,0,2024,DF
+Loei,45-54,0,2024,DF
+Nakhon Phanom,45-54,0,2024,DF
+Nong Bua Lam Phu,45-54,0,2024,DF
+Nong Khai,45-54,0,2024,DF
+Sakon Nakhon,45-54,0,2024,DF
+Udon Thani,45-54,0,2024,DF
+ZONE:09,45-54,0,2024,DF
+Buri Ram,45-54,0,2024,DF
+Chaiyaphum,45-54,0,2024,DF
+Nakhon Ratchasima,45-54,0,2024,DF
+Surin,45-54,0,2024,DF
+ZONE:10,45-54,0,2024,DF
+Amnat Charoen,45-54,0,2024,DF
+Mukdahan,45-54,0,2024,DF
+Si Sa Ket,45-54,0,2024,DF
+Ubon Ratchathani,45-54,0,2024,DF
+Yasothon,45-54,0,2024,DF
+ZONE:11,45-54,0,2024,DF
+Chumphon,45-54,0,2024,DF
+Krabi,45-54,0,2024,DF
+Nakhon Si Thammarat,45-54,0,2024,DF
+Phangnga,45-54,0,2024,DF
+Phuket,45-54,0,2024,DF
+Ranong,45-54,0,2024,DF
+Surat Thani,45-54,0,2024,DF
+ZONE:12,45-54,0,2024,DF
+Narathiwat,45-54,0,2024,DF
+Pattani,45-54,0,2024,DF
+Phatthalung,45-54,0,2024,DF
+Satun,45-54,0,2024,DF
+Songkhla,45-54,0,2024,DF
+Trang,45-54,0,2024,DF
+Yala,45-54,0,2024,DF
+ZONE:13,45-54,0,2024,DF
+Bangkok,45-54,0,2024,DF
+Total,55-64,1,2024,DF
+ZONE:01,55-64,0,2024,DF
+Chiang Mai,55-64,0,2024,DF
+Chiang Rai,55-64,0,2024,DF
+Lampang,55-64,0,2024,DF
+Lamphun,55-64,0,2024,DF
+Mae Hong Son,55-64,0,2024,DF
+Nan,55-64,0,2024,DF
+Phayao,55-64,0,2024,DF
+Phrae,55-64,0,2024,DF
+ZONE:02,55-64,0,2024,DF
+Phetchabun,55-64,0,2024,DF
+Phitsanulok,55-64,0,2024,DF
+Sukhothai,55-64,0,2024,DF
+Tak,55-64,0,2024,DF
+Uttaradit,55-64,0,2024,DF
+ZONE:03,55-64,0,2024,DF
+Chai Nat,55-64,0,2024,DF
+Kamphaeng Phet,55-64,0,2024,DF
+Nakhon Sawan,55-64,0,2024,DF
+Phichit,55-64,0,2024,DF
+Uthai Thani,55-64,0,2024,DF
+ZONE:04,55-64,0,2024,DF
+Ang Thong,55-64,0,2024,DF
+Lop Buri,55-64,0,2024,DF
+Nakhon Nayok,55-64,0,2024,DF
+Nonthaburi,55-64,0,2024,DF
+P.Nakhon S.Ayutthaya,55-64,0,2024,DF
+Pathum Thani,55-64,0,2024,DF
+Saraburi,55-64,0,2024,DF
+Sing Buri,55-64,0,2024,DF
+ZONE:05,55-64,1,2024,DF
+Kanchanaburi,55-64,1,2024,DF
+Nakhon Pathom,55-64,0,2024,DF
+Phetchaburi,55-64,0,2024,DF
+Prachuap Khiri Khan,55-64,0,2024,DF
+Ratchaburi,55-64,0,2024,DF
+Samut Sakhon,55-64,0,2024,DF
+Samut Songkhram,55-64,0,2024,DF
+Suphan Buri,55-64,0,2024,DF
+ZONE:06,55-64,0,2024,DF
+Chachoengsao,55-64,0,2024,DF
+Chanthaburi,55-64,0,2024,DF
+Chon Buri,55-64,0,2024,DF
+Prachin Buri,55-64,0,2024,DF
+Rayong,55-64,0,2024,DF
+Sa Kaeo,55-64,0,2024,DF
+Samut Prakan,55-64,0,2024,DF
+Trat,55-64,0,2024,DF
+ZONE:07,55-64,0,2024,DF
+Kalasin,55-64,0,2024,DF
+Khon Kaen,55-64,0,2024,DF
+Reported deaths by province and by age group : Thailand,55-64,,2024,DF
+Reporting Areas,55-64,55-64,2024,DF
+Maha Sarakham,55-64,0,2024,DF
+Roi Et,55-64,0,2024,DF
+ZONE:08,55-64,0,2024,DF
+Bungkan,55-64,0,2024,DF
+Loei,55-64,0,2024,DF
+Nakhon Phanom,55-64,0,2024,DF
+Nong Bua Lam Phu,55-64,0,2024,DF
+Nong Khai,55-64,0,2024,DF
+Sakon Nakhon,55-64,0,2024,DF
+Udon Thani,55-64,0,2024,DF
+ZONE:09,55-64,0,2024,DF
+Buri Ram,55-64,0,2024,DF
+Chaiyaphum,55-64,0,2024,DF
+Nakhon Ratchasima,55-64,0,2024,DF
+Surin,55-64,0,2024,DF
+ZONE:10,55-64,0,2024,DF
+Amnat Charoen,55-64,0,2024,DF
+Mukdahan,55-64,0,2024,DF
+Si Sa Ket,55-64,0,2024,DF
+Ubon Ratchathani,55-64,0,2024,DF
+Yasothon,55-64,0,2024,DF
+ZONE:11,55-64,0,2024,DF
+Chumphon,55-64,0,2024,DF
+Krabi,55-64,0,2024,DF
+Nakhon Si Thammarat,55-64,0,2024,DF
+Phangnga,55-64,0,2024,DF
+Phuket,55-64,0,2024,DF
+Ranong,55-64,0,2024,DF
+Surat Thani,55-64,0,2024,DF
+ZONE:12,55-64,0,2024,DF
+Narathiwat,55-64,0,2024,DF
+Pattani,55-64,0,2024,DF
+Phatthalung,55-64,0,2024,DF
+Satun,55-64,0,2024,DF
+Songkhla,55-64,0,2024,DF
+Trang,55-64,0,2024,DF
+Yala,55-64,0,2024,DF
+ZONE:13,55-64,0,2024,DF
+Bangkok,55-64,0,2024,DF
+Total,65+,0,2024,DF
+ZONE:01,65+,0,2024,DF
+Chiang Mai,65+,0,2024,DF
+Chiang Rai,65+,0,2024,DF
+Lampang,65+,0,2024,DF
+Lamphun,65+,0,2024,DF
+Mae Hong Son,65+,0,2024,DF
+Nan,65+,0,2024,DF
+Phayao,65+,0,2024,DF
+Phrae,65+,0,2024,DF
+ZONE:02,65+,0,2024,DF
+Phetchabun,65+,0,2024,DF
+Phitsanulok,65+,0,2024,DF
+Sukhothai,65+,0,2024,DF
+Tak,65+,0,2024,DF
+Uttaradit,65+,0,2024,DF
+ZONE:03,65+,0,2024,DF
+Chai Nat,65+,0,2024,DF
+Kamphaeng Phet,65+,0,2024,DF
+Nakhon Sawan,65+,0,2024,DF
+Phichit,65+,0,2024,DF
+Uthai Thani,65+,0,2024,DF
+ZONE:04,65+,0,2024,DF
+Ang Thong,65+,0,2024,DF
+Lop Buri,65+,0,2024,DF
+Nakhon Nayok,65+,0,2024,DF
+Nonthaburi,65+,0,2024,DF
+P.Nakhon S.Ayutthaya,65+,0,2024,DF
+Pathum Thani,65+,0,2024,DF
+Saraburi,65+,0,2024,DF
+Sing Buri,65+,0,2024,DF
+ZONE:05,65+,0,2024,DF
+Kanchanaburi,65+,0,2024,DF
+Nakhon Pathom,65+,0,2024,DF
+Phetchaburi,65+,0,2024,DF
+Prachuap Khiri Khan,65+,0,2024,DF
+Ratchaburi,65+,0,2024,DF
+Samut Sakhon,65+,0,2024,DF
+Samut Songkhram,65+,0,2024,DF
+Suphan Buri,65+,0,2024,DF
+ZONE:06,65+,0,2024,DF
+Chachoengsao,65+,0,2024,DF
+Chanthaburi,65+,0,2024,DF
+Chon Buri,65+,0,2024,DF
+Prachin Buri,65+,0,2024,DF
+Rayong,65+,0,2024,DF
+Sa Kaeo,65+,0,2024,DF
+Samut Prakan,65+,0,2024,DF
+Trat,65+,0,2024,DF
+ZONE:07,65+,0,2024,DF
+Kalasin,65+,0,2024,DF
+Khon Kaen,65+,0,2024,DF
+Reported deaths by province and by age group : Thailand,65+,,2024,DF
+Reporting Areas,65+,65+,2024,DF
+Maha Sarakham,65+,0,2024,DF
+Roi Et,65+,0,2024,DF
+ZONE:08,65+,0,2024,DF
+Bungkan,65+,0,2024,DF
+Loei,65+,0,2024,DF
+Nakhon Phanom,65+,0,2024,DF
+Nong Bua Lam Phu,65+,0,2024,DF
+Nong Khai,65+,0,2024,DF
+Sakon Nakhon,65+,0,2024,DF
+Udon Thani,65+,0,2024,DF
+ZONE:09,65+,0,2024,DF
+Buri Ram,65+,0,2024,DF
+Chaiyaphum,65+,0,2024,DF
+Nakhon Ratchasima,65+,0,2024,DF
+Surin,65+,0,2024,DF
+ZONE:10,65+,0,2024,DF
+Amnat Charoen,65+,0,2024,DF
+Mukdahan,65+,0,2024,DF
+Si Sa Ket,65+,0,2024,DF
+Ubon Ratchathani,65+,0,2024,DF
+Yasothon,65+,0,2024,DF
+ZONE:11,65+,0,2024,DF
+Chumphon,65+,0,2024,DF
+Krabi,65+,0,2024,DF
+Nakhon Si Thammarat,65+,0,2024,DF
+Phangnga,65+,0,2024,DF
+Phuket,65+,0,2024,DF
+Ranong,65+,0,2024,DF
+Surat Thani,65+,0,2024,DF
+ZONE:12,65+,0,2024,DF
+Narathiwat,65+,0,2024,DF
+Pattani,65+,0,2024,DF
+Phatthalung,65+,0,2024,DF
+Satun,65+,0,2024,DF
+Songkhla,65+,0,2024,DF
+Trang,65+,0,2024,DF
+Yala,65+,0,2024,DF
+ZONE:13,65+,0,2024,DF
+Bangkok,65+,0,2024,DF
+Total,Unknown,0,2024,DF
+ZONE:01,Unknown,0,2024,DF
+Chiang Mai,Unknown,0,2024,DF
+Chiang Rai,Unknown,0,2024,DF
+Lampang,Unknown,0,2024,DF
+Lamphun,Unknown,0,2024,DF
+Mae Hong Son,Unknown,0,2024,DF
+Nan,Unknown,0,2024,DF
+Phayao,Unknown,0,2024,DF
+Phrae,Unknown,0,2024,DF
+ZONE:02,Unknown,0,2024,DF
+Phetchabun,Unknown,0,2024,DF
+Phitsanulok,Unknown,0,2024,DF
+Sukhothai,Unknown,0,2024,DF
+Tak,Unknown,0,2024,DF
+Uttaradit,Unknown,0,2024,DF
+ZONE:03,Unknown,0,2024,DF
+Chai Nat,Unknown,0,2024,DF
+Kamphaeng Phet,Unknown,0,2024,DF
+Nakhon Sawan,Unknown,0,2024,DF
+Phichit,Unknown,0,2024,DF
+Uthai Thani,Unknown,0,2024,DF
+ZONE:04,Unknown,0,2024,DF
+Ang Thong,Unknown,0,2024,DF
+Lop Buri,Unknown,0,2024,DF
+Nakhon Nayok,Unknown,0,2024,DF
+Nonthaburi,Unknown,0,2024,DF
+P.Nakhon S.Ayutthaya,Unknown,0,2024,DF
+Pathum Thani,Unknown,0,2024,DF
+Saraburi,Unknown,0,2024,DF
+Sing Buri,Unknown,0,2024,DF
+ZONE:05,Unknown,0,2024,DF
+Kanchanaburi,Unknown,0,2024,DF
+Nakhon Pathom,Unknown,0,2024,DF
+Phetchaburi,Unknown,0,2024,DF
+Prachuap Khiri Khan,Unknown,0,2024,DF
+Ratchaburi,Unknown,0,2024,DF
+Samut Sakhon,Unknown,0,2024,DF
+Samut Songkhram,Unknown,0,2024,DF
+Suphan Buri,Unknown,0,2024,DF
+ZONE:06,Unknown,0,2024,DF
+Chachoengsao,Unknown,0,2024,DF
+Chanthaburi,Unknown,0,2024,DF
+Chon Buri,Unknown,0,2024,DF
+Prachin Buri,Unknown,0,2024,DF
+Rayong,Unknown,0,2024,DF
+Sa Kaeo,Unknown,0,2024,DF
+Samut Prakan,Unknown,0,2024,DF
+Trat,Unknown,0,2024,DF
+ZONE:07,Unknown,0,2024,DF
+Kalasin,Unknown,0,2024,DF
+Khon Kaen,Unknown,0,2024,DF
+Reported deaths by province and by age group : Thailand,Unknown,,2024,DF
+Reporting Areas,Unknown,ไม่ทรา,2024,DF
+Maha Sarakham,Unknown,0,2024,DF
+Roi Et,Unknown,0,2024,DF
+ZONE:08,Unknown,0,2024,DF
+Bungkan,Unknown,0,2024,DF
+Loei,Unknown,0,2024,DF
+Nakhon Phanom,Unknown,0,2024,DF
+Nong Bua Lam Phu,Unknown,0,2024,DF
+Nong Khai,Unknown,0,2024,DF
+Sakon Nakhon,Unknown,0,2024,DF
+Udon Thani,Unknown,0,2024,DF
+ZONE:09,Unknown,0,2024,DF
+Buri Ram,Unknown,0,2024,DF
+Chaiyaphum,Unknown,0,2024,DF
+Nakhon Ratchasima,Unknown,0,2024,DF
+Surin,Unknown,0,2024,DF
+ZONE:10,Unknown,0,2024,DF
+Amnat Charoen,Unknown,0,2024,DF
+Mukdahan,Unknown,0,2024,DF
+Si Sa Ket,Unknown,0,2024,DF
+Ubon Ratchathani,Unknown,0,2024,DF
+Yasothon,Unknown,0,2024,DF
+ZONE:11,Unknown,0,2024,DF
+Chumphon,Unknown,0,2024,DF
+Krabi,Unknown,0,2024,DF
+Nakhon Si Thammarat,Unknown,0,2024,DF
+Phangnga,Unknown,0,2024,DF
+Phuket,Unknown,0,2024,DF
+Ranong,Unknown,0,2024,DF
+Surat Thani,Unknown,0,2024,DF
+ZONE:12,Unknown,0,2024,DF
+Narathiwat,Unknown,0,2024,DF
+Pattani,Unknown,0,2024,DF
+Phatthalung,Unknown,0,2024,DF
+Satun,Unknown,0,2024,DF
+Songkhla,Unknown,0,2024,DF
+Trang,Unknown,0,2024,DF
+Yala,Unknown,0,2024,DF
+ZONE:13,Unknown,0,2024,DF
+Bangkok,Unknown,0,2024,DF
 Total,Total,1,2005,DF
 North Region,Total,0,2005,DF
 Zone: 1,Total,0,2005,DF

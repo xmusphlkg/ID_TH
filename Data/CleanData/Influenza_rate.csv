@@ -1,4 +1,99 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,216116,327.09,14,0.01,0.02,66071545,2024,Influenza
+ZONE:01,13516,230.75,0,0.00,0.00,5857413,2024,Influenza
+Chiang Mai,2628,146.43,0,0.00,0.00,1794774,2024,Influenza
+Chiang Rai,3089,237.74,0,0.00,0.00,1299306,2024,Influenza
+Lampang,2160,302.04,0,0.00,0.00,715133,2024,Influenza
+Lamphun,1197,300.00,0,0.00,0.00,398998,2024,Influenza
+Mae Hong Son,244,84.95,0,0.00,0.00,287215,2024,Influenza
+Nan,727,153.50,0,0.00,0.00,473630,2024,Influenza
+Phayao,2377,516.90,0,0.00,0.00,459858,2024,Influenza
+Phrae,1094,255.31,0,0.00,0.00,428499,2024,Influenza
+ZONE:02,10314,292.80,2,0.02,0.06,3522489,2024,Influenza
+Phetchabun,3131,322.65,0,0.00,0.00,970403,2024,Influenza
+Phitsanulok,3740,443.60,1,0.03,0.12,843111,2024,Influenza
+Sukhothai,1063,183.35,1,0.09,0.17,579759,2024,Influenza
+Tak,1070,155.54,0,0.00,0.00,687927,2024,Influenza
+Uttaradit,1310,296.86,0,0.00,0.00,441289,2024,Influenza
+ZONE:03,9217,318.22,0,0.00,0.00,2896463,2024,Influenza
+Chai Nat,735,231.67,0,0.00,0.00,317263,2024,Influenza
+Kamphaeng Phet,1293,182.92,0,0.00,0.00,706861,2024,Influenza
+Nakhon Sawan,3518,343.10,0,0.00,0.00,1025348,2024,Influenza
+Phichit,2793,533.09,0,0.00,0.00,523925,2024,Influenza
+Uthai Thani,878,271.77,0,0.00,0.00,323066,2024,Influenza
+ZONE:04,16248,298.74,0,0.00,0.00,5438863,2024,Influenza
+Ang Thong,860,316.58,0,0.00,0.00,271656,2024,Influenza
+Lop Buri,1408,192.22,0,0.00,0.00,732495,2024,Influenza
+Nakhon Nayok,541,207.87,0,0.00,0.00,260261,2024,Influenza
+Nonthaburi,4312,331.18,0,0.00,0.00,1302004,2024,Influenza
+P.Nakhon S.Ayutthaya,2387,290.65,0,0.00,0.00,821261,2024,Influenza
+Pathum Thani,4470,369.31,0,0.00,0.00,1210365,2024,Influenza
+Saraburi,1206,188.82,0,0.00,0.00,638704,2024,Influenza
+Sing Buri,1064,526.43,0,0.00,0.00,202117,2024,Influenza
+ZONE:05,15746,295.61,0,0.00,0.00,5326695,2024,Influenza
+Kanchanaburi,2071,231.45,0,0.00,0.00,894781,2024,Influenza
+Nakhon Pathom,4801,520.04,0,0.00,0.00,923201,2024,Influenza
+Phetchaburi,1121,231.94,0,0.00,0.00,483305,2024,Influenza
+Prachuap Khiri Khan,1804,326.73,0,0.00,0.00,552137,2024,Influenza
+Ratchaburi,2060,238.07,0,0.00,0.00,865276,2024,Influenza
+Samut Sakhon,1511,255.79,0,0.00,0.00,590730,2024,Influenza
+Samut Songkhram,170,90.08,0,0.00,0.00,188723,2024,Influenza
+Suphan Buri,2208,266.49,0,0.00,0.00,828542,2024,Influenza
+ZONE:06,32418,515.21,1,0.00,0.02,6292163,2024,Influenza
+Chachoengsao,4064,557.77,0,0.00,0.00,728615,2024,Influenza
+Chanthaburi,2293,427.57,0,0.00,0.00,536290,2024,Influenza
+Chon Buri,12905,803.34,0,0.00,0.00,1606412,2024,Influenza
+Prachin Buri,897,179.88,0,0.00,0.00,498671,2024,Influenza
+Rayong,3782,494.19,0,0.00,0.00,765287,2024,Influenza
+Sa Kaeo,573,101.80,0,0.00,0.00,562860,2024,Influenza
+Samut Prakan,7161,524.00,1,0.01,0.07,1366598,2024,Influenza
+Trat,743,326.69,0,0.00,0.00,227430,2024,Influenza
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/7/2567,,,,,,2024,Influenza
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2567(2024),Influenza,15,,,,2024,Influenza
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2024,Influenza
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2024,Influenza
+ZONE:07,9597,192.66,0,0.00,0.00,4981337,2024,Influenza
+Kalasin,2243,231.22,0,0.00,0.00,970084,2024,Influenza
+Khon Kaen,3966,222.56,0,0.00,0.00,1782008,2024,Influenza
+Maha Sarakham,765,81.27,0,0.00,0.00,941261,2024,Influenza
+Roi Et,2623,203.65,0,0.00,0.00,1287984,2024,Influenza
+ZONE:08,9805,178.27,0,0.00,0.00,5500012,2024,Influenza
+Bungkan,866,205.66,0,0.00,0.00,421086,2024,Influenza
+Loei,1327,208.57,0,0.00,0.00,636242,2024,Influenza
+Nakhon Phanom,1137,158.92,0,0.00,0.00,715466,2024,Influenza
+Nong Bua Lam Phu,1263,248.82,0,0.00,0.00,507599,2024,Influenza
+Nong Khai,1402,272.28,0,0.00,0.00,514909,2024,Influenza
+Sakon Nakhon,1058,92.49,0,0.00,0.00,1143922,2024,Influenza
+Udon Thani,2752,176.32,0,0.00,0.00,1560788,2024,Influenza
+ZONE:09,20994,313.86,5,0.02,0.07,6689028,2024,Influenza
+Buri Ram,2752,174.72,0,0.00,0.00,1575073,2024,Influenza
+Chaiyaphum,3964,355.31,1,0.03,0.09,1115652,2024,Influenza
+Nakhon Ratchasima,11075,421.43,4,0.04,0.15,2627927,2024,Influenza
+Surin,3203,233.73,0,0.00,0.00,1370376,2024,Influenza
+ZONE:10,14972,326.98,0,0.00,0.00,4578831,2024,Influenza
+Amnat Charoen,852,227.35,0,0.00,0.00,374760,2024,Influenza
+Mukdahan,1003,285.27,0,0.00,0.00,351592,2024,Influenza
+Si Sa Ket,1971,135.69,0,0.00,0.00,1452532,2024,Influenza
+Ubon Ratchathani,8794,470.34,0,0.00,0.00,1869708,2024,Influenza
+Yasothon,2352,443.57,0,0.00,0.00,530239,2024,Influenza
+ZONE:11,15588,347.19,5,0.03,0.11,4489783,2024,Influenza
+Chumphon,1540,302.48,0,0.00,0.00,509122,2024,Influenza
+Krabi,1386,288.10,0,0.00,0.00,481089,2024,Influenza
+Nakhon Si Thammarat,5422,351.38,3,0.06,0.19,1543051,2024,Influenza
+Phangnga,613,229.37,0,0.00,0.00,267250,2024,Influenza
+Phuket,2909,691.39,1,0.03,0.24,420746,2024,Influenza
+Ranong,248,127.97,0,0.00,0.00,193799,2024,Influenza
+Surat Thani,3470,322.87,1,0.03,0.09,1074726,2024,Influenza
+ZONE:12,11201,223.34,0,0.00,0.00,5015209,2024,Influenza
+Narathiwat,1487,182.09,0,0.00,0.00,816642,2024,Influenza
+Pattani,664,90.34,0,0.00,0.00,735017,2024,Influenza
+Phatthalung,1511,289.96,0,0.00,0.00,521109,2024,Influenza
+Satun,391,120.16,0,0.00,0.00,325387,2024,Influenza
+Songkhla,4824,336.99,0,0.00,0.00,1431512,2024,Influenza
+Trang,1376,215.81,0,0.00,0.00,637612,2024,Influenza
+Yala,948,173.01,0,0.00,0.00,547930,2024,Influenza
+ZONE:13,36500,665.66,1,0.00,0.02,5483259,2024,Influenza
+Bangkok,36500,665.66,1,0.00,0.02,5483259,2024,Influenza
 Total,29918,47.53,0,0.00,0.00,62939819,2003,Influenza
 North Region,4295,35.44,0,0.00,0.00,12120537,2003,Influenza
 Zone:1,2299,39.89,0,0.00,0.00,5764017,2003,Influenza

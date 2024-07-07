@@ -1,4 +1,99 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,120,0.18,0,0.00,0.00,66071545,2024,Enterovirus
+ZONE:01,16,0.27,0,0.00,0.00,5857413,2024,Enterovirus
+Chiang Mai,13,0.72,0,0.00,0.00,1794774,2024,Enterovirus
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Enterovirus
+Lampang,0,0.00,0,0.00,0.00,715133,2024,Enterovirus
+Lamphun,2,0.50,0,0.00,0.00,398998,2024,Enterovirus
+Mae Hong Son,1,0.35,0,0.00,0.00,287215,2024,Enterovirus
+Nan,0,0.00,0,0.00,0.00,473630,2024,Enterovirus
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Enterovirus
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Enterovirus
+ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Enterovirus
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Enterovirus
+Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Enterovirus
+Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Enterovirus
+Tak,0,0.00,0,0.00,0.00,687927,2024,Enterovirus
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Enterovirus
+ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Enterovirus
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Enterovirus
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Enterovirus
+Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Enterovirus
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Enterovirus
+Uthai Thani,1,0.31,0,0.00,0.00,323066,2024,Enterovirus
+ZONE:04,4,0.07,0,0.00,0.00,5438863,2024,Enterovirus
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Enterovirus
+Lop Buri,2,0.27,0,0.00,0.00,732495,2024,Enterovirus
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Enterovirus
+Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Enterovirus
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Enterovirus
+Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Enterovirus
+Saraburi,0,0.00,0,0.00,0.00,638704,2024,Enterovirus
+Sing Buri,1,0.49,0,0.00,0.00,202117,2024,Enterovirus
+ZONE:05,5,0.09,0,0.00,0.00,5326695,2024,Enterovirus
+Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Enterovirus
+Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Enterovirus
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Enterovirus
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Enterovirus
+Ratchaburi,4,0.46,0,0.00,0.00,865276,2024,Enterovirus
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Enterovirus
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Enterovirus
+Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,Enterovirus
+ZONE:06,18,0.29,0,0.00,0.00,6292163,2024,Enterovirus
+Chachoengsao,1,0.14,0,0.00,0.00,728615,2024,Enterovirus
+Chanthaburi,6,1.12,0,0.00,0.00,536290,2024,Enterovirus
+Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,Enterovirus
+Prachin Buri,3,0.60,0,0.00,0.00,498671,2024,Enterovirus
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Enterovirus
+Sa Kaeo,3,0.53,0,0.00,0.00,562860,2024,Enterovirus
+Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Enterovirus
+Trat,0,0.00,0,0.00,0.00,227430,2024,Enterovirus
+"Center of Epidemiological Information, Bureau of Epidemiology, Mininstry of Public Health",4/7/2567,,,,,,2024,Enterovirus
+"Number of cases ,deaths, morbidity rate ,mortality rate,case fatality rate , Thailand",2567(2024),Enterovirus Fever,90,,,,2024,Enterovirus
+Reporting  areas,cases,Morbidity rate,deaths,CFR(%),Mortality rate,จำนวน,2024,Enterovirus
+/100000  Pop.,/100000  pop.,ประชากร,,,,,2024,Enterovirus
+ZONE:07,1,0.02,0,0.00,0.00,4981337,2024,Enterovirus
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Enterovirus
+Khon Kaen,1,0.06,0,0.00,0.00,1782008,2024,Enterovirus
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Enterovirus
+Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Enterovirus
+ZONE:08,1,0.02,0,0.00,0.00,5500012,2024,Enterovirus
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Enterovirus
+Loei,0,0.00,0,0.00,0.00,636242,2024,Enterovirus
+Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Enterovirus
+Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,Enterovirus
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Enterovirus
+Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Enterovirus
+Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Enterovirus
+ZONE:09,3,0.04,0,0.00,0.00,6689028,2024,Enterovirus
+Buri Ram,1,0.06,0,0.00,0.00,1575073,2024,Enterovirus
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Enterovirus
+Nakhon Ratchasima,2,0.08,0,0.00,0.00,2627927,2024,Enterovirus
+Surin,0,0.00,0,0.00,0.00,1370376,2024,Enterovirus
+ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Enterovirus
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Enterovirus
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Enterovirus
+Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Enterovirus
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Enterovirus
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Enterovirus
+ZONE:11,3,0.07,0,0.00,0.00,4489783,2024,Enterovirus
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Enterovirus
+Krabi,1,0.21,0,0.00,0.00,481089,2024,Enterovirus
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Enterovirus
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Enterovirus
+Phuket,2,0.48,0,0.00,0.00,420746,2024,Enterovirus
+Ranong,0,0.00,0,0.00,0.00,193799,2024,Enterovirus
+Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Enterovirus
+ZONE:12,18,0.36,0,0.00,0.00,5015209,2024,Enterovirus
+Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Enterovirus
+Pattani,2,0.27,0,0.00,0.00,735017,2024,Enterovirus
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Enterovirus
+Satun,0,0.00,0,0.00,0.00,325387,2024,Enterovirus
+Songkhla,14,0.98,0,0.00,0.00,1431512,2024,Enterovirus
+Trang,2,0.31,0,0.00,0.00,637612,2024,Enterovirus
+Yala,0,0.00,0,0.00,0.00,547930,2024,Enterovirus
+ZONE:13,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus
+Bangkok,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus
 Total,61,0.09,0,0.00,0.00,66179083,2021,Enterovirus
 ZONE:01,29,0.49,0,0.00,0.00,5875424,2021,Enterovirus
 Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Enterovirus

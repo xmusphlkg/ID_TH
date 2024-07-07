@@ -1,4 +1,2372 @@
 Areas,Count,Month,Type,Year,Disease
+Total,23451,Total,Cases,2024,HFM
+ZONE:01,3000,Total,Cases,2024,HFM
+Chiang Mai,532,Total,Cases,2024,HFM
+Chiang Rai,1176,Total,Cases,2024,HFM
+Lampang,254,Total,Cases,2024,HFM
+Lamphun,226,Total,Cases,2024,HFM
+Mae Hong Son,166,Total,Cases,2024,HFM
+Nan,251,Total,Cases,2024,HFM
+Phayao,263,Total,Cases,2024,HFM
+Phrae,132,Total,Cases,2024,HFM
+ZONE:02,715,Total,Cases,2024,HFM
+Phetchabun,113,Total,Cases,2024,HFM
+Phitsanulok,114,Total,Cases,2024,HFM
+Sukhothai,157,Total,Cases,2024,HFM
+Tak,253,Total,Cases,2024,HFM
+Uttaradit,78,Total,Cases,2024,HFM
+ZONE:03,671,Total,Cases,2024,HFM
+Chai Nat,56,Total,Cases,2024,HFM
+Kamphaeng Phet,148,Total,Cases,2024,HFM
+Nakhon Sawan,307,Total,Cases,2024,HFM
+Phichit,102,Total,Cases,2024,HFM
+Uthai Thani,58,Total,Cases,2024,HFM
+ZONE:04,2061,Total,Cases,2024,HFM
+Ang Thong,96,Total,Cases,2024,HFM
+Lop Buri,360,Total,Cases,2024,HFM
+Nakhon Nayok,85,Total,Cases,2024,HFM
+Nonthaburi,437,Total,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,231,Total,Cases,2024,HFM
+Pathum Thani,352,Total,Cases,2024,HFM
+Saraburi,434,Total,Cases,2024,HFM
+Sing Buri,66,Total,Cases,2024,HFM
+ZONE:05,1501,Total,Cases,2024,HFM
+Kanchanaburi,144,Total,Cases,2024,HFM
+Nakhon Pathom,273,Total,Cases,2024,HFM
+Phetchaburi,200,Total,Cases,2024,HFM
+Prachuap Khiri Khan,234,Total,Cases,2024,HFM
+Ratchaburi,151,Total,Cases,2024,HFM
+Samut Sakhon,267,Total,Cases,2024,HFM
+Samut Songkhram,31,Total,Cases,2024,HFM
+Suphan Buri,201,Total,Cases,2024,HFM
+ZONE:06,3334,Total,Cases,2024,HFM
+Chachoengsao,259,Total,Cases,2024,HFM
+Chanthaburi,259,Total,Cases,2024,HFM
+Chon Buri,1332,Total,Cases,2024,HFM
+Prachin Buri,162,Total,Cases,2024,HFM
+Rayong,364,Total,Cases,2024,HFM
+Sa Kaeo,196,Total,Cases,2024,HFM
+Samut Prakan,710,Total,Cases,2024,HFM
+Trat,52,Total,Cases,2024,HFM
+ZONE:07,1120,Total,Cases,2024,HFM
+Kalasin,202,Total,Cases,2024,HFM
+Khon Kaen,409,Total,Cases,2024,HFM
+Maha Sarakham,133,Total,Cases,2024,HFM
+Roi Et,376,Total,Cases,2024,HFM
+ZONE:08,1106,Total,Cases,2024,HFM
+Bungkan,79,Total,Cases,2024,HFM
+Loei,186,Total,Cases,2024,HFM
+Nakhon Phanom,178,Total,Cases,2024,HFM
+Nong Bua Lam Phu,38,Total,Cases,2024,HFM
+Nong Khai,127,Total,Cases,2024,HFM
+Sakon Nakhon,196,Total,Cases,2024,HFM
+Udon Thani,302,Total,Cases,2024,HFM
+ZONE:09,1742,Total,Cases,2024,HFM
+Buri Ram,367,Total,Cases,2024,HFM
+Chaiyaphum,133,Total,Cases,2024,HFM
+Nakhon Ratchasima,899,Total,Cases,2024,HFM
+Surin,343,Total,Cases,2024,HFM
+ZONE:10,759,Total,Cases,2024,HFM
+Amnat Charoen,65,Total,Cases,2024,HFM
+Mukdahan,50,Total,Cases,2024,HFM
+Si Sa Ket,157,Total,Cases,2024,HFM
+Ubon Ratchathani,357,Total,Cases,2024,HFM
+Yasothon,130,Total,Cases,2024,HFM
+ZONE:11,2627,Total,Cases,2024,HFM
+Chumphon,322,Total,Cases,2024,HFM
+Krabi,160,Total,Cases,2024,HFM
+Nakhon Si Thammarat,857,Total,Cases,2024,HFM
+Phangnga,104,Total,Cases,2024,HFM
+Phuket,457,Total,Cases,2024,HFM
+Ranong,112,Total,Cases,2024,HFM
+Surat Thani,615,Total,Cases,2024,HFM
+ZONE:12,1525,Total,Cases,2024,HFM
+Narathiwat,120,Total,Cases,2024,HFM
+Pattani,64,Total,Cases,2024,HFM
+Phatthalung,430,Total,Cases,2024,HFM
+Satun,76,Total,Cases,2024,HFM
+Songkhla,561,Total,Cases,2024,HFM
+Trang,153,Total,Cases,2024,HFM
+Yala,121,Total,Cases,2024,HFM
+ZONE:13,3290,Total,Cases,2024,HFM
+Bangkok,3290,Total,Cases,2024,HFM
+Total,1,Total,Deaths,2024,HFM
+ZONE:01,0,Total,Deaths,2024,HFM
+Chiang Mai,0,Total,Deaths,2024,HFM
+Chiang Rai,0,Total,Deaths,2024,HFM
+Lampang,0,Total,Deaths,2024,HFM
+Lamphun,0,Total,Deaths,2024,HFM
+Mae Hong Son,0,Total,Deaths,2024,HFM
+Nan,0,Total,Deaths,2024,HFM
+Phayao,0,Total,Deaths,2024,HFM
+Phrae,0,Total,Deaths,2024,HFM
+ZONE:02,0,Total,Deaths,2024,HFM
+Phetchabun,0,Total,Deaths,2024,HFM
+Phitsanulok,0,Total,Deaths,2024,HFM
+Sukhothai,0,Total,Deaths,2024,HFM
+Tak,0,Total,Deaths,2024,HFM
+Uttaradit,0,Total,Deaths,2024,HFM
+ZONE:03,0,Total,Deaths,2024,HFM
+Chai Nat,0,Total,Deaths,2024,HFM
+Kamphaeng Phet,0,Total,Deaths,2024,HFM
+Nakhon Sawan,0,Total,Deaths,2024,HFM
+Phichit,0,Total,Deaths,2024,HFM
+Uthai Thani,0,Total,Deaths,2024,HFM
+ZONE:04,0,Total,Deaths,2024,HFM
+Ang Thong,0,Total,Deaths,2024,HFM
+Lop Buri,0,Total,Deaths,2024,HFM
+Nakhon Nayok,0,Total,Deaths,2024,HFM
+Nonthaburi,0,Total,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Total,Deaths,2024,HFM
+Pathum Thani,0,Total,Deaths,2024,HFM
+Saraburi,0,Total,Deaths,2024,HFM
+Sing Buri,0,Total,Deaths,2024,HFM
+ZONE:05,0,Total,Deaths,2024,HFM
+Kanchanaburi,0,Total,Deaths,2024,HFM
+Nakhon Pathom,0,Total,Deaths,2024,HFM
+Phetchaburi,0,Total,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Total,Deaths,2024,HFM
+Ratchaburi,0,Total,Deaths,2024,HFM
+Samut Sakhon,0,Total,Deaths,2024,HFM
+Samut Songkhram,0,Total,Deaths,2024,HFM
+Suphan Buri,0,Total,Deaths,2024,HFM
+ZONE:06,0,Total,Deaths,2024,HFM
+Chachoengsao,0,Total,Deaths,2024,HFM
+Chanthaburi,0,Total,Deaths,2024,HFM
+Chon Buri,0,Total,Deaths,2024,HFM
+Prachin Buri,0,Total,Deaths,2024,HFM
+Rayong,0,Total,Deaths,2024,HFM
+Sa Kaeo,0,Total,Deaths,2024,HFM
+Samut Prakan,0,Total,Deaths,2024,HFM
+Trat,0,Total,Deaths,2024,HFM
+ZONE:07,0,Total,Deaths,2024,HFM
+Kalasin,0,Total,Deaths,2024,HFM
+Khon Kaen,0,Total,Deaths,2024,HFM
+Maha Sarakham,0,Total,Deaths,2024,HFM
+Roi Et,0,Total,Deaths,2024,HFM
+ZONE:08,1,Total,Deaths,2024,HFM
+Bungkan,0,Total,Deaths,2024,HFM
+Loei,0,Total,Deaths,2024,HFM
+Nakhon Phanom,0,Total,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Total,Deaths,2024,HFM
+Nong Khai,0,Total,Deaths,2024,HFM
+Sakon Nakhon,0,Total,Deaths,2024,HFM
+Udon Thani,1,Total,Deaths,2024,HFM
+ZONE:09,0,Total,Deaths,2024,HFM
+Buri Ram,0,Total,Deaths,2024,HFM
+Chaiyaphum,0,Total,Deaths,2024,HFM
+Nakhon Ratchasima,0,Total,Deaths,2024,HFM
+Surin,0,Total,Deaths,2024,HFM
+ZONE:10,0,Total,Deaths,2024,HFM
+Amnat Charoen,0,Total,Deaths,2024,HFM
+Mukdahan,0,Total,Deaths,2024,HFM
+Si Sa Ket,0,Total,Deaths,2024,HFM
+Ubon Ratchathani,0,Total,Deaths,2024,HFM
+Yasothon,0,Total,Deaths,2024,HFM
+ZONE:11,0,Total,Deaths,2024,HFM
+Chumphon,0,Total,Deaths,2024,HFM
+Krabi,0,Total,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Total,Deaths,2024,HFM
+Phangnga,0,Total,Deaths,2024,HFM
+Phuket,0,Total,Deaths,2024,HFM
+Ranong,0,Total,Deaths,2024,HFM
+Surat Thani,0,Total,Deaths,2024,HFM
+ZONE:12,0,Total,Deaths,2024,HFM
+Narathiwat,0,Total,Deaths,2024,HFM
+Pattani,0,Total,Deaths,2024,HFM
+Phatthalung,0,Total,Deaths,2024,HFM
+Satun,0,Total,Deaths,2024,HFM
+Songkhla,0,Total,Deaths,2024,HFM
+Trang,0,Total,Deaths,2024,HFM
+Yala,0,Total,Deaths,2024,HFM
+ZONE:13,0,Total,Deaths,2024,HFM
+Bangkok,0,Total,Deaths,2024,HFM
+Total,5710,Jan,Cases,2024,HFM
+ZONE:01,709,Jan,Cases,2024,HFM
+Chiang Mai,90,Jan,Cases,2024,HFM
+Chiang Rai,273,Jan,Cases,2024,HFM
+Lampang,68,Jan,Cases,2024,HFM
+Lamphun,68,Jan,Cases,2024,HFM
+Mae Hong Son,15,Jan,Cases,2024,HFM
+Nan,73,Jan,Cases,2024,HFM
+Phayao,67,Jan,Cases,2024,HFM
+Phrae,55,Jan,Cases,2024,HFM
+ZONE:02,160,Jan,Cases,2024,HFM
+Phetchabun,27,Jan,Cases,2024,HFM
+Phitsanulok,32,Jan,Cases,2024,HFM
+Sukhothai,45,Jan,Cases,2024,HFM
+Tak,34,Jan,Cases,2024,HFM
+Uttaradit,22,Jan,Cases,2024,HFM
+ZONE:03,173,Jan,Cases,2024,HFM
+Chai Nat,8,Jan,Cases,2024,HFM
+Kamphaeng Phet,54,Jan,Cases,2024,HFM
+Nakhon Sawan,72,Jan,Cases,2024,HFM
+Phichit,27,Jan,Cases,2024,HFM
+Uthai Thani,12,Jan,Cases,2024,HFM
+ZONE:04,415,Jan,Cases,2024,HFM
+Ang Thong,41,Jan,Cases,2024,HFM
+Lop Buri,82,Jan,Cases,2024,HFM
+Nakhon Nayok,33,Jan,Cases,2024,HFM
+Nonthaburi,73,Jan,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,40,Jan,Cases,2024,HFM
+Pathum Thani,75,Jan,Cases,2024,HFM
+Saraburi,68,Jan,Cases,2024,HFM
+Sing Buri,3,Jan,Cases,2024,HFM
+ZONE:05,323,Jan,Cases,2024,HFM
+Kanchanaburi,23,Jan,Cases,2024,HFM
+Nakhon Pathom,47,Jan,Cases,2024,HFM
+Phetchaburi,39,Jan,Cases,2024,HFM
+Prachuap Khiri Khan,85,Jan,Cases,2024,HFM
+Ratchaburi,51,Jan,Cases,2024,HFM
+Samut Sakhon,33,Jan,Cases,2024,HFM
+Samut Songkhram,5,Jan,Cases,2024,HFM
+Suphan Buri,40,Jan,Cases,2024,HFM
+ZONE:06,558,Jan,Cases,2024,HFM
+Chachoengsao,72,Jan,Cases,2024,HFM
+Chanthaburi,55,Jan,Cases,2024,HFM
+Chon Buri,188,Jan,Cases,2024,HFM
+Prachin Buri,35,Jan,Cases,2024,HFM
+Rayong,33,Jan,Cases,2024,HFM
+Sa Kaeo,30,Jan,Cases,2024,HFM
+Samut Prakan,137,Jan,Cases,2024,HFM
+Trat,8,Jan,Cases,2024,HFM
+ZONE:07,316,Jan,Cases,2024,HFM
+Kalasin,45,Jan,Cases,2024,HFM
+Khon Kaen,109,Jan,Cases,2024,HFM
+Maha Sarakham,45,Jan,Cases,2024,HFM
+Roi Et,117,Jan,Cases,2024,HFM
+ZONE:08,258,Jan,Cases,2024,HFM
+Bungkan,5,Jan,Cases,2024,HFM
+Loei,31,Jan,Cases,2024,HFM
+Nakhon Phanom,28,Jan,Cases,2024,HFM
+Nong Bua Lam Phu,12,Jan,Cases,2024,HFM
+Nong Khai,61,Jan,Cases,2024,HFM
+Sakon Nakhon,66,Jan,Cases,2024,HFM
+Udon Thani,55,Jan,Cases,2024,HFM
+ZONE:09,436,Jan,Cases,2024,HFM
+Buri Ram,50,Jan,Cases,2024,HFM
+Chaiyaphum,26,Jan,Cases,2024,HFM
+Nakhon Ratchasima,271,Jan,Cases,2024,HFM
+Surin,89,Jan,Cases,2024,HFM
+ZONE:10,149,Jan,Cases,2024,HFM
+Amnat Charoen,9,Jan,Cases,2024,HFM
+Mukdahan,6,Jan,Cases,2024,HFM
+Si Sa Ket,50,Jan,Cases,2024,HFM
+Ubon Ratchathani,64,Jan,Cases,2024,HFM
+Yasothon,20,Jan,Cases,2024,HFM
+ZONE:11,1125,Jan,Cases,2024,HFM
+Chumphon,145,Jan,Cases,2024,HFM
+Krabi,81,Jan,Cases,2024,HFM
+Nakhon Si Thammarat,420,Jan,Cases,2024,HFM
+Phangnga,39,Jan,Cases,2024,HFM
+Phuket,111,Jan,Cases,2024,HFM
+Ranong,44,Jan,Cases,2024,HFM
+Surat Thani,285,Jan,Cases,2024,HFM
+ZONE:12,647,Jan,Cases,2024,HFM
+Narathiwat,30,Jan,Cases,2024,HFM
+Pattani,17,Jan,Cases,2024,HFM
+Phatthalung,226,Jan,Cases,2024,HFM
+Satun,34,Jan,Cases,2024,HFM
+Songkhla,255,Jan,Cases,2024,HFM
+Trang,64,Jan,Cases,2024,HFM
+Yala,21,Jan,Cases,2024,HFM
+ZONE:13,441,Jan,Cases,2024,HFM
+Bangkok,441,Jan,Cases,2024,HFM
+Total,1,Jan,Deaths,2024,HFM
+ZONE:01,0,Jan,Deaths,2024,HFM
+Chiang Mai,0,Jan,Deaths,2024,HFM
+Chiang Rai,0,Jan,Deaths,2024,HFM
+Lampang,0,Jan,Deaths,2024,HFM
+Lamphun,0,Jan,Deaths,2024,HFM
+Mae Hong Son,0,Jan,Deaths,2024,HFM
+Nan,0,Jan,Deaths,2024,HFM
+Phayao,0,Jan,Deaths,2024,HFM
+Phrae,0,Jan,Deaths,2024,HFM
+ZONE:02,0,Jan,Deaths,2024,HFM
+Phetchabun,0,Jan,Deaths,2024,HFM
+Phitsanulok,0,Jan,Deaths,2024,HFM
+Sukhothai,0,Jan,Deaths,2024,HFM
+Tak,0,Jan,Deaths,2024,HFM
+Uttaradit,0,Jan,Deaths,2024,HFM
+ZONE:03,0,Jan,Deaths,2024,HFM
+Chai Nat,0,Jan,Deaths,2024,HFM
+Kamphaeng Phet,0,Jan,Deaths,2024,HFM
+Nakhon Sawan,0,Jan,Deaths,2024,HFM
+Phichit,0,Jan,Deaths,2024,HFM
+Uthai Thani,0,Jan,Deaths,2024,HFM
+ZONE:04,0,Jan,Deaths,2024,HFM
+Ang Thong,0,Jan,Deaths,2024,HFM
+Lop Buri,0,Jan,Deaths,2024,HFM
+Nakhon Nayok,0,Jan,Deaths,2024,HFM
+Nonthaburi,0,Jan,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Jan,Deaths,2024,HFM
+Pathum Thani,0,Jan,Deaths,2024,HFM
+Saraburi,0,Jan,Deaths,2024,HFM
+Sing Buri,0,Jan,Deaths,2024,HFM
+Reported cases  and deaths by Province and by Month  Thailand,71,Jan,Deaths,2024,HFM
+ZONE:05,0,Jan,Deaths,2024,HFM
+Kanchanaburi,0,Jan,Deaths,2024,HFM
+Nakhon Pathom,0,Jan,Deaths,2024,HFM
+Phetchaburi,0,Jan,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Jan,Deaths,2024,HFM
+Ratchaburi,0,Jan,Deaths,2024,HFM
+Samut Sakhon,0,Jan,Deaths,2024,HFM
+Samut Songkhram,0,Jan,Deaths,2024,HFM
+Suphan Buri,0,Jan,Deaths,2024,HFM
+ZONE:06,0,Jan,Deaths,2024,HFM
+Chachoengsao,0,Jan,Deaths,2024,HFM
+Chanthaburi,0,Jan,Deaths,2024,HFM
+Chon Buri,0,Jan,Deaths,2024,HFM
+Prachin Buri,0,Jan,Deaths,2024,HFM
+Rayong,0,Jan,Deaths,2024,HFM
+Sa Kaeo,0,Jan,Deaths,2024,HFM
+Samut Prakan,0,Jan,Deaths,2024,HFM
+Trat,0,Jan,Deaths,2024,HFM
+ZONE:07,0,Jan,Deaths,2024,HFM
+Kalasin,0,Jan,Deaths,2024,HFM
+Khon Kaen,0,Jan,Deaths,2024,HFM
+Maha Sarakham,0,Jan,Deaths,2024,HFM
+Roi Et,0,Jan,Deaths,2024,HFM
+ZONE:08,1,Jan,Deaths,2024,HFM
+Bungkan,0,Jan,Deaths,2024,HFM
+Loei,0,Jan,Deaths,2024,HFM
+Nakhon Phanom,0,Jan,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Jan,Deaths,2024,HFM
+Nong Khai,0,Jan,Deaths,2024,HFM
+Sakon Nakhon,0,Jan,Deaths,2024,HFM
+Udon Thani,1,Jan,Deaths,2024,HFM
+ZONE:09,0,Jan,Deaths,2024,HFM
+Buri Ram,0,Jan,Deaths,2024,HFM
+Chaiyaphum,0,Jan,Deaths,2024,HFM
+Nakhon Ratchasima,0,Jan,Deaths,2024,HFM
+Surin,0,Jan,Deaths,2024,HFM
+Reported cases  and deaths by Province and by Month  Thailand,71,Jan,Deaths,2024,HFM
+ZONE:10,0,Jan,Deaths,2024,HFM
+Amnat Charoen,0,Jan,Deaths,2024,HFM
+Mukdahan,0,Jan,Deaths,2024,HFM
+Si Sa Ket,0,Jan,Deaths,2024,HFM
+Ubon Ratchathani,0,Jan,Deaths,2024,HFM
+Yasothon,0,Jan,Deaths,2024,HFM
+ZONE:11,0,Jan,Deaths,2024,HFM
+Chumphon,0,Jan,Deaths,2024,HFM
+Krabi,0,Jan,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Jan,Deaths,2024,HFM
+Phangnga,0,Jan,Deaths,2024,HFM
+Phuket,0,Jan,Deaths,2024,HFM
+Ranong,0,Jan,Deaths,2024,HFM
+Surat Thani,0,Jan,Deaths,2024,HFM
+ZONE:12,0,Jan,Deaths,2024,HFM
+Narathiwat,0,Jan,Deaths,2024,HFM
+Pattani,0,Jan,Deaths,2024,HFM
+Phatthalung,0,Jan,Deaths,2024,HFM
+Satun,0,Jan,Deaths,2024,HFM
+Songkhla,0,Jan,Deaths,2024,HFM
+Trang,0,Jan,Deaths,2024,HFM
+Yala,0,Jan,Deaths,2024,HFM
+ZONE:13,0,Jan,Deaths,2024,HFM
+Bangkok,0,Jan,Deaths,2024,HFM
+Total,5849,Feb,Cases,2024,HFM
+ZONE:01,603,Feb,Cases,2024,HFM
+Chiang Mai,95,Feb,Cases,2024,HFM
+Chiang Rai,203,Feb,Cases,2024,HFM
+Lampang,78,Feb,Cases,2024,HFM
+Lamphun,44,Feb,Cases,2024,HFM
+Mae Hong Son,22,Feb,Cases,2024,HFM
+Nan,46,Feb,Cases,2024,HFM
+Phayao,81,Feb,Cases,2024,HFM
+Phrae,34,Feb,Cases,2024,HFM
+ZONE:02,170,Feb,Cases,2024,HFM
+Phetchabun,30,Feb,Cases,2024,HFM
+Phitsanulok,28,Feb,Cases,2024,HFM
+Sukhothai,38,Feb,Cases,2024,HFM
+Tak,54,Feb,Cases,2024,HFM
+Uttaradit,20,Feb,Cases,2024,HFM
+ZONE:03,151,Feb,Cases,2024,HFM
+Chai Nat,7,Feb,Cases,2024,HFM
+Kamphaeng Phet,44,Feb,Cases,2024,HFM
+Nakhon Sawan,66,Feb,Cases,2024,HFM
+Phichit,23,Feb,Cases,2024,HFM
+Uthai Thani,11,Feb,Cases,2024,HFM
+ZONE:04,640,Feb,Cases,2024,HFM
+Ang Thong,27,Feb,Cases,2024,HFM
+Lop Buri,91,Feb,Cases,2024,HFM
+Nakhon Nayok,33,Feb,Cases,2024,HFM
+Nonthaburi,142,Feb,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,74,Feb,Cases,2024,HFM
+Pathum Thani,108,Feb,Cases,2024,HFM
+Saraburi,158,Feb,Cases,2024,HFM
+Sing Buri,7,Feb,Cases,2024,HFM
+ZONE:05,348,Feb,Cases,2024,HFM
+Kanchanaburi,27,Feb,Cases,2024,HFM
+Nakhon Pathom,67,Feb,Cases,2024,HFM
+Phetchaburi,57,Feb,Cases,2024,HFM
+Prachuap Khiri Khan,72,Feb,Cases,2024,HFM
+Ratchaburi,29,Feb,Cases,2024,HFM
+Samut Sakhon,36,Feb,Cases,2024,HFM
+Samut Songkhram,8,Feb,Cases,2024,HFM
+Suphan Buri,52,Feb,Cases,2024,HFM
+ZONE:06,802,Feb,Cases,2024,HFM
+Chachoengsao,64,Feb,Cases,2024,HFM
+Chanthaburi,46,Feb,Cases,2024,HFM
+Chon Buri,332,Feb,Cases,2024,HFM
+Prachin Buri,46,Feb,Cases,2024,HFM
+Rayong,94,Feb,Cases,2024,HFM
+Sa Kaeo,47,Feb,Cases,2024,HFM
+Samut Prakan,164,Feb,Cases,2024,HFM
+Trat,9,Feb,Cases,2024,HFM
+ZONE:07,286,Feb,Cases,2024,HFM
+Kalasin,51,Feb,Cases,2024,HFM
+Khon Kaen,95,Feb,Cases,2024,HFM
+Maha Sarakham,36,Feb,Cases,2024,HFM
+Roi Et,104,Feb,Cases,2024,HFM
+ZONE:08,208,Feb,Cases,2024,HFM
+Bungkan,9,Feb,Cases,2024,HFM
+Loei,32,Feb,Cases,2024,HFM
+Nakhon Phanom,28,Feb,Cases,2024,HFM
+Nong Bua Lam Phu,8,Feb,Cases,2024,HFM
+Nong Khai,16,Feb,Cases,2024,HFM
+Sakon Nakhon,38,Feb,Cases,2024,HFM
+Udon Thani,77,Feb,Cases,2024,HFM
+ZONE:09,496,Feb,Cases,2024,HFM
+Buri Ram,99,Feb,Cases,2024,HFM
+Chaiyaphum,29,Feb,Cases,2024,HFM
+Nakhon Ratchasima,267,Feb,Cases,2024,HFM
+Surin,101,Feb,Cases,2024,HFM
+ZONE:10,185,Feb,Cases,2024,HFM
+Amnat Charoen,28,Feb,Cases,2024,HFM
+Mukdahan,5,Feb,Cases,2024,HFM
+Si Sa Ket,31,Feb,Cases,2024,HFM
+Ubon Ratchathani,74,Feb,Cases,2024,HFM
+Yasothon,47,Feb,Cases,2024,HFM
+ZONE:11,770,Feb,Cases,2024,HFM
+Chumphon,98,Feb,Cases,2024,HFM
+Krabi,38,Feb,Cases,2024,HFM
+Nakhon Si Thammarat,292,Feb,Cases,2024,HFM
+Phangnga,22,Feb,Cases,2024,HFM
+Phuket,85,Feb,Cases,2024,HFM
+Ranong,40,Feb,Cases,2024,HFM
+Surat Thani,195,Feb,Cases,2024,HFM
+ZONE:12,401,Feb,Cases,2024,HFM
+Narathiwat,25,Feb,Cases,2024,HFM
+Pattani,22,Feb,Cases,2024,HFM
+Phatthalung,147,Feb,Cases,2024,HFM
+Satun,18,Feb,Cases,2024,HFM
+Songkhla,125,Feb,Cases,2024,HFM
+Trang,42,Feb,Cases,2024,HFM
+Yala,22,Feb,Cases,2024,HFM
+ZONE:13,789,Feb,Cases,2024,HFM
+Bangkok,789,Feb,Cases,2024,HFM
+Total,0,Feb,Deaths,2024,HFM
+ZONE:01,0,Feb,Deaths,2024,HFM
+Chiang Mai,0,Feb,Deaths,2024,HFM
+Chiang Rai,0,Feb,Deaths,2024,HFM
+Lampang,0,Feb,Deaths,2024,HFM
+Lamphun,0,Feb,Deaths,2024,HFM
+Mae Hong Son,0,Feb,Deaths,2024,HFM
+Nan,0,Feb,Deaths,2024,HFM
+Phayao,0,Feb,Deaths,2024,HFM
+Phrae,0,Feb,Deaths,2024,HFM
+ZONE:02,0,Feb,Deaths,2024,HFM
+Phetchabun,0,Feb,Deaths,2024,HFM
+Phitsanulok,0,Feb,Deaths,2024,HFM
+Sukhothai,0,Feb,Deaths,2024,HFM
+Tak,0,Feb,Deaths,2024,HFM
+Uttaradit,0,Feb,Deaths,2024,HFM
+ZONE:03,0,Feb,Deaths,2024,HFM
+Chai Nat,0,Feb,Deaths,2024,HFM
+Kamphaeng Phet,0,Feb,Deaths,2024,HFM
+Nakhon Sawan,0,Feb,Deaths,2024,HFM
+Phichit,0,Feb,Deaths,2024,HFM
+Uthai Thani,0,Feb,Deaths,2024,HFM
+ZONE:04,0,Feb,Deaths,2024,HFM
+Ang Thong,0,Feb,Deaths,2024,HFM
+Lop Buri,0,Feb,Deaths,2024,HFM
+Nakhon Nayok,0,Feb,Deaths,2024,HFM
+Nonthaburi,0,Feb,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Feb,Deaths,2024,HFM
+Pathum Thani,0,Feb,Deaths,2024,HFM
+Saraburi,0,Feb,Deaths,2024,HFM
+Sing Buri,0,Feb,Deaths,2024,HFM
+ZONE:05,0,Feb,Deaths,2024,HFM
+Kanchanaburi,0,Feb,Deaths,2024,HFM
+Nakhon Pathom,0,Feb,Deaths,2024,HFM
+Phetchaburi,0,Feb,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Feb,Deaths,2024,HFM
+Ratchaburi,0,Feb,Deaths,2024,HFM
+Samut Sakhon,0,Feb,Deaths,2024,HFM
+Samut Songkhram,0,Feb,Deaths,2024,HFM
+Suphan Buri,0,Feb,Deaths,2024,HFM
+ZONE:06,0,Feb,Deaths,2024,HFM
+Chachoengsao,0,Feb,Deaths,2024,HFM
+Chanthaburi,0,Feb,Deaths,2024,HFM
+Chon Buri,0,Feb,Deaths,2024,HFM
+Prachin Buri,0,Feb,Deaths,2024,HFM
+Rayong,0,Feb,Deaths,2024,HFM
+Sa Kaeo,0,Feb,Deaths,2024,HFM
+Samut Prakan,0,Feb,Deaths,2024,HFM
+Trat,0,Feb,Deaths,2024,HFM
+ZONE:07,0,Feb,Deaths,2024,HFM
+Kalasin,0,Feb,Deaths,2024,HFM
+Khon Kaen,0,Feb,Deaths,2024,HFM
+Maha Sarakham,0,Feb,Deaths,2024,HFM
+Roi Et,0,Feb,Deaths,2024,HFM
+ZONE:08,0,Feb,Deaths,2024,HFM
+Bungkan,0,Feb,Deaths,2024,HFM
+Loei,0,Feb,Deaths,2024,HFM
+Nakhon Phanom,0,Feb,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Feb,Deaths,2024,HFM
+Nong Khai,0,Feb,Deaths,2024,HFM
+Sakon Nakhon,0,Feb,Deaths,2024,HFM
+Udon Thani,0,Feb,Deaths,2024,HFM
+ZONE:09,0,Feb,Deaths,2024,HFM
+Buri Ram,0,Feb,Deaths,2024,HFM
+Chaiyaphum,0,Feb,Deaths,2024,HFM
+Nakhon Ratchasima,0,Feb,Deaths,2024,HFM
+Surin,0,Feb,Deaths,2024,HFM
+ZONE:10,0,Feb,Deaths,2024,HFM
+Amnat Charoen,0,Feb,Deaths,2024,HFM
+Mukdahan,0,Feb,Deaths,2024,HFM
+Si Sa Ket,0,Feb,Deaths,2024,HFM
+Ubon Ratchathani,0,Feb,Deaths,2024,HFM
+Yasothon,0,Feb,Deaths,2024,HFM
+ZONE:11,0,Feb,Deaths,2024,HFM
+Chumphon,0,Feb,Deaths,2024,HFM
+Krabi,0,Feb,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Feb,Deaths,2024,HFM
+Phangnga,0,Feb,Deaths,2024,HFM
+Phuket,0,Feb,Deaths,2024,HFM
+Ranong,0,Feb,Deaths,2024,HFM
+Surat Thani,0,Feb,Deaths,2024,HFM
+ZONE:12,0,Feb,Deaths,2024,HFM
+Narathiwat,0,Feb,Deaths,2024,HFM
+Pattani,0,Feb,Deaths,2024,HFM
+Phatthalung,0,Feb,Deaths,2024,HFM
+Satun,0,Feb,Deaths,2024,HFM
+Songkhla,0,Feb,Deaths,2024,HFM
+Trang,0,Feb,Deaths,2024,HFM
+Yala,0,Feb,Deaths,2024,HFM
+ZONE:13,0,Feb,Deaths,2024,HFM
+Bangkok,0,Feb,Deaths,2024,HFM
+Total,4527,Mar,Cases,2024,HFM
+ZONE:01,393,Mar,Cases,2024,HFM
+Chiang Mai,78,Mar,Cases,2024,HFM
+Chiang Rai,163,Mar,Cases,2024,HFM
+Lampang,35,Mar,Cases,2024,HFM
+Lamphun,14,Mar,Cases,2024,HFM
+Mae Hong Son,9,Mar,Cases,2024,HFM
+Nan,38,Mar,Cases,2024,HFM
+Phayao,39,Mar,Cases,2024,HFM
+Phrae,17,Mar,Cases,2024,HFM
+ZONE:02,125,Mar,Cases,2024,HFM
+Phetchabun,21,Mar,Cases,2024,HFM
+Phitsanulok,22,Mar,Cases,2024,HFM
+Sukhothai,42,Mar,Cases,2024,HFM
+Tak,28,Mar,Cases,2024,HFM
+Uttaradit,12,Mar,Cases,2024,HFM
+ZONE:03,156,Mar,Cases,2024,HFM
+Chai Nat,25,Mar,Cases,2024,HFM
+Kamphaeng Phet,24,Mar,Cases,2024,HFM
+Nakhon Sawan,60,Mar,Cases,2024,HFM
+Phichit,28,Mar,Cases,2024,HFM
+Uthai Thani,19,Mar,Cases,2024,HFM
+ZONE:04,531,Mar,Cases,2024,HFM
+Ang Thong,18,Mar,Cases,2024,HFM
+Lop Buri,124,Mar,Cases,2024,HFM
+Nakhon Nayok,8,Mar,Cases,2024,HFM
+Nonthaburi,110,Mar,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,55,Mar,Cases,2024,HFM
+Pathum Thani,63,Mar,Cases,2024,HFM
+Saraburi,137,Mar,Cases,2024,HFM
+Sing Buri,16,Mar,Cases,2024,HFM
+ZONE:05,332,Mar,Cases,2024,HFM
+Kanchanaburi,37,Mar,Cases,2024,HFM
+Nakhon Pathom,65,Mar,Cases,2024,HFM
+Phetchaburi,52,Mar,Cases,2024,HFM
+Prachuap Khiri Khan,26,Mar,Cases,2024,HFM
+Ratchaburi,22,Mar,Cases,2024,HFM
+Samut Sakhon,70,Mar,Cases,2024,HFM
+Samut Songkhram,6,Mar,Cases,2024,HFM
+Suphan Buri,54,Mar,Cases,2024,HFM
+ZONE:06,764,Mar,Cases,2024,HFM
+Chachoengsao,58,Mar,Cases,2024,HFM
+Chanthaburi,55,Mar,Cases,2024,HFM
+Chon Buri,317,Mar,Cases,2024,HFM
+Prachin Buri,17,Mar,Cases,2024,HFM
+Rayong,106,Mar,Cases,2024,HFM
+Sa Kaeo,54,Mar,Cases,2024,HFM
+Samut Prakan,141,Mar,Cases,2024,HFM
+Trat,16,Mar,Cases,2024,HFM
+ZONE:07,219,Mar,Cases,2024,HFM
+Kalasin,27,Mar,Cases,2024,HFM
+Khon Kaen,82,Mar,Cases,2024,HFM
+Maha Sarakham,31,Mar,Cases,2024,HFM
+Roi Et,79,Mar,Cases,2024,HFM
+ZONE:08,202,Mar,Cases,2024,HFM
+Bungkan,20,Mar,Cases,2024,HFM
+Loei,22,Mar,Cases,2024,HFM
+Nakhon Phanom,34,Mar,Cases,2024,HFM
+Nong Bua Lam Phu,5,Mar,Cases,2024,HFM
+Nong Khai,12,Mar,Cases,2024,HFM
+Sakon Nakhon,30,Mar,Cases,2024,HFM
+Udon Thani,79,Mar,Cases,2024,HFM
+ZONE:09,388,Mar,Cases,2024,HFM
+Buri Ram,126,Mar,Cases,2024,HFM
+Chaiyaphum,26,Mar,Cases,2024,HFM
+Nakhon Ratchasima,182,Mar,Cases,2024,HFM
+Surin,54,Mar,Cases,2024,HFM
+ZONE:10,160,Mar,Cases,2024,HFM
+Amnat Charoen,13,Mar,Cases,2024,HFM
+Mukdahan,10,Mar,Cases,2024,HFM
+Si Sa Ket,20,Mar,Cases,2024,HFM
+Ubon Ratchathani,86,Mar,Cases,2024,HFM
+Yasothon,31,Mar,Cases,2024,HFM
+ZONE:11,309,Mar,Cases,2024,HFM
+Chumphon,43,Mar,Cases,2024,HFM
+Krabi,16,Mar,Cases,2024,HFM
+Nakhon Si Thammarat,79,Mar,Cases,2024,HFM
+Phangnga,18,Mar,Cases,2024,HFM
+Phuket,70,Mar,Cases,2024,HFM
+Ranong,10,Mar,Cases,2024,HFM
+Surat Thani,73,Mar,Cases,2024,HFM
+ZONE:12,173,Mar,Cases,2024,HFM
+Narathiwat,22,Mar,Cases,2024,HFM
+Pattani,6,Mar,Cases,2024,HFM
+Phatthalung,38,Mar,Cases,2024,HFM
+Satun,6,Mar,Cases,2024,HFM
+Songkhla,62,Mar,Cases,2024,HFM
+Trang,23,Mar,Cases,2024,HFM
+Yala,16,Mar,Cases,2024,HFM
+ZONE:13,775,Mar,Cases,2024,HFM
+Bangkok,775,Mar,Cases,2024,HFM
+Total,0,Mar,Deaths,2024,HFM
+ZONE:01,0,Mar,Deaths,2024,HFM
+Chiang Mai,0,Mar,Deaths,2024,HFM
+Chiang Rai,0,Mar,Deaths,2024,HFM
+Lampang,0,Mar,Deaths,2024,HFM
+Lamphun,0,Mar,Deaths,2024,HFM
+Mae Hong Son,0,Mar,Deaths,2024,HFM
+Nan,0,Mar,Deaths,2024,HFM
+Phayao,0,Mar,Deaths,2024,HFM
+Phrae,0,Mar,Deaths,2024,HFM
+ZONE:02,0,Mar,Deaths,2024,HFM
+Phetchabun,0,Mar,Deaths,2024,HFM
+Phitsanulok,0,Mar,Deaths,2024,HFM
+Sukhothai,0,Mar,Deaths,2024,HFM
+Tak,0,Mar,Deaths,2024,HFM
+Uttaradit,0,Mar,Deaths,2024,HFM
+ZONE:03,0,Mar,Deaths,2024,HFM
+Chai Nat,0,Mar,Deaths,2024,HFM
+Kamphaeng Phet,0,Mar,Deaths,2024,HFM
+Nakhon Sawan,0,Mar,Deaths,2024,HFM
+Phichit,0,Mar,Deaths,2024,HFM
+Uthai Thani,0,Mar,Deaths,2024,HFM
+ZONE:04,0,Mar,Deaths,2024,HFM
+Ang Thong,0,Mar,Deaths,2024,HFM
+Lop Buri,0,Mar,Deaths,2024,HFM
+Nakhon Nayok,0,Mar,Deaths,2024,HFM
+Nonthaburi,0,Mar,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Mar,Deaths,2024,HFM
+Pathum Thani,0,Mar,Deaths,2024,HFM
+Saraburi,0,Mar,Deaths,2024,HFM
+Sing Buri,0,Mar,Deaths,2024,HFM
+ZONE:05,0,Mar,Deaths,2024,HFM
+Kanchanaburi,0,Mar,Deaths,2024,HFM
+Nakhon Pathom,0,Mar,Deaths,2024,HFM
+Phetchaburi,0,Mar,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Mar,Deaths,2024,HFM
+Ratchaburi,0,Mar,Deaths,2024,HFM
+Samut Sakhon,0,Mar,Deaths,2024,HFM
+Samut Songkhram,0,Mar,Deaths,2024,HFM
+Suphan Buri,0,Mar,Deaths,2024,HFM
+ZONE:06,0,Mar,Deaths,2024,HFM
+Chachoengsao,0,Mar,Deaths,2024,HFM
+Chanthaburi,0,Mar,Deaths,2024,HFM
+Chon Buri,0,Mar,Deaths,2024,HFM
+Prachin Buri,0,Mar,Deaths,2024,HFM
+Rayong,0,Mar,Deaths,2024,HFM
+Sa Kaeo,0,Mar,Deaths,2024,HFM
+Samut Prakan,0,Mar,Deaths,2024,HFM
+Trat,0,Mar,Deaths,2024,HFM
+ZONE:07,0,Mar,Deaths,2024,HFM
+Kalasin,0,Mar,Deaths,2024,HFM
+Khon Kaen,0,Mar,Deaths,2024,HFM
+Maha Sarakham,0,Mar,Deaths,2024,HFM
+Roi Et,0,Mar,Deaths,2024,HFM
+ZONE:08,0,Mar,Deaths,2024,HFM
+Bungkan,0,Mar,Deaths,2024,HFM
+Loei,0,Mar,Deaths,2024,HFM
+Nakhon Phanom,0,Mar,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Mar,Deaths,2024,HFM
+Nong Khai,0,Mar,Deaths,2024,HFM
+Sakon Nakhon,0,Mar,Deaths,2024,HFM
+Udon Thani,0,Mar,Deaths,2024,HFM
+ZONE:09,0,Mar,Deaths,2024,HFM
+Buri Ram,0,Mar,Deaths,2024,HFM
+Chaiyaphum,0,Mar,Deaths,2024,HFM
+Nakhon Ratchasima,0,Mar,Deaths,2024,HFM
+Surin,0,Mar,Deaths,2024,HFM
+ZONE:10,0,Mar,Deaths,2024,HFM
+Amnat Charoen,0,Mar,Deaths,2024,HFM
+Mukdahan,0,Mar,Deaths,2024,HFM
+Si Sa Ket,0,Mar,Deaths,2024,HFM
+Ubon Ratchathani,0,Mar,Deaths,2024,HFM
+Yasothon,0,Mar,Deaths,2024,HFM
+ZONE:11,0,Mar,Deaths,2024,HFM
+Chumphon,0,Mar,Deaths,2024,HFM
+Krabi,0,Mar,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Mar,Deaths,2024,HFM
+Phangnga,0,Mar,Deaths,2024,HFM
+Phuket,0,Mar,Deaths,2024,HFM
+Ranong,0,Mar,Deaths,2024,HFM
+Surat Thani,0,Mar,Deaths,2024,HFM
+ZONE:12,0,Mar,Deaths,2024,HFM
+Narathiwat,0,Mar,Deaths,2024,HFM
+Pattani,0,Mar,Deaths,2024,HFM
+Phatthalung,0,Mar,Deaths,2024,HFM
+Satun,0,Mar,Deaths,2024,HFM
+Songkhla,0,Mar,Deaths,2024,HFM
+Trang,0,Mar,Deaths,2024,HFM
+Yala,0,Mar,Deaths,2024,HFM
+ZONE:13,0,Mar,Deaths,2024,HFM
+Bangkok,0,Mar,Deaths,2024,HFM
+Total,1773,Apr,Cases,2024,HFM
+ZONE:01,259,Apr,Cases,2024,HFM
+Chiang Mai,56,Apr,Cases,2024,HFM
+Chiang Rai,106,Apr,Cases,2024,HFM
+Lampang,25,Apr,Cases,2024,HFM
+Lamphun,16,Apr,Cases,2024,HFM
+Mae Hong Son,17,Apr,Cases,2024,HFM
+Nan,16,Apr,Cases,2024,HFM
+Phayao,15,Apr,Cases,2024,HFM
+Phrae,8,Apr,Cases,2024,HFM
+ZONE:02,74,Apr,Cases,2024,HFM
+Phetchabun,14,Apr,Cases,2024,HFM
+Phitsanulok,13,Apr,Cases,2024,HFM
+Sukhothai,19,Apr,Cases,2024,HFM
+Tak,21,Apr,Cases,2024,HFM
+Uttaradit,7,Apr,Cases,2024,HFM
+ZONE:03,63,Apr,Cases,2024,HFM
+Chai Nat,9,Apr,Cases,2024,HFM
+Kamphaeng Phet,10,Apr,Cases,2024,HFM
+Nakhon Sawan,35,Apr,Cases,2024,HFM
+Phichit,5,Apr,Cases,2024,HFM
+Uthai Thani,4,Apr,Cases,2024,HFM
+ZONE:04,116,Apr,Cases,2024,HFM
+Ang Thong,1,Apr,Cases,2024,HFM
+Lop Buri,22,Apr,Cases,2024,HFM
+Nakhon Nayok,2,Apr,Cases,2024,HFM
+Nonthaburi,31,Apr,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,13,Apr,Cases,2024,HFM
+Pathum Thani,29,Apr,Cases,2024,HFM
+Saraburi,15,Apr,Cases,2024,HFM
+Sing Buri,3,Apr,Cases,2024,HFM
+ZONE:05,119,Apr,Cases,2024,HFM
+Kanchanaburi,16,Apr,Cases,2024,HFM
+Nakhon Pathom,23,Apr,Cases,2024,HFM
+Phetchaburi,17,Apr,Cases,2024,HFM
+Prachuap Khiri Khan,6,Apr,Cases,2024,HFM
+Ratchaburi,11,Apr,Cases,2024,HFM
+Samut Sakhon,27,Apr,Cases,2024,HFM
+Samut Songkhram,1,Apr,Cases,2024,HFM
+Suphan Buri,18,Apr,Cases,2024,HFM
+ZONE:06,248,Apr,Cases,2024,HFM
+Chachoengsao,20,Apr,Cases,2024,HFM
+Chanthaburi,11,Apr,Cases,2024,HFM
+Chon Buri,119,Apr,Cases,2024,HFM
+Prachin Buri,9,Apr,Cases,2024,HFM
+Rayong,33,Apr,Cases,2024,HFM
+Sa Kaeo,8,Apr,Cases,2024,HFM
+Samut Prakan,43,Apr,Cases,2024,HFM
+Trat,5,Apr,Cases,2024,HFM
+ZONE:07,59,Apr,Cases,2024,HFM
+Kalasin,9,Apr,Cases,2024,HFM
+Khon Kaen,26,Apr,Cases,2024,HFM
+Maha Sarakham,5,Apr,Cases,2024,HFM
+Roi Et,19,Apr,Cases,2024,HFM
+ZONE:08,100,Apr,Cases,2024,HFM
+Bungkan,16,Apr,Cases,2024,HFM
+Loei,16,Apr,Cases,2024,HFM
+Nakhon Phanom,20,Apr,Cases,2024,HFM
+Nong Bua Lam Phu,7,Apr,Cases,2024,HFM
+Nong Khai,6,Apr,Cases,2024,HFM
+Sakon Nakhon,5,Apr,Cases,2024,HFM
+Udon Thani,30,Apr,Cases,2024,HFM
+ZONE:09,135,Apr,Cases,2024,HFM
+Buri Ram,25,Apr,Cases,2024,HFM
+Chaiyaphum,14,Apr,Cases,2024,HFM
+Nakhon Ratchasima,62,Apr,Cases,2024,HFM
+Surin,34,Apr,Cases,2024,HFM
+ZONE:10,92,Apr,Cases,2024,HFM
+Amnat Charoen,4,Apr,Cases,2024,HFM
+Mukdahan,4,Apr,Cases,2024,HFM
+Si Sa Ket,15,Apr,Cases,2024,HFM
+Ubon Ratchathani,54,Apr,Cases,2024,HFM
+Yasothon,15,Apr,Cases,2024,HFM
+ZONE:11,109,Apr,Cases,2024,HFM
+Chumphon,9,Apr,Cases,2024,HFM
+Krabi,7,Apr,Cases,2024,HFM
+Nakhon Si Thammarat,21,Apr,Cases,2024,HFM
+Phangnga,7,Apr,Cases,2024,HFM
+Phuket,31,Apr,Cases,2024,HFM
+Ranong,6,Apr,Cases,2024,HFM
+Surat Thani,28,Apr,Cases,2024,HFM
+ZONE:12,62,Apr,Cases,2024,HFM
+Narathiwat,8,Apr,Cases,2024,HFM
+Pattani,2,Apr,Cases,2024,HFM
+Phatthalung,3,Apr,Cases,2024,HFM
+Satun,2,Apr,Cases,2024,HFM
+Songkhla,24,Apr,Cases,2024,HFM
+Trang,10,Apr,Cases,2024,HFM
+Yala,13,Apr,Cases,2024,HFM
+ZONE:13,337,Apr,Cases,2024,HFM
+Bangkok,337,Apr,Cases,2024,HFM
+Total,0,Apr,Deaths,2024,HFM
+ZONE:01,0,Apr,Deaths,2024,HFM
+Chiang Mai,0,Apr,Deaths,2024,HFM
+Chiang Rai,0,Apr,Deaths,2024,HFM
+Lampang,0,Apr,Deaths,2024,HFM
+Lamphun,0,Apr,Deaths,2024,HFM
+Mae Hong Son,0,Apr,Deaths,2024,HFM
+Nan,0,Apr,Deaths,2024,HFM
+Phayao,0,Apr,Deaths,2024,HFM
+Phrae,0,Apr,Deaths,2024,HFM
+ZONE:02,0,Apr,Deaths,2024,HFM
+Phetchabun,0,Apr,Deaths,2024,HFM
+Phitsanulok,0,Apr,Deaths,2024,HFM
+Sukhothai,0,Apr,Deaths,2024,HFM
+Tak,0,Apr,Deaths,2024,HFM
+Uttaradit,0,Apr,Deaths,2024,HFM
+ZONE:03,0,Apr,Deaths,2024,HFM
+Chai Nat,0,Apr,Deaths,2024,HFM
+Kamphaeng Phet,0,Apr,Deaths,2024,HFM
+Nakhon Sawan,0,Apr,Deaths,2024,HFM
+Phichit,0,Apr,Deaths,2024,HFM
+Uthai Thani,0,Apr,Deaths,2024,HFM
+ZONE:04,0,Apr,Deaths,2024,HFM
+Ang Thong,0,Apr,Deaths,2024,HFM
+Lop Buri,0,Apr,Deaths,2024,HFM
+Nakhon Nayok,0,Apr,Deaths,2024,HFM
+Nonthaburi,0,Apr,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Apr,Deaths,2024,HFM
+Pathum Thani,0,Apr,Deaths,2024,HFM
+Saraburi,0,Apr,Deaths,2024,HFM
+Sing Buri,0,Apr,Deaths,2024,HFM
+ZONE:05,0,Apr,Deaths,2024,HFM
+Kanchanaburi,0,Apr,Deaths,2024,HFM
+Nakhon Pathom,0,Apr,Deaths,2024,HFM
+Phetchaburi,0,Apr,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Apr,Deaths,2024,HFM
+Ratchaburi,0,Apr,Deaths,2024,HFM
+Samut Sakhon,0,Apr,Deaths,2024,HFM
+Samut Songkhram,0,Apr,Deaths,2024,HFM
+Suphan Buri,0,Apr,Deaths,2024,HFM
+ZONE:06,0,Apr,Deaths,2024,HFM
+Chachoengsao,0,Apr,Deaths,2024,HFM
+Chanthaburi,0,Apr,Deaths,2024,HFM
+Chon Buri,0,Apr,Deaths,2024,HFM
+Prachin Buri,0,Apr,Deaths,2024,HFM
+Rayong,0,Apr,Deaths,2024,HFM
+Sa Kaeo,0,Apr,Deaths,2024,HFM
+Samut Prakan,0,Apr,Deaths,2024,HFM
+Trat,0,Apr,Deaths,2024,HFM
+ZONE:07,0,Apr,Deaths,2024,HFM
+Kalasin,0,Apr,Deaths,2024,HFM
+Khon Kaen,0,Apr,Deaths,2024,HFM
+Maha Sarakham,0,Apr,Deaths,2024,HFM
+Roi Et,0,Apr,Deaths,2024,HFM
+ZONE:08,0,Apr,Deaths,2024,HFM
+Bungkan,0,Apr,Deaths,2024,HFM
+Loei,0,Apr,Deaths,2024,HFM
+Nakhon Phanom,0,Apr,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Apr,Deaths,2024,HFM
+Nong Khai,0,Apr,Deaths,2024,HFM
+Sakon Nakhon,0,Apr,Deaths,2024,HFM
+Udon Thani,0,Apr,Deaths,2024,HFM
+ZONE:09,0,Apr,Deaths,2024,HFM
+Buri Ram,0,Apr,Deaths,2024,HFM
+Chaiyaphum,0,Apr,Deaths,2024,HFM
+Nakhon Ratchasima,0,Apr,Deaths,2024,HFM
+Surin,0,Apr,Deaths,2024,HFM
+ZONE:10,0,Apr,Deaths,2024,HFM
+Amnat Charoen,0,Apr,Deaths,2024,HFM
+Mukdahan,0,Apr,Deaths,2024,HFM
+Si Sa Ket,0,Apr,Deaths,2024,HFM
+Ubon Ratchathani,0,Apr,Deaths,2024,HFM
+Yasothon,0,Apr,Deaths,2024,HFM
+ZONE:11,0,Apr,Deaths,2024,HFM
+Chumphon,0,Apr,Deaths,2024,HFM
+Krabi,0,Apr,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Apr,Deaths,2024,HFM
+Phangnga,0,Apr,Deaths,2024,HFM
+Phuket,0,Apr,Deaths,2024,HFM
+Ranong,0,Apr,Deaths,2024,HFM
+Surat Thani,0,Apr,Deaths,2024,HFM
+ZONE:12,0,Apr,Deaths,2024,HFM
+Narathiwat,0,Apr,Deaths,2024,HFM
+Pattani,0,Apr,Deaths,2024,HFM
+Phatthalung,0,Apr,Deaths,2024,HFM
+Satun,0,Apr,Deaths,2024,HFM
+Songkhla,0,Apr,Deaths,2024,HFM
+Trang,0,Apr,Deaths,2024,HFM
+Yala,0,Apr,Deaths,2024,HFM
+ZONE:13,0,Apr,Deaths,2024,HFM
+Bangkok,0,Apr,Deaths,2024,HFM
+Total,1698,May,Cases,2024,HFM
+ZONE:01,307,May,Cases,2024,HFM
+Chiang Mai,100,May,Cases,2024,HFM
+Chiang Rai,102,May,Cases,2024,HFM
+Lampang,15,May,Cases,2024,HFM
+Lamphun,13,May,Cases,2024,HFM
+Mae Hong Son,33,May,Cases,2024,HFM
+Nan,21,May,Cases,2024,HFM
+Phayao,20,May,Cases,2024,HFM
+Phrae,3,May,Cases,2024,HFM
+ZONE:02,85,May,Cases,2024,HFM
+Phetchabun,12,May,Cases,2024,HFM
+Phitsanulok,13,May,Cases,2024,HFM
+Sukhothai,4,May,Cases,2024,HFM
+Tak,47,May,Cases,2024,HFM
+Uttaradit,9,May,Cases,2024,HFM
+ZONE:03,34,May,Cases,2024,HFM
+Chai Nat,2,May,Cases,2024,HFM
+Kamphaeng Phet,7,May,Cases,2024,HFM
+Nakhon Sawan,16,May,Cases,2024,HFM
+Phichit,6,May,Cases,2024,HFM
+Uthai Thani,3,May,Cases,2024,HFM
+ZONE:04,78,May,Cases,2024,HFM
+Ang Thong,2,May,Cases,2024,HFM
+Lop Buri,13,May,Cases,2024,HFM
+Nakhon Nayok,1,May,Cases,2024,HFM
+Nonthaburi,14,May,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,10,May,Cases,2024,HFM
+Pathum Thani,18,May,Cases,2024,HFM
+Saraburi,18,May,Cases,2024,HFM
+Sing Buri,2,May,Cases,2024,HFM
+ZONE:05,111,May,Cases,2024,HFM
+Kanchanaburi,18,May,Cases,2024,HFM
+Nakhon Pathom,22,May,Cases,2024,HFM
+Phetchaburi,6,May,Cases,2024,HFM
+Prachuap Khiri Khan,13,May,Cases,2024,HFM
+Ratchaburi,13,May,Cases,2024,HFM
+Samut Sakhon,34,May,Cases,2024,HFM
+Samut Songkhram,0,May,Cases,2024,HFM
+Suphan Buri,5,May,Cases,2024,HFM
+ZONE:06,212,May,Cases,2024,HFM
+Chachoengsao,14,May,Cases,2024,HFM
+Chanthaburi,13,May,Cases,2024,HFM
+Chon Buri,82,May,Cases,2024,HFM
+Prachin Buri,9,May,Cases,2024,HFM
+Rayong,25,May,Cases,2024,HFM
+Sa Kaeo,12,May,Cases,2024,HFM
+Samut Prakan,55,May,Cases,2024,HFM
+Trat,2,May,Cases,2024,HFM
+ZONE:07,72,May,Cases,2024,HFM
+Kalasin,14,May,Cases,2024,HFM
+Khon Kaen,39,May,Cases,2024,HFM
+Maha Sarakham,2,May,Cases,2024,HFM
+Roi Et,17,May,Cases,2024,HFM
+ZONE:08,95,May,Cases,2024,HFM
+Bungkan,5,May,Cases,2024,HFM
+Loei,26,May,Cases,2024,HFM
+Nakhon Phanom,30,May,Cases,2024,HFM
+Nong Bua Lam Phu,1,May,Cases,2024,HFM
+Nong Khai,14,May,Cases,2024,HFM
+Sakon Nakhon,9,May,Cases,2024,HFM
+Udon Thani,10,May,Cases,2024,HFM
+ZONE:09,92,May,Cases,2024,HFM
+Buri Ram,21,May,Cases,2024,HFM
+Chaiyaphum,9,May,Cases,2024,HFM
+Nakhon Ratchasima,34,May,Cases,2024,HFM
+Surin,28,May,Cases,2024,HFM
+ZONE:10,68,May,Cases,2024,HFM
+Amnat Charoen,3,May,Cases,2024,HFM
+Mukdahan,6,May,Cases,2024,HFM
+Si Sa Ket,14,May,Cases,2024,HFM
+Ubon Ratchathani,37,May,Cases,2024,HFM
+Yasothon,8,May,Cases,2024,HFM
+ZONE:11,113,May,Cases,2024,HFM
+Chumphon,12,May,Cases,2024,HFM
+Krabi,5,May,Cases,2024,HFM
+Nakhon Si Thammarat,16,May,Cases,2024,HFM
+Phangnga,7,May,Cases,2024,HFM
+Phuket,50,May,Cases,2024,HFM
+Ranong,4,May,Cases,2024,HFM
+Surat Thani,19,May,Cases,2024,HFM
+ZONE:12,67,May,Cases,2024,HFM
+Narathiwat,10,May,Cases,2024,HFM
+Pattani,3,May,Cases,2024,HFM
+Phatthalung,6,May,Cases,2024,HFM
+Satun,5,May,Cases,2024,HFM
+Songkhla,30,May,Cases,2024,HFM
+Trang,3,May,Cases,2024,HFM
+Yala,10,May,Cases,2024,HFM
+ZONE:13,364,May,Cases,2024,HFM
+Bangkok,364,May,Cases,2024,HFM
+Total,0,May,Deaths,2024,HFM
+ZONE:01,0,May,Deaths,2024,HFM
+Chiang Mai,0,May,Deaths,2024,HFM
+Chiang Rai,0,May,Deaths,2024,HFM
+Lampang,0,May,Deaths,2024,HFM
+Lamphun,0,May,Deaths,2024,HFM
+Mae Hong Son,0,May,Deaths,2024,HFM
+Nan,0,May,Deaths,2024,HFM
+Phayao,0,May,Deaths,2024,HFM
+Phrae,0,May,Deaths,2024,HFM
+ZONE:02,0,May,Deaths,2024,HFM
+Phetchabun,0,May,Deaths,2024,HFM
+Phitsanulok,0,May,Deaths,2024,HFM
+Sukhothai,0,May,Deaths,2024,HFM
+Tak,0,May,Deaths,2024,HFM
+Uttaradit,0,May,Deaths,2024,HFM
+ZONE:03,0,May,Deaths,2024,HFM
+Chai Nat,0,May,Deaths,2024,HFM
+Kamphaeng Phet,0,May,Deaths,2024,HFM
+Nakhon Sawan,0,May,Deaths,2024,HFM
+Phichit,0,May,Deaths,2024,HFM
+Uthai Thani,0,May,Deaths,2024,HFM
+ZONE:04,0,May,Deaths,2024,HFM
+Ang Thong,0,May,Deaths,2024,HFM
+Lop Buri,0,May,Deaths,2024,HFM
+Nakhon Nayok,0,May,Deaths,2024,HFM
+Nonthaburi,0,May,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,May,Deaths,2024,HFM
+Pathum Thani,0,May,Deaths,2024,HFM
+Saraburi,0,May,Deaths,2024,HFM
+Sing Buri,0,May,Deaths,2024,HFM
+ZONE:05,0,May,Deaths,2024,HFM
+Kanchanaburi,0,May,Deaths,2024,HFM
+Nakhon Pathom,0,May,Deaths,2024,HFM
+Phetchaburi,0,May,Deaths,2024,HFM
+Prachuap Khiri Khan,0,May,Deaths,2024,HFM
+Ratchaburi,0,May,Deaths,2024,HFM
+Samut Sakhon,0,May,Deaths,2024,HFM
+Samut Songkhram,0,May,Deaths,2024,HFM
+Suphan Buri,0,May,Deaths,2024,HFM
+ZONE:06,0,May,Deaths,2024,HFM
+Chachoengsao,0,May,Deaths,2024,HFM
+Chanthaburi,0,May,Deaths,2024,HFM
+Chon Buri,0,May,Deaths,2024,HFM
+Prachin Buri,0,May,Deaths,2024,HFM
+Rayong,0,May,Deaths,2024,HFM
+Sa Kaeo,0,May,Deaths,2024,HFM
+Samut Prakan,0,May,Deaths,2024,HFM
+Trat,0,May,Deaths,2024,HFM
+ZONE:07,0,May,Deaths,2024,HFM
+Kalasin,0,May,Deaths,2024,HFM
+Khon Kaen,0,May,Deaths,2024,HFM
+Maha Sarakham,0,May,Deaths,2024,HFM
+Roi Et,0,May,Deaths,2024,HFM
+ZONE:08,0,May,Deaths,2024,HFM
+Bungkan,0,May,Deaths,2024,HFM
+Loei,0,May,Deaths,2024,HFM
+Nakhon Phanom,0,May,Deaths,2024,HFM
+Nong Bua Lam Phu,0,May,Deaths,2024,HFM
+Nong Khai,0,May,Deaths,2024,HFM
+Sakon Nakhon,0,May,Deaths,2024,HFM
+Udon Thani,0,May,Deaths,2024,HFM
+ZONE:09,0,May,Deaths,2024,HFM
+Buri Ram,0,May,Deaths,2024,HFM
+Chaiyaphum,0,May,Deaths,2024,HFM
+Nakhon Ratchasima,0,May,Deaths,2024,HFM
+Surin,0,May,Deaths,2024,HFM
+ZONE:10,0,May,Deaths,2024,HFM
+Amnat Charoen,0,May,Deaths,2024,HFM
+Mukdahan,0,May,Deaths,2024,HFM
+Si Sa Ket,0,May,Deaths,2024,HFM
+Ubon Ratchathani,0,May,Deaths,2024,HFM
+Yasothon,0,May,Deaths,2024,HFM
+ZONE:11,0,May,Deaths,2024,HFM
+Chumphon,0,May,Deaths,2024,HFM
+Krabi,0,May,Deaths,2024,HFM
+Nakhon Si Thammarat,0,May,Deaths,2024,HFM
+Phangnga,0,May,Deaths,2024,HFM
+Phuket,0,May,Deaths,2024,HFM
+Ranong,0,May,Deaths,2024,HFM
+Surat Thani,0,May,Deaths,2024,HFM
+ZONE:12,0,May,Deaths,2024,HFM
+Narathiwat,0,May,Deaths,2024,HFM
+Pattani,0,May,Deaths,2024,HFM
+Phatthalung,0,May,Deaths,2024,HFM
+Satun,0,May,Deaths,2024,HFM
+Songkhla,0,May,Deaths,2024,HFM
+Trang,0,May,Deaths,2024,HFM
+Yala,0,May,Deaths,2024,HFM
+ZONE:13,0,May,Deaths,2024,HFM
+Bangkok,0,May,Deaths,2024,HFM
+Total,3820,June,Cases,2024,HFM
+ZONE:01,719,June,Cases,2024,HFM
+Chiang Mai,112,June,Cases,2024,HFM
+Chiang Rai,327,June,Cases,2024,HFM
+Lampang,32,June,Cases,2024,HFM
+Lamphun,70,June,Cases,2024,HFM
+Mae Hong Son,68,June,Cases,2024,HFM
+Nan,55,June,Cases,2024,HFM
+Phayao,40,June,Cases,2024,HFM
+Phrae,15,June,Cases,2024,HFM
+ZONE:02,101,June,Cases,2024,HFM
+Phetchabun,9,June,Cases,2024,HFM
+Phitsanulok,6,June,Cases,2024,HFM
+Sukhothai,9,June,Cases,2024,HFM
+Tak,69,June,Cases,2024,HFM
+Uttaradit,8,June,Cases,2024,HFM
+ZONE:03,90,June,Cases,2024,HFM
+Chai Nat,5,June,Cases,2024,HFM
+Kamphaeng Phet,9,June,Cases,2024,HFM
+Nakhon Sawan,54,June,Cases,2024,HFM
+Phichit,13,June,Cases,2024,HFM
+Uthai Thani,9,June,Cases,2024,HFM
+ZONE:04,276,June,Cases,2024,HFM
+Ang Thong,7,June,Cases,2024,HFM
+Lop Buri,28,June,Cases,2024,HFM
+Nakhon Nayok,8,June,Cases,2024,HFM
+Nonthaburi,67,June,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,38,June,Cases,2024,HFM
+Pathum Thani,57,June,Cases,2024,HFM
+Saraburi,36,June,Cases,2024,HFM
+Sing Buri,35,June,Cases,2024,HFM
+ZONE:05,260,June,Cases,2024,HFM
+Kanchanaburi,22,June,Cases,2024,HFM
+Nakhon Pathom,49,June,Cases,2024,HFM
+Phetchaburi,28,June,Cases,2024,HFM
+Prachuap Khiri Khan,31,June,Cases,2024,HFM
+Ratchaburi,23,June,Cases,2024,HFM
+Samut Sakhon,67,June,Cases,2024,HFM
+Samut Songkhram,11,June,Cases,2024,HFM
+Suphan Buri,29,June,Cases,2024,HFM
+ZONE:06,726,June,Cases,2024,HFM
+Chachoengsao,31,June,Cases,2024,HFM
+Chanthaburi,78,June,Cases,2024,HFM
+Chon Buri,282,June,Cases,2024,HFM
+Prachin Buri,46,June,Cases,2024,HFM
+Rayong,70,June,Cases,2024,HFM
+Sa Kaeo,45,June,Cases,2024,HFM
+Samut Prakan,162,June,Cases,2024,HFM
+Trat,12,June,Cases,2024,HFM
+ZONE:07,166,June,Cases,2024,HFM
+Kalasin,56,June,Cases,2024,HFM
+Khon Kaen,57,June,Cases,2024,HFM
+Maha Sarakham,13,June,Cases,2024,HFM
+Roi Et,40,June,Cases,2024,HFM
+ZONE:08,238,June,Cases,2024,HFM
+Bungkan,21,June,Cases,2024,HFM
+Loei,59,June,Cases,2024,HFM
+Nakhon Phanom,38,June,Cases,2024,HFM
+Nong Bua Lam Phu,5,June,Cases,2024,HFM
+Nong Khai,18,June,Cases,2024,HFM
+Sakon Nakhon,48,June,Cases,2024,HFM
+Udon Thani,49,June,Cases,2024,HFM
+ZONE:09,188,June,Cases,2024,HFM
+Buri Ram,44,June,Cases,2024,HFM
+Chaiyaphum,28,June,Cases,2024,HFM
+Nakhon Ratchasima,82,June,Cases,2024,HFM
+Surin,34,June,Cases,2024,HFM
+ZONE:10,104,June,Cases,2024,HFM
+Amnat Charoen,8,June,Cases,2024,HFM
+Mukdahan,19,June,Cases,2024,HFM
+Si Sa Ket,27,June,Cases,2024,HFM
+Ubon Ratchathani,41,June,Cases,2024,HFM
+Yasothon,9,June,Cases,2024,HFM
+ZONE:11,197,June,Cases,2024,HFM
+Chumphon,15,June,Cases,2024,HFM
+Krabi,13,June,Cases,2024,HFM
+Nakhon Si Thammarat,25,June,Cases,2024,HFM
+Phangnga,11,June,Cases,2024,HFM
+Phuket,110,June,Cases,2024,HFM
+Ranong,8,June,Cases,2024,HFM
+Surat Thani,15,June,Cases,2024,HFM
+ZONE:12,173,June,Cases,2024,HFM
+Narathiwat,25,June,Cases,2024,HFM
+Pattani,14,June,Cases,2024,HFM
+Phatthalung,10,June,Cases,2024,HFM
+Satun,10,June,Cases,2024,HFM
+Songkhla,65,June,Cases,2024,HFM
+Trang,11,June,Cases,2024,HFM
+Yala,38,June,Cases,2024,HFM
+ZONE:13,582,June,Cases,2024,HFM
+Bangkok,582,June,Cases,2024,HFM
+Total,0,June,Deaths,2024,HFM
+ZONE:01,0,June,Deaths,2024,HFM
+Chiang Mai,0,June,Deaths,2024,HFM
+Chiang Rai,0,June,Deaths,2024,HFM
+Lampang,0,June,Deaths,2024,HFM
+Lamphun,0,June,Deaths,2024,HFM
+Mae Hong Son,0,June,Deaths,2024,HFM
+Nan,0,June,Deaths,2024,HFM
+Phayao,0,June,Deaths,2024,HFM
+Phrae,0,June,Deaths,2024,HFM
+ZONE:02,0,June,Deaths,2024,HFM
+Phetchabun,0,June,Deaths,2024,HFM
+Phitsanulok,0,June,Deaths,2024,HFM
+Sukhothai,0,June,Deaths,2024,HFM
+Tak,0,June,Deaths,2024,HFM
+Uttaradit,0,June,Deaths,2024,HFM
+ZONE:03,0,June,Deaths,2024,HFM
+Chai Nat,0,June,Deaths,2024,HFM
+Kamphaeng Phet,0,June,Deaths,2024,HFM
+Nakhon Sawan,0,June,Deaths,2024,HFM
+Phichit,0,June,Deaths,2024,HFM
+Uthai Thani,0,June,Deaths,2024,HFM
+ZONE:04,0,June,Deaths,2024,HFM
+Ang Thong,0,June,Deaths,2024,HFM
+Lop Buri,0,June,Deaths,2024,HFM
+Nakhon Nayok,0,June,Deaths,2024,HFM
+Nonthaburi,0,June,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,June,Deaths,2024,HFM
+Pathum Thani,0,June,Deaths,2024,HFM
+Saraburi,0,June,Deaths,2024,HFM
+Sing Buri,0,June,Deaths,2024,HFM
+ZONE:05,0,June,Deaths,2024,HFM
+Kanchanaburi,0,June,Deaths,2024,HFM
+Nakhon Pathom,0,June,Deaths,2024,HFM
+Phetchaburi,0,June,Deaths,2024,HFM
+Prachuap Khiri Khan,0,June,Deaths,2024,HFM
+Ratchaburi,0,June,Deaths,2024,HFM
+Samut Sakhon,0,June,Deaths,2024,HFM
+Samut Songkhram,0,June,Deaths,2024,HFM
+Suphan Buri,0,June,Deaths,2024,HFM
+ZONE:06,0,June,Deaths,2024,HFM
+Chachoengsao,0,June,Deaths,2024,HFM
+Chanthaburi,0,June,Deaths,2024,HFM
+Chon Buri,0,June,Deaths,2024,HFM
+Prachin Buri,0,June,Deaths,2024,HFM
+Rayong,0,June,Deaths,2024,HFM
+Sa Kaeo,0,June,Deaths,2024,HFM
+Samut Prakan,0,June,Deaths,2024,HFM
+Trat,0,June,Deaths,2024,HFM
+ZONE:07,0,June,Deaths,2024,HFM
+Kalasin,0,June,Deaths,2024,HFM
+Khon Kaen,0,June,Deaths,2024,HFM
+Maha Sarakham,0,June,Deaths,2024,HFM
+Roi Et,0,June,Deaths,2024,HFM
+ZONE:08,0,June,Deaths,2024,HFM
+Bungkan,0,June,Deaths,2024,HFM
+Loei,0,June,Deaths,2024,HFM
+Nakhon Phanom,0,June,Deaths,2024,HFM
+Nong Bua Lam Phu,0,June,Deaths,2024,HFM
+Nong Khai,0,June,Deaths,2024,HFM
+Sakon Nakhon,0,June,Deaths,2024,HFM
+Udon Thani,0,June,Deaths,2024,HFM
+ZONE:09,0,June,Deaths,2024,HFM
+Buri Ram,0,June,Deaths,2024,HFM
+Chaiyaphum,0,June,Deaths,2024,HFM
+Nakhon Ratchasima,0,June,Deaths,2024,HFM
+Surin,0,June,Deaths,2024,HFM
+ZONE:10,0,June,Deaths,2024,HFM
+Amnat Charoen,0,June,Deaths,2024,HFM
+Mukdahan,0,June,Deaths,2024,HFM
+Si Sa Ket,0,June,Deaths,2024,HFM
+Ubon Ratchathani,0,June,Deaths,2024,HFM
+Yasothon,0,June,Deaths,2024,HFM
+ZONE:11,0,June,Deaths,2024,HFM
+Chumphon,0,June,Deaths,2024,HFM
+Krabi,0,June,Deaths,2024,HFM
+Nakhon Si Thammarat,0,June,Deaths,2024,HFM
+Phangnga,0,June,Deaths,2024,HFM
+Phuket,0,June,Deaths,2024,HFM
+Ranong,0,June,Deaths,2024,HFM
+Surat Thani,0,June,Deaths,2024,HFM
+ZONE:12,0,June,Deaths,2024,HFM
+Narathiwat,0,June,Deaths,2024,HFM
+Pattani,0,June,Deaths,2024,HFM
+Phatthalung,0,June,Deaths,2024,HFM
+Satun,0,June,Deaths,2024,HFM
+Songkhla,0,June,Deaths,2024,HFM
+Trang,0,June,Deaths,2024,HFM
+Yala,0,June,Deaths,2024,HFM
+ZONE:13,0,June,Deaths,2024,HFM
+Bangkok,0,June,Deaths,2024,HFM
+Total,74,July,Cases,2024,HFM
+ZONE:01,10,July,Cases,2024,HFM
+Chiang Mai,1,July,Cases,2024,HFM
+Chiang Rai,2,July,Cases,2024,HFM
+Lampang,1,July,Cases,2024,HFM
+Lamphun,1,July,Cases,2024,HFM
+Mae Hong Son,2,July,Cases,2024,HFM
+Nan,2,July,Cases,2024,HFM
+Phayao,1,July,Cases,2024,HFM
+Phrae,0,July,Cases,2024,HFM
+ZONE:02,0,July,Cases,2024,HFM
+Phetchabun,0,July,Cases,2024,HFM
+Phitsanulok,0,July,Cases,2024,HFM
+Sukhothai,0,July,Cases,2024,HFM
+Tak,0,July,Cases,2024,HFM
+Uttaradit,0,July,Cases,2024,HFM
+ZONE:03,4,July,Cases,2024,HFM
+Chai Nat,0,July,Cases,2024,HFM
+Kamphaeng Phet,0,July,Cases,2024,HFM
+Nakhon Sawan,4,July,Cases,2024,HFM
+Phichit,0,July,Cases,2024,HFM
+Uthai Thani,0,July,Cases,2024,HFM
+ZONE:04,5,July,Cases,2024,HFM
+Ang Thong,0,July,Cases,2024,HFM
+Lop Buri,0,July,Cases,2024,HFM
+Nakhon Nayok,0,July,Cases,2024,HFM
+Nonthaburi,0,July,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,1,July,Cases,2024,HFM
+Pathum Thani,2,July,Cases,2024,HFM
+Saraburi,2,July,Cases,2024,HFM
+Sing Buri,0,July,Cases,2024,HFM
+ZONE:05,8,July,Cases,2024,HFM
+Kanchanaburi,1,July,Cases,2024,HFM
+Nakhon Pathom,0,July,Cases,2024,HFM
+Phetchaburi,1,July,Cases,2024,HFM
+Prachuap Khiri Khan,1,July,Cases,2024,HFM
+Ratchaburi,2,July,Cases,2024,HFM
+Samut Sakhon,0,July,Cases,2024,HFM
+Samut Songkhram,0,July,Cases,2024,HFM
+Suphan Buri,3,July,Cases,2024,HFM
+ZONE:06,24,July,Cases,2024,HFM
+Chachoengsao,0,July,Cases,2024,HFM
+Chanthaburi,1,July,Cases,2024,HFM
+Chon Buri,12,July,Cases,2024,HFM
+Prachin Buri,0,July,Cases,2024,HFM
+Rayong,3,July,Cases,2024,HFM
+Sa Kaeo,0,July,Cases,2024,HFM
+Samut Prakan,8,July,Cases,2024,HFM
+Trat,0,July,Cases,2024,HFM
+ZONE:07,2,July,Cases,2024,HFM
+Kalasin,0,July,Cases,2024,HFM
+Khon Kaen,1,July,Cases,2024,HFM
+Maha Sarakham,1,July,Cases,2024,HFM
+Roi Et,0,July,Cases,2024,HFM
+ZONE:08,5,July,Cases,2024,HFM
+Bungkan,3,July,Cases,2024,HFM
+Loei,0,July,Cases,2024,HFM
+Nakhon Phanom,0,July,Cases,2024,HFM
+Nong Bua Lam Phu,0,July,Cases,2024,HFM
+Nong Khai,0,July,Cases,2024,HFM
+Sakon Nakhon,0,July,Cases,2024,HFM
+Udon Thani,2,July,Cases,2024,HFM
+ZONE:09,7,July,Cases,2024,HFM
+Buri Ram,2,July,Cases,2024,HFM
+Chaiyaphum,1,July,Cases,2024,HFM
+Nakhon Ratchasima,1,July,Cases,2024,HFM
+Surin,3,July,Cases,2024,HFM
+ZONE:10,1,July,Cases,2024,HFM
+Amnat Charoen,0,July,Cases,2024,HFM
+Mukdahan,0,July,Cases,2024,HFM
+Si Sa Ket,0,July,Cases,2024,HFM
+Ubon Ratchathani,1,July,Cases,2024,HFM
+Yasothon,0,July,Cases,2024,HFM
+ZONE:11,4,July,Cases,2024,HFM
+Chumphon,0,July,Cases,2024,HFM
+Krabi,0,July,Cases,2024,HFM
+Nakhon Si Thammarat,4,July,Cases,2024,HFM
+Phangnga,0,July,Cases,2024,HFM
+Phuket,0,July,Cases,2024,HFM
+Ranong,0,July,Cases,2024,HFM
+Surat Thani,0,July,Cases,2024,HFM
+ZONE:12,2,July,Cases,2024,HFM
+Narathiwat,0,July,Cases,2024,HFM
+Pattani,0,July,Cases,2024,HFM
+Phatthalung,0,July,Cases,2024,HFM
+Satun,1,July,Cases,2024,HFM
+Songkhla,0,July,Cases,2024,HFM
+Trang,0,July,Cases,2024,HFM
+Yala,1,July,Cases,2024,HFM
+ZONE:13,2,July,Cases,2024,HFM
+Bangkok,2,July,Cases,2024,HFM
+Total,0,July,Deaths,2024,HFM
+ZONE:01,0,July,Deaths,2024,HFM
+Chiang Mai,0,July,Deaths,2024,HFM
+Chiang Rai,0,July,Deaths,2024,HFM
+Lampang,0,July,Deaths,2024,HFM
+Lamphun,0,July,Deaths,2024,HFM
+Mae Hong Son,0,July,Deaths,2024,HFM
+Nan,0,July,Deaths,2024,HFM
+Phayao,0,July,Deaths,2024,HFM
+Phrae,0,July,Deaths,2024,HFM
+ZONE:02,0,July,Deaths,2024,HFM
+Phetchabun,0,July,Deaths,2024,HFM
+Phitsanulok,0,July,Deaths,2024,HFM
+Sukhothai,0,July,Deaths,2024,HFM
+Tak,0,July,Deaths,2024,HFM
+Uttaradit,0,July,Deaths,2024,HFM
+ZONE:03,0,July,Deaths,2024,HFM
+Chai Nat,0,July,Deaths,2024,HFM
+Kamphaeng Phet,0,July,Deaths,2024,HFM
+Nakhon Sawan,0,July,Deaths,2024,HFM
+Phichit,0,July,Deaths,2024,HFM
+Uthai Thani,0,July,Deaths,2024,HFM
+ZONE:04,0,July,Deaths,2024,HFM
+Ang Thong,0,July,Deaths,2024,HFM
+Lop Buri,0,July,Deaths,2024,HFM
+Nakhon Nayok,0,July,Deaths,2024,HFM
+Nonthaburi,0,July,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,July,Deaths,2024,HFM
+Pathum Thani,0,July,Deaths,2024,HFM
+Saraburi,0,July,Deaths,2024,HFM
+Sing Buri,0,July,Deaths,2024,HFM
+ZONE:05,0,July,Deaths,2024,HFM
+Kanchanaburi,0,July,Deaths,2024,HFM
+Nakhon Pathom,0,July,Deaths,2024,HFM
+Phetchaburi,0,July,Deaths,2024,HFM
+Prachuap Khiri Khan,0,July,Deaths,2024,HFM
+Ratchaburi,0,July,Deaths,2024,HFM
+Samut Sakhon,0,July,Deaths,2024,HFM
+Samut Songkhram,0,July,Deaths,2024,HFM
+Suphan Buri,0,July,Deaths,2024,HFM
+ZONE:06,0,July,Deaths,2024,HFM
+Chachoengsao,0,July,Deaths,2024,HFM
+Chanthaburi,0,July,Deaths,2024,HFM
+Chon Buri,0,July,Deaths,2024,HFM
+Prachin Buri,0,July,Deaths,2024,HFM
+Rayong,0,July,Deaths,2024,HFM
+Sa Kaeo,0,July,Deaths,2024,HFM
+Samut Prakan,0,July,Deaths,2024,HFM
+Trat,0,July,Deaths,2024,HFM
+ZONE:07,0,July,Deaths,2024,HFM
+Kalasin,0,July,Deaths,2024,HFM
+Khon Kaen,0,July,Deaths,2024,HFM
+Maha Sarakham,0,July,Deaths,2024,HFM
+Roi Et,0,July,Deaths,2024,HFM
+ZONE:08,0,July,Deaths,2024,HFM
+Bungkan,0,July,Deaths,2024,HFM
+Loei,0,July,Deaths,2024,HFM
+Nakhon Phanom,0,July,Deaths,2024,HFM
+Nong Bua Lam Phu,0,July,Deaths,2024,HFM
+Nong Khai,0,July,Deaths,2024,HFM
+Sakon Nakhon,0,July,Deaths,2024,HFM
+Udon Thani,0,July,Deaths,2024,HFM
+ZONE:09,0,July,Deaths,2024,HFM
+Buri Ram,0,July,Deaths,2024,HFM
+Chaiyaphum,0,July,Deaths,2024,HFM
+Nakhon Ratchasima,0,July,Deaths,2024,HFM
+Surin,0,July,Deaths,2024,HFM
+ZONE:10,0,July,Deaths,2024,HFM
+Amnat Charoen,0,July,Deaths,2024,HFM
+Mukdahan,0,July,Deaths,2024,HFM
+Si Sa Ket,0,July,Deaths,2024,HFM
+Ubon Ratchathani,0,July,Deaths,2024,HFM
+Yasothon,0,July,Deaths,2024,HFM
+ZONE:11,0,July,Deaths,2024,HFM
+Chumphon,0,July,Deaths,2024,HFM
+Krabi,0,July,Deaths,2024,HFM
+Nakhon Si Thammarat,0,July,Deaths,2024,HFM
+Phangnga,0,July,Deaths,2024,HFM
+Phuket,0,July,Deaths,2024,HFM
+Ranong,0,July,Deaths,2024,HFM
+Surat Thani,0,July,Deaths,2024,HFM
+ZONE:12,0,July,Deaths,2024,HFM
+Narathiwat,0,July,Deaths,2024,HFM
+Pattani,0,July,Deaths,2024,HFM
+Phatthalung,0,July,Deaths,2024,HFM
+Satun,0,July,Deaths,2024,HFM
+Songkhla,0,July,Deaths,2024,HFM
+Trang,0,July,Deaths,2024,HFM
+Yala,0,July,Deaths,2024,HFM
+ZONE:13,0,July,Deaths,2024,HFM
+Bangkok,0,July,Deaths,2024,HFM
+Total,0,Aug,Cases,2024,HFM
+ZONE:01,0,Aug,Cases,2024,HFM
+Chiang Mai,0,Aug,Cases,2024,HFM
+Chiang Rai,0,Aug,Cases,2024,HFM
+Lampang,0,Aug,Cases,2024,HFM
+Lamphun,0,Aug,Cases,2024,HFM
+Mae Hong Son,0,Aug,Cases,2024,HFM
+Nan,0,Aug,Cases,2024,HFM
+Phayao,0,Aug,Cases,2024,HFM
+Phrae,0,Aug,Cases,2024,HFM
+ZONE:02,0,Aug,Cases,2024,HFM
+Phetchabun,0,Aug,Cases,2024,HFM
+Phitsanulok,0,Aug,Cases,2024,HFM
+Sukhothai,0,Aug,Cases,2024,HFM
+Tak,0,Aug,Cases,2024,HFM
+Uttaradit,0,Aug,Cases,2024,HFM
+ZONE:03,0,Aug,Cases,2024,HFM
+Chai Nat,0,Aug,Cases,2024,HFM
+Kamphaeng Phet,0,Aug,Cases,2024,HFM
+Nakhon Sawan,0,Aug,Cases,2024,HFM
+Phichit,0,Aug,Cases,2024,HFM
+Uthai Thani,0,Aug,Cases,2024,HFM
+ZONE:04,0,Aug,Cases,2024,HFM
+Ang Thong,0,Aug,Cases,2024,HFM
+Lop Buri,0,Aug,Cases,2024,HFM
+Nakhon Nayok,0,Aug,Cases,2024,HFM
+Nonthaburi,0,Aug,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,HFM
+Pathum Thani,0,Aug,Cases,2024,HFM
+Saraburi,0,Aug,Cases,2024,HFM
+Sing Buri,0,Aug,Cases,2024,HFM
+ZONE:05,0,Aug,Cases,2024,HFM
+Kanchanaburi,0,Aug,Cases,2024,HFM
+Nakhon Pathom,0,Aug,Cases,2024,HFM
+Phetchaburi,0,Aug,Cases,2024,HFM
+Prachuap Khiri Khan,0,Aug,Cases,2024,HFM
+Ratchaburi,0,Aug,Cases,2024,HFM
+Samut Sakhon,0,Aug,Cases,2024,HFM
+Samut Songkhram,0,Aug,Cases,2024,HFM
+Suphan Buri,0,Aug,Cases,2024,HFM
+ZONE:06,0,Aug,Cases,2024,HFM
+Chachoengsao,0,Aug,Cases,2024,HFM
+Chanthaburi,0,Aug,Cases,2024,HFM
+Chon Buri,0,Aug,Cases,2024,HFM
+Prachin Buri,0,Aug,Cases,2024,HFM
+Rayong,0,Aug,Cases,2024,HFM
+Sa Kaeo,0,Aug,Cases,2024,HFM
+Samut Prakan,0,Aug,Cases,2024,HFM
+Trat,0,Aug,Cases,2024,HFM
+ZONE:07,0,Aug,Cases,2024,HFM
+Kalasin,0,Aug,Cases,2024,HFM
+Khon Kaen,0,Aug,Cases,2024,HFM
+Maha Sarakham,0,Aug,Cases,2024,HFM
+Roi Et,0,Aug,Cases,2024,HFM
+ZONE:08,0,Aug,Cases,2024,HFM
+Bungkan,0,Aug,Cases,2024,HFM
+Loei,0,Aug,Cases,2024,HFM
+Nakhon Phanom,0,Aug,Cases,2024,HFM
+Nong Bua Lam Phu,0,Aug,Cases,2024,HFM
+Nong Khai,0,Aug,Cases,2024,HFM
+Sakon Nakhon,0,Aug,Cases,2024,HFM
+Udon Thani,0,Aug,Cases,2024,HFM
+ZONE:09,0,Aug,Cases,2024,HFM
+Buri Ram,0,Aug,Cases,2024,HFM
+Chaiyaphum,0,Aug,Cases,2024,HFM
+Nakhon Ratchasima,0,Aug,Cases,2024,HFM
+Surin,0,Aug,Cases,2024,HFM
+ZONE:10,0,Aug,Cases,2024,HFM
+Amnat Charoen,0,Aug,Cases,2024,HFM
+Mukdahan,0,Aug,Cases,2024,HFM
+Si Sa Ket,0,Aug,Cases,2024,HFM
+Ubon Ratchathani,0,Aug,Cases,2024,HFM
+Yasothon,0,Aug,Cases,2024,HFM
+ZONE:11,0,Aug,Cases,2024,HFM
+Chumphon,0,Aug,Cases,2024,HFM
+Krabi,0,Aug,Cases,2024,HFM
+Nakhon Si Thammarat,0,Aug,Cases,2024,HFM
+Phangnga,0,Aug,Cases,2024,HFM
+Phuket,0,Aug,Cases,2024,HFM
+Ranong,0,Aug,Cases,2024,HFM
+Surat Thani,0,Aug,Cases,2024,HFM
+ZONE:12,0,Aug,Cases,2024,HFM
+Narathiwat,0,Aug,Cases,2024,HFM
+Pattani,0,Aug,Cases,2024,HFM
+Phatthalung,0,Aug,Cases,2024,HFM
+Satun,0,Aug,Cases,2024,HFM
+Songkhla,0,Aug,Cases,2024,HFM
+Trang,0,Aug,Cases,2024,HFM
+Yala,0,Aug,Cases,2024,HFM
+ZONE:13,0,Aug,Cases,2024,HFM
+Bangkok,0,Aug,Cases,2024,HFM
+Total,0,Aug,Deaths,2024,HFM
+ZONE:01,0,Aug,Deaths,2024,HFM
+Chiang Mai,0,Aug,Deaths,2024,HFM
+Chiang Rai,0,Aug,Deaths,2024,HFM
+Lampang,0,Aug,Deaths,2024,HFM
+Lamphun,0,Aug,Deaths,2024,HFM
+Mae Hong Son,0,Aug,Deaths,2024,HFM
+Nan,0,Aug,Deaths,2024,HFM
+Phayao,0,Aug,Deaths,2024,HFM
+Phrae,0,Aug,Deaths,2024,HFM
+ZONE:02,0,Aug,Deaths,2024,HFM
+Phetchabun,0,Aug,Deaths,2024,HFM
+Phitsanulok,0,Aug,Deaths,2024,HFM
+Sukhothai,0,Aug,Deaths,2024,HFM
+Tak,0,Aug,Deaths,2024,HFM
+Uttaradit,0,Aug,Deaths,2024,HFM
+ZONE:03,0,Aug,Deaths,2024,HFM
+Chai Nat,0,Aug,Deaths,2024,HFM
+Kamphaeng Phet,0,Aug,Deaths,2024,HFM
+Nakhon Sawan,0,Aug,Deaths,2024,HFM
+Phichit,0,Aug,Deaths,2024,HFM
+Uthai Thani,0,Aug,Deaths,2024,HFM
+ZONE:04,0,Aug,Deaths,2024,HFM
+Ang Thong,0,Aug,Deaths,2024,HFM
+Lop Buri,0,Aug,Deaths,2024,HFM
+Nakhon Nayok,0,Aug,Deaths,2024,HFM
+Nonthaburi,0,Aug,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Aug,Deaths,2024,HFM
+Pathum Thani,0,Aug,Deaths,2024,HFM
+Saraburi,0,Aug,Deaths,2024,HFM
+Sing Buri,0,Aug,Deaths,2024,HFM
+ZONE:05,0,Aug,Deaths,2024,HFM
+Kanchanaburi,0,Aug,Deaths,2024,HFM
+Nakhon Pathom,0,Aug,Deaths,2024,HFM
+Phetchaburi,0,Aug,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Aug,Deaths,2024,HFM
+Ratchaburi,0,Aug,Deaths,2024,HFM
+Samut Sakhon,0,Aug,Deaths,2024,HFM
+Samut Songkhram,0,Aug,Deaths,2024,HFM
+Suphan Buri,0,Aug,Deaths,2024,HFM
+ZONE:06,0,Aug,Deaths,2024,HFM
+Chachoengsao,0,Aug,Deaths,2024,HFM
+Chanthaburi,0,Aug,Deaths,2024,HFM
+Chon Buri,0,Aug,Deaths,2024,HFM
+Prachin Buri,0,Aug,Deaths,2024,HFM
+Rayong,0,Aug,Deaths,2024,HFM
+Sa Kaeo,0,Aug,Deaths,2024,HFM
+Samut Prakan,0,Aug,Deaths,2024,HFM
+Trat,0,Aug,Deaths,2024,HFM
+ZONE:07,0,Aug,Deaths,2024,HFM
+Kalasin,0,Aug,Deaths,2024,HFM
+Khon Kaen,0,Aug,Deaths,2024,HFM
+Maha Sarakham,0,Aug,Deaths,2024,HFM
+Roi Et,0,Aug,Deaths,2024,HFM
+ZONE:08,0,Aug,Deaths,2024,HFM
+Bungkan,0,Aug,Deaths,2024,HFM
+Loei,0,Aug,Deaths,2024,HFM
+Nakhon Phanom,0,Aug,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Aug,Deaths,2024,HFM
+Nong Khai,0,Aug,Deaths,2024,HFM
+Sakon Nakhon,0,Aug,Deaths,2024,HFM
+Udon Thani,0,Aug,Deaths,2024,HFM
+ZONE:09,0,Aug,Deaths,2024,HFM
+Buri Ram,0,Aug,Deaths,2024,HFM
+Chaiyaphum,0,Aug,Deaths,2024,HFM
+Nakhon Ratchasima,0,Aug,Deaths,2024,HFM
+Surin,0,Aug,Deaths,2024,HFM
+ZONE:10,0,Aug,Deaths,2024,HFM
+Amnat Charoen,0,Aug,Deaths,2024,HFM
+Mukdahan,0,Aug,Deaths,2024,HFM
+Si Sa Ket,0,Aug,Deaths,2024,HFM
+Ubon Ratchathani,0,Aug,Deaths,2024,HFM
+Yasothon,0,Aug,Deaths,2024,HFM
+ZONE:11,0,Aug,Deaths,2024,HFM
+Chumphon,0,Aug,Deaths,2024,HFM
+Krabi,0,Aug,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Aug,Deaths,2024,HFM
+Phangnga,0,Aug,Deaths,2024,HFM
+Phuket,0,Aug,Deaths,2024,HFM
+Ranong,0,Aug,Deaths,2024,HFM
+Surat Thani,0,Aug,Deaths,2024,HFM
+ZONE:12,0,Aug,Deaths,2024,HFM
+Narathiwat,0,Aug,Deaths,2024,HFM
+Pattani,0,Aug,Deaths,2024,HFM
+Phatthalung,0,Aug,Deaths,2024,HFM
+Satun,0,Aug,Deaths,2024,HFM
+Songkhla,0,Aug,Deaths,2024,HFM
+Trang,0,Aug,Deaths,2024,HFM
+Yala,0,Aug,Deaths,2024,HFM
+ZONE:13,0,Aug,Deaths,2024,HFM
+Bangkok,0,Aug,Deaths,2024,HFM
+Total,0,Sept,Cases,2024,HFM
+ZONE:01,0,Sept,Cases,2024,HFM
+Chiang Mai,0,Sept,Cases,2024,HFM
+Chiang Rai,0,Sept,Cases,2024,HFM
+Lampang,0,Sept,Cases,2024,HFM
+Lamphun,0,Sept,Cases,2024,HFM
+Mae Hong Son,0,Sept,Cases,2024,HFM
+Nan,0,Sept,Cases,2024,HFM
+Phayao,0,Sept,Cases,2024,HFM
+Phrae,0,Sept,Cases,2024,HFM
+ZONE:02,0,Sept,Cases,2024,HFM
+Phetchabun,0,Sept,Cases,2024,HFM
+Phitsanulok,0,Sept,Cases,2024,HFM
+Sukhothai,0,Sept,Cases,2024,HFM
+Tak,0,Sept,Cases,2024,HFM
+Uttaradit,0,Sept,Cases,2024,HFM
+ZONE:03,0,Sept,Cases,2024,HFM
+Chai Nat,0,Sept,Cases,2024,HFM
+Kamphaeng Phet,0,Sept,Cases,2024,HFM
+Nakhon Sawan,0,Sept,Cases,2024,HFM
+Phichit,0,Sept,Cases,2024,HFM
+Uthai Thani,0,Sept,Cases,2024,HFM
+ZONE:04,0,Sept,Cases,2024,HFM
+Ang Thong,0,Sept,Cases,2024,HFM
+Lop Buri,0,Sept,Cases,2024,HFM
+Nakhon Nayok,0,Sept,Cases,2024,HFM
+Nonthaburi,0,Sept,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,0,Sept,Cases,2024,HFM
+Pathum Thani,0,Sept,Cases,2024,HFM
+Saraburi,0,Sept,Cases,2024,HFM
+Sing Buri,0,Sept,Cases,2024,HFM
+ZONE:05,0,Sept,Cases,2024,HFM
+Kanchanaburi,0,Sept,Cases,2024,HFM
+Nakhon Pathom,0,Sept,Cases,2024,HFM
+Phetchaburi,0,Sept,Cases,2024,HFM
+Prachuap Khiri Khan,0,Sept,Cases,2024,HFM
+Ratchaburi,0,Sept,Cases,2024,HFM
+Samut Sakhon,0,Sept,Cases,2024,HFM
+Samut Songkhram,0,Sept,Cases,2024,HFM
+Suphan Buri,0,Sept,Cases,2024,HFM
+ZONE:06,0,Sept,Cases,2024,HFM
+Chachoengsao,0,Sept,Cases,2024,HFM
+Chanthaburi,0,Sept,Cases,2024,HFM
+Chon Buri,0,Sept,Cases,2024,HFM
+Prachin Buri,0,Sept,Cases,2024,HFM
+Rayong,0,Sept,Cases,2024,HFM
+Sa Kaeo,0,Sept,Cases,2024,HFM
+Samut Prakan,0,Sept,Cases,2024,HFM
+Trat,0,Sept,Cases,2024,HFM
+ZONE:07,0,Sept,Cases,2024,HFM
+Kalasin,0,Sept,Cases,2024,HFM
+Khon Kaen,0,Sept,Cases,2024,HFM
+Maha Sarakham,0,Sept,Cases,2024,HFM
+Roi Et,0,Sept,Cases,2024,HFM
+ZONE:08,0,Sept,Cases,2024,HFM
+Bungkan,0,Sept,Cases,2024,HFM
+Loei,0,Sept,Cases,2024,HFM
+Nakhon Phanom,0,Sept,Cases,2024,HFM
+Nong Bua Lam Phu,0,Sept,Cases,2024,HFM
+Nong Khai,0,Sept,Cases,2024,HFM
+Sakon Nakhon,0,Sept,Cases,2024,HFM
+Udon Thani,0,Sept,Cases,2024,HFM
+ZONE:09,0,Sept,Cases,2024,HFM
+Buri Ram,0,Sept,Cases,2024,HFM
+Chaiyaphum,0,Sept,Cases,2024,HFM
+Nakhon Ratchasima,0,Sept,Cases,2024,HFM
+Surin,0,Sept,Cases,2024,HFM
+ZONE:10,0,Sept,Cases,2024,HFM
+Amnat Charoen,0,Sept,Cases,2024,HFM
+Mukdahan,0,Sept,Cases,2024,HFM
+Si Sa Ket,0,Sept,Cases,2024,HFM
+Ubon Ratchathani,0,Sept,Cases,2024,HFM
+Yasothon,0,Sept,Cases,2024,HFM
+ZONE:11,0,Sept,Cases,2024,HFM
+Chumphon,0,Sept,Cases,2024,HFM
+Krabi,0,Sept,Cases,2024,HFM
+Nakhon Si Thammarat,0,Sept,Cases,2024,HFM
+Phangnga,0,Sept,Cases,2024,HFM
+Phuket,0,Sept,Cases,2024,HFM
+Ranong,0,Sept,Cases,2024,HFM
+Surat Thani,0,Sept,Cases,2024,HFM
+ZONE:12,0,Sept,Cases,2024,HFM
+Narathiwat,0,Sept,Cases,2024,HFM
+Pattani,0,Sept,Cases,2024,HFM
+Phatthalung,0,Sept,Cases,2024,HFM
+Satun,0,Sept,Cases,2024,HFM
+Songkhla,0,Sept,Cases,2024,HFM
+Trang,0,Sept,Cases,2024,HFM
+Yala,0,Sept,Cases,2024,HFM
+ZONE:13,0,Sept,Cases,2024,HFM
+Bangkok,0,Sept,Cases,2024,HFM
+Total,0,Sept,Deaths,2024,HFM
+ZONE:01,0,Sept,Deaths,2024,HFM
+Chiang Mai,0,Sept,Deaths,2024,HFM
+Chiang Rai,0,Sept,Deaths,2024,HFM
+Lampang,0,Sept,Deaths,2024,HFM
+Lamphun,0,Sept,Deaths,2024,HFM
+Mae Hong Son,0,Sept,Deaths,2024,HFM
+Nan,0,Sept,Deaths,2024,HFM
+Phayao,0,Sept,Deaths,2024,HFM
+Phrae,0,Sept,Deaths,2024,HFM
+ZONE:02,0,Sept,Deaths,2024,HFM
+Phetchabun,0,Sept,Deaths,2024,HFM
+Phitsanulok,0,Sept,Deaths,2024,HFM
+Sukhothai,0,Sept,Deaths,2024,HFM
+Tak,0,Sept,Deaths,2024,HFM
+Uttaradit,0,Sept,Deaths,2024,HFM
+ZONE:03,0,Sept,Deaths,2024,HFM
+Chai Nat,0,Sept,Deaths,2024,HFM
+Kamphaeng Phet,0,Sept,Deaths,2024,HFM
+Nakhon Sawan,0,Sept,Deaths,2024,HFM
+Phichit,0,Sept,Deaths,2024,HFM
+Uthai Thani,0,Sept,Deaths,2024,HFM
+ZONE:04,0,Sept,Deaths,2024,HFM
+Ang Thong,0,Sept,Deaths,2024,HFM
+Lop Buri,0,Sept,Deaths,2024,HFM
+Nakhon Nayok,0,Sept,Deaths,2024,HFM
+Nonthaburi,0,Sept,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Sept,Deaths,2024,HFM
+Pathum Thani,0,Sept,Deaths,2024,HFM
+Saraburi,0,Sept,Deaths,2024,HFM
+Sing Buri,0,Sept,Deaths,2024,HFM
+ZONE:05,0,Sept,Deaths,2024,HFM
+Kanchanaburi,0,Sept,Deaths,2024,HFM
+Nakhon Pathom,0,Sept,Deaths,2024,HFM
+Phetchaburi,0,Sept,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Sept,Deaths,2024,HFM
+Ratchaburi,0,Sept,Deaths,2024,HFM
+Samut Sakhon,0,Sept,Deaths,2024,HFM
+Samut Songkhram,0,Sept,Deaths,2024,HFM
+Suphan Buri,0,Sept,Deaths,2024,HFM
+ZONE:06,0,Sept,Deaths,2024,HFM
+Chachoengsao,0,Sept,Deaths,2024,HFM
+Chanthaburi,0,Sept,Deaths,2024,HFM
+Chon Buri,0,Sept,Deaths,2024,HFM
+Prachin Buri,0,Sept,Deaths,2024,HFM
+Rayong,0,Sept,Deaths,2024,HFM
+Sa Kaeo,0,Sept,Deaths,2024,HFM
+Samut Prakan,0,Sept,Deaths,2024,HFM
+Trat,0,Sept,Deaths,2024,HFM
+ZONE:07,0,Sept,Deaths,2024,HFM
+Kalasin,0,Sept,Deaths,2024,HFM
+Khon Kaen,0,Sept,Deaths,2024,HFM
+Maha Sarakham,0,Sept,Deaths,2024,HFM
+Roi Et,0,Sept,Deaths,2024,HFM
+ZONE:08,0,Sept,Deaths,2024,HFM
+Bungkan,0,Sept,Deaths,2024,HFM
+Loei,0,Sept,Deaths,2024,HFM
+Nakhon Phanom,0,Sept,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Sept,Deaths,2024,HFM
+Nong Khai,0,Sept,Deaths,2024,HFM
+Sakon Nakhon,0,Sept,Deaths,2024,HFM
+Udon Thani,0,Sept,Deaths,2024,HFM
+ZONE:09,0,Sept,Deaths,2024,HFM
+Buri Ram,0,Sept,Deaths,2024,HFM
+Chaiyaphum,0,Sept,Deaths,2024,HFM
+Nakhon Ratchasima,0,Sept,Deaths,2024,HFM
+Surin,0,Sept,Deaths,2024,HFM
+ZONE:10,0,Sept,Deaths,2024,HFM
+Amnat Charoen,0,Sept,Deaths,2024,HFM
+Mukdahan,0,Sept,Deaths,2024,HFM
+Si Sa Ket,0,Sept,Deaths,2024,HFM
+Ubon Ratchathani,0,Sept,Deaths,2024,HFM
+Yasothon,0,Sept,Deaths,2024,HFM
+ZONE:11,0,Sept,Deaths,2024,HFM
+Chumphon,0,Sept,Deaths,2024,HFM
+Krabi,0,Sept,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Sept,Deaths,2024,HFM
+Phangnga,0,Sept,Deaths,2024,HFM
+Phuket,0,Sept,Deaths,2024,HFM
+Ranong,0,Sept,Deaths,2024,HFM
+Surat Thani,0,Sept,Deaths,2024,HFM
+ZONE:12,0,Sept,Deaths,2024,HFM
+Narathiwat,0,Sept,Deaths,2024,HFM
+Pattani,0,Sept,Deaths,2024,HFM
+Phatthalung,0,Sept,Deaths,2024,HFM
+Satun,0,Sept,Deaths,2024,HFM
+Songkhla,0,Sept,Deaths,2024,HFM
+Trang,0,Sept,Deaths,2024,HFM
+Yala,0,Sept,Deaths,2024,HFM
+ZONE:13,0,Sept,Deaths,2024,HFM
+Bangkok,0,Sept,Deaths,2024,HFM
+Total,0,Oct,Cases,2024,HFM
+ZONE:01,0,Oct,Cases,2024,HFM
+Chiang Mai,0,Oct,Cases,2024,HFM
+Chiang Rai,0,Oct,Cases,2024,HFM
+Lampang,0,Oct,Cases,2024,HFM
+Lamphun,0,Oct,Cases,2024,HFM
+Mae Hong Son,0,Oct,Cases,2024,HFM
+Nan,0,Oct,Cases,2024,HFM
+Phayao,0,Oct,Cases,2024,HFM
+Phrae,0,Oct,Cases,2024,HFM
+ZONE:02,0,Oct,Cases,2024,HFM
+Phetchabun,0,Oct,Cases,2024,HFM
+Phitsanulok,0,Oct,Cases,2024,HFM
+Sukhothai,0,Oct,Cases,2024,HFM
+Tak,0,Oct,Cases,2024,HFM
+Uttaradit,0,Oct,Cases,2024,HFM
+ZONE:03,0,Oct,Cases,2024,HFM
+Chai Nat,0,Oct,Cases,2024,HFM
+Kamphaeng Phet,0,Oct,Cases,2024,HFM
+Nakhon Sawan,0,Oct,Cases,2024,HFM
+Phichit,0,Oct,Cases,2024,HFM
+Uthai Thani,0,Oct,Cases,2024,HFM
+ZONE:04,0,Oct,Cases,2024,HFM
+Ang Thong,0,Oct,Cases,2024,HFM
+Lop Buri,0,Oct,Cases,2024,HFM
+Nakhon Nayok,0,Oct,Cases,2024,HFM
+Nonthaburi,0,Oct,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,0,Oct,Cases,2024,HFM
+Pathum Thani,0,Oct,Cases,2024,HFM
+Saraburi,0,Oct,Cases,2024,HFM
+Sing Buri,0,Oct,Cases,2024,HFM
+ZONE:05,0,Oct,Cases,2024,HFM
+Kanchanaburi,0,Oct,Cases,2024,HFM
+Nakhon Pathom,0,Oct,Cases,2024,HFM
+Phetchaburi,0,Oct,Cases,2024,HFM
+Prachuap Khiri Khan,0,Oct,Cases,2024,HFM
+Ratchaburi,0,Oct,Cases,2024,HFM
+Samut Sakhon,0,Oct,Cases,2024,HFM
+Samut Songkhram,0,Oct,Cases,2024,HFM
+Suphan Buri,0,Oct,Cases,2024,HFM
+ZONE:06,0,Oct,Cases,2024,HFM
+Chachoengsao,0,Oct,Cases,2024,HFM
+Chanthaburi,0,Oct,Cases,2024,HFM
+Chon Buri,0,Oct,Cases,2024,HFM
+Prachin Buri,0,Oct,Cases,2024,HFM
+Rayong,0,Oct,Cases,2024,HFM
+Sa Kaeo,0,Oct,Cases,2024,HFM
+Samut Prakan,0,Oct,Cases,2024,HFM
+Trat,0,Oct,Cases,2024,HFM
+ZONE:07,0,Oct,Cases,2024,HFM
+Kalasin,0,Oct,Cases,2024,HFM
+Khon Kaen,0,Oct,Cases,2024,HFM
+Maha Sarakham,0,Oct,Cases,2024,HFM
+Roi Et,0,Oct,Cases,2024,HFM
+ZONE:08,0,Oct,Cases,2024,HFM
+Bungkan,0,Oct,Cases,2024,HFM
+Loei,0,Oct,Cases,2024,HFM
+Nakhon Phanom,0,Oct,Cases,2024,HFM
+Nong Bua Lam Phu,0,Oct,Cases,2024,HFM
+Nong Khai,0,Oct,Cases,2024,HFM
+Sakon Nakhon,0,Oct,Cases,2024,HFM
+Udon Thani,0,Oct,Cases,2024,HFM
+ZONE:09,0,Oct,Cases,2024,HFM
+Buri Ram,0,Oct,Cases,2024,HFM
+Chaiyaphum,0,Oct,Cases,2024,HFM
+Nakhon Ratchasima,0,Oct,Cases,2024,HFM
+Surin,0,Oct,Cases,2024,HFM
+ZONE:10,0,Oct,Cases,2024,HFM
+Amnat Charoen,0,Oct,Cases,2024,HFM
+Mukdahan,0,Oct,Cases,2024,HFM
+Si Sa Ket,0,Oct,Cases,2024,HFM
+Ubon Ratchathani,0,Oct,Cases,2024,HFM
+Yasothon,0,Oct,Cases,2024,HFM
+ZONE:11,0,Oct,Cases,2024,HFM
+Chumphon,0,Oct,Cases,2024,HFM
+Krabi,0,Oct,Cases,2024,HFM
+Nakhon Si Thammarat,0,Oct,Cases,2024,HFM
+Phangnga,0,Oct,Cases,2024,HFM
+Phuket,0,Oct,Cases,2024,HFM
+Ranong,0,Oct,Cases,2024,HFM
+Surat Thani,0,Oct,Cases,2024,HFM
+ZONE:12,0,Oct,Cases,2024,HFM
+Narathiwat,0,Oct,Cases,2024,HFM
+Pattani,0,Oct,Cases,2024,HFM
+Phatthalung,0,Oct,Cases,2024,HFM
+Satun,0,Oct,Cases,2024,HFM
+Songkhla,0,Oct,Cases,2024,HFM
+Trang,0,Oct,Cases,2024,HFM
+Yala,0,Oct,Cases,2024,HFM
+ZONE:13,0,Oct,Cases,2024,HFM
+Bangkok,0,Oct,Cases,2024,HFM
+Total,0,Oct,Deaths,2024,HFM
+ZONE:01,0,Oct,Deaths,2024,HFM
+Chiang Mai,0,Oct,Deaths,2024,HFM
+Chiang Rai,0,Oct,Deaths,2024,HFM
+Lampang,0,Oct,Deaths,2024,HFM
+Lamphun,0,Oct,Deaths,2024,HFM
+Mae Hong Son,0,Oct,Deaths,2024,HFM
+Nan,0,Oct,Deaths,2024,HFM
+Phayao,0,Oct,Deaths,2024,HFM
+Phrae,0,Oct,Deaths,2024,HFM
+ZONE:02,0,Oct,Deaths,2024,HFM
+Phetchabun,0,Oct,Deaths,2024,HFM
+Phitsanulok,0,Oct,Deaths,2024,HFM
+Sukhothai,0,Oct,Deaths,2024,HFM
+Tak,0,Oct,Deaths,2024,HFM
+Uttaradit,0,Oct,Deaths,2024,HFM
+ZONE:03,0,Oct,Deaths,2024,HFM
+Chai Nat,0,Oct,Deaths,2024,HFM
+Kamphaeng Phet,0,Oct,Deaths,2024,HFM
+Nakhon Sawan,0,Oct,Deaths,2024,HFM
+Phichit,0,Oct,Deaths,2024,HFM
+Uthai Thani,0,Oct,Deaths,2024,HFM
+ZONE:04,0,Oct,Deaths,2024,HFM
+Ang Thong,0,Oct,Deaths,2024,HFM
+Lop Buri,0,Oct,Deaths,2024,HFM
+Nakhon Nayok,0,Oct,Deaths,2024,HFM
+Nonthaburi,0,Oct,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Oct,Deaths,2024,HFM
+Pathum Thani,0,Oct,Deaths,2024,HFM
+Saraburi,0,Oct,Deaths,2024,HFM
+Sing Buri,0,Oct,Deaths,2024,HFM
+ZONE:05,0,Oct,Deaths,2024,HFM
+Kanchanaburi,0,Oct,Deaths,2024,HFM
+Nakhon Pathom,0,Oct,Deaths,2024,HFM
+Phetchaburi,0,Oct,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Oct,Deaths,2024,HFM
+Ratchaburi,0,Oct,Deaths,2024,HFM
+Samut Sakhon,0,Oct,Deaths,2024,HFM
+Samut Songkhram,0,Oct,Deaths,2024,HFM
+Suphan Buri,0,Oct,Deaths,2024,HFM
+ZONE:06,0,Oct,Deaths,2024,HFM
+Chachoengsao,0,Oct,Deaths,2024,HFM
+Chanthaburi,0,Oct,Deaths,2024,HFM
+Chon Buri,0,Oct,Deaths,2024,HFM
+Prachin Buri,0,Oct,Deaths,2024,HFM
+Rayong,0,Oct,Deaths,2024,HFM
+Sa Kaeo,0,Oct,Deaths,2024,HFM
+Samut Prakan,0,Oct,Deaths,2024,HFM
+Trat,0,Oct,Deaths,2024,HFM
+ZONE:07,0,Oct,Deaths,2024,HFM
+Kalasin,0,Oct,Deaths,2024,HFM
+Khon Kaen,0,Oct,Deaths,2024,HFM
+Maha Sarakham,0,Oct,Deaths,2024,HFM
+Roi Et,0,Oct,Deaths,2024,HFM
+ZONE:08,0,Oct,Deaths,2024,HFM
+Bungkan,0,Oct,Deaths,2024,HFM
+Loei,0,Oct,Deaths,2024,HFM
+Nakhon Phanom,0,Oct,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Oct,Deaths,2024,HFM
+Nong Khai,0,Oct,Deaths,2024,HFM
+Sakon Nakhon,0,Oct,Deaths,2024,HFM
+Udon Thani,0,Oct,Deaths,2024,HFM
+ZONE:09,0,Oct,Deaths,2024,HFM
+Buri Ram,0,Oct,Deaths,2024,HFM
+Chaiyaphum,0,Oct,Deaths,2024,HFM
+Nakhon Ratchasima,0,Oct,Deaths,2024,HFM
+Surin,0,Oct,Deaths,2024,HFM
+ZONE:10,0,Oct,Deaths,2024,HFM
+Amnat Charoen,0,Oct,Deaths,2024,HFM
+Mukdahan,0,Oct,Deaths,2024,HFM
+Si Sa Ket,0,Oct,Deaths,2024,HFM
+Ubon Ratchathani,0,Oct,Deaths,2024,HFM
+Yasothon,0,Oct,Deaths,2024,HFM
+ZONE:11,0,Oct,Deaths,2024,HFM
+Chumphon,0,Oct,Deaths,2024,HFM
+Krabi,0,Oct,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Oct,Deaths,2024,HFM
+Phangnga,0,Oct,Deaths,2024,HFM
+Phuket,0,Oct,Deaths,2024,HFM
+Ranong,0,Oct,Deaths,2024,HFM
+Surat Thani,0,Oct,Deaths,2024,HFM
+ZONE:12,0,Oct,Deaths,2024,HFM
+Narathiwat,0,Oct,Deaths,2024,HFM
+Pattani,0,Oct,Deaths,2024,HFM
+Phatthalung,0,Oct,Deaths,2024,HFM
+Satun,0,Oct,Deaths,2024,HFM
+Songkhla,0,Oct,Deaths,2024,HFM
+Trang,0,Oct,Deaths,2024,HFM
+Yala,0,Oct,Deaths,2024,HFM
+ZONE:13,0,Oct,Deaths,2024,HFM
+Bangkok,0,Oct,Deaths,2024,HFM
+Total,0,Nov,Cases,2024,HFM
+ZONE:01,0,Nov,Cases,2024,HFM
+Chiang Mai,0,Nov,Cases,2024,HFM
+Chiang Rai,0,Nov,Cases,2024,HFM
+Lampang,0,Nov,Cases,2024,HFM
+Lamphun,0,Nov,Cases,2024,HFM
+Mae Hong Son,0,Nov,Cases,2024,HFM
+Nan,0,Nov,Cases,2024,HFM
+Phayao,0,Nov,Cases,2024,HFM
+Phrae,0,Nov,Cases,2024,HFM
+ZONE:02,0,Nov,Cases,2024,HFM
+Phetchabun,0,Nov,Cases,2024,HFM
+Phitsanulok,0,Nov,Cases,2024,HFM
+Sukhothai,0,Nov,Cases,2024,HFM
+Tak,0,Nov,Cases,2024,HFM
+Uttaradit,0,Nov,Cases,2024,HFM
+ZONE:03,0,Nov,Cases,2024,HFM
+Chai Nat,0,Nov,Cases,2024,HFM
+Kamphaeng Phet,0,Nov,Cases,2024,HFM
+Nakhon Sawan,0,Nov,Cases,2024,HFM
+Phichit,0,Nov,Cases,2024,HFM
+Uthai Thani,0,Nov,Cases,2024,HFM
+ZONE:04,0,Nov,Cases,2024,HFM
+Ang Thong,0,Nov,Cases,2024,HFM
+Lop Buri,0,Nov,Cases,2024,HFM
+Nakhon Nayok,0,Nov,Cases,2024,HFM
+Nonthaburi,0,Nov,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,0,Nov,Cases,2024,HFM
+Pathum Thani,0,Nov,Cases,2024,HFM
+Saraburi,0,Nov,Cases,2024,HFM
+Sing Buri,0,Nov,Cases,2024,HFM
+ZONE:05,0,Nov,Cases,2024,HFM
+Kanchanaburi,0,Nov,Cases,2024,HFM
+Nakhon Pathom,0,Nov,Cases,2024,HFM
+Phetchaburi,0,Nov,Cases,2024,HFM
+Prachuap Khiri Khan,0,Nov,Cases,2024,HFM
+Ratchaburi,0,Nov,Cases,2024,HFM
+Samut Sakhon,0,Nov,Cases,2024,HFM
+Samut Songkhram,0,Nov,Cases,2024,HFM
+Suphan Buri,0,Nov,Cases,2024,HFM
+ZONE:06,0,Nov,Cases,2024,HFM
+Chachoengsao,0,Nov,Cases,2024,HFM
+Chanthaburi,0,Nov,Cases,2024,HFM
+Chon Buri,0,Nov,Cases,2024,HFM
+Prachin Buri,0,Nov,Cases,2024,HFM
+Rayong,0,Nov,Cases,2024,HFM
+Sa Kaeo,0,Nov,Cases,2024,HFM
+Samut Prakan,0,Nov,Cases,2024,HFM
+Trat,0,Nov,Cases,2024,HFM
+ZONE:07,0,Nov,Cases,2024,HFM
+Kalasin,0,Nov,Cases,2024,HFM
+Khon Kaen,0,Nov,Cases,2024,HFM
+Maha Sarakham,0,Nov,Cases,2024,HFM
+Roi Et,0,Nov,Cases,2024,HFM
+ZONE:08,0,Nov,Cases,2024,HFM
+Bungkan,0,Nov,Cases,2024,HFM
+Loei,0,Nov,Cases,2024,HFM
+Nakhon Phanom,0,Nov,Cases,2024,HFM
+Nong Bua Lam Phu,0,Nov,Cases,2024,HFM
+Nong Khai,0,Nov,Cases,2024,HFM
+Sakon Nakhon,0,Nov,Cases,2024,HFM
+Udon Thani,0,Nov,Cases,2024,HFM
+ZONE:09,0,Nov,Cases,2024,HFM
+Buri Ram,0,Nov,Cases,2024,HFM
+Chaiyaphum,0,Nov,Cases,2024,HFM
+Nakhon Ratchasima,0,Nov,Cases,2024,HFM
+Surin,0,Nov,Cases,2024,HFM
+ZONE:10,0,Nov,Cases,2024,HFM
+Amnat Charoen,0,Nov,Cases,2024,HFM
+Mukdahan,0,Nov,Cases,2024,HFM
+Si Sa Ket,0,Nov,Cases,2024,HFM
+Ubon Ratchathani,0,Nov,Cases,2024,HFM
+Yasothon,0,Nov,Cases,2024,HFM
+ZONE:11,0,Nov,Cases,2024,HFM
+Chumphon,0,Nov,Cases,2024,HFM
+Krabi,0,Nov,Cases,2024,HFM
+Nakhon Si Thammarat,0,Nov,Cases,2024,HFM
+Phangnga,0,Nov,Cases,2024,HFM
+Phuket,0,Nov,Cases,2024,HFM
+Ranong,0,Nov,Cases,2024,HFM
+Surat Thani,0,Nov,Cases,2024,HFM
+ZONE:12,0,Nov,Cases,2024,HFM
+Narathiwat,0,Nov,Cases,2024,HFM
+Pattani,0,Nov,Cases,2024,HFM
+Phatthalung,0,Nov,Cases,2024,HFM
+Satun,0,Nov,Cases,2024,HFM
+Songkhla,0,Nov,Cases,2024,HFM
+Trang,0,Nov,Cases,2024,HFM
+Yala,0,Nov,Cases,2024,HFM
+ZONE:13,0,Nov,Cases,2024,HFM
+Bangkok,0,Nov,Cases,2024,HFM
+Total,0,Nov,Deaths,2024,HFM
+ZONE:01,0,Nov,Deaths,2024,HFM
+Chiang Mai,0,Nov,Deaths,2024,HFM
+Chiang Rai,0,Nov,Deaths,2024,HFM
+Lampang,0,Nov,Deaths,2024,HFM
+Lamphun,0,Nov,Deaths,2024,HFM
+Mae Hong Son,0,Nov,Deaths,2024,HFM
+Nan,0,Nov,Deaths,2024,HFM
+Phayao,0,Nov,Deaths,2024,HFM
+Phrae,0,Nov,Deaths,2024,HFM
+ZONE:02,0,Nov,Deaths,2024,HFM
+Phetchabun,0,Nov,Deaths,2024,HFM
+Phitsanulok,0,Nov,Deaths,2024,HFM
+Sukhothai,0,Nov,Deaths,2024,HFM
+Tak,0,Nov,Deaths,2024,HFM
+Uttaradit,0,Nov,Deaths,2024,HFM
+ZONE:03,0,Nov,Deaths,2024,HFM
+Chai Nat,0,Nov,Deaths,2024,HFM
+Kamphaeng Phet,0,Nov,Deaths,2024,HFM
+Nakhon Sawan,0,Nov,Deaths,2024,HFM
+Phichit,0,Nov,Deaths,2024,HFM
+Uthai Thani,0,Nov,Deaths,2024,HFM
+ZONE:04,0,Nov,Deaths,2024,HFM
+Ang Thong,0,Nov,Deaths,2024,HFM
+Lop Buri,0,Nov,Deaths,2024,HFM
+Nakhon Nayok,0,Nov,Deaths,2024,HFM
+Nonthaburi,0,Nov,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Nov,Deaths,2024,HFM
+Pathum Thani,0,Nov,Deaths,2024,HFM
+Saraburi,0,Nov,Deaths,2024,HFM
+Sing Buri,0,Nov,Deaths,2024,HFM
+ZONE:05,0,Nov,Deaths,2024,HFM
+Kanchanaburi,0,Nov,Deaths,2024,HFM
+Nakhon Pathom,0,Nov,Deaths,2024,HFM
+Phetchaburi,0,Nov,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Nov,Deaths,2024,HFM
+Ratchaburi,0,Nov,Deaths,2024,HFM
+Samut Sakhon,0,Nov,Deaths,2024,HFM
+Samut Songkhram,0,Nov,Deaths,2024,HFM
+Suphan Buri,0,Nov,Deaths,2024,HFM
+ZONE:06,0,Nov,Deaths,2024,HFM
+Chachoengsao,0,Nov,Deaths,2024,HFM
+Chanthaburi,0,Nov,Deaths,2024,HFM
+Chon Buri,0,Nov,Deaths,2024,HFM
+Prachin Buri,0,Nov,Deaths,2024,HFM
+Rayong,0,Nov,Deaths,2024,HFM
+Sa Kaeo,0,Nov,Deaths,2024,HFM
+Samut Prakan,0,Nov,Deaths,2024,HFM
+Trat,0,Nov,Deaths,2024,HFM
+ZONE:07,0,Nov,Deaths,2024,HFM
+Kalasin,0,Nov,Deaths,2024,HFM
+Khon Kaen,0,Nov,Deaths,2024,HFM
+Maha Sarakham,0,Nov,Deaths,2024,HFM
+Roi Et,0,Nov,Deaths,2024,HFM
+ZONE:08,0,Nov,Deaths,2024,HFM
+Bungkan,0,Nov,Deaths,2024,HFM
+Loei,0,Nov,Deaths,2024,HFM
+Nakhon Phanom,0,Nov,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Nov,Deaths,2024,HFM
+Nong Khai,0,Nov,Deaths,2024,HFM
+Sakon Nakhon,0,Nov,Deaths,2024,HFM
+Udon Thani,0,Nov,Deaths,2024,HFM
+ZONE:09,0,Nov,Deaths,2024,HFM
+Buri Ram,0,Nov,Deaths,2024,HFM
+Chaiyaphum,0,Nov,Deaths,2024,HFM
+Nakhon Ratchasima,0,Nov,Deaths,2024,HFM
+Surin,0,Nov,Deaths,2024,HFM
+ZONE:10,0,Nov,Deaths,2024,HFM
+Amnat Charoen,0,Nov,Deaths,2024,HFM
+Mukdahan,0,Nov,Deaths,2024,HFM
+Si Sa Ket,0,Nov,Deaths,2024,HFM
+Ubon Ratchathani,0,Nov,Deaths,2024,HFM
+Yasothon,0,Nov,Deaths,2024,HFM
+ZONE:11,0,Nov,Deaths,2024,HFM
+Chumphon,0,Nov,Deaths,2024,HFM
+Krabi,0,Nov,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Nov,Deaths,2024,HFM
+Phangnga,0,Nov,Deaths,2024,HFM
+Phuket,0,Nov,Deaths,2024,HFM
+Ranong,0,Nov,Deaths,2024,HFM
+Surat Thani,0,Nov,Deaths,2024,HFM
+ZONE:12,0,Nov,Deaths,2024,HFM
+Narathiwat,0,Nov,Deaths,2024,HFM
+Pattani,0,Nov,Deaths,2024,HFM
+Phatthalung,0,Nov,Deaths,2024,HFM
+Satun,0,Nov,Deaths,2024,HFM
+Songkhla,0,Nov,Deaths,2024,HFM
+Trang,0,Nov,Deaths,2024,HFM
+Yala,0,Nov,Deaths,2024,HFM
+ZONE:13,0,Nov,Deaths,2024,HFM
+Bangkok,0,Nov,Deaths,2024,HFM
+Total,0,Dec,Cases,2024,HFM
+ZONE:01,0,Dec,Cases,2024,HFM
+Chiang Mai,0,Dec,Cases,2024,HFM
+Chiang Rai,0,Dec,Cases,2024,HFM
+Lampang,0,Dec,Cases,2024,HFM
+Lamphun,0,Dec,Cases,2024,HFM
+Mae Hong Son,0,Dec,Cases,2024,HFM
+Nan,0,Dec,Cases,2024,HFM
+Phayao,0,Dec,Cases,2024,HFM
+Phrae,0,Dec,Cases,2024,HFM
+ZONE:02,0,Dec,Cases,2024,HFM
+Phetchabun,0,Dec,Cases,2024,HFM
+Phitsanulok,0,Dec,Cases,2024,HFM
+Sukhothai,0,Dec,Cases,2024,HFM
+Tak,0,Dec,Cases,2024,HFM
+Uttaradit,0,Dec,Cases,2024,HFM
+ZONE:03,0,Dec,Cases,2024,HFM
+Chai Nat,0,Dec,Cases,2024,HFM
+Kamphaeng Phet,0,Dec,Cases,2024,HFM
+Nakhon Sawan,0,Dec,Cases,2024,HFM
+Phichit,0,Dec,Cases,2024,HFM
+Uthai Thani,0,Dec,Cases,2024,HFM
+ZONE:04,0,Dec,Cases,2024,HFM
+Ang Thong,0,Dec,Cases,2024,HFM
+Lop Buri,0,Dec,Cases,2024,HFM
+Nakhon Nayok,0,Dec,Cases,2024,HFM
+Nonthaburi,0,Dec,Cases,2024,HFM
+P.Nakhon S.Ayutthaya,0,Dec,Cases,2024,HFM
+Pathum Thani,0,Dec,Cases,2024,HFM
+Saraburi,0,Dec,Cases,2024,HFM
+Sing Buri,0,Dec,Cases,2024,HFM
+ZONE:05,0,Dec,Cases,2024,HFM
+Kanchanaburi,0,Dec,Cases,2024,HFM
+Nakhon Pathom,0,Dec,Cases,2024,HFM
+Phetchaburi,0,Dec,Cases,2024,HFM
+Prachuap Khiri Khan,0,Dec,Cases,2024,HFM
+Ratchaburi,0,Dec,Cases,2024,HFM
+Samut Sakhon,0,Dec,Cases,2024,HFM
+Samut Songkhram,0,Dec,Cases,2024,HFM
+Suphan Buri,0,Dec,Cases,2024,HFM
+ZONE:06,0,Dec,Cases,2024,HFM
+Chachoengsao,0,Dec,Cases,2024,HFM
+Chanthaburi,0,Dec,Cases,2024,HFM
+Chon Buri,0,Dec,Cases,2024,HFM
+Prachin Buri,0,Dec,Cases,2024,HFM
+Rayong,0,Dec,Cases,2024,HFM
+Sa Kaeo,0,Dec,Cases,2024,HFM
+Samut Prakan,0,Dec,Cases,2024,HFM
+Trat,0,Dec,Cases,2024,HFM
+ZONE:07,0,Dec,Cases,2024,HFM
+Kalasin,0,Dec,Cases,2024,HFM
+Khon Kaen,0,Dec,Cases,2024,HFM
+Maha Sarakham,0,Dec,Cases,2024,HFM
+Roi Et,0,Dec,Cases,2024,HFM
+ZONE:08,0,Dec,Cases,2024,HFM
+Bungkan,0,Dec,Cases,2024,HFM
+Loei,0,Dec,Cases,2024,HFM
+Nakhon Phanom,0,Dec,Cases,2024,HFM
+Nong Bua Lam Phu,0,Dec,Cases,2024,HFM
+Nong Khai,0,Dec,Cases,2024,HFM
+Sakon Nakhon,0,Dec,Cases,2024,HFM
+Udon Thani,0,Dec,Cases,2024,HFM
+ZONE:09,0,Dec,Cases,2024,HFM
+Buri Ram,0,Dec,Cases,2024,HFM
+Chaiyaphum,0,Dec,Cases,2024,HFM
+Nakhon Ratchasima,0,Dec,Cases,2024,HFM
+Surin,0,Dec,Cases,2024,HFM
+ZONE:10,0,Dec,Cases,2024,HFM
+Amnat Charoen,0,Dec,Cases,2024,HFM
+Mukdahan,0,Dec,Cases,2024,HFM
+Si Sa Ket,0,Dec,Cases,2024,HFM
+Ubon Ratchathani,0,Dec,Cases,2024,HFM
+Yasothon,0,Dec,Cases,2024,HFM
+ZONE:11,0,Dec,Cases,2024,HFM
+Chumphon,0,Dec,Cases,2024,HFM
+Krabi,0,Dec,Cases,2024,HFM
+Nakhon Si Thammarat,0,Dec,Cases,2024,HFM
+Phangnga,0,Dec,Cases,2024,HFM
+Phuket,0,Dec,Cases,2024,HFM
+Ranong,0,Dec,Cases,2024,HFM
+Surat Thani,0,Dec,Cases,2024,HFM
+ZONE:12,0,Dec,Cases,2024,HFM
+Narathiwat,0,Dec,Cases,2024,HFM
+Pattani,0,Dec,Cases,2024,HFM
+Phatthalung,0,Dec,Cases,2024,HFM
+Satun,0,Dec,Cases,2024,HFM
+Songkhla,0,Dec,Cases,2024,HFM
+Trang,0,Dec,Cases,2024,HFM
+Yala,0,Dec,Cases,2024,HFM
+ZONE:13,0,Dec,Cases,2024,HFM
+Bangkok,0,Dec,Cases,2024,HFM
+Total,0,Dec,Deaths,2024,HFM
+ZONE:01,0,Dec,Deaths,2024,HFM
+Chiang Mai,0,Dec,Deaths,2024,HFM
+Chiang Rai,0,Dec,Deaths,2024,HFM
+Lampang,0,Dec,Deaths,2024,HFM
+Lamphun,0,Dec,Deaths,2024,HFM
+Mae Hong Son,0,Dec,Deaths,2024,HFM
+Nan,0,Dec,Deaths,2024,HFM
+Phayao,0,Dec,Deaths,2024,HFM
+Phrae,0,Dec,Deaths,2024,HFM
+ZONE:02,0,Dec,Deaths,2024,HFM
+Phetchabun,0,Dec,Deaths,2024,HFM
+Phitsanulok,0,Dec,Deaths,2024,HFM
+Sukhothai,0,Dec,Deaths,2024,HFM
+Tak,0,Dec,Deaths,2024,HFM
+Uttaradit,0,Dec,Deaths,2024,HFM
+ZONE:03,0,Dec,Deaths,2024,HFM
+Chai Nat,0,Dec,Deaths,2024,HFM
+Kamphaeng Phet,0,Dec,Deaths,2024,HFM
+Nakhon Sawan,0,Dec,Deaths,2024,HFM
+Phichit,0,Dec,Deaths,2024,HFM
+Uthai Thani,0,Dec,Deaths,2024,HFM
+ZONE:04,0,Dec,Deaths,2024,HFM
+Ang Thong,0,Dec,Deaths,2024,HFM
+Lop Buri,0,Dec,Deaths,2024,HFM
+Nakhon Nayok,0,Dec,Deaths,2024,HFM
+Nonthaburi,0,Dec,Deaths,2024,HFM
+P.Nakhon S.Ayutthaya,0,Dec,Deaths,2024,HFM
+Pathum Thani,0,Dec,Deaths,2024,HFM
+Saraburi,0,Dec,Deaths,2024,HFM
+Sing Buri,0,Dec,Deaths,2024,HFM
+ZONE:05,0,Dec,Deaths,2024,HFM
+Kanchanaburi,0,Dec,Deaths,2024,HFM
+Nakhon Pathom,0,Dec,Deaths,2024,HFM
+Phetchaburi,0,Dec,Deaths,2024,HFM
+Prachuap Khiri Khan,0,Dec,Deaths,2024,HFM
+Ratchaburi,0,Dec,Deaths,2024,HFM
+Samut Sakhon,0,Dec,Deaths,2024,HFM
+Samut Songkhram,0,Dec,Deaths,2024,HFM
+Suphan Buri,0,Dec,Deaths,2024,HFM
+ZONE:06,0,Dec,Deaths,2024,HFM
+Chachoengsao,0,Dec,Deaths,2024,HFM
+Chanthaburi,0,Dec,Deaths,2024,HFM
+Chon Buri,0,Dec,Deaths,2024,HFM
+Prachin Buri,0,Dec,Deaths,2024,HFM
+Rayong,0,Dec,Deaths,2024,HFM
+Sa Kaeo,0,Dec,Deaths,2024,HFM
+Samut Prakan,0,Dec,Deaths,2024,HFM
+Trat,0,Dec,Deaths,2024,HFM
+ZONE:07,0,Dec,Deaths,2024,HFM
+Kalasin,0,Dec,Deaths,2024,HFM
+Khon Kaen,0,Dec,Deaths,2024,HFM
+Maha Sarakham,0,Dec,Deaths,2024,HFM
+Roi Et,0,Dec,Deaths,2024,HFM
+ZONE:08,0,Dec,Deaths,2024,HFM
+Bungkan,0,Dec,Deaths,2024,HFM
+Loei,0,Dec,Deaths,2024,HFM
+Nakhon Phanom,0,Dec,Deaths,2024,HFM
+Nong Bua Lam Phu,0,Dec,Deaths,2024,HFM
+Nong Khai,0,Dec,Deaths,2024,HFM
+Sakon Nakhon,0,Dec,Deaths,2024,HFM
+Udon Thani,0,Dec,Deaths,2024,HFM
+ZONE:09,0,Dec,Deaths,2024,HFM
+Buri Ram,0,Dec,Deaths,2024,HFM
+Chaiyaphum,0,Dec,Deaths,2024,HFM
+Nakhon Ratchasima,0,Dec,Deaths,2024,HFM
+Surin,0,Dec,Deaths,2024,HFM
+ZONE:10,0,Dec,Deaths,2024,HFM
+Amnat Charoen,0,Dec,Deaths,2024,HFM
+Mukdahan,0,Dec,Deaths,2024,HFM
+Si Sa Ket,0,Dec,Deaths,2024,HFM
+Ubon Ratchathani,0,Dec,Deaths,2024,HFM
+Yasothon,0,Dec,Deaths,2024,HFM
+ZONE:11,0,Dec,Deaths,2024,HFM
+Chumphon,0,Dec,Deaths,2024,HFM
+Krabi,0,Dec,Deaths,2024,HFM
+Nakhon Si Thammarat,0,Dec,Deaths,2024,HFM
+Phangnga,0,Dec,Deaths,2024,HFM
+Phuket,0,Dec,Deaths,2024,HFM
+Ranong,0,Dec,Deaths,2024,HFM
+Surat Thani,0,Dec,Deaths,2024,HFM
+ZONE:12,0,Dec,Deaths,2024,HFM
+Narathiwat,0,Dec,Deaths,2024,HFM
+Pattani,0,Dec,Deaths,2024,HFM
+Phatthalung,0,Dec,Deaths,2024,HFM
+Satun,0,Dec,Deaths,2024,HFM
+Songkhla,0,Dec,Deaths,2024,HFM
+Trang,0,Dec,Deaths,2024,HFM
+Yala,0,Dec,Deaths,2024,HFM
+ZONE:13,0,Dec,Deaths,2024,HFM
+Bangkok,0,Dec,Deaths,2024,HFM
 Total,4646,Total,Cases,2005,HFM
 North Region,1610,Total,Cases,2005,HFM
 Zone: 1,1087,Total,Cases,2005,HFM
