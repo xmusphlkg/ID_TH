@@ -15,7 +15,7 @@ def read_rtf(file_path):
     text = rtf_to_text(rtf_content)
 
     # get name of disease from file name
-    disease = file_path.split('/')[-1].split('_')[1].split('.')[0]
+    disease = file_path.split('/')[-2]
 
     return text, disease
 
