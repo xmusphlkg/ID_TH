@@ -102,19 +102,32 @@ def fill_name(col_names):
         cleaned_names[total_index + 1] = '0'
 
     return cleaned_names
+
+def likely_table(row):
+    numeric_count = sum(x.replace('.', '', 1).isdigit() for x in row if x)
+    
+    return numeric_count < len(row) / 2
     
 def text_to_dataframe(data, year, disease):
     
     data = [[re.sub('ปี', '', x) for x in row] for row in data]
+
     # convert to dataframe
     data = pd.DataFrame(data[1:], columns=data[0])
     data = data.loc[:, data.apply(lambda col: not all(x == "" for x in col))]
     data.columns = fill_name(data.columns)
 
+    # remove rows which likely contain header
+    data = data[~data.apply(likely_table, axis=1)]
+
     # convert to longer format
     data = data.melt(id_vars=['Areas'], var_name='Age', value_name='Cases')
     data['Year'] = year
     data['Disease'] = disease
+
+    # remove spaces in Cases column and convert to integer
+    data['Cases'] = data['Cases'].str.replace(',', '')
+    data['Cases'] = data['Cases'].astype(int)
 
     return data
 
