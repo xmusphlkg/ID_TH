@@ -6,221 +6,235 @@ library(ggsci)
 library(paletteer)
 library(patchwork)
 
+# System setting
+Sys.setlocale(locale = "EN")
+
 # data --------------------------------------------------------------------
 
-source("./script/theme_set.R")
+# loading function
+source("./theme_set.R")
 
-datafile_analysis <- read.xlsx("./data/nation_and_provinces.xlsx",
-                               detectDates = T,
-                               sheet = "Nation")
-datafile_analysis$date <- as.Date(datafile_analysis$date)
-datafile_class <-
-     read.xlsx("./data/nation_and_provinces.xlsx", sheet = "Class")
+# list files in the folder: month case and death data
+list_disease_files <- list.files("../Data/CleanData/",
+                                  pattern = "mcd.csv",
+                                  full.names = T)
+data_month <- lapply(list_disease_files, read.csv) |>
+     bind_rows()
 
-# bubble plot -------------------------------------------------------------
+rm(list_disease_files)
 
-datafile_plot <- datafile_analysis |>
-     filter(disease_en %in% datafile_class$diseasename) |>
-     select(date, disease_en, value) |>
-     rename(c(disease = "disease_en")) |>
-     mutate(
-          disease = factor(
-               disease,
-               levels = datafile_class$diseasename,
-               labels = datafile_class$diseasename
-          ),
-          phase = case_when(
-               date < split_dates[1] ~ split_periods[1],
-               date >= split_dates[1] &
-                    date < split_dates[2] ~ split_periods[2],
-               date >= split_dates[2] &
-                    date < split_dates[3] ~ split_periods[3],
-               date >= split_dates[3] &
-                    date < split_dates[4] ~ split_periods[4],
-               date >= split_dates[4] ~ split_periods[5]
-          ),
-          phase = factor(phase, levels = split_periods),
-          value = as.integer(value)
-     ) |>
-     left_join(datafile_class, by = c("disease" = "diseasename")) |>
-     mutate(class = factor(class, levels = disease_groups))
+data_select <- data_month |>
+     filter(Year >= 2007) |>
+     filter(Areas == 'Total' & Month == 'Total') |>
+     group_by(Disease) |>
+     summarise(Cases = sum(Count),
+               Count = n(),
+               .groups = 'drop')
 
-# data check --------------------------------------------------------------
+# write.csv(data_select, file = "../Data/DiseaseClass1.csv",
+#           row.names = F)
 
-table(datafile_plot$disease)
+data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+     filter(Including == 1) |> 
+     select(-c(Cases, Count, Including, Label))
 
-date_range <- seq.Date(min(datafile_analysis$date),
-                       max(datafile_analysis$date),
-                       by = "month")
-for (d in datafile_class$diseasename) {
-     data <- datafile_plot |>
-          filter(disease == d)
-     if (all(date_range %in% data$date)) {
-          
-     } else {
-          print(d)
-     }
-}
-
-data_fig_A <- datafile_plot |>
-     group_by(disease, class, level) |>
-     summarise(value = sum(value),
-               .groups = "drop") |>
-     arrange(class, desc(value)) |>
-     mutate(label = formatC(
-          value,
-          format = "f",
-          big.mark = ",",
-          digits = 0
-     ))
+data_analysis <- data_month |>
+     left_join(data_class, by = 'Disease') |>
+     filter(Areas == 'Total' & Month != 'Total' & 
+                 !is.na(Shortname) & Year >= 2007 & Type == 'Cases') |> 
+     # transform the Month: Jan -> 01
+     mutate(Month = month(parse_date_time(Month, "b"), label = FALSE, abbr = FALSE),
+            Date = as.Date(paste(Year, Month, "01", sep = "-"))) |> 
+     rename(Cases = Count) |> 
+     filter(Date < as.Date("2024-07-01")) |> 
+     ungroup() |> 
+     arrange(Date, Disease)
 
 # summary of NID ----------------------------------------------------------
 
-## disease list
-print("The disease list:")
-print(table(datafile_plot$disease))
-
-## total
-print("The total number:")
-print(sum(datafile_plot$value))
-
-## disease number
-print("The disease number:")
-print(aggregate(value ~ disease, data = datafile_plot, sum))
-
 ## each group
-datafile_plot |>
-     group_by(class, disease) |>
-     summarise(count = sum(value),
+data_analysis |>
+     group_by(Group, Shortname) |>
+     summarise(Cases = sum(Cases),
+               DateRange = paste(strftime(min(Date), "%Y/%m"),
+                                 strftime(max(Date), "%Y/%m"),
+                                 sep = " ~ "),
                .groups = "drop") |>
-     mutate(percent = round(count / sum(count), 4)) |>
-     arrange(desc(count)) |>
+     group_by(Group) |>
+     mutate(Percent = percent(round(Cases / sum(Cases), 4)),
+            .before = DateRange) |>
+     arrange(Group, desc(Cases)) |>
      print(n = Inf)
 
-datafile_plot |>
-     group_by(class) |>
-     summarise(count = sum(value),
+# panel A -----------------------------------------------------------------
+
+names(fill_color) <- sort(unique(data_analysis$Group))
+
+fig1_data <- data_analysis |>
+     select(Year, Disease = Shortname, Group, Cases) |>
+     group_by(Group, Disease) |>
+     summarise(Cases = sum(Cases),
+               .groups = 'drop') |> 
+     arrange(desc(Group), desc(Cases))
+
+fig1_1 <- ggplot(data = fig1_data)+
+     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
+              show.legend = F) +
+     scale_fill_manual(values = fill_color) +
+     scale_x_discrete(expand = c(0, 0),
+                      limits = rev(fig1_data$Disease)) +
+     scale_y_continuous(expand = c(0, 0),
+                        breaks = c(1e5, 2e5, 3e5),
+                        label = scientific_10)+
+     coord_cartesian(ylim = c(0, 3e5))+
+     theme_plot() +
+     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
+     labs(y = "Cumulative cases",
+          x = NULL,
+          fill = NULL,
+          title = NULL)
+
+fig1_2 <- ggplot(data = fig1_data)+
+     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
+              show.legend = F) +
+     scale_fill_manual(values = fill_color) +
+     scale_x_discrete(expand = c(0, 0),
+                      limits = rev(fig1_data$Disease)) +
+     scale_y_continuous(expand = c(0, 0),
+                        breaks = c(7e5, 2e6, 3e6, 4e6),
+                        label = scientific_10)+
+     coord_cartesian(ylim = c(7e5, 4e6))+
+     theme_plot() +
+     theme(axis.text.x = element_blank(),
+           axis.ticks.x = element_blank()) +
+     labs(y = "",
+          x = NULL,
+          fill = NULL,
+          title = NULL)
+
+# panel B --------------------------------------------------------------
+
+fig2_data <- read.csv('../Data/WHO-COVID-19-global-data.csv') |> 
+     filter(Country == 'Thailand') |> 
+     select(Date_reported, New_cases) |> 
+     mutate(Date_reported = as.Date(Date_reported))
+
+data_rect <- data.frame(start = c(min(fig2_data$Date_reported, na.rm = T), split_dates),
+                        end = c(split_dates, max(data_analysis$Date)),
+                        label = split_periods) |>
+     mutate(med = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01")) 
+
+fig2 <- ggplot(data = fig2_data) +
+     geom_rect(data = data_rect,
+               aes(xmin = start, xmax = end, fill = label),
+               ymin = -Inf, ymax = Inf, alpha = 0.2,
+               show.legend = F) +
+     geom_line(mapping = aes(x = Date_reported, y = New_cases)) +
+     scale_fill_manual(values = back_color) +
+     scale_y_continuous(expand = c(0, 0),
+                        limits = c(0, 2e5),
+                        label = scientific_10) +
+     scale_x_date(expand = expansion(add = c(0, 15)),
+                  date_breaks = "1 years",
+                  date_labels = "%Y") +
+     theme_plot() +
+     labs(x = NULL,
+          y = "Weekly incidence",
+          title = "B")
+
+# panel C ---------------------------------------------------------
+
+data_rect <- data.frame(start = c(min(data_analysis$Date), split_dates),
+                        end = c(split_dates, max(data_analysis$Date)),
+                        label = split_periods) |>
+     mutate(med = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01")) 
+
+fig3_data <- data_analysis |>
+     group_by(Date, Group) |>
+     summarise(Cases = sum(Cases),
                .groups = "drop") |>
-     mutate(percent = round(count / sum(count), 4)) |>
-     arrange(desc(count))
+     group_by(Date) |>
+     mutate(Percent = Cases / sum(Cases),
+            .before = Cases)
 
-## natural focal disease in 2014.9-10
-datafile_plot |>
-     filter(class == "Zoonotic infectious diseases" &
-                 date %in% as.Date(c(
-                      "2014-08-01", "2014-09-01", "2014-10-01", "2014-11-01"
-                 ))) |>
-     ggplot() +
-     geom_line(mapping = aes(x = date,
-                             y = value,
-                             color = disease))
-datafile_plot |>
-     filter(disease == "Dengue fever" &
-                 date <= as.Date("2014-12-01") &
-                 date >= as.Date("2013-01-01")) |>
-     ggplot() +
-     geom_line(mapping = aes(x = date,
-                             y = value,
-                             color = disease))
+fig3 <- ggplot(data = fig3_data) +
+     geom_rect(data = data_rect,
+               aes(xmin = start, xmax = end, fill = label),
+               ymin = -Inf, ymax = Inf, alpha = 0.2,
+               show.legend = F) +
+     geom_line(mapping = aes(x = Date,
+                             y = Cases,
+                             color = Group)) +
+     scale_color_manual(values = fill_color) +
+     scale_fill_manual(values = back_color) +
+     scale_y_continuous(expand = c(0, 0),
+                        trans = "log10",
+                        label = scientific_10,
+                        limits = c(1e2, 2e5),
+                        breaks = c(1e2, 1e3, 1e4, 1e5, 2e5)) +
+     scale_x_date(expand = expansion(add = c(0, 15)),
+                  date_breaks = "1 years",
+                  date_labels = "%Y") +
+     theme_plot() +
+     theme(legend.position = "none") +
+     labs(x = NULL,
+          y = "Monthly incidence",
+          color = NULL,
+          title = "C")
 
-# background rect ---------------------------------------------------------
+# panel D -----------------------------------------------------------------
 
-datafile_rect <-
-     data.frame(
-          start = c(min(datafile_plot$date), split_dates),
-          end = c(split_dates, max(datafile_plot$date)),
-          label = split_periods
-     ) |>
-     mutate(m = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01"))
+fig4_data <- fig3_data |> 
+     group_by(Date) |> 
+     mutate(Percent = Cases / sum(Cases)) |> 
+     ungroup() |> 
+     mutate(Group = factor(Group, levels = unique(fig3_data$Group)))
 
-# lineplot ----------------------------------------------------------------
-
-datafile_plot <- datafile_plot |>
-     group_by(phase, date, class) |>
-     summarise(value = sum(value),
-               .groups = "drop") |>
-     group_by(date) |>
-     mutate(percent = value / sum(value))
-
-fig2 <- ggplot(data = datafile_plot) +
-     geom_col(mapping = aes(x = date,
-                            y = value,
-                            fill = class),
+fig4 <- ggplot(data = fig3_data) +
+     geom_col(mapping = aes(x = Date, y = Cases, fill = Group),
               position = "fill") +
      scale_fill_manual(values = fill_color) +
      scale_y_continuous(expand = c(0, 0),
                         labels = scales::percent) +
-     scale_x_date(
-          expand = expansion(add = c(15, 15)),
-          date_breaks = "1 years",
-          date_labels = "%Y"
-     ) +
+     scale_x_date(expand = expansion(add = c(15, 15)),
+                  date_breaks = "1 years",
+                  date_labels = "%Y") +
      theme_plot() +
      theme(legend.position = "bottom") +
      labs(x = "Date",
           y = "Percentage of categories",
-          title = "C",
+          title = "D",
           fill = NULL)
 
-fig1 <- ggplot(data = datafile_plot) +
-     geom_rect(
-          data = datafile_rect,
-          aes(xmin = start,
-              xmax = end,
-              fill = label),
-          ymin = -Inf,
-          ymax = Inf,
-          alpha = 0.2,
-          show.legend = F
-     ) +
-     geom_text(
-          data = datafile_rect,
-          aes(x = m,
-              y = 1e6,
-              label = label),
-          vjust = 1,
-          hjust = 0.5,
-          show.legend = F
-     ) +
-     geom_line(mapping = aes(x = date,
-                             y = value,
-                             color = class)) +
-     scale_color_manual(values = fill_color) +
-     scale_fill_manual(values = back_color) +
-     scale_y_continuous(
-          expand = c(0, 0),
-          trans = "log10",
-          label = scientific_10,
-          limits = c(1e3, 1e6),
-          breaks = c(1e3, 1e4, 1e5, 1e6)
-     ) +
-     scale_x_date(
-          expand = expansion(add = c(15, 15)),
-          date_breaks = "1 years",
-          date_labels = "%Y"
-     ) +
-     theme_plot() +
-     theme(legend.position = "none") +
-     labs(
-          x = NULL,
-          y = "Monthly incidence",
-          color = NULL,
-          title = "B"
-     )
+# save plot ---------------------------------------------------------------
+
+design <- "
+AC
+BC
+DD
+EE
+"
+
+fig <- fig1_1 + fig1_2+ fig2 + fig3 + fig4 + 
+     plot_layout(design = design, widths = c(3, 1.15), heights = c(1, 1, 3.5, 3.5))
 
 ggsave(
-     filename = "./outcome/publish/fig1_2.pdf",
-     fig1 + fig2 + plot_layout(ncol = 1),
+     filename = "../Outcome/Publish/fig1.pdf",
+     fig,
      width = 14,
-     height = 8,
+     height = 12,
      device = cairo_pdf,
      family = "Times New Roman"
 )
 
 # figure data
-data_fig <- list("panel A" = data_fig_A,
-                 "panel B" = datafile_plot[, 1:4],
-                 "panel C" = datafile_plot[, c(1:3, 5)])
+data_fig <- list("panel A" = fig1_data,
+                 "panel B" = fig2_data,
+                 "panel C" = fig3_data,
+                 "panel D" = fig4_data)
 
 write.xlsx(data_fig,
-           file = "./outcome/appendix/Figure Data/Fig.1 data.xlsx")
+           file = "../Outcome/Appendix/figure_data/fig1.xlsx")
+
+
+

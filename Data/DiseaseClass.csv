@@ -1,0 +1,68 @@
+Disease,Cases,Count,Fullname,Shortname,Group,Including,Label
+Anthrax,0,36,Anthrax,Anthrax,Vector-borne and zoonotic ID,0,Insufficient cases
+Avian Influenza,0,10,Avian influenza,AIV,Respiratory ID,0,Insufficient cases
+Botulism,28,24,Botulism,Botulism,Gastrointestinal ID,0,Insufficient cases
+Brucellosis,112,22,Brucellosis,Brucellosis,Vector-borne and zoonotic ID,0,Insufficient cases
+Chancroid,15172,36,Chancroid,Chancroid,Sexually ID,1,
+Chickenpox,906194,36,Chickenpox,Chickenpox,Vaccine preventable ID,1,
+Chikungunya,88492,34,Chikungunya,Chikungunya,Vector-borne and zoonotic ID,1,
+Cholera,3714,36,Cholera,Cholera,Gastrointestinal ID,1,
+Condyloma Acuminata,52445,36,Condyloma acuminata,CA,Sexually ID,1,
+D.H.F,601450,36,Dengue hemorrhagic fever,DHF,Vector-borne and zoonotic ID,0,Duplication
+D.H.F.shock syndrome,20779,36,Dengue shock syndrome,DSS,Vector-borne and zoonotic ID,0,Duplication
+Dengue fever,865097,36,Dengue fever,Dengue fever,Vector-borne and zoonotic ID,1,
+Diphtheria,406,36,Diphtheria,Diphtheria,Vaccine preventable ID,0,Insufficient cases
+"Dysentery,Amoebic",42040,36,Amoebic dysentery,Amebiasis,Gastrointestinal ID,1,
+"Dysentery,Bacillary",40682,36,Bacillary dysentery,Shigellosis,Gastrointestinal ID,1,
+Encephalitis uns,11980,36,Unspecifed encephalitis,Other encephalitis,,0,Unspecifed disease
+Enterovirus Fever,866,12,Enterovirus,Enterovirus,Gastrointestinal ID,0,Insufficient cases
+Eosinophilic Meningitis,2602,36,Eosinophilic meningitis,EM,Vector-borne and zoonotic ID,1,
+Filariasis,227,36,Filariasis,Filariasis,Vector-borne and zoonotic ID,0,Insufficient cases
+Food_Poisoning,1917661,36,Food poisoning,Food poisoning,Gastrointestinal ID,1,
+Genital Herpes Simplex,33028,36,Genital herpes simplex,Genital herpes,Sexually ID,1,
+Genital Molluscum Contagiosum,774,12,Genital molluscum contagiosum,MC,Sexually ID,0,Insufficient cases
+Gonorrhoea,143184,36,Gonorrhoea,Gonorrhoea,Sexually ID,1,
+HFM,796112,36,"Hand, food and month disease",HFMD,Gastrointestinal ID,1,
+HepatitisA,8610,36,Hepatitis A,HAV,Gastrointestinal ID,1,
+HepatitisB,113802,36,Hepatitis B,HBV,Sexually ID,1,
+HepatitisC,13665,36,Hepatitis C,HCV,Sexually ID,1,
+HepatitisD,1484,36,Hepatitis D,HDV,Sexually ID,1,
+HepatitisE,786,36,Hepatitis E,HEV,Gastrointestinal ID,0,Insufficient cases
+Hepatitis_uns,31227,36,Unspecifed hepatitis,Unspecifed hepatitis,,0,Unspecifed disease
+Influenza,2465377,36,Influenza,Influenza,Respiratory ID,1,
+Japanese B encephalitis,54,14,Japanese encephalitis,JE,Vector-borne and zoonotic ID,0,Insufficient cases
+Kala azar,20,36,Kala azar,Leishmaniasis,Vector-borne and zoonotic ID,0,Insufficient cases
+L.G.V.&other&unsp.V.D,10550,36,Lymphogranuloma venereum and other venereal disease,LGV and other VD,Sexually ID,1,
+Leprosy,2554,36,Leprosy,Leprosy,Respiratory ID,1,
+Leptospirosis,58073,36,Leptospirosis,Leptospirosis,Vector-borne and zoonotic ID,1,
+Liver fluke,8136,36,Liver fluke,Liver fluke,Gastrointestinal ID,1,
+Malaria,202654,36,Malaria,Malaria,Vector-borne and zoonotic ID,1,
+Measles,48800,36,Measles,Measles,Vaccine preventable ID,1,
+Measles c Complication,2778,18,Measles c Complication,Measles complications,Vaccine preventable ID,0,Duplication
+Melioidosis,49458,36,Melioidosis,Melioidosis,Gastrointestinal ID,1,
+"Meningitis,uns",29594,36,Unspecifed meningitis,Other meningitis,,0,Unspecifed disease
+Meningococcal Meningitis,405,36,Meningococcal Meningitis,Meningococcal,Vaccine preventable ID,0,Insufficient cases
+Mumps,102335,36,Mumps,Mumps,Vaccine preventable ID,1,
+Mushroom poisoning,33001,36,Mushroom poisoning,Mushroom poisoning,Gastrointestinal ID,1,
+N.S.U._V,44549,36,Non-specific urethritis / viral,Non-specific urethritis,Sexually ID,1,
+Other STI,182861,30,Other sexually ID,Other sexually ID,Sexually ID,1,
+Paratyphoid,4790,36,Paratyphoid,Paratyphoid,Gastrointestinal ID,1,
+Pediculosis Pubis,24,12,Pediculosis pubis,Pediculosis,Sexually ID,0,Insufficient cases
+Pertussis,2089,36,Pertussis,Pertussis,Vaccine preventable ID,1,
+Pneumonia,3701492,36,Pneumonia,Pneumonia,Respiratory ID,1,
+Poliomyelitis,0,36,Poliomyelitis,Poliomyelitis,Vaccine preventable ID,0,Insufficient cases
+Pulmonary T.B,238099,36,Pulmonary tuberculosis,Pulmonary TB,Respiratory ID,1,
+Rabies,310,36,Rabies,Rabies,Vector-borne and zoonotic ID,0,Insufficient cases
+Rubella,5421,36,Rubella,Rubella,Vaccine preventable ID,1,
+Scarlet fever,21223,36,Scarlet fever,Scarlet fever,Respiratory ID,1,
+Scrub Typhus,124019,36,Scrub Typhus,Scrub Typhus,Vector-borne and zoonotic ID,1,
+Streptococcus suis,4748,24,Streptococcus suis,Streptococcus suis,Vector-borne and zoonotic ID,1,
+Syphilis,114486,36,Syphilis,Syphilis,Sexually ID,1,
+T.B. other organs,85995,36,Tuberculosis other organs,Other TB,Respiratory ID,1,
+T.B.meningitis,6710,36,Tuberculous meningitis,TBM,Respiratory ID,1,
+Tetanus exc.Neo,1441,36,Tetanus exc.Neo,Other tetanus,Vaccine preventable ID,1,
+Tetanus neonatorum,21,36,Tetanus neonatorum,Neonatal tetanus,Vaccine preventable ID,0,Insufficient cases
+Trichinosis,287,36,Trichinosis,Trichinosis,Vector-borne and zoonotic ID,0,Insufficient cases
+Typhoid,36253,36,Typhoid,Typhoid,Gastrointestinal ID,1,
+Vaginal trichomoniasis,2216,12,Vaginal trichomoniasis,Trichomoniasis,Sexually ID,0,Insufficient duration
+Zika virus,1731,12,Zika virus,Zika virus,Vector-borne and zoonotic ID,0,Insufficient duration

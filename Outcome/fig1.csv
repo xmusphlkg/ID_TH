@@ -1,0 +1,834 @@
+"Disease","Age","Cases"
+"Chancroid","0",4
+"Chancroid","1-1",25
+"Chancroid","10-14",286
+"Chancroid","15-24",5556
+"Chancroid","2-2",35
+"Chancroid","25-34",3682
+"Chancroid","3-3",24
+"Chancroid","35-44",2551
+"Chancroid","4-4",16
+"Chancroid","45-54",1865
+"Chancroid","5-5",11
+"Chancroid","55-64",1102
+"Chancroid","6-6",13
+"Chancroid","65+",806
+"Chancroid","7-9",29
+"Chancroid","<1",13
+"Chancroid","Unknown",18
+"Chickenpox","0",1550
+"Chickenpox","1-1",53555
+"Chickenpox","10-14",195807
+"Chickenpox","15-24",173945
+"Chickenpox","2-2",48872
+"Chickenpox","25-34",113031
+"Chickenpox","3-3",58117
+"Chickenpox","35-44",51727
+"Chickenpox","4-4",66313
+"Chickenpox","45-54",17902
+"Chickenpox","5-5",69497
+"Chickenpox","55-64",9386
+"Chickenpox","6-6",69459
+"Chickenpox","65+",9652
+"Chickenpox","7-9",178346
+"Chickenpox","<1",32457
+"Chickenpox","Unknown",730
+"Chikungunya","0",55
+"Chikungunya","1-1",511
+"Chikungunya","10-14",7616
+"Chikungunya","15-24",13580
+"Chikungunya","2-2",623
+"Chikungunya","25-34",16504
+"Chikungunya","3-3",642
+"Chikungunya","35-44",16597
+"Chikungunya","4-4",672
+"Chikungunya","45-54",13446
+"Chikungunya","5-5",706
+"Chikungunya","55-64",7922
+"Chikungunya","6-6",806
+"Chikungunya","65+",5133
+"Chikungunya","7-9",3285
+"Chikungunya","<1",367
+"Chikungunya","Unknown",26
+"Cholera","0",21
+"Cholera","1-1",234
+"Cholera","10-14",287
+"Cholera","15-24",1297
+"Cholera","2-2",163
+"Cholera","25-34",1378
+"Cholera","3-3",118
+"Cholera","35-44",975
+"Cholera","4-4",106
+"Cholera","45-54",751
+"Cholera","5-5",84
+"Cholera","55-64",533
+"Cholera","6-6",64
+"Cholera","65+",602
+"Cholera","7-9",178
+"Cholera","<1",223
+"Cholera","Unknown",111
+"Condyloma Acuminata","0",5
+"Condyloma Acuminata","1-1",104
+"Condyloma Acuminata","10-14",883
+"Condyloma Acuminata","15-24",24160
+"Condyloma Acuminata","2-2",184
+"Condyloma Acuminata","25-34",12965
+"Condyloma Acuminata","3-3",51
+"Condyloma Acuminata","35-44",7088
+"Condyloma Acuminata","4-4",34
+"Condyloma Acuminata","45-54",3938
+"Condyloma Acuminata","5-5",29
+"Condyloma Acuminata","55-64",1740
+"Condyloma Acuminata","6-6",36
+"Condyloma Acuminata","65+",1069
+"Condyloma Acuminata","7-9",125
+"Condyloma Acuminata","<1",23
+"Condyloma Acuminata","Unknown",11
+"D.H.F","0",86
+"D.H.F","1-1",7781
+"D.H.F","10-14",160933
+"D.H.F","15-24",202988
+"D.H.F","2-2",9507
+"D.H.F","25-34",99251
+"D.H.F","3-3",11253
+"D.H.F","35-44",58195
+"D.H.F","4-4",12714
+"D.H.F","45-54",30240
+"D.H.F","5-5",14683
+"D.H.F","55-64",16618
+"D.H.F","6-6",19126
+"D.H.F","65+",9824
+"D.H.F","7-9",71989
+"D.H.F","<1",6172
+"D.H.F","Unknown",593
+"D.H.F.shock syndrome","0",0
+"D.H.F.shock syndrome","1-1",154
+"D.H.F.shock syndrome","10-14",6670
+"D.H.F.shock syndrome","15-24",4974
+"D.H.F.shock syndrome","2-2",255
+"D.H.F.shock syndrome","25-34",2091
+"D.H.F.shock syndrome","3-3",404
+"D.H.F.shock syndrome","35-44",1154
+"D.H.F.shock syndrome","4-4",574
+"D.H.F.shock syndrome","45-54",738
+"D.H.F.shock syndrome","5-5",721
+"D.H.F.shock syndrome","55-64",495
+"D.H.F.shock syndrome","6-6",928
+"D.H.F.shock syndrome","65+",361
+"D.H.F.shock syndrome","7-9",3703
+"D.H.F.shock syndrome","<1",264
+"D.H.F.shock syndrome","Unknown",10
+"Dengue fever","0",91
+"Dengue fever","1-1",12638
+"Dengue fever","10-14",211607
+"Dengue fever","15-24",218157
+"Dengue fever","2-2",15296
+"Dengue fever","25-34",111008
+"Dengue fever","3-3",18417
+"Dengue fever","35-44",65560
+"Dengue fever","4-4",20493
+"Dengue fever","45-54",40401
+"Dengue fever","5-5",24540
+"Dengue fever","55-64",25329
+"Dengue fever","6-6",29516
+"Dengue fever","65+",16199
+"Dengue fever","7-9",108951
+"Dengue fever","<1",7200
+"Dengue fever","Unknown",428
+"Dysentery,Amoebic","0",94
+"Dysentery,Amoebic","1-1",3776
+"Dysentery,Amoebic","10-14",2305
+"Dysentery,Amoebic","15-24",4188
+"Dysentery,Amoebic","2-2",2202
+"Dysentery,Amoebic","25-34",4879
+"Dysentery,Amoebic","3-3",1592
+"Dysentery,Amoebic","35-44",5180
+"Dysentery,Amoebic","4-4",1200
+"Dysentery,Amoebic","45-54",5484
+"Dysentery,Amoebic","5-5",978
+"Dysentery,Amoebic","55-64",5136
+"Dysentery,Amoebic","6-6",876
+"Dysentery,Amoebic","65+",6141
+"Dysentery,Amoebic","7-9",2065
+"Dysentery,Amoebic","<1",4302
+"Dysentery,Amoebic","Unknown",25
+"Dysentery,Bacillary","0",50
+"Dysentery,Bacillary","1-1",5569
+"Dysentery,Bacillary","10-14",1955
+"Dysentery,Bacillary","15-24",3029
+"Dysentery,Bacillary","2-2",3099
+"Dysentery,Bacillary","25-34",3983
+"Dysentery,Bacillary","3-3",1865
+"Dysentery,Bacillary","35-44",5126
+"Dysentery,Bacillary","4-4",1270
+"Dysentery,Bacillary","45-54",4934
+"Dysentery,Bacillary","5-5",928
+"Dysentery,Bacillary","55-64",4176
+"Dysentery,Bacillary","6-6",713
+"Dysentery,Bacillary","65+",4721
+"Dysentery,Bacillary","7-9",1666
+"Dysentery,Bacillary","<1",5096
+"Dysentery,Bacillary","Unknown",43
+"Encephalitis uns","0",26
+"Encephalitis uns","1-1",227
+"Encephalitis uns","10-14",1016
+"Encephalitis uns","15-24",1312
+"Encephalitis uns","2-2",207
+"Encephalitis uns","25-34",1305
+"Encephalitis uns","3-3",162
+"Encephalitis uns","35-44",1442
+"Encephalitis uns","4-4",153
+"Encephalitis uns","45-54",1515
+"Encephalitis uns","5-5",194
+"Encephalitis uns","55-64",1432
+"Encephalitis uns","6-6",169
+"Encephalitis uns","65+",1870
+"Encephalitis uns","7-9",648
+"Encephalitis uns","<1",302
+"Encephalitis uns","Unknown",5
+"Eosinophilic Meningitis","0",0
+"Eosinophilic Meningitis","1-1",11
+"Eosinophilic Meningitis","10-14",133
+"Eosinophilic Meningitis","15-24",483
+"Eosinophilic Meningitis","2-2",4
+"Eosinophilic Meningitis","25-34",714
+"Eosinophilic Meningitis","3-3",2
+"Eosinophilic Meningitis","35-44",837
+"Eosinophilic Meningitis","4-4",8
+"Eosinophilic Meningitis","45-54",651
+"Eosinophilic Meningitis","5-5",3
+"Eosinophilic Meningitis","55-64",356
+"Eosinophilic Meningitis","6-6",5
+"Eosinophilic Meningitis","65+",193
+"Eosinophilic Meningitis","7-9",36
+"Eosinophilic Meningitis","<1",7
+"Eosinophilic Meningitis","Unknown",1
+"Food_Poisoning","0",1009
+"Food_Poisoning","1-1",86908
+"Food_Poisoning","10-14",178402
+"Food_Poisoning","15-24",292736
+"Food_Poisoning","2-2",71696
+"Food_Poisoning","25-34",282418
+"Food_Poisoning","3-3",59682
+"Food_Poisoning","35-44",280019
+"Food_Poisoning","4-4",51061
+"Food_Poisoning","45-54",281042
+"Food_Poisoning","5-5",47485
+"Food_Poisoning","55-64",235808
+"Food_Poisoning","6-6",46328
+"Food_Poisoning","65+",250625
+"Food_Poisoning","7-9",136011
+"Food_Poisoning","<1",46361
+"Food_Poisoning","Unknown",1235
+"Genital Herpes Simplex","0",7
+"Genital Herpes Simplex","1-1",135
+"Genital Herpes Simplex","10-14",680
+"Genital Herpes Simplex","15-24",6657
+"Genital Herpes Simplex","2-2",157
+"Genital Herpes Simplex","25-34",6814
+"Genital Herpes Simplex","3-3",87
+"Genital Herpes Simplex","35-44",5653
+"Genital Herpes Simplex","4-4",84
+"Genital Herpes Simplex","45-54",5215
+"Genital Herpes Simplex","5-5",92
+"Genital Herpes Simplex","55-64",3818
+"Genital Herpes Simplex","6-6",79
+"Genital Herpes Simplex","65+",3170
+"Genital Herpes Simplex","7-9",270
+"Genital Herpes Simplex","<1",72
+"Genital Herpes Simplex","Unknown",38
+"Gonorrhoea","0",106
+"Gonorrhoea","1-1",318
+"Gonorrhoea","10-14",3374
+"Gonorrhoea","15-24",83296
+"Gonorrhoea","2-2",453
+"Gonorrhoea","25-34",28727
+"Gonorrhoea","3-3",175
+"Gonorrhoea","35-44",13223
+"Gonorrhoea","4-4",150
+"Gonorrhoea","45-54",7402
+"Gonorrhoea","5-5",144
+"Gonorrhoea","55-64",3346
+"Gonorrhoea","6-6",139
+"Gonorrhoea","65+",1856
+"Gonorrhoea","7-9",301
+"Gonorrhoea","<1",126
+"Gonorrhoea","Unknown",48
+"HFM","0",320
+"HFM","1-1",206345
+"HFM","10-14",11047
+"HFM","15-24",2797
+"HFM","2-2",186948
+"HFM","25-34",1757
+"HFM","3-3",147981
+"HFM","35-44",1153
+"HFM","4-4",82618
+"HFM","45-54",590
+"HFM","5-5",45759
+"HFM","55-64",462
+"HFM","6-6",24304
+"HFM","65+",429
+"HFM","7-9",28736
+"HFM","<1",65055
+"HFM","Unknown",373
+"HepatitisA","0",8
+"HepatitisA","1-1",70
+"HepatitisA","10-14",1321
+"HepatitisA","15-24",2497
+"HepatitisA","2-2",79
+"HepatitisA","25-34",2293
+"HepatitisA","3-3",115
+"HepatitisA","35-44",1924
+"HepatitisA","4-4",115
+"HepatitisA","45-54",1405
+"HepatitisA","5-5",158
+"HepatitisA","55-64",903
+"HepatitisA","6-6",181
+"HepatitisA","65+",676
+"HepatitisA","7-9",595
+"HepatitisA","<1",47
+"HepatitisA","Unknown",3
+"HepatitisB","0",41
+"HepatitisB","1-1",161
+"HepatitisB","10-14",728
+"HepatitisB","15-24",14117
+"HepatitisB","2-2",87
+"HepatitisB","25-34",22714
+"HepatitisB","3-3",69
+"HepatitisB","35-44",28155
+"HepatitisB","4-4",81
+"HepatitisB","45-54",28087
+"HepatitisB","5-5",63
+"HepatitisB","55-64",19353
+"HepatitisB","6-6",105
+"HepatitisB","65+",10822
+"HepatitisB","7-9",248
+"HepatitisB","<1",216
+"HepatitisB","Unknown",98
+"HepatitisC","0",5
+"HepatitisC","1-1",42
+"HepatitisC","10-14",88
+"HepatitisC","15-24",508
+"HepatitisC","2-2",28
+"HepatitisC","25-34",1329
+"HepatitisC","3-3",30
+"HepatitisC","35-44",3172
+"HepatitisC","4-4",17
+"HepatitisC","45-54",4739
+"HepatitisC","5-5",22
+"HepatitisC","55-64",3354
+"HepatitisC","6-6",24
+"HepatitisC","65+",1999
+"HepatitisC","7-9",51
+"HepatitisC","<1",23
+"HepatitisC","Unknown",9
+"HepatitisD","0",3
+"HepatitisD","1-1",8
+"HepatitisD","10-14",18
+"HepatitisD","15-24",171
+"HepatitisD","2-2",2
+"HepatitisD","25-34",302
+"HepatitisD","3-3",3
+"HepatitisD","35-44",337
+"HepatitisD","4-4",3
+"HepatitisD","45-54",364
+"HepatitisD","5-5",2
+"HepatitisD","55-64",222
+"HepatitisD","6-6",1
+"HepatitisD","65+",116
+"HepatitisD","7-9",9
+"HepatitisD","<1",8
+"HepatitisD","Unknown",0
+"Influenza","0",947
+"Influenza","1-1",107920
+"Influenza","10-14",308195
+"Influenza","15-24",303440
+"Influenza","2-2",101334
+"Influenza","25-34",300697
+"Influenza","3-3",106449
+"Influenza","35-44",250687
+"Influenza","4-4",102745
+"Influenza","45-54",177935
+"Influenza","5-5",101193
+"Influenza","55-64",129432
+"Influenza","6-6",107174
+"Influenza","65+",116633
+"Influenza","7-9",270819
+"Influenza","<1",67462
+"Influenza","Unknown",1480
+"L.G.V.&other&unsp.V.D","0",8
+"L.G.V.&other&unsp.V.D","1-1",64
+"L.G.V.&other&unsp.V.D","10-14",332
+"L.G.V.&other&unsp.V.D","15-24",5273
+"L.G.V.&other&unsp.V.D","2-2",51
+"L.G.V.&other&unsp.V.D","25-34",6707
+"L.G.V.&other&unsp.V.D","3-3",35
+"L.G.V.&other&unsp.V.D","35-44",6991
+"L.G.V.&other&unsp.V.D","4-4",45
+"L.G.V.&other&unsp.V.D","45-54",4225
+"L.G.V.&other&unsp.V.D","5-5",43
+"L.G.V.&other&unsp.V.D","55-64",1251
+"L.G.V.&other&unsp.V.D","6-6",38
+"L.G.V.&other&unsp.V.D","65+",809
+"L.G.V.&other&unsp.V.D","7-9",124
+"L.G.V.&other&unsp.V.D","<1",54
+"L.G.V.&other&unsp.V.D","Unknown",143
+"Leprosy","0",0
+"Leprosy","1-1",7
+"Leprosy","10-14",100
+"Leprosy","15-24",350
+"Leprosy","2-2",2
+"Leprosy","25-34",529
+"Leprosy","3-3",10
+"Leprosy","35-44",747
+"Leprosy","4-4",9
+"Leprosy","45-54",831
+"Leprosy","5-5",6
+"Leprosy","55-64",792
+"Leprosy","6-6",8
+"Leprosy","65+",966
+"Leprosy","7-9",51
+"Leprosy","<1",9
+"Leprosy","Unknown",4
+"Leptospirosis","0",5
+"Leptospirosis","1-1",83
+"Leptospirosis","10-14",3172
+"Leptospirosis","15-24",8292
+"Leptospirosis","2-2",115
+"Leptospirosis","25-34",11666
+"Leptospirosis","3-3",136
+"Leptospirosis","35-44",15048
+"Leptospirosis","4-4",160
+"Leptospirosis","45-54",14458
+"Leptospirosis","5-5",232
+"Leptospirosis","55-64",10328
+"Leptospirosis","6-6",253
+"Leptospirosis","65+",6990
+"Leptospirosis","7-9",1132
+"Leptospirosis","<1",39
+"Leptospirosis","Unknown",157
+"Liver fluke","0",0
+"Liver fluke","1-1",59
+"Liver fluke","10-14",224
+"Liver fluke","15-24",310
+"Liver fluke","2-2",45
+"Liver fluke","25-34",700
+"Liver fluke","3-3",43
+"Liver fluke","35-44",1734
+"Liver fluke","4-4",35
+"Liver fluke","45-54",2775
+"Liver fluke","5-5",33
+"Liver fluke","55-64",2806
+"Liver fluke","6-6",42
+"Liver fluke","65+",1881
+"Liver fluke","7-9",104
+"Liver fluke","<1",23
+"Liver fluke","Unknown",2
+"Malaria","0",66
+"Malaria","1-1",3540
+"Malaria","10-14",35748
+"Malaria","15-24",65821
+"Malaria","2-2",4532
+"Malaria","25-34",55732
+"Malaria","3-3",4934
+"Malaria","35-44",45255
+"Malaria","4-4",5037
+"Malaria","45-54",29311
+"Malaria","5-5",5338
+"Malaria","55-64",13944
+"Malaria","6-6",5513
+"Malaria","65+",8746
+"Malaria","7-9",17675
+"Malaria","<1",1820
+"Malaria","Unknown",112
+"Measles","0",36
+"Measles","1-1",5151
+"Measles","10-14",6188
+"Measles","15-24",14072
+"Measles","2-2",2994
+"Measles","25-34",7455
+"Measles","3-3",2640
+"Measles","35-44",2585
+"Measles","4-4",2605
+"Measles","45-54",895
+"Measles","5-5",2498
+"Measles","55-64",365
+"Measles","6-6",2250
+"Measles","65+",203
+"Measles","7-9",4254
+"Measles","<1",9400
+"Measles","Unknown",19
+"Measles c Complication","0",4
+"Measles c Complication","1-1",864
+"Measles c Complication","10-14",538
+"Measles c Complication","15-24",728
+"Measles c Complication","2-2",465
+"Measles c Complication","25-34",462
+"Measles c Complication","3-3",423
+"Measles c Complication","35-44",294
+"Measles c Complication","4-4",346
+"Measles c Complication","45-54",196
+"Measles c Complication","5-5",325
+"Measles c Complication","55-64",116
+"Measles c Complication","6-6",301
+"Measles c Complication","65+",159
+"Measles c Complication","7-9",425
+"Measles c Complication","<1",1133
+"Measles c Complication","Unknown",5
+"Melioidosis","0",13
+"Melioidosis","1-1",277
+"Melioidosis","10-14",1114
+"Melioidosis","15-24",1557
+"Melioidosis","2-2",403
+"Melioidosis","25-34",2666
+"Melioidosis","3-3",393
+"Melioidosis","35-44",6721
+"Melioidosis","4-4",450
+"Melioidosis","45-54",11850
+"Melioidosis","5-5",443
+"Melioidosis","55-64",12143
+"Melioidosis","6-6",352
+"Melioidosis","65+",11017
+"Melioidosis","7-9",947
+"Melioidosis","<1",109
+"Melioidosis","Unknown",28
+"Meningitis,uns","0",355
+"Meningitis,uns","1-1",600
+"Meningitis,uns","10-14",1444
+"Meningitis,uns","15-24",3085
+"Meningitis,uns","2-2",312
+"Meningitis,uns","25-34",4674
+"Meningitis,uns","3-3",275
+"Meningitis,uns","35-44",5193
+"Meningitis,uns","4-4",246
+"Meningitis,uns","45-54",4590
+"Meningitis,uns","5-5",241
+"Meningitis,uns","55-64",3588
+"Meningitis,uns","6-6",258
+"Meningitis,uns","65+",5265
+"Meningitis,uns","7-9",735
+"Meningitis,uns","<1",2328
+"Meningitis,uns","Unknown",16
+"Mumps","0",41
+"Mumps","1-1",3466
+"Mumps","10-14",18365
+"Mumps","15-24",14116
+"Mumps","2-2",6664
+"Mumps","25-34",11985
+"Mumps","3-3",9746
+"Mumps","35-44",8243
+"Mumps","4-4",12841
+"Mumps","45-54",5220
+"Mumps","5-5",13735
+"Mumps","55-64",2950
+"Mumps","6-6",12576
+"Mumps","65+",1828
+"Mumps","7-9",18094
+"Mumps","<1",774
+"Mumps","Unknown",156
+"Mushroom poisoning","0",0
+"Mushroom poisoning","1-1",238
+"Mushroom poisoning","10-14",1523
+"Mushroom poisoning","15-24",3070
+"Mushroom poisoning","2-2",300
+"Mushroom poisoning","25-34",4319
+"Mushroom poisoning","3-3",242
+"Mushroom poisoning","35-44",6215
+"Mushroom poisoning","4-4",228
+"Mushroom poisoning","45-54",7630
+"Mushroom poisoning","5-5",256
+"Mushroom poisoning","55-64",6625
+"Mushroom poisoning","6-6",235
+"Mushroom poisoning","65+",6658
+"Mushroom poisoning","7-9",824
+"Mushroom poisoning","<1",48
+"Mushroom poisoning","Unknown",23
+"N.S.U._V","0",22
+"N.S.U._V","1-1",279
+"N.S.U._V","10-14",825
+"N.S.U._V","15-24",14565
+"N.S.U._V","2-2",510
+"N.S.U._V","25-34",13548
+"N.S.U._V","3-3",508
+"N.S.U._V","35-44",10459
+"N.S.U._V","4-4",499
+"N.S.U._V","45-54",6510
+"N.S.U._V","5-5",442
+"N.S.U._V","55-64",3709
+"N.S.U._V","6-6",428
+"N.S.U._V","65+",3536
+"N.S.U._V","7-9",772
+"N.S.U._V","<1",144
+"N.S.U._V","Unknown",50
+"Other STI","0",43
+"Other STI","1-1",328
+"Other STI","10-14",1239
+"Other STI","15-24",30435
+"Other STI","2-2",238
+"Other STI","25-34",39459
+"Other STI","3-3",179
+"Other STI","35-44",47657
+"Other STI","4-4",158
+"Other STI","45-54",40468
+"Other STI","5-5",153
+"Other STI","55-64",14282
+"Other STI","6-6",111
+"Other STI","65+",7186
+"Other STI","7-9",314
+"Other STI","<1",497
+"Other STI","Unknown",114
+"Paratyphoid","0",16
+"Paratyphoid","1-1",265
+"Paratyphoid","10-14",437
+"Paratyphoid","15-24",716
+"Paratyphoid","2-2",167
+"Paratyphoid","25-34",827
+"Paratyphoid","3-3",104
+"Paratyphoid","35-44",855
+"Paratyphoid","4-4",111
+"Paratyphoid","45-54",753
+"Paratyphoid","5-5",100
+"Paratyphoid","55-64",544
+"Paratyphoid","6-6",89
+"Paratyphoid","65+",576
+"Paratyphoid","7-9",300
+"Paratyphoid","<1",257
+"Paratyphoid","Unknown",7
+"Pertussis","0",28
+"Pertussis","1-1",287
+"Pertussis","10-14",124
+"Pertussis","15-24",71
+"Pertussis","2-2",159
+"Pertussis","25-34",82
+"Pertussis","3-3",116
+"Pertussis","35-44",65
+"Pertussis","4-4",89
+"Pertussis","45-54",51
+"Pertussis","5-5",73
+"Pertussis","55-64",33
+"Pertussis","6-6",57
+"Pertussis","65+",62
+"Pertussis","7-9",159
+"Pertussis","<1",759
+"Pertussis","Unknown",0
+"Pneumonia","0",26513
+"Pneumonia","1-1",434143
+"Pneumonia","10-14",75745
+"Pneumonia","15-24",94780
+"Pneumonia","2-2",306654
+"Pneumonia","25-34",138216
+"Pneumonia","3-3",216295
+"Pneumonia","35-44",196966
+"Pneumonia","4-4",124508
+"Pneumonia","45-54",292802
+"Pneumonia","5-5",76425
+"Pneumonia","55-64",426382
+"Pneumonia","6-6",52801
+"Pneumonia","65+",1246725
+"Pneumonia","7-9",95682
+"Pneumonia","<1",435039
+"Pneumonia","Unknown",3417
+"Pulmonary T.B","0",48
+"Pulmonary T.B","1-1",726
+"Pulmonary T.B","10-14",1677
+"Pulmonary T.B","15-24",23238
+"Pulmonary T.B","2-2",559
+"Pulmonary T.B","25-34",49162
+"Pulmonary T.B","3-3",478
+"Pulmonary T.B","35-44",58716
+"Pulmonary T.B","4-4",398
+"Pulmonary T.B","45-54",59367
+"Pulmonary T.B","5-5",331
+"Pulmonary T.B","55-64",52730
+"Pulmonary T.B","6-6",317
+"Pulmonary T.B","65+",74878
+"Pulmonary T.B","7-9",921
+"Pulmonary T.B","<1",502
+"Pulmonary T.B","Unknown",308
+"Rubella","0",22
+"Rubella","1-1",293
+"Rubella","10-14",746
+"Rubella","15-24",1956
+"Rubella","2-2",175
+"Rubella","25-34",1382
+"Rubella","3-3",158
+"Rubella","35-44",647
+"Rubella","4-4",148
+"Rubella","45-54",271
+"Rubella","5-5",154
+"Rubella","55-64",125
+"Rubella","6-6",157
+"Rubella","65+",81
+"Rubella","7-9",369
+"Rubella","<1",479
+"Rubella","Unknown",7
+"Scarlet fever","0",18
+"Scarlet fever","1-1",1242
+"Scarlet fever","10-14",2064
+"Scarlet fever","15-24",708
+"Scarlet fever","2-2",1720
+"Scarlet fever","25-34",518
+"Scarlet fever","3-3",2329
+"Scarlet fever","35-44",440
+"Scarlet fever","4-4",2726
+"Scarlet fever","45-54",435
+"Scarlet fever","5-5",2509
+"Scarlet fever","55-64",310
+"Scarlet fever","6-6",2204
+"Scarlet fever","65+",371
+"Scarlet fever","7-9",3675
+"Scarlet fever","<1",525
+"Scarlet fever","Unknown",12
+"Scrub Typhus","0",7
+"Scrub Typhus","1-1",1076
+"Scrub Typhus","10-14",9005
+"Scrub Typhus","15-24",14972
+"Scrub Typhus","2-2",1239
+"Scrub Typhus","25-34",18876
+"Scrub Typhus","3-3",1419
+"Scrub Typhus","35-44",21517
+"Scrub Typhus","4-4",1426
+"Scrub Typhus","45-54",23107
+"Scrub Typhus","5-5",1547
+"Scrub Typhus","55-64",18156
+"Scrub Typhus","6-6",1662
+"Scrub Typhus","65+",13772
+"Scrub Typhus","7-9",4996
+"Scrub Typhus","<1",544
+"Scrub Typhus","Unknown",87
+"Streptococcus suis","0",1
+"Streptococcus suis","1-1",3
+"Streptococcus suis","10-14",6
+"Streptococcus suis","15-24",43
+"Streptococcus suis","2-2",3
+"Streptococcus suis","25-34",174
+"Streptococcus suis","3-3",6
+"Streptococcus suis","35-44",443
+"Streptococcus suis","4-4",3
+"Streptococcus suis","45-54",971
+"Streptococcus suis","5-5",2
+"Streptococcus suis","55-64",1241
+"Streptococcus suis","6-6",3
+"Streptococcus suis","65+",1596
+"Streptococcus suis","7-9",7
+"Streptococcus suis","<1",6
+"Streptococcus suis","Unknown",0
+"Syphilis","0",2381
+"Syphilis","1-1",547
+"Syphilis","10-14",1007
+"Syphilis","15-24",42481
+"Syphilis","2-2",495
+"Syphilis","25-34",31296
+"Syphilis","3-3",104
+"Syphilis","35-44",17095
+"Syphilis","4-4",86
+"Syphilis","45-54",9115
+"Syphilis","5-5",46
+"Syphilis","55-64",4274
+"Syphilis","6-6",36
+"Syphilis","65+",7160
+"Syphilis","7-9",109
+"Syphilis","<1",2905
+"Syphilis","Unknown",82
+"T.B. other organs","0",21
+"T.B. other organs","1-1",433
+"T.B. other organs","10-14",1325
+"T.B. other organs","15-24",7231
+"T.B. other organs","2-2",391
+"T.B. other organs","25-34",15750
+"T.B. other organs","3-3",324
+"T.B. other organs","35-44",18099
+"T.B. other organs","4-4",298
+"T.B. other organs","45-54",17225
+"T.B. other organs","5-5",277
+"T.B. other organs","55-64",15496
+"T.B. other organs","6-6",256
+"T.B. other organs","65+",21077
+"T.B. other organs","7-9",735
+"T.B. other organs","<1",329
+"T.B. other organs","Unknown",65
+"T.B.meningitis","0",13
+"T.B.meningitis","1-1",67
+"T.B.meningitis","10-14",139
+"T.B.meningitis","15-24",776
+"T.B.meningitis","2-2",44
+"T.B.meningitis","25-34",1939
+"T.B.meningitis","3-3",24
+"T.B.meningitis","35-44",2058
+"T.B.meningitis","4-4",27
+"T.B.meningitis","45-54",1498
+"T.B.meningitis","5-5",36
+"T.B.meningitis","55-64",1082
+"T.B.meningitis","6-6",32
+"T.B.meningitis","65+",1074
+"T.B.meningitis","7-9",67
+"T.B.meningitis","<1",86
+"T.B.meningitis","Unknown",23
+"Tetanus exc.Neo","0",1
+"Tetanus exc.Neo","1-1",2
+"Tetanus exc.Neo","10-14",39
+"Tetanus exc.Neo","15-24",127
+"Tetanus exc.Neo","2-2",6
+"Tetanus exc.Neo","25-34",141
+"Tetanus exc.Neo","3-3",14
+"Tetanus exc.Neo","35-44",192
+"Tetanus exc.Neo","4-4",9
+"Tetanus exc.Neo","45-54",355
+"Tetanus exc.Neo","5-5",13
+"Tetanus exc.Neo","55-64",370
+"Tetanus exc.Neo","6-6",9
+"Tetanus exc.Neo","65+",570
+"Tetanus exc.Neo","7-9",22
+"Tetanus exc.Neo","<1",2
+"Tetanus exc.Neo","Unknown",3
+"Typhoid","0",23
+"Typhoid","1-1",767
+"Typhoid","10-14",3747
+"Typhoid","15-24",6224
+"Typhoid","2-2",698
+"Typhoid","25-34",7925
+"Typhoid","3-3",695
+"Typhoid","35-44",8253
+"Typhoid","4-4",690
+"Typhoid","45-54",6824
+"Typhoid","5-5",755
+"Typhoid","55-64",4354
+"Typhoid","6-6",765
+"Typhoid","65+",4228
+"Typhoid","7-9",2356
+"Typhoid","<1",543
+"Typhoid","Unknown",26
+"Vaginal trichomoniasis","0",2
+"Vaginal trichomoniasis","1-1",6
+"Vaginal trichomoniasis","10-14",86
+"Vaginal trichomoniasis","15-24",553
+"Vaginal trichomoniasis","2-2",8
+"Vaginal trichomoniasis","25-34",389
+"Vaginal trichomoniasis","3-3",11
+"Vaginal trichomoniasis","35-44",373
+"Vaginal trichomoniasis","4-4",7
+"Vaginal trichomoniasis","45-54",341
+"Vaginal trichomoniasis","5-5",4
+"Vaginal trichomoniasis","55-64",227
+"Vaginal trichomoniasis","6-6",10
+"Vaginal trichomoniasis","65+",169
+"Vaginal trichomoniasis","7-9",21
+"Vaginal trichomoniasis","<1",9
+"Vaginal trichomoniasis","Unknown",0
+"Zika virus","0",98
+"Zika virus","1-1",7
+"Zika virus","10-14",90
+"Zika virus","15-24",206
+"Zika virus","2-2",8
+"Zika virus","25-34",387
+"Zika virus","3-3",11
+"Zika virus","35-44",382
+"Zika virus","4-4",9
+"Zika virus","45-54",247
+"Zika virus","5-5",5
+"Zika virus","55-64",164
+"Zika virus","6-6",6
+"Zika virus","65+",76
+"Zika virus","7-9",21
+"Zika virus","<1",14
+"Zika virus","Unknown",0

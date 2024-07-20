@@ -69,13 +69,8 @@ func_rmse <-
     )
   }
 
-fill_color <- c("#BC3C29FF", "#0072B5FF", "#E18727FF", "#20854EFF")
+fill_color <- paletteer_d("fishualize::Etheostoma_spectabile")
 fill_color_disease <- paletteer_d("ggsci::nrc_npg")
-back_color <- c('Pre-epidemic period' = "#3381A850",
-                'PHSMs period I' = "#E6383350",
-                'PHSMs period II' = "#5E954650",
-                'Epidemic period' = "#05215D50",
-                'Post-epidemic period' = 'grey')
 
 index_labels <- c("SMAPE", "RMSE", "MASE", "R_Squared")
 disease_groups <- c("Intestinal infectious diseases",
@@ -90,6 +85,12 @@ models_label <- c("Neural Network", "ETS", "SARIMA", "Hybrid*", "Bayesian Struct
 add_value <- 0.1
 
 # left border
-split_dates <- as.Date(c("2020/1/1", "2020/4/1", "2022/11/1", "2023/2/1"))
-split_periods <- c("Pre-epidemic period", "PHSMs period I", "PHSMs period II",
-                   "Epidemic period", "Post-epidemic period")
+split_dates <- as.Date(c("2020/1/1", "2020/5/1", "2020/12/1", "2022/1/1", "2023/1/1"))
+split_periods <- c("Pre-COVID-19",
+                   "PHSMs",
+                   "Wild type",
+                   "Delta variant",
+                   "Omicron variant",
+                   "Endemic")
+back_color <- c('white',"grey", "white", "grey", "white", "grey")
+names(back_color) <- split_periods
