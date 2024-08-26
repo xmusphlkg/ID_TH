@@ -78,8 +78,8 @@ disease_groups <- c("Gastrointestinal ID",
                     "Sexually ID",
                     "Vaccine preventable ID",
                     "Vector-borne and zoonotic ID")
-models <- c("Neural Network", "ETS", "SARIMA", "Hybrid", "Bayesian Structural", "Prophet")
-models_label <- c("Neural Network", "ETS", "SARIMA", "Hybrid*", "Bayesian Structural", "Prophet")
+models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid*", "Bayesian structural")
 
 # Laplace smoothing
 

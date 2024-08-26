@@ -29,19 +29,20 @@ plot_outcome <- function(outcome_plot_1,
      
      if (inter) {
           fig1 <- fig1 +
-               geom_ribbon(mapping = aes(x = date, ymin = lower_80, ymax = upper_80, fill = 'red'),
+               geom_ribbon(mapping = aes(x = date, ymin = lower_80, ymax = upper_80, fill = '#0F7BA2FF'),
                            data = outcome_plot_2, alpha = 0.3, show.legend = F)+
-               geom_ribbon(mapping = aes(x = date, ymin = lower_95, ymax = upper_95, fill = 'red'),
+               geom_ribbon(mapping = aes(x = date, ymin = lower_95, ymax = upper_95, fill = '#0F7BA2FF'),
                            data = outcome_plot_2, alpha = 0.3, show.legend = F)
      }
      
      fig1 <- fig1 +
-          geom_vline(xintercept = max(outcome_plot_1_2_link$date), show.legend = F,
+          geom_vline(xintercept = median(outcome_plot_1_2_link$date), show.legend = F,
                      linetype = 'longdash')+
           geom_hline(yintercept = 0, show.legend = F)+
           annotate('text', x = median(outcome_plot_1$date), y = Inf, label = 'Train Database', vjust = 1)+
           annotate('text', x = median(outcome_plot_2$date), y = Inf, label = 'Test Database', vjust = 1)+
-          coord_cartesian(ylim = c(0, range(pretty(c(min_value, max_value, 0)))[2]))+
+          coord_cartesian(ylim = c(0, range(pretty(c(min_value, max_value, 0)))[2]),
+                          clip = 'off')+
           scale_x_date(expand = expansion(add = c(0, 31)),
                        date_labels = '%Y',
                        breaks = seq(min(outcome_plot_1$date), max(outcome_plot_2$date)+31, by="2 years"))+
@@ -56,7 +57,7 @@ plot_outcome <- function(outcome_plot_1,
           theme_set()+
           theme(legend.position = 'bottom')+
           labs(x = "Date",
-               y = 'Cases',
+               y = 'Monthly incidence',
                color = '',
                title = paste0(LETTERS[n], ': ', title))
      

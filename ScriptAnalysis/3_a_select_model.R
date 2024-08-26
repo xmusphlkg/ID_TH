@@ -30,11 +30,73 @@ source("./ggplot.R")
 load("./month.RData")
 
 split_date <- split_dates[1]
-train_length <- 13 * 10
-test_length <- 13 * 2
+train_length <- 13 * 11
+test_length <- 13 * 1
 forcast_length <- 13 * 4 + 6
 
 disease_name <- data_class$Shortname
+
+# process model -----------------------------------------------------------
+
+process_model <- function(mod, ts_train, ts_test, test_length, add_value, index_labels, ts_obse, data_single, split_date, max_case, method_name, plot_number) {
+     
+     # Generate forecasts
+     outcome <- forecast(mod, h = test_length)
+     
+     # Prepare outcome data for plotting
+     outcome_plot_1 <- data.frame(date = zoo::as.Date(time(outcome$x)),
+                                  simu = as.numeric(as.matrix(outcome$x)) - add_value,
+                                  fit = as.numeric(as.matrix(outcome$fitted)) - add_value)
+     
+     outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
+                                  mean = as.matrix(outcome$mean) - add_value)
+     
+     if ("lower" %in% names(outcome)) {
+          outcome_plot_2 <- cbind(outcome_plot_2,
+                                  lower_80 = as.matrix(outcome$lower[, 1]) - add_value,
+                                  lower_95 = as.matrix(outcome$lower[, 2]) - add_value,
+                                  upper_80 = as.matrix(outcome$upper[, 1]) - add_value,
+                                  upper_95 = as.matrix(outcome$upper[, 2]) - add_value)
+          plot_ribbon <- T
+     } else {
+          plot_ribbon <- F
+     }
+     
+     # Calculate fit goodness metrics
+     fit_goodness <- data.frame(Method = method_name,
+                                Index = index_labels,
+                                Train = evaluate_forecast(outcome_plot_1$fit, outcome_plot_1$simu),
+                                Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
+                                "Train and Test" = evaluate_forecast(c(outcome_plot_1$fit, outcome_plot_2$mean), ts_obse))
+     
+     # Plot results
+     fig <- plot_outcome(outcome_plot_1,
+                         outcome_plot_2,
+                         data_single,
+                         split_date,
+                         max_case,
+                         plot_number,
+                         plot_ribbon,
+                         method_name)
+     
+     return(list(fit_goodness, fig))
+}
+
+table_build <- function(data_table, i) {
+     index <- index_labels[i]
+     data <- data_table[data_table$Index == index, 1:4]
+     ggtexttable(data,
+                 rows = NULL,
+                 cols = c("Method", "Train", "Test", "All"),
+                 theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
+     ) |>
+          tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
+          tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
+          tab_add_title(paste(LETTERS[i + 6], ":", index, " of models"), face = "bold", size = 14) |>
+          tab_add_footnote("*Hybrid: Combined Neural network, ETS, SARIMA\nand TBATS model, weighted by RMSE",
+                           just = "left", hjust = 1, size = 10
+          )
+}
 
 # data clean --------------------------------------------------------------
 
@@ -49,10 +111,10 @@ auto_select_function <- function(i) {
            value = 'Cases')
 
   ## HAV outbreak from June 2012 to August 2012
-  if (disease_name[i] == "HAV") {
-    data_single$value[data_single$date >= as.Date("2012-06-01") & 
-                           data_single$date <= as.Date("2012-08-31")] <- NA
-  }
+  # if (disease_name[i] == "HAV") {
+  #   data_single$value[data_single$date >= as.Date("2012-06-01") & 
+  #                          data_single$date <= as.Date("2012-08-31")] <- NA
+  # }
 
   ## simulate date before 2020
   df_simu <- data_single |>
@@ -72,246 +134,87 @@ auto_select_function <- function(i) {
 
   ts_train <- head(ts_obse, train_length) + add_value
   ts_test <- tail(ts_obse, test_length)
+  
+  fit_goodness <- data.frame()
 
-  # NNET --------------------------------------------------------------------
+  ## NNET --------------------------------------------------------------------
 
   mod <- nnetar(ts_train, lambda = "auto")
-  outcome <- forecast(mod, h = test_length)
-
-  outcome_plot_1 <- data.frame(
-    date = zoo::as.Date(time(outcome$x)),
-    simu = as.numeric(as.matrix(outcome$x)) - add_value,
-    fit = as.numeric(as.matrix(outcome$fitted)) - add_value
-  )
-  outcome_plot_2 <- data.frame(
-    date = zoo::as.Date(time(outcome$mean)),
-    mean = as.matrix(outcome$mean) - add_value
-  )
-
-  fit_goodness <- data.frame(
-    Method = "Neural Network",
-    Index = index_labels,
-    Train = evaluate_forecast(
-      outcome_plot_1$fit[!is.na(outcome_plot_1$fit)],
-      outcome_plot_1$simu[!is.na(outcome_plot_1$fit)]
-    ),
-    Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-    "Train and Test" = evaluate_forecast(c(
-      outcome_plot_1$fit[-which(is.na(outcome_plot_1$fit))],
-      outcome_plot_2$mean
-    ), ts_obse[-which(is.na(outcome_plot_1$fit))])
-  )
-
-  fig_nnet_1 <- plot_outcome(
-    outcome_plot_1,
-    outcome_plot_2,
-    data_single,
-    split_date,
-    max_case,
-    1,
-    F,
-    "Neural Network"
-  )
-  rm(mod, outcome, outcome_plot_1, outcome_plot_2)
-
-  # Prophet -------------------------------------------------------------------
-
-  mod <- prophet(
-    data.frame(
-      ds = zoo::as.Date(time(ts_train)),
-      y = as.numeric(ts_train)
-    ),
-    interval.width = 0.95,
-    weekly.seasonality = FALSE,
-    daily.seasonality = FALSE
-  )
-  future <- make_future_dataframe(mod, periods = test_length, freq = "month")
-  outcome <- predict(mod, future)
-
-  outcome_plot_1 <- data.frame(
-    date = as.Date(mod$history.dates),
-    simu = as.numeric(ts_train) - add_value,
-    fit = as.numeric(outcome$yhat[1:length(ts_train)]) - add_value
-  )
-  outcome_plot_2 <- data.frame(
-    date = as.Date(outcome$ds),
-    mean = as.numeric(outcome$yhat) - add_value,
-    lower_80 = as.numeric(outcome$yhat_lower) - add_value,
-    lower_95 = as.numeric(outcome$yhat_lower) - add_value,
-    upper_80 = as.numeric(outcome$yhat_upper) - add_value,
-    upper_95 = as.numeric(outcome$yhat_upper) - add_value
-  ) |>
-    tail(test_length)
-
-  fit_goodness <- fit_goodness |>
-    rbind(
-      data.frame(
-        Method = "Prophet",
-        Index = index_labels,
-        Train = evaluate_forecast(outcome_plot_1$simu, outcome_plot_1$fit),
-        Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-        "Train and Test" = evaluate_forecast(c(outcome_plot_1$fit, outcome_plot_2$mean), ts_obse)
-      )
-    )
-
-  fig_prophet_1 <- plot_outcome(
-    outcome_plot_1,
-    outcome_plot_2,
-    data_single,
-    split_date,
-    max_case,
-    2,
-    T,
-    "Prophet"
-  )
-
-  rm(mod, future, outcome, outcome_plot_1, outcome_plot_2)
+  outcome <- process_model(mod, ts_train,
+                           ts_test, test_length,
+                           add_value, index_labels,
+                           ts_obse, data_single,
+                           split_date, max_case,
+                           "Neural Network", 1)
+  fit_goodness <- rbind(fit_goodness, outcome[[1]])
+  fig_nnet_1 <- outcome[[2]]
+  rm(mod, outcome)
 
   # ETS ---------------------------------------------------------------------
 
   mod <- ets(ts_train, ic = "aicc", lambda = "auto")
-  outcome <- forecast(mod, h = test_length)
-
-  outcome_plot_1 <- data.frame(
-    date = zoo::as.Date(time(outcome$x)),
-    simu = as.numeric(as.matrix(outcome$x)) - add_value,
-    fit = as.numeric(as.matrix(outcome$fitted)) - add_value
-  )
-  outcome_plot_2 <- data.frame(
-    date = zoo::as.Date(time(outcome$mean)),
-    mean = as.matrix(outcome$mean) - add_value,
-    lower_80 = as.matrix(outcome$lower[, 1]) - add_value,
-    lower_95 = as.matrix(outcome$lower[, 2]) - add_value,
-    upper_80 = as.matrix(outcome$upper[, 1]) - add_value,
-    upper_95 = as.matrix(outcome$upper[, 2]) - add_value
-  )
-
-  fit_goodness <- fit_goodness |>
-    rbind(
-      data.frame(
-        Method = "ETS",
-        Index = index_labels,
-        Train = evaluate_forecast(outcome_plot_1$simu, outcome_plot_1$fit),
-        Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-        "Train and Test" = evaluate_forecast(c(outcome_plot_1$fit, outcome_plot_2$mean), ts_obse)
-      )
-    )
-
-  fig_ets_1 <- plot_outcome(
-    outcome_plot_1,
-    outcome_plot_2,
-    data_single,
-    split_date,
-    max_case,
-    3,
-    T,
-    "ETS"
-  )
-
-  rm(mod, outcome, outcome_plot_1, outcome_plot_2)
+  outcome <- process_model(mod, ts_train,
+                           ts_test, test_length,
+                           add_value, index_labels,
+                           ts_obse, data_single,
+                           split_date, max_case,
+                           "ETS", 2)
+  fit_goodness <- rbind(fit_goodness, outcome[[1]])
+  fig_ets_1 <- outcome[[2]]
+  rm(mod, outcome)
 
   # SARIMA -------------------------------------------------------------------
 
   mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = "auto")
-  outcome <- forecast(mod, h = test_length)
-
-  outcome_plot_1 <- data.frame(
-    date = zoo::as.Date(time(outcome$x)),
-    simu = as.numeric(as.matrix(outcome$x)) - add_value,
-    fit = as.numeric(as.matrix(outcome$fitted)) - add_value
-  )
-  outcome_plot_2 <- data.frame(
-    date = zoo::as.Date(time(outcome$mean)),
-    mean = as.matrix(outcome$mean) - add_value,
-    lower_80 = as.matrix(outcome$lower[, 1]) - add_value,
-    lower_95 = as.matrix(outcome$lower[, 2]) - add_value,
-    upper_80 = as.matrix(outcome$upper[, 1]) - add_value,
-    upper_95 = as.matrix(outcome$upper[, 2]) - add_value
-  )
-
-  fit_goodness <- fit_goodness |>
-    rbind(
-      data.frame(
-        Method = "SARIMA",
-        Index = index_labels,
-        Train = evaluate_forecast(outcome_plot_1$fit, outcome_plot_1$simu),
-        Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-        "Train and Test" = evaluate_forecast(c(outcome_plot_1$fit, outcome_plot_2$mean), ts_obse)
-      )
-    )
-
-  fig_sarima_1 <- plot_outcome(
-    outcome_plot_1,
-    outcome_plot_2,
-    data_single,
-    split_date,
-    max_case,
-    4,
-    T,
-    "SARIMA"
-  )
-  rm(mod, outcome, outcome_plot_1, outcome_plot_2)
-
+  outcome <- process_model(mod, ts_train,
+                           ts_test, test_length,
+                           add_value, index_labels,
+                           ts_obse, data_single,
+                           split_date, max_case,
+                           "SARIMA", 3)
+  fit_goodness <- rbind(fit_goodness, outcome[[1]])
+  fig_sarima_1 <- outcome[[2]]
+  rm(mod, outcome)
+  
+  # tbats -------------------------------------------------------------------
+  # Exponential smoothing state space model with Box-Cox transformation, ARMA errors,
+  # Trend and Seasonal components
+  
+  mod <- tbats(ts_train, seasonal.periods = 12)
+  outcome <- process_model(mod, ts_train,
+                           ts_test, test_length,
+                           add_value, index_labels,
+                           ts_obse, data_single,
+                           split_date, max_case,
+                           "TBATS", 4)
+  fit_goodness <- rbind(fit_goodness, outcome[[1]])
+  fig_tbats_1 <- outcome[[2]]
+  rm(mod, outcome)
+  
   # Mixture ts --------------------------------------------------------------
 
   mod <- hybridModel(ts_train,
-    lambda = "auto",
-    models = c("aesn"),
-    a.args = list(seasonal = T),
-    weights = "equal", parallel = TRUE, num.cores = 10,
-    errorMethod = "MAE"
-  )
-  outcome <- forecast(mod, h = test_length)
-
-  outcome_plot_1 <- data.frame(
-    date = zoo::as.Date(time(outcome$x)),
-    simu = as.numeric(as.matrix(outcome$x)) - add_value,
-    fit = as.numeric(as.matrix(outcome$fitted)) - add_value
-  )
-  outcome_plot_2 <- data.frame(
-    date = zoo::as.Date(time(outcome$mean)),
-    mean = as.matrix(outcome$mean) - add_value,
-    lower_80 = as.matrix(outcome$lower[, 1]) - add_value,
-    lower_95 = as.matrix(outcome$lower[, 2]) - add_value,
-    upper_80 = as.matrix(outcome$upper[, 1]) - add_value,
-    upper_95 = as.matrix(outcome$upper[, 2]) - add_value
-  )
-
-  fit_goodness <- fit_goodness |>
-    rbind(
-      data.frame(
-        Method = "Hybrid",
-        Index = index_labels,
-        Train = evaluate_forecast(
-          outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
-          outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]
-        ),
-        Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-        "Train and Test" = evaluate_forecast(c(
-          outcome_plot_1$fit[-which(is.na(outcome_plot_1$fit))],
-          outcome_plot_2$mean
-        ), ts_obse[-which(is.na(outcome_plot_1$fit))])
-      )
-    )
-
-  fig_hyb_1 <- plot_outcome(
-    outcome_plot_1,
-    outcome_plot_2,
-    data_single,
-    split_date,
-    max_case,
-    5,
-    T,
-    "Hybrid"
-  )
-
-  rm(mod, outcome, outcome_plot_1, outcome_plot_2)
+                     lambda = "auto",
+                     models = c("aent"),
+                     a.args = list(seasonal = T),
+                     weights = "cv.errors",
+                     parallel = TRUE, num.cores = 10,
+                     errorMethod = "RMSE")
+  outcome <- process_model(mod, ts_train,
+                           ts_test, test_length,
+                           add_value, index_labels,
+                           ts_obse, data_single,
+                           split_date, max_case,
+                           "Hybrid", 5)
+  fit_goodness <- rbind(fit_goodness, outcome[[1]])
+  fig_hyb_1 <- outcome[[2]]
+  rm(mod, outcome)
 
   # Bayesian --------------------------------------------------------------
+  
   ss <- AddLocalLinearTrend(list(), ts_train)
   ss <- AddSeasonal(ss, ts_train, nseasons = 12)
   mod <- bsts(ts_train, state.specification = ss, niter = 500, seed = 20240826)
-
   burn <- SuggestBurn(0.1, mod)
   outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
 
@@ -332,7 +235,7 @@ auto_select_function <- function(i) {
   fit_goodness <- fit_goodness |>
     rbind(
       data.frame(
-        Method = "Bayesian Structural",
+        Method = "Bayesian structural",
         Index = index_labels,
         Train = evaluate_forecast(
           outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
@@ -354,7 +257,7 @@ auto_select_function <- function(i) {
     max_case,
     6,
     T,
-    "Bayesian Structural"
+    "Bayesian structural"
   )
   rm(mod, outcome, outcome_plot_1, outcome_plot_2)
 
@@ -371,32 +274,15 @@ auto_select_function <- function(i) {
     select(Method, Train, Test, All, Index)
   data_table[is.na(data_table)] <- ""
 
-  table_build <- function(data_table, i) {
-    index <- index_labels[i]
-    data <- data_table[data_table$Index == index, 1:4]
-    ggtexttable(data,
-      rows = NULL,
-      cols = c("Method", "Train", "Test", "All"),
-      theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
-    ) |>
-      tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
-      tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
-      tab_add_title(paste(LETTERS[i + 6], ":", index, " of Models"), face = "bold", size = 14) |>
-      tab_add_footnote("*Hybrid: Combined SARIMA, ETS, STL\nand Neural Network model",
-        just = "left", hjust = 1, size = 10
-      )
-  }
   fig_table <- lapply(1:length(index_labels), table_build, data_table = data_table) |>
     wrap_plots(plot_list, nrow = 1)
 
   # save --------------------------------------------------------------------
 
-  fig_ts <- fig_nnet_1 + fig_prophet_1 + fig_ets_1 + fig_sarima_1 + fig_hyb_1 + fig_baye_1 +
-    plot_layout(ncol = 2, guides = "collect") &
-    theme(
-      legend.position = "bottom",
-      plot.margin = margin(5, 15, 5, 5)
-    )
+  fig_ts <- fig_nnet_1 + fig_ets_1 + fig_sarima_1 + fig_tbats_1 + fig_hyb_1 + fig_baye_1 +
+       plot_layout(ncol = 2, guides = "collect") &
+       theme(legend.position = "bottom",
+             plot.margin = margin(5, 15, 5, 5))
 
   fig <- cowplot::plot_grid(fig_ts, fig_table, ncol = 1, rel_heights = c(3, 1))
 
