@@ -333,4 +333,4 @@ outcome <- parLapply(cl, 1:24, auto_select_function)
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)
-write.xlsx(data_outcome, "./outcome/appendix/Supplementary Appendix 2_1.xlsx")
+write.xlsx(data_outcome, "../Outcome/Appendix/Supplementary Appendix 2.xlsx")
