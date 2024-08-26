@@ -305,7 +305,7 @@ i <- 6
 # lapply(1:26, auto_select_function)
 # auto_select_function(6)
 
-cl <- makeCluster(24)
+cl <- makeCluster(length(disease_name))
 registerDoParallel(cl)
 clusterEvalQ(cl, {
   library(tidyverse)
@@ -325,7 +325,7 @@ clusterEvalQ(cl, {
   library(ggpubr)
   library(paletteer)
 
-  set.seed(202208)
+  set.seed(20240806)
 })
 
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
