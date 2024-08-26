@@ -18,7 +18,7 @@ Encephalitis uns,11980,36,Unspecifed encephalitis,Other encephalitis,,0,Unspecif
 Enterovirus Fever,866,12,Enterovirus,Enterovirus,Gastrointestinal ID,0,Insufficient cases
 Eosinophilic Meningitis,2602,36,Eosinophilic meningitis,EM,Vector-borne and zoonotic ID,1,
 Filariasis,227,36,Filariasis,Filariasis,Vector-borne and zoonotic ID,0,Insufficient cases
-Food_Poisoning,1917661,36,Food poisoning,Food poisoning,Gastrointestinal ID,1,
+Food_Poisoning,1917661,36,Food poisoning,Food poisoning,Gastrointestinal ID,0,Uninfectious disease
 Genital Herpes Simplex,33028,36,Genital herpes simplex,Genital herpes,Sexually ID,1,
 Genital Molluscum Contagiosum,774,12,Genital molluscum contagiosum,MC,Sexually ID,0,Insufficient cases
 Gonorrhoea,143184,36,Gonorrhoea,Gonorrhoea,Sexually ID,1,
@@ -32,7 +32,7 @@ Hepatitis_uns,31227,36,Unspecifed hepatitis,Unspecifed hepatitis,,0,Unspecifed d
 Influenza,2465377,36,Influenza,Influenza,Respiratory ID,1,
 Japanese B encephalitis,54,14,Japanese encephalitis,JE,Vector-borne and zoonotic ID,0,Insufficient cases
 Kala azar,20,36,Kala azar,Leishmaniasis,Vector-borne and zoonotic ID,0,Insufficient cases
-L.G.V.&other&unsp.V.D,10550,36,Lymphogranuloma venereum and other venereal disease,LGV and other VD,Sexually ID,1,
+L.G.V.&other&unsp.V.D,10550,36,Lymphogranuloma venereum and other venereal disease,LGV and other VD,Sexually ID,0,Unspecifed disease
 Leprosy,2554,36,Leprosy,Leprosy,Respiratory ID,1,
 Leptospirosis,58073,36,Leptospirosis,Leptospirosis,Vector-borne and zoonotic ID,1,
 Liver fluke,8136,36,Liver fluke,Liver fluke,Gastrointestinal ID,1,
@@ -43,9 +43,9 @@ Melioidosis,49458,36,Melioidosis,Melioidosis,Gastrointestinal ID,1,
 "Meningitis,uns",29594,36,Unspecifed meningitis,Other meningitis,,0,Unspecifed disease
 Meningococcal Meningitis,405,36,Meningococcal Meningitis,Meningococcal,Vaccine preventable ID,0,Insufficient cases
 Mumps,102335,36,Mumps,Mumps,Vaccine preventable ID,1,
-Mushroom poisoning,33001,36,Mushroom poisoning,Mushroom poisoning,Gastrointestinal ID,1,
-N.S.U._V,44549,36,Non-specific urethritis / viral,Non-specific urethritis,Sexually ID,1,
-Other STI,182861,30,Other sexually ID,Other sexually ID,Sexually ID,1,
+Mushroom poisoning,33001,36,Mushroom poisoning,Mushroom poisoning,Gastrointestinal ID,0,Uninfectious disease
+N.S.U._V,44549,36,Non-specific urethritis / viral,Non-specific urethritis,Sexually ID,0,Unspecifed disease
+Other STI,182861,30,Other sexually ID,Other sexually ID,Sexually ID,0,Unspecifed disease
 Paratyphoid,4790,36,Paratyphoid,Paratyphoid,Gastrointestinal ID,1,
 Pediculosis Pubis,24,12,Pediculosis pubis,Pediculosis,Sexually ID,0,Insufficient cases
 Pertussis,2089,36,Pertussis,Pertussis,Vaccine preventable ID,1,

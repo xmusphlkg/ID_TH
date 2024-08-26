@@ -12,100 +12,94 @@ library(scales)
 
 remove(list = ls())
 
-source("./script/theme_set.R")
+source("./theme_set.R")
 
-datafile_analysis <- read.xlsx("./data/nation_and_provinces.xlsx",
-                               detectDates = T,
-                               sheet = "Nation") |>
-     filter(date >= as.Date("2008-1-1"))
+load("./month.RData")
 
-datafile_class <- read.xlsx("./outcome/appendix/Figure Data/Fig.1 data.xlsx",
-                            sheet = "panel A") |>
-     select(-c(value, label))
+data_class <- data_class |> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(Shortname, Group)
 
 # group plot -------------------------------------------------------------
 
-datafile_plot <- datafile_analysis |>
-     filter(disease_en %in% datafile_class$disease) |>
-     select(date, disease_en, value) |>
-     rename(c(disease = "disease_en")) |>
+data_plot <- data_analysis |>
+     filter(Shortname %in% data_class$Shortname) |>
+     select(Date, Shortname, Cases) |>
      mutate(
-          disease = factor(
-               disease,
-               levels = datafile_class$disease,
-               labels = datafile_class$disease
+          Shortname = factor(
+               Shortname,
+               levels = data_class$Shortname,
+               labels = data_class$Shortname
           ),
           phase = case_when(
-               date < split_dates[1] ~ split_periods[1],
-               date >= split_dates[1] &
-                    date < split_dates[2] ~ split_periods[2],
-               date >= split_dates[2] &
-                    date < split_dates[3] ~ split_periods[3],
-               date >= split_dates[3] &
-                    date < split_dates[4] ~ split_periods[4],
-               date >= split_dates[4] ~ split_periods[5]
+               Date < split_dates[1] ~ split_periods[1],
+               Date >= split_dates[1] &
+                    Date < split_dates[2] ~ split_periods[2],
+               Date >= split_dates[2] &
+                    Date < split_dates[3] ~ split_periods[3],
+               Date >= split_dates[3] &
+                    Date < split_dates[4] ~ split_periods[4],
+               Date >= split_dates[4] ~ split_periods[5]
           ),
           phase = factor(phase, levels = split_periods),
-          value = as.integer(value)
+          Cases = as.integer(Cases)
      ) |>
-     left_join(datafile_class, by = "disease") |>
-     mutate(class = factor(class, levels = disease_groups))
+     left_join(data_class, by = "Shortname")
 
 # background rect ---------------------------------------------------------
 
-datafile_rect <- data.frame(start = c(min(datafile_plot$date), split_dates),
-                            end = c(split_dates, max(datafile_plot$date)),
+data_rect <- data.frame(start = c(min(data_plot$Date), split_dates),
+                            end = c(split_dates, max(data_plot$Date)),
                             label = split_periods) |>
      mutate(m = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01"))
 
-datafile_group <- datafile_plot |>
-     group_by(phase, date, class) |>
-     summarise(value = sum(value),
+data_group <- data_plot |>
+     group_by(phase, Date, Group) |>
+     summarise(Cases = sum(Cases),
                .groups = "drop")
 
 # complete missing data
-table(datafile_plot[, "disease"])
+table(data_plot[, "Shortname"])
 
-# lineplot ----------------------------------------------------------------
+# line plot ----------------------------------------------------------------
 
 data_fig <- list()
 
-group_lists <- levels(datafile_group$class)
-
-for (i in 1:4) {
-     group_list <- group_lists[i]
+for (i in 1:length(disease_groups)) {
+     group_list <- disease_groups[i]
      data_fig[[paste("panel", LETTERS[i * 2 - 1])]] <-
-          datafile_group |>
-          filter(class == group_list) |>
+          data_group |>
+          filter(Group == group_list) |>
           mutate(
-               year = year(date),
-               month = month(date),
-               date = format(ymd(date), "%Y.%m")
+               year = year(Date),
+               month = month(Date),
+               Date = format(ymd(Date), "%Y.%m")
           )
-     data_fig[[paste("panel", LETTERS[i * 2])]] <- datafile_plot |>
-          filter(class == group_list) |>
-          group_by(disease) |>
+     data_fig[[paste("panel", LETTERS[i * 2])]] <- data_plot |>
+          filter(Group == group_list) |>
+          group_by(Shortname) |>
           mutate(
-               year = year(date),
-               month = month(date),
-               value_norm = (value - mean(value, na.rm = T)) / sd(value, na.rm = T),
-               date = format(ymd(date), "%Y.%m")
+               year = year(Date),
+               month = month(Date),
+               value_norm = (Cases - mean(Cases, na.rm = T)) / sd(Cases, na.rm = T),
+               Date = format(ymd(Date), "%Y.%m")
           )
 }
 
 plot_single <- function(i) {
-     group_list <- group_lists[i]
-     datafile_group_single <- datafile_group |>
-          filter(class == group_list)
-     datafile_plot_single <-
+     group_list <- disease_groups[i]
+     data_group_single <- data_group |>
+          filter(Group == group_list)
+     data_plot_single <-
           data_fig[[paste("panel", LETTERS[i * 2])]] |>
           mutate(out_label = if_else(value_norm > 10,
                                      "*",
                                      ""))
      
-     fig1 <- ggplot(data = datafile_group_single) +
+     fig1 <- ggplot(data = data_group_single) +
           geom_rect(
-               data = datafile_rect,
+               data = data_rect,
                aes(
                     xmin = start,
                     xmax = end,
@@ -116,8 +110,8 @@ plot_single <- function(i) {
                alpha = 0.2,
                show.legend = F
           ) +
-          geom_line(mapping = aes(x = date,
-                                  y = value),
+          geom_line(mapping = aes(x = Date,
+                                  y = Cases),
                     color = fill_color[i]) +
           scale_x_date(
                expand = expansion(add = c(15, 15)),
@@ -125,8 +119,9 @@ plot_single <- function(i) {
                date_labels = "%Y"
           ) +
           scale_y_continuous(
-               expand = expansion(mult = c(0.15, 0.25)),
-               breaks = pretty(datafile_group_single$value),
+               expand = expansion(mult = c(0, 0.25)),
+               limits = c(0, NA),
+               breaks = pretty(c(0, max(data_group_single$Cases)*1.25), n = 4),
                labels = scientific_10
           ) +
           scale_fill_manual(values = back_color) +
@@ -156,25 +151,25 @@ plot_single <- function(i) {
                title = LETTERS[i * 2 - 1]
           )
      
-     fig2 <- ggplot(data = datafile_plot_single,
+     fig2 <- ggplot(data = data_plot_single,
                     mapping = aes(fill = value_norm,
-                                  x = date,
-                                  y = disease)) +
+                                  x = Date,
+                                  y = Shortname)) +
           geom_tile() +
           geom_text(mapping = aes(label = out_label),
                     vjust = 0.5) +
           coord_equal(3) +
           scale_fill_gradientn(
-               colors = paletteer_d("awtools::a_palette"),
+               colors = paletteer_d("rcartocolor::Temps"),
                trans = log_fill,
                limits = c(-5, 10)
           ) +
           scale_x_discrete(
-               breaks = paste(seq(2008, 2023), "01", sep = "."),
-               labels = 2008:2023,
+               breaks = paste(seq(2007, 2024), "01", sep = "."),
+               labels = 2007:2024,
                expand = expansion(add = c(0, 0))
           ) +
-          scale_y_discrete(limits = rev(datafile_class$disease[datafile_class$class == group_list]),
+          scale_y_discrete(limits = rev(data_class$Shortname[data_class$Group == group_list]),
                            expand = c(0, 0)) +
           theme_bw() +
           theme(
@@ -203,35 +198,21 @@ plot_single <- function(i) {
      return(fig1 + fig2 + plot_layout(ncol = 1, heights = c(1, 1)))
 }
 
-## create figure panel for all class
-plot_list <- lapply(1:length(group_lists), plot_single)
+## create figure panel for all Group
+plot_list <- lapply(1:length(disease_groups), plot_single)
 fig <- wrap_plots(plot_list, ncol = 1) +
      plot_layout(guides = "collect") &
      theme(legend.position = "bottom")
 
 ggsave(
-     filename = "./outcome/publish/fig2.pdf",
+     filename = "../outcome/publish/fig2.pdf",
      plot = fig,
      width = 12,
-     height = 16,
+     height = 22,
      device = cairo_pdf,
      family = "Times New Roman"
 )
 
-# Seasonal Decomposition --------------------------------------------------
-
 # figure data
 write.xlsx(data_fig,
-           file = "./outcome/appendix/Figure Data/Fig.2 data.xlsx")
-
-datafile_plot |>
-     mutate(year = year(date)) |>
-     group_by(disease, year) |>
-     summarise(value = sum(value),
-               .groups = "drop") |>
-     group_by(disease) |>
-     summarise(value_2008 = value[year == 2008],
-               value_2019 = value[year == 2019],
-               .groups = "drop") |>
-     mutate(ratio = ((value_2019 / value_2008) ^ (1 / 11) - 1) * 100) |>
-     print(n = 24)
+           file = "../outcome/Appendix/figure_data/fig2.xlsx")

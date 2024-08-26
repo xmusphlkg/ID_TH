@@ -49,9 +49,9 @@ plot_outcome <- function(outcome_plot_1,
                              label = scientific_10,
                              breaks = pretty(c(min_value, max_value, 0)))+
           scale_color_manual(
-               values = c(Fitted = "#00A087B2",
-                          Forecasted = "#DC0000B2",
-                          Observed = '#3C5488B2')
+               values = c(Fitted = "#DD5129FF",
+                          Forecasted = "#0F7BA2FF",
+                          Observed = "#43B284FF")
           )+
           theme_set()+
           theme(legend.position = 'bottom')+

@@ -18,62 +18,55 @@ library(paletteer)
 
 library(doParallel)
 
-set.seed(202208)
+set.seed(202408)
 
 remove(list = ls())
 
 # data load ---------------------------------------------------------------
 
-source("./script/theme_set.R")
-source("./script/ggplot.R")
+source("./theme_set.R")
+source("./ggplot.R")
 
-datafile_analysis <- read.xlsx("./data/nation_and_provinces.xlsx",
-  detectDates = T, sheet = "Nation"
-) |>
-  filter(date >= as.Date("2008-1-1")) |>
-  mutate(value = as.integer(value))
-
-datafile_class <- read.xlsx("./outcome/appendix/Figure Data/Fig.1 data.xlsx",
-  sheet = "panel A"
-) |>
-  select(-c(value, label))
+load("./month.RData")
 
 split_date <- split_dates[1]
-train_length <- 12 * 10
-test_length <- 12 * 2
-forcast_length <- 12 * 4
+train_length <- 13 * 10
+test_length <- 13 * 2
+forcast_length <- 13 * 4 + 6
 
-disease_name <- datafile_class$disease
+disease_name <- data_class$Shortname
 
 # data clean --------------------------------------------------------------
 
 i <- 20
 
 auto_select_function <- function(i) {
-  set.seed(202208)
-  datafile_single <- datafile_analysis |>
-    filter(disease_en == disease_name[i]) |>
-    select(date, disease_en, value)
+  set.seed(202408)
+  data_single <- data_analysis |>
+    filter(Shortname == disease_name[i]) |>
+    select(Date, Shortname, Cases) |> 
+    rename(date = 'Date',
+           value = 'Cases')
 
-  ## Rubella outbreak from March 2019 to July 2019
-  if (disease_name[i] == "Rubella") {
-    datafile_single$value[datafile_single$date >= as.Date("2019-01-01")] <- NA
+  ## HAV outbreak from June 2012 to August 2012
+  if (disease_name[i] == "HAV") {
+    data_single$value[data_single$date >= as.Date("2012-06-01") & 
+                           data_single$date <= as.Date("2012-08-31")] <- NA
   }
 
   ## simulate date before 2020
-  df_simu <- datafile_single |>
+  df_simu <- data_single |>
     arrange(date) |>
     unique() |>
-    filter(date < split_date) |>
-    select(value)
+    filter(date < split_date)
 
   max_case <- max(df_simu$value, na.rm = T)
 
-  ts_obse <- ts(df_simu,
+  ts_obse <- ts(df_simu$value,
     frequency = 12,
     start = c(
-      as.numeric(format(min(datafile_single$date), "%Y")),
-      as.numeric(format(min(datafile_single$date), "%m"))
+      as.numeric(format(min(data_single$date), "%Y")),
+      as.numeric(format(min(data_single$date), "%m"))
     )
   )
 
@@ -112,7 +105,7 @@ auto_select_function <- function(i) {
   fig_nnet_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     1,
@@ -164,7 +157,7 @@ auto_select_function <- function(i) {
   fig_prophet_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     2,
@@ -207,7 +200,7 @@ auto_select_function <- function(i) {
   fig_ets_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     3,
@@ -250,7 +243,7 @@ auto_select_function <- function(i) {
   fig_sarima_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     4,
@@ -304,7 +297,7 @@ auto_select_function <- function(i) {
   fig_hyb_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     5,
@@ -317,7 +310,7 @@ auto_select_function <- function(i) {
   # Bayesian --------------------------------------------------------------
   ss <- AddLocalLinearTrend(list(), ts_train)
   ss <- AddSeasonal(ss, ts_train, nseasons = 12)
-  mod <- bsts(ts_train, state.specification = ss, niter = 500, seed = 20231007)
+  mod <- bsts(ts_train, state.specification = ss, niter = 500, seed = 20240826)
 
   burn <- SuggestBurn(0.1, mod)
   outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
@@ -356,7 +349,7 @@ auto_select_function <- function(i) {
   fig_baye_1 <- plot_outcome(
     outcome_plot_1,
     outcome_plot_2,
-    datafile_single,
+    data_single,
     split_date,
     max_case,
     6,
@@ -367,7 +360,7 @@ auto_select_function <- function(i) {
 
   # summary table ---------------------------------------------------------
 
-  datafile_table <- fit_goodness |>
+  data_table <- fit_goodness |>
     mutate(
       Method = factor(Method, levels = models, labels = models_label),
       Train = round(Train, 2),
@@ -376,24 +369,24 @@ auto_select_function <- function(i) {
     ) |>
     arrange(Method) |>
     select(Method, Train, Test, All, Index)
-  datafile_table[is.na(datafile_table)] <- ""
+  data_table[is.na(data_table)] <- ""
 
-  table_build <- function(datafile_table, i) {
+  table_build <- function(data_table, i) {
     index <- index_labels[i]
-    data <- datafile_table[datafile_table$Index == index, 1:4]
+    data <- data_table[data_table$Index == index, 1:4]
     ggtexttable(data,
       rows = NULL,
       cols = c("Method", "Train", "Test", "All"),
       theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
     ) |>
-      tab_add_hline(at.row = nrow(datafile_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
+      tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
       tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
       tab_add_title(paste(LETTERS[i + 6], ":", index, " of Models"), face = "bold", size = 14) |>
       tab_add_footnote("*Hybrid: Combined SARIMA, ETS, STL\nand Neural Network model",
         just = "left", hjust = 1, size = 10
       )
   }
-  fig_table <- lapply(1:length(index_labels), table_build, datafile_table = datafile_table) |>
+  fig_table <- lapply(1:length(index_labels), table_build, data_table = data_table) |>
     wrap_plots(plot_list, nrow = 1)
 
   # save --------------------------------------------------------------------
@@ -408,7 +401,7 @@ auto_select_function <- function(i) {
   fig <- cowplot::plot_grid(fig_ts, fig_table, ncol = 1, rel_heights = c(3, 1))
 
   ggsave(
-    filename = paste0("./outcome/appendix/Supplementary Appendix 1_2/", disease_name[i], ".png"),
+    filename = paste0("../outcome/appendix/Supplementary Appendix 1_2/", disease_name[i], ".png"),
     fig,
     device = "png",
     width = 14, height = 15,
@@ -453,5 +446,5 @@ clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:24, auto_select_function)
 stopCluster(cl)
 
-datafile_outcome <- do.call("rbind", outcome)
-write.xlsx(datafile_outcome, "./outcome/appendix/Supplementary Appendix 2_1.xlsx")
+data_outcome <- do.call("rbind", outcome)
+write.xlsx(data_outcome, "./outcome/appendix/Supplementary Appendix 2_1.xlsx")

@@ -75,16 +75,16 @@ fig1_data <- data_analysis |>
      group_by(Group, Disease) |>
      summarise(Cases = sum(Cases),
                .groups = 'drop') |> 
-     arrange(desc(Group), desc(Cases))
+     arrange(desc(Group), Cases)
 
-fig1_1 <- ggplot(data = fig1_data)+
+fig1 <- ggplot(data = fig1_data)+
      geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
               show.legend = F) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
                       limits = rev(fig1_data$Disease)) +
-     scale_y_continuous(expand = c(0, 0),
-                        breaks = c(1e5, 2e5, 3e5),
+     scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
+                        limits = c(0, NA),
                         label = scientific_10)+
      coord_cartesian(ylim = c(0, 3e5))+
      theme_plot() +
@@ -92,25 +92,7 @@ fig1_1 <- ggplot(data = fig1_data)+
      labs(y = "Cumulative cases",
           x = NULL,
           fill = NULL,
-          title = NULL)
-
-fig1_2 <- ggplot(data = fig1_data)+
-     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
-              show.legend = F) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = rev(fig1_data$Disease)) +
-     scale_y_continuous(expand = c(0, 0),
-                        breaks = c(7e5, 2e6, 3e6, 4e6),
-                        label = scientific_10)+
-     coord_cartesian(ylim = c(7e5, 4e6))+
-     theme_plot() +
-     theme(axis.text.x = element_blank(),
-           axis.ticks.x = element_blank()) +
-     labs(y = "",
-          x = NULL,
-          fill = NULL,
-          title = NULL)
+          title = 'A')
 
 # panel B --------------------------------------------------------------
 
@@ -192,6 +174,7 @@ fig4_data <- fig3_data |>
 
 fig4 <- ggplot(data = fig3_data) +
      geom_col(mapping = aes(x = Date, y = Cases, fill = Group),
+              show.legend = F,
               position = "fill") +
      scale_fill_manual(values = fill_color) +
      scale_y_continuous(expand = c(0, 0),
@@ -208,15 +191,12 @@ fig4 <- ggplot(data = fig3_data) +
 
 # save plot ---------------------------------------------------------------
 
-design <- "
-AC
-BC
-DD
-EE
-"
+fig1_2 <- cowplot::plot_grid(fig1, fig2, nrow = 1, rel_widths = c(2.5, 1.15))
 
-fig <- fig1_1 + fig1_2+ fig2 + fig3 + fig4 + 
-     plot_layout(design = design, widths = c(3, 1.15), heights = c(1, 1, 3.5, 3.5))
+# fig <- fig1_2 + fig3 + fig4 + 
+#      plot_layout(ncol = 1, heights = c(3, 3.5, 3.5))
+
+fig <- cowplot::plot_grid(fig1_2, fig3, fig4, nrow = 3, rel_heights = c(3, 3.5, 3.5))
 
 ggsave(
      filename = "../Outcome/Publish/fig1.pdf",
@@ -236,5 +216,7 @@ data_fig <- list("panel A" = fig1_data,
 write.xlsx(data_fig,
            file = "../Outcome/Appendix/figure_data/fig1.xlsx")
 
+data_class <- fig1_data |> 
+     rename(Shortname = 'Disease')
 
-
+save(data_analysis, data_month, data_class, file = "./month.RData")
