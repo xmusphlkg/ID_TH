@@ -90,7 +90,7 @@ table_build <- function(data_table, i) {
           tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
           tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
           tab_add_title(paste(LETTERS[i + 6], ":", index, " of models"), face = "bold", size = 14) |>
-          tab_add_footnote("*Hybrid: Combined Neural network, ETS, SARIMA\nand TBATS model, weighted by RMSE",
+          tab_add_footnote("*Hybrid: Combined Neural network, ETS,\nSARIMA and TBATS model, weighted by\nRMSE",
                            just = "left", hjust = 1, size = 10
           )
 }
