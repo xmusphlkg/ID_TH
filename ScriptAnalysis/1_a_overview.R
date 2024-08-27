@@ -68,31 +68,54 @@ data_analysis |>
 
 # panel A -----------------------------------------------------------------
 
-names(fill_color) <- sort(unique(data_analysis$Group))
+names(fill_color) <- disease_groups
 
 fig1_data <- data_analysis |>
      select(Year, Disease = Shortname, Group, Cases) |>
      group_by(Group, Disease) |>
      summarise(Cases = sum(Cases),
                .groups = 'drop') |> 
-     arrange(desc(Group), Cases)
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases))
 
 fig1 <- ggplot(data = fig1_data)+
      geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
               show.legend = F) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
-                      limits = rev(fig1_data$Disease)) +
+                      limits = fig1_data$Disease) +
      scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
                         limits = c(0, NA),
                         label = scientific_10)+
-     coord_cartesian(ylim = c(0, 3e5))+
      theme_plot() +
      theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
      labs(y = "Cumulative cases",
           x = NULL,
           fill = NULL,
           title = 'A')
+
+fig1_data_in <- fig1_data |> 
+     filter(Cases <= 3e5)
+
+fig1in <- ggplot(data = fig1_data_in)+
+     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
+              show.legend = F) +
+     coord_cartesian(ylim = c(0, 3e5)) +
+     scale_fill_manual(values = fill_color) +
+     scale_x_discrete(expand = c(0, 0),
+                      limits = fig1_data_in$Disease) +
+     scale_y_continuous(expand = expansion(mult = c(0, 0)),
+                        limits = c(0, 3e5),
+                        breaks = c(0, 1e5, 2e5, 3e5),
+                        label = scientific_10)+
+     theme_plot() +
+     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
+     labs(y = NULL,
+          x = NULL,
+          fill = NULL)
+
+# add inner plot
+fig1 <- fig1 + inset_element(fig1in, left = 0.06, bottom = 0.15, right = 1, top = 1)
 
 # panel B --------------------------------------------------------------
 

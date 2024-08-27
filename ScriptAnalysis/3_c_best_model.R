@@ -9,140 +9,127 @@ library(paletteer)
 
 remove(list = ls())
 
-source("./script/theme_set.R")
-source("./script/ggplot.R")
+source("./theme_set.R")
+source("./ggplot.R")
 
 # data --------------------------------------------------------------------
 
-DataRaw <- read.xlsx("./outcome/appendix/Supplementary Appendix 2_1.xlsx")
-datafile_class <- read.xlsx("./outcome/appendix/Figure Data/Fig.1 data.xlsx",
-  sheet = "panel A"
-) |>
-  select(-c(value, label))
+load('./month.RData')
 
-DataRaw$disease <- factor(DataRaw$disease, levels = datafile_class$disease)
+data_goodness <- read.xlsx("../Outcome/Appendix/Supplementary Appendix 2.xlsx")
+
+data_goodness$disease <- factor(data_goodness$disease, levels = rev(data_class$Shortname))
 
 # best model --------------------------------------------------------------
 
-DataClean <- DataRaw |>
-  select(disease, Index, Method, Test) |>
-  pivot_wider(names_from = Index, values_from = Test)
-
-## z-normalization for each disease
-DataClean <- DataClean |>
-  group_by(disease) |>
-  mutate(
-    # norR2 = (R_Squared - mean(R_Squared, na.rm = T)) / sd(R_Squared, na.rm = T),
-    norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),
-    norRMSE = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T),
-    norMASE = -(MASE - mean(MASE, na.rm = T)) / sd(MASE, na.rm = T),
-    Index = sum(norSMAPE, norRMSE, norMASE, na.rm = T)
-  ) |>
-  rowwise() |>
-  mutate(
-    Index = sum(c_across(norSMAPE:norMASE), na.rm = T)
-  ) |>
-  # mutate(Index = SMAPE) |> 
-  ungroup()
-
-## find the best method for each disease based on the maximum index
-DataClean <- DataClean |>
-  group_by(disease) |>
-  mutate(
-    Best = Method[which.max(Index)]
-  ) |>
-  ungroup()
-DataClean$Best <- as.numeric(DataClean$Method == DataClean$Best)
-DataClean$Method <- factor(DataClean$Method, levels = models, labels = models_label)
-diseases <- datafile_class$disease
+data_goodness <- data_goodness |>
+     select(disease, Index, Method, Test) |>
+     pivot_wider(names_from = Index, values_from = Test) |> 
+     ## z-normalization for each disease
+     group_by(disease) |>
+     mutate(
+          norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),
+          norRMSE = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T),
+          norMASE = -(MASE - mean(MASE, na.rm = T)) / sd(MASE, na.rm = T),
+          Index = sum(norSMAPE, norRMSE, norMASE, na.rm = T)
+     ) |>
+     rowwise() |>
+     mutate(
+          Index = sum(c_across(norSMAPE:norMASE), na.rm = T)
+     ) |>
+     # mutate(Index = SMAPE) |> 
+     ungroup() |> 
+     ## find the best method for each disease based on the maximum index
+     group_by(disease) |>
+     mutate(Best = Method[which.max(Index)]) |>
+     ungroup()
+data_goodness$Best <- as.numeric(data_goodness$Method == data_goodness$Best)
+data_goodness$Method <- factor(data_goodness$Method, levels = models, labels = models_label)
+diseases <- rev(data_class$Shortname)
 
 ## save normalized composite index
-DataTable <- DataClean |>
-  mutate(across(where(is.numeric), ~ round(., 2))) |>
-  select(disease, Method, Best, Index, contains("nor"))
-write.xlsx(
-  DataTable,
-  "./outcome/appendix/Figure Data/Fig.3 data.xlsx"
-)
+data_table <- data_goodness |>
+     mutate(across(where(is.numeric), ~ round(., 2))) |>
+     select(disease, Method, Best, Index, contains("nor")) |> 
+     left_join(data_class, by = c("disease" = "Shortname")) |> 
+     select(-Cases)
 
-# plot for each model -----------------------------------------------------
+write.xlsx(data_table,
+           "../Outcome/Appendix/figure_data/table 1.xlsx")
 
-layout <- "
-ABCDEFG
-HIJKLZZ
-MNOPQZZ
-RSTVWXY
-"
+data_map <- data_table |> 
+     select(Group, disease, Method, Index) |> 
+     pivot_wider(names_from = Method, values_from = Index)
 
-plot_function <- function(i, diseases) {
-  Data <- DataClean |>
-    filter(disease == diseases[i])
+# add best column
+data_best <- data_table |> 
+     select(disease, Method, Best) |> 
+     filter(Best == 1) |>
+     select(-Best)
 
-  fig <- ggplot(
-    data = Data,
-    mapping = aes(
-      y = Method,
-      x = Index,
-      fill = as.factor(Best)
-    )
-  ) +
-    geom_col() +
-    # geom_text(mapping = aes(
-    #      label = sprintf("%.2f", Index),
-    #      hjust = Index >= 0
-    # ))+
-    scale_y_discrete(limits = rev(levels(Data$Method))) +
-    scale_x_continuous(limits = c(-6, 6))+
-    scale_fill_manual(
-      values = c("#E64B35FF", "#00A087FF"),
-      labels = c("Alternative Models", "Optimal Model")
-    ) +
-    theme_bw() +
-    labs(
-      x = NULL,
-      y = NULL,
-      fill = NULL,
-      title = paste0(LETTERS[i], ": ", diseases[i])
-    )
-  if (i %in% c(1, 8, 13, 18)) {
-    fig <- fig +
-      theme(
-        legend.position = c(0.9, 0.1),
-        axis.text = element_text(color = "black"),
-        panel.grid.major.x = element_blank(),
-        panel.grid.minor.x = element_blank()
-      )
-  } else {
-    fig <- fig +
-      theme(
-        legend.position = c(0.9, 0.1),
-        axis.text = element_text(color = "black"),
-        panel.grid.major.x = element_blank(),
-        panel.grid.minor.x = element_blank(),
-        axis.text.y = element_blank()
-      )
-  }
-  return(fig)
+data_map <- data_map |>
+     left_join(data_best, by = c("disease" = "disease")) |> 
+     mutate(disease = factor(disease, levels = diseases)) |>
+     arrange(disease)
+
+# plot --------------------------------------------------------------------
+
+# create map for each group of diseases
+
+i <- 1
+
+plot_map <- function(i) {
+     data <- data_map |> 
+          filter(Group == disease_groups[i]) |>
+          select(-Group) |> 
+          pivot_longer(cols = -c(disease, Method),
+                       names_to = "model",
+                       values_to = "value") |> 
+          mutate(label = format(value, digits = 2, nsmall = 2),
+                 label = if_else(model == Method, paste0(label, "**"), label))
+     
+     fig <- ggplot(data) +
+          geom_tile(mapping = aes(x = model, y = disease, fill = value),
+                    color = "white") +
+          # add value text
+          geom_text(aes(x = model, y = disease, label = label),
+                    size = 2.5,
+                    color = "black") +
+          # # marked the best model
+          # geom_point(data = data,
+          #            aes(x = Method, y = disease),
+          #            shape = 8,
+          #            color = "black",
+          #            size = 3) +
+          coord_equal(1/3) +
+          scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
+                               limits = c(-6, 6)) +
+          scale_y_discrete(expand = expansion(add = c(0, 0))) +
+          scale_x_discrete(expand = expansion(add = c(0, 0))) +
+          theme_bw() +
+          theme(legend.position = "bottom",
+                panel.grid = element_blank(),
+                axis.text = element_text(size = 8, color = "black"),
+                plot.title = element_text(face = "bold", size = 10, color = "black"),
+                plot.title.position = "plot") +
+          guides(fill = guide_colourbar(barwidth = 15,
+                                        title.position = "top",
+                                        barheight = 0.5,
+                                        color = "black")) +
+          labs(title = LETTERS[i],
+               x = NULL,
+               y = NULL,
+               fill = "Standardized index")
+     
+     fig
 }
 
-outcome <- lapply(1:24, plot_function, diseases = diseases)
-outcome[[25]] <- guide_area()
+plot <- lapply(1:length(disease_groups), plot_map) |> 
+     wrap_plots(ncol = 1, guides = 'collect')&
+     theme(legend.position = "bottom")
 
-plot <- do.call(wrap_plots, outcome) +
-  plot_layout(design = layout, guides = "collect") &
-  theme(
-    plot.title = element_text(face = "bold", size = 10, hjust = 0),
-    legend.text = element_text(face = "bold"),
-    legend.title = element_text(face = "bold"),
-    legend.box.background = element_rect(fill = "transparent", colour = "transparent"),
-    legend.background = element_rect(fill = "transparent", colour = "transparent"),
-    axis.title.x = element_text(face = "bold", color = "black"),
-    axis.text.x = element_text(color = "black")
-  )
-
-ggsave("./outcome/publish/fig3.pdf",
-  plot,
-  family = "Times New Roman",
-  limitsize = FALSE, device = cairo_pdf,
-  width = 12, height = 6
-)
+ggsave("../Outcome/Publish/fig3.pdf",
+       plot,
+       family = "Times New Roman",
+       limitsize = FALSE, device = cairo_pdf,
+       width = 6, height = 12)

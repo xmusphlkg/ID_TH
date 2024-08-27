@@ -73,11 +73,11 @@ fill_color <- paletteer_d("fishualize::Etheostoma_spectabile")
 fill_color_disease <- paletteer_d("ggsci::nrc_npg")
 
 index_labels <- c("SMAPE", "RMSE", "MASE", "R_Squared")
-disease_groups <- c("Gastrointestinal ID",
-                    "Respiratory ID",
+disease_groups <- c("Respiratory ID",
+                    "Vector-borne and zoonotic ID",
                     "Sexually ID",
                     "Vaccine preventable ID",
-                    "Vector-borne and zoonotic ID")
+                    "Gastrointestinal ID")
 models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
 models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid*", "Bayesian structural")
 
