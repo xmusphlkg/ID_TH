@@ -29,9 +29,8 @@ source("./ggplot.R")
 load("./month.RData")
 
 split_date <- split_dates[1]
-train_length <- 13 * 11
-test_length <- 13 * 1
-forcast_length <- 13 * 4 + 6
+train_range <- c(as.Date('2007-1-1'), as.Date('2018-12-1'))
+test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))
 
 disease_name <- data_class$Shortname
 
@@ -99,7 +98,7 @@ table_build <- function(data_table, i) {
 
 # data clean --------------------------------------------------------------
 
-i <- 20
+i <- 2
 
 auto_select_function <- function(i) {
      set.seed(202408)
@@ -125,14 +124,19 @@ auto_select_function <- function(i) {
      
      ts_obse <- ts(df_simu$value,
                    frequency = 12,
-                   start = c(
-                        as.numeric(format(min(data_single$date), "%Y")),
-                        as.numeric(format(min(data_single$date), "%m"))
-                   )
-     )
-     
-     ts_train <- head(ts_obse, train_length) + add_value
-     ts_test <- tail(ts_obse, test_length)
+                   start = c(as.numeric(format(min(data_single$date), "%Y")),
+                             as.numeric(format(min(data_single$date), "%m"))))
+     ts_train <- window(ts_obse,
+                        start = c(as.numeric(format(train_range[1], "%Y")),
+                                  as.numeric(format(train_range[1], "%m"))),
+                        end = c(as.numeric(format(train_range[2], "%Y")),
+                                as.numeric(format(train_range[2], "%m")))) + add_value
+     ts_test <- window(ts_obse,
+                       end = c(as.numeric(format(test_range[2], "%Y")),
+                               as.numeric(format(test_range[2], "%m"))),
+                       start = c(as.numeric(format(test_range[1], "%Y")),
+                                 as.numeric(format(test_range[1], "%m")))) + add_value
+     test_length <- length(ts_test)
      
      fit_goodness <- data.frame()
      
@@ -197,6 +201,7 @@ auto_select_function <- function(i) {
                         models = c("aent"),
                         a.args = list(seasonal = T),
                         weights = "cv.errors",
+                        windowSize = 36,
                         parallel = TRUE, num.cores = 10,
                         errorMethod = "RMSE")
      outcome <- process_model(mod, ts_train,
