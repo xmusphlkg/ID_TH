@@ -27,7 +27,7 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_class <- read.xlsx("../Outcome/Appendix/figure_data/fig6.xlsx") |>
+data_class <- openxlsx::read.xlsx("../Outcome/Appendix/figure_data/fig6.xlsx") |>
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
@@ -39,7 +39,7 @@ disease_name <- data_class$disease
 
 # data clean --------------------------------------------------------------
 
-i <- 1
+# i <- 1
 
 auto_analysis_function <- function(i) {
      
@@ -141,7 +141,7 @@ auto_analysis_function <- function(i) {
      }
      
      
-     if (data_class$Method[i] == "Bayesian Structural") {
+     if (data_class$Method[i] == "Bayesian structural") {
           ss <- AddLocalLinearTrend(list(), ts_train)
           ss <- AddSeasonal(ss, ts_train, nseasons = 12)
           mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
@@ -197,8 +197,6 @@ clusterEvalQ(cl, {
      library(bsts)
      library(patchwork)
      library(Cairo)
-     library(ggpubr)
-     library(ggh4x)
      library(paletteer)
      
      Sys.setlocale(locale = "en")
@@ -208,7 +206,6 @@ clusterEvalQ(cl, {
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:length(disease_name), auto_analysis_function)
 stopCluster(cl)
-
 
 # panel -------------------------------------------------------------------
 
