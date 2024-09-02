@@ -28,7 +28,8 @@ data_case <- lapply(list_disease_files, read.csv) |>
      filter(Year >= 2007 & Areas == 'Total') |> 
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |> 
-     select(Group, Shortname, Age, Year, Cases)
+     select(Group, Shortname, Age, Year, Cases) |> 
+     filter(Year < 2024)
 rm(list_disease_files)
 
 # list files in the folder: death data
@@ -40,7 +41,8 @@ data_death <- lapply(list_death_files, read.csv) |>
      filter(Year >= 2007 & Areas == 'Total') |>
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |>
-     select(Group, Shortname, Age, Year, Deaths = Cases)
+     select(Group, Shortname, Age, Year, Deaths = Cases) |> 
+     filter(Year < 2024)
 rm(list_death_files)
 
 # merge case and death data
@@ -106,7 +108,7 @@ for (i in 1:3) {
                     show.legend = F) +
           geom_text(aes(label = Outcome), size = 3) +
           scale_fill_manual(values = fill_color_disease_max) +
-          coord_cartesian(ylim = c(9.5, 0.5)) +
+          coord_cartesian(ylim = c(length(unique(data$Year_mark))+0.5, 0.5)) +
           scale_x_continuous(breaks = unique(data$AgeGroupID),
                              labels = unique(data$AgeGroup),
                              expand = expansion(mult = c(0, 0))) +
@@ -134,4 +136,3 @@ ggsave(filename = "../outcome/publish/fig3.pdf",
 # figure data
 write.xlsx(data_outcome,
            file = "../outcome/Appendix/figure_data/fig3.xlsx")
-

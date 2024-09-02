@@ -34,7 +34,8 @@ data_region <- lapply(list_disease_files, read.csv) |>
                  !str_detect(Areas, regex("region", ignore_case = TRUE))) |>
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |> 
-     select(Group, Shortname, Year, Areas, Incidence, Mortality, CFR)
+     select(Group, Shortname, Year, Areas, Incidence, Mortality, CFR) |> 
+     filter(Year < 2024)
 rm(list_disease_files)
 
 # unique(data_region$Areas)

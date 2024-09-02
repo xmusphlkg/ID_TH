@@ -61,7 +61,7 @@ data_plot <- data_plot |>
 remove(data, data_death_order)
 
 # reassign the rank of the disease with zero death
-for (Y in 2:9) {
+for (Y in 2:length(unique(data_plot$Year_mark))) {
      # Y <- 2
      Y_prev <- Y - 1
      # get disease death order
@@ -113,7 +113,9 @@ data_zero_death <- data_plot |>
      mutate(Year_mark_start = Year_mark - 0.35,
             Year_mark_start = if_else(Year_mark_start < 1, 0, Year_mark_start),
             Year_mark_end = Year_mark + 0.35,
-            Year_mark_end = if_else(Year_mark_end > 9, 10, Year_mark_end)) |>
+            Year_mark_end = if_else(Year_mark_end > length(unique(data_plot$Year_mark)),
+                                    length(unique(data_plot$Year_mark)) + 1,
+                                    Year_mark_end)) |>
      select(Year_mark_start, Year_mark_end, Deaths_rank) |>
      pivot_longer(cols = c(Year_mark_start, Year_mark_end),
                   names_to = 'Year_mark_label',
@@ -129,7 +131,9 @@ data_zero_cases <- data_plot |>
      mutate(Year_mark_start = Year_mark - 0.35,
             Year_mark_start = if_else(Year_mark_start < 1, 0, Year_mark_start),
             Year_mark_end = Year_mark + 0.35,
-            Year_mark_end = if_else(Year_mark_end > 9, 10, Year_mark_end)) |>
+            Year_mark_end = if_else(Year_mark_end > length(unique(data_plot$Year_mark)),
+                                    length(unique(data_plot$Year_mark)) + 1,
+                                    Year_mark_end)) |>
      select(Year_mark_start, Year_mark_end, Cases_rank) |>
      pivot_longer(cols = c(Year_mark_start, Year_mark_end),
                   names_to = 'Year_mark_label',
@@ -168,13 +172,13 @@ fig1 <- ggplot() +
                  color = 'white',
                  show.legend = T) +
      annotate(geom = 'text',
-              x = 9.55,
-              y = 20,
+              x = length(unique(data_plot$Year_mark)) + 0.45,
+              y = data_zero_cases$Cases_rank[nrow(data_zero_cases)],
               label = 'Diseases with zero cases',
               color = 'black',
               fontface = 'bold',
               angle = -90,
-              vjust = 1, hjust = 0, size = 4) +
+              vjust = 0.5, hjust = -0.1, size = 4) +
      geom_tile(data = data_plot,
                aes(x = Year_mark, y = Cases_rank, fill = Group),
                width = 0.7,
@@ -193,9 +197,9 @@ fig1 <- ggplot() +
                   lineend = "round",
                   linejoin = "round",
                   arrow = arrow(length = unit(2, "mm"))) +
-     coord_cartesian(ylim = c(36, 2), xlim = c(1, 9.2)) +
-     scale_x_continuous(breaks = 1:9,
-                        labels = c('2007-2010', '2011-2014', '2015-2018', as.character(2019:2024))) +
+     coord_cartesian(ylim = c(36, 2), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
+     scale_x_continuous(breaks = unique(data_plot$Year_mark),
+                        labels = unique(data_plot$Year_group)) +
      scale_fill_manual(values = fill_color) +
      scale_color_manual(values = c('Decrease' = '#4DBBD5FF', 'Constant' = '#8491B4FF', 'Increase' = '#E64B35FF')) +
      theme_plot() +
@@ -220,13 +224,13 @@ fig2 <- ggplot() +
                  color = 'white',
                  show.legend = F) +
      annotate(geom = 'text',
-              x = 9.55,
-              y = 12,
+              x = length(unique(data_plot$Year_mark)) + 0.45,
+              y = data_zero_death$Deaths_rank[nrow(data_zero_death)],
               label = 'Diseases with zero death',
               color = 'black',
               fontface = 'bold',
               angle = -90,
-              vjust = 1, hjust = 0, size = 4) +
+              vjust = 0.5, hjust = -0.1, size = 4) +
      geom_tile(data = data_plot,
                aes(x = Year_mark, y = Deaths_rank, fill = Group),
                width = 0.7,
@@ -246,9 +250,9 @@ fig2 <- ggplot() +
                   linejoin = "round",
                   show.legend = F,
                   arrow = arrow(length = unit(2, "mm"))) +
-     coord_cartesian(ylim = c(36, 2), xlim = c(1, 9.2)) +
-     scale_x_continuous(breaks = 1:9,
-                        labels = c('2007-2010', '2011-2014', '2015-2018', as.character(2019:2024))) +
+     coord_cartesian(ylim = c(36, 2), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
+     scale_x_continuous(breaks = unique(data_plot$Year_mark),
+                        labels = unique(data_plot$Year_group)) +
      scale_fill_manual(values = fill_color) +
      scale_color_manual(values = c('Decrease' = '#4DBBD5FF', 'Constant' = '#8491B4FF', 'Increase' = '#E64B35FF')) +
      theme_plot() +

@@ -19,7 +19,8 @@ list_disease_files <- list.files("../Data/CleanData/",
                                   pattern = "mcd.csv",
                                   full.names = T)
 data_month <- lapply(list_disease_files, read.csv) |>
-     bind_rows()
+     bind_rows() |> 
+     filter(Year < 2024)
 
 rm(list_disease_files)
 
@@ -91,7 +92,7 @@ fig1 <- ggplot(data = fig1_data)+
      scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
                         limits = c(0, NA),
                         label = scientific_10)+
-     theme_plot() +
+     theme_set() +
      theme(legend.position = 'right',
            axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
      labs(y = "Cumulative cases",
@@ -115,8 +116,12 @@ fig1_in <- ggplot(data = filter(fig1_data, Cases <= 3e5))+
                         limits = c(0, 3e5),
                         breaks = c(0, 1e5, 2e5, 3e5),
                         label = scientific_10)+
-     theme_plot() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
+     theme_set() +
+     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+           # transparent background
+           panel.background = element_rect(fill = "transparent", color = NA),
+           plot.background = element_rect(fill = "transparent", color = NA),
+           legend.background = element_rect(fill = "transparent", color = NA)) +
      labs(y = NULL,
           x = NULL,
           fill = NULL)
@@ -137,7 +142,7 @@ fig3 <- ggplot(data = fig3_data)+
      scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
                         limits = c(0, NA),
                         label = scientific_10)+
-     theme_plot() +
+     theme_set() +
      theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
      labs(y = "Cumulative deaths",
           x = NULL,
@@ -155,8 +160,12 @@ fig3_in <- ggplot(data = filter(fig1_data, Deaths <= 1e3))+
                         limits = c(0, 1e3),
                         breaks = c(0, 500, 1e3),
                         label = scientific_10)+
-     theme_plot() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
+     theme_set() +
+     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+           # transparent background
+           panel.background = element_rect(fill = "transparent", color = NA),
+           plot.background = element_rect(fill = "transparent", color = NA),
+           legend.background = element_rect(fill = "transparent", color = NA)) +
      labs(y = NULL,
           x = NULL,
           fill = NULL)
