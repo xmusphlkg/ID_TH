@@ -85,14 +85,39 @@ plot_map_year <- function(d, data_region, data_map, y, breaks_incidence, breaks_
 
 plot_map <- function(d, data_region, data_map) {
      # d <- 'Chickenpox'
+     # check all incidence values are zero
      breaks_incidence <- data_region |>
           filter(Shortname == d) |>
-          pull(Incidence) |>
-          pretty(n = 4)
+          pull(Incidence)
+     
+     if(all(breaks_incidence == 0)) {
+          breaks_incidence <- c(0, 1, 2, 3, 4)
+     } else {
+          breaks_incidence <- breaks_incidence |>
+               pretty(n = 4, min.n = 4)
+     }
+     
+     # check all mortality values are zero
      breaks_mortality <- data_region |>
           filter(Shortname == d) |>
-          pull(Mortality) |>
-          pretty(n = 4)
+          pull(Mortality)
+     
+     if(all(breaks_mortality == 0)) {
+          breaks_mortality <- c(0, 0.001, 0.002, 0.003, 0.004)
+     } else {
+          breaks_mortality <- breaks_mortality |>
+               pretty(n = 4, min.n = 4)
+     }
+     
+     # force the breaks to be 4
+     if (length(breaks_incidence) != 4) {
+          breaks_incidence <- as.numeric(quantile(breaks_incidence))
+     }
+     if (length(breaks_mortality) != 4) {
+          breaks_mortality <- as.numeric(quantile(breaks_mortality))
+     }
+     
+     
      break_vals <- list(
           bi_x = breaks_incidence,
           bi_y = breaks_mortality
@@ -117,7 +142,8 @@ plot_map <- function(d, data_region, data_map) {
                    breaks_mortality = breaks_mortality)
      
      # add legend to fig
-     fig[[length(fig) + 1]] <- legend
+     fig[[length(fig) + 1]] <- ggdraw() +
+          draw_plot(legend, x = 0.5, y = 0.5, width = 1, height = 1, vjust = 0.5, hjust = 0.5)
      fig <- patchwork::wrap_plots(fig, ncol = 5)
      
      # save the plot
