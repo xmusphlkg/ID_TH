@@ -104,7 +104,7 @@ plot_map <- function(i) {
           theme(legend.position = "bottom",
                 panel.grid = element_blank(),
                 axis.text = element_text(size = 8, color = "black"),
-                plot.title = element_text(face = "bold", size = 10, color = "black"),
+                plot.title = element_text(face = "bold", size = 14, color = "black"),
                 plot.title.position = "plot") +
           guides(fill = guide_colourbar(barwidth = 15,
                                         title.position = "top",

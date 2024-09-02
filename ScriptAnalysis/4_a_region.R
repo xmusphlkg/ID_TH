@@ -246,7 +246,7 @@ plot_map_group <- function(index, data_region_leading, data_map, year_group, y) 
                             na.value = "white") +
           theme_map() +
           theme(legend.position = "bottom",
-                plot.title = element_text(face = "bold", size = 12, hjust = 0),
+                plot.title = element_text(face = "bold", size = 14, hjust = 0),
                 legend.text = element_text(face = "bold", size = 10),
                 legend.title = element_text(face = "bold", size = 12),
                 legend.box.background = element_rect(fill = "transparent", colour = "transparent"))+

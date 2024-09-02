@@ -103,13 +103,14 @@ plot_single <- function(i) {
           scale_x_date(expand = expansion(add = c(15, 15)),
                        date_breaks = "1 year",
                        date_labels = "%Y") +
-          scale_y_continuous(name = "Monthly Incidence",
+          scale_y_continuous(name = "Monthly cases",
                              expand = expansion(mult = c(0, 0.25)),
                              limits = c(0, NA),
                              breaks = pretty(c(0, max(data_group_single$Cases)*1.25), n = 4),
-                             labels = scientific_10,
-                             sec.axis = sec_axis(~ . / scale_factor,
-                                                 name = "Monthly Deaths")) +
+                             labels = scientific_10
+                             # sec.axis = sec_axis(~ . / scale_factor,
+                             #                     name = "Monthly deaths")
+                             ) +
           scale_fill_manual(values = back_color) +
           scale_color_manual(values = fill_color)+
           theme_bw() +
@@ -119,7 +120,7 @@ plot_single <- function(i) {
                 panel.grid.minor.y = element_blank(),
                 axis.text = element_text(size = 10.5, color = "black"),
                 axis.title.y = element_text(size = 11, color = "black", face = "bold"),
-                plot.title = element_text(face = "bold", size = 12, color = "black"),
+                plot.title = element_text(face = "bold", size = 14, color = "black"),
                 plot.title.position = "plot") +
           labs(x = NULL,
                y = "Monthly cases",
@@ -147,7 +148,7 @@ plot_single <- function(i) {
           theme(legend.position = "bottom",
                 panel.grid = element_blank(),
                 axis.text = element_text(size = 10.5, color = "black"),
-                plot.title = element_text(face = "bold", size = 12, color = "black"),
+                plot.title = element_text(face = "bold", size = 14, color = "black"),
                 plot.title.position = "plot") +
           guides(fill = guide_colourbar(barwidth = 10,
                                         barheight = 0.5,
