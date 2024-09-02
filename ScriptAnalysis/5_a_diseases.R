@@ -201,7 +201,7 @@ fig <- wrap_plots(plot_list, ncol = 1) +
 ggsave(filename = "../outcome/publish/fig5.pdf",
        plot = fig,
        width = 12,
-       height = 20,
+       height = 22,
        device = cairo_pdf,
        family = "Times New Roman")
 
