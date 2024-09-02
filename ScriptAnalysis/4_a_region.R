@@ -9,6 +9,7 @@ library(sf)
 library(biscale)
 library(ggthemes)
 library(doParallel)
+library(openxlsx)
 
 # data --------------------------------------------------------------------
 
@@ -157,7 +158,7 @@ plot_map <- function(d, data_region, data_map) {
      )
 }
 
-fig <- plot_map('Chickenpox', data_region, data_map)
+# fig <- plot_map('Chickenpox', data_region, data_map)
 
 disease_name <- data_class$Shortname
 
@@ -176,3 +177,120 @@ clusterEvalQ(cl, {
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, disease_name, plot_map, data_region = data_region, data_map = data_map)
 stopCluster(cl)
+
+data_region_leading <- data_region |>
+     mutate(Year_group = if_else(Year >= 2019,
+                                 as.character(Year),
+                                 if_else(Year >= 2015,
+                                         '2015-2018',
+                                         if_else(Year >= 2011,
+                                                 '2011-2014',
+                                                 '2007-2010'))),
+            Year_mark = case_when(Year_group == '2007-2010' ~ 1,
+                                  Year_group == '2011-2014' ~ 2,
+                                  Year_group == '2015-2018' ~ 3,
+                                  TRUE ~ as.integer(Year_group) - 2015)) |> 
+     group_by(Group, Shortname, Year_group, Year_mark, Areas) |>
+     summarise(Incidence = mean(Incidence, na.rm = T),
+               Mortality = mean(Mortality, na.rm = T),
+               CFR = mean(CFR, na.rm = T),
+               .groups = 'drop') |> 
+     # finding leading causes of death, case and CFR in each age group
+     group_by(Areas, Year_group, Year_mark) |>
+     summarise(Max_Incidence_Disease = Shortname[which.max(Incidence)],
+               Max_Mortality_Disease = Shortname[which.max(Mortality)],
+               Max_CFR_Disease = Shortname[which.max(CFR)],
+               .groups = 'drop')
+
+# plot --------------------------------------------------------------------
+
+set.seed(20240901)
+
+source("./function/theme_set.R")
+
+year_group <- unique(data_region_leading$Year_group)
+
+max_disease <- data_region_leading |>
+     select(Max_Incidence_Disease, Max_Mortality_Disease, Max_CFR_Disease) |>
+     unlist() |>
+     table() |> 
+     sort(decreasing = T) |>
+     as.data.frame() |> 
+     rename(Disease = Var1, Count = Freq) |>
+     mutate(DiseaseLabel = if_else(Count > 30, Disease, "Others")) |> 
+     select(-Count)
+fill_color_disease <- c(fill_color_disease, "grey")
+names(fill_color_disease) <- c(head(unique(max_disease$DiseaseLabel), 10), "Others")
+
+data_region_leading <- data_region_leading |>
+     pivot_longer(cols = c(Max_Incidence_Disease, Max_Mortality_Disease, Max_CFR_Disease),
+                  names_to = "Type", values_to = "Disease") |>
+     left_join(max_disease, by = "Disease")
+     
+plot_map_group <- function(index, data_region_leading, data_map, year_group, y) {
+     
+     # y <- '2007-2010'
+     # index <- 'Max_Incidence_Disease'
+     
+     data <- sp::merge(data_map, data_region_leading |>
+                                      filter(Year_group == year_group[y] & Type == index) |>
+                                      select(Areas, Disease, DiseaseLabel),
+                                 by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
+          mutate(DiseaseLabel = factor(DiseaseLabel, levels = names(fill_color_disease)))
+     
+     fig <- ggplot(data) +
+          geom_sf(aes(fill = DiseaseLabel),
+                  color = "black", linewidth = 0.3, show.legend = T) +
+          scale_fill_manual(values = fill_color_disease,
+                            drop = F,
+                            na.value = "white") +
+          theme_map() +
+          theme(legend.position = "bottom",
+                plot.title = element_text(face = "bold", size = 12, hjust = 0),
+                legend.text = element_text(face = "bold", size = 10),
+                legend.title = element_text(face = "bold", size = 12),
+                legend.box.background = element_rect(fill = "transparent", colour = "transparent"))+
+          # display all disease label in the legend
+          guides(fill = guide_legend(ncol = 1, title.position = 'top')) +
+          labs(fill = paste0("Leading disease in\n", tolower(str_extract(index, "Incidence|Mortality"))),
+               title = LETTERS[ifelse(index == 'Max_Incidence_Disease', y, y + 9)])
+     
+     return(fig)
+}
+
+fig_incidence <- lapply(1:length(year_group), plot_map_group,
+                        data_region_leading = data_region_leading,
+                        data_map = data_map,
+                        year_group= year_group,
+                        index = 'Max_Incidence_Disease')
+fig_incidence <- fig_incidence |>
+     reduce(`+`) +
+     guide_area() +
+     plot_layout(ncol = 5, guides = "collect")
+
+fig_mortality <- lapply(1:length(year_group), plot_map_group,
+                        data_region_leading = data_region_leading,
+                        data_map = data_map,
+                        year_group= year_group,
+                        index = 'Max_Mortality_Disease')
+fig_mortality <- fig_mortality |>
+     reduce(`+`) +
+     guide_area() +
+     plot_layout(ncol = 5, guides = "collect")
+
+# merge plot --------------------------------------------------------------
+
+# bind the two lists
+fig <- fig_incidence / fig_mortality
+
+ggsave(filename = "../outcome/publish/fig4.pdf",
+       plot = fig,
+       width = 12,
+       height = 18,
+       device = cairo_pdf,
+       family = "Times New Roman")
+
+# figure data
+write.xlsx(data_region_leading,
+           file = "../outcome/Appendix/figure_data/fig4.xlsx")
+
