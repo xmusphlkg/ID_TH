@@ -34,7 +34,7 @@ disease_name <- data_class$Shortname
 
 # process model -----------------------------------------------------------
 
-process_model <- function(mod, ts_train, ts_test, test_length, add_value, index_labels, ts_obse, data_single, split_date, max_case, method_name, plot_number) {
+process_model <- function(mod, ts_train, ts_test, test_length, index_labels, ts_obse, data_single, split_date, max_case, method_name, plot_number) {
      
      # Generate forecasts
      outcome <- forecast(mod, h = test_length)
@@ -120,14 +120,14 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
                         start = c(as.numeric(format(train_range[1], "%Y")),
                                   as.numeric(format(train_range[1], "%m"))),
                         end = c(as.numeric(format(train_range[2], "%Y")),
-                                as.numeric(format(train_range[2], "%m"))))
+                                as.numeric(format(train_range[2], "%m")))) + add_value
      ts_train <- log(ts_train)
      
      ts_test <- window(ts_obse,
                        end = c(as.numeric(format(test_range[2], "%Y")),
                                as.numeric(format(test_range[2], "%m"))),
                        start = c(as.numeric(format(test_range[1], "%Y")),
-                                 as.numeric(format(test_range[1], "%m"))))
+                                 as.numeric(format(test_range[1], "%m")))) + add_value
      ts_test <- log(ts_test)
      test_length <- length(ts_test)
      
@@ -135,10 +135,10 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      
      ## NNET --------------------------------------------------------------------
      
-     mod <- nnetar(ts_train, lambda = "auto")
+     mod <- nnetar(ts_train, lambda = NULL)
      outcome <- process_model(mod, ts_train,
                               ts_test, test_length,
-                              add_value, index_labels,
+                              index_labels,
                               ts_obse, data_single,
                               split_date, max_case,
                               "Neural Network", 1)
@@ -148,10 +148,10 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      
      # ETS ---------------------------------------------------------------------
      
-     mod <- ets(ts_train, ic = "aicc", lambda = "auto")
+     mod <- ets(ts_train, ic = "aicc", lambda = NULL)
      outcome <- process_model(mod, ts_train,
                               ts_test, test_length,
-                              add_value, index_labels,
+                              index_labels,
                               ts_obse, data_single,
                               split_date, max_case,
                               "ETS", 2)
@@ -161,10 +161,10 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      
      # SARIMA -------------------------------------------------------------------
      
-     mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = "auto")
+     mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = NULL)
      outcome <- process_model(mod, ts_train,
                               ts_test, test_length,
-                              add_value, index_labels,
+                              index_labels,
                               ts_obse, data_single,
                               split_date, max_case,
                               "SARIMA", 3)
@@ -179,7 +179,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      mod <- tbats(ts_train, seasonal.periods = 12)
      outcome <- process_model(mod, ts_train,
                               ts_test, test_length,
-                              add_value, index_labels,
+                              index_labels,
                               ts_obse, data_single,
                               split_date, max_case,
                               "TBATS", 4)
@@ -190,7 +190,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      # Mixture ts --------------------------------------------------------------
      
      mod <- hybridModel(ts_train,
-                        lambda = "auto",
+                        lambda = NULL,
                         models = c("aent"),
                         a.args = list(seasonal = T),
                         weights = "cv.errors",
@@ -199,7 +199,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
                         errorMethod = "RMSE")
      outcome <- process_model(mod, ts_train,
                               ts_test, test_length,
-                              add_value, index_labels,
+                              index_labels,
                               ts_obse, data_single,
                               split_date, max_case,
                               "Hybrid", 5)
@@ -287,9 +287,13 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
 
 # run model ---------------------------------------------------------------
 
-# auto_select_function(6)
+# auto_select_function(37, split_date = split_dates[1], add_value = add_value, index_labels = index_labels)
 
-cl <- makeCluster(length(disease_name))
+number_process <- ifelse(length(disease_name) >= max_proces,
+                         max_proces,
+                         length(disease_name))
+
+cl <- makeCluster(number_process)
 registerDoParallel(cl)
 clusterEvalQ(cl, {
      

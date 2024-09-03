@@ -94,3 +94,6 @@ split_periods <- c("Pre-COVID-19",
                    "Endemic")
 back_color <- c('white',"grey", "white", "grey", "white")
 names(back_color) <- split_periods
+
+# max process: 20
+max_proces <- 37
