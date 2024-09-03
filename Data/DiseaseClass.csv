@@ -60,7 +60,7 @@ Streptococcus suis,4748,24,Streptococcus suis,Streptococcus suis,Vector-borne an
 Syphilis,114486,36,Syphilis,Syphilis,Sexually ID,1,
 T.B. other organs,85995,36,Tuberculosis other organs,Other TB,Respiratory ID,1,
 T.B.meningitis,6710,36,Tuberculous meningitis,TBM,Respiratory ID,1,
-Tetanus exc.Neo,1441,36,Tetanus exc.Neo,Other tetanus,Vaccine preventable ID,1,
+Tetanus exc.Neo,1441,36,Tetanus,Other tetanus,Vaccine preventable ID,1,
 Tetanus neonatorum,21,36,Tetanus neonatorum,Neonatal tetanus,Vaccine preventable ID,0,Insufficient cases
 Trichinosis,287,36,Trichinosis,Trichinosis,Vector-borne and zoonotic ID,0,Insufficient cases
 Typhoid,36253,36,Typhoid,Typhoid,Gastrointestinal ID,1,

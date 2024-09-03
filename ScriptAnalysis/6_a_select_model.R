@@ -27,7 +27,6 @@ source("./function/forecast.R")
 
 load("./month.RData")
 
-split_date <- split_dates[1]
 train_range <- c(as.Date('2007-1-1'), as.Date('2018-12-1'))
 test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))
 
@@ -42,18 +41,18 @@ process_model <- function(mod, ts_train, ts_test, test_length, add_value, index_
      
      # Prepare outcome data for plotting
      outcome_plot_1 <- data.frame(date = zoo::as.Date(time(outcome$x)),
-                                  simu = as.numeric(as.matrix(outcome$x)) - add_value,
-                                  fit = as.numeric(as.matrix(outcome$fitted)) - add_value)
+                                  simu = exp(as.matrix(outcome$x)),
+                                  fit = exp(as.matrix(outcome$fitted)))
      
      outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                  mean = as.matrix(outcome$mean) - add_value)
+                                  mean = exp(as.matrix(outcome$mean)))
      
      if ("lower" %in% names(outcome)) {
           outcome_plot_2 <- cbind(outcome_plot_2,
-                                  lower_80 = as.matrix(outcome$lower[, 1]) - add_value,
-                                  lower_95 = as.matrix(outcome$lower[, 2]) - add_value,
-                                  upper_80 = as.matrix(outcome$upper[, 1]) - add_value,
-                                  upper_95 = as.matrix(outcome$upper[, 2]) - add_value)
+                                  lower_80 = exp(as.matrix(outcome$lower[, 1])),
+                                  lower_95 = exp(as.matrix(outcome$lower[, 2])),
+                                  upper_80 = exp(as.matrix(outcome$upper[, 1])),
+                                  upper_95 = exp(as.matrix(outcome$upper[, 2])))
           plot_ribbon <- T
      } else {
           plot_ribbon <- F
@@ -63,8 +62,7 @@ process_model <- function(mod, ts_train, ts_test, test_length, add_value, index_
      fit_goodness <- data.frame(Method = method_name,
                                 Index = index_labels,
                                 Train = evaluate_forecast(outcome_plot_1$fit, outcome_plot_1$simu),
-                                Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-                                "Train and Test" = evaluate_forecast(c(outcome_plot_1$fit, outcome_plot_2$mean), ts_obse))
+                                Test = evaluate_forecast(outcome_plot_2$mean, ts_test))
      
      # Plot results
      fig <- plot_outcome(outcome_plot_1,
@@ -81,16 +79,16 @@ process_model <- function(mod, ts_train, ts_test, test_length, add_value, index_
 
 table_build <- function(data_table, i) {
      index <- index_labels[i]
-     data <- data_table[data_table$Index == index, 1:4]
+     data <- data_table[data_table$Index == index, 1:3]
      ggtexttable(data,
                  rows = NULL,
-                 cols = c("Method", "Train", "Test", "All"),
+                 cols = c("Method", "Train", "Test"),
                  theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
      ) |>
           tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
           tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
           tab_add_title(paste(LETTERS[i + 6], ":", index, " of models"), face = "bold", size = 14) |>
-          tab_add_footnote("*Hybrid: Combined Neural network, ETS,\nSARIMA and TBATS model, weighted by\nRMSE",
+          tab_add_footnote("*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted byRMSE",
                            just = "left", hjust = 1, size = 10
           )
 }
@@ -99,21 +97,14 @@ table_build <- function(data_table, i) {
 
 i <- 2
 
-auto_select_function <- function(i) {
+auto_select_function <- function(i, split_date, add_value, index_labels) {
      set.seed(202408)
      data_single <- data_analysis |>
           filter(Shortname == disease_name[i]) |>
           select(Date, Shortname, Cases) |> 
           rename(date = 'Date',
                  value = 'Cases')
-     
-     ## HAV outbreak from June 2012 to August 2012
-     # if (disease_name[i] == "HAV") {
-     #   data_single$value[data_single$date >= as.Date("2012-06-01") & 
-     #                          data_single$date <= as.Date("2012-08-31")] <- NA
-     # }
-     
-     ## simulate date before 2020
+
      df_simu <- data_single |>
           arrange(date) |>
           unique() |>
@@ -129,12 +120,15 @@ auto_select_function <- function(i) {
                         start = c(as.numeric(format(train_range[1], "%Y")),
                                   as.numeric(format(train_range[1], "%m"))),
                         end = c(as.numeric(format(train_range[2], "%Y")),
-                                as.numeric(format(train_range[2], "%m")))) + add_value
+                                as.numeric(format(train_range[2], "%m"))))
+     ts_train <- log(ts_train)
+     
      ts_test <- window(ts_obse,
                        end = c(as.numeric(format(test_range[2], "%Y")),
                                as.numeric(format(test_range[2], "%m"))),
                        start = c(as.numeric(format(test_range[1], "%Y")),
-                                 as.numeric(format(test_range[1], "%m")))) + add_value
+                                 as.numeric(format(test_range[1], "%m"))))
+     ts_test <- log(ts_test)
      test_length <- length(ts_test)
      
      fit_goodness <- data.frame()
@@ -217,7 +211,7 @@ auto_select_function <- function(i) {
      
      ss <- AddLocalLinearTrend(list(), ts_train)
      ss <- AddSeasonal(ss, ts_train, nseasons = 12)
-     mod <- bsts(ts_train, state.specification = ss, niter = 500, seed = 20240826)
+     mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
      burn <- SuggestBurn(0.1, mod)
      outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
      
@@ -236,21 +230,11 @@ auto_select_function <- function(i) {
      )
      
      fit_goodness <- fit_goodness |>
-          rbind(
-               data.frame(
-                    Method = "Bayesian structural",
-                    Index = index_labels,
-                    Train = evaluate_forecast(
-                         outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
-                         outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]
-                    ),
-                    Test = evaluate_forecast(outcome_plot_2$mean, ts_test),
-                    "Train and Test" = evaluate_forecast(
-                         c(outcome_plot_1$fit, outcome_plot_2$mean),
-                         ts_obse
-                    )
-               )
-          )
+          rbind(data.frame(Method = "Bayesian structural",
+                           Index = index_labels,
+                           Train = evaluate_forecast(outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
+                                                     outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]),
+                           Test = evaluate_forecast(outcome_plot_2$mean, ts_test)))
      
      fig_baye_1 <- plot_outcome(
           outcome_plot_1,
@@ -270,11 +254,10 @@ auto_select_function <- function(i) {
           mutate(
                Method = factor(Method, levels = models, labels = models_label),
                Train = round(Train, 2),
-               Test = round(Test, 2),
-               All = round(Train.and.Test, 2)
+               Test = round(Test, 2)
           ) |>
           arrange(Method) |>
-          select(Method, Train, Test, All, Index)
+          select(Method, Train, Test, Index)
      data_table[is.na(data_table)] <- ""
      
      fig_table <- lapply(1:length(index_labels), table_build, data_table = data_table) |>
@@ -304,8 +287,6 @@ auto_select_function <- function(i) {
 
 # run model ---------------------------------------------------------------
 
-i <- 6
-# lapply(1:26, auto_select_function)
 # auto_select_function(6)
 
 cl <- makeCluster(length(disease_name))
@@ -329,7 +310,10 @@ clusterEvalQ(cl, {
 })
 
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
-outcome <- parLapply(cl, 1:length(disease_name), auto_select_function)
+outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
+                      split_date = split_dates[1],
+                      add_value = add_value,
+                      index_labels = index_labels)
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)

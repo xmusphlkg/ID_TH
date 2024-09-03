@@ -212,38 +212,38 @@ source("./function/theme_set.R")
 year_group <- unique(data_region_leading$Year_group)
 
 max_disease <- data_region_leading |>
-     select(Max_Incidence_Disease, Max_Mortality_Disease, Max_CFR_Disease) |>
+     select(Max_Incidence_Disease, Max_Mortality_Disease) |>
      unlist() |>
      table() |> 
      sort(decreasing = T) |>
      as.data.frame() |> 
      rename(Disease = Var1, Count = Freq) |>
-     mutate(DiseaseLabel = if_else(Count > 30, Disease, "Others")) |> 
-     select(-Count)
+     mutate(DiseaseLabel = if_else(Count >= 10, Disease, "Others"))
 fill_color_disease <- c(fill_color_disease, "grey")
-names(fill_color_disease) <- c(head(unique(max_disease$DiseaseLabel), 10), "Others")
+names(fill_color_disease) <- c(head(max_disease$DiseaseLabel, 10), "Others")
 
 data_region_leading <- data_region_leading |>
-     pivot_longer(cols = c(Max_Incidence_Disease, Max_Mortality_Disease, Max_CFR_Disease),
+     pivot_longer(cols = c(Max_Incidence_Disease, Max_Mortality_Disease),
                   names_to = "Type", values_to = "Disease") |>
      left_join(max_disease, by = "Disease")
      
 plot_map_group <- function(index, data_region_leading, data_map, year_group, y) {
      
-     # y <- '2007-2010'
+     # y <- 1
      # index <- 'Max_Incidence_Disease'
      
      data <- sp::merge(data_map, data_region_leading |>
                                       filter(Year_group == year_group[y] & Type == index) |>
                                       select(Areas, Disease, DiseaseLabel),
                                  by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
-          mutate(DiseaseLabel = factor(DiseaseLabel, levels = names(fill_color_disease)))
+          mutate(DiseaseLabel = factor(DiseaseLabel, levels = unique(max_disease$DiseaseLabel)))
      
      fig <- ggplot(data) +
           geom_sf(aes(fill = DiseaseLabel),
                   color = "black", linewidth = 0.3, show.legend = T) +
           scale_fill_manual(values = fill_color_disease,
                             drop = F,
+                            na.translate = F,
                             na.value = "white") +
           theme_map() +
           theme(legend.position = "bottom",

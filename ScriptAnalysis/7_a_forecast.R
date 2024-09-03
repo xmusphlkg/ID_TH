@@ -50,11 +50,6 @@ auto_analysis_function <- function(i) {
           select(Date, Shortname, Cases) |> 
           rename(date = 'Date',
                  value = 'Cases')
-     data_rect <- data.frame(start = c(min(data_single$date), split_dates),
-                             end = c(split_dates, max(data_single$date)),
-                             label = split_periods) |>
-          mutate(m = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01"),
-                 label = factor(label, levels = split_periods))
      
      ## setting training data
      ts_train <- data_single |>
@@ -82,7 +77,7 @@ auto_analysis_function <- function(i) {
           outcome_2 <- forecast(mod, h = forcast_length)
           
           outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome_2$mean)),
-                                       mean = as.matrix(outcome_2$mean),
+                                       mean = exp(as.matrix(outcome_2$mean)),
                                        lower_80 = NA,
                                        lower_95 = NA,
                                        upper_80 = NA,
@@ -172,7 +167,6 @@ auto_analysis_function <- function(i) {
                row.names = F)
      
      return(list(outcome_data = outcome_data,
-                 data_rect = data_rect,
                  data_single = data_single,
                  outcome_plot_1 = outcome_plot_1,
                  outcome_plot_2 = outcome_plot_2,
