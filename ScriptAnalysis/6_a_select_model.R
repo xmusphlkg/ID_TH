@@ -137,6 +137,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
      set.seed(sample(1:100, 1))
      models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
      models_order <- sample(models)
+     print(models_order)
      
      # models -----------------------------------------------------------------
      
@@ -282,8 +283,8 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
 
 # run model ---------------------------------------------------------------
 
-auto_select_function(37, split_date = split_dates[1], add_value = add_value,
-                     index_labels = index_labels, models = models, models_label = models_label)
+# auto_select_function(37, split_date = split_dates[1], add_value = add_value,
+#                      index_labels = index_labels, models = models, models_label = models_label)
 
 number_process <- ifelse(length(disease_name) >= max_proces,
                          max_proces,
@@ -292,7 +293,6 @@ number_process <- ifelse(length(disease_name) >= max_proces,
 cl <- makeCluster(number_process)
 registerDoParallel(cl)
 clusterEvalQ(cl, {
-     
      library(tidyverse)
      library(stats)
      library(tseries)
@@ -305,15 +305,15 @@ clusterEvalQ(cl, {
      library(Cairo)
      library(ggpubr)
      library(paletteer)
-     
-     set.seed(20240806)
 })
 
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
                       split_date = split_dates[1],
                       add_value = add_value,
-                      index_labels = index_labels)
+                      index_labels = index_labels,
+                      models = models,
+                      models_label = models_label)
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)

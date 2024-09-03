@@ -29,10 +29,10 @@ plot_outcome <- function(outcome_plot_1,
      
      if (inter) {
           fig1 <- fig1 +
-               geom_ribbon(mapping = aes(x = date, ymin = lower_80, ymax = upper_80, fill = '#0F7BA2FF'),
-                           data = outcome_plot_2, alpha = 0.3, show.legend = F)+
-               geom_ribbon(mapping = aes(x = date, ymin = lower_95, ymax = upper_95, fill = '#0F7BA2FF'),
-                           data = outcome_plot_2, alpha = 0.3, show.legend = F)
+               geom_ribbon(mapping = aes(x = date, ymin = lower_80, ymax = upper_80),
+                           data = outcome_plot_2, fill = '#0F7BA2FF', alpha = 0.3, show.legend = F)+
+               geom_ribbon(mapping = aes(x = date, ymin = lower_95, ymax = upper_95),
+                           data = outcome_plot_2, fill = '#0F7BA2FF', alpha = 0.3, show.legend = F)
      }
      
      fig1 <- fig1 +
