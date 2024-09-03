@@ -97,8 +97,7 @@ table_build <- function(data_table, i) {
 
 i <- 2
 
-auto_select_function <- function(i, split_date, add_value, index_labels) {
-     set.seed(202408)
+auto_select_function <- function(i, split_date, add_value, index_labels, models, models_label) {
      data_single <- data_analysis |>
           filter(Shortname == disease_name[i]) |>
           select(Date, Shortname, Cases) |> 
@@ -131,131 +130,127 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
      ts_test <- log(ts_test)
      test_length <- length(ts_test)
      
+     # save the outcome
      fit_goodness <- data.frame()
      
-     ## NNET --------------------------------------------------------------------
+     # random model order
+     set.seed(sample(1:100, 1))
+     models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+     models_order <- sample(models)
      
-     mod <- nnetar(ts_train, lambda = NULL)
-     outcome <- process_model(mod, ts_train,
-                              ts_test, test_length,
-                              index_labels,
-                              ts_obse, data_single,
-                              split_date, max_case,
-                              "Neural Network", 1)
-     fit_goodness <- rbind(fit_goodness, outcome[[1]])
-     fig_nnet_1 <- outcome[[2]]
-     rm(mod, outcome)
+     # models -----------------------------------------------------------------
      
-     # ETS ---------------------------------------------------------------------
-     
-     mod <- ets(ts_train, ic = "aicc", lambda = NULL)
-     outcome <- process_model(mod, ts_train,
-                              ts_test, test_length,
-                              index_labels,
-                              ts_obse, data_single,
-                              split_date, max_case,
-                              "ETS", 2)
-     fit_goodness <- rbind(fit_goodness, outcome[[1]])
-     fig_ets_1 <- outcome[[2]]
-     rm(mod, outcome)
-     
-     # SARIMA -------------------------------------------------------------------
-     
-     mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = NULL)
-     outcome <- process_model(mod, ts_train,
-                              ts_test, test_length,
-                              index_labels,
-                              ts_obse, data_single,
-                              split_date, max_case,
-                              "SARIMA", 3)
-     fit_goodness <- rbind(fit_goodness, outcome[[1]])
-     fig_sarima_1 <- outcome[[2]]
-     rm(mod, outcome)
-     
-     # tbats -------------------------------------------------------------------
-     # Exponential smoothing state space model with Box-Cox transformation, ARMA errors,
-     # Trend and Seasonal components
-     
-     mod <- tbats(ts_train, seasonal.periods = 12)
-     outcome <- process_model(mod, ts_train,
-                              ts_test, test_length,
-                              index_labels,
-                              ts_obse, data_single,
-                              split_date, max_case,
-                              "TBATS", 4)
-     fit_goodness <- rbind(fit_goodness, outcome[[1]])
-     fig_tbats_1 <- outcome[[2]]
-     rm(mod, outcome)
-     
-     # Mixture ts --------------------------------------------------------------
-     
-     mod <- hybridModel(ts_train,
-                        lambda = NULL,
-                        models = c("aent"),
-                        a.args = list(seasonal = T),
-                        weights = "cv.errors",
-                        windowSize = 36,
-                        parallel = TRUE, num.cores = 10,
-                        errorMethod = "RMSE")
-     outcome <- process_model(mod, ts_train,
-                              ts_test, test_length,
-                              index_labels,
-                              ts_obse, data_single,
-                              split_date, max_case,
-                              "Hybrid", 5)
-     fit_goodness <- rbind(fit_goodness, outcome[[1]])
-     fig_hyb_1 <- outcome[[2]]
-     rm(mod, outcome)
-     
-     # Bayesian --------------------------------------------------------------
-     
-     ss <- AddLocalLinearTrend(list(), ts_train)
-     ss <- AddSeasonal(ss, ts_train, nseasons = 12)
-     mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
-     burn <- SuggestBurn(0.1, mod)
-     outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
-     
-     outcome_plot_1 <- data.frame(
-          date = zoo::as.Date(time(ts_train)),
-          simu = as.numeric(ts_train) - add_value,
-          fit = as.numeric(-colMeans(mod$one.step.prediction.errors[-(1:burn), ]) + ts_train) - add_value
-     )
-     outcome_plot_2 <- data.frame(
-          date = as.Date(time(ts_test)),
-          mean = outcome$mean - add_value,
-          lower_80 = outcome$interval[2, ] - add_value,
-          lower_95 = outcome$interval[1, ] - add_value,
-          upper_80 = outcome$interval[3, ] - add_value,
-          upper_95 = outcome$interval[4, ] - add_value
-     )
-     
-     fit_goodness <- fit_goodness |>
-          rbind(data.frame(Method = "Bayesian structural",
-                           Index = index_labels,
-                           Train = evaluate_forecast(outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
-                                                     outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]),
-                           Test = evaluate_forecast(outcome_plot_2$mean, ts_test)))
-     
-     fig_baye_1 <- plot_outcome(
-          outcome_plot_1,
-          outcome_plot_2,
-          data_single,
-          split_date,
-          max_case,
-          6,
-          T,
-          "Bayesian structural"
-     )
-     rm(mod, outcome, outcome_plot_1, outcome_plot_2)
-     
+     for (model_type in models_order) {
+          set.seed(20240902)
+          
+          if (model_type == "Neural Network") {
+               mod <- nnetar(ts_train, lambda = NULL)
+               outcome <- process_model(mod, ts_train,
+                                        ts_test, test_length,
+                                        index_labels,
+                                        ts_obse, data_single,
+                                        split_date, max_case,
+                                        "Neural Network", 1)
+               # add the outcome to the list
+               fit_goodness <- rbind(fit_goodness, outcome[[1]])
+               fig_nnet_1 <- outcome[[2]]
+               rm(mod, outcome)
+          } else if (model_type == "ETS") {
+               mod <- ets(ts_train, ic = "aicc", lambda = NULL)
+               outcome <- process_model(mod, ts_train,
+                                        ts_test, test_length,
+                                        index_labels,
+                                        ts_obse, data_single,
+                                        split_date, max_case,
+                                        "ETS", 2)
+               fit_goodness <- rbind(fit_goodness, outcome[[1]])
+               fig_ets_1 <- outcome[[2]]
+               rm(mod, outcome)
+          } else if (model_type == "SARIMA") {
+               mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = NULL)
+               outcome <- process_model(mod, ts_train,
+                                        ts_test, test_length,
+                                        index_labels,
+                                        ts_obse, data_single,
+                                        split_date, max_case,
+                                        "SARIMA", 3)
+               fit_goodness <- rbind(fit_goodness, outcome[[1]])
+               fig_sarima_1 <- outcome[[2]]
+               rm(mod, outcome)
+          } else if (model_type == "TBATS") {
+               # Exponential smoothing state space model with Box-Cox transformation, ARMA errors,
+               # Trend and Seasonal components
+               mod <- tbats(ts_train, seasonal.periods = 12)
+               outcome <- process_model(mod, ts_train,
+                                        ts_test, test_length,
+                                        index_labels,
+                                        ts_obse, data_single,
+                                        split_date, max_case,
+                                        "TBATS", 4)
+               fit_goodness <- rbind(fit_goodness, outcome[[1]])
+               fig_tbats_1 <- outcome[[2]]
+               rm(mod, outcome)
+          } else if (model_type == "Hybrid") {
+               mod <- hybridModel(ts_train,
+                                  lambda = NULL,
+                                  models = c("aent"),
+                                  a.args = list(seasonal = T),
+                                  weights = "cv.errors",
+                                  windowSize = 36,
+                                  parallel = TRUE, num.cores = 10,
+                                  errorMethod = "RMSE")
+               outcome <- process_model(mod, ts_train,
+                                        ts_test, test_length,
+                                        index_labels,
+                                        ts_obse, data_single,
+                                        split_date, max_case,
+                                        "Hybrid", 5)
+               fit_goodness <- rbind(fit_goodness, outcome[[1]])
+               fig_hyb_1 <- outcome[[2]]
+               rm(mod, outcome)
+          } else if (model_type == "Bayesian structural") {
+               ss <- AddLocalLinearTrend(list(), ts_train)
+               ss <- AddSeasonal(ss, ts_train, nseasons = 12)
+               mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
+               burn <- SuggestBurn(0.1, mod)
+               outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
+               
+               outcome_plot_1 <- data.frame(
+                    date = zoo::as.Date(time(ts_train)),
+                    simu = as.numeric(ts_train) - add_value,
+                    fit = as.numeric(-colMeans(mod$one.step.prediction.errors[-(1:burn), ]) + ts_train) - add_value
+               )
+               outcome_plot_2 <- data.frame(
+                    date = as.Date(time(ts_test)),
+                    mean = outcome$mean - add_value,
+                    lower_80 = outcome$interval[2, ] - add_value,
+                    lower_95 = outcome$interval[1, ] - add_value,
+                    upper_80 = outcome$interval[3, ] - add_value,
+                    upper_95 = outcome$interval[4, ] - add_value
+               )
+               
+               fit_goodness <- fit_goodness |>
+                    rbind(data.frame(Method = "Bayesian structural",
+                                     Index = index_labels,
+                                     Train = evaluate_forecast(outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
+                                                               outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]),
+                                     Test = evaluate_forecast(outcome_plot_2$mean, ts_test)))     
+               fig_baye_1 <- plot_outcome(outcome_plot_1,
+                                          outcome_plot_2,
+                                          data_single,
+                                          split_date,
+                                          max_case,
+                                          6, T, "Bayesian structural")
+               rm(mod, outcome, outcome_plot_1, outcome_plot_2)
+          }
+     }
+
      # summary table ---------------------------------------------------------
      
      data_table <- fit_goodness |>
-          mutate(
-               Method = factor(Method, levels = models, labels = models_label),
-               Train = round(Train, 2),
-               Test = round(Test, 2)
-          ) |>
+          mutate(Method = factor(Method, levels = models, labels = models_label),
+                 Train = round(Train, 2),
+                 Test = round(Test, 2)) |>
           arrange(Method) |>
           select(Method, Train, Test, Index)
      data_table[is.na(data_table)] <- ""
@@ -287,7 +282,8 @@ auto_select_function <- function(i, split_date, add_value, index_labels) {
 
 # run model ---------------------------------------------------------------
 
-# auto_select_function(37, split_date = split_dates[1], add_value = add_value, index_labels = index_labels)
+auto_select_function(37, split_date = split_dates[1], add_value = add_value,
+                     index_labels = index_labels, models = models, models_label = models_label)
 
 number_process <- ifelse(length(disease_name) >= max_proces,
                          max_proces,
