@@ -176,9 +176,11 @@ auto_analysis_function <- function(i) {
 }
 
 # run model ---------------------------------------------------------------
+number_process <- ifelse(length(disease_name) >= max_proces,
+                         max_proces,
+                         length(disease_name))
 
-
-cl <- makeCluster(length(disease_name))
+cl <- makeCluster(number_process)
 registerDoParallel(cl)
 clusterEvalQ(cl, {
      library(tidyverse)
