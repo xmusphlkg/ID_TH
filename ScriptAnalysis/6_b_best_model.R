@@ -27,9 +27,11 @@ data_goodness <- data_goodness |>
      pivot_wider(names_from = Index, values_from = Test) |> 
      ## z-normalization for each disease
      group_by(disease) |>
-     mutate(Index = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T)) |>
+     mutate(norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),
+            norRMSE = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T),
+            norMASE = -(MASE - mean(MASE, na.rm = T)) / sd(MASE, na.rm = T)) |>
      rowwise() |>
-     # mutate(Index = SMAPE) |> 
+     mutate(Index = sum(c_across(norSMAPE:norMASE), na.rm = T)) |>
      ungroup() |> 
      ## find the best method for each disease based on the maximum index
      group_by(disease) |>
@@ -42,8 +44,7 @@ diseases <- rev(data_class$Shortname)
 ## save normalized composite index
 data_table <- data_goodness |>
      mutate(across(where(is.numeric), ~ round(., 2))) |>
-     select(disease, Method, Best, Index, RMSE) |> 
-     left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = "Shortname"))
+     left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
 
 write.xlsx(data_table,
            "../Outcome/Appendix/figure_data/fig6.xlsx")
@@ -88,7 +89,7 @@ plot_map <- function(i) {
                     color = "black") +
           coord_equal(1/3) +
           scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
-                               limits = c(-3, 3)) +
+                               limits = c(-7, 7)) +
           scale_y_discrete(expand = expansion(add = c(0, 0))) +
           scale_x_discrete(expand = expansion(add = c(0, 0))) +
           theme_bw() +
