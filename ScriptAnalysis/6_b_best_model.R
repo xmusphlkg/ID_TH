@@ -89,6 +89,7 @@ plot_map <- function(i) {
                     color = "black") +
           coord_equal(1/3) +
           scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
+                               breaks = c(-7, -5, -3, -1, 0, 1, 3, 5, 7),
                                limits = c(-7, 7)) +
           scale_y_discrete(expand = expansion(add = c(0, 0))) +
           scale_x_discrete(expand = expansion(add = c(0, 0))) +

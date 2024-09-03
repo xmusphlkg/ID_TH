@@ -24,7 +24,6 @@ data_class$id <- 1:nrow(data_class)
 plot_single_panel <- function(i, g, outcome){
      # related data
      outcome_data <- outcome[[i]]$outcome_data
-     data_rect <- outcome[[i]]$data_rect
      outcome_plot_1 <- outcome[[i]]$outcome_plot_1
      outcome_plot_2 <- outcome[[i]]$outcome_plot_2
      max_value <- outcome[[i]]$max_value
@@ -34,10 +33,9 @@ plot_single_panel <- function(i, g, outcome){
      index <- which(data_class$id[data_class$Group == disease_groups[g]] == i)+1
      
      plot_breaks <- pretty(c(min_value, max_value, 0))
+     ylab <- ifelse(index %in% c(2, 6, 10), "Monthly cases", "")
      
      fig <- ggplot() +
-          geom_vline(xintercept = data_rect$end, show.legend = F,
-                     color = "grey", linetype = "longdash") +
           geom_line(data = outcome_plot_1, mapping = aes(x = date, y = value, colour = "Observed"),
                     linewidth = 0.7) +
           geom_line(data = outcome_plot_2, mapping = aes(x = date, y = mean, colour = "Forecasted"),
@@ -58,10 +56,12 @@ plot_single_panel <- function(i, g, outcome){
                             drop = F) +
           theme_set() +
           theme(legend.position = "bottom",
+                legend.direction = "horizontal",
+                legend.box = 'vertical',
                 plot.title.position = "panel",
                 legend.text = element_text(size = 10, hjust = 0.5, vjust = 0.5, face = "bold"))+
           labs(x = NULL,
-               y = "Monthly cases",
+               y = ylab,
                color = NULL,
                fill = NULL,
                title = paste0(LETTERS[index], ": ", data_class$Shortname[i]))+
@@ -89,9 +89,12 @@ plot_group_panel <- function(g, data_class){
      fig_group <- ggplot(data = data_group,
                          mapping = aes(fill = diff_percent, x = date_num, y = Shortname)) +
           geom_tile() +
-          geom_text(mapping = aes(label = label), vjust = 0.5) +
-          scale_fill_gradientn(colors = paletteer_d("awtools::a_palette"),
+          # geom_text(mapping = aes(label = label), vjust = 0.5) +
+          scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
                                trans = log_fill,
+                               breaks = c(0, 0.5, 1, 5, 10),
+                               labels = c(0, 0.5, 1, 5, '>10'),
+                               na.value = "#009392FF",
                                limits = c(0, 10)) +
           scale_x_discrete(breaks = paste(unique(year(data_group$date)), "01", sep = "."),
                            labels = unique(year(data_group$date)),
@@ -99,40 +102,49 @@ plot_group_panel <- function(g, data_class){
           scale_y_discrete(limits = rev(disease_name),
                            expand = c(0, 0)) +
           theme_plot() +
-          theme(legend.position = "bottom",
+          theme(legend.position = "right",
                 legend.text = element_text(size = 10, hjust = 0.5, vjust = 0.5, face = "bold"),
                 plot.title = element_text(size = 14, hjust = 0, vjust = 0.5, face = "bold"),
-                plot.title.position = "panel") +
-          guides(fill = guide_colourbar(barwidth = 10, barheight = 1, color = "black", title.position = "top")) +
+                plot.title.position = "plot") +
+          guides(fill = guide_colourbar(barwidth = 1, barheight = 10, color = "black", title.position = "top")) +
           labs(x = NULL,
                y = NULL,
-               fill = "Adjusted IRR",
+               fill = "IRR",
                title = paste0(LETTERS[1], ": ", disease_groups[g]))
      
      fig_disease <- lapply(disease_id, plot_single_panel, g = g, outcome = outcome)
      
      if (length(disease_id) == 6) {
-          design <- "\nAAAA\nBCDE\nFGHI"
+          design <- "\nBCDE\nFGHI"
           fig_h <- 9
+          rel_heights <- c(1, 2)
      } else if (length(disease_id) == 7) {
-          design <- "\nAAAA\nBCDE\nFGHI"
+          design <- "\nBCDE\nFGHI"
           fig_h <- 9
+          rel_heights <- c(1, 2)
      } else if (length(disease_id) == 8) {
-          design <- "\nAAAA\nBCDE\nFGHI"
+          design <- "\nBCDE\nFGHI"
           fig_h <- 10
+          rel_heights <- c(1, 2.1)
      } else if (length(disease_id) == 9) {
-          design <- "\nAAAA\nBCDE\nFGHI\nJKLN"
+          design <- "\nBCDE\nFGHI\nJKLN"
           fig_h <- 12
+          rel_heights <- c(1, 3)
      }
      
      if (fig_h == 10) {
-          fig <- fig_group + fig_disease +
-               plot_layout(design = design, guides = "collect") &
+          fig_disease <- fig_disease |>
+               reduce(`+`) +
+               plot_layout(design = design, guides = "collect")&
                theme(legend.position = "bottom")
      } else {
-          fig <- fig_group + fig_disease + guide_area()+
+          fig_disease <- fig_disease |> 
+               reduce(`+`) +
+               guide_area() +
                plot_layout(design = design, guides = "collect")
      }
+     
+     fig <- cowplot::plot_grid(fig_group, fig_disease, ncol = 1, rel_heights = rel_heights)
      
      ggsave(filename = paste0("../outcome/publish/fig", g+6, ".pdf"),
             plot = fig,
