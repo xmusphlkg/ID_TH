@@ -73,7 +73,7 @@ auto_analysis_function <- function(i) {
      print(data_class$Method[i])
      
      if (data_class$Method[i] == "Neural Network") {
-          mod <- nnetar(ts_train, lambda = "auto")
+          mod <- nnetar(ts_train, lambda = NULL)
           outcome_2 <- forecast(mod, h = forcast_length)
           
           outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome_2$mean)),
@@ -85,7 +85,7 @@ auto_analysis_function <- function(i) {
      }
      
      if (data_class$Method[i] == "ETS") {
-          outcome <- forecast(ets(ts_train, ic = "aicc", lambda = "auto"), h = forcast_length)
+          outcome <- forecast(ets(ts_train, ic = "aicc", lambda = NULL), h = forcast_length)
           outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
                                        mean = exp(as.matrix(outcome$mean)),
                                        lower_80 = exp(as.matrix(outcome$lower[, 1])),
@@ -118,7 +118,7 @@ auto_analysis_function <- function(i) {
      
      if (data_class$Method[i] == "Hybrid*") {
           mod <- hybridModel(ts_train,
-                             lambda = "auto",
+                             lambda = NULL,
                              models = c("aent"),
                              a.args = list(seasonal = T),
                              weights = "cv.errors",

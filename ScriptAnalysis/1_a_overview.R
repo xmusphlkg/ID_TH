@@ -127,7 +127,7 @@ fig1_in <- ggplot(data = filter(fig1_data, Cases <= 3e5))+
           fill = NULL)
 
 # add inner plot
-fig1 <- fig1 + inset_element(fig1_in, left = 0.05, bottom = 0.15, right = 1, top = 1.18)
+fig1 <- fig1 + inset_element(fig1_in, left = 0.05, bottom = 0.13, right = 1, top = 1.16)
 
 remove(fig1_in)
 
@@ -171,7 +171,7 @@ fig3_in <- ggplot(data = filter(fig1_data, Deaths <= 1e3))+
           fill = NULL)
 
 # add inner plot
-fig3 <- fig3 + inset_element(fig3_in, left = 0.05, bottom = 0.15, right = 1, top = 1.18)
+fig3 <- fig3 + inset_element(fig3_in, left = 0.05, bottom = 0.13, right = 1, top = 1.16)
 
 remove(fig3_in)
 
