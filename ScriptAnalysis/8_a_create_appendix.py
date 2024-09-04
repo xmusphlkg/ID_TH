@@ -7,7 +7,7 @@ import pandas as pd
 from reportlab.lib import utils
 
 # read data
-fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig1.xlsx', sheet_name='panel A')
+fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig1.xlsx', sheet_name='panel C')
 
 # the unique value in the 'Gruop' column of fig1_data_df
 value_group = fig1_data_df['Group'].unique()

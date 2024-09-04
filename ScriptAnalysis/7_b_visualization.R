@@ -71,7 +71,7 @@ plot_single_panel <- function(i, g, outcome){
                y = ylab,
                color = NULL,
                fill = NULL,
-               title = paste0(LETTERS[index], ": ", data_class$Shortname[i]))+
+               title = paste0(LETTERS[index], ": ", data_class$disease[i]))+
           guides(color = guide_legend(order = 1, override.aes = list(fill = NA)),
                  fill = guide_legend(order = 2))
      
@@ -84,11 +84,11 @@ plot_single_panel <- function(i, g, outcome){
 plot_group_panel <- function(g, data_class){
      # read data of multiple diseases from outcome
      disease_id <- data_class$id[data_class$Group == disease_groups[g]]
-     disease_name <- data_class$Shortname[data_class$Group == disease_groups[g]]
+     disease_name <- data_class$disease[data_class$Group == disease_groups[g]]
      
      data_group <- lapply(disease_id, function(i) outcome[[i]]$outcome_data) |> 
           bind_rows() |> 
-          mutate(diff_percent = round((mean + add_value) / (value + add_value), 3),
+          mutate(diff_percent = round((value + add_value) / (mean + add_value), 3),
                  diff = round(mean - value, 0),
                  label = if_else(diff_percent > 10, "*", ""),
                  date_num = format(ymd(date), "%Y.%m"))
@@ -97,11 +97,11 @@ plot_group_panel <- function(g, data_class){
                          mapping = aes(fill = diff_percent, x = date_num, y = Shortname)) +
           geom_tile() +
           # geom_text(mapping = aes(label = label), vjust = 0.5) +
-          scale_fill_gradientn(colors = fill_color_continue,
+          scale_fill_gradientn(colors = rev(fill_color_continue),
                                trans = log_fill,
                                breaks = c(0, 0.5, 1, 5, 10),
                                labels = c(0, 0.5, 1, 5, '>10'),
-                               na.value = "#009392FF",
+                               na.value = fill_color_continue[1],
                                limits = c(0, 10)) +
           scale_x_discrete(breaks = paste(unique(year(data_group$date)), "01", sep = "."),
                            labels = unique(year(data_group$date)),
@@ -153,7 +153,7 @@ plot_group_panel <- function(g, data_class){
      
      fig <- cowplot::plot_grid(fig_group, fig_disease, ncol = 1, rel_heights = rel_heights)
      
-     ggsave(filename = paste0("../outcome/publish/fig", g+6, ".pdf"),
+     ggsave(filename = paste0("../outcome/publish/fig", g+7, ".pdf"),
             plot = fig,
             width = 12,
             height = fig_h,
@@ -163,10 +163,11 @@ plot_group_panel <- function(g, data_class){
      return(data_group)
 }
 
-for (g in 1:length(disease_groups)) {
+for (g in 1:length(unique(data_class$Group))) {
      data <- plot_group_panel(g, data_class)
      
      write.xlsx(data,
                 file = paste0("../Outcome/Appendix/figure_data/fig", g+7, ".xlsx"),
                 asTable = T)
 }
+

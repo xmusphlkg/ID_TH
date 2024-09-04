@@ -31,23 +31,10 @@ rm(list = ls())
 
 source("./7_a_forecast.R")
 source('./7_b_visualization.R')
-print("Figure 8 data generated")
+print("Figure 8-12 data generated")
 rm(list = ls())
-# 
-# source("./script/8_a_province.R")
-# print("Appendix 1_1 figures generated")
-# rm(list = ls())
-# 
-# reticulate::source_python('./script/8_b_merge_appendix_1_2.py')
-# print("Appendix 1_1 combinded")
-# rm(list = ls())
-# 
-# source("./script/9_a_rubella.R")
-# print("Appendix 1_3 figures generated")
-# rm(list = ls())
-# 
-# reticulate::source_python('./script/9_b_merge_appendix_1_3.py')
-# print("Appendix 1 combinded")
-# rm(list = ls())
 
-
+reticulate::source_python('./8_a_create_appendix.py')
+reticulate::source_python('./8_b_create_appendix.py')
+reticulate::source_python('./8_c_create_appendix.py')
+reticulate::source_python('./8_d_merge_appendix.py')

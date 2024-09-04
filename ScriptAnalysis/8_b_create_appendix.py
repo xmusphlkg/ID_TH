@@ -8,7 +8,7 @@ from reportlab.lib import utils
 
 # read data
 data_class = pd.read_csv('../Data/DiseaseClass.csv')
-fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig1.xlsx', sheet_name='panel A')
+fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig1.xlsx', sheet_name='panel C')
 
 # empty pdf file
 pdf_filename = '../Outcome/Appendix/Supplementary Appendix 1_2.pdf'
@@ -35,6 +35,8 @@ row = fig1_data_df.iloc[index]
 for index, row in fig1_data_df.iterrows():
     disease_name = row['Disease']
     label = data_class[data_class['Shortname'] == disease_name]['Fullname'].values[0]
+    
+    p1_length = 12
 
     # add figure
     img_path = f'../Outcome/Appendix/Supplementary Appendix 1_2/{disease_name}.png'
@@ -43,7 +45,7 @@ for index, row in fig1_data_df.iterrows():
     story.append(image)
 
     # add figure title
-    title_text = f"Supplementary Fig. {index + 11}. Geographic distribution of incidence and mortality of {label} in Thailand, 2007-2023"
+    title_text = f"Supplementary Fig. {index + 1 + p1_length}. Geographic distribution of incidence and mortality of {label} in Thailand, 2007-2023"
     title = Paragraph(title_text, styles['Heading2'])
     story.append(title)
 

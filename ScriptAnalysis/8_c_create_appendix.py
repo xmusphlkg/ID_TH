@@ -8,7 +8,11 @@ from reportlab.lib import utils
 
 # read data
 data_class = pd.read_csv('../Data/DiseaseClass.csv')
-fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig1.xlsx', sheet_name='panel A')
+fig1_data_df = pd.read_excel('../Outcome/Appendix/figure_data/fig7.xlsx')
+
+# the unique value in the 'Gruop' column of fig1_data_df
+value_group = fig1_data_df['disease'].unique()
+df_disease = pd.DataFrame(value_group, columns=['disease'])
 
 # empty pdf file
 pdf_filename = '../Outcome/Appendix/Supplementary Appendix 1_3.pdf'
@@ -28,14 +32,12 @@ styles['Normal'].leading = styles['Heading1'].leading
 
 # insert image and add TOC entries
 
-## test for one image
-index = 0
-row = fig1_data_df.iloc[index]
-
-for index, row in fig1_data_df.iterrows():
-    disease_name = row['Disease']
+for index, row in df_disease.iterrows():
+    disease_name = row['disease']
     label = data_class[data_class['Shortname'] == disease_name]['Fullname'].values[0]
-
+    
+    p1_length = 12 + 64
+    
     # add figure
     img_path = f'../Outcome/Appendix/Supplementary Appendix 1_3/{disease_name}.png'
     img = utils.ImageReader(img_path)
@@ -43,7 +45,7 @@ for index, row in fig1_data_df.iterrows():
     story.append(image)
 
     # add figure title
-    title_text = f"Supplementary Fig. {index + 11 + 37}. Training and comparing variant time series models for {label}."
+    title_text = f"Supplementary Fig. {index + 1 + p1_length}. Training and comparing variant time series models for {label}."
     title = Paragraph(title_text, styles['Heading2'])
     story.append(title)
 
