@@ -13,9 +13,15 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load('./outcome.RData')
 load('./month.RData')
+load('./outcome.RData')
 
+data_class <- openxlsx::read.xlsx("../Outcome/Appendix/figure_data/fig7.xlsx") |>
+        filter(Best == 1) |>
+        select(disease, Method) |>
+        left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
+        mutate(disease = factor(disease, levels = data_class$Shortname)) |>
+        arrange(disease)
 data_class$id <- 1:nrow(data_class)
 
 # panel -------------------------------------------------------------------
@@ -127,13 +133,13 @@ plot_group_panel <- function(g, data_class){
           design <- "\nBCDE\nFGHI"
           fig_h <- 10
           rel_heights <- c(1, 2.1)
-     } else if (length(disease_id) == 9) {
-          design <- "\nBCDE\nFGHI\nJKLN"
-          fig_h <- 12
-          rel_heights <- c(1, 3)
+     } else if (length(disease_id) == 4) {
+          design <- "\nBCDE"
+          fig_h <- 7
+          rel_heights <- c(1, 1.1)
      }
      
-     if (fig_h == 10) {
+     if (fig_h %in% c(7, 10)) {
           fig_disease <- fig_disease |>
                reduce(`+`) +
                plot_layout(design = design, guides = "collect")&
@@ -161,6 +167,6 @@ for (g in 1:length(disease_groups)) {
      data <- plot_group_panel(g, data_class)
      
      write.xlsx(data,
-                file = paste0("../Outcome/Appendix/figure_data/fig", g+6, ".xlsx"),
+                file = paste0("../Outcome/Appendix/figure_data/fig", g+7, ".xlsx"),
                 asTable = T)
 }

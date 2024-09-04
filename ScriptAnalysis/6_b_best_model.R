@@ -51,7 +51,7 @@ data_table <- data_goodness |>
      left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
 
 write.xlsx(data_table,
-           "../Outcome/Appendix/figure_data/fig6.xlsx")
+           "../Outcome/Appendix/figure_data/fig7.xlsx")
 
 data_map <- data_table |> 
      select(Group, disease, Method, Index) |> 

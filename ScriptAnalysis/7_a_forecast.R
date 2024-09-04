@@ -27,7 +27,7 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_class <- openxlsx::read.xlsx("../Outcome/Appendix/figure_data/fig6.xlsx") |>
+data_class <- openxlsx::read.xlsx("../Outcome/Appendix/figure_data/fig7.xlsx") |>
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>

@@ -16,20 +16,22 @@ print("Figure 3 generated")
 rm(list = ls())
 
 source("./4_a_region.R")
+source('./4_b_appendix.R')
 print("Figure 4 generated")
 rm(list = ls())
 
 source("./5_a_diseases.R")
-print("Figure 5 generated")
+print("Figure 6 generated")
 rm(list = ls())
 
 source("./6_a_select_model.R")
 source('./6_b_best_model.R')
-print("Figure 6 generated")
+print("Figure 7 generated")
 rm(list = ls())
 
 source("./7_a_forecast.R")
-print("Figure 7 data generated")
+source('./7_b_visualization.R')
+print("Figure 8 data generated")
 rm(list = ls())
 # 
 # source("./script/8_a_province.R")
