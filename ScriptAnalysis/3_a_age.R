@@ -4,6 +4,7 @@
 library(tidyverse)
 library(paletteer)
 library(patchwork)
+library(openxlsx)
 
 # data --------------------------------------------------------------------
 
@@ -126,7 +127,7 @@ for (i in 1:3) {
 fig <- fig1 + fig2 + fig3 +
      plot_layout(ncol = 1, heights = c(1, 1, 1))
 
-ggsave(filename = "../outcome/publish/fig3.pdf",
+ggsave(filename = "../outcome/publish/fig4.pdf",
        plot = fig,
        width = 12,
        height = 8,
@@ -135,4 +136,4 @@ ggsave(filename = "../outcome/publish/fig3.pdf",
 
 # figure data
 write.xlsx(data_outcome,
-           file = "../outcome/Appendix/figure_data/fig3.xlsx")
+           file = "../outcome/Appendix/figure_data/fig4.xlsx")

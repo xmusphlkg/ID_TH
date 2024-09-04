@@ -52,7 +52,7 @@ data_analysis <- data_month |>
 # summary of NID ----------------------------------------------------------
 
 ## each group
-data_analysis |>
+data_print <- data_analysis |>
      group_by(Group, Shortname) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
@@ -65,16 +65,82 @@ data_analysis |>
             Deaths_p = percent(round(Deaths / sum(Deaths), 4)),
             CFR = percent(round(Deaths / Cases, 4)),
             .before = DateRange) |>
-     arrange(Group, desc(Cases)) |>
-     print(n = Inf)
+     arrange(Group, desc(Cases))
 
-# panel A & C -----------------------------------------------------------------
+# panel A & B -------------------------------------------------------------
 
-# fig1: cumulative cases
+fig1_data <- data_analysis |>
+     group_by(Date) |>
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop') |> 
+     arrange(Date)
+
+# STL model for cases
+stl_cases <- stl(ts(fig1_data$Cases, start = 2007, frequency = 12),
+                 s.window = "periodic", t.window = 24, robust = T)
+fig1_data$Cases_trend <- stl_cases$time.series[, 'trend']
+
+# STL model for deaths
+stl_deaths <- stl(ts(fig1_data$Deaths, start = 2007, frequency = 12),
+                  s.window = "periodic", t.window = 24, robust = T)
+fig1_data$Deaths_trend <- stl_deaths$time.series[, 'trend']
+
+
+fig1 <- ggplot(data = fig1_data)+
+     geom_point(mapping = aes(x = Date, y = Cases, color = 'Observed'),
+                alpha = 0.5,
+                size = 1.5) +
+     geom_line(mapping = aes(x = Date, y = Cases_trend, color = 'Trend'),
+               size = 1) +
+     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
+     scale_x_date(date_breaks = "2 year",
+                  date_labels = "%Y",
+                  expand = expansion(mult = c(0, 0))) +
+     scale_y_continuous(expand = expansion(mult = c(0, 0)),
+                        breaks = c(0, 1e5, 2e5),
+                        limits = c(0, 2e5),
+                        label = scientific_10) +
+     theme_plot() +
+     theme(legend.position = 'none') +
+     labs(y = "Monthly cases",
+          x = NULL,
+          color = NULL,
+          title = 'A')+
+     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
+                                                     shape = c(16, NA)),
+                                 nrows = 1))
+
+fig2_data <- fig1_data
+
+fig2 <- ggplot(data = fig2_data)+
+     geom_point(mapping = aes(x = Date, y = Deaths, color = 'Observed'),
+                alpha = 0.5,
+                size = 1.5) +
+     geom_line(mapping = aes(x = Date, y = Deaths_trend, color = 'Trend'),
+               size = 1) +
+     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
+     scale_x_date(date_breaks = "2 year",
+                  date_labels = "%Y",
+                  expand = expansion(mult = c(0, 0.03))) +
+     scale_y_continuous(expand = expansion(mult = c(0, 0)),
+                        limits = c(0, 300),
+                        label = scientific_10) +
+     theme_plot() +
+     theme(legend.position = 'none') +
+     labs(y = "Monthly deaths",
+          x = NULL,
+          color = NULL,
+          title = 'B')+
+     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
+                                                     shape = c(1, NA)),
+                                 nrows = 1))
+
+# panel C & D -----------------------------------------------------------------
 
 names(fill_color) <- disease_groups
 
-fig1_data <- data_analysis |>
+fig3_data <- data_analysis |>
      select(Year, Disease = Shortname, Group, Cases, Deaths) |>
      group_by(Group, Disease) |>
      summarise(Cases = sum(Cases),
@@ -83,35 +149,39 @@ fig1_data <- data_analysis |>
                .groups = 'drop') |> 
      arrange(Group, desc(Cases))
 
-fig1 <- ggplot(data = fig1_data)+
+fig3 <- ggplot(data = fig3_data)+
      geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
               show.legend = T) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
-                      limits = fig1_data$Disease) +
+                      limits = fig3_data$Disease) +
      scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
                         limits = c(0, NA),
                         label = scientific_10)+
      theme_set() +
      theme(legend.position = 'right',
+           legend.text = element_text(face = "bold", size = 14),
+           legend.title = element_text(face = "bold", size = 16),
+           axis.title.y = element_text(face = "bold", size = 16),
+           plot.title = element_text(face = "bold", size = 18, hjust = 0),
            axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
      labs(y = "Cumulative cases",
           x = NULL,
           fill = "Categories",
-          title = 'A')+
+          title = 'C')+
      guides(fill = guide_legend(byrow = TRUE))
 
 # separate legend as a dependent plot
-fig1_legend <- cowplot::get_legend(fig1)
-fig1 <- fig1 + theme(legend.position = 'none')
+fig3_legend <- cowplot::get_legend(fig3)
+fig3 <- fig3 + theme(legend.position = 'none')
 
-fig1_in <- ggplot(data = filter(fig1_data, Cases <= 3e5))+
+fig3_in <- ggplot(data = filter(fig3_data, Cases <= 3e5))+
      geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
               show.legend = F) +
      coord_cartesian(ylim = c(0, 3e5)) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
-                      limits = fig1_data$Disease[fig1_data$Cases <= 3e5]) +
+                      limits = fig3_data$Disease[fig3_data$Cases <= 3e5]) +
      scale_y_continuous(expand = expansion(mult = c(0, 0)),
                         limits = c(0, 3e5),
                         breaks = c(0, 1e5, 2e5, 3e5),
@@ -127,39 +197,43 @@ fig1_in <- ggplot(data = filter(fig1_data, Cases <= 3e5))+
           fill = NULL)
 
 # add inner plot
-fig1 <- fig1 + inset_element(fig1_in, left = 0.05, bottom = 0.13, right = 1, top = 1.16)
+fig3 <- fig3 + inset_element(fig3_in, left = 0.03, bottom = 0.13, right = 1, top = 1.2)
 
-remove(fig1_in)
+remove(fig3_in)
 
-fig3_data <- fig1_data
+fig4_data <- fig3_data
 
-fig3 <- ggplot(data = fig3_data)+
+fig4 <- ggplot(data = fig4_data)+
      geom_col(mapping = aes(x = Disease, y = Deaths, fill = Group),
               show.legend = F) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
-                      limits = fig1_data$Disease) +
+                      limits = fig4_data$Disease) +
      scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
                         limits = c(0, NA),
                         label = scientific_10)+
      theme_set() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
+     theme(legend.position = 'right',
+           legend.text = element_text(face = "bold", size = 14),
+           legend.title = element_text(face = "bold", size = 16),
+           axis.title.y = element_text(face = "bold", size = 16),
+           plot.title = element_text(face = "bold", size = 18, hjust = 0),
+           axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
      labs(y = "Cumulative deaths",
           x = NULL,
           fill = NULL,
-          title = 'C')
+          title = 'D')
 
-fig3_in <- ggplot(data = filter(fig1_data, Deaths <= 1e3))+
+fig4_in <- ggplot(data = filter(fig4_data, Deaths <= 1e3))+
      geom_col(mapping = aes(x = Disease, y = Deaths, fill = Group),
               show.legend = F) +
-     coord_cartesian(ylim = c(0, 1e3)) +
+     coord_cartesian(ylim = c(0, 300)) +
      scale_fill_manual(values = fill_color) +
      scale_x_discrete(expand = c(0, 0),
-                      limits = fig1_data$Disease[fig1_data$Deaths <= 1e3]) +
+                      limits = fig4_data$Disease[fig4_data$Deaths <= 300]) +
      scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        limits = c(0, 1e3),
-                        breaks = c(0, 500, 1e3),
-                        label = scientific_10)+
+                        limits = c(0, 300),
+                        breaks = c(0, 100, 200, 300))+
      theme_set() +
      theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
            # transparent background
@@ -171,78 +245,9 @@ fig3_in <- ggplot(data = filter(fig1_data, Deaths <= 1e3))+
           fill = NULL)
 
 # add inner plot
-fig3 <- fig3 + inset_element(fig3_in, left = 0.05, bottom = 0.13, right = 1, top = 1.16)
+fig4 <- fig4 + inset_element(fig4_in, left = 0.03, bottom = 0.13, right = 1, top = 1.2)
 
-remove(fig3_in)
-
-# panel B & D -------------------------------------------------------------
-
-fig2_data <- data_analysis |>
-     group_by(Date) |>
-     summarise(Cases = sum(Cases),
-               Deaths = sum(Deaths),
-               .groups = 'drop') |> 
-     arrange(Date)
-
-# STL model for cases
-stl_cases <- stl(ts(fig2_data$Cases, start = 2007, frequency = 12),
-                 s.window = "periodic", t.window = 24, robust = T)
-fig2_data$Cases_trend <- stl_cases$time.series[, 'trend']
-
-# STL model for deaths
-stl_deaths <- stl(ts(fig2_data$Deaths, start = 2007, frequency = 12),
-                  s.window = "periodic", t.window = 24, robust = T)
-fig2_data$Deaths_trend <- stl_deaths$time.series[, 'trend']
-
-
-fig2 <- ggplot(data = fig2_data)+
-     geom_point(mapping = aes(x = Date, y = Cases, color = 'Observed'),
-                alpha = 0.5,
-                size = 1.5) +
-     geom_line(mapping = aes(x = Date, y = Cases_trend, color = 'Trend'),
-               size = 1) +
-     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
-     scale_x_date(date_breaks = "4 year",
-                  date_labels = "%Y",
-                  expand = expansion(mult = c(0, 0))) +
-     scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        breaks = c(0, 1e5, 2e5),
-                        limits = c(0, 2e5),
-                        label = scientific_10) +
-     theme_plot() +
-     theme(legend.position = 'none') +
-     labs(y = "Monthly cases",
-          x = NULL,
-          color = NULL,
-          title = 'B')+
-     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
-                                                     shape = c(16, NA)),
-                                 nrows = 1))
-
-fig4_data <- fig2_data
-
-fig4 <- ggplot(data = fig4_data)+
-     geom_point(mapping = aes(x = Date, y = Deaths, color = 'Observed'),
-                alpha = 0.5,
-                size = 1.5) +
-     geom_line(mapping = aes(x = Date, y = Deaths_trend, color = 'Trend'),
-               size = 1) +
-     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
-     scale_x_date(date_breaks = "4 year",
-                  date_labels = "%Y",
-                  expand = expansion(mult = c(0, 0.03))) +
-     scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        limits = c(0, 300),
-                        label = scientific_10) +
-     theme_plot() +
-     theme(legend.position = 'none') +
-     labs(y = "Monthly deaths",
-          x = NULL,
-          color = NULL,
-          title = 'D')+
-     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
-                                                     shape = c(1, NA)),
-                                 nrows = 1))
+remove(fig4_in)
 
 # appendix ----------------------------------------------------------------
 
@@ -258,10 +263,10 @@ plot_trend <- function(data, title, value = 'Cases') {
      
      fig <- ggplot(data = data_trend) +
           geom_line(mapping = aes(x = as.Date(paste(Year, Month, "01", sep = "-")), y = Trend),
-                    color = '#4DBBD5FF',
+                    color = fill_color[1],
                     size = 1) +
           geom_point(mapping = aes(x = as.Date(paste(Year, Month, "01", sep = "-")), y = Value),
-                     color = '#E64B35FF',
+                     color = fill_color[5],
                      alpha = 0.5,
                      size = 1.5) +
           scale_x_date(date_breaks = "4 year",
@@ -303,9 +308,8 @@ for (g in disease_groups) {
                      'Cases')
      })
      
-    
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
-            fig_cases_g + reduce(fig_cases, `+`) + plot_layout(widths = c(1, 3)),
+            fig_cases_g + fig_cases + plot_layout(ncol = 4),
             device = "png",
             width = 14, height = 7,
             limitsize = FALSE,
@@ -323,7 +327,7 @@ for (g in disease_groups) {
      })
      
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Deaths ", g, ".png"),
-            fig_deaths_g + reduce(fig_deaths, `+`) + plot_layout(widths = c(1, 3)),
+            fig_deaths_g + fig_deaths + plot_layout(ncol = 4),
             device = "png",
             width = 14, height = 7,
             limitsize = FALSE,
@@ -471,17 +475,18 @@ fig9 <- ggplot(data = fig9_data) +
 
 # save plot ---------------------------------------------------------------
 
-fig <- cowplot::plot_grid(cowplot::plot_grid(fig1/fig3, cowplot::plot_grid(fig1_legend) / fig2 / fig4, nrow = 1, rel_widths = c(3, 1)),
+fig <- cowplot::plot_grid(fig1 + fig2 + cowplot::plot_grid(fig3_legend) + plot_layout(nrow = 1),
+                          fig3 / fig4,
                           cowplot::plot_grid(fig6, fig7, nrow = 1, rel_widths = c(1, 1)),
                           cowplot::plot_grid(fig8, fig9, nrow = 1, rel_widths = c(1, 1)),
-                          nrow = 3,
+                          nrow = 4,
                           ncol = 1,
-                          rel_heights = c(2.5, 1, 1))
+                          rel_heights = c(1, 2.5, 1, 1))
 
 ggsave(filename = "../Outcome/Publish/fig1.pdf",
        fig,
        width = 14,
-       height = 14,
+       height = 16,
        device = cairo_pdf,
        family = "Times New Roman")
 
@@ -498,7 +503,9 @@ data_fig <- list("panel A" = fig1_data,
 write.xlsx(data_fig,
            file = "../Outcome/Appendix/figure_data/fig1.xlsx")
 
-data_class <- fig1_data |> 
+data_class <- fig3_data |> 
      rename(Shortname = 'Disease')
 
 save(data_analysis, data_month, data_class, file = "./month.RData")
+
+print(data_print, n = Inf)

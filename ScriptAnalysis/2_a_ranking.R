@@ -162,23 +162,24 @@ connections <- data_plot |>
             Year_next_mark = lead(Year_mark)) |> 
      filter(!is.na(Cases_next_rank))
 
+# fig1 --------------------------------------------------------------------
+
 fig1 <- ggplot() +
      # add the label for the disease with zero cases
      geom_ribbon(data = data_zero_cases,
                  aes(x = Year_mark, ymax = Cases_rank),
-                 ymin = 38,
+                 ymin = length(unique(data_plot$Cases_rank))+1,
                  fill = '#00A087FF',
                  alpha = 0.3,
                  color = 'white',
                  show.legend = T) +
      annotate(geom = 'text',
-              x = length(unique(data_plot$Year_mark)) + 0.45,
-              y = data_zero_cases$Cases_rank[nrow(data_zero_cases)],
+              x = min(unique(data_plot$Year_mark)) - 0.15,
+              y = max(data_plot$Cases_rank, na.rm = T) - 3,
               label = 'Diseases with zero cases',
               color = 'black',
               fontface = 'bold',
-              angle = -90,
-              vjust = 0.5, hjust = -0.1, size = 4) +
+              vjust = 0.5, hjust = -0.1, size = 6) +
      geom_tile(data = data_plot,
                aes(x = Year_mark, y = Cases_rank, fill = Group),
                width = 0.7,
@@ -197,45 +198,61 @@ fig1 <- ggplot() +
                   lineend = "round",
                   linejoin = "round",
                   arrow = arrow(length = unit(2, "mm"))) +
-     coord_cartesian(ylim = c(36, 2), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
+     coord_cartesian(ylim = c(length(unique(data_plot$Cases_rank))-2, 3), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
      scale_x_continuous(breaks = unique(data_plot$Year_mark),
                         labels = unique(data_plot$Year_group)) +
      scale_fill_manual(values = fill_color) +
      scale_color_manual(values = c('Decrease' = '#4DBBD5FF', 'Constant' = '#8491B4FF', 'Increase' = '#E64B35FF')) +
      theme_plot() +
      theme(panel.grid = element_blank(),
+           legend.position = 'bottom',
+           legend.box = 'vertical',
+           legend.direction = "horizontal",
            axis.text.y = element_blank(),
            axis.ticks.y = element_blank())+
      labs(x = NULL,
           color = "Changes of ranking",
           fill = "Categories",
-          title = 'A',
+          title = '',
           y = NULL)+
-     guides(color = guide_legend(override.aes = list(fill = NA), order = 2),
-            fill = guide_legend(order = 1))
+     guides(color = guide_legend(nrow = 1, order = 2, override.aes = list(fill = 'white')),
+            fill = guide_legend(nrow = 1, order = 1))
+
+ggsave(filename = "../outcome/publish/fig2.pdf",
+       plot = fig1,
+       width = 14,
+       height = 12,
+       device = cairo_pdf,
+       family = "Times New Roman")
+
+
+# figure data
+write.xlsx(data_plot |> select(Shortname, Group, Year_group, Cases, Cases_rank),
+           file = "../outcome/Appendix/figure_data/fig2.xlsx")
+
+# fig2 --------------------------------------------------------------------
 
 fig2 <- ggplot() +
      # add the label for the disease with zero death
      geom_ribbon(data = data_zero_death,
                  aes(x = Year_mark, ymax = Deaths_rank),
-                 ymin = 38,
+                 ymin = length(unique(data_plot$Deaths_rank))+1,
                  fill = '#00A087FF',
                  alpha = 0.3,
                  color = 'white',
-                 show.legend = F) +
+                 show.legend = T) +
      annotate(geom = 'text',
-              x = length(unique(data_plot$Year_mark)) + 0.45,
-              y = data_zero_death$Deaths_rank[nrow(data_zero_death)],
-              label = 'Diseases with zero death',
+              x = min(unique(data_plot$Year_mark)) - 0.15,
+              y = max(data_plot$Deaths_rank, na.rm = T) - 3,
+              label = 'Diseases with zero deaths',
               color = 'black',
               fontface = 'bold',
-              angle = -90,
-              vjust = 0.5, hjust = -0.1, size = 4) +
+              vjust = 0.5, hjust = -0.1, size = 6) +
      geom_tile(data = data_plot,
                aes(x = Year_mark, y = Deaths_rank, fill = Group),
                width = 0.7,
                color = 'white',
-               show.legend = F) +
+               show.legend = T) +
      geom_text(data = data_plot,
                aes(x = Year_mark, y = Deaths_rank, label = Deaths_label), 
                nudge_x = -0.33,
@@ -248,38 +265,30 @@ fig2 <- ggplot() +
                       xend = Year_next_mark-0.35, yend = Deaths_next_rank), 
                   lineend = "round",
                   linejoin = "round",
-                  show.legend = F,
                   arrow = arrow(length = unit(2, "mm"))) +
-     coord_cartesian(ylim = c(36, 2), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
+     coord_cartesian(ylim = c(length(unique(data_plot$Deaths_rank))-2, 3), xlim = c(1, length(unique(data_plot$Year_mark))+0.2)) +
      scale_x_continuous(breaks = unique(data_plot$Year_mark),
                         labels = unique(data_plot$Year_group)) +
      scale_fill_manual(values = fill_color) +
      scale_color_manual(values = c('Decrease' = '#4DBBD5FF', 'Constant' = '#8491B4FF', 'Increase' = '#E64B35FF')) +
      theme_plot() +
      theme(panel.grid = element_blank(),
-           legend.position = 'none',
+           legend.position = 'bottom',
+           legend.box = 'vertical',
+           legend.direction = "horizontal",
            axis.text.y = element_blank(),
            axis.ticks.y = element_blank())+
      labs(x = NULL,
           color = "Changes of ranking",
           fill = "Categories",
-          title = 'B',
-          y = NULL)
+          title = '',
+          y = NULL)+
+     guides(color = guide_legend(nrow = 1, order = 2, override.aes = list(fill = 'white')),
+            fill = guide_legend(nrow = 1, order = 1))
 
-fig <- fig1 + fig2 + plot_layout(ncol = 1, guides = 'collect')&
-     theme(legend.position = 'bottom',
-           legend.box = "vertical",
-           legend.direction = "horizontal",
-           legend.text = element_text(face = "bold", size = 12),
-           legend.title = element_text(face = "bold", size = 12))
-
-ggsave(filename = "../outcome/publish/fig2.pdf",
-       plot = fig,
-       width = 12,
-       height = 15,
+ggsave(filename = "../outcome/publish/fig3.pdf",
+       plot = fig2,
+       width = 14,
+       height = 12,
        device = cairo_pdf,
        family = "Times New Roman")
-
-# figure data
-write.xlsx(data_plot,
-           file = "../outcome/Appendix/figure_data/fig2.xlsx")

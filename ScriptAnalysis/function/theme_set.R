@@ -50,7 +50,7 @@ theme_plot <- function() {
       plot.caption.position = "plot",
       plot.title = element_text(face = "bold", size = 18, hjust = 0),
       legend.text = element_text(face = "bold", size = 14),
-      legend.title = element_text(face = "bold", size = 14),
+      legend.title = element_text(face = "bold", size = 16),
       legend.box.background = element_rect(fill = "transparent", colour = "transparent"),
       legend.background = element_rect(fill = "transparent", colour = "transparent"),
       axis.title.x = element_text(face = "bold", size = 16, color = "black"),
@@ -69,15 +69,17 @@ func_rmse <-
     )
   }
 
-fill_color <- paletteer_d("fishualize::Etheostoma_spectabile")
-fill_color_disease <- paletteer_d("ggsci::nrc_npg")
+fill_color <- paletteer_d("MoMAColors::Lupi", n = 6)
+fill_color_disease <- paletteer_d("rcartocolor::Pastel")[1:10]
+fill_color_continue <- paletteer_d("MoMAColors::ustwo")
 
 index_labels <- c("SMAPE", "RMSE", "MASE", "R_Squared")
 disease_groups <- c("Respiratory ID",
                     "Vector-borne and zoonotic ID",
                     "Sexually ID",
                     "Vaccine preventable ID",
-                    "Gastrointestinal ID")
+                    "Gastrointestinal ID",
+                    'Others')
 models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
 models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid*", "Bayesian structural")
 

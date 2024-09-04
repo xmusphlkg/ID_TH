@@ -16,13 +16,17 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_goodness <- read.xlsx("../Outcome/Appendix/Supplementary Appendix 2.xlsx")
+data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+     filter(Forecasting == 1) |> 
+     select(-c(Cases, Count, Including, Forecasting, Label))
 
-data_goodness$disease <- factor(data_goodness$disease, levels = rev(data_class$Shortname))
+data_goodness <- read.xlsx("../Outcome/Appendix/Supplementary Appendix 2.xlsx")
 
 # best model --------------------------------------------------------------
 
 data_goodness <- data_goodness |>
+     filter(disease %in% data_class$Shortname) |>
+     mutate(disease = factor(disease, levels = rev(data_class$Shortname))) |> 
      select(disease, Index, Method, Test) |>
      pivot_wider(names_from = Index, values_from = Test) |> 
      ## z-normalization for each disease
@@ -68,7 +72,7 @@ data_map <- data_map |>
 
 # create map for each group of diseases
 
-i <- 1
+# i <- 5
 
 plot_map <- function(i) {
      data <- data_map |> 
@@ -88,7 +92,7 @@ plot_map <- function(i) {
                     size = 2.5,
                     color = "black") +
           coord_equal(1/3) +
-          scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
+          scale_fill_gradientn(colors = fill_color_continue,
                                breaks = c(-7, -5, -3, -1, 0, 1, 3, 5, 7),
                                limits = c(-7, 7)) +
           scale_y_discrete(expand = expansion(add = c(0, 0))) +
@@ -111,12 +115,12 @@ plot_map <- function(i) {
      fig
 }
 
-plot <- lapply(1:length(disease_groups), plot_map) |> 
+plot <- lapply(1:length(unique(data_class$Group)), plot_map) |> 
      wrap_plots(ncol = 1, guides = 'collect')&
      theme(legend.position = "bottom")
 
-ggsave("../Outcome/Publish/fig6.pdf",
+ggsave("../Outcome/Publish/fig7.pdf",
        plot,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
-       width = 6, height = 12)
+       width = 7, height = 10)

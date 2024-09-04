@@ -27,6 +27,10 @@ source("./function/forecast.R")
 
 load("./month.RData")
 
+data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+     filter(Forecasting == 1) |> 
+     select(-c(Cases, Count, Including, Forecasting, Label))
+
 train_range <- c(as.Date('2007-1-1'), as.Date('2018-12-1'))
 test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))
 

@@ -198,13 +198,20 @@ fig <- wrap_plots(plot_list, ncol = 1) +
      plot_layout(guides = "collect") &
      theme(legend.position = "bottom")
 
-ggsave(filename = "../outcome/publish/fig5.pdf",
+ggsave(filename = "../outcome/publish/fig6.pdf",
        plot = fig,
        width = 12,
-       height = 22,
+       height = 35,
+       device = cairo_pdf,
+       family = "Times New Roman")
+
+ggsave(filename = "../outcome/publish/fig6_1.pdf",
+       plot = fig,
+       width = 12,
+       height = 18,
        device = cairo_pdf,
        family = "Times New Roman")
 
 # figure data
 write.xlsx(data_fig,
-           file = "../outcome/Appendix/figure_data/fig5.xlsx")
+           file = "../outcome/Appendix/figure_data/fig6.xlsx")

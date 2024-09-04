@@ -6,6 +6,7 @@ library(ggsci)
 library(Cairo)
 library(patchwork)
 library(paletteer)
+library(ggh4x)
 
 remove(list = ls())
 
@@ -58,7 +59,7 @@ plot_single_panel <- function(i, g, outcome){
           theme(legend.position = "bottom",
                 legend.direction = "horizontal",
                 legend.box = 'vertical',
-                plot.title.position = "panel",
+                plot.title.position = "plot",
                 legend.text = element_text(size = 10, hjust = 0.5, vjust = 0.5, face = "bold"))+
           labs(x = NULL,
                y = ylab,
@@ -90,7 +91,7 @@ plot_group_panel <- function(g, data_class){
                          mapping = aes(fill = diff_percent, x = date_num, y = Shortname)) +
           geom_tile() +
           # geom_text(mapping = aes(label = label), vjust = 0.5) +
-          scale_fill_gradientn(colors = rev(paletteer_d("rcartocolor::Temps")),
+          scale_fill_gradientn(colors = fill_color_continue,
                                trans = log_fill,
                                breaks = c(0, 0.5, 1, 5, 10),
                                labels = c(0, 0.5, 1, 5, '>10'),
