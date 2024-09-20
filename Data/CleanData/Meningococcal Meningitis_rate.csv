@@ -99,552 +99,105 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Meningococcal Meningitis
 Nakhon Sawan,0,0.00,0,0.00,0.00,1073182,2010,Meningococcal Meningitis
 Phichit,0,0.00,0,0.00,0.00,552942,2010,Meningococcal Meningitis
 Uthai Thani,0,0.00,0,0.00,0.00,327916,2010,Meningococcal Meningitis
-Total,19,0.03,3,15.79,0.00,66171439,2022,Meningococcal Meningitis
-ZONE:01,0,0.00,0,0.00,0.00,5874503,2022,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,724678,2022,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,401139,2022,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,475875,2022,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,464505,2022,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,434580,2022,Meningococcal Meningitis
-ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,676583,2022,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,529395,2022,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Meningococcal Meningitis
-ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,643963,2022,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5333543,2022,Meningococcal Meningitis
-Kanchanaburi,1,0.11,0,0.00,0.00,894054,2022,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,751343,2022,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,228376,2022,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,975570,2022,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,421995,2022,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,638732,2022,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1376230,2022,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,533394,2022,Meningococcal Meningitis
-ZONE:11,15,0.33,3,20.00,0.07,4492012,2022,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,509479,2022,Meningococcal Meningitis
-Krabi,13,2.71,1,7.69,0.21,479351,2022,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,268016,2022,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,418785,2022,Meningococcal Meningitis
-Ranong,1,0.51,1,100.00,0.51,194573,2022,Meningococcal Meningitis
-Surat Thani,1,0.09,1,100.00,0.09,1072464,2022,Meningococcal Meningitis
-ZONE:12,3,0.06,0,0.00,0.00,5000255,2022,Meningococcal Meningitis
-Narathiwat,1,0.12,0,0.00,0.00,809660,2022,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,729581,2022,Meningococcal Meningitis
-Phatthalung,1,0.19,0,0.00,0.00,522541,2022,Meningococcal Meningitis
-Satun,1,0.31,0,0.00,0.00,324835,2022,Meningococcal Meningitis
-Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,639788,2022,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,542314,2022,Meningococcal Meningitis
-ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Meningococcal Meningitis
-Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Meningococcal Meningitis
-Total,22,0.03,1,4.55,0.00,66301242,2018,Meningococcal Meningitis
-ZONE:01,1,0.02,0,0.00,0.00,5878537,2018,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1755291,2018,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1289873,2018,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,744714,2018,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405936,2018,Meningococcal Meningitis
-Mae Hong Son,1,0.36,0,0.00,0.00,280826,2018,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,479414,2018,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,476157,2018,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,446326,2018,Meningococcal Meningitis
-ZONE:02,0,0.00,0,0.00,0.00,3565071,2018,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,994936,2018,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,866129,2018,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,649472,2018,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,456247,2018,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2992420,2018,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1064649,2018,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,540620,2018,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,329688,2018,Meningococcal Meningitis
-ZONE:04,0,0.00,0,0.00,0.00,5343264,2018,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1137603,2018,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,643531,2018,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5324608,2018,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,890565,2018,Meningococcal Meningitis
-Nakhon Pathom,1,0.11,0,0.00,0.00,914273,2018,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,573215,2018,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Meningococcal Meningitis
-ZONE:06,1,0.02,0,0.00,0.00,6088563,2018,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,712449,2018,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,535478,2018,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Meningococcal Meningitis
-Prachin Buri,1,0.20,0,0.00,0.00,489592,2018,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,717276,2018,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,229782,2018,Meningococcal Meningitis
-ZONE:07,2,0.04,0,0.00,0.00,5062199,2018,Meningococcal Meningitis
-Kalasin,1,0.10,0,0.00,0.00,985676,2018,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1805903,2018,Meningococcal Meningitis
-Maha Sarakham,1,0.10,0,0.00,0.00,963060,2018,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5553738,2018,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,423485,2018,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,642220,2018,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,718406,2018,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,521995,2018,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6772779,2018,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2642815,2018,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1397519,2018,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4613643,2018,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1472521,2018,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1872091,2018,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,539136,2018,Meningococcal Meningitis
-ZONE:11,6,0.13,0,0.00,0.00,4466673,2018,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,510307,2018,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,471754,2018,Meningococcal Meningitis
-Nakhon Si Thammarat,4,0.26,0,0.00,0.00,1558958,2018,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,267866,2018,Meningococcal Meningitis
-Phuket,2,0.49,0,0.00,0.00,406113,2018,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,191134,2018,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Meningococcal Meningitis
-ZONE:12,7,0.14,1,14.29,0.02,4960215,2018,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,799357,2018,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,713937,2018,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,320637,2018,Meningococcal Meningitis
-Songkhla,6,0.42,0,0.00,0.00,1428429,2018,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,643093,2018,Meningococcal Meningitis
-Yala,1,0.19,1,100.00,0.19,529811,2018,Meningococcal Meningitis
-ZONE:13,4,0.07,0,0.00,0.00,5679532,2018,Meningococcal Meningitis
-Bangkok,4,0.07,0,0.00,0.00,5679532,2018,Meningococcal Meningitis
-Total,17,0.03,2,11.76,0.00,65426907,2016,Meningococcal Meningitis
-ZONE:01,3,0.05,0,0.00,0.00,5781324,2016,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1703263,2016,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1242825,2016,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,752685,2016,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405927,2016,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Meningococcal Meningitis
-Nan,1,0.21,0,0.00,0.00,478890,2016,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,483550,2016,Meningococcal Meningitis
-Phrae,2,0.44,0,0.00,0.00,453213,2016,Meningococcal Meningitis
-ZONE:02,0,0.00,0,0.00,0.00,3498728,2016,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,996397,2016,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,861194,2016,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,602085,2016,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,578968,2016,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,460084,2016,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,3011449,2016,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729839,2016,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1072349,2016,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,546750,2016,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Meningococcal Meningitis
-ZONE:04,0,0.00,0,0.00,0.00,5221125,2016,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1084154,2016,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,635567,2016,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Meningococcal Meningitis
-ZONE:05,0,0.00,0,0.00,0.00,5209561,2016,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,895207,2016,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,5880124,2016,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,698190,2016,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,529194,2016,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1438231,2016,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,681696,2016,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,554555,2016,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,227083,2016,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,5049920,2016,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,985055,2016,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,962592,2016,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1308241,2016,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5511930,2016,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,419607,2016,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,636666,2016,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,714369,2016,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1140673,2016,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6737604,2016,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1581955,2016,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2624668,2016,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1393330,2016,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4581192,2016,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1467006,2016,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1851049,2016,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,540197,2016,Meningococcal Meningitis
-ZONE:11,6,0.14,2,33.33,0.05,4383957,2016,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,503203,2016,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,459456,2016,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,262721,2016,Meningococcal Meningitis
-Phuket,4,1.05,1,25.00,0.26,382485,2016,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,182313,2016,Meningococcal Meningitis
-Surat Thani,2,0.19,1,50.00,0.10,1043501,2016,Meningococcal Meningitis
-ZONE:12,3,0.06,0,0.00,0.00,4865646,2016,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,778941,2016,Meningococcal Meningitis
-Pattani,3,0.43,0,0.00,0.00,690104,2016,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,314297,2016,Meningococcal Meningitis
-Songkhla,0,0.00,0,0.00,0.00,1405939,2016,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,639770,2016,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,515025,2016,Meningococcal Meningitis
-ZONE:13,5,0.09,0,0.00,0.00,5694347,2016,Meningococcal Meningitis
-Bangkok,5,0.09,0,0.00,0.00,5694347,2016,Meningococcal Meningitis
-Total,13,0.02,3,23.08,0.00,66372831,2020,Meningococcal Meningitis
-ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,733640,2020,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,403542,2020,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,477476,2020,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,469856,2020,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,439537,2020,Meningococcal Meningitis
-ZONE:02,2,0.06,0,0.00,0.00,3554902,2020,Meningococcal Meningitis
-Phetchabun,1,0.10,0,0.00,0.00,987196,2020,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Meningococcal Meningitis
-Tak,1,0.15,0,0.00,0.00,667942,2020,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,534311,2020,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Meningococcal Meningitis
-ZONE:04,1,0.02,0,0.00,0.00,5400529,2020,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,1,0.12,0,0.00,0.00,819638,2020,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,644869,2020,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5342038,2020,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Meningococcal Meningitis
-Ratchaburi,1,0.11,0,0.00,0.00,871207,2020,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Meningococcal Meningitis
-ZONE:06,1,0.02,0,0.00,0.00,6192990,2020,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,738139,2020,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Meningococcal Meningitis
-Samut Prakan,1,0.07,0,0.00,0.00,1348177,2020,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,229247,2020,Meningococcal Meningitis
-ZONE:07,2,0.04,0,0.00,0.00,5039088,2020,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,980297,2020,Meningococcal Meningitis
-Khon Kaen,2,0.11,0,0.00,0.00,1798702,2020,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,423067,2020,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,640843,2020,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Meningococcal Meningitis
-ZONE:09,1,0.01,0,0.00,0.00,6748199,2020,Meningococcal Meningitis
-Buri Ram,1,0.06,0,0.00,0.00,1588466,2020,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1387526,2020,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4603401,2020,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,535900,2020,Meningococcal Meningitis
-ZONE:11,1,0.02,1,100.00,0.02,4489609,2020,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,510256,2020,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,477254,2020,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,268509,2020,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,415527,2020,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,193871,2020,Meningococcal Meningitis
-Surat Thani,1,0.09,1,100.00,0.09,1067867,2020,Meningococcal Meningitis
-ZONE:12,4,0.08,2,50.00,0.04,4991217,2020,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,725559,2020,Meningococcal Meningitis
-Phatthalung,1,0.19,1,100.00,0.19,523971,2020,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,323841,2020,Meningococcal Meningitis
-Songkhla,3,0.21,1,33.33,0.07,1432288,2020,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,641868,2020,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,537466,2020,Meningococcal Meningitis
-ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Meningococcal Meningitis
-Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Meningococcal Meningitis
-Total,13,0.02,4,30.77,0.01,64955313,2014,Meningococcal Meningitis
-ZONE:00,5,0.09,0,0.00,0.00,5689268,2014,Meningococcal Meningitis
-Bangkok,5,0.09,0,0.00,0.00,5689268,2014,Meningococcal Meningitis
-ZONE:01,1,0.02,1,100.00,0.02,5704200,2014,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1672586,2014,Meningococcal Meningitis
-Chiang Rai,1,0.08,1,100.00,0.08,1206180,2014,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,753937,2014,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405368,2014,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,247364,2014,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,478088,2014,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,485599,2014,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,455078,2014,Meningococcal Meningitis
-ZONE:02,1,0.03,0,0.00,0.00,3452021,2014,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,995102,2014,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,857682,2014,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,602586,2014,Meningococcal Meningitis
-Tak,1,0.19,0,0.00,0.00,535953,2014,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,460698,2014,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,3012608,2014,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,332526,2014,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729076,2014,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1072949,2014,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,548199,2014,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,329858,2014,Meningococcal Meningitis
-ZONE:04,2,0.04,2,100.00,0.04,5171756,2014,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,758188,2014,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,800785,2014,Meningococcal Meningitis
-Pathum Thani,2,0.19,2,100.00,0.19,1063608,2014,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,631338,2014,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5147569,2014,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,845540,2014,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,472640,2014,Meningococcal Meningitis
-Prachuap Khiri Khan,1,0.19,0,0.00,0.00,522689,2014,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,851689,2014,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,525672,2014,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,194153,2014,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,848559,2014,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,5797595,2014,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,692852,2014,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,525805,2014,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1405889,2014,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,477741,2014,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,667806,2014,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,551562,2014,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,224370,2014,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,5037074,2014,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,984468,2014,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1785852,2014,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,958116,2014,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1308638,2014,Meningococcal Meningitis
-ZONE:08,1,0.02,0,0.00,0.00,5490561,2014,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,417401,2014,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,633359,2014,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,712101,2014,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508001,2014,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,516101,2014,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1136466,2014,Meningococcal Meningitis
-Udon Thani,1,0.06,0,0.00,0.00,1567132,2014,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6717984,2014,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1576343,2014,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1136386,2014,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2615340,2014,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1389915,2014,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4564711,2014,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,375039,2014,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,345159,2014,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1463620,2014,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1840596,2014,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,540297,2014,Meningococcal Meningitis
-ZONE:11,1,0.02,1,100.00,0.02,4344513,2014,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,499435,2014,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,453850,2014,Meningococcal Meningitis
-Nakhon Si Thammarat,1,0.06,1,100.00,0.06,1544936,2014,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,260395,2014,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,373943,2014,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,175933,2014,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,1036021,2014,Meningococcal Meningitis
-ZONE:12,1,0.02,0,0.00,0.00,4825453,2014,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,770472,2014,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,682512,2014,Meningococcal Meningitis
-Phatthalung,1,0.19,0,0.00,0.00,519220,2014,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,311233,2014,Meningococcal Meningitis
-Songkhla,0,0.00,0,0.00,0.00,1395596,2014,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,637395,2014,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,509025,2014,Meningococcal Meningitis
-Total,8,0.01,1,12.50,0.00,66179083,2021,Meningococcal Meningitis
-ZONE:01,0,0.00,0,0.00,0.00,5875424,2021,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,726821,2021,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,401574,2021,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,476300,2021,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,465930,2021,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,435965,2021,Meningococcal Meningitis
-ZONE:02,2,0.06,0,0.00,0.00,3536074,2021,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Meningococcal Meningitis
-Tak,2,0.30,0,0.00,0.00,673423,2021,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,530852,2021,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Meningococcal Meningitis
-ZONE:04,1,0.02,0,0.00,0.00,5411959,2021,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Meningococcal Meningitis
-Lop Buri,1,0.13,0,0.00,0.00,741200,2021,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,643895,2021,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5332653,2021,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Meningococcal Meningitis
-Ratchaburi,1,0.12,0,0.00,0.00,868797,2021,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,746433,2021,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,228456,2021,Meningococcal Meningitis
-ZONE:07,1,0.02,0,0.00,0.00,5017381,2021,Meningococcal Meningitis
-Kalasin,1,0.10,0,0.00,0.00,976373,2021,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,422019,2021,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,638734,2021,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1377226,2021,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,533948,2021,Meningococcal Meningitis
-ZONE:11,1,0.02,1,100.00,0.02,4487259,2021,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,509344,2021,Meningococcal Meningitis
-Krabi,1,0.21,1,100.00,0.21,478561,2021,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,268123,2021,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,416629,2021,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,194473,2021,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Meningococcal Meningitis
-ZONE:12,1,0.02,0,0.00,0.00,4992834,2021,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,727799,2021,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,324467,2021,Meningococcal Meningitis
-Songkhla,1,0.07,0,0.00,0.00,1430073,2021,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,640182,2021,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,540458,2021,Meningococcal Meningitis
-ZONE:13,1,0.02,0,0.00,0.00,5558108,2021,Meningococcal Meningitis
-Bangkok,1,0.02,0,0.00,0.00,5558108,2021,Meningococcal Meningitis
+Total,15,0.02,2,13.33,0.00,63214022,2008,Meningococcal Meningitis
+Central Region,4,0.02,0,0.00,0.00,21226352,2008,Meningococcal Meningitis
+Bangkok,2,0.04,0,0.00,0.00,5713566,2008,Meningococcal Meningitis
+Zone:1,0,0.00,0,0.00,0.00,3335057,2008,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1038392,2008,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,764919,2008,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,913047,2008,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,618699,2008,Meningococcal Meningitis
+Zone:2,0,0.00,0,0.00,0.00,1588582,2008,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,284619,2008,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,336550,2008,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,751811,2008,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,215602,2008,Meningococcal Meningitis
+Zone:3,0,0.00,0,0.00,0.00,3046070,2008,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,661898,2008,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249625,2008,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,457184,2008,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,540281,2008,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1137082,2008,Meningococcal Meningitis
+Zone:4,1,0.03,0,0.00,0.00,3352570,2008,Meningococcal Meningitis
+Kanchanaburi,1,0.12,0,0.00,0.00,838094,2008,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,837285,2008,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,833650,2008,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,843541,2008,Meningococcal Meningitis
+Zone:5,1,0.06,0,0.00,0.00,1623176,2008,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,457518,2008,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,497483,2008,Meningococcal Meningitis
+Samut Sakhon,1,0.21,0,0.00,0.00,474041,2008,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,194134,2008,Meningococcal Meningitis
+Zone:9,0,0.00,0,0.00,0.00,2567331,2008,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,506012,2008,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1249067,2008,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,591067,2008,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,221185,2008,Meningococcal Meningitis
+South Region,6,0.07,1,16.67,0.01,8698196,2008,Meningococcal Meningitis
+Zone:6,0,0.00,0,0.00,0.00,3473895,2008,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,483011,2008,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1510081,2008,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,503847,2008,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,976956,2008,Meningococcal Meningitis
+Zone:7,3,0.17,0,0.00,0.00,1778692,2008,Meningococcal Meningitis
+Krabi,1,0.24,0,0.00,0.00,414670,2008,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,248411,2008,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,321252,2008,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,181758,2008,Meningococcal Meningitis
+Trang,2,0.33,0,0.00,0.00,612601,2008,Meningococcal Meningitis
+Zone:8,3,0.09,1,33.33,0.03,3445609,2008,Meningococcal Meningitis
+Narathiwat,1,0.14,1,100.00,0.14,715724,2008,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,639988,2008,Meningococcal Meningitis
+Satun,2,0.70,0,0.00,0.00,286446,2008,Meningococcal Meningitis
+Songkhla,0,0.00,0,0.00,0.00,1330342,2008,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,473109,2008,Meningococcal Meningitis
+North-Eastern Region,2,0.01,0,0.00,0.00,21414180,2008,Meningococcal Meningitis
+Zone:10,0,0.00,0,0.00,0.00,3553449,2008,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,616981,2008,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,498562,2008,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,904748,2008,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1533158,2008,Meningococcal Meningitis
+Zone:11,0,0.00,0,0.00,0.00,2149587,2008,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,336802,2008,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,698235,2008,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1114550,2008,Meningococcal Meningitis
+Zone:12,1,0.02,0,0.00,0.00,4976635,2008,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,978046,2008,Meningococcal Meningitis
+Khon Kaen,1,0.06,0,0.00,0.00,1754258,2008,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,936430,2008,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1307901,2008,Meningococcal Meningitis
+Zone:13,0,0.00,0,0.00,0.00,4141403,2008,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,369196,2008,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1442212,2008,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1790581,2008,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,539414,2008,Meningococcal Meningitis
+Zone:14,1,0.02,0,0.00,0.00,6593106,2008,Meningococcal Meningitis
+Buri Ram,1,0.06,0,0.00,0.00,1538861,2008,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1121123,2008,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2559006,2008,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1374116,2008,Meningococcal Meningitis
+North Region,3,0.03,1,33.33,0.01,11875294,2008,Meningococcal Meningitis
+Zone:15,0,0.00,0,0.00,0.00,3095362,2008,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1667358,2008,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,769115,2008,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405141,2008,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,253748,2008,Meningococcal Meningitis
+Zone:16,1,0.04,1,100.00,0.04,2654508,2008,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1226165,2008,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,476683,2008,Meningococcal Meningitis
+Phayao,1,0.21,1,100.00,0.21,486983,2008,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,464677,2008,Meningococcal Meningitis
+Zone:17,2,0.06,0,0.00,0.00,3443651,2008,Meningococcal Meningitis
+Phetchabun,1,0.10,0,0.00,0.00,996882,2008,Meningococcal Meningitis
+Phitsanulok,1,0.12,0,0.00,0.00,842840,2008,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,604559,2008,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,534629,2008,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,464741,2008,Meningococcal Meningitis
+Zone:18,0,0.00,0,0.00,0.00,2681773,2008,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726104,2008,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1073962,2008,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,554426,2008,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,327281,2008,Meningococcal Meningitis
 Total,43,0.07,2,4.65,0.00,62939819,2003,Meningococcal Meningitis
 North Region,8,0.07,0,0.00,0.00,12120537,2003,Meningococcal Meningitis
 Zone:1,3,0.05,0,0.00,0.00,5764017,2003,Meningococcal Meningitis
@@ -746,297 +299,6 @@ Yala,2,0.43,1,50.00,0.22,462553,2003,Meningococcal Meningitis
 Zone:19,2,0.13,0,0.00,0.00,1555007,2003,Meningococcal Meningitis
 Satun,1,0.37,0,0.00,0.00,272252,2003,Meningococcal Meningitis
 Songkhla,1,0.08,0,0.00,0.00,1282755,2003,Meningococcal Meningitis
-Total,43,0.07,7,16.28,0.01,62195878,2005,Meningococcal Meningitis
-North Region,12,0.10,0,0.00,0.00,11862916,2005,Meningococcal Meningitis
-Zone:1,2,0.03,0,0.00,0.00,5729312,2005,Meningococcal Meningitis
-Chiang Mai,1,0.06,0,0.00,0.00,1640390,2005,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1219732,2005,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,777827,2005,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,404754,2005,Meningococcal Meningitis
-Mae Hong Son,1,0.40,0,0.00,0.00,248672,2005,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,477917,2005,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,487616,2005,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,472404,2005,Meningococcal Meningitis
-Zone:2,10,0.29,0,0.00,0.00,3442642,2005,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,1001820,2005,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,841248,2005,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,610871,2005,Meningococcal Meningitis
-Tak,9,1.73,0,0.00,0.00,519037,2005,Meningococcal Meningitis
-Uttaradit,1,0.21,0,0.00,0.00,469666,2005,Meningococcal Meningitis
-Zone:3,0,0.00,0,0.00,0.00,2690962,2005,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,727351,2005,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1077634,2005,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,559611,2005,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,326366,2005,Meningococcal Meningitis
-Central Region,18,0.09,4,22.22,0.02,20560399,2005,Meningococcal Meningitis
-Bangkok,1,0.02,0,0.00,0.00,5646543,2005,Meningococcal Meningitis
-Zone:4,1,0.04,0,0.00,0.00,2777019,2005,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,283373,2005,Meningococcal Meningitis
-Nonthaburi,1,0.10,0,0.00,0.00,957287,2005,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,743659,2005,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,792700,2005,Meningococcal Meningitis
-Zone:5,1,0.05,0,0.00,0.00,1909368,2005,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,340812,2005,Meningococcal Meningitis
-Lop Buri,1,0.13,0,0.00,0.00,750718,2005,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,598905,2005,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,218933,2005,Meningococcal Meningitis
-Zone:6,8,0.24,0,0.00,0.00,3282327,2005,Meningococcal Meningitis
-Kanchanaburi,4,0.49,0,0.00,0.00,818218,2005,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,803489,2005,Meningococcal Meningitis
-Ratchaburi,4,0.49,0,0.00,0.00,819286,2005,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,841334,2005,Meningococcal Meningitis
-Zone:7,3,0.19,1,33.33,0.06,1578246,2005,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,452506,2005,Meningococcal Meningitis
-Prachuap Khiri Khan,1,0.21,1,100.00,0.21,483243,2005,Meningococcal Meningitis
-Samut Sakhon,2,0.45,0,0.00,0.00,447353,2005,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,195144,2005,Meningococcal Meningitis
-Zone:8,0,0.00,0,0.00,0.00,2943051,2005,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,645521,2005,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,249686,2005,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,447783,2005,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,536591,2005,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1063470,2005,Meningococcal Meningitis
-Zone:9,4,0.17,3,75.00,0.12,2423845,2005,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,496081,2005,Meningococcal Meningitis
-Chon Buri,4,0.35,3,75.00,0.26,1157709,2005,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,551512,2005,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,218543,2005,Meningococcal Meningitis
-North-Eastern Region,1,0.00,1,100.00,0.00,21297778,2005,Meningococcal Meningitis
-Zone:10,0,0.00,0,0.00,0.00,3524138,2005,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,611448,2005,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,495626,2005,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,895911,2005,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1521153,2005,Meningococcal Meningitis
-Zone:11,0,0.00,0,0.00,0.00,3101003,2005,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,972425,2005,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,333338,2005,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,692377,2005,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1102863,2005,Meningococcal Meningitis
-Zone:12,0,0.00,0,0.00,0.00,3991075,2005,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1744646,2005,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,935967,2005,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1310462,2005,Meningococcal Meningitis
-Zone:13,1,0.02,1,100.00,0.02,6560991,2005,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1527846,2005,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1117026,2005,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2543054,2005,Meningococcal Meningitis
-Surin,1,0.07,1,100.00,0.07,1373065,2005,Meningococcal Meningitis
-Zone:14,0,0.00,0,0.00,0.00,4120571,2005,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,368153,2005,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1442190,2005,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1768935,2005,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,541293,2005,Meningococcal Meningitis
-South Region,12,0.14,2,16.67,0.02,8474785,2005,Meningococcal Meningitis
-Zone:15,2,0.13,0,0.00,0.00,1593965,2005,Meningococcal Meningitis
-Chumphon,1,0.21,0,0.00,0.00,473916,2005,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,177247,2005,Meningococcal Meningitis
-Surat Thani,1,0.11,0,0.00,0.00,942802,2005,Meningococcal Meningitis
-Zone:16,1,0.04,0,0.00,0.00,2600847,2005,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1502382,2005,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,499399,2005,Meningococcal Meningitis
-Trang,1,0.17,0,0.00,0.00,599066,2005,Meningococcal Meningitis
-Zone:17,5,0.54,2,40.00,0.22,921037,2005,Meningococcal Meningitis
-Krabi,4,1.02,1,25.00,0.26,391709,2005,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,240254,2005,Meningococcal Meningitis
-Phuket,1,0.35,1,100.00,0.35,289074,2005,Meningococcal Meningitis
-Zone:18,1,0.06,0,0.00,0.00,1791264,2005,Meningococcal Meningitis
-Narathiwat,1,0.14,0,0.00,0.00,697150,2005,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,632119,2005,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,461995,2005,Meningococcal Meningitis
-Zone:19,3,0.19,0,0.00,0.00,1567672,2005,Meningococcal Meningitis
-Satun,1,0.36,0,0.00,0.00,275706,2005,Meningococcal Meningitis
-Songkhla,2,0.15,0,0.00,0.00,1291966,2005,Meningococcal Meningitis
-Total,7,0.01,1,14.29,0.00,66071545,2024,Meningococcal Meningitis
-ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,715133,2024,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,398998,2024,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,473630,2024,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,459858,2024,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,428499,2024,Meningococcal Meningitis
-ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,687927,2024,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2896463,2024,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,523925,2024,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Meningococcal Meningitis
-ZONE:04,1,0.02,1,100.00,0.02,5438863,2024,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Meningococcal Meningitis
-Saraburi,1,0.16,1,100.00,0.16,638704,2024,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5326695,2024,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Meningococcal Meningitis
-Nakhon Pathom,1,0.11,0,0.00,0.00,923201,2024,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,6292163,2024,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1606412,2024,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,765287,2024,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,227430,2024,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,970084,2024,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5500012,2024,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,421086,2024,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,636242,2024,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6689028,2024,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1370376,2024,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,530239,2024,Meningococcal Meningitis
-ZONE:11,2,0.04,0,0.00,0.00,4489783,2024,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,509122,2024,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,481089,2024,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,267250,2024,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,420746,2024,Meningococcal Meningitis
-Ranong,1,0.52,0,0.00,0.00,193799,2024,Meningococcal Meningitis
-Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,Meningococcal Meningitis
-ZONE:12,3,0.06,0,0.00,0.00,5015209,2024,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Meningococcal Meningitis
-Pattani,1,0.14,0,0.00,0.00,735017,2024,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,325387,2024,Meningococcal Meningitis
-Songkhla,2,0.14,0,0.00,0.00,1431512,2024,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,637612,2024,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,547930,2024,Meningococcal Meningitis
-ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Meningococcal Meningitis
-Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Meningococcal Meningitis
-Total,30,0.05,10,33.33,0.02,62933515,2007,Meningococcal Meningitis
-North Region,1,0.01,0,0.00,0.00,11881352,2007,Meningococcal Meningitis
-Zone:1,1,0.02,0,0.00,0.00,5750312,2007,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1661349,2007,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1225364,2007,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,772202,2007,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405361,2007,Meningococcal Meningitis
-Mae Hong Son,1,0.39,0,0.00,0.00,254990,2007,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,477522,2007,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,486399,2007,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,467125,2007,Meningococcal Meningitis
-Zone:2,0,0.00,0,0.00,0.00,3445764,2007,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,999924,2007,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,843096,2007,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,607061,2007,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,529303,2007,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,466380,2007,Meningococcal Meningitis
-Zone:3,0,0.00,0,0.00,0.00,2685276,2007,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,727158,2007,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1074849,2007,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,556287,2007,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,326982,2007,Meningococcal Meningitis
-Central Region,4,0.02,1,25.00,0.00,21043273,2007,Meningococcal Meningitis
-Bangkok,1,0.02,0,0.00,0.00,5706103,2007,Meningococcal Meningitis
-Zone:4,0,0.00,0,0.00,0.00,2932544,2007,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,284175,2007,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1011624,2007,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,757654,2007,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,879091,2007,Meningococcal Meningitis
-Zone:5,0,0.00,0,0.00,0.00,1918492,2007,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,338077,2007,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,751298,2007,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,612806,2007,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,216311,2007,Meningococcal Meningitis
-Zone:6,2,0.06,1,50.00,0.03,3334732,2007,Meningococcal Meningitis
-Kanchanaburi,1,0.12,1,100.00,0.12,834865,2007,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,826438,2007,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,830184,2007,Meningococcal Meningitis
-Suphan Buri,1,0.12,0,0.00,0.00,843245,2007,Meningococcal Meningitis
-Zone:7,0,0.00,0,0.00,0.00,1611697,2007,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,456371,2007,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,494502,2007,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,466222,2007,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Meningococcal Meningitis
-Zone:8,0,0.00,0,0.00,0.00,3016265,2007,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,656586,2007,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,249250,2007,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,454404,2007,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,538741,2007,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1117284,2007,Meningococcal Meningitis
-Zone:9,1,0.04,0,0.00,0.00,2523440,2007,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,503197,2007,Meningococcal Meningitis
-Chon Buri,1,0.08,0,0.00,0.00,1221369,2007,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,578628,2007,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,220246,2007,Meningococcal Meningitis
-North-Eastern Region,7,0.03,1,14.29,0.00,21381249,2007,Meningococcal Meningitis
-Zone:10,0,0.00,0,0.00,0.00,3541793,2007,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,614421,2007,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497148,2007,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,901100,2007,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1529124,2007,Meningococcal Meningitis
-Zone:11,2,0.06,0,0.00,0.00,3119599,2007,Meningococcal Meningitis
-Kalasin,1,0.10,0,0.00,0.00,976536,2007,Meningococcal Meningitis
-Mukdahan,1,0.30,0,0.00,0.00,335778,2007,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,696229,2007,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1111056,2007,Meningococcal Meningitis
-Zone:12,0,0.00,0,0.00,0.00,3997622,2007,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1751458,2007,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,936846,2007,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1309318,2007,Meningococcal Meningitis
-Zone:13,3,0.05,1,33.33,0.02,6583974,2007,Meningococcal Meningitis
-Buri Ram,2,0.13,0,0.00,0.00,1536396,2007,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1119372,2007,Meningococcal Meningitis
-Nakhon Ratchasima,1,0.04,1,100.00,0.04,2554241,2007,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1373965,2007,Meningococcal Meningitis
-Zone:14,2,0.05,0,0.00,0.00,4138261,2007,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,368925,2007,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1444748,2007,Meningococcal Meningitis
-Ubon Ratchathani,1,0.06,0,0.00,0.00,1784372,2007,Meningococcal Meningitis
-Yasothon,1,0.19,0,0.00,0.00,540216,2007,Meningococcal Meningitis
-South Region,18,0.21,8,44.44,0.09,8627641,2007,Meningococcal Meningitis
-Zone:15,0,0.00,0,0.00,0.00,1626011,2007,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,480131,2007,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,180319,2007,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,965561,2007,Meningococcal Meningitis
-Zone:16,1,0.04,0,0.00,0.00,2620564,2007,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1508729,2007,Meningococcal Meningitis
-Phatthalung,1,0.20,0,0.00,0.00,502943,2007,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,608892,2007,Meningococcal Meningitis
-Zone:17,5,0.52,1,20.00,0.10,961258,2007,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,406999,2007,Meningococcal Meningitis
-Phangnga,3,1.22,0,0.00,0.00,246141,2007,Meningococcal Meningitis
-Phuket,2,0.65,1,50.00,0.32,308118,2007,Meningococcal Meningitis
-Zone:18,8,0.44,7,87.50,0.39,1815585,2007,Meningococcal Meningitis
-Narathiwat,1,0.14,1,100.00,0.14,709345,2007,Meningococcal Meningitis
-Pattani,7,1.10,6,85.71,0.94,636768,2007,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,469472,2007,Meningococcal Meningitis
-Zone:19,4,0.25,0,0.00,0.00,1604223,2007,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,283014,2007,Meningococcal Meningitis
-Songkhla,4,0.30,0,0.00,0.00,1321209,2007,Meningococcal Meningitis
 Total,25,0.04,2,8.00,0.00,66486458,2019,Meningococcal Meningitis
 ZONE:01,1,0.02,0,0.00,0.00,5891985,2019,Meningococcal Meningitis
 Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Meningococcal Meningitis
@@ -1219,6 +481,97 @@ Trang,0,0.00,0,0.00,0.00,642377,2017,Meningococcal Meningitis
 Yala,2,0.38,2,100.00,0.38,524788,2017,Meningococcal Meningitis
 ZONE:13,5,0.09,1,20.00,0.02,5684531,2017,Meningococcal Meningitis
 Bangkok,5,0.09,1,20.00,0.02,5684531,2017,Meningococcal Meningitis
+Total,19,0.03,3,15.79,0.00,66171439,2022,Meningococcal Meningitis
+ZONE:01,0,0.00,0,0.00,0.00,5874503,2022,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,475875,2022,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Meningococcal Meningitis
+ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,676583,2022,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Meningococcal Meningitis
+ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,643963,2022,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5333543,2022,Meningococcal Meningitis
+Kanchanaburi,1,0.11,0,0.00,0.00,894054,2022,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,228376,2022,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,638732,2022,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Meningococcal Meningitis
+ZONE:11,15,0.33,3,20.00,0.07,4492012,2022,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Meningococcal Meningitis
+Krabi,13,2.71,1,7.69,0.21,479351,2022,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Meningococcal Meningitis
+Ranong,1,0.51,1,100.00,0.51,194573,2022,Meningococcal Meningitis
+Surat Thani,1,0.09,1,100.00,0.09,1072464,2022,Meningococcal Meningitis
+ZONE:12,3,0.06,0,0.00,0.00,5000255,2022,Meningococcal Meningitis
+Narathiwat,1,0.12,0,0.00,0.00,809660,2022,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Meningococcal Meningitis
+Phatthalung,1,0.19,0,0.00,0.00,522541,2022,Meningococcal Meningitis
+Satun,1,0.31,0,0.00,0.00,324835,2022,Meningococcal Meningitis
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,639788,2022,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,542314,2022,Meningococcal Meningitis
+ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Meningococcal Meningitis
+Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Meningococcal Meningitis
 Total,13,0.02,2,15.38,0.00,64076033,2013,Meningococcal Meningitis
 Central Region,5,0.02,0,0.00,0.00,21734984,2013,Meningococcal Meningitis
 Zone:0,1,0.02,0,0.00,0.00,5674843,2013,Meningococcal Meningitis
@@ -1320,105 +673,6 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2013,Meningococcal Meningitis
 Nakhon Sawan,0,0.00,0,0.00,0.00,1071686,2013,Meningococcal Meningitis
 Phichit,0,0.00,0,0.00,0.00,549688,2013,Meningococcal Meningitis
 Uthai Thani,0,0.00,0,0.00,0.00,328034,2013,Meningococcal Meningitis
-Total,15,0.02,2,13.33,0.00,63214022,2008,Meningococcal Meningitis
-Central Region,4,0.02,0,0.00,0.00,21226352,2008,Meningococcal Meningitis
-Bangkok,2,0.04,0,0.00,0.00,5713566,2008,Meningococcal Meningitis
-Zone:1,0,0.00,0,0.00,0.00,3335057,2008,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1038392,2008,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,764919,2008,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,913047,2008,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,618699,2008,Meningococcal Meningitis
-Zone:2,0,0.00,0,0.00,0.00,1588582,2008,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,284619,2008,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,336550,2008,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,751811,2008,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,215602,2008,Meningococcal Meningitis
-Zone:3,0,0.00,0,0.00,0.00,3046070,2008,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,661898,2008,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,249625,2008,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,457184,2008,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,540281,2008,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1137082,2008,Meningococcal Meningitis
-Zone:4,1,0.03,0,0.00,0.00,3352570,2008,Meningococcal Meningitis
-Kanchanaburi,1,0.12,0,0.00,0.00,838094,2008,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,837285,2008,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,833650,2008,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,843541,2008,Meningococcal Meningitis
-Zone:5,1,0.06,0,0.00,0.00,1623176,2008,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,457518,2008,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,497483,2008,Meningococcal Meningitis
-Samut Sakhon,1,0.21,0,0.00,0.00,474041,2008,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,194134,2008,Meningococcal Meningitis
-Zone:9,0,0.00,0,0.00,0.00,2567331,2008,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,506012,2008,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1249067,2008,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,591067,2008,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,221185,2008,Meningococcal Meningitis
-South Region,6,0.07,1,16.67,0.01,8698196,2008,Meningococcal Meningitis
-Zone:6,0,0.00,0,0.00,0.00,3473895,2008,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,483011,2008,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1510081,2008,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,503847,2008,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,976956,2008,Meningococcal Meningitis
-Zone:7,3,0.17,0,0.00,0.00,1778692,2008,Meningococcal Meningitis
-Krabi,1,0.24,0,0.00,0.00,414670,2008,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,248411,2008,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,321252,2008,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,181758,2008,Meningococcal Meningitis
-Trang,2,0.33,0,0.00,0.00,612601,2008,Meningococcal Meningitis
-Zone:8,3,0.09,1,33.33,0.03,3445609,2008,Meningococcal Meningitis
-Narathiwat,1,0.14,1,100.00,0.14,715724,2008,Meningococcal Meningitis
-Pattani,0,0.00,0,0.00,0.00,639988,2008,Meningococcal Meningitis
-Satun,2,0.70,0,0.00,0.00,286446,2008,Meningococcal Meningitis
-Songkhla,0,0.00,0,0.00,0.00,1330342,2008,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,473109,2008,Meningococcal Meningitis
-North-Eastern Region,2,0.01,0,0.00,0.00,21414180,2008,Meningococcal Meningitis
-Zone:10,0,0.00,0,0.00,0.00,3553449,2008,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,616981,2008,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,498562,2008,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,904748,2008,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1533158,2008,Meningococcal Meningitis
-Zone:11,0,0.00,0,0.00,0.00,2149587,2008,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,336802,2008,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,698235,2008,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1114550,2008,Meningococcal Meningitis
-Zone:12,1,0.02,0,0.00,0.00,4976635,2008,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,978046,2008,Meningococcal Meningitis
-Khon Kaen,1,0.06,0,0.00,0.00,1754258,2008,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,936430,2008,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1307901,2008,Meningococcal Meningitis
-Zone:13,0,0.00,0,0.00,0.00,4141403,2008,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,369196,2008,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1442212,2008,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1790581,2008,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,539414,2008,Meningococcal Meningitis
-Zone:14,1,0.02,0,0.00,0.00,6593106,2008,Meningococcal Meningitis
-Buri Ram,1,0.06,0,0.00,0.00,1538861,2008,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1121123,2008,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2559006,2008,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1374116,2008,Meningococcal Meningitis
-North Region,3,0.03,1,33.33,0.01,11875294,2008,Meningococcal Meningitis
-Zone:15,0,0.00,0,0.00,0.00,3095362,2008,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1667358,2008,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,769115,2008,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405141,2008,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,253748,2008,Meningococcal Meningitis
-Zone:16,1,0.04,1,100.00,0.04,2654508,2008,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1226165,2008,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,476683,2008,Meningococcal Meningitis
-Phayao,1,0.21,1,100.00,0.21,486983,2008,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,464677,2008,Meningococcal Meningitis
-Zone:17,2,0.06,0,0.00,0.00,3443651,2008,Meningococcal Meningitis
-Phetchabun,1,0.10,0,0.00,0.00,996882,2008,Meningococcal Meningitis
-Phitsanulok,1,0.12,0,0.00,0.00,842840,2008,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,604559,2008,Meningococcal Meningitis
-Tak,0,0.00,0,0.00,0.00,534629,2008,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,464741,2008,Meningococcal Meningitis
-Zone:18,0,0.00,0,0.00,0.00,2681773,2008,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726104,2008,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1073962,2008,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,554426,2008,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,327281,2008,Meningococcal Meningitis
 Total,22,0.03,2,9.09,0.00,63977185,2011,Meningococcal Meningitis
 Central Region,7,0.03,1,14.29,0.00,21679246,2011,Meningococcal Meningitis
 Zone:0,1,0.02,0,0.00,0.00,5688119,2011,Meningococcal Meningitis
@@ -1520,97 +774,6 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726551,2011,Meningococcal Meningitis
 Nakhon Sawan,0,0.00,0,0.00,0.00,1072591,2011,Meningococcal Meningitis
 Phichit,0,0.00,0,0.00,0.00,551189,2011,Meningococcal Meningitis
 Uthai Thani,0,0.00,0,0.00,0.00,327997,2011,Meningococcal Meningitis
-Total,25,0.04,2,8.00,0.00,65124716,2015,Meningococcal Meningitis
-ZONE:00,2,0.04,0,0.00,0.00,5692284,2015,Meningococcal Meningitis
-Bangkok,2,0.04,0,0.00,0.00,5692284,2015,Meningococcal Meningitis
-ZONE:01,1,0.02,0,0.00,0.00,5709443,2015,Meningococcal Meningitis
-Chiang Mai,1,0.06,0,0.00,0.00,1678284,2015,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1207699,2015,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,753013,2015,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405468,2015,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,478264,2015,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,484454,2015,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,454083,2015,Meningococcal Meningitis
-ZONE:02,3,0.09,1,33.33,0.03,3457208,2015,Meningococcal Meningitis
-Phetchabun,1,0.10,1,100.00,0.10,995807,2015,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,858988,2015,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,602460,2015,Meningococcal Meningitis
-Tak,2,0.37,0,0.00,0.00,539553,2015,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,460400,2015,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,3012283,2015,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1072756,2015,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,547543,2015,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,330179,2015,Meningococcal Meningitis
-ZONE:04,2,0.04,0,0.00,0.00,5196419,2015,Meningococcal Meningitis
-Ang Thong,1,0.35,0,0.00,0.00,283568,2015,Meningococcal Meningitis
-Lop Buri,1,0.13,0,0.00,0.00,758406,2015,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1173870,2015,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,803599,2015,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,633460,2015,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Meningococcal Meningitis
-ZONE:05,3,0.06,1,33.33,0.02,5166914,2015,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,848198,2015,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Meningococcal Meningitis
-Ratchaburi,1,0.12,0,0.00,0.00,853217,2015,Meningococcal Meningitis
-Samut Sakhon,2,0.38,1,50.00,0.19,531887,2015,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Meningococcal Meningitis
-ZONE:06,0,0.00,0,0.00,0.00,5836407,2015,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,695478,2015,Meningococcal Meningitis
-Chanthaburi,0,0.00,0,0.00,0.00,527350,2015,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,479314,2015,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,674393,2015,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,224730,2015,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,5043862,2015,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,984907,2015,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1790049,2015,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5501453,2015,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,418566,2015,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,634513,2015,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1138609,2015,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Meningococcal Meningitis
-ZONE:09,0,0.00,0,0.00,0.00,6728450,2015,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1579248,2015,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2620517,2015,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1391636,2015,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4571489,2015,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1465213,2015,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,540211,2015,Meningococcal Meningitis
-ZONE:11,3,0.07,0,0.00,0.00,4362467,2015,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,500575,2015,Meningococcal Meningitis
-Krabi,1,0.22,0,0.00,0.00,456811,2015,Meningococcal Meningitis
-Nakhon Si Thammarat,1,0.06,0,0.00,0.00,1548028,2015,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,261370,2015,Meningococcal Meningitis
-Phuket,1,0.26,0,0.00,0.00,378364,2015,Meningococcal Meningitis
-Ranong,0,0.00,0,0.00,0.00,177089,2015,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,1040230,2015,Meningococcal Meningitis
-ZONE:12,11,0.23,0,0.00,0.00,4846037,2015,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,774799,2015,Meningococcal Meningitis
-Pattani,2,0.29,0,0.00,0.00,686186,2015,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Meningococcal Meningitis
-Satun,4,1.28,0,0.00,0.00,312673,2015,Meningococcal Meningitis
-Songkhla,4,0.29,0,0.00,0.00,1401303,2015,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,638746,2015,Meningococcal Meningitis
-Yala,1,0.20,0,0.00,0.00,511911,2015,Meningococcal Meningitis
 Total,34,0.05,5,14.71,0.01,63457439,2009,Meningococcal Meningitis
 Central Region,10,0.05,0,0.00,0.00,21386001,2009,Meningococcal Meningitis
 Bangkok,4,0.07,0,0.00,0.00,5706739,2009,Meningococcal Meningitis
@@ -1710,6 +873,943 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726530,2009,Meningococcal Meningitis
 Nakhon Sawan,0,0.00,0,0.00,0.00,1073554,2009,Meningococcal Meningitis
 Phichit,0,0.00,0,0.00,0.00,553653,2009,Meningococcal Meningitis
 Uthai Thani,0,0.00,0,0.00,0.00,327729,2009,Meningococcal Meningitis
+Total,35,0.06,8,22.86,0.01,62623416,2006,Meningococcal Meningitis
+North Region,5,0.04,0,0.00,0.00,11887142,2006,Meningococcal Meningitis
+Zone:1,1,0.02,0,0.00,0.00,5748673,2006,Meningococcal Meningitis
+Chiang Mai,1,0.06,0,0.00,0.00,1654154,2006,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1225386,2006,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,775259,2006,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405146,2006,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,254392,2006,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,477871,2006,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,486554,2006,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,469911,2006,Meningococcal Meningitis
+Zone:2,2,0.06,0,0.00,0.00,3448091,2006,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,1002388,2006,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,842739,2006,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,609591,2006,Meningococcal Meningitis
+Tak,2,0.38,0,0.00,0.00,524938,2006,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,468435,2006,Meningococcal Meningitis
+Zone:3,2,0.07,0,0.00,0.00,2690378,2006,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728293,2006,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1076911,2006,Meningococcal Meningitis
+Phichit,2,0.36,0,0.00,0.00,558314,2006,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,326860,2006,Meningococcal Meningitis
+Central Region,11,0.05,0,0.00,0.00,20825142,2006,Meningococcal Meningitis
+Bangkok,1,0.02,0,0.00,0.00,5677455,2006,Meningococcal Meningitis
+Zone:4,3,0.10,0,0.00,0.00,2858658,2006,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,283861,2006,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,985669,2006,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,750757,2006,Meningococcal Meningitis
+Pathum Thani,3,0.36,0,0.00,0.00,838371,2006,Meningococcal Meningitis
+Zone:5,1,0.05,0,0.00,0.00,1915186,2006,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,339568,2006,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,752364,2006,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,605897,2006,Meningococcal Meningitis
+Sing Buri,1,0.46,0,0.00,0.00,217357,2006,Meningococcal Meningitis
+Zone:6,2,0.06,0,0.00,0.00,3315213,2006,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,830309,2006,Meningococcal Meningitis
+Nakhon Pathom,1,0.12,0,0.00,0.00,815433,2006,Meningococcal Meningitis
+Ratchaburi,1,0.12,0,0.00,0.00,826212,2006,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,843259,2006,Meningococcal Meningitis
+Zone:7,1,0.06,0,0.00,0.00,1598232,2006,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,455332,2006,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490607,2006,Meningococcal Meningitis
+Samut Sakhon,1,0.22,0,0.00,0.00,457264,2006,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,195029,2006,Meningococcal Meningitis
+Zone:8,1,0.03,0,0.00,0.00,2983258,2006,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,650909,2006,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,250392,2006,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,451721,2006,Meningococcal Meningitis
+Sa Kaeo,1,0.19,0,0.00,0.00,537661,2006,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1092575,2006,Meningococcal Meningitis
+Zone:9,2,0.08,0,0.00,0.00,2477140,2006,Meningococcal Meningitis
+Chanthaburi,1,0.20,0,0.00,0.00,500275,2006,Meningococcal Meningitis
+Chon Buri,1,0.08,0,0.00,0.00,1190861,2006,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,566461,2006,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,219543,2006,Meningococcal Meningitis
+North-Eastern Region,3,0.01,1,33.33,0.00,21352480,2006,Meningococcal Meningitis
+Zone:10,0,0.00,0,0.00,0.00,3533061,2006,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,612863,2006,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,496675,2006,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,897840,2006,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1525683,2006,Meningococcal Meningitis
+Zone:11,1,0.03,1,100.00,0.03,3110390,2006,Meningococcal Meningitis
+Kalasin,1,0.10,1,100.00,0.10,974560,2006,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,334781,2006,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,694473,2006,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1106576,2006,Meningococcal Meningitis
+Zone:12,0,0.00,0,0.00,0.00,3996666,2006,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1749021,2006,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,937285,2006,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1310360,2006,Meningococcal Meningitis
+Zone:13,1,0.02,0,0.00,0.00,6578271,2006,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1534076,2006,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1118040,2006,Meningococcal Meningitis
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2551176,2006,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1374979,2006,Meningococcal Meningitis
+Zone:14,1,0.02,0,0.00,0.00,4134092,2006,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,368863,2006,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1445230,2006,Meningococcal Meningitis
+Ubon Ratchathani,1,0.06,0,0.00,0.00,1778922,2006,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,541077,2006,Meningococcal Meningitis
+South Region,16,0.19,7,43.75,0.08,8558652,2006,Meningococcal Meningitis
+Zone:15,2,0.12,1,50.00,0.06,1610374,2006,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,477364,2006,Meningococcal Meningitis
+Ranong,1,0.56,0,0.00,0.00,178986,2006,Meningococcal Meningitis
+Surat Thani,1,0.10,1,100.00,0.10,954024,2006,Meningococcal Meningitis
+Zone:16,2,0.08,1,50.00,0.04,2614100,2006,Meningococcal Meningitis
+Nakhon Si Thammarat,1,0.07,1,100.00,0.07,1507440,2006,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,501912,2006,Meningococcal Meningitis
+Trang,1,0.17,0,0.00,0.00,604748,2006,Meningococcal Meningitis
+Zone:17,2,0.21,1,50.00,0.11,939424,2006,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,399514,2006,Meningococcal Meningitis
+Phangnga,1,0.41,0,0.00,0.00,243419,2006,Meningococcal Meningitis
+Phuket,1,0.34,1,100.00,0.34,296491,2006,Meningococcal Meningitis
+Zone:18,6,0.33,2,33.33,0.11,1805088,2006,Meningococcal Meningitis
+Narathiwat,1,0.14,1,100.00,0.14,703848,2006,Meningococcal Meningitis
+Pattani,5,0.79,1,20.00,0.16,635053,2006,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,466187,2006,Meningococcal Meningitis
+Zone:19,4,0.25,2,50.00,0.13,1589666,2006,Meningococcal Meningitis
+Satun,1,0.36,1,100.00,0.36,279705,2006,Meningococcal Meningitis
+Songkhla,3,0.23,1,33.33,0.08,1309961,2006,Meningococcal Meningitis
+Total,21,0.03,2,9.52,0.00,66130957,2023,Meningococcal Meningitis
+ZONE:01,0,0.00,0,0.00,0.00,5869190,2023,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1790929,2023,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1299030,2023,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,721734,2023,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,400348,2023,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,475207,2023,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,462968,2023,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,432624,2023,Meningococcal Meningitis
+ZONE:02,1,0.03,0,0.00,0.00,3530228,2023,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Meningococcal Meningitis
+Tak,1,0.15,0,0.00,0.00,680361,2023,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2913905,2023,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,319370,2023,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,527669,2023,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Meningococcal Meningitis
+ZONE:04,0,0.00,0,0.00,0.00,5424945,2023,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1292276,2023,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,641272,2023,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5330665,2023,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Meningococcal Meningitis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553234,2023,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Meningococcal Meningitis
+ZONE:06,2,0.03,0,0.00,0.00,6251747,2023,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,725433,2023,Meningococcal Meningitis
+Chanthaburi,1,0.19,0,0.00,0.00,536351,2023,Meningococcal Meningitis
+Chon Buri,1,0.06,0,0.00,0.00,1589214,2023,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,755364,2023,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,562404,2023,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,228092,2023,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,5001616,2023,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,973835,2023,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1787752,2023,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,421840,2023,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,638037,2023,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Meningococcal Meningitis
+ZONE:09,1,0.01,0,0.00,0.00,6705133,2023,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1578361,2023,Meningococcal Meningitis
+Chaiyaphum,1,0.09,0,0.00,0.00,1120095,2023,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1374571,2023,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,532497,2023,Meningococcal Meningitis
+ZONE:11,3,0.07,0,0.00,0.00,4489916,2023,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,509433,2023,Meningococcal Meningitis
+Krabi,2,0.42,0,0.00,0.00,479705,2023,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,267729,2023,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,418339,2023,Meningococcal Meningitis
+Ranong,1,0.51,0,0.00,0.00,194400,2023,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Meningococcal Meningitis
+ZONE:12,12,0.24,2,16.67,0.04,5004720,2023,Meningococcal Meningitis
+Narathiwat,1,0.12,0,0.00,0.00,811891,2023,Meningococcal Meningitis
+Pattani,1,0.14,0,0.00,0.00,731269,2023,Meningococcal Meningitis
+Phatthalung,2,0.38,0,0.00,0.00,522080,2023,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,325069,2023,Meningococcal Meningitis
+Songkhla,4,0.28,1,25.00,0.07,1431300,2023,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,638997,2023,Meningococcal Meningitis
+Yala,4,0.74,1,25.00,0.18,544114,2023,Meningococcal Meningitis
+ZONE:13,1,0.02,0,0.00,0.00,5511463,2023,Meningococcal Meningitis
+Bangkok,1,0.02,0,0.00,0.00,5511463,2023,Meningococcal Meningitis
+Total,17,0.03,2,11.76,0.00,65426907,2016,Meningococcal Meningitis
+ZONE:01,3,0.05,0,0.00,0.00,5781324,2016,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1703263,2016,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1242825,2016,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,752685,2016,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405927,2016,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Meningococcal Meningitis
+Nan,1,0.21,0,0.00,0.00,478890,2016,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,483550,2016,Meningococcal Meningitis
+Phrae,2,0.44,0,0.00,0.00,453213,2016,Meningococcal Meningitis
+ZONE:02,0,0.00,0,0.00,0.00,3498728,2016,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,996397,2016,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,861194,2016,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,602085,2016,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,578968,2016,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,460084,2016,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,3011449,2016,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729839,2016,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072349,2016,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,546750,2016,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Meningococcal Meningitis
+ZONE:04,0,0.00,0,0.00,0.00,5221125,2016,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1084154,2016,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,635567,2016,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Meningococcal Meningitis
+ZONE:05,0,0.00,0,0.00,0.00,5209561,2016,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,895207,2016,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,5880124,2016,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,698190,2016,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,529194,2016,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1438231,2016,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,681696,2016,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,554555,2016,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,227083,2016,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,5049920,2016,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,985055,2016,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,962592,2016,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1308241,2016,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5511930,2016,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,419607,2016,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,636666,2016,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,714369,2016,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1140673,2016,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6737604,2016,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1581955,2016,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2624668,2016,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1393330,2016,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4581192,2016,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1467006,2016,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1851049,2016,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,540197,2016,Meningococcal Meningitis
+ZONE:11,6,0.14,2,33.33,0.05,4383957,2016,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,503203,2016,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,459456,2016,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,262721,2016,Meningococcal Meningitis
+Phuket,4,1.05,1,25.00,0.26,382485,2016,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,182313,2016,Meningococcal Meningitis
+Surat Thani,2,0.19,1,50.00,0.10,1043501,2016,Meningococcal Meningitis
+ZONE:12,3,0.06,0,0.00,0.00,4865646,2016,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,778941,2016,Meningococcal Meningitis
+Pattani,3,0.43,0,0.00,0.00,690104,2016,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,314297,2016,Meningococcal Meningitis
+Songkhla,0,0.00,0,0.00,0.00,1405939,2016,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,639770,2016,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,515025,2016,Meningococcal Meningitis
+ZONE:13,5,0.09,0,0.00,0.00,5694347,2016,Meningococcal Meningitis
+Bangkok,5,0.09,0,0.00,0.00,5694347,2016,Meningococcal Meningitis
+Total,13,0.02,3,23.08,0.00,66372831,2020,Meningococcal Meningitis
+ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,477476,2020,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Meningococcal Meningitis
+ZONE:02,2,0.06,0,0.00,0.00,3554902,2020,Meningococcal Meningitis
+Phetchabun,1,0.10,0,0.00,0.00,987196,2020,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Meningococcal Meningitis
+Tak,1,0.15,0,0.00,0.00,667942,2020,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Meningococcal Meningitis
+ZONE:04,1,0.02,0,0.00,0.00,5400529,2020,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,1,0.12,0,0.00,0.00,819638,2020,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5342038,2020,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Meningococcal Meningitis
+Ratchaburi,1,0.11,0,0.00,0.00,871207,2020,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Meningococcal Meningitis
+ZONE:06,1,0.02,0,0.00,0.00,6192990,2020,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Meningococcal Meningitis
+Samut Prakan,1,0.07,0,0.00,0.00,1348177,2020,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,229247,2020,Meningococcal Meningitis
+ZONE:07,2,0.04,0,0.00,0.00,5039088,2020,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Meningococcal Meningitis
+Khon Kaen,2,0.11,0,0.00,0.00,1798702,2020,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,640843,2020,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Meningococcal Meningitis
+ZONE:09,1,0.01,0,0.00,0.00,6748199,2020,Meningococcal Meningitis
+Buri Ram,1,0.06,0,0.00,0.00,1588466,2020,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1387526,2020,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4603401,2020,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Meningococcal Meningitis
+ZONE:11,1,0.02,1,100.00,0.02,4489609,2020,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Meningococcal Meningitis
+Surat Thani,1,0.09,1,100.00,0.09,1067867,2020,Meningococcal Meningitis
+ZONE:12,4,0.08,2,50.00,0.04,4991217,2020,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Meningococcal Meningitis
+Phatthalung,1,0.19,1,100.00,0.19,523971,2020,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,323841,2020,Meningococcal Meningitis
+Songkhla,3,0.21,1,33.33,0.07,1432288,2020,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,641868,2020,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,537466,2020,Meningococcal Meningitis
+ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Meningococcal Meningitis
+Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Meningococcal Meningitis
+Total,7,0.01,1,14.29,0.00,66071545,2024,Meningococcal Meningitis
+ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,715133,2024,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,398998,2024,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,473630,2024,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Meningococcal Meningitis
+ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,687927,2024,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2896463,2024,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Meningococcal Meningitis
+ZONE:04,1,0.02,1,100.00,0.02,5438863,2024,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Meningococcal Meningitis
+Saraburi,1,0.16,1,100.00,0.16,638704,2024,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5326695,2024,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Meningococcal Meningitis
+Nakhon Pathom,1,0.11,0,0.00,0.00,923201,2024,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,6292163,2024,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1606412,2024,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,227430,2024,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5500012,2024,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,636242,2024,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6689028,2024,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1370376,2024,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Meningococcal Meningitis
+ZONE:11,2,0.04,0,0.00,0.00,4489783,2024,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,481089,2024,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,420746,2024,Meningococcal Meningitis
+Ranong,1,0.52,0,0.00,0.00,193799,2024,Meningococcal Meningitis
+Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,Meningococcal Meningitis
+ZONE:12,3,0.06,0,0.00,0.00,5015209,2024,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Meningococcal Meningitis
+Pattani,1,0.14,0,0.00,0.00,735017,2024,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,325387,2024,Meningococcal Meningitis
+Songkhla,2,0.14,0,0.00,0.00,1431512,2024,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,637612,2024,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,547930,2024,Meningococcal Meningitis
+ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Meningococcal Meningitis
+Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Meningococcal Meningitis
+Total,22,0.03,1,4.55,0.00,66301242,2018,Meningococcal Meningitis
+ZONE:01,1,0.02,0,0.00,0.00,5878537,2018,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1755291,2018,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1289873,2018,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,744714,2018,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405936,2018,Meningococcal Meningitis
+Mae Hong Son,1,0.36,0,0.00,0.00,280826,2018,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,479414,2018,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,476157,2018,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,446326,2018,Meningococcal Meningitis
+ZONE:02,0,0.00,0,0.00,0.00,3565071,2018,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,994936,2018,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,866129,2018,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,649472,2018,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,456247,2018,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2992420,2018,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1064649,2018,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,540620,2018,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,329688,2018,Meningococcal Meningitis
+ZONE:04,0,0.00,0,0.00,0.00,5343264,2018,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1137603,2018,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,643531,2018,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5324608,2018,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,890565,2018,Meningococcal Meningitis
+Nakhon Pathom,1,0.11,0,0.00,0.00,914273,2018,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,573215,2018,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Meningococcal Meningitis
+ZONE:06,1,0.02,0,0.00,0.00,6088563,2018,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,712449,2018,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,535478,2018,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Meningococcal Meningitis
+Prachin Buri,1,0.20,0,0.00,0.00,489592,2018,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,717276,2018,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,229782,2018,Meningococcal Meningitis
+ZONE:07,2,0.04,0,0.00,0.00,5062199,2018,Meningococcal Meningitis
+Kalasin,1,0.10,0,0.00,0.00,985676,2018,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1805903,2018,Meningococcal Meningitis
+Maha Sarakham,1,0.10,0,0.00,0.00,963060,2018,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5553738,2018,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,423485,2018,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,642220,2018,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,718406,2018,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,521995,2018,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6772779,2018,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2642815,2018,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1397519,2018,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4613643,2018,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1472521,2018,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872091,2018,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,539136,2018,Meningococcal Meningitis
+ZONE:11,6,0.13,0,0.00,0.00,4466673,2018,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,510307,2018,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,471754,2018,Meningococcal Meningitis
+Nakhon Si Thammarat,4,0.26,0,0.00,0.00,1558958,2018,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,267866,2018,Meningococcal Meningitis
+Phuket,2,0.49,0,0.00,0.00,406113,2018,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,191134,2018,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Meningococcal Meningitis
+ZONE:12,7,0.14,1,14.29,0.02,4960215,2018,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,799357,2018,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,713937,2018,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,320637,2018,Meningococcal Meningitis
+Songkhla,6,0.42,0,0.00,0.00,1428429,2018,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,643093,2018,Meningococcal Meningitis
+Yala,1,0.19,1,100.00,0.19,529811,2018,Meningococcal Meningitis
+ZONE:13,4,0.07,0,0.00,0.00,5679532,2018,Meningococcal Meningitis
+Bangkok,4,0.07,0,0.00,0.00,5679532,2018,Meningococcal Meningitis
+Total,43,0.07,7,16.28,0.01,62195878,2005,Meningococcal Meningitis
+North Region,12,0.10,0,0.00,0.00,11862916,2005,Meningococcal Meningitis
+Zone:1,2,0.03,0,0.00,0.00,5729312,2005,Meningococcal Meningitis
+Chiang Mai,1,0.06,0,0.00,0.00,1640390,2005,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1219732,2005,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,777827,2005,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,404754,2005,Meningococcal Meningitis
+Mae Hong Son,1,0.40,0,0.00,0.00,248672,2005,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,477917,2005,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,487616,2005,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,472404,2005,Meningococcal Meningitis
+Zone:2,10,0.29,0,0.00,0.00,3442642,2005,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,1001820,2005,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,841248,2005,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,610871,2005,Meningococcal Meningitis
+Tak,9,1.73,0,0.00,0.00,519037,2005,Meningococcal Meningitis
+Uttaradit,1,0.21,0,0.00,0.00,469666,2005,Meningococcal Meningitis
+Zone:3,0,0.00,0,0.00,0.00,2690962,2005,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,727351,2005,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1077634,2005,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,559611,2005,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,326366,2005,Meningococcal Meningitis
+Central Region,18,0.09,4,22.22,0.02,20560399,2005,Meningococcal Meningitis
+Bangkok,1,0.02,0,0.00,0.00,5646543,2005,Meningococcal Meningitis
+Zone:4,1,0.04,0,0.00,0.00,2777019,2005,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,283373,2005,Meningococcal Meningitis
+Nonthaburi,1,0.10,0,0.00,0.00,957287,2005,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,743659,2005,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,792700,2005,Meningococcal Meningitis
+Zone:5,1,0.05,0,0.00,0.00,1909368,2005,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,340812,2005,Meningococcal Meningitis
+Lop Buri,1,0.13,0,0.00,0.00,750718,2005,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,598905,2005,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,218933,2005,Meningococcal Meningitis
+Zone:6,8,0.24,0,0.00,0.00,3282327,2005,Meningococcal Meningitis
+Kanchanaburi,4,0.49,0,0.00,0.00,818218,2005,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,803489,2005,Meningococcal Meningitis
+Ratchaburi,4,0.49,0,0.00,0.00,819286,2005,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,841334,2005,Meningococcal Meningitis
+Zone:7,3,0.19,1,33.33,0.06,1578246,2005,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,452506,2005,Meningococcal Meningitis
+Prachuap Khiri Khan,1,0.21,1,100.00,0.21,483243,2005,Meningococcal Meningitis
+Samut Sakhon,2,0.45,0,0.00,0.00,447353,2005,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,195144,2005,Meningococcal Meningitis
+Zone:8,0,0.00,0,0.00,0.00,2943051,2005,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,645521,2005,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249686,2005,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,447783,2005,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,536591,2005,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1063470,2005,Meningococcal Meningitis
+Zone:9,4,0.17,3,75.00,0.12,2423845,2005,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,496081,2005,Meningococcal Meningitis
+Chon Buri,4,0.35,3,75.00,0.26,1157709,2005,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,551512,2005,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,218543,2005,Meningococcal Meningitis
+North-Eastern Region,1,0.00,1,100.00,0.00,21297778,2005,Meningococcal Meningitis
+Zone:10,0,0.00,0,0.00,0.00,3524138,2005,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,611448,2005,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,495626,2005,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,895911,2005,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1521153,2005,Meningococcal Meningitis
+Zone:11,0,0.00,0,0.00,0.00,3101003,2005,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,972425,2005,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,333338,2005,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,692377,2005,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1102863,2005,Meningococcal Meningitis
+Zone:12,0,0.00,0,0.00,0.00,3991075,2005,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1744646,2005,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,935967,2005,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1310462,2005,Meningococcal Meningitis
+Zone:13,1,0.02,1,100.00,0.02,6560991,2005,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1527846,2005,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1117026,2005,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2543054,2005,Meningococcal Meningitis
+Surin,1,0.07,1,100.00,0.07,1373065,2005,Meningococcal Meningitis
+Zone:14,0,0.00,0,0.00,0.00,4120571,2005,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,368153,2005,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1442190,2005,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1768935,2005,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,541293,2005,Meningococcal Meningitis
+South Region,12,0.14,2,16.67,0.02,8474785,2005,Meningococcal Meningitis
+Zone:15,2,0.13,0,0.00,0.00,1593965,2005,Meningococcal Meningitis
+Chumphon,1,0.21,0,0.00,0.00,473916,2005,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,177247,2005,Meningococcal Meningitis
+Surat Thani,1,0.11,0,0.00,0.00,942802,2005,Meningococcal Meningitis
+Zone:16,1,0.04,0,0.00,0.00,2600847,2005,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1502382,2005,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,499399,2005,Meningococcal Meningitis
+Trang,1,0.17,0,0.00,0.00,599066,2005,Meningococcal Meningitis
+Zone:17,5,0.54,2,40.00,0.22,921037,2005,Meningococcal Meningitis
+Krabi,4,1.02,1,25.00,0.26,391709,2005,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,240254,2005,Meningococcal Meningitis
+Phuket,1,0.35,1,100.00,0.35,289074,2005,Meningococcal Meningitis
+Zone:18,1,0.06,0,0.00,0.00,1791264,2005,Meningococcal Meningitis
+Narathiwat,1,0.14,0,0.00,0.00,697150,2005,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,632119,2005,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,461995,2005,Meningococcal Meningitis
+Zone:19,3,0.19,0,0.00,0.00,1567672,2005,Meningococcal Meningitis
+Satun,1,0.36,0,0.00,0.00,275706,2005,Meningococcal Meningitis
+Songkhla,2,0.15,0,0.00,0.00,1291966,2005,Meningococcal Meningitis
+Total,8,0.01,1,12.50,0.00,66179083,2021,Meningococcal Meningitis
+ZONE:01,0,0.00,0,0.00,0.00,5875424,2021,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,476300,2021,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Meningococcal Meningitis
+ZONE:02,2,0.06,0,0.00,0.00,3536074,2021,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Meningococcal Meningitis
+Tak,2,0.30,0,0.00,0.00,673423,2021,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Meningococcal Meningitis
+ZONE:04,1,0.02,0,0.00,0.00,5411959,2021,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Meningococcal Meningitis
+Lop Buri,1,0.13,0,0.00,0.00,741200,2021,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5332653,2021,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Meningococcal Meningitis
+Ratchaburi,1,0.12,0,0.00,0.00,868797,2021,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,228456,2021,Meningococcal Meningitis
+ZONE:07,1,0.02,0,0.00,0.00,5017381,2021,Meningococcal Meningitis
+Kalasin,1,0.10,0,0.00,0.00,976373,2021,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,638734,2021,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1377226,2021,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Meningococcal Meningitis
+ZONE:11,1,0.02,1,100.00,0.02,4487259,2021,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Meningococcal Meningitis
+Krabi,1,0.21,1,100.00,0.21,478561,2021,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Meningococcal Meningitis
+ZONE:12,1,0.02,0,0.00,0.00,4992834,2021,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,324467,2021,Meningococcal Meningitis
+Songkhla,1,0.07,0,0.00,0.00,1430073,2021,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,640182,2021,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,540458,2021,Meningococcal Meningitis
+ZONE:13,1,0.02,0,0.00,0.00,5558108,2021,Meningococcal Meningitis
+Bangkok,1,0.02,0,0.00,0.00,5558108,2021,Meningococcal Meningitis
+Total,50,0.08,4,8.00,0.01,62526710,2004,Meningococcal Meningitis
+North Region,7,0.06,0,0.00,0.00,11965439,2004,Meningococcal Meningitis
+Zone:1,1,0.02,0,0.00,0.00,5720315,2004,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1616995,2004,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1214659,2004,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,788071,2004,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,406911,2004,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,240988,2004,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,479968,2004,Meningococcal Meningitis
+Phayao,1,0.20,0,0.00,0.00,494926,2004,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,477797,2004,Meningococcal Meningitis
+Zone:2,6,0.17,0,0.00,0.00,3480797,2004,Meningococcal Meningitis
+Phetchabun,1,0.10,0,0.00,0.00,1026733,2004,Meningococcal Meningitis
+Phitsanulok,3,0.35,0,0.00,0.00,854440,2004,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,616536,2004,Meningococcal Meningitis
+Tak,2,0.39,0,0.00,0.00,507296,2004,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,475792,2004,Meningococcal Meningitis
+Zone:3,0,0.00,0,0.00,0.00,2764327,2004,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,750331,2004,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1102099,2004,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,579155,2004,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,332742,2004,Meningococcal Meningitis
+Central Region,22,0.11,3,13.64,0.01,20631429,2004,Meningococcal Meningitis
+Bangkok,5,0.09,0,0.00,0.00,5739370,2004,Meningococcal Meningitis
+Zone:4,1,0.04,0,0.00,0.00,2721016,2004,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,286896,2004,Meningococcal Meningitis
+Nonthaburi,1,0.11,0,0.00,0.00,933591,2004,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,745828,2004,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,754701,2004,Meningococcal Meningitis
+Zone:5,2,0.10,0,0.00,0.00,1936502,2004,Meningococcal Meningitis
+Chai Nat,1,0.29,0,0.00,0.00,345355,2004,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,759000,2004,Meningococcal Meningitis
+Saraburi,1,0.16,0,0.00,0.00,610722,2004,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,221425,2004,Meningococcal Meningitis
+Zone:6,5,0.15,1,20.00,0.03,3287786,2004,Meningococcal Meningitis
+Kanchanaburi,3,0.37,1,33.33,0.12,803802,2004,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,805210,2004,Meningococcal Meningitis
+Ratchaburi,2,0.24,0,0.00,0.00,824406,2004,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,854368,2004,Meningococcal Meningitis
+Zone:7,4,0.25,1,25.00,0.06,1587519,2004,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,456384,2004,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,486084,2004,Meningococcal Meningitis
+Samut Sakhon,3,0.67,0,0.00,0.00,445443,2004,Meningococcal Meningitis
+Samut Songkhram,1,0.50,1,100.00,0.50,199608,2004,Meningococcal Meningitis
+Zone:8,2,0.07,0,0.00,0.00,2934598,2004,Meningococcal Meningitis
+Chachoengsao,1,0.15,0,0.00,0.00,647967,2004,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,250235,2004,Meningococcal Meningitis
+Prachin Buri,1,0.22,0,0.00,0.00,449940,2004,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,538823,2004,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Meningococcal Meningitis
+Zone:9,3,0.12,1,33.33,0.04,2424638,2004,Meningococcal Meningitis
+Chanthaburi,2,0.40,1,50.00,0.20,502794,2004,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1150048,2004,Meningococcal Meningitis
+Rayong,1,0.18,0,0.00,0.00,550310,2004,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,221486,2004,Meningococcal Meningitis
+North-Eastern Region,4,0.02,0,0.00,0.00,21463567,2004,Meningococcal Meningitis
+Zone:10,0,0.00,0,0.00,0.00,3549364,2004,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,617280,2004,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497298,2004,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,904499,2004,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1530287,2004,Meningococcal Meningitis
+Zone:11,1,0.03,0,0.00,0.00,3127236,2004,Meningococcal Meningitis
+Kalasin,1,0.10,0,0.00,0.00,982947,2004,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,335819,2004,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,700800,2004,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1107670,2004,Meningococcal Meningitis
+Zone:12,2,0.05,0,0.00,0.00,4012215,2004,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1756177,2004,Meningococcal Meningitis
+Maha Sarakham,1,0.11,0,0.00,0.00,939718,2004,Meningococcal Meningitis
+Roi Et,1,0.08,0,0.00,0.00,1316320,2004,Meningococcal Meningitis
+Zone:13,0,0.00,0,0.00,0.00,6621384,2004,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1539135,2004,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1128031,2004,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2565197,2004,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1389021,2004,Meningococcal Meningitis
+Zone:14,1,0.02,0,0.00,0.00,4153368,2004,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,369071,2004,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452971,2004,Meningococcal Meningitis
+Ubon Ratchathani,1,0.06,0,0.00,0.00,1784192,2004,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,547134,2004,Meningococcal Meningitis
+South Region,17,0.20,1,5.88,0.01,8466275,2004,Meningococcal Meningitis
+Zone:15,1,0.06,0,0.00,0.00,1581379,2004,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,474592,2004,Meningococcal Meningitis
+Ranong,1,0.59,0,0.00,0.00,169904,2004,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,936883,2004,Meningococcal Meningitis
+Zone:16,9,0.34,0,0.00,0.00,2619221,2004,Meningococcal Meningitis
+Nakhon Si Thammarat,5,0.33,0,0.00,0.00,1515708,2004,Meningococcal Meningitis
+Phatthalung,2,0.40,0,0.00,0.00,501447,2004,Meningococcal Meningitis
+Trang,2,0.33,0,0.00,0.00,602066,2004,Meningococcal Meningitis
+Zone:17,2,0.22,1,50.00,0.11,908170,2004,Meningococcal Meningitis
+Krabi,1,0.26,0,0.00,0.00,386084,2004,Meningococcal Meningitis
+Phangnga,1,0.42,1,100.00,0.42,239895,2004,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,282191,2004,Meningococcal Meningitis
+Zone:18,3,0.17,0,0.00,0.00,1795905,2004,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,701008,2004,Meningococcal Meningitis
+Pattani,2,0.32,0,0.00,0.00,632240,2004,Meningococcal Meningitis
+Yala,1,0.22,0,0.00,0.00,462657,2004,Meningococcal Meningitis
+Zone:19,2,0.13,0,0.00,0.00,1561600,2004,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,273624,2004,Meningococcal Meningitis
+Songkhla,2,0.16,0,0.00,0.00,1287976,2004,Meningococcal Meningitis
+Total,13,0.02,4,30.77,0.01,64955313,2014,Meningococcal Meningitis
+ZONE:00,5,0.09,0,0.00,0.00,5689268,2014,Meningococcal Meningitis
+Bangkok,5,0.09,0,0.00,0.00,5689268,2014,Meningococcal Meningitis
+ZONE:01,1,0.02,1,100.00,0.02,5704200,2014,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1672586,2014,Meningococcal Meningitis
+Chiang Rai,1,0.08,1,100.00,0.08,1206180,2014,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,753937,2014,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405368,2014,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,247364,2014,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,478088,2014,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,485599,2014,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,455078,2014,Meningococcal Meningitis
+ZONE:02,1,0.03,0,0.00,0.00,3452021,2014,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,995102,2014,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,857682,2014,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,602586,2014,Meningococcal Meningitis
+Tak,1,0.19,0,0.00,0.00,535953,2014,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,460698,2014,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,3012608,2014,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,332526,2014,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729076,2014,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072949,2014,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,548199,2014,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,329858,2014,Meningococcal Meningitis
+ZONE:04,2,0.04,2,100.00,0.04,5171756,2014,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,758188,2014,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,800785,2014,Meningococcal Meningitis
+Pathum Thani,2,0.19,2,100.00,0.19,1063608,2014,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,631338,2014,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Meningococcal Meningitis
+ZONE:05,1,0.02,0,0.00,0.00,5147569,2014,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,845540,2014,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,472640,2014,Meningococcal Meningitis
+Prachuap Khiri Khan,1,0.19,0,0.00,0.00,522689,2014,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,851689,2014,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,525672,2014,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,194153,2014,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,848559,2014,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,5797595,2014,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,692852,2014,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,525805,2014,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1405889,2014,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,477741,2014,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,667806,2014,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,551562,2014,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,224370,2014,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,5037074,2014,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,984468,2014,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1785852,2014,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,958116,2014,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1308638,2014,Meningococcal Meningitis
+ZONE:08,1,0.02,0,0.00,0.00,5490561,2014,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,417401,2014,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,633359,2014,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,712101,2014,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508001,2014,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,516101,2014,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1136466,2014,Meningococcal Meningitis
+Udon Thani,1,0.06,0,0.00,0.00,1567132,2014,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6717984,2014,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1576343,2014,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1136386,2014,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2615340,2014,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1389915,2014,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4564711,2014,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,375039,2014,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,345159,2014,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1463620,2014,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1840596,2014,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,540297,2014,Meningococcal Meningitis
+ZONE:11,1,0.02,1,100.00,0.02,4344513,2014,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,499435,2014,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,453850,2014,Meningococcal Meningitis
+Nakhon Si Thammarat,1,0.06,1,100.00,0.06,1544936,2014,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,260395,2014,Meningococcal Meningitis
+Phuket,0,0.00,0,0.00,0.00,373943,2014,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,175933,2014,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,1036021,2014,Meningococcal Meningitis
+ZONE:12,1,0.02,0,0.00,0.00,4825453,2014,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,770472,2014,Meningococcal Meningitis
+Pattani,0,0.00,0,0.00,0.00,682512,2014,Meningococcal Meningitis
+Phatthalung,1,0.19,0,0.00,0.00,519220,2014,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,311233,2014,Meningococcal Meningitis
+Songkhla,0,0.00,0,0.00,0.00,1395596,2014,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,637395,2014,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,509025,2014,Meningococcal Meningitis
 Total,6,0.01,3,50.00,0.00,64075986,2012,Meningococcal Meningitis
 Central Region,1,0.00,1,100.00,0.00,21734984,2012,Meningococcal Meningitis
 Zone:0,0,0.00,0,0.00,0.00,5674843,2012,Meningococcal Meningitis
@@ -1811,294 +1911,194 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2012,Meningococcal Meningitis
 Nakhon Sawan,0,0.00,0,0.00,0.00,1071686,2012,Meningococcal Meningitis
 Phichit,0,0.00,0,0.00,0.00,549688,2012,Meningococcal Meningitis
 Uthai Thani,0,0.00,0,0.00,0.00,328034,2012,Meningococcal Meningitis
-Total,21,0.03,2,9.52,0.00,66130957,2023,Meningococcal Meningitis
-ZONE:01,0,0.00,0,0.00,0.00,5869190,2023,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1790929,2023,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1299030,2023,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,721734,2023,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,400348,2023,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,475207,2023,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,462968,2023,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,432624,2023,Meningococcal Meningitis
-ZONE:02,1,0.03,0,0.00,0.00,3530228,2023,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Meningococcal Meningitis
-Tak,1,0.15,0,0.00,0.00,680361,2023,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Meningococcal Meningitis
-ZONE:03,0,0.00,0,0.00,0.00,2913905,2023,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,319370,2023,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,527669,2023,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Meningococcal Meningitis
-ZONE:04,0,0.00,0,0.00,0.00,5424945,2023,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,1292276,2023,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,641272,2023,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Meningococcal Meningitis
-ZONE:05,1,0.02,0,0.00,0.00,5330665,2023,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Meningococcal Meningitis
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553234,2023,Meningococcal Meningitis
-Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Meningococcal Meningitis
-Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Meningococcal Meningitis
-ZONE:06,2,0.03,0,0.00,0.00,6251747,2023,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,725433,2023,Meningococcal Meningitis
-Chanthaburi,1,0.19,0,0.00,0.00,536351,2023,Meningococcal Meningitis
-Chon Buri,1,0.06,0,0.00,0.00,1589214,2023,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,755364,2023,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,562404,2023,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,228092,2023,Meningococcal Meningitis
-ZONE:07,0,0.00,0,0.00,0.00,5001616,2023,Meningococcal Meningitis
-Kalasin,0,0.00,0,0.00,0.00,973835,2023,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1787752,2023,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Meningococcal Meningitis
-ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Meningococcal Meningitis
-Bungkan,0,0.00,0,0.00,0.00,421840,2023,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,638037,2023,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Meningococcal Meningitis
-ZONE:09,1,0.01,0,0.00,0.00,6705133,2023,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1578361,2023,Meningococcal Meningitis
-Chaiyaphum,1,0.09,0,0.00,0.00,1120095,2023,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1374571,2023,Meningococcal Meningitis
-ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Meningococcal Meningitis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,532497,2023,Meningococcal Meningitis
-ZONE:11,3,0.07,0,0.00,0.00,4489916,2023,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,509433,2023,Meningococcal Meningitis
-Krabi,2,0.42,0,0.00,0.00,479705,2023,Meningococcal Meningitis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Meningococcal Meningitis
-Phangnga,0,0.00,0,0.00,0.00,267729,2023,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,418339,2023,Meningococcal Meningitis
-Ranong,1,0.51,0,0.00,0.00,194400,2023,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Meningococcal Meningitis
-ZONE:12,12,0.24,2,16.67,0.04,5004720,2023,Meningococcal Meningitis
-Narathiwat,1,0.12,0,0.00,0.00,811891,2023,Meningococcal Meningitis
-Pattani,1,0.14,0,0.00,0.00,731269,2023,Meningococcal Meningitis
-Phatthalung,2,0.38,0,0.00,0.00,522080,2023,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,325069,2023,Meningococcal Meningitis
-Songkhla,4,0.28,1,25.00,0.07,1431300,2023,Meningococcal Meningitis
-Trang,0,0.00,0,0.00,0.00,638997,2023,Meningococcal Meningitis
-Yala,4,0.74,1,25.00,0.18,544114,2023,Meningococcal Meningitis
-ZONE:13,1,0.02,0,0.00,0.00,5511463,2023,Meningococcal Meningitis
-Bangkok,1,0.02,0,0.00,0.00,5511463,2023,Meningococcal Meningitis
-Total,50,0.08,4,8.00,0.01,62526710,2004,Meningococcal Meningitis
-North Region,7,0.06,0,0.00,0.00,11965439,2004,Meningococcal Meningitis
-Zone:1,1,0.02,0,0.00,0.00,5720315,2004,Meningococcal Meningitis
-Chiang Mai,0,0.00,0,0.00,0.00,1616995,2004,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1214659,2004,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,788071,2004,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,406911,2004,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,240988,2004,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,479968,2004,Meningococcal Meningitis
-Phayao,1,0.20,0,0.00,0.00,494926,2004,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,477797,2004,Meningococcal Meningitis
-Zone:2,6,0.17,0,0.00,0.00,3480797,2004,Meningococcal Meningitis
-Phetchabun,1,0.10,0,0.00,0.00,1026733,2004,Meningococcal Meningitis
-Phitsanulok,3,0.35,0,0.00,0.00,854440,2004,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,616536,2004,Meningococcal Meningitis
-Tak,2,0.39,0,0.00,0.00,507296,2004,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,475792,2004,Meningococcal Meningitis
-Zone:3,0,0.00,0,0.00,0.00,2764327,2004,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,750331,2004,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1102099,2004,Meningococcal Meningitis
-Phichit,0,0.00,0,0.00,0.00,579155,2004,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,332742,2004,Meningococcal Meningitis
-Central Region,22,0.11,3,13.64,0.01,20631429,2004,Meningococcal Meningitis
-Bangkok,5,0.09,0,0.00,0.00,5739370,2004,Meningococcal Meningitis
-Zone:4,1,0.04,0,0.00,0.00,2721016,2004,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,286896,2004,Meningococcal Meningitis
-Nonthaburi,1,0.11,0,0.00,0.00,933591,2004,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,745828,2004,Meningococcal Meningitis
-Pathum Thani,0,0.00,0,0.00,0.00,754701,2004,Meningococcal Meningitis
-Zone:5,2,0.10,0,0.00,0.00,1936502,2004,Meningococcal Meningitis
-Chai Nat,1,0.29,0,0.00,0.00,345355,2004,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,759000,2004,Meningococcal Meningitis
-Saraburi,1,0.16,0,0.00,0.00,610722,2004,Meningococcal Meningitis
-Sing Buri,0,0.00,0,0.00,0.00,221425,2004,Meningococcal Meningitis
-Zone:6,5,0.15,1,20.00,0.03,3287786,2004,Meningococcal Meningitis
-Kanchanaburi,3,0.37,1,33.33,0.12,803802,2004,Meningococcal Meningitis
-Nakhon Pathom,0,0.00,0,0.00,0.00,805210,2004,Meningococcal Meningitis
-Ratchaburi,2,0.24,0,0.00,0.00,824406,2004,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,854368,2004,Meningococcal Meningitis
-Zone:7,4,0.25,1,25.00,0.06,1587519,2004,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,456384,2004,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,486084,2004,Meningococcal Meningitis
-Samut Sakhon,3,0.67,0,0.00,0.00,445443,2004,Meningococcal Meningitis
-Samut Songkhram,1,0.50,1,100.00,0.50,199608,2004,Meningococcal Meningitis
-Zone:8,2,0.07,0,0.00,0.00,2934598,2004,Meningococcal Meningitis
-Chachoengsao,1,0.15,0,0.00,0.00,647967,2004,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,250235,2004,Meningococcal Meningitis
-Prachin Buri,1,0.22,0,0.00,0.00,449940,2004,Meningococcal Meningitis
-Sa Kaeo,0,0.00,0,0.00,0.00,538823,2004,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Meningococcal Meningitis
-Zone:9,3,0.12,1,33.33,0.04,2424638,2004,Meningococcal Meningitis
-Chanthaburi,2,0.40,1,50.00,0.20,502794,2004,Meningococcal Meningitis
-Chon Buri,0,0.00,0,0.00,0.00,1150048,2004,Meningococcal Meningitis
-Rayong,1,0.18,0,0.00,0.00,550310,2004,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,221486,2004,Meningococcal Meningitis
-North-Eastern Region,4,0.02,0,0.00,0.00,21463567,2004,Meningococcal Meningitis
-Zone:10,0,0.00,0,0.00,0.00,3549364,2004,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,617280,2004,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497298,2004,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,904499,2004,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1530287,2004,Meningococcal Meningitis
-Zone:11,1,0.03,0,0.00,0.00,3127236,2004,Meningococcal Meningitis
-Kalasin,1,0.10,0,0.00,0.00,982947,2004,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,335819,2004,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,700800,2004,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1107670,2004,Meningococcal Meningitis
-Zone:12,2,0.05,0,0.00,0.00,4012215,2004,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1756177,2004,Meningococcal Meningitis
-Maha Sarakham,1,0.11,0,0.00,0.00,939718,2004,Meningococcal Meningitis
-Roi Et,1,0.08,0,0.00,0.00,1316320,2004,Meningococcal Meningitis
-Zone:13,0,0.00,0,0.00,0.00,6621384,2004,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1539135,2004,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1128031,2004,Meningococcal Meningitis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2565197,2004,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1389021,2004,Meningococcal Meningitis
-Zone:14,1,0.02,0,0.00,0.00,4153368,2004,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,369071,2004,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1452971,2004,Meningococcal Meningitis
-Ubon Ratchathani,1,0.06,0,0.00,0.00,1784192,2004,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,547134,2004,Meningococcal Meningitis
-South Region,17,0.20,1,5.88,0.01,8466275,2004,Meningococcal Meningitis
-Zone:15,1,0.06,0,0.00,0.00,1581379,2004,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,474592,2004,Meningococcal Meningitis
-Ranong,1,0.59,0,0.00,0.00,169904,2004,Meningococcal Meningitis
-Surat Thani,0,0.00,0,0.00,0.00,936883,2004,Meningococcal Meningitis
-Zone:16,9,0.34,0,0.00,0.00,2619221,2004,Meningococcal Meningitis
-Nakhon Si Thammarat,5,0.33,0,0.00,0.00,1515708,2004,Meningococcal Meningitis
-Phatthalung,2,0.40,0,0.00,0.00,501447,2004,Meningococcal Meningitis
-Trang,2,0.33,0,0.00,0.00,602066,2004,Meningococcal Meningitis
-Zone:17,2,0.22,1,50.00,0.11,908170,2004,Meningococcal Meningitis
-Krabi,1,0.26,0,0.00,0.00,386084,2004,Meningococcal Meningitis
-Phangnga,1,0.42,1,100.00,0.42,239895,2004,Meningococcal Meningitis
-Phuket,0,0.00,0,0.00,0.00,282191,2004,Meningococcal Meningitis
-Zone:18,3,0.17,0,0.00,0.00,1795905,2004,Meningococcal Meningitis
-Narathiwat,0,0.00,0,0.00,0.00,701008,2004,Meningococcal Meningitis
-Pattani,2,0.32,0,0.00,0.00,632240,2004,Meningococcal Meningitis
-Yala,1,0.22,0,0.00,0.00,462657,2004,Meningococcal Meningitis
-Zone:19,2,0.13,0,0.00,0.00,1561600,2004,Meningococcal Meningitis
-Satun,0,0.00,0,0.00,0.00,273624,2004,Meningococcal Meningitis
-Songkhla,2,0.16,0,0.00,0.00,1287976,2004,Meningococcal Meningitis
-Total,35,0.06,8,22.86,0.01,62623416,2006,Meningococcal Meningitis
-North Region,5,0.04,0,0.00,0.00,11887142,2006,Meningococcal Meningitis
-Zone:1,1,0.02,0,0.00,0.00,5748673,2006,Meningococcal Meningitis
-Chiang Mai,1,0.06,0,0.00,0.00,1654154,2006,Meningococcal Meningitis
-Chiang Rai,0,0.00,0,0.00,0.00,1225386,2006,Meningococcal Meningitis
-Lampang,0,0.00,0,0.00,0.00,775259,2006,Meningococcal Meningitis
-Lamphun,0,0.00,0,0.00,0.00,405146,2006,Meningococcal Meningitis
-Mae Hong Son,0,0.00,0,0.00,0.00,254392,2006,Meningococcal Meningitis
-Nan,0,0.00,0,0.00,0.00,477871,2006,Meningococcal Meningitis
-Phayao,0,0.00,0,0.00,0.00,486554,2006,Meningococcal Meningitis
-Phrae,0,0.00,0,0.00,0.00,469911,2006,Meningococcal Meningitis
-Zone:2,2,0.06,0,0.00,0.00,3448091,2006,Meningococcal Meningitis
-Phetchabun,0,0.00,0,0.00,0.00,1002388,2006,Meningococcal Meningitis
-Phitsanulok,0,0.00,0,0.00,0.00,842739,2006,Meningococcal Meningitis
-Sukhothai,0,0.00,0,0.00,0.00,609591,2006,Meningococcal Meningitis
-Tak,2,0.38,0,0.00,0.00,524938,2006,Meningococcal Meningitis
-Uttaradit,0,0.00,0,0.00,0.00,468435,2006,Meningococcal Meningitis
-Zone:3,2,0.07,0,0.00,0.00,2690378,2006,Meningococcal Meningitis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,728293,2006,Meningococcal Meningitis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1076911,2006,Meningococcal Meningitis
-Phichit,2,0.36,0,0.00,0.00,558314,2006,Meningococcal Meningitis
-Uthai Thani,0,0.00,0,0.00,0.00,326860,2006,Meningococcal Meningitis
-Central Region,11,0.05,0,0.00,0.00,20825142,2006,Meningococcal Meningitis
-Bangkok,1,0.02,0,0.00,0.00,5677455,2006,Meningococcal Meningitis
-Zone:4,3,0.10,0,0.00,0.00,2858658,2006,Meningococcal Meningitis
-Ang Thong,0,0.00,0,0.00,0.00,283861,2006,Meningococcal Meningitis
-Nonthaburi,0,0.00,0,0.00,0.00,985669,2006,Meningococcal Meningitis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,750757,2006,Meningococcal Meningitis
-Pathum Thani,3,0.36,0,0.00,0.00,838371,2006,Meningococcal Meningitis
-Zone:5,1,0.05,0,0.00,0.00,1915186,2006,Meningococcal Meningitis
-Chai Nat,0,0.00,0,0.00,0.00,339568,2006,Meningococcal Meningitis
-Lop Buri,0,0.00,0,0.00,0.00,752364,2006,Meningococcal Meningitis
-Saraburi,0,0.00,0,0.00,0.00,605897,2006,Meningococcal Meningitis
-Sing Buri,1,0.46,0,0.00,0.00,217357,2006,Meningococcal Meningitis
-Zone:6,2,0.06,0,0.00,0.00,3315213,2006,Meningococcal Meningitis
-Kanchanaburi,0,0.00,0,0.00,0.00,830309,2006,Meningococcal Meningitis
-Nakhon Pathom,1,0.12,0,0.00,0.00,815433,2006,Meningococcal Meningitis
-Ratchaburi,1,0.12,0,0.00,0.00,826212,2006,Meningococcal Meningitis
-Suphan Buri,0,0.00,0,0.00,0.00,843259,2006,Meningococcal Meningitis
-Zone:7,1,0.06,0,0.00,0.00,1598232,2006,Meningococcal Meningitis
-Phetchaburi,0,0.00,0,0.00,0.00,455332,2006,Meningococcal Meningitis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490607,2006,Meningococcal Meningitis
-Samut Sakhon,1,0.22,0,0.00,0.00,457264,2006,Meningococcal Meningitis
-Samut Songkhram,0,0.00,0,0.00,0.00,195029,2006,Meningococcal Meningitis
-Zone:8,1,0.03,0,0.00,0.00,2983258,2006,Meningococcal Meningitis
-Chachoengsao,0,0.00,0,0.00,0.00,650909,2006,Meningococcal Meningitis
-Nakhon Nayok,0,0.00,0,0.00,0.00,250392,2006,Meningococcal Meningitis
-Prachin Buri,0,0.00,0,0.00,0.00,451721,2006,Meningococcal Meningitis
-Sa Kaeo,1,0.19,0,0.00,0.00,537661,2006,Meningococcal Meningitis
-Samut Prakan,0,0.00,0,0.00,0.00,1092575,2006,Meningococcal Meningitis
-Zone:9,2,0.08,0,0.00,0.00,2477140,2006,Meningococcal Meningitis
-Chanthaburi,1,0.20,0,0.00,0.00,500275,2006,Meningococcal Meningitis
-Chon Buri,1,0.08,0,0.00,0.00,1190861,2006,Meningococcal Meningitis
-Rayong,0,0.00,0,0.00,0.00,566461,2006,Meningococcal Meningitis
-Trat,0,0.00,0,0.00,0.00,219543,2006,Meningococcal Meningitis
-North-Eastern Region,3,0.01,1,33.33,0.00,21352480,2006,Meningococcal Meningitis
-Zone:10,0,0.00,0,0.00,0.00,3533061,2006,Meningococcal Meningitis
-Loei,0,0.00,0,0.00,0.00,612863,2006,Meningococcal Meningitis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,496675,2006,Meningococcal Meningitis
-Nong Khai,0,0.00,0,0.00,0.00,897840,2006,Meningococcal Meningitis
-Udon Thani,0,0.00,0,0.00,0.00,1525683,2006,Meningococcal Meningitis
-Zone:11,1,0.03,1,100.00,0.03,3110390,2006,Meningococcal Meningitis
-Kalasin,1,0.10,1,100.00,0.10,974560,2006,Meningococcal Meningitis
-Mukdahan,0,0.00,0,0.00,0.00,334781,2006,Meningococcal Meningitis
-Nakhon Phanom,0,0.00,0,0.00,0.00,694473,2006,Meningococcal Meningitis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1106576,2006,Meningococcal Meningitis
-Zone:12,0,0.00,0,0.00,0.00,3996666,2006,Meningococcal Meningitis
-Khon Kaen,0,0.00,0,0.00,0.00,1749021,2006,Meningococcal Meningitis
-Maha Sarakham,0,0.00,0,0.00,0.00,937285,2006,Meningococcal Meningitis
-Roi Et,0,0.00,0,0.00,0.00,1310360,2006,Meningococcal Meningitis
-Zone:13,1,0.02,0,0.00,0.00,6578271,2006,Meningococcal Meningitis
-Buri Ram,0,0.00,0,0.00,0.00,1534076,2006,Meningococcal Meningitis
-Chaiyaphum,0,0.00,0,0.00,0.00,1118040,2006,Meningococcal Meningitis
-Nakhon Ratchasima,1,0.04,0,0.00,0.00,2551176,2006,Meningococcal Meningitis
-Surin,0,0.00,0,0.00,0.00,1374979,2006,Meningococcal Meningitis
-Zone:14,1,0.02,0,0.00,0.00,4134092,2006,Meningococcal Meningitis
-Amnat Charoen,0,0.00,0,0.00,0.00,368863,2006,Meningococcal Meningitis
-Si Sa Ket,0,0.00,0,0.00,0.00,1445230,2006,Meningococcal Meningitis
-Ubon Ratchathani,1,0.06,0,0.00,0.00,1778922,2006,Meningococcal Meningitis
-Yasothon,0,0.00,0,0.00,0.00,541077,2006,Meningococcal Meningitis
-South Region,16,0.19,7,43.75,0.08,8558652,2006,Meningococcal Meningitis
-Zone:15,2,0.12,1,50.00,0.06,1610374,2006,Meningococcal Meningitis
-Chumphon,0,0.00,0,0.00,0.00,477364,2006,Meningococcal Meningitis
-Ranong,1,0.56,0,0.00,0.00,178986,2006,Meningococcal Meningitis
-Surat Thani,1,0.10,1,100.00,0.10,954024,2006,Meningococcal Meningitis
-Zone:16,2,0.08,1,50.00,0.04,2614100,2006,Meningococcal Meningitis
-Nakhon Si Thammarat,1,0.07,1,100.00,0.07,1507440,2006,Meningococcal Meningitis
-Phatthalung,0,0.00,0,0.00,0.00,501912,2006,Meningococcal Meningitis
-Trang,1,0.17,0,0.00,0.00,604748,2006,Meningococcal Meningitis
-Zone:17,2,0.21,1,50.00,0.11,939424,2006,Meningococcal Meningitis
-Krabi,0,0.00,0,0.00,0.00,399514,2006,Meningococcal Meningitis
-Phangnga,1,0.41,0,0.00,0.00,243419,2006,Meningococcal Meningitis
-Phuket,1,0.34,1,100.00,0.34,296491,2006,Meningococcal Meningitis
-Zone:18,6,0.33,2,33.33,0.11,1805088,2006,Meningococcal Meningitis
-Narathiwat,1,0.14,1,100.00,0.14,703848,2006,Meningococcal Meningitis
-Pattani,5,0.79,1,20.00,0.16,635053,2006,Meningococcal Meningitis
-Yala,0,0.00,0,0.00,0.00,466187,2006,Meningococcal Meningitis
-Zone:19,4,0.25,2,50.00,0.13,1589666,2006,Meningococcal Meningitis
-Satun,1,0.36,1,100.00,0.36,279705,2006,Meningococcal Meningitis
-Songkhla,3,0.23,1,33.33,0.08,1309961,2006,Meningococcal Meningitis
+Total,25,0.04,2,8.00,0.00,65124716,2015,Meningococcal Meningitis
+ZONE:00,2,0.04,0,0.00,0.00,5692284,2015,Meningococcal Meningitis
+Bangkok,2,0.04,0,0.00,0.00,5692284,2015,Meningococcal Meningitis
+ZONE:01,1,0.02,0,0.00,0.00,5709443,2015,Meningococcal Meningitis
+Chiang Mai,1,0.06,0,0.00,0.00,1678284,2015,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1207699,2015,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,753013,2015,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405468,2015,Meningococcal Meningitis
+Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,478264,2015,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,484454,2015,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,454083,2015,Meningococcal Meningitis
+ZONE:02,3,0.09,1,33.33,0.03,3457208,2015,Meningococcal Meningitis
+Phetchabun,1,0.10,1,100.00,0.10,995807,2015,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,858988,2015,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,602460,2015,Meningococcal Meningitis
+Tak,2,0.37,0,0.00,0.00,539553,2015,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,460400,2015,Meningococcal Meningitis
+ZONE:03,0,0.00,0,0.00,0.00,3012283,2015,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072756,2015,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,547543,2015,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,330179,2015,Meningococcal Meningitis
+ZONE:04,2,0.04,0,0.00,0.00,5196419,2015,Meningococcal Meningitis
+Ang Thong,1,0.35,0,0.00,0.00,283568,2015,Meningococcal Meningitis
+Lop Buri,1,0.13,0,0.00,0.00,758406,2015,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1173870,2015,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,803599,2015,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,633460,2015,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Meningococcal Meningitis
+ZONE:05,3,0.06,1,33.33,0.02,5166914,2015,Meningococcal Meningitis
+Kanchanaburi,0,0.00,0,0.00,0.00,848198,2015,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Meningococcal Meningitis
+Ratchaburi,1,0.12,0,0.00,0.00,853217,2015,Meningococcal Meningitis
+Samut Sakhon,2,0.38,1,50.00,0.19,531887,2015,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Meningococcal Meningitis
+Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Meningococcal Meningitis
+ZONE:06,0,0.00,0,0.00,0.00,5836407,2015,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,695478,2015,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,527350,2015,Meningococcal Meningitis
+Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,479314,2015,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,674393,2015,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,224730,2015,Meningococcal Meningitis
+ZONE:07,0,0.00,0,0.00,0.00,5043862,2015,Meningococcal Meningitis
+Kalasin,0,0.00,0,0.00,0.00,984907,2015,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1790049,2015,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Meningococcal Meningitis
+ZONE:08,0,0.00,0,0.00,0.00,5501453,2015,Meningococcal Meningitis
+Bungkan,0,0.00,0,0.00,0.00,418566,2015,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,634513,2015,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1138609,2015,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Meningococcal Meningitis
+ZONE:09,0,0.00,0,0.00,0.00,6728450,2015,Meningococcal Meningitis
+Buri Ram,0,0.00,0,0.00,0.00,1579248,2015,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Meningococcal Meningitis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2620517,2015,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1391636,2015,Meningococcal Meningitis
+ZONE:10,0,0.00,0,0.00,0.00,4571489,2015,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Meningococcal Meningitis
+Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1465213,2015,Meningococcal Meningitis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Meningococcal Meningitis
+Yasothon,0,0.00,0,0.00,0.00,540211,2015,Meningococcal Meningitis
+ZONE:11,3,0.07,0,0.00,0.00,4362467,2015,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,500575,2015,Meningococcal Meningitis
+Krabi,1,0.22,0,0.00,0.00,456811,2015,Meningococcal Meningitis
+Nakhon Si Thammarat,1,0.06,0,0.00,0.00,1548028,2015,Meningococcal Meningitis
+Phangnga,0,0.00,0,0.00,0.00,261370,2015,Meningococcal Meningitis
+Phuket,1,0.26,0,0.00,0.00,378364,2015,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,177089,2015,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,1040230,2015,Meningococcal Meningitis
+ZONE:12,11,0.23,0,0.00,0.00,4846037,2015,Meningococcal Meningitis
+Narathiwat,0,0.00,0,0.00,0.00,774799,2015,Meningococcal Meningitis
+Pattani,2,0.29,0,0.00,0.00,686186,2015,Meningococcal Meningitis
+Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Meningococcal Meningitis
+Satun,4,1.28,0,0.00,0.00,312673,2015,Meningococcal Meningitis
+Songkhla,4,0.29,0,0.00,0.00,1401303,2015,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,638746,2015,Meningococcal Meningitis
+Yala,1,0.20,0,0.00,0.00,511911,2015,Meningococcal Meningitis
+Total,30,0.05,10,33.33,0.02,62933515,2007,Meningococcal Meningitis
+North Region,1,0.01,0,0.00,0.00,11881352,2007,Meningococcal Meningitis
+Zone:1,1,0.02,0,0.00,0.00,5750312,2007,Meningococcal Meningitis
+Chiang Mai,0,0.00,0,0.00,0.00,1661349,2007,Meningococcal Meningitis
+Chiang Rai,0,0.00,0,0.00,0.00,1225364,2007,Meningococcal Meningitis
+Lampang,0,0.00,0,0.00,0.00,772202,2007,Meningococcal Meningitis
+Lamphun,0,0.00,0,0.00,0.00,405361,2007,Meningococcal Meningitis
+Mae Hong Son,1,0.39,0,0.00,0.00,254990,2007,Meningococcal Meningitis
+Nan,0,0.00,0,0.00,0.00,477522,2007,Meningococcal Meningitis
+Phayao,0,0.00,0,0.00,0.00,486399,2007,Meningococcal Meningitis
+Phrae,0,0.00,0,0.00,0.00,467125,2007,Meningococcal Meningitis
+Zone:2,0,0.00,0,0.00,0.00,3445764,2007,Meningococcal Meningitis
+Phetchabun,0,0.00,0,0.00,0.00,999924,2007,Meningococcal Meningitis
+Phitsanulok,0,0.00,0,0.00,0.00,843096,2007,Meningococcal Meningitis
+Sukhothai,0,0.00,0,0.00,0.00,607061,2007,Meningococcal Meningitis
+Tak,0,0.00,0,0.00,0.00,529303,2007,Meningococcal Meningitis
+Uttaradit,0,0.00,0,0.00,0.00,466380,2007,Meningococcal Meningitis
+Zone:3,0,0.00,0,0.00,0.00,2685276,2007,Meningococcal Meningitis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,727158,2007,Meningococcal Meningitis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1074849,2007,Meningococcal Meningitis
+Phichit,0,0.00,0,0.00,0.00,556287,2007,Meningococcal Meningitis
+Uthai Thani,0,0.00,0,0.00,0.00,326982,2007,Meningococcal Meningitis
+Central Region,4,0.02,1,25.00,0.00,21043273,2007,Meningococcal Meningitis
+Bangkok,1,0.02,0,0.00,0.00,5706103,2007,Meningococcal Meningitis
+Zone:4,0,0.00,0,0.00,0.00,2932544,2007,Meningococcal Meningitis
+Ang Thong,0,0.00,0,0.00,0.00,284175,2007,Meningococcal Meningitis
+Nonthaburi,0,0.00,0,0.00,0.00,1011624,2007,Meningococcal Meningitis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,757654,2007,Meningococcal Meningitis
+Pathum Thani,0,0.00,0,0.00,0.00,879091,2007,Meningococcal Meningitis
+Zone:5,0,0.00,0,0.00,0.00,1918492,2007,Meningococcal Meningitis
+Chai Nat,0,0.00,0,0.00,0.00,338077,2007,Meningococcal Meningitis
+Lop Buri,0,0.00,0,0.00,0.00,751298,2007,Meningococcal Meningitis
+Saraburi,0,0.00,0,0.00,0.00,612806,2007,Meningococcal Meningitis
+Sing Buri,0,0.00,0,0.00,0.00,216311,2007,Meningococcal Meningitis
+Zone:6,2,0.06,1,50.00,0.03,3334732,2007,Meningococcal Meningitis
+Kanchanaburi,1,0.12,1,100.00,0.12,834865,2007,Meningococcal Meningitis
+Nakhon Pathom,0,0.00,0,0.00,0.00,826438,2007,Meningococcal Meningitis
+Ratchaburi,0,0.00,0,0.00,0.00,830184,2007,Meningococcal Meningitis
+Suphan Buri,1,0.12,0,0.00,0.00,843245,2007,Meningococcal Meningitis
+Zone:7,0,0.00,0,0.00,0.00,1611697,2007,Meningococcal Meningitis
+Phetchaburi,0,0.00,0,0.00,0.00,456371,2007,Meningococcal Meningitis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,494502,2007,Meningococcal Meningitis
+Samut Sakhon,0,0.00,0,0.00,0.00,466222,2007,Meningococcal Meningitis
+Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Meningococcal Meningitis
+Zone:8,0,0.00,0,0.00,0.00,3016265,2007,Meningococcal Meningitis
+Chachoengsao,0,0.00,0,0.00,0.00,656586,2007,Meningococcal Meningitis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249250,2007,Meningococcal Meningitis
+Prachin Buri,0,0.00,0,0.00,0.00,454404,2007,Meningococcal Meningitis
+Sa Kaeo,0,0.00,0,0.00,0.00,538741,2007,Meningococcal Meningitis
+Samut Prakan,0,0.00,0,0.00,0.00,1117284,2007,Meningococcal Meningitis
+Zone:9,1,0.04,0,0.00,0.00,2523440,2007,Meningococcal Meningitis
+Chanthaburi,0,0.00,0,0.00,0.00,503197,2007,Meningococcal Meningitis
+Chon Buri,1,0.08,0,0.00,0.00,1221369,2007,Meningococcal Meningitis
+Rayong,0,0.00,0,0.00,0.00,578628,2007,Meningococcal Meningitis
+Trat,0,0.00,0,0.00,0.00,220246,2007,Meningococcal Meningitis
+North-Eastern Region,7,0.03,1,14.29,0.00,21381249,2007,Meningococcal Meningitis
+Zone:10,0,0.00,0,0.00,0.00,3541793,2007,Meningococcal Meningitis
+Loei,0,0.00,0,0.00,0.00,614421,2007,Meningococcal Meningitis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497148,2007,Meningococcal Meningitis
+Nong Khai,0,0.00,0,0.00,0.00,901100,2007,Meningococcal Meningitis
+Udon Thani,0,0.00,0,0.00,0.00,1529124,2007,Meningococcal Meningitis
+Zone:11,2,0.06,0,0.00,0.00,3119599,2007,Meningococcal Meningitis
+Kalasin,1,0.10,0,0.00,0.00,976536,2007,Meningococcal Meningitis
+Mukdahan,1,0.30,0,0.00,0.00,335778,2007,Meningococcal Meningitis
+Nakhon Phanom,0,0.00,0,0.00,0.00,696229,2007,Meningococcal Meningitis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1111056,2007,Meningococcal Meningitis
+Zone:12,0,0.00,0,0.00,0.00,3997622,2007,Meningococcal Meningitis
+Khon Kaen,0,0.00,0,0.00,0.00,1751458,2007,Meningococcal Meningitis
+Maha Sarakham,0,0.00,0,0.00,0.00,936846,2007,Meningococcal Meningitis
+Roi Et,0,0.00,0,0.00,0.00,1309318,2007,Meningococcal Meningitis
+Zone:13,3,0.05,1,33.33,0.02,6583974,2007,Meningococcal Meningitis
+Buri Ram,2,0.13,0,0.00,0.00,1536396,2007,Meningococcal Meningitis
+Chaiyaphum,0,0.00,0,0.00,0.00,1119372,2007,Meningococcal Meningitis
+Nakhon Ratchasima,1,0.04,1,100.00,0.04,2554241,2007,Meningococcal Meningitis
+Surin,0,0.00,0,0.00,0.00,1373965,2007,Meningococcal Meningitis
+Zone:14,2,0.05,0,0.00,0.00,4138261,2007,Meningococcal Meningitis
+Amnat Charoen,0,0.00,0,0.00,0.00,368925,2007,Meningococcal Meningitis
+Si Sa Ket,0,0.00,0,0.00,0.00,1444748,2007,Meningococcal Meningitis
+Ubon Ratchathani,1,0.06,0,0.00,0.00,1784372,2007,Meningococcal Meningitis
+Yasothon,1,0.19,0,0.00,0.00,540216,2007,Meningococcal Meningitis
+South Region,18,0.21,8,44.44,0.09,8627641,2007,Meningococcal Meningitis
+Zone:15,0,0.00,0,0.00,0.00,1626011,2007,Meningococcal Meningitis
+Chumphon,0,0.00,0,0.00,0.00,480131,2007,Meningococcal Meningitis
+Ranong,0,0.00,0,0.00,0.00,180319,2007,Meningococcal Meningitis
+Surat Thani,0,0.00,0,0.00,0.00,965561,2007,Meningococcal Meningitis
+Zone:16,1,0.04,0,0.00,0.00,2620564,2007,Meningococcal Meningitis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1508729,2007,Meningococcal Meningitis
+Phatthalung,1,0.20,0,0.00,0.00,502943,2007,Meningococcal Meningitis
+Trang,0,0.00,0,0.00,0.00,608892,2007,Meningococcal Meningitis
+Zone:17,5,0.52,1,20.00,0.10,961258,2007,Meningococcal Meningitis
+Krabi,0,0.00,0,0.00,0.00,406999,2007,Meningococcal Meningitis
+Phangnga,3,1.22,0,0.00,0.00,246141,2007,Meningococcal Meningitis
+Phuket,2,0.65,1,50.00,0.32,308118,2007,Meningococcal Meningitis
+Zone:18,8,0.44,7,87.50,0.39,1815585,2007,Meningococcal Meningitis
+Narathiwat,1,0.14,1,100.00,0.14,709345,2007,Meningococcal Meningitis
+Pattani,7,1.10,6,85.71,0.94,636768,2007,Meningococcal Meningitis
+Yala,0,0.00,0,0.00,0.00,469472,2007,Meningococcal Meningitis
+Zone:19,4,0.25,0,0.00,0.00,1604223,2007,Meningococcal Meningitis
+Satun,0,0.00,0,0.00,0.00,283014,2007,Meningococcal Meningitis
+Songkhla,4,0.30,0,0.00,0.00,1321209,2007,Meningococcal Meningitis

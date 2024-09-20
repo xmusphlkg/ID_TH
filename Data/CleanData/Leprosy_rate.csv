@@ -1,4 +1,186 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,34,0.05,0,0.00,0.00,66171439,2022,Leprosy
+ZONE:01,3,0.05,0,0.00,0.00,5874503,2022,Leprosy
+Chiang Mai,2,0.11,0,0.00,0.00,1789385,2022,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Leprosy
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Leprosy
+Nan,0,0.00,0,0.00,0.00,475875,2022,Leprosy
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Leprosy
+Phrae,1,0.23,0,0.00,0.00,434580,2022,Leprosy
+ZONE:02,4,0.11,0,0.00,0.00,3533839,2022,Leprosy
+Phetchabun,3,0.31,0,0.00,0.00,978372,2022,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Leprosy
+Tak,1,0.15,0,0.00,0.00,676583,2022,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Leprosy
+ZONE:03,1,0.03,0,0.00,0.00,2922114,2022,Leprosy
+Chai Nat,1,0.31,0,0.00,0.00,320432,2022,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Leprosy
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,643963,2022,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Leprosy
+ZONE:05,3,0.06,0,0.00,0.00,5333543,2022,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Leprosy
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553171,2022,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Leprosy
+Suphan Buri,2,0.24,0,0.00,0.00,835360,2022,Leprosy
+ZONE:06,4,0.06,0,0.00,0.00,6237892,2022,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Leprosy
+Chanthaburi,1,0.19,0,0.00,0.00,536557,2022,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Leprosy
+Prachin Buri,1,0.20,0,0.00,0.00,495325,2022,Leprosy
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Leprosy
+Samut Prakan,1,0.07,0,0.00,0.00,1356449,2022,Leprosy
+Trat,1,0.44,0,0.00,0.00,228376,2022,Leprosy
+ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Leprosy
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Leprosy
+ZONE:08,2,0.04,0,0.00,0.00,5516407,2022,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Leprosy
+Loei,0,0.00,0,0.00,0.00,638732,2022,Leprosy
+Nakhon Phanom,1,0.14,0,0.00,0.00,717040,2022,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Leprosy
+Nong Khai,1,0.19,0,0.00,0.00,516843,2022,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Leprosy
+ZONE:09,1,0.01,0,0.00,0.00,6712454,2022,Leprosy
+Buri Ram,1,0.06,0,0.00,0.00,1579805,2022,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Leprosy
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Leprosy
+ZONE:10,11,0.24,0,0.00,0.00,4587303,2022,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Leprosy
+Si Sa Ket,10,0.69,0,0.00,0.00,1457556,2022,Leprosy
+Ubon Ratchathani,1,0.05,0,0.00,0.00,1868519,2022,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Leprosy
+ZONE:11,1,0.02,0,0.00,0.00,4492012,2022,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Leprosy
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Leprosy
+Phuket,1,0.24,0,0.00,0.00,418785,2022,Leprosy
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Leprosy
+ZONE:12,4,0.08,0,0.00,0.00,5000255,2022,Leprosy
+Narathiwat,1,0.12,0,0.00,0.00,809660,2022,Leprosy
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Leprosy
+Phatthalung,1,0.19,0,0.00,0.00,522541,2022,Leprosy
+Satun,0,0.00,0,0.00,0.00,324835,2022,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Leprosy
+Trang,1,0.16,0,0.00,0.00,639788,2022,Leprosy
+Yala,1,0.18,0,0.00,0.00,542314,2022,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Leprosy
+Total,55,0.08,0,0.00,0.00,66486458,2019,Leprosy
+ZONE:01,1,0.02,0,0.00,0.00,5891985,2019,Leprosy
+Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1295217,2019,Leprosy
+Lampang,0,0.00,0,0.00,0.00,740600,2019,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405515,2019,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,283352,2019,Leprosy
+Nan,1,0.21,0,0.00,0.00,478608,2019,Leprosy
+Phayao,0,0.00,0,0.00,0.00,473786,2019,Leprosy
+Phrae,0,0.00,0,0.00,0.00,443408,2019,Leprosy
+ZONE:02,26,0.73,0,0.00,0.00,3570128,2019,Leprosy
+Phetchabun,1,0.10,0,0.00,0.00,993496,2019,Leprosy
+Phitsanulok,22,2.54,0,0.00,0.00,866068,2019,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,596165,2019,Leprosy
+Tak,3,0.45,0,0.00,0.00,660147,2019,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,454252,2019,Leprosy
+ZONE:03,0,0.00,0,0.00,0.00,2983068,2019,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,327437,2019,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1061926,2019,Leprosy
+Phichit,0,0.00,0,0.00,0.00,537843,2019,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,329026,2019,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5381695,2019,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,260421,2019,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1255840,2019,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,818815,2019,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1154848,2019,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,645468,2019,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Leprosy
+ZONE:05,1,0.02,0,0.00,0.00,5344807,2019,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,894338,2019,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551466,2019,Leprosy
+Ratchaburi,1,0.11,0,0.00,0.00,873310,2019,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,193548,2019,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Leprosy
+ZONE:06,2,0.03,0,0.00,0.00,6154601,2019,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,717561,2019,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,537097,2019,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1546873,2019,Leprosy
+Prachin Buri,2,0.41,0,0.00,0.00,493159,2019,Leprosy
+Rayong,0,0.00,0,0.00,0.00,729035,2019,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,565198,2019,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1335742,2019,Leprosy
+Trat,0,0.00,0,0.00,0.00,229936,2019,Leprosy
+ZONE:07,2,0.04,0,0.00,0.00,5057831,2019,Leprosy
+Kalasin,1,0.10,0,0.00,0.00,984381,2019,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1804384,2019,Leprosy
+Maha Sarakham,1,0.10,0,0.00,0.00,962856,2019,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1306210,2019,Leprosy
+ZONE:08,2,0.04,0,0.00,0.00,5559986,2019,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,424016,2019,Leprosy
+Loei,0,0.00,0,0.00,0.00,642862,2019,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,718961,2019,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,512449,2019,Leprosy
+Nong Khai,1,0.19,0,0.00,0.00,522207,2019,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1152835,2019,Leprosy
+Udon Thani,1,0.06,0,0.00,0.00,1586656,2019,Leprosy
+ZONE:09,2,0.03,0,0.00,0.00,6778372,2019,Leprosy
+Buri Ram,2,0.13,0,0.00,0.00,1595299,2019,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1138067,2019,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2647663,2019,Leprosy
+Surin,0,0.00,0,0.00,0.00,1397343,2019,Leprosy
+ZONE:10,14,0.30,0,0.00,0.00,4618551,2019,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,378530,2019,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,352727,2019,Leprosy
+Si Sa Ket,9,0.61,0,0.00,0.00,1472934,2019,Leprosy
+Ubon Ratchathani,4,0.21,0,0.00,0.00,1876347,2019,Leprosy
+Yasothon,1,0.19,0,0.00,0.00,538013,2019,Leprosy
+ZONE:11,3,0.07,0,0.00,0.00,4487837,2019,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,511134,2019,Leprosy
+Krabi,0,0.00,0,0.00,0.00,475239,2019,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1561179,2019,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,268513,2019,Leprosy
+Phuket,3,0.73,0,0.00,0.00,413397,2019,Leprosy
+Ranong,0,0.00,0,0.00,0.00,192619,2019,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1065756,2019,Leprosy
+ZONE:12,2,0.04,0,0.00,0.00,4986140,2019,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,805248,2019,Leprosy
+Pattani,2,0.28,0,0.00,0.00,721591,2019,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,524955,2019,Leprosy
+Satun,0,0.00,0,0.00,0.00,322580,2019,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1434298,2019,Leprosy
+Trang,0,0.00,0,0.00,0.00,643140,2019,Leprosy
+Yala,0,0.00,0,0.00,0.00,534328,2019,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5671457,2019,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5671457,2019,Leprosy
 Total,358,0.56,0,0.00,0.00,63457439,2009,Leprosy
 Central Region,60,0.28,0,0.00,0.00,21386001,2009,Leprosy
 Bangkok,8,0.14,0,0.00,0.00,5706739,2009,Leprosy
@@ -199,853 +381,6 @@ Kamphaeng Phet,2,0.28,0,0.00,0.00,726009,2012,Leprosy
 Nakhon Sawan,3,0.28,0,0.00,0.00,1071686,2012,Leprosy
 Phichit,0,0.00,0,0.00,0.00,549688,2012,Leprosy
 Uthai Thani,3,0.91,0,0.00,0.00,328034,2012,Leprosy
-Total,545,0.87,0,0.00,0.00,62526710,2004,Leprosy
-North Region,82,0.69,0,0.00,0.00,11965439,2004,Leprosy
-Zone:1,56,0.98,0,0.00,0.00,5720315,2004,Leprosy
-Chiang Mai,27,1.67,0,0.00,0.00,1616995,2004,Leprosy
-Chiang Rai,11,0.91,0,0.00,0.00,1214659,2004,Leprosy
-Lampang,7,0.89,0,0.00,0.00,788071,2004,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,406911,2004,Leprosy
-Mae Hong Son,10,4.15,0,0.00,0.00,240988,2004,Leprosy
-Nan,0,0.00,0,0.00,0.00,479968,2004,Leprosy
-Phayao,1,0.20,0,0.00,0.00,494926,2004,Leprosy
-Phrae,0,0.00,0,0.00,0.00,477797,2004,Leprosy
-Zone:2,19,0.55,0,0.00,0.00,3480797,2004,Leprosy
-Phetchabun,8,0.78,0,0.00,0.00,1026733,2004,Leprosy
-Phitsanulok,3,0.35,0,0.00,0.00,854440,2004,Leprosy
-Sukhothai,1,0.16,0,0.00,0.00,616536,2004,Leprosy
-Tak,7,1.38,0,0.00,0.00,507296,2004,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,475792,2004,Leprosy
-Zone:3,7,0.25,0,0.00,0.00,2764327,2004,Leprosy
-Kamphaeng Phet,6,0.80,0,0.00,0.00,750331,2004,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1102099,2004,Leprosy
-Phichit,1,0.17,0,0.00,0.00,579155,2004,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,332742,2004,Leprosy
-Central Region,103,0.50,0,0.00,0.00,20631429,2004,Leprosy
-Bangkok,18,0.31,0,0.00,0.00,5739370,2004,Leprosy
-Zone:4,4,0.15,0,0.00,0.00,2721016,2004,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,286896,2004,Leprosy
-Nonthaburi,1,0.11,0,0.00,0.00,933591,2004,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,745828,2004,Leprosy
-Pathum Thani,3,0.40,0,0.00,0.00,754701,2004,Leprosy
-Zone:5,19,0.98,0,0.00,0.00,1936502,2004,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,345355,2004,Leprosy
-Lop Buri,16,2.11,0,0.00,0.00,759000,2004,Leprosy
-Saraburi,3,0.49,0,0.00,0.00,610722,2004,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,221425,2004,Leprosy
-Zone:6,9,0.27,0,0.00,0.00,3287786,2004,Leprosy
-Kanchanaburi,1,0.12,0,0.00,0.00,803802,2004,Leprosy
-Nakhon Pathom,2,0.25,0,0.00,0.00,805210,2004,Leprosy
-Ratchaburi,3,0.36,0,0.00,0.00,824406,2004,Leprosy
-Suphan Buri,3,0.35,0,0.00,0.00,854368,2004,Leprosy
-Zone:7,4,0.25,0,0.00,0.00,1587519,2004,Leprosy
-Phetchaburi,3,0.66,0,0.00,0.00,456384,2004,Leprosy
-Prachuap Khiri Khan,1,0.21,0,0.00,0.00,486084,2004,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,445443,2004,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,199608,2004,Leprosy
-Zone:8,17,0.58,0,0.00,0.00,2934598,2004,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,647967,2004,Leprosy
-Nakhon Nayok,3,1.20,0,0.00,0.00,250235,2004,Leprosy
-Prachin Buri,7,1.56,0,0.00,0.00,449940,2004,Leprosy
-Sa Kaeo,7,1.30,0,0.00,0.00,538823,2004,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Leprosy
-Zone:9,32,1.32,0,0.00,0.00,2424638,2004,Leprosy
-Chanthaburi,18,3.58,0,0.00,0.00,502794,2004,Leprosy
-Chon Buri,4,0.35,0,0.00,0.00,1150048,2004,Leprosy
-Rayong,9,1.64,0,0.00,0.00,550310,2004,Leprosy
-Trat,1,0.45,0,0.00,0.00,221486,2004,Leprosy
-North-Eastern Region,302,1.41,0,0.00,0.00,21463567,2004,Leprosy
-Zone:10,30,0.85,0,0.00,0.00,3549364,2004,Leprosy
-Loei,0,0.00,0,0.00,0.00,617280,2004,Leprosy
-Nong Bua Lam Phu,17,3.42,0,0.00,0.00,497298,2004,Leprosy
-Nong Khai,3,0.33,0,0.00,0.00,904499,2004,Leprosy
-Udon Thani,10,0.65,0,0.00,0.00,1530287,2004,Leprosy
-Zone:11,22,0.70,0,0.00,0.00,3127236,2004,Leprosy
-Kalasin,4,0.41,0,0.00,0.00,982947,2004,Leprosy
-Mukdahan,2,0.60,0,0.00,0.00,335819,2004,Leprosy
-Nakhon Phanom,3,0.43,0,0.00,0.00,700800,2004,Leprosy
-Sakon Nakhon,13,1.17,0,0.00,0.00,1107670,2004,Leprosy
-Zone:12,34,0.85,0,0.00,0.00,4012215,2004,Leprosy
-Khon Kaen,16,0.91,0,0.00,0.00,1756177,2004,Leprosy
-Maha Sarakham,10,1.06,0,0.00,0.00,939718,2004,Leprosy
-Roi Et,8,0.61,0,0.00,0.00,1316320,2004,Leprosy
-Zone:13,120,1.81,0,0.00,0.00,6621384,2004,Leprosy
-Buri Ram,45,2.92,0,0.00,0.00,1539135,2004,Leprosy
-Chaiyaphum,19,1.68,0,0.00,0.00,1128031,2004,Leprosy
-Nakhon Ratchasima,33,1.29,0,0.00,0.00,2565197,2004,Leprosy
-Surin,23,1.66,0,0.00,0.00,1389021,2004,Leprosy
-Zone:14,96,2.31,0,0.00,0.00,4153368,2004,Leprosy
-Amnat Charoen,7,1.90,0,0.00,0.00,369071,2004,Leprosy
-Si Sa Ket,60,4.13,0,0.00,0.00,1452971,2004,Leprosy
-Ubon Ratchathani,18,1.01,0,0.00,0.00,1784192,2004,Leprosy
-Yasothon,11,2.01,0,0.00,0.00,547134,2004,Leprosy
-South Region,58,0.69,0,0.00,0.00,8466275,2004,Leprosy
-Zone:15,5,0.32,0,0.00,0.00,1581379,2004,Leprosy
-Chumphon,2,0.42,0,0.00,0.00,474592,2004,Leprosy
-Ranong,0,0.00,0,0.00,0.00,169904,2004,Leprosy
-Surat Thani,3,0.32,0,0.00,0.00,936883,2004,Leprosy
-Zone:16,4,0.15,0,0.00,0.00,2619221,2004,Leprosy
-Nakhon Si Thammarat,1,0.07,0,0.00,0.00,1515708,2004,Leprosy
-Phatthalung,1,0.20,0,0.00,0.00,501447,2004,Leprosy
-Trang,2,0.33,0,0.00,0.00,602066,2004,Leprosy
-Zone:17,3,0.33,0,0.00,0.00,908170,2004,Leprosy
-Krabi,1,0.26,0,0.00,0.00,386084,2004,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,239895,2004,Leprosy
-Phuket,2,0.71,0,0.00,0.00,282191,2004,Leprosy
-Zone:18,38,2.12,0,0.00,0.00,1795905,2004,Leprosy
-Narathiwat,11,1.57,0,0.00,0.00,701008,2004,Leprosy
-Pattani,24,3.80,0,0.00,0.00,632240,2004,Leprosy
-Yala,3,0.65,0,0.00,0.00,462657,2004,Leprosy
-Zone:19,8,0.51,0,0.00,0.00,1561600,2004,Leprosy
-Satun,2,0.73,0,0.00,0.00,273624,2004,Leprosy
-Songkhla,6,0.47,0,0.00,0.00,1287976,2004,Leprosy
-Total,304,0.48,1,0.33,0.00,63977185,2011,Leprosy
-Central Region,41,0.19,0,0.00,0.00,21679246,2011,Leprosy
-Zone:0,4,0.07,0,0.00,0.00,5688119,2011,Leprosy
-Bangkok,4,0.07,0,0.00,0.00,5688119,2011,Leprosy
-Zone:1,2,0.06,0,0.00,0.00,3514250,2011,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1112185,2011,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,784875,2011,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,998271,2011,Leprosy
-Saraburi,2,0.32,0,0.00,0.00,618919,2011,Leprosy
-Zone:2,1,0.06,0,0.00,0.00,1588727,2011,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,284516,2011,Leprosy
-Chai Nat,1,0.30,0,0.00,0.00,334096,2011,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,755991,2011,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,214124,2011,Leprosy
-Zone:3,14,0.45,0,0.00,0.00,3137098,2011,Leprosy
-Chachoengsao,1,0.15,0,0.00,0.00,676652,2011,Leprosy
-Nakhon Nayok,2,0.79,0,0.00,0.00,253283,2011,Leprosy
-Prachin Buri,9,1.92,0,0.00,0.00,468113,2011,Leprosy
-Sa Kaeo,2,0.37,0,0.00,0.00,544848,2011,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1194202,2011,Leprosy
-Zone:4,11,0.32,0,0.00,0.00,3388832,2011,Leprosy
-Kanchanaburi,6,0.71,0,0.00,0.00,839345,2011,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,863155,2011,Leprosy
-Ratchaburi,3,0.36,0,0.00,0.00,840880,2011,Leprosy
-Suphan Buri,2,0.24,0,0.00,0.00,845452,2011,Leprosy
-Zone:5,2,0.12,0,0.00,0.00,1665473,2011,Leprosy
-Phetchaburi,1,0.22,0,0.00,0.00,465056,2011,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,510852,2011,Leprosy
-Samut Sakhon,1,0.20,0,0.00,0.00,495493,2011,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,194072,2011,Leprosy
-Zone:9,7,0.26,0,0.00,0.00,2696747,2011,Leprosy
-Chanthaburi,4,0.78,0,0.00,0.00,515736,2011,Leprosy
-Chon Buri,2,0.15,0,0.00,0.00,1327475,2011,Leprosy
-Rayong,1,0.16,0,0.00,0.00,632069,2011,Leprosy
-Trat,0,0.00,0,0.00,0.00,221467,2011,Leprosy
-South Region,49,0.55,1,2.04,0.01,8932459,2011,Leprosy
-Zone:6,12,0.34,1,8.33,0.03,3531913,2011,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,491073,2011,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1524317,2011,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,510299,2011,Leprosy
-Surat Thani,12,1.19,1,8.33,0.10,1006224,2011,Leprosy
-Zone:7,12,0.65,0,0.00,0.00,1846999,2011,Leprosy
-Krabi,4,0.92,0,0.00,0.00,435372,2011,Leprosy
-Phangnga,2,0.79,0,0.00,0.00,254022,2011,Leprosy
-Phuket,6,1.72,0,0.00,0.00,349457,2011,Leprosy
-Ranong,0,0.00,0,0.00,0.00,183464,2011,Leprosy
-Trang,0,0.00,0,0.00,0.00,624684,2011,Leprosy
-Zone:8,25,0.70,0,0.00,0.00,3553547,2011,Leprosy
-Narathiwat,12,1.62,0,0.00,0.00,742268,2011,Leprosy
-Pattani,12,1.82,0,0.00,0.00,659373,2011,Leprosy
-Satun,0,0.00,0,0.00,0.00,299315,2011,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1362017,2011,Leprosy
-Yala,1,0.20,0,0.00,0.00,490574,2011,Leprosy
-North-Eastern Region,155,0.72,0,0.00,0.00,21579612,2011,Leprosy
-Zone:10,11,0.31,0,0.00,0.00,3588872,2011,Leprosy
-Bungkan,2,0.98,0,0.00,0.00,203818,2011,Leprosy
-Loei,1,0.16,0,0.00,0.00,624493,2011,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502710,2011,Leprosy
-Nong Khai,1,0.14,0,0.00,0.00,711404,2011,Leprosy
-Udon Thani,7,0.45,0,0.00,0.00,1546447,2011,Leprosy
-Zone:11,4,0.18,0,0.00,0.00,2167288,2011,Leprosy
-Mukdahan,1,0.29,0,0.00,0.00,340079,2011,Leprosy
-Nakhon Phanom,2,0.28,0,0.00,0.00,704080,2011,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1123129,2011,Leprosy
-Zone:12,31,0.62,0,0.00,0.00,4996659,2011,Leprosy
-Kalasin,17,1.73,0,0.00,0.00,982117,2011,Leprosy
-Khon Kaen,8,0.45,0,0.00,0.00,1766834,2011,Leprosy
-Maha Sarakham,5,0.53,0,0.00,0.00,940324,2011,Leprosy
-Roi Et,1,0.08,0,0.00,0.00,1307384,2011,Leprosy
-Zone:13,56,1.34,0,0.00,0.00,4178156,2011,Leprosy
-Amnat Charoen,2,0.54,0,0.00,0.00,372190,2011,Leprosy
-Si Sa Ket,38,2.62,0,0.00,0.00,1452338,2011,Leprosy
-Ubon Ratchathani,9,0.50,0,0.00,0.00,1814573,2011,Leprosy
-Yasothon,7,1.30,0,0.00,0.00,539055,2011,Leprosy
-Zone:14,53,0.80,0,0.00,0.00,6648637,2011,Leprosy
-Buri Ram,17,1.09,0,0.00,0.00,1556426,2011,Leprosy
-Chaiyaphum,13,1.15,0,0.00,0.00,1127423,2011,Leprosy
-Nakhon Ratchasima,13,0.50,0,0.00,0.00,2583707,2011,Leprosy
-Surin,10,0.72,0,0.00,0.00,1381081,2011,Leprosy
-North Region,59,0.50,0,0.00,0.00,11785868,2011,Leprosy
-Zone:15,24,0.79,0,0.00,0.00,3050706,2011,Leprosy
-Chiang Mai,14,0.85,0,0.00,0.00,1643312,2011,Leprosy
-Lampang,0,0.00,0,0.00,0.00,759742,2011,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,404257,2011,Leprosy
-Mae Hong Son,10,4.11,0,0.00,0.00,243395,2011,Leprosy
-Zone:16,12,0.46,0,0.00,0.00,2621067,2011,Leprosy
-Chiang Rai,10,0.83,0,0.00,0.00,1198438,2011,Leprosy
-Nan,1,0.21,0,0.00,0.00,476488,2011,Leprosy
-Phayao,1,0.21,0,0.00,0.00,486388,2011,Leprosy
-Phrae,0,0.00,0,0.00,0.00,459753,2011,Leprosy
-Zone:17,20,0.58,0,0.00,0.00,3435767,2011,Leprosy
-Phetchabun,2,0.20,0,0.00,0.00,993420,2011,Leprosy
-Phitsanulok,2,0.24,0,0.00,0.00,850525,2011,Leprosy
-Sukhothai,1,0.17,0,0.00,0.00,601642,2011,Leprosy
-Tak,13,2.46,0,0.00,0.00,528351,2011,Leprosy
-Uttaradit,2,0.43,0,0.00,0.00,461829,2011,Leprosy
-Zone:18,3,0.11,0,0.00,0.00,2678328,2011,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726551,2011,Leprosy
-Nakhon Sawan,2,0.19,0,0.00,0.00,1072591,2011,Leprosy
-Phichit,0,0.00,0,0.00,0.00,551189,2011,Leprosy
-Uthai Thani,1,0.30,0,0.00,0.00,327997,2011,Leprosy
-Total,45,0.07,0,0.00,0.00,66301242,2018,Leprosy
-ZONE:01,2,0.03,0,0.00,0.00,5878537,2018,Leprosy
-Chiang Mai,0,0.00,0,0.00,0.00,1755291,2018,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1289873,2018,Leprosy
-Lampang,0,0.00,0,0.00,0.00,744714,2018,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405936,2018,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,280826,2018,Leprosy
-Nan,0,0.00,0,0.00,0.00,479414,2018,Leprosy
-Phayao,1,0.21,0,0.00,0.00,476157,2018,Leprosy
-Phrae,1,0.22,0,0.00,0.00,446326,2018,Leprosy
-ZONE:02,18,0.50,0,0.00,0.00,3565071,2018,Leprosy
-Phetchabun,2,0.20,0,0.00,0.00,994936,2018,Leprosy
-Phitsanulok,6,0.69,0,0.00,0.00,866129,2018,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Leprosy
-Tak,10,1.54,0,0.00,0.00,649472,2018,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,456247,2018,Leprosy
-ZONE:03,2,0.07,0,0.00,0.00,2992420,2018,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Leprosy
-Nakhon Sawan,2,0.19,0,0.00,0.00,1064649,2018,Leprosy
-Phichit,0,0.00,0,0.00,0.00,540620,2018,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,329688,2018,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5343264,2018,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1137603,2018,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,643531,2018,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Leprosy
-ZONE:05,5,0.09,0,0.00,0.00,5324608,2018,Leprosy
-Kanchanaburi,3,0.34,0,0.00,0.00,890565,2018,Leprosy
-Nakhon Pathom,1,0.11,0,0.00,0.00,914273,2018,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Leprosy
-Samut Sakhon,1,0.17,0,0.00,0.00,573215,2018,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Leprosy
-ZONE:06,2,0.03,0,0.00,0.00,6088563,2018,Leprosy
-Chachoengsao,1,0.14,0,0.00,0.00,712449,2018,Leprosy
-Chanthaburi,1,0.19,0,0.00,0.00,535478,2018,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,489592,2018,Leprosy
-Rayong,0,0.00,0,0.00,0.00,717276,2018,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Leprosy
-Trat,0,0.00,0,0.00,0.00,229782,2018,Leprosy
-ZONE:07,2,0.04,0,0.00,0.00,5062199,2018,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,985676,2018,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1805903,2018,Leprosy
-Maha Sarakham,2,0.21,0,0.00,0.00,963060,2018,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Leprosy
-ZONE:08,3,0.05,0,0.00,0.00,5553738,2018,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,423485,2018,Leprosy
-Loei,1,0.16,0,0.00,0.00,642220,2018,Leprosy
-Nakhon Phanom,1,0.14,0,0.00,0.00,718406,2018,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Leprosy
-Nong Khai,1,0.19,0,0.00,0.00,521995,2018,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Leprosy
-ZONE:09,0,0.00,0,0.00,0.00,6772779,2018,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2642815,2018,Leprosy
-Surin,0,0.00,0,0.00,0.00,1397519,2018,Leprosy
-ZONE:10,10,0.22,0,0.00,0.00,4613643,2018,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Leprosy
-Si Sa Ket,9,0.61,0,0.00,0.00,1472521,2018,Leprosy
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1872091,2018,Leprosy
-Yasothon,1,0.19,0,0.00,0.00,539136,2018,Leprosy
-ZONE:11,0,0.00,0,0.00,0.00,4466673,2018,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,510307,2018,Leprosy
-Krabi,0,0.00,0,0.00,0.00,471754,2018,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1558958,2018,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,267866,2018,Leprosy
-Phuket,0,0.00,0,0.00,0.00,406113,2018,Leprosy
-Ranong,0,0.00,0,0.00,0.00,191134,2018,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Leprosy
-ZONE:12,1,0.02,0,0.00,0.00,4960215,2018,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,799357,2018,Leprosy
-Pattani,0,0.00,0,0.00,0.00,713937,2018,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Leprosy
-Satun,0,0.00,0,0.00,0.00,320637,2018,Leprosy
-Songkhla,1,0.07,0,0.00,0.00,1428429,2018,Leprosy
-Trang,0,0.00,0,0.00,0.00,643093,2018,Leprosy
-Yala,0,0.00,0,0.00,0.00,529811,2018,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5679532,2018,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5679532,2018,Leprosy
-Total,34,0.05,0,0.00,0.00,66171439,2022,Leprosy
-ZONE:01,3,0.05,0,0.00,0.00,5874503,2022,Leprosy
-Chiang Mai,2,0.11,0,0.00,0.00,1789385,2022,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Leprosy
-Lampang,0,0.00,0,0.00,0.00,724678,2022,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,401139,2022,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Leprosy
-Nan,0,0.00,0,0.00,0.00,475875,2022,Leprosy
-Phayao,0,0.00,0,0.00,0.00,464505,2022,Leprosy
-Phrae,1,0.23,0,0.00,0.00,434580,2022,Leprosy
-ZONE:02,4,0.11,0,0.00,0.00,3533839,2022,Leprosy
-Phetchabun,3,0.31,0,0.00,0.00,978372,2022,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Leprosy
-Tak,1,0.15,0,0.00,0.00,676583,2022,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Leprosy
-ZONE:03,1,0.03,0,0.00,0.00,2922114,2022,Leprosy
-Chai Nat,1,0.31,0,0.00,0.00,320432,2022,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Leprosy
-Phichit,0,0.00,0,0.00,0.00,529395,2022,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,643963,2022,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Leprosy
-ZONE:05,3,0.06,0,0.00,0.00,5333543,2022,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Leprosy
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553171,2022,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Leprosy
-Suphan Buri,2,0.24,0,0.00,0.00,835360,2022,Leprosy
-ZONE:06,4,0.06,0,0.00,0.00,6237892,2022,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Leprosy
-Chanthaburi,1,0.19,0,0.00,0.00,536557,2022,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Leprosy
-Prachin Buri,1,0.20,0,0.00,0.00,495325,2022,Leprosy
-Rayong,0,0.00,0,0.00,0.00,751343,2022,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Leprosy
-Samut Prakan,1,0.07,0,0.00,0.00,1356449,2022,Leprosy
-Trat,1,0.44,0,0.00,0.00,228376,2022,Leprosy
-ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,975570,2022,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Leprosy
-Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Leprosy
-ZONE:08,2,0.04,0,0.00,0.00,5516407,2022,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,421995,2022,Leprosy
-Loei,0,0.00,0,0.00,0.00,638732,2022,Leprosy
-Nakhon Phanom,1,0.14,0,0.00,0.00,717040,2022,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Leprosy
-Nong Khai,1,0.19,0,0.00,0.00,516843,2022,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Leprosy
-ZONE:09,1,0.01,0,0.00,0.00,6712454,2022,Leprosy
-Buri Ram,1,0.06,0,0.00,0.00,1579805,2022,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Leprosy
-Surin,0,0.00,0,0.00,0.00,1376230,2022,Leprosy
-ZONE:10,11,0.24,0,0.00,0.00,4587303,2022,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Leprosy
-Si Sa Ket,10,0.69,0,0.00,0.00,1457556,2022,Leprosy
-Ubon Ratchathani,1,0.05,0,0.00,0.00,1868519,2022,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,533394,2022,Leprosy
-ZONE:11,1,0.02,0,0.00,0.00,4492012,2022,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,509479,2022,Leprosy
-Krabi,0,0.00,0,0.00,0.00,479351,2022,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,268016,2022,Leprosy
-Phuket,1,0.24,0,0.00,0.00,418785,2022,Leprosy
-Ranong,0,0.00,0,0.00,0.00,194573,2022,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Leprosy
-ZONE:12,4,0.08,0,0.00,0.00,5000255,2022,Leprosy
-Narathiwat,1,0.12,0,0.00,0.00,809660,2022,Leprosy
-Pattani,0,0.00,0,0.00,0.00,729581,2022,Leprosy
-Phatthalung,1,0.19,0,0.00,0.00,522541,2022,Leprosy
-Satun,0,0.00,0,0.00,0.00,324835,2022,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Leprosy
-Trang,1,0.16,0,0.00,0.00,639788,2022,Leprosy
-Yala,1,0.18,0,0.00,0.00,542314,2022,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Leprosy
-Total,66,0.10,0,0.00,0.00,66060027,2017,Leprosy
-ZONE:01,4,0.07,0,0.00,0.00,5864232,2017,Leprosy
-Chiang Mai,3,0.17,0,0.00,0.00,1741301,2017,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1285080,2017,Leprosy
-Lampang,0,0.00,0,0.00,0.00,747699,2017,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405959,2017,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,277486,2017,Leprosy
-Nan,1,0.21,0,0.00,0.00,479877,2017,Leprosy
-Phayao,0,0.00,0,0.00,0.00,478144,2017,Leprosy
-Phrae,0,0.00,0,0.00,0.00,448686,2017,Leprosy
-ZONE:02,25,0.70,0,0.00,0.00,3556376,2017,Leprosy
-Phetchabun,2,0.20,0,0.00,0.00,995277,2017,Leprosy
-Phitsanulok,13,1.50,0,0.00,0.00,865564,2017,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,599775,2017,Leprosy
-Tak,10,1.57,0,0.00,0.00,638115,2017,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,457645,2017,Leprosy
-ZONE:03,2,0.07,0,0.00,0.00,2998104,2017,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,330077,2017,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729337,2017,Leprosy
-Nakhon Sawan,1,0.09,0,0.00,0.00,1065895,2017,Leprosy
-Phichit,1,0.18,0,0.00,0.00,542674,2017,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,330121,2017,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5302492,2017,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,757296,2017,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1220829,2017,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,812086,2017,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1120246,2017,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,641052,2017,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Leprosy
-ZONE:05,5,0.09,0,0.00,0.00,5295696,2017,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,886546,2017,Leprosy
-Nakhon Pathom,4,0.44,0,0.00,0.00,908249,2017,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,481514,2017,Leprosy
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,541756,2017,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,562592,2017,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,193985,2017,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,850285,2017,Leprosy
-ZONE:06,7,0.12,0,0.00,0.00,6020790,2017,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,707145,2017,Leprosy
-Chanthaburi,1,0.19,0,0.00,0.00,533463,2017,Leprosy
-Chon Buri,5,0.33,0,0.00,0.00,1496086,2017,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,486187,2017,Leprosy
-Rayong,1,0.14,0,0.00,0.00,705729,2017,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,560478,2017,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1302160,2017,Leprosy
-Trat,0,0.00,0,0.00,0.00,229542,2017,Leprosy
-ZONE:07,3,0.06,0,0.00,0.00,5060674,2017,Leprosy
-Kalasin,1,0.10,0,0.00,0.00,985619,2017,Leprosy
-Khon Kaen,1,0.06,0,0.00,0.00,1803831,2017,Leprosy
-Maha Sarakham,1,0.10,0,0.00,0.00,963277,2017,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1307947,2017,Leprosy
-ZONE:08,0,0.00,0,0.00,0.00,5541473,2017,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,422328,2017,Leprosy
-Loei,0,0.00,0,0.00,0.00,640734,2017,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,717451,2017,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511188,2017,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,521125,2017,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1147710,2017,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1580937,2017,Leprosy
-ZONE:09,0,0.00,0,0.00,0.00,6760383,2017,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1589900,2017,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1138778,2017,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2635331,2017,Leprosy
-Surin,0,0.00,0,0.00,0.00,1396374,2017,Leprosy
-ZONE:10,18,0.39,0,0.00,0.00,4604905,2017,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,377614,2017,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,350128,2017,Leprosy
-Si Sa Ket,15,1.02,0,0.00,0.00,1471185,2017,Leprosy
-Ubon Ratchathani,2,0.11,0,0.00,0.00,1866299,2017,Leprosy
-Yasothon,1,0.19,0,0.00,0.00,539679,2017,Leprosy
-ZONE:11,0,0.00,0,0.00,0.00,4441086,2017,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,508627,2017,Leprosy
-Krabi,0,0.00,0,0.00,0.00,467851,2017,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1555957,2017,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,266535,2017,Leprosy
-Phuket,0,0.00,0,0.00,0.00,398092,2017,Leprosy
-Ranong,0,0.00,0,0.00,0.00,189777,2017,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1054247,2017,Leprosy
-ZONE:12,2,0.04,0,0.00,0.00,4929285,2017,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,792961,2017,Leprosy
-Pattani,0,0.00,0,0.00,0.00,705379,2017,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,524291,2017,Leprosy
-Satun,0,0.00,0,0.00,0.00,318655,2017,Leprosy
-Songkhla,1,0.07,0,0.00,0.00,1420834,2017,Leprosy
-Trang,1,0.16,0,0.00,0.00,642377,2017,Leprosy
-Yala,0,0.00,0,0.00,0.00,524788,2017,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5684531,2017,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5684531,2017,Leprosy
-Total,35,0.05,0,0.00,0.00,64955313,2014,Leprosy
-ZONE:00,0,0.00,0,0.00,0.00,5689268,2014,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5689268,2014,Leprosy
-ZONE:01,1,0.02,0,0.00,0.00,5704200,2014,Leprosy
-Chiang Mai,1,0.06,0,0.00,0.00,1672586,2014,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1206180,2014,Leprosy
-Lampang,0,0.00,0,0.00,0.00,753937,2014,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405368,2014,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,247364,2014,Leprosy
-Nan,0,0.00,0,0.00,0.00,478088,2014,Leprosy
-Phayao,0,0.00,0,0.00,0.00,485599,2014,Leprosy
-Phrae,0,0.00,0,0.00,0.00,455078,2014,Leprosy
-ZONE:02,2,0.06,0,0.00,0.00,3452021,2014,Leprosy
-Phetchabun,2,0.20,0,0.00,0.00,995102,2014,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,857682,2014,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,602586,2014,Leprosy
-Tak,0,0.00,0,0.00,0.00,535953,2014,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,460698,2014,Leprosy
-ZONE:03,0,0.00,0,0.00,0.00,3012608,2014,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,332526,2014,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729076,2014,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1072949,2014,Leprosy
-Phichit,0,0.00,0,0.00,0.00,548199,2014,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,329858,2014,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5171756,2014,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,758188,2014,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,800785,2014,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1063608,2014,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,631338,2014,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Leprosy
-ZONE:05,0,0.00,0,0.00,0.00,5147569,2014,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,845540,2014,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,472640,2014,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,522689,2014,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,851689,2014,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,525672,2014,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,194153,2014,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,848559,2014,Leprosy
-ZONE:06,3,0.05,0,0.00,0.00,5797595,2014,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,692852,2014,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,525805,2014,Leprosy
-Chon Buri,2,0.14,0,0.00,0.00,1405889,2014,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,477741,2014,Leprosy
-Rayong,1,0.15,0,0.00,0.00,667806,2014,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,551562,2014,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Leprosy
-Trat,0,0.00,0,0.00,0.00,224370,2014,Leprosy
-ZONE:07,0,0.00,0,0.00,0.00,5037074,2014,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,984468,2014,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1785852,2014,Leprosy
-Maha Sarakham,0,0.00,0,0.00,0.00,958116,2014,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1308638,2014,Leprosy
-ZONE:08,0,0.00,0,0.00,0.00,5490561,2014,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,417401,2014,Leprosy
-Loei,0,0.00,0,0.00,0.00,633359,2014,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,712101,2014,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508001,2014,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,516101,2014,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1136466,2014,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1567132,2014,Leprosy
-ZONE:09,2,0.03,0,0.00,0.00,6717984,2014,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1576343,2014,Leprosy
-Chaiyaphum,1,0.09,0,0.00,0.00,1136386,2014,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2615340,2014,Leprosy
-Surin,1,0.07,0,0.00,0.00,1389915,2014,Leprosy
-ZONE:10,24,0.53,0,0.00,0.00,4564711,2014,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,375039,2014,Leprosy
-Mukdahan,1,0.29,0,0.00,0.00,345159,2014,Leprosy
-Si Sa Ket,23,1.57,0,0.00,0.00,1463620,2014,Leprosy
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1840596,2014,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,540297,2014,Leprosy
-ZONE:11,0,0.00,0,0.00,0.00,4344513,2014,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,499435,2014,Leprosy
-Krabi,0,0.00,0,0.00,0.00,453850,2014,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1544936,2014,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,260395,2014,Leprosy
-Phuket,0,0.00,0,0.00,0.00,373943,2014,Leprosy
-Ranong,0,0.00,0,0.00,0.00,175933,2014,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1036021,2014,Leprosy
-ZONE:12,3,0.06,0,0.00,0.00,4825453,2014,Leprosy
-Narathiwat,1,0.13,0,0.00,0.00,770472,2014,Leprosy
-Pattani,2,0.29,0,0.00,0.00,682512,2014,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,519220,2014,Leprosy
-Satun,0,0.00,0,0.00,0.00,311233,2014,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1395596,2014,Leprosy
-Trang,0,0.00,0,0.00,0.00,637395,2014,Leprosy
-Yala,0,0.00,0,0.00,0.00,509025,2014,Leprosy
-Total,47,0.07,0,0.00,0.00,65426907,2016,Leprosy
-ZONE:01,2,0.03,0,0.00,0.00,5781324,2016,Leprosy
-Chiang Mai,2,0.12,0,0.00,0.00,1703263,2016,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1242825,2016,Leprosy
-Lampang,0,0.00,0,0.00,0.00,752685,2016,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405927,2016,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Leprosy
-Nan,0,0.00,0,0.00,0.00,478890,2016,Leprosy
-Phayao,0,0.00,0,0.00,0.00,483550,2016,Leprosy
-Phrae,0,0.00,0,0.00,0.00,453213,2016,Leprosy
-ZONE:02,15,0.43,0,0.00,0.00,3498728,2016,Leprosy
-Phetchabun,1,0.10,0,0.00,0.00,996397,2016,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,861194,2016,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,602085,2016,Leprosy
-Tak,14,2.42,0,0.00,0.00,578968,2016,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,460084,2016,Leprosy
-ZONE:03,1,0.03,0,0.00,0.00,3011449,2016,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729839,2016,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1072349,2016,Leprosy
-Phichit,1,0.18,0,0.00,0.00,546750,2016,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5221125,2016,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1084154,2016,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,635567,2016,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Leprosy
-ZONE:05,0,0.00,0,0.00,0.00,5209561,2016,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,895207,2016,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Leprosy
-ZONE:06,2,0.03,0,0.00,0.00,5880124,2016,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,698190,2016,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,529194,2016,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1438231,2016,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Leprosy
-Rayong,2,0.29,0,0.00,0.00,681696,2016,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,554555,2016,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Leprosy
-Trat,0,0.00,0,0.00,0.00,227083,2016,Leprosy
-ZONE:07,1,0.02,0,0.00,0.00,5049920,2016,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,985055,2016,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Leprosy
-Maha Sarakham,1,0.10,0,0.00,0.00,962592,2016,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1308241,2016,Leprosy
-ZONE:08,1,0.02,0,0.00,0.00,5511930,2016,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,419607,2016,Leprosy
-Loei,0,0.00,0,0.00,0.00,636666,2016,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,714369,2016,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1140673,2016,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Leprosy
-ZONE:09,4,0.06,0,0.00,0.00,6737604,2016,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1581955,2016,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Leprosy
-Nakhon Ratchasima,1,0.04,0,0.00,0.00,2624668,2016,Leprosy
-Surin,3,0.22,0,0.00,0.00,1393330,2016,Leprosy
-ZONE:10,19,0.41,0,0.00,0.00,4581192,2016,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Leprosy
-Si Sa Ket,19,1.30,0,0.00,0.00,1467006,2016,Leprosy
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1851049,2016,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,540197,2016,Leprosy
-ZONE:11,0,0.00,0,0.00,0.00,4383957,2016,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,503203,2016,Leprosy
-Krabi,0,0.00,0,0.00,0.00,459456,2016,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,262721,2016,Leprosy
-Phuket,0,0.00,0,0.00,0.00,382485,2016,Leprosy
-Ranong,0,0.00,0,0.00,0.00,182313,2016,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1043501,2016,Leprosy
-ZONE:12,2,0.04,0,0.00,0.00,4865646,2016,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,778941,2016,Leprosy
-Pattani,2,0.29,0,0.00,0.00,690104,2016,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Leprosy
-Satun,0,0.00,0,0.00,0.00,314297,2016,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1405939,2016,Leprosy
-Trang,0,0.00,0,0.00,0.00,639770,2016,Leprosy
-Yala,0,0.00,0,0.00,0.00,515025,2016,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5694347,2016,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5694347,2016,Leprosy
-Total,376,0.59,0,0.00,0.00,63701703,2010,Leprosy
-Central Region,47,0.22,0,0.00,0.00,21534318,2010,Leprosy
-Zone:0,4,0.07,0,0.00,0.00,5701995,2010,Leprosy
-Bangkok,4,0.07,0,0.00,0.00,5701995,2010,Leprosy
-Zone:1,6,0.17,0,0.00,0.00,3454591,2010,Leprosy
-Nonthaburi,1,0.09,0,0.00,0.00,1089908,2010,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,778627,2010,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,971010,2010,Leprosy
-Saraburi,5,0.81,0,0.00,0.00,615046,2010,Leprosy
-Zone:2,5,0.31,0,0.00,0.00,1590200,2010,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,284889,2010,Leprosy
-Chai Nat,1,0.30,0,0.00,0.00,335177,2010,Leprosy
-Lop Buri,4,0.53,0,0.00,0.00,755153,2010,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,214981,2010,Leprosy
-Zone:3,13,0.42,0,0.00,0.00,3105799,2010,Leprosy
-Chachoengsao,2,0.30,0,0.00,0.00,671458,2010,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,252209,2010,Leprosy
-Prachin Buri,8,1.72,0,0.00,0.00,464213,2010,Leprosy
-Sa Kaeo,3,0.55,0,0.00,0.00,543276,2010,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1174643,2010,Leprosy
-Zone:4,8,0.24,0,0.00,0.00,3374810,2010,Leprosy
-Kanchanaburi,3,0.36,0,0.00,0.00,836600,2010,Leprosy
-Nakhon Pathom,2,0.23,0,0.00,0.00,855837,2010,Leprosy
-Ratchaburi,3,0.36,0,0.00,0.00,837153,2010,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,845220,2010,Leprosy
-Zone:5,5,0.30,0,0.00,0.00,1651335,2010,Leprosy
-Phetchaburi,4,0.86,0,0.00,0.00,462636,2010,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,506599,2010,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,488247,2010,Leprosy
-Samut Songkhram,1,0.52,0,0.00,0.00,193853,2010,Leprosy
-Zone:9,6,0.23,0,0.00,0.00,2655588,2010,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,512932,2010,Leprosy
-Chon Buri,1,0.08,0,0.00,0.00,1302942,2010,Leprosy
-Rayong,3,0.48,0,0.00,0.00,619249,2010,Leprosy
-Trat,2,0.91,0,0.00,0.00,220465,2010,Leprosy
-South Region,97,1.10,0,0.00,0.00,8853473,2010,Leprosy
-Zone:6,28,0.80,0,0.00,0.00,3514344,2010,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,488855,2010,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1519531,2010,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,508656,2010,Leprosy
-Surat Thani,28,2.81,0,0.00,0.00,997302,2010,Leprosy
-Zone:7,3,0.16,0,0.00,0.00,1825591,2010,Leprosy
-Krabi,1,0.23,0,0.00,0.00,429631,2010,Leprosy
-Phangnga,1,0.40,0,0.00,0.00,252385,2010,Leprosy
-Phuket,1,0.29,0,0.00,0.00,340490,2010,Leprosy
-Ranong,0,0.00,0,0.00,0.00,182417,2010,Leprosy
-Trang,0,0.00,0,0.00,0.00,620668,2010,Leprosy
-Zone:8,66,1.88,0,0.00,0.00,3513538,2010,Leprosy
-Narathiwat,40,5.46,0,0.00,0.00,732617,2010,Leprosy
-Pattani,21,3.22,0,0.00,0.00,651442,2010,Leprosy
-Satun,2,0.68,0,0.00,0.00,295133,2010,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1350489,2010,Leprosy
-Yala,3,0.62,0,0.00,0.00,483857,2010,Leprosy
-North-Eastern Region,157,0.73,0,0.00,0.00,21534582,2010,Leprosy
-Zone:10,16,0.45,0,0.00,0.00,3576272,2010,Leprosy
-Loei,1,0.16,0,0.00,0.00,622424,2010,Leprosy
-Nong Bua Lam Phu,2,0.40,0,0.00,0.00,501891,2010,Leprosy
-Nong Khai,5,0.55,0,0.00,0.00,910094,2010,Leprosy
-Udon Thani,8,0.52,0,0.00,0.00,1541863,2010,Leprosy
-Zone:11,3,0.14,0,0.00,0.00,2161531,2010,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,338812,2010,Leprosy
-Nakhon Phanom,3,0.43,0,0.00,0.00,702041,2010,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1120678,2010,Leprosy
-Zone:12,18,0.36,0,0.00,0.00,4995226,2010,Leprosy
-Kalasin,6,0.61,0,0.00,0.00,981369,2010,Leprosy
-Khon Kaen,9,0.51,0,0.00,0.00,1764922,2010,Leprosy
-Maha Sarakham,1,0.11,0,0.00,0.00,940001,2010,Leprosy
-Roi Et,2,0.15,0,0.00,0.00,1308934,2010,Leprosy
-Zone:13,48,1.15,0,0.00,0.00,4168498,2010,Leprosy
-Amnat Charoen,2,0.54,0,0.00,0.00,371471,2010,Leprosy
-Si Sa Ket,38,2.62,0,0.00,0.00,1449409,2010,Leprosy
-Ubon Ratchathani,2,0.11,0,0.00,0.00,1808422,2010,Leprosy
-Yasothon,6,1.11,0,0.00,0.00,539196,2010,Leprosy
-Zone:14,72,1.09,0,0.00,0.00,6633055,2010,Leprosy
-Buri Ram,44,2.84,0,0.00,0.00,1550275,2010,Leprosy
-Chaiyaphum,9,0.80,0,0.00,0.00,1126295,2010,Leprosy
-Nakhon Ratchasima,8,0.31,0,0.00,0.00,2576691,2010,Leprosy
-Surin,11,0.80,0,0.00,0.00,1379794,2010,Leprosy
-North Region,75,0.64,0,0.00,0.00,11779330,2010,Leprosy
-Zone:15,19,0.62,0,0.00,0.00,3046660,2010,Leprosy
-Chiang Mai,8,0.49,0,0.00,0.00,1636514,2010,Leprosy
-Lampang,0,0.00,0,0.00,0.00,763224,2010,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,404627,2010,Leprosy
-Mae Hong Son,11,4.54,0,0.00,0.00,242295,2010,Leprosy
-Zone:16,21,0.80,0,0.00,0.00,2620701,2010,Leprosy
-Chiang Rai,20,1.67,0,0.00,0.00,1196576,2010,Leprosy
-Nan,0,0.00,0,0.00,0.00,475989,2010,Leprosy
-Phayao,1,0.21,0,0.00,0.00,486713,2010,Leprosy
-Phrae,0,0.00,0,0.00,0.00,461423,2010,Leprosy
-Zone:17,27,0.79,0,0.00,0.00,3430959,2010,Leprosy
-Phetchabun,3,0.30,0,0.00,0.00,995578,2010,Leprosy
-Phitsanulok,2,0.24,0,0.00,0.00,847627,2010,Leprosy
-Sukhothai,8,1.33,0,0.00,0.00,602296,2010,Leprosy
-Tak,12,2.30,0,0.00,0.00,522673,2010,Leprosy
-Uttaradit,2,0.43,0,0.00,0.00,462785,2010,Leprosy
-Zone:18,8,0.30,0,0.00,0.00,2681010,2010,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Leprosy
-Nakhon Sawan,4,0.37,0,0.00,0.00,1073182,2010,Leprosy
-Phichit,3,0.54,0,0.00,0.00,552942,2010,Leprosy
-Uthai Thani,1,0.30,0,0.00,0.00,327916,2010,Leprosy
-Total,55,0.08,0,0.00,0.00,66372831,2020,Leprosy
-ZONE:01,7,0.12,0,0.00,0.00,5886870,2020,Leprosy
-Chiang Mai,6,0.34,0,0.00,0.00,1781812,2020,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Leprosy
-Lampang,0,0.00,0,0.00,0.00,733640,2020,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,403542,2020,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Leprosy
-Nan,1,0.21,0,0.00,0.00,477476,2020,Leprosy
-Phayao,0,0.00,0,0.00,0.00,469856,2020,Leprosy
-Phrae,0,0.00,0,0.00,0.00,439537,2020,Leprosy
-ZONE:02,6,0.17,0,0.00,0.00,3554902,2020,Leprosy
-Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Leprosy
-Phitsanulok,1,0.12,0,0.00,0.00,857364,2020,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Leprosy
-Tak,5,0.75,0,0.00,0.00,667942,2020,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Leprosy
-ZONE:03,1,0.03,0,0.00,0.00,2956189,2020,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Leprosy
-Kamphaeng Phet,1,0.14,0,0.00,0.00,719993,2020,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Leprosy
-Phichit,0,0.00,0,0.00,0.00,534311,2020,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,644869,2020,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Leprosy
-ZONE:05,3,0.06,0,0.00,0.00,5342038,2020,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Leprosy
-Nakhon Pathom,1,0.11,0,0.00,0.00,920380,2020,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Leprosy
-Prachuap Khiri Khan,2,0.36,0,0.00,0.00,552398,2020,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Leprosy
-ZONE:06,2,0.03,0,0.00,0.00,6192990,2020,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Leprosy
-Prachin Buri,2,0.40,0,0.00,0.00,494175,2020,Leprosy
-Rayong,0,0.00,0,0.00,0.00,738139,2020,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Leprosy
-Trat,0,0.00,0,0.00,0.00,229247,2020,Leprosy
-ZONE:07,7,0.14,0,0.00,0.00,5039088,2020,Leprosy
-Kalasin,1,0.10,0,0.00,0.00,980297,2020,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Leprosy
-Maha Sarakham,4,0.42,0,0.00,0.00,958163,2020,Leprosy
-Roi Et,2,0.15,0,0.00,0.00,1301926,2020,Leprosy
-ZONE:08,2,0.04,0,0.00,0.00,5540556,2020,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,423067,2020,Leprosy
-Loei,0,0.00,0,0.00,0.00,640843,2020,Leprosy
-Nakhon Phanom,1,0.14,0,0.00,0.00,718169,2020,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Leprosy
-Nong Khai,1,0.19,0,0.00,0.00,519873,2020,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Leprosy
-ZONE:09,3,0.04,0,0.00,0.00,6748199,2020,Leprosy
-Buri Ram,1,0.06,0,0.00,0.00,1588466,2020,Leprosy
-Chaiyaphum,1,0.09,0,0.00,0.00,1131140,2020,Leprosy
-Nakhon Ratchasima,1,0.04,0,0.00,0.00,2641067,2020,Leprosy
-Surin,0,0.00,0,0.00,0.00,1387526,2020,Leprosy
-ZONE:10,16,0.35,0,0.00,0.00,4603401,2020,Leprosy
-Amnat Charoen,1,0.27,0,0.00,0.00,377317,2020,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Leprosy
-Si Sa Ket,12,0.82,0,0.00,0.00,1465719,2020,Leprosy
-Ubon Ratchathani,3,0.16,0,0.00,0.00,1872422,2020,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,535900,2020,Leprosy
-ZONE:11,4,0.09,0,0.00,0.00,4489609,2020,Leprosy
-Chumphon,2,0.39,0,0.00,0.00,510256,2020,Leprosy
-Krabi,0,0.00,0,0.00,0.00,477254,2020,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,268509,2020,Leprosy
-Phuket,2,0.48,0,0.00,0.00,415527,2020,Leprosy
-Ranong,0,0.00,0,0.00,0.00,193871,2020,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Leprosy
-ZONE:12,4,0.08,0,0.00,0.00,4991217,2020,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Leprosy
-Pattani,0,0.00,0,0.00,0.00,725559,2020,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Leprosy
-Satun,0,0.00,0,0.00,0.00,323841,2020,Leprosy
-Songkhla,1,0.07,0,0.00,0.00,1432288,2020,Leprosy
-Trang,1,0.16,0,0.00,0.00,641868,2020,Leprosy
-Yala,2,0.37,0,0.00,0.00,537466,2020,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Leprosy
 Total,503,0.80,1,0.20,0.00,62939819,2003,Leprosy
 North Region,59,0.49,1,1.69,0.01,12120537,2003,Leprosy
 Zone:1,34,0.59,1,2.94,0.02,5764017,2003,Leprosy
@@ -1147,370 +482,97 @@ Yala,0,0.00,0,0.00,0.00,462553,2003,Leprosy
 Zone:19,4,0.26,0,0.00,0.00,1555007,2003,Leprosy
 Satun,1,0.37,0,0.00,0.00,272252,2003,Leprosy
 Songkhla,3,0.23,0,0.00,0.00,1282755,2003,Leprosy
-Total,57,0.09,0,0.00,0.00,65124716,2015,Leprosy
-ZONE:00,1,0.02,0,0.00,0.00,5692284,2015,Leprosy
-Bangkok,1,0.02,0,0.00,0.00,5692284,2015,Leprosy
-ZONE:01,4,0.07,0,0.00,0.00,5709443,2015,Leprosy
-Chiang Mai,4,0.24,0,0.00,0.00,1678284,2015,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1207699,2015,Leprosy
-Lampang,0,0.00,0,0.00,0.00,753013,2015,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405468,2015,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Leprosy
-Nan,0,0.00,0,0.00,0.00,478264,2015,Leprosy
-Phayao,0,0.00,0,0.00,0.00,484454,2015,Leprosy
-Phrae,0,0.00,0,0.00,0.00,454083,2015,Leprosy
-ZONE:02,4,0.12,0,0.00,0.00,3457208,2015,Leprosy
-Phetchabun,1,0.10,0,0.00,0.00,995807,2015,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,858988,2015,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,602460,2015,Leprosy
-Tak,3,0.56,0,0.00,0.00,539553,2015,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,460400,2015,Leprosy
-ZONE:03,4,0.13,0,0.00,0.00,3012283,2015,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Leprosy
-Nakhon Sawan,4,0.37,0,0.00,0.00,1072756,2015,Leprosy
-Phichit,0,0.00,0,0.00,0.00,547543,2015,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,330179,2015,Leprosy
-ZONE:04,1,0.02,0,0.00,0.00,5196419,2015,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,283568,2015,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,758406,2015,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Leprosy
-Nonthaburi,1,0.09,0,0.00,0.00,1173870,2015,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,803599,2015,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,633460,2015,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Leprosy
-ZONE:05,1,0.02,0,0.00,0.00,5166914,2015,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,848198,2015,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,853217,2015,Leprosy
-Samut Sakhon,1,0.19,0,0.00,0.00,531887,2015,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Leprosy
-ZONE:06,1,0.02,0,0.00,0.00,5836407,2015,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,695478,2015,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,527350,2015,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,479314,2015,Leprosy
-Rayong,1,0.15,0,0.00,0.00,674393,2015,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Leprosy
-Trat,0,0.00,0,0.00,0.00,224730,2015,Leprosy
-ZONE:07,0,0.00,0,0.00,0.00,5043862,2015,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,984907,2015,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1790049,2015,Leprosy
-Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Leprosy
-ZONE:08,1,0.02,0,0.00,0.00,5501453,2015,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,418566,2015,Leprosy
-Loei,0,0.00,0,0.00,0.00,634513,2015,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1138609,2015,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Leprosy
-ZONE:09,2,0.03,0,0.00,0.00,6728450,2015,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1579248,2015,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Leprosy
-Nakhon Ratchasima,1,0.04,0,0.00,0.00,2620517,2015,Leprosy
-Surin,1,0.07,0,0.00,0.00,1391636,2015,Leprosy
-ZONE:10,34,0.74,0,0.00,0.00,4571489,2015,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Leprosy
-Si Sa Ket,34,2.32,0,0.00,0.00,1465213,2015,Leprosy
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,540211,2015,Leprosy
-ZONE:11,0,0.00,0,0.00,0.00,4362467,2015,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,500575,2015,Leprosy
-Krabi,0,0.00,0,0.00,0.00,456811,2015,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1548028,2015,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,261370,2015,Leprosy
-Phuket,0,0.00,0,0.00,0.00,378364,2015,Leprosy
-Ranong,0,0.00,0,0.00,0.00,177089,2015,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1040230,2015,Leprosy
-ZONE:12,4,0.08,0,0.00,0.00,4846037,2015,Leprosy
-Narathiwat,1,0.13,0,0.00,0.00,774799,2015,Leprosy
-Pattani,3,0.44,0,0.00,0.00,686186,2015,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Leprosy
-Satun,0,0.00,0,0.00,0.00,312673,2015,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1401303,2015,Leprosy
-Trang,0,0.00,0,0.00,0.00,638746,2015,Leprosy
-Yala,0,0.00,0,0.00,0.00,511911,2015,Leprosy
-Total,38,0.06,0,0.00,0.00,66179083,2021,Leprosy
-ZONE:01,4,0.07,0,0.00,0.00,5875424,2021,Leprosy
-Chiang Mai,3,0.17,0,0.00,0.00,1786877,2021,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Leprosy
-Lampang,0,0.00,0,0.00,0.00,726821,2021,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,401574,2021,Leprosy
-Mae Hong Son,1,0.35,0,0.00,0.00,285232,2021,Leprosy
-Nan,0,0.00,0,0.00,0.00,476300,2021,Leprosy
-Phayao,0,0.00,0,0.00,0.00,465930,2021,Leprosy
-Phrae,0,0.00,0,0.00,0.00,435965,2021,Leprosy
-ZONE:02,7,0.20,0,0.00,0.00,3536074,2021,Leprosy
-Phetchabun,3,0.31,0,0.00,0.00,980156,2021,Leprosy
-Phitsanulok,1,0.12,0,0.00,0.00,848432,2021,Leprosy
-Sukhothai,1,0.17,0,0.00,0.00,586617,2021,Leprosy
-Tak,2,0.30,0,0.00,0.00,673423,2021,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Leprosy
-ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Leprosy
-Phichit,0,0.00,0,0.00,0.00,530852,2021,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Leprosy
-ZONE:04,2,0.04,0,0.00,0.00,5411959,2021,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Leprosy
-Pathum Thani,1,0.08,0,0.00,0.00,1183235,2021,Leprosy
-Saraburi,1,0.16,0,0.00,0.00,643895,2021,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Leprosy
-ZONE:05,6,0.11,0,0.00,0.00,5332653,2021,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Leprosy
-Nakhon Pathom,2,0.22,0,0.00,0.00,921450,2021,Leprosy
-Phetchaburi,1,0.21,0,0.00,0.00,482534,2021,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Leprosy
-Suphan Buri,3,0.36,0,0.00,0.00,836993,2021,Leprosy
-ZONE:06,1,0.02,0,0.00,0.00,6218594,2021,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Leprosy
-Prachin Buri,1,0.20,0,0.00,0.00,494498,2021,Leprosy
-Rayong,0,0.00,0,0.00,0.00,746433,2021,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Leprosy
-Trat,0,0.00,0,0.00,0.00,228456,2021,Leprosy
-ZONE:07,0,0.00,0,0.00,0.00,5017381,2021,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,976373,2021,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Leprosy
-Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Leprosy
-ZONE:08,1,0.02,0,0.00,0.00,5518109,2021,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,422019,2021,Leprosy
-Loei,0,0.00,0,0.00,0.00,638734,2021,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Leprosy
-Nong Khai,1,0.19,0,0.00,0.00,517140,2021,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Leprosy
-Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Leprosy
-ZONE:09,2,0.03,0,0.00,0.00,6714997,2021,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Leprosy
-Nakhon Ratchasima,1,0.04,0,0.00,0.00,2633681,2021,Leprosy
-Surin,1,0.07,0,0.00,0.00,1377226,2021,Leprosy
-ZONE:10,10,0.22,0,0.00,0.00,4587095,2021,Leprosy
-Amnat Charoen,3,0.80,0,0.00,0.00,376273,2021,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Leprosy
-Si Sa Ket,5,0.34,0,0.00,0.00,1458068,2021,Leprosy
-Ubon Ratchathani,1,0.05,0,0.00,0.00,1867608,2021,Leprosy
-Yasothon,1,0.19,0,0.00,0.00,533948,2021,Leprosy
-ZONE:11,3,0.07,0,0.00,0.00,4487259,2021,Leprosy
-Chumphon,1,0.20,0,0.00,0.00,509344,2021,Leprosy
-Krabi,0,0.00,0,0.00,0.00,478561,2021,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,268123,2021,Leprosy
-Phuket,0,0.00,0,0.00,0.00,416629,2021,Leprosy
-Ranong,1,0.51,0,0.00,0.00,194473,2021,Leprosy
-Surat Thani,1,0.09,0,0.00,0.00,1070096,2021,Leprosy
-ZONE:12,2,0.04,0,0.00,0.00,4992834,2021,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Leprosy
-Pattani,0,0.00,0,0.00,0.00,727799,2021,Leprosy
-Phatthalung,2,0.38,0,0.00,0.00,522810,2021,Leprosy
-Satun,0,0.00,0,0.00,0.00,324467,2021,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Leprosy
-Trang,0,0.00,0,0.00,0.00,640182,2021,Leprosy
-Yala,0,0.00,0,0.00,0.00,540458,2021,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Leprosy
-Total,44,0.07,0,0.00,0.00,66071545,2024,Leprosy
-ZONE:01,5,0.09,0,0.00,0.00,5857413,2024,Leprosy
-Chiang Mai,4,0.22,0,0.00,0.00,1794774,2024,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Leprosy
-Lampang,1,0.14,0,0.00,0.00,715133,2024,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,398998,2024,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Leprosy
-Nan,0,0.00,0,0.00,0.00,473630,2024,Leprosy
-Phayao,0,0.00,0,0.00,0.00,459858,2024,Leprosy
-Phrae,0,0.00,0,0.00,0.00,428499,2024,Leprosy
-ZONE:02,5,0.14,0,0.00,0.00,3522489,2024,Leprosy
-Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Leprosy
-Phitsanulok,1,0.12,0,0.00,0.00,843111,2024,Leprosy
-Sukhothai,1,0.17,0,0.00,0.00,579759,2024,Leprosy
-Tak,3,0.44,0,0.00,0.00,687927,2024,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Leprosy
-ZONE:03,2,0.07,0,0.00,0.00,2896463,2024,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Leprosy
-Nakhon Sawan,2,0.20,0,0.00,0.00,1025348,2024,Leprosy
-Phichit,0,0.00,0,0.00,0.00,523925,2024,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Leprosy
-ZONE:04,3,0.06,0,0.00,0.00,5438863,2024,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Leprosy
-Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Leprosy
-Saraburi,2,0.31,0,0.00,0.00,638704,2024,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Leprosy
-ZONE:05,0,0.00,0,0.00,0.00,5326695,2024,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Leprosy
-Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Leprosy
-ZONE:06,7,0.11,0,0.00,0.00,6292163,2024,Leprosy
-Chachoengsao,1,0.14,0,0.00,0.00,728615,2024,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Leprosy
-Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Leprosy
-Rayong,0,0.00,0,0.00,0.00,765287,2024,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Leprosy
-Samut Prakan,1,0.07,0,0.00,0.00,1366598,2024,Leprosy
-Trat,0,0.00,0,0.00,0.00,227430,2024,Leprosy
-ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Leprosy
-Kalasin,0,0.00,0,0.00,0.00,970084,2024,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Leprosy
-Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Leprosy
-ZONE:08,3,0.05,0,0.00,0.00,5500012,2024,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,421086,2024,Leprosy
-Loei,0,0.00,0,0.00,0.00,636242,2024,Leprosy
-Nakhon Phanom,1,0.14,0,0.00,0.00,715466,2024,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1143922,2024,Leprosy
-Udon Thani,1,0.06,0,0.00,0.00,1560788,2024,Leprosy
-ZONE:09,3,0.04,0,0.00,0.00,6689028,2024,Leprosy
-Buri Ram,2,0.13,0,0.00,0.00,1575073,2024,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Leprosy
-Surin,1,0.07,0,0.00,0.00,1370376,2024,Leprosy
-ZONE:10,3,0.07,0,0.00,0.00,4578831,2024,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Leprosy
-Si Sa Ket,1,0.07,0,0.00,0.00,1452532,2024,Leprosy
-Ubon Ratchathani,2,0.11,0,0.00,0.00,1869708,2024,Leprosy
-Yasothon,0,0.00,0,0.00,0.00,530239,2024,Leprosy
-ZONE:11,2,0.04,0,0.00,0.00,4489783,2024,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,509122,2024,Leprosy
-Krabi,0,0.00,0,0.00,0.00,481089,2024,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,267250,2024,Leprosy
-Phuket,1,0.24,0,0.00,0.00,420746,2024,Leprosy
-Ranong,0,0.00,0,0.00,0.00,193799,2024,Leprosy
-Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,Leprosy
-ZONE:12,11,0.22,0,0.00,0.00,5015209,2024,Leprosy
-Narathiwat,5,0.61,0,0.00,0.00,816642,2024,Leprosy
-Pattani,0,0.00,0,0.00,0.00,735017,2024,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Leprosy
-Satun,0,0.00,0,0.00,0.00,325387,2024,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Leprosy
-Trang,1,0.16,0,0.00,0.00,637612,2024,Leprosy
-Yala,5,0.91,0,0.00,0.00,547930,2024,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Leprosy
-Total,55,0.08,0,0.00,0.00,66486458,2019,Leprosy
-ZONE:01,1,0.02,0,0.00,0.00,5891985,2019,Leprosy
-Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Leprosy
-Chiang Rai,0,0.00,0,0.00,0.00,1295217,2019,Leprosy
-Lampang,0,0.00,0,0.00,0.00,740600,2019,Leprosy
-Lamphun,0,0.00,0,0.00,0.00,405515,2019,Leprosy
-Mae Hong Son,0,0.00,0,0.00,0.00,283352,2019,Leprosy
-Nan,1,0.21,0,0.00,0.00,478608,2019,Leprosy
-Phayao,0,0.00,0,0.00,0.00,473786,2019,Leprosy
-Phrae,0,0.00,0,0.00,0.00,443408,2019,Leprosy
-ZONE:02,26,0.73,0,0.00,0.00,3570128,2019,Leprosy
-Phetchabun,1,0.10,0,0.00,0.00,993496,2019,Leprosy
-Phitsanulok,22,2.54,0,0.00,0.00,866068,2019,Leprosy
-Sukhothai,0,0.00,0,0.00,0.00,596165,2019,Leprosy
-Tak,3,0.45,0,0.00,0.00,660147,2019,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,454252,2019,Leprosy
-ZONE:03,0,0.00,0,0.00,0.00,2983068,2019,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,327437,2019,Leprosy
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Leprosy
-Nakhon Sawan,0,0.00,0,0.00,0.00,1061926,2019,Leprosy
-Phichit,0,0.00,0,0.00,0.00,537843,2019,Leprosy
-Uthai Thani,0,0.00,0,0.00,0.00,329026,2019,Leprosy
-ZONE:04,0,0.00,0,0.00,0.00,5381695,2019,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Leprosy
-Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,260421,2019,Leprosy
-Nonthaburi,0,0.00,0,0.00,0.00,1255840,2019,Leprosy
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,818815,2019,Leprosy
-Pathum Thani,0,0.00,0,0.00,0.00,1154848,2019,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,645468,2019,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Leprosy
-ZONE:05,1,0.02,0,0.00,0.00,5344807,2019,Leprosy
-Kanchanaburi,0,0.00,0,0.00,0.00,894338,2019,Leprosy
-Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Leprosy
-Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551466,2019,Leprosy
-Ratchaburi,1,0.11,0,0.00,0.00,873310,2019,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,193548,2019,Leprosy
-Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Leprosy
-ZONE:06,2,0.03,0,0.00,0.00,6154601,2019,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,717561,2019,Leprosy
-Chanthaburi,0,0.00,0,0.00,0.00,537097,2019,Leprosy
-Chon Buri,0,0.00,0,0.00,0.00,1546873,2019,Leprosy
-Prachin Buri,2,0.41,0,0.00,0.00,493159,2019,Leprosy
-Rayong,0,0.00,0,0.00,0.00,729035,2019,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,565198,2019,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1335742,2019,Leprosy
-Trat,0,0.00,0,0.00,0.00,229936,2019,Leprosy
-ZONE:07,2,0.04,0,0.00,0.00,5057831,2019,Leprosy
-Kalasin,1,0.10,0,0.00,0.00,984381,2019,Leprosy
-Khon Kaen,0,0.00,0,0.00,0.00,1804384,2019,Leprosy
-Maha Sarakham,1,0.10,0,0.00,0.00,962856,2019,Leprosy
-Roi Et,0,0.00,0,0.00,0.00,1306210,2019,Leprosy
-ZONE:08,2,0.04,0,0.00,0.00,5559986,2019,Leprosy
-Bungkan,0,0.00,0,0.00,0.00,424016,2019,Leprosy
-Loei,0,0.00,0,0.00,0.00,642862,2019,Leprosy
-Nakhon Phanom,0,0.00,0,0.00,0.00,718961,2019,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,512449,2019,Leprosy
-Nong Khai,1,0.19,0,0.00,0.00,522207,2019,Leprosy
-Sakon Nakhon,0,0.00,0,0.00,0.00,1152835,2019,Leprosy
-Udon Thani,1,0.06,0,0.00,0.00,1586656,2019,Leprosy
-ZONE:09,2,0.03,0,0.00,0.00,6778372,2019,Leprosy
-Buri Ram,2,0.13,0,0.00,0.00,1595299,2019,Leprosy
-Chaiyaphum,0,0.00,0,0.00,0.00,1138067,2019,Leprosy
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2647663,2019,Leprosy
-Surin,0,0.00,0,0.00,0.00,1397343,2019,Leprosy
-ZONE:10,14,0.30,0,0.00,0.00,4618551,2019,Leprosy
-Amnat Charoen,0,0.00,0,0.00,0.00,378530,2019,Leprosy
-Mukdahan,0,0.00,0,0.00,0.00,352727,2019,Leprosy
-Si Sa Ket,9,0.61,0,0.00,0.00,1472934,2019,Leprosy
-Ubon Ratchathani,4,0.21,0,0.00,0.00,1876347,2019,Leprosy
-Yasothon,1,0.19,0,0.00,0.00,538013,2019,Leprosy
-ZONE:11,3,0.07,0,0.00,0.00,4487837,2019,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,511134,2019,Leprosy
-Krabi,0,0.00,0,0.00,0.00,475239,2019,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1561179,2019,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,268513,2019,Leprosy
-Phuket,3,0.73,0,0.00,0.00,413397,2019,Leprosy
-Ranong,0,0.00,0,0.00,0.00,192619,2019,Leprosy
-Surat Thani,0,0.00,0,0.00,0.00,1065756,2019,Leprosy
-ZONE:12,2,0.04,0,0.00,0.00,4986140,2019,Leprosy
-Narathiwat,0,0.00,0,0.00,0.00,805248,2019,Leprosy
-Pattani,2,0.28,0,0.00,0.00,721591,2019,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,524955,2019,Leprosy
-Satun,0,0.00,0,0.00,0.00,322580,2019,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1434298,2019,Leprosy
-Trang,0,0.00,0,0.00,0.00,643140,2019,Leprosy
-Yala,0,0.00,0,0.00,0.00,534328,2019,Leprosy
-ZONE:13,0,0.00,0,0.00,0.00,5671457,2019,Leprosy
-Bangkok,0,0.00,0,0.00,0.00,5671457,2019,Leprosy
+Total,47,0.07,0,0.00,0.00,65426907,2016,Leprosy
+ZONE:01,2,0.03,0,0.00,0.00,5781324,2016,Leprosy
+Chiang Mai,2,0.12,0,0.00,0.00,1703263,2016,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1242825,2016,Leprosy
+Lampang,0,0.00,0,0.00,0.00,752685,2016,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405927,2016,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Leprosy
+Nan,0,0.00,0,0.00,0.00,478890,2016,Leprosy
+Phayao,0,0.00,0,0.00,0.00,483550,2016,Leprosy
+Phrae,0,0.00,0,0.00,0.00,453213,2016,Leprosy
+ZONE:02,15,0.43,0,0.00,0.00,3498728,2016,Leprosy
+Phetchabun,1,0.10,0,0.00,0.00,996397,2016,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,861194,2016,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,602085,2016,Leprosy
+Tak,14,2.42,0,0.00,0.00,578968,2016,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,460084,2016,Leprosy
+ZONE:03,1,0.03,0,0.00,0.00,3011449,2016,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729839,2016,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072349,2016,Leprosy
+Phichit,1,0.18,0,0.00,0.00,546750,2016,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5221125,2016,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1084154,2016,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,635567,2016,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Leprosy
+ZONE:05,0,0.00,0,0.00,0.00,5209561,2016,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,895207,2016,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Leprosy
+ZONE:06,2,0.03,0,0.00,0.00,5880124,2016,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,698190,2016,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,529194,2016,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1438231,2016,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Leprosy
+Rayong,2,0.29,0,0.00,0.00,681696,2016,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,554555,2016,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Leprosy
+Trat,0,0.00,0,0.00,0.00,227083,2016,Leprosy
+ZONE:07,1,0.02,0,0.00,0.00,5049920,2016,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,985055,2016,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Leprosy
+Maha Sarakham,1,0.10,0,0.00,0.00,962592,2016,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1308241,2016,Leprosy
+ZONE:08,1,0.02,0,0.00,0.00,5511930,2016,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,419607,2016,Leprosy
+Loei,0,0.00,0,0.00,0.00,636666,2016,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,714369,2016,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1140673,2016,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Leprosy
+ZONE:09,4,0.06,0,0.00,0.00,6737604,2016,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1581955,2016,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Leprosy
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2624668,2016,Leprosy
+Surin,3,0.22,0,0.00,0.00,1393330,2016,Leprosy
+ZONE:10,19,0.41,0,0.00,0.00,4581192,2016,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Leprosy
+Si Sa Ket,19,1.30,0,0.00,0.00,1467006,2016,Leprosy
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1851049,2016,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,540197,2016,Leprosy
+ZONE:11,0,0.00,0,0.00,0.00,4383957,2016,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,503203,2016,Leprosy
+Krabi,0,0.00,0,0.00,0.00,459456,2016,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,262721,2016,Leprosy
+Phuket,0,0.00,0,0.00,0.00,382485,2016,Leprosy
+Ranong,0,0.00,0,0.00,0.00,182313,2016,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1043501,2016,Leprosy
+ZONE:12,2,0.04,0,0.00,0.00,4865646,2016,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,778941,2016,Leprosy
+Pattani,2,0.29,0,0.00,0.00,690104,2016,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Leprosy
+Satun,0,0.00,0,0.00,0.00,314297,2016,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1405939,2016,Leprosy
+Trang,0,0.00,0,0.00,0.00,639770,2016,Leprosy
+Yala,0,0.00,0,0.00,0.00,515025,2016,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5694347,2016,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5694347,2016,Leprosy
 Total,383,0.61,0,0.00,0.00,63214022,2008,Leprosy
 Central Region,60,0.28,0,0.00,0.00,21226352,2008,Leprosy
 Bangkok,10,0.18,0,0.00,0.00,5713566,2008,Leprosy
@@ -1610,106 +672,679 @@ Kamphaeng Phet,1,0.14,0,0.00,0.00,726104,2008,Leprosy
 Nakhon Sawan,2,0.19,0,0.00,0.00,1073962,2008,Leprosy
 Phichit,0,0.00,0,0.00,0.00,554426,2008,Leprosy
 Uthai Thani,0,0.00,0,0.00,0.00,327281,2008,Leprosy
-Total,391,0.62,2,0.51,0.00,62623416,2006,Leprosy
-North Region,71,0.60,0,0.00,0.00,11887142,2006,Leprosy
-Zone:1,40,0.70,0,0.00,0.00,5748673,2006,Leprosy
-Chiang Mai,13,0.79,0,0.00,0.00,1654154,2006,Leprosy
-Chiang Rai,19,1.55,0,0.00,0.00,1225386,2006,Leprosy
-Lampang,2,0.26,0,0.00,0.00,775259,2006,Leprosy
-Lamphun,1,0.25,0,0.00,0.00,405146,2006,Leprosy
-Mae Hong Son,4,1.57,0,0.00,0.00,254392,2006,Leprosy
-Nan,0,0.00,0,0.00,0.00,477871,2006,Leprosy
-Phayao,1,0.21,0,0.00,0.00,486554,2006,Leprosy
-Phrae,0,0.00,0,0.00,0.00,469911,2006,Leprosy
-Zone:2,8,0.23,0,0.00,0.00,3448091,2006,Leprosy
-Phetchabun,5,0.50,0,0.00,0.00,1002388,2006,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,842739,2006,Leprosy
-Sukhothai,2,0.33,0,0.00,0.00,609591,2006,Leprosy
-Tak,1,0.19,0,0.00,0.00,524938,2006,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,468435,2006,Leprosy
-Zone:3,23,0.85,0,0.00,0.00,2690378,2006,Leprosy
-Kamphaeng Phet,9,1.24,0,0.00,0.00,728293,2006,Leprosy
-Nakhon Sawan,11,1.02,0,0.00,0.00,1076911,2006,Leprosy
-Phichit,1,0.18,0,0.00,0.00,558314,2006,Leprosy
-Uthai Thani,2,0.61,0,0.00,0.00,326860,2006,Leprosy
-Central Region,46,0.22,0,0.00,0.00,20825142,2006,Leprosy
-Bangkok,5,0.09,0,0.00,0.00,5677455,2006,Leprosy
-Zone:4,5,0.17,0,0.00,0.00,2858658,2006,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,283861,2006,Leprosy
-Nonthaburi,3,0.30,0,0.00,0.00,985669,2006,Leprosy
-P.Nakhon S.Ayutthaya,1,0.13,0,0.00,0.00,750757,2006,Leprosy
-Pathum Thani,1,0.12,0,0.00,0.00,838371,2006,Leprosy
-Zone:5,10,0.52,0,0.00,0.00,1915186,2006,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,339568,2006,Leprosy
-Lop Buri,6,0.80,0,0.00,0.00,752364,2006,Leprosy
-Saraburi,4,0.66,0,0.00,0.00,605897,2006,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,217357,2006,Leprosy
-Zone:6,10,0.30,0,0.00,0.00,3315213,2006,Leprosy
-Kanchanaburi,2,0.24,0,0.00,0.00,830309,2006,Leprosy
-Nakhon Pathom,2,0.25,0,0.00,0.00,815433,2006,Leprosy
-Ratchaburi,1,0.12,0,0.00,0.00,826212,2006,Leprosy
-Suphan Buri,5,0.59,0,0.00,0.00,843259,2006,Leprosy
-Zone:7,4,0.25,0,0.00,0.00,1598232,2006,Leprosy
-Phetchaburi,3,0.66,0,0.00,0.00,455332,2006,Leprosy
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490607,2006,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,457264,2006,Leprosy
-Samut Songkhram,1,0.51,0,0.00,0.00,195029,2006,Leprosy
-Zone:8,1,0.03,0,0.00,0.00,2983258,2006,Leprosy
-Chachoengsao,1,0.15,0,0.00,0.00,650909,2006,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,250392,2006,Leprosy
-Prachin Buri,0,0.00,0,0.00,0.00,451721,2006,Leprosy
-Sa Kaeo,0,0.00,0,0.00,0.00,537661,2006,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1092575,2006,Leprosy
-Zone:9,11,0.44,0,0.00,0.00,2477140,2006,Leprosy
-Chanthaburi,2,0.40,0,0.00,0.00,500275,2006,Leprosy
-Chon Buri,3,0.25,0,0.00,0.00,1190861,2006,Leprosy
-Rayong,6,1.06,0,0.00,0.00,566461,2006,Leprosy
-Trat,0,0.00,0,0.00,0.00,219543,2006,Leprosy
-North-Eastern Region,202,0.95,0,0.00,0.00,21352480,2006,Leprosy
-Zone:10,16,0.45,0,0.00,0.00,3533061,2006,Leprosy
-Loei,1,0.16,0,0.00,0.00,612863,2006,Leprosy
-Nong Bua Lam Phu,2,0.40,0,0.00,0.00,496675,2006,Leprosy
-Nong Khai,5,0.56,0,0.00,0.00,897840,2006,Leprosy
-Udon Thani,8,0.52,0,0.00,0.00,1525683,2006,Leprosy
-Zone:11,11,0.35,0,0.00,0.00,3110390,2006,Leprosy
-Kalasin,7,0.72,0,0.00,0.00,974560,2006,Leprosy
-Mukdahan,1,0.30,0,0.00,0.00,334781,2006,Leprosy
-Nakhon Phanom,2,0.29,0,0.00,0.00,694473,2006,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1106576,2006,Leprosy
-Zone:12,36,0.90,0,0.00,0.00,3996666,2006,Leprosy
-Khon Kaen,24,1.37,0,0.00,0.00,1749021,2006,Leprosy
-Maha Sarakham,6,0.64,0,0.00,0.00,937285,2006,Leprosy
-Roi Et,6,0.46,0,0.00,0.00,1310360,2006,Leprosy
-Zone:13,53,0.81,0,0.00,0.00,6578271,2006,Leprosy
-Buri Ram,9,0.59,0,0.00,0.00,1534076,2006,Leprosy
-Chaiyaphum,7,0.63,0,0.00,0.00,1118040,2006,Leprosy
-Nakhon Ratchasima,21,0.82,0,0.00,0.00,2551176,2006,Leprosy
-Surin,16,1.16,0,0.00,0.00,1374979,2006,Leprosy
-Zone:14,86,2.08,0,0.00,0.00,4134092,2006,Leprosy
-Amnat Charoen,3,0.81,0,0.00,0.00,368863,2006,Leprosy
-Si Sa Ket,55,3.81,0,0.00,0.00,1445230,2006,Leprosy
-Ubon Ratchathani,24,1.35,0,0.00,0.00,1778922,2006,Leprosy
-Yasothon,4,0.74,0,0.00,0.00,541077,2006,Leprosy
-South Region,72,0.84,2,2.78,0.02,8558652,2006,Leprosy
-Zone:15,10,0.62,0,0.00,0.00,1610374,2006,Leprosy
-Chumphon,2,0.42,0,0.00,0.00,477364,2006,Leprosy
-Ranong,2,1.12,0,0.00,0.00,178986,2006,Leprosy
-Surat Thani,6,0.63,0,0.00,0.00,954024,2006,Leprosy
-Zone:16,2,0.08,0,0.00,0.00,2614100,2006,Leprosy
-Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1507440,2006,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,501912,2006,Leprosy
-Trang,0,0.00,0,0.00,0.00,604748,2006,Leprosy
-Zone:17,10,1.06,0,0.00,0.00,939424,2006,Leprosy
-Krabi,0,0.00,0,0.00,0.00,399514,2006,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,243419,2006,Leprosy
-Phuket,10,3.37,0,0.00,0.00,296491,2006,Leprosy
-Zone:18,47,2.60,2,4.26,0.11,1805088,2006,Leprosy
-Narathiwat,26,3.69,0,0.00,0.00,703848,2006,Leprosy
-Pattani,18,2.83,2,11.11,0.31,635053,2006,Leprosy
-Yala,3,0.64,0,0.00,0.00,466187,2006,Leprosy
-Zone:19,3,0.19,0,0.00,0.00,1589666,2006,Leprosy
-Satun,3,1.07,0,0.00,0.00,279705,2006,Leprosy
-Songkhla,0,0.00,0,0.00,0.00,1309961,2006,Leprosy
+Total,55,0.08,0,0.00,0.00,66372831,2020,Leprosy
+ZONE:01,7,0.12,0,0.00,0.00,5886870,2020,Leprosy
+Chiang Mai,6,0.34,0,0.00,0.00,1781812,2020,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Leprosy
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Leprosy
+Nan,1,0.21,0,0.00,0.00,477476,2020,Leprosy
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Leprosy
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Leprosy
+ZONE:02,6,0.17,0,0.00,0.00,3554902,2020,Leprosy
+Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Leprosy
+Phitsanulok,1,0.12,0,0.00,0.00,857364,2020,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Leprosy
+Tak,5,0.75,0,0.00,0.00,667942,2020,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Leprosy
+ZONE:03,1,0.03,0,0.00,0.00,2956189,2020,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Leprosy
+Kamphaeng Phet,1,0.14,0,0.00,0.00,719993,2020,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Leprosy
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Leprosy
+ZONE:05,3,0.06,0,0.00,0.00,5342038,2020,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Leprosy
+Nakhon Pathom,1,0.11,0,0.00,0.00,920380,2020,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Leprosy
+Prachuap Khiri Khan,2,0.36,0,0.00,0.00,552398,2020,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Leprosy
+ZONE:06,2,0.03,0,0.00,0.00,6192990,2020,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Leprosy
+Prachin Buri,2,0.40,0,0.00,0.00,494175,2020,Leprosy
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Leprosy
+Trat,0,0.00,0,0.00,0.00,229247,2020,Leprosy
+ZONE:07,7,0.14,0,0.00,0.00,5039088,2020,Leprosy
+Kalasin,1,0.10,0,0.00,0.00,980297,2020,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Leprosy
+Maha Sarakham,4,0.42,0,0.00,0.00,958163,2020,Leprosy
+Roi Et,2,0.15,0,0.00,0.00,1301926,2020,Leprosy
+ZONE:08,2,0.04,0,0.00,0.00,5540556,2020,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Leprosy
+Loei,0,0.00,0,0.00,0.00,640843,2020,Leprosy
+Nakhon Phanom,1,0.14,0,0.00,0.00,718169,2020,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Leprosy
+Nong Khai,1,0.19,0,0.00,0.00,519873,2020,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Leprosy
+ZONE:09,3,0.04,0,0.00,0.00,6748199,2020,Leprosy
+Buri Ram,1,0.06,0,0.00,0.00,1588466,2020,Leprosy
+Chaiyaphum,1,0.09,0,0.00,0.00,1131140,2020,Leprosy
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2641067,2020,Leprosy
+Surin,0,0.00,0,0.00,0.00,1387526,2020,Leprosy
+ZONE:10,16,0.35,0,0.00,0.00,4603401,2020,Leprosy
+Amnat Charoen,1,0.27,0,0.00,0.00,377317,2020,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Leprosy
+Si Sa Ket,12,0.82,0,0.00,0.00,1465719,2020,Leprosy
+Ubon Ratchathani,3,0.16,0,0.00,0.00,1872422,2020,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Leprosy
+ZONE:11,4,0.09,0,0.00,0.00,4489609,2020,Leprosy
+Chumphon,2,0.39,0,0.00,0.00,510256,2020,Leprosy
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Leprosy
+Phuket,2,0.48,0,0.00,0.00,415527,2020,Leprosy
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Leprosy
+ZONE:12,4,0.08,0,0.00,0.00,4991217,2020,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Leprosy
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Leprosy
+Satun,0,0.00,0,0.00,0.00,323841,2020,Leprosy
+Songkhla,1,0.07,0,0.00,0.00,1432288,2020,Leprosy
+Trang,1,0.16,0,0.00,0.00,641868,2020,Leprosy
+Yala,2,0.37,0,0.00,0.00,537466,2020,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Leprosy
+Total,66,0.10,0,0.00,0.00,66060027,2017,Leprosy
+ZONE:01,4,0.07,0,0.00,0.00,5864232,2017,Leprosy
+Chiang Mai,3,0.17,0,0.00,0.00,1741301,2017,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1285080,2017,Leprosy
+Lampang,0,0.00,0,0.00,0.00,747699,2017,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405959,2017,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,277486,2017,Leprosy
+Nan,1,0.21,0,0.00,0.00,479877,2017,Leprosy
+Phayao,0,0.00,0,0.00,0.00,478144,2017,Leprosy
+Phrae,0,0.00,0,0.00,0.00,448686,2017,Leprosy
+ZONE:02,25,0.70,0,0.00,0.00,3556376,2017,Leprosy
+Phetchabun,2,0.20,0,0.00,0.00,995277,2017,Leprosy
+Phitsanulok,13,1.50,0,0.00,0.00,865564,2017,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,599775,2017,Leprosy
+Tak,10,1.57,0,0.00,0.00,638115,2017,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,457645,2017,Leprosy
+ZONE:03,2,0.07,0,0.00,0.00,2998104,2017,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,330077,2017,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729337,2017,Leprosy
+Nakhon Sawan,1,0.09,0,0.00,0.00,1065895,2017,Leprosy
+Phichit,1,0.18,0,0.00,0.00,542674,2017,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,330121,2017,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5302492,2017,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,757296,2017,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1220829,2017,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,812086,2017,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1120246,2017,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,641052,2017,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Leprosy
+ZONE:05,5,0.09,0,0.00,0.00,5295696,2017,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,886546,2017,Leprosy
+Nakhon Pathom,4,0.44,0,0.00,0.00,908249,2017,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,481514,2017,Leprosy
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,541756,2017,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,562592,2017,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,193985,2017,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,850285,2017,Leprosy
+ZONE:06,7,0.12,0,0.00,0.00,6020790,2017,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,707145,2017,Leprosy
+Chanthaburi,1,0.19,0,0.00,0.00,533463,2017,Leprosy
+Chon Buri,5,0.33,0,0.00,0.00,1496086,2017,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,486187,2017,Leprosy
+Rayong,1,0.14,0,0.00,0.00,705729,2017,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,560478,2017,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1302160,2017,Leprosy
+Trat,0,0.00,0,0.00,0.00,229542,2017,Leprosy
+ZONE:07,3,0.06,0,0.00,0.00,5060674,2017,Leprosy
+Kalasin,1,0.10,0,0.00,0.00,985619,2017,Leprosy
+Khon Kaen,1,0.06,0,0.00,0.00,1803831,2017,Leprosy
+Maha Sarakham,1,0.10,0,0.00,0.00,963277,2017,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1307947,2017,Leprosy
+ZONE:08,0,0.00,0,0.00,0.00,5541473,2017,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,422328,2017,Leprosy
+Loei,0,0.00,0,0.00,0.00,640734,2017,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,717451,2017,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511188,2017,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,521125,2017,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1147710,2017,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1580937,2017,Leprosy
+ZONE:09,0,0.00,0,0.00,0.00,6760383,2017,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1589900,2017,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1138778,2017,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2635331,2017,Leprosy
+Surin,0,0.00,0,0.00,0.00,1396374,2017,Leprosy
+ZONE:10,18,0.39,0,0.00,0.00,4604905,2017,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,377614,2017,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,350128,2017,Leprosy
+Si Sa Ket,15,1.02,0,0.00,0.00,1471185,2017,Leprosy
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1866299,2017,Leprosy
+Yasothon,1,0.19,0,0.00,0.00,539679,2017,Leprosy
+ZONE:11,0,0.00,0,0.00,0.00,4441086,2017,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,508627,2017,Leprosy
+Krabi,0,0.00,0,0.00,0.00,467851,2017,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1555957,2017,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,266535,2017,Leprosy
+Phuket,0,0.00,0,0.00,0.00,398092,2017,Leprosy
+Ranong,0,0.00,0,0.00,0.00,189777,2017,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1054247,2017,Leprosy
+ZONE:12,2,0.04,0,0.00,0.00,4929285,2017,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,792961,2017,Leprosy
+Pattani,0,0.00,0,0.00,0.00,705379,2017,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,524291,2017,Leprosy
+Satun,0,0.00,0,0.00,0.00,318655,2017,Leprosy
+Songkhla,1,0.07,0,0.00,0.00,1420834,2017,Leprosy
+Trang,1,0.16,0,0.00,0.00,642377,2017,Leprosy
+Yala,0,0.00,0,0.00,0.00,524788,2017,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5684531,2017,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5684531,2017,Leprosy
+Total,341,0.54,0,0.00,0.00,62933515,2007,Leprosy
+North Region,69,0.58,0,0.00,0.00,11881352,2007,Leprosy
+Zone:1,31,0.54,0,0.00,0.00,5750312,2007,Leprosy
+Chiang Mai,3,0.18,0,0.00,0.00,1661349,2007,Leprosy
+Chiang Rai,13,1.06,0,0.00,0.00,1225364,2007,Leprosy
+Lampang,2,0.26,0,0.00,0.00,772202,2007,Leprosy
+Lamphun,2,0.49,0,0.00,0.00,405361,2007,Leprosy
+Mae Hong Son,10,3.92,0,0.00,0.00,254990,2007,Leprosy
+Nan,1,0.21,0,0.00,0.00,477522,2007,Leprosy
+Phayao,0,0.00,0,0.00,0.00,486399,2007,Leprosy
+Phrae,0,0.00,0,0.00,0.00,467125,2007,Leprosy
+Zone:2,27,0.78,0,0.00,0.00,3445764,2007,Leprosy
+Phetchabun,10,1.00,0,0.00,0.00,999924,2007,Leprosy
+Phitsanulok,3,0.36,0,0.00,0.00,843096,2007,Leprosy
+Sukhothai,12,1.98,0,0.00,0.00,607061,2007,Leprosy
+Tak,2,0.38,0,0.00,0.00,529303,2007,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,466380,2007,Leprosy
+Zone:3,11,0.41,0,0.00,0.00,2685276,2007,Leprosy
+Kamphaeng Phet,3,0.41,0,0.00,0.00,727158,2007,Leprosy
+Nakhon Sawan,6,0.56,0,0.00,0.00,1074849,2007,Leprosy
+Phichit,0,0.00,0,0.00,0.00,556287,2007,Leprosy
+Uthai Thani,2,0.61,0,0.00,0.00,326982,2007,Leprosy
+Central Region,65,0.31,0,0.00,0.00,21043273,2007,Leprosy
+Bangkok,4,0.07,0,0.00,0.00,5706103,2007,Leprosy
+Zone:4,4,0.14,0,0.00,0.00,2932544,2007,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,284175,2007,Leprosy
+Nonthaburi,1,0.10,0,0.00,0.00,1011624,2007,Leprosy
+P.Nakhon S.Ayutthaya,2,0.26,0,0.00,0.00,757654,2007,Leprosy
+Pathum Thani,1,0.11,0,0.00,0.00,879091,2007,Leprosy
+Zone:5,1,0.05,0,0.00,0.00,1918492,2007,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,338077,2007,Leprosy
+Lop Buri,1,0.13,0,0.00,0.00,751298,2007,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,612806,2007,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,216311,2007,Leprosy
+Zone:6,24,0.72,0,0.00,0.00,3334732,2007,Leprosy
+Kanchanaburi,2,0.24,0,0.00,0.00,834865,2007,Leprosy
+Nakhon Pathom,11,1.33,0,0.00,0.00,826438,2007,Leprosy
+Ratchaburi,5,0.60,0,0.00,0.00,830184,2007,Leprosy
+Suphan Buri,6,0.71,0,0.00,0.00,843245,2007,Leprosy
+Zone:7,8,0.50,0,0.00,0.00,1611697,2007,Leprosy
+Phetchaburi,5,1.10,0,0.00,0.00,456371,2007,Leprosy
+Prachuap Khiri Khan,2,0.40,0,0.00,0.00,494502,2007,Leprosy
+Samut Sakhon,1,0.21,0,0.00,0.00,466222,2007,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Leprosy
+Zone:8,14,0.46,0,0.00,0.00,3016265,2007,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,656586,2007,Leprosy
+Nakhon Nayok,2,0.80,0,0.00,0.00,249250,2007,Leprosy
+Prachin Buri,10,2.20,0,0.00,0.00,454404,2007,Leprosy
+Sa Kaeo,1,0.19,0,0.00,0.00,538741,2007,Leprosy
+Samut Prakan,1,0.09,0,0.00,0.00,1117284,2007,Leprosy
+Zone:9,10,0.40,0,0.00,0.00,2523440,2007,Leprosy
+Chanthaburi,8,1.59,0,0.00,0.00,503197,2007,Leprosy
+Chon Buri,1,0.08,0,0.00,0.00,1221369,2007,Leprosy
+Rayong,1,0.17,0,0.00,0.00,578628,2007,Leprosy
+Trat,0,0.00,0,0.00,0.00,220246,2007,Leprosy
+North-Eastern Region,159,0.74,0,0.00,0.00,21381249,2007,Leprosy
+Zone:10,18,0.51,0,0.00,0.00,3541793,2007,Leprosy
+Loei,0,0.00,0,0.00,0.00,614421,2007,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497148,2007,Leprosy
+Nong Khai,12,1.33,0,0.00,0.00,901100,2007,Leprosy
+Udon Thani,6,0.39,0,0.00,0.00,1529124,2007,Leprosy
+Zone:11,10,0.32,0,0.00,0.00,3119599,2007,Leprosy
+Kalasin,6,0.61,0,0.00,0.00,976536,2007,Leprosy
+Mukdahan,2,0.60,0,0.00,0.00,335778,2007,Leprosy
+Nakhon Phanom,1,0.14,0,0.00,0.00,696229,2007,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1111056,2007,Leprosy
+Zone:12,35,0.88,0,0.00,0.00,3997622,2007,Leprosy
+Khon Kaen,24,1.37,0,0.00,0.00,1751458,2007,Leprosy
+Maha Sarakham,4,0.43,0,0.00,0.00,936846,2007,Leprosy
+Roi Et,7,0.53,0,0.00,0.00,1309318,2007,Leprosy
+Zone:13,35,0.53,0,0.00,0.00,6583974,2007,Leprosy
+Buri Ram,13,0.85,0,0.00,0.00,1536396,2007,Leprosy
+Chaiyaphum,3,0.27,0,0.00,0.00,1119372,2007,Leprosy
+Nakhon Ratchasima,15,0.59,0,0.00,0.00,2554241,2007,Leprosy
+Surin,4,0.29,0,0.00,0.00,1373965,2007,Leprosy
+Zone:14,61,1.47,0,0.00,0.00,4138261,2007,Leprosy
+Amnat Charoen,1,0.27,0,0.00,0.00,368925,2007,Leprosy
+Si Sa Ket,46,3.18,0,0.00,0.00,1444748,2007,Leprosy
+Ubon Ratchathani,10,0.56,0,0.00,0.00,1784372,2007,Leprosy
+Yasothon,4,0.74,0,0.00,0.00,540216,2007,Leprosy
+South Region,48,0.56,0,0.00,0.00,8627641,2007,Leprosy
+Zone:15,7,0.43,0,0.00,0.00,1626011,2007,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,480131,2007,Leprosy
+Ranong,0,0.00,0,0.00,0.00,180319,2007,Leprosy
+Surat Thani,7,0.72,0,0.00,0.00,965561,2007,Leprosy
+Zone:16,1,0.04,0,0.00,0.00,2620564,2007,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1508729,2007,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,502943,2007,Leprosy
+Trang,1,0.16,0,0.00,0.00,608892,2007,Leprosy
+Zone:17,6,0.62,0,0.00,0.00,961258,2007,Leprosy
+Krabi,1,0.25,0,0.00,0.00,406999,2007,Leprosy
+Phangnga,1,0.41,0,0.00,0.00,246141,2007,Leprosy
+Phuket,4,1.30,0,0.00,0.00,308118,2007,Leprosy
+Zone:18,25,1.38,0,0.00,0.00,1815585,2007,Leprosy
+Narathiwat,11,1.55,0,0.00,0.00,709345,2007,Leprosy
+Pattani,12,1.88,0,0.00,0.00,636768,2007,Leprosy
+Yala,2,0.43,0,0.00,0.00,469472,2007,Leprosy
+Zone:19,9,0.56,0,0.00,0.00,1604223,2007,Leprosy
+Satun,6,2.12,0,0.00,0.00,283014,2007,Leprosy
+Songkhla,3,0.23,0,0.00,0.00,1321209,2007,Leprosy
+Total,429,0.69,0,0.00,0.00,62195878,2005,Leprosy
+North Region,69,0.58,0,0.00,0.00,11862916,2005,Leprosy
+Zone:1,38,0.66,0,0.00,0.00,5729312,2005,Leprosy
+Chiang Mai,10,0.61,0,0.00,0.00,1640390,2005,Leprosy
+Chiang Rai,8,0.66,0,0.00,0.00,1219732,2005,Leprosy
+Lampang,4,0.51,0,0.00,0.00,777827,2005,Leprosy
+Lamphun,3,0.74,0,0.00,0.00,404754,2005,Leprosy
+Mae Hong Son,13,5.23,0,0.00,0.00,248672,2005,Leprosy
+Nan,0,0.00,0,0.00,0.00,477917,2005,Leprosy
+Phayao,0,0.00,0,0.00,0.00,487616,2005,Leprosy
+Phrae,0,0.00,0,0.00,0.00,472404,2005,Leprosy
+Zone:2,20,0.58,0,0.00,0.00,3442642,2005,Leprosy
+Phetchabun,3,0.30,0,0.00,0.00,1001820,2005,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,841248,2005,Leprosy
+Sukhothai,9,1.47,0,0.00,0.00,610871,2005,Leprosy
+Tak,6,1.16,0,0.00,0.00,519037,2005,Leprosy
+Uttaradit,2,0.43,0,0.00,0.00,469666,2005,Leprosy
+Zone:3,11,0.41,0,0.00,0.00,2690962,2005,Leprosy
+Kamphaeng Phet,8,1.10,0,0.00,0.00,727351,2005,Leprosy
+Nakhon Sawan,1,0.09,0,0.00,0.00,1077634,2005,Leprosy
+Phichit,0,0.00,0,0.00,0.00,559611,2005,Leprosy
+Uthai Thani,2,0.61,0,0.00,0.00,326366,2005,Leprosy
+Central Region,93,0.45,0,0.00,0.00,20560399,2005,Leprosy
+Bangkok,16,0.28,0,0.00,0.00,5646543,2005,Leprosy
+Zone:4,5,0.18,0,0.00,0.00,2777019,2005,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,283373,2005,Leprosy
+Nonthaburi,1,0.10,0,0.00,0.00,957287,2005,Leprosy
+P.Nakhon S.Ayutthaya,2,0.27,0,0.00,0.00,743659,2005,Leprosy
+Pathum Thani,2,0.25,0,0.00,0.00,792700,2005,Leprosy
+Zone:5,14,0.73,0,0.00,0.00,1909368,2005,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,340812,2005,Leprosy
+Lop Buri,7,0.93,0,0.00,0.00,750718,2005,Leprosy
+Saraburi,7,1.17,0,0.00,0.00,598905,2005,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,218933,2005,Leprosy
+Zone:6,18,0.55,0,0.00,0.00,3282327,2005,Leprosy
+Kanchanaburi,1,0.12,0,0.00,0.00,818218,2005,Leprosy
+Nakhon Pathom,3,0.37,0,0.00,0.00,803489,2005,Leprosy
+Ratchaburi,2,0.24,0,0.00,0.00,819286,2005,Leprosy
+Suphan Buri,12,1.43,0,0.00,0.00,841334,2005,Leprosy
+Zone:7,10,0.63,0,0.00,0.00,1578246,2005,Leprosy
+Phetchaburi,7,1.55,0,0.00,0.00,452506,2005,Leprosy
+Prachuap Khiri Khan,2,0.41,0,0.00,0.00,483243,2005,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,447353,2005,Leprosy
+Samut Songkhram,1,0.51,0,0.00,0.00,195144,2005,Leprosy
+Zone:8,11,0.37,0,0.00,0.00,2943051,2005,Leprosy
+Chachoengsao,1,0.15,0,0.00,0.00,645521,2005,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,249686,2005,Leprosy
+Prachin Buri,3,0.67,0,0.00,0.00,447783,2005,Leprosy
+Sa Kaeo,7,1.30,0,0.00,0.00,536591,2005,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1063470,2005,Leprosy
+Zone:9,19,0.78,0,0.00,0.00,2423845,2005,Leprosy
+Chanthaburi,12,2.42,0,0.00,0.00,496081,2005,Leprosy
+Chon Buri,3,0.26,0,0.00,0.00,1157709,2005,Leprosy
+Rayong,2,0.36,0,0.00,0.00,551512,2005,Leprosy
+Trat,2,0.92,0,0.00,0.00,218543,2005,Leprosy
+North-Eastern Region,209,0.98,0,0.00,0.00,21297778,2005,Leprosy
+Zone:10,22,0.62,0,0.00,0.00,3524138,2005,Leprosy
+Loei,0,0.00,0,0.00,0.00,611448,2005,Leprosy
+Nong Bua Lam Phu,3,0.61,0,0.00,0.00,495626,2005,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,895911,2005,Leprosy
+Udon Thani,19,1.25,0,0.00,0.00,1521153,2005,Leprosy
+Zone:11,13,0.42,0,0.00,0.00,3101003,2005,Leprosy
+Kalasin,6,0.62,0,0.00,0.00,972425,2005,Leprosy
+Mukdahan,2,0.60,0,0.00,0.00,333338,2005,Leprosy
+Nakhon Phanom,3,0.43,0,0.00,0.00,692377,2005,Leprosy
+Sakon Nakhon,2,0.18,0,0.00,0.00,1102863,2005,Leprosy
+Zone:12,32,0.80,0,0.00,0.00,3991075,2005,Leprosy
+Khon Kaen,15,0.86,0,0.00,0.00,1744646,2005,Leprosy
+Maha Sarakham,9,0.96,0,0.00,0.00,935967,2005,Leprosy
+Roi Et,8,0.61,0,0.00,0.00,1310462,2005,Leprosy
+Zone:13,59,0.90,0,0.00,0.00,6560991,2005,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1527846,2005,Leprosy
+Chaiyaphum,10,0.90,0,0.00,0.00,1117026,2005,Leprosy
+Nakhon Ratchasima,23,0.90,0,0.00,0.00,2543054,2005,Leprosy
+Surin,26,1.89,0,0.00,0.00,1373065,2005,Leprosy
+Zone:14,83,2.01,0,0.00,0.00,4120571,2005,Leprosy
+Amnat Charoen,4,1.09,0,0.00,0.00,368153,2005,Leprosy
+Si Sa Ket,56,3.88,0,0.00,0.00,1442190,2005,Leprosy
+Ubon Ratchathani,22,1.24,0,0.00,0.00,1768935,2005,Leprosy
+Yasothon,1,0.18,0,0.00,0.00,541293,2005,Leprosy
+South Region,58,0.68,0,0.00,0.00,8474785,2005,Leprosy
+Zone:15,8,0.50,0,0.00,0.00,1593965,2005,Leprosy
+Chumphon,1,0.21,0,0.00,0.00,473916,2005,Leprosy
+Ranong,0,0.00,0,0.00,0.00,177247,2005,Leprosy
+Surat Thani,7,0.74,0,0.00,0.00,942802,2005,Leprosy
+Zone:16,1,0.04,0,0.00,0.00,2600847,2005,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1502382,2005,Leprosy
+Phatthalung,1,0.20,0,0.00,0.00,499399,2005,Leprosy
+Trang,0,0.00,0,0.00,0.00,599066,2005,Leprosy
+Zone:17,2,0.22,0,0.00,0.00,921037,2005,Leprosy
+Krabi,1,0.26,0,0.00,0.00,391709,2005,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,240254,2005,Leprosy
+Phuket,1,0.35,0,0.00,0.00,289074,2005,Leprosy
+Zone:18,39,2.18,0,0.00,0.00,1791264,2005,Leprosy
+Narathiwat,18,2.58,0,0.00,0.00,697150,2005,Leprosy
+Pattani,17,2.69,0,0.00,0.00,632119,2005,Leprosy
+Yala,4,0.87,0,0.00,0.00,461995,2005,Leprosy
+Zone:19,8,0.51,0,0.00,0.00,1567672,2005,Leprosy
+Satun,7,2.54,0,0.00,0.00,275706,2005,Leprosy
+Songkhla,1,0.08,0,0.00,0.00,1291966,2005,Leprosy
+Total,376,0.59,0,0.00,0.00,63701703,2010,Leprosy
+Central Region,47,0.22,0,0.00,0.00,21534318,2010,Leprosy
+Zone:0,4,0.07,0,0.00,0.00,5701995,2010,Leprosy
+Bangkok,4,0.07,0,0.00,0.00,5701995,2010,Leprosy
+Zone:1,6,0.17,0,0.00,0.00,3454591,2010,Leprosy
+Nonthaburi,1,0.09,0,0.00,0.00,1089908,2010,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,778627,2010,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,971010,2010,Leprosy
+Saraburi,5,0.81,0,0.00,0.00,615046,2010,Leprosy
+Zone:2,5,0.31,0,0.00,0.00,1590200,2010,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,284889,2010,Leprosy
+Chai Nat,1,0.30,0,0.00,0.00,335177,2010,Leprosy
+Lop Buri,4,0.53,0,0.00,0.00,755153,2010,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,214981,2010,Leprosy
+Zone:3,13,0.42,0,0.00,0.00,3105799,2010,Leprosy
+Chachoengsao,2,0.30,0,0.00,0.00,671458,2010,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,252209,2010,Leprosy
+Prachin Buri,8,1.72,0,0.00,0.00,464213,2010,Leprosy
+Sa Kaeo,3,0.55,0,0.00,0.00,543276,2010,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1174643,2010,Leprosy
+Zone:4,8,0.24,0,0.00,0.00,3374810,2010,Leprosy
+Kanchanaburi,3,0.36,0,0.00,0.00,836600,2010,Leprosy
+Nakhon Pathom,2,0.23,0,0.00,0.00,855837,2010,Leprosy
+Ratchaburi,3,0.36,0,0.00,0.00,837153,2010,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,845220,2010,Leprosy
+Zone:5,5,0.30,0,0.00,0.00,1651335,2010,Leprosy
+Phetchaburi,4,0.86,0,0.00,0.00,462636,2010,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,506599,2010,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,488247,2010,Leprosy
+Samut Songkhram,1,0.52,0,0.00,0.00,193853,2010,Leprosy
+Zone:9,6,0.23,0,0.00,0.00,2655588,2010,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,512932,2010,Leprosy
+Chon Buri,1,0.08,0,0.00,0.00,1302942,2010,Leprosy
+Rayong,3,0.48,0,0.00,0.00,619249,2010,Leprosy
+Trat,2,0.91,0,0.00,0.00,220465,2010,Leprosy
+South Region,97,1.10,0,0.00,0.00,8853473,2010,Leprosy
+Zone:6,28,0.80,0,0.00,0.00,3514344,2010,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,488855,2010,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1519531,2010,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,508656,2010,Leprosy
+Surat Thani,28,2.81,0,0.00,0.00,997302,2010,Leprosy
+Zone:7,3,0.16,0,0.00,0.00,1825591,2010,Leprosy
+Krabi,1,0.23,0,0.00,0.00,429631,2010,Leprosy
+Phangnga,1,0.40,0,0.00,0.00,252385,2010,Leprosy
+Phuket,1,0.29,0,0.00,0.00,340490,2010,Leprosy
+Ranong,0,0.00,0,0.00,0.00,182417,2010,Leprosy
+Trang,0,0.00,0,0.00,0.00,620668,2010,Leprosy
+Zone:8,66,1.88,0,0.00,0.00,3513538,2010,Leprosy
+Narathiwat,40,5.46,0,0.00,0.00,732617,2010,Leprosy
+Pattani,21,3.22,0,0.00,0.00,651442,2010,Leprosy
+Satun,2,0.68,0,0.00,0.00,295133,2010,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1350489,2010,Leprosy
+Yala,3,0.62,0,0.00,0.00,483857,2010,Leprosy
+North-Eastern Region,157,0.73,0,0.00,0.00,21534582,2010,Leprosy
+Zone:10,16,0.45,0,0.00,0.00,3576272,2010,Leprosy
+Loei,1,0.16,0,0.00,0.00,622424,2010,Leprosy
+Nong Bua Lam Phu,2,0.40,0,0.00,0.00,501891,2010,Leprosy
+Nong Khai,5,0.55,0,0.00,0.00,910094,2010,Leprosy
+Udon Thani,8,0.52,0,0.00,0.00,1541863,2010,Leprosy
+Zone:11,3,0.14,0,0.00,0.00,2161531,2010,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,338812,2010,Leprosy
+Nakhon Phanom,3,0.43,0,0.00,0.00,702041,2010,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1120678,2010,Leprosy
+Zone:12,18,0.36,0,0.00,0.00,4995226,2010,Leprosy
+Kalasin,6,0.61,0,0.00,0.00,981369,2010,Leprosy
+Khon Kaen,9,0.51,0,0.00,0.00,1764922,2010,Leprosy
+Maha Sarakham,1,0.11,0,0.00,0.00,940001,2010,Leprosy
+Roi Et,2,0.15,0,0.00,0.00,1308934,2010,Leprosy
+Zone:13,48,1.15,0,0.00,0.00,4168498,2010,Leprosy
+Amnat Charoen,2,0.54,0,0.00,0.00,371471,2010,Leprosy
+Si Sa Ket,38,2.62,0,0.00,0.00,1449409,2010,Leprosy
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1808422,2010,Leprosy
+Yasothon,6,1.11,0,0.00,0.00,539196,2010,Leprosy
+Zone:14,72,1.09,0,0.00,0.00,6633055,2010,Leprosy
+Buri Ram,44,2.84,0,0.00,0.00,1550275,2010,Leprosy
+Chaiyaphum,9,0.80,0,0.00,0.00,1126295,2010,Leprosy
+Nakhon Ratchasima,8,0.31,0,0.00,0.00,2576691,2010,Leprosy
+Surin,11,0.80,0,0.00,0.00,1379794,2010,Leprosy
+North Region,75,0.64,0,0.00,0.00,11779330,2010,Leprosy
+Zone:15,19,0.62,0,0.00,0.00,3046660,2010,Leprosy
+Chiang Mai,8,0.49,0,0.00,0.00,1636514,2010,Leprosy
+Lampang,0,0.00,0,0.00,0.00,763224,2010,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,404627,2010,Leprosy
+Mae Hong Son,11,4.54,0,0.00,0.00,242295,2010,Leprosy
+Zone:16,21,0.80,0,0.00,0.00,2620701,2010,Leprosy
+Chiang Rai,20,1.67,0,0.00,0.00,1196576,2010,Leprosy
+Nan,0,0.00,0,0.00,0.00,475989,2010,Leprosy
+Phayao,1,0.21,0,0.00,0.00,486713,2010,Leprosy
+Phrae,0,0.00,0,0.00,0.00,461423,2010,Leprosy
+Zone:17,27,0.79,0,0.00,0.00,3430959,2010,Leprosy
+Phetchabun,3,0.30,0,0.00,0.00,995578,2010,Leprosy
+Phitsanulok,2,0.24,0,0.00,0.00,847627,2010,Leprosy
+Sukhothai,8,1.33,0,0.00,0.00,602296,2010,Leprosy
+Tak,12,2.30,0,0.00,0.00,522673,2010,Leprosy
+Uttaradit,2,0.43,0,0.00,0.00,462785,2010,Leprosy
+Zone:18,8,0.30,0,0.00,0.00,2681010,2010,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Leprosy
+Nakhon Sawan,4,0.37,0,0.00,0.00,1073182,2010,Leprosy
+Phichit,3,0.54,0,0.00,0.00,552942,2010,Leprosy
+Uthai Thani,1,0.30,0,0.00,0.00,327916,2010,Leprosy
+Total,545,0.87,0,0.00,0.00,62526710,2004,Leprosy
+North Region,82,0.69,0,0.00,0.00,11965439,2004,Leprosy
+Zone:1,56,0.98,0,0.00,0.00,5720315,2004,Leprosy
+Chiang Mai,27,1.67,0,0.00,0.00,1616995,2004,Leprosy
+Chiang Rai,11,0.91,0,0.00,0.00,1214659,2004,Leprosy
+Lampang,7,0.89,0,0.00,0.00,788071,2004,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,406911,2004,Leprosy
+Mae Hong Son,10,4.15,0,0.00,0.00,240988,2004,Leprosy
+Nan,0,0.00,0,0.00,0.00,479968,2004,Leprosy
+Phayao,1,0.20,0,0.00,0.00,494926,2004,Leprosy
+Phrae,0,0.00,0,0.00,0.00,477797,2004,Leprosy
+Zone:2,19,0.55,0,0.00,0.00,3480797,2004,Leprosy
+Phetchabun,8,0.78,0,0.00,0.00,1026733,2004,Leprosy
+Phitsanulok,3,0.35,0,0.00,0.00,854440,2004,Leprosy
+Sukhothai,1,0.16,0,0.00,0.00,616536,2004,Leprosy
+Tak,7,1.38,0,0.00,0.00,507296,2004,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,475792,2004,Leprosy
+Zone:3,7,0.25,0,0.00,0.00,2764327,2004,Leprosy
+Kamphaeng Phet,6,0.80,0,0.00,0.00,750331,2004,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1102099,2004,Leprosy
+Phichit,1,0.17,0,0.00,0.00,579155,2004,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,332742,2004,Leprosy
+Central Region,103,0.50,0,0.00,0.00,20631429,2004,Leprosy
+Bangkok,18,0.31,0,0.00,0.00,5739370,2004,Leprosy
+Zone:4,4,0.15,0,0.00,0.00,2721016,2004,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,286896,2004,Leprosy
+Nonthaburi,1,0.11,0,0.00,0.00,933591,2004,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,745828,2004,Leprosy
+Pathum Thani,3,0.40,0,0.00,0.00,754701,2004,Leprosy
+Zone:5,19,0.98,0,0.00,0.00,1936502,2004,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,345355,2004,Leprosy
+Lop Buri,16,2.11,0,0.00,0.00,759000,2004,Leprosy
+Saraburi,3,0.49,0,0.00,0.00,610722,2004,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,221425,2004,Leprosy
+Zone:6,9,0.27,0,0.00,0.00,3287786,2004,Leprosy
+Kanchanaburi,1,0.12,0,0.00,0.00,803802,2004,Leprosy
+Nakhon Pathom,2,0.25,0,0.00,0.00,805210,2004,Leprosy
+Ratchaburi,3,0.36,0,0.00,0.00,824406,2004,Leprosy
+Suphan Buri,3,0.35,0,0.00,0.00,854368,2004,Leprosy
+Zone:7,4,0.25,0,0.00,0.00,1587519,2004,Leprosy
+Phetchaburi,3,0.66,0,0.00,0.00,456384,2004,Leprosy
+Prachuap Khiri Khan,1,0.21,0,0.00,0.00,486084,2004,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,445443,2004,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,199608,2004,Leprosy
+Zone:8,17,0.58,0,0.00,0.00,2934598,2004,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,647967,2004,Leprosy
+Nakhon Nayok,3,1.20,0,0.00,0.00,250235,2004,Leprosy
+Prachin Buri,7,1.56,0,0.00,0.00,449940,2004,Leprosy
+Sa Kaeo,7,1.30,0,0.00,0.00,538823,2004,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Leprosy
+Zone:9,32,1.32,0,0.00,0.00,2424638,2004,Leprosy
+Chanthaburi,18,3.58,0,0.00,0.00,502794,2004,Leprosy
+Chon Buri,4,0.35,0,0.00,0.00,1150048,2004,Leprosy
+Rayong,9,1.64,0,0.00,0.00,550310,2004,Leprosy
+Trat,1,0.45,0,0.00,0.00,221486,2004,Leprosy
+North-Eastern Region,302,1.41,0,0.00,0.00,21463567,2004,Leprosy
+Zone:10,30,0.85,0,0.00,0.00,3549364,2004,Leprosy
+Loei,0,0.00,0,0.00,0.00,617280,2004,Leprosy
+Nong Bua Lam Phu,17,3.42,0,0.00,0.00,497298,2004,Leprosy
+Nong Khai,3,0.33,0,0.00,0.00,904499,2004,Leprosy
+Udon Thani,10,0.65,0,0.00,0.00,1530287,2004,Leprosy
+Zone:11,22,0.70,0,0.00,0.00,3127236,2004,Leprosy
+Kalasin,4,0.41,0,0.00,0.00,982947,2004,Leprosy
+Mukdahan,2,0.60,0,0.00,0.00,335819,2004,Leprosy
+Nakhon Phanom,3,0.43,0,0.00,0.00,700800,2004,Leprosy
+Sakon Nakhon,13,1.17,0,0.00,0.00,1107670,2004,Leprosy
+Zone:12,34,0.85,0,0.00,0.00,4012215,2004,Leprosy
+Khon Kaen,16,0.91,0,0.00,0.00,1756177,2004,Leprosy
+Maha Sarakham,10,1.06,0,0.00,0.00,939718,2004,Leprosy
+Roi Et,8,0.61,0,0.00,0.00,1316320,2004,Leprosy
+Zone:13,120,1.81,0,0.00,0.00,6621384,2004,Leprosy
+Buri Ram,45,2.92,0,0.00,0.00,1539135,2004,Leprosy
+Chaiyaphum,19,1.68,0,0.00,0.00,1128031,2004,Leprosy
+Nakhon Ratchasima,33,1.29,0,0.00,0.00,2565197,2004,Leprosy
+Surin,23,1.66,0,0.00,0.00,1389021,2004,Leprosy
+Zone:14,96,2.31,0,0.00,0.00,4153368,2004,Leprosy
+Amnat Charoen,7,1.90,0,0.00,0.00,369071,2004,Leprosy
+Si Sa Ket,60,4.13,0,0.00,0.00,1452971,2004,Leprosy
+Ubon Ratchathani,18,1.01,0,0.00,0.00,1784192,2004,Leprosy
+Yasothon,11,2.01,0,0.00,0.00,547134,2004,Leprosy
+South Region,58,0.69,0,0.00,0.00,8466275,2004,Leprosy
+Zone:15,5,0.32,0,0.00,0.00,1581379,2004,Leprosy
+Chumphon,2,0.42,0,0.00,0.00,474592,2004,Leprosy
+Ranong,0,0.00,0,0.00,0.00,169904,2004,Leprosy
+Surat Thani,3,0.32,0,0.00,0.00,936883,2004,Leprosy
+Zone:16,4,0.15,0,0.00,0.00,2619221,2004,Leprosy
+Nakhon Si Thammarat,1,0.07,0,0.00,0.00,1515708,2004,Leprosy
+Phatthalung,1,0.20,0,0.00,0.00,501447,2004,Leprosy
+Trang,2,0.33,0,0.00,0.00,602066,2004,Leprosy
+Zone:17,3,0.33,0,0.00,0.00,908170,2004,Leprosy
+Krabi,1,0.26,0,0.00,0.00,386084,2004,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,239895,2004,Leprosy
+Phuket,2,0.71,0,0.00,0.00,282191,2004,Leprosy
+Zone:18,38,2.12,0,0.00,0.00,1795905,2004,Leprosy
+Narathiwat,11,1.57,0,0.00,0.00,701008,2004,Leprosy
+Pattani,24,3.80,0,0.00,0.00,632240,2004,Leprosy
+Yala,3,0.65,0,0.00,0.00,462657,2004,Leprosy
+Zone:19,8,0.51,0,0.00,0.00,1561600,2004,Leprosy
+Satun,2,0.73,0,0.00,0.00,273624,2004,Leprosy
+Songkhla,6,0.47,0,0.00,0.00,1287976,2004,Leprosy
+Total,44,0.07,0,0.00,0.00,66071545,2024,Leprosy
+ZONE:01,5,0.09,0,0.00,0.00,5857413,2024,Leprosy
+Chiang Mai,4,0.22,0,0.00,0.00,1794774,2024,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Leprosy
+Lampang,1,0.14,0,0.00,0.00,715133,2024,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,398998,2024,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Leprosy
+Nan,0,0.00,0,0.00,0.00,473630,2024,Leprosy
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Leprosy
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Leprosy
+ZONE:02,5,0.14,0,0.00,0.00,3522489,2024,Leprosy
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Leprosy
+Phitsanulok,1,0.12,0,0.00,0.00,843111,2024,Leprosy
+Sukhothai,1,0.17,0,0.00,0.00,579759,2024,Leprosy
+Tak,3,0.44,0,0.00,0.00,687927,2024,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Leprosy
+ZONE:03,2,0.07,0,0.00,0.00,2896463,2024,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Leprosy
+Nakhon Sawan,2,0.20,0,0.00,0.00,1025348,2024,Leprosy
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Leprosy
+ZONE:04,3,0.06,0,0.00,0.00,5438863,2024,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Leprosy
+Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Leprosy
+Saraburi,2,0.31,0,0.00,0.00,638704,2024,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Leprosy
+ZONE:05,0,0.00,0,0.00,0.00,5326695,2024,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Leprosy
+ZONE:06,7,0.11,0,0.00,0.00,6292163,2024,Leprosy
+Chachoengsao,1,0.14,0,0.00,0.00,728615,2024,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Leprosy
+Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Leprosy
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Leprosy
+Samut Prakan,1,0.07,0,0.00,0.00,1366598,2024,Leprosy
+Trat,0,0.00,0,0.00,0.00,227430,2024,Leprosy
+ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Leprosy
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Leprosy
+ZONE:08,3,0.05,0,0.00,0.00,5500012,2024,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Leprosy
+Loei,0,0.00,0,0.00,0.00,636242,2024,Leprosy
+Nakhon Phanom,1,0.14,0,0.00,0.00,715466,2024,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1143922,2024,Leprosy
+Udon Thani,1,0.06,0,0.00,0.00,1560788,2024,Leprosy
+ZONE:09,3,0.04,0,0.00,0.00,6689028,2024,Leprosy
+Buri Ram,2,0.13,0,0.00,0.00,1575073,2024,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Leprosy
+Surin,1,0.07,0,0.00,0.00,1370376,2024,Leprosy
+ZONE:10,3,0.07,0,0.00,0.00,4578831,2024,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Leprosy
+Si Sa Ket,1,0.07,0,0.00,0.00,1452532,2024,Leprosy
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1869708,2024,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Leprosy
+ZONE:11,2,0.04,0,0.00,0.00,4489783,2024,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Leprosy
+Krabi,0,0.00,0,0.00,0.00,481089,2024,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Leprosy
+Phuket,1,0.24,0,0.00,0.00,420746,2024,Leprosy
+Ranong,0,0.00,0,0.00,0.00,193799,2024,Leprosy
+Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,Leprosy
+ZONE:12,11,0.22,0,0.00,0.00,5015209,2024,Leprosy
+Narathiwat,5,0.61,0,0.00,0.00,816642,2024,Leprosy
+Pattani,0,0.00,0,0.00,0.00,735017,2024,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Leprosy
+Satun,0,0.00,0,0.00,0.00,325387,2024,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Leprosy
+Trang,1,0.16,0,0.00,0.00,637612,2024,Leprosy
+Yala,5,0.91,0,0.00,0.00,547930,2024,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Leprosy
 Total,51,0.08,0,0.00,0.00,64076033,2013,Leprosy
 Central Region,7,0.03,0,0.00,0.00,21734984,2013,Leprosy
 Zone:0,0,0.00,0,0.00,0.00,5674843,2013,Leprosy
@@ -1811,206 +1446,97 @@ Kamphaeng Phet,2,0.28,0,0.00,0.00,726009,2013,Leprosy
 Nakhon Sawan,1,0.09,0,0.00,0.00,1071686,2013,Leprosy
 Phichit,0,0.00,0,0.00,0.00,549688,2013,Leprosy
 Uthai Thani,0,0.00,0,0.00,0.00,328034,2013,Leprosy
-Total,429,0.69,0,0.00,0.00,62195878,2005,Leprosy
-North Region,69,0.58,0,0.00,0.00,11862916,2005,Leprosy
-Zone:1,38,0.66,0,0.00,0.00,5729312,2005,Leprosy
-Chiang Mai,10,0.61,0,0.00,0.00,1640390,2005,Leprosy
-Chiang Rai,8,0.66,0,0.00,0.00,1219732,2005,Leprosy
-Lampang,4,0.51,0,0.00,0.00,777827,2005,Leprosy
-Lamphun,3,0.74,0,0.00,0.00,404754,2005,Leprosy
-Mae Hong Son,13,5.23,0,0.00,0.00,248672,2005,Leprosy
-Nan,0,0.00,0,0.00,0.00,477917,2005,Leprosy
-Phayao,0,0.00,0,0.00,0.00,487616,2005,Leprosy
-Phrae,0,0.00,0,0.00,0.00,472404,2005,Leprosy
-Zone:2,20,0.58,0,0.00,0.00,3442642,2005,Leprosy
-Phetchabun,3,0.30,0,0.00,0.00,1001820,2005,Leprosy
-Phitsanulok,0,0.00,0,0.00,0.00,841248,2005,Leprosy
-Sukhothai,9,1.47,0,0.00,0.00,610871,2005,Leprosy
-Tak,6,1.16,0,0.00,0.00,519037,2005,Leprosy
-Uttaradit,2,0.43,0,0.00,0.00,469666,2005,Leprosy
-Zone:3,11,0.41,0,0.00,0.00,2690962,2005,Leprosy
-Kamphaeng Phet,8,1.10,0,0.00,0.00,727351,2005,Leprosy
-Nakhon Sawan,1,0.09,0,0.00,0.00,1077634,2005,Leprosy
-Phichit,0,0.00,0,0.00,0.00,559611,2005,Leprosy
-Uthai Thani,2,0.61,0,0.00,0.00,326366,2005,Leprosy
-Central Region,93,0.45,0,0.00,0.00,20560399,2005,Leprosy
-Bangkok,16,0.28,0,0.00,0.00,5646543,2005,Leprosy
-Zone:4,5,0.18,0,0.00,0.00,2777019,2005,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,283373,2005,Leprosy
-Nonthaburi,1,0.10,0,0.00,0.00,957287,2005,Leprosy
-P.Nakhon S.Ayutthaya,2,0.27,0,0.00,0.00,743659,2005,Leprosy
-Pathum Thani,2,0.25,0,0.00,0.00,792700,2005,Leprosy
-Zone:5,14,0.73,0,0.00,0.00,1909368,2005,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,340812,2005,Leprosy
-Lop Buri,7,0.93,0,0.00,0.00,750718,2005,Leprosy
-Saraburi,7,1.17,0,0.00,0.00,598905,2005,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,218933,2005,Leprosy
-Zone:6,18,0.55,0,0.00,0.00,3282327,2005,Leprosy
-Kanchanaburi,1,0.12,0,0.00,0.00,818218,2005,Leprosy
-Nakhon Pathom,3,0.37,0,0.00,0.00,803489,2005,Leprosy
-Ratchaburi,2,0.24,0,0.00,0.00,819286,2005,Leprosy
-Suphan Buri,12,1.43,0,0.00,0.00,841334,2005,Leprosy
-Zone:7,10,0.63,0,0.00,0.00,1578246,2005,Leprosy
-Phetchaburi,7,1.55,0,0.00,0.00,452506,2005,Leprosy
-Prachuap Khiri Khan,2,0.41,0,0.00,0.00,483243,2005,Leprosy
-Samut Sakhon,0,0.00,0,0.00,0.00,447353,2005,Leprosy
-Samut Songkhram,1,0.51,0,0.00,0.00,195144,2005,Leprosy
-Zone:8,11,0.37,0,0.00,0.00,2943051,2005,Leprosy
-Chachoengsao,1,0.15,0,0.00,0.00,645521,2005,Leprosy
-Nakhon Nayok,0,0.00,0,0.00,0.00,249686,2005,Leprosy
-Prachin Buri,3,0.67,0,0.00,0.00,447783,2005,Leprosy
-Sa Kaeo,7,1.30,0,0.00,0.00,536591,2005,Leprosy
-Samut Prakan,0,0.00,0,0.00,0.00,1063470,2005,Leprosy
-Zone:9,19,0.78,0,0.00,0.00,2423845,2005,Leprosy
-Chanthaburi,12,2.42,0,0.00,0.00,496081,2005,Leprosy
-Chon Buri,3,0.26,0,0.00,0.00,1157709,2005,Leprosy
-Rayong,2,0.36,0,0.00,0.00,551512,2005,Leprosy
-Trat,2,0.92,0,0.00,0.00,218543,2005,Leprosy
-North-Eastern Region,209,0.98,0,0.00,0.00,21297778,2005,Leprosy
-Zone:10,22,0.62,0,0.00,0.00,3524138,2005,Leprosy
-Loei,0,0.00,0,0.00,0.00,611448,2005,Leprosy
-Nong Bua Lam Phu,3,0.61,0,0.00,0.00,495626,2005,Leprosy
-Nong Khai,0,0.00,0,0.00,0.00,895911,2005,Leprosy
-Udon Thani,19,1.25,0,0.00,0.00,1521153,2005,Leprosy
-Zone:11,13,0.42,0,0.00,0.00,3101003,2005,Leprosy
-Kalasin,6,0.62,0,0.00,0.00,972425,2005,Leprosy
-Mukdahan,2,0.60,0,0.00,0.00,333338,2005,Leprosy
-Nakhon Phanom,3,0.43,0,0.00,0.00,692377,2005,Leprosy
-Sakon Nakhon,2,0.18,0,0.00,0.00,1102863,2005,Leprosy
-Zone:12,32,0.80,0,0.00,0.00,3991075,2005,Leprosy
-Khon Kaen,15,0.86,0,0.00,0.00,1744646,2005,Leprosy
-Maha Sarakham,9,0.96,0,0.00,0.00,935967,2005,Leprosy
-Roi Et,8,0.61,0,0.00,0.00,1310462,2005,Leprosy
-Zone:13,59,0.90,0,0.00,0.00,6560991,2005,Leprosy
-Buri Ram,0,0.00,0,0.00,0.00,1527846,2005,Leprosy
-Chaiyaphum,10,0.90,0,0.00,0.00,1117026,2005,Leprosy
-Nakhon Ratchasima,23,0.90,0,0.00,0.00,2543054,2005,Leprosy
-Surin,26,1.89,0,0.00,0.00,1373065,2005,Leprosy
-Zone:14,83,2.01,0,0.00,0.00,4120571,2005,Leprosy
-Amnat Charoen,4,1.09,0,0.00,0.00,368153,2005,Leprosy
-Si Sa Ket,56,3.88,0,0.00,0.00,1442190,2005,Leprosy
-Ubon Ratchathani,22,1.24,0,0.00,0.00,1768935,2005,Leprosy
-Yasothon,1,0.18,0,0.00,0.00,541293,2005,Leprosy
-South Region,58,0.68,0,0.00,0.00,8474785,2005,Leprosy
-Zone:15,8,0.50,0,0.00,0.00,1593965,2005,Leprosy
-Chumphon,1,0.21,0,0.00,0.00,473916,2005,Leprosy
-Ranong,0,0.00,0,0.00,0.00,177247,2005,Leprosy
-Surat Thani,7,0.74,0,0.00,0.00,942802,2005,Leprosy
-Zone:16,1,0.04,0,0.00,0.00,2600847,2005,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1502382,2005,Leprosy
-Phatthalung,1,0.20,0,0.00,0.00,499399,2005,Leprosy
-Trang,0,0.00,0,0.00,0.00,599066,2005,Leprosy
-Zone:17,2,0.22,0,0.00,0.00,921037,2005,Leprosy
-Krabi,1,0.26,0,0.00,0.00,391709,2005,Leprosy
-Phangnga,0,0.00,0,0.00,0.00,240254,2005,Leprosy
-Phuket,1,0.35,0,0.00,0.00,289074,2005,Leprosy
-Zone:18,39,2.18,0,0.00,0.00,1791264,2005,Leprosy
-Narathiwat,18,2.58,0,0.00,0.00,697150,2005,Leprosy
-Pattani,17,2.69,0,0.00,0.00,632119,2005,Leprosy
-Yala,4,0.87,0,0.00,0.00,461995,2005,Leprosy
-Zone:19,8,0.51,0,0.00,0.00,1567672,2005,Leprosy
-Satun,7,2.54,0,0.00,0.00,275706,2005,Leprosy
-Songkhla,1,0.08,0,0.00,0.00,1291966,2005,Leprosy
-Total,341,0.54,0,0.00,0.00,62933515,2007,Leprosy
-North Region,69,0.58,0,0.00,0.00,11881352,2007,Leprosy
-Zone:1,31,0.54,0,0.00,0.00,5750312,2007,Leprosy
-Chiang Mai,3,0.18,0,0.00,0.00,1661349,2007,Leprosy
-Chiang Rai,13,1.06,0,0.00,0.00,1225364,2007,Leprosy
-Lampang,2,0.26,0,0.00,0.00,772202,2007,Leprosy
-Lamphun,2,0.49,0,0.00,0.00,405361,2007,Leprosy
-Mae Hong Son,10,3.92,0,0.00,0.00,254990,2007,Leprosy
-Nan,1,0.21,0,0.00,0.00,477522,2007,Leprosy
-Phayao,0,0.00,0,0.00,0.00,486399,2007,Leprosy
-Phrae,0,0.00,0,0.00,0.00,467125,2007,Leprosy
-Zone:2,27,0.78,0,0.00,0.00,3445764,2007,Leprosy
-Phetchabun,10,1.00,0,0.00,0.00,999924,2007,Leprosy
-Phitsanulok,3,0.36,0,0.00,0.00,843096,2007,Leprosy
-Sukhothai,12,1.98,0,0.00,0.00,607061,2007,Leprosy
-Tak,2,0.38,0,0.00,0.00,529303,2007,Leprosy
-Uttaradit,0,0.00,0,0.00,0.00,466380,2007,Leprosy
-Zone:3,11,0.41,0,0.00,0.00,2685276,2007,Leprosy
-Kamphaeng Phet,3,0.41,0,0.00,0.00,727158,2007,Leprosy
-Nakhon Sawan,6,0.56,0,0.00,0.00,1074849,2007,Leprosy
-Phichit,0,0.00,0,0.00,0.00,556287,2007,Leprosy
-Uthai Thani,2,0.61,0,0.00,0.00,326982,2007,Leprosy
-Central Region,65,0.31,0,0.00,0.00,21043273,2007,Leprosy
-Bangkok,4,0.07,0,0.00,0.00,5706103,2007,Leprosy
-Zone:4,4,0.14,0,0.00,0.00,2932544,2007,Leprosy
-Ang Thong,0,0.00,0,0.00,0.00,284175,2007,Leprosy
-Nonthaburi,1,0.10,0,0.00,0.00,1011624,2007,Leprosy
-P.Nakhon S.Ayutthaya,2,0.26,0,0.00,0.00,757654,2007,Leprosy
-Pathum Thani,1,0.11,0,0.00,0.00,879091,2007,Leprosy
-Zone:5,1,0.05,0,0.00,0.00,1918492,2007,Leprosy
-Chai Nat,0,0.00,0,0.00,0.00,338077,2007,Leprosy
-Lop Buri,1,0.13,0,0.00,0.00,751298,2007,Leprosy
-Saraburi,0,0.00,0,0.00,0.00,612806,2007,Leprosy
-Sing Buri,0,0.00,0,0.00,0.00,216311,2007,Leprosy
-Zone:6,24,0.72,0,0.00,0.00,3334732,2007,Leprosy
-Kanchanaburi,2,0.24,0,0.00,0.00,834865,2007,Leprosy
-Nakhon Pathom,11,1.33,0,0.00,0.00,826438,2007,Leprosy
-Ratchaburi,5,0.60,0,0.00,0.00,830184,2007,Leprosy
-Suphan Buri,6,0.71,0,0.00,0.00,843245,2007,Leprosy
-Zone:7,8,0.50,0,0.00,0.00,1611697,2007,Leprosy
-Phetchaburi,5,1.10,0,0.00,0.00,456371,2007,Leprosy
-Prachuap Khiri Khan,2,0.40,0,0.00,0.00,494502,2007,Leprosy
-Samut Sakhon,1,0.21,0,0.00,0.00,466222,2007,Leprosy
-Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Leprosy
-Zone:8,14,0.46,0,0.00,0.00,3016265,2007,Leprosy
-Chachoengsao,0,0.00,0,0.00,0.00,656586,2007,Leprosy
-Nakhon Nayok,2,0.80,0,0.00,0.00,249250,2007,Leprosy
-Prachin Buri,10,2.20,0,0.00,0.00,454404,2007,Leprosy
-Sa Kaeo,1,0.19,0,0.00,0.00,538741,2007,Leprosy
-Samut Prakan,1,0.09,0,0.00,0.00,1117284,2007,Leprosy
-Zone:9,10,0.40,0,0.00,0.00,2523440,2007,Leprosy
-Chanthaburi,8,1.59,0,0.00,0.00,503197,2007,Leprosy
-Chon Buri,1,0.08,0,0.00,0.00,1221369,2007,Leprosy
-Rayong,1,0.17,0,0.00,0.00,578628,2007,Leprosy
-Trat,0,0.00,0,0.00,0.00,220246,2007,Leprosy
-North-Eastern Region,159,0.74,0,0.00,0.00,21381249,2007,Leprosy
-Zone:10,18,0.51,0,0.00,0.00,3541793,2007,Leprosy
-Loei,0,0.00,0,0.00,0.00,614421,2007,Leprosy
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497148,2007,Leprosy
-Nong Khai,12,1.33,0,0.00,0.00,901100,2007,Leprosy
-Udon Thani,6,0.39,0,0.00,0.00,1529124,2007,Leprosy
-Zone:11,10,0.32,0,0.00,0.00,3119599,2007,Leprosy
-Kalasin,6,0.61,0,0.00,0.00,976536,2007,Leprosy
-Mukdahan,2,0.60,0,0.00,0.00,335778,2007,Leprosy
-Nakhon Phanom,1,0.14,0,0.00,0.00,696229,2007,Leprosy
-Sakon Nakhon,1,0.09,0,0.00,0.00,1111056,2007,Leprosy
-Zone:12,35,0.88,0,0.00,0.00,3997622,2007,Leprosy
-Khon Kaen,24,1.37,0,0.00,0.00,1751458,2007,Leprosy
-Maha Sarakham,4,0.43,0,0.00,0.00,936846,2007,Leprosy
-Roi Et,7,0.53,0,0.00,0.00,1309318,2007,Leprosy
-Zone:13,35,0.53,0,0.00,0.00,6583974,2007,Leprosy
-Buri Ram,13,0.85,0,0.00,0.00,1536396,2007,Leprosy
-Chaiyaphum,3,0.27,0,0.00,0.00,1119372,2007,Leprosy
-Nakhon Ratchasima,15,0.59,0,0.00,0.00,2554241,2007,Leprosy
-Surin,4,0.29,0,0.00,0.00,1373965,2007,Leprosy
-Zone:14,61,1.47,0,0.00,0.00,4138261,2007,Leprosy
-Amnat Charoen,1,0.27,0,0.00,0.00,368925,2007,Leprosy
-Si Sa Ket,46,3.18,0,0.00,0.00,1444748,2007,Leprosy
-Ubon Ratchathani,10,0.56,0,0.00,0.00,1784372,2007,Leprosy
-Yasothon,4,0.74,0,0.00,0.00,540216,2007,Leprosy
-South Region,48,0.56,0,0.00,0.00,8627641,2007,Leprosy
-Zone:15,7,0.43,0,0.00,0.00,1626011,2007,Leprosy
-Chumphon,0,0.00,0,0.00,0.00,480131,2007,Leprosy
-Ranong,0,0.00,0,0.00,0.00,180319,2007,Leprosy
-Surat Thani,7,0.72,0,0.00,0.00,965561,2007,Leprosy
-Zone:16,1,0.04,0,0.00,0.00,2620564,2007,Leprosy
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1508729,2007,Leprosy
-Phatthalung,0,0.00,0,0.00,0.00,502943,2007,Leprosy
-Trang,1,0.16,0,0.00,0.00,608892,2007,Leprosy
-Zone:17,6,0.62,0,0.00,0.00,961258,2007,Leprosy
-Krabi,1,0.25,0,0.00,0.00,406999,2007,Leprosy
-Phangnga,1,0.41,0,0.00,0.00,246141,2007,Leprosy
-Phuket,4,1.30,0,0.00,0.00,308118,2007,Leprosy
-Zone:18,25,1.38,0,0.00,0.00,1815585,2007,Leprosy
-Narathiwat,11,1.55,0,0.00,0.00,709345,2007,Leprosy
-Pattani,12,1.88,0,0.00,0.00,636768,2007,Leprosy
-Yala,2,0.43,0,0.00,0.00,469472,2007,Leprosy
-Zone:19,9,0.56,0,0.00,0.00,1604223,2007,Leprosy
-Satun,6,2.12,0,0.00,0.00,283014,2007,Leprosy
-Songkhla,3,0.23,0,0.00,0.00,1321209,2007,Leprosy
+Total,38,0.06,0,0.00,0.00,66179083,2021,Leprosy
+ZONE:01,4,0.07,0,0.00,0.00,5875424,2021,Leprosy
+Chiang Mai,3,0.17,0,0.00,0.00,1786877,2021,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Leprosy
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Leprosy
+Mae Hong Son,1,0.35,0,0.00,0.00,285232,2021,Leprosy
+Nan,0,0.00,0,0.00,0.00,476300,2021,Leprosy
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Leprosy
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Leprosy
+ZONE:02,7,0.20,0,0.00,0.00,3536074,2021,Leprosy
+Phetchabun,3,0.31,0,0.00,0.00,980156,2021,Leprosy
+Phitsanulok,1,0.12,0,0.00,0.00,848432,2021,Leprosy
+Sukhothai,1,0.17,0,0.00,0.00,586617,2021,Leprosy
+Tak,2,0.30,0,0.00,0.00,673423,2021,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Leprosy
+ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Leprosy
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Leprosy
+ZONE:04,2,0.04,0,0.00,0.00,5411959,2021,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Leprosy
+Pathum Thani,1,0.08,0,0.00,0.00,1183235,2021,Leprosy
+Saraburi,1,0.16,0,0.00,0.00,643895,2021,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Leprosy
+ZONE:05,6,0.11,0,0.00,0.00,5332653,2021,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Leprosy
+Nakhon Pathom,2,0.22,0,0.00,0.00,921450,2021,Leprosy
+Phetchaburi,1,0.21,0,0.00,0.00,482534,2021,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Leprosy
+Suphan Buri,3,0.36,0,0.00,0.00,836993,2021,Leprosy
+ZONE:06,1,0.02,0,0.00,0.00,6218594,2021,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Leprosy
+Prachin Buri,1,0.20,0,0.00,0.00,494498,2021,Leprosy
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Leprosy
+Trat,0,0.00,0,0.00,0.00,228456,2021,Leprosy
+ZONE:07,0,0.00,0,0.00,0.00,5017381,2021,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Leprosy
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Leprosy
+ZONE:08,1,0.02,0,0.00,0.00,5518109,2021,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Leprosy
+Loei,0,0.00,0,0.00,0.00,638734,2021,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Leprosy
+Nong Khai,1,0.19,0,0.00,0.00,517140,2021,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Leprosy
+ZONE:09,2,0.03,0,0.00,0.00,6714997,2021,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Leprosy
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2633681,2021,Leprosy
+Surin,1,0.07,0,0.00,0.00,1377226,2021,Leprosy
+ZONE:10,10,0.22,0,0.00,0.00,4587095,2021,Leprosy
+Amnat Charoen,3,0.80,0,0.00,0.00,376273,2021,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Leprosy
+Si Sa Ket,5,0.34,0,0.00,0.00,1458068,2021,Leprosy
+Ubon Ratchathani,1,0.05,0,0.00,0.00,1867608,2021,Leprosy
+Yasothon,1,0.19,0,0.00,0.00,533948,2021,Leprosy
+ZONE:11,3,0.07,0,0.00,0.00,4487259,2021,Leprosy
+Chumphon,1,0.20,0,0.00,0.00,509344,2021,Leprosy
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Leprosy
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Leprosy
+Ranong,1,0.51,0,0.00,0.00,194473,2021,Leprosy
+Surat Thani,1,0.09,0,0.00,0.00,1070096,2021,Leprosy
+ZONE:12,2,0.04,0,0.00,0.00,4992834,2021,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Leprosy
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Leprosy
+Phatthalung,2,0.38,0,0.00,0.00,522810,2021,Leprosy
+Satun,0,0.00,0,0.00,0.00,324467,2021,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Leprosy
+Trang,0,0.00,0,0.00,0.00,640182,2021,Leprosy
+Yala,0,0.00,0,0.00,0.00,540458,2021,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Leprosy
 Total,37,0.06,0,0.00,0.00,66130957,2023,Leprosy
 ZONE:01,8,0.14,0,0.00,0.00,5869190,2023,Leprosy
 Chiang Mai,7,0.39,0,0.00,0.00,1790929,2023,Leprosy
@@ -2102,3 +1628,477 @@ Trang,0,0.00,0,0.00,0.00,638997,2023,Leprosy
 Yala,0,0.00,0,0.00,0.00,544114,2023,Leprosy
 ZONE:13,0,0.00,0,0.00,0.00,5511463,2023,Leprosy
 Bangkok,0,0.00,0,0.00,0.00,5511463,2023,Leprosy
+Total,35,0.05,0,0.00,0.00,64955313,2014,Leprosy
+ZONE:00,0,0.00,0,0.00,0.00,5689268,2014,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5689268,2014,Leprosy
+ZONE:01,1,0.02,0,0.00,0.00,5704200,2014,Leprosy
+Chiang Mai,1,0.06,0,0.00,0.00,1672586,2014,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1206180,2014,Leprosy
+Lampang,0,0.00,0,0.00,0.00,753937,2014,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405368,2014,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,247364,2014,Leprosy
+Nan,0,0.00,0,0.00,0.00,478088,2014,Leprosy
+Phayao,0,0.00,0,0.00,0.00,485599,2014,Leprosy
+Phrae,0,0.00,0,0.00,0.00,455078,2014,Leprosy
+ZONE:02,2,0.06,0,0.00,0.00,3452021,2014,Leprosy
+Phetchabun,2,0.20,0,0.00,0.00,995102,2014,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,857682,2014,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,602586,2014,Leprosy
+Tak,0,0.00,0,0.00,0.00,535953,2014,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,460698,2014,Leprosy
+ZONE:03,0,0.00,0,0.00,0.00,3012608,2014,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,332526,2014,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729076,2014,Leprosy
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072949,2014,Leprosy
+Phichit,0,0.00,0,0.00,0.00,548199,2014,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,329858,2014,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5171756,2014,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,758188,2014,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,800785,2014,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1063608,2014,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,631338,2014,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Leprosy
+ZONE:05,0,0.00,0,0.00,0.00,5147569,2014,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,845540,2014,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,472640,2014,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,522689,2014,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,851689,2014,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,525672,2014,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,194153,2014,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,848559,2014,Leprosy
+ZONE:06,3,0.05,0,0.00,0.00,5797595,2014,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,692852,2014,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,525805,2014,Leprosy
+Chon Buri,2,0.14,0,0.00,0.00,1405889,2014,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,477741,2014,Leprosy
+Rayong,1,0.15,0,0.00,0.00,667806,2014,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,551562,2014,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Leprosy
+Trat,0,0.00,0,0.00,0.00,224370,2014,Leprosy
+ZONE:07,0,0.00,0,0.00,0.00,5037074,2014,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,984468,2014,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1785852,2014,Leprosy
+Maha Sarakham,0,0.00,0,0.00,0.00,958116,2014,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1308638,2014,Leprosy
+ZONE:08,0,0.00,0,0.00,0.00,5490561,2014,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,417401,2014,Leprosy
+Loei,0,0.00,0,0.00,0.00,633359,2014,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,712101,2014,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508001,2014,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,516101,2014,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1136466,2014,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1567132,2014,Leprosy
+ZONE:09,2,0.03,0,0.00,0.00,6717984,2014,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1576343,2014,Leprosy
+Chaiyaphum,1,0.09,0,0.00,0.00,1136386,2014,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2615340,2014,Leprosy
+Surin,1,0.07,0,0.00,0.00,1389915,2014,Leprosy
+ZONE:10,24,0.53,0,0.00,0.00,4564711,2014,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,375039,2014,Leprosy
+Mukdahan,1,0.29,0,0.00,0.00,345159,2014,Leprosy
+Si Sa Ket,23,1.57,0,0.00,0.00,1463620,2014,Leprosy
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1840596,2014,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,540297,2014,Leprosy
+ZONE:11,0,0.00,0,0.00,0.00,4344513,2014,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,499435,2014,Leprosy
+Krabi,0,0.00,0,0.00,0.00,453850,2014,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1544936,2014,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,260395,2014,Leprosy
+Phuket,0,0.00,0,0.00,0.00,373943,2014,Leprosy
+Ranong,0,0.00,0,0.00,0.00,175933,2014,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1036021,2014,Leprosy
+ZONE:12,3,0.06,0,0.00,0.00,4825453,2014,Leprosy
+Narathiwat,1,0.13,0,0.00,0.00,770472,2014,Leprosy
+Pattani,2,0.29,0,0.00,0.00,682512,2014,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,519220,2014,Leprosy
+Satun,0,0.00,0,0.00,0.00,311233,2014,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1395596,2014,Leprosy
+Trang,0,0.00,0,0.00,0.00,637395,2014,Leprosy
+Yala,0,0.00,0,0.00,0.00,509025,2014,Leprosy
+Total,45,0.07,0,0.00,0.00,66301242,2018,Leprosy
+ZONE:01,2,0.03,0,0.00,0.00,5878537,2018,Leprosy
+Chiang Mai,0,0.00,0,0.00,0.00,1755291,2018,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1289873,2018,Leprosy
+Lampang,0,0.00,0,0.00,0.00,744714,2018,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405936,2018,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,280826,2018,Leprosy
+Nan,0,0.00,0,0.00,0.00,479414,2018,Leprosy
+Phayao,1,0.21,0,0.00,0.00,476157,2018,Leprosy
+Phrae,1,0.22,0,0.00,0.00,446326,2018,Leprosy
+ZONE:02,18,0.50,0,0.00,0.00,3565071,2018,Leprosy
+Phetchabun,2,0.20,0,0.00,0.00,994936,2018,Leprosy
+Phitsanulok,6,0.69,0,0.00,0.00,866129,2018,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Leprosy
+Tak,10,1.54,0,0.00,0.00,649472,2018,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,456247,2018,Leprosy
+ZONE:03,2,0.07,0,0.00,0.00,2992420,2018,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Leprosy
+Nakhon Sawan,2,0.19,0,0.00,0.00,1064649,2018,Leprosy
+Phichit,0,0.00,0,0.00,0.00,540620,2018,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,329688,2018,Leprosy
+ZONE:04,0,0.00,0,0.00,0.00,5343264,2018,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1238015,2018,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1137603,2018,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,643531,2018,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Leprosy
+ZONE:05,5,0.09,0,0.00,0.00,5324608,2018,Leprosy
+Kanchanaburi,3,0.34,0,0.00,0.00,890565,2018,Leprosy
+Nakhon Pathom,1,0.11,0,0.00,0.00,914273,2018,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,483335,2018,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,546396,2018,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Leprosy
+Samut Sakhon,1,0.17,0,0.00,0.00,573215,2018,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Leprosy
+ZONE:06,2,0.03,0,0.00,0.00,6088563,2018,Leprosy
+Chachoengsao,1,0.14,0,0.00,0.00,712449,2018,Leprosy
+Chanthaburi,1,0.19,0,0.00,0.00,535478,2018,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,489592,2018,Leprosy
+Rayong,0,0.00,0,0.00,0.00,717276,2018,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1318687,2018,Leprosy
+Trat,0,0.00,0,0.00,0.00,229782,2018,Leprosy
+ZONE:07,2,0.04,0,0.00,0.00,5062199,2018,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,985676,2018,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1805903,2018,Leprosy
+Maha Sarakham,2,0.21,0,0.00,0.00,963060,2018,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Leprosy
+ZONE:08,3,0.05,0,0.00,0.00,5553738,2018,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,423485,2018,Leprosy
+Loei,1,0.16,0,0.00,0.00,642220,2018,Leprosy
+Nakhon Phanom,1,0.14,0,0.00,0.00,718406,2018,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511878,2018,Leprosy
+Nong Khai,1,0.19,0,0.00,0.00,521995,2018,Leprosy
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Leprosy
+ZONE:09,0,0.00,0,0.00,0.00,6772779,2018,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1139067,2018,Leprosy
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2642815,2018,Leprosy
+Surin,0,0.00,0,0.00,0.00,1397519,2018,Leprosy
+ZONE:10,10,0.22,0,0.00,0.00,4613643,2018,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Leprosy
+Si Sa Ket,9,0.61,0,0.00,0.00,1472521,2018,Leprosy
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872091,2018,Leprosy
+Yasothon,1,0.19,0,0.00,0.00,539136,2018,Leprosy
+ZONE:11,0,0.00,0,0.00,0.00,4466673,2018,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,510307,2018,Leprosy
+Krabi,0,0.00,0,0.00,0.00,471754,2018,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1558958,2018,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,267866,2018,Leprosy
+Phuket,0,0.00,0,0.00,0.00,406113,2018,Leprosy
+Ranong,0,0.00,0,0.00,0.00,191134,2018,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1060541,2018,Leprosy
+ZONE:12,1,0.02,0,0.00,0.00,4960215,2018,Leprosy
+Narathiwat,0,0.00,0,0.00,0.00,799357,2018,Leprosy
+Pattani,0,0.00,0,0.00,0.00,713937,2018,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,524951,2018,Leprosy
+Satun,0,0.00,0,0.00,0.00,320637,2018,Leprosy
+Songkhla,1,0.07,0,0.00,0.00,1428429,2018,Leprosy
+Trang,0,0.00,0,0.00,0.00,643093,2018,Leprosy
+Yala,0,0.00,0,0.00,0.00,529811,2018,Leprosy
+ZONE:13,0,0.00,0,0.00,0.00,5679532,2018,Leprosy
+Bangkok,0,0.00,0,0.00,0.00,5679532,2018,Leprosy
+Total,304,0.48,1,0.33,0.00,63977185,2011,Leprosy
+Central Region,41,0.19,0,0.00,0.00,21679246,2011,Leprosy
+Zone:0,4,0.07,0,0.00,0.00,5688119,2011,Leprosy
+Bangkok,4,0.07,0,0.00,0.00,5688119,2011,Leprosy
+Zone:1,2,0.06,0,0.00,0.00,3514250,2011,Leprosy
+Nonthaburi,0,0.00,0,0.00,0.00,1112185,2011,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,784875,2011,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,998271,2011,Leprosy
+Saraburi,2,0.32,0,0.00,0.00,618919,2011,Leprosy
+Zone:2,1,0.06,0,0.00,0.00,1588727,2011,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,284516,2011,Leprosy
+Chai Nat,1,0.30,0,0.00,0.00,334096,2011,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,755991,2011,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,214124,2011,Leprosy
+Zone:3,14,0.45,0,0.00,0.00,3137098,2011,Leprosy
+Chachoengsao,1,0.15,0,0.00,0.00,676652,2011,Leprosy
+Nakhon Nayok,2,0.79,0,0.00,0.00,253283,2011,Leprosy
+Prachin Buri,9,1.92,0,0.00,0.00,468113,2011,Leprosy
+Sa Kaeo,2,0.37,0,0.00,0.00,544848,2011,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1194202,2011,Leprosy
+Zone:4,11,0.32,0,0.00,0.00,3388832,2011,Leprosy
+Kanchanaburi,6,0.71,0,0.00,0.00,839345,2011,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,863155,2011,Leprosy
+Ratchaburi,3,0.36,0,0.00,0.00,840880,2011,Leprosy
+Suphan Buri,2,0.24,0,0.00,0.00,845452,2011,Leprosy
+Zone:5,2,0.12,0,0.00,0.00,1665473,2011,Leprosy
+Phetchaburi,1,0.22,0,0.00,0.00,465056,2011,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,510852,2011,Leprosy
+Samut Sakhon,1,0.20,0,0.00,0.00,495493,2011,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,194072,2011,Leprosy
+Zone:9,7,0.26,0,0.00,0.00,2696747,2011,Leprosy
+Chanthaburi,4,0.78,0,0.00,0.00,515736,2011,Leprosy
+Chon Buri,2,0.15,0,0.00,0.00,1327475,2011,Leprosy
+Rayong,1,0.16,0,0.00,0.00,632069,2011,Leprosy
+Trat,0,0.00,0,0.00,0.00,221467,2011,Leprosy
+South Region,49,0.55,1,2.04,0.01,8932459,2011,Leprosy
+Zone:6,12,0.34,1,8.33,0.03,3531913,2011,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,491073,2011,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1524317,2011,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,510299,2011,Leprosy
+Surat Thani,12,1.19,1,8.33,0.10,1006224,2011,Leprosy
+Zone:7,12,0.65,0,0.00,0.00,1846999,2011,Leprosy
+Krabi,4,0.92,0,0.00,0.00,435372,2011,Leprosy
+Phangnga,2,0.79,0,0.00,0.00,254022,2011,Leprosy
+Phuket,6,1.72,0,0.00,0.00,349457,2011,Leprosy
+Ranong,0,0.00,0,0.00,0.00,183464,2011,Leprosy
+Trang,0,0.00,0,0.00,0.00,624684,2011,Leprosy
+Zone:8,25,0.70,0,0.00,0.00,3553547,2011,Leprosy
+Narathiwat,12,1.62,0,0.00,0.00,742268,2011,Leprosy
+Pattani,12,1.82,0,0.00,0.00,659373,2011,Leprosy
+Satun,0,0.00,0,0.00,0.00,299315,2011,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1362017,2011,Leprosy
+Yala,1,0.20,0,0.00,0.00,490574,2011,Leprosy
+North-Eastern Region,155,0.72,0,0.00,0.00,21579612,2011,Leprosy
+Zone:10,11,0.31,0,0.00,0.00,3588872,2011,Leprosy
+Bungkan,2,0.98,0,0.00,0.00,203818,2011,Leprosy
+Loei,1,0.16,0,0.00,0.00,624493,2011,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502710,2011,Leprosy
+Nong Khai,1,0.14,0,0.00,0.00,711404,2011,Leprosy
+Udon Thani,7,0.45,0,0.00,0.00,1546447,2011,Leprosy
+Zone:11,4,0.18,0,0.00,0.00,2167288,2011,Leprosy
+Mukdahan,1,0.29,0,0.00,0.00,340079,2011,Leprosy
+Nakhon Phanom,2,0.28,0,0.00,0.00,704080,2011,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1123129,2011,Leprosy
+Zone:12,31,0.62,0,0.00,0.00,4996659,2011,Leprosy
+Kalasin,17,1.73,0,0.00,0.00,982117,2011,Leprosy
+Khon Kaen,8,0.45,0,0.00,0.00,1766834,2011,Leprosy
+Maha Sarakham,5,0.53,0,0.00,0.00,940324,2011,Leprosy
+Roi Et,1,0.08,0,0.00,0.00,1307384,2011,Leprosy
+Zone:13,56,1.34,0,0.00,0.00,4178156,2011,Leprosy
+Amnat Charoen,2,0.54,0,0.00,0.00,372190,2011,Leprosy
+Si Sa Ket,38,2.62,0,0.00,0.00,1452338,2011,Leprosy
+Ubon Ratchathani,9,0.50,0,0.00,0.00,1814573,2011,Leprosy
+Yasothon,7,1.30,0,0.00,0.00,539055,2011,Leprosy
+Zone:14,53,0.80,0,0.00,0.00,6648637,2011,Leprosy
+Buri Ram,17,1.09,0,0.00,0.00,1556426,2011,Leprosy
+Chaiyaphum,13,1.15,0,0.00,0.00,1127423,2011,Leprosy
+Nakhon Ratchasima,13,0.50,0,0.00,0.00,2583707,2011,Leprosy
+Surin,10,0.72,0,0.00,0.00,1381081,2011,Leprosy
+North Region,59,0.50,0,0.00,0.00,11785868,2011,Leprosy
+Zone:15,24,0.79,0,0.00,0.00,3050706,2011,Leprosy
+Chiang Mai,14,0.85,0,0.00,0.00,1643312,2011,Leprosy
+Lampang,0,0.00,0,0.00,0.00,759742,2011,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,404257,2011,Leprosy
+Mae Hong Son,10,4.11,0,0.00,0.00,243395,2011,Leprosy
+Zone:16,12,0.46,0,0.00,0.00,2621067,2011,Leprosy
+Chiang Rai,10,0.83,0,0.00,0.00,1198438,2011,Leprosy
+Nan,1,0.21,0,0.00,0.00,476488,2011,Leprosy
+Phayao,1,0.21,0,0.00,0.00,486388,2011,Leprosy
+Phrae,0,0.00,0,0.00,0.00,459753,2011,Leprosy
+Zone:17,20,0.58,0,0.00,0.00,3435767,2011,Leprosy
+Phetchabun,2,0.20,0,0.00,0.00,993420,2011,Leprosy
+Phitsanulok,2,0.24,0,0.00,0.00,850525,2011,Leprosy
+Sukhothai,1,0.17,0,0.00,0.00,601642,2011,Leprosy
+Tak,13,2.46,0,0.00,0.00,528351,2011,Leprosy
+Uttaradit,2,0.43,0,0.00,0.00,461829,2011,Leprosy
+Zone:18,3,0.11,0,0.00,0.00,2678328,2011,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726551,2011,Leprosy
+Nakhon Sawan,2,0.19,0,0.00,0.00,1072591,2011,Leprosy
+Phichit,0,0.00,0,0.00,0.00,551189,2011,Leprosy
+Uthai Thani,1,0.30,0,0.00,0.00,327997,2011,Leprosy
+Total,57,0.09,0,0.00,0.00,65124716,2015,Leprosy
+ZONE:00,1,0.02,0,0.00,0.00,5692284,2015,Leprosy
+Bangkok,1,0.02,0,0.00,0.00,5692284,2015,Leprosy
+ZONE:01,4,0.07,0,0.00,0.00,5709443,2015,Leprosy
+Chiang Mai,4,0.24,0,0.00,0.00,1678284,2015,Leprosy
+Chiang Rai,0,0.00,0,0.00,0.00,1207699,2015,Leprosy
+Lampang,0,0.00,0,0.00,0.00,753013,2015,Leprosy
+Lamphun,0,0.00,0,0.00,0.00,405468,2015,Leprosy
+Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Leprosy
+Nan,0,0.00,0,0.00,0.00,478264,2015,Leprosy
+Phayao,0,0.00,0,0.00,0.00,484454,2015,Leprosy
+Phrae,0,0.00,0,0.00,0.00,454083,2015,Leprosy
+ZONE:02,4,0.12,0,0.00,0.00,3457208,2015,Leprosy
+Phetchabun,1,0.10,0,0.00,0.00,995807,2015,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,858988,2015,Leprosy
+Sukhothai,0,0.00,0,0.00,0.00,602460,2015,Leprosy
+Tak,3,0.56,0,0.00,0.00,539553,2015,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,460400,2015,Leprosy
+ZONE:03,4,0.13,0,0.00,0.00,3012283,2015,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Leprosy
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Leprosy
+Nakhon Sawan,4,0.37,0,0.00,0.00,1072756,2015,Leprosy
+Phichit,0,0.00,0,0.00,0.00,547543,2015,Leprosy
+Uthai Thani,0,0.00,0,0.00,0.00,330179,2015,Leprosy
+ZONE:04,1,0.02,0,0.00,0.00,5196419,2015,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,283568,2015,Leprosy
+Lop Buri,0,0.00,0,0.00,0.00,758406,2015,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Leprosy
+Nonthaburi,1,0.09,0,0.00,0.00,1173870,2015,Leprosy
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,803599,2015,Leprosy
+Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Leprosy
+Saraburi,0,0.00,0,0.00,0.00,633460,2015,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Leprosy
+ZONE:05,1,0.02,0,0.00,0.00,5166914,2015,Leprosy
+Kanchanaburi,0,0.00,0,0.00,0.00,848198,2015,Leprosy
+Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Leprosy
+Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Leprosy
+Ratchaburi,0,0.00,0,0.00,0.00,853217,2015,Leprosy
+Samut Sakhon,1,0.19,0,0.00,0.00,531887,2015,Leprosy
+Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Leprosy
+Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Leprosy
+ZONE:06,1,0.02,0,0.00,0.00,5836407,2015,Leprosy
+Chachoengsao,0,0.00,0,0.00,0.00,695478,2015,Leprosy
+Chanthaburi,0,0.00,0,0.00,0.00,527350,2015,Leprosy
+Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,479314,2015,Leprosy
+Rayong,1,0.15,0,0.00,0.00,674393,2015,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Leprosy
+Trat,0,0.00,0,0.00,0.00,224730,2015,Leprosy
+ZONE:07,0,0.00,0,0.00,0.00,5043862,2015,Leprosy
+Kalasin,0,0.00,0,0.00,0.00,984907,2015,Leprosy
+Khon Kaen,0,0.00,0,0.00,0.00,1790049,2015,Leprosy
+Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Leprosy
+Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Leprosy
+ZONE:08,1,0.02,0,0.00,0.00,5501453,2015,Leprosy
+Bungkan,0,0.00,0,0.00,0.00,418566,2015,Leprosy
+Loei,0,0.00,0,0.00,0.00,634513,2015,Leprosy
+Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Leprosy
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Leprosy
+Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1138609,2015,Leprosy
+Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Leprosy
+ZONE:09,2,0.03,0,0.00,0.00,6728450,2015,Leprosy
+Buri Ram,0,0.00,0,0.00,0.00,1579248,2015,Leprosy
+Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Leprosy
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2620517,2015,Leprosy
+Surin,1,0.07,0,0.00,0.00,1391636,2015,Leprosy
+ZONE:10,34,0.74,0,0.00,0.00,4571489,2015,Leprosy
+Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Leprosy
+Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Leprosy
+Si Sa Ket,34,2.32,0,0.00,0.00,1465213,2015,Leprosy
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Leprosy
+Yasothon,0,0.00,0,0.00,0.00,540211,2015,Leprosy
+ZONE:11,0,0.00,0,0.00,0.00,4362467,2015,Leprosy
+Chumphon,0,0.00,0,0.00,0.00,500575,2015,Leprosy
+Krabi,0,0.00,0,0.00,0.00,456811,2015,Leprosy
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1548028,2015,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,261370,2015,Leprosy
+Phuket,0,0.00,0,0.00,0.00,378364,2015,Leprosy
+Ranong,0,0.00,0,0.00,0.00,177089,2015,Leprosy
+Surat Thani,0,0.00,0,0.00,0.00,1040230,2015,Leprosy
+ZONE:12,4,0.08,0,0.00,0.00,4846037,2015,Leprosy
+Narathiwat,1,0.13,0,0.00,0.00,774799,2015,Leprosy
+Pattani,3,0.44,0,0.00,0.00,686186,2015,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Leprosy
+Satun,0,0.00,0,0.00,0.00,312673,2015,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1401303,2015,Leprosy
+Trang,0,0.00,0,0.00,0.00,638746,2015,Leprosy
+Yala,0,0.00,0,0.00,0.00,511911,2015,Leprosy
+Total,391,0.62,2,0.51,0.00,62623416,2006,Leprosy
+North Region,71,0.60,0,0.00,0.00,11887142,2006,Leprosy
+Zone:1,40,0.70,0,0.00,0.00,5748673,2006,Leprosy
+Chiang Mai,13,0.79,0,0.00,0.00,1654154,2006,Leprosy
+Chiang Rai,19,1.55,0,0.00,0.00,1225386,2006,Leprosy
+Lampang,2,0.26,0,0.00,0.00,775259,2006,Leprosy
+Lamphun,1,0.25,0,0.00,0.00,405146,2006,Leprosy
+Mae Hong Son,4,1.57,0,0.00,0.00,254392,2006,Leprosy
+Nan,0,0.00,0,0.00,0.00,477871,2006,Leprosy
+Phayao,1,0.21,0,0.00,0.00,486554,2006,Leprosy
+Phrae,0,0.00,0,0.00,0.00,469911,2006,Leprosy
+Zone:2,8,0.23,0,0.00,0.00,3448091,2006,Leprosy
+Phetchabun,5,0.50,0,0.00,0.00,1002388,2006,Leprosy
+Phitsanulok,0,0.00,0,0.00,0.00,842739,2006,Leprosy
+Sukhothai,2,0.33,0,0.00,0.00,609591,2006,Leprosy
+Tak,1,0.19,0,0.00,0.00,524938,2006,Leprosy
+Uttaradit,0,0.00,0,0.00,0.00,468435,2006,Leprosy
+Zone:3,23,0.85,0,0.00,0.00,2690378,2006,Leprosy
+Kamphaeng Phet,9,1.24,0,0.00,0.00,728293,2006,Leprosy
+Nakhon Sawan,11,1.02,0,0.00,0.00,1076911,2006,Leprosy
+Phichit,1,0.18,0,0.00,0.00,558314,2006,Leprosy
+Uthai Thani,2,0.61,0,0.00,0.00,326860,2006,Leprosy
+Central Region,46,0.22,0,0.00,0.00,20825142,2006,Leprosy
+Bangkok,5,0.09,0,0.00,0.00,5677455,2006,Leprosy
+Zone:4,5,0.17,0,0.00,0.00,2858658,2006,Leprosy
+Ang Thong,0,0.00,0,0.00,0.00,283861,2006,Leprosy
+Nonthaburi,3,0.30,0,0.00,0.00,985669,2006,Leprosy
+P.Nakhon S.Ayutthaya,1,0.13,0,0.00,0.00,750757,2006,Leprosy
+Pathum Thani,1,0.12,0,0.00,0.00,838371,2006,Leprosy
+Zone:5,10,0.52,0,0.00,0.00,1915186,2006,Leprosy
+Chai Nat,0,0.00,0,0.00,0.00,339568,2006,Leprosy
+Lop Buri,6,0.80,0,0.00,0.00,752364,2006,Leprosy
+Saraburi,4,0.66,0,0.00,0.00,605897,2006,Leprosy
+Sing Buri,0,0.00,0,0.00,0.00,217357,2006,Leprosy
+Zone:6,10,0.30,0,0.00,0.00,3315213,2006,Leprosy
+Kanchanaburi,2,0.24,0,0.00,0.00,830309,2006,Leprosy
+Nakhon Pathom,2,0.25,0,0.00,0.00,815433,2006,Leprosy
+Ratchaburi,1,0.12,0,0.00,0.00,826212,2006,Leprosy
+Suphan Buri,5,0.59,0,0.00,0.00,843259,2006,Leprosy
+Zone:7,4,0.25,0,0.00,0.00,1598232,2006,Leprosy
+Phetchaburi,3,0.66,0,0.00,0.00,455332,2006,Leprosy
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490607,2006,Leprosy
+Samut Sakhon,0,0.00,0,0.00,0.00,457264,2006,Leprosy
+Samut Songkhram,1,0.51,0,0.00,0.00,195029,2006,Leprosy
+Zone:8,1,0.03,0,0.00,0.00,2983258,2006,Leprosy
+Chachoengsao,1,0.15,0,0.00,0.00,650909,2006,Leprosy
+Nakhon Nayok,0,0.00,0,0.00,0.00,250392,2006,Leprosy
+Prachin Buri,0,0.00,0,0.00,0.00,451721,2006,Leprosy
+Sa Kaeo,0,0.00,0,0.00,0.00,537661,2006,Leprosy
+Samut Prakan,0,0.00,0,0.00,0.00,1092575,2006,Leprosy
+Zone:9,11,0.44,0,0.00,0.00,2477140,2006,Leprosy
+Chanthaburi,2,0.40,0,0.00,0.00,500275,2006,Leprosy
+Chon Buri,3,0.25,0,0.00,0.00,1190861,2006,Leprosy
+Rayong,6,1.06,0,0.00,0.00,566461,2006,Leprosy
+Trat,0,0.00,0,0.00,0.00,219543,2006,Leprosy
+North-Eastern Region,202,0.95,0,0.00,0.00,21352480,2006,Leprosy
+Zone:10,16,0.45,0,0.00,0.00,3533061,2006,Leprosy
+Loei,1,0.16,0,0.00,0.00,612863,2006,Leprosy
+Nong Bua Lam Phu,2,0.40,0,0.00,0.00,496675,2006,Leprosy
+Nong Khai,5,0.56,0,0.00,0.00,897840,2006,Leprosy
+Udon Thani,8,0.52,0,0.00,0.00,1525683,2006,Leprosy
+Zone:11,11,0.35,0,0.00,0.00,3110390,2006,Leprosy
+Kalasin,7,0.72,0,0.00,0.00,974560,2006,Leprosy
+Mukdahan,1,0.30,0,0.00,0.00,334781,2006,Leprosy
+Nakhon Phanom,2,0.29,0,0.00,0.00,694473,2006,Leprosy
+Sakon Nakhon,1,0.09,0,0.00,0.00,1106576,2006,Leprosy
+Zone:12,36,0.90,0,0.00,0.00,3996666,2006,Leprosy
+Khon Kaen,24,1.37,0,0.00,0.00,1749021,2006,Leprosy
+Maha Sarakham,6,0.64,0,0.00,0.00,937285,2006,Leprosy
+Roi Et,6,0.46,0,0.00,0.00,1310360,2006,Leprosy
+Zone:13,53,0.81,0,0.00,0.00,6578271,2006,Leprosy
+Buri Ram,9,0.59,0,0.00,0.00,1534076,2006,Leprosy
+Chaiyaphum,7,0.63,0,0.00,0.00,1118040,2006,Leprosy
+Nakhon Ratchasima,21,0.82,0,0.00,0.00,2551176,2006,Leprosy
+Surin,16,1.16,0,0.00,0.00,1374979,2006,Leprosy
+Zone:14,86,2.08,0,0.00,0.00,4134092,2006,Leprosy
+Amnat Charoen,3,0.81,0,0.00,0.00,368863,2006,Leprosy
+Si Sa Ket,55,3.81,0,0.00,0.00,1445230,2006,Leprosy
+Ubon Ratchathani,24,1.35,0,0.00,0.00,1778922,2006,Leprosy
+Yasothon,4,0.74,0,0.00,0.00,541077,2006,Leprosy
+South Region,72,0.84,2,2.78,0.02,8558652,2006,Leprosy
+Zone:15,10,0.62,0,0.00,0.00,1610374,2006,Leprosy
+Chumphon,2,0.42,0,0.00,0.00,477364,2006,Leprosy
+Ranong,2,1.12,0,0.00,0.00,178986,2006,Leprosy
+Surat Thani,6,0.63,0,0.00,0.00,954024,2006,Leprosy
+Zone:16,2,0.08,0,0.00,0.00,2614100,2006,Leprosy
+Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1507440,2006,Leprosy
+Phatthalung,0,0.00,0,0.00,0.00,501912,2006,Leprosy
+Trang,0,0.00,0,0.00,0.00,604748,2006,Leprosy
+Zone:17,10,1.06,0,0.00,0.00,939424,2006,Leprosy
+Krabi,0,0.00,0,0.00,0.00,399514,2006,Leprosy
+Phangnga,0,0.00,0,0.00,0.00,243419,2006,Leprosy
+Phuket,10,3.37,0,0.00,0.00,296491,2006,Leprosy
+Zone:18,47,2.60,2,4.26,0.11,1805088,2006,Leprosy
+Narathiwat,26,3.69,0,0.00,0.00,703848,2006,Leprosy
+Pattani,18,2.83,2,11.11,0.31,635053,2006,Leprosy
+Yala,3,0.64,0,0.00,0.00,466187,2006,Leprosy
+Zone:19,3,0.19,0,0.00,0.00,1589666,2006,Leprosy
+Satun,3,1.07,0,0.00,0.00,279705,2006,Leprosy
+Songkhla,0,0.00,0,0.00,0.00,1309961,2006,Leprosy

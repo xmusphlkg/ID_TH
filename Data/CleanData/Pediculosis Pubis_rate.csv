@@ -1,4 +1,95 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,0,0.00,0,0.00,0.00,66071545,2024,Pediculosis Pubis
+ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Pediculosis Pubis
+Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Pediculosis Pubis
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Pediculosis Pubis
+Lampang,0,0.00,0,0.00,0.00,715133,2024,Pediculosis Pubis
+Lamphun,0,0.00,0,0.00,0.00,398998,2024,Pediculosis Pubis
+Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Pediculosis Pubis
+Nan,0,0.00,0,0.00,0.00,473630,2024,Pediculosis Pubis
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Pediculosis Pubis
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Pediculosis Pubis
+ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Pediculosis Pubis
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Pediculosis Pubis
+Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Pediculosis Pubis
+Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Pediculosis Pubis
+Tak,0,0.00,0,0.00,0.00,687927,2024,Pediculosis Pubis
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Pediculosis Pubis
+ZONE:03,0,0.00,0,0.00,0.00,2896463,2024,Pediculosis Pubis
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Pediculosis Pubis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Pediculosis Pubis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Pediculosis Pubis
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Pediculosis Pubis
+Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Pediculosis Pubis
+ZONE:04,0,0.00,0,0.00,0.00,5438863,2024,Pediculosis Pubis
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Pediculosis Pubis
+Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Pediculosis Pubis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Pediculosis Pubis
+Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Pediculosis Pubis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Pediculosis Pubis
+Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Pediculosis Pubis
+Saraburi,0,0.00,0,0.00,0.00,638704,2024,Pediculosis Pubis
+Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Pediculosis Pubis
+ZONE:05,0,0.00,0,0.00,0.00,5326695,2024,Pediculosis Pubis
+Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Pediculosis Pubis
+Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Pediculosis Pubis
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Pediculosis Pubis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Pediculosis Pubis
+Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Pediculosis Pubis
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Pediculosis Pubis
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Pediculosis Pubis
+Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Pediculosis Pubis
+ZONE:06,0,0.00,0,0.00,0.00,6292163,2024,Pediculosis Pubis
+Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Pediculosis Pubis
+Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Pediculosis Pubis
+Chon Buri,0,0.00,0,0.00,0.00,1606412,2024,Pediculosis Pubis
+Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Pediculosis Pubis
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Pediculosis Pubis
+Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Pediculosis Pubis
+Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Pediculosis Pubis
+Trat,0,0.00,0,0.00,0.00,227430,2024,Pediculosis Pubis
+ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Pediculosis Pubis
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Pediculosis Pubis
+Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Pediculosis Pubis
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Pediculosis Pubis
+Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Pediculosis Pubis
+ZONE:08,0,0.00,0,0.00,0.00,5500012,2024,Pediculosis Pubis
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Pediculosis Pubis
+Loei,0,0.00,0,0.00,0.00,636242,2024,Pediculosis Pubis
+Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Pediculosis Pubis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Pediculosis Pubis
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Pediculosis Pubis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Pediculosis Pubis
+Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Pediculosis Pubis
+ZONE:09,0,0.00,0,0.00,0.00,6689028,2024,Pediculosis Pubis
+Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Pediculosis Pubis
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Pediculosis Pubis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Pediculosis Pubis
+Surin,0,0.00,0,0.00,0.00,1370376,2024,Pediculosis Pubis
+ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Pediculosis Pubis
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Pediculosis Pubis
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Pediculosis Pubis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Pediculosis Pubis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Pediculosis Pubis
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Pediculosis Pubis
+ZONE:11,0,0.00,0,0.00,0.00,4489783,2024,Pediculosis Pubis
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Pediculosis Pubis
+Krabi,0,0.00,0,0.00,0.00,481089,2024,Pediculosis Pubis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Pediculosis Pubis
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Pediculosis Pubis
+Phuket,0,0.00,0,0.00,0.00,420746,2024,Pediculosis Pubis
+Ranong,0,0.00,0,0.00,0.00,193799,2024,Pediculosis Pubis
+Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Pediculosis Pubis
+ZONE:12,0,0.00,0,0.00,0.00,5015209,2024,Pediculosis Pubis
+Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Pediculosis Pubis
+Pattani,0,0.00,0,0.00,0.00,735017,2024,Pediculosis Pubis
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Pediculosis Pubis
+Satun,0,0.00,0,0.00,0.00,325387,2024,Pediculosis Pubis
+Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Pediculosis Pubis
+Trang,0,0.00,0,0.00,0.00,637612,2024,Pediculosis Pubis
+Yala,0,0.00,0,0.00,0.00,547930,2024,Pediculosis Pubis
+ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Pediculosis Pubis
+Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Pediculosis Pubis
 Total,1,0.00,0,0.00,0.00,66486458,2019,Pediculosis Pubis
 ZONE:01,0,0.00,0,0.00,0.00,5891985,2019,Pediculosis Pubis
 Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Pediculosis Pubis
@@ -90,6 +181,188 @@ Trang,0,0.00,0,0.00,0.00,643140,2019,Pediculosis Pubis
 Yala,0,0.00,0,0.00,0.00,534328,2019,Pediculosis Pubis
 ZONE:13,1,0.02,0,0.00,0.00,5671457,2019,Pediculosis Pubis
 Bangkok,1,0.02,0,0.00,0.00,5671457,2019,Pediculosis Pubis
+Total,8,0.01,0,0.00,0.00,66130957,2023,Pediculosis Pubis
+ZONE:01,0,0.00,0,0.00,0.00,5869190,2023,Pediculosis Pubis
+Chiang Mai,0,0.00,0,0.00,0.00,1790929,2023,Pediculosis Pubis
+Chiang Rai,0,0.00,0,0.00,0.00,1299030,2023,Pediculosis Pubis
+Lampang,0,0.00,0,0.00,0.00,721734,2023,Pediculosis Pubis
+Lamphun,0,0.00,0,0.00,0.00,400348,2023,Pediculosis Pubis
+Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Pediculosis Pubis
+Nan,0,0.00,0,0.00,0.00,475207,2023,Pediculosis Pubis
+Phayao,0,0.00,0,0.00,0.00,462968,2023,Pediculosis Pubis
+Phrae,0,0.00,0,0.00,0.00,432624,2023,Pediculosis Pubis
+ZONE:02,0,0.00,0,0.00,0.00,3530228,2023,Pediculosis Pubis
+Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Pediculosis Pubis
+Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Pediculosis Pubis
+Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Pediculosis Pubis
+Tak,0,0.00,0,0.00,0.00,680361,2023,Pediculosis Pubis
+Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Pediculosis Pubis
+ZONE:03,0,0.00,0,0.00,0.00,2913905,2023,Pediculosis Pubis
+Chai Nat,0,0.00,0,0.00,0.00,319370,2023,Pediculosis Pubis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Pediculosis Pubis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Pediculosis Pubis
+Phichit,0,0.00,0,0.00,0.00,527669,2023,Pediculosis Pubis
+Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Pediculosis Pubis
+ZONE:04,0,0.00,0,0.00,0.00,5424945,2023,Pediculosis Pubis
+Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Pediculosis Pubis
+Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Pediculosis Pubis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Pediculosis Pubis
+Nonthaburi,0,0.00,0,0.00,0.00,1292276,2023,Pediculosis Pubis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Pediculosis Pubis
+Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Pediculosis Pubis
+Saraburi,0,0.00,0,0.00,0.00,641272,2023,Pediculosis Pubis
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Pediculosis Pubis
+ZONE:05,0,0.00,0,0.00,0.00,5330665,2023,Pediculosis Pubis
+Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Pediculosis Pubis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Pediculosis Pubis
+Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Pediculosis Pubis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553234,2023,Pediculosis Pubis
+Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Pediculosis Pubis
+Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Pediculosis Pubis
+Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Pediculosis Pubis
+Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Pediculosis Pubis
+ZONE:06,0,0.00,0,0.00,0.00,6251747,2023,Pediculosis Pubis
+Chachoengsao,0,0.00,0,0.00,0.00,725433,2023,Pediculosis Pubis
+Chanthaburi,0,0.00,0,0.00,0.00,536351,2023,Pediculosis Pubis
+Chon Buri,0,0.00,0,0.00,0.00,1589214,2023,Pediculosis Pubis
+Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Pediculosis Pubis
+Rayong,0,0.00,0,0.00,0.00,755364,2023,Pediculosis Pubis
+Sa Kaeo,0,0.00,0,0.00,0.00,562404,2023,Pediculosis Pubis
+Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Pediculosis Pubis
+Trat,0,0.00,0,0.00,0.00,228092,2023,Pediculosis Pubis
+ZONE:07,0,0.00,0,0.00,0.00,5001616,2023,Pediculosis Pubis
+Kalasin,0,0.00,0,0.00,0.00,973835,2023,Pediculosis Pubis
+Khon Kaen,0,0.00,0,0.00,0.00,1787752,2023,Pediculosis Pubis
+Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Pediculosis Pubis
+Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Pediculosis Pubis
+ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Pediculosis Pubis
+Bungkan,0,0.00,0,0.00,0.00,421840,2023,Pediculosis Pubis
+Loei,0,0.00,0,0.00,0.00,638037,2023,Pediculosis Pubis
+Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Pediculosis Pubis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Pediculosis Pubis
+Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Pediculosis Pubis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Pediculosis Pubis
+Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Pediculosis Pubis
+ZONE:09,3,0.04,0,0.00,0.00,6705133,2023,Pediculosis Pubis
+Buri Ram,3,0.19,0,0.00,0.00,1578361,2023,Pediculosis Pubis
+Chaiyaphum,0,0.00,0,0.00,0.00,1120095,2023,Pediculosis Pubis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Pediculosis Pubis
+Surin,0,0.00,0,0.00,0.00,1374571,2023,Pediculosis Pubis
+ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Pediculosis Pubis
+Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Pediculosis Pubis
+Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Pediculosis Pubis
+Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Pediculosis Pubis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Pediculosis Pubis
+Yasothon,0,0.00,0,0.00,0.00,532497,2023,Pediculosis Pubis
+ZONE:11,0,0.00,0,0.00,0.00,4489916,2023,Pediculosis Pubis
+Chumphon,0,0.00,0,0.00,0.00,509433,2023,Pediculosis Pubis
+Krabi,0,0.00,0,0.00,0.00,479705,2023,Pediculosis Pubis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Pediculosis Pubis
+Phangnga,0,0.00,0,0.00,0.00,267729,2023,Pediculosis Pubis
+Phuket,0,0.00,0,0.00,0.00,418339,2023,Pediculosis Pubis
+Ranong,0,0.00,0,0.00,0.00,194400,2023,Pediculosis Pubis
+Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Pediculosis Pubis
+ZONE:12,0,0.00,0,0.00,0.00,5004720,2023,Pediculosis Pubis
+Narathiwat,0,0.00,0,0.00,0.00,811891,2023,Pediculosis Pubis
+Pattani,0,0.00,0,0.00,0.00,731269,2023,Pediculosis Pubis
+Phatthalung,0,0.00,0,0.00,0.00,522080,2023,Pediculosis Pubis
+Satun,0,0.00,0,0.00,0.00,325069,2023,Pediculosis Pubis
+Songkhla,0,0.00,0,0.00,0.00,1431300,2023,Pediculosis Pubis
+Trang,0,0.00,0,0.00,0.00,638997,2023,Pediculosis Pubis
+Yala,0,0.00,0,0.00,0.00,544114,2023,Pediculosis Pubis
+ZONE:13,5,0.09,0,0.00,0.00,5511463,2023,Pediculosis Pubis
+Bangkok,5,0.09,0,0.00,0.00,5511463,2023,Pediculosis Pubis
+Total,6,0.01,0,0.00,0.00,66171439,2022,Pediculosis Pubis
+ZONE:01,2,0.03,0,0.00,0.00,5874503,2022,Pediculosis Pubis
+Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Pediculosis Pubis
+Chiang Rai,2,0.15,0,0.00,0.00,1298425,2022,Pediculosis Pubis
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Pediculosis Pubis
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Pediculosis Pubis
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Pediculosis Pubis
+Nan,0,0.00,0,0.00,0.00,475875,2022,Pediculosis Pubis
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Pediculosis Pubis
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Pediculosis Pubis
+ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Pediculosis Pubis
+Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Pediculosis Pubis
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Pediculosis Pubis
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Pediculosis Pubis
+Tak,0,0.00,0,0.00,0.00,676583,2022,Pediculosis Pubis
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Pediculosis Pubis
+ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Pediculosis Pubis
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Pediculosis Pubis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Pediculosis Pubis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Pediculosis Pubis
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Pediculosis Pubis
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Pediculosis Pubis
+ZONE:04,2,0.04,0,0.00,0.00,5422367,2022,Pediculosis Pubis
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Pediculosis Pubis
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Pediculosis Pubis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Pediculosis Pubis
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Pediculosis Pubis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Pediculosis Pubis
+Pathum Thani,2,0.17,0,0.00,0.00,1190060,2022,Pediculosis Pubis
+Saraburi,0,0.00,0,0.00,0.00,643963,2022,Pediculosis Pubis
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Pediculosis Pubis
+ZONE:05,1,0.02,0,0.00,0.00,5333543,2022,Pediculosis Pubis
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Pediculosis Pubis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Pediculosis Pubis
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Pediculosis Pubis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553171,2022,Pediculosis Pubis
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Pediculosis Pubis
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Pediculosis Pubis
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Pediculosis Pubis
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Pediculosis Pubis
+ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Pediculosis Pubis
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Pediculosis Pubis
+Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Pediculosis Pubis
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Pediculosis Pubis
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Pediculosis Pubis
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Pediculosis Pubis
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Pediculosis Pubis
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Pediculosis Pubis
+Trat,0,0.00,0,0.00,0.00,228376,2022,Pediculosis Pubis
+ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Pediculosis Pubis
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Pediculosis Pubis
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Pediculosis Pubis
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Pediculosis Pubis
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Pediculosis Pubis
+ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Pediculosis Pubis
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Pediculosis Pubis
+Loei,0,0.00,0,0.00,0.00,638732,2022,Pediculosis Pubis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Pediculosis Pubis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Pediculosis Pubis
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Pediculosis Pubis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Pediculosis Pubis
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Pediculosis Pubis
+ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Pediculosis Pubis
+Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Pediculosis Pubis
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Pediculosis Pubis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Pediculosis Pubis
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Pediculosis Pubis
+ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Pediculosis Pubis
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Pediculosis Pubis
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Pediculosis Pubis
+Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Pediculosis Pubis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Pediculosis Pubis
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Pediculosis Pubis
+ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Pediculosis Pubis
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Pediculosis Pubis
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Pediculosis Pubis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Pediculosis Pubis
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Pediculosis Pubis
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Pediculosis Pubis
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Pediculosis Pubis
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Pediculosis Pubis
+ZONE:12,0,0.00,0,0.00,0.00,5000255,2022,Pediculosis Pubis
+Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Pediculosis Pubis
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Pediculosis Pubis
+Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Pediculosis Pubis
+Satun,0,0.00,0,0.00,0.00,324835,2022,Pediculosis Pubis
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Pediculosis Pubis
+Trang,0,0.00,0,0.00,0.00,639788,2022,Pediculosis Pubis
+Yala,0,0.00,0,0.00,0.00,542314,2022,Pediculosis Pubis
+ZONE:13,1,0.02,0,0.00,0.00,5527994,2022,Pediculosis Pubis
+Bangkok,1,0.02,0,0.00,0.00,5527994,2022,Pediculosis Pubis
 Total,4,0.01,0,0.00,0.00,66372831,2020,Pediculosis Pubis
 ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Pediculosis Pubis
 Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Pediculosis Pubis
@@ -272,276 +545,3 @@ Trang,0,0.00,0,0.00,0.00,640182,2021,Pediculosis Pubis
 Yala,0,0.00,0,0.00,0.00,540458,2021,Pediculosis Pubis
 ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Pediculosis Pubis
 Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Pediculosis Pubis
-Total,6,0.01,0,0.00,0.00,66171439,2022,Pediculosis Pubis
-ZONE:01,2,0.03,0,0.00,0.00,5874503,2022,Pediculosis Pubis
-Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Pediculosis Pubis
-Chiang Rai,2,0.15,0,0.00,0.00,1298425,2022,Pediculosis Pubis
-Lampang,0,0.00,0,0.00,0.00,724678,2022,Pediculosis Pubis
-Lamphun,0,0.00,0,0.00,0.00,401139,2022,Pediculosis Pubis
-Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Pediculosis Pubis
-Nan,0,0.00,0,0.00,0.00,475875,2022,Pediculosis Pubis
-Phayao,0,0.00,0,0.00,0.00,464505,2022,Pediculosis Pubis
-Phrae,0,0.00,0,0.00,0.00,434580,2022,Pediculosis Pubis
-ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Pediculosis Pubis
-Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Pediculosis Pubis
-Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Pediculosis Pubis
-Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Pediculosis Pubis
-Tak,0,0.00,0,0.00,0.00,676583,2022,Pediculosis Pubis
-Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Pediculosis Pubis
-ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Pediculosis Pubis
-Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Pediculosis Pubis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Pediculosis Pubis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Pediculosis Pubis
-Phichit,0,0.00,0,0.00,0.00,529395,2022,Pediculosis Pubis
-Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Pediculosis Pubis
-ZONE:04,2,0.04,0,0.00,0.00,5422367,2022,Pediculosis Pubis
-Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Pediculosis Pubis
-Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Pediculosis Pubis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Pediculosis Pubis
-Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Pediculosis Pubis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Pediculosis Pubis
-Pathum Thani,2,0.17,0,0.00,0.00,1190060,2022,Pediculosis Pubis
-Saraburi,0,0.00,0,0.00,0.00,643963,2022,Pediculosis Pubis
-Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Pediculosis Pubis
-ZONE:05,1,0.02,0,0.00,0.00,5333543,2022,Pediculosis Pubis
-Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Pediculosis Pubis
-Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Pediculosis Pubis
-Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Pediculosis Pubis
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553171,2022,Pediculosis Pubis
-Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Pediculosis Pubis
-Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Pediculosis Pubis
-Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Pediculosis Pubis
-Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Pediculosis Pubis
-ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Pediculosis Pubis
-Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Pediculosis Pubis
-Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Pediculosis Pubis
-Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Pediculosis Pubis
-Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Pediculosis Pubis
-Rayong,0,0.00,0,0.00,0.00,751343,2022,Pediculosis Pubis
-Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Pediculosis Pubis
-Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Pediculosis Pubis
-Trat,0,0.00,0,0.00,0.00,228376,2022,Pediculosis Pubis
-ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Pediculosis Pubis
-Kalasin,0,0.00,0,0.00,0.00,975570,2022,Pediculosis Pubis
-Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Pediculosis Pubis
-Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Pediculosis Pubis
-Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Pediculosis Pubis
-ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Pediculosis Pubis
-Bungkan,0,0.00,0,0.00,0.00,421995,2022,Pediculosis Pubis
-Loei,0,0.00,0,0.00,0.00,638732,2022,Pediculosis Pubis
-Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Pediculosis Pubis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Pediculosis Pubis
-Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Pediculosis Pubis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Pediculosis Pubis
-Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Pediculosis Pubis
-ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Pediculosis Pubis
-Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Pediculosis Pubis
-Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Pediculosis Pubis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Pediculosis Pubis
-Surin,0,0.00,0,0.00,0.00,1376230,2022,Pediculosis Pubis
-ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Pediculosis Pubis
-Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Pediculosis Pubis
-Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Pediculosis Pubis
-Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Pediculosis Pubis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Pediculosis Pubis
-Yasothon,0,0.00,0,0.00,0.00,533394,2022,Pediculosis Pubis
-ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Pediculosis Pubis
-Chumphon,0,0.00,0,0.00,0.00,509479,2022,Pediculosis Pubis
-Krabi,0,0.00,0,0.00,0.00,479351,2022,Pediculosis Pubis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Pediculosis Pubis
-Phangnga,0,0.00,0,0.00,0.00,268016,2022,Pediculosis Pubis
-Phuket,0,0.00,0,0.00,0.00,418785,2022,Pediculosis Pubis
-Ranong,0,0.00,0,0.00,0.00,194573,2022,Pediculosis Pubis
-Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Pediculosis Pubis
-ZONE:12,0,0.00,0,0.00,0.00,5000255,2022,Pediculosis Pubis
-Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Pediculosis Pubis
-Pattani,0,0.00,0,0.00,0.00,729581,2022,Pediculosis Pubis
-Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Pediculosis Pubis
-Satun,0,0.00,0,0.00,0.00,324835,2022,Pediculosis Pubis
-Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Pediculosis Pubis
-Trang,0,0.00,0,0.00,0.00,639788,2022,Pediculosis Pubis
-Yala,0,0.00,0,0.00,0.00,542314,2022,Pediculosis Pubis
-ZONE:13,1,0.02,0,0.00,0.00,5527994,2022,Pediculosis Pubis
-Bangkok,1,0.02,0,0.00,0.00,5527994,2022,Pediculosis Pubis
-Total,0,0.00,0,0.00,0.00,66071545,2024,Pediculosis Pubis
-ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Pediculosis Pubis
-Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Pediculosis Pubis
-Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Pediculosis Pubis
-Lampang,0,0.00,0,0.00,0.00,715133,2024,Pediculosis Pubis
-Lamphun,0,0.00,0,0.00,0.00,398998,2024,Pediculosis Pubis
-Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Pediculosis Pubis
-Nan,0,0.00,0,0.00,0.00,473630,2024,Pediculosis Pubis
-Phayao,0,0.00,0,0.00,0.00,459858,2024,Pediculosis Pubis
-Phrae,0,0.00,0,0.00,0.00,428499,2024,Pediculosis Pubis
-ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Pediculosis Pubis
-Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Pediculosis Pubis
-Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Pediculosis Pubis
-Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Pediculosis Pubis
-Tak,0,0.00,0,0.00,0.00,687927,2024,Pediculosis Pubis
-Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Pediculosis Pubis
-ZONE:03,0,0.00,0,0.00,0.00,2896463,2024,Pediculosis Pubis
-Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Pediculosis Pubis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Pediculosis Pubis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Pediculosis Pubis
-Phichit,0,0.00,0,0.00,0.00,523925,2024,Pediculosis Pubis
-Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Pediculosis Pubis
-ZONE:04,0,0.00,0,0.00,0.00,5438863,2024,Pediculosis Pubis
-Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Pediculosis Pubis
-Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Pediculosis Pubis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Pediculosis Pubis
-Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Pediculosis Pubis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Pediculosis Pubis
-Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Pediculosis Pubis
-Saraburi,0,0.00,0,0.00,0.00,638704,2024,Pediculosis Pubis
-Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Pediculosis Pubis
-ZONE:05,0,0.00,0,0.00,0.00,5326695,2024,Pediculosis Pubis
-Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Pediculosis Pubis
-Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Pediculosis Pubis
-Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Pediculosis Pubis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Pediculosis Pubis
-Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Pediculosis Pubis
-Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Pediculosis Pubis
-Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Pediculosis Pubis
-Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Pediculosis Pubis
-ZONE:06,0,0.00,0,0.00,0.00,6292163,2024,Pediculosis Pubis
-Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Pediculosis Pubis
-Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,Pediculosis Pubis
-Chon Buri,0,0.00,0,0.00,0.00,1606412,2024,Pediculosis Pubis
-Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Pediculosis Pubis
-Rayong,0,0.00,0,0.00,0.00,765287,2024,Pediculosis Pubis
-Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Pediculosis Pubis
-Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Pediculosis Pubis
-Trat,0,0.00,0,0.00,0.00,227430,2024,Pediculosis Pubis
-ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,Pediculosis Pubis
-Kalasin,0,0.00,0,0.00,0.00,970084,2024,Pediculosis Pubis
-Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Pediculosis Pubis
-Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Pediculosis Pubis
-Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Pediculosis Pubis
-ZONE:08,0,0.00,0,0.00,0.00,5500012,2024,Pediculosis Pubis
-Bungkan,0,0.00,0,0.00,0.00,421086,2024,Pediculosis Pubis
-Loei,0,0.00,0,0.00,0.00,636242,2024,Pediculosis Pubis
-Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Pediculosis Pubis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Pediculosis Pubis
-Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Pediculosis Pubis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Pediculosis Pubis
-Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Pediculosis Pubis
-ZONE:09,0,0.00,0,0.00,0.00,6689028,2024,Pediculosis Pubis
-Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Pediculosis Pubis
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Pediculosis Pubis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Pediculosis Pubis
-Surin,0,0.00,0,0.00,0.00,1370376,2024,Pediculosis Pubis
-ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Pediculosis Pubis
-Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Pediculosis Pubis
-Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Pediculosis Pubis
-Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Pediculosis Pubis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Pediculosis Pubis
-Yasothon,0,0.00,0,0.00,0.00,530239,2024,Pediculosis Pubis
-ZONE:11,0,0.00,0,0.00,0.00,4489783,2024,Pediculosis Pubis
-Chumphon,0,0.00,0,0.00,0.00,509122,2024,Pediculosis Pubis
-Krabi,0,0.00,0,0.00,0.00,481089,2024,Pediculosis Pubis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Pediculosis Pubis
-Phangnga,0,0.00,0,0.00,0.00,267250,2024,Pediculosis Pubis
-Phuket,0,0.00,0,0.00,0.00,420746,2024,Pediculosis Pubis
-Ranong,0,0.00,0,0.00,0.00,193799,2024,Pediculosis Pubis
-Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Pediculosis Pubis
-ZONE:12,0,0.00,0,0.00,0.00,5015209,2024,Pediculosis Pubis
-Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Pediculosis Pubis
-Pattani,0,0.00,0,0.00,0.00,735017,2024,Pediculosis Pubis
-Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Pediculosis Pubis
-Satun,0,0.00,0,0.00,0.00,325387,2024,Pediculosis Pubis
-Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Pediculosis Pubis
-Trang,0,0.00,0,0.00,0.00,637612,2024,Pediculosis Pubis
-Yala,0,0.00,0,0.00,0.00,547930,2024,Pediculosis Pubis
-ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Pediculosis Pubis
-Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Pediculosis Pubis
-Total,8,0.01,0,0.00,0.00,66130957,2023,Pediculosis Pubis
-ZONE:01,0,0.00,0,0.00,0.00,5869190,2023,Pediculosis Pubis
-Chiang Mai,0,0.00,0,0.00,0.00,1790929,2023,Pediculosis Pubis
-Chiang Rai,0,0.00,0,0.00,0.00,1299030,2023,Pediculosis Pubis
-Lampang,0,0.00,0,0.00,0.00,721734,2023,Pediculosis Pubis
-Lamphun,0,0.00,0,0.00,0.00,400348,2023,Pediculosis Pubis
-Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Pediculosis Pubis
-Nan,0,0.00,0,0.00,0.00,475207,2023,Pediculosis Pubis
-Phayao,0,0.00,0,0.00,0.00,462968,2023,Pediculosis Pubis
-Phrae,0,0.00,0,0.00,0.00,432624,2023,Pediculosis Pubis
-ZONE:02,0,0.00,0,0.00,0.00,3530228,2023,Pediculosis Pubis
-Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Pediculosis Pubis
-Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Pediculosis Pubis
-Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Pediculosis Pubis
-Tak,0,0.00,0,0.00,0.00,680361,2023,Pediculosis Pubis
-Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Pediculosis Pubis
-ZONE:03,0,0.00,0,0.00,0.00,2913905,2023,Pediculosis Pubis
-Chai Nat,0,0.00,0,0.00,0.00,319370,2023,Pediculosis Pubis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Pediculosis Pubis
-Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Pediculosis Pubis
-Phichit,0,0.00,0,0.00,0.00,527669,2023,Pediculosis Pubis
-Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Pediculosis Pubis
-ZONE:04,0,0.00,0,0.00,0.00,5424945,2023,Pediculosis Pubis
-Ang Thong,0,0.00,0,0.00,0.00,273675,2023,Pediculosis Pubis
-Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Pediculosis Pubis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Pediculosis Pubis
-Nonthaburi,0,0.00,0,0.00,0.00,1292276,2023,Pediculosis Pubis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Pediculosis Pubis
-Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Pediculosis Pubis
-Saraburi,0,0.00,0,0.00,0.00,641272,2023,Pediculosis Pubis
-Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Pediculosis Pubis
-ZONE:05,0,0.00,0,0.00,0.00,5330665,2023,Pediculosis Pubis
-Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Pediculosis Pubis
-Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Pediculosis Pubis
-Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Pediculosis Pubis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553234,2023,Pediculosis Pubis
-Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Pediculosis Pubis
-Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Pediculosis Pubis
-Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Pediculosis Pubis
-Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Pediculosis Pubis
-ZONE:06,0,0.00,0,0.00,0.00,6251747,2023,Pediculosis Pubis
-Chachoengsao,0,0.00,0,0.00,0.00,725433,2023,Pediculosis Pubis
-Chanthaburi,0,0.00,0,0.00,0.00,536351,2023,Pediculosis Pubis
-Chon Buri,0,0.00,0,0.00,0.00,1589214,2023,Pediculosis Pubis
-Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Pediculosis Pubis
-Rayong,0,0.00,0,0.00,0.00,755364,2023,Pediculosis Pubis
-Sa Kaeo,0,0.00,0,0.00,0.00,562404,2023,Pediculosis Pubis
-Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Pediculosis Pubis
-Trat,0,0.00,0,0.00,0.00,228092,2023,Pediculosis Pubis
-ZONE:07,0,0.00,0,0.00,0.00,5001616,2023,Pediculosis Pubis
-Kalasin,0,0.00,0,0.00,0.00,973835,2023,Pediculosis Pubis
-Khon Kaen,0,0.00,0,0.00,0.00,1787752,2023,Pediculosis Pubis
-Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Pediculosis Pubis
-Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Pediculosis Pubis
-ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Pediculosis Pubis
-Bungkan,0,0.00,0,0.00,0.00,421840,2023,Pediculosis Pubis
-Loei,0,0.00,0,0.00,0.00,638037,2023,Pediculosis Pubis
-Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Pediculosis Pubis
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Pediculosis Pubis
-Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Pediculosis Pubis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Pediculosis Pubis
-Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Pediculosis Pubis
-ZONE:09,3,0.04,0,0.00,0.00,6705133,2023,Pediculosis Pubis
-Buri Ram,3,0.19,0,0.00,0.00,1578361,2023,Pediculosis Pubis
-Chaiyaphum,0,0.00,0,0.00,0.00,1120095,2023,Pediculosis Pubis
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Pediculosis Pubis
-Surin,0,0.00,0,0.00,0.00,1374571,2023,Pediculosis Pubis
-ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Pediculosis Pubis
-Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Pediculosis Pubis
-Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Pediculosis Pubis
-Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Pediculosis Pubis
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Pediculosis Pubis
-Yasothon,0,0.00,0,0.00,0.00,532497,2023,Pediculosis Pubis
-ZONE:11,0,0.00,0,0.00,0.00,4489916,2023,Pediculosis Pubis
-Chumphon,0,0.00,0,0.00,0.00,509433,2023,Pediculosis Pubis
-Krabi,0,0.00,0,0.00,0.00,479705,2023,Pediculosis Pubis
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Pediculosis Pubis
-Phangnga,0,0.00,0,0.00,0.00,267729,2023,Pediculosis Pubis
-Phuket,0,0.00,0,0.00,0.00,418339,2023,Pediculosis Pubis
-Ranong,0,0.00,0,0.00,0.00,194400,2023,Pediculosis Pubis
-Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Pediculosis Pubis
-ZONE:12,0,0.00,0,0.00,0.00,5004720,2023,Pediculosis Pubis
-Narathiwat,0,0.00,0,0.00,0.00,811891,2023,Pediculosis Pubis
-Pattani,0,0.00,0,0.00,0.00,731269,2023,Pediculosis Pubis
-Phatthalung,0,0.00,0,0.00,0.00,522080,2023,Pediculosis Pubis
-Satun,0,0.00,0,0.00,0.00,325069,2023,Pediculosis Pubis
-Songkhla,0,0.00,0,0.00,0.00,1431300,2023,Pediculosis Pubis
-Trang,0,0.00,0,0.00,0.00,638997,2023,Pediculosis Pubis
-Yala,0,0.00,0,0.00,0.00,544114,2023,Pediculosis Pubis
-ZONE:13,5,0.09,0,0.00,0.00,5511463,2023,Pediculosis Pubis
-Bangkok,5,0.09,0,0.00,0.00,5511463,2023,Pediculosis Pubis

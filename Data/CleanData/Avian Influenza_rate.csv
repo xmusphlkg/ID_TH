@@ -1,186 +1,4 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
-Total,0,0.00,0,0.00,0.00,66171439,2022,Avian Influenza
-ZONE:01,0,0.00,0,0.00,0.00,5874503,2022,Avian Influenza
-Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Avian Influenza
-Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Avian Influenza
-Lampang,0,0.00,0,0.00,0.00,724678,2022,Avian Influenza
-Lamphun,0,0.00,0,0.00,0.00,401139,2022,Avian Influenza
-Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Avian Influenza
-Nan,0,0.00,0,0.00,0.00,475875,2022,Avian Influenza
-Phayao,0,0.00,0,0.00,0.00,464505,2022,Avian Influenza
-Phrae,0,0.00,0,0.00,0.00,434580,2022,Avian Influenza
-ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Avian Influenza
-Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Avian Influenza
-Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Avian Influenza
-Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Avian Influenza
-Tak,0,0.00,0,0.00,0.00,676583,2022,Avian Influenza
-Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Avian Influenza
-ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Avian Influenza
-Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Avian Influenza
-Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Avian Influenza
-Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Avian Influenza
-Phichit,0,0.00,0,0.00,0.00,529395,2022,Avian Influenza
-Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Avian Influenza
-ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Avian Influenza
-Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Avian Influenza
-Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Avian Influenza
-Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Avian Influenza
-Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Avian Influenza
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Avian Influenza
-Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Avian Influenza
-Saraburi,0,0.00,0,0.00,0.00,643963,2022,Avian Influenza
-Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Avian Influenza
-ZONE:05,0,0.00,0,0.00,0.00,5333543,2022,Avian Influenza
-Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Avian Influenza
-Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Avian Influenza
-Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Avian Influenza
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Avian Influenza
-Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Avian Influenza
-Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Avian Influenza
-Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Avian Influenza
-Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Avian Influenza
-ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Avian Influenza
-Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Avian Influenza
-Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Avian Influenza
-Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Avian Influenza
-Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Avian Influenza
-Rayong,0,0.00,0,0.00,0.00,751343,2022,Avian Influenza
-Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Avian Influenza
-Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Avian Influenza
-Trat,0,0.00,0,0.00,0.00,228376,2022,Avian Influenza
-ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Avian Influenza
-Kalasin,0,0.00,0,0.00,0.00,975570,2022,Avian Influenza
-Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Avian Influenza
-Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Avian Influenza
-Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Avian Influenza
-ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Avian Influenza
-Bungkan,0,0.00,0,0.00,0.00,421995,2022,Avian Influenza
-Loei,0,0.00,0,0.00,0.00,638732,2022,Avian Influenza
-Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Avian Influenza
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Avian Influenza
-Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Avian Influenza
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Avian Influenza
-Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Avian Influenza
-ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Avian Influenza
-Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Avian Influenza
-Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Avian Influenza
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Avian Influenza
-Surin,0,0.00,0,0.00,0.00,1376230,2022,Avian Influenza
-ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Avian Influenza
-Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Avian Influenza
-Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Avian Influenza
-Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Avian Influenza
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Avian Influenza
-Yasothon,0,0.00,0,0.00,0.00,533394,2022,Avian Influenza
-ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Avian Influenza
-Chumphon,0,0.00,0,0.00,0.00,509479,2022,Avian Influenza
-Krabi,0,0.00,0,0.00,0.00,479351,2022,Avian Influenza
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Avian Influenza
-Phangnga,0,0.00,0,0.00,0.00,268016,2022,Avian Influenza
-Phuket,0,0.00,0,0.00,0.00,418785,2022,Avian Influenza
-Ranong,0,0.00,0,0.00,0.00,194573,2022,Avian Influenza
-Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Avian Influenza
-ZONE:12,0,0.00,0,0.00,0.00,5000255,2022,Avian Influenza
-Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Avian Influenza
-Pattani,0,0.00,0,0.00,0.00,729581,2022,Avian Influenza
-Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Avian Influenza
-Satun,0,0.00,0,0.00,0.00,324835,2022,Avian Influenza
-Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Avian Influenza
-Trang,0,0.00,0,0.00,0.00,639788,2022,Avian Influenza
-Yala,0,0.00,0,0.00,0.00,542314,2022,Avian Influenza
-ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Avian Influenza
-Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Avian Influenza
-Total,0,0.00,0,0.00,0.00,66372831,2020,Avian Influenza
-ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Avian Influenza
-Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Avian Influenza
-Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Avian Influenza
-Lampang,0,0.00,0,0.00,0.00,733640,2020,Avian Influenza
-Lamphun,0,0.00,0,0.00,0.00,403542,2020,Avian Influenza
-Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Avian Influenza
-Nan,0,0.00,0,0.00,0.00,477476,2020,Avian Influenza
-Phayao,0,0.00,0,0.00,0.00,469856,2020,Avian Influenza
-Phrae,0,0.00,0,0.00,0.00,439537,2020,Avian Influenza
-ZONE:02,0,0.00,0,0.00,0.00,3554902,2020,Avian Influenza
-Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Avian Influenza
-Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Avian Influenza
-Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Avian Influenza
-Tak,0,0.00,0,0.00,0.00,667942,2020,Avian Influenza
-Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Avian Influenza
-ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Avian Influenza
-Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Avian Influenza
-Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Avian Influenza
-Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Avian Influenza
-Phichit,0,0.00,0,0.00,0.00,534311,2020,Avian Influenza
-Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Avian Influenza
-ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Avian Influenza
-Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Avian Influenza
-Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Avian Influenza
-Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Avian Influenza
-Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Avian Influenza
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Avian Influenza
-Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Avian Influenza
-Saraburi,0,0.00,0,0.00,0.00,644869,2020,Avian Influenza
-Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Avian Influenza
-ZONE:05,0,0.00,0,0.00,0.00,5342038,2020,Avian Influenza
-Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Avian Influenza
-Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Avian Influenza
-Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Avian Influenza
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Avian Influenza
-Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Avian Influenza
-Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Avian Influenza
-Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Avian Influenza
-Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Avian Influenza
-ZONE:06,0,0.00,0,0.00,0.00,6192990,2020,Avian Influenza
-Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Avian Influenza
-Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Avian Influenza
-Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Avian Influenza
-Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Avian Influenza
-Rayong,0,0.00,0,0.00,0.00,738139,2020,Avian Influenza
-Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Avian Influenza
-Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Avian Influenza
-Trat,0,0.00,0,0.00,0.00,229247,2020,Avian Influenza
-ZONE:07,0,0.00,0,0.00,0.00,5039088,2020,Avian Influenza
-Kalasin,0,0.00,0,0.00,0.00,980297,2020,Avian Influenza
-Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Avian Influenza
-Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Avian Influenza
-Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Avian Influenza
-ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Avian Influenza
-Bungkan,0,0.00,0,0.00,0.00,423067,2020,Avian Influenza
-Loei,0,0.00,0,0.00,0.00,640843,2020,Avian Influenza
-Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Avian Influenza
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Avian Influenza
-Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Avian Influenza
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Avian Influenza
-Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Avian Influenza
-ZONE:09,0,0.00,0,0.00,0.00,6748199,2020,Avian Influenza
-Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Avian Influenza
-Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Avian Influenza
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Avian Influenza
-Surin,0,0.00,0,0.00,0.00,1387526,2020,Avian Influenza
-ZONE:10,0,0.00,0,0.00,0.00,4603401,2020,Avian Influenza
-Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Avian Influenza
-Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Avian Influenza
-Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Avian Influenza
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Avian Influenza
-Yasothon,0,0.00,0,0.00,0.00,535900,2020,Avian Influenza
-ZONE:11,0,0.00,0,0.00,0.00,4489609,2020,Avian Influenza
-Chumphon,0,0.00,0,0.00,0.00,510256,2020,Avian Influenza
-Krabi,0,0.00,0,0.00,0.00,477254,2020,Avian Influenza
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Avian Influenza
-Phangnga,0,0.00,0,0.00,0.00,268509,2020,Avian Influenza
-Phuket,0,0.00,0,0.00,0.00,415527,2020,Avian Influenza
-Ranong,0,0.00,0,0.00,0.00,193871,2020,Avian Influenza
-Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Avian Influenza
-ZONE:12,0,0.00,0,0.00,0.00,4991217,2020,Avian Influenza
-Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Avian Influenza
-Pattani,0,0.00,0,0.00,0.00,725559,2020,Avian Influenza
-Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Avian Influenza
-Satun,0,0.00,0,0.00,0.00,323841,2020,Avian Influenza
-Songkhla,0,0.00,0,0.00,0.00,1432288,2020,Avian Influenza
-Trang,0,0.00,0,0.00,0.00,641868,2020,Avian Influenza
-Yala,0,0.00,0,0.00,0.00,537466,2020,Avian Influenza
-ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Avian Influenza
-Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Avian Influenza
 Total,0,0.00,0,0.00,0.00,66071545,2024,Avian Influenza
 ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Avian Influenza
 Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Avian Influenza
@@ -272,97 +90,6 @@ Trang,0,0.00,0,0.00,0.00,637612,2024,Avian Influenza
 Yala,0,0.00,0,0.00,0.00,547930,2024,Avian Influenza
 ZONE:13,0,0.00,0,0.00,0.00,5483259,2024,Avian Influenza
 Bangkok,0,0.00,0,0.00,0.00,5483259,2024,Avian Influenza
-Total,0,0.00,0,0.00,0.00,66179083,2021,Avian Influenza
-ZONE:01,0,0.00,0,0.00,0.00,5875424,2021,Avian Influenza
-Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Avian Influenza
-Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Avian Influenza
-Lampang,0,0.00,0,0.00,0.00,726821,2021,Avian Influenza
-Lamphun,0,0.00,0,0.00,0.00,401574,2021,Avian Influenza
-Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Avian Influenza
-Nan,0,0.00,0,0.00,0.00,476300,2021,Avian Influenza
-Phayao,0,0.00,0,0.00,0.00,465930,2021,Avian Influenza
-Phrae,0,0.00,0,0.00,0.00,435965,2021,Avian Influenza
-ZONE:02,0,0.00,0,0.00,0.00,3536074,2021,Avian Influenza
-Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Avian Influenza
-Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Avian Influenza
-Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Avian Influenza
-Tak,0,0.00,0,0.00,0.00,673423,2021,Avian Influenza
-Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Avian Influenza
-ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Avian Influenza
-Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Avian Influenza
-Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Avian Influenza
-Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Avian Influenza
-Phichit,0,0.00,0,0.00,0.00,530852,2021,Avian Influenza
-Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Avian Influenza
-ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Avian Influenza
-Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Avian Influenza
-Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Avian Influenza
-Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Avian Influenza
-Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Avian Influenza
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Avian Influenza
-Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Avian Influenza
-Saraburi,0,0.00,0,0.00,0.00,643895,2021,Avian Influenza
-Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Avian Influenza
-ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Avian Influenza
-Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Avian Influenza
-Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Avian Influenza
-Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Avian Influenza
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Avian Influenza
-Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Avian Influenza
-Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Avian Influenza
-Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Avian Influenza
-Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Avian Influenza
-ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Avian Influenza
-Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Avian Influenza
-Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Avian Influenza
-Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Avian Influenza
-Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Avian Influenza
-Rayong,0,0.00,0,0.00,0.00,746433,2021,Avian Influenza
-Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Avian Influenza
-Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Avian Influenza
-Trat,0,0.00,0,0.00,0.00,228456,2021,Avian Influenza
-ZONE:07,0,0.00,0,0.00,0.00,5017381,2021,Avian Influenza
-Kalasin,0,0.00,0,0.00,0.00,976373,2021,Avian Influenza
-Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Avian Influenza
-Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Avian Influenza
-Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Avian Influenza
-ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Avian Influenza
-Bungkan,0,0.00,0,0.00,0.00,422019,2021,Avian Influenza
-Loei,0,0.00,0,0.00,0.00,638734,2021,Avian Influenza
-Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Avian Influenza
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Avian Influenza
-Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Avian Influenza
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Avian Influenza
-Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Avian Influenza
-ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Avian Influenza
-Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Avian Influenza
-Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Avian Influenza
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Avian Influenza
-Surin,0,0.00,0,0.00,0.00,1377226,2021,Avian Influenza
-ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Avian Influenza
-Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Avian Influenza
-Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Avian Influenza
-Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Avian Influenza
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Avian Influenza
-Yasothon,0,0.00,0,0.00,0.00,533948,2021,Avian Influenza
-ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Avian Influenza
-Chumphon,0,0.00,0,0.00,0.00,509344,2021,Avian Influenza
-Krabi,0,0.00,0,0.00,0.00,478561,2021,Avian Influenza
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Avian Influenza
-Phangnga,0,0.00,0,0.00,0.00,268123,2021,Avian Influenza
-Phuket,0,0.00,0,0.00,0.00,416629,2021,Avian Influenza
-Ranong,0,0.00,0,0.00,0.00,194473,2021,Avian Influenza
-Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Avian Influenza
-ZONE:12,0,0.00,0,0.00,0.00,4992834,2021,Avian Influenza
-Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Avian Influenza
-Pattani,0,0.00,0,0.00,0.00,727799,2021,Avian Influenza
-Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Avian Influenza
-Satun,0,0.00,0,0.00,0.00,324467,2021,Avian Influenza
-Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Avian Influenza
-Trang,0,0.00,0,0.00,0.00,640182,2021,Avian Influenza
-Yala,0,0.00,0,0.00,0.00,540458,2021,Avian Influenza
-ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Avian Influenza
-Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Avian Influenza
 Total,0,0.00,0,0.00,0.00,66130957,2023,Avian Influenza
 ZONE:01,0,0.00,0,0.00,0.00,5869190,2023,Avian Influenza
 Chiang Mai,0,0.00,0,0.00,0.00,1790929,2023,Avian Influenza
@@ -454,6 +181,188 @@ Trang,0,0.00,0,0.00,0.00,638997,2023,Avian Influenza
 Yala,0,0.00,0,0.00,0.00,544114,2023,Avian Influenza
 ZONE:13,0,0.00,0,0.00,0.00,5511463,2023,Avian Influenza
 Bangkok,0,0.00,0,0.00,0.00,5511463,2023,Avian Influenza
+Total,0,0.00,0,0.00,0.00,66171439,2022,Avian Influenza
+ZONE:01,0,0.00,0,0.00,0.00,5874503,2022,Avian Influenza
+Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Avian Influenza
+Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Avian Influenza
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Avian Influenza
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Avian Influenza
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Avian Influenza
+Nan,0,0.00,0,0.00,0.00,475875,2022,Avian Influenza
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Avian Influenza
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Avian Influenza
+ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Avian Influenza
+Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Avian Influenza
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Avian Influenza
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Avian Influenza
+Tak,0,0.00,0,0.00,0.00,676583,2022,Avian Influenza
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Avian Influenza
+ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Avian Influenza
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Avian Influenza
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Avian Influenza
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Avian Influenza
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Avian Influenza
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Avian Influenza
+ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Avian Influenza
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Avian Influenza
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Avian Influenza
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Avian Influenza
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Avian Influenza
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Avian Influenza
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Avian Influenza
+Saraburi,0,0.00,0,0.00,0.00,643963,2022,Avian Influenza
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Avian Influenza
+ZONE:05,0,0.00,0,0.00,0.00,5333543,2022,Avian Influenza
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Avian Influenza
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Avian Influenza
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Avian Influenza
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Avian Influenza
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Avian Influenza
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Avian Influenza
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Avian Influenza
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Avian Influenza
+ZONE:06,0,0.00,0,0.00,0.00,6237892,2022,Avian Influenza
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Avian Influenza
+Chanthaburi,0,0.00,0,0.00,0.00,536557,2022,Avian Influenza
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Avian Influenza
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Avian Influenza
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Avian Influenza
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Avian Influenza
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Avian Influenza
+Trat,0,0.00,0,0.00,0.00,228376,2022,Avian Influenza
+ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Avian Influenza
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Avian Influenza
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Avian Influenza
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Avian Influenza
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Avian Influenza
+ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Avian Influenza
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Avian Influenza
+Loei,0,0.00,0,0.00,0.00,638732,2022,Avian Influenza
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Avian Influenza
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Avian Influenza
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Avian Influenza
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Avian Influenza
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Avian Influenza
+ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Avian Influenza
+Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Avian Influenza
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Avian Influenza
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Avian Influenza
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Avian Influenza
+ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Avian Influenza
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Avian Influenza
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Avian Influenza
+Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Avian Influenza
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Avian Influenza
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Avian Influenza
+ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Avian Influenza
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Avian Influenza
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Avian Influenza
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Avian Influenza
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Avian Influenza
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Avian Influenza
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Avian Influenza
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Avian Influenza
+ZONE:12,0,0.00,0,0.00,0.00,5000255,2022,Avian Influenza
+Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Avian Influenza
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Avian Influenza
+Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Avian Influenza
+Satun,0,0.00,0,0.00,0.00,324835,2022,Avian Influenza
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Avian Influenza
+Trang,0,0.00,0,0.00,0.00,639788,2022,Avian Influenza
+Yala,0,0.00,0,0.00,0.00,542314,2022,Avian Influenza
+ZONE:13,0,0.00,0,0.00,0.00,5527994,2022,Avian Influenza
+Bangkok,0,0.00,0,0.00,0.00,5527994,2022,Avian Influenza
+Total,0,0.00,0,0.00,0.00,66179083,2021,Avian Influenza
+ZONE:01,0,0.00,0,0.00,0.00,5875424,2021,Avian Influenza
+Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Avian Influenza
+Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Avian Influenza
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Avian Influenza
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Avian Influenza
+Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Avian Influenza
+Nan,0,0.00,0,0.00,0.00,476300,2021,Avian Influenza
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Avian Influenza
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Avian Influenza
+ZONE:02,0,0.00,0,0.00,0.00,3536074,2021,Avian Influenza
+Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Avian Influenza
+Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Avian Influenza
+Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Avian Influenza
+Tak,0,0.00,0,0.00,0.00,673423,2021,Avian Influenza
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Avian Influenza
+ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Avian Influenza
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Avian Influenza
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Avian Influenza
+Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Avian Influenza
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Avian Influenza
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Avian Influenza
+ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Avian Influenza
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Avian Influenza
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Avian Influenza
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Avian Influenza
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Avian Influenza
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Avian Influenza
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Avian Influenza
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Avian Influenza
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Avian Influenza
+ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Avian Influenza
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Avian Influenza
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Avian Influenza
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Avian Influenza
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Avian Influenza
+Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Avian Influenza
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Avian Influenza
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Avian Influenza
+Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Avian Influenza
+ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Avian Influenza
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Avian Influenza
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Avian Influenza
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Avian Influenza
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Avian Influenza
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Avian Influenza
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Avian Influenza
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Avian Influenza
+Trat,0,0.00,0,0.00,0.00,228456,2021,Avian Influenza
+ZONE:07,0,0.00,0,0.00,0.00,5017381,2021,Avian Influenza
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Avian Influenza
+Khon Kaen,0,0.00,0,0.00,0.00,1792697,2021,Avian Influenza
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Avian Influenza
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Avian Influenza
+ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Avian Influenza
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Avian Influenza
+Loei,0,0.00,0,0.00,0.00,638734,2021,Avian Influenza
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Avian Influenza
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Avian Influenza
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Avian Influenza
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Avian Influenza
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Avian Influenza
+ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Avian Influenza
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Avian Influenza
+Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Avian Influenza
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Avian Influenza
+Surin,0,0.00,0,0.00,0.00,1377226,2021,Avian Influenza
+ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Avian Influenza
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Avian Influenza
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Avian Influenza
+Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Avian Influenza
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Avian Influenza
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Avian Influenza
+ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Avian Influenza
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Avian Influenza
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Avian Influenza
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Avian Influenza
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Avian Influenza
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Avian Influenza
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Avian Influenza
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Avian Influenza
+ZONE:12,0,0.00,0,0.00,0.00,4992834,2021,Avian Influenza
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Avian Influenza
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Avian Influenza
+Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Avian Influenza
+Satun,0,0.00,0,0.00,0.00,324467,2021,Avian Influenza
+Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Avian Influenza
+Trang,0,0.00,0,0.00,0.00,640182,2021,Avian Influenza
+Yala,0,0.00,0,0.00,0.00,540458,2021,Avian Influenza
+ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Avian Influenza
+Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Avian Influenza
 Total,0,0.00,0,0.00,0.00,66486458,2019,Avian Influenza
 ZONE:01,0,0.00,0,0.00,0.00,5891985,2019,Avian Influenza
 Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Avian Influenza
@@ -545,3 +454,94 @@ Trang,0,0.00,0,0.00,0.00,643140,2019,Avian Influenza
 Yala,0,0.00,0,0.00,0.00,534328,2019,Avian Influenza
 ZONE:13,0,0.00,0,0.00,0.00,5671457,2019,Avian Influenza
 Bangkok,0,0.00,0,0.00,0.00,5671457,2019,Avian Influenza
+Total,0,0.00,0,0.00,0.00,66372831,2020,Avian Influenza
+ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Avian Influenza
+Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Avian Influenza
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Avian Influenza
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Avian Influenza
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Avian Influenza
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Avian Influenza
+Nan,0,0.00,0,0.00,0.00,477476,2020,Avian Influenza
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Avian Influenza
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Avian Influenza
+ZONE:02,0,0.00,0,0.00,0.00,3554902,2020,Avian Influenza
+Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Avian Influenza
+Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Avian Influenza
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Avian Influenza
+Tak,0,0.00,0,0.00,0.00,667942,2020,Avian Influenza
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Avian Influenza
+ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Avian Influenza
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Avian Influenza
+Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Avian Influenza
+Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Avian Influenza
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Avian Influenza
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Avian Influenza
+ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Avian Influenza
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Avian Influenza
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Avian Influenza
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Avian Influenza
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Avian Influenza
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Avian Influenza
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Avian Influenza
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Avian Influenza
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Avian Influenza
+ZONE:05,0,0.00,0,0.00,0.00,5342038,2020,Avian Influenza
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Avian Influenza
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Avian Influenza
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Avian Influenza
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Avian Influenza
+Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Avian Influenza
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Avian Influenza
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Avian Influenza
+Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Avian Influenza
+ZONE:06,0,0.00,0,0.00,0.00,6192990,2020,Avian Influenza
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Avian Influenza
+Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Avian Influenza
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Avian Influenza
+Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Avian Influenza
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Avian Influenza
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Avian Influenza
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Avian Influenza
+Trat,0,0.00,0,0.00,0.00,229247,2020,Avian Influenza
+ZONE:07,0,0.00,0,0.00,0.00,5039088,2020,Avian Influenza
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Avian Influenza
+Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Avian Influenza
+Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Avian Influenza
+Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Avian Influenza
+ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Avian Influenza
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Avian Influenza
+Loei,0,0.00,0,0.00,0.00,640843,2020,Avian Influenza
+Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Avian Influenza
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Avian Influenza
+Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Avian Influenza
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Avian Influenza
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Avian Influenza
+ZONE:09,0,0.00,0,0.00,0.00,6748199,2020,Avian Influenza
+Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Avian Influenza
+Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Avian Influenza
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Avian Influenza
+Surin,0,0.00,0,0.00,0.00,1387526,2020,Avian Influenza
+ZONE:10,0,0.00,0,0.00,0.00,4603401,2020,Avian Influenza
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Avian Influenza
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Avian Influenza
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Avian Influenza
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Avian Influenza
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Avian Influenza
+ZONE:11,0,0.00,0,0.00,0.00,4489609,2020,Avian Influenza
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Avian Influenza
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Avian Influenza
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Avian Influenza
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Avian Influenza
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Avian Influenza
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Avian Influenza
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Avian Influenza
+ZONE:12,0,0.00,0,0.00,0.00,4991217,2020,Avian Influenza
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Avian Influenza
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Avian Influenza
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Avian Influenza
+Satun,0,0.00,0,0.00,0.00,323841,2020,Avian Influenza
+Songkhla,0,0.00,0,0.00,0.00,1432288,2020,Avian Influenza
+Trang,0,0.00,0,0.00,0.00,641868,2020,Avian Influenza
+Yala,0,0.00,0,0.00,0.00,537466,2020,Avian Influenza
+ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Avian Influenza
+Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Avian Influenza

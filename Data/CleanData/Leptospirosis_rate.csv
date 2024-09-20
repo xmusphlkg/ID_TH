@@ -1,305 +1,4 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
-Total,3941,6.29,68,1.73,0.11,62623416,2006,Leptospirosis
-North Region,936,7.87,18,1.92,0.15,11887142,2006,Leptospirosis
-Zone:1,766,13.32,14,1.83,0.24,5748673,2006,Leptospirosis
-Chiang Mai,75,4.53,0,0.00,0.00,1654154,2006,Leptospirosis
-Chiang Rai,91,7.43,4,4.40,0.33,1225386,2006,Leptospirosis
-Lampang,85,10.96,0,0.00,0.00,775259,2006,Leptospirosis
-Lamphun,4,0.99,0,0.00,0.00,405146,2006,Leptospirosis
-Mae Hong Son,26,10.22,0,0.00,0.00,254392,2006,Leptospirosis
-Nan,321,67.17,4,1.25,0.84,477871,2006,Leptospirosis
-Phayao,103,21.17,1,0.97,0.21,486554,2006,Leptospirosis
-Phrae,61,12.98,5,8.20,1.06,469911,2006,Leptospirosis
-Zone:2,128,3.71,3,2.34,0.09,3448091,2006,Leptospirosis
-Phetchabun,51,5.09,0,0.00,0.00,1002388,2006,Leptospirosis
-Phitsanulok,23,2.73,0,0.00,0.00,842739,2006,Leptospirosis
-Sukhothai,2,0.33,1,50.00,0.16,609591,2006,Leptospirosis
-Tak,33,6.29,2,6.06,0.38,524938,2006,Leptospirosis
-Uttaradit,19,4.06,0,0.00,0.00,468435,2006,Leptospirosis
-Zone:3,42,1.56,1,2.38,0.04,2690378,2006,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,728293,2006,Leptospirosis
-Nakhon Sawan,21,1.95,1,4.76,0.09,1076911,2006,Leptospirosis
-Phichit,5,0.90,0,0.00,0.00,558314,2006,Leptospirosis
-Uthai Thani,16,4.90,0,0.00,0.00,326860,2006,Leptospirosis
-Central Region,406,1.95,13,3.20,0.06,20825142,2006,Leptospirosis
-Bangkok,8,0.14,0,0.00,0.00,5677455,2006,Leptospirosis
-Zone:4,33,1.15,2,6.06,0.07,2858658,2006,Leptospirosis
-Ang Thong,5,1.76,0,0.00,0.00,283861,2006,Leptospirosis
-Nonthaburi,4,0.41,0,0.00,0.00,985669,2006,Leptospirosis
-P.Nakhon S.Ayutthaya,23,3.06,2,8.70,0.27,750757,2006,Leptospirosis
-Pathum Thani,1,0.12,0,0.00,0.00,838371,2006,Leptospirosis
-Zone:5,113,5.90,1,0.88,0.05,1915186,2006,Leptospirosis
-Chai Nat,31,9.13,0,0.00,0.00,339568,2006,Leptospirosis
-Lop Buri,16,2.13,0,0.00,0.00,752364,2006,Leptospirosis
-Saraburi,49,8.09,0,0.00,0.00,605897,2006,Leptospirosis
-Sing Buri,17,7.82,1,5.88,0.46,217357,2006,Leptospirosis
-Zone:6,18,0.54,1,5.56,0.03,3315213,2006,Leptospirosis
-Kanchanaburi,2,0.24,0,0.00,0.00,830309,2006,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,815433,2006,Leptospirosis
-Ratchaburi,3,0.36,1,33.33,0.12,826212,2006,Leptospirosis
-Suphan Buri,13,1.54,0,0.00,0.00,843259,2006,Leptospirosis
-Zone:7,11,0.69,1,9.09,0.06,1598232,2006,Leptospirosis
-Phetchaburi,2,0.44,1,50.00,0.22,455332,2006,Leptospirosis
-Prachuap Khiri Khan,5,1.02,0,0.00,0.00,490607,2006,Leptospirosis
-Samut Sakhon,1,0.22,0,0.00,0.00,457264,2006,Leptospirosis
-Samut Songkhram,3,1.54,0,0.00,0.00,195029,2006,Leptospirosis
-Zone:8,59,1.98,0,0.00,0.00,2983258,2006,Leptospirosis
-Chachoengsao,5,0.77,0,0.00,0.00,650909,2006,Leptospirosis
-Nakhon Nayok,2,0.80,0,0.00,0.00,250392,2006,Leptospirosis
-Prachin Buri,3,0.66,0,0.00,0.00,451721,2006,Leptospirosis
-Sa Kaeo,43,8.00,0,0.00,0.00,537661,2006,Leptospirosis
-Samut Prakan,6,0.55,0,0.00,0.00,1092575,2006,Leptospirosis
-Zone:9,164,6.62,8,4.88,0.32,2477140,2006,Leptospirosis
-Chanthaburi,117,23.39,7,5.98,1.40,500275,2006,Leptospirosis
-Chon Buri,7,0.59,0,0.00,0.00,1190861,2006,Leptospirosis
-Rayong,37,6.53,1,2.70,0.18,566461,2006,Leptospirosis
-Trat,3,1.37,0,0.00,0.00,219543,2006,Leptospirosis
-North-Eastern Region,2177,10.20,26,1.19,0.12,21352480,2006,Leptospirosis
-Zone:10,386,10.93,0,0.00,0.00,3533061,2006,Leptospirosis
-Loei,113,18.44,0,0.00,0.00,612863,2006,Leptospirosis
-Nong Bua Lam Phu,7,1.41,0,0.00,0.00,496675,2006,Leptospirosis
-Nong Khai,182,20.27,0,0.00,0.00,897840,2006,Leptospirosis
-Udon Thani,84,5.51,0,0.00,0.00,1525683,2006,Leptospirosis
-Zone:11,330,10.61,7,2.12,0.23,3110390,2006,Leptospirosis
-Kalasin,234,24.01,5,2.14,0.51,974560,2006,Leptospirosis
-Mukdahan,7,2.09,0,0.00,0.00,334781,2006,Leptospirosis
-Nakhon Phanom,1,0.14,0,0.00,0.00,694473,2006,Leptospirosis
-Sakon Nakhon,88,7.95,2,2.27,0.18,1106576,2006,Leptospirosis
-Zone:12,469,11.73,7,1.49,0.18,3996666,2006,Leptospirosis
-Khon Kaen,348,19.90,5,1.44,0.29,1749021,2006,Leptospirosis
-Maha Sarakham,42,4.48,2,4.76,0.21,937285,2006,Leptospirosis
-Roi Et,79,6.03,0,0.00,0.00,1310360,2006,Leptospirosis
-Zone:13,461,7.01,7,1.52,0.11,6578271,2006,Leptospirosis
-Buri Ram,120,7.82,2,1.67,0.13,1534076,2006,Leptospirosis
-Chaiyaphum,69,6.17,0,0.00,0.00,1118040,2006,Leptospirosis
-Nakhon Ratchasima,106,4.15,1,0.94,0.04,2551176,2006,Leptospirosis
-Surin,166,12.07,4,2.41,0.29,1374979,2006,Leptospirosis
-Zone:14,531,12.84,5,0.94,0.12,4134092,2006,Leptospirosis
-Amnat Charoen,20,5.42,0,0.00,0.00,368863,2006,Leptospirosis
-Si Sa Ket,328,22.70,5,1.52,0.35,1445230,2006,Leptospirosis
-Ubon Ratchathani,124,6.97,0,0.00,0.00,1778922,2006,Leptospirosis
-Yasothon,59,10.90,0,0.00,0.00,541077,2006,Leptospirosis
-South Region,422,4.93,11,2.61,0.13,8558652,2006,Leptospirosis
-Zone:15,86,5.34,0,0.00,0.00,1610374,2006,Leptospirosis
-Chumphon,26,5.45,0,0.00,0.00,477364,2006,Leptospirosis
-Ranong,52,29.05,0,0.00,0.00,178986,2006,Leptospirosis
-Surat Thani,8,0.84,0,0.00,0.00,954024,2006,Leptospirosis
-Zone:16,123,4.71,7,5.69,0.27,2614100,2006,Leptospirosis
-Nakhon Si Thammarat,47,3.12,4,8.51,0.27,1507440,2006,Leptospirosis
-Phatthalung,9,1.79,0,0.00,0.00,501912,2006,Leptospirosis
-Trang,67,11.08,3,4.48,0.50,604748,2006,Leptospirosis
-Zone:17,62,6.60,1,1.61,0.11,939424,2006,Leptospirosis
-Krabi,9,2.25,0,0.00,0.00,399514,2006,Leptospirosis
-Phangnga,38,15.61,1,2.63,0.41,243419,2006,Leptospirosis
-Phuket,15,5.06,0,0.00,0.00,296491,2006,Leptospirosis
-Zone:18,78,4.32,3,3.85,0.17,1805088,2006,Leptospirosis
-Narathiwat,47,6.68,0,0.00,0.00,703848,2006,Leptospirosis
-Pattani,15,2.36,0,0.00,0.00,635053,2006,Leptospirosis
-Yala,16,3.43,3,18.75,0.64,466187,2006,Leptospirosis
-Zone:19,73,4.59,0,0.00,0.00,1589666,2006,Leptospirosis
-Satun,1,0.36,0,0.00,0.00,279705,2006,Leptospirosis
-Songkhla,72,5.50,0,0.00,0.00,1309961,2006,Leptospirosis
-Total,2868,4.61,40,1.39,0.06,62195878,2005,Leptospirosis
-North Region,540,4.55,12,2.22,0.10,11862916,2005,Leptospirosis
-Zone:1,441,7.70,10,2.27,0.17,5729312,2005,Leptospirosis
-Chiang Mai,53,3.23,2,3.77,0.12,1640390,2005,Leptospirosis
-Chiang Rai,41,3.36,1,2.44,0.08,1219732,2005,Leptospirosis
-Lampang,62,7.97,1,1.61,0.13,777827,2005,Leptospirosis
-Lamphun,4,0.99,0,0.00,0.00,404754,2005,Leptospirosis
-Mae Hong Son,34,13.67,0,0.00,0.00,248672,2005,Leptospirosis
-Nan,85,17.79,0,0.00,0.00,477917,2005,Leptospirosis
-Phayao,126,25.84,4,3.17,0.82,487616,2005,Leptospirosis
-Phrae,36,7.62,2,5.56,0.42,472404,2005,Leptospirosis
-Zone:2,72,2.09,2,2.78,0.06,3442642,2005,Leptospirosis
-Phetchabun,28,2.79,0,0.00,0.00,1001820,2005,Leptospirosis
-Phitsanulok,12,1.43,0,0.00,0.00,841248,2005,Leptospirosis
-Sukhothai,3,0.49,0,0.00,0.00,610871,2005,Leptospirosis
-Tak,7,1.35,1,14.29,0.19,519037,2005,Leptospirosis
-Uttaradit,22,4.68,1,4.55,0.21,469666,2005,Leptospirosis
-Zone:3,27,1.00,0,0.00,0.00,2690962,2005,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,727351,2005,Leptospirosis
-Nakhon Sawan,9,0.84,0,0.00,0.00,1077634,2005,Leptospirosis
-Phichit,1,0.18,0,0.00,0.00,559611,2005,Leptospirosis
-Uthai Thani,17,5.21,0,0.00,0.00,326366,2005,Leptospirosis
-Central Region,145,0.71,3,2.07,0.01,20560399,2005,Leptospirosis
-Bangkok,3,0.05,0,0.00,0.00,5646543,2005,Leptospirosis
-Zone:4,15,0.54,0,0.00,0.00,2777019,2005,Leptospirosis
-Ang Thong,3,1.06,0,0.00,0.00,283373,2005,Leptospirosis
-Nonthaburi,6,0.63,0,0.00,0.00,957287,2005,Leptospirosis
-P.Nakhon S.Ayutthaya,5,0.67,0,0.00,0.00,743659,2005,Leptospirosis
-Pathum Thani,1,0.13,0,0.00,0.00,792700,2005,Leptospirosis
-Zone:5,45,2.36,1,2.22,0.05,1909368,2005,Leptospirosis
-Chai Nat,12,3.52,0,0.00,0.00,340812,2005,Leptospirosis
-Lop Buri,11,1.47,0,0.00,0.00,750718,2005,Leptospirosis
-Saraburi,19,3.17,1,5.26,0.17,598905,2005,Leptospirosis
-Sing Buri,3,1.37,0,0.00,0.00,218933,2005,Leptospirosis
-Zone:6,16,0.49,1,6.25,0.03,3282327,2005,Leptospirosis
-Kanchanaburi,3,0.37,0,0.00,0.00,818218,2005,Leptospirosis
-Nakhon Pathom,2,0.25,0,0.00,0.00,803489,2005,Leptospirosis
-Ratchaburi,3,0.37,0,0.00,0.00,819286,2005,Leptospirosis
-Suphan Buri,8,0.95,1,12.50,0.12,841334,2005,Leptospirosis
-Zone:7,4,0.25,0,0.00,0.00,1578246,2005,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,452506,2005,Leptospirosis
-Prachuap Khiri Khan,4,0.83,0,0.00,0.00,483243,2005,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,447353,2005,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,195144,2005,Leptospirosis
-Zone:8,33,1.12,0,0.00,0.00,2943051,2005,Leptospirosis
-Chachoengsao,3,0.46,0,0.00,0.00,645521,2005,Leptospirosis
-Nakhon Nayok,5,2.00,0,0.00,0.00,249686,2005,Leptospirosis
-Prachin Buri,3,0.67,0,0.00,0.00,447783,2005,Leptospirosis
-Sa Kaeo,21,3.91,0,0.00,0.00,536591,2005,Leptospirosis
-Samut Prakan,1,0.09,0,0.00,0.00,1063470,2005,Leptospirosis
-Zone:9,29,1.20,1,3.45,0.04,2423845,2005,Leptospirosis
-Chanthaburi,19,3.83,0,0.00,0.00,496081,2005,Leptospirosis
-Chon Buri,3,0.26,0,0.00,0.00,1157709,2005,Leptospirosis
-Rayong,7,1.27,1,14.29,0.18,551512,2005,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,218543,2005,Leptospirosis
-North-Eastern Region,1920,9.02,19,0.99,0.09,21297778,2005,Leptospirosis
-Zone:10,462,13.11,1,0.22,0.03,3524138,2005,Leptospirosis
-Loei,119,19.46,0,0.00,0.00,611448,2005,Leptospirosis
-Nong Bua Lam Phu,28,5.65,0,0.00,0.00,495626,2005,Leptospirosis
-Nong Khai,180,20.09,0,0.00,0.00,895911,2005,Leptospirosis
-Udon Thani,135,8.87,1,0.74,0.07,1521153,2005,Leptospirosis
-Zone:11,243,7.84,1,0.41,0.03,3101003,2005,Leptospirosis
-Kalasin,151,15.53,0,0.00,0.00,972425,2005,Leptospirosis
-Mukdahan,15,4.50,0,0.00,0.00,333338,2005,Leptospirosis
-Nakhon Phanom,5,0.72,0,0.00,0.00,692377,2005,Leptospirosis
-Sakon Nakhon,72,6.53,1,1.39,0.09,1102863,2005,Leptospirosis
-Zone:12,413,10.35,7,1.69,0.18,3991075,2005,Leptospirosis
-Khon Kaen,242,13.87,4,1.65,0.23,1744646,2005,Leptospirosis
-Maha Sarakham,36,3.85,2,5.56,0.21,935967,2005,Leptospirosis
-Roi Et,135,10.30,1,0.74,0.08,1310462,2005,Leptospirosis
-Zone:13,399,6.08,6,1.50,0.09,6560991,2005,Leptospirosis
-Buri Ram,83,5.43,0,0.00,0.00,1527846,2005,Leptospirosis
-Chaiyaphum,74,6.62,2,2.70,0.18,1117026,2005,Leptospirosis
-Nakhon Ratchasima,111,4.36,3,2.70,0.12,2543054,2005,Leptospirosis
-Surin,131,9.54,1,0.76,0.07,1373065,2005,Leptospirosis
-Zone:14,403,9.78,4,0.99,0.10,4120571,2005,Leptospirosis
-Amnat Charoen,14,3.80,0,0.00,0.00,368153,2005,Leptospirosis
-Si Sa Ket,240,16.64,2,0.83,0.14,1442190,2005,Leptospirosis
-Ubon Ratchathani,85,4.81,0,0.00,0.00,1768935,2005,Leptospirosis
-Yasothon,64,11.82,2,3.13,0.37,541293,2005,Leptospirosis
-South Region,263,3.10,6,2.28,0.07,8474785,2005,Leptospirosis
-Zone:15,37,2.32,0,0.00,0.00,1593965,2005,Leptospirosis
-Chumphon,21,4.43,0,0.00,0.00,473916,2005,Leptospirosis
-Ranong,8,4.51,0,0.00,0.00,177247,2005,Leptospirosis
-Surat Thani,8,0.85,0,0.00,0.00,942802,2005,Leptospirosis
-Zone:16,70,2.69,5,7.14,0.19,2600847,2005,Leptospirosis
-Nakhon Si Thammarat,30,2.00,4,13.33,0.27,1502382,2005,Leptospirosis
-Phatthalung,7,1.40,0,0.00,0.00,499399,2005,Leptospirosis
-Trang,33,5.51,1,3.03,0.17,599066,2005,Leptospirosis
-Zone:17,42,4.56,0,0.00,0.00,921037,2005,Leptospirosis
-Krabi,2,0.51,0,0.00,0.00,391709,2005,Leptospirosis
-Phangnga,28,11.65,0,0.00,0.00,240254,2005,Leptospirosis
-Phuket,12,4.15,0,0.00,0.00,289074,2005,Leptospirosis
-Zone:18,59,3.29,0,0.00,0.00,1791264,2005,Leptospirosis
-Narathiwat,46,6.60,0,0.00,0.00,697150,2005,Leptospirosis
-Pattani,1,0.16,0,0.00,0.00,632119,2005,Leptospirosis
-Yala,12,2.60,0,0.00,0.00,461995,2005,Leptospirosis
-Zone:19,55,3.51,1,1.82,0.06,1567672,2005,Leptospirosis
-Satun,0,0.00,0,0.00,0.00,275706,2005,Leptospirosis
-Songkhla,55,4.26,1,1.82,0.08,1291966,2005,Leptospirosis
-Total,4261,6.66,70,1.64,0.11,63977185,2011,Leptospirosis
-Central Region,157,0.72,5,3.18,0.02,21679246,2011,Leptospirosis
-Zone:0,19,0.33,0,0.00,0.00,5688119,2011,Leptospirosis
-Bangkok,19,0.33,0,0.00,0.00,5688119,2011,Leptospirosis
-Zone:1,24,0.68,1,4.17,0.03,3514250,2011,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1112185,2011,Leptospirosis
-P.Nakhon S.Ayutthaya,15,1.91,0,0.00,0.00,784875,2011,Leptospirosis
-Pathum Thani,5,0.50,0,0.00,0.00,998271,2011,Leptospirosis
-Saraburi,4,0.65,1,25.00,0.16,618919,2011,Leptospirosis
-Zone:2,19,1.20,2,10.53,0.13,1588727,2011,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,284516,2011,Leptospirosis
-Chai Nat,11,3.29,0,0.00,0.00,334096,2011,Leptospirosis
-Lop Buri,8,1.06,2,25.00,0.26,755991,2011,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,214124,2011,Leptospirosis
-Zone:3,28,0.89,0,0.00,0.00,3137098,2011,Leptospirosis
-Chachoengsao,11,1.63,0,0.00,0.00,676652,2011,Leptospirosis
-Nakhon Nayok,6,2.37,0,0.00,0.00,253283,2011,Leptospirosis
-Prachin Buri,5,1.07,0,0.00,0.00,468113,2011,Leptospirosis
-Sa Kaeo,6,1.10,0,0.00,0.00,544848,2011,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1194202,2011,Leptospirosis
-Zone:4,13,0.38,0,0.00,0.00,3388832,2011,Leptospirosis
-Kanchanaburi,7,0.83,0,0.00,0.00,839345,2011,Leptospirosis
-Nakhon Pathom,1,0.12,0,0.00,0.00,863155,2011,Leptospirosis
-Ratchaburi,1,0.12,0,0.00,0.00,840880,2011,Leptospirosis
-Suphan Buri,4,0.47,0,0.00,0.00,845452,2011,Leptospirosis
-Zone:5,3,0.18,1,33.33,0.06,1665473,2011,Leptospirosis
-Phetchaburi,1,0.22,1,100.00,0.22,465056,2011,Leptospirosis
-Prachuap Khiri Khan,2,0.39,0,0.00,0.00,510852,2011,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,495493,2011,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,194072,2011,Leptospirosis
-Zone:9,51,1.89,1,1.96,0.04,2696747,2011,Leptospirosis
-Chanthaburi,37,7.17,0,0.00,0.00,515736,2011,Leptospirosis
-Chon Buri,4,0.30,0,0.00,0.00,1327475,2011,Leptospirosis
-Rayong,7,1.11,0,0.00,0.00,632069,2011,Leptospirosis
-Trat,3,1.35,1,33.33,0.45,221467,2011,Leptospirosis
-South Region,608,6.81,13,2.14,0.15,8932459,2011,Leptospirosis
-Zone:6,254,7.19,8,3.15,0.23,3531913,2011,Leptospirosis
-Chumphon,8,1.63,0,0.00,0.00,491073,2011,Leptospirosis
-Nakhon Si Thammarat,119,7.81,6,5.04,0.39,1524317,2011,Leptospirosis
-Phatthalung,66,12.93,1,1.52,0.20,510299,2011,Leptospirosis
-Surat Thani,61,6.06,1,1.64,0.10,1006224,2011,Leptospirosis
-Zone:7,181,9.80,1,0.55,0.05,1846999,2011,Leptospirosis
-Krabi,23,5.28,1,4.35,0.23,435372,2011,Leptospirosis
-Phangnga,75,29.53,0,0.00,0.00,254022,2011,Leptospirosis
-Phuket,16,4.58,0,0.00,0.00,349457,2011,Leptospirosis
-Ranong,48,26.16,0,0.00,0.00,183464,2011,Leptospirosis
-Trang,19,3.04,0,0.00,0.00,624684,2011,Leptospirosis
-Zone:8,173,4.87,4,2.31,0.11,3553547,2011,Leptospirosis
-Narathiwat,26,3.50,0,0.00,0.00,742268,2011,Leptospirosis
-Pattani,10,1.52,0,0.00,0.00,659373,2011,Leptospirosis
-Satun,34,11.36,1,2.94,0.33,299315,2011,Leptospirosis
-Songkhla,75,5.51,2,2.67,0.15,1362017,2011,Leptospirosis
-Yala,28,5.71,1,3.57,0.20,490574,2011,Leptospirosis
-North-Eastern Region,2828,13.10,37,1.31,0.17,21579612,2011,Leptospirosis
-Zone:10,448,12.48,1,0.22,0.03,3588872,2011,Leptospirosis
-Bungkan,32,15.70,0,0.00,0.00,203818,2011,Leptospirosis
-Loei,171,27.38,1,0.58,0.16,624493,2011,Leptospirosis
-Nong Bua Lam Phu,167,33.22,0,0.00,0.00,502710,2011,Leptospirosis
-Nong Khai,18,2.53,0,0.00,0.00,711404,2011,Leptospirosis
-Udon Thani,60,3.88,0,0.00,0.00,1546447,2011,Leptospirosis
-Zone:11,39,1.80,0,0.00,0.00,2167288,2011,Leptospirosis
-Mukdahan,12,3.53,0,0.00,0.00,340079,2011,Leptospirosis
-Nakhon Phanom,15,2.13,0,0.00,0.00,704080,2011,Leptospirosis
-Sakon Nakhon,12,1.07,0,0.00,0.00,1123129,2011,Leptospirosis
-Zone:12,696,13.93,5,0.72,0.10,4996659,2011,Leptospirosis
-Kalasin,214,21.79,1,0.47,0.10,982117,2011,Leptospirosis
-Khon Kaen,310,17.55,3,0.97,0.17,1766834,2011,Leptospirosis
-Maha Sarakham,79,8.40,1,1.27,0.11,940324,2011,Leptospirosis
-Roi Et,93,7.11,0,0.00,0.00,1307384,2011,Leptospirosis
-Zone:13,583,13.95,1,0.17,0.02,4178156,2011,Leptospirosis
-Amnat Charoen,33,8.87,0,0.00,0.00,372190,2011,Leptospirosis
-Si Sa Ket,427,29.40,1,0.23,0.07,1452338,2011,Leptospirosis
-Ubon Ratchathani,84,4.63,0,0.00,0.00,1814573,2011,Leptospirosis
-Yasothon,39,7.23,0,0.00,0.00,539055,2011,Leptospirosis
-Zone:14,1062,15.97,30,2.82,0.45,6648637,2011,Leptospirosis
-Buri Ram,430,27.63,0,0.00,0.00,1556426,2011,Leptospirosis
-Chaiyaphum,62,5.50,4,6.45,0.35,1127423,2011,Leptospirosis
-Nakhon Ratchasima,143,5.53,9,6.29,0.35,2583707,2011,Leptospirosis
-Surin,427,30.92,17,3.98,1.23,1381081,2011,Leptospirosis
-North Region,668,5.67,15,2.25,0.13,11785868,2011,Leptospirosis
-Zone:15,205,6.72,6,2.93,0.20,3050706,2011,Leptospirosis
-Chiang Mai,58,3.53,6,10.34,0.37,1643312,2011,Leptospirosis
-Lampang,126,16.58,0,0.00,0.00,759742,2011,Leptospirosis
-Lamphun,1,0.25,0,0.00,0.00,404257,2011,Leptospirosis
-Mae Hong Son,20,8.22,0,0.00,0.00,243395,2011,Leptospirosis
-Zone:16,250,9.54,1,0.40,0.04,2621067,2011,Leptospirosis
-Chiang Rai,82,6.84,0,0.00,0.00,1198438,2011,Leptospirosis
-Nan,101,21.20,1,0.99,0.21,476488,2011,Leptospirosis
-Phayao,27,5.55,0,0.00,0.00,486388,2011,Leptospirosis
-Phrae,40,8.70,0,0.00,0.00,459753,2011,Leptospirosis
-Zone:17,140,4.07,7,5.00,0.20,3435767,2011,Leptospirosis
-Phetchabun,36,3.62,3,8.33,0.30,993420,2011,Leptospirosis
-Phitsanulok,40,4.70,1,2.50,0.12,850525,2011,Leptospirosis
-Sukhothai,12,1.99,2,16.67,0.33,601642,2011,Leptospirosis
-Tak,26,4.92,0,0.00,0.00,528351,2011,Leptospirosis
-Uttaradit,26,5.63,1,3.85,0.22,461829,2011,Leptospirosis
-Zone:18,73,2.73,1,1.37,0.04,2678328,2011,Leptospirosis
-Kamphaeng Phet,15,2.06,1,6.67,0.14,726551,2011,Leptospirosis
-Nakhon Sawan,33,3.08,0,0.00,0.00,1072591,2011,Leptospirosis
-Phichit,17,3.08,0,0.00,0.00,551189,2011,Leptospirosis
-Uthai Thani,8,2.44,0,0.00,0.00,327997,2011,Leptospirosis
 Total,3093,4.83,29,0.94,0.05,64076033,2013,Leptospirosis
 Central Region,122,0.56,0,0.00,0.00,21734984,2013,Leptospirosis
 Zone:0,6,0.11,0,0.00,0.00,5674843,2013,Leptospirosis
@@ -401,97 +100,97 @@ Kamphaeng Phet,6,0.83,0,0.00,0.00,726009,2013,Leptospirosis
 Nakhon Sawan,11,1.03,0,0.00,0.00,1071686,2013,Leptospirosis
 Phichit,3,0.55,0,0.00,0.00,549688,2013,Leptospirosis
 Uthai Thani,8,2.44,0,0.00,0.00,328034,2013,Leptospirosis
-Total,4590,6.94,43,0.94,0.07,66130957,2023,Leptospirosis
-ZONE:01,673,11.47,4,0.59,0.07,5869190,2023,Leptospirosis
-Chiang Mai,77,4.30,0,0.00,0.00,1790929,2023,Leptospirosis
-Chiang Rai,227,17.47,0,0.00,0.00,1299030,2023,Leptospirosis
-Lampang,82,11.36,4,4.88,0.55,721734,2023,Leptospirosis
-Lamphun,6,1.50,0,0.00,0.00,400348,2023,Leptospirosis
-Mae Hong Son,58,20.25,0,0.00,0.00,286350,2023,Leptospirosis
-Nan,178,37.46,0,0.00,0.00,475207,2023,Leptospirosis
-Phayao,25,5.40,0,0.00,0.00,462968,2023,Leptospirosis
-Phrae,20,4.62,0,0.00,0.00,432624,2023,Leptospirosis
-ZONE:02,50,1.42,1,2.00,0.03,3530228,2023,Leptospirosis
-Phetchabun,7,0.72,0,0.00,0.00,975879,2023,Leptospirosis
-Phitsanulok,15,1.77,0,0.00,0.00,845938,2023,Leptospirosis
-Sukhothai,5,0.86,0,0.00,0.00,583502,2023,Leptospirosis
-Tak,14,2.06,1,7.14,0.15,680361,2023,Leptospirosis
-Uttaradit,9,2.02,0,0.00,0.00,444548,2023,Leptospirosis
-ZONE:03,25,0.86,0,0.00,0.00,2913905,2023,Leptospirosis
-Chai Nat,6,1.88,0,0.00,0.00,319370,2023,Leptospirosis
-Kamphaeng Phet,3,0.42,0,0.00,0.00,710458,2023,Leptospirosis
-Nakhon Sawan,4,0.39,0,0.00,0.00,1031921,2023,Leptospirosis
-Phichit,0,0.00,0,0.00,0.00,527669,2023,Leptospirosis
-Uthai Thani,12,3.70,0,0.00,0.00,324487,2023,Leptospirosis
-ZONE:04,14,0.26,0,0.00,0.00,5424945,2023,Leptospirosis
-Ang Thong,1,0.37,0,0.00,0.00,273675,2023,Leptospirosis
-Lop Buri,1,0.14,0,0.00,0.00,737382,2023,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Leptospirosis
-Nonthaburi,4,0.31,0,0.00,0.00,1292276,2023,Leptospirosis
-P.Nakhon S.Ayutthaya,3,0.37,0,0.00,0.00,820464,2023,Leptospirosis
-Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Leptospirosis
-Saraburi,5,0.78,0,0.00,0.00,641272,2023,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Leptospirosis
-ZONE:05,32,0.60,0,0.00,0.00,5330665,2023,Leptospirosis
-Kanchanaburi,10,1.12,0,0.00,0.00,894168,2023,Leptospirosis
-Nakhon Pathom,6,0.65,0,0.00,0.00,922026,2023,Leptospirosis
-Phetchaburi,3,0.62,0,0.00,0.00,482912,2023,Leptospirosis
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553234,2023,Leptospirosis
-Ratchaburi,6,0.69,0,0.00,0.00,867043,2023,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Leptospirosis
-Samut Songkhram,1,0.53,0,0.00,0.00,190147,2023,Leptospirosis
-Suphan Buri,5,0.60,0,0.00,0.00,833027,2023,Leptospirosis
-ZONE:06,154,2.46,0,0.00,0.00,6251747,2023,Leptospirosis
-Chachoengsao,2,0.28,0,0.00,0.00,725433,2023,Leptospirosis
-Chanthaburi,138,25.73,0,0.00,0.00,536351,2023,Leptospirosis
-Chon Buri,4,0.25,0,0.00,0.00,1589214,2023,Leptospirosis
-Prachin Buri,1,0.20,0,0.00,0.00,496551,2023,Leptospirosis
-Rayong,5,0.66,0,0.00,0.00,755364,2023,Leptospirosis
-Sa Kaeo,1,0.18,0,0.00,0.00,562404,2023,Leptospirosis
-Samut Prakan,1,0.07,0,0.00,0.00,1358338,2023,Leptospirosis
-Trat,2,0.88,0,0.00,0.00,228092,2023,Leptospirosis
-ZONE:07,345,6.90,7,2.03,0.14,5001616,2023,Leptospirosis
-Kalasin,76,7.80,2,2.63,0.21,973835,2023,Leptospirosis
-Khon Kaen,52,2.91,0,0.00,0.00,1787752,2023,Leptospirosis
-Maha Sarakham,58,6.13,4,6.90,0.42,946457,2023,Leptospirosis
-Roi Et,159,12.29,1,0.63,0.08,1293572,2023,Leptospirosis
-ZONE:08,111,2.01,1,0.90,0.02,5512222,2023,Leptospirosis
-Bungkan,3,0.71,0,0.00,0.00,421840,2023,Leptospirosis
-Loei,52,8.15,0,0.00,0.00,638037,2023,Leptospirosis
-Nakhon Phanom,5,0.70,1,20.00,0.14,716844,2023,Leptospirosis
-Nong Bua Lam Phu,8,1.57,0,0.00,0.00,508664,2023,Leptospirosis
-Nong Khai,6,1.16,0,0.00,0.00,516320,2023,Leptospirosis
-Sakon Nakhon,14,1.22,0,0.00,0.00,1145737,2023,Leptospirosis
-Udon Thani,23,1.47,0,0.00,0.00,1564780,2023,Leptospirosis
-ZONE:09,157,2.34,1,0.64,0.01,6705133,2023,Leptospirosis
-Buri Ram,26,1.65,0,0.00,0.00,1578361,2023,Leptospirosis
-Chaiyaphum,28,2.50,0,0.00,0.00,1120095,2023,Leptospirosis
-Nakhon Ratchasima,51,1.94,0,0.00,0.00,2632106,2023,Leptospirosis
-Surin,52,3.78,1,1.92,0.07,1374571,2023,Leptospirosis
-ZONE:10,995,21.70,5,0.50,0.11,4585207,2023,Leptospirosis
-Amnat Charoen,22,5.85,0,0.00,0.00,375866,2023,Leptospirosis
-Mukdahan,30,8.53,2,6.67,0.57,351537,2023,Leptospirosis
-Si Sa Ket,646,44.36,1,0.15,0.07,1456144,2023,Leptospirosis
-Ubon Ratchathani,247,13.21,2,0.81,0.11,1869163,2023,Leptospirosis
-Yasothon,50,9.39,0,0.00,0.00,532497,2023,Leptospirosis
-ZONE:11,974,21.69,11,1.13,0.24,4489916,2023,Leptospirosis
-Chumphon,28,5.50,0,0.00,0.00,509433,2023,Leptospirosis
-Krabi,17,3.54,1,5.88,0.21,479705,2023,Leptospirosis
-Nakhon Si Thammarat,505,32.64,8,1.58,0.52,1547246,2023,Leptospirosis
-Phangnga,33,12.33,0,0.00,0.00,267729,2023,Leptospirosis
-Phuket,27,6.45,0,0.00,0.00,418339,2023,Leptospirosis
-Ranong,201,103.40,0,0.00,0.00,194400,2023,Leptospirosis
-Surat Thani,163,15.19,2,1.23,0.19,1073064,2023,Leptospirosis
-ZONE:12,1049,20.96,13,1.24,0.26,5004720,2023,Leptospirosis
-Narathiwat,128,15.77,0,0.00,0.00,811891,2023,Leptospirosis
-Pattani,31,4.24,0,0.00,0.00,731269,2023,Leptospirosis
-Phatthalung,139,26.62,3,2.16,0.57,522080,2023,Leptospirosis
-Satun,71,21.84,0,0.00,0.00,325069,2023,Leptospirosis
-Songkhla,304,21.24,4,1.32,0.28,1431300,2023,Leptospirosis
-Trang,289,45.23,6,2.08,0.94,638997,2023,Leptospirosis
-Yala,87,15.99,0,0.00,0.00,544114,2023,Leptospirosis
-ZONE:13,11,0.20,0,0.00,0.00,5511463,2023,Leptospirosis
-Bangkok,11,0.20,0,0.00,0.00,5511463,2023,Leptospirosis
+Total,2151,3.30,51,2.37,0.08,65124716,2015,Leptospirosis
+ZONE:00,3,0.05,0,0.00,0.00,5692284,2015,Leptospirosis
+Bangkok,3,0.05,0,0.00,0.00,5692284,2015,Leptospirosis
+ZONE:01,151,2.64,3,1.99,0.05,5709443,2015,Leptospirosis
+Chiang Mai,54,3.22,0,0.00,0.00,1678284,2015,Leptospirosis
+Chiang Rai,21,1.74,1,4.76,0.08,1207699,2015,Leptospirosis
+Lampang,14,1.86,0,0.00,0.00,753013,2015,Leptospirosis
+Lamphun,1,0.25,0,0.00,0.00,405468,2015,Leptospirosis
+Mae Hong Son,5,2.01,0,0.00,0.00,248178,2015,Leptospirosis
+Nan,34,7.11,2,5.88,0.42,478264,2015,Leptospirosis
+Phayao,14,2.89,0,0.00,0.00,484454,2015,Leptospirosis
+Phrae,8,1.76,0,0.00,0.00,454083,2015,Leptospirosis
+ZONE:02,47,1.36,2,4.26,0.06,3457208,2015,Leptospirosis
+Phetchabun,2,0.20,1,50.00,0.10,995807,2015,Leptospirosis
+Phitsanulok,15,1.75,0,0.00,0.00,858988,2015,Leptospirosis
+Sukhothai,7,1.16,0,0.00,0.00,602460,2015,Leptospirosis
+Tak,9,1.67,0,0.00,0.00,539553,2015,Leptospirosis
+Uttaradit,14,3.04,1,7.14,0.22,460400,2015,Leptospirosis
+ZONE:03,15,0.50,0,0.00,0.00,3012283,2015,Leptospirosis
+Chai Nat,2,0.60,0,0.00,0.00,332283,2015,Leptospirosis
+Kamphaeng Phet,2,0.27,0,0.00,0.00,729522,2015,Leptospirosis
+Nakhon Sawan,5,0.47,0,0.00,0.00,1072756,2015,Leptospirosis
+Phichit,3,0.55,0,0.00,0.00,547543,2015,Leptospirosis
+Uthai Thani,3,0.91,0,0.00,0.00,330179,2015,Leptospirosis
+ZONE:04,12,0.23,1,8.33,0.02,5196419,2015,Leptospirosis
+Ang Thong,1,0.35,1,100.00,0.35,283568,2015,Leptospirosis
+Lop Buri,1,0.13,0,0.00,0.00,758406,2015,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1173870,2015,Leptospirosis
+P.Nakhon S.Ayutthaya,9,1.12,0,0.00,0.00,803599,2015,Leptospirosis
+Pathum Thani,1,0.09,0,0.00,0.00,1074058,2015,Leptospirosis
+Saraburi,0,0.00,0,0.00,0.00,633460,2015,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Leptospirosis
+ZONE:05,10,0.19,0,0.00,0.00,5166914,2015,Leptospirosis
+Kanchanaburi,3,0.35,0,0.00,0.00,848198,2015,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Leptospirosis
+Prachuap Khiri Khan,1,0.19,0,0.00,0.00,525107,2015,Leptospirosis
+Ratchaburi,4,0.47,0,0.00,0.00,853217,2015,Leptospirosis
+Samut Sakhon,1,0.19,0,0.00,0.00,531887,2015,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Leptospirosis
+Suphan Buri,1,0.12,0,0.00,0.00,849053,2015,Leptospirosis
+ZONE:06,28,0.48,2,7.14,0.03,5836407,2015,Leptospirosis
+Chachoengsao,1,0.14,0,0.00,0.00,695478,2015,Leptospirosis
+Chanthaburi,16,3.03,1,6.25,0.19,527350,2015,Leptospirosis
+Chon Buri,2,0.14,0,0.00,0.00,1421425,2015,Leptospirosis
+Prachin Buri,2,0.42,0,0.00,0.00,479314,2015,Leptospirosis
+Rayong,5,0.74,1,20.00,0.15,674393,2015,Leptospirosis
+Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Leptospirosis
+Samut Prakan,2,0.16,0,0.00,0.00,1261530,2015,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,224730,2015,Leptospirosis
+ZONE:07,411,8.15,5,1.22,0.10,5043862,2015,Leptospirosis
+Kalasin,144,14.62,0,0.00,0.00,984907,2015,Leptospirosis
+Khon Kaen,87,4.86,0,0.00,0.00,1790049,2015,Leptospirosis
+Maha Sarakham,82,8.54,2,2.44,0.21,960588,2015,Leptospirosis
+Roi Et,98,7.49,3,3.06,0.23,1308318,2015,Leptospirosis
+ZONE:08,123,2.24,0,0.00,0.00,5501453,2015,Leptospirosis
+Bungkan,5,1.19,0,0.00,0.00,418566,2015,Leptospirosis
+Loei,86,13.55,0,0.00,0.00,634513,2015,Leptospirosis
+Nakhon Phanom,3,0.42,0,0.00,0.00,713341,2015,Leptospirosis
+Nong Bua Lam Phu,12,2.36,0,0.00,0.00,508864,2015,Leptospirosis
+Nong Khai,7,1.35,0,0.00,0.00,517260,2015,Leptospirosis
+Sakon Nakhon,3,0.26,0,0.00,0.00,1138609,2015,Leptospirosis
+Udon Thani,7,0.45,0,0.00,0.00,1570300,2015,Leptospirosis
+ZONE:09,289,4.30,3,1.04,0.04,6728450,2015,Leptospirosis
+Buri Ram,24,1.52,0,0.00,0.00,1579248,2015,Leptospirosis
+Chaiyaphum,52,4.57,0,0.00,0.00,1137049,2015,Leptospirosis
+Nakhon Ratchasima,47,1.79,2,4.26,0.08,2620517,2015,Leptospirosis
+Surin,166,11.93,1,0.60,0.07,1391636,2015,Leptospirosis
+ZONE:10,514,11.24,20,3.89,0.44,4571489,2015,Leptospirosis
+Amnat Charoen,17,4.53,0,0.00,0.00,375380,2015,Leptospirosis
+Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Leptospirosis
+Si Sa Ket,313,21.36,19,6.07,1.30,1465213,2015,Leptospirosis
+Ubon Ratchathani,148,8.02,0,0.00,0.00,1844669,2015,Leptospirosis
+Yasothon,36,6.66,1,2.78,0.19,540211,2015,Leptospirosis
+ZONE:11,299,6.85,5,1.67,0.11,4362467,2015,Leptospirosis
+Chumphon,3,0.60,0,0.00,0.00,500575,2015,Leptospirosis
+Krabi,21,4.60,0,0.00,0.00,456811,2015,Leptospirosis
+Nakhon Si Thammarat,143,9.24,3,2.10,0.19,1548028,2015,Leptospirosis
+Phangnga,29,11.10,0,0.00,0.00,261370,2015,Leptospirosis
+Phuket,11,2.91,0,0.00,0.00,378364,2015,Leptospirosis
+Ranong,31,17.51,0,0.00,0.00,177089,2015,Leptospirosis
+Surat Thani,61,5.86,2,3.28,0.19,1040230,2015,Leptospirosis
+ZONE:12,249,5.14,10,4.02,0.21,4846037,2015,Leptospirosis
+Narathiwat,25,3.23,1,4.00,0.13,774799,2015,Leptospirosis
+Pattani,17,2.48,0,0.00,0.00,686186,2015,Leptospirosis
+Phatthalung,47,9.03,6,12.77,1.15,520419,2015,Leptospirosis
+Satun,14,4.48,0,0.00,0.00,312673,2015,Leptospirosis
+Songkhla,59,4.21,1,1.69,0.07,1401303,2015,Leptospirosis
+Trang,44,6.89,1,2.27,0.16,638746,2015,Leptospirosis
+Yala,43,8.40,1,2.33,0.20,511911,2015,Leptospirosis
 Total,2876,4.34,36,1.25,0.05,66301242,2018,Leptospirosis
 ZONE:01,234,3.98,0,0.00,0.00,5878537,2018,Leptospirosis
 Chiang Mai,0,0.00,0,0.00,0.00,1755291,2018,Leptospirosis
@@ -583,379 +282,206 @@ Trang,116,18.04,0,0.00,0.00,643093,2018,Leptospirosis
 Yala,88,16.61,2,2.27,0.38,529811,2018,Leptospirosis
 ZONE:13,12,0.21,0,0.00,0.00,5679532,2018,Leptospirosis
 Bangkok,12,0.21,0,0.00,0.00,5679532,2018,Leptospirosis
-Total,1240,1.87,10,0.81,0.02,66179083,2021,Leptospirosis
-ZONE:01,87,1.48,0,0.00,0.00,5875424,2021,Leptospirosis
-Chiang Mai,18,1.01,0,0.00,0.00,1786877,2021,Leptospirosis
-Chiang Rai,31,2.39,0,0.00,0.00,1296725,2021,Leptospirosis
-Lampang,5,0.69,0,0.00,0.00,726821,2021,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,401574,2021,Leptospirosis
-Mae Hong Son,3,1.05,0,0.00,0.00,285232,2021,Leptospirosis
-Nan,23,4.83,0,0.00,0.00,476300,2021,Leptospirosis
-Phayao,5,1.07,0,0.00,0.00,465930,2021,Leptospirosis
-Phrae,2,0.46,0,0.00,0.00,435965,2021,Leptospirosis
-ZONE:02,29,0.82,0,0.00,0.00,3536074,2021,Leptospirosis
-Phetchabun,2,0.20,0,0.00,0.00,980156,2021,Leptospirosis
-Phitsanulok,3,0.35,0,0.00,0.00,848432,2021,Leptospirosis
-Sukhothai,3,0.51,0,0.00,0.00,586617,2021,Leptospirosis
-Tak,17,2.52,0,0.00,0.00,673423,2021,Leptospirosis
-Uttaradit,4,0.89,0,0.00,0.00,447446,2021,Leptospirosis
-ZONE:03,5,0.17,0,0.00,0.00,2928596,2021,Leptospirosis
-Chai Nat,1,0.31,0,0.00,0.00,321454,2021,Leptospirosis
-Kamphaeng Phet,1,0.14,0,0.00,0.00,713130,2021,Leptospirosis
-Nakhon Sawan,2,0.19,0,0.00,0.00,1037668,2021,Leptospirosis
-Phichit,1,0.19,0,0.00,0.00,530852,2021,Leptospirosis
-Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Leptospirosis
-ZONE:04,1,0.02,0,0.00,0.00,5411959,2021,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Leptospirosis
-Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Leptospirosis
-Nonthaburi,1,0.08,0,0.00,0.00,1282690,2021,Leptospirosis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Leptospirosis
-Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Leptospirosis
-Saraburi,0,0.00,0,0.00,0.00,643895,2021,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Leptospirosis
-ZONE:05,4,0.08,0,0.00,0.00,5332653,2021,Leptospirosis
-Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Leptospirosis
-Prachuap Khiri Khan,1,0.18,0,0.00,0.00,551924,2021,Leptospirosis
-Ratchaburi,1,0.12,0,0.00,0.00,868797,2021,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Leptospirosis
-Samut Songkhram,1,0.52,0,0.00,0.00,191447,2021,Leptospirosis
-Suphan Buri,1,0.12,0,0.00,0.00,836993,2021,Leptospirosis
-ZONE:06,85,1.37,2,2.35,0.03,6218594,2021,Leptospirosis
-Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Leptospirosis
-Chanthaburi,80,14.92,2,2.50,0.37,536058,2021,Leptospirosis
-Chon Buri,3,0.19,0,0.00,0.00,1575278,2021,Leptospirosis
-Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Leptospirosis
-Rayong,1,0.13,0,0.00,0.00,746433,2021,Leptospirosis
-Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Leptospirosis
-Samut Prakan,1,0.07,0,0.00,0.00,1353964,2021,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,228456,2021,Leptospirosis
-ZONE:07,63,1.26,0,0.00,0.00,5017381,2021,Leptospirosis
-Kalasin,12,1.23,0,0.00,0.00,976373,2021,Leptospirosis
-Khon Kaen,11,0.61,0,0.00,0.00,1792697,2021,Leptospirosis
-Maha Sarakham,14,1.47,0,0.00,0.00,950985,2021,Leptospirosis
-Roi Et,26,2.00,0,0.00,0.00,1297326,2021,Leptospirosis
-ZONE:08,33,0.60,0,0.00,0.00,5518109,2021,Leptospirosis
-Bungkan,2,0.47,0,0.00,0.00,422019,2021,Leptospirosis
-Loei,20,3.13,0,0.00,0.00,638734,2021,Leptospirosis
-Nakhon Phanom,5,0.70,0,0.00,0.00,717121,2021,Leptospirosis
-Nong Bua Lam Phu,2,0.39,0,0.00,0.00,509236,2021,Leptospirosis
-Nong Khai,3,0.58,0,0.00,0.00,517140,2021,Leptospirosis
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Leptospirosis
-Udon Thani,1,0.06,0,0.00,0.00,1567247,2021,Leptospirosis
-ZONE:09,30,0.45,0,0.00,0.00,6714997,2021,Leptospirosis
-Buri Ram,7,0.44,0,0.00,0.00,1580495,2021,Leptospirosis
-Chaiyaphum,6,0.53,0,0.00,0.00,1123595,2021,Leptospirosis
-Nakhon Ratchasima,8,0.30,0,0.00,0.00,2633681,2021,Leptospirosis
-Surin,9,0.65,0,0.00,0.00,1377226,2021,Leptospirosis
-ZONE:10,106,2.31,0,0.00,0.00,4587095,2021,Leptospirosis
-Amnat Charoen,3,0.80,0,0.00,0.00,376273,2021,Leptospirosis
-Mukdahan,7,1.99,0,0.00,0.00,351198,2021,Leptospirosis
-Si Sa Ket,48,3.29,0,0.00,0.00,1458068,2021,Leptospirosis
-Ubon Ratchathani,33,1.77,0,0.00,0.00,1867608,2021,Leptospirosis
-Yasothon,15,2.81,0,0.00,0.00,533948,2021,Leptospirosis
-ZONE:11,327,7.29,1,0.31,0.02,4487259,2021,Leptospirosis
-Chumphon,5,0.98,0,0.00,0.00,509344,2021,Leptospirosis
-Krabi,11,2.30,0,0.00,0.00,478561,2021,Leptospirosis
-Nakhon Si Thammarat,92,5.94,1,1.09,0.06,1550033,2021,Leptospirosis
-Phangnga,48,17.90,0,0.00,0.00,268123,2021,Leptospirosis
-Phuket,6,1.44,0,0.00,0.00,416629,2021,Leptospirosis
-Ranong,83,42.68,0,0.00,0.00,194473,2021,Leptospirosis
-Surat Thani,82,7.66,0,0.00,0.00,1070096,2021,Leptospirosis
-ZONE:12,470,9.41,7,1.49,0.14,4992834,2021,Leptospirosis
-Narathiwat,14,1.73,0,0.00,0.00,807045,2021,Leptospirosis
-Pattani,6,0.82,0,0.00,0.00,727799,2021,Leptospirosis
-Phatthalung,73,13.96,0,0.00,0.00,522810,2021,Leptospirosis
-Satun,24,7.40,0,0.00,0.00,324467,2021,Leptospirosis
-Songkhla,180,12.59,1,0.56,0.07,1430073,2021,Leptospirosis
-Trang,129,20.15,5,3.88,0.78,640182,2021,Leptospirosis
-Yala,44,8.14,1,2.27,0.19,540458,2021,Leptospirosis
-ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Leptospirosis
-Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Leptospirosis
-Total,2295,3.51,36,1.57,0.06,65426907,2016,Leptospirosis
-ZONE:01,152,2.63,1,0.66,0.02,5781324,2016,Leptospirosis
-Chiang Mai,69,4.05,0,0.00,0.00,1703263,2016,Leptospirosis
-Chiang Rai,35,2.82,0,0.00,0.00,1242825,2016,Leptospirosis
-Lampang,11,1.46,0,0.00,0.00,752685,2016,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,405927,2016,Leptospirosis
-Mae Hong Son,6,2.30,0,0.00,0.00,260971,2016,Leptospirosis
-Nan,17,3.55,1,5.88,0.21,478890,2016,Leptospirosis
-Phayao,10,2.07,0,0.00,0.00,483550,2016,Leptospirosis
-Phrae,4,0.88,0,0.00,0.00,453213,2016,Leptospirosis
-ZONE:02,72,2.06,0,0.00,0.00,3498728,2016,Leptospirosis
-Phetchabun,2,0.20,0,0.00,0.00,996397,2016,Leptospirosis
-Phitsanulok,15,1.74,0,0.00,0.00,861194,2016,Leptospirosis
-Sukhothai,11,1.83,0,0.00,0.00,602085,2016,Leptospirosis
-Tak,7,1.21,0,0.00,0.00,578968,2016,Leptospirosis
-Uttaradit,37,8.04,0,0.00,0.00,460084,2016,Leptospirosis
-ZONE:03,17,0.56,0,0.00,0.00,3011449,2016,Leptospirosis
-Chai Nat,2,0.60,0,0.00,0.00,331968,2016,Leptospirosis
-Kamphaeng Phet,3,0.41,0,0.00,0.00,729839,2016,Leptospirosis
-Nakhon Sawan,9,0.84,0,0.00,0.00,1072349,2016,Leptospirosis
-Phichit,3,0.55,0,0.00,0.00,546750,2016,Leptospirosis
-Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Leptospirosis
-ZONE:04,15,0.29,0,0.00,0.00,5221125,2016,Leptospirosis
-Ang Thong,2,0.71,0,0.00,0.00,283371,2016,Leptospirosis
-Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Leptospirosis
-Nakhon Nayok,1,0.39,0,0.00,0.00,257939,2016,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Leptospirosis
-P.Nakhon S.Ayutthaya,6,0.74,0,0.00,0.00,805980,2016,Leptospirosis
-Pathum Thani,2,0.18,0,0.00,0.00,1084154,2016,Leptospirosis
-Saraburi,4,0.63,0,0.00,0.00,635567,2016,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Leptospirosis
-ZONE:05,5,0.10,0,0.00,0.00,5209561,2016,Leptospirosis
-Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Leptospirosis
-Nakhon Pathom,1,0.11,0,0.00,0.00,895207,2016,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Leptospirosis
-Prachuap Khiri Khan,1,0.19,0,0.00,0.00,529912,2016,Leptospirosis
-Ratchaburi,1,0.12,0,0.00,0.00,860549,2016,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Leptospirosis
-Samut Songkhram,1,0.51,0,0.00,0.00,194283,2016,Leptospirosis
-Suphan Buri,1,0.12,0,0.00,0.00,849376,2016,Leptospirosis
-ZONE:06,24,0.41,2,8.33,0.03,5880124,2016,Leptospirosis
-Chachoengsao,2,0.29,0,0.00,0.00,698190,2016,Leptospirosis
-Chanthaburi,9,1.70,1,11.11,0.19,529194,2016,Leptospirosis
-Chon Buri,5,0.35,0,0.00,0.00,1438231,2016,Leptospirosis
-Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Leptospirosis
-Rayong,4,0.59,0,0.00,0.00,681696,2016,Leptospirosis
-Sa Kaeo,3,0.54,1,33.33,0.18,554555,2016,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Leptospirosis
-Trat,1,0.44,0,0.00,0.00,227083,2016,Leptospirosis
-ZONE:07,346,6.85,2,0.58,0.04,5049920,2016,Leptospirosis
-Kalasin,157,15.94,0,0.00,0.00,985055,2016,Leptospirosis
-Khon Kaen,55,3.07,0,0.00,0.00,1794032,2016,Leptospirosis
-Maha Sarakham,85,8.83,1,1.18,0.10,962592,2016,Leptospirosis
-Roi Et,49,3.75,1,2.04,0.08,1308241,2016,Leptospirosis
-ZONE:08,113,2.05,1,0.88,0.02,5511930,2016,Leptospirosis
-Bungkan,1,0.24,0,0.00,0.00,419607,2016,Leptospirosis
-Loei,73,11.47,1,1.37,0.16,636666,2016,Leptospirosis
-Nakhon Phanom,2,0.28,0,0.00,0.00,714369,2016,Leptospirosis
-Nong Bua Lam Phu,16,3.14,0,0.00,0.00,509469,2016,Leptospirosis
-Nong Khai,8,1.54,0,0.00,0.00,518420,2016,Leptospirosis
-Sakon Nakhon,2,0.18,0,0.00,0.00,1140673,2016,Leptospirosis
-Udon Thani,11,0.70,0,0.00,0.00,1572726,2016,Leptospirosis
-ZONE:09,281,4.17,4,1.42,0.06,6737604,2016,Leptospirosis
-Buri Ram,56,3.54,0,0.00,0.00,1581955,2016,Leptospirosis
-Chaiyaphum,28,2.46,0,0.00,0.00,1137651,2016,Leptospirosis
-Nakhon Ratchasima,37,1.41,0,0.00,0.00,2624668,2016,Leptospirosis
-Surin,160,11.48,4,2.50,0.29,1393330,2016,Leptospirosis
-ZONE:10,549,11.98,8,1.46,0.17,4581192,2016,Leptospirosis
-Amnat Charoen,16,4.26,0,0.00,0.00,375881,2016,Leptospirosis
-Mukdahan,3,0.86,0,0.00,0.00,347059,2016,Leptospirosis
-Si Sa Ket,372,25.36,8,2.15,0.55,1467006,2016,Leptospirosis
-Ubon Ratchathani,120,6.48,0,0.00,0.00,1851049,2016,Leptospirosis
-Yasothon,38,7.03,0,0.00,0.00,540197,2016,Leptospirosis
-ZONE:11,369,8.42,9,2.44,0.21,4383957,2016,Leptospirosis
-Chumphon,2,0.40,0,0.00,0.00,503203,2016,Leptospirosis
-Krabi,19,4.14,0,0.00,0.00,459456,2016,Leptospirosis
-Nakhon Si Thammarat,193,12.45,3,1.55,0.19,1550278,2016,Leptospirosis
-Phangnga,27,10.28,1,3.70,0.38,262721,2016,Leptospirosis
-Phuket,5,1.31,0,0.00,0.00,382485,2016,Leptospirosis
-Ranong,58,31.81,0,0.00,0.00,182313,2016,Leptospirosis
-Surat Thani,65,6.23,5,7.69,0.48,1043501,2016,Leptospirosis
-ZONE:12,345,7.09,8,2.32,0.16,4865646,2016,Leptospirosis
-Narathiwat,27,3.47,0,0.00,0.00,778941,2016,Leptospirosis
-Pattani,6,0.87,0,0.00,0.00,690104,2016,Leptospirosis
-Phatthalung,75,14.38,3,4.00,0.58,521570,2016,Leptospirosis
-Satun,12,3.82,0,0.00,0.00,314297,2016,Leptospirosis
-Songkhla,122,8.68,2,1.64,0.14,1405939,2016,Leptospirosis
-Trang,61,9.53,3,4.92,0.47,639770,2016,Leptospirosis
-Yala,42,8.15,0,0.00,0.00,515025,2016,Leptospirosis
-ZONE:13,7,0.12,1,14.29,0.02,5694347,2016,Leptospirosis
-Bangkok,7,0.12,1,14.29,0.02,5694347,2016,Leptospirosis
-Total,4944,7.76,43,0.87,0.07,63701703,2010,Leptospirosis
-Central Region,201,0.93,7,3.48,0.03,21534318,2010,Leptospirosis
-Zone:0,14,0.25,0,0.00,0.00,5701995,2010,Leptospirosis
-Bangkok,14,0.25,0,0.00,0.00,5701995,2010,Leptospirosis
-Zone:1,41,1.19,1,2.44,0.03,3454591,2010,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1089908,2010,Leptospirosis
-P.Nakhon S.Ayutthaya,31,3.98,1,3.23,0.13,778627,2010,Leptospirosis
-Pathum Thani,0,0.00,0,0.00,0.00,971010,2010,Leptospirosis
-Saraburi,10,1.63,0,0.00,0.00,615046,2010,Leptospirosis
-Zone:2,36,2.26,1,2.78,0.06,1590200,2010,Leptospirosis
-Ang Thong,1,0.35,0,0.00,0.00,284889,2010,Leptospirosis
-Chai Nat,28,8.35,0,0.00,0.00,335177,2010,Leptospirosis
-Lop Buri,7,0.93,1,14.29,0.13,755153,2010,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,214981,2010,Leptospirosis
-Zone:3,25,0.80,0,0.00,0.00,3105799,2010,Leptospirosis
-Chachoengsao,4,0.60,0,0.00,0.00,671458,2010,Leptospirosis
-Nakhon Nayok,4,1.59,0,0.00,0.00,252209,2010,Leptospirosis
-Prachin Buri,3,0.65,0,0.00,0.00,464213,2010,Leptospirosis
-Sa Kaeo,11,2.02,0,0.00,0.00,543276,2010,Leptospirosis
-Samut Prakan,3,0.26,0,0.00,0.00,1174643,2010,Leptospirosis
-Zone:4,21,0.62,0,0.00,0.00,3374810,2010,Leptospirosis
-Kanchanaburi,13,1.55,0,0.00,0.00,836600,2010,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,855837,2010,Leptospirosis
-Ratchaburi,6,0.72,0,0.00,0.00,837153,2010,Leptospirosis
-Suphan Buri,2,0.24,0,0.00,0.00,845220,2010,Leptospirosis
-Zone:5,5,0.30,0,0.00,0.00,1651335,2010,Leptospirosis
-Phetchaburi,1,0.22,0,0.00,0.00,462636,2010,Leptospirosis
-Prachuap Khiri Khan,4,0.79,0,0.00,0.00,506599,2010,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,488247,2010,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,193853,2010,Leptospirosis
-Zone:9,59,2.22,5,8.47,0.19,2655588,2010,Leptospirosis
-Chanthaburi,34,6.63,5,14.71,0.97,512932,2010,Leptospirosis
-Chon Buri,9,0.69,0,0.00,0.00,1302942,2010,Leptospirosis
-Rayong,7,1.13,0,0.00,0.00,619249,2010,Leptospirosis
-Trat,9,4.08,0,0.00,0.00,220465,2010,Leptospirosis
-South Region,943,10.65,7,0.74,0.08,8853473,2010,Leptospirosis
-Zone:6,263,7.48,3,1.14,0.09,3514344,2010,Leptospirosis
-Chumphon,5,1.02,0,0.00,0.00,488855,2010,Leptospirosis
-Nakhon Si Thammarat,138,9.08,3,2.17,0.20,1519531,2010,Leptospirosis
-Phatthalung,51,10.03,0,0.00,0.00,508656,2010,Leptospirosis
-Surat Thani,69,6.92,0,0.00,0.00,997302,2010,Leptospirosis
-Zone:7,233,12.76,2,0.86,0.11,1825591,2010,Leptospirosis
-Krabi,18,4.19,1,5.56,0.23,429631,2010,Leptospirosis
-Phangnga,88,34.87,0,0.00,0.00,252385,2010,Leptospirosis
-Phuket,17,4.99,0,0.00,0.00,340490,2010,Leptospirosis
-Ranong,62,33.99,0,0.00,0.00,182417,2010,Leptospirosis
-Trang,48,7.73,1,2.08,0.16,620668,2010,Leptospirosis
-Zone:8,447,12.72,2,0.45,0.06,3513538,2010,Leptospirosis
-Narathiwat,74,10.10,1,1.35,0.14,732617,2010,Leptospirosis
-Pattani,6,0.92,0,0.00,0.00,651442,2010,Leptospirosis
-Satun,29,9.83,0,0.00,0.00,295133,2010,Leptospirosis
-Songkhla,310,22.95,1,0.32,0.07,1350489,2010,Leptospirosis
-Yala,28,5.79,0,0.00,0.00,483857,2010,Leptospirosis
-North-Eastern Region,3385,15.72,24,0.71,0.11,21534582,2010,Leptospirosis
-Zone:10,266,7.44,2,0.75,0.06,3576272,2010,Leptospirosis
-Loei,104,16.71,2,1.92,0.32,622424,2010,Leptospirosis
-Nong Bua Lam Phu,36,7.17,0,0.00,0.00,501891,2010,Leptospirosis
-Nong Khai,51,5.60,0,0.00,0.00,910094,2010,Leptospirosis
-Udon Thani,75,4.86,0,0.00,0.00,1541863,2010,Leptospirosis
-Zone:11,37,1.71,0,0.00,0.00,2161531,2010,Leptospirosis
-Mukdahan,17,5.02,0,0.00,0.00,338812,2010,Leptospirosis
-Nakhon Phanom,11,1.57,0,0.00,0.00,702041,2010,Leptospirosis
-Sakon Nakhon,9,0.80,0,0.00,0.00,1120678,2010,Leptospirosis
-Zone:12,816,16.34,6,0.74,0.12,4995226,2010,Leptospirosis
-Kalasin,232,23.64,5,2.16,0.51,981369,2010,Leptospirosis
-Khon Kaen,415,23.51,0,0.00,0.00,1764922,2010,Leptospirosis
-Maha Sarakham,52,5.53,1,1.92,0.11,940001,2010,Leptospirosis
-Roi Et,117,8.94,0,0.00,0.00,1308934,2010,Leptospirosis
-Zone:13,738,17.70,0,0.00,0.00,4168498,2010,Leptospirosis
-Amnat Charoen,49,13.19,0,0.00,0.00,371471,2010,Leptospirosis
-Si Sa Ket,521,35.95,0,0.00,0.00,1449409,2010,Leptospirosis
-Ubon Ratchathani,154,8.52,0,0.00,0.00,1808422,2010,Leptospirosis
-Yasothon,14,2.60,0,0.00,0.00,539196,2010,Leptospirosis
-Zone:14,1528,23.04,16,1.05,0.24,6633055,2010,Leptospirosis
-Buri Ram,823,53.09,2,0.24,0.13,1550275,2010,Leptospirosis
-Chaiyaphum,45,4.00,2,4.44,0.18,1126295,2010,Leptospirosis
-Nakhon Ratchasima,148,5.74,8,5.41,0.31,2576691,2010,Leptospirosis
-Surin,512,37.11,4,0.78,0.29,1379794,2010,Leptospirosis
-North Region,415,3.52,5,1.20,0.04,11779330,2010,Leptospirosis
-Zone:15,76,2.49,0,0.00,0.00,3046660,2010,Leptospirosis
-Chiang Mai,31,1.89,0,0.00,0.00,1636514,2010,Leptospirosis
-Lampang,39,5.11,0,0.00,0.00,763224,2010,Leptospirosis
-Lamphun,3,0.74,0,0.00,0.00,404627,2010,Leptospirosis
-Mae Hong Son,3,1.24,0,0.00,0.00,242295,2010,Leptospirosis
-Zone:16,178,6.79,3,1.69,0.11,2620701,2010,Leptospirosis
-Chiang Rai,59,4.93,1,1.69,0.08,1196576,2010,Leptospirosis
-Nan,84,17.65,0,0.00,0.00,475989,2010,Leptospirosis
-Phayao,20,4.11,1,5.00,0.21,486713,2010,Leptospirosis
-Phrae,15,3.25,1,6.67,0.22,461423,2010,Leptospirosis
-Zone:17,107,3.12,0,0.00,0.00,3430959,2010,Leptospirosis
-Phetchabun,37,3.72,0,0.00,0.00,995578,2010,Leptospirosis
-Phitsanulok,47,5.54,0,0.00,0.00,847627,2010,Leptospirosis
-Sukhothai,7,1.16,0,0.00,0.00,602296,2010,Leptospirosis
-Tak,2,0.38,0,0.00,0.00,522673,2010,Leptospirosis
-Uttaradit,14,3.03,0,0.00,0.00,462785,2010,Leptospirosis
-Zone:18,54,2.01,2,3.70,0.07,2681010,2010,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Leptospirosis
-Nakhon Sawan,25,2.33,2,8.00,0.19,1073182,2010,Leptospirosis
-Phichit,16,2.89,0,0.00,0.00,552942,2010,Leptospirosis
-Uthai Thani,13,3.96,0,0.00,0.00,327916,2010,Leptospirosis
-Total,2170,3.26,30,1.38,0.05,66486458,2019,Leptospirosis
-ZONE:01,199,3.38,1,0.50,0.02,5891985,2019,Leptospirosis
-Chiang Mai,11,0.62,0,0.00,0.00,1771499,2019,Leptospirosis
-Chiang Rai,90,6.95,0,0.00,0.00,1295217,2019,Leptospirosis
-Lampang,11,1.49,0,0.00,0.00,740600,2019,Leptospirosis
-Lamphun,3,0.74,1,33.33,0.25,405515,2019,Leptospirosis
-Mae Hong Son,9,3.18,0,0.00,0.00,283352,2019,Leptospirosis
-Nan,29,6.06,0,0.00,0.00,478608,2019,Leptospirosis
-Phayao,39,8.23,0,0.00,0.00,473786,2019,Leptospirosis
-Phrae,7,1.58,0,0.00,0.00,443408,2019,Leptospirosis
-ZONE:02,52,1.46,1,1.92,0.03,3570128,2019,Leptospirosis
-Phetchabun,6,0.60,0,0.00,0.00,993496,2019,Leptospirosis
-Phitsanulok,8,0.92,1,12.50,0.12,866068,2019,Leptospirosis
-Sukhothai,13,2.18,0,0.00,0.00,596165,2019,Leptospirosis
-Tak,11,1.67,0,0.00,0.00,660147,2019,Leptospirosis
-Uttaradit,14,3.08,0,0.00,0.00,454252,2019,Leptospirosis
-ZONE:03,15,0.50,0,0.00,0.00,2983068,2019,Leptospirosis
-Chai Nat,5,1.53,0,0.00,0.00,327437,2019,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Leptospirosis
-Nakhon Sawan,5,0.47,0,0.00,0.00,1061926,2019,Leptospirosis
-Phichit,0,0.00,0,0.00,0.00,537843,2019,Leptospirosis
-Uthai Thani,5,1.52,0,0.00,0.00,329026,2019,Leptospirosis
-ZONE:04,12,0.22,0,0.00,0.00,5381695,2019,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Leptospirosis
-Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Leptospirosis
-Nakhon Nayok,1,0.38,0,0.00,0.00,260421,2019,Leptospirosis
-Nonthaburi,2,0.16,0,0.00,0.00,1255840,2019,Leptospirosis
-P.Nakhon S.Ayutthaya,2,0.24,0,0.00,0.00,818815,2019,Leptospirosis
-Pathum Thani,4,0.35,0,0.00,0.00,1154848,2019,Leptospirosis
-Saraburi,3,0.46,0,0.00,0.00,645468,2019,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Leptospirosis
-ZONE:05,11,0.21,0,0.00,0.00,5344807,2019,Leptospirosis
-Kanchanaburi,1,0.11,0,0.00,0.00,894338,2019,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Leptospirosis
-Prachuap Khiri Khan,2,0.36,0,0.00,0.00,551466,2019,Leptospirosis
-Ratchaburi,5,0.57,0,0.00,0.00,873310,2019,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Leptospirosis
-Samut Songkhram,3,1.55,0,0.00,0.00,193548,2019,Leptospirosis
-Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Leptospirosis
-ZONE:06,45,0.73,0,0.00,0.00,6154601,2019,Leptospirosis
-Chachoengsao,4,0.56,0,0.00,0.00,717561,2019,Leptospirosis
-Chanthaburi,23,4.28,0,0.00,0.00,537097,2019,Leptospirosis
-Chon Buri,1,0.06,0,0.00,0.00,1546873,2019,Leptospirosis
-Prachin Buri,1,0.20,0,0.00,0.00,493159,2019,Leptospirosis
-Rayong,6,0.82,0,0.00,0.00,729035,2019,Leptospirosis
-Sa Kaeo,2,0.35,0,0.00,0.00,565198,2019,Leptospirosis
-Samut Prakan,6,0.45,0,0.00,0.00,1335742,2019,Leptospirosis
-Trat,2,0.87,0,0.00,0.00,229936,2019,Leptospirosis
-ZONE:07,218,4.31,6,2.75,0.12,5057831,2019,Leptospirosis
-Kalasin,76,7.72,4,5.26,0.41,984381,2019,Leptospirosis
-Khon Kaen,49,2.72,0,0.00,0.00,1804384,2019,Leptospirosis
-Maha Sarakham,33,3.43,0,0.00,0.00,962856,2019,Leptospirosis
-Roi Et,60,4.59,2,3.33,0.15,1306210,2019,Leptospirosis
-ZONE:08,106,1.91,0,0.00,0.00,5559986,2019,Leptospirosis
-Bungkan,4,0.94,0,0.00,0.00,424016,2019,Leptospirosis
-Loei,65,10.11,0,0.00,0.00,642862,2019,Leptospirosis
-Nakhon Phanom,4,0.56,0,0.00,0.00,718961,2019,Leptospirosis
-Nong Bua Lam Phu,12,2.34,0,0.00,0.00,512449,2019,Leptospirosis
-Nong Khai,1,0.19,0,0.00,0.00,522207,2019,Leptospirosis
-Sakon Nakhon,9,0.78,0,0.00,0.00,1152835,2019,Leptospirosis
-Udon Thani,11,0.69,0,0.00,0.00,1586656,2019,Leptospirosis
-ZONE:09,188,2.77,1,0.53,0.01,6778372,2019,Leptospirosis
-Buri Ram,39,2.44,0,0.00,0.00,1595299,2019,Leptospirosis
-Chaiyaphum,27,2.37,0,0.00,0.00,1138067,2019,Leptospirosis
-Nakhon Ratchasima,41,1.55,0,0.00,0.00,2647663,2019,Leptospirosis
-Surin,81,5.80,1,1.23,0.07,1397343,2019,Leptospirosis
-ZONE:10,523,11.32,7,1.34,0.15,4618551,2019,Leptospirosis
-Amnat Charoen,26,6.87,0,0.00,0.00,378530,2019,Leptospirosis
-Mukdahan,10,2.84,2,20.00,0.57,352727,2019,Leptospirosis
-Si Sa Ket,257,17.45,5,1.95,0.34,1472934,2019,Leptospirosis
-Ubon Ratchathani,153,8.15,0,0.00,0.00,1876347,2019,Leptospirosis
-Yasothon,77,14.31,0,0.00,0.00,538013,2019,Leptospirosis
-ZONE:11,370,8.24,5,1.35,0.11,4487837,2019,Leptospirosis
-Chumphon,4,0.78,0,0.00,0.00,511134,2019,Leptospirosis
-Krabi,40,8.42,1,2.50,0.21,475239,2019,Leptospirosis
-Nakhon Si Thammarat,114,7.30,3,2.63,0.19,1561179,2019,Leptospirosis
-Phangnga,71,26.44,0,0.00,0.00,268513,2019,Leptospirosis
-Phuket,33,7.98,0,0.00,0.00,413397,2019,Leptospirosis
-Ranong,46,23.88,0,0.00,0.00,192619,2019,Leptospirosis
-Surat Thani,62,5.82,1,1.61,0.09,1065756,2019,Leptospirosis
-ZONE:12,423,8.48,9,2.13,0.18,4986140,2019,Leptospirosis
-Narathiwat,39,4.84,2,5.13,0.25,805248,2019,Leptospirosis
-Pattani,5,0.69,0,0.00,0.00,721591,2019,Leptospirosis
-Phatthalung,49,9.33,1,2.04,0.19,524955,2019,Leptospirosis
-Satun,19,5.89,0,0.00,0.00,322580,2019,Leptospirosis
-Songkhla,126,8.78,0,0.00,0.00,1434298,2019,Leptospirosis
-Trang,98,15.24,3,3.06,0.47,643140,2019,Leptospirosis
-Yala,87,16.28,3,3.45,0.56,534328,2019,Leptospirosis
-ZONE:13,8,0.14,0,0.00,0.00,5671457,2019,Leptospirosis
-Bangkok,8,0.14,0,0.00,0.00,5671457,2019,Leptospirosis
+Total,4261,6.66,70,1.64,0.11,63977185,2011,Leptospirosis
+Central Region,157,0.72,5,3.18,0.02,21679246,2011,Leptospirosis
+Zone:0,19,0.33,0,0.00,0.00,5688119,2011,Leptospirosis
+Bangkok,19,0.33,0,0.00,0.00,5688119,2011,Leptospirosis
+Zone:1,24,0.68,1,4.17,0.03,3514250,2011,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1112185,2011,Leptospirosis
+P.Nakhon S.Ayutthaya,15,1.91,0,0.00,0.00,784875,2011,Leptospirosis
+Pathum Thani,5,0.50,0,0.00,0.00,998271,2011,Leptospirosis
+Saraburi,4,0.65,1,25.00,0.16,618919,2011,Leptospirosis
+Zone:2,19,1.20,2,10.53,0.13,1588727,2011,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,284516,2011,Leptospirosis
+Chai Nat,11,3.29,0,0.00,0.00,334096,2011,Leptospirosis
+Lop Buri,8,1.06,2,25.00,0.26,755991,2011,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,214124,2011,Leptospirosis
+Zone:3,28,0.89,0,0.00,0.00,3137098,2011,Leptospirosis
+Chachoengsao,11,1.63,0,0.00,0.00,676652,2011,Leptospirosis
+Nakhon Nayok,6,2.37,0,0.00,0.00,253283,2011,Leptospirosis
+Prachin Buri,5,1.07,0,0.00,0.00,468113,2011,Leptospirosis
+Sa Kaeo,6,1.10,0,0.00,0.00,544848,2011,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1194202,2011,Leptospirosis
+Zone:4,13,0.38,0,0.00,0.00,3388832,2011,Leptospirosis
+Kanchanaburi,7,0.83,0,0.00,0.00,839345,2011,Leptospirosis
+Nakhon Pathom,1,0.12,0,0.00,0.00,863155,2011,Leptospirosis
+Ratchaburi,1,0.12,0,0.00,0.00,840880,2011,Leptospirosis
+Suphan Buri,4,0.47,0,0.00,0.00,845452,2011,Leptospirosis
+Zone:5,3,0.18,1,33.33,0.06,1665473,2011,Leptospirosis
+Phetchaburi,1,0.22,1,100.00,0.22,465056,2011,Leptospirosis
+Prachuap Khiri Khan,2,0.39,0,0.00,0.00,510852,2011,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,495493,2011,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,194072,2011,Leptospirosis
+Zone:9,51,1.89,1,1.96,0.04,2696747,2011,Leptospirosis
+Chanthaburi,37,7.17,0,0.00,0.00,515736,2011,Leptospirosis
+Chon Buri,4,0.30,0,0.00,0.00,1327475,2011,Leptospirosis
+Rayong,7,1.11,0,0.00,0.00,632069,2011,Leptospirosis
+Trat,3,1.35,1,33.33,0.45,221467,2011,Leptospirosis
+South Region,608,6.81,13,2.14,0.15,8932459,2011,Leptospirosis
+Zone:6,254,7.19,8,3.15,0.23,3531913,2011,Leptospirosis
+Chumphon,8,1.63,0,0.00,0.00,491073,2011,Leptospirosis
+Nakhon Si Thammarat,119,7.81,6,5.04,0.39,1524317,2011,Leptospirosis
+Phatthalung,66,12.93,1,1.52,0.20,510299,2011,Leptospirosis
+Surat Thani,61,6.06,1,1.64,0.10,1006224,2011,Leptospirosis
+Zone:7,181,9.80,1,0.55,0.05,1846999,2011,Leptospirosis
+Krabi,23,5.28,1,4.35,0.23,435372,2011,Leptospirosis
+Phangnga,75,29.53,0,0.00,0.00,254022,2011,Leptospirosis
+Phuket,16,4.58,0,0.00,0.00,349457,2011,Leptospirosis
+Ranong,48,26.16,0,0.00,0.00,183464,2011,Leptospirosis
+Trang,19,3.04,0,0.00,0.00,624684,2011,Leptospirosis
+Zone:8,173,4.87,4,2.31,0.11,3553547,2011,Leptospirosis
+Narathiwat,26,3.50,0,0.00,0.00,742268,2011,Leptospirosis
+Pattani,10,1.52,0,0.00,0.00,659373,2011,Leptospirosis
+Satun,34,11.36,1,2.94,0.33,299315,2011,Leptospirosis
+Songkhla,75,5.51,2,2.67,0.15,1362017,2011,Leptospirosis
+Yala,28,5.71,1,3.57,0.20,490574,2011,Leptospirosis
+North-Eastern Region,2828,13.10,37,1.31,0.17,21579612,2011,Leptospirosis
+Zone:10,448,12.48,1,0.22,0.03,3588872,2011,Leptospirosis
+Bungkan,32,15.70,0,0.00,0.00,203818,2011,Leptospirosis
+Loei,171,27.38,1,0.58,0.16,624493,2011,Leptospirosis
+Nong Bua Lam Phu,167,33.22,0,0.00,0.00,502710,2011,Leptospirosis
+Nong Khai,18,2.53,0,0.00,0.00,711404,2011,Leptospirosis
+Udon Thani,60,3.88,0,0.00,0.00,1546447,2011,Leptospirosis
+Zone:11,39,1.80,0,0.00,0.00,2167288,2011,Leptospirosis
+Mukdahan,12,3.53,0,0.00,0.00,340079,2011,Leptospirosis
+Nakhon Phanom,15,2.13,0,0.00,0.00,704080,2011,Leptospirosis
+Sakon Nakhon,12,1.07,0,0.00,0.00,1123129,2011,Leptospirosis
+Zone:12,696,13.93,5,0.72,0.10,4996659,2011,Leptospirosis
+Kalasin,214,21.79,1,0.47,0.10,982117,2011,Leptospirosis
+Khon Kaen,310,17.55,3,0.97,0.17,1766834,2011,Leptospirosis
+Maha Sarakham,79,8.40,1,1.27,0.11,940324,2011,Leptospirosis
+Roi Et,93,7.11,0,0.00,0.00,1307384,2011,Leptospirosis
+Zone:13,583,13.95,1,0.17,0.02,4178156,2011,Leptospirosis
+Amnat Charoen,33,8.87,0,0.00,0.00,372190,2011,Leptospirosis
+Si Sa Ket,427,29.40,1,0.23,0.07,1452338,2011,Leptospirosis
+Ubon Ratchathani,84,4.63,0,0.00,0.00,1814573,2011,Leptospirosis
+Yasothon,39,7.23,0,0.00,0.00,539055,2011,Leptospirosis
+Zone:14,1062,15.97,30,2.82,0.45,6648637,2011,Leptospirosis
+Buri Ram,430,27.63,0,0.00,0.00,1556426,2011,Leptospirosis
+Chaiyaphum,62,5.50,4,6.45,0.35,1127423,2011,Leptospirosis
+Nakhon Ratchasima,143,5.53,9,6.29,0.35,2583707,2011,Leptospirosis
+Surin,427,30.92,17,3.98,1.23,1381081,2011,Leptospirosis
+North Region,668,5.67,15,2.25,0.13,11785868,2011,Leptospirosis
+Zone:15,205,6.72,6,2.93,0.20,3050706,2011,Leptospirosis
+Chiang Mai,58,3.53,6,10.34,0.37,1643312,2011,Leptospirosis
+Lampang,126,16.58,0,0.00,0.00,759742,2011,Leptospirosis
+Lamphun,1,0.25,0,0.00,0.00,404257,2011,Leptospirosis
+Mae Hong Son,20,8.22,0,0.00,0.00,243395,2011,Leptospirosis
+Zone:16,250,9.54,1,0.40,0.04,2621067,2011,Leptospirosis
+Chiang Rai,82,6.84,0,0.00,0.00,1198438,2011,Leptospirosis
+Nan,101,21.20,1,0.99,0.21,476488,2011,Leptospirosis
+Phayao,27,5.55,0,0.00,0.00,486388,2011,Leptospirosis
+Phrae,40,8.70,0,0.00,0.00,459753,2011,Leptospirosis
+Zone:17,140,4.07,7,5.00,0.20,3435767,2011,Leptospirosis
+Phetchabun,36,3.62,3,8.33,0.30,993420,2011,Leptospirosis
+Phitsanulok,40,4.70,1,2.50,0.12,850525,2011,Leptospirosis
+Sukhothai,12,1.99,2,16.67,0.33,601642,2011,Leptospirosis
+Tak,26,4.92,0,0.00,0.00,528351,2011,Leptospirosis
+Uttaradit,26,5.63,1,3.85,0.22,461829,2011,Leptospirosis
+Zone:18,73,2.73,1,1.37,0.04,2678328,2011,Leptospirosis
+Kamphaeng Phet,15,2.06,1,6.67,0.14,726551,2011,Leptospirosis
+Nakhon Sawan,33,3.08,0,0.00,0.00,1072591,2011,Leptospirosis
+Phichit,17,3.08,0,0.00,0.00,551189,2011,Leptospirosis
+Uthai Thani,8,2.44,0,0.00,0.00,327997,2011,Leptospirosis
+Total,5439,8.57,64,1.18,0.10,63457439,2009,Leptospirosis
+Central Region,219,1.02,7,3.20,0.03,21386001,2009,Leptospirosis
+Bangkok,22,0.39,0,0.00,0.00,5706739,2009,Leptospirosis
+Zone:1,34,1.00,0,0.00,0.00,3397461,2009,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1065332,2009,Leptospirosis
+P.Nakhon S.Ayutthaya,25,3.24,0,0.00,0.00,772142,2009,Leptospirosis
+Pathum Thani,0,0.00,0,0.00,0.00,942813,2009,Leptospirosis
+Saraburi,9,1.46,0,0.00,0.00,617174,2009,Leptospirosis
+Zone:2,34,2.14,2,5.88,0.13,1590058,2009,Leptospirosis
+Ang Thong,3,1.05,0,0.00,0.00,284819,2009,Leptospirosis
+Chai Nat,26,7.75,2,7.69,0.60,335686,2009,Leptospirosis
+Lop Buri,5,0.66,0,0.00,0.00,754127,2009,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,215426,2009,Leptospirosis
+Zone:3,24,0.78,0,0.00,0.00,3076347,2009,Leptospirosis
+Chachoengsao,0,0.00,0,0.00,0.00,666907,2009,Leptospirosis
+Nakhon Nayok,2,0.80,0,0.00,0.00,251219,2009,Leptospirosis
+Prachin Buri,0,0.00,0,0.00,0.00,460617,2009,Leptospirosis
+Sa Kaeo,16,2.95,0,0.00,0.00,541939,2009,Leptospirosis
+Samut Prakan,6,0.52,0,0.00,0.00,1155665,2009,Leptospirosis
+Zone:4,23,0.68,1,4.35,0.03,3364769,2009,Leptospirosis
+Kanchanaburi,19,2.27,1,5.26,0.12,837165,2009,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,847513,2009,Leptospirosis
+Ratchaburi,1,0.12,0,0.00,0.00,835546,2009,Leptospirosis
+Suphan Buri,3,0.36,0,0.00,0.00,844545,2009,Leptospirosis
+Zone:5,5,0.31,0,0.00,0.00,1637557,2009,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,460108,2009,Leptospirosis
+Prachuap Khiri Khan,3,0.60,0,0.00,0.00,502221,2009,Leptospirosis
+Samut Sakhon,1,0.21,0,0.00,0.00,481377,2009,Leptospirosis
+Samut Songkhram,1,0.52,0,0.00,0.00,193851,2009,Leptospirosis
+Zone:9,77,2.95,4,5.19,0.15,2613070,2009,Leptospirosis
+Chanthaburi,63,12.36,4,6.35,0.78,509633,2009,Leptospirosis
+Chon Buri,6,0.47,0,0.00,0.00,1277139,2009,Leptospirosis
+Rayong,4,0.66,0,0.00,0.00,605380,2009,Leptospirosis
+Trat,4,1.81,0,0.00,0.00,220918,2009,Leptospirosis
+South Region,924,10.53,9,0.97,0.10,8777720,2009,Leptospirosis
+Zone:6,294,8.41,1,0.34,0.03,3496373,2009,Leptospirosis
+Chumphon,8,1.65,0,0.00,0.00,486233,2009,Leptospirosis
+Nakhon Si Thammarat,134,8.85,0,0.00,0.00,1514832,2009,Leptospirosis
+Phatthalung,112,22.11,0,0.00,0.00,506454,2009,Leptospirosis
+Surat Thani,40,4.05,1,2.50,0.10,988854,2009,Leptospirosis
+Zone:7,411,22.78,2,0.49,0.11,1803902,2009,Leptospirosis
+Krabi,11,2.60,0,0.00,0.00,422631,2009,Leptospirosis
+Phangnga,100,39.87,0,0.00,0.00,250796,2009,Leptospirosis
+Phuket,26,7.84,1,3.85,0.30,331460,2009,Leptospirosis
+Ranong,227,124.56,1,0.44,0.55,182242,2009,Leptospirosis
+Trang,47,7.62,0,0.00,0.00,616773,2009,Leptospirosis
+Zone:8,219,6.30,6,2.74,0.17,3477445,2009,Leptospirosis
+Narathiwat,63,8.70,0,0.00,0.00,724001,2009,Leptospirosis
+Pattani,20,3.10,1,5.00,0.16,644897,2009,Leptospirosis
+Satun,28,9.63,2,7.14,0.69,290755,2009,Leptospirosis
+Songkhla,87,6.49,0,0.00,0.00,1339861,2009,Leptospirosis
+Yala,21,4.39,3,14.29,0.63,477931,2009,Leptospirosis
+North-Eastern Region,3774,17.58,39,1.03,0.18,21469269,2009,Leptospirosis
+Zone:10,498,13.97,1,0.20,0.03,3564168,2009,Leptospirosis
+Loei,209,33.73,0,0.00,0.00,619602,2009,Leptospirosis
+Nong Bua Lam Phu,18,3.60,0,0.00,0.00,500217,2009,Leptospirosis
+Nong Khai,67,7.39,0,0.00,0.00,907064,2009,Leptospirosis
+Udon Thani,204,13.27,1,0.49,0.07,1537285,2009,Leptospirosis
+Zone:11,117,5.43,0,0.00,0.00,2155042,2009,Leptospirosis
+Mukdahan,36,10.66,0,0.00,0.00,337773,2009,Leptospirosis
+Nakhon Phanom,8,1.14,0,0.00,0.00,700027,2009,Leptospirosis
+Sakon Nakhon,73,6.53,0,0.00,0.00,1117242,2009,Leptospirosis
+Zone:12,826,16.57,22,2.66,0.44,4984201,2009,Leptospirosis
+Kalasin,236,24.10,14,5.93,1.43,979371,2009,Leptospirosis
+Khon Kaen,359,20.41,1,0.28,0.06,1759172,2009,Leptospirosis
+Maha Sarakham,90,9.60,2,2.22,0.21,937972,2009,Leptospirosis
+Roi Et,141,10.78,5,3.55,0.38,1307686,2009,Leptospirosis
+Zone:13,821,19.77,1,0.12,0.02,4152834,2009,Leptospirosis
+Amnat Charoen,30,8.11,0,0.00,0.00,370141,2009,Leptospirosis
+Si Sa Ket,568,39.34,0,0.00,0.00,1443879,2009,Leptospirosis
+Ubon Ratchathani,209,11.61,0,0.00,0.00,1799604,2009,Leptospirosis
+Yasothon,14,2.60,1,7.14,0.19,539210,2009,Leptospirosis
+Zone:14,1512,22.86,15,0.99,0.23,6613024,2009,Leptospirosis
+Buri Ram,671,43.45,3,0.45,0.19,1544218,2009,Leptospirosis
+Chaiyaphum,57,5.07,1,1.75,0.09,1123907,2009,Leptospirosis
+Nakhon Ratchasima,137,5.33,4,2.92,0.16,2568205,2009,Leptospirosis
+Surin,647,47.00,7,1.08,0.51,1376694,2009,Leptospirosis
+North Region,522,4.41,9,1.72,0.08,11824449,2009,Leptospirosis
+Zone:15,88,2.87,4,4.55,0.13,3069670,2009,Leptospirosis
+Chiang Mai,51,3.09,4,7.84,0.24,1651433,2009,Leptospirosis
+Lampang,25,3.26,0,0.00,0.00,766057,2009,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,404910,2009,Leptospirosis
+Mae Hong Son,12,4.85,0,0.00,0.00,247270,2009,Leptospirosis
+Zone:16,243,9.22,2,0.82,0.08,2636963,2009,Leptospirosis
+Chiang Rai,65,5.37,0,0.00,0.00,1211126,2009,Leptospirosis
+Nan,87,18.29,1,1.15,0.21,475799,2009,Leptospirosis
+Phayao,73,14.98,1,1.37,0.21,487254,2009,Leptospirosis
+Phrae,18,3.89,0,0.00,0.00,462784,2009,Leptospirosis
+Zone:17,115,3.35,3,2.61,0.09,3436350,2009,Leptospirosis
+Phetchabun,41,4.12,2,4.88,0.20,995679,2009,Leptospirosis
+Phitsanulok,42,4.97,0,0.00,0.00,844779,2009,Leptospirosis
+Sukhothai,11,1.82,1,9.09,0.17,603316,2009,Leptospirosis
+Tak,3,0.57,0,0.00,0.00,528997,2009,Leptospirosis
+Uttaradit,18,3.88,0,0.00,0.00,463579,2009,Leptospirosis
+Zone:18,76,2.83,0,0.00,0.00,2681466,2009,Leptospirosis
+Kamphaeng Phet,16,2.20,0,0.00,0.00,726530,2009,Leptospirosis
+Nakhon Sawan,30,2.79,0,0.00,0.00,1073554,2009,Leptospirosis
+Phichit,21,3.79,0,0.00,0.00,553653,2009,Leptospirosis
+Uthai Thani,9,2.75,0,0.00,0.00,327729,2009,Leptospirosis
 Total,3686,5.57,49,1.33,0.07,66171439,2022,Leptospirosis
 ZONE:01,710,12.09,0,0.00,0.00,5874503,2022,Leptospirosis
 Chiang Mai,58,3.24,0,0.00,0.00,1789385,2022,Leptospirosis
@@ -1047,6 +573,206 @@ Trang,224,35.01,4,1.79,0.63,639788,2022,Leptospirosis
 Yala,68,12.54,1,1.47,0.18,542314,2022,Leptospirosis
 ZONE:13,9,0.16,1,11.11,0.02,5527994,2022,Leptospirosis
 Bangkok,9,0.16,1,11.11,0.02,5527994,2022,Leptospirosis
+Total,3199,5.12,45,1.41,0.07,62526710,2004,Leptospirosis
+North Region,416,3.48,10,2.40,0.08,11965439,2004,Leptospirosis
+Zone:1,305,5.33,9,2.95,0.16,5720315,2004,Leptospirosis
+Chiang Mai,34,2.10,0,0.00,0.00,1616995,2004,Leptospirosis
+Chiang Rai,50,4.12,4,8.00,0.33,1214659,2004,Leptospirosis
+Lampang,51,6.47,1,1.96,0.13,788071,2004,Leptospirosis
+Lamphun,3,0.74,0,0.00,0.00,406911,2004,Leptospirosis
+Mae Hong Son,11,4.56,0,0.00,0.00,240988,2004,Leptospirosis
+Nan,49,10.21,0,0.00,0.00,479968,2004,Leptospirosis
+Phayao,58,11.72,2,3.45,0.40,494926,2004,Leptospirosis
+Phrae,49,10.26,2,4.08,0.42,477797,2004,Leptospirosis
+Zone:2,98,2.82,1,1.02,0.03,3480797,2004,Leptospirosis
+Phetchabun,37,3.60,0,0.00,0.00,1026733,2004,Leptospirosis
+Phitsanulok,29,3.39,1,3.45,0.12,854440,2004,Leptospirosis
+Sukhothai,3,0.49,0,0.00,0.00,616536,2004,Leptospirosis
+Tak,2,0.39,0,0.00,0.00,507296,2004,Leptospirosis
+Uttaradit,27,5.67,0,0.00,0.00,475792,2004,Leptospirosis
+Zone:3,13,0.47,0,0.00,0.00,2764327,2004,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,750331,2004,Leptospirosis
+Nakhon Sawan,7,0.64,0,0.00,0.00,1102099,2004,Leptospirosis
+Phichit,0,0.00,0,0.00,0.00,579155,2004,Leptospirosis
+Uthai Thani,6,1.80,0,0.00,0.00,332742,2004,Leptospirosis
+Central Region,175,0.85,4,2.29,0.02,20631429,2004,Leptospirosis
+Bangkok,5,0.09,0,0.00,0.00,5739370,2004,Leptospirosis
+Zone:4,14,0.51,1,7.14,0.04,2721016,2004,Leptospirosis
+Ang Thong,5,1.74,1,20.00,0.35,286896,2004,Leptospirosis
+Nonthaburi,3,0.32,0,0.00,0.00,933591,2004,Leptospirosis
+P.Nakhon S.Ayutthaya,3,0.40,0,0.00,0.00,745828,2004,Leptospirosis
+Pathum Thani,3,0.40,0,0.00,0.00,754701,2004,Leptospirosis
+Zone:5,44,2.27,1,2.27,0.05,1936502,2004,Leptospirosis
+Chai Nat,18,5.21,0,0.00,0.00,345355,2004,Leptospirosis
+Lop Buri,6,0.79,0,0.00,0.00,759000,2004,Leptospirosis
+Saraburi,18,2.95,1,5.56,0.16,610722,2004,Leptospirosis
+Sing Buri,2,0.90,0,0.00,0.00,221425,2004,Leptospirosis
+Zone:6,25,0.76,0,0.00,0.00,3287786,2004,Leptospirosis
+Kanchanaburi,8,1.00,0,0.00,0.00,803802,2004,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,805210,2004,Leptospirosis
+Ratchaburi,7,0.85,0,0.00,0.00,824406,2004,Leptospirosis
+Suphan Buri,10,1.17,0,0.00,0.00,854368,2004,Leptospirosis
+Zone:7,2,0.13,0,0.00,0.00,1587519,2004,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,456384,2004,Leptospirosis
+Prachuap Khiri Khan,2,0.41,0,0.00,0.00,486084,2004,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,445443,2004,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,199608,2004,Leptospirosis
+Zone:8,36,1.23,1,2.78,0.03,2934598,2004,Leptospirosis
+Chachoengsao,3,0.46,0,0.00,0.00,647967,2004,Leptospirosis
+Nakhon Nayok,6,2.40,0,0.00,0.00,250235,2004,Leptospirosis
+Prachin Buri,7,1.56,1,14.29,0.22,449940,2004,Leptospirosis
+Sa Kaeo,20,3.71,0,0.00,0.00,538823,2004,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Leptospirosis
+Zone:9,49,2.02,1,2.04,0.04,2424638,2004,Leptospirosis
+Chanthaburi,34,6.76,1,2.94,0.20,502794,2004,Leptospirosis
+Chon Buri,2,0.17,0,0.00,0.00,1150048,2004,Leptospirosis
+Rayong,13,2.36,0,0.00,0.00,550310,2004,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,221486,2004,Leptospirosis
+North-Eastern Region,2421,11.28,29,1.20,0.14,21463567,2004,Leptospirosis
+Zone:10,392,11.04,3,0.77,0.08,3549364,2004,Leptospirosis
+Loei,177,28.67,1,0.56,0.16,617280,2004,Leptospirosis
+Nong Bua Lam Phu,56,11.26,0,0.00,0.00,497298,2004,Leptospirosis
+Nong Khai,80,8.84,0,0.00,0.00,904499,2004,Leptospirosis
+Udon Thani,79,5.16,2,2.53,0.13,1530287,2004,Leptospirosis
+Zone:11,453,14.49,6,1.32,0.19,3127236,2004,Leptospirosis
+Kalasin,376,38.25,4,1.06,0.41,982947,2004,Leptospirosis
+Mukdahan,32,9.53,0,0.00,0.00,335819,2004,Leptospirosis
+Nakhon Phanom,5,0.71,0,0.00,0.00,700800,2004,Leptospirosis
+Sakon Nakhon,40,3.61,2,5.00,0.18,1107670,2004,Leptospirosis
+Zone:12,405,10.09,4,0.99,0.10,4012215,2004,Leptospirosis
+Khon Kaen,210,11.96,3,1.43,0.17,1756177,2004,Leptospirosis
+Maha Sarakham,57,6.07,0,0.00,0.00,939718,2004,Leptospirosis
+Roi Et,138,10.48,1,0.72,0.08,1316320,2004,Leptospirosis
+Zone:13,801,12.10,8,1.00,0.12,6621384,2004,Leptospirosis
+Buri Ram,214,13.90,0,0.00,0.00,1539135,2004,Leptospirosis
+Chaiyaphum,53,4.70,0,0.00,0.00,1128031,2004,Leptospirosis
+Nakhon Ratchasima,160,6.24,3,1.88,0.12,2565197,2004,Leptospirosis
+Surin,374,26.93,5,1.34,0.36,1389021,2004,Leptospirosis
+Zone:14,370,8.91,8,2.16,0.19,4153368,2004,Leptospirosis
+Amnat Charoen,27,7.32,0,0.00,0.00,369071,2004,Leptospirosis
+Si Sa Ket,148,10.19,8,5.41,0.55,1452971,2004,Leptospirosis
+Ubon Ratchathani,116,6.50,0,0.00,0.00,1784192,2004,Leptospirosis
+Yasothon,79,14.44,0,0.00,0.00,547134,2004,Leptospirosis
+South Region,187,2.21,2,1.07,0.02,8466275,2004,Leptospirosis
+Zone:15,39,2.47,1,2.56,0.06,1581379,2004,Leptospirosis
+Chumphon,19,4.00,0,0.00,0.00,474592,2004,Leptospirosis
+Ranong,9,5.30,1,11.11,0.59,169904,2004,Leptospirosis
+Surat Thani,11,1.17,0,0.00,0.00,936883,2004,Leptospirosis
+Zone:16,87,3.32,1,1.15,0.04,2619221,2004,Leptospirosis
+Nakhon Si Thammarat,32,2.11,1,3.13,0.07,1515708,2004,Leptospirosis
+Phatthalung,9,1.79,0,0.00,0.00,501447,2004,Leptospirosis
+Trang,46,7.64,0,0.00,0.00,602066,2004,Leptospirosis
+Zone:17,21,2.31,0,0.00,0.00,908170,2004,Leptospirosis
+Krabi,1,0.26,0,0.00,0.00,386084,2004,Leptospirosis
+Phangnga,15,6.25,0,0.00,0.00,239895,2004,Leptospirosis
+Phuket,5,1.77,0,0.00,0.00,282191,2004,Leptospirosis
+Zone:18,26,1.45,0,0.00,0.00,1795905,2004,Leptospirosis
+Narathiwat,16,2.28,0,0.00,0.00,701008,2004,Leptospirosis
+Pattani,0,0.00,0,0.00,0.00,632240,2004,Leptospirosis
+Yala,10,2.16,0,0.00,0.00,462657,2004,Leptospirosis
+Zone:19,14,0.90,0,0.00,0.00,1561600,2004,Leptospirosis
+Satun,0,0.00,0,0.00,0.00,273624,2004,Leptospirosis
+Songkhla,14,1.09,0,0.00,0.00,1287976,2004,Leptospirosis
+Total,3279,5.21,54,1.65,0.09,62933515,2007,Leptospirosis
+North Region,540,4.54,8,1.48,0.07,11881352,2007,Leptospirosis
+Zone:1,418,7.27,3,0.72,0.05,5750312,2007,Leptospirosis
+Chiang Mai,39,2.35,0,0.00,0.00,1661349,2007,Leptospirosis
+Chiang Rai,135,11.02,2,1.48,0.16,1225364,2007,Leptospirosis
+Lampang,39,5.05,0,0.00,0.00,772202,2007,Leptospirosis
+Lamphun,5,1.23,0,0.00,0.00,405361,2007,Leptospirosis
+Mae Hong Son,10,3.92,0,0.00,0.00,254990,2007,Leptospirosis
+Nan,79,16.54,0,0.00,0.00,477522,2007,Leptospirosis
+Phayao,85,17.48,0,0.00,0.00,486399,2007,Leptospirosis
+Phrae,26,5.57,1,3.85,0.21,467125,2007,Leptospirosis
+Zone:2,87,2.52,5,5.75,0.15,3445764,2007,Leptospirosis
+Phetchabun,38,3.80,0,0.00,0.00,999924,2007,Leptospirosis
+Phitsanulok,19,2.25,0,0.00,0.00,843096,2007,Leptospirosis
+Sukhothai,6,0.99,0,0.00,0.00,607061,2007,Leptospirosis
+Tak,7,1.32,2,28.57,0.38,529303,2007,Leptospirosis
+Uttaradit,17,3.65,3,17.65,0.64,466380,2007,Leptospirosis
+Zone:3,35,1.30,0,0.00,0.00,2685276,2007,Leptospirosis
+Kamphaeng Phet,3,0.41,0,0.00,0.00,727158,2007,Leptospirosis
+Nakhon Sawan,20,1.86,0,0.00,0.00,1074849,2007,Leptospirosis
+Phichit,7,1.26,0,0.00,0.00,556287,2007,Leptospirosis
+Uthai Thani,5,1.53,0,0.00,0.00,326982,2007,Leptospirosis
+Central Region,229,1.09,8,3.49,0.04,21043273,2007,Leptospirosis
+Bangkok,5,0.09,0,0.00,0.00,5706103,2007,Leptospirosis
+Zone:4,24,0.82,4,16.67,0.14,2932544,2007,Leptospirosis
+Ang Thong,3,1.06,1,33.33,0.35,284175,2007,Leptospirosis
+Nonthaburi,1,0.10,0,0.00,0.00,1011624,2007,Leptospirosis
+P.Nakhon S.Ayutthaya,18,2.38,3,16.67,0.40,757654,2007,Leptospirosis
+Pathum Thani,2,0.23,0,0.00,0.00,879091,2007,Leptospirosis
+Zone:5,45,2.35,1,2.22,0.05,1918492,2007,Leptospirosis
+Chai Nat,27,7.99,0,0.00,0.00,338077,2007,Leptospirosis
+Lop Buri,9,1.20,0,0.00,0.00,751298,2007,Leptospirosis
+Saraburi,8,1.31,1,12.50,0.16,612806,2007,Leptospirosis
+Sing Buri,1,0.46,0,0.00,0.00,216311,2007,Leptospirosis
+Zone:6,29,0.87,1,3.45,0.03,3334732,2007,Leptospirosis
+Kanchanaburi,6,0.72,0,0.00,0.00,834865,2007,Leptospirosis
+Nakhon Pathom,1,0.12,0,0.00,0.00,826438,2007,Leptospirosis
+Ratchaburi,13,1.57,1,7.69,0.12,830184,2007,Leptospirosis
+Suphan Buri,9,1.07,0,0.00,0.00,843245,2007,Leptospirosis
+Zone:7,3,0.19,0,0.00,0.00,1611697,2007,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,456371,2007,Leptospirosis
+Prachuap Khiri Khan,3,0.61,0,0.00,0.00,494502,2007,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,466222,2007,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Leptospirosis
+Zone:8,54,1.79,2,3.70,0.07,3016265,2007,Leptospirosis
+Chachoengsao,2,0.30,0,0.00,0.00,656586,2007,Leptospirosis
+Nakhon Nayok,5,2.01,2,40.00,0.80,249250,2007,Leptospirosis
+Prachin Buri,3,0.66,0,0.00,0.00,454404,2007,Leptospirosis
+Sa Kaeo,38,7.05,0,0.00,0.00,538741,2007,Leptospirosis
+Samut Prakan,6,0.54,0,0.00,0.00,1117284,2007,Leptospirosis
+Zone:9,69,2.73,0,0.00,0.00,2523440,2007,Leptospirosis
+Chanthaburi,50,9.94,0,0.00,0.00,503197,2007,Leptospirosis
+Chon Buri,3,0.25,0,0.00,0.00,1221369,2007,Leptospirosis
+Rayong,14,2.42,0,0.00,0.00,578628,2007,Leptospirosis
+Trat,2,0.91,0,0.00,0.00,220246,2007,Leptospirosis
+North-Eastern Region,2061,9.64,34,1.65,0.16,21381249,2007,Leptospirosis
+Zone:10,247,6.97,0,0.00,0.00,3541793,2007,Leptospirosis
+Loei,60,9.77,0,0.00,0.00,614421,2007,Leptospirosis
+Nong Bua Lam Phu,10,2.01,0,0.00,0.00,497148,2007,Leptospirosis
+Nong Khai,76,8.43,0,0.00,0.00,901100,2007,Leptospirosis
+Udon Thani,101,6.61,0,0.00,0.00,1529124,2007,Leptospirosis
+Zone:11,409,13.11,6,1.47,0.19,3119599,2007,Leptospirosis
+Kalasin,332,34.00,5,1.51,0.51,976536,2007,Leptospirosis
+Mukdahan,22,6.55,0,0.00,0.00,335778,2007,Leptospirosis
+Nakhon Phanom,30,4.31,1,3.33,0.14,696229,2007,Leptospirosis
+Sakon Nakhon,25,2.25,0,0.00,0.00,1111056,2007,Leptospirosis
+Zone:12,352,8.81,3,0.85,0.08,3997622,2007,Leptospirosis
+Khon Kaen,246,14.05,1,0.41,0.06,1751458,2007,Leptospirosis
+Maha Sarakham,44,4.70,2,4.55,0.21,936846,2007,Leptospirosis
+Roi Et,62,4.74,0,0.00,0.00,1309318,2007,Leptospirosis
+Zone:13,443,6.73,9,2.03,0.14,6583974,2007,Leptospirosis
+Buri Ram,194,12.63,1,0.52,0.07,1536396,2007,Leptospirosis
+Chaiyaphum,24,2.14,0,0.00,0.00,1119372,2007,Leptospirosis
+Nakhon Ratchasima,72,2.82,1,1.39,0.04,2554241,2007,Leptospirosis
+Surin,153,11.14,7,4.58,0.51,1373965,2007,Leptospirosis
+Zone:14,610,14.74,16,2.62,0.39,4138261,2007,Leptospirosis
+Amnat Charoen,18,4.88,0,0.00,0.00,368925,2007,Leptospirosis
+Si Sa Ket,478,33.09,16,3.35,1.11,1444748,2007,Leptospirosis
+Ubon Ratchathani,91,5.10,0,0.00,0.00,1784372,2007,Leptospirosis
+Yasothon,23,4.26,0,0.00,0.00,540216,2007,Leptospirosis
+South Region,449,5.20,4,0.89,0.05,8627641,2007,Leptospirosis
+Zone:15,29,1.78,0,0.00,0.00,1626011,2007,Leptospirosis
+Chumphon,7,1.46,0,0.00,0.00,480131,2007,Leptospirosis
+Ranong,6,3.33,0,0.00,0.00,180319,2007,Leptospirosis
+Surat Thani,16,1.66,0,0.00,0.00,965561,2007,Leptospirosis
+Zone:16,168,6.41,3,1.79,0.11,2620564,2007,Leptospirosis
+Nakhon Si Thammarat,93,6.16,2,2.15,0.13,1508729,2007,Leptospirosis
+Phatthalung,24,4.77,0,0.00,0.00,502943,2007,Leptospirosis
+Trang,51,8.38,1,1.96,0.16,608892,2007,Leptospirosis
+Zone:17,63,6.55,0,0.00,0.00,961258,2007,Leptospirosis
+Krabi,6,1.47,0,0.00,0.00,406999,2007,Leptospirosis
+Phangnga,37,15.03,0,0.00,0.00,246141,2007,Leptospirosis
+Phuket,20,6.49,0,0.00,0.00,308118,2007,Leptospirosis
+Zone:18,118,6.50,1,0.85,0.06,1815585,2007,Leptospirosis
+Narathiwat,66,9.30,0,0.00,0.00,709345,2007,Leptospirosis
+Pattani,40,6.28,1,2.50,0.16,636768,2007,Leptospirosis
+Yala,12,2.56,0,0.00,0.00,469472,2007,Leptospirosis
+Zone:19,71,4.43,0,0.00,0.00,1604223,2007,Leptospirosis
+Satun,13,4.59,0,0.00,0.00,283014,2007,Leptospirosis
+Songkhla,58,4.39,0,0.00,0.00,1321209,2007,Leptospirosis
 Total,4122,6.43,56,1.36,0.09,64075986,2012,Leptospirosis
 Central Region,143,0.66,7,4.90,0.03,21734984,2012,Leptospirosis
 Zone:0,5,0.09,0,0.00,0.00,5674843,2012,Leptospirosis
@@ -1148,106 +874,579 @@ Kamphaeng Phet,3,0.41,0,0.00,0.00,726009,2012,Leptospirosis
 Nakhon Sawan,20,1.87,0,0.00,0.00,1071686,2012,Leptospirosis
 Phichit,3,0.55,0,0.00,0.00,549688,2012,Leptospirosis
 Uthai Thani,5,1.52,1,20.00,0.30,328034,2012,Leptospirosis
-Total,3279,5.21,54,1.65,0.09,62933515,2007,Leptospirosis
-North Region,540,4.54,8,1.48,0.07,11881352,2007,Leptospirosis
-Zone:1,418,7.27,3,0.72,0.05,5750312,2007,Leptospirosis
-Chiang Mai,39,2.35,0,0.00,0.00,1661349,2007,Leptospirosis
-Chiang Rai,135,11.02,2,1.48,0.16,1225364,2007,Leptospirosis
-Lampang,39,5.05,0,0.00,0.00,772202,2007,Leptospirosis
-Lamphun,5,1.23,0,0.00,0.00,405361,2007,Leptospirosis
-Mae Hong Son,10,3.92,0,0.00,0.00,254990,2007,Leptospirosis
-Nan,79,16.54,0,0.00,0.00,477522,2007,Leptospirosis
-Phayao,85,17.48,0,0.00,0.00,486399,2007,Leptospirosis
-Phrae,26,5.57,1,3.85,0.21,467125,2007,Leptospirosis
-Zone:2,87,2.52,5,5.75,0.15,3445764,2007,Leptospirosis
-Phetchabun,38,3.80,0,0.00,0.00,999924,2007,Leptospirosis
-Phitsanulok,19,2.25,0,0.00,0.00,843096,2007,Leptospirosis
-Sukhothai,6,0.99,0,0.00,0.00,607061,2007,Leptospirosis
-Tak,7,1.32,2,28.57,0.38,529303,2007,Leptospirosis
-Uttaradit,17,3.65,3,17.65,0.64,466380,2007,Leptospirosis
-Zone:3,35,1.30,0,0.00,0.00,2685276,2007,Leptospirosis
-Kamphaeng Phet,3,0.41,0,0.00,0.00,727158,2007,Leptospirosis
-Nakhon Sawan,20,1.86,0,0.00,0.00,1074849,2007,Leptospirosis
-Phichit,7,1.26,0,0.00,0.00,556287,2007,Leptospirosis
-Uthai Thani,5,1.53,0,0.00,0.00,326982,2007,Leptospirosis
-Central Region,229,1.09,8,3.49,0.04,21043273,2007,Leptospirosis
-Bangkok,5,0.09,0,0.00,0.00,5706103,2007,Leptospirosis
-Zone:4,24,0.82,4,16.67,0.14,2932544,2007,Leptospirosis
-Ang Thong,3,1.06,1,33.33,0.35,284175,2007,Leptospirosis
-Nonthaburi,1,0.10,0,0.00,0.00,1011624,2007,Leptospirosis
-P.Nakhon S.Ayutthaya,18,2.38,3,16.67,0.40,757654,2007,Leptospirosis
-Pathum Thani,2,0.23,0,0.00,0.00,879091,2007,Leptospirosis
-Zone:5,45,2.35,1,2.22,0.05,1918492,2007,Leptospirosis
-Chai Nat,27,7.99,0,0.00,0.00,338077,2007,Leptospirosis
-Lop Buri,9,1.20,0,0.00,0.00,751298,2007,Leptospirosis
-Saraburi,8,1.31,1,12.50,0.16,612806,2007,Leptospirosis
-Sing Buri,1,0.46,0,0.00,0.00,216311,2007,Leptospirosis
-Zone:6,29,0.87,1,3.45,0.03,3334732,2007,Leptospirosis
-Kanchanaburi,6,0.72,0,0.00,0.00,834865,2007,Leptospirosis
-Nakhon Pathom,1,0.12,0,0.00,0.00,826438,2007,Leptospirosis
-Ratchaburi,13,1.57,1,7.69,0.12,830184,2007,Leptospirosis
-Suphan Buri,9,1.07,0,0.00,0.00,843245,2007,Leptospirosis
-Zone:7,3,0.19,0,0.00,0.00,1611697,2007,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,456371,2007,Leptospirosis
-Prachuap Khiri Khan,3,0.61,0,0.00,0.00,494502,2007,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,466222,2007,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,194602,2007,Leptospirosis
-Zone:8,54,1.79,2,3.70,0.07,3016265,2007,Leptospirosis
-Chachoengsao,2,0.30,0,0.00,0.00,656586,2007,Leptospirosis
-Nakhon Nayok,5,2.01,2,40.00,0.80,249250,2007,Leptospirosis
-Prachin Buri,3,0.66,0,0.00,0.00,454404,2007,Leptospirosis
-Sa Kaeo,38,7.05,0,0.00,0.00,538741,2007,Leptospirosis
-Samut Prakan,6,0.54,0,0.00,0.00,1117284,2007,Leptospirosis
-Zone:9,69,2.73,0,0.00,0.00,2523440,2007,Leptospirosis
-Chanthaburi,50,9.94,0,0.00,0.00,503197,2007,Leptospirosis
-Chon Buri,3,0.25,0,0.00,0.00,1221369,2007,Leptospirosis
-Rayong,14,2.42,0,0.00,0.00,578628,2007,Leptospirosis
-Trat,2,0.91,0,0.00,0.00,220246,2007,Leptospirosis
-North-Eastern Region,2061,9.64,34,1.65,0.16,21381249,2007,Leptospirosis
-Zone:10,247,6.97,0,0.00,0.00,3541793,2007,Leptospirosis
-Loei,60,9.77,0,0.00,0.00,614421,2007,Leptospirosis
-Nong Bua Lam Phu,10,2.01,0,0.00,0.00,497148,2007,Leptospirosis
-Nong Khai,76,8.43,0,0.00,0.00,901100,2007,Leptospirosis
-Udon Thani,101,6.61,0,0.00,0.00,1529124,2007,Leptospirosis
-Zone:11,409,13.11,6,1.47,0.19,3119599,2007,Leptospirosis
-Kalasin,332,34.00,5,1.51,0.51,976536,2007,Leptospirosis
-Mukdahan,22,6.55,0,0.00,0.00,335778,2007,Leptospirosis
-Nakhon Phanom,30,4.31,1,3.33,0.14,696229,2007,Leptospirosis
-Sakon Nakhon,25,2.25,0,0.00,0.00,1111056,2007,Leptospirosis
-Zone:12,352,8.81,3,0.85,0.08,3997622,2007,Leptospirosis
-Khon Kaen,246,14.05,1,0.41,0.06,1751458,2007,Leptospirosis
-Maha Sarakham,44,4.70,2,4.55,0.21,936846,2007,Leptospirosis
-Roi Et,62,4.74,0,0.00,0.00,1309318,2007,Leptospirosis
-Zone:13,443,6.73,9,2.03,0.14,6583974,2007,Leptospirosis
-Buri Ram,194,12.63,1,0.52,0.07,1536396,2007,Leptospirosis
-Chaiyaphum,24,2.14,0,0.00,0.00,1119372,2007,Leptospirosis
-Nakhon Ratchasima,72,2.82,1,1.39,0.04,2554241,2007,Leptospirosis
-Surin,153,11.14,7,4.58,0.51,1373965,2007,Leptospirosis
-Zone:14,610,14.74,16,2.62,0.39,4138261,2007,Leptospirosis
-Amnat Charoen,18,4.88,0,0.00,0.00,368925,2007,Leptospirosis
-Si Sa Ket,478,33.09,16,3.35,1.11,1444748,2007,Leptospirosis
-Ubon Ratchathani,91,5.10,0,0.00,0.00,1784372,2007,Leptospirosis
-Yasothon,23,4.26,0,0.00,0.00,540216,2007,Leptospirosis
-South Region,449,5.20,4,0.89,0.05,8627641,2007,Leptospirosis
-Zone:15,29,1.78,0,0.00,0.00,1626011,2007,Leptospirosis
-Chumphon,7,1.46,0,0.00,0.00,480131,2007,Leptospirosis
-Ranong,6,3.33,0,0.00,0.00,180319,2007,Leptospirosis
-Surat Thani,16,1.66,0,0.00,0.00,965561,2007,Leptospirosis
-Zone:16,168,6.41,3,1.79,0.11,2620564,2007,Leptospirosis
-Nakhon Si Thammarat,93,6.16,2,2.15,0.13,1508729,2007,Leptospirosis
-Phatthalung,24,4.77,0,0.00,0.00,502943,2007,Leptospirosis
-Trang,51,8.38,1,1.96,0.16,608892,2007,Leptospirosis
-Zone:17,63,6.55,0,0.00,0.00,961258,2007,Leptospirosis
-Krabi,6,1.47,0,0.00,0.00,406999,2007,Leptospirosis
-Phangnga,37,15.03,0,0.00,0.00,246141,2007,Leptospirosis
-Phuket,20,6.49,0,0.00,0.00,308118,2007,Leptospirosis
-Zone:18,118,6.50,1,0.85,0.06,1815585,2007,Leptospirosis
-Narathiwat,66,9.30,0,0.00,0.00,709345,2007,Leptospirosis
-Pattani,40,6.28,1,2.50,0.16,636768,2007,Leptospirosis
-Yala,12,2.56,0,0.00,0.00,469472,2007,Leptospirosis
-Zone:19,71,4.43,0,0.00,0.00,1604223,2007,Leptospirosis
-Satun,13,4.59,0,0.00,0.00,283014,2007,Leptospirosis
-Songkhla,58,4.39,0,0.00,0.00,1321209,2007,Leptospirosis
+Total,3941,6.29,68,1.73,0.11,62623416,2006,Leptospirosis
+North Region,936,7.87,18,1.92,0.15,11887142,2006,Leptospirosis
+Zone:1,766,13.32,14,1.83,0.24,5748673,2006,Leptospirosis
+Chiang Mai,75,4.53,0,0.00,0.00,1654154,2006,Leptospirosis
+Chiang Rai,91,7.43,4,4.40,0.33,1225386,2006,Leptospirosis
+Lampang,85,10.96,0,0.00,0.00,775259,2006,Leptospirosis
+Lamphun,4,0.99,0,0.00,0.00,405146,2006,Leptospirosis
+Mae Hong Son,26,10.22,0,0.00,0.00,254392,2006,Leptospirosis
+Nan,321,67.17,4,1.25,0.84,477871,2006,Leptospirosis
+Phayao,103,21.17,1,0.97,0.21,486554,2006,Leptospirosis
+Phrae,61,12.98,5,8.20,1.06,469911,2006,Leptospirosis
+Zone:2,128,3.71,3,2.34,0.09,3448091,2006,Leptospirosis
+Phetchabun,51,5.09,0,0.00,0.00,1002388,2006,Leptospirosis
+Phitsanulok,23,2.73,0,0.00,0.00,842739,2006,Leptospirosis
+Sukhothai,2,0.33,1,50.00,0.16,609591,2006,Leptospirosis
+Tak,33,6.29,2,6.06,0.38,524938,2006,Leptospirosis
+Uttaradit,19,4.06,0,0.00,0.00,468435,2006,Leptospirosis
+Zone:3,42,1.56,1,2.38,0.04,2690378,2006,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728293,2006,Leptospirosis
+Nakhon Sawan,21,1.95,1,4.76,0.09,1076911,2006,Leptospirosis
+Phichit,5,0.90,0,0.00,0.00,558314,2006,Leptospirosis
+Uthai Thani,16,4.90,0,0.00,0.00,326860,2006,Leptospirosis
+Central Region,406,1.95,13,3.20,0.06,20825142,2006,Leptospirosis
+Bangkok,8,0.14,0,0.00,0.00,5677455,2006,Leptospirosis
+Zone:4,33,1.15,2,6.06,0.07,2858658,2006,Leptospirosis
+Ang Thong,5,1.76,0,0.00,0.00,283861,2006,Leptospirosis
+Nonthaburi,4,0.41,0,0.00,0.00,985669,2006,Leptospirosis
+P.Nakhon S.Ayutthaya,23,3.06,2,8.70,0.27,750757,2006,Leptospirosis
+Pathum Thani,1,0.12,0,0.00,0.00,838371,2006,Leptospirosis
+Zone:5,113,5.90,1,0.88,0.05,1915186,2006,Leptospirosis
+Chai Nat,31,9.13,0,0.00,0.00,339568,2006,Leptospirosis
+Lop Buri,16,2.13,0,0.00,0.00,752364,2006,Leptospirosis
+Saraburi,49,8.09,0,0.00,0.00,605897,2006,Leptospirosis
+Sing Buri,17,7.82,1,5.88,0.46,217357,2006,Leptospirosis
+Zone:6,18,0.54,1,5.56,0.03,3315213,2006,Leptospirosis
+Kanchanaburi,2,0.24,0,0.00,0.00,830309,2006,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,815433,2006,Leptospirosis
+Ratchaburi,3,0.36,1,33.33,0.12,826212,2006,Leptospirosis
+Suphan Buri,13,1.54,0,0.00,0.00,843259,2006,Leptospirosis
+Zone:7,11,0.69,1,9.09,0.06,1598232,2006,Leptospirosis
+Phetchaburi,2,0.44,1,50.00,0.22,455332,2006,Leptospirosis
+Prachuap Khiri Khan,5,1.02,0,0.00,0.00,490607,2006,Leptospirosis
+Samut Sakhon,1,0.22,0,0.00,0.00,457264,2006,Leptospirosis
+Samut Songkhram,3,1.54,0,0.00,0.00,195029,2006,Leptospirosis
+Zone:8,59,1.98,0,0.00,0.00,2983258,2006,Leptospirosis
+Chachoengsao,5,0.77,0,0.00,0.00,650909,2006,Leptospirosis
+Nakhon Nayok,2,0.80,0,0.00,0.00,250392,2006,Leptospirosis
+Prachin Buri,3,0.66,0,0.00,0.00,451721,2006,Leptospirosis
+Sa Kaeo,43,8.00,0,0.00,0.00,537661,2006,Leptospirosis
+Samut Prakan,6,0.55,0,0.00,0.00,1092575,2006,Leptospirosis
+Zone:9,164,6.62,8,4.88,0.32,2477140,2006,Leptospirosis
+Chanthaburi,117,23.39,7,5.98,1.40,500275,2006,Leptospirosis
+Chon Buri,7,0.59,0,0.00,0.00,1190861,2006,Leptospirosis
+Rayong,37,6.53,1,2.70,0.18,566461,2006,Leptospirosis
+Trat,3,1.37,0,0.00,0.00,219543,2006,Leptospirosis
+North-Eastern Region,2177,10.20,26,1.19,0.12,21352480,2006,Leptospirosis
+Zone:10,386,10.93,0,0.00,0.00,3533061,2006,Leptospirosis
+Loei,113,18.44,0,0.00,0.00,612863,2006,Leptospirosis
+Nong Bua Lam Phu,7,1.41,0,0.00,0.00,496675,2006,Leptospirosis
+Nong Khai,182,20.27,0,0.00,0.00,897840,2006,Leptospirosis
+Udon Thani,84,5.51,0,0.00,0.00,1525683,2006,Leptospirosis
+Zone:11,330,10.61,7,2.12,0.23,3110390,2006,Leptospirosis
+Kalasin,234,24.01,5,2.14,0.51,974560,2006,Leptospirosis
+Mukdahan,7,2.09,0,0.00,0.00,334781,2006,Leptospirosis
+Nakhon Phanom,1,0.14,0,0.00,0.00,694473,2006,Leptospirosis
+Sakon Nakhon,88,7.95,2,2.27,0.18,1106576,2006,Leptospirosis
+Zone:12,469,11.73,7,1.49,0.18,3996666,2006,Leptospirosis
+Khon Kaen,348,19.90,5,1.44,0.29,1749021,2006,Leptospirosis
+Maha Sarakham,42,4.48,2,4.76,0.21,937285,2006,Leptospirosis
+Roi Et,79,6.03,0,0.00,0.00,1310360,2006,Leptospirosis
+Zone:13,461,7.01,7,1.52,0.11,6578271,2006,Leptospirosis
+Buri Ram,120,7.82,2,1.67,0.13,1534076,2006,Leptospirosis
+Chaiyaphum,69,6.17,0,0.00,0.00,1118040,2006,Leptospirosis
+Nakhon Ratchasima,106,4.15,1,0.94,0.04,2551176,2006,Leptospirosis
+Surin,166,12.07,4,2.41,0.29,1374979,2006,Leptospirosis
+Zone:14,531,12.84,5,0.94,0.12,4134092,2006,Leptospirosis
+Amnat Charoen,20,5.42,0,0.00,0.00,368863,2006,Leptospirosis
+Si Sa Ket,328,22.70,5,1.52,0.35,1445230,2006,Leptospirosis
+Ubon Ratchathani,124,6.97,0,0.00,0.00,1778922,2006,Leptospirosis
+Yasothon,59,10.90,0,0.00,0.00,541077,2006,Leptospirosis
+South Region,422,4.93,11,2.61,0.13,8558652,2006,Leptospirosis
+Zone:15,86,5.34,0,0.00,0.00,1610374,2006,Leptospirosis
+Chumphon,26,5.45,0,0.00,0.00,477364,2006,Leptospirosis
+Ranong,52,29.05,0,0.00,0.00,178986,2006,Leptospirosis
+Surat Thani,8,0.84,0,0.00,0.00,954024,2006,Leptospirosis
+Zone:16,123,4.71,7,5.69,0.27,2614100,2006,Leptospirosis
+Nakhon Si Thammarat,47,3.12,4,8.51,0.27,1507440,2006,Leptospirosis
+Phatthalung,9,1.79,0,0.00,0.00,501912,2006,Leptospirosis
+Trang,67,11.08,3,4.48,0.50,604748,2006,Leptospirosis
+Zone:17,62,6.60,1,1.61,0.11,939424,2006,Leptospirosis
+Krabi,9,2.25,0,0.00,0.00,399514,2006,Leptospirosis
+Phangnga,38,15.61,1,2.63,0.41,243419,2006,Leptospirosis
+Phuket,15,5.06,0,0.00,0.00,296491,2006,Leptospirosis
+Zone:18,78,4.32,3,3.85,0.17,1805088,2006,Leptospirosis
+Narathiwat,47,6.68,0,0.00,0.00,703848,2006,Leptospirosis
+Pattani,15,2.36,0,0.00,0.00,635053,2006,Leptospirosis
+Yala,16,3.43,3,18.75,0.64,466187,2006,Leptospirosis
+Zone:19,73,4.59,0,0.00,0.00,1589666,2006,Leptospirosis
+Satun,1,0.36,0,0.00,0.00,279705,2006,Leptospirosis
+Songkhla,72,5.50,0,0.00,0.00,1309961,2006,Leptospirosis
+Total,3508,5.31,69,1.97,0.10,66060027,2017,Leptospirosis
+ZONE:01,255,4.35,4,1.57,0.07,5864232,2017,Leptospirosis
+Chiang Mai,37,2.12,0,0.00,0.00,1741301,2017,Leptospirosis
+Chiang Rai,117,9.10,0,0.00,0.00,1285080,2017,Leptospirosis
+Lampang,26,3.48,2,7.69,0.27,747699,2017,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,405959,2017,Leptospirosis
+Mae Hong Son,3,1.08,0,0.00,0.00,277486,2017,Leptospirosis
+Nan,33,6.88,0,0.00,0.00,479877,2017,Leptospirosis
+Phayao,31,6.48,1,3.23,0.21,478144,2017,Leptospirosis
+Phrae,8,1.78,1,12.50,0.22,448686,2017,Leptospirosis
+ZONE:02,68,1.91,1,1.47,0.03,3556376,2017,Leptospirosis
+Phetchabun,10,1.00,0,0.00,0.00,995277,2017,Leptospirosis
+Phitsanulok,11,1.27,0,0.00,0.00,865564,2017,Leptospirosis
+Sukhothai,10,1.67,0,0.00,0.00,599775,2017,Leptospirosis
+Tak,12,1.88,0,0.00,0.00,638115,2017,Leptospirosis
+Uttaradit,25,5.46,1,4.00,0.22,457645,2017,Leptospirosis
+ZONE:03,20,0.67,1,5.00,0.03,2998104,2017,Leptospirosis
+Chai Nat,2,0.61,0,0.00,0.00,330077,2017,Leptospirosis
+Kamphaeng Phet,6,0.82,0,0.00,0.00,729337,2017,Leptospirosis
+Nakhon Sawan,10,0.94,0,0.00,0.00,1065895,2017,Leptospirosis
+Phichit,0,0.00,0,0.00,0.00,542674,2017,Leptospirosis
+Uthai Thani,2,0.61,1,50.00,0.30,330121,2017,Leptospirosis
+ZONE:04,7,0.13,0,0.00,0.00,5302492,2017,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Leptospirosis
+Lop Buri,1,0.13,0,0.00,0.00,757296,2017,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1220829,2017,Leptospirosis
+P.Nakhon S.Ayutthaya,3,0.37,0,0.00,0.00,812086,2017,Leptospirosis
+Pathum Thani,2,0.18,0,0.00,0.00,1120246,2017,Leptospirosis
+Saraburi,1,0.16,0,0.00,0.00,641052,2017,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Leptospirosis
+ZONE:05,19,0.36,0,0.00,0.00,5295696,2017,Leptospirosis
+Kanchanaburi,6,0.68,0,0.00,0.00,886546,2017,Leptospirosis
+Nakhon Pathom,3,0.33,0,0.00,0.00,908249,2017,Leptospirosis
+Phetchaburi,7,1.45,0,0.00,0.00,481514,2017,Leptospirosis
+Prachuap Khiri Khan,2,0.37,0,0.00,0.00,541756,2017,Leptospirosis
+Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,562592,2017,Leptospirosis
+Samut Songkhram,1,0.52,0,0.00,0.00,193985,2017,Leptospirosis
+Suphan Buri,0,0.00,0,0.00,0.00,850285,2017,Leptospirosis
+ZONE:06,69,1.15,0,0.00,0.00,6020790,2017,Leptospirosis
+Chachoengsao,8,1.13,0,0.00,0.00,707145,2017,Leptospirosis
+Chanthaburi,30,5.62,0,0.00,0.00,533463,2017,Leptospirosis
+Chon Buri,5,0.33,0,0.00,0.00,1496086,2017,Leptospirosis
+Prachin Buri,2,0.41,0,0.00,0.00,486187,2017,Leptospirosis
+Rayong,21,2.98,0,0.00,0.00,705729,2017,Leptospirosis
+Sa Kaeo,3,0.54,0,0.00,0.00,560478,2017,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1302160,2017,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,229542,2017,Leptospirosis
+ZONE:07,420,8.30,7,1.67,0.14,5060674,2017,Leptospirosis
+Kalasin,127,12.89,2,1.57,0.20,985619,2017,Leptospirosis
+Khon Kaen,77,4.27,0,0.00,0.00,1803831,2017,Leptospirosis
+Maha Sarakham,123,12.77,4,3.25,0.42,963277,2017,Leptospirosis
+Roi Et,93,7.11,1,1.08,0.08,1307947,2017,Leptospirosis
+ZONE:08,180,3.25,1,0.56,0.02,5541473,2017,Leptospirosis
+Bungkan,10,2.37,0,0.00,0.00,422328,2017,Leptospirosis
+Loei,106,16.54,1,0.94,0.16,640734,2017,Leptospirosis
+Nakhon Phanom,11,1.53,0,0.00,0.00,717451,2017,Leptospirosis
+Nong Bua Lam Phu,23,4.50,0,0.00,0.00,511188,2017,Leptospirosis
+Nong Khai,6,1.15,0,0.00,0.00,521125,2017,Leptospirosis
+Sakon Nakhon,4,0.35,0,0.00,0.00,1147710,2017,Leptospirosis
+Udon Thani,20,1.27,0,0.00,0.00,1580937,2017,Leptospirosis
+ZONE:09,386,5.71,8,2.07,0.12,6760383,2017,Leptospirosis
+Buri Ram,86,5.41,0,0.00,0.00,1589900,2017,Leptospirosis
+Chaiyaphum,22,1.93,0,0.00,0.00,1138778,2017,Leptospirosis
+Nakhon Ratchasima,107,4.06,4,3.74,0.15,2635331,2017,Leptospirosis
+Surin,171,12.25,4,2.34,0.29,1396374,2017,Leptospirosis
+ZONE:10,1011,21.95,16,1.58,0.35,4604905,2017,Leptospirosis
+Amnat Charoen,31,8.21,0,0.00,0.00,377614,2017,Leptospirosis
+Mukdahan,3,0.86,0,0.00,0.00,350128,2017,Leptospirosis
+Si Sa Ket,776,52.75,16,2.06,1.09,1471185,2017,Leptospirosis
+Ubon Ratchathani,154,8.25,0,0.00,0.00,1866299,2017,Leptospirosis
+Yasothon,47,8.71,0,0.00,0.00,539679,2017,Leptospirosis
+ZONE:11,572,12.88,21,3.67,0.47,4441086,2017,Leptospirosis
+Chumphon,5,0.98,0,0.00,0.00,508627,2017,Leptospirosis
+Krabi,88,18.81,3,3.41,0.64,467851,2017,Leptospirosis
+Nakhon Si Thammarat,274,17.61,9,3.28,0.58,1555957,2017,Leptospirosis
+Phangnga,44,16.51,0,0.00,0.00,266535,2017,Leptospirosis
+Phuket,27,6.78,1,3.70,0.25,398092,2017,Leptospirosis
+Ranong,26,13.70,3,11.54,1.58,189777,2017,Leptospirosis
+Surat Thani,108,10.24,5,4.63,0.47,1054247,2017,Leptospirosis
+ZONE:12,493,10.00,10,2.03,0.20,4929285,2017,Leptospirosis
+Narathiwat,30,3.78,2,6.67,0.25,792961,2017,Leptospirosis
+Pattani,31,4.39,0,0.00,0.00,705379,2017,Leptospirosis
+Phatthalung,70,13.35,1,1.43,0.19,524291,2017,Leptospirosis
+Satun,23,7.22,0,0.00,0.00,318655,2017,Leptospirosis
+Songkhla,108,7.60,2,1.85,0.14,1420834,2017,Leptospirosis
+Trang,175,27.24,4,2.29,0.62,642377,2017,Leptospirosis
+Yala,56,10.67,1,1.79,0.19,524788,2017,Leptospirosis
+ZONE:13,8,0.14,0,0.00,0.00,5684531,2017,Leptospirosis
+Bangkok,8,0.14,0,0.00,0.00,5684531,2017,Leptospirosis
+Total,2251,3.47,24,1.07,0.04,64955313,2014,Leptospirosis
+ZONE:00,8,0.14,0,0.00,0.00,5689268,2014,Leptospirosis
+Bangkok,8,0.14,0,0.00,0.00,5689268,2014,Leptospirosis
+ZONE:01,171,3.00,1,0.58,0.02,5704200,2014,Leptospirosis
+Chiang Mai,21,1.26,0,0.00,0.00,1672586,2014,Leptospirosis
+Chiang Rai,29,2.40,0,0.00,0.00,1206180,2014,Leptospirosis
+Lampang,37,4.91,0,0.00,0.00,753937,2014,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,405368,2014,Leptospirosis
+Mae Hong Son,5,2.02,0,0.00,0.00,247364,2014,Leptospirosis
+Nan,34,7.11,1,2.94,0.21,478088,2014,Leptospirosis
+Phayao,41,8.44,0,0.00,0.00,485599,2014,Leptospirosis
+Phrae,4,0.88,0,0.00,0.00,455078,2014,Leptospirosis
+ZONE:02,69,2.00,0,0.00,0.00,3452021,2014,Leptospirosis
+Phetchabun,11,1.11,0,0.00,0.00,995102,2014,Leptospirosis
+Phitsanulok,36,4.20,0,0.00,0.00,857682,2014,Leptospirosis
+Sukhothai,12,1.99,0,0.00,0.00,602586,2014,Leptospirosis
+Tak,1,0.19,0,0.00,0.00,535953,2014,Leptospirosis
+Uttaradit,9,1.95,0,0.00,0.00,460698,2014,Leptospirosis
+ZONE:03,22,0.73,0,0.00,0.00,3012608,2014,Leptospirosis
+Chai Nat,8,2.41,0,0.00,0.00,332526,2014,Leptospirosis
+Kamphaeng Phet,8,1.10,0,0.00,0.00,729076,2014,Leptospirosis
+Nakhon Sawan,3,0.28,0,0.00,0.00,1072949,2014,Leptospirosis
+Phichit,0,0.00,0,0.00,0.00,548199,2014,Leptospirosis
+Uthai Thani,3,0.91,0,0.00,0.00,329858,2014,Leptospirosis
+ZONE:04,24,0.46,3,12.50,0.06,5171756,2014,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Leptospirosis
+Lop Buri,3,0.40,0,0.00,0.00,758188,2014,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Leptospirosis
+P.Nakhon S.Ayutthaya,18,2.25,3,16.67,0.37,800785,2014,Leptospirosis
+Pathum Thani,0,0.00,0,0.00,0.00,1063608,2014,Leptospirosis
+Saraburi,3,0.48,0,0.00,0.00,631338,2014,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Leptospirosis
+ZONE:05,19,0.37,0,0.00,0.00,5147569,2014,Leptospirosis
+Kanchanaburi,10,1.18,0,0.00,0.00,845540,2014,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Leptospirosis
+Phetchaburi,2,0.42,0,0.00,0.00,472640,2014,Leptospirosis
+Prachuap Khiri Khan,2,0.38,0,0.00,0.00,522689,2014,Leptospirosis
+Ratchaburi,2,0.23,0,0.00,0.00,851689,2014,Leptospirosis
+Samut Sakhon,1,0.19,0,0.00,0.00,525672,2014,Leptospirosis
+Samut Songkhram,1,0.52,0,0.00,0.00,194153,2014,Leptospirosis
+Suphan Buri,1,0.12,0,0.00,0.00,848559,2014,Leptospirosis
+ZONE:06,77,1.33,0,0.00,0.00,5797595,2014,Leptospirosis
+Chachoengsao,29,4.19,0,0.00,0.00,692852,2014,Leptospirosis
+Chanthaburi,28,5.33,0,0.00,0.00,525805,2014,Leptospirosis
+Chon Buri,0,0.00,0,0.00,0.00,1405889,2014,Leptospirosis
+Prachin Buri,1,0.21,0,0.00,0.00,477741,2014,Leptospirosis
+Rayong,12,1.80,0,0.00,0.00,667806,2014,Leptospirosis
+Sa Kaeo,2,0.36,0,0.00,0.00,551562,2014,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Leptospirosis
+Trat,5,2.23,0,0.00,0.00,224370,2014,Leptospirosis
+ZONE:07,348,6.91,2,0.57,0.04,5037074,2014,Leptospirosis
+Kalasin,122,12.39,0,0.00,0.00,984468,2014,Leptospirosis
+Khon Kaen,73,4.09,1,1.37,0.06,1785852,2014,Leptospirosis
+Maha Sarakham,79,8.25,0,0.00,0.00,958116,2014,Leptospirosis
+Roi Et,74,5.65,1,1.35,0.08,1308638,2014,Leptospirosis
+ZONE:08,207,3.77,0,0.00,0.00,5490561,2014,Leptospirosis
+Bungkan,23,5.51,0,0.00,0.00,417401,2014,Leptospirosis
+Loei,67,10.58,0,0.00,0.00,633359,2014,Leptospirosis
+Nakhon Phanom,8,1.12,0,0.00,0.00,712101,2014,Leptospirosis
+Nong Bua Lam Phu,39,7.68,0,0.00,0.00,508001,2014,Leptospirosis
+Nong Khai,23,4.46,0,0.00,0.00,516101,2014,Leptospirosis
+Sakon Nakhon,17,1.50,0,0.00,0.00,1136466,2014,Leptospirosis
+Udon Thani,30,1.91,0,0.00,0.00,1567132,2014,Leptospirosis
+ZONE:09,296,4.41,4,1.35,0.06,6717984,2014,Leptospirosis
+Buri Ram,74,4.69,0,0.00,0.00,1576343,2014,Leptospirosis
+Chaiyaphum,28,2.46,0,0.00,0.00,1136386,2014,Leptospirosis
+Nakhon Ratchasima,41,1.57,1,2.44,0.04,2615340,2014,Leptospirosis
+Surin,153,11.01,3,1.96,0.22,1389915,2014,Leptospirosis
+ZONE:10,445,9.75,5,1.12,0.11,4564711,2014,Leptospirosis
+Amnat Charoen,28,7.47,1,3.57,0.27,375039,2014,Leptospirosis
+Mukdahan,5,1.45,0,0.00,0.00,345159,2014,Leptospirosis
+Si Sa Ket,258,17.63,4,1.55,0.27,1463620,2014,Leptospirosis
+Ubon Ratchathani,102,5.54,0,0.00,0.00,1840596,2014,Leptospirosis
+Yasothon,52,9.62,0,0.00,0.00,540297,2014,Leptospirosis
+ZONE:11,325,7.48,6,1.85,0.14,4344513,2014,Leptospirosis
+Chumphon,7,1.40,0,0.00,0.00,499435,2014,Leptospirosis
+Krabi,28,6.17,0,0.00,0.00,453850,2014,Leptospirosis
+Nakhon Si Thammarat,162,10.49,5,3.09,0.32,1544936,2014,Leptospirosis
+Phangnga,42,16.13,0,0.00,0.00,260395,2014,Leptospirosis
+Phuket,12,3.21,0,0.00,0.00,373943,2014,Leptospirosis
+Ranong,38,21.60,0,0.00,0.00,175933,2014,Leptospirosis
+Surat Thani,36,3.47,1,2.78,0.10,1036021,2014,Leptospirosis
+ZONE:12,240,4.97,3,1.25,0.06,4825453,2014,Leptospirosis
+Narathiwat,39,5.06,1,2.56,0.13,770472,2014,Leptospirosis
+Pattani,5,0.73,0,0.00,0.00,682512,2014,Leptospirosis
+Phatthalung,12,2.31,0,0.00,0.00,519220,2014,Leptospirosis
+Satun,34,10.92,0,0.00,0.00,311233,2014,Leptospirosis
+Songkhla,66,4.73,1,1.52,0.07,1395596,2014,Leptospirosis
+Trang,28,4.39,0,0.00,0.00,637395,2014,Leptospirosis
+Yala,56,11.00,1,1.79,0.20,509025,2014,Leptospirosis
+Total,4944,7.76,43,0.87,0.07,63701703,2010,Leptospirosis
+Central Region,201,0.93,7,3.48,0.03,21534318,2010,Leptospirosis
+Zone:0,14,0.25,0,0.00,0.00,5701995,2010,Leptospirosis
+Bangkok,14,0.25,0,0.00,0.00,5701995,2010,Leptospirosis
+Zone:1,41,1.19,1,2.44,0.03,3454591,2010,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1089908,2010,Leptospirosis
+P.Nakhon S.Ayutthaya,31,3.98,1,3.23,0.13,778627,2010,Leptospirosis
+Pathum Thani,0,0.00,0,0.00,0.00,971010,2010,Leptospirosis
+Saraburi,10,1.63,0,0.00,0.00,615046,2010,Leptospirosis
+Zone:2,36,2.26,1,2.78,0.06,1590200,2010,Leptospirosis
+Ang Thong,1,0.35,0,0.00,0.00,284889,2010,Leptospirosis
+Chai Nat,28,8.35,0,0.00,0.00,335177,2010,Leptospirosis
+Lop Buri,7,0.93,1,14.29,0.13,755153,2010,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,214981,2010,Leptospirosis
+Zone:3,25,0.80,0,0.00,0.00,3105799,2010,Leptospirosis
+Chachoengsao,4,0.60,0,0.00,0.00,671458,2010,Leptospirosis
+Nakhon Nayok,4,1.59,0,0.00,0.00,252209,2010,Leptospirosis
+Prachin Buri,3,0.65,0,0.00,0.00,464213,2010,Leptospirosis
+Sa Kaeo,11,2.02,0,0.00,0.00,543276,2010,Leptospirosis
+Samut Prakan,3,0.26,0,0.00,0.00,1174643,2010,Leptospirosis
+Zone:4,21,0.62,0,0.00,0.00,3374810,2010,Leptospirosis
+Kanchanaburi,13,1.55,0,0.00,0.00,836600,2010,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,855837,2010,Leptospirosis
+Ratchaburi,6,0.72,0,0.00,0.00,837153,2010,Leptospirosis
+Suphan Buri,2,0.24,0,0.00,0.00,845220,2010,Leptospirosis
+Zone:5,5,0.30,0,0.00,0.00,1651335,2010,Leptospirosis
+Phetchaburi,1,0.22,0,0.00,0.00,462636,2010,Leptospirosis
+Prachuap Khiri Khan,4,0.79,0,0.00,0.00,506599,2010,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,488247,2010,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,193853,2010,Leptospirosis
+Zone:9,59,2.22,5,8.47,0.19,2655588,2010,Leptospirosis
+Chanthaburi,34,6.63,5,14.71,0.97,512932,2010,Leptospirosis
+Chon Buri,9,0.69,0,0.00,0.00,1302942,2010,Leptospirosis
+Rayong,7,1.13,0,0.00,0.00,619249,2010,Leptospirosis
+Trat,9,4.08,0,0.00,0.00,220465,2010,Leptospirosis
+South Region,943,10.65,7,0.74,0.08,8853473,2010,Leptospirosis
+Zone:6,263,7.48,3,1.14,0.09,3514344,2010,Leptospirosis
+Chumphon,5,1.02,0,0.00,0.00,488855,2010,Leptospirosis
+Nakhon Si Thammarat,138,9.08,3,2.17,0.20,1519531,2010,Leptospirosis
+Phatthalung,51,10.03,0,0.00,0.00,508656,2010,Leptospirosis
+Surat Thani,69,6.92,0,0.00,0.00,997302,2010,Leptospirosis
+Zone:7,233,12.76,2,0.86,0.11,1825591,2010,Leptospirosis
+Krabi,18,4.19,1,5.56,0.23,429631,2010,Leptospirosis
+Phangnga,88,34.87,0,0.00,0.00,252385,2010,Leptospirosis
+Phuket,17,4.99,0,0.00,0.00,340490,2010,Leptospirosis
+Ranong,62,33.99,0,0.00,0.00,182417,2010,Leptospirosis
+Trang,48,7.73,1,2.08,0.16,620668,2010,Leptospirosis
+Zone:8,447,12.72,2,0.45,0.06,3513538,2010,Leptospirosis
+Narathiwat,74,10.10,1,1.35,0.14,732617,2010,Leptospirosis
+Pattani,6,0.92,0,0.00,0.00,651442,2010,Leptospirosis
+Satun,29,9.83,0,0.00,0.00,295133,2010,Leptospirosis
+Songkhla,310,22.95,1,0.32,0.07,1350489,2010,Leptospirosis
+Yala,28,5.79,0,0.00,0.00,483857,2010,Leptospirosis
+North-Eastern Region,3385,15.72,24,0.71,0.11,21534582,2010,Leptospirosis
+Zone:10,266,7.44,2,0.75,0.06,3576272,2010,Leptospirosis
+Loei,104,16.71,2,1.92,0.32,622424,2010,Leptospirosis
+Nong Bua Lam Phu,36,7.17,0,0.00,0.00,501891,2010,Leptospirosis
+Nong Khai,51,5.60,0,0.00,0.00,910094,2010,Leptospirosis
+Udon Thani,75,4.86,0,0.00,0.00,1541863,2010,Leptospirosis
+Zone:11,37,1.71,0,0.00,0.00,2161531,2010,Leptospirosis
+Mukdahan,17,5.02,0,0.00,0.00,338812,2010,Leptospirosis
+Nakhon Phanom,11,1.57,0,0.00,0.00,702041,2010,Leptospirosis
+Sakon Nakhon,9,0.80,0,0.00,0.00,1120678,2010,Leptospirosis
+Zone:12,816,16.34,6,0.74,0.12,4995226,2010,Leptospirosis
+Kalasin,232,23.64,5,2.16,0.51,981369,2010,Leptospirosis
+Khon Kaen,415,23.51,0,0.00,0.00,1764922,2010,Leptospirosis
+Maha Sarakham,52,5.53,1,1.92,0.11,940001,2010,Leptospirosis
+Roi Et,117,8.94,0,0.00,0.00,1308934,2010,Leptospirosis
+Zone:13,738,17.70,0,0.00,0.00,4168498,2010,Leptospirosis
+Amnat Charoen,49,13.19,0,0.00,0.00,371471,2010,Leptospirosis
+Si Sa Ket,521,35.95,0,0.00,0.00,1449409,2010,Leptospirosis
+Ubon Ratchathani,154,8.52,0,0.00,0.00,1808422,2010,Leptospirosis
+Yasothon,14,2.60,0,0.00,0.00,539196,2010,Leptospirosis
+Zone:14,1528,23.04,16,1.05,0.24,6633055,2010,Leptospirosis
+Buri Ram,823,53.09,2,0.24,0.13,1550275,2010,Leptospirosis
+Chaiyaphum,45,4.00,2,4.44,0.18,1126295,2010,Leptospirosis
+Nakhon Ratchasima,148,5.74,8,5.41,0.31,2576691,2010,Leptospirosis
+Surin,512,37.11,4,0.78,0.29,1379794,2010,Leptospirosis
+North Region,415,3.52,5,1.20,0.04,11779330,2010,Leptospirosis
+Zone:15,76,2.49,0,0.00,0.00,3046660,2010,Leptospirosis
+Chiang Mai,31,1.89,0,0.00,0.00,1636514,2010,Leptospirosis
+Lampang,39,5.11,0,0.00,0.00,763224,2010,Leptospirosis
+Lamphun,3,0.74,0,0.00,0.00,404627,2010,Leptospirosis
+Mae Hong Son,3,1.24,0,0.00,0.00,242295,2010,Leptospirosis
+Zone:16,178,6.79,3,1.69,0.11,2620701,2010,Leptospirosis
+Chiang Rai,59,4.93,1,1.69,0.08,1196576,2010,Leptospirosis
+Nan,84,17.65,0,0.00,0.00,475989,2010,Leptospirosis
+Phayao,20,4.11,1,5.00,0.21,486713,2010,Leptospirosis
+Phrae,15,3.25,1,6.67,0.22,461423,2010,Leptospirosis
+Zone:17,107,3.12,0,0.00,0.00,3430959,2010,Leptospirosis
+Phetchabun,37,3.72,0,0.00,0.00,995578,2010,Leptospirosis
+Phitsanulok,47,5.54,0,0.00,0.00,847627,2010,Leptospirosis
+Sukhothai,7,1.16,0,0.00,0.00,602296,2010,Leptospirosis
+Tak,2,0.38,0,0.00,0.00,522673,2010,Leptospirosis
+Uttaradit,14,3.03,0,0.00,0.00,462785,2010,Leptospirosis
+Zone:18,54,2.01,2,3.70,0.07,2681010,2010,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Leptospirosis
+Nakhon Sawan,25,2.33,2,8.00,0.19,1073182,2010,Leptospirosis
+Phichit,16,2.89,0,0.00,0.00,552942,2010,Leptospirosis
+Uthai Thani,13,3.96,0,0.00,0.00,327916,2010,Leptospirosis
+Total,2868,4.61,40,1.39,0.06,62195878,2005,Leptospirosis
+North Region,540,4.55,12,2.22,0.10,11862916,2005,Leptospirosis
+Zone:1,441,7.70,10,2.27,0.17,5729312,2005,Leptospirosis
+Chiang Mai,53,3.23,2,3.77,0.12,1640390,2005,Leptospirosis
+Chiang Rai,41,3.36,1,2.44,0.08,1219732,2005,Leptospirosis
+Lampang,62,7.97,1,1.61,0.13,777827,2005,Leptospirosis
+Lamphun,4,0.99,0,0.00,0.00,404754,2005,Leptospirosis
+Mae Hong Son,34,13.67,0,0.00,0.00,248672,2005,Leptospirosis
+Nan,85,17.79,0,0.00,0.00,477917,2005,Leptospirosis
+Phayao,126,25.84,4,3.17,0.82,487616,2005,Leptospirosis
+Phrae,36,7.62,2,5.56,0.42,472404,2005,Leptospirosis
+Zone:2,72,2.09,2,2.78,0.06,3442642,2005,Leptospirosis
+Phetchabun,28,2.79,0,0.00,0.00,1001820,2005,Leptospirosis
+Phitsanulok,12,1.43,0,0.00,0.00,841248,2005,Leptospirosis
+Sukhothai,3,0.49,0,0.00,0.00,610871,2005,Leptospirosis
+Tak,7,1.35,1,14.29,0.19,519037,2005,Leptospirosis
+Uttaradit,22,4.68,1,4.55,0.21,469666,2005,Leptospirosis
+Zone:3,27,1.00,0,0.00,0.00,2690962,2005,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,727351,2005,Leptospirosis
+Nakhon Sawan,9,0.84,0,0.00,0.00,1077634,2005,Leptospirosis
+Phichit,1,0.18,0,0.00,0.00,559611,2005,Leptospirosis
+Uthai Thani,17,5.21,0,0.00,0.00,326366,2005,Leptospirosis
+Central Region,145,0.71,3,2.07,0.01,20560399,2005,Leptospirosis
+Bangkok,3,0.05,0,0.00,0.00,5646543,2005,Leptospirosis
+Zone:4,15,0.54,0,0.00,0.00,2777019,2005,Leptospirosis
+Ang Thong,3,1.06,0,0.00,0.00,283373,2005,Leptospirosis
+Nonthaburi,6,0.63,0,0.00,0.00,957287,2005,Leptospirosis
+P.Nakhon S.Ayutthaya,5,0.67,0,0.00,0.00,743659,2005,Leptospirosis
+Pathum Thani,1,0.13,0,0.00,0.00,792700,2005,Leptospirosis
+Zone:5,45,2.36,1,2.22,0.05,1909368,2005,Leptospirosis
+Chai Nat,12,3.52,0,0.00,0.00,340812,2005,Leptospirosis
+Lop Buri,11,1.47,0,0.00,0.00,750718,2005,Leptospirosis
+Saraburi,19,3.17,1,5.26,0.17,598905,2005,Leptospirosis
+Sing Buri,3,1.37,0,0.00,0.00,218933,2005,Leptospirosis
+Zone:6,16,0.49,1,6.25,0.03,3282327,2005,Leptospirosis
+Kanchanaburi,3,0.37,0,0.00,0.00,818218,2005,Leptospirosis
+Nakhon Pathom,2,0.25,0,0.00,0.00,803489,2005,Leptospirosis
+Ratchaburi,3,0.37,0,0.00,0.00,819286,2005,Leptospirosis
+Suphan Buri,8,0.95,1,12.50,0.12,841334,2005,Leptospirosis
+Zone:7,4,0.25,0,0.00,0.00,1578246,2005,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,452506,2005,Leptospirosis
+Prachuap Khiri Khan,4,0.83,0,0.00,0.00,483243,2005,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,447353,2005,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,195144,2005,Leptospirosis
+Zone:8,33,1.12,0,0.00,0.00,2943051,2005,Leptospirosis
+Chachoengsao,3,0.46,0,0.00,0.00,645521,2005,Leptospirosis
+Nakhon Nayok,5,2.00,0,0.00,0.00,249686,2005,Leptospirosis
+Prachin Buri,3,0.67,0,0.00,0.00,447783,2005,Leptospirosis
+Sa Kaeo,21,3.91,0,0.00,0.00,536591,2005,Leptospirosis
+Samut Prakan,1,0.09,0,0.00,0.00,1063470,2005,Leptospirosis
+Zone:9,29,1.20,1,3.45,0.04,2423845,2005,Leptospirosis
+Chanthaburi,19,3.83,0,0.00,0.00,496081,2005,Leptospirosis
+Chon Buri,3,0.26,0,0.00,0.00,1157709,2005,Leptospirosis
+Rayong,7,1.27,1,14.29,0.18,551512,2005,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,218543,2005,Leptospirosis
+North-Eastern Region,1920,9.02,19,0.99,0.09,21297778,2005,Leptospirosis
+Zone:10,462,13.11,1,0.22,0.03,3524138,2005,Leptospirosis
+Loei,119,19.46,0,0.00,0.00,611448,2005,Leptospirosis
+Nong Bua Lam Phu,28,5.65,0,0.00,0.00,495626,2005,Leptospirosis
+Nong Khai,180,20.09,0,0.00,0.00,895911,2005,Leptospirosis
+Udon Thani,135,8.87,1,0.74,0.07,1521153,2005,Leptospirosis
+Zone:11,243,7.84,1,0.41,0.03,3101003,2005,Leptospirosis
+Kalasin,151,15.53,0,0.00,0.00,972425,2005,Leptospirosis
+Mukdahan,15,4.50,0,0.00,0.00,333338,2005,Leptospirosis
+Nakhon Phanom,5,0.72,0,0.00,0.00,692377,2005,Leptospirosis
+Sakon Nakhon,72,6.53,1,1.39,0.09,1102863,2005,Leptospirosis
+Zone:12,413,10.35,7,1.69,0.18,3991075,2005,Leptospirosis
+Khon Kaen,242,13.87,4,1.65,0.23,1744646,2005,Leptospirosis
+Maha Sarakham,36,3.85,2,5.56,0.21,935967,2005,Leptospirosis
+Roi Et,135,10.30,1,0.74,0.08,1310462,2005,Leptospirosis
+Zone:13,399,6.08,6,1.50,0.09,6560991,2005,Leptospirosis
+Buri Ram,83,5.43,0,0.00,0.00,1527846,2005,Leptospirosis
+Chaiyaphum,74,6.62,2,2.70,0.18,1117026,2005,Leptospirosis
+Nakhon Ratchasima,111,4.36,3,2.70,0.12,2543054,2005,Leptospirosis
+Surin,131,9.54,1,0.76,0.07,1373065,2005,Leptospirosis
+Zone:14,403,9.78,4,0.99,0.10,4120571,2005,Leptospirosis
+Amnat Charoen,14,3.80,0,0.00,0.00,368153,2005,Leptospirosis
+Si Sa Ket,240,16.64,2,0.83,0.14,1442190,2005,Leptospirosis
+Ubon Ratchathani,85,4.81,0,0.00,0.00,1768935,2005,Leptospirosis
+Yasothon,64,11.82,2,3.13,0.37,541293,2005,Leptospirosis
+South Region,263,3.10,6,2.28,0.07,8474785,2005,Leptospirosis
+Zone:15,37,2.32,0,0.00,0.00,1593965,2005,Leptospirosis
+Chumphon,21,4.43,0,0.00,0.00,473916,2005,Leptospirosis
+Ranong,8,4.51,0,0.00,0.00,177247,2005,Leptospirosis
+Surat Thani,8,0.85,0,0.00,0.00,942802,2005,Leptospirosis
+Zone:16,70,2.69,5,7.14,0.19,2600847,2005,Leptospirosis
+Nakhon Si Thammarat,30,2.00,4,13.33,0.27,1502382,2005,Leptospirosis
+Phatthalung,7,1.40,0,0.00,0.00,499399,2005,Leptospirosis
+Trang,33,5.51,1,3.03,0.17,599066,2005,Leptospirosis
+Zone:17,42,4.56,0,0.00,0.00,921037,2005,Leptospirosis
+Krabi,2,0.51,0,0.00,0.00,391709,2005,Leptospirosis
+Phangnga,28,11.65,0,0.00,0.00,240254,2005,Leptospirosis
+Phuket,12,4.15,0,0.00,0.00,289074,2005,Leptospirosis
+Zone:18,59,3.29,0,0.00,0.00,1791264,2005,Leptospirosis
+Narathiwat,46,6.60,0,0.00,0.00,697150,2005,Leptospirosis
+Pattani,1,0.16,0,0.00,0.00,632119,2005,Leptospirosis
+Yala,12,2.60,0,0.00,0.00,461995,2005,Leptospirosis
+Zone:19,55,3.51,1,1.82,0.06,1567672,2005,Leptospirosis
+Satun,0,0.00,0,0.00,0.00,275706,2005,Leptospirosis
+Songkhla,55,4.26,1,1.82,0.08,1291966,2005,Leptospirosis
+Total,1240,1.87,10,0.81,0.02,66179083,2021,Leptospirosis
+ZONE:01,87,1.48,0,0.00,0.00,5875424,2021,Leptospirosis
+Chiang Mai,18,1.01,0,0.00,0.00,1786877,2021,Leptospirosis
+Chiang Rai,31,2.39,0,0.00,0.00,1296725,2021,Leptospirosis
+Lampang,5,0.69,0,0.00,0.00,726821,2021,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Leptospirosis
+Mae Hong Son,3,1.05,0,0.00,0.00,285232,2021,Leptospirosis
+Nan,23,4.83,0,0.00,0.00,476300,2021,Leptospirosis
+Phayao,5,1.07,0,0.00,0.00,465930,2021,Leptospirosis
+Phrae,2,0.46,0,0.00,0.00,435965,2021,Leptospirosis
+ZONE:02,29,0.82,0,0.00,0.00,3536074,2021,Leptospirosis
+Phetchabun,2,0.20,0,0.00,0.00,980156,2021,Leptospirosis
+Phitsanulok,3,0.35,0,0.00,0.00,848432,2021,Leptospirosis
+Sukhothai,3,0.51,0,0.00,0.00,586617,2021,Leptospirosis
+Tak,17,2.52,0,0.00,0.00,673423,2021,Leptospirosis
+Uttaradit,4,0.89,0,0.00,0.00,447446,2021,Leptospirosis
+ZONE:03,5,0.17,0,0.00,0.00,2928596,2021,Leptospirosis
+Chai Nat,1,0.31,0,0.00,0.00,321454,2021,Leptospirosis
+Kamphaeng Phet,1,0.14,0,0.00,0.00,713130,2021,Leptospirosis
+Nakhon Sawan,2,0.19,0,0.00,0.00,1037668,2021,Leptospirosis
+Phichit,1,0.19,0,0.00,0.00,530852,2021,Leptospirosis
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Leptospirosis
+ZONE:04,1,0.02,0,0.00,0.00,5411959,2021,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Leptospirosis
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Leptospirosis
+Nonthaburi,1,0.08,0,0.00,0.00,1282690,2021,Leptospirosis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Leptospirosis
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Leptospirosis
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Leptospirosis
+ZONE:05,4,0.08,0,0.00,0.00,5332653,2021,Leptospirosis
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Leptospirosis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,551924,2021,Leptospirosis
+Ratchaburi,1,0.12,0,0.00,0.00,868797,2021,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Leptospirosis
+Samut Songkhram,1,0.52,0,0.00,0.00,191447,2021,Leptospirosis
+Suphan Buri,1,0.12,0,0.00,0.00,836993,2021,Leptospirosis
+ZONE:06,85,1.37,2,2.35,0.03,6218594,2021,Leptospirosis
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Leptospirosis
+Chanthaburi,80,14.92,2,2.50,0.37,536058,2021,Leptospirosis
+Chon Buri,3,0.19,0,0.00,0.00,1575278,2021,Leptospirosis
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Leptospirosis
+Rayong,1,0.13,0,0.00,0.00,746433,2021,Leptospirosis
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Leptospirosis
+Samut Prakan,1,0.07,0,0.00,0.00,1353964,2021,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,228456,2021,Leptospirosis
+ZONE:07,63,1.26,0,0.00,0.00,5017381,2021,Leptospirosis
+Kalasin,12,1.23,0,0.00,0.00,976373,2021,Leptospirosis
+Khon Kaen,11,0.61,0,0.00,0.00,1792697,2021,Leptospirosis
+Maha Sarakham,14,1.47,0,0.00,0.00,950985,2021,Leptospirosis
+Roi Et,26,2.00,0,0.00,0.00,1297326,2021,Leptospirosis
+ZONE:08,33,0.60,0,0.00,0.00,5518109,2021,Leptospirosis
+Bungkan,2,0.47,0,0.00,0.00,422019,2021,Leptospirosis
+Loei,20,3.13,0,0.00,0.00,638734,2021,Leptospirosis
+Nakhon Phanom,5,0.70,0,0.00,0.00,717121,2021,Leptospirosis
+Nong Bua Lam Phu,2,0.39,0,0.00,0.00,509236,2021,Leptospirosis
+Nong Khai,3,0.58,0,0.00,0.00,517140,2021,Leptospirosis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Leptospirosis
+Udon Thani,1,0.06,0,0.00,0.00,1567247,2021,Leptospirosis
+ZONE:09,30,0.45,0,0.00,0.00,6714997,2021,Leptospirosis
+Buri Ram,7,0.44,0,0.00,0.00,1580495,2021,Leptospirosis
+Chaiyaphum,6,0.53,0,0.00,0.00,1123595,2021,Leptospirosis
+Nakhon Ratchasima,8,0.30,0,0.00,0.00,2633681,2021,Leptospirosis
+Surin,9,0.65,0,0.00,0.00,1377226,2021,Leptospirosis
+ZONE:10,106,2.31,0,0.00,0.00,4587095,2021,Leptospirosis
+Amnat Charoen,3,0.80,0,0.00,0.00,376273,2021,Leptospirosis
+Mukdahan,7,1.99,0,0.00,0.00,351198,2021,Leptospirosis
+Si Sa Ket,48,3.29,0,0.00,0.00,1458068,2021,Leptospirosis
+Ubon Ratchathani,33,1.77,0,0.00,0.00,1867608,2021,Leptospirosis
+Yasothon,15,2.81,0,0.00,0.00,533948,2021,Leptospirosis
+ZONE:11,327,7.29,1,0.31,0.02,4487259,2021,Leptospirosis
+Chumphon,5,0.98,0,0.00,0.00,509344,2021,Leptospirosis
+Krabi,11,2.30,0,0.00,0.00,478561,2021,Leptospirosis
+Nakhon Si Thammarat,92,5.94,1,1.09,0.06,1550033,2021,Leptospirosis
+Phangnga,48,17.90,0,0.00,0.00,268123,2021,Leptospirosis
+Phuket,6,1.44,0,0.00,0.00,416629,2021,Leptospirosis
+Ranong,83,42.68,0,0.00,0.00,194473,2021,Leptospirosis
+Surat Thani,82,7.66,0,0.00,0.00,1070096,2021,Leptospirosis
+ZONE:12,470,9.41,7,1.49,0.14,4992834,2021,Leptospirosis
+Narathiwat,14,1.73,0,0.00,0.00,807045,2021,Leptospirosis
+Pattani,6,0.82,0,0.00,0.00,727799,2021,Leptospirosis
+Phatthalung,73,13.96,0,0.00,0.00,522810,2021,Leptospirosis
+Satun,24,7.40,0,0.00,0.00,324467,2021,Leptospirosis
+Songkhla,180,12.59,1,0.56,0.07,1430073,2021,Leptospirosis
+Trang,129,20.15,5,3.88,0.78,640182,2021,Leptospirosis
+Yala,44,8.14,1,2.27,0.19,540458,2021,Leptospirosis
+ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Leptospirosis
+Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Leptospirosis
 Total,1638,2.47,24,1.47,0.04,66372831,2020,Leptospirosis
 ZONE:01,129,2.19,0,0.00,0.00,5886870,2020,Leptospirosis
 Chiang Mai,36,2.02,0,0.00,0.00,1781812,2020,Leptospirosis
@@ -1339,105 +1538,279 @@ Trang,69,10.75,1,1.45,0.16,641868,2020,Leptospirosis
 Yala,125,23.26,3,2.40,0.56,537466,2020,Leptospirosis
 ZONE:13,3,0.05,0,0.00,0.00,5627243,2020,Leptospirosis
 Bangkok,3,0.05,0,0.00,0.00,5627243,2020,Leptospirosis
-Total,4210,6.66,73,1.73,0.12,63214022,2008,Leptospirosis
-Central Region,213,1.00,7,3.29,0.03,21226352,2008,Leptospirosis
-Bangkok,15,0.26,0,0.00,0.00,5713566,2008,Leptospirosis
-Zone:1,45,1.35,2,4.44,0.06,3335057,2008,Leptospirosis
-Nonthaburi,1,0.10,0,0.00,0.00,1038392,2008,Leptospirosis
-P.Nakhon S.Ayutthaya,23,3.01,2,8.70,0.26,764919,2008,Leptospirosis
-Pathum Thani,3,0.33,0,0.00,0.00,913047,2008,Leptospirosis
-Saraburi,18,2.91,0,0.00,0.00,618699,2008,Leptospirosis
-Zone:2,41,2.58,3,7.32,0.19,1588582,2008,Leptospirosis
-Ang Thong,2,0.70,0,0.00,0.00,284619,2008,Leptospirosis
-Chai Nat,28,8.32,3,10.71,0.89,336550,2008,Leptospirosis
-Lop Buri,8,1.06,0,0.00,0.00,751811,2008,Leptospirosis
-Sing Buri,3,1.39,0,0.00,0.00,215602,2008,Leptospirosis
-Zone:3,18,0.59,0,0.00,0.00,3046070,2008,Leptospirosis
-Chachoengsao,2,0.30,0,0.00,0.00,661898,2008,Leptospirosis
-Nakhon Nayok,3,1.20,0,0.00,0.00,249625,2008,Leptospirosis
-Prachin Buri,5,1.09,0,0.00,0.00,457184,2008,Leptospirosis
-Sa Kaeo,8,1.48,0,0.00,0.00,540281,2008,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1137082,2008,Leptospirosis
-Zone:4,19,0.57,1,5.26,0.03,3352570,2008,Leptospirosis
-Kanchanaburi,15,1.79,1,6.67,0.12,838094,2008,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,837285,2008,Leptospirosis
-Ratchaburi,1,0.12,0,0.00,0.00,833650,2008,Leptospirosis
-Suphan Buri,3,0.36,0,0.00,0.00,843541,2008,Leptospirosis
-Zone:5,2,0.12,0,0.00,0.00,1623176,2008,Leptospirosis
-Phetchaburi,1,0.22,0,0.00,0.00,457518,2008,Leptospirosis
-Prachuap Khiri Khan,1,0.20,0,0.00,0.00,497483,2008,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,474041,2008,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,194134,2008,Leptospirosis
-Zone:9,73,2.84,1,1.37,0.04,2567331,2008,Leptospirosis
-Chanthaburi,56,11.07,1,1.79,0.20,506012,2008,Leptospirosis
-Chon Buri,7,0.56,0,0.00,0.00,1249067,2008,Leptospirosis
-Rayong,6,1.02,0,0.00,0.00,591067,2008,Leptospirosis
-Trat,4,1.81,0,0.00,0.00,221185,2008,Leptospirosis
-South Region,580,6.67,2,0.34,0.02,8698196,2008,Leptospirosis
-Zone:6,312,8.98,1,0.32,0.03,3473895,2008,Leptospirosis
-Chumphon,24,4.97,0,0.00,0.00,483011,2008,Leptospirosis
-Nakhon Si Thammarat,238,15.76,1,0.42,0.07,1510081,2008,Leptospirosis
-Phatthalung,25,4.96,0,0.00,0.00,503847,2008,Leptospirosis
-Surat Thani,25,2.56,0,0.00,0.00,976956,2008,Leptospirosis
-Zone:7,137,7.70,0,0.00,0.00,1778692,2008,Leptospirosis
-Krabi,6,1.45,0,0.00,0.00,414670,2008,Leptospirosis
-Phangnga,62,24.96,0,0.00,0.00,248411,2008,Leptospirosis
-Phuket,16,4.98,0,0.00,0.00,321252,2008,Leptospirosis
-Ranong,28,15.41,0,0.00,0.00,181758,2008,Leptospirosis
-Trang,25,4.08,0,0.00,0.00,612601,2008,Leptospirosis
-Zone:8,131,3.80,1,0.76,0.03,3445609,2008,Leptospirosis
-Narathiwat,32,4.47,0,0.00,0.00,715724,2008,Leptospirosis
-Pattani,18,2.81,0,0.00,0.00,639988,2008,Leptospirosis
-Satun,8,2.79,0,0.00,0.00,286446,2008,Leptospirosis
-Songkhla,58,4.36,1,1.72,0.08,1330342,2008,Leptospirosis
-Yala,15,3.17,0,0.00,0.00,473109,2008,Leptospirosis
-North-Eastern Region,2926,13.66,51,1.74,0.24,21414180,2008,Leptospirosis
-Zone:10,427,12.02,1,0.23,0.03,3553449,2008,Leptospirosis
-Loei,170,27.55,1,0.59,0.16,616981,2008,Leptospirosis
-Nong Bua Lam Phu,3,0.60,0,0.00,0.00,498562,2008,Leptospirosis
-Nong Khai,86,9.51,0,0.00,0.00,904748,2008,Leptospirosis
-Udon Thani,168,10.96,0,0.00,0.00,1533158,2008,Leptospirosis
-Zone:11,49,2.28,4,8.16,0.19,2149587,2008,Leptospirosis
-Mukdahan,7,2.08,0,0.00,0.00,336802,2008,Leptospirosis
-Nakhon Phanom,10,1.43,2,20.00,0.29,698235,2008,Leptospirosis
-Sakon Nakhon,32,2.87,2,6.25,0.18,1114550,2008,Leptospirosis
-Zone:12,864,17.36,21,2.43,0.42,4976635,2008,Leptospirosis
-Kalasin,381,38.96,15,3.94,1.53,978046,2008,Leptospirosis
-Khon Kaen,342,19.50,3,0.88,0.17,1754258,2008,Leptospirosis
-Maha Sarakham,59,6.30,3,5.08,0.32,936430,2008,Leptospirosis
-Roi Et,82,6.27,0,0.00,0.00,1307901,2008,Leptospirosis
-Zone:13,488,11.78,2,0.41,0.05,4141403,2008,Leptospirosis
-Amnat Charoen,18,4.88,0,0.00,0.00,369196,2008,Leptospirosis
-Si Sa Ket,324,22.47,2,0.62,0.14,1442212,2008,Leptospirosis
-Ubon Ratchathani,129,7.20,0,0.00,0.00,1790581,2008,Leptospirosis
-Yasothon,17,3.15,0,0.00,0.00,539414,2008,Leptospirosis
-Zone:14,1098,16.65,23,2.09,0.35,6593106,2008,Leptospirosis
-Buri Ram,723,46.98,11,1.52,0.71,1538861,2008,Leptospirosis
-Chaiyaphum,46,4.10,2,4.35,0.18,1121123,2008,Leptospirosis
-Nakhon Ratchasima,92,3.60,1,1.09,0.04,2559006,2008,Leptospirosis
-Surin,237,17.25,9,3.80,0.65,1374116,2008,Leptospirosis
-North Region,491,4.13,13,2.65,0.11,11875294,2008,Leptospirosis
-Zone:15,73,2.36,0,0.00,0.00,3095362,2008,Leptospirosis
-Chiang Mai,26,1.56,0,0.00,0.00,1667358,2008,Leptospirosis
-Lampang,40,5.20,0,0.00,0.00,769115,2008,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,405141,2008,Leptospirosis
-Mae Hong Son,7,2.76,0,0.00,0.00,253748,2008,Leptospirosis
-Zone:16,268,10.10,10,3.73,0.38,2654508,2008,Leptospirosis
-Chiang Rai,95,7.75,2,2.11,0.16,1226165,2008,Leptospirosis
-Nan,79,16.57,4,5.06,0.84,476683,2008,Leptospirosis
-Phayao,81,16.63,4,4.94,0.82,486983,2008,Leptospirosis
-Phrae,13,2.80,0,0.00,0.00,464677,2008,Leptospirosis
-Zone:17,99,2.87,1,1.01,0.03,3443651,2008,Leptospirosis
-Phetchabun,37,3.71,0,0.00,0.00,996882,2008,Leptospirosis
-Phitsanulok,22,2.61,0,0.00,0.00,842840,2008,Leptospirosis
-Sukhothai,8,1.32,0,0.00,0.00,604559,2008,Leptospirosis
-Tak,11,2.06,0,0.00,0.00,534629,2008,Leptospirosis
-Uttaradit,21,4.52,1,4.76,0.22,464741,2008,Leptospirosis
-Zone:18,51,1.90,2,3.92,0.07,2681773,2008,Leptospirosis
-Kamphaeng Phet,5,0.69,0,0.00,0.00,726104,2008,Leptospirosis
-Nakhon Sawan,17,1.58,0,0.00,0.00,1073962,2008,Leptospirosis
-Phichit,10,1.80,0,0.00,0.00,554426,2008,Leptospirosis
-Uthai Thani,19,5.81,2,10.53,0.61,327281,2008,Leptospirosis
+Total,1543,2.34,16,1.04,0.02,66071545,2024,Leptospirosis
+ZONE:01,243,4.15,1,0.41,0.02,5857413,2024,Leptospirosis
+Chiang Mai,21,1.17,1,4.76,0.06,1794774,2024,Leptospirosis
+Chiang Rai,65,5.00,0,0.00,0.00,1299306,2024,Leptospirosis
+Lampang,21,2.94,0,0.00,0.00,715133,2024,Leptospirosis
+Lamphun,1,0.25,0,0.00,0.00,398998,2024,Leptospirosis
+Mae Hong Son,45,15.67,0,0.00,0.00,287215,2024,Leptospirosis
+Nan,70,14.78,0,0.00,0.00,473630,2024,Leptospirosis
+Phayao,17,3.70,0,0.00,0.00,459858,2024,Leptospirosis
+Phrae,3,0.70,0,0.00,0.00,428499,2024,Leptospirosis
+ZONE:02,11,0.31,0,0.00,0.00,3522489,2024,Leptospirosis
+Phetchabun,1,0.10,0,0.00,0.00,970403,2024,Leptospirosis
+Phitsanulok,2,0.24,0,0.00,0.00,843111,2024,Leptospirosis
+Sukhothai,2,0.34,0,0.00,0.00,579759,2024,Leptospirosis
+Tak,2,0.29,0,0.00,0.00,687927,2024,Leptospirosis
+Uttaradit,4,0.91,0,0.00,0.00,441289,2024,Leptospirosis
+ZONE:03,6,0.21,0,0.00,0.00,2896463,2024,Leptospirosis
+Chai Nat,2,0.63,0,0.00,0.00,317263,2024,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Leptospirosis
+Nakhon Sawan,3,0.29,0,0.00,0.00,1025348,2024,Leptospirosis
+Phichit,1,0.19,0,0.00,0.00,523925,2024,Leptospirosis
+Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Leptospirosis
+ZONE:04,11,0.20,0,0.00,0.00,5438863,2024,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Leptospirosis
+Lop Buri,1,0.14,0,0.00,0.00,732495,2024,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Leptospirosis
+Nonthaburi,2,0.15,0,0.00,0.00,1302004,2024,Leptospirosis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Leptospirosis
+Pathum Thani,5,0.41,0,0.00,0.00,1210365,2024,Leptospirosis
+Saraburi,3,0.47,0,0.00,0.00,638704,2024,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Leptospirosis
+ZONE:05,24,0.45,0,0.00,0.00,5326695,2024,Leptospirosis
+Kanchanaburi,9,1.01,0,0.00,0.00,894781,2024,Leptospirosis
+Nakhon Pathom,2,0.22,0,0.00,0.00,923201,2024,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Leptospirosis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Leptospirosis
+Ratchaburi,10,1.16,0,0.00,0.00,865276,2024,Leptospirosis
+Samut Sakhon,1,0.17,0,0.00,0.00,590730,2024,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Leptospirosis
+Suphan Buri,2,0.24,0,0.00,0.00,828542,2024,Leptospirosis
+ZONE:06,19,0.30,1,5.26,0.02,6292163,2024,Leptospirosis
+Chachoengsao,3,0.41,1,33.33,0.14,728615,2024,Leptospirosis
+Chanthaburi,10,1.86,0,0.00,0.00,536290,2024,Leptospirosis
+Chon Buri,2,0.12,0,0.00,0.00,1606412,2024,Leptospirosis
+Prachin Buri,1,0.20,0,0.00,0.00,498671,2024,Leptospirosis
+Rayong,1,0.13,0,0.00,0.00,765287,2024,Leptospirosis
+Sa Kaeo,1,0.18,0,0.00,0.00,562860,2024,Leptospirosis
+Samut Prakan,1,0.07,0,0.00,0.00,1366598,2024,Leptospirosis
+Trat,0,0.00,0,0.00,0.00,227430,2024,Leptospirosis
+ZONE:07,101,2.03,0,0.00,0.00,4981337,2024,Leptospirosis
+Kalasin,18,1.86,0,0.00,0.00,970084,2024,Leptospirosis
+Khon Kaen,9,0.51,0,0.00,0.00,1782008,2024,Leptospirosis
+Maha Sarakham,30,3.19,0,0.00,0.00,941261,2024,Leptospirosis
+Roi Et,44,3.42,0,0.00,0.00,1287984,2024,Leptospirosis
+ZONE:08,74,1.35,2,2.70,0.04,5500012,2024,Leptospirosis
+Bungkan,1,0.24,0,0.00,0.00,421086,2024,Leptospirosis
+Loei,45,7.07,0,0.00,0.00,636242,2024,Leptospirosis
+Nakhon Phanom,3,0.42,0,0.00,0.00,715466,2024,Leptospirosis
+Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,Leptospirosis
+Nong Khai,2,0.39,0,0.00,0.00,514909,2024,Leptospirosis
+Sakon Nakhon,7,0.61,1,14.29,0.09,1143922,2024,Leptospirosis
+Udon Thani,15,0.96,1,6.67,0.06,1560788,2024,Leptospirosis
+ZONE:09,80,1.20,3,3.75,0.04,6689028,2024,Leptospirosis
+Buri Ram,20,1.27,1,5.00,0.06,1575073,2024,Leptospirosis
+Chaiyaphum,16,1.43,0,0.00,0.00,1115652,2024,Leptospirosis
+Nakhon Ratchasima,29,1.10,1,3.45,0.04,2627927,2024,Leptospirosis
+Surin,15,1.09,1,6.67,0.07,1370376,2024,Leptospirosis
+ZONE:10,246,5.37,0,0.00,0.00,4578831,2024,Leptospirosis
+Amnat Charoen,1,0.27,0,0.00,0.00,374760,2024,Leptospirosis
+Mukdahan,1,0.28,0,0.00,0.00,351592,2024,Leptospirosis
+Si Sa Ket,184,12.67,0,0.00,0.00,1452532,2024,Leptospirosis
+Ubon Ratchathani,48,2.57,0,0.00,0.00,1869708,2024,Leptospirosis
+Yasothon,12,2.26,0,0.00,0.00,530239,2024,Leptospirosis
+ZONE:11,303,6.75,3,0.99,0.07,4489783,2024,Leptospirosis
+Chumphon,9,1.77,0,0.00,0.00,509122,2024,Leptospirosis
+Krabi,7,1.46,0,0.00,0.00,481089,2024,Leptospirosis
+Nakhon Si Thammarat,128,8.30,2,1.56,0.13,1543051,2024,Leptospirosis
+Phangnga,17,6.36,0,0.00,0.00,267250,2024,Leptospirosis
+Phuket,13,3.09,0,0.00,0.00,420746,2024,Leptospirosis
+Ranong,58,29.93,0,0.00,0.00,193799,2024,Leptospirosis
+Surat Thani,71,6.61,1,1.41,0.09,1074726,2024,Leptospirosis
+ZONE:12,417,8.31,6,1.44,0.12,5015209,2024,Leptospirosis
+Narathiwat,54,6.61,0,0.00,0.00,816642,2024,Leptospirosis
+Pattani,23,3.13,0,0.00,0.00,735017,2024,Leptospirosis
+Phatthalung,53,10.17,2,3.77,0.38,521109,2024,Leptospirosis
+Satun,45,13.83,0,0.00,0.00,325387,2024,Leptospirosis
+Songkhla,115,8.03,3,2.61,0.21,1431512,2024,Leptospirosis
+Trang,66,10.35,1,1.52,0.16,637612,2024,Leptospirosis
+Yala,61,11.13,0,0.00,0.00,547930,2024,Leptospirosis
+ZONE:13,8,0.15,0,0.00,0.00,5483259,2024,Leptospirosis
+Bangkok,8,0.15,0,0.00,0.00,5483259,2024,Leptospirosis
+Total,2295,3.51,36,1.57,0.06,65426907,2016,Leptospirosis
+ZONE:01,152,2.63,1,0.66,0.02,5781324,2016,Leptospirosis
+Chiang Mai,69,4.05,0,0.00,0.00,1703263,2016,Leptospirosis
+Chiang Rai,35,2.82,0,0.00,0.00,1242825,2016,Leptospirosis
+Lampang,11,1.46,0,0.00,0.00,752685,2016,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,405927,2016,Leptospirosis
+Mae Hong Son,6,2.30,0,0.00,0.00,260971,2016,Leptospirosis
+Nan,17,3.55,1,5.88,0.21,478890,2016,Leptospirosis
+Phayao,10,2.07,0,0.00,0.00,483550,2016,Leptospirosis
+Phrae,4,0.88,0,0.00,0.00,453213,2016,Leptospirosis
+ZONE:02,72,2.06,0,0.00,0.00,3498728,2016,Leptospirosis
+Phetchabun,2,0.20,0,0.00,0.00,996397,2016,Leptospirosis
+Phitsanulok,15,1.74,0,0.00,0.00,861194,2016,Leptospirosis
+Sukhothai,11,1.83,0,0.00,0.00,602085,2016,Leptospirosis
+Tak,7,1.21,0,0.00,0.00,578968,2016,Leptospirosis
+Uttaradit,37,8.04,0,0.00,0.00,460084,2016,Leptospirosis
+ZONE:03,17,0.56,0,0.00,0.00,3011449,2016,Leptospirosis
+Chai Nat,2,0.60,0,0.00,0.00,331968,2016,Leptospirosis
+Kamphaeng Phet,3,0.41,0,0.00,0.00,729839,2016,Leptospirosis
+Nakhon Sawan,9,0.84,0,0.00,0.00,1072349,2016,Leptospirosis
+Phichit,3,0.55,0,0.00,0.00,546750,2016,Leptospirosis
+Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Leptospirosis
+ZONE:04,15,0.29,0,0.00,0.00,5221125,2016,Leptospirosis
+Ang Thong,2,0.71,0,0.00,0.00,283371,2016,Leptospirosis
+Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Leptospirosis
+Nakhon Nayok,1,0.39,0,0.00,0.00,257939,2016,Leptospirosis
+Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Leptospirosis
+P.Nakhon S.Ayutthaya,6,0.74,0,0.00,0.00,805980,2016,Leptospirosis
+Pathum Thani,2,0.18,0,0.00,0.00,1084154,2016,Leptospirosis
+Saraburi,4,0.63,0,0.00,0.00,635567,2016,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Leptospirosis
+ZONE:05,5,0.10,0,0.00,0.00,5209561,2016,Leptospirosis
+Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Leptospirosis
+Nakhon Pathom,1,0.11,0,0.00,0.00,895207,2016,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,476391,2016,Leptospirosis
+Prachuap Khiri Khan,1,0.19,0,0.00,0.00,529912,2016,Leptospirosis
+Ratchaburi,1,0.12,0,0.00,0.00,860549,2016,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Leptospirosis
+Samut Songkhram,1,0.51,0,0.00,0.00,194283,2016,Leptospirosis
+Suphan Buri,1,0.12,0,0.00,0.00,849376,2016,Leptospirosis
+ZONE:06,24,0.41,2,8.33,0.03,5880124,2016,Leptospirosis
+Chachoengsao,2,0.29,0,0.00,0.00,698190,2016,Leptospirosis
+Chanthaburi,9,1.70,1,11.11,0.19,529194,2016,Leptospirosis
+Chon Buri,5,0.35,0,0.00,0.00,1438231,2016,Leptospirosis
+Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Leptospirosis
+Rayong,4,0.59,0,0.00,0.00,681696,2016,Leptospirosis
+Sa Kaeo,3,0.54,1,33.33,0.18,554555,2016,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1270420,2016,Leptospirosis
+Trat,1,0.44,0,0.00,0.00,227083,2016,Leptospirosis
+ZONE:07,346,6.85,2,0.58,0.04,5049920,2016,Leptospirosis
+Kalasin,157,15.94,0,0.00,0.00,985055,2016,Leptospirosis
+Khon Kaen,55,3.07,0,0.00,0.00,1794032,2016,Leptospirosis
+Maha Sarakham,85,8.83,1,1.18,0.10,962592,2016,Leptospirosis
+Roi Et,49,3.75,1,2.04,0.08,1308241,2016,Leptospirosis
+ZONE:08,113,2.05,1,0.88,0.02,5511930,2016,Leptospirosis
+Bungkan,1,0.24,0,0.00,0.00,419607,2016,Leptospirosis
+Loei,73,11.47,1,1.37,0.16,636666,2016,Leptospirosis
+Nakhon Phanom,2,0.28,0,0.00,0.00,714369,2016,Leptospirosis
+Nong Bua Lam Phu,16,3.14,0,0.00,0.00,509469,2016,Leptospirosis
+Nong Khai,8,1.54,0,0.00,0.00,518420,2016,Leptospirosis
+Sakon Nakhon,2,0.18,0,0.00,0.00,1140673,2016,Leptospirosis
+Udon Thani,11,0.70,0,0.00,0.00,1572726,2016,Leptospirosis
+ZONE:09,281,4.17,4,1.42,0.06,6737604,2016,Leptospirosis
+Buri Ram,56,3.54,0,0.00,0.00,1581955,2016,Leptospirosis
+Chaiyaphum,28,2.46,0,0.00,0.00,1137651,2016,Leptospirosis
+Nakhon Ratchasima,37,1.41,0,0.00,0.00,2624668,2016,Leptospirosis
+Surin,160,11.48,4,2.50,0.29,1393330,2016,Leptospirosis
+ZONE:10,549,11.98,8,1.46,0.17,4581192,2016,Leptospirosis
+Amnat Charoen,16,4.26,0,0.00,0.00,375881,2016,Leptospirosis
+Mukdahan,3,0.86,0,0.00,0.00,347059,2016,Leptospirosis
+Si Sa Ket,372,25.36,8,2.15,0.55,1467006,2016,Leptospirosis
+Ubon Ratchathani,120,6.48,0,0.00,0.00,1851049,2016,Leptospirosis
+Yasothon,38,7.03,0,0.00,0.00,540197,2016,Leptospirosis
+ZONE:11,369,8.42,9,2.44,0.21,4383957,2016,Leptospirosis
+Chumphon,2,0.40,0,0.00,0.00,503203,2016,Leptospirosis
+Krabi,19,4.14,0,0.00,0.00,459456,2016,Leptospirosis
+Nakhon Si Thammarat,193,12.45,3,1.55,0.19,1550278,2016,Leptospirosis
+Phangnga,27,10.28,1,3.70,0.38,262721,2016,Leptospirosis
+Phuket,5,1.31,0,0.00,0.00,382485,2016,Leptospirosis
+Ranong,58,31.81,0,0.00,0.00,182313,2016,Leptospirosis
+Surat Thani,65,6.23,5,7.69,0.48,1043501,2016,Leptospirosis
+ZONE:12,345,7.09,8,2.32,0.16,4865646,2016,Leptospirosis
+Narathiwat,27,3.47,0,0.00,0.00,778941,2016,Leptospirosis
+Pattani,6,0.87,0,0.00,0.00,690104,2016,Leptospirosis
+Phatthalung,75,14.38,3,4.00,0.58,521570,2016,Leptospirosis
+Satun,12,3.82,0,0.00,0.00,314297,2016,Leptospirosis
+Songkhla,122,8.68,2,1.64,0.14,1405939,2016,Leptospirosis
+Trang,61,9.53,3,4.92,0.47,639770,2016,Leptospirosis
+Yala,42,8.15,0,0.00,0.00,515025,2016,Leptospirosis
+ZONE:13,7,0.12,1,14.29,0.02,5694347,2016,Leptospirosis
+Bangkok,7,0.12,1,14.29,0.02,5694347,2016,Leptospirosis
+Total,2170,3.26,30,1.38,0.05,66486458,2019,Leptospirosis
+ZONE:01,199,3.38,1,0.50,0.02,5891985,2019,Leptospirosis
+Chiang Mai,11,0.62,0,0.00,0.00,1771499,2019,Leptospirosis
+Chiang Rai,90,6.95,0,0.00,0.00,1295217,2019,Leptospirosis
+Lampang,11,1.49,0,0.00,0.00,740600,2019,Leptospirosis
+Lamphun,3,0.74,1,33.33,0.25,405515,2019,Leptospirosis
+Mae Hong Son,9,3.18,0,0.00,0.00,283352,2019,Leptospirosis
+Nan,29,6.06,0,0.00,0.00,478608,2019,Leptospirosis
+Phayao,39,8.23,0,0.00,0.00,473786,2019,Leptospirosis
+Phrae,7,1.58,0,0.00,0.00,443408,2019,Leptospirosis
+ZONE:02,52,1.46,1,1.92,0.03,3570128,2019,Leptospirosis
+Phetchabun,6,0.60,0,0.00,0.00,993496,2019,Leptospirosis
+Phitsanulok,8,0.92,1,12.50,0.12,866068,2019,Leptospirosis
+Sukhothai,13,2.18,0,0.00,0.00,596165,2019,Leptospirosis
+Tak,11,1.67,0,0.00,0.00,660147,2019,Leptospirosis
+Uttaradit,14,3.08,0,0.00,0.00,454252,2019,Leptospirosis
+ZONE:03,15,0.50,0,0.00,0.00,2983068,2019,Leptospirosis
+Chai Nat,5,1.53,0,0.00,0.00,327437,2019,Leptospirosis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Leptospirosis
+Nakhon Sawan,5,0.47,0,0.00,0.00,1061926,2019,Leptospirosis
+Phichit,0,0.00,0,0.00,0.00,537843,2019,Leptospirosis
+Uthai Thani,5,1.52,0,0.00,0.00,329026,2019,Leptospirosis
+ZONE:04,12,0.22,0,0.00,0.00,5381695,2019,Leptospirosis
+Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Leptospirosis
+Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Leptospirosis
+Nakhon Nayok,1,0.38,0,0.00,0.00,260421,2019,Leptospirosis
+Nonthaburi,2,0.16,0,0.00,0.00,1255840,2019,Leptospirosis
+P.Nakhon S.Ayutthaya,2,0.24,0,0.00,0.00,818815,2019,Leptospirosis
+Pathum Thani,4,0.35,0,0.00,0.00,1154848,2019,Leptospirosis
+Saraburi,3,0.46,0,0.00,0.00,645468,2019,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Leptospirosis
+ZONE:05,11,0.21,0,0.00,0.00,5344807,2019,Leptospirosis
+Kanchanaburi,1,0.11,0,0.00,0.00,894338,2019,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,918542,2019,Leptospirosis
+Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Leptospirosis
+Prachuap Khiri Khan,2,0.36,0,0.00,0.00,551466,2019,Leptospirosis
+Ratchaburi,5,0.57,0,0.00,0.00,873310,2019,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Leptospirosis
+Samut Songkhram,3,1.55,0,0.00,0.00,193548,2019,Leptospirosis
+Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Leptospirosis
+ZONE:06,45,0.73,0,0.00,0.00,6154601,2019,Leptospirosis
+Chachoengsao,4,0.56,0,0.00,0.00,717561,2019,Leptospirosis
+Chanthaburi,23,4.28,0,0.00,0.00,537097,2019,Leptospirosis
+Chon Buri,1,0.06,0,0.00,0.00,1546873,2019,Leptospirosis
+Prachin Buri,1,0.20,0,0.00,0.00,493159,2019,Leptospirosis
+Rayong,6,0.82,0,0.00,0.00,729035,2019,Leptospirosis
+Sa Kaeo,2,0.35,0,0.00,0.00,565198,2019,Leptospirosis
+Samut Prakan,6,0.45,0,0.00,0.00,1335742,2019,Leptospirosis
+Trat,2,0.87,0,0.00,0.00,229936,2019,Leptospirosis
+ZONE:07,218,4.31,6,2.75,0.12,5057831,2019,Leptospirosis
+Kalasin,76,7.72,4,5.26,0.41,984381,2019,Leptospirosis
+Khon Kaen,49,2.72,0,0.00,0.00,1804384,2019,Leptospirosis
+Maha Sarakham,33,3.43,0,0.00,0.00,962856,2019,Leptospirosis
+Roi Et,60,4.59,2,3.33,0.15,1306210,2019,Leptospirosis
+ZONE:08,106,1.91,0,0.00,0.00,5559986,2019,Leptospirosis
+Bungkan,4,0.94,0,0.00,0.00,424016,2019,Leptospirosis
+Loei,65,10.11,0,0.00,0.00,642862,2019,Leptospirosis
+Nakhon Phanom,4,0.56,0,0.00,0.00,718961,2019,Leptospirosis
+Nong Bua Lam Phu,12,2.34,0,0.00,0.00,512449,2019,Leptospirosis
+Nong Khai,1,0.19,0,0.00,0.00,522207,2019,Leptospirosis
+Sakon Nakhon,9,0.78,0,0.00,0.00,1152835,2019,Leptospirosis
+Udon Thani,11,0.69,0,0.00,0.00,1586656,2019,Leptospirosis
+ZONE:09,188,2.77,1,0.53,0.01,6778372,2019,Leptospirosis
+Buri Ram,39,2.44,0,0.00,0.00,1595299,2019,Leptospirosis
+Chaiyaphum,27,2.37,0,0.00,0.00,1138067,2019,Leptospirosis
+Nakhon Ratchasima,41,1.55,0,0.00,0.00,2647663,2019,Leptospirosis
+Surin,81,5.80,1,1.23,0.07,1397343,2019,Leptospirosis
+ZONE:10,523,11.32,7,1.34,0.15,4618551,2019,Leptospirosis
+Amnat Charoen,26,6.87,0,0.00,0.00,378530,2019,Leptospirosis
+Mukdahan,10,2.84,2,20.00,0.57,352727,2019,Leptospirosis
+Si Sa Ket,257,17.45,5,1.95,0.34,1472934,2019,Leptospirosis
+Ubon Ratchathani,153,8.15,0,0.00,0.00,1876347,2019,Leptospirosis
+Yasothon,77,14.31,0,0.00,0.00,538013,2019,Leptospirosis
+ZONE:11,370,8.24,5,1.35,0.11,4487837,2019,Leptospirosis
+Chumphon,4,0.78,0,0.00,0.00,511134,2019,Leptospirosis
+Krabi,40,8.42,1,2.50,0.21,475239,2019,Leptospirosis
+Nakhon Si Thammarat,114,7.30,3,2.63,0.19,1561179,2019,Leptospirosis
+Phangnga,71,26.44,0,0.00,0.00,268513,2019,Leptospirosis
+Phuket,33,7.98,0,0.00,0.00,413397,2019,Leptospirosis
+Ranong,46,23.88,0,0.00,0.00,192619,2019,Leptospirosis
+Surat Thani,62,5.82,1,1.61,0.09,1065756,2019,Leptospirosis
+ZONE:12,423,8.48,9,2.13,0.18,4986140,2019,Leptospirosis
+Narathiwat,39,4.84,2,5.13,0.25,805248,2019,Leptospirosis
+Pattani,5,0.69,0,0.00,0.00,721591,2019,Leptospirosis
+Phatthalung,49,9.33,1,2.04,0.19,524955,2019,Leptospirosis
+Satun,19,5.89,0,0.00,0.00,322580,2019,Leptospirosis
+Songkhla,126,8.78,0,0.00,0.00,1434298,2019,Leptospirosis
+Trang,98,15.24,3,3.06,0.47,643140,2019,Leptospirosis
+Yala,87,16.28,3,3.45,0.56,534328,2019,Leptospirosis
+ZONE:13,8,0.14,0,0.00,0.00,5671457,2019,Leptospirosis
+Bangkok,8,0.14,0,0.00,0.00,5671457,2019,Leptospirosis
 Total,4962,7.88,82,1.65,0.13,62939819,2003,Leptospirosis
 North Region,773,6.38,24,3.10,0.20,12120537,2003,Leptospirosis
 Zone:1,609,10.57,23,3.78,0.40,5764017,2003,Leptospirosis
@@ -1539,566 +1912,193 @@ Yala,9,1.95,0,0.00,0.00,462553,2003,Leptospirosis
 Zone:19,14,0.90,0,0.00,0.00,1555007,2003,Leptospirosis
 Satun,3,1.10,0,0.00,0.00,272252,2003,Leptospirosis
 Songkhla,11,0.86,0,0.00,0.00,1282755,2003,Leptospirosis
-Total,2251,3.47,24,1.07,0.04,64955313,2014,Leptospirosis
-ZONE:00,8,0.14,0,0.00,0.00,5689268,2014,Leptospirosis
-Bangkok,8,0.14,0,0.00,0.00,5689268,2014,Leptospirosis
-ZONE:01,171,3.00,1,0.58,0.02,5704200,2014,Leptospirosis
-Chiang Mai,21,1.26,0,0.00,0.00,1672586,2014,Leptospirosis
-Chiang Rai,29,2.40,0,0.00,0.00,1206180,2014,Leptospirosis
-Lampang,37,4.91,0,0.00,0.00,753937,2014,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,405368,2014,Leptospirosis
-Mae Hong Son,5,2.02,0,0.00,0.00,247364,2014,Leptospirosis
-Nan,34,7.11,1,2.94,0.21,478088,2014,Leptospirosis
-Phayao,41,8.44,0,0.00,0.00,485599,2014,Leptospirosis
-Phrae,4,0.88,0,0.00,0.00,455078,2014,Leptospirosis
-ZONE:02,69,2.00,0,0.00,0.00,3452021,2014,Leptospirosis
-Phetchabun,11,1.11,0,0.00,0.00,995102,2014,Leptospirosis
-Phitsanulok,36,4.20,0,0.00,0.00,857682,2014,Leptospirosis
-Sukhothai,12,1.99,0,0.00,0.00,602586,2014,Leptospirosis
-Tak,1,0.19,0,0.00,0.00,535953,2014,Leptospirosis
-Uttaradit,9,1.95,0,0.00,0.00,460698,2014,Leptospirosis
-ZONE:03,22,0.73,0,0.00,0.00,3012608,2014,Leptospirosis
-Chai Nat,8,2.41,0,0.00,0.00,332526,2014,Leptospirosis
-Kamphaeng Phet,8,1.10,0,0.00,0.00,729076,2014,Leptospirosis
-Nakhon Sawan,3,0.28,0,0.00,0.00,1072949,2014,Leptospirosis
-Phichit,0,0.00,0,0.00,0.00,548199,2014,Leptospirosis
-Uthai Thani,3,0.91,0,0.00,0.00,329858,2014,Leptospirosis
-ZONE:04,24,0.46,3,12.50,0.06,5171756,2014,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Leptospirosis
-Lop Buri,3,0.40,0,0.00,0.00,758188,2014,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Leptospirosis
-P.Nakhon S.Ayutthaya,18,2.25,3,16.67,0.37,800785,2014,Leptospirosis
-Pathum Thani,0,0.00,0,0.00,0.00,1063608,2014,Leptospirosis
-Saraburi,3,0.48,0,0.00,0.00,631338,2014,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Leptospirosis
-ZONE:05,19,0.37,0,0.00,0.00,5147569,2014,Leptospirosis
-Kanchanaburi,10,1.18,0,0.00,0.00,845540,2014,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Leptospirosis
-Phetchaburi,2,0.42,0,0.00,0.00,472640,2014,Leptospirosis
-Prachuap Khiri Khan,2,0.38,0,0.00,0.00,522689,2014,Leptospirosis
-Ratchaburi,2,0.23,0,0.00,0.00,851689,2014,Leptospirosis
-Samut Sakhon,1,0.19,0,0.00,0.00,525672,2014,Leptospirosis
-Samut Songkhram,1,0.52,0,0.00,0.00,194153,2014,Leptospirosis
-Suphan Buri,1,0.12,0,0.00,0.00,848559,2014,Leptospirosis
-ZONE:06,77,1.33,0,0.00,0.00,5797595,2014,Leptospirosis
-Chachoengsao,29,4.19,0,0.00,0.00,692852,2014,Leptospirosis
-Chanthaburi,28,5.33,0,0.00,0.00,525805,2014,Leptospirosis
-Chon Buri,0,0.00,0,0.00,0.00,1405889,2014,Leptospirosis
-Prachin Buri,1,0.21,0,0.00,0.00,477741,2014,Leptospirosis
-Rayong,12,1.80,0,0.00,0.00,667806,2014,Leptospirosis
-Sa Kaeo,2,0.36,0,0.00,0.00,551562,2014,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Leptospirosis
-Trat,5,2.23,0,0.00,0.00,224370,2014,Leptospirosis
-ZONE:07,348,6.91,2,0.57,0.04,5037074,2014,Leptospirosis
-Kalasin,122,12.39,0,0.00,0.00,984468,2014,Leptospirosis
-Khon Kaen,73,4.09,1,1.37,0.06,1785852,2014,Leptospirosis
-Maha Sarakham,79,8.25,0,0.00,0.00,958116,2014,Leptospirosis
-Roi Et,74,5.65,1,1.35,0.08,1308638,2014,Leptospirosis
-ZONE:08,207,3.77,0,0.00,0.00,5490561,2014,Leptospirosis
-Bungkan,23,5.51,0,0.00,0.00,417401,2014,Leptospirosis
-Loei,67,10.58,0,0.00,0.00,633359,2014,Leptospirosis
-Nakhon Phanom,8,1.12,0,0.00,0.00,712101,2014,Leptospirosis
-Nong Bua Lam Phu,39,7.68,0,0.00,0.00,508001,2014,Leptospirosis
-Nong Khai,23,4.46,0,0.00,0.00,516101,2014,Leptospirosis
-Sakon Nakhon,17,1.50,0,0.00,0.00,1136466,2014,Leptospirosis
-Udon Thani,30,1.91,0,0.00,0.00,1567132,2014,Leptospirosis
-ZONE:09,296,4.41,4,1.35,0.06,6717984,2014,Leptospirosis
-Buri Ram,74,4.69,0,0.00,0.00,1576343,2014,Leptospirosis
-Chaiyaphum,28,2.46,0,0.00,0.00,1136386,2014,Leptospirosis
-Nakhon Ratchasima,41,1.57,1,2.44,0.04,2615340,2014,Leptospirosis
-Surin,153,11.01,3,1.96,0.22,1389915,2014,Leptospirosis
-ZONE:10,445,9.75,5,1.12,0.11,4564711,2014,Leptospirosis
-Amnat Charoen,28,7.47,1,3.57,0.27,375039,2014,Leptospirosis
-Mukdahan,5,1.45,0,0.00,0.00,345159,2014,Leptospirosis
-Si Sa Ket,258,17.63,4,1.55,0.27,1463620,2014,Leptospirosis
-Ubon Ratchathani,102,5.54,0,0.00,0.00,1840596,2014,Leptospirosis
-Yasothon,52,9.62,0,0.00,0.00,540297,2014,Leptospirosis
-ZONE:11,325,7.48,6,1.85,0.14,4344513,2014,Leptospirosis
-Chumphon,7,1.40,0,0.00,0.00,499435,2014,Leptospirosis
-Krabi,28,6.17,0,0.00,0.00,453850,2014,Leptospirosis
-Nakhon Si Thammarat,162,10.49,5,3.09,0.32,1544936,2014,Leptospirosis
-Phangnga,42,16.13,0,0.00,0.00,260395,2014,Leptospirosis
-Phuket,12,3.21,0,0.00,0.00,373943,2014,Leptospirosis
-Ranong,38,21.60,0,0.00,0.00,175933,2014,Leptospirosis
-Surat Thani,36,3.47,1,2.78,0.10,1036021,2014,Leptospirosis
-ZONE:12,240,4.97,3,1.25,0.06,4825453,2014,Leptospirosis
-Narathiwat,39,5.06,1,2.56,0.13,770472,2014,Leptospirosis
-Pattani,5,0.73,0,0.00,0.00,682512,2014,Leptospirosis
-Phatthalung,12,2.31,0,0.00,0.00,519220,2014,Leptospirosis
-Satun,34,10.92,0,0.00,0.00,311233,2014,Leptospirosis
-Songkhla,66,4.73,1,1.52,0.07,1395596,2014,Leptospirosis
-Trang,28,4.39,0,0.00,0.00,637395,2014,Leptospirosis
-Yala,56,11.00,1,1.79,0.20,509025,2014,Leptospirosis
-Total,1543,2.34,16,1.04,0.02,66071545,2024,Leptospirosis
-ZONE:01,243,4.15,1,0.41,0.02,5857413,2024,Leptospirosis
-Chiang Mai,21,1.17,1,4.76,0.06,1794774,2024,Leptospirosis
-Chiang Rai,65,5.00,0,0.00,0.00,1299306,2024,Leptospirosis
-Lampang,21,2.94,0,0.00,0.00,715133,2024,Leptospirosis
-Lamphun,1,0.25,0,0.00,0.00,398998,2024,Leptospirosis
-Mae Hong Son,45,15.67,0,0.00,0.00,287215,2024,Leptospirosis
-Nan,70,14.78,0,0.00,0.00,473630,2024,Leptospirosis
-Phayao,17,3.70,0,0.00,0.00,459858,2024,Leptospirosis
-Phrae,3,0.70,0,0.00,0.00,428499,2024,Leptospirosis
-ZONE:02,11,0.31,0,0.00,0.00,3522489,2024,Leptospirosis
-Phetchabun,1,0.10,0,0.00,0.00,970403,2024,Leptospirosis
-Phitsanulok,2,0.24,0,0.00,0.00,843111,2024,Leptospirosis
-Sukhothai,2,0.34,0,0.00,0.00,579759,2024,Leptospirosis
-Tak,2,0.29,0,0.00,0.00,687927,2024,Leptospirosis
-Uttaradit,4,0.91,0,0.00,0.00,441289,2024,Leptospirosis
-ZONE:03,6,0.21,0,0.00,0.00,2896463,2024,Leptospirosis
-Chai Nat,2,0.63,0,0.00,0.00,317263,2024,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Leptospirosis
-Nakhon Sawan,3,0.29,0,0.00,0.00,1025348,2024,Leptospirosis
-Phichit,1,0.19,0,0.00,0.00,523925,2024,Leptospirosis
-Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Leptospirosis
-ZONE:04,11,0.20,0,0.00,0.00,5438863,2024,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Leptospirosis
-Lop Buri,1,0.14,0,0.00,0.00,732495,2024,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Leptospirosis
-Nonthaburi,2,0.15,0,0.00,0.00,1302004,2024,Leptospirosis
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Leptospirosis
-Pathum Thani,5,0.41,0,0.00,0.00,1210365,2024,Leptospirosis
-Saraburi,3,0.47,0,0.00,0.00,638704,2024,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Leptospirosis
-ZONE:05,24,0.45,0,0.00,0.00,5326695,2024,Leptospirosis
-Kanchanaburi,9,1.01,0,0.00,0.00,894781,2024,Leptospirosis
-Nakhon Pathom,2,0.22,0,0.00,0.00,923201,2024,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Leptospirosis
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Leptospirosis
-Ratchaburi,10,1.16,0,0.00,0.00,865276,2024,Leptospirosis
-Samut Sakhon,1,0.17,0,0.00,0.00,590730,2024,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Leptospirosis
-Suphan Buri,2,0.24,0,0.00,0.00,828542,2024,Leptospirosis
-ZONE:06,19,0.30,1,5.26,0.02,6292163,2024,Leptospirosis
-Chachoengsao,3,0.41,1,33.33,0.14,728615,2024,Leptospirosis
-Chanthaburi,10,1.86,0,0.00,0.00,536290,2024,Leptospirosis
-Chon Buri,2,0.12,0,0.00,0.00,1606412,2024,Leptospirosis
-Prachin Buri,1,0.20,0,0.00,0.00,498671,2024,Leptospirosis
-Rayong,1,0.13,0,0.00,0.00,765287,2024,Leptospirosis
-Sa Kaeo,1,0.18,0,0.00,0.00,562860,2024,Leptospirosis
-Samut Prakan,1,0.07,0,0.00,0.00,1366598,2024,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,227430,2024,Leptospirosis
-ZONE:07,101,2.03,0,0.00,0.00,4981337,2024,Leptospirosis
-Kalasin,18,1.86,0,0.00,0.00,970084,2024,Leptospirosis
-Khon Kaen,9,0.51,0,0.00,0.00,1782008,2024,Leptospirosis
-Maha Sarakham,30,3.19,0,0.00,0.00,941261,2024,Leptospirosis
-Roi Et,44,3.42,0,0.00,0.00,1287984,2024,Leptospirosis
-ZONE:08,74,1.35,2,2.70,0.04,5500012,2024,Leptospirosis
-Bungkan,1,0.24,0,0.00,0.00,421086,2024,Leptospirosis
-Loei,45,7.07,0,0.00,0.00,636242,2024,Leptospirosis
-Nakhon Phanom,3,0.42,0,0.00,0.00,715466,2024,Leptospirosis
-Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,Leptospirosis
-Nong Khai,2,0.39,0,0.00,0.00,514909,2024,Leptospirosis
-Sakon Nakhon,7,0.61,1,14.29,0.09,1143922,2024,Leptospirosis
-Udon Thani,15,0.96,1,6.67,0.06,1560788,2024,Leptospirosis
-ZONE:09,80,1.20,3,3.75,0.04,6689028,2024,Leptospirosis
-Buri Ram,20,1.27,1,5.00,0.06,1575073,2024,Leptospirosis
-Chaiyaphum,16,1.43,0,0.00,0.00,1115652,2024,Leptospirosis
-Nakhon Ratchasima,29,1.10,1,3.45,0.04,2627927,2024,Leptospirosis
-Surin,15,1.09,1,6.67,0.07,1370376,2024,Leptospirosis
-ZONE:10,246,5.37,0,0.00,0.00,4578831,2024,Leptospirosis
-Amnat Charoen,1,0.27,0,0.00,0.00,374760,2024,Leptospirosis
-Mukdahan,1,0.28,0,0.00,0.00,351592,2024,Leptospirosis
-Si Sa Ket,184,12.67,0,0.00,0.00,1452532,2024,Leptospirosis
-Ubon Ratchathani,48,2.57,0,0.00,0.00,1869708,2024,Leptospirosis
-Yasothon,12,2.26,0,0.00,0.00,530239,2024,Leptospirosis
-ZONE:11,303,6.75,3,0.99,0.07,4489783,2024,Leptospirosis
-Chumphon,9,1.77,0,0.00,0.00,509122,2024,Leptospirosis
-Krabi,7,1.46,0,0.00,0.00,481089,2024,Leptospirosis
-Nakhon Si Thammarat,128,8.30,2,1.56,0.13,1543051,2024,Leptospirosis
-Phangnga,17,6.36,0,0.00,0.00,267250,2024,Leptospirosis
-Phuket,13,3.09,0,0.00,0.00,420746,2024,Leptospirosis
-Ranong,58,29.93,0,0.00,0.00,193799,2024,Leptospirosis
-Surat Thani,71,6.61,1,1.41,0.09,1074726,2024,Leptospirosis
-ZONE:12,417,8.31,6,1.44,0.12,5015209,2024,Leptospirosis
-Narathiwat,54,6.61,0,0.00,0.00,816642,2024,Leptospirosis
-Pattani,23,3.13,0,0.00,0.00,735017,2024,Leptospirosis
-Phatthalung,53,10.17,2,3.77,0.38,521109,2024,Leptospirosis
-Satun,45,13.83,0,0.00,0.00,325387,2024,Leptospirosis
-Songkhla,115,8.03,3,2.61,0.21,1431512,2024,Leptospirosis
-Trang,66,10.35,1,1.52,0.16,637612,2024,Leptospirosis
-Yala,61,11.13,0,0.00,0.00,547930,2024,Leptospirosis
-ZONE:13,8,0.15,0,0.00,0.00,5483259,2024,Leptospirosis
-Bangkok,8,0.15,0,0.00,0.00,5483259,2024,Leptospirosis
-Total,3508,5.31,69,1.97,0.10,66060027,2017,Leptospirosis
-ZONE:01,255,4.35,4,1.57,0.07,5864232,2017,Leptospirosis
-Chiang Mai,37,2.12,0,0.00,0.00,1741301,2017,Leptospirosis
-Chiang Rai,117,9.10,0,0.00,0.00,1285080,2017,Leptospirosis
-Lampang,26,3.48,2,7.69,0.27,747699,2017,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,405959,2017,Leptospirosis
-Mae Hong Son,3,1.08,0,0.00,0.00,277486,2017,Leptospirosis
-Nan,33,6.88,0,0.00,0.00,479877,2017,Leptospirosis
-Phayao,31,6.48,1,3.23,0.21,478144,2017,Leptospirosis
-Phrae,8,1.78,1,12.50,0.22,448686,2017,Leptospirosis
-ZONE:02,68,1.91,1,1.47,0.03,3556376,2017,Leptospirosis
-Phetchabun,10,1.00,0,0.00,0.00,995277,2017,Leptospirosis
-Phitsanulok,11,1.27,0,0.00,0.00,865564,2017,Leptospirosis
-Sukhothai,10,1.67,0,0.00,0.00,599775,2017,Leptospirosis
-Tak,12,1.88,0,0.00,0.00,638115,2017,Leptospirosis
-Uttaradit,25,5.46,1,4.00,0.22,457645,2017,Leptospirosis
-ZONE:03,20,0.67,1,5.00,0.03,2998104,2017,Leptospirosis
-Chai Nat,2,0.61,0,0.00,0.00,330077,2017,Leptospirosis
-Kamphaeng Phet,6,0.82,0,0.00,0.00,729337,2017,Leptospirosis
-Nakhon Sawan,10,0.94,0,0.00,0.00,1065895,2017,Leptospirosis
-Phichit,0,0.00,0,0.00,0.00,542674,2017,Leptospirosis
-Uthai Thani,2,0.61,1,50.00,0.30,330121,2017,Leptospirosis
-ZONE:04,7,0.13,0,0.00,0.00,5302492,2017,Leptospirosis
-Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Leptospirosis
-Lop Buri,1,0.13,0,0.00,0.00,757296,2017,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1220829,2017,Leptospirosis
-P.Nakhon S.Ayutthaya,3,0.37,0,0.00,0.00,812086,2017,Leptospirosis
-Pathum Thani,2,0.18,0,0.00,0.00,1120246,2017,Leptospirosis
-Saraburi,1,0.16,0,0.00,0.00,641052,2017,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Leptospirosis
-ZONE:05,19,0.36,0,0.00,0.00,5295696,2017,Leptospirosis
-Kanchanaburi,6,0.68,0,0.00,0.00,886546,2017,Leptospirosis
-Nakhon Pathom,3,0.33,0,0.00,0.00,908249,2017,Leptospirosis
-Phetchaburi,7,1.45,0,0.00,0.00,481514,2017,Leptospirosis
-Prachuap Khiri Khan,2,0.37,0,0.00,0.00,541756,2017,Leptospirosis
-Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,562592,2017,Leptospirosis
-Samut Songkhram,1,0.52,0,0.00,0.00,193985,2017,Leptospirosis
-Suphan Buri,0,0.00,0,0.00,0.00,850285,2017,Leptospirosis
-ZONE:06,69,1.15,0,0.00,0.00,6020790,2017,Leptospirosis
-Chachoengsao,8,1.13,0,0.00,0.00,707145,2017,Leptospirosis
-Chanthaburi,30,5.62,0,0.00,0.00,533463,2017,Leptospirosis
-Chon Buri,5,0.33,0,0.00,0.00,1496086,2017,Leptospirosis
-Prachin Buri,2,0.41,0,0.00,0.00,486187,2017,Leptospirosis
-Rayong,21,2.98,0,0.00,0.00,705729,2017,Leptospirosis
-Sa Kaeo,3,0.54,0,0.00,0.00,560478,2017,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1302160,2017,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,229542,2017,Leptospirosis
-ZONE:07,420,8.30,7,1.67,0.14,5060674,2017,Leptospirosis
-Kalasin,127,12.89,2,1.57,0.20,985619,2017,Leptospirosis
-Khon Kaen,77,4.27,0,0.00,0.00,1803831,2017,Leptospirosis
-Maha Sarakham,123,12.77,4,3.25,0.42,963277,2017,Leptospirosis
-Roi Et,93,7.11,1,1.08,0.08,1307947,2017,Leptospirosis
-ZONE:08,180,3.25,1,0.56,0.02,5541473,2017,Leptospirosis
-Bungkan,10,2.37,0,0.00,0.00,422328,2017,Leptospirosis
-Loei,106,16.54,1,0.94,0.16,640734,2017,Leptospirosis
-Nakhon Phanom,11,1.53,0,0.00,0.00,717451,2017,Leptospirosis
-Nong Bua Lam Phu,23,4.50,0,0.00,0.00,511188,2017,Leptospirosis
-Nong Khai,6,1.15,0,0.00,0.00,521125,2017,Leptospirosis
-Sakon Nakhon,4,0.35,0,0.00,0.00,1147710,2017,Leptospirosis
-Udon Thani,20,1.27,0,0.00,0.00,1580937,2017,Leptospirosis
-ZONE:09,386,5.71,8,2.07,0.12,6760383,2017,Leptospirosis
-Buri Ram,86,5.41,0,0.00,0.00,1589900,2017,Leptospirosis
-Chaiyaphum,22,1.93,0,0.00,0.00,1138778,2017,Leptospirosis
-Nakhon Ratchasima,107,4.06,4,3.74,0.15,2635331,2017,Leptospirosis
-Surin,171,12.25,4,2.34,0.29,1396374,2017,Leptospirosis
-ZONE:10,1011,21.95,16,1.58,0.35,4604905,2017,Leptospirosis
-Amnat Charoen,31,8.21,0,0.00,0.00,377614,2017,Leptospirosis
-Mukdahan,3,0.86,0,0.00,0.00,350128,2017,Leptospirosis
-Si Sa Ket,776,52.75,16,2.06,1.09,1471185,2017,Leptospirosis
-Ubon Ratchathani,154,8.25,0,0.00,0.00,1866299,2017,Leptospirosis
-Yasothon,47,8.71,0,0.00,0.00,539679,2017,Leptospirosis
-ZONE:11,572,12.88,21,3.67,0.47,4441086,2017,Leptospirosis
-Chumphon,5,0.98,0,0.00,0.00,508627,2017,Leptospirosis
-Krabi,88,18.81,3,3.41,0.64,467851,2017,Leptospirosis
-Nakhon Si Thammarat,274,17.61,9,3.28,0.58,1555957,2017,Leptospirosis
-Phangnga,44,16.51,0,0.00,0.00,266535,2017,Leptospirosis
-Phuket,27,6.78,1,3.70,0.25,398092,2017,Leptospirosis
-Ranong,26,13.70,3,11.54,1.58,189777,2017,Leptospirosis
-Surat Thani,108,10.24,5,4.63,0.47,1054247,2017,Leptospirosis
-ZONE:12,493,10.00,10,2.03,0.20,4929285,2017,Leptospirosis
-Narathiwat,30,3.78,2,6.67,0.25,792961,2017,Leptospirosis
-Pattani,31,4.39,0,0.00,0.00,705379,2017,Leptospirosis
-Phatthalung,70,13.35,1,1.43,0.19,524291,2017,Leptospirosis
-Satun,23,7.22,0,0.00,0.00,318655,2017,Leptospirosis
-Songkhla,108,7.60,2,1.85,0.14,1420834,2017,Leptospirosis
-Trang,175,27.24,4,2.29,0.62,642377,2017,Leptospirosis
-Yala,56,10.67,1,1.79,0.19,524788,2017,Leptospirosis
-ZONE:13,8,0.14,0,0.00,0.00,5684531,2017,Leptospirosis
-Bangkok,8,0.14,0,0.00,0.00,5684531,2017,Leptospirosis
-Total,3199,5.12,45,1.41,0.07,62526710,2004,Leptospirosis
-North Region,416,3.48,10,2.40,0.08,11965439,2004,Leptospirosis
-Zone:1,305,5.33,9,2.95,0.16,5720315,2004,Leptospirosis
-Chiang Mai,34,2.10,0,0.00,0.00,1616995,2004,Leptospirosis
-Chiang Rai,50,4.12,4,8.00,0.33,1214659,2004,Leptospirosis
-Lampang,51,6.47,1,1.96,0.13,788071,2004,Leptospirosis
-Lamphun,3,0.74,0,0.00,0.00,406911,2004,Leptospirosis
-Mae Hong Son,11,4.56,0,0.00,0.00,240988,2004,Leptospirosis
-Nan,49,10.21,0,0.00,0.00,479968,2004,Leptospirosis
-Phayao,58,11.72,2,3.45,0.40,494926,2004,Leptospirosis
-Phrae,49,10.26,2,4.08,0.42,477797,2004,Leptospirosis
-Zone:2,98,2.82,1,1.02,0.03,3480797,2004,Leptospirosis
-Phetchabun,37,3.60,0,0.00,0.00,1026733,2004,Leptospirosis
-Phitsanulok,29,3.39,1,3.45,0.12,854440,2004,Leptospirosis
-Sukhothai,3,0.49,0,0.00,0.00,616536,2004,Leptospirosis
-Tak,2,0.39,0,0.00,0.00,507296,2004,Leptospirosis
-Uttaradit,27,5.67,0,0.00,0.00,475792,2004,Leptospirosis
-Zone:3,13,0.47,0,0.00,0.00,2764327,2004,Leptospirosis
-Kamphaeng Phet,0,0.00,0,0.00,0.00,750331,2004,Leptospirosis
-Nakhon Sawan,7,0.64,0,0.00,0.00,1102099,2004,Leptospirosis
-Phichit,0,0.00,0,0.00,0.00,579155,2004,Leptospirosis
-Uthai Thani,6,1.80,0,0.00,0.00,332742,2004,Leptospirosis
-Central Region,175,0.85,4,2.29,0.02,20631429,2004,Leptospirosis
-Bangkok,5,0.09,0,0.00,0.00,5739370,2004,Leptospirosis
-Zone:4,14,0.51,1,7.14,0.04,2721016,2004,Leptospirosis
-Ang Thong,5,1.74,1,20.00,0.35,286896,2004,Leptospirosis
-Nonthaburi,3,0.32,0,0.00,0.00,933591,2004,Leptospirosis
-P.Nakhon S.Ayutthaya,3,0.40,0,0.00,0.00,745828,2004,Leptospirosis
-Pathum Thani,3,0.40,0,0.00,0.00,754701,2004,Leptospirosis
-Zone:5,44,2.27,1,2.27,0.05,1936502,2004,Leptospirosis
-Chai Nat,18,5.21,0,0.00,0.00,345355,2004,Leptospirosis
-Lop Buri,6,0.79,0,0.00,0.00,759000,2004,Leptospirosis
-Saraburi,18,2.95,1,5.56,0.16,610722,2004,Leptospirosis
-Sing Buri,2,0.90,0,0.00,0.00,221425,2004,Leptospirosis
-Zone:6,25,0.76,0,0.00,0.00,3287786,2004,Leptospirosis
-Kanchanaburi,8,1.00,0,0.00,0.00,803802,2004,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,805210,2004,Leptospirosis
-Ratchaburi,7,0.85,0,0.00,0.00,824406,2004,Leptospirosis
-Suphan Buri,10,1.17,0,0.00,0.00,854368,2004,Leptospirosis
-Zone:7,2,0.13,0,0.00,0.00,1587519,2004,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,456384,2004,Leptospirosis
-Prachuap Khiri Khan,2,0.41,0,0.00,0.00,486084,2004,Leptospirosis
-Samut Sakhon,0,0.00,0,0.00,0.00,445443,2004,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,199608,2004,Leptospirosis
-Zone:8,36,1.23,1,2.78,0.03,2934598,2004,Leptospirosis
-Chachoengsao,3,0.46,0,0.00,0.00,647967,2004,Leptospirosis
-Nakhon Nayok,6,2.40,0,0.00,0.00,250235,2004,Leptospirosis
-Prachin Buri,7,1.56,1,14.29,0.22,449940,2004,Leptospirosis
-Sa Kaeo,20,3.71,0,0.00,0.00,538823,2004,Leptospirosis
-Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Leptospirosis
-Zone:9,49,2.02,1,2.04,0.04,2424638,2004,Leptospirosis
-Chanthaburi,34,6.76,1,2.94,0.20,502794,2004,Leptospirosis
-Chon Buri,2,0.17,0,0.00,0.00,1150048,2004,Leptospirosis
-Rayong,13,2.36,0,0.00,0.00,550310,2004,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,221486,2004,Leptospirosis
-North-Eastern Region,2421,11.28,29,1.20,0.14,21463567,2004,Leptospirosis
-Zone:10,392,11.04,3,0.77,0.08,3549364,2004,Leptospirosis
-Loei,177,28.67,1,0.56,0.16,617280,2004,Leptospirosis
-Nong Bua Lam Phu,56,11.26,0,0.00,0.00,497298,2004,Leptospirosis
-Nong Khai,80,8.84,0,0.00,0.00,904499,2004,Leptospirosis
-Udon Thani,79,5.16,2,2.53,0.13,1530287,2004,Leptospirosis
-Zone:11,453,14.49,6,1.32,0.19,3127236,2004,Leptospirosis
-Kalasin,376,38.25,4,1.06,0.41,982947,2004,Leptospirosis
-Mukdahan,32,9.53,0,0.00,0.00,335819,2004,Leptospirosis
-Nakhon Phanom,5,0.71,0,0.00,0.00,700800,2004,Leptospirosis
-Sakon Nakhon,40,3.61,2,5.00,0.18,1107670,2004,Leptospirosis
-Zone:12,405,10.09,4,0.99,0.10,4012215,2004,Leptospirosis
-Khon Kaen,210,11.96,3,1.43,0.17,1756177,2004,Leptospirosis
-Maha Sarakham,57,6.07,0,0.00,0.00,939718,2004,Leptospirosis
-Roi Et,138,10.48,1,0.72,0.08,1316320,2004,Leptospirosis
-Zone:13,801,12.10,8,1.00,0.12,6621384,2004,Leptospirosis
-Buri Ram,214,13.90,0,0.00,0.00,1539135,2004,Leptospirosis
-Chaiyaphum,53,4.70,0,0.00,0.00,1128031,2004,Leptospirosis
-Nakhon Ratchasima,160,6.24,3,1.88,0.12,2565197,2004,Leptospirosis
-Surin,374,26.93,5,1.34,0.36,1389021,2004,Leptospirosis
-Zone:14,370,8.91,8,2.16,0.19,4153368,2004,Leptospirosis
-Amnat Charoen,27,7.32,0,0.00,0.00,369071,2004,Leptospirosis
-Si Sa Ket,148,10.19,8,5.41,0.55,1452971,2004,Leptospirosis
-Ubon Ratchathani,116,6.50,0,0.00,0.00,1784192,2004,Leptospirosis
-Yasothon,79,14.44,0,0.00,0.00,547134,2004,Leptospirosis
-South Region,187,2.21,2,1.07,0.02,8466275,2004,Leptospirosis
-Zone:15,39,2.47,1,2.56,0.06,1581379,2004,Leptospirosis
-Chumphon,19,4.00,0,0.00,0.00,474592,2004,Leptospirosis
-Ranong,9,5.30,1,11.11,0.59,169904,2004,Leptospirosis
-Surat Thani,11,1.17,0,0.00,0.00,936883,2004,Leptospirosis
-Zone:16,87,3.32,1,1.15,0.04,2619221,2004,Leptospirosis
-Nakhon Si Thammarat,32,2.11,1,3.13,0.07,1515708,2004,Leptospirosis
-Phatthalung,9,1.79,0,0.00,0.00,501447,2004,Leptospirosis
-Trang,46,7.64,0,0.00,0.00,602066,2004,Leptospirosis
-Zone:17,21,2.31,0,0.00,0.00,908170,2004,Leptospirosis
-Krabi,1,0.26,0,0.00,0.00,386084,2004,Leptospirosis
-Phangnga,15,6.25,0,0.00,0.00,239895,2004,Leptospirosis
-Phuket,5,1.77,0,0.00,0.00,282191,2004,Leptospirosis
-Zone:18,26,1.45,0,0.00,0.00,1795905,2004,Leptospirosis
-Narathiwat,16,2.28,0,0.00,0.00,701008,2004,Leptospirosis
-Pattani,0,0.00,0,0.00,0.00,632240,2004,Leptospirosis
-Yala,10,2.16,0,0.00,0.00,462657,2004,Leptospirosis
-Zone:19,14,0.90,0,0.00,0.00,1561600,2004,Leptospirosis
-Satun,0,0.00,0,0.00,0.00,273624,2004,Leptospirosis
-Songkhla,14,1.09,0,0.00,0.00,1287976,2004,Leptospirosis
-Total,5439,8.57,64,1.18,0.10,63457439,2009,Leptospirosis
-Central Region,219,1.02,7,3.20,0.03,21386001,2009,Leptospirosis
-Bangkok,22,0.39,0,0.00,0.00,5706739,2009,Leptospirosis
-Zone:1,34,1.00,0,0.00,0.00,3397461,2009,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1065332,2009,Leptospirosis
-P.Nakhon S.Ayutthaya,25,3.24,0,0.00,0.00,772142,2009,Leptospirosis
-Pathum Thani,0,0.00,0,0.00,0.00,942813,2009,Leptospirosis
-Saraburi,9,1.46,0,0.00,0.00,617174,2009,Leptospirosis
-Zone:2,34,2.14,2,5.88,0.13,1590058,2009,Leptospirosis
-Ang Thong,3,1.05,0,0.00,0.00,284819,2009,Leptospirosis
-Chai Nat,26,7.75,2,7.69,0.60,335686,2009,Leptospirosis
-Lop Buri,5,0.66,0,0.00,0.00,754127,2009,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,215426,2009,Leptospirosis
-Zone:3,24,0.78,0,0.00,0.00,3076347,2009,Leptospirosis
-Chachoengsao,0,0.00,0,0.00,0.00,666907,2009,Leptospirosis
-Nakhon Nayok,2,0.80,0,0.00,0.00,251219,2009,Leptospirosis
-Prachin Buri,0,0.00,0,0.00,0.00,460617,2009,Leptospirosis
-Sa Kaeo,16,2.95,0,0.00,0.00,541939,2009,Leptospirosis
-Samut Prakan,6,0.52,0,0.00,0.00,1155665,2009,Leptospirosis
-Zone:4,23,0.68,1,4.35,0.03,3364769,2009,Leptospirosis
-Kanchanaburi,19,2.27,1,5.26,0.12,837165,2009,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,847513,2009,Leptospirosis
-Ratchaburi,1,0.12,0,0.00,0.00,835546,2009,Leptospirosis
-Suphan Buri,3,0.36,0,0.00,0.00,844545,2009,Leptospirosis
-Zone:5,5,0.31,0,0.00,0.00,1637557,2009,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,460108,2009,Leptospirosis
-Prachuap Khiri Khan,3,0.60,0,0.00,0.00,502221,2009,Leptospirosis
-Samut Sakhon,1,0.21,0,0.00,0.00,481377,2009,Leptospirosis
-Samut Songkhram,1,0.52,0,0.00,0.00,193851,2009,Leptospirosis
-Zone:9,77,2.95,4,5.19,0.15,2613070,2009,Leptospirosis
-Chanthaburi,63,12.36,4,6.35,0.78,509633,2009,Leptospirosis
-Chon Buri,6,0.47,0,0.00,0.00,1277139,2009,Leptospirosis
-Rayong,4,0.66,0,0.00,0.00,605380,2009,Leptospirosis
-Trat,4,1.81,0,0.00,0.00,220918,2009,Leptospirosis
-South Region,924,10.53,9,0.97,0.10,8777720,2009,Leptospirosis
-Zone:6,294,8.41,1,0.34,0.03,3496373,2009,Leptospirosis
-Chumphon,8,1.65,0,0.00,0.00,486233,2009,Leptospirosis
-Nakhon Si Thammarat,134,8.85,0,0.00,0.00,1514832,2009,Leptospirosis
-Phatthalung,112,22.11,0,0.00,0.00,506454,2009,Leptospirosis
-Surat Thani,40,4.05,1,2.50,0.10,988854,2009,Leptospirosis
-Zone:7,411,22.78,2,0.49,0.11,1803902,2009,Leptospirosis
-Krabi,11,2.60,0,0.00,0.00,422631,2009,Leptospirosis
-Phangnga,100,39.87,0,0.00,0.00,250796,2009,Leptospirosis
-Phuket,26,7.84,1,3.85,0.30,331460,2009,Leptospirosis
-Ranong,227,124.56,1,0.44,0.55,182242,2009,Leptospirosis
-Trang,47,7.62,0,0.00,0.00,616773,2009,Leptospirosis
-Zone:8,219,6.30,6,2.74,0.17,3477445,2009,Leptospirosis
-Narathiwat,63,8.70,0,0.00,0.00,724001,2009,Leptospirosis
-Pattani,20,3.10,1,5.00,0.16,644897,2009,Leptospirosis
-Satun,28,9.63,2,7.14,0.69,290755,2009,Leptospirosis
-Songkhla,87,6.49,0,0.00,0.00,1339861,2009,Leptospirosis
-Yala,21,4.39,3,14.29,0.63,477931,2009,Leptospirosis
-North-Eastern Region,3774,17.58,39,1.03,0.18,21469269,2009,Leptospirosis
-Zone:10,498,13.97,1,0.20,0.03,3564168,2009,Leptospirosis
-Loei,209,33.73,0,0.00,0.00,619602,2009,Leptospirosis
-Nong Bua Lam Phu,18,3.60,0,0.00,0.00,500217,2009,Leptospirosis
-Nong Khai,67,7.39,0,0.00,0.00,907064,2009,Leptospirosis
-Udon Thani,204,13.27,1,0.49,0.07,1537285,2009,Leptospirosis
-Zone:11,117,5.43,0,0.00,0.00,2155042,2009,Leptospirosis
-Mukdahan,36,10.66,0,0.00,0.00,337773,2009,Leptospirosis
-Nakhon Phanom,8,1.14,0,0.00,0.00,700027,2009,Leptospirosis
-Sakon Nakhon,73,6.53,0,0.00,0.00,1117242,2009,Leptospirosis
-Zone:12,826,16.57,22,2.66,0.44,4984201,2009,Leptospirosis
-Kalasin,236,24.10,14,5.93,1.43,979371,2009,Leptospirosis
-Khon Kaen,359,20.41,1,0.28,0.06,1759172,2009,Leptospirosis
-Maha Sarakham,90,9.60,2,2.22,0.21,937972,2009,Leptospirosis
-Roi Et,141,10.78,5,3.55,0.38,1307686,2009,Leptospirosis
-Zone:13,821,19.77,1,0.12,0.02,4152834,2009,Leptospirosis
-Amnat Charoen,30,8.11,0,0.00,0.00,370141,2009,Leptospirosis
-Si Sa Ket,568,39.34,0,0.00,0.00,1443879,2009,Leptospirosis
-Ubon Ratchathani,209,11.61,0,0.00,0.00,1799604,2009,Leptospirosis
-Yasothon,14,2.60,1,7.14,0.19,539210,2009,Leptospirosis
-Zone:14,1512,22.86,15,0.99,0.23,6613024,2009,Leptospirosis
-Buri Ram,671,43.45,3,0.45,0.19,1544218,2009,Leptospirosis
-Chaiyaphum,57,5.07,1,1.75,0.09,1123907,2009,Leptospirosis
-Nakhon Ratchasima,137,5.33,4,2.92,0.16,2568205,2009,Leptospirosis
-Surin,647,47.00,7,1.08,0.51,1376694,2009,Leptospirosis
-North Region,522,4.41,9,1.72,0.08,11824449,2009,Leptospirosis
-Zone:15,88,2.87,4,4.55,0.13,3069670,2009,Leptospirosis
-Chiang Mai,51,3.09,4,7.84,0.24,1651433,2009,Leptospirosis
-Lampang,25,3.26,0,0.00,0.00,766057,2009,Leptospirosis
-Lamphun,0,0.00,0,0.00,0.00,404910,2009,Leptospirosis
-Mae Hong Son,12,4.85,0,0.00,0.00,247270,2009,Leptospirosis
-Zone:16,243,9.22,2,0.82,0.08,2636963,2009,Leptospirosis
-Chiang Rai,65,5.37,0,0.00,0.00,1211126,2009,Leptospirosis
-Nan,87,18.29,1,1.15,0.21,475799,2009,Leptospirosis
-Phayao,73,14.98,1,1.37,0.21,487254,2009,Leptospirosis
-Phrae,18,3.89,0,0.00,0.00,462784,2009,Leptospirosis
-Zone:17,115,3.35,3,2.61,0.09,3436350,2009,Leptospirosis
-Phetchabun,41,4.12,2,4.88,0.20,995679,2009,Leptospirosis
-Phitsanulok,42,4.97,0,0.00,0.00,844779,2009,Leptospirosis
-Sukhothai,11,1.82,1,9.09,0.17,603316,2009,Leptospirosis
-Tak,3,0.57,0,0.00,0.00,528997,2009,Leptospirosis
-Uttaradit,18,3.88,0,0.00,0.00,463579,2009,Leptospirosis
-Zone:18,76,2.83,0,0.00,0.00,2681466,2009,Leptospirosis
-Kamphaeng Phet,16,2.20,0,0.00,0.00,726530,2009,Leptospirosis
-Nakhon Sawan,30,2.79,0,0.00,0.00,1073554,2009,Leptospirosis
-Phichit,21,3.79,0,0.00,0.00,553653,2009,Leptospirosis
-Uthai Thani,9,2.75,0,0.00,0.00,327729,2009,Leptospirosis
-Total,2151,3.30,51,2.37,0.08,65124716,2015,Leptospirosis
-ZONE:00,3,0.05,0,0.00,0.00,5692284,2015,Leptospirosis
-Bangkok,3,0.05,0,0.00,0.00,5692284,2015,Leptospirosis
-ZONE:01,151,2.64,3,1.99,0.05,5709443,2015,Leptospirosis
-Chiang Mai,54,3.22,0,0.00,0.00,1678284,2015,Leptospirosis
-Chiang Rai,21,1.74,1,4.76,0.08,1207699,2015,Leptospirosis
-Lampang,14,1.86,0,0.00,0.00,753013,2015,Leptospirosis
-Lamphun,1,0.25,0,0.00,0.00,405468,2015,Leptospirosis
-Mae Hong Son,5,2.01,0,0.00,0.00,248178,2015,Leptospirosis
-Nan,34,7.11,2,5.88,0.42,478264,2015,Leptospirosis
-Phayao,14,2.89,0,0.00,0.00,484454,2015,Leptospirosis
-Phrae,8,1.76,0,0.00,0.00,454083,2015,Leptospirosis
-ZONE:02,47,1.36,2,4.26,0.06,3457208,2015,Leptospirosis
-Phetchabun,2,0.20,1,50.00,0.10,995807,2015,Leptospirosis
-Phitsanulok,15,1.75,0,0.00,0.00,858988,2015,Leptospirosis
-Sukhothai,7,1.16,0,0.00,0.00,602460,2015,Leptospirosis
-Tak,9,1.67,0,0.00,0.00,539553,2015,Leptospirosis
-Uttaradit,14,3.04,1,7.14,0.22,460400,2015,Leptospirosis
-ZONE:03,15,0.50,0,0.00,0.00,3012283,2015,Leptospirosis
-Chai Nat,2,0.60,0,0.00,0.00,332283,2015,Leptospirosis
-Kamphaeng Phet,2,0.27,0,0.00,0.00,729522,2015,Leptospirosis
-Nakhon Sawan,5,0.47,0,0.00,0.00,1072756,2015,Leptospirosis
-Phichit,3,0.55,0,0.00,0.00,547543,2015,Leptospirosis
-Uthai Thani,3,0.91,0,0.00,0.00,330179,2015,Leptospirosis
-ZONE:04,12,0.23,1,8.33,0.02,5196419,2015,Leptospirosis
-Ang Thong,1,0.35,1,100.00,0.35,283568,2015,Leptospirosis
-Lop Buri,1,0.13,0,0.00,0.00,758406,2015,Leptospirosis
-Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Leptospirosis
-Nonthaburi,0,0.00,0,0.00,0.00,1173870,2015,Leptospirosis
-P.Nakhon S.Ayutthaya,9,1.12,0,0.00,0.00,803599,2015,Leptospirosis
-Pathum Thani,1,0.09,0,0.00,0.00,1074058,2015,Leptospirosis
-Saraburi,0,0.00,0,0.00,0.00,633460,2015,Leptospirosis
-Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Leptospirosis
-ZONE:05,10,0.19,0,0.00,0.00,5166914,2015,Leptospirosis
-Kanchanaburi,3,0.35,0,0.00,0.00,848198,2015,Leptospirosis
-Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Leptospirosis
-Phetchaburi,0,0.00,0,0.00,0.00,474192,2015,Leptospirosis
-Prachuap Khiri Khan,1,0.19,0,0.00,0.00,525107,2015,Leptospirosis
-Ratchaburi,4,0.47,0,0.00,0.00,853217,2015,Leptospirosis
-Samut Sakhon,1,0.19,0,0.00,0.00,531887,2015,Leptospirosis
-Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Leptospirosis
-Suphan Buri,1,0.12,0,0.00,0.00,849053,2015,Leptospirosis
-ZONE:06,28,0.48,2,7.14,0.03,5836407,2015,Leptospirosis
-Chachoengsao,1,0.14,0,0.00,0.00,695478,2015,Leptospirosis
-Chanthaburi,16,3.03,1,6.25,0.19,527350,2015,Leptospirosis
-Chon Buri,2,0.14,0,0.00,0.00,1421425,2015,Leptospirosis
-Prachin Buri,2,0.42,0,0.00,0.00,479314,2015,Leptospirosis
-Rayong,5,0.74,1,20.00,0.15,674393,2015,Leptospirosis
-Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Leptospirosis
-Samut Prakan,2,0.16,0,0.00,0.00,1261530,2015,Leptospirosis
-Trat,0,0.00,0,0.00,0.00,224730,2015,Leptospirosis
-ZONE:07,411,8.15,5,1.22,0.10,5043862,2015,Leptospirosis
-Kalasin,144,14.62,0,0.00,0.00,984907,2015,Leptospirosis
-Khon Kaen,87,4.86,0,0.00,0.00,1790049,2015,Leptospirosis
-Maha Sarakham,82,8.54,2,2.44,0.21,960588,2015,Leptospirosis
-Roi Et,98,7.49,3,3.06,0.23,1308318,2015,Leptospirosis
-ZONE:08,123,2.24,0,0.00,0.00,5501453,2015,Leptospirosis
-Bungkan,5,1.19,0,0.00,0.00,418566,2015,Leptospirosis
-Loei,86,13.55,0,0.00,0.00,634513,2015,Leptospirosis
-Nakhon Phanom,3,0.42,0,0.00,0.00,713341,2015,Leptospirosis
-Nong Bua Lam Phu,12,2.36,0,0.00,0.00,508864,2015,Leptospirosis
-Nong Khai,7,1.35,0,0.00,0.00,517260,2015,Leptospirosis
-Sakon Nakhon,3,0.26,0,0.00,0.00,1138609,2015,Leptospirosis
-Udon Thani,7,0.45,0,0.00,0.00,1570300,2015,Leptospirosis
-ZONE:09,289,4.30,3,1.04,0.04,6728450,2015,Leptospirosis
-Buri Ram,24,1.52,0,0.00,0.00,1579248,2015,Leptospirosis
-Chaiyaphum,52,4.57,0,0.00,0.00,1137049,2015,Leptospirosis
-Nakhon Ratchasima,47,1.79,2,4.26,0.08,2620517,2015,Leptospirosis
-Surin,166,11.93,1,0.60,0.07,1391636,2015,Leptospirosis
-ZONE:10,514,11.24,20,3.89,0.44,4571489,2015,Leptospirosis
-Amnat Charoen,17,4.53,0,0.00,0.00,375380,2015,Leptospirosis
-Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Leptospirosis
-Si Sa Ket,313,21.36,19,6.07,1.30,1465213,2015,Leptospirosis
-Ubon Ratchathani,148,8.02,0,0.00,0.00,1844669,2015,Leptospirosis
-Yasothon,36,6.66,1,2.78,0.19,540211,2015,Leptospirosis
-ZONE:11,299,6.85,5,1.67,0.11,4362467,2015,Leptospirosis
-Chumphon,3,0.60,0,0.00,0.00,500575,2015,Leptospirosis
-Krabi,21,4.60,0,0.00,0.00,456811,2015,Leptospirosis
-Nakhon Si Thammarat,143,9.24,3,2.10,0.19,1548028,2015,Leptospirosis
-Phangnga,29,11.10,0,0.00,0.00,261370,2015,Leptospirosis
-Phuket,11,2.91,0,0.00,0.00,378364,2015,Leptospirosis
-Ranong,31,17.51,0,0.00,0.00,177089,2015,Leptospirosis
-Surat Thani,61,5.86,2,3.28,0.19,1040230,2015,Leptospirosis
-ZONE:12,249,5.14,10,4.02,0.21,4846037,2015,Leptospirosis
-Narathiwat,25,3.23,1,4.00,0.13,774799,2015,Leptospirosis
-Pattani,17,2.48,0,0.00,0.00,686186,2015,Leptospirosis
-Phatthalung,47,9.03,6,12.77,1.15,520419,2015,Leptospirosis
-Satun,14,4.48,0,0.00,0.00,312673,2015,Leptospirosis
-Songkhla,59,4.21,1,1.69,0.07,1401303,2015,Leptospirosis
-Trang,44,6.89,1,2.27,0.16,638746,2015,Leptospirosis
-Yala,43,8.40,1,2.33,0.20,511911,2015,Leptospirosis
+Total,4210,6.66,73,1.73,0.12,63214022,2008,Leptospirosis
+Central Region,213,1.00,7,3.29,0.03,21226352,2008,Leptospirosis
+Bangkok,15,0.26,0,0.00,0.00,5713566,2008,Leptospirosis
+Zone:1,45,1.35,2,4.44,0.06,3335057,2008,Leptospirosis
+Nonthaburi,1,0.10,0,0.00,0.00,1038392,2008,Leptospirosis
+P.Nakhon S.Ayutthaya,23,3.01,2,8.70,0.26,764919,2008,Leptospirosis
+Pathum Thani,3,0.33,0,0.00,0.00,913047,2008,Leptospirosis
+Saraburi,18,2.91,0,0.00,0.00,618699,2008,Leptospirosis
+Zone:2,41,2.58,3,7.32,0.19,1588582,2008,Leptospirosis
+Ang Thong,2,0.70,0,0.00,0.00,284619,2008,Leptospirosis
+Chai Nat,28,8.32,3,10.71,0.89,336550,2008,Leptospirosis
+Lop Buri,8,1.06,0,0.00,0.00,751811,2008,Leptospirosis
+Sing Buri,3,1.39,0,0.00,0.00,215602,2008,Leptospirosis
+Zone:3,18,0.59,0,0.00,0.00,3046070,2008,Leptospirosis
+Chachoengsao,2,0.30,0,0.00,0.00,661898,2008,Leptospirosis
+Nakhon Nayok,3,1.20,0,0.00,0.00,249625,2008,Leptospirosis
+Prachin Buri,5,1.09,0,0.00,0.00,457184,2008,Leptospirosis
+Sa Kaeo,8,1.48,0,0.00,0.00,540281,2008,Leptospirosis
+Samut Prakan,0,0.00,0,0.00,0.00,1137082,2008,Leptospirosis
+Zone:4,19,0.57,1,5.26,0.03,3352570,2008,Leptospirosis
+Kanchanaburi,15,1.79,1,6.67,0.12,838094,2008,Leptospirosis
+Nakhon Pathom,0,0.00,0,0.00,0.00,837285,2008,Leptospirosis
+Ratchaburi,1,0.12,0,0.00,0.00,833650,2008,Leptospirosis
+Suphan Buri,3,0.36,0,0.00,0.00,843541,2008,Leptospirosis
+Zone:5,2,0.12,0,0.00,0.00,1623176,2008,Leptospirosis
+Phetchaburi,1,0.22,0,0.00,0.00,457518,2008,Leptospirosis
+Prachuap Khiri Khan,1,0.20,0,0.00,0.00,497483,2008,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,474041,2008,Leptospirosis
+Samut Songkhram,0,0.00,0,0.00,0.00,194134,2008,Leptospirosis
+Zone:9,73,2.84,1,1.37,0.04,2567331,2008,Leptospirosis
+Chanthaburi,56,11.07,1,1.79,0.20,506012,2008,Leptospirosis
+Chon Buri,7,0.56,0,0.00,0.00,1249067,2008,Leptospirosis
+Rayong,6,1.02,0,0.00,0.00,591067,2008,Leptospirosis
+Trat,4,1.81,0,0.00,0.00,221185,2008,Leptospirosis
+South Region,580,6.67,2,0.34,0.02,8698196,2008,Leptospirosis
+Zone:6,312,8.98,1,0.32,0.03,3473895,2008,Leptospirosis
+Chumphon,24,4.97,0,0.00,0.00,483011,2008,Leptospirosis
+Nakhon Si Thammarat,238,15.76,1,0.42,0.07,1510081,2008,Leptospirosis
+Phatthalung,25,4.96,0,0.00,0.00,503847,2008,Leptospirosis
+Surat Thani,25,2.56,0,0.00,0.00,976956,2008,Leptospirosis
+Zone:7,137,7.70,0,0.00,0.00,1778692,2008,Leptospirosis
+Krabi,6,1.45,0,0.00,0.00,414670,2008,Leptospirosis
+Phangnga,62,24.96,0,0.00,0.00,248411,2008,Leptospirosis
+Phuket,16,4.98,0,0.00,0.00,321252,2008,Leptospirosis
+Ranong,28,15.41,0,0.00,0.00,181758,2008,Leptospirosis
+Trang,25,4.08,0,0.00,0.00,612601,2008,Leptospirosis
+Zone:8,131,3.80,1,0.76,0.03,3445609,2008,Leptospirosis
+Narathiwat,32,4.47,0,0.00,0.00,715724,2008,Leptospirosis
+Pattani,18,2.81,0,0.00,0.00,639988,2008,Leptospirosis
+Satun,8,2.79,0,0.00,0.00,286446,2008,Leptospirosis
+Songkhla,58,4.36,1,1.72,0.08,1330342,2008,Leptospirosis
+Yala,15,3.17,0,0.00,0.00,473109,2008,Leptospirosis
+North-Eastern Region,2926,13.66,51,1.74,0.24,21414180,2008,Leptospirosis
+Zone:10,427,12.02,1,0.23,0.03,3553449,2008,Leptospirosis
+Loei,170,27.55,1,0.59,0.16,616981,2008,Leptospirosis
+Nong Bua Lam Phu,3,0.60,0,0.00,0.00,498562,2008,Leptospirosis
+Nong Khai,86,9.51,0,0.00,0.00,904748,2008,Leptospirosis
+Udon Thani,168,10.96,0,0.00,0.00,1533158,2008,Leptospirosis
+Zone:11,49,2.28,4,8.16,0.19,2149587,2008,Leptospirosis
+Mukdahan,7,2.08,0,0.00,0.00,336802,2008,Leptospirosis
+Nakhon Phanom,10,1.43,2,20.00,0.29,698235,2008,Leptospirosis
+Sakon Nakhon,32,2.87,2,6.25,0.18,1114550,2008,Leptospirosis
+Zone:12,864,17.36,21,2.43,0.42,4976635,2008,Leptospirosis
+Kalasin,381,38.96,15,3.94,1.53,978046,2008,Leptospirosis
+Khon Kaen,342,19.50,3,0.88,0.17,1754258,2008,Leptospirosis
+Maha Sarakham,59,6.30,3,5.08,0.32,936430,2008,Leptospirosis
+Roi Et,82,6.27,0,0.00,0.00,1307901,2008,Leptospirosis
+Zone:13,488,11.78,2,0.41,0.05,4141403,2008,Leptospirosis
+Amnat Charoen,18,4.88,0,0.00,0.00,369196,2008,Leptospirosis
+Si Sa Ket,324,22.47,2,0.62,0.14,1442212,2008,Leptospirosis
+Ubon Ratchathani,129,7.20,0,0.00,0.00,1790581,2008,Leptospirosis
+Yasothon,17,3.15,0,0.00,0.00,539414,2008,Leptospirosis
+Zone:14,1098,16.65,23,2.09,0.35,6593106,2008,Leptospirosis
+Buri Ram,723,46.98,11,1.52,0.71,1538861,2008,Leptospirosis
+Chaiyaphum,46,4.10,2,4.35,0.18,1121123,2008,Leptospirosis
+Nakhon Ratchasima,92,3.60,1,1.09,0.04,2559006,2008,Leptospirosis
+Surin,237,17.25,9,3.80,0.65,1374116,2008,Leptospirosis
+North Region,491,4.13,13,2.65,0.11,11875294,2008,Leptospirosis
+Zone:15,73,2.36,0,0.00,0.00,3095362,2008,Leptospirosis
+Chiang Mai,26,1.56,0,0.00,0.00,1667358,2008,Leptospirosis
+Lampang,40,5.20,0,0.00,0.00,769115,2008,Leptospirosis
+Lamphun,0,0.00,0,0.00,0.00,405141,2008,Leptospirosis
+Mae Hong Son,7,2.76,0,0.00,0.00,253748,2008,Leptospirosis
+Zone:16,268,10.10,10,3.73,0.38,2654508,2008,Leptospirosis
+Chiang Rai,95,7.75,2,2.11,0.16,1226165,2008,Leptospirosis
+Nan,79,16.57,4,5.06,0.84,476683,2008,Leptospirosis
+Phayao,81,16.63,4,4.94,0.82,486983,2008,Leptospirosis
+Phrae,13,2.80,0,0.00,0.00,464677,2008,Leptospirosis
+Zone:17,99,2.87,1,1.01,0.03,3443651,2008,Leptospirosis
+Phetchabun,37,3.71,0,0.00,0.00,996882,2008,Leptospirosis
+Phitsanulok,22,2.61,0,0.00,0.00,842840,2008,Leptospirosis
+Sukhothai,8,1.32,0,0.00,0.00,604559,2008,Leptospirosis
+Tak,11,2.06,0,0.00,0.00,534629,2008,Leptospirosis
+Uttaradit,21,4.52,1,4.76,0.22,464741,2008,Leptospirosis
+Zone:18,51,1.90,2,3.92,0.07,2681773,2008,Leptospirosis
+Kamphaeng Phet,5,0.69,0,0.00,0.00,726104,2008,Leptospirosis
+Nakhon Sawan,17,1.58,0,0.00,0.00,1073962,2008,Leptospirosis
+Phichit,10,1.80,0,0.00,0.00,554426,2008,Leptospirosis
+Uthai Thani,19,5.81,2,10.53,0.61,327281,2008,Leptospirosis
+Total,4590,6.94,43,0.94,0.07,66130957,2023,Leptospirosis
+ZONE:01,673,11.47,4,0.59,0.07,5869190,2023,Leptospirosis
+Chiang Mai,77,4.30,0,0.00,0.00,1790929,2023,Leptospirosis
+Chiang Rai,227,17.47,0,0.00,0.00,1299030,2023,Leptospirosis
+Lampang,82,11.36,4,4.88,0.55,721734,2023,Leptospirosis
+Lamphun,6,1.50,0,0.00,0.00,400348,2023,Leptospirosis
+Mae Hong Son,58,20.25,0,0.00,0.00,286350,2023,Leptospirosis
+Nan,178,37.46,0,0.00,0.00,475207,2023,Leptospirosis
+Phayao,25,5.40,0,0.00,0.00,462968,2023,Leptospirosis
+Phrae,20,4.62,0,0.00,0.00,432624,2023,Leptospirosis
+ZONE:02,50,1.42,1,2.00,0.03,3530228,2023,Leptospirosis
+Phetchabun,7,0.72,0,0.00,0.00,975879,2023,Leptospirosis
+Phitsanulok,15,1.77,0,0.00,0.00,845938,2023,Leptospirosis
+Sukhothai,5,0.86,0,0.00,0.00,583502,2023,Leptospirosis
+Tak,14,2.06,1,7.14,0.15,680361,2023,Leptospirosis
+Uttaradit,9,2.02,0,0.00,0.00,444548,2023,Leptospirosis
+ZONE:03,25,0.86,0,0.00,0.00,2913905,2023,Leptospirosis
+Chai Nat,6,1.88,0,0.00,0.00,319370,2023,Leptospirosis
+Kamphaeng Phet,3,0.42,0,0.00,0.00,710458,2023,Leptospirosis
+Nakhon Sawan,4,0.39,0,0.00,0.00,1031921,2023,Leptospirosis
+Phichit,0,0.00,0,0.00,0.00,527669,2023,Leptospirosis
+Uthai Thani,12,3.70,0,0.00,0.00,324487,2023,Leptospirosis
+ZONE:04,14,0.26,0,0.00,0.00,5424945,2023,Leptospirosis
+Ang Thong,1,0.37,0,0.00,0.00,273675,2023,Leptospirosis
+Lop Buri,1,0.14,0,0.00,0.00,737382,2023,Leptospirosis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Leptospirosis
+Nonthaburi,4,0.31,0,0.00,0.00,1292276,2023,Leptospirosis
+P.Nakhon S.Ayutthaya,3,0.37,0,0.00,0.00,820464,2023,Leptospirosis
+Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Leptospirosis
+Saraburi,5,0.78,0,0.00,0.00,641272,2023,Leptospirosis
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Leptospirosis
+ZONE:05,32,0.60,0,0.00,0.00,5330665,2023,Leptospirosis
+Kanchanaburi,10,1.12,0,0.00,0.00,894168,2023,Leptospirosis
+Nakhon Pathom,6,0.65,0,0.00,0.00,922026,2023,Leptospirosis
+Phetchaburi,3,0.62,0,0.00,0.00,482912,2023,Leptospirosis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,553234,2023,Leptospirosis
+Ratchaburi,6,0.69,0,0.00,0.00,867043,2023,Leptospirosis
+Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Leptospirosis
+Samut Songkhram,1,0.53,0,0.00,0.00,190147,2023,Leptospirosis
+Suphan Buri,5,0.60,0,0.00,0.00,833027,2023,Leptospirosis
+ZONE:06,154,2.46,0,0.00,0.00,6251747,2023,Leptospirosis
+Chachoengsao,2,0.28,0,0.00,0.00,725433,2023,Leptospirosis
+Chanthaburi,138,25.73,0,0.00,0.00,536351,2023,Leptospirosis
+Chon Buri,4,0.25,0,0.00,0.00,1589214,2023,Leptospirosis
+Prachin Buri,1,0.20,0,0.00,0.00,496551,2023,Leptospirosis
+Rayong,5,0.66,0,0.00,0.00,755364,2023,Leptospirosis
+Sa Kaeo,1,0.18,0,0.00,0.00,562404,2023,Leptospirosis
+Samut Prakan,1,0.07,0,0.00,0.00,1358338,2023,Leptospirosis
+Trat,2,0.88,0,0.00,0.00,228092,2023,Leptospirosis
+ZONE:07,345,6.90,7,2.03,0.14,5001616,2023,Leptospirosis
+Kalasin,76,7.80,2,2.63,0.21,973835,2023,Leptospirosis
+Khon Kaen,52,2.91,0,0.00,0.00,1787752,2023,Leptospirosis
+Maha Sarakham,58,6.13,4,6.90,0.42,946457,2023,Leptospirosis
+Roi Et,159,12.29,1,0.63,0.08,1293572,2023,Leptospirosis
+ZONE:08,111,2.01,1,0.90,0.02,5512222,2023,Leptospirosis
+Bungkan,3,0.71,0,0.00,0.00,421840,2023,Leptospirosis
+Loei,52,8.15,0,0.00,0.00,638037,2023,Leptospirosis
+Nakhon Phanom,5,0.70,1,20.00,0.14,716844,2023,Leptospirosis
+Nong Bua Lam Phu,8,1.57,0,0.00,0.00,508664,2023,Leptospirosis
+Nong Khai,6,1.16,0,0.00,0.00,516320,2023,Leptospirosis
+Sakon Nakhon,14,1.22,0,0.00,0.00,1145737,2023,Leptospirosis
+Udon Thani,23,1.47,0,0.00,0.00,1564780,2023,Leptospirosis
+ZONE:09,157,2.34,1,0.64,0.01,6705133,2023,Leptospirosis
+Buri Ram,26,1.65,0,0.00,0.00,1578361,2023,Leptospirosis
+Chaiyaphum,28,2.50,0,0.00,0.00,1120095,2023,Leptospirosis
+Nakhon Ratchasima,51,1.94,0,0.00,0.00,2632106,2023,Leptospirosis
+Surin,52,3.78,1,1.92,0.07,1374571,2023,Leptospirosis
+ZONE:10,995,21.70,5,0.50,0.11,4585207,2023,Leptospirosis
+Amnat Charoen,22,5.85,0,0.00,0.00,375866,2023,Leptospirosis
+Mukdahan,30,8.53,2,6.67,0.57,351537,2023,Leptospirosis
+Si Sa Ket,646,44.36,1,0.15,0.07,1456144,2023,Leptospirosis
+Ubon Ratchathani,247,13.21,2,0.81,0.11,1869163,2023,Leptospirosis
+Yasothon,50,9.39,0,0.00,0.00,532497,2023,Leptospirosis
+ZONE:11,974,21.69,11,1.13,0.24,4489916,2023,Leptospirosis
+Chumphon,28,5.50,0,0.00,0.00,509433,2023,Leptospirosis
+Krabi,17,3.54,1,5.88,0.21,479705,2023,Leptospirosis
+Nakhon Si Thammarat,505,32.64,8,1.58,0.52,1547246,2023,Leptospirosis
+Phangnga,33,12.33,0,0.00,0.00,267729,2023,Leptospirosis
+Phuket,27,6.45,0,0.00,0.00,418339,2023,Leptospirosis
+Ranong,201,103.40,0,0.00,0.00,194400,2023,Leptospirosis
+Surat Thani,163,15.19,2,1.23,0.19,1073064,2023,Leptospirosis
+ZONE:12,1049,20.96,13,1.24,0.26,5004720,2023,Leptospirosis
+Narathiwat,128,15.77,0,0.00,0.00,811891,2023,Leptospirosis
+Pattani,31,4.24,0,0.00,0.00,731269,2023,Leptospirosis
+Phatthalung,139,26.62,3,2.16,0.57,522080,2023,Leptospirosis
+Satun,71,21.84,0,0.00,0.00,325069,2023,Leptospirosis
+Songkhla,304,21.24,4,1.32,0.28,1431300,2023,Leptospirosis
+Trang,289,45.23,6,2.08,0.94,638997,2023,Leptospirosis
+Yala,87,15.99,0,0.00,0.00,544114,2023,Leptospirosis
+ZONE:13,11,0.20,0,0.00,0.00,5511463,2023,Leptospirosis
+Bangkok,11,0.20,0,0.00,0.00,5511463,2023,Leptospirosis

@@ -278,6 +278,9 @@ def fill_name(col_names):
         else:
             cleaned_names.append(name)
 
+    # select only columns with Areas, Cases, Incidence, Deaths, Mortality, CFR, Population
+    cleaned_names = [name for name in cleaned_names if name in ['Areas', 'Cases', 'Incidence', 'Deaths', 'Mortality', 'CFR', 'Population']]
+
     return cleaned_names
     
 def text_to_dataframe(data, year, disease):
@@ -285,15 +288,21 @@ def text_to_dataframe(data, year, disease):
     headers = data[0]
     headers = fill_name(headers)
 
+    # drop rows which number of columns less than headers, except None values
+    data = [row for row in data if len(row) == len(headers)]
+
     # convert to dataframe
-    df = pd.DataFrame(data[2:], columns=headers)
-    df = df.loc[:, df.apply(lambda col: not all(x == "" for x in col))]
+    data = pd.DataFrame(data, columns=headers)
+    data = data.loc[:, data.apply(lambda col: not all(x == "" for x in col))]
+
+    # remove rows which likely contain header
+    data = data[~data.apply(likely_table, axis=1)] 
     
     # Assign static values for 'Year' and 'Disease'
-    df['Year'] = year
-    df['Disease'] = disease
+    data['Year'] = year
+    data['Disease'] = disease
 
-    return df
+    return data
 
 # get disease list
 disease_list = os.listdir('../Data/GetData/')

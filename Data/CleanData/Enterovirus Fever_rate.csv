@@ -1,277 +1,4 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
-Total,120,0.18,0,0.00,0.00,66071545,2024,Enterovirus Fever
-ZONE:01,16,0.27,0,0.00,0.00,5857413,2024,Enterovirus Fever
-Chiang Mai,13,0.72,0,0.00,0.00,1794774,2024,Enterovirus Fever
-Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Enterovirus Fever
-Lampang,0,0.00,0,0.00,0.00,715133,2024,Enterovirus Fever
-Lamphun,2,0.50,0,0.00,0.00,398998,2024,Enterovirus Fever
-Mae Hong Son,1,0.35,0,0.00,0.00,287215,2024,Enterovirus Fever
-Nan,0,0.00,0,0.00,0.00,473630,2024,Enterovirus Fever
-Phayao,0,0.00,0,0.00,0.00,459858,2024,Enterovirus Fever
-Phrae,0,0.00,0,0.00,0.00,428499,2024,Enterovirus Fever
-ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Enterovirus Fever
-Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Enterovirus Fever
-Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Enterovirus Fever
-Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Enterovirus Fever
-Tak,0,0.00,0,0.00,0.00,687927,2024,Enterovirus Fever
-Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Enterovirus Fever
-ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Enterovirus Fever
-Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Enterovirus Fever
-Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Enterovirus Fever
-Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Enterovirus Fever
-Phichit,0,0.00,0,0.00,0.00,523925,2024,Enterovirus Fever
-Uthai Thani,1,0.31,0,0.00,0.00,323066,2024,Enterovirus Fever
-ZONE:04,4,0.07,0,0.00,0.00,5438863,2024,Enterovirus Fever
-Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Enterovirus Fever
-Lop Buri,2,0.27,0,0.00,0.00,732495,2024,Enterovirus Fever
-Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Enterovirus Fever
-Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Enterovirus Fever
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Enterovirus Fever
-Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Enterovirus Fever
-Saraburi,0,0.00,0,0.00,0.00,638704,2024,Enterovirus Fever
-Sing Buri,1,0.49,0,0.00,0.00,202117,2024,Enterovirus Fever
-ZONE:05,5,0.09,0,0.00,0.00,5326695,2024,Enterovirus Fever
-Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Enterovirus Fever
-Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Enterovirus Fever
-Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Enterovirus Fever
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Enterovirus Fever
-Ratchaburi,4,0.46,0,0.00,0.00,865276,2024,Enterovirus Fever
-Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Enterovirus Fever
-Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Enterovirus Fever
-Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,Enterovirus Fever
-ZONE:06,18,0.29,0,0.00,0.00,6292163,2024,Enterovirus Fever
-Chachoengsao,1,0.14,0,0.00,0.00,728615,2024,Enterovirus Fever
-Chanthaburi,6,1.12,0,0.00,0.00,536290,2024,Enterovirus Fever
-Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,Enterovirus Fever
-Prachin Buri,3,0.60,0,0.00,0.00,498671,2024,Enterovirus Fever
-Rayong,0,0.00,0,0.00,0.00,765287,2024,Enterovirus Fever
-Sa Kaeo,3,0.53,0,0.00,0.00,562860,2024,Enterovirus Fever
-Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Enterovirus Fever
-Trat,0,0.00,0,0.00,0.00,227430,2024,Enterovirus Fever
-ZONE:07,1,0.02,0,0.00,0.00,4981337,2024,Enterovirus Fever
-Kalasin,0,0.00,0,0.00,0.00,970084,2024,Enterovirus Fever
-Khon Kaen,1,0.06,0,0.00,0.00,1782008,2024,Enterovirus Fever
-Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Enterovirus Fever
-Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Enterovirus Fever
-ZONE:08,1,0.02,0,0.00,0.00,5500012,2024,Enterovirus Fever
-Bungkan,0,0.00,0,0.00,0.00,421086,2024,Enterovirus Fever
-Loei,0,0.00,0,0.00,0.00,636242,2024,Enterovirus Fever
-Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Enterovirus Fever
-Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,Enterovirus Fever
-Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Enterovirus Fever
-Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Enterovirus Fever
-Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Enterovirus Fever
-ZONE:09,3,0.04,0,0.00,0.00,6689028,2024,Enterovirus Fever
-Buri Ram,1,0.06,0,0.00,0.00,1575073,2024,Enterovirus Fever
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Enterovirus Fever
-Nakhon Ratchasima,2,0.08,0,0.00,0.00,2627927,2024,Enterovirus Fever
-Surin,0,0.00,0,0.00,0.00,1370376,2024,Enterovirus Fever
-ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Enterovirus Fever
-Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Enterovirus Fever
-Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Enterovirus Fever
-Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Enterovirus Fever
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Enterovirus Fever
-Yasothon,0,0.00,0,0.00,0.00,530239,2024,Enterovirus Fever
-ZONE:11,3,0.07,0,0.00,0.00,4489783,2024,Enterovirus Fever
-Chumphon,0,0.00,0,0.00,0.00,509122,2024,Enterovirus Fever
-Krabi,1,0.21,0,0.00,0.00,481089,2024,Enterovirus Fever
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Enterovirus Fever
-Phangnga,0,0.00,0,0.00,0.00,267250,2024,Enterovirus Fever
-Phuket,2,0.48,0,0.00,0.00,420746,2024,Enterovirus Fever
-Ranong,0,0.00,0,0.00,0.00,193799,2024,Enterovirus Fever
-Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Enterovirus Fever
-ZONE:12,18,0.36,0,0.00,0.00,5015209,2024,Enterovirus Fever
-Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Enterovirus Fever
-Pattani,2,0.27,0,0.00,0.00,735017,2024,Enterovirus Fever
-Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Enterovirus Fever
-Satun,0,0.00,0,0.00,0.00,325387,2024,Enterovirus Fever
-Songkhla,14,0.98,0,0.00,0.00,1431512,2024,Enterovirus Fever
-Trang,2,0.31,0,0.00,0.00,637612,2024,Enterovirus Fever
-Yala,0,0.00,0,0.00,0.00,547930,2024,Enterovirus Fever
-ZONE:13,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus Fever
-Bangkok,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus Fever
-Total,61,0.09,0,0.00,0.00,66179083,2021,Enterovirus Fever
-ZONE:01,29,0.49,0,0.00,0.00,5875424,2021,Enterovirus Fever
-Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Enterovirus Fever
-Chiang Rai,29,2.24,0,0.00,0.00,1296725,2021,Enterovirus Fever
-Lampang,0,0.00,0,0.00,0.00,726821,2021,Enterovirus Fever
-Lamphun,0,0.00,0,0.00,0.00,401574,2021,Enterovirus Fever
-Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Enterovirus Fever
-Nan,0,0.00,0,0.00,0.00,476300,2021,Enterovirus Fever
-Phayao,0,0.00,0,0.00,0.00,465930,2021,Enterovirus Fever
-Phrae,0,0.00,0,0.00,0.00,435965,2021,Enterovirus Fever
-ZONE:02,1,0.03,0,0.00,0.00,3536074,2021,Enterovirus Fever
-Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Enterovirus Fever
-Phitsanulok,1,0.12,0,0.00,0.00,848432,2021,Enterovirus Fever
-Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Enterovirus Fever
-Tak,0,0.00,0,0.00,0.00,673423,2021,Enterovirus Fever
-Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Enterovirus Fever
-ZONE:03,1,0.03,0,0.00,0.00,2928596,2021,Enterovirus Fever
-Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Enterovirus Fever
-Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Enterovirus Fever
-Nakhon Sawan,1,0.10,0,0.00,0.00,1037668,2021,Enterovirus Fever
-Phichit,0,0.00,0,0.00,0.00,530852,2021,Enterovirus Fever
-Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Enterovirus Fever
-ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Enterovirus Fever
-Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Enterovirus Fever
-Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Enterovirus Fever
-Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Enterovirus Fever
-Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Enterovirus Fever
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Enterovirus Fever
-Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Enterovirus Fever
-Saraburi,0,0.00,0,0.00,0.00,643895,2021,Enterovirus Fever
-Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Enterovirus Fever
-ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Enterovirus Fever
-Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Enterovirus Fever
-Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Enterovirus Fever
-Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Enterovirus Fever
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Enterovirus Fever
-Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Enterovirus Fever
-Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Enterovirus Fever
-Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Enterovirus Fever
-Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Enterovirus Fever
-ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Enterovirus Fever
-Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Enterovirus Fever
-Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Enterovirus Fever
-Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Enterovirus Fever
-Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Enterovirus Fever
-Rayong,0,0.00,0,0.00,0.00,746433,2021,Enterovirus Fever
-Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Enterovirus Fever
-Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Enterovirus Fever
-Trat,0,0.00,0,0.00,0.00,228456,2021,Enterovirus Fever
-ZONE:07,5,0.10,0,0.00,0.00,5017381,2021,Enterovirus Fever
-Kalasin,0,0.00,0,0.00,0.00,976373,2021,Enterovirus Fever
-Khon Kaen,5,0.28,0,0.00,0.00,1792697,2021,Enterovirus Fever
-Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Enterovirus Fever
-Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Enterovirus Fever
-ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Enterovirus Fever
-Bungkan,0,0.00,0,0.00,0.00,422019,2021,Enterovirus Fever
-Loei,0,0.00,0,0.00,0.00,638734,2021,Enterovirus Fever
-Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Enterovirus Fever
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Enterovirus Fever
-Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Enterovirus Fever
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Enterovirus Fever
-Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Enterovirus Fever
-ZONE:09,1,0.01,0,0.00,0.00,6714997,2021,Enterovirus Fever
-Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Enterovirus Fever
-Chaiyaphum,1,0.09,0,0.00,0.00,1123595,2021,Enterovirus Fever
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Enterovirus Fever
-Surin,0,0.00,0,0.00,0.00,1377226,2021,Enterovirus Fever
-ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Enterovirus Fever
-Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Enterovirus Fever
-Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Enterovirus Fever
-Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Enterovirus Fever
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Enterovirus Fever
-Yasothon,0,0.00,0,0.00,0.00,533948,2021,Enterovirus Fever
-ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Enterovirus Fever
-Chumphon,0,0.00,0,0.00,0.00,509344,2021,Enterovirus Fever
-Krabi,0,0.00,0,0.00,0.00,478561,2021,Enterovirus Fever
-Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Enterovirus Fever
-Phangnga,0,0.00,0,0.00,0.00,268123,2021,Enterovirus Fever
-Phuket,0,0.00,0,0.00,0.00,416629,2021,Enterovirus Fever
-Ranong,0,0.00,0,0.00,0.00,194473,2021,Enterovirus Fever
-Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Enterovirus Fever
-ZONE:12,10,0.20,0,0.00,0.00,4992834,2021,Enterovirus Fever
-Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Enterovirus Fever
-Pattani,0,0.00,0,0.00,0.00,727799,2021,Enterovirus Fever
-Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Enterovirus Fever
-Satun,0,0.00,0,0.00,0.00,324467,2021,Enterovirus Fever
-Songkhla,10,0.70,0,0.00,0.00,1430073,2021,Enterovirus Fever
-Trang,0,0.00,0,0.00,0.00,640182,2021,Enterovirus Fever
-Yala,0,0.00,0,0.00,0.00,540458,2021,Enterovirus Fever
-ZONE:13,14,0.25,0,0.00,0.00,5558108,2021,Enterovirus Fever
-Bangkok,14,0.25,0,0.00,0.00,5558108,2021,Enterovirus Fever
-Total,182,0.27,0,0.00,0.00,66372831,2020,Enterovirus Fever
-ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Enterovirus Fever
-Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Enterovirus Fever
-Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Enterovirus Fever
-Lampang,0,0.00,0,0.00,0.00,733640,2020,Enterovirus Fever
-Lamphun,0,0.00,0,0.00,0.00,403542,2020,Enterovirus Fever
-Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Enterovirus Fever
-Nan,0,0.00,0,0.00,0.00,477476,2020,Enterovirus Fever
-Phayao,0,0.00,0,0.00,0.00,469856,2020,Enterovirus Fever
-Phrae,0,0.00,0,0.00,0.00,439537,2020,Enterovirus Fever
-ZONE:02,1,0.03,0,0.00,0.00,3554902,2020,Enterovirus Fever
-Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Enterovirus Fever
-Phitsanulok,1,0.12,0,0.00,0.00,857364,2020,Enterovirus Fever
-Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Enterovirus Fever
-Tak,0,0.00,0,0.00,0.00,667942,2020,Enterovirus Fever
-Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Enterovirus Fever
-ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Enterovirus Fever
-Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Enterovirus Fever
-Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Enterovirus Fever
-Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Enterovirus Fever
-Phichit,0,0.00,0,0.00,0.00,534311,2020,Enterovirus Fever
-Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Enterovirus Fever
-ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Enterovirus Fever
-Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Enterovirus Fever
-Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Enterovirus Fever
-Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Enterovirus Fever
-Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Enterovirus Fever
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Enterovirus Fever
-Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Enterovirus Fever
-Saraburi,0,0.00,0,0.00,0.00,644869,2020,Enterovirus Fever
-Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Enterovirus Fever
-ZONE:05,3,0.06,0,0.00,0.00,5342038,2020,Enterovirus Fever
-Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Enterovirus Fever
-Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Enterovirus Fever
-Phetchaburi,2,0.41,0,0.00,0.00,483692,2020,Enterovirus Fever
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Enterovirus Fever
-Ratchaburi,1,0.11,0,0.00,0.00,871207,2020,Enterovirus Fever
-Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Enterovirus Fever
-Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Enterovirus Fever
-Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Enterovirus Fever
-ZONE:06,5,0.08,0,0.00,0.00,6192990,2020,Enterovirus Fever
-Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Enterovirus Fever
-Chanthaburi,5,0.93,0,0.00,0.00,536629,2020,Enterovirus Fever
-Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Enterovirus Fever
-Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Enterovirus Fever
-Rayong,0,0.00,0,0.00,0.00,738139,2020,Enterovirus Fever
-Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Enterovirus Fever
-Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Enterovirus Fever
-Trat,0,0.00,0,0.00,0.00,229247,2020,Enterovirus Fever
-ZONE:07,4,0.08,0,0.00,0.00,5039088,2020,Enterovirus Fever
-Kalasin,0,0.00,0,0.00,0.00,980297,2020,Enterovirus Fever
-Khon Kaen,4,0.22,0,0.00,0.00,1798702,2020,Enterovirus Fever
-Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Enterovirus Fever
-Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Enterovirus Fever
-ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Enterovirus Fever
-Bungkan,0,0.00,0,0.00,0.00,423067,2020,Enterovirus Fever
-Loei,0,0.00,0,0.00,0.00,640843,2020,Enterovirus Fever
-Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Enterovirus Fever
-Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Enterovirus Fever
-Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Enterovirus Fever
-Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Enterovirus Fever
-Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Enterovirus Fever
-ZONE:09,0,0.00,0,0.00,0.00,6748199,2020,Enterovirus Fever
-Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Enterovirus Fever
-Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Enterovirus Fever
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Enterovirus Fever
-Surin,0,0.00,0,0.00,0.00,1387526,2020,Enterovirus Fever
-ZONE:10,2,0.04,0,0.00,0.00,4603401,2020,Enterovirus Fever
-Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Enterovirus Fever
-Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Enterovirus Fever
-Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Enterovirus Fever
-Ubon Ratchathani,2,0.11,0,0.00,0.00,1872422,2020,Enterovirus Fever
-Yasothon,0,0.00,0,0.00,0.00,535900,2020,Enterovirus Fever
-ZONE:11,1,0.02,0,0.00,0.00,4489609,2020,Enterovirus Fever
-Chumphon,0,0.00,0,0.00,0.00,510256,2020,Enterovirus Fever
-Krabi,0,0.00,0,0.00,0.00,477254,2020,Enterovirus Fever
-Nakhon Si Thammarat,1,0.06,0,0.00,0.00,1556325,2020,Enterovirus Fever
-Phangnga,0,0.00,0,0.00,0.00,268509,2020,Enterovirus Fever
-Phuket,0,0.00,0,0.00,0.00,415527,2020,Enterovirus Fever
-Ranong,0,0.00,0,0.00,0.00,193871,2020,Enterovirus Fever
-Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Enterovirus Fever
-ZONE:12,154,3.09,0,0.00,0.00,4991217,2020,Enterovirus Fever
-Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Enterovirus Fever
-Pattani,0,0.00,0,0.00,0.00,725559,2020,Enterovirus Fever
-Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Enterovirus Fever
-Satun,0,0.00,0,0.00,0.00,323841,2020,Enterovirus Fever
-Songkhla,154,10.75,0,0.00,0.00,1432288,2020,Enterovirus Fever
-Trang,0,0.00,0,0.00,0.00,641868,2020,Enterovirus Fever
-Yala,0,0.00,0,0.00,0.00,537466,2020,Enterovirus Fever
-ZONE:13,12,0.21,0,0.00,0.00,5627243,2020,Enterovirus Fever
-Bangkok,12,0.21,0,0.00,0.00,5627243,2020,Enterovirus Fever
 Total,174,0.26,0,0.00,0.00,66130957,2023,Enterovirus Fever
 ZONE:01,6,0.10,0,0.00,0.00,5869190,2023,Enterovirus Fever
 Chiang Mai,4,0.22,0,0.00,0.00,1790929,2023,Enterovirus Fever
@@ -363,97 +90,97 @@ Trang,1,0.16,0,0.00,0.00,638997,2023,Enterovirus Fever
 Yala,0,0.00,0,0.00,0.00,544114,2023,Enterovirus Fever
 ZONE:13,68,1.23,0,0.00,0.00,5511463,2023,Enterovirus Fever
 Bangkok,68,1.23,0,0.00,0.00,5511463,2023,Enterovirus Fever
-Total,215,0.32,0,0.00,0.00,66171439,2022,Enterovirus Fever
-ZONE:01,1,0.02,0,0.00,0.00,5874503,2022,Enterovirus Fever
-Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Enterovirus Fever
-Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Enterovirus Fever
-Lampang,0,0.00,0,0.00,0.00,724678,2022,Enterovirus Fever
-Lamphun,0,0.00,0,0.00,0.00,401139,2022,Enterovirus Fever
-Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Enterovirus Fever
-Nan,1,0.21,0,0.00,0.00,475875,2022,Enterovirus Fever
-Phayao,0,0.00,0,0.00,0.00,464505,2022,Enterovirus Fever
-Phrae,0,0.00,0,0.00,0.00,434580,2022,Enterovirus Fever
-ZONE:02,5,0.14,0,0.00,0.00,3533839,2022,Enterovirus Fever
-Phetchabun,3,0.31,0,0.00,0.00,978372,2022,Enterovirus Fever
-Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Enterovirus Fever
-Sukhothai,2,0.34,0,0.00,0.00,585352,2022,Enterovirus Fever
-Tak,0,0.00,0,0.00,0.00,676583,2022,Enterovirus Fever
-Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Enterovirus Fever
-ZONE:03,3,0.10,0,0.00,0.00,2922114,2022,Enterovirus Fever
-Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Enterovirus Fever
-Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Enterovirus Fever
-Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Enterovirus Fever
-Phichit,3,0.57,0,0.00,0.00,529395,2022,Enterovirus Fever
-Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Enterovirus Fever
-ZONE:04,15,0.28,0,0.00,0.00,5422367,2022,Enterovirus Fever
-Ang Thong,1,0.36,0,0.00,0.00,274763,2022,Enterovirus Fever
-Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Enterovirus Fever
-Nakhon Nayok,1,0.38,0,0.00,0.00,260433,2022,Enterovirus Fever
-Nonthaburi,1,0.08,0,0.00,0.00,1288637,2022,Enterovirus Fever
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Enterovirus Fever
-Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Enterovirus Fever
-Saraburi,12,1.86,0,0.00,0.00,643963,2022,Enterovirus Fever
-Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Enterovirus Fever
-ZONE:05,2,0.04,0,0.00,0.00,5333543,2022,Enterovirus Fever
-Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Enterovirus Fever
-Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Enterovirus Fever
-Phetchaburi,2,0.41,0,0.00,0.00,482875,2022,Enterovirus Fever
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Enterovirus Fever
-Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Enterovirus Fever
-Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Enterovirus Fever
-Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Enterovirus Fever
-Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Enterovirus Fever
-ZONE:06,15,0.24,0,0.00,0.00,6237892,2022,Enterovirus Fever
-Chachoengsao,1,0.14,0,0.00,0.00,724178,2022,Enterovirus Fever
-Chanthaburi,14,2.61,0,0.00,0.00,536557,2022,Enterovirus Fever
-Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Enterovirus Fever
-Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Enterovirus Fever
-Rayong,0,0.00,0,0.00,0.00,751343,2022,Enterovirus Fever
-Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Enterovirus Fever
-Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Enterovirus Fever
-Trat,0,0.00,0,0.00,0.00,228376,2022,Enterovirus Fever
-ZONE:07,12,0.24,0,0.00,0.00,5010756,2022,Enterovirus Fever
-Kalasin,0,0.00,0,0.00,0.00,975570,2022,Enterovirus Fever
-Khon Kaen,12,0.67,0,0.00,0.00,1790863,2022,Enterovirus Fever
-Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Enterovirus Fever
-Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Enterovirus Fever
-ZONE:08,9,0.16,0,0.00,0.00,5516407,2022,Enterovirus Fever
-Bungkan,0,0.00,0,0.00,0.00,421995,2022,Enterovirus Fever
-Loei,0,0.00,0,0.00,0.00,638732,2022,Enterovirus Fever
-Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Enterovirus Fever
-Nong Bua Lam Phu,9,1.77,0,0.00,0.00,509001,2022,Enterovirus Fever
-Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Enterovirus Fever
-Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Enterovirus Fever
-Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Enterovirus Fever
-ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Enterovirus Fever
-Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Enterovirus Fever
-Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Enterovirus Fever
-Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Enterovirus Fever
-Surin,0,0.00,0,0.00,0.00,1376230,2022,Enterovirus Fever
-ZONE:10,2,0.04,0,0.00,0.00,4587303,2022,Enterovirus Fever
-Amnat Charoen,1,0.27,0,0.00,0.00,376350,2022,Enterovirus Fever
-Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Enterovirus Fever
-Si Sa Ket,1,0.07,0,0.00,0.00,1457556,2022,Enterovirus Fever
-Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Enterovirus Fever
-Yasothon,0,0.00,0,0.00,0.00,533394,2022,Enterovirus Fever
-ZONE:11,2,0.04,0,0.00,0.00,4492012,2022,Enterovirus Fever
-Chumphon,0,0.00,0,0.00,0.00,509479,2022,Enterovirus Fever
-Krabi,0,0.00,0,0.00,0.00,479351,2022,Enterovirus Fever
-Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1549344,2022,Enterovirus Fever
-Phangnga,0,0.00,0,0.00,0.00,268016,2022,Enterovirus Fever
-Phuket,0,0.00,0,0.00,0.00,418785,2022,Enterovirus Fever
-Ranong,0,0.00,0,0.00,0.00,194573,2022,Enterovirus Fever
-Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Enterovirus Fever
-ZONE:12,126,2.52,0,0.00,0.00,5000255,2022,Enterovirus Fever
-Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Enterovirus Fever
-Pattani,0,0.00,0,0.00,0.00,729581,2022,Enterovirus Fever
-Phatthalung,2,0.38,0,0.00,0.00,522541,2022,Enterovirus Fever
-Satun,0,0.00,0,0.00,0.00,324835,2022,Enterovirus Fever
-Songkhla,124,8.66,0,0.00,0.00,1431536,2022,Enterovirus Fever
-Trang,0,0.00,0,0.00,0.00,639788,2022,Enterovirus Fever
-Yala,0,0.00,0,0.00,0.00,542314,2022,Enterovirus Fever
-ZONE:13,23,0.42,0,0.00,0.00,5527994,2022,Enterovirus Fever
-Bangkok,23,0.42,0,0.00,0.00,5527994,2022,Enterovirus Fever
+Total,61,0.09,0,0.00,0.00,66179083,2021,Enterovirus Fever
+ZONE:01,29,0.49,0,0.00,0.00,5875424,2021,Enterovirus Fever
+Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Enterovirus Fever
+Chiang Rai,29,2.24,0,0.00,0.00,1296725,2021,Enterovirus Fever
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Enterovirus Fever
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Enterovirus Fever
+Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Enterovirus Fever
+Nan,0,0.00,0,0.00,0.00,476300,2021,Enterovirus Fever
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Enterovirus Fever
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Enterovirus Fever
+ZONE:02,1,0.03,0,0.00,0.00,3536074,2021,Enterovirus Fever
+Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Enterovirus Fever
+Phitsanulok,1,0.12,0,0.00,0.00,848432,2021,Enterovirus Fever
+Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Enterovirus Fever
+Tak,0,0.00,0,0.00,0.00,673423,2021,Enterovirus Fever
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Enterovirus Fever
+ZONE:03,1,0.03,0,0.00,0.00,2928596,2021,Enterovirus Fever
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Enterovirus Fever
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Enterovirus Fever
+Nakhon Sawan,1,0.10,0,0.00,0.00,1037668,2021,Enterovirus Fever
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Enterovirus Fever
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Enterovirus Fever
+ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Enterovirus Fever
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Enterovirus Fever
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Enterovirus Fever
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Enterovirus Fever
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Enterovirus Fever
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Enterovirus Fever
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Enterovirus Fever
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Enterovirus Fever
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Enterovirus Fever
+ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Enterovirus Fever
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Enterovirus Fever
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Enterovirus Fever
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Enterovirus Fever
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Enterovirus Fever
+Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Enterovirus Fever
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Enterovirus Fever
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Enterovirus Fever
+Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Enterovirus Fever
+ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Enterovirus Fever
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Enterovirus Fever
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Enterovirus Fever
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Enterovirus Fever
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Enterovirus Fever
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Enterovirus Fever
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Enterovirus Fever
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Enterovirus Fever
+Trat,0,0.00,0,0.00,0.00,228456,2021,Enterovirus Fever
+ZONE:07,5,0.10,0,0.00,0.00,5017381,2021,Enterovirus Fever
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Enterovirus Fever
+Khon Kaen,5,0.28,0,0.00,0.00,1792697,2021,Enterovirus Fever
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Enterovirus Fever
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Enterovirus Fever
+ZONE:08,0,0.00,0,0.00,0.00,5518109,2021,Enterovirus Fever
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Enterovirus Fever
+Loei,0,0.00,0,0.00,0.00,638734,2021,Enterovirus Fever
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Enterovirus Fever
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509236,2021,Enterovirus Fever
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Enterovirus Fever
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146612,2021,Enterovirus Fever
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Enterovirus Fever
+ZONE:09,1,0.01,0,0.00,0.00,6714997,2021,Enterovirus Fever
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Enterovirus Fever
+Chaiyaphum,1,0.09,0,0.00,0.00,1123595,2021,Enterovirus Fever
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Enterovirus Fever
+Surin,0,0.00,0,0.00,0.00,1377226,2021,Enterovirus Fever
+ZONE:10,0,0.00,0,0.00,0.00,4587095,2021,Enterovirus Fever
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Enterovirus Fever
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Enterovirus Fever
+Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Enterovirus Fever
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1867608,2021,Enterovirus Fever
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Enterovirus Fever
+ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Enterovirus Fever
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Enterovirus Fever
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Enterovirus Fever
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Enterovirus Fever
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Enterovirus Fever
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Enterovirus Fever
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Enterovirus Fever
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Enterovirus Fever
+ZONE:12,10,0.20,0,0.00,0.00,4992834,2021,Enterovirus Fever
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Enterovirus Fever
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Enterovirus Fever
+Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Enterovirus Fever
+Satun,0,0.00,0,0.00,0.00,324467,2021,Enterovirus Fever
+Songkhla,10,0.70,0,0.00,0.00,1430073,2021,Enterovirus Fever
+Trang,0,0.00,0,0.00,0.00,640182,2021,Enterovirus Fever
+Yala,0,0.00,0,0.00,0.00,540458,2021,Enterovirus Fever
+ZONE:13,14,0.25,0,0.00,0.00,5558108,2021,Enterovirus Fever
+Bangkok,14,0.25,0,0.00,0.00,5558108,2021,Enterovirus Fever
 Total,114,0.17,0,0.00,0.00,66486458,2019,Enterovirus Fever
 ZONE:01,0,0.00,0,0.00,0.00,5891985,2019,Enterovirus Fever
 Chiang Mai,0,0.00,0,0.00,0.00,1771499,2019,Enterovirus Fever
@@ -545,3 +272,276 @@ Trang,0,0.00,0,0.00,0.00,643140,2019,Enterovirus Fever
 Yala,0,0.00,0,0.00,0.00,534328,2019,Enterovirus Fever
 ZONE:13,61,1.08,0,0.00,0.00,5671457,2019,Enterovirus Fever
 Bangkok,61,1.08,0,0.00,0.00,5671457,2019,Enterovirus Fever
+Total,120,0.18,0,0.00,0.00,66071545,2024,Enterovirus Fever
+ZONE:01,16,0.27,0,0.00,0.00,5857413,2024,Enterovirus Fever
+Chiang Mai,13,0.72,0,0.00,0.00,1794774,2024,Enterovirus Fever
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Enterovirus Fever
+Lampang,0,0.00,0,0.00,0.00,715133,2024,Enterovirus Fever
+Lamphun,2,0.50,0,0.00,0.00,398998,2024,Enterovirus Fever
+Mae Hong Son,1,0.35,0,0.00,0.00,287215,2024,Enterovirus Fever
+Nan,0,0.00,0,0.00,0.00,473630,2024,Enterovirus Fever
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Enterovirus Fever
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Enterovirus Fever
+ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Enterovirus Fever
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Enterovirus Fever
+Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Enterovirus Fever
+Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Enterovirus Fever
+Tak,0,0.00,0,0.00,0.00,687927,2024,Enterovirus Fever
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Enterovirus Fever
+ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Enterovirus Fever
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Enterovirus Fever
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Enterovirus Fever
+Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Enterovirus Fever
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Enterovirus Fever
+Uthai Thani,1,0.31,0,0.00,0.00,323066,2024,Enterovirus Fever
+ZONE:04,4,0.07,0,0.00,0.00,5438863,2024,Enterovirus Fever
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Enterovirus Fever
+Lop Buri,2,0.27,0,0.00,0.00,732495,2024,Enterovirus Fever
+Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Enterovirus Fever
+Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Enterovirus Fever
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Enterovirus Fever
+Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Enterovirus Fever
+Saraburi,0,0.00,0,0.00,0.00,638704,2024,Enterovirus Fever
+Sing Buri,1,0.49,0,0.00,0.00,202117,2024,Enterovirus Fever
+ZONE:05,5,0.09,0,0.00,0.00,5326695,2024,Enterovirus Fever
+Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Enterovirus Fever
+Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Enterovirus Fever
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Enterovirus Fever
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Enterovirus Fever
+Ratchaburi,4,0.46,0,0.00,0.00,865276,2024,Enterovirus Fever
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Enterovirus Fever
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Enterovirus Fever
+Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,Enterovirus Fever
+ZONE:06,18,0.29,0,0.00,0.00,6292163,2024,Enterovirus Fever
+Chachoengsao,1,0.14,0,0.00,0.00,728615,2024,Enterovirus Fever
+Chanthaburi,6,1.12,0,0.00,0.00,536290,2024,Enterovirus Fever
+Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,Enterovirus Fever
+Prachin Buri,3,0.60,0,0.00,0.00,498671,2024,Enterovirus Fever
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Enterovirus Fever
+Sa Kaeo,3,0.53,0,0.00,0.00,562860,2024,Enterovirus Fever
+Samut Prakan,0,0.00,0,0.00,0.00,1366598,2024,Enterovirus Fever
+Trat,0,0.00,0,0.00,0.00,227430,2024,Enterovirus Fever
+ZONE:07,1,0.02,0,0.00,0.00,4981337,2024,Enterovirus Fever
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Enterovirus Fever
+Khon Kaen,1,0.06,0,0.00,0.00,1782008,2024,Enterovirus Fever
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Enterovirus Fever
+Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Enterovirus Fever
+ZONE:08,1,0.02,0,0.00,0.00,5500012,2024,Enterovirus Fever
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Enterovirus Fever
+Loei,0,0.00,0,0.00,0.00,636242,2024,Enterovirus Fever
+Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Enterovirus Fever
+Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,Enterovirus Fever
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Enterovirus Fever
+Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Enterovirus Fever
+Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Enterovirus Fever
+ZONE:09,3,0.04,0,0.00,0.00,6689028,2024,Enterovirus Fever
+Buri Ram,1,0.06,0,0.00,0.00,1575073,2024,Enterovirus Fever
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Enterovirus Fever
+Nakhon Ratchasima,2,0.08,0,0.00,0.00,2627927,2024,Enterovirus Fever
+Surin,0,0.00,0,0.00,0.00,1370376,2024,Enterovirus Fever
+ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Enterovirus Fever
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Enterovirus Fever
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Enterovirus Fever
+Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Enterovirus Fever
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Enterovirus Fever
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Enterovirus Fever
+ZONE:11,3,0.07,0,0.00,0.00,4489783,2024,Enterovirus Fever
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Enterovirus Fever
+Krabi,1,0.21,0,0.00,0.00,481089,2024,Enterovirus Fever
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Enterovirus Fever
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Enterovirus Fever
+Phuket,2,0.48,0,0.00,0.00,420746,2024,Enterovirus Fever
+Ranong,0,0.00,0,0.00,0.00,193799,2024,Enterovirus Fever
+Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Enterovirus Fever
+ZONE:12,18,0.36,0,0.00,0.00,5015209,2024,Enterovirus Fever
+Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Enterovirus Fever
+Pattani,2,0.27,0,0.00,0.00,735017,2024,Enterovirus Fever
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Enterovirus Fever
+Satun,0,0.00,0,0.00,0.00,325387,2024,Enterovirus Fever
+Songkhla,14,0.98,0,0.00,0.00,1431512,2024,Enterovirus Fever
+Trang,2,0.31,0,0.00,0.00,637612,2024,Enterovirus Fever
+Yala,0,0.00,0,0.00,0.00,547930,2024,Enterovirus Fever
+ZONE:13,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus Fever
+Bangkok,50,0.91,0,0.00,0.00,5483259,2024,Enterovirus Fever
+Total,215,0.32,0,0.00,0.00,66171439,2022,Enterovirus Fever
+ZONE:01,1,0.02,0,0.00,0.00,5874503,2022,Enterovirus Fever
+Chiang Mai,0,0.00,0,0.00,0.00,1789385,2022,Enterovirus Fever
+Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Enterovirus Fever
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Enterovirus Fever
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Enterovirus Fever
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Enterovirus Fever
+Nan,1,0.21,0,0.00,0.00,475875,2022,Enterovirus Fever
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Enterovirus Fever
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Enterovirus Fever
+ZONE:02,5,0.14,0,0.00,0.00,3533839,2022,Enterovirus Fever
+Phetchabun,3,0.31,0,0.00,0.00,978372,2022,Enterovirus Fever
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Enterovirus Fever
+Sukhothai,2,0.34,0,0.00,0.00,585352,2022,Enterovirus Fever
+Tak,0,0.00,0,0.00,0.00,676583,2022,Enterovirus Fever
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Enterovirus Fever
+ZONE:03,3,0.10,0,0.00,0.00,2922114,2022,Enterovirus Fever
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Enterovirus Fever
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Enterovirus Fever
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Enterovirus Fever
+Phichit,3,0.57,0,0.00,0.00,529395,2022,Enterovirus Fever
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Enterovirus Fever
+ZONE:04,15,0.28,0,0.00,0.00,5422367,2022,Enterovirus Fever
+Ang Thong,1,0.36,0,0.00,0.00,274763,2022,Enterovirus Fever
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Enterovirus Fever
+Nakhon Nayok,1,0.38,0,0.00,0.00,260433,2022,Enterovirus Fever
+Nonthaburi,1,0.08,0,0.00,0.00,1288637,2022,Enterovirus Fever
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Enterovirus Fever
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Enterovirus Fever
+Saraburi,12,1.86,0,0.00,0.00,643963,2022,Enterovirus Fever
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Enterovirus Fever
+ZONE:05,2,0.04,0,0.00,0.00,5333543,2022,Enterovirus Fever
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Enterovirus Fever
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Enterovirus Fever
+Phetchaburi,2,0.41,0,0.00,0.00,482875,2022,Enterovirus Fever
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Enterovirus Fever
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Enterovirus Fever
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Enterovirus Fever
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Enterovirus Fever
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Enterovirus Fever
+ZONE:06,15,0.24,0,0.00,0.00,6237892,2022,Enterovirus Fever
+Chachoengsao,1,0.14,0,0.00,0.00,724178,2022,Enterovirus Fever
+Chanthaburi,14,2.61,0,0.00,0.00,536557,2022,Enterovirus Fever
+Chon Buri,0,0.00,0,0.00,0.00,1583672,2022,Enterovirus Fever
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Enterovirus Fever
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Enterovirus Fever
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Enterovirus Fever
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Enterovirus Fever
+Trat,0,0.00,0,0.00,0.00,228376,2022,Enterovirus Fever
+ZONE:07,12,0.24,0,0.00,0.00,5010756,2022,Enterovirus Fever
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Enterovirus Fever
+Khon Kaen,12,0.67,0,0.00,0.00,1790863,2022,Enterovirus Fever
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Enterovirus Fever
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Enterovirus Fever
+ZONE:08,9,0.16,0,0.00,0.00,5516407,2022,Enterovirus Fever
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Enterovirus Fever
+Loei,0,0.00,0,0.00,0.00,638732,2022,Enterovirus Fever
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Enterovirus Fever
+Nong Bua Lam Phu,9,1.77,0,0.00,0.00,509001,2022,Enterovirus Fever
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Enterovirus Fever
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Enterovirus Fever
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Enterovirus Fever
+ZONE:09,0,0.00,0,0.00,0.00,6712454,2022,Enterovirus Fever
+Buri Ram,0,0.00,0,0.00,0.00,1579805,2022,Enterovirus Fever
+Chaiyaphum,0,0.00,0,0.00,0.00,1122265,2022,Enterovirus Fever
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Enterovirus Fever
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Enterovirus Fever
+ZONE:10,2,0.04,0,0.00,0.00,4587303,2022,Enterovirus Fever
+Amnat Charoen,1,0.27,0,0.00,0.00,376350,2022,Enterovirus Fever
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Enterovirus Fever
+Si Sa Ket,1,0.07,0,0.00,0.00,1457556,2022,Enterovirus Fever
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Enterovirus Fever
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Enterovirus Fever
+ZONE:11,2,0.04,0,0.00,0.00,4492012,2022,Enterovirus Fever
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Enterovirus Fever
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Enterovirus Fever
+Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1549344,2022,Enterovirus Fever
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Enterovirus Fever
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Enterovirus Fever
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Enterovirus Fever
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Enterovirus Fever
+ZONE:12,126,2.52,0,0.00,0.00,5000255,2022,Enterovirus Fever
+Narathiwat,0,0.00,0,0.00,0.00,809660,2022,Enterovirus Fever
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Enterovirus Fever
+Phatthalung,2,0.38,0,0.00,0.00,522541,2022,Enterovirus Fever
+Satun,0,0.00,0,0.00,0.00,324835,2022,Enterovirus Fever
+Songkhla,124,8.66,0,0.00,0.00,1431536,2022,Enterovirus Fever
+Trang,0,0.00,0,0.00,0.00,639788,2022,Enterovirus Fever
+Yala,0,0.00,0,0.00,0.00,542314,2022,Enterovirus Fever
+ZONE:13,23,0.42,0,0.00,0.00,5527994,2022,Enterovirus Fever
+Bangkok,23,0.42,0,0.00,0.00,5527994,2022,Enterovirus Fever
+Total,182,0.27,0,0.00,0.00,66372831,2020,Enterovirus Fever
+ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Enterovirus Fever
+Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Enterovirus Fever
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Enterovirus Fever
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Enterovirus Fever
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Enterovirus Fever
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Enterovirus Fever
+Nan,0,0.00,0,0.00,0.00,477476,2020,Enterovirus Fever
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Enterovirus Fever
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Enterovirus Fever
+ZONE:02,1,0.03,0,0.00,0.00,3554902,2020,Enterovirus Fever
+Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Enterovirus Fever
+Phitsanulok,1,0.12,0,0.00,0.00,857364,2020,Enterovirus Fever
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Enterovirus Fever
+Tak,0,0.00,0,0.00,0.00,667942,2020,Enterovirus Fever
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Enterovirus Fever
+ZONE:03,0,0.00,0,0.00,0.00,2956189,2020,Enterovirus Fever
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Enterovirus Fever
+Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Enterovirus Fever
+Nakhon Sawan,0,0.00,0,0.00,0.00,1050098,2020,Enterovirus Fever
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Enterovirus Fever
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Enterovirus Fever
+ZONE:04,0,0.00,0,0.00,0.00,5400529,2020,Enterovirus Fever
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Enterovirus Fever
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Enterovirus Fever
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Enterovirus Fever
+Nonthaburi,0,0.00,0,0.00,0.00,1271065,2020,Enterovirus Fever
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Enterovirus Fever
+Pathum Thani,0,0.00,0,0.00,0.00,1170008,2020,Enterovirus Fever
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Enterovirus Fever
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Enterovirus Fever
+ZONE:05,3,0.06,0,0.00,0.00,5342038,2020,Enterovirus Fever
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Enterovirus Fever
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Enterovirus Fever
+Phetchaburi,2,0.41,0,0.00,0.00,483692,2020,Enterovirus Fever
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Enterovirus Fever
+Ratchaburi,1,0.11,0,0.00,0.00,871207,2020,Enterovirus Fever
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Enterovirus Fever
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Enterovirus Fever
+Suphan Buri,0,0.00,0,0.00,0.00,842481,2020,Enterovirus Fever
+ZONE:06,5,0.08,0,0.00,0.00,6192990,2020,Enterovirus Fever
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Enterovirus Fever
+Chanthaburi,5,0.93,0,0.00,0.00,536629,2020,Enterovirus Fever
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Enterovirus Fever
+Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Enterovirus Fever
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Enterovirus Fever
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Enterovirus Fever
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Enterovirus Fever
+Trat,0,0.00,0,0.00,0.00,229247,2020,Enterovirus Fever
+ZONE:07,4,0.08,0,0.00,0.00,5039088,2020,Enterovirus Fever
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Enterovirus Fever
+Khon Kaen,4,0.22,0,0.00,0.00,1798702,2020,Enterovirus Fever
+Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Enterovirus Fever
+Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Enterovirus Fever
+ZONE:08,0,0.00,0,0.00,0.00,5540556,2020,Enterovirus Fever
+Bungkan,0,0.00,0,0.00,0.00,423067,2020,Enterovirus Fever
+Loei,0,0.00,0,0.00,0.00,640843,2020,Enterovirus Fever
+Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Enterovirus Fever
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Enterovirus Fever
+Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Enterovirus Fever
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Enterovirus Fever
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Enterovirus Fever
+ZONE:09,0,0.00,0,0.00,0.00,6748199,2020,Enterovirus Fever
+Buri Ram,0,0.00,0,0.00,0.00,1588466,2020,Enterovirus Fever
+Chaiyaphum,0,0.00,0,0.00,0.00,1131140,2020,Enterovirus Fever
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2641067,2020,Enterovirus Fever
+Surin,0,0.00,0,0.00,0.00,1387526,2020,Enterovirus Fever
+ZONE:10,2,0.04,0,0.00,0.00,4603401,2020,Enterovirus Fever
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Enterovirus Fever
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Enterovirus Fever
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Enterovirus Fever
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1872422,2020,Enterovirus Fever
+Yasothon,0,0.00,0,0.00,0.00,535900,2020,Enterovirus Fever
+ZONE:11,1,0.02,0,0.00,0.00,4489609,2020,Enterovirus Fever
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Enterovirus Fever
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Enterovirus Fever
+Nakhon Si Thammarat,1,0.06,0,0.00,0.00,1556325,2020,Enterovirus Fever
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Enterovirus Fever
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Enterovirus Fever
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Enterovirus Fever
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Enterovirus Fever
+ZONE:12,154,3.09,0,0.00,0.00,4991217,2020,Enterovirus Fever
+Narathiwat,0,0.00,0,0.00,0.00,806224,2020,Enterovirus Fever
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Enterovirus Fever
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Enterovirus Fever
+Satun,0,0.00,0,0.00,0.00,323841,2020,Enterovirus Fever
+Songkhla,154,10.75,0,0.00,0.00,1432288,2020,Enterovirus Fever
+Trang,0,0.00,0,0.00,0.00,641868,2020,Enterovirus Fever
+Yala,0,0.00,0,0.00,0.00,537466,2020,Enterovirus Fever
+ZONE:13,12,0.21,0,0.00,0.00,5627243,2020,Enterovirus Fever
+Bangkok,12,0.21,0,0.00,0.00,5627243,2020,Enterovirus Fever
