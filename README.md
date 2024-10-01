@@ -4,6 +4,7 @@
 # Requirements
 - Python 3.10.4
 - R >= 4.3.2
+-- R packages:
 - pip 21.1.2
 
 # File name
