@@ -381,25 +381,17 @@ data_fig <- list("panel A" = fig1_data,
                  "panel B" = fig2_data,
                  "panel C" = fig3_data,
                  "panel D" = fig4_data,
-                 "panel E" = fig6_data,
-                 "panel F" = fig7_data,
-                 "panel G" = fig8_data)
+                 "panel E" = fig5_data,
+                 "panel F" = fig6_data)
 
 write.xlsx(data_fig,
            file = "../Outcome/Appendix/figure_data/fig1.xlsx")
-
-data_class <- fig3_data |> 
-     rename(Shortname = 'Disease')
-
-save(data_analysis, data_month, data_class, file = "./month.RData")
-
-print(data_print, n = Inf)
 
 # appendix ----------------------------------------------------------------
 
 # extract stl trend of each time series
 
-plot_trend <- function(data, title, value = 'Cases') {
+plot_trend <- function(data, title, value = 'Incidence') {
      ts_data <- ts(data[[value]], start = min(data$Year), frequency = 12)
      stl_data <- stl(ts_data, s.window = "periodic", t.window = 24, robust = T)
      data_trend <- data.frame(Year = data$Year,
@@ -429,7 +421,7 @@ plot_trend <- function(data, title, value = 'Cases') {
      return(fig)
 }
 
-# analysis of each group and disease
+## incidence ----------------------------------------------------
 
 for (g in disease_groups) {
      # g <- disease_groups[1]
@@ -441,8 +433,14 @@ for (g in disease_groups) {
           group_by(Date, Year, Month) |>
           summarise(Cases = sum(Cases),
                     Deaths = sum(Deaths),
-                    .groups = 'drop')
-     fig_cases_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Cases')
+                    .groups = 'drop') |> 
+          # add population
+          left_join(data_population, by = 'Year') |>
+          # calculate the rate per million population
+          mutate(Incidence = (Cases / sum(Population)) * 1e7,
+                 Mortality = (Deaths / sum(Population)) * 1e7,
+                 CFR = (Deaths / Cases) * 1000)
+     fig_case_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Incidence')
      
      # panel B: trend of each disease
      data_single <- data_analysis |>
@@ -451,7 +449,7 @@ for (g in disease_groups) {
           title_single <- paste(LETTERS[which(d == x) + 1], x, sep = ": ")
           plot_trend(data_single |> filter(Shortname == x),
                      title_single,
-                     'Cases')
+                     'Incidence')
      })
      
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
@@ -462,14 +460,14 @@ for (g in disease_groups) {
             dpi = 300)
      
      # panel C: trend of group deaths
-     fig_deaths_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Deaths')
+     fig_deaths_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Mortality')
      
      # panel D: trend of each disease
      fig_deaths <- lapply(d, function(x) {
           title_single <- paste(LETTERS[which(d == x) + 1], x, sep = ": ")
           plot_trend(data_single |> filter(Shortname == x),
                      title_single,
-                     'Deaths')
+                     'Mortality')
      })
      
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Deaths ", g, ".png"),
@@ -480,178 +478,8 @@ for (g in disease_groups) {
             dpi = 300)
 }
 
-# panel E -----------------------------------------------------------------
-
-# fig5_data <- read.csv('../Data/WHO-COVID-19-global-data.csv') |> 
-#      filter(Country == 'Thailand') |> 
-#      select(Date_reported, New_cases) |> 
-#      mutate(Date_reported = as.Date(Date_reported))
-# 
-# data_rect <- data.frame(start = c(min(fig5_data$Date_reported, na.rm = T), split_dates),
-#                         end = c(split_dates, max(data_analysis$Date)),
-#                         label = split_periods) |>
-#      mutate(med = as.Date((as.numeric(start) + as.numeric(end)) / 2, origin = "1970-01-01")) 
-# 
-# fig5 <- ggplot(data = fig5_data) +
-#      geom_rect(data = data_rect,
-#                aes(xmin = start, xmax = end, fill = label),
-#                ymin = -Inf, ymax = Inf, alpha = 0.2,
-#                show.legend = F) +
-#      geom_line(mapping = aes(x = Date_reported, y = New_cases)) +
-#      scale_fill_manual(values = back_color) +
-#      scale_y_continuous(expand = c(0, 0),
-#                         limits = c(0, 2e5),
-#                         breaks = c(0, 1e5, 2e5),
-#                         label = scientific_10) +
-#      scale_x_date(expand = expansion(add = c(0, 15)),
-#                   date_breaks = "1 years",
-#                   date_labels = "%Y") +
-#      theme_plot() +
-#      labs(x = NULL,
-#           y = "COVID-19 cases",
-#           title = "E")
-
-# panel F & G -------------------------------------------------------------
-
-fig6_data <- data_analysis |>
-     group_by(Date, Group) |>
-     summarise(Cases = sum(Cases),
-               .groups = "drop")
-
-fig6 <- ggplot(data = fig6_data) +
-     geom_line(mapping = aes(x = Date,
-                             y = Cases,
-                             color = Group)) +
-     scale_color_manual(values = fill_color) +
-     scale_fill_manual(values = back_color) +
-     scale_y_continuous(expand = c(0, 0),
-                        trans = "log10",
-                        label = scientific_10,
-                        limits = c(1e2, 2e5),
-                        breaks = c(1e2, 1e3, 1e4, 1e5, 2e5)) +
-     scale_x_date(expand = expansion(add = c(0, 15)),
-                  limits = range(fig6_data$Date),
-                  date_breaks = "2 years",
-                  date_labels = "%Y") +
-     theme_plot() +
-     theme(legend.position = 'none') +
-     labs(x = NULL,
-          y = "Monthly cases",
-          color = NULL,
-          title = "E")
-
-fig7_data <- data_analysis |>
-     group_by(Date, Group) |>
-     summarise(Cases = sum(Cases),
-               .groups = "drop") |> 
-     group_by(Date) |>
-     mutate(Cases = Cases / sum(Cases))
-
-fig7 <- ggplot(data = fig7_data) +
-     geom_col(mapping = aes(x = Date, y = Cases, fill = Group),
-              show.legend = F,
-              color = NA,
-              position = "fill") +
-     scale_fill_manual(values = fill_color) +
-     scale_y_continuous(expand = c(0, 0),
-                        labels = scales::percent) +
-     scale_x_date(expand = expansion(add = c(0, 15)),
-                  limits = range(fig7_data$Date),
-                  date_breaks = "2 years",
-                  date_labels = "%Y") +
-     theme_plot() +
-     labs(x = NULL,
-          y = "Percentage",
-          title = "F",
-          fill = NULL)
-
-
-# panel H & I -------------------------------------------------------------
-
-fig8_data <- data_analysis |>
-     group_by(Date, Group) |>
-     summarise(Deaths = sum(Deaths),
-               .groups = "drop")
-
-fig8 <- ggplot(data = fig8_data) +
-     geom_line(mapping = aes(x = Date,
-                             y = Deaths,
-                             color = Group)) +
-     scale_color_manual(values = fill_color) +
-     scale_fill_manual(values = back_color) +
-     scale_y_continuous(expand = c(0, 0),
-                        label = scientific_10,
-                        limits = c(0, 300)) +
-     scale_x_date(expand = expansion(add = c(0, 15)),
-                  limits = range(fig8_data$Date),
-                  date_breaks = "2 years",
-                  date_labels = "%Y") +
-     theme_plot() +
-     theme(legend.position = "none") +
-     labs(x = NULL,
-          y = "Monthly deaths",
-          color = NULL,
-          title = "G")
-
-fig9_data <- data_analysis |>
-     group_by(Date, Group) |>
-     summarise(Deaths = sum(Deaths),
-               .groups = "drop") |> 
-     group_by(Date) |>
-     mutate(Deaths = Deaths / sum(Deaths))
-
-fig9 <- ggplot(data = fig9_data) +
-     geom_col(mapping = aes(x = Date, y = Deaths, fill = Group),
-              show.legend = F,
-              color = NA,
-              position = "fill") +
-     scale_fill_manual(values = fill_color) +
-     scale_y_continuous(expand = c(0, 0),
-                        labels = scales::percent) +
-     scale_x_date(expand = expansion(add = c(0, 15)),
-                  limits = range(fig9_data$Date),
-                  date_breaks = "2 years",
-                  date_labels = "%Y") +
-     theme_plot() +
-     theme(legend.position = "none") +
-     labs(x = NULL,
-          y = "Percentage",
-          title = "H",
-          fill = NULL)
-
 # save plot ---------------------------------------------------------------
 
-fig <- cowplot::plot_grid(fig1 + fig2 + cowplot::plot_grid(fig3_legend) + plot_layout(nrow = 1),
-                          fig3 / fig4,
-                          cowplot::plot_grid(fig6, fig7, nrow = 1, rel_widths = c(1, 1)),
-                          cowplot::plot_grid(fig8, fig9, nrow = 1, rel_widths = c(1, 1)),
-                          nrow = 4,
-                          ncol = 1,
-                          rel_heights = c(1, 2.5, 1, 1))
-
-ggsave(filename = "../Outcome/Publish/fig1.pdf",
-       fig,
-       width = 14,
-       height = 16,
-       device = cairo_pdf,
-       family = "Times New Roman")
-
-# figure data
-data_fig <- list("panel A" = fig1_data,
-                 "panel B" = fig2_data,
-                 "panel C" = fig3_data,
-                 "panel D" = fig4_data,
-                 "panel E" = fig6_data,
-                 "panel F" = fig7_data,
-                 "panel G" = fig8_data,
-                 "panel H" = fig9_data)
-
-write.xlsx(data_fig,
-           file = "../Outcome/Appendix/figure_data/fig1.xlsx")
-
-data_class <- fig3_data |> 
-     rename(Shortname = 'Disease')
-
-save(data_analysis, data_month, data_class, file = "./month.RData")
+save(data_analysis, data_month, data_class, data_population, file = "./month.RData")
 
 print(data_print, n = Inf)
