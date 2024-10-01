@@ -208,7 +208,7 @@ ggsave(filename = "../outcome/publish/fig6.pdf",
 ggsave(filename = "../outcome/publish/fig6_1.pdf",
        plot = fig,
        width = 12,
-       height = 18,
+       height = 15,
        device = cairo_pdf,
        family = "Times New Roman")
 
