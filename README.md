@@ -4,11 +4,11 @@
 # Requirements
 - Python 3.10.4
 - R >= 4.3.2
--- R packages:
 - pip 21.1.2
+- Joinpoint CMD 5200: [Application for Windows Batch/Callable Version of Joinpoint Regression Software](https://surveillance.cancer.gov/joinpoint/callable/)
 
 # File name
-| Raw file name | Cleaned file name | Description |
+| Raw file name | Cleaned file name | File Description                                             |
 | --- | --- | --- |
 | mcd_disease_xx.rtf | disease_mcd.csv | Number of cases and deaths by month and province |
 | rate_disease_xx.rtf | disease_rate.csv | Number and rate per 100,000 population of cases and deaths by province |

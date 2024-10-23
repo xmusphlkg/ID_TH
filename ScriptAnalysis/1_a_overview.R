@@ -5,10 +5,20 @@ library(tidyverse)
 library(ggsci)
 library(paletteer)
 library(patchwork)
-library(ljr)
+library(nih.joinpoint)
+library(future)
 
 # System setting
 Sys.setlocale(locale = "EN")
+
+# Options for joinpoint
+run_opt = run_options(model="ln",
+                      model_selection_method = 'wbic-alt',
+                      min_joinpoints = 0, max_joinpoints = 4, n_cores=30)
+export_opt = export_options()
+
+# future plan for parallel computing
+plan(multisession)
 
 # data --------------------------------------------------------------------
 
@@ -25,6 +35,7 @@ data_month <- lapply(list_disease_files, read.csv) |>
 
 rm(list_disease_files)
 
+# filter the total cases and deaths, with the year after 2007
 data_select <- data_month |>
      filter(Year >= 2007) |>
      filter(Areas == 'Total' & Month == 'Total') |>
@@ -33,10 +44,12 @@ data_select <- data_month |>
                Count = n(),
                .groups = 'drop')
 
+# read disease class data
 data_class <- read.csv("../Data/DiseaseClass.csv") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))
 
+# read population data
 data_population <- read.xlsx('../Data/Population/1992-2022.xlsx', sheet = 'age') |> 
      select(YEAR, Total) |> 
      rename(Year = YEAR,
@@ -94,30 +107,65 @@ fig1_data <- data_analysis |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / sum(Population)) * 1e7,
             Mortality = (Deaths / sum(Population)) * 1e7,
-            CFR = (Deaths / Cases) * 1000)
+            CFR = (Deaths / Cases) * 1000) |> 
+     # format year and month to fit joinpoint model
+     mutate(Month = month(Date),
+            MonthIndex = Year * 12 + Month - 2007 * 12,
+            .after = Year)
 
-# STL model for incidence
+## STL model
 stl_incidence <- stl(ts(fig1_data$Incidence, start = 2007, frequency = 12),
-                     s.window = "periodic", t.window = 24, robust = T)
+                     s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$Incidence_trend <- stl_incidence$time.series[, 'trend']
 
-# STL model for mortality
 stl_mortality <- stl(ts(fig1_data$Mortality, start = 2007, frequency = 12),
-                     s.window = "periodic", t.window = 24, robust = T)
+                     s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$Mortality_trend <- stl_mortality$time.series[, 'trend']
 
-# STL model for CFR
 stl_cfr <- stl(ts(fig1_data$CFR, start = 2007, frequency = 12),
-               s.window = "periodic", t.window = 24, robust = T)
+               s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$CFR_trend <- stl_cfr$time.series[, 'trend']
 
+## Incidence
+future_incidence <- future({
+     joinpoint(fig1_data,
+               x = MonthIndex,
+               y = Incidence_trend,
+               run_opt = run_opt,
+               export_opt = export_opt)
+})
+
+## Mortality
+future_mortality <- future({
+     joinpoint(fig1_data,
+               x = MonthIndex,
+               y = Mortality_trend,
+               run_opt = run_opt,
+               export_opt = export_opt)
+})
+
+## CFR
+future_cfr <- future({
+     joinpoint(fig1_data,
+               x = MonthIndex,
+               y = CFR_trend,
+               run_opt = run_opt,
+               export_opt = export_opt)
+})
+
+## Wait for the results
+joinpoint_incidence <- value(future_incidence)
+joinpoint_mortality <- value(future_mortality)
+joinpoint_cfr <- value(future_cfr)
 
 fig1 <- ggplot(data = fig1_data)+
      geom_point(mapping = aes(x = Date, y = Incidence, color = 'Observed'),
                 alpha = 0.5,
                 size = 1.5) +
      geom_line(mapping = aes(x = Date, y = Incidence_trend, color = 'Trend'),
-               size = 1) +
+               linewidth = 1) +
+     geom_line(mapping = aes(x = Date, y = Incidence_joinpoint, color = 'Joinpoint'),
+               linewidth = 1) +
      scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
      scale_x_date(date_breaks = "2 year",
                   date_labels = "%Y",
