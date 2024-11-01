@@ -891,18 +891,18 @@ Yala,1,0.22,0,0.00,0.00,461995,2005,Paratyphoid
 Zone:19,14,0.89,0,0.00,0.00,1567672,2005,Paratyphoid
 Satun,12,4.35,0,0.00,0.00,275706,2005,Paratyphoid
 Songkhla,2,0.15,0,0.00,0.00,1291966,2005,Paratyphoid
-Total,91,0.14,0,0.00,0.00,66071545,2024,Paratyphoid
-ZONE:01,7,0.12,0,0.00,0.00,5857413,2024,Paratyphoid
-Chiang Mai,5,0.28,0,0.00,0.00,1794774,2024,Paratyphoid
+Total,148,0.22,0,0.00,0.00,66071545,2024,Paratyphoid
+ZONE:01,12,0.20,0,0.00,0.00,5857413,2024,Paratyphoid
+Chiang Mai,6,0.33,0,0.00,0.00,1794774,2024,Paratyphoid
 Chiang Rai,1,0.08,0,0.00,0.00,1299306,2024,Paratyphoid
 Lampang,0,0.00,0,0.00,0.00,715133,2024,Paratyphoid
 Lamphun,0,0.00,0,0.00,0.00,398998,2024,Paratyphoid
 Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Paratyphoid
 Nan,1,0.21,0,0.00,0.00,473630,2024,Paratyphoid
-Phayao,0,0.00,0,0.00,0.00,459858,2024,Paratyphoid
-Phrae,0,0.00,0,0.00,0.00,428499,2024,Paratyphoid
-ZONE:02,3,0.09,0,0.00,0.00,3522489,2024,Paratyphoid
-Phetchabun,2,0.21,0,0.00,0.00,970403,2024,Paratyphoid
+Phayao,3,0.65,0,0.00,0.00,459858,2024,Paratyphoid
+Phrae,1,0.23,0,0.00,0.00,428499,2024,Paratyphoid
+ZONE:02,5,0.14,0,0.00,0.00,3522489,2024,Paratyphoid
+Phetchabun,4,0.41,0,0.00,0.00,970403,2024,Paratyphoid
 Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Paratyphoid
 Sukhothai,1,0.17,0,0.00,0.00,579759,2024,Paratyphoid
 Tak,0,0.00,0,0.00,0.00,687927,2024,Paratyphoid
@@ -922,8 +922,8 @@ P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Paratyphoid
 Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Paratyphoid
 Saraburi,0,0.00,0,0.00,0.00,638704,2024,Paratyphoid
 Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Paratyphoid
-ZONE:05,1,0.02,0,0.00,0.00,5326695,2024,Paratyphoid
-Kanchanaburi,1,0.11,0,0.00,0.00,894781,2024,Paratyphoid
+ZONE:05,2,0.04,0,0.00,0.00,5326695,2024,Paratyphoid
+Kanchanaburi,2,0.22,0,0.00,0.00,894781,2024,Paratyphoid
 Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Paratyphoid
 Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Paratyphoid
 Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Paratyphoid
@@ -940,16 +940,16 @@ Rayong,0,0.00,0,0.00,0.00,765287,2024,Paratyphoid
 Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Paratyphoid
 Samut Prakan,2,0.15,0,0.00,0.00,1366598,2024,Paratyphoid
 Trat,0,0.00,0,0.00,0.00,227430,2024,Paratyphoid
-ZONE:07,3,0.06,0,0.00,0.00,4981337,2024,Paratyphoid
-Kalasin,1,0.10,0,0.00,0.00,970084,2024,Paratyphoid
+ZONE:07,5,0.10,0,0.00,0.00,4981337,2024,Paratyphoid
+Kalasin,2,0.21,0,0.00,0.00,970084,2024,Paratyphoid
 Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,Paratyphoid
 Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Paratyphoid
-Roi Et,2,0.16,0,0.00,0.00,1287984,2024,Paratyphoid
-ZONE:08,8,0.15,0,0.00,0.00,5500012,2024,Paratyphoid
+Roi Et,3,0.23,0,0.00,0.00,1287984,2024,Paratyphoid
+ZONE:08,12,0.22,0,0.00,0.00,5500012,2024,Paratyphoid
 Bungkan,0,0.00,0,0.00,0.00,421086,2024,Paratyphoid
-Loei,4,0.63,0,0.00,0.00,636242,2024,Paratyphoid
-Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Paratyphoid
-Nong Bua Lam Phu,3,0.59,0,0.00,0.00,507599,2024,Paratyphoid
+Loei,5,0.79,0,0.00,0.00,636242,2024,Paratyphoid
+Nakhon Phanom,1,0.14,0,0.00,0.00,715466,2024,Paratyphoid
+Nong Bua Lam Phu,5,0.99,0,0.00,0.00,507599,2024,Paratyphoid
 Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Paratyphoid
 Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Paratyphoid
 Udon Thani,1,0.06,0,0.00,0.00,1560788,2024,Paratyphoid
@@ -958,30 +958,30 @@ Buri Ram,1,0.06,0,0.00,0.00,1575073,2024,Paratyphoid
 Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Paratyphoid
 Nakhon Ratchasima,1,0.04,0,0.00,0.00,2627927,2024,Paratyphoid
 Surin,0,0.00,0,0.00,0.00,1370376,2024,Paratyphoid
-ZONE:10,5,0.11,0,0.00,0.00,4578831,2024,Paratyphoid
+ZONE:10,8,0.17,0,0.00,0.00,4578831,2024,Paratyphoid
 Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Paratyphoid
 Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Paratyphoid
 Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Paratyphoid
 Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Paratyphoid
-Yasothon,5,0.94,0,0.00,0.00,530239,2024,Paratyphoid
-ZONE:11,25,0.56,0,0.00,0.00,4489783,2024,Paratyphoid
+Yasothon,8,1.51,0,0.00,0.00,530239,2024,Paratyphoid
+ZONE:11,48,1.07,0,0.00,0.00,4489783,2024,Paratyphoid
 Chumphon,0,0.00,0,0.00,0.00,509122,2024,Paratyphoid
 Krabi,0,0.00,0,0.00,0.00,481089,2024,Paratyphoid
-Nakhon Si Thammarat,24,1.56,0,0.00,0.00,1543051,2024,Paratyphoid
+Nakhon Si Thammarat,45,2.92,0,0.00,0.00,1543051,2024,Paratyphoid
 Phangnga,0,0.00,0,0.00,0.00,267250,2024,Paratyphoid
 Phuket,0,0.00,0,0.00,0.00,420746,2024,Paratyphoid
 Ranong,1,0.52,0,0.00,0.00,193799,2024,Paratyphoid
-Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Paratyphoid
-ZONE:12,19,0.38,0,0.00,0.00,5015209,2024,Paratyphoid
-Narathiwat,10,1.22,0,0.00,0.00,816642,2024,Paratyphoid
+Surat Thani,2,0.19,0,0.00,0.00,1074726,2024,Paratyphoid
+ZONE:12,34,0.68,0,0.00,0.00,5015209,2024,Paratyphoid
+Narathiwat,18,2.20,0,0.00,0.00,816642,2024,Paratyphoid
 Pattani,2,0.27,0,0.00,0.00,735017,2024,Paratyphoid
 Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Paratyphoid
 Satun,0,0.00,0,0.00,0.00,325387,2024,Paratyphoid
-Songkhla,7,0.49,0,0.00,0.00,1431512,2024,Paratyphoid
+Songkhla,13,0.91,0,0.00,0.00,1431512,2024,Paratyphoid
 Trang,0,0.00,0,0.00,0.00,637612,2024,Paratyphoid
-Yala,0,0.00,0,0.00,0.00,547930,2024,Paratyphoid
-ZONE:13,10,0.18,0,0.00,0.00,5483259,2024,Paratyphoid
-Bangkok,10,0.18,0,0.00,0.00,5483259,2024,Paratyphoid
+Yala,1,0.18,0,0.00,0.00,547930,2024,Paratyphoid
+ZONE:13,12,0.22,0,0.00,0.00,5483259,2024,Paratyphoid
+Bangkok,12,0.22,0,0.00,0.00,5483259,2024,Paratyphoid
 Total,219,0.33,0,0.00,0.00,66060027,2017,Paratyphoid
 ZONE:01,34,0.58,0,0.00,0.00,5864232,2017,Paratyphoid
 Chiang Mai,16,0.92,0,0.00,0.00,1741301,2017,Paratyphoid

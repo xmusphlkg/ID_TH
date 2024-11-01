@@ -3275,36 +3275,36 @@ Trang,Unknown,0,2023,Streptococcus suis
 Yala,Unknown,0,2023,Streptococcus suis
 ZONE:13,Unknown,0,2023,Streptococcus suis
 Bangkok,Unknown,0,2023,Streptococcus suis
-Total,Total,26,2024,Streptococcus suis
-ZONE:01,Total,2,2024,Streptococcus suis
+Total,Total,51,2024,Streptococcus suis
+ZONE:01,Total,3,2024,Streptococcus suis
 Chiang Mai,Total,1,2024,Streptococcus suis
 Chiang Rai,Total,0,2024,Streptococcus suis
 Lampang,Total,0,2024,Streptococcus suis
 Lamphun,Total,0,2024,Streptococcus suis
 Mae Hong Son,Total,0,2024,Streptococcus suis
-Nan,Total,0,2024,Streptococcus suis
+Nan,Total,1,2024,Streptococcus suis
 Phayao,Total,0,2024,Streptococcus suis
 Phrae,Total,1,2024,Streptococcus suis
-ZONE:02,Total,7,2024,Streptococcus suis
+ZONE:02,Total,9,2024,Streptococcus suis
 Phetchabun,Total,0,2024,Streptococcus suis
 Phitsanulok,Total,0,2024,Streptococcus suis
 Sukhothai,Total,0,2024,Streptococcus suis
-Tak,Total,4,2024,Streptococcus suis
+Tak,Total,6,2024,Streptococcus suis
 Uttaradit,Total,3,2024,Streptococcus suis
-ZONE:03,Total,7,2024,Streptococcus suis
+ZONE:03,Total,16,2024,Streptococcus suis
 Chai Nat,Total,0,2024,Streptococcus suis
 Kamphaeng Phet,Total,0,2024,Streptococcus suis
-Nakhon Sawan,Total,2,2024,Streptococcus suis
-Phichit,Total,3,2024,Streptococcus suis
+Nakhon Sawan,Total,9,2024,Streptococcus suis
+Phichit,Total,5,2024,Streptococcus suis
 Uthai Thani,Total,2,2024,Streptococcus suis
-ZONE:04,Total,1,2024,Streptococcus suis
+ZONE:04,Total,3,2024,Streptococcus suis
 Ang Thong,Total,0,2024,Streptococcus suis
-Lop Buri,Total,0,2024,Streptococcus suis
+Lop Buri,Total,1,2024,Streptococcus suis
 Nakhon Nayok,Total,0,2024,Streptococcus suis
 Nonthaburi,Total,0,2024,Streptococcus suis
 P.Nakhon S.Ayutthaya,Total,0,2024,Streptococcus suis
 Pathum Thani,Total,0,2024,Streptococcus suis
-Saraburi,Total,1,2024,Streptococcus suis
+Saraburi,Total,2,2024,Streptococcus suis
 Sing Buri,Total,0,2024,Streptococcus suis
 ZONE:05,Total,1,2024,Streptococcus suis
 Kanchanaburi,Total,0,2024,Streptococcus suis
@@ -3315,10 +3315,10 @@ Ratchaburi,Total,0,2024,Streptococcus suis
 Samut Sakhon,Total,0,2024,Streptococcus suis
 Samut Songkhram,Total,0,2024,Streptococcus suis
 Suphan Buri,Total,0,2024,Streptococcus suis
-ZONE:06,Total,1,2024,Streptococcus suis
+ZONE:06,Total,0,2024,Streptococcus suis
 Chachoengsao,Total,0,2024,Streptococcus suis
 Chanthaburi,Total,0,2024,Streptococcus suis
-Chon Buri,Total,1,2024,Streptococcus suis
+Chon Buri,Total,0,2024,Streptococcus suis
 Prachin Buri,Total,0,2024,Streptococcus suis
 Rayong,Total,0,2024,Streptococcus suis
 Sa Kaeo,Total,0,2024,Streptococcus suis
@@ -3337,11 +3337,11 @@ Nong Bua Lam Phu,Total,0,2024,Streptococcus suis
 Nong Khai,Total,0,2024,Streptococcus suis
 Sakon Nakhon,Total,0,2024,Streptococcus suis
 Udon Thani,Total,2,2024,Streptococcus suis
-ZONE:09,Total,4,2024,Streptococcus suis
-Buri Ram,Total,0,2024,Streptococcus suis
-Chaiyaphum,Total,1,2024,Streptococcus suis
-Nakhon Ratchasima,Total,2,2024,Streptococcus suis
-Surin,Total,1,2024,Streptococcus suis
+ZONE:09,Total,16,2024,Streptococcus suis
+Buri Ram,Total,1,2024,Streptococcus suis
+Chaiyaphum,Total,6,2024,Streptococcus suis
+Nakhon Ratchasima,Total,7,2024,Streptococcus suis
+Surin,Total,2,2024,Streptococcus suis
 ZONE:10,Total,0,2024,Streptococcus suis
 Amnat Charoen,Total,0,2024,Streptococcus suis
 Mukdahan,Total,0,2024,Streptococcus suis
@@ -4276,7 +4276,7 @@ Trang,10-14,0,2024,Streptococcus suis
 Yala,10-14,0,2024,Streptococcus suis
 ZONE:13,10-14,0,2024,Streptococcus suis
 Bangkok,10-14,0,2024,Streptococcus suis
-Total,15-24,0,2024,Streptococcus suis
+Total,15-24,1,2024,Streptococcus suis
 ZONE:01,15-24,0,2024,Streptococcus suis
 Chiang Mai,15-24,0,2024,Streptococcus suis
 Chiang Rai,15-24,0,2024,Streptococcus suis
@@ -4286,11 +4286,11 @@ Mae Hong Son,15-24,0,2024,Streptococcus suis
 Nan,15-24,0,2024,Streptococcus suis
 Phayao,15-24,0,2024,Streptococcus suis
 Phrae,15-24,0,2024,Streptococcus suis
-ZONE:02,15-24,0,2024,Streptococcus suis
+ZONE:02,15-24,1,2024,Streptococcus suis
 Phetchabun,15-24,0,2024,Streptococcus suis
 Phitsanulok,15-24,0,2024,Streptococcus suis
 Sukhothai,15-24,0,2024,Streptococcus suis
-Tak,15-24,0,2024,Streptococcus suis
+Tak,15-24,1,2024,Streptococcus suis
 Uttaradit,15-24,0,2024,Streptococcus suis
 ZONE:03,15-24,0,2024,Streptococcus suis
 Chai Nat,15-24,0,2024,Streptococcus suis
@@ -4367,7 +4367,7 @@ Trang,15-24,0,2024,Streptococcus suis
 Yala,15-24,0,2024,Streptococcus suis
 ZONE:13,15-24,0,2024,Streptococcus suis
 Bangkok,15-24,0,2024,Streptococcus suis
-Total,25-34,2,2024,Streptococcus suis
+Total,25-34,4,2024,Streptococcus suis
 ZONE:01,25-34,0,2024,Streptococcus suis
 Chiang Mai,25-34,0,2024,Streptococcus suis
 Chiang Rai,25-34,0,2024,Streptococcus suis
@@ -4383,10 +4383,10 @@ Phitsanulok,25-34,0,2024,Streptococcus suis
 Sukhothai,25-34,0,2024,Streptococcus suis
 Tak,25-34,1,2024,Streptococcus suis
 Uttaradit,25-34,0,2024,Streptococcus suis
-ZONE:03,25-34,1,2024,Streptococcus suis
+ZONE:03,25-34,2,2024,Streptococcus suis
 Chai Nat,25-34,0,2024,Streptococcus suis
 Kamphaeng Phet,25-34,0,2024,Streptococcus suis
-Nakhon Sawan,25-34,0,2024,Streptococcus suis
+Nakhon Sawan,25-34,1,2024,Streptococcus suis
 Phichit,25-34,1,2024,Streptococcus suis
 Uthai Thani,25-34,0,2024,Streptococcus suis
 ZONE:04,25-34,0,2024,Streptococcus suis
@@ -4429,10 +4429,10 @@ Nong Bua Lam Phu,25-34,0,2024,Streptococcus suis
 Nong Khai,25-34,0,2024,Streptococcus suis
 Sakon Nakhon,25-34,0,2024,Streptococcus suis
 Udon Thani,25-34,0,2024,Streptococcus suis
-ZONE:09,25-34,0,2024,Streptococcus suis
+ZONE:09,25-34,1,2024,Streptococcus suis
 Buri Ram,25-34,0,2024,Streptococcus suis
 Chaiyaphum,25-34,0,2024,Streptococcus suis
-Nakhon Ratchasima,25-34,0,2024,Streptococcus suis
+Nakhon Ratchasima,25-34,1,2024,Streptococcus suis
 Surin,25-34,0,2024,Streptococcus suis
 ZONE:10,25-34,0,2024,Streptococcus suis
 Amnat Charoen,25-34,0,2024,Streptococcus suis
@@ -4458,7 +4458,7 @@ Trang,25-34,0,2024,Streptococcus suis
 Yala,25-34,0,2024,Streptococcus suis
 ZONE:13,25-34,0,2024,Streptococcus suis
 Bangkok,25-34,0,2024,Streptococcus suis
-Total,35-44,3,2024,Streptococcus suis
+Total,35-44,4,2024,Streptococcus suis
 ZONE:01,35-44,0,2024,Streptococcus suis
 Chiang Mai,35-44,0,2024,Streptococcus suis
 Chiang Rai,35-44,0,2024,Streptococcus suis
@@ -4474,10 +4474,10 @@ Phitsanulok,35-44,0,2024,Streptococcus suis
 Sukhothai,35-44,0,2024,Streptococcus suis
 Tak,35-44,1,2024,Streptococcus suis
 Uttaradit,35-44,0,2024,Streptococcus suis
-ZONE:03,35-44,1,2024,Streptococcus suis
+ZONE:03,35-44,2,2024,Streptococcus suis
 Chai Nat,35-44,0,2024,Streptococcus suis
 Kamphaeng Phet,35-44,0,2024,Streptococcus suis
-Nakhon Sawan,35-44,1,2024,Streptococcus suis
+Nakhon Sawan,35-44,2,2024,Streptococcus suis
 Phichit,35-44,0,2024,Streptococcus suis
 Uthai Thani,35-44,0,2024,Streptococcus suis
 ZONE:04,35-44,1,2024,Streptococcus suis
@@ -4549,7 +4549,7 @@ Trang,35-44,0,2024,Streptococcus suis
 Yala,35-44,0,2024,Streptococcus suis
 ZONE:13,35-44,0,2024,Streptococcus suis
 Bangkok,35-44,0,2024,Streptococcus suis
-Total,45-54,6,2024,Streptococcus suis
+Total,45-54,12,2024,Streptococcus suis
 ZONE:01,45-54,1,2024,Streptococcus suis
 Chiang Mai,45-54,1,2024,Streptococcus suis
 Chiang Rai,45-54,0,2024,Streptococcus suis
@@ -4565,11 +4565,11 @@ Phitsanulok,45-54,0,2024,Streptococcus suis
 Sukhothai,45-54,0,2024,Streptococcus suis
 Tak,45-54,0,2024,Streptococcus suis
 Uttaradit,45-54,1,2024,Streptococcus suis
-ZONE:03,45-54,1,2024,Streptococcus suis
+ZONE:03,45-54,2,2024,Streptococcus suis
 Chai Nat,45-54,0,2024,Streptococcus suis
 Kamphaeng Phet,45-54,0,2024,Streptococcus suis
 Nakhon Sawan,45-54,0,2024,Streptococcus suis
-Phichit,45-54,1,2024,Streptococcus suis
+Phichit,45-54,2,2024,Streptococcus suis
 Uthai Thani,45-54,0,2024,Streptococcus suis
 ZONE:04,45-54,0,2024,Streptococcus suis
 Ang Thong,45-54,0,2024,Streptococcus suis
@@ -4611,10 +4611,10 @@ Nong Bua Lam Phu,45-54,0,2024,Streptococcus suis
 Nong Khai,45-54,0,2024,Streptococcus suis
 Sakon Nakhon,45-54,0,2024,Streptococcus suis
 Udon Thani,45-54,1,2024,Streptococcus suis
-ZONE:09,45-54,1,2024,Streptococcus suis
-Buri Ram,45-54,0,2024,Streptococcus suis
-Chaiyaphum,45-54,0,2024,Streptococcus suis
-Nakhon Ratchasima,45-54,1,2024,Streptococcus suis
+ZONE:09,45-54,6,2024,Streptococcus suis
+Buri Ram,45-54,1,2024,Streptococcus suis
+Chaiyaphum,45-54,1,2024,Streptococcus suis
+Nakhon Ratchasima,45-54,4,2024,Streptococcus suis
 Surin,45-54,0,2024,Streptococcus suis
 ZONE:10,45-54,0,2024,Streptococcus suis
 Amnat Charoen,45-54,0,2024,Streptococcus suis
@@ -4640,7 +4640,7 @@ Trang,45-54,0,2024,Streptococcus suis
 Yala,45-54,0,2024,Streptococcus suis
 ZONE:13,45-54,0,2024,Streptococcus suis
 Bangkok,45-54,0,2024,Streptococcus suis
-Total,55-64,5,2024,Streptococcus suis
+Total,55-64,16,2024,Streptococcus suis
 ZONE:01,55-64,0,2024,Streptococcus suis
 Chiang Mai,55-64,0,2024,Streptococcus suis
 Chiang Rai,55-64,0,2024,Streptococcus suis
@@ -4656,20 +4656,20 @@ Phitsanulok,55-64,0,2024,Streptococcus suis
 Sukhothai,55-64,0,2024,Streptococcus suis
 Tak,55-64,0,2024,Streptococcus suis
 Uttaradit,55-64,0,2024,Streptococcus suis
-ZONE:03,55-64,2,2024,Streptococcus suis
+ZONE:03,55-64,8,2024,Streptococcus suis
 Chai Nat,55-64,0,2024,Streptococcus suis
 Kamphaeng Phet,55-64,0,2024,Streptococcus suis
-Nakhon Sawan,55-64,0,2024,Streptococcus suis
-Phichit,55-64,1,2024,Streptococcus suis
+Nakhon Sawan,55-64,5,2024,Streptococcus suis
+Phichit,55-64,2,2024,Streptococcus suis
 Uthai Thani,55-64,1,2024,Streptococcus suis
-ZONE:04,55-64,0,2024,Streptococcus suis
+ZONE:04,55-64,2,2024,Streptococcus suis
 Ang Thong,55-64,0,2024,Streptococcus suis
-Lop Buri,55-64,0,2024,Streptococcus suis
+Lop Buri,55-64,1,2024,Streptococcus suis
 Nakhon Nayok,55-64,0,2024,Streptococcus suis
 Nonthaburi,55-64,0,2024,Streptococcus suis
 P.Nakhon S.Ayutthaya,55-64,0,2024,Streptococcus suis
 Pathum Thani,55-64,0,2024,Streptococcus suis
-Saraburi,55-64,0,2024,Streptococcus suis
+Saraburi,55-64,1,2024,Streptococcus suis
 Sing Buri,55-64,0,2024,Streptococcus suis
 ZONE:05,55-64,0,2024,Streptococcus suis
 Kanchanaburi,55-64,0,2024,Streptococcus suis
@@ -4680,10 +4680,10 @@ Ratchaburi,55-64,0,2024,Streptococcus suis
 Samut Sakhon,55-64,0,2024,Streptococcus suis
 Samut Songkhram,55-64,0,2024,Streptococcus suis
 Suphan Buri,55-64,0,2024,Streptococcus suis
-ZONE:06,55-64,1,2024,Streptococcus suis
+ZONE:06,55-64,0,2024,Streptococcus suis
 Chachoengsao,55-64,0,2024,Streptococcus suis
 Chanthaburi,55-64,0,2024,Streptococcus suis
-Chon Buri,55-64,1,2024,Streptococcus suis
+Chon Buri,55-64,0,2024,Streptococcus suis
 Prachin Buri,55-64,0,2024,Streptococcus suis
 Rayong,55-64,0,2024,Streptococcus suis
 Sa Kaeo,55-64,0,2024,Streptococcus suis
@@ -4702,11 +4702,11 @@ Nong Bua Lam Phu,55-64,0,2024,Streptococcus suis
 Nong Khai,55-64,0,2024,Streptococcus suis
 Sakon Nakhon,55-64,0,2024,Streptococcus suis
 Udon Thani,55-64,0,2024,Streptococcus suis
-ZONE:09,55-64,1,2024,Streptococcus suis
+ZONE:09,55-64,5,2024,Streptococcus suis
 Buri Ram,55-64,0,2024,Streptococcus suis
-Chaiyaphum,55-64,0,2024,Streptococcus suis
+Chaiyaphum,55-64,3,2024,Streptococcus suis
 Nakhon Ratchasima,55-64,1,2024,Streptococcus suis
-Surin,55-64,0,2024,Streptococcus suis
+Surin,55-64,1,2024,Streptococcus suis
 ZONE:10,55-64,0,2024,Streptococcus suis
 Amnat Charoen,55-64,0,2024,Streptococcus suis
 Mukdahan,55-64,0,2024,Streptococcus suis
@@ -4731,21 +4731,21 @@ Trang,55-64,0,2024,Streptococcus suis
 Yala,55-64,0,2024,Streptococcus suis
 ZONE:13,55-64,0,2024,Streptococcus suis
 Bangkok,55-64,0,2024,Streptococcus suis
-Total,65+,10,2024,Streptococcus suis
-ZONE:01,65+,1,2024,Streptococcus suis
+Total,65+,14,2024,Streptococcus suis
+ZONE:01,65+,2,2024,Streptococcus suis
 Chiang Mai,65+,0,2024,Streptococcus suis
 Chiang Rai,65+,0,2024,Streptococcus suis
 Lampang,65+,0,2024,Streptococcus suis
 Lamphun,65+,0,2024,Streptococcus suis
 Mae Hong Son,65+,0,2024,Streptococcus suis
-Nan,65+,0,2024,Streptococcus suis
+Nan,65+,1,2024,Streptococcus suis
 Phayao,65+,0,2024,Streptococcus suis
 Phrae,65+,1,2024,Streptococcus suis
-ZONE:02,65+,4,2024,Streptococcus suis
+ZONE:02,65+,5,2024,Streptococcus suis
 Phetchabun,65+,0,2024,Streptococcus suis
 Phitsanulok,65+,0,2024,Streptococcus suis
 Sukhothai,65+,0,2024,Streptococcus suis
-Tak,65+,2,2024,Streptococcus suis
+Tak,65+,3,2024,Streptococcus suis
 Uttaradit,65+,2,2024,Streptococcus suis
 ZONE:03,65+,2,2024,Streptococcus suis
 Chai Nat,65+,0,2024,Streptococcus suis
@@ -4793,10 +4793,10 @@ Nong Bua Lam Phu,65+,0,2024,Streptococcus suis
 Nong Khai,65+,0,2024,Streptococcus suis
 Sakon Nakhon,65+,0,2024,Streptococcus suis
 Udon Thani,65+,1,2024,Streptococcus suis
-ZONE:09,65+,2,2024,Streptococcus suis
+ZONE:09,65+,4,2024,Streptococcus suis
 Buri Ram,65+,0,2024,Streptococcus suis
-Chaiyaphum,65+,1,2024,Streptococcus suis
-Nakhon Ratchasima,65+,0,2024,Streptococcus suis
+Chaiyaphum,65+,2,2024,Streptococcus suis
+Nakhon Ratchasima,65+,1,2024,Streptococcus suis
 Surin,65+,1,2024,Streptococcus suis
 ZONE:10,65+,0,2024,Streptococcus suis
 Amnat Charoen,65+,0,2024,Streptococcus suis

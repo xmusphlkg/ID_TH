@@ -13895,7 +13895,7 @@ Kamphaeng Phet,Unknown,0,2008,Syphilis
 Nakhon Sawan,Unknown,0,2008,Syphilis
 Phichit,Unknown,0,2008,Syphilis
 Uthai Thani,Unknown,0,2008,Syphilis
-Total,Total,2,2024,Syphilis
+Total,Total,7,2024,Syphilis
 ZONE:01,Total,0,2024,Syphilis
 Chiang Mai,Total,0,2024,Syphilis
 Chiang Rai,Total,0,2024,Syphilis
@@ -13911,9 +13911,9 @@ Phitsanulok,Total,0,2024,Syphilis
 Sukhothai,Total,0,2024,Syphilis
 Tak,Total,0,2024,Syphilis
 Uttaradit,Total,0,2024,Syphilis
-ZONE:03,Total,0,2024,Syphilis
+ZONE:03,Total,2,2024,Syphilis
 Chai Nat,Total,0,2024,Syphilis
-Kamphaeng Phet,Total,0,2024,Syphilis
+Kamphaeng Phet,Total,2,2024,Syphilis
 Nakhon Sawan,Total,0,2024,Syphilis
 Phichit,Total,0,2024,Syphilis
 Uthai Thani,Total,0,2024,Syphilis
@@ -13935,10 +13935,10 @@ Ratchaburi,Total,0,2024,Syphilis
 Samut Sakhon,Total,0,2024,Syphilis
 Samut Songkhram,Total,0,2024,Syphilis
 Suphan Buri,Total,0,2024,Syphilis
-ZONE:06,Total,1,2024,Syphilis
-Chachoengsao,Total,0,2024,Syphilis
+ZONE:06,Total,4,2024,Syphilis
+Chachoengsao,Total,1,2024,Syphilis
 Chanthaburi,Total,0,2024,Syphilis
-Chon Buri,Total,1,2024,Syphilis
+Chon Buri,Total,3,2024,Syphilis
 Prachin Buri,Total,0,2024,Syphilis
 Rayong,Total,0,2024,Syphilis
 Sa Kaeo,Total,0,2024,Syphilis
@@ -13986,7 +13986,7 @@ Trang,Total,0,2024,Syphilis
 Yala,Total,0,2024,Syphilis
 ZONE:13,Total,0,2024,Syphilis
 Bangkok,Total,0,2024,Syphilis
-Total,0,0,2024,Syphilis
+Total,0,1,2024,Syphilis
 ZONE:01,0,0,2024,Syphilis
 Chiang Mai,0,0,2024,Syphilis
 Chiang Rai,0,0,2024,Syphilis
@@ -14026,10 +14026,10 @@ Ratchaburi,0,0,2024,Syphilis
 Samut Sakhon,0,0,2024,Syphilis
 Samut Songkhram,0,0,2024,Syphilis
 Suphan Buri,0,0,2024,Syphilis
-ZONE:06,0,0,2024,Syphilis
+ZONE:06,0,1,2024,Syphilis
 Chachoengsao,0,0,2024,Syphilis
 Chanthaburi,0,0,2024,Syphilis
-Chon Buri,0,0,2024,Syphilis
+Chon Buri,0,1,2024,Syphilis
 Prachin Buri,0,0,2024,Syphilis
 Rayong,0,0,2024,Syphilis
 Sa Kaeo,0,0,2024,Syphilis
@@ -14077,7 +14077,7 @@ Trang,0,0,2024,Syphilis
 Yala,0,0,2024,Syphilis
 ZONE:13,0,0,2024,Syphilis
 Bangkok,0,0,2024,Syphilis
-Total,<1,0,2024,Syphilis
+Total,<1,1,2024,Syphilis
 ZONE:01,<1,0,2024,Syphilis
 Chiang Mai,<1,0,2024,Syphilis
 Chiang Rai,<1,0,2024,Syphilis
@@ -14093,9 +14093,9 @@ Phitsanulok,<1,0,2024,Syphilis
 Sukhothai,<1,0,2024,Syphilis
 Tak,<1,0,2024,Syphilis
 Uttaradit,<1,0,2024,Syphilis
-ZONE:03,<1,0,2024,Syphilis
+ZONE:03,<1,1,2024,Syphilis
 Chai Nat,<1,0,2024,Syphilis
-Kamphaeng Phet,<1,0,2024,Syphilis
+Kamphaeng Phet,<1,1,2024,Syphilis
 Nakhon Sawan,<1,0,2024,Syphilis
 Phichit,<1,0,2024,Syphilis
 Uthai Thani,<1,0,2024,Syphilis
@@ -14987,7 +14987,7 @@ Trang,15-24,0,2024,Syphilis
 Yala,15-24,0,2024,Syphilis
 ZONE:13,15-24,0,2024,Syphilis
 Bangkok,15-24,0,2024,Syphilis
-Total,25-34,1,2024,Syphilis
+Total,25-34,4,2024,Syphilis
 ZONE:01,25-34,0,2024,Syphilis
 Chiang Mai,25-34,0,2024,Syphilis
 Chiang Rai,25-34,0,2024,Syphilis
@@ -15003,9 +15003,9 @@ Phitsanulok,25-34,0,2024,Syphilis
 Sukhothai,25-34,0,2024,Syphilis
 Tak,25-34,0,2024,Syphilis
 Uttaradit,25-34,0,2024,Syphilis
-ZONE:03,25-34,0,2024,Syphilis
+ZONE:03,25-34,1,2024,Syphilis
 Chai Nat,25-34,0,2024,Syphilis
-Kamphaeng Phet,25-34,0,2024,Syphilis
+Kamphaeng Phet,25-34,1,2024,Syphilis
 Nakhon Sawan,25-34,0,2024,Syphilis
 Phichit,25-34,0,2024,Syphilis
 Uthai Thani,25-34,0,2024,Syphilis
@@ -15027,10 +15027,10 @@ Ratchaburi,25-34,0,2024,Syphilis
 Samut Sakhon,25-34,0,2024,Syphilis
 Samut Songkhram,25-34,0,2024,Syphilis
 Suphan Buri,25-34,0,2024,Syphilis
-ZONE:06,25-34,1,2024,Syphilis
-Chachoengsao,25-34,0,2024,Syphilis
+ZONE:06,25-34,3,2024,Syphilis
+Chachoengsao,25-34,1,2024,Syphilis
 Chanthaburi,25-34,0,2024,Syphilis
-Chon Buri,25-34,1,2024,Syphilis
+Chon Buri,25-34,2,2024,Syphilis
 Prachin Buri,25-34,0,2024,Syphilis
 Rayong,25-34,0,2024,Syphilis
 Sa Kaeo,25-34,0,2024,Syphilis

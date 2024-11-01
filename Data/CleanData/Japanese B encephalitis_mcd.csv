@@ -14207,7 +14207,7 @@ Trang,0,Dec,Deaths,2021,Japanese B encephalitis
 Yala,0,Dec,Deaths,2021,Japanese B encephalitis
 ZONE:13,0,Dec,Deaths,2021,Japanese B encephalitis
 Bangkok,0,Dec,Deaths,2021,Japanese B encephalitis
-Total,2,Total,Cases,2024,Japanese B encephalitis
+Total,7,Total,Cases,2024,Japanese B encephalitis
 ZONE:01,0,Total,Cases,2024,Japanese B encephalitis
 Chiang Mai,0,Total,Cases,2024,Japanese B encephalitis
 Chiang Rai,0,Total,Cases,2024,Japanese B encephalitis
@@ -14217,10 +14217,10 @@ Mae Hong Son,0,Total,Cases,2024,Japanese B encephalitis
 Nan,0,Total,Cases,2024,Japanese B encephalitis
 Phayao,0,Total,Cases,2024,Japanese B encephalitis
 Phrae,0,Total,Cases,2024,Japanese B encephalitis
-ZONE:02,0,Total,Cases,2024,Japanese B encephalitis
+ZONE:02,1,Total,Cases,2024,Japanese B encephalitis
 Phetchabun,0,Total,Cases,2024,Japanese B encephalitis
 Phitsanulok,0,Total,Cases,2024,Japanese B encephalitis
-Sukhothai,0,Total,Cases,2024,Japanese B encephalitis
+Sukhothai,1,Total,Cases,2024,Japanese B encephalitis
 Tak,0,Total,Cases,2024,Japanese B encephalitis
 Uttaradit,0,Total,Cases,2024,Japanese B encephalitis
 ZONE:03,0,Total,Cases,2024,Japanese B encephalitis
@@ -14229,13 +14229,13 @@ Kamphaeng Phet,0,Total,Cases,2024,Japanese B encephalitis
 Nakhon Sawan,0,Total,Cases,2024,Japanese B encephalitis
 Phichit,0,Total,Cases,2024,Japanese B encephalitis
 Uthai Thani,0,Total,Cases,2024,Japanese B encephalitis
-ZONE:04,0,Total,Cases,2024,Japanese B encephalitis
+ZONE:04,1,Total,Cases,2024,Japanese B encephalitis
 Ang Thong,0,Total,Cases,2024,Japanese B encephalitis
 Lop Buri,0,Total,Cases,2024,Japanese B encephalitis
 Nakhon Nayok,0,Total,Cases,2024,Japanese B encephalitis
 Nonthaburi,0,Total,Cases,2024,Japanese B encephalitis
 P.Nakhon S.Ayutthaya,0,Total,Cases,2024,Japanese B encephalitis
-Pathum Thani,0,Total,Cases,2024,Japanese B encephalitis
+Pathum Thani,1,Total,Cases,2024,Japanese B encephalitis
 Saraburi,0,Total,Cases,2024,Japanese B encephalitis
 Sing Buri,0,Total,Cases,2024,Japanese B encephalitis
 ZONE:05,0,Total,Cases,2024,Japanese B encephalitis
@@ -14280,12 +14280,12 @@ Mukdahan,0,Total,Cases,2024,Japanese B encephalitis
 Si Sa Ket,0,Total,Cases,2024,Japanese B encephalitis
 Ubon Ratchathani,0,Total,Cases,2024,Japanese B encephalitis
 Yasothon,0,Total,Cases,2024,Japanese B encephalitis
-ZONE:11,1,Total,Cases,2024,Japanese B encephalitis
+ZONE:11,2,Total,Cases,2024,Japanese B encephalitis
 Chumphon,0,Total,Cases,2024,Japanese B encephalitis
 Krabi,0,Total,Cases,2024,Japanese B encephalitis
 Nakhon Si Thammarat,0,Total,Cases,2024,Japanese B encephalitis
 Phangnga,0,Total,Cases,2024,Japanese B encephalitis
-Phuket,0,Total,Cases,2024,Japanese B encephalitis
+Phuket,1,Total,Cases,2024,Japanese B encephalitis
 Ranong,0,Total,Cases,2024,Japanese B encephalitis
 Surat Thani,1,Total,Cases,2024,Japanese B encephalitis
 ZONE:12,1,Total,Cases,2024,Japanese B encephalitis
@@ -14296,8 +14296,8 @@ Satun,0,Total,Cases,2024,Japanese B encephalitis
 Songkhla,1,Total,Cases,2024,Japanese B encephalitis
 Trang,0,Total,Cases,2024,Japanese B encephalitis
 Yala,0,Total,Cases,2024,Japanese B encephalitis
-ZONE:13,0,Total,Cases,2024,Japanese B encephalitis
-Bangkok,0,Total,Cases,2024,Japanese B encephalitis
+ZONE:13,2,Total,Cases,2024,Japanese B encephalitis
+Bangkok,2,Total,Cases,2024,Japanese B encephalitis
 Total,0,Total,Deaths,2024,Japanese B encephalitis
 ZONE:01,0,Total,Deaths,2024,Japanese B encephalitis
 Chiang Mai,0,Total,Deaths,2024,Japanese B encephalitis
@@ -15483,7 +15483,7 @@ Trang,0,June,Deaths,2024,Japanese B encephalitis
 Yala,0,June,Deaths,2024,Japanese B encephalitis
 ZONE:13,0,June,Deaths,2024,Japanese B encephalitis
 Bangkok,0,June,Deaths,2024,Japanese B encephalitis
-Total,0,July,Cases,2024,Japanese B encephalitis
+Total,2,July,Cases,2024,Japanese B encephalitis
 ZONE:01,0,July,Cases,2024,Japanese B encephalitis
 Chiang Mai,0,July,Cases,2024,Japanese B encephalitis
 Chiang Rai,0,July,Cases,2024,Japanese B encephalitis
@@ -15493,10 +15493,10 @@ Mae Hong Son,0,July,Cases,2024,Japanese B encephalitis
 Nan,0,July,Cases,2024,Japanese B encephalitis
 Phayao,0,July,Cases,2024,Japanese B encephalitis
 Phrae,0,July,Cases,2024,Japanese B encephalitis
-ZONE:02,0,July,Cases,2024,Japanese B encephalitis
+ZONE:02,1,July,Cases,2024,Japanese B encephalitis
 Phetchabun,0,July,Cases,2024,Japanese B encephalitis
 Phitsanulok,0,July,Cases,2024,Japanese B encephalitis
-Sukhothai,0,July,Cases,2024,Japanese B encephalitis
+Sukhothai,1,July,Cases,2024,Japanese B encephalitis
 Tak,0,July,Cases,2024,Japanese B encephalitis
 Uttaradit,0,July,Cases,2024,Japanese B encephalitis
 ZONE:03,0,July,Cases,2024,Japanese B encephalitis
@@ -15556,12 +15556,12 @@ Mukdahan,0,July,Cases,2024,Japanese B encephalitis
 Si Sa Ket,0,July,Cases,2024,Japanese B encephalitis
 Ubon Ratchathani,0,July,Cases,2024,Japanese B encephalitis
 Yasothon,0,July,Cases,2024,Japanese B encephalitis
-ZONE:11,0,July,Cases,2024,Japanese B encephalitis
+ZONE:11,1,July,Cases,2024,Japanese B encephalitis
 Chumphon,0,July,Cases,2024,Japanese B encephalitis
 Krabi,0,July,Cases,2024,Japanese B encephalitis
 Nakhon Si Thammarat,0,July,Cases,2024,Japanese B encephalitis
 Phangnga,0,July,Cases,2024,Japanese B encephalitis
-Phuket,0,July,Cases,2024,Japanese B encephalitis
+Phuket,1,July,Cases,2024,Japanese B encephalitis
 Ranong,0,July,Cases,2024,Japanese B encephalitis
 Surat Thani,0,July,Cases,2024,Japanese B encephalitis
 ZONE:12,0,July,Cases,2024,Japanese B encephalitis
@@ -15665,7 +15665,7 @@ Trang,0,July,Deaths,2024,Japanese B encephalitis
 Yala,0,July,Deaths,2024,Japanese B encephalitis
 ZONE:13,0,July,Deaths,2024,Japanese B encephalitis
 Bangkok,0,July,Deaths,2024,Japanese B encephalitis
-Total,0,Aug,Cases,2024,Japanese B encephalitis
+Total,2,Aug,Cases,2024,Japanese B encephalitis
 ZONE:01,0,Aug,Cases,2024,Japanese B encephalitis
 Chiang Mai,0,Aug,Cases,2024,Japanese B encephalitis
 Chiang Rai,0,Aug,Cases,2024,Japanese B encephalitis
@@ -15687,13 +15687,13 @@ Kamphaeng Phet,0,Aug,Cases,2024,Japanese B encephalitis
 Nakhon Sawan,0,Aug,Cases,2024,Japanese B encephalitis
 Phichit,0,Aug,Cases,2024,Japanese B encephalitis
 Uthai Thani,0,Aug,Cases,2024,Japanese B encephalitis
-ZONE:04,0,Aug,Cases,2024,Japanese B encephalitis
+ZONE:04,1,Aug,Cases,2024,Japanese B encephalitis
 Ang Thong,0,Aug,Cases,2024,Japanese B encephalitis
 Lop Buri,0,Aug,Cases,2024,Japanese B encephalitis
 Nakhon Nayok,0,Aug,Cases,2024,Japanese B encephalitis
 Nonthaburi,0,Aug,Cases,2024,Japanese B encephalitis
 P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,Japanese B encephalitis
-Pathum Thani,0,Aug,Cases,2024,Japanese B encephalitis
+Pathum Thani,1,Aug,Cases,2024,Japanese B encephalitis
 Saraburi,0,Aug,Cases,2024,Japanese B encephalitis
 Sing Buri,0,Aug,Cases,2024,Japanese B encephalitis
 ZONE:05,0,Aug,Cases,2024,Japanese B encephalitis
@@ -15754,8 +15754,8 @@ Satun,0,Aug,Cases,2024,Japanese B encephalitis
 Songkhla,0,Aug,Cases,2024,Japanese B encephalitis
 Trang,0,Aug,Cases,2024,Japanese B encephalitis
 Yala,0,Aug,Cases,2024,Japanese B encephalitis
-ZONE:13,0,Aug,Cases,2024,Japanese B encephalitis
-Bangkok,0,Aug,Cases,2024,Japanese B encephalitis
+ZONE:13,1,Aug,Cases,2024,Japanese B encephalitis
+Bangkok,1,Aug,Cases,2024,Japanese B encephalitis
 Total,0,Aug,Deaths,2024,Japanese B encephalitis
 ZONE:01,0,Aug,Deaths,2024,Japanese B encephalitis
 Chiang Mai,0,Aug,Deaths,2024,Japanese B encephalitis
@@ -16029,7 +16029,7 @@ Trang,0,Sept,Deaths,2024,Japanese B encephalitis
 Yala,0,Sept,Deaths,2024,Japanese B encephalitis
 ZONE:13,0,Sept,Deaths,2024,Japanese B encephalitis
 Bangkok,0,Sept,Deaths,2024,Japanese B encephalitis
-Total,0,Oct,Cases,2024,Japanese B encephalitis
+Total,1,Oct,Cases,2024,Japanese B encephalitis
 ZONE:01,0,Oct,Cases,2024,Japanese B encephalitis
 Chiang Mai,0,Oct,Cases,2024,Japanese B encephalitis
 Chiang Rai,0,Oct,Cases,2024,Japanese B encephalitis
@@ -16118,8 +16118,8 @@ Satun,0,Oct,Cases,2024,Japanese B encephalitis
 Songkhla,0,Oct,Cases,2024,Japanese B encephalitis
 Trang,0,Oct,Cases,2024,Japanese B encephalitis
 Yala,0,Oct,Cases,2024,Japanese B encephalitis
-ZONE:13,0,Oct,Cases,2024,Japanese B encephalitis
-Bangkok,0,Oct,Cases,2024,Japanese B encephalitis
+ZONE:13,1,Oct,Cases,2024,Japanese B encephalitis
+Bangkok,1,Oct,Cases,2024,Japanese B encephalitis
 Total,0,Oct,Deaths,2024,Japanese B encephalitis
 ZONE:01,0,Oct,Deaths,2024,Japanese B encephalitis
 Chiang Mai,0,Oct,Deaths,2024,Japanese B encephalitis

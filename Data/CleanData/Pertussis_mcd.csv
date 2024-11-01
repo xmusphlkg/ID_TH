@@ -10199,12 +10199,12 @@ Yala,0,Dec,Deaths,2003,Pertussis
 Zone: 19,0,Dec,Deaths,2003,Pertussis
 Satun,0,Dec,Deaths,2003,Pertussis
 Songkhla,0,Dec,Deaths,2003,Pertussis
-Total,1033,Total,Cases,2024,Pertussis
-ZONE:01,3,Total,Cases,2024,Pertussis
+Total,1147,Total,Cases,2024,Pertussis
+ZONE:01,4,Total,Cases,2024,Pertussis
 Chiang Mai,2,Total,Cases,2024,Pertussis
 Chiang Rai,0,Total,Cases,2024,Pertussis
 Lampang,0,Total,Cases,2024,Pertussis
-Lamphun,1,Total,Cases,2024,Pertussis
+Lamphun,2,Total,Cases,2024,Pertussis
 Mae Hong Son,0,Total,Cases,2024,Pertussis
 Nan,0,Total,Cases,2024,Pertussis
 Phayao,0,Total,Cases,2024,Pertussis
@@ -10221,32 +10221,32 @@ Kamphaeng Phet,0,Total,Cases,2024,Pertussis
 Nakhon Sawan,1,Total,Cases,2024,Pertussis
 Phichit,0,Total,Cases,2024,Pertussis
 Uthai Thani,0,Total,Cases,2024,Pertussis
-ZONE:04,1,Total,Cases,2024,Pertussis
+ZONE:04,3,Total,Cases,2024,Pertussis
 Ang Thong,0,Total,Cases,2024,Pertussis
 Lop Buri,0,Total,Cases,2024,Pertussis
-Nakhon Nayok,0,Total,Cases,2024,Pertussis
-Nonthaburi,1,Total,Cases,2024,Pertussis
+Nakhon Nayok,1,Total,Cases,2024,Pertussis
+Nonthaburi,2,Total,Cases,2024,Pertussis
 P.Nakhon S.Ayutthaya,0,Total,Cases,2024,Pertussis
 Pathum Thani,0,Total,Cases,2024,Pertussis
 Saraburi,0,Total,Cases,2024,Pertussis
 Sing Buri,0,Total,Cases,2024,Pertussis
-ZONE:05,19,Total,Cases,2024,Pertussis
-Kanchanaburi,0,Total,Cases,2024,Pertussis
+ZONE:05,21,Total,Cases,2024,Pertussis
+Kanchanaburi,1,Total,Cases,2024,Pertussis
 Nakhon Pathom,0,Total,Cases,2024,Pertussis
 Phetchaburi,0,Total,Cases,2024,Pertussis
 Prachuap Khiri Khan,19,Total,Cases,2024,Pertussis
-Ratchaburi,0,Total,Cases,2024,Pertussis
+Ratchaburi,1,Total,Cases,2024,Pertussis
 Samut Sakhon,0,Total,Cases,2024,Pertussis
 Samut Songkhram,0,Total,Cases,2024,Pertussis
 Suphan Buri,0,Total,Cases,2024,Pertussis
-ZONE:06,3,Total,Cases,2024,Pertussis
+ZONE:06,9,Total,Cases,2024,Pertussis
 Chachoengsao,0,Total,Cases,2024,Pertussis
-Chanthaburi,2,Total,Cases,2024,Pertussis
+Chanthaburi,3,Total,Cases,2024,Pertussis
 Chon Buri,1,Total,Cases,2024,Pertussis
 Prachin Buri,0,Total,Cases,2024,Pertussis
 Rayong,0,Total,Cases,2024,Pertussis
 Sa Kaeo,0,Total,Cases,2024,Pertussis
-Samut Prakan,0,Total,Cases,2024,Pertussis
+Samut Prakan,5,Total,Cases,2024,Pertussis
 Trat,0,Total,Cases,2024,Pertussis
 ZONE:07,2,Total,Cases,2024,Pertussis
 Kalasin,0,Total,Cases,2024,Pertussis
@@ -10262,34 +10262,34 @@ Nong Khai,0,Total,Cases,2024,Pertussis
 Sakon Nakhon,0,Total,Cases,2024,Pertussis
 Udon Thani,0,Total,Cases,2024,Pertussis
 ZONE:09,1,Total,Cases,2024,Pertussis
-Buri Ram,1,Total,Cases,2024,Pertussis
+Buri Ram,0,Total,Cases,2024,Pertussis
 Chaiyaphum,0,Total,Cases,2024,Pertussis
 Nakhon Ratchasima,0,Total,Cases,2024,Pertussis
-Surin,0,Total,Cases,2024,Pertussis
+Surin,1,Total,Cases,2024,Pertussis
 ZONE:10,0,Total,Cases,2024,Pertussis
 Amnat Charoen,0,Total,Cases,2024,Pertussis
 Mukdahan,0,Total,Cases,2024,Pertussis
 Si Sa Ket,0,Total,Cases,2024,Pertussis
 Ubon Ratchathani,0,Total,Cases,2024,Pertussis
 Yasothon,0,Total,Cases,2024,Pertussis
-ZONE:11,6,Total,Cases,2024,Pertussis
+ZONE:11,12,Total,Cases,2024,Pertussis
 Chumphon,0,Total,Cases,2024,Pertussis
 Krabi,0,Total,Cases,2024,Pertussis
 Nakhon Si Thammarat,0,Total,Cases,2024,Pertussis
 Phangnga,0,Total,Cases,2024,Pertussis
-Phuket,6,Total,Cases,2024,Pertussis
+Phuket,11,Total,Cases,2024,Pertussis
 Ranong,0,Total,Cases,2024,Pertussis
-Surat Thani,0,Total,Cases,2024,Pertussis
-ZONE:12,987,Total,Cases,2024,Pertussis
-Narathiwat,192,Total,Cases,2024,Pertussis
-Pattani,184,Total,Cases,2024,Pertussis
+Surat Thani,1,Total,Cases,2024,Pertussis
+ZONE:12,1067,Total,Cases,2024,Pertussis
+Narathiwat,198,Total,Cases,2024,Pertussis
+Pattani,199,Total,Cases,2024,Pertussis
 Phatthalung,0,Total,Cases,2024,Pertussis
 Satun,0,Total,Cases,2024,Pertussis
-Songkhla,68,Total,Cases,2024,Pertussis
+Songkhla,93,Total,Cases,2024,Pertussis
 Trang,0,Total,Cases,2024,Pertussis
-Yala,543,Total,Cases,2024,Pertussis
-ZONE:13,9,Total,Cases,2024,Pertussis
-Bangkok,9,Total,Cases,2024,Pertussis
+Yala,577,Total,Cases,2024,Pertussis
+ZONE:13,26,Total,Cases,2024,Pertussis
+Bangkok,26,Total,Cases,2024,Pertussis
 Total,1,Total,Deaths,2024,Pertussis
 ZONE:01,0,Total,Deaths,2024,Pertussis
 Chiang Mai,0,Total,Deaths,2024,Pertussis
@@ -10381,7 +10381,7 @@ Trang,0,Total,Deaths,2024,Pertussis
 Yala,1,Total,Deaths,2024,Pertussis
 ZONE:13,0,Total,Deaths,2024,Pertussis
 Bangkok,0,Total,Deaths,2024,Pertussis
-Total,285,Jan,Cases,2024,Pertussis
+Total,291,Jan,Cases,2024,Pertussis
 ZONE:01,0,Jan,Cases,2024,Pertussis
 Chiang Mai,0,Jan,Cases,2024,Pertussis
 Chiang Rai,0,Jan,Cases,2024,Pertussis
@@ -10462,14 +10462,14 @@ Phangnga,0,Jan,Cases,2024,Pertussis
 Phuket,1,Jan,Cases,2024,Pertussis
 Ranong,0,Jan,Cases,2024,Pertussis
 Surat Thani,0,Jan,Cases,2024,Pertussis
-ZONE:12,279,Jan,Cases,2024,Pertussis
+ZONE:12,285,Jan,Cases,2024,Pertussis
 Narathiwat,66,Jan,Cases,2024,Pertussis
 Pattani,59,Jan,Cases,2024,Pertussis
 Phatthalung,0,Jan,Cases,2024,Pertussis
 Satun,0,Jan,Cases,2024,Pertussis
 Songkhla,25,Jan,Cases,2024,Pertussis
 Trang,0,Jan,Cases,2024,Pertussis
-Yala,129,Jan,Cases,2024,Pertussis
+Yala,135,Jan,Cases,2024,Pertussis
 ZONE:13,2,Jan,Cases,2024,Pertussis
 Bangkok,2,Jan,Cases,2024,Pertussis
 Total,1,Jan,Deaths,2024,Pertussis
@@ -10565,7 +10565,7 @@ Trang,0,Jan,Deaths,2024,Pertussis
 Yala,1,Jan,Deaths,2024,Pertussis
 ZONE:13,0,Jan,Deaths,2024,Pertussis
 Bangkok,0,Jan,Deaths,2024,Pertussis
-Total,221,Feb,Cases,2024,Pertussis
+Total,222,Feb,Cases,2024,Pertussis
 ZONE:01,1,Feb,Cases,2024,Pertussis
 Chiang Mai,1,Feb,Cases,2024,Pertussis
 Chiang Rai,0,Feb,Cases,2024,Pertussis
@@ -10646,14 +10646,14 @@ Phangnga,0,Feb,Cases,2024,Pertussis
 Phuket,0,Feb,Cases,2024,Pertussis
 Ranong,0,Feb,Cases,2024,Pertussis
 Surat Thani,0,Feb,Cases,2024,Pertussis
-ZONE:12,219,Feb,Cases,2024,Pertussis
+ZONE:12,220,Feb,Cases,2024,Pertussis
 Narathiwat,26,Feb,Cases,2024,Pertussis
 Pattani,50,Feb,Cases,2024,Pertussis
 Phatthalung,0,Feb,Cases,2024,Pertussis
 Satun,0,Feb,Cases,2024,Pertussis
 Songkhla,12,Feb,Cases,2024,Pertussis
 Trang,0,Feb,Cases,2024,Pertussis
-Yala,131,Feb,Cases,2024,Pertussis
+Yala,132,Feb,Cases,2024,Pertussis
 ZONE:13,1,Feb,Cases,2024,Pertussis
 Bangkok,1,Feb,Cases,2024,Pertussis
 Total,0,Feb,Deaths,2024,Pertussis
@@ -10747,7 +10747,7 @@ Trang,0,Feb,Deaths,2024,Pertussis
 Yala,0,Feb,Deaths,2024,Pertussis
 ZONE:13,0,Feb,Deaths,2024,Pertussis
 Bangkok,0,Feb,Deaths,2024,Pertussis
-Total,213,Mar,Cases,2024,Pertussis
+Total,218,Mar,Cases,2024,Pertussis
 ZONE:01,0,Mar,Cases,2024,Pertussis
 Chiang Mai,0,Mar,Cases,2024,Pertussis
 Chiang Rai,0,Mar,Cases,2024,Pertussis
@@ -10828,14 +10828,14 @@ Phangnga,0,Mar,Cases,2024,Pertussis
 Phuket,2,Mar,Cases,2024,Pertussis
 Ranong,0,Mar,Cases,2024,Pertussis
 Surat Thani,0,Mar,Cases,2024,Pertussis
-ZONE:12,207,Mar,Cases,2024,Pertussis
+ZONE:12,212,Mar,Cases,2024,Pertussis
 Narathiwat,36,Mar,Cases,2024,Pertussis
 Pattani,34,Mar,Cases,2024,Pertussis
 Phatthalung,0,Mar,Cases,2024,Pertussis
 Satun,0,Mar,Cases,2024,Pertussis
 Songkhla,16,Mar,Cases,2024,Pertussis
 Trang,0,Mar,Cases,2024,Pertussis
-Yala,121,Mar,Cases,2024,Pertussis
+Yala,126,Mar,Cases,2024,Pertussis
 ZONE:13,2,Mar,Cases,2024,Pertussis
 Bangkok,2,Mar,Cases,2024,Pertussis
 Total,0,Mar,Deaths,2024,Pertussis
@@ -11293,12 +11293,12 @@ Trang,0,May,Deaths,2024,Pertussis
 Yala,0,May,Deaths,2024,Pertussis
 ZONE:13,0,May,Deaths,2024,Pertussis
 Bangkok,0,May,Deaths,2024,Pertussis
-Total,40,June,Cases,2024,Pertussis
-ZONE:01,2,June,Cases,2024,Pertussis
+Total,48,June,Cases,2024,Pertussis
+ZONE:01,3,June,Cases,2024,Pertussis
 Chiang Mai,1,June,Cases,2024,Pertussis
 Chiang Rai,0,June,Cases,2024,Pertussis
 Lampang,0,June,Cases,2024,Pertussis
-Lamphun,1,June,Cases,2024,Pertussis
+Lamphun,2,June,Cases,2024,Pertussis
 Mae Hong Son,0,June,Cases,2024,Pertussis
 Nan,0,June,Cases,2024,Pertussis
 Phayao,0,June,Cases,2024,Pertussis
@@ -11333,9 +11333,9 @@ Ratchaburi,0,June,Cases,2024,Pertussis
 Samut Sakhon,0,June,Cases,2024,Pertussis
 Samut Songkhram,0,June,Cases,2024,Pertussis
 Suphan Buri,0,June,Cases,2024,Pertussis
-ZONE:06,0,June,Cases,2024,Pertussis
+ZONE:06,1,June,Cases,2024,Pertussis
 Chachoengsao,0,June,Cases,2024,Pertussis
-Chanthaburi,0,June,Cases,2024,Pertussis
+Chanthaburi,1,June,Cases,2024,Pertussis
 Chon Buri,0,June,Cases,2024,Pertussis
 Prachin Buri,0,June,Cases,2024,Pertussis
 Rayong,0,June,Cases,2024,Pertussis
@@ -11355,8 +11355,8 @@ Nong Bua Lam Phu,0,June,Cases,2024,Pertussis
 Nong Khai,0,June,Cases,2024,Pertussis
 Sakon Nakhon,0,June,Cases,2024,Pertussis
 Udon Thani,0,June,Cases,2024,Pertussis
-ZONE:09,1,June,Cases,2024,Pertussis
-Buri Ram,1,June,Cases,2024,Pertussis
+ZONE:09,0,June,Cases,2024,Pertussis
+Buri Ram,0,June,Cases,2024,Pertussis
 Chaiyaphum,0,June,Cases,2024,Pertussis
 Nakhon Ratchasima,0,June,Cases,2024,Pertussis
 Surin,0,June,Cases,2024,Pertussis
@@ -11374,16 +11374,16 @@ Phangnga,0,June,Cases,2024,Pertussis
 Phuket,0,June,Cases,2024,Pertussis
 Ranong,0,June,Cases,2024,Pertussis
 Surat Thani,0,June,Cases,2024,Pertussis
-ZONE:12,34,June,Cases,2024,Pertussis
+ZONE:12,40,June,Cases,2024,Pertussis
 Narathiwat,4,June,Cases,2024,Pertussis
-Pattani,1,June,Cases,2024,Pertussis
+Pattani,2,June,Cases,2024,Pertussis
 Phatthalung,0,June,Cases,2024,Pertussis
 Satun,0,June,Cases,2024,Pertussis
-Songkhla,2,June,Cases,2024,Pertussis
+Songkhla,7,June,Cases,2024,Pertussis
 Trang,0,June,Cases,2024,Pertussis
 Yala,27,June,Cases,2024,Pertussis
-ZONE:13,1,June,Cases,2024,Pertussis
-Bangkok,1,June,Cases,2024,Pertussis
+ZONE:13,2,June,Cases,2024,Pertussis
+Bangkok,2,June,Cases,2024,Pertussis
 Total,0,June,Deaths,2024,Pertussis
 ZONE:01,0,June,Deaths,2024,Pertussis
 Chiang Mai,0,June,Deaths,2024,Pertussis
@@ -11475,7 +11475,7 @@ Trang,0,June,Deaths,2024,Pertussis
 Yala,0,June,Deaths,2024,Pertussis
 ZONE:13,0,June,Deaths,2024,Pertussis
 Bangkok,0,June,Deaths,2024,Pertussis
-Total,0,July,Cases,2024,Pertussis
+Total,33,July,Cases,2024,Pertussis
 ZONE:01,0,July,Cases,2024,Pertussis
 Chiang Mai,0,July,Cases,2024,Pertussis
 Chiang Rai,0,July,Cases,2024,Pertussis
@@ -11548,24 +11548,24 @@ Mukdahan,0,July,Cases,2024,Pertussis
 Si Sa Ket,0,July,Cases,2024,Pertussis
 Ubon Ratchathani,0,July,Cases,2024,Pertussis
 Yasothon,0,July,Cases,2024,Pertussis
-ZONE:11,0,July,Cases,2024,Pertussis
+ZONE:11,1,July,Cases,2024,Pertussis
 Chumphon,0,July,Cases,2024,Pertussis
 Krabi,0,July,Cases,2024,Pertussis
 Nakhon Si Thammarat,0,July,Cases,2024,Pertussis
 Phangnga,0,July,Cases,2024,Pertussis
-Phuket,0,July,Cases,2024,Pertussis
+Phuket,1,July,Cases,2024,Pertussis
 Ranong,0,July,Cases,2024,Pertussis
 Surat Thani,0,July,Cases,2024,Pertussis
-ZONE:12,0,July,Cases,2024,Pertussis
-Narathiwat,0,July,Cases,2024,Pertussis
-Pattani,0,July,Cases,2024,Pertussis
+ZONE:12,29,July,Cases,2024,Pertussis
+Narathiwat,1,July,Cases,2024,Pertussis
+Pattani,13,July,Cases,2024,Pertussis
 Phatthalung,0,July,Cases,2024,Pertussis
 Satun,0,July,Cases,2024,Pertussis
-Songkhla,0,July,Cases,2024,Pertussis
+Songkhla,9,July,Cases,2024,Pertussis
 Trang,0,July,Cases,2024,Pertussis
-Yala,0,July,Cases,2024,Pertussis
-ZONE:13,0,July,Cases,2024,Pertussis
-Bangkok,0,July,Cases,2024,Pertussis
+Yala,6,July,Cases,2024,Pertussis
+ZONE:13,3,July,Cases,2024,Pertussis
+Bangkok,3,July,Cases,2024,Pertussis
 Total,0,July,Deaths,2024,Pertussis
 ZONE:01,0,July,Deaths,2024,Pertussis
 Chiang Mai,0,July,Deaths,2024,Pertussis
@@ -11657,7 +11657,7 @@ Trang,0,July,Deaths,2024,Pertussis
 Yala,0,July,Deaths,2024,Pertussis
 ZONE:13,0,July,Deaths,2024,Pertussis
 Bangkok,0,July,Deaths,2024,Pertussis
-Total,0,Aug,Cases,2024,Pertussis
+Total,32,Aug,Cases,2024,Pertussis
 ZONE:01,0,Aug,Cases,2024,Pertussis
 Chiang Mai,0,Aug,Cases,2024,Pertussis
 Chiang Rai,0,Aug,Cases,2024,Pertussis
@@ -11679,32 +11679,32 @@ Kamphaeng Phet,0,Aug,Cases,2024,Pertussis
 Nakhon Sawan,0,Aug,Cases,2024,Pertussis
 Phichit,0,Aug,Cases,2024,Pertussis
 Uthai Thani,0,Aug,Cases,2024,Pertussis
-ZONE:04,0,Aug,Cases,2024,Pertussis
+ZONE:04,1,Aug,Cases,2024,Pertussis
 Ang Thong,0,Aug,Cases,2024,Pertussis
 Lop Buri,0,Aug,Cases,2024,Pertussis
 Nakhon Nayok,0,Aug,Cases,2024,Pertussis
-Nonthaburi,0,Aug,Cases,2024,Pertussis
+Nonthaburi,1,Aug,Cases,2024,Pertussis
 P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,Pertussis
 Pathum Thani,0,Aug,Cases,2024,Pertussis
 Saraburi,0,Aug,Cases,2024,Pertussis
 Sing Buri,0,Aug,Cases,2024,Pertussis
-ZONE:05,0,Aug,Cases,2024,Pertussis
-Kanchanaburi,0,Aug,Cases,2024,Pertussis
+ZONE:05,2,Aug,Cases,2024,Pertussis
+Kanchanaburi,1,Aug,Cases,2024,Pertussis
 Nakhon Pathom,0,Aug,Cases,2024,Pertussis
 Phetchaburi,0,Aug,Cases,2024,Pertussis
 Prachuap Khiri Khan,0,Aug,Cases,2024,Pertussis
-Ratchaburi,0,Aug,Cases,2024,Pertussis
+Ratchaburi,1,Aug,Cases,2024,Pertussis
 Samut Sakhon,0,Aug,Cases,2024,Pertussis
 Samut Songkhram,0,Aug,Cases,2024,Pertussis
 Suphan Buri,0,Aug,Cases,2024,Pertussis
-ZONE:06,0,Aug,Cases,2024,Pertussis
+ZONE:06,1,Aug,Cases,2024,Pertussis
 Chachoengsao,0,Aug,Cases,2024,Pertussis
 Chanthaburi,0,Aug,Cases,2024,Pertussis
 Chon Buri,0,Aug,Cases,2024,Pertussis
 Prachin Buri,0,Aug,Cases,2024,Pertussis
 Rayong,0,Aug,Cases,2024,Pertussis
 Sa Kaeo,0,Aug,Cases,2024,Pertussis
-Samut Prakan,0,Aug,Cases,2024,Pertussis
+Samut Prakan,1,Aug,Cases,2024,Pertussis
 Trat,0,Aug,Cases,2024,Pertussis
 ZONE:07,0,Aug,Cases,2024,Pertussis
 Kalasin,0,Aug,Cases,2024,Pertussis
@@ -11719,35 +11719,35 @@ Nong Bua Lam Phu,0,Aug,Cases,2024,Pertussis
 Nong Khai,0,Aug,Cases,2024,Pertussis
 Sakon Nakhon,0,Aug,Cases,2024,Pertussis
 Udon Thani,0,Aug,Cases,2024,Pertussis
-ZONE:09,0,Aug,Cases,2024,Pertussis
+ZONE:09,1,Aug,Cases,2024,Pertussis
 Buri Ram,0,Aug,Cases,2024,Pertussis
 Chaiyaphum,0,Aug,Cases,2024,Pertussis
 Nakhon Ratchasima,0,Aug,Cases,2024,Pertussis
-Surin,0,Aug,Cases,2024,Pertussis
+Surin,1,Aug,Cases,2024,Pertussis
 ZONE:10,0,Aug,Cases,2024,Pertussis
 Amnat Charoen,0,Aug,Cases,2024,Pertussis
 Mukdahan,0,Aug,Cases,2024,Pertussis
 Si Sa Ket,0,Aug,Cases,2024,Pertussis
 Ubon Ratchathani,0,Aug,Cases,2024,Pertussis
 Yasothon,0,Aug,Cases,2024,Pertussis
-ZONE:11,0,Aug,Cases,2024,Pertussis
+ZONE:11,2,Aug,Cases,2024,Pertussis
 Chumphon,0,Aug,Cases,2024,Pertussis
 Krabi,0,Aug,Cases,2024,Pertussis
 Nakhon Si Thammarat,0,Aug,Cases,2024,Pertussis
 Phangnga,0,Aug,Cases,2024,Pertussis
-Phuket,0,Aug,Cases,2024,Pertussis
+Phuket,2,Aug,Cases,2024,Pertussis
 Ranong,0,Aug,Cases,2024,Pertussis
 Surat Thani,0,Aug,Cases,2024,Pertussis
-ZONE:12,0,Aug,Cases,2024,Pertussis
-Narathiwat,0,Aug,Cases,2024,Pertussis
-Pattani,0,Aug,Cases,2024,Pertussis
+ZONE:12,20,Aug,Cases,2024,Pertussis
+Narathiwat,3,Aug,Cases,2024,Pertussis
+Pattani,1,Aug,Cases,2024,Pertussis
 Phatthalung,0,Aug,Cases,2024,Pertussis
 Satun,0,Aug,Cases,2024,Pertussis
-Songkhla,0,Aug,Cases,2024,Pertussis
+Songkhla,7,Aug,Cases,2024,Pertussis
 Trang,0,Aug,Cases,2024,Pertussis
-Yala,0,Aug,Cases,2024,Pertussis
-ZONE:13,0,Aug,Cases,2024,Pertussis
-Bangkok,0,Aug,Cases,2024,Pertussis
+Yala,9,Aug,Cases,2024,Pertussis
+ZONE:13,5,Aug,Cases,2024,Pertussis
+Bangkok,5,Aug,Cases,2024,Pertussis
 Total,0,Aug,Deaths,2024,Pertussis
 ZONE:01,0,Aug,Deaths,2024,Pertussis
 Chiang Mai,0,Aug,Deaths,2024,Pertussis
@@ -11839,7 +11839,7 @@ Trang,0,Aug,Deaths,2024,Pertussis
 Yala,0,Aug,Deaths,2024,Pertussis
 ZONE:13,0,Aug,Deaths,2024,Pertussis
 Bangkok,0,Aug,Deaths,2024,Pertussis
-Total,0,Sept,Cases,2024,Pertussis
+Total,19,Sept,Cases,2024,Pertussis
 ZONE:01,0,Sept,Cases,2024,Pertussis
 Chiang Mai,0,Sept,Cases,2024,Pertussis
 Chiang Rai,0,Sept,Cases,2024,Pertussis
@@ -11861,10 +11861,10 @@ Kamphaeng Phet,0,Sept,Cases,2024,Pertussis
 Nakhon Sawan,0,Sept,Cases,2024,Pertussis
 Phichit,0,Sept,Cases,2024,Pertussis
 Uthai Thani,0,Sept,Cases,2024,Pertussis
-ZONE:04,0,Sept,Cases,2024,Pertussis
+ZONE:04,1,Sept,Cases,2024,Pertussis
 Ang Thong,0,Sept,Cases,2024,Pertussis
 Lop Buri,0,Sept,Cases,2024,Pertussis
-Nakhon Nayok,0,Sept,Cases,2024,Pertussis
+Nakhon Nayok,1,Sept,Cases,2024,Pertussis
 Nonthaburi,0,Sept,Cases,2024,Pertussis
 P.Nakhon S.Ayutthaya,0,Sept,Cases,2024,Pertussis
 Pathum Thani,0,Sept,Cases,2024,Pertussis
@@ -11879,14 +11879,14 @@ Ratchaburi,0,Sept,Cases,2024,Pertussis
 Samut Sakhon,0,Sept,Cases,2024,Pertussis
 Samut Songkhram,0,Sept,Cases,2024,Pertussis
 Suphan Buri,0,Sept,Cases,2024,Pertussis
-ZONE:06,0,Sept,Cases,2024,Pertussis
+ZONE:06,3,Sept,Cases,2024,Pertussis
 Chachoengsao,0,Sept,Cases,2024,Pertussis
 Chanthaburi,0,Sept,Cases,2024,Pertussis
 Chon Buri,0,Sept,Cases,2024,Pertussis
 Prachin Buri,0,Sept,Cases,2024,Pertussis
 Rayong,0,Sept,Cases,2024,Pertussis
 Sa Kaeo,0,Sept,Cases,2024,Pertussis
-Samut Prakan,0,Sept,Cases,2024,Pertussis
+Samut Prakan,3,Sept,Cases,2024,Pertussis
 Trat,0,Sept,Cases,2024,Pertussis
 ZONE:07,0,Sept,Cases,2024,Pertussis
 Kalasin,0,Sept,Cases,2024,Pertussis
@@ -11912,24 +11912,24 @@ Mukdahan,0,Sept,Cases,2024,Pertussis
 Si Sa Ket,0,Sept,Cases,2024,Pertussis
 Ubon Ratchathani,0,Sept,Cases,2024,Pertussis
 Yasothon,0,Sept,Cases,2024,Pertussis
-ZONE:11,0,Sept,Cases,2024,Pertussis
+ZONE:11,2,Sept,Cases,2024,Pertussis
 Chumphon,0,Sept,Cases,2024,Pertussis
 Krabi,0,Sept,Cases,2024,Pertussis
 Nakhon Si Thammarat,0,Sept,Cases,2024,Pertussis
 Phangnga,0,Sept,Cases,2024,Pertussis
-Phuket,0,Sept,Cases,2024,Pertussis
+Phuket,2,Sept,Cases,2024,Pertussis
 Ranong,0,Sept,Cases,2024,Pertussis
 Surat Thani,0,Sept,Cases,2024,Pertussis
-ZONE:12,0,Sept,Cases,2024,Pertussis
-Narathiwat,0,Sept,Cases,2024,Pertussis
+ZONE:12,10,Sept,Cases,2024,Pertussis
+Narathiwat,2,Sept,Cases,2024,Pertussis
 Pattani,0,Sept,Cases,2024,Pertussis
 Phatthalung,0,Sept,Cases,2024,Pertussis
 Satun,0,Sept,Cases,2024,Pertussis
-Songkhla,0,Sept,Cases,2024,Pertussis
+Songkhla,4,Sept,Cases,2024,Pertussis
 Trang,0,Sept,Cases,2024,Pertussis
-Yala,0,Sept,Cases,2024,Pertussis
-ZONE:13,0,Sept,Cases,2024,Pertussis
-Bangkok,0,Sept,Cases,2024,Pertussis
+Yala,4,Sept,Cases,2024,Pertussis
+ZONE:13,3,Sept,Cases,2024,Pertussis
+Bangkok,3,Sept,Cases,2024,Pertussis
 Total,0,Sept,Deaths,2024,Pertussis
 ZONE:01,0,Sept,Deaths,2024,Pertussis
 Chiang Mai,0,Sept,Deaths,2024,Pertussis
@@ -12021,7 +12021,7 @@ Trang,0,Sept,Deaths,2024,Pertussis
 Yala,0,Sept,Deaths,2024,Pertussis
 ZONE:13,0,Sept,Deaths,2024,Pertussis
 Bangkok,0,Sept,Deaths,2024,Pertussis
-Total,0,Oct,Cases,2024,Pertussis
+Total,10,Oct,Cases,2024,Pertussis
 ZONE:01,0,Oct,Cases,2024,Pertussis
 Chiang Mai,0,Oct,Cases,2024,Pertussis
 Chiang Rai,0,Oct,Cases,2024,Pertussis
@@ -12061,14 +12061,14 @@ Ratchaburi,0,Oct,Cases,2024,Pertussis
 Samut Sakhon,0,Oct,Cases,2024,Pertussis
 Samut Songkhram,0,Oct,Cases,2024,Pertussis
 Suphan Buri,0,Oct,Cases,2024,Pertussis
-ZONE:06,0,Oct,Cases,2024,Pertussis
+ZONE:06,1,Oct,Cases,2024,Pertussis
 Chachoengsao,0,Oct,Cases,2024,Pertussis
 Chanthaburi,0,Oct,Cases,2024,Pertussis
 Chon Buri,0,Oct,Cases,2024,Pertussis
 Prachin Buri,0,Oct,Cases,2024,Pertussis
 Rayong,0,Oct,Cases,2024,Pertussis
 Sa Kaeo,0,Oct,Cases,2024,Pertussis
-Samut Prakan,0,Oct,Cases,2024,Pertussis
+Samut Prakan,1,Oct,Cases,2024,Pertussis
 Trat,0,Oct,Cases,2024,Pertussis
 ZONE:07,0,Oct,Cases,2024,Pertussis
 Kalasin,0,Oct,Cases,2024,Pertussis
@@ -12094,24 +12094,24 @@ Mukdahan,0,Oct,Cases,2024,Pertussis
 Si Sa Ket,0,Oct,Cases,2024,Pertussis
 Ubon Ratchathani,0,Oct,Cases,2024,Pertussis
 Yasothon,0,Oct,Cases,2024,Pertussis
-ZONE:11,0,Oct,Cases,2024,Pertussis
+ZONE:11,1,Oct,Cases,2024,Pertussis
 Chumphon,0,Oct,Cases,2024,Pertussis
 Krabi,0,Oct,Cases,2024,Pertussis
 Nakhon Si Thammarat,0,Oct,Cases,2024,Pertussis
 Phangnga,0,Oct,Cases,2024,Pertussis
 Phuket,0,Oct,Cases,2024,Pertussis
 Ranong,0,Oct,Cases,2024,Pertussis
-Surat Thani,0,Oct,Cases,2024,Pertussis
-ZONE:12,0,Oct,Cases,2024,Pertussis
+Surat Thani,1,Oct,Cases,2024,Pertussis
+ZONE:12,3,Oct,Cases,2024,Pertussis
 Narathiwat,0,Oct,Cases,2024,Pertussis
 Pattani,0,Oct,Cases,2024,Pertussis
 Phatthalung,0,Oct,Cases,2024,Pertussis
 Satun,0,Oct,Cases,2024,Pertussis
 Songkhla,0,Oct,Cases,2024,Pertussis
 Trang,0,Oct,Cases,2024,Pertussis
-Yala,0,Oct,Cases,2024,Pertussis
-ZONE:13,0,Oct,Cases,2024,Pertussis
-Bangkok,0,Oct,Cases,2024,Pertussis
+Yala,3,Oct,Cases,2024,Pertussis
+ZONE:13,5,Oct,Cases,2024,Pertussis
+Bangkok,5,Oct,Cases,2024,Pertussis
 Total,0,Oct,Deaths,2024,Pertussis
 ZONE:01,0,Oct,Deaths,2024,Pertussis
 Chiang Mai,0,Oct,Deaths,2024,Pertussis

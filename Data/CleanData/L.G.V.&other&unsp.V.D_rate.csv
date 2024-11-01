@@ -1627,97 +1627,97 @@ Yala,8,1.73,0,0.00,0.00,461995,2005,L.G.V.&other&unsp.V.D
 Zone:19,21,1.34,0,0.00,0.00,1567672,2005,L.G.V.&other&unsp.V.D
 Satun,11,3.99,0,0.00,0.00,275706,2005,L.G.V.&other&unsp.V.D
 Songkhla,10,0.77,0,0.00,0.00,1291966,2005,L.G.V.&other&unsp.V.D
-Total,107,0.16,0,0.00,0.00,66071545,2024,L.G.V.&other&unsp.V.D
-ZONE:01,12,0.20,0,0.00,0.00,5857413,2024,L.G.V.&other&unsp.V.D
-Chiang Mai,2,0.11,0,0.00,0.00,1794774,2024,L.G.V.&other&unsp.V.D
-Chiang Rai,4,0.31,0,0.00,0.00,1299306,2024,L.G.V.&other&unsp.V.D
-Lampang,1,0.14,0,0.00,0.00,715133,2024,L.G.V.&other&unsp.V.D
+Total,236,0.36,0,0.00,0.00,66071545,2024,L.G.V.&other&unsp.V.D
+ZONE:01,25,0.43,0,0.00,0.00,5857413,2024,L.G.V.&other&unsp.V.D
+Chiang Mai,5,0.28,0,0.00,0.00,1794774,2024,L.G.V.&other&unsp.V.D
+Chiang Rai,7,0.54,0,0.00,0.00,1299306,2024,L.G.V.&other&unsp.V.D
+Lampang,3,0.42,0,0.00,0.00,715133,2024,L.G.V.&other&unsp.V.D
 Lamphun,0,0.00,0,0.00,0.00,398998,2024,L.G.V.&other&unsp.V.D
-Mae Hong Son,3,1.04,0,0.00,0.00,287215,2024,L.G.V.&other&unsp.V.D
+Mae Hong Son,4,1.39,0,0.00,0.00,287215,2024,L.G.V.&other&unsp.V.D
 Nan,1,0.21,0,0.00,0.00,473630,2024,L.G.V.&other&unsp.V.D
-Phayao,0,0.00,0,0.00,0.00,459858,2024,L.G.V.&other&unsp.V.D
-Phrae,1,0.23,0,0.00,0.00,428499,2024,L.G.V.&other&unsp.V.D
-ZONE:02,6,0.17,0,0.00,0.00,3522489,2024,L.G.V.&other&unsp.V.D
+Phayao,3,0.65,0,0.00,0.00,459858,2024,L.G.V.&other&unsp.V.D
+Phrae,2,0.47,0,0.00,0.00,428499,2024,L.G.V.&other&unsp.V.D
+ZONE:02,7,0.20,0,0.00,0.00,3522489,2024,L.G.V.&other&unsp.V.D
 Phetchabun,0,0.00,0,0.00,0.00,970403,2024,L.G.V.&other&unsp.V.D
 Phitsanulok,3,0.36,0,0.00,0.00,843111,2024,L.G.V.&other&unsp.V.D
 Sukhothai,0,0.00,0,0.00,0.00,579759,2024,L.G.V.&other&unsp.V.D
-Tak,1,0.15,0,0.00,0.00,687927,2024,L.G.V.&other&unsp.V.D
+Tak,2,0.29,0,0.00,0.00,687927,2024,L.G.V.&other&unsp.V.D
 Uttaradit,2,0.45,0,0.00,0.00,441289,2024,L.G.V.&other&unsp.V.D
-ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,L.G.V.&other&unsp.V.D
-Chai Nat,0,0.00,0,0.00,0.00,317263,2024,L.G.V.&other&unsp.V.D
-Kamphaeng Phet,1,0.14,0,0.00,0.00,706861,2024,L.G.V.&other&unsp.V.D
-Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,L.G.V.&other&unsp.V.D
+ZONE:03,4,0.14,0,0.00,0.00,2896463,2024,L.G.V.&other&unsp.V.D
+Chai Nat,1,0.32,0,0.00,0.00,317263,2024,L.G.V.&other&unsp.V.D
+Kamphaeng Phet,2,0.28,0,0.00,0.00,706861,2024,L.G.V.&other&unsp.V.D
+Nakhon Sawan,1,0.10,0,0.00,0.00,1025348,2024,L.G.V.&other&unsp.V.D
 Phichit,0,0.00,0,0.00,0.00,523925,2024,L.G.V.&other&unsp.V.D
 Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,L.G.V.&other&unsp.V.D
-ZONE:04,7,0.13,0,0.00,0.00,5438863,2024,L.G.V.&other&unsp.V.D
-Ang Thong,1,0.37,0,0.00,0.00,271656,2024,L.G.V.&other&unsp.V.D
-Lop Buri,2,0.27,0,0.00,0.00,732495,2024,L.G.V.&other&unsp.V.D
-Nakhon Nayok,1,0.38,0,0.00,0.00,260261,2024,L.G.V.&other&unsp.V.D
-Nonthaburi,1,0.08,0,0.00,0.00,1302004,2024,L.G.V.&other&unsp.V.D
-P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,L.G.V.&other&unsp.V.D
-Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,L.G.V.&other&unsp.V.D
+ZONE:04,17,0.31,0,0.00,0.00,5438863,2024,L.G.V.&other&unsp.V.D
+Ang Thong,3,1.10,0,0.00,0.00,271656,2024,L.G.V.&other&unsp.V.D
+Lop Buri,4,0.55,0,0.00,0.00,732495,2024,L.G.V.&other&unsp.V.D
+Nakhon Nayok,2,0.77,0,0.00,0.00,260261,2024,L.G.V.&other&unsp.V.D
+Nonthaburi,2,0.15,0,0.00,0.00,1302004,2024,L.G.V.&other&unsp.V.D
+P.Nakhon S.Ayutthaya,1,0.12,0,0.00,0.00,821261,2024,L.G.V.&other&unsp.V.D
+Pathum Thani,3,0.25,0,0.00,0.00,1210365,2024,L.G.V.&other&unsp.V.D
 Saraburi,2,0.31,0,0.00,0.00,638704,2024,L.G.V.&other&unsp.V.D
 Sing Buri,0,0.00,0,0.00,0.00,202117,2024,L.G.V.&other&unsp.V.D
-ZONE:05,12,0.23,0,0.00,0.00,5326695,2024,L.G.V.&other&unsp.V.D
+ZONE:05,16,0.30,0,0.00,0.00,5326695,2024,L.G.V.&other&unsp.V.D
 Kanchanaburi,4,0.45,0,0.00,0.00,894781,2024,L.G.V.&other&unsp.V.D
-Nakhon Pathom,1,0.11,0,0.00,0.00,923201,2024,L.G.V.&other&unsp.V.D
+Nakhon Pathom,2,0.22,0,0.00,0.00,923201,2024,L.G.V.&other&unsp.V.D
 Phetchaburi,1,0.21,0,0.00,0.00,483305,2024,L.G.V.&other&unsp.V.D
-Prachuap Khiri Khan,3,0.54,0,0.00,0.00,552137,2024,L.G.V.&other&unsp.V.D
+Prachuap Khiri Khan,4,0.72,0,0.00,0.00,552137,2024,L.G.V.&other&unsp.V.D
 Ratchaburi,1,0.12,0,0.00,0.00,865276,2024,L.G.V.&other&unsp.V.D
-Samut Sakhon,1,0.17,0,0.00,0.00,590730,2024,L.G.V.&other&unsp.V.D
+Samut Sakhon,2,0.34,0,0.00,0.00,590730,2024,L.G.V.&other&unsp.V.D
 Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,L.G.V.&other&unsp.V.D
-Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,L.G.V.&other&unsp.V.D
-ZONE:06,14,0.22,0,0.00,0.00,6292163,2024,L.G.V.&other&unsp.V.D
-Chachoengsao,2,0.27,0,0.00,0.00,728615,2024,L.G.V.&other&unsp.V.D
-Chanthaburi,5,0.93,0,0.00,0.00,536290,2024,L.G.V.&other&unsp.V.D
-Chon Buri,5,0.31,0,0.00,0.00,1606412,2024,L.G.V.&other&unsp.V.D
-Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,L.G.V.&other&unsp.V.D
-Rayong,0,0.00,0,0.00,0.00,765287,2024,L.G.V.&other&unsp.V.D
-Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,L.G.V.&other&unsp.V.D
-Samut Prakan,2,0.15,0,0.00,0.00,1366598,2024,L.G.V.&other&unsp.V.D
-Trat,0,0.00,0,0.00,0.00,227430,2024,L.G.V.&other&unsp.V.D
+Suphan Buri,2,0.24,0,0.00,0.00,828542,2024,L.G.V.&other&unsp.V.D
+ZONE:06,36,0.57,0,0.00,0.00,6292163,2024,L.G.V.&other&unsp.V.D
+Chachoengsao,3,0.41,0,0.00,0.00,728615,2024,L.G.V.&other&unsp.V.D
+Chanthaburi,6,1.12,0,0.00,0.00,536290,2024,L.G.V.&other&unsp.V.D
+Chon Buri,12,0.75,0,0.00,0.00,1606412,2024,L.G.V.&other&unsp.V.D
+Prachin Buri,2,0.40,0,0.00,0.00,498671,2024,L.G.V.&other&unsp.V.D
+Rayong,2,0.26,0,0.00,0.00,765287,2024,L.G.V.&other&unsp.V.D
+Sa Kaeo,2,0.36,0,0.00,0.00,562860,2024,L.G.V.&other&unsp.V.D
+Samut Prakan,8,0.59,0,0.00,0.00,1366598,2024,L.G.V.&other&unsp.V.D
+Trat,1,0.44,0,0.00,0.00,227430,2024,L.G.V.&other&unsp.V.D
 ZONE:07,4,0.08,0,0.00,0.00,4981337,2024,L.G.V.&other&unsp.V.D
 Kalasin,0,0.00,0,0.00,0.00,970084,2024,L.G.V.&other&unsp.V.D
 Khon Kaen,2,0.11,0,0.00,0.00,1782008,2024,L.G.V.&other&unsp.V.D
 Maha Sarakham,1,0.11,0,0.00,0.00,941261,2024,L.G.V.&other&unsp.V.D
 Roi Et,1,0.08,0,0.00,0.00,1287984,2024,L.G.V.&other&unsp.V.D
-ZONE:08,6,0.11,0,0.00,0.00,5500012,2024,L.G.V.&other&unsp.V.D
-Bungkan,0,0.00,0,0.00,0.00,421086,2024,L.G.V.&other&unsp.V.D
+ZONE:08,12,0.22,0,0.00,0.00,5500012,2024,L.G.V.&other&unsp.V.D
+Bungkan,1,0.24,0,0.00,0.00,421086,2024,L.G.V.&other&unsp.V.D
 Loei,1,0.16,0,0.00,0.00,636242,2024,L.G.V.&other&unsp.V.D
 Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,L.G.V.&other&unsp.V.D
-Nong Bua Lam Phu,1,0.20,0,0.00,0.00,507599,2024,L.G.V.&other&unsp.V.D
-Nong Khai,0,0.00,0,0.00,0.00,514909,2024,L.G.V.&other&unsp.V.D
-Sakon Nakhon,2,0.17,0,0.00,0.00,1143922,2024,L.G.V.&other&unsp.V.D
-Udon Thani,2,0.13,0,0.00,0.00,1560788,2024,L.G.V.&other&unsp.V.D
-ZONE:09,8,0.12,0,0.00,0.00,6689028,2024,L.G.V.&other&unsp.V.D
-Buri Ram,2,0.13,0,0.00,0.00,1575073,2024,L.G.V.&other&unsp.V.D
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,L.G.V.&other&unsp.V.D
+Nong Bua Lam Phu,2,0.39,0,0.00,0.00,507599,2024,L.G.V.&other&unsp.V.D
+Nong Khai,1,0.19,0,0.00,0.00,514909,2024,L.G.V.&other&unsp.V.D
+Sakon Nakhon,3,0.26,0,0.00,0.00,1143922,2024,L.G.V.&other&unsp.V.D
+Udon Thani,4,0.26,0,0.00,0.00,1560788,2024,L.G.V.&other&unsp.V.D
+ZONE:09,11,0.16,0,0.00,0.00,6689028,2024,L.G.V.&other&unsp.V.D
+Buri Ram,3,0.19,0,0.00,0.00,1575073,2024,L.G.V.&other&unsp.V.D
+Chaiyaphum,1,0.09,0,0.00,0.00,1115652,2024,L.G.V.&other&unsp.V.D
 Nakhon Ratchasima,6,0.23,0,0.00,0.00,2627927,2024,L.G.V.&other&unsp.V.D
-Surin,0,0.00,0,0.00,0.00,1370376,2024,L.G.V.&other&unsp.V.D
-ZONE:10,5,0.11,0,0.00,0.00,4578831,2024,L.G.V.&other&unsp.V.D
+Surin,1,0.07,0,0.00,0.00,1370376,2024,L.G.V.&other&unsp.V.D
+ZONE:10,9,0.20,0,0.00,0.00,4578831,2024,L.G.V.&other&unsp.V.D
 Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,L.G.V.&other&unsp.V.D
 Mukdahan,0,0.00,0,0.00,0.00,351592,2024,L.G.V.&other&unsp.V.D
-Si Sa Ket,3,0.21,0,0.00,0.00,1452532,2024,L.G.V.&other&unsp.V.D
-Ubon Ratchathani,2,0.11,0,0.00,0.00,1869708,2024,L.G.V.&other&unsp.V.D
+Si Sa Ket,4,0.28,0,0.00,0.00,1452532,2024,L.G.V.&other&unsp.V.D
+Ubon Ratchathani,5,0.27,0,0.00,0.00,1869708,2024,L.G.V.&other&unsp.V.D
 Yasothon,0,0.00,0,0.00,0.00,530239,2024,L.G.V.&other&unsp.V.D
-ZONE:11,6,0.13,0,0.00,0.00,4489783,2024,L.G.V.&other&unsp.V.D
+ZONE:11,22,0.49,0,0.00,0.00,4489783,2024,L.G.V.&other&unsp.V.D
 Chumphon,0,0.00,0,0.00,0.00,509122,2024,L.G.V.&other&unsp.V.D
-Krabi,1,0.21,0,0.00,0.00,481089,2024,L.G.V.&other&unsp.V.D
-Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1543051,2024,L.G.V.&other&unsp.V.D
-Phangnga,1,0.37,0,0.00,0.00,267250,2024,L.G.V.&other&unsp.V.D
-Phuket,1,0.24,0,0.00,0.00,420746,2024,L.G.V.&other&unsp.V.D
+Krabi,4,0.83,0,0.00,0.00,481089,2024,L.G.V.&other&unsp.V.D
+Nakhon Si Thammarat,3,0.19,0,0.00,0.00,1543051,2024,L.G.V.&other&unsp.V.D
+Phangnga,3,1.12,0,0.00,0.00,267250,2024,L.G.V.&other&unsp.V.D
+Phuket,6,1.43,0,0.00,0.00,420746,2024,L.G.V.&other&unsp.V.D
 Ranong,0,0.00,0,0.00,0.00,193799,2024,L.G.V.&other&unsp.V.D
-Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,L.G.V.&other&unsp.V.D
-ZONE:12,7,0.14,0,0.00,0.00,5015209,2024,L.G.V.&other&unsp.V.D
+Surat Thani,6,0.56,0,0.00,0.00,1074726,2024,L.G.V.&other&unsp.V.D
+ZONE:12,12,0.24,0,0.00,0.00,5015209,2024,L.G.V.&other&unsp.V.D
 Narathiwat,0,0.00,0,0.00,0.00,816642,2024,L.G.V.&other&unsp.V.D
 Pattani,0,0.00,0,0.00,0.00,735017,2024,L.G.V.&other&unsp.V.D
-Phatthalung,0,0.00,0,0.00,0.00,521109,2024,L.G.V.&other&unsp.V.D
+Phatthalung,2,0.38,0,0.00,0.00,521109,2024,L.G.V.&other&unsp.V.D
 Satun,2,0.61,0,0.00,0.00,325387,2024,L.G.V.&other&unsp.V.D
-Songkhla,4,0.28,0,0.00,0.00,1431512,2024,L.G.V.&other&unsp.V.D
+Songkhla,5,0.35,0,0.00,0.00,1431512,2024,L.G.V.&other&unsp.V.D
 Trang,1,0.16,0,0.00,0.00,637612,2024,L.G.V.&other&unsp.V.D
-Yala,0,0.00,0,0.00,0.00,547930,2024,L.G.V.&other&unsp.V.D
-ZONE:13,19,0.35,0,0.00,0.00,5483259,2024,L.G.V.&other&unsp.V.D
-Bangkok,19,0.35,0,0.00,0.00,5483259,2024,L.G.V.&other&unsp.V.D
+Yala,2,0.37,0,0.00,0.00,547930,2024,L.G.V.&other&unsp.V.D
+ZONE:13,61,1.11,0,0.00,0.00,5483259,2024,L.G.V.&other&unsp.V.D
+Bangkok,61,1.11,0,0.00,0.00,5483259,2024,L.G.V.&other&unsp.V.D
 Total,180,0.28,0,0.00,0.00,64955313,2014,L.G.V.&other&unsp.V.D
 ZONE:00,3,0.05,0,0.00,0.00,5689268,2014,L.G.V.&other&unsp.V.D
 Bangkok,3,0.05,0,0.00,0.00,5689268,2014,L.G.V.&other&unsp.V.D

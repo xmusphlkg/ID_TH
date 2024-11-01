@@ -1,95 +1,95 @@
 Areas,Count,Month,Type,Year,Disease
-Total,1452,Total,Cases,2024,HepatitisC
-ZONE:01,53,Total,Cases,2024,HepatitisC
-Chiang Mai,17,Total,Cases,2024,HepatitisC
-Chiang Rai,6,Total,Cases,2024,HepatitisC
-Lampang,10,Total,Cases,2024,HepatitisC
-Lamphun,3,Total,Cases,2024,HepatitisC
-Mae Hong Son,2,Total,Cases,2024,HepatitisC
+Total,2710,Total,Cases,2024,HepatitisC
+ZONE:01,81,Total,Cases,2024,HepatitisC
+Chiang Mai,22,Total,Cases,2024,HepatitisC
+Chiang Rai,16,Total,Cases,2024,HepatitisC
+Lampang,12,Total,Cases,2024,HepatitisC
+Lamphun,7,Total,Cases,2024,HepatitisC
+Mae Hong Son,4,Total,Cases,2024,HepatitisC
 Nan,7,Total,Cases,2024,HepatitisC
-Phayao,4,Total,Cases,2024,HepatitisC
-Phrae,4,Total,Cases,2024,HepatitisC
-ZONE:02,84,Total,Cases,2024,HepatitisC
-Phetchabun,20,Total,Cases,2024,HepatitisC
-Phitsanulok,2,Total,Cases,2024,HepatitisC
-Sukhothai,7,Total,Cases,2024,HepatitisC
-Tak,55,Total,Cases,2024,HepatitisC
-Uttaradit,0,Total,Cases,2024,HepatitisC
-ZONE:03,71,Total,Cases,2024,HepatitisC
-Chai Nat,21,Total,Cases,2024,HepatitisC
-Kamphaeng Phet,1,Total,Cases,2024,HepatitisC
-Nakhon Sawan,13,Total,Cases,2024,HepatitisC
-Phichit,31,Total,Cases,2024,HepatitisC
-Uthai Thani,5,Total,Cases,2024,HepatitisC
-ZONE:04,370,Total,Cases,2024,HepatitisC
-Ang Thong,14,Total,Cases,2024,HepatitisC
-Lop Buri,49,Total,Cases,2024,HepatitisC
+Phayao,6,Total,Cases,2024,HepatitisC
+Phrae,7,Total,Cases,2024,HepatitisC
+ZONE:02,162,Total,Cases,2024,HepatitisC
+Phetchabun,40,Total,Cases,2024,HepatitisC
+Phitsanulok,4,Total,Cases,2024,HepatitisC
+Sukhothai,11,Total,Cases,2024,HepatitisC
+Tak,104,Total,Cases,2024,HepatitisC
+Uttaradit,3,Total,Cases,2024,HepatitisC
+ZONE:03,125,Total,Cases,2024,HepatitisC
+Chai Nat,23,Total,Cases,2024,HepatitisC
+Kamphaeng Phet,4,Total,Cases,2024,HepatitisC
+Nakhon Sawan,22,Total,Cases,2024,HepatitisC
+Phichit,69,Total,Cases,2024,HepatitisC
+Uthai Thani,7,Total,Cases,2024,HepatitisC
+ZONE:04,549,Total,Cases,2024,HepatitisC
+Ang Thong,15,Total,Cases,2024,HepatitisC
+Lop Buri,140,Total,Cases,2024,HepatitisC
 Nakhon Nayok,6,Total,Cases,2024,HepatitisC
-Nonthaburi,15,Total,Cases,2024,HepatitisC
-P.Nakhon S.Ayutthaya,117,Total,Cases,2024,HepatitisC
-Pathum Thani,158,Total,Cases,2024,HepatitisC
-Saraburi,9,Total,Cases,2024,HepatitisC
-Sing Buri,2,Total,Cases,2024,HepatitisC
-ZONE:05,56,Total,Cases,2024,HepatitisC
-Kanchanaburi,5,Total,Cases,2024,HepatitisC
-Nakhon Pathom,12,Total,Cases,2024,HepatitisC
-Phetchaburi,4,Total,Cases,2024,HepatitisC
+Nonthaburi,25,Total,Cases,2024,HepatitisC
+P.Nakhon S.Ayutthaya,131,Total,Cases,2024,HepatitisC
+Pathum Thani,217,Total,Cases,2024,HepatitisC
+Saraburi,11,Total,Cases,2024,HepatitisC
+Sing Buri,4,Total,Cases,2024,HepatitisC
+ZONE:05,93,Total,Cases,2024,HepatitisC
+Kanchanaburi,8,Total,Cases,2024,HepatitisC
+Nakhon Pathom,15,Total,Cases,2024,HepatitisC
+Phetchaburi,6,Total,Cases,2024,HepatitisC
 Prachuap Khiri Khan,9,Total,Cases,2024,HepatitisC
-Ratchaburi,13,Total,Cases,2024,HepatitisC
-Samut Sakhon,5,Total,Cases,2024,HepatitisC
-Samut Songkhram,8,Total,Cases,2024,HepatitisC
+Ratchaburi,17,Total,Cases,2024,HepatitisC
+Samut Sakhon,12,Total,Cases,2024,HepatitisC
+Samut Songkhram,26,Total,Cases,2024,HepatitisC
 Suphan Buri,0,Total,Cases,2024,HepatitisC
-ZONE:06,122,Total,Cases,2024,HepatitisC
+ZONE:06,217,Total,Cases,2024,HepatitisC
 Chachoengsao,3,Total,Cases,2024,HepatitisC
-Chanthaburi,3,Total,Cases,2024,HepatitisC
-Chon Buri,70,Total,Cases,2024,HepatitisC
-Prachin Buri,1,Total,Cases,2024,HepatitisC
-Rayong,6,Total,Cases,2024,HepatitisC
-Sa Kaeo,12,Total,Cases,2024,HepatitisC
-Samut Prakan,25,Total,Cases,2024,HepatitisC
-Trat,2,Total,Cases,2024,HepatitisC
-ZONE:07,78,Total,Cases,2024,HepatitisC
-Kalasin,46,Total,Cases,2024,HepatitisC
-Khon Kaen,14,Total,Cases,2024,HepatitisC
-Maha Sarakham,2,Total,Cases,2024,HepatitisC
-Roi Et,16,Total,Cases,2024,HepatitisC
-ZONE:08,311,Total,Cases,2024,HepatitisC
-Bungkan,10,Total,Cases,2024,HepatitisC
-Loei,48,Total,Cases,2024,HepatitisC
-Nakhon Phanom,17,Total,Cases,2024,HepatitisC
-Nong Bua Lam Phu,20,Total,Cases,2024,HepatitisC
-Nong Khai,12,Total,Cases,2024,HepatitisC
-Sakon Nakhon,2,Total,Cases,2024,HepatitisC
-Udon Thani,202,Total,Cases,2024,HepatitisC
-ZONE:09,93,Total,Cases,2024,HepatitisC
-Buri Ram,52,Total,Cases,2024,HepatitisC
-Chaiyaphum,12,Total,Cases,2024,HepatitisC
-Nakhon Ratchasima,20,Total,Cases,2024,HepatitisC
-Surin,9,Total,Cases,2024,HepatitisC
-ZONE:10,72,Total,Cases,2024,HepatitisC
-Amnat Charoen,5,Total,Cases,2024,HepatitisC
+Chanthaburi,4,Total,Cases,2024,HepatitisC
+Chon Buri,133,Total,Cases,2024,HepatitisC
+Prachin Buri,4,Total,Cases,2024,HepatitisC
+Rayong,24,Total,Cases,2024,HepatitisC
+Sa Kaeo,13,Total,Cases,2024,HepatitisC
+Samut Prakan,33,Total,Cases,2024,HepatitisC
+Trat,3,Total,Cases,2024,HepatitisC
+ZONE:07,130,Total,Cases,2024,HepatitisC
+Kalasin,84,Total,Cases,2024,HepatitisC
+Khon Kaen,20,Total,Cases,2024,HepatitisC
+Maha Sarakham,4,Total,Cases,2024,HepatitisC
+Roi Et,22,Total,Cases,2024,HepatitisC
+ZONE:08,538,Total,Cases,2024,HepatitisC
+Bungkan,15,Total,Cases,2024,HepatitisC
+Loei,80,Total,Cases,2024,HepatitisC
+Nakhon Phanom,21,Total,Cases,2024,HepatitisC
+Nong Bua Lam Phu,35,Total,Cases,2024,HepatitisC
+Nong Khai,14,Total,Cases,2024,HepatitisC
+Sakon Nakhon,7,Total,Cases,2024,HepatitisC
+Udon Thani,366,Total,Cases,2024,HepatitisC
+ZONE:09,192,Total,Cases,2024,HepatitisC
+Buri Ram,77,Total,Cases,2024,HepatitisC
+Chaiyaphum,30,Total,Cases,2024,HepatitisC
+Nakhon Ratchasima,66,Total,Cases,2024,HepatitisC
+Surin,19,Total,Cases,2024,HepatitisC
+ZONE:10,121,Total,Cases,2024,HepatitisC
+Amnat Charoen,9,Total,Cases,2024,HepatitisC
 Mukdahan,1,Total,Cases,2024,HepatitisC
-Si Sa Ket,9,Total,Cases,2024,HepatitisC
-Ubon Ratchathani,28,Total,Cases,2024,HepatitisC
-Yasothon,29,Total,Cases,2024,HepatitisC
-ZONE:11,55,Total,Cases,2024,HepatitisC
+Si Sa Ket,20,Total,Cases,2024,HepatitisC
+Ubon Ratchathani,49,Total,Cases,2024,HepatitisC
+Yasothon,42,Total,Cases,2024,HepatitisC
+ZONE:11,367,Total,Cases,2024,HepatitisC
 Chumphon,1,Total,Cases,2024,HepatitisC
-Krabi,7,Total,Cases,2024,HepatitisC
-Nakhon Si Thammarat,19,Total,Cases,2024,HepatitisC
-Phangnga,0,Total,Cases,2024,HepatitisC
-Phuket,2,Total,Cases,2024,HepatitisC
+Krabi,10,Total,Cases,2024,HepatitisC
+Nakhon Si Thammarat,31,Total,Cases,2024,HepatitisC
+Phangnga,12,Total,Cases,2024,HepatitisC
+Phuket,277,Total,Cases,2024,HepatitisC
 Ranong,0,Total,Cases,2024,HepatitisC
-Surat Thani,26,Total,Cases,2024,HepatitisC
-ZONE:12,61,Total,Cases,2024,HepatitisC
+Surat Thani,36,Total,Cases,2024,HepatitisC
+ZONE:12,77,Total,Cases,2024,HepatitisC
 Narathiwat,2,Total,Cases,2024,HepatitisC
-Pattani,4,Total,Cases,2024,HepatitisC
-Phatthalung,4,Total,Cases,2024,HepatitisC
-Satun,3,Total,Cases,2024,HepatitisC
-Songkhla,16,Total,Cases,2024,HepatitisC
-Trang,19,Total,Cases,2024,HepatitisC
-Yala,13,Total,Cases,2024,HepatitisC
-ZONE:13,26,Total,Cases,2024,HepatitisC
-Bangkok,26,Total,Cases,2024,HepatitisC
+Pattani,5,Total,Cases,2024,HepatitisC
+Phatthalung,5,Total,Cases,2024,HepatitisC
+Satun,5,Total,Cases,2024,HepatitisC
+Songkhla,26,Total,Cases,2024,HepatitisC
+Trang,20,Total,Cases,2024,HepatitisC
+Yala,14,Total,Cases,2024,HepatitisC
+ZONE:13,58,Total,Cases,2024,HepatitisC
+Bangkok,58,Total,Cases,2024,HepatitisC
 Total,0,Total,Deaths,2024,HepatitisC
 ZONE:01,0,Total,Deaths,2024,HepatitisC
 Chiang Mai,0,Total,Deaths,2024,HepatitisC
@@ -181,10 +181,10 @@ Trang,0,Total,Deaths,2024,HepatitisC
 Yala,0,Total,Deaths,2024,HepatitisC
 ZONE:13,0,Total,Deaths,2024,HepatitisC
 Bangkok,0,Total,Deaths,2024,HepatitisC
-Total,239,Jan,Cases,2024,HepatitisC
-ZONE:01,12,Jan,Cases,2024,HepatitisC
+Total,247,Jan,Cases,2024,HepatitisC
+ZONE:01,15,Jan,Cases,2024,HepatitisC
 Chiang Mai,2,Jan,Cases,2024,HepatitisC
-Chiang Rai,0,Jan,Cases,2024,HepatitisC
+Chiang Rai,3,Jan,Cases,2024,HepatitisC
 Lampang,3,Jan,Cases,2024,HepatitisC
 Lamphun,1,Jan,Cases,2024,HepatitisC
 Mae Hong Son,1,Jan,Cases,2024,HepatitisC
@@ -254,14 +254,14 @@ Mukdahan,0,Jan,Cases,2024,HepatitisC
 Si Sa Ket,2,Jan,Cases,2024,HepatitisC
 Ubon Ratchathani,3,Jan,Cases,2024,HepatitisC
 Yasothon,1,Jan,Cases,2024,HepatitisC
-ZONE:11,10,Jan,Cases,2024,HepatitisC
+ZONE:11,15,Jan,Cases,2024,HepatitisC
 Chumphon,0,Jan,Cases,2024,HepatitisC
 Krabi,1,Jan,Cases,2024,HepatitisC
 Nakhon Si Thammarat,4,Jan,Cases,2024,HepatitisC
 Phangnga,0,Jan,Cases,2024,HepatitisC
-Phuket,1,Jan,Cases,2024,HepatitisC
+Phuket,5,Jan,Cases,2024,HepatitisC
 Ranong,0,Jan,Cases,2024,HepatitisC
-Surat Thani,4,Jan,Cases,2024,HepatitisC
+Surat Thani,5,Jan,Cases,2024,HepatitisC
 ZONE:12,19,Jan,Cases,2024,HepatitisC
 Narathiwat,0,Jan,Cases,2024,HepatitisC
 Pattani,0,Jan,Cases,2024,HepatitisC
@@ -365,7 +365,7 @@ Trang,0,Jan,Deaths,2024,HepatitisC
 Yala,0,Jan,Deaths,2024,HepatitisC
 ZONE:13,0,Jan,Deaths,2024,HepatitisC
 Bangkok,0,Jan,Deaths,2024,HepatitisC
-Total,298,Feb,Cases,2024,HepatitisC
+Total,305,Feb,Cases,2024,HepatitisC
 ZONE:01,11,Feb,Cases,2024,HepatitisC
 Chiang Mai,1,Feb,Cases,2024,HepatitisC
 Chiang Rai,2,Feb,Cases,2024,HepatitisC
@@ -375,11 +375,11 @@ Mae Hong Son,1,Feb,Cases,2024,HepatitisC
 Nan,3,Feb,Cases,2024,HepatitisC
 Phayao,1,Feb,Cases,2024,HepatitisC
 Phrae,1,Feb,Cases,2024,HepatitisC
-ZONE:02,30,Feb,Cases,2024,HepatitisC
+ZONE:02,31,Feb,Cases,2024,HepatitisC
 Phetchabun,2,Feb,Cases,2024,HepatitisC
 Phitsanulok,2,Feb,Cases,2024,HepatitisC
 Sukhothai,1,Feb,Cases,2024,HepatitisC
-Tak,25,Feb,Cases,2024,HepatitisC
+Tak,26,Feb,Cases,2024,HepatitisC
 Uttaradit,0,Feb,Cases,2024,HepatitisC
 ZONE:03,6,Feb,Cases,2024,HepatitisC
 Chai Nat,5,Feb,Cases,2024,HepatitisC
@@ -427,10 +427,10 @@ Nong Bua Lam Phu,11,Feb,Cases,2024,HepatitisC
 Nong Khai,3,Feb,Cases,2024,HepatitisC
 Sakon Nakhon,0,Feb,Cases,2024,HepatitisC
 Udon Thani,57,Feb,Cases,2024,HepatitisC
-ZONE:09,18,Feb,Cases,2024,HepatitisC
+ZONE:09,17,Feb,Cases,2024,HepatitisC
 Buri Ram,10,Feb,Cases,2024,HepatitisC
 Chaiyaphum,1,Feb,Cases,2024,HepatitisC
-Nakhon Ratchasima,7,Feb,Cases,2024,HepatitisC
+Nakhon Ratchasima,6,Feb,Cases,2024,HepatitisC
 Surin,0,Feb,Cases,2024,HepatitisC
 ZONE:10,15,Feb,Cases,2024,HepatitisC
 Amnat Charoen,3,Feb,Cases,2024,HepatitisC
@@ -438,12 +438,12 @@ Mukdahan,0,Feb,Cases,2024,HepatitisC
 Si Sa Ket,0,Feb,Cases,2024,HepatitisC
 Ubon Ratchathani,7,Feb,Cases,2024,HepatitisC
 Yasothon,5,Feb,Cases,2024,HepatitisC
-ZONE:11,6,Feb,Cases,2024,HepatitisC
+ZONE:11,13,Feb,Cases,2024,HepatitisC
 Chumphon,0,Feb,Cases,2024,HepatitisC
 Krabi,0,Feb,Cases,2024,HepatitisC
 Nakhon Si Thammarat,0,Feb,Cases,2024,HepatitisC
 Phangnga,0,Feb,Cases,2024,HepatitisC
-Phuket,0,Feb,Cases,2024,HepatitisC
+Phuket,7,Feb,Cases,2024,HepatitisC
 Ranong,0,Feb,Cases,2024,HepatitisC
 Surat Thani,6,Feb,Cases,2024,HepatitisC
 ZONE:12,19,Feb,Cases,2024,HepatitisC
@@ -547,7 +547,7 @@ Trang,0,Feb,Deaths,2024,HepatitisC
 Yala,0,Feb,Deaths,2024,HepatitisC
 ZONE:13,0,Feb,Deaths,2024,HepatitisC
 Bangkok,0,Feb,Deaths,2024,HepatitisC
-Total,283,Mar,Cases,2024,HepatitisC
+Total,287,Mar,Cases,2024,HepatitisC
 ZONE:01,9,Mar,Cases,2024,HepatitisC
 Chiang Mai,3,Mar,Cases,2024,HepatitisC
 Chiang Rai,3,Mar,Cases,2024,HepatitisC
@@ -563,9 +563,9 @@ Phitsanulok,0,Mar,Cases,2024,HepatitisC
 Sukhothai,1,Mar,Cases,2024,HepatitisC
 Tak,8,Mar,Cases,2024,HepatitisC
 Uttaradit,0,Mar,Cases,2024,HepatitisC
-ZONE:03,9,Mar,Cases,2024,HepatitisC
+ZONE:03,10,Mar,Cases,2024,HepatitisC
 Chai Nat,6,Mar,Cases,2024,HepatitisC
-Kamphaeng Phet,0,Mar,Cases,2024,HepatitisC
+Kamphaeng Phet,1,Mar,Cases,2024,HepatitisC
 Nakhon Sawan,0,Mar,Cases,2024,HepatitisC
 Phichit,2,Mar,Cases,2024,HepatitisC
 Uthai Thani,1,Mar,Cases,2024,HepatitisC
@@ -620,12 +620,12 @@ Mukdahan,0,Mar,Cases,2024,HepatitisC
 Si Sa Ket,1,Mar,Cases,2024,HepatitisC
 Ubon Ratchathani,5,Mar,Cases,2024,HepatitisC
 Yasothon,8,Mar,Cases,2024,HepatitisC
-ZONE:11,11,Mar,Cases,2024,HepatitisC
+ZONE:11,14,Mar,Cases,2024,HepatitisC
 Chumphon,0,Mar,Cases,2024,HepatitisC
 Krabi,2,Mar,Cases,2024,HepatitisC
 Nakhon Si Thammarat,1,Mar,Cases,2024,HepatitisC
 Phangnga,0,Mar,Cases,2024,HepatitisC
-Phuket,0,Mar,Cases,2024,HepatitisC
+Phuket,3,Mar,Cases,2024,HepatitisC
 Ranong,0,Mar,Cases,2024,HepatitisC
 Surat Thani,8,Mar,Cases,2024,HepatitisC
 ZONE:12,5,Mar,Cases,2024,HepatitisC
@@ -729,7 +729,7 @@ Trang,0,Mar,Deaths,2024,HepatitisC
 Yala,0,Mar,Deaths,2024,HepatitisC
 ZONE:13,0,Mar,Deaths,2024,HepatitisC
 Bangkok,0,Mar,Deaths,2024,HepatitisC
-Total,193,Apr,Cases,2024,HepatitisC
+Total,203,Apr,Cases,2024,HepatitisC
 ZONE:01,9,Apr,Cases,2024,HepatitisC
 Chiang Mai,2,Apr,Cases,2024,HepatitisC
 Chiang Rai,1,Apr,Cases,2024,HepatitisC
@@ -791,10 +791,10 @@ Nong Bua Lam Phu,2,Apr,Cases,2024,HepatitisC
 Nong Khai,0,Apr,Cases,2024,HepatitisC
 Sakon Nakhon,0,Apr,Cases,2024,HepatitisC
 Udon Thani,17,Apr,Cases,2024,HepatitisC
-ZONE:09,11,Apr,Cases,2024,HepatitisC
-Buri Ram,6,Apr,Cases,2024,HepatitisC
+ZONE:09,13,Apr,Cases,2024,HepatitisC
+Buri Ram,7,Apr,Cases,2024,HepatitisC
 Chaiyaphum,0,Apr,Cases,2024,HepatitisC
-Nakhon Ratchasima,1,Apr,Cases,2024,HepatitisC
+Nakhon Ratchasima,2,Apr,Cases,2024,HepatitisC
 Surin,4,Apr,Cases,2024,HepatitisC
 ZONE:10,9,Apr,Cases,2024,HepatitisC
 Amnat Charoen,0,Apr,Cases,2024,HepatitisC
@@ -802,12 +802,12 @@ Mukdahan,0,Apr,Cases,2024,HepatitisC
 Si Sa Ket,1,Apr,Cases,2024,HepatitisC
 Ubon Ratchathani,1,Apr,Cases,2024,HepatitisC
 Yasothon,7,Apr,Cases,2024,HepatitisC
-ZONE:11,12,Apr,Cases,2024,HepatitisC
+ZONE:11,20,Apr,Cases,2024,HepatitisC
 Chumphon,0,Apr,Cases,2024,HepatitisC
 Krabi,1,Apr,Cases,2024,HepatitisC
 Nakhon Si Thammarat,5,Apr,Cases,2024,HepatitisC
-Phangnga,0,Apr,Cases,2024,HepatitisC
-Phuket,0,Apr,Cases,2024,HepatitisC
+Phangnga,1,Apr,Cases,2024,HepatitisC
+Phuket,7,Apr,Cases,2024,HepatitisC
 Ranong,0,Apr,Cases,2024,HepatitisC
 Surat Thani,6,Apr,Cases,2024,HepatitisC
 ZONE:12,5,Apr,Cases,2024,HepatitisC
@@ -911,7 +911,7 @@ Trang,0,Apr,Deaths,2024,HepatitisC
 Yala,0,Apr,Deaths,2024,HepatitisC
 ZONE:13,0,Apr,Deaths,2024,HepatitisC
 Bangkok,0,Apr,Deaths,2024,HepatitisC
-Total,272,May,Cases,2024,HepatitisC
+Total,304,May,Cases,2024,HepatitisC
 ZONE:01,6,May,Cases,2024,HepatitisC
 Chiang Mai,3,May,Cases,2024,HepatitisC
 Chiang Rai,0,May,Cases,2024,HepatitisC
@@ -927,10 +927,10 @@ Phitsanulok,0,May,Cases,2024,HepatitisC
 Sukhothai,3,May,Cases,2024,HepatitisC
 Tak,5,May,Cases,2024,HepatitisC
 Uttaradit,0,May,Cases,2024,HepatitisC
-ZONE:03,17,May,Cases,2024,HepatitisC
-Chai Nat,7,May,Cases,2024,HepatitisC
+ZONE:03,19,May,Cases,2024,HepatitisC
+Chai Nat,8,May,Cases,2024,HepatitisC
 Kamphaeng Phet,1,May,Cases,2024,HepatitisC
-Nakhon Sawan,1,May,Cases,2024,HepatitisC
+Nakhon Sawan,2,May,Cases,2024,HepatitisC
 Phichit,8,May,Cases,2024,HepatitisC
 Uthai Thani,0,May,Cases,2024,HepatitisC
 ZONE:04,56,May,Cases,2024,HepatitisC
@@ -965,18 +965,18 @@ Kalasin,11,May,Cases,2024,HepatitisC
 Khon Kaen,6,May,Cases,2024,HepatitisC
 Maha Sarakham,0,May,Cases,2024,HepatitisC
 Roi Et,1,May,Cases,2024,HepatitisC
-ZONE:08,74,May,Cases,2024,HepatitisC
-Bungkan,1,May,Cases,2024,HepatitisC
-Loei,10,May,Cases,2024,HepatitisC
+ZONE:08,95,May,Cases,2024,HepatitisC
+Bungkan,2,May,Cases,2024,HepatitisC
+Loei,11,May,Cases,2024,HepatitisC
 Nakhon Phanom,1,May,Cases,2024,HepatitisC
 Nong Bua Lam Phu,3,May,Cases,2024,HepatitisC
 Nong Khai,1,May,Cases,2024,HepatitisC
 Sakon Nakhon,1,May,Cases,2024,HepatitisC
-Udon Thani,57,May,Cases,2024,HepatitisC
-ZONE:09,26,May,Cases,2024,HepatitisC
+Udon Thani,76,May,Cases,2024,HepatitisC
+ZONE:09,25,May,Cases,2024,HepatitisC
 Buri Ram,17,May,Cases,2024,HepatitisC
 Chaiyaphum,1,May,Cases,2024,HepatitisC
-Nakhon Ratchasima,6,May,Cases,2024,HepatitisC
+Nakhon Ratchasima,5,May,Cases,2024,HepatitisC
 Surin,2,May,Cases,2024,HepatitisC
 ZONE:10,16,May,Cases,2024,HepatitisC
 Amnat Charoen,2,May,Cases,2024,HepatitisC
@@ -984,20 +984,20 @@ Mukdahan,1,May,Cases,2024,HepatitisC
 Si Sa Ket,1,May,Cases,2024,HepatitisC
 Ubon Ratchathani,7,May,Cases,2024,HepatitisC
 Yasothon,5,May,Cases,2024,HepatitisC
-ZONE:11,11,May,Cases,2024,HepatitisC
+ZONE:11,20,May,Cases,2024,HepatitisC
 Chumphon,1,May,Cases,2024,HepatitisC
 Krabi,1,May,Cases,2024,HepatitisC
 Nakhon Si Thammarat,7,May,Cases,2024,HepatitisC
-Phangnga,0,May,Cases,2024,HepatitisC
-Phuket,0,May,Cases,2024,HepatitisC
+Phangnga,1,May,Cases,2024,HepatitisC
+Phuket,8,May,Cases,2024,HepatitisC
 Ranong,0,May,Cases,2024,HepatitisC
 Surat Thani,2,May,Cases,2024,HepatitisC
-ZONE:12,7,May,Cases,2024,HepatitisC
+ZONE:12,8,May,Cases,2024,HepatitisC
 Narathiwat,0,May,Cases,2024,HepatitisC
 Pattani,0,May,Cases,2024,HepatitisC
 Phatthalung,2,May,Cases,2024,HepatitisC
 Satun,0,May,Cases,2024,HepatitisC
-Songkhla,2,May,Cases,2024,HepatitisC
+Songkhla,3,May,Cases,2024,HepatitisC
 Trang,0,May,Cases,2024,HepatitisC
 Yala,3,May,Cases,2024,HepatitisC
 ZONE:13,4,May,Cases,2024,HepatitisC
@@ -1093,45 +1093,45 @@ Trang,0,May,Deaths,2024,HepatitisC
 Yala,0,May,Deaths,2024,HepatitisC
 ZONE:13,0,May,Deaths,2024,HepatitisC
 Bangkok,0,May,Deaths,2024,HepatitisC
-Total,164,June,Cases,2024,HepatitisC
-ZONE:01,6,June,Cases,2024,HepatitisC
-Chiang Mai,6,June,Cases,2024,HepatitisC
-Chiang Rai,0,June,Cases,2024,HepatitisC
+Total,250,June,Cases,2024,HepatitisC
+ZONE:01,8,June,Cases,2024,HepatitisC
+Chiang Mai,7,June,Cases,2024,HepatitisC
+Chiang Rai,1,June,Cases,2024,HepatitisC
 Lampang,0,June,Cases,2024,HepatitisC
 Lamphun,0,June,Cases,2024,HepatitisC
 Mae Hong Son,0,June,Cases,2024,HepatitisC
 Nan,0,June,Cases,2024,HepatitisC
 Phayao,0,June,Cases,2024,HepatitisC
 Phrae,0,June,Cases,2024,HepatitisC
-ZONE:02,4,June,Cases,2024,HepatitisC
-Phetchabun,2,June,Cases,2024,HepatitisC
+ZONE:02,8,June,Cases,2024,HepatitisC
+Phetchabun,5,June,Cases,2024,HepatitisC
 Phitsanulok,0,June,Cases,2024,HepatitisC
 Sukhothai,0,June,Cases,2024,HepatitisC
-Tak,2,June,Cases,2024,HepatitisC
+Tak,3,June,Cases,2024,HepatitisC
 Uttaradit,0,June,Cases,2024,HepatitisC
-ZONE:03,13,June,Cases,2024,HepatitisC
+ZONE:03,16,June,Cases,2024,HepatitisC
 Chai Nat,1,June,Cases,2024,HepatitisC
-Kamphaeng Phet,0,June,Cases,2024,HepatitisC
-Nakhon Sawan,0,June,Cases,2024,HepatitisC
-Phichit,11,June,Cases,2024,HepatitisC
+Kamphaeng Phet,1,June,Cases,2024,HepatitisC
+Nakhon Sawan,1,June,Cases,2024,HepatitisC
+Phichit,12,June,Cases,2024,HepatitisC
 Uthai Thani,1,June,Cases,2024,HepatitisC
-ZONE:04,45,June,Cases,2024,HepatitisC
+ZONE:04,46,June,Cases,2024,HepatitisC
 Ang Thong,1,June,Cases,2024,HepatitisC
 Lop Buri,0,June,Cases,2024,HepatitisC
 Nakhon Nayok,0,June,Cases,2024,HepatitisC
 Nonthaburi,1,June,Cases,2024,HepatitisC
 P.Nakhon S.Ayutthaya,8,June,Cases,2024,HepatitisC
-Pathum Thani,34,June,Cases,2024,HepatitisC
+Pathum Thani,35,June,Cases,2024,HepatitisC
 Saraburi,0,June,Cases,2024,HepatitisC
 Sing Buri,1,June,Cases,2024,HepatitisC
-ZONE:05,8,June,Cases,2024,HepatitisC
+ZONE:05,11,June,Cases,2024,HepatitisC
 Kanchanaburi,0,June,Cases,2024,HepatitisC
 Nakhon Pathom,2,June,Cases,2024,HepatitisC
 Phetchaburi,1,June,Cases,2024,HepatitisC
 Prachuap Khiri Khan,1,June,Cases,2024,HepatitisC
 Ratchaburi,4,June,Cases,2024,HepatitisC
 Samut Sakhon,0,June,Cases,2024,HepatitisC
-Samut Songkhram,0,June,Cases,2024,HepatitisC
+Samut Songkhram,3,June,Cases,2024,HepatitisC
 Suphan Buri,0,June,Cases,2024,HepatitisC
 ZONE:06,19,June,Cases,2024,HepatitisC
 Chachoengsao,0,June,Cases,2024,HepatitisC
@@ -1142,23 +1142,23 @@ Rayong,0,June,Cases,2024,HepatitisC
 Sa Kaeo,0,June,Cases,2024,HepatitisC
 Samut Prakan,6,June,Cases,2024,HepatitisC
 Trat,0,June,Cases,2024,HepatitisC
-ZONE:07,15,June,Cases,2024,HepatitisC
+ZONE:07,17,June,Cases,2024,HepatitisC
 Kalasin,3,June,Cases,2024,HepatitisC
-Khon Kaen,3,June,Cases,2024,HepatitisC
+Khon Kaen,4,June,Cases,2024,HepatitisC
 Maha Sarakham,0,June,Cases,2024,HepatitisC
-Roi Et,9,June,Cases,2024,HepatitisC
-ZONE:08,9,June,Cases,2024,HepatitisC
+Roi Et,10,June,Cases,2024,HepatitisC
+ZONE:08,43,June,Cases,2024,HepatitisC
 Bungkan,2,June,Cases,2024,HepatitisC
-Loei,3,June,Cases,2024,HepatitisC
+Loei,5,June,Cases,2024,HepatitisC
 Nakhon Phanom,1,June,Cases,2024,HepatitisC
-Nong Bua Lam Phu,0,June,Cases,2024,HepatitisC
+Nong Bua Lam Phu,1,June,Cases,2024,HepatitisC
 Nong Khai,0,June,Cases,2024,HepatitisC
 Sakon Nakhon,0,June,Cases,2024,HepatitisC
-Udon Thani,3,June,Cases,2024,HepatitisC
-ZONE:09,14,June,Cases,2024,HepatitisC
+Udon Thani,34,June,Cases,2024,HepatitisC
+ZONE:09,18,June,Cases,2024,HepatitisC
 Buri Ram,5,June,Cases,2024,HepatitisC
 Chaiyaphum,6,June,Cases,2024,HepatitisC
-Nakhon Ratchasima,3,June,Cases,2024,HepatitisC
+Nakhon Ratchasima,7,June,Cases,2024,HepatitisC
 Surin,0,June,Cases,2024,HepatitisC
 ZONE:10,12,June,Cases,2024,HepatitisC
 Amnat Charoen,0,June,Cases,2024,HepatitisC
@@ -1166,12 +1166,12 @@ Mukdahan,0,June,Cases,2024,HepatitisC
 Si Sa Ket,4,June,Cases,2024,HepatitisC
 Ubon Ratchathani,5,June,Cases,2024,HepatitisC
 Yasothon,3,June,Cases,2024,HepatitisC
-ZONE:11,5,June,Cases,2024,HepatitisC
+ZONE:11,36,June,Cases,2024,HepatitisC
 Chumphon,0,June,Cases,2024,HepatitisC
 Krabi,2,June,Cases,2024,HepatitisC
-Nakhon Si Thammarat,2,June,Cases,2024,HepatitisC
-Phangnga,0,June,Cases,2024,HepatitisC
-Phuket,1,June,Cases,2024,HepatitisC
+Nakhon Si Thammarat,3,June,Cases,2024,HepatitisC
+Phangnga,3,June,Cases,2024,HepatitisC
+Phuket,28,June,Cases,2024,HepatitisC
 Ranong,0,June,Cases,2024,HepatitisC
 Surat Thani,0,June,Cases,2024,HepatitisC
 ZONE:12,6,June,Cases,2024,HepatitisC
@@ -1182,8 +1182,8 @@ Satun,2,June,Cases,2024,HepatitisC
 Songkhla,3,June,Cases,2024,HepatitisC
 Trang,0,June,Cases,2024,HepatitisC
 Yala,1,June,Cases,2024,HepatitisC
-ZONE:13,8,June,Cases,2024,HepatitisC
-Bangkok,8,June,Cases,2024,HepatitisC
+ZONE:13,10,June,Cases,2024,HepatitisC
+Bangkok,10,June,Cases,2024,HepatitisC
 Total,0,June,Deaths,2024,HepatitisC
 ZONE:01,0,June,Deaths,2024,HepatitisC
 Chiang Mai,0,June,Deaths,2024,HepatitisC
@@ -1275,97 +1275,97 @@ Trang,0,June,Deaths,2024,HepatitisC
 Yala,0,June,Deaths,2024,HepatitisC
 ZONE:13,0,June,Deaths,2024,HepatitisC
 Bangkok,0,June,Deaths,2024,HepatitisC
-Total,3,July,Cases,2024,HepatitisC
-ZONE:01,0,July,Cases,2024,HepatitisC
+Total,392,July,Cases,2024,HepatitisC
+ZONE:01,8,July,Cases,2024,HepatitisC
 Chiang Mai,0,July,Cases,2024,HepatitisC
-Chiang Rai,0,July,Cases,2024,HepatitisC
-Lampang,0,July,Cases,2024,HepatitisC
-Lamphun,0,July,Cases,2024,HepatitisC
-Mae Hong Son,0,July,Cases,2024,HepatitisC
+Chiang Rai,2,July,Cases,2024,HepatitisC
+Lampang,1,July,Cases,2024,HepatitisC
+Lamphun,2,July,Cases,2024,HepatitisC
+Mae Hong Son,1,July,Cases,2024,HepatitisC
 Nan,0,July,Cases,2024,HepatitisC
-Phayao,0,July,Cases,2024,HepatitisC
-Phrae,0,July,Cases,2024,HepatitisC
-ZONE:02,0,July,Cases,2024,HepatitisC
-Phetchabun,0,July,Cases,2024,HepatitisC
-Phitsanulok,0,July,Cases,2024,HepatitisC
-Sukhothai,0,July,Cases,2024,HepatitisC
-Tak,0,July,Cases,2024,HepatitisC
+Phayao,1,July,Cases,2024,HepatitisC
+Phrae,1,July,Cases,2024,HepatitisC
+ZONE:02,18,July,Cases,2024,HepatitisC
+Phetchabun,4,July,Cases,2024,HepatitisC
+Phitsanulok,1,July,Cases,2024,HepatitisC
+Sukhothai,1,July,Cases,2024,HepatitisC
+Tak,12,July,Cases,2024,HepatitisC
 Uttaradit,0,July,Cases,2024,HepatitisC
-ZONE:03,0,July,Cases,2024,HepatitisC
+ZONE:03,24,July,Cases,2024,HepatitisC
 Chai Nat,0,July,Cases,2024,HepatitisC
 Kamphaeng Phet,0,July,Cases,2024,HepatitisC
-Nakhon Sawan,0,July,Cases,2024,HepatitisC
-Phichit,0,July,Cases,2024,HepatitisC
-Uthai Thani,0,July,Cases,2024,HepatitisC
-ZONE:04,3,July,Cases,2024,HepatitisC
+Nakhon Sawan,3,July,Cases,2024,HepatitisC
+Phichit,20,July,Cases,2024,HepatitisC
+Uthai Thani,1,July,Cases,2024,HepatitisC
+ZONE:04,63,July,Cases,2024,HepatitisC
 Ang Thong,0,July,Cases,2024,HepatitisC
-Lop Buri,0,July,Cases,2024,HepatitisC
+Lop Buri,34,July,Cases,2024,HepatitisC
 Nakhon Nayok,0,July,Cases,2024,HepatitisC
-Nonthaburi,0,July,Cases,2024,HepatitisC
-P.Nakhon S.Ayutthaya,0,July,Cases,2024,HepatitisC
-Pathum Thani,3,July,Cases,2024,HepatitisC
+Nonthaburi,2,July,Cases,2024,HepatitisC
+P.Nakhon S.Ayutthaya,11,July,Cases,2024,HepatitisC
+Pathum Thani,15,July,Cases,2024,HepatitisC
 Saraburi,0,July,Cases,2024,HepatitisC
-Sing Buri,0,July,Cases,2024,HepatitisC
-ZONE:05,0,July,Cases,2024,HepatitisC
-Kanchanaburi,0,July,Cases,2024,HepatitisC
+Sing Buri,1,July,Cases,2024,HepatitisC
+ZONE:05,15,July,Cases,2024,HepatitisC
+Kanchanaburi,3,July,Cases,2024,HepatitisC
 Nakhon Pathom,0,July,Cases,2024,HepatitisC
-Phetchaburi,0,July,Cases,2024,HepatitisC
+Phetchaburi,2,July,Cases,2024,HepatitisC
 Prachuap Khiri Khan,0,July,Cases,2024,HepatitisC
-Ratchaburi,0,July,Cases,2024,HepatitisC
-Samut Sakhon,0,July,Cases,2024,HepatitisC
-Samut Songkhram,0,July,Cases,2024,HepatitisC
+Ratchaburi,3,July,Cases,2024,HepatitisC
+Samut Sakhon,2,July,Cases,2024,HepatitisC
+Samut Songkhram,5,July,Cases,2024,HepatitisC
 Suphan Buri,0,July,Cases,2024,HepatitisC
-ZONE:06,0,July,Cases,2024,HepatitisC
+ZONE:06,26,July,Cases,2024,HepatitisC
 Chachoengsao,0,July,Cases,2024,HepatitisC
-Chanthaburi,0,July,Cases,2024,HepatitisC
-Chon Buri,0,July,Cases,2024,HepatitisC
+Chanthaburi,1,July,Cases,2024,HepatitisC
+Chon Buri,17,July,Cases,2024,HepatitisC
 Prachin Buri,0,July,Cases,2024,HepatitisC
-Rayong,0,July,Cases,2024,HepatitisC
+Rayong,5,July,Cases,2024,HepatitisC
 Sa Kaeo,0,July,Cases,2024,HepatitisC
-Samut Prakan,0,July,Cases,2024,HepatitisC
-Trat,0,July,Cases,2024,HepatitisC
-ZONE:07,0,July,Cases,2024,HepatitisC
-Kalasin,0,July,Cases,2024,HepatitisC
-Khon Kaen,0,July,Cases,2024,HepatitisC
-Maha Sarakham,0,July,Cases,2024,HepatitisC
-Roi Et,0,July,Cases,2024,HepatitisC
-ZONE:08,0,July,Cases,2024,HepatitisC
-Bungkan,0,July,Cases,2024,HepatitisC
-Loei,0,July,Cases,2024,HepatitisC
-Nakhon Phanom,0,July,Cases,2024,HepatitisC
-Nong Bua Lam Phu,0,July,Cases,2024,HepatitisC
-Nong Khai,0,July,Cases,2024,HepatitisC
-Sakon Nakhon,0,July,Cases,2024,HepatitisC
-Udon Thani,0,July,Cases,2024,HepatitisC
-ZONE:09,0,July,Cases,2024,HepatitisC
-Buri Ram,0,July,Cases,2024,HepatitisC
-Chaiyaphum,0,July,Cases,2024,HepatitisC
-Nakhon Ratchasima,0,July,Cases,2024,HepatitisC
-Surin,0,July,Cases,2024,HepatitisC
-ZONE:10,0,July,Cases,2024,HepatitisC
-Amnat Charoen,0,July,Cases,2024,HepatitisC
+Samut Prakan,2,July,Cases,2024,HepatitisC
+Trat,1,July,Cases,2024,HepatitisC
+ZONE:07,27,July,Cases,2024,HepatitisC
+Kalasin,21,July,Cases,2024,HepatitisC
+Khon Kaen,1,July,Cases,2024,HepatitisC
+Maha Sarakham,1,July,Cases,2024,HepatitisC
+Roi Et,4,July,Cases,2024,HepatitisC
+ZONE:08,88,July,Cases,2024,HepatitisC
+Bungkan,2,July,Cases,2024,HepatitisC
+Loei,14,July,Cases,2024,HepatitisC
+Nakhon Phanom,1,July,Cases,2024,HepatitisC
+Nong Bua Lam Phu,6,July,Cases,2024,HepatitisC
+Nong Khai,1,July,Cases,2024,HepatitisC
+Sakon Nakhon,3,July,Cases,2024,HepatitisC
+Udon Thani,61,July,Cases,2024,HepatitisC
+ZONE:09,26,July,Cases,2024,HepatitisC
+Buri Ram,5,July,Cases,2024,HepatitisC
+Chaiyaphum,4,July,Cases,2024,HepatitisC
+Nakhon Ratchasima,15,July,Cases,2024,HepatitisC
+Surin,2,July,Cases,2024,HepatitisC
+ZONE:10,12,July,Cases,2024,HepatitisC
+Amnat Charoen,2,July,Cases,2024,HepatitisC
 Mukdahan,0,July,Cases,2024,HepatitisC
-Si Sa Ket,0,July,Cases,2024,HepatitisC
-Ubon Ratchathani,0,July,Cases,2024,HepatitisC
-Yasothon,0,July,Cases,2024,HepatitisC
-ZONE:11,0,July,Cases,2024,HepatitisC
+Si Sa Ket,2,July,Cases,2024,HepatitisC
+Ubon Ratchathani,5,July,Cases,2024,HepatitisC
+Yasothon,3,July,Cases,2024,HepatitisC
+ZONE:11,68,July,Cases,2024,HepatitisC
 Chumphon,0,July,Cases,2024,HepatitisC
-Krabi,0,July,Cases,2024,HepatitisC
-Nakhon Si Thammarat,0,July,Cases,2024,HepatitisC
-Phangnga,0,July,Cases,2024,HepatitisC
-Phuket,0,July,Cases,2024,HepatitisC
+Krabi,1,July,Cases,2024,HepatitisC
+Nakhon Si Thammarat,2,July,Cases,2024,HepatitisC
+Phangnga,1,July,Cases,2024,HepatitisC
+Phuket,61,July,Cases,2024,HepatitisC
 Ranong,0,July,Cases,2024,HepatitisC
-Surat Thani,0,July,Cases,2024,HepatitisC
-ZONE:12,0,July,Cases,2024,HepatitisC
+Surat Thani,3,July,Cases,2024,HepatitisC
+ZONE:12,4,July,Cases,2024,HepatitisC
 Narathiwat,0,July,Cases,2024,HepatitisC
-Pattani,0,July,Cases,2024,HepatitisC
+Pattani,1,July,Cases,2024,HepatitisC
 Phatthalung,0,July,Cases,2024,HepatitisC
-Satun,0,July,Cases,2024,HepatitisC
-Songkhla,0,July,Cases,2024,HepatitisC
+Satun,1,July,Cases,2024,HepatitisC
+Songkhla,2,July,Cases,2024,HepatitisC
 Trang,0,July,Cases,2024,HepatitisC
 Yala,0,July,Cases,2024,HepatitisC
-ZONE:13,0,July,Cases,2024,HepatitisC
-Bangkok,0,July,Cases,2024,HepatitisC
+ZONE:13,13,July,Cases,2024,HepatitisC
+Bangkok,13,July,Cases,2024,HepatitisC
 Total,0,July,Deaths,2024,HepatitisC
 ZONE:01,0,July,Deaths,2024,HepatitisC
 Chiang Mai,0,July,Deaths,2024,HepatitisC
@@ -1457,97 +1457,97 @@ Trang,0,July,Deaths,2024,HepatitisC
 Yala,0,July,Deaths,2024,HepatitisC
 ZONE:13,0,July,Deaths,2024,HepatitisC
 Bangkok,0,July,Deaths,2024,HepatitisC
-Total,0,Aug,Cases,2024,HepatitisC
-ZONE:01,0,Aug,Cases,2024,HepatitisC
-Chiang Mai,0,Aug,Cases,2024,HepatitisC
-Chiang Rai,0,Aug,Cases,2024,HepatitisC
+Total,331,Aug,Cases,2024,HepatitisC
+ZONE:01,6,Aug,Cases,2024,HepatitisC
+Chiang Mai,3,Aug,Cases,2024,HepatitisC
+Chiang Rai,2,Aug,Cases,2024,HepatitisC
 Lampang,0,Aug,Cases,2024,HepatitisC
 Lamphun,0,Aug,Cases,2024,HepatitisC
 Mae Hong Son,0,Aug,Cases,2024,HepatitisC
 Nan,0,Aug,Cases,2024,HepatitisC
 Phayao,0,Aug,Cases,2024,HepatitisC
-Phrae,0,Aug,Cases,2024,HepatitisC
-ZONE:02,0,Aug,Cases,2024,HepatitisC
-Phetchabun,0,Aug,Cases,2024,HepatitisC
+Phrae,1,Aug,Cases,2024,HepatitisC
+ZONE:02,10,Aug,Cases,2024,HepatitisC
+Phetchabun,4,Aug,Cases,2024,HepatitisC
 Phitsanulok,0,Aug,Cases,2024,HepatitisC
-Sukhothai,0,Aug,Cases,2024,HepatitisC
-Tak,0,Aug,Cases,2024,HepatitisC
-Uttaradit,0,Aug,Cases,2024,HepatitisC
-ZONE:03,0,Aug,Cases,2024,HepatitisC
-Chai Nat,0,Aug,Cases,2024,HepatitisC
+Sukhothai,2,Aug,Cases,2024,HepatitisC
+Tak,3,Aug,Cases,2024,HepatitisC
+Uttaradit,1,Aug,Cases,2024,HepatitisC
+ZONE:03,19,Aug,Cases,2024,HepatitisC
+Chai Nat,1,Aug,Cases,2024,HepatitisC
 Kamphaeng Phet,0,Aug,Cases,2024,HepatitisC
-Nakhon Sawan,0,Aug,Cases,2024,HepatitisC
-Phichit,0,Aug,Cases,2024,HepatitisC
+Nakhon Sawan,4,Aug,Cases,2024,HepatitisC
+Phichit,14,Aug,Cases,2024,HepatitisC
 Uthai Thani,0,Aug,Cases,2024,HepatitisC
-ZONE:04,0,Aug,Cases,2024,HepatitisC
-Ang Thong,0,Aug,Cases,2024,HepatitisC
-Lop Buri,0,Aug,Cases,2024,HepatitisC
+ZONE:04,65,Aug,Cases,2024,HepatitisC
+Ang Thong,1,Aug,Cases,2024,HepatitisC
+Lop Buri,43,Aug,Cases,2024,HepatitisC
 Nakhon Nayok,0,Aug,Cases,2024,HepatitisC
-Nonthaburi,0,Aug,Cases,2024,HepatitisC
-P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,HepatitisC
-Pathum Thani,0,Aug,Cases,2024,HepatitisC
+Nonthaburi,3,Aug,Cases,2024,HepatitisC
+P.Nakhon S.Ayutthaya,1,Aug,Cases,2024,HepatitisC
+Pathum Thani,17,Aug,Cases,2024,HepatitisC
 Saraburi,0,Aug,Cases,2024,HepatitisC
 Sing Buri,0,Aug,Cases,2024,HepatitisC
-ZONE:05,0,Aug,Cases,2024,HepatitisC
+ZONE:05,8,Aug,Cases,2024,HepatitisC
 Kanchanaburi,0,Aug,Cases,2024,HepatitisC
-Nakhon Pathom,0,Aug,Cases,2024,HepatitisC
+Nakhon Pathom,2,Aug,Cases,2024,HepatitisC
 Phetchaburi,0,Aug,Cases,2024,HepatitisC
 Prachuap Khiri Khan,0,Aug,Cases,2024,HepatitisC
 Ratchaburi,0,Aug,Cases,2024,HepatitisC
-Samut Sakhon,0,Aug,Cases,2024,HepatitisC
-Samut Songkhram,0,Aug,Cases,2024,HepatitisC
+Samut Sakhon,3,Aug,Cases,2024,HepatitisC
+Samut Songkhram,3,Aug,Cases,2024,HepatitisC
 Suphan Buri,0,Aug,Cases,2024,HepatitisC
-ZONE:06,0,Aug,Cases,2024,HepatitisC
+ZONE:06,33,Aug,Cases,2024,HepatitisC
 Chachoengsao,0,Aug,Cases,2024,HepatitisC
 Chanthaburi,0,Aug,Cases,2024,HepatitisC
-Chon Buri,0,Aug,Cases,2024,HepatitisC
-Prachin Buri,0,Aug,Cases,2024,HepatitisC
-Rayong,0,Aug,Cases,2024,HepatitisC
+Chon Buri,19,Aug,Cases,2024,HepatitisC
+Prachin Buri,2,Aug,Cases,2024,HepatitisC
+Rayong,8,Aug,Cases,2024,HepatitisC
 Sa Kaeo,0,Aug,Cases,2024,HepatitisC
-Samut Prakan,0,Aug,Cases,2024,HepatitisC
+Samut Prakan,4,Aug,Cases,2024,HepatitisC
 Trat,0,Aug,Cases,2024,HepatitisC
-ZONE:07,0,Aug,Cases,2024,HepatitisC
-Kalasin,0,Aug,Cases,2024,HepatitisC
-Khon Kaen,0,Aug,Cases,2024,HepatitisC
-Maha Sarakham,0,Aug,Cases,2024,HepatitisC
-Roi Et,0,Aug,Cases,2024,HepatitisC
-ZONE:08,0,Aug,Cases,2024,HepatitisC
-Bungkan,0,Aug,Cases,2024,HepatitisC
-Loei,0,Aug,Cases,2024,HepatitisC
+ZONE:07,9,Aug,Cases,2024,HepatitisC
+Kalasin,6,Aug,Cases,2024,HepatitisC
+Khon Kaen,1,Aug,Cases,2024,HepatitisC
+Maha Sarakham,1,Aug,Cases,2024,HepatitisC
+Roi Et,1,Aug,Cases,2024,HepatitisC
+ZONE:08,39,Aug,Cases,2024,HepatitisC
+Bungkan,1,Aug,Cases,2024,HepatitisC
+Loei,6,Aug,Cases,2024,HepatitisC
 Nakhon Phanom,0,Aug,Cases,2024,HepatitisC
-Nong Bua Lam Phu,0,Aug,Cases,2024,HepatitisC
-Nong Khai,0,Aug,Cases,2024,HepatitisC
-Sakon Nakhon,0,Aug,Cases,2024,HepatitisC
-Udon Thani,0,Aug,Cases,2024,HepatitisC
-ZONE:09,0,Aug,Cases,2024,HepatitisC
-Buri Ram,0,Aug,Cases,2024,HepatitisC
-Chaiyaphum,0,Aug,Cases,2024,HepatitisC
-Nakhon Ratchasima,0,Aug,Cases,2024,HepatitisC
+Nong Bua Lam Phu,1,Aug,Cases,2024,HepatitisC
+Nong Khai,1,Aug,Cases,2024,HepatitisC
+Sakon Nakhon,1,Aug,Cases,2024,HepatitisC
+Udon Thani,29,Aug,Cases,2024,HepatitisC
+ZONE:09,30,Aug,Cases,2024,HepatitisC
+Buri Ram,2,Aug,Cases,2024,HepatitisC
+Chaiyaphum,8,Aug,Cases,2024,HepatitisC
+Nakhon Ratchasima,20,Aug,Cases,2024,HepatitisC
 Surin,0,Aug,Cases,2024,HepatitisC
-ZONE:10,0,Aug,Cases,2024,HepatitisC
-Amnat Charoen,0,Aug,Cases,2024,HepatitisC
+ZONE:10,19,Aug,Cases,2024,HepatitisC
+Amnat Charoen,1,Aug,Cases,2024,HepatitisC
 Mukdahan,0,Aug,Cases,2024,HepatitisC
-Si Sa Ket,0,Aug,Cases,2024,HepatitisC
-Ubon Ratchathani,0,Aug,Cases,2024,HepatitisC
-Yasothon,0,Aug,Cases,2024,HepatitisC
-ZONE:11,0,Aug,Cases,2024,HepatitisC
+Si Sa Ket,3,Aug,Cases,2024,HepatitisC
+Ubon Ratchathani,8,Aug,Cases,2024,HepatitisC
+Yasothon,7,Aug,Cases,2024,HepatitisC
+ZONE:11,78,Aug,Cases,2024,HepatitisC
 Chumphon,0,Aug,Cases,2024,HepatitisC
-Krabi,0,Aug,Cases,2024,HepatitisC
-Nakhon Si Thammarat,0,Aug,Cases,2024,HepatitisC
-Phangnga,0,Aug,Cases,2024,HepatitisC
-Phuket,0,Aug,Cases,2024,HepatitisC
+Krabi,1,Aug,Cases,2024,HepatitisC
+Nakhon Si Thammarat,4,Aug,Cases,2024,HepatitisC
+Phangnga,1,Aug,Cases,2024,HepatitisC
+Phuket,70,Aug,Cases,2024,HepatitisC
 Ranong,0,Aug,Cases,2024,HepatitisC
-Surat Thani,0,Aug,Cases,2024,HepatitisC
-ZONE:12,0,Aug,Cases,2024,HepatitisC
+Surat Thani,2,Aug,Cases,2024,HepatitisC
+ZONE:12,6,Aug,Cases,2024,HepatitisC
 Narathiwat,0,Aug,Cases,2024,HepatitisC
 Pattani,0,Aug,Cases,2024,HepatitisC
-Phatthalung,0,Aug,Cases,2024,HepatitisC
-Satun,0,Aug,Cases,2024,HepatitisC
-Songkhla,0,Aug,Cases,2024,HepatitisC
+Phatthalung,1,Aug,Cases,2024,HepatitisC
+Satun,1,Aug,Cases,2024,HepatitisC
+Songkhla,3,Aug,Cases,2024,HepatitisC
 Trang,0,Aug,Cases,2024,HepatitisC
-Yala,0,Aug,Cases,2024,HepatitisC
-ZONE:13,0,Aug,Cases,2024,HepatitisC
-Bangkok,0,Aug,Cases,2024,HepatitisC
+Yala,1,Aug,Cases,2024,HepatitisC
+ZONE:13,9,Aug,Cases,2024,HepatitisC
+Bangkok,9,Aug,Cases,2024,HepatitisC
 Total,0,Aug,Deaths,2024,HepatitisC
 ZONE:01,0,Aug,Deaths,2024,HepatitisC
 Chiang Mai,0,Aug,Deaths,2024,HepatitisC
@@ -1639,97 +1639,97 @@ Trang,0,Aug,Deaths,2024,HepatitisC
 Yala,0,Aug,Deaths,2024,HepatitisC
 ZONE:13,0,Aug,Deaths,2024,HepatitisC
 Bangkok,0,Aug,Deaths,2024,HepatitisC
-Total,0,Sept,Cases,2024,HepatitisC
-ZONE:01,0,Sept,Cases,2024,HepatitisC
-Chiang Mai,0,Sept,Cases,2024,HepatitisC
+Total,218,Sept,Cases,2024,HepatitisC
+ZONE:01,5,Sept,Cases,2024,HepatitisC
+Chiang Mai,1,Sept,Cases,2024,HepatitisC
 Chiang Rai,0,Sept,Cases,2024,HepatitisC
-Lampang,0,Sept,Cases,2024,HepatitisC
-Lamphun,0,Sept,Cases,2024,HepatitisC
-Mae Hong Son,0,Sept,Cases,2024,HepatitisC
+Lampang,1,Sept,Cases,2024,HepatitisC
+Lamphun,1,Sept,Cases,2024,HepatitisC
+Mae Hong Son,1,Sept,Cases,2024,HepatitisC
 Nan,0,Sept,Cases,2024,HepatitisC
 Phayao,0,Sept,Cases,2024,HepatitisC
-Phrae,0,Sept,Cases,2024,HepatitisC
-ZONE:02,0,Sept,Cases,2024,HepatitisC
-Phetchabun,0,Sept,Cases,2024,HepatitisC
+Phrae,1,Sept,Cases,2024,HepatitisC
+ZONE:02,24,Sept,Cases,2024,HepatitisC
+Phetchabun,6,Sept,Cases,2024,HepatitisC
 Phitsanulok,0,Sept,Cases,2024,HepatitisC
 Sukhothai,0,Sept,Cases,2024,HepatitisC
-Tak,0,Sept,Cases,2024,HepatitisC
-Uttaradit,0,Sept,Cases,2024,HepatitisC
-ZONE:03,0,Sept,Cases,2024,HepatitisC
+Tak,16,Sept,Cases,2024,HepatitisC
+Uttaradit,2,Sept,Cases,2024,HepatitisC
+ZONE:03,3,Sept,Cases,2024,HepatitisC
 Chai Nat,0,Sept,Cases,2024,HepatitisC
-Kamphaeng Phet,0,Sept,Cases,2024,HepatitisC
+Kamphaeng Phet,1,Sept,Cases,2024,HepatitisC
 Nakhon Sawan,0,Sept,Cases,2024,HepatitisC
-Phichit,0,Sept,Cases,2024,HepatitisC
-Uthai Thani,0,Sept,Cases,2024,HepatitisC
-ZONE:04,0,Sept,Cases,2024,HepatitisC
+Phichit,1,Sept,Cases,2024,HepatitisC
+Uthai Thani,1,Sept,Cases,2024,HepatitisC
+ZONE:04,34,Sept,Cases,2024,HepatitisC
 Ang Thong,0,Sept,Cases,2024,HepatitisC
-Lop Buri,0,Sept,Cases,2024,HepatitisC
+Lop Buri,9,Sept,Cases,2024,HepatitisC
 Nakhon Nayok,0,Sept,Cases,2024,HepatitisC
-Nonthaburi,0,Sept,Cases,2024,HepatitisC
-P.Nakhon S.Ayutthaya,0,Sept,Cases,2024,HepatitisC
-Pathum Thani,0,Sept,Cases,2024,HepatitisC
-Saraburi,0,Sept,Cases,2024,HepatitisC
+Nonthaburi,3,Sept,Cases,2024,HepatitisC
+P.Nakhon S.Ayutthaya,1,Sept,Cases,2024,HepatitisC
+Pathum Thani,19,Sept,Cases,2024,HepatitisC
+Saraburi,2,Sept,Cases,2024,HepatitisC
 Sing Buri,0,Sept,Cases,2024,HepatitisC
-ZONE:05,0,Sept,Cases,2024,HepatitisC
+ZONE:05,9,Sept,Cases,2024,HepatitisC
 Kanchanaburi,0,Sept,Cases,2024,HepatitisC
-Nakhon Pathom,0,Sept,Cases,2024,HepatitisC
+Nakhon Pathom,1,Sept,Cases,2024,HepatitisC
 Phetchaburi,0,Sept,Cases,2024,HepatitisC
 Prachuap Khiri Khan,0,Sept,Cases,2024,HepatitisC
-Ratchaburi,0,Sept,Cases,2024,HepatitisC
+Ratchaburi,1,Sept,Cases,2024,HepatitisC
 Samut Sakhon,0,Sept,Cases,2024,HepatitisC
-Samut Songkhram,0,Sept,Cases,2024,HepatitisC
+Samut Songkhram,7,Sept,Cases,2024,HepatitisC
 Suphan Buri,0,Sept,Cases,2024,HepatitisC
-ZONE:06,0,Sept,Cases,2024,HepatitisC
+ZONE:06,13,Sept,Cases,2024,HepatitisC
 Chachoengsao,0,Sept,Cases,2024,HepatitisC
 Chanthaburi,0,Sept,Cases,2024,HepatitisC
-Chon Buri,0,Sept,Cases,2024,HepatitisC
-Prachin Buri,0,Sept,Cases,2024,HepatitisC
-Rayong,0,Sept,Cases,2024,HepatitisC
+Chon Buri,10,Sept,Cases,2024,HepatitisC
+Prachin Buri,1,Sept,Cases,2024,HepatitisC
+Rayong,1,Sept,Cases,2024,HepatitisC
 Sa Kaeo,0,Sept,Cases,2024,HepatitisC
-Samut Prakan,0,Sept,Cases,2024,HepatitisC
+Samut Prakan,1,Sept,Cases,2024,HepatitisC
 Trat,0,Sept,Cases,2024,HepatitisC
-ZONE:07,0,Sept,Cases,2024,HepatitisC
-Kalasin,0,Sept,Cases,2024,HepatitisC
-Khon Kaen,0,Sept,Cases,2024,HepatitisC
+ZONE:07,7,Sept,Cases,2024,HepatitisC
+Kalasin,5,Sept,Cases,2024,HepatitisC
+Khon Kaen,2,Sept,Cases,2024,HepatitisC
 Maha Sarakham,0,Sept,Cases,2024,HepatitisC
 Roi Et,0,Sept,Cases,2024,HepatitisC
-ZONE:08,0,Sept,Cases,2024,HepatitisC
+ZONE:08,15,Sept,Cases,2024,HepatitisC
 Bungkan,0,Sept,Cases,2024,HepatitisC
-Loei,0,Sept,Cases,2024,HepatitisC
-Nakhon Phanom,0,Sept,Cases,2024,HepatitisC
-Nong Bua Lam Phu,0,Sept,Cases,2024,HepatitisC
+Loei,5,Sept,Cases,2024,HepatitisC
+Nakhon Phanom,2,Sept,Cases,2024,HepatitisC
+Nong Bua Lam Phu,3,Sept,Cases,2024,HepatitisC
 Nong Khai,0,Sept,Cases,2024,HepatitisC
 Sakon Nakhon,0,Sept,Cases,2024,HepatitisC
-Udon Thani,0,Sept,Cases,2024,HepatitisC
-ZONE:09,0,Sept,Cases,2024,HepatitisC
-Buri Ram,0,Sept,Cases,2024,HepatitisC
-Chaiyaphum,0,Sept,Cases,2024,HepatitisC
-Nakhon Ratchasima,0,Sept,Cases,2024,HepatitisC
+Udon Thani,5,Sept,Cases,2024,HepatitisC
+ZONE:09,18,Sept,Cases,2024,HepatitisC
+Buri Ram,6,Sept,Cases,2024,HepatitisC
+Chaiyaphum,6,Sept,Cases,2024,HepatitisC
+Nakhon Ratchasima,6,Sept,Cases,2024,HepatitisC
 Surin,0,Sept,Cases,2024,HepatitisC
-ZONE:10,0,Sept,Cases,2024,HepatitisC
+ZONE:10,6,Sept,Cases,2024,HepatitisC
 Amnat Charoen,0,Sept,Cases,2024,HepatitisC
 Mukdahan,0,Sept,Cases,2024,HepatitisC
-Si Sa Ket,0,Sept,Cases,2024,HepatitisC
-Ubon Ratchathani,0,Sept,Cases,2024,HepatitisC
-Yasothon,0,Sept,Cases,2024,HepatitisC
-ZONE:11,0,Sept,Cases,2024,HepatitisC
+Si Sa Ket,3,Sept,Cases,2024,HepatitisC
+Ubon Ratchathani,2,Sept,Cases,2024,HepatitisC
+Yasothon,1,Sept,Cases,2024,HepatitisC
+ZONE:11,74,Sept,Cases,2024,HepatitisC
 Chumphon,0,Sept,Cases,2024,HepatitisC
-Krabi,0,Sept,Cases,2024,HepatitisC
-Nakhon Si Thammarat,0,Sept,Cases,2024,HepatitisC
-Phangnga,0,Sept,Cases,2024,HepatitisC
-Phuket,0,Sept,Cases,2024,HepatitisC
+Krabi,1,Sept,Cases,2024,HepatitisC
+Nakhon Si Thammarat,3,Sept,Cases,2024,HepatitisC
+Phangnga,3,Sept,Cases,2024,HepatitisC
+Phuket,66,Sept,Cases,2024,HepatitisC
 Ranong,0,Sept,Cases,2024,HepatitisC
-Surat Thani,0,Sept,Cases,2024,HepatitisC
-ZONE:12,0,Sept,Cases,2024,HepatitisC
+Surat Thani,1,Sept,Cases,2024,HepatitisC
+ZONE:12,5,Sept,Cases,2024,HepatitisC
 Narathiwat,0,Sept,Cases,2024,HepatitisC
 Pattani,0,Sept,Cases,2024,HepatitisC
 Phatthalung,0,Sept,Cases,2024,HepatitisC
 Satun,0,Sept,Cases,2024,HepatitisC
-Songkhla,0,Sept,Cases,2024,HepatitisC
-Trang,0,Sept,Cases,2024,HepatitisC
+Songkhla,4,Sept,Cases,2024,HepatitisC
+Trang,1,Sept,Cases,2024,HepatitisC
 Yala,0,Sept,Cases,2024,HepatitisC
-ZONE:13,0,Sept,Cases,2024,HepatitisC
-Bangkok,0,Sept,Cases,2024,HepatitisC
+ZONE:13,5,Sept,Cases,2024,HepatitisC
+Bangkok,5,Sept,Cases,2024,HepatitisC
 Total,0,Sept,Deaths,2024,HepatitisC
 ZONE:01,0,Sept,Deaths,2024,HepatitisC
 Chiang Mai,0,Sept,Deaths,2024,HepatitisC
@@ -1821,87 +1821,87 @@ Trang,0,Sept,Deaths,2024,HepatitisC
 Yala,0,Sept,Deaths,2024,HepatitisC
 ZONE:13,0,Sept,Deaths,2024,HepatitisC
 Bangkok,0,Sept,Deaths,2024,HepatitisC
-Total,0,Oct,Cases,2024,HepatitisC
-ZONE:01,0,Oct,Cases,2024,HepatitisC
+Total,173,Oct,Cases,2024,HepatitisC
+ZONE:01,4,Oct,Cases,2024,HepatitisC
 Chiang Mai,0,Oct,Cases,2024,HepatitisC
-Chiang Rai,0,Oct,Cases,2024,HepatitisC
+Chiang Rai,2,Oct,Cases,2024,HepatitisC
 Lampang,0,Oct,Cases,2024,HepatitisC
-Lamphun,0,Oct,Cases,2024,HepatitisC
+Lamphun,1,Oct,Cases,2024,HepatitisC
 Mae Hong Son,0,Oct,Cases,2024,HepatitisC
 Nan,0,Oct,Cases,2024,HepatitisC
-Phayao,0,Oct,Cases,2024,HepatitisC
+Phayao,1,Oct,Cases,2024,HepatitisC
 Phrae,0,Oct,Cases,2024,HepatitisC
-ZONE:02,0,Oct,Cases,2024,HepatitisC
-Phetchabun,0,Oct,Cases,2024,HepatitisC
-Phitsanulok,0,Oct,Cases,2024,HepatitisC
-Sukhothai,0,Oct,Cases,2024,HepatitisC
-Tak,0,Oct,Cases,2024,HepatitisC
+ZONE:02,21,Oct,Cases,2024,HepatitisC
+Phetchabun,3,Oct,Cases,2024,HepatitisC
+Phitsanulok,1,Oct,Cases,2024,HepatitisC
+Sukhothai,1,Oct,Cases,2024,HepatitisC
+Tak,16,Oct,Cases,2024,HepatitisC
 Uttaradit,0,Oct,Cases,2024,HepatitisC
-ZONE:03,0,Oct,Cases,2024,HepatitisC
+ZONE:03,2,Oct,Cases,2024,HepatitisC
 Chai Nat,0,Oct,Cases,2024,HepatitisC
 Kamphaeng Phet,0,Oct,Cases,2024,HepatitisC
 Nakhon Sawan,0,Oct,Cases,2024,HepatitisC
-Phichit,0,Oct,Cases,2024,HepatitisC
+Phichit,2,Oct,Cases,2024,HepatitisC
 Uthai Thani,0,Oct,Cases,2024,HepatitisC
-ZONE:04,0,Oct,Cases,2024,HepatitisC
+ZONE:04,19,Oct,Cases,2024,HepatitisC
 Ang Thong,0,Oct,Cases,2024,HepatitisC
-Lop Buri,0,Oct,Cases,2024,HepatitisC
+Lop Buri,5,Oct,Cases,2024,HepatitisC
 Nakhon Nayok,0,Oct,Cases,2024,HepatitisC
-Nonthaburi,0,Oct,Cases,2024,HepatitisC
-P.Nakhon S.Ayutthaya,0,Oct,Cases,2024,HepatitisC
-Pathum Thani,0,Oct,Cases,2024,HepatitisC
+Nonthaburi,2,Oct,Cases,2024,HepatitisC
+P.Nakhon S.Ayutthaya,1,Oct,Cases,2024,HepatitisC
+Pathum Thani,10,Oct,Cases,2024,HepatitisC
 Saraburi,0,Oct,Cases,2024,HepatitisC
-Sing Buri,0,Oct,Cases,2024,HepatitisC
-ZONE:05,0,Oct,Cases,2024,HepatitisC
+Sing Buri,1,Oct,Cases,2024,HepatitisC
+ZONE:05,2,Oct,Cases,2024,HepatitisC
 Kanchanaburi,0,Oct,Cases,2024,HepatitisC
 Nakhon Pathom,0,Oct,Cases,2024,HepatitisC
 Phetchaburi,0,Oct,Cases,2024,HepatitisC
 Prachuap Khiri Khan,0,Oct,Cases,2024,HepatitisC
 Ratchaburi,0,Oct,Cases,2024,HepatitisC
-Samut Sakhon,0,Oct,Cases,2024,HepatitisC
+Samut Sakhon,2,Oct,Cases,2024,HepatitisC
 Samut Songkhram,0,Oct,Cases,2024,HepatitisC
 Suphan Buri,0,Oct,Cases,2024,HepatitisC
-ZONE:06,0,Oct,Cases,2024,HepatitisC
+ZONE:06,23,Oct,Cases,2024,HepatitisC
 Chachoengsao,0,Oct,Cases,2024,HepatitisC
 Chanthaburi,0,Oct,Cases,2024,HepatitisC
-Chon Buri,0,Oct,Cases,2024,HepatitisC
+Chon Buri,17,Oct,Cases,2024,HepatitisC
 Prachin Buri,0,Oct,Cases,2024,HepatitisC
-Rayong,0,Oct,Cases,2024,HepatitisC
-Sa Kaeo,0,Oct,Cases,2024,HepatitisC
-Samut Prakan,0,Oct,Cases,2024,HepatitisC
+Rayong,4,Oct,Cases,2024,HepatitisC
+Sa Kaeo,1,Oct,Cases,2024,HepatitisC
+Samut Prakan,1,Oct,Cases,2024,HepatitisC
 Trat,0,Oct,Cases,2024,HepatitisC
-ZONE:07,0,Oct,Cases,2024,HepatitisC
-Kalasin,0,Oct,Cases,2024,HepatitisC
-Khon Kaen,0,Oct,Cases,2024,HepatitisC
+ZONE:07,7,Oct,Cases,2024,HepatitisC
+Kalasin,6,Oct,Cases,2024,HepatitisC
+Khon Kaen,1,Oct,Cases,2024,HepatitisC
 Maha Sarakham,0,Oct,Cases,2024,HepatitisC
 Roi Et,0,Oct,Cases,2024,HepatitisC
-ZONE:08,0,Oct,Cases,2024,HepatitisC
-Bungkan,0,Oct,Cases,2024,HepatitisC
-Loei,0,Oct,Cases,2024,HepatitisC
-Nakhon Phanom,0,Oct,Cases,2024,HepatitisC
-Nong Bua Lam Phu,0,Oct,Cases,2024,HepatitisC
+ZONE:08,30,Oct,Cases,2024,HepatitisC
+Bungkan,1,Oct,Cases,2024,HepatitisC
+Loei,4,Oct,Cases,2024,HepatitisC
+Nakhon Phanom,1,Oct,Cases,2024,HepatitisC
+Nong Bua Lam Phu,4,Oct,Cases,2024,HepatitisC
 Nong Khai,0,Oct,Cases,2024,HepatitisC
-Sakon Nakhon,0,Oct,Cases,2024,HepatitisC
-Udon Thani,0,Oct,Cases,2024,HepatitisC
-ZONE:09,0,Oct,Cases,2024,HepatitisC
-Buri Ram,0,Oct,Cases,2024,HepatitisC
+Sakon Nakhon,1,Oct,Cases,2024,HepatitisC
+Udon Thani,19,Oct,Cases,2024,HepatitisC
+ZONE:09,21,Oct,Cases,2024,HepatitisC
+Buri Ram,11,Oct,Cases,2024,HepatitisC
 Chaiyaphum,0,Oct,Cases,2024,HepatitisC
-Nakhon Ratchasima,0,Oct,Cases,2024,HepatitisC
-Surin,0,Oct,Cases,2024,HepatitisC
-ZONE:10,0,Oct,Cases,2024,HepatitisC
-Amnat Charoen,0,Oct,Cases,2024,HepatitisC
+Nakhon Ratchasima,2,Oct,Cases,2024,HepatitisC
+Surin,8,Oct,Cases,2024,HepatitisC
+ZONE:10,12,Oct,Cases,2024,HepatitisC
+Amnat Charoen,1,Oct,Cases,2024,HepatitisC
 Mukdahan,0,Oct,Cases,2024,HepatitisC
-Si Sa Ket,0,Oct,Cases,2024,HepatitisC
-Ubon Ratchathani,0,Oct,Cases,2024,HepatitisC
-Yasothon,0,Oct,Cases,2024,HepatitisC
-ZONE:11,0,Oct,Cases,2024,HepatitisC
+Si Sa Ket,3,Oct,Cases,2024,HepatitisC
+Ubon Ratchathani,6,Oct,Cases,2024,HepatitisC
+Yasothon,2,Oct,Cases,2024,HepatitisC
+ZONE:11,29,Oct,Cases,2024,HepatitisC
 Chumphon,0,Oct,Cases,2024,HepatitisC
 Krabi,0,Oct,Cases,2024,HepatitisC
-Nakhon Si Thammarat,0,Oct,Cases,2024,HepatitisC
-Phangnga,0,Oct,Cases,2024,HepatitisC
-Phuket,0,Oct,Cases,2024,HepatitisC
+Nakhon Si Thammarat,2,Oct,Cases,2024,HepatitisC
+Phangnga,2,Oct,Cases,2024,HepatitisC
+Phuket,22,Oct,Cases,2024,HepatitisC
 Ranong,0,Oct,Cases,2024,HepatitisC
-Surat Thani,0,Oct,Cases,2024,HepatitisC
+Surat Thani,3,Oct,Cases,2024,HepatitisC
 ZONE:12,0,Oct,Cases,2024,HepatitisC
 Narathiwat,0,Oct,Cases,2024,HepatitisC
 Pattani,0,Oct,Cases,2024,HepatitisC
@@ -1910,8 +1910,8 @@ Satun,0,Oct,Cases,2024,HepatitisC
 Songkhla,0,Oct,Cases,2024,HepatitisC
 Trang,0,Oct,Cases,2024,HepatitisC
 Yala,0,Oct,Cases,2024,HepatitisC
-ZONE:13,0,Oct,Cases,2024,HepatitisC
-Bangkok,0,Oct,Cases,2024,HepatitisC
+ZONE:13,3,Oct,Cases,2024,HepatitisC
+Bangkok,3,Oct,Cases,2024,HepatitisC
 Total,0,Oct,Deaths,2024,HepatitisC
 ZONE:01,0,Oct,Deaths,2024,HepatitisC
 Chiang Mai,0,Oct,Deaths,2024,HepatitisC

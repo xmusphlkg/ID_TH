@@ -1,16 +1,16 @@
 Areas,Age,Cases,Year,Disease
-Total,Total,30,2024,Rubella
-ZONE:01,Total,2,2024,Rubella
-Chiang Mai,Total,1,2024,Rubella
+Total,Total,76,2024,Rubella
+ZONE:01,Total,8,2024,Rubella
+Chiang Mai,Total,5,2024,Rubella
 Chiang Rai,Total,1,2024,Rubella
 Lampang,Total,0,2024,Rubella
-Lamphun,Total,0,2024,Rubella
+Lamphun,Total,2,2024,Rubella
 Mae Hong Son,Total,0,2024,Rubella
 Nan,Total,0,2024,Rubella
 Phayao,Total,0,2024,Rubella
 Phrae,Total,0,2024,Rubella
-ZONE:02,Total,2,2024,Rubella
-Phetchabun,Total,1,2024,Rubella
+ZONE:02,Total,4,2024,Rubella
+Phetchabun,Total,3,2024,Rubella
 Phitsanulok,Total,0,2024,Rubella
 Sukhothai,Total,0,2024,Rubella
 Tak,Total,1,2024,Rubella
@@ -21,38 +21,38 @@ Kamphaeng Phet,Total,0,2024,Rubella
 Nakhon Sawan,Total,0,2024,Rubella
 Phichit,Total,0,2024,Rubella
 Uthai Thani,Total,0,2024,Rubella
-ZONE:04,Total,5,2024,Rubella
+ZONE:04,Total,10,2024,Rubella
 Ang Thong,Total,1,2024,Rubella
-Lop Buri,Total,2,2024,Rubella
+Lop Buri,Total,4,2024,Rubella
 Nakhon Nayok,Total,0,2024,Rubella
-Nonthaburi,Total,0,2024,Rubella
+Nonthaburi,Total,1,2024,Rubella
 P.Nakhon S.Ayutthaya,Total,1,2024,Rubella
-Pathum Thani,Total,1,2024,Rubella
+Pathum Thani,Total,3,2024,Rubella
 Saraburi,Total,0,2024,Rubella
 Sing Buri,Total,0,2024,Rubella
-ZONE:05,Total,0,2024,Rubella
+ZONE:05,Total,4,2024,Rubella
 Kanchanaburi,Total,0,2024,Rubella
-Nakhon Pathom,Total,0,2024,Rubella
+Nakhon Pathom,Total,1,2024,Rubella
 Phetchaburi,Total,0,2024,Rubella
-Prachuap Khiri Khan,Total,0,2024,Rubella
-Ratchaburi,Total,0,2024,Rubella
+Prachuap Khiri Khan,Total,1,2024,Rubella
+Ratchaburi,Total,1,2024,Rubella
 Samut Sakhon,Total,0,2024,Rubella
 Samut Songkhram,Total,0,2024,Rubella
-Suphan Buri,Total,0,2024,Rubella
-ZONE:06,Total,8,2024,Rubella
+Suphan Buri,Total,1,2024,Rubella
+ZONE:06,Total,14,2024,Rubella
 Chachoengsao,Total,2,2024,Rubella
 Chanthaburi,Total,0,2024,Rubella
-Chon Buri,Total,2,2024,Rubella
+Chon Buri,Total,5,2024,Rubella
 Prachin Buri,Total,0,2024,Rubella
-Rayong,Total,2,2024,Rubella
-Sa Kaeo,Total,0,2024,Rubella
+Rayong,Total,3,2024,Rubella
+Sa Kaeo,Total,2,2024,Rubella
 Samut Prakan,Total,2,2024,Rubella
 Trat,Total,0,2024,Rubella
-ZONE:07,Total,1,2024,Rubella
+ZONE:07,Total,3,2024,Rubella
 Kalasin,Total,0,2024,Rubella
-Khon Kaen,Total,1,2024,Rubella
+Khon Kaen,Total,2,2024,Rubella
 Maha Sarakham,Total,0,2024,Rubella
-Roi Et,Total,0,2024,Rubella
+Roi Et,Total,1,2024,Rubella
 ZONE:08,Total,3,2024,Rubella
 Bungkan,Total,1,2024,Rubella
 Loei,Total,0,2024,Rubella
@@ -61,36 +61,36 @@ Nong Bua Lam Phu,Total,0,2024,Rubella
 Nong Khai,Total,1,2024,Rubella
 Sakon Nakhon,Total,1,2024,Rubella
 Udon Thani,Total,0,2024,Rubella
-ZONE:09,Total,0,2024,Rubella
-Buri Ram,Total,0,2024,Rubella
+ZONE:09,Total,2,2024,Rubella
+Buri Ram,Total,1,2024,Rubella
 Chaiyaphum,Total,0,2024,Rubella
-Nakhon Ratchasima,Total,0,2024,Rubella
+Nakhon Ratchasima,Total,1,2024,Rubella
 Surin,Total,0,2024,Rubella
-ZONE:10,Total,0,2024,Rubella
+ZONE:10,Total,2,2024,Rubella
 Amnat Charoen,Total,0,2024,Rubella
 Mukdahan,Total,0,2024,Rubella
 Si Sa Ket,Total,0,2024,Rubella
-Ubon Ratchathani,Total,0,2024,Rubella
+Ubon Ratchathani,Total,2,2024,Rubella
 Yasothon,Total,0,2024,Rubella
-ZONE:11,Total,3,2024,Rubella
-Chumphon,Total,0,2024,Rubella
+ZONE:11,Total,8,2024,Rubella
+Chumphon,Total,2,2024,Rubella
 Krabi,Total,0,2024,Rubella
 Nakhon Si Thammarat,Total,0,2024,Rubella
 Phangnga,Total,0,2024,Rubella
-Phuket,Total,2,2024,Rubella
+Phuket,Total,3,2024,Rubella
 Ranong,Total,1,2024,Rubella
-Surat Thani,Total,0,2024,Rubella
-ZONE:12,Total,3,2024,Rubella
+Surat Thani,Total,2,2024,Rubella
+ZONE:12,Total,11,2024,Rubella
 Narathiwat,Total,0,2024,Rubella
-Pattani,Total,1,2024,Rubella
+Pattani,Total,2,2024,Rubella
 Phatthalung,Total,0,2024,Rubella
 Satun,Total,0,2024,Rubella
-Songkhla,Total,1,2024,Rubella
+Songkhla,Total,8,2024,Rubella
 Trang,Total,0,2024,Rubella
 Yala,Total,1,2024,Rubella
-ZONE:13,Total,3,2024,Rubella
-Bangkok,Total,3,2024,Rubella
-Total,0,1,2024,Rubella
+ZONE:13,Total,7,2024,Rubella
+Bangkok,Total,7,2024,Rubella
+Total,0,2,2024,Rubella
 ZONE:01,0,0,2024,Rubella
 Chiang Mai,0,0,2024,Rubella
 Chiang Rai,0,0,2024,Rubella
@@ -171,9 +171,9 @@ Phangnga,0,0,2024,Rubella
 Phuket,0,0,2024,Rubella
 Ranong,0,0,2024,Rubella
 Surat Thani,0,0,2024,Rubella
-ZONE:12,0,0,2024,Rubella
+ZONE:12,0,1,2024,Rubella
 Narathiwat,0,0,2024,Rubella
-Pattani,0,0,2024,Rubella
+Pattani,0,1,2024,Rubella
 Phatthalung,0,0,2024,Rubella
 Satun,0,0,2024,Rubella
 Songkhla,0,0,2024,Rubella
@@ -181,7 +181,7 @@ Trang,0,0,2024,Rubella
 Yala,0,0,2024,Rubella
 ZONE:13,0,0,2024,Rubella
 Bangkok,0,0,2024,Rubella
-Total,<1,4,2024,Rubella
+Total,<1,7,2024,Rubella
 ZONE:01,<1,1,2024,Rubella
 Chiang Mai,<1,0,2024,Rubella
 Chiang Rai,<1,1,2024,Rubella
@@ -212,9 +212,9 @@ P.Nakhon S.Ayutthaya,<1,0,2024,Rubella
 Pathum Thani,<1,0,2024,Rubella
 Saraburi,<1,0,2024,Rubella
 Sing Buri,<1,0,2024,Rubella
-ZONE:05,<1,0,2024,Rubella
+ZONE:05,<1,1,2024,Rubella
 Kanchanaburi,<1,0,2024,Rubella
-Nakhon Pathom,<1,0,2024,Rubella
+Nakhon Pathom,<1,1,2024,Rubella
 Phetchaburi,<1,0,2024,Rubella
 Prachuap Khiri Khan,<1,0,2024,Rubella
 Ratchaburi,<1,0,2024,Rubella
@@ -248,20 +248,20 @@ Buri Ram,<1,0,2024,Rubella
 Chaiyaphum,<1,0,2024,Rubella
 Nakhon Ratchasima,<1,0,2024,Rubella
 Surin,<1,0,2024,Rubella
-ZONE:10,<1,0,2024,Rubella
+ZONE:10,<1,1,2024,Rubella
 Amnat Charoen,<1,0,2024,Rubella
 Mukdahan,<1,0,2024,Rubella
 Si Sa Ket,<1,0,2024,Rubella
-Ubon Ratchathani,<1,0,2024,Rubella
+Ubon Ratchathani,<1,1,2024,Rubella
 Yasothon,<1,0,2024,Rubella
-ZONE:11,<1,0,2024,Rubella
+ZONE:11,<1,1,2024,Rubella
 Chumphon,<1,0,2024,Rubella
 Krabi,<1,0,2024,Rubella
 Nakhon Si Thammarat,<1,0,2024,Rubella
 Phangnga,<1,0,2024,Rubella
 Phuket,<1,0,2024,Rubella
 Ranong,<1,0,2024,Rubella
-Surat Thani,<1,0,2024,Rubella
+Surat Thani,<1,1,2024,Rubella
 ZONE:12,<1,2,2024,Rubella
 Narathiwat,<1,0,2024,Rubella
 Pattani,<1,1,2024,Rubella
@@ -272,7 +272,7 @@ Trang,<1,0,2024,Rubella
 Yala,<1,1,2024,Rubella
 ZONE:13,<1,0,2024,Rubella
 Bangkok,<1,0,2024,Rubella
-Total,1-1,1,2024,Rubella
+Total,1-1,2,2024,Rubella
 ZONE:01,1-1,0,2024,Rubella
 Chiang Mai,1-1,0,2024,Rubella
 Chiang Rai,1-1,0,2024,Rubella
@@ -345,14 +345,14 @@ Mukdahan,1-1,0,2024,Rubella
 Si Sa Ket,1-1,0,2024,Rubella
 Ubon Ratchathani,1-1,0,2024,Rubella
 Yasothon,1-1,0,2024,Rubella
-ZONE:11,1-1,0,2024,Rubella
+ZONE:11,1-1,1,2024,Rubella
 Chumphon,1-1,0,2024,Rubella
 Krabi,1-1,0,2024,Rubella
 Nakhon Si Thammarat,1-1,0,2024,Rubella
 Phangnga,1-1,0,2024,Rubella
 Phuket,1-1,0,2024,Rubella
 Ranong,1-1,0,2024,Rubella
-Surat Thani,1-1,0,2024,Rubella
+Surat Thani,1-1,1,2024,Rubella
 ZONE:12,1-1,1,2024,Rubella
 Narathiwat,1-1,0,2024,Rubella
 Pattani,1-1,0,2024,Rubella
@@ -363,7 +363,7 @@ Trang,1-1,0,2024,Rubella
 Yala,1-1,0,2024,Rubella
 ZONE:13,1-1,0,2024,Rubella
 Bangkok,1-1,0,2024,Rubella
-Total,2-2,2,2024,Rubella
+Total,2-2,4,2024,Rubella
 ZONE:01,2-2,0,2024,Rubella
 Chiang Mai,2-2,0,2024,Rubella
 Chiang Rai,2-2,0,2024,Rubella
@@ -430,14 +430,14 @@ Buri Ram,2-2,0,2024,Rubella
 Chaiyaphum,2-2,0,2024,Rubella
 Nakhon Ratchasima,2-2,0,2024,Rubella
 Surin,2-2,0,2024,Rubella
-ZONE:10,2-2,0,2024,Rubella
+ZONE:10,2-2,1,2024,Rubella
 Amnat Charoen,2-2,0,2024,Rubella
 Mukdahan,2-2,0,2024,Rubella
 Si Sa Ket,2-2,0,2024,Rubella
-Ubon Ratchathani,2-2,0,2024,Rubella
+Ubon Ratchathani,2-2,1,2024,Rubella
 Yasothon,2-2,0,2024,Rubella
-ZONE:11,2-2,0,2024,Rubella
-Chumphon,2-2,0,2024,Rubella
+ZONE:11,2-2,1,2024,Rubella
+Chumphon,2-2,1,2024,Rubella
 Krabi,2-2,0,2024,Rubella
 Nakhon Si Thammarat,2-2,0,2024,Rubella
 Phangnga,2-2,0,2024,Rubella
@@ -454,7 +454,7 @@ Trang,2-2,0,2024,Rubella
 Yala,2-2,0,2024,Rubella
 ZONE:13,2-2,0,2024,Rubella
 Bangkok,2-2,0,2024,Rubella
-Total,3-3,1,2024,Rubella
+Total,3-3,3,2024,Rubella
 ZONE:01,3-3,0,2024,Rubella
 Chiang Mai,3-3,0,2024,Rubella
 Chiang Rai,3-3,0,2024,Rubella
@@ -485,7 +485,7 @@ P.Nakhon S.Ayutthaya,3-3,0,2024,Rubella
 Pathum Thani,3-3,0,2024,Rubella
 Saraburi,3-3,0,2024,Rubella
 Sing Buri,3-3,0,2024,Rubella
-ZONE:05,3-3,0,2024,Rubella
+ZONE:05,3-3,1,2024,Rubella
 Kanchanaburi,3-3,0,2024,Rubella
 Nakhon Pathom,3-3,0,2024,Rubella
 Phetchaburi,3-3,0,2024,Rubella
@@ -493,14 +493,14 @@ Prachuap Khiri Khan,3-3,0,2024,Rubella
 Ratchaburi,3-3,0,2024,Rubella
 Samut Sakhon,3-3,0,2024,Rubella
 Samut Songkhram,3-3,0,2024,Rubella
-Suphan Buri,3-3,0,2024,Rubella
-ZONE:06,3-3,1,2024,Rubella
+Suphan Buri,3-3,1,2024,Rubella
+ZONE:06,3-3,2,2024,Rubella
 Chachoengsao,3-3,0,2024,Rubella
 Chanthaburi,3-3,0,2024,Rubella
 Chon Buri,3-3,1,2024,Rubella
 Prachin Buri,3-3,0,2024,Rubella
 Rayong,3-3,0,2024,Rubella
-Sa Kaeo,3-3,0,2024,Rubella
+Sa Kaeo,3-3,1,2024,Rubella
 Samut Prakan,3-3,0,2024,Rubella
 Trat,3-3,0,2024,Rubella
 ZONE:07,3-3,0,2024,Rubella
@@ -545,7 +545,7 @@ Trang,3-3,0,2024,Rubella
 Yala,3-3,0,2024,Rubella
 ZONE:13,3-3,0,2024,Rubella
 Bangkok,3-3,0,2024,Rubella
-Total,4-4,0,2024,Rubella
+Total,4-4,1,2024,Rubella
 ZONE:01,4-4,0,2024,Rubella
 Chiang Mai,4-4,0,2024,Rubella
 Chiang Rai,4-4,0,2024,Rubella
@@ -585,13 +585,13 @@ Ratchaburi,4-4,0,2024,Rubella
 Samut Sakhon,4-4,0,2024,Rubella
 Samut Songkhram,4-4,0,2024,Rubella
 Suphan Buri,4-4,0,2024,Rubella
-ZONE:06,4-4,0,2024,Rubella
+ZONE:06,4-4,1,2024,Rubella
 Chachoengsao,4-4,0,2024,Rubella
 Chanthaburi,4-4,0,2024,Rubella
 Chon Buri,4-4,0,2024,Rubella
 Prachin Buri,4-4,0,2024,Rubella
 Rayong,4-4,0,2024,Rubella
-Sa Kaeo,4-4,0,2024,Rubella
+Sa Kaeo,4-4,1,2024,Rubella
 Samut Prakan,4-4,0,2024,Rubella
 Trat,4-4,0,2024,Rubella
 ZONE:07,4-4,0,2024,Rubella
@@ -727,7 +727,7 @@ Trang,5-5,0,2024,Rubella
 Yala,5-5,0,2024,Rubella
 ZONE:13,5-5,0,2024,Rubella
 Bangkok,5-5,0,2024,Rubella
-Total,6-6,0,2024,Rubella
+Total,6-6,1,2024,Rubella
 ZONE:01,6-6,0,2024,Rubella
 Chiang Mai,6-6,0,2024,Rubella
 Chiang Rai,6-6,0,2024,Rubella
@@ -808,12 +808,12 @@ Phangnga,6-6,0,2024,Rubella
 Phuket,6-6,0,2024,Rubella
 Ranong,6-6,0,2024,Rubella
 Surat Thani,6-6,0,2024,Rubella
-ZONE:12,6-6,0,2024,Rubella
+ZONE:12,6-6,1,2024,Rubella
 Narathiwat,6-6,0,2024,Rubella
 Pattani,6-6,0,2024,Rubella
 Phatthalung,6-6,0,2024,Rubella
 Satun,6-6,0,2024,Rubella
-Songkhla,6-6,0,2024,Rubella
+Songkhla,6-6,1,2024,Rubella
 Trang,6-6,0,2024,Rubella
 Yala,6-6,0,2024,Rubella
 ZONE:13,6-6,0,2024,Rubella
@@ -909,9 +909,9 @@ Trang,7-9,0,2024,Rubella
 Yala,7-9,0,2024,Rubella
 ZONE:13,7-9,0,2024,Rubella
 Bangkok,7-9,0,2024,Rubella
-Total,10-14,2,2024,Rubella
-ZONE:01,10-14,0,2024,Rubella
-Chiang Mai,10-14,0,2024,Rubella
+Total,10-14,8,2024,Rubella
+ZONE:01,10-14,1,2024,Rubella
+Chiang Mai,10-14,1,2024,Rubella
 Chiang Rai,10-14,0,2024,Rubella
 Lampang,10-14,0,2024,Rubella
 Lamphun,10-14,0,2024,Rubella
@@ -931,28 +931,28 @@ Kamphaeng Phet,10-14,0,2024,Rubella
 Nakhon Sawan,10-14,0,2024,Rubella
 Phichit,10-14,0,2024,Rubella
 Uthai Thani,10-14,0,2024,Rubella
-ZONE:04,10-14,0,2024,Rubella
+ZONE:04,10-14,1,2024,Rubella
 Ang Thong,10-14,0,2024,Rubella
 Lop Buri,10-14,0,2024,Rubella
 Nakhon Nayok,10-14,0,2024,Rubella
-Nonthaburi,10-14,0,2024,Rubella
+Nonthaburi,10-14,1,2024,Rubella
 P.Nakhon S.Ayutthaya,10-14,0,2024,Rubella
 Pathum Thani,10-14,0,2024,Rubella
 Saraburi,10-14,0,2024,Rubella
 Sing Buri,10-14,0,2024,Rubella
-ZONE:05,10-14,0,2024,Rubella
+ZONE:05,10-14,1,2024,Rubella
 Kanchanaburi,10-14,0,2024,Rubella
 Nakhon Pathom,10-14,0,2024,Rubella
 Phetchaburi,10-14,0,2024,Rubella
-Prachuap Khiri Khan,10-14,0,2024,Rubella
+Prachuap Khiri Khan,10-14,1,2024,Rubella
 Ratchaburi,10-14,0,2024,Rubella
 Samut Sakhon,10-14,0,2024,Rubella
 Samut Songkhram,10-14,0,2024,Rubella
 Suphan Buri,10-14,0,2024,Rubella
-ZONE:06,10-14,0,2024,Rubella
+ZONE:06,10-14,1,2024,Rubella
 Chachoengsao,10-14,0,2024,Rubella
 Chanthaburi,10-14,0,2024,Rubella
-Chon Buri,10-14,0,2024,Rubella
+Chon Buri,10-14,1,2024,Rubella
 Prachin Buri,10-14,0,2024,Rubella
 Rayong,10-14,0,2024,Rubella
 Sa Kaeo,10-14,0,2024,Rubella
@@ -971,8 +971,8 @@ Nong Bua Lam Phu,10-14,0,2024,Rubella
 Nong Khai,10-14,0,2024,Rubella
 Sakon Nakhon,10-14,0,2024,Rubella
 Udon Thani,10-14,0,2024,Rubella
-ZONE:09,10-14,0,2024,Rubella
-Buri Ram,10-14,0,2024,Rubella
+ZONE:09,10-14,1,2024,Rubella
+Buri Ram,10-14,1,2024,Rubella
 Chaiyaphum,10-14,0,2024,Rubella
 Nakhon Ratchasima,10-14,0,2024,Rubella
 Surin,10-14,0,2024,Rubella
@@ -982,8 +982,8 @@ Mukdahan,10-14,0,2024,Rubella
 Si Sa Ket,10-14,0,2024,Rubella
 Ubon Ratchathani,10-14,0,2024,Rubella
 Yasothon,10-14,0,2024,Rubella
-ZONE:11,10-14,1,2024,Rubella
-Chumphon,10-14,0,2024,Rubella
+ZONE:11,10-14,2,2024,Rubella
+Chumphon,10-14,1,2024,Rubella
 Krabi,10-14,0,2024,Rubella
 Nakhon Si Thammarat,10-14,0,2024,Rubella
 Phangnga,10-14,0,2024,Rubella
@@ -1000,12 +1000,12 @@ Trang,10-14,0,2024,Rubella
 Yala,10-14,0,2024,Rubella
 ZONE:13,10-14,1,2024,Rubella
 Bangkok,10-14,1,2024,Rubella
-Total,15-24,7,2024,Rubella
-ZONE:01,15-24,0,2024,Rubella
-Chiang Mai,15-24,0,2024,Rubella
+Total,15-24,14,2024,Rubella
+ZONE:01,15-24,3,2024,Rubella
+Chiang Mai,15-24,1,2024,Rubella
 Chiang Rai,15-24,0,2024,Rubella
 Lampang,15-24,0,2024,Rubella
-Lamphun,15-24,0,2024,Rubella
+Lamphun,15-24,2,2024,Rubella
 Mae Hong Son,15-24,0,2024,Rubella
 Nan,15-24,0,2024,Rubella
 Phayao,15-24,0,2024,Rubella
@@ -1022,13 +1022,13 @@ Kamphaeng Phet,15-24,0,2024,Rubella
 Nakhon Sawan,15-24,0,2024,Rubella
 Phichit,15-24,0,2024,Rubella
 Uthai Thani,15-24,0,2024,Rubella
-ZONE:04,15-24,1,2024,Rubella
+ZONE:04,15-24,2,2024,Rubella
 Ang Thong,15-24,0,2024,Rubella
 Lop Buri,15-24,1,2024,Rubella
 Nakhon Nayok,15-24,0,2024,Rubella
 Nonthaburi,15-24,0,2024,Rubella
 P.Nakhon S.Ayutthaya,15-24,0,2024,Rubella
-Pathum Thani,15-24,0,2024,Rubella
+Pathum Thani,15-24,1,2024,Rubella
 Saraburi,15-24,0,2024,Rubella
 Sing Buri,15-24,0,2024,Rubella
 ZONE:05,15-24,0,2024,Rubella
@@ -1040,10 +1040,10 @@ Ratchaburi,15-24,0,2024,Rubella
 Samut Sakhon,15-24,0,2024,Rubella
 Samut Songkhram,15-24,0,2024,Rubella
 Suphan Buri,15-24,0,2024,Rubella
-ZONE:06,15-24,3,2024,Rubella
+ZONE:06,15-24,4,2024,Rubella
 Chachoengsao,15-24,1,2024,Rubella
 Chanthaburi,15-24,0,2024,Rubella
-Chon Buri,15-24,1,2024,Rubella
+Chon Buri,15-24,2,2024,Rubella
 Prachin Buri,15-24,0,2024,Rubella
 Rayong,15-24,1,2024,Rubella
 Sa Kaeo,15-24,0,2024,Rubella
@@ -1081,19 +1081,19 @@ Phangnga,15-24,0,2024,Rubella
 Phuket,15-24,0,2024,Rubella
 Ranong,15-24,1,2024,Rubella
 Surat Thani,15-24,0,2024,Rubella
-ZONE:12,15-24,0,2024,Rubella
+ZONE:12,15-24,1,2024,Rubella
 Narathiwat,15-24,0,2024,Rubella
 Pattani,15-24,0,2024,Rubella
 Phatthalung,15-24,0,2024,Rubella
 Satun,15-24,0,2024,Rubella
-Songkhla,15-24,0,2024,Rubella
+Songkhla,15-24,1,2024,Rubella
 Trang,15-24,0,2024,Rubella
 Yala,15-24,0,2024,Rubella
-ZONE:13,15-24,1,2024,Rubella
-Bangkok,15-24,1,2024,Rubella
-Total,25-34,5,2024,Rubella
-ZONE:01,25-34,1,2024,Rubella
-Chiang Mai,25-34,1,2024,Rubella
+ZONE:13,15-24,2,2024,Rubella
+Bangkok,15-24,2,2024,Rubella
+Total,25-34,15,2024,Rubella
+ZONE:01,25-34,3,2024,Rubella
+Chiang Mai,25-34,3,2024,Rubella
 Chiang Rai,25-34,0,2024,Rubella
 Lampang,25-34,0,2024,Rubella
 Lamphun,25-34,0,2024,Rubella
@@ -1122,27 +1122,27 @@ P.Nakhon S.Ayutthaya,25-34,0,2024,Rubella
 Pathum Thani,25-34,0,2024,Rubella
 Saraburi,25-34,0,2024,Rubella
 Sing Buri,25-34,0,2024,Rubella
-ZONE:05,25-34,0,2024,Rubella
+ZONE:05,25-34,1,2024,Rubella
 Kanchanaburi,25-34,0,2024,Rubella
 Nakhon Pathom,25-34,0,2024,Rubella
 Phetchaburi,25-34,0,2024,Rubella
 Prachuap Khiri Khan,25-34,0,2024,Rubella
-Ratchaburi,25-34,0,2024,Rubella
+Ratchaburi,25-34,1,2024,Rubella
 Samut Sakhon,25-34,0,2024,Rubella
 Samut Songkhram,25-34,0,2024,Rubella
 Suphan Buri,25-34,0,2024,Rubella
-ZONE:06,25-34,1,2024,Rubella
+ZONE:06,25-34,2,2024,Rubella
 Chachoengsao,25-34,1,2024,Rubella
 Chanthaburi,25-34,0,2024,Rubella
-Chon Buri,25-34,0,2024,Rubella
+Chon Buri,25-34,1,2024,Rubella
 Prachin Buri,25-34,0,2024,Rubella
 Rayong,25-34,0,2024,Rubella
 Sa Kaeo,25-34,0,2024,Rubella
 Samut Prakan,25-34,0,2024,Rubella
 Trat,25-34,0,2024,Rubella
-ZONE:07,25-34,1,2024,Rubella
+ZONE:07,25-34,2,2024,Rubella
 Kalasin,25-34,0,2024,Rubella
-Khon Kaen,25-34,1,2024,Rubella
+Khon Kaen,25-34,2,2024,Rubella
 Maha Sarakham,25-34,0,2024,Rubella
 Roi Et,25-34,0,2024,Rubella
 ZONE:08,25-34,1,2024,Rubella
@@ -1164,25 +1164,25 @@ Mukdahan,25-34,0,2024,Rubella
 Si Sa Ket,25-34,0,2024,Rubella
 Ubon Ratchathani,25-34,0,2024,Rubella
 Yasothon,25-34,0,2024,Rubella
-ZONE:11,25-34,1,2024,Rubella
+ZONE:11,25-34,2,2024,Rubella
 Chumphon,25-34,0,2024,Rubella
 Krabi,25-34,0,2024,Rubella
 Nakhon Si Thammarat,25-34,0,2024,Rubella
 Phangnga,25-34,0,2024,Rubella
-Phuket,25-34,1,2024,Rubella
+Phuket,25-34,2,2024,Rubella
 Ranong,25-34,0,2024,Rubella
 Surat Thani,25-34,0,2024,Rubella
-ZONE:12,25-34,0,2024,Rubella
+ZONE:12,25-34,3,2024,Rubella
 Narathiwat,25-34,0,2024,Rubella
 Pattani,25-34,0,2024,Rubella
 Phatthalung,25-34,0,2024,Rubella
 Satun,25-34,0,2024,Rubella
-Songkhla,25-34,0,2024,Rubella
+Songkhla,25-34,3,2024,Rubella
 Trang,25-34,0,2024,Rubella
 Yala,25-34,0,2024,Rubella
-ZONE:13,25-34,0,2024,Rubella
-Bangkok,25-34,0,2024,Rubella
-Total,35-44,1,2024,Rubella
+ZONE:13,25-34,1,2024,Rubella
+Bangkok,25-34,1,2024,Rubella
+Total,35-44,10,2024,Rubella
 ZONE:01,35-44,0,2024,Rubella
 Chiang Mai,35-44,0,2024,Rubella
 Chiang Rai,35-44,0,2024,Rubella
@@ -1204,13 +1204,13 @@ Kamphaeng Phet,35-44,0,2024,Rubella
 Nakhon Sawan,35-44,0,2024,Rubella
 Phichit,35-44,0,2024,Rubella
 Uthai Thani,35-44,0,2024,Rubella
-ZONE:04,35-44,0,2024,Rubella
+ZONE:04,35-44,3,2024,Rubella
 Ang Thong,35-44,0,2024,Rubella
-Lop Buri,35-44,0,2024,Rubella
+Lop Buri,35-44,2,2024,Rubella
 Nakhon Nayok,35-44,0,2024,Rubella
 Nonthaburi,35-44,0,2024,Rubella
 P.Nakhon S.Ayutthaya,35-44,0,2024,Rubella
-Pathum Thani,35-44,0,2024,Rubella
+Pathum Thani,35-44,1,2024,Rubella
 Saraburi,35-44,0,2024,Rubella
 Sing Buri,35-44,0,2024,Rubella
 ZONE:05,35-44,0,2024,Rubella
@@ -1222,20 +1222,20 @@ Ratchaburi,35-44,0,2024,Rubella
 Samut Sakhon,35-44,0,2024,Rubella
 Samut Songkhram,35-44,0,2024,Rubella
 Suphan Buri,35-44,0,2024,Rubella
-ZONE:06,35-44,0,2024,Rubella
+ZONE:06,35-44,1,2024,Rubella
 Chachoengsao,35-44,0,2024,Rubella
 Chanthaburi,35-44,0,2024,Rubella
 Chon Buri,35-44,0,2024,Rubella
 Prachin Buri,35-44,0,2024,Rubella
-Rayong,35-44,0,2024,Rubella
+Rayong,35-44,1,2024,Rubella
 Sa Kaeo,35-44,0,2024,Rubella
 Samut Prakan,35-44,0,2024,Rubella
 Trat,35-44,0,2024,Rubella
-ZONE:07,35-44,0,2024,Rubella
+ZONE:07,35-44,1,2024,Rubella
 Kalasin,35-44,0,2024,Rubella
 Khon Kaen,35-44,0,2024,Rubella
 Maha Sarakham,35-44,0,2024,Rubella
-Roi Et,35-44,0,2024,Rubella
+Roi Et,35-44,1,2024,Rubella
 ZONE:08,35-44,0,2024,Rubella
 Bungkan,35-44,0,2024,Rubella
 Loei,35-44,0,2024,Rubella
@@ -1244,10 +1244,10 @@ Nong Bua Lam Phu,35-44,0,2024,Rubella
 Nong Khai,35-44,0,2024,Rubella
 Sakon Nakhon,35-44,0,2024,Rubella
 Udon Thani,35-44,0,2024,Rubella
-ZONE:09,35-44,0,2024,Rubella
+ZONE:09,35-44,1,2024,Rubella
 Buri Ram,35-44,0,2024,Rubella
 Chaiyaphum,35-44,0,2024,Rubella
-Nakhon Ratchasima,35-44,0,2024,Rubella
+Nakhon Ratchasima,35-44,1,2024,Rubella
 Surin,35-44,0,2024,Rubella
 ZONE:10,35-44,0,2024,Rubella
 Amnat Charoen,35-44,0,2024,Rubella
@@ -1263,17 +1263,17 @@ Phangnga,35-44,0,2024,Rubella
 Phuket,35-44,0,2024,Rubella
 Ranong,35-44,0,2024,Rubella
 Surat Thani,35-44,0,2024,Rubella
-ZONE:12,35-44,0,2024,Rubella
+ZONE:12,35-44,2,2024,Rubella
 Narathiwat,35-44,0,2024,Rubella
 Pattani,35-44,0,2024,Rubella
 Phatthalung,35-44,0,2024,Rubella
 Satun,35-44,0,2024,Rubella
-Songkhla,35-44,0,2024,Rubella
+Songkhla,35-44,2,2024,Rubella
 Trang,35-44,0,2024,Rubella
 Yala,35-44,0,2024,Rubella
-ZONE:13,35-44,0,2024,Rubella
-Bangkok,35-44,0,2024,Rubella
-Total,45-54,3,2024,Rubella
+ZONE:13,35-44,1,2024,Rubella
+Bangkok,35-44,1,2024,Rubella
+Total,45-54,4,2024,Rubella
 ZONE:01,45-54,0,2024,Rubella
 Chiang Mai,45-54,0,2024,Rubella
 Chiang Rai,45-54,0,2024,Rubella
@@ -1362,9 +1362,9 @@ Satun,45-54,0,2024,Rubella
 Songkhla,45-54,0,2024,Rubella
 Trang,45-54,0,2024,Rubella
 Yala,45-54,0,2024,Rubella
-ZONE:13,45-54,1,2024,Rubella
-Bangkok,45-54,1,2024,Rubella
-Total,55-64,0,2024,Rubella
+ZONE:13,45-54,2,2024,Rubella
+Bangkok,45-54,2,2024,Rubella
+Total,55-64,2,2024,Rubella
 ZONE:01,55-64,0,2024,Rubella
 Chiang Mai,55-64,0,2024,Rubella
 Chiang Rai,55-64,0,2024,Rubella
@@ -1374,8 +1374,8 @@ Mae Hong Son,55-64,0,2024,Rubella
 Nan,55-64,0,2024,Rubella
 Phayao,55-64,0,2024,Rubella
 Phrae,55-64,0,2024,Rubella
-ZONE:02,55-64,0,2024,Rubella
-Phetchabun,55-64,0,2024,Rubella
+ZONE:02,55-64,2,2024,Rubella
+Phetchabun,55-64,2,2024,Rubella
 Phitsanulok,55-64,0,2024,Rubella
 Sukhothai,55-64,0,2024,Rubella
 Tak,55-64,0,2024,Rubella

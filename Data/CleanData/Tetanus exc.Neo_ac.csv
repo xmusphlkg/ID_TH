@@ -1,75 +1,75 @@
 Areas,Age,Cases,Year,Disease
-Total,Total,27,2024,Tetanus exc.Neo
-ZONE:01,Total,2,2024,Tetanus exc.Neo
-Chiang Mai,Total,0,2024,Tetanus exc.Neo
-Chiang Rai,Total,1,2024,Tetanus exc.Neo
+Total,Total,40,2024,Tetanus exc.Neo
+ZONE:01,Total,5,2024,Tetanus exc.Neo
+Chiang Mai,Total,1,2024,Tetanus exc.Neo
+Chiang Rai,Total,2,2024,Tetanus exc.Neo
 Lampang,Total,0,2024,Tetanus exc.Neo
 Lamphun,Total,1,2024,Tetanus exc.Neo
 Mae Hong Son,Total,0,2024,Tetanus exc.Neo
-Nan,Total,0,2024,Tetanus exc.Neo
+Nan,Total,1,2024,Tetanus exc.Neo
 Phayao,Total,0,2024,Tetanus exc.Neo
 Phrae,Total,0,2024,Tetanus exc.Neo
-ZONE:02,Total,0,2024,Tetanus exc.Neo
-Phetchabun,Total,0,2024,Tetanus exc.Neo
+ZONE:02,Total,1,2024,Tetanus exc.Neo
+Phetchabun,Total,1,2024,Tetanus exc.Neo
 Phitsanulok,Total,0,2024,Tetanus exc.Neo
 Sukhothai,Total,0,2024,Tetanus exc.Neo
 Tak,Total,0,2024,Tetanus exc.Neo
 Uttaradit,Total,0,2024,Tetanus exc.Neo
-ZONE:03,Total,0,2024,Tetanus exc.Neo
+ZONE:03,Total,1,2024,Tetanus exc.Neo
 Chai Nat,Total,0,2024,Tetanus exc.Neo
 Kamphaeng Phet,Total,0,2024,Tetanus exc.Neo
-Nakhon Sawan,Total,0,2024,Tetanus exc.Neo
+Nakhon Sawan,Total,1,2024,Tetanus exc.Neo
 Phichit,Total,0,2024,Tetanus exc.Neo
 Uthai Thani,Total,0,2024,Tetanus exc.Neo
-ZONE:04,Total,1,2024,Tetanus exc.Neo
+ZONE:04,Total,2,2024,Tetanus exc.Neo
 Ang Thong,Total,0,2024,Tetanus exc.Neo
-Lop Buri,Total,0,2024,Tetanus exc.Neo
+Lop Buri,Total,1,2024,Tetanus exc.Neo
 Nakhon Nayok,Total,0,2024,Tetanus exc.Neo
-Nonthaburi,Total,0,2024,Tetanus exc.Neo
+Nonthaburi,Total,1,2024,Tetanus exc.Neo
 P.Nakhon S.Ayutthaya,Total,0,2024,Tetanus exc.Neo
-Pathum Thani,Total,1,2024,Tetanus exc.Neo
+Pathum Thani,Total,0,2024,Tetanus exc.Neo
 Saraburi,Total,0,2024,Tetanus exc.Neo
 Sing Buri,Total,0,2024,Tetanus exc.Neo
-ZONE:05,Total,0,2024,Tetanus exc.Neo
+ZONE:05,Total,1,2024,Tetanus exc.Neo
 Kanchanaburi,Total,0,2024,Tetanus exc.Neo
 Nakhon Pathom,Total,0,2024,Tetanus exc.Neo
 Phetchaburi,Total,0,2024,Tetanus exc.Neo
-Prachuap Khiri Khan,Total,0,2024,Tetanus exc.Neo
+Prachuap Khiri Khan,Total,1,2024,Tetanus exc.Neo
 Ratchaburi,Total,0,2024,Tetanus exc.Neo
 Samut Sakhon,Total,0,2024,Tetanus exc.Neo
 Samut Songkhram,Total,0,2024,Tetanus exc.Neo
 Suphan Buri,Total,0,2024,Tetanus exc.Neo
-ZONE:06,Total,4,2024,Tetanus exc.Neo
+ZONE:06,Total,3,2024,Tetanus exc.Neo
 Chachoengsao,Total,0,2024,Tetanus exc.Neo
 Chanthaburi,Total,1,2024,Tetanus exc.Neo
-Chon Buri,Total,2,2024,Tetanus exc.Neo
+Chon Buri,Total,1,2024,Tetanus exc.Neo
 Prachin Buri,Total,0,2024,Tetanus exc.Neo
 Rayong,Total,0,2024,Tetanus exc.Neo
 Sa Kaeo,Total,0,2024,Tetanus exc.Neo
 Samut Prakan,Total,1,2024,Tetanus exc.Neo
 Trat,Total,0,2024,Tetanus exc.Neo
-ZONE:07,Total,1,2024,Tetanus exc.Neo
+ZONE:07,Total,2,2024,Tetanus exc.Neo
 Kalasin,Total,0,2024,Tetanus exc.Neo
 Khon Kaen,Total,1,2024,Tetanus exc.Neo
 Maha Sarakham,Total,0,2024,Tetanus exc.Neo
-Roi Et,Total,0,2024,Tetanus exc.Neo
-ZONE:08,Total,3,2024,Tetanus exc.Neo
+Roi Et,Total,1,2024,Tetanus exc.Neo
+ZONE:08,Total,5,2024,Tetanus exc.Neo
 Bungkan,Total,0,2024,Tetanus exc.Neo
 Loei,Total,0,2024,Tetanus exc.Neo
 Nakhon Phanom,Total,1,2024,Tetanus exc.Neo
 Nong Bua Lam Phu,Total,0,2024,Tetanus exc.Neo
 Nong Khai,Total,0,2024,Tetanus exc.Neo
-Sakon Nakhon,Total,0,2024,Tetanus exc.Neo
-Udon Thani,Total,2,2024,Tetanus exc.Neo
-ZONE:09,Total,8,2024,Tetanus exc.Neo
-Buri Ram,Total,3,2024,Tetanus exc.Neo
+Sakon Nakhon,Total,1,2024,Tetanus exc.Neo
+Udon Thani,Total,3,2024,Tetanus exc.Neo
+ZONE:09,Total,10,2024,Tetanus exc.Neo
+Buri Ram,Total,4,2024,Tetanus exc.Neo
 Chaiyaphum,Total,0,2024,Tetanus exc.Neo
-Nakhon Ratchasima,Total,4,2024,Tetanus exc.Neo
+Nakhon Ratchasima,Total,5,2024,Tetanus exc.Neo
 Surin,Total,1,2024,Tetanus exc.Neo
-ZONE:10,Total,0,2024,Tetanus exc.Neo
+ZONE:10,Total,1,2024,Tetanus exc.Neo
 Amnat Charoen,Total,0,2024,Tetanus exc.Neo
 Mukdahan,Total,0,2024,Tetanus exc.Neo
-Si Sa Ket,Total,0,2024,Tetanus exc.Neo
+Si Sa Ket,Total,1,2024,Tetanus exc.Neo
 Ubon Ratchathani,Total,0,2024,Tetanus exc.Neo
 Yasothon,Total,0,2024,Tetanus exc.Neo
 ZONE:11,Total,5,2024,Tetanus exc.Neo
@@ -88,8 +88,8 @@ Satun,Total,0,2024,Tetanus exc.Neo
 Songkhla,Total,0,2024,Tetanus exc.Neo
 Trang,Total,0,2024,Tetanus exc.Neo
 Yala,Total,0,2024,Tetanus exc.Neo
-ZONE:13,Total,1,2024,Tetanus exc.Neo
-Bangkok,Total,1,2024,Tetanus exc.Neo
+ZONE:13,Total,2,2024,Tetanus exc.Neo
+Bangkok,Total,2,2024,Tetanus exc.Neo
 Total,0,0,2024,Tetanus exc.Neo
 ZONE:01,0,0,2024,Tetanus exc.Neo
 Chiang Mai,0,0,2024,Tetanus exc.Neo
@@ -1091,9 +1091,9 @@ Trang,15-24,0,2024,Tetanus exc.Neo
 Yala,15-24,0,2024,Tetanus exc.Neo
 ZONE:13,15-24,0,2024,Tetanus exc.Neo
 Bangkok,15-24,0,2024,Tetanus exc.Neo
-Total,25-34,4,2024,Tetanus exc.Neo
-ZONE:01,25-34,0,2024,Tetanus exc.Neo
-Chiang Mai,25-34,0,2024,Tetanus exc.Neo
+Total,25-34,6,2024,Tetanus exc.Neo
+ZONE:01,25-34,1,2024,Tetanus exc.Neo
+Chiang Mai,25-34,1,2024,Tetanus exc.Neo
 Chiang Rai,25-34,0,2024,Tetanus exc.Neo
 Lampang,25-34,0,2024,Tetanus exc.Neo
 Lamphun,25-34,0,2024,Tetanus exc.Neo
@@ -1145,14 +1145,14 @@ Kalasin,25-34,0,2024,Tetanus exc.Neo
 Khon Kaen,25-34,0,2024,Tetanus exc.Neo
 Maha Sarakham,25-34,0,2024,Tetanus exc.Neo
 Roi Et,25-34,0,2024,Tetanus exc.Neo
-ZONE:08,25-34,0,2024,Tetanus exc.Neo
+ZONE:08,25-34,1,2024,Tetanus exc.Neo
 Bungkan,25-34,0,2024,Tetanus exc.Neo
 Loei,25-34,0,2024,Tetanus exc.Neo
 Nakhon Phanom,25-34,0,2024,Tetanus exc.Neo
 Nong Bua Lam Phu,25-34,0,2024,Tetanus exc.Neo
 Nong Khai,25-34,0,2024,Tetanus exc.Neo
 Sakon Nakhon,25-34,0,2024,Tetanus exc.Neo
-Udon Thani,25-34,0,2024,Tetanus exc.Neo
+Udon Thani,25-34,1,2024,Tetanus exc.Neo
 ZONE:09,25-34,1,2024,Tetanus exc.Neo
 Buri Ram,25-34,1,2024,Tetanus exc.Neo
 Chaiyaphum,25-34,0,2024,Tetanus exc.Neo
@@ -1182,10 +1182,10 @@ Trang,25-34,0,2024,Tetanus exc.Neo
 Yala,25-34,0,2024,Tetanus exc.Neo
 ZONE:13,25-34,0,2024,Tetanus exc.Neo
 Bangkok,25-34,0,2024,Tetanus exc.Neo
-Total,35-44,1,2024,Tetanus exc.Neo
-ZONE:01,35-44,0,2024,Tetanus exc.Neo
+Total,35-44,2,2024,Tetanus exc.Neo
+ZONE:01,35-44,1,2024,Tetanus exc.Neo
 Chiang Mai,35-44,0,2024,Tetanus exc.Neo
-Chiang Rai,35-44,0,2024,Tetanus exc.Neo
+Chiang Rai,35-44,1,2024,Tetanus exc.Neo
 Lampang,35-44,0,2024,Tetanus exc.Neo
 Lamphun,35-44,0,2024,Tetanus exc.Neo
 Mae Hong Son,35-44,0,2024,Tetanus exc.Neo
@@ -1204,9 +1204,9 @@ Kamphaeng Phet,35-44,0,2024,Tetanus exc.Neo
 Nakhon Sawan,35-44,0,2024,Tetanus exc.Neo
 Phichit,35-44,0,2024,Tetanus exc.Neo
 Uthai Thani,35-44,0,2024,Tetanus exc.Neo
-ZONE:04,35-44,0,2024,Tetanus exc.Neo
+ZONE:04,35-44,1,2024,Tetanus exc.Neo
 Ang Thong,35-44,0,2024,Tetanus exc.Neo
-Lop Buri,35-44,0,2024,Tetanus exc.Neo
+Lop Buri,35-44,1,2024,Tetanus exc.Neo
 Nakhon Nayok,35-44,0,2024,Tetanus exc.Neo
 Nonthaburi,35-44,0,2024,Tetanus exc.Neo
 P.Nakhon S.Ayutthaya,35-44,0,2024,Tetanus exc.Neo
@@ -1222,10 +1222,10 @@ Ratchaburi,35-44,0,2024,Tetanus exc.Neo
 Samut Sakhon,35-44,0,2024,Tetanus exc.Neo
 Samut Songkhram,35-44,0,2024,Tetanus exc.Neo
 Suphan Buri,35-44,0,2024,Tetanus exc.Neo
-ZONE:06,35-44,1,2024,Tetanus exc.Neo
+ZONE:06,35-44,0,2024,Tetanus exc.Neo
 Chachoengsao,35-44,0,2024,Tetanus exc.Neo
 Chanthaburi,35-44,0,2024,Tetanus exc.Neo
-Chon Buri,35-44,1,2024,Tetanus exc.Neo
+Chon Buri,35-44,0,2024,Tetanus exc.Neo
 Prachin Buri,35-44,0,2024,Tetanus exc.Neo
 Rayong,35-44,0,2024,Tetanus exc.Neo
 Sa Kaeo,35-44,0,2024,Tetanus exc.Neo
@@ -1273,7 +1273,7 @@ Trang,35-44,0,2024,Tetanus exc.Neo
 Yala,35-44,0,2024,Tetanus exc.Neo
 ZONE:13,35-44,0,2024,Tetanus exc.Neo
 Bangkok,35-44,0,2024,Tetanus exc.Neo
-Total,45-54,4,2024,Tetanus exc.Neo
+Total,45-54,5,2024,Tetanus exc.Neo
 ZONE:01,45-54,1,2024,Tetanus exc.Neo
 Chiang Mai,45-54,0,2024,Tetanus exc.Neo
 Chiang Rai,45-54,0,2024,Tetanus exc.Neo
@@ -1340,10 +1340,10 @@ Buri Ram,45-54,0,2024,Tetanus exc.Neo
 Chaiyaphum,45-54,0,2024,Tetanus exc.Neo
 Nakhon Ratchasima,45-54,1,2024,Tetanus exc.Neo
 Surin,45-54,0,2024,Tetanus exc.Neo
-ZONE:10,45-54,0,2024,Tetanus exc.Neo
+ZONE:10,45-54,1,2024,Tetanus exc.Neo
 Amnat Charoen,45-54,0,2024,Tetanus exc.Neo
 Mukdahan,45-54,0,2024,Tetanus exc.Neo
-Si Sa Ket,45-54,0,2024,Tetanus exc.Neo
+Si Sa Ket,45-54,1,2024,Tetanus exc.Neo
 Ubon Ratchathani,45-54,0,2024,Tetanus exc.Neo
 Yasothon,45-54,0,2024,Tetanus exc.Neo
 ZONE:11,45-54,0,2024,Tetanus exc.Neo
@@ -1364,7 +1364,7 @@ Trang,45-54,0,2024,Tetanus exc.Neo
 Yala,45-54,0,2024,Tetanus exc.Neo
 ZONE:13,45-54,1,2024,Tetanus exc.Neo
 Bangkok,45-54,1,2024,Tetanus exc.Neo
-Total,55-64,3,2024,Tetanus exc.Neo
+Total,55-64,4,2024,Tetanus exc.Neo
 ZONE:01,55-64,0,2024,Tetanus exc.Neo
 Chiang Mai,55-64,0,2024,Tetanus exc.Neo
 Chiang Rai,55-64,0,2024,Tetanus exc.Neo
@@ -1386,13 +1386,13 @@ Kamphaeng Phet,55-64,0,2024,Tetanus exc.Neo
 Nakhon Sawan,55-64,0,2024,Tetanus exc.Neo
 Phichit,55-64,0,2024,Tetanus exc.Neo
 Uthai Thani,55-64,0,2024,Tetanus exc.Neo
-ZONE:04,55-64,1,2024,Tetanus exc.Neo
+ZONE:04,55-64,0,2024,Tetanus exc.Neo
 Ang Thong,55-64,0,2024,Tetanus exc.Neo
 Lop Buri,55-64,0,2024,Tetanus exc.Neo
 Nakhon Nayok,55-64,0,2024,Tetanus exc.Neo
 Nonthaburi,55-64,0,2024,Tetanus exc.Neo
 P.Nakhon S.Ayutthaya,55-64,0,2024,Tetanus exc.Neo
-Pathum Thani,55-64,1,2024,Tetanus exc.Neo
+Pathum Thani,55-64,0,2024,Tetanus exc.Neo
 Saraburi,55-64,0,2024,Tetanus exc.Neo
 Sing Buri,55-64,0,2024,Tetanus exc.Neo
 ZONE:05,55-64,0,2024,Tetanus exc.Neo
@@ -1413,11 +1413,11 @@ Rayong,55-64,0,2024,Tetanus exc.Neo
 Sa Kaeo,55-64,0,2024,Tetanus exc.Neo
 Samut Prakan,55-64,0,2024,Tetanus exc.Neo
 Trat,55-64,0,2024,Tetanus exc.Neo
-ZONE:07,55-64,0,2024,Tetanus exc.Neo
+ZONE:07,55-64,1,2024,Tetanus exc.Neo
 Kalasin,55-64,0,2024,Tetanus exc.Neo
 Khon Kaen,55-64,0,2024,Tetanus exc.Neo
 Maha Sarakham,55-64,0,2024,Tetanus exc.Neo
-Roi Et,55-64,0,2024,Tetanus exc.Neo
+Roi Et,55-64,1,2024,Tetanus exc.Neo
 ZONE:08,55-64,1,2024,Tetanus exc.Neo
 Bungkan,55-64,0,2024,Tetanus exc.Neo
 Loei,55-64,0,2024,Tetanus exc.Neo
@@ -1426,10 +1426,10 @@ Nong Bua Lam Phu,55-64,0,2024,Tetanus exc.Neo
 Nong Khai,55-64,0,2024,Tetanus exc.Neo
 Sakon Nakhon,55-64,0,2024,Tetanus exc.Neo
 Udon Thani,55-64,0,2024,Tetanus exc.Neo
-ZONE:09,55-64,1,2024,Tetanus exc.Neo
+ZONE:09,55-64,2,2024,Tetanus exc.Neo
 Buri Ram,55-64,1,2024,Tetanus exc.Neo
 Chaiyaphum,55-64,0,2024,Tetanus exc.Neo
-Nakhon Ratchasima,55-64,0,2024,Tetanus exc.Neo
+Nakhon Ratchasima,55-64,1,2024,Tetanus exc.Neo
 Surin,55-64,0,2024,Tetanus exc.Neo
 ZONE:10,55-64,0,2024,Tetanus exc.Neo
 Amnat Charoen,55-64,0,2024,Tetanus exc.Neo
@@ -1455,42 +1455,42 @@ Trang,55-64,0,2024,Tetanus exc.Neo
 Yala,55-64,0,2024,Tetanus exc.Neo
 ZONE:13,55-64,0,2024,Tetanus exc.Neo
 Bangkok,55-64,0,2024,Tetanus exc.Neo
-Total,65+,11,2024,Tetanus exc.Neo
-ZONE:01,65+,1,2024,Tetanus exc.Neo
+Total,65+,19,2024,Tetanus exc.Neo
+ZONE:01,65+,2,2024,Tetanus exc.Neo
 Chiang Mai,65+,0,2024,Tetanus exc.Neo
 Chiang Rai,65+,1,2024,Tetanus exc.Neo
 Lampang,65+,0,2024,Tetanus exc.Neo
 Lamphun,65+,0,2024,Tetanus exc.Neo
 Mae Hong Son,65+,0,2024,Tetanus exc.Neo
-Nan,65+,0,2024,Tetanus exc.Neo
+Nan,65+,1,2024,Tetanus exc.Neo
 Phayao,65+,0,2024,Tetanus exc.Neo
 Phrae,65+,0,2024,Tetanus exc.Neo
-ZONE:02,65+,0,2024,Tetanus exc.Neo
-Phetchabun,65+,0,2024,Tetanus exc.Neo
+ZONE:02,65+,1,2024,Tetanus exc.Neo
+Phetchabun,65+,1,2024,Tetanus exc.Neo
 Phitsanulok,65+,0,2024,Tetanus exc.Neo
 Sukhothai,65+,0,2024,Tetanus exc.Neo
 Tak,65+,0,2024,Tetanus exc.Neo
 Uttaradit,65+,0,2024,Tetanus exc.Neo
-ZONE:03,65+,0,2024,Tetanus exc.Neo
+ZONE:03,65+,1,2024,Tetanus exc.Neo
 Chai Nat,65+,0,2024,Tetanus exc.Neo
 Kamphaeng Phet,65+,0,2024,Tetanus exc.Neo
-Nakhon Sawan,65+,0,2024,Tetanus exc.Neo
+Nakhon Sawan,65+,1,2024,Tetanus exc.Neo
 Phichit,65+,0,2024,Tetanus exc.Neo
 Uthai Thani,65+,0,2024,Tetanus exc.Neo
-ZONE:04,65+,0,2024,Tetanus exc.Neo
+ZONE:04,65+,1,2024,Tetanus exc.Neo
 Ang Thong,65+,0,2024,Tetanus exc.Neo
 Lop Buri,65+,0,2024,Tetanus exc.Neo
 Nakhon Nayok,65+,0,2024,Tetanus exc.Neo
-Nonthaburi,65+,0,2024,Tetanus exc.Neo
+Nonthaburi,65+,1,2024,Tetanus exc.Neo
 P.Nakhon S.Ayutthaya,65+,0,2024,Tetanus exc.Neo
 Pathum Thani,65+,0,2024,Tetanus exc.Neo
 Saraburi,65+,0,2024,Tetanus exc.Neo
 Sing Buri,65+,0,2024,Tetanus exc.Neo
-ZONE:05,65+,0,2024,Tetanus exc.Neo
+ZONE:05,65+,1,2024,Tetanus exc.Neo
 Kanchanaburi,65+,0,2024,Tetanus exc.Neo
 Nakhon Pathom,65+,0,2024,Tetanus exc.Neo
 Phetchaburi,65+,0,2024,Tetanus exc.Neo
-Prachuap Khiri Khan,65+,0,2024,Tetanus exc.Neo
+Prachuap Khiri Khan,65+,1,2024,Tetanus exc.Neo
 Ratchaburi,65+,0,2024,Tetanus exc.Neo
 Samut Sakhon,65+,0,2024,Tetanus exc.Neo
 Samut Songkhram,65+,0,2024,Tetanus exc.Neo
@@ -1509,16 +1509,16 @@ Kalasin,65+,0,2024,Tetanus exc.Neo
 Khon Kaen,65+,0,2024,Tetanus exc.Neo
 Maha Sarakham,65+,0,2024,Tetanus exc.Neo
 Roi Et,65+,0,2024,Tetanus exc.Neo
-ZONE:08,65+,2,2024,Tetanus exc.Neo
+ZONE:08,65+,3,2024,Tetanus exc.Neo
 Bungkan,65+,0,2024,Tetanus exc.Neo
 Loei,65+,0,2024,Tetanus exc.Neo
 Nakhon Phanom,65+,0,2024,Tetanus exc.Neo
 Nong Bua Lam Phu,65+,0,2024,Tetanus exc.Neo
 Nong Khai,65+,0,2024,Tetanus exc.Neo
-Sakon Nakhon,65+,0,2024,Tetanus exc.Neo
+Sakon Nakhon,65+,1,2024,Tetanus exc.Neo
 Udon Thani,65+,2,2024,Tetanus exc.Neo
-ZONE:09,65+,4,2024,Tetanus exc.Neo
-Buri Ram,65+,1,2024,Tetanus exc.Neo
+ZONE:09,65+,5,2024,Tetanus exc.Neo
+Buri Ram,65+,2,2024,Tetanus exc.Neo
 Chaiyaphum,65+,0,2024,Tetanus exc.Neo
 Nakhon Ratchasima,65+,2,2024,Tetanus exc.Neo
 Surin,65+,1,2024,Tetanus exc.Neo
@@ -1544,8 +1544,8 @@ Satun,65+,0,2024,Tetanus exc.Neo
 Songkhla,65+,0,2024,Tetanus exc.Neo
 Trang,65+,0,2024,Tetanus exc.Neo
 Yala,65+,0,2024,Tetanus exc.Neo
-ZONE:13,65+,0,2024,Tetanus exc.Neo
-Bangkok,65+,0,2024,Tetanus exc.Neo
+ZONE:13,65+,1,2024,Tetanus exc.Neo
+Bangkok,65+,1,2024,Tetanus exc.Neo
 Total,Unknown,0,2024,Tetanus exc.Neo
 ZONE:01,Unknown,0,2024,Tetanus exc.Neo
 Chiang Mai,Unknown,0,2024,Tetanus exc.Neo

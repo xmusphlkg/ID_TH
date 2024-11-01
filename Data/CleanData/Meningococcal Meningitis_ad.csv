@@ -13625,7 +13625,7 @@ Satun,Unknown,0,2015,Meningococcal Meningitis
 Songkhla,Unknown,0,2015,Meningococcal Meningitis
 Trang,Unknown,0,2015,Meningococcal Meningitis
 Yala,Unknown,0,2015,Meningococcal Meningitis
-Total,Total,1,2024,Meningococcal Meningitis
+Total,Total,2,2024,Meningococcal Meningitis
 ZONE:01,Total,0,2024,Meningococcal Meningitis
 Chiang Mai,Total,0,2024,Meningococcal Meningitis
 Chiang Rai,Total,0,2024,Meningococcal Meningitis
@@ -13706,9 +13706,9 @@ Phangnga,Total,0,2024,Meningococcal Meningitis
 Phuket,Total,0,2024,Meningococcal Meningitis
 Ranong,Total,0,2024,Meningococcal Meningitis
 Surat Thani,Total,0,2024,Meningococcal Meningitis
-ZONE:12,Total,0,2024,Meningococcal Meningitis
+ZONE:12,Total,1,2024,Meningococcal Meningitis
 Narathiwat,Total,0,2024,Meningococcal Meningitis
-Pattani,Total,0,2024,Meningococcal Meningitis
+Pattani,Total,1,2024,Meningococcal Meningitis
 Phatthalung,Total,0,2024,Meningococcal Meningitis
 Satun,Total,0,2024,Meningococcal Meningitis
 Songkhla,Total,0,2024,Meningococcal Meningitis
@@ -14808,7 +14808,7 @@ Trang,25-34,0,2024,Meningococcal Meningitis
 Yala,25-34,0,2024,Meningococcal Meningitis
 ZONE:13,25-34,0,2024,Meningococcal Meningitis
 Bangkok,25-34,0,2024,Meningococcal Meningitis
-Total,35-44,0,2024,Meningococcal Meningitis
+Total,35-44,1,2024,Meningococcal Meningitis
 ZONE:01,35-44,0,2024,Meningococcal Meningitis
 Chiang Mai,35-44,0,2024,Meningococcal Meningitis
 Chiang Rai,35-44,0,2024,Meningococcal Meningitis
@@ -14889,9 +14889,9 @@ Phangnga,35-44,0,2024,Meningococcal Meningitis
 Phuket,35-44,0,2024,Meningococcal Meningitis
 Ranong,35-44,0,2024,Meningococcal Meningitis
 Surat Thani,35-44,0,2024,Meningococcal Meningitis
-ZONE:12,35-44,0,2024,Meningococcal Meningitis
+ZONE:12,35-44,1,2024,Meningococcal Meningitis
 Narathiwat,35-44,0,2024,Meningococcal Meningitis
-Pattani,35-44,0,2024,Meningococcal Meningitis
+Pattani,35-44,1,2024,Meningococcal Meningitis
 Phatthalung,35-44,0,2024,Meningococcal Meningitis
 Satun,35-44,0,2024,Meningococcal Meningitis
 Songkhla,35-44,0,2024,Meningococcal Meningitis

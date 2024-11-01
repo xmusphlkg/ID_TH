@@ -18863,22 +18863,22 @@ Satun,Unknown,0,2014,Meningococcal Meningitis
 Songkhla,Unknown,0,2014,Meningococcal Meningitis
 Trang,Unknown,0,2014,Meningococcal Meningitis
 Yala,Unknown,0,2014,Meningococcal Meningitis
-Total,Total,7,2024,Meningococcal Meningitis
-ZONE:01,Total,0,2024,Meningococcal Meningitis
+Total,Total,16,2024,Meningococcal Meningitis
+ZONE:01,Total,1,2024,Meningococcal Meningitis
 Chiang Mai,Total,0,2024,Meningococcal Meningitis
 Chiang Rai,Total,0,2024,Meningococcal Meningitis
 Lampang,Total,0,2024,Meningococcal Meningitis
 Lamphun,Total,0,2024,Meningococcal Meningitis
 Mae Hong Son,Total,0,2024,Meningococcal Meningitis
-Nan,Total,0,2024,Meningococcal Meningitis
+Nan,Total,1,2024,Meningococcal Meningitis
 Phayao,Total,0,2024,Meningococcal Meningitis
 Phrae,Total,0,2024,Meningococcal Meningitis
-ZONE:02,Total,0,2024,Meningococcal Meningitis
+ZONE:02,Total,1,2024,Meningococcal Meningitis
 Phetchabun,Total,0,2024,Meningococcal Meningitis
 Phitsanulok,Total,0,2024,Meningococcal Meningitis
 Sukhothai,Total,0,2024,Meningococcal Meningitis
 Tak,Total,0,2024,Meningococcal Meningitis
-Uttaradit,Total,0,2024,Meningococcal Meningitis
+Uttaradit,Total,1,2024,Meningococcal Meningitis
 ZONE:03,Total,0,2024,Meningococcal Meningitis
 Chai Nat,Total,0,2024,Meningococcal Meningitis
 Kamphaeng Phet,Total,0,2024,Meningococcal Meningitis
@@ -18903,18 +18903,18 @@ Ratchaburi,Total,0,2024,Meningococcal Meningitis
 Samut Sakhon,Total,0,2024,Meningococcal Meningitis
 Samut Songkhram,Total,0,2024,Meningococcal Meningitis
 Suphan Buri,Total,0,2024,Meningococcal Meningitis
-ZONE:06,Total,0,2024,Meningococcal Meningitis
+ZONE:06,Total,2,2024,Meningococcal Meningitis
 Chachoengsao,Total,0,2024,Meningococcal Meningitis
 Chanthaburi,Total,0,2024,Meningococcal Meningitis
-Chon Buri,Total,0,2024,Meningococcal Meningitis
+Chon Buri,Total,1,2024,Meningococcal Meningitis
 Prachin Buri,Total,0,2024,Meningococcal Meningitis
-Rayong,Total,0,2024,Meningococcal Meningitis
+Rayong,Total,1,2024,Meningococcal Meningitis
 Sa Kaeo,Total,0,2024,Meningococcal Meningitis
 Samut Prakan,Total,0,2024,Meningococcal Meningitis
 Trat,Total,0,2024,Meningococcal Meningitis
-ZONE:07,Total,0,2024,Meningococcal Meningitis
+ZONE:07,Total,2,2024,Meningococcal Meningitis
 Kalasin,Total,0,2024,Meningococcal Meningitis
-Khon Kaen,Total,0,2024,Meningococcal Meningitis
+Khon Kaen,Total,2,2024,Meningococcal Meningitis
 Maha Sarakham,Total,0,2024,Meningococcal Meningitis
 Roi Et,Total,0,2024,Meningococcal Meningitis
 ZONE:08,Total,0,2024,Meningococcal Meningitis
@@ -18941,20 +18941,20 @@ Chumphon,Total,0,2024,Meningococcal Meningitis
 Krabi,Total,0,2024,Meningococcal Meningitis
 Nakhon Si Thammarat,Total,0,2024,Meningococcal Meningitis
 Phangnga,Total,0,2024,Meningococcal Meningitis
-Phuket,Total,0,2024,Meningococcal Meningitis
+Phuket,Total,1,2024,Meningococcal Meningitis
 Ranong,Total,1,2024,Meningococcal Meningitis
-Surat Thani,Total,1,2024,Meningococcal Meningitis
-ZONE:12,Total,3,2024,Meningococcal Meningitis
+Surat Thani,Total,0,2024,Meningococcal Meningitis
+ZONE:12,Total,6,2024,Meningococcal Meningitis
 Narathiwat,Total,0,2024,Meningococcal Meningitis
-Pattani,Total,1,2024,Meningococcal Meningitis
+Pattani,Total,3,2024,Meningococcal Meningitis
 Phatthalung,Total,0,2024,Meningococcal Meningitis
 Satun,Total,0,2024,Meningococcal Meningitis
-Songkhla,Total,2,2024,Meningococcal Meningitis
+Songkhla,Total,3,2024,Meningococcal Meningitis
 Trang,Total,0,2024,Meningococcal Meningitis
 Yala,Total,0,2024,Meningococcal Meningitis
 ZONE:13,Total,0,2024,Meningococcal Meningitis
 Bangkok,Total,0,2024,Meningococcal Meningitis
-Total,0,1,2024,Meningococcal Meningitis
+Total,0,2,2024,Meningococcal Meningitis
 ZONE:01,0,0,2024,Meningococcal Meningitis
 Chiang Mai,0,0,2024,Meningococcal Meningitis
 Chiang Rai,0,0,2024,Meningococcal Meningitis
@@ -19003,9 +19003,9 @@ Rayong,0,0,2024,Meningococcal Meningitis
 Sa Kaeo,0,0,2024,Meningococcal Meningitis
 Samut Prakan,0,0,2024,Meningococcal Meningitis
 Trat,0,0,2024,Meningococcal Meningitis
-ZONE:07,0,0,2024,Meningococcal Meningitis
+ZONE:07,0,1,2024,Meningococcal Meningitis
 Kalasin,0,0,2024,Meningococcal Meningitis
-Khon Kaen,0,0,2024,Meningococcal Meningitis
+Khon Kaen,0,1,2024,Meningococcal Meningitis
 Maha Sarakham,0,0,2024,Meningococcal Meningitis
 Roi Et,0,0,2024,Meningococcal Meningitis
 ZONE:08,0,0,2024,Meningococcal Meningitis
@@ -19409,7 +19409,7 @@ Trang,3-3,0,2024,Meningococcal Meningitis
 Yala,3-3,0,2024,Meningococcal Meningitis
 ZONE:13,3-3,0,2024,Meningococcal Meningitis
 Bangkok,3-3,0,2024,Meningococcal Meningitis
-Total,4-4,0,2024,Meningococcal Meningitis
+Total,4-4,1,2024,Meningococcal Meningitis
 ZONE:01,4-4,0,2024,Meningococcal Meningitis
 Chiang Mai,4-4,0,2024,Meningococcal Meningitis
 Chiang Rai,4-4,0,2024,Meningococcal Meningitis
@@ -19490,9 +19490,9 @@ Phangnga,4-4,0,2024,Meningococcal Meningitis
 Phuket,4-4,0,2024,Meningococcal Meningitis
 Ranong,4-4,0,2024,Meningococcal Meningitis
 Surat Thani,4-4,0,2024,Meningococcal Meningitis
-ZONE:12,4-4,0,2024,Meningococcal Meningitis
+ZONE:12,4-4,1,2024,Meningococcal Meningitis
 Narathiwat,4-4,0,2024,Meningococcal Meningitis
-Pattani,4-4,0,2024,Meningococcal Meningitis
+Pattani,4-4,1,2024,Meningococcal Meningitis
 Phatthalung,4-4,0,2024,Meningococcal Meningitis
 Satun,4-4,0,2024,Meningococcal Meningitis
 Songkhla,4-4,0,2024,Meningococcal Meningitis
@@ -19955,7 +19955,7 @@ Trang,15-24,0,2024,Meningococcal Meningitis
 Yala,15-24,0,2024,Meningococcal Meningitis
 ZONE:13,15-24,0,2024,Meningococcal Meningitis
 Bangkok,15-24,0,2024,Meningococcal Meningitis
-Total,25-34,0,2024,Meningococcal Meningitis
+Total,25-34,3,2024,Meningococcal Meningitis
 ZONE:01,25-34,0,2024,Meningococcal Meningitis
 Chiang Mai,25-34,0,2024,Meningococcal Meningitis
 Chiang Rai,25-34,0,2024,Meningococcal Meningitis
@@ -19995,12 +19995,12 @@ Ratchaburi,25-34,0,2024,Meningococcal Meningitis
 Samut Sakhon,25-34,0,2024,Meningococcal Meningitis
 Samut Songkhram,25-34,0,2024,Meningococcal Meningitis
 Suphan Buri,25-34,0,2024,Meningococcal Meningitis
-ZONE:06,25-34,0,2024,Meningococcal Meningitis
+ZONE:06,25-34,1,2024,Meningococcal Meningitis
 Chachoengsao,25-34,0,2024,Meningococcal Meningitis
 Chanthaburi,25-34,0,2024,Meningococcal Meningitis
 Chon Buri,25-34,0,2024,Meningococcal Meningitis
 Prachin Buri,25-34,0,2024,Meningococcal Meningitis
-Rayong,25-34,0,2024,Meningococcal Meningitis
+Rayong,25-34,1,2024,Meningococcal Meningitis
 Sa Kaeo,25-34,0,2024,Meningococcal Meningitis
 Samut Prakan,25-34,0,2024,Meningococcal Meningitis
 Trat,25-34,0,2024,Meningococcal Meningitis
@@ -20028,25 +20028,25 @@ Mukdahan,25-34,0,2024,Meningococcal Meningitis
 Si Sa Ket,25-34,0,2024,Meningococcal Meningitis
 Ubon Ratchathani,25-34,0,2024,Meningococcal Meningitis
 Yasothon,25-34,0,2024,Meningococcal Meningitis
-ZONE:11,25-34,0,2024,Meningococcal Meningitis
+ZONE:11,25-34,1,2024,Meningococcal Meningitis
 Chumphon,25-34,0,2024,Meningococcal Meningitis
 Krabi,25-34,0,2024,Meningococcal Meningitis
 Nakhon Si Thammarat,25-34,0,2024,Meningococcal Meningitis
 Phangnga,25-34,0,2024,Meningococcal Meningitis
-Phuket,25-34,0,2024,Meningococcal Meningitis
+Phuket,25-34,1,2024,Meningococcal Meningitis
 Ranong,25-34,0,2024,Meningococcal Meningitis
 Surat Thani,25-34,0,2024,Meningococcal Meningitis
-ZONE:12,25-34,0,2024,Meningococcal Meningitis
+ZONE:12,25-34,1,2024,Meningococcal Meningitis
 Narathiwat,25-34,0,2024,Meningococcal Meningitis
 Pattani,25-34,0,2024,Meningococcal Meningitis
 Phatthalung,25-34,0,2024,Meningococcal Meningitis
 Satun,25-34,0,2024,Meningococcal Meningitis
-Songkhla,25-34,0,2024,Meningococcal Meningitis
+Songkhla,25-34,1,2024,Meningococcal Meningitis
 Trang,25-34,0,2024,Meningococcal Meningitis
 Yala,25-34,0,2024,Meningococcal Meningitis
 ZONE:13,25-34,0,2024,Meningococcal Meningitis
 Bangkok,25-34,0,2024,Meningococcal Meningitis
-Total,35-44,1,2024,Meningococcal Meningitis
+Total,35-44,2,2024,Meningococcal Meningitis
 ZONE:01,35-44,0,2024,Meningococcal Meningitis
 Chiang Mai,35-44,0,2024,Meningococcal Meningitis
 Chiang Rai,35-44,0,2024,Meningococcal Meningitis
@@ -20127,9 +20127,9 @@ Phangnga,35-44,0,2024,Meningococcal Meningitis
 Phuket,35-44,0,2024,Meningococcal Meningitis
 Ranong,35-44,0,2024,Meningococcal Meningitis
 Surat Thani,35-44,0,2024,Meningococcal Meningitis
-ZONE:12,35-44,1,2024,Meningococcal Meningitis
+ZONE:12,35-44,2,2024,Meningococcal Meningitis
 Narathiwat,35-44,0,2024,Meningococcal Meningitis
-Pattani,35-44,0,2024,Meningococcal Meningitis
+Pattani,35-44,1,2024,Meningococcal Meningitis
 Phatthalung,35-44,0,2024,Meningococcal Meningitis
 Satun,35-44,0,2024,Meningococcal Meningitis
 Songkhla,35-44,1,2024,Meningococcal Meningitis
@@ -20228,14 +20228,14 @@ Trang,45-54,0,2024,Meningococcal Meningitis
 Yala,45-54,0,2024,Meningococcal Meningitis
 ZONE:13,45-54,0,2024,Meningococcal Meningitis
 Bangkok,45-54,0,2024,Meningococcal Meningitis
-Total,55-64,1,2024,Meningococcal Meningitis
-ZONE:01,55-64,0,2024,Meningococcal Meningitis
+Total,55-64,2,2024,Meningococcal Meningitis
+ZONE:01,55-64,1,2024,Meningococcal Meningitis
 Chiang Mai,55-64,0,2024,Meningococcal Meningitis
 Chiang Rai,55-64,0,2024,Meningococcal Meningitis
 Lampang,55-64,0,2024,Meningococcal Meningitis
 Lamphun,55-64,0,2024,Meningococcal Meningitis
 Mae Hong Son,55-64,0,2024,Meningococcal Meningitis
-Nan,55-64,0,2024,Meningococcal Meningitis
+Nan,55-64,1,2024,Meningococcal Meningitis
 Phayao,55-64,0,2024,Meningococcal Meningitis
 Phrae,55-64,0,2024,Meningococcal Meningitis
 ZONE:02,55-64,0,2024,Meningococcal Meningitis
@@ -20268,10 +20268,10 @@ Ratchaburi,55-64,0,2024,Meningococcal Meningitis
 Samut Sakhon,55-64,0,2024,Meningococcal Meningitis
 Samut Songkhram,55-64,0,2024,Meningococcal Meningitis
 Suphan Buri,55-64,0,2024,Meningococcal Meningitis
-ZONE:06,55-64,0,2024,Meningococcal Meningitis
+ZONE:06,55-64,1,2024,Meningococcal Meningitis
 Chachoengsao,55-64,0,2024,Meningococcal Meningitis
 Chanthaburi,55-64,0,2024,Meningococcal Meningitis
-Chon Buri,55-64,0,2024,Meningococcal Meningitis
+Chon Buri,55-64,1,2024,Meningococcal Meningitis
 Prachin Buri,55-64,0,2024,Meningococcal Meningitis
 Rayong,55-64,0,2024,Meningococcal Meningitis
 Sa Kaeo,55-64,0,2024,Meningococcal Meningitis
@@ -20301,14 +20301,14 @@ Mukdahan,55-64,0,2024,Meningococcal Meningitis
 Si Sa Ket,55-64,0,2024,Meningococcal Meningitis
 Ubon Ratchathani,55-64,0,2024,Meningococcal Meningitis
 Yasothon,55-64,0,2024,Meningococcal Meningitis
-ZONE:11,55-64,1,2024,Meningococcal Meningitis
+ZONE:11,55-64,0,2024,Meningococcal Meningitis
 Chumphon,55-64,0,2024,Meningococcal Meningitis
 Krabi,55-64,0,2024,Meningococcal Meningitis
 Nakhon Si Thammarat,55-64,0,2024,Meningococcal Meningitis
 Phangnga,55-64,0,2024,Meningococcal Meningitis
 Phuket,55-64,0,2024,Meningococcal Meningitis
 Ranong,55-64,0,2024,Meningococcal Meningitis
-Surat Thani,55-64,1,2024,Meningococcal Meningitis
+Surat Thani,55-64,0,2024,Meningococcal Meningitis
 ZONE:12,55-64,0,2024,Meningococcal Meningitis
 Narathiwat,55-64,0,2024,Meningococcal Meningitis
 Pattani,55-64,0,2024,Meningococcal Meningitis
@@ -20319,7 +20319,7 @@ Trang,55-64,0,2024,Meningococcal Meningitis
 Yala,55-64,0,2024,Meningococcal Meningitis
 ZONE:13,55-64,0,2024,Meningococcal Meningitis
 Bangkok,55-64,0,2024,Meningococcal Meningitis
-Total,65+,1,2024,Meningococcal Meningitis
+Total,65+,3,2024,Meningococcal Meningitis
 ZONE:01,65+,0,2024,Meningococcal Meningitis
 Chiang Mai,65+,0,2024,Meningococcal Meningitis
 Chiang Rai,65+,0,2024,Meningococcal Meningitis
@@ -20329,12 +20329,12 @@ Mae Hong Son,65+,0,2024,Meningococcal Meningitis
 Nan,65+,0,2024,Meningococcal Meningitis
 Phayao,65+,0,2024,Meningococcal Meningitis
 Phrae,65+,0,2024,Meningococcal Meningitis
-ZONE:02,65+,0,2024,Meningococcal Meningitis
+ZONE:02,65+,1,2024,Meningococcal Meningitis
 Phetchabun,65+,0,2024,Meningococcal Meningitis
 Phitsanulok,65+,0,2024,Meningococcal Meningitis
 Sukhothai,65+,0,2024,Meningococcal Meningitis
 Tak,65+,0,2024,Meningococcal Meningitis
-Uttaradit,65+,0,2024,Meningococcal Meningitis
+Uttaradit,65+,1,2024,Meningococcal Meningitis
 ZONE:03,65+,0,2024,Meningococcal Meningitis
 Chai Nat,65+,0,2024,Meningococcal Meningitis
 Kamphaeng Phet,65+,0,2024,Meningococcal Meningitis
@@ -20368,9 +20368,9 @@ Rayong,65+,0,2024,Meningococcal Meningitis
 Sa Kaeo,65+,0,2024,Meningococcal Meningitis
 Samut Prakan,65+,0,2024,Meningococcal Meningitis
 Trat,65+,0,2024,Meningococcal Meningitis
-ZONE:07,65+,0,2024,Meningococcal Meningitis
+ZONE:07,65+,1,2024,Meningococcal Meningitis
 Kalasin,65+,0,2024,Meningococcal Meningitis
-Khon Kaen,65+,0,2024,Meningococcal Meningitis
+Khon Kaen,65+,1,2024,Meningococcal Meningitis
 Maha Sarakham,65+,0,2024,Meningococcal Meningitis
 Roi Et,65+,0,2024,Meningococcal Meningitis
 ZONE:08,65+,0,2024,Meningococcal Meningitis

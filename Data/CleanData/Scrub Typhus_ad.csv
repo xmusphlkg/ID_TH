@@ -30797,7 +30797,7 @@ Kamphaeng Phet,Unknown,0,2013,Scrub Typhus
 Nakhon Sawan,Unknown,0,2013,Scrub Typhus
 Phichit,Unknown,0,2013,Scrub Typhus
 Uthai Thani,Unknown,0,2013,Scrub Typhus
-Total,Total,0,2024,Scrub Typhus
+Total,Total,5,2024,Scrub Typhus
 ZONE:01,Total,0,2024,Scrub Typhus
 Chiang Mai,Total,0,2024,Scrub Typhus
 Chiang Rai,Total,0,2024,Scrub Typhus
@@ -30851,23 +30851,23 @@ Kalasin,Total,0,2024,Scrub Typhus
 Khon Kaen,Total,0,2024,Scrub Typhus
 Maha Sarakham,Total,0,2024,Scrub Typhus
 Roi Et,Total,0,2024,Scrub Typhus
-ZONE:08,Total,0,2024,Scrub Typhus
-Bungkan,Total,0,2024,Scrub Typhus
+ZONE:08,Total,1,2024,Scrub Typhus
+Bungkan,Total,1,2024,Scrub Typhus
 Loei,Total,0,2024,Scrub Typhus
 Nakhon Phanom,Total,0,2024,Scrub Typhus
 Nong Bua Lam Phu,Total,0,2024,Scrub Typhus
 Nong Khai,Total,0,2024,Scrub Typhus
 Sakon Nakhon,Total,0,2024,Scrub Typhus
 Udon Thani,Total,0,2024,Scrub Typhus
-ZONE:09,Total,0,2024,Scrub Typhus
+ZONE:09,Total,3,2024,Scrub Typhus
 Buri Ram,Total,0,2024,Scrub Typhus
 Chaiyaphum,Total,0,2024,Scrub Typhus
-Nakhon Ratchasima,Total,0,2024,Scrub Typhus
-Surin,Total,0,2024,Scrub Typhus
-ZONE:10,Total,0,2024,Scrub Typhus
+Nakhon Ratchasima,Total,2,2024,Scrub Typhus
+Surin,Total,1,2024,Scrub Typhus
+ZONE:10,Total,1,2024,Scrub Typhus
 Amnat Charoen,Total,0,2024,Scrub Typhus
 Mukdahan,Total,0,2024,Scrub Typhus
-Si Sa Ket,Total,0,2024,Scrub Typhus
+Si Sa Ket,Total,1,2024,Scrub Typhus
 Ubon Ratchathani,Total,0,2024,Scrub Typhus
 Yasothon,Total,0,2024,Scrub Typhus
 ZONE:11,Total,0,2024,Scrub Typhus
@@ -32162,7 +32162,7 @@ Trang,45-54,0,2024,Scrub Typhus
 Yala,45-54,0,2024,Scrub Typhus
 ZONE:13,45-54,0,2024,Scrub Typhus
 Bangkok,45-54,0,2024,Scrub Typhus
-Total,55-64,0,2024,Scrub Typhus
+Total,55-64,3,2024,Scrub Typhus
 ZONE:01,55-64,0,2024,Scrub Typhus
 Chiang Mai,55-64,0,2024,Scrub Typhus
 Chiang Rai,55-64,0,2024,Scrub Typhus
@@ -32216,23 +32216,23 @@ Kalasin,55-64,0,2024,Scrub Typhus
 Khon Kaen,55-64,0,2024,Scrub Typhus
 Maha Sarakham,55-64,0,2024,Scrub Typhus
 Roi Et,55-64,0,2024,Scrub Typhus
-ZONE:08,55-64,0,2024,Scrub Typhus
-Bungkan,55-64,0,2024,Scrub Typhus
+ZONE:08,55-64,1,2024,Scrub Typhus
+Bungkan,55-64,1,2024,Scrub Typhus
 Loei,55-64,0,2024,Scrub Typhus
 Nakhon Phanom,55-64,0,2024,Scrub Typhus
 Nong Bua Lam Phu,55-64,0,2024,Scrub Typhus
 Nong Khai,55-64,0,2024,Scrub Typhus
 Sakon Nakhon,55-64,0,2024,Scrub Typhus
 Udon Thani,55-64,0,2024,Scrub Typhus
-ZONE:09,55-64,0,2024,Scrub Typhus
+ZONE:09,55-64,1,2024,Scrub Typhus
 Buri Ram,55-64,0,2024,Scrub Typhus
 Chaiyaphum,55-64,0,2024,Scrub Typhus
 Nakhon Ratchasima,55-64,0,2024,Scrub Typhus
-Surin,55-64,0,2024,Scrub Typhus
-ZONE:10,55-64,0,2024,Scrub Typhus
+Surin,55-64,1,2024,Scrub Typhus
+ZONE:10,55-64,1,2024,Scrub Typhus
 Amnat Charoen,55-64,0,2024,Scrub Typhus
 Mukdahan,55-64,0,2024,Scrub Typhus
-Si Sa Ket,55-64,0,2024,Scrub Typhus
+Si Sa Ket,55-64,1,2024,Scrub Typhus
 Ubon Ratchathani,55-64,0,2024,Scrub Typhus
 Yasothon,55-64,0,2024,Scrub Typhus
 ZONE:11,55-64,0,2024,Scrub Typhus
@@ -32253,7 +32253,7 @@ Trang,55-64,0,2024,Scrub Typhus
 Yala,55-64,0,2024,Scrub Typhus
 ZONE:13,55-64,0,2024,Scrub Typhus
 Bangkok,55-64,0,2024,Scrub Typhus
-Total,65+,0,2024,Scrub Typhus
+Total,65+,2,2024,Scrub Typhus
 ZONE:01,65+,0,2024,Scrub Typhus
 Chiang Mai,65+,0,2024,Scrub Typhus
 Chiang Rai,65+,0,2024,Scrub Typhus
@@ -32315,10 +32315,10 @@ Nong Bua Lam Phu,65+,0,2024,Scrub Typhus
 Nong Khai,65+,0,2024,Scrub Typhus
 Sakon Nakhon,65+,0,2024,Scrub Typhus
 Udon Thani,65+,0,2024,Scrub Typhus
-ZONE:09,65+,0,2024,Scrub Typhus
+ZONE:09,65+,2,2024,Scrub Typhus
 Buri Ram,65+,0,2024,Scrub Typhus
 Chaiyaphum,65+,0,2024,Scrub Typhus
-Nakhon Ratchasima,65+,0,2024,Scrub Typhus
+Nakhon Ratchasima,65+,2,2024,Scrub Typhus
 Surin,65+,0,2024,Scrub Typhus
 ZONE:10,65+,0,2024,Scrub Typhus
 Amnat Charoen,65+,0,2024,Scrub Typhus

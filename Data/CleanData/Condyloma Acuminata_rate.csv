@@ -1,95 +1,95 @@
 Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
-Total,4408,6.67,0,0.00,0.00,66071545,2024,Condyloma Acuminata
-ZONE:01,364,6.21,0,0.00,0.00,5857413,2024,Condyloma Acuminata
-Chiang Mai,89,4.96,0,0.00,0.00,1794774,2024,Condyloma Acuminata
-Chiang Rai,58,4.46,0,0.00,0.00,1299306,2024,Condyloma Acuminata
-Lampang,76,10.63,0,0.00,0.00,715133,2024,Condyloma Acuminata
-Lamphun,24,6.02,0,0.00,0.00,398998,2024,Condyloma Acuminata
-Mae Hong Son,29,10.10,0,0.00,0.00,287215,2024,Condyloma Acuminata
-Nan,33,6.97,0,0.00,0.00,473630,2024,Condyloma Acuminata
-Phayao,34,7.39,0,0.00,0.00,459858,2024,Condyloma Acuminata
-Phrae,21,4.90,0,0.00,0.00,428499,2024,Condyloma Acuminata
-ZONE:02,195,5.54,0,0.00,0.00,3522489,2024,Condyloma Acuminata
-Phetchabun,44,4.53,0,0.00,0.00,970403,2024,Condyloma Acuminata
-Phitsanulok,83,9.84,0,0.00,0.00,843111,2024,Condyloma Acuminata
-Sukhothai,13,2.24,0,0.00,0.00,579759,2024,Condyloma Acuminata
-Tak,42,6.11,0,0.00,0.00,687927,2024,Condyloma Acuminata
-Uttaradit,13,2.95,0,0.00,0.00,441289,2024,Condyloma Acuminata
-ZONE:03,117,4.04,0,0.00,0.00,2896463,2024,Condyloma Acuminata
-Chai Nat,16,5.04,0,0.00,0.00,317263,2024,Condyloma Acuminata
-Kamphaeng Phet,28,3.96,0,0.00,0.00,706861,2024,Condyloma Acuminata
-Nakhon Sawan,30,2.93,0,0.00,0.00,1025348,2024,Condyloma Acuminata
-Phichit,27,5.15,0,0.00,0.00,523925,2024,Condyloma Acuminata
-Uthai Thani,16,4.95,0,0.00,0.00,323066,2024,Condyloma Acuminata
-ZONE:04,385,7.08,0,0.00,0.00,5438863,2024,Condyloma Acuminata
-Ang Thong,7,2.58,0,0.00,0.00,271656,2024,Condyloma Acuminata
-Lop Buri,76,10.38,0,0.00,0.00,732495,2024,Condyloma Acuminata
-Nakhon Nayok,12,4.61,0,0.00,0.00,260261,2024,Condyloma Acuminata
-Nonthaburi,66,5.07,0,0.00,0.00,1302004,2024,Condyloma Acuminata
-P.Nakhon S.Ayutthaya,33,4.02,0,0.00,0.00,821261,2024,Condyloma Acuminata
-Pathum Thani,120,9.91,0,0.00,0.00,1210365,2024,Condyloma Acuminata
-Saraburi,48,7.52,0,0.00,0.00,638704,2024,Condyloma Acuminata
-Sing Buri,23,11.38,0,0.00,0.00,202117,2024,Condyloma Acuminata
-ZONE:05,239,4.49,0,0.00,0.00,5326695,2024,Condyloma Acuminata
-Kanchanaburi,41,4.58,0,0.00,0.00,894781,2024,Condyloma Acuminata
-Nakhon Pathom,45,4.87,0,0.00,0.00,923201,2024,Condyloma Acuminata
-Phetchaburi,15,3.10,0,0.00,0.00,483305,2024,Condyloma Acuminata
-Prachuap Khiri Khan,21,3.80,0,0.00,0.00,552137,2024,Condyloma Acuminata
-Ratchaburi,40,4.62,0,0.00,0.00,865276,2024,Condyloma Acuminata
-Samut Sakhon,54,9.14,0,0.00,0.00,590730,2024,Condyloma Acuminata
-Samut Songkhram,17,9.01,0,0.00,0.00,188723,2024,Condyloma Acuminata
-Suphan Buri,6,0.72,0,0.00,0.00,828542,2024,Condyloma Acuminata
-ZONE:06,575,9.14,0,0.00,0.00,6292163,2024,Condyloma Acuminata
-Chachoengsao,42,5.76,0,0.00,0.00,728615,2024,Condyloma Acuminata
-Chanthaburi,55,10.26,0,0.00,0.00,536290,2024,Condyloma Acuminata
-Chon Buri,260,16.19,0,0.00,0.00,1606412,2024,Condyloma Acuminata
-Prachin Buri,14,2.81,0,0.00,0.00,498671,2024,Condyloma Acuminata
-Rayong,46,6.01,0,0.00,0.00,765287,2024,Condyloma Acuminata
-Sa Kaeo,33,5.86,0,0.00,0.00,562860,2024,Condyloma Acuminata
-Samut Prakan,113,8.27,0,0.00,0.00,1366598,2024,Condyloma Acuminata
-Trat,12,5.28,0,0.00,0.00,227430,2024,Condyloma Acuminata
-ZONE:07,201,4.04,0,0.00,0.00,4981337,2024,Condyloma Acuminata
-Kalasin,41,4.23,0,0.00,0.00,970084,2024,Condyloma Acuminata
-Khon Kaen,70,3.93,0,0.00,0.00,1782008,2024,Condyloma Acuminata
-Maha Sarakham,24,2.55,0,0.00,0.00,941261,2024,Condyloma Acuminata
-Roi Et,66,5.12,0,0.00,0.00,1287984,2024,Condyloma Acuminata
-ZONE:08,231,4.20,0,0.00,0.00,5500012,2024,Condyloma Acuminata
-Bungkan,14,3.32,0,0.00,0.00,421086,2024,Condyloma Acuminata
-Loei,37,5.82,0,0.00,0.00,636242,2024,Condyloma Acuminata
-Nakhon Phanom,41,5.73,0,0.00,0.00,715466,2024,Condyloma Acuminata
-Nong Bua Lam Phu,16,3.15,0,0.00,0.00,507599,2024,Condyloma Acuminata
-Nong Khai,29,5.63,0,0.00,0.00,514909,2024,Condyloma Acuminata
-Sakon Nakhon,31,2.71,0,0.00,0.00,1143922,2024,Condyloma Acuminata
-Udon Thani,63,4.04,0,0.00,0.00,1560788,2024,Condyloma Acuminata
-ZONE:09,266,3.98,0,0.00,0.00,6689028,2024,Condyloma Acuminata
-Buri Ram,47,2.98,0,0.00,0.00,1575073,2024,Condyloma Acuminata
-Chaiyaphum,25,2.24,0,0.00,0.00,1115652,2024,Condyloma Acuminata
-Nakhon Ratchasima,134,5.10,0,0.00,0.00,2627927,2024,Condyloma Acuminata
-Surin,60,4.38,0,0.00,0.00,1370376,2024,Condyloma Acuminata
-ZONE:10,170,3.71,0,0.00,0.00,4578831,2024,Condyloma Acuminata
-Amnat Charoen,19,5.07,0,0.00,0.00,374760,2024,Condyloma Acuminata
-Mukdahan,3,0.85,0,0.00,0.00,351592,2024,Condyloma Acuminata
-Si Sa Ket,41,2.82,0,0.00,0.00,1452532,2024,Condyloma Acuminata
-Ubon Ratchathani,84,4.49,0,0.00,0.00,1869708,2024,Condyloma Acuminata
-Yasothon,23,4.34,0,0.00,0.00,530239,2024,Condyloma Acuminata
-ZONE:11,356,7.93,0,0.00,0.00,4489783,2024,Condyloma Acuminata
-Chumphon,15,2.95,0,0.00,0.00,509122,2024,Condyloma Acuminata
-Krabi,19,3.95,0,0.00,0.00,481089,2024,Condyloma Acuminata
-Nakhon Si Thammarat,65,4.21,0,0.00,0.00,1543051,2024,Condyloma Acuminata
-Phangnga,7,2.62,0,0.00,0.00,267250,2024,Condyloma Acuminata
-Phuket,181,43.02,0,0.00,0.00,420746,2024,Condyloma Acuminata
-Ranong,5,2.58,0,0.00,0.00,193799,2024,Condyloma Acuminata
-Surat Thani,64,5.96,0,0.00,0.00,1074726,2024,Condyloma Acuminata
-ZONE:12,244,4.87,0,0.00,0.00,5015209,2024,Condyloma Acuminata
-Narathiwat,5,0.61,0,0.00,0.00,816642,2024,Condyloma Acuminata
-Pattani,10,1.36,0,0.00,0.00,735017,2024,Condyloma Acuminata
-Phatthalung,19,3.65,0,0.00,0.00,521109,2024,Condyloma Acuminata
-Satun,8,2.46,0,0.00,0.00,325387,2024,Condyloma Acuminata
-Songkhla,160,11.18,0,0.00,0.00,1431512,2024,Condyloma Acuminata
-Trang,21,3.29,0,0.00,0.00,637612,2024,Condyloma Acuminata
-Yala,21,3.83,0,0.00,0.00,547930,2024,Condyloma Acuminata
-ZONE:13,1065,19.42,0,0.00,0.00,5483259,2024,Condyloma Acuminata
-Bangkok,1065,19.42,0,0.00,0.00,5483259,2024,Condyloma Acuminata
+Total,7853,11.89,0,0.00,0.00,66071545,2024,Condyloma Acuminata
+ZONE:01,620,10.58,0,0.00,0.00,5857413,2024,Condyloma Acuminata
+Chiang Mai,132,7.35,0,0.00,0.00,1794774,2024,Condyloma Acuminata
+Chiang Rai,120,9.24,0,0.00,0.00,1299306,2024,Condyloma Acuminata
+Lampang,126,17.62,0,0.00,0.00,715133,2024,Condyloma Acuminata
+Lamphun,35,8.77,0,0.00,0.00,398998,2024,Condyloma Acuminata
+Mae Hong Son,39,13.58,0,0.00,0.00,287215,2024,Condyloma Acuminata
+Nan,66,13.93,0,0.00,0.00,473630,2024,Condyloma Acuminata
+Phayao,65,14.13,0,0.00,0.00,459858,2024,Condyloma Acuminata
+Phrae,37,8.63,0,0.00,0.00,428499,2024,Condyloma Acuminata
+ZONE:02,348,9.88,0,0.00,0.00,3522489,2024,Condyloma Acuminata
+Phetchabun,96,9.89,0,0.00,0.00,970403,2024,Condyloma Acuminata
+Phitsanulok,142,16.84,0,0.00,0.00,843111,2024,Condyloma Acuminata
+Sukhothai,26,4.48,0,0.00,0.00,579759,2024,Condyloma Acuminata
+Tak,64,9.30,0,0.00,0.00,687927,2024,Condyloma Acuminata
+Uttaradit,20,4.53,0,0.00,0.00,441289,2024,Condyloma Acuminata
+ZONE:03,186,6.42,0,0.00,0.00,2896463,2024,Condyloma Acuminata
+Chai Nat,26,8.20,0,0.00,0.00,317263,2024,Condyloma Acuminata
+Kamphaeng Phet,50,7.07,0,0.00,0.00,706861,2024,Condyloma Acuminata
+Nakhon Sawan,51,4.97,0,0.00,0.00,1025348,2024,Condyloma Acuminata
+Phichit,36,6.87,0,0.00,0.00,523925,2024,Condyloma Acuminata
+Uthai Thani,23,7.12,0,0.00,0.00,323066,2024,Condyloma Acuminata
+ZONE:04,705,12.96,0,0.00,0.00,5438863,2024,Condyloma Acuminata
+Ang Thong,16,5.89,0,0.00,0.00,271656,2024,Condyloma Acuminata
+Lop Buri,123,16.79,0,0.00,0.00,732495,2024,Condyloma Acuminata
+Nakhon Nayok,19,7.30,0,0.00,0.00,260261,2024,Condyloma Acuminata
+Nonthaburi,152,11.67,0,0.00,0.00,1302004,2024,Condyloma Acuminata
+P.Nakhon S.Ayutthaya,49,5.97,0,0.00,0.00,821261,2024,Condyloma Acuminata
+Pathum Thani,230,19.00,0,0.00,0.00,1210365,2024,Condyloma Acuminata
+Saraburi,84,13.15,0,0.00,0.00,638704,2024,Condyloma Acuminata
+Sing Buri,32,15.83,0,0.00,0.00,202117,2024,Condyloma Acuminata
+ZONE:05,430,8.07,0,0.00,0.00,5326695,2024,Condyloma Acuminata
+Kanchanaburi,75,8.38,0,0.00,0.00,894781,2024,Condyloma Acuminata
+Nakhon Pathom,79,8.56,0,0.00,0.00,923201,2024,Condyloma Acuminata
+Phetchaburi,25,5.17,0,0.00,0.00,483305,2024,Condyloma Acuminata
+Prachuap Khiri Khan,43,7.79,0,0.00,0.00,552137,2024,Condyloma Acuminata
+Ratchaburi,54,6.24,0,0.00,0.00,865276,2024,Condyloma Acuminata
+Samut Sakhon,102,17.27,0,0.00,0.00,590730,2024,Condyloma Acuminata
+Samut Songkhram,27,14.31,0,0.00,0.00,188723,2024,Condyloma Acuminata
+Suphan Buri,25,3.02,0,0.00,0.00,828542,2024,Condyloma Acuminata
+ZONE:06,1043,16.58,0,0.00,0.00,6292163,2024,Condyloma Acuminata
+Chachoengsao,71,9.74,0,0.00,0.00,728615,2024,Condyloma Acuminata
+Chanthaburi,79,14.73,0,0.00,0.00,536290,2024,Condyloma Acuminata
+Chon Buri,497,30.94,0,0.00,0.00,1606412,2024,Condyloma Acuminata
+Prachin Buri,39,7.82,0,0.00,0.00,498671,2024,Condyloma Acuminata
+Rayong,84,10.98,0,0.00,0.00,765287,2024,Condyloma Acuminata
+Sa Kaeo,53,9.42,0,0.00,0.00,562860,2024,Condyloma Acuminata
+Samut Prakan,195,14.27,0,0.00,0.00,1366598,2024,Condyloma Acuminata
+Trat,25,10.99,0,0.00,0.00,227430,2024,Condyloma Acuminata
+ZONE:07,326,6.54,0,0.00,0.00,4981337,2024,Condyloma Acuminata
+Kalasin,75,7.73,0,0.00,0.00,970084,2024,Condyloma Acuminata
+Khon Kaen,112,6.29,0,0.00,0.00,1782008,2024,Condyloma Acuminata
+Maha Sarakham,42,4.46,0,0.00,0.00,941261,2024,Condyloma Acuminata
+Roi Et,97,7.53,0,0.00,0.00,1287984,2024,Condyloma Acuminata
+ZONE:08,432,7.85,0,0.00,0.00,5500012,2024,Condyloma Acuminata
+Bungkan,28,6.65,0,0.00,0.00,421086,2024,Condyloma Acuminata
+Loei,58,9.12,0,0.00,0.00,636242,2024,Condyloma Acuminata
+Nakhon Phanom,74,10.34,0,0.00,0.00,715466,2024,Condyloma Acuminata
+Nong Bua Lam Phu,24,4.73,0,0.00,0.00,507599,2024,Condyloma Acuminata
+Nong Khai,48,9.32,0,0.00,0.00,514909,2024,Condyloma Acuminata
+Sakon Nakhon,66,5.77,0,0.00,0.00,1143922,2024,Condyloma Acuminata
+Udon Thani,134,8.59,0,0.00,0.00,1560788,2024,Condyloma Acuminata
+ZONE:09,482,7.21,0,0.00,0.00,6689028,2024,Condyloma Acuminata
+Buri Ram,87,5.52,0,0.00,0.00,1575073,2024,Condyloma Acuminata
+Chaiyaphum,49,4.39,0,0.00,0.00,1115652,2024,Condyloma Acuminata
+Nakhon Ratchasima,247,9.40,0,0.00,0.00,2627927,2024,Condyloma Acuminata
+Surin,99,7.22,0,0.00,0.00,1370376,2024,Condyloma Acuminata
+ZONE:10,303,6.62,0,0.00,0.00,4578831,2024,Condyloma Acuminata
+Amnat Charoen,26,6.94,0,0.00,0.00,374760,2024,Condyloma Acuminata
+Mukdahan,11,3.13,0,0.00,0.00,351592,2024,Condyloma Acuminata
+Si Sa Ket,73,5.03,0,0.00,0.00,1452532,2024,Condyloma Acuminata
+Ubon Ratchathani,159,8.50,0,0.00,0.00,1869708,2024,Condyloma Acuminata
+Yasothon,34,6.41,0,0.00,0.00,530239,2024,Condyloma Acuminata
+ZONE:11,613,13.65,0,0.00,0.00,4489783,2024,Condyloma Acuminata
+Chumphon,34,6.68,0,0.00,0.00,509122,2024,Condyloma Acuminata
+Krabi,42,8.73,0,0.00,0.00,481089,2024,Condyloma Acuminata
+Nakhon Si Thammarat,100,6.48,0,0.00,0.00,1543051,2024,Condyloma Acuminata
+Phangnga,15,5.61,0,0.00,0.00,267250,2024,Condyloma Acuminata
+Phuket,292,69.40,0,0.00,0.00,420746,2024,Condyloma Acuminata
+Ranong,16,8.26,0,0.00,0.00,193799,2024,Condyloma Acuminata
+Surat Thani,114,10.61,0,0.00,0.00,1074726,2024,Condyloma Acuminata
+ZONE:12,399,7.96,0,0.00,0.00,5015209,2024,Condyloma Acuminata
+Narathiwat,9,1.10,0,0.00,0.00,816642,2024,Condyloma Acuminata
+Pattani,16,2.18,0,0.00,0.00,735017,2024,Condyloma Acuminata
+Phatthalung,37,7.10,0,0.00,0.00,521109,2024,Condyloma Acuminata
+Satun,22,6.76,0,0.00,0.00,325387,2024,Condyloma Acuminata
+Songkhla,244,17.04,0,0.00,0.00,1431512,2024,Condyloma Acuminata
+Trang,39,6.12,0,0.00,0.00,637612,2024,Condyloma Acuminata
+Yala,32,5.84,0,0.00,0.00,547930,2024,Condyloma Acuminata
+ZONE:13,1966,35.85,0,0.00,0.00,5483259,2024,Condyloma Acuminata
+Bangkok,1966,35.85,0,0.00,0.00,5483259,2024,Condyloma Acuminata
 Total,4352,6.59,0,0.00,0.00,66060027,2017,Condyloma Acuminata
 ZONE:01,539,9.19,0,0.00,0.00,5864232,2017,Condyloma Acuminata
 Chiang Mai,157,9.02,0,0.00,0.00,1741301,2017,Condyloma Acuminata

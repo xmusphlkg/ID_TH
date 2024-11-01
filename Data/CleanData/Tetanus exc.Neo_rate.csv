@@ -1337,87 +1337,87 @@ Trang,0,0.00,0,0.00,0.00,641868,2020,Tetanus exc.Neo
 Yala,0,0.00,0,0.00,0.00,537466,2020,Tetanus exc.Neo
 ZONE:13,0,0.00,0,0.00,0.00,5627243,2020,Tetanus exc.Neo
 Bangkok,0,0.00,0,0.00,0.00,5627243,2020,Tetanus exc.Neo
-Total,27,0.04,3,11.11,0.00,66071545,2024,Tetanus exc.Neo
-ZONE:01,2,0.03,0,0.00,0.00,5857413,2024,Tetanus exc.Neo
-Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Tetanus exc.Neo
-Chiang Rai,1,0.08,0,0.00,0.00,1299306,2024,Tetanus exc.Neo
+Total,40,0.06,5,12.50,0.01,66071545,2024,Tetanus exc.Neo
+ZONE:01,5,0.09,1,20.00,0.02,5857413,2024,Tetanus exc.Neo
+Chiang Mai,1,0.06,0,0.00,0.00,1794774,2024,Tetanus exc.Neo
+Chiang Rai,2,0.15,0,0.00,0.00,1299306,2024,Tetanus exc.Neo
 Lampang,0,0.00,0,0.00,0.00,715133,2024,Tetanus exc.Neo
 Lamphun,1,0.25,0,0.00,0.00,398998,2024,Tetanus exc.Neo
 Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Tetanus exc.Neo
-Nan,0,0.00,0,0.00,0.00,473630,2024,Tetanus exc.Neo
+Nan,1,0.21,1,100.00,0.21,473630,2024,Tetanus exc.Neo
 Phayao,0,0.00,0,0.00,0.00,459858,2024,Tetanus exc.Neo
 Phrae,0,0.00,0,0.00,0.00,428499,2024,Tetanus exc.Neo
-ZONE:02,0,0.00,0,0.00,0.00,3522489,2024,Tetanus exc.Neo
-Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Tetanus exc.Neo
+ZONE:02,1,0.03,0,0.00,0.00,3522489,2024,Tetanus exc.Neo
+Phetchabun,1,0.10,0,0.00,0.00,970403,2024,Tetanus exc.Neo
 Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Tetanus exc.Neo
 Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Tetanus exc.Neo
 Tak,0,0.00,0,0.00,0.00,687927,2024,Tetanus exc.Neo
 Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Tetanus exc.Neo
-ZONE:03,0,0.00,0,0.00,0.00,2896463,2024,Tetanus exc.Neo
+ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Tetanus exc.Neo
 Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Tetanus exc.Neo
 Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Tetanus exc.Neo
-Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,Tetanus exc.Neo
+Nakhon Sawan,1,0.10,0,0.00,0.00,1025348,2024,Tetanus exc.Neo
 Phichit,0,0.00,0,0.00,0.00,523925,2024,Tetanus exc.Neo
 Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Tetanus exc.Neo
-ZONE:04,1,0.02,0,0.00,0.00,5438863,2024,Tetanus exc.Neo
+ZONE:04,2,0.04,0,0.00,0.00,5438863,2024,Tetanus exc.Neo
 Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Tetanus exc.Neo
-Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Tetanus exc.Neo
+Lop Buri,1,0.14,0,0.00,0.00,732495,2024,Tetanus exc.Neo
 Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,Tetanus exc.Neo
-Nonthaburi,0,0.00,0,0.00,0.00,1302004,2024,Tetanus exc.Neo
+Nonthaburi,1,0.08,0,0.00,0.00,1302004,2024,Tetanus exc.Neo
 P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Tetanus exc.Neo
-Pathum Thani,1,0.08,0,0.00,0.00,1210365,2024,Tetanus exc.Neo
+Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Tetanus exc.Neo
 Saraburi,0,0.00,0,0.00,0.00,638704,2024,Tetanus exc.Neo
 Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Tetanus exc.Neo
-ZONE:05,0,0.00,0,0.00,0.00,5326695,2024,Tetanus exc.Neo
+ZONE:05,1,0.02,0,0.00,0.00,5326695,2024,Tetanus exc.Neo
 Kanchanaburi,0,0.00,0,0.00,0.00,894781,2024,Tetanus exc.Neo
 Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Tetanus exc.Neo
 Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Tetanus exc.Neo
-Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552137,2024,Tetanus exc.Neo
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,552137,2024,Tetanus exc.Neo
 Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,Tetanus exc.Neo
 Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Tetanus exc.Neo
 Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Tetanus exc.Neo
 Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Tetanus exc.Neo
-ZONE:06,4,0.06,1,25.00,0.02,6292163,2024,Tetanus exc.Neo
+ZONE:06,3,0.05,1,33.33,0.02,6292163,2024,Tetanus exc.Neo
 Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Tetanus exc.Neo
 Chanthaburi,1,0.19,0,0.00,0.00,536290,2024,Tetanus exc.Neo
-Chon Buri,2,0.12,0,0.00,0.00,1606412,2024,Tetanus exc.Neo
+Chon Buri,1,0.06,0,0.00,0.00,1606412,2024,Tetanus exc.Neo
 Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Tetanus exc.Neo
 Rayong,0,0.00,0,0.00,0.00,765287,2024,Tetanus exc.Neo
 Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Tetanus exc.Neo
 Samut Prakan,1,0.07,1,100.00,0.07,1366598,2024,Tetanus exc.Neo
 Trat,0,0.00,0,0.00,0.00,227430,2024,Tetanus exc.Neo
-ZONE:07,1,0.02,0,0.00,0.00,4981337,2024,Tetanus exc.Neo
+ZONE:07,2,0.04,0,0.00,0.00,4981337,2024,Tetanus exc.Neo
 Kalasin,0,0.00,0,0.00,0.00,970084,2024,Tetanus exc.Neo
 Khon Kaen,1,0.06,0,0.00,0.00,1782008,2024,Tetanus exc.Neo
 Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Tetanus exc.Neo
-Roi Et,0,0.00,0,0.00,0.00,1287984,2024,Tetanus exc.Neo
-ZONE:08,3,0.05,1,33.33,0.02,5500012,2024,Tetanus exc.Neo
+Roi Et,1,0.08,0,0.00,0.00,1287984,2024,Tetanus exc.Neo
+ZONE:08,5,0.09,1,20.00,0.02,5500012,2024,Tetanus exc.Neo
 Bungkan,0,0.00,0,0.00,0.00,421086,2024,Tetanus exc.Neo
 Loei,0,0.00,0,0.00,0.00,636242,2024,Tetanus exc.Neo
 Nakhon Phanom,1,0.14,0,0.00,0.00,715466,2024,Tetanus exc.Neo
 Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Tetanus exc.Neo
 Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Tetanus exc.Neo
-Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Tetanus exc.Neo
-Udon Thani,2,0.13,1,50.00,0.06,1560788,2024,Tetanus exc.Neo
-ZONE:09,8,0.12,1,12.50,0.01,6689028,2024,Tetanus exc.Neo
-Buri Ram,3,0.19,0,0.00,0.00,1575073,2024,Tetanus exc.Neo
+Sakon Nakhon,1,0.09,0,0.00,0.00,1143922,2024,Tetanus exc.Neo
+Udon Thani,3,0.19,1,33.33,0.06,1560788,2024,Tetanus exc.Neo
+ZONE:09,10,0.15,1,10.00,0.01,6689028,2024,Tetanus exc.Neo
+Buri Ram,4,0.25,0,0.00,0.00,1575073,2024,Tetanus exc.Neo
 Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Tetanus exc.Neo
-Nakhon Ratchasima,4,0.15,1,25.00,0.04,2627927,2024,Tetanus exc.Neo
+Nakhon Ratchasima,5,0.19,1,20.00,0.04,2627927,2024,Tetanus exc.Neo
 Surin,1,0.07,0,0.00,0.00,1370376,2024,Tetanus exc.Neo
-ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Tetanus exc.Neo
+ZONE:10,1,0.02,0,0.00,0.00,4578831,2024,Tetanus exc.Neo
 Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Tetanus exc.Neo
 Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Tetanus exc.Neo
-Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Tetanus exc.Neo
+Si Sa Ket,1,0.07,0,0.00,0.00,1452532,2024,Tetanus exc.Neo
 Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Tetanus exc.Neo
 Yasothon,0,0.00,0,0.00,0.00,530239,2024,Tetanus exc.Neo
-ZONE:11,5,0.11,0,0.00,0.00,4489783,2024,Tetanus exc.Neo
+ZONE:11,5,0.11,1,20.00,0.02,4489783,2024,Tetanus exc.Neo
 Chumphon,0,0.00,0,0.00,0.00,509122,2024,Tetanus exc.Neo
 Krabi,1,0.21,0,0.00,0.00,481089,2024,Tetanus exc.Neo
 Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Tetanus exc.Neo
 Phangnga,0,0.00,0,0.00,0.00,267250,2024,Tetanus exc.Neo
 Phuket,1,0.24,0,0.00,0.00,420746,2024,Tetanus exc.Neo
 Ranong,0,0.00,0,0.00,0.00,193799,2024,Tetanus exc.Neo
-Surat Thani,3,0.28,0,0.00,0.00,1074726,2024,Tetanus exc.Neo
+Surat Thani,3,0.28,1,33.33,0.09,1074726,2024,Tetanus exc.Neo
 ZONE:12,2,0.04,0,0.00,0.00,5015209,2024,Tetanus exc.Neo
 Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Tetanus exc.Neo
 Pattani,2,0.27,0,0.00,0.00,735017,2024,Tetanus exc.Neo
@@ -1426,8 +1426,8 @@ Satun,0,0.00,0,0.00,0.00,325387,2024,Tetanus exc.Neo
 Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Tetanus exc.Neo
 Trang,0,0.00,0,0.00,0.00,637612,2024,Tetanus exc.Neo
 Yala,0,0.00,0,0.00,0.00,547930,2024,Tetanus exc.Neo
-ZONE:13,1,0.02,0,0.00,0.00,5483259,2024,Tetanus exc.Neo
-Bangkok,1,0.02,0,0.00,0.00,5483259,2024,Tetanus exc.Neo
+ZONE:13,2,0.04,0,0.00,0.00,5483259,2024,Tetanus exc.Neo
+Bangkok,2,0.04,0,0.00,0.00,5483259,2024,Tetanus exc.Neo
 Total,103,0.16,8,7.77,0.01,64075986,2012,Tetanus exc.Neo
 Central Region,34,0.16,3,8.82,0.01,21734984,2012,Tetanus exc.Neo
 Zone:0,8,0.14,1,12.50,0.02,5674843,2012,Tetanus exc.Neo

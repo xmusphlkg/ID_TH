@@ -1,5 +1,5 @@
 Areas,Count,Month,Type,Year,Disease
-Total,39,Total,Cases,2024,HepatitisE
+Total,60,Total,Cases,2024,HepatitisE
 ZONE:01,1,Total,Cases,2024,HepatitisE
 Chiang Mai,1,Total,Cases,2024,HepatitisE
 Chiang Rai,0,Total,Cases,2024,HepatitisE
@@ -21,7 +21,7 @@ Kamphaeng Phet,0,Total,Cases,2024,HepatitisE
 Nakhon Sawan,0,Total,Cases,2024,HepatitisE
 Phichit,0,Total,Cases,2024,HepatitisE
 Uthai Thani,0,Total,Cases,2024,HepatitisE
-ZONE:04,8,Total,Cases,2024,HepatitisE
+ZONE:04,10,Total,Cases,2024,HepatitisE
 Ang Thong,0,Total,Cases,2024,HepatitisE
 Lop Buri,3,Total,Cases,2024,HepatitisE
 Nakhon Nayok,0,Total,Cases,2024,HepatitisE
@@ -29,25 +29,25 @@ Nonthaburi,2,Total,Cases,2024,HepatitisE
 P.Nakhon S.Ayutthaya,0,Total,Cases,2024,HepatitisE
 Pathum Thani,0,Total,Cases,2024,HepatitisE
 Saraburi,0,Total,Cases,2024,HepatitisE
-Sing Buri,3,Total,Cases,2024,HepatitisE
-ZONE:05,5,Total,Cases,2024,HepatitisE
-Kanchanaburi,3,Total,Cases,2024,HepatitisE
-Nakhon Pathom,0,Total,Cases,2024,HepatitisE
+Sing Buri,5,Total,Cases,2024,HepatitisE
+ZONE:05,7,Total,Cases,2024,HepatitisE
+Kanchanaburi,4,Total,Cases,2024,HepatitisE
+Nakhon Pathom,1,Total,Cases,2024,HepatitisE
 Phetchaburi,0,Total,Cases,2024,HepatitisE
 Prachuap Khiri Khan,1,Total,Cases,2024,HepatitisE
 Ratchaburi,0,Total,Cases,2024,HepatitisE
 Samut Sakhon,0,Total,Cases,2024,HepatitisE
 Samut Songkhram,0,Total,Cases,2024,HepatitisE
 Suphan Buri,1,Total,Cases,2024,HepatitisE
-ZONE:06,3,Total,Cases,2024,HepatitisE
+ZONE:06,7,Total,Cases,2024,HepatitisE
 Chachoengsao,0,Total,Cases,2024,HepatitisE
 Chanthaburi,0,Total,Cases,2024,HepatitisE
 Chon Buri,1,Total,Cases,2024,HepatitisE
 Prachin Buri,0,Total,Cases,2024,HepatitisE
-Rayong,0,Total,Cases,2024,HepatitisE
-Sa Kaeo,0,Total,Cases,2024,HepatitisE
+Rayong,2,Total,Cases,2024,HepatitisE
+Sa Kaeo,1,Total,Cases,2024,HepatitisE
 Samut Prakan,2,Total,Cases,2024,HepatitisE
-Trat,0,Total,Cases,2024,HepatitisE
+Trat,1,Total,Cases,2024,HepatitisE
 ZONE:07,0,Total,Cases,2024,HepatitisE
 Kalasin,0,Total,Cases,2024,HepatitisE
 Khon Kaen,0,Total,Cases,2024,HepatitisE
@@ -72,14 +72,14 @@ Mukdahan,0,Total,Cases,2024,HepatitisE
 Si Sa Ket,0,Total,Cases,2024,HepatitisE
 Ubon Ratchathani,0,Total,Cases,2024,HepatitisE
 Yasothon,0,Total,Cases,2024,HepatitisE
-ZONE:11,1,Total,Cases,2024,HepatitisE
+ZONE:11,2,Total,Cases,2024,HepatitisE
 Chumphon,0,Total,Cases,2024,HepatitisE
 Krabi,0,Total,Cases,2024,HepatitisE
 Nakhon Si Thammarat,0,Total,Cases,2024,HepatitisE
 Phangnga,0,Total,Cases,2024,HepatitisE
 Phuket,1,Total,Cases,2024,HepatitisE
 Ranong,0,Total,Cases,2024,HepatitisE
-Surat Thani,0,Total,Cases,2024,HepatitisE
+Surat Thani,1,Total,Cases,2024,HepatitisE
 ZONE:12,0,Total,Cases,2024,HepatitisE
 Narathiwat,0,Total,Cases,2024,HepatitisE
 Pattani,0,Total,Cases,2024,HepatitisE
@@ -88,8 +88,8 @@ Satun,0,Total,Cases,2024,HepatitisE
 Songkhla,0,Total,Cases,2024,HepatitisE
 Trang,0,Total,Cases,2024,HepatitisE
 Yala,0,Total,Cases,2024,HepatitisE
-ZONE:13,16,Total,Cases,2024,HepatitisE
-Bangkok,16,Total,Cases,2024,HepatitisE
+ZONE:13,28,Total,Cases,2024,HepatitisE
+Bangkok,28,Total,Cases,2024,HepatitisE
 Total,0,Total,Deaths,2024,HepatitisE
 ZONE:01,0,Total,Deaths,2024,HepatitisE
 Chiang Mai,0,Total,Deaths,2024,HepatitisE
@@ -1093,7 +1093,7 @@ Trang,0,May,Deaths,2024,HepatitisE
 Yala,0,May,Deaths,2024,HepatitisE
 ZONE:13,0,May,Deaths,2024,HepatitisE
 Bangkok,0,May,Deaths,2024,HepatitisE
-Total,7,June,Cases,2024,HepatitisE
+Total,9,June,Cases,2024,HepatitisE
 ZONE:01,0,June,Cases,2024,HepatitisE
 Chiang Mai,0,June,Cases,2024,HepatitisE
 Chiang Rai,0,June,Cases,2024,HepatitisE
@@ -1182,8 +1182,8 @@ Satun,0,June,Cases,2024,HepatitisE
 Songkhla,0,June,Cases,2024,HepatitisE
 Trang,0,June,Cases,2024,HepatitisE
 Yala,0,June,Cases,2024,HepatitisE
-ZONE:13,4,June,Cases,2024,HepatitisE
-Bangkok,4,June,Cases,2024,HepatitisE
+ZONE:13,6,June,Cases,2024,HepatitisE
+Bangkok,6,June,Cases,2024,HepatitisE
 Total,0,June,Deaths,2024,HepatitisE
 ZONE:01,0,June,Deaths,2024,HepatitisE
 Chiang Mai,0,June,Deaths,2024,HepatitisE
@@ -1275,7 +1275,7 @@ Trang,0,June,Deaths,2024,HepatitisE
 Yala,0,June,Deaths,2024,HepatitisE
 ZONE:13,0,June,Deaths,2024,HepatitisE
 Bangkok,0,June,Deaths,2024,HepatitisE
-Total,0,July,Cases,2024,HepatitisE
+Total,7,July,Cases,2024,HepatitisE
 ZONE:01,0,July,Cases,2024,HepatitisE
 Chiang Mai,0,July,Cases,2024,HepatitisE
 Chiang Rai,0,July,Cases,2024,HepatitisE
@@ -1297,7 +1297,7 @@ Kamphaeng Phet,0,July,Cases,2024,HepatitisE
 Nakhon Sawan,0,July,Cases,2024,HepatitisE
 Phichit,0,July,Cases,2024,HepatitisE
 Uthai Thani,0,July,Cases,2024,HepatitisE
-ZONE:04,0,July,Cases,2024,HepatitisE
+ZONE:04,1,July,Cases,2024,HepatitisE
 Ang Thong,0,July,Cases,2024,HepatitisE
 Lop Buri,0,July,Cases,2024,HepatitisE
 Nakhon Nayok,0,July,Cases,2024,HepatitisE
@@ -1305,17 +1305,17 @@ Nonthaburi,0,July,Cases,2024,HepatitisE
 P.Nakhon S.Ayutthaya,0,July,Cases,2024,HepatitisE
 Pathum Thani,0,July,Cases,2024,HepatitisE
 Saraburi,0,July,Cases,2024,HepatitisE
-Sing Buri,0,July,Cases,2024,HepatitisE
-ZONE:05,0,July,Cases,2024,HepatitisE
+Sing Buri,1,July,Cases,2024,HepatitisE
+ZONE:05,1,July,Cases,2024,HepatitisE
 Kanchanaburi,0,July,Cases,2024,HepatitisE
-Nakhon Pathom,0,July,Cases,2024,HepatitisE
+Nakhon Pathom,1,July,Cases,2024,HepatitisE
 Phetchaburi,0,July,Cases,2024,HepatitisE
 Prachuap Khiri Khan,0,July,Cases,2024,HepatitisE
 Ratchaburi,0,July,Cases,2024,HepatitisE
 Samut Sakhon,0,July,Cases,2024,HepatitisE
 Samut Songkhram,0,July,Cases,2024,HepatitisE
 Suphan Buri,0,July,Cases,2024,HepatitisE
-ZONE:06,0,July,Cases,2024,HepatitisE
+ZONE:06,1,July,Cases,2024,HepatitisE
 Chachoengsao,0,July,Cases,2024,HepatitisE
 Chanthaburi,0,July,Cases,2024,HepatitisE
 Chon Buri,0,July,Cases,2024,HepatitisE
@@ -1323,7 +1323,7 @@ Prachin Buri,0,July,Cases,2024,HepatitisE
 Rayong,0,July,Cases,2024,HepatitisE
 Sa Kaeo,0,July,Cases,2024,HepatitisE
 Samut Prakan,0,July,Cases,2024,HepatitisE
-Trat,0,July,Cases,2024,HepatitisE
+Trat,1,July,Cases,2024,HepatitisE
 ZONE:07,0,July,Cases,2024,HepatitisE
 Kalasin,0,July,Cases,2024,HepatitisE
 Khon Kaen,0,July,Cases,2024,HepatitisE
@@ -1364,8 +1364,8 @@ Satun,0,July,Cases,2024,HepatitisE
 Songkhla,0,July,Cases,2024,HepatitisE
 Trang,0,July,Cases,2024,HepatitisE
 Yala,0,July,Cases,2024,HepatitisE
-ZONE:13,0,July,Cases,2024,HepatitisE
-Bangkok,0,July,Cases,2024,HepatitisE
+ZONE:13,4,July,Cases,2024,HepatitisE
+Bangkok,4,July,Cases,2024,HepatitisE
 Total,0,July,Deaths,2024,HepatitisE
 ZONE:01,0,July,Deaths,2024,HepatitisE
 Chiang Mai,0,July,Deaths,2024,HepatitisE
@@ -1457,7 +1457,7 @@ Trang,0,July,Deaths,2024,HepatitisE
 Yala,0,July,Deaths,2024,HepatitisE
 ZONE:13,0,July,Deaths,2024,HepatitisE
 Bangkok,0,July,Deaths,2024,HepatitisE
-Total,0,Aug,Cases,2024,HepatitisE
+Total,2,Aug,Cases,2024,HepatitisE
 ZONE:01,0,Aug,Cases,2024,HepatitisE
 Chiang Mai,0,Aug,Cases,2024,HepatitisE
 Chiang Rai,0,Aug,Cases,2024,HepatitisE
@@ -1488,8 +1488,8 @@ P.Nakhon S.Ayutthaya,0,Aug,Cases,2024,HepatitisE
 Pathum Thani,0,Aug,Cases,2024,HepatitisE
 Saraburi,0,Aug,Cases,2024,HepatitisE
 Sing Buri,0,Aug,Cases,2024,HepatitisE
-ZONE:05,0,Aug,Cases,2024,HepatitisE
-Kanchanaburi,0,Aug,Cases,2024,HepatitisE
+ZONE:05,1,Aug,Cases,2024,HepatitisE
+Kanchanaburi,1,Aug,Cases,2024,HepatitisE
 Nakhon Pathom,0,Aug,Cases,2024,HepatitisE
 Phetchaburi,0,Aug,Cases,2024,HepatitisE
 Prachuap Khiri Khan,0,Aug,Cases,2024,HepatitisE
@@ -1530,14 +1530,14 @@ Mukdahan,0,Aug,Cases,2024,HepatitisE
 Si Sa Ket,0,Aug,Cases,2024,HepatitisE
 Ubon Ratchathani,0,Aug,Cases,2024,HepatitisE
 Yasothon,0,Aug,Cases,2024,HepatitisE
-ZONE:11,0,Aug,Cases,2024,HepatitisE
+ZONE:11,1,Aug,Cases,2024,HepatitisE
 Chumphon,0,Aug,Cases,2024,HepatitisE
 Krabi,0,Aug,Cases,2024,HepatitisE
 Nakhon Si Thammarat,0,Aug,Cases,2024,HepatitisE
 Phangnga,0,Aug,Cases,2024,HepatitisE
 Phuket,0,Aug,Cases,2024,HepatitisE
 Ranong,0,Aug,Cases,2024,HepatitisE
-Surat Thani,0,Aug,Cases,2024,HepatitisE
+Surat Thani,1,Aug,Cases,2024,HepatitisE
 ZONE:12,0,Aug,Cases,2024,HepatitisE
 Narathiwat,0,Aug,Cases,2024,HepatitisE
 Pattani,0,Aug,Cases,2024,HepatitisE
@@ -1639,7 +1639,7 @@ Trang,0,Aug,Deaths,2024,HepatitisE
 Yala,0,Aug,Deaths,2024,HepatitisE
 ZONE:13,0,Aug,Deaths,2024,HepatitisE
 Bangkok,0,Aug,Deaths,2024,HepatitisE
-Total,0,Sept,Cases,2024,HepatitisE
+Total,7,Sept,Cases,2024,HepatitisE
 ZONE:01,0,Sept,Cases,2024,HepatitisE
 Chiang Mai,0,Sept,Cases,2024,HepatitisE
 Chiang Rai,0,Sept,Cases,2024,HepatitisE
@@ -1661,7 +1661,7 @@ Kamphaeng Phet,0,Sept,Cases,2024,HepatitisE
 Nakhon Sawan,0,Sept,Cases,2024,HepatitisE
 Phichit,0,Sept,Cases,2024,HepatitisE
 Uthai Thani,0,Sept,Cases,2024,HepatitisE
-ZONE:04,0,Sept,Cases,2024,HepatitisE
+ZONE:04,1,Sept,Cases,2024,HepatitisE
 Ang Thong,0,Sept,Cases,2024,HepatitisE
 Lop Buri,0,Sept,Cases,2024,HepatitisE
 Nakhon Nayok,0,Sept,Cases,2024,HepatitisE
@@ -1669,7 +1669,7 @@ Nonthaburi,0,Sept,Cases,2024,HepatitisE
 P.Nakhon S.Ayutthaya,0,Sept,Cases,2024,HepatitisE
 Pathum Thani,0,Sept,Cases,2024,HepatitisE
 Saraburi,0,Sept,Cases,2024,HepatitisE
-Sing Buri,0,Sept,Cases,2024,HepatitisE
+Sing Buri,1,Sept,Cases,2024,HepatitisE
 ZONE:05,0,Sept,Cases,2024,HepatitisE
 Kanchanaburi,0,Sept,Cases,2024,HepatitisE
 Nakhon Pathom,0,Sept,Cases,2024,HepatitisE
@@ -1679,12 +1679,12 @@ Ratchaburi,0,Sept,Cases,2024,HepatitisE
 Samut Sakhon,0,Sept,Cases,2024,HepatitisE
 Samut Songkhram,0,Sept,Cases,2024,HepatitisE
 Suphan Buri,0,Sept,Cases,2024,HepatitisE
-ZONE:06,0,Sept,Cases,2024,HepatitisE
+ZONE:06,1,Sept,Cases,2024,HepatitisE
 Chachoengsao,0,Sept,Cases,2024,HepatitisE
 Chanthaburi,0,Sept,Cases,2024,HepatitisE
 Chon Buri,0,Sept,Cases,2024,HepatitisE
 Prachin Buri,0,Sept,Cases,2024,HepatitisE
-Rayong,0,Sept,Cases,2024,HepatitisE
+Rayong,1,Sept,Cases,2024,HepatitisE
 Sa Kaeo,0,Sept,Cases,2024,HepatitisE
 Samut Prakan,0,Sept,Cases,2024,HepatitisE
 Trat,0,Sept,Cases,2024,HepatitisE
@@ -1728,8 +1728,8 @@ Satun,0,Sept,Cases,2024,HepatitisE
 Songkhla,0,Sept,Cases,2024,HepatitisE
 Trang,0,Sept,Cases,2024,HepatitisE
 Yala,0,Sept,Cases,2024,HepatitisE
-ZONE:13,0,Sept,Cases,2024,HepatitisE
-Bangkok,0,Sept,Cases,2024,HepatitisE
+ZONE:13,5,Sept,Cases,2024,HepatitisE
+Bangkok,5,Sept,Cases,2024,HepatitisE
 Total,0,Sept,Deaths,2024,HepatitisE
 ZONE:01,0,Sept,Deaths,2024,HepatitisE
 Chiang Mai,0,Sept,Deaths,2024,HepatitisE
@@ -1821,7 +1821,7 @@ Trang,0,Sept,Deaths,2024,HepatitisE
 Yala,0,Sept,Deaths,2024,HepatitisE
 ZONE:13,0,Sept,Deaths,2024,HepatitisE
 Bangkok,0,Sept,Deaths,2024,HepatitisE
-Total,0,Oct,Cases,2024,HepatitisE
+Total,3,Oct,Cases,2024,HepatitisE
 ZONE:01,0,Oct,Cases,2024,HepatitisE
 Chiang Mai,0,Oct,Cases,2024,HepatitisE
 Chiang Rai,0,Oct,Cases,2024,HepatitisE
@@ -1861,13 +1861,13 @@ Ratchaburi,0,Oct,Cases,2024,HepatitisE
 Samut Sakhon,0,Oct,Cases,2024,HepatitisE
 Samut Songkhram,0,Oct,Cases,2024,HepatitisE
 Suphan Buri,0,Oct,Cases,2024,HepatitisE
-ZONE:06,0,Oct,Cases,2024,HepatitisE
+ZONE:06,2,Oct,Cases,2024,HepatitisE
 Chachoengsao,0,Oct,Cases,2024,HepatitisE
 Chanthaburi,0,Oct,Cases,2024,HepatitisE
 Chon Buri,0,Oct,Cases,2024,HepatitisE
 Prachin Buri,0,Oct,Cases,2024,HepatitisE
-Rayong,0,Oct,Cases,2024,HepatitisE
-Sa Kaeo,0,Oct,Cases,2024,HepatitisE
+Rayong,1,Oct,Cases,2024,HepatitisE
+Sa Kaeo,1,Oct,Cases,2024,HepatitisE
 Samut Prakan,0,Oct,Cases,2024,HepatitisE
 Trat,0,Oct,Cases,2024,HepatitisE
 ZONE:07,0,Oct,Cases,2024,HepatitisE
@@ -1910,8 +1910,8 @@ Satun,0,Oct,Cases,2024,HepatitisE
 Songkhla,0,Oct,Cases,2024,HepatitisE
 Trang,0,Oct,Cases,2024,HepatitisE
 Yala,0,Oct,Cases,2024,HepatitisE
-ZONE:13,0,Oct,Cases,2024,HepatitisE
-Bangkok,0,Oct,Cases,2024,HepatitisE
+ZONE:13,1,Oct,Cases,2024,HepatitisE
+Bangkok,1,Oct,Cases,2024,HepatitisE
 Total,0,Oct,Deaths,2024,HepatitisE
 ZONE:01,0,Oct,Deaths,2024,HepatitisE
 Chiang Mai,0,Oct,Deaths,2024,HepatitisE

@@ -19203,7 +19203,7 @@ Trang,0,Dec,Deaths,2021,Brucellosis
 Yala,0,Dec,Deaths,2021,Brucellosis
 ZONE:13,0,Dec,Deaths,2021,Brucellosis
 Bangkok,0,Dec,Deaths,2021,Brucellosis
-Total,4,Total,Cases,2024,Brucellosis
+Total,6,Total,Cases,2024,Brucellosis
 ZONE:01,1,Total,Cases,2024,Brucellosis
 Chiang Mai,0,Total,Cases,2024,Brucellosis
 Chiang Rai,0,Total,Cases,2024,Brucellosis
@@ -19219,12 +19219,12 @@ Phitsanulok,0,Total,Cases,2024,Brucellosis
 Sukhothai,0,Total,Cases,2024,Brucellosis
 Tak,0,Total,Cases,2024,Brucellosis
 Uttaradit,0,Total,Cases,2024,Brucellosis
-ZONE:03,1,Total,Cases,2024,Brucellosis
+ZONE:03,2,Total,Cases,2024,Brucellosis
 Chai Nat,0,Total,Cases,2024,Brucellosis
 Kamphaeng Phet,0,Total,Cases,2024,Brucellosis
 Nakhon Sawan,1,Total,Cases,2024,Brucellosis
 Phichit,0,Total,Cases,2024,Brucellosis
-Uthai Thani,0,Total,Cases,2024,Brucellosis
+Uthai Thani,1,Total,Cases,2024,Brucellosis
 ZONE:04,0,Total,Cases,2024,Brucellosis
 Ang Thong,0,Total,Cases,2024,Brucellosis
 Lop Buri,0,Total,Cases,2024,Brucellosis
@@ -19265,9 +19265,9 @@ Nong Bua Lam Phu,0,Total,Cases,2024,Brucellosis
 Nong Khai,0,Total,Cases,2024,Brucellosis
 Sakon Nakhon,1,Total,Cases,2024,Brucellosis
 Udon Thani,0,Total,Cases,2024,Brucellosis
-ZONE:09,0,Total,Cases,2024,Brucellosis
+ZONE:09,1,Total,Cases,2024,Brucellosis
 Buri Ram,0,Total,Cases,2024,Brucellosis
-Chaiyaphum,0,Total,Cases,2024,Brucellosis
+Chaiyaphum,1,Total,Cases,2024,Brucellosis
 Nakhon Ratchasima,0,Total,Cases,2024,Brucellosis
 Surin,0,Total,Cases,2024,Brucellosis
 ZONE:10,0,Total,Cases,2024,Brucellosis
@@ -20479,7 +20479,7 @@ Trang,0,June,Deaths,2024,Brucellosis
 Yala,0,June,Deaths,2024,Brucellosis
 ZONE:13,0,June,Deaths,2024,Brucellosis
 Bangkok,0,June,Deaths,2024,Brucellosis
-Total,0,July,Cases,2024,Brucellosis
+Total,1,July,Cases,2024,Brucellosis
 ZONE:01,0,July,Cases,2024,Brucellosis
 Chiang Mai,0,July,Cases,2024,Brucellosis
 Chiang Rai,0,July,Cases,2024,Brucellosis
@@ -20495,12 +20495,12 @@ Phitsanulok,0,July,Cases,2024,Brucellosis
 Sukhothai,0,July,Cases,2024,Brucellosis
 Tak,0,July,Cases,2024,Brucellosis
 Uttaradit,0,July,Cases,2024,Brucellosis
-ZONE:03,0,July,Cases,2024,Brucellosis
+ZONE:03,1,July,Cases,2024,Brucellosis
 Chai Nat,0,July,Cases,2024,Brucellosis
 Kamphaeng Phet,0,July,Cases,2024,Brucellosis
 Nakhon Sawan,0,July,Cases,2024,Brucellosis
 Phichit,0,July,Cases,2024,Brucellosis
-Uthai Thani,0,July,Cases,2024,Brucellosis
+Uthai Thani,1,July,Cases,2024,Brucellosis
 ZONE:04,0,July,Cases,2024,Brucellosis
 Ang Thong,0,July,Cases,2024,Brucellosis
 Lop Buri,0,July,Cases,2024,Brucellosis
@@ -20843,7 +20843,7 @@ Trang,0,Aug,Deaths,2024,Brucellosis
 Yala,0,Aug,Deaths,2024,Brucellosis
 ZONE:13,0,Aug,Deaths,2024,Brucellosis
 Bangkok,0,Aug,Deaths,2024,Brucellosis
-Total,0,Sept,Cases,2024,Brucellosis
+Total,1,Sept,Cases,2024,Brucellosis
 ZONE:01,0,Sept,Cases,2024,Brucellosis
 Chiang Mai,0,Sept,Cases,2024,Brucellosis
 Chiang Rai,0,Sept,Cases,2024,Brucellosis
@@ -20905,9 +20905,9 @@ Nong Bua Lam Phu,0,Sept,Cases,2024,Brucellosis
 Nong Khai,0,Sept,Cases,2024,Brucellosis
 Sakon Nakhon,0,Sept,Cases,2024,Brucellosis
 Udon Thani,0,Sept,Cases,2024,Brucellosis
-ZONE:09,0,Sept,Cases,2024,Brucellosis
+ZONE:09,1,Sept,Cases,2024,Brucellosis
 Buri Ram,0,Sept,Cases,2024,Brucellosis
-Chaiyaphum,0,Sept,Cases,2024,Brucellosis
+Chaiyaphum,1,Sept,Cases,2024,Brucellosis
 Nakhon Ratchasima,0,Sept,Cases,2024,Brucellosis
 Surin,0,Sept,Cases,2024,Brucellosis
 ZONE:10,0,Sept,Cases,2024,Brucellosis

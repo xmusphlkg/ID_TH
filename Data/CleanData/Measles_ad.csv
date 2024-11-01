@@ -22463,7 +22463,7 @@ Yala,Unknown,0,2004,Measles
 Zone:19,Unknown,0,2004,Measles
 Satun,Unknown,0,2004,Measles
 Songkhla,Unknown,0,2004,Measles
-Total,Total,0,2024,Measles
+Total,Total,1,2024,Measles
 ZONE:01,Total,0,2024,Measles
 Chiang Mai,Total,0,2024,Measles
 Chiang Rai,Total,0,2024,Measles
@@ -22536,14 +22536,14 @@ Mukdahan,Total,0,2024,Measles
 Si Sa Ket,Total,0,2024,Measles
 Ubon Ratchathani,Total,0,2024,Measles
 Yasothon,Total,0,2024,Measles
-ZONE:11,Total,0,2024,Measles
+ZONE:11,Total,1,2024,Measles
 Chumphon,Total,0,2024,Measles
 Krabi,Total,0,2024,Measles
 Nakhon Si Thammarat,Total,0,2024,Measles
 Phangnga,Total,0,2024,Measles
 Phuket,Total,0,2024,Measles
 Ranong,Total,0,2024,Measles
-Surat Thani,Total,0,2024,Measles
+Surat Thani,Total,1,2024,Measles
 ZONE:12,Total,0,2024,Measles
 Narathiwat,Total,0,2024,Measles
 Pattani,Total,0,2024,Measles
@@ -23555,7 +23555,7 @@ Trang,15-24,0,2024,Measles
 Yala,15-24,0,2024,Measles
 ZONE:13,15-24,0,2024,Measles
 Bangkok,15-24,0,2024,Measles
-Total,25-34,0,2024,Measles
+Total,25-34,1,2024,Measles
 ZONE:01,25-34,0,2024,Measles
 Chiang Mai,25-34,0,2024,Measles
 Chiang Rai,25-34,0,2024,Measles
@@ -23628,14 +23628,14 @@ Mukdahan,25-34,0,2024,Measles
 Si Sa Ket,25-34,0,2024,Measles
 Ubon Ratchathani,25-34,0,2024,Measles
 Yasothon,25-34,0,2024,Measles
-ZONE:11,25-34,0,2024,Measles
+ZONE:11,25-34,1,2024,Measles
 Chumphon,25-34,0,2024,Measles
 Krabi,25-34,0,2024,Measles
 Nakhon Si Thammarat,25-34,0,2024,Measles
 Phangnga,25-34,0,2024,Measles
 Phuket,25-34,0,2024,Measles
 Ranong,25-34,0,2024,Measles
-Surat Thani,25-34,0,2024,Measles
+Surat Thani,25-34,1,2024,Measles
 ZONE:12,25-34,0,2024,Measles
 Narathiwat,25-34,0,2024,Measles
 Pattani,25-34,0,2024,Measles

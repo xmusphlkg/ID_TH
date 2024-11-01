@@ -8531,7 +8531,7 @@ Kamphaeng Phet,Unknown,0,2013,Cholera
 Nakhon Sawan,Unknown,0,2013,Cholera
 Phichit,Unknown,0,2013,Cholera
 Uthai Thani,Unknown,0,2013,Cholera
-Total,Total,5,2024,Cholera
+Total,Total,7,2024,Cholera
 ZONE:01,Total,0,2024,Cholera
 Chiang Mai,Total,0,2024,Cholera
 Chiang Rai,Total,0,2024,Cholera
@@ -8541,9 +8541,9 @@ Mae Hong Son,Total,0,2024,Cholera
 Nan,Total,0,2024,Cholera
 Phayao,Total,0,2024,Cholera
 Phrae,Total,0,2024,Cholera
-ZONE:02,Total,1,2024,Cholera
+ZONE:02,Total,2,2024,Cholera
 Phetchabun,Total,1,2024,Cholera
-Phitsanulok,Total,0,2024,Cholera
+Phitsanulok,Total,1,2024,Cholera
 Sukhothai,Total,0,2024,Cholera
 Tak,Total,0,2024,Cholera
 Uttaradit,Total,0,2024,Cholera
@@ -8580,9 +8580,9 @@ Rayong,Total,0,2024,Cholera
 Sa Kaeo,Total,0,2024,Cholera
 Samut Prakan,Total,0,2024,Cholera
 Trat,Total,0,2024,Cholera
-ZONE:07,Total,0,2024,Cholera
+ZONE:07,Total,1,2024,Cholera
 Kalasin,Total,0,2024,Cholera
-Khon Kaen,Total,0,2024,Cholera
+Khon Kaen,Total,1,2024,Cholera
 Maha Sarakham,Total,0,2024,Cholera
 Roi Et,Total,0,2024,Cholera
 ZONE:08,Total,0,2024,Cholera
@@ -9987,7 +9987,7 @@ Trang,55-64,0,2024,Cholera
 Yala,55-64,0,2024,Cholera
 ZONE:13,55-64,0,2024,Cholera
 Bangkok,55-64,0,2024,Cholera
-Total,65+,1,2024,Cholera
+Total,65+,3,2024,Cholera
 ZONE:01,65+,0,2024,Cholera
 Chiang Mai,65+,0,2024,Cholera
 Chiang Rai,65+,0,2024,Cholera
@@ -9997,9 +9997,9 @@ Mae Hong Son,65+,0,2024,Cholera
 Nan,65+,0,2024,Cholera
 Phayao,65+,0,2024,Cholera
 Phrae,65+,0,2024,Cholera
-ZONE:02,65+,1,2024,Cholera
+ZONE:02,65+,2,2024,Cholera
 Phetchabun,65+,1,2024,Cholera
-Phitsanulok,65+,0,2024,Cholera
+Phitsanulok,65+,1,2024,Cholera
 Sukhothai,65+,0,2024,Cholera
 Tak,65+,0,2024,Cholera
 Uttaradit,65+,0,2024,Cholera
@@ -10036,9 +10036,9 @@ Rayong,65+,0,2024,Cholera
 Sa Kaeo,65+,0,2024,Cholera
 Samut Prakan,65+,0,2024,Cholera
 Trat,65+,0,2024,Cholera
-ZONE:07,65+,0,2024,Cholera
+ZONE:07,65+,1,2024,Cholera
 Kalasin,65+,0,2024,Cholera
-Khon Kaen,65+,0,2024,Cholera
+Khon Kaen,65+,1,2024,Cholera
 Maha Sarakham,65+,0,2024,Cholera
 Roi Et,65+,0,2024,Cholera
 ZONE:08,65+,0,2024,Cholera

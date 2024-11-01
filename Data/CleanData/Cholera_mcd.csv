@@ -25109,7 +25109,7 @@ Yala,0,Dec,Deaths,2004,Cholera
 Zone:19,0,Dec,Deaths,2004,Cholera
 Satun,0,Dec,Deaths,2004,Cholera
 Songkhla,0,Dec,Deaths,2004,Cholera
-Total,5,Total,Cases,2024,Cholera
+Total,7,Total,Cases,2024,Cholera
 ZONE:01,0,Total,Cases,2024,Cholera
 Chiang Mai,0,Total,Cases,2024,Cholera
 Chiang Rai,0,Total,Cases,2024,Cholera
@@ -25119,9 +25119,9 @@ Mae Hong Son,0,Total,Cases,2024,Cholera
 Nan,0,Total,Cases,2024,Cholera
 Phayao,0,Total,Cases,2024,Cholera
 Phrae,0,Total,Cases,2024,Cholera
-ZONE:02,1,Total,Cases,2024,Cholera
+ZONE:02,2,Total,Cases,2024,Cholera
 Phetchabun,1,Total,Cases,2024,Cholera
-Phitsanulok,0,Total,Cases,2024,Cholera
+Phitsanulok,1,Total,Cases,2024,Cholera
 Sukhothai,0,Total,Cases,2024,Cholera
 Tak,0,Total,Cases,2024,Cholera
 Uttaradit,0,Total,Cases,2024,Cholera
@@ -25158,9 +25158,9 @@ Rayong,0,Total,Cases,2024,Cholera
 Sa Kaeo,0,Total,Cases,2024,Cholera
 Samut Prakan,0,Total,Cases,2024,Cholera
 Trat,0,Total,Cases,2024,Cholera
-ZONE:07,0,Total,Cases,2024,Cholera
+ZONE:07,1,Total,Cases,2024,Cholera
 Kalasin,0,Total,Cases,2024,Cholera
-Khon Kaen,0,Total,Cases,2024,Cholera
+Khon Kaen,1,Total,Cases,2024,Cholera
 Maha Sarakham,0,Total,Cases,2024,Cholera
 Roi Et,0,Total,Cases,2024,Cholera
 ZONE:08,0,Total,Cases,2024,Cholera
@@ -26931,7 +26931,7 @@ Trang,0,Sept,Deaths,2024,Cholera
 Yala,0,Sept,Deaths,2024,Cholera
 ZONE:13,0,Sept,Deaths,2024,Cholera
 Bangkok,0,Sept,Deaths,2024,Cholera
-Total,0,Oct,Cases,2024,Cholera
+Total,2,Oct,Cases,2024,Cholera
 ZONE:01,0,Oct,Cases,2024,Cholera
 Chiang Mai,0,Oct,Cases,2024,Cholera
 Chiang Rai,0,Oct,Cases,2024,Cholera
@@ -26941,9 +26941,9 @@ Mae Hong Son,0,Oct,Cases,2024,Cholera
 Nan,0,Oct,Cases,2024,Cholera
 Phayao,0,Oct,Cases,2024,Cholera
 Phrae,0,Oct,Cases,2024,Cholera
-ZONE:02,0,Oct,Cases,2024,Cholera
+ZONE:02,1,Oct,Cases,2024,Cholera
 Phetchabun,0,Oct,Cases,2024,Cholera
-Phitsanulok,0,Oct,Cases,2024,Cholera
+Phitsanulok,1,Oct,Cases,2024,Cholera
 Sukhothai,0,Oct,Cases,2024,Cholera
 Tak,0,Oct,Cases,2024,Cholera
 Uttaradit,0,Oct,Cases,2024,Cholera
@@ -26980,9 +26980,9 @@ Rayong,0,Oct,Cases,2024,Cholera
 Sa Kaeo,0,Oct,Cases,2024,Cholera
 Samut Prakan,0,Oct,Cases,2024,Cholera
 Trat,0,Oct,Cases,2024,Cholera
-ZONE:07,0,Oct,Cases,2024,Cholera
+ZONE:07,1,Oct,Cases,2024,Cholera
 Kalasin,0,Oct,Cases,2024,Cholera
-Khon Kaen,0,Oct,Cases,2024,Cholera
+Khon Kaen,1,Oct,Cases,2024,Cholera
 Maha Sarakham,0,Oct,Cases,2024,Cholera
 Roi Et,0,Oct,Cases,2024,Cholera
 ZONE:08,0,Oct,Cases,2024,Cholera

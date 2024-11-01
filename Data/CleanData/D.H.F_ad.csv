@@ -1817,12 +1817,12 @@ Kamphaeng Phet,Unknown,0,2011,D.H.F
 Nakhon Sawan,Unknown,0,2011,D.H.F
 Phichit,Unknown,0,2011,D.H.F
 Uthai Thani,Unknown,0,2011,D.H.F
-Total,Total,11,2024,D.H.F
-ZONE:01,Total,2,2024,D.H.F
-Chiang Mai,Total,1,2024,D.H.F
+Total,Total,18,2024,D.H.F
+ZONE:01,Total,4,2024,D.H.F
+Chiang Mai,Total,2,2024,D.H.F
 Chiang Rai,Total,0,2024,D.H.F
 Lampang,Total,0,2024,D.H.F
-Lamphun,Total,0,2024,D.H.F
+Lamphun,Total,1,2024,D.H.F
 Mae Hong Son,Total,0,2024,D.H.F
 Nan,Total,0,2024,D.H.F
 Phayao,Total,0,2024,D.H.F
@@ -1833,10 +1833,10 @@ Phitsanulok,Total,0,2024,D.H.F
 Sukhothai,Total,0,2024,D.H.F
 Tak,Total,0,2024,D.H.F
 Uttaradit,Total,0,2024,D.H.F
-ZONE:03,Total,1,2024,D.H.F
+ZONE:03,Total,2,2024,D.H.F
 Chai Nat,Total,0,2024,D.H.F
 Kamphaeng Phet,Total,1,2024,D.H.F
-Nakhon Sawan,Total,0,2024,D.H.F
+Nakhon Sawan,Total,1,2024,D.H.F
 Phichit,Total,0,2024,D.H.F
 Uthai Thani,Total,0,2024,D.H.F
 ZONE:04,Total,4,2024,D.H.F
@@ -1866,11 +1866,11 @@ Rayong,Total,0,2024,D.H.F
 Sa Kaeo,Total,0,2024,D.H.F
 Samut Prakan,Total,0,2024,D.H.F
 Trat,Total,0,2024,D.H.F
-ZONE:07,Total,0,2024,D.H.F
+ZONE:07,Total,1,2024,D.H.F
 Kalasin,Total,0,2024,D.H.F
 Khon Kaen,Total,0,2024,D.H.F
 Maha Sarakham,Total,0,2024,D.H.F
-Roi Et,Total,0,2024,D.H.F
+Roi Et,Total,1,2024,D.H.F
 ZONE:08,Total,0,2024,D.H.F
 Bungkan,Total,0,2024,D.H.F
 Loei,Total,0,2024,D.H.F
@@ -1879,10 +1879,10 @@ Nong Bua Lam Phu,Total,0,2024,D.H.F
 Nong Khai,Total,0,2024,D.H.F
 Sakon Nakhon,Total,0,2024,D.H.F
 Udon Thani,Total,0,2024,D.H.F
-ZONE:09,Total,1,2024,D.H.F
+ZONE:09,Total,3,2024,D.H.F
 Buri Ram,Total,0,2024,D.H.F
 Chaiyaphum,Total,1,2024,D.H.F
-Nakhon Ratchasima,Total,0,2024,D.H.F
+Nakhon Ratchasima,Total,2,2024,D.H.F
 Surin,Total,0,2024,D.H.F
 ZONE:10,Total,0,2024,D.H.F
 Amnat Charoen,Total,0,2024,D.H.F
@@ -1890,8 +1890,8 @@ Mukdahan,Total,0,2024,D.H.F
 Si Sa Ket,Total,0,2024,D.H.F
 Ubon Ratchathani,Total,0,2024,D.H.F
 Yasothon,Total,0,2024,D.H.F
-ZONE:11,Total,0,2024,D.H.F
-Chumphon,Total,0,2024,D.H.F
+ZONE:11,Total,1,2024,D.H.F
+Chumphon,Total,1,2024,D.H.F
 Krabi,Total,0,2024,D.H.F
 Nakhon Si Thammarat,Total,0,2024,D.H.F
 Phangnga,Total,0,2024,D.H.F
@@ -2363,7 +2363,7 @@ Trang,3-3,0,2024,D.H.F
 Yala,3-3,0,2024,D.H.F
 ZONE:13,3-3,0,2024,D.H.F
 Bangkok,3-3,0,2024,D.H.F
-Total,4-4,0,2024,D.H.F
+Total,4-4,1,2024,D.H.F
 ZONE:01,4-4,0,2024,D.H.F
 Chiang Mai,4-4,0,2024,D.H.F
 Chiang Rai,4-4,0,2024,D.H.F
@@ -2379,10 +2379,10 @@ Phitsanulok,4-4,0,2024,D.H.F
 Sukhothai,4-4,0,2024,D.H.F
 Tak,4-4,0,2024,D.H.F
 Uttaradit,4-4,0,2024,D.H.F
-ZONE:03,4-4,0,2024,D.H.F
+ZONE:03,4-4,1,2024,D.H.F
 Chai Nat,4-4,0,2024,D.H.F
 Kamphaeng Phet,4-4,0,2024,D.H.F
-Nakhon Sawan,4-4,0,2024,D.H.F
+Nakhon Sawan,4-4,1,2024,D.H.F
 Phichit,4-4,0,2024,D.H.F
 Uthai Thani,4-4,0,2024,D.H.F
 ZONE:04,4-4,0,2024,D.H.F
@@ -3000,12 +3000,12 @@ Trang,25-34,0,2024,D.H.F
 Yala,25-34,0,2024,D.H.F
 ZONE:13,25-34,0,2024,D.H.F
 Bangkok,25-34,0,2024,D.H.F
-Total,35-44,3,2024,D.H.F
-ZONE:01,35-44,1,2024,D.H.F
+Total,35-44,6,2024,D.H.F
+ZONE:01,35-44,2,2024,D.H.F
 Chiang Mai,35-44,0,2024,D.H.F
 Chiang Rai,35-44,0,2024,D.H.F
 Lampang,35-44,0,2024,D.H.F
-Lamphun,35-44,0,2024,D.H.F
+Lamphun,35-44,1,2024,D.H.F
 Mae Hong Son,35-44,0,2024,D.H.F
 Nan,35-44,0,2024,D.H.F
 Phayao,35-44,0,2024,D.H.F
@@ -3062,10 +3062,10 @@ Nong Bua Lam Phu,35-44,0,2024,D.H.F
 Nong Khai,35-44,0,2024,D.H.F
 Sakon Nakhon,35-44,0,2024,D.H.F
 Udon Thani,35-44,0,2024,D.H.F
-ZONE:09,35-44,0,2024,D.H.F
+ZONE:09,35-44,1,2024,D.H.F
 Buri Ram,35-44,0,2024,D.H.F
 Chaiyaphum,35-44,0,2024,D.H.F
-Nakhon Ratchasima,35-44,0,2024,D.H.F
+Nakhon Ratchasima,35-44,1,2024,D.H.F
 Surin,35-44,0,2024,D.H.F
 ZONE:10,35-44,0,2024,D.H.F
 Amnat Charoen,35-44,0,2024,D.H.F
@@ -3073,8 +3073,8 @@ Mukdahan,35-44,0,2024,D.H.F
 Si Sa Ket,35-44,0,2024,D.H.F
 Ubon Ratchathani,35-44,0,2024,D.H.F
 Yasothon,35-44,0,2024,D.H.F
-ZONE:11,35-44,0,2024,D.H.F
-Chumphon,35-44,0,2024,D.H.F
+ZONE:11,35-44,1,2024,D.H.F
+Chumphon,35-44,1,2024,D.H.F
 Krabi,35-44,0,2024,D.H.F
 Nakhon Si Thammarat,35-44,0,2024,D.H.F
 Phangnga,35-44,0,2024,D.H.F
@@ -3091,9 +3091,9 @@ Trang,35-44,0,2024,D.H.F
 Yala,35-44,0,2024,D.H.F
 ZONE:13,35-44,0,2024,D.H.F
 Bangkok,35-44,0,2024,D.H.F
-Total,45-54,1,2024,D.H.F
-ZONE:01,45-54,0,2024,D.H.F
-Chiang Mai,45-54,0,2024,D.H.F
+Total,45-54,4,2024,D.H.F
+ZONE:01,45-54,1,2024,D.H.F
+Chiang Mai,45-54,1,2024,D.H.F
 Chiang Rai,45-54,0,2024,D.H.F
 Lampang,45-54,0,2024,D.H.F
 Lamphun,45-54,0,2024,D.H.F
@@ -3140,11 +3140,11 @@ Rayong,45-54,0,2024,D.H.F
 Sa Kaeo,45-54,0,2024,D.H.F
 Samut Prakan,45-54,0,2024,D.H.F
 Trat,45-54,0,2024,D.H.F
-ZONE:07,45-54,0,2024,D.H.F
+ZONE:07,45-54,1,2024,D.H.F
 Kalasin,45-54,0,2024,D.H.F
 Khon Kaen,45-54,0,2024,D.H.F
 Maha Sarakham,45-54,0,2024,D.H.F
-Roi Et,45-54,0,2024,D.H.F
+Roi Et,45-54,1,2024,D.H.F
 ZONE:08,45-54,0,2024,D.H.F
 Bungkan,45-54,0,2024,D.H.F
 Loei,45-54,0,2024,D.H.F
@@ -3153,10 +3153,10 @@ Nong Bua Lam Phu,45-54,0,2024,D.H.F
 Nong Khai,45-54,0,2024,D.H.F
 Sakon Nakhon,45-54,0,2024,D.H.F
 Udon Thani,45-54,0,2024,D.H.F
-ZONE:09,45-54,0,2024,D.H.F
+ZONE:09,45-54,1,2024,D.H.F
 Buri Ram,45-54,0,2024,D.H.F
 Chaiyaphum,45-54,0,2024,D.H.F
-Nakhon Ratchasima,45-54,0,2024,D.H.F
+Nakhon Ratchasima,45-54,1,2024,D.H.F
 Surin,45-54,0,2024,D.H.F
 ZONE:10,45-54,0,2024,D.H.F
 Amnat Charoen,45-54,0,2024,D.H.F

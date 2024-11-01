@@ -31901,21 +31901,21 @@ Kamphaeng Phet,0,Dec,Deaths,2008,Rabies
 Nakhon Sawan,0,Dec,Deaths,2008,Rabies
 Phichit,0,Dec,Deaths,2008,Rabies
 Uthai Thani,0,Dec,Deaths,2008,Rabies
-Total,0,Total,Cases,2024,Rabies
-ZONE:01,0,Total,Cases,2024,Rabies
+Total,5,Total,Cases,2024,Rabies
+ZONE:01,1,Total,Cases,2024,Rabies
 Chiang Mai,0,Total,Cases,2024,Rabies
 Chiang Rai,0,Total,Cases,2024,Rabies
 Lampang,0,Total,Cases,2024,Rabies
 Lamphun,0,Total,Cases,2024,Rabies
-Mae Hong Son,0,Total,Cases,2024,Rabies
+Mae Hong Son,1,Total,Cases,2024,Rabies
 Nan,0,Total,Cases,2024,Rabies
 Phayao,0,Total,Cases,2024,Rabies
 Phrae,0,Total,Cases,2024,Rabies
-ZONE:02,0,Total,Cases,2024,Rabies
+ZONE:02,1,Total,Cases,2024,Rabies
 Phetchabun,0,Total,Cases,2024,Rabies
 Phitsanulok,0,Total,Cases,2024,Rabies
 Sukhothai,0,Total,Cases,2024,Rabies
-Tak,0,Total,Cases,2024,Rabies
+Tak,1,Total,Cases,2024,Rabies
 Uttaradit,0,Total,Cases,2024,Rabies
 ZONE:03,0,Total,Cases,2024,Rabies
 Chai Nat,0,Total,Cases,2024,Rabies
@@ -31941,14 +31941,14 @@ Ratchaburi,0,Total,Cases,2024,Rabies
 Samut Sakhon,0,Total,Cases,2024,Rabies
 Samut Songkhram,0,Total,Cases,2024,Rabies
 Suphan Buri,0,Total,Cases,2024,Rabies
-ZONE:06,0,Total,Cases,2024,Rabies
+ZONE:06,1,Total,Cases,2024,Rabies
 Chachoengsao,0,Total,Cases,2024,Rabies
 Chanthaburi,0,Total,Cases,2024,Rabies
 Chon Buri,0,Total,Cases,2024,Rabies
 Prachin Buri,0,Total,Cases,2024,Rabies
 Rayong,0,Total,Cases,2024,Rabies
 Sa Kaeo,0,Total,Cases,2024,Rabies
-Samut Prakan,0,Total,Cases,2024,Rabies
+Samut Prakan,1,Total,Cases,2024,Rabies
 Trat,0,Total,Cases,2024,Rabies
 ZONE:07,0,Total,Cases,2024,Rabies
 Kalasin,0,Total,Cases,2024,Rabies
@@ -31963,17 +31963,17 @@ Nong Bua Lam Phu,0,Total,Cases,2024,Rabies
 Nong Khai,0,Total,Cases,2024,Rabies
 Sakon Nakhon,0,Total,Cases,2024,Rabies
 Udon Thani,0,Total,Cases,2024,Rabies
-ZONE:09,0,Total,Cases,2024,Rabies
-Buri Ram,0,Total,Cases,2024,Rabies
+ZONE:09,1,Total,Cases,2024,Rabies
+Buri Ram,1,Total,Cases,2024,Rabies
 Chaiyaphum,0,Total,Cases,2024,Rabies
 Nakhon Ratchasima,0,Total,Cases,2024,Rabies
 Surin,0,Total,Cases,2024,Rabies
-ZONE:10,0,Total,Cases,2024,Rabies
+ZONE:10,1,Total,Cases,2024,Rabies
 Amnat Charoen,0,Total,Cases,2024,Rabies
 Mukdahan,0,Total,Cases,2024,Rabies
 Si Sa Ket,0,Total,Cases,2024,Rabies
 Ubon Ratchathani,0,Total,Cases,2024,Rabies
-Yasothon,0,Total,Cases,2024,Rabies
+Yasothon,1,Total,Cases,2024,Rabies
 ZONE:11,0,Total,Cases,2024,Rabies
 Chumphon,0,Total,Cases,2024,Rabies
 Krabi,0,Total,Cases,2024,Rabies
@@ -31992,21 +31992,21 @@ Trang,0,Total,Cases,2024,Rabies
 Yala,0,Total,Cases,2024,Rabies
 ZONE:13,0,Total,Cases,2024,Rabies
 Bangkok,0,Total,Cases,2024,Rabies
-Total,0,Total,Deaths,2024,Rabies
-ZONE:01,0,Total,Deaths,2024,Rabies
+Total,5,Total,Deaths,2024,Rabies
+ZONE:01,1,Total,Deaths,2024,Rabies
 Chiang Mai,0,Total,Deaths,2024,Rabies
 Chiang Rai,0,Total,Deaths,2024,Rabies
 Lampang,0,Total,Deaths,2024,Rabies
 Lamphun,0,Total,Deaths,2024,Rabies
-Mae Hong Son,0,Total,Deaths,2024,Rabies
+Mae Hong Son,1,Total,Deaths,2024,Rabies
 Nan,0,Total,Deaths,2024,Rabies
 Phayao,0,Total,Deaths,2024,Rabies
 Phrae,0,Total,Deaths,2024,Rabies
-ZONE:02,0,Total,Deaths,2024,Rabies
+ZONE:02,1,Total,Deaths,2024,Rabies
 Phetchabun,0,Total,Deaths,2024,Rabies
 Phitsanulok,0,Total,Deaths,2024,Rabies
 Sukhothai,0,Total,Deaths,2024,Rabies
-Tak,0,Total,Deaths,2024,Rabies
+Tak,1,Total,Deaths,2024,Rabies
 Uttaradit,0,Total,Deaths,2024,Rabies
 ZONE:03,0,Total,Deaths,2024,Rabies
 Chai Nat,0,Total,Deaths,2024,Rabies
@@ -32032,14 +32032,14 @@ Ratchaburi,0,Total,Deaths,2024,Rabies
 Samut Sakhon,0,Total,Deaths,2024,Rabies
 Samut Songkhram,0,Total,Deaths,2024,Rabies
 Suphan Buri,0,Total,Deaths,2024,Rabies
-ZONE:06,0,Total,Deaths,2024,Rabies
+ZONE:06,1,Total,Deaths,2024,Rabies
 Chachoengsao,0,Total,Deaths,2024,Rabies
 Chanthaburi,0,Total,Deaths,2024,Rabies
 Chon Buri,0,Total,Deaths,2024,Rabies
 Prachin Buri,0,Total,Deaths,2024,Rabies
 Rayong,0,Total,Deaths,2024,Rabies
 Sa Kaeo,0,Total,Deaths,2024,Rabies
-Samut Prakan,0,Total,Deaths,2024,Rabies
+Samut Prakan,1,Total,Deaths,2024,Rabies
 Trat,0,Total,Deaths,2024,Rabies
 ZONE:07,0,Total,Deaths,2024,Rabies
 Kalasin,0,Total,Deaths,2024,Rabies
@@ -32054,17 +32054,17 @@ Nong Bua Lam Phu,0,Total,Deaths,2024,Rabies
 Nong Khai,0,Total,Deaths,2024,Rabies
 Sakon Nakhon,0,Total,Deaths,2024,Rabies
 Udon Thani,0,Total,Deaths,2024,Rabies
-ZONE:09,0,Total,Deaths,2024,Rabies
-Buri Ram,0,Total,Deaths,2024,Rabies
+ZONE:09,1,Total,Deaths,2024,Rabies
+Buri Ram,1,Total,Deaths,2024,Rabies
 Chaiyaphum,0,Total,Deaths,2024,Rabies
 Nakhon Ratchasima,0,Total,Deaths,2024,Rabies
 Surin,0,Total,Deaths,2024,Rabies
-ZONE:10,0,Total,Deaths,2024,Rabies
+ZONE:10,1,Total,Deaths,2024,Rabies
 Amnat Charoen,0,Total,Deaths,2024,Rabies
 Mukdahan,0,Total,Deaths,2024,Rabies
 Si Sa Ket,0,Total,Deaths,2024,Rabies
 Ubon Ratchathani,0,Total,Deaths,2024,Rabies
-Yasothon,0,Total,Deaths,2024,Rabies
+Yasothon,1,Total,Deaths,2024,Rabies
 ZONE:11,0,Total,Deaths,2024,Rabies
 Chumphon,0,Total,Deaths,2024,Rabies
 Krabi,0,Total,Deaths,2024,Rabies
@@ -32631,7 +32631,7 @@ Trang,0,Mar,Deaths,2024,Rabies
 Yala,0,Mar,Deaths,2024,Rabies
 ZONE:13,0,Mar,Deaths,2024,Rabies
 Bangkok,0,Mar,Deaths,2024,Rabies
-Total,0,Apr,Cases,2024,Rabies
+Total,1,Apr,Cases,2024,Rabies
 ZONE:01,0,Apr,Cases,2024,Rabies
 Chiang Mai,0,Apr,Cases,2024,Rabies
 Chiang Rai,0,Apr,Cases,2024,Rabies
@@ -32698,12 +32698,12 @@ Buri Ram,0,Apr,Cases,2024,Rabies
 Chaiyaphum,0,Apr,Cases,2024,Rabies
 Nakhon Ratchasima,0,Apr,Cases,2024,Rabies
 Surin,0,Apr,Cases,2024,Rabies
-ZONE:10,0,Apr,Cases,2024,Rabies
+ZONE:10,1,Apr,Cases,2024,Rabies
 Amnat Charoen,0,Apr,Cases,2024,Rabies
 Mukdahan,0,Apr,Cases,2024,Rabies
 Si Sa Ket,0,Apr,Cases,2024,Rabies
 Ubon Ratchathani,0,Apr,Cases,2024,Rabies
-Yasothon,0,Apr,Cases,2024,Rabies
+Yasothon,1,Apr,Cases,2024,Rabies
 ZONE:11,0,Apr,Cases,2024,Rabies
 Chumphon,0,Apr,Cases,2024,Rabies
 Krabi,0,Apr,Cases,2024,Rabies
@@ -32722,7 +32722,7 @@ Trang,0,Apr,Cases,2024,Rabies
 Yala,0,Apr,Cases,2024,Rabies
 ZONE:13,0,Apr,Cases,2024,Rabies
 Bangkok,0,Apr,Cases,2024,Rabies
-Total,0,Apr,Deaths,2024,Rabies
+Total,1,Apr,Deaths,2024,Rabies
 ZONE:01,0,Apr,Deaths,2024,Rabies
 Chiang Mai,0,Apr,Deaths,2024,Rabies
 Chiang Rai,0,Apr,Deaths,2024,Rabies
@@ -32789,12 +32789,12 @@ Buri Ram,0,Apr,Deaths,2024,Rabies
 Chaiyaphum,0,Apr,Deaths,2024,Rabies
 Nakhon Ratchasima,0,Apr,Deaths,2024,Rabies
 Surin,0,Apr,Deaths,2024,Rabies
-ZONE:10,0,Apr,Deaths,2024,Rabies
+ZONE:10,1,Apr,Deaths,2024,Rabies
 Amnat Charoen,0,Apr,Deaths,2024,Rabies
 Mukdahan,0,Apr,Deaths,2024,Rabies
 Si Sa Ket,0,Apr,Deaths,2024,Rabies
 Ubon Ratchathani,0,Apr,Deaths,2024,Rabies
-Yasothon,0,Apr,Deaths,2024,Rabies
+Yasothon,1,Apr,Deaths,2024,Rabies
 ZONE:11,0,Apr,Deaths,2024,Rabies
 Chumphon,0,Apr,Deaths,2024,Rabies
 Krabi,0,Apr,Deaths,2024,Rabies
@@ -32813,7 +32813,7 @@ Trang,0,Apr,Deaths,2024,Rabies
 Yala,0,Apr,Deaths,2024,Rabies
 ZONE:13,0,Apr,Deaths,2024,Rabies
 Bangkok,0,Apr,Deaths,2024,Rabies
-Total,0,May,Cases,2024,Rabies
+Total,1,May,Cases,2024,Rabies
 ZONE:01,0,May,Cases,2024,Rabies
 Chiang Mai,0,May,Cases,2024,Rabies
 Chiang Rai,0,May,Cases,2024,Rabies
@@ -32823,11 +32823,11 @@ Mae Hong Son,0,May,Cases,2024,Rabies
 Nan,0,May,Cases,2024,Rabies
 Phayao,0,May,Cases,2024,Rabies
 Phrae,0,May,Cases,2024,Rabies
-ZONE:02,0,May,Cases,2024,Rabies
+ZONE:02,1,May,Cases,2024,Rabies
 Phetchabun,0,May,Cases,2024,Rabies
 Phitsanulok,0,May,Cases,2024,Rabies
 Sukhothai,0,May,Cases,2024,Rabies
-Tak,0,May,Cases,2024,Rabies
+Tak,1,May,Cases,2024,Rabies
 Uttaradit,0,May,Cases,2024,Rabies
 ZONE:03,0,May,Cases,2024,Rabies
 Chai Nat,0,May,Cases,2024,Rabies
@@ -32904,7 +32904,7 @@ Trang,0,May,Cases,2024,Rabies
 Yala,0,May,Cases,2024,Rabies
 ZONE:13,0,May,Cases,2024,Rabies
 Bangkok,0,May,Cases,2024,Rabies
-Total,0,May,Deaths,2024,Rabies
+Total,1,May,Deaths,2024,Rabies
 ZONE:01,0,May,Deaths,2024,Rabies
 Chiang Mai,0,May,Deaths,2024,Rabies
 Chiang Rai,0,May,Deaths,2024,Rabies
@@ -32914,11 +32914,11 @@ Mae Hong Son,0,May,Deaths,2024,Rabies
 Nan,0,May,Deaths,2024,Rabies
 Phayao,0,May,Deaths,2024,Rabies
 Phrae,0,May,Deaths,2024,Rabies
-ZONE:02,0,May,Deaths,2024,Rabies
+ZONE:02,1,May,Deaths,2024,Rabies
 Phetchabun,0,May,Deaths,2024,Rabies
 Phitsanulok,0,May,Deaths,2024,Rabies
 Sukhothai,0,May,Deaths,2024,Rabies
-Tak,0,May,Deaths,2024,Rabies
+Tak,1,May,Deaths,2024,Rabies
 Uttaradit,0,May,Deaths,2024,Rabies
 ZONE:03,0,May,Deaths,2024,Rabies
 Chai Nat,0,May,Deaths,2024,Rabies
@@ -32995,13 +32995,13 @@ Trang,0,May,Deaths,2024,Rabies
 Yala,0,May,Deaths,2024,Rabies
 ZONE:13,0,May,Deaths,2024,Rabies
 Bangkok,0,May,Deaths,2024,Rabies
-Total,0,June,Cases,2024,Rabies
-ZONE:01,0,June,Cases,2024,Rabies
+Total,1,June,Cases,2024,Rabies
+ZONE:01,1,June,Cases,2024,Rabies
 Chiang Mai,0,June,Cases,2024,Rabies
 Chiang Rai,0,June,Cases,2024,Rabies
 Lampang,0,June,Cases,2024,Rabies
 Lamphun,0,June,Cases,2024,Rabies
-Mae Hong Son,0,June,Cases,2024,Rabies
+Mae Hong Son,1,June,Cases,2024,Rabies
 Nan,0,June,Cases,2024,Rabies
 Phayao,0,June,Cases,2024,Rabies
 Phrae,0,June,Cases,2024,Rabies
@@ -33086,13 +33086,13 @@ Trang,0,June,Cases,2024,Rabies
 Yala,0,June,Cases,2024,Rabies
 ZONE:13,0,June,Cases,2024,Rabies
 Bangkok,0,June,Cases,2024,Rabies
-Total,0,June,Deaths,2024,Rabies
-ZONE:01,0,June,Deaths,2024,Rabies
+Total,1,June,Deaths,2024,Rabies
+ZONE:01,1,June,Deaths,2024,Rabies
 Chiang Mai,0,June,Deaths,2024,Rabies
 Chiang Rai,0,June,Deaths,2024,Rabies
 Lampang,0,June,Deaths,2024,Rabies
 Lamphun,0,June,Deaths,2024,Rabies
-Mae Hong Son,0,June,Deaths,2024,Rabies
+Mae Hong Son,1,June,Deaths,2024,Rabies
 Nan,0,June,Deaths,2024,Rabies
 Phayao,0,June,Deaths,2024,Rabies
 Phrae,0,June,Deaths,2024,Rabies
@@ -33359,7 +33359,7 @@ Trang,0,July,Deaths,2024,Rabies
 Yala,0,July,Deaths,2024,Rabies
 ZONE:13,0,July,Deaths,2024,Rabies
 Bangkok,0,July,Deaths,2024,Rabies
-Total,0,Aug,Cases,2024,Rabies
+Total,2,Aug,Cases,2024,Rabies
 ZONE:01,0,Aug,Cases,2024,Rabies
 Chiang Mai,0,Aug,Cases,2024,Rabies
 Chiang Rai,0,Aug,Cases,2024,Rabies
@@ -33399,14 +33399,14 @@ Ratchaburi,0,Aug,Cases,2024,Rabies
 Samut Sakhon,0,Aug,Cases,2024,Rabies
 Samut Songkhram,0,Aug,Cases,2024,Rabies
 Suphan Buri,0,Aug,Cases,2024,Rabies
-ZONE:06,0,Aug,Cases,2024,Rabies
+ZONE:06,1,Aug,Cases,2024,Rabies
 Chachoengsao,0,Aug,Cases,2024,Rabies
 Chanthaburi,0,Aug,Cases,2024,Rabies
 Chon Buri,0,Aug,Cases,2024,Rabies
 Prachin Buri,0,Aug,Cases,2024,Rabies
 Rayong,0,Aug,Cases,2024,Rabies
 Sa Kaeo,0,Aug,Cases,2024,Rabies
-Samut Prakan,0,Aug,Cases,2024,Rabies
+Samut Prakan,1,Aug,Cases,2024,Rabies
 Trat,0,Aug,Cases,2024,Rabies
 ZONE:07,0,Aug,Cases,2024,Rabies
 Kalasin,0,Aug,Cases,2024,Rabies
@@ -33421,8 +33421,8 @@ Nong Bua Lam Phu,0,Aug,Cases,2024,Rabies
 Nong Khai,0,Aug,Cases,2024,Rabies
 Sakon Nakhon,0,Aug,Cases,2024,Rabies
 Udon Thani,0,Aug,Cases,2024,Rabies
-ZONE:09,0,Aug,Cases,2024,Rabies
-Buri Ram,0,Aug,Cases,2024,Rabies
+ZONE:09,1,Aug,Cases,2024,Rabies
+Buri Ram,1,Aug,Cases,2024,Rabies
 Chaiyaphum,0,Aug,Cases,2024,Rabies
 Nakhon Ratchasima,0,Aug,Cases,2024,Rabies
 Surin,0,Aug,Cases,2024,Rabies
@@ -33450,7 +33450,7 @@ Trang,0,Aug,Cases,2024,Rabies
 Yala,0,Aug,Cases,2024,Rabies
 ZONE:13,0,Aug,Cases,2024,Rabies
 Bangkok,0,Aug,Cases,2024,Rabies
-Total,0,Aug,Deaths,2024,Rabies
+Total,2,Aug,Deaths,2024,Rabies
 ZONE:01,0,Aug,Deaths,2024,Rabies
 Chiang Mai,0,Aug,Deaths,2024,Rabies
 Chiang Rai,0,Aug,Deaths,2024,Rabies
@@ -33490,14 +33490,14 @@ Ratchaburi,0,Aug,Deaths,2024,Rabies
 Samut Sakhon,0,Aug,Deaths,2024,Rabies
 Samut Songkhram,0,Aug,Deaths,2024,Rabies
 Suphan Buri,0,Aug,Deaths,2024,Rabies
-ZONE:06,0,Aug,Deaths,2024,Rabies
+ZONE:06,1,Aug,Deaths,2024,Rabies
 Chachoengsao,0,Aug,Deaths,2024,Rabies
 Chanthaburi,0,Aug,Deaths,2024,Rabies
 Chon Buri,0,Aug,Deaths,2024,Rabies
 Prachin Buri,0,Aug,Deaths,2024,Rabies
 Rayong,0,Aug,Deaths,2024,Rabies
 Sa Kaeo,0,Aug,Deaths,2024,Rabies
-Samut Prakan,0,Aug,Deaths,2024,Rabies
+Samut Prakan,1,Aug,Deaths,2024,Rabies
 Trat,0,Aug,Deaths,2024,Rabies
 ZONE:07,0,Aug,Deaths,2024,Rabies
 Kalasin,0,Aug,Deaths,2024,Rabies
@@ -33512,8 +33512,8 @@ Nong Bua Lam Phu,0,Aug,Deaths,2024,Rabies
 Nong Khai,0,Aug,Deaths,2024,Rabies
 Sakon Nakhon,0,Aug,Deaths,2024,Rabies
 Udon Thani,0,Aug,Deaths,2024,Rabies
-ZONE:09,0,Aug,Deaths,2024,Rabies
-Buri Ram,0,Aug,Deaths,2024,Rabies
+ZONE:09,1,Aug,Deaths,2024,Rabies
+Buri Ram,1,Aug,Deaths,2024,Rabies
 Chaiyaphum,0,Aug,Deaths,2024,Rabies
 Nakhon Ratchasima,0,Aug,Deaths,2024,Rabies
 Surin,0,Aug,Deaths,2024,Rabies

@@ -3437,7 +3437,7 @@ Trang,Unknown,0,2016,Mushroom poisoning
 Yala,Unknown,0,2016,Mushroom poisoning
 ZONE:13,Unknown,0,2016,Mushroom poisoning
 Bangkok,Unknown,0,2016,Mushroom poisoning
-Total,Total,1,2024,Mushroom poisoning
+Total,Total,11,2024,Mushroom poisoning
 ZONE:01,Total,0,2024,Mushroom poisoning
 Chiang Mai,Total,0,2024,Mushroom poisoning
 Chiang Rai,Total,0,2024,Mushroom poisoning
@@ -3486,38 +3486,38 @@ Rayong,Total,0,2024,Mushroom poisoning
 Sa Kaeo,Total,0,2024,Mushroom poisoning
 Samut Prakan,Total,0,2024,Mushroom poisoning
 Trat,Total,0,2024,Mushroom poisoning
-ZONE:07,Total,0,2024,Mushroom poisoning
+ZONE:07,Total,2,2024,Mushroom poisoning
 Kalasin,Total,0,2024,Mushroom poisoning
 Khon Kaen,Total,0,2024,Mushroom poisoning
 Maha Sarakham,Total,0,2024,Mushroom poisoning
-Roi Et,Total,0,2024,Mushroom poisoning
-ZONE:08,Total,0,2024,Mushroom poisoning
+Roi Et,Total,2,2024,Mushroom poisoning
+ZONE:08,Total,1,2024,Mushroom poisoning
 Bungkan,Total,0,2024,Mushroom poisoning
 Loei,Total,0,2024,Mushroom poisoning
 Nakhon Phanom,Total,0,2024,Mushroom poisoning
 Nong Bua Lam Phu,Total,0,2024,Mushroom poisoning
 Nong Khai,Total,0,2024,Mushroom poisoning
 Sakon Nakhon,Total,0,2024,Mushroom poisoning
-Udon Thani,Total,0,2024,Mushroom poisoning
-ZONE:09,Total,0,2024,Mushroom poisoning
-Buri Ram,Total,0,2024,Mushroom poisoning
+Udon Thani,Total,1,2024,Mushroom poisoning
+ZONE:09,Total,1,2024,Mushroom poisoning
+Buri Ram,Total,1,2024,Mushroom poisoning
 Chaiyaphum,Total,0,2024,Mushroom poisoning
 Nakhon Ratchasima,Total,0,2024,Mushroom poisoning
 Surin,Total,0,2024,Mushroom poisoning
-ZONE:10,Total,1,2024,Mushroom poisoning
+ZONE:10,Total,6,2024,Mushroom poisoning
 Amnat Charoen,Total,0,2024,Mushroom poisoning
 Mukdahan,Total,0,2024,Mushroom poisoning
-Si Sa Ket,Total,0,2024,Mushroom poisoning
-Ubon Ratchathani,Total,0,2024,Mushroom poisoning
-Yasothon,Total,1,2024,Mushroom poisoning
-ZONE:11,Total,0,2024,Mushroom poisoning
+Si Sa Ket,Total,1,2024,Mushroom poisoning
+Ubon Ratchathani,Total,1,2024,Mushroom poisoning
+Yasothon,Total,4,2024,Mushroom poisoning
+ZONE:11,Total,1,2024,Mushroom poisoning
 Chumphon,Total,0,2024,Mushroom poisoning
 Krabi,Total,0,2024,Mushroom poisoning
 Nakhon Si Thammarat,Total,0,2024,Mushroom poisoning
 Phangnga,Total,0,2024,Mushroom poisoning
 Phuket,Total,0,2024,Mushroom poisoning
 Ranong,Total,0,2024,Mushroom poisoning
-Surat Thani,Total,0,2024,Mushroom poisoning
+Surat Thani,Total,1,2024,Mushroom poisoning
 ZONE:12,Total,0,2024,Mushroom poisoning
 Narathiwat,Total,0,2024,Mushroom poisoning
 Pattani,Total,0,2024,Mushroom poisoning
@@ -4347,7 +4347,7 @@ Trang,7-9,0,2024,Mushroom poisoning
 Yala,7-9,0,2024,Mushroom poisoning
 ZONE:13,7-9,0,2024,Mushroom poisoning
 Bangkok,7-9,0,2024,Mushroom poisoning
-Total,10-14,0,2024,Mushroom poisoning
+Total,10-14,1,2024,Mushroom poisoning
 ZONE:01,10-14,0,2024,Mushroom poisoning
 Chiang Mai,10-14,0,2024,Mushroom poisoning
 Chiang Rai,10-14,0,2024,Mushroom poisoning
@@ -4414,11 +4414,11 @@ Buri Ram,10-14,0,2024,Mushroom poisoning
 Chaiyaphum,10-14,0,2024,Mushroom poisoning
 Nakhon Ratchasima,10-14,0,2024,Mushroom poisoning
 Surin,10-14,0,2024,Mushroom poisoning
-ZONE:10,10-14,0,2024,Mushroom poisoning
+ZONE:10,10-14,1,2024,Mushroom poisoning
 Amnat Charoen,10-14,0,2024,Mushroom poisoning
 Mukdahan,10-14,0,2024,Mushroom poisoning
 Si Sa Ket,10-14,0,2024,Mushroom poisoning
-Ubon Ratchathani,10-14,0,2024,Mushroom poisoning
+Ubon Ratchathani,10-14,1,2024,Mushroom poisoning
 Yasothon,10-14,0,2024,Mushroom poisoning
 ZONE:11,10-14,0,2024,Mushroom poisoning
 Chumphon,10-14,0,2024,Mushroom poisoning
@@ -4711,7 +4711,7 @@ Trang,35-44,0,2024,Mushroom poisoning
 Yala,35-44,0,2024,Mushroom poisoning
 ZONE:13,35-44,0,2024,Mushroom poisoning
 Bangkok,35-44,0,2024,Mushroom poisoning
-Total,45-54,1,2024,Mushroom poisoning
+Total,45-54,4,2024,Mushroom poisoning
 ZONE:01,45-54,0,2024,Mushroom poisoning
 Chiang Mai,45-54,0,2024,Mushroom poisoning
 Chiang Rai,45-54,0,2024,Mushroom poisoning
@@ -4773,17 +4773,17 @@ Nong Bua Lam Phu,45-54,0,2024,Mushroom poisoning
 Nong Khai,45-54,0,2024,Mushroom poisoning
 Sakon Nakhon,45-54,0,2024,Mushroom poisoning
 Udon Thani,45-54,0,2024,Mushroom poisoning
-ZONE:09,45-54,0,2024,Mushroom poisoning
-Buri Ram,45-54,0,2024,Mushroom poisoning
+ZONE:09,45-54,1,2024,Mushroom poisoning
+Buri Ram,45-54,1,2024,Mushroom poisoning
 Chaiyaphum,45-54,0,2024,Mushroom poisoning
 Nakhon Ratchasima,45-54,0,2024,Mushroom poisoning
 Surin,45-54,0,2024,Mushroom poisoning
-ZONE:10,45-54,1,2024,Mushroom poisoning
+ZONE:10,45-54,3,2024,Mushroom poisoning
 Amnat Charoen,45-54,0,2024,Mushroom poisoning
 Mukdahan,45-54,0,2024,Mushroom poisoning
 Si Sa Ket,45-54,0,2024,Mushroom poisoning
 Ubon Ratchathani,45-54,0,2024,Mushroom poisoning
-Yasothon,45-54,1,2024,Mushroom poisoning
+Yasothon,45-54,3,2024,Mushroom poisoning
 ZONE:11,45-54,0,2024,Mushroom poisoning
 Chumphon,45-54,0,2024,Mushroom poisoning
 Krabi,45-54,0,2024,Mushroom poisoning
@@ -4802,7 +4802,7 @@ Trang,45-54,0,2024,Mushroom poisoning
 Yala,45-54,0,2024,Mushroom poisoning
 ZONE:13,45-54,0,2024,Mushroom poisoning
 Bangkok,45-54,0,2024,Mushroom poisoning
-Total,55-64,0,2024,Mushroom poisoning
+Total,55-64,2,2024,Mushroom poisoning
 ZONE:01,55-64,0,2024,Mushroom poisoning
 Chiang Mai,55-64,0,2024,Mushroom poisoning
 Chiang Rai,55-64,0,2024,Mushroom poisoning
@@ -4856,14 +4856,14 @@ Kalasin,55-64,0,2024,Mushroom poisoning
 Khon Kaen,55-64,0,2024,Mushroom poisoning
 Maha Sarakham,55-64,0,2024,Mushroom poisoning
 Roi Et,55-64,0,2024,Mushroom poisoning
-ZONE:08,55-64,0,2024,Mushroom poisoning
+ZONE:08,55-64,1,2024,Mushroom poisoning
 Bungkan,55-64,0,2024,Mushroom poisoning
 Loei,55-64,0,2024,Mushroom poisoning
 Nakhon Phanom,55-64,0,2024,Mushroom poisoning
 Nong Bua Lam Phu,55-64,0,2024,Mushroom poisoning
 Nong Khai,55-64,0,2024,Mushroom poisoning
 Sakon Nakhon,55-64,0,2024,Mushroom poisoning
-Udon Thani,55-64,0,2024,Mushroom poisoning
+Udon Thani,55-64,1,2024,Mushroom poisoning
 ZONE:09,55-64,0,2024,Mushroom poisoning
 Buri Ram,55-64,0,2024,Mushroom poisoning
 Chaiyaphum,55-64,0,2024,Mushroom poisoning
@@ -4875,14 +4875,14 @@ Mukdahan,55-64,0,2024,Mushroom poisoning
 Si Sa Ket,55-64,0,2024,Mushroom poisoning
 Ubon Ratchathani,55-64,0,2024,Mushroom poisoning
 Yasothon,55-64,0,2024,Mushroom poisoning
-ZONE:11,55-64,0,2024,Mushroom poisoning
+ZONE:11,55-64,1,2024,Mushroom poisoning
 Chumphon,55-64,0,2024,Mushroom poisoning
 Krabi,55-64,0,2024,Mushroom poisoning
 Nakhon Si Thammarat,55-64,0,2024,Mushroom poisoning
 Phangnga,55-64,0,2024,Mushroom poisoning
 Phuket,55-64,0,2024,Mushroom poisoning
 Ranong,55-64,0,2024,Mushroom poisoning
-Surat Thani,55-64,0,2024,Mushroom poisoning
+Surat Thani,55-64,1,2024,Mushroom poisoning
 ZONE:12,55-64,0,2024,Mushroom poisoning
 Narathiwat,55-64,0,2024,Mushroom poisoning
 Pattani,55-64,0,2024,Mushroom poisoning
@@ -4893,7 +4893,7 @@ Trang,55-64,0,2024,Mushroom poisoning
 Yala,55-64,0,2024,Mushroom poisoning
 ZONE:13,55-64,0,2024,Mushroom poisoning
 Bangkok,55-64,0,2024,Mushroom poisoning
-Total,65+,0,2024,Mushroom poisoning
+Total,65+,4,2024,Mushroom poisoning
 ZONE:01,65+,0,2024,Mushroom poisoning
 Chiang Mai,65+,0,2024,Mushroom poisoning
 Chiang Rai,65+,0,2024,Mushroom poisoning
@@ -4942,11 +4942,11 @@ Rayong,65+,0,2024,Mushroom poisoning
 Sa Kaeo,65+,0,2024,Mushroom poisoning
 Samut Prakan,65+,0,2024,Mushroom poisoning
 Trat,65+,0,2024,Mushroom poisoning
-ZONE:07,65+,0,2024,Mushroom poisoning
+ZONE:07,65+,2,2024,Mushroom poisoning
 Kalasin,65+,0,2024,Mushroom poisoning
 Khon Kaen,65+,0,2024,Mushroom poisoning
 Maha Sarakham,65+,0,2024,Mushroom poisoning
-Roi Et,65+,0,2024,Mushroom poisoning
+Roi Et,65+,2,2024,Mushroom poisoning
 ZONE:08,65+,0,2024,Mushroom poisoning
 Bungkan,65+,0,2024,Mushroom poisoning
 Loei,65+,0,2024,Mushroom poisoning
@@ -4960,12 +4960,12 @@ Buri Ram,65+,0,2024,Mushroom poisoning
 Chaiyaphum,65+,0,2024,Mushroom poisoning
 Nakhon Ratchasima,65+,0,2024,Mushroom poisoning
 Surin,65+,0,2024,Mushroom poisoning
-ZONE:10,65+,0,2024,Mushroom poisoning
+ZONE:10,65+,2,2024,Mushroom poisoning
 Amnat Charoen,65+,0,2024,Mushroom poisoning
 Mukdahan,65+,0,2024,Mushroom poisoning
-Si Sa Ket,65+,0,2024,Mushroom poisoning
+Si Sa Ket,65+,1,2024,Mushroom poisoning
 Ubon Ratchathani,65+,0,2024,Mushroom poisoning
-Yasothon,65+,0,2024,Mushroom poisoning
+Yasothon,65+,1,2024,Mushroom poisoning
 ZONE:11,65+,0,2024,Mushroom poisoning
 Chumphon,65+,0,2024,Mushroom poisoning
 Krabi,65+,0,2024,Mushroom poisoning

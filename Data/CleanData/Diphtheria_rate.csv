@@ -1811,7 +1811,7 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,726104,2008,Diphtheria
 Nakhon Sawan,0,0.00,0,0.00,0.00,1073962,2008,Diphtheria
 Phichit,0,0.00,0,0.00,0.00,554426,2008,Diphtheria
 Uthai Thani,0,0.00,0,0.00,0.00,327281,2008,Diphtheria
-Total,1,0.00,1,100.00,0.00,66071545,2024,Diphtheria
+Total,2,0.00,1,50.00,0.00,66071545,2024,Diphtheria
 ZONE:01,0,0.00,0,0.00,0.00,5857413,2024,Diphtheria
 Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Diphtheria
 Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Diphtheria
@@ -1892,9 +1892,9 @@ Phangnga,0,0.00,0,0.00,0.00,267250,2024,Diphtheria
 Phuket,0,0.00,0,0.00,0.00,420746,2024,Diphtheria
 Ranong,0,0.00,0,0.00,0.00,193799,2024,Diphtheria
 Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,Diphtheria
-ZONE:12,1,0.02,1,100.00,0.02,5015209,2024,Diphtheria
+ZONE:12,2,0.04,1,50.00,0.02,5015209,2024,Diphtheria
 Narathiwat,0,0.00,0,0.00,0.00,816642,2024,Diphtheria
-Pattani,1,0.14,1,100.00,0.14,735017,2024,Diphtheria
+Pattani,2,0.27,1,50.00,0.14,735017,2024,Diphtheria
 Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Diphtheria
 Satun,0,0.00,0,0.00,0.00,325387,2024,Diphtheria
 Songkhla,0,0.00,0,0.00,0.00,1431512,2024,Diphtheria

@@ -3275,7 +3275,7 @@ Trang,Unknown,0,2022,Japanese B encephalitis
 Yala,Unknown,0,2022,Japanese B encephalitis
 ZONE:13,Unknown,0,2022,Japanese B encephalitis
 Bangkok,Unknown,0,2022,Japanese B encephalitis
-Total,Total,2,2024,Japanese B encephalitis
+Total,Total,7,2024,Japanese B encephalitis
 ZONE:01,Total,0,2024,Japanese B encephalitis
 Chiang Mai,Total,0,2024,Japanese B encephalitis
 Chiang Rai,Total,0,2024,Japanese B encephalitis
@@ -3285,10 +3285,10 @@ Mae Hong Son,Total,0,2024,Japanese B encephalitis
 Nan,Total,0,2024,Japanese B encephalitis
 Phayao,Total,0,2024,Japanese B encephalitis
 Phrae,Total,0,2024,Japanese B encephalitis
-ZONE:02,Total,0,2024,Japanese B encephalitis
+ZONE:02,Total,1,2024,Japanese B encephalitis
 Phetchabun,Total,0,2024,Japanese B encephalitis
 Phitsanulok,Total,0,2024,Japanese B encephalitis
-Sukhothai,Total,0,2024,Japanese B encephalitis
+Sukhothai,Total,1,2024,Japanese B encephalitis
 Tak,Total,0,2024,Japanese B encephalitis
 Uttaradit,Total,0,2024,Japanese B encephalitis
 ZONE:03,Total,0,2024,Japanese B encephalitis
@@ -3297,13 +3297,13 @@ Kamphaeng Phet,Total,0,2024,Japanese B encephalitis
 Nakhon Sawan,Total,0,2024,Japanese B encephalitis
 Phichit,Total,0,2024,Japanese B encephalitis
 Uthai Thani,Total,0,2024,Japanese B encephalitis
-ZONE:04,Total,0,2024,Japanese B encephalitis
+ZONE:04,Total,1,2024,Japanese B encephalitis
 Ang Thong,Total,0,2024,Japanese B encephalitis
 Lop Buri,Total,0,2024,Japanese B encephalitis
 Nakhon Nayok,Total,0,2024,Japanese B encephalitis
 Nonthaburi,Total,0,2024,Japanese B encephalitis
 P.Nakhon S.Ayutthaya,Total,0,2024,Japanese B encephalitis
-Pathum Thani,Total,0,2024,Japanese B encephalitis
+Pathum Thani,Total,1,2024,Japanese B encephalitis
 Saraburi,Total,0,2024,Japanese B encephalitis
 Sing Buri,Total,0,2024,Japanese B encephalitis
 ZONE:05,Total,0,2024,Japanese B encephalitis
@@ -3348,12 +3348,12 @@ Mukdahan,Total,0,2024,Japanese B encephalitis
 Si Sa Ket,Total,0,2024,Japanese B encephalitis
 Ubon Ratchathani,Total,0,2024,Japanese B encephalitis
 Yasothon,Total,0,2024,Japanese B encephalitis
-ZONE:11,Total,1,2024,Japanese B encephalitis
+ZONE:11,Total,2,2024,Japanese B encephalitis
 Chumphon,Total,0,2024,Japanese B encephalitis
 Krabi,Total,0,2024,Japanese B encephalitis
 Nakhon Si Thammarat,Total,0,2024,Japanese B encephalitis
 Phangnga,Total,0,2024,Japanese B encephalitis
-Phuket,Total,0,2024,Japanese B encephalitis
+Phuket,Total,1,2024,Japanese B encephalitis
 Ranong,Total,0,2024,Japanese B encephalitis
 Surat Thani,Total,1,2024,Japanese B encephalitis
 ZONE:12,Total,1,2024,Japanese B encephalitis
@@ -3364,8 +3364,8 @@ Satun,Total,0,2024,Japanese B encephalitis
 Songkhla,Total,1,2024,Japanese B encephalitis
 Trang,Total,0,2024,Japanese B encephalitis
 Yala,Total,0,2024,Japanese B encephalitis
-ZONE:13,Total,0,2024,Japanese B encephalitis
-Bangkok,Total,0,2024,Japanese B encephalitis
+ZONE:13,Total,2,2024,Japanese B encephalitis
+Bangkok,Total,2,2024,Japanese B encephalitis
 Total,0,0,2024,Japanese B encephalitis
 ZONE:01,0,0,2024,Japanese B encephalitis
 Chiang Mai,0,0,2024,Japanese B encephalitis
@@ -3548,7 +3548,7 @@ Trang,<1,0,2024,Japanese B encephalitis
 Yala,<1,0,2024,Japanese B encephalitis
 ZONE:13,<1,0,2024,Japanese B encephalitis
 Bangkok,<1,0,2024,Japanese B encephalitis
-Total,1-1,0,2024,Japanese B encephalitis
+Total,1-1,1,2024,Japanese B encephalitis
 ZONE:01,1-1,0,2024,Japanese B encephalitis
 Chiang Mai,1-1,0,2024,Japanese B encephalitis
 Chiang Rai,1-1,0,2024,Japanese B encephalitis
@@ -3621,12 +3621,12 @@ Mukdahan,1-1,0,2024,Japanese B encephalitis
 Si Sa Ket,1-1,0,2024,Japanese B encephalitis
 Ubon Ratchathani,1-1,0,2024,Japanese B encephalitis
 Yasothon,1-1,0,2024,Japanese B encephalitis
-ZONE:11,1-1,0,2024,Japanese B encephalitis
+ZONE:11,1-1,1,2024,Japanese B encephalitis
 Chumphon,1-1,0,2024,Japanese B encephalitis
 Krabi,1-1,0,2024,Japanese B encephalitis
 Nakhon Si Thammarat,1-1,0,2024,Japanese B encephalitis
 Phangnga,1-1,0,2024,Japanese B encephalitis
-Phuket,1-1,0,2024,Japanese B encephalitis
+Phuket,1-1,1,2024,Japanese B encephalitis
 Ranong,1-1,0,2024,Japanese B encephalitis
 Surat Thani,1-1,0,2024,Japanese B encephalitis
 ZONE:12,1-1,0,2024,Japanese B encephalitis
@@ -4367,7 +4367,7 @@ Trang,15-24,0,2024,Japanese B encephalitis
 Yala,15-24,0,2024,Japanese B encephalitis
 ZONE:13,15-24,0,2024,Japanese B encephalitis
 Bangkok,15-24,0,2024,Japanese B encephalitis
-Total,25-34,0,2024,Japanese B encephalitis
+Total,25-34,2,2024,Japanese B encephalitis
 ZONE:01,25-34,0,2024,Japanese B encephalitis
 Chiang Mai,25-34,0,2024,Japanese B encephalitis
 Chiang Rai,25-34,0,2024,Japanese B encephalitis
@@ -4456,9 +4456,9 @@ Satun,25-34,0,2024,Japanese B encephalitis
 Songkhla,25-34,0,2024,Japanese B encephalitis
 Trang,25-34,0,2024,Japanese B encephalitis
 Yala,25-34,0,2024,Japanese B encephalitis
-ZONE:13,25-34,0,2024,Japanese B encephalitis
-Bangkok,25-34,0,2024,Japanese B encephalitis
-Total,35-44,1,2024,Japanese B encephalitis
+ZONE:13,25-34,2,2024,Japanese B encephalitis
+Bangkok,25-34,2,2024,Japanese B encephalitis
+Total,35-44,2,2024,Japanese B encephalitis
 ZONE:01,35-44,0,2024,Japanese B encephalitis
 Chiang Mai,35-44,0,2024,Japanese B encephalitis
 Chiang Rai,35-44,0,2024,Japanese B encephalitis
@@ -4468,10 +4468,10 @@ Mae Hong Son,35-44,0,2024,Japanese B encephalitis
 Nan,35-44,0,2024,Japanese B encephalitis
 Phayao,35-44,0,2024,Japanese B encephalitis
 Phrae,35-44,0,2024,Japanese B encephalitis
-ZONE:02,35-44,0,2024,Japanese B encephalitis
+ZONE:02,35-44,1,2024,Japanese B encephalitis
 Phetchabun,35-44,0,2024,Japanese B encephalitis
 Phitsanulok,35-44,0,2024,Japanese B encephalitis
-Sukhothai,35-44,0,2024,Japanese B encephalitis
+Sukhothai,35-44,1,2024,Japanese B encephalitis
 Tak,35-44,0,2024,Japanese B encephalitis
 Uttaradit,35-44,0,2024,Japanese B encephalitis
 ZONE:03,35-44,0,2024,Japanese B encephalitis
@@ -4549,7 +4549,7 @@ Trang,35-44,0,2024,Japanese B encephalitis
 Yala,35-44,0,2024,Japanese B encephalitis
 ZONE:13,35-44,0,2024,Japanese B encephalitis
 Bangkok,35-44,0,2024,Japanese B encephalitis
-Total,45-54,1,2024,Japanese B encephalitis
+Total,45-54,2,2024,Japanese B encephalitis
 ZONE:01,45-54,0,2024,Japanese B encephalitis
 Chiang Mai,45-54,0,2024,Japanese B encephalitis
 Chiang Rai,45-54,0,2024,Japanese B encephalitis
@@ -4571,13 +4571,13 @@ Kamphaeng Phet,45-54,0,2024,Japanese B encephalitis
 Nakhon Sawan,45-54,0,2024,Japanese B encephalitis
 Phichit,45-54,0,2024,Japanese B encephalitis
 Uthai Thani,45-54,0,2024,Japanese B encephalitis
-ZONE:04,45-54,0,2024,Japanese B encephalitis
+ZONE:04,45-54,1,2024,Japanese B encephalitis
 Ang Thong,45-54,0,2024,Japanese B encephalitis
 Lop Buri,45-54,0,2024,Japanese B encephalitis
 Nakhon Nayok,45-54,0,2024,Japanese B encephalitis
 Nonthaburi,45-54,0,2024,Japanese B encephalitis
 P.Nakhon S.Ayutthaya,45-54,0,2024,Japanese B encephalitis
-Pathum Thani,45-54,0,2024,Japanese B encephalitis
+Pathum Thani,45-54,1,2024,Japanese B encephalitis
 Saraburi,45-54,0,2024,Japanese B encephalitis
 Sing Buri,45-54,0,2024,Japanese B encephalitis
 ZONE:05,45-54,0,2024,Japanese B encephalitis

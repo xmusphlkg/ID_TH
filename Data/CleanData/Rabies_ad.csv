@@ -20501,21 +20501,21 @@ Trang,Unknown,0,2016,Rabies
 Yala,Unknown,0,2016,Rabies
 ZONE:13,Unknown,0,2016,Rabies
 Bangkok,Unknown,0,2016,Rabies
-Total,Total,0,2024,Rabies
-ZONE:01,Total,0,2024,Rabies
+Total,Total,5,2024,Rabies
+ZONE:01,Total,1,2024,Rabies
 Chiang Mai,Total,0,2024,Rabies
 Chiang Rai,Total,0,2024,Rabies
 Lampang,Total,0,2024,Rabies
 Lamphun,Total,0,2024,Rabies
-Mae Hong Son,Total,0,2024,Rabies
+Mae Hong Son,Total,1,2024,Rabies
 Nan,Total,0,2024,Rabies
 Phayao,Total,0,2024,Rabies
 Phrae,Total,0,2024,Rabies
-ZONE:02,Total,0,2024,Rabies
+ZONE:02,Total,1,2024,Rabies
 Phetchabun,Total,0,2024,Rabies
 Phitsanulok,Total,0,2024,Rabies
 Sukhothai,Total,0,2024,Rabies
-Tak,Total,0,2024,Rabies
+Tak,Total,1,2024,Rabies
 Uttaradit,Total,0,2024,Rabies
 ZONE:03,Total,0,2024,Rabies
 Chai Nat,Total,0,2024,Rabies
@@ -20541,14 +20541,14 @@ Ratchaburi,Total,0,2024,Rabies
 Samut Sakhon,Total,0,2024,Rabies
 Samut Songkhram,Total,0,2024,Rabies
 Suphan Buri,Total,0,2024,Rabies
-ZONE:06,Total,0,2024,Rabies
+ZONE:06,Total,1,2024,Rabies
 Chachoengsao,Total,0,2024,Rabies
 Chanthaburi,Total,0,2024,Rabies
 Chon Buri,Total,0,2024,Rabies
 Prachin Buri,Total,0,2024,Rabies
 Rayong,Total,0,2024,Rabies
 Sa Kaeo,Total,0,2024,Rabies
-Samut Prakan,Total,0,2024,Rabies
+Samut Prakan,Total,1,2024,Rabies
 Trat,Total,0,2024,Rabies
 ZONE:07,Total,0,2024,Rabies
 Kalasin,Total,0,2024,Rabies
@@ -20563,17 +20563,17 @@ Nong Bua Lam Phu,Total,0,2024,Rabies
 Nong Khai,Total,0,2024,Rabies
 Sakon Nakhon,Total,0,2024,Rabies
 Udon Thani,Total,0,2024,Rabies
-ZONE:09,Total,0,2024,Rabies
-Buri Ram,Total,0,2024,Rabies
+ZONE:09,Total,1,2024,Rabies
+Buri Ram,Total,1,2024,Rabies
 Chaiyaphum,Total,0,2024,Rabies
 Nakhon Ratchasima,Total,0,2024,Rabies
 Surin,Total,0,2024,Rabies
-ZONE:10,Total,0,2024,Rabies
+ZONE:10,Total,1,2024,Rabies
 Amnat Charoen,Total,0,2024,Rabies
 Mukdahan,Total,0,2024,Rabies
 Si Sa Ket,Total,0,2024,Rabies
 Ubon Ratchathani,Total,0,2024,Rabies
-Yasothon,Total,0,2024,Rabies
+Yasothon,Total,1,2024,Rabies
 ZONE:11,Total,0,2024,Rabies
 Chumphon,Total,0,2024,Rabies
 Krabi,Total,0,2024,Rabies
@@ -21502,13 +21502,13 @@ Trang,10-14,0,2024,Rabies
 Yala,10-14,0,2024,Rabies
 ZONE:13,10-14,0,2024,Rabies
 Bangkok,10-14,0,2024,Rabies
-Total,15-24,0,2024,Rabies
-ZONE:01,15-24,0,2024,Rabies
+Total,15-24,1,2024,Rabies
+ZONE:01,15-24,1,2024,Rabies
 Chiang Mai,15-24,0,2024,Rabies
 Chiang Rai,15-24,0,2024,Rabies
 Lampang,15-24,0,2024,Rabies
 Lamphun,15-24,0,2024,Rabies
-Mae Hong Son,15-24,0,2024,Rabies
+Mae Hong Son,15-24,1,2024,Rabies
 Nan,15-24,0,2024,Rabies
 Phayao,15-24,0,2024,Rabies
 Phrae,15-24,0,2024,Rabies
@@ -21593,7 +21593,7 @@ Trang,15-24,0,2024,Rabies
 Yala,15-24,0,2024,Rabies
 ZONE:13,15-24,0,2024,Rabies
 Bangkok,15-24,0,2024,Rabies
-Total,25-34,0,2024,Rabies
+Total,25-34,1,2024,Rabies
 ZONE:01,25-34,0,2024,Rabies
 Chiang Mai,25-34,0,2024,Rabies
 Chiang Rai,25-34,0,2024,Rabies
@@ -21603,11 +21603,11 @@ Mae Hong Son,25-34,0,2024,Rabies
 Nan,25-34,0,2024,Rabies
 Phayao,25-34,0,2024,Rabies
 Phrae,25-34,0,2024,Rabies
-ZONE:02,25-34,0,2024,Rabies
+ZONE:02,25-34,1,2024,Rabies
 Phetchabun,25-34,0,2024,Rabies
 Phitsanulok,25-34,0,2024,Rabies
 Sukhothai,25-34,0,2024,Rabies
-Tak,25-34,0,2024,Rabies
+Tak,25-34,1,2024,Rabies
 Uttaradit,25-34,0,2024,Rabies
 ZONE:03,25-34,0,2024,Rabies
 Chai Nat,25-34,0,2024,Rabies
@@ -21775,7 +21775,7 @@ Trang,35-44,0,2024,Rabies
 Yala,35-44,0,2024,Rabies
 ZONE:13,35-44,0,2024,Rabies
 Bangkok,35-44,0,2024,Rabies
-Total,45-54,0,2024,Rabies
+Total,45-54,1,2024,Rabies
 ZONE:01,45-54,0,2024,Rabies
 Chiang Mai,45-54,0,2024,Rabies
 Chiang Rai,45-54,0,2024,Rabies
@@ -21837,8 +21837,8 @@ Nong Bua Lam Phu,45-54,0,2024,Rabies
 Nong Khai,45-54,0,2024,Rabies
 Sakon Nakhon,45-54,0,2024,Rabies
 Udon Thani,45-54,0,2024,Rabies
-ZONE:09,45-54,0,2024,Rabies
-Buri Ram,45-54,0,2024,Rabies
+ZONE:09,45-54,1,2024,Rabies
+Buri Ram,45-54,1,2024,Rabies
 Chaiyaphum,45-54,0,2024,Rabies
 Nakhon Ratchasima,45-54,0,2024,Rabies
 Surin,45-54,0,2024,Rabies
@@ -21866,7 +21866,7 @@ Trang,45-54,0,2024,Rabies
 Yala,45-54,0,2024,Rabies
 ZONE:13,45-54,0,2024,Rabies
 Bangkok,45-54,0,2024,Rabies
-Total,55-64,0,2024,Rabies
+Total,55-64,2,2024,Rabies
 ZONE:01,55-64,0,2024,Rabies
 Chiang Mai,55-64,0,2024,Rabies
 Chiang Rai,55-64,0,2024,Rabies
@@ -21906,14 +21906,14 @@ Ratchaburi,55-64,0,2024,Rabies
 Samut Sakhon,55-64,0,2024,Rabies
 Samut Songkhram,55-64,0,2024,Rabies
 Suphan Buri,55-64,0,2024,Rabies
-ZONE:06,55-64,0,2024,Rabies
+ZONE:06,55-64,1,2024,Rabies
 Chachoengsao,55-64,0,2024,Rabies
 Chanthaburi,55-64,0,2024,Rabies
 Chon Buri,55-64,0,2024,Rabies
 Prachin Buri,55-64,0,2024,Rabies
 Rayong,55-64,0,2024,Rabies
 Sa Kaeo,55-64,0,2024,Rabies
-Samut Prakan,55-64,0,2024,Rabies
+Samut Prakan,55-64,1,2024,Rabies
 Trat,55-64,0,2024,Rabies
 ZONE:07,55-64,0,2024,Rabies
 Kalasin,55-64,0,2024,Rabies
@@ -21933,12 +21933,12 @@ Buri Ram,55-64,0,2024,Rabies
 Chaiyaphum,55-64,0,2024,Rabies
 Nakhon Ratchasima,55-64,0,2024,Rabies
 Surin,55-64,0,2024,Rabies
-ZONE:10,55-64,0,2024,Rabies
+ZONE:10,55-64,1,2024,Rabies
 Amnat Charoen,55-64,0,2024,Rabies
 Mukdahan,55-64,0,2024,Rabies
 Si Sa Ket,55-64,0,2024,Rabies
 Ubon Ratchathani,55-64,0,2024,Rabies
-Yasothon,55-64,0,2024,Rabies
+Yasothon,55-64,1,2024,Rabies
 ZONE:11,55-64,0,2024,Rabies
 Chumphon,55-64,0,2024,Rabies
 Krabi,55-64,0,2024,Rabies

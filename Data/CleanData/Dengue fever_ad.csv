@@ -8693,19 +8693,19 @@ Kamphaeng Phet,Unknown,0,2012,Dengue fever
 Nakhon Sawan,Unknown,0,2012,Dengue fever
 Phichit,Unknown,0,2012,Dengue fever
 Uthai Thani,Unknown,0,2012,Dengue fever
-Total,Total,3,2024,Dengue fever
-ZONE:01,Total,0,2024,Dengue fever
+Total,Total,8,2024,Dengue fever
+ZONE:01,Total,1,2024,Dengue fever
 Chiang Mai,Total,0,2024,Dengue fever
 Chiang Rai,Total,0,2024,Dengue fever
 Lampang,Total,0,2024,Dengue fever
 Lamphun,Total,0,2024,Dengue fever
 Mae Hong Son,Total,0,2024,Dengue fever
-Nan,Total,0,2024,Dengue fever
+Nan,Total,1,2024,Dengue fever
 Phayao,Total,0,2024,Dengue fever
 Phrae,Total,0,2024,Dengue fever
-ZONE:02,Total,0,2024,Dengue fever
+ZONE:02,Total,1,2024,Dengue fever
 Phetchabun,Total,0,2024,Dengue fever
-Phitsanulok,Total,0,2024,Dengue fever
+Phitsanulok,Total,1,2024,Dengue fever
 Sukhothai,Total,0,2024,Dengue fever
 Tak,Total,0,2024,Dengue fever
 Uttaradit,Total,0,2024,Dengue fever
@@ -8755,29 +8755,29 @@ Nong Bua Lam Phu,Total,0,2024,Dengue fever
 Nong Khai,Total,0,2024,Dengue fever
 Sakon Nakhon,Total,0,2024,Dengue fever
 Udon Thani,Total,0,2024,Dengue fever
-ZONE:09,Total,0,2024,Dengue fever
+ZONE:09,Total,1,2024,Dengue fever
 Buri Ram,Total,0,2024,Dengue fever
 Chaiyaphum,Total,0,2024,Dengue fever
 Nakhon Ratchasima,Total,0,2024,Dengue fever
-Surin,Total,0,2024,Dengue fever
+Surin,Total,1,2024,Dengue fever
 ZONE:10,Total,1,2024,Dengue fever
 Amnat Charoen,Total,0,2024,Dengue fever
 Mukdahan,Total,0,2024,Dengue fever
 Si Sa Ket,Total,0,2024,Dengue fever
 Ubon Ratchathani,Total,1,2024,Dengue fever
 Yasothon,Total,0,2024,Dengue fever
-ZONE:11,Total,0,2024,Dengue fever
+ZONE:11,Total,1,2024,Dengue fever
 Chumphon,Total,0,2024,Dengue fever
 Krabi,Total,0,2024,Dengue fever
-Nakhon Si Thammarat,Total,0,2024,Dengue fever
+Nakhon Si Thammarat,Total,1,2024,Dengue fever
 Phangnga,Total,0,2024,Dengue fever
 Phuket,Total,0,2024,Dengue fever
 Ranong,Total,0,2024,Dengue fever
 Surat Thani,Total,0,2024,Dengue fever
-ZONE:12,Total,0,2024,Dengue fever
+ZONE:12,Total,1,2024,Dengue fever
 Narathiwat,Total,0,2024,Dengue fever
 Pattani,Total,0,2024,Dengue fever
-Phatthalung,Total,0,2024,Dengue fever
+Phatthalung,Total,1,2024,Dengue fever
 Satun,Total,0,2024,Dengue fever
 Songkhla,Total,0,2024,Dengue fever
 Trang,Total,0,2024,Dengue fever
@@ -9512,7 +9512,7 @@ Trang,6-6,0,2024,Dengue fever
 Yala,6-6,0,2024,Dengue fever
 ZONE:13,6-6,0,2024,Dengue fever
 Bangkok,6-6,0,2024,Dengue fever
-Total,7-9,1,2024,Dengue fever
+Total,7-9,2,2024,Dengue fever
 ZONE:01,7-9,0,2024,Dengue fever
 Chiang Mai,7-9,0,2024,Dengue fever
 Chiang Rai,7-9,0,2024,Dengue fever
@@ -9574,11 +9574,11 @@ Nong Bua Lam Phu,7-9,0,2024,Dengue fever
 Nong Khai,7-9,0,2024,Dengue fever
 Sakon Nakhon,7-9,0,2024,Dengue fever
 Udon Thani,7-9,0,2024,Dengue fever
-ZONE:09,7-9,0,2024,Dengue fever
+ZONE:09,7-9,1,2024,Dengue fever
 Buri Ram,7-9,0,2024,Dengue fever
 Chaiyaphum,7-9,0,2024,Dengue fever
 Nakhon Ratchasima,7-9,0,2024,Dengue fever
-Surin,7-9,0,2024,Dengue fever
+Surin,7-9,1,2024,Dengue fever
 ZONE:10,7-9,1,2024,Dengue fever
 Amnat Charoen,7-9,0,2024,Dengue fever
 Mukdahan,7-9,0,2024,Dengue fever
@@ -9694,7 +9694,7 @@ Trang,10-14,0,2024,Dengue fever
 Yala,10-14,0,2024,Dengue fever
 ZONE:13,10-14,0,2024,Dengue fever
 Bangkok,10-14,0,2024,Dengue fever
-Total,15-24,0,2024,Dengue fever
+Total,15-24,2,2024,Dengue fever
 ZONE:01,15-24,0,2024,Dengue fever
 Chiang Mai,15-24,0,2024,Dengue fever
 Chiang Rai,15-24,0,2024,Dengue fever
@@ -9704,9 +9704,9 @@ Mae Hong Son,15-24,0,2024,Dengue fever
 Nan,15-24,0,2024,Dengue fever
 Phayao,15-24,0,2024,Dengue fever
 Phrae,15-24,0,2024,Dengue fever
-ZONE:02,15-24,0,2024,Dengue fever
+ZONE:02,15-24,1,2024,Dengue fever
 Phetchabun,15-24,0,2024,Dengue fever
-Phitsanulok,15-24,0,2024,Dengue fever
+Phitsanulok,15-24,1,2024,Dengue fever
 Sukhothai,15-24,0,2024,Dengue fever
 Tak,15-24,0,2024,Dengue fever
 Uttaradit,15-24,0,2024,Dengue fever
@@ -9767,10 +9767,10 @@ Mukdahan,15-24,0,2024,Dengue fever
 Si Sa Ket,15-24,0,2024,Dengue fever
 Ubon Ratchathani,15-24,0,2024,Dengue fever
 Yasothon,15-24,0,2024,Dengue fever
-ZONE:11,15-24,0,2024,Dengue fever
+ZONE:11,15-24,1,2024,Dengue fever
 Chumphon,15-24,0,2024,Dengue fever
 Krabi,15-24,0,2024,Dengue fever
-Nakhon Si Thammarat,15-24,0,2024,Dengue fever
+Nakhon Si Thammarat,15-24,1,2024,Dengue fever
 Phangnga,15-24,0,2024,Dengue fever
 Phuket,15-24,0,2024,Dengue fever
 Ranong,15-24,0,2024,Dengue fever
@@ -9785,7 +9785,7 @@ Trang,15-24,0,2024,Dengue fever
 Yala,15-24,0,2024,Dengue fever
 ZONE:13,15-24,0,2024,Dengue fever
 Bangkok,15-24,0,2024,Dengue fever
-Total,25-34,0,2024,Dengue fever
+Total,25-34,1,2024,Dengue fever
 ZONE:01,25-34,0,2024,Dengue fever
 Chiang Mai,25-34,0,2024,Dengue fever
 Chiang Rai,25-34,0,2024,Dengue fever
@@ -9866,10 +9866,10 @@ Phangnga,25-34,0,2024,Dengue fever
 Phuket,25-34,0,2024,Dengue fever
 Ranong,25-34,0,2024,Dengue fever
 Surat Thani,25-34,0,2024,Dengue fever
-ZONE:12,25-34,0,2024,Dengue fever
+ZONE:12,25-34,1,2024,Dengue fever
 Narathiwat,25-34,0,2024,Dengue fever
 Pattani,25-34,0,2024,Dengue fever
-Phatthalung,25-34,0,2024,Dengue fever
+Phatthalung,25-34,1,2024,Dengue fever
 Satun,25-34,0,2024,Dengue fever
 Songkhla,25-34,0,2024,Dengue fever
 Trang,25-34,0,2024,Dengue fever
@@ -9967,14 +9967,14 @@ Trang,35-44,0,2024,Dengue fever
 Yala,35-44,0,2024,Dengue fever
 ZONE:13,35-44,0,2024,Dengue fever
 Bangkok,35-44,0,2024,Dengue fever
-Total,45-54,0,2024,Dengue fever
-ZONE:01,45-54,0,2024,Dengue fever
+Total,45-54,1,2024,Dengue fever
+ZONE:01,45-54,1,2024,Dengue fever
 Chiang Mai,45-54,0,2024,Dengue fever
 Chiang Rai,45-54,0,2024,Dengue fever
 Lampang,45-54,0,2024,Dengue fever
 Lamphun,45-54,0,2024,Dengue fever
 Mae Hong Son,45-54,0,2024,Dengue fever
-Nan,45-54,0,2024,Dengue fever
+Nan,45-54,1,2024,Dengue fever
 Phayao,45-54,0,2024,Dengue fever
 Phrae,45-54,0,2024,Dengue fever
 ZONE:02,45-54,0,2024,Dengue fever

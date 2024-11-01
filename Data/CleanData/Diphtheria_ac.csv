@@ -10331,7 +10331,7 @@ Yala,Unknown,0,2003,Diphtheria
 Zone:19,Unknown,0,2003,Diphtheria
 Satun,Unknown,0,2003,Diphtheria
 Songkhla,Unknown,0,2003,Diphtheria
-Total,Total,1,2024,Diphtheria
+Total,Total,2,2024,Diphtheria
 ZONE:01,Total,0,2024,Diphtheria
 Chiang Mai,Total,0,2024,Diphtheria
 Chiang Rai,Total,0,2024,Diphtheria
@@ -10412,9 +10412,9 @@ Phangnga,Total,0,2024,Diphtheria
 Phuket,Total,0,2024,Diphtheria
 Ranong,Total,0,2024,Diphtheria
 Surat Thani,Total,0,2024,Diphtheria
-ZONE:12,Total,1,2024,Diphtheria
+ZONE:12,Total,2,2024,Diphtheria
 Narathiwat,Total,0,2024,Diphtheria
-Pattani,Total,1,2024,Diphtheria
+Pattani,Total,2,2024,Diphtheria
 Phatthalung,Total,0,2024,Diphtheria
 Satun,Total,0,2024,Diphtheria
 Songkhla,Total,0,2024,Diphtheria
@@ -11150,7 +11150,7 @@ Trang,6-6,0,2024,Diphtheria
 Yala,6-6,0,2024,Diphtheria
 ZONE:13,6-6,0,2024,Diphtheria
 Bangkok,6-6,0,2024,Diphtheria
-Total,7-9,0,2024,Diphtheria
+Total,7-9,1,2024,Diphtheria
 ZONE:01,7-9,0,2024,Diphtheria
 Chiang Mai,7-9,0,2024,Diphtheria
 Chiang Rai,7-9,0,2024,Diphtheria
@@ -11231,9 +11231,9 @@ Phangnga,7-9,0,2024,Diphtheria
 Phuket,7-9,0,2024,Diphtheria
 Ranong,7-9,0,2024,Diphtheria
 Surat Thani,7-9,0,2024,Diphtheria
-ZONE:12,7-9,0,2024,Diphtheria
+ZONE:12,7-9,1,2024,Diphtheria
 Narathiwat,7-9,0,2024,Diphtheria
-Pattani,7-9,0,2024,Diphtheria
+Pattani,7-9,1,2024,Diphtheria
 Phatthalung,7-9,0,2024,Diphtheria
 Satun,7-9,0,2024,Diphtheria
 Songkhla,7-9,0,2024,Diphtheria

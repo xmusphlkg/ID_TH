@@ -636,7 +636,7 @@ Satun,0,0.00,0,0.00,0.00,312673,2015,Brucellosis
 Songkhla,0,0.00,0,0.00,0.00,1401303,2015,Brucellosis
 Trang,0,0.00,0,0.00,0.00,638746,2015,Brucellosis
 Yala,0,0.00,0,0.00,0.00,511911,2015,Brucellosis
-Total,4,0.01,0,0.00,0.00,66071545,2024,Brucellosis
+Total,6,0.01,0,0.00,0.00,66071545,2024,Brucellosis
 ZONE:01,1,0.02,0,0.00,0.00,5857413,2024,Brucellosis
 Chiang Mai,0,0.00,0,0.00,0.00,1794774,2024,Brucellosis
 Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Brucellosis
@@ -652,12 +652,12 @@ Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Brucellosis
 Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Brucellosis
 Tak,0,0.00,0,0.00,0.00,687927,2024,Brucellosis
 Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Brucellosis
-ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Brucellosis
+ZONE:03,2,0.07,0,0.00,0.00,2896463,2024,Brucellosis
 Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Brucellosis
 Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Brucellosis
 Nakhon Sawan,1,0.10,0,0.00,0.00,1025348,2024,Brucellosis
 Phichit,0,0.00,0,0.00,0.00,523925,2024,Brucellosis
-Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Brucellosis
+Uthai Thani,1,0.31,0,0.00,0.00,323066,2024,Brucellosis
 ZONE:04,0,0.00,0,0.00,0.00,5438863,2024,Brucellosis
 Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Brucellosis
 Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Brucellosis
@@ -698,9 +698,9 @@ Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Brucellosis
 Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Brucellosis
 Sakon Nakhon,1,0.09,0,0.00,0.00,1143922,2024,Brucellosis
 Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Brucellosis
-ZONE:09,0,0.00,0,0.00,0.00,6689028,2024,Brucellosis
+ZONE:09,1,0.01,0,0.00,0.00,6689028,2024,Brucellosis
 Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Brucellosis
-Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Brucellosis
+Chaiyaphum,1,0.09,0,0.00,0.00,1115652,2024,Brucellosis
 Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Brucellosis
 Surin,0,0.00,0,0.00,0.00,1370376,2024,Brucellosis
 ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Brucellosis

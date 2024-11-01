@@ -473,7 +473,7 @@ Yala,0,0.00,0,0.00,0.00,461995,2005,HepatitisE
 Zone:19,0,0.00,0,0.00,0.00,1567672,2005,HepatitisE
 Satun,0,0.00,0,0.00,0.00,275706,2005,HepatitisE
 Songkhla,0,0.00,0,0.00,0.00,1291966,2005,HepatitisE
-Total,39,0.06,0,0.00,0.00,66071545,2024,HepatitisE
+Total,60,0.09,0,0.00,0.00,66071545,2024,HepatitisE
 ZONE:01,1,0.02,0,0.00,0.00,5857413,2024,HepatitisE
 Chiang Mai,1,0.06,0,0.00,0.00,1794774,2024,HepatitisE
 Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,HepatitisE
@@ -495,7 +495,7 @@ Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,HepatitisE
 Nakhon Sawan,0,0.00,0,0.00,0.00,1025348,2024,HepatitisE
 Phichit,0,0.00,0,0.00,0.00,523925,2024,HepatitisE
 Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,HepatitisE
-ZONE:04,8,0.15,0,0.00,0.00,5438863,2024,HepatitisE
+ZONE:04,10,0.18,0,0.00,0.00,5438863,2024,HepatitisE
 Ang Thong,0,0.00,0,0.00,0.00,271656,2024,HepatitisE
 Lop Buri,3,0.41,0,0.00,0.00,732495,2024,HepatitisE
 Nakhon Nayok,0,0.00,0,0.00,0.00,260261,2024,HepatitisE
@@ -503,25 +503,25 @@ Nonthaburi,2,0.15,0,0.00,0.00,1302004,2024,HepatitisE
 P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,HepatitisE
 Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,HepatitisE
 Saraburi,0,0.00,0,0.00,0.00,638704,2024,HepatitisE
-Sing Buri,3,1.48,0,0.00,0.00,202117,2024,HepatitisE
-ZONE:05,5,0.09,0,0.00,0.00,5326695,2024,HepatitisE
-Kanchanaburi,3,0.34,0,0.00,0.00,894781,2024,HepatitisE
-Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,HepatitisE
+Sing Buri,5,2.47,0,0.00,0.00,202117,2024,HepatitisE
+ZONE:05,7,0.13,0,0.00,0.00,5326695,2024,HepatitisE
+Kanchanaburi,4,0.45,0,0.00,0.00,894781,2024,HepatitisE
+Nakhon Pathom,1,0.11,0,0.00,0.00,923201,2024,HepatitisE
 Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,HepatitisE
 Prachuap Khiri Khan,1,0.18,0,0.00,0.00,552137,2024,HepatitisE
 Ratchaburi,0,0.00,0,0.00,0.00,865276,2024,HepatitisE
 Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,HepatitisE
 Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,HepatitisE
 Suphan Buri,1,0.12,0,0.00,0.00,828542,2024,HepatitisE
-ZONE:06,3,0.05,0,0.00,0.00,6292163,2024,HepatitisE
+ZONE:06,7,0.11,0,0.00,0.00,6292163,2024,HepatitisE
 Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,HepatitisE
 Chanthaburi,0,0.00,0,0.00,0.00,536290,2024,HepatitisE
 Chon Buri,1,0.06,0,0.00,0.00,1606412,2024,HepatitisE
 Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,HepatitisE
-Rayong,0,0.00,0,0.00,0.00,765287,2024,HepatitisE
-Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,HepatitisE
+Rayong,2,0.26,0,0.00,0.00,765287,2024,HepatitisE
+Sa Kaeo,1,0.18,0,0.00,0.00,562860,2024,HepatitisE
 Samut Prakan,2,0.15,0,0.00,0.00,1366598,2024,HepatitisE
-Trat,0,0.00,0,0.00,0.00,227430,2024,HepatitisE
+Trat,1,0.44,0,0.00,0.00,227430,2024,HepatitisE
 ZONE:07,0,0.00,0,0.00,0.00,4981337,2024,HepatitisE
 Kalasin,0,0.00,0,0.00,0.00,970084,2024,HepatitisE
 Khon Kaen,0,0.00,0,0.00,0.00,1782008,2024,HepatitisE
@@ -546,14 +546,14 @@ Mukdahan,0,0.00,0,0.00,0.00,351592,2024,HepatitisE
 Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,HepatitisE
 Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,HepatitisE
 Yasothon,0,0.00,0,0.00,0.00,530239,2024,HepatitisE
-ZONE:11,1,0.02,0,0.00,0.00,4489783,2024,HepatitisE
+ZONE:11,2,0.04,0,0.00,0.00,4489783,2024,HepatitisE
 Chumphon,0,0.00,0,0.00,0.00,509122,2024,HepatitisE
 Krabi,0,0.00,0,0.00,0.00,481089,2024,HepatitisE
 Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,HepatitisE
 Phangnga,0,0.00,0,0.00,0.00,267250,2024,HepatitisE
 Phuket,1,0.24,0,0.00,0.00,420746,2024,HepatitisE
 Ranong,0,0.00,0,0.00,0.00,193799,2024,HepatitisE
-Surat Thani,0,0.00,0,0.00,0.00,1074726,2024,HepatitisE
+Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,HepatitisE
 ZONE:12,0,0.00,0,0.00,0.00,5015209,2024,HepatitisE
 Narathiwat,0,0.00,0,0.00,0.00,816642,2024,HepatitisE
 Pattani,0,0.00,0,0.00,0.00,735017,2024,HepatitisE
@@ -562,8 +562,8 @@ Satun,0,0.00,0,0.00,0.00,325387,2024,HepatitisE
 Songkhla,0,0.00,0,0.00,0.00,1431512,2024,HepatitisE
 Trang,0,0.00,0,0.00,0.00,637612,2024,HepatitisE
 Yala,0,0.00,0,0.00,0.00,547930,2024,HepatitisE
-ZONE:13,16,0.29,0,0.00,0.00,5483259,2024,HepatitisE
-Bangkok,16,0.29,0,0.00,0.00,5483259,2024,HepatitisE
+ZONE:13,28,0.51,0,0.00,0.00,5483259,2024,HepatitisE
+Bangkok,28,0.51,0,0.00,0.00,5483259,2024,HepatitisE
 Total,11,0.02,0,0.00,0.00,62939819,2003,HepatitisE
 North Region,7,0.06,0,0.00,0.00,12120537,2003,HepatitisE
 Zone:1,3,0.05,0,0.00,0.00,5764017,2003,HepatitisE
