@@ -14707,3 +14707,119 @@ ot Found for url: http://doe.moph.go.th/surdata/y53/mcd_Streptococcus_suis_53.rt
 2024-07-07 12:25:46,914 - ERROR - Failed to download d_occ_Zika_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Zika_67.rtf
 2024-07-07 12:25:48,151 - ERROR - Failed to download d_occ_Zika_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Zika_67.rtf
 2024-07-07 12:25:48,151 - ERROR - Failed to download d_occ_Zika_67.rtf after 3 attempts.
+2024-11-01 01:59:57,976 - ERROR - Failed to download Am_tmcd_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_DHF_Total_67.rtf
+2024-11-01 01:59:57,976 - ERROR - Failed to download cbyweek27-53_datesickampur_dhf67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/cbyweek27-53_datesickampur_dhf67.rtf
+2024-11-01 01:59:58,024 - ERROR - Failed to download tac_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tac_DHF_Total_67.rtf
+2024-11-01 01:59:59,212 - ERROR - Failed to download Am_tmcd_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_DHF_Total_67.rtf
+2024-11-01 01:59:59,213 - ERROR - Failed to download cbyweek27-53_datesickampur_dhf67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/cbyweek27-53_datesickampur_dhf67.rtf
+2024-11-01 01:59:59,266 - ERROR - Failed to download tac_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tac_DHF_Total_67.rtf
+2024-11-01 02:00:00,473 - ERROR - Failed to download cbyweek27-53_datesickampur_dhf67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/cbyweek27-53_datesickampur_dhf67.rtf
+2024-11-01 02:00:00,473 - ERROR - Failed to download cbyweek27-53_datesickampur_dhf67.rtf after 3 attempts.
+2024-11-01 02:00:00,509 - ERROR - Failed to download tac_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tac_DHF_Total_67.rtf
+2024-11-01 02:00:00,509 - ERROR - Failed to download tac_DHF_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:00,802 - ERROR - Failed to download Am_tmcd_DHF_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_DHF_Total_67.rtf
+2024-11-01 02:00:00,802 - ERROR - Failed to download Am_tmcd_DHF_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:05,257 - ERROR - Failed to download tcsa_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tcsa_Encephalitis_Total_67.rtf
+2024-11-01 02:00:05,270 - ERROR - Failed to download trate_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/trate_Encephalitis_Total_67.rtf
+2024-11-01 02:00:05,315 - ERROR - Failed to download Am_tmcd_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_Encephalitis_Total_67.rtf
+2024-11-01 02:00:06,415 - ERROR - Failed to download tcsa_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tcsa_Encephalitis_Total_67.rtf
+2024-11-01 02:00:06,430 - ERROR - Failed to download trate_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/trate_Encephalitis_Total_67.rtf
+2024-11-01 02:00:06,490 - ERROR - Failed to download Am_tmcd_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_Encephalitis_Total_67.rtf
+2024-11-01 02:00:07,670 - ERROR - Failed to download trate_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/trate_Encephalitis_Total_67.rtf
+2024-11-01 02:00:07,670 - ERROR - Failed to download trate_Encephalitis_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:07,714 - ERROR - Failed to download Am_tmcd_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_tmcd_Encephalitis_Total_67.rtf
+2024-11-01 02:00:07,714 - ERROR - Failed to download Am_tmcd_Encephalitis_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:07,948 - ERROR - Failed to download tcsa_Encephalitis_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tcsa_Encephalitis_Total_67.rtf
+2024-11-01 02:00:07,948 - ERROR - Failed to download tcsa_Encephalitis_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:08,751 - ERROR - Failed to download tad_TB_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tad_TB_Total_67.rtf
+2024-11-01 02:00:09,943 - ERROR - Failed to download tad_TB_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tad_TB_Total_67.rtf
+2024-11-01 02:00:11,121 - ERROR - Failed to download tad_TB_Total_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/tad_TB_Total_67.rtf
+2024-11-01 02:00:11,121 - ERROR - Failed to download tad_TB_Total_67.rtf after 3 attempts.
+2024-11-01 02:00:17,410 - ERROR - Failed to download c_occ_Condyloma_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Condyloma_67.rtf
+2024-11-01 02:00:18,601 - ERROR - Failed to download c_occ_Condyloma_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Condyloma_67.rtf
+2024-11-01 02:00:19,800 - ERROR - Failed to download c_occ_Condyloma_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Condyloma_67.rtf
+2024-11-01 02:00:19,800 - ERROR - Failed to download c_occ_Condyloma_67.rtf after 3 attempts.
+2024-11-01 02:00:32,959 - ERROR - Failed to download c_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_OtherSTI_67.rtf
+2024-11-01 02:00:34,061 - ERROR - Failed to download d_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_OtherSTI_67.rtf
+2024-11-01 02:00:34,305 - ERROR - Failed to download c_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_OtherSTI_67.rtf
+2024-11-01 02:00:35,310 - ERROR - Failed to download d_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_OtherSTI_67.rtf
+2024-11-01 02:00:35,515 - ERROR - Failed to download c_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_OtherSTI_67.rtf
+2024-11-01 02:00:35,515 - ERROR - Failed to download c_occ_OtherSTI_67.rtf after 3 attempts.
+2024-11-01 02:00:36,489 - ERROR - Failed to download d_occ_OtherSTI_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_OtherSTI_67.rtf
+2024-11-01 02:00:36,489 - ERROR - Failed to download d_occ_OtherSTI_67.rtf after 3 attempts.
+2024-11-01 02:00:37,632 - ERROR - Failed to download c_occ_Syphilis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Syphilis_67.rtf
+2024-11-01 02:00:38,840 - ERROR - Failed to download c_occ_Syphilis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Syphilis_67.rtf
+2024-11-01 02:00:40,027 - ERROR - Failed to download c_occ_Syphilis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/c_occ_Syphilis_67.rtf
+2024-11-01 02:00:40,027 - ERROR - Failed to download c_occ_Syphilis_67.rtf after 3 attempts.
+2024-11-01 02:00:42,435 - ERROR - Failed to download d_occ_Avian_Influ_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Avian_Influ_67.rtf
+2024-11-01 02:00:43,596 - ERROR - Failed to download d_occ_Avian_Influ_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Avian_Influ_67.rtf
+2024-11-01 02:00:44,764 - ERROR - Failed to download d_occ_Avian_Influ_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Avian_Influ_67.rtf
+2024-11-01 02:00:44,764 - ERROR - Failed to download d_occ_Avian_Influ_67.rtf after 3 attempts.
+2024-11-01 02:01:13,482 - ERROR - Failed to download d_occ_Enterovirus_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Enterovirus_67.rtf
+2024-11-01 02:01:14,614 - ERROR - Failed to download d_occ_Enterovirus_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Enterovirus_67.rtf
+2024-11-01 02:01:15,785 - ERROR - Failed to download d_occ_Enterovirus_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Enterovirus_67.rtf
+2024-11-01 02:01:15,785 - ERROR - Failed to download d_occ_Enterovirus_67.rtf after 3 attempts.
+2024-11-01 02:01:19,579 - ERROR - Failed to download d_occ_Genital_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Genital_67.rtf
+2024-11-01 02:01:20,784 - ERROR - Failed to download d_occ_Genital_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Genital_67.rtf
+2024-11-01 02:01:21,915 - ERROR - Failed to download d_occ_Genital_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Genital_67.rtf
+2024-11-01 02:01:21,915 - ERROR - Failed to download d_occ_Genital_67.rtf after 3 attempts.
+2024-11-01 02:01:23,842 - ERROR - Failed to download d_occ_HepatitisB_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_HepatitisB_67.rtf
+2024-11-01 02:01:25,039 - ERROR - Failed to download d_occ_HepatitisB_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_HepatitisB_67.rtf
+2024-11-01 02:01:26,197 - ERROR - Failed to download d_occ_HepatitisB_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_HepatitisB_67.rtf
+2024-11-01 02:01:26,197 - ERROR - Failed to download d_occ_HepatitisB_67.rtf after 3 attempts.
+2024-11-01 02:01:28,970 - ERROR - Failed to download ac_HepatitisE_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_HepatitisE_67.rtf
+2024-11-01 02:01:30,450 - ERROR - Failed to download ac_HepatitisE_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_HepatitisE_67.rtf
+2024-11-01 02:01:31,643 - ERROR - Failed to download ac_HepatitisE_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_HepatitisE_67.rtf
+2024-11-01 02:01:31,643 - ERROR - Failed to download ac_HepatitisE_67.rtf after 3 attempts.
+2024-11-01 02:01:33,271 - ERROR - Failed to download rate_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/rate_Hepatitis_uns_67.rtf
+2024-11-01 02:01:33,276 - ERROR - Failed to download ac_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_Hepatitis_uns_67.rtf
+2024-11-01 02:01:33,277 - ERROR - Failed to download d_occ_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Hepatitis_uns_67.rtf
+2024-11-01 02:01:33,278 - ERROR - Failed to download dsa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/dsa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:33,279 - ERROR - Failed to download csa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/csa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:33,280 - ERROR - Failed to download race_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,428 - ERROR - Failed to download rate_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/rate_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,443 - ERROR - Failed to download dsa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/dsa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,444 - ERROR - Failed to download race_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,445 - ERROR - Failed to download ac_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,474 - ERROR - Failed to download csa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/csa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:34,476 - ERROR - Failed to download d_occ_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,621 - ERROR - Failed to download rate_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/rate_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,621 - ERROR - Failed to download rate_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:35,639 - ERROR - Failed to download race_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,640 - ERROR - Failed to download race_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:35,640 - ERROR - Failed to download ac_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ac_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,640 - ERROR - Failed to download ac_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:35,670 - ERROR - Failed to download csa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/csa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,671 - ERROR - Failed to download csa_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:35,809 - ERROR - Failed to download dsa_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/dsa_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,809 - ERROR - Failed to download dsa_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:35,839 - ERROR - Failed to download d_occ_Hepatitis_uns_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Hepatitis_uns_67.rtf
+2024-11-01 02:01:35,839 - ERROR - Failed to download d_occ_Hepatitis_uns_67.rtf after 3 attempts.
+2024-11-01 02:01:51,015 - ERROR - Failed to download ad_Measles_com_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ad_Measles_com_67.rtf
+2024-11-01 02:01:52,240 - ERROR - Failed to download ad_Measles_com_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ad_Measles_com_67.rtf
+2024-11-01 02:01:53,371 - ERROR - Failed to download ad_Measles_com_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/ad_Measles_com_67.rtf
+2024-11-01 02:01:53,371 - ERROR - Failed to download ad_Measles_com_67.rtf after 3 attempts.
+2024-11-01 02:02:03,425 - ERROR - Failed to download d_occ_Pediculosis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Pediculosis_67.rtf
+2024-11-01 02:02:04,584 - ERROR - Failed to download d_occ_Pediculosis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Pediculosis_67.rtf
+2024-11-01 02:02:05,731 - ERROR - Failed to download d_occ_Pediculosis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Pediculosis_67.rtf
+2024-11-01 02:02:05,731 - ERROR - Failed to download d_occ_Pediculosis_67.rtf after 3 attempts.
+2024-11-01 02:02:15,746 - ERROR - Failed to download race_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Scarlet_67.rtf
+2024-11-01 02:02:15,752 - ERROR - Failed to download d_occ_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Scarlet_67.rtf
+2024-11-01 02:02:16,897 - ERROR - Failed to download race_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Scarlet_67.rtf
+2024-11-01 02:02:16,931 - ERROR - Failed to download d_occ_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Scarlet_67.rtf
+2024-11-01 02:02:18,080 - ERROR - Failed to download race_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/race_Scarlet_67.rtf
+2024-11-01 02:02:18,080 - ERROR - Failed to download race_Scarlet_67.rtf after 3 attempts.
+2024-11-01 02:02:18,114 - ERROR - Failed to download d_occ_Scarlet_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Scarlet_67.rtf
+2024-11-01 02:02:18,114 - ERROR - Failed to download d_occ_Scarlet_67.rtf after 3 attempts.
+2024-11-01 02:02:19,884 - ERROR - Failed to download Am_mcd_Streptococcus_suis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_mcd_Streptococcus_suis_67.rtf
+2024-11-01 02:02:21,074 - ERROR - Failed to download Am_mcd_Streptococcus_suis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_mcd_Streptococcus_suis_67.rtf
+2024-11-01 02:02:22,205 - ERROR - Failed to download Am_mcd_Streptococcus_suis_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/Am_mcd_Streptococcus_suis_67.rtf
+2024-11-01 02:02:22,205 - ERROR - Failed to download Am_mcd_Streptococcus_suis_67.rtf after 3 attempts.
+2024-11-01 02:02:31,978 - ERROR - Failed to download d_occ_Vaginal_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Vaginal_67.rtf
+2024-11-01 02:02:33,275 - ERROR - Failed to download d_occ_Vaginal_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Vaginal_67.rtf
+2024-11-01 02:02:34,454 - ERROR - Failed to download d_occ_Vaginal_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Vaginal_67.rtf
+2024-11-01 02:02:34,454 - ERROR - Failed to download d_occ_Vaginal_67.rtf after 3 attempts.
+2024-11-01 02:02:36,182 - ERROR - Failed to download d_occ_Zika_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Zika_67.rtf
+2024-11-01 02:02:37,415 - ERROR - Failed to download d_occ_Zika_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Zika_67.rtf
+2024-11-01 02:02:38,596 - ERROR - Failed to download d_occ_Zika_67.rtf: 404 Client Error: Not Found for url: http://doe.moph.go.th/surdata/y67/d_occ_Zika_67.rtf
+2024-11-01 02:02:38,596 - ERROR - Failed to download d_occ_Zika_67.rtf after 3 attempts.
