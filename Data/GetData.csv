@@ -1,267 +1,202 @@
 Name,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
-Leprosy,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Melioidosis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Measles,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Scrub Typhus,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-D.H.F.shock syndrome,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-"Dysentery,Bacillary",Missing,Missing,Missing,ad,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
-Syphilis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-T.B.meningitis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HepatitisB,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Trichinosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Scarlet fever,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Tetanus neonatorum,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pulmonary T.B,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Anthrax,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Anthrax,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Anthrax,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
 Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-HepatitisE,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Streptococcus suis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Typhoid,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
+Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd
+Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Chancroid,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Chancroid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Chancroid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Chickenpox,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Chickenpox,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Chickenpox,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Cholera,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Cholera,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Cholera,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+D.H.F.shock syndrome,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+D.H.F.shock syndrome,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+D.H.F.shock syndrome,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+D.H.F,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+D.H.F,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+D.H.F,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Dengue fever,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
 Dengue fever,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Dengue fever,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Diphtheria,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Diphtheria,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Diphtheria,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+"Dysentery,Amoebic",Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+"Dysentery,Amoebic",Missing,Missing,Missing,ad,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+"Dysentery,Amoebic",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+"Dysentery,Bacillary",Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+"Dysentery,Bacillary",Missing,Missing,Missing,ad,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+"Dysentery,Bacillary",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Encephalitis uns,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,Missing,ac,ac,ac,ac,ac,ac
+Encephalitis uns,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Encephalitis uns,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Eosinophilic Meningitis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Eosinophilic Meningitis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Eosinophilic Meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Filariasis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Filariasis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Filariasis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Food_Poisoning,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Food_Poisoning,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Food_Poisoning,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HepatitisA,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+HepatitisA,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HepatitisA,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HepatitisB,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+HepatitisB,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HepatitisB,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HepatitisC,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+HepatitisC,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HepatitisC,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HepatitisD,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+HepatitisD,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HepatitisD,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HepatitisE,Missing,Missing,Missing,ac,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
+HepatitisE,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HepatitisE,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Hepatitis_uns,Missing,Missing,Missing,Missing,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
+Hepatitis_uns,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Hepatitis_uns,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+HFM,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+HFM,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+HFM,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Influenza,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Influenza,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Influenza,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac
+Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad
+Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd
 Kala azar,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Tetanus exc.Neo,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Kala azar,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Kala azar,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+L.G.V.&other&unsp.V.D,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+L.G.V.&other&unsp.V.D,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+L.G.V.&other&unsp.V.D,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Leprosy,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Leprosy,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Leprosy,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Leptospirosis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Leptospirosis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Leptospirosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Liver fluke,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Liver fluke,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Liver fluke,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Malaria,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Malaria,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Malaria,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Measles c Complication,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Measles c Complication,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
+Measles c Complication,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Measles,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Measles,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Measles,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Melioidosis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Melioidosis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Melioidosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+"Meningitis,uns",Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+"Meningitis,uns",Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+"Meningitis,uns",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Meningococcal Meningitis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Meningococcal Meningitis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Meningococcal Meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Mumps,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Mumps,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Mumps,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Mushroom poisoning,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Mushroom poisoning,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Mushroom poisoning,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+N.S.U._V,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+N.S.U._V,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+N.S.U._V,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Paratyphoid,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Paratyphoid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Paratyphoid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Pertussis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Pertussis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Pertussis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Pneumonia,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Pneumonia,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Pneumonia,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Poliomyelitis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Poliomyelitis,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Poliomyelitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Pulmonary T.B,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Pulmonary T.B,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Pulmonary T.B,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Rabies,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Rabies,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Rabies,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Rubella,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Rubella,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Rubella,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Scarlet fever,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Scarlet fever,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Scarlet fever,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Scrub Typhus,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Scrub Typhus,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Scrub Typhus,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Streptococcus suis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
 Streptococcus suis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
 Streptococcus suis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Cholera,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Pulmonary T.B,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Dengue fever,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Tetanus neonatorum,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-"Meningitis,uns",Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Liver fluke,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Malaria,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Dengue fever,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pneumonia,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-N.S.U._V,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HepatitisC,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Food_Poisoning,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-L.G.V.&other&unsp.V.D,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
-D.H.F,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Encephalitis uns,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Tetanus exc.Neo,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-T.B. other organs,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Leptospirosis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pertussis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Encephalitis uns,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HFM,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Tetanus exc.Neo,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Chancroid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Melioidosis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Melioidosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-T.B. other organs,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Eosinophilic Meningitis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Hepatitis_uns,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Cholera,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Syphilis,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Leptospirosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Tetanus neonatorum,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Leptospirosis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-D.H.F.shock syndrome,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-L.G.V.&other&unsp.V.D,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Scrub Typhus,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HepatitisC,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Measles,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
-Scarlet fever,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Rabies,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Paratyphoid,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Encephalitis uns,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-Food_Poisoning,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
-Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Hepatitis_uns,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Poliomyelitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Melioidosis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Pulmonary T.B,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pertussis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-HepatitisD,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-Chickenpox,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
-Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
-Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Dengue fever,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-"Dysentery,Bacillary",Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Filariasis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Eosinophilic Meningitis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Chickenpox,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-"Dysentery,Amoebic",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-HepatitisC,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Chancroid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Pulmonary T.B,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Anthrax,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-N.S.U._V,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-D.H.F,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Mushroom poisoning,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HFM,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Rubella,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-"Dysentery,Bacillary",Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Hepatitis_uns,Missing,Missing,Missing,Missing,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
-Trichinosis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-D.H.F,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-D.H.F.shock syndrome,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-HepatitisB,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Malaria,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Rabies,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Liver fluke,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Chickenpox,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Filariasis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Rubella,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Mushroom poisoning,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-HepatitisB,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Chancroid,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Rubella,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Influenza,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Liver fluke,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-HepatitisD,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Mushroom poisoning,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-HepatitisA,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Paratyphoid,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Measles c Complication,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
-Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Leprosy,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Leprosy,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Cholera,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-N.S.U._V,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Kala azar,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad
-Paratyphoid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac
-Pertussis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd
-HFM,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Poliomyelitis,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HepatitisA,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Diphtheria,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-T.B. other organs,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Rabies,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Botulism,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Mumps,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HepatitisC,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Food_Poisoning,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Condyloma Acuminata,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Anthrax,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-"Meningitis,uns",Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Typhoid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Malaria,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Mumps,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Rubella,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Typhoid,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Scarlet fever,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Meningococcal Meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Chancroid,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Poliomyelitis,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Gonorrhoea,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Meningococcal Meningitis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Filariasis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Malaria,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Pertussis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Meningococcal Meningitis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pneumonia,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-T.B.meningitis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Measles,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Mumps,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HepatitisE,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Diphtheria,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Syphilis,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Trichinosis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-D.H.F.shock syndrome,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Paratyphoid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Diphtheria,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Anthrax,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Meningococcal Meningitis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Measles c Complication,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
-Scrub Typhus,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Kala azar,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Pediculosis Pubis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
-L.G.V.&other&unsp.V.D,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Leprosy,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-L.G.V.&other&unsp.V.D,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HFM,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Anthrax,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Japanese B encephalitis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate
-Pneumonia,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Filariasis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Measles,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Kala azar,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Influenza,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Scarlet fever,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-"Dysentery,Amoebic",Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Mushroom poisoning,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-"Meningitis,uns",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-T.B. other organs,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-"Meningitis,uns",Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Poliomyelitis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
 Syphilis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HepatitisB,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Chickenpox,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Pneumonia,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-N.S.U._V,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Brucellosis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Leptospirosis,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Genital Molluscum Contagiosum,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
-Liver fluke,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-HepatitisD,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-Eosinophilic Meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Diphtheria,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-D.H.F,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Typhoid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Tetanus neonatorum,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Encephalitis uns,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,Missing,ac,ac,ac,ac,ac,ac
-T.B.meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Measles c Complication,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-"Dysentery,Amoebic",Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Avian Influenza,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate
-Eosinophilic Meningitis,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Scrub Typhus,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Genital Herpes Simplex,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Influenza,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Enterovirus Fever,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Syphilis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Syphilis,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+T.B. other organs,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+T.B. other organs,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+T.B. other organs,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+T.B.meningitis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
 T.B.meningitis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Rabies,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-Influenza,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-HepatitisA,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-Streptococcus suis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
-HepatitisE,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+T.B.meningitis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Tetanus exc.Neo,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Tetanus exc.Neo,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
 Tetanus exc.Neo,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-HepatitisD,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Other STI,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Measles c Complication,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-Chikungunya,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Mumps,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-"Dysentery,Bacillary",Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
-Food_Poisoning,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-"Dysentery,Amoebic",Missing,Missing,Missing,ad,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
-HepatitisE,Missing,Missing,Missing,ac,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
-Trichinosis,Missing,Missing,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
-HepatitisA,Missing,Missing,Missing,rate,Missing,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate,rate
+Tetanus neonatorum,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Tetanus neonatorum,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Tetanus neonatorum,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Trichinosis,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Trichinosis,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Trichinosis,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Typhoid,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+Typhoid,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad,ad
+Typhoid,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd,mcd
+Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Vaginal trichomoniasis,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd
+Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ac,ac,ac,ac,ac,ac
+Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,ad,ad,ad,ad,ad,ad
+Zika virus,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing,mcd,mcd,mcd,mcd,mcd,mcd

@@ -1,0 +1,74 @@
+2025-11-12 12:05:53,521 - INFO - Found 72 diseases
+2025-11-12 12:05:53,522 - INFO - Processing disease: DHF Total
+2025-11-12 12:05:54,060 - INFO - Processing disease: Measles Total
+2025-11-12 12:05:55,576 - INFO - Processing disease: Encephalitis Total
+2025-11-12 12:05:56,126 - INFO - Processing disease: TB Total
+2025-11-12 12:05:56,674 - INFO - Processing disease: STI Total
+2025-11-12 12:05:57,255 - INFO - Processing disease: Chancroid
+2025-11-12 12:05:58,035 - INFO - Processing disease: Condyloma Acuminata
+2025-11-12 12:05:58,581 - INFO - Processing disease: Genital Herpes Simplex
+2025-11-12 12:05:59,121 - INFO - Processing disease: Gonorrhoea
+2025-11-12 12:05:59,741 - INFO - Processing disease: L.G.V.&other&unsp.V.D
+2025-11-12 12:06:00,346 - INFO - Processing disease: N.S.U./V
+2025-11-12 12:06:00,943 - INFO - Processing disease: Other STI
+2025-11-12 12:06:02,608 - INFO - Processing disease: Syphilis
+2025-11-12 12:06:03,409 - INFO - Processing disease: Anthrax
+2025-11-12 12:06:03,939 - INFO - Processing disease: Avian Influenza
+2025-11-12 12:06:07,539 - INFO - Processing disease: Botulism
+2025-11-12 12:06:08,119 - INFO - Processing disease: Brucellosis
+2025-11-12 12:06:08,652 - INFO - Processing disease: Chickenpox
+2025-11-12 12:06:09,279 - INFO - Processing disease: Chikungunya
+2025-11-12 12:06:09,927 - INFO - Processing disease: Cholera
+2025-11-12 12:06:10,462 - INFO - Processing disease: D.H.F
+2025-11-12 12:06:11,036 - INFO - Processing disease: D.H.F.shock syndrome
+2025-11-12 12:06:11,694 - INFO - Processing disease: Dengue fever
+2025-11-12 12:06:12,323 - INFO - Processing disease: Diphtheria
+2025-11-12 12:06:12,877 - INFO - Processing disease: Dysentery,Amoebic
+2025-11-12 12:06:13,403 - INFO - Processing disease: Dysentery,Bacillary
+2025-11-12 12:06:15,026 - INFO - Processing disease: Encephalitis uns
+2025-11-12 12:06:15,537 - INFO - Processing disease: Enterovirus Fever
+2025-11-12 12:06:16,074 - INFO - Processing disease: Eosinophilic Meningitis
+2025-11-12 12:06:16,655 - INFO - Processing disease: Filariasis
+2025-11-12 12:06:18,203 - INFO - Processing disease: Food_Poisoning
+2025-11-12 12:06:19,762 - INFO - Processing disease: Genital Molluscum Contagiosum
+2025-11-12 12:06:20,325 - INFO - Processing disease: HepatitisA
+2025-11-12 12:06:20,888 - INFO - Processing disease: HepatitisB
+2025-11-12 12:06:22,437 - INFO - Processing disease: HepatitisC
+2025-11-12 12:06:22,954 - INFO - Processing disease: HepatitisD
+2025-11-12 12:06:23,507 - INFO - Processing disease: HepatitisE
+2025-11-12 12:06:24,051 - INFO - Processing disease: Hepatitis_uns
+2025-11-12 12:06:24,589 - INFO - Processing disease: HFM
+2025-11-12 12:06:25,127 - INFO - Processing disease: Influenza
+2025-11-12 12:06:25,701 - INFO - Processing disease: Japanese B encephalitis
+2025-11-12 12:06:26,287 - INFO - Processing disease: Kala azar
+2025-11-12 12:06:26,823 - INFO - Processing disease: Leprosy
+2025-11-12 12:06:27,718 - INFO - Processing disease: Leptospirosis
+2025-11-12 12:06:28,557 - INFO - Processing disease: Liver fluke
+2025-11-12 12:06:29,163 - INFO - Processing disease: Malaria
+2025-11-12 12:06:29,710 - INFO - Processing disease: Measles
+2025-11-12 12:06:30,237 - INFO - Processing disease: Measles c Complication
+2025-11-12 12:06:30,900 - INFO - Processing disease: Melioidosis
+2025-11-12 12:06:31,431 - INFO - Processing disease: Meningitis,uns
+2025-11-12 12:06:31,995 - INFO - Processing disease: Meningococcal Meningitis
+2025-11-12 12:06:32,582 - INFO - Processing disease: Mumps
+2025-11-12 12:06:33,118 - INFO - Processing disease: Mushroom poisoning
+2025-11-12 12:06:33,698 - INFO - Processing disease: Paratyphoid
+2025-11-12 12:06:34,516 - INFO - Processing disease: Pediculosis Pubis
+2025-11-12 12:06:35,057 - INFO - Processing disease: Pertussis
+2025-11-12 12:06:35,604 - INFO - Processing disease: Pneumonia
+2025-11-12 12:06:36,178 - INFO - Processing disease: Poliomyelitis
+2025-11-12 12:06:36,810 - INFO - Processing disease: Pulmonary T.B
+2025-11-12 12:06:37,369 - INFO - Processing disease: Rabies
+2025-11-12 12:06:37,930 - INFO - Processing disease: Rubella
+2025-11-12 12:06:38,449 - INFO - Processing disease: Scarlet fever
+2025-11-12 12:06:38,973 - INFO - Processing disease: Scrub Typhus
+2025-11-12 12:06:39,516 - INFO - Processing disease: Streptococcus suis
+2025-11-12 12:06:40,027 - INFO - Processing disease: T.B. other organs
+2025-11-12 12:06:40,622 - INFO - Processing disease: T.B.meningitis
+2025-11-12 12:06:42,202 - INFO - Processing disease: Tetanus exc.Neo
+2025-11-12 12:06:42,815 - INFO - Processing disease: Tetanus neonatorum
+2025-11-12 12:06:43,335 - INFO - Processing disease: Trichinosis
+2025-11-12 12:06:43,973 - INFO - Processing disease: Typhoid
+2025-11-12 12:06:44,583 - INFO - Processing disease: Vaginal trichomoniasis
+2025-11-12 12:06:45,119 - INFO - Processing disease: Zika virus
+2025-11-12 12:06:45,675 - INFO - Wrote 11329 rows to D:\OneDrive - work\OneDrive - MSFT\XMU\likangguo\2024\13 NIDS TH\Code\Data\SyncDataStatus.csv
