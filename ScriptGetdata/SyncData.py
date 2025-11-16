@@ -23,7 +23,9 @@ from typing import Iterable, List, Optional, Tuple
 
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs, urlencode, urlunparse
+import re
+import os
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -49,19 +51,31 @@ def get_diseases(index_url: str, session: Optional[requests.Session] = None) -> 
 
     soup = BeautifulSoup(resp.text, 'html.parser')
     disease_list: List[Tuple[str, str, str]] = []
+
+    def set_dcontent(u: str, value: str) -> str:
+        p = urlparse(u)
+        qs = parse_qs(p.query, keep_blank_values=True)
+        qs['dcontent'] = [value]
+        new_q = urlencode(qs, doseq=True)
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, new_q, p.fragment))
+
     for link in soup.find_all('a', class_='e1'):
         name = link.text.strip()
         href = link.get('href')
         if not href:
             continue
-        full = urljoin(index_url, href)
-        historical = full.replace('disease.php?', 'disease.php?dcontent=old&')
-        disease_list.append((name, full, historical))
+        full_raw = urljoin(index_url, href)
+        # construct explicit URLs for situation (current) and old (historical)
+        situation = set_dcontent(full_raw, 'situation')
+        historical = set_dcontent(full_raw, 'old')
+        disease_list.append((name, situation, historical))
     return disease_list
 
 
 def get_file_links(page_url: str, file_types: Iterable[str], session: Optional[requests.Session] = None) -> List[Tuple[str, str]]:
-    """Return list of (file_name, full_url) found on the page that end with one of file_types."""
+    """Return list of (file_name, full_url) found on the page that match file_types.
+    This searches hrefs (case-insensitive contains/endswith) and also scans onclick/javascript attributes for file references.
+    """
     s = session or requests
     try:
         resp = s.get(page_url, timeout=15)
@@ -71,18 +85,41 @@ def get_file_links(page_url: str, file_types: Iterable[str], session: Optional[r
         return []
 
     soup = BeautifulSoup(resp.text, 'html.parser')
-    results: List[Tuple[str, str]] = []
-    for a in soup.find_all('a', target="_blank"):
+    file_urls: List[Tuple[str, str]] = []
+
+    lower_types = [t.lower() for t in file_types]
+
+    # Scan all anchor hrefs
+    for a in soup.find_all('a'):
         href = a.get('href')
         if not href:
             continue
-        for t in file_types:
-            if href.lower().endswith(t.lower()):
+        low = href.lower()
+        for t in lower_types:
+            if low.endswith(t) or t in low:
                 full = urljoin(page_url, href)
                 name = href.split('/')[-1]
-                results.append((name, full))
+                file_urls.append((name, full))
                 break
-    return results
+
+    # Scan onclick/javascript attributes for file references
+    for tag in soup.find_all(attrs={'onclick': True}):
+        onclick = tag.get('onclick') or ''
+        for part in re.findall(r"['\"]([^'\"]+\.(?:" + '|'.join([re.escape(t.lstrip('.')) for t in lower_types]) + r"))['\"]", onclick, flags=re.IGNORECASE):
+            full = urljoin(page_url, part)
+            name = Path(part).name
+            file_urls.append((name, full))
+
+    # Deduplicate while preserving order
+    seen = set()
+    unique: List[Tuple[str, str]] = []
+    for fn, fu in file_urls:
+        if fu not in seen:
+            seen.add(fu)
+            unique.append((fn, fu))
+
+    logging.info('Scanned %s -> found %d candidate files', page_url, len(unique))
+    return unique
 
 
 def remote_size(url: str, session: Optional[requests.Session] = None) -> Optional[int]:
@@ -142,15 +179,16 @@ def build_rows(index_url: str, data_dir: Path, file_types: Iterable[str], check_
             local_path = data_dir / name.replace('/', '_') / fn
             local_exists, local_sz = inspect_local(local_path)
 
-            # Prefer to store local_path as a relative path (repo-root relative). Fallbacks:
+            # Store local_path as a relative path (repo-root relative). Use os.path.relpath so
+            # we always produce a relative string even if the file is outside the repo root.
             repo_root = Path(__file__).resolve().parents[2]
             try:
-                local_path_rel = local_path.relative_to(repo_root)
+                # os.path.relpath always returns a relative path string
+                rel = os.path.relpath(str(local_path), start=str(repo_root))
             except Exception:
-                try:
-                    local_path_rel = local_path.relative_to(Path.cwd())
-                except Exception:
-                    local_path_rel = local_path
+                # fallback to relative to cwd
+                rel = os.path.relpath(str(local_path), start=str(Path.cwd()))
+            local_path_rel = Path(rel)
 
             if not local_exists:
                 tag = 'download'

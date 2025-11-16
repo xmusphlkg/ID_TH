@@ -1,6 +1,5 @@
 
 library(lubridate)
-library(extrafont)
 library(RColorBrewer)
 library(paletteer)
 library(scales)

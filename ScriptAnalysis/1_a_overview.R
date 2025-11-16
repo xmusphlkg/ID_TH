@@ -126,6 +126,7 @@ stl_cfr <- stl(ts(fig1_data$CFR, start = 2007, frequency = 12),
                s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$CFR_trend <- stl_cfr$time.series[, 'trend']
 
+
 ## Incidence
 future_incidence <- future({
      joinpoint(fig1_data,

@@ -1,1 +1,2104 @@
-
+Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
+Total,1558,2.48,3,0.0,62939819,2003,Mushroom poisoning
+North Region,255,2.1,1,0.01,12120537,2003,Mushroom poisoning
+Zone:1,232,4.02,1,0.02,5764017,2003,Mushroom poisoning
+Chiang Mai,27,1.69,0,0.0,1599538,2003,Mushroom poisoning
+Chiang Rai,96,7.71,0,0.0,1244564,2003,Mushroom poisoning
+Lampang,48,6.01,0,0.0,798996,2003,Mushroom poisoning
+Lamphun,38,9.31,0,0.0,408122,2003,Mushroom poisoning
+Mae Hong Son,6,2.51,0,0.0,239128,2003,Mushroom poisoning
+Nan,12,2.47,1,0.21,484961,2003,Mushroom poisoning
+Phayao,5,0.99,0,0.0,505032,2003,Mushroom poisoning
+Phrae,0,0.0,0,0.0,483676,2003,Mushroom poisoning
+Zone:2,13,0.37,0,0.0,3523807,2003,Mushroom poisoning
+Phetchabun,0,0.0,0,0.0,1046537,2003,Mushroom poisoning
+Phitsanulok,10,1.15,0,0.0,867520,2003,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,623396,2003,Mushroom poisoning
+Tak,3,0.6,0,0.0,503042,2003,Mushroom poisoning
+Uttaradit,0,0.0,0,0.0,483312,2003,Mushroom poisoning
+Zone:3,10,0.35,0,0.0,2832713,2003,Mushroom poisoning
+Kamphaeng Phet,8,1.04,0,0.0,771177,2003,Mushroom poisoning
+Nakhon Sawan,2,0.18,0,0.0,1128789,2003,Mushroom poisoning
+Phichit,0,0.0,0,0.0,594918,2003,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,337829,2003,Mushroom poisoning
+Central Region,98,0.47,0,0.0,20726962,2003,Mushroom poisoning
+Zone:0,0,0.0,0,0.0,5813383,2003,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5813383,2003,Mushroom poisoning
+Zone:4,0,0.0,0,0.0,2679573,2003,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,290623,2003,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,915043,2003,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,749751,2003,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,724156,2003,Mushroom poisoning
+Zone:5,14,0.71,0,0.0,1964953,2003,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,349881,2003,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,768250,2003,Mushroom poisoning
+Saraburi,14,2.24,0,0.0,623783,2003,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,223039,2003,Mushroom poisoning
+Zone:6,31,0.94,0,0.0,3304766,2003,Mushroom poisoning
+Kanchanaburi,5,0.63,0,0.0,799588,2003,Mushroom poisoning
+Nakhon Pathom,14,1.73,0,0.0,807180,2003,Mushroom poisoning
+Ratchaburi,2,0.24,0,0.0,832005,2003,Mushroom poisoning
+Suphan Buri,10,1.15,0,0.0,865993,2003,Mushroom poisoning
+Zone:7,7,0.44,0,0.0,1602142,2003,Mushroom poisoning
+Phetchaburi,3,0.65,0,0.0,461539,2003,Mushroom poisoning
+Prachuap Khiri Khan,4,0.82,0,0.0,490479,2003,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,445557,2003,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,204567,2003,Mushroom poisoning
+Zone:8,16,0.55,0,0.0,2933038,2003,Mushroom poisoning
+Chachoengsao,1,0.15,0,0.0,651130,2003,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,251471,2003,Mushroom poisoning
+Prachin Buri,7,1.54,0,0.0,453379,2003,Mushroom poisoning
+Sa Kaeo,7,1.3,0,0.0,540274,2003,Mushroom poisoning
+Samut Prakan,1,0.1,0,0.0,1036784,2003,Mushroom poisoning
+Zone:9,30,1.24,0,0.0,2429107,2003,Mushroom poisoning
+Chanthaburi,10,1.97,0,0.0,508799,2003,Mushroom poisoning
+Chon Buri,1,0.09,0,0.0,1143498,2003,Mushroom poisoning
+Rayong,18,3.26,0,0.0,551652,2003,Mushroom poisoning
+Trat,1,0.44,0,0.0,225158,2003,Mushroom poisoning
+North-Eastern Region,1160,5.36,2,0.01,21634442,2003,Mushroom poisoning
+Zone:10,118,3.3,2,0.06,3579272,2003,Mushroom poisoning
+Loei,86,13.65,2,0.32,629836,2003,Mushroom poisoning
+Nong Bua Lam Phu,3,0.6,0,0.0,499257,2003,Mushroom poisoning
+Nong Khai,0,0.0,0,0.0,911409,2003,Mushroom poisoning
+Udon Thani,29,1.88,0,0.0,1538770,2003,Mushroom poisoning
+Zone:11,61,1.93,0,0.0,3157810,2003,Mushroom poisoning
+Kalasin,0,0.0,0,0.0,992407,2003,Mushroom poisoning
+Mukdahan,6,1.77,0,0.0,338675,2003,Mushroom poisoning
+Nakhon Phanom,9,1.26,0,0.0,715991,2003,Mushroom poisoning
+Sakon Nakhon,46,4.14,0,0.0,1110737,2003,Mushroom poisoning
+Zone:12,49,1.21,0,0.0,4035398,2003,Mushroom poisoning
+Khon Kaen,11,0.62,0,0.0,1769124,2003,Mushroom poisoning
+Maha Sarakham,1,0.11,0,0.0,943647,2003,Mushroom poisoning
+Roi Et,37,2.8,0,0.0,1322627,2003,Mushroom poisoning
+Zone:13,620,9.29,0,0.0,6676759,2003,Mushroom poisoning
+Buri Ram,320,20.65,0,0.0,1549894,2003,Mushroom poisoning
+Chaiyaphum,6,0.53,0,0.0,1137725,2003,Mushroom poisoning
+Nakhon Ratchasima,38,1.47,0,0.0,2586146,2003,Mushroom poisoning
+Surin,256,18.25,0,0.0,1402994,2003,Mushroom poisoning
+Zone:14,312,7.45,0,0.0,4185203,2003,Mushroom poisoning
+Amnat Charoen,21,5.67,0,0.0,370494,2003,Mushroom poisoning
+Si Sa Ket,29,1.98,0,0.0,1462254,2003,Mushroom poisoning
+Ubon Ratchathani,260,14.45,0,0.0,1799048,2003,Mushroom poisoning
+Yasothon,2,0.36,0,0.0,553407,2003,Mushroom poisoning
+South Region,45,0.53,0,0.0,8457878,2003,Mushroom poisoning
+Zone:15,18,1.15,0,0.0,1566662,2003,Mushroom poisoning
+Chumphon,0,0.0,0,0.0,475467,2003,Mushroom poisoning
+Ranong,1,0.61,0,0.0,163298,2003,Mushroom poisoning
+Surat Thani,17,1.83,0,0.0,927897,2003,Mushroom poisoning
+Zone:16,20,0.76,0,0.0,2642568,2003,Mushroom poisoning
+Nakhon Si Thammarat,1,0.07,0,0.0,1532483,2003,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,504526,2003,Mushroom poisoning
+Trang,19,3.14,0,0.0,605559,2003,Mushroom poisoning
+Zone:17,5,0.56,0,0.0,895704,2003,Mushroom poisoning
+Krabi,5,1.31,0,0.0,381184,2003,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,240062,2003,Mushroom poisoning
+Phuket,0,0.0,0,0.0,274458,2003,Mushroom poisoning
+Zone:18,1,0.06,0,0.0,1797937,2003,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,704096,2003,Mushroom poisoning
+Pattani,0,0.0,0,0.0,631288,2003,Mushroom poisoning
+Yala,1,0.22,0,0.0,462553,2003,Mushroom poisoning
+Zone:19,1,0.06,0,0.0,1555007,2003,Mushroom poisoning
+Satun,0,0.0,0,0.0,272252,2003,Mushroom poisoning
+Songkhla,1,0.08,0,0.0,1282755,2003,Mushroom poisoning
+Total,1303,2.08,12,0.02,62526710,2004,Mushroom poisoning
+North Region,167,1.4,2,0.02,11965439,2004,Mushroom poisoning
+Zone:1,125,2.19,2,0.03,5720315,2004,Mushroom poisoning
+Chiang Mai,18,1.11,2,0.12,1616995,2004,Mushroom poisoning
+Chiang Rai,73,6.01,0,0.0,1214659,2004,Mushroom poisoning
+Lampang,18,2.28,0,0.0,788071,2004,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,406911,2004,Mushroom poisoning
+Mae Hong Son,1,0.41,0,0.0,240988,2004,Mushroom poisoning
+Nan,9,1.88,0,0.0,479968,2004,Mushroom poisoning
+Phayao,6,1.21,0,0.0,494926,2004,Mushroom poisoning
+Phrae,0,0.0,0,0.0,477797,2004,Mushroom poisoning
+Zone:2,19,0.55,0,0.0,3480797,2004,Mushroom poisoning
+Phetchabun,1,0.1,0,0.0,1026733,2004,Mushroom poisoning
+Phitsanulok,16,1.87,0,0.0,854440,2004,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,616536,2004,Mushroom poisoning
+Tak,1,0.2,0,0.0,507296,2004,Mushroom poisoning
+Uttaradit,1,0.21,0,0.0,475792,2004,Mushroom poisoning
+Zone:3,23,0.83,0,0.0,2764327,2004,Mushroom poisoning
+Kamphaeng Phet,18,2.4,0,0.0,750331,2004,Mushroom poisoning
+Nakhon Sawan,5,0.45,0,0.0,1102099,2004,Mushroom poisoning
+Phichit,0,0.0,0,0.0,579155,2004,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,332742,2004,Mushroom poisoning
+Central Region,132,0.64,0,0.0,20631429,2004,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5739370,2004,Mushroom poisoning
+Zone:4,3,0.11,0,0.0,2721016,2004,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,286896,2004,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,933591,2004,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,745828,2004,Mushroom poisoning
+Pathum Thani,3,0.4,0,0.0,754701,2004,Mushroom poisoning
+Zone:5,0,0.0,0,0.0,1936502,2004,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,345355,2004,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,759000,2004,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,610722,2004,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,221425,2004,Mushroom poisoning
+Zone:6,24,0.73,0,0.0,3287786,2004,Mushroom poisoning
+Kanchanaburi,7,0.87,0,0.0,803802,2004,Mushroom poisoning
+Nakhon Pathom,12,1.49,0,0.0,805210,2004,Mushroom poisoning
+Ratchaburi,4,0.49,0,0.0,824406,2004,Mushroom poisoning
+Suphan Buri,1,0.12,0,0.0,854368,2004,Mushroom poisoning
+Zone:7,0,0.0,0,0.0,1587519,2004,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,456384,2004,Mushroom poisoning
+Prachuap Khiri Khan,0,0.0,0,0.0,486084,2004,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,445443,2004,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,199608,2004,Mushroom poisoning
+Zone:8,72,2.45,0,0.0,2934598,2004,Mushroom poisoning
+Chachoengsao,23,3.55,0,0.0,647967,2004,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,250235,2004,Mushroom poisoning
+Prachin Buri,8,1.78,0,0.0,449940,2004,Mushroom poisoning
+Sa Kaeo,41,7.61,0,0.0,538823,2004,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1047633,2004,Mushroom poisoning
+Zone:9,33,1.36,0,0.0,2424638,2004,Mushroom poisoning
+Chanthaburi,7,1.39,0,0.0,502794,2004,Mushroom poisoning
+Chon Buri,2,0.17,0,0.0,1150048,2004,Mushroom poisoning
+Rayong,23,4.18,0,0.0,550310,2004,Mushroom poisoning
+Trat,1,0.45,0,0.0,221486,2004,Mushroom poisoning
+North-Eastern Region,924,4.3,6,0.03,21463567,2004,Mushroom poisoning
+Zone:10,132,3.72,5,0.14,3549364,2004,Mushroom poisoning
+Loei,98,15.88,5,0.81,617280,2004,Mushroom poisoning
+Nong Bua Lam Phu,1,0.2,0,0.0,497298,2004,Mushroom poisoning
+Nong Khai,21,2.32,0,0.0,904499,2004,Mushroom poisoning
+Udon Thani,12,0.78,0,0.0,1530287,2004,Mushroom poisoning
+Zone:11,117,3.74,1,0.03,3127236,2004,Mushroom poisoning
+Kalasin,0,0.0,0,0.0,982947,2004,Mushroom poisoning
+Mukdahan,2,0.6,0,0.0,335819,2004,Mushroom poisoning
+Nakhon Phanom,48,6.85,1,0.14,700800,2004,Mushroom poisoning
+Sakon Nakhon,67,6.05,0,0.0,1107670,2004,Mushroom poisoning
+Zone:12,44,1.1,0,0.0,4012215,2004,Mushroom poisoning
+Khon Kaen,6,0.34,0,0.0,1756177,2004,Mushroom poisoning
+Maha Sarakham,0,0.0,0,0.0,939718,2004,Mushroom poisoning
+Roi Et,38,2.89,0,0.0,1316320,2004,Mushroom poisoning
+Zone:13,333,5.03,0,0.0,6621384,2004,Mushroom poisoning
+Buri Ram,190,12.34,0,0.0,1539135,2004,Mushroom poisoning
+Chaiyaphum,0,0.0,0,0.0,1128031,2004,Mushroom poisoning
+Nakhon Ratchasima,27,1.05,0,0.0,2565197,2004,Mushroom poisoning
+Surin,116,8.35,0,0.0,1389021,2004,Mushroom poisoning
+Zone:14,298,7.17,0,0.0,4153368,2004,Mushroom poisoning
+Amnat Charoen,27,7.32,0,0.0,369071,2004,Mushroom poisoning
+Si Sa Ket,47,3.23,0,0.0,1452971,2004,Mushroom poisoning
+Ubon Ratchathani,217,12.16,0,0.0,1784192,2004,Mushroom poisoning
+Yasothon,7,1.28,0,0.0,547134,2004,Mushroom poisoning
+South Region,80,0.94,4,0.05,8466275,2004,Mushroom poisoning
+Zone:15,43,2.72,0,0.0,1581379,2004,Mushroom poisoning
+Chumphon,6,1.26,0,0.0,474592,2004,Mushroom poisoning
+Ranong,8,4.71,0,0.0,169904,2004,Mushroom poisoning
+Surat Thani,29,3.1,0,0.0,936883,2004,Mushroom poisoning
+Zone:16,12,0.46,0,0.0,2619221,2004,Mushroom poisoning
+Nakhon Si Thammarat,3,0.2,0,0.0,1515708,2004,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,501447,2004,Mushroom poisoning
+Trang,9,1.49,0,0.0,602066,2004,Mushroom poisoning
+Zone:17,16,1.76,4,0.44,908170,2004,Mushroom poisoning
+Krabi,16,4.14,4,1.04,386084,2004,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,239895,2004,Mushroom poisoning
+Phuket,0,0.0,0,0.0,282191,2004,Mushroom poisoning
+Zone:18,0,0.0,0,0.0,1795905,2004,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,701008,2004,Mushroom poisoning
+Pattani,0,0.0,0,0.0,632240,2004,Mushroom poisoning
+Yala,0,0.0,0,0.0,462657,2004,Mushroom poisoning
+Zone:19,9,0.58,0,0.0,1561600,2004,Mushroom poisoning
+Satun,0,0.0,0,0.0,273624,2004,Mushroom poisoning
+Songkhla,9,0.7,0,0.0,1287976,2004,Mushroom poisoning
+Total,1324,2.13,1,0.0,62195878,2005,Mushroom poisoning
+North Region,265,2.23,1,0.01,11862916,2005,Mushroom poisoning
+Zone:1,228,3.98,1,0.02,5729312,2005,Mushroom poisoning
+Chiang Mai,6,0.37,1,0.06,1640390,2005,Mushroom poisoning
+Chiang Rai,149,12.22,0,0.0,1219732,2005,Mushroom poisoning
+Lampang,37,4.76,0,0.0,777827,2005,Mushroom poisoning
+Lamphun,6,1.48,0,0.0,404754,2005,Mushroom poisoning
+Mae Hong Son,2,0.8,0,0.0,248672,2005,Mushroom poisoning
+Nan,4,0.84,0,0.0,477917,2005,Mushroom poisoning
+Phayao,21,4.31,0,0.0,487616,2005,Mushroom poisoning
+Phrae,3,0.64,0,0.0,472404,2005,Mushroom poisoning
+Zone:2,30,0.87,0,0.0,3442642,2005,Mushroom poisoning
+Phetchabun,11,1.1,0,0.0,1001820,2005,Mushroom poisoning
+Phitsanulok,12,1.43,0,0.0,841248,2005,Mushroom poisoning
+Sukhothai,3,0.49,0,0.0,610871,2005,Mushroom poisoning
+Tak,4,0.77,0,0.0,519037,2005,Mushroom poisoning
+Uttaradit,0,0.0,0,0.0,469666,2005,Mushroom poisoning
+Zone:3,7,0.26,0,0.0,2690962,2005,Mushroom poisoning
+Kamphaeng Phet,4,0.55,0,0.0,727351,2005,Mushroom poisoning
+Nakhon Sawan,3,0.28,0,0.0,1077634,2005,Mushroom poisoning
+Phichit,0,0.0,0,0.0,559611,2005,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,326366,2005,Mushroom poisoning
+Central Region,129,0.63,0,0.0,20560399,2005,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5646543,2005,Mushroom poisoning
+Zone:4,2,0.07,0,0.0,2777019,2005,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,283373,2005,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,957287,2005,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,743659,2005,Mushroom poisoning
+Pathum Thani,2,0.25,0,0.0,792700,2005,Mushroom poisoning
+Zone:5,40,2.09,0,0.0,1909368,2005,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,340812,2005,Mushroom poisoning
+Lop Buri,32,4.26,0,0.0,750718,2005,Mushroom poisoning
+Saraburi,8,1.34,0,0.0,598905,2005,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,218933,2005,Mushroom poisoning
+Zone:6,30,0.91,0,0.0,3282327,2005,Mushroom poisoning
+Kanchanaburi,9,1.1,0,0.0,818218,2005,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,803489,2005,Mushroom poisoning
+Ratchaburi,5,0.61,0,0.0,819286,2005,Mushroom poisoning
+Suphan Buri,16,1.9,0,0.0,841334,2005,Mushroom poisoning
+Zone:7,10,0.63,0,0.0,1578246,2005,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,452506,2005,Mushroom poisoning
+Prachuap Khiri Khan,10,2.07,0,0.0,483243,2005,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,447353,2005,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,195144,2005,Mushroom poisoning
+Zone:8,29,0.99,0,0.0,2943051,2005,Mushroom poisoning
+Chachoengsao,0,0.0,0,0.0,645521,2005,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,249686,2005,Mushroom poisoning
+Prachin Buri,27,6.03,0,0.0,447783,2005,Mushroom poisoning
+Sa Kaeo,2,0.37,0,0.0,536591,2005,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1063470,2005,Mushroom poisoning
+Zone:9,18,0.74,0,0.0,2423845,2005,Mushroom poisoning
+Chanthaburi,5,1.01,0,0.0,496081,2005,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1157709,2005,Mushroom poisoning
+Rayong,13,2.36,0,0.0,551512,2005,Mushroom poisoning
+Trat,0,0.0,0,0.0,218543,2005,Mushroom poisoning
+North-Eastern Region,868,4.08,0,0.0,21297778,2005,Mushroom poisoning
+Zone:10,241,6.84,0,0.0,3524138,2005,Mushroom poisoning
+Loei,75,12.27,0,0.0,611448,2005,Mushroom poisoning
+Nong Bua Lam Phu,3,0.61,0,0.0,495626,2005,Mushroom poisoning
+Nong Khai,2,0.22,0,0.0,895911,2005,Mushroom poisoning
+Udon Thani,161,10.58,0,0.0,1521153,2005,Mushroom poisoning
+Zone:11,62,2.0,0,0.0,3101003,2005,Mushroom poisoning
+Kalasin,1,0.1,0,0.0,972425,2005,Mushroom poisoning
+Mukdahan,2,0.6,0,0.0,333338,2005,Mushroom poisoning
+Nakhon Phanom,29,4.19,0,0.0,692377,2005,Mushroom poisoning
+Sakon Nakhon,30,2.72,0,0.0,1102863,2005,Mushroom poisoning
+Zone:12,89,2.23,0,0.0,3991075,2005,Mushroom poisoning
+Khon Kaen,1,0.06,0,0.0,1744646,2005,Mushroom poisoning
+Maha Sarakham,1,0.11,0,0.0,935967,2005,Mushroom poisoning
+Roi Et,87,6.64,0,0.0,1310462,2005,Mushroom poisoning
+Zone:13,226,3.44,0,0.0,6560991,2005,Mushroom poisoning
+Buri Ram,89,5.83,0,0.0,1527846,2005,Mushroom poisoning
+Chaiyaphum,9,0.81,0,0.0,1117026,2005,Mushroom poisoning
+Nakhon Ratchasima,43,1.69,0,0.0,2543054,2005,Mushroom poisoning
+Surin,85,6.19,0,0.0,1373065,2005,Mushroom poisoning
+Zone:14,250,6.07,0,0.0,4120571,2005,Mushroom poisoning
+Amnat Charoen,16,4.35,0,0.0,368153,2005,Mushroom poisoning
+Si Sa Ket,46,3.19,0,0.0,1442190,2005,Mushroom poisoning
+Ubon Ratchathani,184,10.4,0,0.0,1768935,2005,Mushroom poisoning
+Yasothon,4,0.74,0,0.0,541293,2005,Mushroom poisoning
+South Region,62,0.73,0,0.0,8474785,2005,Mushroom poisoning
+Zone:15,50,3.14,0,0.0,1593965,2005,Mushroom poisoning
+Chumphon,0,0.0,0,0.0,473916,2005,Mushroom poisoning
+Ranong,17,9.59,0,0.0,177247,2005,Mushroom poisoning
+Surat Thani,33,3.5,0,0.0,942802,2005,Mushroom poisoning
+Zone:16,7,0.27,0,0.0,2600847,2005,Mushroom poisoning
+Nakhon Si Thammarat,0,0.0,0,0.0,1502382,2005,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,499399,2005,Mushroom poisoning
+Trang,7,1.17,0,0.0,599066,2005,Mushroom poisoning
+Zone:17,3,0.33,0,0.0,921037,2005,Mushroom poisoning
+Krabi,2,0.51,0,0.0,391709,2005,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,240254,2005,Mushroom poisoning
+Phuket,1,0.35,0,0.0,289074,2005,Mushroom poisoning
+Zone:18,0,0.0,0,0.0,1791264,2005,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,697150,2005,Mushroom poisoning
+Pattani,0,0.0,0,0.0,632119,2005,Mushroom poisoning
+Yala,0,0.0,0,0.0,461995,2005,Mushroom poisoning
+Zone:19,2,0.13,0,0.0,1567672,2005,Mushroom poisoning
+Satun,0,0.0,0,0.0,275706,2005,Mushroom poisoning
+Songkhla,2,0.15,0,0.0,1291966,2005,Mushroom poisoning
+Total,1375,2.2,1,0.0,62623416,2006,Mushroom poisoning
+North Region,287,2.41,1,0.01,11887142,2006,Mushroom poisoning
+Zone:1,225,3.91,1,0.02,5748673,2006,Mushroom poisoning
+Chiang Mai,15,0.91,0,0.0,1654154,2006,Mushroom poisoning
+Chiang Rai,134,10.94,0,0.0,1225386,2006,Mushroom poisoning
+Lampang,9,1.16,0,0.0,775259,2006,Mushroom poisoning
+Lamphun,14,3.46,0,0.0,405146,2006,Mushroom poisoning
+Mae Hong Son,3,1.18,0,0.0,254392,2006,Mushroom poisoning
+Nan,33,6.91,1,0.21,477871,2006,Mushroom poisoning
+Phayao,14,2.88,0,0.0,486554,2006,Mushroom poisoning
+Phrae,3,0.64,0,0.0,469911,2006,Mushroom poisoning
+Zone:2,48,1.39,0,0.0,3448091,2006,Mushroom poisoning
+Phetchabun,39,3.89,0,0.0,1002388,2006,Mushroom poisoning
+Phitsanulok,1,0.12,0,0.0,842739,2006,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,609591,2006,Mushroom poisoning
+Tak,7,1.33,0,0.0,524938,2006,Mushroom poisoning
+Uttaradit,1,0.21,0,0.0,468435,2006,Mushroom poisoning
+Zone:3,14,0.52,0,0.0,2690378,2006,Mushroom poisoning
+Kamphaeng Phet,6,0.82,0,0.0,728293,2006,Mushroom poisoning
+Nakhon Sawan,8,0.74,0,0.0,1076911,2006,Mushroom poisoning
+Phichit,0,0.0,0,0.0,558314,2006,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,326860,2006,Mushroom poisoning
+Central Region,41,0.2,0,0.0,20825142,2006,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5677455,2006,Mushroom poisoning
+Zone:4,0,0.0,0,0.0,2858658,2006,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,283861,2006,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,985669,2006,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,750757,2006,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,838371,2006,Mushroom poisoning
+Zone:5,6,0.31,0,0.0,1915186,2006,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,339568,2006,Mushroom poisoning
+Lop Buri,2,0.27,0,0.0,752364,2006,Mushroom poisoning
+Saraburi,4,0.66,0,0.0,605897,2006,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,217357,2006,Mushroom poisoning
+Zone:6,14,0.42,0,0.0,3315213,2006,Mushroom poisoning
+Kanchanaburi,0,0.0,0,0.0,830309,2006,Mushroom poisoning
+Nakhon Pathom,2,0.25,0,0.0,815433,2006,Mushroom poisoning
+Ratchaburi,3,0.36,0,0.0,826212,2006,Mushroom poisoning
+Suphan Buri,9,1.07,0,0.0,843259,2006,Mushroom poisoning
+Zone:7,7,0.44,0,0.0,1598232,2006,Mushroom poisoning
+Phetchaburi,4,0.88,0,0.0,455332,2006,Mushroom poisoning
+Prachuap Khiri Khan,2,0.41,0,0.0,490607,2006,Mushroom poisoning
+Samut Sakhon,1,0.22,0,0.0,457264,2006,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,195029,2006,Mushroom poisoning
+Zone:8,6,0.2,0,0.0,2983258,2006,Mushroom poisoning
+Chachoengsao,6,0.92,0,0.0,650909,2006,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,250392,2006,Mushroom poisoning
+Prachin Buri,0,0.0,0,0.0,451721,2006,Mushroom poisoning
+Sa Kaeo,0,0.0,0,0.0,537661,2006,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1092575,2006,Mushroom poisoning
+Zone:9,8,0.32,0,0.0,2477140,2006,Mushroom poisoning
+Chanthaburi,2,0.4,0,0.0,500275,2006,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1190861,2006,Mushroom poisoning
+Rayong,4,0.71,0,0.0,566461,2006,Mushroom poisoning
+Trat,2,0.91,0,0.0,219543,2006,Mushroom poisoning
+North-Eastern Region,985,4.61,0,0.0,21352480,2006,Mushroom poisoning
+Zone:10,228,6.45,0,0.0,3533061,2006,Mushroom poisoning
+Loei,71,11.58,0,0.0,612863,2006,Mushroom poisoning
+Nong Bua Lam Phu,2,0.4,0,0.0,496675,2006,Mushroom poisoning
+Nong Khai,24,2.67,0,0.0,897840,2006,Mushroom poisoning
+Udon Thani,131,8.59,0,0.0,1525683,2006,Mushroom poisoning
+Zone:11,71,2.28,0,0.0,3110390,2006,Mushroom poisoning
+Kalasin,4,0.41,0,0.0,974560,2006,Mushroom poisoning
+Mukdahan,1,0.3,0,0.0,334781,2006,Mushroom poisoning
+Nakhon Phanom,33,4.75,0,0.0,694473,2006,Mushroom poisoning
+Sakon Nakhon,33,2.98,0,0.0,1106576,2006,Mushroom poisoning
+Zone:12,66,1.65,0,0.0,3996666,2006,Mushroom poisoning
+Khon Kaen,0,0.0,0,0.0,1749021,2006,Mushroom poisoning
+Maha Sarakham,0,0.0,0,0.0,937285,2006,Mushroom poisoning
+Roi Et,66,5.04,0,0.0,1310360,2006,Mushroom poisoning
+Zone:13,138,2.1,0,0.0,6578271,2006,Mushroom poisoning
+Buri Ram,70,4.56,0,0.0,1534076,2006,Mushroom poisoning
+Chaiyaphum,10,0.89,0,0.0,1118040,2006,Mushroom poisoning
+Nakhon Ratchasima,38,1.49,0,0.0,2551176,2006,Mushroom poisoning
+Surin,20,1.45,0,0.0,1374979,2006,Mushroom poisoning
+Zone:14,482,11.66,0,0.0,4134092,2006,Mushroom poisoning
+Amnat Charoen,22,5.96,0,0.0,368863,2006,Mushroom poisoning
+Si Sa Ket,145,10.03,0,0.0,1445230,2006,Mushroom poisoning
+Ubon Ratchathani,314,17.65,0,0.0,1778922,2006,Mushroom poisoning
+Yasothon,1,0.18,0,0.0,541077,2006,Mushroom poisoning
+South Region,62,0.72,0,0.0,8558652,2006,Mushroom poisoning
+Zone:15,29,1.8,0,0.0,1610374,2006,Mushroom poisoning
+Chumphon,8,1.68,0,0.0,477364,2006,Mushroom poisoning
+Ranong,5,2.79,0,0.0,178986,2006,Mushroom poisoning
+Surat Thani,16,1.68,0,0.0,954024,2006,Mushroom poisoning
+Zone:16,7,0.27,0,0.0,2614100,2006,Mushroom poisoning
+Nakhon Si Thammarat,1,0.07,0,0.0,1507440,2006,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,501912,2006,Mushroom poisoning
+Trang,6,0.99,0,0.0,604748,2006,Mushroom poisoning
+Zone:17,12,1.28,0,0.0,939424,2006,Mushroom poisoning
+Krabi,7,1.75,0,0.0,399514,2006,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,243419,2006,Mushroom poisoning
+Phuket,5,1.69,0,0.0,296491,2006,Mushroom poisoning
+Zone:18,0,0.0,0,0.0,1805088,2006,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,703848,2006,Mushroom poisoning
+Pattani,0,0.0,0,0.0,635053,2006,Mushroom poisoning
+Yala,0,0.0,0,0.0,466187,2006,Mushroom poisoning
+Zone:19,14,0.88,0,0.0,1589666,2006,Mushroom poisoning
+Satun,0,0.0,0,0.0,279705,2006,Mushroom poisoning
+Songkhla,14,1.07,0,0.0,1309961,2006,Mushroom poisoning
+Total,1313,2.09,11,0.02,62933515,2007,Mushroom poisoning
+North Region,230,1.94,8,0.07,11881352,2007,Mushroom poisoning
+Zone:1,207,3.6,8,0.14,5750312,2007,Mushroom poisoning
+Chiang Mai,29,1.75,0,0.0,1661349,2007,Mushroom poisoning
+Chiang Rai,87,7.1,0,0.0,1225364,2007,Mushroom poisoning
+Lampang,8,1.04,0,0.0,772202,2007,Mushroom poisoning
+Lamphun,9,2.22,0,0.0,405361,2007,Mushroom poisoning
+Mae Hong Son,8,3.14,3,1.18,254990,2007,Mushroom poisoning
+Nan,41,8.59,5,1.05,477522,2007,Mushroom poisoning
+Phayao,16,3.29,0,0.0,486399,2007,Mushroom poisoning
+Phrae,9,1.93,0,0.0,467125,2007,Mushroom poisoning
+Zone:2,19,0.55,0,0.0,3445764,2007,Mushroom poisoning
+Phetchabun,10,1.0,0,0.0,999924,2007,Mushroom poisoning
+Phitsanulok,3,0.36,0,0.0,843096,2007,Mushroom poisoning
+Sukhothai,1,0.16,0,0.0,607061,2007,Mushroom poisoning
+Tak,1,0.19,0,0.0,529303,2007,Mushroom poisoning
+Uttaradit,4,0.86,0,0.0,466380,2007,Mushroom poisoning
+Zone:3,4,0.15,0,0.0,2685276,2007,Mushroom poisoning
+Kamphaeng Phet,2,0.28,0,0.0,727158,2007,Mushroom poisoning
+Nakhon Sawan,1,0.09,0,0.0,1074849,2007,Mushroom poisoning
+Phichit,0,0.0,0,0.0,556287,2007,Mushroom poisoning
+Uthai Thani,1,0.31,0,0.0,326982,2007,Mushroom poisoning
+Central Region,70,0.33,1,0.0,21043273,2007,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5706103,2007,Mushroom poisoning
+Zone:4,0,0.0,0,0.0,2932544,2007,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,284175,2007,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1011624,2007,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,757654,2007,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,879091,2007,Mushroom poisoning
+Zone:5,2,0.1,0,0.0,1918492,2007,Mushroom poisoning
+Chai Nat,2,0.59,0,0.0,338077,2007,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,751298,2007,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,612806,2007,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,216311,2007,Mushroom poisoning
+Zone:6,23,0.69,0,0.0,3334732,2007,Mushroom poisoning
+Kanchanaburi,9,1.08,0,0.0,834865,2007,Mushroom poisoning
+Nakhon Pathom,1,0.12,0,0.0,826438,2007,Mushroom poisoning
+Ratchaburi,2,0.24,0,0.0,830184,2007,Mushroom poisoning
+Suphan Buri,11,1.3,0,0.0,843245,2007,Mushroom poisoning
+Zone:7,1,0.06,0,0.0,1611697,2007,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,456371,2007,Mushroom poisoning
+Prachuap Khiri Khan,1,0.2,0,0.0,494502,2007,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,466222,2007,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194602,2007,Mushroom poisoning
+Zone:8,16,0.53,1,0.03,3016265,2007,Mushroom poisoning
+Chachoengsao,9,1.37,1,0.15,656586,2007,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,249250,2007,Mushroom poisoning
+Prachin Buri,1,0.22,0,0.0,454404,2007,Mushroom poisoning
+Sa Kaeo,6,1.11,0,0.0,538741,2007,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1117284,2007,Mushroom poisoning
+Zone:9,28,1.11,0,0.0,2523440,2007,Mushroom poisoning
+Chanthaburi,1,0.2,0,0.0,503197,2007,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1221369,2007,Mushroom poisoning
+Rayong,22,3.8,0,0.0,578628,2007,Mushroom poisoning
+Trat,5,2.27,0,0.0,220246,2007,Mushroom poisoning
+North-Eastern Region,930,4.35,1,0.0,21381249,2007,Mushroom poisoning
+Zone:10,201,5.68,0,0.0,3541793,2007,Mushroom poisoning
+Loei,87,14.16,0,0.0,614421,2007,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,497148,2007,Mushroom poisoning
+Nong Khai,22,2.44,0,0.0,901100,2007,Mushroom poisoning
+Udon Thani,92,6.02,0,0.0,1529124,2007,Mushroom poisoning
+Zone:11,91,2.92,0,0.0,3119599,2007,Mushroom poisoning
+Kalasin,3,0.31,0,0.0,976536,2007,Mushroom poisoning
+Mukdahan,32,9.53,0,0.0,335778,2007,Mushroom poisoning
+Nakhon Phanom,28,4.02,0,0.0,696229,2007,Mushroom poisoning
+Sakon Nakhon,28,2.52,0,0.0,1111056,2007,Mushroom poisoning
+Zone:12,70,1.75,0,0.0,3997622,2007,Mushroom poisoning
+Khon Kaen,3,0.17,0,0.0,1751458,2007,Mushroom poisoning
+Maha Sarakham,0,0.0,0,0.0,936846,2007,Mushroom poisoning
+Roi Et,67,5.12,0,0.0,1309318,2007,Mushroom poisoning
+Zone:13,122,1.85,1,0.02,6583974,2007,Mushroom poisoning
+Buri Ram,92,5.99,1,0.07,1536396,2007,Mushroom poisoning
+Chaiyaphum,4,0.36,0,0.0,1119372,2007,Mushroom poisoning
+Nakhon Ratchasima,20,0.78,0,0.0,2554241,2007,Mushroom poisoning
+Surin,6,0.44,0,0.0,1373965,2007,Mushroom poisoning
+Zone:14,446,10.78,0,0.0,4138261,2007,Mushroom poisoning
+Amnat Charoen,15,4.07,0,0.0,368925,2007,Mushroom poisoning
+Si Sa Ket,147,10.17,0,0.0,1444748,2007,Mushroom poisoning
+Ubon Ratchathani,267,14.96,0,0.0,1784372,2007,Mushroom poisoning
+Yasothon,17,3.15,0,0.0,540216,2007,Mushroom poisoning
+South Region,83,0.96,1,0.01,8627641,2007,Mushroom poisoning
+Zone:15,41,2.52,0,0.0,1626011,2007,Mushroom poisoning
+Chumphon,0,0.0,0,0.0,480131,2007,Mushroom poisoning
+Ranong,0,0.0,0,0.0,180319,2007,Mushroom poisoning
+Surat Thani,41,4.25,0,0.0,965561,2007,Mushroom poisoning
+Zone:16,19,0.73,0,0.0,2620564,2007,Mushroom poisoning
+Nakhon Si Thammarat,5,0.33,0,0.0,1508729,2007,Mushroom poisoning
+Phatthalung,1,0.2,0,0.0,502943,2007,Mushroom poisoning
+Trang,13,2.14,0,0.0,608892,2007,Mushroom poisoning
+Zone:17,8,0.83,1,0.1,961258,2007,Mushroom poisoning
+Krabi,5,1.23,1,0.25,406999,2007,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,246141,2007,Mushroom poisoning
+Phuket,3,0.97,0,0.0,308118,2007,Mushroom poisoning
+Zone:18,1,0.06,0,0.0,1815585,2007,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,709345,2007,Mushroom poisoning
+Pattani,1,0.16,0,0.0,636768,2007,Mushroom poisoning
+Yala,0,0.0,0,0.0,469472,2007,Mushroom poisoning
+Zone:19,14,0.87,0,0.0,1604223,2007,Mushroom poisoning
+Satun,0,0.0,0,0.0,283014,2007,Mushroom poisoning
+Songkhla,14,1.06,0,0.0,1321209,2007,Mushroom poisoning
+Total,1624,2.57,5,0.01,63214022,2008,Mushroom poisoning
+Central Region,90,0.42,0,0.0,21226352,2008,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5713566,2008,Mushroom poisoning
+Zone:1,0,0.0,0,0.0,3335057,2008,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1038392,2008,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,764919,2008,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,913047,2008,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,618699,2008,Mushroom poisoning
+Zone:2,1,0.06,0,0.0,1588582,2008,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,284619,2008,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,336550,2008,Mushroom poisoning
+Lop Buri,1,0.13,0,0.0,751811,2008,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,215602,2008,Mushroom poisoning
+Zone:3,18,0.59,0,0.0,3046070,2008,Mushroom poisoning
+Chachoengsao,12,1.81,0,0.0,661898,2008,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,249625,2008,Mushroom poisoning
+Prachin Buri,2,0.44,0,0.0,457184,2008,Mushroom poisoning
+Sa Kaeo,4,0.74,0,0.0,540281,2008,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1137082,2008,Mushroom poisoning
+Zone:4,25,0.75,0,0.0,3352570,2008,Mushroom poisoning
+Kanchanaburi,13,1.55,0,0.0,838094,2008,Mushroom poisoning
+Nakhon Pathom,2,0.24,0,0.0,837285,2008,Mushroom poisoning
+Ratchaburi,3,0.36,0,0.0,833650,2008,Mushroom poisoning
+Suphan Buri,7,0.83,0,0.0,843541,2008,Mushroom poisoning
+Zone:5,2,0.12,0,0.0,1623176,2008,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,457518,2008,Mushroom poisoning
+Prachuap Khiri Khan,2,0.4,0,0.0,497483,2008,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,474041,2008,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194134,2008,Mushroom poisoning
+Zone:9,44,1.71,0,0.0,2567331,2008,Mushroom poisoning
+Chanthaburi,11,2.17,0,0.0,506012,2008,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1249067,2008,Mushroom poisoning
+Rayong,6,1.02,0,0.0,591067,2008,Mushroom poisoning
+Trat,27,12.21,0,0.0,221185,2008,Mushroom poisoning
+South Region,92,1.06,0,0.0,8698196,2008,Mushroom poisoning
+Zone:6,62,1.78,0,0.0,3473895,2008,Mushroom poisoning
+Chumphon,7,1.45,0,0.0,483011,2008,Mushroom poisoning
+Nakhon Si Thammarat,0,0.0,0,0.0,1510081,2008,Mushroom poisoning
+Phatthalung,3,0.6,0,0.0,503847,2008,Mushroom poisoning
+Surat Thani,52,5.32,0,0.0,976956,2008,Mushroom poisoning
+Zone:7,16,0.9,0,0.0,1778692,2008,Mushroom poisoning
+Krabi,0,0.0,0,0.0,414670,2008,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,248411,2008,Mushroom poisoning
+Phuket,2,0.62,0,0.0,321252,2008,Mushroom poisoning
+Ranong,6,3.3,0,0.0,181758,2008,Mushroom poisoning
+Trang,8,1.31,0,0.0,612601,2008,Mushroom poisoning
+Zone:8,14,0.41,0,0.0,3445609,2008,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,715724,2008,Mushroom poisoning
+Pattani,2,0.31,0,0.0,639988,2008,Mushroom poisoning
+Satun,6,2.09,0,0.0,286446,2008,Mushroom poisoning
+Songkhla,6,0.45,0,0.0,1330342,2008,Mushroom poisoning
+Yala,0,0.0,0,0.0,473109,2008,Mushroom poisoning
+North-Eastern Region,1081,5.05,0,0.0,21414180,2008,Mushroom poisoning
+Zone:10,322,9.06,0,0.0,3553449,2008,Mushroom poisoning
+Loei,112,18.15,0,0.0,616981,2008,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,498562,2008,Mushroom poisoning
+Nong Khai,30,3.32,0,0.0,904748,2008,Mushroom poisoning
+Udon Thani,180,11.74,0,0.0,1533158,2008,Mushroom poisoning
+Zone:11,98,4.56,0,0.0,2149587,2008,Mushroom poisoning
+Mukdahan,30,8.91,0,0.0,336802,2008,Mushroom poisoning
+Nakhon Phanom,24,3.44,0,0.0,698235,2008,Mushroom poisoning
+Sakon Nakhon,44,3.95,0,0.0,1114550,2008,Mushroom poisoning
+Zone:12,42,0.84,0,0.0,4976635,2008,Mushroom poisoning
+Kalasin,7,0.72,0,0.0,978046,2008,Mushroom poisoning
+Khon Kaen,6,0.34,0,0.0,1754258,2008,Mushroom poisoning
+Maha Sarakham,1,0.11,0,0.0,936430,2008,Mushroom poisoning
+Roi Et,28,2.14,0,0.0,1307901,2008,Mushroom poisoning
+Zone:13,496,11.98,0,0.0,4141403,2008,Mushroom poisoning
+Amnat Charoen,50,13.54,0,0.0,369196,2008,Mushroom poisoning
+Si Sa Ket,166,11.51,0,0.0,1442212,2008,Mushroom poisoning
+Ubon Ratchathani,256,14.3,0,0.0,1790581,2008,Mushroom poisoning
+Yasothon,24,4.45,0,0.0,539414,2008,Mushroom poisoning
+Zone:14,123,1.87,0,0.0,6593106,2008,Mushroom poisoning
+Buri Ram,22,1.43,0,0.0,1538861,2008,Mushroom poisoning
+Chaiyaphum,23,2.05,0,0.0,1121123,2008,Mushroom poisoning
+Nakhon Ratchasima,25,0.98,0,0.0,2559006,2008,Mushroom poisoning
+Surin,53,3.86,0,0.0,1374116,2008,Mushroom poisoning
+North Region,361,3.04,5,0.04,11875294,2008,Mushroom poisoning
+Zone:15,87,2.81,4,0.13,3095362,2008,Mushroom poisoning
+Chiang Mai,42,2.52,2,0.12,1667358,2008,Mushroom poisoning
+Lampang,15,1.95,0,0.0,769115,2008,Mushroom poisoning
+Lamphun,7,1.73,0,0.0,405141,2008,Mushroom poisoning
+Mae Hong Son,23,9.06,2,0.79,253748,2008,Mushroom poisoning
+Zone:16,204,7.69,1,0.04,2654508,2008,Mushroom poisoning
+Chiang Rai,162,13.21,1,0.08,1226165,2008,Mushroom poisoning
+Nan,11,2.31,0,0.0,476683,2008,Mushroom poisoning
+Phayao,30,6.16,0,0.0,486983,2008,Mushroom poisoning
+Phrae,1,0.22,0,0.0,464677,2008,Mushroom poisoning
+Zone:17,52,1.51,0,0.0,3443651,2008,Mushroom poisoning
+Phetchabun,13,1.3,0,0.0,996882,2008,Mushroom poisoning
+Phitsanulok,14,1.66,0,0.0,842840,2008,Mushroom poisoning
+Sukhothai,5,0.83,0,0.0,604559,2008,Mushroom poisoning
+Tak,5,0.94,0,0.0,534629,2008,Mushroom poisoning
+Uttaradit,15,3.23,0,0.0,464741,2008,Mushroom poisoning
+Zone:18,18,0.67,0,0.0,2681773,2008,Mushroom poisoning
+Kamphaeng Phet,18,2.48,0,0.0,726104,2008,Mushroom poisoning
+Nakhon Sawan,0,0.0,0,0.0,1073962,2008,Mushroom poisoning
+Phichit,0,0.0,0,0.0,554426,2008,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,327281,2008,Mushroom poisoning
+Total,1724,2.72,2,0.0,63457439,2009,Mushroom poisoning
+Central Region,106,0.5,0,0.0,21386001,2009,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5706739,2009,Mushroom poisoning
+Zone:1,3,0.09,0,0.0,3397461,2009,Mushroom poisoning
+Nonthaburi,2,0.19,0,0.0,1065332,2009,Mushroom poisoning
+P.Nakhon S.Ayutthaya,1,0.13,0,0.0,772142,2009,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,942813,2009,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,617174,2009,Mushroom poisoning
+Zone:2,4,0.25,0,0.0,1590058,2009,Mushroom poisoning
+Ang Thong,4,1.4,0,0.0,284819,2009,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,335686,2009,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,754127,2009,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,215426,2009,Mushroom poisoning
+Zone:3,18,0.59,0,0.0,3076347,2009,Mushroom poisoning
+Chachoengsao,3,0.45,0,0.0,666907,2009,Mushroom poisoning
+Nakhon Nayok,2,0.8,0,0.0,251219,2009,Mushroom poisoning
+Prachin Buri,9,1.95,0,0.0,460617,2009,Mushroom poisoning
+Sa Kaeo,3,0.55,0,0.0,541939,2009,Mushroom poisoning
+Samut Prakan,1,0.09,0,0.0,1155665,2009,Mushroom poisoning
+Zone:4,9,0.27,0,0.0,3364769,2009,Mushroom poisoning
+Kanchanaburi,4,0.48,0,0.0,837165,2009,Mushroom poisoning
+Nakhon Pathom,3,0.35,0,0.0,847513,2009,Mushroom poisoning
+Ratchaburi,2,0.24,0,0.0,835546,2009,Mushroom poisoning
+Suphan Buri,0,0.0,0,0.0,844545,2009,Mushroom poisoning
+Zone:5,9,0.55,0,0.0,1637557,2009,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,460108,2009,Mushroom poisoning
+Prachuap Khiri Khan,9,1.79,0,0.0,502221,2009,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,481377,2009,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,193851,2009,Mushroom poisoning
+Zone:9,63,2.41,0,0.0,2613070,2009,Mushroom poisoning
+Chanthaburi,9,1.77,0,0.0,509633,2009,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1277139,2009,Mushroom poisoning
+Rayong,36,5.95,0,0.0,605380,2009,Mushroom poisoning
+Trat,18,8.15,0,0.0,220918,2009,Mushroom poisoning
+South Region,90,1.03,0,0.0,8777720,2009,Mushroom poisoning
+Zone:6,46,1.32,0,0.0,3496373,2009,Mushroom poisoning
+Chumphon,15,3.08,0,0.0,486233,2009,Mushroom poisoning
+Nakhon Si Thammarat,5,0.33,0,0.0,1514832,2009,Mushroom poisoning
+Phatthalung,2,0.39,0,0.0,506454,2009,Mushroom poisoning
+Surat Thani,24,2.43,0,0.0,988854,2009,Mushroom poisoning
+Zone:7,26,1.44,0,0.0,1803902,2009,Mushroom poisoning
+Krabi,22,5.21,0,0.0,422631,2009,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,250796,2009,Mushroom poisoning
+Phuket,1,0.3,0,0.0,331460,2009,Mushroom poisoning
+Ranong,0,0.0,0,0.0,182242,2009,Mushroom poisoning
+Trang,3,0.49,0,0.0,616773,2009,Mushroom poisoning
+Zone:8,18,0.52,0,0.0,3477445,2009,Mushroom poisoning
+Narathiwat,1,0.14,0,0.0,724001,2009,Mushroom poisoning
+Pattani,0,0.0,0,0.0,644897,2009,Mushroom poisoning
+Satun,0,0.0,0,0.0,290755,2009,Mushroom poisoning
+Songkhla,17,1.27,0,0.0,1339861,2009,Mushroom poisoning
+Yala,0,0.0,0,0.0,477931,2009,Mushroom poisoning
+North-Eastern Region,1109,5.17,0,0.0,21469269,2009,Mushroom poisoning
+Zone:10,515,14.45,0,0.0,3564168,2009,Mushroom poisoning
+Loei,165,26.63,0,0.0,619602,2009,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,500217,2009,Mushroom poisoning
+Nong Khai,54,5.95,0,0.0,907064,2009,Mushroom poisoning
+Udon Thani,296,19.25,0,0.0,1537285,2009,Mushroom poisoning
+Zone:11,83,3.85,0,0.0,2155042,2009,Mushroom poisoning
+Mukdahan,11,3.26,0,0.0,337773,2009,Mushroom poisoning
+Nakhon Phanom,58,8.29,0,0.0,700027,2009,Mushroom poisoning
+Sakon Nakhon,14,1.25,0,0.0,1117242,2009,Mushroom poisoning
+Zone:12,40,0.8,0,0.0,4984201,2009,Mushroom poisoning
+Kalasin,15,1.53,0,0.0,979371,2009,Mushroom poisoning
+Khon Kaen,10,0.57,0,0.0,1759172,2009,Mushroom poisoning
+Maha Sarakham,0,0.0,0,0.0,937972,2009,Mushroom poisoning
+Roi Et,15,1.15,0,0.0,1307686,2009,Mushroom poisoning
+Zone:13,325,7.83,0,0.0,4152834,2009,Mushroom poisoning
+Amnat Charoen,34,9.19,0,0.0,370141,2009,Mushroom poisoning
+Si Sa Ket,112,7.76,0,0.0,1443879,2009,Mushroom poisoning
+Ubon Ratchathani,169,9.39,0,0.0,1799604,2009,Mushroom poisoning
+Yasothon,10,1.85,0,0.0,539210,2009,Mushroom poisoning
+Zone:14,146,2.21,0,0.0,6613024,2009,Mushroom poisoning
+Buri Ram,33,2.14,0,0.0,1544218,2009,Mushroom poisoning
+Chaiyaphum,13,1.16,0,0.0,1123907,2009,Mushroom poisoning
+Nakhon Ratchasima,21,0.82,0,0.0,2568205,2009,Mushroom poisoning
+Surin,79,5.74,0,0.0,1376694,2009,Mushroom poisoning
+North Region,419,3.54,2,0.02,11824449,2009,Mushroom poisoning
+Zone:15,103,3.36,2,0.07,3069670,2009,Mushroom poisoning
+Chiang Mai,59,3.57,0,0.0,1651433,2009,Mushroom poisoning
+Lampang,19,2.48,0,0.0,766057,2009,Mushroom poisoning
+Lamphun,20,4.94,0,0.0,404910,2009,Mushroom poisoning
+Mae Hong Son,5,2.02,2,0.81,247270,2009,Mushroom poisoning
+Zone:16,203,7.7,0,0.0,2636963,2009,Mushroom poisoning
+Chiang Rai,116,9.58,0,0.0,1211126,2009,Mushroom poisoning
+Nan,62,13.03,0,0.0,475799,2009,Mushroom poisoning
+Phayao,19,3.9,0,0.0,487254,2009,Mushroom poisoning
+Phrae,6,1.3,0,0.0,462784,2009,Mushroom poisoning
+Zone:17,66,1.92,0,0.0,3436350,2009,Mushroom poisoning
+Phetchabun,9,0.9,0,0.0,995679,2009,Mushroom poisoning
+Phitsanulok,43,5.09,0,0.0,844779,2009,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,603316,2009,Mushroom poisoning
+Tak,10,1.89,0,0.0,528997,2009,Mushroom poisoning
+Uttaradit,4,0.86,0,0.0,463579,2009,Mushroom poisoning
+Zone:18,47,1.75,0,0.0,2681466,2009,Mushroom poisoning
+Kamphaeng Phet,40,5.51,0,0.0,726530,2009,Mushroom poisoning
+Nakhon Sawan,4,0.37,0,0.0,1073554,2009,Mushroom poisoning
+Phichit,3,0.54,0,0.0,553653,2009,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,327729,2009,Mushroom poisoning
+Total,1965,3.08,13,0.02,63701703,2010,Mushroom poisoning
+Central Region,114,0.53,0,0.0,21534318,2010,Mushroom poisoning
+Zone:0,0,0.0,0,0.0,5701995,2010,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5701995,2010,Mushroom poisoning
+Zone:1,4,0.12,0,0.0,3454591,2010,Mushroom poisoning
+Nonthaburi,2,0.18,0,0.0,1089908,2010,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,778627,2010,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,971010,2010,Mushroom poisoning
+Saraburi,2,0.33,0,0.0,615046,2010,Mushroom poisoning
+Zone:2,1,0.06,0,0.0,1590200,2010,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,284889,2010,Mushroom poisoning
+Chai Nat,1,0.3,0,0.0,335177,2010,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,755153,2010,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,214981,2010,Mushroom poisoning
+Zone:3,16,0.52,0,0.0,3105799,2010,Mushroom poisoning
+Chachoengsao,6,0.89,0,0.0,671458,2010,Mushroom poisoning
+Nakhon Nayok,2,0.79,0,0.0,252209,2010,Mushroom poisoning
+Prachin Buri,6,1.29,0,0.0,464213,2010,Mushroom poisoning
+Sa Kaeo,2,0.37,0,0.0,543276,2010,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1174643,2010,Mushroom poisoning
+Zone:4,10,0.3,0,0.0,3374810,2010,Mushroom poisoning
+Kanchanaburi,5,0.6,0,0.0,836600,2010,Mushroom poisoning
+Nakhon Pathom,2,0.23,0,0.0,855837,2010,Mushroom poisoning
+Ratchaburi,1,0.12,0,0.0,837153,2010,Mushroom poisoning
+Suphan Buri,2,0.24,0,0.0,845220,2010,Mushroom poisoning
+Zone:5,29,1.76,0,0.0,1651335,2010,Mushroom poisoning
+Phetchaburi,2,0.43,0,0.0,462636,2010,Mushroom poisoning
+Prachuap Khiri Khan,27,5.33,0,0.0,506599,2010,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,488247,2010,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,193853,2010,Mushroom poisoning
+Zone:9,54,2.03,0,0.0,2655588,2010,Mushroom poisoning
+Chanthaburi,10,1.95,0,0.0,512932,2010,Mushroom poisoning
+Chon Buri,3,0.23,0,0.0,1302942,2010,Mushroom poisoning
+Rayong,37,5.97,0,0.0,619249,2010,Mushroom poisoning
+Trat,4,1.81,0,0.0,220465,2010,Mushroom poisoning
+South Region,112,1.27,0,0.0,8853473,2010,Mushroom poisoning
+Zone:6,80,2.28,0,0.0,3514344,2010,Mushroom poisoning
+Chumphon,11,2.25,0,0.0,488855,2010,Mushroom poisoning
+Nakhon Si Thammarat,8,0.53,0,0.0,1519531,2010,Mushroom poisoning
+Phatthalung,1,0.2,0,0.0,508656,2010,Mushroom poisoning
+Surat Thani,60,6.02,0,0.0,997302,2010,Mushroom poisoning
+Zone:7,23,1.26,0,0.0,1825591,2010,Mushroom poisoning
+Krabi,14,3.26,0,0.0,429631,2010,Mushroom poisoning
+Phangnga,5,1.98,0,0.0,252385,2010,Mushroom poisoning
+Phuket,0,0.0,0,0.0,340490,2010,Mushroom poisoning
+Ranong,0,0.0,0,0.0,182417,2010,Mushroom poisoning
+Trang,4,0.64,0,0.0,620668,2010,Mushroom poisoning
+Zone:8,9,0.26,0,0.0,3513538,2010,Mushroom poisoning
+Narathiwat,3,0.41,0,0.0,732617,2010,Mushroom poisoning
+Pattani,0,0.0,0,0.0,651442,2010,Mushroom poisoning
+Satun,0,0.0,0,0.0,295133,2010,Mushroom poisoning
+Songkhla,6,0.44,0,0.0,1350489,2010,Mushroom poisoning
+Yala,0,0.0,0,0.0,483857,2010,Mushroom poisoning
+North-Eastern Region,1132,5.26,3,0.01,21534582,2010,Mushroom poisoning
+Zone:10,268,7.49,0,0.0,3576272,2010,Mushroom poisoning
+Loei,101,16.23,0,0.0,622424,2010,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,501891,2010,Mushroom poisoning
+Nong Khai,66,7.25,0,0.0,910094,2010,Mushroom poisoning
+Udon Thani,101,6.55,0,0.0,1541863,2010,Mushroom poisoning
+Zone:11,140,6.48,0,0.0,2161531,2010,Mushroom poisoning
+Mukdahan,41,12.1,0,0.0,338812,2010,Mushroom poisoning
+Nakhon Phanom,85,12.11,0,0.0,702041,2010,Mushroom poisoning
+Sakon Nakhon,14,1.25,0,0.0,1120678,2010,Mushroom poisoning
+Zone:12,78,1.56,1,0.02,4995226,2010,Mushroom poisoning
+Kalasin,27,2.75,0,0.0,981369,2010,Mushroom poisoning
+Khon Kaen,13,0.74,0,0.0,1764922,2010,Mushroom poisoning
+Maha Sarakham,4,0.43,0,0.0,940001,2010,Mushroom poisoning
+Roi Et,34,2.6,1,0.08,1308934,2010,Mushroom poisoning
+Zone:13,485,11.63,2,0.05,4168498,2010,Mushroom poisoning
+Amnat Charoen,36,9.69,0,0.0,371471,2010,Mushroom poisoning
+Si Sa Ket,176,12.14,0,0.0,1449409,2010,Mushroom poisoning
+Ubon Ratchathani,238,13.16,2,0.11,1808422,2010,Mushroom poisoning
+Yasothon,35,6.49,0,0.0,539196,2010,Mushroom poisoning
+Zone:14,161,2.43,0,0.0,6633055,2010,Mushroom poisoning
+Buri Ram,80,5.16,0,0.0,1550275,2010,Mushroom poisoning
+Chaiyaphum,3,0.27,0,0.0,1126295,2010,Mushroom poisoning
+Nakhon Ratchasima,25,0.97,0,0.0,2576691,2010,Mushroom poisoning
+Surin,53,3.84,0,0.0,1379794,2010,Mushroom poisoning
+North Region,607,5.15,10,0.08,11779330,2010,Mushroom poisoning
+Zone:15,213,6.99,10,0.33,3046660,2010,Mushroom poisoning
+Chiang Mai,149,9.1,10,0.61,1636514,2010,Mushroom poisoning
+Lampang,38,4.98,0,0.0,763224,2010,Mushroom poisoning
+Lamphun,12,2.97,0,0.0,404627,2010,Mushroom poisoning
+Mae Hong Son,14,5.78,0,0.0,242295,2010,Mushroom poisoning
+Zone:16,210,8.01,0,0.0,2620701,2010,Mushroom poisoning
+Chiang Rai,135,11.28,0,0.0,1196576,2010,Mushroom poisoning
+Nan,53,11.13,0,0.0,475989,2010,Mushroom poisoning
+Phayao,11,2.26,0,0.0,486713,2010,Mushroom poisoning
+Phrae,11,2.38,0,0.0,461423,2010,Mushroom poisoning
+Zone:17,142,4.14,0,0.0,3430959,2010,Mushroom poisoning
+Phetchabun,74,7.43,0,0.0,995578,2010,Mushroom poisoning
+Phitsanulok,30,3.54,0,0.0,847627,2010,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,602296,2010,Mushroom poisoning
+Tak,33,6.31,0,0.0,522673,2010,Mushroom poisoning
+Uttaradit,5,1.08,0,0.0,462785,2010,Mushroom poisoning
+Zone:18,42,1.57,0,0.0,2681010,2010,Mushroom poisoning
+Kamphaeng Phet,40,5.5,0,0.0,726970,2010,Mushroom poisoning
+Nakhon Sawan,0,0.0,0,0.0,1073182,2010,Mushroom poisoning
+Phichit,0,0.0,0,0.0,552942,2010,Mushroom poisoning
+Uthai Thani,2,0.61,0,0.0,327916,2010,Mushroom poisoning
+Total,1775,2.77,6,0.01,63977185,2011,Mushroom poisoning
+Central Region,143,0.66,0,0.0,21679246,2011,Mushroom poisoning
+Zone:0,0,0.0,0,0.0,5688119,2011,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5688119,2011,Mushroom poisoning
+Zone:1,13,0.37,0,0.0,3514250,2011,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1112185,2011,Mushroom poisoning
+P.Nakhon S.Ayutthaya,2,0.25,0,0.0,784875,2011,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,998271,2011,Mushroom poisoning
+Saraburi,11,1.78,0,0.0,618919,2011,Mushroom poisoning
+Zone:2,16,1.01,0,0.0,1588727,2011,Mushroom poisoning
+Ang Thong,6,2.11,0,0.0,284516,2011,Mushroom poisoning
+Chai Nat,5,1.5,0,0.0,334096,2011,Mushroom poisoning
+Lop Buri,3,0.4,0,0.0,755991,2011,Mushroom poisoning
+Sing Buri,2,0.93,0,0.0,214124,2011,Mushroom poisoning
+Zone:3,21,0.67,0,0.0,3137098,2011,Mushroom poisoning
+Chachoengsao,9,1.33,0,0.0,676652,2011,Mushroom poisoning
+Nakhon Nayok,1,0.39,0,0.0,253283,2011,Mushroom poisoning
+Prachin Buri,2,0.43,0,0.0,468113,2011,Mushroom poisoning
+Sa Kaeo,9,1.65,0,0.0,544848,2011,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1194202,2011,Mushroom poisoning
+Zone:4,12,0.35,0,0.0,3388832,2011,Mushroom poisoning
+Kanchanaburi,8,0.95,0,0.0,839345,2011,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,863155,2011,Mushroom poisoning
+Ratchaburi,0,0.0,0,0.0,840880,2011,Mushroom poisoning
+Suphan Buri,4,0.47,0,0.0,845452,2011,Mushroom poisoning
+Zone:5,13,0.78,0,0.0,1665473,2011,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,465056,2011,Mushroom poisoning
+Prachuap Khiri Khan,13,2.54,0,0.0,510852,2011,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,495493,2011,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194072,2011,Mushroom poisoning
+Zone:9,68,2.52,0,0.0,2696747,2011,Mushroom poisoning
+Chanthaburi,16,3.1,0,0.0,515736,2011,Mushroom poisoning
+Chon Buri,29,2.18,0,0.0,1327475,2011,Mushroom poisoning
+Rayong,6,0.95,0,0.0,632069,2011,Mushroom poisoning
+Trat,17,7.68,0,0.0,221467,2011,Mushroom poisoning
+South Region,63,0.71,0,0.0,8932459,2011,Mushroom poisoning
+Zone:6,31,0.88,0,0.0,3531913,2011,Mushroom poisoning
+Chumphon,3,0.61,0,0.0,491073,2011,Mushroom poisoning
+Nakhon Si Thammarat,1,0.07,0,0.0,1524317,2011,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,510299,2011,Mushroom poisoning
+Surat Thani,27,2.68,0,0.0,1006224,2011,Mushroom poisoning
+Zone:7,14,0.76,0,0.0,1846999,2011,Mushroom poisoning
+Krabi,10,2.3,0,0.0,435372,2011,Mushroom poisoning
+Phangnga,2,0.79,0,0.0,254022,2011,Mushroom poisoning
+Phuket,1,0.29,0,0.0,349457,2011,Mushroom poisoning
+Ranong,0,0.0,0,0.0,183464,2011,Mushroom poisoning
+Trang,1,0.16,0,0.0,624684,2011,Mushroom poisoning
+Zone:8,18,0.51,0,0.0,3553547,2011,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,742268,2011,Mushroom poisoning
+Pattani,0,0.0,0,0.0,659373,2011,Mushroom poisoning
+Satun,0,0.0,0,0.0,299315,2011,Mushroom poisoning
+Songkhla,18,1.32,0,0.0,1362017,2011,Mushroom poisoning
+Yala,0,0.0,0,0.0,490574,2011,Mushroom poisoning
+North-Eastern Region,903,4.18,1,0.0,21579612,2011,Mushroom poisoning
+Zone:10,309,8.61,0,0.0,3588872,2011,Mushroom poisoning
+Bungkan,53,26.0,0,0.0,203818,2011,Mushroom poisoning
+Loei,184,29.46,0,0.0,624493,2011,Mushroom poisoning
+Nong Bua Lam Phu,2,0.4,0,0.0,502710,2011,Mushroom poisoning
+Nong Khai,21,2.95,0,0.0,711404,2011,Mushroom poisoning
+Udon Thani,49,3.17,0,0.0,1546447,2011,Mushroom poisoning
+Zone:11,100,4.61,0,0.0,2167288,2011,Mushroom poisoning
+Mukdahan,38,11.17,0,0.0,340079,2011,Mushroom poisoning
+Nakhon Phanom,56,7.95,0,0.0,704080,2011,Mushroom poisoning
+Sakon Nakhon,6,0.53,0,0.0,1123129,2011,Mushroom poisoning
+Zone:12,96,1.92,1,0.02,4996659,2011,Mushroom poisoning
+Kalasin,49,4.99,0,0.0,982117,2011,Mushroom poisoning
+Khon Kaen,10,0.57,0,0.0,1766834,2011,Mushroom poisoning
+Maha Sarakham,3,0.32,0,0.0,940324,2011,Mushroom poisoning
+Roi Et,34,2.6,1,0.08,1307384,2011,Mushroom poisoning
+Zone:13,313,7.49,0,0.0,4178156,2011,Mushroom poisoning
+Amnat Charoen,10,2.69,0,0.0,372190,2011,Mushroom poisoning
+Si Sa Ket,175,12.05,0,0.0,1452338,2011,Mushroom poisoning
+Ubon Ratchathani,105,5.79,0,0.0,1814573,2011,Mushroom poisoning
+Yasothon,23,4.27,0,0.0,539055,2011,Mushroom poisoning
+Zone:14,85,1.28,0,0.0,6648637,2011,Mushroom poisoning
+Buri Ram,30,1.93,0,0.0,1556426,2011,Mushroom poisoning
+Chaiyaphum,14,1.24,0,0.0,1127423,2011,Mushroom poisoning
+Nakhon Ratchasima,12,0.46,0,0.0,2583707,2011,Mushroom poisoning
+Surin,29,2.1,0,0.0,1381081,2011,Mushroom poisoning
+North Region,666,5.65,5,0.04,11785868,2011,Mushroom poisoning
+Zone:15,222,7.28,1,0.03,3050706,2011,Mushroom poisoning
+Chiang Mai,167,10.16,1,0.06,1643312,2011,Mushroom poisoning
+Lampang,25,3.29,0,0.0,759742,2011,Mushroom poisoning
+Lamphun,14,3.46,0,0.0,404257,2011,Mushroom poisoning
+Mae Hong Son,16,6.57,0,0.0,243395,2011,Mushroom poisoning
+Zone:16,318,12.13,4,0.15,2621067,2011,Mushroom poisoning
+Chiang Rai,223,18.61,4,0.33,1198438,2011,Mushroom poisoning
+Nan,36,7.56,0,0.0,476488,2011,Mushroom poisoning
+Phayao,51,10.49,0,0.0,486388,2011,Mushroom poisoning
+Phrae,8,1.74,0,0.0,459753,2011,Mushroom poisoning
+Zone:17,99,2.88,0,0.0,3435767,2011,Mushroom poisoning
+Phetchabun,28,2.82,0,0.0,993420,2011,Mushroom poisoning
+Phitsanulok,28,3.29,0,0.0,850525,2011,Mushroom poisoning
+Sukhothai,2,0.33,0,0.0,601642,2011,Mushroom poisoning
+Tak,40,7.57,0,0.0,528351,2011,Mushroom poisoning
+Uttaradit,1,0.22,0,0.0,461829,2011,Mushroom poisoning
+Zone:18,27,1.01,0,0.0,2678328,2011,Mushroom poisoning
+Kamphaeng Phet,23,3.17,0,0.0,726551,2011,Mushroom poisoning
+Nakhon Sawan,0,0.0,0,0.0,1072591,2011,Mushroom poisoning
+Phichit,0,0.0,0,0.0,551189,2011,Mushroom poisoning
+Uthai Thani,4,1.22,0,0.0,327997,2011,Mushroom poisoning
+Total,2120,3.31,25,0.04,64075986,2012,Mushroom poisoning
+Central Region,105,0.48,0,0.0,21734984,2012,Mushroom poisoning
+Zone:0,0,0.0,0,0.0,5674843,2012,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5674843,2012,Mushroom poisoning
+Zone:1,0,0.0,0,0.0,3541632,2012,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1122627,2012,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2012,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1010898,2012,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,620454,2012,Mushroom poisoning
+Zone:2,5,0.32,0,0.0,1587031,2012,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,284061,2012,Mushroom poisoning
+Chai Nat,5,1.5,0,0.0,333256,2012,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,756127,2012,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,213587,2012,Mushroom poisoning
+Zone:3,36,1.14,0,0.0,3151672,2012,Mushroom poisoning
+Chachoengsao,10,1.47,0,0.0,679370,2012,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,253831,2012,Mushroom poisoning
+Prachin Buri,3,0.64,0,0.0,469652,2012,Mushroom poisoning
+Sa Kaeo,23,4.22,0,0.0,545596,2012,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1203223,2012,Mushroom poisoning
+Zone:4,13,0.38,0,0.0,3392715,2012,Mushroom poisoning
+Kanchanaburi,8,0.95,0,0.0,838914,2012,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,866064,2012,Mushroom poisoning
+Ratchaburi,3,0.36,0,0.0,842684,2012,Mushroom poisoning
+Suphan Buri,2,0.24,0,0.0,845053,2012,Mushroom poisoning
+Zone:5,17,1.02,0,0.0,1671831,2012,Mushroom poisoning
+Phetchaburi,3,0.64,0,0.0,466079,2012,Mushroom poisoning
+Prachuap Khiri Khan,14,2.73,0,0.0,512568,2012,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,499098,2012,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194086,2012,Mushroom poisoning
+Zone:9,34,1.25,0,0.0,2715260,2012,Mushroom poisoning
+Chanthaburi,12,2.32,0,0.0,516855,2012,Mushroom poisoning
+Chon Buri,8,0.6,0,0.0,1338656,2012,Mushroom poisoning
+Rayong,5,0.78,0,0.0,637736,2012,Mushroom poisoning
+Trat,9,4.05,0,0.0,222013,2012,Mushroom poisoning
+South Region,90,1.0,0,0.0,8971808,2012,Mushroom poisoning
+Zone:6,35,0.99,0,0.0,3541333,2012,Mushroom poisoning
+Chumphon,10,2.03,0,0.0,492182,2012,Mushroom poisoning
+Nakhon Si Thammarat,3,0.2,0,0.0,1526071,2012,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,511016,2012,Mushroom poisoning
+Surat Thani,22,2.17,0,0.0,1012064,2012,Mushroom poisoning
+Zone:7,37,1.99,0,0.0,1857374,2012,Mushroom poisoning
+Krabi,7,1.6,0,0.0,438039,2012,Mushroom poisoning
+Phangnga,5,1.96,0,0.0,254931,2012,Mushroom poisoning
+Phuket,8,2.26,0,0.0,353847,2012,Mushroom poisoning
+Ranong,7,3.81,0,0.0,183849,2012,Mushroom poisoning
+Trang,10,1.6,0,0.0,626708,2012,Mushroom poisoning
+Zone:8,18,0.5,0,0.0,3573101,2012,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,747372,2012,Mushroom poisoning
+Pattani,0,0.0,0,0.0,663485,2012,Mushroom poisoning
+Satun,0,0.0,0,0.0,301467,2012,Mushroom poisoning
+Songkhla,11,0.8,0,0.0,1367010,2012,Mushroom poisoning
+Yala,7,1.42,0,0.0,493767,2012,Mushroom poisoning
+North-Eastern Region,1381,6.4,10,0.05,21585883,2012,Mushroom poisoning
+Zone:10,348,9.69,5,0.14,3593082,2012,Mushroom poisoning
+Bungkan,13,3.19,0,0.0,407634,2012,Mushroom poisoning
+Loei,197,31.52,5,0.8,624920,2012,Mushroom poisoning
+Nong Bua Lam Phu,18,3.58,0,0.0,502551,2012,Mushroom poisoning
+Nong Khai,33,6.47,0,0.0,509870,2012,Mushroom poisoning
+Udon Thani,87,5.62,0,0.0,1548107,2012,Mushroom poisoning
+Zone:11,129,5.95,0,0.0,2168700,2012,Mushroom poisoning
+Mukdahan,34,9.98,0,0.0,340581,2012,Mushroom poisoning
+Nakhon Phanom,70,9.93,0,0.0,704768,2012,Mushroom poisoning
+Sakon Nakhon,25,2.23,0,0.0,1123351,2012,Mushroom poisoning
+Zone:12,88,1.76,0,0.0,4992515,2012,Mushroom poisoning
+Kalasin,34,3.46,0,0.0,981655,2012,Mushroom poisoning
+Khon Kaen,16,0.91,0,0.0,1766066,2012,Mushroom poisoning
+Maha Sarakham,6,0.64,0,0.0,939736,2012,Mushroom poisoning
+Roi Et,32,2.45,0,0.0,1305058,2012,Mushroom poisoning
+Zone:13,621,14.86,2,0.05,4179354,2012,Mushroom poisoning
+Amnat Charoen,26,6.98,0,0.0,372241,2012,Mushroom poisoning
+Si Sa Ket,252,17.35,0,0.0,1452203,2012,Mushroom poisoning
+Ubon Ratchathani,283,15.58,2,0.11,1816057,2012,Mushroom poisoning
+Yasothon,60,11.13,0,0.0,538853,2012,Mushroom poisoning
+Zone:14,195,2.93,3,0.05,6652232,2012,Mushroom poisoning
+Buri Ram,51,3.27,1,0.06,1559085,2012,Mushroom poisoning
+Chaiyaphum,35,3.1,0,0.0,1127423,2012,Mushroom poisoning
+Nakhon Ratchasima,12,0.46,1,0.04,2585325,2012,Mushroom poisoning
+Surin,97,7.03,1,0.07,1380399,2012,Mushroom poisoning
+North Region,544,4.62,15,0.13,11783311,2012,Mushroom poisoning
+Zone:15,183,6.0,11,0.36,3051678,2012,Mushroom poisoning
+Chiang Mai,108,6.56,2,0.12,1646144,2012,Mushroom poisoning
+Lampang,20,2.64,0,0.0,757534,2012,Mushroom poisoning
+Lamphun,7,1.73,0,0.0,403952,2012,Mushroom poisoning
+Mae Hong Son,48,19.67,9,3.69,244048,2012,Mushroom poisoning
+Zone:16,195,7.44,0,0.0,2620490,2012,Mushroom poisoning
+Chiang Rai,117,9.76,0,0.0,1198656,2012,Mushroom poisoning
+Nan,27,5.66,0,0.0,476612,2012,Mushroom poisoning
+Phayao,39,8.02,0,0.0,486472,2012,Mushroom poisoning
+Phrae,12,2.62,0,0.0,458750,2012,Mushroom poisoning
+Zone:17,150,4.37,4,0.12,3435726,2012,Mushroom poisoning
+Phetchabun,93,9.39,4,0.4,990807,2012,Mushroom poisoning
+Phitsanulok,14,1.64,0,0.0,851357,2012,Mushroom poisoning
+Sukhothai,1,0.17,0,0.0,601504,2012,Mushroom poisoning
+Tak,35,6.59,0,0.0,531018,2012,Mushroom poisoning
+Uttaradit,7,1.52,0,0.0,461040,2012,Mushroom poisoning
+Zone:18,16,0.6,0,0.0,2675417,2012,Mushroom poisoning
+Kamphaeng Phet,7,0.96,0,0.0,726009,2012,Mushroom poisoning
+Nakhon Sawan,7,0.65,0,0.0,1071686,2012,Mushroom poisoning
+Phichit,1,0.18,0,0.0,549688,2012,Mushroom poisoning
+Uthai Thani,1,0.3,0,0.0,328034,2012,Mushroom poisoning
+Total,1381,2.16,3,0.0,64076033,2013,Mushroom poisoning
+Central Region,120,0.55,0,0.0,21734984,2013,Mushroom poisoning
+Zone:0,0,0.0,0,0.0,5674843,2013,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5674843,2013,Mushroom poisoning
+Zone:1,13,0.37,0,0.0,3541632,2013,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1122627,2013,Mushroom poisoning
+P.Nakhon S.Ayutthaya,2,0.25,0,0.0,787653,2013,Mushroom poisoning
+Pathum Thani,9,0.89,0,0.0,1010898,2013,Mushroom poisoning
+Saraburi,2,0.32,0,0.0,620454,2013,Mushroom poisoning
+Zone:2,0,0.0,0,0.0,1587031,2013,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,284061,2013,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,333256,2013,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,756127,2013,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,213587,2013,Mushroom poisoning
+Zone:3,51,1.62,0,0.0,3151672,2013,Mushroom poisoning
+Chachoengsao,8,1.18,0,0.0,679370,2013,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,253831,2013,Mushroom poisoning
+Prachin Buri,18,3.83,0,0.0,469652,2013,Mushroom poisoning
+Sa Kaeo,25,4.58,0,0.0,545596,2013,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1203223,2013,Mushroom poisoning
+Zone:4,9,0.27,0,0.0,3392715,2013,Mushroom poisoning
+Kanchanaburi,2,0.24,0,0.0,838914,2013,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,866064,2013,Mushroom poisoning
+Ratchaburi,6,0.71,0,0.0,842684,2013,Mushroom poisoning
+Suphan Buri,1,0.12,0,0.0,845053,2013,Mushroom poisoning
+Zone:5,15,0.9,0,0.0,1671831,2013,Mushroom poisoning
+Phetchaburi,9,1.93,0,0.0,466079,2013,Mushroom poisoning
+Prachuap Khiri Khan,6,1.17,0,0.0,512568,2013,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,499098,2013,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194086,2013,Mushroom poisoning
+Zone:9,32,1.18,0,0.0,2715260,2013,Mushroom poisoning
+Chanthaburi,11,2.13,0,0.0,516855,2013,Mushroom poisoning
+Chon Buri,4,0.3,0,0.0,1338656,2013,Mushroom poisoning
+Rayong,14,2.2,0,0.0,637736,2013,Mushroom poisoning
+Trat,3,1.35,0,0.0,222013,2013,Mushroom poisoning
+South Region,98,1.09,0,0.0,8971855,2013,Mushroom poisoning
+Zone:6,33,0.93,0,0.0,3541380,2013,Mushroom poisoning
+Chumphon,0,0.0,0,0.0,492182,2013,Mushroom poisoning
+Nakhon Si Thammarat,2,0.13,0,0.0,1526071,2013,Mushroom poisoning
+Phatthalung,1,0.2,0,0.0,511063,2013,Mushroom poisoning
+Surat Thani,30,2.96,0,0.0,1012064,2013,Mushroom poisoning
+Zone:7,50,2.69,0,0.0,1857374,2013,Mushroom poisoning
+Krabi,1,0.23,0,0.0,438039,2013,Mushroom poisoning
+Phangnga,35,13.73,0,0.0,254931,2013,Mushroom poisoning
+Phuket,4,1.13,0,0.0,353847,2013,Mushroom poisoning
+Ranong,1,0.54,0,0.0,183849,2013,Mushroom poisoning
+Trang,9,1.44,0,0.0,626708,2013,Mushroom poisoning
+Zone:8,15,0.42,0,0.0,3573101,2013,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,747372,2013,Mushroom poisoning
+Pattani,11,1.66,0,0.0,663485,2013,Mushroom poisoning
+Satun,0,0.0,0,0.0,301467,2013,Mushroom poisoning
+Songkhla,4,0.29,0,0.0,1367010,2013,Mushroom poisoning
+Yala,0,0.0,0,0.0,493767,2013,Mushroom poisoning
+North-Eastern Region,727,3.37,3,0.01,21585883,2013,Mushroom poisoning
+Zone:10,194,5.4,0,0.0,3593082,2013,Mushroom poisoning
+Bungkan,22,5.4,0,0.0,407634,2013,Mushroom poisoning
+Loei,98,15.68,0,0.0,624920,2013,Mushroom poisoning
+Nong Bua Lam Phu,3,0.6,0,0.0,502551,2013,Mushroom poisoning
+Nong Khai,19,3.73,0,0.0,509870,2013,Mushroom poisoning
+Udon Thani,52,3.36,0,0.0,1548107,2013,Mushroom poisoning
+Zone:11,68,3.14,0,0.0,2168700,2013,Mushroom poisoning
+Mukdahan,2,0.59,0,0.0,340581,2013,Mushroom poisoning
+Nakhon Phanom,61,8.66,0,0.0,704768,2013,Mushroom poisoning
+Sakon Nakhon,5,0.45,0,0.0,1123351,2013,Mushroom poisoning
+Zone:12,24,0.48,0,0.0,4992515,2013,Mushroom poisoning
+Kalasin,7,0.71,0,0.0,981655,2013,Mushroom poisoning
+Khon Kaen,11,0.62,0,0.0,1766066,2013,Mushroom poisoning
+Maha Sarakham,2,0.21,0,0.0,939736,2013,Mushroom poisoning
+Roi Et,4,0.31,0,0.0,1305058,2013,Mushroom poisoning
+Zone:13,363,8.69,3,0.07,4179354,2013,Mushroom poisoning
+Amnat Charoen,31,8.33,0,0.0,372241,2013,Mushroom poisoning
+Si Sa Ket,169,11.64,3,0.21,1452203,2013,Mushroom poisoning
+Ubon Ratchathani,147,8.09,0,0.0,1816057,2013,Mushroom poisoning
+Yasothon,16,2.97,0,0.0,538853,2013,Mushroom poisoning
+Zone:14,78,1.17,0,0.0,6652232,2013,Mushroom poisoning
+Buri Ram,9,0.58,0,0.0,1559085,2013,Mushroom poisoning
+Chaiyaphum,9,0.8,0,0.0,1127423,2013,Mushroom poisoning
+Nakhon Ratchasima,20,0.77,0,0.0,2585325,2013,Mushroom poisoning
+Surin,40,2.9,0,0.0,1380399,2013,Mushroom poisoning
+North Region,436,3.7,0,0.0,11783311,2013,Mushroom poisoning
+Zone:15,59,1.93,0,0.0,3051678,2013,Mushroom poisoning
+Chiang Mai,42,2.55,0,0.0,1646144,2013,Mushroom poisoning
+Lampang,2,0.26,0,0.0,757534,2013,Mushroom poisoning
+Lamphun,4,0.99,0,0.0,403952,2013,Mushroom poisoning
+Mae Hong Son,11,4.51,0,0.0,244048,2013,Mushroom poisoning
+Zone:16,278,10.61,0,0.0,2620490,2013,Mushroom poisoning
+Chiang Rai,206,17.19,0,0.0,1198656,2013,Mushroom poisoning
+Nan,17,3.57,0,0.0,476612,2013,Mushroom poisoning
+Phayao,35,7.19,0,0.0,486472,2013,Mushroom poisoning
+Phrae,20,4.36,0,0.0,458750,2013,Mushroom poisoning
+Zone:17,68,1.98,0,0.0,3435726,2013,Mushroom poisoning
+Phetchabun,26,2.62,0,0.0,990807,2013,Mushroom poisoning
+Phitsanulok,8,0.94,0,0.0,851357,2013,Mushroom poisoning
+Sukhothai,2,0.33,0,0.0,601504,2013,Mushroom poisoning
+Tak,23,4.33,0,0.0,531018,2013,Mushroom poisoning
+Uttaradit,9,1.95,0,0.0,461040,2013,Mushroom poisoning
+Zone:18,31,1.16,0,0.0,2675417,2013,Mushroom poisoning
+Kamphaeng Phet,3,0.41,0,0.0,726009,2013,Mushroom poisoning
+Nakhon Sawan,14,1.31,0,0.0,1071686,2013,Mushroom poisoning
+Phichit,13,2.36,0,0.0,549688,2013,Mushroom poisoning
+Uthai Thani,1,0.3,0,0.0,328034,2013,Mushroom poisoning
+Total,1232,1.9,4,0.01,64955313,2014,Mushroom poisoning
+ZONE:00,0,0.0,0,0.0,5689268,2014,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5689268,2014,Mushroom poisoning
+ZONE:01,265,4.65,3,0.05,5704200,2014,Mushroom poisoning
+Chiang Mai,61,3.65,3,0.18,1672586,2014,Mushroom poisoning
+Chiang Rai,128,10.61,0,0.0,1206180,2014,Mushroom poisoning
+Lampang,4,0.53,0,0.0,753937,2014,Mushroom poisoning
+Lamphun,13,3.21,0,0.0,405368,2014,Mushroom poisoning
+Mae Hong Son,2,0.81,0,0.0,247364,2014,Mushroom poisoning
+Nan,31,6.48,0,0.0,478088,2014,Mushroom poisoning
+Phayao,22,4.53,0,0.0,485599,2014,Mushroom poisoning
+Phrae,4,0.88,0,0.0,455078,2014,Mushroom poisoning
+ZONE:02,70,2.03,1,0.03,3452021,2014,Mushroom poisoning
+Phetchabun,35,3.52,0,0.0,995102,2014,Mushroom poisoning
+Phitsanulok,7,0.82,1,0.12,857682,2014,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,602586,2014,Mushroom poisoning
+Tak,13,2.43,0,0.0,535953,2014,Mushroom poisoning
+Uttaradit,15,3.26,0,0.0,460698,2014,Mushroom poisoning
+ZONE:03,10,0.33,0,0.0,3012608,2014,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,332526,2014,Mushroom poisoning
+Kamphaeng Phet,2,0.27,0,0.0,729076,2014,Mushroom poisoning
+Nakhon Sawan,6,0.56,0,0.0,1072949,2014,Mushroom poisoning
+Phichit,0,0.0,0,0.0,548199,2014,Mushroom poisoning
+Uthai Thani,2,0.61,0,0.0,329858,2014,Mushroom poisoning
+ZONE:04,12,0.23,0,0.0,5171756,2014,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,283650,2014,Mushroom poisoning
+Lop Buri,6,0.79,0,0.0,758188,2014,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,256693,2014,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1165070,2014,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,800785,2014,Mushroom poisoning
+Pathum Thani,6,0.56,0,0.0,1063608,2014,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,631338,2014,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,212424,2014,Mushroom poisoning
+ZONE:05,33,0.64,0,0.0,5147569,2014,Mushroom poisoning
+Kanchanaburi,6,0.71,0,0.0,845540,2014,Mushroom poisoning
+Nakhon Pathom,4,0.45,0,0.0,886627,2014,Mushroom poisoning
+Phetchaburi,3,0.63,0,0.0,472640,2014,Mushroom poisoning
+Prachuap Khiri Khan,8,1.53,0,0.0,522689,2014,Mushroom poisoning
+Ratchaburi,4,0.47,0,0.0,851689,2014,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,525672,2014,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194153,2014,Mushroom poisoning
+Suphan Buri,8,0.94,0,0.0,848559,2014,Mushroom poisoning
+ZONE:06,62,1.07,0,0.0,5797595,2014,Mushroom poisoning
+Chachoengsao,0,0.0,0,0.0,692852,2014,Mushroom poisoning
+Chanthaburi,18,3.42,0,0.0,525805,2014,Mushroom poisoning
+Chon Buri,2,0.14,0,0.0,1405889,2014,Mushroom poisoning
+Prachin Buri,7,1.47,0,0.0,477741,2014,Mushroom poisoning
+Rayong,12,1.8,0,0.0,667806,2014,Mushroom poisoning
+Sa Kaeo,22,3.99,0,0.0,551562,2014,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1251570,2014,Mushroom poisoning
+Trat,1,0.45,0,0.0,224370,2014,Mushroom poisoning
+ZONE:07,24,0.48,0,0.0,5037074,2014,Mushroom poisoning
+Kalasin,6,0.61,0,0.0,984468,2014,Mushroom poisoning
+Khon Kaen,9,0.5,0,0.0,1785852,2014,Mushroom poisoning
+Maha Sarakham,5,0.52,0,0.0,958116,2014,Mushroom poisoning
+Roi Et,4,0.31,0,0.0,1308638,2014,Mushroom poisoning
+ZONE:08,87,1.58,0,0.0,5490561,2014,Mushroom poisoning
+Bungkan,17,4.07,0,0.0,417401,2014,Mushroom poisoning
+Loei,41,6.47,0,0.0,633359,2014,Mushroom poisoning
+Nakhon Phanom,6,0.84,0,0.0,712101,2014,Mushroom poisoning
+Nong Bua Lam Phu,1,0.2,0,0.0,508001,2014,Mushroom poisoning
+Nong Khai,1,0.19,0,0.0,516101,2014,Mushroom poisoning
+Sakon Nakhon,7,0.62,0,0.0,1136466,2014,Mushroom poisoning
+Udon Thani,14,0.89,0,0.0,1567132,2014,Mushroom poisoning
+ZONE:09,125,1.86,0,0.0,6717984,2014,Mushroom poisoning
+Buri Ram,21,1.33,0,0.0,1576343,2014,Mushroom poisoning
+Chaiyaphum,8,0.7,0,0.0,1136386,2014,Mushroom poisoning
+Nakhon Ratchasima,7,0.27,0,0.0,2615340,2014,Mushroom poisoning
+Surin,89,6.4,0,0.0,1389915,2014,Mushroom poisoning
+ZONE:10,461,10.1,0,0.0,4564711,2014,Mushroom poisoning
+Amnat Charoen,21,5.6,0,0.0,375039,2014,Mushroom poisoning
+Mukdahan,5,1.45,0,0.0,345159,2014,Mushroom poisoning
+Si Sa Ket,219,14.96,0,0.0,1463620,2014,Mushroom poisoning
+Ubon Ratchathani,194,10.54,0,0.0,1840596,2014,Mushroom poisoning
+Yasothon,22,4.07,0,0.0,540297,2014,Mushroom poisoning
+ZONE:11,72,1.66,0,0.0,4344513,2014,Mushroom poisoning
+Chumphon,1,0.2,0,0.0,499435,2014,Mushroom poisoning
+Krabi,6,1.32,0,0.0,453850,2014,Mushroom poisoning
+Nakhon Si Thammarat,13,0.84,0,0.0,1544936,2014,Mushroom poisoning
+Phangnga,42,16.13,0,0.0,260395,2014,Mushroom poisoning
+Phuket,4,1.07,0,0.0,373943,2014,Mushroom poisoning
+Ranong,0,0.0,0,0.0,175933,2014,Mushroom poisoning
+Surat Thani,6,0.58,0,0.0,1036021,2014,Mushroom poisoning
+ZONE:12,11,0.23,0,0.0,4825453,2014,Mushroom poisoning
+Narathiwat,2,0.26,0,0.0,770472,2014,Mushroom poisoning
+Pattani,1,0.15,0,0.0,682512,2014,Mushroom poisoning
+Phatthalung,3,0.58,0,0.0,519220,2014,Mushroom poisoning
+Satun,0,0.0,0,0.0,311233,2014,Mushroom poisoning
+Songkhla,3,0.21,0,0.0,1395596,2014,Mushroom poisoning
+Trang,2,0.31,0,0.0,637395,2014,Mushroom poisoning
+Yala,0,0.0,0,0.0,509025,2014,Mushroom poisoning
+Total,1316,2.02,10,0.02,65124716,2015,Mushroom poisoning
+ZONE:00,0,0.0,0,0.0,5692284,2015,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5692284,2015,Mushroom poisoning
+ZONE:01,198,3.47,1,0.02,5709443,2015,Mushroom poisoning
+Chiang Mai,30,1.79,0,0.0,1678284,2015,Mushroom poisoning
+Chiang Rai,96,7.95,1,0.08,1207699,2015,Mushroom poisoning
+Lampang,14,1.86,0,0.0,753013,2015,Mushroom poisoning
+Lamphun,2,0.49,0,0.0,405468,2015,Mushroom poisoning
+Mae Hong Son,6,2.42,0,0.0,248178,2015,Mushroom poisoning
+Nan,15,3.14,0,0.0,478264,2015,Mushroom poisoning
+Phayao,33,6.81,0,0.0,484454,2015,Mushroom poisoning
+Phrae,2,0.44,0,0.0,454083,2015,Mushroom poisoning
+ZONE:02,56,1.62,2,0.06,3457208,2015,Mushroom poisoning
+Phetchabun,22,2.21,0,0.0,995807,2015,Mushroom poisoning
+Phitsanulok,8,0.93,0,0.0,858988,2015,Mushroom poisoning
+Sukhothai,1,0.17,0,0.0,602460,2015,Mushroom poisoning
+Tak,16,2.97,2,0.37,539553,2015,Mushroom poisoning
+Uttaradit,9,1.95,0,0.0,460400,2015,Mushroom poisoning
+ZONE:03,12,0.4,0,0.0,3012283,2015,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,332283,2015,Mushroom poisoning
+Kamphaeng Phet,9,1.23,0,0.0,729522,2015,Mushroom poisoning
+Nakhon Sawan,1,0.09,0,0.0,1072756,2015,Mushroom poisoning
+Phichit,0,0.0,0,0.0,547543,2015,Mushroom poisoning
+Uthai Thani,2,0.61,0,0.0,330179,2015,Mushroom poisoning
+ZONE:04,9,0.17,0,0.0,5196419,2015,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,283568,2015,Mushroom poisoning
+Lop Buri,7,0.92,0,0.0,758406,2015,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,257300,2015,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1173870,2015,Mushroom poisoning
+P.Nakhon S.Ayutthaya,1,0.12,0,0.0,803599,2015,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1074058,2015,Mushroom poisoning
+Saraburi,1,0.16,0,0.0,633460,2015,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,212158,2015,Mushroom poisoning
+ZONE:05,14,0.27,0,0.0,5166914,2015,Mushroom poisoning
+Kanchanaburi,0,0.0,0,0.0,848198,2015,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,891071,2015,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,474192,2015,Mushroom poisoning
+Prachuap Khiri Khan,12,2.29,0,0.0,525107,2015,Mushroom poisoning
+Ratchaburi,2,0.23,0,0.0,853217,2015,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,531887,2015,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194189,2015,Mushroom poisoning
+Suphan Buri,0,0.0,0,0.0,849053,2015,Mushroom poisoning
+ZONE:06,82,1.4,0,0.0,5836407,2015,Mushroom poisoning
+Chachoengsao,1,0.14,0,0.0,695478,2015,Mushroom poisoning
+Chanthaburi,35,6.64,0,0.0,527350,2015,Mushroom poisoning
+Chon Buri,1,0.07,0,0.0,1421425,2015,Mushroom poisoning
+Prachin Buri,16,3.34,0,0.0,479314,2015,Mushroom poisoning
+Rayong,4,0.59,0,0.0,674393,2015,Mushroom poisoning
+Sa Kaeo,25,4.53,0,0.0,552187,2015,Mushroom poisoning
+Samut Prakan,0,0.0,0,0.0,1261530,2015,Mushroom poisoning
+Trat,0,0.0,0,0.0,224730,2015,Mushroom poisoning
+ZONE:07,30,0.59,0,0.0,5043862,2015,Mushroom poisoning
+Kalasin,18,1.83,0,0.0,984907,2015,Mushroom poisoning
+Khon Kaen,5,0.28,0,0.0,1790049,2015,Mushroom poisoning
+Maha Sarakham,4,0.42,0,0.0,960588,2015,Mushroom poisoning
+Roi Et,3,0.23,0,0.0,1308318,2015,Mushroom poisoning
+ZONE:08,122,2.22,0,0.0,5501453,2015,Mushroom poisoning
+Bungkan,9,2.15,0,0.0,418566,2015,Mushroom poisoning
+Loei,86,13.55,0,0.0,634513,2015,Mushroom poisoning
+Nakhon Phanom,2,0.28,0,0.0,713341,2015,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,508864,2015,Mushroom poisoning
+Nong Khai,3,0.58,0,0.0,517260,2015,Mushroom poisoning
+Sakon Nakhon,3,0.26,0,0.0,1138609,2015,Mushroom poisoning
+Udon Thani,19,1.21,0,0.0,1570300,2015,Mushroom poisoning
+ZONE:09,85,1.26,0,0.0,6728450,2015,Mushroom poisoning
+Buri Ram,8,0.51,0,0.0,1579248,2015,Mushroom poisoning
+Chaiyaphum,16,1.41,0,0.0,1137049,2015,Mushroom poisoning
+Nakhon Ratchasima,7,0.27,0,0.0,2620517,2015,Mushroom poisoning
+Surin,54,3.88,0,0.0,1391636,2015,Mushroom poisoning
+ZONE:10,648,14.17,7,0.15,4571489,2015,Mushroom poisoning
+Amnat Charoen,23,6.13,0,0.0,375380,2015,Mushroom poisoning
+Mukdahan,1,0.29,0,0.0,346016,2015,Mushroom poisoning
+Si Sa Ket,158,10.78,0,0.0,1465213,2015,Mushroom poisoning
+Ubon Ratchathani,329,17.84,4,0.22,1844669,2015,Mushroom poisoning
+Yasothon,137,25.36,3,0.56,540211,2015,Mushroom poisoning
+ZONE:11,48,1.1,0,0.0,4362467,2015,Mushroom poisoning
+Chumphon,5,1.0,0,0.0,500575,2015,Mushroom poisoning
+Krabi,1,0.22,0,0.0,456811,2015,Mushroom poisoning
+Nakhon Si Thammarat,2,0.13,0,0.0,1548028,2015,Mushroom poisoning
+Phangnga,22,8.42,0,0.0,261370,2015,Mushroom poisoning
+Phuket,7,1.85,0,0.0,378364,2015,Mushroom poisoning
+Ranong,0,0.0,0,0.0,177089,2015,Mushroom poisoning
+Surat Thani,11,1.06,0,0.0,1040230,2015,Mushroom poisoning
+ZONE:12,12,0.25,0,0.0,4846037,2015,Mushroom poisoning
+Narathiwat,2,0.26,0,0.0,774799,2015,Mushroom poisoning
+Pattani,2,0.29,0,0.0,686186,2015,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,520419,2015,Mushroom poisoning
+Satun,0,0.0,0,0.0,312673,2015,Mushroom poisoning
+Songkhla,5,0.36,0,0.0,1401303,2015,Mushroom poisoning
+Trang,3,0.47,0,0.0,638746,2015,Mushroom poisoning
+Yala,0,0.0,0,0.0,511911,2015,Mushroom poisoning
+Total,1220,1.86,4,0.01,65426907,2016,Mushroom poisoning
+ZONE:01,162,2.8,2,0.03,5781324,2016,Mushroom poisoning
+Chiang Mai,35,2.05,2,0.12,1703263,2016,Mushroom poisoning
+Chiang Rai,82,6.6,0,0.0,1242825,2016,Mushroom poisoning
+Lampang,10,1.33,0,0.0,752685,2016,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,405927,2016,Mushroom poisoning
+Mae Hong Son,11,4.22,0,0.0,260971,2016,Mushroom poisoning
+Nan,10,2.09,0,0.0,478890,2016,Mushroom poisoning
+Phayao,13,2.69,0,0.0,483550,2016,Mushroom poisoning
+Phrae,1,0.22,0,0.0,453213,2016,Mushroom poisoning
+ZONE:02,38,1.09,0,0.0,3498728,2016,Mushroom poisoning
+Phetchabun,20,2.01,0,0.0,996397,2016,Mushroom poisoning
+Phitsanulok,9,1.05,0,0.0,861194,2016,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,602085,2016,Mushroom poisoning
+Tak,8,1.38,0,0.0,578968,2016,Mushroom poisoning
+Uttaradit,1,0.22,0,0.0,460084,2016,Mushroom poisoning
+ZONE:03,20,0.66,0,0.0,3011449,2016,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,331968,2016,Mushroom poisoning
+Kamphaeng Phet,18,2.47,0,0.0,729839,2016,Mushroom poisoning
+Nakhon Sawan,0,0.0,0,0.0,1072349,2016,Mushroom poisoning
+Phichit,2,0.37,0,0.0,546750,2016,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,330543,2016,Mushroom poisoning
+ZONE:04,11,0.21,0,0.0,5221125,2016,Mushroom poisoning
+Ang Thong,1,0.35,0,0.0,283371,2016,Mushroom poisoning
+Lop Buri,6,0.79,0,0.0,758531,2016,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,257939,2016,Mushroom poisoning
+Nonthaburi,1,0.08,0,0.0,1183791,2016,Mushroom poisoning
+P.Nakhon S.Ayutthaya,3,0.37,0,0.0,805980,2016,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1084154,2016,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,635567,2016,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,211792,2016,Mushroom poisoning
+ZONE:05,7,0.13,0,0.0,5209561,2016,Mushroom poisoning
+Kanchanaburi,0,0.0,0,0.0,865172,2016,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,895207,2016,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,476391,2016,Mushroom poisoning
+Prachuap Khiri Khan,7,1.32,0,0.0,529912,2016,Mushroom poisoning
+Ratchaburi,0,0.0,0,0.0,860549,2016,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,538671,2016,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,194283,2016,Mushroom poisoning
+Suphan Buri,0,0.0,0,0.0,849376,2016,Mushroom poisoning
+ZONE:06,41,0.7,0,0.0,5880124,2016,Mushroom poisoning
+Chachoengsao,2,0.29,0,0.0,698190,2016,Mushroom poisoning
+Chanthaburi,19,3.59,0,0.0,529194,2016,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1438231,2016,Mushroom poisoning
+Prachin Buri,7,1.46,0,0.0,480755,2016,Mushroom poisoning
+Rayong,2,0.29,0,0.0,681696,2016,Mushroom poisoning
+Sa Kaeo,8,1.44,0,0.0,554555,2016,Mushroom poisoning
+Samut Prakan,1,0.08,0,0.0,1270420,2016,Mushroom poisoning
+Trat,2,0.88,0,0.0,227083,2016,Mushroom poisoning
+ZONE:07,11,0.22,0,0.0,5049920,2016,Mushroom poisoning
+Kalasin,6,0.61,0,0.0,985055,2016,Mushroom poisoning
+Khon Kaen,3,0.17,0,0.0,1794032,2016,Mushroom poisoning
+Maha Sarakham,1,0.1,0,0.0,962592,2016,Mushroom poisoning
+Roi Et,1,0.08,0,0.0,1308241,2016,Mushroom poisoning
+ZONE:08,62,1.12,0,0.0,5511930,2016,Mushroom poisoning
+Bungkan,16,3.81,0,0.0,419607,2016,Mushroom poisoning
+Loei,19,2.98,0,0.0,636666,2016,Mushroom poisoning
+Nakhon Phanom,10,1.4,0,0.0,714369,2016,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Mushroom poisoning
+Nong Khai,0,0.0,0,0.0,518420,2016,Mushroom poisoning
+Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Mushroom poisoning
+Udon Thani,17,1.08,0,0.0,1572726,2016,Mushroom poisoning
+ZONE:09,101,1.5,1,0.01,6737604,2016,Mushroom poisoning
+Buri Ram,15,0.95,0,0.0,1581955,2016,Mushroom poisoning
+Chaiyaphum,16,1.41,0,0.0,1137651,2016,Mushroom poisoning
+Nakhon Ratchasima,5,0.19,1,0.04,2624668,2016,Mushroom poisoning
+Surin,65,4.67,0,0.0,1393330,2016,Mushroom poisoning
+ZONE:10,703,15.35,1,0.02,4581192,2016,Mushroom poisoning
+Amnat Charoen,10,2.66,0,0.0,375881,2016,Mushroom poisoning
+Mukdahan,1,0.29,0,0.0,347059,2016,Mushroom poisoning
+Si Sa Ket,116,7.91,0,0.0,1467006,2016,Mushroom poisoning
+Ubon Ratchathani,543,29.33,1,0.05,1851049,2016,Mushroom poisoning
+Yasothon,33,6.11,0,0.0,540197,2016,Mushroom poisoning
+ZONE:11,57,1.3,0,0.0,4383957,2016,Mushroom poisoning
+Chumphon,8,1.59,0,0.0,503203,2016,Mushroom poisoning
+Krabi,6,1.31,0,0.0,459456,2016,Mushroom poisoning
+Nakhon Si Thammarat,5,0.32,0,0.0,1550278,2016,Mushroom poisoning
+Phangnga,18,6.85,0,0.0,262721,2016,Mushroom poisoning
+Phuket,9,2.35,0,0.0,382485,2016,Mushroom poisoning
+Ranong,0,0.0,0,0.0,182313,2016,Mushroom poisoning
+Surat Thani,11,1.05,0,0.0,1043501,2016,Mushroom poisoning
+ZONE:12,7,0.14,0,0.0,4865646,2016,Mushroom poisoning
+Narathiwat,3,0.39,0,0.0,778941,2016,Mushroom poisoning
+Pattani,0,0.0,0,0.0,690104,2016,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,521570,2016,Mushroom poisoning
+Satun,0,0.0,0,0.0,314297,2016,Mushroom poisoning
+Songkhla,4,0.28,0,0.0,1405939,2016,Mushroom poisoning
+Trang,0,0.0,0,0.0,639770,2016,Mushroom poisoning
+Yala,0,0.0,0,0.0,515025,2016,Mushroom poisoning
+ZONE:13,0,0.0,0,0.0,5694347,2016,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5694347,2016,Mushroom poisoning
+Total,1240,1.88,8,0.01,66060027,2017,Mushroom poisoning
+ZONE:01,108,1.84,3,0.05,5864232,2017,Mushroom poisoning
+Chiang Mai,23,1.32,0,0.0,1741301,2017,Mushroom poisoning
+Chiang Rai,37,2.88,3,0.23,1285080,2017,Mushroom poisoning
+Lampang,3,0.4,0,0.0,747699,2017,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,405959,2017,Mushroom poisoning
+Mae Hong Son,9,3.24,0,0.0,277486,2017,Mushroom poisoning
+Nan,14,2.92,0,0.0,479877,2017,Mushroom poisoning
+Phayao,21,4.39,0,0.0,478144,2017,Mushroom poisoning
+Phrae,1,0.22,0,0.0,448686,2017,Mushroom poisoning
+ZONE:02,56,1.57,0,0.0,3556376,2017,Mushroom poisoning
+Phetchabun,18,1.81,0,0.0,995277,2017,Mushroom poisoning
+Phitsanulok,15,1.73,0,0.0,865564,2017,Mushroom poisoning
+Sukhothai,0,0.0,0,0.0,599775,2017,Mushroom poisoning
+Tak,21,3.29,0,0.0,638115,2017,Mushroom poisoning
+Uttaradit,2,0.44,0,0.0,457645,2017,Mushroom poisoning
+ZONE:03,1,0.03,0,0.0,2998104,2017,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,330077,2017,Mushroom poisoning
+Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Mushroom poisoning
+Nakhon Sawan,1,0.09,0,0.0,1065895,2017,Mushroom poisoning
+Phichit,0,0.0,0,0.0,542674,2017,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,330121,2017,Mushroom poisoning
+ZONE:04,10,0.19,0,0.0,5302492,2017,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,281796,2017,Mushroom poisoning
+Lop Buri,3,0.4,0,0.0,757296,2017,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,258850,2017,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1220829,2017,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,812086,2017,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1120246,2017,Mushroom poisoning
+Saraburi,7,1.09,0,0.0,641052,2017,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,210337,2017,Mushroom poisoning
+ZONE:05,10,0.19,0,0.0,5295696,2017,Mushroom poisoning
+Kanchanaburi,4,0.45,0,0.0,886546,2017,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,908249,2017,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,481514,2017,Mushroom poisoning
+Prachuap Khiri Khan,4,0.74,0,0.0,541756,2017,Mushroom poisoning
+Ratchaburi,1,0.11,0,0.0,870769,2017,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,562592,2017,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,193985,2017,Mushroom poisoning
+Suphan Buri,1,0.12,0,0.0,850285,2017,Mushroom poisoning
+ZONE:06,53,0.88,0,0.0,6020790,2017,Mushroom poisoning
+Chachoengsao,6,0.85,0,0.0,707145,2017,Mushroom poisoning
+Chanthaburi,15,2.81,0,0.0,533463,2017,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1496086,2017,Mushroom poisoning
+Prachin Buri,19,3.91,0,0.0,486187,2017,Mushroom poisoning
+Rayong,0,0.0,0,0.0,705729,2017,Mushroom poisoning
+Sa Kaeo,12,2.14,0,0.0,560478,2017,Mushroom poisoning
+Samut Prakan,1,0.08,0,0.0,1302160,2017,Mushroom poisoning
+Trat,0,0.0,0,0.0,229542,2017,Mushroom poisoning
+ZONE:07,86,1.7,4,0.08,5060674,2017,Mushroom poisoning
+Kalasin,41,4.16,0,0.0,985619,2017,Mushroom poisoning
+Khon Kaen,2,0.11,0,0.0,1803831,2017,Mushroom poisoning
+Maha Sarakham,1,0.1,0,0.0,963277,2017,Mushroom poisoning
+Roi Et,42,3.21,4,0.31,1307947,2017,Mushroom poisoning
+ZONE:08,73,1.32,0,0.0,5541473,2017,Mushroom poisoning
+Bungkan,12,2.84,0,0.0,422328,2017,Mushroom poisoning
+Loei,27,4.21,0,0.0,640734,2017,Mushroom poisoning
+Nakhon Phanom,10,1.39,0,0.0,717451,2017,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,511188,2017,Mushroom poisoning
+Nong Khai,23,4.41,0,0.0,521125,2017,Mushroom poisoning
+Sakon Nakhon,0,0.0,0,0.0,1147710,2017,Mushroom poisoning
+Udon Thani,1,0.06,0,0.0,1580937,2017,Mushroom poisoning
+ZONE:09,116,1.72,0,0.0,6760383,2017,Mushroom poisoning
+Buri Ram,10,0.63,0,0.0,1589900,2017,Mushroom poisoning
+Chaiyaphum,6,0.53,0,0.0,1138778,2017,Mushroom poisoning
+Nakhon Ratchasima,6,0.23,0,0.0,2635331,2017,Mushroom poisoning
+Surin,94,6.73,0,0.0,1396374,2017,Mushroom poisoning
+ZONE:10,660,14.33,0,0.0,4604905,2017,Mushroom poisoning
+Amnat Charoen,26,6.89,0,0.0,377614,2017,Mushroom poisoning
+Mukdahan,3,0.86,0,0.0,350128,2017,Mushroom poisoning
+Si Sa Ket,99,6.73,0,0.0,1471185,2017,Mushroom poisoning
+Ubon Ratchathani,492,26.36,0,0.0,1866299,2017,Mushroom poisoning
+Yasothon,40,7.41,0,0.0,539679,2017,Mushroom poisoning
+ZONE:11,39,0.88,1,0.02,4441086,2017,Mushroom poisoning
+Chumphon,4,0.79,0,0.0,508627,2017,Mushroom poisoning
+Krabi,0,0.0,0,0.0,467851,2017,Mushroom poisoning
+Nakhon Si Thammarat,3,0.19,0,0.0,1555957,2017,Mushroom poisoning
+Phangnga,14,5.25,0,0.0,266535,2017,Mushroom poisoning
+Phuket,2,0.5,0,0.0,398092,2017,Mushroom poisoning
+Ranong,0,0.0,0,0.0,189777,2017,Mushroom poisoning
+Surat Thani,16,1.52,1,0.09,1054247,2017,Mushroom poisoning
+ZONE:12,27,0.55,0,0.0,4929285,2017,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,792961,2017,Mushroom poisoning
+Pattani,0,0.0,0,0.0,705379,2017,Mushroom poisoning
+Phatthalung,0,0.0,0,0.0,524291,2017,Mushroom poisoning
+Satun,0,0.0,0,0.0,318655,2017,Mushroom poisoning
+Songkhla,23,1.62,0,0.0,1420834,2017,Mushroom poisoning
+Trang,4,0.62,0,0.0,642377,2017,Mushroom poisoning
+Yala,0,0.0,0,0.0,524788,2017,Mushroom poisoning
+ZONE:13,1,0.02,0,0.0,5684531,2017,Mushroom poisoning
+Bangkok,1,0.02,0,0.0,5684531,2017,Mushroom poisoning
+Total,4084,6.16,7,0.01,66301242,2018,Mushroom poisoning
+ZONE:01,364,6.19,0,0.0,5878537,2018,Mushroom poisoning
+Chiang Mai,72,4.1,0,0.0,1755291,2018,Mushroom poisoning
+Chiang Rai,128,9.92,0,0.0,1289873,2018,Mushroom poisoning
+Lampang,24,3.22,0,0.0,744714,2018,Mushroom poisoning
+Lamphun,5,1.23,0,0.0,405936,2018,Mushroom poisoning
+Mae Hong Son,10,3.56,0,0.0,280826,2018,Mushroom poisoning
+Nan,23,4.8,0,0.0,479414,2018,Mushroom poisoning
+Phayao,87,18.27,0,0.0,476157,2018,Mushroom poisoning
+Phrae,15,3.36,0,0.0,446326,2018,Mushroom poisoning
+ZONE:02,128,3.59,0,0.0,3565071,2018,Mushroom poisoning
+Phetchabun,26,2.61,0,0.0,994936,2018,Mushroom poisoning
+Phitsanulok,18,2.08,0,0.0,866129,2018,Mushroom poisoning
+Sukhothai,16,2.67,0,0.0,598287,2018,Mushroom poisoning
+Tak,35,5.39,0,0.0,649472,2018,Mushroom poisoning
+Uttaradit,33,7.23,0,0.0,456247,2018,Mushroom poisoning
+ZONE:03,57,1.9,0,0.0,2992420,2018,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,328993,2018,Mushroom poisoning
+Kamphaeng Phet,30,4.12,0,0.0,728470,2018,Mushroom poisoning
+Nakhon Sawan,16,1.5,0,0.0,1064649,2018,Mushroom poisoning
+Phichit,10,1.85,0,0.0,540620,2018,Mushroom poisoning
+Uthai Thani,1,0.3,0,0.0,329688,2018,Mushroom poisoning
+ZONE:04,35,0.66,0,0.0,5343264,2018,Mushroom poisoning
+Ang Thong,1,0.36,0,0.0,281014,2018,Mushroom poisoning
+Lop Buri,19,2.51,0,0.0,758003,2018,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,259718,2018,Mushroom poisoning
+Nonthaburi,6,0.48,0,0.0,1238015,2018,Mushroom poisoning
+P.Nakhon S.Ayutthaya,3,0.37,0,0.0,815647,2018,Mushroom poisoning
+Pathum Thani,3,0.26,0,0.0,1137603,2018,Mushroom poisoning
+Saraburi,2,0.31,0,0.0,643531,2018,Mushroom poisoning
+Sing Buri,1,0.48,0,0.0,209733,2018,Mushroom poisoning
+ZONE:05,83,1.56,0,0.0,5324608,2018,Mushroom poisoning
+Kanchanaburi,25,2.81,0,0.0,890565,2018,Mushroom poisoning
+Nakhon Pathom,8,0.88,0,0.0,914273,2018,Mushroom poisoning
+Phetchaburi,7,1.45,0,0.0,483335,2018,Mushroom poisoning
+Prachuap Khiri Khan,24,4.39,0,0.0,546396,2018,Mushroom poisoning
+Ratchaburi,10,1.15,0,0.0,872615,2018,Mushroom poisoning
+Samut Sakhon,1,0.17,0,0.0,573215,2018,Mushroom poisoning
+Samut Songkhram,1,0.52,0,0.0,193847,2018,Mushroom poisoning
+Suphan Buri,7,0.82,0,0.0,850362,2018,Mushroom poisoning
+ZONE:06,165,2.71,0,0.0,6088563,2018,Mushroom poisoning
+Chachoengsao,4,0.56,0,0.0,712449,2018,Mushroom poisoning
+Chanthaburi,37,6.91,0,0.0,535478,2018,Mushroom poisoning
+Chon Buri,9,0.59,0,0.0,1522285,2018,Mushroom poisoning
+Prachin Buri,46,9.4,0,0.0,489592,2018,Mushroom poisoning
+Rayong,5,0.7,0,0.0,717276,2018,Mushroom poisoning
+Sa Kaeo,28,4.97,0,0.0,563014,2018,Mushroom poisoning
+Samut Prakan,24,1.82,0,0.0,1318687,2018,Mushroom poisoning
+Trat,12,5.22,0,0.0,229782,2018,Mushroom poisoning
+ZONE:07,277,5.47,4,0.08,5062199,2018,Mushroom poisoning
+Kalasin,49,4.97,1,0.1,985676,2018,Mushroom poisoning
+Khon Kaen,90,4.98,0,0.0,1805903,2018,Mushroom poisoning
+Maha Sarakham,15,1.56,0,0.0,963060,2018,Mushroom poisoning
+Roi Et,123,9.41,3,0.23,1307560,2018,Mushroom poisoning
+ZONE:08,652,11.74,0,0.0,5553738,2018,Mushroom poisoning
+Bungkan,80,18.89,0,0.0,423485,2018,Mushroom poisoning
+Loei,245,38.15,0,0.0,642220,2018,Mushroom poisoning
+Nakhon Phanom,58,8.07,0,0.0,718406,2018,Mushroom poisoning
+Nong Bua Lam Phu,20,3.91,0,0.0,511878,2018,Mushroom poisoning
+Nong Khai,63,12.07,0,0.0,521995,2018,Mushroom poisoning
+Sakon Nakhon,56,4.87,0,0.0,1150876,2018,Mushroom poisoning
+Udon Thani,130,8.2,0,0.0,1584878,2018,Mushroom poisoning
+ZONE:09,416,6.14,1,0.01,6772779,2018,Mushroom poisoning
+Buri Ram,51,3.2,0,0.0,1593378,2018,Mushroom poisoning
+Chaiyaphum,111,9.74,0,0.0,1139067,2018,Mushroom poisoning
+Nakhon Ratchasima,73,2.76,0,0.0,2642815,2018,Mushroom poisoning
+Surin,181,12.95,1,0.07,1397519,2018,Mushroom poisoning
+ZONE:10,1595,34.57,2,0.04,4613643,2018,Mushroom poisoning
+Amnat Charoen,125,33.04,0,0.0,378363,2018,Mushroom poisoning
+Mukdahan,14,3.98,0,0.0,351532,2018,Mushroom poisoning
+Si Sa Ket,421,28.59,0,0.0,1472521,2018,Mushroom poisoning
+Ubon Ratchathani,932,49.78,2,0.11,1872091,2018,Mushroom poisoning
+Yasothon,103,19.1,0,0.0,539136,2018,Mushroom poisoning
+ZONE:11,137,3.07,0,0.0,4466673,2018,Mushroom poisoning
+Chumphon,5,0.98,0,0.0,510307,2018,Mushroom poisoning
+Krabi,9,1.91,0,0.0,471754,2018,Mushroom poisoning
+Nakhon Si Thammarat,39,2.5,0,0.0,1558958,2018,Mushroom poisoning
+Phangnga,6,2.24,0,0.0,267866,2018,Mushroom poisoning
+Phuket,3,0.74,0,0.0,406113,2018,Mushroom poisoning
+Ranong,9,4.71,0,0.0,191134,2018,Mushroom poisoning
+Surat Thani,66,6.22,0,0.0,1060541,2018,Mushroom poisoning
+ZONE:12,175,3.53,0,0.0,4960215,2018,Mushroom poisoning
+Narathiwat,36,4.5,0,0.0,799357,2018,Mushroom poisoning
+Pattani,5,0.7,0,0.0,713937,2018,Mushroom poisoning
+Phatthalung,7,1.33,0,0.0,524951,2018,Mushroom poisoning
+Satun,19,5.93,0,0.0,320637,2018,Mushroom poisoning
+Songkhla,68,4.76,0,0.0,1428429,2018,Mushroom poisoning
+Trang,14,2.18,0,0.0,643093,2018,Mushroom poisoning
+Yala,26,4.91,0,0.0,529811,2018,Mushroom poisoning
+ZONE:13,0,0.0,0,0.0,5679532,2018,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5679532,2018,Mushroom poisoning
+Total,1483,2.23,3,0.0,66486458,2019,Mushroom poisoning
+ZONE:01,100,1.7,1,0.02,5891985,2019,Mushroom poisoning
+Chiang Mai,17,0.96,0,0.0,1771499,2019,Mushroom poisoning
+Chiang Rai,38,2.93,0,0.0,1295217,2019,Mushroom poisoning
+Lampang,0,0.0,0,0.0,740600,2019,Mushroom poisoning
+Lamphun,1,0.25,0,0.0,405515,2019,Mushroom poisoning
+Mae Hong Son,4,1.41,0,0.0,283352,2019,Mushroom poisoning
+Nan,25,5.22,1,0.21,478608,2019,Mushroom poisoning
+Phayao,14,2.95,0,0.0,473786,2019,Mushroom poisoning
+Phrae,1,0.23,0,0.0,443408,2019,Mushroom poisoning
+ZONE:02,60,1.68,0,0.0,3570128,2019,Mushroom poisoning
+Phetchabun,34,3.42,0,0.0,993496,2019,Mushroom poisoning
+Phitsanulok,1,0.12,0,0.0,866068,2019,Mushroom poisoning
+Sukhothai,6,1.01,0,0.0,596165,2019,Mushroom poisoning
+Tak,17,2.58,0,0.0,660147,2019,Mushroom poisoning
+Uttaradit,2,0.44,0,0.0,454252,2019,Mushroom poisoning
+ZONE:03,13,0.44,0,0.0,2983068,2019,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,327437,2019,Mushroom poisoning
+Kamphaeng Phet,1,0.14,0,0.0,726836,2019,Mushroom poisoning
+Nakhon Sawan,12,1.13,0,0.0,1061926,2019,Mushroom poisoning
+Phichit,0,0.0,0,0.0,537843,2019,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,329026,2019,Mushroom poisoning
+ZONE:04,1,0.02,0,0.0,5381695,2019,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,280246,2019,Mushroom poisoning
+Lop Buri,1,0.13,0,0.0,757145,2019,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,260421,2019,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1255840,2019,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,818815,2019,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1154848,2019,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,645468,2019,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,208912,2019,Mushroom poisoning
+ZONE:05,9,0.17,0,0.0,5344807,2019,Mushroom poisoning
+Kanchanaburi,0,0.0,0,0.0,894338,2019,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,918542,2019,Mushroom poisoning
+Phetchaburi,4,0.83,0,0.0,484743,2019,Mushroom poisoning
+Prachuap Khiri Khan,5,0.91,0,0.0,551466,2019,Mushroom poisoning
+Ratchaburi,0,0.0,0,0.0,873310,2019,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,581334,2019,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,193548,2019,Mushroom poisoning
+Suphan Buri,0,0.0,0,0.0,847526,2019,Mushroom poisoning
+ZONE:06,30,0.49,0,0.0,6154601,2019,Mushroom poisoning
+Chachoengsao,4,0.56,0,0.0,717561,2019,Mushroom poisoning
+Chanthaburi,7,1.3,0,0.0,537097,2019,Mushroom poisoning
+Chon Buri,2,0.13,0,0.0,1546873,2019,Mushroom poisoning
+Prachin Buri,14,2.84,0,0.0,493159,2019,Mushroom poisoning
+Rayong,0,0.0,0,0.0,729035,2019,Mushroom poisoning
+Sa Kaeo,1,0.18,0,0.0,565198,2019,Mushroom poisoning
+Samut Prakan,2,0.15,0,0.0,1335742,2019,Mushroom poisoning
+Trat,0,0.0,0,0.0,229936,2019,Mushroom poisoning
+ZONE:07,32,0.63,0,0.0,5057831,2019,Mushroom poisoning
+Kalasin,12,1.22,0,0.0,984381,2019,Mushroom poisoning
+Khon Kaen,3,0.17,0,0.0,1804384,2019,Mushroom poisoning
+Maha Sarakham,0,0.0,0,0.0,962856,2019,Mushroom poisoning
+Roi Et,17,1.3,0,0.0,1306210,2019,Mushroom poisoning
+ZONE:08,103,1.85,0,0.0,5559986,2019,Mushroom poisoning
+Bungkan,14,3.3,0,0.0,424016,2019,Mushroom poisoning
+Loei,54,8.4,0,0.0,642862,2019,Mushroom poisoning
+Nakhon Phanom,11,1.53,0,0.0,718961,2019,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,512449,2019,Mushroom poisoning
+Nong Khai,18,3.45,0,0.0,522207,2019,Mushroom poisoning
+Sakon Nakhon,3,0.26,0,0.0,1152835,2019,Mushroom poisoning
+Udon Thani,3,0.19,0,0.0,1586656,2019,Mushroom poisoning
+ZONE:09,102,1.5,0,0.0,6778372,2019,Mushroom poisoning
+Buri Ram,22,1.38,0,0.0,1595299,2019,Mushroom poisoning
+Chaiyaphum,26,2.28,0,0.0,1138067,2019,Mushroom poisoning
+Nakhon Ratchasima,0,0.0,0,0.0,2647663,2019,Mushroom poisoning
+Surin,54,3.86,0,0.0,1397343,2019,Mushroom poisoning
+ZONE:10,950,20.57,2,0.04,4618551,2019,Mushroom poisoning
+Amnat Charoen,49,12.94,0,0.0,378530,2019,Mushroom poisoning
+Mukdahan,3,0.85,0,0.0,352727,2019,Mushroom poisoning
+Si Sa Ket,129,8.76,0,0.0,1472934,2019,Mushroom poisoning
+Ubon Ratchathani,739,39.39,2,0.11,1876347,2019,Mushroom poisoning
+Yasothon,30,5.58,0,0.0,538013,2019,Mushroom poisoning
+ZONE:11,47,1.05,0,0.0,4487837,2019,Mushroom poisoning
+Chumphon,2,0.39,0,0.0,511134,2019,Mushroom poisoning
+Krabi,2,0.42,0,0.0,475239,2019,Mushroom poisoning
+Nakhon Si Thammarat,6,0.38,0,0.0,1561179,2019,Mushroom poisoning
+Phangnga,7,2.61,0,0.0,268513,2019,Mushroom poisoning
+Phuket,1,0.24,0,0.0,413397,2019,Mushroom poisoning
+Ranong,0,0.0,0,0.0,192619,2019,Mushroom poisoning
+Surat Thani,29,2.72,0,0.0,1065756,2019,Mushroom poisoning
+ZONE:12,36,0.72,0,0.0,4986140,2019,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,805248,2019,Mushroom poisoning
+Pattani,0,0.0,0,0.0,721591,2019,Mushroom poisoning
+Phatthalung,5,0.95,0,0.0,524955,2019,Mushroom poisoning
+Satun,0,0.0,0,0.0,322580,2019,Mushroom poisoning
+Songkhla,19,1.32,0,0.0,1434298,2019,Mushroom poisoning
+Trang,12,1.87,0,0.0,643140,2019,Mushroom poisoning
+Yala,0,0.0,0,0.0,534328,2019,Mushroom poisoning
+ZONE:13,0,0.0,0,0.0,5671457,2019,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5671457,2019,Mushroom poisoning
+Total,3122,4.7,10,0.02,66372831,2020,Mushroom poisoning
+ZONE:01,126,2.14,1,0.02,5886870,2020,Mushroom poisoning
+Chiang Mai,17,0.95,1,0.06,1781812,2020,Mushroom poisoning
+Chiang Rai,51,3.93,0,0.0,1296664,2020,Mushroom poisoning
+Lampang,10,1.36,0,0.0,733640,2020,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,403542,2020,Mushroom poisoning
+Mae Hong Son,0,0.0,0,0.0,284343,2020,Mushroom poisoning
+Nan,19,3.98,0,0.0,477476,2020,Mushroom poisoning
+Phayao,29,6.17,0,0.0,469856,2020,Mushroom poisoning
+Phrae,0,0.0,0,0.0,439537,2020,Mushroom poisoning
+ZONE:02,62,1.74,0,0.0,3554902,2020,Mushroom poisoning
+Phetchabun,25,2.53,0,0.0,987196,2020,Mushroom poisoning
+Phitsanulok,4,0.47,0,0.0,857364,2020,Mushroom poisoning
+Sukhothai,9,1.52,0,0.0,591477,2020,Mushroom poisoning
+Tak,21,3.14,0,0.0,667942,2020,Mushroom poisoning
+Uttaradit,3,0.67,0,0.0,450923,2020,Mushroom poisoning
+ZONE:03,0,0.0,0,0.0,2956189,2020,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,324544,2020,Mushroom poisoning
+Kamphaeng Phet,0,0.0,0,0.0,719993,2020,Mushroom poisoning
+Nakhon Sawan,0,0.0,0,0.0,1050098,2020,Mushroom poisoning
+Phichit,0,0.0,0,0.0,534311,2020,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,327243,2020,Mushroom poisoning
+ZONE:04,1,0.02,0,0.0,5400529,2020,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,278119,2020,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,749242,2020,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,260416,2020,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1271065,2020,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819638,2020,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1170008,2020,Mushroom poisoning
+Saraburi,1,0.16,0,0.0,644869,2020,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,207172,2020,Mushroom poisoning
+ZONE:05,12,0.22,0,0.0,5342038,2020,Mushroom poisoning
+Kanchanaburi,0,0.0,0,0.0,893751,2020,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,920380,2020,Mushroom poisoning
+Phetchaburi,1,0.21,0,0.0,483692,2020,Mushroom poisoning
+Prachuap Khiri Khan,6,1.09,0,0.0,552398,2020,Mushroom poisoning
+Ratchaburi,2,0.23,0,0.0,871207,2020,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,585451,2020,Mushroom poisoning
+Samut Songkhram,3,1.56,0,0.0,192678,2020,Mushroom poisoning
+Suphan Buri,0,0.0,0,0.0,842481,2020,Mushroom poisoning
+ZONE:06,58,0.94,0,0.0,6192990,2020,Mushroom poisoning
+Chachoengsao,1,0.14,0,0.0,720416,2020,Mushroom poisoning
+Chanthaburi,9,1.68,0,0.0,536629,2020,Mushroom poisoning
+Chon Buri,4,0.26,0,0.0,1562593,2020,Mushroom poisoning
+Prachin Buri,17,3.44,0,0.0,494175,2020,Mushroom poisoning
+Rayong,2,0.27,0,0.0,738139,2020,Mushroom poisoning
+Sa Kaeo,8,1.42,0,0.0,563614,2020,Mushroom poisoning
+Samut Prakan,12,0.89,0,0.0,1348177,2020,Mushroom poisoning
+Trat,5,2.18,0,0.0,229247,2020,Mushroom poisoning
+ZONE:07,139,2.76,1,0.02,5039088,2020,Mushroom poisoning
+Kalasin,10,1.02,0,0.0,980297,2020,Mushroom poisoning
+Khon Kaen,5,0.28,0,0.0,1798702,2020,Mushroom poisoning
+Maha Sarakham,4,0.42,0,0.0,958163,2020,Mushroom poisoning
+Roi Et,120,9.22,1,0.08,1301926,2020,Mushroom poisoning
+ZONE:08,135,2.44,0,0.0,5540556,2020,Mushroom poisoning
+Bungkan,48,11.35,0,0.0,423067,2020,Mushroom poisoning
+Loei,47,7.33,0,0.0,640843,2020,Mushroom poisoning
+Nakhon Phanom,14,1.95,0,0.0,718169,2020,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,511125,2020,Mushroom poisoning
+Nong Khai,5,0.96,0,0.0,519873,2020,Mushroom poisoning
+Sakon Nakhon,6,0.52,0,0.0,1150164,2020,Mushroom poisoning
+Udon Thani,15,0.95,0,0.0,1577315,2020,Mushroom poisoning
+ZONE:09,185,2.74,0,0.0,6748199,2020,Mushroom poisoning
+Buri Ram,4,0.25,0,0.0,1588466,2020,Mushroom poisoning
+Chaiyaphum,94,8.31,0,0.0,1131140,2020,Mushroom poisoning
+Nakhon Ratchasima,6,0.23,0,0.0,2641067,2020,Mushroom poisoning
+Surin,81,5.84,0,0.0,1387526,2020,Mushroom poisoning
+ZONE:10,2317,50.33,8,0.17,4603401,2020,Mushroom poisoning
+Amnat Charoen,19,5.04,0,0.0,377317,2020,Mushroom poisoning
+Mukdahan,2,0.57,0,0.0,352043,2020,Mushroom poisoning
+Si Sa Ket,300,20.47,1,0.07,1465719,2020,Mushroom poisoning
+Ubon Ratchathani,1862,99.44,7,0.37,1872422,2020,Mushroom poisoning
+Yasothon,134,25.0,0,0.0,535900,2020,Mushroom poisoning
+ZONE:11,59,1.31,0,0.0,4489609,2020,Mushroom poisoning
+Chumphon,15,2.94,0,0.0,510256,2020,Mushroom poisoning
+Krabi,1,0.21,0,0.0,477254,2020,Mushroom poisoning
+Nakhon Si Thammarat,3,0.19,0,0.0,1556325,2020,Mushroom poisoning
+Phangnga,18,6.7,0,0.0,268509,2020,Mushroom poisoning
+Phuket,1,0.24,0,0.0,415527,2020,Mushroom poisoning
+Ranong,0,0.0,0,0.0,193871,2020,Mushroom poisoning
+Surat Thani,21,1.97,0,0.0,1067867,2020,Mushroom poisoning
+ZONE:12,28,0.56,0,0.0,4991217,2020,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,806224,2020,Mushroom poisoning
+Pattani,0,0.0,0,0.0,725559,2020,Mushroom poisoning
+Phatthalung,5,0.95,0,0.0,523971,2020,Mushroom poisoning
+Satun,0,0.0,0,0.0,323841,2020,Mushroom poisoning
+Songkhla,15,1.05,0,0.0,1432288,2020,Mushroom poisoning
+Trang,7,1.09,0,0.0,641868,2020,Mushroom poisoning
+Yala,1,0.19,0,0.0,537466,2020,Mushroom poisoning
+ZONE:13,0,0.0,0,0.0,5627243,2020,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5627243,2020,Mushroom poisoning
+Total,1700,2.57,1,0.0,66179083,2021,Mushroom poisoning
+ZONE:01,101,1.72,0,0.0,5875424,2021,Mushroom poisoning
+Chiang Mai,17,0.95,0,0.0,1786877,2021,Mushroom poisoning
+Chiang Rai,30,2.31,0,0.0,1296725,2021,Mushroom poisoning
+Lampang,2,0.28,0,0.0,726821,2021,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,401574,2021,Mushroom poisoning
+Mae Hong Son,4,1.4,0,0.0,285232,2021,Mushroom poisoning
+Nan,24,5.04,0,0.0,476300,2021,Mushroom poisoning
+Phayao,24,5.15,0,0.0,465930,2021,Mushroom poisoning
+Phrae,0,0.0,0,0.0,435965,2021,Mushroom poisoning
+ZONE:02,16,0.45,0,0.0,3536074,2021,Mushroom poisoning
+Phetchabun,10,1.02,0,0.0,980156,2021,Mushroom poisoning
+Phitsanulok,0,0.0,0,0.0,848432,2021,Mushroom poisoning
+Sukhothai,1,0.17,0,0.0,586617,2021,Mushroom poisoning
+Tak,5,0.74,0,0.0,673423,2021,Mushroom poisoning
+Uttaradit,0,0.0,0,0.0,447446,2021,Mushroom poisoning
+ZONE:03,5,0.17,0,0.0,2928596,2021,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,321454,2021,Mushroom poisoning
+Kamphaeng Phet,1,0.14,0,0.0,713130,2021,Mushroom poisoning
+Nakhon Sawan,4,0.39,0,0.0,1037668,2021,Mushroom poisoning
+Phichit,0,0.0,0,0.0,530852,2021,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,325492,2021,Mushroom poisoning
+ZONE:04,2,0.04,0,0.0,5411959,2021,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,275673,2021,Mushroom poisoning
+Lop Buri,1,0.13,0,0.0,741200,2021,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,260256,2021,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1282690,2021,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1183235,2021,Mushroom poisoning
+Saraburi,1,0.16,0,0.0,643895,2021,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,205211,2021,Mushroom poisoning
+ZONE:05,9,0.17,0,0.0,5332653,2021,Mushroom poisoning
+Kanchanaburi,3,0.34,0,0.0,893014,2021,Mushroom poisoning
+Nakhon Pathom,0,0.0,0,0.0,921450,2021,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,482534,2021,Mushroom poisoning
+Prachuap Khiri Khan,4,0.72,0,0.0,551924,2021,Mushroom poisoning
+Ratchaburi,1,0.12,0,0.0,868797,2021,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,586494,2021,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,191447,2021,Mushroom poisoning
+Suphan Buri,1,0.12,0,0.0,836993,2021,Mushroom poisoning
+ZONE:06,55,0.88,0,0.0,6218594,2021,Mushroom poisoning
+Chachoengsao,0,0.0,0,0.0,722448,2021,Mushroom poisoning
+Chanthaburi,3,0.56,0,0.0,536058,2021,Mushroom poisoning
+Chon Buri,0,0.0,0,0.0,1575278,2021,Mushroom poisoning
+Prachin Buri,34,6.88,0,0.0,494498,2021,Mushroom poisoning
+Rayong,8,1.07,0,0.0,746433,2021,Mushroom poisoning
+Sa Kaeo,1,0.18,0,0.0,561459,2021,Mushroom poisoning
+Samut Prakan,9,0.66,0,0.0,1353964,2021,Mushroom poisoning
+Trat,0,0.0,0,0.0,228456,2021,Mushroom poisoning
+ZONE:07,93,1.85,1,0.02,5017381,2021,Mushroom poisoning
+Kalasin,30,3.07,1,0.1,976373,2021,Mushroom poisoning
+Khon Kaen,5,0.28,0,0.0,1792697,2021,Mushroom poisoning
+Maha Sarakham,9,0.95,0,0.0,950985,2021,Mushroom poisoning
+Roi Et,49,3.78,0,0.0,1297326,2021,Mushroom poisoning
+ZONE:08,114,2.07,0,0.0,5518109,2021,Mushroom poisoning
+Bungkan,31,7.35,0,0.0,422019,2021,Mushroom poisoning
+Loei,51,7.98,0,0.0,638734,2021,Mushroom poisoning
+Nakhon Phanom,0,0.0,0,0.0,717121,2021,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Mushroom poisoning
+Nong Khai,29,5.61,0,0.0,517140,2021,Mushroom poisoning
+Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Mushroom poisoning
+Udon Thani,3,0.19,0,0.0,1567247,2021,Mushroom poisoning
+ZONE:09,143,2.13,0,0.0,6714997,2021,Mushroom poisoning
+Buri Ram,11,0.7,0,0.0,1580495,2021,Mushroom poisoning
+Chaiyaphum,19,1.69,0,0.0,1123595,2021,Mushroom poisoning
+Nakhon Ratchasima,4,0.15,0,0.0,2633681,2021,Mushroom poisoning
+Surin,109,7.91,0,0.0,1377226,2021,Mushroom poisoning
+ZONE:10,1097,23.91,0,0.0,4587095,2021,Mushroom poisoning
+Amnat Charoen,31,8.24,0,0.0,376273,2021,Mushroom poisoning
+Mukdahan,9,2.56,0,0.0,351198,2021,Mushroom poisoning
+Si Sa Ket,216,14.81,0,0.0,1458068,2021,Mushroom poisoning
+Ubon Ratchathani,792,42.41,0,0.0,1867608,2021,Mushroom poisoning
+Yasothon,49,9.18,0,0.0,533948,2021,Mushroom poisoning
+ZONE:11,26,0.58,0,0.0,4487259,2021,Mushroom poisoning
+Chumphon,3,0.59,0,0.0,509344,2021,Mushroom poisoning
+Krabi,7,1.46,0,0.0,478561,2021,Mushroom poisoning
+Nakhon Si Thammarat,1,0.06,0,0.0,1550033,2021,Mushroom poisoning
+Phangnga,3,1.12,0,0.0,268123,2021,Mushroom poisoning
+Phuket,8,1.92,0,0.0,416629,2021,Mushroom poisoning
+Ranong,3,1.54,0,0.0,194473,2021,Mushroom poisoning
+Surat Thani,1,0.09,0,0.0,1070096,2021,Mushroom poisoning
+ZONE:12,39,0.78,0,0.0,4992834,2021,Mushroom poisoning
+Narathiwat,1,0.12,0,0.0,807045,2021,Mushroom poisoning
+Pattani,0,0.0,0,0.0,727799,2021,Mushroom poisoning
+Phatthalung,17,3.25,0,0.0,522810,2021,Mushroom poisoning
+Satun,0,0.0,0,0.0,324467,2021,Mushroom poisoning
+Songkhla,9,0.63,0,0.0,1430073,2021,Mushroom poisoning
+Trang,11,1.72,0,0.0,640182,2021,Mushroom poisoning
+Yala,1,0.19,0,0.0,540458,2021,Mushroom poisoning
+ZONE:13,0,0.0,0,0.0,5558108,2021,Mushroom poisoning
+Bangkok,0,0.0,0,0.0,5558108,2021,Mushroom poisoning
+Total,1962,2.97,3,0.0,66171439,2022,Mushroom poisoning
+ZONE:01,129,2.2,0,0.0,5874503,2022,Mushroom poisoning
+Chiang Mai,27,1.51,0,0.0,1789385,2022,Mushroom poisoning
+Chiang Rai,35,2.7,0,0.0,1298425,2022,Mushroom poisoning
+Lampang,1,0.14,0,0.0,724678,2022,Mushroom poisoning
+Lamphun,3,0.75,0,0.0,401139,2022,Mushroom poisoning
+Mae Hong Son,22,7.69,0,0.0,285916,2022,Mushroom poisoning
+Nan,19,3.99,0,0.0,475875,2022,Mushroom poisoning
+Phayao,16,3.44,0,0.0,464505,2022,Mushroom poisoning
+Phrae,6,1.38,0,0.0,434580,2022,Mushroom poisoning
+ZONE:02,55,1.56,0,0.0,3533839,2022,Mushroom poisoning
+Phetchabun,29,2.96,0,0.0,978372,2022,Mushroom poisoning
+Phitsanulok,11,1.3,0,0.0,847384,2022,Mushroom poisoning
+Sukhothai,2,0.34,0,0.0,585352,2022,Mushroom poisoning
+Tak,13,1.92,0,0.0,676583,2022,Mushroom poisoning
+Uttaradit,0,0.0,0,0.0,446148,2022,Mushroom poisoning
+ZONE:03,6,0.21,0,0.0,2922114,2022,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,320432,2022,Mushroom poisoning
+Kamphaeng Phet,0,0.0,0,0.0,712143,2022,Mushroom poisoning
+Nakhon Sawan,2,0.19,0,0.0,1035028,2022,Mushroom poisoning
+Phichit,4,0.76,0,0.0,529395,2022,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,325116,2022,Mushroom poisoning
+ZONE:04,1,0.02,0,0.0,5422367,2022,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,274763,2022,Mushroom poisoning
+Lop Buri,0,0.0,0,0.0,739473,2022,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,260433,2022,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1288637,2022,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820512,2022,Mushroom poisoning
+Pathum Thani,0,0.0,0,0.0,1190060,2022,Mushroom poisoning
+Saraburi,0,0.0,0,0.0,643963,2022,Mushroom poisoning
+Sing Buri,1,0.49,0,0.0,204526,2022,Mushroom poisoning
+ZONE:05,11,0.21,0,0.0,5333543,2022,Mushroom poisoning
+Kanchanaburi,1,0.11,0,0.0,894054,2022,Mushroom poisoning
+Nakhon Pathom,2,0.22,0,0.0,922171,2022,Mushroom poisoning
+Phetchaburi,0,0.0,0,0.0,482875,2022,Mushroom poisoning
+Prachuap Khiri Khan,4,0.72,0,0.0,553171,2022,Mushroom poisoning
+Ratchaburi,2,0.23,0,0.0,868281,2022,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,586789,2022,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,190842,2022,Mushroom poisoning
+Suphan Buri,2,0.24,0,0.0,835360,2022,Mushroom poisoning
+ZONE:06,60,0.96,0,0.0,6237892,2022,Mushroom poisoning
+Chachoengsao,2,0.28,0,0.0,724178,2022,Mushroom poisoning
+Chanthaburi,13,2.42,0,0.0,536557,2022,Mushroom poisoning
+Chon Buri,3,0.19,0,0.0,1583672,2022,Mushroom poisoning
+Prachin Buri,20,4.04,0,0.0,495325,2022,Mushroom poisoning
+Rayong,2,0.27,0,0.0,751343,2022,Mushroom poisoning
+Sa Kaeo,12,2.14,0,0.0,561992,2022,Mushroom poisoning
+Samut Prakan,8,0.59,0,0.0,1356449,2022,Mushroom poisoning
+Trat,0,0.0,0,0.0,228376,2022,Mushroom poisoning
+ZONE:07,108,2.16,0,0.0,5010756,2022,Mushroom poisoning
+Kalasin,15,1.54,0,0.0,975570,2022,Mushroom poisoning
+Khon Kaen,23,1.28,0,0.0,1790863,2022,Mushroom poisoning
+Maha Sarakham,10,1.05,0,0.0,948310,2022,Mushroom poisoning
+Roi Et,60,4.63,0,0.0,1296013,2022,Mushroom poisoning
+ZONE:08,171,3.1,0,0.0,5516407,2022,Mushroom poisoning
+Bungkan,33,7.82,0,0.0,421995,2022,Mushroom poisoning
+Loei,95,14.87,0,0.0,638732,2022,Mushroom poisoning
+Nakhon Phanom,9,1.26,0,0.0,717040,2022,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,509001,2022,Mushroom poisoning
+Nong Khai,25,4.84,0,0.0,516843,2022,Mushroom poisoning
+Sakon Nakhon,0,0.0,0,0.0,1146286,2022,Mushroom poisoning
+Udon Thani,9,0.57,0,0.0,1566510,2022,Mushroom poisoning
+ZONE:09,148,2.2,0,0.0,6712454,2022,Mushroom poisoning
+Buri Ram,5,0.32,0,0.0,1579805,2022,Mushroom poisoning
+Chaiyaphum,44,3.92,0,0.0,1122265,2022,Mushroom poisoning
+Nakhon Ratchasima,6,0.23,0,0.0,2634154,2022,Mushroom poisoning
+Surin,93,6.76,0,0.0,1376230,2022,Mushroom poisoning
+ZONE:10,1203,26.22,3,0.07,4587303,2022,Mushroom poisoning
+Amnat Charoen,19,5.05,0,0.0,376350,2022,Mushroom poisoning
+Mukdahan,9,2.56,0,0.0,351484,2022,Mushroom poisoning
+Si Sa Ket,210,14.41,3,0.21,1457556,2022,Mushroom poisoning
+Ubon Ratchathani,918,49.13,0,0.0,1868519,2022,Mushroom poisoning
+Yasothon,47,8.81,0,0.0,533394,2022,Mushroom poisoning
+ZONE:11,60,1.34,0,0.0,4492012,2022,Mushroom poisoning
+Chumphon,5,0.98,0,0.0,509479,2022,Mushroom poisoning
+Krabi,8,1.67,0,0.0,479351,2022,Mushroom poisoning
+Nakhon Si Thammarat,5,0.32,0,0.0,1549344,2022,Mushroom poisoning
+Phangnga,14,5.22,0,0.0,268016,2022,Mushroom poisoning
+Phuket,1,0.24,0,0.0,418785,2022,Mushroom poisoning
+Ranong,4,2.06,0,0.0,194573,2022,Mushroom poisoning
+Surat Thani,23,2.14,0,0.0,1072464,2022,Mushroom poisoning
+ZONE:12,9,0.18,0,0.0,5000255,2022,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,809660,2022,Mushroom poisoning
+Pattani,1,0.14,0,0.0,729581,2022,Mushroom poisoning
+Phatthalung,3,0.57,0,0.0,522541,2022,Mushroom poisoning
+Satun,0,0.0,0,0.0,324835,2022,Mushroom poisoning
+Songkhla,0,0.0,0,0.0,1431536,2022,Mushroom poisoning
+Trang,5,0.78,0,0.0,639788,2022,Mushroom poisoning
+Yala,0,0.0,0,0.0,542314,2022,Mushroom poisoning
+ZONE:13,1,0.02,0,0.0,5527994,2022,Mushroom poisoning
+Bangkok,1,0.02,0,0.0,5527994,2022,Mushroom poisoning
+Total,2547,3.85,11,0.02,66130957,2023,Mushroom poisoning
+ZONE:01,148,2.52,0,0.0,5869190,2023,Mushroom poisoning
+Chiang Mai,34,1.9,0,0.0,1790929,2023,Mushroom poisoning
+Chiang Rai,53,4.08,0,0.0,1299030,2023,Mushroom poisoning
+Lampang,4,0.55,0,0.0,721734,2023,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,400348,2023,Mushroom poisoning
+Mae Hong Son,9,3.14,0,0.0,286350,2023,Mushroom poisoning
+Nan,30,6.31,0,0.0,475207,2023,Mushroom poisoning
+Phayao,14,3.02,0,0.0,462968,2023,Mushroom poisoning
+Phrae,4,0.92,0,0.0,432624,2023,Mushroom poisoning
+ZONE:02,84,2.38,0,0.0,3530228,2023,Mushroom poisoning
+Phetchabun,52,5.33,0,0.0,975879,2023,Mushroom poisoning
+Phitsanulok,8,0.95,0,0.0,845938,2023,Mushroom poisoning
+Sukhothai,9,1.54,0,0.0,583502,2023,Mushroom poisoning
+Tak,2,0.29,0,0.0,680361,2023,Mushroom poisoning
+Uttaradit,13,2.92,0,0.0,444548,2023,Mushroom poisoning
+ZONE:03,16,0.55,0,0.0,2913905,2023,Mushroom poisoning
+Chai Nat,0,0.0,0,0.0,319370,2023,Mushroom poisoning
+Kamphaeng Phet,2,0.28,0,0.0,710458,2023,Mushroom poisoning
+Nakhon Sawan,7,0.68,0,0.0,1031921,2023,Mushroom poisoning
+Phichit,7,1.33,0,0.0,527669,2023,Mushroom poisoning
+Uthai Thani,0,0.0,0,0.0,324487,2023,Mushroom poisoning
+ZONE:04,26,0.48,0,0.0,5424945,2023,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,273675,2023,Mushroom poisoning
+Lop Buri,3,0.41,0,0.0,737382,2023,Mushroom poisoning
+Nakhon Nayok,3,1.15,0,0.0,260419,2023,Mushroom poisoning
+Nonthaburi,0,0.0,0,0.0,1292276,2023,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820464,2023,Mushroom poisoning
+Pathum Thani,3,0.25,0,0.0,1195796,2023,Mushroom poisoning
+Saraburi,4,0.62,0,0.0,641272,2023,Mushroom poisoning
+Sing Buri,13,6.38,0,0.0,203661,2023,Mushroom poisoning
+ZONE:05,78,1.46,0,0.0,5330665,2023,Mushroom poisoning
+Kanchanaburi,10,1.12,0,0.0,894168,2023,Mushroom poisoning
+Nakhon Pathom,1,0.11,0,0.0,922026,2023,Mushroom poisoning
+Phetchaburi,2,0.41,0,0.0,482912,2023,Mushroom poisoning
+Prachuap Khiri Khan,10,1.81,0,0.0,553234,2023,Mushroom poisoning
+Ratchaburi,45,5.19,0,0.0,867043,2023,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,588108,2023,Mushroom poisoning
+Samut Songkhram,1,0.53,0,0.0,190147,2023,Mushroom poisoning
+Suphan Buri,9,1.08,0,0.0,833027,2023,Mushroom poisoning
+ZONE:06,124,1.98,0,0.0,6251747,2023,Mushroom poisoning
+Chachoengsao,5,0.69,0,0.0,725433,2023,Mushroom poisoning
+Chanthaburi,14,2.61,0,0.0,536351,2023,Mushroom poisoning
+Chon Buri,7,0.44,0,0.0,1589214,2023,Mushroom poisoning
+Prachin Buri,45,9.06,0,0.0,496551,2023,Mushroom poisoning
+Rayong,3,0.4,0,0.0,755364,2023,Mushroom poisoning
+Sa Kaeo,37,6.58,0,0.0,562404,2023,Mushroom poisoning
+Samut Prakan,10,0.74,0,0.0,1358338,2023,Mushroom poisoning
+Trat,3,1.32,0,0.0,228092,2023,Mushroom poisoning
+ZONE:07,126,2.52,1,0.02,5001616,2023,Mushroom poisoning
+Kalasin,16,1.64,0,0.0,973835,2023,Mushroom poisoning
+Khon Kaen,26,1.45,0,0.0,1787752,2023,Mushroom poisoning
+Maha Sarakham,10,1.06,1,0.11,946457,2023,Mushroom poisoning
+Roi Et,74,5.72,0,0.0,1293572,2023,Mushroom poisoning
+ZONE:08,281,5.1,5,0.09,5512222,2023,Mushroom poisoning
+Bungkan,60,14.22,0,0.0,421840,2023,Mushroom poisoning
+Loei,151,23.67,5,0.78,638037,2023,Mushroom poisoning
+Nakhon Phanom,13,1.81,0,0.0,716844,2023,Mushroom poisoning
+Nong Bua Lam Phu,0,0.0,0,0.0,508664,2023,Mushroom poisoning
+Nong Khai,19,3.68,0,0.0,516320,2023,Mushroom poisoning
+Sakon Nakhon,24,2.09,0,0.0,1145737,2023,Mushroom poisoning
+Udon Thani,14,0.89,0,0.0,1564780,2023,Mushroom poisoning
+ZONE:09,212,3.16,1,0.01,6705133,2023,Mushroom poisoning
+Buri Ram,35,2.22,1,0.06,1578361,2023,Mushroom poisoning
+Chaiyaphum,63,5.62,0,0.0,1120095,2023,Mushroom poisoning
+Nakhon Ratchasima,19,0.72,0,0.0,2632106,2023,Mushroom poisoning
+Surin,95,6.91,0,0.0,1374571,2023,Mushroom poisoning
+ZONE:10,1362,29.7,4,0.09,4585207,2023,Mushroom poisoning
+Amnat Charoen,46,12.24,0,0.0,375866,2023,Mushroom poisoning
+Mukdahan,6,1.71,0,0.0,351537,2023,Mushroom poisoning
+Si Sa Ket,202,13.87,0,0.0,1456144,2023,Mushroom poisoning
+Ubon Ratchathani,929,49.7,1,0.05,1869163,2023,Mushroom poisoning
+Yasothon,179,33.62,3,0.56,532497,2023,Mushroom poisoning
+ZONE:11,50,1.11,0,0.0,4489916,2023,Mushroom poisoning
+Chumphon,16,3.14,0,0.0,509433,2023,Mushroom poisoning
+Krabi,1,0.21,0,0.0,479705,2023,Mushroom poisoning
+Nakhon Si Thammarat,6,0.39,0,0.0,1547246,2023,Mushroom poisoning
+Phangnga,1,0.37,0,0.0,267729,2023,Mushroom poisoning
+Phuket,4,0.96,0,0.0,418339,2023,Mushroom poisoning
+Ranong,0,0.0,0,0.0,194400,2023,Mushroom poisoning
+Surat Thani,22,2.05,0,0.0,1073064,2023,Mushroom poisoning
+ZONE:12,39,0.78,0,0.0,5004720,2023,Mushroom poisoning
+Narathiwat,7,0.86,0,0.0,811891,2023,Mushroom poisoning
+Pattani,6,0.82,0,0.0,731269,2023,Mushroom poisoning
+Phatthalung,4,0.77,0,0.0,522080,2023,Mushroom poisoning
+Satun,0,0.0,0,0.0,325069,2023,Mushroom poisoning
+Songkhla,15,1.05,0,0.0,1431300,2023,Mushroom poisoning
+Trang,7,1.1,0,0.0,638997,2023,Mushroom poisoning
+Yala,0,0.0,0,0.0,544114,2023,Mushroom poisoning
+ZONE:13,1,0.02,0,0.0,5511463,2023,Mushroom poisoning
+Bangkok,1,0.02,0,0.0,5511463,2023,Mushroom poisoning
+Total,3065,4.64,11,0.02,66071545,2024,Mushroom poisoning
+ZONE:01,164,2.8,0,0.0,5857413,2024,Mushroom poisoning
+Chiang Mai,27,1.5,0,0.0,1794774,2024,Mushroom poisoning
+Chiang Rai,66,5.08,0,0.0,1299306,2024,Mushroom poisoning
+Lampang,4,0.56,0,0.0,715133,2024,Mushroom poisoning
+Lamphun,0,0.0,0,0.0,398998,2024,Mushroom poisoning
+Mae Hong Son,13,4.53,0,0.0,287215,2024,Mushroom poisoning
+Nan,30,6.33,0,0.0,473630,2024,Mushroom poisoning
+Phayao,23,5.0,0,0.0,459858,2024,Mushroom poisoning
+Phrae,1,0.23,0,0.0,428499,2024,Mushroom poisoning
+ZONE:02,94,2.67,0,0.0,3522489,2024,Mushroom poisoning
+Phetchabun,44,4.53,0,0.0,970403,2024,Mushroom poisoning
+Phitsanulok,12,1.42,0,0.0,843111,2024,Mushroom poisoning
+Sukhothai,18,3.1,0,0.0,579759,2024,Mushroom poisoning
+Tak,12,1.74,0,0.0,687927,2024,Mushroom poisoning
+Uttaradit,8,1.81,0,0.0,441289,2024,Mushroom poisoning
+ZONE:03,19,0.66,0,0.0,2896463,2024,Mushroom poisoning
+Chai Nat,7,2.21,0,0.0,317263,2024,Mushroom poisoning
+Kamphaeng Phet,1,0.14,0,0.0,706861,2024,Mushroom poisoning
+Nakhon Sawan,8,0.78,0,0.0,1025348,2024,Mushroom poisoning
+Phichit,2,0.38,0,0.0,523925,2024,Mushroom poisoning
+Uthai Thani,1,0.31,0,0.0,323066,2024,Mushroom poisoning
+ZONE:04,14,0.26,0,0.0,5438863,2024,Mushroom poisoning
+Ang Thong,0,0.0,0,0.0,271656,2024,Mushroom poisoning
+Lop Buri,6,0.82,0,0.0,732495,2024,Mushroom poisoning
+Nakhon Nayok,0,0.0,0,0.0,260261,2024,Mushroom poisoning
+Nonthaburi,3,0.23,0,0.0,1302004,2024,Mushroom poisoning
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,821261,2024,Mushroom poisoning
+Pathum Thani,4,0.33,0,0.0,1210365,2024,Mushroom poisoning
+Saraburi,1,0.16,0,0.0,638704,2024,Mushroom poisoning
+Sing Buri,0,0.0,0,0.0,202117,2024,Mushroom poisoning
+ZONE:05,41,0.77,0,0.0,5326695,2024,Mushroom poisoning
+Kanchanaburi,9,1.01,0,0.0,894781,2024,Mushroom poisoning
+Nakhon Pathom,2,0.22,0,0.0,923201,2024,Mushroom poisoning
+Phetchaburi,1,0.21,0,0.0,483305,2024,Mushroom poisoning
+Prachuap Khiri Khan,11,1.99,0,0.0,552137,2024,Mushroom poisoning
+Ratchaburi,6,0.69,0,0.0,865276,2024,Mushroom poisoning
+Samut Sakhon,0,0.0,0,0.0,590730,2024,Mushroom poisoning
+Samut Songkhram,0,0.0,0,0.0,188723,2024,Mushroom poisoning
+Suphan Buri,12,1.45,0,0.0,828542,2024,Mushroom poisoning
+ZONE:06,86,1.37,0,0.0,6292163,2024,Mushroom poisoning
+Chachoengsao,6,0.82,0,0.0,728615,2024,Mushroom poisoning
+Chanthaburi,13,2.42,0,0.0,536290,2024,Mushroom poisoning
+Chon Buri,9,0.56,0,0.0,1606412,2024,Mushroom poisoning
+Prachin Buri,6,1.2,0,0.0,498671,2024,Mushroom poisoning
+Rayong,3,0.39,0,0.0,765287,2024,Mushroom poisoning
+Sa Kaeo,42,7.46,0,0.0,562860,2024,Mushroom poisoning
+Samut Prakan,6,0.44,0,0.0,1366598,2024,Mushroom poisoning
+Trat,1,0.44,0,0.0,227430,2024,Mushroom poisoning
+ZONE:07,258,5.18,2,0.04,4981337,2024,Mushroom poisoning
+Kalasin,44,4.54,0,0.0,970084,2024,Mushroom poisoning
+Khon Kaen,47,2.64,0,0.0,1782008,2024,Mushroom poisoning
+Maha Sarakham,37,3.93,0,0.0,941261,2024,Mushroom poisoning
+Roi Et,130,10.09,2,0.16,1287984,2024,Mushroom poisoning
+ZONE:08,422,7.67,1,0.02,5500012,2024,Mushroom poisoning
+Bungkan,76,18.05,0,0.0,421086,2024,Mushroom poisoning
+Loei,178,27.98,0,0.0,636242,2024,Mushroom poisoning
+Nakhon Phanom,28,3.91,0,0.0,715466,2024,Mushroom poisoning
+Nong Bua Lam Phu,15,2.96,0,0.0,507599,2024,Mushroom poisoning
+Nong Khai,22,4.27,0,0.0,514909,2024,Mushroom poisoning
+Sakon Nakhon,57,4.98,0,0.0,1143922,2024,Mushroom poisoning
+Udon Thani,46,2.95,1,0.06,1560788,2024,Mushroom poisoning
+ZONE:09,283,4.23,1,0.01,6689028,2024,Mushroom poisoning
+Buri Ram,70,4.44,1,0.06,1575073,2024,Mushroom poisoning
+Chaiyaphum,91,8.16,0,0.0,1115652,2024,Mushroom poisoning
+Nakhon Ratchasima,22,0.84,0,0.0,2627927,2024,Mushroom poisoning
+Surin,100,7.3,0,0.0,1370376,2024,Mushroom poisoning
+ZONE:10,1530,33.41,6,0.13,4578831,2024,Mushroom poisoning
+Amnat Charoen,57,15.21,0,0.0,374760,2024,Mushroom poisoning
+Mukdahan,6,1.71,0,0.0,351592,2024,Mushroom poisoning
+Si Sa Ket,207,14.25,1,0.07,1452532,2024,Mushroom poisoning
+Ubon Ratchathani,916,48.99,1,0.05,1869708,2024,Mushroom poisoning
+Yasothon,344,64.88,4,0.75,530239,2024,Mushroom poisoning
+ZONE:11,100,2.23,1,0.02,4489783,2024,Mushroom poisoning
+Chumphon,10,1.96,0,0.0,509122,2024,Mushroom poisoning
+Krabi,7,1.46,0,0.0,481089,2024,Mushroom poisoning
+Nakhon Si Thammarat,31,2.01,0,0.0,1543051,2024,Mushroom poisoning
+Phangnga,0,0.0,0,0.0,267250,2024,Mushroom poisoning
+Phuket,11,2.61,0,0.0,420746,2024,Mushroom poisoning
+Ranong,1,0.52,0,0.0,193799,2024,Mushroom poisoning
+Surat Thani,40,3.72,1,0.09,1074726,2024,Mushroom poisoning
+ZONE:12,45,0.9,0,0.0,5015209,2024,Mushroom poisoning
+Narathiwat,0,0.0,0,0.0,816642,2024,Mushroom poisoning
+Pattani,3,0.41,0,0.0,735017,2024,Mushroom poisoning
+Phatthalung,5,0.96,0,0.0,521109,2024,Mushroom poisoning
+Satun,2,0.61,0,0.0,325387,2024,Mushroom poisoning
+Songkhla,19,1.33,0,0.0,1431512,2024,Mushroom poisoning
+Trang,13,2.04,0,0.0,637612,2024,Mushroom poisoning
+Yala,3,0.55,0,0.0,547930,2024,Mushroom poisoning
+ZONE:13,9,0.16,0,0.0,5483259,2024,Mushroom poisoning
+Bangkok,9,0.16,0,0.0,5483259,2024,Mushroom poisoning

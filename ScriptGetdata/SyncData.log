@@ -1,74 +1,218 @@
-2025-11-12 12:05:53,521 - INFO - Found 72 diseases
-2025-11-12 12:05:53,522 - INFO - Processing disease: DHF Total
-2025-11-12 12:05:54,060 - INFO - Processing disease: Measles Total
-2025-11-12 12:05:55,576 - INFO - Processing disease: Encephalitis Total
-2025-11-12 12:05:56,126 - INFO - Processing disease: TB Total
-2025-11-12 12:05:56,674 - INFO - Processing disease: STI Total
-2025-11-12 12:05:57,255 - INFO - Processing disease: Chancroid
-2025-11-12 12:05:58,035 - INFO - Processing disease: Condyloma Acuminata
-2025-11-12 12:05:58,581 - INFO - Processing disease: Genital Herpes Simplex
-2025-11-12 12:05:59,121 - INFO - Processing disease: Gonorrhoea
-2025-11-12 12:05:59,741 - INFO - Processing disease: L.G.V.&other&unsp.V.D
-2025-11-12 12:06:00,346 - INFO - Processing disease: N.S.U./V
-2025-11-12 12:06:00,943 - INFO - Processing disease: Other STI
-2025-11-12 12:06:02,608 - INFO - Processing disease: Syphilis
-2025-11-12 12:06:03,409 - INFO - Processing disease: Anthrax
-2025-11-12 12:06:03,939 - INFO - Processing disease: Avian Influenza
-2025-11-12 12:06:07,539 - INFO - Processing disease: Botulism
-2025-11-12 12:06:08,119 - INFO - Processing disease: Brucellosis
-2025-11-12 12:06:08,652 - INFO - Processing disease: Chickenpox
-2025-11-12 12:06:09,279 - INFO - Processing disease: Chikungunya
-2025-11-12 12:06:09,927 - INFO - Processing disease: Cholera
-2025-11-12 12:06:10,462 - INFO - Processing disease: D.H.F
-2025-11-12 12:06:11,036 - INFO - Processing disease: D.H.F.shock syndrome
-2025-11-12 12:06:11,694 - INFO - Processing disease: Dengue fever
-2025-11-12 12:06:12,323 - INFO - Processing disease: Diphtheria
-2025-11-12 12:06:12,877 - INFO - Processing disease: Dysentery,Amoebic
-2025-11-12 12:06:13,403 - INFO - Processing disease: Dysentery,Bacillary
-2025-11-12 12:06:15,026 - INFO - Processing disease: Encephalitis uns
-2025-11-12 12:06:15,537 - INFO - Processing disease: Enterovirus Fever
-2025-11-12 12:06:16,074 - INFO - Processing disease: Eosinophilic Meningitis
-2025-11-12 12:06:16,655 - INFO - Processing disease: Filariasis
-2025-11-12 12:06:18,203 - INFO - Processing disease: Food_Poisoning
-2025-11-12 12:06:19,762 - INFO - Processing disease: Genital Molluscum Contagiosum
-2025-11-12 12:06:20,325 - INFO - Processing disease: HepatitisA
-2025-11-12 12:06:20,888 - INFO - Processing disease: HepatitisB
-2025-11-12 12:06:22,437 - INFO - Processing disease: HepatitisC
-2025-11-12 12:06:22,954 - INFO - Processing disease: HepatitisD
-2025-11-12 12:06:23,507 - INFO - Processing disease: HepatitisE
-2025-11-12 12:06:24,051 - INFO - Processing disease: Hepatitis_uns
-2025-11-12 12:06:24,589 - INFO - Processing disease: HFM
-2025-11-12 12:06:25,127 - INFO - Processing disease: Influenza
-2025-11-12 12:06:25,701 - INFO - Processing disease: Japanese B encephalitis
-2025-11-12 12:06:26,287 - INFO - Processing disease: Kala azar
-2025-11-12 12:06:26,823 - INFO - Processing disease: Leprosy
-2025-11-12 12:06:27,718 - INFO - Processing disease: Leptospirosis
-2025-11-12 12:06:28,557 - INFO - Processing disease: Liver fluke
-2025-11-12 12:06:29,163 - INFO - Processing disease: Malaria
-2025-11-12 12:06:29,710 - INFO - Processing disease: Measles
-2025-11-12 12:06:30,237 - INFO - Processing disease: Measles c Complication
-2025-11-12 12:06:30,900 - INFO - Processing disease: Melioidosis
-2025-11-12 12:06:31,431 - INFO - Processing disease: Meningitis,uns
-2025-11-12 12:06:31,995 - INFO - Processing disease: Meningococcal Meningitis
-2025-11-12 12:06:32,582 - INFO - Processing disease: Mumps
-2025-11-12 12:06:33,118 - INFO - Processing disease: Mushroom poisoning
-2025-11-12 12:06:33,698 - INFO - Processing disease: Paratyphoid
-2025-11-12 12:06:34,516 - INFO - Processing disease: Pediculosis Pubis
-2025-11-12 12:06:35,057 - INFO - Processing disease: Pertussis
-2025-11-12 12:06:35,604 - INFO - Processing disease: Pneumonia
-2025-11-12 12:06:36,178 - INFO - Processing disease: Poliomyelitis
-2025-11-12 12:06:36,810 - INFO - Processing disease: Pulmonary T.B
-2025-11-12 12:06:37,369 - INFO - Processing disease: Rabies
-2025-11-12 12:06:37,930 - INFO - Processing disease: Rubella
-2025-11-12 12:06:38,449 - INFO - Processing disease: Scarlet fever
-2025-11-12 12:06:38,973 - INFO - Processing disease: Scrub Typhus
-2025-11-12 12:06:39,516 - INFO - Processing disease: Streptococcus suis
-2025-11-12 12:06:40,027 - INFO - Processing disease: T.B. other organs
-2025-11-12 12:06:40,622 - INFO - Processing disease: T.B.meningitis
-2025-11-12 12:06:42,202 - INFO - Processing disease: Tetanus exc.Neo
-2025-11-12 12:06:42,815 - INFO - Processing disease: Tetanus neonatorum
-2025-11-12 12:06:43,335 - INFO - Processing disease: Trichinosis
-2025-11-12 12:06:43,973 - INFO - Processing disease: Typhoid
-2025-11-12 12:06:44,583 - INFO - Processing disease: Vaginal trichomoniasis
-2025-11-12 12:06:45,119 - INFO - Processing disease: Zika virus
-2025-11-12 12:06:45,675 - INFO - Wrote 11329 rows to D:\OneDrive - work\OneDrive - MSFT\XMU\likangguo\2024\13 NIDS TH\Code\Data\SyncDataStatus.csv
+2025-11-16 18:52:34,392 - INFO - Found 72 diseases
+2025-11-16 18:52:34,392 - INFO - Processing disease: DHF Total
+2025-11-16 18:52:35,729 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=262766&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:36,054 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=262766&dcontent=situation -> found 14 candidate files
+2025-11-16 18:52:36,086 - INFO - Processing disease: Measles Total
+2025-11-16 18:52:36,732 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=2122&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:37,142 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=2122&dcontent=situation -> found 11 candidate files
+2025-11-16 18:52:37,224 - INFO - Processing disease: Encephalitis Total
+2025-11-16 18:52:37,566 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=2829&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:38,166 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=2829&dcontent=situation -> found 11 candidate files
+2025-11-16 18:52:38,211 - INFO - Processing disease: TB Total
+2025-11-16 18:52:38,548 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=323334&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:38,873 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=323334&dcontent=situation -> found 11 candidate files
+2025-11-16 18:52:38,905 - INFO - Processing disease: STI Total
+2025-11-16 18:52:39,226 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=37383940417980&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:39,557 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=37383940417980&dcontent=situation -> found 11 candidate files
+2025-11-16 18:52:39,596 - INFO - Processing disease: Chancroid
+2025-11-16 18:52:39,940 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=40&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:40,254 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=40&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:40,285 - INFO - Processing disease: Condyloma Acuminata
+2025-11-16 18:52:40,592 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=80&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:40,922 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=80&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:40,950 - INFO - Processing disease: Genital Herpes Simplex
+2025-11-16 18:52:41,283 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=79&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:41,591 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=79&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:41,626 - INFO - Processing disease: Gonorrhoea
+2025-11-16 18:52:41,922 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=38&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:42,250 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=38&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:42,279 - INFO - Processing disease: L.G.V.&other&unsp.V.D
+2025-11-16 18:52:42,597 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=41&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:43,960 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=41&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:43,992 - INFO - Processing disease: N.S.U./V
+2025-11-16 18:52:44,302 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=39&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:44,691 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=39&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:44,717 - INFO - Processing disease: Other STI
+2025-11-16 18:52:45,009 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=81&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:45,355 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=81&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:45,388 - INFO - Processing disease: Syphilis
+2025-11-16 18:52:45,730 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=37&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:46,043 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=37&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:46,068 - INFO - Processing disease: Anthrax
+2025-11-16 18:52:46,390 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=45&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:46,729 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=45&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:46,756 - INFO - Processing disease: Avian Influenza
+2025-11-16 18:52:47,094 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=91&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:47,496 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=91&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:47,528 - INFO - Processing disease: Botulism
+2025-11-16 18:52:47,854 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=85&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:48,168 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=85&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:48,194 - INFO - Processing disease: Brucellosis
+2025-11-16 18:52:48,528 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=83&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:48,836 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=83&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:48,863 - INFO - Processing disease: Chickenpox
+2025-11-16 18:52:50,311 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=17&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:50,637 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=17&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:50,669 - INFO - Processing disease: Chikungunya
+2025-11-16 18:52:51,014 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=84&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:51,346 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=84&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:51,374 - INFO - Processing disease: Cholera
+2025-11-16 18:52:51,673 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=01&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:52,036 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=01&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:52,062 - INFO - Processing disease: D.H.F
+2025-11-16 18:52:52,389 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=26&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:52,791 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=26&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:52,823 - INFO - Processing disease: D.H.F.shock syndrome
+2025-11-16 18:52:53,166 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=27&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:53,505 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=27&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:53,535 - INFO - Processing disease: Dengue fever
+2025-11-16 18:52:53,860 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=66&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:54,210 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=66&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:54,237 - INFO - Processing disease: Diphtheria
+2025-11-16 18:52:54,563 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=23&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:55,279 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=23&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:55,312 - INFO - Processing disease: Dysentery,Amoebic
+2025-11-16 18:52:55,643 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=06&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:55,965 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=06&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:55,994 - INFO - Processing disease: Dysentery,Bacillary
+2025-11-16 18:52:56,334 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=05&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:56,687 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=05&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:56,714 - INFO - Processing disease: Encephalitis uns
+2025-11-16 18:52:57,047 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=28&dcontent=old -> found 148 candidate files
+2025-11-16 18:52:57,396 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=28&dcontent=situation -> found 13 candidate files
+2025-11-16 18:52:57,433 - INFO - Processing disease: Enterovirus Fever
+2025-11-16 18:52:57,752 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=90&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:58,091 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=90&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:58,119 - INFO - Processing disease: Eosinophilic Meningitis
+2025-11-16 18:52:58,419 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=55&dcontent=old -> found 147 candidate files
+2025-11-16 18:52:58,738 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=55&dcontent=situation -> found 12 candidate files
+2025-11-16 18:52:58,765 - INFO - Processing disease: Filariasis
+2025-11-16 18:52:59,111 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=76&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:02,549 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=76&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:02,575 - INFO - Processing disease: Food_Poisoning
+2025-11-16 18:53:02,908 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=03&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:07,423 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=03&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:07,450 - INFO - Processing disease: Genital Molluscum Contagiosum
+2025-11-16 18:53:10,855 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=89&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:11,190 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=89&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:11,222 - INFO - Processing disease: HepatitisA
+2025-11-16 18:53:14,615 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=11&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:23,000 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=11&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:23,029 - INFO - Processing disease: HepatitisB
+2025-11-16 18:53:26,614 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=12&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:26,949 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=12&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:26,975 - INFO - Processing disease: HepatitisC
+2025-11-16 18:53:27,344 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=13&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:27,660 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=13&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:27,691 - INFO - Processing disease: HepatitisD
+2025-11-16 18:53:28,046 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=69&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:28,382 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=69&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:28,411 - INFO - Processing disease: HepatitisE
+2025-11-16 18:53:28,742 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=70&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:29,065 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=70&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:29,093 - INFO - Processing disease: Hepatitis_uns
+2025-11-16 18:53:29,396 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=10&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:29,714 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=10&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:29,739 - INFO - Processing disease: HFM
+2025-11-16 18:53:30,046 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=71&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:31,464 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=71&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:31,512 - INFO - Processing disease: Influenza
+2025-11-16 18:53:31,820 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=15&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:32,140 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=15&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:32,175 - INFO - Processing disease: Japanese B encephalitis
+2025-11-16 18:53:32,516 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=29&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:32,882 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=29&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:32,914 - INFO - Processing disease: Kala azar
+2025-11-16 18:53:33,225 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=68&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:33,584 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=68&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:33,620 - INFO - Processing disease: Leprosy
+2025-11-16 18:53:33,939 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=35&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:34,236 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=35&dcontent=situation -> found 11 candidate files
+2025-11-16 18:53:34,276 - INFO - Processing disease: Leptospirosis
+2025-11-16 18:53:34,602 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=43&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:34,921 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=43&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:34,950 - INFO - Processing disease: Liver fluke
+2025-11-16 18:53:35,273 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=75&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:36,791 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=75&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:36,827 - INFO - Processing disease: Malaria
+2025-11-16 18:53:37,313 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=30&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:37,639 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=30&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:37,673 - INFO - Processing disease: Measles
+2025-11-16 18:53:38,050 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=21&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:38,374 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=21&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:38,401 - INFO - Processing disease: Measles c Complication
+2025-11-16 18:53:38,722 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=22&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:39,054 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=22&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:39,086 - INFO - Processing disease: Melioidosis
+2025-11-16 18:53:39,891 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=72&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:40,207 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=72&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:40,238 - INFO - Processing disease: Meningitis,uns
+2025-11-16 18:53:40,711 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=54&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:41,008 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=54&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:41,042 - INFO - Processing disease: Meningococcal Meningitis
+2025-11-16 18:53:41,432 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=19&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:41,791 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=19&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:41,818 - INFO - Processing disease: Mumps
+2025-11-16 18:53:42,135 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=52&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:42,462 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=52&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:42,490 - INFO - Processing disease: Mushroom poisoning
+2025-11-16 18:53:42,845 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=58&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:46,256 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=58&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:46,294 - INFO - Processing disease: Paratyphoid
+2025-11-16 18:53:49,668 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=09&dcontent=old -> found 148 candidate files
+2025-11-16 18:53:49,999 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=09&dcontent=situation -> found 13 candidate files
+2025-11-16 18:53:50,032 - INFO - Processing disease: Pediculosis Pubis
+2025-11-16 18:53:50,359 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=88&dcontent=old -> found 147 candidate files
+2025-11-16 18:53:56,980 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=88&dcontent=situation -> found 12 candidate files
+2025-11-16 18:53:57,005 - INFO - Processing disease: Pertussis
+2025-11-16 18:54:10,392 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=24&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:10,711 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=24&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:10,755 - INFO - Processing disease: Pneumonia
+2025-11-16 18:54:11,128 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=31&dcontent=old -> found 170 candidate files
+2025-11-16 18:54:18,111 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=31&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:18,144 - INFO - Processing disease: Poliomyelitis
+2025-11-16 18:54:28,637 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=20&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:29,336 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=20&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:29,375 - INFO - Processing disease: Pulmonary T.B
+2025-11-16 18:54:29,704 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=32&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:30,320 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=32&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:30,358 - INFO - Processing disease: Rabies
+2025-11-16 18:54:30,652 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=42&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:30,951 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=42&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:30,981 - INFO - Processing disease: Rubella
+2025-11-16 18:54:31,323 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=16&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:31,638 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=16&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:31,672 - INFO - Processing disease: Scarlet fever
+2025-11-16 18:54:31,980 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=74&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:32,322 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=74&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:32,351 - INFO - Processing disease: Scrub Typhus
+2025-11-16 18:54:32,659 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=44&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:32,963 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=44&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:32,998 - INFO - Processing disease: Streptococcus suis
+2025-11-16 18:54:33,323 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=82&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:33,668 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=82&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:33,702 - INFO - Processing disease: T.B. other organs
+2025-11-16 18:54:34,078 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=34&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:34,488 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=34&dcontent=situation -> found 11 candidate files
+2025-11-16 18:54:34,518 - INFO - Processing disease: T.B.meningitis
+2025-11-16 18:54:34,829 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=33&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:35,181 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=33&dcontent=situation -> found 11 candidate files
+2025-11-16 18:54:35,220 - INFO - Processing disease: Tetanus exc.Neo
+2025-11-16 18:54:35,626 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=25&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:35,964 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=25&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:36,002 - INFO - Processing disease: Tetanus neonatorum
+2025-11-16 18:54:36,340 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=53&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:36,688 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=53&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:36,723 - INFO - Processing disease: Trichinosis
+2025-11-16 18:54:37,048 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=46&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:37,343 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=46&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:37,386 - INFO - Processing disease: Typhoid
+2025-11-16 18:54:37,713 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=08&dcontent=old -> found 148 candidate files
+2025-11-16 18:54:38,039 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=08&dcontent=situation -> found 13 candidate files
+2025-11-16 18:54:38,067 - INFO - Processing disease: Vaginal trichomoniasis
+2025-11-16 18:54:38,415 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=86&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:38,741 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=86&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:38,765 - INFO - Processing disease: Zika virus
+2025-11-16 18:54:39,073 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=87&dcontent=old -> found 147 candidate files
+2025-11-16 18:54:39,440 - INFO - Scanned http://doe1.moph.go.th/surdata/disease.php?ds=87&dcontent=situation -> found 12 candidate files
+2025-11-16 18:54:39,520 - INFO - Wrote 11492 rows to D:\OneDrive - work\OneDrive - MSFT\XMU\likangguo\2024\13 NIDS TH\Code\Data\SyncDataStatus.csv

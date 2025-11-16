@@ -168,44 +168,71 @@ def text_to_dataframe_mcd(data: List[List[str]], year: Optional[int], disease: s
 
 
 def fill_name_rate(col_names: List[str]) -> List[str]:
-    cleaned_names: List[str] = []
+    # Return a cleaned name for each input column. If a column isn't useful, return None.
+    cleaned_names: List[Optional[str]] = []
     for name in col_names:
         n = name.strip()
+        cleaned: Optional[str]
         if 'area' in n.lower():
-            cleaned_names.append('Areas')
+            cleaned = 'Areas'
         elif 'จำนวน' in n:
-            cleaned_names.append('Population')
+            cleaned = 'Population'
         elif 'cas' in n.lower():
-            cleaned_names.append('Cases')
+            cleaned = 'Cases'
         elif 'orbidity' in n.lower():
-            cleaned_names.append('Incidence')
+            cleaned = 'Incidence'
         elif 'dea' in n.lower():
-            cleaned_names.append('Deaths')
+            cleaned = 'Deaths'
         elif 'ortality' in n.lower():
-            cleaned_names.append('Mortality')
+            cleaned = 'Mortality'
         elif 'cfr' in n.upper():
-            cleaned_names.append('CFR')
+            cleaned = 'CFR'
         else:
-            cleaned_names.append(n)
+            # keep the original if it looks useful (contains digits/letters), else mark None
+            cleaned = n if re.search(r'[A-Za-z0-9ก-๙]', n) else None
 
-    # filter to useful columns
-    cleaned_names = [name for name in cleaned_names if name in ['Areas', 'Cases', 'Incidence', 'Deaths', 'Mortality', 'CFR', 'Population']]
+        # only keep known useful names
+        if cleaned not in ['Areas', 'Cases', 'Incidence', 'Deaths', 'Mortality', 'CFR', 'Population']:
+            cleaned = None
+
+        cleaned_names.append(cleaned)
     return cleaned_names
 
 
 def text_to_dataframe_rate(data: List[List[str]], year: Optional[int], disease: str) -> pd.DataFrame:
     if not data:
         return pd.DataFrame()
-    headers = data[0]
-    headers = fill_name_rate(headers)
-    data_rows = [row for row in data if len(row) == len(headers)]
+    original_headers = data[0]
+    cleaned_map = fill_name_rate(original_headers)
+
+    # determine which columns to keep (those with a non-None cleaned name)
+    keep_idx = [i for i, v in enumerate(cleaned_map) if v]
+    if not keep_idx:
+        return pd.DataFrame()
+
+    # build rows keeping only selected columns; tolerate rows that are at least as long as headers
+    data_rows = []
+    for row in data[1:]:
+        if len(row) < len(original_headers):
+            # skip malformed rows
+            continue
+        data_rows.append([row[i] for i in keep_idx])
+
     if not data_rows:
         return pd.DataFrame()
-    df = pd.DataFrame(data_rows, columns=headers)
-    df = df.loc[:, df.apply(lambda col: not all(x == "" for x in col))]
+
+    col_names = [cleaned_map[i] for i in keep_idx]
+    df = pd.DataFrame(data_rows, columns=col_names)
+    # drop empty columns and obvious header rows
+    df = df.loc[:, df.apply(lambda col: not all(str(x).strip() == "" for x in col))]
     df = df[~df.apply(lambda row: likely_table(list(row)), axis=1)]
     df['Year'] = year
     df['Disease'] = disease
+    # attempt numeric conversions where appropriate
+    for c in ['Cases', 'Population', 'Incidence', 'Deaths', 'Mortality']:
+        if c in df.columns:
+            df[c] = df[c].astype(str).str.replace(',', '').replace('', '0')
+            df[c] = pd.to_numeric(df[c], errors='coerce')
     return df
 
 
