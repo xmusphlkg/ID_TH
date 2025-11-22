@@ -216,7 +216,7 @@ def create_download_status(csv_in: Path, csv_out: Path):
                 remote_url = (row.get('remote_url') or '').strip()
                 if disease and file_name and remote_url:
                     logging.info("Attempting download from CSV: disease=%s file=%s tag=%s url=%s", disease, file_name, tag, remote_url)
-                    result = download_one(disease, file_name, remote_url, overwrite=True)
+                        result = download_one(disease, file_name, remote_url, overwrite=True, retries=3)
                     logging.info("Result for %s/%s -> %s", disease, file_name, result)
                 else:
                     result = 'invalid_row'

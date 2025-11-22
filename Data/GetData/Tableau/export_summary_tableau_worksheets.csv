@@ -1,0 +1,13 @@
+name,rows,path
+date,1,..\Data\GetData\Tableau\date.csv
+ipd,1,..\Data\GetData\Tableau\ipd.csv
+opd,1,..\Data\GetData\Tableau\opd.csv
+update_date,1,..\Data\GetData\Tableau\update_date.csv
+กราฟเส้น,47,..\Data\GetData\Tableau\กราฟเส_น.csv
+กลุ่มอายุ ,9,..\Data\GetData\Tableau\กล__มอาย_.csv
+จังหวัด,5,..\Data\GetData\Tableau\จ_งหว_ด.csv
+ชื่อโรค,1,..\Data\GetData\Tableau\ช__อโรค.csv
+ผู้ป่วยรายใหม่,1,..\Data\GetData\Tableau\ผ__ป_วยรายใหม_.csv
+ผู้ป่วยสะสม,1,..\Data\GetData\Tableau\ผ__ป_วยสะสม.csv
+ผู้เสียชีวิตรายใหม่,1,..\Data\GetData\Tableau\ผ__เส_ยช_ว_ตรายใหม_.csv
+เสียชีวิตสะสม,1,..\Data\GetData\Tableau\เส_ยช_ว_ตสะสม.csv
