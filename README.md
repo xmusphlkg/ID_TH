@@ -1,12 +1,10 @@
 # Introduction
 
 ## Requirements
-- Python 3.10.4
+- Python 3.12.3
 - R >= 4.3.2
 - pip 21.1.2
 - Joinpoint CMD 5200: [Application for Windows Batch/Callable Version of Joinpoint Regression Software](https://surveillance.cancer.gov/joinpoint/callable/)
-
----
 
 # Local setting
 
