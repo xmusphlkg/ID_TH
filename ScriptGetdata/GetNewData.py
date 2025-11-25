@@ -103,9 +103,9 @@ def fetch_dataframe_with_server_filters(original_ws, filter_pairs: List[Tuple[st
 
 
 
-def process_first_worksheet(url: str, output_dir: str, worksheet_index: int = 0, filename: str = "all_weekly_priority_cases.csv"):
+def process_first_worksheet(url: str, output_dir: str, worksheet_index: int = 0, filename: str = "all_weekly_priority_cases.csv", parameters: list = None):
     export_summary = []
-    t = get_worksheet(url, worksheet_index)
+    workbook, t = get_worksheet(url, worksheet_index, parameters=parameters)
     if t is None:
         return export_summary
     logging.info(f'Processing worksheet [{worksheet_index}]: {t.name}')
@@ -166,16 +166,18 @@ def process_first_worksheet(url: str, output_dir: str, worksheet_index: int = 0,
 def build_argparser():
     p = argparse.ArgumentParser(description="Fetch Tableau worksheet and export as CSV")
     p.add_argument('--url', default=DEFAULT_URL, help='Tableau dashboard URL')
-    # default output dir: repository-relative `Data/Tableau` next to this script's parent
-    default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'Tableau')
+    logging.info(f'Dashboard URL: {DEFAULT_URL}')
+    # default output dir: repository-relative `Data/GetNewData` next to this script's parent
+    default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'GetNewData')
     p.add_argument('--output-dir', default=default_output, help='Output directory for CSV')
     p.add_argument('--worksheet-index', type=int, default=0, help='Index of worksheet to process (0-based)')
     p.add_argument('--filename', default='all_weekly_priority_cases.csv', help='Output filename')
     p.add_argument('--filter', action='append', help='Filter in the form field=value1,value2 (can repeat)')
     p.add_argument('--split-by', action='append', help='Column name to split output by; will save one file per value (can repeat)')
+    p.add_argument('--years', action='append', help='Years to fetch (e.g., 2563 or 2563,2564). Can repeat.')
     return p
 
-def download_with_filters(url: str, filter_conditions: dict, output_dir: str, worksheet_index: int = 0, filename_template: str = "data_{suffix}.csv", split_by: list = None):
+def download_with_filters(url: str, filter_conditions: dict, output_dir: str, worksheet_index: int = 0, filename_template: str = "data_{suffix}.csv", split_by: list = None, parameters: list = None, save_overall: bool = True):
     """Download data from the worksheet and apply filter_conditions to the extracted DataFrame.
 
     filter_conditions: dict where keys are filter field names (as reported by t.getFilters() or DataFrame columns)
@@ -183,7 +185,7 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
     (including using RENAME_MAP where applicable) and then save a CSV for the filtered result.
     If filter_conditions is empty, this behaves like process_first_worksheet and saves the full sheet.
     """
-    t = get_worksheet(url, worksheet_index)
+    workbook, t = get_worksheet(url, worksheet_index, parameters=parameters)
     if t is None:
         return []
     logging.info(f'Processing worksheet for filtered download [{worksheet_index}]: {t.name}')
@@ -199,7 +201,7 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
         # inspect available filters from the worksheet (best-effort)
         try:
             available_filters = t.getFilters()
-            logging.info(f'Worksheet filters metadata: {available_filters}')
+            # logging.info(f'Worksheet filters metadata: {available_filters}')
         except Exception:
             available_filters = None
             logging.info('Could not retrieve worksheet filters via t.getFilters()')
@@ -259,8 +261,9 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
 
         # save the overall dataset first (suffix 'filtered' if filters provided, otherwise 'full')
         overall_suffix = 'filtered' if mapped_conditions else 'full'
-        out = save_filtered_csv(base_df, output_dir, filename_template.format(suffix=overall_suffix))
-        results.append({'name': t.name, 'filename': os.path.basename(out), 'rows': len(base_df), 'path': out})
+        if save_overall:
+            out = save_filtered_csv(base_df, output_dir, filename_template.format(suffix=overall_suffix))
+            results.append({'name': t.name, 'filename': os.path.basename(out), 'rows': len(base_df), 'path': out})
 
         # If no split requested, return after saving overall
         if not split_by:
@@ -408,8 +411,21 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
             else:
                 subset = combined.copy()
 
-            suffix = '_'.join(parts) if parts else 'all'
-            out = save_filtered_csv(subset, output_dir, filename_template.format(suffix=suffix))
+            # Build output subdirectory based on variable NAMES (one folder per split variable)
+            # e.g. output_dir/<var1>/<var2>/... and filename will be the concatenated values
+            var_names = [(name if name is not None else 'unknown') for (_k, name) in split_keys]
+            out_dir_sub = Path(output_dir)
+            for vn in var_names:
+                out_dir_sub = out_dir_sub / vn
+
+            # filename: use safe-converted value(s) only (no base filename prefix)
+            # join values with double underscore for multi-split cases
+            file_vals = [safe_filename_component(v) for v in combo]
+            fname_base = '__'.join(file_vals)
+            if not fname_base:
+                fname_base = 'all'
+            fname = f"{fname_base}.csv"
+            out = save_filtered_csv(subset, str(out_dir_sub), fname)
             results.append({'name': t.name, 'filename': os.path.basename(out), 'rows': len(subset), 'path': out})
 
         return results
@@ -419,31 +435,113 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
 
 
 def main(argv=None):
+    logging.info('----------------------------------------')
+    logging.info('Starting collection of new data from Tableau dashboard')
+
     argv = argv if argv is not None else sys.argv[1:]
     args = build_argparser().parse_args(argv)
 
     # Parse filters and decide whether to run grouped download or single worksheet
     filter_conditions = parse_filter_args(args.filter)
-    if filter_conditions or args.split_by:
-        results = download_with_filters(
-            args.url,
-            filter_conditions,
-            args.output_dir,
-            args.worksheet_index,
-            filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
-            split_by=args.split_by,
-        )
+
+    # Normalize years argument: can be repeated or comma-separated
+    years = []
+    if getattr(args, 'years', None):
+        for y in args.years:
+            for part in str(y).split(','):
+                part = part.strip()
+                if part:
+                    years.append(part)
+
+    results = []
+
+    # Retrieve workbook parameters (best-effort) to discover year parameter name/values
+    workbook, sample_ws = get_worksheet(args.url, args.worksheet_index)
+    year_param_name = None
+    year_param_column = None
+    year_param_values = None
+    try:
+        params = None
+        if workbook is not None and hasattr(workbook, 'getParameters'):
+            params = workbook.getParameters()
+        elif sample_ws is not None and hasattr(sample_ws, 'getParameters'):
+            params = sample_ws.getParameters()
+        if params:
+            # params may be a list of dicts; find an entry that references year/ปี
+            for p in params:
+                try:
+                    col = p.get('column') if isinstance(p, dict) else None
+                    pname = p.get('parameterName') if isinstance(p, dict) else None
+                    vals = p.get('values') if isinstance(p, dict) else None
+                    # prefer the human-friendly column name (e.g., 'ปี') for setting parameters
+                    if col is not None and (str(col).lower().find('ปี') >= 0 or str(col).lower().find('year') >= 0):
+                        year_param_column = col
+                        year_param_name = pname
+                        year_param_values = [str(v) for v in (vals or [])]
+                        break
+                    # fallback: pick first parameter that has values and name
+                    if year_param_name is None and (col or pname) and vals:
+                        year_param_column = col
+                        year_param_name = pname
+                        year_param_values = [str(v) for v in vals]
+                except Exception:
+                    continue
+    except Exception:
+        logging.exception('Error reading workbook parameters')
+
+    # If user didn't pass years but we discovered parameter values, default to those
+    if not years and year_param_values:
+        years = year_param_values
+
+    # If no years discovered or provided, run without per-year loop
+    if not years:
+        # Single run
+        if filter_conditions or args.split_by:
+            logging.info(f'Filter conditions: {filter_conditions}, split_by: {args.split_by}')
+            results = download_with_filters(
+                args.url,
+                filter_conditions,
+                args.output_dir,
+                args.worksheet_index,
+                filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                split_by=args.split_by,
+            )
+        else:
+            results = process_first_worksheet(args.url, args.output_dir, args.worksheet_index, args.filename)
     else:
-        # default behavior: process first worksheet and save single file
-        results = process_first_worksheet(args.url, args.output_dir, args.worksheet_index, args.filename)
+        # iterate years and save into per-year subfolders
+        logging.info(f'Running for years: {years}')
+        for y in years:
+            per_year_output = str(Path(args.output_dir) / str(y))
+            # build parameters list: prefer the parameter column (e.g., 'ปี') if available,
+            # otherwise fall back to the parameterName
+            param_identifier = year_param_column if year_param_column else year_param_name
+            params_to_apply = [(param_identifier, y)] if param_identifier else None
 
-    # Save process summary to a CSV in the output directory and print results
-    out_dir = Path(args.output_dir)
-    out_dir.mkdir(parents=True, exist_ok=True)
+            if filter_conditions or args.split_by:
+                logging.info(f'Year={y}: filters={filter_conditions}, split_by={args.split_by}')
+                # when splitting, avoid saving the overall "_full" file to prevent duplicates
+                r = download_with_filters(
+                    args.url,
+                    filter_conditions,
+                    per_year_output,
+                    args.worksheet_index,
+                    filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                    split_by=args.split_by,
+                    parameters=params_to_apply,
+                    save_overall=False if args.split_by else True,
+                )
+            else:
+                logging.info(f'Year={y}: fetching full worksheet into {per_year_output}')
+                r = process_first_worksheet(args.url, per_year_output, args.worksheet_index, args.filename, parameters=params_to_apply)
 
-    summary_df = pd.DataFrame(results)
-    summary_path = out_dir / "process_summary.csv"
-    summary_df.to_csv(summary_path, index=False)
+            results.extend(r)
+
+    # logging summary
+    for r in results:
+        logging.info(f"  Saved: {r['path']} (rows={r['rows']})")
+
+    logging.info('Data collection complete.')
 
 if __name__ == '__main__':
     main()
