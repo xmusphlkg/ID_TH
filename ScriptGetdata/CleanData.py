@@ -141,9 +141,12 @@ def text_to_dataframe_mcd(data: List[List[str]], year: Optional[int], disease: s
     headers = data[0]
     labels = data[1] if len(data) > 1 else []
     adjusted_headers = ['Areas']
+    # labels are expected to be in pairs corresponding to each header column
     for i, header in enumerate(headers[1:]):
-        left = labels[i * 2 - 2] if i * 2 - 2 >= 0 and i * 2 - 2 < len(labels) else ''
-        right = labels[i * 2 - 1] if i * 2 - 1 >= 0 and i * 2 - 1 < len(labels) else ''
+        left_idx = i * 2
+        right_idx = i * 2 + 1
+        left = labels[left_idx] if left_idx < len(labels) else ''
+        right = labels[right_idx] if right_idx < len(labels) else ''
         adjusted_headers.append(f'{header}_{left}')
         adjusted_headers.append(f'{header}_{right}')
 
@@ -154,10 +157,32 @@ def text_to_dataframe_mcd(data: List[List[str]], year: Optional[int], disease: s
     if split.shape[1] >= 2:
         df[['Month', 'Type']] = split[[0, 1]]
     else:
-        df[['Month']] = split[[0]]
+        df['Month'] = split[0]
         df['Type'] = ''
     df.drop('Period_Type', axis=1, inplace=True)
-    df['Type'] = df['Type'].apply(lambda x: 'Cases' if 'cas' in str(x).lower() else ('Deaths' if 'dea' in str(x).lower() else x))
+
+    # Normalize text fields and map known type keywords
+    df['Month'] = df['Month'].astype(str).str.strip()
+    df['Type'] = df['Type'].astype(str).str.strip()
+
+    # If 'Total' appears in the Month position (common parsing shift), move it to Type
+    mask_month_total = df['Month'].str.contains('tot', case=False, na=False)
+    if mask_month_total.any():
+        df.loc[mask_month_total & (df['Type'] == ''), 'Type'] = 'Total'
+        df.loc[mask_month_total, 'Month'] = ''
+
+    # Map common keywords to canonical Type values
+    def normalize_type(x: str) -> str:
+        lx = (x or '').lower()
+        if 'cas' in lx:
+            return 'Cases'
+        if 'dea' in lx or 'death' in lx:
+            return 'Deaths'
+        if 'tot' in lx:
+            return 'Total'
+        return x
+
+    df['Type'] = df['Type'].apply(normalize_type)
     df['Year'] = year
     df['Disease'] = disease
     df = df.dropna()
@@ -307,6 +332,5 @@ if __name__ == '__main__':
     process_mode_parallel('ad')
     process_mode_parallel('mcd')
     process_mode_parallel('rate')
-
 
 logging.info('Finished processing all rate data')

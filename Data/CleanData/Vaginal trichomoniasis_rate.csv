@@ -1,95 +1,4 @@
 Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
-Total,374,0.56,0,0.0,66486458,2019,Vaginal trichomoniasis
-ZONE:01,29,0.49,0,0.0,5891985,2019,Vaginal trichomoniasis
-Chiang Mai,11,0.62,0,0.0,1771499,2019,Vaginal trichomoniasis
-Chiang Rai,8,0.62,0,0.0,1295217,2019,Vaginal trichomoniasis
-Lampang,0,0.0,0,0.0,740600,2019,Vaginal trichomoniasis
-Lamphun,0,0.0,0,0.0,405515,2019,Vaginal trichomoniasis
-Mae Hong Son,0,0.0,0,0.0,283352,2019,Vaginal trichomoniasis
-Nan,0,0.0,0,0.0,478608,2019,Vaginal trichomoniasis
-Phayao,9,1.9,0,0.0,473786,2019,Vaginal trichomoniasis
-Phrae,1,0.23,0,0.0,443408,2019,Vaginal trichomoniasis
-ZONE:02,4,0.11,0,0.0,3570128,2019,Vaginal trichomoniasis
-Phetchabun,0,0.0,0,0.0,993496,2019,Vaginal trichomoniasis
-Phitsanulok,2,0.23,0,0.0,866068,2019,Vaginal trichomoniasis
-Sukhothai,2,0.34,0,0.0,596165,2019,Vaginal trichomoniasis
-Tak,0,0.0,0,0.0,660147,2019,Vaginal trichomoniasis
-Uttaradit,0,0.0,0,0.0,454252,2019,Vaginal trichomoniasis
-ZONE:03,54,1.81,0,0.0,2983068,2019,Vaginal trichomoniasis
-Chai Nat,0,0.0,0,0.0,327437,2019,Vaginal trichomoniasis
-Kamphaeng Phet,0,0.0,0,0.0,726836,2019,Vaginal trichomoniasis
-Nakhon Sawan,54,5.09,0,0.0,1061926,2019,Vaginal trichomoniasis
-Phichit,0,0.0,0,0.0,537843,2019,Vaginal trichomoniasis
-Uthai Thani,0,0.0,0,0.0,329026,2019,Vaginal trichomoniasis
-ZONE:04,132,2.45,0,0.0,5381695,2019,Vaginal trichomoniasis
-Ang Thong,0,0.0,0,0.0,280246,2019,Vaginal trichomoniasis
-Lop Buri,0,0.0,0,0.0,757145,2019,Vaginal trichomoniasis
-Nakhon Nayok,0,0.0,0,0.0,260421,2019,Vaginal trichomoniasis
-Nonthaburi,0,0.0,0,0.0,1255840,2019,Vaginal trichomoniasis
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,818815,2019,Vaginal trichomoniasis
-Pathum Thani,125,10.82,0,0.0,1154848,2019,Vaginal trichomoniasis
-Saraburi,7,1.08,0,0.0,645468,2019,Vaginal trichomoniasis
-Sing Buri,0,0.0,0,0.0,208912,2019,Vaginal trichomoniasis
-ZONE:05,14,0.26,0,0.0,5344807,2019,Vaginal trichomoniasis
-Kanchanaburi,0,0.0,0,0.0,894338,2019,Vaginal trichomoniasis
-Nakhon Pathom,0,0.0,0,0.0,918542,2019,Vaginal trichomoniasis
-Phetchaburi,4,0.83,0,0.0,484743,2019,Vaginal trichomoniasis
-Prachuap Khiri Khan,4,0.73,0,0.0,551466,2019,Vaginal trichomoniasis
-Ratchaburi,1,0.11,0,0.0,873310,2019,Vaginal trichomoniasis
-Samut Sakhon,5,0.86,0,0.0,581334,2019,Vaginal trichomoniasis
-Samut Songkhram,0,0.0,0,0.0,193548,2019,Vaginal trichomoniasis
-Suphan Buri,0,0.0,0,0.0,847526,2019,Vaginal trichomoniasis
-ZONE:06,5,0.08,0,0.0,6154601,2019,Vaginal trichomoniasis
-Chachoengsao,0,0.0,0,0.0,717561,2019,Vaginal trichomoniasis
-Chanthaburi,3,0.56,0,0.0,537097,2019,Vaginal trichomoniasis
-Chon Buri,0,0.0,0,0.0,1546873,2019,Vaginal trichomoniasis
-Prachin Buri,1,0.2,0,0.0,493159,2019,Vaginal trichomoniasis
-Rayong,0,0.0,0,0.0,729035,2019,Vaginal trichomoniasis
-Sa Kaeo,0,0.0,0,0.0,565198,2019,Vaginal trichomoniasis
-Samut Prakan,1,0.07,0,0.0,1335742,2019,Vaginal trichomoniasis
-Trat,0,0.0,0,0.0,229936,2019,Vaginal trichomoniasis
-ZONE:07,4,0.08,0,0.0,5057831,2019,Vaginal trichomoniasis
-Kalasin,0,0.0,0,0.0,984381,2019,Vaginal trichomoniasis
-Khon Kaen,4,0.22,0,0.0,1804384,2019,Vaginal trichomoniasis
-Maha Sarakham,0,0.0,0,0.0,962856,2019,Vaginal trichomoniasis
-Roi Et,0,0.0,0,0.0,1306210,2019,Vaginal trichomoniasis
-ZONE:08,1,0.02,0,0.0,5559986,2019,Vaginal trichomoniasis
-Bungkan,0,0.0,0,0.0,424016,2019,Vaginal trichomoniasis
-Loei,0,0.0,0,0.0,642862,2019,Vaginal trichomoniasis
-Nakhon Phanom,0,0.0,0,0.0,718961,2019,Vaginal trichomoniasis
-Nong Bua Lam Phu,0,0.0,0,0.0,512449,2019,Vaginal trichomoniasis
-Nong Khai,1,0.19,0,0.0,522207,2019,Vaginal trichomoniasis
-Sakon Nakhon,0,0.0,0,0.0,1152835,2019,Vaginal trichomoniasis
-Udon Thani,0,0.0,0,0.0,1586656,2019,Vaginal trichomoniasis
-ZONE:09,14,0.21,0,0.0,6778372,2019,Vaginal trichomoniasis
-Buri Ram,0,0.0,0,0.0,1595299,2019,Vaginal trichomoniasis
-Chaiyaphum,0,0.0,0,0.0,1138067,2019,Vaginal trichomoniasis
-Nakhon Ratchasima,14,0.53,0,0.0,2647663,2019,Vaginal trichomoniasis
-Surin,0,0.0,0,0.0,1397343,2019,Vaginal trichomoniasis
-ZONE:10,26,0.56,0,0.0,4618551,2019,Vaginal trichomoniasis
-Amnat Charoen,1,0.26,0,0.0,378530,2019,Vaginal trichomoniasis
-Mukdahan,0,0.0,0,0.0,352727,2019,Vaginal trichomoniasis
-Si Sa Ket,17,1.15,0,0.0,1472934,2019,Vaginal trichomoniasis
-Ubon Ratchathani,8,0.43,0,0.0,1876347,2019,Vaginal trichomoniasis
-Yasothon,0,0.0,0,0.0,538013,2019,Vaginal trichomoniasis
-ZONE:11,0,0.0,0,0.0,4487837,2019,Vaginal trichomoniasis
-Chumphon,0,0.0,0,0.0,511134,2019,Vaginal trichomoniasis
-Krabi,0,0.0,0,0.0,475239,2019,Vaginal trichomoniasis
-Nakhon Si Thammarat,0,0.0,0,0.0,1561179,2019,Vaginal trichomoniasis
-Phangnga,0,0.0,0,0.0,268513,2019,Vaginal trichomoniasis
-Phuket,0,0.0,0,0.0,413397,2019,Vaginal trichomoniasis
-Ranong,0,0.0,0,0.0,192619,2019,Vaginal trichomoniasis
-Surat Thani,0,0.0,0,0.0,1065756,2019,Vaginal trichomoniasis
-ZONE:12,55,1.1,0,0.0,4986140,2019,Vaginal trichomoniasis
-Narathiwat,0,0.0,0,0.0,805248,2019,Vaginal trichomoniasis
-Pattani,0,0.0,0,0.0,721591,2019,Vaginal trichomoniasis
-Phatthalung,10,1.9,0,0.0,524955,2019,Vaginal trichomoniasis
-Satun,0,0.0,0,0.0,322580,2019,Vaginal trichomoniasis
-Songkhla,45,3.14,0,0.0,1434298,2019,Vaginal trichomoniasis
-Trang,0,0.0,0,0.0,643140,2019,Vaginal trichomoniasis
-Yala,0,0.0,0,0.0,534328,2019,Vaginal trichomoniasis
-ZONE:13,36,0.63,0,0.0,5671457,2019,Vaginal trichomoniasis
-Bangkok,36,0.63,0,0.0,5671457,2019,Vaginal trichomoniasis
 Total,372,0.56,0,0.0,66372831,2020,Vaginal trichomoniasis
 ZONE:01,29,0.49,0,0.0,5886870,2020,Vaginal trichomoniasis
 Chiang Mai,5,0.28,0,0.0,1781812,2020,Vaginal trichomoniasis
@@ -181,97 +90,6 @@ Trang,0,0.0,0,0.0,641868,2020,Vaginal trichomoniasis
 Yala,0,0.0,0,0.0,537466,2020,Vaginal trichomoniasis
 ZONE:13,45,0.8,0,0.0,5627243,2020,Vaginal trichomoniasis
 Bangkok,45,0.8,0,0.0,5627243,2020,Vaginal trichomoniasis
-Total,273,0.41,0,0.0,66179083,2021,Vaginal trichomoniasis
-ZONE:01,18,0.31,0,0.0,5875424,2021,Vaginal trichomoniasis
-Chiang Mai,4,0.22,0,0.0,1786877,2021,Vaginal trichomoniasis
-Chiang Rai,4,0.31,0,0.0,1296725,2021,Vaginal trichomoniasis
-Lampang,0,0.0,0,0.0,726821,2021,Vaginal trichomoniasis
-Lamphun,0,0.0,0,0.0,401574,2021,Vaginal trichomoniasis
-Mae Hong Son,1,0.35,0,0.0,285232,2021,Vaginal trichomoniasis
-Nan,0,0.0,0,0.0,476300,2021,Vaginal trichomoniasis
-Phayao,8,1.72,0,0.0,465930,2021,Vaginal trichomoniasis
-Phrae,1,0.23,0,0.0,435965,2021,Vaginal trichomoniasis
-ZONE:02,5,0.14,0,0.0,3536074,2021,Vaginal trichomoniasis
-Phetchabun,0,0.0,0,0.0,980156,2021,Vaginal trichomoniasis
-Phitsanulok,5,0.59,0,0.0,848432,2021,Vaginal trichomoniasis
-Sukhothai,0,0.0,0,0.0,586617,2021,Vaginal trichomoniasis
-Tak,0,0.0,0,0.0,673423,2021,Vaginal trichomoniasis
-Uttaradit,0,0.0,0,0.0,447446,2021,Vaginal trichomoniasis
-ZONE:03,53,1.81,0,0.0,2928596,2021,Vaginal trichomoniasis
-Chai Nat,0,0.0,0,0.0,321454,2021,Vaginal trichomoniasis
-Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Vaginal trichomoniasis
-Nakhon Sawan,52,5.01,0,0.0,1037668,2021,Vaginal trichomoniasis
-Phichit,0,0.0,0,0.0,530852,2021,Vaginal trichomoniasis
-Uthai Thani,1,0.31,0,0.0,325492,2021,Vaginal trichomoniasis
-ZONE:04,90,1.66,0,0.0,5411959,2021,Vaginal trichomoniasis
-Ang Thong,0,0.0,0,0.0,275673,2021,Vaginal trichomoniasis
-Lop Buri,0,0.0,0,0.0,741200,2021,Vaginal trichomoniasis
-Nakhon Nayok,0,0.0,0,0.0,260256,2021,Vaginal trichomoniasis
-Nonthaburi,0,0.0,0,0.0,1282690,2021,Vaginal trichomoniasis
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Vaginal trichomoniasis
-Pathum Thani,79,6.68,0,0.0,1183235,2021,Vaginal trichomoniasis
-Saraburi,11,1.71,0,0.0,643895,2021,Vaginal trichomoniasis
-Sing Buri,0,0.0,0,0.0,205211,2021,Vaginal trichomoniasis
-ZONE:05,24,0.45,0,0.0,5332653,2021,Vaginal trichomoniasis
-Kanchanaburi,0,0.0,0,0.0,893014,2021,Vaginal trichomoniasis
-Nakhon Pathom,0,0.0,0,0.0,921450,2021,Vaginal trichomoniasis
-Phetchaburi,6,1.24,0,0.0,482534,2021,Vaginal trichomoniasis
-Prachuap Khiri Khan,8,1.45,0,0.0,551924,2021,Vaginal trichomoniasis
-Ratchaburi,0,0.0,0,0.0,868797,2021,Vaginal trichomoniasis
-Samut Sakhon,9,1.53,0,0.0,586494,2021,Vaginal trichomoniasis
-Samut Songkhram,0,0.0,0,0.0,191447,2021,Vaginal trichomoniasis
-Suphan Buri,1,0.12,0,0.0,836993,2021,Vaginal trichomoniasis
-ZONE:06,10,0.16,0,0.0,6218594,2021,Vaginal trichomoniasis
-Chachoengsao,0,0.0,0,0.0,722448,2021,Vaginal trichomoniasis
-Chanthaburi,5,0.93,0,0.0,536058,2021,Vaginal trichomoniasis
-Chon Buri,4,0.25,0,0.0,1575278,2021,Vaginal trichomoniasis
-Prachin Buri,0,0.0,0,0.0,494498,2021,Vaginal trichomoniasis
-Rayong,0,0.0,0,0.0,746433,2021,Vaginal trichomoniasis
-Sa Kaeo,0,0.0,0,0.0,561459,2021,Vaginal trichomoniasis
-Samut Prakan,1,0.07,0,0.0,1353964,2021,Vaginal trichomoniasis
-Trat,0,0.0,0,0.0,228456,2021,Vaginal trichomoniasis
-ZONE:07,1,0.02,0,0.0,5017381,2021,Vaginal trichomoniasis
-Kalasin,0,0.0,0,0.0,976373,2021,Vaginal trichomoniasis
-Khon Kaen,0,0.0,0,0.0,1792697,2021,Vaginal trichomoniasis
-Maha Sarakham,1,0.11,0,0.0,950985,2021,Vaginal trichomoniasis
-Roi Et,0,0.0,0,0.0,1297326,2021,Vaginal trichomoniasis
-ZONE:08,0,0.0,0,0.0,5518109,2021,Vaginal trichomoniasis
-Bungkan,0,0.0,0,0.0,422019,2021,Vaginal trichomoniasis
-Loei,0,0.0,0,0.0,638734,2021,Vaginal trichomoniasis
-Nakhon Phanom,0,0.0,0,0.0,717121,2021,Vaginal trichomoniasis
-Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Vaginal trichomoniasis
-Nong Khai,0,0.0,0,0.0,517140,2021,Vaginal trichomoniasis
-Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Vaginal trichomoniasis
-Udon Thani,0,0.0,0,0.0,1567247,2021,Vaginal trichomoniasis
-ZONE:09,7,0.1,0,0.0,6714997,2021,Vaginal trichomoniasis
-Buri Ram,0,0.0,0,0.0,1580495,2021,Vaginal trichomoniasis
-Chaiyaphum,0,0.0,0,0.0,1123595,2021,Vaginal trichomoniasis
-Nakhon Ratchasima,6,0.23,0,0.0,2633681,2021,Vaginal trichomoniasis
-Surin,1,0.07,0,0.0,1377226,2021,Vaginal trichomoniasis
-ZONE:10,11,0.24,0,0.0,4587095,2021,Vaginal trichomoniasis
-Amnat Charoen,0,0.0,0,0.0,376273,2021,Vaginal trichomoniasis
-Mukdahan,0,0.0,0,0.0,351198,2021,Vaginal trichomoniasis
-Si Sa Ket,10,0.69,0,0.0,1458068,2021,Vaginal trichomoniasis
-Ubon Ratchathani,1,0.05,0,0.0,1867608,2021,Vaginal trichomoniasis
-Yasothon,0,0.0,0,0.0,533948,2021,Vaginal trichomoniasis
-ZONE:11,1,0.02,0,0.0,4487259,2021,Vaginal trichomoniasis
-Chumphon,0,0.0,0,0.0,509344,2021,Vaginal trichomoniasis
-Krabi,0,0.0,0,0.0,478561,2021,Vaginal trichomoniasis
-Nakhon Si Thammarat,1,0.06,0,0.0,1550033,2021,Vaginal trichomoniasis
-Phangnga,0,0.0,0,0.0,268123,2021,Vaginal trichomoniasis
-Phuket,0,0.0,0,0.0,416629,2021,Vaginal trichomoniasis
-Ranong,0,0.0,0,0.0,194473,2021,Vaginal trichomoniasis
-Surat Thani,0,0.0,0,0.0,1070096,2021,Vaginal trichomoniasis
-ZONE:12,17,0.34,0,0.0,4992834,2021,Vaginal trichomoniasis
-Narathiwat,0,0.0,0,0.0,807045,2021,Vaginal trichomoniasis
-Pattani,0,0.0,0,0.0,727799,2021,Vaginal trichomoniasis
-Phatthalung,11,2.1,0,0.0,522810,2021,Vaginal trichomoniasis
-Satun,0,0.0,0,0.0,324467,2021,Vaginal trichomoniasis
-Songkhla,6,0.42,0,0.0,1430073,2021,Vaginal trichomoniasis
-Trang,0,0.0,0,0.0,640182,2021,Vaginal trichomoniasis
-Yala,0,0.0,0,0.0,540458,2021,Vaginal trichomoniasis
-ZONE:13,36,0.65,0,0.0,5558108,2021,Vaginal trichomoniasis
-Bangkok,36,0.65,0,0.0,5558108,2021,Vaginal trichomoniasis
 Total,1020,1.54,0,0.0,66171439,2022,Vaginal trichomoniasis
 ZONE:01,502,8.55,0,0.0,5874503,2022,Vaginal trichomoniasis
 Chiang Mai,42,2.35,0,0.0,1789385,2022,Vaginal trichomoniasis
@@ -454,6 +272,188 @@ Trang,0,0.0,0,0.0,638997,2023,Vaginal trichomoniasis
 Yala,0,0.0,0,0.0,544114,2023,Vaginal trichomoniasis
 ZONE:13,51,0.93,0,0.0,5511463,2023,Vaginal trichomoniasis
 Bangkok,51,0.93,0,0.0,5511463,2023,Vaginal trichomoniasis
+Total,374,0.56,0,0.0,66486458,2019,Vaginal trichomoniasis
+ZONE:01,29,0.49,0,0.0,5891985,2019,Vaginal trichomoniasis
+Chiang Mai,11,0.62,0,0.0,1771499,2019,Vaginal trichomoniasis
+Chiang Rai,8,0.62,0,0.0,1295217,2019,Vaginal trichomoniasis
+Lampang,0,0.0,0,0.0,740600,2019,Vaginal trichomoniasis
+Lamphun,0,0.0,0,0.0,405515,2019,Vaginal trichomoniasis
+Mae Hong Son,0,0.0,0,0.0,283352,2019,Vaginal trichomoniasis
+Nan,0,0.0,0,0.0,478608,2019,Vaginal trichomoniasis
+Phayao,9,1.9,0,0.0,473786,2019,Vaginal trichomoniasis
+Phrae,1,0.23,0,0.0,443408,2019,Vaginal trichomoniasis
+ZONE:02,4,0.11,0,0.0,3570128,2019,Vaginal trichomoniasis
+Phetchabun,0,0.0,0,0.0,993496,2019,Vaginal trichomoniasis
+Phitsanulok,2,0.23,0,0.0,866068,2019,Vaginal trichomoniasis
+Sukhothai,2,0.34,0,0.0,596165,2019,Vaginal trichomoniasis
+Tak,0,0.0,0,0.0,660147,2019,Vaginal trichomoniasis
+Uttaradit,0,0.0,0,0.0,454252,2019,Vaginal trichomoniasis
+ZONE:03,54,1.81,0,0.0,2983068,2019,Vaginal trichomoniasis
+Chai Nat,0,0.0,0,0.0,327437,2019,Vaginal trichomoniasis
+Kamphaeng Phet,0,0.0,0,0.0,726836,2019,Vaginal trichomoniasis
+Nakhon Sawan,54,5.09,0,0.0,1061926,2019,Vaginal trichomoniasis
+Phichit,0,0.0,0,0.0,537843,2019,Vaginal trichomoniasis
+Uthai Thani,0,0.0,0,0.0,329026,2019,Vaginal trichomoniasis
+ZONE:04,132,2.45,0,0.0,5381695,2019,Vaginal trichomoniasis
+Ang Thong,0,0.0,0,0.0,280246,2019,Vaginal trichomoniasis
+Lop Buri,0,0.0,0,0.0,757145,2019,Vaginal trichomoniasis
+Nakhon Nayok,0,0.0,0,0.0,260421,2019,Vaginal trichomoniasis
+Nonthaburi,0,0.0,0,0.0,1255840,2019,Vaginal trichomoniasis
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,818815,2019,Vaginal trichomoniasis
+Pathum Thani,125,10.82,0,0.0,1154848,2019,Vaginal trichomoniasis
+Saraburi,7,1.08,0,0.0,645468,2019,Vaginal trichomoniasis
+Sing Buri,0,0.0,0,0.0,208912,2019,Vaginal trichomoniasis
+ZONE:05,14,0.26,0,0.0,5344807,2019,Vaginal trichomoniasis
+Kanchanaburi,0,0.0,0,0.0,894338,2019,Vaginal trichomoniasis
+Nakhon Pathom,0,0.0,0,0.0,918542,2019,Vaginal trichomoniasis
+Phetchaburi,4,0.83,0,0.0,484743,2019,Vaginal trichomoniasis
+Prachuap Khiri Khan,4,0.73,0,0.0,551466,2019,Vaginal trichomoniasis
+Ratchaburi,1,0.11,0,0.0,873310,2019,Vaginal trichomoniasis
+Samut Sakhon,5,0.86,0,0.0,581334,2019,Vaginal trichomoniasis
+Samut Songkhram,0,0.0,0,0.0,193548,2019,Vaginal trichomoniasis
+Suphan Buri,0,0.0,0,0.0,847526,2019,Vaginal trichomoniasis
+ZONE:06,5,0.08,0,0.0,6154601,2019,Vaginal trichomoniasis
+Chachoengsao,0,0.0,0,0.0,717561,2019,Vaginal trichomoniasis
+Chanthaburi,3,0.56,0,0.0,537097,2019,Vaginal trichomoniasis
+Chon Buri,0,0.0,0,0.0,1546873,2019,Vaginal trichomoniasis
+Prachin Buri,1,0.2,0,0.0,493159,2019,Vaginal trichomoniasis
+Rayong,0,0.0,0,0.0,729035,2019,Vaginal trichomoniasis
+Sa Kaeo,0,0.0,0,0.0,565198,2019,Vaginal trichomoniasis
+Samut Prakan,1,0.07,0,0.0,1335742,2019,Vaginal trichomoniasis
+Trat,0,0.0,0,0.0,229936,2019,Vaginal trichomoniasis
+ZONE:07,4,0.08,0,0.0,5057831,2019,Vaginal trichomoniasis
+Kalasin,0,0.0,0,0.0,984381,2019,Vaginal trichomoniasis
+Khon Kaen,4,0.22,0,0.0,1804384,2019,Vaginal trichomoniasis
+Maha Sarakham,0,0.0,0,0.0,962856,2019,Vaginal trichomoniasis
+Roi Et,0,0.0,0,0.0,1306210,2019,Vaginal trichomoniasis
+ZONE:08,1,0.02,0,0.0,5559986,2019,Vaginal trichomoniasis
+Bungkan,0,0.0,0,0.0,424016,2019,Vaginal trichomoniasis
+Loei,0,0.0,0,0.0,642862,2019,Vaginal trichomoniasis
+Nakhon Phanom,0,0.0,0,0.0,718961,2019,Vaginal trichomoniasis
+Nong Bua Lam Phu,0,0.0,0,0.0,512449,2019,Vaginal trichomoniasis
+Nong Khai,1,0.19,0,0.0,522207,2019,Vaginal trichomoniasis
+Sakon Nakhon,0,0.0,0,0.0,1152835,2019,Vaginal trichomoniasis
+Udon Thani,0,0.0,0,0.0,1586656,2019,Vaginal trichomoniasis
+ZONE:09,14,0.21,0,0.0,6778372,2019,Vaginal trichomoniasis
+Buri Ram,0,0.0,0,0.0,1595299,2019,Vaginal trichomoniasis
+Chaiyaphum,0,0.0,0,0.0,1138067,2019,Vaginal trichomoniasis
+Nakhon Ratchasima,14,0.53,0,0.0,2647663,2019,Vaginal trichomoniasis
+Surin,0,0.0,0,0.0,1397343,2019,Vaginal trichomoniasis
+ZONE:10,26,0.56,0,0.0,4618551,2019,Vaginal trichomoniasis
+Amnat Charoen,1,0.26,0,0.0,378530,2019,Vaginal trichomoniasis
+Mukdahan,0,0.0,0,0.0,352727,2019,Vaginal trichomoniasis
+Si Sa Ket,17,1.15,0,0.0,1472934,2019,Vaginal trichomoniasis
+Ubon Ratchathani,8,0.43,0,0.0,1876347,2019,Vaginal trichomoniasis
+Yasothon,0,0.0,0,0.0,538013,2019,Vaginal trichomoniasis
+ZONE:11,0,0.0,0,0.0,4487837,2019,Vaginal trichomoniasis
+Chumphon,0,0.0,0,0.0,511134,2019,Vaginal trichomoniasis
+Krabi,0,0.0,0,0.0,475239,2019,Vaginal trichomoniasis
+Nakhon Si Thammarat,0,0.0,0,0.0,1561179,2019,Vaginal trichomoniasis
+Phangnga,0,0.0,0,0.0,268513,2019,Vaginal trichomoniasis
+Phuket,0,0.0,0,0.0,413397,2019,Vaginal trichomoniasis
+Ranong,0,0.0,0,0.0,192619,2019,Vaginal trichomoniasis
+Surat Thani,0,0.0,0,0.0,1065756,2019,Vaginal trichomoniasis
+ZONE:12,55,1.1,0,0.0,4986140,2019,Vaginal trichomoniasis
+Narathiwat,0,0.0,0,0.0,805248,2019,Vaginal trichomoniasis
+Pattani,0,0.0,0,0.0,721591,2019,Vaginal trichomoniasis
+Phatthalung,10,1.9,0,0.0,524955,2019,Vaginal trichomoniasis
+Satun,0,0.0,0,0.0,322580,2019,Vaginal trichomoniasis
+Songkhla,45,3.14,0,0.0,1434298,2019,Vaginal trichomoniasis
+Trang,0,0.0,0,0.0,643140,2019,Vaginal trichomoniasis
+Yala,0,0.0,0,0.0,534328,2019,Vaginal trichomoniasis
+ZONE:13,36,0.63,0,0.0,5671457,2019,Vaginal trichomoniasis
+Bangkok,36,0.63,0,0.0,5671457,2019,Vaginal trichomoniasis
+Total,273,0.41,0,0.0,66179083,2021,Vaginal trichomoniasis
+ZONE:01,18,0.31,0,0.0,5875424,2021,Vaginal trichomoniasis
+Chiang Mai,4,0.22,0,0.0,1786877,2021,Vaginal trichomoniasis
+Chiang Rai,4,0.31,0,0.0,1296725,2021,Vaginal trichomoniasis
+Lampang,0,0.0,0,0.0,726821,2021,Vaginal trichomoniasis
+Lamphun,0,0.0,0,0.0,401574,2021,Vaginal trichomoniasis
+Mae Hong Son,1,0.35,0,0.0,285232,2021,Vaginal trichomoniasis
+Nan,0,0.0,0,0.0,476300,2021,Vaginal trichomoniasis
+Phayao,8,1.72,0,0.0,465930,2021,Vaginal trichomoniasis
+Phrae,1,0.23,0,0.0,435965,2021,Vaginal trichomoniasis
+ZONE:02,5,0.14,0,0.0,3536074,2021,Vaginal trichomoniasis
+Phetchabun,0,0.0,0,0.0,980156,2021,Vaginal trichomoniasis
+Phitsanulok,5,0.59,0,0.0,848432,2021,Vaginal trichomoniasis
+Sukhothai,0,0.0,0,0.0,586617,2021,Vaginal trichomoniasis
+Tak,0,0.0,0,0.0,673423,2021,Vaginal trichomoniasis
+Uttaradit,0,0.0,0,0.0,447446,2021,Vaginal trichomoniasis
+ZONE:03,53,1.81,0,0.0,2928596,2021,Vaginal trichomoniasis
+Chai Nat,0,0.0,0,0.0,321454,2021,Vaginal trichomoniasis
+Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Vaginal trichomoniasis
+Nakhon Sawan,52,5.01,0,0.0,1037668,2021,Vaginal trichomoniasis
+Phichit,0,0.0,0,0.0,530852,2021,Vaginal trichomoniasis
+Uthai Thani,1,0.31,0,0.0,325492,2021,Vaginal trichomoniasis
+ZONE:04,90,1.66,0,0.0,5411959,2021,Vaginal trichomoniasis
+Ang Thong,0,0.0,0,0.0,275673,2021,Vaginal trichomoniasis
+Lop Buri,0,0.0,0,0.0,741200,2021,Vaginal trichomoniasis
+Nakhon Nayok,0,0.0,0,0.0,260256,2021,Vaginal trichomoniasis
+Nonthaburi,0,0.0,0,0.0,1282690,2021,Vaginal trichomoniasis
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Vaginal trichomoniasis
+Pathum Thani,79,6.68,0,0.0,1183235,2021,Vaginal trichomoniasis
+Saraburi,11,1.71,0,0.0,643895,2021,Vaginal trichomoniasis
+Sing Buri,0,0.0,0,0.0,205211,2021,Vaginal trichomoniasis
+ZONE:05,24,0.45,0,0.0,5332653,2021,Vaginal trichomoniasis
+Kanchanaburi,0,0.0,0,0.0,893014,2021,Vaginal trichomoniasis
+Nakhon Pathom,0,0.0,0,0.0,921450,2021,Vaginal trichomoniasis
+Phetchaburi,6,1.24,0,0.0,482534,2021,Vaginal trichomoniasis
+Prachuap Khiri Khan,8,1.45,0,0.0,551924,2021,Vaginal trichomoniasis
+Ratchaburi,0,0.0,0,0.0,868797,2021,Vaginal trichomoniasis
+Samut Sakhon,9,1.53,0,0.0,586494,2021,Vaginal trichomoniasis
+Samut Songkhram,0,0.0,0,0.0,191447,2021,Vaginal trichomoniasis
+Suphan Buri,1,0.12,0,0.0,836993,2021,Vaginal trichomoniasis
+ZONE:06,10,0.16,0,0.0,6218594,2021,Vaginal trichomoniasis
+Chachoengsao,0,0.0,0,0.0,722448,2021,Vaginal trichomoniasis
+Chanthaburi,5,0.93,0,0.0,536058,2021,Vaginal trichomoniasis
+Chon Buri,4,0.25,0,0.0,1575278,2021,Vaginal trichomoniasis
+Prachin Buri,0,0.0,0,0.0,494498,2021,Vaginal trichomoniasis
+Rayong,0,0.0,0,0.0,746433,2021,Vaginal trichomoniasis
+Sa Kaeo,0,0.0,0,0.0,561459,2021,Vaginal trichomoniasis
+Samut Prakan,1,0.07,0,0.0,1353964,2021,Vaginal trichomoniasis
+Trat,0,0.0,0,0.0,228456,2021,Vaginal trichomoniasis
+ZONE:07,1,0.02,0,0.0,5017381,2021,Vaginal trichomoniasis
+Kalasin,0,0.0,0,0.0,976373,2021,Vaginal trichomoniasis
+Khon Kaen,0,0.0,0,0.0,1792697,2021,Vaginal trichomoniasis
+Maha Sarakham,1,0.11,0,0.0,950985,2021,Vaginal trichomoniasis
+Roi Et,0,0.0,0,0.0,1297326,2021,Vaginal trichomoniasis
+ZONE:08,0,0.0,0,0.0,5518109,2021,Vaginal trichomoniasis
+Bungkan,0,0.0,0,0.0,422019,2021,Vaginal trichomoniasis
+Loei,0,0.0,0,0.0,638734,2021,Vaginal trichomoniasis
+Nakhon Phanom,0,0.0,0,0.0,717121,2021,Vaginal trichomoniasis
+Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Vaginal trichomoniasis
+Nong Khai,0,0.0,0,0.0,517140,2021,Vaginal trichomoniasis
+Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Vaginal trichomoniasis
+Udon Thani,0,0.0,0,0.0,1567247,2021,Vaginal trichomoniasis
+ZONE:09,7,0.1,0,0.0,6714997,2021,Vaginal trichomoniasis
+Buri Ram,0,0.0,0,0.0,1580495,2021,Vaginal trichomoniasis
+Chaiyaphum,0,0.0,0,0.0,1123595,2021,Vaginal trichomoniasis
+Nakhon Ratchasima,6,0.23,0,0.0,2633681,2021,Vaginal trichomoniasis
+Surin,1,0.07,0,0.0,1377226,2021,Vaginal trichomoniasis
+ZONE:10,11,0.24,0,0.0,4587095,2021,Vaginal trichomoniasis
+Amnat Charoen,0,0.0,0,0.0,376273,2021,Vaginal trichomoniasis
+Mukdahan,0,0.0,0,0.0,351198,2021,Vaginal trichomoniasis
+Si Sa Ket,10,0.69,0,0.0,1458068,2021,Vaginal trichomoniasis
+Ubon Ratchathani,1,0.05,0,0.0,1867608,2021,Vaginal trichomoniasis
+Yasothon,0,0.0,0,0.0,533948,2021,Vaginal trichomoniasis
+ZONE:11,1,0.02,0,0.0,4487259,2021,Vaginal trichomoniasis
+Chumphon,0,0.0,0,0.0,509344,2021,Vaginal trichomoniasis
+Krabi,0,0.0,0,0.0,478561,2021,Vaginal trichomoniasis
+Nakhon Si Thammarat,1,0.06,0,0.0,1550033,2021,Vaginal trichomoniasis
+Phangnga,0,0.0,0,0.0,268123,2021,Vaginal trichomoniasis
+Phuket,0,0.0,0,0.0,416629,2021,Vaginal trichomoniasis
+Ranong,0,0.0,0,0.0,194473,2021,Vaginal trichomoniasis
+Surat Thani,0,0.0,0,0.0,1070096,2021,Vaginal trichomoniasis
+ZONE:12,17,0.34,0,0.0,4992834,2021,Vaginal trichomoniasis
+Narathiwat,0,0.0,0,0.0,807045,2021,Vaginal trichomoniasis
+Pattani,0,0.0,0,0.0,727799,2021,Vaginal trichomoniasis
+Phatthalung,11,2.1,0,0.0,522810,2021,Vaginal trichomoniasis
+Satun,0,0.0,0,0.0,324467,2021,Vaginal trichomoniasis
+Songkhla,6,0.42,0,0.0,1430073,2021,Vaginal trichomoniasis
+Trang,0,0.0,0,0.0,640182,2021,Vaginal trichomoniasis
+Yala,0,0.0,0,0.0,540458,2021,Vaginal trichomoniasis
+ZONE:13,36,0.65,0,0.0,5558108,2021,Vaginal trichomoniasis
+Bangkok,36,0.65,0,0.0,5558108,2021,Vaginal trichomoniasis
 Total,0,0.0,0,0.0,66071545,2024,Vaginal trichomoniasis
 ZONE:01,0,0.0,0,0.0,5857413,2024,Vaginal trichomoniasis
 Chiang Mai,0,0.0,0,0.0,1794774,2024,Vaginal trichomoniasis

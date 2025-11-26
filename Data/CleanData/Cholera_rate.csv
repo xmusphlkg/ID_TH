@@ -1,702 +1,4 @@
 Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
-Total,2130,3.41,7,0.01,62526710,2004,Cholera
-North Region,188,1.57,0,0.0,11965439,2004,Cholera
-Zone:1,156,2.73,0,0.0,5720315,2004,Cholera
-Chiang Mai,3,0.19,0,0.0,1616995,2004,Cholera
-Chiang Rai,0,0.0,0,0.0,1214659,2004,Cholera
-Lampang,151,19.16,0,0.0,788071,2004,Cholera
-Lamphun,0,0.0,0,0.0,406911,2004,Cholera
-Mae Hong Son,0,0.0,0,0.0,240988,2004,Cholera
-Nan,1,0.21,0,0.0,479968,2004,Cholera
-Phayao,1,0.2,0,0.0,494926,2004,Cholera
-Phrae,0,0.0,0,0.0,477797,2004,Cholera
-Zone:2,30,0.86,0,0.0,3480797,2004,Cholera
-Phetchabun,25,2.43,0,0.0,1026733,2004,Cholera
-Phitsanulok,0,0.0,0,0.0,854440,2004,Cholera
-Sukhothai,0,0.0,0,0.0,616536,2004,Cholera
-Tak,0,0.0,0,0.0,507296,2004,Cholera
-Uttaradit,5,1.05,0,0.0,475792,2004,Cholera
-Zone:3,2,0.07,0,0.0,2764327,2004,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,750331,2004,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1102099,2004,Cholera
-Phichit,0,0.0,0,0.0,579155,2004,Cholera
-Uthai Thani,2,0.6,0,0.0,332742,2004,Cholera
-Central Region,656,3.18,2,0.01,20631429,2004,Cholera
-Bangkok,253,4.41,2,0.03,5739370,2004,Cholera
-Zone:4,108,3.97,0,0.0,2721016,2004,Cholera
-Ang Thong,0,0.0,0,0.0,286896,2004,Cholera
-Nonthaburi,70,7.5,0,0.0,933591,2004,Cholera
-P.Nakhon S.Ayutthaya,15,2.01,0,0.0,745828,2004,Cholera
-Pathum Thani,23,3.05,0,0.0,754701,2004,Cholera
-Zone:5,12,0.62,0,0.0,1936502,2004,Cholera
-Chai Nat,0,0.0,0,0.0,345355,2004,Cholera
-Lop Buri,3,0.4,0,0.0,759000,2004,Cholera
-Saraburi,6,0.98,0,0.0,610722,2004,Cholera
-Sing Buri,3,1.35,0,0.0,221425,2004,Cholera
-Zone:6,27,0.82,0,0.0,3287786,2004,Cholera
-Kanchanaburi,1,0.12,0,0.0,803802,2004,Cholera
-Nakhon Pathom,17,2.11,0,0.0,805210,2004,Cholera
-Ratchaburi,7,0.85,0,0.0,824406,2004,Cholera
-Suphan Buri,2,0.23,0,0.0,854368,2004,Cholera
-Zone:7,183,11.53,0,0.0,1587519,2004,Cholera
-Phetchaburi,0,0.0,0,0.0,456384,2004,Cholera
-Prachuap Khiri Khan,6,1.23,0,0.0,486084,2004,Cholera
-Samut Sakhon,176,39.51,0,0.0,445443,2004,Cholera
-Samut Songkhram,1,0.5,0,0.0,199608,2004,Cholera
-Zone:8,25,0.85,0,0.0,2934598,2004,Cholera
-Chachoengsao,11,1.7,0,0.0,647967,2004,Cholera
-Nakhon Nayok,1,0.4,0,0.0,250235,2004,Cholera
-Prachin Buri,9,2.0,0,0.0,449940,2004,Cholera
-Sa Kaeo,0,0.0,0,0.0,538823,2004,Cholera
-Samut Prakan,4,0.38,0,0.0,1047633,2004,Cholera
-Zone:9,48,1.98,0,0.0,2424638,2004,Cholera
-Chanthaburi,2,0.4,0,0.0,502794,2004,Cholera
-Chon Buri,11,0.96,0,0.0,1150048,2004,Cholera
-Rayong,29,5.27,0,0.0,550310,2004,Cholera
-Trat,6,2.71,0,0.0,221486,2004,Cholera
-North-Eastern Region,495,2.31,3,0.01,21463567,2004,Cholera
-Zone:10,10,0.28,0,0.0,3549364,2004,Cholera
-Loei,1,0.16,0,0.0,617280,2004,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,497298,2004,Cholera
-Nong Khai,0,0.0,0,0.0,904499,2004,Cholera
-Udon Thani,9,0.59,0,0.0,1530287,2004,Cholera
-Zone:11,309,9.88,2,0.06,3127236,2004,Cholera
-Kalasin,0,0.0,0,0.0,982947,2004,Cholera
-Mukdahan,16,4.76,0,0.0,335819,2004,Cholera
-Nakhon Phanom,10,1.43,0,0.0,700800,2004,Cholera
-Sakon Nakhon,283,25.55,2,0.18,1107670,2004,Cholera
-Zone:12,80,1.99,0,0.0,4012215,2004,Cholera
-Khon Kaen,78,4.44,0,0.0,1756177,2004,Cholera
-Maha Sarakham,0,0.0,0,0.0,939718,2004,Cholera
-Roi Et,2,0.15,0,0.0,1316320,2004,Cholera
-Zone:13,89,1.34,1,0.02,6621384,2004,Cholera
-Buri Ram,30,1.95,0,0.0,1539135,2004,Cholera
-Chaiyaphum,1,0.09,0,0.0,1128031,2004,Cholera
-Nakhon Ratchasima,41,1.6,1,0.04,2565197,2004,Cholera
-Surin,17,1.22,0,0.0,1389021,2004,Cholera
-Zone:14,7,0.17,0,0.0,4153368,2004,Cholera
-Amnat Charoen,0,0.0,0,0.0,369071,2004,Cholera
-Si Sa Ket,1,0.07,0,0.0,1452971,2004,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1784192,2004,Cholera
-Yasothon,6,1.1,0,0.0,547134,2004,Cholera
-South Region,791,9.34,2,0.02,8466275,2004,Cholera
-Zone:15,86,5.44,0,0.0,1581379,2004,Cholera
-Chumphon,6,1.26,0,0.0,474592,2004,Cholera
-Ranong,3,1.77,0,0.0,169904,2004,Cholera
-Surat Thani,77,8.22,0,0.0,936883,2004,Cholera
-Zone:16,133,5.08,1,0.04,2619221,2004,Cholera
-Nakhon Si Thammarat,45,2.97,1,0.07,1515708,2004,Cholera
-Phatthalung,7,1.4,0,0.0,501447,2004,Cholera
-Trang,81,13.45,0,0.0,602066,2004,Cholera
-Zone:17,292,32.15,1,0.11,908170,2004,Cholera
-Krabi,23,5.96,0,0.0,386084,2004,Cholera
-Phangnga,3,1.25,0,0.0,239895,2004,Cholera
-Phuket,266,94.26,1,0.35,282191,2004,Cholera
-Zone:18,54,3.01,0,0.0,1795905,2004,Cholera
-Narathiwat,1,0.14,0,0.0,701008,2004,Cholera
-Pattani,18,2.85,0,0.0,632240,2004,Cholera
-Yala,35,7.56,0,0.0,462657,2004,Cholera
-Zone:19,226,14.47,0,0.0,1561600,2004,Cholera
-Satun,110,40.2,0,0.0,273624,2004,Cholera
-Songkhla,116,9.01,0,0.0,1287976,2004,Cholera
-Total,279,0.45,0,0.0,62195878,2005,Cholera
-North Region,208,1.75,0,0.0,11862916,2005,Cholera
-Zone:1,1,0.02,0,0.0,5729312,2005,Cholera
-Chiang Mai,1,0.06,0,0.0,1640390,2005,Cholera
-Chiang Rai,0,0.0,0,0.0,1219732,2005,Cholera
-Lampang,0,0.0,0,0.0,777827,2005,Cholera
-Lamphun,0,0.0,0,0.0,404754,2005,Cholera
-Mae Hong Son,0,0.0,0,0.0,248672,2005,Cholera
-Nan,0,0.0,0,0.0,477917,2005,Cholera
-Phayao,0,0.0,0,0.0,487616,2005,Cholera
-Phrae,0,0.0,0,0.0,472404,2005,Cholera
-Zone:2,207,6.01,0,0.0,3442642,2005,Cholera
-Phetchabun,0,0.0,0,0.0,1001820,2005,Cholera
-Phitsanulok,0,0.0,0,0.0,841248,2005,Cholera
-Sukhothai,0,0.0,0,0.0,610871,2005,Cholera
-Tak,207,39.88,0,0.0,519037,2005,Cholera
-Uttaradit,0,0.0,0,0.0,469666,2005,Cholera
-Zone:3,0,0.0,0,0.0,2690962,2005,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,727351,2005,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1077634,2005,Cholera
-Phichit,0,0.0,0,0.0,559611,2005,Cholera
-Uthai Thani,0,0.0,0,0.0,326366,2005,Cholera
-Central Region,19,0.09,0,0.0,20560399,2005,Cholera
-Bangkok,6,0.11,0,0.0,5646543,2005,Cholera
-Zone:4,1,0.04,0,0.0,2777019,2005,Cholera
-Ang Thong,0,0.0,0,0.0,283373,2005,Cholera
-Nonthaburi,0,0.0,0,0.0,957287,2005,Cholera
-P.Nakhon S.Ayutthaya,1,0.13,0,0.0,743659,2005,Cholera
-Pathum Thani,0,0.0,0,0.0,792700,2005,Cholera
-Zone:5,2,0.1,0,0.0,1909368,2005,Cholera
-Chai Nat,0,0.0,0,0.0,340812,2005,Cholera
-Lop Buri,0,0.0,0,0.0,750718,2005,Cholera
-Saraburi,2,0.33,0,0.0,598905,2005,Cholera
-Sing Buri,0,0.0,0,0.0,218933,2005,Cholera
-Zone:6,2,0.06,0,0.0,3282327,2005,Cholera
-Kanchanaburi,1,0.12,0,0.0,818218,2005,Cholera
-Nakhon Pathom,0,0.0,0,0.0,803489,2005,Cholera
-Ratchaburi,0,0.0,0,0.0,819286,2005,Cholera
-Suphan Buri,1,0.12,0,0.0,841334,2005,Cholera
-Zone:7,0,0.0,0,0.0,1578246,2005,Cholera
-Phetchaburi,0,0.0,0,0.0,452506,2005,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,483243,2005,Cholera
-Samut Sakhon,0,0.0,0,0.0,447353,2005,Cholera
-Samut Songkhram,0,0.0,0,0.0,195144,2005,Cholera
-Zone:8,4,0.14,0,0.0,2943051,2005,Cholera
-Chachoengsao,2,0.31,0,0.0,645521,2005,Cholera
-Nakhon Nayok,0,0.0,0,0.0,249686,2005,Cholera
-Prachin Buri,0,0.0,0,0.0,447783,2005,Cholera
-Sa Kaeo,0,0.0,0,0.0,536591,2005,Cholera
-Samut Prakan,2,0.19,0,0.0,1063470,2005,Cholera
-Zone:9,4,0.17,0,0.0,2423845,2005,Cholera
-Chanthaburi,1,0.2,0,0.0,496081,2005,Cholera
-Chon Buri,2,0.17,0,0.0,1157709,2005,Cholera
-Rayong,1,0.18,0,0.0,551512,2005,Cholera
-Trat,0,0.0,0,0.0,218543,2005,Cholera
-North-Eastern Region,14,0.07,0,0.0,21297778,2005,Cholera
-Zone:10,1,0.03,0,0.0,3524138,2005,Cholera
-Loei,0,0.0,0,0.0,611448,2005,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,495626,2005,Cholera
-Nong Khai,0,0.0,0,0.0,895911,2005,Cholera
-Udon Thani,1,0.07,0,0.0,1521153,2005,Cholera
-Zone:11,1,0.03,0,0.0,3101003,2005,Cholera
-Kalasin,0,0.0,0,0.0,972425,2005,Cholera
-Mukdahan,0,0.0,0,0.0,333338,2005,Cholera
-Nakhon Phanom,0,0.0,0,0.0,692377,2005,Cholera
-Sakon Nakhon,1,0.09,0,0.0,1102863,2005,Cholera
-Zone:12,2,0.05,0,0.0,3991075,2005,Cholera
-Khon Kaen,2,0.11,0,0.0,1744646,2005,Cholera
-Maha Sarakham,0,0.0,0,0.0,935967,2005,Cholera
-Roi Et,0,0.0,0,0.0,1310462,2005,Cholera
-Zone:13,9,0.14,0,0.0,6560991,2005,Cholera
-Buri Ram,0,0.0,0,0.0,1527846,2005,Cholera
-Chaiyaphum,1,0.09,0,0.0,1117026,2005,Cholera
-Nakhon Ratchasima,7,0.28,0,0.0,2543054,2005,Cholera
-Surin,1,0.07,0,0.0,1373065,2005,Cholera
-Zone:14,1,0.02,0,0.0,4120571,2005,Cholera
-Amnat Charoen,0,0.0,0,0.0,368153,2005,Cholera
-Si Sa Ket,0,0.0,0,0.0,1442190,2005,Cholera
-Ubon Ratchathani,1,0.06,0,0.0,1768935,2005,Cholera
-Yasothon,0,0.0,0,0.0,541293,2005,Cholera
-South Region,38,0.45,0,0.0,8474785,2005,Cholera
-Zone:15,35,2.2,0,0.0,1593965,2005,Cholera
-Chumphon,0,0.0,0,0.0,473916,2005,Cholera
-Ranong,35,19.75,0,0.0,177247,2005,Cholera
-Surat Thani,0,0.0,0,0.0,942802,2005,Cholera
-Zone:16,1,0.04,0,0.0,2600847,2005,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1502382,2005,Cholera
-Phatthalung,0,0.0,0,0.0,499399,2005,Cholera
-Trang,1,0.17,0,0.0,599066,2005,Cholera
-Zone:17,0,0.0,0,0.0,921037,2005,Cholera
-Krabi,0,0.0,0,0.0,391709,2005,Cholera
-Phangnga,0,0.0,0,0.0,240254,2005,Cholera
-Phuket,0,0.0,0,0.0,289074,2005,Cholera
-Zone:18,2,0.11,0,0.0,1791264,2005,Cholera
-Narathiwat,0,0.0,0,0.0,697150,2005,Cholera
-Pattani,2,0.32,0,0.0,632119,2005,Cholera
-Yala,0,0.0,0,0.0,461995,2005,Cholera
-Zone:19,0,0.0,0,0.0,1567672,2005,Cholera
-Satun,0,0.0,0,0.0,275706,2005,Cholera
-Songkhla,0,0.0,0,0.0,1291966,2005,Cholera
-Total,35,0.06,0,0.0,62623416,2006,Cholera
-North Region,0,0.0,0,0.0,11887142,2006,Cholera
-Zone:1,0,0.0,0,0.0,5748673,2006,Cholera
-Chiang Mai,0,0.0,0,0.0,1654154,2006,Cholera
-Chiang Rai,0,0.0,0,0.0,1225386,2006,Cholera
-Lampang,0,0.0,0,0.0,775259,2006,Cholera
-Lamphun,0,0.0,0,0.0,405146,2006,Cholera
-Mae Hong Son,0,0.0,0,0.0,254392,2006,Cholera
-Nan,0,0.0,0,0.0,477871,2006,Cholera
-Phayao,0,0.0,0,0.0,486554,2006,Cholera
-Phrae,0,0.0,0,0.0,469911,2006,Cholera
-Zone:2,0,0.0,0,0.0,3448091,2006,Cholera
-Phetchabun,0,0.0,0,0.0,1002388,2006,Cholera
-Phitsanulok,0,0.0,0,0.0,842739,2006,Cholera
-Sukhothai,0,0.0,0,0.0,609591,2006,Cholera
-Tak,0,0.0,0,0.0,524938,2006,Cholera
-Uttaradit,0,0.0,0,0.0,468435,2006,Cholera
-Zone:3,0,0.0,0,0.0,2690378,2006,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,728293,2006,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1076911,2006,Cholera
-Phichit,0,0.0,0,0.0,558314,2006,Cholera
-Uthai Thani,0,0.0,0,0.0,326860,2006,Cholera
-Central Region,17,0.08,0,0.0,20825142,2006,Cholera
-Bangkok,4,0.07,0,0.0,5677455,2006,Cholera
-Zone:4,0,0.0,0,0.0,2858658,2006,Cholera
-Ang Thong,0,0.0,0,0.0,283861,2006,Cholera
-Nonthaburi,0,0.0,0,0.0,985669,2006,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,750757,2006,Cholera
-Pathum Thani,0,0.0,0,0.0,838371,2006,Cholera
-Zone:5,0,0.0,0,0.0,1915186,2006,Cholera
-Chai Nat,0,0.0,0,0.0,339568,2006,Cholera
-Lop Buri,0,0.0,0,0.0,752364,2006,Cholera
-Saraburi,0,0.0,0,0.0,605897,2006,Cholera
-Sing Buri,0,0.0,0,0.0,217357,2006,Cholera
-Zone:6,1,0.03,0,0.0,3315213,2006,Cholera
-Kanchanaburi,0,0.0,0,0.0,830309,2006,Cholera
-Nakhon Pathom,0,0.0,0,0.0,815433,2006,Cholera
-Ratchaburi,0,0.0,0,0.0,826212,2006,Cholera
-Suphan Buri,1,0.12,0,0.0,843259,2006,Cholera
-Zone:7,3,0.19,0,0.0,1598232,2006,Cholera
-Phetchaburi,0,0.0,0,0.0,455332,2006,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,490607,2006,Cholera
-Samut Sakhon,3,0.66,0,0.0,457264,2006,Cholera
-Samut Songkhram,0,0.0,0,0.0,195029,2006,Cholera
-Zone:8,1,0.03,0,0.0,2983258,2006,Cholera
-Chachoengsao,0,0.0,0,0.0,650909,2006,Cholera
-Nakhon Nayok,0,0.0,0,0.0,250392,2006,Cholera
-Prachin Buri,1,0.22,0,0.0,451721,2006,Cholera
-Sa Kaeo,0,0.0,0,0.0,537661,2006,Cholera
-Samut Prakan,0,0.0,0,0.0,1092575,2006,Cholera
-Zone:9,8,0.32,0,0.0,2477140,2006,Cholera
-Chanthaburi,3,0.6,0,0.0,500275,2006,Cholera
-Chon Buri,2,0.17,0,0.0,1190861,2006,Cholera
-Rayong,3,0.53,0,0.0,566461,2006,Cholera
-Trat,0,0.0,0,0.0,219543,2006,Cholera
-North-Eastern Region,15,0.07,0,0.0,21352480,2006,Cholera
-Zone:10,0,0.0,0,0.0,3533061,2006,Cholera
-Loei,0,0.0,0,0.0,612863,2006,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,496675,2006,Cholera
-Nong Khai,0,0.0,0,0.0,897840,2006,Cholera
-Udon Thani,0,0.0,0,0.0,1525683,2006,Cholera
-Zone:11,8,0.26,0,0.0,3110390,2006,Cholera
-Kalasin,0,0.0,0,0.0,974560,2006,Cholera
-Mukdahan,0,0.0,0,0.0,334781,2006,Cholera
-Nakhon Phanom,8,1.15,0,0.0,694473,2006,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1106576,2006,Cholera
-Zone:12,2,0.05,0,0.0,3996666,2006,Cholera
-Khon Kaen,2,0.11,0,0.0,1749021,2006,Cholera
-Maha Sarakham,0,0.0,0,0.0,937285,2006,Cholera
-Roi Et,0,0.0,0,0.0,1310360,2006,Cholera
-Zone:13,5,0.08,0,0.0,6578271,2006,Cholera
-Buri Ram,0,0.0,0,0.0,1534076,2006,Cholera
-Chaiyaphum,0,0.0,0,0.0,1118040,2006,Cholera
-Nakhon Ratchasima,4,0.16,0,0.0,2551176,2006,Cholera
-Surin,1,0.07,0,0.0,1374979,2006,Cholera
-Zone:14,0,0.0,0,0.0,4134092,2006,Cholera
-Amnat Charoen,0,0.0,0,0.0,368863,2006,Cholera
-Si Sa Ket,0,0.0,0,0.0,1445230,2006,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1778922,2006,Cholera
-Yasothon,0,0.0,0,0.0,541077,2006,Cholera
-South Region,3,0.04,0,0.0,8558652,2006,Cholera
-Zone:15,0,0.0,0,0.0,1610374,2006,Cholera
-Chumphon,0,0.0,0,0.0,477364,2006,Cholera
-Ranong,0,0.0,0,0.0,178986,2006,Cholera
-Surat Thani,0,0.0,0,0.0,954024,2006,Cholera
-Zone:16,1,0.04,0,0.0,2614100,2006,Cholera
-Nakhon Si Thammarat,1,0.07,0,0.0,1507440,2006,Cholera
-Phatthalung,0,0.0,0,0.0,501912,2006,Cholera
-Trang,0,0.0,0,0.0,604748,2006,Cholera
-Zone:17,0,0.0,0,0.0,939424,2006,Cholera
-Krabi,0,0.0,0,0.0,399514,2006,Cholera
-Phangnga,0,0.0,0,0.0,243419,2006,Cholera
-Phuket,0,0.0,0,0.0,296491,2006,Cholera
-Zone:18,0,0.0,0,0.0,1805088,2006,Cholera
-Narathiwat,0,0.0,0,0.0,703848,2006,Cholera
-Pattani,0,0.0,0,0.0,635053,2006,Cholera
-Yala,0,0.0,0,0.0,466187,2006,Cholera
-Zone:19,2,0.13,0,0.0,1589666,2006,Cholera
-Satun,0,0.0,0,0.0,279705,2006,Cholera
-Songkhla,2,0.15,0,0.0,1309961,2006,Cholera
-Total,986,1.57,7,0.01,62933515,2007,Cholera
-North Region,153,1.29,0,0.0,11881352,2007,Cholera
-Zone:1,8,0.14,0,0.0,5750312,2007,Cholera
-Chiang Mai,0,0.0,0,0.0,1661349,2007,Cholera
-Chiang Rai,0,0.0,0,0.0,1225364,2007,Cholera
-Lampang,1,0.13,0,0.0,772202,2007,Cholera
-Lamphun,7,1.73,0,0.0,405361,2007,Cholera
-Mae Hong Son,0,0.0,0,0.0,254990,2007,Cholera
-Nan,0,0.0,0,0.0,477522,2007,Cholera
-Phayao,0,0.0,0,0.0,486399,2007,Cholera
-Phrae,0,0.0,0,0.0,467125,2007,Cholera
-Zone:2,138,4.0,0,0.0,3445764,2007,Cholera
-Phetchabun,1,0.1,0,0.0,999924,2007,Cholera
-Phitsanulok,1,0.12,0,0.0,843096,2007,Cholera
-Sukhothai,0,0.0,0,0.0,607061,2007,Cholera
-Tak,136,25.69,0,0.0,529303,2007,Cholera
-Uttaradit,0,0.0,0,0.0,466380,2007,Cholera
-Zone:3,7,0.26,0,0.0,2685276,2007,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,727158,2007,Cholera
-Nakhon Sawan,7,0.65,0,0.0,1074849,2007,Cholera
-Phichit,0,0.0,0,0.0,556287,2007,Cholera
-Uthai Thani,0,0.0,0,0.0,326982,2007,Cholera
-Central Region,91,0.43,1,0.0,21043273,2007,Cholera
-Bangkok,20,0.35,0,0.0,5706103,2007,Cholera
-Zone:4,27,0.92,1,0.03,2932544,2007,Cholera
-Ang Thong,1,0.35,0,0.0,284175,2007,Cholera
-Nonthaburi,1,0.1,0,0.0,1011624,2007,Cholera
-P.Nakhon S.Ayutthaya,25,3.3,1,0.13,757654,2007,Cholera
-Pathum Thani,0,0.0,0,0.0,879091,2007,Cholera
-Zone:5,6,0.31,0,0.0,1918492,2007,Cholera
-Chai Nat,0,0.0,0,0.0,338077,2007,Cholera
-Lop Buri,5,0.67,0,0.0,751298,2007,Cholera
-Saraburi,1,0.16,0,0.0,612806,2007,Cholera
-Sing Buri,0,0.0,0,0.0,216311,2007,Cholera
-Zone:6,5,0.15,0,0.0,3334732,2007,Cholera
-Kanchanaburi,1,0.12,0,0.0,834865,2007,Cholera
-Nakhon Pathom,2,0.24,0,0.0,826438,2007,Cholera
-Ratchaburi,2,0.24,0,0.0,830184,2007,Cholera
-Suphan Buri,0,0.0,0,0.0,843245,2007,Cholera
-Zone:7,27,1.68,0,0.0,1611697,2007,Cholera
-Phetchaburi,0,0.0,0,0.0,456371,2007,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,494502,2007,Cholera
-Samut Sakhon,26,5.58,0,0.0,466222,2007,Cholera
-Samut Songkhram,1,0.51,0,0.0,194602,2007,Cholera
-Zone:8,3,0.1,0,0.0,3016265,2007,Cholera
-Chachoengsao,1,0.15,0,0.0,656586,2007,Cholera
-Nakhon Nayok,0,0.0,0,0.0,249250,2007,Cholera
-Prachin Buri,0,0.0,0,0.0,454404,2007,Cholera
-Sa Kaeo,1,0.19,0,0.0,538741,2007,Cholera
-Samut Prakan,1,0.09,0,0.0,1117284,2007,Cholera
-Zone:9,3,0.12,0,0.0,2523440,2007,Cholera
-Chanthaburi,0,0.0,0,0.0,503197,2007,Cholera
-Chon Buri,1,0.08,0,0.0,1221369,2007,Cholera
-Rayong,2,0.35,0,0.0,578628,2007,Cholera
-Trat,0,0.0,0,0.0,220246,2007,Cholera
-North-Eastern Region,434,2.03,5,0.02,21381249,2007,Cholera
-Zone:10,33,0.93,2,0.06,3541793,2007,Cholera
-Loei,3,0.49,1,0.16,614421,2007,Cholera
-Nong Bua Lam Phu,1,0.2,0,0.0,497148,2007,Cholera
-Nong Khai,6,0.67,1,0.11,901100,2007,Cholera
-Udon Thani,23,1.5,0,0.0,1529124,2007,Cholera
-Zone:11,114,3.65,0,0.0,3119599,2007,Cholera
-Kalasin,33,3.38,0,0.0,976536,2007,Cholera
-Mukdahan,3,0.89,0,0.0,335778,2007,Cholera
-Nakhon Phanom,9,1.29,0,0.0,696229,2007,Cholera
-Sakon Nakhon,69,6.21,0,0.0,1111056,2007,Cholera
-Zone:12,270,6.75,3,0.08,3997622,2007,Cholera
-Khon Kaen,199,11.36,2,0.11,1751458,2007,Cholera
-Maha Sarakham,59,6.3,1,0.11,936846,2007,Cholera
-Roi Et,12,0.92,0,0.0,1309318,2007,Cholera
-Zone:13,13,0.2,0,0.0,6583974,2007,Cholera
-Buri Ram,0,0.0,0,0.0,1536396,2007,Cholera
-Chaiyaphum,12,1.07,0,0.0,1119372,2007,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2554241,2007,Cholera
-Surin,0,0.0,0,0.0,1373965,2007,Cholera
-Zone:14,4,0.1,0,0.0,4138261,2007,Cholera
-Amnat Charoen,2,0.54,0,0.0,368925,2007,Cholera
-Si Sa Ket,0,0.0,0,0.0,1444748,2007,Cholera
-Ubon Ratchathani,2,0.11,0,0.0,1784372,2007,Cholera
-Yasothon,0,0.0,0,0.0,540216,2007,Cholera
-South Region,308,3.57,1,0.01,8627641,2007,Cholera
-Zone:15,157,9.66,1,0.06,1626011,2007,Cholera
-Chumphon,9,1.87,0,0.0,480131,2007,Cholera
-Ranong,114,63.22,0,0.0,180319,2007,Cholera
-Surat Thani,34,3.52,1,0.1,965561,2007,Cholera
-Zone:16,9,0.34,0,0.0,2620564,2007,Cholera
-Nakhon Si Thammarat,8,0.53,0,0.0,1508729,2007,Cholera
-Phatthalung,0,0.0,0,0.0,502943,2007,Cholera
-Trang,1,0.16,0,0.0,608892,2007,Cholera
-Zone:17,108,11.24,0,0.0,961258,2007,Cholera
-Krabi,1,0.25,0,0.0,406999,2007,Cholera
-Phangnga,8,3.25,0,0.0,246141,2007,Cholera
-Phuket,99,32.13,0,0.0,308118,2007,Cholera
-Zone:18,23,1.27,0,0.0,1815585,2007,Cholera
-Narathiwat,3,0.42,0,0.0,709345,2007,Cholera
-Pattani,8,1.26,0,0.0,636768,2007,Cholera
-Yala,12,2.56,0,0.0,469472,2007,Cholera
-Zone:19,11,0.69,0,0.0,1604223,2007,Cholera
-Satun,1,0.35,0,0.0,283014,2007,Cholera
-Songkhla,10,0.76,0,0.0,1321209,2007,Cholera
-Total,248,0.39,3,0.0,63214022,2008,Cholera
-Central Region,29,0.14,0,0.0,21226352,2008,Cholera
-Bangkok,7,0.12,0,0.0,5713566,2008,Cholera
-Zone:1,2,0.06,0,0.0,3335057,2008,Cholera
-Nonthaburi,1,0.1,0,0.0,1038392,2008,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,764919,2008,Cholera
-Pathum Thani,1,0.11,0,0.0,913047,2008,Cholera
-Saraburi,0,0.0,0,0.0,618699,2008,Cholera
-Zone:2,1,0.06,0,0.0,1588582,2008,Cholera
-Ang Thong,0,0.0,0,0.0,284619,2008,Cholera
-Chai Nat,0,0.0,0,0.0,336550,2008,Cholera
-Lop Buri,1,0.13,0,0.0,751811,2008,Cholera
-Sing Buri,0,0.0,0,0.0,215602,2008,Cholera
-Zone:3,2,0.07,0,0.0,3046070,2008,Cholera
-Chachoengsao,1,0.15,0,0.0,661898,2008,Cholera
-Nakhon Nayok,0,0.0,0,0.0,249625,2008,Cholera
-Prachin Buri,0,0.0,0,0.0,457184,2008,Cholera
-Sa Kaeo,0,0.0,0,0.0,540281,2008,Cholera
-Samut Prakan,1,0.09,0,0.0,1137082,2008,Cholera
-Zone:4,2,0.06,0,0.0,3352570,2008,Cholera
-Kanchanaburi,0,0.0,0,0.0,838094,2008,Cholera
-Nakhon Pathom,0,0.0,0,0.0,837285,2008,Cholera
-Ratchaburi,2,0.24,0,0.0,833650,2008,Cholera
-Suphan Buri,0,0.0,0,0.0,843541,2008,Cholera
-Zone:5,11,0.68,0,0.0,1623176,2008,Cholera
-Phetchaburi,0,0.0,0,0.0,457518,2008,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,497483,2008,Cholera
-Samut Sakhon,4,0.84,0,0.0,474041,2008,Cholera
-Samut Songkhram,7,3.61,0,0.0,194134,2008,Cholera
-Zone:9,4,0.16,0,0.0,2567331,2008,Cholera
-Chanthaburi,0,0.0,0,0.0,506012,2008,Cholera
-Chon Buri,1,0.08,0,0.0,1249067,2008,Cholera
-Rayong,3,0.51,0,0.0,591067,2008,Cholera
-Trat,0,0.0,0,0.0,221185,2008,Cholera
-South Region,19,0.22,2,0.02,8698196,2008,Cholera
-Zone:6,8,0.23,2,0.06,3473895,2008,Cholera
-Chumphon,0,0.0,0,0.0,483011,2008,Cholera
-Nakhon Si Thammarat,8,0.53,2,0.13,1510081,2008,Cholera
-Phatthalung,0,0.0,0,0.0,503847,2008,Cholera
-Surat Thani,0,0.0,0,0.0,976956,2008,Cholera
-Zone:7,7,0.39,0,0.0,1778692,2008,Cholera
-Krabi,0,0.0,0,0.0,414670,2008,Cholera
-Phangnga,1,0.4,0,0.0,248411,2008,Cholera
-Phuket,0,0.0,0,0.0,321252,2008,Cholera
-Ranong,6,3.3,0,0.0,181758,2008,Cholera
-Trang,0,0.0,0,0.0,612601,2008,Cholera
-Zone:8,4,0.12,0,0.0,3445609,2008,Cholera
-Narathiwat,0,0.0,0,0.0,715724,2008,Cholera
-Pattani,1,0.16,0,0.0,639988,2008,Cholera
-Satun,0,0.0,0,0.0,286446,2008,Cholera
-Songkhla,2,0.15,0,0.0,1330342,2008,Cholera
-Yala,1,0.21,0,0.0,473109,2008,Cholera
-North-Eastern Region,8,0.04,0,0.0,21414180,2008,Cholera
-Zone:10,6,0.17,0,0.0,3553449,2008,Cholera
-Loei,0,0.0,0,0.0,616981,2008,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,498562,2008,Cholera
-Nong Khai,1,0.11,0,0.0,904748,2008,Cholera
-Udon Thani,5,0.33,0,0.0,1533158,2008,Cholera
-Zone:11,0,0.0,0,0.0,2149587,2008,Cholera
-Mukdahan,0,0.0,0,0.0,336802,2008,Cholera
-Nakhon Phanom,0,0.0,0,0.0,698235,2008,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1114550,2008,Cholera
-Zone:12,1,0.02,0,0.0,4976635,2008,Cholera
-Kalasin,0,0.0,0,0.0,978046,2008,Cholera
-Khon Kaen,1,0.06,0,0.0,1754258,2008,Cholera
-Maha Sarakham,0,0.0,0,0.0,936430,2008,Cholera
-Roi Et,0,0.0,0,0.0,1307901,2008,Cholera
-Zone:13,0,0.0,0,0.0,4141403,2008,Cholera
-Amnat Charoen,0,0.0,0,0.0,369196,2008,Cholera
-Si Sa Ket,0,0.0,0,0.0,1442212,2008,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1790581,2008,Cholera
-Yasothon,0,0.0,0,0.0,539414,2008,Cholera
-Zone:14,1,0.02,0,0.0,6593106,2008,Cholera
-Buri Ram,0,0.0,0,0.0,1538861,2008,Cholera
-Chaiyaphum,0,0.0,0,0.0,1121123,2008,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2559006,2008,Cholera
-Surin,0,0.0,0,0.0,1374116,2008,Cholera
-North Region,192,1.62,1,0.01,11875294,2008,Cholera
-Zone:15,0,0.0,0,0.0,3095362,2008,Cholera
-Chiang Mai,0,0.0,0,0.0,1667358,2008,Cholera
-Lampang,0,0.0,0,0.0,769115,2008,Cholera
-Lamphun,0,0.0,0,0.0,405141,2008,Cholera
-Mae Hong Son,0,0.0,0,0.0,253748,2008,Cholera
-Zone:16,1,0.04,0,0.0,2654508,2008,Cholera
-Chiang Rai,0,0.0,0,0.0,1226165,2008,Cholera
-Nan,1,0.21,0,0.0,476683,2008,Cholera
-Phayao,0,0.0,0,0.0,486983,2008,Cholera
-Phrae,0,0.0,0,0.0,464677,2008,Cholera
-Zone:17,191,5.55,1,0.03,3443651,2008,Cholera
-Phetchabun,0,0.0,0,0.0,996882,2008,Cholera
-Phitsanulok,0,0.0,0,0.0,842840,2008,Cholera
-Sukhothai,0,0.0,0,0.0,604559,2008,Cholera
-Tak,191,35.73,1,0.19,534629,2008,Cholera
-Uttaradit,0,0.0,0,0.0,464741,2008,Cholera
-Zone:18,0,0.0,0,0.0,2681773,2008,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,726104,2008,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1073962,2008,Cholera
-Phichit,0,0.0,0,0.0,554426,2008,Cholera
-Uthai Thani,0,0.0,0,0.0,327281,2008,Cholera
-Total,295,0.46,2,0.0,63457439,2009,Cholera
-Central Region,38,0.18,0,0.0,21386001,2009,Cholera
-Bangkok,4,0.07,0,0.0,5706739,2009,Cholera
-Zone:1,2,0.06,0,0.0,3397461,2009,Cholera
-Nonthaburi,1,0.09,0,0.0,1065332,2009,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,772142,2009,Cholera
-Pathum Thani,0,0.0,0,0.0,942813,2009,Cholera
-Saraburi,1,0.16,0,0.0,617174,2009,Cholera
-Zone:2,0,0.0,0,0.0,1590058,2009,Cholera
-Ang Thong,0,0.0,0,0.0,284819,2009,Cholera
-Chai Nat,0,0.0,0,0.0,335686,2009,Cholera
-Lop Buri,0,0.0,0,0.0,754127,2009,Cholera
-Sing Buri,0,0.0,0,0.0,215426,2009,Cholera
-Zone:3,0,0.0,0,0.0,3076347,2009,Cholera
-Chachoengsao,0,0.0,0,0.0,666907,2009,Cholera
-Nakhon Nayok,0,0.0,0,0.0,251219,2009,Cholera
-Prachin Buri,0,0.0,0,0.0,460617,2009,Cholera
-Sa Kaeo,0,0.0,0,0.0,541939,2009,Cholera
-Samut Prakan,0,0.0,0,0.0,1155665,2009,Cholera
-Zone:4,0,0.0,0,0.0,3364769,2009,Cholera
-Kanchanaburi,0,0.0,0,0.0,837165,2009,Cholera
-Nakhon Pathom,0,0.0,0,0.0,847513,2009,Cholera
-Ratchaburi,0,0.0,0,0.0,835546,2009,Cholera
-Suphan Buri,0,0.0,0,0.0,844545,2009,Cholera
-Zone:5,2,0.12,0,0.0,1637557,2009,Cholera
-Phetchaburi,0,0.0,0,0.0,460108,2009,Cholera
-Prachuap Khiri Khan,1,0.2,0,0.0,502221,2009,Cholera
-Samut Sakhon,1,0.21,0,0.0,481377,2009,Cholera
-Samut Songkhram,0,0.0,0,0.0,193851,2009,Cholera
-Zone:9,30,1.15,0,0.0,2613070,2009,Cholera
-Chanthaburi,0,0.0,0,0.0,509633,2009,Cholera
-Chon Buri,0,0.0,0,0.0,1277139,2009,Cholera
-Rayong,30,4.96,0,0.0,605380,2009,Cholera
-Trat,0,0.0,0,0.0,220918,2009,Cholera
-South Region,190,2.16,2,0.02,8777720,2009,Cholera
-Zone:6,6,0.17,0,0.0,3496373,2009,Cholera
-Chumphon,0,0.0,0,0.0,486233,2009,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1514832,2009,Cholera
-Phatthalung,6,1.18,0,0.0,506454,2009,Cholera
-Surat Thani,0,0.0,0,0.0,988854,2009,Cholera
-Zone:7,29,1.61,0,0.0,1803902,2009,Cholera
-Krabi,0,0.0,0,0.0,422631,2009,Cholera
-Phangnga,1,0.4,0,0.0,250796,2009,Cholera
-Phuket,1,0.3,0,0.0,331460,2009,Cholera
-Ranong,27,14.82,0,0.0,182242,2009,Cholera
-Trang,0,0.0,0,0.0,616773,2009,Cholera
-Zone:8,155,4.46,2,0.06,3477445,2009,Cholera
-Narathiwat,10,1.38,1,0.14,724001,2009,Cholera
-Pattani,125,19.38,1,0.16,644897,2009,Cholera
-Satun,0,0.0,0,0.0,290755,2009,Cholera
-Songkhla,12,0.9,0,0.0,1339861,2009,Cholera
-Yala,8,1.67,0,0.0,477931,2009,Cholera
-North-Eastern Region,5,0.02,0,0.0,21469269,2009,Cholera
-Zone:10,2,0.06,0,0.0,3564168,2009,Cholera
-Loei,0,0.0,0,0.0,619602,2009,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,500217,2009,Cholera
-Nong Khai,0,0.0,0,0.0,907064,2009,Cholera
-Udon Thani,2,0.13,0,0.0,1537285,2009,Cholera
-Zone:11,0,0.0,0,0.0,2155042,2009,Cholera
-Mukdahan,0,0.0,0,0.0,337773,2009,Cholera
-Nakhon Phanom,0,0.0,0,0.0,700027,2009,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1117242,2009,Cholera
-Zone:12,3,0.06,0,0.0,4984201,2009,Cholera
-Kalasin,0,0.0,0,0.0,979371,2009,Cholera
-Khon Kaen,3,0.17,0,0.0,1759172,2009,Cholera
-Maha Sarakham,0,0.0,0,0.0,937972,2009,Cholera
-Roi Et,0,0.0,0,0.0,1307686,2009,Cholera
-Zone:13,0,0.0,0,0.0,4152834,2009,Cholera
-Amnat Charoen,0,0.0,0,0.0,370141,2009,Cholera
-Si Sa Ket,0,0.0,0,0.0,1443879,2009,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1799604,2009,Cholera
-Yasothon,0,0.0,0,0.0,539210,2009,Cholera
-Zone:14,0,0.0,0,0.0,6613024,2009,Cholera
-Buri Ram,0,0.0,0,0.0,1544218,2009,Cholera
-Chaiyaphum,0,0.0,0,0.0,1123907,2009,Cholera
-Nakhon Ratchasima,0,0.0,0,0.0,2568205,2009,Cholera
-Surin,0,0.0,0,0.0,1376694,2009,Cholera
-North Region,62,0.52,0,0.0,11824449,2009,Cholera
-Zone:15,0,0.0,0,0.0,3069670,2009,Cholera
-Chiang Mai,0,0.0,0,0.0,1651433,2009,Cholera
-Lampang,0,0.0,0,0.0,766057,2009,Cholera
-Lamphun,0,0.0,0,0.0,404910,2009,Cholera
-Mae Hong Son,0,0.0,0,0.0,247270,2009,Cholera
-Zone:16,0,0.0,0,0.0,2636963,2009,Cholera
-Chiang Rai,0,0.0,0,0.0,1211126,2009,Cholera
-Nan,0,0.0,0,0.0,475799,2009,Cholera
-Phayao,0,0.0,0,0.0,487254,2009,Cholera
-Phrae,0,0.0,0,0.0,462784,2009,Cholera
-Zone:17,62,1.8,0,0.0,3436350,2009,Cholera
-Phetchabun,0,0.0,0,0.0,995679,2009,Cholera
-Phitsanulok,0,0.0,0,0.0,844779,2009,Cholera
-Sukhothai,0,0.0,0,0.0,603316,2009,Cholera
-Tak,62,11.72,0,0.0,528997,2009,Cholera
-Uttaradit,0,0.0,0,0.0,463579,2009,Cholera
-Zone:18,0,0.0,0,0.0,2681466,2009,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,726530,2009,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1073554,2009,Cholera
-Phichit,0,0.0,0,0.0,553653,2009,Cholera
-Uthai Thani,0,0.0,0,0.0,327729,2009,Cholera
-Total,1597,2.51,14,0.02,63701703,2010,Cholera
-Central Region,301,1.4,8,0.04,21534318,2010,Cholera
-Zone:0,34,0.6,0,0.0,5701995,2010,Cholera
-Bangkok,34,0.6,0,0.0,5701995,2010,Cholera
-Zone:1,10,0.29,1,0.03,3454591,2010,Cholera
-Nonthaburi,5,0.46,0,0.0,1089908,2010,Cholera
-P.Nakhon S.Ayutthaya,3,0.39,0,0.0,778627,2010,Cholera
-Pathum Thani,1,0.1,1,0.1,971010,2010,Cholera
-Saraburi,1,0.16,0,0.0,615046,2010,Cholera
-Zone:2,2,0.13,0,0.0,1590200,2010,Cholera
-Ang Thong,0,0.0,0,0.0,284889,2010,Cholera
-Chai Nat,0,0.0,0,0.0,335177,2010,Cholera
-Lop Buri,1,0.13,0,0.0,755153,2010,Cholera
-Sing Buri,1,0.47,0,0.0,214981,2010,Cholera
-Zone:3,5,0.16,0,0.0,3105799,2010,Cholera
-Chachoengsao,5,0.74,0,0.0,671458,2010,Cholera
-Nakhon Nayok,0,0.0,0,0.0,252209,2010,Cholera
-Prachin Buri,0,0.0,0,0.0,464213,2010,Cholera
-Sa Kaeo,0,0.0,0,0.0,543276,2010,Cholera
-Samut Prakan,0,0.0,0,0.0,1174643,2010,Cholera
-Zone:4,3,0.09,0,0.0,3374810,2010,Cholera
-Kanchanaburi,0,0.0,0,0.0,836600,2010,Cholera
-Nakhon Pathom,1,0.12,0,0.0,855837,2010,Cholera
-Ratchaburi,2,0.24,0,0.0,837153,2010,Cholera
-Suphan Buri,0,0.0,0,0.0,845220,2010,Cholera
-Zone:5,76,4.6,3,0.18,1651335,2010,Cholera
-Phetchaburi,3,0.65,0,0.0,462636,2010,Cholera
-Prachuap Khiri Khan,9,1.78,0,0.0,506599,2010,Cholera
-Samut Sakhon,61,12.49,2,0.41,488247,2010,Cholera
-Samut Songkhram,3,1.55,1,0.52,193853,2010,Cholera
-Zone:9,171,6.44,4,0.15,2655588,2010,Cholera
-Chanthaburi,7,1.36,0,0.0,512932,2010,Cholera
-Chon Buri,7,0.54,0,0.0,1302942,2010,Cholera
-Rayong,71,11.47,2,0.32,619249,2010,Cholera
-Trat,86,39.01,2,0.91,220465,2010,Cholera
-South Region,665,7.51,4,0.05,8853473,2010,Cholera
-Zone:6,34,0.97,0,0.0,3514344,2010,Cholera
-Chumphon,10,2.05,0,0.0,488855,2010,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1519531,2010,Cholera
-Phatthalung,0,0.0,0,0.0,508656,2010,Cholera
-Surat Thani,24,2.41,0,0.0,997302,2010,Cholera
-Zone:7,9,0.49,0,0.0,1825591,2010,Cholera
-Krabi,7,1.63,0,0.0,429631,2010,Cholera
-Phangnga,0,0.0,0,0.0,252385,2010,Cholera
-Phuket,0,0.0,0,0.0,340490,2010,Cholera
-Ranong,0,0.0,0,0.0,182417,2010,Cholera
-Trang,2,0.32,0,0.0,620668,2010,Cholera
-Zone:8,622,17.7,4,0.11,3513538,2010,Cholera
-Narathiwat,9,1.23,0,0.0,732617,2010,Cholera
-Pattani,600,92.1,3,0.46,651442,2010,Cholera
-Satun,0,0.0,0,0.0,295133,2010,Cholera
-Songkhla,6,0.44,1,0.07,1350489,2010,Cholera
-Yala,7,1.45,0,0.0,483857,2010,Cholera
-North-Eastern Region,360,1.67,2,0.01,21534582,2010,Cholera
-Zone:10,10,0.28,0,0.0,3576272,2010,Cholera
-Loei,0,0.0,0,0.0,622424,2010,Cholera
-Nong Bua Lam Phu,10,1.99,0,0.0,501891,2010,Cholera
-Nong Khai,0,0.0,0,0.0,910094,2010,Cholera
-Udon Thani,0,0.0,0,0.0,1541863,2010,Cholera
-Zone:11,7,0.32,0,0.0,2161531,2010,Cholera
-Mukdahan,7,2.07,0,0.0,338812,2010,Cholera
-Nakhon Phanom,0,0.0,0,0.0,702041,2010,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1120678,2010,Cholera
-Zone:12,197,3.94,0,0.0,4995226,2010,Cholera
-Kalasin,45,4.59,0,0.0,981369,2010,Cholera
-Khon Kaen,65,3.68,0,0.0,1764922,2010,Cholera
-Maha Sarakham,87,9.26,0,0.0,940001,2010,Cholera
-Roi Et,0,0.0,0,0.0,1308934,2010,Cholera
-Zone:13,0,0.0,0,0.0,4168498,2010,Cholera
-Amnat Charoen,0,0.0,0,0.0,371471,2010,Cholera
-Si Sa Ket,0,0.0,0,0.0,1449409,2010,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1808422,2010,Cholera
-Yasothon,0,0.0,0,0.0,539196,2010,Cholera
-Zone:14,146,2.2,2,0.03,6633055,2010,Cholera
-Buri Ram,0,0.0,0,0.0,1550275,2010,Cholera
-Chaiyaphum,5,0.44,0,0.0,1126295,2010,Cholera
-Nakhon Ratchasima,140,5.43,2,0.08,2576691,2010,Cholera
-Surin,1,0.07,0,0.0,1379794,2010,Cholera
-North Region,271,2.3,0,0.0,11779330,2010,Cholera
-Zone:15,10,0.33,0,0.0,3046660,2010,Cholera
-Chiang Mai,0,0.0,0,0.0,1636514,2010,Cholera
-Lampang,0,0.0,0,0.0,763224,2010,Cholera
-Lamphun,10,2.47,0,0.0,404627,2010,Cholera
-Mae Hong Son,0,0.0,0,0.0,242295,2010,Cholera
-Zone:16,6,0.23,0,0.0,2620701,2010,Cholera
-Chiang Rai,0,0.0,0,0.0,1196576,2010,Cholera
-Nan,0,0.0,0,0.0,475989,2010,Cholera
-Phayao,5,1.03,0,0.0,486713,2010,Cholera
-Phrae,1,0.22,0,0.0,461423,2010,Cholera
-Zone:17,254,7.4,0,0.0,3430959,2010,Cholera
-Phetchabun,1,0.1,0,0.0,995578,2010,Cholera
-Phitsanulok,0,0.0,0,0.0,847627,2010,Cholera
-Sukhothai,0,0.0,0,0.0,602296,2010,Cholera
-Tak,253,48.41,0,0.0,522673,2010,Cholera
-Uttaradit,0,0.0,0,0.0,462785,2010,Cholera
-Zone:18,1,0.04,0,0.0,2681010,2010,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,726970,2010,Cholera
-Nakhon Sawan,1,0.09,0,0.0,1073182,2010,Cholera
-Phichit,0,0.0,0,0.0,552942,2010,Cholera
-Uthai Thani,0,0.0,0,0.0,327916,2010,Cholera
 Total,281,0.44,4,0.01,63977185,2011,Cholera
 Central Region,37,0.17,1,0.0,21679246,2011,Cholera
 Zone:0,9,0.16,1,0.02,5688119,2011,Cholera
@@ -798,572 +100,204 @@ Kamphaeng Phet,0,0.0,0,0.0,726551,2011,Cholera
 Nakhon Sawan,0,0.0,0,0.0,1072591,2011,Cholera
 Phichit,0,0.0,0,0.0,551189,2011,Cholera
 Uthai Thani,0,0.0,0,0.0,327997,2011,Cholera
-Total,45,0.07,0,0.0,64075986,2012,Cholera
-Central Region,17,0.08,0,0.0,21734984,2012,Cholera
-Zone:0,4,0.07,0,0.0,5674843,2012,Cholera
-Bangkok,4,0.07,0,0.0,5674843,2012,Cholera
-Zone:1,1,0.03,0,0.0,3541632,2012,Cholera
-Nonthaburi,1,0.09,0,0.0,1122627,2012,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2012,Cholera
-Pathum Thani,0,0.0,0,0.0,1010898,2012,Cholera
-Saraburi,0,0.0,0,0.0,620454,2012,Cholera
-Zone:2,0,0.0,0,0.0,1587031,2012,Cholera
-Ang Thong,0,0.0,0,0.0,284061,2012,Cholera
-Chai Nat,0,0.0,0,0.0,333256,2012,Cholera
-Lop Buri,0,0.0,0,0.0,756127,2012,Cholera
-Sing Buri,0,0.0,0,0.0,213587,2012,Cholera
-Zone:3,0,0.0,0,0.0,3151672,2012,Cholera
-Chachoengsao,0,0.0,0,0.0,679370,2012,Cholera
-Nakhon Nayok,0,0.0,0,0.0,253831,2012,Cholera
-Prachin Buri,0,0.0,0,0.0,469652,2012,Cholera
-Sa Kaeo,0,0.0,0,0.0,545596,2012,Cholera
-Samut Prakan,0,0.0,0,0.0,1203223,2012,Cholera
-Zone:4,9,0.27,0,0.0,3392715,2012,Cholera
-Kanchanaburi,0,0.0,0,0.0,838914,2012,Cholera
-Nakhon Pathom,0,0.0,0,0.0,866064,2012,Cholera
-Ratchaburi,8,0.95,0,0.0,842684,2012,Cholera
-Suphan Buri,1,0.12,0,0.0,845053,2012,Cholera
-Zone:5,1,0.06,0,0.0,1671831,2012,Cholera
-Phetchaburi,0,0.0,0,0.0,466079,2012,Cholera
-Prachuap Khiri Khan,1,0.2,0,0.0,512568,2012,Cholera
-Samut Sakhon,0,0.0,0,0.0,499098,2012,Cholera
-Samut Songkhram,0,0.0,0,0.0,194086,2012,Cholera
-Zone:9,2,0.07,0,0.0,2715260,2012,Cholera
-Chanthaburi,0,0.0,0,0.0,516855,2012,Cholera
-Chon Buri,1,0.07,0,0.0,1338656,2012,Cholera
-Rayong,0,0.0,0,0.0,637736,2012,Cholera
-Trat,1,0.45,0,0.0,222013,2012,Cholera
-South Region,7,0.08,0,0.0,8971808,2012,Cholera
-Zone:6,0,0.0,0,0.0,3541333,2012,Cholera
-Chumphon,0,0.0,0,0.0,492182,2012,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2012,Cholera
-Phatthalung,0,0.0,0,0.0,511016,2012,Cholera
-Surat Thani,0,0.0,0,0.0,1012064,2012,Cholera
-Zone:7,2,0.11,0,0.0,1857374,2012,Cholera
-Krabi,0,0.0,0,0.0,438039,2012,Cholera
-Phangnga,0,0.0,0,0.0,254931,2012,Cholera
-Phuket,1,0.28,0,0.0,353847,2012,Cholera
-Ranong,1,0.54,0,0.0,183849,2012,Cholera
-Trang,0,0.0,0,0.0,626708,2012,Cholera
-Zone:8,5,0.14,0,0.0,3573101,2012,Cholera
-Narathiwat,0,0.0,0,0.0,747372,2012,Cholera
-Pattani,0,0.0,0,0.0,663485,2012,Cholera
-Satun,0,0.0,0,0.0,301467,2012,Cholera
-Songkhla,0,0.0,0,0.0,1367010,2012,Cholera
-Yala,5,1.01,0,0.0,493767,2012,Cholera
-North-Eastern Region,7,0.03,0,0.0,21585883,2012,Cholera
-Zone:10,1,0.03,0,0.0,3593082,2012,Cholera
-Bungkan,0,0.0,0,0.0,407634,2012,Cholera
-Loei,0,0.0,0,0.0,624920,2012,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,502551,2012,Cholera
-Nong Khai,0,0.0,0,0.0,509870,2012,Cholera
-Udon Thani,1,0.06,0,0.0,1548107,2012,Cholera
-Zone:11,0,0.0,0,0.0,2168700,2012,Cholera
-Mukdahan,0,0.0,0,0.0,340581,2012,Cholera
-Nakhon Phanom,0,0.0,0,0.0,704768,2012,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1123351,2012,Cholera
-Zone:12,4,0.08,0,0.0,4992515,2012,Cholera
-Kalasin,0,0.0,0,0.0,981655,2012,Cholera
-Khon Kaen,4,0.23,0,0.0,1766066,2012,Cholera
-Maha Sarakham,0,0.0,0,0.0,939736,2012,Cholera
-Roi Et,0,0.0,0,0.0,1305058,2012,Cholera
-Zone:13,1,0.02,0,0.0,4179354,2012,Cholera
-Amnat Charoen,0,0.0,0,0.0,372241,2012,Cholera
-Si Sa Ket,0,0.0,0,0.0,1452203,2012,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1816057,2012,Cholera
-Yasothon,1,0.19,0,0.0,538853,2012,Cholera
-Zone:14,1,0.02,0,0.0,6652232,2012,Cholera
-Buri Ram,0,0.0,0,0.0,1559085,2012,Cholera
-Chaiyaphum,0,0.0,0,0.0,1127423,2012,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2585325,2012,Cholera
-Surin,0,0.0,0,0.0,1380399,2012,Cholera
-North Region,14,0.12,0,0.0,11783311,2012,Cholera
-Zone:15,1,0.03,0,0.0,3051678,2012,Cholera
-Chiang Mai,1,0.06,0,0.0,1646144,2012,Cholera
-Lampang,0,0.0,0,0.0,757534,2012,Cholera
-Lamphun,0,0.0,0,0.0,403952,2012,Cholera
-Mae Hong Son,0,0.0,0,0.0,244048,2012,Cholera
-Zone:16,0,0.0,0,0.0,2620490,2012,Cholera
-Chiang Rai,0,0.0,0,0.0,1198656,2012,Cholera
-Nan,0,0.0,0,0.0,476612,2012,Cholera
-Phayao,0,0.0,0,0.0,486472,2012,Cholera
-Phrae,0,0.0,0,0.0,458750,2012,Cholera
-Zone:17,13,0.38,0,0.0,3435726,2012,Cholera
-Phetchabun,0,0.0,0,0.0,990807,2012,Cholera
-Phitsanulok,0,0.0,0,0.0,851357,2012,Cholera
-Sukhothai,0,0.0,0,0.0,601504,2012,Cholera
-Tak,13,2.45,0,0.0,531018,2012,Cholera
-Uttaradit,0,0.0,0,0.0,461040,2012,Cholera
-Zone:18,0,0.0,0,0.0,2675417,2012,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,726009,2012,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1071686,2012,Cholera
-Phichit,0,0.0,0,0.0,549688,2012,Cholera
-Uthai Thani,0,0.0,0,0.0,328034,2012,Cholera
-Total,8,0.01,0,0.0,64076033,2013,Cholera
-Central Region,0,0.0,0,0.0,21734984,2013,Cholera
-Zone:0,0,0.0,0,0.0,5674843,2013,Cholera
-Bangkok,0,0.0,0,0.0,5674843,2013,Cholera
-Zone:1,0,0.0,0,0.0,3541632,2013,Cholera
-Nonthaburi,0,0.0,0,0.0,1122627,2013,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2013,Cholera
-Pathum Thani,0,0.0,0,0.0,1010898,2013,Cholera
-Saraburi,0,0.0,0,0.0,620454,2013,Cholera
-Zone:2,0,0.0,0,0.0,1587031,2013,Cholera
-Ang Thong,0,0.0,0,0.0,284061,2013,Cholera
-Chai Nat,0,0.0,0,0.0,333256,2013,Cholera
-Lop Buri,0,0.0,0,0.0,756127,2013,Cholera
-Sing Buri,0,0.0,0,0.0,213587,2013,Cholera
-Zone:3,0,0.0,0,0.0,3151672,2013,Cholera
-Chachoengsao,0,0.0,0,0.0,679370,2013,Cholera
-Nakhon Nayok,0,0.0,0,0.0,253831,2013,Cholera
-Prachin Buri,0,0.0,0,0.0,469652,2013,Cholera
-Sa Kaeo,0,0.0,0,0.0,545596,2013,Cholera
-Samut Prakan,0,0.0,0,0.0,1203223,2013,Cholera
-Zone:4,0,0.0,0,0.0,3392715,2013,Cholera
-Kanchanaburi,0,0.0,0,0.0,838914,2013,Cholera
-Nakhon Pathom,0,0.0,0,0.0,866064,2013,Cholera
-Ratchaburi,0,0.0,0,0.0,842684,2013,Cholera
-Suphan Buri,0,0.0,0,0.0,845053,2013,Cholera
-Zone:5,0,0.0,0,0.0,1671831,2013,Cholera
-Phetchaburi,0,0.0,0,0.0,466079,2013,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,512568,2013,Cholera
-Samut Sakhon,0,0.0,0,0.0,499098,2013,Cholera
-Samut Songkhram,0,0.0,0,0.0,194086,2013,Cholera
-Zone:9,0,0.0,0,0.0,2715260,2013,Cholera
-Chanthaburi,0,0.0,0,0.0,516855,2013,Cholera
-Chon Buri,0,0.0,0,0.0,1338656,2013,Cholera
-Rayong,0,0.0,0,0.0,637736,2013,Cholera
-Trat,0,0.0,0,0.0,222013,2013,Cholera
-South Region,3,0.03,0,0.0,8971855,2013,Cholera
-Zone:6,1,0.03,0,0.0,3541380,2013,Cholera
-Chumphon,0,0.0,0,0.0,492182,2013,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2013,Cholera
-Phatthalung,0,0.0,0,0.0,511063,2013,Cholera
-Surat Thani,1,0.1,0,0.0,1012064,2013,Cholera
-Zone:7,2,0.11,0,0.0,1857374,2013,Cholera
-Krabi,0,0.0,0,0.0,438039,2013,Cholera
-Phangnga,0,0.0,0,0.0,254931,2013,Cholera
-Phuket,0,0.0,0,0.0,353847,2013,Cholera
-Ranong,2,1.09,0,0.0,183849,2013,Cholera
-Trang,0,0.0,0,0.0,626708,2013,Cholera
-Zone:8,0,0.0,0,0.0,3573101,2013,Cholera
-Narathiwat,0,0.0,0,0.0,747372,2013,Cholera
-Pattani,0,0.0,0,0.0,663485,2013,Cholera
-Satun,0,0.0,0,0.0,301467,2013,Cholera
-Songkhla,0,0.0,0,0.0,1367010,2013,Cholera
-Yala,0,0.0,0,0.0,493767,2013,Cholera
-North-Eastern Region,5,0.02,0,0.0,21585883,2013,Cholera
-Zone:10,0,0.0,0,0.0,3593082,2013,Cholera
-Bungkan,0,0.0,0,0.0,407634,2013,Cholera
-Loei,0,0.0,0,0.0,624920,2013,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,502551,2013,Cholera
-Nong Khai,0,0.0,0,0.0,509870,2013,Cholera
-Udon Thani,0,0.0,0,0.0,1548107,2013,Cholera
-Zone:11,0,0.0,0,0.0,2168700,2013,Cholera
-Mukdahan,0,0.0,0,0.0,340581,2013,Cholera
-Nakhon Phanom,0,0.0,0,0.0,704768,2013,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1123351,2013,Cholera
-Zone:12,4,0.08,0,0.0,4992515,2013,Cholera
-Kalasin,0,0.0,0,0.0,981655,2013,Cholera
-Khon Kaen,4,0.23,0,0.0,1766066,2013,Cholera
-Maha Sarakham,0,0.0,0,0.0,939736,2013,Cholera
-Roi Et,0,0.0,0,0.0,1305058,2013,Cholera
-Zone:13,0,0.0,0,0.0,4179354,2013,Cholera
-Amnat Charoen,0,0.0,0,0.0,372241,2013,Cholera
-Si Sa Ket,0,0.0,0,0.0,1452203,2013,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1816057,2013,Cholera
-Yasothon,0,0.0,0,0.0,538853,2013,Cholera
-Zone:14,1,0.02,0,0.0,6652232,2013,Cholera
-Buri Ram,0,0.0,0,0.0,1559085,2013,Cholera
-Chaiyaphum,0,0.0,0,0.0,1127423,2013,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2585325,2013,Cholera
-Surin,0,0.0,0,0.0,1380399,2013,Cholera
-North Region,0,0.0,0,0.0,11783311,2013,Cholera
-Zone:15,0,0.0,0,0.0,3051678,2013,Cholera
-Chiang Mai,0,0.0,0,0.0,1646144,2013,Cholera
-Lampang,0,0.0,0,0.0,757534,2013,Cholera
-Lamphun,0,0.0,0,0.0,403952,2013,Cholera
-Mae Hong Son,0,0.0,0,0.0,244048,2013,Cholera
-Zone:16,0,0.0,0,0.0,2620490,2013,Cholera
-Chiang Rai,0,0.0,0,0.0,1198656,2013,Cholera
-Nan,0,0.0,0,0.0,476612,2013,Cholera
-Phayao,0,0.0,0,0.0,486472,2013,Cholera
-Phrae,0,0.0,0,0.0,458750,2013,Cholera
-Zone:17,0,0.0,0,0.0,3435726,2013,Cholera
-Phetchabun,0,0.0,0,0.0,990807,2013,Cholera
-Phitsanulok,0,0.0,0,0.0,851357,2013,Cholera
-Sukhothai,0,0.0,0,0.0,601504,2013,Cholera
-Tak,0,0.0,0,0.0,531018,2013,Cholera
-Uttaradit,0,0.0,0,0.0,461040,2013,Cholera
-Zone:18,0,0.0,0,0.0,2675417,2013,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,726009,2013,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1071686,2013,Cholera
-Phichit,0,0.0,0,0.0,549688,2013,Cholera
-Uthai Thani,0,0.0,0,0.0,328034,2013,Cholera
-Total,12,0.02,0,0.0,64955313,2014,Cholera
-ZONE:00,3,0.05,0,0.0,5689268,2014,Cholera
-Bangkok,3,0.05,0,0.0,5689268,2014,Cholera
-ZONE:01,1,0.02,0,0.0,5704200,2014,Cholera
-Chiang Mai,1,0.06,0,0.0,1672586,2014,Cholera
-Chiang Rai,0,0.0,0,0.0,1206180,2014,Cholera
-Lampang,0,0.0,0,0.0,753937,2014,Cholera
-Lamphun,0,0.0,0,0.0,405368,2014,Cholera
-Mae Hong Son,0,0.0,0,0.0,247364,2014,Cholera
-Nan,0,0.0,0,0.0,478088,2014,Cholera
-Phayao,0,0.0,0,0.0,485599,2014,Cholera
-Phrae,0,0.0,0,0.0,455078,2014,Cholera
-ZONE:02,0,0.0,0,0.0,3452021,2014,Cholera
-Phetchabun,0,0.0,0,0.0,995102,2014,Cholera
-Phitsanulok,0,0.0,0,0.0,857682,2014,Cholera
-Sukhothai,0,0.0,0,0.0,602586,2014,Cholera
-Tak,0,0.0,0,0.0,535953,2014,Cholera
-Uttaradit,0,0.0,0,0.0,460698,2014,Cholera
-ZONE:03,0,0.0,0,0.0,3012608,2014,Cholera
-Chai Nat,0,0.0,0,0.0,332526,2014,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,729076,2014,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1072949,2014,Cholera
-Phichit,0,0.0,0,0.0,548199,2014,Cholera
-Uthai Thani,0,0.0,0,0.0,329858,2014,Cholera
-ZONE:04,0,0.0,0,0.0,5171756,2014,Cholera
-Ang Thong,0,0.0,0,0.0,283650,2014,Cholera
-Lop Buri,0,0.0,0,0.0,758188,2014,Cholera
-Nakhon Nayok,0,0.0,0,0.0,256693,2014,Cholera
-Nonthaburi,0,0.0,0,0.0,1165070,2014,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,800785,2014,Cholera
-Pathum Thani,0,0.0,0,0.0,1063608,2014,Cholera
-Saraburi,0,0.0,0,0.0,631338,2014,Cholera
-Sing Buri,0,0.0,0,0.0,212424,2014,Cholera
-ZONE:05,2,0.04,0,0.0,5147569,2014,Cholera
-Kanchanaburi,0,0.0,0,0.0,845540,2014,Cholera
-Nakhon Pathom,1,0.11,0,0.0,886627,2014,Cholera
-Phetchaburi,0,0.0,0,0.0,472640,2014,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,522689,2014,Cholera
-Ratchaburi,1,0.12,0,0.0,851689,2014,Cholera
-Samut Sakhon,0,0.0,0,0.0,525672,2014,Cholera
-Samut Songkhram,0,0.0,0,0.0,194153,2014,Cholera
-Suphan Buri,0,0.0,0,0.0,848559,2014,Cholera
-ZONE:06,1,0.02,0,0.0,5797595,2014,Cholera
-Chachoengsao,1,0.14,0,0.0,692852,2014,Cholera
-Chanthaburi,0,0.0,0,0.0,525805,2014,Cholera
-Chon Buri,0,0.0,0,0.0,1405889,2014,Cholera
-Prachin Buri,0,0.0,0,0.0,477741,2014,Cholera
-Rayong,0,0.0,0,0.0,667806,2014,Cholera
-Sa Kaeo,0,0.0,0,0.0,551562,2014,Cholera
-Samut Prakan,0,0.0,0,0.0,1251570,2014,Cholera
-Trat,0,0.0,0,0.0,224370,2014,Cholera
-ZONE:07,4,0.08,0,0.0,5037074,2014,Cholera
-Kalasin,0,0.0,0,0.0,984468,2014,Cholera
-Khon Kaen,4,0.22,0,0.0,1785852,2014,Cholera
-Maha Sarakham,0,0.0,0,0.0,958116,2014,Cholera
-Roi Et,0,0.0,0,0.0,1308638,2014,Cholera
-ZONE:08,0,0.0,0,0.0,5490561,2014,Cholera
-Bungkan,0,0.0,0,0.0,417401,2014,Cholera
-Loei,0,0.0,0,0.0,633359,2014,Cholera
-Nakhon Phanom,0,0.0,0,0.0,712101,2014,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,508001,2014,Cholera
-Nong Khai,0,0.0,0,0.0,516101,2014,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1136466,2014,Cholera
-Udon Thani,0,0.0,0,0.0,1567132,2014,Cholera
-ZONE:09,1,0.01,0,0.0,6717984,2014,Cholera
-Buri Ram,0,0.0,0,0.0,1576343,2014,Cholera
-Chaiyaphum,0,0.0,0,0.0,1136386,2014,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2615340,2014,Cholera
-Surin,0,0.0,0,0.0,1389915,2014,Cholera
-ZONE:10,0,0.0,0,0.0,4564711,2014,Cholera
-Amnat Charoen,0,0.0,0,0.0,375039,2014,Cholera
-Mukdahan,0,0.0,0,0.0,345159,2014,Cholera
-Si Sa Ket,0,0.0,0,0.0,1463620,2014,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1840596,2014,Cholera
-Yasothon,0,0.0,0,0.0,540297,2014,Cholera
-ZONE:11,0,0.0,0,0.0,4344513,2014,Cholera
-Chumphon,0,0.0,0,0.0,499435,2014,Cholera
-Krabi,0,0.0,0,0.0,453850,2014,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1544936,2014,Cholera
-Phangnga,0,0.0,0,0.0,260395,2014,Cholera
-Phuket,0,0.0,0,0.0,373943,2014,Cholera
-Ranong,0,0.0,0,0.0,175933,2014,Cholera
-Surat Thani,0,0.0,0,0.0,1036021,2014,Cholera
-ZONE:12,0,0.0,0,0.0,4825453,2014,Cholera
-Narathiwat,0,0.0,0,0.0,770472,2014,Cholera
-Pattani,0,0.0,0,0.0,682512,2014,Cholera
-Phatthalung,0,0.0,0,0.0,519220,2014,Cholera
-Satun,0,0.0,0,0.0,311233,2014,Cholera
-Songkhla,0,0.0,0,0.0,1395596,2014,Cholera
-Trang,0,0.0,0,0.0,637395,2014,Cholera
-Yala,0,0.0,0,0.0,509025,2014,Cholera
-Total,108,0.17,1,0.0,65124716,2015,Cholera
-ZONE:00,5,0.09,0,0.0,5692284,2015,Cholera
-Bangkok,5,0.09,0,0.0,5692284,2015,Cholera
-ZONE:01,0,0.0,0,0.0,5709443,2015,Cholera
-Chiang Mai,0,0.0,0,0.0,1678284,2015,Cholera
-Chiang Rai,0,0.0,0,0.0,1207699,2015,Cholera
-Lampang,0,0.0,0,0.0,753013,2015,Cholera
-Lamphun,0,0.0,0,0.0,405468,2015,Cholera
-Mae Hong Son,0,0.0,0,0.0,248178,2015,Cholera
-Nan,0,0.0,0,0.0,478264,2015,Cholera
-Phayao,0,0.0,0,0.0,484454,2015,Cholera
-Phrae,0,0.0,0,0.0,454083,2015,Cholera
-ZONE:02,3,0.09,0,0.0,3457208,2015,Cholera
-Phetchabun,1,0.1,0,0.0,995807,2015,Cholera
-Phitsanulok,0,0.0,0,0.0,858988,2015,Cholera
-Sukhothai,0,0.0,0,0.0,602460,2015,Cholera
-Tak,2,0.37,0,0.0,539553,2015,Cholera
-Uttaradit,0,0.0,0,0.0,460400,2015,Cholera
-ZONE:03,0,0.0,0,0.0,3012283,2015,Cholera
-Chai Nat,0,0.0,0,0.0,332283,2015,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,729522,2015,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1072756,2015,Cholera
-Phichit,0,0.0,0,0.0,547543,2015,Cholera
-Uthai Thani,0,0.0,0,0.0,330179,2015,Cholera
-ZONE:04,1,0.02,0,0.0,5196419,2015,Cholera
-Ang Thong,0,0.0,0,0.0,283568,2015,Cholera
-Lop Buri,0,0.0,0,0.0,758406,2015,Cholera
-Nakhon Nayok,0,0.0,0,0.0,257300,2015,Cholera
-Nonthaburi,1,0.09,0,0.0,1173870,2015,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,803599,2015,Cholera
-Pathum Thani,0,0.0,0,0.0,1074058,2015,Cholera
-Saraburi,0,0.0,0,0.0,633460,2015,Cholera
-Sing Buri,0,0.0,0,0.0,212158,2015,Cholera
-ZONE:05,1,0.02,0,0.0,5166914,2015,Cholera
-Kanchanaburi,0,0.0,0,0.0,848198,2015,Cholera
-Nakhon Pathom,0,0.0,0,0.0,891071,2015,Cholera
-Phetchaburi,0,0.0,0,0.0,474192,2015,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,525107,2015,Cholera
-Ratchaburi,0,0.0,0,0.0,853217,2015,Cholera
-Samut Sakhon,1,0.19,0,0.0,531887,2015,Cholera
-Samut Songkhram,0,0.0,0,0.0,194189,2015,Cholera
-Suphan Buri,0,0.0,0,0.0,849053,2015,Cholera
-ZONE:06,26,0.45,0,0.0,5836407,2015,Cholera
-Chachoengsao,0,0.0,0,0.0,695478,2015,Cholera
-Chanthaburi,0,0.0,0,0.0,527350,2015,Cholera
-Chon Buri,0,0.0,0,0.0,1421425,2015,Cholera
-Prachin Buri,0,0.0,0,0.0,479314,2015,Cholera
-Rayong,26,3.86,0,0.0,674393,2015,Cholera
-Sa Kaeo,0,0.0,0,0.0,552187,2015,Cholera
-Samut Prakan,0,0.0,0,0.0,1261530,2015,Cholera
-Trat,0,0.0,0,0.0,224730,2015,Cholera
-ZONE:07,0,0.0,0,0.0,5043862,2015,Cholera
-Kalasin,0,0.0,0,0.0,984907,2015,Cholera
-Khon Kaen,0,0.0,0,0.0,1790049,2015,Cholera
-Maha Sarakham,0,0.0,0,0.0,960588,2015,Cholera
-Roi Et,0,0.0,0,0.0,1308318,2015,Cholera
-ZONE:08,0,0.0,0,0.0,5501453,2015,Cholera
-Bungkan,0,0.0,0,0.0,418566,2015,Cholera
-Loei,0,0.0,0,0.0,634513,2015,Cholera
-Nakhon Phanom,0,0.0,0,0.0,713341,2015,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,508864,2015,Cholera
-Nong Khai,0,0.0,0,0.0,517260,2015,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1138609,2015,Cholera
-Udon Thani,0,0.0,0,0.0,1570300,2015,Cholera
-ZONE:09,1,0.01,0,0.0,6728450,2015,Cholera
-Buri Ram,0,0.0,0,0.0,1579248,2015,Cholera
-Chaiyaphum,0,0.0,0,0.0,1137049,2015,Cholera
-Nakhon Ratchasima,1,0.04,0,0.0,2620517,2015,Cholera
-Surin,0,0.0,0,0.0,1391636,2015,Cholera
-ZONE:10,1,0.02,0,0.0,4571489,2015,Cholera
-Amnat Charoen,0,0.0,0,0.0,375380,2015,Cholera
-Mukdahan,1,0.29,0,0.0,346016,2015,Cholera
-Si Sa Ket,0,0.0,0,0.0,1465213,2015,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1844669,2015,Cholera
-Yasothon,0,0.0,0,0.0,540211,2015,Cholera
-ZONE:11,1,0.02,0,0.0,4362467,2015,Cholera
-Chumphon,0,0.0,0,0.0,500575,2015,Cholera
-Krabi,0,0.0,0,0.0,456811,2015,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1548028,2015,Cholera
-Phangnga,0,0.0,0,0.0,261370,2015,Cholera
-Phuket,0,0.0,0,0.0,378364,2015,Cholera
-Ranong,1,0.56,0,0.0,177089,2015,Cholera
-Surat Thani,0,0.0,0,0.0,1040230,2015,Cholera
-ZONE:12,69,1.42,1,0.02,4846037,2015,Cholera
-Narathiwat,0,0.0,0,0.0,774799,2015,Cholera
-Pattani,1,0.15,0,0.0,686186,2015,Cholera
-Phatthalung,1,0.19,0,0.0,520419,2015,Cholera
-Satun,0,0.0,0,0.0,312673,2015,Cholera
-Songkhla,62,4.42,1,0.07,1401303,2015,Cholera
-Trang,0,0.0,0,0.0,638746,2015,Cholera
-Yala,5,0.98,0,0.0,511911,2015,Cholera
-Total,51,0.08,1,0.0,65426907,2016,Cholera
-ZONE:01,0,0.0,0,0.0,5781324,2016,Cholera
-Chiang Mai,0,0.0,0,0.0,1703263,2016,Cholera
-Chiang Rai,0,0.0,0,0.0,1242825,2016,Cholera
-Lampang,0,0.0,0,0.0,752685,2016,Cholera
-Lamphun,0,0.0,0,0.0,405927,2016,Cholera
-Mae Hong Son,0,0.0,0,0.0,260971,2016,Cholera
-Nan,0,0.0,0,0.0,478890,2016,Cholera
-Phayao,0,0.0,0,0.0,483550,2016,Cholera
-Phrae,0,0.0,0,0.0,453213,2016,Cholera
-ZONE:02,0,0.0,0,0.0,3498728,2016,Cholera
-Phetchabun,0,0.0,0,0.0,996397,2016,Cholera
-Phitsanulok,0,0.0,0,0.0,861194,2016,Cholera
-Sukhothai,0,0.0,0,0.0,602085,2016,Cholera
-Tak,0,0.0,0,0.0,578968,2016,Cholera
-Uttaradit,0,0.0,0,0.0,460084,2016,Cholera
-ZONE:03,0,0.0,0,0.0,3011449,2016,Cholera
-Chai Nat,0,0.0,0,0.0,331968,2016,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,729839,2016,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1072349,2016,Cholera
-Phichit,0,0.0,0,0.0,546750,2016,Cholera
-Uthai Thani,0,0.0,0,0.0,330543,2016,Cholera
-ZONE:04,0,0.0,0,0.0,5221125,2016,Cholera
-Ang Thong,0,0.0,0,0.0,283371,2016,Cholera
-Lop Buri,0,0.0,0,0.0,758531,2016,Cholera
-Nakhon Nayok,0,0.0,0,0.0,257939,2016,Cholera
-Nonthaburi,0,0.0,0,0.0,1183791,2016,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,805980,2016,Cholera
-Pathum Thani,0,0.0,0,0.0,1084154,2016,Cholera
-Saraburi,0,0.0,0,0.0,635567,2016,Cholera
-Sing Buri,0,0.0,0,0.0,211792,2016,Cholera
-ZONE:05,0,0.0,0,0.0,5209561,2016,Cholera
-Kanchanaburi,0,0.0,0,0.0,865172,2016,Cholera
-Nakhon Pathom,0,0.0,0,0.0,895207,2016,Cholera
-Phetchaburi,0,0.0,0,0.0,476391,2016,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,529912,2016,Cholera
-Ratchaburi,0,0.0,0,0.0,860549,2016,Cholera
-Samut Sakhon,0,0.0,0,0.0,538671,2016,Cholera
-Samut Songkhram,0,0.0,0,0.0,194283,2016,Cholera
-Suphan Buri,0,0.0,0,0.0,849376,2016,Cholera
-ZONE:06,5,0.09,0,0.0,5880124,2016,Cholera
-Chachoengsao,0,0.0,0,0.0,698190,2016,Cholera
-Chanthaburi,0,0.0,0,0.0,529194,2016,Cholera
-Chon Buri,4,0.28,0,0.0,1438231,2016,Cholera
-Prachin Buri,0,0.0,0,0.0,480755,2016,Cholera
-Rayong,1,0.15,0,0.0,681696,2016,Cholera
-Sa Kaeo,0,0.0,0,0.0,554555,2016,Cholera
-Samut Prakan,0,0.0,0,0.0,1270420,2016,Cholera
-Trat,0,0.0,0,0.0,227083,2016,Cholera
-ZONE:07,3,0.06,0,0.0,5049920,2016,Cholera
-Kalasin,0,0.0,0,0.0,985055,2016,Cholera
-Khon Kaen,3,0.17,0,0.0,1794032,2016,Cholera
-Maha Sarakham,0,0.0,0,0.0,962592,2016,Cholera
-Roi Et,0,0.0,0,0.0,1308241,2016,Cholera
-ZONE:08,0,0.0,0,0.0,5511930,2016,Cholera
-Bungkan,0,0.0,0,0.0,419607,2016,Cholera
-Loei,0,0.0,0,0.0,636666,2016,Cholera
-Nakhon Phanom,0,0.0,0,0.0,714369,2016,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Cholera
-Nong Khai,0,0.0,0,0.0,518420,2016,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Cholera
-Udon Thani,0,0.0,0,0.0,1572726,2016,Cholera
-ZONE:09,0,0.0,0,0.0,6737604,2016,Cholera
-Buri Ram,0,0.0,0,0.0,1581955,2016,Cholera
-Chaiyaphum,0,0.0,0,0.0,1137651,2016,Cholera
-Nakhon Ratchasima,0,0.0,0,0.0,2624668,2016,Cholera
-Surin,0,0.0,0,0.0,1393330,2016,Cholera
-ZONE:10,0,0.0,0,0.0,4581192,2016,Cholera
-Amnat Charoen,0,0.0,0,0.0,375881,2016,Cholera
-Mukdahan,0,0.0,0,0.0,347059,2016,Cholera
-Si Sa Ket,0,0.0,0,0.0,1467006,2016,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1851049,2016,Cholera
-Yasothon,0,0.0,0,0.0,540197,2016,Cholera
-ZONE:11,0,0.0,0,0.0,4383957,2016,Cholera
-Chumphon,0,0.0,0,0.0,503203,2016,Cholera
-Krabi,0,0.0,0,0.0,459456,2016,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1550278,2016,Cholera
-Phangnga,0,0.0,0,0.0,262721,2016,Cholera
-Phuket,0,0.0,0,0.0,382485,2016,Cholera
-Ranong,0,0.0,0,0.0,182313,2016,Cholera
-Surat Thani,0,0.0,0,0.0,1043501,2016,Cholera
-ZONE:12,41,0.84,1,0.02,4865646,2016,Cholera
-Narathiwat,0,0.0,0,0.0,778941,2016,Cholera
-Pattani,0,0.0,0,0.0,690104,2016,Cholera
-Phatthalung,0,0.0,0,0.0,521570,2016,Cholera
-Satun,0,0.0,0,0.0,314297,2016,Cholera
-Songkhla,40,2.85,0,0.0,1405939,2016,Cholera
-Trang,0,0.0,0,0.0,639770,2016,Cholera
-Yala,1,0.19,1,0.19,515025,2016,Cholera
-ZONE:13,2,0.04,0,0.0,5694347,2016,Cholera
-Bangkok,2,0.04,0,0.0,5694347,2016,Cholera
-Total,8,0.01,0,0.0,66060027,2017,Cholera
-ZONE:01,0,0.0,0,0.0,5864232,2017,Cholera
-Chiang Mai,0,0.0,0,0.0,1741301,2017,Cholera
-Chiang Rai,0,0.0,0,0.0,1285080,2017,Cholera
-Lampang,0,0.0,0,0.0,747699,2017,Cholera
-Lamphun,0,0.0,0,0.0,405959,2017,Cholera
-Mae Hong Son,0,0.0,0,0.0,277486,2017,Cholera
-Nan,0,0.0,0,0.0,479877,2017,Cholera
-Phayao,0,0.0,0,0.0,478144,2017,Cholera
-Phrae,0,0.0,0,0.0,448686,2017,Cholera
-ZONE:02,0,0.0,0,0.0,3556376,2017,Cholera
-Phetchabun,0,0.0,0,0.0,995277,2017,Cholera
-Phitsanulok,0,0.0,0,0.0,865564,2017,Cholera
-Sukhothai,0,0.0,0,0.0,599775,2017,Cholera
-Tak,0,0.0,0,0.0,638115,2017,Cholera
-Uttaradit,0,0.0,0,0.0,457645,2017,Cholera
-ZONE:03,0,0.0,0,0.0,2998104,2017,Cholera
-Chai Nat,0,0.0,0,0.0,330077,2017,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1065895,2017,Cholera
-Phichit,0,0.0,0,0.0,542674,2017,Cholera
-Uthai Thani,0,0.0,0,0.0,330121,2017,Cholera
-ZONE:04,1,0.02,0,0.0,5302492,2017,Cholera
-Ang Thong,0,0.0,0,0.0,281796,2017,Cholera
-Lop Buri,0,0.0,0,0.0,757296,2017,Cholera
-Nakhon Nayok,0,0.0,0,0.0,258850,2017,Cholera
-Nonthaburi,1,0.08,0,0.0,1220829,2017,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,812086,2017,Cholera
-Pathum Thani,0,0.0,0,0.0,1120246,2017,Cholera
-Saraburi,0,0.0,0,0.0,641052,2017,Cholera
-Sing Buri,0,0.0,0,0.0,210337,2017,Cholera
-ZONE:05,0,0.0,0,0.0,5295696,2017,Cholera
-Kanchanaburi,0,0.0,0,0.0,886546,2017,Cholera
-Nakhon Pathom,0,0.0,0,0.0,908249,2017,Cholera
-Phetchaburi,0,0.0,0,0.0,481514,2017,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,541756,2017,Cholera
-Ratchaburi,0,0.0,0,0.0,870769,2017,Cholera
-Samut Sakhon,0,0.0,0,0.0,562592,2017,Cholera
-Samut Songkhram,0,0.0,0,0.0,193985,2017,Cholera
-Suphan Buri,0,0.0,0,0.0,850285,2017,Cholera
-ZONE:06,0,0.0,0,0.0,6020790,2017,Cholera
-Chachoengsao,0,0.0,0,0.0,707145,2017,Cholera
-Chanthaburi,0,0.0,0,0.0,533463,2017,Cholera
-Chon Buri,0,0.0,0,0.0,1496086,2017,Cholera
-Prachin Buri,0,0.0,0,0.0,486187,2017,Cholera
-Rayong,0,0.0,0,0.0,705729,2017,Cholera
-Sa Kaeo,0,0.0,0,0.0,560478,2017,Cholera
-Samut Prakan,0,0.0,0,0.0,1302160,2017,Cholera
-Trat,0,0.0,0,0.0,229542,2017,Cholera
-ZONE:07,2,0.04,0,0.0,5060674,2017,Cholera
-Kalasin,0,0.0,0,0.0,985619,2017,Cholera
-Khon Kaen,2,0.11,0,0.0,1803831,2017,Cholera
-Maha Sarakham,0,0.0,0,0.0,963277,2017,Cholera
-Roi Et,0,0.0,0,0.0,1307947,2017,Cholera
-ZONE:08,0,0.0,0,0.0,5541473,2017,Cholera
-Bungkan,0,0.0,0,0.0,422328,2017,Cholera
-Loei,0,0.0,0,0.0,640734,2017,Cholera
-Nakhon Phanom,0,0.0,0,0.0,717451,2017,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,511188,2017,Cholera
-Nong Khai,0,0.0,0,0.0,521125,2017,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1147710,2017,Cholera
-Udon Thani,0,0.0,0,0.0,1580937,2017,Cholera
-ZONE:09,0,0.0,0,0.0,6760383,2017,Cholera
-Buri Ram,0,0.0,0,0.0,1589900,2017,Cholera
-Chaiyaphum,0,0.0,0,0.0,1138778,2017,Cholera
-Nakhon Ratchasima,0,0.0,0,0.0,2635331,2017,Cholera
-Surin,0,0.0,0,0.0,1396374,2017,Cholera
-ZONE:10,0,0.0,0,0.0,4604905,2017,Cholera
-Amnat Charoen,0,0.0,0,0.0,377614,2017,Cholera
-Mukdahan,0,0.0,0,0.0,350128,2017,Cholera
-Si Sa Ket,0,0.0,0,0.0,1471185,2017,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1866299,2017,Cholera
-Yasothon,0,0.0,0,0.0,539679,2017,Cholera
-ZONE:11,0,0.0,0,0.0,4441086,2017,Cholera
-Chumphon,0,0.0,0,0.0,508627,2017,Cholera
-Krabi,0,0.0,0,0.0,467851,2017,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1555957,2017,Cholera
-Phangnga,0,0.0,0,0.0,266535,2017,Cholera
-Phuket,0,0.0,0,0.0,398092,2017,Cholera
-Ranong,0,0.0,0,0.0,189777,2017,Cholera
-Surat Thani,0,0.0,0,0.0,1054247,2017,Cholera
-ZONE:12,1,0.02,0,0.0,4929285,2017,Cholera
-Narathiwat,0,0.0,0,0.0,792961,2017,Cholera
-Pattani,0,0.0,0,0.0,705379,2017,Cholera
-Phatthalung,0,0.0,0,0.0,524291,2017,Cholera
-Satun,0,0.0,0,0.0,318655,2017,Cholera
-Songkhla,0,0.0,0,0.0,1420834,2017,Cholera
-Trang,0,0.0,0,0.0,642377,2017,Cholera
-Yala,1,0.19,0,0.0,524788,2017,Cholera
-ZONE:13,4,0.07,0,0.0,5684531,2017,Cholera
-Bangkok,4,0.07,0,0.0,5684531,2017,Cholera
+Total,295,0.46,2,0.0,63457439,2009,Cholera
+Central Region,38,0.18,0,0.0,21386001,2009,Cholera
+Bangkok,4,0.07,0,0.0,5706739,2009,Cholera
+Zone:1,2,0.06,0,0.0,3397461,2009,Cholera
+Nonthaburi,1,0.09,0,0.0,1065332,2009,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,772142,2009,Cholera
+Pathum Thani,0,0.0,0,0.0,942813,2009,Cholera
+Saraburi,1,0.16,0,0.0,617174,2009,Cholera
+Zone:2,0,0.0,0,0.0,1590058,2009,Cholera
+Ang Thong,0,0.0,0,0.0,284819,2009,Cholera
+Chai Nat,0,0.0,0,0.0,335686,2009,Cholera
+Lop Buri,0,0.0,0,0.0,754127,2009,Cholera
+Sing Buri,0,0.0,0,0.0,215426,2009,Cholera
+Zone:3,0,0.0,0,0.0,3076347,2009,Cholera
+Chachoengsao,0,0.0,0,0.0,666907,2009,Cholera
+Nakhon Nayok,0,0.0,0,0.0,251219,2009,Cholera
+Prachin Buri,0,0.0,0,0.0,460617,2009,Cholera
+Sa Kaeo,0,0.0,0,0.0,541939,2009,Cholera
+Samut Prakan,0,0.0,0,0.0,1155665,2009,Cholera
+Zone:4,0,0.0,0,0.0,3364769,2009,Cholera
+Kanchanaburi,0,0.0,0,0.0,837165,2009,Cholera
+Nakhon Pathom,0,0.0,0,0.0,847513,2009,Cholera
+Ratchaburi,0,0.0,0,0.0,835546,2009,Cholera
+Suphan Buri,0,0.0,0,0.0,844545,2009,Cholera
+Zone:5,2,0.12,0,0.0,1637557,2009,Cholera
+Phetchaburi,0,0.0,0,0.0,460108,2009,Cholera
+Prachuap Khiri Khan,1,0.2,0,0.0,502221,2009,Cholera
+Samut Sakhon,1,0.21,0,0.0,481377,2009,Cholera
+Samut Songkhram,0,0.0,0,0.0,193851,2009,Cholera
+Zone:9,30,1.15,0,0.0,2613070,2009,Cholera
+Chanthaburi,0,0.0,0,0.0,509633,2009,Cholera
+Chon Buri,0,0.0,0,0.0,1277139,2009,Cholera
+Rayong,30,4.96,0,0.0,605380,2009,Cholera
+Trat,0,0.0,0,0.0,220918,2009,Cholera
+South Region,190,2.16,2,0.02,8777720,2009,Cholera
+Zone:6,6,0.17,0,0.0,3496373,2009,Cholera
+Chumphon,0,0.0,0,0.0,486233,2009,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1514832,2009,Cholera
+Phatthalung,6,1.18,0,0.0,506454,2009,Cholera
+Surat Thani,0,0.0,0,0.0,988854,2009,Cholera
+Zone:7,29,1.61,0,0.0,1803902,2009,Cholera
+Krabi,0,0.0,0,0.0,422631,2009,Cholera
+Phangnga,1,0.4,0,0.0,250796,2009,Cholera
+Phuket,1,0.3,0,0.0,331460,2009,Cholera
+Ranong,27,14.82,0,0.0,182242,2009,Cholera
+Trang,0,0.0,0,0.0,616773,2009,Cholera
+Zone:8,155,4.46,2,0.06,3477445,2009,Cholera
+Narathiwat,10,1.38,1,0.14,724001,2009,Cholera
+Pattani,125,19.38,1,0.16,644897,2009,Cholera
+Satun,0,0.0,0,0.0,290755,2009,Cholera
+Songkhla,12,0.9,0,0.0,1339861,2009,Cholera
+Yala,8,1.67,0,0.0,477931,2009,Cholera
+North-Eastern Region,5,0.02,0,0.0,21469269,2009,Cholera
+Zone:10,2,0.06,0,0.0,3564168,2009,Cholera
+Loei,0,0.0,0,0.0,619602,2009,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,500217,2009,Cholera
+Nong Khai,0,0.0,0,0.0,907064,2009,Cholera
+Udon Thani,2,0.13,0,0.0,1537285,2009,Cholera
+Zone:11,0,0.0,0,0.0,2155042,2009,Cholera
+Mukdahan,0,0.0,0,0.0,337773,2009,Cholera
+Nakhon Phanom,0,0.0,0,0.0,700027,2009,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1117242,2009,Cholera
+Zone:12,3,0.06,0,0.0,4984201,2009,Cholera
+Kalasin,0,0.0,0,0.0,979371,2009,Cholera
+Khon Kaen,3,0.17,0,0.0,1759172,2009,Cholera
+Maha Sarakham,0,0.0,0,0.0,937972,2009,Cholera
+Roi Et,0,0.0,0,0.0,1307686,2009,Cholera
+Zone:13,0,0.0,0,0.0,4152834,2009,Cholera
+Amnat Charoen,0,0.0,0,0.0,370141,2009,Cholera
+Si Sa Ket,0,0.0,0,0.0,1443879,2009,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1799604,2009,Cholera
+Yasothon,0,0.0,0,0.0,539210,2009,Cholera
+Zone:14,0,0.0,0,0.0,6613024,2009,Cholera
+Buri Ram,0,0.0,0,0.0,1544218,2009,Cholera
+Chaiyaphum,0,0.0,0,0.0,1123907,2009,Cholera
+Nakhon Ratchasima,0,0.0,0,0.0,2568205,2009,Cholera
+Surin,0,0.0,0,0.0,1376694,2009,Cholera
+North Region,62,0.52,0,0.0,11824449,2009,Cholera
+Zone:15,0,0.0,0,0.0,3069670,2009,Cholera
+Chiang Mai,0,0.0,0,0.0,1651433,2009,Cholera
+Lampang,0,0.0,0,0.0,766057,2009,Cholera
+Lamphun,0,0.0,0,0.0,404910,2009,Cholera
+Mae Hong Son,0,0.0,0,0.0,247270,2009,Cholera
+Zone:16,0,0.0,0,0.0,2636963,2009,Cholera
+Chiang Rai,0,0.0,0,0.0,1211126,2009,Cholera
+Nan,0,0.0,0,0.0,475799,2009,Cholera
+Phayao,0,0.0,0,0.0,487254,2009,Cholera
+Phrae,0,0.0,0,0.0,462784,2009,Cholera
+Zone:17,62,1.8,0,0.0,3436350,2009,Cholera
+Phetchabun,0,0.0,0,0.0,995679,2009,Cholera
+Phitsanulok,0,0.0,0,0.0,844779,2009,Cholera
+Sukhothai,0,0.0,0,0.0,603316,2009,Cholera
+Tak,62,11.72,0,0.0,528997,2009,Cholera
+Uttaradit,0,0.0,0,0.0,463579,2009,Cholera
+Zone:18,0,0.0,0,0.0,2681466,2009,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,726530,2009,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1073554,2009,Cholera
+Phichit,0,0.0,0,0.0,553653,2009,Cholera
+Uthai Thani,0,0.0,0,0.0,327729,2009,Cholera
+Total,248,0.39,3,0.0,63214022,2008,Cholera
+Central Region,29,0.14,0,0.0,21226352,2008,Cholera
+Bangkok,7,0.12,0,0.0,5713566,2008,Cholera
+Zone:1,2,0.06,0,0.0,3335057,2008,Cholera
+Nonthaburi,1,0.1,0,0.0,1038392,2008,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,764919,2008,Cholera
+Pathum Thani,1,0.11,0,0.0,913047,2008,Cholera
+Saraburi,0,0.0,0,0.0,618699,2008,Cholera
+Zone:2,1,0.06,0,0.0,1588582,2008,Cholera
+Ang Thong,0,0.0,0,0.0,284619,2008,Cholera
+Chai Nat,0,0.0,0,0.0,336550,2008,Cholera
+Lop Buri,1,0.13,0,0.0,751811,2008,Cholera
+Sing Buri,0,0.0,0,0.0,215602,2008,Cholera
+Zone:3,2,0.07,0,0.0,3046070,2008,Cholera
+Chachoengsao,1,0.15,0,0.0,661898,2008,Cholera
+Nakhon Nayok,0,0.0,0,0.0,249625,2008,Cholera
+Prachin Buri,0,0.0,0,0.0,457184,2008,Cholera
+Sa Kaeo,0,0.0,0,0.0,540281,2008,Cholera
+Samut Prakan,1,0.09,0,0.0,1137082,2008,Cholera
+Zone:4,2,0.06,0,0.0,3352570,2008,Cholera
+Kanchanaburi,0,0.0,0,0.0,838094,2008,Cholera
+Nakhon Pathom,0,0.0,0,0.0,837285,2008,Cholera
+Ratchaburi,2,0.24,0,0.0,833650,2008,Cholera
+Suphan Buri,0,0.0,0,0.0,843541,2008,Cholera
+Zone:5,11,0.68,0,0.0,1623176,2008,Cholera
+Phetchaburi,0,0.0,0,0.0,457518,2008,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,497483,2008,Cholera
+Samut Sakhon,4,0.84,0,0.0,474041,2008,Cholera
+Samut Songkhram,7,3.61,0,0.0,194134,2008,Cholera
+Zone:9,4,0.16,0,0.0,2567331,2008,Cholera
+Chanthaburi,0,0.0,0,0.0,506012,2008,Cholera
+Chon Buri,1,0.08,0,0.0,1249067,2008,Cholera
+Rayong,3,0.51,0,0.0,591067,2008,Cholera
+Trat,0,0.0,0,0.0,221185,2008,Cholera
+South Region,19,0.22,2,0.02,8698196,2008,Cholera
+Zone:6,8,0.23,2,0.06,3473895,2008,Cholera
+Chumphon,0,0.0,0,0.0,483011,2008,Cholera
+Nakhon Si Thammarat,8,0.53,2,0.13,1510081,2008,Cholera
+Phatthalung,0,0.0,0,0.0,503847,2008,Cholera
+Surat Thani,0,0.0,0,0.0,976956,2008,Cholera
+Zone:7,7,0.39,0,0.0,1778692,2008,Cholera
+Krabi,0,0.0,0,0.0,414670,2008,Cholera
+Phangnga,1,0.4,0,0.0,248411,2008,Cholera
+Phuket,0,0.0,0,0.0,321252,2008,Cholera
+Ranong,6,3.3,0,0.0,181758,2008,Cholera
+Trang,0,0.0,0,0.0,612601,2008,Cholera
+Zone:8,4,0.12,0,0.0,3445609,2008,Cholera
+Narathiwat,0,0.0,0,0.0,715724,2008,Cholera
+Pattani,1,0.16,0,0.0,639988,2008,Cholera
+Satun,0,0.0,0,0.0,286446,2008,Cholera
+Songkhla,2,0.15,0,0.0,1330342,2008,Cholera
+Yala,1,0.21,0,0.0,473109,2008,Cholera
+North-Eastern Region,8,0.04,0,0.0,21414180,2008,Cholera
+Zone:10,6,0.17,0,0.0,3553449,2008,Cholera
+Loei,0,0.0,0,0.0,616981,2008,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,498562,2008,Cholera
+Nong Khai,1,0.11,0,0.0,904748,2008,Cholera
+Udon Thani,5,0.33,0,0.0,1533158,2008,Cholera
+Zone:11,0,0.0,0,0.0,2149587,2008,Cholera
+Mukdahan,0,0.0,0,0.0,336802,2008,Cholera
+Nakhon Phanom,0,0.0,0,0.0,698235,2008,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1114550,2008,Cholera
+Zone:12,1,0.02,0,0.0,4976635,2008,Cholera
+Kalasin,0,0.0,0,0.0,978046,2008,Cholera
+Khon Kaen,1,0.06,0,0.0,1754258,2008,Cholera
+Maha Sarakham,0,0.0,0,0.0,936430,2008,Cholera
+Roi Et,0,0.0,0,0.0,1307901,2008,Cholera
+Zone:13,0,0.0,0,0.0,4141403,2008,Cholera
+Amnat Charoen,0,0.0,0,0.0,369196,2008,Cholera
+Si Sa Ket,0,0.0,0,0.0,1442212,2008,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1790581,2008,Cholera
+Yasothon,0,0.0,0,0.0,539414,2008,Cholera
+Zone:14,1,0.02,0,0.0,6593106,2008,Cholera
+Buri Ram,0,0.0,0,0.0,1538861,2008,Cholera
+Chaiyaphum,0,0.0,0,0.0,1121123,2008,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2559006,2008,Cholera
+Surin,0,0.0,0,0.0,1374116,2008,Cholera
+North Region,192,1.62,1,0.01,11875294,2008,Cholera
+Zone:15,0,0.0,0,0.0,3095362,2008,Cholera
+Chiang Mai,0,0.0,0,0.0,1667358,2008,Cholera
+Lampang,0,0.0,0,0.0,769115,2008,Cholera
+Lamphun,0,0.0,0,0.0,405141,2008,Cholera
+Mae Hong Son,0,0.0,0,0.0,253748,2008,Cholera
+Zone:16,1,0.04,0,0.0,2654508,2008,Cholera
+Chiang Rai,0,0.0,0,0.0,1226165,2008,Cholera
+Nan,1,0.21,0,0.0,476683,2008,Cholera
+Phayao,0,0.0,0,0.0,486983,2008,Cholera
+Phrae,0,0.0,0,0.0,464677,2008,Cholera
+Zone:17,191,5.55,1,0.03,3443651,2008,Cholera
+Phetchabun,0,0.0,0,0.0,996882,2008,Cholera
+Phitsanulok,0,0.0,0,0.0,842840,2008,Cholera
+Sukhothai,0,0.0,0,0.0,604559,2008,Cholera
+Tak,191,35.73,1,0.19,534629,2008,Cholera
+Uttaradit,0,0.0,0,0.0,464741,2008,Cholera
+Zone:18,0,0.0,0,0.0,2681773,2008,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,726104,2008,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1073962,2008,Cholera
+Phichit,0,0.0,0,0.0,554426,2008,Cholera
+Uthai Thani,0,0.0,0,0.0,327281,2008,Cholera
 Total,6,0.01,0,0.0,66301242,2018,Cholera
 ZONE:01,0,0.0,0,0.0,5878537,2018,Cholera
 Chiang Mai,0,0.0,0,0.0,1755291,2018,Cholera
@@ -1546,188 +480,307 @@ Trang,0,0.0,0,0.0,643140,2019,Cholera
 Yala,0,0.0,0,0.0,534328,2019,Cholera
 ZONE:13,5,0.09,1,0.02,5671457,2019,Cholera
 Bangkok,5,0.09,1,0.02,5671457,2019,Cholera
-Total,5,0.01,1,0.0,66372831,2020,Cholera
-ZONE:01,0,0.0,0,0.0,5886870,2020,Cholera
-Chiang Mai,0,0.0,0,0.0,1781812,2020,Cholera
-Chiang Rai,0,0.0,0,0.0,1296664,2020,Cholera
-Lampang,0,0.0,0,0.0,733640,2020,Cholera
-Lamphun,0,0.0,0,0.0,403542,2020,Cholera
-Mae Hong Son,0,0.0,0,0.0,284343,2020,Cholera
-Nan,0,0.0,0,0.0,477476,2020,Cholera
-Phayao,0,0.0,0,0.0,469856,2020,Cholera
-Phrae,0,0.0,0,0.0,439537,2020,Cholera
-ZONE:02,0,0.0,0,0.0,3554902,2020,Cholera
-Phetchabun,0,0.0,0,0.0,987196,2020,Cholera
-Phitsanulok,0,0.0,0,0.0,857364,2020,Cholera
-Sukhothai,0,0.0,0,0.0,591477,2020,Cholera
-Tak,0,0.0,0,0.0,667942,2020,Cholera
-Uttaradit,0,0.0,0,0.0,450923,2020,Cholera
-ZONE:03,0,0.0,0,0.0,2956189,2020,Cholera
-Chai Nat,0,0.0,0,0.0,324544,2020,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,719993,2020,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1050098,2020,Cholera
-Phichit,0,0.0,0,0.0,534311,2020,Cholera
-Uthai Thani,0,0.0,0,0.0,327243,2020,Cholera
-ZONE:04,0,0.0,0,0.0,5400529,2020,Cholera
-Ang Thong,0,0.0,0,0.0,278119,2020,Cholera
-Lop Buri,0,0.0,0,0.0,749242,2020,Cholera
-Nakhon Nayok,0,0.0,0,0.0,260416,2020,Cholera
-Nonthaburi,0,0.0,0,0.0,1271065,2020,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819638,2020,Cholera
-Pathum Thani,0,0.0,0,0.0,1170008,2020,Cholera
-Saraburi,0,0.0,0,0.0,644869,2020,Cholera
-Sing Buri,0,0.0,0,0.0,207172,2020,Cholera
-ZONE:05,0,0.0,0,0.0,5342038,2020,Cholera
-Kanchanaburi,0,0.0,0,0.0,893751,2020,Cholera
-Nakhon Pathom,0,0.0,0,0.0,920380,2020,Cholera
-Phetchaburi,0,0.0,0,0.0,483692,2020,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,552398,2020,Cholera
-Ratchaburi,0,0.0,0,0.0,871207,2020,Cholera
-Samut Sakhon,0,0.0,0,0.0,585451,2020,Cholera
-Samut Songkhram,0,0.0,0,0.0,192678,2020,Cholera
-Suphan Buri,0,0.0,0,0.0,842481,2020,Cholera
-ZONE:06,0,0.0,0,0.0,6192990,2020,Cholera
-Chachoengsao,0,0.0,0,0.0,720416,2020,Cholera
-Chanthaburi,0,0.0,0,0.0,536629,2020,Cholera
-Chon Buri,0,0.0,0,0.0,1562593,2020,Cholera
-Prachin Buri,0,0.0,0,0.0,494175,2020,Cholera
-Rayong,0,0.0,0,0.0,738139,2020,Cholera
-Sa Kaeo,0,0.0,0,0.0,563614,2020,Cholera
-Samut Prakan,0,0.0,0,0.0,1348177,2020,Cholera
-Trat,0,0.0,0,0.0,229247,2020,Cholera
-ZONE:07,0,0.0,0,0.0,5039088,2020,Cholera
-Kalasin,0,0.0,0,0.0,980297,2020,Cholera
-Khon Kaen,0,0.0,0,0.0,1798702,2020,Cholera
-Maha Sarakham,0,0.0,0,0.0,958163,2020,Cholera
-Roi Et,0,0.0,0,0.0,1301926,2020,Cholera
-ZONE:08,0,0.0,0,0.0,5540556,2020,Cholera
-Bungkan,0,0.0,0,0.0,423067,2020,Cholera
-Loei,0,0.0,0,0.0,640843,2020,Cholera
-Nakhon Phanom,0,0.0,0,0.0,718169,2020,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,511125,2020,Cholera
-Nong Khai,0,0.0,0,0.0,519873,2020,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1150164,2020,Cholera
-Udon Thani,0,0.0,0,0.0,1577315,2020,Cholera
-ZONE:09,3,0.04,1,0.01,6748199,2020,Cholera
-Buri Ram,0,0.0,0,0.0,1588466,2020,Cholera
-Chaiyaphum,0,0.0,0,0.0,1131140,2020,Cholera
-Nakhon Ratchasima,0,0.0,0,0.0,2641067,2020,Cholera
-Surin,3,0.22,1,0.07,1387526,2020,Cholera
-ZONE:10,0,0.0,0,0.0,4603401,2020,Cholera
-Amnat Charoen,0,0.0,0,0.0,377317,2020,Cholera
-Mukdahan,0,0.0,0,0.0,352043,2020,Cholera
-Si Sa Ket,0,0.0,0,0.0,1465719,2020,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1872422,2020,Cholera
-Yasothon,0,0.0,0,0.0,535900,2020,Cholera
-ZONE:11,0,0.0,0,0.0,4489609,2020,Cholera
-Chumphon,0,0.0,0,0.0,510256,2020,Cholera
-Krabi,0,0.0,0,0.0,477254,2020,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1556325,2020,Cholera
-Phangnga,0,0.0,0,0.0,268509,2020,Cholera
-Phuket,0,0.0,0,0.0,415527,2020,Cholera
-Ranong,0,0.0,0,0.0,193871,2020,Cholera
-Surat Thani,0,0.0,0,0.0,1067867,2020,Cholera
-ZONE:12,0,0.0,0,0.0,4991217,2020,Cholera
-Narathiwat,0,0.0,0,0.0,806224,2020,Cholera
-Pattani,0,0.0,0,0.0,725559,2020,Cholera
-Phatthalung,0,0.0,0,0.0,523971,2020,Cholera
-Satun,0,0.0,0,0.0,323841,2020,Cholera
-Songkhla,0,0.0,0,0.0,1432288,2020,Cholera
-Trang,0,0.0,0,0.0,641868,2020,Cholera
-Yala,0,0.0,0,0.0,537466,2020,Cholera
-ZONE:13,2,0.04,0,0.0,5627243,2020,Cholera
-Bangkok,2,0.04,0,0.0,5627243,2020,Cholera
-Total,1,0.0,0,0.0,66179083,2021,Cholera
-ZONE:01,0,0.0,0,0.0,5875424,2021,Cholera
-Chiang Mai,0,0.0,0,0.0,1786877,2021,Cholera
-Chiang Rai,0,0.0,0,0.0,1296725,2021,Cholera
-Lampang,0,0.0,0,0.0,726821,2021,Cholera
-Lamphun,0,0.0,0,0.0,401574,2021,Cholera
-Mae Hong Son,0,0.0,0,0.0,285232,2021,Cholera
-Nan,0,0.0,0,0.0,476300,2021,Cholera
-Phayao,0,0.0,0,0.0,465930,2021,Cholera
-Phrae,0,0.0,0,0.0,435965,2021,Cholera
-ZONE:02,0,0.0,0,0.0,3536074,2021,Cholera
-Phetchabun,0,0.0,0,0.0,980156,2021,Cholera
-Phitsanulok,0,0.0,0,0.0,848432,2021,Cholera
-Sukhothai,0,0.0,0,0.0,586617,2021,Cholera
-Tak,0,0.0,0,0.0,673423,2021,Cholera
-Uttaradit,0,0.0,0,0.0,447446,2021,Cholera
-ZONE:03,0,0.0,0,0.0,2928596,2021,Cholera
-Chai Nat,0,0.0,0,0.0,321454,2021,Cholera
-Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Cholera
-Nakhon Sawan,0,0.0,0,0.0,1037668,2021,Cholera
-Phichit,0,0.0,0,0.0,530852,2021,Cholera
-Uthai Thani,0,0.0,0,0.0,325492,2021,Cholera
-ZONE:04,0,0.0,0,0.0,5411959,2021,Cholera
-Ang Thong,0,0.0,0,0.0,275673,2021,Cholera
-Lop Buri,0,0.0,0,0.0,741200,2021,Cholera
-Nakhon Nayok,0,0.0,0,0.0,260256,2021,Cholera
-Nonthaburi,0,0.0,0,0.0,1282690,2021,Cholera
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Cholera
-Pathum Thani,0,0.0,0,0.0,1183235,2021,Cholera
-Saraburi,0,0.0,0,0.0,643895,2021,Cholera
-Sing Buri,0,0.0,0,0.0,205211,2021,Cholera
-ZONE:05,0,0.0,0,0.0,5332653,2021,Cholera
-Kanchanaburi,0,0.0,0,0.0,893014,2021,Cholera
-Nakhon Pathom,0,0.0,0,0.0,921450,2021,Cholera
-Phetchaburi,0,0.0,0,0.0,482534,2021,Cholera
-Prachuap Khiri Khan,0,0.0,0,0.0,551924,2021,Cholera
-Ratchaburi,0,0.0,0,0.0,868797,2021,Cholera
-Samut Sakhon,0,0.0,0,0.0,586494,2021,Cholera
-Samut Songkhram,0,0.0,0,0.0,191447,2021,Cholera
-Suphan Buri,0,0.0,0,0.0,836993,2021,Cholera
-ZONE:06,0,0.0,0,0.0,6218594,2021,Cholera
-Chachoengsao,0,0.0,0,0.0,722448,2021,Cholera
-Chanthaburi,0,0.0,0,0.0,536058,2021,Cholera
-Chon Buri,0,0.0,0,0.0,1575278,2021,Cholera
-Prachin Buri,0,0.0,0,0.0,494498,2021,Cholera
-Rayong,0,0.0,0,0.0,746433,2021,Cholera
-Sa Kaeo,0,0.0,0,0.0,561459,2021,Cholera
-Samut Prakan,0,0.0,0,0.0,1353964,2021,Cholera
-Trat,0,0.0,0,0.0,228456,2021,Cholera
-ZONE:07,0,0.0,0,0.0,5017381,2021,Cholera
-Kalasin,0,0.0,0,0.0,976373,2021,Cholera
-Khon Kaen,0,0.0,0,0.0,1792697,2021,Cholera
-Maha Sarakham,0,0.0,0,0.0,950985,2021,Cholera
-Roi Et,0,0.0,0,0.0,1297326,2021,Cholera
-ZONE:08,0,0.0,0,0.0,5518109,2021,Cholera
-Bungkan,0,0.0,0,0.0,422019,2021,Cholera
-Loei,0,0.0,0,0.0,638734,2021,Cholera
-Nakhon Phanom,0,0.0,0,0.0,717121,2021,Cholera
-Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Cholera
-Nong Khai,0,0.0,0,0.0,517140,2021,Cholera
-Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Cholera
-Udon Thani,0,0.0,0,0.0,1567247,2021,Cholera
-ZONE:09,0,0.0,0,0.0,6714997,2021,Cholera
-Buri Ram,0,0.0,0,0.0,1580495,2021,Cholera
-Chaiyaphum,0,0.0,0,0.0,1123595,2021,Cholera
-Nakhon Ratchasima,0,0.0,0,0.0,2633681,2021,Cholera
-Surin,0,0.0,0,0.0,1377226,2021,Cholera
-ZONE:10,0,0.0,0,0.0,4587095,2021,Cholera
-Amnat Charoen,0,0.0,0,0.0,376273,2021,Cholera
-Mukdahan,0,0.0,0,0.0,351198,2021,Cholera
-Si Sa Ket,0,0.0,0,0.0,1458068,2021,Cholera
-Ubon Ratchathani,0,0.0,0,0.0,1867608,2021,Cholera
-Yasothon,0,0.0,0,0.0,533948,2021,Cholera
-ZONE:11,0,0.0,0,0.0,4487259,2021,Cholera
-Chumphon,0,0.0,0,0.0,509344,2021,Cholera
-Krabi,0,0.0,0,0.0,478561,2021,Cholera
-Nakhon Si Thammarat,0,0.0,0,0.0,1550033,2021,Cholera
-Phangnga,0,0.0,0,0.0,268123,2021,Cholera
-Phuket,0,0.0,0,0.0,416629,2021,Cholera
-Ranong,0,0.0,0,0.0,194473,2021,Cholera
-Surat Thani,0,0.0,0,0.0,1070096,2021,Cholera
-ZONE:12,0,0.0,0,0.0,4992834,2021,Cholera
-Narathiwat,0,0.0,0,0.0,807045,2021,Cholera
-Pattani,0,0.0,0,0.0,727799,2021,Cholera
-Phatthalung,0,0.0,0,0.0,522810,2021,Cholera
-Satun,0,0.0,0,0.0,324467,2021,Cholera
-Songkhla,0,0.0,0,0.0,1430073,2021,Cholera
-Trang,0,0.0,0,0.0,640182,2021,Cholera
-Yala,0,0.0,0,0.0,540458,2021,Cholera
-ZONE:13,1,0.02,0,0.0,5558108,2021,Cholera
-Bangkok,1,0.02,0,0.0,5558108,2021,Cholera
+Total,279,0.45,0,0.0,62195878,2005,Cholera
+North Region,208,1.75,0,0.0,11862916,2005,Cholera
+Zone:1,1,0.02,0,0.0,5729312,2005,Cholera
+Chiang Mai,1,0.06,0,0.0,1640390,2005,Cholera
+Chiang Rai,0,0.0,0,0.0,1219732,2005,Cholera
+Lampang,0,0.0,0,0.0,777827,2005,Cholera
+Lamphun,0,0.0,0,0.0,404754,2005,Cholera
+Mae Hong Son,0,0.0,0,0.0,248672,2005,Cholera
+Nan,0,0.0,0,0.0,477917,2005,Cholera
+Phayao,0,0.0,0,0.0,487616,2005,Cholera
+Phrae,0,0.0,0,0.0,472404,2005,Cholera
+Zone:2,207,6.01,0,0.0,3442642,2005,Cholera
+Phetchabun,0,0.0,0,0.0,1001820,2005,Cholera
+Phitsanulok,0,0.0,0,0.0,841248,2005,Cholera
+Sukhothai,0,0.0,0,0.0,610871,2005,Cholera
+Tak,207,39.88,0,0.0,519037,2005,Cholera
+Uttaradit,0,0.0,0,0.0,469666,2005,Cholera
+Zone:3,0,0.0,0,0.0,2690962,2005,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,727351,2005,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1077634,2005,Cholera
+Phichit,0,0.0,0,0.0,559611,2005,Cholera
+Uthai Thani,0,0.0,0,0.0,326366,2005,Cholera
+Central Region,19,0.09,0,0.0,20560399,2005,Cholera
+Bangkok,6,0.11,0,0.0,5646543,2005,Cholera
+Zone:4,1,0.04,0,0.0,2777019,2005,Cholera
+Ang Thong,0,0.0,0,0.0,283373,2005,Cholera
+Nonthaburi,0,0.0,0,0.0,957287,2005,Cholera
+P.Nakhon S.Ayutthaya,1,0.13,0,0.0,743659,2005,Cholera
+Pathum Thani,0,0.0,0,0.0,792700,2005,Cholera
+Zone:5,2,0.1,0,0.0,1909368,2005,Cholera
+Chai Nat,0,0.0,0,0.0,340812,2005,Cholera
+Lop Buri,0,0.0,0,0.0,750718,2005,Cholera
+Saraburi,2,0.33,0,0.0,598905,2005,Cholera
+Sing Buri,0,0.0,0,0.0,218933,2005,Cholera
+Zone:6,2,0.06,0,0.0,3282327,2005,Cholera
+Kanchanaburi,1,0.12,0,0.0,818218,2005,Cholera
+Nakhon Pathom,0,0.0,0,0.0,803489,2005,Cholera
+Ratchaburi,0,0.0,0,0.0,819286,2005,Cholera
+Suphan Buri,1,0.12,0,0.0,841334,2005,Cholera
+Zone:7,0,0.0,0,0.0,1578246,2005,Cholera
+Phetchaburi,0,0.0,0,0.0,452506,2005,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,483243,2005,Cholera
+Samut Sakhon,0,0.0,0,0.0,447353,2005,Cholera
+Samut Songkhram,0,0.0,0,0.0,195144,2005,Cholera
+Zone:8,4,0.14,0,0.0,2943051,2005,Cholera
+Chachoengsao,2,0.31,0,0.0,645521,2005,Cholera
+Nakhon Nayok,0,0.0,0,0.0,249686,2005,Cholera
+Prachin Buri,0,0.0,0,0.0,447783,2005,Cholera
+Sa Kaeo,0,0.0,0,0.0,536591,2005,Cholera
+Samut Prakan,2,0.19,0,0.0,1063470,2005,Cholera
+Zone:9,4,0.17,0,0.0,2423845,2005,Cholera
+Chanthaburi,1,0.2,0,0.0,496081,2005,Cholera
+Chon Buri,2,0.17,0,0.0,1157709,2005,Cholera
+Rayong,1,0.18,0,0.0,551512,2005,Cholera
+Trat,0,0.0,0,0.0,218543,2005,Cholera
+North-Eastern Region,14,0.07,0,0.0,21297778,2005,Cholera
+Zone:10,1,0.03,0,0.0,3524138,2005,Cholera
+Loei,0,0.0,0,0.0,611448,2005,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,495626,2005,Cholera
+Nong Khai,0,0.0,0,0.0,895911,2005,Cholera
+Udon Thani,1,0.07,0,0.0,1521153,2005,Cholera
+Zone:11,1,0.03,0,0.0,3101003,2005,Cholera
+Kalasin,0,0.0,0,0.0,972425,2005,Cholera
+Mukdahan,0,0.0,0,0.0,333338,2005,Cholera
+Nakhon Phanom,0,0.0,0,0.0,692377,2005,Cholera
+Sakon Nakhon,1,0.09,0,0.0,1102863,2005,Cholera
+Zone:12,2,0.05,0,0.0,3991075,2005,Cholera
+Khon Kaen,2,0.11,0,0.0,1744646,2005,Cholera
+Maha Sarakham,0,0.0,0,0.0,935967,2005,Cholera
+Roi Et,0,0.0,0,0.0,1310462,2005,Cholera
+Zone:13,9,0.14,0,0.0,6560991,2005,Cholera
+Buri Ram,0,0.0,0,0.0,1527846,2005,Cholera
+Chaiyaphum,1,0.09,0,0.0,1117026,2005,Cholera
+Nakhon Ratchasima,7,0.28,0,0.0,2543054,2005,Cholera
+Surin,1,0.07,0,0.0,1373065,2005,Cholera
+Zone:14,1,0.02,0,0.0,4120571,2005,Cholera
+Amnat Charoen,0,0.0,0,0.0,368153,2005,Cholera
+Si Sa Ket,0,0.0,0,0.0,1442190,2005,Cholera
+Ubon Ratchathani,1,0.06,0,0.0,1768935,2005,Cholera
+Yasothon,0,0.0,0,0.0,541293,2005,Cholera
+South Region,38,0.45,0,0.0,8474785,2005,Cholera
+Zone:15,35,2.2,0,0.0,1593965,2005,Cholera
+Chumphon,0,0.0,0,0.0,473916,2005,Cholera
+Ranong,35,19.75,0,0.0,177247,2005,Cholera
+Surat Thani,0,0.0,0,0.0,942802,2005,Cholera
+Zone:16,1,0.04,0,0.0,2600847,2005,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1502382,2005,Cholera
+Phatthalung,0,0.0,0,0.0,499399,2005,Cholera
+Trang,1,0.17,0,0.0,599066,2005,Cholera
+Zone:17,0,0.0,0,0.0,921037,2005,Cholera
+Krabi,0,0.0,0,0.0,391709,2005,Cholera
+Phangnga,0,0.0,0,0.0,240254,2005,Cholera
+Phuket,0,0.0,0,0.0,289074,2005,Cholera
+Zone:18,2,0.11,0,0.0,1791264,2005,Cholera
+Narathiwat,0,0.0,0,0.0,697150,2005,Cholera
+Pattani,2,0.32,0,0.0,632119,2005,Cholera
+Yala,0,0.0,0,0.0,461995,2005,Cholera
+Zone:19,0,0.0,0,0.0,1567672,2005,Cholera
+Satun,0,0.0,0,0.0,275706,2005,Cholera
+Songkhla,0,0.0,0,0.0,1291966,2005,Cholera
+Total,986,1.57,7,0.01,62933515,2007,Cholera
+North Region,153,1.29,0,0.0,11881352,2007,Cholera
+Zone:1,8,0.14,0,0.0,5750312,2007,Cholera
+Chiang Mai,0,0.0,0,0.0,1661349,2007,Cholera
+Chiang Rai,0,0.0,0,0.0,1225364,2007,Cholera
+Lampang,1,0.13,0,0.0,772202,2007,Cholera
+Lamphun,7,1.73,0,0.0,405361,2007,Cholera
+Mae Hong Son,0,0.0,0,0.0,254990,2007,Cholera
+Nan,0,0.0,0,0.0,477522,2007,Cholera
+Phayao,0,0.0,0,0.0,486399,2007,Cholera
+Phrae,0,0.0,0,0.0,467125,2007,Cholera
+Zone:2,138,4.0,0,0.0,3445764,2007,Cholera
+Phetchabun,1,0.1,0,0.0,999924,2007,Cholera
+Phitsanulok,1,0.12,0,0.0,843096,2007,Cholera
+Sukhothai,0,0.0,0,0.0,607061,2007,Cholera
+Tak,136,25.69,0,0.0,529303,2007,Cholera
+Uttaradit,0,0.0,0,0.0,466380,2007,Cholera
+Zone:3,7,0.26,0,0.0,2685276,2007,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,727158,2007,Cholera
+Nakhon Sawan,7,0.65,0,0.0,1074849,2007,Cholera
+Phichit,0,0.0,0,0.0,556287,2007,Cholera
+Uthai Thani,0,0.0,0,0.0,326982,2007,Cholera
+Central Region,91,0.43,1,0.0,21043273,2007,Cholera
+Bangkok,20,0.35,0,0.0,5706103,2007,Cholera
+Zone:4,27,0.92,1,0.03,2932544,2007,Cholera
+Ang Thong,1,0.35,0,0.0,284175,2007,Cholera
+Nonthaburi,1,0.1,0,0.0,1011624,2007,Cholera
+P.Nakhon S.Ayutthaya,25,3.3,1,0.13,757654,2007,Cholera
+Pathum Thani,0,0.0,0,0.0,879091,2007,Cholera
+Zone:5,6,0.31,0,0.0,1918492,2007,Cholera
+Chai Nat,0,0.0,0,0.0,338077,2007,Cholera
+Lop Buri,5,0.67,0,0.0,751298,2007,Cholera
+Saraburi,1,0.16,0,0.0,612806,2007,Cholera
+Sing Buri,0,0.0,0,0.0,216311,2007,Cholera
+Zone:6,5,0.15,0,0.0,3334732,2007,Cholera
+Kanchanaburi,1,0.12,0,0.0,834865,2007,Cholera
+Nakhon Pathom,2,0.24,0,0.0,826438,2007,Cholera
+Ratchaburi,2,0.24,0,0.0,830184,2007,Cholera
+Suphan Buri,0,0.0,0,0.0,843245,2007,Cholera
+Zone:7,27,1.68,0,0.0,1611697,2007,Cholera
+Phetchaburi,0,0.0,0,0.0,456371,2007,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,494502,2007,Cholera
+Samut Sakhon,26,5.58,0,0.0,466222,2007,Cholera
+Samut Songkhram,1,0.51,0,0.0,194602,2007,Cholera
+Zone:8,3,0.1,0,0.0,3016265,2007,Cholera
+Chachoengsao,1,0.15,0,0.0,656586,2007,Cholera
+Nakhon Nayok,0,0.0,0,0.0,249250,2007,Cholera
+Prachin Buri,0,0.0,0,0.0,454404,2007,Cholera
+Sa Kaeo,1,0.19,0,0.0,538741,2007,Cholera
+Samut Prakan,1,0.09,0,0.0,1117284,2007,Cholera
+Zone:9,3,0.12,0,0.0,2523440,2007,Cholera
+Chanthaburi,0,0.0,0,0.0,503197,2007,Cholera
+Chon Buri,1,0.08,0,0.0,1221369,2007,Cholera
+Rayong,2,0.35,0,0.0,578628,2007,Cholera
+Trat,0,0.0,0,0.0,220246,2007,Cholera
+North-Eastern Region,434,2.03,5,0.02,21381249,2007,Cholera
+Zone:10,33,0.93,2,0.06,3541793,2007,Cholera
+Loei,3,0.49,1,0.16,614421,2007,Cholera
+Nong Bua Lam Phu,1,0.2,0,0.0,497148,2007,Cholera
+Nong Khai,6,0.67,1,0.11,901100,2007,Cholera
+Udon Thani,23,1.5,0,0.0,1529124,2007,Cholera
+Zone:11,114,3.65,0,0.0,3119599,2007,Cholera
+Kalasin,33,3.38,0,0.0,976536,2007,Cholera
+Mukdahan,3,0.89,0,0.0,335778,2007,Cholera
+Nakhon Phanom,9,1.29,0,0.0,696229,2007,Cholera
+Sakon Nakhon,69,6.21,0,0.0,1111056,2007,Cholera
+Zone:12,270,6.75,3,0.08,3997622,2007,Cholera
+Khon Kaen,199,11.36,2,0.11,1751458,2007,Cholera
+Maha Sarakham,59,6.3,1,0.11,936846,2007,Cholera
+Roi Et,12,0.92,0,0.0,1309318,2007,Cholera
+Zone:13,13,0.2,0,0.0,6583974,2007,Cholera
+Buri Ram,0,0.0,0,0.0,1536396,2007,Cholera
+Chaiyaphum,12,1.07,0,0.0,1119372,2007,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2554241,2007,Cholera
+Surin,0,0.0,0,0.0,1373965,2007,Cholera
+Zone:14,4,0.1,0,0.0,4138261,2007,Cholera
+Amnat Charoen,2,0.54,0,0.0,368925,2007,Cholera
+Si Sa Ket,0,0.0,0,0.0,1444748,2007,Cholera
+Ubon Ratchathani,2,0.11,0,0.0,1784372,2007,Cholera
+Yasothon,0,0.0,0,0.0,540216,2007,Cholera
+South Region,308,3.57,1,0.01,8627641,2007,Cholera
+Zone:15,157,9.66,1,0.06,1626011,2007,Cholera
+Chumphon,9,1.87,0,0.0,480131,2007,Cholera
+Ranong,114,63.22,0,0.0,180319,2007,Cholera
+Surat Thani,34,3.52,1,0.1,965561,2007,Cholera
+Zone:16,9,0.34,0,0.0,2620564,2007,Cholera
+Nakhon Si Thammarat,8,0.53,0,0.0,1508729,2007,Cholera
+Phatthalung,0,0.0,0,0.0,502943,2007,Cholera
+Trang,1,0.16,0,0.0,608892,2007,Cholera
+Zone:17,108,11.24,0,0.0,961258,2007,Cholera
+Krabi,1,0.25,0,0.0,406999,2007,Cholera
+Phangnga,8,3.25,0,0.0,246141,2007,Cholera
+Phuket,99,32.13,0,0.0,308118,2007,Cholera
+Zone:18,23,1.27,0,0.0,1815585,2007,Cholera
+Narathiwat,3,0.42,0,0.0,709345,2007,Cholera
+Pattani,8,1.26,0,0.0,636768,2007,Cholera
+Yala,12,2.56,0,0.0,469472,2007,Cholera
+Zone:19,11,0.69,0,0.0,1604223,2007,Cholera
+Satun,1,0.35,0,0.0,283014,2007,Cholera
+Songkhla,10,0.76,0,0.0,1321209,2007,Cholera
+Total,45,0.07,0,0.0,64075986,2012,Cholera
+Central Region,17,0.08,0,0.0,21734984,2012,Cholera
+Zone:0,4,0.07,0,0.0,5674843,2012,Cholera
+Bangkok,4,0.07,0,0.0,5674843,2012,Cholera
+Zone:1,1,0.03,0,0.0,3541632,2012,Cholera
+Nonthaburi,1,0.09,0,0.0,1122627,2012,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2012,Cholera
+Pathum Thani,0,0.0,0,0.0,1010898,2012,Cholera
+Saraburi,0,0.0,0,0.0,620454,2012,Cholera
+Zone:2,0,0.0,0,0.0,1587031,2012,Cholera
+Ang Thong,0,0.0,0,0.0,284061,2012,Cholera
+Chai Nat,0,0.0,0,0.0,333256,2012,Cholera
+Lop Buri,0,0.0,0,0.0,756127,2012,Cholera
+Sing Buri,0,0.0,0,0.0,213587,2012,Cholera
+Zone:3,0,0.0,0,0.0,3151672,2012,Cholera
+Chachoengsao,0,0.0,0,0.0,679370,2012,Cholera
+Nakhon Nayok,0,0.0,0,0.0,253831,2012,Cholera
+Prachin Buri,0,0.0,0,0.0,469652,2012,Cholera
+Sa Kaeo,0,0.0,0,0.0,545596,2012,Cholera
+Samut Prakan,0,0.0,0,0.0,1203223,2012,Cholera
+Zone:4,9,0.27,0,0.0,3392715,2012,Cholera
+Kanchanaburi,0,0.0,0,0.0,838914,2012,Cholera
+Nakhon Pathom,0,0.0,0,0.0,866064,2012,Cholera
+Ratchaburi,8,0.95,0,0.0,842684,2012,Cholera
+Suphan Buri,1,0.12,0,0.0,845053,2012,Cholera
+Zone:5,1,0.06,0,0.0,1671831,2012,Cholera
+Phetchaburi,0,0.0,0,0.0,466079,2012,Cholera
+Prachuap Khiri Khan,1,0.2,0,0.0,512568,2012,Cholera
+Samut Sakhon,0,0.0,0,0.0,499098,2012,Cholera
+Samut Songkhram,0,0.0,0,0.0,194086,2012,Cholera
+Zone:9,2,0.07,0,0.0,2715260,2012,Cholera
+Chanthaburi,0,0.0,0,0.0,516855,2012,Cholera
+Chon Buri,1,0.07,0,0.0,1338656,2012,Cholera
+Rayong,0,0.0,0,0.0,637736,2012,Cholera
+Trat,1,0.45,0,0.0,222013,2012,Cholera
+South Region,7,0.08,0,0.0,8971808,2012,Cholera
+Zone:6,0,0.0,0,0.0,3541333,2012,Cholera
+Chumphon,0,0.0,0,0.0,492182,2012,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2012,Cholera
+Phatthalung,0,0.0,0,0.0,511016,2012,Cholera
+Surat Thani,0,0.0,0,0.0,1012064,2012,Cholera
+Zone:7,2,0.11,0,0.0,1857374,2012,Cholera
+Krabi,0,0.0,0,0.0,438039,2012,Cholera
+Phangnga,0,0.0,0,0.0,254931,2012,Cholera
+Phuket,1,0.28,0,0.0,353847,2012,Cholera
+Ranong,1,0.54,0,0.0,183849,2012,Cholera
+Trang,0,0.0,0,0.0,626708,2012,Cholera
+Zone:8,5,0.14,0,0.0,3573101,2012,Cholera
+Narathiwat,0,0.0,0,0.0,747372,2012,Cholera
+Pattani,0,0.0,0,0.0,663485,2012,Cholera
+Satun,0,0.0,0,0.0,301467,2012,Cholera
+Songkhla,0,0.0,0,0.0,1367010,2012,Cholera
+Yala,5,1.01,0,0.0,493767,2012,Cholera
+North-Eastern Region,7,0.03,0,0.0,21585883,2012,Cholera
+Zone:10,1,0.03,0,0.0,3593082,2012,Cholera
+Bungkan,0,0.0,0,0.0,407634,2012,Cholera
+Loei,0,0.0,0,0.0,624920,2012,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,502551,2012,Cholera
+Nong Khai,0,0.0,0,0.0,509870,2012,Cholera
+Udon Thani,1,0.06,0,0.0,1548107,2012,Cholera
+Zone:11,0,0.0,0,0.0,2168700,2012,Cholera
+Mukdahan,0,0.0,0,0.0,340581,2012,Cholera
+Nakhon Phanom,0,0.0,0,0.0,704768,2012,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1123351,2012,Cholera
+Zone:12,4,0.08,0,0.0,4992515,2012,Cholera
+Kalasin,0,0.0,0,0.0,981655,2012,Cholera
+Khon Kaen,4,0.23,0,0.0,1766066,2012,Cholera
+Maha Sarakham,0,0.0,0,0.0,939736,2012,Cholera
+Roi Et,0,0.0,0,0.0,1305058,2012,Cholera
+Zone:13,1,0.02,0,0.0,4179354,2012,Cholera
+Amnat Charoen,0,0.0,0,0.0,372241,2012,Cholera
+Si Sa Ket,0,0.0,0,0.0,1452203,2012,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1816057,2012,Cholera
+Yasothon,1,0.19,0,0.0,538853,2012,Cholera
+Zone:14,1,0.02,0,0.0,6652232,2012,Cholera
+Buri Ram,0,0.0,0,0.0,1559085,2012,Cholera
+Chaiyaphum,0,0.0,0,0.0,1127423,2012,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2585325,2012,Cholera
+Surin,0,0.0,0,0.0,1380399,2012,Cholera
+North Region,14,0.12,0,0.0,11783311,2012,Cholera
+Zone:15,1,0.03,0,0.0,3051678,2012,Cholera
+Chiang Mai,1,0.06,0,0.0,1646144,2012,Cholera
+Lampang,0,0.0,0,0.0,757534,2012,Cholera
+Lamphun,0,0.0,0,0.0,403952,2012,Cholera
+Mae Hong Son,0,0.0,0,0.0,244048,2012,Cholera
+Zone:16,0,0.0,0,0.0,2620490,2012,Cholera
+Chiang Rai,0,0.0,0,0.0,1198656,2012,Cholera
+Nan,0,0.0,0,0.0,476612,2012,Cholera
+Phayao,0,0.0,0,0.0,486472,2012,Cholera
+Phrae,0,0.0,0,0.0,458750,2012,Cholera
+Zone:17,13,0.38,0,0.0,3435726,2012,Cholera
+Phetchabun,0,0.0,0,0.0,990807,2012,Cholera
+Phitsanulok,0,0.0,0,0.0,851357,2012,Cholera
+Sukhothai,0,0.0,0,0.0,601504,2012,Cholera
+Tak,13,2.45,0,0.0,531018,2012,Cholera
+Uttaradit,0,0.0,0,0.0,461040,2012,Cholera
+Zone:18,0,0.0,0,0.0,2675417,2012,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,726009,2012,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1071686,2012,Cholera
+Phichit,0,0.0,0,0.0,549688,2012,Cholera
+Uthai Thani,0,0.0,0,0.0,328034,2012,Cholera
 Total,5,0.01,1,0.0,66171439,2022,Cholera
 ZONE:01,0,0.0,0,0.0,5874503,2022,Cholera
 Chiang Mai,0,0.0,0,0.0,1789385,2022,Cholera
@@ -1819,6 +872,680 @@ Trang,0,0.0,0,0.0,639788,2022,Cholera
 Yala,0,0.0,0,0.0,542314,2022,Cholera
 ZONE:13,1,0.02,0,0.0,5527994,2022,Cholera
 Bangkok,1,0.02,0,0.0,5527994,2022,Cholera
+Total,1597,2.51,14,0.02,63701703,2010,Cholera
+Central Region,301,1.4,8,0.04,21534318,2010,Cholera
+Zone:0,34,0.6,0,0.0,5701995,2010,Cholera
+Bangkok,34,0.6,0,0.0,5701995,2010,Cholera
+Zone:1,10,0.29,1,0.03,3454591,2010,Cholera
+Nonthaburi,5,0.46,0,0.0,1089908,2010,Cholera
+P.Nakhon S.Ayutthaya,3,0.39,0,0.0,778627,2010,Cholera
+Pathum Thani,1,0.1,1,0.1,971010,2010,Cholera
+Saraburi,1,0.16,0,0.0,615046,2010,Cholera
+Zone:2,2,0.13,0,0.0,1590200,2010,Cholera
+Ang Thong,0,0.0,0,0.0,284889,2010,Cholera
+Chai Nat,0,0.0,0,0.0,335177,2010,Cholera
+Lop Buri,1,0.13,0,0.0,755153,2010,Cholera
+Sing Buri,1,0.47,0,0.0,214981,2010,Cholera
+Zone:3,5,0.16,0,0.0,3105799,2010,Cholera
+Chachoengsao,5,0.74,0,0.0,671458,2010,Cholera
+Nakhon Nayok,0,0.0,0,0.0,252209,2010,Cholera
+Prachin Buri,0,0.0,0,0.0,464213,2010,Cholera
+Sa Kaeo,0,0.0,0,0.0,543276,2010,Cholera
+Samut Prakan,0,0.0,0,0.0,1174643,2010,Cholera
+Zone:4,3,0.09,0,0.0,3374810,2010,Cholera
+Kanchanaburi,0,0.0,0,0.0,836600,2010,Cholera
+Nakhon Pathom,1,0.12,0,0.0,855837,2010,Cholera
+Ratchaburi,2,0.24,0,0.0,837153,2010,Cholera
+Suphan Buri,0,0.0,0,0.0,845220,2010,Cholera
+Zone:5,76,4.6,3,0.18,1651335,2010,Cholera
+Phetchaburi,3,0.65,0,0.0,462636,2010,Cholera
+Prachuap Khiri Khan,9,1.78,0,0.0,506599,2010,Cholera
+Samut Sakhon,61,12.49,2,0.41,488247,2010,Cholera
+Samut Songkhram,3,1.55,1,0.52,193853,2010,Cholera
+Zone:9,171,6.44,4,0.15,2655588,2010,Cholera
+Chanthaburi,7,1.36,0,0.0,512932,2010,Cholera
+Chon Buri,7,0.54,0,0.0,1302942,2010,Cholera
+Rayong,71,11.47,2,0.32,619249,2010,Cholera
+Trat,86,39.01,2,0.91,220465,2010,Cholera
+South Region,665,7.51,4,0.05,8853473,2010,Cholera
+Zone:6,34,0.97,0,0.0,3514344,2010,Cholera
+Chumphon,10,2.05,0,0.0,488855,2010,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1519531,2010,Cholera
+Phatthalung,0,0.0,0,0.0,508656,2010,Cholera
+Surat Thani,24,2.41,0,0.0,997302,2010,Cholera
+Zone:7,9,0.49,0,0.0,1825591,2010,Cholera
+Krabi,7,1.63,0,0.0,429631,2010,Cholera
+Phangnga,0,0.0,0,0.0,252385,2010,Cholera
+Phuket,0,0.0,0,0.0,340490,2010,Cholera
+Ranong,0,0.0,0,0.0,182417,2010,Cholera
+Trang,2,0.32,0,0.0,620668,2010,Cholera
+Zone:8,622,17.7,4,0.11,3513538,2010,Cholera
+Narathiwat,9,1.23,0,0.0,732617,2010,Cholera
+Pattani,600,92.1,3,0.46,651442,2010,Cholera
+Satun,0,0.0,0,0.0,295133,2010,Cholera
+Songkhla,6,0.44,1,0.07,1350489,2010,Cholera
+Yala,7,1.45,0,0.0,483857,2010,Cholera
+North-Eastern Region,360,1.67,2,0.01,21534582,2010,Cholera
+Zone:10,10,0.28,0,0.0,3576272,2010,Cholera
+Loei,0,0.0,0,0.0,622424,2010,Cholera
+Nong Bua Lam Phu,10,1.99,0,0.0,501891,2010,Cholera
+Nong Khai,0,0.0,0,0.0,910094,2010,Cholera
+Udon Thani,0,0.0,0,0.0,1541863,2010,Cholera
+Zone:11,7,0.32,0,0.0,2161531,2010,Cholera
+Mukdahan,7,2.07,0,0.0,338812,2010,Cholera
+Nakhon Phanom,0,0.0,0,0.0,702041,2010,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1120678,2010,Cholera
+Zone:12,197,3.94,0,0.0,4995226,2010,Cholera
+Kalasin,45,4.59,0,0.0,981369,2010,Cholera
+Khon Kaen,65,3.68,0,0.0,1764922,2010,Cholera
+Maha Sarakham,87,9.26,0,0.0,940001,2010,Cholera
+Roi Et,0,0.0,0,0.0,1308934,2010,Cholera
+Zone:13,0,0.0,0,0.0,4168498,2010,Cholera
+Amnat Charoen,0,0.0,0,0.0,371471,2010,Cholera
+Si Sa Ket,0,0.0,0,0.0,1449409,2010,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1808422,2010,Cholera
+Yasothon,0,0.0,0,0.0,539196,2010,Cholera
+Zone:14,146,2.2,2,0.03,6633055,2010,Cholera
+Buri Ram,0,0.0,0,0.0,1550275,2010,Cholera
+Chaiyaphum,5,0.44,0,0.0,1126295,2010,Cholera
+Nakhon Ratchasima,140,5.43,2,0.08,2576691,2010,Cholera
+Surin,1,0.07,0,0.0,1379794,2010,Cholera
+North Region,271,2.3,0,0.0,11779330,2010,Cholera
+Zone:15,10,0.33,0,0.0,3046660,2010,Cholera
+Chiang Mai,0,0.0,0,0.0,1636514,2010,Cholera
+Lampang,0,0.0,0,0.0,763224,2010,Cholera
+Lamphun,10,2.47,0,0.0,404627,2010,Cholera
+Mae Hong Son,0,0.0,0,0.0,242295,2010,Cholera
+Zone:16,6,0.23,0,0.0,2620701,2010,Cholera
+Chiang Rai,0,0.0,0,0.0,1196576,2010,Cholera
+Nan,0,0.0,0,0.0,475989,2010,Cholera
+Phayao,5,1.03,0,0.0,486713,2010,Cholera
+Phrae,1,0.22,0,0.0,461423,2010,Cholera
+Zone:17,254,7.4,0,0.0,3430959,2010,Cholera
+Phetchabun,1,0.1,0,0.0,995578,2010,Cholera
+Phitsanulok,0,0.0,0,0.0,847627,2010,Cholera
+Sukhothai,0,0.0,0,0.0,602296,2010,Cholera
+Tak,253,48.41,0,0.0,522673,2010,Cholera
+Uttaradit,0,0.0,0,0.0,462785,2010,Cholera
+Zone:18,1,0.04,0,0.0,2681010,2010,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,726970,2010,Cholera
+Nakhon Sawan,1,0.09,0,0.0,1073182,2010,Cholera
+Phichit,0,0.0,0,0.0,552942,2010,Cholera
+Uthai Thani,0,0.0,0,0.0,327916,2010,Cholera
+Total,8,0.01,0,0.0,64076033,2013,Cholera
+Central Region,0,0.0,0,0.0,21734984,2013,Cholera
+Zone:0,0,0.0,0,0.0,5674843,2013,Cholera
+Bangkok,0,0.0,0,0.0,5674843,2013,Cholera
+Zone:1,0,0.0,0,0.0,3541632,2013,Cholera
+Nonthaburi,0,0.0,0,0.0,1122627,2013,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2013,Cholera
+Pathum Thani,0,0.0,0,0.0,1010898,2013,Cholera
+Saraburi,0,0.0,0,0.0,620454,2013,Cholera
+Zone:2,0,0.0,0,0.0,1587031,2013,Cholera
+Ang Thong,0,0.0,0,0.0,284061,2013,Cholera
+Chai Nat,0,0.0,0,0.0,333256,2013,Cholera
+Lop Buri,0,0.0,0,0.0,756127,2013,Cholera
+Sing Buri,0,0.0,0,0.0,213587,2013,Cholera
+Zone:3,0,0.0,0,0.0,3151672,2013,Cholera
+Chachoengsao,0,0.0,0,0.0,679370,2013,Cholera
+Nakhon Nayok,0,0.0,0,0.0,253831,2013,Cholera
+Prachin Buri,0,0.0,0,0.0,469652,2013,Cholera
+Sa Kaeo,0,0.0,0,0.0,545596,2013,Cholera
+Samut Prakan,0,0.0,0,0.0,1203223,2013,Cholera
+Zone:4,0,0.0,0,0.0,3392715,2013,Cholera
+Kanchanaburi,0,0.0,0,0.0,838914,2013,Cholera
+Nakhon Pathom,0,0.0,0,0.0,866064,2013,Cholera
+Ratchaburi,0,0.0,0,0.0,842684,2013,Cholera
+Suphan Buri,0,0.0,0,0.0,845053,2013,Cholera
+Zone:5,0,0.0,0,0.0,1671831,2013,Cholera
+Phetchaburi,0,0.0,0,0.0,466079,2013,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,512568,2013,Cholera
+Samut Sakhon,0,0.0,0,0.0,499098,2013,Cholera
+Samut Songkhram,0,0.0,0,0.0,194086,2013,Cholera
+Zone:9,0,0.0,0,0.0,2715260,2013,Cholera
+Chanthaburi,0,0.0,0,0.0,516855,2013,Cholera
+Chon Buri,0,0.0,0,0.0,1338656,2013,Cholera
+Rayong,0,0.0,0,0.0,637736,2013,Cholera
+Trat,0,0.0,0,0.0,222013,2013,Cholera
+South Region,3,0.03,0,0.0,8971855,2013,Cholera
+Zone:6,1,0.03,0,0.0,3541380,2013,Cholera
+Chumphon,0,0.0,0,0.0,492182,2013,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2013,Cholera
+Phatthalung,0,0.0,0,0.0,511063,2013,Cholera
+Surat Thani,1,0.1,0,0.0,1012064,2013,Cholera
+Zone:7,2,0.11,0,0.0,1857374,2013,Cholera
+Krabi,0,0.0,0,0.0,438039,2013,Cholera
+Phangnga,0,0.0,0,0.0,254931,2013,Cholera
+Phuket,0,0.0,0,0.0,353847,2013,Cholera
+Ranong,2,1.09,0,0.0,183849,2013,Cholera
+Trang,0,0.0,0,0.0,626708,2013,Cholera
+Zone:8,0,0.0,0,0.0,3573101,2013,Cholera
+Narathiwat,0,0.0,0,0.0,747372,2013,Cholera
+Pattani,0,0.0,0,0.0,663485,2013,Cholera
+Satun,0,0.0,0,0.0,301467,2013,Cholera
+Songkhla,0,0.0,0,0.0,1367010,2013,Cholera
+Yala,0,0.0,0,0.0,493767,2013,Cholera
+North-Eastern Region,5,0.02,0,0.0,21585883,2013,Cholera
+Zone:10,0,0.0,0,0.0,3593082,2013,Cholera
+Bungkan,0,0.0,0,0.0,407634,2013,Cholera
+Loei,0,0.0,0,0.0,624920,2013,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,502551,2013,Cholera
+Nong Khai,0,0.0,0,0.0,509870,2013,Cholera
+Udon Thani,0,0.0,0,0.0,1548107,2013,Cholera
+Zone:11,0,0.0,0,0.0,2168700,2013,Cholera
+Mukdahan,0,0.0,0,0.0,340581,2013,Cholera
+Nakhon Phanom,0,0.0,0,0.0,704768,2013,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1123351,2013,Cholera
+Zone:12,4,0.08,0,0.0,4992515,2013,Cholera
+Kalasin,0,0.0,0,0.0,981655,2013,Cholera
+Khon Kaen,4,0.23,0,0.0,1766066,2013,Cholera
+Maha Sarakham,0,0.0,0,0.0,939736,2013,Cholera
+Roi Et,0,0.0,0,0.0,1305058,2013,Cholera
+Zone:13,0,0.0,0,0.0,4179354,2013,Cholera
+Amnat Charoen,0,0.0,0,0.0,372241,2013,Cholera
+Si Sa Ket,0,0.0,0,0.0,1452203,2013,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1816057,2013,Cholera
+Yasothon,0,0.0,0,0.0,538853,2013,Cholera
+Zone:14,1,0.02,0,0.0,6652232,2013,Cholera
+Buri Ram,0,0.0,0,0.0,1559085,2013,Cholera
+Chaiyaphum,0,0.0,0,0.0,1127423,2013,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2585325,2013,Cholera
+Surin,0,0.0,0,0.0,1380399,2013,Cholera
+North Region,0,0.0,0,0.0,11783311,2013,Cholera
+Zone:15,0,0.0,0,0.0,3051678,2013,Cholera
+Chiang Mai,0,0.0,0,0.0,1646144,2013,Cholera
+Lampang,0,0.0,0,0.0,757534,2013,Cholera
+Lamphun,0,0.0,0,0.0,403952,2013,Cholera
+Mae Hong Son,0,0.0,0,0.0,244048,2013,Cholera
+Zone:16,0,0.0,0,0.0,2620490,2013,Cholera
+Chiang Rai,0,0.0,0,0.0,1198656,2013,Cholera
+Nan,0,0.0,0,0.0,476612,2013,Cholera
+Phayao,0,0.0,0,0.0,486472,2013,Cholera
+Phrae,0,0.0,0,0.0,458750,2013,Cholera
+Zone:17,0,0.0,0,0.0,3435726,2013,Cholera
+Phetchabun,0,0.0,0,0.0,990807,2013,Cholera
+Phitsanulok,0,0.0,0,0.0,851357,2013,Cholera
+Sukhothai,0,0.0,0,0.0,601504,2013,Cholera
+Tak,0,0.0,0,0.0,531018,2013,Cholera
+Uttaradit,0,0.0,0,0.0,461040,2013,Cholera
+Zone:18,0,0.0,0,0.0,2675417,2013,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,726009,2013,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1071686,2013,Cholera
+Phichit,0,0.0,0,0.0,549688,2013,Cholera
+Uthai Thani,0,0.0,0,0.0,328034,2013,Cholera
+Total,108,0.17,1,0.0,65124716,2015,Cholera
+ZONE:00,5,0.09,0,0.0,5692284,2015,Cholera
+Bangkok,5,0.09,0,0.0,5692284,2015,Cholera
+ZONE:01,0,0.0,0,0.0,5709443,2015,Cholera
+Chiang Mai,0,0.0,0,0.0,1678284,2015,Cholera
+Chiang Rai,0,0.0,0,0.0,1207699,2015,Cholera
+Lampang,0,0.0,0,0.0,753013,2015,Cholera
+Lamphun,0,0.0,0,0.0,405468,2015,Cholera
+Mae Hong Son,0,0.0,0,0.0,248178,2015,Cholera
+Nan,0,0.0,0,0.0,478264,2015,Cholera
+Phayao,0,0.0,0,0.0,484454,2015,Cholera
+Phrae,0,0.0,0,0.0,454083,2015,Cholera
+ZONE:02,3,0.09,0,0.0,3457208,2015,Cholera
+Phetchabun,1,0.1,0,0.0,995807,2015,Cholera
+Phitsanulok,0,0.0,0,0.0,858988,2015,Cholera
+Sukhothai,0,0.0,0,0.0,602460,2015,Cholera
+Tak,2,0.37,0,0.0,539553,2015,Cholera
+Uttaradit,0,0.0,0,0.0,460400,2015,Cholera
+ZONE:03,0,0.0,0,0.0,3012283,2015,Cholera
+Chai Nat,0,0.0,0,0.0,332283,2015,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,729522,2015,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1072756,2015,Cholera
+Phichit,0,0.0,0,0.0,547543,2015,Cholera
+Uthai Thani,0,0.0,0,0.0,330179,2015,Cholera
+ZONE:04,1,0.02,0,0.0,5196419,2015,Cholera
+Ang Thong,0,0.0,0,0.0,283568,2015,Cholera
+Lop Buri,0,0.0,0,0.0,758406,2015,Cholera
+Nakhon Nayok,0,0.0,0,0.0,257300,2015,Cholera
+Nonthaburi,1,0.09,0,0.0,1173870,2015,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,803599,2015,Cholera
+Pathum Thani,0,0.0,0,0.0,1074058,2015,Cholera
+Saraburi,0,0.0,0,0.0,633460,2015,Cholera
+Sing Buri,0,0.0,0,0.0,212158,2015,Cholera
+ZONE:05,1,0.02,0,0.0,5166914,2015,Cholera
+Kanchanaburi,0,0.0,0,0.0,848198,2015,Cholera
+Nakhon Pathom,0,0.0,0,0.0,891071,2015,Cholera
+Phetchaburi,0,0.0,0,0.0,474192,2015,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,525107,2015,Cholera
+Ratchaburi,0,0.0,0,0.0,853217,2015,Cholera
+Samut Sakhon,1,0.19,0,0.0,531887,2015,Cholera
+Samut Songkhram,0,0.0,0,0.0,194189,2015,Cholera
+Suphan Buri,0,0.0,0,0.0,849053,2015,Cholera
+ZONE:06,26,0.45,0,0.0,5836407,2015,Cholera
+Chachoengsao,0,0.0,0,0.0,695478,2015,Cholera
+Chanthaburi,0,0.0,0,0.0,527350,2015,Cholera
+Chon Buri,0,0.0,0,0.0,1421425,2015,Cholera
+Prachin Buri,0,0.0,0,0.0,479314,2015,Cholera
+Rayong,26,3.86,0,0.0,674393,2015,Cholera
+Sa Kaeo,0,0.0,0,0.0,552187,2015,Cholera
+Samut Prakan,0,0.0,0,0.0,1261530,2015,Cholera
+Trat,0,0.0,0,0.0,224730,2015,Cholera
+ZONE:07,0,0.0,0,0.0,5043862,2015,Cholera
+Kalasin,0,0.0,0,0.0,984907,2015,Cholera
+Khon Kaen,0,0.0,0,0.0,1790049,2015,Cholera
+Maha Sarakham,0,0.0,0,0.0,960588,2015,Cholera
+Roi Et,0,0.0,0,0.0,1308318,2015,Cholera
+ZONE:08,0,0.0,0,0.0,5501453,2015,Cholera
+Bungkan,0,0.0,0,0.0,418566,2015,Cholera
+Loei,0,0.0,0,0.0,634513,2015,Cholera
+Nakhon Phanom,0,0.0,0,0.0,713341,2015,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,508864,2015,Cholera
+Nong Khai,0,0.0,0,0.0,517260,2015,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1138609,2015,Cholera
+Udon Thani,0,0.0,0,0.0,1570300,2015,Cholera
+ZONE:09,1,0.01,0,0.0,6728450,2015,Cholera
+Buri Ram,0,0.0,0,0.0,1579248,2015,Cholera
+Chaiyaphum,0,0.0,0,0.0,1137049,2015,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2620517,2015,Cholera
+Surin,0,0.0,0,0.0,1391636,2015,Cholera
+ZONE:10,1,0.02,0,0.0,4571489,2015,Cholera
+Amnat Charoen,0,0.0,0,0.0,375380,2015,Cholera
+Mukdahan,1,0.29,0,0.0,346016,2015,Cholera
+Si Sa Ket,0,0.0,0,0.0,1465213,2015,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1844669,2015,Cholera
+Yasothon,0,0.0,0,0.0,540211,2015,Cholera
+ZONE:11,1,0.02,0,0.0,4362467,2015,Cholera
+Chumphon,0,0.0,0,0.0,500575,2015,Cholera
+Krabi,0,0.0,0,0.0,456811,2015,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1548028,2015,Cholera
+Phangnga,0,0.0,0,0.0,261370,2015,Cholera
+Phuket,0,0.0,0,0.0,378364,2015,Cholera
+Ranong,1,0.56,0,0.0,177089,2015,Cholera
+Surat Thani,0,0.0,0,0.0,1040230,2015,Cholera
+ZONE:12,69,1.42,1,0.02,4846037,2015,Cholera
+Narathiwat,0,0.0,0,0.0,774799,2015,Cholera
+Pattani,1,0.15,0,0.0,686186,2015,Cholera
+Phatthalung,1,0.19,0,0.0,520419,2015,Cholera
+Satun,0,0.0,0,0.0,312673,2015,Cholera
+Songkhla,62,4.42,1,0.07,1401303,2015,Cholera
+Trang,0,0.0,0,0.0,638746,2015,Cholera
+Yala,5,0.98,0,0.0,511911,2015,Cholera
+Total,35,0.06,0,0.0,62623416,2006,Cholera
+North Region,0,0.0,0,0.0,11887142,2006,Cholera
+Zone:1,0,0.0,0,0.0,5748673,2006,Cholera
+Chiang Mai,0,0.0,0,0.0,1654154,2006,Cholera
+Chiang Rai,0,0.0,0,0.0,1225386,2006,Cholera
+Lampang,0,0.0,0,0.0,775259,2006,Cholera
+Lamphun,0,0.0,0,0.0,405146,2006,Cholera
+Mae Hong Son,0,0.0,0,0.0,254392,2006,Cholera
+Nan,0,0.0,0,0.0,477871,2006,Cholera
+Phayao,0,0.0,0,0.0,486554,2006,Cholera
+Phrae,0,0.0,0,0.0,469911,2006,Cholera
+Zone:2,0,0.0,0,0.0,3448091,2006,Cholera
+Phetchabun,0,0.0,0,0.0,1002388,2006,Cholera
+Phitsanulok,0,0.0,0,0.0,842739,2006,Cholera
+Sukhothai,0,0.0,0,0.0,609591,2006,Cholera
+Tak,0,0.0,0,0.0,524938,2006,Cholera
+Uttaradit,0,0.0,0,0.0,468435,2006,Cholera
+Zone:3,0,0.0,0,0.0,2690378,2006,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,728293,2006,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1076911,2006,Cholera
+Phichit,0,0.0,0,0.0,558314,2006,Cholera
+Uthai Thani,0,0.0,0,0.0,326860,2006,Cholera
+Central Region,17,0.08,0,0.0,20825142,2006,Cholera
+Bangkok,4,0.07,0,0.0,5677455,2006,Cholera
+Zone:4,0,0.0,0,0.0,2858658,2006,Cholera
+Ang Thong,0,0.0,0,0.0,283861,2006,Cholera
+Nonthaburi,0,0.0,0,0.0,985669,2006,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,750757,2006,Cholera
+Pathum Thani,0,0.0,0,0.0,838371,2006,Cholera
+Zone:5,0,0.0,0,0.0,1915186,2006,Cholera
+Chai Nat,0,0.0,0,0.0,339568,2006,Cholera
+Lop Buri,0,0.0,0,0.0,752364,2006,Cholera
+Saraburi,0,0.0,0,0.0,605897,2006,Cholera
+Sing Buri,0,0.0,0,0.0,217357,2006,Cholera
+Zone:6,1,0.03,0,0.0,3315213,2006,Cholera
+Kanchanaburi,0,0.0,0,0.0,830309,2006,Cholera
+Nakhon Pathom,0,0.0,0,0.0,815433,2006,Cholera
+Ratchaburi,0,0.0,0,0.0,826212,2006,Cholera
+Suphan Buri,1,0.12,0,0.0,843259,2006,Cholera
+Zone:7,3,0.19,0,0.0,1598232,2006,Cholera
+Phetchaburi,0,0.0,0,0.0,455332,2006,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,490607,2006,Cholera
+Samut Sakhon,3,0.66,0,0.0,457264,2006,Cholera
+Samut Songkhram,0,0.0,0,0.0,195029,2006,Cholera
+Zone:8,1,0.03,0,0.0,2983258,2006,Cholera
+Chachoengsao,0,0.0,0,0.0,650909,2006,Cholera
+Nakhon Nayok,0,0.0,0,0.0,250392,2006,Cholera
+Prachin Buri,1,0.22,0,0.0,451721,2006,Cholera
+Sa Kaeo,0,0.0,0,0.0,537661,2006,Cholera
+Samut Prakan,0,0.0,0,0.0,1092575,2006,Cholera
+Zone:9,8,0.32,0,0.0,2477140,2006,Cholera
+Chanthaburi,3,0.6,0,0.0,500275,2006,Cholera
+Chon Buri,2,0.17,0,0.0,1190861,2006,Cholera
+Rayong,3,0.53,0,0.0,566461,2006,Cholera
+Trat,0,0.0,0,0.0,219543,2006,Cholera
+North-Eastern Region,15,0.07,0,0.0,21352480,2006,Cholera
+Zone:10,0,0.0,0,0.0,3533061,2006,Cholera
+Loei,0,0.0,0,0.0,612863,2006,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,496675,2006,Cholera
+Nong Khai,0,0.0,0,0.0,897840,2006,Cholera
+Udon Thani,0,0.0,0,0.0,1525683,2006,Cholera
+Zone:11,8,0.26,0,0.0,3110390,2006,Cholera
+Kalasin,0,0.0,0,0.0,974560,2006,Cholera
+Mukdahan,0,0.0,0,0.0,334781,2006,Cholera
+Nakhon Phanom,8,1.15,0,0.0,694473,2006,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1106576,2006,Cholera
+Zone:12,2,0.05,0,0.0,3996666,2006,Cholera
+Khon Kaen,2,0.11,0,0.0,1749021,2006,Cholera
+Maha Sarakham,0,0.0,0,0.0,937285,2006,Cholera
+Roi Et,0,0.0,0,0.0,1310360,2006,Cholera
+Zone:13,5,0.08,0,0.0,6578271,2006,Cholera
+Buri Ram,0,0.0,0,0.0,1534076,2006,Cholera
+Chaiyaphum,0,0.0,0,0.0,1118040,2006,Cholera
+Nakhon Ratchasima,4,0.16,0,0.0,2551176,2006,Cholera
+Surin,1,0.07,0,0.0,1374979,2006,Cholera
+Zone:14,0,0.0,0,0.0,4134092,2006,Cholera
+Amnat Charoen,0,0.0,0,0.0,368863,2006,Cholera
+Si Sa Ket,0,0.0,0,0.0,1445230,2006,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1778922,2006,Cholera
+Yasothon,0,0.0,0,0.0,541077,2006,Cholera
+South Region,3,0.04,0,0.0,8558652,2006,Cholera
+Zone:15,0,0.0,0,0.0,1610374,2006,Cholera
+Chumphon,0,0.0,0,0.0,477364,2006,Cholera
+Ranong,0,0.0,0,0.0,178986,2006,Cholera
+Surat Thani,0,0.0,0,0.0,954024,2006,Cholera
+Zone:16,1,0.04,0,0.0,2614100,2006,Cholera
+Nakhon Si Thammarat,1,0.07,0,0.0,1507440,2006,Cholera
+Phatthalung,0,0.0,0,0.0,501912,2006,Cholera
+Trang,0,0.0,0,0.0,604748,2006,Cholera
+Zone:17,0,0.0,0,0.0,939424,2006,Cholera
+Krabi,0,0.0,0,0.0,399514,2006,Cholera
+Phangnga,0,0.0,0,0.0,243419,2006,Cholera
+Phuket,0,0.0,0,0.0,296491,2006,Cholera
+Zone:18,0,0.0,0,0.0,1805088,2006,Cholera
+Narathiwat,0,0.0,0,0.0,703848,2006,Cholera
+Pattani,0,0.0,0,0.0,635053,2006,Cholera
+Yala,0,0.0,0,0.0,466187,2006,Cholera
+Zone:19,2,0.13,0,0.0,1589666,2006,Cholera
+Satun,0,0.0,0,0.0,279705,2006,Cholera
+Songkhla,2,0.15,0,0.0,1309961,2006,Cholera
+Total,2130,3.41,7,0.01,62526710,2004,Cholera
+North Region,188,1.57,0,0.0,11965439,2004,Cholera
+Zone:1,156,2.73,0,0.0,5720315,2004,Cholera
+Chiang Mai,3,0.19,0,0.0,1616995,2004,Cholera
+Chiang Rai,0,0.0,0,0.0,1214659,2004,Cholera
+Lampang,151,19.16,0,0.0,788071,2004,Cholera
+Lamphun,0,0.0,0,0.0,406911,2004,Cholera
+Mae Hong Son,0,0.0,0,0.0,240988,2004,Cholera
+Nan,1,0.21,0,0.0,479968,2004,Cholera
+Phayao,1,0.2,0,0.0,494926,2004,Cholera
+Phrae,0,0.0,0,0.0,477797,2004,Cholera
+Zone:2,30,0.86,0,0.0,3480797,2004,Cholera
+Phetchabun,25,2.43,0,0.0,1026733,2004,Cholera
+Phitsanulok,0,0.0,0,0.0,854440,2004,Cholera
+Sukhothai,0,0.0,0,0.0,616536,2004,Cholera
+Tak,0,0.0,0,0.0,507296,2004,Cholera
+Uttaradit,5,1.05,0,0.0,475792,2004,Cholera
+Zone:3,2,0.07,0,0.0,2764327,2004,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,750331,2004,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1102099,2004,Cholera
+Phichit,0,0.0,0,0.0,579155,2004,Cholera
+Uthai Thani,2,0.6,0,0.0,332742,2004,Cholera
+Central Region,656,3.18,2,0.01,20631429,2004,Cholera
+Bangkok,253,4.41,2,0.03,5739370,2004,Cholera
+Zone:4,108,3.97,0,0.0,2721016,2004,Cholera
+Ang Thong,0,0.0,0,0.0,286896,2004,Cholera
+Nonthaburi,70,7.5,0,0.0,933591,2004,Cholera
+P.Nakhon S.Ayutthaya,15,2.01,0,0.0,745828,2004,Cholera
+Pathum Thani,23,3.05,0,0.0,754701,2004,Cholera
+Zone:5,12,0.62,0,0.0,1936502,2004,Cholera
+Chai Nat,0,0.0,0,0.0,345355,2004,Cholera
+Lop Buri,3,0.4,0,0.0,759000,2004,Cholera
+Saraburi,6,0.98,0,0.0,610722,2004,Cholera
+Sing Buri,3,1.35,0,0.0,221425,2004,Cholera
+Zone:6,27,0.82,0,0.0,3287786,2004,Cholera
+Kanchanaburi,1,0.12,0,0.0,803802,2004,Cholera
+Nakhon Pathom,17,2.11,0,0.0,805210,2004,Cholera
+Ratchaburi,7,0.85,0,0.0,824406,2004,Cholera
+Suphan Buri,2,0.23,0,0.0,854368,2004,Cholera
+Zone:7,183,11.53,0,0.0,1587519,2004,Cholera
+Phetchaburi,0,0.0,0,0.0,456384,2004,Cholera
+Prachuap Khiri Khan,6,1.23,0,0.0,486084,2004,Cholera
+Samut Sakhon,176,39.51,0,0.0,445443,2004,Cholera
+Samut Songkhram,1,0.5,0,0.0,199608,2004,Cholera
+Zone:8,25,0.85,0,0.0,2934598,2004,Cholera
+Chachoengsao,11,1.7,0,0.0,647967,2004,Cholera
+Nakhon Nayok,1,0.4,0,0.0,250235,2004,Cholera
+Prachin Buri,9,2.0,0,0.0,449940,2004,Cholera
+Sa Kaeo,0,0.0,0,0.0,538823,2004,Cholera
+Samut Prakan,4,0.38,0,0.0,1047633,2004,Cholera
+Zone:9,48,1.98,0,0.0,2424638,2004,Cholera
+Chanthaburi,2,0.4,0,0.0,502794,2004,Cholera
+Chon Buri,11,0.96,0,0.0,1150048,2004,Cholera
+Rayong,29,5.27,0,0.0,550310,2004,Cholera
+Trat,6,2.71,0,0.0,221486,2004,Cholera
+North-Eastern Region,495,2.31,3,0.01,21463567,2004,Cholera
+Zone:10,10,0.28,0,0.0,3549364,2004,Cholera
+Loei,1,0.16,0,0.0,617280,2004,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,497298,2004,Cholera
+Nong Khai,0,0.0,0,0.0,904499,2004,Cholera
+Udon Thani,9,0.59,0,0.0,1530287,2004,Cholera
+Zone:11,309,9.88,2,0.06,3127236,2004,Cholera
+Kalasin,0,0.0,0,0.0,982947,2004,Cholera
+Mukdahan,16,4.76,0,0.0,335819,2004,Cholera
+Nakhon Phanom,10,1.43,0,0.0,700800,2004,Cholera
+Sakon Nakhon,283,25.55,2,0.18,1107670,2004,Cholera
+Zone:12,80,1.99,0,0.0,4012215,2004,Cholera
+Khon Kaen,78,4.44,0,0.0,1756177,2004,Cholera
+Maha Sarakham,0,0.0,0,0.0,939718,2004,Cholera
+Roi Et,2,0.15,0,0.0,1316320,2004,Cholera
+Zone:13,89,1.34,1,0.02,6621384,2004,Cholera
+Buri Ram,30,1.95,0,0.0,1539135,2004,Cholera
+Chaiyaphum,1,0.09,0,0.0,1128031,2004,Cholera
+Nakhon Ratchasima,41,1.6,1,0.04,2565197,2004,Cholera
+Surin,17,1.22,0,0.0,1389021,2004,Cholera
+Zone:14,7,0.17,0,0.0,4153368,2004,Cholera
+Amnat Charoen,0,0.0,0,0.0,369071,2004,Cholera
+Si Sa Ket,1,0.07,0,0.0,1452971,2004,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1784192,2004,Cholera
+Yasothon,6,1.1,0,0.0,547134,2004,Cholera
+South Region,791,9.34,2,0.02,8466275,2004,Cholera
+Zone:15,86,5.44,0,0.0,1581379,2004,Cholera
+Chumphon,6,1.26,0,0.0,474592,2004,Cholera
+Ranong,3,1.77,0,0.0,169904,2004,Cholera
+Surat Thani,77,8.22,0,0.0,936883,2004,Cholera
+Zone:16,133,5.08,1,0.04,2619221,2004,Cholera
+Nakhon Si Thammarat,45,2.97,1,0.07,1515708,2004,Cholera
+Phatthalung,7,1.4,0,0.0,501447,2004,Cholera
+Trang,81,13.45,0,0.0,602066,2004,Cholera
+Zone:17,292,32.15,1,0.11,908170,2004,Cholera
+Krabi,23,5.96,0,0.0,386084,2004,Cholera
+Phangnga,3,1.25,0,0.0,239895,2004,Cholera
+Phuket,266,94.26,1,0.35,282191,2004,Cholera
+Zone:18,54,3.01,0,0.0,1795905,2004,Cholera
+Narathiwat,1,0.14,0,0.0,701008,2004,Cholera
+Pattani,18,2.85,0,0.0,632240,2004,Cholera
+Yala,35,7.56,0,0.0,462657,2004,Cholera
+Zone:19,226,14.47,0,0.0,1561600,2004,Cholera
+Satun,110,40.2,0,0.0,273624,2004,Cholera
+Songkhla,116,9.01,0,0.0,1287976,2004,Cholera
+Total,5,0.01,1,0.0,66372831,2020,Cholera
+ZONE:01,0,0.0,0,0.0,5886870,2020,Cholera
+Chiang Mai,0,0.0,0,0.0,1781812,2020,Cholera
+Chiang Rai,0,0.0,0,0.0,1296664,2020,Cholera
+Lampang,0,0.0,0,0.0,733640,2020,Cholera
+Lamphun,0,0.0,0,0.0,403542,2020,Cholera
+Mae Hong Son,0,0.0,0,0.0,284343,2020,Cholera
+Nan,0,0.0,0,0.0,477476,2020,Cholera
+Phayao,0,0.0,0,0.0,469856,2020,Cholera
+Phrae,0,0.0,0,0.0,439537,2020,Cholera
+ZONE:02,0,0.0,0,0.0,3554902,2020,Cholera
+Phetchabun,0,0.0,0,0.0,987196,2020,Cholera
+Phitsanulok,0,0.0,0,0.0,857364,2020,Cholera
+Sukhothai,0,0.0,0,0.0,591477,2020,Cholera
+Tak,0,0.0,0,0.0,667942,2020,Cholera
+Uttaradit,0,0.0,0,0.0,450923,2020,Cholera
+ZONE:03,0,0.0,0,0.0,2956189,2020,Cholera
+Chai Nat,0,0.0,0,0.0,324544,2020,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,719993,2020,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1050098,2020,Cholera
+Phichit,0,0.0,0,0.0,534311,2020,Cholera
+Uthai Thani,0,0.0,0,0.0,327243,2020,Cholera
+ZONE:04,0,0.0,0,0.0,5400529,2020,Cholera
+Ang Thong,0,0.0,0,0.0,278119,2020,Cholera
+Lop Buri,0,0.0,0,0.0,749242,2020,Cholera
+Nakhon Nayok,0,0.0,0,0.0,260416,2020,Cholera
+Nonthaburi,0,0.0,0,0.0,1271065,2020,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819638,2020,Cholera
+Pathum Thani,0,0.0,0,0.0,1170008,2020,Cholera
+Saraburi,0,0.0,0,0.0,644869,2020,Cholera
+Sing Buri,0,0.0,0,0.0,207172,2020,Cholera
+ZONE:05,0,0.0,0,0.0,5342038,2020,Cholera
+Kanchanaburi,0,0.0,0,0.0,893751,2020,Cholera
+Nakhon Pathom,0,0.0,0,0.0,920380,2020,Cholera
+Phetchaburi,0,0.0,0,0.0,483692,2020,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,552398,2020,Cholera
+Ratchaburi,0,0.0,0,0.0,871207,2020,Cholera
+Samut Sakhon,0,0.0,0,0.0,585451,2020,Cholera
+Samut Songkhram,0,0.0,0,0.0,192678,2020,Cholera
+Suphan Buri,0,0.0,0,0.0,842481,2020,Cholera
+ZONE:06,0,0.0,0,0.0,6192990,2020,Cholera
+Chachoengsao,0,0.0,0,0.0,720416,2020,Cholera
+Chanthaburi,0,0.0,0,0.0,536629,2020,Cholera
+Chon Buri,0,0.0,0,0.0,1562593,2020,Cholera
+Prachin Buri,0,0.0,0,0.0,494175,2020,Cholera
+Rayong,0,0.0,0,0.0,738139,2020,Cholera
+Sa Kaeo,0,0.0,0,0.0,563614,2020,Cholera
+Samut Prakan,0,0.0,0,0.0,1348177,2020,Cholera
+Trat,0,0.0,0,0.0,229247,2020,Cholera
+ZONE:07,0,0.0,0,0.0,5039088,2020,Cholera
+Kalasin,0,0.0,0,0.0,980297,2020,Cholera
+Khon Kaen,0,0.0,0,0.0,1798702,2020,Cholera
+Maha Sarakham,0,0.0,0,0.0,958163,2020,Cholera
+Roi Et,0,0.0,0,0.0,1301926,2020,Cholera
+ZONE:08,0,0.0,0,0.0,5540556,2020,Cholera
+Bungkan,0,0.0,0,0.0,423067,2020,Cholera
+Loei,0,0.0,0,0.0,640843,2020,Cholera
+Nakhon Phanom,0,0.0,0,0.0,718169,2020,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,511125,2020,Cholera
+Nong Khai,0,0.0,0,0.0,519873,2020,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1150164,2020,Cholera
+Udon Thani,0,0.0,0,0.0,1577315,2020,Cholera
+ZONE:09,3,0.04,1,0.01,6748199,2020,Cholera
+Buri Ram,0,0.0,0,0.0,1588466,2020,Cholera
+Chaiyaphum,0,0.0,0,0.0,1131140,2020,Cholera
+Nakhon Ratchasima,0,0.0,0,0.0,2641067,2020,Cholera
+Surin,3,0.22,1,0.07,1387526,2020,Cholera
+ZONE:10,0,0.0,0,0.0,4603401,2020,Cholera
+Amnat Charoen,0,0.0,0,0.0,377317,2020,Cholera
+Mukdahan,0,0.0,0,0.0,352043,2020,Cholera
+Si Sa Ket,0,0.0,0,0.0,1465719,2020,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1872422,2020,Cholera
+Yasothon,0,0.0,0,0.0,535900,2020,Cholera
+ZONE:11,0,0.0,0,0.0,4489609,2020,Cholera
+Chumphon,0,0.0,0,0.0,510256,2020,Cholera
+Krabi,0,0.0,0,0.0,477254,2020,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1556325,2020,Cholera
+Phangnga,0,0.0,0,0.0,268509,2020,Cholera
+Phuket,0,0.0,0,0.0,415527,2020,Cholera
+Ranong,0,0.0,0,0.0,193871,2020,Cholera
+Surat Thani,0,0.0,0,0.0,1067867,2020,Cholera
+ZONE:12,0,0.0,0,0.0,4991217,2020,Cholera
+Narathiwat,0,0.0,0,0.0,806224,2020,Cholera
+Pattani,0,0.0,0,0.0,725559,2020,Cholera
+Phatthalung,0,0.0,0,0.0,523971,2020,Cholera
+Satun,0,0.0,0,0.0,323841,2020,Cholera
+Songkhla,0,0.0,0,0.0,1432288,2020,Cholera
+Trang,0,0.0,0,0.0,641868,2020,Cholera
+Yala,0,0.0,0,0.0,537466,2020,Cholera
+ZONE:13,2,0.04,0,0.0,5627243,2020,Cholera
+Bangkok,2,0.04,0,0.0,5627243,2020,Cholera
+Total,8,0.01,0,0.0,66060027,2017,Cholera
+ZONE:01,0,0.0,0,0.0,5864232,2017,Cholera
+Chiang Mai,0,0.0,0,0.0,1741301,2017,Cholera
+Chiang Rai,0,0.0,0,0.0,1285080,2017,Cholera
+Lampang,0,0.0,0,0.0,747699,2017,Cholera
+Lamphun,0,0.0,0,0.0,405959,2017,Cholera
+Mae Hong Son,0,0.0,0,0.0,277486,2017,Cholera
+Nan,0,0.0,0,0.0,479877,2017,Cholera
+Phayao,0,0.0,0,0.0,478144,2017,Cholera
+Phrae,0,0.0,0,0.0,448686,2017,Cholera
+ZONE:02,0,0.0,0,0.0,3556376,2017,Cholera
+Phetchabun,0,0.0,0,0.0,995277,2017,Cholera
+Phitsanulok,0,0.0,0,0.0,865564,2017,Cholera
+Sukhothai,0,0.0,0,0.0,599775,2017,Cholera
+Tak,0,0.0,0,0.0,638115,2017,Cholera
+Uttaradit,0,0.0,0,0.0,457645,2017,Cholera
+ZONE:03,0,0.0,0,0.0,2998104,2017,Cholera
+Chai Nat,0,0.0,0,0.0,330077,2017,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1065895,2017,Cholera
+Phichit,0,0.0,0,0.0,542674,2017,Cholera
+Uthai Thani,0,0.0,0,0.0,330121,2017,Cholera
+ZONE:04,1,0.02,0,0.0,5302492,2017,Cholera
+Ang Thong,0,0.0,0,0.0,281796,2017,Cholera
+Lop Buri,0,0.0,0,0.0,757296,2017,Cholera
+Nakhon Nayok,0,0.0,0,0.0,258850,2017,Cholera
+Nonthaburi,1,0.08,0,0.0,1220829,2017,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,812086,2017,Cholera
+Pathum Thani,0,0.0,0,0.0,1120246,2017,Cholera
+Saraburi,0,0.0,0,0.0,641052,2017,Cholera
+Sing Buri,0,0.0,0,0.0,210337,2017,Cholera
+ZONE:05,0,0.0,0,0.0,5295696,2017,Cholera
+Kanchanaburi,0,0.0,0,0.0,886546,2017,Cholera
+Nakhon Pathom,0,0.0,0,0.0,908249,2017,Cholera
+Phetchaburi,0,0.0,0,0.0,481514,2017,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,541756,2017,Cholera
+Ratchaburi,0,0.0,0,0.0,870769,2017,Cholera
+Samut Sakhon,0,0.0,0,0.0,562592,2017,Cholera
+Samut Songkhram,0,0.0,0,0.0,193985,2017,Cholera
+Suphan Buri,0,0.0,0,0.0,850285,2017,Cholera
+ZONE:06,0,0.0,0,0.0,6020790,2017,Cholera
+Chachoengsao,0,0.0,0,0.0,707145,2017,Cholera
+Chanthaburi,0,0.0,0,0.0,533463,2017,Cholera
+Chon Buri,0,0.0,0,0.0,1496086,2017,Cholera
+Prachin Buri,0,0.0,0,0.0,486187,2017,Cholera
+Rayong,0,0.0,0,0.0,705729,2017,Cholera
+Sa Kaeo,0,0.0,0,0.0,560478,2017,Cholera
+Samut Prakan,0,0.0,0,0.0,1302160,2017,Cholera
+Trat,0,0.0,0,0.0,229542,2017,Cholera
+ZONE:07,2,0.04,0,0.0,5060674,2017,Cholera
+Kalasin,0,0.0,0,0.0,985619,2017,Cholera
+Khon Kaen,2,0.11,0,0.0,1803831,2017,Cholera
+Maha Sarakham,0,0.0,0,0.0,963277,2017,Cholera
+Roi Et,0,0.0,0,0.0,1307947,2017,Cholera
+ZONE:08,0,0.0,0,0.0,5541473,2017,Cholera
+Bungkan,0,0.0,0,0.0,422328,2017,Cholera
+Loei,0,0.0,0,0.0,640734,2017,Cholera
+Nakhon Phanom,0,0.0,0,0.0,717451,2017,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,511188,2017,Cholera
+Nong Khai,0,0.0,0,0.0,521125,2017,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1147710,2017,Cholera
+Udon Thani,0,0.0,0,0.0,1580937,2017,Cholera
+ZONE:09,0,0.0,0,0.0,6760383,2017,Cholera
+Buri Ram,0,0.0,0,0.0,1589900,2017,Cholera
+Chaiyaphum,0,0.0,0,0.0,1138778,2017,Cholera
+Nakhon Ratchasima,0,0.0,0,0.0,2635331,2017,Cholera
+Surin,0,0.0,0,0.0,1396374,2017,Cholera
+ZONE:10,0,0.0,0,0.0,4604905,2017,Cholera
+Amnat Charoen,0,0.0,0,0.0,377614,2017,Cholera
+Mukdahan,0,0.0,0,0.0,350128,2017,Cholera
+Si Sa Ket,0,0.0,0,0.0,1471185,2017,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1866299,2017,Cholera
+Yasothon,0,0.0,0,0.0,539679,2017,Cholera
+ZONE:11,0,0.0,0,0.0,4441086,2017,Cholera
+Chumphon,0,0.0,0,0.0,508627,2017,Cholera
+Krabi,0,0.0,0,0.0,467851,2017,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1555957,2017,Cholera
+Phangnga,0,0.0,0,0.0,266535,2017,Cholera
+Phuket,0,0.0,0,0.0,398092,2017,Cholera
+Ranong,0,0.0,0,0.0,189777,2017,Cholera
+Surat Thani,0,0.0,0,0.0,1054247,2017,Cholera
+ZONE:12,1,0.02,0,0.0,4929285,2017,Cholera
+Narathiwat,0,0.0,0,0.0,792961,2017,Cholera
+Pattani,0,0.0,0,0.0,705379,2017,Cholera
+Phatthalung,0,0.0,0,0.0,524291,2017,Cholera
+Satun,0,0.0,0,0.0,318655,2017,Cholera
+Songkhla,0,0.0,0,0.0,1420834,2017,Cholera
+Trang,0,0.0,0,0.0,642377,2017,Cholera
+Yala,1,0.19,0,0.0,524788,2017,Cholera
+ZONE:13,4,0.07,0,0.0,5684531,2017,Cholera
+Bangkok,4,0.07,0,0.0,5684531,2017,Cholera
 Total,6,0.01,0,0.0,66130957,2023,Cholera
 ZONE:01,0,0.0,0,0.0,5869190,2023,Cholera
 Chiang Mai,0,0.0,0,0.0,1790929,2023,Cholera
@@ -1910,6 +1637,188 @@ Trang,0,0.0,0,0.0,638997,2023,Cholera
 Yala,0,0.0,0,0.0,544114,2023,Cholera
 ZONE:13,0,0.0,0,0.0,5511463,2023,Cholera
 Bangkok,0,0.0,0,0.0,5511463,2023,Cholera
+Total,12,0.02,0,0.0,64955313,2014,Cholera
+ZONE:00,3,0.05,0,0.0,5689268,2014,Cholera
+Bangkok,3,0.05,0,0.0,5689268,2014,Cholera
+ZONE:01,1,0.02,0,0.0,5704200,2014,Cholera
+Chiang Mai,1,0.06,0,0.0,1672586,2014,Cholera
+Chiang Rai,0,0.0,0,0.0,1206180,2014,Cholera
+Lampang,0,0.0,0,0.0,753937,2014,Cholera
+Lamphun,0,0.0,0,0.0,405368,2014,Cholera
+Mae Hong Son,0,0.0,0,0.0,247364,2014,Cholera
+Nan,0,0.0,0,0.0,478088,2014,Cholera
+Phayao,0,0.0,0,0.0,485599,2014,Cholera
+Phrae,0,0.0,0,0.0,455078,2014,Cholera
+ZONE:02,0,0.0,0,0.0,3452021,2014,Cholera
+Phetchabun,0,0.0,0,0.0,995102,2014,Cholera
+Phitsanulok,0,0.0,0,0.0,857682,2014,Cholera
+Sukhothai,0,0.0,0,0.0,602586,2014,Cholera
+Tak,0,0.0,0,0.0,535953,2014,Cholera
+Uttaradit,0,0.0,0,0.0,460698,2014,Cholera
+ZONE:03,0,0.0,0,0.0,3012608,2014,Cholera
+Chai Nat,0,0.0,0,0.0,332526,2014,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,729076,2014,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1072949,2014,Cholera
+Phichit,0,0.0,0,0.0,548199,2014,Cholera
+Uthai Thani,0,0.0,0,0.0,329858,2014,Cholera
+ZONE:04,0,0.0,0,0.0,5171756,2014,Cholera
+Ang Thong,0,0.0,0,0.0,283650,2014,Cholera
+Lop Buri,0,0.0,0,0.0,758188,2014,Cholera
+Nakhon Nayok,0,0.0,0,0.0,256693,2014,Cholera
+Nonthaburi,0,0.0,0,0.0,1165070,2014,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,800785,2014,Cholera
+Pathum Thani,0,0.0,0,0.0,1063608,2014,Cholera
+Saraburi,0,0.0,0,0.0,631338,2014,Cholera
+Sing Buri,0,0.0,0,0.0,212424,2014,Cholera
+ZONE:05,2,0.04,0,0.0,5147569,2014,Cholera
+Kanchanaburi,0,0.0,0,0.0,845540,2014,Cholera
+Nakhon Pathom,1,0.11,0,0.0,886627,2014,Cholera
+Phetchaburi,0,0.0,0,0.0,472640,2014,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,522689,2014,Cholera
+Ratchaburi,1,0.12,0,0.0,851689,2014,Cholera
+Samut Sakhon,0,0.0,0,0.0,525672,2014,Cholera
+Samut Songkhram,0,0.0,0,0.0,194153,2014,Cholera
+Suphan Buri,0,0.0,0,0.0,848559,2014,Cholera
+ZONE:06,1,0.02,0,0.0,5797595,2014,Cholera
+Chachoengsao,1,0.14,0,0.0,692852,2014,Cholera
+Chanthaburi,0,0.0,0,0.0,525805,2014,Cholera
+Chon Buri,0,0.0,0,0.0,1405889,2014,Cholera
+Prachin Buri,0,0.0,0,0.0,477741,2014,Cholera
+Rayong,0,0.0,0,0.0,667806,2014,Cholera
+Sa Kaeo,0,0.0,0,0.0,551562,2014,Cholera
+Samut Prakan,0,0.0,0,0.0,1251570,2014,Cholera
+Trat,0,0.0,0,0.0,224370,2014,Cholera
+ZONE:07,4,0.08,0,0.0,5037074,2014,Cholera
+Kalasin,0,0.0,0,0.0,984468,2014,Cholera
+Khon Kaen,4,0.22,0,0.0,1785852,2014,Cholera
+Maha Sarakham,0,0.0,0,0.0,958116,2014,Cholera
+Roi Et,0,0.0,0,0.0,1308638,2014,Cholera
+ZONE:08,0,0.0,0,0.0,5490561,2014,Cholera
+Bungkan,0,0.0,0,0.0,417401,2014,Cholera
+Loei,0,0.0,0,0.0,633359,2014,Cholera
+Nakhon Phanom,0,0.0,0,0.0,712101,2014,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,508001,2014,Cholera
+Nong Khai,0,0.0,0,0.0,516101,2014,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1136466,2014,Cholera
+Udon Thani,0,0.0,0,0.0,1567132,2014,Cholera
+ZONE:09,1,0.01,0,0.0,6717984,2014,Cholera
+Buri Ram,0,0.0,0,0.0,1576343,2014,Cholera
+Chaiyaphum,0,0.0,0,0.0,1136386,2014,Cholera
+Nakhon Ratchasima,1,0.04,0,0.0,2615340,2014,Cholera
+Surin,0,0.0,0,0.0,1389915,2014,Cholera
+ZONE:10,0,0.0,0,0.0,4564711,2014,Cholera
+Amnat Charoen,0,0.0,0,0.0,375039,2014,Cholera
+Mukdahan,0,0.0,0,0.0,345159,2014,Cholera
+Si Sa Ket,0,0.0,0,0.0,1463620,2014,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1840596,2014,Cholera
+Yasothon,0,0.0,0,0.0,540297,2014,Cholera
+ZONE:11,0,0.0,0,0.0,4344513,2014,Cholera
+Chumphon,0,0.0,0,0.0,499435,2014,Cholera
+Krabi,0,0.0,0,0.0,453850,2014,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1544936,2014,Cholera
+Phangnga,0,0.0,0,0.0,260395,2014,Cholera
+Phuket,0,0.0,0,0.0,373943,2014,Cholera
+Ranong,0,0.0,0,0.0,175933,2014,Cholera
+Surat Thani,0,0.0,0,0.0,1036021,2014,Cholera
+ZONE:12,0,0.0,0,0.0,4825453,2014,Cholera
+Narathiwat,0,0.0,0,0.0,770472,2014,Cholera
+Pattani,0,0.0,0,0.0,682512,2014,Cholera
+Phatthalung,0,0.0,0,0.0,519220,2014,Cholera
+Satun,0,0.0,0,0.0,311233,2014,Cholera
+Songkhla,0,0.0,0,0.0,1395596,2014,Cholera
+Trang,0,0.0,0,0.0,637395,2014,Cholera
+Yala,0,0.0,0,0.0,509025,2014,Cholera
+Total,1,0.0,0,0.0,66179083,2021,Cholera
+ZONE:01,0,0.0,0,0.0,5875424,2021,Cholera
+Chiang Mai,0,0.0,0,0.0,1786877,2021,Cholera
+Chiang Rai,0,0.0,0,0.0,1296725,2021,Cholera
+Lampang,0,0.0,0,0.0,726821,2021,Cholera
+Lamphun,0,0.0,0,0.0,401574,2021,Cholera
+Mae Hong Son,0,0.0,0,0.0,285232,2021,Cholera
+Nan,0,0.0,0,0.0,476300,2021,Cholera
+Phayao,0,0.0,0,0.0,465930,2021,Cholera
+Phrae,0,0.0,0,0.0,435965,2021,Cholera
+ZONE:02,0,0.0,0,0.0,3536074,2021,Cholera
+Phetchabun,0,0.0,0,0.0,980156,2021,Cholera
+Phitsanulok,0,0.0,0,0.0,848432,2021,Cholera
+Sukhothai,0,0.0,0,0.0,586617,2021,Cholera
+Tak,0,0.0,0,0.0,673423,2021,Cholera
+Uttaradit,0,0.0,0,0.0,447446,2021,Cholera
+ZONE:03,0,0.0,0,0.0,2928596,2021,Cholera
+Chai Nat,0,0.0,0,0.0,321454,2021,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1037668,2021,Cholera
+Phichit,0,0.0,0,0.0,530852,2021,Cholera
+Uthai Thani,0,0.0,0,0.0,325492,2021,Cholera
+ZONE:04,0,0.0,0,0.0,5411959,2021,Cholera
+Ang Thong,0,0.0,0,0.0,275673,2021,Cholera
+Lop Buri,0,0.0,0,0.0,741200,2021,Cholera
+Nakhon Nayok,0,0.0,0,0.0,260256,2021,Cholera
+Nonthaburi,0,0.0,0,0.0,1282690,2021,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Cholera
+Pathum Thani,0,0.0,0,0.0,1183235,2021,Cholera
+Saraburi,0,0.0,0,0.0,643895,2021,Cholera
+Sing Buri,0,0.0,0,0.0,205211,2021,Cholera
+ZONE:05,0,0.0,0,0.0,5332653,2021,Cholera
+Kanchanaburi,0,0.0,0,0.0,893014,2021,Cholera
+Nakhon Pathom,0,0.0,0,0.0,921450,2021,Cholera
+Phetchaburi,0,0.0,0,0.0,482534,2021,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,551924,2021,Cholera
+Ratchaburi,0,0.0,0,0.0,868797,2021,Cholera
+Samut Sakhon,0,0.0,0,0.0,586494,2021,Cholera
+Samut Songkhram,0,0.0,0,0.0,191447,2021,Cholera
+Suphan Buri,0,0.0,0,0.0,836993,2021,Cholera
+ZONE:06,0,0.0,0,0.0,6218594,2021,Cholera
+Chachoengsao,0,0.0,0,0.0,722448,2021,Cholera
+Chanthaburi,0,0.0,0,0.0,536058,2021,Cholera
+Chon Buri,0,0.0,0,0.0,1575278,2021,Cholera
+Prachin Buri,0,0.0,0,0.0,494498,2021,Cholera
+Rayong,0,0.0,0,0.0,746433,2021,Cholera
+Sa Kaeo,0,0.0,0,0.0,561459,2021,Cholera
+Samut Prakan,0,0.0,0,0.0,1353964,2021,Cholera
+Trat,0,0.0,0,0.0,228456,2021,Cholera
+ZONE:07,0,0.0,0,0.0,5017381,2021,Cholera
+Kalasin,0,0.0,0,0.0,976373,2021,Cholera
+Khon Kaen,0,0.0,0,0.0,1792697,2021,Cholera
+Maha Sarakham,0,0.0,0,0.0,950985,2021,Cholera
+Roi Et,0,0.0,0,0.0,1297326,2021,Cholera
+ZONE:08,0,0.0,0,0.0,5518109,2021,Cholera
+Bungkan,0,0.0,0,0.0,422019,2021,Cholera
+Loei,0,0.0,0,0.0,638734,2021,Cholera
+Nakhon Phanom,0,0.0,0,0.0,717121,2021,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Cholera
+Nong Khai,0,0.0,0,0.0,517140,2021,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Cholera
+Udon Thani,0,0.0,0,0.0,1567247,2021,Cholera
+ZONE:09,0,0.0,0,0.0,6714997,2021,Cholera
+Buri Ram,0,0.0,0,0.0,1580495,2021,Cholera
+Chaiyaphum,0,0.0,0,0.0,1123595,2021,Cholera
+Nakhon Ratchasima,0,0.0,0,0.0,2633681,2021,Cholera
+Surin,0,0.0,0,0.0,1377226,2021,Cholera
+ZONE:10,0,0.0,0,0.0,4587095,2021,Cholera
+Amnat Charoen,0,0.0,0,0.0,376273,2021,Cholera
+Mukdahan,0,0.0,0,0.0,351198,2021,Cholera
+Si Sa Ket,0,0.0,0,0.0,1458068,2021,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1867608,2021,Cholera
+Yasothon,0,0.0,0,0.0,533948,2021,Cholera
+ZONE:11,0,0.0,0,0.0,4487259,2021,Cholera
+Chumphon,0,0.0,0,0.0,509344,2021,Cholera
+Krabi,0,0.0,0,0.0,478561,2021,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1550033,2021,Cholera
+Phangnga,0,0.0,0,0.0,268123,2021,Cholera
+Phuket,0,0.0,0,0.0,416629,2021,Cholera
+Ranong,0,0.0,0,0.0,194473,2021,Cholera
+Surat Thani,0,0.0,0,0.0,1070096,2021,Cholera
+ZONE:12,0,0.0,0,0.0,4992834,2021,Cholera
+Narathiwat,0,0.0,0,0.0,807045,2021,Cholera
+Pattani,0,0.0,0,0.0,727799,2021,Cholera
+Phatthalung,0,0.0,0,0.0,522810,2021,Cholera
+Satun,0,0.0,0,0.0,324467,2021,Cholera
+Songkhla,0,0.0,0,0.0,1430073,2021,Cholera
+Trang,0,0.0,0,0.0,640182,2021,Cholera
+Yala,0,0.0,0,0.0,540458,2021,Cholera
+ZONE:13,1,0.02,0,0.0,5558108,2021,Cholera
+Bangkok,1,0.02,0,0.0,5558108,2021,Cholera
 Total,8,0.01,0,0.0,66071545,2024,Cholera
 ZONE:01,0,0.0,0,0.0,5857413,2024,Cholera
 Chiang Mai,0,0.0,0,0.0,1794774,2024,Cholera
@@ -2001,3 +1910,94 @@ Trang,0,0.0,0,0.0,637612,2024,Cholera
 Yala,0,0.0,0,0.0,547930,2024,Cholera
 ZONE:13,1,0.02,0,0.0,5483259,2024,Cholera
 Bangkok,1,0.02,0,0.0,5483259,2024,Cholera
+Total,51,0.08,1,0.0,65426907,2016,Cholera
+ZONE:01,0,0.0,0,0.0,5781324,2016,Cholera
+Chiang Mai,0,0.0,0,0.0,1703263,2016,Cholera
+Chiang Rai,0,0.0,0,0.0,1242825,2016,Cholera
+Lampang,0,0.0,0,0.0,752685,2016,Cholera
+Lamphun,0,0.0,0,0.0,405927,2016,Cholera
+Mae Hong Son,0,0.0,0,0.0,260971,2016,Cholera
+Nan,0,0.0,0,0.0,478890,2016,Cholera
+Phayao,0,0.0,0,0.0,483550,2016,Cholera
+Phrae,0,0.0,0,0.0,453213,2016,Cholera
+ZONE:02,0,0.0,0,0.0,3498728,2016,Cholera
+Phetchabun,0,0.0,0,0.0,996397,2016,Cholera
+Phitsanulok,0,0.0,0,0.0,861194,2016,Cholera
+Sukhothai,0,0.0,0,0.0,602085,2016,Cholera
+Tak,0,0.0,0,0.0,578968,2016,Cholera
+Uttaradit,0,0.0,0,0.0,460084,2016,Cholera
+ZONE:03,0,0.0,0,0.0,3011449,2016,Cholera
+Chai Nat,0,0.0,0,0.0,331968,2016,Cholera
+Kamphaeng Phet,0,0.0,0,0.0,729839,2016,Cholera
+Nakhon Sawan,0,0.0,0,0.0,1072349,2016,Cholera
+Phichit,0,0.0,0,0.0,546750,2016,Cholera
+Uthai Thani,0,0.0,0,0.0,330543,2016,Cholera
+ZONE:04,0,0.0,0,0.0,5221125,2016,Cholera
+Ang Thong,0,0.0,0,0.0,283371,2016,Cholera
+Lop Buri,0,0.0,0,0.0,758531,2016,Cholera
+Nakhon Nayok,0,0.0,0,0.0,257939,2016,Cholera
+Nonthaburi,0,0.0,0,0.0,1183791,2016,Cholera
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,805980,2016,Cholera
+Pathum Thani,0,0.0,0,0.0,1084154,2016,Cholera
+Saraburi,0,0.0,0,0.0,635567,2016,Cholera
+Sing Buri,0,0.0,0,0.0,211792,2016,Cholera
+ZONE:05,0,0.0,0,0.0,5209561,2016,Cholera
+Kanchanaburi,0,0.0,0,0.0,865172,2016,Cholera
+Nakhon Pathom,0,0.0,0,0.0,895207,2016,Cholera
+Phetchaburi,0,0.0,0,0.0,476391,2016,Cholera
+Prachuap Khiri Khan,0,0.0,0,0.0,529912,2016,Cholera
+Ratchaburi,0,0.0,0,0.0,860549,2016,Cholera
+Samut Sakhon,0,0.0,0,0.0,538671,2016,Cholera
+Samut Songkhram,0,0.0,0,0.0,194283,2016,Cholera
+Suphan Buri,0,0.0,0,0.0,849376,2016,Cholera
+ZONE:06,5,0.09,0,0.0,5880124,2016,Cholera
+Chachoengsao,0,0.0,0,0.0,698190,2016,Cholera
+Chanthaburi,0,0.0,0,0.0,529194,2016,Cholera
+Chon Buri,4,0.28,0,0.0,1438231,2016,Cholera
+Prachin Buri,0,0.0,0,0.0,480755,2016,Cholera
+Rayong,1,0.15,0,0.0,681696,2016,Cholera
+Sa Kaeo,0,0.0,0,0.0,554555,2016,Cholera
+Samut Prakan,0,0.0,0,0.0,1270420,2016,Cholera
+Trat,0,0.0,0,0.0,227083,2016,Cholera
+ZONE:07,3,0.06,0,0.0,5049920,2016,Cholera
+Kalasin,0,0.0,0,0.0,985055,2016,Cholera
+Khon Kaen,3,0.17,0,0.0,1794032,2016,Cholera
+Maha Sarakham,0,0.0,0,0.0,962592,2016,Cholera
+Roi Et,0,0.0,0,0.0,1308241,2016,Cholera
+ZONE:08,0,0.0,0,0.0,5511930,2016,Cholera
+Bungkan,0,0.0,0,0.0,419607,2016,Cholera
+Loei,0,0.0,0,0.0,636666,2016,Cholera
+Nakhon Phanom,0,0.0,0,0.0,714369,2016,Cholera
+Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Cholera
+Nong Khai,0,0.0,0,0.0,518420,2016,Cholera
+Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Cholera
+Udon Thani,0,0.0,0,0.0,1572726,2016,Cholera
+ZONE:09,0,0.0,0,0.0,6737604,2016,Cholera
+Buri Ram,0,0.0,0,0.0,1581955,2016,Cholera
+Chaiyaphum,0,0.0,0,0.0,1137651,2016,Cholera
+Nakhon Ratchasima,0,0.0,0,0.0,2624668,2016,Cholera
+Surin,0,0.0,0,0.0,1393330,2016,Cholera
+ZONE:10,0,0.0,0,0.0,4581192,2016,Cholera
+Amnat Charoen,0,0.0,0,0.0,375881,2016,Cholera
+Mukdahan,0,0.0,0,0.0,347059,2016,Cholera
+Si Sa Ket,0,0.0,0,0.0,1467006,2016,Cholera
+Ubon Ratchathani,0,0.0,0,0.0,1851049,2016,Cholera
+Yasothon,0,0.0,0,0.0,540197,2016,Cholera
+ZONE:11,0,0.0,0,0.0,4383957,2016,Cholera
+Chumphon,0,0.0,0,0.0,503203,2016,Cholera
+Krabi,0,0.0,0,0.0,459456,2016,Cholera
+Nakhon Si Thammarat,0,0.0,0,0.0,1550278,2016,Cholera
+Phangnga,0,0.0,0,0.0,262721,2016,Cholera
+Phuket,0,0.0,0,0.0,382485,2016,Cholera
+Ranong,0,0.0,0,0.0,182313,2016,Cholera
+Surat Thani,0,0.0,0,0.0,1043501,2016,Cholera
+ZONE:12,41,0.84,1,0.02,4865646,2016,Cholera
+Narathiwat,0,0.0,0,0.0,778941,2016,Cholera
+Pattani,0,0.0,0,0.0,690104,2016,Cholera
+Phatthalung,0,0.0,0,0.0,521570,2016,Cholera
+Satun,0,0.0,0,0.0,314297,2016,Cholera
+Songkhla,40,2.85,0,0.0,1405939,2016,Cholera
+Trang,0,0.0,0,0.0,639770,2016,Cholera
+Yala,1,0.19,1,0.19,515025,2016,Cholera
+ZONE:13,2,0.04,0,0.0,5694347,2016,Cholera
+Bangkok,2,0.04,0,0.0,5694347,2016,Cholera

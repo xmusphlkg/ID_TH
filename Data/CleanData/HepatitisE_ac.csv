@@ -1,1804 +1,4 @@
 Areas,Age,Cases,Year,Disease
-Total,Total,11,2003,HepatitisE
-North Region,Total,7,2003,HepatitisE
-Zone:1,Total,3,2003,HepatitisE
-Chiang Mai,Total,0,2003,HepatitisE
-Chiang Rai,Total,0,2003,HepatitisE
-Lampang,Total,0,2003,HepatitisE
-Lamphun,Total,0,2003,HepatitisE
-Mae Hong Son,Total,0,2003,HepatitisE
-Nan,Total,3,2003,HepatitisE
-Phayao,Total,0,2003,HepatitisE
-Phrae,Total,0,2003,HepatitisE
-Zone:2,Total,2,2003,HepatitisE
-Phetchabun,Total,1,2003,HepatitisE
-Phitsanulok,Total,0,2003,HepatitisE
-Sukhothai,Total,0,2003,HepatitisE
-Tak,Total,1,2003,HepatitisE
-Uttaradit,Total,0,2003,HepatitisE
-Zone:3,Total,2,2003,HepatitisE
-Kamphaeng Phet,Total,2,2003,HepatitisE
-Nakhon Sawan,Total,0,2003,HepatitisE
-Phichit,Total,0,2003,HepatitisE
-Uthai Thani,Total,0,2003,HepatitisE
-Central Region,Total,4,2003,HepatitisE
-Bangkok,Total,0,2003,HepatitisE
-Zone:4,Total,0,2003,HepatitisE
-Ang Thong,Total,0,2003,HepatitisE
-Nonthaburi,Total,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,Total,0,2003,HepatitisE
-Pathum Thani,Total,0,2003,HepatitisE
-Zone:5,Total,0,2003,HepatitisE
-Chai Nat,Total,0,2003,HepatitisE
-Lop Buri,Total,0,2003,HepatitisE
-Saraburi,Total,0,2003,HepatitisE
-Sing Buri,Total,0,2003,HepatitisE
-Zone:6,Total,0,2003,HepatitisE
-Kanchanaburi,Total,0,2003,HepatitisE
-Nakhon Pathom,Total,0,2003,HepatitisE
-Ratchaburi,Total,0,2003,HepatitisE
-Suphan Buri,Total,0,2003,HepatitisE
-Zone:7,Total,0,2003,HepatitisE
-Phetchaburi,Total,0,2003,HepatitisE
-Prachuap Khiri Khan,Total,0,2003,HepatitisE
-Samut Sakhon,Total,0,2003,HepatitisE
-Samut Songkhram,Total,0,2003,HepatitisE
-Zone:8,Total,1,2003,HepatitisE
-Chachoengsao,Total,0,2003,HepatitisE
-Nakhon Nayok,Total,0,2003,HepatitisE
-Prachin Buri,Total,1,2003,HepatitisE
-Sa Kaeo,Total,0,2003,HepatitisE
-Samut Prakan,Total,0,2003,HepatitisE
-Zone:9,Total,3,2003,HepatitisE
-Chanthaburi,Total,1,2003,HepatitisE
-Chon Buri,Total,0,2003,HepatitisE
-Rayong,Total,0,2003,HepatitisE
-Trat,Total,2,2003,HepatitisE
-North-Eastern Region,Total,0,2003,HepatitisE
-Zone:10,Total,0,2003,HepatitisE
-Loei,Total,0,2003,HepatitisE
-Nong Bua Lam Phu,Total,0,2003,HepatitisE
-Nong Khai,Total,0,2003,HepatitisE
-Udon Thani,Total,0,2003,HepatitisE
-Zone:11,Total,0,2003,HepatitisE
-Kalasin,Total,0,2003,HepatitisE
-Mukdahan,Total,0,2003,HepatitisE
-Nakhon Phanom,Total,0,2003,HepatitisE
-Sakon Nakhon,Total,0,2003,HepatitisE
-Zone:12,Total,0,2003,HepatitisE
-Khon Kaen,Total,0,2003,HepatitisE
-Maha Sarakham,Total,0,2003,HepatitisE
-Roi Et,Total,0,2003,HepatitisE
-Zone:13,Total,0,2003,HepatitisE
-Buri Ram,Total,0,2003,HepatitisE
-Chaiyaphum,Total,0,2003,HepatitisE
-Nakhon Ratchasima,Total,0,2003,HepatitisE
-Surin,Total,0,2003,HepatitisE
-Zone:14,Total,0,2003,HepatitisE
-Amnat Charoen,Total,0,2003,HepatitisE
-Si Sa Ket,Total,0,2003,HepatitisE
-Ubon Ratchathani,Total,0,2003,HepatitisE
-Yasothon,Total,0,2003,HepatitisE
-South Region,Total,0,2003,HepatitisE
-Zone:15,Total,0,2003,HepatitisE
-Chumphon,Total,0,2003,HepatitisE
-Ranong,Total,0,2003,HepatitisE
-Surat Thani,Total,0,2003,HepatitisE
-Zone:16,Total,0,2003,HepatitisE
-Nakhon Si Thammarat,Total,0,2003,HepatitisE
-Phatthalung,Total,0,2003,HepatitisE
-Trang,Total,0,2003,HepatitisE
-Zone:17,Total,0,2003,HepatitisE
-Krabi,Total,0,2003,HepatitisE
-Phangnga,Total,0,2003,HepatitisE
-Phuket,Total,0,2003,HepatitisE
-Zone:18,Total,0,2003,HepatitisE
-Narathiwat,Total,0,2003,HepatitisE
-Pattani,Total,0,2003,HepatitisE
-Yala,Total,0,2003,HepatitisE
-Zone:19,Total,0,2003,HepatitisE
-Satun,Total,0,2003,HepatitisE
-Songkhla,Total,0,2003,HepatitisE
-Total,0,0,2003,HepatitisE
-North Region,0,0,2003,HepatitisE
-Zone:1,0,0,2003,HepatitisE
-Chiang Mai,0,0,2003,HepatitisE
-Chiang Rai,0,0,2003,HepatitisE
-Lampang,0,0,2003,HepatitisE
-Lamphun,0,0,2003,HepatitisE
-Mae Hong Son,0,0,2003,HepatitisE
-Nan,0,0,2003,HepatitisE
-Phayao,0,0,2003,HepatitisE
-Phrae,0,0,2003,HepatitisE
-Zone:2,0,0,2003,HepatitisE
-Phetchabun,0,0,2003,HepatitisE
-Phitsanulok,0,0,2003,HepatitisE
-Sukhothai,0,0,2003,HepatitisE
-Tak,0,0,2003,HepatitisE
-Uttaradit,0,0,2003,HepatitisE
-Zone:3,0,0,2003,HepatitisE
-Kamphaeng Phet,0,0,2003,HepatitisE
-Nakhon Sawan,0,0,2003,HepatitisE
-Phichit,0,0,2003,HepatitisE
-Uthai Thani,0,0,2003,HepatitisE
-Central Region,0,0,2003,HepatitisE
-Bangkok,0,0,2003,HepatitisE
-Zone:4,0,0,2003,HepatitisE
-Ang Thong,0,0,2003,HepatitisE
-Nonthaburi,0,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,0,0,2003,HepatitisE
-Pathum Thani,0,0,2003,HepatitisE
-Zone:5,0,0,2003,HepatitisE
-Chai Nat,0,0,2003,HepatitisE
-Lop Buri,0,0,2003,HepatitisE
-Saraburi,0,0,2003,HepatitisE
-Sing Buri,0,0,2003,HepatitisE
-Zone:6,0,0,2003,HepatitisE
-Kanchanaburi,0,0,2003,HepatitisE
-Nakhon Pathom,0,0,2003,HepatitisE
-Ratchaburi,0,0,2003,HepatitisE
-Suphan Buri,0,0,2003,HepatitisE
-Zone:7,0,0,2003,HepatitisE
-Phetchaburi,0,0,2003,HepatitisE
-Prachuap Khiri Khan,0,0,2003,HepatitisE
-Samut Sakhon,0,0,2003,HepatitisE
-Samut Songkhram,0,0,2003,HepatitisE
-Zone:8,0,0,2003,HepatitisE
-Chachoengsao,0,0,2003,HepatitisE
-Nakhon Nayok,0,0,2003,HepatitisE
-Prachin Buri,0,0,2003,HepatitisE
-Sa Kaeo,0,0,2003,HepatitisE
-Samut Prakan,0,0,2003,HepatitisE
-Zone:9,0,0,2003,HepatitisE
-Chanthaburi,0,0,2003,HepatitisE
-Chon Buri,0,0,2003,HepatitisE
-Rayong,0,0,2003,HepatitisE
-Trat,0,0,2003,HepatitisE
-North-Eastern Region,0,0,2003,HepatitisE
-Zone:10,0,0,2003,HepatitisE
-Loei,0,0,2003,HepatitisE
-Nong Bua Lam Phu,0,0,2003,HepatitisE
-Nong Khai,0,0,2003,HepatitisE
-Udon Thani,0,0,2003,HepatitisE
-Zone:11,0,0,2003,HepatitisE
-Kalasin,0,0,2003,HepatitisE
-Mukdahan,0,0,2003,HepatitisE
-Nakhon Phanom,0,0,2003,HepatitisE
-Sakon Nakhon,0,0,2003,HepatitisE
-Zone:12,0,0,2003,HepatitisE
-Khon Kaen,0,0,2003,HepatitisE
-Maha Sarakham,0,0,2003,HepatitisE
-Roi Et,0,0,2003,HepatitisE
-Zone:13,0,0,2003,HepatitisE
-Buri Ram,0,0,2003,HepatitisE
-Chaiyaphum,0,0,2003,HepatitisE
-Nakhon Ratchasima,0,0,2003,HepatitisE
-Surin,0,0,2003,HepatitisE
-Zone:14,0,0,2003,HepatitisE
-Amnat Charoen,0,0,2003,HepatitisE
-Si Sa Ket,0,0,2003,HepatitisE
-Ubon Ratchathani,0,0,2003,HepatitisE
-Yasothon,0,0,2003,HepatitisE
-South Region,0,0,2003,HepatitisE
-Zone:15,0,0,2003,HepatitisE
-Chumphon,0,0,2003,HepatitisE
-Ranong,0,0,2003,HepatitisE
-Surat Thani,0,0,2003,HepatitisE
-Zone:16,0,0,2003,HepatitisE
-Nakhon Si Thammarat,0,0,2003,HepatitisE
-Phatthalung,0,0,2003,HepatitisE
-Trang,0,0,2003,HepatitisE
-Zone:17,0,0,2003,HepatitisE
-Krabi,0,0,2003,HepatitisE
-Phangnga,0,0,2003,HepatitisE
-Phuket,0,0,2003,HepatitisE
-Zone:18,0,0,2003,HepatitisE
-Narathiwat,0,0,2003,HepatitisE
-Pattani,0,0,2003,HepatitisE
-Yala,0,0,2003,HepatitisE
-Zone:19,0,0,2003,HepatitisE
-Satun,0,0,2003,HepatitisE
-Songkhla,0,0,2003,HepatitisE
-Total,<1,0,2003,HepatitisE
-North Region,<1,0,2003,HepatitisE
-Zone:1,<1,0,2003,HepatitisE
-Chiang Mai,<1,0,2003,HepatitisE
-Chiang Rai,<1,0,2003,HepatitisE
-Lampang,<1,0,2003,HepatitisE
-Lamphun,<1,0,2003,HepatitisE
-Mae Hong Son,<1,0,2003,HepatitisE
-Nan,<1,0,2003,HepatitisE
-Phayao,<1,0,2003,HepatitisE
-Phrae,<1,0,2003,HepatitisE
-Zone:2,<1,0,2003,HepatitisE
-Phetchabun,<1,0,2003,HepatitisE
-Phitsanulok,<1,0,2003,HepatitisE
-Sukhothai,<1,0,2003,HepatitisE
-Tak,<1,0,2003,HepatitisE
-Uttaradit,<1,0,2003,HepatitisE
-Zone:3,<1,0,2003,HepatitisE
-Kamphaeng Phet,<1,0,2003,HepatitisE
-Nakhon Sawan,<1,0,2003,HepatitisE
-Phichit,<1,0,2003,HepatitisE
-Uthai Thani,<1,0,2003,HepatitisE
-Central Region,<1,0,2003,HepatitisE
-Bangkok,<1,0,2003,HepatitisE
-Zone:4,<1,0,2003,HepatitisE
-Ang Thong,<1,0,2003,HepatitisE
-Nonthaburi,<1,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,<1,0,2003,HepatitisE
-Pathum Thani,<1,0,2003,HepatitisE
-Zone:5,<1,0,2003,HepatitisE
-Chai Nat,<1,0,2003,HepatitisE
-Lop Buri,<1,0,2003,HepatitisE
-Saraburi,<1,0,2003,HepatitisE
-Sing Buri,<1,0,2003,HepatitisE
-Zone:6,<1,0,2003,HepatitisE
-Kanchanaburi,<1,0,2003,HepatitisE
-Nakhon Pathom,<1,0,2003,HepatitisE
-Ratchaburi,<1,0,2003,HepatitisE
-Suphan Buri,<1,0,2003,HepatitisE
-Zone:7,<1,0,2003,HepatitisE
-Phetchaburi,<1,0,2003,HepatitisE
-Prachuap Khiri Khan,<1,0,2003,HepatitisE
-Samut Sakhon,<1,0,2003,HepatitisE
-Samut Songkhram,<1,0,2003,HepatitisE
-Zone:8,<1,0,2003,HepatitisE
-Chachoengsao,<1,0,2003,HepatitisE
-Nakhon Nayok,<1,0,2003,HepatitisE
-Prachin Buri,<1,0,2003,HepatitisE
-Sa Kaeo,<1,0,2003,HepatitisE
-Samut Prakan,<1,0,2003,HepatitisE
-Zone:9,<1,0,2003,HepatitisE
-Chanthaburi,<1,0,2003,HepatitisE
-Chon Buri,<1,0,2003,HepatitisE
-Rayong,<1,0,2003,HepatitisE
-Trat,<1,0,2003,HepatitisE
-North-Eastern Region,<1,0,2003,HepatitisE
-Zone:10,<1,0,2003,HepatitisE
-Loei,<1,0,2003,HepatitisE
-Nong Bua Lam Phu,<1,0,2003,HepatitisE
-Nong Khai,<1,0,2003,HepatitisE
-Udon Thani,<1,0,2003,HepatitisE
-Zone:11,<1,0,2003,HepatitisE
-Kalasin,<1,0,2003,HepatitisE
-Mukdahan,<1,0,2003,HepatitisE
-Nakhon Phanom,<1,0,2003,HepatitisE
-Sakon Nakhon,<1,0,2003,HepatitisE
-Zone:12,<1,0,2003,HepatitisE
-Khon Kaen,<1,0,2003,HepatitisE
-Maha Sarakham,<1,0,2003,HepatitisE
-Roi Et,<1,0,2003,HepatitisE
-Zone:13,<1,0,2003,HepatitisE
-Buri Ram,<1,0,2003,HepatitisE
-Chaiyaphum,<1,0,2003,HepatitisE
-Nakhon Ratchasima,<1,0,2003,HepatitisE
-Surin,<1,0,2003,HepatitisE
-Zone:14,<1,0,2003,HepatitisE
-Amnat Charoen,<1,0,2003,HepatitisE
-Si Sa Ket,<1,0,2003,HepatitisE
-Ubon Ratchathani,<1,0,2003,HepatitisE
-Yasothon,<1,0,2003,HepatitisE
-South Region,<1,0,2003,HepatitisE
-Zone:15,<1,0,2003,HepatitisE
-Chumphon,<1,0,2003,HepatitisE
-Ranong,<1,0,2003,HepatitisE
-Surat Thani,<1,0,2003,HepatitisE
-Zone:16,<1,0,2003,HepatitisE
-Nakhon Si Thammarat,<1,0,2003,HepatitisE
-Phatthalung,<1,0,2003,HepatitisE
-Trang,<1,0,2003,HepatitisE
-Zone:17,<1,0,2003,HepatitisE
-Krabi,<1,0,2003,HepatitisE
-Phangnga,<1,0,2003,HepatitisE
-Phuket,<1,0,2003,HepatitisE
-Zone:18,<1,0,2003,HepatitisE
-Narathiwat,<1,0,2003,HepatitisE
-Pattani,<1,0,2003,HepatitisE
-Yala,<1,0,2003,HepatitisE
-Zone:19,<1,0,2003,HepatitisE
-Satun,<1,0,2003,HepatitisE
-Songkhla,<1,0,2003,HepatitisE
-Total,1-1,1,2003,HepatitisE
-North Region,1-1,0,2003,HepatitisE
-Zone:1,1-1,0,2003,HepatitisE
-Chiang Mai,1-1,0,2003,HepatitisE
-Chiang Rai,1-1,0,2003,HepatitisE
-Lampang,1-1,0,2003,HepatitisE
-Lamphun,1-1,0,2003,HepatitisE
-Mae Hong Son,1-1,0,2003,HepatitisE
-Nan,1-1,0,2003,HepatitisE
-Phayao,1-1,0,2003,HepatitisE
-Phrae,1-1,0,2003,HepatitisE
-Zone:2,1-1,0,2003,HepatitisE
-Phetchabun,1-1,0,2003,HepatitisE
-Phitsanulok,1-1,0,2003,HepatitisE
-Sukhothai,1-1,0,2003,HepatitisE
-Tak,1-1,0,2003,HepatitisE
-Uttaradit,1-1,0,2003,HepatitisE
-Zone:3,1-1,0,2003,HepatitisE
-Kamphaeng Phet,1-1,0,2003,HepatitisE
-Nakhon Sawan,1-1,0,2003,HepatitisE
-Phichit,1-1,0,2003,HepatitisE
-Uthai Thani,1-1,0,2003,HepatitisE
-Central Region,1-1,1,2003,HepatitisE
-Bangkok,1-1,0,2003,HepatitisE
-Zone:4,1-1,0,2003,HepatitisE
-Ang Thong,1-1,0,2003,HepatitisE
-Nonthaburi,1-1,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,1-1,0,2003,HepatitisE
-Pathum Thani,1-1,0,2003,HepatitisE
-Zone:5,1-1,0,2003,HepatitisE
-Chai Nat,1-1,0,2003,HepatitisE
-Lop Buri,1-1,0,2003,HepatitisE
-Saraburi,1-1,0,2003,HepatitisE
-Sing Buri,1-1,0,2003,HepatitisE
-Zone:6,1-1,0,2003,HepatitisE
-Kanchanaburi,1-1,0,2003,HepatitisE
-Nakhon Pathom,1-1,0,2003,HepatitisE
-Ratchaburi,1-1,0,2003,HepatitisE
-Suphan Buri,1-1,0,2003,HepatitisE
-Zone:7,1-1,0,2003,HepatitisE
-Phetchaburi,1-1,0,2003,HepatitisE
-Prachuap Khiri Khan,1-1,0,2003,HepatitisE
-Samut Sakhon,1-1,0,2003,HepatitisE
-Samut Songkhram,1-1,0,2003,HepatitisE
-Zone:8,1-1,1,2003,HepatitisE
-Chachoengsao,1-1,0,2003,HepatitisE
-Nakhon Nayok,1-1,0,2003,HepatitisE
-Prachin Buri,1-1,1,2003,HepatitisE
-Sa Kaeo,1-1,0,2003,HepatitisE
-Samut Prakan,1-1,0,2003,HepatitisE
-Zone:9,1-1,0,2003,HepatitisE
-Chanthaburi,1-1,0,2003,HepatitisE
-Chon Buri,1-1,0,2003,HepatitisE
-Rayong,1-1,0,2003,HepatitisE
-Trat,1-1,0,2003,HepatitisE
-North-Eastern Region,1-1,0,2003,HepatitisE
-Zone:10,1-1,0,2003,HepatitisE
-Loei,1-1,0,2003,HepatitisE
-Nong Bua Lam Phu,1-1,0,2003,HepatitisE
-Nong Khai,1-1,0,2003,HepatitisE
-Udon Thani,1-1,0,2003,HepatitisE
-Zone:11,1-1,0,2003,HepatitisE
-Kalasin,1-1,0,2003,HepatitisE
-Mukdahan,1-1,0,2003,HepatitisE
-Nakhon Phanom,1-1,0,2003,HepatitisE
-Sakon Nakhon,1-1,0,2003,HepatitisE
-Zone:12,1-1,0,2003,HepatitisE
-Khon Kaen,1-1,0,2003,HepatitisE
-Maha Sarakham,1-1,0,2003,HepatitisE
-Roi Et,1-1,0,2003,HepatitisE
-Zone:13,1-1,0,2003,HepatitisE
-Buri Ram,1-1,0,2003,HepatitisE
-Chaiyaphum,1-1,0,2003,HepatitisE
-Nakhon Ratchasima,1-1,0,2003,HepatitisE
-Surin,1-1,0,2003,HepatitisE
-Zone:14,1-1,0,2003,HepatitisE
-Amnat Charoen,1-1,0,2003,HepatitisE
-Si Sa Ket,1-1,0,2003,HepatitisE
-Ubon Ratchathani,1-1,0,2003,HepatitisE
-Yasothon,1-1,0,2003,HepatitisE
-South Region,1-1,0,2003,HepatitisE
-Zone:15,1-1,0,2003,HepatitisE
-Chumphon,1-1,0,2003,HepatitisE
-Ranong,1-1,0,2003,HepatitisE
-Surat Thani,1-1,0,2003,HepatitisE
-Zone:16,1-1,0,2003,HepatitisE
-Nakhon Si Thammarat,1-1,0,2003,HepatitisE
-Phatthalung,1-1,0,2003,HepatitisE
-Trang,1-1,0,2003,HepatitisE
-Zone:17,1-1,0,2003,HepatitisE
-Krabi,1-1,0,2003,HepatitisE
-Phangnga,1-1,0,2003,HepatitisE
-Phuket,1-1,0,2003,HepatitisE
-Zone:18,1-1,0,2003,HepatitisE
-Narathiwat,1-1,0,2003,HepatitisE
-Pattani,1-1,0,2003,HepatitisE
-Yala,1-1,0,2003,HepatitisE
-Zone:19,1-1,0,2003,HepatitisE
-Satun,1-1,0,2003,HepatitisE
-Songkhla,1-1,0,2003,HepatitisE
-Total,2-2,0,2003,HepatitisE
-North Region,2-2,0,2003,HepatitisE
-Zone:1,2-2,0,2003,HepatitisE
-Chiang Mai,2-2,0,2003,HepatitisE
-Chiang Rai,2-2,0,2003,HepatitisE
-Lampang,2-2,0,2003,HepatitisE
-Lamphun,2-2,0,2003,HepatitisE
-Mae Hong Son,2-2,0,2003,HepatitisE
-Nan,2-2,0,2003,HepatitisE
-Phayao,2-2,0,2003,HepatitisE
-Phrae,2-2,0,2003,HepatitisE
-Zone:2,2-2,0,2003,HepatitisE
-Phetchabun,2-2,0,2003,HepatitisE
-Phitsanulok,2-2,0,2003,HepatitisE
-Sukhothai,2-2,0,2003,HepatitisE
-Tak,2-2,0,2003,HepatitisE
-Uttaradit,2-2,0,2003,HepatitisE
-Zone:3,2-2,0,2003,HepatitisE
-Kamphaeng Phet,2-2,0,2003,HepatitisE
-Nakhon Sawan,2-2,0,2003,HepatitisE
-Phichit,2-2,0,2003,HepatitisE
-Uthai Thani,2-2,0,2003,HepatitisE
-Central Region,2-2,0,2003,HepatitisE
-Bangkok,2-2,0,2003,HepatitisE
-Zone:4,2-2,0,2003,HepatitisE
-Ang Thong,2-2,0,2003,HepatitisE
-Nonthaburi,2-2,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,2-2,0,2003,HepatitisE
-Pathum Thani,2-2,0,2003,HepatitisE
-Zone:5,2-2,0,2003,HepatitisE
-Chai Nat,2-2,0,2003,HepatitisE
-Lop Buri,2-2,0,2003,HepatitisE
-Saraburi,2-2,0,2003,HepatitisE
-Sing Buri,2-2,0,2003,HepatitisE
-Zone:6,2-2,0,2003,HepatitisE
-Kanchanaburi,2-2,0,2003,HepatitisE
-Nakhon Pathom,2-2,0,2003,HepatitisE
-Ratchaburi,2-2,0,2003,HepatitisE
-Suphan Buri,2-2,0,2003,HepatitisE
-Zone:7,2-2,0,2003,HepatitisE
-Phetchaburi,2-2,0,2003,HepatitisE
-Prachuap Khiri Khan,2-2,0,2003,HepatitisE
-Samut Sakhon,2-2,0,2003,HepatitisE
-Samut Songkhram,2-2,0,2003,HepatitisE
-Zone:8,2-2,0,2003,HepatitisE
-Chachoengsao,2-2,0,2003,HepatitisE
-Nakhon Nayok,2-2,0,2003,HepatitisE
-Prachin Buri,2-2,0,2003,HepatitisE
-Sa Kaeo,2-2,0,2003,HepatitisE
-Samut Prakan,2-2,0,2003,HepatitisE
-Zone:9,2-2,0,2003,HepatitisE
-Chanthaburi,2-2,0,2003,HepatitisE
-Chon Buri,2-2,0,2003,HepatitisE
-Rayong,2-2,0,2003,HepatitisE
-Trat,2-2,0,2003,HepatitisE
-North-Eastern Region,2-2,0,2003,HepatitisE
-Zone:10,2-2,0,2003,HepatitisE
-Loei,2-2,0,2003,HepatitisE
-Nong Bua Lam Phu,2-2,0,2003,HepatitisE
-Nong Khai,2-2,0,2003,HepatitisE
-Udon Thani,2-2,0,2003,HepatitisE
-Zone:11,2-2,0,2003,HepatitisE
-Kalasin,2-2,0,2003,HepatitisE
-Mukdahan,2-2,0,2003,HepatitisE
-Nakhon Phanom,2-2,0,2003,HepatitisE
-Sakon Nakhon,2-2,0,2003,HepatitisE
-Zone:12,2-2,0,2003,HepatitisE
-Khon Kaen,2-2,0,2003,HepatitisE
-Maha Sarakham,2-2,0,2003,HepatitisE
-Roi Et,2-2,0,2003,HepatitisE
-Zone:13,2-2,0,2003,HepatitisE
-Buri Ram,2-2,0,2003,HepatitisE
-Chaiyaphum,2-2,0,2003,HepatitisE
-Nakhon Ratchasima,2-2,0,2003,HepatitisE
-Surin,2-2,0,2003,HepatitisE
-Zone:14,2-2,0,2003,HepatitisE
-Amnat Charoen,2-2,0,2003,HepatitisE
-Si Sa Ket,2-2,0,2003,HepatitisE
-Ubon Ratchathani,2-2,0,2003,HepatitisE
-Yasothon,2-2,0,2003,HepatitisE
-South Region,2-2,0,2003,HepatitisE
-Zone:15,2-2,0,2003,HepatitisE
-Chumphon,2-2,0,2003,HepatitisE
-Ranong,2-2,0,2003,HepatitisE
-Surat Thani,2-2,0,2003,HepatitisE
-Zone:16,2-2,0,2003,HepatitisE
-Nakhon Si Thammarat,2-2,0,2003,HepatitisE
-Phatthalung,2-2,0,2003,HepatitisE
-Trang,2-2,0,2003,HepatitisE
-Zone:17,2-2,0,2003,HepatitisE
-Krabi,2-2,0,2003,HepatitisE
-Phangnga,2-2,0,2003,HepatitisE
-Phuket,2-2,0,2003,HepatitisE
-Zone:18,2-2,0,2003,HepatitisE
-Narathiwat,2-2,0,2003,HepatitisE
-Pattani,2-2,0,2003,HepatitisE
-Yala,2-2,0,2003,HepatitisE
-Zone:19,2-2,0,2003,HepatitisE
-Satun,2-2,0,2003,HepatitisE
-Songkhla,2-2,0,2003,HepatitisE
-Total,3-3,0,2003,HepatitisE
-North Region,3-3,0,2003,HepatitisE
-Zone:1,3-3,0,2003,HepatitisE
-Chiang Mai,3-3,0,2003,HepatitisE
-Chiang Rai,3-3,0,2003,HepatitisE
-Lampang,3-3,0,2003,HepatitisE
-Lamphun,3-3,0,2003,HepatitisE
-Mae Hong Son,3-3,0,2003,HepatitisE
-Nan,3-3,0,2003,HepatitisE
-Phayao,3-3,0,2003,HepatitisE
-Phrae,3-3,0,2003,HepatitisE
-Zone:2,3-3,0,2003,HepatitisE
-Phetchabun,3-3,0,2003,HepatitisE
-Phitsanulok,3-3,0,2003,HepatitisE
-Sukhothai,3-3,0,2003,HepatitisE
-Tak,3-3,0,2003,HepatitisE
-Uttaradit,3-3,0,2003,HepatitisE
-Zone:3,3-3,0,2003,HepatitisE
-Kamphaeng Phet,3-3,0,2003,HepatitisE
-Nakhon Sawan,3-3,0,2003,HepatitisE
-Phichit,3-3,0,2003,HepatitisE
-Uthai Thani,3-3,0,2003,HepatitisE
-Central Region,3-3,0,2003,HepatitisE
-Bangkok,3-3,0,2003,HepatitisE
-Zone:4,3-3,0,2003,HepatitisE
-Ang Thong,3-3,0,2003,HepatitisE
-Nonthaburi,3-3,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,3-3,0,2003,HepatitisE
-Pathum Thani,3-3,0,2003,HepatitisE
-Zone:5,3-3,0,2003,HepatitisE
-Chai Nat,3-3,0,2003,HepatitisE
-Lop Buri,3-3,0,2003,HepatitisE
-Saraburi,3-3,0,2003,HepatitisE
-Sing Buri,3-3,0,2003,HepatitisE
-Zone:6,3-3,0,2003,HepatitisE
-Kanchanaburi,3-3,0,2003,HepatitisE
-Nakhon Pathom,3-3,0,2003,HepatitisE
-Ratchaburi,3-3,0,2003,HepatitisE
-Suphan Buri,3-3,0,2003,HepatitisE
-Zone:7,3-3,0,2003,HepatitisE
-Phetchaburi,3-3,0,2003,HepatitisE
-Prachuap Khiri Khan,3-3,0,2003,HepatitisE
-Samut Sakhon,3-3,0,2003,HepatitisE
-Samut Songkhram,3-3,0,2003,HepatitisE
-Zone:8,3-3,0,2003,HepatitisE
-Chachoengsao,3-3,0,2003,HepatitisE
-Nakhon Nayok,3-3,0,2003,HepatitisE
-Prachin Buri,3-3,0,2003,HepatitisE
-Sa Kaeo,3-3,0,2003,HepatitisE
-Samut Prakan,3-3,0,2003,HepatitisE
-Zone:9,3-3,0,2003,HepatitisE
-Chanthaburi,3-3,0,2003,HepatitisE
-Chon Buri,3-3,0,2003,HepatitisE
-Rayong,3-3,0,2003,HepatitisE
-Trat,3-3,0,2003,HepatitisE
-North-Eastern Region,3-3,0,2003,HepatitisE
-Zone:10,3-3,0,2003,HepatitisE
-Loei,3-3,0,2003,HepatitisE
-Nong Bua Lam Phu,3-3,0,2003,HepatitisE
-Nong Khai,3-3,0,2003,HepatitisE
-Udon Thani,3-3,0,2003,HepatitisE
-Zone:11,3-3,0,2003,HepatitisE
-Kalasin,3-3,0,2003,HepatitisE
-Mukdahan,3-3,0,2003,HepatitisE
-Nakhon Phanom,3-3,0,2003,HepatitisE
-Sakon Nakhon,3-3,0,2003,HepatitisE
-Zone:12,3-3,0,2003,HepatitisE
-Khon Kaen,3-3,0,2003,HepatitisE
-Maha Sarakham,3-3,0,2003,HepatitisE
-Roi Et,3-3,0,2003,HepatitisE
-Zone:13,3-3,0,2003,HepatitisE
-Buri Ram,3-3,0,2003,HepatitisE
-Chaiyaphum,3-3,0,2003,HepatitisE
-Nakhon Ratchasima,3-3,0,2003,HepatitisE
-Surin,3-3,0,2003,HepatitisE
-Zone:14,3-3,0,2003,HepatitisE
-Amnat Charoen,3-3,0,2003,HepatitisE
-Si Sa Ket,3-3,0,2003,HepatitisE
-Ubon Ratchathani,3-3,0,2003,HepatitisE
-Yasothon,3-3,0,2003,HepatitisE
-South Region,3-3,0,2003,HepatitisE
-Zone:15,3-3,0,2003,HepatitisE
-Chumphon,3-3,0,2003,HepatitisE
-Ranong,3-3,0,2003,HepatitisE
-Surat Thani,3-3,0,2003,HepatitisE
-Zone:16,3-3,0,2003,HepatitisE
-Nakhon Si Thammarat,3-3,0,2003,HepatitisE
-Phatthalung,3-3,0,2003,HepatitisE
-Trang,3-3,0,2003,HepatitisE
-Zone:17,3-3,0,2003,HepatitisE
-Krabi,3-3,0,2003,HepatitisE
-Phangnga,3-3,0,2003,HepatitisE
-Phuket,3-3,0,2003,HepatitisE
-Zone:18,3-3,0,2003,HepatitisE
-Narathiwat,3-3,0,2003,HepatitisE
-Pattani,3-3,0,2003,HepatitisE
-Yala,3-3,0,2003,HepatitisE
-Zone:19,3-3,0,2003,HepatitisE
-Satun,3-3,0,2003,HepatitisE
-Songkhla,3-3,0,2003,HepatitisE
-Total,4-4,0,2003,HepatitisE
-North Region,4-4,0,2003,HepatitisE
-Zone:1,4-4,0,2003,HepatitisE
-Chiang Mai,4-4,0,2003,HepatitisE
-Chiang Rai,4-4,0,2003,HepatitisE
-Lampang,4-4,0,2003,HepatitisE
-Lamphun,4-4,0,2003,HepatitisE
-Mae Hong Son,4-4,0,2003,HepatitisE
-Nan,4-4,0,2003,HepatitisE
-Phayao,4-4,0,2003,HepatitisE
-Phrae,4-4,0,2003,HepatitisE
-Zone:2,4-4,0,2003,HepatitisE
-Phetchabun,4-4,0,2003,HepatitisE
-Phitsanulok,4-4,0,2003,HepatitisE
-Sukhothai,4-4,0,2003,HepatitisE
-Tak,4-4,0,2003,HepatitisE
-Uttaradit,4-4,0,2003,HepatitisE
-Zone:3,4-4,0,2003,HepatitisE
-Kamphaeng Phet,4-4,0,2003,HepatitisE
-Nakhon Sawan,4-4,0,2003,HepatitisE
-Phichit,4-4,0,2003,HepatitisE
-Uthai Thani,4-4,0,2003,HepatitisE
-Central Region,4-4,0,2003,HepatitisE
-Bangkok,4-4,0,2003,HepatitisE
-Zone:4,4-4,0,2003,HepatitisE
-Ang Thong,4-4,0,2003,HepatitisE
-Nonthaburi,4-4,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,4-4,0,2003,HepatitisE
-Pathum Thani,4-4,0,2003,HepatitisE
-Zone:5,4-4,0,2003,HepatitisE
-Chai Nat,4-4,0,2003,HepatitisE
-Lop Buri,4-4,0,2003,HepatitisE
-Saraburi,4-4,0,2003,HepatitisE
-Sing Buri,4-4,0,2003,HepatitisE
-Zone:6,4-4,0,2003,HepatitisE
-Kanchanaburi,4-4,0,2003,HepatitisE
-Nakhon Pathom,4-4,0,2003,HepatitisE
-Ratchaburi,4-4,0,2003,HepatitisE
-Suphan Buri,4-4,0,2003,HepatitisE
-Zone:7,4-4,0,2003,HepatitisE
-Phetchaburi,4-4,0,2003,HepatitisE
-Prachuap Khiri Khan,4-4,0,2003,HepatitisE
-Samut Sakhon,4-4,0,2003,HepatitisE
-Samut Songkhram,4-4,0,2003,HepatitisE
-Zone:8,4-4,0,2003,HepatitisE
-Chachoengsao,4-4,0,2003,HepatitisE
-Nakhon Nayok,4-4,0,2003,HepatitisE
-Prachin Buri,4-4,0,2003,HepatitisE
-Sa Kaeo,4-4,0,2003,HepatitisE
-Samut Prakan,4-4,0,2003,HepatitisE
-Zone:9,4-4,0,2003,HepatitisE
-Chanthaburi,4-4,0,2003,HepatitisE
-Chon Buri,4-4,0,2003,HepatitisE
-Rayong,4-4,0,2003,HepatitisE
-Trat,4-4,0,2003,HepatitisE
-North-Eastern Region,4-4,0,2003,HepatitisE
-Zone:10,4-4,0,2003,HepatitisE
-Loei,4-4,0,2003,HepatitisE
-Nong Bua Lam Phu,4-4,0,2003,HepatitisE
-Nong Khai,4-4,0,2003,HepatitisE
-Udon Thani,4-4,0,2003,HepatitisE
-Zone:11,4-4,0,2003,HepatitisE
-Kalasin,4-4,0,2003,HepatitisE
-Mukdahan,4-4,0,2003,HepatitisE
-Nakhon Phanom,4-4,0,2003,HepatitisE
-Sakon Nakhon,4-4,0,2003,HepatitisE
-Zone:12,4-4,0,2003,HepatitisE
-Khon Kaen,4-4,0,2003,HepatitisE
-Maha Sarakham,4-4,0,2003,HepatitisE
-Roi Et,4-4,0,2003,HepatitisE
-Zone:13,4-4,0,2003,HepatitisE
-Buri Ram,4-4,0,2003,HepatitisE
-Chaiyaphum,4-4,0,2003,HepatitisE
-Nakhon Ratchasima,4-4,0,2003,HepatitisE
-Surin,4-4,0,2003,HepatitisE
-Zone:14,4-4,0,2003,HepatitisE
-Amnat Charoen,4-4,0,2003,HepatitisE
-Si Sa Ket,4-4,0,2003,HepatitisE
-Ubon Ratchathani,4-4,0,2003,HepatitisE
-Yasothon,4-4,0,2003,HepatitisE
-South Region,4-4,0,2003,HepatitisE
-Zone:15,4-4,0,2003,HepatitisE
-Chumphon,4-4,0,2003,HepatitisE
-Ranong,4-4,0,2003,HepatitisE
-Surat Thani,4-4,0,2003,HepatitisE
-Zone:16,4-4,0,2003,HepatitisE
-Nakhon Si Thammarat,4-4,0,2003,HepatitisE
-Phatthalung,4-4,0,2003,HepatitisE
-Trang,4-4,0,2003,HepatitisE
-Zone:17,4-4,0,2003,HepatitisE
-Krabi,4-4,0,2003,HepatitisE
-Phangnga,4-4,0,2003,HepatitisE
-Phuket,4-4,0,2003,HepatitisE
-Zone:18,4-4,0,2003,HepatitisE
-Narathiwat,4-4,0,2003,HepatitisE
-Pattani,4-4,0,2003,HepatitisE
-Yala,4-4,0,2003,HepatitisE
-Zone:19,4-4,0,2003,HepatitisE
-Satun,4-4,0,2003,HepatitisE
-Songkhla,4-4,0,2003,HepatitisE
-Total,5-5,0,2003,HepatitisE
-North Region,5-5,0,2003,HepatitisE
-Zone:1,5-5,0,2003,HepatitisE
-Chiang Mai,5-5,0,2003,HepatitisE
-Chiang Rai,5-5,0,2003,HepatitisE
-Lampang,5-5,0,2003,HepatitisE
-Lamphun,5-5,0,2003,HepatitisE
-Mae Hong Son,5-5,0,2003,HepatitisE
-Nan,5-5,0,2003,HepatitisE
-Phayao,5-5,0,2003,HepatitisE
-Phrae,5-5,0,2003,HepatitisE
-Zone:2,5-5,0,2003,HepatitisE
-Phetchabun,5-5,0,2003,HepatitisE
-Phitsanulok,5-5,0,2003,HepatitisE
-Sukhothai,5-5,0,2003,HepatitisE
-Tak,5-5,0,2003,HepatitisE
-Uttaradit,5-5,0,2003,HepatitisE
-Zone:3,5-5,0,2003,HepatitisE
-Kamphaeng Phet,5-5,0,2003,HepatitisE
-Nakhon Sawan,5-5,0,2003,HepatitisE
-Phichit,5-5,0,2003,HepatitisE
-Uthai Thani,5-5,0,2003,HepatitisE
-Central Region,5-5,0,2003,HepatitisE
-Bangkok,5-5,0,2003,HepatitisE
-Zone:4,5-5,0,2003,HepatitisE
-Ang Thong,5-5,0,2003,HepatitisE
-Nonthaburi,5-5,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,5-5,0,2003,HepatitisE
-Pathum Thani,5-5,0,2003,HepatitisE
-Zone:5,5-5,0,2003,HepatitisE
-Chai Nat,5-5,0,2003,HepatitisE
-Lop Buri,5-5,0,2003,HepatitisE
-Saraburi,5-5,0,2003,HepatitisE
-Sing Buri,5-5,0,2003,HepatitisE
-Zone:6,5-5,0,2003,HepatitisE
-Kanchanaburi,5-5,0,2003,HepatitisE
-Nakhon Pathom,5-5,0,2003,HepatitisE
-Ratchaburi,5-5,0,2003,HepatitisE
-Suphan Buri,5-5,0,2003,HepatitisE
-Zone:7,5-5,0,2003,HepatitisE
-Phetchaburi,5-5,0,2003,HepatitisE
-Prachuap Khiri Khan,5-5,0,2003,HepatitisE
-Samut Sakhon,5-5,0,2003,HepatitisE
-Samut Songkhram,5-5,0,2003,HepatitisE
-Zone:8,5-5,0,2003,HepatitisE
-Chachoengsao,5-5,0,2003,HepatitisE
-Nakhon Nayok,5-5,0,2003,HepatitisE
-Prachin Buri,5-5,0,2003,HepatitisE
-Sa Kaeo,5-5,0,2003,HepatitisE
-Samut Prakan,5-5,0,2003,HepatitisE
-Zone:9,5-5,0,2003,HepatitisE
-Chanthaburi,5-5,0,2003,HepatitisE
-Chon Buri,5-5,0,2003,HepatitisE
-Rayong,5-5,0,2003,HepatitisE
-Trat,5-5,0,2003,HepatitisE
-North-Eastern Region,5-5,0,2003,HepatitisE
-Zone:10,5-5,0,2003,HepatitisE
-Loei,5-5,0,2003,HepatitisE
-Nong Bua Lam Phu,5-5,0,2003,HepatitisE
-Nong Khai,5-5,0,2003,HepatitisE
-Udon Thani,5-5,0,2003,HepatitisE
-Zone:11,5-5,0,2003,HepatitisE
-Kalasin,5-5,0,2003,HepatitisE
-Mukdahan,5-5,0,2003,HepatitisE
-Nakhon Phanom,5-5,0,2003,HepatitisE
-Sakon Nakhon,5-5,0,2003,HepatitisE
-Zone:12,5-5,0,2003,HepatitisE
-Khon Kaen,5-5,0,2003,HepatitisE
-Maha Sarakham,5-5,0,2003,HepatitisE
-Roi Et,5-5,0,2003,HepatitisE
-Zone:13,5-5,0,2003,HepatitisE
-Buri Ram,5-5,0,2003,HepatitisE
-Chaiyaphum,5-5,0,2003,HepatitisE
-Nakhon Ratchasima,5-5,0,2003,HepatitisE
-Surin,5-5,0,2003,HepatitisE
-Zone:14,5-5,0,2003,HepatitisE
-Amnat Charoen,5-5,0,2003,HepatitisE
-Si Sa Ket,5-5,0,2003,HepatitisE
-Ubon Ratchathani,5-5,0,2003,HepatitisE
-Yasothon,5-5,0,2003,HepatitisE
-South Region,5-5,0,2003,HepatitisE
-Zone:15,5-5,0,2003,HepatitisE
-Chumphon,5-5,0,2003,HepatitisE
-Ranong,5-5,0,2003,HepatitisE
-Surat Thani,5-5,0,2003,HepatitisE
-Zone:16,5-5,0,2003,HepatitisE
-Nakhon Si Thammarat,5-5,0,2003,HepatitisE
-Phatthalung,5-5,0,2003,HepatitisE
-Trang,5-5,0,2003,HepatitisE
-Zone:17,5-5,0,2003,HepatitisE
-Krabi,5-5,0,2003,HepatitisE
-Phangnga,5-5,0,2003,HepatitisE
-Phuket,5-5,0,2003,HepatitisE
-Zone:18,5-5,0,2003,HepatitisE
-Narathiwat,5-5,0,2003,HepatitisE
-Pattani,5-5,0,2003,HepatitisE
-Yala,5-5,0,2003,HepatitisE
-Zone:19,5-5,0,2003,HepatitisE
-Satun,5-5,0,2003,HepatitisE
-Songkhla,5-5,0,2003,HepatitisE
-Total,6-78,0,2003,HepatitisE
-North Region,6-78,0,2003,HepatitisE
-Zone:1,6-78,0,2003,HepatitisE
-Chiang Mai,6-78,0,2003,HepatitisE
-Chiang Rai,6-78,0,2003,HepatitisE
-Lampang,6-78,0,2003,HepatitisE
-Lamphun,6-78,0,2003,HepatitisE
-Mae Hong Son,6-78,0,2003,HepatitisE
-Nan,6-78,0,2003,HepatitisE
-Phayao,6-78,0,2003,HepatitisE
-Phrae,6-78,0,2003,HepatitisE
-Zone:2,6-78,0,2003,HepatitisE
-Phetchabun,6-78,0,2003,HepatitisE
-Phitsanulok,6-78,0,2003,HepatitisE
-Sukhothai,6-78,0,2003,HepatitisE
-Tak,6-78,0,2003,HepatitisE
-Uttaradit,6-78,0,2003,HepatitisE
-Zone:3,6-78,0,2003,HepatitisE
-Kamphaeng Phet,6-78,0,2003,HepatitisE
-Nakhon Sawan,6-78,0,2003,HepatitisE
-Phichit,6-78,0,2003,HepatitisE
-Uthai Thani,6-78,0,2003,HepatitisE
-Central Region,6-78,0,2003,HepatitisE
-Bangkok,6-78,0,2003,HepatitisE
-Zone:4,6-78,0,2003,HepatitisE
-Ang Thong,6-78,0,2003,HepatitisE
-Nonthaburi,6-78,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,6-78,0,2003,HepatitisE
-Pathum Thani,6-78,0,2003,HepatitisE
-Zone:5,6-78,0,2003,HepatitisE
-Chai Nat,6-78,0,2003,HepatitisE
-Lop Buri,6-78,0,2003,HepatitisE
-Saraburi,6-78,0,2003,HepatitisE
-Sing Buri,6-78,0,2003,HepatitisE
-Zone:6,6-78,0,2003,HepatitisE
-Kanchanaburi,6-78,0,2003,HepatitisE
-Nakhon Pathom,6-78,0,2003,HepatitisE
-Ratchaburi,6-78,0,2003,HepatitisE
-Suphan Buri,6-78,0,2003,HepatitisE
-Zone:7,6-78,0,2003,HepatitisE
-Phetchaburi,6-78,0,2003,HepatitisE
-Prachuap Khiri Khan,6-78,0,2003,HepatitisE
-Samut Sakhon,6-78,0,2003,HepatitisE
-Samut Songkhram,6-78,0,2003,HepatitisE
-Zone:8,6-78,0,2003,HepatitisE
-Chachoengsao,6-78,0,2003,HepatitisE
-Nakhon Nayok,6-78,0,2003,HepatitisE
-Prachin Buri,6-78,0,2003,HepatitisE
-Sa Kaeo,6-78,0,2003,HepatitisE
-Samut Prakan,6-78,0,2003,HepatitisE
-Zone:9,6-78,0,2003,HepatitisE
-Chanthaburi,6-78,0,2003,HepatitisE
-Chon Buri,6-78,0,2003,HepatitisE
-Rayong,6-78,0,2003,HepatitisE
-Trat,6-78,0,2003,HepatitisE
-North-Eastern Region,6-78,0,2003,HepatitisE
-Zone:10,6-78,0,2003,HepatitisE
-Loei,6-78,0,2003,HepatitisE
-Nong Bua Lam Phu,6-78,0,2003,HepatitisE
-Nong Khai,6-78,0,2003,HepatitisE
-Udon Thani,6-78,0,2003,HepatitisE
-Zone:11,6-78,0,2003,HepatitisE
-Kalasin,6-78,0,2003,HepatitisE
-Mukdahan,6-78,0,2003,HepatitisE
-Nakhon Phanom,6-78,0,2003,HepatitisE
-Sakon Nakhon,6-78,0,2003,HepatitisE
-Zone:12,6-78,0,2003,HepatitisE
-Khon Kaen,6-78,0,2003,HepatitisE
-Maha Sarakham,6-78,0,2003,HepatitisE
-Roi Et,6-78,0,2003,HepatitisE
-Zone:13,6-78,0,2003,HepatitisE
-Buri Ram,6-78,0,2003,HepatitisE
-Chaiyaphum,6-78,0,2003,HepatitisE
-Nakhon Ratchasima,6-78,0,2003,HepatitisE
-Surin,6-78,0,2003,HepatitisE
-Zone:14,6-78,0,2003,HepatitisE
-Amnat Charoen,6-78,0,2003,HepatitisE
-Si Sa Ket,6-78,0,2003,HepatitisE
-Ubon Ratchathani,6-78,0,2003,HepatitisE
-Yasothon,6-78,0,2003,HepatitisE
-South Region,6-78,0,2003,HepatitisE
-Zone:15,6-78,0,2003,HepatitisE
-Chumphon,6-78,0,2003,HepatitisE
-Ranong,6-78,0,2003,HepatitisE
-Surat Thani,6-78,0,2003,HepatitisE
-Zone:16,6-78,0,2003,HepatitisE
-Nakhon Si Thammarat,6-78,0,2003,HepatitisE
-Phatthalung,6-78,0,2003,HepatitisE
-Trang,6-78,0,2003,HepatitisE
-Zone:17,6-78,0,2003,HepatitisE
-Krabi,6-78,0,2003,HepatitisE
-Phangnga,6-78,0,2003,HepatitisE
-Phuket,6-78,0,2003,HepatitisE
-Zone:18,6-78,0,2003,HepatitisE
-Narathiwat,6-78,0,2003,HepatitisE
-Pattani,6-78,0,2003,HepatitisE
-Yala,6-78,0,2003,HepatitisE
-Zone:19,6-78,0,2003,HepatitisE
-Satun,6-78,0,2003,HepatitisE
-Songkhla,6-78,0,2003,HepatitisE
-Total,7-9,0,2003,HepatitisE
-North Region,7-9,0,2003,HepatitisE
-Zone:1,7-9,0,2003,HepatitisE
-Chiang Mai,7-9,0,2003,HepatitisE
-Chiang Rai,7-9,0,2003,HepatitisE
-Lampang,7-9,0,2003,HepatitisE
-Lamphun,7-9,0,2003,HepatitisE
-Mae Hong Son,7-9,0,2003,HepatitisE
-Nan,7-9,0,2003,HepatitisE
-Phayao,7-9,0,2003,HepatitisE
-Phrae,7-9,0,2003,HepatitisE
-Zone:2,7-9,0,2003,HepatitisE
-Phetchabun,7-9,0,2003,HepatitisE
-Phitsanulok,7-9,0,2003,HepatitisE
-Sukhothai,7-9,0,2003,HepatitisE
-Tak,7-9,0,2003,HepatitisE
-Uttaradit,7-9,0,2003,HepatitisE
-Zone:3,7-9,0,2003,HepatitisE
-Kamphaeng Phet,7-9,0,2003,HepatitisE
-Nakhon Sawan,7-9,0,2003,HepatitisE
-Phichit,7-9,0,2003,HepatitisE
-Uthai Thani,7-9,0,2003,HepatitisE
-Central Region,7-9,0,2003,HepatitisE
-Bangkok,7-9,0,2003,HepatitisE
-Zone:4,7-9,0,2003,HepatitisE
-Ang Thong,7-9,0,2003,HepatitisE
-Nonthaburi,7-9,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,7-9,0,2003,HepatitisE
-Pathum Thani,7-9,0,2003,HepatitisE
-Zone:5,7-9,0,2003,HepatitisE
-Chai Nat,7-9,0,2003,HepatitisE
-Lop Buri,7-9,0,2003,HepatitisE
-Saraburi,7-9,0,2003,HepatitisE
-Sing Buri,7-9,0,2003,HepatitisE
-Zone:6,7-9,0,2003,HepatitisE
-Kanchanaburi,7-9,0,2003,HepatitisE
-Nakhon Pathom,7-9,0,2003,HepatitisE
-Ratchaburi,7-9,0,2003,HepatitisE
-Suphan Buri,7-9,0,2003,HepatitisE
-Zone:7,7-9,0,2003,HepatitisE
-Phetchaburi,7-9,0,2003,HepatitisE
-Prachuap Khiri Khan,7-9,0,2003,HepatitisE
-Samut Sakhon,7-9,0,2003,HepatitisE
-Samut Songkhram,7-9,0,2003,HepatitisE
-Zone:8,7-9,0,2003,HepatitisE
-Chachoengsao,7-9,0,2003,HepatitisE
-Nakhon Nayok,7-9,0,2003,HepatitisE
-Prachin Buri,7-9,0,2003,HepatitisE
-Sa Kaeo,7-9,0,2003,HepatitisE
-Samut Prakan,7-9,0,2003,HepatitisE
-Zone:9,7-9,0,2003,HepatitisE
-Chanthaburi,7-9,0,2003,HepatitisE
-Chon Buri,7-9,0,2003,HepatitisE
-Rayong,7-9,0,2003,HepatitisE
-Trat,7-9,0,2003,HepatitisE
-North-Eastern Region,7-9,0,2003,HepatitisE
-Zone:10,7-9,0,2003,HepatitisE
-Loei,7-9,0,2003,HepatitisE
-Nong Bua Lam Phu,7-9,0,2003,HepatitisE
-Nong Khai,7-9,0,2003,HepatitisE
-Udon Thani,7-9,0,2003,HepatitisE
-Zone:11,7-9,0,2003,HepatitisE
-Kalasin,7-9,0,2003,HepatitisE
-Mukdahan,7-9,0,2003,HepatitisE
-Nakhon Phanom,7-9,0,2003,HepatitisE
-Sakon Nakhon,7-9,0,2003,HepatitisE
-Zone:12,7-9,0,2003,HepatitisE
-Khon Kaen,7-9,0,2003,HepatitisE
-Maha Sarakham,7-9,0,2003,HepatitisE
-Roi Et,7-9,0,2003,HepatitisE
-Zone:13,7-9,0,2003,HepatitisE
-Buri Ram,7-9,0,2003,HepatitisE
-Chaiyaphum,7-9,0,2003,HepatitisE
-Nakhon Ratchasima,7-9,0,2003,HepatitisE
-Surin,7-9,0,2003,HepatitisE
-Zone:14,7-9,0,2003,HepatitisE
-Amnat Charoen,7-9,0,2003,HepatitisE
-Si Sa Ket,7-9,0,2003,HepatitisE
-Ubon Ratchathani,7-9,0,2003,HepatitisE
-Yasothon,7-9,0,2003,HepatitisE
-South Region,7-9,0,2003,HepatitisE
-Zone:15,7-9,0,2003,HepatitisE
-Chumphon,7-9,0,2003,HepatitisE
-Ranong,7-9,0,2003,HepatitisE
-Surat Thani,7-9,0,2003,HepatitisE
-Zone:16,7-9,0,2003,HepatitisE
-Nakhon Si Thammarat,7-9,0,2003,HepatitisE
-Phatthalung,7-9,0,2003,HepatitisE
-Trang,7-9,0,2003,HepatitisE
-Zone:17,7-9,0,2003,HepatitisE
-Krabi,7-9,0,2003,HepatitisE
-Phangnga,7-9,0,2003,HepatitisE
-Phuket,7-9,0,2003,HepatitisE
-Zone:18,7-9,0,2003,HepatitisE
-Narathiwat,7-9,0,2003,HepatitisE
-Pattani,7-9,0,2003,HepatitisE
-Yala,7-9,0,2003,HepatitisE
-Zone:19,7-9,0,2003,HepatitisE
-Satun,7-9,0,2003,HepatitisE
-Songkhla,7-9,0,2003,HepatitisE
-Total,10-14,2,2003,HepatitisE
-North Region,10-14,2,2003,HepatitisE
-Zone:1,10-14,1,2003,HepatitisE
-Chiang Mai,10-14,0,2003,HepatitisE
-Chiang Rai,10-14,0,2003,HepatitisE
-Lampang,10-14,0,2003,HepatitisE
-Lamphun,10-14,0,2003,HepatitisE
-Mae Hong Son,10-14,0,2003,HepatitisE
-Nan,10-14,1,2003,HepatitisE
-Phayao,10-14,0,2003,HepatitisE
-Phrae,10-14,0,2003,HepatitisE
-Zone:2,10-14,0,2003,HepatitisE
-Phetchabun,10-14,0,2003,HepatitisE
-Phitsanulok,10-14,0,2003,HepatitisE
-Sukhothai,10-14,0,2003,HepatitisE
-Tak,10-14,0,2003,HepatitisE
-Uttaradit,10-14,0,2003,HepatitisE
-Zone:3,10-14,1,2003,HepatitisE
-Kamphaeng Phet,10-14,1,2003,HepatitisE
-Nakhon Sawan,10-14,0,2003,HepatitisE
-Phichit,10-14,0,2003,HepatitisE
-Uthai Thani,10-14,0,2003,HepatitisE
-Central Region,10-14,0,2003,HepatitisE
-Bangkok,10-14,0,2003,HepatitisE
-Zone:4,10-14,0,2003,HepatitisE
-Ang Thong,10-14,0,2003,HepatitisE
-Nonthaburi,10-14,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,10-14,0,2003,HepatitisE
-Pathum Thani,10-14,0,2003,HepatitisE
-Zone:5,10-14,0,2003,HepatitisE
-Chai Nat,10-14,0,2003,HepatitisE
-Lop Buri,10-14,0,2003,HepatitisE
-Saraburi,10-14,0,2003,HepatitisE
-Sing Buri,10-14,0,2003,HepatitisE
-Zone:6,10-14,0,2003,HepatitisE
-Kanchanaburi,10-14,0,2003,HepatitisE
-Nakhon Pathom,10-14,0,2003,HepatitisE
-Ratchaburi,10-14,0,2003,HepatitisE
-Suphan Buri,10-14,0,2003,HepatitisE
-Zone:7,10-14,0,2003,HepatitisE
-Phetchaburi,10-14,0,2003,HepatitisE
-Prachuap Khiri Khan,10-14,0,2003,HepatitisE
-Samut Sakhon,10-14,0,2003,HepatitisE
-Samut Songkhram,10-14,0,2003,HepatitisE
-Zone:8,10-14,0,2003,HepatitisE
-Chachoengsao,10-14,0,2003,HepatitisE
-Nakhon Nayok,10-14,0,2003,HepatitisE
-Prachin Buri,10-14,0,2003,HepatitisE
-Sa Kaeo,10-14,0,2003,HepatitisE
-Samut Prakan,10-14,0,2003,HepatitisE
-Zone:9,10-14,0,2003,HepatitisE
-Chanthaburi,10-14,0,2003,HepatitisE
-Chon Buri,10-14,0,2003,HepatitisE
-Rayong,10-14,0,2003,HepatitisE
-Trat,10-14,0,2003,HepatitisE
-North-Eastern Region,10-14,0,2003,HepatitisE
-Zone:10,10-14,0,2003,HepatitisE
-Loei,10-14,0,2003,HepatitisE
-Nong Bua Lam Phu,10-14,0,2003,HepatitisE
-Nong Khai,10-14,0,2003,HepatitisE
-Udon Thani,10-14,0,2003,HepatitisE
-Zone:11,10-14,0,2003,HepatitisE
-Kalasin,10-14,0,2003,HepatitisE
-Mukdahan,10-14,0,2003,HepatitisE
-Nakhon Phanom,10-14,0,2003,HepatitisE
-Sakon Nakhon,10-14,0,2003,HepatitisE
-Zone:12,10-14,0,2003,HepatitisE
-Khon Kaen,10-14,0,2003,HepatitisE
-Maha Sarakham,10-14,0,2003,HepatitisE
-Roi Et,10-14,0,2003,HepatitisE
-Zone:13,10-14,0,2003,HepatitisE
-Buri Ram,10-14,0,2003,HepatitisE
-Chaiyaphum,10-14,0,2003,HepatitisE
-Nakhon Ratchasima,10-14,0,2003,HepatitisE
-Surin,10-14,0,2003,HepatitisE
-Zone:14,10-14,0,2003,HepatitisE
-Amnat Charoen,10-14,0,2003,HepatitisE
-Si Sa Ket,10-14,0,2003,HepatitisE
-Ubon Ratchathani,10-14,0,2003,HepatitisE
-Yasothon,10-14,0,2003,HepatitisE
-South Region,10-14,0,2003,HepatitisE
-Zone:15,10-14,0,2003,HepatitisE
-Chumphon,10-14,0,2003,HepatitisE
-Ranong,10-14,0,2003,HepatitisE
-Surat Thani,10-14,0,2003,HepatitisE
-Zone:16,10-14,0,2003,HepatitisE
-Nakhon Si Thammarat,10-14,0,2003,HepatitisE
-Phatthalung,10-14,0,2003,HepatitisE
-Trang,10-14,0,2003,HepatitisE
-Zone:17,10-14,0,2003,HepatitisE
-Krabi,10-14,0,2003,HepatitisE
-Phangnga,10-14,0,2003,HepatitisE
-Phuket,10-14,0,2003,HepatitisE
-Zone:18,10-14,0,2003,HepatitisE
-Narathiwat,10-14,0,2003,HepatitisE
-Pattani,10-14,0,2003,HepatitisE
-Yala,10-14,0,2003,HepatitisE
-Zone:19,10-14,0,2003,HepatitisE
-Satun,10-14,0,2003,HepatitisE
-Songkhla,10-14,0,2003,HepatitisE
-Total,15-24,2,2003,HepatitisE
-North Region,15-24,1,2003,HepatitisE
-Zone:1,15-24,0,2003,HepatitisE
-Chiang Mai,15-24,0,2003,HepatitisE
-Chiang Rai,15-24,0,2003,HepatitisE
-Lampang,15-24,0,2003,HepatitisE
-Lamphun,15-24,0,2003,HepatitisE
-Mae Hong Son,15-24,0,2003,HepatitisE
-Nan,15-24,0,2003,HepatitisE
-Phayao,15-24,0,2003,HepatitisE
-Phrae,15-24,0,2003,HepatitisE
-Zone:2,15-24,1,2003,HepatitisE
-Phetchabun,15-24,1,2003,HepatitisE
-Phitsanulok,15-24,0,2003,HepatitisE
-Sukhothai,15-24,0,2003,HepatitisE
-Tak,15-24,0,2003,HepatitisE
-Uttaradit,15-24,0,2003,HepatitisE
-Zone:3,15-24,0,2003,HepatitisE
-Kamphaeng Phet,15-24,0,2003,HepatitisE
-Nakhon Sawan,15-24,0,2003,HepatitisE
-Phichit,15-24,0,2003,HepatitisE
-Uthai Thani,15-24,0,2003,HepatitisE
-Central Region,15-24,1,2003,HepatitisE
-Bangkok,15-24,0,2003,HepatitisE
-Zone:4,15-24,0,2003,HepatitisE
-Ang Thong,15-24,0,2003,HepatitisE
-Nonthaburi,15-24,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,15-24,0,2003,HepatitisE
-Pathum Thani,15-24,0,2003,HepatitisE
-Zone:5,15-24,0,2003,HepatitisE
-Chai Nat,15-24,0,2003,HepatitisE
-Lop Buri,15-24,0,2003,HepatitisE
-Saraburi,15-24,0,2003,HepatitisE
-Sing Buri,15-24,0,2003,HepatitisE
-Zone:6,15-24,0,2003,HepatitisE
-Kanchanaburi,15-24,0,2003,HepatitisE
-Nakhon Pathom,15-24,0,2003,HepatitisE
-Ratchaburi,15-24,0,2003,HepatitisE
-Suphan Buri,15-24,0,2003,HepatitisE
-Zone:7,15-24,0,2003,HepatitisE
-Phetchaburi,15-24,0,2003,HepatitisE
-Prachuap Khiri Khan,15-24,0,2003,HepatitisE
-Samut Sakhon,15-24,0,2003,HepatitisE
-Samut Songkhram,15-24,0,2003,HepatitisE
-Zone:8,15-24,0,2003,HepatitisE
-Chachoengsao,15-24,0,2003,HepatitisE
-Nakhon Nayok,15-24,0,2003,HepatitisE
-Prachin Buri,15-24,0,2003,HepatitisE
-Sa Kaeo,15-24,0,2003,HepatitisE
-Samut Prakan,15-24,0,2003,HepatitisE
-Zone:9,15-24,1,2003,HepatitisE
-Chanthaburi,15-24,0,2003,HepatitisE
-Chon Buri,15-24,0,2003,HepatitisE
-Rayong,15-24,0,2003,HepatitisE
-Trat,15-24,1,2003,HepatitisE
-North-Eastern Region,15-24,0,2003,HepatitisE
-Zone:10,15-24,0,2003,HepatitisE
-Loei,15-24,0,2003,HepatitisE
-Nong Bua Lam Phu,15-24,0,2003,HepatitisE
-Nong Khai,15-24,0,2003,HepatitisE
-Udon Thani,15-24,0,2003,HepatitisE
-Zone:11,15-24,0,2003,HepatitisE
-Kalasin,15-24,0,2003,HepatitisE
-Mukdahan,15-24,0,2003,HepatitisE
-Nakhon Phanom,15-24,0,2003,HepatitisE
-Sakon Nakhon,15-24,0,2003,HepatitisE
-Zone:12,15-24,0,2003,HepatitisE
-Khon Kaen,15-24,0,2003,HepatitisE
-Maha Sarakham,15-24,0,2003,HepatitisE
-Roi Et,15-24,0,2003,HepatitisE
-Zone:13,15-24,0,2003,HepatitisE
-Buri Ram,15-24,0,2003,HepatitisE
-Chaiyaphum,15-24,0,2003,HepatitisE
-Nakhon Ratchasima,15-24,0,2003,HepatitisE
-Surin,15-24,0,2003,HepatitisE
-Zone:14,15-24,0,2003,HepatitisE
-Amnat Charoen,15-24,0,2003,HepatitisE
-Si Sa Ket,15-24,0,2003,HepatitisE
-Ubon Ratchathani,15-24,0,2003,HepatitisE
-Yasothon,15-24,0,2003,HepatitisE
-South Region,15-24,0,2003,HepatitisE
-Zone:15,15-24,0,2003,HepatitisE
-Chumphon,15-24,0,2003,HepatitisE
-Ranong,15-24,0,2003,HepatitisE
-Surat Thani,15-24,0,2003,HepatitisE
-Zone:16,15-24,0,2003,HepatitisE
-Nakhon Si Thammarat,15-24,0,2003,HepatitisE
-Phatthalung,15-24,0,2003,HepatitisE
-Trang,15-24,0,2003,HepatitisE
-Zone:17,15-24,0,2003,HepatitisE
-Krabi,15-24,0,2003,HepatitisE
-Phangnga,15-24,0,2003,HepatitisE
-Phuket,15-24,0,2003,HepatitisE
-Zone:18,15-24,0,2003,HepatitisE
-Narathiwat,15-24,0,2003,HepatitisE
-Pattani,15-24,0,2003,HepatitisE
-Yala,15-24,0,2003,HepatitisE
-Zone:19,15-24,0,2003,HepatitisE
-Satun,15-24,0,2003,HepatitisE
-Songkhla,15-24,0,2003,HepatitisE
-Total,25-34,2,2003,HepatitisE
-North Region,25-34,2,2003,HepatitisE
-Zone:1,25-34,0,2003,HepatitisE
-Chiang Mai,25-34,0,2003,HepatitisE
-Chiang Rai,25-34,0,2003,HepatitisE
-Lampang,25-34,0,2003,HepatitisE
-Lamphun,25-34,0,2003,HepatitisE
-Mae Hong Son,25-34,0,2003,HepatitisE
-Nan,25-34,0,2003,HepatitisE
-Phayao,25-34,0,2003,HepatitisE
-Phrae,25-34,0,2003,HepatitisE
-Zone:2,25-34,1,2003,HepatitisE
-Phetchabun,25-34,0,2003,HepatitisE
-Phitsanulok,25-34,0,2003,HepatitisE
-Sukhothai,25-34,0,2003,HepatitisE
-Tak,25-34,1,2003,HepatitisE
-Uttaradit,25-34,0,2003,HepatitisE
-Zone:3,25-34,1,2003,HepatitisE
-Kamphaeng Phet,25-34,1,2003,HepatitisE
-Nakhon Sawan,25-34,0,2003,HepatitisE
-Phichit,25-34,0,2003,HepatitisE
-Uthai Thani,25-34,0,2003,HepatitisE
-Central Region,25-34,0,2003,HepatitisE
-Bangkok,25-34,0,2003,HepatitisE
-Zone:4,25-34,0,2003,HepatitisE
-Ang Thong,25-34,0,2003,HepatitisE
-Nonthaburi,25-34,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,25-34,0,2003,HepatitisE
-Pathum Thani,25-34,0,2003,HepatitisE
-Zone:5,25-34,0,2003,HepatitisE
-Chai Nat,25-34,0,2003,HepatitisE
-Lop Buri,25-34,0,2003,HepatitisE
-Saraburi,25-34,0,2003,HepatitisE
-Sing Buri,25-34,0,2003,HepatitisE
-Zone:6,25-34,0,2003,HepatitisE
-Kanchanaburi,25-34,0,2003,HepatitisE
-Nakhon Pathom,25-34,0,2003,HepatitisE
-Ratchaburi,25-34,0,2003,HepatitisE
-Suphan Buri,25-34,0,2003,HepatitisE
-Zone:7,25-34,0,2003,HepatitisE
-Phetchaburi,25-34,0,2003,HepatitisE
-Prachuap Khiri Khan,25-34,0,2003,HepatitisE
-Samut Sakhon,25-34,0,2003,HepatitisE
-Samut Songkhram,25-34,0,2003,HepatitisE
-Zone:8,25-34,0,2003,HepatitisE
-Chachoengsao,25-34,0,2003,HepatitisE
-Nakhon Nayok,25-34,0,2003,HepatitisE
-Prachin Buri,25-34,0,2003,HepatitisE
-Sa Kaeo,25-34,0,2003,HepatitisE
-Samut Prakan,25-34,0,2003,HepatitisE
-Zone:9,25-34,0,2003,HepatitisE
-Chanthaburi,25-34,0,2003,HepatitisE
-Chon Buri,25-34,0,2003,HepatitisE
-Rayong,25-34,0,2003,HepatitisE
-Trat,25-34,0,2003,HepatitisE
-North-Eastern Region,25-34,0,2003,HepatitisE
-Zone:10,25-34,0,2003,HepatitisE
-Loei,25-34,0,2003,HepatitisE
-Nong Bua Lam Phu,25-34,0,2003,HepatitisE
-Nong Khai,25-34,0,2003,HepatitisE
-Udon Thani,25-34,0,2003,HepatitisE
-Zone:11,25-34,0,2003,HepatitisE
-Kalasin,25-34,0,2003,HepatitisE
-Mukdahan,25-34,0,2003,HepatitisE
-Nakhon Phanom,25-34,0,2003,HepatitisE
-Sakon Nakhon,25-34,0,2003,HepatitisE
-Zone:12,25-34,0,2003,HepatitisE
-Khon Kaen,25-34,0,2003,HepatitisE
-Maha Sarakham,25-34,0,2003,HepatitisE
-Roi Et,25-34,0,2003,HepatitisE
-Zone:13,25-34,0,2003,HepatitisE
-Buri Ram,25-34,0,2003,HepatitisE
-Chaiyaphum,25-34,0,2003,HepatitisE
-Nakhon Ratchasima,25-34,0,2003,HepatitisE
-Surin,25-34,0,2003,HepatitisE
-Zone:14,25-34,0,2003,HepatitisE
-Amnat Charoen,25-34,0,2003,HepatitisE
-Si Sa Ket,25-34,0,2003,HepatitisE
-Ubon Ratchathani,25-34,0,2003,HepatitisE
-Yasothon,25-34,0,2003,HepatitisE
-South Region,25-34,0,2003,HepatitisE
-Zone:15,25-34,0,2003,HepatitisE
-Chumphon,25-34,0,2003,HepatitisE
-Ranong,25-34,0,2003,HepatitisE
-Surat Thani,25-34,0,2003,HepatitisE
-Zone:16,25-34,0,2003,HepatitisE
-Nakhon Si Thammarat,25-34,0,2003,HepatitisE
-Phatthalung,25-34,0,2003,HepatitisE
-Trang,25-34,0,2003,HepatitisE
-Zone:17,25-34,0,2003,HepatitisE
-Krabi,25-34,0,2003,HepatitisE
-Phangnga,25-34,0,2003,HepatitisE
-Phuket,25-34,0,2003,HepatitisE
-Zone:18,25-34,0,2003,HepatitisE
-Narathiwat,25-34,0,2003,HepatitisE
-Pattani,25-34,0,2003,HepatitisE
-Yala,25-34,0,2003,HepatitisE
-Zone:19,25-34,0,2003,HepatitisE
-Satun,25-34,0,2003,HepatitisE
-Songkhla,25-34,0,2003,HepatitisE
-Total,35-44,2,2003,HepatitisE
-North Region,35-44,1,2003,HepatitisE
-Zone:1,35-44,1,2003,HepatitisE
-Chiang Mai,35-44,0,2003,HepatitisE
-Chiang Rai,35-44,0,2003,HepatitisE
-Lampang,35-44,0,2003,HepatitisE
-Lamphun,35-44,0,2003,HepatitisE
-Mae Hong Son,35-44,0,2003,HepatitisE
-Nan,35-44,1,2003,HepatitisE
-Phayao,35-44,0,2003,HepatitisE
-Phrae,35-44,0,2003,HepatitisE
-Zone:2,35-44,0,2003,HepatitisE
-Phetchabun,35-44,0,2003,HepatitisE
-Phitsanulok,35-44,0,2003,HepatitisE
-Sukhothai,35-44,0,2003,HepatitisE
-Tak,35-44,0,2003,HepatitisE
-Uttaradit,35-44,0,2003,HepatitisE
-Zone:3,35-44,0,2003,HepatitisE
-Kamphaeng Phet,35-44,0,2003,HepatitisE
-Nakhon Sawan,35-44,0,2003,HepatitisE
-Phichit,35-44,0,2003,HepatitisE
-Uthai Thani,35-44,0,2003,HepatitisE
-Central Region,35-44,1,2003,HepatitisE
-Bangkok,35-44,0,2003,HepatitisE
-Zone:4,35-44,0,2003,HepatitisE
-Ang Thong,35-44,0,2003,HepatitisE
-Nonthaburi,35-44,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,35-44,0,2003,HepatitisE
-Pathum Thani,35-44,0,2003,HepatitisE
-Zone:5,35-44,0,2003,HepatitisE
-Chai Nat,35-44,0,2003,HepatitisE
-Lop Buri,35-44,0,2003,HepatitisE
-Saraburi,35-44,0,2003,HepatitisE
-Sing Buri,35-44,0,2003,HepatitisE
-Zone:6,35-44,0,2003,HepatitisE
-Kanchanaburi,35-44,0,2003,HepatitisE
-Nakhon Pathom,35-44,0,2003,HepatitisE
-Ratchaburi,35-44,0,2003,HepatitisE
-Suphan Buri,35-44,0,2003,HepatitisE
-Zone:7,35-44,0,2003,HepatitisE
-Phetchaburi,35-44,0,2003,HepatitisE
-Prachuap Khiri Khan,35-44,0,2003,HepatitisE
-Samut Sakhon,35-44,0,2003,HepatitisE
-Samut Songkhram,35-44,0,2003,HepatitisE
-Zone:8,35-44,0,2003,HepatitisE
-Chachoengsao,35-44,0,2003,HepatitisE
-Nakhon Nayok,35-44,0,2003,HepatitisE
-Prachin Buri,35-44,0,2003,HepatitisE
-Sa Kaeo,35-44,0,2003,HepatitisE
-Samut Prakan,35-44,0,2003,HepatitisE
-Zone:9,35-44,1,2003,HepatitisE
-Chanthaburi,35-44,1,2003,HepatitisE
-Chon Buri,35-44,0,2003,HepatitisE
-Rayong,35-44,0,2003,HepatitisE
-Trat,35-44,0,2003,HepatitisE
-North-Eastern Region,35-44,0,2003,HepatitisE
-Zone:10,35-44,0,2003,HepatitisE
-Loei,35-44,0,2003,HepatitisE
-Nong Bua Lam Phu,35-44,0,2003,HepatitisE
-Nong Khai,35-44,0,2003,HepatitisE
-Udon Thani,35-44,0,2003,HepatitisE
-Zone:11,35-44,0,2003,HepatitisE
-Kalasin,35-44,0,2003,HepatitisE
-Mukdahan,35-44,0,2003,HepatitisE
-Nakhon Phanom,35-44,0,2003,HepatitisE
-Sakon Nakhon,35-44,0,2003,HepatitisE
-Zone:12,35-44,0,2003,HepatitisE
-Khon Kaen,35-44,0,2003,HepatitisE
-Maha Sarakham,35-44,0,2003,HepatitisE
-Roi Et,35-44,0,2003,HepatitisE
-Zone:13,35-44,0,2003,HepatitisE
-Buri Ram,35-44,0,2003,HepatitisE
-Chaiyaphum,35-44,0,2003,HepatitisE
-Nakhon Ratchasima,35-44,0,2003,HepatitisE
-Surin,35-44,0,2003,HepatitisE
-Zone:14,35-44,0,2003,HepatitisE
-Amnat Charoen,35-44,0,2003,HepatitisE
-Si Sa Ket,35-44,0,2003,HepatitisE
-Ubon Ratchathani,35-44,0,2003,HepatitisE
-Yasothon,35-44,0,2003,HepatitisE
-South Region,35-44,0,2003,HepatitisE
-Zone:15,35-44,0,2003,HepatitisE
-Chumphon,35-44,0,2003,HepatitisE
-Ranong,35-44,0,2003,HepatitisE
-Surat Thani,35-44,0,2003,HepatitisE
-Zone:16,35-44,0,2003,HepatitisE
-Nakhon Si Thammarat,35-44,0,2003,HepatitisE
-Phatthalung,35-44,0,2003,HepatitisE
-Trang,35-44,0,2003,HepatitisE
-Zone:17,35-44,0,2003,HepatitisE
-Krabi,35-44,0,2003,HepatitisE
-Phangnga,35-44,0,2003,HepatitisE
-Phuket,35-44,0,2003,HepatitisE
-Zone:18,35-44,0,2003,HepatitisE
-Narathiwat,35-44,0,2003,HepatitisE
-Pattani,35-44,0,2003,HepatitisE
-Yala,35-44,0,2003,HepatitisE
-Zone:19,35-44,0,2003,HepatitisE
-Satun,35-44,0,2003,HepatitisE
-Songkhla,35-44,0,2003,HepatitisE
-Total,45-54,2,2003,HepatitisE
-North Region,45-54,1,2003,HepatitisE
-Zone:1,45-54,1,2003,HepatitisE
-Chiang Mai,45-54,0,2003,HepatitisE
-Chiang Rai,45-54,0,2003,HepatitisE
-Lampang,45-54,0,2003,HepatitisE
-Lamphun,45-54,0,2003,HepatitisE
-Mae Hong Son,45-54,0,2003,HepatitisE
-Nan,45-54,1,2003,HepatitisE
-Phayao,45-54,0,2003,HepatitisE
-Phrae,45-54,0,2003,HepatitisE
-Zone:2,45-54,0,2003,HepatitisE
-Phetchabun,45-54,0,2003,HepatitisE
-Phitsanulok,45-54,0,2003,HepatitisE
-Sukhothai,45-54,0,2003,HepatitisE
-Tak,45-54,0,2003,HepatitisE
-Uttaradit,45-54,0,2003,HepatitisE
-Zone:3,45-54,0,2003,HepatitisE
-Kamphaeng Phet,45-54,0,2003,HepatitisE
-Nakhon Sawan,45-54,0,2003,HepatitisE
-Phichit,45-54,0,2003,HepatitisE
-Uthai Thani,45-54,0,2003,HepatitisE
-Central Region,45-54,1,2003,HepatitisE
-Bangkok,45-54,0,2003,HepatitisE
-Zone:4,45-54,0,2003,HepatitisE
-Ang Thong,45-54,0,2003,HepatitisE
-Nonthaburi,45-54,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,45-54,0,2003,HepatitisE
-Pathum Thani,45-54,0,2003,HepatitisE
-Zone:5,45-54,0,2003,HepatitisE
-Chai Nat,45-54,0,2003,HepatitisE
-Lop Buri,45-54,0,2003,HepatitisE
-Saraburi,45-54,0,2003,HepatitisE
-Sing Buri,45-54,0,2003,HepatitisE
-Zone:6,45-54,0,2003,HepatitisE
-Kanchanaburi,45-54,0,2003,HepatitisE
-Nakhon Pathom,45-54,0,2003,HepatitisE
-Ratchaburi,45-54,0,2003,HepatitisE
-Suphan Buri,45-54,0,2003,HepatitisE
-Zone:7,45-54,0,2003,HepatitisE
-Phetchaburi,45-54,0,2003,HepatitisE
-Prachuap Khiri Khan,45-54,0,2003,HepatitisE
-Samut Sakhon,45-54,0,2003,HepatitisE
-Samut Songkhram,45-54,0,2003,HepatitisE
-Zone:8,45-54,0,2003,HepatitisE
-Chachoengsao,45-54,0,2003,HepatitisE
-Nakhon Nayok,45-54,0,2003,HepatitisE
-Prachin Buri,45-54,0,2003,HepatitisE
-Sa Kaeo,45-54,0,2003,HepatitisE
-Samut Prakan,45-54,0,2003,HepatitisE
-Zone:9,45-54,1,2003,HepatitisE
-Chanthaburi,45-54,0,2003,HepatitisE
-Chon Buri,45-54,0,2003,HepatitisE
-Rayong,45-54,0,2003,HepatitisE
-Trat,45-54,1,2003,HepatitisE
-North-Eastern Region,45-54,0,2003,HepatitisE
-Zone:10,45-54,0,2003,HepatitisE
-Loei,45-54,0,2003,HepatitisE
-Nong Bua Lam Phu,45-54,0,2003,HepatitisE
-Nong Khai,45-54,0,2003,HepatitisE
-Udon Thani,45-54,0,2003,HepatitisE
-Zone:11,45-54,0,2003,HepatitisE
-Kalasin,45-54,0,2003,HepatitisE
-Mukdahan,45-54,0,2003,HepatitisE
-Nakhon Phanom,45-54,0,2003,HepatitisE
-Sakon Nakhon,45-54,0,2003,HepatitisE
-Zone:12,45-54,0,2003,HepatitisE
-Khon Kaen,45-54,0,2003,HepatitisE
-Maha Sarakham,45-54,0,2003,HepatitisE
-Roi Et,45-54,0,2003,HepatitisE
-Zone:13,45-54,0,2003,HepatitisE
-Buri Ram,45-54,0,2003,HepatitisE
-Chaiyaphum,45-54,0,2003,HepatitisE
-Nakhon Ratchasima,45-54,0,2003,HepatitisE
-Surin,45-54,0,2003,HepatitisE
-Zone:14,45-54,0,2003,HepatitisE
-Amnat Charoen,45-54,0,2003,HepatitisE
-Si Sa Ket,45-54,0,2003,HepatitisE
-Ubon Ratchathani,45-54,0,2003,HepatitisE
-Yasothon,45-54,0,2003,HepatitisE
-South Region,45-54,0,2003,HepatitisE
-Zone:15,45-54,0,2003,HepatitisE
-Chumphon,45-54,0,2003,HepatitisE
-Ranong,45-54,0,2003,HepatitisE
-Surat Thani,45-54,0,2003,HepatitisE
-Zone:16,45-54,0,2003,HepatitisE
-Nakhon Si Thammarat,45-54,0,2003,HepatitisE
-Phatthalung,45-54,0,2003,HepatitisE
-Trang,45-54,0,2003,HepatitisE
-Zone:17,45-54,0,2003,HepatitisE
-Krabi,45-54,0,2003,HepatitisE
-Phangnga,45-54,0,2003,HepatitisE
-Phuket,45-54,0,2003,HepatitisE
-Zone:18,45-54,0,2003,HepatitisE
-Narathiwat,45-54,0,2003,HepatitisE
-Pattani,45-54,0,2003,HepatitisE
-Yala,45-54,0,2003,HepatitisE
-Zone:19,45-54,0,2003,HepatitisE
-Satun,45-54,0,2003,HepatitisE
-Songkhla,45-54,0,2003,HepatitisE
-Total,55-64,0,2003,HepatitisE
-North Region,55-64,0,2003,HepatitisE
-Zone:1,55-64,0,2003,HepatitisE
-Chiang Mai,55-64,0,2003,HepatitisE
-Chiang Rai,55-64,0,2003,HepatitisE
-Lampang,55-64,0,2003,HepatitisE
-Lamphun,55-64,0,2003,HepatitisE
-Mae Hong Son,55-64,0,2003,HepatitisE
-Nan,55-64,0,2003,HepatitisE
-Phayao,55-64,0,2003,HepatitisE
-Phrae,55-64,0,2003,HepatitisE
-Zone:2,55-64,0,2003,HepatitisE
-Phetchabun,55-64,0,2003,HepatitisE
-Phitsanulok,55-64,0,2003,HepatitisE
-Sukhothai,55-64,0,2003,HepatitisE
-Tak,55-64,0,2003,HepatitisE
-Uttaradit,55-64,0,2003,HepatitisE
-Zone:3,55-64,0,2003,HepatitisE
-Kamphaeng Phet,55-64,0,2003,HepatitisE
-Nakhon Sawan,55-64,0,2003,HepatitisE
-Phichit,55-64,0,2003,HepatitisE
-Uthai Thani,55-64,0,2003,HepatitisE
-Central Region,55-64,0,2003,HepatitisE
-Bangkok,55-64,0,2003,HepatitisE
-Zone:4,55-64,0,2003,HepatitisE
-Ang Thong,55-64,0,2003,HepatitisE
-Nonthaburi,55-64,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,55-64,0,2003,HepatitisE
-Pathum Thani,55-64,0,2003,HepatitisE
-Zone:5,55-64,0,2003,HepatitisE
-Chai Nat,55-64,0,2003,HepatitisE
-Lop Buri,55-64,0,2003,HepatitisE
-Saraburi,55-64,0,2003,HepatitisE
-Sing Buri,55-64,0,2003,HepatitisE
-Zone:6,55-64,0,2003,HepatitisE
-Kanchanaburi,55-64,0,2003,HepatitisE
-Nakhon Pathom,55-64,0,2003,HepatitisE
-Ratchaburi,55-64,0,2003,HepatitisE
-Suphan Buri,55-64,0,2003,HepatitisE
-Zone:7,55-64,0,2003,HepatitisE
-Phetchaburi,55-64,0,2003,HepatitisE
-Prachuap Khiri Khan,55-64,0,2003,HepatitisE
-Samut Sakhon,55-64,0,2003,HepatitisE
-Samut Songkhram,55-64,0,2003,HepatitisE
-Zone:8,55-64,0,2003,HepatitisE
-Chachoengsao,55-64,0,2003,HepatitisE
-Nakhon Nayok,55-64,0,2003,HepatitisE
-Prachin Buri,55-64,0,2003,HepatitisE
-Sa Kaeo,55-64,0,2003,HepatitisE
-Samut Prakan,55-64,0,2003,HepatitisE
-Zone:9,55-64,0,2003,HepatitisE
-Chanthaburi,55-64,0,2003,HepatitisE
-Chon Buri,55-64,0,2003,HepatitisE
-Rayong,55-64,0,2003,HepatitisE
-Trat,55-64,0,2003,HepatitisE
-North-Eastern Region,55-64,0,2003,HepatitisE
-Zone:10,55-64,0,2003,HepatitisE
-Loei,55-64,0,2003,HepatitisE
-Nong Bua Lam Phu,55-64,0,2003,HepatitisE
-Nong Khai,55-64,0,2003,HepatitisE
-Udon Thani,55-64,0,2003,HepatitisE
-Zone:11,55-64,0,2003,HepatitisE
-Kalasin,55-64,0,2003,HepatitisE
-Mukdahan,55-64,0,2003,HepatitisE
-Nakhon Phanom,55-64,0,2003,HepatitisE
-Sakon Nakhon,55-64,0,2003,HepatitisE
-Zone:12,55-64,0,2003,HepatitisE
-Khon Kaen,55-64,0,2003,HepatitisE
-Maha Sarakham,55-64,0,2003,HepatitisE
-Roi Et,55-64,0,2003,HepatitisE
-Zone:13,55-64,0,2003,HepatitisE
-Buri Ram,55-64,0,2003,HepatitisE
-Chaiyaphum,55-64,0,2003,HepatitisE
-Nakhon Ratchasima,55-64,0,2003,HepatitisE
-Surin,55-64,0,2003,HepatitisE
-Zone:14,55-64,0,2003,HepatitisE
-Amnat Charoen,55-64,0,2003,HepatitisE
-Si Sa Ket,55-64,0,2003,HepatitisE
-Ubon Ratchathani,55-64,0,2003,HepatitisE
-Yasothon,55-64,0,2003,HepatitisE
-South Region,55-64,0,2003,HepatitisE
-Zone:15,55-64,0,2003,HepatitisE
-Chumphon,55-64,0,2003,HepatitisE
-Ranong,55-64,0,2003,HepatitisE
-Surat Thani,55-64,0,2003,HepatitisE
-Zone:16,55-64,0,2003,HepatitisE
-Nakhon Si Thammarat,55-64,0,2003,HepatitisE
-Phatthalung,55-64,0,2003,HepatitisE
-Trang,55-64,0,2003,HepatitisE
-Zone:17,55-64,0,2003,HepatitisE
-Krabi,55-64,0,2003,HepatitisE
-Phangnga,55-64,0,2003,HepatitisE
-Phuket,55-64,0,2003,HepatitisE
-Zone:18,55-64,0,2003,HepatitisE
-Narathiwat,55-64,0,2003,HepatitisE
-Pattani,55-64,0,2003,HepatitisE
-Yala,55-64,0,2003,HepatitisE
-Zone:19,55-64,0,2003,HepatitisE
-Satun,55-64,0,2003,HepatitisE
-Songkhla,55-64,0,2003,HepatitisE
-Total,65+,0,2003,HepatitisE
-North Region,65+,0,2003,HepatitisE
-Zone:1,65+,0,2003,HepatitisE
-Chiang Mai,65+,0,2003,HepatitisE
-Chiang Rai,65+,0,2003,HepatitisE
-Lampang,65+,0,2003,HepatitisE
-Lamphun,65+,0,2003,HepatitisE
-Mae Hong Son,65+,0,2003,HepatitisE
-Nan,65+,0,2003,HepatitisE
-Phayao,65+,0,2003,HepatitisE
-Phrae,65+,0,2003,HepatitisE
-Zone:2,65+,0,2003,HepatitisE
-Phetchabun,65+,0,2003,HepatitisE
-Phitsanulok,65+,0,2003,HepatitisE
-Sukhothai,65+,0,2003,HepatitisE
-Tak,65+,0,2003,HepatitisE
-Uttaradit,65+,0,2003,HepatitisE
-Zone:3,65+,0,2003,HepatitisE
-Kamphaeng Phet,65+,0,2003,HepatitisE
-Nakhon Sawan,65+,0,2003,HepatitisE
-Phichit,65+,0,2003,HepatitisE
-Uthai Thani,65+,0,2003,HepatitisE
-Central Region,65+,0,2003,HepatitisE
-Bangkok,65+,0,2003,HepatitisE
-Zone:4,65+,0,2003,HepatitisE
-Ang Thong,65+,0,2003,HepatitisE
-Nonthaburi,65+,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,65+,0,2003,HepatitisE
-Pathum Thani,65+,0,2003,HepatitisE
-Zone:5,65+,0,2003,HepatitisE
-Chai Nat,65+,0,2003,HepatitisE
-Lop Buri,65+,0,2003,HepatitisE
-Saraburi,65+,0,2003,HepatitisE
-Sing Buri,65+,0,2003,HepatitisE
-Zone:6,65+,0,2003,HepatitisE
-Kanchanaburi,65+,0,2003,HepatitisE
-Nakhon Pathom,65+,0,2003,HepatitisE
-Ratchaburi,65+,0,2003,HepatitisE
-Suphan Buri,65+,0,2003,HepatitisE
-Zone:7,65+,0,2003,HepatitisE
-Phetchaburi,65+,0,2003,HepatitisE
-Prachuap Khiri Khan,65+,0,2003,HepatitisE
-Samut Sakhon,65+,0,2003,HepatitisE
-Samut Songkhram,65+,0,2003,HepatitisE
-Zone:8,65+,0,2003,HepatitisE
-Chachoengsao,65+,0,2003,HepatitisE
-Nakhon Nayok,65+,0,2003,HepatitisE
-Prachin Buri,65+,0,2003,HepatitisE
-Sa Kaeo,65+,0,2003,HepatitisE
-Samut Prakan,65+,0,2003,HepatitisE
-Zone:9,65+,0,2003,HepatitisE
-Chanthaburi,65+,0,2003,HepatitisE
-Chon Buri,65+,0,2003,HepatitisE
-Rayong,65+,0,2003,HepatitisE
-Trat,65+,0,2003,HepatitisE
-North-Eastern Region,65+,0,2003,HepatitisE
-Zone:10,65+,0,2003,HepatitisE
-Loei,65+,0,2003,HepatitisE
-Nong Bua Lam Phu,65+,0,2003,HepatitisE
-Nong Khai,65+,0,2003,HepatitisE
-Udon Thani,65+,0,2003,HepatitisE
-Zone:11,65+,0,2003,HepatitisE
-Kalasin,65+,0,2003,HepatitisE
-Mukdahan,65+,0,2003,HepatitisE
-Nakhon Phanom,65+,0,2003,HepatitisE
-Sakon Nakhon,65+,0,2003,HepatitisE
-Zone:12,65+,0,2003,HepatitisE
-Khon Kaen,65+,0,2003,HepatitisE
-Maha Sarakham,65+,0,2003,HepatitisE
-Roi Et,65+,0,2003,HepatitisE
-Zone:13,65+,0,2003,HepatitisE
-Buri Ram,65+,0,2003,HepatitisE
-Chaiyaphum,65+,0,2003,HepatitisE
-Nakhon Ratchasima,65+,0,2003,HepatitisE
-Surin,65+,0,2003,HepatitisE
-Zone:14,65+,0,2003,HepatitisE
-Amnat Charoen,65+,0,2003,HepatitisE
-Si Sa Ket,65+,0,2003,HepatitisE
-Ubon Ratchathani,65+,0,2003,HepatitisE
-Yasothon,65+,0,2003,HepatitisE
-South Region,65+,0,2003,HepatitisE
-Zone:15,65+,0,2003,HepatitisE
-Chumphon,65+,0,2003,HepatitisE
-Ranong,65+,0,2003,HepatitisE
-Surat Thani,65+,0,2003,HepatitisE
-Zone:16,65+,0,2003,HepatitisE
-Nakhon Si Thammarat,65+,0,2003,HepatitisE
-Phatthalung,65+,0,2003,HepatitisE
-Trang,65+,0,2003,HepatitisE
-Zone:17,65+,0,2003,HepatitisE
-Krabi,65+,0,2003,HepatitisE
-Phangnga,65+,0,2003,HepatitisE
-Phuket,65+,0,2003,HepatitisE
-Zone:18,65+,0,2003,HepatitisE
-Narathiwat,65+,0,2003,HepatitisE
-Pattani,65+,0,2003,HepatitisE
-Yala,65+,0,2003,HepatitisE
-Zone:19,65+,0,2003,HepatitisE
-Satun,65+,0,2003,HepatitisE
-Songkhla,65+,0,2003,HepatitisE
-Total,Unknown,0,2003,HepatitisE
-North Region,Unknown,0,2003,HepatitisE
-Zone:1,Unknown,0,2003,HepatitisE
-Chiang Mai,Unknown,0,2003,HepatitisE
-Chiang Rai,Unknown,0,2003,HepatitisE
-Lampang,Unknown,0,2003,HepatitisE
-Lamphun,Unknown,0,2003,HepatitisE
-Mae Hong Son,Unknown,0,2003,HepatitisE
-Nan,Unknown,0,2003,HepatitisE
-Phayao,Unknown,0,2003,HepatitisE
-Phrae,Unknown,0,2003,HepatitisE
-Zone:2,Unknown,0,2003,HepatitisE
-Phetchabun,Unknown,0,2003,HepatitisE
-Phitsanulok,Unknown,0,2003,HepatitisE
-Sukhothai,Unknown,0,2003,HepatitisE
-Tak,Unknown,0,2003,HepatitisE
-Uttaradit,Unknown,0,2003,HepatitisE
-Zone:3,Unknown,0,2003,HepatitisE
-Kamphaeng Phet,Unknown,0,2003,HepatitisE
-Nakhon Sawan,Unknown,0,2003,HepatitisE
-Phichit,Unknown,0,2003,HepatitisE
-Uthai Thani,Unknown,0,2003,HepatitisE
-Central Region,Unknown,0,2003,HepatitisE
-Bangkok,Unknown,0,2003,HepatitisE
-Zone:4,Unknown,0,2003,HepatitisE
-Ang Thong,Unknown,0,2003,HepatitisE
-Nonthaburi,Unknown,0,2003,HepatitisE
-P.Nakhon S.Ayutthaya,Unknown,0,2003,HepatitisE
-Pathum Thani,Unknown,0,2003,HepatitisE
-Zone:5,Unknown,0,2003,HepatitisE
-Chai Nat,Unknown,0,2003,HepatitisE
-Lop Buri,Unknown,0,2003,HepatitisE
-Saraburi,Unknown,0,2003,HepatitisE
-Sing Buri,Unknown,0,2003,HepatitisE
-Zone:6,Unknown,0,2003,HepatitisE
-Kanchanaburi,Unknown,0,2003,HepatitisE
-Nakhon Pathom,Unknown,0,2003,HepatitisE
-Ratchaburi,Unknown,0,2003,HepatitisE
-Suphan Buri,Unknown,0,2003,HepatitisE
-Zone:7,Unknown,0,2003,HepatitisE
-Phetchaburi,Unknown,0,2003,HepatitisE
-Prachuap Khiri Khan,Unknown,0,2003,HepatitisE
-Samut Sakhon,Unknown,0,2003,HepatitisE
-Samut Songkhram,Unknown,0,2003,HepatitisE
-Zone:8,Unknown,0,2003,HepatitisE
-Chachoengsao,Unknown,0,2003,HepatitisE
-Nakhon Nayok,Unknown,0,2003,HepatitisE
-Prachin Buri,Unknown,0,2003,HepatitisE
-Sa Kaeo,Unknown,0,2003,HepatitisE
-Samut Prakan,Unknown,0,2003,HepatitisE
-Zone:9,Unknown,0,2003,HepatitisE
-Chanthaburi,Unknown,0,2003,HepatitisE
-Chon Buri,Unknown,0,2003,HepatitisE
-Rayong,Unknown,0,2003,HepatitisE
-Trat,Unknown,0,2003,HepatitisE
-North-Eastern Region,Unknown,0,2003,HepatitisE
-Zone:10,Unknown,0,2003,HepatitisE
-Loei,Unknown,0,2003,HepatitisE
-Nong Bua Lam Phu,Unknown,0,2003,HepatitisE
-Nong Khai,Unknown,0,2003,HepatitisE
-Udon Thani,Unknown,0,2003,HepatitisE
-Zone:11,Unknown,0,2003,HepatitisE
-Kalasin,Unknown,0,2003,HepatitisE
-Mukdahan,Unknown,0,2003,HepatitisE
-Nakhon Phanom,Unknown,0,2003,HepatitisE
-Sakon Nakhon,Unknown,0,2003,HepatitisE
-Zone:12,Unknown,0,2003,HepatitisE
-Khon Kaen,Unknown,0,2003,HepatitisE
-Maha Sarakham,Unknown,0,2003,HepatitisE
-Roi Et,Unknown,0,2003,HepatitisE
-Zone:13,Unknown,0,2003,HepatitisE
-Buri Ram,Unknown,0,2003,HepatitisE
-Chaiyaphum,Unknown,0,2003,HepatitisE
-Nakhon Ratchasima,Unknown,0,2003,HepatitisE
-Surin,Unknown,0,2003,HepatitisE
-Zone:14,Unknown,0,2003,HepatitisE
-Amnat Charoen,Unknown,0,2003,HepatitisE
-Si Sa Ket,Unknown,0,2003,HepatitisE
-Ubon Ratchathani,Unknown,0,2003,HepatitisE
-Yasothon,Unknown,0,2003,HepatitisE
-South Region,Unknown,0,2003,HepatitisE
-Zone:15,Unknown,0,2003,HepatitisE
-Chumphon,Unknown,0,2003,HepatitisE
-Ranong,Unknown,0,2003,HepatitisE
-Surat Thani,Unknown,0,2003,HepatitisE
-Zone:16,Unknown,0,2003,HepatitisE
-Nakhon Si Thammarat,Unknown,0,2003,HepatitisE
-Phatthalung,Unknown,0,2003,HepatitisE
-Trang,Unknown,0,2003,HepatitisE
-Zone:17,Unknown,0,2003,HepatitisE
-Krabi,Unknown,0,2003,HepatitisE
-Phangnga,Unknown,0,2003,HepatitisE
-Phuket,Unknown,0,2003,HepatitisE
-Zone:18,Unknown,0,2003,HepatitisE
-Narathiwat,Unknown,0,2003,HepatitisE
-Pattani,Unknown,0,2003,HepatitisE
-Yala,Unknown,0,2003,HepatitisE
-Zone:19,Unknown,0,2003,HepatitisE
-Satun,Unknown,0,2003,HepatitisE
-Songkhla,Unknown,0,2003,HepatitisE
 Total,Total,18,2004,HepatitisE
 North Region,Total,7,2004,HepatitisE
 Zone:1,Total,7,2004,HepatitisE
@@ -5417,3 +3617,1803 @@ Kamphaeng Phet,Unknown,0,2013,HepatitisE
 Nakhon Sawan,Unknown,0,2013,HepatitisE
 Phichit,Unknown,0,2013,HepatitisE
 Uthai Thani,Unknown,0,2013,HepatitisE
+Total,Total,11,2003,HepatitisE
+North Region,Total,7,2003,HepatitisE
+Zone:1,Total,3,2003,HepatitisE
+Chiang Mai,Total,0,2003,HepatitisE
+Chiang Rai,Total,0,2003,HepatitisE
+Lampang,Total,0,2003,HepatitisE
+Lamphun,Total,0,2003,HepatitisE
+Mae Hong Son,Total,0,2003,HepatitisE
+Nan,Total,3,2003,HepatitisE
+Phayao,Total,0,2003,HepatitisE
+Phrae,Total,0,2003,HepatitisE
+Zone:2,Total,2,2003,HepatitisE
+Phetchabun,Total,1,2003,HepatitisE
+Phitsanulok,Total,0,2003,HepatitisE
+Sukhothai,Total,0,2003,HepatitisE
+Tak,Total,1,2003,HepatitisE
+Uttaradit,Total,0,2003,HepatitisE
+Zone:3,Total,2,2003,HepatitisE
+Kamphaeng Phet,Total,2,2003,HepatitisE
+Nakhon Sawan,Total,0,2003,HepatitisE
+Phichit,Total,0,2003,HepatitisE
+Uthai Thani,Total,0,2003,HepatitisE
+Central Region,Total,4,2003,HepatitisE
+Bangkok,Total,0,2003,HepatitisE
+Zone:4,Total,0,2003,HepatitisE
+Ang Thong,Total,0,2003,HepatitisE
+Nonthaburi,Total,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,Total,0,2003,HepatitisE
+Pathum Thani,Total,0,2003,HepatitisE
+Zone:5,Total,0,2003,HepatitisE
+Chai Nat,Total,0,2003,HepatitisE
+Lop Buri,Total,0,2003,HepatitisE
+Saraburi,Total,0,2003,HepatitisE
+Sing Buri,Total,0,2003,HepatitisE
+Zone:6,Total,0,2003,HepatitisE
+Kanchanaburi,Total,0,2003,HepatitisE
+Nakhon Pathom,Total,0,2003,HepatitisE
+Ratchaburi,Total,0,2003,HepatitisE
+Suphan Buri,Total,0,2003,HepatitisE
+Zone:7,Total,0,2003,HepatitisE
+Phetchaburi,Total,0,2003,HepatitisE
+Prachuap Khiri Khan,Total,0,2003,HepatitisE
+Samut Sakhon,Total,0,2003,HepatitisE
+Samut Songkhram,Total,0,2003,HepatitisE
+Zone:8,Total,1,2003,HepatitisE
+Chachoengsao,Total,0,2003,HepatitisE
+Nakhon Nayok,Total,0,2003,HepatitisE
+Prachin Buri,Total,1,2003,HepatitisE
+Sa Kaeo,Total,0,2003,HepatitisE
+Samut Prakan,Total,0,2003,HepatitisE
+Zone:9,Total,3,2003,HepatitisE
+Chanthaburi,Total,1,2003,HepatitisE
+Chon Buri,Total,0,2003,HepatitisE
+Rayong,Total,0,2003,HepatitisE
+Trat,Total,2,2003,HepatitisE
+North-Eastern Region,Total,0,2003,HepatitisE
+Zone:10,Total,0,2003,HepatitisE
+Loei,Total,0,2003,HepatitisE
+Nong Bua Lam Phu,Total,0,2003,HepatitisE
+Nong Khai,Total,0,2003,HepatitisE
+Udon Thani,Total,0,2003,HepatitisE
+Zone:11,Total,0,2003,HepatitisE
+Kalasin,Total,0,2003,HepatitisE
+Mukdahan,Total,0,2003,HepatitisE
+Nakhon Phanom,Total,0,2003,HepatitisE
+Sakon Nakhon,Total,0,2003,HepatitisE
+Zone:12,Total,0,2003,HepatitisE
+Khon Kaen,Total,0,2003,HepatitisE
+Maha Sarakham,Total,0,2003,HepatitisE
+Roi Et,Total,0,2003,HepatitisE
+Zone:13,Total,0,2003,HepatitisE
+Buri Ram,Total,0,2003,HepatitisE
+Chaiyaphum,Total,0,2003,HepatitisE
+Nakhon Ratchasima,Total,0,2003,HepatitisE
+Surin,Total,0,2003,HepatitisE
+Zone:14,Total,0,2003,HepatitisE
+Amnat Charoen,Total,0,2003,HepatitisE
+Si Sa Ket,Total,0,2003,HepatitisE
+Ubon Ratchathani,Total,0,2003,HepatitisE
+Yasothon,Total,0,2003,HepatitisE
+South Region,Total,0,2003,HepatitisE
+Zone:15,Total,0,2003,HepatitisE
+Chumphon,Total,0,2003,HepatitisE
+Ranong,Total,0,2003,HepatitisE
+Surat Thani,Total,0,2003,HepatitisE
+Zone:16,Total,0,2003,HepatitisE
+Nakhon Si Thammarat,Total,0,2003,HepatitisE
+Phatthalung,Total,0,2003,HepatitisE
+Trang,Total,0,2003,HepatitisE
+Zone:17,Total,0,2003,HepatitisE
+Krabi,Total,0,2003,HepatitisE
+Phangnga,Total,0,2003,HepatitisE
+Phuket,Total,0,2003,HepatitisE
+Zone:18,Total,0,2003,HepatitisE
+Narathiwat,Total,0,2003,HepatitisE
+Pattani,Total,0,2003,HepatitisE
+Yala,Total,0,2003,HepatitisE
+Zone:19,Total,0,2003,HepatitisE
+Satun,Total,0,2003,HepatitisE
+Songkhla,Total,0,2003,HepatitisE
+Total,0,0,2003,HepatitisE
+North Region,0,0,2003,HepatitisE
+Zone:1,0,0,2003,HepatitisE
+Chiang Mai,0,0,2003,HepatitisE
+Chiang Rai,0,0,2003,HepatitisE
+Lampang,0,0,2003,HepatitisE
+Lamphun,0,0,2003,HepatitisE
+Mae Hong Son,0,0,2003,HepatitisE
+Nan,0,0,2003,HepatitisE
+Phayao,0,0,2003,HepatitisE
+Phrae,0,0,2003,HepatitisE
+Zone:2,0,0,2003,HepatitisE
+Phetchabun,0,0,2003,HepatitisE
+Phitsanulok,0,0,2003,HepatitisE
+Sukhothai,0,0,2003,HepatitisE
+Tak,0,0,2003,HepatitisE
+Uttaradit,0,0,2003,HepatitisE
+Zone:3,0,0,2003,HepatitisE
+Kamphaeng Phet,0,0,2003,HepatitisE
+Nakhon Sawan,0,0,2003,HepatitisE
+Phichit,0,0,2003,HepatitisE
+Uthai Thani,0,0,2003,HepatitisE
+Central Region,0,0,2003,HepatitisE
+Bangkok,0,0,2003,HepatitisE
+Zone:4,0,0,2003,HepatitisE
+Ang Thong,0,0,2003,HepatitisE
+Nonthaburi,0,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,0,0,2003,HepatitisE
+Pathum Thani,0,0,2003,HepatitisE
+Zone:5,0,0,2003,HepatitisE
+Chai Nat,0,0,2003,HepatitisE
+Lop Buri,0,0,2003,HepatitisE
+Saraburi,0,0,2003,HepatitisE
+Sing Buri,0,0,2003,HepatitisE
+Zone:6,0,0,2003,HepatitisE
+Kanchanaburi,0,0,2003,HepatitisE
+Nakhon Pathom,0,0,2003,HepatitisE
+Ratchaburi,0,0,2003,HepatitisE
+Suphan Buri,0,0,2003,HepatitisE
+Zone:7,0,0,2003,HepatitisE
+Phetchaburi,0,0,2003,HepatitisE
+Prachuap Khiri Khan,0,0,2003,HepatitisE
+Samut Sakhon,0,0,2003,HepatitisE
+Samut Songkhram,0,0,2003,HepatitisE
+Zone:8,0,0,2003,HepatitisE
+Chachoengsao,0,0,2003,HepatitisE
+Nakhon Nayok,0,0,2003,HepatitisE
+Prachin Buri,0,0,2003,HepatitisE
+Sa Kaeo,0,0,2003,HepatitisE
+Samut Prakan,0,0,2003,HepatitisE
+Zone:9,0,0,2003,HepatitisE
+Chanthaburi,0,0,2003,HepatitisE
+Chon Buri,0,0,2003,HepatitisE
+Rayong,0,0,2003,HepatitisE
+Trat,0,0,2003,HepatitisE
+North-Eastern Region,0,0,2003,HepatitisE
+Zone:10,0,0,2003,HepatitisE
+Loei,0,0,2003,HepatitisE
+Nong Bua Lam Phu,0,0,2003,HepatitisE
+Nong Khai,0,0,2003,HepatitisE
+Udon Thani,0,0,2003,HepatitisE
+Zone:11,0,0,2003,HepatitisE
+Kalasin,0,0,2003,HepatitisE
+Mukdahan,0,0,2003,HepatitisE
+Nakhon Phanom,0,0,2003,HepatitisE
+Sakon Nakhon,0,0,2003,HepatitisE
+Zone:12,0,0,2003,HepatitisE
+Khon Kaen,0,0,2003,HepatitisE
+Maha Sarakham,0,0,2003,HepatitisE
+Roi Et,0,0,2003,HepatitisE
+Zone:13,0,0,2003,HepatitisE
+Buri Ram,0,0,2003,HepatitisE
+Chaiyaphum,0,0,2003,HepatitisE
+Nakhon Ratchasima,0,0,2003,HepatitisE
+Surin,0,0,2003,HepatitisE
+Zone:14,0,0,2003,HepatitisE
+Amnat Charoen,0,0,2003,HepatitisE
+Si Sa Ket,0,0,2003,HepatitisE
+Ubon Ratchathani,0,0,2003,HepatitisE
+Yasothon,0,0,2003,HepatitisE
+South Region,0,0,2003,HepatitisE
+Zone:15,0,0,2003,HepatitisE
+Chumphon,0,0,2003,HepatitisE
+Ranong,0,0,2003,HepatitisE
+Surat Thani,0,0,2003,HepatitisE
+Zone:16,0,0,2003,HepatitisE
+Nakhon Si Thammarat,0,0,2003,HepatitisE
+Phatthalung,0,0,2003,HepatitisE
+Trang,0,0,2003,HepatitisE
+Zone:17,0,0,2003,HepatitisE
+Krabi,0,0,2003,HepatitisE
+Phangnga,0,0,2003,HepatitisE
+Phuket,0,0,2003,HepatitisE
+Zone:18,0,0,2003,HepatitisE
+Narathiwat,0,0,2003,HepatitisE
+Pattani,0,0,2003,HepatitisE
+Yala,0,0,2003,HepatitisE
+Zone:19,0,0,2003,HepatitisE
+Satun,0,0,2003,HepatitisE
+Songkhla,0,0,2003,HepatitisE
+Total,<1,0,2003,HepatitisE
+North Region,<1,0,2003,HepatitisE
+Zone:1,<1,0,2003,HepatitisE
+Chiang Mai,<1,0,2003,HepatitisE
+Chiang Rai,<1,0,2003,HepatitisE
+Lampang,<1,0,2003,HepatitisE
+Lamphun,<1,0,2003,HepatitisE
+Mae Hong Son,<1,0,2003,HepatitisE
+Nan,<1,0,2003,HepatitisE
+Phayao,<1,0,2003,HepatitisE
+Phrae,<1,0,2003,HepatitisE
+Zone:2,<1,0,2003,HepatitisE
+Phetchabun,<1,0,2003,HepatitisE
+Phitsanulok,<1,0,2003,HepatitisE
+Sukhothai,<1,0,2003,HepatitisE
+Tak,<1,0,2003,HepatitisE
+Uttaradit,<1,0,2003,HepatitisE
+Zone:3,<1,0,2003,HepatitisE
+Kamphaeng Phet,<1,0,2003,HepatitisE
+Nakhon Sawan,<1,0,2003,HepatitisE
+Phichit,<1,0,2003,HepatitisE
+Uthai Thani,<1,0,2003,HepatitisE
+Central Region,<1,0,2003,HepatitisE
+Bangkok,<1,0,2003,HepatitisE
+Zone:4,<1,0,2003,HepatitisE
+Ang Thong,<1,0,2003,HepatitisE
+Nonthaburi,<1,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,<1,0,2003,HepatitisE
+Pathum Thani,<1,0,2003,HepatitisE
+Zone:5,<1,0,2003,HepatitisE
+Chai Nat,<1,0,2003,HepatitisE
+Lop Buri,<1,0,2003,HepatitisE
+Saraburi,<1,0,2003,HepatitisE
+Sing Buri,<1,0,2003,HepatitisE
+Zone:6,<1,0,2003,HepatitisE
+Kanchanaburi,<1,0,2003,HepatitisE
+Nakhon Pathom,<1,0,2003,HepatitisE
+Ratchaburi,<1,0,2003,HepatitisE
+Suphan Buri,<1,0,2003,HepatitisE
+Zone:7,<1,0,2003,HepatitisE
+Phetchaburi,<1,0,2003,HepatitisE
+Prachuap Khiri Khan,<1,0,2003,HepatitisE
+Samut Sakhon,<1,0,2003,HepatitisE
+Samut Songkhram,<1,0,2003,HepatitisE
+Zone:8,<1,0,2003,HepatitisE
+Chachoengsao,<1,0,2003,HepatitisE
+Nakhon Nayok,<1,0,2003,HepatitisE
+Prachin Buri,<1,0,2003,HepatitisE
+Sa Kaeo,<1,0,2003,HepatitisE
+Samut Prakan,<1,0,2003,HepatitisE
+Zone:9,<1,0,2003,HepatitisE
+Chanthaburi,<1,0,2003,HepatitisE
+Chon Buri,<1,0,2003,HepatitisE
+Rayong,<1,0,2003,HepatitisE
+Trat,<1,0,2003,HepatitisE
+North-Eastern Region,<1,0,2003,HepatitisE
+Zone:10,<1,0,2003,HepatitisE
+Loei,<1,0,2003,HepatitisE
+Nong Bua Lam Phu,<1,0,2003,HepatitisE
+Nong Khai,<1,0,2003,HepatitisE
+Udon Thani,<1,0,2003,HepatitisE
+Zone:11,<1,0,2003,HepatitisE
+Kalasin,<1,0,2003,HepatitisE
+Mukdahan,<1,0,2003,HepatitisE
+Nakhon Phanom,<1,0,2003,HepatitisE
+Sakon Nakhon,<1,0,2003,HepatitisE
+Zone:12,<1,0,2003,HepatitisE
+Khon Kaen,<1,0,2003,HepatitisE
+Maha Sarakham,<1,0,2003,HepatitisE
+Roi Et,<1,0,2003,HepatitisE
+Zone:13,<1,0,2003,HepatitisE
+Buri Ram,<1,0,2003,HepatitisE
+Chaiyaphum,<1,0,2003,HepatitisE
+Nakhon Ratchasima,<1,0,2003,HepatitisE
+Surin,<1,0,2003,HepatitisE
+Zone:14,<1,0,2003,HepatitisE
+Amnat Charoen,<1,0,2003,HepatitisE
+Si Sa Ket,<1,0,2003,HepatitisE
+Ubon Ratchathani,<1,0,2003,HepatitisE
+Yasothon,<1,0,2003,HepatitisE
+South Region,<1,0,2003,HepatitisE
+Zone:15,<1,0,2003,HepatitisE
+Chumphon,<1,0,2003,HepatitisE
+Ranong,<1,0,2003,HepatitisE
+Surat Thani,<1,0,2003,HepatitisE
+Zone:16,<1,0,2003,HepatitisE
+Nakhon Si Thammarat,<1,0,2003,HepatitisE
+Phatthalung,<1,0,2003,HepatitisE
+Trang,<1,0,2003,HepatitisE
+Zone:17,<1,0,2003,HepatitisE
+Krabi,<1,0,2003,HepatitisE
+Phangnga,<1,0,2003,HepatitisE
+Phuket,<1,0,2003,HepatitisE
+Zone:18,<1,0,2003,HepatitisE
+Narathiwat,<1,0,2003,HepatitisE
+Pattani,<1,0,2003,HepatitisE
+Yala,<1,0,2003,HepatitisE
+Zone:19,<1,0,2003,HepatitisE
+Satun,<1,0,2003,HepatitisE
+Songkhla,<1,0,2003,HepatitisE
+Total,1-1,1,2003,HepatitisE
+North Region,1-1,0,2003,HepatitisE
+Zone:1,1-1,0,2003,HepatitisE
+Chiang Mai,1-1,0,2003,HepatitisE
+Chiang Rai,1-1,0,2003,HepatitisE
+Lampang,1-1,0,2003,HepatitisE
+Lamphun,1-1,0,2003,HepatitisE
+Mae Hong Son,1-1,0,2003,HepatitisE
+Nan,1-1,0,2003,HepatitisE
+Phayao,1-1,0,2003,HepatitisE
+Phrae,1-1,0,2003,HepatitisE
+Zone:2,1-1,0,2003,HepatitisE
+Phetchabun,1-1,0,2003,HepatitisE
+Phitsanulok,1-1,0,2003,HepatitisE
+Sukhothai,1-1,0,2003,HepatitisE
+Tak,1-1,0,2003,HepatitisE
+Uttaradit,1-1,0,2003,HepatitisE
+Zone:3,1-1,0,2003,HepatitisE
+Kamphaeng Phet,1-1,0,2003,HepatitisE
+Nakhon Sawan,1-1,0,2003,HepatitisE
+Phichit,1-1,0,2003,HepatitisE
+Uthai Thani,1-1,0,2003,HepatitisE
+Central Region,1-1,1,2003,HepatitisE
+Bangkok,1-1,0,2003,HepatitisE
+Zone:4,1-1,0,2003,HepatitisE
+Ang Thong,1-1,0,2003,HepatitisE
+Nonthaburi,1-1,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,1-1,0,2003,HepatitisE
+Pathum Thani,1-1,0,2003,HepatitisE
+Zone:5,1-1,0,2003,HepatitisE
+Chai Nat,1-1,0,2003,HepatitisE
+Lop Buri,1-1,0,2003,HepatitisE
+Saraburi,1-1,0,2003,HepatitisE
+Sing Buri,1-1,0,2003,HepatitisE
+Zone:6,1-1,0,2003,HepatitisE
+Kanchanaburi,1-1,0,2003,HepatitisE
+Nakhon Pathom,1-1,0,2003,HepatitisE
+Ratchaburi,1-1,0,2003,HepatitisE
+Suphan Buri,1-1,0,2003,HepatitisE
+Zone:7,1-1,0,2003,HepatitisE
+Phetchaburi,1-1,0,2003,HepatitisE
+Prachuap Khiri Khan,1-1,0,2003,HepatitisE
+Samut Sakhon,1-1,0,2003,HepatitisE
+Samut Songkhram,1-1,0,2003,HepatitisE
+Zone:8,1-1,1,2003,HepatitisE
+Chachoengsao,1-1,0,2003,HepatitisE
+Nakhon Nayok,1-1,0,2003,HepatitisE
+Prachin Buri,1-1,1,2003,HepatitisE
+Sa Kaeo,1-1,0,2003,HepatitisE
+Samut Prakan,1-1,0,2003,HepatitisE
+Zone:9,1-1,0,2003,HepatitisE
+Chanthaburi,1-1,0,2003,HepatitisE
+Chon Buri,1-1,0,2003,HepatitisE
+Rayong,1-1,0,2003,HepatitisE
+Trat,1-1,0,2003,HepatitisE
+North-Eastern Region,1-1,0,2003,HepatitisE
+Zone:10,1-1,0,2003,HepatitisE
+Loei,1-1,0,2003,HepatitisE
+Nong Bua Lam Phu,1-1,0,2003,HepatitisE
+Nong Khai,1-1,0,2003,HepatitisE
+Udon Thani,1-1,0,2003,HepatitisE
+Zone:11,1-1,0,2003,HepatitisE
+Kalasin,1-1,0,2003,HepatitisE
+Mukdahan,1-1,0,2003,HepatitisE
+Nakhon Phanom,1-1,0,2003,HepatitisE
+Sakon Nakhon,1-1,0,2003,HepatitisE
+Zone:12,1-1,0,2003,HepatitisE
+Khon Kaen,1-1,0,2003,HepatitisE
+Maha Sarakham,1-1,0,2003,HepatitisE
+Roi Et,1-1,0,2003,HepatitisE
+Zone:13,1-1,0,2003,HepatitisE
+Buri Ram,1-1,0,2003,HepatitisE
+Chaiyaphum,1-1,0,2003,HepatitisE
+Nakhon Ratchasima,1-1,0,2003,HepatitisE
+Surin,1-1,0,2003,HepatitisE
+Zone:14,1-1,0,2003,HepatitisE
+Amnat Charoen,1-1,0,2003,HepatitisE
+Si Sa Ket,1-1,0,2003,HepatitisE
+Ubon Ratchathani,1-1,0,2003,HepatitisE
+Yasothon,1-1,0,2003,HepatitisE
+South Region,1-1,0,2003,HepatitisE
+Zone:15,1-1,0,2003,HepatitisE
+Chumphon,1-1,0,2003,HepatitisE
+Ranong,1-1,0,2003,HepatitisE
+Surat Thani,1-1,0,2003,HepatitisE
+Zone:16,1-1,0,2003,HepatitisE
+Nakhon Si Thammarat,1-1,0,2003,HepatitisE
+Phatthalung,1-1,0,2003,HepatitisE
+Trang,1-1,0,2003,HepatitisE
+Zone:17,1-1,0,2003,HepatitisE
+Krabi,1-1,0,2003,HepatitisE
+Phangnga,1-1,0,2003,HepatitisE
+Phuket,1-1,0,2003,HepatitisE
+Zone:18,1-1,0,2003,HepatitisE
+Narathiwat,1-1,0,2003,HepatitisE
+Pattani,1-1,0,2003,HepatitisE
+Yala,1-1,0,2003,HepatitisE
+Zone:19,1-1,0,2003,HepatitisE
+Satun,1-1,0,2003,HepatitisE
+Songkhla,1-1,0,2003,HepatitisE
+Total,2-2,0,2003,HepatitisE
+North Region,2-2,0,2003,HepatitisE
+Zone:1,2-2,0,2003,HepatitisE
+Chiang Mai,2-2,0,2003,HepatitisE
+Chiang Rai,2-2,0,2003,HepatitisE
+Lampang,2-2,0,2003,HepatitisE
+Lamphun,2-2,0,2003,HepatitisE
+Mae Hong Son,2-2,0,2003,HepatitisE
+Nan,2-2,0,2003,HepatitisE
+Phayao,2-2,0,2003,HepatitisE
+Phrae,2-2,0,2003,HepatitisE
+Zone:2,2-2,0,2003,HepatitisE
+Phetchabun,2-2,0,2003,HepatitisE
+Phitsanulok,2-2,0,2003,HepatitisE
+Sukhothai,2-2,0,2003,HepatitisE
+Tak,2-2,0,2003,HepatitisE
+Uttaradit,2-2,0,2003,HepatitisE
+Zone:3,2-2,0,2003,HepatitisE
+Kamphaeng Phet,2-2,0,2003,HepatitisE
+Nakhon Sawan,2-2,0,2003,HepatitisE
+Phichit,2-2,0,2003,HepatitisE
+Uthai Thani,2-2,0,2003,HepatitisE
+Central Region,2-2,0,2003,HepatitisE
+Bangkok,2-2,0,2003,HepatitisE
+Zone:4,2-2,0,2003,HepatitisE
+Ang Thong,2-2,0,2003,HepatitisE
+Nonthaburi,2-2,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,2-2,0,2003,HepatitisE
+Pathum Thani,2-2,0,2003,HepatitisE
+Zone:5,2-2,0,2003,HepatitisE
+Chai Nat,2-2,0,2003,HepatitisE
+Lop Buri,2-2,0,2003,HepatitisE
+Saraburi,2-2,0,2003,HepatitisE
+Sing Buri,2-2,0,2003,HepatitisE
+Zone:6,2-2,0,2003,HepatitisE
+Kanchanaburi,2-2,0,2003,HepatitisE
+Nakhon Pathom,2-2,0,2003,HepatitisE
+Ratchaburi,2-2,0,2003,HepatitisE
+Suphan Buri,2-2,0,2003,HepatitisE
+Zone:7,2-2,0,2003,HepatitisE
+Phetchaburi,2-2,0,2003,HepatitisE
+Prachuap Khiri Khan,2-2,0,2003,HepatitisE
+Samut Sakhon,2-2,0,2003,HepatitisE
+Samut Songkhram,2-2,0,2003,HepatitisE
+Zone:8,2-2,0,2003,HepatitisE
+Chachoengsao,2-2,0,2003,HepatitisE
+Nakhon Nayok,2-2,0,2003,HepatitisE
+Prachin Buri,2-2,0,2003,HepatitisE
+Sa Kaeo,2-2,0,2003,HepatitisE
+Samut Prakan,2-2,0,2003,HepatitisE
+Zone:9,2-2,0,2003,HepatitisE
+Chanthaburi,2-2,0,2003,HepatitisE
+Chon Buri,2-2,0,2003,HepatitisE
+Rayong,2-2,0,2003,HepatitisE
+Trat,2-2,0,2003,HepatitisE
+North-Eastern Region,2-2,0,2003,HepatitisE
+Zone:10,2-2,0,2003,HepatitisE
+Loei,2-2,0,2003,HepatitisE
+Nong Bua Lam Phu,2-2,0,2003,HepatitisE
+Nong Khai,2-2,0,2003,HepatitisE
+Udon Thani,2-2,0,2003,HepatitisE
+Zone:11,2-2,0,2003,HepatitisE
+Kalasin,2-2,0,2003,HepatitisE
+Mukdahan,2-2,0,2003,HepatitisE
+Nakhon Phanom,2-2,0,2003,HepatitisE
+Sakon Nakhon,2-2,0,2003,HepatitisE
+Zone:12,2-2,0,2003,HepatitisE
+Khon Kaen,2-2,0,2003,HepatitisE
+Maha Sarakham,2-2,0,2003,HepatitisE
+Roi Et,2-2,0,2003,HepatitisE
+Zone:13,2-2,0,2003,HepatitisE
+Buri Ram,2-2,0,2003,HepatitisE
+Chaiyaphum,2-2,0,2003,HepatitisE
+Nakhon Ratchasima,2-2,0,2003,HepatitisE
+Surin,2-2,0,2003,HepatitisE
+Zone:14,2-2,0,2003,HepatitisE
+Amnat Charoen,2-2,0,2003,HepatitisE
+Si Sa Ket,2-2,0,2003,HepatitisE
+Ubon Ratchathani,2-2,0,2003,HepatitisE
+Yasothon,2-2,0,2003,HepatitisE
+South Region,2-2,0,2003,HepatitisE
+Zone:15,2-2,0,2003,HepatitisE
+Chumphon,2-2,0,2003,HepatitisE
+Ranong,2-2,0,2003,HepatitisE
+Surat Thani,2-2,0,2003,HepatitisE
+Zone:16,2-2,0,2003,HepatitisE
+Nakhon Si Thammarat,2-2,0,2003,HepatitisE
+Phatthalung,2-2,0,2003,HepatitisE
+Trang,2-2,0,2003,HepatitisE
+Zone:17,2-2,0,2003,HepatitisE
+Krabi,2-2,0,2003,HepatitisE
+Phangnga,2-2,0,2003,HepatitisE
+Phuket,2-2,0,2003,HepatitisE
+Zone:18,2-2,0,2003,HepatitisE
+Narathiwat,2-2,0,2003,HepatitisE
+Pattani,2-2,0,2003,HepatitisE
+Yala,2-2,0,2003,HepatitisE
+Zone:19,2-2,0,2003,HepatitisE
+Satun,2-2,0,2003,HepatitisE
+Songkhla,2-2,0,2003,HepatitisE
+Total,3-3,0,2003,HepatitisE
+North Region,3-3,0,2003,HepatitisE
+Zone:1,3-3,0,2003,HepatitisE
+Chiang Mai,3-3,0,2003,HepatitisE
+Chiang Rai,3-3,0,2003,HepatitisE
+Lampang,3-3,0,2003,HepatitisE
+Lamphun,3-3,0,2003,HepatitisE
+Mae Hong Son,3-3,0,2003,HepatitisE
+Nan,3-3,0,2003,HepatitisE
+Phayao,3-3,0,2003,HepatitisE
+Phrae,3-3,0,2003,HepatitisE
+Zone:2,3-3,0,2003,HepatitisE
+Phetchabun,3-3,0,2003,HepatitisE
+Phitsanulok,3-3,0,2003,HepatitisE
+Sukhothai,3-3,0,2003,HepatitisE
+Tak,3-3,0,2003,HepatitisE
+Uttaradit,3-3,0,2003,HepatitisE
+Zone:3,3-3,0,2003,HepatitisE
+Kamphaeng Phet,3-3,0,2003,HepatitisE
+Nakhon Sawan,3-3,0,2003,HepatitisE
+Phichit,3-3,0,2003,HepatitisE
+Uthai Thani,3-3,0,2003,HepatitisE
+Central Region,3-3,0,2003,HepatitisE
+Bangkok,3-3,0,2003,HepatitisE
+Zone:4,3-3,0,2003,HepatitisE
+Ang Thong,3-3,0,2003,HepatitisE
+Nonthaburi,3-3,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,3-3,0,2003,HepatitisE
+Pathum Thani,3-3,0,2003,HepatitisE
+Zone:5,3-3,0,2003,HepatitisE
+Chai Nat,3-3,0,2003,HepatitisE
+Lop Buri,3-3,0,2003,HepatitisE
+Saraburi,3-3,0,2003,HepatitisE
+Sing Buri,3-3,0,2003,HepatitisE
+Zone:6,3-3,0,2003,HepatitisE
+Kanchanaburi,3-3,0,2003,HepatitisE
+Nakhon Pathom,3-3,0,2003,HepatitisE
+Ratchaburi,3-3,0,2003,HepatitisE
+Suphan Buri,3-3,0,2003,HepatitisE
+Zone:7,3-3,0,2003,HepatitisE
+Phetchaburi,3-3,0,2003,HepatitisE
+Prachuap Khiri Khan,3-3,0,2003,HepatitisE
+Samut Sakhon,3-3,0,2003,HepatitisE
+Samut Songkhram,3-3,0,2003,HepatitisE
+Zone:8,3-3,0,2003,HepatitisE
+Chachoengsao,3-3,0,2003,HepatitisE
+Nakhon Nayok,3-3,0,2003,HepatitisE
+Prachin Buri,3-3,0,2003,HepatitisE
+Sa Kaeo,3-3,0,2003,HepatitisE
+Samut Prakan,3-3,0,2003,HepatitisE
+Zone:9,3-3,0,2003,HepatitisE
+Chanthaburi,3-3,0,2003,HepatitisE
+Chon Buri,3-3,0,2003,HepatitisE
+Rayong,3-3,0,2003,HepatitisE
+Trat,3-3,0,2003,HepatitisE
+North-Eastern Region,3-3,0,2003,HepatitisE
+Zone:10,3-3,0,2003,HepatitisE
+Loei,3-3,0,2003,HepatitisE
+Nong Bua Lam Phu,3-3,0,2003,HepatitisE
+Nong Khai,3-3,0,2003,HepatitisE
+Udon Thani,3-3,0,2003,HepatitisE
+Zone:11,3-3,0,2003,HepatitisE
+Kalasin,3-3,0,2003,HepatitisE
+Mukdahan,3-3,0,2003,HepatitisE
+Nakhon Phanom,3-3,0,2003,HepatitisE
+Sakon Nakhon,3-3,0,2003,HepatitisE
+Zone:12,3-3,0,2003,HepatitisE
+Khon Kaen,3-3,0,2003,HepatitisE
+Maha Sarakham,3-3,0,2003,HepatitisE
+Roi Et,3-3,0,2003,HepatitisE
+Zone:13,3-3,0,2003,HepatitisE
+Buri Ram,3-3,0,2003,HepatitisE
+Chaiyaphum,3-3,0,2003,HepatitisE
+Nakhon Ratchasima,3-3,0,2003,HepatitisE
+Surin,3-3,0,2003,HepatitisE
+Zone:14,3-3,0,2003,HepatitisE
+Amnat Charoen,3-3,0,2003,HepatitisE
+Si Sa Ket,3-3,0,2003,HepatitisE
+Ubon Ratchathani,3-3,0,2003,HepatitisE
+Yasothon,3-3,0,2003,HepatitisE
+South Region,3-3,0,2003,HepatitisE
+Zone:15,3-3,0,2003,HepatitisE
+Chumphon,3-3,0,2003,HepatitisE
+Ranong,3-3,0,2003,HepatitisE
+Surat Thani,3-3,0,2003,HepatitisE
+Zone:16,3-3,0,2003,HepatitisE
+Nakhon Si Thammarat,3-3,0,2003,HepatitisE
+Phatthalung,3-3,0,2003,HepatitisE
+Trang,3-3,0,2003,HepatitisE
+Zone:17,3-3,0,2003,HepatitisE
+Krabi,3-3,0,2003,HepatitisE
+Phangnga,3-3,0,2003,HepatitisE
+Phuket,3-3,0,2003,HepatitisE
+Zone:18,3-3,0,2003,HepatitisE
+Narathiwat,3-3,0,2003,HepatitisE
+Pattani,3-3,0,2003,HepatitisE
+Yala,3-3,0,2003,HepatitisE
+Zone:19,3-3,0,2003,HepatitisE
+Satun,3-3,0,2003,HepatitisE
+Songkhla,3-3,0,2003,HepatitisE
+Total,4-4,0,2003,HepatitisE
+North Region,4-4,0,2003,HepatitisE
+Zone:1,4-4,0,2003,HepatitisE
+Chiang Mai,4-4,0,2003,HepatitisE
+Chiang Rai,4-4,0,2003,HepatitisE
+Lampang,4-4,0,2003,HepatitisE
+Lamphun,4-4,0,2003,HepatitisE
+Mae Hong Son,4-4,0,2003,HepatitisE
+Nan,4-4,0,2003,HepatitisE
+Phayao,4-4,0,2003,HepatitisE
+Phrae,4-4,0,2003,HepatitisE
+Zone:2,4-4,0,2003,HepatitisE
+Phetchabun,4-4,0,2003,HepatitisE
+Phitsanulok,4-4,0,2003,HepatitisE
+Sukhothai,4-4,0,2003,HepatitisE
+Tak,4-4,0,2003,HepatitisE
+Uttaradit,4-4,0,2003,HepatitisE
+Zone:3,4-4,0,2003,HepatitisE
+Kamphaeng Phet,4-4,0,2003,HepatitisE
+Nakhon Sawan,4-4,0,2003,HepatitisE
+Phichit,4-4,0,2003,HepatitisE
+Uthai Thani,4-4,0,2003,HepatitisE
+Central Region,4-4,0,2003,HepatitisE
+Bangkok,4-4,0,2003,HepatitisE
+Zone:4,4-4,0,2003,HepatitisE
+Ang Thong,4-4,0,2003,HepatitisE
+Nonthaburi,4-4,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,4-4,0,2003,HepatitisE
+Pathum Thani,4-4,0,2003,HepatitisE
+Zone:5,4-4,0,2003,HepatitisE
+Chai Nat,4-4,0,2003,HepatitisE
+Lop Buri,4-4,0,2003,HepatitisE
+Saraburi,4-4,0,2003,HepatitisE
+Sing Buri,4-4,0,2003,HepatitisE
+Zone:6,4-4,0,2003,HepatitisE
+Kanchanaburi,4-4,0,2003,HepatitisE
+Nakhon Pathom,4-4,0,2003,HepatitisE
+Ratchaburi,4-4,0,2003,HepatitisE
+Suphan Buri,4-4,0,2003,HepatitisE
+Zone:7,4-4,0,2003,HepatitisE
+Phetchaburi,4-4,0,2003,HepatitisE
+Prachuap Khiri Khan,4-4,0,2003,HepatitisE
+Samut Sakhon,4-4,0,2003,HepatitisE
+Samut Songkhram,4-4,0,2003,HepatitisE
+Zone:8,4-4,0,2003,HepatitisE
+Chachoengsao,4-4,0,2003,HepatitisE
+Nakhon Nayok,4-4,0,2003,HepatitisE
+Prachin Buri,4-4,0,2003,HepatitisE
+Sa Kaeo,4-4,0,2003,HepatitisE
+Samut Prakan,4-4,0,2003,HepatitisE
+Zone:9,4-4,0,2003,HepatitisE
+Chanthaburi,4-4,0,2003,HepatitisE
+Chon Buri,4-4,0,2003,HepatitisE
+Rayong,4-4,0,2003,HepatitisE
+Trat,4-4,0,2003,HepatitisE
+North-Eastern Region,4-4,0,2003,HepatitisE
+Zone:10,4-4,0,2003,HepatitisE
+Loei,4-4,0,2003,HepatitisE
+Nong Bua Lam Phu,4-4,0,2003,HepatitisE
+Nong Khai,4-4,0,2003,HepatitisE
+Udon Thani,4-4,0,2003,HepatitisE
+Zone:11,4-4,0,2003,HepatitisE
+Kalasin,4-4,0,2003,HepatitisE
+Mukdahan,4-4,0,2003,HepatitisE
+Nakhon Phanom,4-4,0,2003,HepatitisE
+Sakon Nakhon,4-4,0,2003,HepatitisE
+Zone:12,4-4,0,2003,HepatitisE
+Khon Kaen,4-4,0,2003,HepatitisE
+Maha Sarakham,4-4,0,2003,HepatitisE
+Roi Et,4-4,0,2003,HepatitisE
+Zone:13,4-4,0,2003,HepatitisE
+Buri Ram,4-4,0,2003,HepatitisE
+Chaiyaphum,4-4,0,2003,HepatitisE
+Nakhon Ratchasima,4-4,0,2003,HepatitisE
+Surin,4-4,0,2003,HepatitisE
+Zone:14,4-4,0,2003,HepatitisE
+Amnat Charoen,4-4,0,2003,HepatitisE
+Si Sa Ket,4-4,0,2003,HepatitisE
+Ubon Ratchathani,4-4,0,2003,HepatitisE
+Yasothon,4-4,0,2003,HepatitisE
+South Region,4-4,0,2003,HepatitisE
+Zone:15,4-4,0,2003,HepatitisE
+Chumphon,4-4,0,2003,HepatitisE
+Ranong,4-4,0,2003,HepatitisE
+Surat Thani,4-4,0,2003,HepatitisE
+Zone:16,4-4,0,2003,HepatitisE
+Nakhon Si Thammarat,4-4,0,2003,HepatitisE
+Phatthalung,4-4,0,2003,HepatitisE
+Trang,4-4,0,2003,HepatitisE
+Zone:17,4-4,0,2003,HepatitisE
+Krabi,4-4,0,2003,HepatitisE
+Phangnga,4-4,0,2003,HepatitisE
+Phuket,4-4,0,2003,HepatitisE
+Zone:18,4-4,0,2003,HepatitisE
+Narathiwat,4-4,0,2003,HepatitisE
+Pattani,4-4,0,2003,HepatitisE
+Yala,4-4,0,2003,HepatitisE
+Zone:19,4-4,0,2003,HepatitisE
+Satun,4-4,0,2003,HepatitisE
+Songkhla,4-4,0,2003,HepatitisE
+Total,5-5,0,2003,HepatitisE
+North Region,5-5,0,2003,HepatitisE
+Zone:1,5-5,0,2003,HepatitisE
+Chiang Mai,5-5,0,2003,HepatitisE
+Chiang Rai,5-5,0,2003,HepatitisE
+Lampang,5-5,0,2003,HepatitisE
+Lamphun,5-5,0,2003,HepatitisE
+Mae Hong Son,5-5,0,2003,HepatitisE
+Nan,5-5,0,2003,HepatitisE
+Phayao,5-5,0,2003,HepatitisE
+Phrae,5-5,0,2003,HepatitisE
+Zone:2,5-5,0,2003,HepatitisE
+Phetchabun,5-5,0,2003,HepatitisE
+Phitsanulok,5-5,0,2003,HepatitisE
+Sukhothai,5-5,0,2003,HepatitisE
+Tak,5-5,0,2003,HepatitisE
+Uttaradit,5-5,0,2003,HepatitisE
+Zone:3,5-5,0,2003,HepatitisE
+Kamphaeng Phet,5-5,0,2003,HepatitisE
+Nakhon Sawan,5-5,0,2003,HepatitisE
+Phichit,5-5,0,2003,HepatitisE
+Uthai Thani,5-5,0,2003,HepatitisE
+Central Region,5-5,0,2003,HepatitisE
+Bangkok,5-5,0,2003,HepatitisE
+Zone:4,5-5,0,2003,HepatitisE
+Ang Thong,5-5,0,2003,HepatitisE
+Nonthaburi,5-5,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,5-5,0,2003,HepatitisE
+Pathum Thani,5-5,0,2003,HepatitisE
+Zone:5,5-5,0,2003,HepatitisE
+Chai Nat,5-5,0,2003,HepatitisE
+Lop Buri,5-5,0,2003,HepatitisE
+Saraburi,5-5,0,2003,HepatitisE
+Sing Buri,5-5,0,2003,HepatitisE
+Zone:6,5-5,0,2003,HepatitisE
+Kanchanaburi,5-5,0,2003,HepatitisE
+Nakhon Pathom,5-5,0,2003,HepatitisE
+Ratchaburi,5-5,0,2003,HepatitisE
+Suphan Buri,5-5,0,2003,HepatitisE
+Zone:7,5-5,0,2003,HepatitisE
+Phetchaburi,5-5,0,2003,HepatitisE
+Prachuap Khiri Khan,5-5,0,2003,HepatitisE
+Samut Sakhon,5-5,0,2003,HepatitisE
+Samut Songkhram,5-5,0,2003,HepatitisE
+Zone:8,5-5,0,2003,HepatitisE
+Chachoengsao,5-5,0,2003,HepatitisE
+Nakhon Nayok,5-5,0,2003,HepatitisE
+Prachin Buri,5-5,0,2003,HepatitisE
+Sa Kaeo,5-5,0,2003,HepatitisE
+Samut Prakan,5-5,0,2003,HepatitisE
+Zone:9,5-5,0,2003,HepatitisE
+Chanthaburi,5-5,0,2003,HepatitisE
+Chon Buri,5-5,0,2003,HepatitisE
+Rayong,5-5,0,2003,HepatitisE
+Trat,5-5,0,2003,HepatitisE
+North-Eastern Region,5-5,0,2003,HepatitisE
+Zone:10,5-5,0,2003,HepatitisE
+Loei,5-5,0,2003,HepatitisE
+Nong Bua Lam Phu,5-5,0,2003,HepatitisE
+Nong Khai,5-5,0,2003,HepatitisE
+Udon Thani,5-5,0,2003,HepatitisE
+Zone:11,5-5,0,2003,HepatitisE
+Kalasin,5-5,0,2003,HepatitisE
+Mukdahan,5-5,0,2003,HepatitisE
+Nakhon Phanom,5-5,0,2003,HepatitisE
+Sakon Nakhon,5-5,0,2003,HepatitisE
+Zone:12,5-5,0,2003,HepatitisE
+Khon Kaen,5-5,0,2003,HepatitisE
+Maha Sarakham,5-5,0,2003,HepatitisE
+Roi Et,5-5,0,2003,HepatitisE
+Zone:13,5-5,0,2003,HepatitisE
+Buri Ram,5-5,0,2003,HepatitisE
+Chaiyaphum,5-5,0,2003,HepatitisE
+Nakhon Ratchasima,5-5,0,2003,HepatitisE
+Surin,5-5,0,2003,HepatitisE
+Zone:14,5-5,0,2003,HepatitisE
+Amnat Charoen,5-5,0,2003,HepatitisE
+Si Sa Ket,5-5,0,2003,HepatitisE
+Ubon Ratchathani,5-5,0,2003,HepatitisE
+Yasothon,5-5,0,2003,HepatitisE
+South Region,5-5,0,2003,HepatitisE
+Zone:15,5-5,0,2003,HepatitisE
+Chumphon,5-5,0,2003,HepatitisE
+Ranong,5-5,0,2003,HepatitisE
+Surat Thani,5-5,0,2003,HepatitisE
+Zone:16,5-5,0,2003,HepatitisE
+Nakhon Si Thammarat,5-5,0,2003,HepatitisE
+Phatthalung,5-5,0,2003,HepatitisE
+Trang,5-5,0,2003,HepatitisE
+Zone:17,5-5,0,2003,HepatitisE
+Krabi,5-5,0,2003,HepatitisE
+Phangnga,5-5,0,2003,HepatitisE
+Phuket,5-5,0,2003,HepatitisE
+Zone:18,5-5,0,2003,HepatitisE
+Narathiwat,5-5,0,2003,HepatitisE
+Pattani,5-5,0,2003,HepatitisE
+Yala,5-5,0,2003,HepatitisE
+Zone:19,5-5,0,2003,HepatitisE
+Satun,5-5,0,2003,HepatitisE
+Songkhla,5-5,0,2003,HepatitisE
+Total,6-78,0,2003,HepatitisE
+North Region,6-78,0,2003,HepatitisE
+Zone:1,6-78,0,2003,HepatitisE
+Chiang Mai,6-78,0,2003,HepatitisE
+Chiang Rai,6-78,0,2003,HepatitisE
+Lampang,6-78,0,2003,HepatitisE
+Lamphun,6-78,0,2003,HepatitisE
+Mae Hong Son,6-78,0,2003,HepatitisE
+Nan,6-78,0,2003,HepatitisE
+Phayao,6-78,0,2003,HepatitisE
+Phrae,6-78,0,2003,HepatitisE
+Zone:2,6-78,0,2003,HepatitisE
+Phetchabun,6-78,0,2003,HepatitisE
+Phitsanulok,6-78,0,2003,HepatitisE
+Sukhothai,6-78,0,2003,HepatitisE
+Tak,6-78,0,2003,HepatitisE
+Uttaradit,6-78,0,2003,HepatitisE
+Zone:3,6-78,0,2003,HepatitisE
+Kamphaeng Phet,6-78,0,2003,HepatitisE
+Nakhon Sawan,6-78,0,2003,HepatitisE
+Phichit,6-78,0,2003,HepatitisE
+Uthai Thani,6-78,0,2003,HepatitisE
+Central Region,6-78,0,2003,HepatitisE
+Bangkok,6-78,0,2003,HepatitisE
+Zone:4,6-78,0,2003,HepatitisE
+Ang Thong,6-78,0,2003,HepatitisE
+Nonthaburi,6-78,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,6-78,0,2003,HepatitisE
+Pathum Thani,6-78,0,2003,HepatitisE
+Zone:5,6-78,0,2003,HepatitisE
+Chai Nat,6-78,0,2003,HepatitisE
+Lop Buri,6-78,0,2003,HepatitisE
+Saraburi,6-78,0,2003,HepatitisE
+Sing Buri,6-78,0,2003,HepatitisE
+Zone:6,6-78,0,2003,HepatitisE
+Kanchanaburi,6-78,0,2003,HepatitisE
+Nakhon Pathom,6-78,0,2003,HepatitisE
+Ratchaburi,6-78,0,2003,HepatitisE
+Suphan Buri,6-78,0,2003,HepatitisE
+Zone:7,6-78,0,2003,HepatitisE
+Phetchaburi,6-78,0,2003,HepatitisE
+Prachuap Khiri Khan,6-78,0,2003,HepatitisE
+Samut Sakhon,6-78,0,2003,HepatitisE
+Samut Songkhram,6-78,0,2003,HepatitisE
+Zone:8,6-78,0,2003,HepatitisE
+Chachoengsao,6-78,0,2003,HepatitisE
+Nakhon Nayok,6-78,0,2003,HepatitisE
+Prachin Buri,6-78,0,2003,HepatitisE
+Sa Kaeo,6-78,0,2003,HepatitisE
+Samut Prakan,6-78,0,2003,HepatitisE
+Zone:9,6-78,0,2003,HepatitisE
+Chanthaburi,6-78,0,2003,HepatitisE
+Chon Buri,6-78,0,2003,HepatitisE
+Rayong,6-78,0,2003,HepatitisE
+Trat,6-78,0,2003,HepatitisE
+North-Eastern Region,6-78,0,2003,HepatitisE
+Zone:10,6-78,0,2003,HepatitisE
+Loei,6-78,0,2003,HepatitisE
+Nong Bua Lam Phu,6-78,0,2003,HepatitisE
+Nong Khai,6-78,0,2003,HepatitisE
+Udon Thani,6-78,0,2003,HepatitisE
+Zone:11,6-78,0,2003,HepatitisE
+Kalasin,6-78,0,2003,HepatitisE
+Mukdahan,6-78,0,2003,HepatitisE
+Nakhon Phanom,6-78,0,2003,HepatitisE
+Sakon Nakhon,6-78,0,2003,HepatitisE
+Zone:12,6-78,0,2003,HepatitisE
+Khon Kaen,6-78,0,2003,HepatitisE
+Maha Sarakham,6-78,0,2003,HepatitisE
+Roi Et,6-78,0,2003,HepatitisE
+Zone:13,6-78,0,2003,HepatitisE
+Buri Ram,6-78,0,2003,HepatitisE
+Chaiyaphum,6-78,0,2003,HepatitisE
+Nakhon Ratchasima,6-78,0,2003,HepatitisE
+Surin,6-78,0,2003,HepatitisE
+Zone:14,6-78,0,2003,HepatitisE
+Amnat Charoen,6-78,0,2003,HepatitisE
+Si Sa Ket,6-78,0,2003,HepatitisE
+Ubon Ratchathani,6-78,0,2003,HepatitisE
+Yasothon,6-78,0,2003,HepatitisE
+South Region,6-78,0,2003,HepatitisE
+Zone:15,6-78,0,2003,HepatitisE
+Chumphon,6-78,0,2003,HepatitisE
+Ranong,6-78,0,2003,HepatitisE
+Surat Thani,6-78,0,2003,HepatitisE
+Zone:16,6-78,0,2003,HepatitisE
+Nakhon Si Thammarat,6-78,0,2003,HepatitisE
+Phatthalung,6-78,0,2003,HepatitisE
+Trang,6-78,0,2003,HepatitisE
+Zone:17,6-78,0,2003,HepatitisE
+Krabi,6-78,0,2003,HepatitisE
+Phangnga,6-78,0,2003,HepatitisE
+Phuket,6-78,0,2003,HepatitisE
+Zone:18,6-78,0,2003,HepatitisE
+Narathiwat,6-78,0,2003,HepatitisE
+Pattani,6-78,0,2003,HepatitisE
+Yala,6-78,0,2003,HepatitisE
+Zone:19,6-78,0,2003,HepatitisE
+Satun,6-78,0,2003,HepatitisE
+Songkhla,6-78,0,2003,HepatitisE
+Total,7-9,0,2003,HepatitisE
+North Region,7-9,0,2003,HepatitisE
+Zone:1,7-9,0,2003,HepatitisE
+Chiang Mai,7-9,0,2003,HepatitisE
+Chiang Rai,7-9,0,2003,HepatitisE
+Lampang,7-9,0,2003,HepatitisE
+Lamphun,7-9,0,2003,HepatitisE
+Mae Hong Son,7-9,0,2003,HepatitisE
+Nan,7-9,0,2003,HepatitisE
+Phayao,7-9,0,2003,HepatitisE
+Phrae,7-9,0,2003,HepatitisE
+Zone:2,7-9,0,2003,HepatitisE
+Phetchabun,7-9,0,2003,HepatitisE
+Phitsanulok,7-9,0,2003,HepatitisE
+Sukhothai,7-9,0,2003,HepatitisE
+Tak,7-9,0,2003,HepatitisE
+Uttaradit,7-9,0,2003,HepatitisE
+Zone:3,7-9,0,2003,HepatitisE
+Kamphaeng Phet,7-9,0,2003,HepatitisE
+Nakhon Sawan,7-9,0,2003,HepatitisE
+Phichit,7-9,0,2003,HepatitisE
+Uthai Thani,7-9,0,2003,HepatitisE
+Central Region,7-9,0,2003,HepatitisE
+Bangkok,7-9,0,2003,HepatitisE
+Zone:4,7-9,0,2003,HepatitisE
+Ang Thong,7-9,0,2003,HepatitisE
+Nonthaburi,7-9,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,7-9,0,2003,HepatitisE
+Pathum Thani,7-9,0,2003,HepatitisE
+Zone:5,7-9,0,2003,HepatitisE
+Chai Nat,7-9,0,2003,HepatitisE
+Lop Buri,7-9,0,2003,HepatitisE
+Saraburi,7-9,0,2003,HepatitisE
+Sing Buri,7-9,0,2003,HepatitisE
+Zone:6,7-9,0,2003,HepatitisE
+Kanchanaburi,7-9,0,2003,HepatitisE
+Nakhon Pathom,7-9,0,2003,HepatitisE
+Ratchaburi,7-9,0,2003,HepatitisE
+Suphan Buri,7-9,0,2003,HepatitisE
+Zone:7,7-9,0,2003,HepatitisE
+Phetchaburi,7-9,0,2003,HepatitisE
+Prachuap Khiri Khan,7-9,0,2003,HepatitisE
+Samut Sakhon,7-9,0,2003,HepatitisE
+Samut Songkhram,7-9,0,2003,HepatitisE
+Zone:8,7-9,0,2003,HepatitisE
+Chachoengsao,7-9,0,2003,HepatitisE
+Nakhon Nayok,7-9,0,2003,HepatitisE
+Prachin Buri,7-9,0,2003,HepatitisE
+Sa Kaeo,7-9,0,2003,HepatitisE
+Samut Prakan,7-9,0,2003,HepatitisE
+Zone:9,7-9,0,2003,HepatitisE
+Chanthaburi,7-9,0,2003,HepatitisE
+Chon Buri,7-9,0,2003,HepatitisE
+Rayong,7-9,0,2003,HepatitisE
+Trat,7-9,0,2003,HepatitisE
+North-Eastern Region,7-9,0,2003,HepatitisE
+Zone:10,7-9,0,2003,HepatitisE
+Loei,7-9,0,2003,HepatitisE
+Nong Bua Lam Phu,7-9,0,2003,HepatitisE
+Nong Khai,7-9,0,2003,HepatitisE
+Udon Thani,7-9,0,2003,HepatitisE
+Zone:11,7-9,0,2003,HepatitisE
+Kalasin,7-9,0,2003,HepatitisE
+Mukdahan,7-9,0,2003,HepatitisE
+Nakhon Phanom,7-9,0,2003,HepatitisE
+Sakon Nakhon,7-9,0,2003,HepatitisE
+Zone:12,7-9,0,2003,HepatitisE
+Khon Kaen,7-9,0,2003,HepatitisE
+Maha Sarakham,7-9,0,2003,HepatitisE
+Roi Et,7-9,0,2003,HepatitisE
+Zone:13,7-9,0,2003,HepatitisE
+Buri Ram,7-9,0,2003,HepatitisE
+Chaiyaphum,7-9,0,2003,HepatitisE
+Nakhon Ratchasima,7-9,0,2003,HepatitisE
+Surin,7-9,0,2003,HepatitisE
+Zone:14,7-9,0,2003,HepatitisE
+Amnat Charoen,7-9,0,2003,HepatitisE
+Si Sa Ket,7-9,0,2003,HepatitisE
+Ubon Ratchathani,7-9,0,2003,HepatitisE
+Yasothon,7-9,0,2003,HepatitisE
+South Region,7-9,0,2003,HepatitisE
+Zone:15,7-9,0,2003,HepatitisE
+Chumphon,7-9,0,2003,HepatitisE
+Ranong,7-9,0,2003,HepatitisE
+Surat Thani,7-9,0,2003,HepatitisE
+Zone:16,7-9,0,2003,HepatitisE
+Nakhon Si Thammarat,7-9,0,2003,HepatitisE
+Phatthalung,7-9,0,2003,HepatitisE
+Trang,7-9,0,2003,HepatitisE
+Zone:17,7-9,0,2003,HepatitisE
+Krabi,7-9,0,2003,HepatitisE
+Phangnga,7-9,0,2003,HepatitisE
+Phuket,7-9,0,2003,HepatitisE
+Zone:18,7-9,0,2003,HepatitisE
+Narathiwat,7-9,0,2003,HepatitisE
+Pattani,7-9,0,2003,HepatitisE
+Yala,7-9,0,2003,HepatitisE
+Zone:19,7-9,0,2003,HepatitisE
+Satun,7-9,0,2003,HepatitisE
+Songkhla,7-9,0,2003,HepatitisE
+Total,10-14,2,2003,HepatitisE
+North Region,10-14,2,2003,HepatitisE
+Zone:1,10-14,1,2003,HepatitisE
+Chiang Mai,10-14,0,2003,HepatitisE
+Chiang Rai,10-14,0,2003,HepatitisE
+Lampang,10-14,0,2003,HepatitisE
+Lamphun,10-14,0,2003,HepatitisE
+Mae Hong Son,10-14,0,2003,HepatitisE
+Nan,10-14,1,2003,HepatitisE
+Phayao,10-14,0,2003,HepatitisE
+Phrae,10-14,0,2003,HepatitisE
+Zone:2,10-14,0,2003,HepatitisE
+Phetchabun,10-14,0,2003,HepatitisE
+Phitsanulok,10-14,0,2003,HepatitisE
+Sukhothai,10-14,0,2003,HepatitisE
+Tak,10-14,0,2003,HepatitisE
+Uttaradit,10-14,0,2003,HepatitisE
+Zone:3,10-14,1,2003,HepatitisE
+Kamphaeng Phet,10-14,1,2003,HepatitisE
+Nakhon Sawan,10-14,0,2003,HepatitisE
+Phichit,10-14,0,2003,HepatitisE
+Uthai Thani,10-14,0,2003,HepatitisE
+Central Region,10-14,0,2003,HepatitisE
+Bangkok,10-14,0,2003,HepatitisE
+Zone:4,10-14,0,2003,HepatitisE
+Ang Thong,10-14,0,2003,HepatitisE
+Nonthaburi,10-14,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,10-14,0,2003,HepatitisE
+Pathum Thani,10-14,0,2003,HepatitisE
+Zone:5,10-14,0,2003,HepatitisE
+Chai Nat,10-14,0,2003,HepatitisE
+Lop Buri,10-14,0,2003,HepatitisE
+Saraburi,10-14,0,2003,HepatitisE
+Sing Buri,10-14,0,2003,HepatitisE
+Zone:6,10-14,0,2003,HepatitisE
+Kanchanaburi,10-14,0,2003,HepatitisE
+Nakhon Pathom,10-14,0,2003,HepatitisE
+Ratchaburi,10-14,0,2003,HepatitisE
+Suphan Buri,10-14,0,2003,HepatitisE
+Zone:7,10-14,0,2003,HepatitisE
+Phetchaburi,10-14,0,2003,HepatitisE
+Prachuap Khiri Khan,10-14,0,2003,HepatitisE
+Samut Sakhon,10-14,0,2003,HepatitisE
+Samut Songkhram,10-14,0,2003,HepatitisE
+Zone:8,10-14,0,2003,HepatitisE
+Chachoengsao,10-14,0,2003,HepatitisE
+Nakhon Nayok,10-14,0,2003,HepatitisE
+Prachin Buri,10-14,0,2003,HepatitisE
+Sa Kaeo,10-14,0,2003,HepatitisE
+Samut Prakan,10-14,0,2003,HepatitisE
+Zone:9,10-14,0,2003,HepatitisE
+Chanthaburi,10-14,0,2003,HepatitisE
+Chon Buri,10-14,0,2003,HepatitisE
+Rayong,10-14,0,2003,HepatitisE
+Trat,10-14,0,2003,HepatitisE
+North-Eastern Region,10-14,0,2003,HepatitisE
+Zone:10,10-14,0,2003,HepatitisE
+Loei,10-14,0,2003,HepatitisE
+Nong Bua Lam Phu,10-14,0,2003,HepatitisE
+Nong Khai,10-14,0,2003,HepatitisE
+Udon Thani,10-14,0,2003,HepatitisE
+Zone:11,10-14,0,2003,HepatitisE
+Kalasin,10-14,0,2003,HepatitisE
+Mukdahan,10-14,0,2003,HepatitisE
+Nakhon Phanom,10-14,0,2003,HepatitisE
+Sakon Nakhon,10-14,0,2003,HepatitisE
+Zone:12,10-14,0,2003,HepatitisE
+Khon Kaen,10-14,0,2003,HepatitisE
+Maha Sarakham,10-14,0,2003,HepatitisE
+Roi Et,10-14,0,2003,HepatitisE
+Zone:13,10-14,0,2003,HepatitisE
+Buri Ram,10-14,0,2003,HepatitisE
+Chaiyaphum,10-14,0,2003,HepatitisE
+Nakhon Ratchasima,10-14,0,2003,HepatitisE
+Surin,10-14,0,2003,HepatitisE
+Zone:14,10-14,0,2003,HepatitisE
+Amnat Charoen,10-14,0,2003,HepatitisE
+Si Sa Ket,10-14,0,2003,HepatitisE
+Ubon Ratchathani,10-14,0,2003,HepatitisE
+Yasothon,10-14,0,2003,HepatitisE
+South Region,10-14,0,2003,HepatitisE
+Zone:15,10-14,0,2003,HepatitisE
+Chumphon,10-14,0,2003,HepatitisE
+Ranong,10-14,0,2003,HepatitisE
+Surat Thani,10-14,0,2003,HepatitisE
+Zone:16,10-14,0,2003,HepatitisE
+Nakhon Si Thammarat,10-14,0,2003,HepatitisE
+Phatthalung,10-14,0,2003,HepatitisE
+Trang,10-14,0,2003,HepatitisE
+Zone:17,10-14,0,2003,HepatitisE
+Krabi,10-14,0,2003,HepatitisE
+Phangnga,10-14,0,2003,HepatitisE
+Phuket,10-14,0,2003,HepatitisE
+Zone:18,10-14,0,2003,HepatitisE
+Narathiwat,10-14,0,2003,HepatitisE
+Pattani,10-14,0,2003,HepatitisE
+Yala,10-14,0,2003,HepatitisE
+Zone:19,10-14,0,2003,HepatitisE
+Satun,10-14,0,2003,HepatitisE
+Songkhla,10-14,0,2003,HepatitisE
+Total,15-24,2,2003,HepatitisE
+North Region,15-24,1,2003,HepatitisE
+Zone:1,15-24,0,2003,HepatitisE
+Chiang Mai,15-24,0,2003,HepatitisE
+Chiang Rai,15-24,0,2003,HepatitisE
+Lampang,15-24,0,2003,HepatitisE
+Lamphun,15-24,0,2003,HepatitisE
+Mae Hong Son,15-24,0,2003,HepatitisE
+Nan,15-24,0,2003,HepatitisE
+Phayao,15-24,0,2003,HepatitisE
+Phrae,15-24,0,2003,HepatitisE
+Zone:2,15-24,1,2003,HepatitisE
+Phetchabun,15-24,1,2003,HepatitisE
+Phitsanulok,15-24,0,2003,HepatitisE
+Sukhothai,15-24,0,2003,HepatitisE
+Tak,15-24,0,2003,HepatitisE
+Uttaradit,15-24,0,2003,HepatitisE
+Zone:3,15-24,0,2003,HepatitisE
+Kamphaeng Phet,15-24,0,2003,HepatitisE
+Nakhon Sawan,15-24,0,2003,HepatitisE
+Phichit,15-24,0,2003,HepatitisE
+Uthai Thani,15-24,0,2003,HepatitisE
+Central Region,15-24,1,2003,HepatitisE
+Bangkok,15-24,0,2003,HepatitisE
+Zone:4,15-24,0,2003,HepatitisE
+Ang Thong,15-24,0,2003,HepatitisE
+Nonthaburi,15-24,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,15-24,0,2003,HepatitisE
+Pathum Thani,15-24,0,2003,HepatitisE
+Zone:5,15-24,0,2003,HepatitisE
+Chai Nat,15-24,0,2003,HepatitisE
+Lop Buri,15-24,0,2003,HepatitisE
+Saraburi,15-24,0,2003,HepatitisE
+Sing Buri,15-24,0,2003,HepatitisE
+Zone:6,15-24,0,2003,HepatitisE
+Kanchanaburi,15-24,0,2003,HepatitisE
+Nakhon Pathom,15-24,0,2003,HepatitisE
+Ratchaburi,15-24,0,2003,HepatitisE
+Suphan Buri,15-24,0,2003,HepatitisE
+Zone:7,15-24,0,2003,HepatitisE
+Phetchaburi,15-24,0,2003,HepatitisE
+Prachuap Khiri Khan,15-24,0,2003,HepatitisE
+Samut Sakhon,15-24,0,2003,HepatitisE
+Samut Songkhram,15-24,0,2003,HepatitisE
+Zone:8,15-24,0,2003,HepatitisE
+Chachoengsao,15-24,0,2003,HepatitisE
+Nakhon Nayok,15-24,0,2003,HepatitisE
+Prachin Buri,15-24,0,2003,HepatitisE
+Sa Kaeo,15-24,0,2003,HepatitisE
+Samut Prakan,15-24,0,2003,HepatitisE
+Zone:9,15-24,1,2003,HepatitisE
+Chanthaburi,15-24,0,2003,HepatitisE
+Chon Buri,15-24,0,2003,HepatitisE
+Rayong,15-24,0,2003,HepatitisE
+Trat,15-24,1,2003,HepatitisE
+North-Eastern Region,15-24,0,2003,HepatitisE
+Zone:10,15-24,0,2003,HepatitisE
+Loei,15-24,0,2003,HepatitisE
+Nong Bua Lam Phu,15-24,0,2003,HepatitisE
+Nong Khai,15-24,0,2003,HepatitisE
+Udon Thani,15-24,0,2003,HepatitisE
+Zone:11,15-24,0,2003,HepatitisE
+Kalasin,15-24,0,2003,HepatitisE
+Mukdahan,15-24,0,2003,HepatitisE
+Nakhon Phanom,15-24,0,2003,HepatitisE
+Sakon Nakhon,15-24,0,2003,HepatitisE
+Zone:12,15-24,0,2003,HepatitisE
+Khon Kaen,15-24,0,2003,HepatitisE
+Maha Sarakham,15-24,0,2003,HepatitisE
+Roi Et,15-24,0,2003,HepatitisE
+Zone:13,15-24,0,2003,HepatitisE
+Buri Ram,15-24,0,2003,HepatitisE
+Chaiyaphum,15-24,0,2003,HepatitisE
+Nakhon Ratchasima,15-24,0,2003,HepatitisE
+Surin,15-24,0,2003,HepatitisE
+Zone:14,15-24,0,2003,HepatitisE
+Amnat Charoen,15-24,0,2003,HepatitisE
+Si Sa Ket,15-24,0,2003,HepatitisE
+Ubon Ratchathani,15-24,0,2003,HepatitisE
+Yasothon,15-24,0,2003,HepatitisE
+South Region,15-24,0,2003,HepatitisE
+Zone:15,15-24,0,2003,HepatitisE
+Chumphon,15-24,0,2003,HepatitisE
+Ranong,15-24,0,2003,HepatitisE
+Surat Thani,15-24,0,2003,HepatitisE
+Zone:16,15-24,0,2003,HepatitisE
+Nakhon Si Thammarat,15-24,0,2003,HepatitisE
+Phatthalung,15-24,0,2003,HepatitisE
+Trang,15-24,0,2003,HepatitisE
+Zone:17,15-24,0,2003,HepatitisE
+Krabi,15-24,0,2003,HepatitisE
+Phangnga,15-24,0,2003,HepatitisE
+Phuket,15-24,0,2003,HepatitisE
+Zone:18,15-24,0,2003,HepatitisE
+Narathiwat,15-24,0,2003,HepatitisE
+Pattani,15-24,0,2003,HepatitisE
+Yala,15-24,0,2003,HepatitisE
+Zone:19,15-24,0,2003,HepatitisE
+Satun,15-24,0,2003,HepatitisE
+Songkhla,15-24,0,2003,HepatitisE
+Total,25-34,2,2003,HepatitisE
+North Region,25-34,2,2003,HepatitisE
+Zone:1,25-34,0,2003,HepatitisE
+Chiang Mai,25-34,0,2003,HepatitisE
+Chiang Rai,25-34,0,2003,HepatitisE
+Lampang,25-34,0,2003,HepatitisE
+Lamphun,25-34,0,2003,HepatitisE
+Mae Hong Son,25-34,0,2003,HepatitisE
+Nan,25-34,0,2003,HepatitisE
+Phayao,25-34,0,2003,HepatitisE
+Phrae,25-34,0,2003,HepatitisE
+Zone:2,25-34,1,2003,HepatitisE
+Phetchabun,25-34,0,2003,HepatitisE
+Phitsanulok,25-34,0,2003,HepatitisE
+Sukhothai,25-34,0,2003,HepatitisE
+Tak,25-34,1,2003,HepatitisE
+Uttaradit,25-34,0,2003,HepatitisE
+Zone:3,25-34,1,2003,HepatitisE
+Kamphaeng Phet,25-34,1,2003,HepatitisE
+Nakhon Sawan,25-34,0,2003,HepatitisE
+Phichit,25-34,0,2003,HepatitisE
+Uthai Thani,25-34,0,2003,HepatitisE
+Central Region,25-34,0,2003,HepatitisE
+Bangkok,25-34,0,2003,HepatitisE
+Zone:4,25-34,0,2003,HepatitisE
+Ang Thong,25-34,0,2003,HepatitisE
+Nonthaburi,25-34,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,25-34,0,2003,HepatitisE
+Pathum Thani,25-34,0,2003,HepatitisE
+Zone:5,25-34,0,2003,HepatitisE
+Chai Nat,25-34,0,2003,HepatitisE
+Lop Buri,25-34,0,2003,HepatitisE
+Saraburi,25-34,0,2003,HepatitisE
+Sing Buri,25-34,0,2003,HepatitisE
+Zone:6,25-34,0,2003,HepatitisE
+Kanchanaburi,25-34,0,2003,HepatitisE
+Nakhon Pathom,25-34,0,2003,HepatitisE
+Ratchaburi,25-34,0,2003,HepatitisE
+Suphan Buri,25-34,0,2003,HepatitisE
+Zone:7,25-34,0,2003,HepatitisE
+Phetchaburi,25-34,0,2003,HepatitisE
+Prachuap Khiri Khan,25-34,0,2003,HepatitisE
+Samut Sakhon,25-34,0,2003,HepatitisE
+Samut Songkhram,25-34,0,2003,HepatitisE
+Zone:8,25-34,0,2003,HepatitisE
+Chachoengsao,25-34,0,2003,HepatitisE
+Nakhon Nayok,25-34,0,2003,HepatitisE
+Prachin Buri,25-34,0,2003,HepatitisE
+Sa Kaeo,25-34,0,2003,HepatitisE
+Samut Prakan,25-34,0,2003,HepatitisE
+Zone:9,25-34,0,2003,HepatitisE
+Chanthaburi,25-34,0,2003,HepatitisE
+Chon Buri,25-34,0,2003,HepatitisE
+Rayong,25-34,0,2003,HepatitisE
+Trat,25-34,0,2003,HepatitisE
+North-Eastern Region,25-34,0,2003,HepatitisE
+Zone:10,25-34,0,2003,HepatitisE
+Loei,25-34,0,2003,HepatitisE
+Nong Bua Lam Phu,25-34,0,2003,HepatitisE
+Nong Khai,25-34,0,2003,HepatitisE
+Udon Thani,25-34,0,2003,HepatitisE
+Zone:11,25-34,0,2003,HepatitisE
+Kalasin,25-34,0,2003,HepatitisE
+Mukdahan,25-34,0,2003,HepatitisE
+Nakhon Phanom,25-34,0,2003,HepatitisE
+Sakon Nakhon,25-34,0,2003,HepatitisE
+Zone:12,25-34,0,2003,HepatitisE
+Khon Kaen,25-34,0,2003,HepatitisE
+Maha Sarakham,25-34,0,2003,HepatitisE
+Roi Et,25-34,0,2003,HepatitisE
+Zone:13,25-34,0,2003,HepatitisE
+Buri Ram,25-34,0,2003,HepatitisE
+Chaiyaphum,25-34,0,2003,HepatitisE
+Nakhon Ratchasima,25-34,0,2003,HepatitisE
+Surin,25-34,0,2003,HepatitisE
+Zone:14,25-34,0,2003,HepatitisE
+Amnat Charoen,25-34,0,2003,HepatitisE
+Si Sa Ket,25-34,0,2003,HepatitisE
+Ubon Ratchathani,25-34,0,2003,HepatitisE
+Yasothon,25-34,0,2003,HepatitisE
+South Region,25-34,0,2003,HepatitisE
+Zone:15,25-34,0,2003,HepatitisE
+Chumphon,25-34,0,2003,HepatitisE
+Ranong,25-34,0,2003,HepatitisE
+Surat Thani,25-34,0,2003,HepatitisE
+Zone:16,25-34,0,2003,HepatitisE
+Nakhon Si Thammarat,25-34,0,2003,HepatitisE
+Phatthalung,25-34,0,2003,HepatitisE
+Trang,25-34,0,2003,HepatitisE
+Zone:17,25-34,0,2003,HepatitisE
+Krabi,25-34,0,2003,HepatitisE
+Phangnga,25-34,0,2003,HepatitisE
+Phuket,25-34,0,2003,HepatitisE
+Zone:18,25-34,0,2003,HepatitisE
+Narathiwat,25-34,0,2003,HepatitisE
+Pattani,25-34,0,2003,HepatitisE
+Yala,25-34,0,2003,HepatitisE
+Zone:19,25-34,0,2003,HepatitisE
+Satun,25-34,0,2003,HepatitisE
+Songkhla,25-34,0,2003,HepatitisE
+Total,35-44,2,2003,HepatitisE
+North Region,35-44,1,2003,HepatitisE
+Zone:1,35-44,1,2003,HepatitisE
+Chiang Mai,35-44,0,2003,HepatitisE
+Chiang Rai,35-44,0,2003,HepatitisE
+Lampang,35-44,0,2003,HepatitisE
+Lamphun,35-44,0,2003,HepatitisE
+Mae Hong Son,35-44,0,2003,HepatitisE
+Nan,35-44,1,2003,HepatitisE
+Phayao,35-44,0,2003,HepatitisE
+Phrae,35-44,0,2003,HepatitisE
+Zone:2,35-44,0,2003,HepatitisE
+Phetchabun,35-44,0,2003,HepatitisE
+Phitsanulok,35-44,0,2003,HepatitisE
+Sukhothai,35-44,0,2003,HepatitisE
+Tak,35-44,0,2003,HepatitisE
+Uttaradit,35-44,0,2003,HepatitisE
+Zone:3,35-44,0,2003,HepatitisE
+Kamphaeng Phet,35-44,0,2003,HepatitisE
+Nakhon Sawan,35-44,0,2003,HepatitisE
+Phichit,35-44,0,2003,HepatitisE
+Uthai Thani,35-44,0,2003,HepatitisE
+Central Region,35-44,1,2003,HepatitisE
+Bangkok,35-44,0,2003,HepatitisE
+Zone:4,35-44,0,2003,HepatitisE
+Ang Thong,35-44,0,2003,HepatitisE
+Nonthaburi,35-44,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,35-44,0,2003,HepatitisE
+Pathum Thani,35-44,0,2003,HepatitisE
+Zone:5,35-44,0,2003,HepatitisE
+Chai Nat,35-44,0,2003,HepatitisE
+Lop Buri,35-44,0,2003,HepatitisE
+Saraburi,35-44,0,2003,HepatitisE
+Sing Buri,35-44,0,2003,HepatitisE
+Zone:6,35-44,0,2003,HepatitisE
+Kanchanaburi,35-44,0,2003,HepatitisE
+Nakhon Pathom,35-44,0,2003,HepatitisE
+Ratchaburi,35-44,0,2003,HepatitisE
+Suphan Buri,35-44,0,2003,HepatitisE
+Zone:7,35-44,0,2003,HepatitisE
+Phetchaburi,35-44,0,2003,HepatitisE
+Prachuap Khiri Khan,35-44,0,2003,HepatitisE
+Samut Sakhon,35-44,0,2003,HepatitisE
+Samut Songkhram,35-44,0,2003,HepatitisE
+Zone:8,35-44,0,2003,HepatitisE
+Chachoengsao,35-44,0,2003,HepatitisE
+Nakhon Nayok,35-44,0,2003,HepatitisE
+Prachin Buri,35-44,0,2003,HepatitisE
+Sa Kaeo,35-44,0,2003,HepatitisE
+Samut Prakan,35-44,0,2003,HepatitisE
+Zone:9,35-44,1,2003,HepatitisE
+Chanthaburi,35-44,1,2003,HepatitisE
+Chon Buri,35-44,0,2003,HepatitisE
+Rayong,35-44,0,2003,HepatitisE
+Trat,35-44,0,2003,HepatitisE
+North-Eastern Region,35-44,0,2003,HepatitisE
+Zone:10,35-44,0,2003,HepatitisE
+Loei,35-44,0,2003,HepatitisE
+Nong Bua Lam Phu,35-44,0,2003,HepatitisE
+Nong Khai,35-44,0,2003,HepatitisE
+Udon Thani,35-44,0,2003,HepatitisE
+Zone:11,35-44,0,2003,HepatitisE
+Kalasin,35-44,0,2003,HepatitisE
+Mukdahan,35-44,0,2003,HepatitisE
+Nakhon Phanom,35-44,0,2003,HepatitisE
+Sakon Nakhon,35-44,0,2003,HepatitisE
+Zone:12,35-44,0,2003,HepatitisE
+Khon Kaen,35-44,0,2003,HepatitisE
+Maha Sarakham,35-44,0,2003,HepatitisE
+Roi Et,35-44,0,2003,HepatitisE
+Zone:13,35-44,0,2003,HepatitisE
+Buri Ram,35-44,0,2003,HepatitisE
+Chaiyaphum,35-44,0,2003,HepatitisE
+Nakhon Ratchasima,35-44,0,2003,HepatitisE
+Surin,35-44,0,2003,HepatitisE
+Zone:14,35-44,0,2003,HepatitisE
+Amnat Charoen,35-44,0,2003,HepatitisE
+Si Sa Ket,35-44,0,2003,HepatitisE
+Ubon Ratchathani,35-44,0,2003,HepatitisE
+Yasothon,35-44,0,2003,HepatitisE
+South Region,35-44,0,2003,HepatitisE
+Zone:15,35-44,0,2003,HepatitisE
+Chumphon,35-44,0,2003,HepatitisE
+Ranong,35-44,0,2003,HepatitisE
+Surat Thani,35-44,0,2003,HepatitisE
+Zone:16,35-44,0,2003,HepatitisE
+Nakhon Si Thammarat,35-44,0,2003,HepatitisE
+Phatthalung,35-44,0,2003,HepatitisE
+Trang,35-44,0,2003,HepatitisE
+Zone:17,35-44,0,2003,HepatitisE
+Krabi,35-44,0,2003,HepatitisE
+Phangnga,35-44,0,2003,HepatitisE
+Phuket,35-44,0,2003,HepatitisE
+Zone:18,35-44,0,2003,HepatitisE
+Narathiwat,35-44,0,2003,HepatitisE
+Pattani,35-44,0,2003,HepatitisE
+Yala,35-44,0,2003,HepatitisE
+Zone:19,35-44,0,2003,HepatitisE
+Satun,35-44,0,2003,HepatitisE
+Songkhla,35-44,0,2003,HepatitisE
+Total,45-54,2,2003,HepatitisE
+North Region,45-54,1,2003,HepatitisE
+Zone:1,45-54,1,2003,HepatitisE
+Chiang Mai,45-54,0,2003,HepatitisE
+Chiang Rai,45-54,0,2003,HepatitisE
+Lampang,45-54,0,2003,HepatitisE
+Lamphun,45-54,0,2003,HepatitisE
+Mae Hong Son,45-54,0,2003,HepatitisE
+Nan,45-54,1,2003,HepatitisE
+Phayao,45-54,0,2003,HepatitisE
+Phrae,45-54,0,2003,HepatitisE
+Zone:2,45-54,0,2003,HepatitisE
+Phetchabun,45-54,0,2003,HepatitisE
+Phitsanulok,45-54,0,2003,HepatitisE
+Sukhothai,45-54,0,2003,HepatitisE
+Tak,45-54,0,2003,HepatitisE
+Uttaradit,45-54,0,2003,HepatitisE
+Zone:3,45-54,0,2003,HepatitisE
+Kamphaeng Phet,45-54,0,2003,HepatitisE
+Nakhon Sawan,45-54,0,2003,HepatitisE
+Phichit,45-54,0,2003,HepatitisE
+Uthai Thani,45-54,0,2003,HepatitisE
+Central Region,45-54,1,2003,HepatitisE
+Bangkok,45-54,0,2003,HepatitisE
+Zone:4,45-54,0,2003,HepatitisE
+Ang Thong,45-54,0,2003,HepatitisE
+Nonthaburi,45-54,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,45-54,0,2003,HepatitisE
+Pathum Thani,45-54,0,2003,HepatitisE
+Zone:5,45-54,0,2003,HepatitisE
+Chai Nat,45-54,0,2003,HepatitisE
+Lop Buri,45-54,0,2003,HepatitisE
+Saraburi,45-54,0,2003,HepatitisE
+Sing Buri,45-54,0,2003,HepatitisE
+Zone:6,45-54,0,2003,HepatitisE
+Kanchanaburi,45-54,0,2003,HepatitisE
+Nakhon Pathom,45-54,0,2003,HepatitisE
+Ratchaburi,45-54,0,2003,HepatitisE
+Suphan Buri,45-54,0,2003,HepatitisE
+Zone:7,45-54,0,2003,HepatitisE
+Phetchaburi,45-54,0,2003,HepatitisE
+Prachuap Khiri Khan,45-54,0,2003,HepatitisE
+Samut Sakhon,45-54,0,2003,HepatitisE
+Samut Songkhram,45-54,0,2003,HepatitisE
+Zone:8,45-54,0,2003,HepatitisE
+Chachoengsao,45-54,0,2003,HepatitisE
+Nakhon Nayok,45-54,0,2003,HepatitisE
+Prachin Buri,45-54,0,2003,HepatitisE
+Sa Kaeo,45-54,0,2003,HepatitisE
+Samut Prakan,45-54,0,2003,HepatitisE
+Zone:9,45-54,1,2003,HepatitisE
+Chanthaburi,45-54,0,2003,HepatitisE
+Chon Buri,45-54,0,2003,HepatitisE
+Rayong,45-54,0,2003,HepatitisE
+Trat,45-54,1,2003,HepatitisE
+North-Eastern Region,45-54,0,2003,HepatitisE
+Zone:10,45-54,0,2003,HepatitisE
+Loei,45-54,0,2003,HepatitisE
+Nong Bua Lam Phu,45-54,0,2003,HepatitisE
+Nong Khai,45-54,0,2003,HepatitisE
+Udon Thani,45-54,0,2003,HepatitisE
+Zone:11,45-54,0,2003,HepatitisE
+Kalasin,45-54,0,2003,HepatitisE
+Mukdahan,45-54,0,2003,HepatitisE
+Nakhon Phanom,45-54,0,2003,HepatitisE
+Sakon Nakhon,45-54,0,2003,HepatitisE
+Zone:12,45-54,0,2003,HepatitisE
+Khon Kaen,45-54,0,2003,HepatitisE
+Maha Sarakham,45-54,0,2003,HepatitisE
+Roi Et,45-54,0,2003,HepatitisE
+Zone:13,45-54,0,2003,HepatitisE
+Buri Ram,45-54,0,2003,HepatitisE
+Chaiyaphum,45-54,0,2003,HepatitisE
+Nakhon Ratchasima,45-54,0,2003,HepatitisE
+Surin,45-54,0,2003,HepatitisE
+Zone:14,45-54,0,2003,HepatitisE
+Amnat Charoen,45-54,0,2003,HepatitisE
+Si Sa Ket,45-54,0,2003,HepatitisE
+Ubon Ratchathani,45-54,0,2003,HepatitisE
+Yasothon,45-54,0,2003,HepatitisE
+South Region,45-54,0,2003,HepatitisE
+Zone:15,45-54,0,2003,HepatitisE
+Chumphon,45-54,0,2003,HepatitisE
+Ranong,45-54,0,2003,HepatitisE
+Surat Thani,45-54,0,2003,HepatitisE
+Zone:16,45-54,0,2003,HepatitisE
+Nakhon Si Thammarat,45-54,0,2003,HepatitisE
+Phatthalung,45-54,0,2003,HepatitisE
+Trang,45-54,0,2003,HepatitisE
+Zone:17,45-54,0,2003,HepatitisE
+Krabi,45-54,0,2003,HepatitisE
+Phangnga,45-54,0,2003,HepatitisE
+Phuket,45-54,0,2003,HepatitisE
+Zone:18,45-54,0,2003,HepatitisE
+Narathiwat,45-54,0,2003,HepatitisE
+Pattani,45-54,0,2003,HepatitisE
+Yala,45-54,0,2003,HepatitisE
+Zone:19,45-54,0,2003,HepatitisE
+Satun,45-54,0,2003,HepatitisE
+Songkhla,45-54,0,2003,HepatitisE
+Total,55-64,0,2003,HepatitisE
+North Region,55-64,0,2003,HepatitisE
+Zone:1,55-64,0,2003,HepatitisE
+Chiang Mai,55-64,0,2003,HepatitisE
+Chiang Rai,55-64,0,2003,HepatitisE
+Lampang,55-64,0,2003,HepatitisE
+Lamphun,55-64,0,2003,HepatitisE
+Mae Hong Son,55-64,0,2003,HepatitisE
+Nan,55-64,0,2003,HepatitisE
+Phayao,55-64,0,2003,HepatitisE
+Phrae,55-64,0,2003,HepatitisE
+Zone:2,55-64,0,2003,HepatitisE
+Phetchabun,55-64,0,2003,HepatitisE
+Phitsanulok,55-64,0,2003,HepatitisE
+Sukhothai,55-64,0,2003,HepatitisE
+Tak,55-64,0,2003,HepatitisE
+Uttaradit,55-64,0,2003,HepatitisE
+Zone:3,55-64,0,2003,HepatitisE
+Kamphaeng Phet,55-64,0,2003,HepatitisE
+Nakhon Sawan,55-64,0,2003,HepatitisE
+Phichit,55-64,0,2003,HepatitisE
+Uthai Thani,55-64,0,2003,HepatitisE
+Central Region,55-64,0,2003,HepatitisE
+Bangkok,55-64,0,2003,HepatitisE
+Zone:4,55-64,0,2003,HepatitisE
+Ang Thong,55-64,0,2003,HepatitisE
+Nonthaburi,55-64,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,55-64,0,2003,HepatitisE
+Pathum Thani,55-64,0,2003,HepatitisE
+Zone:5,55-64,0,2003,HepatitisE
+Chai Nat,55-64,0,2003,HepatitisE
+Lop Buri,55-64,0,2003,HepatitisE
+Saraburi,55-64,0,2003,HepatitisE
+Sing Buri,55-64,0,2003,HepatitisE
+Zone:6,55-64,0,2003,HepatitisE
+Kanchanaburi,55-64,0,2003,HepatitisE
+Nakhon Pathom,55-64,0,2003,HepatitisE
+Ratchaburi,55-64,0,2003,HepatitisE
+Suphan Buri,55-64,0,2003,HepatitisE
+Zone:7,55-64,0,2003,HepatitisE
+Phetchaburi,55-64,0,2003,HepatitisE
+Prachuap Khiri Khan,55-64,0,2003,HepatitisE
+Samut Sakhon,55-64,0,2003,HepatitisE
+Samut Songkhram,55-64,0,2003,HepatitisE
+Zone:8,55-64,0,2003,HepatitisE
+Chachoengsao,55-64,0,2003,HepatitisE
+Nakhon Nayok,55-64,0,2003,HepatitisE
+Prachin Buri,55-64,0,2003,HepatitisE
+Sa Kaeo,55-64,0,2003,HepatitisE
+Samut Prakan,55-64,0,2003,HepatitisE
+Zone:9,55-64,0,2003,HepatitisE
+Chanthaburi,55-64,0,2003,HepatitisE
+Chon Buri,55-64,0,2003,HepatitisE
+Rayong,55-64,0,2003,HepatitisE
+Trat,55-64,0,2003,HepatitisE
+North-Eastern Region,55-64,0,2003,HepatitisE
+Zone:10,55-64,0,2003,HepatitisE
+Loei,55-64,0,2003,HepatitisE
+Nong Bua Lam Phu,55-64,0,2003,HepatitisE
+Nong Khai,55-64,0,2003,HepatitisE
+Udon Thani,55-64,0,2003,HepatitisE
+Zone:11,55-64,0,2003,HepatitisE
+Kalasin,55-64,0,2003,HepatitisE
+Mukdahan,55-64,0,2003,HepatitisE
+Nakhon Phanom,55-64,0,2003,HepatitisE
+Sakon Nakhon,55-64,0,2003,HepatitisE
+Zone:12,55-64,0,2003,HepatitisE
+Khon Kaen,55-64,0,2003,HepatitisE
+Maha Sarakham,55-64,0,2003,HepatitisE
+Roi Et,55-64,0,2003,HepatitisE
+Zone:13,55-64,0,2003,HepatitisE
+Buri Ram,55-64,0,2003,HepatitisE
+Chaiyaphum,55-64,0,2003,HepatitisE
+Nakhon Ratchasima,55-64,0,2003,HepatitisE
+Surin,55-64,0,2003,HepatitisE
+Zone:14,55-64,0,2003,HepatitisE
+Amnat Charoen,55-64,0,2003,HepatitisE
+Si Sa Ket,55-64,0,2003,HepatitisE
+Ubon Ratchathani,55-64,0,2003,HepatitisE
+Yasothon,55-64,0,2003,HepatitisE
+South Region,55-64,0,2003,HepatitisE
+Zone:15,55-64,0,2003,HepatitisE
+Chumphon,55-64,0,2003,HepatitisE
+Ranong,55-64,0,2003,HepatitisE
+Surat Thani,55-64,0,2003,HepatitisE
+Zone:16,55-64,0,2003,HepatitisE
+Nakhon Si Thammarat,55-64,0,2003,HepatitisE
+Phatthalung,55-64,0,2003,HepatitisE
+Trang,55-64,0,2003,HepatitisE
+Zone:17,55-64,0,2003,HepatitisE
+Krabi,55-64,0,2003,HepatitisE
+Phangnga,55-64,0,2003,HepatitisE
+Phuket,55-64,0,2003,HepatitisE
+Zone:18,55-64,0,2003,HepatitisE
+Narathiwat,55-64,0,2003,HepatitisE
+Pattani,55-64,0,2003,HepatitisE
+Yala,55-64,0,2003,HepatitisE
+Zone:19,55-64,0,2003,HepatitisE
+Satun,55-64,0,2003,HepatitisE
+Songkhla,55-64,0,2003,HepatitisE
+Total,65+,0,2003,HepatitisE
+North Region,65+,0,2003,HepatitisE
+Zone:1,65+,0,2003,HepatitisE
+Chiang Mai,65+,0,2003,HepatitisE
+Chiang Rai,65+,0,2003,HepatitisE
+Lampang,65+,0,2003,HepatitisE
+Lamphun,65+,0,2003,HepatitisE
+Mae Hong Son,65+,0,2003,HepatitisE
+Nan,65+,0,2003,HepatitisE
+Phayao,65+,0,2003,HepatitisE
+Phrae,65+,0,2003,HepatitisE
+Zone:2,65+,0,2003,HepatitisE
+Phetchabun,65+,0,2003,HepatitisE
+Phitsanulok,65+,0,2003,HepatitisE
+Sukhothai,65+,0,2003,HepatitisE
+Tak,65+,0,2003,HepatitisE
+Uttaradit,65+,0,2003,HepatitisE
+Zone:3,65+,0,2003,HepatitisE
+Kamphaeng Phet,65+,0,2003,HepatitisE
+Nakhon Sawan,65+,0,2003,HepatitisE
+Phichit,65+,0,2003,HepatitisE
+Uthai Thani,65+,0,2003,HepatitisE
+Central Region,65+,0,2003,HepatitisE
+Bangkok,65+,0,2003,HepatitisE
+Zone:4,65+,0,2003,HepatitisE
+Ang Thong,65+,0,2003,HepatitisE
+Nonthaburi,65+,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,65+,0,2003,HepatitisE
+Pathum Thani,65+,0,2003,HepatitisE
+Zone:5,65+,0,2003,HepatitisE
+Chai Nat,65+,0,2003,HepatitisE
+Lop Buri,65+,0,2003,HepatitisE
+Saraburi,65+,0,2003,HepatitisE
+Sing Buri,65+,0,2003,HepatitisE
+Zone:6,65+,0,2003,HepatitisE
+Kanchanaburi,65+,0,2003,HepatitisE
+Nakhon Pathom,65+,0,2003,HepatitisE
+Ratchaburi,65+,0,2003,HepatitisE
+Suphan Buri,65+,0,2003,HepatitisE
+Zone:7,65+,0,2003,HepatitisE
+Phetchaburi,65+,0,2003,HepatitisE
+Prachuap Khiri Khan,65+,0,2003,HepatitisE
+Samut Sakhon,65+,0,2003,HepatitisE
+Samut Songkhram,65+,0,2003,HepatitisE
+Zone:8,65+,0,2003,HepatitisE
+Chachoengsao,65+,0,2003,HepatitisE
+Nakhon Nayok,65+,0,2003,HepatitisE
+Prachin Buri,65+,0,2003,HepatitisE
+Sa Kaeo,65+,0,2003,HepatitisE
+Samut Prakan,65+,0,2003,HepatitisE
+Zone:9,65+,0,2003,HepatitisE
+Chanthaburi,65+,0,2003,HepatitisE
+Chon Buri,65+,0,2003,HepatitisE
+Rayong,65+,0,2003,HepatitisE
+Trat,65+,0,2003,HepatitisE
+North-Eastern Region,65+,0,2003,HepatitisE
+Zone:10,65+,0,2003,HepatitisE
+Loei,65+,0,2003,HepatitisE
+Nong Bua Lam Phu,65+,0,2003,HepatitisE
+Nong Khai,65+,0,2003,HepatitisE
+Udon Thani,65+,0,2003,HepatitisE
+Zone:11,65+,0,2003,HepatitisE
+Kalasin,65+,0,2003,HepatitisE
+Mukdahan,65+,0,2003,HepatitisE
+Nakhon Phanom,65+,0,2003,HepatitisE
+Sakon Nakhon,65+,0,2003,HepatitisE
+Zone:12,65+,0,2003,HepatitisE
+Khon Kaen,65+,0,2003,HepatitisE
+Maha Sarakham,65+,0,2003,HepatitisE
+Roi Et,65+,0,2003,HepatitisE
+Zone:13,65+,0,2003,HepatitisE
+Buri Ram,65+,0,2003,HepatitisE
+Chaiyaphum,65+,0,2003,HepatitisE
+Nakhon Ratchasima,65+,0,2003,HepatitisE
+Surin,65+,0,2003,HepatitisE
+Zone:14,65+,0,2003,HepatitisE
+Amnat Charoen,65+,0,2003,HepatitisE
+Si Sa Ket,65+,0,2003,HepatitisE
+Ubon Ratchathani,65+,0,2003,HepatitisE
+Yasothon,65+,0,2003,HepatitisE
+South Region,65+,0,2003,HepatitisE
+Zone:15,65+,0,2003,HepatitisE
+Chumphon,65+,0,2003,HepatitisE
+Ranong,65+,0,2003,HepatitisE
+Surat Thani,65+,0,2003,HepatitisE
+Zone:16,65+,0,2003,HepatitisE
+Nakhon Si Thammarat,65+,0,2003,HepatitisE
+Phatthalung,65+,0,2003,HepatitisE
+Trang,65+,0,2003,HepatitisE
+Zone:17,65+,0,2003,HepatitisE
+Krabi,65+,0,2003,HepatitisE
+Phangnga,65+,0,2003,HepatitisE
+Phuket,65+,0,2003,HepatitisE
+Zone:18,65+,0,2003,HepatitisE
+Narathiwat,65+,0,2003,HepatitisE
+Pattani,65+,0,2003,HepatitisE
+Yala,65+,0,2003,HepatitisE
+Zone:19,65+,0,2003,HepatitisE
+Satun,65+,0,2003,HepatitisE
+Songkhla,65+,0,2003,HepatitisE
+Total,Unknown,0,2003,HepatitisE
+North Region,Unknown,0,2003,HepatitisE
+Zone:1,Unknown,0,2003,HepatitisE
+Chiang Mai,Unknown,0,2003,HepatitisE
+Chiang Rai,Unknown,0,2003,HepatitisE
+Lampang,Unknown,0,2003,HepatitisE
+Lamphun,Unknown,0,2003,HepatitisE
+Mae Hong Son,Unknown,0,2003,HepatitisE
+Nan,Unknown,0,2003,HepatitisE
+Phayao,Unknown,0,2003,HepatitisE
+Phrae,Unknown,0,2003,HepatitisE
+Zone:2,Unknown,0,2003,HepatitisE
+Phetchabun,Unknown,0,2003,HepatitisE
+Phitsanulok,Unknown,0,2003,HepatitisE
+Sukhothai,Unknown,0,2003,HepatitisE
+Tak,Unknown,0,2003,HepatitisE
+Uttaradit,Unknown,0,2003,HepatitisE
+Zone:3,Unknown,0,2003,HepatitisE
+Kamphaeng Phet,Unknown,0,2003,HepatitisE
+Nakhon Sawan,Unknown,0,2003,HepatitisE
+Phichit,Unknown,0,2003,HepatitisE
+Uthai Thani,Unknown,0,2003,HepatitisE
+Central Region,Unknown,0,2003,HepatitisE
+Bangkok,Unknown,0,2003,HepatitisE
+Zone:4,Unknown,0,2003,HepatitisE
+Ang Thong,Unknown,0,2003,HepatitisE
+Nonthaburi,Unknown,0,2003,HepatitisE
+P.Nakhon S.Ayutthaya,Unknown,0,2003,HepatitisE
+Pathum Thani,Unknown,0,2003,HepatitisE
+Zone:5,Unknown,0,2003,HepatitisE
+Chai Nat,Unknown,0,2003,HepatitisE
+Lop Buri,Unknown,0,2003,HepatitisE
+Saraburi,Unknown,0,2003,HepatitisE
+Sing Buri,Unknown,0,2003,HepatitisE
+Zone:6,Unknown,0,2003,HepatitisE
+Kanchanaburi,Unknown,0,2003,HepatitisE
+Nakhon Pathom,Unknown,0,2003,HepatitisE
+Ratchaburi,Unknown,0,2003,HepatitisE
+Suphan Buri,Unknown,0,2003,HepatitisE
+Zone:7,Unknown,0,2003,HepatitisE
+Phetchaburi,Unknown,0,2003,HepatitisE
+Prachuap Khiri Khan,Unknown,0,2003,HepatitisE
+Samut Sakhon,Unknown,0,2003,HepatitisE
+Samut Songkhram,Unknown,0,2003,HepatitisE
+Zone:8,Unknown,0,2003,HepatitisE
+Chachoengsao,Unknown,0,2003,HepatitisE
+Nakhon Nayok,Unknown,0,2003,HepatitisE
+Prachin Buri,Unknown,0,2003,HepatitisE
+Sa Kaeo,Unknown,0,2003,HepatitisE
+Samut Prakan,Unknown,0,2003,HepatitisE
+Zone:9,Unknown,0,2003,HepatitisE
+Chanthaburi,Unknown,0,2003,HepatitisE
+Chon Buri,Unknown,0,2003,HepatitisE
+Rayong,Unknown,0,2003,HepatitisE
+Trat,Unknown,0,2003,HepatitisE
+North-Eastern Region,Unknown,0,2003,HepatitisE
+Zone:10,Unknown,0,2003,HepatitisE
+Loei,Unknown,0,2003,HepatitisE
+Nong Bua Lam Phu,Unknown,0,2003,HepatitisE
+Nong Khai,Unknown,0,2003,HepatitisE
+Udon Thani,Unknown,0,2003,HepatitisE
+Zone:11,Unknown,0,2003,HepatitisE
+Kalasin,Unknown,0,2003,HepatitisE
+Mukdahan,Unknown,0,2003,HepatitisE
+Nakhon Phanom,Unknown,0,2003,HepatitisE
+Sakon Nakhon,Unknown,0,2003,HepatitisE
+Zone:12,Unknown,0,2003,HepatitisE
+Khon Kaen,Unknown,0,2003,HepatitisE
+Maha Sarakham,Unknown,0,2003,HepatitisE
+Roi Et,Unknown,0,2003,HepatitisE
+Zone:13,Unknown,0,2003,HepatitisE
+Buri Ram,Unknown,0,2003,HepatitisE
+Chaiyaphum,Unknown,0,2003,HepatitisE
+Nakhon Ratchasima,Unknown,0,2003,HepatitisE
+Surin,Unknown,0,2003,HepatitisE
+Zone:14,Unknown,0,2003,HepatitisE
+Amnat Charoen,Unknown,0,2003,HepatitisE
+Si Sa Ket,Unknown,0,2003,HepatitisE
+Ubon Ratchathani,Unknown,0,2003,HepatitisE
+Yasothon,Unknown,0,2003,HepatitisE
+South Region,Unknown,0,2003,HepatitisE
+Zone:15,Unknown,0,2003,HepatitisE
+Chumphon,Unknown,0,2003,HepatitisE
+Ranong,Unknown,0,2003,HepatitisE
+Surat Thani,Unknown,0,2003,HepatitisE
+Zone:16,Unknown,0,2003,HepatitisE
+Nakhon Si Thammarat,Unknown,0,2003,HepatitisE
+Phatthalung,Unknown,0,2003,HepatitisE
+Trang,Unknown,0,2003,HepatitisE
+Zone:17,Unknown,0,2003,HepatitisE
+Krabi,Unknown,0,2003,HepatitisE
+Phangnga,Unknown,0,2003,HepatitisE
+Phuket,Unknown,0,2003,HepatitisE
+Zone:18,Unknown,0,2003,HepatitisE
+Narathiwat,Unknown,0,2003,HepatitisE
+Pattani,Unknown,0,2003,HepatitisE
+Yala,Unknown,0,2003,HepatitisE
+Zone:19,Unknown,0,2003,HepatitisE
+Satun,Unknown,0,2003,HepatitisE
+Songkhla,Unknown,0,2003,HepatitisE

@@ -1,4 +1,478 @@
 Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
+Total,650931,985.19,50,0.08,66071545,2024,Influenza
+ZONE:01,41485,708.25,1,0.02,5857413,2024,Influenza
+Chiang Mai,9296,517.95,1,0.06,1794774,2024,Influenza
+Chiang Rai,6741,518.82,0,0.0,1299306,2024,Influenza
+Lampang,6928,968.77,0,0.0,715133,2024,Influenza
+Lamphun,4344,1088.73,0,0.0,398998,2024,Influenza
+Mae Hong Son,1675,583.19,0,0.0,287215,2024,Influenza
+Nan,2774,585.69,0,0.0,473630,2024,Influenza
+Phayao,6119,1330.63,0,0.0,459858,2024,Influenza
+Phrae,3608,842.01,0,0.0,428499,2024,Influenza
+ZONE:02,30258,858.99,2,0.06,3522489,2024,Influenza
+Phetchabun,8316,856.96,0,0.0,970403,2024,Influenza
+Phitsanulok,9418,1117.05,1,0.12,843111,2024,Influenza
+Sukhothai,3206,552.99,1,0.17,579759,2024,Influenza
+Tak,5055,734.82,0,0.0,687927,2024,Influenza
+Uttaradit,4263,966.03,0,0.0,441289,2024,Influenza
+ZONE:03,24005,828.77,2,0.07,2896463,2024,Influenza
+Chai Nat,2080,655.61,0,0.0,317263,2024,Influenza
+Kamphaeng Phet,4485,634.5,0,0.0,706861,2024,Influenza
+Nakhon Sawan,8924,870.34,1,0.1,1025348,2024,Influenza
+Phichit,6245,1191.96,1,0.19,523925,2024,Influenza
+Uthai Thani,2271,702.95,0,0.0,323066,2024,Influenza
+ZONE:04,52351,962.54,5,0.09,5438863,2024,Influenza
+Ang Thong,2667,981.76,1,0.37,271656,2024,Influenza
+Lop Buri,6176,843.15,0,0.0,732495,2024,Influenza
+Nakhon Nayok,2053,788.82,0,0.0,260261,2024,Influenza
+Nonthaburi,14370,1103.68,0,0.0,1302004,2024,Influenza
+P.Nakhon S.Ayutthaya,6759,823.0,2,0.24,821261,2024,Influenza
+Pathum Thani,13056,1078.68,1,0.08,1210365,2024,Influenza
+Saraburi,4845,758.57,0,0.0,638704,2024,Influenza
+Sing Buri,2425,1199.8,1,0.49,202117,2024,Influenza
+ZONE:05,55678,1045.26,0,0.0,5326695,2024,Influenza
+Kanchanaburi,5993,669.77,0,0.0,894781,2024,Influenza
+Nakhon Pathom,12945,1402.19,0,0.0,923201,2024,Influenza
+Phetchaburi,5337,1104.27,0,0.0,483305,2024,Influenza
+Prachuap Khiri Khan,5595,1013.34,0,0.0,552137,2024,Influenza
+Ratchaburi,9672,1117.79,0,0.0,865276,2024,Influenza
+Samut Sakhon,7823,1324.29,0,0.0,590730,2024,Influenza
+Samut Songkhram,1394,738.65,0,0.0,188723,2024,Influenza
+Suphan Buri,6919,835.08,0,0.0,828542,2024,Influenza
+ZONE:06,87009,1382.82,5,0.08,6292163,2024,Influenza
+Chachoengsao,10489,1439.58,1,0.14,728615,2024,Influenza
+Chanthaburi,6131,1143.22,1,0.19,536290,2024,Influenza
+Chon Buri,28132,1751.23,1,0.06,1606412,2024,Influenza
+Prachin Buri,3546,711.09,0,0.0,498671,2024,Influenza
+Rayong,11613,1517.47,0,0.0,765287,2024,Influenza
+Sa Kaeo,3591,637.99,0,0.0,562860,2024,Influenza
+Samut Prakan,20773,1520.05,2,0.15,1366598,2024,Influenza
+Trat,2734,1202.13,0,0.0,227430,2024,Influenza
+ZONE:07,29632,594.86,0,0.0,4981337,2024,Influenza
+Kalasin,6267,646.03,0,0.0,970084,2024,Influenza
+Khon Kaen,12564,705.05,0,0.0,1782008,2024,Influenza
+Maha Sarakham,3983,423.16,0,0.0,941261,2024,Influenza
+Roi Et,6818,529.35,0,0.0,1287984,2024,Influenza
+ZONE:08,30292,550.76,1,0.02,5500012,2024,Influenza
+Bungkan,2123,504.17,0,0.0,421086,2024,Influenza
+Loei,3685,579.18,0,0.0,636242,2024,Influenza
+Nakhon Phanom,4252,594.3,1,0.14,715466,2024,Influenza
+Nong Bua Lam Phu,3623,713.75,0,0.0,507599,2024,Influenza
+Nong Khai,5215,1012.8,0,0.0,514909,2024,Influenza
+Sakon Nakhon,3429,299.76,0,0.0,1143922,2024,Influenza
+Udon Thani,7965,510.32,0,0.0,1560788,2024,Influenza
+ZONE:09,64197,959.74,17,0.25,6689028,2024,Influenza
+Buri Ram,9844,624.99,1,0.06,1575073,2024,Influenza
+Chaiyaphum,9389,841.57,2,0.18,1115652,2024,Influenza
+Nakhon Ratchasima,30568,1163.2,14,0.53,2627927,2024,Influenza
+Surin,14396,1050.51,0,0.0,1370376,2024,Influenza
+ZONE:10,42569,929.69,0,0.0,4578831,2024,Influenza
+Amnat Charoen,3211,856.82,0,0.0,374760,2024,Influenza
+Mukdahan,2988,849.85,0,0.0,351592,2024,Influenza
+Si Sa Ket,7171,493.69,0,0.0,1452532,2024,Influenza
+Ubon Ratchathani,23326,1247.57,0,0.0,1869708,2024,Influenza
+Yasothon,5873,1107.61,0,0.0,530239,2024,Influenza
+ZONE:11,54507,1214.02,13,0.29,4489783,2024,Influenza
+Chumphon,6094,1196.96,0,0.0,509122,2024,Influenza
+Krabi,4555,946.81,0,0.0,481089,2024,Influenza
+Nakhon Si Thammarat,17523,1135.61,3,0.19,1543051,2024,Influenza
+Phangnga,2222,831.43,1,0.37,267250,2024,Influenza
+Phuket,10987,2611.31,1,0.24,420746,2024,Influenza
+Ranong,1715,884.94,0,0.0,193799,2024,Influenza
+Surat Thani,11411,1061.76,8,0.74,1074726,2024,Influenza
+ZONE:12,42068,838.81,1,0.02,5015209,2024,Influenza
+Narathiwat,5130,628.18,0,0.0,816642,2024,Influenza
+Pattani,2558,348.02,0,0.0,735017,2024,Influenza
+Phatthalung,4972,954.12,0,0.0,521109,2024,Influenza
+Satun,2023,621.72,0,0.0,325387,2024,Influenza
+Songkhla,17065,1192.1,0,0.0,1431512,2024,Influenza
+Trang,6387,1001.71,0,0.0,637612,2024,Influenza
+Yala,3933,717.79,1,0.18,547930,2024,Influenza
+ZONE:13,96880,1766.83,3,0.05,5483259,2024,Influenza
+Bangkok,96880,1766.83,3,0.05,5483259,2024,Influenza
+Total,17424,27.82,1,0.0,62623416,2006,Influenza
+North Region,2447,20.59,0,0.0,11887142,2006,Influenza
+Zone:1,954,16.6,0,0.0,5748673,2006,Influenza
+Chiang Mai,181,10.94,0,0.0,1654154,2006,Influenza
+Chiang Rai,190,15.51,0,0.0,1225386,2006,Influenza
+Lampang,64,8.26,0,0.0,775259,2006,Influenza
+Lamphun,63,15.55,0,0.0,405146,2006,Influenza
+Mae Hong Son,82,32.23,0,0.0,254392,2006,Influenza
+Nan,179,37.46,0,0.0,477871,2006,Influenza
+Phayao,100,20.55,0,0.0,486554,2006,Influenza
+Phrae,95,20.22,0,0.0,469911,2006,Influenza
+Zone:2,949,27.52,0,0.0,3448091,2006,Influenza
+Phetchabun,243,24.24,0,0.0,1002388,2006,Influenza
+Phitsanulok,148,17.56,0,0.0,842739,2006,Influenza
+Sukhothai,302,49.54,0,0.0,609591,2006,Influenza
+Tak,216,41.15,0,0.0,524938,2006,Influenza
+Uttaradit,40,8.54,0,0.0,468435,2006,Influenza
+Zone:3,544,20.22,0,0.0,2690378,2006,Influenza
+Kamphaeng Phet,104,14.28,0,0.0,728293,2006,Influenza
+Nakhon Sawan,170,15.79,0,0.0,1076911,2006,Influenza
+Phichit,203,36.36,0,0.0,558314,2006,Influenza
+Uthai Thani,67,20.5,0,0.0,326860,2006,Influenza
+Central Region,7110,34.14,1,0.0,20825142,2006,Influenza
+Bangkok,1159,20.41,0,0.0,5677455,2006,Influenza
+Zone:4,259,9.06,0,0.0,2858658,2006,Influenza
+Ang Thong,27,9.51,0,0.0,283861,2006,Influenza
+Nonthaburi,120,12.17,0,0.0,985669,2006,Influenza
+P.Nakhon S.Ayutthaya,91,12.12,0,0.0,750757,2006,Influenza
+Pathum Thani,21,2.5,0,0.0,838371,2006,Influenza
+Zone:5,290,15.14,0,0.0,1915186,2006,Influenza
+Chai Nat,66,19.44,0,0.0,339568,2006,Influenza
+Lop Buri,108,14.35,0,0.0,752364,2006,Influenza
+Saraburi,60,9.9,0,0.0,605897,2006,Influenza
+Sing Buri,56,25.76,0,0.0,217357,2006,Influenza
+Zone:6,2228,67.21,0,0.0,3315213,2006,Influenza
+Kanchanaburi,880,105.98,0,0.0,830309,2006,Influenza
+Nakhon Pathom,471,57.76,0,0.0,815433,2006,Influenza
+Ratchaburi,774,93.68,0,0.0,826212,2006,Influenza
+Suphan Buri,103,12.21,0,0.0,843259,2006,Influenza
+Zone:7,1161,72.64,0,0.0,1598232,2006,Influenza
+Phetchaburi,331,72.69,0,0.0,455332,2006,Influenza
+Prachuap Khiri Khan,170,34.65,0,0.0,490607,2006,Influenza
+Samut Sakhon,503,110.0,0,0.0,457264,2006,Influenza
+Samut Songkhram,157,80.5,0,0.0,195029,2006,Influenza
+Zone:8,354,11.87,1,0.03,2983258,2006,Influenza
+Chachoengsao,173,26.58,1,0.15,650909,2006,Influenza
+Nakhon Nayok,17,6.79,0,0.0,250392,2006,Influenza
+Prachin Buri,56,12.4,0,0.0,451721,2006,Influenza
+Sa Kaeo,58,10.79,0,0.0,537661,2006,Influenza
+Samut Prakan,50,4.58,0,0.0,1092575,2006,Influenza
+Zone:9,1659,66.97,0,0.0,2477140,2006,Influenza
+Chanthaburi,651,130.13,0,0.0,500275,2006,Influenza
+Chon Buri,667,56.01,0,0.0,1190861,2006,Influenza
+Rayong,293,51.72,0,0.0,566461,2006,Influenza
+Trat,48,21.86,0,0.0,219543,2006,Influenza
+North-Eastern Region,3064,14.35,0,0.0,21352480,2006,Influenza
+Zone:10,486,13.76,0,0.0,3533061,2006,Influenza
+Loei,231,37.69,0,0.0,612863,2006,Influenza
+Nong Bua Lam Phu,23,4.63,0,0.0,496675,2006,Influenza
+Nong Khai,32,3.56,0,0.0,897840,2006,Influenza
+Udon Thani,200,13.11,0,0.0,1525683,2006,Influenza
+Zone:11,456,14.66,0,0.0,3110390,2006,Influenza
+Kalasin,120,12.31,0,0.0,974560,2006,Influenza
+Mukdahan,9,2.69,0,0.0,334781,2006,Influenza
+Nakhon Phanom,171,24.62,0,0.0,694473,2006,Influenza
+Sakon Nakhon,156,14.1,0,0.0,1106576,2006,Influenza
+Zone:12,358,8.96,0,0.0,3996666,2006,Influenza
+Khon Kaen,192,10.98,0,0.0,1749021,2006,Influenza
+Maha Sarakham,144,15.36,0,0.0,937285,2006,Influenza
+Roi Et,22,1.68,0,0.0,1310360,2006,Influenza
+Zone:13,1322,20.1,0,0.0,6578271,2006,Influenza
+Buri Ram,548,35.72,0,0.0,1534076,2006,Influenza
+Chaiyaphum,61,5.46,0,0.0,1118040,2006,Influenza
+Nakhon Ratchasima,160,6.27,0,0.0,2551176,2006,Influenza
+Surin,553,40.22,0,0.0,1374979,2006,Influenza
+Zone:14,442,10.69,0,0.0,4134092,2006,Influenza
+Amnat Charoen,28,7.59,0,0.0,368863,2006,Influenza
+Si Sa Ket,178,12.32,0,0.0,1445230,2006,Influenza
+Ubon Ratchathani,203,11.41,0,0.0,1778922,2006,Influenza
+Yasothon,33,6.1,0,0.0,541077,2006,Influenza
+South Region,4803,56.12,0,0.0,8558652,2006,Influenza
+Zone:15,1235,76.69,0,0.0,1610374,2006,Influenza
+Chumphon,64,13.41,0,0.0,477364,2006,Influenza
+Ranong,47,26.26,0,0.0,178986,2006,Influenza
+Surat Thani,1124,117.82,0,0.0,954024,2006,Influenza
+Zone:16,1949,74.56,0,0.0,2614100,2006,Influenza
+Nakhon Si Thammarat,896,59.44,0,0.0,1507440,2006,Influenza
+Phatthalung,309,61.56,0,0.0,501912,2006,Influenza
+Trang,744,123.03,0,0.0,604748,2006,Influenza
+Zone:17,428,45.56,0,0.0,939424,2006,Influenza
+Krabi,104,26.03,0,0.0,399514,2006,Influenza
+Phangnga,110,45.19,0,0.0,243419,2006,Influenza
+Phuket,214,72.18,0,0.0,296491,2006,Influenza
+Zone:18,635,35.18,0,0.0,1805088,2006,Influenza
+Narathiwat,428,60.81,0,0.0,703848,2006,Influenza
+Pattani,126,19.84,0,0.0,635053,2006,Influenza
+Yala,81,17.38,0,0.0,466187,2006,Influenza
+Zone:19,556,34.98,0,0.0,1589666,2006,Influenza
+Satun,152,54.34,0,0.0,279705,2006,Influenza
+Songkhla,404,30.84,0,0.0,1309961,2006,Influenza
+Total,77926,119.66,28,0.04,65124716,2015,Influenza
+ZONE:00,21448,376.79,0,0.0,5692284,2015,Influenza
+Bangkok,21448,376.79,0,0.0,5692284,2015,Influenza
+ZONE:01,13299,232.93,0,0.0,5709443,2015,Influenza
+Chiang Mai,6832,407.08,0,0.0,1678284,2015,Influenza
+Chiang Rai,1389,115.01,0,0.0,1207699,2015,Influenza
+Lampang,2296,304.91,0,0.0,753013,2015,Influenza
+Lamphun,628,154.88,0,0.0,405468,2015,Influenza
+Mae Hong Son,168,67.69,0,0.0,248178,2015,Influenza
+Nan,471,98.48,0,0.0,478264,2015,Influenza
+Phayao,1376,284.03,0,0.0,484454,2015,Influenza
+Phrae,139,30.61,0,0.0,454083,2015,Influenza
+ZONE:02,2710,78.39,1,0.03,3457208,2015,Influenza
+Phetchabun,213,21.39,0,0.0,995807,2015,Influenza
+Phitsanulok,1207,140.51,0,0.0,858988,2015,Influenza
+Sukhothai,350,58.1,1,0.17,602460,2015,Influenza
+Tak,221,40.96,0,0.0,539553,2015,Influenza
+Uttaradit,719,156.17,0,0.0,460400,2015,Influenza
+ZONE:03,2234,74.16,0,0.0,3012283,2015,Influenza
+Chai Nat,120,36.11,0,0.0,332283,2015,Influenza
+Kamphaeng Phet,631,86.49,0,0.0,729522,2015,Influenza
+Nakhon Sawan,1120,104.4,0,0.0,1072756,2015,Influenza
+Phichit,282,51.5,0,0.0,547543,2015,Influenza
+Uthai Thani,81,24.53,0,0.0,330179,2015,Influenza
+ZONE:04,5797,111.56,1,0.02,5196419,2015,Influenza
+Ang Thong,309,108.97,0,0.0,283568,2015,Influenza
+Lop Buri,1104,145.57,0,0.0,758406,2015,Influenza
+Nakhon Nayok,29,11.27,0,0.0,257300,2015,Influenza
+Nonthaburi,809,68.92,0,0.0,1173870,2015,Influenza
+P.Nakhon S.Ayutthaya,2358,293.43,1,0.12,803599,2015,Influenza
+Pathum Thani,782,72.81,0,0.0,1074058,2015,Influenza
+Saraburi,273,43.1,0,0.0,633460,2015,Influenza
+Sing Buri,133,62.69,0,0.0,212158,2015,Influenza
+ZONE:05,4721,91.37,0,0.0,5166914,2015,Influenza
+Kanchanaburi,525,61.9,0,0.0,848198,2015,Influenza
+Nakhon Pathom,1811,203.24,0,0.0,891071,2015,Influenza
+Phetchaburi,512,107.97,0,0.0,474192,2015,Influenza
+Prachuap Khiri Khan,451,85.89,0,0.0,525107,2015,Influenza
+Ratchaburi,574,67.27,0,0.0,853217,2015,Influenza
+Samut Sakhon,97,18.24,0,0.0,531887,2015,Influenza
+Samut Songkhram,118,60.77,0,0.0,194189,2015,Influenza
+Suphan Buri,633,74.55,0,0.0,849053,2015,Influenza
+ZONE:06,7217,123.65,0,0.0,5836407,2015,Influenza
+Chachoengsao,568,81.67,0,0.0,695478,2015,Influenza
+Chanthaburi,1159,219.78,0,0.0,527350,2015,Influenza
+Chon Buri,1040,73.17,0,0.0,1421425,2015,Influenza
+Prachin Buri,219,45.69,0,0.0,479314,2015,Influenza
+Rayong,1737,257.56,0,0.0,674393,2015,Influenza
+Sa Kaeo,49,8.87,0,0.0,552187,2015,Influenza
+Samut Prakan,1771,140.39,0,0.0,1261530,2015,Influenza
+Trat,674,299.92,0,0.0,224730,2015,Influenza
+ZONE:07,1254,24.86,2,0.04,5043862,2015,Influenza
+Kalasin,33,3.35,0,0.0,984907,2015,Influenza
+Khon Kaen,744,41.56,0,0.0,1790049,2015,Influenza
+Maha Sarakham,299,31.13,1,0.1,960588,2015,Influenza
+Roi Et,178,13.61,1,0.08,1308318,2015,Influenza
+ZONE:08,2236,40.64,0,0.0,5501453,2015,Influenza
+Bungkan,78,18.64,0,0.0,418566,2015,Influenza
+Loei,280,44.13,0,0.0,634513,2015,Influenza
+Nakhon Phanom,727,101.91,0,0.0,713341,2015,Influenza
+Nong Bua Lam Phu,68,13.36,0,0.0,508864,2015,Influenza
+Nong Khai,501,96.86,0,0.0,517260,2015,Influenza
+Sakon Nakhon,357,31.35,0,0.0,1138609,2015,Influenza
+Udon Thani,225,14.33,0,0.0,1570300,2015,Influenza
+ZONE:09,6957,103.4,20,0.3,6728450,2015,Influenza
+Buri Ram,940,59.52,0,0.0,1579248,2015,Influenza
+Chaiyaphum,664,58.4,0,0.0,1137049,2015,Influenza
+Nakhon Ratchasima,5101,194.66,20,0.76,2620517,2015,Influenza
+Surin,252,18.11,0,0.0,1391636,2015,Influenza
+ZONE:10,4071,89.05,1,0.02,4571489,2015,Influenza
+Amnat Charoen,48,12.79,0,0.0,375380,2015,Influenza
+Mukdahan,107,30.92,0,0.0,346016,2015,Influenza
+Si Sa Ket,518,35.35,0,0.0,1465213,2015,Influenza
+Ubon Ratchathani,3041,164.85,1,0.05,1844669,2015,Influenza
+Yasothon,357,66.09,0,0.0,540211,2015,Influenza
+ZONE:11,4000,91.69,3,0.07,4362467,2015,Influenza
+Chumphon,291,58.13,0,0.0,500575,2015,Influenza
+Krabi,377,82.53,0,0.0,456811,2015,Influenza
+Nakhon Si Thammarat,1155,74.61,0,0.0,1548028,2015,Influenza
+Phangnga,73,27.93,1,0.38,261370,2015,Influenza
+Phuket,902,238.39,0,0.0,378364,2015,Influenza
+Ranong,16,9.04,0,0.0,177089,2015,Influenza
+Surat Thani,1186,114.01,2,0.19,1040230,2015,Influenza
+ZONE:12,1982,40.9,0,0.0,4846037,2015,Influenza
+Narathiwat,285,36.78,0,0.0,774799,2015,Influenza
+Pattani,105,15.3,0,0.0,686186,2015,Influenza
+Phatthalung,496,95.31,0,0.0,520419,2015,Influenza
+Satun,68,21.75,0,0.0,312673,2015,Influenza
+Songkhla,282,20.12,0,0.0,1401303,2015,Influenza
+Trang,677,105.99,0,0.0,638746,2015,Influenza
+Yala,69,13.48,0,0.0,511911,2015,Influenza
+Total,396363,596.16,28,0.04,66486458,2019,Influenza
+ZONE:01,47187,800.87,3,0.05,5891985,2019,Influenza
+Chiang Mai,22654,1278.8,3,0.17,1771499,2019,Influenza
+Chiang Rai,6574,507.56,0,0.0,1295217,2019,Influenza
+Lampang,5041,680.66,0,0.0,740600,2019,Influenza
+Lamphun,3159,779.01,0,0.0,405515,2019,Influenza
+Mae Hong Son,1247,440.09,0,0.0,283352,2019,Influenza
+Nan,2687,561.42,0,0.0,478608,2019,Influenza
+Phayao,3973,838.56,0,0.0,473786,2019,Influenza
+Phrae,1852,417.67,0,0.0,443408,2019,Influenza
+ZONE:02,18176,509.11,0,0.0,3570128,2019,Influenza
+Phetchabun,2919,293.81,0,0.0,993496,2019,Influenza
+Phitsanulok,6388,737.59,0,0.0,866068,2019,Influenza
+Sukhothai,2498,419.01,0,0.0,596165,2019,Influenza
+Tak,2702,409.3,0,0.0,660147,2019,Influenza
+Uttaradit,3669,807.7,0,0.0,454252,2019,Influenza
+ZONE:03,16578,555.74,0,0.0,2983068,2019,Influenza
+Chai Nat,365,111.47,0,0.0,327437,2019,Influenza
+Kamphaeng Phet,4358,599.59,0,0.0,726836,2019,Influenza
+Nakhon Sawan,8948,842.62,0,0.0,1061926,2019,Influenza
+Phichit,2000,371.86,0,0.0,537843,2019,Influenza
+Uthai Thani,907,275.66,0,0.0,329026,2019,Influenza
+ZONE:04,17079,317.35,1,0.02,5381695,2019,Influenza
+Ang Thong,968,345.41,0,0.0,280246,2019,Influenza
+Lop Buri,3018,398.6,0,0.0,757145,2019,Influenza
+Nakhon Nayok,431,165.5,0,0.0,260421,2019,Influenza
+Nonthaburi,3214,255.92,0,0.0,1255840,2019,Influenza
+P.Nakhon S.Ayutthaya,3054,372.98,1,0.12,818815,2019,Influenza
+Pathum Thani,3830,331.65,0,0.0,1154848,2019,Influenza
+Saraburi,1946,301.49,0,0.0,645468,2019,Influenza
+Sing Buri,618,295.82,0,0.0,208912,2019,Influenza
+ZONE:05,33951,635.21,0,0.0,5344807,2019,Influenza
+Kanchanaburi,5328,595.75,0,0.0,894338,2019,Influenza
+Nakhon Pathom,11044,1202.34,0,0.0,918542,2019,Influenza
+Phetchaburi,2310,476.54,0,0.0,484743,2019,Influenza
+Prachuap Khiri Khan,3793,687.8,0,0.0,551466,2019,Influenza
+Ratchaburi,4410,504.98,0,0.0,873310,2019,Influenza
+Samut Sakhon,4878,839.1,0,0.0,581334,2019,Influenza
+Samut Songkhram,637,329.12,0,0.0,193548,2019,Influenza
+Suphan Buri,1551,183.0,0,0.0,847526,2019,Influenza
+ZONE:06,44654,725.54,1,0.02,6154601,2019,Influenza
+Chachoengsao,5710,795.75,0,0.0,717561,2019,Influenza
+Chanthaburi,5913,1100.92,0,0.0,537097,2019,Influenza
+Chon Buri,9133,590.42,0,0.0,1546873,2019,Influenza
+Prachin Buri,2364,479.36,0,0.0,493159,2019,Influenza
+Rayong,11399,1563.57,0,0.0,729035,2019,Influenza
+Sa Kaeo,567,100.32,0,0.0,565198,2019,Influenza
+Samut Prakan,8577,642.12,1,0.07,1335742,2019,Influenza
+Trat,991,430.99,0,0.0,229936,2019,Influenza
+ZONE:07,15255,301.61,0,0.0,5057831,2019,Influenza
+Kalasin,1705,173.21,0,0.0,984381,2019,Influenza
+Khon Kaen,7311,405.18,0,0.0,1804384,2019,Influenza
+Maha Sarakham,2594,269.41,0,0.0,962856,2019,Influenza
+Roi Et,3645,279.05,0,0.0,1306210,2019,Influenza
+ZONE:08,10778,193.85,3,0.05,5559986,2019,Influenza
+Bungkan,144,33.96,0,0.0,424016,2019,Influenza
+Loei,1357,211.09,0,0.0,642862,2019,Influenza
+Nakhon Phanom,2916,405.59,0,0.0,718961,2019,Influenza
+Nong Bua Lam Phu,703,137.18,2,0.39,512449,2019,Influenza
+Nong Khai,2941,563.19,1,0.19,522207,2019,Influenza
+Sakon Nakhon,1144,99.23,0,0.0,1152835,2019,Influenza
+Udon Thani,1573,99.14,0,0.0,1586656,2019,Influenza
+ZONE:09,45532,671.72,14,0.21,6778372,2019,Influenza
+Buri Ram,7288,456.84,0,0.0,1595299,2019,Influenza
+Chaiyaphum,5249,461.22,0,0.0,1138067,2019,Influenza
+Nakhon Ratchasima,26084,985.17,14,0.53,2647663,2019,Influenza
+Surin,6911,494.58,0,0.0,1397343,2019,Influenza
+ZONE:10,25002,541.34,0,0.0,4618551,2019,Influenza
+Amnat Charoen,550,145.3,0,0.0,378530,2019,Influenza
+Mukdahan,2069,586.57,0,0.0,352727,2019,Influenza
+Si Sa Ket,3031,205.78,0,0.0,1472934,2019,Influenza
+Ubon Ratchathani,17208,917.1,0,0.0,1876347,2019,Influenza
+Yasothon,2144,398.5,0,0.0,538013,2019,Influenza
+ZONE:11,19670,438.3,4,0.09,4487837,2019,Influenza
+Chumphon,1502,293.86,0,0.0,511134,2019,Influenza
+Krabi,1321,277.97,1,0.21,475239,2019,Influenza
+Nakhon Si Thammarat,6165,394.89,1,0.06,1561179,2019,Influenza
+Phangnga,1624,604.81,0,0.0,268513,2019,Influenza
+Phuket,3050,737.79,0,0.0,413397,2019,Influenza
+Ranong,285,147.96,0,0.0,192619,2019,Influenza
+Surat Thani,5723,536.99,2,0.19,1065756,2019,Influenza
+ZONE:12,8706,174.6,0,0.0,4986140,2019,Influenza
+Narathiwat,1838,228.25,0,0.0,805248,2019,Influenza
+Pattani,304,42.13,0,0.0,721591,2019,Influenza
+Phatthalung,2078,395.84,0,0.0,524955,2019,Influenza
+Satun,370,114.7,0,0.0,322580,2019,Influenza
+Songkhla,2147,149.69,0,0.0,1434298,2019,Influenza
+Trang,1207,187.67,0,0.0,643140,2019,Influenza
+Yala,762,142.61,0,0.0,534328,2019,Influenza
+ZONE:13,93795,1653.81,2,0.04,5671457,2019,Influenza
+Bangkok,93795,1653.81,2,0.04,5671457,2019,Influenza
+Total,61689,96.27,2,0.0,64075986,2012,Influenza
+Central Region,31294,143.98,0,0.0,21734984,2012,Influenza
+Zone:0,16607,292.64,0,0.0,5674843,2012,Influenza
+Bangkok,16607,292.64,0,0.0,5674843,2012,Influenza
+Zone:1,3228,91.14,0,0.0,3541632,2012,Influenza
+Nonthaburi,869,77.41,0,0.0,1122627,2012,Influenza
+P.Nakhon S.Ayutthaya,1760,223.45,0,0.0,787653,2012,Influenza
+Pathum Thani,378,37.39,0,0.0,1010898,2012,Influenza
+Saraburi,221,35.62,0,0.0,620454,2012,Influenza
+Zone:2,1081,68.11,0,0.0,1587031,2012,Influenza
+Ang Thong,232,81.67,0,0.0,284061,2012,Influenza
+Chai Nat,145,43.51,0,0.0,333256,2012,Influenza
+Lop Buri,683,90.33,0,0.0,756127,2012,Influenza
+Sing Buri,21,9.83,0,0.0,213587,2012,Influenza
+Zone:3,2370,75.2,0,0.0,3151672,2012,Influenza
+Chachoengsao,139,20.46,0,0.0,679370,2012,Influenza
+Nakhon Nayok,51,20.09,0,0.0,253831,2012,Influenza
+Prachin Buri,187,39.82,0,0.0,469652,2012,Influenza
+Sa Kaeo,93,17.05,0,0.0,545596,2012,Influenza
+Samut Prakan,1900,157.91,0,0.0,1203223,2012,Influenza
+Zone:4,2883,84.98,0,0.0,3392715,2012,Influenza
+Kanchanaburi,779,92.86,0,0.0,838914,2012,Influenza
+Nakhon Pathom,790,91.22,0,0.0,866064,2012,Influenza
+Ratchaburi,717,85.09,0,0.0,842684,2012,Influenza
+Suphan Buri,597,70.65,0,0.0,845053,2012,Influenza
+Zone:5,596,35.65,0,0.0,1671831,2012,Influenza
+Phetchaburi,265,56.86,0,0.0,466079,2012,Influenza
+Prachuap Khiri Khan,208,40.58,0,0.0,512568,2012,Influenza
+Samut Sakhon,72,14.43,0,0.0,499098,2012,Influenza
+Samut Songkhram,51,26.28,0,0.0,194086,2012,Influenza
+Zone:9,4529,166.8,0,0.0,2715260,2012,Influenza
+Chanthaburi,794,153.62,0,0.0,516855,2012,Influenza
+Chon Buri,1508,112.65,0,0.0,1338656,2012,Influenza
+Rayong,2188,343.09,0,0.0,637736,2012,Influenza
+Trat,39,17.57,0,0.0,222013,2012,Influenza
+South Region,6755,75.29,0,0.0,8971808,2012,Influenza
+Zone:6,2950,83.3,0,0.0,3541333,2012,Influenza
+Chumphon,97,19.71,0,0.0,492182,2012,Influenza
+Nakhon Si Thammarat,1005,65.86,0,0.0,1526071,2012,Influenza
+Phatthalung,474,92.76,0,0.0,511016,2012,Influenza
+Surat Thani,1374,135.76,0,0.0,1012064,2012,Influenza
+Zone:7,2850,153.44,0,0.0,1857374,2012,Influenza
+Krabi,332,75.79,0,0.0,438039,2012,Influenza
+Phangnga,345,135.33,0,0.0,254931,2012,Influenza
+Phuket,1182,334.04,0,0.0,353847,2012,Influenza
+Ranong,113,61.46,0,0.0,183849,2012,Influenza
+Trang,878,140.1,0,0.0,626708,2012,Influenza
+Zone:8,955,26.73,0,0.0,3573101,2012,Influenza
+Narathiwat,292,39.07,0,0.0,747372,2012,Influenza
+Pattani,227,34.21,0,0.0,663485,2012,Influenza
+Satun,61,20.23,0,0.0,301467,2012,Influenza
+Songkhla,188,13.75,0,0.0,1367010,2012,Influenza
+Yala,187,37.87,0,0.0,493767,2012,Influenza
+North-Eastern Region,9100,42.16,2,0.01,21585883,2012,Influenza
+Zone:10,1225,34.09,0,0.0,3593082,2012,Influenza
+Bungkan,160,39.25,0,0.0,407634,2012,Influenza
+Loei,750,120.02,0,0.0,624920,2012,Influenza
+Nong Bua Lam Phu,19,3.78,0,0.0,502551,2012,Influenza
+Nong Khai,157,30.79,0,0.0,509870,2012,Influenza
+Udon Thani,139,8.98,0,0.0,1548107,2012,Influenza
+Zone:11,1658,76.45,0,0.0,2168700,2012,Influenza
+Mukdahan,23,6.75,0,0.0,340581,2012,Influenza
+Nakhon Phanom,696,98.76,0,0.0,704768,2012,Influenza
+Sakon Nakhon,939,83.59,0,0.0,1123351,2012,Influenza
+Zone:12,1090,21.83,0,0.0,4992515,2012,Influenza
+Kalasin,92,9.37,0,0.0,981655,2012,Influenza
+Khon Kaen,819,46.37,0,0.0,1766066,2012,Influenza
+Maha Sarakham,135,14.37,0,0.0,939736,2012,Influenza
+Roi Et,44,3.37,0,0.0,1305058,2012,Influenza
+Zone:13,1985,47.5,0,0.0,4179354,2012,Influenza
+Amnat Charoen,57,15.31,0,0.0,372241,2012,Influenza
+Si Sa Ket,340,23.41,0,0.0,1452203,2012,Influenza
+Ubon Ratchathani,1351,74.39,0,0.0,1816057,2012,Influenza
+Yasothon,237,43.98,0,0.0,538853,2012,Influenza
+Zone:14,3142,47.23,2,0.03,6652232,2012,Influenza
+Buri Ram,666,42.72,0,0.0,1559085,2012,Influenza
+Chaiyaphum,149,13.22,0,0.0,1127423,2012,Influenza
+Nakhon Ratchasima,1566,60.57,1,0.04,2585325,2012,Influenza
+Surin,761,55.13,1,0.07,1380399,2012,Influenza
+North Region,14540,123.39,0,0.0,11783311,2012,Influenza
+Zone:15,6649,217.88,0,0.0,3051678,2012,Influenza
+Chiang Mai,2775,168.58,0,0.0,1646144,2012,Influenza
+Lampang,3476,458.86,0,0.0,757534,2012,Influenza
+Lamphun,247,61.15,0,0.0,403952,2012,Influenza
+Mae Hong Son,151,61.87,0,0.0,244048,2012,Influenza
+Zone:16,1961,74.83,0,0.0,2620490,2012,Influenza
+Chiang Rai,1062,88.6,0,0.0,1198656,2012,Influenza
+Nan,332,69.66,0,0.0,476612,2012,Influenza
+Phayao,402,82.64,0,0.0,486472,2012,Influenza
+Phrae,165,35.97,0,0.0,458750,2012,Influenza
+Zone:17,4140,120.5,0,0.0,3435726,2012,Influenza
+Phetchabun,265,26.75,0,0.0,990807,2012,Influenza
+Phitsanulok,1636,192.16,0,0.0,851357,2012,Influenza
+Sukhothai,430,71.49,0,0.0,601504,2012,Influenza
+Tak,476,89.64,0,0.0,531018,2012,Influenza
+Uttaradit,1333,289.13,0,0.0,461040,2012,Influenza
+Zone:18,1790,66.91,0,0.0,2675417,2012,Influenza
+Kamphaeng Phet,625,86.09,0,0.0,726009,2012,Influenza
+Nakhon Sawan,484,45.16,0,0.0,1071686,2012,Influenza
+Phichit,224,40.75,0,0.0,549688,2012,Influenza
+Uthai Thani,457,139.31,0,0.0,328034,2012,Influenza
 Total,29918,47.53,0,0.0,62939819,2003,Influenza
 North Region,4295,35.44,0,0.0,12120537,2003,Influenza
 Zone:1,2299,39.89,0,0.0,5764017,2003,Influenza
@@ -300,706 +774,6 @@ Yala,119,25.76,0,0.0,461995,2005,Influenza
 Zone:19,1257,80.18,0,0.0,1567672,2005,Influenza
 Satun,399,144.72,0,0.0,275706,2005,Influenza
 Songkhla,858,66.41,0,0.0,1291966,2005,Influenza
-Total,17424,27.82,1,0.0,62623416,2006,Influenza
-North Region,2447,20.59,0,0.0,11887142,2006,Influenza
-Zone:1,954,16.6,0,0.0,5748673,2006,Influenza
-Chiang Mai,181,10.94,0,0.0,1654154,2006,Influenza
-Chiang Rai,190,15.51,0,0.0,1225386,2006,Influenza
-Lampang,64,8.26,0,0.0,775259,2006,Influenza
-Lamphun,63,15.55,0,0.0,405146,2006,Influenza
-Mae Hong Son,82,32.23,0,0.0,254392,2006,Influenza
-Nan,179,37.46,0,0.0,477871,2006,Influenza
-Phayao,100,20.55,0,0.0,486554,2006,Influenza
-Phrae,95,20.22,0,0.0,469911,2006,Influenza
-Zone:2,949,27.52,0,0.0,3448091,2006,Influenza
-Phetchabun,243,24.24,0,0.0,1002388,2006,Influenza
-Phitsanulok,148,17.56,0,0.0,842739,2006,Influenza
-Sukhothai,302,49.54,0,0.0,609591,2006,Influenza
-Tak,216,41.15,0,0.0,524938,2006,Influenza
-Uttaradit,40,8.54,0,0.0,468435,2006,Influenza
-Zone:3,544,20.22,0,0.0,2690378,2006,Influenza
-Kamphaeng Phet,104,14.28,0,0.0,728293,2006,Influenza
-Nakhon Sawan,170,15.79,0,0.0,1076911,2006,Influenza
-Phichit,203,36.36,0,0.0,558314,2006,Influenza
-Uthai Thani,67,20.5,0,0.0,326860,2006,Influenza
-Central Region,7110,34.14,1,0.0,20825142,2006,Influenza
-Bangkok,1159,20.41,0,0.0,5677455,2006,Influenza
-Zone:4,259,9.06,0,0.0,2858658,2006,Influenza
-Ang Thong,27,9.51,0,0.0,283861,2006,Influenza
-Nonthaburi,120,12.17,0,0.0,985669,2006,Influenza
-P.Nakhon S.Ayutthaya,91,12.12,0,0.0,750757,2006,Influenza
-Pathum Thani,21,2.5,0,0.0,838371,2006,Influenza
-Zone:5,290,15.14,0,0.0,1915186,2006,Influenza
-Chai Nat,66,19.44,0,0.0,339568,2006,Influenza
-Lop Buri,108,14.35,0,0.0,752364,2006,Influenza
-Saraburi,60,9.9,0,0.0,605897,2006,Influenza
-Sing Buri,56,25.76,0,0.0,217357,2006,Influenza
-Zone:6,2228,67.21,0,0.0,3315213,2006,Influenza
-Kanchanaburi,880,105.98,0,0.0,830309,2006,Influenza
-Nakhon Pathom,471,57.76,0,0.0,815433,2006,Influenza
-Ratchaburi,774,93.68,0,0.0,826212,2006,Influenza
-Suphan Buri,103,12.21,0,0.0,843259,2006,Influenza
-Zone:7,1161,72.64,0,0.0,1598232,2006,Influenza
-Phetchaburi,331,72.69,0,0.0,455332,2006,Influenza
-Prachuap Khiri Khan,170,34.65,0,0.0,490607,2006,Influenza
-Samut Sakhon,503,110.0,0,0.0,457264,2006,Influenza
-Samut Songkhram,157,80.5,0,0.0,195029,2006,Influenza
-Zone:8,354,11.87,1,0.03,2983258,2006,Influenza
-Chachoengsao,173,26.58,1,0.15,650909,2006,Influenza
-Nakhon Nayok,17,6.79,0,0.0,250392,2006,Influenza
-Prachin Buri,56,12.4,0,0.0,451721,2006,Influenza
-Sa Kaeo,58,10.79,0,0.0,537661,2006,Influenza
-Samut Prakan,50,4.58,0,0.0,1092575,2006,Influenza
-Zone:9,1659,66.97,0,0.0,2477140,2006,Influenza
-Chanthaburi,651,130.13,0,0.0,500275,2006,Influenza
-Chon Buri,667,56.01,0,0.0,1190861,2006,Influenza
-Rayong,293,51.72,0,0.0,566461,2006,Influenza
-Trat,48,21.86,0,0.0,219543,2006,Influenza
-North-Eastern Region,3064,14.35,0,0.0,21352480,2006,Influenza
-Zone:10,486,13.76,0,0.0,3533061,2006,Influenza
-Loei,231,37.69,0,0.0,612863,2006,Influenza
-Nong Bua Lam Phu,23,4.63,0,0.0,496675,2006,Influenza
-Nong Khai,32,3.56,0,0.0,897840,2006,Influenza
-Udon Thani,200,13.11,0,0.0,1525683,2006,Influenza
-Zone:11,456,14.66,0,0.0,3110390,2006,Influenza
-Kalasin,120,12.31,0,0.0,974560,2006,Influenza
-Mukdahan,9,2.69,0,0.0,334781,2006,Influenza
-Nakhon Phanom,171,24.62,0,0.0,694473,2006,Influenza
-Sakon Nakhon,156,14.1,0,0.0,1106576,2006,Influenza
-Zone:12,358,8.96,0,0.0,3996666,2006,Influenza
-Khon Kaen,192,10.98,0,0.0,1749021,2006,Influenza
-Maha Sarakham,144,15.36,0,0.0,937285,2006,Influenza
-Roi Et,22,1.68,0,0.0,1310360,2006,Influenza
-Zone:13,1322,20.1,0,0.0,6578271,2006,Influenza
-Buri Ram,548,35.72,0,0.0,1534076,2006,Influenza
-Chaiyaphum,61,5.46,0,0.0,1118040,2006,Influenza
-Nakhon Ratchasima,160,6.27,0,0.0,2551176,2006,Influenza
-Surin,553,40.22,0,0.0,1374979,2006,Influenza
-Zone:14,442,10.69,0,0.0,4134092,2006,Influenza
-Amnat Charoen,28,7.59,0,0.0,368863,2006,Influenza
-Si Sa Ket,178,12.32,0,0.0,1445230,2006,Influenza
-Ubon Ratchathani,203,11.41,0,0.0,1778922,2006,Influenza
-Yasothon,33,6.1,0,0.0,541077,2006,Influenza
-South Region,4803,56.12,0,0.0,8558652,2006,Influenza
-Zone:15,1235,76.69,0,0.0,1610374,2006,Influenza
-Chumphon,64,13.41,0,0.0,477364,2006,Influenza
-Ranong,47,26.26,0,0.0,178986,2006,Influenza
-Surat Thani,1124,117.82,0,0.0,954024,2006,Influenza
-Zone:16,1949,74.56,0,0.0,2614100,2006,Influenza
-Nakhon Si Thammarat,896,59.44,0,0.0,1507440,2006,Influenza
-Phatthalung,309,61.56,0,0.0,501912,2006,Influenza
-Trang,744,123.03,0,0.0,604748,2006,Influenza
-Zone:17,428,45.56,0,0.0,939424,2006,Influenza
-Krabi,104,26.03,0,0.0,399514,2006,Influenza
-Phangnga,110,45.19,0,0.0,243419,2006,Influenza
-Phuket,214,72.18,0,0.0,296491,2006,Influenza
-Zone:18,635,35.18,0,0.0,1805088,2006,Influenza
-Narathiwat,428,60.81,0,0.0,703848,2006,Influenza
-Pattani,126,19.84,0,0.0,635053,2006,Influenza
-Yala,81,17.38,0,0.0,466187,2006,Influenza
-Zone:19,556,34.98,0,0.0,1589666,2006,Influenza
-Satun,152,54.34,0,0.0,279705,2006,Influenza
-Songkhla,404,30.84,0,0.0,1309961,2006,Influenza
-Total,18368,29.19,15,0.02,62933515,2007,Influenza
-North Region,2118,17.83,3,0.03,11881352,2007,Influenza
-Zone:1,886,15.41,0,0.0,5750312,2007,Influenza
-Chiang Mai,209,12.58,0,0.0,1661349,2007,Influenza
-Chiang Rai,150,12.24,0,0.0,1225364,2007,Influenza
-Lampang,54,6.99,0,0.0,772202,2007,Influenza
-Lamphun,80,19.74,0,0.0,405361,2007,Influenza
-Mae Hong Son,111,43.53,0,0.0,254990,2007,Influenza
-Nan,110,23.04,0,0.0,477522,2007,Influenza
-Phayao,126,25.9,0,0.0,486399,2007,Influenza
-Phrae,46,9.85,0,0.0,467125,2007,Influenza
-Zone:2,883,25.63,2,0.06,3445764,2007,Influenza
-Phetchabun,161,16.1,0,0.0,999924,2007,Influenza
-Phitsanulok,442,52.43,1,0.12,843096,2007,Influenza
-Sukhothai,93,15.32,1,0.16,607061,2007,Influenza
-Tak,151,28.53,0,0.0,529303,2007,Influenza
-Uttaradit,36,7.72,0,0.0,466380,2007,Influenza
-Zone:3,349,13.0,1,0.04,2685276,2007,Influenza
-Kamphaeng Phet,110,15.13,1,0.14,727158,2007,Influenza
-Nakhon Sawan,119,11.07,0,0.0,1074849,2007,Influenza
-Phichit,65,11.68,0,0.0,556287,2007,Influenza
-Uthai Thani,55,16.82,0,0.0,326982,2007,Influenza
-Central Region,8468,40.24,10,0.05,21043273,2007,Influenza
-Bangkok,2162,37.89,1,0.02,5706103,2007,Influenza
-Zone:4,577,19.68,2,0.07,2932544,2007,Influenza
-Ang Thong,32,11.26,0,0.0,284175,2007,Influenza
-Nonthaburi,222,21.94,1,0.1,1011624,2007,Influenza
-P.Nakhon S.Ayutthaya,108,14.25,1,0.13,757654,2007,Influenza
-Pathum Thani,215,24.46,0,0.0,879091,2007,Influenza
-Zone:5,307,16.0,2,0.1,1918492,2007,Influenza
-Chai Nat,52,15.38,1,0.3,338077,2007,Influenza
-Lop Buri,180,23.96,0,0.0,751298,2007,Influenza
-Saraburi,45,7.34,1,0.16,612806,2007,Influenza
-Sing Buri,30,13.87,0,0.0,216311,2007,Influenza
-Zone:6,1992,59.73,0,0.0,3334732,2007,Influenza
-Kanchanaburi,1044,125.05,0,0.0,834865,2007,Influenza
-Nakhon Pathom,192,23.23,0,0.0,826438,2007,Influenza
-Ratchaburi,453,54.57,0,0.0,830184,2007,Influenza
-Suphan Buri,303,35.93,0,0.0,843245,2007,Influenza
-Zone:7,616,38.22,2,0.12,1611697,2007,Influenza
-Phetchaburi,298,65.3,0,0.0,456371,2007,Influenza
-Prachuap Khiri Khan,167,33.77,2,0.4,494502,2007,Influenza
-Samut Sakhon,14,3.0,0,0.0,466222,2007,Influenza
-Samut Songkhram,137,70.4,0,0.0,194602,2007,Influenza
-Zone:8,990,32.82,2,0.07,3016265,2007,Influenza
-Chachoengsao,97,14.77,0,0.0,656586,2007,Influenza
-Nakhon Nayok,34,13.64,0,0.0,249250,2007,Influenza
-Prachin Buri,139,30.59,1,0.22,454404,2007,Influenza
-Sa Kaeo,51,9.47,0,0.0,538741,2007,Influenza
-Samut Prakan,669,59.88,1,0.09,1117284,2007,Influenza
-Zone:9,1824,72.28,1,0.04,2523440,2007,Influenza
-Chanthaburi,709,140.9,0,0.0,503197,2007,Influenza
-Chon Buri,667,54.61,0,0.0,1221369,2007,Influenza
-Rayong,325,56.17,1,0.17,578628,2007,Influenza
-Trat,123,55.85,0,0.0,220246,2007,Influenza
-North-Eastern Region,3442,16.1,2,0.01,21381249,2007,Influenza
-Zone:10,515,14.54,2,0.06,3541793,2007,Influenza
-Loei,106,17.25,0,0.0,614421,2007,Influenza
-Nong Bua Lam Phu,105,21.12,0,0.0,497148,2007,Influenza
-Nong Khai,104,11.54,2,0.22,901100,2007,Influenza
-Udon Thani,200,13.08,0,0.0,1529124,2007,Influenza
-Zone:11,409,13.11,0,0.0,3119599,2007,Influenza
-Kalasin,134,13.72,0,0.0,976536,2007,Influenza
-Mukdahan,32,9.53,0,0.0,335778,2007,Influenza
-Nakhon Phanom,175,25.14,0,0.0,696229,2007,Influenza
-Sakon Nakhon,68,6.12,0,0.0,1111056,2007,Influenza
-Zone:12,496,12.41,0,0.0,3997622,2007,Influenza
-Khon Kaen,195,11.13,0,0.0,1751458,2007,Influenza
-Maha Sarakham,191,20.39,0,0.0,936846,2007,Influenza
-Roi Et,110,8.4,0,0.0,1309318,2007,Influenza
-Zone:13,1231,18.7,0,0.0,6583974,2007,Influenza
-Buri Ram,460,29.94,0,0.0,1536396,2007,Influenza
-Chaiyaphum,64,5.72,0,0.0,1119372,2007,Influenza
-Nakhon Ratchasima,125,4.89,0,0.0,2554241,2007,Influenza
-Surin,582,42.36,0,0.0,1373965,2007,Influenza
-Zone:14,791,19.11,0,0.0,4138261,2007,Influenza
-Amnat Charoen,53,14.37,0,0.0,368925,2007,Influenza
-Si Sa Ket,322,22.29,0,0.0,1444748,2007,Influenza
-Ubon Ratchathani,252,14.12,0,0.0,1784372,2007,Influenza
-Yasothon,164,30.36,0,0.0,540216,2007,Influenza
-South Region,4340,50.3,0,0.0,8627641,2007,Influenza
-Zone:15,864,53.14,0,0.0,1626011,2007,Influenza
-Chumphon,57,11.87,0,0.0,480131,2007,Influenza
-Ranong,64,35.49,0,0.0,180319,2007,Influenza
-Surat Thani,743,76.95,0,0.0,965561,2007,Influenza
-Zone:16,1778,67.85,0,0.0,2620564,2007,Influenza
-Nakhon Si Thammarat,648,42.95,0,0.0,1508729,2007,Influenza
-Phatthalung,419,83.31,0,0.0,502943,2007,Influenza
-Trang,711,116.77,0,0.0,608892,2007,Influenza
-Zone:17,649,67.52,0,0.0,961258,2007,Influenza
-Krabi,121,29.73,0,0.0,406999,2007,Influenza
-Phangnga,202,82.07,0,0.0,246141,2007,Influenza
-Phuket,326,105.8,0,0.0,308118,2007,Influenza
-Zone:18,535,29.47,0,0.0,1815585,2007,Influenza
-Narathiwat,424,59.77,0,0.0,709345,2007,Influenza
-Pattani,45,7.07,0,0.0,636768,2007,Influenza
-Yala,66,14.06,0,0.0,469472,2007,Influenza
-Zone:19,514,32.04,0,0.0,1604223,2007,Influenza
-Satun,117,41.34,0,0.0,283014,2007,Influenza
-Songkhla,397,30.05,0,0.0,1321209,2007,Influenza
-Total,20881,33.03,2,0.0,63214022,2008,Influenza
-Central Region,10807,50.91,0,0.0,21226352,2008,Influenza
-Bangkok,4195,73.42,0,0.0,5713566,2008,Influenza
-Zone:1,739,22.16,0,0.0,3335057,2008,Influenza
-Nonthaburi,212,20.42,0,0.0,1038392,2008,Influenza
-P.Nakhon S.Ayutthaya,180,23.53,0,0.0,764919,2008,Influenza
-Pathum Thani,314,34.39,0,0.0,913047,2008,Influenza
-Saraburi,33,5.33,0,0.0,618699,2008,Influenza
-Zone:2,270,17.0,0,0.0,1588582,2008,Influenza
-Ang Thong,40,14.05,0,0.0,284619,2008,Influenza
-Chai Nat,70,20.8,0,0.0,336550,2008,Influenza
-Lop Buri,138,18.36,0,0.0,751811,2008,Influenza
-Sing Buri,22,10.2,0,0.0,215602,2008,Influenza
-Zone:3,992,32.57,0,0.0,3046070,2008,Influenza
-Chachoengsao,133,20.09,0,0.0,661898,2008,Influenza
-Nakhon Nayok,25,10.02,0,0.0,249625,2008,Influenza
-Prachin Buri,133,29.09,0,0.0,457184,2008,Influenza
-Sa Kaeo,78,14.44,0,0.0,540281,2008,Influenza
-Samut Prakan,623,54.79,0,0.0,1137082,2008,Influenza
-Zone:4,1812,54.05,0,0.0,3352570,2008,Influenza
-Kanchanaburi,497,59.3,0,0.0,838094,2008,Influenza
-Nakhon Pathom,285,34.04,0,0.0,837285,2008,Influenza
-Ratchaburi,831,99.68,0,0.0,833650,2008,Influenza
-Suphan Buri,199,23.59,0,0.0,843541,2008,Influenza
-Zone:5,668,41.15,0,0.0,1623176,2008,Influenza
-Phetchaburi,327,71.47,0,0.0,457518,2008,Influenza
-Prachuap Khiri Khan,167,33.57,0,0.0,497483,2008,Influenza
-Samut Sakhon,47,9.91,0,0.0,474041,2008,Influenza
-Samut Songkhram,127,65.42,0,0.0,194134,2008,Influenza
-Zone:9,2131,83.0,0,0.0,2567331,2008,Influenza
-Chanthaburi,556,109.88,0,0.0,506012,2008,Influenza
-Chon Buri,897,71.81,0,0.0,1249067,2008,Influenza
-Rayong,490,82.9,0,0.0,591067,2008,Influenza
-Trat,188,85.0,0,0.0,221185,2008,Influenza
-South Region,4180,48.06,1,0.01,8698196,2008,Influenza
-Zone:6,1714,49.34,1,0.03,3473895,2008,Influenza
-Chumphon,61,12.63,0,0.0,483011,2008,Influenza
-Nakhon Si Thammarat,855,56.62,1,0.07,1510081,2008,Influenza
-Phatthalung,382,75.82,0,0.0,503847,2008,Influenza
-Surat Thani,416,42.58,0,0.0,976956,2008,Influenza
-Zone:7,1449,81.46,0,0.0,1778692,2008,Influenza
-Krabi,144,34.73,0,0.0,414670,2008,Influenza
-Phangnga,260,104.67,0,0.0,248411,2008,Influenza
-Phuket,211,65.68,0,0.0,321252,2008,Influenza
-Ranong,20,11.0,0,0.0,181758,2008,Influenza
-Trang,814,132.88,0,0.0,612601,2008,Influenza
-Zone:8,1017,29.52,0,0.0,3445609,2008,Influenza
-Narathiwat,365,51.0,0,0.0,715724,2008,Influenza
-Pattani,75,11.72,0,0.0,639988,2008,Influenza
-Satun,132,46.08,0,0.0,286446,2008,Influenza
-Songkhla,374,28.11,0,0.0,1330342,2008,Influenza
-Yala,71,15.01,0,0.0,473109,2008,Influenza
-North-Eastern Region,3208,14.98,1,0.0,21414180,2008,Influenza
-Zone:10,366,10.3,0,0.0,3553449,2008,Influenza
-Loei,89,14.43,0,0.0,616981,2008,Influenza
-Nong Bua Lam Phu,52,10.43,0,0.0,498562,2008,Influenza
-Nong Khai,126,13.93,0,0.0,904748,2008,Influenza
-Udon Thani,99,6.46,0,0.0,1533158,2008,Influenza
-Zone:11,230,10.7,0,0.0,2149587,2008,Influenza
-Mukdahan,56,16.63,0,0.0,336802,2008,Influenza
-Nakhon Phanom,81,11.6,0,0.0,698235,2008,Influenza
-Sakon Nakhon,93,8.34,0,0.0,1114550,2008,Influenza
-Zone:12,588,11.82,0,0.0,4976635,2008,Influenza
-Kalasin,105,10.74,0,0.0,978046,2008,Influenza
-Khon Kaen,190,10.83,0,0.0,1754258,2008,Influenza
-Maha Sarakham,218,23.28,0,0.0,936430,2008,Influenza
-Roi Et,75,5.73,0,0.0,1307901,2008,Influenza
-Zone:13,822,19.85,0,0.0,4141403,2008,Influenza
-Amnat Charoen,17,4.6,0,0.0,369196,2008,Influenza
-Si Sa Ket,393,27.25,0,0.0,1442212,2008,Influenza
-Ubon Ratchathani,349,19.49,0,0.0,1790581,2008,Influenza
-Yasothon,63,11.68,0,0.0,539414,2008,Influenza
-Zone:14,1202,18.23,1,0.02,6593106,2008,Influenza
-Buri Ram,472,30.67,0,0.0,1538861,2008,Influenza
-Chaiyaphum,89,7.94,0,0.0,1121123,2008,Influenza
-Nakhon Ratchasima,152,5.94,0,0.0,2559006,2008,Influenza
-Surin,489,35.59,1,0.07,1374116,2008,Influenza
-North Region,2686,22.62,0,0.0,11875294,2008,Influenza
-Zone:15,756,24.42,0,0.0,3095362,2008,Influenza
-Chiang Mai,556,33.35,0,0.0,1667358,2008,Influenza
-Lampang,81,10.53,0,0.0,769115,2008,Influenza
-Lamphun,45,11.11,0,0.0,405141,2008,Influenza
-Mae Hong Son,74,29.16,0,0.0,253748,2008,Influenza
-Zone:16,540,20.34,0,0.0,2654508,2008,Influenza
-Chiang Rai,208,16.96,0,0.0,1226165,2008,Influenza
-Nan,195,40.91,0,0.0,476683,2008,Influenza
-Phayao,123,25.26,0,0.0,486983,2008,Influenza
-Phrae,14,3.01,0,0.0,464677,2008,Influenza
-Zone:17,995,28.89,0,0.0,3443651,2008,Influenza
-Phetchabun,128,12.84,0,0.0,996882,2008,Influenza
-Phitsanulok,640,75.93,0,0.0,842840,2008,Influenza
-Sukhothai,35,5.79,0,0.0,604559,2008,Influenza
-Tak,141,26.37,0,0.0,534629,2008,Influenza
-Uttaradit,51,10.97,0,0.0,464741,2008,Influenza
-Zone:18,395,14.73,0,0.0,2681773,2008,Influenza
-Kamphaeng Phet,72,9.92,0,0.0,726104,2008,Influenza
-Nakhon Sawan,182,16.95,0,0.0,1073962,2008,Influenza
-Phichit,101,18.22,0,0.0,554426,2008,Influenza
-Uthai Thani,40,12.22,0,0.0,327281,2008,Influenza
-Total,120400,189.73,231,0.36,63457439,2009,Influenza
-Central Region,48984,229.05,99,0.46,21386001,2009,Influenza
-Bangkok,19197,336.39,30,0.53,5706739,2009,Influenza
-Zone:1,6053,178.16,15,0.44,3397461,2009,Influenza
-Nonthaburi,2219,208.29,4,0.38,1065332,2009,Influenza
-P.Nakhon S.Ayutthaya,1679,217.45,6,0.78,772142,2009,Influenza
-Pathum Thani,1665,176.6,4,0.42,942813,2009,Influenza
-Saraburi,490,79.39,1,0.16,617174,2009,Influenza
-Zone:2,2697,169.62,6,0.38,1590058,2009,Influenza
-Ang Thong,154,54.07,0,0.0,284819,2009,Influenza
-Chai Nat,517,154.01,1,0.3,335686,2009,Influenza
-Lop Buri,1674,221.98,5,0.66,754127,2009,Influenza
-Sing Buri,352,163.4,0,0.0,215426,2009,Influenza
-Zone:3,4762,154.79,8,0.26,3076347,2009,Influenza
-Chachoengsao,707,106.01,1,0.15,666907,2009,Influenza
-Nakhon Nayok,332,132.16,2,0.8,251219,2009,Influenza
-Prachin Buri,1013,219.92,1,0.22,460617,2009,Influenza
-Sa Kaeo,281,51.85,0,0.0,541939,2009,Influenza
-Samut Prakan,2429,210.18,4,0.35,1155665,2009,Influenza
-Zone:4,6929,205.93,17,0.51,3364769,2009,Influenza
-Kanchanaburi,2872,343.06,4,0.48,837165,2009,Influenza
-Nakhon Pathom,1523,179.7,3,0.35,847513,2009,Influenza
-Ratchaburi,1735,207.65,9,1.08,835546,2009,Influenza
-Suphan Buri,799,94.61,1,0.12,844545,2009,Influenza
-Zone:5,2961,180.82,14,0.85,1637557,2009,Influenza
-Phetchaburi,1142,248.2,5,1.09,460108,2009,Influenza
-Prachuap Khiri Khan,821,163.47,4,0.8,502221,2009,Influenza
-Samut Sakhon,761,158.09,4,0.83,481377,2009,Influenza
-Samut Songkhram,237,122.26,1,0.52,193851,2009,Influenza
-Zone:9,6385,244.35,9,0.34,2613070,2009,Influenza
-Chanthaburi,1473,289.03,1,0.2,509633,2009,Influenza
-Chon Buri,2363,185.02,7,0.55,1277139,2009,Influenza
-Rayong,2050,338.63,1,0.17,605380,2009,Influenza
-Trat,499,225.88,0,0.0,220918,2009,Influenza
-South Region,19008,216.55,31,0.35,8777720,2009,Influenza
-Zone:6,9222,263.76,19,0.54,3496373,2009,Influenza
-Chumphon,1073,220.68,4,0.82,486233,2009,Influenza
-Nakhon Si Thammarat,3452,227.88,11,0.73,1514832,2009,Influenza
-Phatthalung,1550,306.05,0,0.0,506454,2009,Influenza
-Surat Thani,3147,318.25,4,0.4,988854,2009,Influenza
-Zone:7,5758,319.2,6,0.33,1803902,2009,Influenza
-Krabi,894,211.53,2,0.47,422631,2009,Influenza
-Phangnga,812,323.77,0,0.0,250796,2009,Influenza
-Phuket,1420,428.41,2,0.6,331460,2009,Influenza
-Ranong,204,111.94,1,0.55,182242,2009,Influenza
-Trang,2428,393.66,1,0.16,616773,2009,Influenza
-Zone:8,4028,115.83,6,0.17,3477445,2009,Influenza
-Narathiwat,990,136.74,0,0.0,724001,2009,Influenza
-Pattani,497,77.07,2,0.31,644897,2009,Influenza
-Satun,190,65.35,0,0.0,290755,2009,Influenza
-Songkhla,2199,164.12,4,0.3,1339861,2009,Influenza
-Yala,152,31.8,0,0.0,477931,2009,Influenza
-North-Eastern Region,26088,121.51,55,0.26,21469269,2009,Influenza
-Zone:10,4660,130.75,12,0.34,3564168,2009,Influenza
-Loei,709,114.43,2,0.32,619602,2009,Influenza
-Nong Bua Lam Phu,375,74.97,2,0.4,500217,2009,Influenza
-Nong Khai,586,64.6,3,0.33,907064,2009,Influenza
-Udon Thani,2990,194.5,5,0.33,1537285,2009,Influenza
-Zone:11,1863,86.45,9,0.42,2155042,2009,Influenza
-Mukdahan,302,89.41,2,0.59,337773,2009,Influenza
-Nakhon Phanom,601,85.85,3,0.43,700027,2009,Influenza
-Sakon Nakhon,960,85.93,4,0.36,1117242,2009,Influenza
-Zone:12,5125,102.82,11,0.22,4984201,2009,Influenza
-Kalasin,643,65.65,2,0.2,979371,2009,Influenza
-Khon Kaen,3128,177.81,3,0.17,1759172,2009,Influenza
-Maha Sarakham,694,73.99,3,0.32,937972,2009,Influenza
-Roi Et,660,50.47,3,0.23,1307686,2009,Influenza
-Zone:13,5897,142.0,9,0.22,4152834,2009,Influenza
-Amnat Charoen,259,69.97,1,0.27,370141,2009,Influenza
-Si Sa Ket,1325,91.77,5,0.35,1443879,2009,Influenza
-Ubon Ratchathani,3949,219.44,1,0.06,1799604,2009,Influenza
-Yasothon,364,67.51,2,0.37,539210,2009,Influenza
-Zone:14,8543,129.18,14,0.21,6613024,2009,Influenza
-Buri Ram,3535,228.92,4,0.26,1544218,2009,Influenza
-Chaiyaphum,1220,108.55,1,0.09,1123907,2009,Influenza
-Nakhon Ratchasima,2863,111.48,6,0.23,2568205,2009,Influenza
-Surin,925,67.19,3,0.22,1376694,2009,Influenza
-North Region,26320,222.59,46,0.39,11824449,2009,Influenza
-Zone:15,9144,297.88,8,0.26,3069670,2009,Influenza
-Chiang Mai,6057,366.77,8,0.48,1651433,2009,Influenza
-Lampang,2175,283.92,0,0.0,766057,2009,Influenza
-Lamphun,638,157.57,0,0.0,404910,2009,Influenza
-Mae Hong Son,274,110.81,0,0.0,247270,2009,Influenza
-Zone:16,4056,153.81,5,0.19,2636963,2009,Influenza
-Chiang Rai,2008,165.8,2,0.17,1211126,2009,Influenza
-Nan,505,106.14,0,0.0,475799,2009,Influenza
-Phayao,1108,227.4,0,0.0,487254,2009,Influenza
-Phrae,435,94.0,3,0.65,462784,2009,Influenza
-Zone:17,9491,276.19,22,0.64,3436350,2009,Influenza
-Phetchabun,1598,160.49,2,0.2,995679,2009,Influenza
-Phitsanulok,2706,320.32,8,0.95,844779,2009,Influenza
-Sukhothai,2778,460.46,11,1.82,603316,2009,Influenza
-Tak,890,168.24,0,0.0,528997,2009,Influenza
-Uttaradit,1519,327.67,1,0.22,463579,2009,Influenza
-Zone:18,3629,135.34,11,0.41,2681466,2009,Influenza
-Kamphaeng Phet,888,122.22,2,0.28,726530,2009,Influenza
-Nakhon Sawan,1800,167.67,5,0.47,1073554,2009,Influenza
-Phichit,733,132.39,3,0.54,553653,2009,Influenza
-Uthai Thani,208,63.47,1,0.31,327729,2009,Influenza
-Total,115183,180.82,126,0.2,63701703,2010,Influenza
-Central Region,51038,237.01,40,0.19,21534318,2010,Influenza
-Zone:0,22446,393.65,10,0.18,5701995,2010,Influenza
-Bangkok,22446,393.65,10,0.18,5701995,2010,Influenza
-Zone:1,5283,152.93,2,0.06,3454591,2010,Influenza
-Nonthaburi,1727,158.45,0,0.0,1089908,2010,Influenza
-P.Nakhon S.Ayutthaya,1800,231.18,1,0.13,778627,2010,Influenza
-Pathum Thani,1185,122.04,0,0.0,971010,2010,Influenza
-Saraburi,571,92.84,1,0.16,615046,2010,Influenza
-Zone:2,1762,110.8,2,0.13,1590200,2010,Influenza
-Ang Thong,291,102.15,0,0.0,284889,2010,Influenza
-Chai Nat,255,76.08,0,0.0,335177,2010,Influenza
-Lop Buri,1065,141.03,2,0.26,755153,2010,Influenza
-Sing Buri,151,70.24,0,0.0,214981,2010,Influenza
-Zone:3,5526,177.93,6,0.19,3105799,2010,Influenza
-Chachoengsao,559,83.25,0,0.0,671458,2010,Influenza
-Nakhon Nayok,152,60.27,0,0.0,252209,2010,Influenza
-Prachin Buri,681,146.7,6,1.29,464213,2010,Influenza
-Sa Kaeo,278,51.17,0,0.0,543276,2010,Influenza
-Samut Prakan,3856,328.27,0,0.0,1174643,2010,Influenza
-Zone:4,4804,142.35,4,0.12,3374810,2010,Influenza
-Kanchanaburi,1149,137.34,0,0.0,836600,2010,Influenza
-Nakhon Pathom,1235,144.3,1,0.12,855837,2010,Influenza
-Ratchaburi,1453,173.56,3,0.36,837153,2010,Influenza
-Suphan Buri,967,114.41,0,0.0,845220,2010,Influenza
-Zone:5,1449,87.75,3,0.18,1651335,2010,Influenza
-Phetchaburi,476,102.89,0,0.0,462636,2010,Influenza
-Prachuap Khiri Khan,588,116.07,3,0.59,506599,2010,Influenza
-Samut Sakhon,272,55.71,0,0.0,488247,2010,Influenza
-Samut Songkhram,113,58.29,0,0.0,193853,2010,Influenza
-Zone:9,9768,367.83,13,0.49,2655588,2010,Influenza
-Chanthaburi,2068,403.17,8,1.56,512932,2010,Influenza
-Chon Buri,4144,318.05,4,0.31,1302942,2010,Influenza
-Rayong,2843,459.1,0,0.0,619249,2010,Influenza
-Trat,713,323.41,1,0.45,220465,2010,Influenza
-South Region,12949,146.26,26,0.29,8853473,2010,Influenza
-Zone:6,7429,211.39,17,0.48,3514344,2010,Influenza
-Chumphon,433,88.57,3,0.61,488855,2010,Influenza
-Nakhon Si Thammarat,2805,184.6,10,0.66,1519531,2010,Influenza
-Phatthalung,953,187.36,0,0.0,508656,2010,Influenza
-Surat Thani,3238,324.68,4,0.4,997302,2010,Influenza
-Zone:7,3233,177.09,5,0.27,1825591,2010,Influenza
-Krabi,287,66.8,1,0.23,429631,2010,Influenza
-Phangnga,620,245.66,0,0.0,252385,2010,Influenza
-Phuket,811,238.19,1,0.29,340490,2010,Influenza
-Ranong,31,16.99,0,0.0,182417,2010,Influenza
-Trang,1484,239.1,3,0.48,620668,2010,Influenza
-Zone:8,2287,65.09,4,0.11,3513538,2010,Influenza
-Narathiwat,779,106.33,0,0.0,732617,2010,Influenza
-Pattani,215,33.0,2,0.31,651442,2010,Influenza
-Satun,77,26.09,0,0.0,295133,2010,Influenza
-Songkhla,990,73.31,2,0.15,1350489,2010,Influenza
-Yala,226,46.71,0,0.0,483857,2010,Influenza
-North-Eastern Region,22721,105.51,29,0.13,21534582,2010,Influenza
-Zone:10,3204,89.59,7,0.2,3576272,2010,Influenza
-Loei,782,125.64,0,0.0,622424,2010,Influenza
-Nong Bua Lam Phu,46,9.17,3,0.6,501891,2010,Influenza
-Nong Khai,912,100.21,0,0.0,910094,2010,Influenza
-Udon Thani,1464,94.95,4,0.26,1541863,2010,Influenza
-Zone:11,2375,109.88,3,0.14,2161531,2010,Influenza
-Mukdahan,472,139.31,0,0.0,338812,2010,Influenza
-Nakhon Phanom,1057,150.56,1,0.14,702041,2010,Influenza
-Sakon Nakhon,846,75.49,2,0.18,1120678,2010,Influenza
-Zone:12,1974,39.52,6,0.12,4995226,2010,Influenza
-Kalasin,169,17.22,0,0.0,981369,2010,Influenza
-Khon Kaen,1191,67.48,2,0.11,1764922,2010,Influenza
-Maha Sarakham,265,28.19,0,0.0,940001,2010,Influenza
-Roi Et,349,26.66,4,0.31,1308934,2010,Influenza
-Zone:13,6916,165.91,2,0.05,4168498,2010,Influenza
-Amnat Charoen,346,93.14,0,0.0,371471,2010,Influenza
-Si Sa Ket,1060,73.13,0,0.0,1449409,2010,Influenza
-Ubon Ratchathani,4619,255.42,0,0.0,1808422,2010,Influenza
-Yasothon,891,165.25,2,0.37,539196,2010,Influenza
-Zone:14,8252,124.41,11,0.17,6633055,2010,Influenza
-Buri Ram,4426,285.5,1,0.06,1550275,2010,Influenza
-Chaiyaphum,509,45.19,0,0.0,1126295,2010,Influenza
-Nakhon Ratchasima,2714,105.33,7,0.27,2576691,2010,Influenza
-Surin,603,43.7,3,0.22,1379794,2010,Influenza
-North Region,28475,241.74,31,0.26,11779330,2010,Influenza
-Zone:15,7905,259.46,10,0.33,3046660,2010,Influenza
-Chiang Mai,3742,228.66,10,0.61,1636514,2010,Influenza
-Lampang,2898,379.71,0,0.0,763224,2010,Influenza
-Lamphun,923,228.11,0,0.0,404627,2010,Influenza
-Mae Hong Son,342,141.15,0,0.0,242295,2010,Influenza
-Zone:16,3712,141.64,2,0.08,2620701,2010,Influenza
-Chiang Rai,1836,153.44,2,0.17,1196576,2010,Influenza
-Nan,539,113.24,0,0.0,475989,2010,Influenza
-Phayao,636,130.67,0,0.0,486713,2010,Influenza
-Phrae,701,151.92,0,0.0,461423,2010,Influenza
-Zone:17,11835,344.95,16,0.47,3430959,2010,Influenza
-Phetchabun,590,59.26,1,0.1,995578,2010,Influenza
-Phitsanulok,4718,556.61,4,0.47,847627,2010,Influenza
-Sukhothai,3923,651.34,5,0.83,602296,2010,Influenza
-Tak,628,120.15,2,0.38,522673,2010,Influenza
-Uttaradit,1976,426.98,4,0.86,462785,2010,Influenza
-Zone:18,5023,187.35,3,0.11,2681010,2010,Influenza
-Kamphaeng Phet,1743,239.76,1,0.14,726970,2010,Influenza
-Nakhon Sawan,2017,187.95,0,0.0,1073182,2010,Influenza
-Phichit,727,131.48,0,0.0,552942,2010,Influenza
-Uthai Thani,536,163.46,2,0.61,327916,2010,Influenza
-Total,62112,97.08,7,0.01,63977185,2011,Influenza
-Central Region,27057,124.81,0,0.0,21679246,2011,Influenza
-Zone:0,14335,252.02,0,0.0,5688119,2011,Influenza
-Bangkok,14335,252.02,0,0.0,5688119,2011,Influenza
-Zone:1,2157,61.38,0,0.0,3514250,2011,Influenza
-Nonthaburi,648,58.26,0,0.0,1112185,2011,Influenza
-P.Nakhon S.Ayutthaya,991,126.26,0,0.0,784875,2011,Influenza
-Pathum Thani,239,23.94,0,0.0,998271,2011,Influenza
-Saraburi,279,45.08,0,0.0,618919,2011,Influenza
-Zone:2,854,53.75,0,0.0,1588727,2011,Influenza
-Ang Thong,191,67.13,0,0.0,284516,2011,Influenza
-Chai Nat,151,45.2,0,0.0,334096,2011,Influenza
-Lop Buri,461,60.98,0,0.0,755991,2011,Influenza
-Sing Buri,51,23.82,0,0.0,214124,2011,Influenza
-Zone:3,2254,71.85,0,0.0,3137098,2011,Influenza
-Chachoengsao,307,45.37,0,0.0,676652,2011,Influenza
-Nakhon Nayok,81,31.98,0,0.0,253283,2011,Influenza
-Prachin Buri,182,38.88,0,0.0,468113,2011,Influenza
-Sa Kaeo,174,31.94,0,0.0,544848,2011,Influenza
-Samut Prakan,1510,126.44,0,0.0,1194202,2011,Influenza
-Zone:4,2456,72.47,0,0.0,3388832,2011,Influenza
-Kanchanaburi,622,74.11,0,0.0,839345,2011,Influenza
-Nakhon Pathom,573,66.38,0,0.0,863155,2011,Influenza
-Ratchaburi,748,88.95,0,0.0,840880,2011,Influenza
-Suphan Buri,513,60.68,0,0.0,845452,2011,Influenza
-Zone:5,610,36.63,0,0.0,1665473,2011,Influenza
-Phetchaburi,194,41.72,0,0.0,465056,2011,Influenza
-Prachuap Khiri Khan,189,37.0,0,0.0,510852,2011,Influenza
-Samut Sakhon,143,28.86,0,0.0,495493,2011,Influenza
-Samut Songkhram,84,43.28,0,0.0,194072,2011,Influenza
-Zone:9,4391,162.83,0,0.0,2696747,2011,Influenza
-Chanthaburi,1238,240.05,0,0.0,515736,2011,Influenza
-Chon Buri,1446,108.93,0,0.0,1327475,2011,Influenza
-Rayong,1512,239.21,0,0.0,632069,2011,Influenza
-Trat,195,88.05,0,0.0,221467,2011,Influenza
-South Region,7960,89.11,2,0.02,8932459,2011,Influenza
-Zone:6,3270,92.58,2,0.06,3531913,2011,Influenza
-Chumphon,99,20.16,0,0.0,491073,2011,Influenza
-Nakhon Si Thammarat,1609,105.56,1,0.07,1524317,2011,Influenza
-Phatthalung,396,77.6,0,0.0,510299,2011,Influenza
-Surat Thani,1166,115.88,1,0.1,1006224,2011,Influenza
-Zone:7,1930,104.49,0,0.0,1846999,2011,Influenza
-Krabi,138,31.7,0,0.0,435372,2011,Influenza
-Phangnga,404,159.04,0,0.0,254022,2011,Influenza
-Phuket,868,248.39,0,0.0,349457,2011,Influenza
-Ranong,24,13.08,0,0.0,183464,2011,Influenza
-Trang,496,79.4,0,0.0,624684,2011,Influenza
-Zone:8,2760,77.67,0,0.0,3553547,2011,Influenza
-Narathiwat,241,32.47,0,0.0,742268,2011,Influenza
-Pattani,121,18.35,0,0.0,659373,2011,Influenza
-Satun,70,23.39,0,0.0,299315,2011,Influenza
-Songkhla,2130,156.39,0,0.0,1362017,2011,Influenza
-Yala,198,40.36,0,0.0,490574,2011,Influenza
-North-Eastern Region,10383,48.11,3,0.01,21579612,2011,Influenza
-Zone:10,1701,47.4,0,0.0,3588872,2011,Influenza
-Bungkan,68,33.36,0,0.0,203818,2011,Influenza
-Loei,908,145.4,0,0.0,624493,2011,Influenza
-Nong Bua Lam Phu,30,5.97,0,0.0,502710,2011,Influenza
-Nong Khai,448,62.97,0,0.0,711404,2011,Influenza
-Udon Thani,247,15.97,0,0.0,1546447,2011,Influenza
-Zone:11,1365,62.98,0,0.0,2167288,2011,Influenza
-Mukdahan,166,48.81,0,0.0,340079,2011,Influenza
-Nakhon Phanom,809,114.9,0,0.0,704080,2011,Influenza
-Sakon Nakhon,390,34.72,0,0.0,1123129,2011,Influenza
-Zone:12,1296,25.94,1,0.02,4996659,2011,Influenza
-Kalasin,116,11.81,0,0.0,982117,2011,Influenza
-Khon Kaen,930,52.64,1,0.06,1766834,2011,Influenza
-Maha Sarakham,165,17.55,0,0.0,940324,2011,Influenza
-Roi Et,85,6.5,0,0.0,1307384,2011,Influenza
-Zone:13,3052,73.05,1,0.02,4178156,2011,Influenza
-Amnat Charoen,89,23.91,0,0.0,372190,2011,Influenza
-Si Sa Ket,552,38.01,1,0.07,1452338,2011,Influenza
-Ubon Ratchathani,1953,107.63,0,0.0,1814573,2011,Influenza
-Yasothon,458,84.96,0,0.0,539055,2011,Influenza
-Zone:14,2969,44.66,1,0.02,6648637,2011,Influenza
-Buri Ram,1352,86.87,0,0.0,1556426,2011,Influenza
-Chaiyaphum,331,29.36,0,0.0,1127423,2011,Influenza
-Nakhon Ratchasima,990,38.32,1,0.04,2583707,2011,Influenza
-Surin,296,21.43,0,0.0,1381081,2011,Influenza
-North Region,16712,141.8,2,0.02,11785868,2011,Influenza
-Zone:15,7111,233.09,1,0.03,3050706,2011,Influenza
-Chiang Mai,3043,185.17,1,0.06,1643312,2011,Influenza
-Lampang,3375,444.23,0,0.0,759742,2011,Influenza
-Lamphun,489,120.96,0,0.0,404257,2011,Influenza
-Mae Hong Son,204,83.81,0,0.0,243395,2011,Influenza
-Zone:16,2081,79.4,0,0.0,2621067,2011,Influenza
-Chiang Rai,1273,106.22,0,0.0,1198438,2011,Influenza
-Nan,388,81.43,0,0.0,476488,2011,Influenza
-Phayao,212,43.59,0,0.0,486388,2011,Influenza
-Phrae,208,45.24,0,0.0,459753,2011,Influenza
-Zone:17,5092,148.21,1,0.03,3435767,2011,Influenza
-Phetchabun,408,41.07,0,0.0,993420,2011,Influenza
-Phitsanulok,2131,250.55,1,0.12,850525,2011,Influenza
-Sukhothai,879,146.1,0,0.0,601642,2011,Influenza
-Tak,530,100.31,0,0.0,528351,2011,Influenza
-Uttaradit,1144,247.71,0,0.0,461829,2011,Influenza
-Zone:18,2428,90.65,0,0.0,2678328,2011,Influenza
-Kamphaeng Phet,859,118.23,0,0.0,726551,2011,Influenza
-Nakhon Sawan,470,43.82,0,0.0,1072591,2011,Influenza
-Phichit,593,107.59,0,0.0,551189,2011,Influenza
-Uthai Thani,506,154.27,0,0.0,327997,2011,Influenza
-Total,61689,96.27,2,0.0,64075986,2012,Influenza
-Central Region,31294,143.98,0,0.0,21734984,2012,Influenza
-Zone:0,16607,292.64,0,0.0,5674843,2012,Influenza
-Bangkok,16607,292.64,0,0.0,5674843,2012,Influenza
-Zone:1,3228,91.14,0,0.0,3541632,2012,Influenza
-Nonthaburi,869,77.41,0,0.0,1122627,2012,Influenza
-P.Nakhon S.Ayutthaya,1760,223.45,0,0.0,787653,2012,Influenza
-Pathum Thani,378,37.39,0,0.0,1010898,2012,Influenza
-Saraburi,221,35.62,0,0.0,620454,2012,Influenza
-Zone:2,1081,68.11,0,0.0,1587031,2012,Influenza
-Ang Thong,232,81.67,0,0.0,284061,2012,Influenza
-Chai Nat,145,43.51,0,0.0,333256,2012,Influenza
-Lop Buri,683,90.33,0,0.0,756127,2012,Influenza
-Sing Buri,21,9.83,0,0.0,213587,2012,Influenza
-Zone:3,2370,75.2,0,0.0,3151672,2012,Influenza
-Chachoengsao,139,20.46,0,0.0,679370,2012,Influenza
-Nakhon Nayok,51,20.09,0,0.0,253831,2012,Influenza
-Prachin Buri,187,39.82,0,0.0,469652,2012,Influenza
-Sa Kaeo,93,17.05,0,0.0,545596,2012,Influenza
-Samut Prakan,1900,157.91,0,0.0,1203223,2012,Influenza
-Zone:4,2883,84.98,0,0.0,3392715,2012,Influenza
-Kanchanaburi,779,92.86,0,0.0,838914,2012,Influenza
-Nakhon Pathom,790,91.22,0,0.0,866064,2012,Influenza
-Ratchaburi,717,85.09,0,0.0,842684,2012,Influenza
-Suphan Buri,597,70.65,0,0.0,845053,2012,Influenza
-Zone:5,596,35.65,0,0.0,1671831,2012,Influenza
-Phetchaburi,265,56.86,0,0.0,466079,2012,Influenza
-Prachuap Khiri Khan,208,40.58,0,0.0,512568,2012,Influenza
-Samut Sakhon,72,14.43,0,0.0,499098,2012,Influenza
-Samut Songkhram,51,26.28,0,0.0,194086,2012,Influenza
-Zone:9,4529,166.8,0,0.0,2715260,2012,Influenza
-Chanthaburi,794,153.62,0,0.0,516855,2012,Influenza
-Chon Buri,1508,112.65,0,0.0,1338656,2012,Influenza
-Rayong,2188,343.09,0,0.0,637736,2012,Influenza
-Trat,39,17.57,0,0.0,222013,2012,Influenza
-South Region,6755,75.29,0,0.0,8971808,2012,Influenza
-Zone:6,2950,83.3,0,0.0,3541333,2012,Influenza
-Chumphon,97,19.71,0,0.0,492182,2012,Influenza
-Nakhon Si Thammarat,1005,65.86,0,0.0,1526071,2012,Influenza
-Phatthalung,474,92.76,0,0.0,511016,2012,Influenza
-Surat Thani,1374,135.76,0,0.0,1012064,2012,Influenza
-Zone:7,2850,153.44,0,0.0,1857374,2012,Influenza
-Krabi,332,75.79,0,0.0,438039,2012,Influenza
-Phangnga,345,135.33,0,0.0,254931,2012,Influenza
-Phuket,1182,334.04,0,0.0,353847,2012,Influenza
-Ranong,113,61.46,0,0.0,183849,2012,Influenza
-Trang,878,140.1,0,0.0,626708,2012,Influenza
-Zone:8,955,26.73,0,0.0,3573101,2012,Influenza
-Narathiwat,292,39.07,0,0.0,747372,2012,Influenza
-Pattani,227,34.21,0,0.0,663485,2012,Influenza
-Satun,61,20.23,0,0.0,301467,2012,Influenza
-Songkhla,188,13.75,0,0.0,1367010,2012,Influenza
-Yala,187,37.87,0,0.0,493767,2012,Influenza
-North-Eastern Region,9100,42.16,2,0.01,21585883,2012,Influenza
-Zone:10,1225,34.09,0,0.0,3593082,2012,Influenza
-Bungkan,160,39.25,0,0.0,407634,2012,Influenza
-Loei,750,120.02,0,0.0,624920,2012,Influenza
-Nong Bua Lam Phu,19,3.78,0,0.0,502551,2012,Influenza
-Nong Khai,157,30.79,0,0.0,509870,2012,Influenza
-Udon Thani,139,8.98,0,0.0,1548107,2012,Influenza
-Zone:11,1658,76.45,0,0.0,2168700,2012,Influenza
-Mukdahan,23,6.75,0,0.0,340581,2012,Influenza
-Nakhon Phanom,696,98.76,0,0.0,704768,2012,Influenza
-Sakon Nakhon,939,83.59,0,0.0,1123351,2012,Influenza
-Zone:12,1090,21.83,0,0.0,4992515,2012,Influenza
-Kalasin,92,9.37,0,0.0,981655,2012,Influenza
-Khon Kaen,819,46.37,0,0.0,1766066,2012,Influenza
-Maha Sarakham,135,14.37,0,0.0,939736,2012,Influenza
-Roi Et,44,3.37,0,0.0,1305058,2012,Influenza
-Zone:13,1985,47.5,0,0.0,4179354,2012,Influenza
-Amnat Charoen,57,15.31,0,0.0,372241,2012,Influenza
-Si Sa Ket,340,23.41,0,0.0,1452203,2012,Influenza
-Ubon Ratchathani,1351,74.39,0,0.0,1816057,2012,Influenza
-Yasothon,237,43.98,0,0.0,538853,2012,Influenza
-Zone:14,3142,47.23,2,0.03,6652232,2012,Influenza
-Buri Ram,666,42.72,0,0.0,1559085,2012,Influenza
-Chaiyaphum,149,13.22,0,0.0,1127423,2012,Influenza
-Nakhon Ratchasima,1566,60.57,1,0.04,2585325,2012,Influenza
-Surin,761,55.13,1,0.07,1380399,2012,Influenza
-North Region,14540,123.39,0,0.0,11783311,2012,Influenza
-Zone:15,6649,217.88,0,0.0,3051678,2012,Influenza
-Chiang Mai,2775,168.58,0,0.0,1646144,2012,Influenza
-Lampang,3476,458.86,0,0.0,757534,2012,Influenza
-Lamphun,247,61.15,0,0.0,403952,2012,Influenza
-Mae Hong Son,151,61.87,0,0.0,244048,2012,Influenza
-Zone:16,1961,74.83,0,0.0,2620490,2012,Influenza
-Chiang Rai,1062,88.6,0,0.0,1198656,2012,Influenza
-Nan,332,69.66,0,0.0,476612,2012,Influenza
-Phayao,402,82.64,0,0.0,486472,2012,Influenza
-Phrae,165,35.97,0,0.0,458750,2012,Influenza
-Zone:17,4140,120.5,0,0.0,3435726,2012,Influenza
-Phetchabun,265,26.75,0,0.0,990807,2012,Influenza
-Phitsanulok,1636,192.16,0,0.0,851357,2012,Influenza
-Sukhothai,430,71.49,0,0.0,601504,2012,Influenza
-Tak,476,89.64,0,0.0,531018,2012,Influenza
-Uttaradit,1333,289.13,0,0.0,461040,2012,Influenza
-Zone:18,1790,66.91,0,0.0,2675417,2012,Influenza
-Kamphaeng Phet,625,86.09,0,0.0,726009,2012,Influenza
-Nakhon Sawan,484,45.16,0,0.0,1071686,2012,Influenza
-Phichit,224,40.75,0,0.0,549688,2012,Influenza
-Uthai Thani,457,139.31,0,0.0,328034,2012,Influenza
 Total,43866,68.46,0,0.0,64076033,2013,Influenza
 Central Region,19915,91.63,0,0.0,21734984,2013,Influenza
 Zone:0,10263,180.85,0,0.0,5674843,2013,Influenza
@@ -1101,552 +875,6 @@ Kamphaeng Phet,739,101.79,0,0.0,726009,2013,Influenza
 Nakhon Sawan,261,24.35,0,0.0,1071686,2013,Influenza
 Phichit,108,19.65,0,0.0,549688,2013,Influenza
 Uthai Thani,281,85.66,0,0.0,328034,2013,Influenza
-Total,74134,114.13,100,0.15,64955313,2014,Influenza
-ZONE:00,20322,357.2,0,0.0,5689268,2014,Influenza
-Bangkok,20322,357.2,0,0.0,5689268,2014,Influenza
-ZONE:01,12568,220.33,14,0.25,5704200,2014,Influenza
-Chiang Mai,5362,320.58,11,0.66,1672586,2014,Influenza
-Chiang Rai,1263,104.71,1,0.08,1206180,2014,Influenza
-Lampang,3561,472.32,0,0.0,753937,2014,Influenza
-Lamphun,502,123.84,2,0.49,405368,2014,Influenza
-Mae Hong Son,264,106.73,0,0.0,247364,2014,Influenza
-Nan,258,53.96,0,0.0,478088,2014,Influenza
-Phayao,1209,248.97,0,0.0,485599,2014,Influenza
-Phrae,149,32.74,0,0.0,455078,2014,Influenza
-ZONE:02,4294,124.39,7,0.2,3452021,2014,Influenza
-Phetchabun,246,24.72,0,0.0,995102,2014,Influenza
-Phitsanulok,2221,258.95,4,0.47,857682,2014,Influenza
-Sukhothai,563,93.43,3,0.5,602586,2014,Influenza
-Tak,339,63.25,0,0.0,535953,2014,Influenza
-Uttaradit,925,200.78,0,0.0,460698,2014,Influenza
-ZONE:03,2548,84.58,2,0.07,3012608,2014,Influenza
-Chai Nat,132,39.7,1,0.3,332526,2014,Influenza
-Kamphaeng Phet,1042,142.92,1,0.14,729076,2014,Influenza
-Nakhon Sawan,848,79.03,0,0.0,1072949,2014,Influenza
-Phichit,335,61.11,0,0.0,548199,2014,Influenza
-Uthai Thani,191,57.9,0,0.0,329858,2014,Influenza
-ZONE:04,5444,105.26,6,0.12,5171756,2014,Influenza
-Ang Thong,379,133.62,0,0.0,283650,2014,Influenza
-Lop Buri,1188,156.69,0,0.0,758188,2014,Influenza
-Nakhon Nayok,25,9.74,0,0.0,256693,2014,Influenza
-Nonthaburi,724,62.14,0,0.0,1165070,2014,Influenza
-P.Nakhon S.Ayutthaya,2136,266.74,3,0.37,800785,2014,Influenza
-Pathum Thani,569,53.5,2,0.19,1063608,2014,Influenza
-Saraburi,267,42.29,0,0.0,631338,2014,Influenza
-Sing Buri,156,73.44,1,0.47,212424,2014,Influenza
-ZONE:05,4041,78.5,3,0.06,5147569,2014,Influenza
-Kanchanaburi,563,66.58,0,0.0,845540,2014,Influenza
-Nakhon Pathom,1708,192.64,1,0.11,886627,2014,Influenza
-Phetchaburi,345,72.99,2,0.42,472640,2014,Influenza
-Prachuap Khiri Khan,314,60.07,0,0.0,522689,2014,Influenza
-Ratchaburi,481,56.48,0,0.0,851689,2014,Influenza
-Samut Sakhon,96,18.26,0,0.0,525672,2014,Influenza
-Samut Songkhram,51,26.27,0,0.0,194153,2014,Influenza
-Suphan Buri,483,56.92,0,0.0,848559,2014,Influenza
-ZONE:06,6472,111.63,3,0.05,5797595,2014,Influenza
-Chachoengsao,260,37.53,0,0.0,692852,2014,Influenza
-Chanthaburi,885,168.31,0,0.0,525805,2014,Influenza
-Chon Buri,591,42.04,0,0.0,1405889,2014,Influenza
-Prachin Buri,145,30.35,0,0.0,477741,2014,Influenza
-Rayong,2871,429.92,1,0.15,667806,2014,Influenza
-Sa Kaeo,74,13.42,0,0.0,551562,2014,Influenza
-Samut Prakan,1425,113.86,2,0.16,1251570,2014,Influenza
-Trat,221,98.5,0,0.0,224370,2014,Influenza
-ZONE:07,1559,30.95,1,0.02,5037074,2014,Influenza
-Kalasin,123,12.49,0,0.0,984468,2014,Influenza
-Khon Kaen,1057,59.19,1,0.06,1785852,2014,Influenza
-Maha Sarakham,292,30.48,0,0.0,958116,2014,Influenza
-Roi Et,87,6.65,0,0.0,1308638,2014,Influenza
-ZONE:08,3770,68.66,11,0.2,5490561,2014,Influenza
-Bungkan,279,66.84,0,0.0,417401,2014,Influenza
-Loei,444,70.1,0,0.0,633359,2014,Influenza
-Nakhon Phanom,1248,175.26,0,0.0,712101,2014,Influenza
-Nong Bua Lam Phu,292,57.48,6,1.18,508001,2014,Influenza
-Nong Khai,514,99.59,0,0.0,516101,2014,Influenza
-Sakon Nakhon,439,38.63,0,0.0,1136466,2014,Influenza
-Udon Thani,554,35.35,5,0.32,1567132,2014,Influenza
-ZONE:09,3923,58.4,26,0.39,6717984,2014,Influenza
-Buri Ram,841,53.35,4,0.25,1576343,2014,Influenza
-Chaiyaphum,289,25.43,0,0.0,1136386,2014,Influenza
-Nakhon Ratchasima,2406,92.0,22,0.84,2615340,2014,Influenza
-Surin,387,27.84,0,0.0,1389915,2014,Influenza
-ZONE:10,2738,59.98,5,0.11,4564711,2014,Influenza
-Amnat Charoen,40,10.67,0,0.0,375039,2014,Influenza
-Mukdahan,175,50.7,0,0.0,345159,2014,Influenza
-Si Sa Ket,432,29.52,4,0.27,1463620,2014,Influenza
-Ubon Ratchathani,1746,94.86,0,0.0,1840596,2014,Influenza
-Yasothon,345,63.85,1,0.19,540297,2014,Influenza
-ZONE:11,4562,105.01,18,0.41,4344513,2014,Influenza
-Chumphon,348,69.68,0,0.0,499435,2014,Influenza
-Krabi,307,67.64,0,0.0,453850,2014,Influenza
-Nakhon Si Thammarat,1382,89.45,7,0.45,1544936,2014,Influenza
-Phangnga,355,136.33,4,1.54,260395,2014,Influenza
-Phuket,1065,284.8,0,0.0,373943,2014,Influenza
-Ranong,39,22.17,0,0.0,175933,2014,Influenza
-Surat Thani,1066,102.89,7,0.68,1036021,2014,Influenza
-ZONE:12,1893,39.23,4,0.08,4825453,2014,Influenza
-Narathiwat,284,36.86,0,0.0,770472,2014,Influenza
-Pattani,227,33.26,0,0.0,682512,2014,Influenza
-Phatthalung,369,71.07,1,0.19,519220,2014,Influenza
-Satun,116,37.27,0,0.0,311233,2014,Influenza
-Songkhla,231,16.55,2,0.14,1395596,2014,Influenza
-Trang,556,87.23,1,0.16,637395,2014,Influenza
-Yala,110,21.61,0,0.0,509025,2014,Influenza
-Total,77926,119.66,28,0.04,65124716,2015,Influenza
-ZONE:00,21448,376.79,0,0.0,5692284,2015,Influenza
-Bangkok,21448,376.79,0,0.0,5692284,2015,Influenza
-ZONE:01,13299,232.93,0,0.0,5709443,2015,Influenza
-Chiang Mai,6832,407.08,0,0.0,1678284,2015,Influenza
-Chiang Rai,1389,115.01,0,0.0,1207699,2015,Influenza
-Lampang,2296,304.91,0,0.0,753013,2015,Influenza
-Lamphun,628,154.88,0,0.0,405468,2015,Influenza
-Mae Hong Son,168,67.69,0,0.0,248178,2015,Influenza
-Nan,471,98.48,0,0.0,478264,2015,Influenza
-Phayao,1376,284.03,0,0.0,484454,2015,Influenza
-Phrae,139,30.61,0,0.0,454083,2015,Influenza
-ZONE:02,2710,78.39,1,0.03,3457208,2015,Influenza
-Phetchabun,213,21.39,0,0.0,995807,2015,Influenza
-Phitsanulok,1207,140.51,0,0.0,858988,2015,Influenza
-Sukhothai,350,58.1,1,0.17,602460,2015,Influenza
-Tak,221,40.96,0,0.0,539553,2015,Influenza
-Uttaradit,719,156.17,0,0.0,460400,2015,Influenza
-ZONE:03,2234,74.16,0,0.0,3012283,2015,Influenza
-Chai Nat,120,36.11,0,0.0,332283,2015,Influenza
-Kamphaeng Phet,631,86.49,0,0.0,729522,2015,Influenza
-Nakhon Sawan,1120,104.4,0,0.0,1072756,2015,Influenza
-Phichit,282,51.5,0,0.0,547543,2015,Influenza
-Uthai Thani,81,24.53,0,0.0,330179,2015,Influenza
-ZONE:04,5797,111.56,1,0.02,5196419,2015,Influenza
-Ang Thong,309,108.97,0,0.0,283568,2015,Influenza
-Lop Buri,1104,145.57,0,0.0,758406,2015,Influenza
-Nakhon Nayok,29,11.27,0,0.0,257300,2015,Influenza
-Nonthaburi,809,68.92,0,0.0,1173870,2015,Influenza
-P.Nakhon S.Ayutthaya,2358,293.43,1,0.12,803599,2015,Influenza
-Pathum Thani,782,72.81,0,0.0,1074058,2015,Influenza
-Saraburi,273,43.1,0,0.0,633460,2015,Influenza
-Sing Buri,133,62.69,0,0.0,212158,2015,Influenza
-ZONE:05,4721,91.37,0,0.0,5166914,2015,Influenza
-Kanchanaburi,525,61.9,0,0.0,848198,2015,Influenza
-Nakhon Pathom,1811,203.24,0,0.0,891071,2015,Influenza
-Phetchaburi,512,107.97,0,0.0,474192,2015,Influenza
-Prachuap Khiri Khan,451,85.89,0,0.0,525107,2015,Influenza
-Ratchaburi,574,67.27,0,0.0,853217,2015,Influenza
-Samut Sakhon,97,18.24,0,0.0,531887,2015,Influenza
-Samut Songkhram,118,60.77,0,0.0,194189,2015,Influenza
-Suphan Buri,633,74.55,0,0.0,849053,2015,Influenza
-ZONE:06,7217,123.65,0,0.0,5836407,2015,Influenza
-Chachoengsao,568,81.67,0,0.0,695478,2015,Influenza
-Chanthaburi,1159,219.78,0,0.0,527350,2015,Influenza
-Chon Buri,1040,73.17,0,0.0,1421425,2015,Influenza
-Prachin Buri,219,45.69,0,0.0,479314,2015,Influenza
-Rayong,1737,257.56,0,0.0,674393,2015,Influenza
-Sa Kaeo,49,8.87,0,0.0,552187,2015,Influenza
-Samut Prakan,1771,140.39,0,0.0,1261530,2015,Influenza
-Trat,674,299.92,0,0.0,224730,2015,Influenza
-ZONE:07,1254,24.86,2,0.04,5043862,2015,Influenza
-Kalasin,33,3.35,0,0.0,984907,2015,Influenza
-Khon Kaen,744,41.56,0,0.0,1790049,2015,Influenza
-Maha Sarakham,299,31.13,1,0.1,960588,2015,Influenza
-Roi Et,178,13.61,1,0.08,1308318,2015,Influenza
-ZONE:08,2236,40.64,0,0.0,5501453,2015,Influenza
-Bungkan,78,18.64,0,0.0,418566,2015,Influenza
-Loei,280,44.13,0,0.0,634513,2015,Influenza
-Nakhon Phanom,727,101.91,0,0.0,713341,2015,Influenza
-Nong Bua Lam Phu,68,13.36,0,0.0,508864,2015,Influenza
-Nong Khai,501,96.86,0,0.0,517260,2015,Influenza
-Sakon Nakhon,357,31.35,0,0.0,1138609,2015,Influenza
-Udon Thani,225,14.33,0,0.0,1570300,2015,Influenza
-ZONE:09,6957,103.4,20,0.3,6728450,2015,Influenza
-Buri Ram,940,59.52,0,0.0,1579248,2015,Influenza
-Chaiyaphum,664,58.4,0,0.0,1137049,2015,Influenza
-Nakhon Ratchasima,5101,194.66,20,0.76,2620517,2015,Influenza
-Surin,252,18.11,0,0.0,1391636,2015,Influenza
-ZONE:10,4071,89.05,1,0.02,4571489,2015,Influenza
-Amnat Charoen,48,12.79,0,0.0,375380,2015,Influenza
-Mukdahan,107,30.92,0,0.0,346016,2015,Influenza
-Si Sa Ket,518,35.35,0,0.0,1465213,2015,Influenza
-Ubon Ratchathani,3041,164.85,1,0.05,1844669,2015,Influenza
-Yasothon,357,66.09,0,0.0,540211,2015,Influenza
-ZONE:11,4000,91.69,3,0.07,4362467,2015,Influenza
-Chumphon,291,58.13,0,0.0,500575,2015,Influenza
-Krabi,377,82.53,0,0.0,456811,2015,Influenza
-Nakhon Si Thammarat,1155,74.61,0,0.0,1548028,2015,Influenza
-Phangnga,73,27.93,1,0.38,261370,2015,Influenza
-Phuket,902,238.39,0,0.0,378364,2015,Influenza
-Ranong,16,9.04,0,0.0,177089,2015,Influenza
-Surat Thani,1186,114.01,2,0.19,1040230,2015,Influenza
-ZONE:12,1982,40.9,0,0.0,4846037,2015,Influenza
-Narathiwat,285,36.78,0,0.0,774799,2015,Influenza
-Pattani,105,15.3,0,0.0,686186,2015,Influenza
-Phatthalung,496,95.31,0,0.0,520419,2015,Influenza
-Satun,68,21.75,0,0.0,312673,2015,Influenza
-Songkhla,282,20.12,0,0.0,1401303,2015,Influenza
-Trang,677,105.99,0,0.0,638746,2015,Influenza
-Yala,69,13.48,0,0.0,511911,2015,Influenza
-Total,169362,258.86,44,0.07,65426907,2016,Influenza
-ZONE:01,24424,422.46,0,0.0,5781324,2016,Influenza
-Chiang Mai,11807,693.2,0,0.0,1703263,2016,Influenza
-Chiang Rai,3901,313.88,0,0.0,1242825,2016,Influenza
-Lampang,3348,444.81,0,0.0,752685,2016,Influenza
-Lamphun,1145,282.07,0,0.0,405927,2016,Influenza
-Mae Hong Son,168,64.37,0,0.0,260971,2016,Influenza
-Nan,681,142.2,0,0.0,478890,2016,Influenza
-Phayao,2957,611.52,0,0.0,483550,2016,Influenza
-Phrae,417,92.01,0,0.0,453213,2016,Influenza
-ZONE:02,9578,273.76,4,0.11,3498728,2016,Influenza
-Phetchabun,512,51.39,0,0.0,996397,2016,Influenza
-Phitsanulok,4926,572.0,4,0.46,861194,2016,Influenza
-Sukhothai,831,138.02,0,0.0,602085,2016,Influenza
-Tak,618,106.74,0,0.0,578968,2016,Influenza
-Uttaradit,2691,584.89,0,0.0,460084,2016,Influenza
-ZONE:03,6317,209.77,3,0.1,3011449,2016,Influenza
-Chai Nat,217,65.37,0,0.0,331968,2016,Influenza
-Kamphaeng Phet,1408,192.92,0,0.0,729839,2016,Influenza
-Nakhon Sawan,3066,285.91,3,0.28,1072349,2016,Influenza
-Phichit,1533,280.38,0,0.0,546750,2016,Influenza
-Uthai Thani,93,28.14,0,0.0,330543,2016,Influenza
-ZONE:04,10231,195.95,11,0.21,5221125,2016,Influenza
-Ang Thong,553,195.15,0,0.0,283371,2016,Influenza
-Lop Buri,1609,212.12,0,0.0,758531,2016,Influenza
-Nakhon Nayok,182,70.56,0,0.0,257939,2016,Influenza
-Nonthaburi,1494,126.2,0,0.0,1183791,2016,Influenza
-P.Nakhon S.Ayutthaya,3229,400.63,11,1.36,805980,2016,Influenza
-Pathum Thani,2093,193.05,0,0.0,1084154,2016,Influenza
-Saraburi,945,148.69,0,0.0,635567,2016,Influenza
-Sing Buri,126,59.49,0,0.0,211792,2016,Influenza
-ZONE:05,10009,192.13,0,0.0,5209561,2016,Influenza
-Kanchanaburi,1036,119.74,0,0.0,865172,2016,Influenza
-Nakhon Pathom,4286,478.77,0,0.0,895207,2016,Influenza
-Phetchaburi,981,205.92,0,0.0,476391,2016,Influenza
-Prachuap Khiri Khan,850,160.4,0,0.0,529912,2016,Influenza
-Ratchaburi,1071,124.46,0,0.0,860549,2016,Influenza
-Samut Sakhon,343,63.68,0,0.0,538671,2016,Influenza
-Samut Songkhram,192,98.82,0,0.0,194283,2016,Influenza
-Suphan Buri,1250,147.17,0,0.0,849376,2016,Influenza
-ZONE:06,14351,244.06,0,0.0,5880124,2016,Influenza
-Chachoengsao,1053,150.82,0,0.0,698190,2016,Influenza
-Chanthaburi,2659,502.46,0,0.0,529194,2016,Influenza
-Chon Buri,2479,172.36,0,0.0,1438231,2016,Influenza
-Prachin Buri,366,76.13,0,0.0,480755,2016,Influenza
-Rayong,4298,630.49,0,0.0,681696,2016,Influenza
-Sa Kaeo,120,21.64,0,0.0,554555,2016,Influenza
-Samut Prakan,2772,218.2,0,0.0,1270420,2016,Influenza
-Trat,604,265.98,0,0.0,227083,2016,Influenza
-ZONE:07,3704,73.35,0,0.0,5049920,2016,Influenza
-Kalasin,167,16.95,0,0.0,985055,2016,Influenza
-Khon Kaen,2370,132.1,0,0.0,1794032,2016,Influenza
-Maha Sarakham,719,74.69,0,0.0,962592,2016,Influenza
-Roi Et,448,34.24,0,0.0,1308241,2016,Influenza
-ZONE:08,3732,67.71,0,0.0,5511930,2016,Influenza
-Bungkan,64,15.25,0,0.0,419607,2016,Influenza
-Loei,452,70.99,0,0.0,636666,2016,Influenza
-Nakhon Phanom,990,138.58,0,0.0,714369,2016,Influenza
-Nong Bua Lam Phu,79,15.51,0,0.0,509469,2016,Influenza
-Nong Khai,788,152.0,0,0.0,518420,2016,Influenza
-Sakon Nakhon,610,53.48,0,0.0,1140673,2016,Influenza
-Udon Thani,749,47.62,0,0.0,1572726,2016,Influenza
-ZONE:09,19381,287.65,22,0.33,6737604,2016,Influenza
-Buri Ram,3354,212.02,0,0.0,1581955,2016,Influenza
-Chaiyaphum,3027,266.07,0,0.0,1137651,2016,Influenza
-Nakhon Ratchasima,11278,429.69,21,0.8,2624668,2016,Influenza
-Surin,1722,123.59,1,0.07,1393330,2016,Influenza
-ZONE:10,7142,155.9,0,0.0,4581192,2016,Influenza
-Amnat Charoen,89,23.68,0,0.0,375881,2016,Influenza
-Mukdahan,328,94.51,0,0.0,347059,2016,Influenza
-Si Sa Ket,1512,103.07,0,0.0,1467006,2016,Influenza
-Ubon Ratchathani,4655,251.48,0,0.0,1851049,2016,Influenza
-Yasothon,558,103.3,0,0.0,540197,2016,Influenza
-ZONE:11,8286,189.01,2,0.05,4383957,2016,Influenza
-Chumphon,1547,307.43,0,0.0,503203,2016,Influenza
-Krabi,694,151.05,0,0.0,459456,2016,Influenza
-Nakhon Si Thammarat,2034,131.2,0,0.0,1550278,2016,Influenza
-Phangnga,397,151.11,1,0.38,262721,2016,Influenza
-Phuket,1271,332.3,1,0.26,382485,2016,Influenza
-Ranong,68,37.3,0,0.0,182313,2016,Influenza
-Surat Thani,2275,218.02,0,0.0,1043501,2016,Influenza
-ZONE:12,3718,76.41,2,0.04,4865646,2016,Influenza
-Narathiwat,626,80.37,2,0.26,778941,2016,Influenza
-Pattani,211,30.58,0,0.0,690104,2016,Influenza
-Phatthalung,645,123.67,0,0.0,521570,2016,Influenza
-Satun,135,42.95,0,0.0,314297,2016,Influenza
-Songkhla,995,70.77,0,0.0,1405939,2016,Influenza
-Trang,928,145.05,0,0.0,639770,2016,Influenza
-Yala,178,34.56,0,0.0,515025,2016,Influenza
-ZONE:13,48489,851.53,0,0.0,5694347,2016,Influenza
-Bangkok,48489,851.53,0,0.0,5694347,2016,Influenza
-Total,200882,304.09,58,0.09,66060027,2017,Influenza
-ZONE:01,23278,396.95,0,0.0,5864232,2017,Influenza
-Chiang Mai,10960,629.41,0,0.0,1741301,2017,Influenza
-Chiang Rai,3251,252.98,0,0.0,1285080,2017,Influenza
-Lampang,2340,312.96,0,0.0,747699,2017,Influenza
-Lamphun,1840,453.25,0,0.0,405959,2017,Influenza
-Mae Hong Son,146,52.62,0,0.0,277486,2017,Influenza
-Nan,2023,421.57,0,0.0,479877,2017,Influenza
-Phayao,2185,456.98,0,0.0,478144,2017,Influenza
-Phrae,533,118.79,0,0.0,448686,2017,Influenza
-ZONE:02,9721,273.34,2,0.06,3556376,2017,Influenza
-Phetchabun,644,64.71,0,0.0,995277,2017,Influenza
-Phitsanulok,4314,498.4,0,0.0,865564,2017,Influenza
-Sukhothai,1307,217.92,0,0.0,599775,2017,Influenza
-Tak,1214,190.25,2,0.31,638115,2017,Influenza
-Uttaradit,2242,489.9,0,0.0,457645,2017,Influenza
-ZONE:03,7418,247.42,0,0.0,2998104,2017,Influenza
-Chai Nat,193,58.47,0,0.0,330077,2017,Influenza
-Kamphaeng Phet,1648,225.96,0,0.0,729337,2017,Influenza
-Nakhon Sawan,4198,393.85,0,0.0,1065895,2017,Influenza
-Phichit,1206,222.23,0,0.0,542674,2017,Influenza
-Uthai Thani,173,52.41,0,0.0,330121,2017,Influenza
-ZONE:04,11469,216.29,5,0.09,5302492,2017,Influenza
-Ang Thong,967,343.16,0,0.0,281796,2017,Influenza
-Lop Buri,2413,318.63,0,0.0,757296,2017,Influenza
-Nakhon Nayok,130,50.22,0,0.0,258850,2017,Influenza
-Nonthaburi,1926,157.76,0,0.0,1220829,2017,Influenza
-P.Nakhon S.Ayutthaya,2871,353.53,4,0.49,812086,2017,Influenza
-Pathum Thani,2109,188.26,1,0.09,1120246,2017,Influenza
-Saraburi,636,99.21,0,0.0,641052,2017,Influenza
-Sing Buri,417,198.25,0,0.0,210337,2017,Influenza
-ZONE:05,13941,263.25,4,0.08,5295696,2017,Influenza
-Kanchanaburi,1419,160.06,0,0.0,886546,2017,Influenza
-Nakhon Pathom,4166,458.68,1,0.11,908249,2017,Influenza
-Phetchaburi,1430,296.98,1,0.21,481514,2017,Influenza
-Prachuap Khiri Khan,1491,275.22,1,0.18,541756,2017,Influenza
-Ratchaburi,1613,185.24,1,0.11,870769,2017,Influenza
-Samut Sakhon,1725,306.62,0,0.0,562592,2017,Influenza
-Samut Songkhram,318,163.93,0,0.0,193985,2017,Influenza
-Suphan Buri,1779,209.22,0,0.0,850285,2017,Influenza
-ZONE:06,20865,346.55,1,0.02,6020790,2017,Influenza
-Chachoengsao,1929,272.79,0,0.0,707145,2017,Influenza
-Chanthaburi,3728,698.83,0,0.0,533463,2017,Influenza
-Chon Buri,2427,162.22,0,0.0,1496086,2017,Influenza
-Prachin Buri,1089,223.99,0,0.0,486187,2017,Influenza
-Rayong,5995,849.48,0,0.0,705729,2017,Influenza
-Sa Kaeo,594,105.98,0,0.0,560478,2017,Influenza
-Samut Prakan,4309,330.91,1,0.08,1302160,2017,Influenza
-Trat,794,345.91,0,0.0,229542,2017,Influenza
-ZONE:07,6626,130.93,0,0.0,5060674,2017,Influenza
-Kalasin,747,75.79,0,0.0,985619,2017,Influenza
-Khon Kaen,3515,194.86,0,0.0,1803831,2017,Influenza
-Maha Sarakham,1148,119.18,0,0.0,963277,2017,Influenza
-Roi Et,1216,92.97,0,0.0,1307947,2017,Influenza
-ZONE:08,8616,155.48,1,0.02,5541473,2017,Influenza
-Bungkan,145,34.33,0,0.0,422328,2017,Influenza
-Loei,847,132.19,0,0.0,640734,2017,Influenza
-Nakhon Phanom,1564,217.99,0,0.0,717451,2017,Influenza
-Nong Bua Lam Phu,211,41.28,0,0.0,511188,2017,Influenza
-Nong Khai,3088,592.56,0,0.0,521125,2017,Influenza
-Sakon Nakhon,597,52.02,0,0.0,1147710,2017,Influenza
-Udon Thani,2164,136.88,1,0.06,1580937,2017,Influenza
-ZONE:09,24524,362.76,40,0.59,6760383,2017,Influenza
-Buri Ram,4131,259.83,0,0.0,1589900,2017,Influenza
-Chaiyaphum,2690,236.22,0,0.0,1138778,2017,Influenza
-Nakhon Ratchasima,14578,553.18,40,1.52,2635331,2017,Influenza
-Surin,3125,223.79,0,0.0,1396374,2017,Influenza
-ZONE:10,10120,219.77,0,0.0,4604905,2017,Influenza
-Amnat Charoen,186,49.26,0,0.0,377614,2017,Influenza
-Mukdahan,1306,373.01,0,0.0,350128,2017,Influenza
-Si Sa Ket,1316,89.45,0,0.0,1471185,2017,Influenza
-Ubon Ratchathani,6564,351.71,0,0.0,1866299,2017,Influenza
-Yasothon,748,138.6,0,0.0,539679,2017,Influenza
-ZONE:11,7934,178.65,5,0.11,4441086,2017,Influenza
-Chumphon,659,129.56,0,0.0,508627,2017,Influenza
-Krabi,451,96.4,0,0.0,467851,2017,Influenza
-Nakhon Si Thammarat,2860,183.81,5,0.32,1555957,2017,Influenza
-Phangnga,311,116.68,0,0.0,266535,2017,Influenza
-Phuket,725,182.12,0,0.0,398092,2017,Influenza
-Ranong,113,59.54,0,0.0,189777,2017,Influenza
-Surat Thani,2815,267.02,0,0.0,1054247,2017,Influenza
-ZONE:12,4289,87.01,0,0.0,4929285,2017,Influenza
-Narathiwat,778,98.11,0,0.0,792961,2017,Influenza
-Pattani,189,26.79,0,0.0,705379,2017,Influenza
-Phatthalung,965,184.06,0,0.0,524291,2017,Influenza
-Satun,139,43.62,0,0.0,318655,2017,Influenza
-Songkhla,1166,82.06,0,0.0,1420834,2017,Influenza
-Trang,826,128.58,0,0.0,642377,2017,Influenza
-Yala,226,43.07,0,0.0,524788,2017,Influenza
-ZONE:13,52081,916.19,0,0.0,5684531,2017,Influenza
-Bangkok,52081,916.19,0,0.0,5684531,2017,Influenza
-Total,183935,277.42,32,0.05,66301242,2018,Influenza
-ZONE:01,24048,409.08,0,0.0,5878537,2018,Influenza
-Chiang Mai,10784,614.37,0,0.0,1755291,2018,Influenza
-Chiang Rai,3575,277.16,0,0.0,1289873,2018,Influenza
-Lampang,3236,434.53,0,0.0,744714,2018,Influenza
-Lamphun,1377,339.22,0,0.0,405936,2018,Influenza
-Mae Hong Son,389,138.52,0,0.0,280826,2018,Influenza
-Nan,1915,399.45,0,0.0,479414,2018,Influenza
-Phayao,2240,470.43,0,0.0,476157,2018,Influenza
-Phrae,532,119.2,0,0.0,446326,2018,Influenza
-ZONE:02,9519,267.01,0,0.0,3565071,2018,Influenza
-Phetchabun,1104,110.96,0,0.0,994936,2018,Influenza
-Phitsanulok,3794,438.04,0,0.0,866129,2018,Influenza
-Sukhothai,1253,209.43,0,0.0,598287,2018,Influenza
-Tak,1424,219.26,0,0.0,649472,2018,Influenza
-Uttaradit,1944,426.08,0,0.0,456247,2018,Influenza
-ZONE:03,7449,248.93,3,0.1,2992420,2018,Influenza
-Chai Nat,166,50.46,0,0.0,328993,2018,Influenza
-Kamphaeng Phet,1998,274.27,0,0.0,728470,2018,Influenza
-Nakhon Sawan,3783,355.33,1,0.09,1064649,2018,Influenza
-Phichit,1095,202.55,2,0.37,540620,2018,Influenza
-Uthai Thani,407,123.45,0,0.0,329688,2018,Influenza
-ZONE:04,9881,184.92,0,0.0,5343264,2018,Influenza
-Ang Thong,680,241.98,0,0.0,281014,2018,Influenza
-Lop Buri,1984,261.74,0,0.0,758003,2018,Influenza
-Nakhon Nayok,144,55.44,0,0.0,259718,2018,Influenza
-Nonthaburi,1343,108.48,0,0.0,1238015,2018,Influenza
-P.Nakhon S.Ayutthaya,3189,390.98,0,0.0,815647,2018,Influenza
-Pathum Thani,1531,134.58,0,0.0,1137603,2018,Influenza
-Saraburi,761,118.25,0,0.0,643531,2018,Influenza
-Sing Buri,249,118.72,0,0.0,209733,2018,Influenza
-ZONE:05,12775,239.92,2,0.04,5324608,2018,Influenza
-Kanchanaburi,2324,260.96,0,0.0,890565,2018,Influenza
-Nakhon Pathom,4134,452.16,1,0.11,914273,2018,Influenza
-Phetchaburi,723,149.59,1,0.21,483335,2018,Influenza
-Prachuap Khiri Khan,1976,361.64,0,0.0,546396,2018,Influenza
-Ratchaburi,1446,165.71,0,0.0,872615,2018,Influenza
-Samut Sakhon,1175,204.98,0,0.0,573215,2018,Influenza
-Samut Songkhram,305,157.34,0,0.0,193847,2018,Influenza
-Suphan Buri,692,81.38,0,0.0,850362,2018,Influenza
-ZONE:06,17109,281.0,0,0.0,6088563,2018,Influenza
-Chachoengsao,2286,320.87,0,0.0,712449,2018,Influenza
-Chanthaburi,1852,345.86,0,0.0,535478,2018,Influenza
-Chon Buri,3106,204.04,0,0.0,1522285,2018,Influenza
-Prachin Buri,1185,242.04,0,0.0,489592,2018,Influenza
-Rayong,4026,561.29,0,0.0,717276,2018,Influenza
-Sa Kaeo,482,85.61,0,0.0,563014,2018,Influenza
-Samut Prakan,3789,287.33,0,0.0,1318687,2018,Influenza
-Trat,383,166.68,0,0.0,229782,2018,Influenza
-ZONE:07,6480,128.01,2,0.04,5062199,2018,Influenza
-Kalasin,539,54.68,1,0.1,985676,2018,Influenza
-Khon Kaen,3601,199.4,0,0.0,1805903,2018,Influenza
-Maha Sarakham,749,77.77,0,0.0,963060,2018,Influenza
-Roi Et,1591,121.68,1,0.08,1307560,2018,Influenza
-ZONE:08,4723,85.04,2,0.04,5553738,2018,Influenza
-Bungkan,111,26.21,0,0.0,423485,2018,Influenza
-Loei,544,84.71,0,0.0,642220,2018,Influenza
-Nakhon Phanom,974,135.58,0,0.0,718406,2018,Influenza
-Nong Bua Lam Phu,113,22.08,0,0.0,511878,2018,Influenza
-Nong Khai,1190,227.97,2,0.38,521995,2018,Influenza
-Sakon Nakhon,652,56.65,0,0.0,1150876,2018,Influenza
-Udon Thani,1139,71.87,0,0.0,1584878,2018,Influenza
-ZONE:09,18541,273.76,20,0.3,6772779,2018,Influenza
-Buri Ram,2715,170.39,0,0.0,1593378,2018,Influenza
-Chaiyaphum,2219,194.81,0,0.0,1139067,2018,Influenza
-Nakhon Ratchasima,10751,406.8,18,0.68,2642815,2018,Influenza
-Surin,2856,204.36,2,0.14,1397519,2018,Influenza
-ZONE:10,11247,243.78,0,0.0,4613643,2018,Influenza
-Amnat Charoen,215,56.82,0,0.0,378363,2018,Influenza
-Mukdahan,863,245.5,0,0.0,351532,2018,Influenza
-Si Sa Ket,1382,93.85,0,0.0,1472521,2018,Influenza
-Ubon Ratchathani,8038,429.36,0,0.0,1872091,2018,Influenza
-Yasothon,749,138.93,0,0.0,539136,2018,Influenza
-ZONE:11,11663,261.11,0,0.0,4466673,2018,Influenza
-Chumphon,575,112.68,0,0.0,510307,2018,Influenza
-Krabi,676,143.3,0,0.0,471754,2018,Influenza
-Nakhon Si Thammarat,4136,265.31,0,0.0,1558958,2018,Influenza
-Phangnga,906,338.23,0,0.0,267866,2018,Influenza
-Phuket,1787,440.03,0,0.0,406113,2018,Influenza
-Ranong,138,72.2,0,0.0,191134,2018,Influenza
-Surat Thani,3445,324.83,0,0.0,1060541,2018,Influenza
-ZONE:12,6174,124.47,1,0.02,4960215,2018,Influenza
-Narathiwat,1151,143.99,0,0.0,799357,2018,Influenza
-Pattani,356,49.86,0,0.0,713937,2018,Influenza
-Phatthalung,1635,311.46,1,0.19,524951,2018,Influenza
-Satun,180,56.14,0,0.0,320637,2018,Influenza
-Songkhla,1608,112.57,0,0.0,1428429,2018,Influenza
-Trang,770,119.73,0,0.0,643093,2018,Influenza
-Yala,474,89.47,0,0.0,529811,2018,Influenza
-ZONE:13,44326,780.45,2,0.04,5679532,2018,Influenza
-Bangkok,44326,780.45,2,0.04,5679532,2018,Influenza
-Total,396363,596.16,28,0.04,66486458,2019,Influenza
-ZONE:01,47187,800.87,3,0.05,5891985,2019,Influenza
-Chiang Mai,22654,1278.8,3,0.17,1771499,2019,Influenza
-Chiang Rai,6574,507.56,0,0.0,1295217,2019,Influenza
-Lampang,5041,680.66,0,0.0,740600,2019,Influenza
-Lamphun,3159,779.01,0,0.0,405515,2019,Influenza
-Mae Hong Son,1247,440.09,0,0.0,283352,2019,Influenza
-Nan,2687,561.42,0,0.0,478608,2019,Influenza
-Phayao,3973,838.56,0,0.0,473786,2019,Influenza
-Phrae,1852,417.67,0,0.0,443408,2019,Influenza
-ZONE:02,18176,509.11,0,0.0,3570128,2019,Influenza
-Phetchabun,2919,293.81,0,0.0,993496,2019,Influenza
-Phitsanulok,6388,737.59,0,0.0,866068,2019,Influenza
-Sukhothai,2498,419.01,0,0.0,596165,2019,Influenza
-Tak,2702,409.3,0,0.0,660147,2019,Influenza
-Uttaradit,3669,807.7,0,0.0,454252,2019,Influenza
-ZONE:03,16578,555.74,0,0.0,2983068,2019,Influenza
-Chai Nat,365,111.47,0,0.0,327437,2019,Influenza
-Kamphaeng Phet,4358,599.59,0,0.0,726836,2019,Influenza
-Nakhon Sawan,8948,842.62,0,0.0,1061926,2019,Influenza
-Phichit,2000,371.86,0,0.0,537843,2019,Influenza
-Uthai Thani,907,275.66,0,0.0,329026,2019,Influenza
-ZONE:04,17079,317.35,1,0.02,5381695,2019,Influenza
-Ang Thong,968,345.41,0,0.0,280246,2019,Influenza
-Lop Buri,3018,398.6,0,0.0,757145,2019,Influenza
-Nakhon Nayok,431,165.5,0,0.0,260421,2019,Influenza
-Nonthaburi,3214,255.92,0,0.0,1255840,2019,Influenza
-P.Nakhon S.Ayutthaya,3054,372.98,1,0.12,818815,2019,Influenza
-Pathum Thani,3830,331.65,0,0.0,1154848,2019,Influenza
-Saraburi,1946,301.49,0,0.0,645468,2019,Influenza
-Sing Buri,618,295.82,0,0.0,208912,2019,Influenza
-ZONE:05,33951,635.21,0,0.0,5344807,2019,Influenza
-Kanchanaburi,5328,595.75,0,0.0,894338,2019,Influenza
-Nakhon Pathom,11044,1202.34,0,0.0,918542,2019,Influenza
-Phetchaburi,2310,476.54,0,0.0,484743,2019,Influenza
-Prachuap Khiri Khan,3793,687.8,0,0.0,551466,2019,Influenza
-Ratchaburi,4410,504.98,0,0.0,873310,2019,Influenza
-Samut Sakhon,4878,839.1,0,0.0,581334,2019,Influenza
-Samut Songkhram,637,329.12,0,0.0,193548,2019,Influenza
-Suphan Buri,1551,183.0,0,0.0,847526,2019,Influenza
-ZONE:06,44654,725.54,1,0.02,6154601,2019,Influenza
-Chachoengsao,5710,795.75,0,0.0,717561,2019,Influenza
-Chanthaburi,5913,1100.92,0,0.0,537097,2019,Influenza
-Chon Buri,9133,590.42,0,0.0,1546873,2019,Influenza
-Prachin Buri,2364,479.36,0,0.0,493159,2019,Influenza
-Rayong,11399,1563.57,0,0.0,729035,2019,Influenza
-Sa Kaeo,567,100.32,0,0.0,565198,2019,Influenza
-Samut Prakan,8577,642.12,1,0.07,1335742,2019,Influenza
-Trat,991,430.99,0,0.0,229936,2019,Influenza
-ZONE:07,15255,301.61,0,0.0,5057831,2019,Influenza
-Kalasin,1705,173.21,0,0.0,984381,2019,Influenza
-Khon Kaen,7311,405.18,0,0.0,1804384,2019,Influenza
-Maha Sarakham,2594,269.41,0,0.0,962856,2019,Influenza
-Roi Et,3645,279.05,0,0.0,1306210,2019,Influenza
-ZONE:08,10778,193.85,3,0.05,5559986,2019,Influenza
-Bungkan,144,33.96,0,0.0,424016,2019,Influenza
-Loei,1357,211.09,0,0.0,642862,2019,Influenza
-Nakhon Phanom,2916,405.59,0,0.0,718961,2019,Influenza
-Nong Bua Lam Phu,703,137.18,2,0.39,512449,2019,Influenza
-Nong Khai,2941,563.19,1,0.19,522207,2019,Influenza
-Sakon Nakhon,1144,99.23,0,0.0,1152835,2019,Influenza
-Udon Thani,1573,99.14,0,0.0,1586656,2019,Influenza
-ZONE:09,45532,671.72,14,0.21,6778372,2019,Influenza
-Buri Ram,7288,456.84,0,0.0,1595299,2019,Influenza
-Chaiyaphum,5249,461.22,0,0.0,1138067,2019,Influenza
-Nakhon Ratchasima,26084,985.17,14,0.53,2647663,2019,Influenza
-Surin,6911,494.58,0,0.0,1397343,2019,Influenza
-ZONE:10,25002,541.34,0,0.0,4618551,2019,Influenza
-Amnat Charoen,550,145.3,0,0.0,378530,2019,Influenza
-Mukdahan,2069,586.57,0,0.0,352727,2019,Influenza
-Si Sa Ket,3031,205.78,0,0.0,1472934,2019,Influenza
-Ubon Ratchathani,17208,917.1,0,0.0,1876347,2019,Influenza
-Yasothon,2144,398.5,0,0.0,538013,2019,Influenza
-ZONE:11,19670,438.3,4,0.09,4487837,2019,Influenza
-Chumphon,1502,293.86,0,0.0,511134,2019,Influenza
-Krabi,1321,277.97,1,0.21,475239,2019,Influenza
-Nakhon Si Thammarat,6165,394.89,1,0.06,1561179,2019,Influenza
-Phangnga,1624,604.81,0,0.0,268513,2019,Influenza
-Phuket,3050,737.79,0,0.0,413397,2019,Influenza
-Ranong,285,147.96,0,0.0,192619,2019,Influenza
-Surat Thani,5723,536.99,2,0.19,1065756,2019,Influenza
-ZONE:12,8706,174.6,0,0.0,4986140,2019,Influenza
-Narathiwat,1838,228.25,0,0.0,805248,2019,Influenza
-Pattani,304,42.13,0,0.0,721591,2019,Influenza
-Phatthalung,2078,395.84,0,0.0,524955,2019,Influenza
-Satun,370,114.7,0,0.0,322580,2019,Influenza
-Songkhla,2147,149.69,0,0.0,1434298,2019,Influenza
-Trang,1207,187.67,0,0.0,643140,2019,Influenza
-Yala,762,142.61,0,0.0,534328,2019,Influenza
-ZONE:13,93795,1653.81,2,0.04,5671457,2019,Influenza
-Bangkok,93795,1653.81,2,0.04,5671457,2019,Influenza
 Total,123995,186.82,3,0.0,66372831,2020,Influenza
 ZONE:01,18644,316.7,0,0.0,5886870,2020,Influenza
 Chiang Mai,7174,402.62,0,0.0,1781812,2020,Influenza
@@ -1738,97 +966,198 @@ Trang,267,41.6,0,0.0,641868,2020,Influenza
 Yala,205,38.14,0,0.0,537466,2020,Influenza
 ZONE:13,20722,368.24,0,0.0,5627243,2020,Influenza
 Bangkok,20722,368.24,0,0.0,5627243,2020,Influenza
-Total,11174,16.88,0,0.0,66179083,2021,Influenza
-ZONE:01,1744,29.68,0,0.0,5875424,2021,Influenza
-Chiang Mai,385,21.55,0,0.0,1786877,2021,Influenza
-Chiang Rai,635,48.97,0,0.0,1296725,2021,Influenza
-Lampang,267,36.74,0,0.0,726821,2021,Influenza
-Lamphun,12,2.99,0,0.0,401574,2021,Influenza
-Mae Hong Son,95,33.31,0,0.0,285232,2021,Influenza
-Nan,207,43.46,0,0.0,476300,2021,Influenza
-Phayao,43,9.23,0,0.0,465930,2021,Influenza
-Phrae,100,22.94,0,0.0,435965,2021,Influenza
-ZONE:02,1250,35.35,0,0.0,3536074,2021,Influenza
-Phetchabun,124,12.65,0,0.0,980156,2021,Influenza
-Phitsanulok,470,55.4,0,0.0,848432,2021,Influenza
-Sukhothai,246,41.94,0,0.0,586617,2021,Influenza
-Tak,272,40.39,0,0.0,673423,2021,Influenza
-Uttaradit,138,30.84,0,0.0,447446,2021,Influenza
-ZONE:03,452,15.43,0,0.0,2928596,2021,Influenza
-Chai Nat,7,2.18,0,0.0,321454,2021,Influenza
-Kamphaeng Phet,186,26.08,0,0.0,713130,2021,Influenza
-Nakhon Sawan,177,17.06,0,0.0,1037668,2021,Influenza
-Phichit,65,12.24,0,0.0,530852,2021,Influenza
-Uthai Thani,17,5.22,0,0.0,325492,2021,Influenza
-ZONE:04,515,9.52,0,0.0,5411959,2021,Influenza
-Ang Thong,31,11.25,0,0.0,275673,2021,Influenza
-Lop Buri,58,7.83,0,0.0,741200,2021,Influenza
-Nakhon Nayok,6,2.31,0,0.0,260256,2021,Influenza
-Nonthaburi,48,3.74,0,0.0,1282690,2021,Influenza
-P.Nakhon S.Ayutthaya,141,17.2,0,0.0,819799,2021,Influenza
-Pathum Thani,16,1.35,0,0.0,1183235,2021,Influenza
-Saraburi,189,29.35,0,0.0,643895,2021,Influenza
-Sing Buri,26,12.67,0,0.0,205211,2021,Influenza
-ZONE:05,673,12.62,0,0.0,5332653,2021,Influenza
-Kanchanaburi,264,29.56,0,0.0,893014,2021,Influenza
-Nakhon Pathom,125,13.57,0,0.0,921450,2021,Influenza
-Phetchaburi,17,3.52,0,0.0,482534,2021,Influenza
-Prachuap Khiri Khan,44,7.97,0,0.0,551924,2021,Influenza
-Ratchaburi,94,10.82,0,0.0,868797,2021,Influenza
-Samut Sakhon,77,13.13,0,0.0,586494,2021,Influenza
-Samut Songkhram,8,4.18,0,0.0,191447,2021,Influenza
-Suphan Buri,44,5.26,0,0.0,836993,2021,Influenza
-ZONE:06,695,11.18,0,0.0,6218594,2021,Influenza
-Chachoengsao,78,10.8,0,0.0,722448,2021,Influenza
-Chanthaburi,71,13.24,0,0.0,536058,2021,Influenza
-Chon Buri,66,4.19,0,0.0,1575278,2021,Influenza
-Prachin Buri,23,4.65,0,0.0,494498,2021,Influenza
-Rayong,35,4.69,0,0.0,746433,2021,Influenza
-Sa Kaeo,30,5.34,0,0.0,561459,2021,Influenza
-Samut Prakan,363,26.81,0,0.0,1353964,2021,Influenza
-Trat,29,12.69,0,0.0,228456,2021,Influenza
-ZONE:07,688,13.71,0,0.0,5017381,2021,Influenza
-Kalasin,34,3.48,0,0.0,976373,2021,Influenza
-Khon Kaen,277,15.45,0,0.0,1792697,2021,Influenza
-Maha Sarakham,186,19.56,0,0.0,950985,2021,Influenza
-Roi Et,191,14.72,0,0.0,1297326,2021,Influenza
-ZONE:08,353,6.4,0,0.0,5518109,2021,Influenza
-Bungkan,32,7.58,0,0.0,422019,2021,Influenza
-Loei,102,15.97,0,0.0,638734,2021,Influenza
-Nakhon Phanom,72,10.04,0,0.0,717121,2021,Influenza
-Nong Bua Lam Phu,27,5.3,0,0.0,509236,2021,Influenza
-Nong Khai,29,5.61,0,0.0,517140,2021,Influenza
-Sakon Nakhon,54,4.71,0,0.0,1146612,2021,Influenza
-Udon Thani,37,2.36,0,0.0,1567247,2021,Influenza
-ZONE:09,1026,15.28,0,0.0,6714997,2021,Influenza
-Buri Ram,358,22.65,0,0.0,1580495,2021,Influenza
-Chaiyaphum,86,7.65,0,0.0,1123595,2021,Influenza
-Nakhon Ratchasima,368,13.97,0,0.0,2633681,2021,Influenza
-Surin,214,15.54,0,0.0,1377226,2021,Influenza
-ZONE:10,1827,39.83,0,0.0,4587095,2021,Influenza
-Amnat Charoen,45,11.96,0,0.0,376273,2021,Influenza
-Mukdahan,54,15.38,0,0.0,351198,2021,Influenza
-Si Sa Ket,292,20.03,0,0.0,1458068,2021,Influenza
-Ubon Ratchathani,1188,63.61,0,0.0,1867608,2021,Influenza
-Yasothon,248,46.45,0,0.0,533948,2021,Influenza
-ZONE:11,943,21.02,0,0.0,4487259,2021,Influenza
-Chumphon,59,11.58,0,0.0,509344,2021,Influenza
-Krabi,186,38.87,0,0.0,478561,2021,Influenza
-Nakhon Si Thammarat,466,30.06,0,0.0,1550033,2021,Influenza
-Phangnga,92,34.31,0,0.0,268123,2021,Influenza
-Phuket,13,3.12,0,0.0,416629,2021,Influenza
-Ranong,31,15.94,0,0.0,194473,2021,Influenza
-Surat Thani,96,8.97,0,0.0,1070096,2021,Influenza
-ZONE:12,600,12.02,0,0.0,4992834,2021,Influenza
-Narathiwat,241,29.86,0,0.0,807045,2021,Influenza
-Pattani,17,2.34,0,0.0,727799,2021,Influenza
-Phatthalung,54,10.33,0,0.0,522810,2021,Influenza
-Satun,14,4.31,0,0.0,324467,2021,Influenza
-Songkhla,153,10.7,0,0.0,1430073,2021,Influenza
-Trang,75,11.72,0,0.0,640182,2021,Influenza
-Yala,46,8.51,0,0.0,540458,2021,Influenza
-ZONE:13,408,7.34,0,0.0,5558108,2021,Influenza
-Bangkok,408,7.34,0,0.0,5558108,2021,Influenza
+Total,62112,97.08,7,0.01,63977185,2011,Influenza
+Central Region,27057,124.81,0,0.0,21679246,2011,Influenza
+Zone:0,14335,252.02,0,0.0,5688119,2011,Influenza
+Bangkok,14335,252.02,0,0.0,5688119,2011,Influenza
+Zone:1,2157,61.38,0,0.0,3514250,2011,Influenza
+Nonthaburi,648,58.26,0,0.0,1112185,2011,Influenza
+P.Nakhon S.Ayutthaya,991,126.26,0,0.0,784875,2011,Influenza
+Pathum Thani,239,23.94,0,0.0,998271,2011,Influenza
+Saraburi,279,45.08,0,0.0,618919,2011,Influenza
+Zone:2,854,53.75,0,0.0,1588727,2011,Influenza
+Ang Thong,191,67.13,0,0.0,284516,2011,Influenza
+Chai Nat,151,45.2,0,0.0,334096,2011,Influenza
+Lop Buri,461,60.98,0,0.0,755991,2011,Influenza
+Sing Buri,51,23.82,0,0.0,214124,2011,Influenza
+Zone:3,2254,71.85,0,0.0,3137098,2011,Influenza
+Chachoengsao,307,45.37,0,0.0,676652,2011,Influenza
+Nakhon Nayok,81,31.98,0,0.0,253283,2011,Influenza
+Prachin Buri,182,38.88,0,0.0,468113,2011,Influenza
+Sa Kaeo,174,31.94,0,0.0,544848,2011,Influenza
+Samut Prakan,1510,126.44,0,0.0,1194202,2011,Influenza
+Zone:4,2456,72.47,0,0.0,3388832,2011,Influenza
+Kanchanaburi,622,74.11,0,0.0,839345,2011,Influenza
+Nakhon Pathom,573,66.38,0,0.0,863155,2011,Influenza
+Ratchaburi,748,88.95,0,0.0,840880,2011,Influenza
+Suphan Buri,513,60.68,0,0.0,845452,2011,Influenza
+Zone:5,610,36.63,0,0.0,1665473,2011,Influenza
+Phetchaburi,194,41.72,0,0.0,465056,2011,Influenza
+Prachuap Khiri Khan,189,37.0,0,0.0,510852,2011,Influenza
+Samut Sakhon,143,28.86,0,0.0,495493,2011,Influenza
+Samut Songkhram,84,43.28,0,0.0,194072,2011,Influenza
+Zone:9,4391,162.83,0,0.0,2696747,2011,Influenza
+Chanthaburi,1238,240.05,0,0.0,515736,2011,Influenza
+Chon Buri,1446,108.93,0,0.0,1327475,2011,Influenza
+Rayong,1512,239.21,0,0.0,632069,2011,Influenza
+Trat,195,88.05,0,0.0,221467,2011,Influenza
+South Region,7960,89.11,2,0.02,8932459,2011,Influenza
+Zone:6,3270,92.58,2,0.06,3531913,2011,Influenza
+Chumphon,99,20.16,0,0.0,491073,2011,Influenza
+Nakhon Si Thammarat,1609,105.56,1,0.07,1524317,2011,Influenza
+Phatthalung,396,77.6,0,0.0,510299,2011,Influenza
+Surat Thani,1166,115.88,1,0.1,1006224,2011,Influenza
+Zone:7,1930,104.49,0,0.0,1846999,2011,Influenza
+Krabi,138,31.7,0,0.0,435372,2011,Influenza
+Phangnga,404,159.04,0,0.0,254022,2011,Influenza
+Phuket,868,248.39,0,0.0,349457,2011,Influenza
+Ranong,24,13.08,0,0.0,183464,2011,Influenza
+Trang,496,79.4,0,0.0,624684,2011,Influenza
+Zone:8,2760,77.67,0,0.0,3553547,2011,Influenza
+Narathiwat,241,32.47,0,0.0,742268,2011,Influenza
+Pattani,121,18.35,0,0.0,659373,2011,Influenza
+Satun,70,23.39,0,0.0,299315,2011,Influenza
+Songkhla,2130,156.39,0,0.0,1362017,2011,Influenza
+Yala,198,40.36,0,0.0,490574,2011,Influenza
+North-Eastern Region,10383,48.11,3,0.01,21579612,2011,Influenza
+Zone:10,1701,47.4,0,0.0,3588872,2011,Influenza
+Bungkan,68,33.36,0,0.0,203818,2011,Influenza
+Loei,908,145.4,0,0.0,624493,2011,Influenza
+Nong Bua Lam Phu,30,5.97,0,0.0,502710,2011,Influenza
+Nong Khai,448,62.97,0,0.0,711404,2011,Influenza
+Udon Thani,247,15.97,0,0.0,1546447,2011,Influenza
+Zone:11,1365,62.98,0,0.0,2167288,2011,Influenza
+Mukdahan,166,48.81,0,0.0,340079,2011,Influenza
+Nakhon Phanom,809,114.9,0,0.0,704080,2011,Influenza
+Sakon Nakhon,390,34.72,0,0.0,1123129,2011,Influenza
+Zone:12,1296,25.94,1,0.02,4996659,2011,Influenza
+Kalasin,116,11.81,0,0.0,982117,2011,Influenza
+Khon Kaen,930,52.64,1,0.06,1766834,2011,Influenza
+Maha Sarakham,165,17.55,0,0.0,940324,2011,Influenza
+Roi Et,85,6.5,0,0.0,1307384,2011,Influenza
+Zone:13,3052,73.05,1,0.02,4178156,2011,Influenza
+Amnat Charoen,89,23.91,0,0.0,372190,2011,Influenza
+Si Sa Ket,552,38.01,1,0.07,1452338,2011,Influenza
+Ubon Ratchathani,1953,107.63,0,0.0,1814573,2011,Influenza
+Yasothon,458,84.96,0,0.0,539055,2011,Influenza
+Zone:14,2969,44.66,1,0.02,6648637,2011,Influenza
+Buri Ram,1352,86.87,0,0.0,1556426,2011,Influenza
+Chaiyaphum,331,29.36,0,0.0,1127423,2011,Influenza
+Nakhon Ratchasima,990,38.32,1,0.04,2583707,2011,Influenza
+Surin,296,21.43,0,0.0,1381081,2011,Influenza
+North Region,16712,141.8,2,0.02,11785868,2011,Influenza
+Zone:15,7111,233.09,1,0.03,3050706,2011,Influenza
+Chiang Mai,3043,185.17,1,0.06,1643312,2011,Influenza
+Lampang,3375,444.23,0,0.0,759742,2011,Influenza
+Lamphun,489,120.96,0,0.0,404257,2011,Influenza
+Mae Hong Son,204,83.81,0,0.0,243395,2011,Influenza
+Zone:16,2081,79.4,0,0.0,2621067,2011,Influenza
+Chiang Rai,1273,106.22,0,0.0,1198438,2011,Influenza
+Nan,388,81.43,0,0.0,476488,2011,Influenza
+Phayao,212,43.59,0,0.0,486388,2011,Influenza
+Phrae,208,45.24,0,0.0,459753,2011,Influenza
+Zone:17,5092,148.21,1,0.03,3435767,2011,Influenza
+Phetchabun,408,41.07,0,0.0,993420,2011,Influenza
+Phitsanulok,2131,250.55,1,0.12,850525,2011,Influenza
+Sukhothai,879,146.1,0,0.0,601642,2011,Influenza
+Tak,530,100.31,0,0.0,528351,2011,Influenza
+Uttaradit,1144,247.71,0,0.0,461829,2011,Influenza
+Zone:18,2428,90.65,0,0.0,2678328,2011,Influenza
+Kamphaeng Phet,859,118.23,0,0.0,726551,2011,Influenza
+Nakhon Sawan,470,43.82,0,0.0,1072591,2011,Influenza
+Phichit,593,107.59,0,0.0,551189,2011,Influenza
+Uthai Thani,506,154.27,0,0.0,327997,2011,Influenza
+Total,200882,304.09,58,0.09,66060027,2017,Influenza
+ZONE:01,23278,396.95,0,0.0,5864232,2017,Influenza
+Chiang Mai,10960,629.41,0,0.0,1741301,2017,Influenza
+Chiang Rai,3251,252.98,0,0.0,1285080,2017,Influenza
+Lampang,2340,312.96,0,0.0,747699,2017,Influenza
+Lamphun,1840,453.25,0,0.0,405959,2017,Influenza
+Mae Hong Son,146,52.62,0,0.0,277486,2017,Influenza
+Nan,2023,421.57,0,0.0,479877,2017,Influenza
+Phayao,2185,456.98,0,0.0,478144,2017,Influenza
+Phrae,533,118.79,0,0.0,448686,2017,Influenza
+ZONE:02,9721,273.34,2,0.06,3556376,2017,Influenza
+Phetchabun,644,64.71,0,0.0,995277,2017,Influenza
+Phitsanulok,4314,498.4,0,0.0,865564,2017,Influenza
+Sukhothai,1307,217.92,0,0.0,599775,2017,Influenza
+Tak,1214,190.25,2,0.31,638115,2017,Influenza
+Uttaradit,2242,489.9,0,0.0,457645,2017,Influenza
+ZONE:03,7418,247.42,0,0.0,2998104,2017,Influenza
+Chai Nat,193,58.47,0,0.0,330077,2017,Influenza
+Kamphaeng Phet,1648,225.96,0,0.0,729337,2017,Influenza
+Nakhon Sawan,4198,393.85,0,0.0,1065895,2017,Influenza
+Phichit,1206,222.23,0,0.0,542674,2017,Influenza
+Uthai Thani,173,52.41,0,0.0,330121,2017,Influenza
+ZONE:04,11469,216.29,5,0.09,5302492,2017,Influenza
+Ang Thong,967,343.16,0,0.0,281796,2017,Influenza
+Lop Buri,2413,318.63,0,0.0,757296,2017,Influenza
+Nakhon Nayok,130,50.22,0,0.0,258850,2017,Influenza
+Nonthaburi,1926,157.76,0,0.0,1220829,2017,Influenza
+P.Nakhon S.Ayutthaya,2871,353.53,4,0.49,812086,2017,Influenza
+Pathum Thani,2109,188.26,1,0.09,1120246,2017,Influenza
+Saraburi,636,99.21,0,0.0,641052,2017,Influenza
+Sing Buri,417,198.25,0,0.0,210337,2017,Influenza
+ZONE:05,13941,263.25,4,0.08,5295696,2017,Influenza
+Kanchanaburi,1419,160.06,0,0.0,886546,2017,Influenza
+Nakhon Pathom,4166,458.68,1,0.11,908249,2017,Influenza
+Phetchaburi,1430,296.98,1,0.21,481514,2017,Influenza
+Prachuap Khiri Khan,1491,275.22,1,0.18,541756,2017,Influenza
+Ratchaburi,1613,185.24,1,0.11,870769,2017,Influenza
+Samut Sakhon,1725,306.62,0,0.0,562592,2017,Influenza
+Samut Songkhram,318,163.93,0,0.0,193985,2017,Influenza
+Suphan Buri,1779,209.22,0,0.0,850285,2017,Influenza
+ZONE:06,20865,346.55,1,0.02,6020790,2017,Influenza
+Chachoengsao,1929,272.79,0,0.0,707145,2017,Influenza
+Chanthaburi,3728,698.83,0,0.0,533463,2017,Influenza
+Chon Buri,2427,162.22,0,0.0,1496086,2017,Influenza
+Prachin Buri,1089,223.99,0,0.0,486187,2017,Influenza
+Rayong,5995,849.48,0,0.0,705729,2017,Influenza
+Sa Kaeo,594,105.98,0,0.0,560478,2017,Influenza
+Samut Prakan,4309,330.91,1,0.08,1302160,2017,Influenza
+Trat,794,345.91,0,0.0,229542,2017,Influenza
+ZONE:07,6626,130.93,0,0.0,5060674,2017,Influenza
+Kalasin,747,75.79,0,0.0,985619,2017,Influenza
+Khon Kaen,3515,194.86,0,0.0,1803831,2017,Influenza
+Maha Sarakham,1148,119.18,0,0.0,963277,2017,Influenza
+Roi Et,1216,92.97,0,0.0,1307947,2017,Influenza
+ZONE:08,8616,155.48,1,0.02,5541473,2017,Influenza
+Bungkan,145,34.33,0,0.0,422328,2017,Influenza
+Loei,847,132.19,0,0.0,640734,2017,Influenza
+Nakhon Phanom,1564,217.99,0,0.0,717451,2017,Influenza
+Nong Bua Lam Phu,211,41.28,0,0.0,511188,2017,Influenza
+Nong Khai,3088,592.56,0,0.0,521125,2017,Influenza
+Sakon Nakhon,597,52.02,0,0.0,1147710,2017,Influenza
+Udon Thani,2164,136.88,1,0.06,1580937,2017,Influenza
+ZONE:09,24524,362.76,40,0.59,6760383,2017,Influenza
+Buri Ram,4131,259.83,0,0.0,1589900,2017,Influenza
+Chaiyaphum,2690,236.22,0,0.0,1138778,2017,Influenza
+Nakhon Ratchasima,14578,553.18,40,1.52,2635331,2017,Influenza
+Surin,3125,223.79,0,0.0,1396374,2017,Influenza
+ZONE:10,10120,219.77,0,0.0,4604905,2017,Influenza
+Amnat Charoen,186,49.26,0,0.0,377614,2017,Influenza
+Mukdahan,1306,373.01,0,0.0,350128,2017,Influenza
+Si Sa Ket,1316,89.45,0,0.0,1471185,2017,Influenza
+Ubon Ratchathani,6564,351.71,0,0.0,1866299,2017,Influenza
+Yasothon,748,138.6,0,0.0,539679,2017,Influenza
+ZONE:11,7934,178.65,5,0.11,4441086,2017,Influenza
+Chumphon,659,129.56,0,0.0,508627,2017,Influenza
+Krabi,451,96.4,0,0.0,467851,2017,Influenza
+Nakhon Si Thammarat,2860,183.81,5,0.32,1555957,2017,Influenza
+Phangnga,311,116.68,0,0.0,266535,2017,Influenza
+Phuket,725,182.12,0,0.0,398092,2017,Influenza
+Ranong,113,59.54,0,0.0,189777,2017,Influenza
+Surat Thani,2815,267.02,0,0.0,1054247,2017,Influenza
+ZONE:12,4289,87.01,0,0.0,4929285,2017,Influenza
+Narathiwat,778,98.11,0,0.0,792961,2017,Influenza
+Pattani,189,26.79,0,0.0,705379,2017,Influenza
+Phatthalung,965,184.06,0,0.0,524291,2017,Influenza
+Satun,139,43.62,0,0.0,318655,2017,Influenza
+Songkhla,1166,82.06,0,0.0,1420834,2017,Influenza
+Trang,826,128.58,0,0.0,642377,2017,Influenza
+Yala,226,43.07,0,0.0,524788,2017,Influenza
+ZONE:13,52081,916.19,0,0.0,5684531,2017,Influenza
+Bangkok,52081,916.19,0,0.0,5684531,2017,Influenza
 Total,81314,122.88,0,0.0,66171439,2022,Influenza
 ZONE:01,12968,220.75,0,0.0,5874503,2022,Influenza
 Chiang Mai,4690,262.1,0,0.0,1789385,2022,Influenza
@@ -1920,6 +1249,204 @@ Trang,649,101.44,0,0.0,639788,2022,Influenza
 Yala,783,144.38,0,0.0,542314,2022,Influenza
 ZONE:13,7400,133.86,0,0.0,5527994,2022,Influenza
 Bangkok,7400,133.86,0,0.0,5527994,2022,Influenza
+Total,120400,189.73,231,0.36,63457439,2009,Influenza
+Central Region,48984,229.05,99,0.46,21386001,2009,Influenza
+Bangkok,19197,336.39,30,0.53,5706739,2009,Influenza
+Zone:1,6053,178.16,15,0.44,3397461,2009,Influenza
+Nonthaburi,2219,208.29,4,0.38,1065332,2009,Influenza
+P.Nakhon S.Ayutthaya,1679,217.45,6,0.78,772142,2009,Influenza
+Pathum Thani,1665,176.6,4,0.42,942813,2009,Influenza
+Saraburi,490,79.39,1,0.16,617174,2009,Influenza
+Zone:2,2697,169.62,6,0.38,1590058,2009,Influenza
+Ang Thong,154,54.07,0,0.0,284819,2009,Influenza
+Chai Nat,517,154.01,1,0.3,335686,2009,Influenza
+Lop Buri,1674,221.98,5,0.66,754127,2009,Influenza
+Sing Buri,352,163.4,0,0.0,215426,2009,Influenza
+Zone:3,4762,154.79,8,0.26,3076347,2009,Influenza
+Chachoengsao,707,106.01,1,0.15,666907,2009,Influenza
+Nakhon Nayok,332,132.16,2,0.8,251219,2009,Influenza
+Prachin Buri,1013,219.92,1,0.22,460617,2009,Influenza
+Sa Kaeo,281,51.85,0,0.0,541939,2009,Influenza
+Samut Prakan,2429,210.18,4,0.35,1155665,2009,Influenza
+Zone:4,6929,205.93,17,0.51,3364769,2009,Influenza
+Kanchanaburi,2872,343.06,4,0.48,837165,2009,Influenza
+Nakhon Pathom,1523,179.7,3,0.35,847513,2009,Influenza
+Ratchaburi,1735,207.65,9,1.08,835546,2009,Influenza
+Suphan Buri,799,94.61,1,0.12,844545,2009,Influenza
+Zone:5,2961,180.82,14,0.85,1637557,2009,Influenza
+Phetchaburi,1142,248.2,5,1.09,460108,2009,Influenza
+Prachuap Khiri Khan,821,163.47,4,0.8,502221,2009,Influenza
+Samut Sakhon,761,158.09,4,0.83,481377,2009,Influenza
+Samut Songkhram,237,122.26,1,0.52,193851,2009,Influenza
+Zone:9,6385,244.35,9,0.34,2613070,2009,Influenza
+Chanthaburi,1473,289.03,1,0.2,509633,2009,Influenza
+Chon Buri,2363,185.02,7,0.55,1277139,2009,Influenza
+Rayong,2050,338.63,1,0.17,605380,2009,Influenza
+Trat,499,225.88,0,0.0,220918,2009,Influenza
+South Region,19008,216.55,31,0.35,8777720,2009,Influenza
+Zone:6,9222,263.76,19,0.54,3496373,2009,Influenza
+Chumphon,1073,220.68,4,0.82,486233,2009,Influenza
+Nakhon Si Thammarat,3452,227.88,11,0.73,1514832,2009,Influenza
+Phatthalung,1550,306.05,0,0.0,506454,2009,Influenza
+Surat Thani,3147,318.25,4,0.4,988854,2009,Influenza
+Zone:7,5758,319.2,6,0.33,1803902,2009,Influenza
+Krabi,894,211.53,2,0.47,422631,2009,Influenza
+Phangnga,812,323.77,0,0.0,250796,2009,Influenza
+Phuket,1420,428.41,2,0.6,331460,2009,Influenza
+Ranong,204,111.94,1,0.55,182242,2009,Influenza
+Trang,2428,393.66,1,0.16,616773,2009,Influenza
+Zone:8,4028,115.83,6,0.17,3477445,2009,Influenza
+Narathiwat,990,136.74,0,0.0,724001,2009,Influenza
+Pattani,497,77.07,2,0.31,644897,2009,Influenza
+Satun,190,65.35,0,0.0,290755,2009,Influenza
+Songkhla,2199,164.12,4,0.3,1339861,2009,Influenza
+Yala,152,31.8,0,0.0,477931,2009,Influenza
+North-Eastern Region,26088,121.51,55,0.26,21469269,2009,Influenza
+Zone:10,4660,130.75,12,0.34,3564168,2009,Influenza
+Loei,709,114.43,2,0.32,619602,2009,Influenza
+Nong Bua Lam Phu,375,74.97,2,0.4,500217,2009,Influenza
+Nong Khai,586,64.6,3,0.33,907064,2009,Influenza
+Udon Thani,2990,194.5,5,0.33,1537285,2009,Influenza
+Zone:11,1863,86.45,9,0.42,2155042,2009,Influenza
+Mukdahan,302,89.41,2,0.59,337773,2009,Influenza
+Nakhon Phanom,601,85.85,3,0.43,700027,2009,Influenza
+Sakon Nakhon,960,85.93,4,0.36,1117242,2009,Influenza
+Zone:12,5125,102.82,11,0.22,4984201,2009,Influenza
+Kalasin,643,65.65,2,0.2,979371,2009,Influenza
+Khon Kaen,3128,177.81,3,0.17,1759172,2009,Influenza
+Maha Sarakham,694,73.99,3,0.32,937972,2009,Influenza
+Roi Et,660,50.47,3,0.23,1307686,2009,Influenza
+Zone:13,5897,142.0,9,0.22,4152834,2009,Influenza
+Amnat Charoen,259,69.97,1,0.27,370141,2009,Influenza
+Si Sa Ket,1325,91.77,5,0.35,1443879,2009,Influenza
+Ubon Ratchathani,3949,219.44,1,0.06,1799604,2009,Influenza
+Yasothon,364,67.51,2,0.37,539210,2009,Influenza
+Zone:14,8543,129.18,14,0.21,6613024,2009,Influenza
+Buri Ram,3535,228.92,4,0.26,1544218,2009,Influenza
+Chaiyaphum,1220,108.55,1,0.09,1123907,2009,Influenza
+Nakhon Ratchasima,2863,111.48,6,0.23,2568205,2009,Influenza
+Surin,925,67.19,3,0.22,1376694,2009,Influenza
+North Region,26320,222.59,46,0.39,11824449,2009,Influenza
+Zone:15,9144,297.88,8,0.26,3069670,2009,Influenza
+Chiang Mai,6057,366.77,8,0.48,1651433,2009,Influenza
+Lampang,2175,283.92,0,0.0,766057,2009,Influenza
+Lamphun,638,157.57,0,0.0,404910,2009,Influenza
+Mae Hong Son,274,110.81,0,0.0,247270,2009,Influenza
+Zone:16,4056,153.81,5,0.19,2636963,2009,Influenza
+Chiang Rai,2008,165.8,2,0.17,1211126,2009,Influenza
+Nan,505,106.14,0,0.0,475799,2009,Influenza
+Phayao,1108,227.4,0,0.0,487254,2009,Influenza
+Phrae,435,94.0,3,0.65,462784,2009,Influenza
+Zone:17,9491,276.19,22,0.64,3436350,2009,Influenza
+Phetchabun,1598,160.49,2,0.2,995679,2009,Influenza
+Phitsanulok,2706,320.32,8,0.95,844779,2009,Influenza
+Sukhothai,2778,460.46,11,1.82,603316,2009,Influenza
+Tak,890,168.24,0,0.0,528997,2009,Influenza
+Uttaradit,1519,327.67,1,0.22,463579,2009,Influenza
+Zone:18,3629,135.34,11,0.41,2681466,2009,Influenza
+Kamphaeng Phet,888,122.22,2,0.28,726530,2009,Influenza
+Nakhon Sawan,1800,167.67,5,0.47,1073554,2009,Influenza
+Phichit,733,132.39,3,0.54,553653,2009,Influenza
+Uthai Thani,208,63.47,1,0.31,327729,2009,Influenza
+Total,20881,33.03,2,0.0,63214022,2008,Influenza
+Central Region,10807,50.91,0,0.0,21226352,2008,Influenza
+Bangkok,4195,73.42,0,0.0,5713566,2008,Influenza
+Zone:1,739,22.16,0,0.0,3335057,2008,Influenza
+Nonthaburi,212,20.42,0,0.0,1038392,2008,Influenza
+P.Nakhon S.Ayutthaya,180,23.53,0,0.0,764919,2008,Influenza
+Pathum Thani,314,34.39,0,0.0,913047,2008,Influenza
+Saraburi,33,5.33,0,0.0,618699,2008,Influenza
+Zone:2,270,17.0,0,0.0,1588582,2008,Influenza
+Ang Thong,40,14.05,0,0.0,284619,2008,Influenza
+Chai Nat,70,20.8,0,0.0,336550,2008,Influenza
+Lop Buri,138,18.36,0,0.0,751811,2008,Influenza
+Sing Buri,22,10.2,0,0.0,215602,2008,Influenza
+Zone:3,992,32.57,0,0.0,3046070,2008,Influenza
+Chachoengsao,133,20.09,0,0.0,661898,2008,Influenza
+Nakhon Nayok,25,10.02,0,0.0,249625,2008,Influenza
+Prachin Buri,133,29.09,0,0.0,457184,2008,Influenza
+Sa Kaeo,78,14.44,0,0.0,540281,2008,Influenza
+Samut Prakan,623,54.79,0,0.0,1137082,2008,Influenza
+Zone:4,1812,54.05,0,0.0,3352570,2008,Influenza
+Kanchanaburi,497,59.3,0,0.0,838094,2008,Influenza
+Nakhon Pathom,285,34.04,0,0.0,837285,2008,Influenza
+Ratchaburi,831,99.68,0,0.0,833650,2008,Influenza
+Suphan Buri,199,23.59,0,0.0,843541,2008,Influenza
+Zone:5,668,41.15,0,0.0,1623176,2008,Influenza
+Phetchaburi,327,71.47,0,0.0,457518,2008,Influenza
+Prachuap Khiri Khan,167,33.57,0,0.0,497483,2008,Influenza
+Samut Sakhon,47,9.91,0,0.0,474041,2008,Influenza
+Samut Songkhram,127,65.42,0,0.0,194134,2008,Influenza
+Zone:9,2131,83.0,0,0.0,2567331,2008,Influenza
+Chanthaburi,556,109.88,0,0.0,506012,2008,Influenza
+Chon Buri,897,71.81,0,0.0,1249067,2008,Influenza
+Rayong,490,82.9,0,0.0,591067,2008,Influenza
+Trat,188,85.0,0,0.0,221185,2008,Influenza
+South Region,4180,48.06,1,0.01,8698196,2008,Influenza
+Zone:6,1714,49.34,1,0.03,3473895,2008,Influenza
+Chumphon,61,12.63,0,0.0,483011,2008,Influenza
+Nakhon Si Thammarat,855,56.62,1,0.07,1510081,2008,Influenza
+Phatthalung,382,75.82,0,0.0,503847,2008,Influenza
+Surat Thani,416,42.58,0,0.0,976956,2008,Influenza
+Zone:7,1449,81.46,0,0.0,1778692,2008,Influenza
+Krabi,144,34.73,0,0.0,414670,2008,Influenza
+Phangnga,260,104.67,0,0.0,248411,2008,Influenza
+Phuket,211,65.68,0,0.0,321252,2008,Influenza
+Ranong,20,11.0,0,0.0,181758,2008,Influenza
+Trang,814,132.88,0,0.0,612601,2008,Influenza
+Zone:8,1017,29.52,0,0.0,3445609,2008,Influenza
+Narathiwat,365,51.0,0,0.0,715724,2008,Influenza
+Pattani,75,11.72,0,0.0,639988,2008,Influenza
+Satun,132,46.08,0,0.0,286446,2008,Influenza
+Songkhla,374,28.11,0,0.0,1330342,2008,Influenza
+Yala,71,15.01,0,0.0,473109,2008,Influenza
+North-Eastern Region,3208,14.98,1,0.0,21414180,2008,Influenza
+Zone:10,366,10.3,0,0.0,3553449,2008,Influenza
+Loei,89,14.43,0,0.0,616981,2008,Influenza
+Nong Bua Lam Phu,52,10.43,0,0.0,498562,2008,Influenza
+Nong Khai,126,13.93,0,0.0,904748,2008,Influenza
+Udon Thani,99,6.46,0,0.0,1533158,2008,Influenza
+Zone:11,230,10.7,0,0.0,2149587,2008,Influenza
+Mukdahan,56,16.63,0,0.0,336802,2008,Influenza
+Nakhon Phanom,81,11.6,0,0.0,698235,2008,Influenza
+Sakon Nakhon,93,8.34,0,0.0,1114550,2008,Influenza
+Zone:12,588,11.82,0,0.0,4976635,2008,Influenza
+Kalasin,105,10.74,0,0.0,978046,2008,Influenza
+Khon Kaen,190,10.83,0,0.0,1754258,2008,Influenza
+Maha Sarakham,218,23.28,0,0.0,936430,2008,Influenza
+Roi Et,75,5.73,0,0.0,1307901,2008,Influenza
+Zone:13,822,19.85,0,0.0,4141403,2008,Influenza
+Amnat Charoen,17,4.6,0,0.0,369196,2008,Influenza
+Si Sa Ket,393,27.25,0,0.0,1442212,2008,Influenza
+Ubon Ratchathani,349,19.49,0,0.0,1790581,2008,Influenza
+Yasothon,63,11.68,0,0.0,539414,2008,Influenza
+Zone:14,1202,18.23,1,0.02,6593106,2008,Influenza
+Buri Ram,472,30.67,0,0.0,1538861,2008,Influenza
+Chaiyaphum,89,7.94,0,0.0,1121123,2008,Influenza
+Nakhon Ratchasima,152,5.94,0,0.0,2559006,2008,Influenza
+Surin,489,35.59,1,0.07,1374116,2008,Influenza
+North Region,2686,22.62,0,0.0,11875294,2008,Influenza
+Zone:15,756,24.42,0,0.0,3095362,2008,Influenza
+Chiang Mai,556,33.35,0,0.0,1667358,2008,Influenza
+Lampang,81,10.53,0,0.0,769115,2008,Influenza
+Lamphun,45,11.11,0,0.0,405141,2008,Influenza
+Mae Hong Son,74,29.16,0,0.0,253748,2008,Influenza
+Zone:16,540,20.34,0,0.0,2654508,2008,Influenza
+Chiang Rai,208,16.96,0,0.0,1226165,2008,Influenza
+Nan,195,40.91,0,0.0,476683,2008,Influenza
+Phayao,123,25.26,0,0.0,486983,2008,Influenza
+Phrae,14,3.01,0,0.0,464677,2008,Influenza
+Zone:17,995,28.89,0,0.0,3443651,2008,Influenza
+Phetchabun,128,12.84,0,0.0,996882,2008,Influenza
+Phitsanulok,640,75.93,0,0.0,842840,2008,Influenza
+Sukhothai,35,5.79,0,0.0,604559,2008,Influenza
+Tak,141,26.37,0,0.0,534629,2008,Influenza
+Uttaradit,51,10.97,0,0.0,464741,2008,Influenza
+Zone:18,395,14.73,0,0.0,2681773,2008,Influenza
+Kamphaeng Phet,72,9.92,0,0.0,726104,2008,Influenza
+Nakhon Sawan,182,16.95,0,0.0,1073962,2008,Influenza
+Phichit,101,18.22,0,0.0,554426,2008,Influenza
+Uthai Thani,40,12.22,0,0.0,327281,2008,Influenza
 Total,486973,736.38,14,0.02,66130957,2023,Influenza
 ZONE:01,61407,1046.26,1,0.02,5869190,2023,Influenza
 Chiang Mai,24057,1343.27,0,0.0,1790929,2023,Influenza
@@ -2011,94 +1538,567 @@ Trang,3356,525.2,0,0.0,638997,2023,Influenza
 Yala,2275,418.11,0,0.0,544114,2023,Influenza
 ZONE:13,77668,1409.21,2,0.04,5511463,2023,Influenza
 Bangkok,77668,1409.21,2,0.04,5511463,2023,Influenza
-Total,650931,985.19,50,0.08,66071545,2024,Influenza
-ZONE:01,41485,708.25,1,0.02,5857413,2024,Influenza
-Chiang Mai,9296,517.95,1,0.06,1794774,2024,Influenza
-Chiang Rai,6741,518.82,0,0.0,1299306,2024,Influenza
-Lampang,6928,968.77,0,0.0,715133,2024,Influenza
-Lamphun,4344,1088.73,0,0.0,398998,2024,Influenza
-Mae Hong Son,1675,583.19,0,0.0,287215,2024,Influenza
-Nan,2774,585.69,0,0.0,473630,2024,Influenza
-Phayao,6119,1330.63,0,0.0,459858,2024,Influenza
-Phrae,3608,842.01,0,0.0,428499,2024,Influenza
-ZONE:02,30258,858.99,2,0.06,3522489,2024,Influenza
-Phetchabun,8316,856.96,0,0.0,970403,2024,Influenza
-Phitsanulok,9418,1117.05,1,0.12,843111,2024,Influenza
-Sukhothai,3206,552.99,1,0.17,579759,2024,Influenza
-Tak,5055,734.82,0,0.0,687927,2024,Influenza
-Uttaradit,4263,966.03,0,0.0,441289,2024,Influenza
-ZONE:03,24005,828.77,2,0.07,2896463,2024,Influenza
-Chai Nat,2080,655.61,0,0.0,317263,2024,Influenza
-Kamphaeng Phet,4485,634.5,0,0.0,706861,2024,Influenza
-Nakhon Sawan,8924,870.34,1,0.1,1025348,2024,Influenza
-Phichit,6245,1191.96,1,0.19,523925,2024,Influenza
-Uthai Thani,2271,702.95,0,0.0,323066,2024,Influenza
-ZONE:04,52351,962.54,5,0.09,5438863,2024,Influenza
-Ang Thong,2667,981.76,1,0.37,271656,2024,Influenza
-Lop Buri,6176,843.15,0,0.0,732495,2024,Influenza
-Nakhon Nayok,2053,788.82,0,0.0,260261,2024,Influenza
-Nonthaburi,14370,1103.68,0,0.0,1302004,2024,Influenza
-P.Nakhon S.Ayutthaya,6759,823.0,2,0.24,821261,2024,Influenza
-Pathum Thani,13056,1078.68,1,0.08,1210365,2024,Influenza
-Saraburi,4845,758.57,0,0.0,638704,2024,Influenza
-Sing Buri,2425,1199.8,1,0.49,202117,2024,Influenza
-ZONE:05,55678,1045.26,0,0.0,5326695,2024,Influenza
-Kanchanaburi,5993,669.77,0,0.0,894781,2024,Influenza
-Nakhon Pathom,12945,1402.19,0,0.0,923201,2024,Influenza
-Phetchaburi,5337,1104.27,0,0.0,483305,2024,Influenza
-Prachuap Khiri Khan,5595,1013.34,0,0.0,552137,2024,Influenza
-Ratchaburi,9672,1117.79,0,0.0,865276,2024,Influenza
-Samut Sakhon,7823,1324.29,0,0.0,590730,2024,Influenza
-Samut Songkhram,1394,738.65,0,0.0,188723,2024,Influenza
-Suphan Buri,6919,835.08,0,0.0,828542,2024,Influenza
-ZONE:06,87009,1382.82,5,0.08,6292163,2024,Influenza
-Chachoengsao,10489,1439.58,1,0.14,728615,2024,Influenza
-Chanthaburi,6131,1143.22,1,0.19,536290,2024,Influenza
-Chon Buri,28132,1751.23,1,0.06,1606412,2024,Influenza
-Prachin Buri,3546,711.09,0,0.0,498671,2024,Influenza
-Rayong,11613,1517.47,0,0.0,765287,2024,Influenza
-Sa Kaeo,3591,637.99,0,0.0,562860,2024,Influenza
-Samut Prakan,20773,1520.05,2,0.15,1366598,2024,Influenza
-Trat,2734,1202.13,0,0.0,227430,2024,Influenza
-ZONE:07,29632,594.86,0,0.0,4981337,2024,Influenza
-Kalasin,6267,646.03,0,0.0,970084,2024,Influenza
-Khon Kaen,12564,705.05,0,0.0,1782008,2024,Influenza
-Maha Sarakham,3983,423.16,0,0.0,941261,2024,Influenza
-Roi Et,6818,529.35,0,0.0,1287984,2024,Influenza
-ZONE:08,30292,550.76,1,0.02,5500012,2024,Influenza
-Bungkan,2123,504.17,0,0.0,421086,2024,Influenza
-Loei,3685,579.18,0,0.0,636242,2024,Influenza
-Nakhon Phanom,4252,594.3,1,0.14,715466,2024,Influenza
-Nong Bua Lam Phu,3623,713.75,0,0.0,507599,2024,Influenza
-Nong Khai,5215,1012.8,0,0.0,514909,2024,Influenza
-Sakon Nakhon,3429,299.76,0,0.0,1143922,2024,Influenza
-Udon Thani,7965,510.32,0,0.0,1560788,2024,Influenza
-ZONE:09,64197,959.74,17,0.25,6689028,2024,Influenza
-Buri Ram,9844,624.99,1,0.06,1575073,2024,Influenza
-Chaiyaphum,9389,841.57,2,0.18,1115652,2024,Influenza
-Nakhon Ratchasima,30568,1163.2,14,0.53,2627927,2024,Influenza
-Surin,14396,1050.51,0,0.0,1370376,2024,Influenza
-ZONE:10,42569,929.69,0,0.0,4578831,2024,Influenza
-Amnat Charoen,3211,856.82,0,0.0,374760,2024,Influenza
-Mukdahan,2988,849.85,0,0.0,351592,2024,Influenza
-Si Sa Ket,7171,493.69,0,0.0,1452532,2024,Influenza
-Ubon Ratchathani,23326,1247.57,0,0.0,1869708,2024,Influenza
-Yasothon,5873,1107.61,0,0.0,530239,2024,Influenza
-ZONE:11,54507,1214.02,13,0.29,4489783,2024,Influenza
-Chumphon,6094,1196.96,0,0.0,509122,2024,Influenza
-Krabi,4555,946.81,0,0.0,481089,2024,Influenza
-Nakhon Si Thammarat,17523,1135.61,3,0.19,1543051,2024,Influenza
-Phangnga,2222,831.43,1,0.37,267250,2024,Influenza
-Phuket,10987,2611.31,1,0.24,420746,2024,Influenza
-Ranong,1715,884.94,0,0.0,193799,2024,Influenza
-Surat Thani,11411,1061.76,8,0.74,1074726,2024,Influenza
-ZONE:12,42068,838.81,1,0.02,5015209,2024,Influenza
-Narathiwat,5130,628.18,0,0.0,816642,2024,Influenza
-Pattani,2558,348.02,0,0.0,735017,2024,Influenza
-Phatthalung,4972,954.12,0,0.0,521109,2024,Influenza
-Satun,2023,621.72,0,0.0,325387,2024,Influenza
-Songkhla,17065,1192.1,0,0.0,1431512,2024,Influenza
-Trang,6387,1001.71,0,0.0,637612,2024,Influenza
-Yala,3933,717.79,1,0.18,547930,2024,Influenza
-ZONE:13,96880,1766.83,3,0.05,5483259,2024,Influenza
-Bangkok,96880,1766.83,3,0.05,5483259,2024,Influenza
+Total,74134,114.13,100,0.15,64955313,2014,Influenza
+ZONE:00,20322,357.2,0,0.0,5689268,2014,Influenza
+Bangkok,20322,357.2,0,0.0,5689268,2014,Influenza
+ZONE:01,12568,220.33,14,0.25,5704200,2014,Influenza
+Chiang Mai,5362,320.58,11,0.66,1672586,2014,Influenza
+Chiang Rai,1263,104.71,1,0.08,1206180,2014,Influenza
+Lampang,3561,472.32,0,0.0,753937,2014,Influenza
+Lamphun,502,123.84,2,0.49,405368,2014,Influenza
+Mae Hong Son,264,106.73,0,0.0,247364,2014,Influenza
+Nan,258,53.96,0,0.0,478088,2014,Influenza
+Phayao,1209,248.97,0,0.0,485599,2014,Influenza
+Phrae,149,32.74,0,0.0,455078,2014,Influenza
+ZONE:02,4294,124.39,7,0.2,3452021,2014,Influenza
+Phetchabun,246,24.72,0,0.0,995102,2014,Influenza
+Phitsanulok,2221,258.95,4,0.47,857682,2014,Influenza
+Sukhothai,563,93.43,3,0.5,602586,2014,Influenza
+Tak,339,63.25,0,0.0,535953,2014,Influenza
+Uttaradit,925,200.78,0,0.0,460698,2014,Influenza
+ZONE:03,2548,84.58,2,0.07,3012608,2014,Influenza
+Chai Nat,132,39.7,1,0.3,332526,2014,Influenza
+Kamphaeng Phet,1042,142.92,1,0.14,729076,2014,Influenza
+Nakhon Sawan,848,79.03,0,0.0,1072949,2014,Influenza
+Phichit,335,61.11,0,0.0,548199,2014,Influenza
+Uthai Thani,191,57.9,0,0.0,329858,2014,Influenza
+ZONE:04,5444,105.26,6,0.12,5171756,2014,Influenza
+Ang Thong,379,133.62,0,0.0,283650,2014,Influenza
+Lop Buri,1188,156.69,0,0.0,758188,2014,Influenza
+Nakhon Nayok,25,9.74,0,0.0,256693,2014,Influenza
+Nonthaburi,724,62.14,0,0.0,1165070,2014,Influenza
+P.Nakhon S.Ayutthaya,2136,266.74,3,0.37,800785,2014,Influenza
+Pathum Thani,569,53.5,2,0.19,1063608,2014,Influenza
+Saraburi,267,42.29,0,0.0,631338,2014,Influenza
+Sing Buri,156,73.44,1,0.47,212424,2014,Influenza
+ZONE:05,4041,78.5,3,0.06,5147569,2014,Influenza
+Kanchanaburi,563,66.58,0,0.0,845540,2014,Influenza
+Nakhon Pathom,1708,192.64,1,0.11,886627,2014,Influenza
+Phetchaburi,345,72.99,2,0.42,472640,2014,Influenza
+Prachuap Khiri Khan,314,60.07,0,0.0,522689,2014,Influenza
+Ratchaburi,481,56.48,0,0.0,851689,2014,Influenza
+Samut Sakhon,96,18.26,0,0.0,525672,2014,Influenza
+Samut Songkhram,51,26.27,0,0.0,194153,2014,Influenza
+Suphan Buri,483,56.92,0,0.0,848559,2014,Influenza
+ZONE:06,6472,111.63,3,0.05,5797595,2014,Influenza
+Chachoengsao,260,37.53,0,0.0,692852,2014,Influenza
+Chanthaburi,885,168.31,0,0.0,525805,2014,Influenza
+Chon Buri,591,42.04,0,0.0,1405889,2014,Influenza
+Prachin Buri,145,30.35,0,0.0,477741,2014,Influenza
+Rayong,2871,429.92,1,0.15,667806,2014,Influenza
+Sa Kaeo,74,13.42,0,0.0,551562,2014,Influenza
+Samut Prakan,1425,113.86,2,0.16,1251570,2014,Influenza
+Trat,221,98.5,0,0.0,224370,2014,Influenza
+ZONE:07,1559,30.95,1,0.02,5037074,2014,Influenza
+Kalasin,123,12.49,0,0.0,984468,2014,Influenza
+Khon Kaen,1057,59.19,1,0.06,1785852,2014,Influenza
+Maha Sarakham,292,30.48,0,0.0,958116,2014,Influenza
+Roi Et,87,6.65,0,0.0,1308638,2014,Influenza
+ZONE:08,3770,68.66,11,0.2,5490561,2014,Influenza
+Bungkan,279,66.84,0,0.0,417401,2014,Influenza
+Loei,444,70.1,0,0.0,633359,2014,Influenza
+Nakhon Phanom,1248,175.26,0,0.0,712101,2014,Influenza
+Nong Bua Lam Phu,292,57.48,6,1.18,508001,2014,Influenza
+Nong Khai,514,99.59,0,0.0,516101,2014,Influenza
+Sakon Nakhon,439,38.63,0,0.0,1136466,2014,Influenza
+Udon Thani,554,35.35,5,0.32,1567132,2014,Influenza
+ZONE:09,3923,58.4,26,0.39,6717984,2014,Influenza
+Buri Ram,841,53.35,4,0.25,1576343,2014,Influenza
+Chaiyaphum,289,25.43,0,0.0,1136386,2014,Influenza
+Nakhon Ratchasima,2406,92.0,22,0.84,2615340,2014,Influenza
+Surin,387,27.84,0,0.0,1389915,2014,Influenza
+ZONE:10,2738,59.98,5,0.11,4564711,2014,Influenza
+Amnat Charoen,40,10.67,0,0.0,375039,2014,Influenza
+Mukdahan,175,50.7,0,0.0,345159,2014,Influenza
+Si Sa Ket,432,29.52,4,0.27,1463620,2014,Influenza
+Ubon Ratchathani,1746,94.86,0,0.0,1840596,2014,Influenza
+Yasothon,345,63.85,1,0.19,540297,2014,Influenza
+ZONE:11,4562,105.01,18,0.41,4344513,2014,Influenza
+Chumphon,348,69.68,0,0.0,499435,2014,Influenza
+Krabi,307,67.64,0,0.0,453850,2014,Influenza
+Nakhon Si Thammarat,1382,89.45,7,0.45,1544936,2014,Influenza
+Phangnga,355,136.33,4,1.54,260395,2014,Influenza
+Phuket,1065,284.8,0,0.0,373943,2014,Influenza
+Ranong,39,22.17,0,0.0,175933,2014,Influenza
+Surat Thani,1066,102.89,7,0.68,1036021,2014,Influenza
+ZONE:12,1893,39.23,4,0.08,4825453,2014,Influenza
+Narathiwat,284,36.86,0,0.0,770472,2014,Influenza
+Pattani,227,33.26,0,0.0,682512,2014,Influenza
+Phatthalung,369,71.07,1,0.19,519220,2014,Influenza
+Satun,116,37.27,0,0.0,311233,2014,Influenza
+Songkhla,231,16.55,2,0.14,1395596,2014,Influenza
+Trang,556,87.23,1,0.16,637395,2014,Influenza
+Yala,110,21.61,0,0.0,509025,2014,Influenza
+Total,169362,258.86,44,0.07,65426907,2016,Influenza
+ZONE:01,24424,422.46,0,0.0,5781324,2016,Influenza
+Chiang Mai,11807,693.2,0,0.0,1703263,2016,Influenza
+Chiang Rai,3901,313.88,0,0.0,1242825,2016,Influenza
+Lampang,3348,444.81,0,0.0,752685,2016,Influenza
+Lamphun,1145,282.07,0,0.0,405927,2016,Influenza
+Mae Hong Son,168,64.37,0,0.0,260971,2016,Influenza
+Nan,681,142.2,0,0.0,478890,2016,Influenza
+Phayao,2957,611.52,0,0.0,483550,2016,Influenza
+Phrae,417,92.01,0,0.0,453213,2016,Influenza
+ZONE:02,9578,273.76,4,0.11,3498728,2016,Influenza
+Phetchabun,512,51.39,0,0.0,996397,2016,Influenza
+Phitsanulok,4926,572.0,4,0.46,861194,2016,Influenza
+Sukhothai,831,138.02,0,0.0,602085,2016,Influenza
+Tak,618,106.74,0,0.0,578968,2016,Influenza
+Uttaradit,2691,584.89,0,0.0,460084,2016,Influenza
+ZONE:03,6317,209.77,3,0.1,3011449,2016,Influenza
+Chai Nat,217,65.37,0,0.0,331968,2016,Influenza
+Kamphaeng Phet,1408,192.92,0,0.0,729839,2016,Influenza
+Nakhon Sawan,3066,285.91,3,0.28,1072349,2016,Influenza
+Phichit,1533,280.38,0,0.0,546750,2016,Influenza
+Uthai Thani,93,28.14,0,0.0,330543,2016,Influenza
+ZONE:04,10231,195.95,11,0.21,5221125,2016,Influenza
+Ang Thong,553,195.15,0,0.0,283371,2016,Influenza
+Lop Buri,1609,212.12,0,0.0,758531,2016,Influenza
+Nakhon Nayok,182,70.56,0,0.0,257939,2016,Influenza
+Nonthaburi,1494,126.2,0,0.0,1183791,2016,Influenza
+P.Nakhon S.Ayutthaya,3229,400.63,11,1.36,805980,2016,Influenza
+Pathum Thani,2093,193.05,0,0.0,1084154,2016,Influenza
+Saraburi,945,148.69,0,0.0,635567,2016,Influenza
+Sing Buri,126,59.49,0,0.0,211792,2016,Influenza
+ZONE:05,10009,192.13,0,0.0,5209561,2016,Influenza
+Kanchanaburi,1036,119.74,0,0.0,865172,2016,Influenza
+Nakhon Pathom,4286,478.77,0,0.0,895207,2016,Influenza
+Phetchaburi,981,205.92,0,0.0,476391,2016,Influenza
+Prachuap Khiri Khan,850,160.4,0,0.0,529912,2016,Influenza
+Ratchaburi,1071,124.46,0,0.0,860549,2016,Influenza
+Samut Sakhon,343,63.68,0,0.0,538671,2016,Influenza
+Samut Songkhram,192,98.82,0,0.0,194283,2016,Influenza
+Suphan Buri,1250,147.17,0,0.0,849376,2016,Influenza
+ZONE:06,14351,244.06,0,0.0,5880124,2016,Influenza
+Chachoengsao,1053,150.82,0,0.0,698190,2016,Influenza
+Chanthaburi,2659,502.46,0,0.0,529194,2016,Influenza
+Chon Buri,2479,172.36,0,0.0,1438231,2016,Influenza
+Prachin Buri,366,76.13,0,0.0,480755,2016,Influenza
+Rayong,4298,630.49,0,0.0,681696,2016,Influenza
+Sa Kaeo,120,21.64,0,0.0,554555,2016,Influenza
+Samut Prakan,2772,218.2,0,0.0,1270420,2016,Influenza
+Trat,604,265.98,0,0.0,227083,2016,Influenza
+ZONE:07,3704,73.35,0,0.0,5049920,2016,Influenza
+Kalasin,167,16.95,0,0.0,985055,2016,Influenza
+Khon Kaen,2370,132.1,0,0.0,1794032,2016,Influenza
+Maha Sarakham,719,74.69,0,0.0,962592,2016,Influenza
+Roi Et,448,34.24,0,0.0,1308241,2016,Influenza
+ZONE:08,3732,67.71,0,0.0,5511930,2016,Influenza
+Bungkan,64,15.25,0,0.0,419607,2016,Influenza
+Loei,452,70.99,0,0.0,636666,2016,Influenza
+Nakhon Phanom,990,138.58,0,0.0,714369,2016,Influenza
+Nong Bua Lam Phu,79,15.51,0,0.0,509469,2016,Influenza
+Nong Khai,788,152.0,0,0.0,518420,2016,Influenza
+Sakon Nakhon,610,53.48,0,0.0,1140673,2016,Influenza
+Udon Thani,749,47.62,0,0.0,1572726,2016,Influenza
+ZONE:09,19381,287.65,22,0.33,6737604,2016,Influenza
+Buri Ram,3354,212.02,0,0.0,1581955,2016,Influenza
+Chaiyaphum,3027,266.07,0,0.0,1137651,2016,Influenza
+Nakhon Ratchasima,11278,429.69,21,0.8,2624668,2016,Influenza
+Surin,1722,123.59,1,0.07,1393330,2016,Influenza
+ZONE:10,7142,155.9,0,0.0,4581192,2016,Influenza
+Amnat Charoen,89,23.68,0,0.0,375881,2016,Influenza
+Mukdahan,328,94.51,0,0.0,347059,2016,Influenza
+Si Sa Ket,1512,103.07,0,0.0,1467006,2016,Influenza
+Ubon Ratchathani,4655,251.48,0,0.0,1851049,2016,Influenza
+Yasothon,558,103.3,0,0.0,540197,2016,Influenza
+ZONE:11,8286,189.01,2,0.05,4383957,2016,Influenza
+Chumphon,1547,307.43,0,0.0,503203,2016,Influenza
+Krabi,694,151.05,0,0.0,459456,2016,Influenza
+Nakhon Si Thammarat,2034,131.2,0,0.0,1550278,2016,Influenza
+Phangnga,397,151.11,1,0.38,262721,2016,Influenza
+Phuket,1271,332.3,1,0.26,382485,2016,Influenza
+Ranong,68,37.3,0,0.0,182313,2016,Influenza
+Surat Thani,2275,218.02,0,0.0,1043501,2016,Influenza
+ZONE:12,3718,76.41,2,0.04,4865646,2016,Influenza
+Narathiwat,626,80.37,2,0.26,778941,2016,Influenza
+Pattani,211,30.58,0,0.0,690104,2016,Influenza
+Phatthalung,645,123.67,0,0.0,521570,2016,Influenza
+Satun,135,42.95,0,0.0,314297,2016,Influenza
+Songkhla,995,70.77,0,0.0,1405939,2016,Influenza
+Trang,928,145.05,0,0.0,639770,2016,Influenza
+Yala,178,34.56,0,0.0,515025,2016,Influenza
+ZONE:13,48489,851.53,0,0.0,5694347,2016,Influenza
+Bangkok,48489,851.53,0,0.0,5694347,2016,Influenza
+Total,183935,277.42,32,0.05,66301242,2018,Influenza
+ZONE:01,24048,409.08,0,0.0,5878537,2018,Influenza
+Chiang Mai,10784,614.37,0,0.0,1755291,2018,Influenza
+Chiang Rai,3575,277.16,0,0.0,1289873,2018,Influenza
+Lampang,3236,434.53,0,0.0,744714,2018,Influenza
+Lamphun,1377,339.22,0,0.0,405936,2018,Influenza
+Mae Hong Son,389,138.52,0,0.0,280826,2018,Influenza
+Nan,1915,399.45,0,0.0,479414,2018,Influenza
+Phayao,2240,470.43,0,0.0,476157,2018,Influenza
+Phrae,532,119.2,0,0.0,446326,2018,Influenza
+ZONE:02,9519,267.01,0,0.0,3565071,2018,Influenza
+Phetchabun,1104,110.96,0,0.0,994936,2018,Influenza
+Phitsanulok,3794,438.04,0,0.0,866129,2018,Influenza
+Sukhothai,1253,209.43,0,0.0,598287,2018,Influenza
+Tak,1424,219.26,0,0.0,649472,2018,Influenza
+Uttaradit,1944,426.08,0,0.0,456247,2018,Influenza
+ZONE:03,7449,248.93,3,0.1,2992420,2018,Influenza
+Chai Nat,166,50.46,0,0.0,328993,2018,Influenza
+Kamphaeng Phet,1998,274.27,0,0.0,728470,2018,Influenza
+Nakhon Sawan,3783,355.33,1,0.09,1064649,2018,Influenza
+Phichit,1095,202.55,2,0.37,540620,2018,Influenza
+Uthai Thani,407,123.45,0,0.0,329688,2018,Influenza
+ZONE:04,9881,184.92,0,0.0,5343264,2018,Influenza
+Ang Thong,680,241.98,0,0.0,281014,2018,Influenza
+Lop Buri,1984,261.74,0,0.0,758003,2018,Influenza
+Nakhon Nayok,144,55.44,0,0.0,259718,2018,Influenza
+Nonthaburi,1343,108.48,0,0.0,1238015,2018,Influenza
+P.Nakhon S.Ayutthaya,3189,390.98,0,0.0,815647,2018,Influenza
+Pathum Thani,1531,134.58,0,0.0,1137603,2018,Influenza
+Saraburi,761,118.25,0,0.0,643531,2018,Influenza
+Sing Buri,249,118.72,0,0.0,209733,2018,Influenza
+ZONE:05,12775,239.92,2,0.04,5324608,2018,Influenza
+Kanchanaburi,2324,260.96,0,0.0,890565,2018,Influenza
+Nakhon Pathom,4134,452.16,1,0.11,914273,2018,Influenza
+Phetchaburi,723,149.59,1,0.21,483335,2018,Influenza
+Prachuap Khiri Khan,1976,361.64,0,0.0,546396,2018,Influenza
+Ratchaburi,1446,165.71,0,0.0,872615,2018,Influenza
+Samut Sakhon,1175,204.98,0,0.0,573215,2018,Influenza
+Samut Songkhram,305,157.34,0,0.0,193847,2018,Influenza
+Suphan Buri,692,81.38,0,0.0,850362,2018,Influenza
+ZONE:06,17109,281.0,0,0.0,6088563,2018,Influenza
+Chachoengsao,2286,320.87,0,0.0,712449,2018,Influenza
+Chanthaburi,1852,345.86,0,0.0,535478,2018,Influenza
+Chon Buri,3106,204.04,0,0.0,1522285,2018,Influenza
+Prachin Buri,1185,242.04,0,0.0,489592,2018,Influenza
+Rayong,4026,561.29,0,0.0,717276,2018,Influenza
+Sa Kaeo,482,85.61,0,0.0,563014,2018,Influenza
+Samut Prakan,3789,287.33,0,0.0,1318687,2018,Influenza
+Trat,383,166.68,0,0.0,229782,2018,Influenza
+ZONE:07,6480,128.01,2,0.04,5062199,2018,Influenza
+Kalasin,539,54.68,1,0.1,985676,2018,Influenza
+Khon Kaen,3601,199.4,0,0.0,1805903,2018,Influenza
+Maha Sarakham,749,77.77,0,0.0,963060,2018,Influenza
+Roi Et,1591,121.68,1,0.08,1307560,2018,Influenza
+ZONE:08,4723,85.04,2,0.04,5553738,2018,Influenza
+Bungkan,111,26.21,0,0.0,423485,2018,Influenza
+Loei,544,84.71,0,0.0,642220,2018,Influenza
+Nakhon Phanom,974,135.58,0,0.0,718406,2018,Influenza
+Nong Bua Lam Phu,113,22.08,0,0.0,511878,2018,Influenza
+Nong Khai,1190,227.97,2,0.38,521995,2018,Influenza
+Sakon Nakhon,652,56.65,0,0.0,1150876,2018,Influenza
+Udon Thani,1139,71.87,0,0.0,1584878,2018,Influenza
+ZONE:09,18541,273.76,20,0.3,6772779,2018,Influenza
+Buri Ram,2715,170.39,0,0.0,1593378,2018,Influenza
+Chaiyaphum,2219,194.81,0,0.0,1139067,2018,Influenza
+Nakhon Ratchasima,10751,406.8,18,0.68,2642815,2018,Influenza
+Surin,2856,204.36,2,0.14,1397519,2018,Influenza
+ZONE:10,11247,243.78,0,0.0,4613643,2018,Influenza
+Amnat Charoen,215,56.82,0,0.0,378363,2018,Influenza
+Mukdahan,863,245.5,0,0.0,351532,2018,Influenza
+Si Sa Ket,1382,93.85,0,0.0,1472521,2018,Influenza
+Ubon Ratchathani,8038,429.36,0,0.0,1872091,2018,Influenza
+Yasothon,749,138.93,0,0.0,539136,2018,Influenza
+ZONE:11,11663,261.11,0,0.0,4466673,2018,Influenza
+Chumphon,575,112.68,0,0.0,510307,2018,Influenza
+Krabi,676,143.3,0,0.0,471754,2018,Influenza
+Nakhon Si Thammarat,4136,265.31,0,0.0,1558958,2018,Influenza
+Phangnga,906,338.23,0,0.0,267866,2018,Influenza
+Phuket,1787,440.03,0,0.0,406113,2018,Influenza
+Ranong,138,72.2,0,0.0,191134,2018,Influenza
+Surat Thani,3445,324.83,0,0.0,1060541,2018,Influenza
+ZONE:12,6174,124.47,1,0.02,4960215,2018,Influenza
+Narathiwat,1151,143.99,0,0.0,799357,2018,Influenza
+Pattani,356,49.86,0,0.0,713937,2018,Influenza
+Phatthalung,1635,311.46,1,0.19,524951,2018,Influenza
+Satun,180,56.14,0,0.0,320637,2018,Influenza
+Songkhla,1608,112.57,0,0.0,1428429,2018,Influenza
+Trang,770,119.73,0,0.0,643093,2018,Influenza
+Yala,474,89.47,0,0.0,529811,2018,Influenza
+ZONE:13,44326,780.45,2,0.04,5679532,2018,Influenza
+Bangkok,44326,780.45,2,0.04,5679532,2018,Influenza
+Total,11174,16.88,0,0.0,66179083,2021,Influenza
+ZONE:01,1744,29.68,0,0.0,5875424,2021,Influenza
+Chiang Mai,385,21.55,0,0.0,1786877,2021,Influenza
+Chiang Rai,635,48.97,0,0.0,1296725,2021,Influenza
+Lampang,267,36.74,0,0.0,726821,2021,Influenza
+Lamphun,12,2.99,0,0.0,401574,2021,Influenza
+Mae Hong Son,95,33.31,0,0.0,285232,2021,Influenza
+Nan,207,43.46,0,0.0,476300,2021,Influenza
+Phayao,43,9.23,0,0.0,465930,2021,Influenza
+Phrae,100,22.94,0,0.0,435965,2021,Influenza
+ZONE:02,1250,35.35,0,0.0,3536074,2021,Influenza
+Phetchabun,124,12.65,0,0.0,980156,2021,Influenza
+Phitsanulok,470,55.4,0,0.0,848432,2021,Influenza
+Sukhothai,246,41.94,0,0.0,586617,2021,Influenza
+Tak,272,40.39,0,0.0,673423,2021,Influenza
+Uttaradit,138,30.84,0,0.0,447446,2021,Influenza
+ZONE:03,452,15.43,0,0.0,2928596,2021,Influenza
+Chai Nat,7,2.18,0,0.0,321454,2021,Influenza
+Kamphaeng Phet,186,26.08,0,0.0,713130,2021,Influenza
+Nakhon Sawan,177,17.06,0,0.0,1037668,2021,Influenza
+Phichit,65,12.24,0,0.0,530852,2021,Influenza
+Uthai Thani,17,5.22,0,0.0,325492,2021,Influenza
+ZONE:04,515,9.52,0,0.0,5411959,2021,Influenza
+Ang Thong,31,11.25,0,0.0,275673,2021,Influenza
+Lop Buri,58,7.83,0,0.0,741200,2021,Influenza
+Nakhon Nayok,6,2.31,0,0.0,260256,2021,Influenza
+Nonthaburi,48,3.74,0,0.0,1282690,2021,Influenza
+P.Nakhon S.Ayutthaya,141,17.2,0,0.0,819799,2021,Influenza
+Pathum Thani,16,1.35,0,0.0,1183235,2021,Influenza
+Saraburi,189,29.35,0,0.0,643895,2021,Influenza
+Sing Buri,26,12.67,0,0.0,205211,2021,Influenza
+ZONE:05,673,12.62,0,0.0,5332653,2021,Influenza
+Kanchanaburi,264,29.56,0,0.0,893014,2021,Influenza
+Nakhon Pathom,125,13.57,0,0.0,921450,2021,Influenza
+Phetchaburi,17,3.52,0,0.0,482534,2021,Influenza
+Prachuap Khiri Khan,44,7.97,0,0.0,551924,2021,Influenza
+Ratchaburi,94,10.82,0,0.0,868797,2021,Influenza
+Samut Sakhon,77,13.13,0,0.0,586494,2021,Influenza
+Samut Songkhram,8,4.18,0,0.0,191447,2021,Influenza
+Suphan Buri,44,5.26,0,0.0,836993,2021,Influenza
+ZONE:06,695,11.18,0,0.0,6218594,2021,Influenza
+Chachoengsao,78,10.8,0,0.0,722448,2021,Influenza
+Chanthaburi,71,13.24,0,0.0,536058,2021,Influenza
+Chon Buri,66,4.19,0,0.0,1575278,2021,Influenza
+Prachin Buri,23,4.65,0,0.0,494498,2021,Influenza
+Rayong,35,4.69,0,0.0,746433,2021,Influenza
+Sa Kaeo,30,5.34,0,0.0,561459,2021,Influenza
+Samut Prakan,363,26.81,0,0.0,1353964,2021,Influenza
+Trat,29,12.69,0,0.0,228456,2021,Influenza
+ZONE:07,688,13.71,0,0.0,5017381,2021,Influenza
+Kalasin,34,3.48,0,0.0,976373,2021,Influenza
+Khon Kaen,277,15.45,0,0.0,1792697,2021,Influenza
+Maha Sarakham,186,19.56,0,0.0,950985,2021,Influenza
+Roi Et,191,14.72,0,0.0,1297326,2021,Influenza
+ZONE:08,353,6.4,0,0.0,5518109,2021,Influenza
+Bungkan,32,7.58,0,0.0,422019,2021,Influenza
+Loei,102,15.97,0,0.0,638734,2021,Influenza
+Nakhon Phanom,72,10.04,0,0.0,717121,2021,Influenza
+Nong Bua Lam Phu,27,5.3,0,0.0,509236,2021,Influenza
+Nong Khai,29,5.61,0,0.0,517140,2021,Influenza
+Sakon Nakhon,54,4.71,0,0.0,1146612,2021,Influenza
+Udon Thani,37,2.36,0,0.0,1567247,2021,Influenza
+ZONE:09,1026,15.28,0,0.0,6714997,2021,Influenza
+Buri Ram,358,22.65,0,0.0,1580495,2021,Influenza
+Chaiyaphum,86,7.65,0,0.0,1123595,2021,Influenza
+Nakhon Ratchasima,368,13.97,0,0.0,2633681,2021,Influenza
+Surin,214,15.54,0,0.0,1377226,2021,Influenza
+ZONE:10,1827,39.83,0,0.0,4587095,2021,Influenza
+Amnat Charoen,45,11.96,0,0.0,376273,2021,Influenza
+Mukdahan,54,15.38,0,0.0,351198,2021,Influenza
+Si Sa Ket,292,20.03,0,0.0,1458068,2021,Influenza
+Ubon Ratchathani,1188,63.61,0,0.0,1867608,2021,Influenza
+Yasothon,248,46.45,0,0.0,533948,2021,Influenza
+ZONE:11,943,21.02,0,0.0,4487259,2021,Influenza
+Chumphon,59,11.58,0,0.0,509344,2021,Influenza
+Krabi,186,38.87,0,0.0,478561,2021,Influenza
+Nakhon Si Thammarat,466,30.06,0,0.0,1550033,2021,Influenza
+Phangnga,92,34.31,0,0.0,268123,2021,Influenza
+Phuket,13,3.12,0,0.0,416629,2021,Influenza
+Ranong,31,15.94,0,0.0,194473,2021,Influenza
+Surat Thani,96,8.97,0,0.0,1070096,2021,Influenza
+ZONE:12,600,12.02,0,0.0,4992834,2021,Influenza
+Narathiwat,241,29.86,0,0.0,807045,2021,Influenza
+Pattani,17,2.34,0,0.0,727799,2021,Influenza
+Phatthalung,54,10.33,0,0.0,522810,2021,Influenza
+Satun,14,4.31,0,0.0,324467,2021,Influenza
+Songkhla,153,10.7,0,0.0,1430073,2021,Influenza
+Trang,75,11.72,0,0.0,640182,2021,Influenza
+Yala,46,8.51,0,0.0,540458,2021,Influenza
+ZONE:13,408,7.34,0,0.0,5558108,2021,Influenza
+Bangkok,408,7.34,0,0.0,5558108,2021,Influenza
+Total,18368,29.19,15,0.02,62933515,2007,Influenza
+North Region,2118,17.83,3,0.03,11881352,2007,Influenza
+Zone:1,886,15.41,0,0.0,5750312,2007,Influenza
+Chiang Mai,209,12.58,0,0.0,1661349,2007,Influenza
+Chiang Rai,150,12.24,0,0.0,1225364,2007,Influenza
+Lampang,54,6.99,0,0.0,772202,2007,Influenza
+Lamphun,80,19.74,0,0.0,405361,2007,Influenza
+Mae Hong Son,111,43.53,0,0.0,254990,2007,Influenza
+Nan,110,23.04,0,0.0,477522,2007,Influenza
+Phayao,126,25.9,0,0.0,486399,2007,Influenza
+Phrae,46,9.85,0,0.0,467125,2007,Influenza
+Zone:2,883,25.63,2,0.06,3445764,2007,Influenza
+Phetchabun,161,16.1,0,0.0,999924,2007,Influenza
+Phitsanulok,442,52.43,1,0.12,843096,2007,Influenza
+Sukhothai,93,15.32,1,0.16,607061,2007,Influenza
+Tak,151,28.53,0,0.0,529303,2007,Influenza
+Uttaradit,36,7.72,0,0.0,466380,2007,Influenza
+Zone:3,349,13.0,1,0.04,2685276,2007,Influenza
+Kamphaeng Phet,110,15.13,1,0.14,727158,2007,Influenza
+Nakhon Sawan,119,11.07,0,0.0,1074849,2007,Influenza
+Phichit,65,11.68,0,0.0,556287,2007,Influenza
+Uthai Thani,55,16.82,0,0.0,326982,2007,Influenza
+Central Region,8468,40.24,10,0.05,21043273,2007,Influenza
+Bangkok,2162,37.89,1,0.02,5706103,2007,Influenza
+Zone:4,577,19.68,2,0.07,2932544,2007,Influenza
+Ang Thong,32,11.26,0,0.0,284175,2007,Influenza
+Nonthaburi,222,21.94,1,0.1,1011624,2007,Influenza
+P.Nakhon S.Ayutthaya,108,14.25,1,0.13,757654,2007,Influenza
+Pathum Thani,215,24.46,0,0.0,879091,2007,Influenza
+Zone:5,307,16.0,2,0.1,1918492,2007,Influenza
+Chai Nat,52,15.38,1,0.3,338077,2007,Influenza
+Lop Buri,180,23.96,0,0.0,751298,2007,Influenza
+Saraburi,45,7.34,1,0.16,612806,2007,Influenza
+Sing Buri,30,13.87,0,0.0,216311,2007,Influenza
+Zone:6,1992,59.73,0,0.0,3334732,2007,Influenza
+Kanchanaburi,1044,125.05,0,0.0,834865,2007,Influenza
+Nakhon Pathom,192,23.23,0,0.0,826438,2007,Influenza
+Ratchaburi,453,54.57,0,0.0,830184,2007,Influenza
+Suphan Buri,303,35.93,0,0.0,843245,2007,Influenza
+Zone:7,616,38.22,2,0.12,1611697,2007,Influenza
+Phetchaburi,298,65.3,0,0.0,456371,2007,Influenza
+Prachuap Khiri Khan,167,33.77,2,0.4,494502,2007,Influenza
+Samut Sakhon,14,3.0,0,0.0,466222,2007,Influenza
+Samut Songkhram,137,70.4,0,0.0,194602,2007,Influenza
+Zone:8,990,32.82,2,0.07,3016265,2007,Influenza
+Chachoengsao,97,14.77,0,0.0,656586,2007,Influenza
+Nakhon Nayok,34,13.64,0,0.0,249250,2007,Influenza
+Prachin Buri,139,30.59,1,0.22,454404,2007,Influenza
+Sa Kaeo,51,9.47,0,0.0,538741,2007,Influenza
+Samut Prakan,669,59.88,1,0.09,1117284,2007,Influenza
+Zone:9,1824,72.28,1,0.04,2523440,2007,Influenza
+Chanthaburi,709,140.9,0,0.0,503197,2007,Influenza
+Chon Buri,667,54.61,0,0.0,1221369,2007,Influenza
+Rayong,325,56.17,1,0.17,578628,2007,Influenza
+Trat,123,55.85,0,0.0,220246,2007,Influenza
+North-Eastern Region,3442,16.1,2,0.01,21381249,2007,Influenza
+Zone:10,515,14.54,2,0.06,3541793,2007,Influenza
+Loei,106,17.25,0,0.0,614421,2007,Influenza
+Nong Bua Lam Phu,105,21.12,0,0.0,497148,2007,Influenza
+Nong Khai,104,11.54,2,0.22,901100,2007,Influenza
+Udon Thani,200,13.08,0,0.0,1529124,2007,Influenza
+Zone:11,409,13.11,0,0.0,3119599,2007,Influenza
+Kalasin,134,13.72,0,0.0,976536,2007,Influenza
+Mukdahan,32,9.53,0,0.0,335778,2007,Influenza
+Nakhon Phanom,175,25.14,0,0.0,696229,2007,Influenza
+Sakon Nakhon,68,6.12,0,0.0,1111056,2007,Influenza
+Zone:12,496,12.41,0,0.0,3997622,2007,Influenza
+Khon Kaen,195,11.13,0,0.0,1751458,2007,Influenza
+Maha Sarakham,191,20.39,0,0.0,936846,2007,Influenza
+Roi Et,110,8.4,0,0.0,1309318,2007,Influenza
+Zone:13,1231,18.7,0,0.0,6583974,2007,Influenza
+Buri Ram,460,29.94,0,0.0,1536396,2007,Influenza
+Chaiyaphum,64,5.72,0,0.0,1119372,2007,Influenza
+Nakhon Ratchasima,125,4.89,0,0.0,2554241,2007,Influenza
+Surin,582,42.36,0,0.0,1373965,2007,Influenza
+Zone:14,791,19.11,0,0.0,4138261,2007,Influenza
+Amnat Charoen,53,14.37,0,0.0,368925,2007,Influenza
+Si Sa Ket,322,22.29,0,0.0,1444748,2007,Influenza
+Ubon Ratchathani,252,14.12,0,0.0,1784372,2007,Influenza
+Yasothon,164,30.36,0,0.0,540216,2007,Influenza
+South Region,4340,50.3,0,0.0,8627641,2007,Influenza
+Zone:15,864,53.14,0,0.0,1626011,2007,Influenza
+Chumphon,57,11.87,0,0.0,480131,2007,Influenza
+Ranong,64,35.49,0,0.0,180319,2007,Influenza
+Surat Thani,743,76.95,0,0.0,965561,2007,Influenza
+Zone:16,1778,67.85,0,0.0,2620564,2007,Influenza
+Nakhon Si Thammarat,648,42.95,0,0.0,1508729,2007,Influenza
+Phatthalung,419,83.31,0,0.0,502943,2007,Influenza
+Trang,711,116.77,0,0.0,608892,2007,Influenza
+Zone:17,649,67.52,0,0.0,961258,2007,Influenza
+Krabi,121,29.73,0,0.0,406999,2007,Influenza
+Phangnga,202,82.07,0,0.0,246141,2007,Influenza
+Phuket,326,105.8,0,0.0,308118,2007,Influenza
+Zone:18,535,29.47,0,0.0,1815585,2007,Influenza
+Narathiwat,424,59.77,0,0.0,709345,2007,Influenza
+Pattani,45,7.07,0,0.0,636768,2007,Influenza
+Yala,66,14.06,0,0.0,469472,2007,Influenza
+Zone:19,514,32.04,0,0.0,1604223,2007,Influenza
+Satun,117,41.34,0,0.0,283014,2007,Influenza
+Songkhla,397,30.05,0,0.0,1321209,2007,Influenza
+Total,115183,180.82,126,0.2,63701703,2010,Influenza
+Central Region,51038,237.01,40,0.19,21534318,2010,Influenza
+Zone:0,22446,393.65,10,0.18,5701995,2010,Influenza
+Bangkok,22446,393.65,10,0.18,5701995,2010,Influenza
+Zone:1,5283,152.93,2,0.06,3454591,2010,Influenza
+Nonthaburi,1727,158.45,0,0.0,1089908,2010,Influenza
+P.Nakhon S.Ayutthaya,1800,231.18,1,0.13,778627,2010,Influenza
+Pathum Thani,1185,122.04,0,0.0,971010,2010,Influenza
+Saraburi,571,92.84,1,0.16,615046,2010,Influenza
+Zone:2,1762,110.8,2,0.13,1590200,2010,Influenza
+Ang Thong,291,102.15,0,0.0,284889,2010,Influenza
+Chai Nat,255,76.08,0,0.0,335177,2010,Influenza
+Lop Buri,1065,141.03,2,0.26,755153,2010,Influenza
+Sing Buri,151,70.24,0,0.0,214981,2010,Influenza
+Zone:3,5526,177.93,6,0.19,3105799,2010,Influenza
+Chachoengsao,559,83.25,0,0.0,671458,2010,Influenza
+Nakhon Nayok,152,60.27,0,0.0,252209,2010,Influenza
+Prachin Buri,681,146.7,6,1.29,464213,2010,Influenza
+Sa Kaeo,278,51.17,0,0.0,543276,2010,Influenza
+Samut Prakan,3856,328.27,0,0.0,1174643,2010,Influenza
+Zone:4,4804,142.35,4,0.12,3374810,2010,Influenza
+Kanchanaburi,1149,137.34,0,0.0,836600,2010,Influenza
+Nakhon Pathom,1235,144.3,1,0.12,855837,2010,Influenza
+Ratchaburi,1453,173.56,3,0.36,837153,2010,Influenza
+Suphan Buri,967,114.41,0,0.0,845220,2010,Influenza
+Zone:5,1449,87.75,3,0.18,1651335,2010,Influenza
+Phetchaburi,476,102.89,0,0.0,462636,2010,Influenza
+Prachuap Khiri Khan,588,116.07,3,0.59,506599,2010,Influenza
+Samut Sakhon,272,55.71,0,0.0,488247,2010,Influenza
+Samut Songkhram,113,58.29,0,0.0,193853,2010,Influenza
+Zone:9,9768,367.83,13,0.49,2655588,2010,Influenza
+Chanthaburi,2068,403.17,8,1.56,512932,2010,Influenza
+Chon Buri,4144,318.05,4,0.31,1302942,2010,Influenza
+Rayong,2843,459.1,0,0.0,619249,2010,Influenza
+Trat,713,323.41,1,0.45,220465,2010,Influenza
+South Region,12949,146.26,26,0.29,8853473,2010,Influenza
+Zone:6,7429,211.39,17,0.48,3514344,2010,Influenza
+Chumphon,433,88.57,3,0.61,488855,2010,Influenza
+Nakhon Si Thammarat,2805,184.6,10,0.66,1519531,2010,Influenza
+Phatthalung,953,187.36,0,0.0,508656,2010,Influenza
+Surat Thani,3238,324.68,4,0.4,997302,2010,Influenza
+Zone:7,3233,177.09,5,0.27,1825591,2010,Influenza
+Krabi,287,66.8,1,0.23,429631,2010,Influenza
+Phangnga,620,245.66,0,0.0,252385,2010,Influenza
+Phuket,811,238.19,1,0.29,340490,2010,Influenza
+Ranong,31,16.99,0,0.0,182417,2010,Influenza
+Trang,1484,239.1,3,0.48,620668,2010,Influenza
+Zone:8,2287,65.09,4,0.11,3513538,2010,Influenza
+Narathiwat,779,106.33,0,0.0,732617,2010,Influenza
+Pattani,215,33.0,2,0.31,651442,2010,Influenza
+Satun,77,26.09,0,0.0,295133,2010,Influenza
+Songkhla,990,73.31,2,0.15,1350489,2010,Influenza
+Yala,226,46.71,0,0.0,483857,2010,Influenza
+North-Eastern Region,22721,105.51,29,0.13,21534582,2010,Influenza
+Zone:10,3204,89.59,7,0.2,3576272,2010,Influenza
+Loei,782,125.64,0,0.0,622424,2010,Influenza
+Nong Bua Lam Phu,46,9.17,3,0.6,501891,2010,Influenza
+Nong Khai,912,100.21,0,0.0,910094,2010,Influenza
+Udon Thani,1464,94.95,4,0.26,1541863,2010,Influenza
+Zone:11,2375,109.88,3,0.14,2161531,2010,Influenza
+Mukdahan,472,139.31,0,0.0,338812,2010,Influenza
+Nakhon Phanom,1057,150.56,1,0.14,702041,2010,Influenza
+Sakon Nakhon,846,75.49,2,0.18,1120678,2010,Influenza
+Zone:12,1974,39.52,6,0.12,4995226,2010,Influenza
+Kalasin,169,17.22,0,0.0,981369,2010,Influenza
+Khon Kaen,1191,67.48,2,0.11,1764922,2010,Influenza
+Maha Sarakham,265,28.19,0,0.0,940001,2010,Influenza
+Roi Et,349,26.66,4,0.31,1308934,2010,Influenza
+Zone:13,6916,165.91,2,0.05,4168498,2010,Influenza
+Amnat Charoen,346,93.14,0,0.0,371471,2010,Influenza
+Si Sa Ket,1060,73.13,0,0.0,1449409,2010,Influenza
+Ubon Ratchathani,4619,255.42,0,0.0,1808422,2010,Influenza
+Yasothon,891,165.25,2,0.37,539196,2010,Influenza
+Zone:14,8252,124.41,11,0.17,6633055,2010,Influenza
+Buri Ram,4426,285.5,1,0.06,1550275,2010,Influenza
+Chaiyaphum,509,45.19,0,0.0,1126295,2010,Influenza
+Nakhon Ratchasima,2714,105.33,7,0.27,2576691,2010,Influenza
+Surin,603,43.7,3,0.22,1379794,2010,Influenza
+North Region,28475,241.74,31,0.26,11779330,2010,Influenza
+Zone:15,7905,259.46,10,0.33,3046660,2010,Influenza
+Chiang Mai,3742,228.66,10,0.61,1636514,2010,Influenza
+Lampang,2898,379.71,0,0.0,763224,2010,Influenza
+Lamphun,923,228.11,0,0.0,404627,2010,Influenza
+Mae Hong Son,342,141.15,0,0.0,242295,2010,Influenza
+Zone:16,3712,141.64,2,0.08,2620701,2010,Influenza
+Chiang Rai,1836,153.44,2,0.17,1196576,2010,Influenza
+Nan,539,113.24,0,0.0,475989,2010,Influenza
+Phayao,636,130.67,0,0.0,486713,2010,Influenza
+Phrae,701,151.92,0,0.0,461423,2010,Influenza
+Zone:17,11835,344.95,16,0.47,3430959,2010,Influenza
+Phetchabun,590,59.26,1,0.1,995578,2010,Influenza
+Phitsanulok,4718,556.61,4,0.47,847627,2010,Influenza
+Sukhothai,3923,651.34,5,0.83,602296,2010,Influenza
+Tak,628,120.15,2,0.38,522673,2010,Influenza
+Uttaradit,1976,426.98,4,0.86,462785,2010,Influenza
+Zone:18,5023,187.35,3,0.11,2681010,2010,Influenza
+Kamphaeng Phet,1743,239.76,1,0.14,726970,2010,Influenza
+Nakhon Sawan,2017,187.95,0,0.0,1073182,2010,Influenza
+Phichit,727,131.48,0,0.0,552942,2010,Influenza
+Uthai Thani,536,163.46,2,0.61,327916,2010,Influenza

@@ -1,405 +1,4 @@
 Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
-Total,17492,27.79,2,0.0,62939819,2003,Dengue fever
-North Region,3709,30.6,0,0.0,12120537,2003,Dengue fever
-Zone:1,1668,28.94,0,0.0,5764017,2003,Dengue fever
-Chiang Mai,531,33.2,0,0.0,1599538,2003,Dengue fever
-Chiang Rai,215,17.28,0,0.0,1244564,2003,Dengue fever
-Lampang,392,49.06,0,0.0,798996,2003,Dengue fever
-Lamphun,117,28.67,0,0.0,408122,2003,Dengue fever
-Mae Hong Son,47,19.65,0,0.0,239128,2003,Dengue fever
-Nan,74,15.26,0,0.0,484961,2003,Dengue fever
-Phayao,160,31.68,0,0.0,505032,2003,Dengue fever
-Phrae,132,27.29,0,0.0,483676,2003,Dengue fever
-Zone:2,858,24.35,0,0.0,3523807,2003,Dengue fever
-Phetchabun,198,18.92,0,0.0,1046537,2003,Dengue fever
-Phitsanulok,184,21.21,0,0.0,867520,2003,Dengue fever
-Sukhothai,96,15.4,0,0.0,623396,2003,Dengue fever
-Tak,128,25.45,0,0.0,503042,2003,Dengue fever
-Uttaradit,252,52.14,0,0.0,483312,2003,Dengue fever
-Zone:3,1183,41.76,0,0.0,2832713,2003,Dengue fever
-Kamphaeng Phet,392,50.83,0,0.0,771177,2003,Dengue fever
-Nakhon Sawan,458,40.57,0,0.0,1128789,2003,Dengue fever
-Phichit,266,44.71,0,0.0,594918,2003,Dengue fever
-Uthai Thani,67,19.83,0,0.0,337829,2003,Dengue fever
-Central Region,5081,24.51,1,0.0,20726962,2003,Dengue fever
-Zone:0,1062,18.27,0,0.0,5813383,2003,Dengue fever
-Bangkok,1062,18.27,0,0.0,5813383,2003,Dengue fever
-Zone:4,514,19.18,0,0.0,2679573,2003,Dengue fever
-Ang Thong,84,28.9,0,0.0,290623,2003,Dengue fever
-Nonthaburi,155,16.94,0,0.0,915043,2003,Dengue fever
-P.Nakhon S.Ayutthaya,102,13.6,0,0.0,749751,2003,Dengue fever
-Pathum Thani,173,23.89,0,0.0,724156,2003,Dengue fever
-Zone:5,227,11.55,0,0.0,1964953,2003,Dengue fever
-Chai Nat,110,31.44,0,0.0,349881,2003,Dengue fever
-Lop Buri,38,4.95,0,0.0,768250,2003,Dengue fever
-Saraburi,70,11.22,0,0.0,623783,2003,Dengue fever
-Sing Buri,9,4.04,0,0.0,223039,2003,Dengue fever
-Zone:6,882,26.69,1,0.03,3304766,2003,Dengue fever
-Kanchanaburi,126,15.76,0,0.0,799588,2003,Dengue fever
-Nakhon Pathom,296,36.67,1,0.12,807180,2003,Dengue fever
-Ratchaburi,322,38.7,0,0.0,832005,2003,Dengue fever
-Suphan Buri,138,15.94,0,0.0,865993,2003,Dengue fever
-Zone:7,536,33.46,0,0.0,1602142,2003,Dengue fever
-Phetchaburi,30,6.5,0,0.0,461539,2003,Dengue fever
-Prachuap Khiri Khan,307,62.59,0,0.0,490479,2003,Dengue fever
-Samut Sakhon,188,42.19,0,0.0,445557,2003,Dengue fever
-Samut Songkhram,11,5.38,0,0.0,204567,2003,Dengue fever
-Zone:8,781,26.63,0,0.0,2933038,2003,Dengue fever
-Chachoengsao,27,4.15,0,0.0,651130,2003,Dengue fever
-Nakhon Nayok,75,29.82,0,0.0,251471,2003,Dengue fever
-Prachin Buri,270,59.55,0,0.0,453379,2003,Dengue fever
-Sa Kaeo,218,40.35,0,0.0,540274,2003,Dengue fever
-Samut Prakan,191,18.42,0,0.0,1036784,2003,Dengue fever
-Zone:9,1079,44.42,0,0.0,2429107,2003,Dengue fever
-Chanthaburi,262,51.49,0,0.0,508799,2003,Dengue fever
-Chon Buri,122,10.67,0,0.0,1143498,2003,Dengue fever
-Rayong,649,117.65,0,0.0,551652,2003,Dengue fever
-Trat,46,20.43,0,0.0,225158,2003,Dengue fever
-North-Eastern Region,5947,27.49,1,0.0,21634442,2003,Dengue fever
-Zone:10,342,9.56,0,0.0,3579272,2003,Dengue fever
-Loei,142,22.55,0,0.0,629836,2003,Dengue fever
-Nong Bua Lam Phu,53,10.62,0,0.0,499257,2003,Dengue fever
-Nong Khai,66,7.24,0,0.0,911409,2003,Dengue fever
-Udon Thani,81,5.26,0,0.0,1538770,2003,Dengue fever
-Zone:11,1106,35.02,1,0.03,3157810,2003,Dengue fever
-Kalasin,226,22.77,0,0.0,992407,2003,Dengue fever
-Mukdahan,96,28.35,0,0.0,338675,2003,Dengue fever
-Nakhon Phanom,501,69.97,1,0.14,715991,2003,Dengue fever
-Sakon Nakhon,283,25.48,0,0.0,1110737,2003,Dengue fever
-Zone:12,905,22.43,0,0.0,4035398,2003,Dengue fever
-Khon Kaen,383,21.65,0,0.0,1769124,2003,Dengue fever
-Maha Sarakham,119,12.61,0,0.0,943647,2003,Dengue fever
-Roi Et,403,30.47,0,0.0,1322627,2003,Dengue fever
-Zone:13,2074,31.06,0,0.0,6676759,2003,Dengue fever
-Buri Ram,399,25.74,0,0.0,1549894,2003,Dengue fever
-Chaiyaphum,449,39.46,0,0.0,1137725,2003,Dengue fever
-Nakhon Ratchasima,349,13.49,0,0.0,2586146,2003,Dengue fever
-Surin,877,62.51,0,0.0,1402994,2003,Dengue fever
-Zone:14,1520,36.32,0,0.0,4185203,2003,Dengue fever
-Amnat Charoen,46,12.42,0,0.0,370494,2003,Dengue fever
-Si Sa Ket,653,44.66,0,0.0,1462254,2003,Dengue fever
-Ubon Ratchathani,692,38.46,0,0.0,1799048,2003,Dengue fever
-Yasothon,129,23.31,0,0.0,553407,2003,Dengue fever
-South Region,2755,32.57,0,0.0,8457878,2003,Dengue fever
-Zone:15,519,33.13,0,0.0,1566662,2003,Dengue fever
-Chumphon,185,38.91,0,0.0,475467,2003,Dengue fever
-Ranong,86,52.66,0,0.0,163298,2003,Dengue fever
-Surat Thani,248,26.73,0,0.0,927897,2003,Dengue fever
-Zone:16,633,23.95,0,0.0,2642568,2003,Dengue fever
-Nakhon Si Thammarat,413,26.95,0,0.0,1532483,2003,Dengue fever
-Phatthalung,130,25.77,0,0.0,504526,2003,Dengue fever
-Trang,90,14.86,0,0.0,605559,2003,Dengue fever
-Zone:17,375,41.87,0,0.0,895704,2003,Dengue fever
-Krabi,197,51.68,0,0.0,381184,2003,Dengue fever
-Phangnga,118,49.15,0,0.0,240062,2003,Dengue fever
-Phuket,60,21.86,0,0.0,274458,2003,Dengue fever
-Zone:18,813,45.22,0,0.0,1797937,2003,Dengue fever
-Narathiwat,355,50.42,0,0.0,704096,2003,Dengue fever
-Pattani,128,20.28,0,0.0,631288,2003,Dengue fever
-Yala,330,71.34,0,0.0,462553,2003,Dengue fever
-Zone:19,415,26.69,0,0.0,1555007,2003,Dengue fever
-Satun,12,4.41,0,0.0,272252,2003,Dengue fever
-Songkhla,403,31.42,0,0.0,1282755,2003,Dengue fever
-Total,11181,17.88,1,0.0,62526710,2004,Dengue fever
-North Region,1995,16.67,1,0.01,11965439,2004,Dengue fever
-Zone:1,1036,18.11,1,0.02,5720315,2004,Dengue fever
-Chiang Mai,257,15.89,1,0.06,1616995,2004,Dengue fever
-Chiang Rai,54,4.45,0,0.0,1214659,2004,Dengue fever
-Lampang,114,14.47,0,0.0,788071,2004,Dengue fever
-Lamphun,203,49.89,0,0.0,406911,2004,Dengue fever
-Mae Hong Son,105,43.57,0,0.0,240988,2004,Dengue fever
-Nan,26,5.42,0,0.0,479968,2004,Dengue fever
-Phayao,125,25.26,0,0.0,494926,2004,Dengue fever
-Phrae,152,31.81,0,0.0,477797,2004,Dengue fever
-Zone:2,464,13.33,0,0.0,3480797,2004,Dengue fever
-Phetchabun,139,13.54,0,0.0,1026733,2004,Dengue fever
-Phitsanulok,51,5.97,0,0.0,854440,2004,Dengue fever
-Sukhothai,49,7.95,0,0.0,616536,2004,Dengue fever
-Tak,75,14.78,0,0.0,507296,2004,Dengue fever
-Uttaradit,150,31.53,0,0.0,475792,2004,Dengue fever
-Zone:3,495,17.91,0,0.0,2764327,2004,Dengue fever
-Kamphaeng Phet,51,6.8,0,0.0,750331,2004,Dengue fever
-Nakhon Sawan,239,21.69,0,0.0,1102099,2004,Dengue fever
-Phichit,153,26.42,0,0.0,579155,2004,Dengue fever
-Uthai Thani,52,15.63,0,0.0,332742,2004,Dengue fever
-Central Region,3837,18.6,0,0.0,20631429,2004,Dengue fever
-Bangkok,716,12.48,0,0.0,5739370,2004,Dengue fever
-Zone:4,361,13.27,0,0.0,2721016,2004,Dengue fever
-Ang Thong,47,16.38,0,0.0,286896,2004,Dengue fever
-Nonthaburi,135,14.46,0,0.0,933591,2004,Dengue fever
-P.Nakhon S.Ayutthaya,92,12.34,0,0.0,745828,2004,Dengue fever
-Pathum Thani,87,11.53,0,0.0,754701,2004,Dengue fever
-Zone:5,331,17.09,0,0.0,1936502,2004,Dengue fever
-Chai Nat,114,33.01,0,0.0,345355,2004,Dengue fever
-Lop Buri,170,22.4,0,0.0,759000,2004,Dengue fever
-Saraburi,38,6.22,0,0.0,610722,2004,Dengue fever
-Sing Buri,9,4.06,0,0.0,221425,2004,Dengue fever
-Zone:6,917,27.89,0,0.0,3287786,2004,Dengue fever
-Kanchanaburi,190,23.64,0,0.0,803802,2004,Dengue fever
-Nakhon Pathom,365,45.33,0,0.0,805210,2004,Dengue fever
-Ratchaburi,278,33.72,0,0.0,824406,2004,Dengue fever
-Suphan Buri,84,9.83,0,0.0,854368,2004,Dengue fever
-Zone:7,383,24.13,0,0.0,1587519,2004,Dengue fever
-Phetchaburi,115,25.2,0,0.0,456384,2004,Dengue fever
-Prachuap Khiri Khan,61,12.55,0,0.0,486084,2004,Dengue fever
-Samut Sakhon,178,39.96,0,0.0,445443,2004,Dengue fever
-Samut Songkhram,29,14.53,0,0.0,199608,2004,Dengue fever
-Zone:8,562,19.15,0,0.0,2934598,2004,Dengue fever
-Chachoengsao,38,5.86,0,0.0,647967,2004,Dengue fever
-Nakhon Nayok,102,40.76,0,0.0,250235,2004,Dengue fever
-Prachin Buri,224,49.78,0,0.0,449940,2004,Dengue fever
-Sa Kaeo,100,18.56,0,0.0,538823,2004,Dengue fever
-Samut Prakan,98,9.35,0,0.0,1047633,2004,Dengue fever
-Zone:9,567,23.38,0,0.0,2424638,2004,Dengue fever
-Chanthaburi,200,39.78,0,0.0,502794,2004,Dengue fever
-Chon Buri,26,2.26,0,0.0,1150048,2004,Dengue fever
-Rayong,307,55.79,0,0.0,550310,2004,Dengue fever
-Trat,34,15.35,0,0.0,221486,2004,Dengue fever
-North-Eastern Region,3274,15.25,0,0.0,21463567,2004,Dengue fever
-Zone:10,326,9.18,0,0.0,3549364,2004,Dengue fever
-Loei,141,22.84,0,0.0,617280,2004,Dengue fever
-Nong Bua Lam Phu,34,6.84,0,0.0,497298,2004,Dengue fever
-Nong Khai,80,8.84,0,0.0,904499,2004,Dengue fever
-Udon Thani,71,4.64,0,0.0,1530287,2004,Dengue fever
-Zone:11,732,23.41,0,0.0,3127236,2004,Dengue fever
-Kalasin,288,29.3,0,0.0,982947,2004,Dengue fever
-Mukdahan,60,17.87,0,0.0,335819,2004,Dengue fever
-Nakhon Phanom,39,5.57,0,0.0,700800,2004,Dengue fever
-Sakon Nakhon,345,31.15,0,0.0,1107670,2004,Dengue fever
-Zone:12,468,11.66,0,0.0,4012215,2004,Dengue fever
-Khon Kaen,173,9.85,0,0.0,1756177,2004,Dengue fever
-Maha Sarakham,62,6.6,0,0.0,939718,2004,Dengue fever
-Roi Et,233,17.7,0,0.0,1316320,2004,Dengue fever
-Zone:13,1017,15.36,0,0.0,6621384,2004,Dengue fever
-Buri Ram,162,10.53,0,0.0,1539135,2004,Dengue fever
-Chaiyaphum,175,15.51,0,0.0,1128031,2004,Dengue fever
-Nakhon Ratchasima,427,16.65,0,0.0,2565197,2004,Dengue fever
-Surin,253,18.21,0,0.0,1389021,2004,Dengue fever
-Zone:14,731,17.6,0,0.0,4153368,2004,Dengue fever
-Amnat Charoen,48,13.01,0,0.0,369071,2004,Dengue fever
-Si Sa Ket,391,26.91,0,0.0,1452971,2004,Dengue fever
-Ubon Ratchathani,231,12.95,0,0.0,1784192,2004,Dengue fever
-Yasothon,61,11.15,0,0.0,547134,2004,Dengue fever
-South Region,2075,24.51,0,0.0,8466275,2004,Dengue fever
-Zone:15,712,45.02,0,0.0,1581379,2004,Dengue fever
-Chumphon,371,78.17,0,0.0,474592,2004,Dengue fever
-Ranong,82,48.26,0,0.0,169904,2004,Dengue fever
-Surat Thani,259,27.64,0,0.0,936883,2004,Dengue fever
-Zone:16,708,27.03,0,0.0,2619221,2004,Dengue fever
-Nakhon Si Thammarat,369,24.35,0,0.0,1515708,2004,Dengue fever
-Phatthalung,104,20.74,0,0.0,501447,2004,Dengue fever
-Trang,235,39.03,0,0.0,602066,2004,Dengue fever
-Zone:17,135,14.87,0,0.0,908170,2004,Dengue fever
-Krabi,65,16.84,0,0.0,386084,2004,Dengue fever
-Phangnga,41,17.09,0,0.0,239895,2004,Dengue fever
-Phuket,29,10.28,0,0.0,282191,2004,Dengue fever
-Zone:18,362,20.16,0,0.0,1795905,2004,Dengue fever
-Narathiwat,208,29.67,0,0.0,701008,2004,Dengue fever
-Pattani,14,2.21,0,0.0,632240,2004,Dengue fever
-Yala,140,30.26,0,0.0,462657,2004,Dengue fever
-Zone:19,158,10.12,0,0.0,1561600,2004,Dengue fever
-Satun,79,28.87,0,0.0,273624,2004,Dengue fever
-Songkhla,79,6.13,0,0.0,1287976,2004,Dengue fever
-Total,15070,24.23,1,0.0,62195878,2005,Dengue fever
-North Region,2455,20.69,0,0.0,11862916,2005,Dengue fever
-Zone:1,1112,19.41,0,0.0,5729312,2005,Dengue fever
-Chiang Mai,399,24.32,0,0.0,1640390,2005,Dengue fever
-Chiang Rai,66,5.41,0,0.0,1219732,2005,Dengue fever
-Lampang,105,13.5,0,0.0,777827,2005,Dengue fever
-Lamphun,166,41.01,0,0.0,404754,2005,Dengue fever
-Mae Hong Son,104,41.82,0,0.0,248672,2005,Dengue fever
-Nan,37,7.74,0,0.0,477917,2005,Dengue fever
-Phayao,43,8.82,0,0.0,487616,2005,Dengue fever
-Phrae,192,40.64,0,0.0,472404,2005,Dengue fever
-Zone:2,530,15.4,0,0.0,3442642,2005,Dengue fever
-Phetchabun,168,16.77,0,0.0,1001820,2005,Dengue fever
-Phitsanulok,121,14.38,0,0.0,841248,2005,Dengue fever
-Sukhothai,98,16.04,0,0.0,610871,2005,Dengue fever
-Tak,70,13.49,0,0.0,519037,2005,Dengue fever
-Uttaradit,73,15.54,0,0.0,469666,2005,Dengue fever
-Zone:3,813,30.21,0,0.0,2690962,2005,Dengue fever
-Kamphaeng Phet,88,12.1,0,0.0,727351,2005,Dengue fever
-Nakhon Sawan,422,39.16,0,0.0,1077634,2005,Dengue fever
-Phichit,142,25.37,0,0.0,559611,2005,Dengue fever
-Uthai Thani,161,49.33,0,0.0,326366,2005,Dengue fever
-Central Region,5078,24.7,1,0.0,20560399,2005,Dengue fever
-Bangkok,397,7.03,0,0.0,5646543,2005,Dengue fever
-Zone:4,424,15.27,0,0.0,2777019,2005,Dengue fever
-Ang Thong,49,17.29,0,0.0,283373,2005,Dengue fever
-Nonthaburi,154,16.09,0,0.0,957287,2005,Dengue fever
-P.Nakhon S.Ayutthaya,81,10.89,0,0.0,743659,2005,Dengue fever
-Pathum Thani,140,17.66,0,0.0,792700,2005,Dengue fever
-Zone:5,504,26.4,0,0.0,1909368,2005,Dengue fever
-Chai Nat,92,26.99,0,0.0,340812,2005,Dengue fever
-Lop Buri,317,42.23,0,0.0,750718,2005,Dengue fever
-Saraburi,86,14.36,0,0.0,598905,2005,Dengue fever
-Sing Buri,9,4.11,0,0.0,218933,2005,Dengue fever
-Zone:6,952,29.0,0,0.0,3282327,2005,Dengue fever
-Kanchanaburi,187,22.85,0,0.0,818218,2005,Dengue fever
-Nakhon Pathom,164,20.41,0,0.0,803489,2005,Dengue fever
-Ratchaburi,510,62.25,0,0.0,819286,2005,Dengue fever
-Suphan Buri,91,10.82,0,0.0,841334,2005,Dengue fever
-Zone:7,909,57.6,0,0.0,1578246,2005,Dengue fever
-Phetchaburi,187,41.33,0,0.0,452506,2005,Dengue fever
-Prachuap Khiri Khan,298,61.67,0,0.0,483243,2005,Dengue fever
-Samut Sakhon,359,80.25,0,0.0,447353,2005,Dengue fever
-Samut Songkhram,65,33.31,0,0.0,195144,2005,Dengue fever
-Zone:8,1121,38.09,1,0.03,2943051,2005,Dengue fever
-Chachoengsao,93,14.41,0,0.0,645521,2005,Dengue fever
-Nakhon Nayok,233,93.32,0,0.0,249686,2005,Dengue fever
-Prachin Buri,436,97.37,1,0.22,447783,2005,Dengue fever
-Sa Kaeo,193,35.97,0,0.0,536591,2005,Dengue fever
-Samut Prakan,166,15.61,0,0.0,1063470,2005,Dengue fever
-Zone:9,771,31.81,0,0.0,2423845,2005,Dengue fever
-Chanthaburi,328,66.12,0,0.0,496081,2005,Dengue fever
-Chon Buri,3,0.26,0,0.0,1157709,2005,Dengue fever
-Rayong,369,66.91,0,0.0,551512,2005,Dengue fever
-Trat,71,32.49,0,0.0,218543,2005,Dengue fever
-North-Eastern Region,2680,12.58,0,0.0,21297778,2005,Dengue fever
-Zone:10,339,9.62,0,0.0,3524138,2005,Dengue fever
-Loei,163,26.66,0,0.0,611448,2005,Dengue fever
-Nong Bua Lam Phu,31,6.25,0,0.0,495626,2005,Dengue fever
-Nong Khai,76,8.48,0,0.0,895911,2005,Dengue fever
-Udon Thani,69,4.54,0,0.0,1521153,2005,Dengue fever
-Zone:11,419,13.51,0,0.0,3101003,2005,Dengue fever
-Kalasin,147,15.12,0,0.0,972425,2005,Dengue fever
-Mukdahan,87,26.1,0,0.0,333338,2005,Dengue fever
-Nakhon Phanom,25,3.61,0,0.0,692377,2005,Dengue fever
-Sakon Nakhon,160,14.51,0,0.0,1102863,2005,Dengue fever
-Zone:12,616,15.43,0,0.0,3991075,2005,Dengue fever
-Khon Kaen,297,17.02,0,0.0,1744646,2005,Dengue fever
-Maha Sarakham,81,8.65,0,0.0,935967,2005,Dengue fever
-Roi Et,238,18.16,0,0.0,1310462,2005,Dengue fever
-Zone:13,863,13.15,0,0.0,6560991,2005,Dengue fever
-Buri Ram,146,9.56,0,0.0,1527846,2005,Dengue fever
-Chaiyaphum,212,18.98,0,0.0,1117026,2005,Dengue fever
-Nakhon Ratchasima,264,10.38,0,0.0,2543054,2005,Dengue fever
-Surin,241,17.55,0,0.0,1373065,2005,Dengue fever
-Zone:14,443,10.75,0,0.0,4120571,2005,Dengue fever
-Amnat Charoen,65,17.66,0,0.0,368153,2005,Dengue fever
-Si Sa Ket,112,7.77,0,0.0,1442190,2005,Dengue fever
-Ubon Ratchathani,225,12.72,0,0.0,1768935,2005,Dengue fever
-Yasothon,41,7.57,0,0.0,541293,2005,Dengue fever
-South Region,4857,57.31,0,0.0,8474785,2005,Dengue fever
-Zone:15,1016,63.74,0,0.0,1593965,2005,Dengue fever
-Chumphon,187,39.46,0,0.0,473916,2005,Dengue fever
-Ranong,157,88.58,0,0.0,177247,2005,Dengue fever
-Surat Thani,672,71.28,0,0.0,942802,2005,Dengue fever
-Zone:16,2790,107.27,0,0.0,2600847,2005,Dengue fever
-Nakhon Si Thammarat,2186,145.5,0,0.0,1502382,2005,Dengue fever
-Phatthalung,247,49.46,0,0.0,499399,2005,Dengue fever
-Trang,357,59.59,0,0.0,599066,2005,Dengue fever
-Zone:17,383,41.58,0,0.0,921037,2005,Dengue fever
-Krabi,218,55.65,0,0.0,391709,2005,Dengue fever
-Phangnga,123,51.2,0,0.0,240254,2005,Dengue fever
-Phuket,42,14.53,0,0.0,289074,2005,Dengue fever
-Zone:18,224,12.51,0,0.0,1791264,2005,Dengue fever
-Narathiwat,78,11.19,0,0.0,697150,2005,Dengue fever
-Pattani,44,6.96,0,0.0,632119,2005,Dengue fever
-Yala,102,22.08,0,0.0,461995,2005,Dengue fever
-Zone:19,444,28.32,0,0.0,1567672,2005,Dengue fever
-Satun,173,62.75,0,0.0,275706,2005,Dengue fever
-Songkhla,271,20.98,0,0.0,1291966,2005,Dengue fever
-Total,17062,27.25,0,0.0,62623416,2006,Dengue fever
-North Region,3192,26.85,0,0.0,11887142,2006,Dengue fever
-Zone:1,1374,23.9,0,0.0,5748673,2006,Dengue fever
-Chiang Mai,447,27.02,0,0.0,1654154,2006,Dengue fever
-Chiang Rai,72,5.88,0,0.0,1225386,2006,Dengue fever
-Lampang,125,16.12,0,0.0,775259,2006,Dengue fever
-Lamphun,175,43.19,0,0.0,405146,2006,Dengue fever
-Mae Hong Son,51,20.05,0,0.0,254392,2006,Dengue fever
-Nan,64,13.39,0,0.0,477871,2006,Dengue fever
-Phayao,14,2.88,0,0.0,486554,2006,Dengue fever
-Phrae,426,90.66,0,0.0,469911,2006,Dengue fever
-Zone:2,959,27.81,0,0.0,3448091,2006,Dengue fever
-Phetchabun,195,19.45,0,0.0,1002388,2006,Dengue fever
-Phitsanulok,151,17.92,0,0.0,842739,2006,Dengue fever
-Sukhothai,106,17.39,0,0.0,609591,2006,Dengue fever
-Tak,390,74.29,0,0.0,524938,2006,Dengue fever
-Uttaradit,117,24.98,0,0.0,468435,2006,Dengue fever
-Zone:3,859,31.93,0,0.0,2690378,2006,Dengue fever
-Kamphaeng Phet,221,30.34,0,0.0,728293,2006,Dengue fever
-Nakhon Sawan,405,37.61,0,0.0,1076911,2006,Dengue fever
-Phichit,89,15.94,0,0.0,558314,2006,Dengue fever
-Uthai Thani,144,44.06,0,0.0,326860,2006,Dengue fever
-Central Region,5486,26.34,0,0.0,20825142,2006,Dengue fever
-Bangkok,996,17.54,0,0.0,5677455,2006,Dengue fever
-Zone:4,777,27.18,0,0.0,2858658,2006,Dengue fever
-Ang Thong,158,55.66,0,0.0,283861,2006,Dengue fever
-Nonthaburi,364,36.93,0,0.0,985669,2006,Dengue fever
-P.Nakhon S.Ayutthaya,126,16.78,0,0.0,750757,2006,Dengue fever
-Pathum Thani,129,15.39,0,0.0,838371,2006,Dengue fever
-Zone:5,445,23.24,0,0.0,1915186,2006,Dengue fever
-Chai Nat,67,19.73,0,0.0,339568,2006,Dengue fever
-Lop Buri,275,36.55,0,0.0,752364,2006,Dengue fever
-Saraburi,84,13.86,0,0.0,605897,2006,Dengue fever
-Sing Buri,19,8.74,0,0.0,217357,2006,Dengue fever
-Zone:6,1247,37.61,0,0.0,3315213,2006,Dengue fever
-Kanchanaburi,144,17.34,0,0.0,830309,2006,Dengue fever
-Nakhon Pathom,305,37.4,0,0.0,815433,2006,Dengue fever
-Ratchaburi,610,73.83,0,0.0,826212,2006,Dengue fever
-Suphan Buri,188,22.29,0,0.0,843259,2006,Dengue fever
-Zone:7,342,21.4,0,0.0,1598232,2006,Dengue fever
-Phetchaburi,0,0.0,0,0.0,455332,2006,Dengue fever
-Prachuap Khiri Khan,159,32.41,0,0.0,490607,2006,Dengue fever
-Samut Sakhon,155,33.9,0,0.0,457264,2006,Dengue fever
-Samut Songkhram,28,14.36,0,0.0,195029,2006,Dengue fever
-Zone:8,844,28.29,0,0.0,2983258,2006,Dengue fever
-Chachoengsao,43,6.61,0,0.0,650909,2006,Dengue fever
-Nakhon Nayok,132,52.72,0,0.0,250392,2006,Dengue fever
-Prachin Buri,222,49.15,0,0.0,451721,2006,Dengue fever
-Sa Kaeo,152,28.27,0,0.0,537661,2006,Dengue fever
-Samut Prakan,295,27.0,0,0.0,1092575,2006,Dengue fever
-Zone:9,835,33.71,0,0.0,2477140,2006,Dengue fever
-Chanthaburi,378,75.56,0,0.0,500275,2006,Dengue fever
-Chon Buri,1,0.08,0,0.0,1190861,2006,Dengue fever
-Rayong,414,73.09,0,0.0,566461,2006,Dengue fever
-Trat,42,19.13,0,0.0,219543,2006,Dengue fever
-North-Eastern Region,6423,30.08,0,0.0,21352480,2006,Dengue fever
-Zone:10,373,10.56,0,0.0,3533061,2006,Dengue fever
-Loei,182,29.7,0,0.0,612863,2006,Dengue fever
-Nong Bua Lam Phu,51,10.27,0,0.0,496675,2006,Dengue fever
-Nong Khai,60,6.68,0,0.0,897840,2006,Dengue fever
-Udon Thani,80,5.24,0,0.0,1525683,2006,Dengue fever
-Zone:11,933,30.0,0,0.0,3110390,2006,Dengue fever
-Kalasin,235,24.11,0,0.0,974560,2006,Dengue fever
-Mukdahan,92,27.48,0,0.0,334781,2006,Dengue fever
-Nakhon Phanom,90,12.96,0,0.0,694473,2006,Dengue fever
-Sakon Nakhon,516,46.63,0,0.0,1106576,2006,Dengue fever
-Zone:12,1377,34.45,0,0.0,3996666,2006,Dengue fever
-Khon Kaen,705,40.31,0,0.0,1749021,2006,Dengue fever
-Maha Sarakham,101,10.78,0,0.0,937285,2006,Dengue fever
-Roi Et,571,43.58,0,0.0,1310360,2006,Dengue fever
-Zone:13,2793,42.46,0,0.0,6578271,2006,Dengue fever
-Buri Ram,398,25.94,0,0.0,1534076,2006,Dengue fever
-Chaiyaphum,266,23.79,0,0.0,1118040,2006,Dengue fever
-Nakhon Ratchasima,664,26.03,0,0.0,2551176,2006,Dengue fever
-Surin,1465,106.55,0,0.0,1374979,2006,Dengue fever
-Zone:14,947,22.91,0,0.0,4134092,2006,Dengue fever
-Amnat Charoen,127,34.43,0,0.0,368863,2006,Dengue fever
-Si Sa Ket,622,43.04,0,0.0,1445230,2006,Dengue fever
-Ubon Ratchathani,164,9.22,0,0.0,1778922,2006,Dengue fever
-Yasothon,34,6.28,0,0.0,541077,2006,Dengue fever
-South Region,1961,22.91,0,0.0,8558652,2006,Dengue fever
-Zone:15,745,46.26,0,0.0,1610374,2006,Dengue fever
-Chumphon,244,51.11,0,0.0,477364,2006,Dengue fever
-Ranong,89,49.72,0,0.0,178986,2006,Dengue fever
-Surat Thani,412,43.19,0,0.0,954024,2006,Dengue fever
-Zone:16,414,15.84,0,0.0,2614100,2006,Dengue fever
-Nakhon Si Thammarat,301,19.97,0,0.0,1507440,2006,Dengue fever
-Phatthalung,75,14.94,0,0.0,501912,2006,Dengue fever
-Trang,38,6.28,0,0.0,604748,2006,Dengue fever
-Zone:17,253,26.93,0,0.0,939424,2006,Dengue fever
-Krabi,70,17.52,0,0.0,399514,2006,Dengue fever
-Phangnga,147,60.39,0,0.0,243419,2006,Dengue fever
-Phuket,36,12.14,0,0.0,296491,2006,Dengue fever
-Zone:18,242,13.41,0,0.0,1805088,2006,Dengue fever
-Narathiwat,55,7.81,0,0.0,703848,2006,Dengue fever
-Pattani,91,14.33,0,0.0,635053,2006,Dengue fever
-Yala,96,20.59,0,0.0,466187,2006,Dengue fever
-Zone:19,307,19.31,0,0.0,1589666,2006,Dengue fever
-Satun,14,5.01,0,0.0,279705,2006,Dengue fever
-Songkhla,293,22.37,0,0.0,1309961,2006,Dengue fever
 Total,25446,40.43,2,0.0,62933515,2007,Dengue fever
 North Region,3959,33.32,0,0.0,11881352,2007,Dengue fever
 Zone:1,1625,28.26,0,0.0,5750312,2007,Dengue fever
@@ -500,204 +99,6 @@ Yala,410,87.33,0,0.0,469472,2007,Dengue fever
 Zone:19,834,51.99,0,0.0,1604223,2007,Dengue fever
 Satun,126,44.52,0,0.0,283014,2007,Dengue fever
 Songkhla,708,53.59,0,0.0,1321209,2007,Dengue fever
-Total,36645,57.97,1,0.0,63214022,2008,Dengue fever
-Central Region,15276,71.97,0,0.0,21226352,2008,Dengue fever
-Bangkok,1757,30.75,0,0.0,5713566,2008,Dengue fever
-Zone:1,2073,62.16,0,0.0,3335057,2008,Dengue fever
-Nonthaburi,912,87.83,0,0.0,1038392,2008,Dengue fever
-P.Nakhon S.Ayutthaya,170,22.22,0,0.0,764919,2008,Dengue fever
-Pathum Thani,639,69.99,0,0.0,913047,2008,Dengue fever
-Saraburi,352,56.89,0,0.0,618699,2008,Dengue fever
-Zone:2,1153,72.58,0,0.0,1588582,2008,Dengue fever
-Ang Thong,405,142.3,0,0.0,284619,2008,Dengue fever
-Chai Nat,274,81.41,0,0.0,336550,2008,Dengue fever
-Lop Buri,445,59.19,0,0.0,751811,2008,Dengue fever
-Sing Buri,29,13.45,0,0.0,215602,2008,Dengue fever
-Zone:3,2666,87.52,0,0.0,3046070,2008,Dengue fever
-Chachoengsao,367,55.45,0,0.0,661898,2008,Dengue fever
-Nakhon Nayok,187,74.91,0,0.0,249625,2008,Dengue fever
-Prachin Buri,647,141.52,0,0.0,457184,2008,Dengue fever
-Sa Kaeo,480,88.84,0,0.0,540281,2008,Dengue fever
-Samut Prakan,985,86.63,0,0.0,1137082,2008,Dengue fever
-Zone:4,3707,110.57,0,0.0,3352570,2008,Dengue fever
-Kanchanaburi,517,61.69,0,0.0,838094,2008,Dengue fever
-Nakhon Pathom,881,105.22,0,0.0,837285,2008,Dengue fever
-Ratchaburi,2045,245.31,0,0.0,833650,2008,Dengue fever
-Suphan Buri,264,31.3,0,0.0,843541,2008,Dengue fever
-Zone:5,1599,98.51,0,0.0,1623176,2008,Dengue fever
-Phetchaburi,338,73.88,0,0.0,457518,2008,Dengue fever
-Prachuap Khiri Khan,501,100.71,0,0.0,497483,2008,Dengue fever
-Samut Sakhon,703,148.3,0,0.0,474041,2008,Dengue fever
-Samut Songkhram,57,29.36,0,0.0,194134,2008,Dengue fever
-Zone:9,2321,90.41,0,0.0,2567331,2008,Dengue fever
-Chanthaburi,663,131.02,0,0.0,506012,2008,Dengue fever
-Chon Buri,570,45.63,0,0.0,1249067,2008,Dengue fever
-Rayong,846,143.13,0,0.0,591067,2008,Dengue fever
-Trat,242,109.41,0,0.0,221185,2008,Dengue fever
-South Region,5681,65.31,0,0.0,8698196,2008,Dengue fever
-Zone:6,2597,74.76,0,0.0,3473895,2008,Dengue fever
-Chumphon,489,101.24,0,0.0,483011,2008,Dengue fever
-Nakhon Si Thammarat,1238,81.98,0,0.0,1510081,2008,Dengue fever
-Phatthalung,357,70.85,0,0.0,503847,2008,Dengue fever
-Surat Thani,513,52.51,0,0.0,976956,2008,Dengue fever
-Zone:7,1058,59.48,0,0.0,1778692,2008,Dengue fever
-Krabi,585,141.08,0,0.0,414670,2008,Dengue fever
-Phangnga,75,30.19,0,0.0,248411,2008,Dengue fever
-Phuket,171,53.23,0,0.0,321252,2008,Dengue fever
-Ranong,85,46.77,0,0.0,181758,2008,Dengue fever
-Trang,142,23.18,0,0.0,612601,2008,Dengue fever
-Zone:8,2026,58.8,0,0.0,3445609,2008,Dengue fever
-Narathiwat,277,38.7,0,0.0,715724,2008,Dengue fever
-Pattani,237,37.03,0,0.0,639988,2008,Dengue fever
-Satun,341,119.05,0,0.0,286446,2008,Dengue fever
-Songkhla,822,61.79,0,0.0,1330342,2008,Dengue fever
-Yala,349,73.77,0,0.0,473109,2008,Dengue fever
-North-Eastern Region,5741,26.81,0,0.0,21414180,2008,Dengue fever
-Zone:10,302,8.5,0,0.0,3553449,2008,Dengue fever
-Loei,151,24.47,0,0.0,616981,2008,Dengue fever
-Nong Bua Lam Phu,53,10.63,0,0.0,498562,2008,Dengue fever
-Nong Khai,47,5.19,0,0.0,904748,2008,Dengue fever
-Udon Thani,51,3.33,0,0.0,1533158,2008,Dengue fever
-Zone:11,230,10.7,0,0.0,2149587,2008,Dengue fever
-Mukdahan,71,21.08,0,0.0,336802,2008,Dengue fever
-Nakhon Phanom,49,7.02,0,0.0,698235,2008,Dengue fever
-Sakon Nakhon,110,9.87,0,0.0,1114550,2008,Dengue fever
-Zone:12,1510,30.34,0,0.0,4976635,2008,Dengue fever
-Kalasin,242,24.74,0,0.0,978046,2008,Dengue fever
-Khon Kaen,299,17.04,0,0.0,1754258,2008,Dengue fever
-Maha Sarakham,306,32.68,0,0.0,936430,2008,Dengue fever
-Roi Et,663,50.69,0,0.0,1307901,2008,Dengue fever
-Zone:13,1235,29.82,0,0.0,4141403,2008,Dengue fever
-Amnat Charoen,188,50.92,0,0.0,369196,2008,Dengue fever
-Si Sa Ket,853,59.15,0,0.0,1442212,2008,Dengue fever
-Ubon Ratchathani,137,7.65,0,0.0,1790581,2008,Dengue fever
-Yasothon,57,10.57,0,0.0,539414,2008,Dengue fever
-Zone:14,2464,37.37,0,0.0,6593106,2008,Dengue fever
-Buri Ram,554,36.0,0,0.0,1538861,2008,Dengue fever
-Chaiyaphum,449,40.05,0,0.0,1121123,2008,Dengue fever
-Nakhon Ratchasima,610,23.84,0,0.0,2559006,2008,Dengue fever
-Surin,851,61.93,0,0.0,1374116,2008,Dengue fever
-North Region,9947,83.76,1,0.01,11875294,2008,Dengue fever
-Zone:15,3697,119.44,0,0.0,3095362,2008,Dengue fever
-Chiang Mai,2330,139.74,0,0.0,1667358,2008,Dengue fever
-Lampang,900,117.02,0,0.0,769115,2008,Dengue fever
-Lamphun,229,56.52,0,0.0,405141,2008,Dengue fever
-Mae Hong Son,238,93.79,0,0.0,253748,2008,Dengue fever
-Zone:16,1202,45.28,0,0.0,2654508,2008,Dengue fever
-Chiang Rai,398,32.46,0,0.0,1226165,2008,Dengue fever
-Nan,185,38.81,0,0.0,476683,2008,Dengue fever
-Phayao,155,31.83,0,0.0,486983,2008,Dengue fever
-Phrae,464,99.85,0,0.0,464677,2008,Dengue fever
-Zone:17,2948,85.61,1,0.03,3443651,2008,Dengue fever
-Phetchabun,632,63.4,0,0.0,996882,2008,Dengue fever
-Phitsanulok,872,103.46,0,0.0,842840,2008,Dengue fever
-Sukhothai,246,40.69,1,0.17,604559,2008,Dengue fever
-Tak,544,101.75,0,0.0,534629,2008,Dengue fever
-Uttaradit,654,140.72,0,0.0,464741,2008,Dengue fever
-Zone:18,2100,78.31,0,0.0,2681773,2008,Dengue fever
-Kamphaeng Phet,476,65.56,0,0.0,726104,2008,Dengue fever
-Nakhon Sawan,983,91.53,0,0.0,1073962,2008,Dengue fever
-Phichit,417,75.21,0,0.0,554426,2008,Dengue fever
-Uthai Thani,224,68.44,0,0.0,327281,2008,Dengue fever
-Total,25194,39.7,2,0.0,63457439,2009,Dengue fever
-Central Region,9271,43.35,1,0.0,21386001,2009,Dengue fever
-Bangkok,2173,38.08,1,0.02,5706739,2009,Dengue fever
-Zone:1,983,28.93,0,0.0,3397461,2009,Dengue fever
-Nonthaburi,500,46.93,0,0.0,1065332,2009,Dengue fever
-P.Nakhon S.Ayutthaya,124,16.06,0,0.0,772142,2009,Dengue fever
-Pathum Thani,225,23.86,0,0.0,942813,2009,Dengue fever
-Saraburi,134,21.71,0,0.0,617174,2009,Dengue fever
-Zone:2,289,18.18,0,0.0,1590058,2009,Dengue fever
-Ang Thong,96,33.71,0,0.0,284819,2009,Dengue fever
-Chai Nat,74,22.04,0,0.0,335686,2009,Dengue fever
-Lop Buri,115,15.25,0,0.0,754127,2009,Dengue fever
-Sing Buri,4,1.86,0,0.0,215426,2009,Dengue fever
-Zone:3,1439,46.78,0,0.0,3076347,2009,Dengue fever
-Chachoengsao,264,39.59,0,0.0,666907,2009,Dengue fever
-Nakhon Nayok,32,12.74,0,0.0,251219,2009,Dengue fever
-Prachin Buri,375,81.41,0,0.0,460617,2009,Dengue fever
-Sa Kaeo,232,42.81,0,0.0,541939,2009,Dengue fever
-Samut Prakan,536,46.38,0,0.0,1155665,2009,Dengue fever
-Zone:4,1857,55.19,0,0.0,3364769,2009,Dengue fever
-Kanchanaburi,301,35.95,0,0.0,837165,2009,Dengue fever
-Nakhon Pathom,376,44.37,0,0.0,847513,2009,Dengue fever
-Ratchaburi,1019,121.96,0,0.0,835546,2009,Dengue fever
-Suphan Buri,161,19.06,0,0.0,844545,2009,Dengue fever
-Zone:5,1090,66.56,0,0.0,1637557,2009,Dengue fever
-Phetchaburi,374,81.29,0,0.0,460108,2009,Dengue fever
-Prachuap Khiri Khan,386,76.86,0,0.0,502221,2009,Dengue fever
-Samut Sakhon,268,55.67,0,0.0,481377,2009,Dengue fever
-Samut Songkhram,62,31.98,0,0.0,193851,2009,Dengue fever
-Zone:9,1440,55.11,0,0.0,2613070,2009,Dengue fever
-Chanthaburi,306,60.04,0,0.0,509633,2009,Dengue fever
-Chon Buri,587,45.96,0,0.0,1277139,2009,Dengue fever
-Rayong,442,73.01,0,0.0,605380,2009,Dengue fever
-Trat,105,47.53,0,0.0,220918,2009,Dengue fever
-South Region,4511,51.39,0,0.0,8777720,2009,Dengue fever
-Zone:6,1914,54.74,0,0.0,3496373,2009,Dengue fever
-Chumphon,437,89.87,0,0.0,486233,2009,Dengue fever
-Nakhon Si Thammarat,757,49.97,0,0.0,1514832,2009,Dengue fever
-Phatthalung,330,65.16,0,0.0,506454,2009,Dengue fever
-Surat Thani,390,39.44,0,0.0,988854,2009,Dengue fever
-Zone:7,863,47.84,0,0.0,1803902,2009,Dengue fever
-Krabi,418,98.9,0,0.0,422631,2009,Dengue fever
-Phangnga,122,48.65,0,0.0,250796,2009,Dengue fever
-Phuket,96,28.96,0,0.0,331460,2009,Dengue fever
-Ranong,126,69.14,0,0.0,182242,2009,Dengue fever
-Trang,101,16.38,0,0.0,616773,2009,Dengue fever
-Zone:8,1734,49.86,0,0.0,3477445,2009,Dengue fever
-Narathiwat,163,22.51,0,0.0,724001,2009,Dengue fever
-Pattani,157,24.34,0,0.0,644897,2009,Dengue fever
-Satun,135,46.43,0,0.0,290755,2009,Dengue fever
-Songkhla,935,69.78,0,0.0,1339861,2009,Dengue fever
-Yala,344,71.98,0,0.0,477931,2009,Dengue fever
-North-Eastern Region,5670,26.41,1,0.0,21469269,2009,Dengue fever
-Zone:10,615,17.26,0,0.0,3564168,2009,Dengue fever
-Loei,237,38.25,0,0.0,619602,2009,Dengue fever
-Nong Bua Lam Phu,66,13.19,0,0.0,500217,2009,Dengue fever
-Nong Khai,139,15.32,0,0.0,907064,2009,Dengue fever
-Udon Thani,173,11.25,0,0.0,1537285,2009,Dengue fever
-Zone:11,594,27.56,0,0.0,2155042,2009,Dengue fever
-Mukdahan,229,67.8,0,0.0,337773,2009,Dengue fever
-Nakhon Phanom,108,15.43,0,0.0,700027,2009,Dengue fever
-Sakon Nakhon,257,23.0,0,0.0,1117242,2009,Dengue fever
-Zone:12,1217,24.42,1,0.02,4984201,2009,Dengue fever
-Kalasin,380,38.8,0,0.0,979371,2009,Dengue fever
-Khon Kaen,332,18.87,1,0.06,1759172,2009,Dengue fever
-Maha Sarakham,159,16.95,0,0.0,937972,2009,Dengue fever
-Roi Et,346,26.46,0,0.0,1307686,2009,Dengue fever
-Zone:13,1143,27.52,0,0.0,4152834,2009,Dengue fever
-Amnat Charoen,117,31.61,0,0.0,370141,2009,Dengue fever
-Si Sa Ket,830,57.48,0,0.0,1443879,2009,Dengue fever
-Ubon Ratchathani,84,4.67,0,0.0,1799604,2009,Dengue fever
-Yasothon,112,20.77,0,0.0,539210,2009,Dengue fever
-Zone:14,2101,31.77,0,0.0,6613024,2009,Dengue fever
-Buri Ram,396,25.64,0,0.0,1544218,2009,Dengue fever
-Chaiyaphum,233,20.73,0,0.0,1123907,2009,Dengue fever
-Nakhon Ratchasima,773,30.1,0,0.0,2568205,2009,Dengue fever
-Surin,699,50.77,0,0.0,1376694,2009,Dengue fever
-North Region,5742,48.56,0,0.0,11824449,2009,Dengue fever
-Zone:15,1918,62.48,0,0.0,3069670,2009,Dengue fever
-Chiang Mai,1010,61.16,0,0.0,1651433,2009,Dengue fever
-Lampang,374,48.82,0,0.0,766057,2009,Dengue fever
-Lamphun,115,28.4,0,0.0,404910,2009,Dengue fever
-Mae Hong Son,419,169.45,0,0.0,247270,2009,Dengue fever
-Zone:16,1611,61.09,0,0.0,2636963,2009,Dengue fever
-Chiang Rai,626,51.69,0,0.0,1211126,2009,Dengue fever
-Nan,92,19.34,0,0.0,475799,2009,Dengue fever
-Phayao,317,65.06,0,0.0,487254,2009,Dengue fever
-Phrae,576,124.46,0,0.0,462784,2009,Dengue fever
-Zone:17,1395,40.6,0,0.0,3436350,2009,Dengue fever
-Phetchabun,218,21.89,0,0.0,995679,2009,Dengue fever
-Phitsanulok,367,43.44,0,0.0,844779,2009,Dengue fever
-Sukhothai,153,25.36,0,0.0,603316,2009,Dengue fever
-Tak,591,111.72,0,0.0,528997,2009,Dengue fever
-Uttaradit,66,14.24,0,0.0,463579,2009,Dengue fever
-Zone:18,818,30.51,0,0.0,2681466,2009,Dengue fever
-Kamphaeng Phet,184,25.33,0,0.0,726530,2009,Dengue fever
-Nakhon Sawan,422,39.31,0,0.0,1073554,2009,Dengue fever
-Phichit,191,34.5,0,0.0,553653,2009,Dengue fever
-Uthai Thani,21,6.41,0,0.0,327729,2009,Dengue fever
 Total,53149,83.43,1,0.0,63701703,2010,Dengue fever
 Central Region,13615,63.22,0,0.0,21534318,2010,Dengue fever
 Zone:0,3122,54.75,0,0.0,5701995,2010,Dengue fever
@@ -798,107 +199,97 @@ Kamphaeng Phet,258,35.49,0,0.0,726970,2010,Dengue fever
 Nakhon Sawan,293,27.3,0,0.0,1073182,2010,Dengue fever
 Phichit,221,39.97,0,0.0,552942,2010,Dengue fever
 Uthai Thani,55,16.77,0,0.0,327916,2010,Dengue fever
-Total,29759,46.52,0,0.0,63977185,2011,Dengue fever
-Central Region,14221,65.6,0,0.0,21679246,2011,Dengue fever
-Zone:0,3200,56.26,0,0.0,5688119,2011,Dengue fever
-Bangkok,3200,56.26,0,0.0,5688119,2011,Dengue fever
-Zone:1,1353,38.5,0,0.0,3514250,2011,Dengue fever
-Nonthaburi,630,56.65,0,0.0,1112185,2011,Dengue fever
-P.Nakhon S.Ayutthaya,124,15.8,0,0.0,784875,2011,Dengue fever
-Pathum Thani,335,33.56,0,0.0,998271,2011,Dengue fever
-Saraburi,264,42.66,0,0.0,618919,2011,Dengue fever
-Zone:2,946,59.54,0,0.0,1588727,2011,Dengue fever
-Ang Thong,229,80.49,0,0.0,284516,2011,Dengue fever
-Chai Nat,202,60.46,0,0.0,334096,2011,Dengue fever
-Lop Buri,507,67.06,0,0.0,755991,2011,Dengue fever
-Sing Buri,8,3.74,0,0.0,214124,2011,Dengue fever
-Zone:3,2362,75.29,0,0.0,3137098,2011,Dengue fever
-Chachoengsao,533,78.77,0,0.0,676652,2011,Dengue fever
-Nakhon Nayok,173,68.3,0,0.0,253283,2011,Dengue fever
-Prachin Buri,563,120.27,0,0.0,468113,2011,Dengue fever
-Sa Kaeo,371,68.09,0,0.0,544848,2011,Dengue fever
-Samut Prakan,722,60.46,0,0.0,1194202,2011,Dengue fever
-Zone:4,2038,60.14,0,0.0,3388832,2011,Dengue fever
-Kanchanaburi,314,37.41,0,0.0,839345,2011,Dengue fever
-Nakhon Pathom,379,43.91,0,0.0,863155,2011,Dengue fever
-Ratchaburi,965,114.76,0,0.0,840880,2011,Dengue fever
-Suphan Buri,380,44.95,0,0.0,845452,2011,Dengue fever
-Zone:5,2169,130.23,0,0.0,1665473,2011,Dengue fever
-Phetchaburi,863,185.57,0,0.0,465056,2011,Dengue fever
-Prachuap Khiri Khan,404,79.08,0,0.0,510852,2011,Dengue fever
-Samut Sakhon,559,112.82,0,0.0,495493,2011,Dengue fever
-Samut Songkhram,343,176.74,0,0.0,194072,2011,Dengue fever
-Zone:9,2153,79.84,0,0.0,2696747,2011,Dengue fever
-Chanthaburi,480,93.07,0,0.0,515736,2011,Dengue fever
-Chon Buri,655,49.34,0,0.0,1327475,2011,Dengue fever
-Rayong,704,111.38,0,0.0,632069,2011,Dengue fever
-Trat,314,141.78,0,0.0,221467,2011,Dengue fever
-South Region,2652,29.69,0,0.0,8932459,2011,Dengue fever
-Zone:6,1159,32.82,0,0.0,3531913,2011,Dengue fever
-Chumphon,184,37.47,0,0.0,491073,2011,Dengue fever
-Nakhon Si Thammarat,406,26.63,0,0.0,1524317,2011,Dengue fever
-Phatthalung,290,56.83,0,0.0,510299,2011,Dengue fever
-Surat Thani,279,27.73,0,0.0,1006224,2011,Dengue fever
-Zone:7,557,30.16,0,0.0,1846999,2011,Dengue fever
-Krabi,289,66.38,0,0.0,435372,2011,Dengue fever
-Phangnga,98,38.58,0,0.0,254022,2011,Dengue fever
-Phuket,55,15.74,0,0.0,349457,2011,Dengue fever
-Ranong,47,25.62,0,0.0,183464,2011,Dengue fever
-Trang,68,10.89,0,0.0,624684,2011,Dengue fever
-Zone:8,936,26.34,0,0.0,3553547,2011,Dengue fever
-Narathiwat,173,23.31,0,0.0,742268,2011,Dengue fever
-Pattani,53,8.04,0,0.0,659373,2011,Dengue fever
-Satun,160,53.46,0,0.0,299315,2011,Dengue fever
-Songkhla,462,33.92,0,0.0,1362017,2011,Dengue fever
-Yala,88,17.94,0,0.0,490574,2011,Dengue fever
-North-Eastern Region,7277,33.72,0,0.0,21579612,2011,Dengue fever
-Zone:10,396,11.03,0,0.0,3588872,2011,Dengue fever
-Bungkan,37,18.15,0,0.0,203818,2011,Dengue fever
-Loei,199,31.87,0,0.0,624493,2011,Dengue fever
-Nong Bua Lam Phu,33,6.56,0,0.0,502710,2011,Dengue fever
-Nong Khai,88,12.37,0,0.0,711404,2011,Dengue fever
-Udon Thani,39,2.52,0,0.0,1546447,2011,Dengue fever
-Zone:11,221,10.2,0,0.0,2167288,2011,Dengue fever
-Mukdahan,54,15.88,0,0.0,340079,2011,Dengue fever
-Nakhon Phanom,110,15.62,0,0.0,704080,2011,Dengue fever
-Sakon Nakhon,57,5.08,0,0.0,1123129,2011,Dengue fever
-Zone:12,1490,29.82,0,0.0,4996659,2011,Dengue fever
-Kalasin,0,0.0,0,0.0,982117,2011,Dengue fever
-Khon Kaen,553,31.3,0,0.0,1766834,2011,Dengue fever
-Maha Sarakham,274,29.14,0,0.0,940324,2011,Dengue fever
-Roi Et,663,50.71,0,0.0,1307384,2011,Dengue fever
-Zone:13,2136,51.12,0,0.0,4178156,2011,Dengue fever
-Amnat Charoen,161,43.26,0,0.0,372190,2011,Dengue fever
-Si Sa Ket,1313,90.41,0,0.0,1452338,2011,Dengue fever
-Ubon Ratchathani,565,31.14,0,0.0,1814573,2011,Dengue fever
-Yasothon,97,17.99,0,0.0,539055,2011,Dengue fever
-Zone:14,3034,45.63,0,0.0,6648637,2011,Dengue fever
-Buri Ram,506,32.51,0,0.0,1556426,2011,Dengue fever
-Chaiyaphum,359,31.84,0,0.0,1127423,2011,Dengue fever
-Nakhon Ratchasima,830,32.12,0,0.0,2583707,2011,Dengue fever
-Surin,1339,96.95,0,0.0,1381081,2011,Dengue fever
-North Region,5609,47.59,0,0.0,11785868,2011,Dengue fever
-Zone:15,624,20.45,0,0.0,3050706,2011,Dengue fever
-Chiang Mai,302,18.38,0,0.0,1643312,2011,Dengue fever
-Lampang,156,20.53,0,0.0,759742,2011,Dengue fever
-Lamphun,56,13.85,0,0.0,404257,2011,Dengue fever
-Mae Hong Son,110,45.19,0,0.0,243395,2011,Dengue fever
-Zone:16,481,18.35,0,0.0,2621067,2011,Dengue fever
-Chiang Rai,313,26.12,0,0.0,1198438,2011,Dengue fever
-Nan,21,4.41,0,0.0,476488,2011,Dengue fever
-Phayao,83,17.06,0,0.0,486388,2011,Dengue fever
-Phrae,64,13.92,0,0.0,459753,2011,Dengue fever
-Zone:17,1826,53.15,0,0.0,3435767,2011,Dengue fever
-Phetchabun,453,45.6,0,0.0,993420,2011,Dengue fever
-Phitsanulok,546,64.2,0,0.0,850525,2011,Dengue fever
-Sukhothai,289,48.04,0,0.0,601642,2011,Dengue fever
-Tak,345,65.3,0,0.0,528351,2011,Dengue fever
-Uttaradit,193,41.79,0,0.0,461829,2011,Dengue fever
-Zone:18,2678,99.99,0,0.0,2678328,2011,Dengue fever
-Kamphaeng Phet,487,67.03,0,0.0,726551,2011,Dengue fever
-Nakhon Sawan,1132,105.54,0,0.0,1072591,2011,Dengue fever
-Phichit,958,173.81,0,0.0,551189,2011,Dengue fever
-Uthai Thani,101,30.79,0,0.0,327997,2011,Dengue fever
+Total,34467,52.09,1,0.0,66171439,2022,Dengue fever
+ZONE:01,8463,144.06,0,0.0,5874503,2022,Dengue fever
+Chiang Mai,1571,87.8,0,0.0,1789385,2022,Dengue fever
+Chiang Rai,345,26.57,0,0.0,1298425,2022,Dengue fever
+Lampang,346,47.75,0,0.0,724678,2022,Dengue fever
+Lamphun,45,11.22,0,0.0,401139,2022,Dengue fever
+Mae Hong Son,5638,1971.91,0,0.0,285916,2022,Dengue fever
+Nan,357,75.02,0,0.0,475875,2022,Dengue fever
+Phayao,75,16.15,0,0.0,464505,2022,Dengue fever
+Phrae,86,19.79,0,0.0,434580,2022,Dengue fever
+ZONE:02,2120,59.99,0,0.0,3533839,2022,Dengue fever
+Phetchabun,156,15.94,0,0.0,978372,2022,Dengue fever
+Phitsanulok,395,46.61,0,0.0,847384,2022,Dengue fever
+Sukhothai,246,42.03,0,0.0,585352,2022,Dengue fever
+Tak,1139,168.35,0,0.0,676583,2022,Dengue fever
+Uttaradit,184,41.24,0,0.0,446148,2022,Dengue fever
+ZONE:03,1002,34.29,0,0.0,2922114,2022,Dengue fever
+Chai Nat,130,40.57,0,0.0,320432,2022,Dengue fever
+Kamphaeng Phet,207,29.07,0,0.0,712143,2022,Dengue fever
+Nakhon Sawan,484,46.76,0,0.0,1035028,2022,Dengue fever
+Phichit,92,17.38,0,0.0,529395,2022,Dengue fever
+Uthai Thani,89,27.37,0,0.0,325116,2022,Dengue fever
+ZONE:04,1583,29.19,0,0.0,5422367,2022,Dengue fever
+Ang Thong,41,14.92,0,0.0,274763,2022,Dengue fever
+Lop Buri,94,12.71,0,0.0,739473,2022,Dengue fever
+Nakhon Nayok,29,11.14,0,0.0,260433,2022,Dengue fever
+Nonthaburi,461,35.77,0,0.0,1288637,2022,Dengue fever
+P.Nakhon S.Ayutthaya,174,21.21,0,0.0,820512,2022,Dengue fever
+Pathum Thani,660,55.46,0,0.0,1190060,2022,Dengue fever
+Saraburi,104,16.15,0,0.0,643963,2022,Dengue fever
+Sing Buri,20,9.78,0,0.0,204526,2022,Dengue fever
+ZONE:05,3409,63.92,0,0.0,5333543,2022,Dengue fever
+Kanchanaburi,159,17.78,0,0.0,894054,2022,Dengue fever
+Nakhon Pathom,867,94.02,0,0.0,922171,2022,Dengue fever
+Phetchaburi,387,80.14,0,0.0,482875,2022,Dengue fever
+Prachuap Khiri Khan,133,24.04,0,0.0,553171,2022,Dengue fever
+Ratchaburi,662,76.24,0,0.0,868281,2022,Dengue fever
+Samut Sakhon,701,119.46,0,0.0,586789,2022,Dengue fever
+Samut Songkhram,93,48.73,0,0.0,190842,2022,Dengue fever
+Suphan Buri,407,48.72,0,0.0,835360,2022,Dengue fever
+ZONE:06,3910,62.68,1,0.02,6237892,2022,Dengue fever
+Chachoengsao,63,8.7,0,0.0,724178,2022,Dengue fever
+Chanthaburi,207,38.58,0,0.0,536557,2022,Dengue fever
+Chon Buri,1782,112.52,0,0.0,1583672,2022,Dengue fever
+Prachin Buri,46,9.29,0,0.0,495325,2022,Dengue fever
+Rayong,606,80.66,0,0.0,751343,2022,Dengue fever
+Sa Kaeo,117,20.82,1,0.18,561992,2022,Dengue fever
+Samut Prakan,1021,75.27,0,0.0,1356449,2022,Dengue fever
+Trat,68,29.78,0,0.0,228376,2022,Dengue fever
+ZONE:07,1391,27.76,0,0.0,5010756,2022,Dengue fever
+Kalasin,200,20.5,0,0.0,975570,2022,Dengue fever
+Khon Kaen,342,19.1,0,0.0,1790863,2022,Dengue fever
+Maha Sarakham,365,38.49,0,0.0,948310,2022,Dengue fever
+Roi Et,484,37.35,0,0.0,1296013,2022,Dengue fever
+ZONE:08,903,16.37,0,0.0,5516407,2022,Dengue fever
+Bungkan,13,3.08,0,0.0,421995,2022,Dengue fever
+Loei,185,28.96,0,0.0,638732,2022,Dengue fever
+Nakhon Phanom,206,28.73,0,0.0,717040,2022,Dengue fever
+Nong Bua Lam Phu,29,5.7,0,0.0,509001,2022,Dengue fever
+Nong Khai,161,31.15,0,0.0,516843,2022,Dengue fever
+Sakon Nakhon,90,7.85,0,0.0,1146286,2022,Dengue fever
+Udon Thani,219,13.98,0,0.0,1566510,2022,Dengue fever
+ZONE:09,1442,21.48,0,0.0,6712454,2022,Dengue fever
+Buri Ram,68,4.3,0,0.0,1579805,2022,Dengue fever
+Chaiyaphum,266,23.7,0,0.0,1122265,2022,Dengue fever
+Nakhon Ratchasima,581,22.06,0,0.0,2634154,2022,Dengue fever
+Surin,527,38.29,0,0.0,1376230,2022,Dengue fever
+ZONE:10,1873,40.83,0,0.0,4587303,2022,Dengue fever
+Amnat Charoen,1,0.27,0,0.0,376350,2022,Dengue fever
+Mukdahan,106,30.16,0,0.0,351484,2022,Dengue fever
+Si Sa Ket,717,49.19,0,0.0,1457556,2022,Dengue fever
+Ubon Ratchathani,948,50.74,0,0.0,1868519,2022,Dengue fever
+Yasothon,101,18.94,0,0.0,533394,2022,Dengue fever
+ZONE:11,1395,31.06,0,0.0,4492012,2022,Dengue fever
+Chumphon,179,35.13,0,0.0,509479,2022,Dengue fever
+Krabi,195,40.68,0,0.0,479351,2022,Dengue fever
+Nakhon Si Thammarat,190,12.26,0,0.0,1549344,2022,Dengue fever
+Phangnga,246,91.79,0,0.0,268016,2022,Dengue fever
+Phuket,276,65.9,0,0.0,418785,2022,Dengue fever
+Ranong,146,75.04,0,0.0,194573,2022,Dengue fever
+Surat Thani,163,15.2,0,0.0,1072464,2022,Dengue fever
+ZONE:12,1446,28.92,0,0.0,5000255,2022,Dengue fever
+Narathiwat,355,43.85,0,0.0,809660,2022,Dengue fever
+Pattani,164,22.48,0,0.0,729581,2022,Dengue fever
+Phatthalung,131,25.07,0,0.0,522541,2022,Dengue fever
+Satun,75,23.09,0,0.0,324835,2022,Dengue fever
+Songkhla,413,28.85,0,0.0,1431536,2022,Dengue fever
+Trang,186,29.07,0,0.0,639788,2022,Dengue fever
+Yala,122,22.5,0,0.0,542314,2022,Dengue fever
+ZONE:13,5530,100.04,0,0.0,5527994,2022,Dengue fever
+Bangkok,5530,100.04,0,0.0,5527994,2022,Dengue fever
 Total,39321,61.37,0,0.0,64075986,2012,Dengue fever
 Central Region,14929,68.69,0,0.0,21734984,2012,Dengue fever
 Zone:0,3583,63.14,0,0.0,5674843,2012,Dengue fever
@@ -1000,471 +391,198 @@ Kamphaeng Phet,561,77.27,0,0.0,726009,2012,Dengue fever
 Nakhon Sawan,1045,97.51,0,0.0,1071686,2012,Dengue fever
 Phichit,365,66.4,0,0.0,549688,2012,Dengue fever
 Uthai Thani,238,72.55,0,0.0,328034,2012,Dengue fever
-Total,87502,136.56,6,0.01,64076033,2013,Dengue fever
-Central Region,17302,79.6,1,0.0,21734984,2013,Dengue fever
-Zone:0,6074,107.03,0,0.0,5674843,2013,Dengue fever
-Bangkok,6074,107.03,0,0.0,5674843,2013,Dengue fever
-Zone:1,1852,52.29,0,0.0,3541632,2013,Dengue fever
-Nonthaburi,654,58.26,0,0.0,1122627,2013,Dengue fever
-P.Nakhon S.Ayutthaya,226,28.69,0,0.0,787653,2013,Dengue fever
-Pathum Thani,466,46.1,0,0.0,1010898,2013,Dengue fever
-Saraburi,506,81.55,0,0.0,620454,2013,Dengue fever
-Zone:2,864,54.44,0,0.0,1587031,2013,Dengue fever
-Ang Thong,143,50.34,0,0.0,284061,2013,Dengue fever
-Chai Nat,205,61.51,0,0.0,333256,2013,Dengue fever
-Lop Buri,498,65.86,0,0.0,756127,2013,Dengue fever
-Sing Buri,18,8.43,0,0.0,213587,2013,Dengue fever
-Zone:3,2351,74.6,0,0.0,3151672,2013,Dengue fever
-Chachoengsao,295,43.42,0,0.0,679370,2013,Dengue fever
-Nakhon Nayok,265,104.4,0,0.0,253831,2013,Dengue fever
-Prachin Buri,620,132.01,0,0.0,469652,2013,Dengue fever
-Sa Kaeo,371,68.0,0,0.0,545596,2013,Dengue fever
-Samut Prakan,800,66.49,0,0.0,1203223,2013,Dengue fever
-Zone:4,1818,53.59,0,0.0,3392715,2013,Dengue fever
-Kanchanaburi,208,24.79,0,0.0,838914,2013,Dengue fever
-Nakhon Pathom,475,54.85,0,0.0,866064,2013,Dengue fever
-Ratchaburi,848,100.63,0,0.0,842684,2013,Dengue fever
-Suphan Buri,287,33.96,0,0.0,845053,2013,Dengue fever
-Zone:5,1438,86.01,0,0.0,1671831,2013,Dengue fever
-Phetchaburi,489,104.92,0,0.0,466079,2013,Dengue fever
-Prachuap Khiri Khan,240,46.82,0,0.0,512568,2013,Dengue fever
-Samut Sakhon,509,101.98,0,0.0,499098,2013,Dengue fever
-Samut Songkhram,200,103.05,0,0.0,194086,2013,Dengue fever
-Zone:9,2905,106.99,1,0.04,2715260,2013,Dengue fever
-Chanthaburi,831,160.78,0,0.0,516855,2013,Dengue fever
-Chon Buri,614,45.87,0,0.0,1338656,2013,Dengue fever
-Rayong,956,149.91,0,0.0,637736,2013,Dengue fever
-Trat,504,227.01,1,0.45,222013,2013,Dengue fever
-South Region,11901,132.65,0,0.0,8971855,2013,Dengue fever
-Zone:6,5068,143.11,0,0.0,3541380,2013,Dengue fever
-Chumphon,852,173.11,0,0.0,492182,2013,Dengue fever
-Nakhon Si Thammarat,1940,127.12,0,0.0,1526071,2013,Dengue fever
-Phatthalung,910,178.06,0,0.0,511063,2013,Dengue fever
-Surat Thani,1366,134.97,0,0.0,1012064,2013,Dengue fever
-Zone:7,3264,175.73,0,0.0,1857374,2013,Dengue fever
-Krabi,654,149.3,0,0.0,438039,2013,Dengue fever
-Phangnga,614,240.85,0,0.0,254931,2013,Dengue fever
-Phuket,1435,405.54,0,0.0,353847,2013,Dengue fever
-Ranong,208,113.14,0,0.0,183849,2013,Dengue fever
-Trang,353,56.33,0,0.0,626708,2013,Dengue fever
-Zone:8,3569,99.89,0,0.0,3573101,2013,Dengue fever
-Narathiwat,538,71.99,0,0.0,747372,2013,Dengue fever
-Pattani,402,60.59,0,0.0,663485,2013,Dengue fever
-Satun,245,81.27,0,0.0,301467,2013,Dengue fever
-Songkhla,2036,148.94,0,0.0,1367010,2013,Dengue fever
-Yala,348,70.48,0,0.0,493767,2013,Dengue fever
-North-Eastern Region,25955,120.24,4,0.02,21585883,2013,Dengue fever
-Zone:10,4129,114.92,4,0.11,3593082,2013,Dengue fever
-Bungkan,611,149.89,0,0.0,407634,2013,Dengue fever
-Loei,1927,308.36,4,0.64,624920,2013,Dengue fever
-Nong Bua Lam Phu,422,83.97,0,0.0,502551,2013,Dengue fever
-Nong Khai,665,130.43,0,0.0,509870,2013,Dengue fever
-Udon Thani,504,32.56,0,0.0,1548107,2013,Dengue fever
-Zone:11,2430,112.05,0,0.0,2168700,2013,Dengue fever
-Mukdahan,652,191.44,0,0.0,340581,2013,Dengue fever
-Nakhon Phanom,1235,175.23,0,0.0,704768,2013,Dengue fever
-Sakon Nakhon,543,48.34,0,0.0,1123351,2013,Dengue fever
-Zone:12,6253,125.25,0,0.0,4992515,2013,Dengue fever
-Kalasin,706,71.92,0,0.0,981655,2013,Dengue fever
-Khon Kaen,1677,94.96,0,0.0,1766066,2013,Dengue fever
-Maha Sarakham,1706,181.54,0,0.0,939736,2013,Dengue fever
-Roi Et,2164,165.82,0,0.0,1305058,2013,Dengue fever
-Zone:13,5848,139.93,0,0.0,4179354,2013,Dengue fever
-Amnat Charoen,378,101.55,0,0.0,372241,2013,Dengue fever
-Si Sa Ket,3205,220.7,0,0.0,1452203,2013,Dengue fever
-Ubon Ratchathani,1797,98.95,0,0.0,1816057,2013,Dengue fever
-Yasothon,468,86.85,0,0.0,538853,2013,Dengue fever
-Zone:14,7295,109.66,0,0.0,6652232,2013,Dengue fever
-Buri Ram,936,60.04,0,0.0,1559085,2013,Dengue fever
-Chaiyaphum,678,60.14,0,0.0,1127423,2013,Dengue fever
-Nakhon Ratchasima,2894,111.94,0,0.0,2585325,2013,Dengue fever
-Surin,2787,201.9,0,0.0,1380399,2013,Dengue fever
-North Region,32344,274.49,1,0.01,11783311,2013,Dengue fever
-Zone:15,13650,447.29,0,0.0,3051678,2013,Dengue fever
-Chiang Mai,8713,529.3,0,0.0,1646144,2013,Dengue fever
-Lampang,2547,336.22,0,0.0,757534,2013,Dengue fever
-Lamphun,917,227.01,0,0.0,403952,2013,Dengue fever
-Mae Hong Son,1473,603.57,0,0.0,244048,2013,Dengue fever
-Zone:16,12761,486.97,1,0.04,2620490,2013,Dengue fever
-Chiang Rai,10754,897.17,0,0.0,1198656,2013,Dengue fever
-Nan,715,150.02,0,0.0,476612,2013,Dengue fever
-Phayao,666,136.9,0,0.0,486472,2013,Dengue fever
-Phrae,626,136.46,1,0.22,458750,2013,Dengue fever
-Zone:17,3771,109.76,0,0.0,3435726,2013,Dengue fever
-Phetchabun,1237,124.85,0,0.0,990807,2013,Dengue fever
-Phitsanulok,833,97.84,0,0.0,851357,2013,Dengue fever
-Sukhothai,394,65.5,0,0.0,601504,2013,Dengue fever
-Tak,938,176.64,0,0.0,531018,2013,Dengue fever
-Uttaradit,369,80.04,0,0.0,461040,2013,Dengue fever
-Zone:18,2162,80.81,0,0.0,2675417,2013,Dengue fever
-Kamphaeng Phet,670,92.29,0,0.0,726009,2013,Dengue fever
-Nakhon Sawan,881,82.21,0,0.0,1071686,2013,Dengue fever
-Phichit,383,69.68,0,0.0,549688,2013,Dengue fever
-Uthai Thani,228,69.5,0,0.0,328034,2013,Dengue fever
-Total,23170,35.67,0,0.0,64955313,2014,Dengue fever
-ZONE:00,2122,37.3,0,0.0,5689268,2014,Dengue fever
-Bangkok,2122,37.3,0,0.0,5689268,2014,Dengue fever
-ZONE:01,2180,38.22,0,0.0,5704200,2014,Dengue fever
-Chiang Mai,614,36.71,0,0.0,1672586,2014,Dengue fever
-Chiang Rai,294,24.37,0,0.0,1206180,2014,Dengue fever
-Lampang,113,14.99,0,0.0,753937,2014,Dengue fever
-Lamphun,21,5.18,0,0.0,405368,2014,Dengue fever
-Mae Hong Son,426,172.22,0,0.0,247364,2014,Dengue fever
-Nan,401,83.88,0,0.0,478088,2014,Dengue fever
-Phayao,68,14.0,0,0.0,485599,2014,Dengue fever
-Phrae,243,53.4,0,0.0,455078,2014,Dengue fever
-ZONE:02,826,23.93,0,0.0,3452021,2014,Dengue fever
-Phetchabun,61,6.13,0,0.0,995102,2014,Dengue fever
-Phitsanulok,102,11.89,0,0.0,857682,2014,Dengue fever
-Sukhothai,180,29.87,0,0.0,602586,2014,Dengue fever
-Tak,392,73.14,0,0.0,535953,2014,Dengue fever
-Uttaradit,91,19.75,0,0.0,460698,2014,Dengue fever
-ZONE:03,1399,46.44,0,0.0,3012608,2014,Dengue fever
-Chai Nat,34,10.22,0,0.0,332526,2014,Dengue fever
-Kamphaeng Phet,539,73.93,0,0.0,729076,2014,Dengue fever
-Nakhon Sawan,410,38.21,0,0.0,1072949,2014,Dengue fever
-Phichit,279,50.89,0,0.0,548199,2014,Dengue fever
-Uthai Thani,137,41.53,0,0.0,329858,2014,Dengue fever
-ZONE:04,1346,26.03,0,0.0,5171756,2014,Dengue fever
-Ang Thong,88,31.02,0,0.0,283650,2014,Dengue fever
-Lop Buri,428,56.45,0,0.0,758188,2014,Dengue fever
-Nakhon Nayok,55,21.43,0,0.0,256693,2014,Dengue fever
-Nonthaburi,189,16.22,0,0.0,1165070,2014,Dengue fever
-P.Nakhon S.Ayutthaya,139,17.36,0,0.0,800785,2014,Dengue fever
-Pathum Thani,173,16.27,0,0.0,1063608,2014,Dengue fever
-Saraburi,267,42.29,0,0.0,631338,2014,Dengue fever
-Sing Buri,7,3.3,0,0.0,212424,2014,Dengue fever
-ZONE:05,2299,44.66,0,0.0,5147569,2014,Dengue fever
-Kanchanaburi,104,12.3,0,0.0,845540,2014,Dengue fever
-Nakhon Pathom,392,44.21,0,0.0,886627,2014,Dengue fever
-Phetchaburi,397,84.0,0,0.0,472640,2014,Dengue fever
-Prachuap Khiri Khan,169,32.33,0,0.0,522689,2014,Dengue fever
-Ratchaburi,694,81.49,0,0.0,851689,2014,Dengue fever
-Samut Sakhon,277,52.69,0,0.0,525672,2014,Dengue fever
-Samut Songkhram,126,64.9,0,0.0,194153,2014,Dengue fever
-Suphan Buri,140,16.5,0,0.0,848559,2014,Dengue fever
-ZONE:06,2533,43.69,0,0.0,5797595,2014,Dengue fever
-Chachoengsao,143,20.64,0,0.0,692852,2014,Dengue fever
-Chanthaburi,716,136.17,0,0.0,525805,2014,Dengue fever
-Chon Buri,249,17.71,0,0.0,1405889,2014,Dengue fever
-Prachin Buri,306,64.05,0,0.0,477741,2014,Dengue fever
-Rayong,457,68.43,0,0.0,667806,2014,Dengue fever
-Sa Kaeo,147,26.65,0,0.0,551562,2014,Dengue fever
-Samut Prakan,390,31.16,0,0.0,1251570,2014,Dengue fever
-Trat,125,55.71,0,0.0,224370,2014,Dengue fever
-ZONE:07,1102,21.88,0,0.0,5037074,2014,Dengue fever
-Kalasin,271,27.53,0,0.0,984468,2014,Dengue fever
-Khon Kaen,277,15.51,0,0.0,1785852,2014,Dengue fever
-Maha Sarakham,252,26.3,0,0.0,958116,2014,Dengue fever
-Roi Et,302,23.08,0,0.0,1308638,2014,Dengue fever
-ZONE:08,617,11.24,0,0.0,5490561,2014,Dengue fever
-Bungkan,126,30.19,0,0.0,417401,2014,Dengue fever
-Loei,80,12.63,0,0.0,633359,2014,Dengue fever
-Nakhon Phanom,95,13.34,0,0.0,712101,2014,Dengue fever
-Nong Bua Lam Phu,61,12.01,0,0.0,508001,2014,Dengue fever
-Nong Khai,166,32.16,0,0.0,516101,2014,Dengue fever
-Sakon Nakhon,62,5.46,0,0.0,1136466,2014,Dengue fever
-Udon Thani,27,1.72,0,0.0,1567132,2014,Dengue fever
-ZONE:09,1487,22.13,0,0.0,6717984,2014,Dengue fever
-Buri Ram,220,13.96,0,0.0,1576343,2014,Dengue fever
-Chaiyaphum,386,33.97,0,0.0,1136386,2014,Dengue fever
-Nakhon Ratchasima,447,17.09,0,0.0,2615340,2014,Dengue fever
-Surin,434,31.22,0,0.0,1389915,2014,Dengue fever
-ZONE:10,1023,22.41,0,0.0,4564711,2014,Dengue fever
-Amnat Charoen,112,29.86,0,0.0,375039,2014,Dengue fever
-Mukdahan,57,16.51,0,0.0,345159,2014,Dengue fever
-Si Sa Ket,404,27.6,0,0.0,1463620,2014,Dengue fever
-Ubon Ratchathani,316,17.17,0,0.0,1840596,2014,Dengue fever
-Yasothon,134,24.8,0,0.0,540297,2014,Dengue fever
-ZONE:11,4020,92.53,0,0.0,4344513,2014,Dengue fever
-Chumphon,419,83.89,0,0.0,499435,2014,Dengue fever
-Krabi,386,85.05,0,0.0,453850,2014,Dengue fever
-Nakhon Si Thammarat,2121,137.29,0,0.0,1544936,2014,Dengue fever
-Phangnga,90,34.56,0,0.0,260395,2014,Dengue fever
-Phuket,271,72.47,0,0.0,373943,2014,Dengue fever
-Ranong,125,71.05,0,0.0,175933,2014,Dengue fever
-Surat Thani,608,58.69,0,0.0,1036021,2014,Dengue fever
-ZONE:12,2216,45.92,0,0.0,4825453,2014,Dengue fever
-Narathiwat,415,53.86,0,0.0,770472,2014,Dengue fever
-Pattani,390,57.14,0,0.0,682512,2014,Dengue fever
-Phatthalung,523,100.73,0,0.0,519220,2014,Dengue fever
-Satun,116,37.27,0,0.0,311233,2014,Dengue fever
-Songkhla,381,27.3,0,0.0,1395596,2014,Dengue fever
-Trang,66,10.35,0,0.0,637395,2014,Dengue fever
-Yala,325,63.85,0,0.0,509025,2014,Dengue fever
-Total,86653,133.06,9,0.01,65124716,2015,Dengue fever
-ZONE:00,12738,223.78,0,0.0,5692284,2015,Dengue fever
-Bangkok,12738,223.78,0,0.0,5692284,2015,Dengue fever
-ZONE:01,10168,178.09,0,0.0,5709443,2015,Dengue fever
-Chiang Mai,4622,275.4,0,0.0,1678284,2015,Dengue fever
-Chiang Rai,1461,120.97,0,0.0,1207699,2015,Dengue fever
-Lampang,1123,149.13,0,0.0,753013,2015,Dengue fever
-Lamphun,615,151.68,0,0.0,405468,2015,Dengue fever
-Mae Hong Son,541,217.99,0,0.0,248178,2015,Dengue fever
-Nan,404,84.47,0,0.0,478264,2015,Dengue fever
-Phayao,250,51.6,0,0.0,484454,2015,Dengue fever
-Phrae,1152,253.7,0,0.0,454083,2015,Dengue fever
-ZONE:02,3178,91.92,0,0.0,3457208,2015,Dengue fever
-Phetchabun,321,32.24,0,0.0,995807,2015,Dengue fever
-Phitsanulok,836,97.32,0,0.0,858988,2015,Dengue fever
-Sukhothai,349,57.93,0,0.0,602460,2015,Dengue fever
-Tak,1409,261.14,0,0.0,539553,2015,Dengue fever
-Uttaradit,263,57.12,0,0.0,460400,2015,Dengue fever
-ZONE:03,5139,170.6,1,0.03,3012283,2015,Dengue fever
-Chai Nat,395,118.87,0,0.0,332283,2015,Dengue fever
-Kamphaeng Phet,527,72.24,1,0.14,729522,2015,Dengue fever
-Nakhon Sawan,2422,225.77,0,0.0,1072756,2015,Dengue fever
-Phichit,587,107.21,0,0.0,547543,2015,Dengue fever
-Uthai Thani,1208,365.86,0,0.0,330179,2015,Dengue fever
-ZONE:04,5806,111.73,0,0.0,5196419,2015,Dengue fever
-Ang Thong,781,275.42,0,0.0,283568,2015,Dengue fever
-Lop Buri,1580,208.33,0,0.0,758406,2015,Dengue fever
-Nakhon Nayok,359,139.53,0,0.0,257300,2015,Dengue fever
-Nonthaburi,1081,92.09,0,0.0,1173870,2015,Dengue fever
-P.Nakhon S.Ayutthaya,751,93.45,0,0.0,803599,2015,Dengue fever
-Pathum Thani,616,57.35,0,0.0,1074058,2015,Dengue fever
-Saraburi,617,97.4,0,0.0,633460,2015,Dengue fever
-Sing Buri,21,9.9,0,0.0,212158,2015,Dengue fever
-ZONE:05,9821,190.07,3,0.06,5166914,2015,Dengue fever
-Kanchanaburi,786,92.67,1,0.12,848198,2015,Dengue fever
-Nakhon Pathom,1563,175.41,0,0.0,891071,2015,Dengue fever
-Phetchaburi,1754,369.89,0,0.0,474192,2015,Dengue fever
-Prachuap Khiri Khan,819,155.97,0,0.0,525107,2015,Dengue fever
-Ratchaburi,2992,350.67,1,0.12,853217,2015,Dengue fever
-Samut Sakhon,847,159.24,1,0.19,531887,2015,Dengue fever
-Samut Songkhram,540,278.08,0,0.0,194189,2015,Dengue fever
-Suphan Buri,520,61.24,0,0.0,849053,2015,Dengue fever
-ZONE:06,12073,206.86,3,0.05,5836407,2015,Dengue fever
-Chachoengsao,1712,246.16,3,0.43,695478,2015,Dengue fever
-Chanthaburi,1610,305.3,0,0.0,527350,2015,Dengue fever
-Chon Buri,2005,141.06,0,0.0,1421425,2015,Dengue fever
-Prachin Buri,1614,336.73,0,0.0,479314,2015,Dengue fever
-Rayong,2145,318.06,0,0.0,674393,2015,Dengue fever
-Sa Kaeo,860,155.74,0,0.0,552187,2015,Dengue fever
-Samut Prakan,1452,115.1,0,0.0,1261530,2015,Dengue fever
-Trat,675,300.36,0,0.0,224730,2015,Dengue fever
-ZONE:07,4090,81.09,1,0.02,5043862,2015,Dengue fever
-Kalasin,1060,107.62,0,0.0,984907,2015,Dengue fever
-Khon Kaen,1115,62.29,0,0.0,1790049,2015,Dengue fever
-Maha Sarakham,697,72.56,1,0.1,960588,2015,Dengue fever
-Roi Et,1218,93.1,0,0.0,1308318,2015,Dengue fever
-ZONE:08,2497,45.39,0,0.0,5501453,2015,Dengue fever
-Bungkan,236,56.38,0,0.0,418566,2015,Dengue fever
-Loei,751,118.36,0,0.0,634513,2015,Dengue fever
-Nakhon Phanom,589,82.57,0,0.0,713341,2015,Dengue fever
-Nong Bua Lam Phu,102,20.04,0,0.0,508864,2015,Dengue fever
-Nong Khai,166,32.09,0,0.0,517260,2015,Dengue fever
-Sakon Nakhon,547,48.04,0,0.0,1138609,2015,Dengue fever
-Udon Thani,106,6.75,0,0.0,1570300,2015,Dengue fever
-ZONE:09,8592,127.7,0,0.0,6728450,2015,Dengue fever
-Buri Ram,876,55.47,0,0.0,1579248,2015,Dengue fever
-Chaiyaphum,1773,155.93,0,0.0,1137049,2015,Dengue fever
-Nakhon Ratchasima,3933,150.08,0,0.0,2620517,2015,Dengue fever
-Surin,2010,144.43,0,0.0,1391636,2015,Dengue fever
-ZONE:10,6753,147.72,0,0.0,4571489,2015,Dengue fever
-Amnat Charoen,437,116.42,0,0.0,375380,2015,Dengue fever
-Mukdahan,260,75.14,0,0.0,346016,2015,Dengue fever
-Si Sa Ket,2468,168.44,0,0.0,1465213,2015,Dengue fever
-Ubon Ratchathani,2922,158.4,0,0.0,1844669,2015,Dengue fever
-Yasothon,666,123.29,0,0.0,540211,2015,Dengue fever
-ZONE:11,3970,91.0,0,0.0,4362467,2015,Dengue fever
-Chumphon,496,99.09,0,0.0,500575,2015,Dengue fever
-Krabi,552,120.84,0,0.0,456811,2015,Dengue fever
-Nakhon Si Thammarat,1412,91.21,0,0.0,1548028,2015,Dengue fever
-Phangnga,478,182.88,0,0.0,261370,2015,Dengue fever
-Phuket,323,85.37,0,0.0,378364,2015,Dengue fever
-Ranong,238,134.4,0,0.0,177089,2015,Dengue fever
-Surat Thani,471,45.28,0,0.0,1040230,2015,Dengue fever
-ZONE:12,1828,37.72,1,0.02,4846037,2015,Dengue fever
-Narathiwat,317,40.91,0,0.0,774799,2015,Dengue fever
-Pattani,147,21.42,1,0.15,686186,2015,Dengue fever
-Phatthalung,347,66.68,0,0.0,520419,2015,Dengue fever
-Satun,89,28.46,0,0.0,312673,2015,Dengue fever
-Songkhla,774,55.23,0,0.0,1401303,2015,Dengue fever
-Trang,57,8.92,0,0.0,638746,2015,Dengue fever
-Yala,97,18.95,0,0.0,511911,2015,Dengue fever
-Total,38466,58.79,5,0.01,65426907,2016,Dengue fever
-ZONE:01,7357,127.25,1,0.02,5781324,2016,Dengue fever
-Chiang Mai,3952,232.03,0,0.0,1703263,2016,Dengue fever
-Chiang Rai,1099,88.43,0,0.0,1242825,2016,Dengue fever
-Lampang,579,76.92,0,0.0,752685,2016,Dengue fever
-Lamphun,367,90.41,0,0.0,405927,2016,Dengue fever
-Mae Hong Son,936,358.66,1,0.38,260971,2016,Dengue fever
-Nan,181,37.8,0,0.0,478890,2016,Dengue fever
-Phayao,150,31.02,0,0.0,483550,2016,Dengue fever
-Phrae,93,20.52,0,0.0,453213,2016,Dengue fever
-ZONE:02,1816,51.9,0,0.0,3498728,2016,Dengue fever
-Phetchabun,569,57.11,0,0.0,996397,2016,Dengue fever
-Phitsanulok,405,47.03,0,0.0,861194,2016,Dengue fever
-Sukhothai,231,38.37,0,0.0,602085,2016,Dengue fever
-Tak,402,69.43,0,0.0,578968,2016,Dengue fever
-Uttaradit,209,45.43,0,0.0,460084,2016,Dengue fever
-ZONE:03,983,32.64,0,0.0,3011449,2016,Dengue fever
-Chai Nat,94,28.32,0,0.0,331968,2016,Dengue fever
-Kamphaeng Phet,123,16.85,0,0.0,729839,2016,Dengue fever
-Nakhon Sawan,430,40.1,0,0.0,1072349,2016,Dengue fever
-Phichit,207,37.86,0,0.0,546750,2016,Dengue fever
-Uthai Thani,129,39.03,0,0.0,330543,2016,Dengue fever
-ZONE:04,1506,28.84,0,0.0,5221125,2016,Dengue fever
-Ang Thong,84,29.64,0,0.0,283371,2016,Dengue fever
-Lop Buri,339,44.69,0,0.0,758531,2016,Dengue fever
-Nakhon Nayok,67,25.98,0,0.0,257939,2016,Dengue fever
-Nonthaburi,354,29.9,0,0.0,1183791,2016,Dengue fever
-P.Nakhon S.Ayutthaya,294,36.48,0,0.0,805980,2016,Dengue fever
-Pathum Thani,211,19.46,0,0.0,1084154,2016,Dengue fever
-Saraburi,156,24.55,0,0.0,635567,2016,Dengue fever
-Sing Buri,1,0.47,0,0.0,211792,2016,Dengue fever
-ZONE:05,1840,35.32,2,0.04,5209561,2016,Dengue fever
-Kanchanaburi,150,17.34,0,0.0,865172,2016,Dengue fever
-Nakhon Pathom,409,45.69,0,0.0,895207,2016,Dengue fever
-Phetchaburi,333,69.9,0,0.0,476391,2016,Dengue fever
-Prachuap Khiri Khan,182,34.35,0,0.0,529912,2016,Dengue fever
-Ratchaburi,264,30.68,0,0.0,860549,2016,Dengue fever
-Samut Sakhon,294,54.58,2,0.37,538671,2016,Dengue fever
-Samut Songkhram,42,21.62,0,0.0,194283,2016,Dengue fever
-Suphan Buri,166,19.54,0,0.0,849376,2016,Dengue fever
-ZONE:06,2868,48.77,1,0.02,5880124,2016,Dengue fever
-Chachoengsao,305,43.68,0,0.0,698190,2016,Dengue fever
-Chanthaburi,542,102.42,0,0.0,529194,2016,Dengue fever
-Chon Buri,484,33.65,0,0.0,1438231,2016,Dengue fever
-Prachin Buri,251,52.21,0,0.0,480755,2016,Dengue fever
-Rayong,480,70.41,0,0.0,681696,2016,Dengue fever
-Sa Kaeo,152,27.41,0,0.0,554555,2016,Dengue fever
-Samut Prakan,500,39.36,0,0.0,1270420,2016,Dengue fever
-Trat,154,67.82,1,0.44,227083,2016,Dengue fever
-ZONE:07,2254,44.63,0,0.0,5049920,2016,Dengue fever
-Kalasin,565,57.36,0,0.0,985055,2016,Dengue fever
-Khon Kaen,475,26.48,0,0.0,1794032,2016,Dengue fever
-Maha Sarakham,416,43.22,0,0.0,962592,2016,Dengue fever
-Roi Et,798,61.0,0,0.0,1308241,2016,Dengue fever
-ZONE:08,1595,28.94,0,0.0,5511930,2016,Dengue fever
-Bungkan,380,90.56,0,0.0,419607,2016,Dengue fever
-Loei,504,79.16,0,0.0,636666,2016,Dengue fever
-Nakhon Phanom,301,42.14,0,0.0,714369,2016,Dengue fever
-Nong Bua Lam Phu,109,21.39,0,0.0,509469,2016,Dengue fever
-Nong Khai,100,19.29,0,0.0,518420,2016,Dengue fever
-Sakon Nakhon,134,11.75,0,0.0,1140673,2016,Dengue fever
-Udon Thani,67,4.26,0,0.0,1572726,2016,Dengue fever
-ZONE:09,3451,51.22,0,0.0,6737604,2016,Dengue fever
-Buri Ram,455,28.76,0,0.0,1581955,2016,Dengue fever
-Chaiyaphum,400,35.16,0,0.0,1137651,2016,Dengue fever
-Nakhon Ratchasima,932,35.51,0,0.0,2624668,2016,Dengue fever
-Surin,1664,119.43,0,0.0,1393330,2016,Dengue fever
-ZONE:10,3100,67.67,0,0.0,4581192,2016,Dengue fever
-Amnat Charoen,217,57.73,0,0.0,375881,2016,Dengue fever
-Mukdahan,363,104.59,0,0.0,347059,2016,Dengue fever
-Si Sa Ket,959,65.37,0,0.0,1467006,2016,Dengue fever
-Ubon Ratchathani,1316,71.09,0,0.0,1851049,2016,Dengue fever
-Yasothon,245,45.35,0,0.0,540197,2016,Dengue fever
-ZONE:11,3110,70.94,0,0.0,4383957,2016,Dengue fever
-Chumphon,233,46.3,0,0.0,503203,2016,Dengue fever
-Krabi,206,44.84,0,0.0,459456,2016,Dengue fever
-Nakhon Si Thammarat,1635,105.46,0,0.0,1550278,2016,Dengue fever
-Phangnga,267,101.63,0,0.0,262721,2016,Dengue fever
-Phuket,203,53.07,0,0.0,382485,2016,Dengue fever
-Ranong,110,60.34,0,0.0,182313,2016,Dengue fever
-Surat Thani,456,43.7,0,0.0,1043501,2016,Dengue fever
-ZONE:12,4777,98.18,1,0.02,4865646,2016,Dengue fever
-Narathiwat,582,74.72,0,0.0,778941,2016,Dengue fever
-Pattani,889,128.82,1,0.14,690104,2016,Dengue fever
-Phatthalung,756,144.95,0,0.0,521570,2016,Dengue fever
-Satun,178,56.63,0,0.0,314297,2016,Dengue fever
-Songkhla,1756,124.9,0,0.0,1405939,2016,Dengue fever
-Trang,121,18.91,0,0.0,639770,2016,Dengue fever
-Yala,495,96.11,0,0.0,515025,2016,Dengue fever
-ZONE:13,3809,66.89,0,0.0,5694347,2016,Dengue fever
-Bangkok,3809,66.89,0,0.0,5694347,2016,Dengue fever
-Total,31843,48.2,4,0.01,66060027,2017,Dengue fever
-ZONE:01,4361,74.37,0,0.0,5864232,2017,Dengue fever
-Chiang Mai,1510,86.72,0,0.0,1741301,2017,Dengue fever
-Chiang Rai,1604,124.82,0,0.0,1285080,2017,Dengue fever
-Lampang,264,35.31,0,0.0,747699,2017,Dengue fever
-Lamphun,196,48.28,0,0.0,405959,2017,Dengue fever
-Mae Hong Son,384,138.39,0,0.0,277486,2017,Dengue fever
-Nan,304,63.35,0,0.0,479877,2017,Dengue fever
-Phayao,61,12.76,0,0.0,478144,2017,Dengue fever
-Phrae,38,8.47,0,0.0,448686,2017,Dengue fever
-ZONE:02,1874,52.69,2,0.06,3556376,2017,Dengue fever
-Phetchabun,229,23.01,0,0.0,995277,2017,Dengue fever
-Phitsanulok,388,44.83,0,0.0,865564,2017,Dengue fever
-Sukhothai,148,24.68,0,0.0,599775,2017,Dengue fever
-Tak,899,140.88,1,0.16,638115,2017,Dengue fever
-Uttaradit,210,45.89,1,0.22,457645,2017,Dengue fever
-ZONE:03,1351,45.06,0,0.0,2998104,2017,Dengue fever
-Chai Nat,116,35.14,0,0.0,330077,2017,Dengue fever
-Kamphaeng Phet,383,52.51,0,0.0,729337,2017,Dengue fever
-Nakhon Sawan,380,35.65,0,0.0,1065895,2017,Dengue fever
-Phichit,391,72.05,0,0.0,542674,2017,Dengue fever
-Uthai Thani,81,24.54,0,0.0,330121,2017,Dengue fever
-ZONE:04,1382,26.06,1,0.02,5302492,2017,Dengue fever
-Ang Thong,155,55.0,0,0.0,281796,2017,Dengue fever
-Lop Buri,169,22.32,0,0.0,757296,2017,Dengue fever
-Nakhon Nayok,28,10.82,0,0.0,258850,2017,Dengue fever
-Nonthaburi,474,38.83,0,0.0,1220829,2017,Dengue fever
-P.Nakhon S.Ayutthaya,204,25.12,0,0.0,812086,2017,Dengue fever
-Pathum Thani,189,16.87,1,0.09,1120246,2017,Dengue fever
-Saraburi,156,24.33,0,0.0,641052,2017,Dengue fever
-Sing Buri,7,3.33,0,0.0,210337,2017,Dengue fever
-ZONE:05,2801,52.89,0,0.0,5295696,2017,Dengue fever
-Kanchanaburi,77,8.69,0,0.0,886546,2017,Dengue fever
-Nakhon Pathom,530,58.35,0,0.0,908249,2017,Dengue fever
-Phetchaburi,671,139.35,0,0.0,481514,2017,Dengue fever
-Prachuap Khiri Khan,199,36.73,0,0.0,541756,2017,Dengue fever
-Ratchaburi,390,44.79,0,0.0,870769,2017,Dengue fever
-Samut Sakhon,501,89.05,0,0.0,562592,2017,Dengue fever
-Samut Songkhram,118,60.83,0,0.0,193985,2017,Dengue fever
-Suphan Buri,315,37.05,0,0.0,850285,2017,Dengue fever
-ZONE:06,2654,44.08,1,0.02,6020790,2017,Dengue fever
-Chachoengsao,332,46.95,1,0.14,707145,2017,Dengue fever
-Chanthaburi,266,49.86,0,0.0,533463,2017,Dengue fever
-Chon Buri,509,34.02,0,0.0,1496086,2017,Dengue fever
-Prachin Buri,372,76.51,0,0.0,486187,2017,Dengue fever
-Rayong,347,49.17,0,0.0,705729,2017,Dengue fever
-Sa Kaeo,332,59.24,0,0.0,560478,2017,Dengue fever
-Samut Prakan,427,32.79,0,0.0,1302160,2017,Dengue fever
-Trat,69,30.06,0,0.0,229542,2017,Dengue fever
-ZONE:07,1289,25.47,0,0.0,5060674,2017,Dengue fever
-Kalasin,444,45.05,0,0.0,985619,2017,Dengue fever
-Khon Kaen,202,11.2,0,0.0,1803831,2017,Dengue fever
-Maha Sarakham,253,26.26,0,0.0,963277,2017,Dengue fever
-Roi Et,390,29.82,0,0.0,1307947,2017,Dengue fever
-ZONE:08,785,14.17,0,0.0,5541473,2017,Dengue fever
-Bungkan,2,0.47,0,0.0,422328,2017,Dengue fever
-Loei,251,39.17,0,0.0,640734,2017,Dengue fever
-Nakhon Phanom,94,13.1,0,0.0,717451,2017,Dengue fever
-Nong Bua Lam Phu,72,14.08,0,0.0,511188,2017,Dengue fever
-Nong Khai,104,19.96,0,0.0,521125,2017,Dengue fever
-Sakon Nakhon,135,11.76,0,0.0,1147710,2017,Dengue fever
-Udon Thani,127,8.03,0,0.0,1580937,2017,Dengue fever
-ZONE:09,2429,35.93,0,0.0,6760383,2017,Dengue fever
-Buri Ram,232,14.59,0,0.0,1589900,2017,Dengue fever
-Chaiyaphum,263,23.09,0,0.0,1138778,2017,Dengue fever
-Nakhon Ratchasima,1026,38.93,0,0.0,2635331,2017,Dengue fever
-Surin,908,65.03,0,0.0,1396374,2017,Dengue fever
-ZONE:10,1481,32.16,0,0.0,4604905,2017,Dengue fever
-Amnat Charoen,83,21.98,0,0.0,377614,2017,Dengue fever
-Mukdahan,204,58.26,0,0.0,350128,2017,Dengue fever
-Si Sa Ket,525,35.69,0,0.0,1471185,2017,Dengue fever
-Ubon Ratchathani,528,28.29,0,0.0,1866299,2017,Dengue fever
-Yasothon,141,26.13,0,0.0,539679,2017,Dengue fever
-ZONE:11,4320,97.27,0,0.0,4441086,2017,Dengue fever
-Chumphon,299,58.79,0,0.0,508627,2017,Dengue fever
-Krabi,180,38.47,0,0.0,467851,2017,Dengue fever
-Nakhon Si Thammarat,2063,132.59,0,0.0,1555957,2017,Dengue fever
-Phangnga,399,149.7,0,0.0,266535,2017,Dengue fever
-Phuket,301,75.61,0,0.0,398092,2017,Dengue fever
-Ranong,166,87.47,0,0.0,189777,2017,Dengue fever
-Surat Thani,912,86.51,0,0.0,1054247,2017,Dengue fever
-ZONE:12,2471,50.13,0,0.0,4929285,2017,Dengue fever
-Narathiwat,369,46.53,0,0.0,792961,2017,Dengue fever
-Pattani,275,38.99,0,0.0,705379,2017,Dengue fever
-Phatthalung,413,78.77,0,0.0,524291,2017,Dengue fever
-Satun,40,12.55,0,0.0,318655,2017,Dengue fever
-Songkhla,1112,78.26,0,0.0,1420834,2017,Dengue fever
-Trang,102,15.88,0,0.0,642377,2017,Dengue fever
-Yala,160,30.49,0,0.0,524788,2017,Dengue fever
-ZONE:13,4645,81.71,0,0.0,5684531,2017,Dengue fever
-Bangkok,4645,81.71,0,0.0,5684531,2017,Dengue fever
+Total,29759,46.52,0,0.0,63977185,2011,Dengue fever
+Central Region,14221,65.6,0,0.0,21679246,2011,Dengue fever
+Zone:0,3200,56.26,0,0.0,5688119,2011,Dengue fever
+Bangkok,3200,56.26,0,0.0,5688119,2011,Dengue fever
+Zone:1,1353,38.5,0,0.0,3514250,2011,Dengue fever
+Nonthaburi,630,56.65,0,0.0,1112185,2011,Dengue fever
+P.Nakhon S.Ayutthaya,124,15.8,0,0.0,784875,2011,Dengue fever
+Pathum Thani,335,33.56,0,0.0,998271,2011,Dengue fever
+Saraburi,264,42.66,0,0.0,618919,2011,Dengue fever
+Zone:2,946,59.54,0,0.0,1588727,2011,Dengue fever
+Ang Thong,229,80.49,0,0.0,284516,2011,Dengue fever
+Chai Nat,202,60.46,0,0.0,334096,2011,Dengue fever
+Lop Buri,507,67.06,0,0.0,755991,2011,Dengue fever
+Sing Buri,8,3.74,0,0.0,214124,2011,Dengue fever
+Zone:3,2362,75.29,0,0.0,3137098,2011,Dengue fever
+Chachoengsao,533,78.77,0,0.0,676652,2011,Dengue fever
+Nakhon Nayok,173,68.3,0,0.0,253283,2011,Dengue fever
+Prachin Buri,563,120.27,0,0.0,468113,2011,Dengue fever
+Sa Kaeo,371,68.09,0,0.0,544848,2011,Dengue fever
+Samut Prakan,722,60.46,0,0.0,1194202,2011,Dengue fever
+Zone:4,2038,60.14,0,0.0,3388832,2011,Dengue fever
+Kanchanaburi,314,37.41,0,0.0,839345,2011,Dengue fever
+Nakhon Pathom,379,43.91,0,0.0,863155,2011,Dengue fever
+Ratchaburi,965,114.76,0,0.0,840880,2011,Dengue fever
+Suphan Buri,380,44.95,0,0.0,845452,2011,Dengue fever
+Zone:5,2169,130.23,0,0.0,1665473,2011,Dengue fever
+Phetchaburi,863,185.57,0,0.0,465056,2011,Dengue fever
+Prachuap Khiri Khan,404,79.08,0,0.0,510852,2011,Dengue fever
+Samut Sakhon,559,112.82,0,0.0,495493,2011,Dengue fever
+Samut Songkhram,343,176.74,0,0.0,194072,2011,Dengue fever
+Zone:9,2153,79.84,0,0.0,2696747,2011,Dengue fever
+Chanthaburi,480,93.07,0,0.0,515736,2011,Dengue fever
+Chon Buri,655,49.34,0,0.0,1327475,2011,Dengue fever
+Rayong,704,111.38,0,0.0,632069,2011,Dengue fever
+Trat,314,141.78,0,0.0,221467,2011,Dengue fever
+South Region,2652,29.69,0,0.0,8932459,2011,Dengue fever
+Zone:6,1159,32.82,0,0.0,3531913,2011,Dengue fever
+Chumphon,184,37.47,0,0.0,491073,2011,Dengue fever
+Nakhon Si Thammarat,406,26.63,0,0.0,1524317,2011,Dengue fever
+Phatthalung,290,56.83,0,0.0,510299,2011,Dengue fever
+Surat Thani,279,27.73,0,0.0,1006224,2011,Dengue fever
+Zone:7,557,30.16,0,0.0,1846999,2011,Dengue fever
+Krabi,289,66.38,0,0.0,435372,2011,Dengue fever
+Phangnga,98,38.58,0,0.0,254022,2011,Dengue fever
+Phuket,55,15.74,0,0.0,349457,2011,Dengue fever
+Ranong,47,25.62,0,0.0,183464,2011,Dengue fever
+Trang,68,10.89,0,0.0,624684,2011,Dengue fever
+Zone:8,936,26.34,0,0.0,3553547,2011,Dengue fever
+Narathiwat,173,23.31,0,0.0,742268,2011,Dengue fever
+Pattani,53,8.04,0,0.0,659373,2011,Dengue fever
+Satun,160,53.46,0,0.0,299315,2011,Dengue fever
+Songkhla,462,33.92,0,0.0,1362017,2011,Dengue fever
+Yala,88,17.94,0,0.0,490574,2011,Dengue fever
+North-Eastern Region,7277,33.72,0,0.0,21579612,2011,Dengue fever
+Zone:10,396,11.03,0,0.0,3588872,2011,Dengue fever
+Bungkan,37,18.15,0,0.0,203818,2011,Dengue fever
+Loei,199,31.87,0,0.0,624493,2011,Dengue fever
+Nong Bua Lam Phu,33,6.56,0,0.0,502710,2011,Dengue fever
+Nong Khai,88,12.37,0,0.0,711404,2011,Dengue fever
+Udon Thani,39,2.52,0,0.0,1546447,2011,Dengue fever
+Zone:11,221,10.2,0,0.0,2167288,2011,Dengue fever
+Mukdahan,54,15.88,0,0.0,340079,2011,Dengue fever
+Nakhon Phanom,110,15.62,0,0.0,704080,2011,Dengue fever
+Sakon Nakhon,57,5.08,0,0.0,1123129,2011,Dengue fever
+Zone:12,1490,29.82,0,0.0,4996659,2011,Dengue fever
+Kalasin,0,0.0,0,0.0,982117,2011,Dengue fever
+Khon Kaen,553,31.3,0,0.0,1766834,2011,Dengue fever
+Maha Sarakham,274,29.14,0,0.0,940324,2011,Dengue fever
+Roi Et,663,50.71,0,0.0,1307384,2011,Dengue fever
+Zone:13,2136,51.12,0,0.0,4178156,2011,Dengue fever
+Amnat Charoen,161,43.26,0,0.0,372190,2011,Dengue fever
+Si Sa Ket,1313,90.41,0,0.0,1452338,2011,Dengue fever
+Ubon Ratchathani,565,31.14,0,0.0,1814573,2011,Dengue fever
+Yasothon,97,17.99,0,0.0,539055,2011,Dengue fever
+Zone:14,3034,45.63,0,0.0,6648637,2011,Dengue fever
+Buri Ram,506,32.51,0,0.0,1556426,2011,Dengue fever
+Chaiyaphum,359,31.84,0,0.0,1127423,2011,Dengue fever
+Nakhon Ratchasima,830,32.12,0,0.0,2583707,2011,Dengue fever
+Surin,1339,96.95,0,0.0,1381081,2011,Dengue fever
+North Region,5609,47.59,0,0.0,11785868,2011,Dengue fever
+Zone:15,624,20.45,0,0.0,3050706,2011,Dengue fever
+Chiang Mai,302,18.38,0,0.0,1643312,2011,Dengue fever
+Lampang,156,20.53,0,0.0,759742,2011,Dengue fever
+Lamphun,56,13.85,0,0.0,404257,2011,Dengue fever
+Mae Hong Son,110,45.19,0,0.0,243395,2011,Dengue fever
+Zone:16,481,18.35,0,0.0,2621067,2011,Dengue fever
+Chiang Rai,313,26.12,0,0.0,1198438,2011,Dengue fever
+Nan,21,4.41,0,0.0,476488,2011,Dengue fever
+Phayao,83,17.06,0,0.0,486388,2011,Dengue fever
+Phrae,64,13.92,0,0.0,459753,2011,Dengue fever
+Zone:17,1826,53.15,0,0.0,3435767,2011,Dengue fever
+Phetchabun,453,45.6,0,0.0,993420,2011,Dengue fever
+Phitsanulok,546,64.2,0,0.0,850525,2011,Dengue fever
+Sukhothai,289,48.04,0,0.0,601642,2011,Dengue fever
+Tak,345,65.3,0,0.0,528351,2011,Dengue fever
+Uttaradit,193,41.79,0,0.0,461829,2011,Dengue fever
+Zone:18,2678,99.99,0,0.0,2678328,2011,Dengue fever
+Kamphaeng Phet,487,67.03,0,0.0,726551,2011,Dengue fever
+Nakhon Sawan,1132,105.54,0,0.0,1072591,2011,Dengue fever
+Phichit,958,173.81,0,0.0,551189,2011,Dengue fever
+Uthai Thani,101,30.79,0,0.0,327997,2011,Dengue fever
+Total,75919,114.9,9,0.01,66071545,2024,Dengue fever
+ZONE:01,14876,253.97,2,0.03,5857413,2024,Dengue fever
+Chiang Mai,2394,133.39,0,0.0,1794774,2024,Dengue fever
+Chiang Rai,6246,480.72,0,0.0,1299306,2024,Dengue fever
+Lampang,664,92.85,0,0.0,715133,2024,Dengue fever
+Lamphun,1400,350.88,0,0.0,398998,2024,Dengue fever
+Mae Hong Son,984,342.6,0,0.0,287215,2024,Dengue fever
+Nan,1740,367.38,2,0.42,473630,2024,Dengue fever
+Phayao,989,215.07,0,0.0,459858,2024,Dengue fever
+Phrae,459,107.12,0,0.0,428499,2024,Dengue fever
+ZONE:02,4194,119.06,1,0.03,3522489,2024,Dengue fever
+Phetchabun,1448,149.22,0,0.0,970403,2024,Dengue fever
+Phitsanulok,1144,135.69,1,0.12,843111,2024,Dengue fever
+Sukhothai,628,108.32,0,0.0,579759,2024,Dengue fever
+Tak,542,78.79,0,0.0,687927,2024,Dengue fever
+Uttaradit,432,97.9,0,0.0,441289,2024,Dengue fever
+ZONE:03,2466,85.14,0,0.0,2896463,2024,Dengue fever
+Chai Nat,314,98.97,0,0.0,317263,2024,Dengue fever
+Kamphaeng Phet,718,101.58,0,0.0,706861,2024,Dengue fever
+Nakhon Sawan,814,79.39,0,0.0,1025348,2024,Dengue fever
+Phichit,411,78.45,0,0.0,523925,2024,Dengue fever
+Uthai Thani,209,64.69,0,0.0,323066,2024,Dengue fever
+ZONE:04,3830,70.42,0,0.0,5438863,2024,Dengue fever
+Ang Thong,298,109.7,0,0.0,271656,2024,Dengue fever
+Lop Buri,683,93.24,0,0.0,732495,2024,Dengue fever
+Nakhon Nayok,168,64.55,0,0.0,260261,2024,Dengue fever
+Nonthaburi,807,61.98,0,0.0,1302004,2024,Dengue fever
+P.Nakhon S.Ayutthaya,526,64.05,0,0.0,821261,2024,Dengue fever
+Pathum Thani,871,71.96,0,0.0,1210365,2024,Dengue fever
+Saraburi,424,66.38,0,0.0,638704,2024,Dengue fever
+Sing Buri,53,26.22,0,0.0,202117,2024,Dengue fever
+ZONE:05,5184,97.32,1,0.02,5326695,2024,Dengue fever
+Kanchanaburi,539,60.24,1,0.11,894781,2024,Dengue fever
+Nakhon Pathom,701,75.93,0,0.0,923201,2024,Dengue fever
+Phetchaburi,1046,216.43,0,0.0,483305,2024,Dengue fever
+Prachuap Khiri Khan,330,59.77,0,0.0,552137,2024,Dengue fever
+Ratchaburi,811,93.73,0,0.0,865276,2024,Dengue fever
+Samut Sakhon,674,114.1,0,0.0,590730,2024,Dengue fever
+Samut Songkhram,154,81.6,0,0.0,188723,2024,Dengue fever
+Suphan Buri,929,112.12,0,0.0,828542,2024,Dengue fever
+ZONE:06,6551,104.11,0,0.0,6292163,2024,Dengue fever
+Chachoengsao,326,44.74,0,0.0,728615,2024,Dengue fever
+Chanthaburi,549,102.37,0,0.0,536290,2024,Dengue fever
+Chon Buri,2646,164.71,0,0.0,1606412,2024,Dengue fever
+Prachin Buri,271,54.34,0,0.0,498671,2024,Dengue fever
+Rayong,1067,139.42,0,0.0,765287,2024,Dengue fever
+Sa Kaeo,306,54.37,0,0.0,562860,2024,Dengue fever
+Samut Prakan,1154,84.44,0,0.0,1366598,2024,Dengue fever
+Trat,232,102.01,0,0.0,227430,2024,Dengue fever
+ZONE:07,2597,52.13,1,0.02,4981337,2024,Dengue fever
+Kalasin,531,54.74,0,0.0,970084,2024,Dengue fever
+Khon Kaen,1054,59.15,1,0.06,1782008,2024,Dengue fever
+Maha Sarakham,515,54.71,0,0.0,941261,2024,Dengue fever
+Roi Et,497,38.59,0,0.0,1287984,2024,Dengue fever
+ZONE:08,3875,70.45,0,0.0,5500012,2024,Dengue fever
+Bungkan,858,203.76,0,0.0,421086,2024,Dengue fever
+Loei,987,155.13,0,0.0,636242,2024,Dengue fever
+Nakhon Phanom,398,55.63,0,0.0,715466,2024,Dengue fever
+Nong Bua Lam Phu,471,92.79,0,0.0,507599,2024,Dengue fever
+Nong Khai,419,81.37,0,0.0,514909,2024,Dengue fever
+Sakon Nakhon,188,16.43,0,0.0,1143922,2024,Dengue fever
+Udon Thani,554,35.49,0,0.0,1560788,2024,Dengue fever
+ZONE:09,5886,87.99,1,0.01,6689028,2024,Dengue fever
+Buri Ram,1239,78.66,0,0.0,1575073,2024,Dengue fever
+Chaiyaphum,650,58.26,0,0.0,1115652,2024,Dengue fever
+Nakhon Ratchasima,3019,114.88,0,0.0,2627927,2024,Dengue fever
+Surin,978,71.37,1,0.07,1370376,2024,Dengue fever
+ZONE:10,5181,113.15,1,0.02,4578831,2024,Dengue fever
+Amnat Charoen,193,51.5,0,0.0,374760,2024,Dengue fever
+Mukdahan,301,85.61,0,0.0,351592,2024,Dengue fever
+Si Sa Ket,829,57.07,0,0.0,1452532,2024,Dengue fever
+Ubon Ratchathani,3568,190.83,1,0.05,1869708,2024,Dengue fever
+Yasothon,290,54.69,0,0.0,530239,2024,Dengue fever
+ZONE:11,8053,179.36,1,0.02,4489783,2024,Dengue fever
+Chumphon,425,83.48,0,0.0,509122,2024,Dengue fever
+Krabi,371,77.12,0,0.0,481089,2024,Dengue fever
+Nakhon Si Thammarat,1859,120.48,1,0.06,1543051,2024,Dengue fever
+Phangnga,327,122.36,0,0.0,267250,2024,Dengue fever
+Phuket,1589,377.66,0,0.0,420746,2024,Dengue fever
+Ranong,172,88.75,0,0.0,193799,2024,Dengue fever
+Surat Thani,3310,307.99,0,0.0,1074726,2024,Dengue fever
+ZONE:12,8999,179.43,1,0.02,5015209,2024,Dengue fever
+Narathiwat,771,94.41,0,0.0,816642,2024,Dengue fever
+Pattani,1573,214.01,0,0.0,735017,2024,Dengue fever
+Phatthalung,1458,279.79,1,0.19,521109,2024,Dengue fever
+Satun,154,47.33,0,0.0,325387,2024,Dengue fever
+Songkhla,3025,211.32,0,0.0,1431512,2024,Dengue fever
+Trang,941,147.58,0,0.0,637612,2024,Dengue fever
+Yala,1077,196.56,0,0.0,547930,2024,Dengue fever
+ZONE:13,4227,77.09,0,0.0,5483259,2024,Dengue fever
+Bangkok,4227,77.09,0,0.0,5483259,2024,Dengue fever
 Total,55076,83.07,6,0.01,66301242,2018,Dengue fever
 ZONE:01,5415,92.11,0,0.0,5878537,2018,Dengue fever
 Chiang Mai,1097,62.5,0,0.0,1755291,2018,Dengue fever
@@ -1556,6 +674,296 @@ Trang,207,32.19,0,0.0,643093,2018,Dengue fever
 Yala,332,62.66,0,0.0,529811,2018,Dengue fever
 ZONE:13,4681,82.42,0,0.0,5679532,2018,Dengue fever
 Bangkok,4681,82.42,0,0.0,5679532,2018,Dengue fever
+Total,23170,35.67,0,0.0,64955313,2014,Dengue fever
+ZONE:00,2122,37.3,0,0.0,5689268,2014,Dengue fever
+Bangkok,2122,37.3,0,0.0,5689268,2014,Dengue fever
+ZONE:01,2180,38.22,0,0.0,5704200,2014,Dengue fever
+Chiang Mai,614,36.71,0,0.0,1672586,2014,Dengue fever
+Chiang Rai,294,24.37,0,0.0,1206180,2014,Dengue fever
+Lampang,113,14.99,0,0.0,753937,2014,Dengue fever
+Lamphun,21,5.18,0,0.0,405368,2014,Dengue fever
+Mae Hong Son,426,172.22,0,0.0,247364,2014,Dengue fever
+Nan,401,83.88,0,0.0,478088,2014,Dengue fever
+Phayao,68,14.0,0,0.0,485599,2014,Dengue fever
+Phrae,243,53.4,0,0.0,455078,2014,Dengue fever
+ZONE:02,826,23.93,0,0.0,3452021,2014,Dengue fever
+Phetchabun,61,6.13,0,0.0,995102,2014,Dengue fever
+Phitsanulok,102,11.89,0,0.0,857682,2014,Dengue fever
+Sukhothai,180,29.87,0,0.0,602586,2014,Dengue fever
+Tak,392,73.14,0,0.0,535953,2014,Dengue fever
+Uttaradit,91,19.75,0,0.0,460698,2014,Dengue fever
+ZONE:03,1399,46.44,0,0.0,3012608,2014,Dengue fever
+Chai Nat,34,10.22,0,0.0,332526,2014,Dengue fever
+Kamphaeng Phet,539,73.93,0,0.0,729076,2014,Dengue fever
+Nakhon Sawan,410,38.21,0,0.0,1072949,2014,Dengue fever
+Phichit,279,50.89,0,0.0,548199,2014,Dengue fever
+Uthai Thani,137,41.53,0,0.0,329858,2014,Dengue fever
+ZONE:04,1346,26.03,0,0.0,5171756,2014,Dengue fever
+Ang Thong,88,31.02,0,0.0,283650,2014,Dengue fever
+Lop Buri,428,56.45,0,0.0,758188,2014,Dengue fever
+Nakhon Nayok,55,21.43,0,0.0,256693,2014,Dengue fever
+Nonthaburi,189,16.22,0,0.0,1165070,2014,Dengue fever
+P.Nakhon S.Ayutthaya,139,17.36,0,0.0,800785,2014,Dengue fever
+Pathum Thani,173,16.27,0,0.0,1063608,2014,Dengue fever
+Saraburi,267,42.29,0,0.0,631338,2014,Dengue fever
+Sing Buri,7,3.3,0,0.0,212424,2014,Dengue fever
+ZONE:05,2299,44.66,0,0.0,5147569,2014,Dengue fever
+Kanchanaburi,104,12.3,0,0.0,845540,2014,Dengue fever
+Nakhon Pathom,392,44.21,0,0.0,886627,2014,Dengue fever
+Phetchaburi,397,84.0,0,0.0,472640,2014,Dengue fever
+Prachuap Khiri Khan,169,32.33,0,0.0,522689,2014,Dengue fever
+Ratchaburi,694,81.49,0,0.0,851689,2014,Dengue fever
+Samut Sakhon,277,52.69,0,0.0,525672,2014,Dengue fever
+Samut Songkhram,126,64.9,0,0.0,194153,2014,Dengue fever
+Suphan Buri,140,16.5,0,0.0,848559,2014,Dengue fever
+ZONE:06,2533,43.69,0,0.0,5797595,2014,Dengue fever
+Chachoengsao,143,20.64,0,0.0,692852,2014,Dengue fever
+Chanthaburi,716,136.17,0,0.0,525805,2014,Dengue fever
+Chon Buri,249,17.71,0,0.0,1405889,2014,Dengue fever
+Prachin Buri,306,64.05,0,0.0,477741,2014,Dengue fever
+Rayong,457,68.43,0,0.0,667806,2014,Dengue fever
+Sa Kaeo,147,26.65,0,0.0,551562,2014,Dengue fever
+Samut Prakan,390,31.16,0,0.0,1251570,2014,Dengue fever
+Trat,125,55.71,0,0.0,224370,2014,Dengue fever
+ZONE:07,1102,21.88,0,0.0,5037074,2014,Dengue fever
+Kalasin,271,27.53,0,0.0,984468,2014,Dengue fever
+Khon Kaen,277,15.51,0,0.0,1785852,2014,Dengue fever
+Maha Sarakham,252,26.3,0,0.0,958116,2014,Dengue fever
+Roi Et,302,23.08,0,0.0,1308638,2014,Dengue fever
+ZONE:08,617,11.24,0,0.0,5490561,2014,Dengue fever
+Bungkan,126,30.19,0,0.0,417401,2014,Dengue fever
+Loei,80,12.63,0,0.0,633359,2014,Dengue fever
+Nakhon Phanom,95,13.34,0,0.0,712101,2014,Dengue fever
+Nong Bua Lam Phu,61,12.01,0,0.0,508001,2014,Dengue fever
+Nong Khai,166,32.16,0,0.0,516101,2014,Dengue fever
+Sakon Nakhon,62,5.46,0,0.0,1136466,2014,Dengue fever
+Udon Thani,27,1.72,0,0.0,1567132,2014,Dengue fever
+ZONE:09,1487,22.13,0,0.0,6717984,2014,Dengue fever
+Buri Ram,220,13.96,0,0.0,1576343,2014,Dengue fever
+Chaiyaphum,386,33.97,0,0.0,1136386,2014,Dengue fever
+Nakhon Ratchasima,447,17.09,0,0.0,2615340,2014,Dengue fever
+Surin,434,31.22,0,0.0,1389915,2014,Dengue fever
+ZONE:10,1023,22.41,0,0.0,4564711,2014,Dengue fever
+Amnat Charoen,112,29.86,0,0.0,375039,2014,Dengue fever
+Mukdahan,57,16.51,0,0.0,345159,2014,Dengue fever
+Si Sa Ket,404,27.6,0,0.0,1463620,2014,Dengue fever
+Ubon Ratchathani,316,17.17,0,0.0,1840596,2014,Dengue fever
+Yasothon,134,24.8,0,0.0,540297,2014,Dengue fever
+ZONE:11,4020,92.53,0,0.0,4344513,2014,Dengue fever
+Chumphon,419,83.89,0,0.0,499435,2014,Dengue fever
+Krabi,386,85.05,0,0.0,453850,2014,Dengue fever
+Nakhon Si Thammarat,2121,137.29,0,0.0,1544936,2014,Dengue fever
+Phangnga,90,34.56,0,0.0,260395,2014,Dengue fever
+Phuket,271,72.47,0,0.0,373943,2014,Dengue fever
+Ranong,125,71.05,0,0.0,175933,2014,Dengue fever
+Surat Thani,608,58.69,0,0.0,1036021,2014,Dengue fever
+ZONE:12,2216,45.92,0,0.0,4825453,2014,Dengue fever
+Narathiwat,415,53.86,0,0.0,770472,2014,Dengue fever
+Pattani,390,57.14,0,0.0,682512,2014,Dengue fever
+Phatthalung,523,100.73,0,0.0,519220,2014,Dengue fever
+Satun,116,37.27,0,0.0,311233,2014,Dengue fever
+Songkhla,381,27.3,0,0.0,1395596,2014,Dengue fever
+Trang,66,10.35,0,0.0,637395,2014,Dengue fever
+Yala,325,63.85,0,0.0,509025,2014,Dengue fever
+Total,15070,24.23,1,0.0,62195878,2005,Dengue fever
+North Region,2455,20.69,0,0.0,11862916,2005,Dengue fever
+Zone:1,1112,19.41,0,0.0,5729312,2005,Dengue fever
+Chiang Mai,399,24.32,0,0.0,1640390,2005,Dengue fever
+Chiang Rai,66,5.41,0,0.0,1219732,2005,Dengue fever
+Lampang,105,13.5,0,0.0,777827,2005,Dengue fever
+Lamphun,166,41.01,0,0.0,404754,2005,Dengue fever
+Mae Hong Son,104,41.82,0,0.0,248672,2005,Dengue fever
+Nan,37,7.74,0,0.0,477917,2005,Dengue fever
+Phayao,43,8.82,0,0.0,487616,2005,Dengue fever
+Phrae,192,40.64,0,0.0,472404,2005,Dengue fever
+Zone:2,530,15.4,0,0.0,3442642,2005,Dengue fever
+Phetchabun,168,16.77,0,0.0,1001820,2005,Dengue fever
+Phitsanulok,121,14.38,0,0.0,841248,2005,Dengue fever
+Sukhothai,98,16.04,0,0.0,610871,2005,Dengue fever
+Tak,70,13.49,0,0.0,519037,2005,Dengue fever
+Uttaradit,73,15.54,0,0.0,469666,2005,Dengue fever
+Zone:3,813,30.21,0,0.0,2690962,2005,Dengue fever
+Kamphaeng Phet,88,12.1,0,0.0,727351,2005,Dengue fever
+Nakhon Sawan,422,39.16,0,0.0,1077634,2005,Dengue fever
+Phichit,142,25.37,0,0.0,559611,2005,Dengue fever
+Uthai Thani,161,49.33,0,0.0,326366,2005,Dengue fever
+Central Region,5078,24.7,1,0.0,20560399,2005,Dengue fever
+Bangkok,397,7.03,0,0.0,5646543,2005,Dengue fever
+Zone:4,424,15.27,0,0.0,2777019,2005,Dengue fever
+Ang Thong,49,17.29,0,0.0,283373,2005,Dengue fever
+Nonthaburi,154,16.09,0,0.0,957287,2005,Dengue fever
+P.Nakhon S.Ayutthaya,81,10.89,0,0.0,743659,2005,Dengue fever
+Pathum Thani,140,17.66,0,0.0,792700,2005,Dengue fever
+Zone:5,504,26.4,0,0.0,1909368,2005,Dengue fever
+Chai Nat,92,26.99,0,0.0,340812,2005,Dengue fever
+Lop Buri,317,42.23,0,0.0,750718,2005,Dengue fever
+Saraburi,86,14.36,0,0.0,598905,2005,Dengue fever
+Sing Buri,9,4.11,0,0.0,218933,2005,Dengue fever
+Zone:6,952,29.0,0,0.0,3282327,2005,Dengue fever
+Kanchanaburi,187,22.85,0,0.0,818218,2005,Dengue fever
+Nakhon Pathom,164,20.41,0,0.0,803489,2005,Dengue fever
+Ratchaburi,510,62.25,0,0.0,819286,2005,Dengue fever
+Suphan Buri,91,10.82,0,0.0,841334,2005,Dengue fever
+Zone:7,909,57.6,0,0.0,1578246,2005,Dengue fever
+Phetchaburi,187,41.33,0,0.0,452506,2005,Dengue fever
+Prachuap Khiri Khan,298,61.67,0,0.0,483243,2005,Dengue fever
+Samut Sakhon,359,80.25,0,0.0,447353,2005,Dengue fever
+Samut Songkhram,65,33.31,0,0.0,195144,2005,Dengue fever
+Zone:8,1121,38.09,1,0.03,2943051,2005,Dengue fever
+Chachoengsao,93,14.41,0,0.0,645521,2005,Dengue fever
+Nakhon Nayok,233,93.32,0,0.0,249686,2005,Dengue fever
+Prachin Buri,436,97.37,1,0.22,447783,2005,Dengue fever
+Sa Kaeo,193,35.97,0,0.0,536591,2005,Dengue fever
+Samut Prakan,166,15.61,0,0.0,1063470,2005,Dengue fever
+Zone:9,771,31.81,0,0.0,2423845,2005,Dengue fever
+Chanthaburi,328,66.12,0,0.0,496081,2005,Dengue fever
+Chon Buri,3,0.26,0,0.0,1157709,2005,Dengue fever
+Rayong,369,66.91,0,0.0,551512,2005,Dengue fever
+Trat,71,32.49,0,0.0,218543,2005,Dengue fever
+North-Eastern Region,2680,12.58,0,0.0,21297778,2005,Dengue fever
+Zone:10,339,9.62,0,0.0,3524138,2005,Dengue fever
+Loei,163,26.66,0,0.0,611448,2005,Dengue fever
+Nong Bua Lam Phu,31,6.25,0,0.0,495626,2005,Dengue fever
+Nong Khai,76,8.48,0,0.0,895911,2005,Dengue fever
+Udon Thani,69,4.54,0,0.0,1521153,2005,Dengue fever
+Zone:11,419,13.51,0,0.0,3101003,2005,Dengue fever
+Kalasin,147,15.12,0,0.0,972425,2005,Dengue fever
+Mukdahan,87,26.1,0,0.0,333338,2005,Dengue fever
+Nakhon Phanom,25,3.61,0,0.0,692377,2005,Dengue fever
+Sakon Nakhon,160,14.51,0,0.0,1102863,2005,Dengue fever
+Zone:12,616,15.43,0,0.0,3991075,2005,Dengue fever
+Khon Kaen,297,17.02,0,0.0,1744646,2005,Dengue fever
+Maha Sarakham,81,8.65,0,0.0,935967,2005,Dengue fever
+Roi Et,238,18.16,0,0.0,1310462,2005,Dengue fever
+Zone:13,863,13.15,0,0.0,6560991,2005,Dengue fever
+Buri Ram,146,9.56,0,0.0,1527846,2005,Dengue fever
+Chaiyaphum,212,18.98,0,0.0,1117026,2005,Dengue fever
+Nakhon Ratchasima,264,10.38,0,0.0,2543054,2005,Dengue fever
+Surin,241,17.55,0,0.0,1373065,2005,Dengue fever
+Zone:14,443,10.75,0,0.0,4120571,2005,Dengue fever
+Amnat Charoen,65,17.66,0,0.0,368153,2005,Dengue fever
+Si Sa Ket,112,7.77,0,0.0,1442190,2005,Dengue fever
+Ubon Ratchathani,225,12.72,0,0.0,1768935,2005,Dengue fever
+Yasothon,41,7.57,0,0.0,541293,2005,Dengue fever
+South Region,4857,57.31,0,0.0,8474785,2005,Dengue fever
+Zone:15,1016,63.74,0,0.0,1593965,2005,Dengue fever
+Chumphon,187,39.46,0,0.0,473916,2005,Dengue fever
+Ranong,157,88.58,0,0.0,177247,2005,Dengue fever
+Surat Thani,672,71.28,0,0.0,942802,2005,Dengue fever
+Zone:16,2790,107.27,0,0.0,2600847,2005,Dengue fever
+Nakhon Si Thammarat,2186,145.5,0,0.0,1502382,2005,Dengue fever
+Phatthalung,247,49.46,0,0.0,499399,2005,Dengue fever
+Trang,357,59.59,0,0.0,599066,2005,Dengue fever
+Zone:17,383,41.58,0,0.0,921037,2005,Dengue fever
+Krabi,218,55.65,0,0.0,391709,2005,Dengue fever
+Phangnga,123,51.2,0,0.0,240254,2005,Dengue fever
+Phuket,42,14.53,0,0.0,289074,2005,Dengue fever
+Zone:18,224,12.51,0,0.0,1791264,2005,Dengue fever
+Narathiwat,78,11.19,0,0.0,697150,2005,Dengue fever
+Pattani,44,6.96,0,0.0,632119,2005,Dengue fever
+Yala,102,22.08,0,0.0,461995,2005,Dengue fever
+Zone:19,444,28.32,0,0.0,1567672,2005,Dengue fever
+Satun,173,62.75,0,0.0,275706,2005,Dengue fever
+Songkhla,271,20.98,0,0.0,1291966,2005,Dengue fever
+Total,36645,57.97,1,0.0,63214022,2008,Dengue fever
+Central Region,15276,71.97,0,0.0,21226352,2008,Dengue fever
+Bangkok,1757,30.75,0,0.0,5713566,2008,Dengue fever
+Zone:1,2073,62.16,0,0.0,3335057,2008,Dengue fever
+Nonthaburi,912,87.83,0,0.0,1038392,2008,Dengue fever
+P.Nakhon S.Ayutthaya,170,22.22,0,0.0,764919,2008,Dengue fever
+Pathum Thani,639,69.99,0,0.0,913047,2008,Dengue fever
+Saraburi,352,56.89,0,0.0,618699,2008,Dengue fever
+Zone:2,1153,72.58,0,0.0,1588582,2008,Dengue fever
+Ang Thong,405,142.3,0,0.0,284619,2008,Dengue fever
+Chai Nat,274,81.41,0,0.0,336550,2008,Dengue fever
+Lop Buri,445,59.19,0,0.0,751811,2008,Dengue fever
+Sing Buri,29,13.45,0,0.0,215602,2008,Dengue fever
+Zone:3,2666,87.52,0,0.0,3046070,2008,Dengue fever
+Chachoengsao,367,55.45,0,0.0,661898,2008,Dengue fever
+Nakhon Nayok,187,74.91,0,0.0,249625,2008,Dengue fever
+Prachin Buri,647,141.52,0,0.0,457184,2008,Dengue fever
+Sa Kaeo,480,88.84,0,0.0,540281,2008,Dengue fever
+Samut Prakan,985,86.63,0,0.0,1137082,2008,Dengue fever
+Zone:4,3707,110.57,0,0.0,3352570,2008,Dengue fever
+Kanchanaburi,517,61.69,0,0.0,838094,2008,Dengue fever
+Nakhon Pathom,881,105.22,0,0.0,837285,2008,Dengue fever
+Ratchaburi,2045,245.31,0,0.0,833650,2008,Dengue fever
+Suphan Buri,264,31.3,0,0.0,843541,2008,Dengue fever
+Zone:5,1599,98.51,0,0.0,1623176,2008,Dengue fever
+Phetchaburi,338,73.88,0,0.0,457518,2008,Dengue fever
+Prachuap Khiri Khan,501,100.71,0,0.0,497483,2008,Dengue fever
+Samut Sakhon,703,148.3,0,0.0,474041,2008,Dengue fever
+Samut Songkhram,57,29.36,0,0.0,194134,2008,Dengue fever
+Zone:9,2321,90.41,0,0.0,2567331,2008,Dengue fever
+Chanthaburi,663,131.02,0,0.0,506012,2008,Dengue fever
+Chon Buri,570,45.63,0,0.0,1249067,2008,Dengue fever
+Rayong,846,143.13,0,0.0,591067,2008,Dengue fever
+Trat,242,109.41,0,0.0,221185,2008,Dengue fever
+South Region,5681,65.31,0,0.0,8698196,2008,Dengue fever
+Zone:6,2597,74.76,0,0.0,3473895,2008,Dengue fever
+Chumphon,489,101.24,0,0.0,483011,2008,Dengue fever
+Nakhon Si Thammarat,1238,81.98,0,0.0,1510081,2008,Dengue fever
+Phatthalung,357,70.85,0,0.0,503847,2008,Dengue fever
+Surat Thani,513,52.51,0,0.0,976956,2008,Dengue fever
+Zone:7,1058,59.48,0,0.0,1778692,2008,Dengue fever
+Krabi,585,141.08,0,0.0,414670,2008,Dengue fever
+Phangnga,75,30.19,0,0.0,248411,2008,Dengue fever
+Phuket,171,53.23,0,0.0,321252,2008,Dengue fever
+Ranong,85,46.77,0,0.0,181758,2008,Dengue fever
+Trang,142,23.18,0,0.0,612601,2008,Dengue fever
+Zone:8,2026,58.8,0,0.0,3445609,2008,Dengue fever
+Narathiwat,277,38.7,0,0.0,715724,2008,Dengue fever
+Pattani,237,37.03,0,0.0,639988,2008,Dengue fever
+Satun,341,119.05,0,0.0,286446,2008,Dengue fever
+Songkhla,822,61.79,0,0.0,1330342,2008,Dengue fever
+Yala,349,73.77,0,0.0,473109,2008,Dengue fever
+North-Eastern Region,5741,26.81,0,0.0,21414180,2008,Dengue fever
+Zone:10,302,8.5,0,0.0,3553449,2008,Dengue fever
+Loei,151,24.47,0,0.0,616981,2008,Dengue fever
+Nong Bua Lam Phu,53,10.63,0,0.0,498562,2008,Dengue fever
+Nong Khai,47,5.19,0,0.0,904748,2008,Dengue fever
+Udon Thani,51,3.33,0,0.0,1533158,2008,Dengue fever
+Zone:11,230,10.7,0,0.0,2149587,2008,Dengue fever
+Mukdahan,71,21.08,0,0.0,336802,2008,Dengue fever
+Nakhon Phanom,49,7.02,0,0.0,698235,2008,Dengue fever
+Sakon Nakhon,110,9.87,0,0.0,1114550,2008,Dengue fever
+Zone:12,1510,30.34,0,0.0,4976635,2008,Dengue fever
+Kalasin,242,24.74,0,0.0,978046,2008,Dengue fever
+Khon Kaen,299,17.04,0,0.0,1754258,2008,Dengue fever
+Maha Sarakham,306,32.68,0,0.0,936430,2008,Dengue fever
+Roi Et,663,50.69,0,0.0,1307901,2008,Dengue fever
+Zone:13,1235,29.82,0,0.0,4141403,2008,Dengue fever
+Amnat Charoen,188,50.92,0,0.0,369196,2008,Dengue fever
+Si Sa Ket,853,59.15,0,0.0,1442212,2008,Dengue fever
+Ubon Ratchathani,137,7.65,0,0.0,1790581,2008,Dengue fever
+Yasothon,57,10.57,0,0.0,539414,2008,Dengue fever
+Zone:14,2464,37.37,0,0.0,6593106,2008,Dengue fever
+Buri Ram,554,36.0,0,0.0,1538861,2008,Dengue fever
+Chaiyaphum,449,40.05,0,0.0,1121123,2008,Dengue fever
+Nakhon Ratchasima,610,23.84,0,0.0,2559006,2008,Dengue fever
+Surin,851,61.93,0,0.0,1374116,2008,Dengue fever
+North Region,9947,83.76,1,0.01,11875294,2008,Dengue fever
+Zone:15,3697,119.44,0,0.0,3095362,2008,Dengue fever
+Chiang Mai,2330,139.74,0,0.0,1667358,2008,Dengue fever
+Lampang,900,117.02,0,0.0,769115,2008,Dengue fever
+Lamphun,229,56.52,0,0.0,405141,2008,Dengue fever
+Mae Hong Son,238,93.79,0,0.0,253748,2008,Dengue fever
+Zone:16,1202,45.28,0,0.0,2654508,2008,Dengue fever
+Chiang Rai,398,32.46,0,0.0,1226165,2008,Dengue fever
+Nan,185,38.81,0,0.0,476683,2008,Dengue fever
+Phayao,155,31.83,0,0.0,486983,2008,Dengue fever
+Phrae,464,99.85,0,0.0,464677,2008,Dengue fever
+Zone:17,2948,85.61,1,0.03,3443651,2008,Dengue fever
+Phetchabun,632,63.4,0,0.0,996882,2008,Dengue fever
+Phitsanulok,872,103.46,0,0.0,842840,2008,Dengue fever
+Sukhothai,246,40.69,1,0.17,604559,2008,Dengue fever
+Tak,544,101.75,0,0.0,534629,2008,Dengue fever
+Uttaradit,654,140.72,0,0.0,464741,2008,Dengue fever
+Zone:18,2100,78.31,0,0.0,2681773,2008,Dengue fever
+Kamphaeng Phet,476,65.56,0,0.0,726104,2008,Dengue fever
+Nakhon Sawan,983,91.53,0,0.0,1073962,2008,Dengue fever
+Phichit,417,75.21,0,0.0,554426,2008,Dengue fever
+Uthai Thani,224,68.44,0,0.0,327281,2008,Dengue fever
 Total,87866,132.16,8,0.01,66486458,2019,Dengue fever
 ZONE:01,9974,169.28,3,0.05,5891985,2019,Dengue fever
 Chiang Mai,2962,167.2,3,0.17,1771499,2019,Dengue fever
@@ -1647,6 +1055,288 @@ Trang,290,45.09,0,0.0,643140,2019,Dengue fever
 Yala,914,171.06,0,0.0,534328,2019,Dengue fever
 ZONE:13,8590,151.46,1,0.02,5671457,2019,Dengue fever
 Bangkok,8590,151.46,1,0.02,5671457,2019,Dengue fever
+Total,17062,27.25,0,0.0,62623416,2006,Dengue fever
+North Region,3192,26.85,0,0.0,11887142,2006,Dengue fever
+Zone:1,1374,23.9,0,0.0,5748673,2006,Dengue fever
+Chiang Mai,447,27.02,0,0.0,1654154,2006,Dengue fever
+Chiang Rai,72,5.88,0,0.0,1225386,2006,Dengue fever
+Lampang,125,16.12,0,0.0,775259,2006,Dengue fever
+Lamphun,175,43.19,0,0.0,405146,2006,Dengue fever
+Mae Hong Son,51,20.05,0,0.0,254392,2006,Dengue fever
+Nan,64,13.39,0,0.0,477871,2006,Dengue fever
+Phayao,14,2.88,0,0.0,486554,2006,Dengue fever
+Phrae,426,90.66,0,0.0,469911,2006,Dengue fever
+Zone:2,959,27.81,0,0.0,3448091,2006,Dengue fever
+Phetchabun,195,19.45,0,0.0,1002388,2006,Dengue fever
+Phitsanulok,151,17.92,0,0.0,842739,2006,Dengue fever
+Sukhothai,106,17.39,0,0.0,609591,2006,Dengue fever
+Tak,390,74.29,0,0.0,524938,2006,Dengue fever
+Uttaradit,117,24.98,0,0.0,468435,2006,Dengue fever
+Zone:3,859,31.93,0,0.0,2690378,2006,Dengue fever
+Kamphaeng Phet,221,30.34,0,0.0,728293,2006,Dengue fever
+Nakhon Sawan,405,37.61,0,0.0,1076911,2006,Dengue fever
+Phichit,89,15.94,0,0.0,558314,2006,Dengue fever
+Uthai Thani,144,44.06,0,0.0,326860,2006,Dengue fever
+Central Region,5486,26.34,0,0.0,20825142,2006,Dengue fever
+Bangkok,996,17.54,0,0.0,5677455,2006,Dengue fever
+Zone:4,777,27.18,0,0.0,2858658,2006,Dengue fever
+Ang Thong,158,55.66,0,0.0,283861,2006,Dengue fever
+Nonthaburi,364,36.93,0,0.0,985669,2006,Dengue fever
+P.Nakhon S.Ayutthaya,126,16.78,0,0.0,750757,2006,Dengue fever
+Pathum Thani,129,15.39,0,0.0,838371,2006,Dengue fever
+Zone:5,445,23.24,0,0.0,1915186,2006,Dengue fever
+Chai Nat,67,19.73,0,0.0,339568,2006,Dengue fever
+Lop Buri,275,36.55,0,0.0,752364,2006,Dengue fever
+Saraburi,84,13.86,0,0.0,605897,2006,Dengue fever
+Sing Buri,19,8.74,0,0.0,217357,2006,Dengue fever
+Zone:6,1247,37.61,0,0.0,3315213,2006,Dengue fever
+Kanchanaburi,144,17.34,0,0.0,830309,2006,Dengue fever
+Nakhon Pathom,305,37.4,0,0.0,815433,2006,Dengue fever
+Ratchaburi,610,73.83,0,0.0,826212,2006,Dengue fever
+Suphan Buri,188,22.29,0,0.0,843259,2006,Dengue fever
+Zone:7,342,21.4,0,0.0,1598232,2006,Dengue fever
+Phetchaburi,0,0.0,0,0.0,455332,2006,Dengue fever
+Prachuap Khiri Khan,159,32.41,0,0.0,490607,2006,Dengue fever
+Samut Sakhon,155,33.9,0,0.0,457264,2006,Dengue fever
+Samut Songkhram,28,14.36,0,0.0,195029,2006,Dengue fever
+Zone:8,844,28.29,0,0.0,2983258,2006,Dengue fever
+Chachoengsao,43,6.61,0,0.0,650909,2006,Dengue fever
+Nakhon Nayok,132,52.72,0,0.0,250392,2006,Dengue fever
+Prachin Buri,222,49.15,0,0.0,451721,2006,Dengue fever
+Sa Kaeo,152,28.27,0,0.0,537661,2006,Dengue fever
+Samut Prakan,295,27.0,0,0.0,1092575,2006,Dengue fever
+Zone:9,835,33.71,0,0.0,2477140,2006,Dengue fever
+Chanthaburi,378,75.56,0,0.0,500275,2006,Dengue fever
+Chon Buri,1,0.08,0,0.0,1190861,2006,Dengue fever
+Rayong,414,73.09,0,0.0,566461,2006,Dengue fever
+Trat,42,19.13,0,0.0,219543,2006,Dengue fever
+North-Eastern Region,6423,30.08,0,0.0,21352480,2006,Dengue fever
+Zone:10,373,10.56,0,0.0,3533061,2006,Dengue fever
+Loei,182,29.7,0,0.0,612863,2006,Dengue fever
+Nong Bua Lam Phu,51,10.27,0,0.0,496675,2006,Dengue fever
+Nong Khai,60,6.68,0,0.0,897840,2006,Dengue fever
+Udon Thani,80,5.24,0,0.0,1525683,2006,Dengue fever
+Zone:11,933,30.0,0,0.0,3110390,2006,Dengue fever
+Kalasin,235,24.11,0,0.0,974560,2006,Dengue fever
+Mukdahan,92,27.48,0,0.0,334781,2006,Dengue fever
+Nakhon Phanom,90,12.96,0,0.0,694473,2006,Dengue fever
+Sakon Nakhon,516,46.63,0,0.0,1106576,2006,Dengue fever
+Zone:12,1377,34.45,0,0.0,3996666,2006,Dengue fever
+Khon Kaen,705,40.31,0,0.0,1749021,2006,Dengue fever
+Maha Sarakham,101,10.78,0,0.0,937285,2006,Dengue fever
+Roi Et,571,43.58,0,0.0,1310360,2006,Dengue fever
+Zone:13,2793,42.46,0,0.0,6578271,2006,Dengue fever
+Buri Ram,398,25.94,0,0.0,1534076,2006,Dengue fever
+Chaiyaphum,266,23.79,0,0.0,1118040,2006,Dengue fever
+Nakhon Ratchasima,664,26.03,0,0.0,2551176,2006,Dengue fever
+Surin,1465,106.55,0,0.0,1374979,2006,Dengue fever
+Zone:14,947,22.91,0,0.0,4134092,2006,Dengue fever
+Amnat Charoen,127,34.43,0,0.0,368863,2006,Dengue fever
+Si Sa Ket,622,43.04,0,0.0,1445230,2006,Dengue fever
+Ubon Ratchathani,164,9.22,0,0.0,1778922,2006,Dengue fever
+Yasothon,34,6.28,0,0.0,541077,2006,Dengue fever
+South Region,1961,22.91,0,0.0,8558652,2006,Dengue fever
+Zone:15,745,46.26,0,0.0,1610374,2006,Dengue fever
+Chumphon,244,51.11,0,0.0,477364,2006,Dengue fever
+Ranong,89,49.72,0,0.0,178986,2006,Dengue fever
+Surat Thani,412,43.19,0,0.0,954024,2006,Dengue fever
+Zone:16,414,15.84,0,0.0,2614100,2006,Dengue fever
+Nakhon Si Thammarat,301,19.97,0,0.0,1507440,2006,Dengue fever
+Phatthalung,75,14.94,0,0.0,501912,2006,Dengue fever
+Trang,38,6.28,0,0.0,604748,2006,Dengue fever
+Zone:17,253,26.93,0,0.0,939424,2006,Dengue fever
+Krabi,70,17.52,0,0.0,399514,2006,Dengue fever
+Phangnga,147,60.39,0,0.0,243419,2006,Dengue fever
+Phuket,36,12.14,0,0.0,296491,2006,Dengue fever
+Zone:18,242,13.41,0,0.0,1805088,2006,Dengue fever
+Narathiwat,55,7.81,0,0.0,703848,2006,Dengue fever
+Pattani,91,14.33,0,0.0,635053,2006,Dengue fever
+Yala,96,20.59,0,0.0,466187,2006,Dengue fever
+Zone:19,307,19.31,0,0.0,1589666,2006,Dengue fever
+Satun,14,5.01,0,0.0,279705,2006,Dengue fever
+Songkhla,293,22.37,0,0.0,1309961,2006,Dengue fever
+Total,31843,48.2,4,0.01,66060027,2017,Dengue fever
+ZONE:01,4361,74.37,0,0.0,5864232,2017,Dengue fever
+Chiang Mai,1510,86.72,0,0.0,1741301,2017,Dengue fever
+Chiang Rai,1604,124.82,0,0.0,1285080,2017,Dengue fever
+Lampang,264,35.31,0,0.0,747699,2017,Dengue fever
+Lamphun,196,48.28,0,0.0,405959,2017,Dengue fever
+Mae Hong Son,384,138.39,0,0.0,277486,2017,Dengue fever
+Nan,304,63.35,0,0.0,479877,2017,Dengue fever
+Phayao,61,12.76,0,0.0,478144,2017,Dengue fever
+Phrae,38,8.47,0,0.0,448686,2017,Dengue fever
+ZONE:02,1874,52.69,2,0.06,3556376,2017,Dengue fever
+Phetchabun,229,23.01,0,0.0,995277,2017,Dengue fever
+Phitsanulok,388,44.83,0,0.0,865564,2017,Dengue fever
+Sukhothai,148,24.68,0,0.0,599775,2017,Dengue fever
+Tak,899,140.88,1,0.16,638115,2017,Dengue fever
+Uttaradit,210,45.89,1,0.22,457645,2017,Dengue fever
+ZONE:03,1351,45.06,0,0.0,2998104,2017,Dengue fever
+Chai Nat,116,35.14,0,0.0,330077,2017,Dengue fever
+Kamphaeng Phet,383,52.51,0,0.0,729337,2017,Dengue fever
+Nakhon Sawan,380,35.65,0,0.0,1065895,2017,Dengue fever
+Phichit,391,72.05,0,0.0,542674,2017,Dengue fever
+Uthai Thani,81,24.54,0,0.0,330121,2017,Dengue fever
+ZONE:04,1382,26.06,1,0.02,5302492,2017,Dengue fever
+Ang Thong,155,55.0,0,0.0,281796,2017,Dengue fever
+Lop Buri,169,22.32,0,0.0,757296,2017,Dengue fever
+Nakhon Nayok,28,10.82,0,0.0,258850,2017,Dengue fever
+Nonthaburi,474,38.83,0,0.0,1220829,2017,Dengue fever
+P.Nakhon S.Ayutthaya,204,25.12,0,0.0,812086,2017,Dengue fever
+Pathum Thani,189,16.87,1,0.09,1120246,2017,Dengue fever
+Saraburi,156,24.33,0,0.0,641052,2017,Dengue fever
+Sing Buri,7,3.33,0,0.0,210337,2017,Dengue fever
+ZONE:05,2801,52.89,0,0.0,5295696,2017,Dengue fever
+Kanchanaburi,77,8.69,0,0.0,886546,2017,Dengue fever
+Nakhon Pathom,530,58.35,0,0.0,908249,2017,Dengue fever
+Phetchaburi,671,139.35,0,0.0,481514,2017,Dengue fever
+Prachuap Khiri Khan,199,36.73,0,0.0,541756,2017,Dengue fever
+Ratchaburi,390,44.79,0,0.0,870769,2017,Dengue fever
+Samut Sakhon,501,89.05,0,0.0,562592,2017,Dengue fever
+Samut Songkhram,118,60.83,0,0.0,193985,2017,Dengue fever
+Suphan Buri,315,37.05,0,0.0,850285,2017,Dengue fever
+ZONE:06,2654,44.08,1,0.02,6020790,2017,Dengue fever
+Chachoengsao,332,46.95,1,0.14,707145,2017,Dengue fever
+Chanthaburi,266,49.86,0,0.0,533463,2017,Dengue fever
+Chon Buri,509,34.02,0,0.0,1496086,2017,Dengue fever
+Prachin Buri,372,76.51,0,0.0,486187,2017,Dengue fever
+Rayong,347,49.17,0,0.0,705729,2017,Dengue fever
+Sa Kaeo,332,59.24,0,0.0,560478,2017,Dengue fever
+Samut Prakan,427,32.79,0,0.0,1302160,2017,Dengue fever
+Trat,69,30.06,0,0.0,229542,2017,Dengue fever
+ZONE:07,1289,25.47,0,0.0,5060674,2017,Dengue fever
+Kalasin,444,45.05,0,0.0,985619,2017,Dengue fever
+Khon Kaen,202,11.2,0,0.0,1803831,2017,Dengue fever
+Maha Sarakham,253,26.26,0,0.0,963277,2017,Dengue fever
+Roi Et,390,29.82,0,0.0,1307947,2017,Dengue fever
+ZONE:08,785,14.17,0,0.0,5541473,2017,Dengue fever
+Bungkan,2,0.47,0,0.0,422328,2017,Dengue fever
+Loei,251,39.17,0,0.0,640734,2017,Dengue fever
+Nakhon Phanom,94,13.1,0,0.0,717451,2017,Dengue fever
+Nong Bua Lam Phu,72,14.08,0,0.0,511188,2017,Dengue fever
+Nong Khai,104,19.96,0,0.0,521125,2017,Dengue fever
+Sakon Nakhon,135,11.76,0,0.0,1147710,2017,Dengue fever
+Udon Thani,127,8.03,0,0.0,1580937,2017,Dengue fever
+ZONE:09,2429,35.93,0,0.0,6760383,2017,Dengue fever
+Buri Ram,232,14.59,0,0.0,1589900,2017,Dengue fever
+Chaiyaphum,263,23.09,0,0.0,1138778,2017,Dengue fever
+Nakhon Ratchasima,1026,38.93,0,0.0,2635331,2017,Dengue fever
+Surin,908,65.03,0,0.0,1396374,2017,Dengue fever
+ZONE:10,1481,32.16,0,0.0,4604905,2017,Dengue fever
+Amnat Charoen,83,21.98,0,0.0,377614,2017,Dengue fever
+Mukdahan,204,58.26,0,0.0,350128,2017,Dengue fever
+Si Sa Ket,525,35.69,0,0.0,1471185,2017,Dengue fever
+Ubon Ratchathani,528,28.29,0,0.0,1866299,2017,Dengue fever
+Yasothon,141,26.13,0,0.0,539679,2017,Dengue fever
+ZONE:11,4320,97.27,0,0.0,4441086,2017,Dengue fever
+Chumphon,299,58.79,0,0.0,508627,2017,Dengue fever
+Krabi,180,38.47,0,0.0,467851,2017,Dengue fever
+Nakhon Si Thammarat,2063,132.59,0,0.0,1555957,2017,Dengue fever
+Phangnga,399,149.7,0,0.0,266535,2017,Dengue fever
+Phuket,301,75.61,0,0.0,398092,2017,Dengue fever
+Ranong,166,87.47,0,0.0,189777,2017,Dengue fever
+Surat Thani,912,86.51,0,0.0,1054247,2017,Dengue fever
+ZONE:12,2471,50.13,0,0.0,4929285,2017,Dengue fever
+Narathiwat,369,46.53,0,0.0,792961,2017,Dengue fever
+Pattani,275,38.99,0,0.0,705379,2017,Dengue fever
+Phatthalung,413,78.77,0,0.0,524291,2017,Dengue fever
+Satun,40,12.55,0,0.0,318655,2017,Dengue fever
+Songkhla,1112,78.26,0,0.0,1420834,2017,Dengue fever
+Trang,102,15.88,0,0.0,642377,2017,Dengue fever
+Yala,160,30.49,0,0.0,524788,2017,Dengue fever
+ZONE:13,4645,81.71,0,0.0,5684531,2017,Dengue fever
+Bangkok,4645,81.71,0,0.0,5684531,2017,Dengue fever
+Total,86653,133.06,9,0.01,65124716,2015,Dengue fever
+ZONE:00,12738,223.78,0,0.0,5692284,2015,Dengue fever
+Bangkok,12738,223.78,0,0.0,5692284,2015,Dengue fever
+ZONE:01,10168,178.09,0,0.0,5709443,2015,Dengue fever
+Chiang Mai,4622,275.4,0,0.0,1678284,2015,Dengue fever
+Chiang Rai,1461,120.97,0,0.0,1207699,2015,Dengue fever
+Lampang,1123,149.13,0,0.0,753013,2015,Dengue fever
+Lamphun,615,151.68,0,0.0,405468,2015,Dengue fever
+Mae Hong Son,541,217.99,0,0.0,248178,2015,Dengue fever
+Nan,404,84.47,0,0.0,478264,2015,Dengue fever
+Phayao,250,51.6,0,0.0,484454,2015,Dengue fever
+Phrae,1152,253.7,0,0.0,454083,2015,Dengue fever
+ZONE:02,3178,91.92,0,0.0,3457208,2015,Dengue fever
+Phetchabun,321,32.24,0,0.0,995807,2015,Dengue fever
+Phitsanulok,836,97.32,0,0.0,858988,2015,Dengue fever
+Sukhothai,349,57.93,0,0.0,602460,2015,Dengue fever
+Tak,1409,261.14,0,0.0,539553,2015,Dengue fever
+Uttaradit,263,57.12,0,0.0,460400,2015,Dengue fever
+ZONE:03,5139,170.6,1,0.03,3012283,2015,Dengue fever
+Chai Nat,395,118.87,0,0.0,332283,2015,Dengue fever
+Kamphaeng Phet,527,72.24,1,0.14,729522,2015,Dengue fever
+Nakhon Sawan,2422,225.77,0,0.0,1072756,2015,Dengue fever
+Phichit,587,107.21,0,0.0,547543,2015,Dengue fever
+Uthai Thani,1208,365.86,0,0.0,330179,2015,Dengue fever
+ZONE:04,5806,111.73,0,0.0,5196419,2015,Dengue fever
+Ang Thong,781,275.42,0,0.0,283568,2015,Dengue fever
+Lop Buri,1580,208.33,0,0.0,758406,2015,Dengue fever
+Nakhon Nayok,359,139.53,0,0.0,257300,2015,Dengue fever
+Nonthaburi,1081,92.09,0,0.0,1173870,2015,Dengue fever
+P.Nakhon S.Ayutthaya,751,93.45,0,0.0,803599,2015,Dengue fever
+Pathum Thani,616,57.35,0,0.0,1074058,2015,Dengue fever
+Saraburi,617,97.4,0,0.0,633460,2015,Dengue fever
+Sing Buri,21,9.9,0,0.0,212158,2015,Dengue fever
+ZONE:05,9821,190.07,3,0.06,5166914,2015,Dengue fever
+Kanchanaburi,786,92.67,1,0.12,848198,2015,Dengue fever
+Nakhon Pathom,1563,175.41,0,0.0,891071,2015,Dengue fever
+Phetchaburi,1754,369.89,0,0.0,474192,2015,Dengue fever
+Prachuap Khiri Khan,819,155.97,0,0.0,525107,2015,Dengue fever
+Ratchaburi,2992,350.67,1,0.12,853217,2015,Dengue fever
+Samut Sakhon,847,159.24,1,0.19,531887,2015,Dengue fever
+Samut Songkhram,540,278.08,0,0.0,194189,2015,Dengue fever
+Suphan Buri,520,61.24,0,0.0,849053,2015,Dengue fever
+ZONE:06,12073,206.86,3,0.05,5836407,2015,Dengue fever
+Chachoengsao,1712,246.16,3,0.43,695478,2015,Dengue fever
+Chanthaburi,1610,305.3,0,0.0,527350,2015,Dengue fever
+Chon Buri,2005,141.06,0,0.0,1421425,2015,Dengue fever
+Prachin Buri,1614,336.73,0,0.0,479314,2015,Dengue fever
+Rayong,2145,318.06,0,0.0,674393,2015,Dengue fever
+Sa Kaeo,860,155.74,0,0.0,552187,2015,Dengue fever
+Samut Prakan,1452,115.1,0,0.0,1261530,2015,Dengue fever
+Trat,675,300.36,0,0.0,224730,2015,Dengue fever
+ZONE:07,4090,81.09,1,0.02,5043862,2015,Dengue fever
+Kalasin,1060,107.62,0,0.0,984907,2015,Dengue fever
+Khon Kaen,1115,62.29,0,0.0,1790049,2015,Dengue fever
+Maha Sarakham,697,72.56,1,0.1,960588,2015,Dengue fever
+Roi Et,1218,93.1,0,0.0,1308318,2015,Dengue fever
+ZONE:08,2497,45.39,0,0.0,5501453,2015,Dengue fever
+Bungkan,236,56.38,0,0.0,418566,2015,Dengue fever
+Loei,751,118.36,0,0.0,634513,2015,Dengue fever
+Nakhon Phanom,589,82.57,0,0.0,713341,2015,Dengue fever
+Nong Bua Lam Phu,102,20.04,0,0.0,508864,2015,Dengue fever
+Nong Khai,166,32.09,0,0.0,517260,2015,Dengue fever
+Sakon Nakhon,547,48.04,0,0.0,1138609,2015,Dengue fever
+Udon Thani,106,6.75,0,0.0,1570300,2015,Dengue fever
+ZONE:09,8592,127.7,0,0.0,6728450,2015,Dengue fever
+Buri Ram,876,55.47,0,0.0,1579248,2015,Dengue fever
+Chaiyaphum,1773,155.93,0,0.0,1137049,2015,Dengue fever
+Nakhon Ratchasima,3933,150.08,0,0.0,2620517,2015,Dengue fever
+Surin,2010,144.43,0,0.0,1391636,2015,Dengue fever
+ZONE:10,6753,147.72,0,0.0,4571489,2015,Dengue fever
+Amnat Charoen,437,116.42,0,0.0,375380,2015,Dengue fever
+Mukdahan,260,75.14,0,0.0,346016,2015,Dengue fever
+Si Sa Ket,2468,168.44,0,0.0,1465213,2015,Dengue fever
+Ubon Ratchathani,2922,158.4,0,0.0,1844669,2015,Dengue fever
+Yasothon,666,123.29,0,0.0,540211,2015,Dengue fever
+ZONE:11,3970,91.0,0,0.0,4362467,2015,Dengue fever
+Chumphon,496,99.09,0,0.0,500575,2015,Dengue fever
+Krabi,552,120.84,0,0.0,456811,2015,Dengue fever
+Nakhon Si Thammarat,1412,91.21,0,0.0,1548028,2015,Dengue fever
+Phangnga,478,182.88,0,0.0,261370,2015,Dengue fever
+Phuket,323,85.37,0,0.0,378364,2015,Dengue fever
+Ranong,238,134.4,0,0.0,177089,2015,Dengue fever
+Surat Thani,471,45.28,0,0.0,1040230,2015,Dengue fever
+ZONE:12,1828,37.72,1,0.02,4846037,2015,Dengue fever
+Narathiwat,317,40.91,0,0.0,774799,2015,Dengue fever
+Pattani,147,21.42,1,0.15,686186,2015,Dengue fever
+Phatthalung,347,66.68,0,0.0,520419,2015,Dengue fever
+Satun,89,28.46,0,0.0,312673,2015,Dengue fever
+Songkhla,774,55.23,0,0.0,1401303,2015,Dengue fever
+Trang,57,8.92,0,0.0,638746,2015,Dengue fever
+Yala,97,18.95,0,0.0,511911,2015,Dengue fever
 Total,50911,76.7,6,0.01,66372831,2020,Dengue fever
 ZONE:01,7145,121.37,0,0.0,5886870,2020,Dengue fever
 Chiang Mai,2737,153.61,0,0.0,1781812,2020,Dengue fever
@@ -1829,97 +1519,6 @@ Trang,32,5.0,0,0.0,640182,2021,Dengue fever
 Yala,25,4.63,0,0.0,540458,2021,Dengue fever
 ZONE:13,1287,23.16,0,0.0,5558108,2021,Dengue fever
 Bangkok,1287,23.16,0,0.0,5558108,2021,Dengue fever
-Total,34467,52.09,1,0.0,66171439,2022,Dengue fever
-ZONE:01,8463,144.06,0,0.0,5874503,2022,Dengue fever
-Chiang Mai,1571,87.8,0,0.0,1789385,2022,Dengue fever
-Chiang Rai,345,26.57,0,0.0,1298425,2022,Dengue fever
-Lampang,346,47.75,0,0.0,724678,2022,Dengue fever
-Lamphun,45,11.22,0,0.0,401139,2022,Dengue fever
-Mae Hong Son,5638,1971.91,0,0.0,285916,2022,Dengue fever
-Nan,357,75.02,0,0.0,475875,2022,Dengue fever
-Phayao,75,16.15,0,0.0,464505,2022,Dengue fever
-Phrae,86,19.79,0,0.0,434580,2022,Dengue fever
-ZONE:02,2120,59.99,0,0.0,3533839,2022,Dengue fever
-Phetchabun,156,15.94,0,0.0,978372,2022,Dengue fever
-Phitsanulok,395,46.61,0,0.0,847384,2022,Dengue fever
-Sukhothai,246,42.03,0,0.0,585352,2022,Dengue fever
-Tak,1139,168.35,0,0.0,676583,2022,Dengue fever
-Uttaradit,184,41.24,0,0.0,446148,2022,Dengue fever
-ZONE:03,1002,34.29,0,0.0,2922114,2022,Dengue fever
-Chai Nat,130,40.57,0,0.0,320432,2022,Dengue fever
-Kamphaeng Phet,207,29.07,0,0.0,712143,2022,Dengue fever
-Nakhon Sawan,484,46.76,0,0.0,1035028,2022,Dengue fever
-Phichit,92,17.38,0,0.0,529395,2022,Dengue fever
-Uthai Thani,89,27.37,0,0.0,325116,2022,Dengue fever
-ZONE:04,1583,29.19,0,0.0,5422367,2022,Dengue fever
-Ang Thong,41,14.92,0,0.0,274763,2022,Dengue fever
-Lop Buri,94,12.71,0,0.0,739473,2022,Dengue fever
-Nakhon Nayok,29,11.14,0,0.0,260433,2022,Dengue fever
-Nonthaburi,461,35.77,0,0.0,1288637,2022,Dengue fever
-P.Nakhon S.Ayutthaya,174,21.21,0,0.0,820512,2022,Dengue fever
-Pathum Thani,660,55.46,0,0.0,1190060,2022,Dengue fever
-Saraburi,104,16.15,0,0.0,643963,2022,Dengue fever
-Sing Buri,20,9.78,0,0.0,204526,2022,Dengue fever
-ZONE:05,3409,63.92,0,0.0,5333543,2022,Dengue fever
-Kanchanaburi,159,17.78,0,0.0,894054,2022,Dengue fever
-Nakhon Pathom,867,94.02,0,0.0,922171,2022,Dengue fever
-Phetchaburi,387,80.14,0,0.0,482875,2022,Dengue fever
-Prachuap Khiri Khan,133,24.04,0,0.0,553171,2022,Dengue fever
-Ratchaburi,662,76.24,0,0.0,868281,2022,Dengue fever
-Samut Sakhon,701,119.46,0,0.0,586789,2022,Dengue fever
-Samut Songkhram,93,48.73,0,0.0,190842,2022,Dengue fever
-Suphan Buri,407,48.72,0,0.0,835360,2022,Dengue fever
-ZONE:06,3910,62.68,1,0.02,6237892,2022,Dengue fever
-Chachoengsao,63,8.7,0,0.0,724178,2022,Dengue fever
-Chanthaburi,207,38.58,0,0.0,536557,2022,Dengue fever
-Chon Buri,1782,112.52,0,0.0,1583672,2022,Dengue fever
-Prachin Buri,46,9.29,0,0.0,495325,2022,Dengue fever
-Rayong,606,80.66,0,0.0,751343,2022,Dengue fever
-Sa Kaeo,117,20.82,1,0.18,561992,2022,Dengue fever
-Samut Prakan,1021,75.27,0,0.0,1356449,2022,Dengue fever
-Trat,68,29.78,0,0.0,228376,2022,Dengue fever
-ZONE:07,1391,27.76,0,0.0,5010756,2022,Dengue fever
-Kalasin,200,20.5,0,0.0,975570,2022,Dengue fever
-Khon Kaen,342,19.1,0,0.0,1790863,2022,Dengue fever
-Maha Sarakham,365,38.49,0,0.0,948310,2022,Dengue fever
-Roi Et,484,37.35,0,0.0,1296013,2022,Dengue fever
-ZONE:08,903,16.37,0,0.0,5516407,2022,Dengue fever
-Bungkan,13,3.08,0,0.0,421995,2022,Dengue fever
-Loei,185,28.96,0,0.0,638732,2022,Dengue fever
-Nakhon Phanom,206,28.73,0,0.0,717040,2022,Dengue fever
-Nong Bua Lam Phu,29,5.7,0,0.0,509001,2022,Dengue fever
-Nong Khai,161,31.15,0,0.0,516843,2022,Dengue fever
-Sakon Nakhon,90,7.85,0,0.0,1146286,2022,Dengue fever
-Udon Thani,219,13.98,0,0.0,1566510,2022,Dengue fever
-ZONE:09,1442,21.48,0,0.0,6712454,2022,Dengue fever
-Buri Ram,68,4.3,0,0.0,1579805,2022,Dengue fever
-Chaiyaphum,266,23.7,0,0.0,1122265,2022,Dengue fever
-Nakhon Ratchasima,581,22.06,0,0.0,2634154,2022,Dengue fever
-Surin,527,38.29,0,0.0,1376230,2022,Dengue fever
-ZONE:10,1873,40.83,0,0.0,4587303,2022,Dengue fever
-Amnat Charoen,1,0.27,0,0.0,376350,2022,Dengue fever
-Mukdahan,106,30.16,0,0.0,351484,2022,Dengue fever
-Si Sa Ket,717,49.19,0,0.0,1457556,2022,Dengue fever
-Ubon Ratchathani,948,50.74,0,0.0,1868519,2022,Dengue fever
-Yasothon,101,18.94,0,0.0,533394,2022,Dengue fever
-ZONE:11,1395,31.06,0,0.0,4492012,2022,Dengue fever
-Chumphon,179,35.13,0,0.0,509479,2022,Dengue fever
-Krabi,195,40.68,0,0.0,479351,2022,Dengue fever
-Nakhon Si Thammarat,190,12.26,0,0.0,1549344,2022,Dengue fever
-Phangnga,246,91.79,0,0.0,268016,2022,Dengue fever
-Phuket,276,65.9,0,0.0,418785,2022,Dengue fever
-Ranong,146,75.04,0,0.0,194573,2022,Dengue fever
-Surat Thani,163,15.2,0,0.0,1072464,2022,Dengue fever
-ZONE:12,1446,28.92,0,0.0,5000255,2022,Dengue fever
-Narathiwat,355,43.85,0,0.0,809660,2022,Dengue fever
-Pattani,164,22.48,0,0.0,729581,2022,Dengue fever
-Phatthalung,131,25.07,0,0.0,522541,2022,Dengue fever
-Satun,75,23.09,0,0.0,324835,2022,Dengue fever
-Songkhla,413,28.85,0,0.0,1431536,2022,Dengue fever
-Trang,186,29.07,0,0.0,639788,2022,Dengue fever
-Yala,122,22.5,0,0.0,542314,2022,Dengue fever
-ZONE:13,5530,100.04,0,0.0,5527994,2022,Dengue fever
-Bangkok,5530,100.04,0,0.0,5527994,2022,Dengue fever
 Total,121079,183.09,15,0.02,66130957,2023,Dengue fever
 ZONE:01,19946,339.84,5,0.09,5869190,2023,Dengue fever
 Chiang Mai,4698,262.32,2,0.11,1790929,2023,Dengue fever
@@ -2011,94 +1610,495 @@ Trang,783,122.54,1,0.16,638997,2023,Dengue fever
 Yala,1487,273.29,0,0.0,544114,2023,Dengue fever
 ZONE:13,10861,197.06,2,0.04,5511463,2023,Dengue fever
 Bangkok,10861,197.06,2,0.04,5511463,2023,Dengue fever
-Total,75919,114.9,9,0.01,66071545,2024,Dengue fever
-ZONE:01,14876,253.97,2,0.03,5857413,2024,Dengue fever
-Chiang Mai,2394,133.39,0,0.0,1794774,2024,Dengue fever
-Chiang Rai,6246,480.72,0,0.0,1299306,2024,Dengue fever
-Lampang,664,92.85,0,0.0,715133,2024,Dengue fever
-Lamphun,1400,350.88,0,0.0,398998,2024,Dengue fever
-Mae Hong Son,984,342.6,0,0.0,287215,2024,Dengue fever
-Nan,1740,367.38,2,0.42,473630,2024,Dengue fever
-Phayao,989,215.07,0,0.0,459858,2024,Dengue fever
-Phrae,459,107.12,0,0.0,428499,2024,Dengue fever
-ZONE:02,4194,119.06,1,0.03,3522489,2024,Dengue fever
-Phetchabun,1448,149.22,0,0.0,970403,2024,Dengue fever
-Phitsanulok,1144,135.69,1,0.12,843111,2024,Dengue fever
-Sukhothai,628,108.32,0,0.0,579759,2024,Dengue fever
-Tak,542,78.79,0,0.0,687927,2024,Dengue fever
-Uttaradit,432,97.9,0,0.0,441289,2024,Dengue fever
-ZONE:03,2466,85.14,0,0.0,2896463,2024,Dengue fever
-Chai Nat,314,98.97,0,0.0,317263,2024,Dengue fever
-Kamphaeng Phet,718,101.58,0,0.0,706861,2024,Dengue fever
-Nakhon Sawan,814,79.39,0,0.0,1025348,2024,Dengue fever
-Phichit,411,78.45,0,0.0,523925,2024,Dengue fever
-Uthai Thani,209,64.69,0,0.0,323066,2024,Dengue fever
-ZONE:04,3830,70.42,0,0.0,5438863,2024,Dengue fever
-Ang Thong,298,109.7,0,0.0,271656,2024,Dengue fever
-Lop Buri,683,93.24,0,0.0,732495,2024,Dengue fever
-Nakhon Nayok,168,64.55,0,0.0,260261,2024,Dengue fever
-Nonthaburi,807,61.98,0,0.0,1302004,2024,Dengue fever
-P.Nakhon S.Ayutthaya,526,64.05,0,0.0,821261,2024,Dengue fever
-Pathum Thani,871,71.96,0,0.0,1210365,2024,Dengue fever
-Saraburi,424,66.38,0,0.0,638704,2024,Dengue fever
-Sing Buri,53,26.22,0,0.0,202117,2024,Dengue fever
-ZONE:05,5184,97.32,1,0.02,5326695,2024,Dengue fever
-Kanchanaburi,539,60.24,1,0.11,894781,2024,Dengue fever
-Nakhon Pathom,701,75.93,0,0.0,923201,2024,Dengue fever
-Phetchaburi,1046,216.43,0,0.0,483305,2024,Dengue fever
-Prachuap Khiri Khan,330,59.77,0,0.0,552137,2024,Dengue fever
-Ratchaburi,811,93.73,0,0.0,865276,2024,Dengue fever
-Samut Sakhon,674,114.1,0,0.0,590730,2024,Dengue fever
-Samut Songkhram,154,81.6,0,0.0,188723,2024,Dengue fever
-Suphan Buri,929,112.12,0,0.0,828542,2024,Dengue fever
-ZONE:06,6551,104.11,0,0.0,6292163,2024,Dengue fever
-Chachoengsao,326,44.74,0,0.0,728615,2024,Dengue fever
-Chanthaburi,549,102.37,0,0.0,536290,2024,Dengue fever
-Chon Buri,2646,164.71,0,0.0,1606412,2024,Dengue fever
-Prachin Buri,271,54.34,0,0.0,498671,2024,Dengue fever
-Rayong,1067,139.42,0,0.0,765287,2024,Dengue fever
-Sa Kaeo,306,54.37,0,0.0,562860,2024,Dengue fever
-Samut Prakan,1154,84.44,0,0.0,1366598,2024,Dengue fever
-Trat,232,102.01,0,0.0,227430,2024,Dengue fever
-ZONE:07,2597,52.13,1,0.02,4981337,2024,Dengue fever
-Kalasin,531,54.74,0,0.0,970084,2024,Dengue fever
-Khon Kaen,1054,59.15,1,0.06,1782008,2024,Dengue fever
-Maha Sarakham,515,54.71,0,0.0,941261,2024,Dengue fever
-Roi Et,497,38.59,0,0.0,1287984,2024,Dengue fever
-ZONE:08,3875,70.45,0,0.0,5500012,2024,Dengue fever
-Bungkan,858,203.76,0,0.0,421086,2024,Dengue fever
-Loei,987,155.13,0,0.0,636242,2024,Dengue fever
-Nakhon Phanom,398,55.63,0,0.0,715466,2024,Dengue fever
-Nong Bua Lam Phu,471,92.79,0,0.0,507599,2024,Dengue fever
-Nong Khai,419,81.37,0,0.0,514909,2024,Dengue fever
-Sakon Nakhon,188,16.43,0,0.0,1143922,2024,Dengue fever
-Udon Thani,554,35.49,0,0.0,1560788,2024,Dengue fever
-ZONE:09,5886,87.99,1,0.01,6689028,2024,Dengue fever
-Buri Ram,1239,78.66,0,0.0,1575073,2024,Dengue fever
-Chaiyaphum,650,58.26,0,0.0,1115652,2024,Dengue fever
-Nakhon Ratchasima,3019,114.88,0,0.0,2627927,2024,Dengue fever
-Surin,978,71.37,1,0.07,1370376,2024,Dengue fever
-ZONE:10,5181,113.15,1,0.02,4578831,2024,Dengue fever
-Amnat Charoen,193,51.5,0,0.0,374760,2024,Dengue fever
-Mukdahan,301,85.61,0,0.0,351592,2024,Dengue fever
-Si Sa Ket,829,57.07,0,0.0,1452532,2024,Dengue fever
-Ubon Ratchathani,3568,190.83,1,0.05,1869708,2024,Dengue fever
-Yasothon,290,54.69,0,0.0,530239,2024,Dengue fever
-ZONE:11,8053,179.36,1,0.02,4489783,2024,Dengue fever
-Chumphon,425,83.48,0,0.0,509122,2024,Dengue fever
-Krabi,371,77.12,0,0.0,481089,2024,Dengue fever
-Nakhon Si Thammarat,1859,120.48,1,0.06,1543051,2024,Dengue fever
-Phangnga,327,122.36,0,0.0,267250,2024,Dengue fever
-Phuket,1589,377.66,0,0.0,420746,2024,Dengue fever
-Ranong,172,88.75,0,0.0,193799,2024,Dengue fever
-Surat Thani,3310,307.99,0,0.0,1074726,2024,Dengue fever
-ZONE:12,8999,179.43,1,0.02,5015209,2024,Dengue fever
-Narathiwat,771,94.41,0,0.0,816642,2024,Dengue fever
-Pattani,1573,214.01,0,0.0,735017,2024,Dengue fever
-Phatthalung,1458,279.79,1,0.19,521109,2024,Dengue fever
-Satun,154,47.33,0,0.0,325387,2024,Dengue fever
-Songkhla,3025,211.32,0,0.0,1431512,2024,Dengue fever
-Trang,941,147.58,0,0.0,637612,2024,Dengue fever
-Yala,1077,196.56,0,0.0,547930,2024,Dengue fever
-ZONE:13,4227,77.09,0,0.0,5483259,2024,Dengue fever
-Bangkok,4227,77.09,0,0.0,5483259,2024,Dengue fever
+Total,87502,136.56,6,0.01,64076033,2013,Dengue fever
+Central Region,17302,79.6,1,0.0,21734984,2013,Dengue fever
+Zone:0,6074,107.03,0,0.0,5674843,2013,Dengue fever
+Bangkok,6074,107.03,0,0.0,5674843,2013,Dengue fever
+Zone:1,1852,52.29,0,0.0,3541632,2013,Dengue fever
+Nonthaburi,654,58.26,0,0.0,1122627,2013,Dengue fever
+P.Nakhon S.Ayutthaya,226,28.69,0,0.0,787653,2013,Dengue fever
+Pathum Thani,466,46.1,0,0.0,1010898,2013,Dengue fever
+Saraburi,506,81.55,0,0.0,620454,2013,Dengue fever
+Zone:2,864,54.44,0,0.0,1587031,2013,Dengue fever
+Ang Thong,143,50.34,0,0.0,284061,2013,Dengue fever
+Chai Nat,205,61.51,0,0.0,333256,2013,Dengue fever
+Lop Buri,498,65.86,0,0.0,756127,2013,Dengue fever
+Sing Buri,18,8.43,0,0.0,213587,2013,Dengue fever
+Zone:3,2351,74.6,0,0.0,3151672,2013,Dengue fever
+Chachoengsao,295,43.42,0,0.0,679370,2013,Dengue fever
+Nakhon Nayok,265,104.4,0,0.0,253831,2013,Dengue fever
+Prachin Buri,620,132.01,0,0.0,469652,2013,Dengue fever
+Sa Kaeo,371,68.0,0,0.0,545596,2013,Dengue fever
+Samut Prakan,800,66.49,0,0.0,1203223,2013,Dengue fever
+Zone:4,1818,53.59,0,0.0,3392715,2013,Dengue fever
+Kanchanaburi,208,24.79,0,0.0,838914,2013,Dengue fever
+Nakhon Pathom,475,54.85,0,0.0,866064,2013,Dengue fever
+Ratchaburi,848,100.63,0,0.0,842684,2013,Dengue fever
+Suphan Buri,287,33.96,0,0.0,845053,2013,Dengue fever
+Zone:5,1438,86.01,0,0.0,1671831,2013,Dengue fever
+Phetchaburi,489,104.92,0,0.0,466079,2013,Dengue fever
+Prachuap Khiri Khan,240,46.82,0,0.0,512568,2013,Dengue fever
+Samut Sakhon,509,101.98,0,0.0,499098,2013,Dengue fever
+Samut Songkhram,200,103.05,0,0.0,194086,2013,Dengue fever
+Zone:9,2905,106.99,1,0.04,2715260,2013,Dengue fever
+Chanthaburi,831,160.78,0,0.0,516855,2013,Dengue fever
+Chon Buri,614,45.87,0,0.0,1338656,2013,Dengue fever
+Rayong,956,149.91,0,0.0,637736,2013,Dengue fever
+Trat,504,227.01,1,0.45,222013,2013,Dengue fever
+South Region,11901,132.65,0,0.0,8971855,2013,Dengue fever
+Zone:6,5068,143.11,0,0.0,3541380,2013,Dengue fever
+Chumphon,852,173.11,0,0.0,492182,2013,Dengue fever
+Nakhon Si Thammarat,1940,127.12,0,0.0,1526071,2013,Dengue fever
+Phatthalung,910,178.06,0,0.0,511063,2013,Dengue fever
+Surat Thani,1366,134.97,0,0.0,1012064,2013,Dengue fever
+Zone:7,3264,175.73,0,0.0,1857374,2013,Dengue fever
+Krabi,654,149.3,0,0.0,438039,2013,Dengue fever
+Phangnga,614,240.85,0,0.0,254931,2013,Dengue fever
+Phuket,1435,405.54,0,0.0,353847,2013,Dengue fever
+Ranong,208,113.14,0,0.0,183849,2013,Dengue fever
+Trang,353,56.33,0,0.0,626708,2013,Dengue fever
+Zone:8,3569,99.89,0,0.0,3573101,2013,Dengue fever
+Narathiwat,538,71.99,0,0.0,747372,2013,Dengue fever
+Pattani,402,60.59,0,0.0,663485,2013,Dengue fever
+Satun,245,81.27,0,0.0,301467,2013,Dengue fever
+Songkhla,2036,148.94,0,0.0,1367010,2013,Dengue fever
+Yala,348,70.48,0,0.0,493767,2013,Dengue fever
+North-Eastern Region,25955,120.24,4,0.02,21585883,2013,Dengue fever
+Zone:10,4129,114.92,4,0.11,3593082,2013,Dengue fever
+Bungkan,611,149.89,0,0.0,407634,2013,Dengue fever
+Loei,1927,308.36,4,0.64,624920,2013,Dengue fever
+Nong Bua Lam Phu,422,83.97,0,0.0,502551,2013,Dengue fever
+Nong Khai,665,130.43,0,0.0,509870,2013,Dengue fever
+Udon Thani,504,32.56,0,0.0,1548107,2013,Dengue fever
+Zone:11,2430,112.05,0,0.0,2168700,2013,Dengue fever
+Mukdahan,652,191.44,0,0.0,340581,2013,Dengue fever
+Nakhon Phanom,1235,175.23,0,0.0,704768,2013,Dengue fever
+Sakon Nakhon,543,48.34,0,0.0,1123351,2013,Dengue fever
+Zone:12,6253,125.25,0,0.0,4992515,2013,Dengue fever
+Kalasin,706,71.92,0,0.0,981655,2013,Dengue fever
+Khon Kaen,1677,94.96,0,0.0,1766066,2013,Dengue fever
+Maha Sarakham,1706,181.54,0,0.0,939736,2013,Dengue fever
+Roi Et,2164,165.82,0,0.0,1305058,2013,Dengue fever
+Zone:13,5848,139.93,0,0.0,4179354,2013,Dengue fever
+Amnat Charoen,378,101.55,0,0.0,372241,2013,Dengue fever
+Si Sa Ket,3205,220.7,0,0.0,1452203,2013,Dengue fever
+Ubon Ratchathani,1797,98.95,0,0.0,1816057,2013,Dengue fever
+Yasothon,468,86.85,0,0.0,538853,2013,Dengue fever
+Zone:14,7295,109.66,0,0.0,6652232,2013,Dengue fever
+Buri Ram,936,60.04,0,0.0,1559085,2013,Dengue fever
+Chaiyaphum,678,60.14,0,0.0,1127423,2013,Dengue fever
+Nakhon Ratchasima,2894,111.94,0,0.0,2585325,2013,Dengue fever
+Surin,2787,201.9,0,0.0,1380399,2013,Dengue fever
+North Region,32344,274.49,1,0.01,11783311,2013,Dengue fever
+Zone:15,13650,447.29,0,0.0,3051678,2013,Dengue fever
+Chiang Mai,8713,529.3,0,0.0,1646144,2013,Dengue fever
+Lampang,2547,336.22,0,0.0,757534,2013,Dengue fever
+Lamphun,917,227.01,0,0.0,403952,2013,Dengue fever
+Mae Hong Son,1473,603.57,0,0.0,244048,2013,Dengue fever
+Zone:16,12761,486.97,1,0.04,2620490,2013,Dengue fever
+Chiang Rai,10754,897.17,0,0.0,1198656,2013,Dengue fever
+Nan,715,150.02,0,0.0,476612,2013,Dengue fever
+Phayao,666,136.9,0,0.0,486472,2013,Dengue fever
+Phrae,626,136.46,1,0.22,458750,2013,Dengue fever
+Zone:17,3771,109.76,0,0.0,3435726,2013,Dengue fever
+Phetchabun,1237,124.85,0,0.0,990807,2013,Dengue fever
+Phitsanulok,833,97.84,0,0.0,851357,2013,Dengue fever
+Sukhothai,394,65.5,0,0.0,601504,2013,Dengue fever
+Tak,938,176.64,0,0.0,531018,2013,Dengue fever
+Uttaradit,369,80.04,0,0.0,461040,2013,Dengue fever
+Zone:18,2162,80.81,0,0.0,2675417,2013,Dengue fever
+Kamphaeng Phet,670,92.29,0,0.0,726009,2013,Dengue fever
+Nakhon Sawan,881,82.21,0,0.0,1071686,2013,Dengue fever
+Phichit,383,69.68,0,0.0,549688,2013,Dengue fever
+Uthai Thani,228,69.5,0,0.0,328034,2013,Dengue fever
+Total,25194,39.7,2,0.0,63457439,2009,Dengue fever
+Central Region,9271,43.35,1,0.0,21386001,2009,Dengue fever
+Bangkok,2173,38.08,1,0.02,5706739,2009,Dengue fever
+Zone:1,983,28.93,0,0.0,3397461,2009,Dengue fever
+Nonthaburi,500,46.93,0,0.0,1065332,2009,Dengue fever
+P.Nakhon S.Ayutthaya,124,16.06,0,0.0,772142,2009,Dengue fever
+Pathum Thani,225,23.86,0,0.0,942813,2009,Dengue fever
+Saraburi,134,21.71,0,0.0,617174,2009,Dengue fever
+Zone:2,289,18.18,0,0.0,1590058,2009,Dengue fever
+Ang Thong,96,33.71,0,0.0,284819,2009,Dengue fever
+Chai Nat,74,22.04,0,0.0,335686,2009,Dengue fever
+Lop Buri,115,15.25,0,0.0,754127,2009,Dengue fever
+Sing Buri,4,1.86,0,0.0,215426,2009,Dengue fever
+Zone:3,1439,46.78,0,0.0,3076347,2009,Dengue fever
+Chachoengsao,264,39.59,0,0.0,666907,2009,Dengue fever
+Nakhon Nayok,32,12.74,0,0.0,251219,2009,Dengue fever
+Prachin Buri,375,81.41,0,0.0,460617,2009,Dengue fever
+Sa Kaeo,232,42.81,0,0.0,541939,2009,Dengue fever
+Samut Prakan,536,46.38,0,0.0,1155665,2009,Dengue fever
+Zone:4,1857,55.19,0,0.0,3364769,2009,Dengue fever
+Kanchanaburi,301,35.95,0,0.0,837165,2009,Dengue fever
+Nakhon Pathom,376,44.37,0,0.0,847513,2009,Dengue fever
+Ratchaburi,1019,121.96,0,0.0,835546,2009,Dengue fever
+Suphan Buri,161,19.06,0,0.0,844545,2009,Dengue fever
+Zone:5,1090,66.56,0,0.0,1637557,2009,Dengue fever
+Phetchaburi,374,81.29,0,0.0,460108,2009,Dengue fever
+Prachuap Khiri Khan,386,76.86,0,0.0,502221,2009,Dengue fever
+Samut Sakhon,268,55.67,0,0.0,481377,2009,Dengue fever
+Samut Songkhram,62,31.98,0,0.0,193851,2009,Dengue fever
+Zone:9,1440,55.11,0,0.0,2613070,2009,Dengue fever
+Chanthaburi,306,60.04,0,0.0,509633,2009,Dengue fever
+Chon Buri,587,45.96,0,0.0,1277139,2009,Dengue fever
+Rayong,442,73.01,0,0.0,605380,2009,Dengue fever
+Trat,105,47.53,0,0.0,220918,2009,Dengue fever
+South Region,4511,51.39,0,0.0,8777720,2009,Dengue fever
+Zone:6,1914,54.74,0,0.0,3496373,2009,Dengue fever
+Chumphon,437,89.87,0,0.0,486233,2009,Dengue fever
+Nakhon Si Thammarat,757,49.97,0,0.0,1514832,2009,Dengue fever
+Phatthalung,330,65.16,0,0.0,506454,2009,Dengue fever
+Surat Thani,390,39.44,0,0.0,988854,2009,Dengue fever
+Zone:7,863,47.84,0,0.0,1803902,2009,Dengue fever
+Krabi,418,98.9,0,0.0,422631,2009,Dengue fever
+Phangnga,122,48.65,0,0.0,250796,2009,Dengue fever
+Phuket,96,28.96,0,0.0,331460,2009,Dengue fever
+Ranong,126,69.14,0,0.0,182242,2009,Dengue fever
+Trang,101,16.38,0,0.0,616773,2009,Dengue fever
+Zone:8,1734,49.86,0,0.0,3477445,2009,Dengue fever
+Narathiwat,163,22.51,0,0.0,724001,2009,Dengue fever
+Pattani,157,24.34,0,0.0,644897,2009,Dengue fever
+Satun,135,46.43,0,0.0,290755,2009,Dengue fever
+Songkhla,935,69.78,0,0.0,1339861,2009,Dengue fever
+Yala,344,71.98,0,0.0,477931,2009,Dengue fever
+North-Eastern Region,5670,26.41,1,0.0,21469269,2009,Dengue fever
+Zone:10,615,17.26,0,0.0,3564168,2009,Dengue fever
+Loei,237,38.25,0,0.0,619602,2009,Dengue fever
+Nong Bua Lam Phu,66,13.19,0,0.0,500217,2009,Dengue fever
+Nong Khai,139,15.32,0,0.0,907064,2009,Dengue fever
+Udon Thani,173,11.25,0,0.0,1537285,2009,Dengue fever
+Zone:11,594,27.56,0,0.0,2155042,2009,Dengue fever
+Mukdahan,229,67.8,0,0.0,337773,2009,Dengue fever
+Nakhon Phanom,108,15.43,0,0.0,700027,2009,Dengue fever
+Sakon Nakhon,257,23.0,0,0.0,1117242,2009,Dengue fever
+Zone:12,1217,24.42,1,0.02,4984201,2009,Dengue fever
+Kalasin,380,38.8,0,0.0,979371,2009,Dengue fever
+Khon Kaen,332,18.87,1,0.06,1759172,2009,Dengue fever
+Maha Sarakham,159,16.95,0,0.0,937972,2009,Dengue fever
+Roi Et,346,26.46,0,0.0,1307686,2009,Dengue fever
+Zone:13,1143,27.52,0,0.0,4152834,2009,Dengue fever
+Amnat Charoen,117,31.61,0,0.0,370141,2009,Dengue fever
+Si Sa Ket,830,57.48,0,0.0,1443879,2009,Dengue fever
+Ubon Ratchathani,84,4.67,0,0.0,1799604,2009,Dengue fever
+Yasothon,112,20.77,0,0.0,539210,2009,Dengue fever
+Zone:14,2101,31.77,0,0.0,6613024,2009,Dengue fever
+Buri Ram,396,25.64,0,0.0,1544218,2009,Dengue fever
+Chaiyaphum,233,20.73,0,0.0,1123907,2009,Dengue fever
+Nakhon Ratchasima,773,30.1,0,0.0,2568205,2009,Dengue fever
+Surin,699,50.77,0,0.0,1376694,2009,Dengue fever
+North Region,5742,48.56,0,0.0,11824449,2009,Dengue fever
+Zone:15,1918,62.48,0,0.0,3069670,2009,Dengue fever
+Chiang Mai,1010,61.16,0,0.0,1651433,2009,Dengue fever
+Lampang,374,48.82,0,0.0,766057,2009,Dengue fever
+Lamphun,115,28.4,0,0.0,404910,2009,Dengue fever
+Mae Hong Son,419,169.45,0,0.0,247270,2009,Dengue fever
+Zone:16,1611,61.09,0,0.0,2636963,2009,Dengue fever
+Chiang Rai,626,51.69,0,0.0,1211126,2009,Dengue fever
+Nan,92,19.34,0,0.0,475799,2009,Dengue fever
+Phayao,317,65.06,0,0.0,487254,2009,Dengue fever
+Phrae,576,124.46,0,0.0,462784,2009,Dengue fever
+Zone:17,1395,40.6,0,0.0,3436350,2009,Dengue fever
+Phetchabun,218,21.89,0,0.0,995679,2009,Dengue fever
+Phitsanulok,367,43.44,0,0.0,844779,2009,Dengue fever
+Sukhothai,153,25.36,0,0.0,603316,2009,Dengue fever
+Tak,591,111.72,0,0.0,528997,2009,Dengue fever
+Uttaradit,66,14.24,0,0.0,463579,2009,Dengue fever
+Zone:18,818,30.51,0,0.0,2681466,2009,Dengue fever
+Kamphaeng Phet,184,25.33,0,0.0,726530,2009,Dengue fever
+Nakhon Sawan,422,39.31,0,0.0,1073554,2009,Dengue fever
+Phichit,191,34.5,0,0.0,553653,2009,Dengue fever
+Uthai Thani,21,6.41,0,0.0,327729,2009,Dengue fever
+Total,38466,58.79,5,0.01,65426907,2016,Dengue fever
+ZONE:01,7357,127.25,1,0.02,5781324,2016,Dengue fever
+Chiang Mai,3952,232.03,0,0.0,1703263,2016,Dengue fever
+Chiang Rai,1099,88.43,0,0.0,1242825,2016,Dengue fever
+Lampang,579,76.92,0,0.0,752685,2016,Dengue fever
+Lamphun,367,90.41,0,0.0,405927,2016,Dengue fever
+Mae Hong Son,936,358.66,1,0.38,260971,2016,Dengue fever
+Nan,181,37.8,0,0.0,478890,2016,Dengue fever
+Phayao,150,31.02,0,0.0,483550,2016,Dengue fever
+Phrae,93,20.52,0,0.0,453213,2016,Dengue fever
+ZONE:02,1816,51.9,0,0.0,3498728,2016,Dengue fever
+Phetchabun,569,57.11,0,0.0,996397,2016,Dengue fever
+Phitsanulok,405,47.03,0,0.0,861194,2016,Dengue fever
+Sukhothai,231,38.37,0,0.0,602085,2016,Dengue fever
+Tak,402,69.43,0,0.0,578968,2016,Dengue fever
+Uttaradit,209,45.43,0,0.0,460084,2016,Dengue fever
+ZONE:03,983,32.64,0,0.0,3011449,2016,Dengue fever
+Chai Nat,94,28.32,0,0.0,331968,2016,Dengue fever
+Kamphaeng Phet,123,16.85,0,0.0,729839,2016,Dengue fever
+Nakhon Sawan,430,40.1,0,0.0,1072349,2016,Dengue fever
+Phichit,207,37.86,0,0.0,546750,2016,Dengue fever
+Uthai Thani,129,39.03,0,0.0,330543,2016,Dengue fever
+ZONE:04,1506,28.84,0,0.0,5221125,2016,Dengue fever
+Ang Thong,84,29.64,0,0.0,283371,2016,Dengue fever
+Lop Buri,339,44.69,0,0.0,758531,2016,Dengue fever
+Nakhon Nayok,67,25.98,0,0.0,257939,2016,Dengue fever
+Nonthaburi,354,29.9,0,0.0,1183791,2016,Dengue fever
+P.Nakhon S.Ayutthaya,294,36.48,0,0.0,805980,2016,Dengue fever
+Pathum Thani,211,19.46,0,0.0,1084154,2016,Dengue fever
+Saraburi,156,24.55,0,0.0,635567,2016,Dengue fever
+Sing Buri,1,0.47,0,0.0,211792,2016,Dengue fever
+ZONE:05,1840,35.32,2,0.04,5209561,2016,Dengue fever
+Kanchanaburi,150,17.34,0,0.0,865172,2016,Dengue fever
+Nakhon Pathom,409,45.69,0,0.0,895207,2016,Dengue fever
+Phetchaburi,333,69.9,0,0.0,476391,2016,Dengue fever
+Prachuap Khiri Khan,182,34.35,0,0.0,529912,2016,Dengue fever
+Ratchaburi,264,30.68,0,0.0,860549,2016,Dengue fever
+Samut Sakhon,294,54.58,2,0.37,538671,2016,Dengue fever
+Samut Songkhram,42,21.62,0,0.0,194283,2016,Dengue fever
+Suphan Buri,166,19.54,0,0.0,849376,2016,Dengue fever
+ZONE:06,2868,48.77,1,0.02,5880124,2016,Dengue fever
+Chachoengsao,305,43.68,0,0.0,698190,2016,Dengue fever
+Chanthaburi,542,102.42,0,0.0,529194,2016,Dengue fever
+Chon Buri,484,33.65,0,0.0,1438231,2016,Dengue fever
+Prachin Buri,251,52.21,0,0.0,480755,2016,Dengue fever
+Rayong,480,70.41,0,0.0,681696,2016,Dengue fever
+Sa Kaeo,152,27.41,0,0.0,554555,2016,Dengue fever
+Samut Prakan,500,39.36,0,0.0,1270420,2016,Dengue fever
+Trat,154,67.82,1,0.44,227083,2016,Dengue fever
+ZONE:07,2254,44.63,0,0.0,5049920,2016,Dengue fever
+Kalasin,565,57.36,0,0.0,985055,2016,Dengue fever
+Khon Kaen,475,26.48,0,0.0,1794032,2016,Dengue fever
+Maha Sarakham,416,43.22,0,0.0,962592,2016,Dengue fever
+Roi Et,798,61.0,0,0.0,1308241,2016,Dengue fever
+ZONE:08,1595,28.94,0,0.0,5511930,2016,Dengue fever
+Bungkan,380,90.56,0,0.0,419607,2016,Dengue fever
+Loei,504,79.16,0,0.0,636666,2016,Dengue fever
+Nakhon Phanom,301,42.14,0,0.0,714369,2016,Dengue fever
+Nong Bua Lam Phu,109,21.39,0,0.0,509469,2016,Dengue fever
+Nong Khai,100,19.29,0,0.0,518420,2016,Dengue fever
+Sakon Nakhon,134,11.75,0,0.0,1140673,2016,Dengue fever
+Udon Thani,67,4.26,0,0.0,1572726,2016,Dengue fever
+ZONE:09,3451,51.22,0,0.0,6737604,2016,Dengue fever
+Buri Ram,455,28.76,0,0.0,1581955,2016,Dengue fever
+Chaiyaphum,400,35.16,0,0.0,1137651,2016,Dengue fever
+Nakhon Ratchasima,932,35.51,0,0.0,2624668,2016,Dengue fever
+Surin,1664,119.43,0,0.0,1393330,2016,Dengue fever
+ZONE:10,3100,67.67,0,0.0,4581192,2016,Dengue fever
+Amnat Charoen,217,57.73,0,0.0,375881,2016,Dengue fever
+Mukdahan,363,104.59,0,0.0,347059,2016,Dengue fever
+Si Sa Ket,959,65.37,0,0.0,1467006,2016,Dengue fever
+Ubon Ratchathani,1316,71.09,0,0.0,1851049,2016,Dengue fever
+Yasothon,245,45.35,0,0.0,540197,2016,Dengue fever
+ZONE:11,3110,70.94,0,0.0,4383957,2016,Dengue fever
+Chumphon,233,46.3,0,0.0,503203,2016,Dengue fever
+Krabi,206,44.84,0,0.0,459456,2016,Dengue fever
+Nakhon Si Thammarat,1635,105.46,0,0.0,1550278,2016,Dengue fever
+Phangnga,267,101.63,0,0.0,262721,2016,Dengue fever
+Phuket,203,53.07,0,0.0,382485,2016,Dengue fever
+Ranong,110,60.34,0,0.0,182313,2016,Dengue fever
+Surat Thani,456,43.7,0,0.0,1043501,2016,Dengue fever
+ZONE:12,4777,98.18,1,0.02,4865646,2016,Dengue fever
+Narathiwat,582,74.72,0,0.0,778941,2016,Dengue fever
+Pattani,889,128.82,1,0.14,690104,2016,Dengue fever
+Phatthalung,756,144.95,0,0.0,521570,2016,Dengue fever
+Satun,178,56.63,0,0.0,314297,2016,Dengue fever
+Songkhla,1756,124.9,0,0.0,1405939,2016,Dengue fever
+Trang,121,18.91,0,0.0,639770,2016,Dengue fever
+Yala,495,96.11,0,0.0,515025,2016,Dengue fever
+ZONE:13,3809,66.89,0,0.0,5694347,2016,Dengue fever
+Bangkok,3809,66.89,0,0.0,5694347,2016,Dengue fever
+Total,11181,17.88,1,0.0,62526710,2004,Dengue fever
+North Region,1995,16.67,1,0.01,11965439,2004,Dengue fever
+Zone:1,1036,18.11,1,0.02,5720315,2004,Dengue fever
+Chiang Mai,257,15.89,1,0.06,1616995,2004,Dengue fever
+Chiang Rai,54,4.45,0,0.0,1214659,2004,Dengue fever
+Lampang,114,14.47,0,0.0,788071,2004,Dengue fever
+Lamphun,203,49.89,0,0.0,406911,2004,Dengue fever
+Mae Hong Son,105,43.57,0,0.0,240988,2004,Dengue fever
+Nan,26,5.42,0,0.0,479968,2004,Dengue fever
+Phayao,125,25.26,0,0.0,494926,2004,Dengue fever
+Phrae,152,31.81,0,0.0,477797,2004,Dengue fever
+Zone:2,464,13.33,0,0.0,3480797,2004,Dengue fever
+Phetchabun,139,13.54,0,0.0,1026733,2004,Dengue fever
+Phitsanulok,51,5.97,0,0.0,854440,2004,Dengue fever
+Sukhothai,49,7.95,0,0.0,616536,2004,Dengue fever
+Tak,75,14.78,0,0.0,507296,2004,Dengue fever
+Uttaradit,150,31.53,0,0.0,475792,2004,Dengue fever
+Zone:3,495,17.91,0,0.0,2764327,2004,Dengue fever
+Kamphaeng Phet,51,6.8,0,0.0,750331,2004,Dengue fever
+Nakhon Sawan,239,21.69,0,0.0,1102099,2004,Dengue fever
+Phichit,153,26.42,0,0.0,579155,2004,Dengue fever
+Uthai Thani,52,15.63,0,0.0,332742,2004,Dengue fever
+Central Region,3837,18.6,0,0.0,20631429,2004,Dengue fever
+Bangkok,716,12.48,0,0.0,5739370,2004,Dengue fever
+Zone:4,361,13.27,0,0.0,2721016,2004,Dengue fever
+Ang Thong,47,16.38,0,0.0,286896,2004,Dengue fever
+Nonthaburi,135,14.46,0,0.0,933591,2004,Dengue fever
+P.Nakhon S.Ayutthaya,92,12.34,0,0.0,745828,2004,Dengue fever
+Pathum Thani,87,11.53,0,0.0,754701,2004,Dengue fever
+Zone:5,331,17.09,0,0.0,1936502,2004,Dengue fever
+Chai Nat,114,33.01,0,0.0,345355,2004,Dengue fever
+Lop Buri,170,22.4,0,0.0,759000,2004,Dengue fever
+Saraburi,38,6.22,0,0.0,610722,2004,Dengue fever
+Sing Buri,9,4.06,0,0.0,221425,2004,Dengue fever
+Zone:6,917,27.89,0,0.0,3287786,2004,Dengue fever
+Kanchanaburi,190,23.64,0,0.0,803802,2004,Dengue fever
+Nakhon Pathom,365,45.33,0,0.0,805210,2004,Dengue fever
+Ratchaburi,278,33.72,0,0.0,824406,2004,Dengue fever
+Suphan Buri,84,9.83,0,0.0,854368,2004,Dengue fever
+Zone:7,383,24.13,0,0.0,1587519,2004,Dengue fever
+Phetchaburi,115,25.2,0,0.0,456384,2004,Dengue fever
+Prachuap Khiri Khan,61,12.55,0,0.0,486084,2004,Dengue fever
+Samut Sakhon,178,39.96,0,0.0,445443,2004,Dengue fever
+Samut Songkhram,29,14.53,0,0.0,199608,2004,Dengue fever
+Zone:8,562,19.15,0,0.0,2934598,2004,Dengue fever
+Chachoengsao,38,5.86,0,0.0,647967,2004,Dengue fever
+Nakhon Nayok,102,40.76,0,0.0,250235,2004,Dengue fever
+Prachin Buri,224,49.78,0,0.0,449940,2004,Dengue fever
+Sa Kaeo,100,18.56,0,0.0,538823,2004,Dengue fever
+Samut Prakan,98,9.35,0,0.0,1047633,2004,Dengue fever
+Zone:9,567,23.38,0,0.0,2424638,2004,Dengue fever
+Chanthaburi,200,39.78,0,0.0,502794,2004,Dengue fever
+Chon Buri,26,2.26,0,0.0,1150048,2004,Dengue fever
+Rayong,307,55.79,0,0.0,550310,2004,Dengue fever
+Trat,34,15.35,0,0.0,221486,2004,Dengue fever
+North-Eastern Region,3274,15.25,0,0.0,21463567,2004,Dengue fever
+Zone:10,326,9.18,0,0.0,3549364,2004,Dengue fever
+Loei,141,22.84,0,0.0,617280,2004,Dengue fever
+Nong Bua Lam Phu,34,6.84,0,0.0,497298,2004,Dengue fever
+Nong Khai,80,8.84,0,0.0,904499,2004,Dengue fever
+Udon Thani,71,4.64,0,0.0,1530287,2004,Dengue fever
+Zone:11,732,23.41,0,0.0,3127236,2004,Dengue fever
+Kalasin,288,29.3,0,0.0,982947,2004,Dengue fever
+Mukdahan,60,17.87,0,0.0,335819,2004,Dengue fever
+Nakhon Phanom,39,5.57,0,0.0,700800,2004,Dengue fever
+Sakon Nakhon,345,31.15,0,0.0,1107670,2004,Dengue fever
+Zone:12,468,11.66,0,0.0,4012215,2004,Dengue fever
+Khon Kaen,173,9.85,0,0.0,1756177,2004,Dengue fever
+Maha Sarakham,62,6.6,0,0.0,939718,2004,Dengue fever
+Roi Et,233,17.7,0,0.0,1316320,2004,Dengue fever
+Zone:13,1017,15.36,0,0.0,6621384,2004,Dengue fever
+Buri Ram,162,10.53,0,0.0,1539135,2004,Dengue fever
+Chaiyaphum,175,15.51,0,0.0,1128031,2004,Dengue fever
+Nakhon Ratchasima,427,16.65,0,0.0,2565197,2004,Dengue fever
+Surin,253,18.21,0,0.0,1389021,2004,Dengue fever
+Zone:14,731,17.6,0,0.0,4153368,2004,Dengue fever
+Amnat Charoen,48,13.01,0,0.0,369071,2004,Dengue fever
+Si Sa Ket,391,26.91,0,0.0,1452971,2004,Dengue fever
+Ubon Ratchathani,231,12.95,0,0.0,1784192,2004,Dengue fever
+Yasothon,61,11.15,0,0.0,547134,2004,Dengue fever
+South Region,2075,24.51,0,0.0,8466275,2004,Dengue fever
+Zone:15,712,45.02,0,0.0,1581379,2004,Dengue fever
+Chumphon,371,78.17,0,0.0,474592,2004,Dengue fever
+Ranong,82,48.26,0,0.0,169904,2004,Dengue fever
+Surat Thani,259,27.64,0,0.0,936883,2004,Dengue fever
+Zone:16,708,27.03,0,0.0,2619221,2004,Dengue fever
+Nakhon Si Thammarat,369,24.35,0,0.0,1515708,2004,Dengue fever
+Phatthalung,104,20.74,0,0.0,501447,2004,Dengue fever
+Trang,235,39.03,0,0.0,602066,2004,Dengue fever
+Zone:17,135,14.87,0,0.0,908170,2004,Dengue fever
+Krabi,65,16.84,0,0.0,386084,2004,Dengue fever
+Phangnga,41,17.09,0,0.0,239895,2004,Dengue fever
+Phuket,29,10.28,0,0.0,282191,2004,Dengue fever
+Zone:18,362,20.16,0,0.0,1795905,2004,Dengue fever
+Narathiwat,208,29.67,0,0.0,701008,2004,Dengue fever
+Pattani,14,2.21,0,0.0,632240,2004,Dengue fever
+Yala,140,30.26,0,0.0,462657,2004,Dengue fever
+Zone:19,158,10.12,0,0.0,1561600,2004,Dengue fever
+Satun,79,28.87,0,0.0,273624,2004,Dengue fever
+Songkhla,79,6.13,0,0.0,1287976,2004,Dengue fever
+Total,17492,27.79,2,0.0,62939819,2003,Dengue fever
+North Region,3709,30.6,0,0.0,12120537,2003,Dengue fever
+Zone:1,1668,28.94,0,0.0,5764017,2003,Dengue fever
+Chiang Mai,531,33.2,0,0.0,1599538,2003,Dengue fever
+Chiang Rai,215,17.28,0,0.0,1244564,2003,Dengue fever
+Lampang,392,49.06,0,0.0,798996,2003,Dengue fever
+Lamphun,117,28.67,0,0.0,408122,2003,Dengue fever
+Mae Hong Son,47,19.65,0,0.0,239128,2003,Dengue fever
+Nan,74,15.26,0,0.0,484961,2003,Dengue fever
+Phayao,160,31.68,0,0.0,505032,2003,Dengue fever
+Phrae,132,27.29,0,0.0,483676,2003,Dengue fever
+Zone:2,858,24.35,0,0.0,3523807,2003,Dengue fever
+Phetchabun,198,18.92,0,0.0,1046537,2003,Dengue fever
+Phitsanulok,184,21.21,0,0.0,867520,2003,Dengue fever
+Sukhothai,96,15.4,0,0.0,623396,2003,Dengue fever
+Tak,128,25.45,0,0.0,503042,2003,Dengue fever
+Uttaradit,252,52.14,0,0.0,483312,2003,Dengue fever
+Zone:3,1183,41.76,0,0.0,2832713,2003,Dengue fever
+Kamphaeng Phet,392,50.83,0,0.0,771177,2003,Dengue fever
+Nakhon Sawan,458,40.57,0,0.0,1128789,2003,Dengue fever
+Phichit,266,44.71,0,0.0,594918,2003,Dengue fever
+Uthai Thani,67,19.83,0,0.0,337829,2003,Dengue fever
+Central Region,5081,24.51,1,0.0,20726962,2003,Dengue fever
+Zone:0,1062,18.27,0,0.0,5813383,2003,Dengue fever
+Bangkok,1062,18.27,0,0.0,5813383,2003,Dengue fever
+Zone:4,514,19.18,0,0.0,2679573,2003,Dengue fever
+Ang Thong,84,28.9,0,0.0,290623,2003,Dengue fever
+Nonthaburi,155,16.94,0,0.0,915043,2003,Dengue fever
+P.Nakhon S.Ayutthaya,102,13.6,0,0.0,749751,2003,Dengue fever
+Pathum Thani,173,23.89,0,0.0,724156,2003,Dengue fever
+Zone:5,227,11.55,0,0.0,1964953,2003,Dengue fever
+Chai Nat,110,31.44,0,0.0,349881,2003,Dengue fever
+Lop Buri,38,4.95,0,0.0,768250,2003,Dengue fever
+Saraburi,70,11.22,0,0.0,623783,2003,Dengue fever
+Sing Buri,9,4.04,0,0.0,223039,2003,Dengue fever
+Zone:6,882,26.69,1,0.03,3304766,2003,Dengue fever
+Kanchanaburi,126,15.76,0,0.0,799588,2003,Dengue fever
+Nakhon Pathom,296,36.67,1,0.12,807180,2003,Dengue fever
+Ratchaburi,322,38.7,0,0.0,832005,2003,Dengue fever
+Suphan Buri,138,15.94,0,0.0,865993,2003,Dengue fever
+Zone:7,536,33.46,0,0.0,1602142,2003,Dengue fever
+Phetchaburi,30,6.5,0,0.0,461539,2003,Dengue fever
+Prachuap Khiri Khan,307,62.59,0,0.0,490479,2003,Dengue fever
+Samut Sakhon,188,42.19,0,0.0,445557,2003,Dengue fever
+Samut Songkhram,11,5.38,0,0.0,204567,2003,Dengue fever
+Zone:8,781,26.63,0,0.0,2933038,2003,Dengue fever
+Chachoengsao,27,4.15,0,0.0,651130,2003,Dengue fever
+Nakhon Nayok,75,29.82,0,0.0,251471,2003,Dengue fever
+Prachin Buri,270,59.55,0,0.0,453379,2003,Dengue fever
+Sa Kaeo,218,40.35,0,0.0,540274,2003,Dengue fever
+Samut Prakan,191,18.42,0,0.0,1036784,2003,Dengue fever
+Zone:9,1079,44.42,0,0.0,2429107,2003,Dengue fever
+Chanthaburi,262,51.49,0,0.0,508799,2003,Dengue fever
+Chon Buri,122,10.67,0,0.0,1143498,2003,Dengue fever
+Rayong,649,117.65,0,0.0,551652,2003,Dengue fever
+Trat,46,20.43,0,0.0,225158,2003,Dengue fever
+North-Eastern Region,5947,27.49,1,0.0,21634442,2003,Dengue fever
+Zone:10,342,9.56,0,0.0,3579272,2003,Dengue fever
+Loei,142,22.55,0,0.0,629836,2003,Dengue fever
+Nong Bua Lam Phu,53,10.62,0,0.0,499257,2003,Dengue fever
+Nong Khai,66,7.24,0,0.0,911409,2003,Dengue fever
+Udon Thani,81,5.26,0,0.0,1538770,2003,Dengue fever
+Zone:11,1106,35.02,1,0.03,3157810,2003,Dengue fever
+Kalasin,226,22.77,0,0.0,992407,2003,Dengue fever
+Mukdahan,96,28.35,0,0.0,338675,2003,Dengue fever
+Nakhon Phanom,501,69.97,1,0.14,715991,2003,Dengue fever
+Sakon Nakhon,283,25.48,0,0.0,1110737,2003,Dengue fever
+Zone:12,905,22.43,0,0.0,4035398,2003,Dengue fever
+Khon Kaen,383,21.65,0,0.0,1769124,2003,Dengue fever
+Maha Sarakham,119,12.61,0,0.0,943647,2003,Dengue fever
+Roi Et,403,30.47,0,0.0,1322627,2003,Dengue fever
+Zone:13,2074,31.06,0,0.0,6676759,2003,Dengue fever
+Buri Ram,399,25.74,0,0.0,1549894,2003,Dengue fever
+Chaiyaphum,449,39.46,0,0.0,1137725,2003,Dengue fever
+Nakhon Ratchasima,349,13.49,0,0.0,2586146,2003,Dengue fever
+Surin,877,62.51,0,0.0,1402994,2003,Dengue fever
+Zone:14,1520,36.32,0,0.0,4185203,2003,Dengue fever
+Amnat Charoen,46,12.42,0,0.0,370494,2003,Dengue fever
+Si Sa Ket,653,44.66,0,0.0,1462254,2003,Dengue fever
+Ubon Ratchathani,692,38.46,0,0.0,1799048,2003,Dengue fever
+Yasothon,129,23.31,0,0.0,553407,2003,Dengue fever
+South Region,2755,32.57,0,0.0,8457878,2003,Dengue fever
+Zone:15,519,33.13,0,0.0,1566662,2003,Dengue fever
+Chumphon,185,38.91,0,0.0,475467,2003,Dengue fever
+Ranong,86,52.66,0,0.0,163298,2003,Dengue fever
+Surat Thani,248,26.73,0,0.0,927897,2003,Dengue fever
+Zone:16,633,23.95,0,0.0,2642568,2003,Dengue fever
+Nakhon Si Thammarat,413,26.95,0,0.0,1532483,2003,Dengue fever
+Phatthalung,130,25.77,0,0.0,504526,2003,Dengue fever
+Trang,90,14.86,0,0.0,605559,2003,Dengue fever
+Zone:17,375,41.87,0,0.0,895704,2003,Dengue fever
+Krabi,197,51.68,0,0.0,381184,2003,Dengue fever
+Phangnga,118,49.15,0,0.0,240062,2003,Dengue fever
+Phuket,60,21.86,0,0.0,274458,2003,Dengue fever
+Zone:18,813,45.22,0,0.0,1797937,2003,Dengue fever
+Narathiwat,355,50.42,0,0.0,704096,2003,Dengue fever
+Pattani,128,20.28,0,0.0,631288,2003,Dengue fever
+Yala,330,71.34,0,0.0,462553,2003,Dengue fever
+Zone:19,415,26.69,0,0.0,1555007,2003,Dengue fever
+Satun,12,4.41,0,0.0,272252,2003,Dengue fever
+Songkhla,403,31.42,0,0.0,1282755,2003,Dengue fever

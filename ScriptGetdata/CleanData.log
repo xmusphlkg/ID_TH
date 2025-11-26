@@ -1,947 +1,585 @@
-2025-11-12 20:16:33,554 - INFO - Start processing ac data with 12 workers
-2025-11-12 20:16:34,463 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,464 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,479 - INFO - Start processing ac for Anthrax
-2025-11-12 20:16:34,479 - INFO - Start processing ac for Botulism
-2025-11-12 20:16:34,507 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,508 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,517 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,522 - INFO - Start processing ac for Chancroid
-2025-11-12 20:16:34,522 - INFO - Start processing ac for Chikungunya
-2025-11-12 20:16:34,532 - INFO - Start processing ac for Condyloma Acuminata
-2025-11-12 20:16:34,549 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,563 - INFO - Start processing ac for D.H.F.shock syndrome
-2025-11-12 20:16:34,572 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,577 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,584 - INFO - Start processing ac for DHF Total
-2025-11-12 20:16:34,588 - INFO - No files for DHF Total with prefix ac_
-2025-11-12 20:16:34,588 - INFO - Start processing ac for Diphtheria
-2025-11-12 20:16:34,589 - INFO - Start processing ac for Dysentery,Amoebic
-2025-11-12 20:16:34,598 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,599 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,607 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,609 - INFO - Finished processing all rate data
-2025-11-12 20:16:34,610 - INFO - Start processing ac for Encephalitis Total
-2025-11-12 20:16:34,610 - INFO - Start processing ac for Enterovirus Fever
-2025-11-12 20:16:34,612 - INFO - No files for Encephalitis Total with prefix ac_
-2025-11-12 20:16:34,612 - INFO - Start processing ac for Encephalitis uns
-2025-11-12 20:16:34,618 - INFO - Start processing ac for Filariasis
-2025-11-12 20:16:34,620 - INFO - Start processing ac for Genital Herpes Simplex
-2025-11-12 20:16:40,430 - INFO - Finished processing ac for Enterovirus Fever
-2025-11-12 20:16:40,430 - INFO - Start processing ac for Eosinophilic Meningitis
-2025-11-12 20:16:46,457 - INFO - Finished processing ac for Botulism
-2025-11-12 20:16:46,457 - INFO - Start processing ac for Brucellosis
-2025-11-12 20:16:51,942 - INFO - Finished processing ac for Chikungunya
-2025-11-12 20:16:51,943 - INFO - Start processing ac for Cholera
-2025-11-12 20:16:52,314 - INFO - Finished processing ac for Condyloma Acuminata
-2025-11-12 20:16:52,315 - INFO - Start processing ac for D.H.F
-2025-11-12 20:16:54,053 - INFO - Finished processing ac for Genital Herpes Simplex
-2025-11-12 20:16:54,054 - INFO - Start processing ac for Genital Molluscum Contagiosum
-2025-11-12 20:16:54,387 - INFO - Finished processing ac for Chancroid
-2025-11-12 20:16:54,388 - INFO - Start processing ac for Chickenpox
-2025-11-12 20:16:56,131 - INFO - Finished processing ac for Encephalitis uns
-2025-11-12 20:16:56,133 - INFO - Start processing ac for Gonorrhoea
-2025-11-12 20:16:56,690 - INFO - Finished processing ac for Anthrax
-2025-11-12 20:16:56,691 - INFO - Start processing ac for Avian Influenza
-2025-11-12 20:16:57,216 - INFO - Finished processing ac for Diphtheria
-2025-11-12 20:16:57,217 - INFO - Start processing ac for HepatitisB
-2025-11-12 20:16:57,232 - INFO - Finished processing ac for Filariasis
-2025-11-12 20:16:57,233 - INFO - Start processing ac for Food_Poisoning
-2025-11-12 20:16:58,899 - INFO - Finished processing ac for Brucellosis
-2025-11-12 20:16:58,899 - INFO - Start processing ac for HepatitisD
-2025-11-12 20:16:59,471 - INFO - Finished processing ac for D.H.F.shock syndrome
-2025-11-12 20:16:59,472 - INFO - Start processing ac for Dengue fever
-2025-11-12 20:17:00,007 - INFO - Finished processing ac for Genital Molluscum Contagiosum
-2025-11-12 20:17:00,008 - INFO - Start processing ac for Hepatitis_uns
-2025-11-12 20:17:00,222 - INFO - Finished processing ac for Dysentery,Amoebic
-2025-11-12 20:17:00,223 - INFO - Start processing ac for Dysentery,Bacillary
-2025-11-12 20:17:01,105 - INFO - Finished processing ac for Hepatitis_uns
-2025-11-12 20:17:01,105 - INFO - Start processing ac for HFM
-2025-11-12 20:17:03,104 - INFO - Finished processing ac for Avian Influenza
-2025-11-12 20:17:03,105 - INFO - Start processing ac for Influenza
-2025-11-12 20:17:03,884 - INFO - Finished processing ac for Eosinophilic Meningitis
-2025-11-12 20:17:03,885 - INFO - Start processing ac for Kala azar
-2025-11-12 20:17:15,806 - INFO - Finished processing ac for Cholera
-2025-11-12 20:17:15,808 - INFO - Start processing ac for Leprosy
-2025-11-12 20:17:16,112 - INFO - Finished processing ac for Gonorrhoea
-2025-11-12 20:17:16,113 - INFO - Start processing ac for HepatitisA
-2025-11-12 20:17:16,279 - INFO - Finished processing ac for D.H.F
-2025-11-12 20:17:16,281 - INFO - Start processing ac for Liver fluke
-2025-11-12 20:17:17,045 - INFO - Finished processing ac for Chickenpox
-2025-11-12 20:17:17,046 - INFO - Start processing ac for Measles
-2025-11-12 20:17:20,222 - INFO - Finished processing ac for Dysentery,Bacillary
-2025-11-12 20:17:20,224 - INFO - Finished processing ac for HepatitisD
-2025-11-12 20:17:20,225 - INFO - Start processing ac for Measles Total
-2025-11-12 20:17:20,226 - INFO - No files for Measles Total with prefix ac_
-2025-11-12 20:17:20,226 - INFO - Start processing ac for Melioidosis
-2025-11-12 20:17:20,225 - INFO - Start processing ac for HepatitisE
-2025-11-12 20:17:20,446 - INFO - Finished processing ac for HepatitisB
-2025-11-12 20:17:20,447 - INFO - Start processing ac for HepatitisC
-2025-11-12 20:17:20,994 - INFO - Finished processing ac for Food_Poisoning
-2025-11-12 20:17:20,998 - INFO - Start processing ac for Meningitis,uns
-2025-11-12 20:17:22,597 - INFO - Finished processing ac for Dengue fever
-2025-11-12 20:17:22,599 - INFO - Start processing ac for Mumps
-2025-11-12 20:17:23,774 - INFO - Finished processing ac for HepatitisE
-2025-11-12 20:17:23,775 - INFO - Start processing ac for N.S.U._V
-2025-11-12 20:17:23,829 - INFO - Finished processing ac for HFM
-2025-11-12 20:17:23,830 - INFO - Start processing ac for Paratyphoid
-2025-11-12 20:17:24,508 - INFO - Finished processing ac for Kala azar
-2025-11-12 20:17:24,509 - INFO - Start processing ac for L.G.V.&other&unsp.V.D
-2025-11-12 20:17:27,372 - INFO - Finished processing ac for Influenza
-2025-11-12 20:17:27,373 - INFO - Start processing ac for Japanese B encephalitis
-2025-11-12 20:17:33,957 - INFO - Finished processing ac for Japanese B encephalitis
-2025-11-12 20:17:33,957 - INFO - Start processing ac for Pertussis
-2025-11-12 20:17:37,891 - INFO - Finished processing ac for Leprosy
-2025-11-12 20:17:37,892 - INFO - Start processing ac for Leptospirosis
-2025-11-12 20:17:38,307 - INFO - Finished processing ac for Liver fluke
-2025-11-12 20:17:38,308 - INFO - Start processing ac for Malaria
-2025-11-12 20:17:39,128 - INFO - Finished processing ac for HepatitisA
-2025-11-12 20:17:39,129 - INFO - Start processing ac for Poliomyelitis
-2025-11-12 20:17:39,598 - INFO - Finished processing ac for Measles
-2025-11-12 20:17:39,599 - INFO - Start processing ac for Measles c Complication
-2025-11-12 20:17:41,785 - INFO - Finished processing ac for HepatitisC
-2025-11-12 20:17:41,786 - INFO - Start processing ac for Rabies
-2025-11-12 20:17:41,881 - INFO - Finished processing ac for Melioidosis
-2025-11-12 20:17:41,882 - INFO - Start processing ac for Scarlet fever
-2025-11-12 20:17:42,218 - INFO - Finished processing ac for Meningitis,uns
-2025-11-12 20:17:42,219 - INFO - Start processing ac for Meningococcal Meningitis
-2025-11-12 20:17:43,913 - INFO - Finished processing ac for Mumps
-2025-11-12 20:17:43,914 - INFO - Start processing ac for Mushroom poisoning
-2025-11-12 20:17:44,823 - INFO - Finished processing ac for N.S.U._V
-2025-11-12 20:17:44,824 - INFO - Start processing ac for Other STI
-2025-11-12 20:17:45,564 - INFO - Finished processing ac for Paratyphoid
-2025-11-12 20:17:45,565 - INFO - Start processing ac for Pediculosis Pubis
-2025-11-12 20:17:45,595 - INFO - Finished processing ac for L.G.V.&other&unsp.V.D
-2025-11-12 20:17:45,596 - INFO - Start processing ac for STI Total
-2025-11-12 20:17:45,597 - INFO - No files for STI Total with prefix ac_
-2025-11-12 20:17:45,597 - INFO - Start processing ac for Streptococcus suis
-2025-11-12 20:17:50,905 - INFO - Finished processing ac for Pediculosis Pubis
-2025-11-12 20:17:50,905 - INFO - Start processing ac for Syphilis
-2025-11-12 20:17:55,516 - INFO - Finished processing ac for Pertussis
-2025-11-12 20:17:55,517 - INFO - Start processing ac for Pneumonia
-2025-11-12 20:17:56,723 - INFO - Finished processing ac for Streptococcus suis
-2025-11-12 20:17:56,723 - INFO - Start processing ac for T.B.meningitis
-2025-11-12 20:17:58,655 - INFO - Finished processing ac for Other STI
-2025-11-12 20:17:58,655 - INFO - Start processing ac for Tetanus exc.Neo
-2025-11-12 20:17:58,849 - INFO - Finished processing ac for Measles c Complication
-2025-11-12 20:17:58,850 - INFO - Start processing ac for Trichinosis
-2025-11-12 20:17:59,340 - INFO - Finished processing ac for Leptospirosis
-2025-11-12 20:17:59,341 - INFO - Start processing ac for Vaginal trichomoniasis
-2025-11-12 20:18:00,096 - INFO - Finished processing ac for Poliomyelitis
-2025-11-12 20:18:00,097 - INFO - Start processing ac for Pulmonary T.B
-2025-11-12 20:18:00,243 - INFO - Finished processing ac for Malaria
-2025-11-12 20:18:02,622 - INFO - Finished processing ac for Rabies
-2025-11-12 20:18:02,623 - INFO - Start processing ac for Rubella
-2025-11-12 20:18:03,116 - INFO - Finished processing ac for Scarlet fever
-2025-11-12 20:18:03,117 - INFO - Start processing ac for Scrub Typhus
-2025-11-12 20:18:03,144 - INFO - Finished processing ac for Meningococcal Meningitis
-2025-11-12 20:18:04,702 - INFO - Finished processing ac for Vaginal trichomoniasis
-2025-11-12 20:18:04,702 - INFO - Start processing ac for Zika virus
-2025-11-12 20:18:04,708 - INFO - Finished processing ac for Mushroom poisoning
-2025-11-12 20:18:09,283 - INFO - Finished processing ac for Zika virus
-2025-11-12 20:18:10,857 - INFO - Finished processing ac for Syphilis
-2025-11-12 20:18:10,858 - INFO - Start processing ac for T.B. other organs
-2025-11-12 20:18:15,117 - INFO - Finished processing ac for T.B.meningitis
-2025-11-12 20:18:15,118 - INFO - Start processing ac for TB Total
-2025-11-12 20:18:15,119 - INFO - No files for TB Total with prefix ac_
-2025-11-12 20:18:15,803 - INFO - Finished processing ac for Pneumonia
-2025-11-12 20:18:16,466 - INFO - Finished processing ac for Trichinosis
-2025-11-12 20:18:16,467 - INFO - Start processing ac for Typhoid
-2025-11-12 20:18:16,715 - INFO - Finished processing ac for Tetanus exc.Neo
-2025-11-12 20:18:16,716 - INFO - Start processing ac for Tetanus neonatorum
-2025-11-12 20:18:17,910 - INFO - Finished processing ac for Pulmonary T.B
-2025-11-12 20:18:20,056 - INFO - Finished processing ac for Scrub Typhus
-2025-11-12 20:18:20,162 - INFO - Finished processing ac for Rubella
-2025-11-12 20:18:25,448 - INFO - Finished processing ac for T.B. other organs
-2025-11-12 20:18:28,669 - INFO - Finished processing ac for Tetanus neonatorum
-2025-11-12 20:18:29,331 - INFO - Finished processing ac for Typhoid
-2025-11-12 20:18:29,357 - INFO - Completed mode ac: 67/72 succeeded
-2025-11-12 20:18:29,361 - INFO - Start processing ad data with 12 workers
-2025-11-12 20:18:30,273 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,285 - INFO - Start processing ad for Anthrax
-2025-11-12 20:18:30,303 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,309 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,317 - INFO - Start processing ad for Botulism
-2025-11-12 20:18:30,317 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,321 - INFO - Start processing ad for Chancroid
-2025-11-12 20:18:30,326 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,326 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,329 - INFO - Start processing ad for Chikungunya
-2025-11-12 20:18:30,329 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,330 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,340 - INFO - Start processing ad for Condyloma Acuminata
-2025-11-12 20:18:30,340 - INFO - Start processing ad for D.H.F.shock syndrome
-2025-11-12 20:18:30,343 - INFO - Start processing ad for DHF Total
-2025-11-12 20:18:30,343 - INFO - No files for DHF Total with prefix ad_
-2025-11-12 20:18:30,344 - INFO - Start processing ad for Diphtheria
-oebic
-2025-11-12 20:18:30,347 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,349 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,359 - INFO - Start processing ad for Encephalitis Total
-2025-11-12 20:18:30,360 - INFO - No files for Encephalitis Total with prefix ad_
-2025-11-12 20:18:30,360 - INFO - Start processing ad for Encephalitis uns
-2025-11-12 20:18:30,360 - INFO - Start processing ad for Enterovirus Fever
-2025-11-12 20:18:30,362 - INFO - Start processing ad for Filariasis
-2025-11-12 20:18:30,363 - INFO - Finished processing all rate data
-2025-11-12 20:18:30,373 - INFO - Start processing ad for Genital Herpes Simplex
-2025-11-12 20:18:35,552 - INFO - Finished processing ad for Botulism
-2025-11-12 20:18:35,553 - INFO - Start processing ad for Brucellosis
-2025-11-12 20:18:36,274 - INFO - Finished processing ad for Enterovirus Fever
-2025-11-12 20:18:36,274 - INFO - Start processing ad for Eosinophilic Meningitis
-2025-11-12 20:18:40,935 - INFO - Finished processing ad for Brucellosis
-2025-11-12 20:18:40,936 - INFO - Start processing ad for Gonorrhoea
-2025-11-12 20:18:45,075 - INFO - Finished processing ad for Chikungunya
-2025-11-12 20:18:45,076 - INFO - Start processing ad for Cholera
-2025-11-12 20:18:48,375 - INFO - Finished processing ad for Genital Herpes Simplex
-2025-11-12 20:18:48,376 - INFO - Start processing ad for Genital Molluscum Contagiosum
-2025-11-12 20:18:48,646 - INFO - Finished processing ad for Condyloma Acuminata
-2025-11-12 20:18:48,647 - INFO - Start processing ad for D.H.F
-2025-11-12 20:18:50,462 - INFO - Finished processing ad for Chancroid
-2025-11-12 20:18:50,464 - INFO - Start processing ad for Chickenpox
-2025-11-12 20:18:50,534 - INFO - Finished processing ad for Anthrax
-2025-11-12 20:18:50,535 - INFO - Start processing ad for Avian Influenza
-2025-11-12 20:18:51,437 - INFO - Finished processing ad for Dysentery,Amoebic
-2025-11-12 20:18:51,438 - INFO - Start processing ad for Dysentery,Bacillary
-2025-11-12 20:18:52,117 - INFO - Finished processing ad for D.H.F.shock syndrome
-2025-11-12 20:18:52,118 - INFO - Start processing ad for Dengue fever
-2025-11-12 20:18:53,298 - INFO - Finished processing ad for Encephalitis uns
-2025-11-12 20:18:53,299 - INFO - Start processing ad for HepatitisB
-2025-11-12 20:18:54,063 - INFO - Finished processing ad for Diphtheria
-2025-11-12 20:18:54,065 - INFO - Start processing ad for HepatitisD
-2025-11-12 20:18:54,074 - INFO - Finished processing ad for Genital Molluscum Contagiosum
-2025-11-12 20:18:54,074 - INFO - Start processing ad for Hepatitis_uns
-2025-11-12 20:18:54,091 - INFO - Finished processing ad for Filariasis
-2025-11-12 20:18:54,092 - INFO - Start processing ad for Food_Poisoning
-2025-11-12 20:18:56,805 - INFO - Finished processing ad for Avian Influenza
-2025-11-12 20:18:56,806 - INFO - Start processing ad for Influenza
-2025-11-12 20:18:57,748 - INFO - Finished processing ad for Eosinophilic Meningitis
-2025-11-12 20:18:57,749 - INFO - Start processing ad for Kala azar
-2025-11-12 20:18:59,449 - INFO - Finished processing ad for Gonorrhoea
-2025-11-12 20:18:59,450 - INFO - Start processing ad for HepatitisA
-2025-11-12 20:19:10,554 - INFO - Finished processing ad for Cholera
-2025-11-12 20:19:10,556 - INFO - Start processing ad for Leprosy
-2025-11-12 20:19:10,748 - INFO - Finished processing ad for D.H.F
-2025-11-12 20:19:10,749 - INFO - Start processing ad for Liver fluke
-2025-11-12 20:19:13,620 - INFO - Finished processing ad for Dysentery,Bacillary
-2025-11-12 20:19:13,621 - INFO - Start processing ad for Measles
-2025-11-12 20:19:13,822 - INFO - Finished processing ad for Chickenpox
-2025-11-12 20:19:13,825 - INFO - Start processing ad for Measles Total
-2025-11-12 20:19:13,826 - INFO - No files for Measles Total with prefix ad_
-2025-11-12 20:19:13,827 - INFO - Start processing ad for Melioidosis
-2025-11-12 20:19:14,071 - INFO - Finished processing ad for HepatitisD
-2025-11-12 20:19:14,072 - INFO - Start processing ad for HepatitisE
-2025-11-12 20:19:16,020 - INFO - Finished processing ad for HepatitisB
-2025-11-12 20:19:16,021 - INFO - Start processing ad for HepatitisC
-2025-11-12 20:19:17,027 - INFO - Finished processing ad for Hepatitis_uns
-2025-11-12 20:19:17,028 - INFO - Start processing ad for HFM
-2025-11-12 20:19:18,663 - INFO - Finished processing ad for Dengue fever
-2025-11-12 20:19:18,664 - INFO - Start processing ad for Meningitis,uns
-2025-11-12 20:19:19,422 - INFO - Finished processing ad for Food_Poisoning
-2025-11-12 20:19:19,423 - INFO - Start processing ad for Mumps
-2025-11-12 20:19:20,524 - INFO - Finished processing ad for Kala azar
-2025-11-12 20:19:20,525 - INFO - Start processing ad for L.G.V.&other&unsp.V.D
-2025-11-12 20:19:21,251 - INFO - Finished processing ad for Influenza
-2025-11-12 20:19:21,252 - INFO - Start processing ad for Japanese B encephalitis
-2025-11-12 20:19:22,249 - INFO - Finished processing ad for HepatitisA
-2025-11-12 20:19:22,250 - INFO - Start processing ad for N.S.U._V
-2025-11-12 20:19:27,535 - INFO - Finished processing ad for Japanese B encephalitis
-2025-11-12 20:19:27,535 - INFO - Start processing ad for Paratyphoid
-2025-11-12 20:19:31,304 - INFO - Finished processing ad for Leprosy
-2025-11-12 20:19:31,305 - INFO - Start processing ad for Leptospirosis
-2025-11-12 20:19:33,822 - INFO - Finished processing ad for Liver fluke
-2025-11-12 20:19:33,823 - INFO - Start processing ad for Malaria
-2025-11-12 20:19:34,050 - INFO - Finished processing ad for HepatitisE
-2025-11-12 20:19:34,051 - INFO - Start processing ad for Pertussis
-2025-11-12 20:19:35,222 - INFO - Finished processing ad for Melioidosis
-2025-11-12 20:19:35,223 - INFO - Start processing ad for Poliomyelitis
-2025-11-12 20:19:35,435 - INFO - Finished processing ad for Measles
-2025-11-12 20:19:35,436 - INFO - Start processing ad for Measles c Complication
-2025-11-12 20:19:36,432 - INFO - Finished processing ad for HepatitisC
-2025-11-12 20:19:36,433 - INFO - Start processing ad for Rabies
-2025-11-12 20:19:36,501 - INFO - Finished processing ad for Measles c Complication
-2025-11-12 20:19:36,501 - INFO - Start processing ad for Scarlet fever
-2025-11-12 20:19:37,770 - INFO - Finished processing ad for HFM
-2025-11-12 20:19:37,771 - INFO - Start processing ad for STI Total
-2025-11-12 20:19:37,772 - INFO - No files for STI Total with prefix ad_
-2025-11-12 20:19:37,772 - INFO - Start processing ad for Streptococcus suis
-2025-11-12 20:19:38,936 - INFO - Finished processing ad for Meningitis,uns
-2025-11-12 20:19:38,937 - INFO - Start processing ad for Meningococcal Meningitis
-2025-11-12 20:19:40,425 - INFO - Finished processing ad for L.G.V.&other&unsp.V.D
-2025-11-12 20:19:40,438 - INFO - Start processing ad for Syphilis
-2025-11-12 20:19:41,889 - INFO - Finished processing ad for Mumps
-2025-11-12 20:19:41,890 - INFO - Start processing ad for Mushroom poisoning
-2025-11-12 20:19:42,816 - INFO - Finished processing ad for N.S.U._V
-2025-11-12 20:19:42,817 - INFO - Start processing ad for Other STI
-2025-11-12 20:19:43,142 - INFO - Finished processing ad for Streptococcus suis
-2025-11-12 20:19:43,143 - INFO - Start processing ad for T.B.meningitis
-2025-11-12 20:19:48,183 - INFO - Finished processing ad for Paratyphoid
-2025-11-12 20:19:48,184 - INFO - Start processing ad for Pediculosis Pubis
-2025-11-12 20:19:52,835 - INFO - Finished processing ad for Leptospirosis
-2025-11-12 20:19:52,836 - INFO - Start processing ad for Tetanus exc.Neo
-2025-11-12 20:19:53,573 - INFO - Finished processing ad for Pediculosis Pubis
-2025-11-12 20:19:53,574 - INFO - Start processing ad for Trichinosis
-2025-11-12 20:19:54,196 - INFO - Finished processing ad for Malaria
-2025-11-12 20:19:54,197 - INFO - Start processing ad for Vaginal trichomoniasis
-2025-11-12 20:19:54,696 - INFO - Finished processing ad for Poliomyelitis
-2025-11-12 20:19:54,697 - INFO - Start processing ad for Pulmonary T.B
-2025-11-12 20:19:55,812 - INFO - Finished processing ad for Rabies
-2025-11-12 20:19:55,813 - INFO - Start processing ad for Rubella
-2025-11-12 20:19:55,887 - INFO - Finished processing ad for Scarlet fever
-2025-11-12 20:19:55,887 - INFO - Start processing ad for Scrub Typhus
-2025-11-12 20:19:56,249 - INFO - Finished processing ad for Pertussis
-2025-11-12 20:19:56,249 - INFO - Start processing ad for Pneumonia
-2025-11-12 20:19:56,944 - INFO - Finished processing ad for Other STI
-2025-11-12 20:19:59,545 - INFO - Finished processing ad for Vaginal trichomoniasis
-2025-11-12 20:19:59,546 - INFO - Start processing ad for Zika virus
-2025-11-12 20:19:59,884 - INFO - Finished processing ad for Meningococcal Meningitis
-2025-11-12 20:20:01,188 - INFO - Finished processing ad for Syphilis
-2025-11-12 20:20:01,189 - INFO - Start processing ad for T.B. other organs
-2025-11-12 20:20:02,603 - INFO - Finished processing ad for Mushroom poisoning
-2025-11-12 20:20:03,332 - INFO - Finished processing ad for T.B.meningitis
-2025-11-12 20:20:03,333 - INFO - Start processing ad for TB Total
-2025-11-12 20:20:03,334 - INFO - No files for TB Total with prefix ad_
-2025-11-12 20:20:04,680 - INFO - Finished processing ad for Zika virus
-2025-11-12 20:20:11,805 - INFO - Finished processing ad for Tetanus exc.Neo
-2025-11-12 20:20:11,806 - INFO - Start processing ad for Tetanus neonatorum
-2025-11-12 20:20:12,271 - INFO - Finished processing ad for Trichinosis
-2025-11-12 20:20:12,272 - INFO - Start processing ad for Typhoid
-2025-11-12 20:20:13,179 - INFO - Finished processing ad for Pulmonary T.B
-2025-11-12 20:20:13,997 - INFO - Finished processing ad for Scrub Typhus
-2025-11-12 20:20:14,144 - INFO - Finished processing ad for Rubella
-2025-11-12 20:20:15,249 - INFO - Finished processing ad for Pneumonia
-2025-11-12 20:20:17,440 - INFO - Finished processing ad for T.B. other organs
-2025-11-12 20:20:24,557 - INFO - Finished processing ad for Tetanus neonatorum
-2025-11-12 20:20:24,969 - INFO - Finished processing ad for Typhoid
-2025-11-12 20:20:24,991 - INFO - Completed mode ad: 67/72 succeeded
-2025-11-12 20:20:24,995 - INFO - Start processing mcd data with 12 workers
-2025-11-12 20:20:25,868 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,877 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,880 - INFO - Start processing mcd for Anthrax
-2025-11-12 20:20:25,889 - INFO - Start processing mcd for Botulism
-2025-11-12 20:20:25,892 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,894 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,904 - INFO - Start processing mcd for Chancroid
-2025-11-12 20:20:25,905 - INFO - Start processing mcd for Chikungunya
-2025-11-12 20:20:25,928 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,939 - INFO - Start processing mcd for Condyloma Acuminata
-2025-11-12 20:20:25,940 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,952 - INFO - Start processing mcd for D.H.F.shock syndrome
-2025-11-12 20:20:25,954 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,958 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,964 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,966 - INFO - Start processing mcd for DHF Total
-2025-11-12 20:20:25,967 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,968 - INFO - No files for DHF Total with prefix mcd_
-2025-11-12 20:20:25,968 - INFO - Start processing mcd for Diphtheria
-2025-11-12 20:20:25,969 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,970 - INFO - Start processing mcd for Dysentery,Amoebic
-2025-11-12 20:20:25,977 - INFO - Start processing mcd for Encephalitis Total
-2025-11-12 20:20:25,977 - INFO - No files for Encephalitis Total with prefix mcd_
-2025-11-12 20:20:25,978 - INFO - Start processing mcd for Encephalitis uns
-2025-11-12 20:20:25,986 - INFO - Start processing mcd for Enterovirus Fever
-2025-11-12 20:20:25,986 - INFO - Finished processing all rate data
-2025-11-12 20:20:25,988 - INFO - Start processing mcd for Filariasis
-2025-11-12 20:20:25,998 - INFO - Start processing mcd for Genital Herpes Simplex
-2025-11-12 20:20:37,154 - INFO - Finished processing mcd for Enterovirus Fever
-2025-11-12 20:20:37,154 - INFO - Start processing mcd for Eosinophilic Meningitis
-2025-11-12 20:20:48,889 - INFO - Finished processing mcd for Botulism
-2025-11-12 20:20:48,890 - INFO - Start processing mcd for Brucellosis
-2025-11-12 20:20:58,626 - INFO - Finished processing mcd for Chikungunya
-2025-11-12 20:20:58,628 - INFO - Start processing mcd for Cholera
-2025-11-12 20:21:01,976 - INFO - Finished processing mcd for Genital Herpes Simplex
-2025-11-12 20:21:01,978 - INFO - Start processing mcd for Genital Molluscum Contagiosum
-2025-11-12 20:21:02,681 - INFO - Finished processing mcd for Condyloma Acuminata
-2025-11-12 20:21:02,683 - INFO - Start processing mcd for D.H.F
-2025-11-12 20:21:08,409 - INFO - Finished processing mcd for Diphtheria
-2025-11-12 20:21:08,412 - INFO - Start processing mcd for Gonorrhoea
-2025-11-12 20:21:09,088 - INFO - Finished processing mcd for Anthrax
-2025-11-12 20:21:09,090 - INFO - Start processing mcd for Avian Influenza
-2025-11-12 20:21:09,402 - INFO - Finished processing mcd for Brucellosis
-2025-11-12 20:21:09,404 - INFO - Start processing mcd for HepatitisB
-2025-11-12 20:21:09,540 - INFO - Finished processing mcd for Chancroid
-2025-11-12 20:21:09,543 - INFO - Start processing mcd for Chickenpox
-2025-11-12 20:21:10,024 - INFO - Finished processing mcd for Encephalitis uns
-2025-11-12 20:21:10,027 - INFO - Start processing mcd for HepatitisD
-2025-11-12 20:21:10,057 - INFO - Finished processing mcd for Filariasis
-2025-11-12 20:21:10,061 - INFO - Start processing mcd for Food_Poisoning
-2025-11-12 20:21:10,307 - INFO - Finished processing mcd for Dysentery,Amoebic
-2025-11-12 20:21:10,310 - INFO - Start processing mcd for Dysentery,Bacillary
-2025-11-12 20:21:11,236 - INFO - Finished processing mcd for D.H.F.shock syndrome
-2025-11-12 20:21:11,248 - INFO - Start processing mcd for Dengue fever
-2025-11-12 20:21:13,127 - INFO - Finished processing mcd for Genital Molluscum Contagiosum
-2025-11-12 20:21:13,128 - INFO - Start processing mcd for Hepatitis_uns
-2025-11-12 20:21:18,124 - INFO - Finished processing mcd for Avian Influenza
-2025-11-12 20:21:18,125 - INFO - Start processing mcd for Influenza
-2025-11-12 20:21:21,384 - INFO - Finished processing mcd for Eosinophilic Meningitis
-2025-11-12 20:21:21,387 - INFO - Start processing mcd for Kala azar
-2025-11-12 20:21:43,084 - INFO - Finished processing mcd for Cholera
-2025-11-12 20:21:43,086 - INFO - Start processing mcd for Leprosy
-2025-11-12 20:21:44,548 - INFO - Finished processing mcd for Gonorrhoea
-2025-11-12 20:21:44,550 - INFO - Start processing mcd for HepatitisA
-2025-11-12 20:21:49,123 - INFO - Finished processing mcd for D.H.F
-2025-11-12 20:21:49,126 - INFO - Start processing mcd for Liver fluke
-2025-11-12 20:21:53,983 - INFO - Finished processing mcd for Chickenpox
-2025-11-12 20:21:53,986 - INFO - Start processing mcd for Measles
-2025-11-12 20:21:55,609 - INFO - Finished processing mcd for HepatitisD
-2025-11-12 20:21:55,617 - INFO - Start processing mcd for HepatitisE
-2025-11-12 20:21:55,881 - INFO - Finished processing mcd for Dysentery,Bacillary
-2025-11-12 20:21:55,884 - INFO - Start processing mcd for Measles Total
-2025-11-12 20:21:55,885 - INFO - No files for Measles Total with prefix mcd_
-2025-11-12 20:21:55,885 - INFO - Start processing mcd for Melioidosis
-2025-11-12 20:21:56,623 - INFO - Finished processing mcd for HepatitisB
-2025-11-12 20:21:56,626 - INFO - Start processing mcd for HepatitisC
-2025-11-12 20:21:57,200 - INFO - Finished processing mcd for Food_Poisoning
-2025-11-12 20:21:57,203 - INFO - Start processing mcd for Meningitis,uns
-2025-11-12 20:21:57,649 - INFO - Finished processing mcd for Hepatitis_uns
-2025-11-12 20:21:57,652 - INFO - Start processing mcd for HFM
-2025-11-12 20:21:58,907 - INFO - Finished processing mcd for Dengue fever
-2025-11-12 20:21:58,909 - INFO - Start processing mcd for Mumps
-2025-11-12 20:22:04,552 - INFO - Finished processing mcd for Influenza
-2025-11-12 20:22:04,555 - INFO - Start processing mcd for Japanese B encephalitis
-2025-11-12 20:22:06,724 - INFO - Finished processing mcd for Kala azar
-2025-11-12 20:22:06,727 - INFO - Start processing mcd for L.G.V.&other&unsp.V.D
-2025-11-12 20:22:18,325 - INFO - Finished processing mcd for Japanese B encephalitis
-2025-11-12 20:22:18,326 - INFO - Start processing mcd for N.S.U._V
-2025-11-12 20:22:29,769 - INFO - Finished processing mcd for Leprosy
-2025-11-12 20:22:29,771 - INFO - Start processing mcd for Leptospirosis
-2025-11-12 20:22:30,323 - INFO - Finished processing mcd for HepatitisA
-2025-11-12 20:22:30,326 - INFO - Start processing mcd for Paratyphoid
-2025-11-12 20:22:34,046 - INFO - Finished processing mcd for Liver fluke
-2025-11-12 20:22:34,049 - INFO - Start processing mcd for Malaria
-2025-11-12 20:22:40,391 - INFO - Finished processing mcd for Measles
-2025-11-12 20:22:40,394 - INFO - Start processing mcd for Measles c Complication
-2025-11-12 20:22:41,584 - INFO - Finished processing mcd for Meningitis,uns
-2025-11-12 20:22:41,587 - INFO - Start processing mcd for Meningococcal Meningitis
-2025-11-12 20:22:41,998 - INFO - Finished processing mcd for HepatitisE
-2025-11-12 20:22:42,001 - INFO - Start processing mcd for Pertussis
-2025-11-12 20:22:42,191 - INFO - Finished processing mcd for HepatitisC
-2025-11-12 20:22:42,194 - INFO - Start processing mcd for Poliomyelitis
-2025-11-12 20:22:43,386 - INFO - Finished processing mcd for Melioidosis
-2025-11-12 20:22:43,388 - INFO - Start processing mcd for Rabies
-2025-11-12 20:22:44,648 - INFO - Finished processing mcd for HFM
-2025-11-12 20:22:44,650 - INFO - Start processing mcd for Scarlet fever
-2025-11-12 20:22:45,814 - INFO - Finished processing mcd for Mumps
-2025-11-12 20:22:45,816 - INFO - Start processing mcd for Mushroom poisoning
-2025-11-12 20:22:53,012 - INFO - Finished processing mcd for L.G.V.&other&unsp.V.D
-2025-11-12 20:22:53,015 - INFO - Start processing mcd for STI Total
-2025-11-12 20:22:53,016 - INFO - No files for STI Total with prefix mcd_
-2025-11-12 20:22:53,016 - INFO - Start processing mcd for Streptococcus suis
-2025-11-12 20:22:57,565 - INFO - Finished processing mcd for Measles c Complication
-2025-11-12 20:22:57,566 - INFO - Start processing mcd for Syphilis
-2025-11-12 20:23:04,236 - INFO - Finished processing mcd for N.S.U._V
-2025-11-12 20:23:04,238 - INFO - Start processing mcd for Other STI
-2025-11-12 20:23:15,701 - INFO - Finished processing mcd for Leptospirosis
-2025-11-12 20:23:15,704 - INFO - Start processing mcd for T.B.meningitis
-2025-11-12 20:23:15,891 - INFO - Finished processing mcd for Streptococcus suis
-2025-11-12 20:23:15,895 - INFO - Start processing mcd for Tetanus exc.Neo
-2025-11-12 20:23:16,533 - INFO - Finished processing mcd for Paratyphoid
-2025-11-12 20:23:16,535 - INFO - Start processing mcd for Pediculosis Pubis
-2025-11-12 20:23:19,498 - INFO - Finished processing mcd for Malaria
-2025-11-12 20:23:19,501 - INFO - Start processing mcd for Trichinosis
-2025-11-12 20:23:26,452 - INFO - Finished processing mcd for Pertussis
-2025-11-12 20:23:26,455 - INFO - Start processing mcd for Pneumonia
-2025-11-12 20:23:26,973 - INFO - Finished processing mcd for Meningococcal Meningitis
-2025-11-12 20:23:26,976 - INFO - Start processing mcd for Vaginal trichomoniasis
-2025-11-12 20:23:27,871 - INFO - Finished processing mcd for Pediculosis Pubis
-2025-11-12 20:23:28,022 - INFO - Finished processing mcd for Poliomyelitis
-2025-11-12 20:23:28,024 - INFO - Start processing mcd for Pulmonary T.B
-2025-11-12 20:23:28,852 - INFO - Finished processing mcd for Rabies
-2025-11-12 20:23:28,855 - INFO - Start processing mcd for Rubella
-2025-11-12 20:23:29,662 - INFO - Finished processing mcd for Scarlet fever
-2025-11-12 20:23:29,665 - INFO - Start processing mcd for Scrub Typhus
-2025-11-12 20:23:32,359 - INFO - Finished processing mcd for Mushroom poisoning
-2025-11-12 20:23:33,583 - INFO - Finished processing mcd for Other STI
-2025-11-12 20:23:38,021 - INFO - Finished processing mcd for Vaginal trichomoniasis
-2025-11-12 20:23:38,022 - INFO - Start processing mcd for Zika virus
-2025-11-12 20:23:40,230 - INFO - Finished processing mcd for Syphilis
-2025-11-12 20:23:40,233 - INFO - Start processing mcd for T.B. other organs
-2025-11-12 20:23:47,950 - INFO - Finished processing mcd for Zika virus
-2025-11-12 20:23:55,297 - INFO - Finished processing mcd for Tetanus exc.Neo
-2025-11-12 20:23:55,300 - INFO - Start processing mcd for Tetanus neonatorum
-2025-11-12 20:23:56,880 - INFO - Finished processing mcd for T.B.meningitis
-2025-11-12 20:23:56,882 - INFO - Start processing mcd for TB Total
-2025-11-12 20:23:56,883 - INFO - No files for TB Total with prefix mcd_
-2025-11-12 20:23:59,800 - INFO - Finished processing mcd for Trichinosis
-2025-11-12 20:23:59,802 - INFO - Start processing mcd for Typhoid
-2025-11-12 20:24:07,201 - INFO - Finished processing mcd for Pneumonia
-2025-11-12 20:24:07,241 - INFO - Finished processing mcd for Rubella
-2025-11-12 20:24:07,547 - INFO - Finished processing mcd for Pulmonary T.B
-2025-11-12 20:24:08,136 - INFO - Finished processing mcd for Scrub Typhus
-2025-11-12 20:24:15,048 - INFO - Finished processing mcd for T.B. other organs
-2025-11-12 20:24:24,407 - INFO - Finished processing mcd for Tetanus neonatorum
-2025-11-12 20:24:27,897 - INFO - Finished processing mcd for Typhoid
-2025-11-12 20:24:27,918 - INFO - Completed mode mcd: 67/72 succeeded
-2025-11-12 20:24:27,923 - INFO - Start processing rate data with 12 workers
-2025-11-12 20:24:28,825 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,828 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,837 - INFO - Start processing rate for Anthrax
-2025-11-12 20:24:28,839 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,840 - INFO - Start processing rate for Botulism
-2025-11-12 20:24:28,849 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,852 - INFO - Start processing rate for Chancroid
-2025-11-12 20:24:28,863 - INFO - Start processing rate for Chikungunya
-2025-11-12 20:24:28,868 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,877 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,879 - INFO - Start processing rate for Condyloma Acuminata
-2025-11-12 20:24:28,884 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,890 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,893 - INFO - Start processing rate for D.H.F.shock syndrome
-2025-11-12 20:24:28,896 - INFO - Start processing rate for DHF Total
-2025-11-12 20:24:28,897 - INFO - No files for DHF Total with prefix rate_
-2025-11-12 20:24:28,897 - INFO - Start processing rate for Diphtheria
-2025-11-12 20:24:28,901 - INFO - Start processing rate for Dysentery,Amoebic
-2025-11-12 20:24:28,911 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,917 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,921 - INFO - Start processing rate for Encephalitis Total
-2025-11-12 20:24:28,922 - INFO - No files for Encephalitis Total with prefix rate_
-2025-11-12 20:24:28,922 - INFO - Start processing rate for Encephalitis uns
-2025-11-12 20:24:28,929 - INFO - Start processing rate for Enterovirus Fever
-2025-11-12 20:24:28,938 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,949 - INFO - Start processing rate for Filariasis
-2025-11-12 20:24:28,950 - INFO - Finished processing all rate data
-2025-11-12 20:24:28,960 - INFO - Start processing rate for Genital Herpes Simplex
-2025-11-12 20:24:29,923 - INFO - Finished processing rate for Enterovirus Fever
-2025-11-12 20:24:29,924 - INFO - Start processing rate for Eosinophilic Meningitis
-2025-11-12 20:24:30,827 - INFO - Finished processing rate for Botulism
-2025-11-12 20:24:30,827 - INFO - Start processing rate for Brucellosis
-2025-11-12 20:24:31,466 - INFO - Finished processing rate for Chikungunya
-2025-11-12 20:24:31,466 - INFO - Start processing rate for Cholera
-2025-11-12 20:24:31,933 - INFO - Finished processing rate for Condyloma Acuminata
-2025-11-12 20:24:31,933 - INFO - Start processing rate for D.H.F
-2025-11-12 20:24:32,084 - INFO - Finished processing rate for Genital Herpes Simplex
-2025-11-12 20:24:32,084 - INFO - Start processing rate for Genital Molluscum Contagiosum
-2025-11-12 20:24:32,306 - INFO - Finished processing rate for Diphtheria
-2025-11-12 20:24:32,306 - INFO - Start processing rate for Gonorrhoea
-2025-11-12 20:24:32,408 - INFO - Finished processing rate for Anthrax
-2025-11-12 20:24:32,408 - INFO - Start processing rate for Avian Influenza
-2025-11-12 20:24:32,525 - INFO - Finished processing rate for Dysentery,Amoebic
-2025-11-12 20:24:32,525 - INFO - Start processing rate for Dysentery,Bacillary
-2025-11-12 20:24:32,568 - INFO - Finished processing rate for Encephalitis uns
-2025-11-12 20:24:32,569 - INFO - Start processing rate for HepatitisB
-2025-11-12 20:24:32,657 - INFO - Finished processing rate for Brucellosis
-2025-11-12 20:24:32,658 - INFO - Start processing rate for HepatitisD
-2025-11-12 20:24:32,781 - INFO - Finished processing rate for Chancroid
-2025-11-12 20:24:32,781 - INFO - Start processing rate for Chickenpox
-2025-11-12 20:24:32,798 - INFO - Finished processing rate for Filariasis
-2025-11-12 20:24:32,798 - INFO - Start processing rate for Food_Poisoning
-2025-11-12 20:24:32,888 - INFO - Finished processing rate for D.H.F.shock syndrome
-2025-11-12 20:24:32,888 - INFO - Start processing rate for Dengue fever
-2025-11-12 20:24:33,001 - INFO - Finished processing rate for Genital Molluscum Contagiosum
-2025-11-12 20:24:33,001 - INFO - Start processing rate for Hepatitis_uns
-2025-11-12 20:24:33,002 - INFO - No files for Hepatitis_uns with prefix rate_
-2025-11-12 20:24:33,002 - INFO - Start processing rate for HFM
-2025-11-12 20:24:33,311 - INFO - Finished processing rate for Avian Influenza
-2025-11-12 20:24:33,311 - INFO - Start processing rate for Influenza
-2025-11-12 20:24:33,634 - INFO - Finished processing rate for Eosinophilic Meningitis
-2025-11-12 20:24:33,634 - INFO - Start processing rate for Kala azar
-2025-11-12 20:24:34,842 - INFO - Finished processing rate for Cholera
-2025-11-12 20:24:34,842 - INFO - Start processing rate for Leprosy
-2025-11-12 20:24:35,184 - INFO - Finished processing rate for Gonorrhoea
-2025-11-12 20:24:35,184 - INFO - Start processing rate for HepatitisA
-2025-11-12 20:24:35,612 - INFO - Finished processing rate for D.H.F
-2025-11-12 20:24:35,612 - INFO - Start processing rate for Liver fluke
-2025-11-12 20:24:35,739 - INFO - Finished processing rate for Dysentery,Bacillary
-2025-11-12 20:24:35,739 - INFO - Start processing rate for Measles
-2025-11-12 20:24:36,131 - INFO - Finished processing rate for HepatitisB
-2025-11-12 20:24:36,131 - INFO - Start processing rate for HepatitisC
-2025-11-12 20:24:36,144 - INFO - Finished processing rate for HepatitisD
-2025-11-12 20:24:36,144 - INFO - Start processing rate for HepatitisE
-2025-11-12 20:24:36,409 - INFO - Finished processing rate for Chickenpox
-2025-11-12 20:24:36,409 - INFO - Start processing rate for Measles Total
-2025-11-12 20:24:36,410 - INFO - No files for Measles Total with prefix rate_
-2025-11-12 20:24:36,410 - INFO - Start processing rate for Melioidosis
-2025-11-12 20:24:36,416 - INFO - Finished processing rate for Food_Poisoning
-2025-11-12 20:24:36,417 - INFO - Start processing rate for Meningitis,uns
-2025-11-12 20:24:36,579 - INFO - Finished processing rate for Dengue fever
-2025-11-12 20:24:36,580 - INFO - Start processing rate for Mumps
-2025-11-12 20:24:36,738 - INFO - Finished processing rate for HFM
-2025-11-12 20:24:36,738 - INFO - Start processing rate for N.S.U._V
-2025-11-12 20:24:37,092 - INFO - Finished processing rate for Influenza
-2025-11-12 20:24:37,092 - INFO - Start processing rate for Japanese B encephalitis
-2025-11-12 20:24:37,136 - INFO - Finished processing rate for Kala azar
-2025-11-12 20:24:37,136 - INFO - Start processing rate for L.G.V.&other&unsp.V.D
-2025-11-12 20:24:38,289 - INFO - Finished processing rate for Japanese B encephalitis
-2025-11-12 20:24:38,289 - INFO - Start processing rate for Paratyphoid
-2025-11-12 20:24:38,582 - INFO - Finished processing rate for Leprosy
-2025-11-12 20:24:38,583 - INFO - Start processing rate for Leptospirosis
-2025-11-12 20:24:38,885 - INFO - Finished processing rate for HepatitisA
-2025-11-12 20:24:38,885 - INFO - Start processing rate for Pertussis
-2025-11-12 20:24:39,268 - INFO - Finished processing rate for Liver fluke
-2025-11-12 20:24:39,268 - INFO - Start processing rate for Malaria
-2025-11-12 20:24:39,434 - INFO - Finished processing rate for Measles
-2025-11-12 20:24:39,434 - INFO - Start processing rate for Measles c Complication
-2025-11-12 20:24:39,662 - INFO - Finished processing rate for HepatitisC
-2025-11-12 20:24:39,662 - INFO - Start processing rate for Poliomyelitis
-2025-11-12 20:24:39,864 - INFO - Finished processing rate for HepatitisE
-2025-11-12 20:24:39,864 - INFO - Start processing rate for Rabies
-2025-11-12 20:24:40,101 - INFO - Finished processing rate for Meningitis,uns
-2025-11-12 20:24:40,101 - INFO - Start processing rate for Meningococcal Meningitis
-2025-11-12 20:24:40,226 - INFO - Finished processing rate for Melioidosis
-2025-11-12 20:24:40,226 - INFO - Start processing rate for Scarlet fever
-2025-11-12 20:24:40,398 - INFO - Finished processing rate for Mumps
-2025-11-12 20:24:40,398 - INFO - Start processing rate for Mushroom poisoning
-2025-11-12 20:24:40,767 - INFO - Finished processing rate for N.S.U._V
-2025-11-12 20:24:40,767 - INFO - Start processing rate for Other STI
-2025-11-12 20:24:41,113 - INFO - Finished processing rate for L.G.V.&other&unsp.V.D
-2025-11-12 20:24:41,114 - INFO - Start processing rate for STI Total
-2025-11-12 20:24:41,115 - INFO - No files for STI Total with prefix rate_
-2025-11-12 20:24:41,115 - INFO - Start processing rate for Streptococcus suis
-2025-11-12 20:24:42,279 - INFO - Finished processing rate for Paratyphoid
-2025-11-12 20:24:42,279 - INFO - Start processing rate for Pediculosis Pubis
-2025-11-12 20:24:42,361 - INFO - Finished processing rate for Leptospirosis
-2025-11-12 20:24:42,361 - INFO - Start processing rate for Syphilis
-2025-11-12 20:24:42,870 - INFO - Finished processing rate for Malaria
-2025-11-12 20:24:42,870 - INFO - Start processing rate for T.B.meningitis
-2025-11-12 20:24:42,933 - INFO - Finished processing rate for Measles c Complication
-2025-11-12 20:24:42,934 - INFO - Start processing rate for Tetanus exc.Neo
-2025-11-12 20:24:42,938 - INFO - Finished processing rate for Streptococcus suis
-2025-11-12 20:24:42,938 - INFO - Start processing rate for Trichinosis
-2025-11-12 20:24:43,306 - INFO - Finished processing rate for Pertussis
-2025-11-12 20:24:43,306 - INFO - Start processing rate for Pneumonia
-2025-11-12 20:24:43,333 - INFO - Finished processing rate for Pediculosis Pubis
-2025-11-12 20:24:43,333 - INFO - Start processing rate for Vaginal trichomoniasis
-2025-11-12 20:24:43,599 - INFO - Finished processing rate for Poliomyelitis
-2025-11-12 20:24:43,599 - INFO - Start processing rate for Pulmonary T.B
-2025-11-12 20:24:43,650 - INFO - Finished processing rate for Meningococcal Meningitis
-2025-11-12 20:24:43,661 - INFO - Finished processing rate for Scarlet fever
-2025-11-12 20:24:43,661 - INFO - Start processing rate for Scrub Typhus
-2025-11-12 20:24:43,808 - INFO - Finished processing rate for Other STI
-2025-11-12 20:24:44,259 - INFO - Finished processing rate for Vaginal trichomoniasis
-2025-11-12 20:24:44,259 - INFO - Start processing rate for Zika virus
-2025-11-12 20:24:44,270 - INFO - Finished processing rate for Rabies
-2025-11-12 20:24:44,270 - INFO - Start processing rate for Rubella
-2025-11-12 20:24:44,765 - INFO - Finished processing rate for Mushroom poisoning
-2025-11-12 20:24:45,203 - INFO - Finished processing rate for Zika virus
-2025-11-12 20:24:45,948 - INFO - Finished processing rate for Syphilis
-2025-11-12 20:24:45,948 - INFO - Start processing rate for T.B. other organs
-2025-11-12 20:24:46,484 - INFO - Finished processing rate for T.B.meningitis
-2025-11-12 20:24:46,484 - INFO - Start processing rate for TB Total
-2025-11-12 20:24:46,485 - INFO - No files for TB Total with prefix rate_
-2025-11-12 20:24:46,647 - INFO - Finished processing rate for Tetanus exc.Neo
-2025-11-12 20:24:46,647 - INFO - Start processing rate for Tetanus neonatorum
-2025-11-12 20:24:46,698 - INFO - Finished processing rate for Trichinosis
-2025-11-12 20:24:46,699 - INFO - Start processing rate for Typhoid
-2025-11-12 20:24:46,870 - INFO - Finished processing rate for Pneumonia
-2025-11-12 20:24:47,137 - INFO - Finished processing rate for Pulmonary T.B
-2025-11-12 20:24:47,191 - INFO - Finished processing rate for Scrub Typhus
-2025-11-12 20:24:47,711 - INFO - Finished processing rate for Rubella
-2025-11-12 20:24:48,926 - INFO - Finished processing rate for T.B. other organs
-2025-11-12 20:24:49,406 - INFO - Finished processing rate for Tetanus neonatorum
-2025-11-12 20:24:49,444 - INFO - Finished processing rate for Typhoid
-2025-11-12 20:24:49,499 - INFO - Completed mode rate: 66/72 succeeded
-2025-11-12 20:24:49,499 - INFO - Finished processing all rate data
-2025-11-16 18:24:54,221 - INFO - Start processing rate data with 12 workers
-2025-11-16 18:24:55,207 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,216 - INFO - Start processing rate for Anthrax
-2025-11-16 18:24:55,254 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,263 - INFO - Start processing rate for Botulism
-2025-11-16 18:24:55,267 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,275 - INFO - Start processing rate for Chikungunya
-2025-11-16 18:24:55,307 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,313 - INFO - Start processing rate for Condyloma Acuminata
-2025-11-16 18:24:55,326 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,332 - INFO - Start processing rate for D.H.F.shock syndrome
-2025-11-16 18:24:55,339 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,341 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,345 - INFO - Start processing rate for DHF Total
-2025-11-16 18:24:55,346 - INFO - No files for DHF Total with prefix rate_
-2025-11-16 18:24:55,346 - INFO - Start processing rate for Diphtheria
-2025-11-16 18:24:55,348 - INFO - Start processing rate for Dysentery,Amoebic
-2025-11-16 18:24:55,351 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,357 - INFO - Start processing rate for Encephalitis Total
-2025-11-16 18:24:55,358 - INFO - No files for Encephalitis Total with prefix rate_
-2025-11-16 18:24:55,358 - INFO - Start processing rate for Encephalitis uns
-2025-11-16 18:24:55,365 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,368 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,360 - INFO - Finished processing all rate data
-2025-11-16 18:24:55,375 - INFO - Start processing rate for Enterovirus Fever
-2025-11-16 18:24:55,377 - INFO - Start processing rate for Filariasis
-2025-11-16 18:24:55,380 - INFO - Start processing rate for Genital Herpes Simplex
-2025-11-16 18:24:56,408 - INFO - Finished processing rate for Enterovirus Fever
-2025-11-16 18:24:56,408 - INFO - Start processing rate for Eosinophilic Meningitis
-2025-11-16 18:24:57,408 - INFO - Finished processing rate for Botulism
-2025-11-16 18:24:57,409 - INFO - Start processing rate for Brucellosis
-2025-11-16 18:24:58,206 - INFO - Finished processing rate for Chikungunya
-2025-11-16 18:24:58,206 - INFO - Start processing rate for Cholera
-2025-11-16 18:24:58,755 - INFO - Finished processing rate for Genital Herpes Simplex
-2025-11-16 18:24:58,756 - INFO - Start processing rate for Genital Molluscum Contagiosum
-2025-11-16 18:24:58,759 - INFO - Finished processing rate for Condyloma Acuminata
-2025-11-16 18:24:58,759 - INFO - Start processing rate for D.H.F
-2025-11-16 18:24:59,023 - INFO - Finished processing rate for Encephalitis uns
-2025-11-16 18:24:59,081 - INFO - Start processing rate for Gonorrhoea
-2025-11-16 18:24:59,212 - INFO - Finished processing rate for Chancroid
-2025-11-16 18:24:59,212 - INFO - Start processing rate for Chickenpox
-2025-11-16 18:24:59,271 - INFO - Finished processing rate for Diphtheria
-2025-11-16 18:24:59,271 - INFO - Start processing rate for HepatitisB
-2025-11-16 18:24:59,319 - INFO - Finished processing rate for Filariasis
-2025-11-16 18:24:59,319 - INFO - Start processing rate for Food_Poisoning
-2025-11-16 18:24:59,392 - INFO - Finished processing rate for Anthrax
-2025-11-16 18:24:59,392 - INFO - Start processing rate for Avian Influenza
-2025-11-16 18:24:59,407 - INFO - Finished processing rate for Dysentery,Amoebic
-2025-11-16 18:24:59,408 - INFO - Start processing rate for Dysentery,Bacillary
-2025-11-16 18:24:59,463 - INFO - Finished processing rate for Brucellosis
-2025-11-16 18:24:59,464 - INFO - Start processing rate for HepatitisD
-2025-11-16 18:24:59,546 - INFO - Finished processing rate for D.H.F.shock syndrome
-2025-11-16 18:24:59,547 - INFO - Start processing rate for Dengue fever
-2025-11-16 18:24:59,968 - INFO - Finished processing rate for Genital Molluscum Contagiosum
-2025-11-16 18:24:59,969 - INFO - Start processing rate for Hepatitis_uns
-2025-11-16 18:24:59,998 - INFO - No files for Hepatitis_uns with prefix rate_
-2025-11-16 18:24:59,998 - INFO - Start processing rate for HFM
-2025-11-16 18:25:00,593 - INFO - Finished processing rate for Avian Influenza
-2025-11-16 18:25:00,593 - INFO - Start processing rate for Influenza
-2025-11-16 18:25:01,124 - INFO - Finished processing rate for Eosinophilic Meningitis
-2025-11-16 18:25:01,125 - INFO - Start processing rate for Kala azar
-2025-11-16 18:25:02,182 - INFO - Finished processing rate for Cholera
-2025-11-16 18:25:02,183 - INFO - Start processing rate for Leprosy
-2025-11-16 18:25:02,518 - INFO - Finished processing rate for Gonorrhoea
-2025-11-16 18:25:02,518 - INFO - Start processing rate for HepatitisA
-2025-11-16 18:25:03,341 - INFO - Finished processing rate for HepatitisB
-2025-11-16 18:25:03,342 - INFO - Start processing rate for HepatitisC
-2025-11-16 18:25:03,440 - INFO - Finished processing rate for D.H.F
-2025-11-16 18:25:03,440 - INFO - Start processing rate for Liver fluke
-2025-11-16 18:25:03,476 - INFO - Finished processing rate for Dysentery,Bacillary
-2025-11-16 18:25:03,477 - INFO - Start processing rate for Measles
-2025-11-16 18:25:03,603 - INFO - Finished processing rate for Chickenpox
-2025-11-16 18:25:03,604 - INFO - Start processing rate for Measles Total
-2025-11-16 18:25:03,604 - INFO - No files for Measles Total with prefix rate_
-2025-11-16 18:25:03,604 - INFO - Start processing rate for Melioidosis
-2025-11-16 18:25:03,799 - INFO - Finished processing rate for Food_Poisoning
-2025-11-16 18:25:03,799 - INFO - Start processing rate for Meningitis,uns
-2025-11-16 18:25:03,885 - INFO - Finished processing rate for HepatitisD
-2025-11-16 18:25:03,885 - INFO - Start processing rate for HepatitisE
-2025-11-16 18:25:04,170 - INFO - Finished processing rate for Dengue fever
-2025-11-16 18:25:04,170 - INFO - Start processing rate for Mumps
-2025-11-16 18:25:04,231 - INFO - Finished processing rate for HFM
-2025-11-16 18:25:04,231 - INFO - Start processing rate for N.S.U._V
-2025-11-16 18:25:05,428 - INFO - Finished processing rate for Influenza
-2025-11-16 18:25:05,428 - INFO - Start processing rate for Japanese B encephalitis
-2025-11-16 18:25:05,597 - INFO - Finished processing rate for Kala azar
-2025-11-16 18:25:05,598 - INFO - Start processing rate for L.G.V.&other&unsp.V.D
-2025-11-16 18:25:06,847 - INFO - Finished processing rate for HepatitisA
-2025-11-16 18:25:06,848 - INFO - Start processing rate for Paratyphoid
-2025-11-16 18:25:06,867 - INFO - Finished processing rate for Japanese B encephalitis
-2025-11-16 18:25:06,867 - INFO - Start processing rate for Pertussis
-2025-11-16 18:25:07,241 - INFO - Finished processing rate for Leprosy
-2025-11-16 18:25:07,242 - INFO - Start processing rate for Leptospirosis
-2025-11-16 18:25:08,253 - INFO - Finished processing rate for Liver fluke
-2025-11-16 18:25:08,254 - INFO - Start processing rate for Malaria
-2025-11-16 18:25:08,423 - INFO - Finished processing rate for HepatitisC
-2025-11-16 18:25:08,423 - INFO - Start processing rate for Poliomyelitis
-2025-11-16 18:25:08,687 - INFO - Finished processing rate for Measles
-2025-11-16 18:25:08,687 - INFO - Start processing rate for Measles c Complication
-2025-11-16 18:25:08,740 - INFO - Finished processing rate for Melioidosis
-2025-11-16 18:25:08,740 - INFO - Start processing rate for Rabies
-2025-11-16 18:25:08,977 - INFO - Finished processing rate for HepatitisE
-2025-11-16 18:25:08,977 - INFO - Start processing rate for Scarlet fever
-2025-11-16 18:25:09,148 - INFO - Finished processing rate for Meningitis,uns
-2025-11-16 18:25:09,148 - INFO - Start processing rate for Meningococcal Meningitis
-2025-11-16 18:25:09,395 - INFO - Finished processing rate for Mumps
-2025-11-16 18:25:09,396 - INFO - Start processing rate for Mushroom poisoning
-2025-11-16 18:25:09,532 - INFO - Finished processing rate for N.S.U._V
-2025-11-16 18:25:09,532 - INFO - Start processing rate for Other STI
-2025-11-16 18:25:10,968 - INFO - Finished processing rate for L.G.V.&other&unsp.V.D
-2025-11-16 18:25:10,968 - INFO - Start processing rate for STI Total
-2025-11-16 18:25:10,969 - INFO - No files for STI Total with prefix rate_
-2025-11-16 18:25:10,969 - INFO - Start processing rate for Streptococcus suis
-2025-11-16 18:25:11,988 - INFO - Finished processing rate for Pertussis
-2025-11-16 18:25:11,988 - INFO - Start processing rate for Pneumonia
-2025-11-16 18:25:12,066 - INFO - Finished processing rate for Paratyphoid
-2025-11-16 18:25:12,066 - INFO - Start processing rate for Pediculosis Pubis
-2025-11-16 18:25:12,469 - INFO - Finished processing rate for Leptospirosis
-2025-11-16 18:25:12,470 - INFO - Start processing rate for Syphilis
-2025-11-16 18:25:12,678 - INFO - Finished processing rate for Other STI
-2025-11-16 18:25:12,678 - INFO - Start processing rate for T.B.meningitis
-2025-11-16 18:25:12,846 - INFO - Finished processing rate for Malaria
-2025-11-16 18:25:12,846 - INFO - Start processing rate for Tetanus exc.Neo
-2025-11-16 18:25:12,898 - INFO - Finished processing rate for Poliomyelitis
-2025-11-16 18:25:12,898 - INFO - Start processing rate for Pulmonary T.B
-2025-11-16 18:25:12,945 - INFO - Finished processing rate for Measles c Complication
-2025-11-16 18:25:12,946 - INFO - Start processing rate for Trichinosis
-2025-11-16 18:25:13,171 - INFO - Finished processing rate for Pediculosis Pubis
-2025-11-16 18:25:13,171 - INFO - Start processing rate for Vaginal trichomoniasis
-2025-11-16 18:25:13,179 - INFO - Finished processing rate for Streptococcus suis
-2025-11-16 18:25:13,368 - INFO - Finished processing rate for Rabies
-2025-11-16 18:25:13,369 - INFO - Start processing rate for Rubella
-2025-11-16 18:25:13,473 - INFO - Finished processing rate for Scarlet fever
-2025-11-16 18:25:13,474 - INFO - Start processing rate for Scrub Typhus
-2025-11-16 18:25:13,976 - INFO - Finished processing rate for Mushroom poisoning
-2025-11-16 18:25:14,175 - INFO - Finished processing rate for Meningococcal Meningitis
-2025-11-16 18:25:14,216 - INFO - Finished processing rate for Vaginal trichomoniasis
-2025-11-16 18:25:14,216 - INFO - Start processing rate for Zika virus
-2025-11-16 18:25:15,207 - INFO - Finished processing rate for Zika virus
-2025-11-16 18:25:16,073 - INFO - Finished processing rate for Pneumonia
-2025-11-16 18:25:16,281 - INFO - Finished processing rate for Syphilis
-2025-11-16 18:25:16,281 - INFO - Start processing rate for T.B. other organs
-2025-11-16 18:25:16,561 - INFO - Finished processing rate for Tetanus exc.Neo
-2025-11-16 18:25:16,561 - INFO - Start processing rate for Tetanus neonatorum
-2025-11-16 18:25:16,589 - INFO - Finished processing rate for Trichinosis
-2025-11-16 18:25:16,589 - INFO - Start processing rate for Typhoid
-2025-11-16 18:25:16,605 - INFO - Finished processing rate for Pulmonary T.B
-2025-11-16 18:25:16,639 - INFO - Finished processing rate for T.B.meningitis
-2025-11-16 18:25:16,639 - INFO - Start processing rate for TB Total
-2025-11-16 18:25:16,640 - INFO - No files for TB Total with prefix rate_
-2025-11-16 18:25:16,934 - INFO - Finished processing rate for Scrub Typhus
-2025-11-16 18:25:16,944 - INFO - Finished processing rate for Rubella
-2025-11-16 18:25:18,941 - INFO - Finished processing rate for T.B. other organs
-2025-11-16 18:25:19,196 - INFO - Finished processing rate for Tetanus neonatorum
-2025-11-16 18:25:19,199 - INFO - Finished processing rate for Typhoid
-2025-11-16 18:25:19,219 - INFO - Completed mode rate: 66/72 succeeded
-2025-11-16 18:25:19,220 - INFO - Finished processing all rate data
-2025-11-16 19:14:25,142 - INFO - Start processing rate data with 12 workers
-2025-11-16 19:14:26,165 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,200 - INFO - Start processing rate for Anthrax
-2025-11-16 19:14:26,210 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,227 - INFO - Start processing rate for Botulism
-2025-11-16 19:14:26,306 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,321 - INFO - Start processing rate for Chancroid
-2025-11-16 19:14:26,355 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,369 - INFO - Start processing rate for Chikungunya
-2025-11-16 19:14:26,397 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,401 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,410 - INFO - Start processing rate for Condyloma Acuminata
-2025-11-16 19:14:26,413 - INFO - Start processing rate for D.H.F.shock syndrome
-2025-11-16 19:14:26,479 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,491 - INFO - Start processing rate for DHF Total
-2025-11-16 19:14:26,492 - INFO - No files for DHF Total with prefix rate_
--16 19:14:26,493 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,499 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,505 - INFO - Start processing rate for Dysentery,Amoebic
-2025-11-16 19:14:26,506 - INFO - Start processing rate for Encephalitis Total
-2025-11-16 19:14:26,510 - INFO - No files for Encephalitis Total with prefix rate_
-2025-11-16 19:14:26,510 - INFO - Start processing rate for Encephalitis uns
-2025-11-16 19:14:26,510 - INFO - Start processing rate for Enterovirus Fever
-2025-11-16 19:14:26,516 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,527 - INFO - Start processing rate for Filariasis
-2025-11-16 19:14:26,542 - INFO - Start processing rate for Diphtheria
-2025-11-16 19:14:26,652 - INFO - Finished processing all rate data
-2025-11-16 19:14:26,665 - INFO - Start processing rate for Genital Herpes Simplex
-2025-11-16 19:14:27,869 - INFO - Finished processing rate for Enterovirus Fever
-2025-11-16 19:14:27,869 - INFO - Start processing rate for Eosinophilic Meningitis
-2025-11-16 19:14:28,546 - INFO - Finished processing rate for Botulism
-2025-11-16 19:14:28,547 - INFO - Start processing rate for Brucellosis
-2025-11-16 19:14:28,964 - INFO - Finished processing rate for Chikungunya
-2025-11-16 19:14:28,965 - INFO - Start processing rate for Cholera
-2025-11-16 19:14:29,949 - INFO - Finished processing rate for Anthrax
-2025-11-16 19:14:29,949 - INFO - Start processing rate for Avian Influenza
-2025-11-16 19:14:30,117 - INFO - Finished processing rate for Genital Herpes Simplex
-2025-11-16 19:14:30,117 - INFO - Start processing rate for Genital Molluscum Contagiosum
-2025-11-16 19:14:30,603 - INFO - Finished processing rate for Encephalitis uns
-2025-11-16 19:14:30,604 - INFO - Start processing rate for Gonorrhoea
-2025-11-16 19:14:30,684 - INFO - Finished processing rate for Condyloma Acuminata
-2025-11-16 19:14:30,685 - INFO - Start processing rate for D.H.F
-2025-11-16 19:14:30,854 - INFO - Finished processing rate for D.H.F.shock syndrome
-2025-11-16 19:14:30,857 - INFO - Start processing rate for Dengue fever
-2025-11-16 19:14:30,901 - INFO - Finished processing rate for Avian Influenza
-2025-11-16 19:14:30,902 - INFO - Start processing rate for HepatitisB
-2025-11-16 19:14:30,928 - INFO - Finished processing rate for Brucellosis
-2025-11-16 19:14:30,929 - INFO - Start processing rate for HepatitisD
-2025-11-16 19:14:31,152 - INFO - Finished processing rate for Chancroid
-2025-11-16 19:14:31,153 - INFO - Start processing rate for Chickenpox
-2025-11-16 19:14:31,195 - INFO - Finished processing rate for Diphtheria
-2025-11-16 19:14:31,196 - INFO - Start processing rate for Hepatitis_uns
-2025-11-16 19:14:31,197 - INFO - No files for Hepatitis_uns with prefix rate_
-2025-11-16 19:14:31,197 - INFO - Start processing rate for HFM
-2025-11-16 19:14:31,382 - INFO - Finished processing rate for Genital Molluscum Contagiosum
-2025-11-16 19:14:31,383 - INFO - Start processing rate for Influenza
-2025-11-16 19:14:31,415 - INFO - Finished processing rate for Filariasis
-2025-11-16 19:14:31,416 - INFO - Start processing rate for Food_Poisoning
-2025-11-16 19:14:31,585 - INFO - Finished processing rate for Dysentery,Amoebic
-2025-11-16 19:14:31,586 - INFO - Start processing rate for Dysentery,Bacillary
-2025-11-16 19:14:31,984 - INFO - Finished processing rate for Eosinophilic Meningitis
-2025-11-16 19:14:31,985 - INFO - Start processing rate for Kala azar
-2025-11-16 19:14:34,952 - INFO - Finished processing rate for Dengue fever
-2025-11-16 19:14:34,952 - INFO - Start processing rate for Leprosy
-2025-11-16 19:14:34,981 - INFO - Finished processing rate for Cholera
-2025-11-16 19:14:34,981 - INFO - Start processing rate for Liver fluke
-2025-11-16 19:14:35,015 - INFO - Finished processing rate for D.H.F
-2025-11-16 19:14:35,016 - INFO - Start processing rate for Measles
-2025-11-16 19:14:35,201 - INFO - Finished processing rate for Chickenpox
-2025-11-16 19:14:35,202 - INFO - Start processing rate for Measles Total
-2025-11-16 19:14:35,204 - INFO - No files for Measles Total with prefix rate_
-2025-11-16 19:14:35,204 - INFO - Start processing rate for Melioidosis
-2025-11-16 19:14:35,387 - INFO - Finished processing rate for Gonorrhoea
-2025-11-16 19:14:35,388 - INFO - Start processing rate for HepatitisA
-2025-11-16 19:14:35,515 - INFO - Finished processing rate for Influenza
-2025-11-16 19:14:35,516 - INFO - Start processing rate for Japanese B encephalitis
-2025-11-16 19:14:35,531 - INFO - Finished processing rate for HepatitisD
-2025-11-16 19:14:35,532 - INFO - Start processing rate for HepatitisE
-2025-11-16 19:14:35,721 - INFO - Finished processing rate for HFM
-2025-11-16 19:14:35,721 - INFO - Start processing rate for Meningitis,uns
-2025-11-16 19:14:35,880 - INFO - Finished processing rate for Dysentery,Bacillary
-2025-11-16 19:14:35,880 - INFO - Start processing rate for Mumps
-2025-11-16 19:14:36,171 - INFO - Finished processing rate for Kala azar
-2025-11-16 19:14:36,172 - INFO - Start processing rate for L.G.V.&other&unsp.V.D
-2025-11-16 19:14:36,184 - INFO - Finished processing rate for Food_Poisoning
-2025-11-16 19:14:36,185 - INFO - Start processing rate for N.S.U._V
-2025-11-16 19:14:36,309 - INFO - Finished processing rate for HepatitisB
-2025-11-16 19:14:36,309 - INFO - Start processing rate for HepatitisC
-2025-11-16 19:14:36,583 - INFO - Finished processing rate for Japanese B encephalitis
-2025-11-16 19:14:36,584 - INFO - Start processing rate for Paratyphoid
-2025-11-16 19:14:39,623 - INFO - Finished processing rate for Measles
-2025-11-16 19:14:39,626 - INFO - Start processing rate for Measles c Complication
-2025-11-16 19:14:39,653 - INFO - Finished processing rate for Leprosy
-2025-11-16 19:14:39,654 - INFO - Start processing rate for Leptospirosis
-2025-11-16 19:14:39,665 - INFO - Finished processing rate for HepatitisE
-2025-11-16 19:14:39,666 - INFO - Start processing rate for Pertussis
-2025-11-16 19:14:39,767 - INFO - Finished processing rate for HepatitisA
-2025-11-16 19:14:39,767 - INFO - Start processing rate for Poliomyelitis
-2025-11-16 19:14:39,860 - INFO - Finished processing rate for Mumps
-2025-11-16 19:14:39,861 - INFO - Start processing rate for Mushroom poisoning
-2025-11-16 19:14:39,895 - INFO - Finished processing rate for Liver fluke
-2025-11-16 19:14:39,896 - INFO - Start processing rate for Malaria
-2025-11-16 19:14:40,196 - INFO - Finished processing rate for N.S.U._V
-2025-11-16 19:14:40,197 - INFO - Start processing rate for Other STI
-2025-11-16 19:14:40,260 - INFO - Finished processing rate for Melioidosis
-2025-11-16 19:14:40,261 - INFO - Start processing rate for Rabies
-2025-11-16 19:14:40,274 - INFO - Finished processing rate for L.G.V.&other&unsp.V.D
-2025-11-16 19:14:40,275 - INFO - Start processing rate for Scarlet fever
-2025-11-16 19:14:40,282 - INFO - Finished processing rate for HepatitisC
-2025-11-16 19:14:40,283 - INFO - Start processing rate for STI Total
-2025-11-16 19:14:40,283 - INFO - No files for STI Total with prefix rate_
-2025-11-16 19:14:40,284 - INFO - Start processing rate for Streptococcus suis
-2025-11-16 19:14:40,432 - INFO - Finished processing rate for Meningitis,uns
-2025-11-16 19:14:40,433 - INFO - Start processing rate for Meningococcal Meningitis
-2025-11-16 19:14:41,414 - INFO - Finished processing rate for Paratyphoid
-2025-11-16 19:14:41,416 - INFO - Start processing rate for Pediculosis Pubis
-2025-11-16 19:14:42,663 - INFO - Finished processing rate for Pediculosis Pubis
-2025-11-16 19:14:42,663 - INFO - Start processing rate for Syphilis
-2025-11-16 19:14:42,763 - INFO - Finished processing rate for Other STI
-2025-11-16 19:14:42,763 - INFO - Start processing rate for T.B.meningitis
-2025-11-16 19:14:43,238 - INFO - Finished processing rate for Streptococcus suis
-2025-11-16 19:14:43,238 - INFO - Start processing rate for Tetanus exc.Neo
-2025-11-16 19:14:43,786 - INFO - Finished processing rate for Measles c Complication
-2025-11-16 19:14:43,787 - INFO - Start processing rate for Trichinosis
-2025-11-16 19:14:43,900 - INFO - Finished processing rate for Malaria
-2025-11-16 19:14:43,901 - INFO - Start processing rate for Vaginal trichomoniasis
-2025-11-16 19:14:43,932 - INFO - Finished processing rate for Pertussis
-2025-11-16 19:14:43,934 - INFO - Start processing rate for Pneumonia
-2025-11-16 19:14:43,956 - INFO - Finished processing rate for Leptospirosis
-2025-11-16 19:14:44,061 - INFO - Finished processing rate for Rabies
-2025-11-16 19:14:44,062 - INFO - Start processing rate for Rubella
-2025-11-16 19:14:44,276 - INFO - Finished processing rate for Meningococcal Meningitis
-2025-11-16 19:14:44,278 - INFO - Finished processing rate for Scarlet fever
-2025-11-16 19:14:44,279 - INFO - Start processing rate for Scrub Typhus
-2025-11-16 19:14:44,300 - INFO - Finished processing rate for Poliomyelitis
-2025-11-16 19:14:44,300 - INFO - Start processing rate for Pulmonary T.B
-2025-11-16 19:14:44,376 - INFO - Finished processing rate for Mushroom poisoning
-2025-11-16 19:14:44,872 - INFO - Finished processing rate for Vaginal trichomoniasis
-2025-11-16 19:14:44,872 - INFO - Start processing rate for Zika virus
-2025-11-16 19:14:45,766 - INFO - Finished processing rate for Zika virus
-2025-11-16 19:14:46,727 - INFO - Finished processing rate for Syphilis
-2025-11-16 19:14:46,727 - INFO - Start processing rate for T.B. other organs
-2025-11-16 19:14:47,070 - INFO - Finished processing rate for T.B.meningitis
-2025-11-16 19:14:47,071 - INFO - Start processing rate for TB Total
-2025-11-16 19:14:47,072 - INFO - No files for TB Total with prefix rate_
-2025-11-16 19:14:47,302 - INFO - Finished processing rate for Tetanus exc.Neo
-2025-11-16 19:14:47,303 - INFO - Start processing rate for Tetanus neonatorum
-2025-11-16 19:14:47,844 - INFO - Finished processing rate for Trichinosis
-2025-11-16 19:14:47,845 - INFO - Start processing rate for Typhoid
-2025-11-16 19:14:48,035 - INFO - Finished processing rate for Rubella
-2025-11-16 19:14:48,099 - INFO - Finished processing rate for Pneumonia
-2025-11-16 19:14:48,303 - INFO - Finished processing rate for Scrub Typhus
-2025-11-16 19:14:48,389 - INFO - Finished processing rate for Pulmonary T.B
-2025-11-16 19:14:50,153 - INFO - Finished processing rate for T.B. other organs
-2025-11-16 19:14:50,509 - INFO - Finished processing rate for Tetanus neonatorum
-2025-11-16 19:14:50,751 - INFO - Finished processing rate for Typhoid
-2025-11-16 19:14:50,823 - INFO - Completed mode rate: 66/72 succeeded
-2025-11-16 19:14:50,823 - INFO - Finished processing all rate data
+2025-11-26 20:30:14,386 - INFO - Start processing ac data with 40 workers
+2025-11-26 20:30:14,484 - INFO - Start processing ac for Leprosy
+2025-11-26 20:30:14,484 - INFO - Start processing ac for Poliomyelitis
+2025-11-26 20:30:14,484 - INFO - Start processing ac for Filariasis
+2025-11-26 20:30:14,485 - INFO - Start processing ac for Food_Poisoning
+2025-11-26 20:30:14,485 - INFO - Start processing ac for Dysentery,Bacillary
+2025-11-26 20:30:14,485 - INFO - Start processing ac for Melioidosis
+2025-11-26 20:30:14,486 - INFO - Start processing ac for N.S.U._V
+2025-11-26 20:30:14,486 - INFO - Start processing ac for Mushroom poisoning
+2025-11-26 20:30:14,486 - INFO - Start processing ac for HepatitisB
+2025-11-26 20:30:14,487 - INFO - Start processing ac for Eosinophilic Meningitis
+2025-11-26 20:30:14,487 - INFO - Start processing ac for L.G.V.&other&unsp.V.D
+2025-11-26 20:30:14,487 - INFO - Start processing ac for Japanese B encephalitis
+2025-11-26 20:30:14,487 - INFO - Start processing ac for Zika virus
+2025-11-26 20:30:14,488 - INFO - Start processing ac for Kala azar
+2025-11-26 20:30:14,488 - INFO - Start processing ac for Trichinosis
+2025-11-26 20:30:14,488 - INFO - Start processing ac for Condyloma Acuminata
+2025-11-26 20:30:14,488 - INFO - Start processing ac for Liver fluke
+2025-11-26 20:30:14,489 - INFO - Start processing ac for Hepatitis_uns
+2025-11-26 20:30:14,489 - INFO - Start processing ac for Encephalitis Total
+2025-11-26 20:30:14,489 - INFO - Start processing ac for Rubella
+2025-11-26 20:30:14,490 - INFO - Start processing ac for Pneumonia
+2025-11-26 20:30:14,490 - INFO - No files for Encephalitis Total with prefix ac_
+2025-11-26 20:30:14,490 - INFO - Start processing ac for Leptospirosis
+2025-11-26 20:30:14,490 - INFO - Start processing ac for T.B.meningitis
+2025-11-26 20:30:14,490 - INFO - Start processing ac for Encephalitis uns
+2025-11-26 20:30:14,491 - INFO - Start processing ac for Meningitis,uns
+2025-11-26 20:30:14,491 - INFO - Start processing ac for Dysentery,Amoebic
+2025-11-26 20:30:14,491 - INFO - Start processing ac for STI Total
+2025-11-26 20:30:14,491 - INFO - Start processing ac for Cholera
+2025-11-26 20:30:14,491 - INFO - Start processing ac for Measles
+2025-11-26 20:30:14,491 - INFO - Start processing ac for Genital Herpes Simplex
+2025-11-26 20:30:14,492 - INFO - Start processing ac for Scrub Typhus
+2025-11-26 20:30:14,492 - INFO - Start processing ac for Pertussis
+2025-11-26 20:30:14,492 - INFO - No files for STI Total with prefix ac_
+2025-11-26 20:30:14,492 - INFO - Start processing ac for Avian Influenza
+2025-11-26 20:30:14,492 - INFO - Start processing ac for HFM
+2025-11-26 20:30:14,493 - INFO - Start processing ac for DHF Total
+2025-11-26 20:30:14,493 - INFO - Start processing ac for Tetanus exc.Neo
+2025-11-26 20:30:14,493 - INFO - Start processing ac for T.B. other organs
+2025-11-26 20:30:14,494 - INFO - Start processing ac for Pediculosis Pubis
+2025-11-26 20:30:14,494 - INFO - Start processing ac for Malaria
+2025-11-26 20:30:14,494 - INFO - No files for DHF Total with prefix ac_
+2025-11-26 20:30:14,494 - INFO - Start processing ac for D.H.F.shock syndrome
+2025-11-26 20:30:14,494 - INFO - Start processing ac for Measles Total
+2025-11-26 20:30:14,494 - INFO - Start processing ac for Brucellosis
+2025-11-26 20:30:14,495 - INFO - Start processing ac for Dengue fever
+2025-11-26 20:30:14,495 - INFO - No files for Measles Total with prefix ac_
+2025-11-26 20:30:14,496 - INFO - Start processing ac for Streptococcus suis
+2025-11-26 20:30:16,020 - INFO - Finished processing ac for Hepatitis_uns
+2025-11-26 20:30:16,020 - INFO - Start processing ac for Influenza
+2025-11-26 20:30:19,722 - INFO - Finished processing ac for Avian Influenza
+2025-11-26 20:30:19,722 - INFO - Start processing ac for D.H.F
+2025-11-26 20:30:19,808 - INFO - Finished processing ac for Pediculosis Pubis
+2025-11-26 20:30:19,808 - INFO - Start processing ac for Genital Molluscum Contagiosum
+2025-11-26 20:30:20,417 - INFO - Finished processing ac for Zika virus
+2025-11-26 20:30:20,418 - INFO - Start processing ac for Enterovirus Fever
+2025-11-26 20:30:20,754 - INFO - Finished processing ac for Japanese B encephalitis
+2025-11-26 20:30:20,755 - INFO - Start processing ac for Chikungunya
+2025-11-26 20:30:25,251 - INFO - Finished processing ac for Genital Molluscum Contagiosum
+2025-11-26 20:30:25,252 - INFO - Start processing ac for Typhoid
+2025-11-26 20:30:25,335 - INFO - Finished processing ac for Brucellosis
+2025-11-26 20:30:25,336 - INFO - Start processing ac for Diphtheria
+2025-11-26 20:30:25,451 - INFO - Finished processing ac for Streptococcus suis
+2025-11-26 20:30:25,452 - INFO - Start processing ac for Gonorrhoea
+2025-11-26 20:30:25,987 - INFO - Finished processing ac for Enterovirus Fever
+2025-11-26 20:30:25,987 - INFO - Start processing ac for Syphilis
+2025-11-26 20:30:31,505 - INFO - Finished processing ac for Condyloma Acuminata
+2025-11-26 20:30:31,506 - INFO - Start processing ac for Pulmonary T.B
+2025-11-26 20:30:31,940 - INFO - Finished processing ac for Genital Herpes Simplex
+2025-11-26 20:30:31,944 - INFO - Start processing ac for Measles c Complication
+2025-11-26 20:30:34,503 - INFO - Finished processing ac for Dysentery,Bacillary
+2025-11-26 20:30:34,504 - INFO - Start processing ac for Meningococcal Meningitis
+2025-11-26 20:30:34,579 - INFO - Finished processing ac for Trichinosis
+2025-11-26 20:30:34,580 - INFO - Start processing ac for Chancroid
+2025-11-26 20:30:34,606 - INFO - Finished processing ac for N.S.U._V
+2025-11-26 20:30:34,607 - INFO - Start processing ac for Chickenpox
+2025-11-26 20:30:34,922 - INFO - Finished processing ac for Scrub Typhus
+2025-11-26 20:30:34,923 - INFO - Start processing ac for Anthrax
+2025-11-26 20:30:35,001 - INFO - Finished processing ac for L.G.V.&other&unsp.V.D
+2025-11-26 20:30:35,002 - INFO - Start processing ac for Scarlet fever
+2025-11-26 20:30:35,068 - INFO - Finished processing ac for T.B. other organs
+2025-11-26 20:30:35,069 - INFO - Start processing ac for HepatitisC
+2025-11-26 20:30:35,248 - INFO - Finished processing ac for Food_Poisoning
+2025-11-26 20:30:35,251 - INFO - Start processing ac for Tetanus neonatorum
+2025-11-26 20:30:35,262 - INFO - Finished processing ac for Meningitis,uns
+2025-11-26 20:30:35,263 - INFO - Start processing ac for Botulism
+2025-11-26 20:30:35,656 - INFO - Finished processing ac for Eosinophilic Meningitis
+2025-11-26 20:30:35,658 - INFO - Start processing ac for HepatitisE
+2025-11-26 20:30:35,659 - INFO - Finished processing ac for Encephalitis uns
+2025-11-26 20:30:35,660 - INFO - Start processing ac for Other STI
+2025-11-26 20:30:35,674 - INFO - Finished processing ac for Kala azar
+2025-11-26 20:30:35,675 - INFO - Start processing ac for Mumps
+2025-11-26 20:30:35,734 - INFO - Finished processing ac for T.B.meningitis
+2025-11-26 20:30:35,735 - INFO - Start processing ac for Paratyphoid
+2025-11-26 20:30:35,743 - INFO - Finished processing ac for HFM
+2025-11-26 20:30:35,744 - INFO - Start processing ac for Vaginal trichomoniasis
+2025-11-26 20:30:35,804 - INFO - Finished processing ac for D.H.F.shock syndrome
+2025-11-26 20:30:35,805 - INFO - Start processing ac for HepatitisA
+2025-11-26 20:30:35,918 - INFO - Finished processing ac for Mushroom poisoning
+2025-11-26 20:30:35,919 - INFO - Start processing ac for Rabies
+2025-11-26 20:30:36,313 - INFO - Finished processing ac for Leptospirosis
+2025-11-26 20:30:36,315 - INFO - Start processing ac for TB Total
+2025-11-26 20:30:36,315 - INFO - No files for TB Total with prefix ac_
+2025-11-26 20:30:36,315 - INFO - Start processing ac for HepatitisD
+2025-11-26 20:30:36,337 - INFO - Finished processing ac for Measles
+2025-11-26 20:30:36,400 - INFO - Finished processing ac for Dysentery,Amoebic
+2025-11-26 20:30:36,763 - INFO - Finished processing ac for Dengue fever
+2025-11-26 20:30:36,822 - INFO - Finished processing ac for Chikungunya
+2025-11-26 20:30:36,834 - INFO - Finished processing ac for HepatitisB
+2025-11-26 20:30:36,987 - INFO - Finished processing ac for Leprosy
+2025-11-26 20:30:37,010 - INFO - Finished processing ac for Malaria
+2025-11-26 20:30:37,054 - INFO - Finished processing ac for Cholera
+2025-11-26 20:30:37,271 - INFO - Finished processing ac for Pneumonia
+2025-11-26 20:30:37,558 - INFO - Finished processing ac for Filariasis
+2025-11-26 20:30:37,828 - INFO - Finished processing ac for Liver fluke
+2025-11-26 20:30:38,163 - INFO - Finished processing ac for Poliomyelitis
+2025-11-26 20:30:38,948 - INFO - Finished processing ac for Pertussis
+2025-11-26 20:30:38,985 - INFO - Finished processing ac for Melioidosis
+2025-11-26 20:30:39,075 - INFO - Finished processing ac for HepatitisE
+2025-11-26 20:30:39,096 - INFO - Finished processing ac for Rubella
+2025-11-26 20:30:40,871 - INFO - Finished processing ac for Vaginal trichomoniasis
+2025-11-26 20:30:41,309 - INFO - Finished processing ac for Influenza
+2025-11-26 20:30:41,845 - INFO - Finished processing ac for D.H.F
+2025-11-26 20:30:42,557 - INFO - Finished processing ac for Gonorrhoea
+2025-11-26 20:30:43,762 - INFO - Finished processing ac for Tetanus exc.Neo
+2025-11-26 20:30:45,452 - INFO - Finished processing ac for Botulism
+2025-11-26 20:30:45,572 - INFO - Finished processing ac for Typhoid
+2025-11-26 20:30:45,633 - INFO - Finished processing ac for Syphilis
+2025-11-26 20:30:45,856 - INFO - Finished processing ac for Diphtheria
+2025-11-26 20:30:48,494 - INFO - Finished processing ac for Other STI
+2025-11-26 20:30:50,353 - INFO - Finished processing ac for Pulmonary T.B
+2025-11-26 20:30:51,274 - INFO - Finished processing ac for Measles c Complication
+2025-11-26 20:30:52,524 - INFO - Finished processing ac for Tetanus neonatorum
+2025-11-26 20:30:53,681 - INFO - Finished processing ac for Chancroid
+2025-11-26 20:30:53,764 - INFO - Finished processing ac for Chickenpox
+2025-11-26 20:30:53,925 - INFO - Finished processing ac for Meningococcal Meningitis
+2025-11-26 20:30:53,951 - INFO - Finished processing ac for Anthrax
+2025-11-26 20:30:54,436 - INFO - Finished processing ac for HepatitisC
+2025-11-26 20:30:54,765 - INFO - Finished processing ac for Mumps
+2025-11-26 20:30:54,805 - INFO - Finished processing ac for Paratyphoid
+2025-11-26 20:30:54,832 - INFO - Finished processing ac for Rabies
+2025-11-26 20:30:54,892 - INFO - Finished processing ac for HepatitisD
+2025-11-26 20:30:55,073 - INFO - Finished processing ac for HepatitisA
+2025-11-26 20:30:55,449 - INFO - Finished processing ac for Scarlet fever
+2025-11-26 20:30:55,512 - INFO - Completed mode ac: 67/72 succeeded
+2025-11-26 20:30:55,514 - INFO - Start processing ad data with 40 workers
+2025-11-26 20:30:55,602 - INFO - Start processing ad for Poliomyelitis
+2025-11-26 20:30:55,602 - INFO - Start processing ad for Leprosy
+2025-11-26 20:30:55,603 - INFO - Start processing ad for Filariasis
+2025-11-26 20:30:55,603 - INFO - Start processing ad for Dysentery,Bacillary
+2025-11-26 20:30:55,603 - INFO - Start processing ad for Food_Poisoning
+2025-11-26 20:30:55,603 - INFO - Start processing ad for Melioidosis
+2025-11-26 20:30:55,603 - INFO - Start processing ad for N.S.U._V
+2025-11-26 20:30:55,604 - INFO - Start processing ad for Mushroom poisoning
+2025-11-26 20:30:55,604 - INFO - Start processing ad for HepatitisB
+2025-11-26 20:30:55,604 - INFO - Start processing ad for L.G.V.&other&unsp.V.D
+2025-11-26 20:30:55,604 - INFO - Start processing ad for Eosinophilic Meningitis
+2025-11-26 20:30:55,605 - INFO - Start processing ad for Japanese B encephalitis
+2025-11-26 20:30:55,605 - INFO - Start processing ad for Zika virus
+2025-11-26 20:30:55,605 - INFO - Start processing ad for Kala azar
+2025-11-26 20:30:55,605 - INFO - Start processing ad for Trichinosis
+2025-11-26 20:30:55,605 - INFO - Start processing ad for Condyloma Acuminata
+2025-11-26 20:30:55,606 - INFO - Start processing ad for Liver fluke
+2025-11-26 20:30:55,606 - INFO - Start processing ad for Hepatitis_uns
+2025-11-26 20:30:55,606 - INFO - Start processing ad for Rubella
+2025-11-26 20:30:55,606 - INFO - Start processing ad for Pneumonia
+2025-11-26 20:30:55,606 - INFO - Start processing ad for Encephalitis Total
+2025-11-26 20:30:55,607 - INFO - Start processing ad for Leptospirosis
+2025-11-26 20:30:55,607 - INFO - Start processing ad for T.B.meningitis
+2025-11-26 20:30:55,607 - INFO - Start processing ad for Encephalitis uns
+2025-11-26 20:30:55,607 - INFO - Start processing ad for Dysentery,Amoebic
+2025-11-26 20:30:55,607 - INFO - Start processing ad for STI Total
+2025-11-26 20:30:55,608 - INFO - No files for Encephalitis Total with prefix ad_
+2025-11-26 20:30:55,608 - INFO - Start processing ad for Cholera
+2025-11-26 20:30:55,608 - INFO - Start processing ad for Meningitis,uns
+2025-11-26 20:30:55,608 - INFO - Start processing ad for Genital Herpes Simplex
+2025-11-26 20:30:55,609 - INFO - No files for STI Total with prefix ad_
+2025-11-26 20:30:55,608 - INFO - Start processing ad for Measles
+2025-11-26 20:30:55,609 - INFO - Start processing ad for Scrub Typhus
+2025-11-26 20:30:55,609 - INFO - Start processing ad for Tetanus exc.Neo
+2025-11-26 20:30:55,609 - INFO - Start processing ad for Pertussis
+2025-11-26 20:30:55,609 - INFO - Start processing ad for Avian Influenza
+2025-11-26 20:30:55,609 - INFO - Start processing ad for HFM
+2025-11-26 20:30:55,609 - INFO - Start processing ad for DHF Total
+2025-11-26 20:30:55,610 - INFO - Start processing ad for Measles Total
+2025-11-26 20:30:55,610 - INFO - Start processing ad for Pediculosis Pubis
+2025-11-26 20:30:55,610 - INFO - Start processing ad for T.B. other organs
+2025-11-26 20:30:55,610 - INFO - No files for Measles Total with prefix ad_
+2025-11-26 20:30:55,610 - INFO - Start processing ad for D.H.F.shock syndrome
+2025-11-26 20:30:55,611 - INFO - Start processing ad for Dengue fever
+2025-11-26 20:30:55,610 - INFO - Start processing ad for Malaria
+2025-11-26 20:30:55,610 - INFO - Start processing ad for Brucellosis
+2025-11-26 20:30:55,611 - INFO - No files for DHF Total with prefix ad_
+2025-11-26 20:30:55,611 - INFO - Start processing ad for Streptococcus suis
+2025-11-26 20:31:01,025 - INFO - Finished processing ad for Streptococcus suis
+2025-11-26 20:31:01,026 - INFO - Start processing ad for Influenza
+2025-11-26 20:31:01,287 - INFO - Finished processing ad for Brucellosis
+2025-11-26 20:31:01,291 - INFO - Start processing ad for D.H.F
+2025-11-26 20:31:01,389 - INFO - Finished processing ad for Avian Influenza
+2025-11-26 20:31:01,390 - INFO - Start processing ad for Genital Molluscum Contagiosum
+2025-11-26 20:31:01,715 - INFO - Finished processing ad for Pediculosis Pubis
+2025-11-26 20:31:01,715 - INFO - Start processing ad for Enterovirus Fever
+2025-11-26 20:31:02,231 - INFO - Finished processing ad for Japanese B encephalitis
+2025-11-26 20:31:02,232 - INFO - Start processing ad for Chikungunya
+2025-11-26 20:31:02,476 - INFO - Finished processing ad for Zika virus
+2025-11-26 20:31:02,477 - INFO - Start processing ad for Typhoid
+2025-11-26 20:31:06,780 - INFO - Finished processing ad for Genital Molluscum Contagiosum
+2025-11-26 20:31:06,781 - INFO - Start processing ad for Diphtheria
+2025-11-26 20:31:07,228 - INFO - Finished processing ad for Enterovirus Fever
+2025-11-26 20:31:07,229 - INFO - Start processing ad for Gonorrhoea
+2025-11-26 20:31:13,474 - INFO - Finished processing ad for Condyloma Acuminata
+2025-11-26 20:31:13,475 - INFO - Start processing ad for Syphilis
+2025-11-26 20:31:14,960 - INFO - Finished processing ad for Genital Herpes Simplex
+2025-11-26 20:31:14,961 - INFO - Start processing ad for Pulmonary T.B
+2025-11-26 20:31:15,176 - INFO - Finished processing ad for Meningitis,uns
+2025-11-26 20:31:15,177 - INFO - Start processing ad for Measles c Complication
+2025-11-26 20:31:15,498 - INFO - Finished processing ad for Kala azar
+2025-11-26 20:31:15,499 - INFO - Start processing ad for Meningococcal Meningitis
+2025-11-26 20:31:16,116 - INFO - Finished processing ad for Tetanus exc.Neo
+2025-11-26 20:31:16,117 - INFO - Start processing ad for Chancroid
+2025-11-26 20:31:16,160 - INFO - Finished processing ad for Rubella
+2025-11-26 20:31:16,161 - INFO - Start processing ad for Chickenpox
+2025-11-26 20:31:16,213 - INFO - Finished processing ad for Malaria
+2025-11-26 20:31:16,215 - INFO - Start processing ad for Anthrax
+2025-11-26 20:31:16,262 - INFO - Finished processing ad for Measles c Complication
+2025-11-26 20:31:16,263 - INFO - Start processing ad for Scarlet fever
+2025-11-26 20:31:16,292 - INFO - Finished processing ad for HFM
+2025-11-26 20:31:16,295 - INFO - Start processing ad for HepatitisC
+2025-11-26 20:31:16,339 - INFO - Finished processing ad for Hepatitis_uns
+2025-11-26 20:31:16,340 - INFO - Finished processing ad for N.S.U._V
+2025-11-26 20:31:16,340 - INFO - Start processing ad for Tetanus neonatorum
+2025-11-26 20:31:16,341 - INFO - Start processing ad for Botulism
+2025-11-26 20:31:16,346 - INFO - Finished processing ad for Scrub Typhus
+2025-11-26 20:31:16,347 - INFO - Start processing ad for HepatitisE
+2025-11-26 20:31:16,468 - INFO - Finished processing ad for Poliomyelitis
+2025-11-26 20:31:16,469 - INFO - Start processing ad for Other STI
+2025-11-26 20:31:16,470 - INFO - Finished processing ad for Melioidosis
+2025-11-26 20:31:16,471 - INFO - Start processing ad for Mumps
+2025-11-26 20:31:16,578 - INFO - Finished processing ad for Encephalitis uns
+2025-11-26 20:31:16,579 - INFO - Start processing ad for Paratyphoid
+2025-11-26 20:31:16,594 - INFO - Finished processing ad for Dysentery,Bacillary
+2025-11-26 20:31:16,599 - INFO - Start processing ad for Vaginal trichomoniasis
+2025-11-26 20:31:16,701 - INFO - Finished processing ad for Trichinosis
+2025-11-26 20:31:16,702 - INFO - Start processing ad for HepatitisA
+2025-11-26 20:31:16,943 - INFO - Finished processing ad for Mushroom poisoning
+2025-11-26 20:31:16,944 - INFO - Start processing ad for Rabies
+2025-11-26 20:31:17,199 - INFO - Finished processing ad for T.B.meningitis
+2025-11-26 20:31:17,200 - INFO - Start processing ad for TB Total
+2025-11-26 20:31:17,201 - INFO - No files for TB Total with prefix ad_
+2025-11-26 20:31:17,201 - INFO - Start processing ad for HepatitisD
+2025-11-26 20:31:17,239 - INFO - Finished processing ad for Eosinophilic Meningitis
+2025-11-26 20:31:17,285 - INFO - Finished processing ad for Cholera
+2025-11-26 20:31:17,411 - INFO - Finished processing ad for Liver fluke
+2025-11-26 20:31:17,547 - INFO - Finished processing ad for D.H.F.shock syndrome
+2025-11-26 20:31:17,548 - INFO - Finished processing ad for Dysentery,Amoebic
+2025-11-26 20:31:17,565 - INFO - Finished processing ad for L.G.V.&other&unsp.V.D
+2025-11-26 20:31:17,589 - INFO - Finished processing ad for Dengue fever
+2025-11-26 20:31:17,693 - INFO - Finished processing ad for Leprosy
+2025-11-26 20:31:17,706 - INFO - Finished processing ad for Filariasis
+2025-11-26 20:31:17,706 - INFO - Finished processing ad for HepatitisB
+2025-11-26 20:31:18,231 - INFO - Finished processing ad for Pertussis
+2025-11-26 20:31:18,241 - INFO - Finished processing ad for Food_Poisoning
+2025-11-26 20:31:18,433 - INFO - Finished processing ad for Pneumonia
+2025-11-26 20:31:18,617 - INFO - Finished processing ad for Leptospirosis
+2025-11-26 20:31:20,698 - INFO - Finished processing ad for Chikungunya
+2025-11-26 20:31:20,953 - INFO - Finished processing ad for T.B. other organs
+2025-11-26 20:31:21,481 - INFO - Finished processing ad for Botulism
+2025-11-26 20:31:21,671 - INFO - Finished processing ad for Vaginal trichomoniasis
+2025-11-26 20:31:22,286 - INFO - Finished processing ad for Influenza
+2025-11-26 20:31:23,060 - INFO - Finished processing ad for Typhoid
+2025-11-26 20:31:24,111 - INFO - Finished processing ad for D.H.F
+2025-11-26 20:31:24,708 - INFO - Finished processing ad for Measles
+2025-11-26 20:31:25,953 - INFO - Finished processing ad for Gonorrhoea
+2025-11-26 20:31:27,481 - INFO - Finished processing ad for Diphtheria
+2025-11-26 20:31:30,881 - INFO - Finished processing ad for Other STI
+2025-11-26 20:31:32,756 - INFO - Finished processing ad for Syphilis
+2025-11-26 20:31:33,306 - INFO - Finished processing ad for Pulmonary T.B
+2025-11-26 20:31:33,444 - INFO - Finished processing ad for HepatitisE
+2025-11-26 20:31:33,813 - INFO - Finished processing ad for Scarlet fever
+2025-11-26 20:31:34,249 - INFO - Finished processing ad for Meningococcal Meningitis
+2025-11-26 20:31:34,346 - INFO - Finished processing ad for Rabies
+2025-11-26 20:31:34,405 - INFO - Finished processing ad for HepatitisA
+2025-11-26 20:31:34,456 - INFO - Finished processing ad for Chickenpox
+2025-11-26 20:31:34,511 - INFO - Finished processing ad for Chancroid
+2025-11-26 20:31:34,701 - INFO - Finished processing ad for Tetanus neonatorum
+2025-11-26 20:31:34,756 - INFO - Finished processing ad for HepatitisD
+2025-11-26 20:31:34,771 - INFO - Finished processing ad for Anthrax
+2025-11-26 20:31:34,850 - INFO - Finished processing ad for HepatitisC
+2025-11-26 20:31:35,034 - INFO - Finished processing ad for Paratyphoid
+2025-11-26 20:31:35,500 - INFO - Finished processing ad for Mumps
+2025-11-26 20:31:35,562 - INFO - Completed mode ad: 67/72 succeeded
+2025-11-26 20:31:35,563 - INFO - Start processing mcd data with 40 workers
+2025-11-26 20:31:35,648 - INFO - Start processing mcd for Poliomyelitis
+2025-11-26 20:31:35,649 - INFO - Start processing mcd for Leprosy
+2025-11-26 20:31:35,649 - INFO - Start processing mcd for Filariasis
+2025-11-26 20:31:35,649 - INFO - Start processing mcd for Dysentery,Bacillary
+2025-11-26 20:31:35,649 - INFO - Start processing mcd for Food_Poisoning
+2025-11-26 20:31:35,649 - INFO - Start processing mcd for Melioidosis
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for N.S.U._V
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for Mushroom poisoning
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for HepatitisB
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for L.G.V.&other&unsp.V.D
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for Eosinophilic Meningitis
+2025-11-26 20:31:35,650 - INFO - Start processing mcd for Japanese B encephalitis
+2025-11-26 20:31:35,651 - INFO - Start processing mcd for Zika virus
+2025-11-26 20:31:35,651 - INFO - Start processing mcd for Trichinosis
+2025-11-26 20:31:35,651 - INFO - Start processing mcd for Kala azar
+2025-11-26 20:31:35,651 - INFO - Start processing mcd for Condyloma Acuminata
+2025-11-26 20:31:35,651 - INFO - Start processing mcd for Liver fluke
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for Rubella
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for Hepatitis_uns
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for Pneumonia
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for Encephalitis Total
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for Leptospirosis
+2025-11-26 20:31:35,652 - INFO - Start processing mcd for T.B.meningitis
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for Dysentery,Amoebic
+2025-11-26 20:31:35,653 - INFO - No files for Encephalitis Total with prefix mcd_
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for Encephalitis uns
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for STI Total
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for Scrub Typhus
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for Cholera
+2025-11-26 20:31:35,653 - INFO - Start processing mcd for Meningitis,uns
+2025-11-26 20:31:35,654 - INFO - Start processing mcd for Measles
+2025-11-26 20:31:35,654 - INFO - Start processing mcd for Genital Herpes Simplex
+2025-11-26 20:31:35,654 - INFO - No files for STI Total with prefix mcd_
+2025-11-26 20:31:35,654 - INFO - Start processing mcd for Pertussis
+2025-11-26 20:31:35,655 - INFO - Start processing mcd for Tetanus exc.Neo
+2025-11-26 20:31:35,654 - INFO - Start processing mcd for Avian Influenza
+2025-11-26 20:31:35,654 - INFO - Start processing mcd for HFM
+2025-11-26 20:31:35,655 - INFO - Start processing mcd for DHF Total
+2025-11-26 20:31:35,655 - INFO - Start processing mcd for T.B. other organs
+2025-11-26 20:31:35,655 - INFO - Start processing mcd for Pediculosis Pubis
+2025-11-26 20:31:35,655 - INFO - Start processing mcd for Brucellosis
+2025-11-26 20:31:35,656 - INFO - No files for DHF Total with prefix mcd_
+2025-11-26 20:31:35,656 - INFO - Start processing mcd for D.H.F.shock syndrome
+2025-11-26 20:31:35,656 - INFO - Start processing mcd for Dengue fever
+2025-11-26 20:31:35,656 - INFO - Start processing mcd for Measles Total
+2025-11-26 20:31:35,656 - INFO - Start processing mcd for Malaria
+2025-11-26 20:31:35,657 - INFO - No files for Measles Total with prefix mcd_
+2025-11-26 20:31:35,657 - INFO - Start processing mcd for Streptococcus suis
+2025-11-26 20:31:45,153 - INFO - Finished processing mcd for Avian Influenza
+2025-11-26 20:31:45,154 - INFO - Start processing mcd for Influenza
+2025-11-26 20:31:48,002 - INFO - Finished processing mcd for Pediculosis Pubis
+2025-11-26 20:31:48,004 - INFO - Start processing mcd for D.H.F
+2025-11-26 20:31:49,433 - INFO - Finished processing mcd for Zika virus
+2025-11-26 20:31:49,434 - INFO - Start processing mcd for Genital Molluscum Contagiosum
+2025-11-26 20:31:49,453 - INFO - Finished processing mcd for Japanese B encephalitis
+2025-11-26 20:31:49,455 - INFO - Start processing mcd for Enterovirus Fever
+2025-11-26 20:31:57,211 - INFO - Finished processing mcd for Brucellosis
+2025-11-26 20:31:57,212 - INFO - Start processing mcd for Chikungunya
+2025-11-26 20:31:59,539 - INFO - Finished processing mcd for Streptococcus suis
+2025-11-26 20:31:59,541 - INFO - Start processing mcd for Typhoid
+2025-11-26 20:32:00,924 - INFO - Finished processing mcd for Enterovirus Fever
+2025-11-26 20:32:00,925 - INFO - Start processing mcd for Diphtheria
+2025-11-26 20:32:00,963 - INFO - Finished processing mcd for Genital Molluscum Contagiosum
+2025-11-26 20:32:00,963 - INFO - Start processing mcd for Gonorrhoea
+2025-11-26 20:32:12,877 - INFO - Finished processing mcd for Condyloma Acuminata
+2025-11-26 20:32:12,879 - INFO - Start processing mcd for Syphilis
+2025-11-26 20:32:18,123 - INFO - Finished processing mcd for Genital Herpes Simplex
+2025-11-26 20:32:18,126 - INFO - Start processing mcd for Pulmonary T.B
+2025-11-26 20:32:19,972 - INFO - Finished processing mcd for Tetanus exc.Neo
+2025-11-26 20:32:19,974 - INFO - Start processing mcd for Measles c Complication
+2025-11-26 20:32:20,828 - INFO - Finished processing mcd for Malaria
+2025-11-26 20:32:20,830 - INFO - Start processing mcd for Meningococcal Meningitis
+2025-11-26 20:32:20,875 - INFO - Finished processing mcd for Leptospirosis
+2025-11-26 20:32:20,877 - INFO - Start processing mcd for Chancroid
+2025-11-26 20:32:21,132 - INFO - Finished processing mcd for HepatitisB
+2025-11-26 20:32:21,135 - INFO - Start processing mcd for Chickenpox
+2025-11-26 20:32:21,261 - INFO - Finished processing mcd for Liver fluke
+2025-11-26 20:32:21,265 - INFO - Start processing mcd for Anthrax
+2025-11-26 20:32:21,364 - INFO - Finished processing mcd for Meningitis,uns
+2025-11-26 20:32:21,367 - INFO - Start processing mcd for Scarlet fever
+2025-11-26 20:32:21,422 - INFO - Finished processing mcd for Trichinosis
+2025-11-26 20:32:21,427 - INFO - Start processing mcd for HepatitisC
+2025-11-26 20:32:21,459 - INFO - Finished processing mcd for Pneumonia
+2025-11-26 20:32:21,462 - INFO - Start processing mcd for Tetanus neonatorum
+2025-11-26 20:32:21,562 - INFO - Finished processing mcd for Scrub Typhus
+2025-11-26 20:32:21,564 - INFO - Start processing mcd for Botulism
+2025-11-26 20:32:21,624 - INFO - Finished processing mcd for Filariasis
+2025-11-26 20:32:21,627 - INFO - Start processing mcd for HepatitisE
+2025-11-26 20:32:21,753 - INFO - Finished processing mcd for Kala azar
+2025-11-26 20:32:21,756 - INFO - Start processing mcd for Other STI
+2025-11-26 20:32:22,018 - INFO - Finished processing mcd for L.G.V.&other&unsp.V.D
+2025-11-26 20:32:22,020 - INFO - Start processing mcd for Mumps
+2025-11-26 20:32:22,100 - INFO - Finished processing mcd for Pertussis
+2025-11-26 20:32:22,104 - INFO - Start processing mcd for Paratyphoid
+2025-11-26 20:32:22,350 - INFO - Finished processing mcd for Encephalitis uns
+2025-11-26 20:32:22,352 - INFO - Start processing mcd for Vaginal trichomoniasis
+2025-11-26 20:32:22,803 - INFO - Finished processing mcd for HFM
+2025-11-26 20:32:22,806 - INFO - Start processing mcd for HepatitisA
+2025-11-26 20:32:22,853 - INFO - Finished processing mcd for Hepatitis_uns
+2025-11-26 20:32:22,856 - INFO - Start processing mcd for Rabies
+2025-11-26 20:32:22,999 - INFO - Finished processing mcd for Leprosy
+2025-11-26 20:32:23,002 - INFO - Start processing mcd for TB Total
+2025-11-26 20:32:23,003 - INFO - No files for TB Total with prefix mcd_
+2025-11-26 20:32:23,003 - INFO - Start processing mcd for HepatitisD
+2025-11-26 20:32:23,034 - INFO - Finished processing mcd for Mushroom poisoning
+2025-11-26 20:32:23,581 - INFO - Finished processing mcd for Dysentery,Bacillary
+2025-11-26 20:32:24,279 - INFO - Finished processing mcd for T.B.meningitis
+2025-11-26 20:32:24,447 - INFO - Finished processing mcd for Measles
+2025-11-26 20:32:24,457 - INFO - Finished processing mcd for Eosinophilic Meningitis
+2025-11-26 20:32:24,644 - INFO - Finished processing mcd for D.H.F.shock syndrome
+2025-11-26 20:32:24,842 - INFO - Finished processing mcd for Dysentery,Amoebic
+2025-11-26 20:32:25,048 - INFO - Finished processing mcd for Dengue fever
+2025-11-26 20:32:26,138 - INFO - Finished processing mcd for Melioidosis
+2025-11-26 20:32:26,511 - INFO - Finished processing mcd for Rubella
+2025-11-26 20:32:26,577 - INFO - Finished processing mcd for N.S.U._V
+2025-11-26 20:32:26,786 - INFO - Finished processing mcd for Poliomyelitis
+2025-11-26 20:32:27,645 - INFO - Finished processing mcd for Cholera
+2025-11-26 20:32:27,806 - INFO - Finished processing mcd for Food_Poisoning
+2025-11-26 20:32:31,321 - INFO - Finished processing mcd for Chikungunya
+2025-11-26 20:32:32,047 - INFO - Finished processing mcd for T.B. other organs
+2025-11-26 20:32:33,342 - INFO - Finished processing mcd for Vaginal trichomoniasis
+2025-11-26 20:32:33,698 - INFO - Finished processing mcd for D.H.F
+2025-11-26 20:32:34,910 - INFO - Finished processing mcd for Influenza
+2025-11-26 20:32:36,637 - INFO - Finished processing mcd for Measles c Complication
+2025-11-26 20:32:36,667 - INFO - Finished processing mcd for Gonorrhoea
+2025-11-26 20:32:43,453 - INFO - Finished processing mcd for Typhoid
+2025-11-26 20:32:43,775 - INFO - Finished processing mcd for Botulism
+2025-11-26 20:32:44,273 - INFO - Finished processing mcd for Diphtheria
+2025-11-26 20:32:49,132 - INFO - Finished processing mcd for Other STI
+2025-11-26 20:32:52,980 - INFO - Finished processing mcd for Syphilis
+2025-11-26 20:32:59,066 - INFO - Finished processing mcd for Pulmonary T.B
+2025-11-26 20:33:00,554 - INFO - Finished processing mcd for Chickenpox
+2025-11-26 20:33:01,029 - INFO - Finished processing mcd for Chancroid
+2025-11-26 20:33:01,559 - INFO - Finished processing mcd for Anthrax
+2025-11-26 20:33:01,706 - INFO - Finished processing mcd for Scarlet fever
+2025-11-26 20:33:02,267 - INFO - Finished processing mcd for Meningococcal Meningitis
+2025-11-26 20:33:02,466 - INFO - Finished processing mcd for HepatitisC
+2025-11-26 20:33:02,560 - INFO - Finished processing mcd for Mumps
+2025-11-26 20:33:02,600 - INFO - Finished processing mcd for Paratyphoid
+2025-11-26 20:33:02,659 - INFO - Finished processing mcd for HepatitisE
+2025-11-26 20:33:02,679 - INFO - Finished processing mcd for Tetanus neonatorum
+2025-11-26 20:33:02,924 - INFO - Finished processing mcd for Rabies
+2025-11-26 20:33:03,168 - INFO - Finished processing mcd for HepatitisD
+2025-11-26 20:33:04,136 - INFO - Finished processing mcd for HepatitisA
+2025-11-26 20:33:04,204 - INFO - Completed mode mcd: 67/72 succeeded
+2025-11-26 20:33:04,207 - INFO - Start processing rate data with 40 workers
+2025-11-26 20:33:04,292 - INFO - Start processing rate for Poliomyelitis
+2025-11-26 20:33:04,292 - INFO - Start processing rate for Leprosy
+2025-11-26 20:33:04,292 - INFO - Start processing rate for Filariasis
+2025-11-26 20:33:04,293 - INFO - Start processing rate for Dysentery,Bacillary
+2025-11-26 20:33:04,293 - INFO - Start processing rate for Food_Poisoning
+2025-11-26 20:33:04,293 - INFO - Start processing rate for Melioidosis
+2025-11-26 20:33:04,293 - INFO - Start processing rate for N.S.U._V
+2025-11-26 20:33:04,293 - INFO - Start processing rate for HepatitisB
+2025-11-26 20:33:04,293 - INFO - Start processing rate for Mushroom poisoning
+2025-11-26 20:33:04,294 - INFO - Start processing rate for L.G.V.&other&unsp.V.D
+2025-11-26 20:33:04,294 - INFO - Start processing rate for Eosinophilic Meningitis
+2025-11-26 20:33:04,294 - INFO - Start processing rate for Japanese B encephalitis
+2025-11-26 20:33:04,294 - INFO - Start processing rate for Zika virus
+2025-11-26 20:33:04,295 - INFO - Start processing rate for Trichinosis
+2025-11-26 20:33:04,295 - INFO - Start processing rate for Kala azar
+2025-11-26 20:33:04,295 - INFO - Start processing rate for Condyloma Acuminata
+2025-11-26 20:33:04,295 - INFO - Start processing rate for Liver fluke
+2025-11-26 20:33:04,295 - INFO - Start processing rate for Rubella
+2025-11-26 20:33:04,296 - INFO - Start processing rate for Encephalitis Total
+2025-11-26 20:33:04,296 - INFO - Start processing rate for Hepatitis_uns
+2025-11-26 20:33:04,296 - INFO - Start processing rate for Pneumonia
+2025-11-26 20:33:04,296 - INFO - Start processing rate for Leptospirosis
+2025-11-26 20:33:04,296 - INFO - Start processing rate for T.B.meningitis
+2025-11-26 20:33:04,297 - INFO - No files for Encephalitis Total with prefix rate_
+2025-11-26 20:33:04,297 - INFO - No files for Hepatitis_uns with prefix rate_
+2025-11-26 20:33:04,297 - INFO - Start processing rate for Encephalitis uns
+2025-11-26 20:33:04,297 - INFO - Start processing rate for Dysentery,Amoebic
+2025-11-26 20:33:04,297 - INFO - Start processing rate for STI Total
+2025-11-26 20:33:04,297 - INFO - Start processing rate for Cholera
+2025-11-26 20:33:04,297 - INFO - Start processing rate for Meningitis,uns
+2025-11-26 20:33:04,298 - INFO - No files for STI Total with prefix rate_
+2025-11-26 20:33:04,298 - INFO - Start processing rate for Measles
+2025-11-26 20:33:04,298 - INFO - Start processing rate for Scrub Typhus
+2025-11-26 20:33:04,298 - INFO - Start processing rate for Genital Herpes Simplex
+2025-11-26 20:33:04,298 - INFO - Start processing rate for Avian Influenza
+2025-11-26 20:33:04,298 - INFO - Start processing rate for Pertussis
+2025-11-26 20:33:04,298 - INFO - Start processing rate for HFM
+2025-11-26 20:33:04,299 - INFO - Start processing rate for DHF Total
+2025-11-26 20:33:04,299 - INFO - Start processing rate for Tetanus exc.Neo
+2025-11-26 20:33:04,299 - INFO - Start processing rate for T.B. other organs
+2025-11-26 20:33:04,299 - INFO - Start processing rate for Pediculosis Pubis
+2025-11-26 20:33:04,300 - INFO - Start processing rate for Measles Total
+2025-11-26 20:33:04,299 - INFO - Start processing rate for Brucellosis
+2025-11-26 20:33:04,300 - INFO - Start processing rate for Malaria
+2025-11-26 20:33:04,300 - INFO - Start processing rate for Dengue fever
+2025-11-26 20:33:04,300 - INFO - No files for Measles Total with prefix rate_
+2025-11-26 20:33:04,300 - INFO - No files for DHF Total with prefix rate_
+2025-11-26 20:33:04,300 - INFO - Start processing rate for D.H.F.shock syndrome
+2025-11-26 20:33:04,300 - INFO - Start processing rate for Streptococcus suis
+2025-11-26 20:33:04,301 - INFO - Start processing rate for Influenza
+2025-11-26 20:33:05,267 - INFO - Finished processing rate for Zika virus
+2025-11-26 20:33:05,267 - INFO - Start processing rate for D.H.F
+2025-11-26 20:33:05,270 - INFO - Finished processing rate for Avian Influenza
+2025-11-26 20:33:05,270 - INFO - Start processing rate for Genital Molluscum Contagiosum
+2025-11-26 20:33:05,467 - INFO - Finished processing rate for Japanese B encephalitis
+2025-11-26 20:33:05,468 - INFO - Start processing rate for Enterovirus Fever
+2025-11-26 20:33:05,846 - INFO - Finished processing rate for Pediculosis Pubis
+2025-11-26 20:33:05,847 - INFO - Start processing rate for Chikungunya
+2025-11-26 20:33:06,194 - INFO - Finished processing rate for Genital Molluscum Contagiosum
+2025-11-26 20:33:06,195 - INFO - Start processing rate for Typhoid
+2025-11-26 20:33:06,225 - INFO - Finished processing rate for Streptococcus suis
+2025-11-26 20:33:06,226 - INFO - Start processing rate for Diphtheria
+2025-11-26 20:33:06,522 - INFO - Finished processing rate for Enterovirus Fever
+2025-11-26 20:33:06,522 - INFO - Start processing rate for Gonorrhoea
+2025-11-26 20:33:07,434 - INFO - Finished processing rate for Genital Herpes Simplex
+2025-11-26 20:33:07,435 - INFO - Start processing rate for Syphilis
+2025-11-26 20:33:07,630 - INFO - Finished processing rate for Condyloma Acuminata
+2025-11-26 20:33:07,631 - INFO - Start processing rate for Pulmonary T.B
+2025-11-26 20:33:07,806 - INFO - Finished processing rate for Brucellosis
+2025-11-26 20:33:07,811 - INFO - Start processing rate for Measles c Complication
+2025-11-26 20:33:07,887 - INFO - Finished processing rate for Dysentery,Bacillary
+2025-11-26 20:33:07,892 - INFO - Finished processing rate for Encephalitis uns
+2025-11-26 20:33:07,892 - INFO - Start processing rate for Meningococcal Meningitis
+2025-11-26 20:33:07,893 - INFO - Start processing rate for Chancroid
+2025-11-26 20:33:07,895 - INFO - Finished processing rate for Kala azar
+2025-11-26 20:33:07,897 - INFO - Start processing rate for Chickenpox
+2025-11-26 20:33:07,927 - INFO - Finished processing rate for Poliomyelitis
+2025-11-26 20:33:07,928 - INFO - Start processing rate for Anthrax
+2025-11-26 20:33:07,956 - INFO - Finished processing rate for Cholera
+2025-11-26 20:33:07,957 - INFO - Start processing rate for Scarlet fever
+2025-11-26 20:33:08,032 - INFO - Finished processing rate for Trichinosis
+2025-11-26 20:33:08,034 - INFO - Start processing rate for HepatitisC
+2025-11-26 20:33:08,042 - INFO - Finished processing rate for T.B.meningitis
+2025-11-26 20:33:08,043 - INFO - Start processing rate for Tetanus neonatorum
+2025-11-26 20:33:08,068 - INFO - Finished processing rate for Rubella
+2025-11-26 20:33:08,069 - INFO - Start processing rate for Botulism
+2025-11-26 20:33:08,071 - INFO - Finished processing rate for Pertussis
+2025-11-26 20:33:08,072 - INFO - Start processing rate for HepatitisE
+2025-11-26 20:33:08,098 - INFO - Finished processing rate for Leptospirosis
+2025-11-26 20:33:08,099 - INFO - Start processing rate for Other STI
+2025-11-26 20:33:08,105 - INFO - Finished processing rate for L.G.V.&other&unsp.V.D
+2025-11-26 20:33:08,106 - INFO - Start processing rate for Mumps
+2025-11-26 20:33:08,108 - INFO - Finished processing rate for Pneumonia
+2025-11-26 20:33:08,109 - INFO - Start processing rate for Paratyphoid
+2025-11-26 20:33:08,116 - INFO - Finished processing rate for Dysentery,Amoebic
+2025-11-26 20:33:08,117 - INFO - Start processing rate for Vaginal trichomoniasis
+2025-11-26 20:33:08,131 - INFO - Finished processing rate for HFM
+2025-11-26 20:33:08,132 - INFO - Start processing rate for HepatitisA
+2025-11-26 20:33:08,157 - INFO - Finished processing rate for Tetanus exc.Neo
+2025-11-26 20:33:08,158 - INFO - Start processing rate for Rabies
+2025-11-26 20:33:08,187 - INFO - Finished processing rate for Filariasis
+2025-11-26 20:33:08,189 - INFO - Start processing rate for TB Total
+2025-11-26 20:33:08,189 - INFO - No files for TB Total with prefix rate_
+2025-11-26 20:33:08,190 - INFO - Start processing rate for HepatitisD
+2025-11-26 20:33:08,196 - INFO - Finished processing rate for Leprosy
+2025-11-26 20:33:08,201 - INFO - Finished processing rate for Dengue fever
+2025-11-26 20:33:08,210 - INFO - Finished processing rate for Scrub Typhus
+2025-11-26 20:33:08,250 - INFO - Finished processing rate for Mushroom poisoning
+2025-11-26 20:33:08,295 - INFO - Finished processing rate for Malaria
+2025-11-26 20:33:08,298 - INFO - Finished processing rate for Food_Poisoning
+2025-11-26 20:33:08,304 - INFO - Finished processing rate for Eosinophilic Meningitis
+2025-11-26 20:33:08,323 - INFO - Finished processing rate for T.B. other organs
+2025-11-26 20:33:08,327 - INFO - Finished processing rate for Influenza
+2025-11-26 20:33:08,398 - INFO - Finished processing rate for Liver fluke
+2025-11-26 20:33:08,400 - INFO - Finished processing rate for Meningitis,uns
+2025-11-26 20:33:08,420 - INFO - Finished processing rate for D.H.F.shock syndrome
+2025-11-26 20:33:08,599 - INFO - Finished processing rate for Melioidosis
+2025-11-26 20:33:08,732 - INFO - Finished processing rate for N.S.U._V
+2025-11-26 20:33:08,771 - INFO - Finished processing rate for Chikungunya
+2025-11-26 20:33:09,000 - INFO - Finished processing rate for Vaginal trichomoniasis
+2025-11-26 20:33:09,065 - INFO - Finished processing rate for D.H.F
+2025-11-26 20:33:09,178 - INFO - Finished processing rate for HepatitisB
+2025-11-26 20:33:09,739 - INFO - Finished processing rate for Gonorrhoea
+2025-11-26 20:33:09,740 - INFO - Finished processing rate for Diphtheria
+2025-11-26 20:33:09,799 - INFO - Finished processing rate for Typhoid
+2025-11-26 20:33:09,824 - INFO - Finished processing rate for Botulism
+2025-11-26 20:33:09,842 - INFO - Finished processing rate for Measles
+2025-11-26 20:33:10,328 - INFO - Finished processing rate for Other STI
+2025-11-26 20:33:10,780 - INFO - Finished processing rate for Syphilis
+2025-11-26 20:33:11,143 - INFO - Finished processing rate for HepatitisC
+2025-11-26 20:33:11,226 - INFO - Finished processing rate for Measles c Complication
+2025-11-26 20:33:11,245 - INFO - Finished processing rate for Chancroid
+2025-11-26 20:33:11,250 - INFO - Finished processing rate for HepatitisE
+2025-11-26 20:33:11,313 - INFO - Finished processing rate for Anthrax
+2025-11-26 20:33:11,331 - INFO - Finished processing rate for Tetanus neonatorum
+2025-11-26 20:33:11,359 - INFO - Finished processing rate for Scarlet fever
+2025-11-26 20:33:11,456 - INFO - Finished processing rate for Chickenpox
+2025-11-26 20:33:11,484 - INFO - Finished processing rate for HepatitisA
+2025-11-26 20:33:11,521 - INFO - Finished processing rate for Meningococcal Meningitis
+2025-11-26 20:33:11,562 - INFO - Finished processing rate for HepatitisD
+2025-11-26 20:33:11,658 - INFO - Finished processing rate for Paratyphoid
+2025-11-26 20:33:11,696 - INFO - Finished processing rate for Mumps
+2025-11-26 20:33:11,722 - INFO - Finished processing rate for Pulmonary T.B
+2025-11-26 20:33:11,802 - INFO - Finished processing rate for Rabies
+2025-11-26 20:33:11,866 - INFO - Completed mode rate: 66/72 succeeded
+2025-11-26 20:33:11,867 - INFO - Finished processing all rate data

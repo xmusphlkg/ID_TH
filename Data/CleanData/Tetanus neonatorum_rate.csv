@@ -1,1006 +1,4 @@
 Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
-Total,6,0.81,0,0.0,742183,2003,Tetanus neonatorum
-North Region,3,2.69,0,0.0,111514,2003,Tetanus neonatorum
-Zone:1,3,5.62,0,0.0,53354,2003,Tetanus neonatorum
-Chiang Mai,3,15.57,0,0.0,19265,2003,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,11137,2003,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,5904,2003,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,3089,2003,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,3008,2003,Tetanus neonatorum
-Nan,0,0.0,0,0.0,3740,2003,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,3687,2003,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,3524,2003,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,33425,2003,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,8833,2003,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,8333,2003,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,4943,2003,Tetanus neonatorum
-Tak,0,0.0,0,0.0,7471,2003,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,3845,2003,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,24735,2003,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,6847,2003,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,10103,2003,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,4532,2003,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,3253,2003,Tetanus neonatorum
-Central Region,1,0.35,0,0.0,289147,2003,Tetanus neonatorum
-Zone:0,0,0.0,0,0.0,113284,2003,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,113284,2003,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,29284,2003,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,2550,2003,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,10490,2003,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,8649,2003,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,7595,2003,Tetanus neonatorum
-Zone:5,1,5.2,0,0.0,19229,2003,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,2219,2003,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,7544,2003,Tetanus neonatorum
-Saraburi,1,13.64,0,0.0,7331,2003,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,2135,2003,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,37188,2003,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,8241,2003,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,11200,2003,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,9480,2003,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,8267,2003,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,20019,2003,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,4960,2003,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,5191,2003,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,8237,2003,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,1631,2003,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,33126,2003,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,6800,2003,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,2559,2003,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,4986,2003,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,5506,2003,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,13275,2003,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,37017,2003,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,5781,2003,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,21170,2003,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,7754,2003,Tetanus neonatorum
-Trat,0,0.0,0,0.0,2312,2003,Tetanus neonatorum
-North-Eastern Region,1,0.46,0,0.0,217904,2003,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,39590,2003,Tetanus neonatorum
-Loei,0,0.0,0,0.0,6567,2003,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,4992,2003,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,9995,2003,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,18036,2003,Tetanus neonatorum
-Zone:11,1,2.96,0,0.0,33789,2003,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,9273,2003,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,3467,2003,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,7735,2003,Tetanus neonatorum
-Sakon Nakhon,1,7.51,0,0.0,13314,2003,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,38851,2003,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,19344,2003,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,8250,2003,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,11257,2003,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,64744,2003,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,15347,2003,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,9142,2003,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,26629,2003,Tetanus neonatorum
-Surin,0,0.0,0,0.0,13626,2003,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,40930,2003,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,3031,2003,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,12814,2003,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,19965,2003,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,5120,2003,Tetanus neonatorum
-South Region,1,0.81,0,0.0,123618,2003,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,20542,2003,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,5229,2003,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,1731,2003,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,13582,2003,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,30107,2003,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,17572,2003,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,4752,2003,Tetanus neonatorum
-Trang,0,0.0,0,0.0,7783,2003,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,14624,2003,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,5665,2003,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,2894,2003,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,6065,2003,Tetanus neonatorum
-Zone:18,1,2.92,0,0.0,34261,2003,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,12640,2003,Tetanus neonatorum
-Pattani,1,8.68,0,0.0,11526,2003,Tetanus neonatorum
-Yala,0,0.0,0,0.0,10095,2003,Tetanus neonatorum
-Zone:19,0,0.0,0,0.0,24084,2003,Tetanus neonatorum
-Satun,0,0.0,0,0.0,3838,2003,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,20246,2003,Tetanus neonatorum
-Total,6,0.01,1,0.0,62195878,2005,Tetanus neonatorum
-North Region,2,0.02,0,0.0,11862916,2005,Tetanus neonatorum
-Zone:1,2,0.03,0,0.0,5729312,2005,Tetanus neonatorum
-Chiang Mai,1,0.06,0,0.0,1640390,2005,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1219732,2005,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,777827,2005,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,404754,2005,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,248672,2005,Tetanus neonatorum
-Nan,0,0.0,0,0.0,477917,2005,Tetanus neonatorum
-Phayao,1,0.21,0,0.0,487616,2005,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,472404,2005,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,3442642,2005,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,1001820,2005,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,841248,2005,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,610871,2005,Tetanus neonatorum
-Tak,0,0.0,0,0.0,519037,2005,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,469666,2005,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,2690962,2005,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,727351,2005,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1077634,2005,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,559611,2005,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,326366,2005,Tetanus neonatorum
-Central Region,2,0.01,1,0.0,20560399,2005,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5646543,2005,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,2777019,2005,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,283373,2005,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,957287,2005,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,743659,2005,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,792700,2005,Tetanus neonatorum
-Zone:5,1,0.05,0,0.0,1909368,2005,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,340812,2005,Tetanus neonatorum
-Lop Buri,1,0.13,0,0.0,750718,2005,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,598905,2005,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,218933,2005,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,3282327,2005,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,818218,2005,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,803489,2005,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,819286,2005,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,841334,2005,Tetanus neonatorum
-Zone:7,1,0.06,1,0.06,1578246,2005,Tetanus neonatorum
-Phetchaburi,1,0.22,1,0.22,452506,2005,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,483243,2005,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,447353,2005,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,195144,2005,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,2943051,2005,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,645521,2005,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,249686,2005,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,447783,2005,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,536591,2005,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1063470,2005,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,2423845,2005,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,496081,2005,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1157709,2005,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,551512,2005,Tetanus neonatorum
-Trat,0,0.0,0,0.0,218543,2005,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,21297778,2005,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,3524138,2005,Tetanus neonatorum
-Loei,0,0.0,0,0.0,611448,2005,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,495626,2005,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,895911,2005,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1521153,2005,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,3101003,2005,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,972425,2005,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,333338,2005,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,692377,2005,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1102863,2005,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,3991075,2005,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1744646,2005,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,935967,2005,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1310462,2005,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,6560991,2005,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1527846,2005,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1117026,2005,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2543054,2005,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1373065,2005,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,4120571,2005,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,368153,2005,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1442190,2005,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1768935,2005,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,541293,2005,Tetanus neonatorum
-South Region,2,0.02,0,0.0,8474785,2005,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,1593965,2005,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,473916,2005,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,177247,2005,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,942802,2005,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,2600847,2005,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1502382,2005,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,499399,2005,Tetanus neonatorum
-Trang,0,0.0,0,0.0,599066,2005,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,921037,2005,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,391709,2005,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,240254,2005,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,289074,2005,Tetanus neonatorum
-Zone:18,2,0.11,0,0.0,1791264,2005,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,697150,2005,Tetanus neonatorum
-Pattani,2,0.32,0,0.0,632119,2005,Tetanus neonatorum
-Yala,0,0.0,0,0.0,461995,2005,Tetanus neonatorum
-Zone:19,0,0.0,0,0.0,1567672,2005,Tetanus neonatorum
-Satun,0,0.0,0,0.0,275706,2005,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1291966,2005,Tetanus neonatorum
-Total,3,0.37,2,0.25,809485,2006,Tetanus neonatorum
-North Region,0,0.0,0,0.0,117935,2006,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,55603,2006,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,18912,2006,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,11666,2006,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,5998,2006,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,3318,2006,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,3776,2006,Tetanus neonatorum
-Nan,0,0.0,0,0.0,4331,2006,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,4005,2006,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,3597,2006,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,36169,2006,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,9228,2006,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,8772,2006,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,5441,2006,Tetanus neonatorum
-Tak,0,0.0,0,0.0,8226,2006,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,4502,2006,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,26163,2006,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,7025,2006,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,10723,2006,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,4999,2006,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,3416,2006,Tetanus neonatorum
-Central Region,1,0.31,1,0.31,322907,2006,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,113672,2006,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,36433,2006,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,2991,2006,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,11383,2006,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,9908,2006,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,12151,2006,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,22301,2006,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,2797,2006,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,8157,2006,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,8855,2006,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,2492,2006,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,41731,2006,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,9994,2006,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,11231,2006,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,11346,2006,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,9160,2006,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,24313,2006,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,5333,2006,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,6132,2006,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,10947,2006,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,1901,2006,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,39107,2006,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,8222,2006,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,3232,2006,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,5958,2006,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,6236,2006,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,15459,2006,Tetanus neonatorum
-Zone:9,1,2.21,1,2.21,45350,2006,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,6495,2006,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,26540,2006,Tetanus neonatorum
-Rayong,1,10.34,1,10.34,9675,2006,Tetanus neonatorum
-Trat,0,0.0,0,0.0,2640,2006,Tetanus neonatorum
-North-Eastern Region,2,0.86,1,0.43,233624,2006,Tetanus neonatorum
-Zone:10,1,2.49,0,0.0,40089,2006,Tetanus neonatorum
-Loei,0,0.0,0,0.0,6884,2006,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,5463,2006,Tetanus neonatorum
-Nong Khai,1,9.79,0,0.0,10218,2006,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,17524,2006,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,35568,2006,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,9610,2006,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,3810,2006,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,8157,2006,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,13991,2006,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,40202,2006,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,20020,2006,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,8402,2006,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,11780,2006,Tetanus neonatorum
-Zone:13,1,1.38,1,1.38,72252,2006,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,17707,2006,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,10676,2006,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,28620,2006,Tetanus neonatorum
-Surin,1,6.56,1,6.56,15249,2006,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,45513,2006,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,3933,2006,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,14438,2006,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,22035,2006,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,5107,2006,Tetanus neonatorum
-South Region,0,0.0,0,0.0,135019,2006,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,23409,2006,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,6403,2006,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,2162,2006,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,14844,2006,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,33052,2006,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,18310,2006,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,5711,2006,Tetanus neonatorum
-Trang,0,0.0,0,0.0,9031,2006,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,17091,2006,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,7183,2006,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,3153,2006,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,6755,2006,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,35179,2006,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,13007,2006,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,11959,2006,Tetanus neonatorum
-Yala,0,0.0,0,0.0,10213,2006,Tetanus neonatorum
-Zone:19,0,0.0,0,0.0,26288,2006,Tetanus neonatorum
-Satun,0,0.0,0,0.0,4728,2006,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,21560,2006,Tetanus neonatorum
-Total,4,0.5,0,0.0,793623,2007,Tetanus neonatorum
-North Region,1,0.88,0,0.0,114104,2007,Tetanus neonatorum
-Zone:1,1,1.86,0,0.0,53905,2007,Tetanus neonatorum
-Chiang Mai,1,5.28,0,0.0,18922,2007,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,11139,2007,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,5397,2007,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,3290,2007,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,3680,2007,Tetanus neonatorum
-Nan,0,0.0,0,0.0,4327,2007,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,3852,2007,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,3298,2007,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,34817,2007,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,8888,2007,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,8539,2007,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,5190,2007,Tetanus neonatorum
-Tak,0,0.0,0,0.0,8080,2007,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,4120,2007,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,25382,2007,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,6541,2007,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,10548,2007,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,4902,2007,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,3391,2007,Tetanus neonatorum
-Central Region,2,0.62,0,0.0,323488,2007,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,110734,2007,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,39072,2007,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,2850,2007,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,11514,2007,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,9746,2007,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,14962,2007,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,21445,2007,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,2791,2007,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,7676,2007,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,8741,2007,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,2237,2007,Tetanus neonatorum
-Zone:6,1,2.52,0,0.0,39624,2007,Tetanus neonatorum
-Kanchanaburi,1,10.24,0,0.0,9766,2007,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,9570,2007,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,11214,2007,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,9074,2007,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,25372,2007,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,5382,2007,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,6214,2007,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,12125,2007,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,1651,2007,Tetanus neonatorum
-Zone:8,1,2.42,0,0.0,41406,2007,Tetanus neonatorum
-Chachoengsao,1,12.31,0,0.0,8124,2007,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,2919,2007,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,5820,2007,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,5883,2007,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,18660,2007,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,45835,2007,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,6341,2007,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,27357,2007,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,9595,2007,Tetanus neonatorum
-Trat,0,0.0,0,0.0,2542,2007,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,222445,2007,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,38735,2007,Tetanus neonatorum
-Loei,0,0.0,0,0.0,6641,2007,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,5358,2007,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,9863,2007,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,16873,2007,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,34185,2007,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,9162,2007,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,3809,2007,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,7800,2007,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,13414,2007,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,38265,2007,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,19229,2007,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,7962,2007,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,11074,2007,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,67665,2007,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,16309,2007,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,10251,2007,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,27021,2007,Tetanus neonatorum
-Surin,0,0.0,0,0.0,14084,2007,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,43595,2007,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,3798,2007,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,14060,2007,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,20872,2007,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,4865,2007,Tetanus neonatorum
-South Region,1,0.75,0,0.0,133586,2007,Tetanus neonatorum
-Zone:15,1,4.33,0,0.0,23079,2007,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,6111,2007,Tetanus neonatorum
-Ranong,1,47.04,0,0.0,2126,2007,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,14842,2007,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,32908,2007,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,18055,2007,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,5676,2007,Tetanus neonatorum
-Trang,0,0.0,0,0.0,9177,2007,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,17088,2007,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,7038,2007,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,3299,2007,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,6751,2007,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,34866,2007,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,12928,2007,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,11767,2007,Tetanus neonatorum
-Yala,0,0.0,0,0.0,10171,2007,Tetanus neonatorum
-Zone:19,0,0.0,0,0.0,25645,2007,Tetanus neonatorum
-Satun,0,0.0,0,0.0,4596,2007,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,21049,2007,Tetanus neonatorum
-Total,3,0.38,1,0.13,784256,2008,Tetanus neonatorum
-Central Region,1,0.32,1,0.32,315699,2008,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,106655,2008,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,42987,2008,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,11408,2008,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,10133,2008,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,12844,2008,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,8602,2008,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,15787,2008,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,3008,2008,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,2874,2008,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,7652,2008,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,2253,2008,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,39163,2008,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,8316,2008,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,3371,2008,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,6067,2008,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,6038,2008,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,15371,2008,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,39875,2008,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,9850,2008,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,10122,2008,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,10945,2008,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,8958,2008,Tetanus neonatorum
-Zone:5,1,4.26,1,4.26,23493,2008,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,5232,2008,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,6347,2008,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,10581,2008,Tetanus neonatorum
-Samut Songkhram,1,75.02,1,75.02,1333,2008,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,47739,2008,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,6327,2008,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,28520,2008,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,10205,2008,Tetanus neonatorum
-Trat,0,0.0,0,0.0,2687,2008,Tetanus neonatorum
-South Region,0,0.0,0,0.0,137565,2008,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,46750,2008,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,6311,2008,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,18401,2008,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,5950,2008,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,16088,2008,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,29144,2008,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,7384,2008,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,3385,2008,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,7500,2008,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,1998,2008,Tetanus neonatorum
-Trang,0,0.0,0,0.0,8877,2008,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,61671,2008,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,13530,2008,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,12268,2008,Tetanus neonatorum
-Satun,0,0.0,0,0.0,4737,2008,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,20959,2008,Tetanus neonatorum
-Yala,0,0.0,0,0.0,10177,2008,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,219434,2008,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,37736,2008,Tetanus neonatorum
-Loei,0,0.0,0,0.0,6524,2008,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,5106,2008,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,9684,2008,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,16422,2008,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,24450,2008,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,3793,2008,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,7290,2008,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,13367,2008,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,46163,2008,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,9021,2008,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,18982,2008,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,7726,2008,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,10434,2008,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,43069,2008,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,3702,2008,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,13613,2008,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,20837,2008,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,4917,2008,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,68016,2008,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,16290,2008,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,10232,2008,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,27893,2008,Tetanus neonatorum
-Surin,0,0.0,0,0.0,13601,2008,Tetanus neonatorum
-North Region,2,1.79,0,0.0,111558,2008,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,29954,2008,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,18087,2008,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,5139,2008,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,3363,2008,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,3365,2008,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,22231,2008,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,11216,2008,Tetanus neonatorum
-Nan,0,0.0,0,0.0,4099,2008,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,3629,2008,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,3287,2008,Tetanus neonatorum
-Zone:17,2,5.83,0,0.0,34320,2008,Tetanus neonatorum
-Phetchabun,1,11.42,0,0.0,8760,2008,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,8400,2008,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,5039,2008,Tetanus neonatorum
-Tak,1,12.21,0,0.0,8188,2008,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,3933,2008,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,25053,2008,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,6425,2008,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,10288,2008,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,4947,2008,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,3393,2008,Tetanus neonatorum
-Total,1,0.13,0,0.0,784256,2009,Tetanus neonatorum
-Central Region,0,0.0,0,0.0,315699,2009,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,106655,2009,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,42987,2009,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,11408,2009,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,10133,2009,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,12844,2009,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,8602,2009,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,15787,2009,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,3008,2009,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,2874,2009,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,7652,2009,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,2253,2009,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,39163,2009,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,8316,2009,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,3371,2009,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,6067,2009,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,6038,2009,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,15371,2009,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,39875,2009,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,9850,2009,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,10122,2009,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,10945,2009,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,8958,2009,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,23493,2009,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,5232,2009,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,6347,2009,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,10581,2009,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,1333,2009,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,47739,2009,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,6327,2009,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,28520,2009,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,10205,2009,Tetanus neonatorum
-Trat,0,0.0,0,0.0,2687,2009,Tetanus neonatorum
-South Region,0,0.0,0,0.0,137565,2009,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,46750,2009,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,6311,2009,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,18401,2009,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,5950,2009,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,16088,2009,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,29144,2009,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,7384,2009,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,3385,2009,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,7500,2009,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,1998,2009,Tetanus neonatorum
-Trang,0,0.0,0,0.0,8877,2009,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,61671,2009,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,13530,2009,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,12268,2009,Tetanus neonatorum
-Satun,0,0.0,0,0.0,4737,2009,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,20959,2009,Tetanus neonatorum
-Yala,0,0.0,0,0.0,10177,2009,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,219434,2009,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,37736,2009,Tetanus neonatorum
-Loei,0,0.0,0,0.0,6524,2009,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,5106,2009,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,9684,2009,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,16422,2009,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,24450,2009,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,3793,2009,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,7290,2009,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,13367,2009,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,46163,2009,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,9021,2009,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,18982,2009,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,7726,2009,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,10434,2009,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,43069,2009,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,3702,2009,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,13613,2009,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,20837,2009,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,4917,2009,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,68016,2009,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,16290,2009,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,10232,2009,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,27893,2009,Tetanus neonatorum
-Surin,0,0.0,0,0.0,13601,2009,Tetanus neonatorum
-North Region,1,0.9,0,0.0,111558,2009,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,29954,2009,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,18087,2009,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,5139,2009,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,3363,2009,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,3365,2009,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,22231,2009,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,11216,2009,Tetanus neonatorum
-Nan,0,0.0,0,0.0,4099,2009,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,3629,2009,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,3287,2009,Tetanus neonatorum
-Zone:17,1,2.91,0,0.0,34320,2009,Tetanus neonatorum
-Phetchabun,1,11.42,0,0.0,8760,2009,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,8400,2009,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,5039,2009,Tetanus neonatorum
-Tak,0,0.0,0,0.0,8188,2009,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,3933,2009,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,25053,2009,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,6425,2009,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,10288,2009,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,4947,2009,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,3393,2009,Tetanus neonatorum
-Total,3,0.0,1,0.0,63701703,2010,Tetanus neonatorum
-Central Region,0,0.0,0,0.0,21534318,2010,Tetanus neonatorum
-Zone:0,0,0.0,0,0.0,5701995,2010,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5701995,2010,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,3454591,2010,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1089908,2010,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,778627,2010,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,971010,2010,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,615046,2010,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,1590200,2010,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,284889,2010,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,335177,2010,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,755153,2010,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,214981,2010,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,3105799,2010,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,671458,2010,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,252209,2010,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,464213,2010,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,543276,2010,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1174643,2010,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,3374810,2010,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,836600,2010,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,855837,2010,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,837153,2010,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,845220,2010,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,1651335,2010,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,462636,2010,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,506599,2010,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,488247,2010,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,193853,2010,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,2655588,2010,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,512932,2010,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1302942,2010,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,619249,2010,Tetanus neonatorum
-Trat,0,0.0,0,0.0,220465,2010,Tetanus neonatorum
-South Region,0,0.0,0,0.0,8853473,2010,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,3514344,2010,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,488855,2010,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1519531,2010,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,508656,2010,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,997302,2010,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,1825591,2010,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,429631,2010,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,252385,2010,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,340490,2010,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,182417,2010,Tetanus neonatorum
-Trang,0,0.0,0,0.0,620668,2010,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,3513538,2010,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,732617,2010,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,651442,2010,Tetanus neonatorum
-Satun,0,0.0,0,0.0,295133,2010,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1350489,2010,Tetanus neonatorum
-Yala,0,0.0,0,0.0,483857,2010,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,21534582,2010,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,3576272,2010,Tetanus neonatorum
-Loei,0,0.0,0,0.0,622424,2010,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,501891,2010,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,910094,2010,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1541863,2010,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,2161531,2010,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,338812,2010,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,702041,2010,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1120678,2010,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,4995226,2010,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,981369,2010,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1764922,2010,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,940001,2010,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1308934,2010,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,4168498,2010,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,371471,2010,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1449409,2010,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1808422,2010,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,539196,2010,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,6633055,2010,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1550275,2010,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1126295,2010,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2576691,2010,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1379794,2010,Tetanus neonatorum
-North Region,3,0.03,1,0.01,11779330,2010,Tetanus neonatorum
-Zone:15,1,0.03,0,0.0,3046660,2010,Tetanus neonatorum
-Chiang Mai,1,0.06,0,0.0,1636514,2010,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,763224,2010,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,404627,2010,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,242295,2010,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,2620701,2010,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1196576,2010,Tetanus neonatorum
-Nan,0,0.0,0,0.0,475989,2010,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,486713,2010,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,461423,2010,Tetanus neonatorum
-Zone:17,2,0.06,1,0.03,3430959,2010,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,995578,2010,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,847627,2010,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,602296,2010,Tetanus neonatorum
-Tak,2,0.38,1,0.19,522673,2010,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,462785,2010,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,2681010,2010,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,726970,2010,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1073182,2010,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,552942,2010,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,327916,2010,Tetanus neonatorum
-Total,1,0.0,1,0.0,63977185,2011,Tetanus neonatorum
-Central Region,1,0.0,1,0.0,21679246,2011,Tetanus neonatorum
-Zone:0,0,0.0,0,0.0,5688119,2011,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5688119,2011,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,3514250,2011,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1112185,2011,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,784875,2011,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,998271,2011,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,618919,2011,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,1588727,2011,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,284516,2011,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,334096,2011,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,755991,2011,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,214124,2011,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,3137098,2011,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,676652,2011,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,253283,2011,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,468113,2011,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,544848,2011,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1194202,2011,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,3388832,2011,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,839345,2011,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,863155,2011,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,840880,2011,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,845452,2011,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,1665473,2011,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,465056,2011,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,510852,2011,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,495493,2011,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,194072,2011,Tetanus neonatorum
-Zone:9,1,0.04,1,0.04,2696747,2011,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,515736,2011,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1327475,2011,Tetanus neonatorum
-Rayong,1,0.16,1,0.16,632069,2011,Tetanus neonatorum
-Trat,0,0.0,0,0.0,221467,2011,Tetanus neonatorum
-South Region,0,0.0,0,0.0,8932459,2011,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,3531913,2011,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,491073,2011,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1524317,2011,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,510299,2011,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1006224,2011,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,1846999,2011,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,435372,2011,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,254022,2011,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,349457,2011,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,183464,2011,Tetanus neonatorum
-Trang,0,0.0,0,0.0,624684,2011,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,3553547,2011,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,742268,2011,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,659373,2011,Tetanus neonatorum
-Satun,0,0.0,0,0.0,299315,2011,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1362017,2011,Tetanus neonatorum
-Yala,0,0.0,0,0.0,490574,2011,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,21579612,2011,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,3588872,2011,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,203818,2011,Tetanus neonatorum
-Loei,0,0.0,0,0.0,624493,2011,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,502710,2011,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,711404,2011,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1546447,2011,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,2167288,2011,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,340079,2011,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,704080,2011,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1123129,2011,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,4996659,2011,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,982117,2011,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1766834,2011,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,940324,2011,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1307384,2011,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,4178156,2011,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,372190,2011,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1452338,2011,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1814573,2011,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,539055,2011,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,6648637,2011,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1556426,2011,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1127423,2011,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2583707,2011,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1381081,2011,Tetanus neonatorum
-North Region,0,0.0,0,0.0,11785868,2011,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,3050706,2011,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1643312,2011,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,759742,2011,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,404257,2011,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,243395,2011,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,2621067,2011,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1198438,2011,Tetanus neonatorum
-Nan,0,0.0,0,0.0,476488,2011,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,486388,2011,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,459753,2011,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,3435767,2011,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,993420,2011,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,850525,2011,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,601642,2011,Tetanus neonatorum
-Tak,0,0.0,0,0.0,528351,2011,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,461829,2011,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,2678328,2011,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,726551,2011,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1072591,2011,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,551189,2011,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,327997,2011,Tetanus neonatorum
-Total,0,0.0,0,0.0,64075986,2012,Tetanus neonatorum
-Central Region,0,0.0,0,0.0,21734984,2012,Tetanus neonatorum
-Zone:0,0,0.0,0,0.0,5674843,2012,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5674843,2012,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,3541632,2012,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1122627,2012,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2012,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1010898,2012,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,620454,2012,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,1587031,2012,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,284061,2012,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,333256,2012,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,756127,2012,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,213587,2012,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,3151672,2012,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,679370,2012,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,253831,2012,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,469652,2012,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,545596,2012,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1203223,2012,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,3392715,2012,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,838914,2012,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,866064,2012,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,842684,2012,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,845053,2012,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,1671831,2012,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,466079,2012,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,512568,2012,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,499098,2012,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,194086,2012,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,2715260,2012,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,516855,2012,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1338656,2012,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,637736,2012,Tetanus neonatorum
-Trat,0,0.0,0,0.0,222013,2012,Tetanus neonatorum
-South Region,0,0.0,0,0.0,8971808,2012,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,3541333,2012,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,492182,2012,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2012,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,511016,2012,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1012064,2012,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,1857374,2012,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,438039,2012,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,254931,2012,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,353847,2012,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,183849,2012,Tetanus neonatorum
-Trang,0,0.0,0,0.0,626708,2012,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,3573101,2012,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,747372,2012,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,663485,2012,Tetanus neonatorum
-Satun,0,0.0,0,0.0,301467,2012,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1367010,2012,Tetanus neonatorum
-Yala,0,0.0,0,0.0,493767,2012,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,21585883,2012,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,3593082,2012,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,407634,2012,Tetanus neonatorum
-Loei,0,0.0,0,0.0,624920,2012,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,502551,2012,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,509870,2012,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1548107,2012,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,2168700,2012,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,340581,2012,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,704768,2012,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1123351,2012,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,4992515,2012,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,981655,2012,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1766066,2012,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,939736,2012,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1305058,2012,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,4179354,2012,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,372241,2012,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1452203,2012,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1816057,2012,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,538853,2012,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,6652232,2012,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1559085,2012,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1127423,2012,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2585325,2012,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1380399,2012,Tetanus neonatorum
-North Region,0,0.0,0,0.0,11783311,2012,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,3051678,2012,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1646144,2012,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,757534,2012,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,403952,2012,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,244048,2012,Tetanus neonatorum
-Zone:16,0,0.0,0,0.0,2620490,2012,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1198656,2012,Tetanus neonatorum
-Nan,0,0.0,0,0.0,476612,2012,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,486472,2012,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,458750,2012,Tetanus neonatorum
-Zone:17,0,0.0,0,0.0,3435726,2012,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,990807,2012,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,851357,2012,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,601504,2012,Tetanus neonatorum
-Tak,0,0.0,0,0.0,531018,2012,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,461040,2012,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,2675417,2012,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,726009,2012,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1071686,2012,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,549688,2012,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,328034,2012,Tetanus neonatorum
-Total,2,0.0,0,0.0,64076033,2013,Tetanus neonatorum
-Central Region,0,0.0,0,0.0,21734984,2013,Tetanus neonatorum
-Zone:0,0,0.0,0,0.0,5674843,2013,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5674843,2013,Tetanus neonatorum
-Zone:1,0,0.0,0,0.0,3541632,2013,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1122627,2013,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2013,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1010898,2013,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,620454,2013,Tetanus neonatorum
-Zone:2,0,0.0,0,0.0,1587031,2013,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,284061,2013,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,333256,2013,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,756127,2013,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,213587,2013,Tetanus neonatorum
-Zone:3,0,0.0,0,0.0,3151672,2013,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,679370,2013,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,253831,2013,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,469652,2013,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,545596,2013,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1203223,2013,Tetanus neonatorum
-Zone:4,0,0.0,0,0.0,3392715,2013,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,838914,2013,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,866064,2013,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,842684,2013,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,845053,2013,Tetanus neonatorum
-Zone:5,0,0.0,0,0.0,1671831,2013,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,466079,2013,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,512568,2013,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,499098,2013,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,194086,2013,Tetanus neonatorum
-Zone:9,0,0.0,0,0.0,2715260,2013,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,516855,2013,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1338656,2013,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,637736,2013,Tetanus neonatorum
-Trat,0,0.0,0,0.0,222013,2013,Tetanus neonatorum
-South Region,0,0.0,0,0.0,8971855,2013,Tetanus neonatorum
-Zone:6,0,0.0,0,0.0,3541380,2013,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,492182,2013,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2013,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,511063,2013,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1012064,2013,Tetanus neonatorum
-Zone:7,0,0.0,0,0.0,1857374,2013,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,438039,2013,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,254931,2013,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,353847,2013,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,183849,2013,Tetanus neonatorum
-Trang,0,0.0,0,0.0,626708,2013,Tetanus neonatorum
-Zone:8,0,0.0,0,0.0,3573101,2013,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,747372,2013,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,663485,2013,Tetanus neonatorum
-Satun,0,0.0,0,0.0,301467,2013,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1367010,2013,Tetanus neonatorum
-Yala,0,0.0,0,0.0,493767,2013,Tetanus neonatorum
-North-Eastern Region,0,0.0,0,0.0,21585883,2013,Tetanus neonatorum
-Zone:10,0,0.0,0,0.0,3593082,2013,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,407634,2013,Tetanus neonatorum
-Loei,0,0.0,0,0.0,624920,2013,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,502551,2013,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,509870,2013,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1548107,2013,Tetanus neonatorum
-Zone:11,0,0.0,0,0.0,2168700,2013,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,340581,2013,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,704768,2013,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1123351,2013,Tetanus neonatorum
-Zone:12,0,0.0,0,0.0,4992515,2013,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,981655,2013,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1766066,2013,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,939736,2013,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1305058,2013,Tetanus neonatorum
-Zone:13,0,0.0,0,0.0,4179354,2013,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,372241,2013,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1452203,2013,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1816057,2013,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,538853,2013,Tetanus neonatorum
-Zone:14,0,0.0,0,0.0,6652232,2013,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1559085,2013,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1127423,2013,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2585325,2013,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1380399,2013,Tetanus neonatorum
-North Region,2,0.02,0,0.0,11783311,2013,Tetanus neonatorum
-Zone:15,0,0.0,0,0.0,3051678,2013,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1646144,2013,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,757534,2013,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,403952,2013,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,244048,2013,Tetanus neonatorum
-Zone:16,1,0.04,0,0.0,2620490,2013,Tetanus neonatorum
-Chiang Rai,1,0.08,0,0.0,1198656,2013,Tetanus neonatorum
-Nan,0,0.0,0,0.0,476612,2013,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,486472,2013,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,458750,2013,Tetanus neonatorum
-Zone:17,1,0.03,0,0.0,3435726,2013,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,990807,2013,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,851357,2013,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,601504,2013,Tetanus neonatorum
-Tak,1,0.19,0,0.0,531018,2013,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,461040,2013,Tetanus neonatorum
-Zone:18,0,0.0,0,0.0,2675417,2013,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,726009,2013,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1071686,2013,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,549688,2013,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,328034,2013,Tetanus neonatorum
 Total,2,0.0,1,0.0,64955313,2014,Tetanus neonatorum
 ZONE:00,0,0.0,0,0.0,5689268,2014,Tetanus neonatorum
 Bangkok,0,0.0,0,0.0,5689268,2014,Tetanus neonatorum
@@ -1183,734 +181,406 @@ Satun,0,0.0,0,0.0,312673,2015,Tetanus neonatorum
 Songkhla,0,0.0,0,0.0,1401303,2015,Tetanus neonatorum
 Trang,0,0.0,0,0.0,638746,2015,Tetanus neonatorum
 Yala,0,0.0,0,0.0,511911,2015,Tetanus neonatorum
-Total,0,0.0,0,0.0,65426907,2016,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5781324,2016,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1703263,2016,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1242825,2016,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,752685,2016,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,405927,2016,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,260971,2016,Tetanus neonatorum
-Nan,0,0.0,0,0.0,478890,2016,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,483550,2016,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,453213,2016,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3498728,2016,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,996397,2016,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,861194,2016,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,602085,2016,Tetanus neonatorum
-Tak,0,0.0,0,0.0,578968,2016,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,460084,2016,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,3011449,2016,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,331968,2016,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,729839,2016,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1072349,2016,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,546750,2016,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,330543,2016,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5221125,2016,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,283371,2016,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,758531,2016,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,257939,2016,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1183791,2016,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,805980,2016,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1084154,2016,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,635567,2016,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,211792,2016,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5209561,2016,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,865172,2016,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,895207,2016,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,476391,2016,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,529912,2016,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,860549,2016,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,538671,2016,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,194283,2016,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,849376,2016,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,5880124,2016,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,698190,2016,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,529194,2016,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1438231,2016,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,480755,2016,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,681696,2016,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,554555,2016,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1270420,2016,Tetanus neonatorum
-Trat,0,0.0,0,0.0,227083,2016,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5049920,2016,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,985055,2016,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1794032,2016,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,962592,2016,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1308241,2016,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5511930,2016,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,419607,2016,Tetanus neonatorum
-Loei,0,0.0,0,0.0,636666,2016,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,714369,2016,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,518420,2016,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1572726,2016,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6737604,2016,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1581955,2016,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1137651,2016,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2624668,2016,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1393330,2016,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4581192,2016,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,375881,2016,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,347059,2016,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1467006,2016,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1851049,2016,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,540197,2016,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4383957,2016,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,503203,2016,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,459456,2016,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1550278,2016,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,262721,2016,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,382485,2016,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,182313,2016,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1043501,2016,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4865646,2016,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,778941,2016,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,690104,2016,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,521570,2016,Tetanus neonatorum
-Satun,0,0.0,0,0.0,314297,2016,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1405939,2016,Tetanus neonatorum
-Trang,0,0.0,0,0.0,639770,2016,Tetanus neonatorum
-Yala,0,0.0,0,0.0,515025,2016,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5694347,2016,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5694347,2016,Tetanus neonatorum
-Total,0,0.0,0,0.0,66060027,2017,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5864232,2017,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1741301,2017,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1285080,2017,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,747699,2017,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,405959,2017,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,277486,2017,Tetanus neonatorum
-Nan,0,0.0,0,0.0,479877,2017,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,478144,2017,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,448686,2017,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3556376,2017,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,995277,2017,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,865564,2017,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,599775,2017,Tetanus neonatorum
-Tak,0,0.0,0,0.0,638115,2017,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,457645,2017,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2998104,2017,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,330077,2017,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1065895,2017,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,542674,2017,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,330121,2017,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5302492,2017,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,281796,2017,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,757296,2017,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,258850,2017,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1220829,2017,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,812086,2017,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1120246,2017,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,641052,2017,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,210337,2017,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5295696,2017,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,886546,2017,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,908249,2017,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,481514,2017,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,541756,2017,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,870769,2017,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,562592,2017,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,193985,2017,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,850285,2017,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6020790,2017,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,707145,2017,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,533463,2017,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1496086,2017,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,486187,2017,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,705729,2017,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,560478,2017,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1302160,2017,Tetanus neonatorum
-Trat,0,0.0,0,0.0,229542,2017,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5060674,2017,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,985619,2017,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1803831,2017,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,963277,2017,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1307947,2017,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5541473,2017,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,422328,2017,Tetanus neonatorum
-Loei,0,0.0,0,0.0,640734,2017,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,717451,2017,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,511188,2017,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,521125,2017,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1147710,2017,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1580937,2017,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6760383,2017,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1589900,2017,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1138778,2017,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2635331,2017,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1396374,2017,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4604905,2017,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,377614,2017,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,350128,2017,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1471185,2017,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1866299,2017,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,539679,2017,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4441086,2017,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,508627,2017,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,467851,2017,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1555957,2017,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,266535,2017,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,398092,2017,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,189777,2017,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1054247,2017,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4929285,2017,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,792961,2017,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,705379,2017,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,524291,2017,Tetanus neonatorum
-Satun,0,0.0,0,0.0,318655,2017,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1420834,2017,Tetanus neonatorum
-Trang,0,0.0,0,0.0,642377,2017,Tetanus neonatorum
-Yala,0,0.0,0,0.0,524788,2017,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5684531,2017,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5684531,2017,Tetanus neonatorum
-Total,0,0.0,0,0.0,66301242,2018,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5878537,2018,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1755291,2018,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1289873,2018,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,744714,2018,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,405936,2018,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,280826,2018,Tetanus neonatorum
-Nan,0,0.0,0,0.0,479414,2018,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,476157,2018,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,446326,2018,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3565071,2018,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,994936,2018,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,866129,2018,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,598287,2018,Tetanus neonatorum
-Tak,0,0.0,0,0.0,649472,2018,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,456247,2018,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2992420,2018,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,328993,2018,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,728470,2018,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1064649,2018,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,540620,2018,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,329688,2018,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5343264,2018,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,281014,2018,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,758003,2018,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,259718,2018,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1238015,2018,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,815647,2018,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1137603,2018,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,643531,2018,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,209733,2018,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5324608,2018,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,890565,2018,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,914273,2018,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,483335,2018,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,546396,2018,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,872615,2018,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,573215,2018,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,193847,2018,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,850362,2018,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6088563,2018,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,712449,2018,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,535478,2018,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1522285,2018,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,489592,2018,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,717276,2018,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,563014,2018,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1318687,2018,Tetanus neonatorum
-Trat,0,0.0,0,0.0,229782,2018,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5062199,2018,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,985676,2018,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1805903,2018,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,963060,2018,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1307560,2018,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5553738,2018,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,423485,2018,Tetanus neonatorum
-Loei,0,0.0,0,0.0,642220,2018,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,718406,2018,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,511878,2018,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,521995,2018,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1150876,2018,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1584878,2018,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6772779,2018,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1593378,2018,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1139067,2018,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2642815,2018,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1397519,2018,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4613643,2018,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,378363,2018,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,351532,2018,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1472521,2018,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1872091,2018,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,539136,2018,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4466673,2018,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,510307,2018,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,471754,2018,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1558958,2018,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,267866,2018,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,406113,2018,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,191134,2018,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1060541,2018,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4960215,2018,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,799357,2018,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,713937,2018,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,524951,2018,Tetanus neonatorum
-Satun,0,0.0,0,0.0,320637,2018,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1428429,2018,Tetanus neonatorum
-Trang,0,0.0,0,0.0,643093,2018,Tetanus neonatorum
-Yala,0,0.0,0,0.0,529811,2018,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5679532,2018,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5679532,2018,Tetanus neonatorum
-Total,1,0.0,0,0.0,66486458,2019,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5891985,2019,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1771499,2019,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1295217,2019,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,740600,2019,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,405515,2019,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,283352,2019,Tetanus neonatorum
-Nan,0,0.0,0,0.0,478608,2019,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,473786,2019,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,443408,2019,Tetanus neonatorum
-ZONE:02,1,0.03,0,0.0,3570128,2019,Tetanus neonatorum
-Phetchabun,1,0.1,0,0.0,993496,2019,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,866068,2019,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,596165,2019,Tetanus neonatorum
-Tak,0,0.0,0,0.0,660147,2019,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,454252,2019,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2983068,2019,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,327437,2019,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,726836,2019,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1061926,2019,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,537843,2019,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,329026,2019,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5381695,2019,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,280246,2019,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,757145,2019,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,260421,2019,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1255840,2019,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,818815,2019,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1154848,2019,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,645468,2019,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,208912,2019,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5344807,2019,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,894338,2019,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,918542,2019,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,484743,2019,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,551466,2019,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,873310,2019,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,581334,2019,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,193548,2019,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,847526,2019,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6154601,2019,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,717561,2019,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,537097,2019,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1546873,2019,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,493159,2019,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,729035,2019,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,565198,2019,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1335742,2019,Tetanus neonatorum
-Trat,0,0.0,0,0.0,229936,2019,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5057831,2019,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,984381,2019,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1804384,2019,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,962856,2019,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1306210,2019,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5559986,2019,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,424016,2019,Tetanus neonatorum
-Loei,0,0.0,0,0.0,642862,2019,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,718961,2019,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,512449,2019,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,522207,2019,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1152835,2019,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1586656,2019,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6778372,2019,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1595299,2019,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1138067,2019,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2647663,2019,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1397343,2019,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4618551,2019,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,378530,2019,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,352727,2019,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1472934,2019,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1876347,2019,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,538013,2019,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4487837,2019,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,511134,2019,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,475239,2019,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1561179,2019,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,268513,2019,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,413397,2019,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,192619,2019,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1065756,2019,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4986140,2019,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,805248,2019,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,721591,2019,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,524955,2019,Tetanus neonatorum
-Satun,0,0.0,0,0.0,322580,2019,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1434298,2019,Tetanus neonatorum
-Trang,0,0.0,0,0.0,643140,2019,Tetanus neonatorum
-Yala,0,0.0,0,0.0,534328,2019,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5671457,2019,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5671457,2019,Tetanus neonatorum
-Total,0,0.0,0,0.0,66372831,2020,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5886870,2020,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1781812,2020,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1296664,2020,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,733640,2020,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,403542,2020,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,284343,2020,Tetanus neonatorum
-Nan,0,0.0,0,0.0,477476,2020,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,469856,2020,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,439537,2020,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3554902,2020,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,987196,2020,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,857364,2020,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,591477,2020,Tetanus neonatorum
-Tak,0,0.0,0,0.0,667942,2020,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,450923,2020,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2956189,2020,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,324544,2020,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,719993,2020,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1050098,2020,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,534311,2020,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,327243,2020,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5400529,2020,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,278119,2020,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,749242,2020,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,260416,2020,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1271065,2020,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819638,2020,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1170008,2020,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,644869,2020,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,207172,2020,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5342038,2020,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,893751,2020,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,920380,2020,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,483692,2020,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,552398,2020,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,871207,2020,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,585451,2020,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,192678,2020,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,842481,2020,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6192990,2020,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,720416,2020,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,536629,2020,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1562593,2020,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,494175,2020,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,738139,2020,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,563614,2020,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1348177,2020,Tetanus neonatorum
-Trat,0,0.0,0,0.0,229247,2020,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5039088,2020,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,980297,2020,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1798702,2020,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,958163,2020,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1301926,2020,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5540556,2020,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,423067,2020,Tetanus neonatorum
-Loei,0,0.0,0,0.0,640843,2020,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,718169,2020,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,511125,2020,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,519873,2020,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1150164,2020,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1577315,2020,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6748199,2020,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1588466,2020,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1131140,2020,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2641067,2020,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1387526,2020,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4603401,2020,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,377317,2020,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,352043,2020,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1465719,2020,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1872422,2020,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,535900,2020,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4489609,2020,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,510256,2020,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,477254,2020,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1556325,2020,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,268509,2020,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,415527,2020,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,193871,2020,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1067867,2020,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4991217,2020,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,806224,2020,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,725559,2020,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,523971,2020,Tetanus neonatorum
-Satun,0,0.0,0,0.0,323841,2020,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1432288,2020,Tetanus neonatorum
-Trang,0,0.0,0,0.0,641868,2020,Tetanus neonatorum
-Yala,0,0.0,0,0.0,537466,2020,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5627243,2020,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5627243,2020,Tetanus neonatorum
-Total,0,0.0,0,0.0,66179083,2021,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5875424,2021,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1786877,2021,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1296725,2021,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,726821,2021,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,401574,2021,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,285232,2021,Tetanus neonatorum
-Nan,0,0.0,0,0.0,476300,2021,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,465930,2021,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,435965,2021,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3536074,2021,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,980156,2021,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,848432,2021,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,586617,2021,Tetanus neonatorum
-Tak,0,0.0,0,0.0,673423,2021,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,447446,2021,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2928596,2021,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,321454,2021,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1037668,2021,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,530852,2021,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,325492,2021,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5411959,2021,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,275673,2021,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,741200,2021,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,260256,2021,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1282690,2021,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1183235,2021,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,643895,2021,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,205211,2021,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5332653,2021,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,893014,2021,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,921450,2021,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,482534,2021,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,551924,2021,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,868797,2021,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,586494,2021,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,191447,2021,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,836993,2021,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6218594,2021,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,722448,2021,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,536058,2021,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1575278,2021,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,494498,2021,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,746433,2021,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,561459,2021,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1353964,2021,Tetanus neonatorum
-Trat,0,0.0,0,0.0,228456,2021,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5017381,2021,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,976373,2021,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1792697,2021,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,950985,2021,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1297326,2021,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5518109,2021,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,422019,2021,Tetanus neonatorum
-Loei,0,0.0,0,0.0,638734,2021,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,717121,2021,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,517140,2021,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1567247,2021,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6714997,2021,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1580495,2021,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1123595,2021,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2633681,2021,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1377226,2021,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4587095,2021,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,376273,2021,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,351198,2021,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1458068,2021,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1867608,2021,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,533948,2021,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4487259,2021,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,509344,2021,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,478561,2021,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1550033,2021,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,268123,2021,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,416629,2021,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,194473,2021,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1070096,2021,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,4992834,2021,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,807045,2021,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,727799,2021,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,522810,2021,Tetanus neonatorum
-Satun,0,0.0,0,0.0,324467,2021,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1430073,2021,Tetanus neonatorum
-Trang,0,0.0,0,0.0,640182,2021,Tetanus neonatorum
-Yala,0,0.0,0,0.0,540458,2021,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5558108,2021,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5558108,2021,Tetanus neonatorum
-Total,0,0.0,0,0.0,66171439,2022,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5874503,2022,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1789385,2022,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1298425,2022,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,724678,2022,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,401139,2022,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,285916,2022,Tetanus neonatorum
-Nan,0,0.0,0,0.0,475875,2022,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,464505,2022,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,434580,2022,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3533839,2022,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,978372,2022,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,847384,2022,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,585352,2022,Tetanus neonatorum
-Tak,0,0.0,0,0.0,676583,2022,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,446148,2022,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2922114,2022,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,320432,2022,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,712143,2022,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1035028,2022,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,529395,2022,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,325116,2022,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5422367,2022,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,274763,2022,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,739473,2022,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,260433,2022,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1288637,2022,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820512,2022,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1190060,2022,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,643963,2022,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,204526,2022,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5333543,2022,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,894054,2022,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,922171,2022,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,482875,2022,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,553171,2022,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,868281,2022,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,586789,2022,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,190842,2022,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,835360,2022,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6237892,2022,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,724178,2022,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,536557,2022,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1583672,2022,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,495325,2022,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,751343,2022,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,561992,2022,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1356449,2022,Tetanus neonatorum
-Trat,0,0.0,0,0.0,228376,2022,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5010756,2022,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,975570,2022,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1790863,2022,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,948310,2022,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1296013,2022,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5516407,2022,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,421995,2022,Tetanus neonatorum
-Loei,0,0.0,0,0.0,638732,2022,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,717040,2022,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,509001,2022,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,516843,2022,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1146286,2022,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1566510,2022,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6712454,2022,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1579805,2022,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1122265,2022,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2634154,2022,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1376230,2022,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4587303,2022,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,376350,2022,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,351484,2022,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1457556,2022,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1868519,2022,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,533394,2022,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4492012,2022,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,509479,2022,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,479351,2022,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1549344,2022,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,268016,2022,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,418785,2022,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,194573,2022,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1072464,2022,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,5000255,2022,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,809660,2022,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,729581,2022,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,522541,2022,Tetanus neonatorum
-Satun,0,0.0,0,0.0,324835,2022,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1431536,2022,Tetanus neonatorum
-Trang,0,0.0,0,0.0,639788,2022,Tetanus neonatorum
-Yala,0,0.0,0,0.0,542314,2022,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5527994,2022,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5527994,2022,Tetanus neonatorum
-Total,0,0.0,0,0.0,66130957,2023,Tetanus neonatorum
-ZONE:01,0,0.0,0,0.0,5869190,2023,Tetanus neonatorum
-Chiang Mai,0,0.0,0,0.0,1790929,2023,Tetanus neonatorum
-Chiang Rai,0,0.0,0,0.0,1299030,2023,Tetanus neonatorum
-Lampang,0,0.0,0,0.0,721734,2023,Tetanus neonatorum
-Lamphun,0,0.0,0,0.0,400348,2023,Tetanus neonatorum
-Mae Hong Son,0,0.0,0,0.0,286350,2023,Tetanus neonatorum
-Nan,0,0.0,0,0.0,475207,2023,Tetanus neonatorum
-Phayao,0,0.0,0,0.0,462968,2023,Tetanus neonatorum
-Phrae,0,0.0,0,0.0,432624,2023,Tetanus neonatorum
-ZONE:02,0,0.0,0,0.0,3530228,2023,Tetanus neonatorum
-Phetchabun,0,0.0,0,0.0,975879,2023,Tetanus neonatorum
-Phitsanulok,0,0.0,0,0.0,845938,2023,Tetanus neonatorum
-Sukhothai,0,0.0,0,0.0,583502,2023,Tetanus neonatorum
-Tak,0,0.0,0,0.0,680361,2023,Tetanus neonatorum
-Uttaradit,0,0.0,0,0.0,444548,2023,Tetanus neonatorum
-ZONE:03,0,0.0,0,0.0,2913905,2023,Tetanus neonatorum
-Chai Nat,0,0.0,0,0.0,319370,2023,Tetanus neonatorum
-Kamphaeng Phet,0,0.0,0,0.0,710458,2023,Tetanus neonatorum
-Nakhon Sawan,0,0.0,0,0.0,1031921,2023,Tetanus neonatorum
-Phichit,0,0.0,0,0.0,527669,2023,Tetanus neonatorum
-Uthai Thani,0,0.0,0,0.0,324487,2023,Tetanus neonatorum
-ZONE:04,0,0.0,0,0.0,5424945,2023,Tetanus neonatorum
-Ang Thong,0,0.0,0,0.0,273675,2023,Tetanus neonatorum
-Lop Buri,0,0.0,0,0.0,737382,2023,Tetanus neonatorum
-Nakhon Nayok,0,0.0,0,0.0,260419,2023,Tetanus neonatorum
-Nonthaburi,0,0.0,0,0.0,1292276,2023,Tetanus neonatorum
-P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820464,2023,Tetanus neonatorum
-Pathum Thani,0,0.0,0,0.0,1195796,2023,Tetanus neonatorum
-Saraburi,0,0.0,0,0.0,641272,2023,Tetanus neonatorum
-Sing Buri,0,0.0,0,0.0,203661,2023,Tetanus neonatorum
-ZONE:05,0,0.0,0,0.0,5330665,2023,Tetanus neonatorum
-Kanchanaburi,0,0.0,0,0.0,894168,2023,Tetanus neonatorum
-Nakhon Pathom,0,0.0,0,0.0,922026,2023,Tetanus neonatorum
-Phetchaburi,0,0.0,0,0.0,482912,2023,Tetanus neonatorum
-Prachuap Khiri Khan,0,0.0,0,0.0,553234,2023,Tetanus neonatorum
-Ratchaburi,0,0.0,0,0.0,867043,2023,Tetanus neonatorum
-Samut Sakhon,0,0.0,0,0.0,588108,2023,Tetanus neonatorum
-Samut Songkhram,0,0.0,0,0.0,190147,2023,Tetanus neonatorum
-Suphan Buri,0,0.0,0,0.0,833027,2023,Tetanus neonatorum
-ZONE:06,0,0.0,0,0.0,6251747,2023,Tetanus neonatorum
-Chachoengsao,0,0.0,0,0.0,725433,2023,Tetanus neonatorum
-Chanthaburi,0,0.0,0,0.0,536351,2023,Tetanus neonatorum
-Chon Buri,0,0.0,0,0.0,1589214,2023,Tetanus neonatorum
-Prachin Buri,0,0.0,0,0.0,496551,2023,Tetanus neonatorum
-Rayong,0,0.0,0,0.0,755364,2023,Tetanus neonatorum
-Sa Kaeo,0,0.0,0,0.0,562404,2023,Tetanus neonatorum
-Samut Prakan,0,0.0,0,0.0,1358338,2023,Tetanus neonatorum
-Trat,0,0.0,0,0.0,228092,2023,Tetanus neonatorum
-ZONE:07,0,0.0,0,0.0,5001616,2023,Tetanus neonatorum
-Kalasin,0,0.0,0,0.0,973835,2023,Tetanus neonatorum
-Khon Kaen,0,0.0,0,0.0,1787752,2023,Tetanus neonatorum
-Maha Sarakham,0,0.0,0,0.0,946457,2023,Tetanus neonatorum
-Roi Et,0,0.0,0,0.0,1293572,2023,Tetanus neonatorum
-ZONE:08,0,0.0,0,0.0,5512222,2023,Tetanus neonatorum
-Bungkan,0,0.0,0,0.0,421840,2023,Tetanus neonatorum
-Loei,0,0.0,0,0.0,638037,2023,Tetanus neonatorum
-Nakhon Phanom,0,0.0,0,0.0,716844,2023,Tetanus neonatorum
-Nong Bua Lam Phu,0,0.0,0,0.0,508664,2023,Tetanus neonatorum
-Nong Khai,0,0.0,0,0.0,516320,2023,Tetanus neonatorum
-Sakon Nakhon,0,0.0,0,0.0,1145737,2023,Tetanus neonatorum
-Udon Thani,0,0.0,0,0.0,1564780,2023,Tetanus neonatorum
-ZONE:09,0,0.0,0,0.0,6705133,2023,Tetanus neonatorum
-Buri Ram,0,0.0,0,0.0,1578361,2023,Tetanus neonatorum
-Chaiyaphum,0,0.0,0,0.0,1120095,2023,Tetanus neonatorum
-Nakhon Ratchasima,0,0.0,0,0.0,2632106,2023,Tetanus neonatorum
-Surin,0,0.0,0,0.0,1374571,2023,Tetanus neonatorum
-ZONE:10,0,0.0,0,0.0,4585207,2023,Tetanus neonatorum
-Amnat Charoen,0,0.0,0,0.0,375866,2023,Tetanus neonatorum
-Mukdahan,0,0.0,0,0.0,351537,2023,Tetanus neonatorum
-Si Sa Ket,0,0.0,0,0.0,1456144,2023,Tetanus neonatorum
-Ubon Ratchathani,0,0.0,0,0.0,1869163,2023,Tetanus neonatorum
-Yasothon,0,0.0,0,0.0,532497,2023,Tetanus neonatorum
-ZONE:11,0,0.0,0,0.0,4489916,2023,Tetanus neonatorum
-Chumphon,0,0.0,0,0.0,509433,2023,Tetanus neonatorum
-Krabi,0,0.0,0,0.0,479705,2023,Tetanus neonatorum
-Nakhon Si Thammarat,0,0.0,0,0.0,1547246,2023,Tetanus neonatorum
-Phangnga,0,0.0,0,0.0,267729,2023,Tetanus neonatorum
-Phuket,0,0.0,0,0.0,418339,2023,Tetanus neonatorum
-Ranong,0,0.0,0,0.0,194400,2023,Tetanus neonatorum
-Surat Thani,0,0.0,0,0.0,1073064,2023,Tetanus neonatorum
-ZONE:12,0,0.0,0,0.0,5004720,2023,Tetanus neonatorum
-Narathiwat,0,0.0,0,0.0,811891,2023,Tetanus neonatorum
-Pattani,0,0.0,0,0.0,731269,2023,Tetanus neonatorum
-Phatthalung,0,0.0,0,0.0,522080,2023,Tetanus neonatorum
-Satun,0,0.0,0,0.0,325069,2023,Tetanus neonatorum
-Songkhla,0,0.0,0,0.0,1431300,2023,Tetanus neonatorum
-Trang,0,0.0,0,0.0,638997,2023,Tetanus neonatorum
-Yala,0,0.0,0,0.0,544114,2023,Tetanus neonatorum
-ZONE:13,0,0.0,0,0.0,5511463,2023,Tetanus neonatorum
-Bangkok,0,0.0,0,0.0,5511463,2023,Tetanus neonatorum
+Total,1,0.0,1,0.0,63977185,2011,Tetanus neonatorum
+Central Region,1,0.0,1,0.0,21679246,2011,Tetanus neonatorum
+Zone:0,0,0.0,0,0.0,5688119,2011,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5688119,2011,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,3514250,2011,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1112185,2011,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,784875,2011,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,998271,2011,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,618919,2011,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,1588727,2011,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,284516,2011,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,334096,2011,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,755991,2011,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,214124,2011,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,3137098,2011,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,676652,2011,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,253283,2011,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,468113,2011,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,544848,2011,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1194202,2011,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,3388832,2011,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,839345,2011,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,863155,2011,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,840880,2011,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,845452,2011,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,1665473,2011,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,465056,2011,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,510852,2011,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,495493,2011,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,194072,2011,Tetanus neonatorum
+Zone:9,1,0.04,1,0.04,2696747,2011,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,515736,2011,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1327475,2011,Tetanus neonatorum
+Rayong,1,0.16,1,0.16,632069,2011,Tetanus neonatorum
+Trat,0,0.0,0,0.0,221467,2011,Tetanus neonatorum
+South Region,0,0.0,0,0.0,8932459,2011,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,3531913,2011,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,491073,2011,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1524317,2011,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,510299,2011,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1006224,2011,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,1846999,2011,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,435372,2011,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,254022,2011,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,349457,2011,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,183464,2011,Tetanus neonatorum
+Trang,0,0.0,0,0.0,624684,2011,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,3553547,2011,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,742268,2011,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,659373,2011,Tetanus neonatorum
+Satun,0,0.0,0,0.0,299315,2011,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1362017,2011,Tetanus neonatorum
+Yala,0,0.0,0,0.0,490574,2011,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,21579612,2011,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,3588872,2011,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,203818,2011,Tetanus neonatorum
+Loei,0,0.0,0,0.0,624493,2011,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,502710,2011,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,711404,2011,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1546447,2011,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,2167288,2011,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,340079,2011,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,704080,2011,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1123129,2011,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,4996659,2011,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,982117,2011,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1766834,2011,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,940324,2011,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1307384,2011,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,4178156,2011,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,372190,2011,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1452338,2011,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1814573,2011,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,539055,2011,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,6648637,2011,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1556426,2011,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1127423,2011,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2583707,2011,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1381081,2011,Tetanus neonatorum
+North Region,0,0.0,0,0.0,11785868,2011,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,3050706,2011,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1643312,2011,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,759742,2011,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,404257,2011,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,243395,2011,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,2621067,2011,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1198438,2011,Tetanus neonatorum
+Nan,0,0.0,0,0.0,476488,2011,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,486388,2011,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,459753,2011,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,3435767,2011,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,993420,2011,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,850525,2011,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,601642,2011,Tetanus neonatorum
+Tak,0,0.0,0,0.0,528351,2011,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,461829,2011,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,2678328,2011,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,726551,2011,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1072591,2011,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,551189,2011,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,327997,2011,Tetanus neonatorum
+Total,4,0.5,0,0.0,793623,2007,Tetanus neonatorum
+North Region,1,0.88,0,0.0,114104,2007,Tetanus neonatorum
+Zone:1,1,1.86,0,0.0,53905,2007,Tetanus neonatorum
+Chiang Mai,1,5.28,0,0.0,18922,2007,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,11139,2007,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,5397,2007,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,3290,2007,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,3680,2007,Tetanus neonatorum
+Nan,0,0.0,0,0.0,4327,2007,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,3852,2007,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,3298,2007,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,34817,2007,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,8888,2007,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,8539,2007,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,5190,2007,Tetanus neonatorum
+Tak,0,0.0,0,0.0,8080,2007,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,4120,2007,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,25382,2007,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,6541,2007,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,10548,2007,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,4902,2007,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,3391,2007,Tetanus neonatorum
+Central Region,2,0.62,0,0.0,323488,2007,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,110734,2007,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,39072,2007,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,2850,2007,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,11514,2007,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,9746,2007,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,14962,2007,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,21445,2007,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,2791,2007,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,7676,2007,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,8741,2007,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,2237,2007,Tetanus neonatorum
+Zone:6,1,2.52,0,0.0,39624,2007,Tetanus neonatorum
+Kanchanaburi,1,10.24,0,0.0,9766,2007,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,9570,2007,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,11214,2007,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,9074,2007,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,25372,2007,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,5382,2007,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,6214,2007,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,12125,2007,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,1651,2007,Tetanus neonatorum
+Zone:8,1,2.42,0,0.0,41406,2007,Tetanus neonatorum
+Chachoengsao,1,12.31,0,0.0,8124,2007,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,2919,2007,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,5820,2007,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,5883,2007,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,18660,2007,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,45835,2007,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,6341,2007,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,27357,2007,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,9595,2007,Tetanus neonatorum
+Trat,0,0.0,0,0.0,2542,2007,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,222445,2007,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,38735,2007,Tetanus neonatorum
+Loei,0,0.0,0,0.0,6641,2007,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,5358,2007,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,9863,2007,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,16873,2007,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,34185,2007,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,9162,2007,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,3809,2007,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,7800,2007,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,13414,2007,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,38265,2007,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,19229,2007,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,7962,2007,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,11074,2007,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,67665,2007,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,16309,2007,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,10251,2007,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,27021,2007,Tetanus neonatorum
+Surin,0,0.0,0,0.0,14084,2007,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,43595,2007,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,3798,2007,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,14060,2007,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,20872,2007,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,4865,2007,Tetanus neonatorum
+South Region,1,0.75,0,0.0,133586,2007,Tetanus neonatorum
+Zone:15,1,4.33,0,0.0,23079,2007,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,6111,2007,Tetanus neonatorum
+Ranong,1,47.04,0,0.0,2126,2007,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,14842,2007,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,32908,2007,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,18055,2007,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,5676,2007,Tetanus neonatorum
+Trang,0,0.0,0,0.0,9177,2007,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,17088,2007,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,7038,2007,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,3299,2007,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,6751,2007,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,34866,2007,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,12928,2007,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,11767,2007,Tetanus neonatorum
+Yala,0,0.0,0,0.0,10171,2007,Tetanus neonatorum
+Zone:19,0,0.0,0,0.0,25645,2007,Tetanus neonatorum
+Satun,0,0.0,0,0.0,4596,2007,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,21049,2007,Tetanus neonatorum
+Total,3,0.37,2,0.25,809485,2006,Tetanus neonatorum
+North Region,0,0.0,0,0.0,117935,2006,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,55603,2006,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,18912,2006,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,11666,2006,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,5998,2006,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,3318,2006,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,3776,2006,Tetanus neonatorum
+Nan,0,0.0,0,0.0,4331,2006,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,4005,2006,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,3597,2006,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,36169,2006,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,9228,2006,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,8772,2006,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,5441,2006,Tetanus neonatorum
+Tak,0,0.0,0,0.0,8226,2006,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,4502,2006,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,26163,2006,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,7025,2006,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,10723,2006,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,4999,2006,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,3416,2006,Tetanus neonatorum
+Central Region,1,0.31,1,0.31,322907,2006,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,113672,2006,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,36433,2006,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,2991,2006,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,11383,2006,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,9908,2006,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,12151,2006,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,22301,2006,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,2797,2006,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,8157,2006,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,8855,2006,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,2492,2006,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,41731,2006,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,9994,2006,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,11231,2006,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,11346,2006,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,9160,2006,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,24313,2006,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,5333,2006,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,6132,2006,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,10947,2006,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,1901,2006,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,39107,2006,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,8222,2006,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,3232,2006,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,5958,2006,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,6236,2006,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,15459,2006,Tetanus neonatorum
+Zone:9,1,2.21,1,2.21,45350,2006,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,6495,2006,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,26540,2006,Tetanus neonatorum
+Rayong,1,10.34,1,10.34,9675,2006,Tetanus neonatorum
+Trat,0,0.0,0,0.0,2640,2006,Tetanus neonatorum
+North-Eastern Region,2,0.86,1,0.43,233624,2006,Tetanus neonatorum
+Zone:10,1,2.49,0,0.0,40089,2006,Tetanus neonatorum
+Loei,0,0.0,0,0.0,6884,2006,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,5463,2006,Tetanus neonatorum
+Nong Khai,1,9.79,0,0.0,10218,2006,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,17524,2006,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,35568,2006,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,9610,2006,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,3810,2006,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,8157,2006,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,13991,2006,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,40202,2006,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,20020,2006,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,8402,2006,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,11780,2006,Tetanus neonatorum
+Zone:13,1,1.38,1,1.38,72252,2006,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,17707,2006,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,10676,2006,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,28620,2006,Tetanus neonatorum
+Surin,1,6.56,1,6.56,15249,2006,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,45513,2006,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,3933,2006,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,14438,2006,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,22035,2006,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,5107,2006,Tetanus neonatorum
+South Region,0,0.0,0,0.0,135019,2006,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,23409,2006,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,6403,2006,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,2162,2006,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,14844,2006,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,33052,2006,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,18310,2006,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,5711,2006,Tetanus neonatorum
+Trang,0,0.0,0,0.0,9031,2006,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,17091,2006,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,7183,2006,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,3153,2006,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,6755,2006,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,35179,2006,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,13007,2006,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,11959,2006,Tetanus neonatorum
+Yala,0,0.0,0,0.0,10213,2006,Tetanus neonatorum
+Zone:19,0,0.0,0,0.0,26288,2006,Tetanus neonatorum
+Satun,0,0.0,0,0.0,4728,2006,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,21560,2006,Tetanus neonatorum
+Total,1,0.13,0,0.0,784256,2009,Tetanus neonatorum
+Central Region,0,0.0,0,0.0,315699,2009,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,106655,2009,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,42987,2009,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,11408,2009,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,10133,2009,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,12844,2009,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,8602,2009,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,15787,2009,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,3008,2009,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,2874,2009,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,7652,2009,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,2253,2009,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,39163,2009,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,8316,2009,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,3371,2009,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,6067,2009,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,6038,2009,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,15371,2009,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,39875,2009,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,9850,2009,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,10122,2009,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,10945,2009,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,8958,2009,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,23493,2009,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,5232,2009,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,6347,2009,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,10581,2009,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,1333,2009,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,47739,2009,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,6327,2009,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,28520,2009,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,10205,2009,Tetanus neonatorum
+Trat,0,0.0,0,0.0,2687,2009,Tetanus neonatorum
+South Region,0,0.0,0,0.0,137565,2009,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,46750,2009,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,6311,2009,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,18401,2009,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,5950,2009,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,16088,2009,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,29144,2009,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,7384,2009,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,3385,2009,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,7500,2009,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,1998,2009,Tetanus neonatorum
+Trang,0,0.0,0,0.0,8877,2009,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,61671,2009,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,13530,2009,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,12268,2009,Tetanus neonatorum
+Satun,0,0.0,0,0.0,4737,2009,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,20959,2009,Tetanus neonatorum
+Yala,0,0.0,0,0.0,10177,2009,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,219434,2009,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,37736,2009,Tetanus neonatorum
+Loei,0,0.0,0,0.0,6524,2009,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,5106,2009,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,9684,2009,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,16422,2009,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,24450,2009,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,3793,2009,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,7290,2009,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,13367,2009,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,46163,2009,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,9021,2009,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,18982,2009,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,7726,2009,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,10434,2009,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,43069,2009,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,3702,2009,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,13613,2009,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,20837,2009,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,4917,2009,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,68016,2009,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,16290,2009,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,10232,2009,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,27893,2009,Tetanus neonatorum
+Surin,0,0.0,0,0.0,13601,2009,Tetanus neonatorum
+North Region,1,0.9,0,0.0,111558,2009,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,29954,2009,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,18087,2009,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,5139,2009,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,3363,2009,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,3365,2009,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,22231,2009,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,11216,2009,Tetanus neonatorum
+Nan,0,0.0,0,0.0,4099,2009,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,3629,2009,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,3287,2009,Tetanus neonatorum
+Zone:17,1,2.91,0,0.0,34320,2009,Tetanus neonatorum
+Phetchabun,1,11.42,0,0.0,8760,2009,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,8400,2009,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,5039,2009,Tetanus neonatorum
+Tak,0,0.0,0,0.0,8188,2009,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,3933,2009,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,25053,2009,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,6425,2009,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,10288,2009,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,4947,2009,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,3393,2009,Tetanus neonatorum
 Total,1,0.0,1,0.0,66071545,2024,Tetanus neonatorum
 ZONE:01,0,0.0,0,0.0,5857413,2024,Tetanus neonatorum
 Chiang Mai,0,0.0,0,0.0,1794774,2024,Tetanus neonatorum
@@ -2002,3 +672,1333 @@ Trang,0,0.0,0,0.0,637612,2024,Tetanus neonatorum
 Yala,0,0.0,0,0.0,547930,2024,Tetanus neonatorum
 ZONE:13,0,0.0,0,0.0,5483259,2024,Tetanus neonatorum
 Bangkok,0,0.0,0,0.0,5483259,2024,Tetanus neonatorum
+Total,2,0.0,0,0.0,64076033,2013,Tetanus neonatorum
+Central Region,0,0.0,0,0.0,21734984,2013,Tetanus neonatorum
+Zone:0,0,0.0,0,0.0,5674843,2013,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5674843,2013,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,3541632,2013,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1122627,2013,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2013,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1010898,2013,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,620454,2013,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,1587031,2013,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,284061,2013,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,333256,2013,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,756127,2013,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,213587,2013,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,3151672,2013,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,679370,2013,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,253831,2013,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,469652,2013,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,545596,2013,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1203223,2013,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,3392715,2013,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,838914,2013,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,866064,2013,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,842684,2013,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,845053,2013,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,1671831,2013,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,466079,2013,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,512568,2013,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,499098,2013,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,194086,2013,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,2715260,2013,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,516855,2013,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1338656,2013,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,637736,2013,Tetanus neonatorum
+Trat,0,0.0,0,0.0,222013,2013,Tetanus neonatorum
+South Region,0,0.0,0,0.0,8971855,2013,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,3541380,2013,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,492182,2013,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2013,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,511063,2013,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1012064,2013,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,1857374,2013,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,438039,2013,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,254931,2013,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,353847,2013,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,183849,2013,Tetanus neonatorum
+Trang,0,0.0,0,0.0,626708,2013,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,3573101,2013,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,747372,2013,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,663485,2013,Tetanus neonatorum
+Satun,0,0.0,0,0.0,301467,2013,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1367010,2013,Tetanus neonatorum
+Yala,0,0.0,0,0.0,493767,2013,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,21585883,2013,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,3593082,2013,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,407634,2013,Tetanus neonatorum
+Loei,0,0.0,0,0.0,624920,2013,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,502551,2013,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,509870,2013,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1548107,2013,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,2168700,2013,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,340581,2013,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,704768,2013,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1123351,2013,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,4992515,2013,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,981655,2013,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1766066,2013,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,939736,2013,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1305058,2013,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,4179354,2013,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,372241,2013,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1452203,2013,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1816057,2013,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,538853,2013,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,6652232,2013,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1559085,2013,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1127423,2013,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2585325,2013,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1380399,2013,Tetanus neonatorum
+North Region,2,0.02,0,0.0,11783311,2013,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,3051678,2013,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1646144,2013,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,757534,2013,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,403952,2013,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,244048,2013,Tetanus neonatorum
+Zone:16,1,0.04,0,0.0,2620490,2013,Tetanus neonatorum
+Chiang Rai,1,0.08,0,0.0,1198656,2013,Tetanus neonatorum
+Nan,0,0.0,0,0.0,476612,2013,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,486472,2013,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,458750,2013,Tetanus neonatorum
+Zone:17,1,0.03,0,0.0,3435726,2013,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,990807,2013,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,851357,2013,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,601504,2013,Tetanus neonatorum
+Tak,1,0.19,0,0.0,531018,2013,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,461040,2013,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,2675417,2013,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,726009,2013,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1071686,2013,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,549688,2013,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,328034,2013,Tetanus neonatorum
+Total,6,0.81,0,0.0,742183,2003,Tetanus neonatorum
+North Region,3,2.69,0,0.0,111514,2003,Tetanus neonatorum
+Zone:1,3,5.62,0,0.0,53354,2003,Tetanus neonatorum
+Chiang Mai,3,15.57,0,0.0,19265,2003,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,11137,2003,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,5904,2003,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,3089,2003,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,3008,2003,Tetanus neonatorum
+Nan,0,0.0,0,0.0,3740,2003,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,3687,2003,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,3524,2003,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,33425,2003,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,8833,2003,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,8333,2003,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,4943,2003,Tetanus neonatorum
+Tak,0,0.0,0,0.0,7471,2003,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,3845,2003,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,24735,2003,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,6847,2003,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,10103,2003,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,4532,2003,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,3253,2003,Tetanus neonatorum
+Central Region,1,0.35,0,0.0,289147,2003,Tetanus neonatorum
+Zone:0,0,0.0,0,0.0,113284,2003,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,113284,2003,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,29284,2003,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,2550,2003,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,10490,2003,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,8649,2003,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,7595,2003,Tetanus neonatorum
+Zone:5,1,5.2,0,0.0,19229,2003,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,2219,2003,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,7544,2003,Tetanus neonatorum
+Saraburi,1,13.64,0,0.0,7331,2003,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,2135,2003,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,37188,2003,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,8241,2003,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,11200,2003,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,9480,2003,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,8267,2003,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,20019,2003,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,4960,2003,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,5191,2003,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,8237,2003,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,1631,2003,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,33126,2003,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,6800,2003,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,2559,2003,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,4986,2003,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,5506,2003,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,13275,2003,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,37017,2003,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,5781,2003,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,21170,2003,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,7754,2003,Tetanus neonatorum
+Trat,0,0.0,0,0.0,2312,2003,Tetanus neonatorum
+North-Eastern Region,1,0.46,0,0.0,217904,2003,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,39590,2003,Tetanus neonatorum
+Loei,0,0.0,0,0.0,6567,2003,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,4992,2003,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,9995,2003,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,18036,2003,Tetanus neonatorum
+Zone:11,1,2.96,0,0.0,33789,2003,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,9273,2003,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,3467,2003,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,7735,2003,Tetanus neonatorum
+Sakon Nakhon,1,7.51,0,0.0,13314,2003,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,38851,2003,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,19344,2003,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,8250,2003,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,11257,2003,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,64744,2003,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,15347,2003,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,9142,2003,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,26629,2003,Tetanus neonatorum
+Surin,0,0.0,0,0.0,13626,2003,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,40930,2003,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,3031,2003,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,12814,2003,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,19965,2003,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,5120,2003,Tetanus neonatorum
+South Region,1,0.81,0,0.0,123618,2003,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,20542,2003,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,5229,2003,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,1731,2003,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,13582,2003,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,30107,2003,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,17572,2003,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,4752,2003,Tetanus neonatorum
+Trang,0,0.0,0,0.0,7783,2003,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,14624,2003,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,5665,2003,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,2894,2003,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,6065,2003,Tetanus neonatorum
+Zone:18,1,2.92,0,0.0,34261,2003,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,12640,2003,Tetanus neonatorum
+Pattani,1,8.68,0,0.0,11526,2003,Tetanus neonatorum
+Yala,0,0.0,0,0.0,10095,2003,Tetanus neonatorum
+Zone:19,0,0.0,0,0.0,24084,2003,Tetanus neonatorum
+Satun,0,0.0,0,0.0,3838,2003,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,20246,2003,Tetanus neonatorum
+Total,3,0.38,1,0.13,784256,2008,Tetanus neonatorum
+Central Region,1,0.32,1,0.32,315699,2008,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,106655,2008,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,42987,2008,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,11408,2008,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,10133,2008,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,12844,2008,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,8602,2008,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,15787,2008,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,3008,2008,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,2874,2008,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,7652,2008,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,2253,2008,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,39163,2008,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,8316,2008,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,3371,2008,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,6067,2008,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,6038,2008,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,15371,2008,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,39875,2008,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,9850,2008,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,10122,2008,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,10945,2008,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,8958,2008,Tetanus neonatorum
+Zone:5,1,4.26,1,4.26,23493,2008,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,5232,2008,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,6347,2008,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,10581,2008,Tetanus neonatorum
+Samut Songkhram,1,75.02,1,75.02,1333,2008,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,47739,2008,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,6327,2008,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,28520,2008,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,10205,2008,Tetanus neonatorum
+Trat,0,0.0,0,0.0,2687,2008,Tetanus neonatorum
+South Region,0,0.0,0,0.0,137565,2008,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,46750,2008,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,6311,2008,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,18401,2008,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,5950,2008,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,16088,2008,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,29144,2008,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,7384,2008,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,3385,2008,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,7500,2008,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,1998,2008,Tetanus neonatorum
+Trang,0,0.0,0,0.0,8877,2008,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,61671,2008,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,13530,2008,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,12268,2008,Tetanus neonatorum
+Satun,0,0.0,0,0.0,4737,2008,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,20959,2008,Tetanus neonatorum
+Yala,0,0.0,0,0.0,10177,2008,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,219434,2008,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,37736,2008,Tetanus neonatorum
+Loei,0,0.0,0,0.0,6524,2008,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,5106,2008,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,9684,2008,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,16422,2008,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,24450,2008,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,3793,2008,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,7290,2008,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,13367,2008,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,46163,2008,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,9021,2008,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,18982,2008,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,7726,2008,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,10434,2008,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,43069,2008,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,3702,2008,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,13613,2008,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,20837,2008,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,4917,2008,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,68016,2008,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,16290,2008,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,10232,2008,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,27893,2008,Tetanus neonatorum
+Surin,0,0.0,0,0.0,13601,2008,Tetanus neonatorum
+North Region,2,1.79,0,0.0,111558,2008,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,29954,2008,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,18087,2008,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,5139,2008,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,3363,2008,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,3365,2008,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,22231,2008,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,11216,2008,Tetanus neonatorum
+Nan,0,0.0,0,0.0,4099,2008,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,3629,2008,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,3287,2008,Tetanus neonatorum
+Zone:17,2,5.83,0,0.0,34320,2008,Tetanus neonatorum
+Phetchabun,1,11.42,0,0.0,8760,2008,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,8400,2008,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,5039,2008,Tetanus neonatorum
+Tak,1,12.21,0,0.0,8188,2008,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,3933,2008,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,25053,2008,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,6425,2008,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,10288,2008,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,4947,2008,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,3393,2008,Tetanus neonatorum
+Total,0,0.0,0,0.0,66301242,2018,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5878537,2018,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1755291,2018,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1289873,2018,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,744714,2018,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,405936,2018,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,280826,2018,Tetanus neonatorum
+Nan,0,0.0,0,0.0,479414,2018,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,476157,2018,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,446326,2018,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3565071,2018,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,994936,2018,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,866129,2018,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,598287,2018,Tetanus neonatorum
+Tak,0,0.0,0,0.0,649472,2018,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,456247,2018,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2992420,2018,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,328993,2018,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,728470,2018,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1064649,2018,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,540620,2018,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,329688,2018,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5343264,2018,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,281014,2018,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,758003,2018,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,259718,2018,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1238015,2018,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,815647,2018,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1137603,2018,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,643531,2018,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,209733,2018,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5324608,2018,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,890565,2018,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,914273,2018,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,483335,2018,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,546396,2018,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,872615,2018,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,573215,2018,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,193847,2018,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,850362,2018,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6088563,2018,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,712449,2018,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,535478,2018,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1522285,2018,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,489592,2018,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,717276,2018,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,563014,2018,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1318687,2018,Tetanus neonatorum
+Trat,0,0.0,0,0.0,229782,2018,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5062199,2018,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,985676,2018,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1805903,2018,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,963060,2018,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1307560,2018,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5553738,2018,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,423485,2018,Tetanus neonatorum
+Loei,0,0.0,0,0.0,642220,2018,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,718406,2018,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,511878,2018,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,521995,2018,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1150876,2018,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1584878,2018,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6772779,2018,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1593378,2018,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1139067,2018,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2642815,2018,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1397519,2018,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4613643,2018,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,378363,2018,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,351532,2018,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1472521,2018,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1872091,2018,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,539136,2018,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4466673,2018,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,510307,2018,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,471754,2018,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1558958,2018,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,267866,2018,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,406113,2018,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,191134,2018,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1060541,2018,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4960215,2018,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,799357,2018,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,713937,2018,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,524951,2018,Tetanus neonatorum
+Satun,0,0.0,0,0.0,320637,2018,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1428429,2018,Tetanus neonatorum
+Trang,0,0.0,0,0.0,643093,2018,Tetanus neonatorum
+Yala,0,0.0,0,0.0,529811,2018,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5679532,2018,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5679532,2018,Tetanus neonatorum
+Total,0,0.0,0,0.0,65426907,2016,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5781324,2016,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1703263,2016,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1242825,2016,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,752685,2016,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,405927,2016,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,260971,2016,Tetanus neonatorum
+Nan,0,0.0,0,0.0,478890,2016,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,483550,2016,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,453213,2016,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3498728,2016,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,996397,2016,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,861194,2016,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,602085,2016,Tetanus neonatorum
+Tak,0,0.0,0,0.0,578968,2016,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,460084,2016,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,3011449,2016,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,331968,2016,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,729839,2016,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1072349,2016,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,546750,2016,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,330543,2016,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5221125,2016,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,283371,2016,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,758531,2016,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,257939,2016,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1183791,2016,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,805980,2016,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1084154,2016,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,635567,2016,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,211792,2016,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5209561,2016,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,865172,2016,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,895207,2016,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,476391,2016,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,529912,2016,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,860549,2016,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,538671,2016,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,194283,2016,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,849376,2016,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,5880124,2016,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,698190,2016,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,529194,2016,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1438231,2016,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,480755,2016,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,681696,2016,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,554555,2016,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1270420,2016,Tetanus neonatorum
+Trat,0,0.0,0,0.0,227083,2016,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5049920,2016,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,985055,2016,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1794032,2016,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,962592,2016,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1308241,2016,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5511930,2016,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,419607,2016,Tetanus neonatorum
+Loei,0,0.0,0,0.0,636666,2016,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,714369,2016,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,518420,2016,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1572726,2016,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6737604,2016,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1581955,2016,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1137651,2016,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2624668,2016,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1393330,2016,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4581192,2016,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,375881,2016,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,347059,2016,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1467006,2016,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1851049,2016,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,540197,2016,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4383957,2016,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,503203,2016,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,459456,2016,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1550278,2016,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,262721,2016,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,382485,2016,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,182313,2016,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1043501,2016,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4865646,2016,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,778941,2016,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,690104,2016,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,521570,2016,Tetanus neonatorum
+Satun,0,0.0,0,0.0,314297,2016,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1405939,2016,Tetanus neonatorum
+Trang,0,0.0,0,0.0,639770,2016,Tetanus neonatorum
+Yala,0,0.0,0,0.0,515025,2016,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5694347,2016,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5694347,2016,Tetanus neonatorum
+Total,0,0.0,0,0.0,66130957,2023,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5869190,2023,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1790929,2023,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1299030,2023,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,721734,2023,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,400348,2023,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,286350,2023,Tetanus neonatorum
+Nan,0,0.0,0,0.0,475207,2023,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,462968,2023,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,432624,2023,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3530228,2023,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,975879,2023,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,845938,2023,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,583502,2023,Tetanus neonatorum
+Tak,0,0.0,0,0.0,680361,2023,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,444548,2023,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2913905,2023,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,319370,2023,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,710458,2023,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1031921,2023,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,527669,2023,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,324487,2023,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5424945,2023,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,273675,2023,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,737382,2023,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,260419,2023,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1292276,2023,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820464,2023,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1195796,2023,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,641272,2023,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,203661,2023,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5330665,2023,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,894168,2023,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,922026,2023,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,482912,2023,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,553234,2023,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,867043,2023,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,588108,2023,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,190147,2023,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,833027,2023,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6251747,2023,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,725433,2023,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,536351,2023,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1589214,2023,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,496551,2023,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,755364,2023,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,562404,2023,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1358338,2023,Tetanus neonatorum
+Trat,0,0.0,0,0.0,228092,2023,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5001616,2023,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,973835,2023,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1787752,2023,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,946457,2023,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1293572,2023,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5512222,2023,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,421840,2023,Tetanus neonatorum
+Loei,0,0.0,0,0.0,638037,2023,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,716844,2023,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,508664,2023,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,516320,2023,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1145737,2023,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1564780,2023,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6705133,2023,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1578361,2023,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1120095,2023,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2632106,2023,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1374571,2023,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4585207,2023,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,375866,2023,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,351537,2023,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1456144,2023,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1869163,2023,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,532497,2023,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4489916,2023,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,509433,2023,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,479705,2023,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1547246,2023,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,267729,2023,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,418339,2023,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,194400,2023,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1073064,2023,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,5004720,2023,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,811891,2023,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,731269,2023,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,522080,2023,Tetanus neonatorum
+Satun,0,0.0,0,0.0,325069,2023,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1431300,2023,Tetanus neonatorum
+Trang,0,0.0,0,0.0,638997,2023,Tetanus neonatorum
+Yala,0,0.0,0,0.0,544114,2023,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5511463,2023,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5511463,2023,Tetanus neonatorum
+Total,0,0.0,0,0.0,66171439,2022,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5874503,2022,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1789385,2022,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1298425,2022,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,724678,2022,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,401139,2022,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,285916,2022,Tetanus neonatorum
+Nan,0,0.0,0,0.0,475875,2022,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,464505,2022,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,434580,2022,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3533839,2022,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,978372,2022,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,847384,2022,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,585352,2022,Tetanus neonatorum
+Tak,0,0.0,0,0.0,676583,2022,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,446148,2022,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2922114,2022,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,320432,2022,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,712143,2022,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1035028,2022,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,529395,2022,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,325116,2022,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5422367,2022,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,274763,2022,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,739473,2022,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,260433,2022,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1288637,2022,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,820512,2022,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1190060,2022,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,643963,2022,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,204526,2022,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5333543,2022,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,894054,2022,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,922171,2022,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,482875,2022,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,553171,2022,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,868281,2022,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,586789,2022,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,190842,2022,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,835360,2022,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6237892,2022,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,724178,2022,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,536557,2022,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1583672,2022,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,495325,2022,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,751343,2022,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,561992,2022,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1356449,2022,Tetanus neonatorum
+Trat,0,0.0,0,0.0,228376,2022,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5010756,2022,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,975570,2022,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1790863,2022,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,948310,2022,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1296013,2022,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5516407,2022,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,421995,2022,Tetanus neonatorum
+Loei,0,0.0,0,0.0,638732,2022,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,717040,2022,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,509001,2022,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,516843,2022,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1146286,2022,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1566510,2022,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6712454,2022,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1579805,2022,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1122265,2022,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2634154,2022,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1376230,2022,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4587303,2022,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,376350,2022,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,351484,2022,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1457556,2022,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1868519,2022,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,533394,2022,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4492012,2022,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,509479,2022,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,479351,2022,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1549344,2022,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,268016,2022,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,418785,2022,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,194573,2022,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1072464,2022,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,5000255,2022,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,809660,2022,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,729581,2022,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,522541,2022,Tetanus neonatorum
+Satun,0,0.0,0,0.0,324835,2022,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1431536,2022,Tetanus neonatorum
+Trang,0,0.0,0,0.0,639788,2022,Tetanus neonatorum
+Yala,0,0.0,0,0.0,542314,2022,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5527994,2022,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5527994,2022,Tetanus neonatorum
+Total,0,0.0,0,0.0,66060027,2017,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5864232,2017,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1741301,2017,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1285080,2017,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,747699,2017,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,405959,2017,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,277486,2017,Tetanus neonatorum
+Nan,0,0.0,0,0.0,479877,2017,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,478144,2017,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,448686,2017,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3556376,2017,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,995277,2017,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,865564,2017,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,599775,2017,Tetanus neonatorum
+Tak,0,0.0,0,0.0,638115,2017,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,457645,2017,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2998104,2017,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,330077,2017,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1065895,2017,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,542674,2017,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,330121,2017,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5302492,2017,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,281796,2017,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,757296,2017,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,258850,2017,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1220829,2017,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,812086,2017,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1120246,2017,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,641052,2017,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,210337,2017,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5295696,2017,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,886546,2017,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,908249,2017,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,481514,2017,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,541756,2017,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,870769,2017,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,562592,2017,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,193985,2017,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,850285,2017,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6020790,2017,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,707145,2017,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,533463,2017,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1496086,2017,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,486187,2017,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,705729,2017,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,560478,2017,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1302160,2017,Tetanus neonatorum
+Trat,0,0.0,0,0.0,229542,2017,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5060674,2017,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,985619,2017,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1803831,2017,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,963277,2017,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1307947,2017,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5541473,2017,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,422328,2017,Tetanus neonatorum
+Loei,0,0.0,0,0.0,640734,2017,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,717451,2017,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,511188,2017,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,521125,2017,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1147710,2017,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1580937,2017,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6760383,2017,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1589900,2017,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1138778,2017,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2635331,2017,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1396374,2017,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4604905,2017,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,377614,2017,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,350128,2017,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1471185,2017,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1866299,2017,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,539679,2017,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4441086,2017,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,508627,2017,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,467851,2017,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1555957,2017,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,266535,2017,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,398092,2017,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,189777,2017,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1054247,2017,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4929285,2017,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,792961,2017,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,705379,2017,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,524291,2017,Tetanus neonatorum
+Satun,0,0.0,0,0.0,318655,2017,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1420834,2017,Tetanus neonatorum
+Trang,0,0.0,0,0.0,642377,2017,Tetanus neonatorum
+Yala,0,0.0,0,0.0,524788,2017,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5684531,2017,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5684531,2017,Tetanus neonatorum
+Total,6,0.01,1,0.0,62195878,2005,Tetanus neonatorum
+North Region,2,0.02,0,0.0,11862916,2005,Tetanus neonatorum
+Zone:1,2,0.03,0,0.0,5729312,2005,Tetanus neonatorum
+Chiang Mai,1,0.06,0,0.0,1640390,2005,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1219732,2005,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,777827,2005,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,404754,2005,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,248672,2005,Tetanus neonatorum
+Nan,0,0.0,0,0.0,477917,2005,Tetanus neonatorum
+Phayao,1,0.21,0,0.0,487616,2005,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,472404,2005,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,3442642,2005,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,1001820,2005,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,841248,2005,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,610871,2005,Tetanus neonatorum
+Tak,0,0.0,0,0.0,519037,2005,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,469666,2005,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,2690962,2005,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,727351,2005,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1077634,2005,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,559611,2005,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,326366,2005,Tetanus neonatorum
+Central Region,2,0.01,1,0.0,20560399,2005,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5646543,2005,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,2777019,2005,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,283373,2005,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,957287,2005,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,743659,2005,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,792700,2005,Tetanus neonatorum
+Zone:5,1,0.05,0,0.0,1909368,2005,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,340812,2005,Tetanus neonatorum
+Lop Buri,1,0.13,0,0.0,750718,2005,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,598905,2005,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,218933,2005,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,3282327,2005,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,818218,2005,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,803489,2005,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,819286,2005,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,841334,2005,Tetanus neonatorum
+Zone:7,1,0.06,1,0.06,1578246,2005,Tetanus neonatorum
+Phetchaburi,1,0.22,1,0.22,452506,2005,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,483243,2005,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,447353,2005,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,195144,2005,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,2943051,2005,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,645521,2005,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,249686,2005,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,447783,2005,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,536591,2005,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1063470,2005,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,2423845,2005,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,496081,2005,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1157709,2005,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,551512,2005,Tetanus neonatorum
+Trat,0,0.0,0,0.0,218543,2005,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,21297778,2005,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,3524138,2005,Tetanus neonatorum
+Loei,0,0.0,0,0.0,611448,2005,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,495626,2005,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,895911,2005,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1521153,2005,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,3101003,2005,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,972425,2005,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,333338,2005,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,692377,2005,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1102863,2005,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,3991075,2005,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1744646,2005,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,935967,2005,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1310462,2005,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,6560991,2005,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1527846,2005,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1117026,2005,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2543054,2005,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1373065,2005,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,4120571,2005,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,368153,2005,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1442190,2005,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1768935,2005,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,541293,2005,Tetanus neonatorum
+South Region,2,0.02,0,0.0,8474785,2005,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,1593965,2005,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,473916,2005,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,177247,2005,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,942802,2005,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,2600847,2005,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1502382,2005,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,499399,2005,Tetanus neonatorum
+Trang,0,0.0,0,0.0,599066,2005,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,921037,2005,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,391709,2005,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,240254,2005,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,289074,2005,Tetanus neonatorum
+Zone:18,2,0.11,0,0.0,1791264,2005,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,697150,2005,Tetanus neonatorum
+Pattani,2,0.32,0,0.0,632119,2005,Tetanus neonatorum
+Yala,0,0.0,0,0.0,461995,2005,Tetanus neonatorum
+Zone:19,0,0.0,0,0.0,1567672,2005,Tetanus neonatorum
+Satun,0,0.0,0,0.0,275706,2005,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1291966,2005,Tetanus neonatorum
+Total,0,0.0,0,0.0,66372831,2020,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5886870,2020,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1781812,2020,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1296664,2020,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,733640,2020,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,403542,2020,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,284343,2020,Tetanus neonatorum
+Nan,0,0.0,0,0.0,477476,2020,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,469856,2020,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,439537,2020,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3554902,2020,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,987196,2020,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,857364,2020,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,591477,2020,Tetanus neonatorum
+Tak,0,0.0,0,0.0,667942,2020,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,450923,2020,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2956189,2020,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,324544,2020,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,719993,2020,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1050098,2020,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,534311,2020,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,327243,2020,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5400529,2020,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,278119,2020,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,749242,2020,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,260416,2020,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1271065,2020,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819638,2020,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1170008,2020,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,644869,2020,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,207172,2020,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5342038,2020,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,893751,2020,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,920380,2020,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,483692,2020,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,552398,2020,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,871207,2020,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,585451,2020,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,192678,2020,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,842481,2020,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6192990,2020,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,720416,2020,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,536629,2020,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1562593,2020,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,494175,2020,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,738139,2020,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,563614,2020,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1348177,2020,Tetanus neonatorum
+Trat,0,0.0,0,0.0,229247,2020,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5039088,2020,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,980297,2020,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1798702,2020,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,958163,2020,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1301926,2020,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5540556,2020,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,423067,2020,Tetanus neonatorum
+Loei,0,0.0,0,0.0,640843,2020,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,718169,2020,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,511125,2020,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,519873,2020,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1150164,2020,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1577315,2020,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6748199,2020,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1588466,2020,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1131140,2020,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2641067,2020,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1387526,2020,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4603401,2020,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,377317,2020,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,352043,2020,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1465719,2020,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1872422,2020,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,535900,2020,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4489609,2020,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,510256,2020,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,477254,2020,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1556325,2020,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,268509,2020,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,415527,2020,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,193871,2020,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1067867,2020,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4991217,2020,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,806224,2020,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,725559,2020,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,523971,2020,Tetanus neonatorum
+Satun,0,0.0,0,0.0,323841,2020,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1432288,2020,Tetanus neonatorum
+Trang,0,0.0,0,0.0,641868,2020,Tetanus neonatorum
+Yala,0,0.0,0,0.0,537466,2020,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5627243,2020,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5627243,2020,Tetanus neonatorum
+Total,3,0.0,1,0.0,63701703,2010,Tetanus neonatorum
+Central Region,0,0.0,0,0.0,21534318,2010,Tetanus neonatorum
+Zone:0,0,0.0,0,0.0,5701995,2010,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5701995,2010,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,3454591,2010,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1089908,2010,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,778627,2010,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,971010,2010,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,615046,2010,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,1590200,2010,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,284889,2010,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,335177,2010,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,755153,2010,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,214981,2010,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,3105799,2010,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,671458,2010,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,252209,2010,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,464213,2010,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,543276,2010,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1174643,2010,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,3374810,2010,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,836600,2010,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,855837,2010,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,837153,2010,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,845220,2010,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,1651335,2010,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,462636,2010,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,506599,2010,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,488247,2010,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,193853,2010,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,2655588,2010,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,512932,2010,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1302942,2010,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,619249,2010,Tetanus neonatorum
+Trat,0,0.0,0,0.0,220465,2010,Tetanus neonatorum
+South Region,0,0.0,0,0.0,8853473,2010,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,3514344,2010,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,488855,2010,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1519531,2010,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,508656,2010,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,997302,2010,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,1825591,2010,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,429631,2010,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,252385,2010,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,340490,2010,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,182417,2010,Tetanus neonatorum
+Trang,0,0.0,0,0.0,620668,2010,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,3513538,2010,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,732617,2010,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,651442,2010,Tetanus neonatorum
+Satun,0,0.0,0,0.0,295133,2010,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1350489,2010,Tetanus neonatorum
+Yala,0,0.0,0,0.0,483857,2010,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,21534582,2010,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,3576272,2010,Tetanus neonatorum
+Loei,0,0.0,0,0.0,622424,2010,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,501891,2010,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,910094,2010,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1541863,2010,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,2161531,2010,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,338812,2010,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,702041,2010,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1120678,2010,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,4995226,2010,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,981369,2010,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1764922,2010,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,940001,2010,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1308934,2010,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,4168498,2010,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,371471,2010,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1449409,2010,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1808422,2010,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,539196,2010,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,6633055,2010,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1550275,2010,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1126295,2010,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2576691,2010,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1379794,2010,Tetanus neonatorum
+North Region,3,0.03,1,0.01,11779330,2010,Tetanus neonatorum
+Zone:15,1,0.03,0,0.0,3046660,2010,Tetanus neonatorum
+Chiang Mai,1,0.06,0,0.0,1636514,2010,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,763224,2010,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,404627,2010,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,242295,2010,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,2620701,2010,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1196576,2010,Tetanus neonatorum
+Nan,0,0.0,0,0.0,475989,2010,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,486713,2010,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,461423,2010,Tetanus neonatorum
+Zone:17,2,0.06,1,0.03,3430959,2010,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,995578,2010,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,847627,2010,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,602296,2010,Tetanus neonatorum
+Tak,2,0.38,1,0.19,522673,2010,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,462785,2010,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,2681010,2010,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,726970,2010,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1073182,2010,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,552942,2010,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,327916,2010,Tetanus neonatorum
+Total,0,0.0,0,0.0,66179083,2021,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5875424,2021,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1786877,2021,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1296725,2021,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,726821,2021,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,401574,2021,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,285232,2021,Tetanus neonatorum
+Nan,0,0.0,0,0.0,476300,2021,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,465930,2021,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,435965,2021,Tetanus neonatorum
+ZONE:02,0,0.0,0,0.0,3536074,2021,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,980156,2021,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,848432,2021,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,586617,2021,Tetanus neonatorum
+Tak,0,0.0,0,0.0,673423,2021,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,447446,2021,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2928596,2021,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,321454,2021,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,713130,2021,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1037668,2021,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,530852,2021,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,325492,2021,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5411959,2021,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,275673,2021,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,741200,2021,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,260256,2021,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1282690,2021,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,819799,2021,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1183235,2021,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,643895,2021,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,205211,2021,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5332653,2021,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,893014,2021,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,921450,2021,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,482534,2021,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,551924,2021,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,868797,2021,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,586494,2021,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,191447,2021,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,836993,2021,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6218594,2021,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,722448,2021,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,536058,2021,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1575278,2021,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,494498,2021,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,746433,2021,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,561459,2021,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1353964,2021,Tetanus neonatorum
+Trat,0,0.0,0,0.0,228456,2021,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5017381,2021,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,976373,2021,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1792697,2021,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,950985,2021,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1297326,2021,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5518109,2021,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,422019,2021,Tetanus neonatorum
+Loei,0,0.0,0,0.0,638734,2021,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,717121,2021,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,517140,2021,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1567247,2021,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6714997,2021,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1580495,2021,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1123595,2021,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2633681,2021,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1377226,2021,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4587095,2021,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,376273,2021,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,351198,2021,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1458068,2021,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1867608,2021,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,533948,2021,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4487259,2021,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,509344,2021,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,478561,2021,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1550033,2021,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,268123,2021,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,416629,2021,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,194473,2021,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1070096,2021,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4992834,2021,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,807045,2021,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,727799,2021,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,522810,2021,Tetanus neonatorum
+Satun,0,0.0,0,0.0,324467,2021,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1430073,2021,Tetanus neonatorum
+Trang,0,0.0,0,0.0,640182,2021,Tetanus neonatorum
+Yala,0,0.0,0,0.0,540458,2021,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5558108,2021,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5558108,2021,Tetanus neonatorum
+Total,1,0.0,0,0.0,66486458,2019,Tetanus neonatorum
+ZONE:01,0,0.0,0,0.0,5891985,2019,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1771499,2019,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1295217,2019,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,740600,2019,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,405515,2019,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,283352,2019,Tetanus neonatorum
+Nan,0,0.0,0,0.0,478608,2019,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,473786,2019,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,443408,2019,Tetanus neonatorum
+ZONE:02,1,0.03,0,0.0,3570128,2019,Tetanus neonatorum
+Phetchabun,1,0.1,0,0.0,993496,2019,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,866068,2019,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,596165,2019,Tetanus neonatorum
+Tak,0,0.0,0,0.0,660147,2019,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,454252,2019,Tetanus neonatorum
+ZONE:03,0,0.0,0,0.0,2983068,2019,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,327437,2019,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,726836,2019,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1061926,2019,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,537843,2019,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,329026,2019,Tetanus neonatorum
+ZONE:04,0,0.0,0,0.0,5381695,2019,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,280246,2019,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,757145,2019,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,260421,2019,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1255840,2019,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,818815,2019,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1154848,2019,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,645468,2019,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,208912,2019,Tetanus neonatorum
+ZONE:05,0,0.0,0,0.0,5344807,2019,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,894338,2019,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,918542,2019,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,484743,2019,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,551466,2019,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,873310,2019,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,581334,2019,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,193548,2019,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,847526,2019,Tetanus neonatorum
+ZONE:06,0,0.0,0,0.0,6154601,2019,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,717561,2019,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,537097,2019,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1546873,2019,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,493159,2019,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,729035,2019,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,565198,2019,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1335742,2019,Tetanus neonatorum
+Trat,0,0.0,0,0.0,229936,2019,Tetanus neonatorum
+ZONE:07,0,0.0,0,0.0,5057831,2019,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,984381,2019,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1804384,2019,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,962856,2019,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1306210,2019,Tetanus neonatorum
+ZONE:08,0,0.0,0,0.0,5559986,2019,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,424016,2019,Tetanus neonatorum
+Loei,0,0.0,0,0.0,642862,2019,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,718961,2019,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,512449,2019,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,522207,2019,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1152835,2019,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1586656,2019,Tetanus neonatorum
+ZONE:09,0,0.0,0,0.0,6778372,2019,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1595299,2019,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1138067,2019,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2647663,2019,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1397343,2019,Tetanus neonatorum
+ZONE:10,0,0.0,0,0.0,4618551,2019,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,378530,2019,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,352727,2019,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1472934,2019,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1876347,2019,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,538013,2019,Tetanus neonatorum
+ZONE:11,0,0.0,0,0.0,4487837,2019,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,511134,2019,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,475239,2019,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1561179,2019,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,268513,2019,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,413397,2019,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,192619,2019,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1065756,2019,Tetanus neonatorum
+ZONE:12,0,0.0,0,0.0,4986140,2019,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,805248,2019,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,721591,2019,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,524955,2019,Tetanus neonatorum
+Satun,0,0.0,0,0.0,322580,2019,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1434298,2019,Tetanus neonatorum
+Trang,0,0.0,0,0.0,643140,2019,Tetanus neonatorum
+Yala,0,0.0,0,0.0,534328,2019,Tetanus neonatorum
+ZONE:13,0,0.0,0,0.0,5671457,2019,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5671457,2019,Tetanus neonatorum
+Total,0,0.0,0,0.0,64075986,2012,Tetanus neonatorum
+Central Region,0,0.0,0,0.0,21734984,2012,Tetanus neonatorum
+Zone:0,0,0.0,0,0.0,5674843,2012,Tetanus neonatorum
+Bangkok,0,0.0,0,0.0,5674843,2012,Tetanus neonatorum
+Zone:1,0,0.0,0,0.0,3541632,2012,Tetanus neonatorum
+Nonthaburi,0,0.0,0,0.0,1122627,2012,Tetanus neonatorum
+P.Nakhon S.Ayutthaya,0,0.0,0,0.0,787653,2012,Tetanus neonatorum
+Pathum Thani,0,0.0,0,0.0,1010898,2012,Tetanus neonatorum
+Saraburi,0,0.0,0,0.0,620454,2012,Tetanus neonatorum
+Zone:2,0,0.0,0,0.0,1587031,2012,Tetanus neonatorum
+Ang Thong,0,0.0,0,0.0,284061,2012,Tetanus neonatorum
+Chai Nat,0,0.0,0,0.0,333256,2012,Tetanus neonatorum
+Lop Buri,0,0.0,0,0.0,756127,2012,Tetanus neonatorum
+Sing Buri,0,0.0,0,0.0,213587,2012,Tetanus neonatorum
+Zone:3,0,0.0,0,0.0,3151672,2012,Tetanus neonatorum
+Chachoengsao,0,0.0,0,0.0,679370,2012,Tetanus neonatorum
+Nakhon Nayok,0,0.0,0,0.0,253831,2012,Tetanus neonatorum
+Prachin Buri,0,0.0,0,0.0,469652,2012,Tetanus neonatorum
+Sa Kaeo,0,0.0,0,0.0,545596,2012,Tetanus neonatorum
+Samut Prakan,0,0.0,0,0.0,1203223,2012,Tetanus neonatorum
+Zone:4,0,0.0,0,0.0,3392715,2012,Tetanus neonatorum
+Kanchanaburi,0,0.0,0,0.0,838914,2012,Tetanus neonatorum
+Nakhon Pathom,0,0.0,0,0.0,866064,2012,Tetanus neonatorum
+Ratchaburi,0,0.0,0,0.0,842684,2012,Tetanus neonatorum
+Suphan Buri,0,0.0,0,0.0,845053,2012,Tetanus neonatorum
+Zone:5,0,0.0,0,0.0,1671831,2012,Tetanus neonatorum
+Phetchaburi,0,0.0,0,0.0,466079,2012,Tetanus neonatorum
+Prachuap Khiri Khan,0,0.0,0,0.0,512568,2012,Tetanus neonatorum
+Samut Sakhon,0,0.0,0,0.0,499098,2012,Tetanus neonatorum
+Samut Songkhram,0,0.0,0,0.0,194086,2012,Tetanus neonatorum
+Zone:9,0,0.0,0,0.0,2715260,2012,Tetanus neonatorum
+Chanthaburi,0,0.0,0,0.0,516855,2012,Tetanus neonatorum
+Chon Buri,0,0.0,0,0.0,1338656,2012,Tetanus neonatorum
+Rayong,0,0.0,0,0.0,637736,2012,Tetanus neonatorum
+Trat,0,0.0,0,0.0,222013,2012,Tetanus neonatorum
+South Region,0,0.0,0,0.0,8971808,2012,Tetanus neonatorum
+Zone:6,0,0.0,0,0.0,3541333,2012,Tetanus neonatorum
+Chumphon,0,0.0,0,0.0,492182,2012,Tetanus neonatorum
+Nakhon Si Thammarat,0,0.0,0,0.0,1526071,2012,Tetanus neonatorum
+Phatthalung,0,0.0,0,0.0,511016,2012,Tetanus neonatorum
+Surat Thani,0,0.0,0,0.0,1012064,2012,Tetanus neonatorum
+Zone:7,0,0.0,0,0.0,1857374,2012,Tetanus neonatorum
+Krabi,0,0.0,0,0.0,438039,2012,Tetanus neonatorum
+Phangnga,0,0.0,0,0.0,254931,2012,Tetanus neonatorum
+Phuket,0,0.0,0,0.0,353847,2012,Tetanus neonatorum
+Ranong,0,0.0,0,0.0,183849,2012,Tetanus neonatorum
+Trang,0,0.0,0,0.0,626708,2012,Tetanus neonatorum
+Zone:8,0,0.0,0,0.0,3573101,2012,Tetanus neonatorum
+Narathiwat,0,0.0,0,0.0,747372,2012,Tetanus neonatorum
+Pattani,0,0.0,0,0.0,663485,2012,Tetanus neonatorum
+Satun,0,0.0,0,0.0,301467,2012,Tetanus neonatorum
+Songkhla,0,0.0,0,0.0,1367010,2012,Tetanus neonatorum
+Yala,0,0.0,0,0.0,493767,2012,Tetanus neonatorum
+North-Eastern Region,0,0.0,0,0.0,21585883,2012,Tetanus neonatorum
+Zone:10,0,0.0,0,0.0,3593082,2012,Tetanus neonatorum
+Bungkan,0,0.0,0,0.0,407634,2012,Tetanus neonatorum
+Loei,0,0.0,0,0.0,624920,2012,Tetanus neonatorum
+Nong Bua Lam Phu,0,0.0,0,0.0,502551,2012,Tetanus neonatorum
+Nong Khai,0,0.0,0,0.0,509870,2012,Tetanus neonatorum
+Udon Thani,0,0.0,0,0.0,1548107,2012,Tetanus neonatorum
+Zone:11,0,0.0,0,0.0,2168700,2012,Tetanus neonatorum
+Mukdahan,0,0.0,0,0.0,340581,2012,Tetanus neonatorum
+Nakhon Phanom,0,0.0,0,0.0,704768,2012,Tetanus neonatorum
+Sakon Nakhon,0,0.0,0,0.0,1123351,2012,Tetanus neonatorum
+Zone:12,0,0.0,0,0.0,4992515,2012,Tetanus neonatorum
+Kalasin,0,0.0,0,0.0,981655,2012,Tetanus neonatorum
+Khon Kaen,0,0.0,0,0.0,1766066,2012,Tetanus neonatorum
+Maha Sarakham,0,0.0,0,0.0,939736,2012,Tetanus neonatorum
+Roi Et,0,0.0,0,0.0,1305058,2012,Tetanus neonatorum
+Zone:13,0,0.0,0,0.0,4179354,2012,Tetanus neonatorum
+Amnat Charoen,0,0.0,0,0.0,372241,2012,Tetanus neonatorum
+Si Sa Ket,0,0.0,0,0.0,1452203,2012,Tetanus neonatorum
+Ubon Ratchathani,0,0.0,0,0.0,1816057,2012,Tetanus neonatorum
+Yasothon,0,0.0,0,0.0,538853,2012,Tetanus neonatorum
+Zone:14,0,0.0,0,0.0,6652232,2012,Tetanus neonatorum
+Buri Ram,0,0.0,0,0.0,1559085,2012,Tetanus neonatorum
+Chaiyaphum,0,0.0,0,0.0,1127423,2012,Tetanus neonatorum
+Nakhon Ratchasima,0,0.0,0,0.0,2585325,2012,Tetanus neonatorum
+Surin,0,0.0,0,0.0,1380399,2012,Tetanus neonatorum
+North Region,0,0.0,0,0.0,11783311,2012,Tetanus neonatorum
+Zone:15,0,0.0,0,0.0,3051678,2012,Tetanus neonatorum
+Chiang Mai,0,0.0,0,0.0,1646144,2012,Tetanus neonatorum
+Lampang,0,0.0,0,0.0,757534,2012,Tetanus neonatorum
+Lamphun,0,0.0,0,0.0,403952,2012,Tetanus neonatorum
+Mae Hong Son,0,0.0,0,0.0,244048,2012,Tetanus neonatorum
+Zone:16,0,0.0,0,0.0,2620490,2012,Tetanus neonatorum
+Chiang Rai,0,0.0,0,0.0,1198656,2012,Tetanus neonatorum
+Nan,0,0.0,0,0.0,476612,2012,Tetanus neonatorum
+Phayao,0,0.0,0,0.0,486472,2012,Tetanus neonatorum
+Phrae,0,0.0,0,0.0,458750,2012,Tetanus neonatorum
+Zone:17,0,0.0,0,0.0,3435726,2012,Tetanus neonatorum
+Phetchabun,0,0.0,0,0.0,990807,2012,Tetanus neonatorum
+Phitsanulok,0,0.0,0,0.0,851357,2012,Tetanus neonatorum
+Sukhothai,0,0.0,0,0.0,601504,2012,Tetanus neonatorum
+Tak,0,0.0,0,0.0,531018,2012,Tetanus neonatorum
+Uttaradit,0,0.0,0,0.0,461040,2012,Tetanus neonatorum
+Zone:18,0,0.0,0,0.0,2675417,2012,Tetanus neonatorum
+Kamphaeng Phet,0,0.0,0,0.0,726009,2012,Tetanus neonatorum
+Nakhon Sawan,0,0.0,0,0.0,1071686,2012,Tetanus neonatorum
+Phichit,0,0.0,0,0.0,549688,2012,Tetanus neonatorum
+Uthai Thani,0,0.0,0,0.0,328034,2012,Tetanus neonatorum
