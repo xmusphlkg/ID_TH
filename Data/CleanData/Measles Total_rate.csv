@@ -1,0 +1,2104 @@
+Areas,Cases,Incidence,Deaths,Mortality,Population,Year,Disease
+Total,1219,1.84,0,0.0,66372831,2020,Measles Total
+ZONE:01,199,3.38,0,0.0,5886870,2020,Measles Total
+Chiang Mai,100,5.61,0,0.0,1781812,2020,Measles Total
+Chiang Rai,87,6.71,0,0.0,1296664,2020,Measles Total
+Lampang,0,0.0,0,0.0,733640,2020,Measles Total
+Lamphun,1,0.25,0,0.0,403542,2020,Measles Total
+Mae Hong Son,3,1.06,0,0.0,284343,2020,Measles Total
+Nan,3,0.63,0,0.0,477476,2020,Measles Total
+Phayao,1,0.21,0,0.0,469856,2020,Measles Total
+Phrae,4,0.91,0,0.0,439537,2020,Measles Total
+ZONE:02,35,0.98,0,0.0,3554902,2020,Measles Total
+Phetchabun,4,0.41,0,0.0,987196,2020,Measles Total
+Phitsanulok,4,0.47,0,0.0,857364,2020,Measles Total
+Sukhothai,10,1.69,0,0.0,591477,2020,Measles Total
+Tak,15,2.25,0,0.0,667942,2020,Measles Total
+Uttaradit,2,0.44,0,0.0,450923,2020,Measles Total
+ZONE:03,10,0.34,0,0.0,2956189,2020,Measles Total
+Chai Nat,3,0.92,0,0.0,324544,2020,Measles Total
+Kamphaeng Phet,1,0.14,0,0.0,719993,2020,Measles Total
+Nakhon Sawan,6,0.57,0,0.0,1050098,2020,Measles Total
+Phichit,0,0.0,0,0.0,534311,2020,Measles Total
+Uthai Thani,0,0.0,0,0.0,327243,2020,Measles Total
+ZONE:04,40,0.74,0,0.0,5400529,2020,Measles Total
+Ang Thong,0,0.0,0,0.0,278119,2020,Measles Total
+Lop Buri,1,0.13,0,0.0,749242,2020,Measles Total
+Nakhon Nayok,2,0.77,0,0.0,260416,2020,Measles Total
+Nonthaburi,12,0.94,0,0.0,1271065,2020,Measles Total
+P.Nakhon S.Ayutthaya,4,0.49,0,0.0,819638,2020,Measles Total
+Pathum Thani,14,1.2,0,0.0,1170008,2020,Measles Total
+Saraburi,6,0.93,0,0.0,644869,2020,Measles Total
+Sing Buri,1,0.48,0,0.0,207172,2020,Measles Total
+ZONE:05,67,1.25,0,0.0,5342038,2020,Measles Total
+Kanchanaburi,4,0.45,0,0.0,893751,2020,Measles Total
+Nakhon Pathom,5,0.54,0,0.0,920380,2020,Measles Total
+Phetchaburi,6,1.24,0,0.0,483692,2020,Measles Total
+Prachuap Khiri Khan,33,5.97,0,0.0,552398,2020,Measles Total
+Ratchaburi,5,0.57,0,0.0,871207,2020,Measles Total
+Samut Sakhon,9,1.54,0,0.0,585451,2020,Measles Total
+Samut Songkhram,0,0.0,0,0.0,192678,2020,Measles Total
+Suphan Buri,5,0.59,0,0.0,842481,2020,Measles Total
+ZONE:06,124,2.0,0,0.0,6192990,2020,Measles Total
+Chachoengsao,8,1.11,0,0.0,720416,2020,Measles Total
+Chanthaburi,16,2.98,0,0.0,536629,2020,Measles Total
+Chon Buri,42,2.69,0,0.0,1562593,2020,Measles Total
+Prachin Buri,3,0.61,0,0.0,494175,2020,Measles Total
+Rayong,14,1.9,0,0.0,738139,2020,Measles Total
+Sa Kaeo,4,0.71,0,0.0,563614,2020,Measles Total
+Samut Prakan,27,2.0,0,0.0,1348177,2020,Measles Total
+Trat,10,4.36,0,0.0,229247,2020,Measles Total
+ZONE:07,25,0.5,0,0.0,5039088,2020,Measles Total
+Kalasin,1,0.1,0,0.0,980297,2020,Measles Total
+Khon Kaen,21,1.17,0,0.0,1798702,2020,Measles Total
+Maha Sarakham,0,0.0,0,0.0,958163,2020,Measles Total
+Roi Et,3,0.23,0,0.0,1301926,2020,Measles Total
+ZONE:08,17,0.31,0,0.0,5540556,2020,Measles Total
+Bungkan,1,0.24,0,0.0,423067,2020,Measles Total
+Loei,0,0.0,0,0.0,640843,2020,Measles Total
+Nakhon Phanom,3,0.42,0,0.0,718169,2020,Measles Total
+Nong Bua Lam Phu,8,1.57,0,0.0,511125,2020,Measles Total
+Nong Khai,5,0.96,0,0.0,519873,2020,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1150164,2020,Measles Total
+Udon Thani,0,0.0,0,0.0,1577315,2020,Measles Total
+ZONE:09,62,0.92,0,0.0,6748199,2020,Measles Total
+Buri Ram,11,0.69,0,0.0,1588466,2020,Measles Total
+Chaiyaphum,25,2.21,0,0.0,1131140,2020,Measles Total
+Nakhon Ratchasima,20,0.76,0,0.0,2641067,2020,Measles Total
+Surin,6,0.43,0,0.0,1387526,2020,Measles Total
+ZONE:10,105,2.28,0,0.0,4603401,2020,Measles Total
+Amnat Charoen,1,0.27,0,0.0,377317,2020,Measles Total
+Mukdahan,0,0.0,0,0.0,352043,2020,Measles Total
+Si Sa Ket,14,0.96,0,0.0,1465719,2020,Measles Total
+Ubon Ratchathani,87,4.65,0,0.0,1872422,2020,Measles Total
+Yasothon,3,0.56,0,0.0,535900,2020,Measles Total
+ZONE:11,110,2.45,0,0.0,4489609,2020,Measles Total
+Chumphon,6,1.18,0,0.0,510256,2020,Measles Total
+Krabi,3,0.63,0,0.0,477254,2020,Measles Total
+Nakhon Si Thammarat,16,1.03,0,0.0,1556325,2020,Measles Total
+Phangnga,1,0.37,0,0.0,268509,2020,Measles Total
+Phuket,28,6.74,0,0.0,415527,2020,Measles Total
+Ranong,3,1.55,0,0.0,193871,2020,Measles Total
+Surat Thani,53,4.96,0,0.0,1067867,2020,Measles Total
+ZONE:12,279,5.59,0,0.0,4991217,2020,Measles Total
+Narathiwat,129,16.0,0,0.0,806224,2020,Measles Total
+Pattani,29,4.0,0,0.0,725559,2020,Measles Total
+Phatthalung,4,0.76,0,0.0,523971,2020,Measles Total
+Satun,20,6.18,0,0.0,323841,2020,Measles Total
+Songkhla,69,4.82,0,0.0,1432288,2020,Measles Total
+Trang,2,0.31,0,0.0,641868,2020,Measles Total
+Yala,26,4.84,0,0.0,537466,2020,Measles Total
+ZONE:13,146,2.59,0,0.0,5627243,2020,Measles Total
+Bangkok,146,2.59,0,0.0,5627243,2020,Measles Total
+Total,2641,4.12,0,0.0,64076033,2013,Measles Total
+Central Region,1228,5.65,0,0.0,21734984,2013,Measles Total
+Zone:0,161,2.84,0,0.0,5674843,2013,Measles Total
+Bangkok,161,2.84,0,0.0,5674843,2013,Measles Total
+Zone:1,166,4.69,0,0.0,3541632,2013,Measles Total
+Nonthaburi,20,1.78,0,0.0,1122627,2013,Measles Total
+P.Nakhon S.Ayutthaya,61,7.74,0,0.0,787653,2013,Measles Total
+Pathum Thani,78,7.72,0,0.0,1010898,2013,Measles Total
+Saraburi,7,1.13,0,0.0,620454,2013,Measles Total
+Zone:2,28,1.76,0,0.0,1587031,2013,Measles Total
+Ang Thong,1,0.35,0,0.0,284061,2013,Measles Total
+Chai Nat,2,0.6,0,0.0,333256,2013,Measles Total
+Lop Buri,21,2.78,0,0.0,756127,2013,Measles Total
+Sing Buri,4,1.87,0,0.0,213587,2013,Measles Total
+Zone:3,183,5.81,0,0.0,3151672,2013,Measles Total
+Chachoengsao,36,5.3,0,0.0,679370,2013,Measles Total
+Nakhon Nayok,1,0.39,0,0.0,253831,2013,Measles Total
+Prachin Buri,66,14.05,0,0.0,469652,2013,Measles Total
+Sa Kaeo,29,5.32,0,0.0,545596,2013,Measles Total
+Samut Prakan,51,4.24,0,0.0,1203223,2013,Measles Total
+Zone:4,73,2.15,0,0.0,3392715,2013,Measles Total
+Kanchanaburi,27,3.22,0,0.0,838914,2013,Measles Total
+Nakhon Pathom,27,3.12,0,0.0,866064,2013,Measles Total
+Ratchaburi,13,1.54,0,0.0,842684,2013,Measles Total
+Suphan Buri,6,0.71,0,0.0,845053,2013,Measles Total
+Zone:5,44,2.63,0,0.0,1671831,2013,Measles Total
+Phetchaburi,1,0.21,0,0.0,466079,2013,Measles Total
+Prachuap Khiri Khan,7,1.37,0,0.0,512568,2013,Measles Total
+Samut Sakhon,31,6.21,0,0.0,499098,2013,Measles Total
+Samut Songkhram,5,2.58,0,0.0,194086,2013,Measles Total
+Zone:9,573,21.1,0,0.0,2715260,2013,Measles Total
+Chanthaburi,24,4.64,0,0.0,516855,2013,Measles Total
+Chon Buri,437,32.64,0,0.0,1338656,2013,Measles Total
+Rayong,111,17.41,0,0.0,637736,2013,Measles Total
+Trat,1,0.45,0,0.0,222013,2013,Measles Total
+South Region,391,4.36,0,0.0,8971855,2013,Measles Total
+Zone:6,120,3.39,0,0.0,3541380,2013,Measles Total
+Chumphon,4,0.81,0,0.0,492182,2013,Measles Total
+Nakhon Si Thammarat,33,2.16,0,0.0,1526071,2013,Measles Total
+Phatthalung,26,5.09,0,0.0,511063,2013,Measles Total
+Surat Thani,57,5.63,0,0.0,1012064,2013,Measles Total
+Zone:7,91,4.9,0,0.0,1857374,2013,Measles Total
+Krabi,11,2.51,0,0.0,438039,2013,Measles Total
+Phangnga,18,7.06,0,0.0,254931,2013,Measles Total
+Phuket,57,16.11,0,0.0,353847,2013,Measles Total
+Ranong,3,1.63,0,0.0,183849,2013,Measles Total
+Trang,2,0.32,0,0.0,626708,2013,Measles Total
+Zone:8,180,5.04,0,0.0,3573101,2013,Measles Total
+Narathiwat,57,7.63,0,0.0,747372,2013,Measles Total
+Pattani,44,6.63,0,0.0,663485,2013,Measles Total
+Satun,11,3.65,0,0.0,301467,2013,Measles Total
+Songkhla,57,4.17,0,0.0,1367010,2013,Measles Total
+Yala,11,2.23,0,0.0,493767,2013,Measles Total
+North-Eastern Region,648,3.0,0,0.0,21585883,2013,Measles Total
+Zone:10,29,0.81,0,0.0,3593082,2013,Measles Total
+Bungkan,5,1.23,0,0.0,407634,2013,Measles Total
+Loei,0,0.0,0,0.0,624920,2013,Measles Total
+Nong Bua Lam Phu,5,0.99,0,0.0,502551,2013,Measles Total
+Nong Khai,1,0.2,0,0.0,509870,2013,Measles Total
+Udon Thani,18,1.16,0,0.0,1548107,2013,Measles Total
+Zone:11,20,0.92,0,0.0,2168700,2013,Measles Total
+Mukdahan,1,0.29,0,0.0,340581,2013,Measles Total
+Nakhon Phanom,13,1.84,0,0.0,704768,2013,Measles Total
+Sakon Nakhon,6,0.53,0,0.0,1123351,2013,Measles Total
+Zone:12,173,3.47,0,0.0,4992515,2013,Measles Total
+Kalasin,24,2.44,0,0.0,981655,2013,Measles Total
+Khon Kaen,86,4.87,0,0.0,1766066,2013,Measles Total
+Maha Sarakham,56,5.96,0,0.0,939736,2013,Measles Total
+Roi Et,7,0.54,0,0.0,1305058,2013,Measles Total
+Zone:13,87,2.08,0,0.0,4179354,2013,Measles Total
+Amnat Charoen,6,1.61,0,0.0,372241,2013,Measles Total
+Si Sa Ket,30,2.07,0,0.0,1452203,2013,Measles Total
+Ubon Ratchathani,49,2.7,0,0.0,1816057,2013,Measles Total
+Yasothon,2,0.37,0,0.0,538853,2013,Measles Total
+Zone:14,339,5.1,0,0.0,6652232,2013,Measles Total
+Buri Ram,179,11.48,0,0.0,1559085,2013,Measles Total
+Chaiyaphum,6,0.53,0,0.0,1127423,2013,Measles Total
+Nakhon Ratchasima,85,3.29,0,0.0,2585325,2013,Measles Total
+Surin,69,5.0,0,0.0,1380399,2013,Measles Total
+North Region,374,3.17,0,0.0,11783311,2013,Measles Total
+Zone:15,162,5.31,0,0.0,3051678,2013,Measles Total
+Chiang Mai,98,5.95,0,0.0,1646144,2013,Measles Total
+Lampang,2,0.26,0,0.0,757534,2013,Measles Total
+Lamphun,43,10.64,0,0.0,403952,2013,Measles Total
+Mae Hong Son,19,7.79,0,0.0,244048,2013,Measles Total
+Zone:16,86,3.28,0,0.0,2620490,2013,Measles Total
+Chiang Rai,50,4.17,0,0.0,1198656,2013,Measles Total
+Nan,8,1.68,0,0.0,476612,2013,Measles Total
+Phayao,5,1.03,0,0.0,486472,2013,Measles Total
+Phrae,23,5.01,0,0.0,458750,2013,Measles Total
+Zone:17,69,2.01,0,0.0,3435726,2013,Measles Total
+Phetchabun,15,1.51,0,0.0,990807,2013,Measles Total
+Phitsanulok,3,0.35,0,0.0,851357,2013,Measles Total
+Sukhothai,8,1.33,0,0.0,601504,2013,Measles Total
+Tak,37,6.97,0,0.0,531018,2013,Measles Total
+Uttaradit,6,1.3,0,0.0,461040,2013,Measles Total
+Zone:18,57,2.13,0,0.0,2675417,2013,Measles Total
+Kamphaeng Phet,21,2.89,0,0.0,726009,2013,Measles Total
+Nakhon Sawan,30,2.8,0,0.0,1071686,2013,Measles Total
+Phichit,5,0.91,0,0.0,549688,2013,Measles Total
+Uthai Thani,1,0.3,0,0.0,328034,2013,Measles Total
+Total,2583,4.05,0,0.0,63701703,2010,Measles Total
+Central Region,884,4.11,0,0.0,21534318,2010,Measles Total
+Zone:0,102,1.79,0,0.0,5701995,2010,Measles Total
+Bangkok,102,1.79,0,0.0,5701995,2010,Measles Total
+Zone:1,92,2.66,0,0.0,3454591,2010,Measles Total
+Nonthaburi,30,2.75,0,0.0,1089908,2010,Measles Total
+P.Nakhon S.Ayutthaya,22,2.83,0,0.0,778627,2010,Measles Total
+Pathum Thani,23,2.37,0,0.0,971010,2010,Measles Total
+Saraburi,17,2.76,0,0.0,615046,2010,Measles Total
+Zone:2,28,1.76,0,0.0,1590200,2010,Measles Total
+Ang Thong,6,2.11,0,0.0,284889,2010,Measles Total
+Chai Nat,3,0.9,0,0.0,335177,2010,Measles Total
+Lop Buri,19,2.52,0,0.0,755153,2010,Measles Total
+Sing Buri,0,0.0,0,0.0,214981,2010,Measles Total
+Zone:3,214,6.89,0,0.0,3105799,2010,Measles Total
+Chachoengsao,64,9.53,0,0.0,671458,2010,Measles Total
+Nakhon Nayok,1,0.4,0,0.0,252209,2010,Measles Total
+Prachin Buri,76,16.37,0,0.0,464213,2010,Measles Total
+Sa Kaeo,23,4.23,0,0.0,543276,2010,Measles Total
+Samut Prakan,50,4.26,0,0.0,1174643,2010,Measles Total
+Zone:4,137,4.06,0,0.0,3374810,2010,Measles Total
+Kanchanaburi,24,2.87,0,0.0,836600,2010,Measles Total
+Nakhon Pathom,43,5.02,0,0.0,855837,2010,Measles Total
+Ratchaburi,36,4.3,0,0.0,837153,2010,Measles Total
+Suphan Buri,34,4.02,0,0.0,845220,2010,Measles Total
+Zone:5,78,4.72,0,0.0,1651335,2010,Measles Total
+Phetchaburi,39,8.43,0,0.0,462636,2010,Measles Total
+Prachuap Khiri Khan,11,2.17,0,0.0,506599,2010,Measles Total
+Samut Sakhon,25,5.12,0,0.0,488247,2010,Measles Total
+Samut Songkhram,3,1.55,0,0.0,193853,2010,Measles Total
+Zone:9,233,8.77,0,0.0,2655588,2010,Measles Total
+Chanthaburi,30,5.85,0,0.0,512932,2010,Measles Total
+Chon Buri,140,10.74,0,0.0,1302942,2010,Measles Total
+Rayong,47,7.59,0,0.0,619249,2010,Measles Total
+Trat,16,7.26,0,0.0,220465,2010,Measles Total
+South Region,481,5.43,0,0.0,8853473,2010,Measles Total
+Zone:6,86,2.45,0,0.0,3514344,2010,Measles Total
+Chumphon,9,1.84,0,0.0,488855,2010,Measles Total
+Nakhon Si Thammarat,37,2.43,0,0.0,1519531,2010,Measles Total
+Phatthalung,13,2.56,0,0.0,508656,2010,Measles Total
+Surat Thani,27,2.71,0,0.0,997302,2010,Measles Total
+Zone:7,80,4.38,0,0.0,1825591,2010,Measles Total
+Krabi,22,5.12,0,0.0,429631,2010,Measles Total
+Phangnga,11,4.36,0,0.0,252385,2010,Measles Total
+Phuket,14,4.11,0,0.0,340490,2010,Measles Total
+Ranong,3,1.64,0,0.0,182417,2010,Measles Total
+Trang,30,4.83,0,0.0,620668,2010,Measles Total
+Zone:8,315,8.97,0,0.0,3513538,2010,Measles Total
+Narathiwat,49,6.69,0,0.0,732617,2010,Measles Total
+Pattani,102,15.66,0,0.0,651442,2010,Measles Total
+Satun,14,4.74,0,0.0,295133,2010,Measles Total
+Songkhla,93,6.89,0,0.0,1350489,2010,Measles Total
+Yala,57,11.78,0,0.0,483857,2010,Measles Total
+North-Eastern Region,647,3.0,0,0.0,21534582,2010,Measles Total
+Zone:10,69,1.93,0,0.0,3576272,2010,Measles Total
+Loei,9,1.45,0,0.0,622424,2010,Measles Total
+Nong Bua Lam Phu,6,1.2,0,0.0,501891,2010,Measles Total
+Nong Khai,10,1.1,0,0.0,910094,2010,Measles Total
+Udon Thani,44,2.85,0,0.0,1541863,2010,Measles Total
+Zone:11,43,1.99,0,0.0,2161531,2010,Measles Total
+Mukdahan,12,3.54,0,0.0,338812,2010,Measles Total
+Nakhon Phanom,19,2.71,0,0.0,702041,2010,Measles Total
+Sakon Nakhon,12,1.07,0,0.0,1120678,2010,Measles Total
+Zone:12,74,1.48,0,0.0,4995226,2010,Measles Total
+Kalasin,13,1.32,0,0.0,981369,2010,Measles Total
+Khon Kaen,40,2.27,0,0.0,1764922,2010,Measles Total
+Maha Sarakham,16,1.7,0,0.0,940001,2010,Measles Total
+Roi Et,5,0.38,0,0.0,1308934,2010,Measles Total
+Zone:13,149,3.57,0,0.0,4168498,2010,Measles Total
+Amnat Charoen,13,3.5,0,0.0,371471,2010,Measles Total
+Si Sa Ket,26,1.79,0,0.0,1449409,2010,Measles Total
+Ubon Ratchathani,99,5.47,0,0.0,1808422,2010,Measles Total
+Yasothon,11,2.04,0,0.0,539196,2010,Measles Total
+Zone:14,312,4.7,0,0.0,6633055,2010,Measles Total
+Buri Ram,91,5.87,0,0.0,1550275,2010,Measles Total
+Chaiyaphum,24,2.13,0,0.0,1126295,2010,Measles Total
+Nakhon Ratchasima,131,5.08,0,0.0,2576691,2010,Measles Total
+Surin,66,4.78,0,0.0,1379794,2010,Measles Total
+North Region,571,4.85,0,0.0,11779330,2010,Measles Total
+Zone:15,175,5.74,0,0.0,3046660,2010,Measles Total
+Chiang Mai,135,8.25,0,0.0,1636514,2010,Measles Total
+Lampang,21,2.75,0,0.0,763224,2010,Measles Total
+Lamphun,6,1.48,0,0.0,404627,2010,Measles Total
+Mae Hong Son,13,5.37,0,0.0,242295,2010,Measles Total
+Zone:16,88,3.36,0,0.0,2620701,2010,Measles Total
+Chiang Rai,39,3.26,0,0.0,1196576,2010,Measles Total
+Nan,7,1.47,0,0.0,475989,2010,Measles Total
+Phayao,6,1.23,0,0.0,486713,2010,Measles Total
+Phrae,36,7.8,0,0.0,461423,2010,Measles Total
+Zone:17,205,5.98,0,0.0,3430959,2010,Measles Total
+Phetchabun,20,2.01,0,0.0,995578,2010,Measles Total
+Phitsanulok,22,2.6,0,0.0,847627,2010,Measles Total
+Sukhothai,9,1.49,0,0.0,602296,2010,Measles Total
+Tak,128,24.49,0,0.0,522673,2010,Measles Total
+Uttaradit,26,5.62,0,0.0,462785,2010,Measles Total
+Zone:18,103,3.84,0,0.0,2681010,2010,Measles Total
+Kamphaeng Phet,26,3.58,0,0.0,726970,2010,Measles Total
+Nakhon Sawan,59,5.5,0,0.0,1073182,2010,Measles Total
+Phichit,10,1.81,0,0.0,552942,2010,Measles Total
+Uthai Thani,8,2.44,0,0.0,327916,2010,Measles Total
+Total,7465,11.81,1,0.0,63214022,2008,Measles Total
+Central Region,3031,14.28,0,0.0,21226352,2008,Measles Total
+Bangkok,715,12.51,0,0.0,5713566,2008,Measles Total
+Zone:1,497,14.9,0,0.0,3335057,2008,Measles Total
+Nonthaburi,74,7.13,0,0.0,1038392,2008,Measles Total
+P.Nakhon S.Ayutthaya,163,21.31,0,0.0,764919,2008,Measles Total
+Pathum Thani,180,19.71,0,0.0,913047,2008,Measles Total
+Saraburi,80,12.93,0,0.0,618699,2008,Measles Total
+Zone:2,137,8.62,0,0.0,1588582,2008,Measles Total
+Ang Thong,17,5.97,0,0.0,284619,2008,Measles Total
+Chai Nat,8,2.38,0,0.0,336550,2008,Measles Total
+Lop Buri,100,13.3,0,0.0,751811,2008,Measles Total
+Sing Buri,12,5.57,0,0.0,215602,2008,Measles Total
+Zone:3,541,17.76,0,0.0,3046070,2008,Measles Total
+Chachoengsao,201,30.37,0,0.0,661898,2008,Measles Total
+Nakhon Nayok,12,4.81,0,0.0,249625,2008,Measles Total
+Prachin Buri,90,19.69,0,0.0,457184,2008,Measles Total
+Sa Kaeo,63,11.66,0,0.0,540281,2008,Measles Total
+Samut Prakan,175,15.39,0,0.0,1137082,2008,Measles Total
+Zone:4,405,12.08,0,0.0,3352570,2008,Measles Total
+Kanchanaburi,96,11.45,0,0.0,838094,2008,Measles Total
+Nakhon Pathom,83,9.91,0,0.0,837285,2008,Measles Total
+Ratchaburi,163,19.55,0,0.0,833650,2008,Measles Total
+Suphan Buri,63,7.47,0,0.0,843541,2008,Measles Total
+Zone:5,147,9.06,0,0.0,1623176,2008,Measles Total
+Phetchaburi,30,6.56,0,0.0,457518,2008,Measles Total
+Prachuap Khiri Khan,17,3.42,0,0.0,497483,2008,Measles Total
+Samut Sakhon,93,19.62,0,0.0,474041,2008,Measles Total
+Samut Songkhram,7,3.61,0,0.0,194134,2008,Measles Total
+Zone:9,589,22.94,0,0.0,2567331,2008,Measles Total
+Chanthaburi,80,15.81,0,0.0,506012,2008,Measles Total
+Chon Buri,346,27.7,0,0.0,1249067,2008,Measles Total
+Rayong,129,21.82,0,0.0,591067,2008,Measles Total
+Trat,34,15.37,0,0.0,221185,2008,Measles Total
+South Region,1887,21.69,0,0.0,8698196,2008,Measles Total
+Zone:6,226,6.51,0,0.0,3473895,2008,Measles Total
+Chumphon,41,8.49,0,0.0,483011,2008,Measles Total
+Nakhon Si Thammarat,64,4.24,0,0.0,1510081,2008,Measles Total
+Phatthalung,35,6.95,0,0.0,503847,2008,Measles Total
+Surat Thani,86,8.8,0,0.0,976956,2008,Measles Total
+Zone:7,139,7.81,0,0.0,1778692,2008,Measles Total
+Krabi,23,5.55,0,0.0,414670,2008,Measles Total
+Phangnga,18,7.25,0,0.0,248411,2008,Measles Total
+Phuket,59,18.37,0,0.0,321252,2008,Measles Total
+Ranong,19,10.45,0,0.0,181758,2008,Measles Total
+Trang,20,3.26,0,0.0,612601,2008,Measles Total
+Zone:8,1522,44.17,0,0.0,3445609,2008,Measles Total
+Narathiwat,736,102.83,0,0.0,715724,2008,Measles Total
+Pattani,343,53.59,0,0.0,639988,2008,Measles Total
+Satun,40,13.96,0,0.0,286446,2008,Measles Total
+Songkhla,179,13.46,0,0.0,1330342,2008,Measles Total
+Yala,224,47.35,0,0.0,473109,2008,Measles Total
+North-Eastern Region,947,4.42,0,0.0,21414180,2008,Measles Total
+Zone:10,52,1.46,0,0.0,3553449,2008,Measles Total
+Loei,9,1.46,0,0.0,616981,2008,Measles Total
+Nong Bua Lam Phu,5,1.0,0,0.0,498562,2008,Measles Total
+Nong Khai,14,1.55,0,0.0,904748,2008,Measles Total
+Udon Thani,24,1.57,0,0.0,1533158,2008,Measles Total
+Zone:11,37,1.72,0,0.0,2149587,2008,Measles Total
+Mukdahan,8,2.38,0,0.0,336802,2008,Measles Total
+Nakhon Phanom,6,0.86,0,0.0,698235,2008,Measles Total
+Sakon Nakhon,23,2.06,0,0.0,1114550,2008,Measles Total
+Zone:12,175,3.52,0,0.0,4976635,2008,Measles Total
+Kalasin,59,6.03,0,0.0,978046,2008,Measles Total
+Khon Kaen,79,4.5,0,0.0,1754258,2008,Measles Total
+Maha Sarakham,30,3.2,0,0.0,936430,2008,Measles Total
+Roi Et,7,0.54,0,0.0,1307901,2008,Measles Total
+Zone:13,167,4.03,0,0.0,4141403,2008,Measles Total
+Amnat Charoen,13,3.52,0,0.0,369196,2008,Measles Total
+Si Sa Ket,63,4.37,0,0.0,1442212,2008,Measles Total
+Ubon Ratchathani,59,3.3,0,0.0,1790581,2008,Measles Total
+Yasothon,32,5.93,0,0.0,539414,2008,Measles Total
+Zone:14,516,7.83,0,0.0,6593106,2008,Measles Total
+Buri Ram,90,5.85,0,0.0,1538861,2008,Measles Total
+Chaiyaphum,55,4.91,0,0.0,1121123,2008,Measles Total
+Nakhon Ratchasima,318,12.43,0,0.0,2559006,2008,Measles Total
+Surin,53,3.86,0,0.0,1374116,2008,Measles Total
+North Region,1600,13.47,1,0.01,11875294,2008,Measles Total
+Zone:15,790,25.52,1,0.03,3095362,2008,Measles Total
+Chiang Mai,697,41.8,1,0.06,1667358,2008,Measles Total
+Lampang,13,1.69,0,0.0,769115,2008,Measles Total
+Lamphun,45,11.11,0,0.0,405141,2008,Measles Total
+Mae Hong Son,35,13.79,0,0.0,253748,2008,Measles Total
+Zone:16,206,7.76,0,0.0,2654508,2008,Measles Total
+Chiang Rai,54,4.4,0,0.0,1226165,2008,Measles Total
+Nan,51,10.7,0,0.0,476683,2008,Measles Total
+Phayao,26,5.34,0,0.0,486983,2008,Measles Total
+Phrae,75,16.14,0,0.0,464677,2008,Measles Total
+Zone:17,324,9.41,0,0.0,3443651,2008,Measles Total
+Phetchabun,90,9.03,0,0.0,996882,2008,Measles Total
+Phitsanulok,33,3.92,0,0.0,842840,2008,Measles Total
+Sukhothai,24,3.97,0,0.0,604559,2008,Measles Total
+Tak,108,20.2,0,0.0,534629,2008,Measles Total
+Uttaradit,69,14.85,0,0.0,464741,2008,Measles Total
+Zone:18,280,10.44,0,0.0,2681773,2008,Measles Total
+Kamphaeng Phet,83,11.43,0,0.0,726104,2008,Measles Total
+Nakhon Sawan,168,15.64,0,0.0,1073962,2008,Measles Total
+Phichit,16,2.89,0,0.0,554426,2008,Measles Total
+Uthai Thani,13,3.97,0,0.0,327281,2008,Measles Total
+Total,3893,6.19,1,0.0,62933515,2007,Measles Total
+North Region,634,5.34,0,0.0,11881352,2007,Measles Total
+Zone:1,363,6.31,0,0.0,5750312,2007,Measles Total
+Chiang Mai,117,7.04,0,0.0,1661349,2007,Measles Total
+Chiang Rai,153,12.49,0,0.0,1225364,2007,Measles Total
+Lampang,19,2.46,0,0.0,772202,2007,Measles Total
+Lamphun,13,3.21,0,0.0,405361,2007,Measles Total
+Mae Hong Son,12,4.71,0,0.0,254990,2007,Measles Total
+Nan,19,3.98,0,0.0,477522,2007,Measles Total
+Phayao,19,3.91,0,0.0,486399,2007,Measles Total
+Phrae,11,2.35,0,0.0,467125,2007,Measles Total
+Zone:2,183,5.31,0,0.0,3445764,2007,Measles Total
+Phetchabun,41,4.1,0,0.0,999924,2007,Measles Total
+Phitsanulok,22,2.61,0,0.0,843096,2007,Measles Total
+Sukhothai,20,3.29,0,0.0,607061,2007,Measles Total
+Tak,90,17.0,0,0.0,529303,2007,Measles Total
+Uttaradit,10,2.14,0,0.0,466380,2007,Measles Total
+Zone:3,88,3.28,0,0.0,2685276,2007,Measles Total
+Kamphaeng Phet,29,3.99,0,0.0,727158,2007,Measles Total
+Nakhon Sawan,39,3.63,0,0.0,1074849,2007,Measles Total
+Phichit,11,1.98,0,0.0,556287,2007,Measles Total
+Uthai Thani,9,2.75,0,0.0,326982,2007,Measles Total
+Central Region,976,4.64,0,0.0,21043273,2007,Measles Total
+Bangkok,159,2.79,0,0.0,5706103,2007,Measles Total
+Zone:4,58,1.98,0,0.0,2932544,2007,Measles Total
+Ang Thong,7,2.46,0,0.0,284175,2007,Measles Total
+Nonthaburi,13,1.29,0,0.0,1011624,2007,Measles Total
+P.Nakhon S.Ayutthaya,34,4.49,0,0.0,757654,2007,Measles Total
+Pathum Thani,4,0.46,0,0.0,879091,2007,Measles Total
+Zone:5,57,2.97,0,0.0,1918492,2007,Measles Total
+Chai Nat,5,1.48,0,0.0,338077,2007,Measles Total
+Lop Buri,21,2.8,0,0.0,751298,2007,Measles Total
+Saraburi,28,4.57,0,0.0,612806,2007,Measles Total
+Sing Buri,3,1.39,0,0.0,216311,2007,Measles Total
+Zone:6,176,5.28,0,0.0,3334732,2007,Measles Total
+Kanchanaburi,53,6.35,0,0.0,834865,2007,Measles Total
+Nakhon Pathom,76,9.2,0,0.0,826438,2007,Measles Total
+Ratchaburi,16,1.93,0,0.0,830184,2007,Measles Total
+Suphan Buri,31,3.68,0,0.0,843245,2007,Measles Total
+Zone:7,35,2.17,0,0.0,1611697,2007,Measles Total
+Phetchaburi,6,1.31,0,0.0,456371,2007,Measles Total
+Prachuap Khiri Khan,13,2.63,0,0.0,494502,2007,Measles Total
+Samut Sakhon,13,2.79,0,0.0,466222,2007,Measles Total
+Samut Songkhram,3,1.54,0,0.0,194602,2007,Measles Total
+Zone:8,249,8.26,0,0.0,3016265,2007,Measles Total
+Chachoengsao,54,8.22,0,0.0,656586,2007,Measles Total
+Nakhon Nayok,8,3.21,0,0.0,249250,2007,Measles Total
+Prachin Buri,95,20.91,0,0.0,454404,2007,Measles Total
+Sa Kaeo,36,6.68,0,0.0,538741,2007,Measles Total
+Samut Prakan,56,5.01,0,0.0,1117284,2007,Measles Total
+Zone:9,242,9.59,0,0.0,2523440,2007,Measles Total
+Chanthaburi,35,6.96,0,0.0,503197,2007,Measles Total
+Chon Buri,130,10.64,0,0.0,1221369,2007,Measles Total
+Rayong,56,9.68,0,0.0,578628,2007,Measles Total
+Trat,21,9.53,0,0.0,220246,2007,Measles Total
+North-Eastern Region,659,3.08,0,0.0,21381249,2007,Measles Total
+Zone:10,95,2.68,0,0.0,3541793,2007,Measles Total
+Loei,10,1.63,0,0.0,614421,2007,Measles Total
+Nong Bua Lam Phu,12,2.41,0,0.0,497148,2007,Measles Total
+Nong Khai,37,4.11,0,0.0,901100,2007,Measles Total
+Udon Thani,36,2.35,0,0.0,1529124,2007,Measles Total
+Zone:11,61,1.96,0,0.0,3119599,2007,Measles Total
+Kalasin,34,3.48,0,0.0,976536,2007,Measles Total
+Mukdahan,8,2.38,0,0.0,335778,2007,Measles Total
+Nakhon Phanom,14,2.01,0,0.0,696229,2007,Measles Total
+Sakon Nakhon,5,0.45,0,0.0,1111056,2007,Measles Total
+Zone:12,54,1.35,0,0.0,3997622,2007,Measles Total
+Khon Kaen,29,1.66,0,0.0,1751458,2007,Measles Total
+Maha Sarakham,16,1.71,0,0.0,936846,2007,Measles Total
+Roi Et,9,0.69,0,0.0,1309318,2007,Measles Total
+Zone:13,268,4.07,0,0.0,6583974,2007,Measles Total
+Buri Ram,107,6.96,0,0.0,1536396,2007,Measles Total
+Chaiyaphum,31,2.77,0,0.0,1119372,2007,Measles Total
+Nakhon Ratchasima,78,3.05,0,0.0,2554241,2007,Measles Total
+Surin,52,3.78,0,0.0,1373965,2007,Measles Total
+Zone:14,181,4.37,0,0.0,4138261,2007,Measles Total
+Amnat Charoen,11,2.98,0,0.0,368925,2007,Measles Total
+Si Sa Ket,59,4.08,0,0.0,1444748,2007,Measles Total
+Ubon Ratchathani,97,5.44,0,0.0,1784372,2007,Measles Total
+Yasothon,14,2.59,0,0.0,540216,2007,Measles Total
+South Region,1624,18.82,1,0.01,8627641,2007,Measles Total
+Zone:15,133,8.18,0,0.0,1626011,2007,Measles Total
+Chumphon,6,1.25,0,0.0,480131,2007,Measles Total
+Ranong,67,37.16,0,0.0,180319,2007,Measles Total
+Surat Thani,60,6.21,0,0.0,965561,2007,Measles Total
+Zone:16,135,5.15,0,0.0,2620564,2007,Measles Total
+Nakhon Si Thammarat,81,5.37,0,0.0,1508729,2007,Measles Total
+Phatthalung,47,9.34,0,0.0,502943,2007,Measles Total
+Trang,7,1.15,0,0.0,608892,2007,Measles Total
+Zone:17,214,22.26,0,0.0,961258,2007,Measles Total
+Krabi,24,5.9,0,0.0,406999,2007,Measles Total
+Phangnga,27,10.97,0,0.0,246141,2007,Measles Total
+Phuket,163,52.9,0,0.0,308118,2007,Measles Total
+Zone:18,1001,55.13,1,0.06,1815585,2007,Measles Total
+Narathiwat,314,44.27,0,0.0,709345,2007,Measles Total
+Pattani,221,34.71,1,0.16,636768,2007,Measles Total
+Yala,466,99.26,0,0.0,469472,2007,Measles Total
+Zone:19,141,8.79,0,0.0,1604223,2007,Measles Total
+Satun,18,6.36,0,0.0,283014,2007,Measles Total
+Songkhla,123,9.31,0,0.0,1321209,2007,Measles Total
+Total,1171,1.8,0,0.0,64955313,2014,Measles Total
+ZONE:00,83,1.46,0,0.0,5689268,2014,Measles Total
+Bangkok,83,1.46,0,0.0,5689268,2014,Measles Total
+ZONE:01,56,0.98,0,0.0,5704200,2014,Measles Total
+Chiang Mai,29,1.73,0,0.0,1672586,2014,Measles Total
+Chiang Rai,8,0.66,0,0.0,1206180,2014,Measles Total
+Lampang,0,0.0,0,0.0,753937,2014,Measles Total
+Lamphun,1,0.25,0,0.0,405368,2014,Measles Total
+Mae Hong Son,4,1.62,0,0.0,247364,2014,Measles Total
+Nan,1,0.21,0,0.0,478088,2014,Measles Total
+Phayao,6,1.24,0,0.0,485599,2014,Measles Total
+Phrae,7,1.54,0,0.0,455078,2014,Measles Total
+ZONE:02,26,0.75,0,0.0,3452021,2014,Measles Total
+Phetchabun,6,0.6,0,0.0,995102,2014,Measles Total
+Phitsanulok,0,0.0,0,0.0,857682,2014,Measles Total
+Sukhothai,6,1.0,0,0.0,602586,2014,Measles Total
+Tak,11,2.05,0,0.0,535953,2014,Measles Total
+Uttaradit,3,0.65,0,0.0,460698,2014,Measles Total
+ZONE:03,46,1.53,0,0.0,3012608,2014,Measles Total
+Chai Nat,0,0.0,0,0.0,332526,2014,Measles Total
+Kamphaeng Phet,29,3.98,0,0.0,729076,2014,Measles Total
+Nakhon Sawan,10,0.93,0,0.0,1072949,2014,Measles Total
+Phichit,2,0.36,0,0.0,548199,2014,Measles Total
+Uthai Thani,5,1.52,0,0.0,329858,2014,Measles Total
+ZONE:04,118,2.28,0,0.0,5171756,2014,Measles Total
+Ang Thong,2,0.71,0,0.0,283650,2014,Measles Total
+Lop Buri,15,1.98,0,0.0,758188,2014,Measles Total
+Nakhon Nayok,0,0.0,0,0.0,256693,2014,Measles Total
+Nonthaburi,32,2.75,0,0.0,1165070,2014,Measles Total
+P.Nakhon S.Ayutthaya,24,3.0,0,0.0,800785,2014,Measles Total
+Pathum Thani,42,3.95,0,0.0,1063608,2014,Measles Total
+Saraburi,3,0.48,0,0.0,631338,2014,Measles Total
+Sing Buri,0,0.0,0,0.0,212424,2014,Measles Total
+ZONE:05,47,0.91,0,0.0,5147569,2014,Measles Total
+Kanchanaburi,8,0.95,0,0.0,845540,2014,Measles Total
+Nakhon Pathom,5,0.56,0,0.0,886627,2014,Measles Total
+Phetchaburi,1,0.21,0,0.0,472640,2014,Measles Total
+Prachuap Khiri Khan,8,1.53,0,0.0,522689,2014,Measles Total
+Ratchaburi,10,1.17,0,0.0,851689,2014,Measles Total
+Samut Sakhon,11,2.09,0,0.0,525672,2014,Measles Total
+Samut Songkhram,0,0.0,0,0.0,194153,2014,Measles Total
+Suphan Buri,4,0.47,0,0.0,848559,2014,Measles Total
+ZONE:06,174,3.0,0,0.0,5797595,2014,Measles Total
+Chachoengsao,15,2.16,0,0.0,692852,2014,Measles Total
+Chanthaburi,13,2.47,0,0.0,525805,2014,Measles Total
+Chon Buri,45,3.2,0,0.0,1405889,2014,Measles Total
+Prachin Buri,37,7.74,0,0.0,477741,2014,Measles Total
+Rayong,34,5.09,0,0.0,667806,2014,Measles Total
+Sa Kaeo,9,1.63,0,0.0,551562,2014,Measles Total
+Samut Prakan,21,1.68,0,0.0,1251570,2014,Measles Total
+Trat,0,0.0,0,0.0,224370,2014,Measles Total
+ZONE:07,52,1.03,0,0.0,5037074,2014,Measles Total
+Kalasin,10,1.02,0,0.0,984468,2014,Measles Total
+Khon Kaen,25,1.4,0,0.0,1785852,2014,Measles Total
+Maha Sarakham,10,1.04,0,0.0,958116,2014,Measles Total
+Roi Et,7,0.53,0,0.0,1308638,2014,Measles Total
+ZONE:08,25,0.46,0,0.0,5490561,2014,Measles Total
+Bungkan,2,0.48,0,0.0,417401,2014,Measles Total
+Loei,0,0.0,0,0.0,633359,2014,Measles Total
+Nakhon Phanom,11,1.54,0,0.0,712101,2014,Measles Total
+Nong Bua Lam Phu,1,0.2,0,0.0,508001,2014,Measles Total
+Nong Khai,4,0.78,0,0.0,516101,2014,Measles Total
+Sakon Nakhon,3,0.26,0,0.0,1136466,2014,Measles Total
+Udon Thani,4,0.26,0,0.0,1567132,2014,Measles Total
+ZONE:09,125,1.86,0,0.0,6717984,2014,Measles Total
+Buri Ram,67,4.25,0,0.0,1576343,2014,Measles Total
+Chaiyaphum,4,0.35,0,0.0,1136386,2014,Measles Total
+Nakhon Ratchasima,36,1.38,0,0.0,2615340,2014,Measles Total
+Surin,18,1.3,0,0.0,1389915,2014,Measles Total
+ZONE:10,59,1.29,0,0.0,4564711,2014,Measles Total
+Amnat Charoen,7,1.87,0,0.0,375039,2014,Measles Total
+Mukdahan,1,0.29,0,0.0,345159,2014,Measles Total
+Si Sa Ket,12,0.82,0,0.0,1463620,2014,Measles Total
+Ubon Ratchathani,39,2.12,0,0.0,1840596,2014,Measles Total
+Yasothon,0,0.0,0,0.0,540297,2014,Measles Total
+ZONE:11,168,3.87,0,0.0,4344513,2014,Measles Total
+Chumphon,7,1.4,0,0.0,499435,2014,Measles Total
+Krabi,11,2.42,0,0.0,453850,2014,Measles Total
+Nakhon Si Thammarat,37,2.39,0,0.0,1544936,2014,Measles Total
+Phangnga,7,2.69,0,0.0,260395,2014,Measles Total
+Phuket,19,5.08,0,0.0,373943,2014,Measles Total
+Ranong,0,0.0,0,0.0,175933,2014,Measles Total
+Surat Thani,87,8.4,0,0.0,1036021,2014,Measles Total
+ZONE:12,192,3.98,0,0.0,4825453,2014,Measles Total
+Narathiwat,50,6.49,0,0.0,770472,2014,Measles Total
+Pattani,32,4.69,0,0.0,682512,2014,Measles Total
+Phatthalung,17,3.27,0,0.0,519220,2014,Measles Total
+Satun,25,8.03,0,0.0,311233,2014,Measles Total
+Songkhla,41,2.94,0,0.0,1395596,2014,Measles Total
+Trang,10,1.57,0,0.0,637395,2014,Measles Total
+Yala,17,3.34,0,0.0,509025,2014,Measles Total
+Total,237,0.36,0,0.0,66179083,2021,Measles Total
+ZONE:01,19,0.32,0,0.0,5875424,2021,Measles Total
+Chiang Mai,12,0.67,0,0.0,1786877,2021,Measles Total
+Chiang Rai,2,0.15,0,0.0,1296725,2021,Measles Total
+Lampang,1,0.14,0,0.0,726821,2021,Measles Total
+Lamphun,0,0.0,0,0.0,401574,2021,Measles Total
+Mae Hong Son,3,1.05,0,0.0,285232,2021,Measles Total
+Nan,0,0.0,0,0.0,476300,2021,Measles Total
+Phayao,1,0.21,0,0.0,465930,2021,Measles Total
+Phrae,0,0.0,0,0.0,435965,2021,Measles Total
+ZONE:02,13,0.37,0,0.0,3536074,2021,Measles Total
+Phetchabun,1,0.1,0,0.0,980156,2021,Measles Total
+Phitsanulok,5,0.59,0,0.0,848432,2021,Measles Total
+Sukhothai,3,0.51,0,0.0,586617,2021,Measles Total
+Tak,1,0.15,0,0.0,673423,2021,Measles Total
+Uttaradit,3,0.67,0,0.0,447446,2021,Measles Total
+ZONE:03,3,0.1,0,0.0,2928596,2021,Measles Total
+Chai Nat,0,0.0,0,0.0,321454,2021,Measles Total
+Kamphaeng Phet,1,0.14,0,0.0,713130,2021,Measles Total
+Nakhon Sawan,1,0.1,0,0.0,1037668,2021,Measles Total
+Phichit,1,0.19,0,0.0,530852,2021,Measles Total
+Uthai Thani,0,0.0,0,0.0,325492,2021,Measles Total
+ZONE:04,13,0.24,0,0.0,5411959,2021,Measles Total
+Ang Thong,0,0.0,0,0.0,275673,2021,Measles Total
+Lop Buri,2,0.27,0,0.0,741200,2021,Measles Total
+Nakhon Nayok,0,0.0,0,0.0,260256,2021,Measles Total
+Nonthaburi,2,0.16,0,0.0,1282690,2021,Measles Total
+P.Nakhon S.Ayutthaya,4,0.49,0,0.0,819799,2021,Measles Total
+Pathum Thani,4,0.34,0,0.0,1183235,2021,Measles Total
+Saraburi,1,0.16,0,0.0,643895,2021,Measles Total
+Sing Buri,0,0.0,0,0.0,205211,2021,Measles Total
+ZONE:05,17,0.32,0,0.0,5332653,2021,Measles Total
+Kanchanaburi,3,0.34,0,0.0,893014,2021,Measles Total
+Nakhon Pathom,3,0.33,0,0.0,921450,2021,Measles Total
+Phetchaburi,1,0.21,0,0.0,482534,2021,Measles Total
+Prachuap Khiri Khan,1,0.18,0,0.0,551924,2021,Measles Total
+Ratchaburi,5,0.58,0,0.0,868797,2021,Measles Total
+Samut Sakhon,2,0.34,0,0.0,586494,2021,Measles Total
+Samut Songkhram,0,0.0,0,0.0,191447,2021,Measles Total
+Suphan Buri,2,0.24,0,0.0,836993,2021,Measles Total
+ZONE:06,23,0.37,0,0.0,6218594,2021,Measles Total
+Chachoengsao,2,0.28,0,0.0,722448,2021,Measles Total
+Chanthaburi,1,0.19,0,0.0,536058,2021,Measles Total
+Chon Buri,6,0.38,0,0.0,1575278,2021,Measles Total
+Prachin Buri,4,0.81,0,0.0,494498,2021,Measles Total
+Rayong,0,0.0,0,0.0,746433,2021,Measles Total
+Sa Kaeo,4,0.71,0,0.0,561459,2021,Measles Total
+Samut Prakan,6,0.44,0,0.0,1353964,2021,Measles Total
+Trat,0,0.0,0,0.0,228456,2021,Measles Total
+ZONE:07,6,0.12,0,0.0,5017381,2021,Measles Total
+Kalasin,3,0.31,0,0.0,976373,2021,Measles Total
+Khon Kaen,2,0.11,0,0.0,1792697,2021,Measles Total
+Maha Sarakham,1,0.11,0,0.0,950985,2021,Measles Total
+Roi Et,0,0.0,0,0.0,1297326,2021,Measles Total
+ZONE:08,6,0.11,0,0.0,5518109,2021,Measles Total
+Bungkan,2,0.47,0,0.0,422019,2021,Measles Total
+Loei,0,0.0,0,0.0,638734,2021,Measles Total
+Nakhon Phanom,2,0.28,0,0.0,717121,2021,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,509236,2021,Measles Total
+Nong Khai,2,0.39,0,0.0,517140,2021,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1146612,2021,Measles Total
+Udon Thani,0,0.0,0,0.0,1567247,2021,Measles Total
+ZONE:09,16,0.24,0,0.0,6714997,2021,Measles Total
+Buri Ram,4,0.25,0,0.0,1580495,2021,Measles Total
+Chaiyaphum,4,0.36,0,0.0,1123595,2021,Measles Total
+Nakhon Ratchasima,5,0.19,0,0.0,2633681,2021,Measles Total
+Surin,3,0.22,0,0.0,1377226,2021,Measles Total
+ZONE:10,25,0.55,0,0.0,4587095,2021,Measles Total
+Amnat Charoen,1,0.27,0,0.0,376273,2021,Measles Total
+Mukdahan,1,0.28,0,0.0,351198,2021,Measles Total
+Si Sa Ket,3,0.21,0,0.0,1458068,2021,Measles Total
+Ubon Ratchathani,20,1.07,0,0.0,1867608,2021,Measles Total
+Yasothon,0,0.0,0,0.0,533948,2021,Measles Total
+ZONE:11,31,0.69,0,0.0,4487259,2021,Measles Total
+Chumphon,0,0.0,0,0.0,509344,2021,Measles Total
+Krabi,1,0.21,0,0.0,478561,2021,Measles Total
+Nakhon Si Thammarat,6,0.39,0,0.0,1550033,2021,Measles Total
+Phangnga,0,0.0,0,0.0,268123,2021,Measles Total
+Phuket,14,3.36,0,0.0,416629,2021,Measles Total
+Ranong,0,0.0,0,0.0,194473,2021,Measles Total
+Surat Thani,10,0.93,0,0.0,1070096,2021,Measles Total
+ZONE:12,36,0.72,0,0.0,4992834,2021,Measles Total
+Narathiwat,9,1.12,0,0.0,807045,2021,Measles Total
+Pattani,6,0.82,0,0.0,727799,2021,Measles Total
+Phatthalung,1,0.19,0,0.0,522810,2021,Measles Total
+Satun,3,0.92,0,0.0,324467,2021,Measles Total
+Songkhla,13,0.91,0,0.0,1430073,2021,Measles Total
+Trang,0,0.0,0,0.0,640182,2021,Measles Total
+Yala,4,0.74,0,0.0,540458,2021,Measles Total
+ZONE:13,29,0.52,0,0.0,5558108,2021,Measles Total
+Bangkok,29,0.52,0,0.0,5558108,2021,Measles Total
+Total,7884,11.93,9,0.01,66071545,2024,Measles Total
+ZONE:01,35,0.6,0,0.0,5857413,2024,Measles Total
+Chiang Mai,12,0.67,0,0.0,1794774,2024,Measles Total
+Chiang Rai,7,0.54,0,0.0,1299306,2024,Measles Total
+Lampang,1,0.14,0,0.0,715133,2024,Measles Total
+Lamphun,2,0.5,0,0.0,398998,2024,Measles Total
+Mae Hong Son,10,3.48,0,0.0,287215,2024,Measles Total
+Nan,2,0.42,0,0.0,473630,2024,Measles Total
+Phayao,1,0.22,0,0.0,459858,2024,Measles Total
+Phrae,0,0.0,0,0.0,428499,2024,Measles Total
+ZONE:02,28,0.79,0,0.0,3522489,2024,Measles Total
+Phetchabun,10,1.03,0,0.0,970403,2024,Measles Total
+Phitsanulok,2,0.24,0,0.0,843111,2024,Measles Total
+Sukhothai,14,2.41,0,0.0,579759,2024,Measles Total
+Tak,2,0.29,0,0.0,687927,2024,Measles Total
+Uttaradit,0,0.0,0,0.0,441289,2024,Measles Total
+ZONE:03,9,0.31,0,0.0,2896463,2024,Measles Total
+Chai Nat,0,0.0,0,0.0,317263,2024,Measles Total
+Kamphaeng Phet,0,0.0,0,0.0,706861,2024,Measles Total
+Nakhon Sawan,2,0.2,0,0.0,1025348,2024,Measles Total
+Phichit,6,1.15,0,0.0,523925,2024,Measles Total
+Uthai Thani,1,0.31,0,0.0,323066,2024,Measles Total
+ZONE:04,32,0.59,0,0.0,5438863,2024,Measles Total
+Ang Thong,1,0.37,0,0.0,271656,2024,Measles Total
+Lop Buri,4,0.55,0,0.0,732495,2024,Measles Total
+Nakhon Nayok,0,0.0,0,0.0,260261,2024,Measles Total
+Nonthaburi,19,1.46,0,0.0,1302004,2024,Measles Total
+P.Nakhon S.Ayutthaya,2,0.24,0,0.0,821261,2024,Measles Total
+Pathum Thani,4,0.33,0,0.0,1210365,2024,Measles Total
+Saraburi,2,0.31,0,0.0,638704,2024,Measles Total
+Sing Buri,0,0.0,0,0.0,202117,2024,Measles Total
+ZONE:05,34,0.64,0,0.0,5326695,2024,Measles Total
+Kanchanaburi,5,0.56,0,0.0,894781,2024,Measles Total
+Nakhon Pathom,4,0.43,0,0.0,923201,2024,Measles Total
+Phetchaburi,1,0.21,0,0.0,483305,2024,Measles Total
+Prachuap Khiri Khan,4,0.72,0,0.0,552137,2024,Measles Total
+Ratchaburi,12,1.39,0,0.0,865276,2024,Measles Total
+Samut Sakhon,6,1.02,0,0.0,590730,2024,Measles Total
+Samut Songkhram,1,0.53,0,0.0,188723,2024,Measles Total
+Suphan Buri,1,0.12,0,0.0,828542,2024,Measles Total
+ZONE:06,90,1.43,0,0.0,6292163,2024,Measles Total
+Chachoengsao,5,0.69,0,0.0,728615,2024,Measles Total
+Chanthaburi,10,1.86,0,0.0,536290,2024,Measles Total
+Chon Buri,37,2.3,0,0.0,1606412,2024,Measles Total
+Prachin Buri,6,1.2,0,0.0,498671,2024,Measles Total
+Rayong,14,1.83,0,0.0,765287,2024,Measles Total
+Sa Kaeo,2,0.36,0,0.0,562860,2024,Measles Total
+Samut Prakan,16,1.17,0,0.0,1366598,2024,Measles Total
+Trat,0,0.0,0,0.0,227430,2024,Measles Total
+ZONE:07,18,0.36,0,0.0,4981337,2024,Measles Total
+Kalasin,3,0.31,0,0.0,970084,2024,Measles Total
+Khon Kaen,9,0.51,0,0.0,1782008,2024,Measles Total
+Maha Sarakham,1,0.11,0,0.0,941261,2024,Measles Total
+Roi Et,5,0.39,0,0.0,1287984,2024,Measles Total
+ZONE:08,20,0.36,0,0.0,5500012,2024,Measles Total
+Bungkan,3,0.71,0,0.0,421086,2024,Measles Total
+Loei,3,0.47,0,0.0,636242,2024,Measles Total
+Nakhon Phanom,2,0.28,0,0.0,715466,2024,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,507599,2024,Measles Total
+Nong Khai,1,0.19,0,0.0,514909,2024,Measles Total
+Sakon Nakhon,2,0.17,0,0.0,1143922,2024,Measles Total
+Udon Thani,9,0.58,0,0.0,1560788,2024,Measles Total
+ZONE:09,18,0.27,0,0.0,6689028,2024,Measles Total
+Buri Ram,4,0.25,0,0.0,1575073,2024,Measles Total
+Chaiyaphum,1,0.09,0,0.0,1115652,2024,Measles Total
+Nakhon Ratchasima,8,0.3,0,0.0,2627927,2024,Measles Total
+Surin,5,0.36,0,0.0,1370376,2024,Measles Total
+ZONE:10,62,1.35,0,0.0,4578831,2024,Measles Total
+Amnat Charoen,0,0.0,0,0.0,374760,2024,Measles Total
+Mukdahan,1,0.28,0,0.0,351592,2024,Measles Total
+Si Sa Ket,5,0.34,0,0.0,1452532,2024,Measles Total
+Ubon Ratchathani,55,2.94,0,0.0,1869708,2024,Measles Total
+Yasothon,1,0.19,0,0.0,530239,2024,Measles Total
+ZONE:11,82,1.83,1,0.02,4489783,2024,Measles Total
+Chumphon,4,0.79,0,0.0,509122,2024,Measles Total
+Krabi,7,1.46,0,0.0,481089,2024,Measles Total
+Nakhon Si Thammarat,10,0.65,0,0.0,1543051,2024,Measles Total
+Phangnga,1,0.37,0,0.0,267250,2024,Measles Total
+Phuket,20,4.75,0,0.0,420746,2024,Measles Total
+Ranong,1,0.52,0,0.0,193799,2024,Measles Total
+Surat Thani,39,3.63,1,0.09,1074726,2024,Measles Total
+ZONE:12,7403,147.61,8,0.16,5015209,2024,Measles Total
+Narathiwat,2066,252.99,1,0.12,816642,2024,Measles Total
+Pattani,2894,393.73,3,0.41,735017,2024,Measles Total
+Phatthalung,7,1.34,0,0.0,521109,2024,Measles Total
+Satun,30,9.22,0,0.0,325387,2024,Measles Total
+Songkhla,655,45.76,3,0.21,1431512,2024,Measles Total
+Trang,2,0.31,0,0.0,637612,2024,Measles Total
+Yala,1749,319.2,1,0.18,547930,2024,Measles Total
+ZONE:13,53,0.97,0,0.0,5483259,2024,Measles Total
+Bangkok,53,0.97,0,0.0,5483259,2024,Measles Total
+Total,6071,9.57,0,0.0,63457439,2009,Measles Total
+Central Region,2615,12.23,0,0.0,21386001,2009,Measles Total
+Bangkok,578,10.13,0,0.0,5706739,2009,Measles Total
+Zone:1,340,10.01,0,0.0,3397461,2009,Measles Total
+Nonthaburi,110,10.33,0,0.0,1065332,2009,Measles Total
+P.Nakhon S.Ayutthaya,79,10.23,0,0.0,772142,2009,Measles Total
+Pathum Thani,87,9.23,0,0.0,942813,2009,Measles Total
+Saraburi,64,10.37,0,0.0,617174,2009,Measles Total
+Zone:2,63,3.96,0,0.0,1590058,2009,Measles Total
+Ang Thong,13,4.56,0,0.0,284819,2009,Measles Total
+Chai Nat,8,2.38,0,0.0,335686,2009,Measles Total
+Lop Buri,35,4.64,0,0.0,754127,2009,Measles Total
+Sing Buri,7,3.25,0,0.0,215426,2009,Measles Total
+Zone:3,490,15.93,0,0.0,3076347,2009,Measles Total
+Chachoengsao,105,15.74,0,0.0,666907,2009,Measles Total
+Nakhon Nayok,11,4.38,0,0.0,251219,2009,Measles Total
+Prachin Buri,118,25.62,0,0.0,460617,2009,Measles Total
+Sa Kaeo,62,11.44,0,0.0,541939,2009,Measles Total
+Samut Prakan,194,16.79,0,0.0,1155665,2009,Measles Total
+Zone:4,249,7.4,0,0.0,3364769,2009,Measles Total
+Kanchanaburi,103,12.3,0,0.0,837165,2009,Measles Total
+Nakhon Pathom,56,6.61,0,0.0,847513,2009,Measles Total
+Ratchaburi,51,6.1,0,0.0,835546,2009,Measles Total
+Suphan Buri,39,4.62,0,0.0,844545,2009,Measles Total
+Zone:5,264,16.12,0,0.0,1637557,2009,Measles Total
+Phetchaburi,43,9.35,0,0.0,460108,2009,Measles Total
+Prachuap Khiri Khan,15,2.99,0,0.0,502221,2009,Measles Total
+Samut Sakhon,201,41.76,0,0.0,481377,2009,Measles Total
+Samut Songkhram,5,2.58,0,0.0,193851,2009,Measles Total
+Zone:9,631,24.15,0,0.0,2613070,2009,Measles Total
+Chanthaburi,46,9.03,0,0.0,509633,2009,Measles Total
+Chon Buri,503,39.38,0,0.0,1277139,2009,Measles Total
+Rayong,66,10.9,0,0.0,605380,2009,Measles Total
+Trat,16,7.24,0,0.0,220918,2009,Measles Total
+South Region,980,11.16,0,0.0,8777720,2009,Measles Total
+Zone:6,132,3.78,0,0.0,3496373,2009,Measles Total
+Chumphon,6,1.23,0,0.0,486233,2009,Measles Total
+Nakhon Si Thammarat,57,3.76,0,0.0,1514832,2009,Measles Total
+Phatthalung,20,3.95,0,0.0,506454,2009,Measles Total
+Surat Thani,49,4.96,0,0.0,988854,2009,Measles Total
+Zone:7,128,7.1,0,0.0,1803902,2009,Measles Total
+Krabi,34,8.04,0,0.0,422631,2009,Measles Total
+Phangnga,21,8.37,0,0.0,250796,2009,Measles Total
+Phuket,50,15.08,0,0.0,331460,2009,Measles Total
+Ranong,10,5.49,0,0.0,182242,2009,Measles Total
+Trang,13,2.11,0,0.0,616773,2009,Measles Total
+Zone:8,720,20.7,0,0.0,3477445,2009,Measles Total
+Narathiwat,292,40.33,0,0.0,724001,2009,Measles Total
+Pattani,234,36.28,0,0.0,644897,2009,Measles Total
+Satun,20,6.88,0,0.0,290755,2009,Measles Total
+Songkhla,64,4.78,0,0.0,1339861,2009,Measles Total
+Yala,110,23.02,0,0.0,477931,2009,Measles Total
+North-Eastern Region,1118,5.21,0,0.0,21469269,2009,Measles Total
+Zone:10,127,3.56,0,0.0,3564168,2009,Measles Total
+Loei,11,1.78,0,0.0,619602,2009,Measles Total
+Nong Bua Lam Phu,2,0.4,0,0.0,500217,2009,Measles Total
+Nong Khai,63,6.95,0,0.0,907064,2009,Measles Total
+Udon Thani,51,3.32,0,0.0,1537285,2009,Measles Total
+Zone:11,48,2.23,0,0.0,2155042,2009,Measles Total
+Mukdahan,10,2.96,0,0.0,337773,2009,Measles Total
+Nakhon Phanom,16,2.29,0,0.0,700027,2009,Measles Total
+Sakon Nakhon,22,1.97,0,0.0,1117242,2009,Measles Total
+Zone:12,228,4.57,0,0.0,4984201,2009,Measles Total
+Kalasin,29,2.96,0,0.0,979371,2009,Measles Total
+Khon Kaen,125,7.11,0,0.0,1759172,2009,Measles Total
+Maha Sarakham,63,6.72,0,0.0,937972,2009,Measles Total
+Roi Et,11,0.84,0,0.0,1307686,2009,Measles Total
+Zone:13,127,3.06,0,0.0,4152834,2009,Measles Total
+Amnat Charoen,6,1.62,0,0.0,370141,2009,Measles Total
+Si Sa Ket,40,2.77,0,0.0,1443879,2009,Measles Total
+Ubon Ratchathani,60,3.33,0,0.0,1799604,2009,Measles Total
+Yasothon,21,3.89,0,0.0,539210,2009,Measles Total
+Zone:14,588,8.89,0,0.0,6613024,2009,Measles Total
+Buri Ram,219,14.18,0,0.0,1544218,2009,Measles Total
+Chaiyaphum,22,1.96,0,0.0,1123907,2009,Measles Total
+Nakhon Ratchasima,228,8.88,0,0.0,2568205,2009,Measles Total
+Surin,119,8.64,0,0.0,1376694,2009,Measles Total
+North Region,1358,11.48,0,0.0,11824449,2009,Measles Total
+Zone:15,397,12.93,0,0.0,3069670,2009,Measles Total
+Chiang Mai,340,20.59,0,0.0,1651433,2009,Measles Total
+Lampang,24,3.13,0,0.0,766057,2009,Measles Total
+Lamphun,22,5.43,0,0.0,404910,2009,Measles Total
+Mae Hong Son,11,4.45,0,0.0,247270,2009,Measles Total
+Zone:16,199,7.55,0,0.0,2636963,2009,Measles Total
+Chiang Rai,70,5.78,0,0.0,1211126,2009,Measles Total
+Nan,22,4.62,0,0.0,475799,2009,Measles Total
+Phayao,83,17.03,0,0.0,487254,2009,Measles Total
+Phrae,24,5.19,0,0.0,462784,2009,Measles Total
+Zone:17,477,13.88,0,0.0,3436350,2009,Measles Total
+Phetchabun,29,2.91,0,0.0,995679,2009,Measles Total
+Phitsanulok,50,5.92,0,0.0,844779,2009,Measles Total
+Sukhothai,23,3.81,0,0.0,603316,2009,Measles Total
+Tak,317,59.92,0,0.0,528997,2009,Measles Total
+Uttaradit,58,12.51,0,0.0,463579,2009,Measles Total
+Zone:18,285,10.63,0,0.0,2681466,2009,Measles Total
+Kamphaeng Phet,117,16.1,0,0.0,726530,2009,Measles Total
+Nakhon Sawan,93,8.66,0,0.0,1073554,2009,Measles Total
+Phichit,58,10.48,0,0.0,553653,2009,Measles Total
+Uthai Thani,17,5.19,0,0.0,327729,2009,Measles Total
+Total,3588,5.73,1,0.0,62623416,,Measles Total
+North Region,931,7.83,0,0.0,11887142,,Measles Total
+Zone:1,566,9.85,0,0.0,5748673,,Measles Total
+Chiang Mai,74,4.47,0,0.0,1654154,,Measles Total
+Chiang Rai,134,10.94,0,0.0,1225386,,Measles Total
+Lampang,30,3.87,0,0.0,775259,,Measles Total
+Lamphun,20,4.94,0,0.0,405146,,Measles Total
+Mae Hong Son,27,10.61,0,0.0,254392,,Measles Total
+Nan,209,43.74,0,0.0,477871,,Measles Total
+Phayao,57,11.72,0,0.0,486554,,Measles Total
+Phrae,15,3.19,0,0.0,469911,,Measles Total
+Zone:2,251,7.28,0,0.0,3448091,,Measles Total
+Phetchabun,60,5.99,0,0.0,1002388,,Measles Total
+Phitsanulok,32,3.8,0,0.0,842739,,Measles Total
+Sukhothai,47,7.71,0,0.0,609591,,Measles Total
+Tak,59,11.24,0,0.0,524938,,Measles Total
+Uttaradit,53,11.31,0,0.0,468435,,Measles Total
+Zone:3,114,4.24,0,0.0,2690378,,Measles Total
+Kamphaeng Phet,29,3.98,0,0.0,728293,,Measles Total
+Nakhon Sawan,60,5.57,0,0.0,1076911,,Measles Total
+Phichit,17,3.04,0,0.0,558314,,Measles Total
+Uthai Thani,8,2.45,0,0.0,326860,,Measles Total
+Central Region,1479,7.1,0,0.0,20825142,,Measles Total
+Bangkok,350,6.16,0,0.0,5677455,,Measles Total
+Zone:4,151,5.28,0,0.0,2858658,,Measles Total
+Ang Thong,7,2.47,0,0.0,283861,,Measles Total
+Nonthaburi,28,2.84,0,0.0,985669,,Measles Total
+P.Nakhon S.Ayutthaya,96,12.79,0,0.0,750757,,Measles Total
+Pathum Thani,20,2.39,0,0.0,838371,,Measles Total
+Zone:5,85,4.44,0,0.0,1915186,,Measles Total
+Chai Nat,5,1.47,0,0.0,339568,,Measles Total
+Lop Buri,28,3.72,0,0.0,752364,,Measles Total
+Saraburi,39,6.44,0,0.0,605897,,Measles Total
+Sing Buri,13,5.98,0,0.0,217357,,Measles Total
+Zone:6,318,9.59,0,0.0,3315213,,Measles Total
+Kanchanaburi,143,17.22,0,0.0,830309,,Measles Total
+Nakhon Pathom,61,7.48,0,0.0,815433,,Measles Total
+Ratchaburi,53,6.41,0,0.0,826212,,Measles Total
+Suphan Buri,61,7.23,0,0.0,843259,,Measles Total
+Zone:7,90,5.63,0,0.0,1598232,,Measles Total
+Phetchaburi,18,3.95,0,0.0,455332,,Measles Total
+Prachuap Khiri Khan,15,3.06,0,0.0,490607,,Measles Total
+Samut Sakhon,55,12.03,0,0.0,457264,,Measles Total
+Samut Songkhram,2,1.03,0,0.0,195029,,Measles Total
+Zone:8,213,7.14,0,0.0,2983258,,Measles Total
+Chachoengsao,70,10.75,0,0.0,650909,,Measles Total
+Nakhon Nayok,13,5.19,0,0.0,250392,,Measles Total
+Prachin Buri,49,10.85,0,0.0,451721,,Measles Total
+Sa Kaeo,15,2.79,0,0.0,537661,,Measles Total
+Samut Prakan,66,6.04,0,0.0,1092575,,Measles Total
+Zone:9,272,10.98,0,0.0,2477140,,Measles Total
+Chanthaburi,58,11.59,0,0.0,500275,,Measles Total
+Chon Buri,128,10.75,0,0.0,1190861,,Measles Total
+Rayong,60,10.59,0,0.0,566461,,Measles Total
+Trat,26,11.84,0,0.0,219543,,Measles Total
+North-Eastern Region,666,3.12,0,0.0,21352480,,Measles Total
+Zone:10,55,1.56,0,0.0,3533061,,Measles Total
+Loei,15,2.45,0,0.0,612863,,Measles Total
+Nong Bua Lam Phu,15,3.02,0,0.0,496675,,Measles Total
+Nong Khai,5,0.56,0,0.0,897840,,Measles Total
+Udon Thani,20,1.31,0,0.0,1525683,,Measles Total
+Zone:11,49,1.58,0,0.0,3110390,,Measles Total
+Kalasin,19,1.95,0,0.0,974560,,Measles Total
+Mukdahan,1,0.3,0,0.0,334781,,Measles Total
+Nakhon Phanom,17,2.45,0,0.0,694473,,Measles Total
+Sakon Nakhon,12,1.08,0,0.0,1106576,,Measles Total
+Zone:12,36,0.9,0,0.0,3996666,,Measles Total
+Khon Kaen,18,1.03,0,0.0,1749021,,Measles Total
+Maha Sarakham,14,1.49,0,0.0,937285,,Measles Total
+Roi Et,4,0.31,0,0.0,1310360,,Measles Total
+Zone:13,275,4.18,0,0.0,6578271,,Measles Total
+Buri Ram,51,3.32,0,0.0,1534076,,Measles Total
+Chaiyaphum,37,3.31,0,0.0,1118040,,Measles Total
+Nakhon Ratchasima,120,4.7,0,0.0,2551176,,Measles Total
+Surin,67,4.87,0,0.0,1374979,,Measles Total
+Zone:14,251,6.07,0,0.0,4134092,,Measles Total
+Amnat Charoen,13,3.52,0,0.0,368863,,Measles Total
+Si Sa Ket,67,4.64,0,0.0,1445230,,Measles Total
+Ubon Ratchathani,158,8.88,0,0.0,1778922,,Measles Total
+Yasothon,13,2.4,0,0.0,541077,,Measles Total
+South Region,512,5.98,1,0.01,8558652,,Measles Total
+Zone:15,120,7.45,1,0.06,1610374,,Measles Total
+Chumphon,26,5.45,0,0.0,477364,,Measles Total
+Ranong,41,22.91,1,0.56,178986,,Measles Total
+Surat Thani,53,5.56,0,0.0,954024,,Measles Total
+Zone:16,78,2.98,0,0.0,2614100,,Measles Total
+Nakhon Si Thammarat,40,2.65,0,0.0,1507440,,Measles Total
+Phatthalung,27,5.38,0,0.0,501912,,Measles Total
+Trang,11,1.82,0,0.0,604748,,Measles Total
+Zone:17,120,12.77,0,0.0,939424,,Measles Total
+Krabi,9,2.25,0,0.0,399514,,Measles Total
+Phangnga,11,4.52,0,0.0,243419,,Measles Total
+Phuket,100,33.73,0,0.0,296491,,Measles Total
+Zone:18,142,7.87,0,0.0,1805088,,Measles Total
+Narathiwat,46,6.54,0,0.0,703848,,Measles Total
+Pattani,65,10.24,0,0.0,635053,,Measles Total
+Yala,31,6.65,0,0.0,466187,,Measles Total
+Zone:19,52,3.27,0,0.0,1589666,,Measles Total
+Satun,9,3.22,0,0.0,279705,,Measles Total
+Songkhla,43,3.28,0,0.0,1309961,,Measles Total
+Total,4519,7.18,1,0.0,62939819,2003,Measles Total
+North Region,1192,9.83,0,0.0,12120537,2003,Measles Total
+Zone:1,677,11.75,0,0.0,5764017,2003,Measles Total
+Chiang Mai,156,9.75,0,0.0,1599538,2003,Measles Total
+Chiang Rai,101,8.12,0,0.0,1244564,2003,Measles Total
+Lampang,238,29.79,0,0.0,798996,2003,Measles Total
+Lamphun,63,15.44,0,0.0,408122,2003,Measles Total
+Mae Hong Son,10,4.18,0,0.0,239128,2003,Measles Total
+Nan,46,9.49,0,0.0,484961,2003,Measles Total
+Phayao,43,8.51,0,0.0,505032,2003,Measles Total
+Phrae,20,4.13,0,0.0,483676,2003,Measles Total
+Zone:2,210,5.96,0,0.0,3523807,2003,Measles Total
+Phetchabun,68,6.5,0,0.0,1046537,2003,Measles Total
+Phitsanulok,35,4.03,0,0.0,867520,2003,Measles Total
+Sukhothai,40,6.42,0,0.0,623396,2003,Measles Total
+Tak,39,7.75,0,0.0,503042,2003,Measles Total
+Uttaradit,28,5.79,0,0.0,483312,2003,Measles Total
+Zone:3,305,10.77,0,0.0,2832713,2003,Measles Total
+Kamphaeng Phet,50,6.48,0,0.0,771177,2003,Measles Total
+Nakhon Sawan,149,13.2,0,0.0,1128789,2003,Measles Total
+Phichit,27,4.54,0,0.0,594918,2003,Measles Total
+Uthai Thani,79,23.38,0,0.0,337829,2003,Measles Total
+Central Region,1273,6.14,1,0.0,20726962,2003,Measles Total
+Zone:0,51,0.88,0,0.0,5813383,2003,Measles Total
+Bangkok,51,0.88,0,0.0,5813383,2003,Measles Total
+Zone:4,337,12.58,0,0.0,2679573,2003,Measles Total
+Ang Thong,12,4.13,0,0.0,290623,2003,Measles Total
+Nonthaburi,65,7.1,0,0.0,915043,2003,Measles Total
+P.Nakhon S.Ayutthaya,91,12.14,0,0.0,749751,2003,Measles Total
+Pathum Thani,169,23.34,0,0.0,724156,2003,Measles Total
+Zone:5,175,8.91,0,0.0,1964953,2003,Measles Total
+Chai Nat,12,3.43,0,0.0,349881,2003,Measles Total
+Lop Buri,50,6.51,0,0.0,768250,2003,Measles Total
+Saraburi,99,15.87,0,0.0,623783,2003,Measles Total
+Sing Buri,14,6.28,0,0.0,223039,2003,Measles Total
+Zone:6,200,6.05,1,0.03,3304766,2003,Measles Total
+Kanchanaburi,49,6.13,0,0.0,799588,2003,Measles Total
+Nakhon Pathom,52,6.44,1,0.12,807180,2003,Measles Total
+Ratchaburi,48,5.77,0,0.0,832005,2003,Measles Total
+Suphan Buri,51,5.89,0,0.0,865993,2003,Measles Total
+Zone:7,47,2.93,0,0.0,1602142,2003,Measles Total
+Phetchaburi,7,1.52,0,0.0,461539,2003,Measles Total
+Prachuap Khiri Khan,8,1.63,0,0.0,490479,2003,Measles Total
+Samut Sakhon,22,4.94,0,0.0,445557,2003,Measles Total
+Samut Songkhram,10,4.89,0,0.0,204567,2003,Measles Total
+Zone:8,280,9.55,0,0.0,2933038,2003,Measles Total
+Chachoengsao,105,16.13,0,0.0,651130,2003,Measles Total
+Nakhon Nayok,8,3.18,0,0.0,251471,2003,Measles Total
+Prachin Buri,67,14.78,0,0.0,453379,2003,Measles Total
+Sa Kaeo,22,4.07,0,0.0,540274,2003,Measles Total
+Samut Prakan,78,7.52,0,0.0,1036784,2003,Measles Total
+Zone:9,183,7.53,0,0.0,2429107,2003,Measles Total
+Chanthaburi,23,4.52,0,0.0,508799,2003,Measles Total
+Chon Buri,68,5.95,0,0.0,1143498,2003,Measles Total
+Rayong,74,13.41,0,0.0,551652,2003,Measles Total
+Trat,18,7.99,0,0.0,225158,2003,Measles Total
+North-Eastern Region,1626,7.52,0,0.0,21634442,2003,Measles Total
+Zone:10,120,3.35,0,0.0,3579272,2003,Measles Total
+Loei,15,2.38,0,0.0,629836,2003,Measles Total
+Nong Bua Lam Phu,26,5.21,0,0.0,499257,2003,Measles Total
+Nong Khai,16,1.76,0,0.0,911409,2003,Measles Total
+Udon Thani,63,4.09,0,0.0,1538770,2003,Measles Total
+Zone:11,171,5.42,0,0.0,3157810,2003,Measles Total
+Kalasin,113,11.39,0,0.0,992407,2003,Measles Total
+Mukdahan,11,3.25,0,0.0,338675,2003,Measles Total
+Nakhon Phanom,10,1.4,0,0.0,715991,2003,Measles Total
+Sakon Nakhon,37,3.33,0,0.0,1110737,2003,Measles Total
+Zone:12,87,2.16,0,0.0,4035398,2003,Measles Total
+Khon Kaen,38,2.15,0,0.0,1769124,2003,Measles Total
+Maha Sarakham,17,1.8,0,0.0,943647,2003,Measles Total
+Roi Et,32,2.42,0,0.0,1322627,2003,Measles Total
+Zone:13,878,13.15,0,0.0,6676759,2003,Measles Total
+Buri Ram,275,17.74,0,0.0,1549894,2003,Measles Total
+Chaiyaphum,41,3.6,0,0.0,1137725,2003,Measles Total
+Nakhon Ratchasima,430,16.63,0,0.0,2586146,2003,Measles Total
+Surin,132,9.41,0,0.0,1402994,2003,Measles Total
+Zone:14,370,8.84,0,0.0,4185203,2003,Measles Total
+Amnat Charoen,41,11.07,0,0.0,370494,2003,Measles Total
+Si Sa Ket,224,15.32,0,0.0,1462254,2003,Measles Total
+Ubon Ratchathani,76,4.22,0,0.0,1799048,2003,Measles Total
+Yasothon,29,5.24,0,0.0,553407,2003,Measles Total
+South Region,428,5.06,0,0.0,8457878,2003,Measles Total
+Zone:15,78,4.98,0,0.0,1566662,2003,Measles Total
+Chumphon,25,5.26,0,0.0,475467,2003,Measles Total
+Ranong,2,1.22,0,0.0,163298,2003,Measles Total
+Surat Thani,51,5.5,0,0.0,927897,2003,Measles Total
+Zone:16,89,3.37,0,0.0,2642568,2003,Measles Total
+Nakhon Si Thammarat,62,4.05,0,0.0,1532483,2003,Measles Total
+Phatthalung,20,3.96,0,0.0,504526,2003,Measles Total
+Trang,7,1.16,0,0.0,605559,2003,Measles Total
+Zone:17,15,1.67,0,0.0,895704,2003,Measles Total
+Krabi,7,1.84,0,0.0,381184,2003,Measles Total
+Phangnga,0,0.0,0,0.0,240062,2003,Measles Total
+Phuket,8,2.91,0,0.0,274458,2003,Measles Total
+Zone:18,176,9.79,0,0.0,1797937,2003,Measles Total
+Narathiwat,84,11.93,0,0.0,704096,2003,Measles Total
+Pattani,48,7.6,0,0.0,631288,2003,Measles Total
+Yala,44,9.51,0,0.0,462553,2003,Measles Total
+Zone:19,70,4.5,0,0.0,1555007,2003,Measles Total
+Satun,8,2.94,0,0.0,272252,2003,Measles Total
+Songkhla,62,4.83,0,0.0,1282755,2003,Measles Total
+Total,4165,6.66,0,0.0,62526710,2004,Measles Total
+North Region,908,7.59,0,0.0,11965439,2004,Measles Total
+Zone:1,307,5.37,0,0.0,5720315,2004,Measles Total
+Chiang Mai,117,7.24,0,0.0,1616995,2004,Measles Total
+Chiang Rai,54,4.45,0,0.0,1214659,2004,Measles Total
+Lampang,24,3.05,0,0.0,788071,2004,Measles Total
+Lamphun,17,4.18,0,0.0,406911,2004,Measles Total
+Mae Hong Son,9,3.73,0,0.0,240988,2004,Measles Total
+Nan,17,3.54,0,0.0,479968,2004,Measles Total
+Phayao,53,10.71,0,0.0,494926,2004,Measles Total
+Phrae,16,3.35,0,0.0,477797,2004,Measles Total
+Zone:2,458,13.16,0,0.0,3480797,2004,Measles Total
+Phetchabun,81,7.89,0,0.0,1026733,2004,Measles Total
+Phitsanulok,43,5.03,0,0.0,854440,2004,Measles Total
+Sukhothai,113,18.33,0,0.0,616536,2004,Measles Total
+Tak,78,15.38,0,0.0,507296,2004,Measles Total
+Uttaradit,143,30.06,0,0.0,475792,2004,Measles Total
+Zone:3,143,5.17,0,0.0,2764327,2004,Measles Total
+Kamphaeng Phet,31,4.13,0,0.0,750331,2004,Measles Total
+Nakhon Sawan,84,7.62,0,0.0,1102099,2004,Measles Total
+Phichit,19,3.28,0,0.0,579155,2004,Measles Total
+Uthai Thani,9,2.7,0,0.0,332742,2004,Measles Total
+Central Region,1105,5.36,0,0.0,20631429,2004,Measles Total
+Zone:0,89,1.55,0,0.0,5739370,2004,Measles Total
+Bangkok,89,1.55,0,0.0,5739370,2004,Measles Total
+Zone:4,145,5.33,0,0.0,2721016,2004,Measles Total
+Ang Thong,7,2.44,0,0.0,286896,2004,Measles Total
+Nonthaburi,41,4.39,0,0.0,933591,2004,Measles Total
+P.Nakhon S.Ayutthaya,64,8.58,0,0.0,745828,2004,Measles Total
+Pathum Thani,33,4.37,0,0.0,754701,2004,Measles Total
+Zone:5,94,4.85,0,0.0,1936502,2004,Measles Total
+Chai Nat,12,3.47,0,0.0,345355,2004,Measles Total
+Lop Buri,25,3.29,0,0.0,759000,2004,Measles Total
+Saraburi,52,8.51,0,0.0,610722,2004,Measles Total
+Sing Buri,5,2.26,0,0.0,221425,2004,Measles Total
+Zone:6,209,6.36,0,0.0,3287786,2004,Measles Total
+Kanchanaburi,51,6.34,0,0.0,803802,2004,Measles Total
+Nakhon Pathom,63,7.82,0,0.0,805210,2004,Measles Total
+Ratchaburi,32,3.88,0,0.0,824406,2004,Measles Total
+Suphan Buri,63,7.37,0,0.0,854368,2004,Measles Total
+Zone:7,51,3.21,0,0.0,1587519,2004,Measles Total
+Phetchaburi,11,2.41,0,0.0,456384,2004,Measles Total
+Prachuap Khiri Khan,10,2.06,0,0.0,486084,2004,Measles Total
+Samut Sakhon,25,5.61,0,0.0,445443,2004,Measles Total
+Samut Songkhram,5,2.5,0,0.0,199608,2004,Measles Total
+Zone:8,346,11.79,0,0.0,2934598,2004,Measles Total
+Chachoengsao,107,16.51,0,0.0,647967,2004,Measles Total
+Nakhon Nayok,14,5.59,0,0.0,250235,2004,Measles Total
+Prachin Buri,86,19.11,0,0.0,449940,2004,Measles Total
+Sa Kaeo,30,5.57,0,0.0,538823,2004,Measles Total
+Samut Prakan,109,10.4,0,0.0,1047633,2004,Measles Total
+Zone:9,171,7.05,0,0.0,2424638,2004,Measles Total
+Chanthaburi,23,4.57,0,0.0,502794,2004,Measles Total
+Chon Buri,58,5.04,0,0.0,1150048,2004,Measles Total
+Rayong,78,14.17,0,0.0,550310,2004,Measles Total
+Trat,12,5.42,0,0.0,221486,2004,Measles Total
+North-Eastern Region,1181,5.5,0,0.0,21463567,2004,Measles Total
+Zone:10,73,2.06,0,0.0,3549364,2004,Measles Total
+Loei,13,2.11,0,0.0,617280,2004,Measles Total
+Nong Bua Lam Phu,20,4.02,0,0.0,497298,2004,Measles Total
+Nong Khai,7,0.77,0,0.0,904499,2004,Measles Total
+Udon Thani,33,2.16,0,0.0,1530287,2004,Measles Total
+Zone:11,148,4.73,0,0.0,3127236,2004,Measles Total
+Kalasin,23,2.34,0,0.0,982947,2004,Measles Total
+Mukdahan,16,4.76,0,0.0,335819,2004,Measles Total
+Nakhon Phanom,17,2.43,0,0.0,700800,2004,Measles Total
+Sakon Nakhon,92,8.31,0,0.0,1107670,2004,Measles Total
+Zone:12,97,2.42,0,0.0,4012215,2004,Measles Total
+Khon Kaen,54,3.07,0,0.0,1756177,2004,Measles Total
+Maha Sarakham,16,1.7,0,0.0,939718,2004,Measles Total
+Roi Et,27,2.05,0,0.0,1316320,2004,Measles Total
+Zone:13,568,8.58,0,0.0,6621384,2004,Measles Total
+Buri Ram,80,5.2,0,0.0,1539135,2004,Measles Total
+Chaiyaphum,137,12.15,0,0.0,1128031,2004,Measles Total
+Nakhon Ratchasima,248,9.67,0,0.0,2565197,2004,Measles Total
+Surin,103,7.42,0,0.0,1389021,2004,Measles Total
+Zone:14,295,7.1,0,0.0,4153368,2004,Measles Total
+Amnat Charoen,27,7.32,0,0.0,369071,2004,Measles Total
+Si Sa Ket,88,6.06,0,0.0,1452971,2004,Measles Total
+Ubon Ratchathani,160,8.97,0,0.0,1784192,2004,Measles Total
+Yasothon,20,3.66,0,0.0,547134,2004,Measles Total
+South Region,971,11.47,0,0.0,8466275,2004,Measles Total
+Zone:15,169,10.69,0,0.0,1581379,2004,Measles Total
+Chumphon,70,14.75,0,0.0,474592,2004,Measles Total
+Ranong,19,11.18,0,0.0,169904,2004,Measles Total
+Surat Thani,80,8.54,0,0.0,936883,2004,Measles Total
+Zone:16,136,5.19,0,0.0,2619221,2004,Measles Total
+Nakhon Si Thammarat,84,5.54,0,0.0,1515708,2004,Measles Total
+Phatthalung,19,3.79,0,0.0,501447,2004,Measles Total
+Trang,33,5.48,0,0.0,602066,2004,Measles Total
+Zone:17,33,3.63,0,0.0,908170,2004,Measles Total
+Krabi,24,6.22,0,0.0,386084,2004,Measles Total
+Phangnga,2,0.83,0,0.0,239895,2004,Measles Total
+Phuket,7,2.48,0,0.0,282191,2004,Measles Total
+Zone:18,423,23.55,0,0.0,1795905,2004,Measles Total
+Narathiwat,168,23.97,0,0.0,701008,2004,Measles Total
+Pattani,81,12.81,0,0.0,632240,2004,Measles Total
+Yala,174,37.61,0,0.0,462657,2004,Measles Total
+Zone:19,210,13.45,0,0.0,1561600,2004,Measles Total
+Satun,19,6.94,0,0.0,273624,2004,Measles Total
+Songkhla,191,14.83,0,0.0,1287976,2004,Measles Total
+Total,3526,5.67,0,0.0,62195878,2005,Measles Total
+North Region,755,6.36,0,0.0,11862916,2005,Measles Total
+Zone:1,376,6.56,0,0.0,5729312,2005,Measles Total
+Chiang Mai,116,7.07,0,0.0,1640390,2005,Measles Total
+Chiang Rai,38,3.12,0,0.0,1219732,2005,Measles Total
+Lampang,20,2.57,0,0.0,777827,2005,Measles Total
+Lamphun,11,2.72,0,0.0,404754,2005,Measles Total
+Mae Hong Son,141,56.7,0,0.0,248672,2005,Measles Total
+Nan,7,1.46,0,0.0,477917,2005,Measles Total
+Phayao,14,2.87,0,0.0,487616,2005,Measles Total
+Phrae,29,6.14,0,0.0,472404,2005,Measles Total
+Zone:2,254,7.38,0,0.0,3442642,2005,Measles Total
+Phetchabun,66,6.59,0,0.0,1001820,2005,Measles Total
+Phitsanulok,34,4.04,0,0.0,841248,2005,Measles Total
+Sukhothai,38,6.22,0,0.0,610871,2005,Measles Total
+Tak,101,19.46,0,0.0,519037,2005,Measles Total
+Uttaradit,15,3.19,0,0.0,469666,2005,Measles Total
+Zone:3,125,4.65,0,0.0,2690962,2005,Measles Total
+Kamphaeng Phet,24,3.3,0,0.0,727351,2005,Measles Total
+Nakhon Sawan,69,6.4,0,0.0,1077634,2005,Measles Total
+Phichit,21,3.75,0,0.0,559611,2005,Measles Total
+Uthai Thani,11,3.37,0,0.0,326366,2005,Measles Total
+Central Region,1235,6.01,0,0.0,20560399,2005,Measles Total
+Bangkok,209,3.7,0,0.0,5646543,2005,Measles Total
+Zone:4,100,3.6,0,0.0,2777019,2005,Measles Total
+Ang Thong,2,0.71,0,0.0,283373,2005,Measles Total
+Nonthaburi,46,4.81,0,0.0,957287,2005,Measles Total
+P.Nakhon S.Ayutthaya,36,4.84,0,0.0,743659,2005,Measles Total
+Pathum Thani,16,2.02,0,0.0,792700,2005,Measles Total
+Zone:5,65,3.4,0,0.0,1909368,2005,Measles Total
+Chai Nat,13,3.81,0,0.0,340812,2005,Measles Total
+Lop Buri,22,2.93,0,0.0,750718,2005,Measles Total
+Saraburi,26,4.34,0,0.0,598905,2005,Measles Total
+Sing Buri,4,1.83,0,0.0,218933,2005,Measles Total
+Zone:6,268,8.16,0,0.0,3282327,2005,Measles Total
+Kanchanaburi,125,15.28,0,0.0,818218,2005,Measles Total
+Nakhon Pathom,60,7.47,0,0.0,803489,2005,Measles Total
+Ratchaburi,39,4.76,0,0.0,819286,2005,Measles Total
+Suphan Buri,44,5.23,0,0.0,841334,2005,Measles Total
+Zone:7,60,3.8,0,0.0,1578246,2005,Measles Total
+Phetchaburi,14,3.09,0,0.0,452506,2005,Measles Total
+Prachuap Khiri Khan,8,1.66,0,0.0,483243,2005,Measles Total
+Samut Sakhon,31,6.93,0,0.0,447353,2005,Measles Total
+Samut Songkhram,7,3.59,0,0.0,195144,2005,Measles Total
+Zone:8,211,7.17,0,0.0,2943051,2005,Measles Total
+Chachoengsao,60,9.29,0,0.0,645521,2005,Measles Total
+Nakhon Nayok,10,4.01,0,0.0,249686,2005,Measles Total
+Prachin Buri,14,3.13,0,0.0,447783,2005,Measles Total
+Sa Kaeo,38,7.08,0,0.0,536591,2005,Measles Total
+Samut Prakan,89,8.37,0,0.0,1063470,2005,Measles Total
+Zone:9,322,13.28,0,0.0,2423845,2005,Measles Total
+Chanthaburi,150,30.24,0,0.0,496081,2005,Measles Total
+Chon Buri,37,3.2,0,0.0,1157709,2005,Measles Total
+Rayong,76,13.78,0,0.0,551512,2005,Measles Total
+Trat,59,27.0,0,0.0,218543,2005,Measles Total
+North-Eastern Region,777,3.65,0,0.0,21297778,2005,Measles Total
+Zone:10,118,3.35,0,0.0,3524138,2005,Measles Total
+Loei,30,4.91,0,0.0,611448,2005,Measles Total
+Nong Bua Lam Phu,24,4.84,0,0.0,495626,2005,Measles Total
+Nong Khai,21,2.34,0,0.0,895911,2005,Measles Total
+Udon Thani,43,2.83,0,0.0,1521153,2005,Measles Total
+Zone:11,153,4.93,0,0.0,3101003,2005,Measles Total
+Kalasin,47,4.83,0,0.0,972425,2005,Measles Total
+Mukdahan,8,2.4,0,0.0,333338,2005,Measles Total
+Nakhon Phanom,23,3.32,0,0.0,692377,2005,Measles Total
+Sakon Nakhon,75,6.8,0,0.0,1102863,2005,Measles Total
+Zone:12,72,1.8,0,0.0,3991075,2005,Measles Total
+Khon Kaen,44,2.52,0,0.0,1744646,2005,Measles Total
+Maha Sarakham,17,1.82,0,0.0,935967,2005,Measles Total
+Roi Et,11,0.84,0,0.0,1310462,2005,Measles Total
+Zone:13,250,3.81,0,0.0,6560991,2005,Measles Total
+Buri Ram,20,1.31,0,0.0,1527846,2005,Measles Total
+Chaiyaphum,33,2.95,0,0.0,1117026,2005,Measles Total
+Nakhon Ratchasima,137,5.39,0,0.0,2543054,2005,Measles Total
+Surin,60,4.37,0,0.0,1373065,2005,Measles Total
+Zone:14,184,4.47,0,0.0,4120571,2005,Measles Total
+Amnat Charoen,25,6.79,0,0.0,368153,2005,Measles Total
+Si Sa Ket,53,3.67,0,0.0,1442190,2005,Measles Total
+Ubon Ratchathani,78,4.41,0,0.0,1768935,2005,Measles Total
+Yasothon,28,5.17,0,0.0,541293,2005,Measles Total
+South Region,759,8.96,0,0.0,8474785,2005,Measles Total
+Zone:15,98,6.15,0,0.0,1593965,2005,Measles Total
+Chumphon,19,4.01,0,0.0,473916,2005,Measles Total
+Ranong,36,20.31,0,0.0,177247,2005,Measles Total
+Surat Thani,43,4.56,0,0.0,942802,2005,Measles Total
+Zone:16,123,4.73,0,0.0,2600847,2005,Measles Total
+Nakhon Si Thammarat,58,3.86,0,0.0,1502382,2005,Measles Total
+Phatthalung,26,5.21,0,0.0,499399,2005,Measles Total
+Trang,39,6.51,0,0.0,599066,2005,Measles Total
+Zone:17,47,5.1,0,0.0,921037,2005,Measles Total
+Krabi,23,5.87,0,0.0,391709,2005,Measles Total
+Phangnga,6,2.5,0,0.0,240254,2005,Measles Total
+Phuket,18,6.23,0,0.0,289074,2005,Measles Total
+Zone:18,397,22.16,0,0.0,1791264,2005,Measles Total
+Narathiwat,158,22.66,0,0.0,697150,2005,Measles Total
+Pattani,187,29.58,0,0.0,632119,2005,Measles Total
+Yala,52,11.26,0,0.0,461995,2005,Measles Total
+Zone:19,94,6.0,0,0.0,1567672,2005,Measles Total
+Satun,35,12.69,0,0.0,275706,2005,Measles Total
+Songkhla,59,4.57,0,0.0,1291966,2005,Measles Total
+Total,3156,4.93,0,0.0,63977185,2011,Measles Total
+Central Region,1270,5.86,0,0.0,21679246,2011,Measles Total
+Zone:0,249,4.38,0,0.0,5688119,2011,Measles Total
+Bangkok,249,4.38,0,0.0,5688119,2011,Measles Total
+Zone:1,142,4.04,0,0.0,3514250,2011,Measles Total
+Nonthaburi,50,4.5,0,0.0,1112185,2011,Measles Total
+P.Nakhon S.Ayutthaya,41,5.22,0,0.0,784875,2011,Measles Total
+Pathum Thani,26,2.6,0,0.0,998271,2011,Measles Total
+Saraburi,25,4.04,0,0.0,618919,2011,Measles Total
+Zone:2,129,8.12,0,0.0,1588727,2011,Measles Total
+Ang Thong,10,3.51,0,0.0,284516,2011,Measles Total
+Chai Nat,3,0.9,0,0.0,334096,2011,Measles Total
+Lop Buri,114,15.08,0,0.0,755991,2011,Measles Total
+Sing Buri,2,0.93,0,0.0,214124,2011,Measles Total
+Zone:3,297,9.47,0,0.0,3137098,2011,Measles Total
+Chachoengsao,75,11.08,0,0.0,676652,2011,Measles Total
+Nakhon Nayok,10,3.95,0,0.0,253283,2011,Measles Total
+Prachin Buri,105,22.43,0,0.0,468113,2011,Measles Total
+Sa Kaeo,38,6.97,0,0.0,544848,2011,Measles Total
+Samut Prakan,69,5.78,0,0.0,1194202,2011,Measles Total
+Zone:4,136,4.01,0,0.0,3388832,2011,Measles Total
+Kanchanaburi,24,2.86,0,0.0,839345,2011,Measles Total
+Nakhon Pathom,65,7.53,0,0.0,863155,2011,Measles Total
+Ratchaburi,27,3.21,0,0.0,840880,2011,Measles Total
+Suphan Buri,20,2.37,0,0.0,845452,2011,Measles Total
+Zone:5,117,7.03,0,0.0,1665473,2011,Measles Total
+Phetchaburi,55,11.83,0,0.0,465056,2011,Measles Total
+Prachuap Khiri Khan,16,3.13,0,0.0,510852,2011,Measles Total
+Samut Sakhon,45,9.08,0,0.0,495493,2011,Measles Total
+Samut Songkhram,1,0.52,0,0.0,194072,2011,Measles Total
+Zone:9,200,7.42,0,0.0,2696747,2011,Measles Total
+Chanthaburi,25,4.85,0,0.0,515736,2011,Measles Total
+Chon Buri,110,8.29,0,0.0,1327475,2011,Measles Total
+Rayong,43,6.8,0,0.0,632069,2011,Measles Total
+Trat,22,9.93,0,0.0,221467,2011,Measles Total
+South Region,821,9.19,0,0.0,8932459,2011,Measles Total
+Zone:6,104,2.94,0,0.0,3531913,2011,Measles Total
+Chumphon,21,4.28,0,0.0,491073,2011,Measles Total
+Nakhon Si Thammarat,40,2.62,0,0.0,1524317,2011,Measles Total
+Phatthalung,9,1.76,0,0.0,510299,2011,Measles Total
+Surat Thani,34,3.38,0,0.0,1006224,2011,Measles Total
+Zone:7,85,4.6,0,0.0,1846999,2011,Measles Total
+Krabi,46,10.57,0,0.0,435372,2011,Measles Total
+Phangnga,15,5.91,0,0.0,254022,2011,Measles Total
+Phuket,16,4.58,0,0.0,349457,2011,Measles Total
+Ranong,1,0.55,0,0.0,183464,2011,Measles Total
+Trang,7,1.12,0,0.0,624684,2011,Measles Total
+Zone:8,632,17.79,0,0.0,3553547,2011,Measles Total
+Narathiwat,162,21.83,0,0.0,742268,2011,Measles Total
+Pattani,237,35.94,0,0.0,659373,2011,Measles Total
+Satun,6,2.0,0,0.0,299315,2011,Measles Total
+Songkhla,56,4.11,0,0.0,1362017,2011,Measles Total
+Yala,171,34.86,0,0.0,490574,2011,Measles Total
+North-Eastern Region,588,2.72,0,0.0,21579612,2011,Measles Total
+Zone:10,21,0.59,0,0.0,3588872,2011,Measles Total
+Bungkan,5,2.45,0,0.0,203818,2011,Measles Total
+Loei,0,0.0,0,0.0,624493,2011,Measles Total
+Nong Bua Lam Phu,2,0.4,0,0.0,502710,2011,Measles Total
+Nong Khai,1,0.14,0,0.0,711404,2011,Measles Total
+Udon Thani,13,0.84,0,0.0,1546447,2011,Measles Total
+Zone:11,34,1.57,0,0.0,2167288,2011,Measles Total
+Mukdahan,21,6.18,0,0.0,340079,2011,Measles Total
+Nakhon Phanom,7,0.99,0,0.0,704080,2011,Measles Total
+Sakon Nakhon,6,0.53,0,0.0,1123129,2011,Measles Total
+Zone:12,112,2.24,0,0.0,4996659,2011,Measles Total
+Kalasin,17,1.73,0,0.0,982117,2011,Measles Total
+Khon Kaen,48,2.72,0,0.0,1766834,2011,Measles Total
+Maha Sarakham,39,4.15,0,0.0,940324,2011,Measles Total
+Roi Et,8,0.61,0,0.0,1307384,2011,Measles Total
+Zone:13,119,2.85,0,0.0,4178156,2011,Measles Total
+Amnat Charoen,10,2.69,0,0.0,372190,2011,Measles Total
+Si Sa Ket,45,3.1,0,0.0,1452338,2011,Measles Total
+Ubon Ratchathani,52,2.87,0,0.0,1814573,2011,Measles Total
+Yasothon,12,2.23,0,0.0,539055,2011,Measles Total
+Zone:14,302,4.54,0,0.0,6648637,2011,Measles Total
+Buri Ram,99,6.36,0,0.0,1556426,2011,Measles Total
+Chaiyaphum,21,1.86,0,0.0,1127423,2011,Measles Total
+Nakhon Ratchasima,128,4.95,0,0.0,2583707,2011,Measles Total
+Surin,54,3.91,0,0.0,1381081,2011,Measles Total
+North Region,477,4.05,0,0.0,11785868,2011,Measles Total
+Zone:15,155,5.08,0,0.0,3050706,2011,Measles Total
+Chiang Mai,95,5.78,0,0.0,1643312,2011,Measles Total
+Lampang,34,4.48,0,0.0,759742,2011,Measles Total
+Lamphun,20,4.95,0,0.0,404257,2011,Measles Total
+Mae Hong Son,6,2.47,0,0.0,243395,2011,Measles Total
+Zone:16,61,2.33,0,0.0,2621067,2011,Measles Total
+Chiang Rai,21,1.75,0,0.0,1198438,2011,Measles Total
+Nan,10,2.1,0,0.0,476488,2011,Measles Total
+Phayao,9,1.85,0,0.0,486388,2011,Measles Total
+Phrae,21,4.57,0,0.0,459753,2011,Measles Total
+Zone:17,150,4.37,0,0.0,3435767,2011,Measles Total
+Phetchabun,21,2.11,0,0.0,993420,2011,Measles Total
+Phitsanulok,44,5.17,0,0.0,850525,2011,Measles Total
+Sukhothai,18,2.99,0,0.0,601642,2011,Measles Total
+Tak,42,7.95,0,0.0,528351,2011,Measles Total
+Uttaradit,25,5.41,0,0.0,461829,2011,Measles Total
+Zone:18,111,4.14,0,0.0,2678328,2011,Measles Total
+Kamphaeng Phet,35,4.82,0,0.0,726551,2011,Measles Total
+Nakhon Sawan,67,6.25,0,0.0,1072591,2011,Measles Total
+Phichit,0,0.0,0,0.0,551189,2011,Measles Total
+Uthai Thani,9,2.74,0,0.0,327997,2011,Measles Total
+Total,1887,2.88,0,0.0,65426907,2016,Measles Total
+ZONE:01,80,1.38,0,0.0,5781324,2016,Measles Total
+Chiang Mai,52,3.05,0,0.0,1703263,2016,Measles Total
+Chiang Rai,2,0.16,0,0.0,1242825,2016,Measles Total
+Lampang,0,0.0,0,0.0,752685,2016,Measles Total
+Lamphun,1,0.25,0,0.0,405927,2016,Measles Total
+Mae Hong Son,5,1.92,0,0.0,260971,2016,Measles Total
+Nan,10,2.09,0,0.0,478890,2016,Measles Total
+Phayao,5,1.03,0,0.0,483550,2016,Measles Total
+Phrae,5,1.1,0,0.0,453213,2016,Measles Total
+ZONE:02,25,0.71,0,0.0,3498728,2016,Measles Total
+Phetchabun,8,0.8,0,0.0,996397,2016,Measles Total
+Phitsanulok,4,0.46,0,0.0,861194,2016,Measles Total
+Sukhothai,9,1.49,0,0.0,602085,2016,Measles Total
+Tak,4,0.69,0,0.0,578968,2016,Measles Total
+Uttaradit,0,0.0,0,0.0,460084,2016,Measles Total
+ZONE:03,22,0.73,0,0.0,3011449,2016,Measles Total
+Chai Nat,0,0.0,0,0.0,331968,2016,Measles Total
+Kamphaeng Phet,8,1.1,0,0.0,729839,2016,Measles Total
+Nakhon Sawan,12,1.12,0,0.0,1072349,2016,Measles Total
+Phichit,2,0.37,0,0.0,546750,2016,Measles Total
+Uthai Thani,0,0.0,0,0.0,330543,2016,Measles Total
+ZONE:04,82,1.57,0,0.0,5221125,2016,Measles Total
+Ang Thong,1,0.35,0,0.0,283371,2016,Measles Total
+Lop Buri,8,1.05,0,0.0,758531,2016,Measles Total
+Nakhon Nayok,3,1.16,0,0.0,257939,2016,Measles Total
+Nonthaburi,15,1.27,0,0.0,1183791,2016,Measles Total
+P.Nakhon S.Ayutthaya,3,0.37,0,0.0,805980,2016,Measles Total
+Pathum Thani,39,3.6,0,0.0,1084154,2016,Measles Total
+Saraburi,11,1.73,0,0.0,635567,2016,Measles Total
+Sing Buri,2,0.94,0,0.0,211792,2016,Measles Total
+ZONE:05,65,1.25,0,0.0,5209561,2016,Measles Total
+Kanchanaburi,3,0.35,0,0.0,865172,2016,Measles Total
+Nakhon Pathom,13,1.45,0,0.0,895207,2016,Measles Total
+Phetchaburi,13,2.73,0,0.0,476391,2016,Measles Total
+Prachuap Khiri Khan,3,0.57,0,0.0,529912,2016,Measles Total
+Ratchaburi,2,0.23,0,0.0,860549,2016,Measles Total
+Samut Sakhon,26,4.83,0,0.0,538671,2016,Measles Total
+Samut Songkhram,1,0.51,0,0.0,194283,2016,Measles Total
+Suphan Buri,4,0.47,0,0.0,849376,2016,Measles Total
+ZONE:06,96,1.63,0,0.0,5880124,2016,Measles Total
+Chachoengsao,8,1.15,0,0.0,698190,2016,Measles Total
+Chanthaburi,0,0.0,0,0.0,529194,2016,Measles Total
+Chon Buri,15,1.04,0,0.0,1438231,2016,Measles Total
+Prachin Buri,9,1.87,0,0.0,480755,2016,Measles Total
+Rayong,20,2.93,0,0.0,681696,2016,Measles Total
+Sa Kaeo,8,1.44,0,0.0,554555,2016,Measles Total
+Samut Prakan,36,2.83,0,0.0,1270420,2016,Measles Total
+Trat,0,0.0,0,0.0,227083,2016,Measles Total
+ZONE:07,67,1.33,0,0.0,5049920,2016,Measles Total
+Kalasin,13,1.32,0,0.0,985055,2016,Measles Total
+Khon Kaen,32,1.78,0,0.0,1794032,2016,Measles Total
+Maha Sarakham,4,0.42,0,0.0,962592,2016,Measles Total
+Roi Et,18,1.38,0,0.0,1308241,2016,Measles Total
+ZONE:08,5,0.09,0,0.0,5511930,2016,Measles Total
+Bungkan,0,0.0,0,0.0,419607,2016,Measles Total
+Loei,0,0.0,0,0.0,636666,2016,Measles Total
+Nakhon Phanom,3,0.42,0,0.0,714369,2016,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,509469,2016,Measles Total
+Nong Khai,0,0.0,0,0.0,518420,2016,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1140673,2016,Measles Total
+Udon Thani,2,0.13,0,0.0,1572726,2016,Measles Total
+ZONE:09,76,1.13,0,0.0,6737604,2016,Measles Total
+Buri Ram,8,0.51,0,0.0,1581955,2016,Measles Total
+Chaiyaphum,10,0.88,0,0.0,1137651,2016,Measles Total
+Nakhon Ratchasima,44,1.68,0,0.0,2624668,2016,Measles Total
+Surin,14,1.0,0,0.0,1393330,2016,Measles Total
+ZONE:10,62,1.35,0,0.0,4581192,2016,Measles Total
+Amnat Charoen,6,1.6,0,0.0,375881,2016,Measles Total
+Mukdahan,5,1.44,0,0.0,347059,2016,Measles Total
+Si Sa Ket,12,0.82,0,0.0,1467006,2016,Measles Total
+Ubon Ratchathani,26,1.4,0,0.0,1851049,2016,Measles Total
+Yasothon,13,2.41,0,0.0,540197,2016,Measles Total
+ZONE:11,94,2.14,0,0.0,4383957,2016,Measles Total
+Chumphon,5,0.99,0,0.0,503203,2016,Measles Total
+Krabi,4,0.87,0,0.0,459456,2016,Measles Total
+Nakhon Si Thammarat,27,1.74,0,0.0,1550278,2016,Measles Total
+Phangnga,2,0.76,0,0.0,262721,2016,Measles Total
+Phuket,35,9.15,0,0.0,382485,2016,Measles Total
+Ranong,2,1.1,0,0.0,182313,2016,Measles Total
+Surat Thani,19,1.82,0,0.0,1043501,2016,Measles Total
+ZONE:12,810,16.65,0,0.0,4865646,2016,Measles Total
+Narathiwat,529,67.91,0,0.0,778941,2016,Measles Total
+Pattani,104,15.07,0,0.0,690104,2016,Measles Total
+Phatthalung,2,0.38,0,0.0,521570,2016,Measles Total
+Satun,14,4.45,0,0.0,314297,2016,Measles Total
+Songkhla,9,0.64,0,0.0,1405939,2016,Measles Total
+Trang,3,0.47,0,0.0,639770,2016,Measles Total
+Yala,149,28.93,0,0.0,515025,2016,Measles Total
+ZONE:13,403,7.08,0,0.0,5694347,2016,Measles Total
+Bangkok,403,7.08,0,0.0,5694347,2016,Measles Total
+Total,1015,1.56,0,0.0,65124716,2015,Measles Total
+ZONE:00,112,1.97,0,0.0,5692284,2015,Measles Total
+Bangkok,112,1.97,0,0.0,5692284,2015,Measles Total
+ZONE:01,65,1.14,0,0.0,5709443,2015,Measles Total
+Chiang Mai,29,1.73,0,0.0,1678284,2015,Measles Total
+Chiang Rai,1,0.08,0,0.0,1207699,2015,Measles Total
+Lampang,0,0.0,0,0.0,753013,2015,Measles Total
+Lamphun,2,0.49,0,0.0,405468,2015,Measles Total
+Mae Hong Son,14,5.64,0,0.0,248178,2015,Measles Total
+Nan,8,1.67,0,0.0,478264,2015,Measles Total
+Phayao,6,1.24,0,0.0,484454,2015,Measles Total
+Phrae,5,1.1,0,0.0,454083,2015,Measles Total
+ZONE:02,21,0.61,0,0.0,3457208,2015,Measles Total
+Phetchabun,6,0.6,0,0.0,995807,2015,Measles Total
+Phitsanulok,1,0.12,0,0.0,858988,2015,Measles Total
+Sukhothai,6,1.0,0,0.0,602460,2015,Measles Total
+Tak,8,1.48,0,0.0,539553,2015,Measles Total
+Uttaradit,0,0.0,0,0.0,460400,2015,Measles Total
+ZONE:03,23,0.76,0,0.0,3012283,2015,Measles Total
+Chai Nat,0,0.0,0,0.0,332283,2015,Measles Total
+Kamphaeng Phet,7,0.96,0,0.0,729522,2015,Measles Total
+Nakhon Sawan,12,1.12,0,0.0,1072756,2015,Measles Total
+Phichit,0,0.0,0,0.0,547543,2015,Measles Total
+Uthai Thani,4,1.21,0,0.0,330179,2015,Measles Total
+ZONE:04,82,1.58,0,0.0,5196419,2015,Measles Total
+Ang Thong,0,0.0,0,0.0,283568,2015,Measles Total
+Lop Buri,10,1.32,0,0.0,758406,2015,Measles Total
+Nakhon Nayok,1,0.39,0,0.0,257300,2015,Measles Total
+Nonthaburi,8,0.68,0,0.0,1173870,2015,Measles Total
+P.Nakhon S.Ayutthaya,30,3.73,0,0.0,803599,2015,Measles Total
+Pathum Thani,29,2.7,0,0.0,1074058,2015,Measles Total
+Saraburi,3,0.47,0,0.0,633460,2015,Measles Total
+Sing Buri,1,0.47,0,0.0,212158,2015,Measles Total
+ZONE:05,89,1.72,0,0.0,5166914,2015,Measles Total
+Kanchanaburi,12,1.41,0,0.0,848198,2015,Measles Total
+Nakhon Pathom,11,1.23,0,0.0,891071,2015,Measles Total
+Phetchaburi,13,2.74,0,0.0,474192,2015,Measles Total
+Prachuap Khiri Khan,14,2.67,0,0.0,525107,2015,Measles Total
+Ratchaburi,6,0.7,0,0.0,853217,2015,Measles Total
+Samut Sakhon,22,4.14,0,0.0,531887,2015,Measles Total
+Samut Songkhram,0,0.0,0,0.0,194189,2015,Measles Total
+Suphan Buri,11,1.3,0,0.0,849053,2015,Measles Total
+ZONE:06,183,3.14,0,0.0,5836407,2015,Measles Total
+Chachoengsao,27,3.88,0,0.0,695478,2015,Measles Total
+Chanthaburi,12,2.28,0,0.0,527350,2015,Measles Total
+Chon Buri,56,3.94,0,0.0,1421425,2015,Measles Total
+Prachin Buri,32,6.68,0,0.0,479314,2015,Measles Total
+Rayong,21,3.11,0,0.0,674393,2015,Measles Total
+Sa Kaeo,11,1.99,0,0.0,552187,2015,Measles Total
+Samut Prakan,23,1.82,0,0.0,1261530,2015,Measles Total
+Trat,1,0.44,0,0.0,224730,2015,Measles Total
+ZONE:07,44,0.87,0,0.0,5043862,2015,Measles Total
+Kalasin,15,1.52,0,0.0,984907,2015,Measles Total
+Khon Kaen,25,1.4,0,0.0,1790049,2015,Measles Total
+Maha Sarakham,1,0.1,0,0.0,960588,2015,Measles Total
+Roi Et,3,0.23,0,0.0,1308318,2015,Measles Total
+ZONE:08,16,0.29,0,0.0,5501453,2015,Measles Total
+Bungkan,1,0.24,0,0.0,418566,2015,Measles Total
+Loei,0,0.0,0,0.0,634513,2015,Measles Total
+Nakhon Phanom,5,0.7,0,0.0,713341,2015,Measles Total
+Nong Bua Lam Phu,2,0.39,0,0.0,508864,2015,Measles Total
+Nong Khai,6,1.16,0,0.0,517260,2015,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1138609,2015,Measles Total
+Udon Thani,2,0.13,0,0.0,1570300,2015,Measles Total
+ZONE:09,151,2.24,0,0.0,6728450,2015,Measles Total
+Buri Ram,54,3.42,0,0.0,1579248,2015,Measles Total
+Chaiyaphum,5,0.44,0,0.0,1137049,2015,Measles Total
+Nakhon Ratchasima,66,2.52,0,0.0,2620517,2015,Measles Total
+Surin,26,1.87,0,0.0,1391636,2015,Measles Total
+ZONE:10,71,1.55,0,0.0,4571489,2015,Measles Total
+Amnat Charoen,6,1.6,0,0.0,375380,2015,Measles Total
+Mukdahan,2,0.58,0,0.0,346016,2015,Measles Total
+Si Sa Ket,24,1.64,0,0.0,1465213,2015,Measles Total
+Ubon Ratchathani,30,1.63,0,0.0,1844669,2015,Measles Total
+Yasothon,9,1.67,0,0.0,540211,2015,Measles Total
+ZONE:11,70,1.6,0,0.0,4362467,2015,Measles Total
+Chumphon,5,1.0,0,0.0,500575,2015,Measles Total
+Krabi,16,3.5,0,0.0,456811,2015,Measles Total
+Nakhon Si Thammarat,16,1.03,0,0.0,1548028,2015,Measles Total
+Phangnga,6,2.3,0,0.0,261370,2015,Measles Total
+Phuket,12,3.17,0,0.0,378364,2015,Measles Total
+Ranong,1,0.56,0,0.0,177089,2015,Measles Total
+Surat Thani,14,1.35,0,0.0,1040230,2015,Measles Total
+ZONE:12,88,1.82,0,0.0,4846037,2015,Measles Total
+Narathiwat,33,4.26,0,0.0,774799,2015,Measles Total
+Pattani,13,1.89,0,0.0,686186,2015,Measles Total
+Phatthalung,5,0.96,0,0.0,520419,2015,Measles Total
+Satun,12,3.84,0,0.0,312673,2015,Measles Total
+Songkhla,21,1.5,0,0.0,1401303,2015,Measles Total
+Trang,3,0.47,0,0.0,638746,2015,Measles Total
+Yala,1,0.2,0,0.0,511911,2015,Measles Total
+Total,6556,9.92,23,0.03,66060027,2018,Measles Total
+ZONE:01,278,4.74,0,0.0,5864232,2018,Measles Total
+Chiang Mai,237,13.61,0,0.0,1741301,2018,Measles Total
+Chiang Rai,9,0.7,0,0.0,1285080,2018,Measles Total
+Lampang,2,0.27,0,0.0,747699,2018,Measles Total
+Lamphun,9,2.22,0,0.0,405959,2018,Measles Total
+Mae Hong Son,6,2.16,0,0.0,277486,2018,Measles Total
+Nan,8,1.67,0,0.0,479877,2018,Measles Total
+Phayao,1,0.21,0,0.0,478144,2018,Measles Total
+Phrae,6,1.34,0,0.0,448686,2018,Measles Total
+ZONE:02,145,4.08,0,0.0,3556376,2018,Measles Total
+Phetchabun,1,0.1,0,0.0,995277,2018,Measles Total
+Phitsanulok,11,1.27,0,0.0,865564,2018,Measles Total
+Sukhothai,15,2.5,0,0.0,599775,2018,Measles Total
+Tak,112,17.55,0,0.0,638115,2018,Measles Total
+Uttaradit,6,1.31,0,0.0,457645,2018,Measles Total
+ZONE:03,40,1.33,0,0.0,2998104,2018,Measles Total
+Chai Nat,16,4.85,0,0.0,330077,2018,Measles Total
+Kamphaeng Phet,6,0.82,0,0.0,729337,2018,Measles Total
+Nakhon Sawan,12,1.13,0,0.0,1065895,2018,Measles Total
+Phichit,3,0.55,0,0.0,542674,2018,Measles Total
+Uthai Thani,3,0.91,0,0.0,330121,2018,Measles Total
+ZONE:04,151,2.85,0,0.0,5302492,2018,Measles Total
+Ang Thong,8,2.84,0,0.0,281796,2018,Measles Total
+Lop Buri,20,2.64,0,0.0,757296,2018,Measles Total
+Nakhon Nayok,1,0.39,0,0.0,258850,2018,Measles Total
+Nonthaburi,31,2.54,0,0.0,1220829,2018,Measles Total
+P.Nakhon S.Ayutthaya,15,1.85,0,0.0,812086,2018,Measles Total
+Pathum Thani,76,6.78,0,0.0,1120246,2018,Measles Total
+Saraburi,0,0.0,0,0.0,641052,2018,Measles Total
+Sing Buri,0,0.0,0,0.0,210337,2018,Measles Total
+ZONE:05,454,8.57,0,0.0,5295696,2018,Measles Total
+Kanchanaburi,64,7.22,0,0.0,886546,2018,Measles Total
+Nakhon Pathom,35,3.85,0,0.0,908249,2018,Measles Total
+Phetchaburi,82,17.03,0,0.0,481514,2018,Measles Total
+Prachuap Khiri Khan,115,21.23,0,0.0,541756,2018,Measles Total
+Ratchaburi,13,1.49,0,0.0,870769,2018,Measles Total
+Samut Sakhon,102,18.13,0,0.0,562592,2018,Measles Total
+Samut Songkhram,8,4.12,0,0.0,193985,2018,Measles Total
+Suphan Buri,35,4.12,0,0.0,850285,2018,Measles Total
+ZONE:06,450,7.47,0,0.0,6020790,2018,Measles Total
+Chachoengsao,26,3.68,0,0.0,707145,2018,Measles Total
+Chanthaburi,56,10.5,0,0.0,533463,2018,Measles Total
+Chon Buri,136,9.09,0,0.0,1496086,2018,Measles Total
+Prachin Buri,20,4.11,0,0.0,486187,2018,Measles Total
+Rayong,46,6.52,0,0.0,705729,2018,Measles Total
+Sa Kaeo,28,5.0,0,0.0,560478,2018,Measles Total
+Samut Prakan,131,10.06,0,0.0,1302160,2018,Measles Total
+Trat,7,3.05,0,0.0,229542,2018,Measles Total
+ZONE:07,114,2.25,0,0.0,5060674,2018,Measles Total
+Kalasin,9,0.91,0,0.0,985619,2018,Measles Total
+Khon Kaen,81,4.49,0,0.0,1803831,2018,Measles Total
+Maha Sarakham,6,0.62,0,0.0,963277,2018,Measles Total
+Roi Et,18,1.38,0,0.0,1307947,2018,Measles Total
+ZONE:08,101,1.82,0,0.0,5541473,2018,Measles Total
+Bungkan,0,0.0,0,0.0,422328,2018,Measles Total
+Loei,64,9.99,0,0.0,640734,2018,Measles Total
+Nakhon Phanom,26,3.62,0,0.0,717451,2018,Measles Total
+Nong Bua Lam Phu,2,0.39,0,0.0,511188,2018,Measles Total
+Nong Khai,2,0.38,0,0.0,521125,2018,Measles Total
+Sakon Nakhon,1,0.09,0,0.0,1147710,2018,Measles Total
+Udon Thani,6,0.38,0,0.0,1580937,2018,Measles Total
+ZONE:09,162,2.4,0,0.0,6760383,2018,Measles Total
+Buri Ram,28,1.76,0,0.0,1589900,2018,Measles Total
+Chaiyaphum,24,2.11,0,0.0,1138778,2018,Measles Total
+Nakhon Ratchasima,87,3.3,0,0.0,2635331,2018,Measles Total
+Surin,23,1.65,0,0.0,1396374,2018,Measles Total
+ZONE:10,223,4.84,0,0.0,4604905,2018,Measles Total
+Amnat Charoen,40,10.59,0,0.0,377614,2018,Measles Total
+Mukdahan,1,0.29,0,0.0,350128,2018,Measles Total
+Si Sa Ket,30,2.04,0,0.0,1471185,2018,Measles Total
+Ubon Ratchathani,111,5.95,0,0.0,1866299,2018,Measles Total
+Yasothon,41,7.6,0,0.0,539679,2018,Measles Total
+ZONE:11,121,2.72,0,0.0,4441086,2018,Measles Total
+Chumphon,9,1.77,0,0.0,508627,2018,Measles Total
+Krabi,3,0.64,0,0.0,467851,2018,Measles Total
+Nakhon Si Thammarat,44,2.83,0,0.0,1555957,2018,Measles Total
+Phangnga,4,1.5,0,0.0,266535,2018,Measles Total
+Phuket,34,8.54,0,0.0,398092,2018,Measles Total
+Ranong,0,0.0,0,0.0,189777,2018,Measles Total
+Surat Thani,27,2.56,0,0.0,1054247,2018,Measles Total
+ZONE:12,3547,71.96,23,0.47,4929285,2018,Measles Total
+Narathiwat,389,49.06,1,0.13,792961,2018,Measles Total
+Pattani,1389,196.92,10,1.42,705379,2018,Measles Total
+Phatthalung,4,0.76,0,0.0,524291,2018,Measles Total
+Satun,4,1.26,0,0.0,318655,2018,Measles Total
+Songkhla,394,27.73,2,0.14,1420834,2018,Measles Total
+Trang,17,2.65,0,0.0,642377,2018,Measles Total
+Yala,1350,257.25,10,1.91,524788,2018,Measles Total
+ZONE:13,770,13.55,0,0.0,5684531,2018,Measles Total
+Bangkok,770,13.55,0,0.0,5684531,2018,Measles Total
+Total,265,0.4,0,0.0,66171439,2022,Measles Total
+ZONE:01,36,0.61,0,0.0,5874503,2022,Measles Total
+Chiang Mai,15,0.84,0,0.0,1789385,2022,Measles Total
+Chiang Rai,11,0.85,0,0.0,1298425,2022,Measles Total
+Lampang,2,0.28,0,0.0,724678,2022,Measles Total
+Lamphun,0,0.0,0,0.0,401139,2022,Measles Total
+Mae Hong Son,2,0.7,0,0.0,285916,2022,Measles Total
+Nan,4,0.84,0,0.0,475875,2022,Measles Total
+Phayao,1,0.22,0,0.0,464505,2022,Measles Total
+Phrae,1,0.23,0,0.0,434580,2022,Measles Total
+ZONE:02,3,0.08,0,0.0,3533839,2022,Measles Total
+Phetchabun,0,0.0,0,0.0,978372,2022,Measles Total
+Phitsanulok,0,0.0,0,0.0,847384,2022,Measles Total
+Sukhothai,1,0.17,0,0.0,585352,2022,Measles Total
+Tak,2,0.3,0,0.0,676583,2022,Measles Total
+Uttaradit,0,0.0,0,0.0,446148,2022,Measles Total
+ZONE:03,5,0.17,0,0.0,2922114,2022,Measles Total
+Chai Nat,0,0.0,0,0.0,320432,2022,Measles Total
+Kamphaeng Phet,4,0.56,0,0.0,712143,2022,Measles Total
+Nakhon Sawan,1,0.1,0,0.0,1035028,2022,Measles Total
+Phichit,0,0.0,0,0.0,529395,2022,Measles Total
+Uthai Thani,0,0.0,0,0.0,325116,2022,Measles Total
+ZONE:04,14,0.26,0,0.0,5422367,2022,Measles Total
+Ang Thong,0,0.0,0,0.0,274763,2022,Measles Total
+Lop Buri,0,0.0,0,0.0,739473,2022,Measles Total
+Nakhon Nayok,0,0.0,0,0.0,260433,2022,Measles Total
+Nonthaburi,5,0.39,0,0.0,1288637,2022,Measles Total
+P.Nakhon S.Ayutthaya,2,0.24,0,0.0,820512,2022,Measles Total
+Pathum Thani,6,0.5,0,0.0,1190060,2022,Measles Total
+Saraburi,1,0.16,0,0.0,643963,2022,Measles Total
+Sing Buri,0,0.0,0,0.0,204526,2022,Measles Total
+ZONE:05,10,0.19,0,0.0,5333543,2022,Measles Total
+Kanchanaburi,0,0.0,0,0.0,894054,2022,Measles Total
+Nakhon Pathom,2,0.22,0,0.0,922171,2022,Measles Total
+Phetchaburi,1,0.21,0,0.0,482875,2022,Measles Total
+Prachuap Khiri Khan,3,0.54,0,0.0,553171,2022,Measles Total
+Ratchaburi,0,0.0,0,0.0,868281,2022,Measles Total
+Samut Sakhon,4,0.68,0,0.0,586789,2022,Measles Total
+Samut Songkhram,0,0.0,0,0.0,190842,2022,Measles Total
+Suphan Buri,0,0.0,0,0.0,835360,2022,Measles Total
+ZONE:06,39,0.63,0,0.0,6237892,2022,Measles Total
+Chachoengsao,2,0.28,0,0.0,724178,2022,Measles Total
+Chanthaburi,3,0.56,0,0.0,536557,2022,Measles Total
+Chon Buri,10,0.63,0,0.0,1583672,2022,Measles Total
+Prachin Buri,1,0.2,0,0.0,495325,2022,Measles Total
+Rayong,4,0.53,0,0.0,751343,2022,Measles Total
+Sa Kaeo,2,0.36,0,0.0,561992,2022,Measles Total
+Samut Prakan,16,1.18,0,0.0,1356449,2022,Measles Total
+Trat,1,0.44,0,0.0,228376,2022,Measles Total
+ZONE:07,10,0.2,0,0.0,5010756,2022,Measles Total
+Kalasin,1,0.1,0,0.0,975570,2022,Measles Total
+Khon Kaen,5,0.28,0,0.0,1790863,2022,Measles Total
+Maha Sarakham,0,0.0,0,0.0,948310,2022,Measles Total
+Roi Et,4,0.31,0,0.0,1296013,2022,Measles Total
+ZONE:08,5,0.09,0,0.0,5516407,2022,Measles Total
+Bungkan,2,0.47,0,0.0,421995,2022,Measles Total
+Loei,0,0.0,0,0.0,638732,2022,Measles Total
+Nakhon Phanom,2,0.28,0,0.0,717040,2022,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,509001,2022,Measles Total
+Nong Khai,1,0.19,0,0.0,516843,2022,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1146286,2022,Measles Total
+Udon Thani,0,0.0,0,0.0,1566510,2022,Measles Total
+ZONE:09,15,0.22,0,0.0,6712454,2022,Measles Total
+Buri Ram,7,0.44,0,0.0,1579805,2022,Measles Total
+Chaiyaphum,2,0.18,0,0.0,1122265,2022,Measles Total
+Nakhon Ratchasima,2,0.08,0,0.0,2634154,2022,Measles Total
+Surin,4,0.29,0,0.0,1376230,2022,Measles Total
+ZONE:10,17,0.37,0,0.0,4587303,2022,Measles Total
+Amnat Charoen,0,0.0,0,0.0,376350,2022,Measles Total
+Mukdahan,1,0.28,0,0.0,351484,2022,Measles Total
+Si Sa Ket,2,0.14,0,0.0,1457556,2022,Measles Total
+Ubon Ratchathani,13,0.7,0,0.0,1868519,2022,Measles Total
+Yasothon,1,0.19,0,0.0,533394,2022,Measles Total
+ZONE:11,20,0.45,0,0.0,4492012,2022,Measles Total
+Chumphon,2,0.39,0,0.0,509479,2022,Measles Total
+Krabi,0,0.0,0,0.0,479351,2022,Measles Total
+Nakhon Si Thammarat,4,0.26,0,0.0,1549344,2022,Measles Total
+Phangnga,0,0.0,0,0.0,268016,2022,Measles Total
+Phuket,6,1.43,0,0.0,418785,2022,Measles Total
+Ranong,2,1.03,0,0.0,194573,2022,Measles Total
+Surat Thani,6,0.56,0,0.0,1072464,2022,Measles Total
+ZONE:12,35,0.7,0,0.0,5000255,2022,Measles Total
+Narathiwat,16,1.98,0,0.0,809660,2022,Measles Total
+Pattani,3,0.41,0,0.0,729581,2022,Measles Total
+Phatthalung,0,0.0,0,0.0,522541,2022,Measles Total
+Satun,2,0.62,0,0.0,324835,2022,Measles Total
+Songkhla,8,0.56,0,0.0,1431536,2022,Measles Total
+Trang,0,0.0,0,0.0,639788,2022,Measles Total
+Yala,6,1.11,0,0.0,542314,2022,Measles Total
+ZONE:13,56,1.01,0,0.0,5527994,2022,Measles Total
+Bangkok,56,1.01,0,0.0,5527994,2022,Measles Total
+Total,5161,8.05,0,0.0,64075986,2012,Measles Total
+Central Region,1579,7.26,0,0.0,21734984,2012,Measles Total
+Zone:0,266,4.69,0,0.0,5674843,2012,Measles Total
+Bangkok,266,4.69,0,0.0,5674843,2012,Measles Total
+Zone:1,160,4.52,0,0.0,3541632,2012,Measles Total
+Nonthaburi,39,3.47,0,0.0,1122627,2012,Measles Total
+P.Nakhon S.Ayutthaya,41,5.21,0,0.0,787653,2012,Measles Total
+Pathum Thani,61,6.03,0,0.0,1010898,2012,Measles Total
+Saraburi,19,3.06,0,0.0,620454,2012,Measles Total
+Zone:2,38,2.39,0,0.0,1587031,2012,Measles Total
+Ang Thong,8,2.82,0,0.0,284061,2012,Measles Total
+Chai Nat,4,1.2,0,0.0,333256,2012,Measles Total
+Lop Buri,26,3.44,0,0.0,756127,2012,Measles Total
+Sing Buri,0,0.0,0,0.0,213587,2012,Measles Total
+Zone:3,230,7.3,0,0.0,3151672,2012,Measles Total
+Chachoengsao,61,8.98,0,0.0,679370,2012,Measles Total
+Nakhon Nayok,6,2.36,0,0.0,253831,2012,Measles Total
+Prachin Buri,86,18.31,0,0.0,469652,2012,Measles Total
+Sa Kaeo,25,4.58,0,0.0,545596,2012,Measles Total
+Samut Prakan,52,4.32,0,0.0,1203223,2012,Measles Total
+Zone:4,222,6.54,0,0.0,3392715,2012,Measles Total
+Kanchanaburi,67,7.99,0,0.0,838914,2012,Measles Total
+Nakhon Pathom,70,8.08,0,0.0,866064,2012,Measles Total
+Ratchaburi,49,5.81,0,0.0,842684,2012,Measles Total
+Suphan Buri,36,4.26,0,0.0,845053,2012,Measles Total
+Zone:5,201,12.02,0,0.0,1671831,2012,Measles Total
+Phetchaburi,20,4.29,0,0.0,466079,2012,Measles Total
+Prachuap Khiri Khan,20,3.9,0,0.0,512568,2012,Measles Total
+Samut Sakhon,161,32.26,0,0.0,499098,2012,Measles Total
+Samut Songkhram,0,0.0,0,0.0,194086,2012,Measles Total
+Zone:9,462,17.01,0,0.0,2715260,2012,Measles Total
+Chanthaburi,21,4.06,0,0.0,516855,2012,Measles Total
+Chon Buri,313,23.38,0,0.0,1338656,2012,Measles Total
+Rayong,106,16.62,0,0.0,637736,2012,Measles Total
+Trat,22,9.91,0,0.0,222013,2012,Measles Total
+South Region,1877,20.92,0,0.0,8971808,2012,Measles Total
+Zone:6,175,4.94,0,0.0,3541333,2012,Measles Total
+Chumphon,51,10.36,0,0.0,492182,2012,Measles Total
+Nakhon Si Thammarat,28,1.83,0,0.0,1526071,2012,Measles Total
+Phatthalung,27,5.28,0,0.0,511016,2012,Measles Total
+Surat Thani,69,6.82,0,0.0,1012064,2012,Measles Total
+Zone:7,250,13.46,0,0.0,1857374,2012,Measles Total
+Krabi,21,4.79,0,0.0,438039,2012,Measles Total
+Phangnga,24,9.41,0,0.0,254931,2012,Measles Total
+Phuket,196,55.39,0,0.0,353847,2012,Measles Total
+Ranong,5,2.72,0,0.0,183849,2012,Measles Total
+Trang,4,0.64,0,0.0,626708,2012,Measles Total
+Zone:8,1452,40.64,0,0.0,3573101,2012,Measles Total
+Narathiwat,457,61.15,0,0.0,747372,2012,Measles Total
+Pattani,534,80.48,0,0.0,663485,2012,Measles Total
+Satun,14,4.64,0,0.0,301467,2012,Measles Total
+Songkhla,130,9.51,0,0.0,1367010,2012,Measles Total
+Yala,317,64.2,0,0.0,493767,2012,Measles Total
+North-Eastern Region,983,4.55,0,0.0,21585883,2012,Measles Total
+Zone:10,19,0.53,0,0.0,3593082,2012,Measles Total
+Bungkan,5,1.23,0,0.0,407634,2012,Measles Total
+Loei,1,0.16,0,0.0,624920,2012,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,502551,2012,Measles Total
+Nong Khai,10,1.96,0,0.0,509870,2012,Measles Total
+Udon Thani,3,0.19,0,0.0,1548107,2012,Measles Total
+Zone:11,38,1.75,0,0.0,2168700,2012,Measles Total
+Mukdahan,13,3.82,0,0.0,340581,2012,Measles Total
+Nakhon Phanom,15,2.13,0,0.0,704768,2012,Measles Total
+Sakon Nakhon,10,0.89,0,0.0,1123351,2012,Measles Total
+Zone:12,175,3.51,0,0.0,4992515,2012,Measles Total
+Kalasin,19,1.94,0,0.0,981655,2012,Measles Total
+Khon Kaen,133,7.53,0,0.0,1766066,2012,Measles Total
+Maha Sarakham,15,1.6,0,0.0,939736,2012,Measles Total
+Roi Et,8,0.61,0,0.0,1305058,2012,Measles Total
+Zone:13,146,3.49,0,0.0,4179354,2012,Measles Total
+Amnat Charoen,32,8.6,0,0.0,372241,2012,Measles Total
+Si Sa Ket,45,3.1,0,0.0,1452203,2012,Measles Total
+Ubon Ratchathani,54,2.97,0,0.0,1816057,2012,Measles Total
+Yasothon,15,2.78,0,0.0,538853,2012,Measles Total
+Zone:14,605,9.09,0,0.0,6652232,2012,Measles Total
+Buri Ram,134,8.59,0,0.0,1559085,2012,Measles Total
+Chaiyaphum,10,0.89,0,0.0,1127423,2012,Measles Total
+Nakhon Ratchasima,381,14.74,0,0.0,2585325,2012,Measles Total
+Surin,80,5.8,0,0.0,1380399,2012,Measles Total
+North Region,722,6.13,0,0.0,11783311,2012,Measles Total
+Zone:15,291,9.54,0,0.0,3051678,2012,Measles Total
+Chiang Mai,224,13.61,0,0.0,1646144,2012,Measles Total
+Lampang,10,1.32,0,0.0,757534,2012,Measles Total
+Lamphun,13,3.22,0,0.0,403952,2012,Measles Total
+Mae Hong Son,44,18.03,0,0.0,244048,2012,Measles Total
+Zone:16,181,6.91,0,0.0,2620490,2012,Measles Total
+Chiang Rai,143,11.93,0,0.0,1198656,2012,Measles Total
+Nan,5,1.05,0,0.0,476612,2012,Measles Total
+Phayao,15,3.08,0,0.0,486472,2012,Measles Total
+Phrae,18,3.92,0,0.0,458750,2012,Measles Total
+Zone:17,197,5.73,0,0.0,3435726,2012,Measles Total
+Phetchabun,96,9.69,0,0.0,990807,2012,Measles Total
+Phitsanulok,29,3.41,0,0.0,851357,2012,Measles Total
+Sukhothai,7,1.16,0,0.0,601504,2012,Measles Total
+Tak,50,9.42,0,0.0,531018,2012,Measles Total
+Uttaradit,15,3.25,0,0.0,461040,2012,Measles Total
+Zone:18,53,1.98,0,0.0,2675417,2012,Measles Total
+Kamphaeng Phet,5,0.69,0,0.0,726009,2012,Measles Total
+Nakhon Sawan,38,3.55,0,0.0,1071686,2012,Measles Total
+Phichit,6,1.09,0,0.0,549688,2012,Measles Total
+Uthai Thani,4,1.22,0,0.0,328034,2012,Measles Total
+Total,414,0.63,0,0.0,66130957,2023,Measles Total
+ZONE:01,53,0.9,0,0.0,5869190,2023,Measles Total
+Chiang Mai,35,1.95,0,0.0,1790929,2023,Measles Total
+Chiang Rai,2,0.15,0,0.0,1299030,2023,Measles Total
+Lampang,4,0.55,0,0.0,721734,2023,Measles Total
+Lamphun,1,0.25,0,0.0,400348,2023,Measles Total
+Mae Hong Son,1,0.35,0,0.0,286350,2023,Measles Total
+Nan,4,0.84,0,0.0,475207,2023,Measles Total
+Phayao,5,1.08,0,0.0,462968,2023,Measles Total
+Phrae,1,0.23,0,0.0,432624,2023,Measles Total
+ZONE:02,15,0.42,0,0.0,3530228,2023,Measles Total
+Phetchabun,8,0.82,0,0.0,975879,2023,Measles Total
+Phitsanulok,0,0.0,0,0.0,845938,2023,Measles Total
+Sukhothai,5,0.86,0,0.0,583502,2023,Measles Total
+Tak,2,0.29,0,0.0,680361,2023,Measles Total
+Uttaradit,0,0.0,0,0.0,444548,2023,Measles Total
+Chai Nat,0,0.0,0,0.0,319370,2023,Measles Total
+Kamphaeng Phet,0,0.0,0,0.0,710458,2023,Measles Total
+Nakhon Sawan,0,0.0,0,0.0,1031921,2023,Measles Total
+Phichit,0,0.0,0,0.0,527669,2023,Measles Total
+Uthai Thani,0,0.0,0,0.0,324487,2023,Measles Total
+ZONE:04,24,0.44,0,0.0,5424945,2023,Measles Total
+Ang Thong,0,0.0,0,0.0,273675,2023,Measles Total
+Lop Buri,1,0.14,0,0.0,737382,2023,Measles Total
+Nakhon Nayok,0,0.0,0,0.0,260419,2023,Measles Total
+Nonthaburi,9,0.7,0,0.0,1292276,2023,Measles Total
+P.Nakhon S.Ayutthaya,6,0.73,0,0.0,820464,2023,Measles Total
+Pathum Thani,4,0.33,0,0.0,1195796,2023,Measles Total
+Saraburi,4,0.62,0,0.0,641272,2023,Measles Total
+Sing Buri,0,0.0,0,0.0,203661,2023,Measles Total
+ZONE:05,10,0.19,0,0.0,5330665,2023,Measles Total
+Kanchanaburi,0,0.0,0,0.0,894168,2023,Measles Total
+Nakhon Pathom,6,0.65,0,0.0,922026,2023,Measles Total
+Phetchaburi,0,0.0,0,0.0,482912,2023,Measles Total
+Prachuap Khiri Khan,1,0.18,0,0.0,553234,2023,Measles Total
+Ratchaburi,1,0.12,0,0.0,867043,2023,Measles Total
+Samut Sakhon,1,0.17,0,0.0,588108,2023,Measles Total
+Samut Songkhram,1,0.53,0,0.0,190147,2023,Measles Total
+Suphan Buri,0,0.0,0,0.0,833027,2023,Measles Total
+ZONE:06,49,0.78,0,0.0,6251747,2023,Measles Total
+Chachoengsao,2,0.28,0,0.0,725433,2023,Measles Total
+Chanthaburi,6,1.12,0,0.0,536351,2023,Measles Total
+Chon Buri,19,1.2,0,0.0,1589214,2023,Measles Total
+Prachin Buri,0,0.0,0,0.0,496551,2023,Measles Total
+Rayong,3,0.4,0,0.0,755364,2023,Measles Total
+Sa Kaeo,3,0.53,0,0.0,562404,2023,Measles Total
+Samut Prakan,11,0.81,0,0.0,1358338,2023,Measles Total
+Trat,5,2.19,0,0.0,228092,2023,Measles Total
+ZONE:07,19,0.38,0,0.0,5001616,2023,Measles Total
+Kalasin,4,0.41,0,0.0,973835,2023,Measles Total
+Khon Kaen,13,0.73,0,0.0,1787752,2023,Measles Total
+Maha Sarakham,1,0.11,0,0.0,946457,2023,Measles Total
+Roi Et,1,0.08,0,0.0,1293572,2023,Measles Total
+ZONE:08,9,0.16,0,0.0,5512222,2023,Measles Total
+Bungkan,0,0.0,0,0.0,421840,2023,Measles Total
+Loei,0,0.0,0,0.0,638037,2023,Measles Total
+Nakhon Phanom,1,0.14,0,0.0,716844,2023,Measles Total
+Nong Bua Lam Phu,0,0.0,0,0.0,508664,2023,Measles Total
+Nong Khai,1,0.19,0,0.0,516320,2023,Measles Total
+Sakon Nakhon,0,0.0,0,0.0,1145737,2023,Measles Total
+Udon Thani,7,0.45,0,0.0,1564780,2023,Measles Total
+ZONE:09,13,0.19,0,0.0,6705133,2023,Measles Total
+Buri Ram,1,0.06,0,0.0,1578361,2023,Measles Total
+Chaiyaphum,2,0.18,0,0.0,1120095,2023,Measles Total
+Nakhon Ratchasima,9,0.34,0,0.0,2632106,2023,Measles Total
+Surin,1,0.07,0,0.0,1374571,2023,Measles Total
+ZONE:10,50,1.09,0,0.0,4585207,2023,Measles Total
+Amnat Charoen,1,0.27,0,0.0,375866,2023,Measles Total
+Mukdahan,0,0.0,0,0.0,351537,2023,Measles Total
+Si Sa Ket,1,0.07,0,0.0,1456144,2023,Measles Total
+Ubon Ratchathani,35,1.87,0,0.0,1869163,2023,Measles Total
+Yasothon,13,2.44,0,0.0,532497,2023,Measles Total
+ZONE:11,48,1.07,0,0.0,4489916,2023,Measles Total
+Chumphon,9,1.77,0,0.0,509433,2023,Measles Total
+Krabi,2,0.42,0,0.0,479705,2023,Measles Total
+Nakhon Si Thammarat,7,0.45,0,0.0,1547246,2023,Measles Total
+Phangnga,0,0.0,0,0.0,267729,2023,Measles Total
+Phuket,15,3.59,0,0.0,418339,2023,Measles Total
+Ranong,0,0.0,0,0.0,194400,2023,Measles Total
+Surat Thani,15,1.4,0,0.0,1073064,2023,Measles Total
+ZONE:12,49,0.98,0,0.0,5004720,2023,Measles Total
+Narathiwat,26,3.2,0,0.0,811891,2023,Measles Total
+Pattani,4,0.55,0,0.0,731269,2023,Measles Total
+Phatthalung,0,0.0,0,0.0,522080,2023,Measles Total
+Satun,2,0.62,0,0.0,325069,2023,Measles Total
+Songkhla,7,0.49,0,0.0,1431300,2023,Measles Total
+Trang,0,0.0,0,0.0,638997,2023,Measles Total
+Yala,10,1.84,0,0.0,544114,2023,Measles Total
+ZONE:13,75,1.36,0,0.0,5511463,2023,Measles Total
+Bangkok,75,1.36,0,0.0,5511463,2023,Measles Total
+Total,3237,4.9,2,0.0,66060027,2017,Measles Total
+ZONE:01,295,5.03,0,0.0,5864232,2017,Measles Total
+Chiang Mai,256,14.7,0,0.0,1741301,2017,Measles Total
+Chiang Rai,14,1.09,0,0.0,1285080,2017,Measles Total
+Lampang,0,0.0,0,0.0,747699,2017,Measles Total
+Lamphun,11,2.71,0,0.0,405959,2017,Measles Total
+Mae Hong Son,0,0.0,0,0.0,277486,2017,Measles Total
+Nan,7,1.46,0,0.0,479877,2017,Measles Total
+Phayao,3,0.63,0,0.0,478144,2017,Measles Total
+Phrae,4,0.89,0,0.0,448686,2017,Measles Total
+ZONE:02,41,1.15,0,0.0,3556376,2017,Measles Total
+Phetchabun,19,1.91,0,0.0,995277,2017,Measles Total
+Phitsanulok,2,0.23,0,0.0,865564,2017,Measles Total
+Sukhothai,3,0.5,0,0.0,599775,2017,Measles Total
+Tak,12,1.88,0,0.0,638115,2017,Measles Total
+Uttaradit,5,1.09,0,0.0,457645,2017,Measles Total
+ZONE:03,20,0.67,0,0.0,2998104,2017,Measles Total
+Chai Nat,3,0.91,0,0.0,330077,2017,Measles Total
+Kamphaeng Phet,0,0.0,0,0.0,729337,2017,Measles Total
+Nakhon Sawan,10,0.94,0,0.0,1065895,2017,Measles Total
+Phichit,5,0.92,0,0.0,542674,2017,Measles Total
+Uthai Thani,2,0.61,0,0.0,330121,2017,Measles Total
+ZONE:04,228,4.3,0,0.0,5302492,2017,Measles Total
+Ang Thong,1,0.35,0,0.0,281796,2017,Measles Total
+Lop Buri,9,1.19,0,0.0,757296,2017,Measles Total
+Nakhon Nayok,1,0.39,0,0.0,258850,2017,Measles Total
+Nonthaburi,53,4.34,0,0.0,1220829,2017,Measles Total
+P.Nakhon S.Ayutthaya,17,2.09,0,0.0,812086,2017,Measles Total
+Pathum Thani,129,11.52,0,0.0,1120246,2017,Measles Total
+Saraburi,17,2.65,0,0.0,641052,2017,Measles Total
+Sing Buri,1,0.48,0,0.0,210337,2017,Measles Total
+ZONE:05,605,11.42,0,0.0,5295696,2017,Measles Total
+Kanchanaburi,6,0.68,0,0.0,886546,2017,Measles Total
+Nakhon Pathom,51,5.62,0,0.0,908249,2017,Measles Total
+Phetchaburi,17,3.53,0,0.0,481514,2017,Measles Total
+Prachuap Khiri Khan,62,11.44,0,0.0,541756,2017,Measles Total
+Ratchaburi,32,3.67,0,0.0,870769,2017,Measles Total
+Samut Sakhon,426,75.72,0,0.0,562592,2017,Measles Total
+Samut Songkhram,2,1.03,0,0.0,193985,2017,Measles Total
+Suphan Buri,9,1.06,0,0.0,850285,2017,Measles Total
+ZONE:06,252,4.19,0,0.0,6020790,2017,Measles Total
+Chachoengsao,32,4.53,0,0.0,707145,2017,Measles Total
+Chanthaburi,7,1.31,0,0.0,533463,2017,Measles Total
+Chon Buri,27,1.8,0,0.0,1496086,2017,Measles Total
+Prachin Buri,3,0.62,0,0.0,486187,2017,Measles Total
+Rayong,19,2.69,0,0.0,705729,2017,Measles Total
+Sa Kaeo,8,1.43,0,0.0,560478,2017,Measles Total
+Samut Prakan,155,11.9,0,0.0,1302160,2017,Measles Total
+Trat,1,0.44,0,0.0,229542,2017,Measles Total
+ZONE:07,45,0.89,0,0.0,5060674,2017,Measles Total
+Kalasin,12,1.22,0,0.0,985619,2017,Measles Total
+Khon Kaen,24,1.33,0,0.0,1803831,2017,Measles Total
+Maha Sarakham,6,0.62,0,0.0,963277,2017,Measles Total
+Roi Et,3,0.23,0,0.0,1307947,2017,Measles Total
+ZONE:08,20,0.36,0,0.0,5541473,2017,Measles Total
+Bungkan,1,0.24,0,0.0,422328,2017,Measles Total
+Loei,1,0.16,0,0.0,640734,2017,Measles Total
+Nakhon Phanom,0,0.0,0,0.0,717451,2017,Measles Total
+Nong Bua Lam Phu,1,0.2,0,0.0,511188,2017,Measles Total
+Nong Khai,9,1.73,0,0.0,521125,2017,Measles Total
+Sakon Nakhon,1,0.09,0,0.0,1147710,2017,Measles Total
+Udon Thani,7,0.44,0,0.0,1580937,2017,Measles Total
+ZONE:09,118,1.75,0,0.0,6760383,2017,Measles Total
+Buri Ram,12,0.75,0,0.0,1589900,2017,Measles Total
+Chaiyaphum,7,0.61,0,0.0,1138778,2017,Measles Total
+Nakhon Ratchasima,73,2.77,0,0.0,2635331,2017,Measles Total
+Surin,26,1.86,0,0.0,1396374,2017,Measles Total
+ZONE:10,80,1.74,0,0.0,4604905,2017,Measles Total
+Amnat Charoen,6,1.59,0,0.0,377614,2017,Measles Total
+Mukdahan,3,0.86,0,0.0,350128,2017,Measles Total
+Si Sa Ket,36,2.45,0,0.0,1471185,2017,Measles Total
+Ubon Ratchathani,24,1.29,0,0.0,1866299,2017,Measles Total
+Yasothon,11,2.04,0,0.0,539679,2017,Measles Total
+ZONE:11,73,1.64,0,0.0,4441086,2017,Measles Total
+Chumphon,2,0.39,0,0.0,508627,2017,Measles Total
+Krabi,14,2.99,0,0.0,467851,2017,Measles Total
+Nakhon Si Thammarat,16,1.03,0,0.0,1555957,2017,Measles Total
+Phangnga,1,0.38,0,0.0,266535,2017,Measles Total
+Phuket,19,4.77,0,0.0,398092,2017,Measles Total
+Ranong,0,0.0,0,0.0,189777,2017,Measles Total
+Surat Thani,21,1.99,0,0.0,1054247,2017,Measles Total
+ZONE:12,848,17.2,2,0.04,4929285,2017,Measles Total
+Narathiwat,321,40.48,0,0.0,792961,2017,Measles Total
+Pattani,261,37.0,1,0.14,705379,2017,Measles Total
+Phatthalung,10,1.91,0,0.0,524291,2017,Measles Total
+Satun,8,2.51,0,0.0,318655,2017,Measles Total
+Songkhla,20,1.41,1,0.07,1420834,2017,Measles Total
+Trang,17,2.65,0,0.0,642377,2017,Measles Total
+Yala,211,40.21,0,0.0,524788,2017,Measles Total
+ZONE:13,612,10.77,0,0.0,5684531,2017,Measles Total
+Bangkok,612,10.77,0,0.0,5684531,2017,Measles Total
+Total,6614,9.95,21,0.03,66486458,2019,Measles Total
+ZONE:01,965,16.38,0,0.0,5891985,2019,Measles Total
+Chiang Mai,595,33.59,0,0.0,1771499,2019,Measles Total
+Chiang Rai,234,18.07,0,0.0,1295217,2019,Measles Total
+Lampang,17,2.3,0,0.0,740600,2019,Measles Total
+Lamphun,50,12.33,0,0.0,405515,2019,Measles Total
+Mae Hong Son,57,20.12,0,0.0,283352,2019,Measles Total
+Nan,3,0.63,0,0.0,478608,2019,Measles Total
+Phayao,7,1.48,0,0.0,473786,2019,Measles Total
+Phrae,2,0.45,0,0.0,443408,2019,Measles Total
+ZONE:02,166,4.65,0,0.0,3570128,2019,Measles Total
+Phetchabun,5,0.5,0,0.0,993496,2019,Measles Total
+Phitsanulok,9,1.04,0,0.0,866068,2019,Measles Total
+Sukhothai,12,2.01,0,0.0,596165,2019,Measles Total
+Tak,137,20.75,0,0.0,660147,2019,Measles Total
+Uttaradit,3,0.66,0,0.0,454252,2019,Measles Total
+ZONE:03,27,0.91,0,0.0,2983068,2019,Measles Total
+Chai Nat,6,1.83,0,0.0,327437,2019,Measles Total
+Kamphaeng Phet,0,0.0,0,0.0,726836,2019,Measles Total
+Nakhon Sawan,16,1.51,0,0.0,1061926,2019,Measles Total
+Phichit,2,0.37,0,0.0,537843,2019,Measles Total
+Uthai Thani,3,0.91,0,0.0,329026,2019,Measles Total
+ZONE:04,193,3.59,0,0.0,5381695,2019,Measles Total
+Ang Thong,1,0.36,0,0.0,280246,2019,Measles Total
+Lop Buri,8,1.06,0,0.0,757145,2019,Measles Total
+Nakhon Nayok,29,11.14,0,0.0,260421,2019,Measles Total
+Nonthaburi,56,4.46,0,0.0,1255840,2019,Measles Total
+P.Nakhon S.Ayutthaya,7,0.85,0,0.0,818815,2019,Measles Total
+Pathum Thani,66,5.72,0,0.0,1154848,2019,Measles Total
+Saraburi,21,3.25,0,0.0,645468,2019,Measles Total
+Sing Buri,5,2.39,0,0.0,208912,2019,Measles Total
+ZONE:05,630,11.79,0,0.0,5344807,2019,Measles Total
+Kanchanaburi,18,2.01,0,0.0,894338,2019,Measles Total
+Nakhon Pathom,74,8.06,0,0.0,918542,2019,Measles Total
+Phetchaburi,246,50.75,0,0.0,484743,2019,Measles Total
+Prachuap Khiri Khan,108,19.58,0,0.0,551466,2019,Measles Total
+Ratchaburi,47,5.38,0,0.0,873310,2019,Measles Total
+Samut Sakhon,96,16.51,0,0.0,581334,2019,Measles Total
+Samut Songkhram,11,5.68,0,0.0,193548,2019,Measles Total
+Suphan Buri,30,3.54,0,0.0,847526,2019,Measles Total
+ZONE:06,781,12.69,0,0.0,6154601,2019,Measles Total
+Chachoengsao,41,5.71,0,0.0,717561,2019,Measles Total
+Chanthaburi,62,11.54,0,0.0,537097,2019,Measles Total
+Chon Buri,321,20.75,0,0.0,1546873,2019,Measles Total
+Prachin Buri,59,11.96,0,0.0,493159,2019,Measles Total
+Rayong,128,17.56,0,0.0,729035,2019,Measles Total
+Sa Kaeo,28,4.95,0,0.0,565198,2019,Measles Total
+Samut Prakan,136,10.18,0,0.0,1335742,2019,Measles Total
+Trat,6,2.61,0,0.0,229936,2019,Measles Total
+ZONE:07,81,1.6,0,0.0,5057831,2019,Measles Total
+Kalasin,10,1.02,0,0.0,984381,2019,Measles Total
+Khon Kaen,48,2.66,0,0.0,1804384,2019,Measles Total
+Maha Sarakham,6,0.62,0,0.0,962856,2019,Measles Total
+Roi Et,17,1.3,0,0.0,1306210,2019,Measles Total
+ZONE:08,43,0.77,0,0.0,5559986,2019,Measles Total
+Bungkan,0,0.0,0,0.0,424016,2019,Measles Total
+Loei,5,0.78,0,0.0,642862,2019,Measles Total
+Nakhon Phanom,10,1.39,0,0.0,718961,2019,Measles Total
+Nong Bua Lam Phu,1,0.2,0,0.0,512449,2019,Measles Total
+Nong Khai,10,1.91,0,0.0,522207,2019,Measles Total
+Sakon Nakhon,5,0.43,0,0.0,1152835,2019,Measles Total
+Udon Thani,12,0.76,0,0.0,1586656,2019,Measles Total
+ZONE:09,134,1.98,0,0.0,6778372,2019,Measles Total
+Buri Ram,27,1.69,0,0.0,1595299,2019,Measles Total
+Chaiyaphum,23,2.02,0,0.0,1138067,2019,Measles Total
+Nakhon Ratchasima,63,2.38,0,0.0,2647663,2019,Measles Total
+Surin,21,1.5,0,0.0,1397343,2019,Measles Total
+ZONE:10,217,4.7,0,0.0,4618551,2019,Measles Total
+Amnat Charoen,3,0.79,0,0.0,378530,2019,Measles Total
+Mukdahan,10,2.84,0,0.0,352727,2019,Measles Total
+Si Sa Ket,31,2.1,0,0.0,1472934,2019,Measles Total
+Ubon Ratchathani,164,8.74,0,0.0,1876347,2019,Measles Total
+Yasothon,9,1.67,0,0.0,538013,2019,Measles Total
+ZONE:11,365,8.13,0,0.0,4487837,2019,Measles Total
+Chumphon,3,0.59,0,0.0,511134,2019,Measles Total
+Krabi,0,0.0,0,0.0,475239,2019,Measles Total
+Nakhon Si Thammarat,42,2.69,0,0.0,1561179,2019,Measles Total
+Phangnga,43,16.01,0,0.0,268513,2019,Measles Total
+Phuket,92,22.25,0,0.0,413397,2019,Measles Total
+Ranong,36,18.69,0,0.0,192619,2019,Measles Total
+Surat Thani,149,13.98,0,0.0,1065756,2019,Measles Total
+ZONE:12,2268,45.49,21,0.42,4986140,2019,Measles Total
+Narathiwat,877,108.91,8,0.99,805248,2019,Measles Total
+Pattani,717,99.36,13,1.8,721591,2019,Measles Total
+Phatthalung,4,0.76,0,0.0,524955,2019,Measles Total
+Satun,78,24.18,0,0.0,322580,2019,Measles Total
+Songkhla,357,24.89,0,0.0,1434298,2019,Measles Total
+Trang,32,4.98,0,0.0,643140,2019,Measles Total
+Yala,203,37.99,0,0.0,534328,2019,Measles Total
+ZONE:13,744,13.12,0,0.0,5671457,2019,Measles Total
+Bangkok,744,13.12,0,0.0,5671457,2019,Measles Total

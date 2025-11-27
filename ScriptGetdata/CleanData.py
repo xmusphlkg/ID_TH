@@ -168,8 +168,11 @@ def text_to_dataframe_mcd(data: List[List[str]], year: Optional[int], disease: s
     # If 'Total' appears in the Month position (common parsing shift), move it to Type
     mask_month_total = df['Month'].str.contains('tot', case=False, na=False)
     if mask_month_total.any():
+        # Keep Month as 'Total' (so it remains visible) and set Type to 'Total' only
+        # when Type is empty. This preserves the original Month value while
+        # ensuring the Type is recognized.
+        df.loc[mask_month_total, 'Month'] = 'Total'
         df.loc[mask_month_total & (df['Type'] == ''), 'Type'] = 'Total'
-        df.loc[mask_month_total, 'Month'] = ''
 
     # Map common keywords to canonical Type values
     def normalize_type(x: str) -> str:
@@ -271,10 +274,18 @@ def _process_disease_mode(disease: str, mode: str) -> Tuple[str, str, str]:
             logging.info(f'No folder for {disease}, skipping {mode}')
             return (disease, mode, 'no_folder')
 
-        prefix = {'ac': 'ac_', 'ad': 'ad_', 'mcd': 'mcd_', 'rate': 'rate_'}[mode]
-        file_list = [f for f in os.listdir(base) if f.startswith(prefix)]
+        # support alternative prefixes that may appear with a leading 't',
+        # e.g. tac_, tad_, tmcd_, trate_
+        prefix_map = {
+            'ac': ['ac_', 'tac_'],
+            'ad': ['ad_', 'tad_'],
+            'mcd': ['mcd_', 'tmcd_'],
+            'rate': ['rate_', 'trate_'],
+        }
+        prefixes = prefix_map.get(mode, [mode + '_'])
+        file_list = [f for f in os.listdir(base) if any(f.startswith(p) for p in prefixes)]
         if not file_list:
-            logging.info(f'No files for {disease} with prefix {prefix}')
+            logging.info(f'No files for {disease} with prefixes {prefixes}')
             return (disease, mode, 'no_files')
 
         frames = []
