@@ -1,26 +1,19 @@
 # packages ----------------------------------------------------------------
 
+library(segmented)
+library(nih.joinpoint)
 library(openxlsx)
 library(tidyverse)
 library(ggsci)
 library(paletteer)
 library(patchwork)
-library(nih.joinpoint)
 library(furrr)
 
 # System setting
 Sys.setlocale(locale = "EN")
 
-# Options for joinpoint
-run_opt = run_options(model="ln",
-                      model_selection_method = 'wbic-alt',
-                      min_joinpoints = 0,
-                      max_joinpoints = 5,
-                      n_cores=30)
-export_opt = export_options()
-
 # future plan for parallel computing
-plan(multisession, workers = 10)
+plan(multisession, workers = 3)
 
 # data --------------------------------------------------------------------
 
@@ -31,31 +24,30 @@ source("./function/theme_set.R")
 list_disease_files <- list.files("../Data/CleanData/",
                                   pattern = "mcd.csv",
                                   full.names = T)
-data_month <- lapply(list_disease_files, read.csv) |>
+data_all <- lapply(list_disease_files, read.csv) |>
      bind_rows() |> 
-     filter(Year < 2025)
+     filter(Year < 2025, Year >= 2008)
 
 rm(list_disease_files)
 
 # filter the total cases and deaths, with the year after 2008
-data_select <- data_month |>
-     filter(Year >= 2008) |>
+data_all |>
      filter(Areas == 'Total' & Month == 'Total') |>
      group_by(Disease) |>
      summarise(Cases = sum(Count),
                Count = n(),
                YearStart = min(Year),
                YearEnd = max(Year),
-               .groups = 'drop')
-
-write.csv(data_select,
-          file = "../Outcome/TotalCasesDeaths.csv",
+               .groups = 'drop') |> 
+     write.csv(file = "../Outcome/TotalCasesDeaths.csv",
           row.names = F)
 
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1) |> 
-     select(-c(Cases, Count, Including, Label))
+     filter(Including == 1)|> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(-c(Cases, Count, Including, Label)) 
 
 # read population data
 data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age') |> 
@@ -63,18 +55,30 @@ data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age')
      rename(Year = YEAR,
             Population = Total)
 
-data_analysis <- data_month |>
-     left_join(data_class, by = 'Disease') |>
-     filter(Areas == 'Total' & Month != 'Total' & 
-                 !is.na(Shortname) & Year >= 2008) |> 
+data_month <- data_all |>
+     filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
+     left_join(data_class, by = 'Disease') |> 
      # transform the Month: Jan -> 01
      mutate(Month = month(parse_date_time(Month, "b"), label = FALSE, abbr = FALSE),
             Group = factor(Group, levels = disease_groups),
+            Disease = Shortname,
             Date = as.Date(paste(Year, Month, "01", sep = "-"))) |> 
      pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
-     filter(Date < as.Date("2024-07-01")) |> 
      ungroup() |> 
      arrange(Date, Disease) |> 
+     left_join(data_population, by = 'Year') |>
+     # calculate the rate per million population
+     mutate(Incidence = (Cases / Population) * 1e7,
+            Mortality = (Deaths / Population) * 1e7)
+
+data_year <- data_all |>
+     filter(Areas == 'Total' & Month == 'Total' & Disease %in% data_class$Disease) |>
+     left_join(data_class, by = 'Disease') |> 
+     mutate(Group = factor(Group, levels = disease_groups),
+            Disease = Shortname) |> 
+     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
+     ungroup() |> 
+     arrange(Year, Disease) |> 
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e7,
@@ -83,7 +87,7 @@ data_analysis <- data_month |>
 # summary of NID ----------------------------------------------------------
 
 ## each group
-data_print <- data_analysis |>
+data_month |>
      group_by(Group, Shortname) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
@@ -96,7 +100,8 @@ data_print <- data_analysis |>
             Deaths_p = percent(round(Deaths / sum(Deaths), 4)),
             CFR = percent(round(Deaths / Cases, 4)),
             .before = DateRange) |>
-     arrange(Group, desc(Cases))
+     arrange(Group, desc(Cases)) |> 
+     print(n = Inf)
 
 
 # overall trend of month --------------------------------------------------
@@ -104,7 +109,7 @@ data_print <- data_analysis |>
 fill_color_trend <- fill_color_continue[c(1, 3, 5)]
 names(fill_color_trend) <- c("Observed", "STL Trend", "Joinpoint Trend")
 
-fig1_data <- data_analysis |>
+data_month_total <- data_month |>
      group_by(Date, Year) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
@@ -112,319 +117,557 @@ fig1_data <- data_analysis |>
      arrange(Date) |> 
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
-     mutate(Incidence = (Cases / Population) * 1e7,
-            Mortality = (Deaths / Population) * 1e7,
+     mutate(Incidence = (Cases / Population) * 1e5,
+            Mortality = (Deaths / Population) * 1e5,
             CFR = (Deaths / Cases) * 1000) |> 
      # format year and month to fit joinpoint model
      mutate(Month = month(Date),
-            MonthIndex = Year * 12 + Month - min(data_analysis$Year) * 12,
+            MonthIndex = Year * 12 + Month - min(data_month$Year) * 12,
             .after = Year)
 
-## STL model
-stl_incidence <- stl(ts(fig1_data$Incidence, start = min(fig1_data$Year), frequency = 12),
-                     s.window = "periodic", t.window = 24, robust = TRUE)
-fig1_data$Incidence_trend <- stl_incidence$time.series[, 'trend']
+## joinpoint model ----------------------------------------------------
+# Using yearly data for joinpoint analysis to find the optimal number of joinpoints
 
-stl_mortality <- stl(ts(fig1_data$Mortality, start = min(fig1_data$Year), frequency = 12),
-                     s.window = "periodic", t.window = 24, robust = TRUE)
-fig1_data$Mortality_trend <- stl_mortality$time.series[, 'trend']
+# Options for joinpoint
+run_opt = run_options(model="ln",
+                      model_selection_method = 'bic',
+                      ci_method = "parametric",
+                      min_joinpoints = 0,
+                      max_joinpoints = 4,
+                      n_cores=4)
+export_opt = export_options()
 
-stl_cfr <- stl(ts(fig1_data$CFR, start = 2007, frequency = 12),
-               s.window = "periodic", t.window = 24, robust = TRUE)
-fig1_data$CFR_trend <- stl_cfr$time.series[, 'trend']
-
+data_year_total <- data_year |>
+     group_by(Year) |>
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop') |> 
+     arrange(Year) |> 
+     left_join(data_population, by = 'Year') |>
+     # calculate the rate per million population
+     mutate(Incidence = (Cases / Population) * 1e7,
+            Mortality = (Deaths / Population) * 1e7,
+            CFR = (Deaths / Cases) * 1000)
 
 tasks <- list(
-     list(data = fig1_data, x = "MonthIndex", y = "Incidence_trend", label = 'Incidence', run_opt = run_opt, export_opt = export_opt),
-     list(data = fig1_data, x = "MonthIndex", y = "Mortality_trend", label = 'Mortality', run_opt = run_opt, export_opt = export_opt),
-     list(data = fig1_data, x = "MonthIndex", y = "CFR_trend", label = 'CFR', run_opt = run_opt, export_opt = export_opt)
+     list(data = data_year_total, x = "Year", y = "Incidence", label = 'Incidence', run_opt = run_opt, export_opt = export_opt),
+     list(data = data_year_total, x = "Year", y = "Mortality", label = 'Mortality', run_opt = run_opt, export_opt = export_opt),
+     list(data = data_year_total, x = "Year", y = "CFR", label = 'CFR', run_opt = run_opt, export_opt = export_opt)
 )
 
-results <- future_map(
+jp_year_results <- future_map(
      tasks,
      ~ joinpoint(.x$data, x = .x$x, y = .x$y, run_opt = .x$run_opt, export_opt = .x$export_opt)
 )
 
-## Wait for the results
-joinpoint_incidence <- results[[1]]
-joinpoint_mortality <- results[[2]]
-joinpoint_cfr <- results[[3]]
+rm(tasks, run_opt, export_opt)
 
-## add results
-fig1_data$Incidence_joinpoint <- joinpoint_incidence$data_export$model
-fig1_data$Mortality_joinpoint <- joinpoint_mortality$data_export$model
-fig1_data$CFR_joinpoint <- joinpoint_cfr$data_export$model
+## Trend Component ----------------------------------------------------
+# fit STL model to extract the trend component
+
+stl_incidence <- stl(ts(data_month_total$Incidence, start = min(data_month_total$Year), frequency = 12),
+                     s.window = "periodic", t.window = 24, robust = TRUE)
+stl_mortality <- stl(ts(data_month_total$Mortality, start = min(data_month_total$Year), frequency = 12),
+                     s.window = "periodic", t.window = 24, robust = TRUE)
+stl_cfr <- stl(ts(data_month_total$CFR, start = min(data_month_total$Year), frequency = 12),
+               s.window = "periodic", t.window = 24, robust = TRUE)
+
+data_month_total <- data_month_total |> 
+     mutate(Incidence_trend = stl_incidence$time.series[, 'trend'],
+            Mortality_trend = stl_mortality$time.series[, 'trend'],
+            CFR_trend = stl_cfr$time.series[, 'trend'])
+
+## Extract Knots from Trend Component ------------------------------------------------
+# Using trend component to find breakpoints (knots) based on the optimal K from yearly joinpoint analysis
+
+extract_knots_from_trend <- function(jp_result, monthly_data, trend_var, month_index_var = "MonthIndex") {
+     
+     # Determine the number of joinpoints (K) from the yearly analysis result
+     k_optimal <- jp_result$selected_model$model
+     
+     # Fit the base linear model using the Trend component
+     formula_trend <- as.formula(paste0("log(", trend_var, ") ~ ", month_index_var))
+     base_model_trend <- lm(formula_trend, data = monthly_data)
+     
+     # Fit segmented model to find knots
+     if (k_optimal > 0) {
+          tryCatch({
+               seg_model_trend <- segmented::segmented(base_model_trend, 
+                                                       seg.Z = as.formula(paste0("~", month_index_var)), 
+                                                       npsi = k_optimal) # Let segmented find the best locations
+               
+               # Extract the estimated breakpoints (Est.)
+               return(seg_model_trend$psi[, "Est."])
+               
+          }, error = function(e) {
+               warning("Segmented convergence failed on trend data. Returning NULL.")
+               return(NULL)
+          })
+     } else {
+          return(NULL) # No breakpoints
+     }
+}
+
+## Calculate APC using fixed knots ------------------------------------------------
+# Using the knots obtained from trend component to fit segmented model on raw data and calculate APC with valid statistical inference
+
+calculate_apc_statistics <- function(monthly_data, raw_var, knots, month_index_var = "MonthIndex") {
+     
+     # Fit base linear model on RAW data (Log-transformed)
+     formula_raw <- as.formula(paste0("log(", raw_var, ") ~ ", month_index_var))
+     base_model_raw <- lm(formula_raw, data = monthly_data)
+     
+     # Fit segmented model with FIXED knots (psi)
+     if (!is.null(knots) && length(knots) > 0) {
+          seg_model_final <- segmented::segmented(base_model_raw, 
+                                                  seg.Z = as.formula(paste0("~", month_index_var)), 
+                                                  psi = knots)
+          
+          # Use slope() to get valid statistical inference (Slope, SE, t-value)
+          # The slope() function accounts for the covariance structure
+          slope_summary <- slope(seg_model_final)[[month_index_var]]
+          print(slope_summary)
+          
+          estimates <- slope_summary[, "Est."]
+          std_errors <- slope_summary[, "St.Err."]
+          t_values <- slope_summary[, "t value"]
+          
+          # Calculate P-values (Two-sided)
+          df_resid <- summary(seg_model_final)$df[2]
+          p_values <- 2 * pt(abs(t_values), df = df_resid, lower.tail = FALSE)
+          
+     } else {
+          # Case: No joinpoints (Linear model)
+          seg_model_final <- base_model_raw
+          
+          # Extract coefficients manually for linear model
+          coef_summary <- summary(base_model_raw)$coefficients
+          idx <- grep(month_index_var, rownames(coef_summary))
+          
+          estimates <- coef_summary[idx, "Estimate"]
+          std_errors <- coef_summary[idx, "Std. Error"]
+          t_values <- coef_summary[idx, "t value"]
+          p_values <- coef_summary[idx, "Pr(>|t|)"]
+          df_resid <- base_model_raw$df.residual
+     }
+     
+     # Calculate APC and 95% Confidence Intervals
+     # Step A: Calculate CI for the slope (beta) first
+     alpha <- 0.05
+     crit_val <- qt(1 - alpha/2, df = df_resid)
+     
+     slope_lower <- estimates - crit_val * std_errors
+     slope_upper <- estimates + crit_val * std_errors
+     
+     # Step B: Transform slope to APC (Annual Percent Change)
+     # Formula: APC = (exp(12 * beta) - 1) * 100
+     apc_est <- (exp(12 * estimates) - 1) * 100
+     apc_lower <- (exp(12 * slope_lower) - 1) * 100
+     apc_upper <- (exp(12 * slope_upper) - 1) * 100
+     
+     # Compile Results Table
+     min_idx <- min(monthly_data[[month_index_var]])
+     max_idx <- max(monthly_data[[month_index_var]])
+     all_indices <- sort(c(min_idx, knots, max_idx))
+     
+     res_df <- data.frame(
+          Segment = seq_along(estimates),
+          Slope = estimates,
+          Slope_SE = std_errors,
+          P_value = p_values,
+          APC = apc_est,
+          APC_LCI = apc_lower,
+          APC_UCI = apc_upper,
+          Start_Idx = ceiling(head(all_indices, -1)),
+          End_Idx = floor(tail(all_indices, -1))
+     )
+     
+     # Extract Fitted Values (transformed back to original scale)
+     fitted_data <- monthly_data |> 
+          select(Date, MonthIndex, all_of(raw_var)) |> 
+          mutate(Fitted_Log = predict(seg_model_final),
+                 Fitted_Rate = exp(Fitted_Log))
+     
+     return(list(
+          model = seg_model_final,
+          apc_results = res_df,
+          fitted_data = fitted_data
+     ))
+}
+
+# Wrapper function to connect the two steps
+run_complete_pipeline <- function(item) {
+     
+     # Step 1: Find knots using the smooth TREND
+     knots <- extract_knots_from_trend(jp_result = item$jp_result,
+                                       monthly_data = item$data,
+                                       trend_var = item$trend_var)
+     
+     # Step 2: Calculate stats using RAW data but FIXED knots
+     results <- calculate_apc_statistics(monthly_data = item$data,
+                                         raw_var = item$raw_var,
+                                         knots = knots)
+     
+     return(results)
+}
+
+tasks <- list(
+     list(jp_result = jp_year_results[[1]], 
+          data = data_month_total, 
+          trend_var = "Incidence_trend", 
+          raw_var = "Incidence"),
+     
+     list(jp_result = jp_year_results[[2]], 
+          data = data_month_total, 
+          trend_var = "Mortality_trend", 
+          raw_var = "Mortality"),
+     
+     list(jp_result = jp_year_results[[3]], 
+          data = data_month_total, 
+          trend_var = "CFR_trend", 
+          raw_var = "CFR")
+)
+
+jp_segmented_results <- future_map(
+     tasks,
+     run_complete_pipeline,
+     .options = furrr_options(seed = 20251127)
+)
+
+rm(tasks)
+
+data_month_total <- data_month_total |> 
+     left_join(jp_segmented_results[[1]]$fitted_data |> 
+                    select(MonthIndex, Incidence_joinpoint = Fitted_Rate), 
+               by = 'MonthIndex') |> 
+     left_join(jp_segmented_results[[2]]$fitted_data |> 
+                    select(MonthIndex, Mortality_joinpoint = Fitted_Rate), 
+               by = 'MonthIndex') |>
+     left_join(jp_segmented_results[[3]]$fitted_data |> 
+                    select(MonthIndex, CFR_joinpoint = Fitted_Rate), 
+               by = 'MonthIndex')
+
+data_apc <- list(
+     Incidence = jp_segmented_results[[1]]$apc_results,
+     Mortality = jp_segmented_results[[2]]$apc_results,
+     CFR = jp_segmented_results[[3]]$apc_results
+) |> 
+     bind_rows(.id = 'Measure') |> 
+     mutate(across(c(APC, APC_LCI, APC_UCI), ~ round(., 2)),
+            Measure = factor(Measure, levels = c('Incidence', 'Mortality', 'CFR')),
+            StartDate = min(data_month_total$Date) + months(Start_Idx - 1),
+            StartDateLabel = format(StartDate, "%Y/%m"),
+            EndDate = min(data_month_total$Date) + months(End_Idx - 1),
+            EndDateLabel = format(EndDate, "%Y/%m"),
+            DateRange = paste(StartDateLabel, EndDateLabel, sep = "~"),
+            P_value_Label = case_when(P_value < 0.001 ~ "***",
+                                      P_value < 0.01 ~ "**",
+                                      P_value < 0.05 ~ "*",
+                                      TRUE ~ ""),
+            APC_CI = paste0("(", APC_LCI, "%,", APC_UCI, "%)"))
 
 ## figure 1 ----------------------------------------------------------------
 
+line_color <- c('Observed' = "#E64B35FF",
+                'Trend' = "#B09C85FF",
+                'Model' = "#00A087FF")
+
+plot_breaks_apc <- pretty(data_apc$APC, n = 4)
+
+fig1_data <- data_month_total |> 
+     select(Date, Cases, Incidence, Incidence_trend, Incidence_joinpoint)
+
+plot_breaks_1 <- pretty(c(fig1_data$Incidence, fig1_data$Incidence_trend), n = 4)
+
 fig1 <- ggplot(data = fig1_data)+
+     geom_rect(data = data_apc |> filter(Measure == 'Incidence'),
+               mapping = aes(xmin = StartDate, xmax = EndDate, ymin = 0, ymax = -0.2*max(plot_breaks_1), fill = APC),
+               inherit.aes = FALSE) +
+     geom_text(data = data_apc |> filter(Measure == 'Incidence'),
+               mapping = aes(x = StartDate + (EndDate - StartDate) / 2,
+                             y = -0.1*max(plot_breaks_1),
+                             label = paste0(APC, "%", P_value_Label, "\n", APC_CI)),
+                                            
+               size = 3,
+               vjust = 0.5,
+               color = 'black',
+               inherit.aes = FALSE) +
      geom_point(mapping = aes(x = Date, y = Incidence, color = 'Observed'),
-                alpha = 0.5,
-                size = 1.5) +
-     geom_line(mapping = aes(x = Date, y = Incidence_trend, color = 'Trend'),
-               linewidth = 1) +
-     geom_line(mapping = aes(x = Date, y = Incidence_joinpoint, color = 'Joinpoint'),
-               linewidth = 1) +
-     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
+                alpha = 0.5) +
+     geom_line(mapping = aes(x = Date, y = Incidence_trend, color = 'Trend'), linewidth = 1) +
+     geom_line(mapping = aes(x = Date, y = Incidence_joinpoint, color = 'Model'), linewidth = 1) +
+     scale_color_manual(values = line_color,
+                        name = 'Rate',
+                        breaks = names(line_color)) +
+     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Orange", direction = -1),
+                          name = "APC (95%CI)",
+                          limits = range(plot_breaks_apc),
+                          breaks = plot_breaks_apc) +
      scale_x_date(date_breaks = "2 year",
                   date_labels = "%Y",
-                  expand = expansion(mult = c(0, 0.03))) +
+                  expand = expansion(mult = c(0, 0))) +
      scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        breaks = pretty(c(fig1_data$Incidence, fig1_data$Incidence_trend), n = 4),
-                        limits = range(pretty(c(fig1_data$Incidence, fig1_data$Incidence_trend), n = 4))) +
-     theme_plot() +
+                        breaks = plot_breaks_1,
+                        limits = c(-0.2, 1)*max(plot_breaks_1)) +
+     theme_bw() +
      theme(legend.position = 'none') +
-     labs(y = "Monthly incidence (per million)",
-          x = NULL,
-          color = NULL,
-          title = 'A')+
-     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
-                                                     shape = c(16, NA)),
-                                 nrows = 1))
+     labs(y = "Monthly incidence (per 100,000)",
+          x = 'Date',
+          title = 'A')
 
 ## figure 2 ----------------------------------------------------------------
 
-fig2_data <- fig1_data |> 
-     select(Date, Mortality, Mortality_trend)
+fig2_data <- data_month_total |> 
+     select(Date, Deaths, Mortality, Mortality_trend, Mortality_joinpoint)
+
+plot_breaks_2 <- pretty(c(fig2_data$Mortality, fig2_data$Mortality_trend), n = 4)
 
 fig2 <- ggplot(data = fig2_data)+
+     geom_rect(data = data_apc |> filter(Measure == 'Mortality'),
+               mapping = aes(xmin = StartDate, xmax = EndDate, ymin = 0, ymax = -0.2*max(plot_breaks_2), fill = APC),
+               inherit.aes = FALSE) +
+     geom_text(data = data_apc |> filter(Measure == 'Mortality'),
+               mapping = aes(x = StartDate + (EndDate - StartDate) / 2,
+                             y = -0.1*max(plot_breaks_2),
+                             label = paste0(APC, "%", P_value_Label, "\n", APC_CI)),
+               size = 3,
+               color = 'black',
+               inherit.aes = FALSE) +
      geom_point(mapping = aes(x = Date, y = Mortality, color = 'Observed'),
-                alpha = 0.5,
-                size = 1.5) +
-     geom_line(mapping = aes(x = Date, y = Mortality_trend, color = 'Trend'),
-               size = 1) +
-     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
+                alpha = 0.5) +
+     geom_line(mapping = aes(x = Date, y = Mortality_trend, color = 'Trend'), linewidth = 1) +
+     geom_line(mapping = aes(x = Date, y = Mortality_joinpoint, color = 'Model'), linewidth = 1) +
+     scale_color_manual(values = line_color,
+                        name = 'Rate',
+                        breaks = names(line_color)) +
+     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Orange", direction = -1),
+                          name = "APC (%)",
+                          limits = range(plot_breaks_apc),
+                          breaks = plot_breaks_apc,
+                          labels = plot_breaks_apc) +
      scale_x_date(date_breaks = "2 year",
                   date_labels = "%Y",
-                  expand = expansion(mult = c(0, 0.03))) +
+                  expand = expansion(mult = c(0, 0))) +
      scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        breaks = pretty(c(fig2_data$Mortality, fig2_data$Mortality_trend), n = 4),
-                        limits = range(pretty(c(fig2_data$Mortality, fig2_data$Mortality_trend), n = 4))) +
-     theme_plot() +
-     theme(legend.position = 'none') +
-     labs(y = "Monthly mortality (per million)",
-          x = NULL,
-          color = NULL,
+                        breaks = plot_breaks_2,
+                        limits = c(-0.2, 1)*max(plot_breaks_2)) +
+     theme_bw() +
+     theme(legend.position = 'inside',
+           legend.box = 'horizontal',
+           legend.direction = 'horizontal',
+           legend.position.inside = c(0.99, 0.99),
+           legend.justification = c(1, 1)) +
+     labs(y = "Monthly mortality (per 100,000)",
+          x = 'Date',
           title = 'B')+
-     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
-                                                     shape = c(1, NA)),
-                                 nrows = 1))
+     guides(color = guide_legend(nrow = 1, order = 1, byrow = TRUE, title.position = "top"),
+            fill = guide_colorbar(order = 2, barwidth = 10, barheight = 1, title.position = "top"))
 
-## figure 3 ----------------------------------------------------------------
-
-fig3_data <- fig1_data |> 
-     select(Date, CFR, CFR_trend)
-
-fig3 <- ggplot(data = fig3_data)+
-     geom_point(mapping = aes(x = Date, y = CFR, color = 'Observed'),
-                alpha = 0.5,
-                size = 1.5) +
-     geom_line(mapping = aes(x = Date, y = CFR_trend, color = 'Trend'),
-               size = 1) +
-     scale_color_manual(values = c('Observed' = 'grey', 'Trend' = 'grey50')) +
-     scale_x_date(date_breaks = "2 year",
-                  date_labels = "%Y",
-                  expand = expansion(mult = c(0, 0.03))) +
-     scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                        breaks = pretty(c(fig3_data$CFR, fig3_data$CFR_trend), n = 4),
-                        labels = scales::label_comma(accuracy = 1),
-                        limits = range(pretty(c(fig3_data$CFR, fig3_data$CFR_trend), n = 4))) +
-     theme_plot() +
-     theme(legend.position = 'none') +
-     labs(x = NULL,
-          # using ‰
-          y = "Monthly CFR (\u2030)",
-          color = NULL,
-          title = 'C')+
-     guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
-                                                     shape = c(1, NA)),
-                                 nrows = 1))
-
-fig1_data <- fig1_data |> 
-     select(Date, Cases, Deaths)
-
-# cumulative cases --------------------------------------------------------
+# group and disease -----------------------------------------------
 
 names(fill_color) <- disease_groups
 
-## figure 4 ----------------------------------------------------------------
+## figure 3 ----------------------------------------------------------------
 
-fig4_data <- data_analysis |>
-     select(Year, Disease = Shortname, Group, Cases, Deaths) |>
-     group_by(Group, Disease) |>
+data_group <- data_month |>
+     group_by(Group, Date, Year) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
                CFR = (Deaths / Cases) * 1000,
                .groups = 'drop') |> 
-     # replace CFR NAN with 0
-     mutate(CFR = ifelse(is.na(CFR), 0, CFR)) |>
+     # add population
+     left_join(data_population, by = 'Year') |>
+     # calculate the rate per million population
+     mutate(Incidence = (Cases / Population) * 1e5,
+            Mortality = (Deaths / Population) * 1e5,
+            CFR = ifelse(is.na(CFR), 0, CFR)) |>
      arrange(Group, desc(Cases))
 
+fig3_data <- data_group |> 
+     select(Date, Group, Incidence)
+
+plot_breaks_3 <- c(log10(0.5), 0, 1, 2, 3)
+
+fig3 <- ggplot(data = fig3_data)+
+     geom_line(mapping = aes(x = Date, y = Incidence, color = Group),
+              show.legend = F) +
+     scale_color_manual(values = fill_color,
+                        name = 'Disease group',
+                        breaks = names(fill_color)) +
+     scale_x_date(date_breaks = "2 year",
+                  date_labels = "%Y",
+                  expand = expansion(mult = c(0, 0))) +
+     scale_y_continuous(expand = c(0, 0),
+                        limits = 10^(range(plot_breaks_3)),
+                        breaks = 10^plot_breaks_3,
+                        # force label to normal format
+                        labels = scales::number(10^plot_breaks_3),
+                        trans = 'log10')+
+     theme_bw()+
+     theme(legend.position = 'none')+
+     labs(y = "Monthly incidence (per 100,000)",
+          x = 'Date',
+          title = 'C')
+
+## figure 4 ----------------------------------------------------------------
+
+fig4_data <- data_group |> 
+     select(Group, Date, Mortality)
+
+# pretty(log10(fig4_data$Mortality), n = 4)
+plot_breaks_4 <- pretty(fig4_data$Mortality, n = 4)
+
 fig4 <- ggplot(data = fig4_data)+
-     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
+     geom_line(mapping = aes(x = Date, y = Mortality, color = Group),
               show.legend = T) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig4_data$Disease) +
+     scale_color_manual(values = fill_color) +
+     scale_x_date(date_breaks = "2 year",
+                  date_labels = "%Y",
+                  expand = expansion(mult = c(0, 0))) +
      scale_y_continuous(expand = c(0, 0),
-                        breaks = pretty(c(0, max(fig4_data$Cases) * 1.25), n = 4),
-                        limits = range(pretty(c(0, max(fig4_data$Cases) * 1.25), n = 4)),
-                        label = scientific_10)+
-     theme_set() +
-     theme(legend.position = 'bottom',
-           legend.text = element_text(face = "bold", size = 14),
-           legend.title = element_text(face = "bold", size = 16),
-           axis.title.y = element_text(face = "bold", size = 16),
-           plot.title = element_text(face = "bold", size = 18, hjust = 0, vjust = 5),
-           axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
-     labs(y = "Cumulative cases",
-          x = NULL,
-          fill = NULL,
-          title = 'D')+
-     guides(fill = guide_legend(byrow = TRUE, nrow = 1))
+                        breaks = plot_breaks_4,
+                        limits = range(plot_breaks_4))+
+     theme_bw()+
+     theme(legend.position = 'inside',
+           legend.background = element_rect(fill = "transparent", color = NA),
+           legend.position.inside = c(0.99, 0.99),
+           legend.justification = c(1, 1))+
+     guides(color = guide_legend(nrow = 2, byrow = TRUE))+
+     labs(y = "Monthly mortality (per 100,000)",
+          x = 'Date',
+          title = 'D')
 
-fig4_in <- ggplot(data = filter(fig4_data, Cases <= 3e5))+
-     geom_col(mapping = aes(x = Disease, y = Cases, fill = Group),
-              show.legend = F) +
-     coord_cartesian(ylim = c(0, 3e5)) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig4_data$Disease[fig4_data$Cases <= 3e5]) +
-     scale_y_continuous(expand = c(0, 0),
-                        breaks = c(0, 1e5, 2e5, 3e5),
-                        limits = c(0, 3e5),
-                        label = scientific_10)+
-     theme_set() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
-           # transparent background
-           panel.background = element_rect(fill = "transparent", color = NA),
-           plot.background = element_rect(fill = "transparent", color = NA),
-           legend.background = element_rect(fill = "transparent", color = NA)) +
-     labs(y = NULL,
-          x = NULL,
-          fill = NULL)
+# heatmap ------------------------------------------------------------------
 
-# add inner plot
-fig4 <- fig4 + inset_element(fig4_in, left = 0.03, bottom = 0.13, right = 1, top = 1.2)
-
-remove(fig4_in)
-
-## figure 5 ----------------------------------------------------------------
-
-fig5_data <- fig4_data |> 
-     select(Disease, Group, Deaths) |> 
-     arrange(Group, desc(Deaths))
-
-fig5 <- ggplot(data = fig5_data)+
-     geom_col(mapping = aes(x = Disease, y = Deaths, fill = Group),
-              show.legend = F) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig5_data$Disease) +
-     scale_y_continuous(expand = c(0, 0),
-                        breaks = pretty(c(0, max(fig5_data$Deaths) * 1.25), n = 4),
-                        limits = range(pretty(c(0, max(fig5_data$Deaths) * 1.25), n = 4)),
-                        label = scientific_10)+
-     theme_set() +
-     theme(legend.position = 'right',
-           legend.text = element_text(face = "bold", size = 14),
-           legend.title = element_text(face = "bold", size = 16),
-           axis.title.y = element_text(face = "bold", size = 16),
-           plot.title = element_text(face = "bold", size = 18, hjust = 0, vjust = 5),
-           axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
-     labs(y = "Cumulative deaths",
-          x = NULL,
-          fill = NULL,
-          title = 'E')
-
-fig5_in <- ggplot(data = filter(fig5_data, Deaths <= 1e3))+
-     geom_col(mapping = aes(x = Disease, y = Deaths, fill = Group),
-              show.legend = F) +
-     coord_cartesian(ylim = c(0, 300)) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig5_data$Disease[fig5_data$Deaths <= 300]) +
-     scale_y_continuous(expand = c(0, 0),
-                        limits = c(0, 300),
-                        breaks = c(0, 100, 200, 300))+
-     theme_set() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
-           # transparent background
-           panel.background = element_rect(fill = "transparent", color = NA),
-           plot.background = element_rect(fill = "transparent", color = NA),
-           legend.background = element_rect(fill = "transparent", color = NA)) +
-     labs(y = NULL,
-          x = NULL,
-          fill = NULL)
-
-# add inner plot
-fig5 <- fig5 + inset_element(fig5_in, left = 0.03, bottom = 0.13, right = 1, top = 1.2)
-
-remove(fig5_in)
+data_heat <- data_year |> 
+     select(Disease, Group, Year, Incidence, Mortality, Cases, Deaths) |>
+     group_by(Group, Disease) |>
+     mutate(Incidence_normal = (Incidence - min(Incidence)) / sd(Incidence),
+            Mortality_normal = (Mortality - min(Mortality)) / sd(Mortality),
+            Incidence_normal = ifelse(is.na(Incidence_normal), 0, Incidence_normal),
+            Mortality_normal = ifelse(is.na(Mortality_normal), 0, Mortality_normal))
 
 ## figure 6 ----------------------------------------------------------------
 
-fig6_data <- fig4_data |> 
-     select(Disease, Group, CFR) |> 
-     arrange(Group, desc(CFR))
+fig5_data <- data_heat |> 
+     select(Disease, Group, Year, Incidence, Incidence_normal)
+
+plot_breaks_5 <- pretty(fig5_data$Incidence_normal, n = 4)
+
+fig5 <- ggplot(data = fig5_data)+
+     geom_tile(mapping = aes(x = Year, y = Disease, fill = Incidence_normal),
+              show.legend = T)+
+     scale_x_continuous(breaks = seq(min(fig5_data$Year), max(fig5_data$Year), by = 2),
+                        expand = c(0, 0))+
+     scale_y_discrete(expand = c(0, 0),
+                      limits = rev(data_class$Shortname))+
+     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Lemon", direction = -1),
+                          name = "Normalized rate",
+                          limits = range(plot_breaks_5),
+                          breaks = plot_breaks_5,
+                          labels = round(plot_breaks_5, 2))+
+     theme_bw()+
+     theme(legend.position = 'bottom')+
+     labs(y = NULL,
+          x = 'Year',
+          title = 'E: Normalized annual incidence')+
+     guides(fill = guide_colorbar(barwidth = 20, barheight = 1, title.position = "left"))
+
+## figure 6 ----------------------------------------------------------------
+
+fig6_data <- data_year |> 
+     select(Disease, Group, Year, Cases) |> 
+     group_by(Group, Disease) |>
+     summarise(TotalCases = sum(Cases),
+               .groups = 'drop')
+
+plot_breaks_6 <- pretty(fig6_data$TotalCases, n = 4)
 
 fig6 <- ggplot(data = fig6_data)+
-     geom_col(mapping = aes(x = Disease, y = CFR, fill = Group),
-              show.legend = F) +
+     geom_bar(mapping = aes(x = TotalCases, y = Disease, fill = Group),
+              stat = 'identity',
+              show.legend = T)+
+     scale_x_continuous(expand = c(0, 0),
+                        limits = range(plot_breaks_6),
+                        breaks = plot_breaks_6,
+                        labels = scientific_10)+
+     scale_y_discrete(expand = c(0, 0),
+                      limits = rev(data_class$Shortname))+
      scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig6_data$Disease) +
-     scale_y_continuous(expand = c(0, 0),
-                        breaks = pretty(c(0, max(fig6_data$CFR) * 1.25), n = 4),
-                        limits = range(pretty(c(0, max(fig6_data$CFR) * 1.25), n = 4)),
-                        label = scientific_10)+
-     theme_set() +
-     theme(legend.position = 'right',
-           legend.text = element_text(face = "bold", size = 14),
-           legend.title = element_text(face = "bold", size = 16),
-           axis.title.y = element_text(face = "bold", size = 16),
-           plot.title = element_text(face = "bold", size = 18, hjust = 0, vjust = 5),
-           axis.text.x = element_text(angle = 45, hjust = 1, size = 10)) +
-     labs(y = "Total CFR (\u2030)",
-          x = NULL,
-          fill = NULL,
+     theme_bw()+
+     theme(legend.position = 'bottom')+
+     labs(y = NULL,
+          x = 'Cumulative cases',
           title = 'F')
 
-fig6_in <- ggplot(data = filter(fig6_data, CFR <= 10 & CFR > 0))+
-     geom_col(mapping = aes(x = Disease, y = CFR, fill = Group),
-              show.legend = F) +
-     coord_cartesian(ylim = c(0, 10)) +
-     scale_fill_manual(values = fill_color) +
-     scale_x_discrete(expand = c(0, 0),
-                      limits = fig6_data$Disease[fig6_data$CFR <= 10 & fig6_data$CFR >= 0]) +
-     scale_y_continuous(expand = c(0, 0),
-                        limits = c(0, 10),
-                        breaks = c(0, 2, 4, 6, 8, 10))+
-     theme_set() +
-     theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
-           # transparent background
-           panel.background = element_rect(fill = "transparent", color = NA),
-           plot.background = element_rect(fill = "transparent", color = NA),
-           legend.background = element_rect(fill = "transparent", color = NA)) +
+## figure 7 ----------------------------------------------------------------
+
+fig7_data <- data_heat |> 
+     select(Disease, Group, Year, Mortality, Mortality_normal)
+
+plot_breaks_7 <- pretty(fig7_data$Mortality_normal, n = 4)
+
+fig7 <- ggplot(data = fig7_data)+
+     geom_tile(mapping = aes(x = Year, y = Disease, fill = Mortality_normal),
+              show.legend = T)+
+     scale_x_continuous(breaks = seq(min(fig7_data$Year), max(fig7_data$Year), by = 2),
+                        expand = c(0, 0))+
+     scale_y_discrete(expand = c(0, 0),
+                      limits = rev(data_class$Shortname))+
+     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Lemon", direction = -1),
+                          name = "Normalized rate",
+                          limits = range(plot_breaks_7),
+                          breaks = plot_breaks_7,
+                          labels = round(plot_breaks_7, 2))+
+     theme_bw()+
+     theme(legend.position = 'bottom')+
      labs(y = NULL,
-          x = NULL,
-          fill = NULL)
+          x = 'Year',
+          title = 'G: Normalized annual motality')+
+     guides(fill = guide_colorbar(barwidth = 20, barheight = 1, title.position = "left"))
 
-# add inner plot
-fig6 <- fig6 + inset_element(fig6_in, left = 0.15, bottom = 0.13, right = 1, top = 1.2)
+## figure 8 --------------------------------------------------------------
 
-remove(fig6_in)
+fig8_data <- data_year |> 
+     select(Disease, Group, Year, Deaths) |> 
+     group_by(Group, Disease) |>
+     summarise(TotalDeaths = sum(Deaths),
+               .groups = 'drop')
 
-fig4_data <- fig4_data |> 
-     select(Disease, Group, Cases)
+plot_breaks_8 <- pretty(fig8_data$TotalDeaths, n = 4)
+
+fig8 <- ggplot(data = fig8_data)+
+     geom_bar(mapping = aes(x = TotalDeaths, y = Disease, fill = Group),
+              stat = 'identity',
+              show.legend = T)+
+     scale_x_continuous(expand = c(0, 0),
+                        limits = range(plot_breaks_8),
+                        breaks = plot_breaks_8,
+                        labels = scientific_10)+
+     scale_y_discrete(expand = c(0, 0),
+                      limits = rev(data_class$Shortname))+
+     scale_fill_manual(values = fill_color) +
+     theme_bw()+
+     theme(legend.position = 'bottom')+
+     labs(y = NULL,
+          x = 'Cumulative deaths',
+          title = 'F')
 
 # save --------------------------------------------------------------------
 
-fig <- cowplot::plot_grid(fig1 + fig2 + fig3 + plot_layout(nrow = 1),
-                          fig4 + fig5 + fig6 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = "bottom"),
+fig <- cowplot::plot_grid(fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2),
+                          fig5 + fig6 + fig7 + fig8 + 
+                               plot_layout(nrow = 1, widths = c(2, 1, 2, 1), guides = 'collect', axes = 'collect') &
+                               theme(legend.position = "bottom",
+                                     plot.margin = margin(5, 15, 5, 5)),
                           nrow = 2,
                           ncol = 1,
-                          rel_heights = c(1, 3.2))
+                          rel_heights = c(2, 3))
+
+ggsave(filename = "../Outcome/Publish/fig1.png",
+       fig,
+       width = 14,
+       height = 16)
 
 ggsave(filename = "../Outcome/Publish/fig1.pdf",
        fig,
@@ -433,13 +676,16 @@ ggsave(filename = "../Outcome/Publish/fig1.pdf",
        device = cairo_pdf,
        family = "Times New Roman")
 
+
 # figure data
 data_fig <- list("panel A" = fig1_data,
                  "panel B" = fig2_data,
                  "panel C" = fig3_data,
                  "panel D" = fig4_data,
                  "panel E" = fig5_data,
-                 "panel F" = fig6_data)
+                 "panel F" = fig6_data,
+                 "panel G" = fig7_data,
+                 "panel H" = fig8_data)
 
 write.xlsx(data_fig,
            file = "../Outcome/Appendix/figure_data/fig1.xlsx")
@@ -454,25 +700,28 @@ plot_trend <- function(data, title, value = 'Incidence') {
      data_trend <- data.frame(Year = data$Year,
                               Month = data$Month,
                               Value = data[[value]],
-                              Trend = stl_data$time.series[, 'trend'])
+                              Trend = stl_data$time.series[, 'trend']) |> 
+          mutate(Date = as.Date(paste(Year, Month, "01", sep = "-")))
+     
+     # browser()
+     plot_breaks_y <- pretty(c(data_trend$Value, data_trend$Trend), n = 4)
      
      fig <- ggplot(data = data_trend) +
-          geom_line(mapping = aes(x = as.Date(paste(Year, Month, "01", sep = "-")), y = Trend),
-                    color = fill_color[1],
-                    size = 1) +
-          geom_point(mapping = aes(x = as.Date(paste(Year, Month, "01", sep = "-")), y = Value),
-                     color = fill_color[5],
-                     alpha = 0.5,
-                     size = 1.5) +
+          geom_line(mapping = aes(x = Date, y = Trend),
+                    color = fill_color[1]) +
+          geom_point(mapping = aes(x = Date, y = Value),
+                     color = fill_color[2],
+                     alpha = 0.5) +
           scale_x_date(date_breaks = "4 year",
                        date_labels = "%Y",
                        expand = expansion(mult = c(0, 0))) +
-          scale_y_continuous(expand = expansion(mult = c(0, 0.15)),
-                             limits = c(0, NA),
+          scale_y_continuous(expand = expansion(mult = c(0, 0)),
+                             limits = range(plot_breaks_y),
+                             breaks = plot_breaks_y,
                              labels = ifelse(max(ts_data) >= 100, scientific_10, scales::comma)) +
-          theme_plot() +
-          labs(x = NULL,
-               y = NULL,
+          theme_bw() +
+          labs(x = 'Date',
+               y = paste(value, '(per 100,000)'),
                title = title)
      
      return(fig)
@@ -485,7 +734,7 @@ for (g in disease_groups) {
      d <- data_class$Shortname[data_class$Group == g]
      
      # panel A: trend of group cases
-     data_group <- data_analysis |>
+     data_group <- data_month |>
           filter(Group == g) |>
           group_by(Date, Year, Month) |>
           summarise(Cases = sum(Cases),
@@ -494,13 +743,13 @@ for (g in disease_groups) {
           # add population
           left_join(data_population, by = 'Year') |>
           # calculate the rate per million population
-          mutate(Incidence = (Cases / sum(Population)) * 1e7,
-                 Mortality = (Deaths / sum(Population)) * 1e7,
+          mutate(Incidence = (Cases / Population) * 1e5,
+                 Mortality = (Deaths / Population) * 1e5,
                  CFR = (Deaths / Cases) * 1000)
      fig_case_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Incidence')
      
      # panel B: trend of each disease
-     data_single <- data_analysis |>
+     data_single <- data_month |>
           filter(Group == g)
      fig_cases <- lapply(d, function(x) {
           title_single <- paste(LETTERS[which(d == x) + 1], x, sep = ": ")
@@ -510,7 +759,7 @@ for (g in disease_groups) {
      })
      
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
-            fig_cases_g + fig_cases + plot_layout(ncol = 4),
+            fig_case_g + fig_cases + plot_layout(ncol = 4),
             device = "png",
             width = 14, height = 7,
             limitsize = FALSE,
@@ -535,8 +784,15 @@ for (g in disease_groups) {
             dpi = 300)
 }
 
+## save apc table ---------------------------------------------------------------
+
+write.xlsx(data_apc |> 
+                select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
+           file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
+
 # save plot ---------------------------------------------------------------
 
-save(data_analysis, data_month, data_class, data_population, file = "./month.RData")
-
-print(data_print, n = Inf)
+save(data_month, data_year,
+     data_month_total, data_year_total,
+     jp_year_results, jp_segmented_results,
+     data_class, data_population, file = "./month.RData")
