@@ -1,0 +1,73 @@
+Disease,Cases,Count,YearStart,YearEnd,Fullname,Shortname,Group,Including,Forecasting,Label
+Anthrax,0,34,2008,2024,Anthrax,Anthrax,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Avian Influenza,0,10,2020,2024,Avian influenza,AIV,Respiratory ID,1,0,Insufficient cases
+Botulism,27,24,2013,2024,Botulism,Botulism,Gastrointestinal ID,1,0,Insufficient cases
+Brucellosis,115,22,2013,2024,Brucellosis,Brucellosis,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Chancroid,16032,34,2008,2024,Chancroid,Chancroid,Sexually ID,1,1,0
+Chickenpox,860845,34,2008,2024,Chickenpox,Chickenpox,Vaccine preventable ID,1,1,0
+Chikungunya,88948,34,2008,2024,Chikungunya,Chikungunya,Vector-borne and zoonotic ID,1,1,0
+Cholera,2724,34,2008,2024,Cholera,Cholera,Gastrointestinal ID,1,0,Insufficient cases
+Condyloma Acuminata,57116,34,2008,2024,Condyloma acuminata,CA,Sexually ID,1,1,0
+D.H.F,578777,34,2008,2024,Dengue hemorrhagic fever,DHF,Vector-borne and zoonotic ID,0,0,Duplication
+D.H.F.shock syndrome,20218,34,2008,2024,Dengue shock syndrome,DSS,Vector-borne and zoonotic ID,0,0,Duplication
+DHF Total,1483577,34,2008,2024,Dengue fever,Dengue fever,Vector-borne and zoonotic ID,1,1,0
+Dengue fever,884873,34,2008,2024,Dengue fever,Dengue fever,Vector-borne and zoonotic ID,0,0,0
+Diphtheria,412,34,2008,2024,Diphtheria,Diphtheria,Vaccine preventable ID,1,0,Insufficient cases
+"Dysentery,Amoebic",40818,34,2008,2024,Amoebic dysentery,Amebiasis,Gastrointestinal ID,1,1,0
+"Dysentery,Bacillary",36065,34,2008,2024,Bacillary dysentery,Shigellosis,Gastrointestinal ID,1,1,0
+Encephalitis Total,12749,34,2008,2024,Enterovirus,Enterovirus,Gastrointestinal ID,1,0,Insufficient cases
+Encephalitis uns,12309,34,2008,2024,Unspecifed encephalitis,Other encephalitis,Others,0,0,Duplication
+Enterovirus Fever,1153,12,2019,2024,Enterovirus,Enterovirus,Gastrointestinal ID,0,0,Duplication
+Eosinophilic Meningitis,2468,34,2008,2024,Eosinophilic meningitis,EM,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Filariasis,229,34,2008,2024,Filariasis,Filariasis,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Food_Poisoning,1861552,34,2008,2024,Food poisoning,Food poisoning,Others,1,0,Uninfectious disease
+Genital Herpes Simplex,34982,34,2008,2024,Genital herpes simplex,Genital herpes,Sexually ID,1,1,0
+Genital Molluscum Contagiosum,774,12,2019,2024,Genital molluscum contagiosum,MC,Sexually ID,1,0,Insufficient cases
+Gonorrhoea,145532,34,2008,2024,Gonorrhoea,Gonorrhoea,Sexually ID,1,1,0
+HFM,846442,34,2008,2024,"Hand, food and month disease",HFMD,Gastrointestinal ID,1,1,0
+HepatitisA,8418,34,2008,2024,Hepatitis A,HAV,Gastrointestinal ID,1,1,0
+HepatitisB,117193,34,2008,2024,Hepatitis B,HBV,Sexually ID,1,1,0
+HepatitisC,14215,34,2008,2024,Hepatitis C,HCV,Sexually ID,1,1,0
+HepatitisD,1465,34,2008,2024,Hepatitis D,HDV,Sexually ID,1,1,Insufficient cases
+HepatitisE,791,34,2008,2024,Hepatitis E,HEV,Gastrointestinal ID,1,0,Insufficient cases
+Hepatitis_uns,27228,34,2008,2024,Unspecifed hepatitis,Unspecifed hepatitis,Others,1,0,Unspecifed disease
+Influenza,2881845,34,2008,2024,Influenza,Influenza,Respiratory ID,1,1,0
+Japanese B encephalitis,60,14,2018,2024,Japanese encephalitis,JE,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Kala azar,19,34,2008,2024,Kala azar,Leishmaniasis,Vector-borne and zoonotic ID,1,0,Insufficient cases
+L.G.V.&other&unsp.V.D,8537,34,2008,2024,Lymphogranuloma venereum and other venereal disease,LGV and other VD,Sexually ID,1,0,Unspecifed disease
+Leprosy,2242,34,2008,2024,Leprosy,Leprosy,Respiratory ID,1,0,Insufficient cases
+Leptospirosis,57568,34,2008,2024,Leptospirosis,Leptospirosis,Vector-borne and zoonotic ID,1,1,0
+Liver fluke,8860,34,2008,2024,Liver fluke,Liver fluke,Gastrointestinal ID,1,1,0
+Malaria,173762,34,2008,2024,Malaria,Malaria,Vector-borne and zoonotic ID,1,1,0
+Measles,50562,34,2008,2024,Measles,Measles,Vaccine preventable ID,0,0,Duplication
+Measles Total,57632,34,2008,2024,Measles,Measles,Vaccine preventable ID,1,1,0
+Measles c Complication,4126,18,2013,2024,Measles c Complication,Measles complications,Vaccine preventable ID,0,0,Duplication
+Melioidosis,51009,34,2008,2024,Melioidosis,Melioidosis,Gastrointestinal ID,1,1,0
+"Meningitis,uns",28800,34,2008,2024,Unspecifed meningitis,Other meningitis,Others,1,0,Unspecifed disease
+Meningococcal Meningitis,381,34,2008,2024,Meningococcal Meningitis,Meningococcal,Vaccine preventable ID,1,0,Insufficient cases
+Mumps,93531,34,2008,2024,Mumps,Mumps,Vaccine preventable ID,1,1,0
+Mushroom poisoning,33686,34,2008,2024,Mushroom poisoning,Mushroom poisoning,Others,1,0,Uninfectious disease
+N.S.U._V,45090,34,2008,2024,Non-specific urethritis / viral,Non-specific urethritis,Sexually ID,1,0,Unspecifed disease
+Other STI,182861,30,2010,2024,Other sexually ID,Other sexually ID,Sexually ID,1,0,Unspecifed disease
+Paratyphoid,4629,34,2008,2024,Paratyphoid,Paratyphoid,Gastrointestinal ID,1,0,Insufficient cases
+Pediculosis Pubis,24,12,2019,2024,Pediculosis pubis,Pediculosis,Sexually ID,1,0,Insufficient cases
+Pertussis,2305,34,2008,2024,Pertussis,Pertussis,Vaccine preventable ID,1,0,Insufficient cases
+Pneumonia,3788223,34,2008,2024,Pneumonia,Pneumonia,Respiratory ID,1,1,0
+Poliomyelitis,0,34,2008,2024,Poliomyelitis,Poliomyelitis,Vaccine preventable ID,1,0,Insufficient cases
+Pulmonary T.B,210349,34,2008,2024,Pulmonary tuberculosis,Pulmonary TB,Respiratory ID,1,1,0
+Rabies,284,34,2008,2024,Rabies,Rabies,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Rubella,5139,34,2008,2024,Rubella,Rubella,Vaccine preventable ID,1,1,0
+STI Total,598059,32,2008,2024,Sexually ID,STI,Sexually ID,0,0,Unspecifed disease
+Scarlet fever,20954,34,2008,2024,Scarlet fever,Scarlet fever,Respiratory ID,1,1,0
+Scrub Typhus,126074,34,2008,2024,Scrub Typhus,Scrub Typhus,Vector-borne and zoonotic ID,1,1,0
+Streptococcus suis,5232,24,2013,2024,Streptococcus suis,Streptococcus suis,Vector-borne and zoonotic ID,1,1,0
+Syphilis,126955,34,2008,2024,Syphilis,Syphilis,Sexually ID,1,1,0
+T.B. other organs,80556,34,2008,2024,Tuberculosis other organs,Other TB,Respiratory ID,0,0,Duplication
+T.B.meningitis,5853,34,2008,2024,Tuberculous meningitis,TBM,Respiratory ID,0,0,Duplication
+TB Total,296856,34,2008,2024,Tuberculous,TB,Respiratory ID,1,1,0
+Tetanus exc.Neo,1329,34,2008,2024,Tetanus,Other tetanus,Vaccine preventable ID,1,0,Insufficient cases
+Tetanus neonatorum,19,34,2008,2024,Tetanus neonatorum,Neonatal tetanus,Vaccine preventable ID,1,0,Insufficient cases
+Trichinosis,228,34,2008,2024,Trichinosis,Trichinosis,Vector-borne and zoonotic ID,1,0,Insufficient cases
+Typhoid,34033,34,2008,2024,Typhoid,Typhoid,Gastrointestinal ID,1,1,0
+Vaginal trichomoniasis,2216,12,2019,2024,Vaginal trichomoniasis,Trichomoniasis,Sexually ID,1,0,Insufficient duration
+Zika virus,1930,12,2019,2024,Zika virus,Zika virus,Vector-borne and zoonotic ID,1,0,Insufficient duration

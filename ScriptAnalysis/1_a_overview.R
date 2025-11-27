@@ -14,7 +14,9 @@ Sys.setlocale(locale = "EN")
 # Options for joinpoint
 run_opt = run_options(model="ln",
                       model_selection_method = 'wbic-alt',
-                      min_joinpoints = 0, max_joinpoints = 4, n_cores=30)
+                      min_joinpoints = 0,
+                      max_joinpoints = 5,
+                      n_cores=parallel::detectCores()-1)
 export_opt = export_options()
 
 # future plan for parallel computing
@@ -31,26 +33,32 @@ list_disease_files <- list.files("../Data/CleanData/",
                                   full.names = T)
 data_month <- lapply(list_disease_files, read.csv) |>
      bind_rows() |> 
-     filter(Year < 2024)
+     filter(Year < 2025)
 
 rm(list_disease_files)
 
-# filter the total cases and deaths, with the year after 2007
+# filter the total cases and deaths, with the year after 2008
 data_select <- data_month |>
-     filter(Year >= 2007) |>
+     filter(Year >= 2008) |>
      filter(Areas == 'Total' & Month == 'Total') |>
      group_by(Disease) |>
      summarise(Cases = sum(Count),
                Count = n(),
+               YearStart = min(Year),
+               YearEnd = max(Year),
                .groups = 'drop')
 
+write.csv(data_select,
+          file = "../Outcome/TotalCasesDeaths.csv",
+          row.names = F)
+
 # read disease class data
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))
 
 # read population data
-data_population <- read.xlsx('../Data/Population/1992-2022.xlsx', sheet = 'age') |> 
+data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age') |> 
      select(YEAR, Total) |> 
      rename(Year = YEAR,
             Population = Total)
@@ -58,7 +66,7 @@ data_population <- read.xlsx('../Data/Population/1992-2022.xlsx', sheet = 'age')
 data_analysis <- data_month |>
      left_join(data_class, by = 'Disease') |>
      filter(Areas == 'Total' & Month != 'Total' & 
-                 !is.na(Shortname) & Year >= 2007) |> 
+                 !is.na(Shortname) & Year >= 2008) |> 
      # transform the Month: Jan -> 01
      mutate(Month = month(parse_date_time(Month, "b"), label = FALSE, abbr = FALSE),
             Group = factor(Group, levels = disease_groups),
@@ -71,7 +79,6 @@ data_analysis <- data_month |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e7,
             Mortality = (Deaths / Population) * 1e7)
-
 
 # summary of NID ----------------------------------------------------------
 
@@ -105,27 +112,26 @@ fig1_data <- data_analysis |>
      arrange(Date) |> 
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
-     mutate(Incidence = (Cases / sum(Population)) * 1e7,
-            Mortality = (Deaths / sum(Population)) * 1e7,
+     mutate(Incidence = (Cases / Population) * 1e7,
+            Mortality = (Deaths / Population) * 1e7,
             CFR = (Deaths / Cases) * 1000) |> 
      # format year and month to fit joinpoint model
      mutate(Month = month(Date),
-            MonthIndex = Year * 12 + Month - 2007 * 12,
+            MonthIndex = Year * 12 + Month - min(data_analysis$Year) * 12,
             .after = Year)
 
 ## STL model
-stl_incidence <- stl(ts(fig1_data$Incidence, start = 2007, frequency = 12),
+stl_incidence <- stl(ts(fig1_data$Incidence, start = min(fig1_data$Year), frequency = 12),
                      s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$Incidence_trend <- stl_incidence$time.series[, 'trend']
 
-stl_mortality <- stl(ts(fig1_data$Mortality, start = 2007, frequency = 12),
+stl_mortality <- stl(ts(fig1_data$Mortality, start = min(fig1_data$Year), frequency = 12),
                      s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$Mortality_trend <- stl_mortality$time.series[, 'trend']
 
 stl_cfr <- stl(ts(fig1_data$CFR, start = 2007, frequency = 12),
                s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$CFR_trend <- stl_cfr$time.series[, 'trend']
-
 
 ## Incidence
 future_incidence <- future({
