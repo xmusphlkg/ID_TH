@@ -6,7 +6,7 @@ library(ggsci)
 library(paletteer)
 library(patchwork)
 library(nih.joinpoint)
-library(future)
+library(furrr)
 
 # System setting
 Sys.setlocale(locale = "EN")
@@ -16,11 +16,11 @@ run_opt = run_options(model="ln",
                       model_selection_method = 'wbic-alt',
                       min_joinpoints = 0,
                       max_joinpoints = 5,
-                      n_cores=parallel::detectCores()-1)
+                      n_cores=30)
 export_opt = export_options()
 
 # future plan for parallel computing
-plan(multisession)
+plan(multisession, workers = 10)
 
 # data --------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ data_print <- data_analysis |>
      arrange(Group, desc(Cases))
 
 
-# Overall trend of month --------------------------------------------------
+# overall trend of month --------------------------------------------------
 
 fill_color_trend <- fill_color_continue[c(1, 3, 5)]
 names(fill_color_trend) <- c("Observed", "STL Trend", "Joinpoint Trend")
@@ -133,37 +133,29 @@ stl_cfr <- stl(ts(fig1_data$CFR, start = 2007, frequency = 12),
                s.window = "periodic", t.window = 24, robust = TRUE)
 fig1_data$CFR_trend <- stl_cfr$time.series[, 'trend']
 
-## Incidence
-future_incidence <- future({
-     joinpoint(fig1_data,
-               x = MonthIndex,
-               y = Incidence_trend,
-               run_opt = run_opt,
-               export_opt = export_opt)
-})
 
-## Mortality
-future_mortality <- future({
-     joinpoint(fig1_data,
-               x = MonthIndex,
-               y = Mortality_trend,
-               run_opt = run_opt,
-               export_opt = export_opt)
-})
+tasks <- list(
+     list(data = fig1_data, x = "MonthIndex", y = "Incidence_trend", label = 'Incidence', run_opt = run_opt, export_opt = export_opt),
+     list(data = fig1_data, x = "MonthIndex", y = "Mortality_trend", label = 'Mortality', run_opt = run_opt, export_opt = export_opt),
+     list(data = fig1_data, x = "MonthIndex", y = "CFR_trend", label = 'CFR', run_opt = run_opt, export_opt = export_opt)
+)
 
-## CFR
-future_cfr <- future({
-     joinpoint(fig1_data,
-               x = MonthIndex,
-               y = CFR_trend,
-               run_opt = run_opt,
-               export_opt = export_opt)
-})
+results <- future_map(
+     tasks,
+     ~ joinpoint(.x$data, x = .x$x, y = .x$y, run_opt = .x$run_opt, export_opt = .x$export_opt)
+)
 
 ## Wait for the results
-joinpoint_incidence <- value(future_incidence)
-joinpoint_mortality <- value(future_mortality)
-joinpoint_cfr <- value(future_cfr)
+joinpoint_incidence <- results[[1]]
+joinpoint_mortality <- results[[2]]
+joinpoint_cfr <- results[[3]]
+
+## add results
+fig1_data$Incidence_joinpoint <- joinpoint_incidence$data_export$model
+fig1_data$Mortality_joinpoint <- joinpoint_mortality$data_export$model
+fig1_data$CFR_joinpoint <- joinpoint_cfr$data_export$model
+
+## figure 1 ----------------------------------------------------------------
 
 fig1 <- ggplot(data = fig1_data)+
      geom_point(mapping = aes(x = Date, y = Incidence, color = 'Observed'),
@@ -190,6 +182,8 @@ fig1 <- ggplot(data = fig1_data)+
                                                      shape = c(16, NA)),
                                  nrows = 1))
 
+## figure 2 ----------------------------------------------------------------
+
 fig2_data <- fig1_data |> 
      select(Date, Mortality, Mortality_trend)
 
@@ -215,6 +209,8 @@ fig2 <- ggplot(data = fig2_data)+
      guides(color = guide_legend(override.aes = list(linetype = c(0, 1),
                                                      shape = c(1, NA)),
                                  nrows = 1))
+
+## figure 3 ----------------------------------------------------------------
 
 fig3_data <- fig1_data |> 
      select(Date, CFR, CFR_trend)
@@ -250,6 +246,8 @@ fig1_data <- fig1_data |>
 # cumulative cases --------------------------------------------------------
 
 names(fill_color) <- disease_groups
+
+## figure 4 ----------------------------------------------------------------
 
 fig4_data <- data_analysis |>
      select(Year, Disease = Shortname, Group, Cases, Deaths) |>
@@ -311,6 +309,8 @@ fig4 <- fig4 + inset_element(fig4_in, left = 0.03, bottom = 0.13, right = 1, top
 
 remove(fig4_in)
 
+## figure 5 ----------------------------------------------------------------
+
 fig5_data <- fig4_data |> 
      select(Disease, Group, Deaths) |> 
      arrange(Group, desc(Deaths))
@@ -361,6 +361,8 @@ fig5_in <- ggplot(data = filter(fig5_data, Deaths <= 1e3))+
 fig5 <- fig5 + inset_element(fig5_in, left = 0.03, bottom = 0.13, right = 1, top = 1.2)
 
 remove(fig5_in)
+
+## figure 6 ----------------------------------------------------------------
 
 fig6_data <- fig4_data |> 
      select(Disease, Group, CFR) |> 
