@@ -14,7 +14,7 @@ source("./function/theme_set.R")
 
 load("./month.RData")
 
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))
 
@@ -26,11 +26,10 @@ list_disease_files <- list.files("../Data/CleanData/",
                                  full.names = T)
 data_case <- lapply(list_disease_files, read.csv) |>
      bind_rows() |>
-     filter(Year >= 2007 & Areas == 'Total') |> 
+     filter(Year >= 2008 & Areas == 'Total') |> 
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |> 
-     select(Group, Shortname, Age, Year, Cases) |> 
-     filter(Year < 2024)
+     select(Group, Shortname, Age, Year, Cases)
 rm(list_disease_files)
 
 # list files in the folder: death data
@@ -39,11 +38,10 @@ list_death_files <- list.files("../Data/CleanData/",
                                  full.names = T)
 data_death <- lapply(list_death_files, read.csv) |>
      bind_rows() |> 
-     filter(Year >= 2007 & Areas == 'Total') |>
+     filter(Year >= 2008 & Areas == 'Total') |>
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |>
-     select(Group, Shortname, Age, Year, Deaths = Cases) |> 
-     filter(Year < 2024)
+     select(Group, Shortname, Age, Year, Deaths = Cases)
 rm(list_death_files)
 
 # merge case and death data
@@ -58,17 +56,12 @@ data_age <- data_case |>
      mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths),
             CFR = Deaths / Cases * 100,
             AgeGroup = factor(AgeGroup, levels = unique(data_agegroup$AgeGroup)),
-            Year_group = if_else(Year >= 2019,
-                                 as.character(Year),
-                                 if_else(Year >= 2015,
-                                         '2015-2018',
-                                         if_else(Year >= 2011,
-                                                 '2011-2014',
-                                                 '2007-2010'))),
-            Year_mark = case_when(Year_group == '2007-2010' ~ 1,
-                                  Year_group == '2011-2014' ~ 2,
-                                  Year_group == '2015-2018' ~ 3,
-                                  TRUE ~ as.integer(Year_group) - 2015)) |> 
+            Year_group = case_when(Year %in% 2008:2010 ~ '2008-2010',
+                                   Year %in% 2011:2013 ~ '2011-2013',
+                                   Year %in% 2014:2016 ~ '2014-2016',
+                                   TRUE ~ as.character(Year)),
+            Year_group = factor(Year_group),
+            Year_mark = as.integer(Year_group)) |> 
      # finding leading causes of death, case and CFR in each age group
      group_by(AgeGroup, AgeGroupID, Year_group, Year_mark) |>
      summarise(Max_Cases_Disease = Shortname[which.max(Cases)],
@@ -77,8 +70,7 @@ data_age <- data_case |>
                .groups = 'drop')
 
 # get disease list
-
-set.seed(20240901)
+set.seed(20251201)
 
 max_disease <- data_age |>
      select(Max_Cases_Disease, Max_Deaths_Disease, Max_CFR_Disease) |>
@@ -116,10 +108,19 @@ for (i in 1:3) {
           scale_y_continuous(breaks = unique(data$Year_mark),
                              labels = unique(data$Year_group),
                              expand = expansion(mult = c(0, 0)))+
-          theme_plot()+
-          labs(title = LETTERS[i],
-               x = ifelse(i == 3, 'Age (years)', ''),
-               y = NULL)
+          theme_bw()
+     
+     if (i == 3) {
+          fig <- fig +
+               labs(title = LETTERS[i],
+                    x = 'Age (years)',
+                    y = NULL)
+     } else {
+          fig <- fig +
+               labs(title = LETTERS[i],
+                    x = NULL,
+                    y = NULL)
+     }
      
      assign(paste('fig', i, sep = ''), fig)
 }
@@ -133,6 +134,11 @@ ggsave(filename = "../outcome/publish/fig4.pdf",
        height = 8,
        device = cairo_pdf,
        family = "Times New Roman")
+
+ggsave(filename = "../outcome/publish/fig4.png",
+       plot = fig,
+       width = 12,
+       height = 8)
 
 # figure data
 write.xlsx(data_outcome,
