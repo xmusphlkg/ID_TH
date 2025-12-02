@@ -122,6 +122,8 @@ fill_color_disease_max <- fill_color_disease[1:(length(max_disease)-1)]
 fill_color_disease_max <- c(fill_color_disease_max, 'grey50')
 names(fill_color_disease_max) <- max_disease
 
+save(fill_color_disease_max, file = './fill_color_disease_max.RData')
+
 # visual ------------------------------------------------------------------
      
 data_outcome <- list()

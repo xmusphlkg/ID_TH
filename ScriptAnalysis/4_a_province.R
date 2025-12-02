@@ -19,7 +19,7 @@ remove(list = ls())
 
 load("./month.RData")
 
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))
 
@@ -29,13 +29,12 @@ list_disease_files <- list.files("../Data/CleanData/",
                                  full.names = T)
 data_region <- lapply(list_disease_files, read.csv) |>
      bind_rows() |>
-     filter(Year >= 2007 & Areas != 'Total' & 
+     filter(Year >= 2008 & Areas != 'Total' & 
                  !str_detect(Areas, regex("zone", ignore_case = TRUE)) &
                  !str_detect(Areas, regex("region", ignore_case = TRUE))) |>
      left_join(data_class, by = 'Disease') |>
      filter(!is.na(Shortname)) |> 
-     select(Group, Shortname, Year, Areas, Incidence, Mortality, CFR) |> 
-     filter(Year < 2024)
+     select(Group, Shortname, Year, Areas, Incidence, Mortality)
 rm(list_disease_files)
 
 # unique(data_region$Areas)
@@ -52,12 +51,10 @@ data_map <- read_sf("../Data/gadm41_THA_shp/gadm41_THA_1.shp") |>
 # Phra Nakhon Si Ayutthaya: P.Nakhon S.Ayutthaya
 
 data_map <- data_map |>
-     mutate(NAME_1 = case_when(
-          NAME_1 == "Bangkok Metropolis" ~ "Bangkok",
-          NAME_1 == "Bueng Kan" ~ "Bungkan",
-          NAME_1 == "Phra Nakhon Si Ayutthaya" ~ "P.Nakhon S.Ayutthaya",
-          TRUE ~ NAME_1
-     ))
+     mutate(NAME_1 = case_when(NAME_1 == "Bangkok Metropolis" ~ "Bangkok",
+                               NAME_1 == "Bueng Kan" ~ "Bungkan",
+                               NAME_1 == "Phra Nakhon Si Ayutthaya" ~ "P.Nakhon S.Ayutthaya",
+                               TRUE ~ NAME_1))
 
 # check the difference between the two datasets
 which(!unique(data_map$NAME_1) %in% unique(data_region$Areas))
@@ -68,27 +65,20 @@ disease_name <- data_class$Shortname
 save.image(file = "./region.RData")
 
 data_region_leading <- data_region |>
-     mutate(Year_group = if_else(Year >= 2019,
-                                 as.character(Year),
-                                 if_else(Year >= 2015,
-                                         '2015-2018',
-                                         if_else(Year >= 2011,
-                                                 '2011-2014',
-                                                 '2007-2010'))),
-            Year_mark = case_when(Year_group == '2007-2010' ~ 1,
-                                  Year_group == '2011-2014' ~ 2,
-                                  Year_group == '2015-2018' ~ 3,
-                                  TRUE ~ as.integer(Year_group) - 2015)) |> 
+     mutate(Year_group = case_when(Year %in% 2008:2010 ~ '2008-2010',
+                                   Year %in% 2011:2013 ~ '2011-2013',
+                                   Year %in% 2014:2016 ~ '2014-2016',
+                                   TRUE ~ as.character(Year)),
+            Year_group = factor(Year_group),
+            Year_mark = as.integer(Year_group)) |> 
      group_by(Group, Shortname, Year_group, Year_mark, Areas) |>
      summarise(Incidence = mean(Incidence, na.rm = T),
                Mortality = mean(Mortality, na.rm = T),
-               CFR = mean(CFR, na.rm = T),
                .groups = 'drop') |> 
-     # finding leading causes of death, case and CFR in each age group
+     # finding leading causes of death, case in each age group
      group_by(Areas, Year_group, Year_mark) |>
      summarise(Max_Incidence_Disease = Shortname[which.max(Incidence)],
                Max_Mortality_Disease = Shortname[which.max(Mortality)],
-               Max_CFR_Disease = Shortname[which.max(CFR)],
                .groups = 'drop')
 
 # plot --------------------------------------------------------------------
@@ -96,6 +86,8 @@ data_region_leading <- data_region |>
 set.seed(20240901)
 
 source("./function/theme_set.R")
+
+# load('./fill_color_disease_max.RData')
 
 year_group <- unique(data_region_leading$Year_group)
 
@@ -142,7 +134,9 @@ plot_map_group <- function(index, data_region_leading, data_map, year_group, y) 
           # display all disease label in the legend
           guides(fill = guide_legend(ncol = 1, title.position = 'top')) +
           labs(fill = paste0("Leading disease in\n", tolower(str_extract(index, "Incidence|Mortality"))),
-               title = LETTERS[ifelse(index == 'Max_Incidence_Disease', y, y + 9)])
+               title = paste(LETTERS[y],
+                             year_group[y],
+                             sep = ": "))
      
      return(fig)
 }
@@ -155,7 +149,7 @@ fig_incidence <- lapply(1:length(year_group), plot_map_group,
 fig_incidence <- fig_incidence |>
      reduce(`+`) +
      guide_area() +
-     plot_layout(ncol = 5, guides = "collect")
+     plot_layout(ncol = 6, guides = "collect")
 
 fig_mortality <- lapply(1:length(year_group), plot_map_group,
                         data_region_leading = data_region_leading,
@@ -165,20 +159,16 @@ fig_mortality <- lapply(1:length(year_group), plot_map_group,
 fig_mortality <- fig_mortality |>
      reduce(`+`) +
      guide_area() +
-     plot_layout(ncol = 5, guides = "collect")
+     plot_layout(ncol = 6, guides = "collect")
 
-# merge plot --------------------------------------------------------------
+# save plot --------------------------------------------------------------
 
-# bind the two lists
-fig <- fig_incidence / fig_mortality
+ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/incidence.png",
+       plot = fig_incidence,
+       width = 14,
+       height = 9)
 
-ggsave(filename = "../outcome/publish/fig5.pdf",
-       plot = fig,
-       width = 12,
-       height = 18,
-       device = cairo_pdf,
-       family = "Times New Roman")
-
-# figure data
-write.xlsx(data_region_leading,
-           file = "../outcome/Appendix/figure_data/fig5.xlsx")
+ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/mortality.png",
+       plot = fig_mortality,
+       width = 14,
+       height = 9)
