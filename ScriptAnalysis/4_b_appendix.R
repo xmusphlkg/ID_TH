@@ -24,7 +24,7 @@ load("./region.RData")
 plot_map_year <- function(d, data_region, data_map, y, breaks_incidence, breaks_mortality) {
      data <- sp::merge(data_map, data_region |>
                             filter(Year == y & Shortname == d) |>
-                            select(Areas, Incidence, Mortality, CFR),
+                            select(Areas, Incidence, Mortality),
                        by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
           # add class based on the breaks
           mutate(i_class = cut(Incidence, breaks = breaks_incidence, include.lowest = T, labels = F),
@@ -102,14 +102,14 @@ plot_map <- function(d, data_region, data_map) {
      # add legend to fig
      fig[[length(fig) + 1]] <- ggdraw() +
           draw_plot(legend, x = 0.5, y = 0.5, width = 1, height = 1, vjust = 0.5, hjust = 0.5)
-     fig <- patchwork::wrap_plots(fig, ncol = 5)
+     fig <- patchwork::wrap_plots(fig, ncol = 6)
      
      # save the plot
      ggsave(
           filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_2/", d, ".png"),
           fig,
           device = "png",
-          width = 14, height = 15,
+          width = 14, height = 13,
           limitsize = FALSE,
           dpi = 300
      )
