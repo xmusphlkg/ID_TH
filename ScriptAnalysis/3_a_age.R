@@ -44,8 +44,10 @@ data_death <- lapply(list_death_files, read.csv) |>
      select(Group, Shortname, Age, Year, Deaths = Cases)
 rm(list_death_files)
 
+## rank --------------------------------------------------------------------
+
 # merge case and death data
-data_age <- data_case |> 
+data_age_all <- data_case |> 
      left_join(data_death, by = c('Group', 'Shortname', 'Age', 'Year')) |> 
      left_join(data_agegroup, by = 'Age') |>
      filter(AgeGroup != 'Unknown') |> 
@@ -54,92 +56,181 @@ data_age <- data_case |>
                Deaths = sum(Deaths, na.rm = T),
                .groups = 'drop') |>
      mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths),
-            CFR = Deaths / Cases * 100,
             AgeGroup = factor(AgeGroup, levels = unique(data_agegroup$AgeGroup)),
             Year_group = case_when(Year %in% 2008:2010 ~ '2008-2010',
                                    Year %in% 2011:2013 ~ '2011-2013',
                                    Year %in% 2014:2016 ~ '2014-2016',
                                    TRUE ~ as.character(Year)),
             Year_group = factor(Year_group),
-            Year_mark = as.integer(Year_group)) |> 
-     # finding leading causes of death, case and CFR in each age group
+            Year_mark = as.integer(Year_group))
+
+# create the ranking of each disease by cases and deaths
+data_age_top <- data_age_all |> 
+     # finding leading causes of death, case in each age group
      group_by(AgeGroup, AgeGroupID, Year_group, Year_mark) |>
      summarise(Max_Cases_Disease = Shortname[which.max(Cases)],
                Max_Deaths_Disease = Shortname[which.max(Deaths)],
-               Max_CFR_Disease = Shortname[which.max(CFR)],
                .groups = 'drop')
 
 # get disease list
-set.seed(20251201)
-
-max_disease <- data_age |>
-     select(Max_Cases_Disease, Max_Deaths_Disease, Max_CFR_Disease) |>
+max_disease <- data_age_top |>
+     select(Max_Cases_Disease, Max_Deaths_Disease) |>
      unlist() |>
-     table() |> 
-     sort(decreasing = T) |>
-     as.data.frame()
-fill_color_disease_max <- rep(fill_color_disease[-c(1:5)], ceiling((nrow(max_disease)-5)/5))
-fill_color_disease_max <- c(fill_color_disease[1:5], fill_color_disease_max[1:(nrow(max_disease)-5)])
+     unique()
 
-names(fill_color_disease_max) <- max_disease$Var1
+## cumulative --------------------------------------------------------------
+
+# create cumulative data for plotting
+data_age_cumulative <- data_age_all |> 
+     select(AgeGroup, AgeGroupID, Shortname, Cases, Deaths) |>
+     # find top 3 diseases of each age group
+     group_by(AgeGroup, AgeGroupID, Shortname) |>
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop') |> 
+     group_by(AgeGroup, AgeGroupID) |>
+     arrange(desc(Cases), .by_group = TRUE) |>
+     mutate(rank_in_group = row_number(),
+            Top_cases_tag = if_else(rank_in_group <= 3, Shortname, "Others")) |> 
+     arrange(desc(Deaths), .by_group = TRUE) |>
+     mutate(rank_in_group = row_number(),
+            Top_deaths_tag = if_else(rank_in_group <= 3, Shortname, 'Others')) |> 
+     ungroup()
+
+# check disease list
+legend_disease_list <- data_age_cumulative |>
+     select(Top_cases_tag, Top_deaths_tag) |>
+     unlist() |> 
+     append(max_disease) |> 
+     unique()
+
+# order by cumulative cases
+max_disease <- data_age_cumulative |>
+     mutate(Max_tag = case_when(Shortname %in% legend_disease_list ~ Shortname,
+                                TRUE ~ 'Others')) |> 
+     filter(Max_tag != 'Others') |> 
+     group_by(Max_tag) |>
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop') |> 
+     arrange(desc(Cases)) |> 
+     pull(Max_tag) |> 
+     append('Others')
+
+## get colors
+fill_color_disease_max <- fill_color_disease[1:(length(max_disease)-1)]
+fill_color_disease_max <- c(fill_color_disease_max, 'grey50')
+names(fill_color_disease_max) <- max_disease
+
+# visual ------------------------------------------------------------------
      
 data_outcome <- list()
 
-for (i in 1:3) {
-     data <- data_age |>
-          select(AgeGroup, AgeGroupID, Year_group, Year_mark, colnames(data_age)[i + 4]) |> 
-          rename(Outcome = colnames(data_age)[i + 4]) |> 
+for (i in 1:2) {
+     # cumulative panel
+     data_cumulative <- data_age_cumulative |>
+          select(AgeGroup, AgeGroupID, contains(c('ases', 'eaths')[i])) |>
+          filter(AgeGroup != 'Total')
+     names(data_cumulative)[3:4] <- c('Outcome', 'Max_tag')
+     
+     data_cumulative <- data_cumulative |>
+          group_by(AgeGroup, AgeGroupID, Max_tag) |>
+          summarise(Outcome = sum(Outcome),
+                    .groups = 'drop') |>
+          mutate(Max_tag = factor(Max_tag, levels = max_disease)) |>
+          arrange(AgeGroupID, Max_tag)
+     
+     data_outcome[[paste('panel', LETTERS[i*2-1], sep = '')]] <- data_cumulative
+     
+     panel_breaks <- data_cumulative |>
+          pull(Outcome) |>
+          append(0) |> 
+          pretty(n = 5)
+     
+     fig_cumulative <- data_cumulative |>
+          ggplot(aes(x = AgeGroup, y = Outcome, fill = Max_tag)) +
+          geom_col(color = 'white',
+                   position = 'dodge',
+                   width = 0.8,
+                   show.legend = T) +
+          scale_fill_manual(values = fill_color_disease_max,
+                            drop = F) +
+          scale_x_discrete(limits = unique(data_age_cumulative$AgeGroup),
+                           breaks = unique(data_cumulative$AgeGroup),
+                           expand = expansion(add = c(0, 0.6))) +
+          scale_y_continuous(expand = expansion(mult = c(0, 0)),
+                             limits = range(panel_breaks),
+                             labels = scientific_10,
+                             breaks = panel_breaks) +
+          theme_bw()+
+          theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+                axis.text.x = element_blank(),
+                panel.grid = element_blank())+
+          labs(title = LETTERS[i*2-1],
+               fill = 'Disease',
+               x = NULL,
+               y = ifelse(i == 1, 'Cumulative cases', 'Cumulative deaths'))+
+          guides(fill = guide_legend(nrow = 1, byrow = T))
+     
+     # rank panel
+     data_rank <- data_age_top |>
+          select(AgeGroup, AgeGroupID, Year_group, Year_mark, colnames(data_age_top)[i + 4]) |> 
+          rename(Outcome = colnames(data_age_top)[i + 4]) |> 
           left_join(data_class, by = c('Outcome' = 'Shortname')) |>
           select(-c(Disease, Fullname))
      
-     data_outcome[[paste('panel', LETTERS[i], sep = '')]] <- data
+     data_outcome[[paste('panel', LETTERS[i*2], sep = '')]] <- data_rank
      
-     fig <- data |>
+     fig_rank <- data_rank |>
           ggplot(aes(x = AgeGroupID, y = Year_mark, fill = Outcome)) +
           geom_tile(aes(width = 1, height = 1),
                     color = 'white',
                     show.legend = F) +
-          geom_text(aes(label = Outcome), size = 3) +
+          geom_text(aes(label = Outcome), size = 3, fontface = "bold") +
           scale_fill_manual(values = fill_color_disease_max) +
-          coord_cartesian(ylim = c(length(unique(data$Year_mark))+0.5, 0.5)) +
-          scale_x_continuous(breaks = unique(data$AgeGroupID),
-                             labels = unique(data$AgeGroup),
+          coord_cartesian(ylim = c(length(unique(data_rank$Year_mark))+0.5, 0.5)) +
+          scale_x_continuous(breaks = unique(data_rank$AgeGroupID),
+                             labels = unique(data_rank$AgeGroup),
                              expand = expansion(mult = c(0, 0))) +
-          scale_y_continuous(breaks = unique(data$Year_mark),
-                             labels = unique(data$Year_group),
+          scale_y_continuous(breaks = unique(data_rank$Year_mark),
+                             labels = unique(data_rank$Year_group),
                              expand = expansion(mult = c(0, 0)))+
-          theme_bw()
+          theme_bw()+
+          theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+                panel.grid = element_blank())
      
-     if (i == 3) {
-          fig <- fig +
-               labs(title = LETTERS[i],
+     if (i == 2) {
+          fig_rank <- fig_rank +
+               labs(title = LETTERS[i*2],
                     x = 'Age (years)',
                     y = NULL)
      } else {
-          fig <- fig +
-               labs(title = LETTERS[i],
+          fig_rank <- fig_rank +
+               labs(title = LETTERS[i*2],
                     x = NULL,
                     y = NULL)
      }
      
-     assign(paste('fig', i, sep = ''), fig)
+     assign(paste('fig', i*2, sep = ''), fig_rank)
+     assign(paste('fig', i*2-1, sep = ''), fig_cumulative)
 }
 
-fig <- fig1 + fig2 + fig3 +
-     plot_layout(ncol = 1, heights = c(1, 1, 1))
+fig <- fig1 + fig2 + fig3 + fig4 +
+     plot_layout(ncol = 1, heights = c(0.5, 1, 0.5, 1), guides = 'collect') &
+     theme(legend.position = 'bottom')
 
-ggsave(filename = "../outcome/publish/fig4.pdf",
+ggsave(filename = "../outcome/publish/fig3.pdf",
        plot = fig,
-       width = 12,
-       height = 8,
+       width = 14,
+       height = 10,
        device = cairo_pdf,
        family = "Times New Roman")
 
-ggsave(filename = "../outcome/publish/fig4.png",
+ggsave(filename = "../outcome/publish/fig3.png",
        plot = fig,
-       width = 12,
-       height = 8)
+       width = 14,
+       height = 10)
 
 # figure data
 write.xlsx(data_outcome,
-           file = "../outcome/Appendix/figure_data/fig4.xlsx")
+           file = "../outcome/Appendix/figure_data/fig3.xlsx")

@@ -7,8 +7,6 @@ library(openxlsx)
 
 # data --------------------------------------------------------------------
 
-remove(list = ls())
-
 source("./function/theme_set.R")
 
 load("./month.RData")
@@ -167,7 +165,7 @@ fig2 <- ggplot() +
                nudge_x = -0.35,
                color = 'white',
                fontface = 'bold',
-               vjust = 0.5, hjust = 0, size = 3, check_overlap = F) +
+               vjust = 0.5, hjust = 0, size = 2.5, check_overlap = F) +
      geom_segment(data = connections,
                   aes(x = Year_mark+arrow_space, y = Deaths_rank,
                       color = Deaths_next_status,
@@ -186,27 +184,28 @@ fig2 <- ggplot() +
            legend.position = 'bottom',
            legend.box = 'horizontal',
            legend.direction = "horizontal",
+           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
            axis.text.y = element_blank(),
            axis.ticks.y = element_blank())+
      labs(x = NULL,
           color = "Changes of ranking",
           fill = "Categories",
-          title = '',
+          title = 'E: Deaths ranking in all IDs',
           y = NULL)+
      guides(color = guide_legend(nrow = 1, order = 2, override.aes = list(fill = 'white')),
             fill = guide_legend(nrow = 1, order = 1))
 
 ggsave(filename = "../outcome/publish/fig3.pdf",
        plot = fig2,
-       width = 14,
+       width = 16,
        height = 8,
        device = cairo_pdf,
        family = "Times New Roman")
 
 ggsave(filename = "../outcome/publish/fig3.png",
        plot = fig2,
-       width = 14,
-       height = 12)
+       width = 16,
+       height = 8)
 
 write.xlsx(data_plot |> select(Shortname, Group, Year_group, Deaths, Deaths_rank),
            file = "../outcome/Appendix/figure_data/fig3.xlsx")

@@ -73,7 +73,10 @@ connections <- data_plot |>
 
 # fig1 --------------------------------------------------------------------
 
-facet_label <- paste(LETTERS[1:length(disease_groups)], ': ', unique(disease_groups), sep = '')
+facet_label <- c('A: Cases ranking in respiratory IDs',
+                 'B: Cases ranking in vector-borne and zoonotic IDs',
+                 'C: Cases ranking in gastrointestinal IDs',
+                 'D: Cases ranking in sexually transmitted IDs')
 names(facet_label) <- disease_groups
 
 fig1 <- ggplot() +
@@ -94,7 +97,7 @@ fig1 <- ggplot() +
                nudge_x = -0.35,
                color = 'white',
                fontface = 'bold',
-               vjust = 0.5, hjust = 0, size = 3, check_overlap = F) +
+               vjust = 0.5, hjust = 0, size = 2.5, check_overlap = F) +
      geom_segment(data = connections,
                   aes(x = Year_mark+arrow_space, y = Cases_rank,
                       color = Cases_next_status,
@@ -127,18 +130,34 @@ fig1 <- ggplot() +
      guides(color = guide_legend(nrow = 1, order = 2, override.aes = list(fill = 'white')),
             fill = guide_legend(nrow = 1, order = 1))
 
+fig_data <- data_plot |>
+     select(Shortname, Group, Year_group, Cases, Cases_rank) |> 
+     group_split(Group)
+
+# fig2 -------------------------------------------------------------
+
+source("./2_b_ranking.R")
+
+fig_data_all <- append(
+     fig_data,
+     data_plot |>
+          select(Shortname, Group, Year_group, Deaths, Deaths_rank) |> 
+          list()
+)
+
+# save ------------------------------------------------------
+
 ggsave(filename = "../outcome/publish/fig2.pdf",
-       plot = fig1,
+       plot = fig1/fig2 + plot_layout(ncol = 1, heights = c(1, 0.65), guides = 'collect') & theme(legend.position = 'bottom'),
        width = 14,
-       height = 12,
+       height = 14,
        device = cairo_pdf,
        family = "Times New Roman")
 
 ggsave(filename = "../outcome/publish/fig2.png",
-       plot = fig1,
+       plot = fig1/fig2 + plot_layout(ncol = 1, heights = c(1, 0.65), guides = 'collect') & theme(legend.position = 'bottom'),
        width = 14,
-       height = 12)
+       height = 14)
 
-# figure data
-write.xlsx(data_plot |> select(Shortname, Group, Year_group, Cases, Cases_rank),
+write.xlsx(fig_data_all,
            file = "../outcome/Appendix/figure_data/fig2.xlsx")
