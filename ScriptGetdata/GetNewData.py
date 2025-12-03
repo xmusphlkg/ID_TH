@@ -22,10 +22,10 @@ from typing import List, Tuple
 # utility helpers moved to separate module for reuse
 try:
     # when running as script from this directory, this module is importable by name
-    from getnewdata_utils import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
+    from ID_TH.ScriptGetdata.GetNewDataFunction import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
 except Exception:
     # fallback to package-style import when available
-    from ScriptGetdata.getnewdata_utils import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
+    from ID_TH.ScriptGetdata.GetNewDataFunction import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
 
 # Default URL from the notebook
 DEFAULT_URL = "https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/priority_v2/Dashboard2?%3Aembed=y&%3AisGuestRedirectFromVizportal=y"
