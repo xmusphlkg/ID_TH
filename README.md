@@ -101,3 +101,10 @@ python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568,2567 --split-by chw
 ## collect data from weekly data source (2025) with splitting by health service region (SKR)
 python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by SKR
 ```
+
+# To do list
+
+- [ ] Fixed 0 cases of scarlat fever, TB, EM and Trichomoniasis in 2024
+- [ ] Collect TB data from new weekly data source (2025 onwards)
+- [ ] Transition from weekly data to monthly data aggregation
+- [ ] Add cross-validation for time series model selection
