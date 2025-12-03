@@ -236,12 +236,12 @@ python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
 # Skip already downloaded files to resume interrupted work
 python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2566,2567,2568 \
+  --years 2566,2565,2564,2563 \
   --split-by 'โรค' \
   --split-by 'กลุ่มอายุ' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
   --output-dir ID_TH/Data/GetNewDataUpdate \
-  --workers 8 \
+  --workers 20 \
   --no-overwrite
 ```
 
