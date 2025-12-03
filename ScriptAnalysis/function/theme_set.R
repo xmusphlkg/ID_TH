@@ -68,15 +68,16 @@ func_rmse <-
     )
   }
 
-fill_color <- c("#E64B35FF", "#3C5488FF", "#91D1C2FF", "#7E6148FF")
+fill_color <- c("#E64B35FF", "#4DBBD5FF", "#3C5488FF", "#91D1C2FF", "#7E6148FF")
 fill_color_disease <- paletteer_d("rcartocolor::Pastel")[1:10]
 fill_color_continue <- paletteer_d("MoMAColors::ustwo")
 
 index_labels <- c("SMAPE", "RMSE", "MASE", "R_Squared")
-disease_groups <- c("Respiratory ID",
-                    "Vector-borne and zoonotic ID",
-                    "Gastrointestinal ID",
-                    "Sexually ID")
+disease_groups <- c("Respiratory IDs",
+                    "Vector-borne and zoonotic IDs",
+                    "Gastrointestinal IDs",
+                    "Sexually IDs",
+                    "Other IDs")
 models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
 models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid*", "Bayesian structural")
 

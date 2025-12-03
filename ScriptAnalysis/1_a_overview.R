@@ -410,8 +410,9 @@ fig1 <- ggplot(data = fig1_data)+
                         breaks = plot_breaks_1,
                         limits = c(-0.2, 1)*max(plot_breaks_1)) +
      theme_bw() +
-     theme(legend.position = 'none') +
-     labs(y = "Monthly incidence (per 100,000)",
+     theme(legend.position = 'none',
+           panel.grid = element_blank()) +
+     labs(y = "Monthly incidence rate",
           x = 'Date',
           title = 'A')
 
@@ -438,10 +439,8 @@ fig2 <- ggplot(data = fig2_data)+
      geom_line(mapping = aes(x = Date, y = Mortality_trend, color = 'Trend'), linewidth = 1) +
      geom_line(mapping = aes(x = Date, y = Mortality_joinpoint, color = 'Model'), linewidth = 1) +
      scale_color_manual(values = line_color,
-                        name = 'Rate',
                         breaks = names(line_color)) +
      scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Orange", direction = -1),
-                          name = "APC (%)",
                           limits = range(plot_breaks_apc),
                           breaks = plot_breaks_apc,
                           labels = plot_breaks_apc) +
@@ -456,9 +455,12 @@ fig2 <- ggplot(data = fig2_data)+
            legend.box = 'horizontal',
            legend.direction = 'horizontal',
            legend.position.inside = c(0.99, 0.99),
-           legend.justification = c(1, 1)) +
-     labs(y = "Monthly mortality (per 100,000)",
+           legend.justification = c(1, 1),
+           panel.grid = element_blank()) +
+     labs(y = "Monthly mortality rate",
           x = 'Date',
+          color = 'Rate (per 100,000)',
+          fill = "APC (%)",
           title = 'B')+
      guides(color = guide_legend(nrow = 1, order = 1, byrow = TRUE, title.position = "top"),
             fill = guide_colorbar(order = 2, barwidth = 10, barheight = 1, title.position = "top"))
@@ -486,13 +488,12 @@ data_group <- data_month |>
 fig3_data <- data_group |> 
      select(Date, Group, Incidence)
 
-plot_breaks_3 <- c(log10(0.5), 0, 1, 2, 3)
+plot_breaks_3 <- c(log10(0.2), 0, 1, 2, 3)
 
 fig3 <- ggplot(data = fig3_data)+
      geom_line(mapping = aes(x = Date, y = Incidence, color = Group),
               show.legend = F) +
      scale_color_manual(values = fill_color,
-                        name = 'Disease group',
                         breaks = names(fill_color)) +
      scale_x_date(date_breaks = "2 year",
                   date_labels = "%Y",
@@ -504,7 +505,8 @@ fig3 <- ggplot(data = fig3_data)+
                         labels = scales::number(10^plot_breaks_3),
                         trans = 'log10')+
      theme_bw()+
-     theme(legend.position = 'none')+
+     theme(legend.position = 'none',
+           panel.grid = element_blank())+
      labs(y = "Monthly incidence (per 100,000)",
           x = 'Date',
           title = 'C')
@@ -531,10 +533,12 @@ fig4 <- ggplot(data = fig4_data)+
      theme(legend.position = 'inside',
            legend.background = element_rect(fill = "transparent", color = NA),
            legend.position.inside = c(0.99, 0.99),
-           legend.justification = c(1, 1))+
-     guides(color = guide_legend(nrow = 2, byrow = TRUE))+
+           legend.justification = c(1, 1),
+           panel.grid = element_blank())+
+     guides(color = guide_legend(ncol = 2, byrow = TRUE))+
      labs(y = "Monthly mortality (per 100,000)",
           x = 'Date',
+          color = "Disease categories",
           title = 'D')
 
 # heatmap ------------------------------------------------------------------
@@ -547,84 +551,75 @@ data_heat <- data_year |>
             Incidence_normal = ifelse(is.na(Incidence_normal), 0, Incidence_normal),
             Mortality_normal = ifelse(is.na(Mortality_normal), 0, Mortality_normal))
 
-## figure 6 ----------------------------------------------------------------
+## figure 5 ----------------------------------------------------------------
 
-fig5_data <- data_heat |> 
-     select(Disease, Group, Year, Incidence, Incidence_normal)
-
-plot_breaks_5 <- pretty(fig5_data$Incidence_normal, n = 4)
-
-fig5 <- ggplot(data = fig5_data)+
-     geom_tile(mapping = aes(x = Year, y = Disease, fill = Incidence_normal),
-              show.legend = T)+
-     scale_x_continuous(breaks = seq(min(fig5_data$Year), max(fig5_data$Year), by = 2),
-                        expand = c(0, 0))+
-     scale_y_discrete(expand = c(0, 0),
-                      limits = rev(data_class$Shortname))+
-     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Lemon", direction = -1),
-                          name = "Normalized rate",
-                          limits = range(plot_breaks_5),
-                          breaks = plot_breaks_5,
-                          labels = round(plot_breaks_5, 2))+
-     theme_bw()+
-     theme(legend.position = 'bottom')+
-     labs(y = NULL,
-          x = 'Year',
-          title = 'E: Normalized annual incidence')+
-     guides(fill = guide_colorbar(barwidth = 20, barheight = 1, title.position = "left"))
-
-## figure 6 ----------------------------------------------------------------
-
-fig6_data <- data_year |> 
+fig5_data <- data_year |> 
      select(Disease, Group, Year, Cases) |> 
      group_by(Group, Disease) |>
      summarise(TotalCases = sum(Cases),
-               .groups = 'drop')
+               .groups = 'drop') |> 
+     arrange(desc(TotalCases))
 
-plot_breaks_6 <- pretty(fig6_data$TotalCases, n = 4)
+plot_breaks_5 <- pretty(fig5_data$TotalCases, n = 4)
 
-fig6 <- ggplot(data = fig6_data)+
+fig5 <- ggplot(data = fig5_data)+
      geom_bar(mapping = aes(x = TotalCases, y = Disease, fill = Group),
               stat = 'identity',
               show.legend = T)+
      scale_x_continuous(expand = c(0, 0),
-                        limits = range(plot_breaks_6),
-                        breaks = plot_breaks_6,
+                        trans = 'reverse',
+                        limits = range(plot_breaks_5),
+                        breaks = plot_breaks_5,
                         labels = scientific_10)+
      scale_y_discrete(expand = c(0, 0),
-                      limits = rev(data_class$Shortname))+
+                      limits = rev(fig5_data$Disease))+
      scale_fill_manual(values = fill_color) +
      theme_bw()+
-     theme(legend.position = 'bottom')+
+     theme(legend.position = 'bottom',
+           panel.grid.minor = element_blank(),
+           plot.margin = margin(5, 10, 5, 10),
+           axis.ticks.y = element_blank(),
+           axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Cumulative cases',
-          title = 'F')
+          fill = "Disease categories",
+          title = 'E')
 
-## figure 7 ----------------------------------------------------------------
+## figure 6 ----------------------------------------------------------------
 
-fig7_data <- data_heat |> 
-     select(Disease, Group, Year, Mortality, Mortality_normal)
+fig6_data <- data_heat |> 
+     ungroup() |> 
+     select(Disease, Year, Incidence, Incidence_normal) |> 
+     complete(Disease = unique(fig5_data$Disease),
+              Year = seq(min(Year), max(Year)),
+              fill = list(Incidence = NA, Incidence_normal = NA))
 
-plot_breaks_7 <- pretty(fig7_data$Mortality_normal, n = 4)
+plot_breaks_6 <- pretty(fig6_data$Incidence_normal, n = 4)
 
-fig7 <- ggplot(data = fig7_data)+
-     geom_tile(mapping = aes(x = Year, y = Disease, fill = Mortality_normal),
-              show.legend = T)+
-     scale_x_continuous(breaks = seq(min(fig7_data$Year), max(fig7_data$Year), by = 2),
+fig6 <- ggplot(data = fig6_data)+
+     geom_tile(mapping = aes(x = Year, y = Disease, fill = Incidence_normal),
+               show.legend = T)+
+     scale_x_continuous(breaks = seq(min(fig6_data$Year), max(fig6_data$Year), by = 2),
                         expand = c(0, 0))+
      scale_y_discrete(expand = c(0, 0),
-                      limits = rev(data_class$Shortname))+
+                      limits = rev(fig5_data$Disease),
+                      position = "right")+
      scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Lemon", direction = -1),
+                          na.value = "white",
                           name = "Normalized rate",
-                          limits = range(plot_breaks_7),
-                          breaks = plot_breaks_7,
-                          labels = round(plot_breaks_7, 2))+
+                          limits = range(plot_breaks_6),
+                          breaks = plot_breaks_6,
+                          labels = round(plot_breaks_6, 2))+
      theme_bw()+
-     theme(legend.position = 'bottom')+
+     theme(legend.position = 'bottom',
+           plot.margin = margin(5, 0, 5, 0),
+           axis.ticks.y = element_blank(),
+           legend.title.position = "top",
+           axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Year',
-          title = 'G: Normalized annual motality')+
-     guides(fill = guide_colorbar(barwidth = 20, barheight = 1, title.position = "left"))
+          title = 'F: Normalized annual incidence rate')+
+     guides(fill = guide_colorbar(barwidth = 20, barheight = 1))
 
 ## figure 8 --------------------------------------------------------------
 
@@ -632,7 +627,8 @@ fig8_data <- data_year |>
      select(Disease, Group, Year, Deaths) |> 
      group_by(Group, Disease) |>
      summarise(TotalDeaths = sum(Deaths),
-               .groups = 'drop')
+               .groups = 'drop') |> 
+     arrange(desc(TotalDeaths))
 
 plot_breaks_8 <- pretty(fig8_data$TotalDeaths, n = 4)
 
@@ -645,21 +641,117 @@ fig8 <- ggplot(data = fig8_data)+
                         breaks = plot_breaks_8,
                         labels = scientific_10)+
      scale_y_discrete(expand = c(0, 0),
-                      limits = rev(data_class$Shortname))+
+                      limits = rev(fig8_data$Disease))+
      scale_fill_manual(values = fill_color) +
      theme_bw()+
-     theme(legend.position = 'bottom')+
+     theme(legend.position = 'bottom',
+           plot.margin = margin(5, 10, 5, 10),
+           panel.grid.minor = element_blank(),
+           axis.ticks.y = element_blank(),
+           axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Cumulative deaths',
-          title = 'F')
+          fill = "Disease categories",
+          title = 'H')
+
+## figure 7 ----------------------------------------------------------------
+
+fig7_data <- data_heat |> 
+     ungroup() |>
+     select(Disease, Year, Mortality, Mortality_normal) |> 
+     complete(Disease = unique(fig8_data$Disease),
+              Year = seq(min(Year), max(Year)),
+              fill = list(Mortality = NA, Mortality_normal = NA))
+
+plot_breaks_7 <- pretty(fig7_data$Mortality_normal, n = 4)
+
+fig7 <- ggplot(data = fig7_data)+
+     geom_tile(mapping = aes(x = Year, y = Disease, fill = Mortality_normal),
+              show.legend = T)+
+     scale_x_continuous(breaks = seq(min(fig7_data$Year), max(fig7_data$Year), by = 2),
+                        expand = c(0, 0))+
+     scale_y_discrete(expand = c(0, 0),
+                      limits = rev(fig8_data$Disease))+
+     scale_fill_gradientn(colors = paletteer_d("LaCroixColoR::Lemon", direction = -1),
+                          name = "Normalized rate",
+                          na.value = "white",
+                          limits = range(plot_breaks_7),
+                          breaks = plot_breaks_7,
+                          labels = round(plot_breaks_7, 2))+
+     theme_bw()+
+     theme(legend.position = 'bottom',
+           plot.margin = margin(5, 0, 5, 0),
+           legend.title.position = "top",
+           axis.ticks.y = element_blank(),
+           axis.text.y = element_blank())+
+     labs(y = NULL,
+          x = 'Year',
+          title = 'G: Normalized annual motality rate')+
+     guides(fill = guide_colorbar(barwidth = 20, barheight = 1))
+
+# connection --------------------------------------------------------------
+
+library(ggbump)
+
+data_connect <- fig5_data |> 
+     mutate(cases_rank = rank(TotalCases, ties.method = 'first')) |>
+     left_join(fig8_data |>
+                    mutate(deaths_rank = rank(TotalDeaths, ties.method = 'first')),
+               by = c('Disease', 'Group')) |> 
+     select(Disease, Group, cases_rank, deaths_rank) |> 
+     mutate(x_start = 1.7,
+            x_end = 3.3)
+
+fig_connect <- ggplot(data = data_connect)+
+     geom_sigmoid(mapping = aes(x = x_start, y = cases_rank, xend = x_end, yend = deaths_rank,
+                                color = Group,
+                                group = Disease),
+                  smooth = 5,
+                  alpha = 0.5,
+                  linewidth = 1.5,
+                  show.legend = F) +
+     geom_tile(mapping = aes(x = 1, y = cases_rank, fill = Group),
+               color = 'white',
+               width = 1.4,
+               alpha = 0.5,
+               show.legend = F)+
+     geom_tile(mapping = aes(x = 4, y = deaths_rank, fill = Group),
+               color = 'white',
+               width = 1.4,
+               alpha = 0.5,
+               show.legend = F)+
+     geom_text(mapping = aes(x = 0.5, y = cases_rank, label = Disease),
+               color = 'black',
+               hjust = 0,
+               size = 3)+
+     geom_text(mapping = aes(x = 4.5, y = deaths_rank, label = Disease),
+               color = 'black',
+               hjust = 1,
+               size = 3)+
+     scale_fill_manual(values = fill_color)+
+     scale_color_manual(values = fill_color)+
+     coord_cartesian(xlim = c(0.4, 4.6),
+                     ylim = c(0.5, nrow(data_connect) + 0.5),
+                     expand = F)+
+     theme_bw()+
+     theme(axis.ticks = element_blank(),
+           axis.text = element_blank(),
+           axis.title = element_blank(),
+           panel.grid = element_blank(),
+           legend.position = 'none',
+           plot.background = element_blank(),
+           panel.background = element_blank(),
+           plot.margin = margin(5, 0, 5, 0))
 
 # save --------------------------------------------------------------------
 
-fig <- cowplot::plot_grid(fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2),
-                          fig5 + fig6 + fig7 + fig8 + 
-                               plot_layout(nrow = 1, widths = c(2, 1, 2, 1), guides = 'collect', axes = 'collect') &
+fig <- cowplot::plot_grid(fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2)&
+                               theme(legend.title.position = "top"),
+                          fig5 + fig6 + fig_connect + fig7 + fig8 + 
+                               plot_layout(nrow = 1, widths = c(0.8, 1.5, 2, 1.5, 0.8), guides = 'collect', axes = 'collect') &
                                theme(legend.position = "bottom",
-                                     plot.margin = margin(5, 15, 5, 5)),
+                                     plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+                                     legend.title.position = "top"),
                           nrow = 2,
                           ncol = 1,
                           rel_heights = c(2, 3))
@@ -675,7 +767,6 @@ ggsave(filename = "../Outcome/Publish/fig1.pdf",
        height = 16,
        device = cairo_pdf,
        family = "Times New Roman")
-
 
 # figure data
 data_fig <- list("panel A" = fig1_data,
