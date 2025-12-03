@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""GetNewData.py
+"""GetNewDataUpdate.py
 
-Fetches the first worksheet from a Tableau dashboard using tableauscraper,
-selects/renames columns robustly, attempts to fill disease aliases, and
-writes a CSV to the Data/Tableau folder by default.
+Enhanced version with multiprocessing support for faster data extraction.
+Fetches worksheets from Tableau dashboard, applies filters, and splits data by dimensions.
 
 Usage:
-    python ID_TH/ScriptGetdata/GetNewData.py --split-by age_group
+    python ID_TH/ScriptGetdata/GetNewDataUpdate.py --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 --split-by 'โรค' --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+        --output-dir ID_TH/Data/GetNewDataUpdate --workers 4
 """
 
 from tableauscraper import TableauScraper as TS
@@ -17,15 +18,36 @@ import sys
 import logging
 from pathlib import Path
 import itertools
-from typing import List, Tuple
+from typing import List, Tuple, Dict, Any
+from multiprocessing import Pool, cpu_count
+from functools import partial
+import warnings
 
-# utility helpers moved to separate module for reuse
+# Suppress all tableauscraper logging output
+logging.getLogger('tableauScraper').setLevel(logging.CRITICAL)
+logging.getLogger('tableauScraper').propagate = False
+
+# Suppress all warnings from tableauscraper
+warnings.filterwarnings('ignore', module='tableauscraper')
+warnings.filterwarnings('ignore', module='tableauScraper')
+
 try:
-    # when running as script from this directory, this module is importable by name
-    from getnewdata_utils import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
+    from tqdm import tqdm
+    TQDM_AVAILABLE = True
+except ImportError:
+    TQDM_AVAILABLE = False
+    logging.warning('tqdm not available; progress bar will not be shown. Install with: pip install tqdm')
+
+try:
+    from GetNewDataFunction import (
+        get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
+        extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
+    )
 except Exception:
-    # fallback to package-style import when available
-    from ScriptGetdata.getnewdata_utils import get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component
+    from ID_TH.ScriptGetdata.GetNewDataFunction import (
+        get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
+        extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
+    )
 
 DEFAULT_URL = "https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/sheet127?%3Aembed=y&%3AisGuestRedirectFromVizportal=y"
 
@@ -49,6 +71,167 @@ _LOG_PATH = Path(__file__).resolve().parent / 'GetNewDataUpdate.log'
 logging.basicConfig(filename=str(_LOG_PATH), filemode='a', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Suppress tableauscraper warnings
+logging.getLogger('tableauScraper').setLevel(logging.ERROR)
+
+
+def process_single_task(task: Dict[str, Any]) -> Dict[str, Any]:
+    """Process a single data extraction task (worker function for multiprocessing).
+    
+    Args:
+        task: dict with keys:
+            - url: dashboard URL
+            - map_worksheet: name of map worksheet
+            - target_worksheet: name of target worksheet to extract
+            - year: year value (optional)
+            - year_param: (param_name, param_value) tuple (optional)
+            - filter_pairs: list of (filter_name, value) tuples
+            - output_dir: output directory
+            - filename: output filename
+            - overwrite: whether to overwrite existing files (optional)
+            
+    Returns:
+        dict with result info (name, filename, rows, path, error, skipped)
+    """
+    try:
+        url = task['url']
+        map_ws_name = task['map_worksheet']
+        target_ws_name = task['target_worksheet']
+        filter_pairs = task['filter_pairs']
+        output_dir = task['output_dir']
+        filename = task['filename']
+        year_param = task.get('year_param')
+        overwrite = task.get('overwrite', True)
+        
+        # Check if file exists and should not be overwritten
+        outpath = os.path.join(output_dir, filename)
+        abs_out = os.path.abspath(outpath)
+        if not overwrite and os.path.exists(abs_out):
+            # Get file size to return rows estimate
+            try:
+                import pandas as pd
+                existing_df = pd.read_csv(abs_out)
+                rows = len(existing_df)
+            except:
+                rows = 0
+            return {
+                'name': target_ws_name,
+                'filename': filename,
+                'rows': rows,
+                'path': abs_out,
+                'skipped': True
+            }
+        
+        # Load map worksheet with year parameter if provided (quiet mode)
+        params = [year_param] if year_param else None
+        _, map_ws = get_worksheet(url, map_ws_name, parameters=params, verbose=False)
+        
+        if map_ws is None:
+            return {'error': f'Could not load map worksheet {map_ws_name}', 'path': None, 'rows': 0}
+        
+        # Apply filters and fetch target worksheet
+        fetched_df = fetch_other_worksheet_after_server_filters(map_ws, filter_pairs, target_ws_name)
+        
+        if fetched_df.empty:
+            logging.debug(f'Empty data for {filename} with filters {filter_pairs}')
+        
+        # Save to CSV (quiet mode)
+        out_path = save_filtered_csv(fetched_df, output_dir, filename, verbose=False, overwrite=overwrite)
+        
+        return {
+            'name': target_ws_name,
+            'filename': filename,
+            'rows': len(fetched_df),
+            'path': out_path
+        }
+    except Exception as e:
+        logging.exception(f'Error processing task: {task}')
+        return {
+            'error': str(e),
+            'filename': task.get('filename', 'unknown'),
+            'path': None,
+            'rows': 0
+        }
+
+
+def generate_tasks_for_split(
+    url: str,
+    map_worksheet: str,
+    target_worksheet: str,
+    split_cols: List[str],
+    all_domains: List[Tuple[str, List[str]]],
+    output_dir: str,
+    year_param: Tuple[str, str] = None,
+    overwrite: bool = True
+) -> List[Dict[str, Any]]:
+    """Generate task list for multiprocessing based on filter combinations.
+    
+    Args:
+        url: Tableau dashboard URL
+        map_worksheet: Name of map worksheet
+        target_worksheet: Name of target worksheet
+        split_cols: List of split column names
+        all_domains: List of (filter_name, [values]) tuples
+        output_dir: Base output directory
+        year_param: Optional (param_name, param_value) tuple
+        overwrite: Whether to overwrite existing files
+        
+    Returns:
+        List of task dictionaries for process_single_task
+    """
+    tasks = []
+    
+    if not all_domains or not all(vals for _, vals in all_domains):
+        # No valid domains, create single task with no filters
+        task = {
+            'url': url,
+            'map_worksheet': map_worksheet,
+            'target_worksheet': target_worksheet,
+            'filter_pairs': [],
+            'output_dir': output_dir,
+            'filename': f"{safe_filename_component(target_worksheet)}.csv",
+            'year_param': year_param,
+            'overwrite': overwrite
+        }
+        tasks.append(task)
+        return tasks
+    
+    # Generate cartesian product of all dimensions
+    value_lists = [vals for _, vals in all_domains]
+    filter_names = [name for name, _ in all_domains]
+    
+    for combo in itertools.product(*value_lists):
+        server_pairs = [(name, val) for name, val in zip(filter_names, combo)]
+        
+        # Build output directory and filename
+        if len(combo) == 1:
+            # Single dimension: use value directly as filename, no subdirectory
+            fname = f"{safe_filename_component(combo[0])}.csv"
+            out_dir = output_dir
+        else:
+            # Multi-dimensional: create subdirectories for all dimensions EXCEPT the first one
+            # e.g., output_dir/กลุ่มอายุ/<disease>_<age_group>.csv (not output_dir/โรค/กลุ่มอายุ/...)
+            out_dir = Path(output_dir)
+            for dim_name in filter_names[1:]:  # Skip first dimension
+                out_dir = out_dir / dim_name
+            fname_parts = [safe_filename_component(v) for v in combo]
+            fname = '__'.join(fname_parts) + '.csv'
+            out_dir = str(out_dir)
+        
+        task = {
+            'url': url,
+            'map_worksheet': map_worksheet,
+            'target_worksheet': target_worksheet,
+            'filter_pairs': server_pairs,
+            'output_dir': out_dir,
+            'filename': fname,
+            'year_param': year_param,
+            'overwrite': overwrite
+        }
+        tasks.append(task)
+    
+    return tasks
+
 
 def fetch_dataframe_with_server_filters(original_ws, filter_pairs: List[Tuple[str, str]]):
     """Apply server-side filters (Tableau) by calling `setFilter` on the worksheet sequentially.
@@ -61,13 +244,10 @@ def fetch_dataframe_with_server_filters(original_ws, filter_pairs: List[Tuple[st
     ws = original_ws
     try:
         for name, val in filter_pairs:
-            # setFilter returns a workbook-like object per tableauscraper docs
             wb = ws.setFilter(name, val)
-            # try to get the same worksheet (by name) from returned workbook
             try:
                 ws = wb.getWorksheet(original_ws.name)
             except Exception:
-                # fallback: search returned workbook worksheets by name attribute
                 try:
                     wss = getattr(wb, 'worksheets', None)
                     if wss:
@@ -84,68 +264,6 @@ def fetch_dataframe_with_server_filters(original_ws, filter_pairs: List[Tuple[st
     except Exception as e:
         logging.exception(f'Error applying server filters {filter_pairs}: {e}')
         return None
-
-
-def fetch_other_worksheet_after_server_filters(original_ws, filter_pairs: List[Tuple[str, str]], target_ws_name: str):
-    """Apply server-side filters to original_ws (usually the map) and return DataFrame from target worksheet.
-
-    original_ws: worksheet object to call setFilter on
-    filter_pairs: list of (filter_name, value) to apply sequentially
-    target_ws_name: name (or partial name) of the worksheet to extract from the returned workbook
-    """
-    ws = original_ws
-    try:
-        wb = None
-        for name, val in filter_pairs:
-            wb = ws.setFilter(name, val)
-            # after first setFilter, subsequent setFilter should be called on the returned workbook's worksheet
-            try:
-                ws = wb.getWorksheet(original_ws.name)
-            except Exception:
-                # fallback: try to find by name in workbook worksheets
-                try:
-                    wss = getattr(wb, 'worksheets', None)
-                    if wss:
-                        ws = next((w for w in wss if getattr(w, 'name', None) == original_ws.name), ws)
-                except Exception:
-                    pass
-
-        # wb should now be the last returned workbook-like object
-        if wb is None:
-            logging.error('No workbook returned after applying filters')
-            return pd.DataFrame()
-
-        # try to locate target worksheet in wb
-        try:
-            # exact match
-            try:
-                target_ws = wb.getWorksheet(target_ws_name)
-            except Exception:
-                target_ws = None
-
-            if target_ws is None:
-                # fallback: search worksheets list
-                wss = getattr(wb, 'worksheets', [])
-                # try exact, case-insensitive, substring
-                target_ws = next((w for w in wss if getattr(w, 'name', '') == target_ws_name), None)
-                if target_ws is None:
-                    target_ws = next((w for w in wss if getattr(w, 'name', '').lower() == target_ws_name.lower()), None)
-                if target_ws is None:
-                    target_ws = next((w for w in wss if target_ws_name.lower() in getattr(w, 'name', '').lower() or getattr(w, 'name', '').lower() in target_ws_name.lower()), None)
-
-            if target_ws is None:
-                logging.error(f'Could not find target worksheet "{target_ws_name}" in workbook after applying filters')
-                return pd.DataFrame()
-
-            df = target_ws.data
-            return pd.DataFrame(df) if df is not None else pd.DataFrame()
-        except Exception as e:
-            logging.exception(f'Error extracting target worksheet {target_ws_name} after filters: {e}')
-            return pd.DataFrame()
-    except Exception as e:
-        logging.exception(f'Error applying server filters {filter_pairs} to fetch other worksheet: {e}')
-        return pd.DataFrame()
-
 
 
 def process_first_worksheet(url: str, output_dir: str, worksheet_index: int = 0, filename: str = "all_weekly_priority_cases.csv", parameters: list = None):
@@ -208,12 +326,14 @@ def build_argparser():
     default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'GetNewDataUpdate')
     p.add_argument('--output-dir', default=default_output, help='Output directory for CSV')
     p.add_argument('--worksheet-index', type=int, default=0, help='Index of worksheet to process (0-based)')
-    p.add_argument('--worksheet-name', type=str, default=None, help='Worksheet name to process (overrides --worksheet-index when provided)')
-    p.add_argument('--filename', default='all_weekly_priority_cases.csv', help='Output filename')
-    p.add_argument('--filter', action='append', help='Filter in the form field=value1,value2 (can repeat)')
-    p.add_argument('--split-by', action='append', help='Column name to split output by; will save one file per value (can repeat)')
+    p.add_argument('--worksheet-name', help='Name of worksheet to process (preferred over index)')
+    p.add_argument('--filter', action='append', help='Filter condition(s) like "field=a,b" (can repeat)')
+    p.add_argument('--filename', default='data.csv', help='Base filename for outputs (used as template)')
     p.add_argument('--years', action='append', help='Years to fetch (e.g., 2563 or 2563,2564). Can repeat.')
     p.add_argument('--also-fetch', action='append', help='Additional worksheet name(s) to fetch after applying parameters/filters (can repeat)')
+    p.add_argument('--workers', type=int, default=1, help='Number of parallel workers for multiprocessing (default: 1, 0 or -1 for CPU count)')
+    p.add_argument('--no-overwrite', action='store_true', help='Skip files that already exist (default: overwrite existing files)')
+    p.add_argument('--split-by', action='append', help='Column name to split output by; will save one file per value (can repeat)')
     return p
 
 def download_with_filters(url: str, filter_conditions: dict, output_dir: str, worksheet_index: int = 0, filename_template: str = "data_{suffix}.csv", split_by: list = None, parameters: list = None, save_overall: bool = True):
@@ -431,6 +551,7 @@ def download_with_filters(url: str, filter_conditions: dict, output_dir: str, wo
 def main(argv=None):
     logging.info('----------------------------------------')
     logging.info('Starting collection of new data from Tableau dashboard')
+    print('Fetching dashboard metadata...')
 
     argv = argv if argv is not None else sys.argv[1:]
     args = build_argparser().parse_args(argv)
@@ -446,14 +567,24 @@ def main(argv=None):
                 part = part.strip()
                 if part:
                     years.append(part)
-
+    # Determine number of workers
+    num_workers = args.workers if args.workers > 0 else cpu_count()
+    overwrite = not args.no_overwrite
+    
+    logging.info(f'Using {num_workers} workers for parallel processing')
+    logging.info(f'Overwrite mode: {overwrite}')
+    if not overwrite:
+        print(f'Skip mode enabled: existing files will not be overwritten')
+    
+    results = []
     results = []
 
     # choose worksheet identifier: prefer name if provided, otherwise index
     worksheet_identifier = args.worksheet_name if getattr(args, 'worksheet_name', None) else args.worksheet_index
 
-    # Retrieve workbook parameters (best-effort) to discover year parameter name/values
-    workbook, sample_ws = get_worksheet(args.url, worksheet_identifier)
+    # Retrieve workbook metadata (parameters, worksheets, filters) once at the beginning
+    logging.info('Fetching dashboard metadata (parameters, worksheets, filters)...')
+    workbook, sample_ws = get_worksheet(args.url, worksheet_identifier, verbose=True)
     year_param_name = None
     year_param_column = None
     year_param_values = None
@@ -489,89 +620,61 @@ def main(argv=None):
     # If user didn't pass years but we discovered parameter values, default to those
     if not years and year_param_values:
         years = year_param_values
-
+    
+    # Log the processing plan
+    logging.info(f'Running for years: {years if years else ["(no year filter)"]}')
+    logging.info(f'Filters: {filter_conditions}, split_by={args.split_by}')
+    if getattr(args, 'also_fetch', None):
+        logging.info(f'Additional worksheets to fetch: {args.also_fetch}')
+    
     # If no years discovered or provided, run without per-year loop
     if not years:
-        # Single run
-        # If user requested `also_fetch`, they want only the additional worksheet(s) saved
+        # Single run (no year parameter)
         if getattr(args, 'also_fetch', None):
-            logging.info(f'User requested additional worksheets: {args.also_fetch}; skipping main worksheet save')
-            results = []
+            logging.info(f'Fetching additional worksheets: {args.also_fetch}')
+            print(f'Fetching worksheets: {args.also_fetch}')
+            
+            # Load map worksheet once to extract filter metadata
+            _, t_map = get_worksheet(args.url, worksheet_identifier, verbose=False)
+            if t_map is None:
+                logging.error('Failed to load map worksheet')
+                return
+            
+            # Extract split columns and their domain values
+            split_cols = args.split_by if args.split_by else []
+            all_domains = extract_split_domains_from_filters(t_map, split_cols)
+            
+            # Generate all tasks for all target worksheets
+            all_tasks = []
             for extra in args.also_fetch:
-                logging.info(f'Also fetching worksheet {extra} (no year parameters)')
-                # Load map worksheet to extract filter metadata (not dataframe columns)
-                wb_map, t_map = get_worksheet(args.url, worksheet_identifier)
-                if t_map is None:
-                    logging.error('Could not load map worksheet')
-                    continue
-
-                split_cols = args.split_by or []
-                if not split_cols:
-                    logging.warning('No split_by provided; saving full target worksheet once')
-                    fetched = fetch_other_worksheet_after_server_filters(t_map, [], extra)
-                    out = save_filtered_csv(fetched, args.output_dir, f"{safe_filename_component(extra)}_{args.filename}")
-                    results.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
-                    continue
-
-                # Extract domain values for ALL split dimensions from map worksheet's FILTER metadata
-                try:
-                    map_filters = t_map.getFilters()
-                    # Build map of filter name -> filter metadata
-                    filter_map = {}
-                    for f in (map_filters or []):
-                        if isinstance(f, dict) and 'column' in f:
-                            filter_map[f['column'].lower()] = f
-                    
-                    # For each split column, extract domain values
-                    all_domains = []  # list of (filter_name, [values])
-                    for sname in split_cols:
-                        split_filter = filter_map.get(sname.lower())
-                        if split_filter and 'values' in split_filter:
-                            # Filter out special values
-                            domain_vals = [v for v in split_filter['values'] if v and str(v) != 'เลือกทุกครั้งเพื่อแสดงอัตราป่วย']
-                            all_domains.append((sname, domain_vals))
-                            logging.info(f'Found {len(domain_vals)} values for filter {sname} from map worksheet')
-                        else:
-                            logging.warning(f'Could not find filter {sname} in map worksheet filters; available filters: {list(filter_map.keys())}')
-                            all_domains.append((sname, []))
-                except Exception as e:
-                    logging.exception(f'Error extracting filter values from map worksheet: {e}')
-                    all_domains = [(s, []) for s in split_cols]
-
-                # Check if we have valid domains
-                if not all_domains or not all(vals for _, vals in all_domains):
-                    logging.warning(f'No valid domain values found for split columns; saving full target worksheet once')
-                    fetched = fetch_other_worksheet_after_server_filters(t_map, [], extra)
-                    out = save_filtered_csv(fetched, args.output_dir, f"{safe_filename_component(extra)}_{args.filename}")
-                    results.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
-                    continue
-
-                value_lists = [vals for _, vals in all_domains]
-                filter_names = [name for name, _ in all_domains]
-                
-                for combo in itertools.product(*value_lists):
-                    # Build server filter pairs for this combination
-                    server_pairs = [(name, val) for name, val in zip(filter_names, combo)]
-                    logging.info(f'Applying server filters {server_pairs} on map to fetch {extra}')
-                    fetched = fetch_other_worksheet_after_server_filters(t_map, server_pairs, extra)
-                    
-                    # Build filename from combination values (multi-dimensional case)
-                    if len(combo) == 1:
-                        # Single dimension: use value directly as filename
-                        fname = f"{safe_filename_component(combo[0])}.csv"
-                        out_dir = args.output_dir
+                tasks = generate_tasks_for_split(
+                    url=args.url,
+                    map_worksheet=worksheet_identifier,
+                    target_worksheet=extra,
+                    split_cols=split_cols,
+                    all_domains=all_domains,
+                    output_dir=args.output_dir,
+                    year_param=None,
+                    overwrite=overwrite
+                )
+                all_tasks.extend(tasks)
+            
+            total_tasks = len(all_tasks)
+            logging.info(f'Generated {total_tasks} tasks for parallel execution')
+            print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
+            
+            # Execute tasks in parallel with progress bar
+            if num_workers > 1:
+                with Pool(processes=num_workers) as pool:
+                    if TQDM_AVAILABLE:
+                        results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
                     else:
-                        # Multi-dimensional: create subdirectories for dimensions
-                        # e.g., output_dir/โรค/กลุ่มอายุ/<disease>_<age_group>.csv
-                        out_dir = Path(args.output_dir)
-                        for dim_name in filter_names:
-                            out_dir = out_dir / dim_name
-                        fname_parts = [safe_filename_component(v) for v in combo]
-                        fname = '__'.join(fname_parts) + '.csv'
-                        out_dir = str(out_dir)
-                    
-                    out = save_filtered_csv(fetched, out_dir, fname)
-                    results.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
+                        results = pool.map(process_single_task, all_tasks)
+            else:
+                if TQDM_AVAILABLE:
+                    results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
+                else:
+                    results = [process_single_task(task) for task in all_tasks]
         else:
             if filter_conditions or args.split_by:
                 logging.info(f'Filter conditions: {filter_conditions}, split_by: {args.split_by}')
@@ -582,99 +685,55 @@ def main(argv=None):
                     worksheet_identifier,
                     filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
                     split_by=args.split_by,
+                    parameters=None,
+                    save_overall=False if args.split_by else True,
                 )
             else:
-                results = process_first_worksheet(args.url, args.output_dir, worksheet_identifier, args.filename)
+                # No filters/split, fetch full worksheet
+                r = process_first_worksheet(args.url, args.output_dir, worksheet_identifier, args.filename, parameters=None)
+                results = r if isinstance(r, list) else [r]
     else:
-        # iterate years and save into per-year subfolders
-        logging.info(f'Running for years: {years}')
+        # Iterate years and process with multiprocessing
+        logging.info(f'Processing years: {years}')
+        print(f'Processing years: {years} with {num_workers} worker(s)...')
+        
+        all_year_tasks = []
         for y in years:
             per_year_output = str(Path(args.output_dir) / str(y))
             param_identifier = year_param_column if year_param_column else year_param_name
-            params_to_apply = [(param_identifier, y)] if param_identifier else None
+            year_param = (param_identifier, y) if param_identifier else None
 
             if filter_conditions or args.split_by:
-                logging.info(f'Year={y}: filters={filter_conditions}, split_by={args.split_by}')
                 if getattr(args, 'also_fetch', None):
-                    r = []
+                    # Load map worksheet with year parameter to extract filter domains
+                    params_to_apply = [year_param] if year_param else None
+                    _, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply, verbose=False)
+                    if t_map is None:
+                        logging.error(f'Failed to load map worksheet for year {y}')
+                        continue
+                    
+                    # Extract split columns and their domain values
+                    split_cols = args.split_by if args.split_by else []
+                    all_domains = extract_split_domains_from_filters(t_map, split_cols)
+                    
+                    logging.info(f'Found {sum(len(vals) for _, vals in all_domains)} total values across {len(all_domains)} split dimension(s) for year {y}')
+                    
+                    # Generate tasks for this year
                     for extra in args.also_fetch:
-                        logging.info(f'Year={y}: also fetching worksheet {extra} via map filters')
-                        # Load map worksheet (with year parameter already applied) to extract filter metadata
-                        wb_map, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply)
-                        if t_map is None:
-                            logging.error('Could not load map worksheet to derive split values')
-                            continue
-
-                        split_cols = args.split_by or []
-                        if not split_cols:
-                            logging.warning('No split_by provided; saving full target worksheet once')
-                            fetched = fetch_other_worksheet_after_server_filters(t_map, [], extra)
-                            out = save_filtered_csv(fetched, per_year_output, f"{safe_filename_component(extra)}_{args.filename}")
-                            r.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
-                            continue
-
-                        # Extract domain values for ALL split dimensions from map worksheet's FILTER metadata
-                        try:
-                            map_filters = t_map.getFilters()
-                            # Build map of filter name -> filter metadata
-                            filter_map = {}
-                            for f in (map_filters or []):
-                                if isinstance(f, dict) and 'column' in f:
-                                    filter_map[f['column'].lower()] = f
-                            
-                            # For each split column, extract domain values
-                            all_domains = []  # list of (filter_name, [values])
-                            for sname in split_cols:
-                                split_filter = filter_map.get(sname.lower())
-                                if split_filter and 'values' in split_filter:
-                                    # Filter out special values
-                                    domain_vals = [v for v in split_filter['values'] if v and str(v) != 'เลือกทุกครั้งเพื่อแสดงอัตราป่วย']
-                                    all_domains.append((sname, domain_vals))
-                                    logging.info(f'Year={y}: Found {len(domain_vals)} values for filter {sname}')
-                                else:
-                                    logging.warning(f'Year={y}: Could not find filter {sname} in map worksheet filters; available: {list(filter_map.keys())}')
-                                    all_domains.append((sname, []))
-                        except Exception as e:
-                            logging.exception(f'Year={y}: Error extracting filter values from map worksheet: {e}')
-                            all_domains = [(s, []) for s in split_cols]
-
-                        # Check if we have valid domains
-                        if not all_domains or not all(vals for _, vals in all_domains):
-                            logging.warning(f'Year={y}: No valid domain values found for split columns; saving full target worksheet once')
-                            fetched = fetch_other_worksheet_after_server_filters(t_map, [], extra)
-                            out = save_filtered_csv(fetched, per_year_output, f"{safe_filename_component(extra)}_{args.filename}")
-                            r.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
-                            continue
-
-                        # Generate cartesian product of all split dimensions
-                        import itertools
-                        value_lists = [vals for _, vals in all_domains]
-                        filter_names = [name for name, _ in all_domains]
-                        
-                        for combo in itertools.product(*value_lists):
-                            # Build server filter pairs for this combination
-                            server_pairs = [(name, val) for name, val in zip(filter_names, combo)]
-                            logging.info(f'Year={y}: applying server filters {server_pairs} on map to fetch {extra}')
-                            fetched = fetch_other_worksheet_after_server_filters(t_map, server_pairs, extra)
-                            
-                            # Build filename from combination values (multi-dimensional case)
-                            if len(combo) == 1:
-                                # Single dimension: use value directly as filename
-                                fname = f"{safe_filename_component(combo[0])}.csv"
-                                out_dir = per_year_output
-                            else:
-                                # Multi-dimensional: create subdirectories for dimensions
-                                # e.g., per_year_output/โรค/กลุ่มอายุ/<disease>_<age_group>.csv
-                                out_dir = Path(per_year_output)
-                                for dim_name in filter_names:
-                                    out_dir = out_dir / dim_name
-                                fname_parts = [safe_filename_component(v) for v in combo]
-                                fname = '__'.join(fname_parts) + '.csv'
-                                out_dir = str(out_dir)
-                            
-                            out = save_filtered_csv(fetched, out_dir, fname)
-                            r.append({'name': extra, 'filename': os.path.basename(out), 'rows': len(fetched), 'path': out})
+                        tasks = generate_tasks_for_split(
+                            url=args.url,
+                            map_worksheet=worksheet_identifier,
+                            target_worksheet=extra,
+                            split_cols=split_cols,
+                            all_domains=all_domains,
+                            output_dir=per_year_output,
+                            year_param=year_param,
+                            overwrite=overwrite
+                        )
+                        all_year_tasks.extend(tasks)
                 else:
+                    # Use existing download_with_filters (no multiprocessing for this path)
+                    params_to_apply = [year_param] if year_param else None
                     r = download_with_filters(
                         args.url,
                         filter_conditions,
@@ -685,26 +744,73 @@ def main(argv=None):
                         parameters=params_to_apply,
                         save_overall=False if args.split_by else True,
                     )
+                    results.extend(r)
             else:
-                logging.info(f'Year={y}: fetching full worksheet into {per_year_output}')
+                # No filters/split, fetch full worksheet
+                params_to_apply = [year_param] if year_param else None
                 r = process_first_worksheet(args.url, per_year_output, worksheet_identifier, args.filename, parameters=params_to_apply)
+                results.extend(r)
+                
                 if getattr(args, 'also_fetch', None):
                     for extra in args.also_fetch:
-                        logging.info(f'Year={y}: also fetching worksheet {extra} (full)')
                         try:
-                            wb, t_extra = get_worksheet(args.url, extra, parameters=params_to_apply)
+                            _, t_extra = get_worksheet(args.url, extra, parameters=params_to_apply, verbose=False)
                             if t_extra is not None:
                                 df_extra = pd.DataFrame(t_extra.data) if t_extra.data is not None else pd.DataFrame()
                                 extra_template = f"{safe_filename_component(extra)}_{args.filename}"
-                                out = save_filtered_csv(df_extra, per_year_output, extra_template)
-                                r.append({'name': getattr(t_extra, 'name', extra), 'filename': os.path.basename(out), 'rows': len(df_extra), 'path': out})
+                                out = save_filtered_csv(df_extra, per_year_output, extra_template, verbose=False)
+                                results.append({'name': getattr(t_extra, 'name', extra), 'filename': os.path.basename(out), 'rows': len(df_extra), 'path': out})
                         except Exception:
-                            logging.exception(f'Failed to fetch additional worksheet {extra} for year {y}')
+                            logging.exception(f'Year={y}: Failed to fetch worksheet {extra}')
+        
+        # Execute all year tasks in parallel if any were generated
+        if all_year_tasks:
+            logging.info(f'Generated {len(all_year_tasks)} total tasks across all years')
+            print(f'\nExecuting {len(all_year_tasks)} task(s)...')
+            if num_workers > 1:
+                if TQDM_AVAILABLE:
+                    with Pool(processes=num_workers) as pool:
+                        year_results = list(tqdm(pool.imap(process_single_task, all_year_tasks), total=len(all_year_tasks), desc='Processing tasks'))
+                else:
+                    with Pool(processes=num_workers) as pool:
+                        year_results = pool.map(process_single_task, all_year_tasks)
+            else:
+                if TQDM_AVAILABLE:
+                    year_results = [process_single_task(task) for task in tqdm(all_year_tasks, desc='Processing tasks')]
+                else:
+                    year_results = [process_single_task(task) for task in all_year_tasks]
+            
+            results.extend(year_results)
 
-            results.extend(r)
+    # Summary
+    success_count = sum(1 for r in results if 'path' in r and r['path'] and 'error' not in r)
+    skipped_count = sum(1 for r in results if r.get('skipped', False))
+    error_count = sum(1 for r in results if 'error' in r)
+    total_rows = sum(r.get('rows', 0) for r in results if 'rows' in r)
+    
+    print(f'\n{"="*60}')
+    print(f'Data collection complete!')
+    print(f'  Total tasks: {len(results)}')
+    print(f'  Successful: {success_count}')
+    if skipped_count > 0:
+        print(f'  Skipped (exists): {skipped_count}')
+    print(f'  Failed: {error_count}')
+    print(f'  Total rows: {total_rows:,}')
+    print(f'{"="*60}')
+    
+    logging.info(f'Data collection complete: {success_count}/{len(results)} successful, {skipped_count} skipped, {total_rows:,} total rows')
+    
+    # Log failed tasks if any
+    if error_count > 0:
+        print(f'\nFailed tasks:')
+        for r in results:
+            if 'error' in r:
+                print(f"  - {r.get('filename', 'unknown')}: {r['error']}")
+                logging.error(f"Failed task {r.get('filename', 'unknown')}: {r['error']}")
 
     for r in results:
-        logging.info(f"  Saved: {r['path']} (rows={r['rows']})")
+        if 'path' in r and r['path']:
+            logging.info(f"  Saved: {r['path']} (rows={r.get('rows', 0)})")
     logging.info('Data collection complete.')
 
 if __name__ == '__main__':
