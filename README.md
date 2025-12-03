@@ -52,6 +52,8 @@
 
 # Data Description
 
+Dashboard list: https://doe.moph.go.th/app01/?page_id=764
+
 ## From 2008 to 2024: monthly infectious disease data in Thailand
 
 Data Source: [Bureau of Epidemiology, Ministry of Public Health, Thailand](https://doe1.moph.go.th/surdata/index.php).
@@ -72,6 +74,8 @@ Files available for download from the Bureau of Epidemiology website are in RTF 
 
 Data Source: [Bureau of Epidemiology, Ministry of Public Health, Thailand](https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/priority_v2/Dashboard2?%3Aembed=y&%3AisGuestRedirectFromVizportal=y).
 
+https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/Dashboard_table?%3Aembed=y&%3AisGuestRedirectFromVizportal=y
+
 # Data collection scripts
 
 Data collection scripts are in the `ScriptGetdata` folder. The main script is `GetNewData.py` and `GetData.py`, which collect data from the above two sources respectively.
@@ -88,9 +92,11 @@ python3 ID_TH/ScriptGetdata/GetData.py
 
 ## Weekly data source (2025 onwards)
 
+Drop
+
 ```python
 ## collect data from weekly data source (2025 onwards)
-python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568
+python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --url 'https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/Dashboard_table?%3Aembed=y&%3AisGuestRedirectFromVizportal=y'
 
 ## collect data from weekly data source (2025 onwards) with splitting by age group
 python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by age_group
@@ -100,6 +106,27 @@ python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568,2567 --split-by chw
 
 ## collect data from weekly data source (2025) with splitting by health service region (SKR)
 python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by SKR
+```
+
+```
+# collect data from weekly data source (2025) with also fetching the province-level distribution table
+python3 ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+  --worksheet-name 'แผนที่ระดับจังหวัด' \
+  --years 2568 \
+  --split-by 'โรค' \
+  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --output-dir ID_TH/Data/GetNewDataUpdate
+```
+
+```
+# collect data from weekly data source (2025) with splitting by age group and also fetching the province-level distribution table
+python3 ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+  --worksheet-name 'แผนที่ระดับจังหวัด' \
+  --years 2568 \
+  --split-by 'โรค' \
+  --split-by 'กลุ่มอายุ' \
+  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --output-dir ID_TH/Data/GetNewDataUpdate
 ```
 
 # To do list

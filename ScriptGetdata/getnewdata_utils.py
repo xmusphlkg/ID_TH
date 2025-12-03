@@ -23,16 +23,82 @@ def get_worksheet(url: str, worksheet_index: int = 0, parameters: list = None):
 
     workbook = ts.getWorkbook()
     if not getattr(workbook, 'worksheets', None):
+        print("No worksheets found in workbook.")
         logging.warning("No worksheets found in workbook.")
         return None, None
 
-    if worksheet_index < 0 or worksheet_index >= len(workbook.worksheets):
-        raise IndexError(f"worksheet_index {worksheet_index} out of range (0..{len(workbook.worksheets)-1})")
-
-    t = workbook.worksheets[worksheet_index]
-
-    # print filters to console as requested, and also log them
+    # list available worksheets (names + indices) for debugging and logging
     try:
+        worksheet_list = [getattr(w, 'name', '<unnamed>') for w in workbook.worksheets]
+        print('Available worksheets:')
+        for i, nm in enumerate(worksheet_list):
+            print(f'  [{i}] {nm}')
+        logging.info(f'Available worksheets: {worksheet_list}')
+    except Exception:
+        logging.info("Could not list available worksheets")
+        worksheet_list = None
+
+    # allow caller to pass either an int index or a worksheet name (string)
+    t = None
+    try:
+        if isinstance(worksheet_index, str):
+            # look up worksheet by name (exact match first, then case-insensitive)
+            for w in workbook.worksheets:
+                if getattr(w, 'name', None) == worksheet_index:
+                    t = w
+                    break
+            if t is None:
+                for w in workbook.worksheets:
+                    if getattr(w, 'name', '').lower() == worksheet_index.lower():
+                        t = w
+                        break
+            # relaxed match: substring (either direction)
+            if t is None:
+                for w in workbook.worksheets:
+                    name = getattr(w, 'name', '')
+                    try:
+                        if worksheet_index.lower() in name.lower() or name.lower() in worksheet_index.lower():
+                            t = w
+                            break
+                    except Exception:
+                        continue
+            # normalized match: remove non-word characters and compare
+            if t is None:
+                try:
+                    import re as _re
+                    norm_req = _re.sub(r"[^\w]+", "", worksheet_index).lower()
+                    for w in workbook.worksheets:
+                        name = getattr(w, 'name', '')
+                        norm_name = _re.sub(r"[^\w]+", "", name).lower()
+                        if norm_req and norm_name and (norm_req == norm_name):
+                            t = w
+                            break
+                except Exception:
+                    pass
+
+            if t is None:
+                avail = worksheet_list if worksheet_list is not None else [getattr(w, 'name', '<unnamed>') for w in workbook.worksheets]
+                suggestion = ''
+                if len(avail) == 1:
+                    suggestion = " Try using --worksheet-index 0 to select the only available worksheet."
+                msg = f"No worksheet named '{worksheet_index}' found in workbook. Available worksheets: {avail}." + suggestion
+                print(msg)
+                logging.error(msg)
+                raise ValueError(msg)
+        else:
+            # assume integer index
+            if worksheet_index < 0 or worksheet_index >= len(workbook.worksheets):
+                raise IndexError(f"worksheet_index {worksheet_index} out of range (0..{len(workbook.worksheets)-1})")
+            t = workbook.worksheets[worksheet_index]
+    except Exception:
+        # re-raise after logging for visibility
+        logging.exception('Error selecting worksheet by index or name')
+        raise
+
+    # print worksheet name and filters to console (helpful for adapting to dashboard changes)
+    try:
+        print(f'Processing worksheet: {getattr(t, "name", "<unnamed>")}')
+        logging.info(f'Processing worksheet: {getattr(t, "name", "<unnamed>")}')
         filters = t.getFilters()
         if filters is not None:
             for item in filters:
@@ -93,8 +159,13 @@ def save_filtered_csv(filtered: pd.DataFrame, output_dir: str, filename: str) ->
     os.makedirs(output_dir, exist_ok=True)
     outpath = os.path.join(output_dir, filename)
     filtered.to_csv(outpath, index=False)
-    logging.info(f'  Saved: {filename} (rows={len(filtered)})')
-    return outpath
+    abs_out = os.path.abspath(outpath)
+    try:
+        print(f'Saved CSV: {abs_out} (rows={len(filtered)})')
+    except Exception:
+        # printing should not raise the process
+        pass
+    return abs_out
 
 def parse_filter_args(filter_args):
     """Parse list of filter argument strings like ['field=a,b', 'other=x'] into dict."""
