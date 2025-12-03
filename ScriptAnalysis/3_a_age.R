@@ -159,14 +159,14 @@ for (i in 1:2) {
                             drop = F) +
           scale_x_discrete(limits = unique(data_age_cumulative$AgeGroup),
                            breaks = unique(data_cumulative$AgeGroup),
-                           expand = expansion(add = c(0, 0.6))) +
+                           expand = expansion(add = c(0.6, 0.6))) +
           scale_y_continuous(expand = expansion(mult = c(0, 0)),
                              limits = range(panel_breaks),
                              labels = scientific_10,
                              breaks = panel_breaks) +
-          theme_bw()+
+          theme_classic()+
           theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-                axis.text.x = element_blank(),
+                legend.position = 'bottom',
                 panel.grid = element_blank())+
           labs(title = LETTERS[i*2-1],
                fill = 'Disease',
@@ -217,7 +217,29 @@ for (i in 1:2) {
      assign(paste('fig', i*2-1, sep = ''), fig_cumulative)
 }
 
-fig <- fig1 + fig2 + fig3 + fig4 +
+## add inset of fig3
+fig3_a <- fig3 +
+     geom_rect(aes(xmin = 0.5, xmax = 8.5, ymin = 0, ymax = 800),
+               color = 'black',
+               linewidth = 0.5,
+               fill = NA)+
+     inset_element(fig3 + 
+                        coord_cartesian(xlim = c(0.5, 8), ylim = c(0, 800), clip = 'on')+
+                        scale_y_continuous(breaks = seq(0, 800, 200),
+                                           expand = expansion(mult = c(0, 0)))+
+                        scale_x_discrete(limits = unique(data_age_cumulative$AgeGroup)[1:8],
+                                         breaks = unique(data_cumulative$AgeGroup)[1:8],
+                                         expand = expansion(add = c(0, 0.6))) +
+                        theme(axis.title.y = element_blank(),
+                              plot.background = element_rect(color = 'black', size = 0.5),
+                              legend.position = 'none',
+                              plot.title = element_blank()),
+                   left = 0.03,
+                   bottom = 0.2,
+                   right = 0.75,
+                   top = 1.3)
+
+fig <- fig1 + fig2 + fig3_a + fig4 +
      plot_layout(ncol = 1, heights = c(0.5, 1, 0.5, 1), guides = 'collect') &
      theme(legend.position = 'bottom')
 
