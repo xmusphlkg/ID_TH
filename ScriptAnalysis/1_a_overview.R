@@ -886,3 +886,5 @@ save(data_month, data_year,
      data_month_total, data_year_total,
      jp_year_results, jp_segmented_results,
      data_class, data_population, file = "./month.RData")
+
+source("./1_b_appendix.R")

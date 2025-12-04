@@ -27,11 +27,14 @@ source("./function/forecast.R")
 
 load("./month.RData")
 
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
-     filter(Forecasting == 1) |> 
-     select(-c(Cases, Count, Including, Forecasting, Label))
+# read disease class data
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1)|> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(-c(Cases, Count, Including, Label)) 
 
-train_range <- c(as.Date('2007-1-1'), as.Date('2018-12-1'))
+train_range <- c(as.Date('2008-1-1'), as.Date('2018-12-1'))
 test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))
 
 disease_name <- data_class$Shortname
@@ -92,7 +95,7 @@ table_build <- function(data_table, i) {
           tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
           tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
           tab_add_title(paste(LETTERS[i + 6], ":", index, " of models"), face = "bold", size = 14) |>
-          tab_add_footnote("*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted byRMSE",
+          tab_add_footnote("*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted by RMSE",
                            just = "left", hjust = 1, size = 10
           )
 }
@@ -102,7 +105,7 @@ table_build <- function(data_table, i) {
 i <- 2
 
 auto_select_function <- function(i, split_date, add_value, index_labels, models, models_label) {
-     data_single <- data_analysis |>
+     data_single <- data_month |>
           filter(Shortname == disease_name[i]) |>
           select(Date, Shortname, Cases) |> 
           rename(date = 'Date',
@@ -321,4 +324,4 @@ outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)
-write.xlsx(data_outcome, "../Outcome/Appendix/Supplementary Appendix 2.xlsx")
+write.xlsx(data_outcome, "../Outcome/Appendix/Model_test_results.xlsx")

@@ -172,3 +172,5 @@ ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/mortality.png"
        plot = fig_mortality,
        width = 14,
        height = 9)
+
+source("./4_b_appendix.R")
