@@ -108,16 +108,17 @@ plot_single <- function(i) {
           scale_color_manual(values = fill_color)+
           theme_bw() +
           theme(legend.position = "none",
+                aspect.ratio = 1/5,
                 axis.text.x = element_blank(),
                 panel.grid.major.y = element_blank(),
                 panel.grid.minor.y = element_blank(),
                 axis.text = element_text(size = 10.5, color = "black"),
-                axis.title.y = element_text(size = 11, color = "black", face = "bold", vjust = -3),
+                axis.title.y = element_text(size = 11, color = "black", face = "bold", vjust = -1),
                 plot.title = element_text(face = "bold", size = 14, color = "black")) +
           labs(x = NULL,
                y = "Monthly cases",
                color = NULL,
-               title = LETTERS[i * 2 - 1])
+               title = LETTERS[1])
      
      data_plot_cases <- data_fig[[paste("panel", LETTERS[i * 2])]] |>
           mutate(out_label = if_else(value_norm > 10, "*", ""))
@@ -146,18 +147,10 @@ plot_single <- function(i) {
           labs(x = "Date",
                y = NULL,
                fill = "Normalized monthly cases",
-               title = LETTERS[i * 2])
+               title = LETTERS[2])
      
-     return(fig1 + fig2 + plot_layout(ncol = 1, heights = c(0.4, 1)))
+     return(fig1 + fig2 + plot_layout(ncol = 1))
 }
 
 ## create figure panel for all Group
 plot_list <- lapply(1:length(disease_groups), plot_single)
-fig <- wrap_plots(plot_list, ncol = 1) +
-     plot_layout(guides = "collect") &
-     theme(legend.position = "bottom")
-
-ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_1/Cases.png",
-       plot = fig,
-       width = 14,
-       height = 18)

@@ -782,6 +782,8 @@ write.xlsx(data_fig,
 
 # appendix ----------------------------------------------------------------
 
+source("./1_b_appendix.R")
+
 # extract stl trend of each time series
 
 plot_trend <- function(data, title, value = 'Incidence') {
@@ -819,8 +821,8 @@ plot_trend <- function(data, title, value = 'Incidence') {
 
 ## incidence ----------------------------------------------------
 
-for (g in disease_groups) {
-     # g <- disease_groups[1]
+for (i in 1:length(disease_groups)) {
+     g <- disease_groups[i]
      d <- data_class$Shortname[data_class$Group == g]
      
      # panel A: trend of group cases
@@ -836,31 +838,36 @@ for (g in disease_groups) {
           mutate(Incidence = (Cases / Population) * 1e5,
                  Mortality = (Deaths / Population) * 1e5,
                  CFR = (Deaths / Cases) * 1000)
-     fig_case_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Incidence')
+     fig_case_g <- plot_trend(data_group, paste(LETTERS[3], g, sep = ": "), 'Incidence')
      
      # panel B: trend of each disease
      data_single <- data_month |>
           filter(Group == g)
      fig_cases <- lapply(d, function(x) {
-          title_single <- paste(LETTERS[which(d == x) + 1], x, sep = ": ")
+          title_single <- paste(LETTERS[which(d == x) + 3], x, sep = ": ")
           plot_trend(data_single |> filter(Shortname == x),
                      title_single,
                      'Incidence')
      })
      
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
-            fig_case_g + fig_cases + plot_layout(ncol = 4),
+            cowplot::plot_grid(
+                 plot_list[[i]],
+                 fig_case_g + fig_cases + plot_layout(ncol = 4),
+                 ncol = 1
+                 ),
             device = "png",
-            width = 14, height = 7,
+            width = 14,
+            height = 7 + ceiling(length(d) / 4) * 2 + 1,
             limitsize = FALSE,
             dpi = 300)
      
      # panel C: trend of group deaths
-     fig_deaths_g <- plot_trend(data_group, paste(LETTERS[1], g, sep = ": "), 'Mortality')
+     fig_deaths_g <- plot_trend(data_group, paste(LETTERS[3], g, sep = ": "), 'Mortality')
      
      # panel D: trend of each disease
      fig_deaths <- lapply(d, function(x) {
-          title_single <- paste(LETTERS[which(d == x) + 1], x, sep = ": ")
+          title_single <- paste(LETTERS[which(d == x) + 3], x, sep = ": ")
           plot_trend(data_single |> filter(Shortname == x),
                      title_single,
                      'Mortality')
@@ -869,7 +876,8 @@ for (g in disease_groups) {
      ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Deaths ", g, ".png"),
             fig_deaths_g + fig_deaths + plot_layout(ncol = 4),
             device = "png",
-            width = 14, height = 7,
+            width = 14,
+            height = ceiling(length(d) / 4) * 2 + 1,
             limitsize = FALSE,
             dpi = 300)
 }
@@ -887,4 +895,3 @@ save(data_month, data_year,
      jp_year_results, jp_segmented_results,
      data_class, data_population, file = "./month.RData")
 
-source("./1_b_appendix.R")
