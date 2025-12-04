@@ -55,8 +55,7 @@ data_age_all <- data_case |>
      summarise(Cases = sum(Cases, na.rm = T),
                Deaths = sum(Deaths, na.rm = T),
                .groups = 'drop') |>
-     mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths),
-            AgeGroup = factor(AgeGroup, levels = unique(data_agegroup$AgeGroup)),
+     mutate(AgeGroup = factor(AgeGroup, levels = unique(data_agegroup$AgeGroup)),
             Year_group = case_when(Year %in% 2008:2010 ~ '2008-2010',
                                    Year %in% 2011:2013 ~ '2011-2013',
                                    Year %in% 2014:2016 ~ '2014-2016',
@@ -70,7 +69,14 @@ data_age_top <- data_age_all |>
      group_by(AgeGroup, AgeGroupID, Year_group, Year_mark) |>
      summarise(Max_Cases_Disease = Shortname[which.max(Cases)],
                Max_Deaths_Disease = Shortname[which.max(Deaths)],
-               .groups = 'drop')
+               Max_Cases_Value = max(Cases),
+               Lsit_Cases_Value = list(sort(Cases, decreasing = T)),
+               Max_Deaths_Value = max(Deaths),
+               Lsit_Deaths_Value = list(sort(Deaths, decreasing = T)),
+               .groups = 'drop') |> 
+     # replace 0 deaths with no deaths
+     mutate(Max_Deaths_Disease = if_else(Max_Deaths_Value == 0, 'No deaths', Max_Deaths_Disease),
+            Max_Deaths_Value = if_else(Max_Deaths_Value == 0, NA_real_, Max_Deaths_Value))
 
 # get disease list
 max_disease <- data_age_top |>
@@ -98,11 +104,8 @@ data_age_cumulative <- data_age_all |>
      ungroup()
 
 # check disease list
-legend_disease_list <- data_age_cumulative |>
-     select(Top_cases_tag, Top_deaths_tag) |>
-     unlist() |> 
-     append(max_disease) |> 
-     unique()
+legend_disease_list <- unique(c(data_age_cumulative$Top_cases_tag,
+                                data_age_cumulative$Top_deaths_tag))
 
 # order by cumulative cases
 max_disease <- data_age_cumulative |>
@@ -121,8 +124,6 @@ max_disease <- data_age_cumulative |>
 fill_color_disease_max <- fill_color_disease[1:(length(max_disease)-1)]
 fill_color_disease_max <- c(fill_color_disease_max, 'grey50')
 names(fill_color_disease_max) <- max_disease
-
-save(fill_color_disease_max, file = './fill_color_disease_max.RData')
 
 # visual ------------------------------------------------------------------
      
@@ -165,9 +166,6 @@ for (i in 1:2) {
                              labels = scientific_10,
                              breaks = panel_breaks) +
           theme_classic()+
-          theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-                legend.position = 'bottom',
-                panel.grid = element_blank())+
           labs(title = LETTERS[i*2-1],
                fill = 'Disease',
                x = NULL,
@@ -176,20 +174,22 @@ for (i in 1:2) {
      
      # rank panel
      data_rank <- data_age_top |>
-          select(AgeGroup, AgeGroupID, Year_group, Year_mark, colnames(data_age_top)[i + 4]) |> 
+          select(AgeGroup, AgeGroupID, Year_group, Year_mark, contains(c('Max_Cases_D', 'Max_Deaths_D')[i])) |>
           rename(Outcome = colnames(data_age_top)[i + 4]) |> 
           left_join(data_class, by = c('Outcome' = 'Shortname')) |>
-          select(-c(Disease, Fullname))
+          select(-c(Disease, Fullname)) |> 
+          mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'))
      
      data_outcome[[paste('panel', LETTERS[i*2], sep = '')]] <- data_rank
      
      fig_rank <- data_rank |>
-          ggplot(aes(x = AgeGroupID, y = Year_mark, fill = Outcome)) +
+          ggplot(aes(x = AgeGroupID, y = Year_mark, fill = Outcome_Fill)) +
           geom_tile(aes(width = 1, height = 1),
                     color = 'white',
                     show.legend = F) +
           geom_text(aes(label = Outcome), size = 3, fontface = "bold") +
-          scale_fill_manual(values = fill_color_disease_max) +
+          scale_fill_manual(values = fill_color_disease_max,
+                            na.value = 'white') +
           coord_cartesian(ylim = c(length(unique(data_rank$Year_mark))+0.5, 0.5)) +
           scale_x_continuous(breaks = unique(data_rank$AgeGroupID),
                              labels = unique(data_rank$AgeGroup),
@@ -206,11 +206,25 @@ for (i in 1:2) {
                labs(title = LETTERS[i*2],
                     x = 'Age (years)',
                     y = NULL)
+          
+          fig_cumulative <- fig_cumulative +
+               theme(legend.position = 'none',
+                     plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+                     panel.grid = element_blank())
      } else {
           fig_rank <- fig_rank +
                labs(title = LETTERS[i*2],
                     x = NULL,
                     y = NULL)
+          
+          fig_cumulative <- fig_cumulative +
+               theme(legend.position = 'inside',
+                     legend.justification = c(0.5, 0),
+                     legend.position.inside = c(0.45, 0.9),
+                     legend.title.position = 'left',
+                     legend.background = element_rect(fill = 'transparent'),
+                     plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+                     panel.grid = element_blank())
      }
      
      assign(paste('fig', i*2, sep = ''), fig_rank)
@@ -240,8 +254,7 @@ fig3_a <- fig3 +
                    top = 1.3)
 
 fig <- fig1 + fig2 + fig3_a + fig4 +
-     plot_layout(ncol = 1, heights = c(0.5, 1, 0.5, 1), guides = 'collect') &
-     theme(legend.position = 'bottom')
+     plot_layout(ncol = 1, heights = c(0.5, 1, 0.5, 1), guides = 'keep')
 
 ggsave(filename = "../outcome/publish/fig3.pdf",
        plot = fig,
@@ -257,4 +270,4 @@ ggsave(filename = "../outcome/publish/fig3.png",
 
 # figure data
 write.xlsx(data_outcome,
-           file = "../outcome/Appendix/figure_data/fig3.xlsx")
+           file = "../outcome/Publish/figure_data/fig3.xlsx")

@@ -1,6 +1,5 @@
 # packages ----------------------------------------------------------------
 
-library(segmented)
 library(nih.joinpoint)
 library(openxlsx)
 library(tidyverse)
@@ -225,7 +224,7 @@ calculate_apc_statistics <- function(monthly_data, raw_var, knots, month_index_v
           
           # Use slope() to get valid statistical inference (Slope, SE, t-value)
           # The slope() function accounts for the covariance structure
-          slope_summary <- slope(seg_model_final)[[month_index_var]]
+          slope_summary <- segmented::slope(seg_model_final)[[month_index_var]]
           print(slope_summary)
           
           estimates <- slope_summary[, "Est."]
@@ -779,7 +778,7 @@ data_fig <- list("panel A" = fig1_data,
                  "panel H" = fig8_data)
 
 write.xlsx(data_fig,
-           file = "../Outcome/Appendix/figure_data/fig1.xlsx")
+           file = "../Outcome/Publish/figure_data/fig1.xlsx")
 
 # appendix ----------------------------------------------------------------
 
