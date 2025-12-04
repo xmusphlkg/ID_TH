@@ -315,14 +315,14 @@ fig2_data <- data_plot |>
 # save ------------------------------------------------------
 
 ggsave(filename = "../outcome/publish/fig2.pdf",
-       plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom'),
+       plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom', legend.title.position = 'top'),
        width = 14,
        height = 14,
        device = cairo_pdf,
        family = "Times New Roman")
 
 ggsave(filename = "../outcome/publish/fig2.png",
-       plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom'),
+       plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom', legend.title.position = 'top'),
        width = 14,
        height = 14)
 
