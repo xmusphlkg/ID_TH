@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""GetNewDataUpdate.py
+"""WeeklyCasesData.py
 
 Enhanced version with multiprocessing support for faster data extraction.
 Fetches worksheets from Tableau dashboard, applies filters, and splits data by dimensions.
 
 Usage:
-    python ID_TH/ScriptGetdata/GetNewDataUpdate.py --worksheet-name 'แผนที่ระดับจังหวัด' \
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py --worksheet-name 'แผนที่ระดับจังหวัด' \
         --years 2568 --split-by 'โรค' --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-        --output-dir ID_TH/Data/GetNewDataUpdate --workers 4
+        --output-dir ID_TH/Data/WeeklyCasesData --workers 4
 """
 
 from tableauscraper import TableauScraper as TS
@@ -39,12 +39,12 @@ except ImportError:
     logging.warning('tqdm not available; progress bar will not be shown. Install with: pip install tqdm')
 
 try:
-    from GetNewDataFunction import (
+    from ID_TH.ScriptGetdata.WeeklyCasesDataFun import (
         get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
         extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
     )
 except Exception:
-    from ID_TH.ScriptGetdata.GetNewDataFunction import (
+    from ID_TH.ScriptGetdata.WeeklyCasesDataFun import (
         get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
         extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
     )
@@ -67,7 +67,7 @@ RENAME_MAP = {
 }
 
 
-_LOG_PATH = Path(__file__).resolve().parent / 'GetNewDataUpdate.log'
+_LOG_PATH = Path(__file__).resolve().parent / 'WeeklyCasesData.log'
 logging.basicConfig(filename=str(_LOG_PATH), filemode='a', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -323,7 +323,7 @@ def build_argparser():
     p = argparse.ArgumentParser(description="Fetch Tableau worksheet and export as CSV")
     p.add_argument('--url', default=DEFAULT_URL, help='Tableau dashboard URL')
     logging.info(f'Dashboard URL: {DEFAULT_URL}')
-    default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'GetNewDataUpdate')
+    default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'WeeklyCasesData')
     p.add_argument('--output-dir', default=default_output, help='Output directory for CSV')
     p.add_argument('--worksheet-index', type=int, default=0, help='Index of worksheet to process (0-based)')
     p.add_argument('--worksheet-name', help='Name of worksheet to process (preferred over index)')

@@ -14,7 +14,7 @@ logging.getLogger('tableauScraper').propagate = False
 warnings.filterwarnings('ignore', module='tableauscraper')
 warnings.filterwarnings('ignore', module='tableauScraper')
 
-DEFAULT_LOG = Path(__file__).resolve().parent / 'GetNewData.log'
+DEFAULT_LOG = Path(__file__).resolve().parent / 'WeeklyCasesData.log'
 
 
 def get_worksheet(url: str, worksheet_index: int = 0, parameters: list = None, verbose: bool = False):

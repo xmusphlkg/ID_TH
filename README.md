@@ -110,30 +110,30 @@ python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by SKR
 
 ```
 # collect data from weekly data source (2025) with also fetching the province-level distribution table
-python3 ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python3 ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate
+  --output-dir ID_TH/Data/WeeklyCasesData
 ```
 
 ```
 # collect data from weekly data source (2025) with splitting by age group and also fetching the province-level distribution table
-python3 ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python3 ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
   --split-by 'กลุ่มอายุ' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate
+  --output-dir ID_TH/Data/WeeklyCasesData
 ```
 
-# GetNewDataUpdate.py - Multiprocessing Enhancement
+# WeeklyCasesData.py - Multiprocessing Enhancement
 
 ## Overview
 
-The refactored `GetNewDataUpdate.py` supports multiprocessing for significantly faster data extraction. Key improvements include:
+The refactored `WeeklyCasesData.py` supports multiprocessing for significantly faster data extraction. Key improvements include:
 
 ### Architecture Optimization
 - **Function Modularization**: Common functions moved to `GetNewDataFunction.py`
@@ -188,59 +188,59 @@ pip install tqdm
 
 ### Basic Usage (single-process, backward compatible)
 ```bash
-python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate \
+  --output-dir ID_TH/Data/WeeklyCasesData \
   --workers 1
 ```
 
 ### Multiprocessing (recommended)
 ```bash
 # Use 4 worker processes
-python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate \
+  --output-dir ID_TH/Data/WeeklyCasesData \
   --workers 4
 
 # Auto-use all CPU cores
-python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate \
+  --output-dir ID_TH/Data/WeeklyCasesData \
   --workers 0
 ```
 
 ### Multi-year + Multi-dimension Split
 ```bash
 # Split two dimensions (disease × age group), use 8 workers
-python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2566,2567,2568 \
   --split-by 'โรค' \
   --split-by 'กลุ่มอายุ' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate \
+  --output-dir ID_TH/Data/WeeklyCasesData \
   --workers 8
 ```
 
 ### Resume Interrupted Downloads
 ```bash
 # Skip already downloaded files to resume interrupted work
-python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2566,2565,2564,2563 \
   --split-by 'โรค' \
   --split-by 'กลุ่มอายุ' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/GetNewDataUpdate \
+  --output-dir ID_TH/Data/WeeklyCasesData \
   --workers 20 \
   --no-overwrite
 ```
@@ -254,7 +254,7 @@ python ID_TH/ScriptGetdata/GetNewDataUpdate.py \
 | `--years` | str | - | Year list, comma-separated or repeated parameter |
 | `--split-by` | str | - | Split dimension (repeatable), e.g., `โรค`, `กลุ่มอายุ` |
 | `--also-fetch` | str | - | Target worksheet name |
-| `--output-dir` | str | `Data/GetNewDataUpdate` | Output directory |
+| `--output-dir` | str | `Data/WeeklyCasesData` | Output directory |
 | `--no-overwrite` | flag | False | Skip files that already exist (default: overwrite existing files) |
 
 ## Performance Comparison
