@@ -38,16 +38,25 @@ except ImportError:
     TQDM_AVAILABLE = False
     logging.warning('tqdm not available; progress bar will not be shown. Install with: pip install tqdm')
 
+# Import helper functions from the same package or fallback to local module imports
 try:
     from ID_TH.ScriptGetdata.WeeklyCasesDataFun import (
         get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
         extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
     )
 except Exception:
-    from ID_TH.ScriptGetdata.WeeklyCasesDataFun import (
-        get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
-        extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
-    )
+    try:
+        # If running from project root, try module path without top-level package
+        from ScriptGetdata.WeeklyCasesDataFun import (
+            get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
+            extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
+        )
+    except Exception:
+        # Finally, try importing the helper module from the same directory
+        from WeeklyCasesDataFun import (
+            get_worksheet, save_filtered_csv, parse_filter_args, safe_filename_component,
+            extract_split_domains_from_filters, fetch_other_worksheet_after_server_filters
+        )
 
 DEFAULT_URL = "https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/sheet127?%3Aembed=y&%3AisGuestRedirectFromVizportal=y"
 
@@ -100,9 +109,10 @@ def process_single_task(task: Dict[str, Any]) -> Dict[str, Any]:
         filter_pairs = task['filter_pairs']
         output_dir = task['output_dir']
         filename = task['filename']
-        year_param = task.get('year_param')
+        # support arbitrary parameters list (previously single year_param)
+        parameters = task.get('parameters')
         overwrite = task.get('overwrite', True)
-        
+
         # Check if file exists and should not be overwritten
         outpath = os.path.join(output_dir, filename)
         abs_out = os.path.abspath(outpath)
@@ -122,8 +132,8 @@ def process_single_task(task: Dict[str, Any]) -> Dict[str, Any]:
                 'skipped': True
             }
         
-        # Load map worksheet with year parameter if provided (quiet mode)
-        params = [year_param] if year_param else None
+        # Load map worksheet with provided parameters (quiet mode)
+        params = parameters if parameters else None
         _, map_ws = get_worksheet(url, map_ws_name, parameters=params, verbose=False)
         
         if map_ws is None:
@@ -161,7 +171,7 @@ def generate_tasks_for_split(
     split_cols: List[str],
     all_domains: List[Tuple[str, List[str]]],
     output_dir: str,
-    year_param: Tuple[str, str] = None,
+    parameters: List[Tuple[str, str]] = None,
     overwrite: bool = True
 ) -> List[Dict[str, Any]]:
     """Generate task list for multiprocessing based on filter combinations.
@@ -190,7 +200,7 @@ def generate_tasks_for_split(
             'filter_pairs': [],
             'output_dir': output_dir,
             'filename': f"{safe_filename_component(target_worksheet)}.csv",
-            'year_param': year_param,
+            'parameters': parameters,
             'overwrite': overwrite
         }
         tasks.append(task)
@@ -225,7 +235,7 @@ def generate_tasks_for_split(
             'filter_pairs': server_pairs,
             'output_dir': out_dir,
             'filename': fname,
-            'year_param': year_param,
+            'parameters': parameters,
             'overwrite': overwrite
         }
         tasks.append(task)
@@ -330,6 +340,7 @@ def build_argparser():
     p.add_argument('--filter', action='append', help='Filter condition(s) like "field=a,b" (can repeat)')
     p.add_argument('--filename', default='data.csv', help='Base filename for outputs (used as template)')
     p.add_argument('--years', action='append', help='Years to fetch (e.g., 2563 or 2563,2564). Can repeat.')
+    p.add_argument('--indices', action='append', help='Index/indicator values to fetch (e.g., ลักษณะข้อมูล values). Can repeat.')
     p.add_argument('--also-fetch', action='append', help='Additional worksheet name(s) to fetch after applying parameters/filters (can repeat)')
     p.add_argument('--workers', type=int, default=1, help='Number of parallel workers for multiprocessing (default: 1, 0 or -1 for CPU count)')
     p.add_argument('--no-overwrite', action='store_true', help='Skip files that already exist (default: overwrite existing files)')
@@ -588,6 +599,9 @@ def main(argv=None):
     year_param_name = None
     year_param_column = None
     year_param_values = None
+    index_param_name = None
+    index_param_column = None
+    index_param_values = None
     try:
         params = None
         if workbook is not None and hasattr(workbook, 'getParameters'):
@@ -601,17 +615,34 @@ def main(argv=None):
                     col = p.get('column') if isinstance(p, dict) else None
                     pname = p.get('parameterName') if isinstance(p, dict) else None
                     vals = p.get('values') if isinstance(p, dict) else None
-                    # prefer the human-friendly column name (e.g., 'ปี') for setting parameters
-                    if col is not None and (str(col).lower().find('ปี') >= 0 or str(col).lower().find('year') >= 0):
+                    # prefer the human-friendly column name (e.g., 'ปี') for year parameter
+                    col_l = str(col).lower() if col is not None else ''
+                    pname_l = str(pname).lower() if pname is not None else ''
+                    # Detect year parameter
+                    if col is not None and ('ปี' in col_l or 'year' in col_l or 'ปี' in pname_l or 'year' in pname_l):
                         year_param_column = col
                         year_param_name = pname
                         year_param_values = [str(v) for v in (vals or [])]
-                        break
-                    # fallback: pick first parameter that has values and name
-                    if year_param_name is None and (col or pname) and vals:
-                        year_param_column = col
-                        year_param_name = pname
-                        year_param_values = [str(v) for v in vals]
+                        # don't break: also try to find index param in remaining params
+                        continue
+                    # Detect index/indicator parameter (Thai: 'ลักษณะ' or 'ลักษณะข้อมูล')
+                    if col is not None and ('ลักษณะ' in col_l or 'ลักษณะข้อมูล' in col_l or 'indicator' in col_l or 'index' in col_l or 'ลักษณะ' in pname_l):
+                        index_param_column = col
+                        index_param_name = pname
+                        index_param_values = [str(v) for v in (vals or [])]
+                        continue
+                    # fallback: if not yet set, pick first parameter that has values and a name
+                    if year_param_name is None and index_param_name is None and (col or pname) and vals:
+                        # prefer a year-like fallback first
+                        if 'year' in col_l or 'year' in pname_l or 'ปี' in col_l or 'ปี' in pname_l:
+                            year_param_column = col
+                            year_param_name = pname
+                            year_param_values = [str(v) for v in vals]
+                        else:
+                            # assign to index if we haven't found a year
+                            index_param_column = col
+                            index_param_name = pname
+                            index_param_values = [str(v) for v in vals]
                 except Exception:
                     continue
     except Exception:
@@ -620,6 +651,16 @@ def main(argv=None):
     # If user didn't pass years but we discovered parameter values, default to those
     if not years and year_param_values:
         years = year_param_values
+    # Parse indices argument and default to discovered values if not provided
+    indices = []
+    if getattr(args, 'indices', None):
+        for it in args.indices:
+            for part in str(it).split(','):
+                part = part.strip()
+                if part:
+                    indices.append(part)
+    if not indices and index_param_values:
+        indices = index_param_values
     
     # Log the processing plan
     logging.info(f'Running for years: {years if years else ["(no year filter)"]}')
@@ -629,69 +670,139 @@ def main(argv=None):
     
     # If no years discovered or provided, run without per-year loop
     if not years:
-        # Single run (no year parameter)
-        if getattr(args, 'also_fetch', None):
-            logging.info(f'Fetching additional worksheets: {args.also_fetch}')
-            print(f'Fetching worksheets: {args.also_fetch}')
-            
-            # Load map worksheet once to extract filter metadata
-            _, t_map = get_worksheet(args.url, worksheet_identifier, verbose=False)
-            if t_map is None:
-                logging.error('Failed to load map worksheet')
-                return
-            
-            # Extract split columns and their domain values
-            split_cols = args.split_by if args.split_by else []
-            all_domains = extract_split_domains_from_filters(t_map, split_cols)
-            
-            # Generate all tasks for all target worksheets
-            all_tasks = []
-            for extra in args.also_fetch:
-                tasks = generate_tasks_for_split(
-                    url=args.url,
-                    map_worksheet=worksheet_identifier,
-                    target_worksheet=extra,
-                    split_cols=split_cols,
-                    all_domains=all_domains,
-                    output_dir=args.output_dir,
-                    year_param=None,
-                    overwrite=overwrite
-                )
-                all_tasks.extend(tasks)
-            
-            total_tasks = len(all_tasks)
-            logging.info(f'Generated {total_tasks} tasks for parallel execution')
-            print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
-            
-            # Execute tasks in parallel with progress bar
-            if num_workers > 1:
-                with Pool(processes=num_workers) as pool:
-                    if TQDM_AVAILABLE:
-                        results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
-                    else:
-                        results = pool.map(process_single_task, all_tasks)
-            else:
-                if TQDM_AVAILABLE:
-                    results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
+        # Single run (no year parameter). If indices were provided, loop over indices similarly.
+        if indices:
+            # Process per-index when no year provided
+            for idx in indices:
+                # If the user specified a single index only, avoid creating an extra
+                # subdirectory for the index and save directly under the output dir.
+                if len(indices) == 1:
+                    per_index_output = str(Path(args.output_dir))
                 else:
-                    results = [process_single_task(task) for task in all_tasks]
+                    per_index_output = str(Path(args.output_dir) / safe_filename_component(idx))
+                param_identifier = index_param_column if index_param_column else index_param_name
+                index_param = (param_identifier, idx) if param_identifier else None
+                params_to_apply = [index_param] if index_param else None
+
+                if getattr(args, 'also_fetch', None):
+                    logging.info(f'Fetching additional worksheets for index: {idx}')
+                    print(f'Fetching worksheets for index: {idx}')
+                    _, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply, verbose=False)
+                    if t_map is None:
+                        logging.error(f'Failed to load map worksheet for index {idx}')
+                        continue
+                    split_cols = args.split_by if args.split_by else []
+                    all_domains = extract_split_domains_from_filters(t_map, split_cols)
+                    all_tasks = []
+                    for extra in args.also_fetch:
+                        tasks = generate_tasks_for_split(
+                            url=args.url,
+                            map_worksheet=worksheet_identifier,
+                            target_worksheet=extra,
+                            split_cols=split_cols,
+                            all_domains=all_domains,
+                            output_dir=per_index_output,
+                            parameters=params_to_apply,
+                            overwrite=overwrite
+                        )
+                        all_tasks.extend(tasks)
+
+                    total_tasks = len(all_tasks)
+                    logging.info(f'Generated {total_tasks} tasks for parallel execution (index={idx})')
+                    print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
+                    if num_workers > 1:
+                        with Pool(processes=num_workers) as pool:
+                            if TQDM_AVAILABLE:
+                                results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
+                            else:
+                                results = pool.map(process_single_task, all_tasks)
+                    else:
+                        if TQDM_AVAILABLE:
+                            results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
+                        else:
+                            results = [process_single_task(task) for task in all_tasks]
+                else:
+                    # No also_fetch: either filtered split or full worksheet per index
+                    if filter_conditions or args.split_by:
+                        results = download_with_filters(
+                            args.url,
+                            filter_conditions,
+                            per_index_output,
+                            worksheet_identifier,
+                            filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                            split_by=args.split_by,
+                            parameters=params_to_apply,
+                            save_overall=False if args.split_by else True,
+                        )
+                    else:
+                        r = process_first_worksheet(args.url, per_index_output, worksheet_identifier, args.filename, parameters=params_to_apply)
+                        results = r if isinstance(r, list) else [r]
+            # finished indices loop
+
         else:
-            if filter_conditions or args.split_by:
-                logging.info(f'Filter conditions: {filter_conditions}, split_by: {args.split_by}')
-                results = download_with_filters(
-                    args.url,
-                    filter_conditions,
-                    args.output_dir,
-                    worksheet_identifier,
-                    filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
-                    split_by=args.split_by,
-                    parameters=None,
-                    save_overall=False if args.split_by else True,
-                )
+            # Single run (no year or index parameter)
+            if getattr(args, 'also_fetch', None):
+                logging.info(f'Fetching additional worksheets: {args.also_fetch}')
+                print(f'Fetching worksheets: {args.also_fetch}')
+
+                # Load map worksheet once to extract filter metadata
+                _, t_map = get_worksheet(args.url, worksheet_identifier, verbose=False)
+                if t_map is None:
+                    logging.error('Failed to load map worksheet')
+                    return
+
+                # Extract split columns and their domain values
+                split_cols = args.split_by if args.split_by else []
+                all_domains = extract_split_domains_from_filters(t_map, split_cols)
+
+                # Generate all tasks for all target worksheets
+                all_tasks = []
+                for extra in args.also_fetch:
+                    tasks = generate_tasks_for_split(
+                        url=args.url,
+                        map_worksheet=worksheet_identifier,
+                        target_worksheet=extra,
+                        split_cols=split_cols,
+                        all_domains=all_domains,
+                        output_dir=args.output_dir,
+                        parameters=None,
+                        overwrite=overwrite
+                    )
+                    all_tasks.extend(tasks)
+
+                total_tasks = len(all_tasks)
+                logging.info(f'Generated {total_tasks} tasks for parallel execution')
+                print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
+
+                # Execute tasks in parallel with progress bar
+                if num_workers > 1:
+                    with Pool(processes=num_workers) as pool:
+                        if TQDM_AVAILABLE:
+                            results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
+                        else:
+                            results = pool.map(process_single_task, all_tasks)
+                else:
+                    if TQDM_AVAILABLE:
+                        results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
+                    else:
+                        results = [process_single_task(task) for task in all_tasks]
             else:
-                # No filters/split, fetch full worksheet
-                r = process_first_worksheet(args.url, args.output_dir, worksheet_identifier, args.filename, parameters=None)
-                results = r if isinstance(r, list) else [r]
+                if filter_conditions or args.split_by:
+                    logging.info(f'Filter conditions: {filter_conditions}, split_by: {args.split_by}')
+                    results = download_with_filters(
+                        args.url,
+                        filter_conditions,
+                        args.output_dir,
+                        worksheet_identifier,
+                        filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                        split_by=args.split_by,
+                        parameters=None,
+                        save_overall=False if args.split_by else True,
+                    )
+                else:
+                    # No filters/split, fetch full worksheet
+                    r = process_first_worksheet(args.url, args.output_dir, worksheet_identifier, args.filename, parameters=None)
+                    results = r if isinstance(r, list) else [r]
     else:
         # Iterate years and process with multiprocessing
         logging.info(f'Processing years: {years}')
@@ -703,65 +814,134 @@ def main(argv=None):
             param_identifier = year_param_column if year_param_column else year_param_name
             year_param = (param_identifier, y) if param_identifier else None
 
-            if filter_conditions or args.split_by:
-                if getattr(args, 'also_fetch', None):
-                    # Load map worksheet with year parameter to extract filter domains
-                    params_to_apply = [year_param] if year_param else None
-                    _, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply, verbose=False)
-                    if t_map is None:
-                        logging.error(f'Failed to load map worksheet for year {y}')
-                        continue
-                    
-                    # Extract split columns and their domain values
-                    split_cols = args.split_by if args.split_by else []
-                    all_domains = extract_split_domains_from_filters(t_map, split_cols)
-                    
-                    logging.info(f'Found {sum(len(vals) for _, vals in all_domains)} total values across {len(all_domains)} split dimension(s) for year {y}')
-                    
-                    # Generate tasks for this year
-                    for extra in args.also_fetch:
-                        tasks = generate_tasks_for_split(
-                            url=args.url,
-                            map_worksheet=worksheet_identifier,
-                            target_worksheet=extra,
-                            split_cols=split_cols,
-                            all_domains=all_domains,
-                            output_dir=per_year_output,
-                            year_param=year_param,
-                            overwrite=overwrite
-                        )
-                        all_year_tasks.extend(tasks)
-                else:
-                    # Use existing download_with_filters (no multiprocessing for this path)
-                    params_to_apply = [year_param] if year_param else None
-                    r = download_with_filters(
-                        args.url,
-                        filter_conditions,
-                        per_year_output,
-                        worksheet_identifier,
-                        filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
-                        split_by=args.split_by,
-                        parameters=params_to_apply,
-                        save_overall=False if args.split_by else True,
-                    )
-                    results.extend(r)
+            # If indices are provided, nest index loop inside year loop
+            if indices:
+                for idx in indices:
+                    # If only one index requested, don't add an index subdirectory
+                    if len(indices) == 1:
+                        per_combo_output = str(Path(per_year_output))
+                    else:
+                        per_combo_output = str(Path(per_year_output) / safe_filename_component(idx))
+                    param_identifier_idx = index_param_column if index_param_column else index_param_name
+                    index_param = (param_identifier_idx, idx) if param_identifier_idx else None
+                    # Compose parameters list for this (year, index) pair
+                    params_to_apply = []
+                    if year_param:
+                        params_to_apply.append(year_param)
+                    if index_param:
+                        params_to_apply.append(index_param)
+
+                    if filter_conditions or args.split_by:
+                        if getattr(args, 'also_fetch', None):
+                            # Load map worksheet with parameters to extract filter domains
+                            _, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply, verbose=False)
+                            if t_map is None:
+                                logging.error(f'Failed to load map worksheet for year {y} index {idx}')
+                                continue
+                            split_cols = args.split_by if args.split_by else []
+                            all_domains = extract_split_domains_from_filters(t_map, split_cols)
+                            logging.info(f'Found {sum(len(vals) for _, vals in all_domains)} total values across {len(all_domains)} split dimension(s) for year {y} index {idx}')
+                            for extra in args.also_fetch:
+                                tasks = generate_tasks_for_split(
+                                    url=args.url,
+                                    map_worksheet=worksheet_identifier,
+                                    target_worksheet=extra,
+                                    split_cols=split_cols,
+                                    all_domains=all_domains,
+                                    output_dir=per_combo_output,
+                                    parameters=params_to_apply,
+                                    overwrite=overwrite
+                                )
+                                all_year_tasks.extend(tasks)
+                        else:
+                            r = download_with_filters(
+                                args.url,
+                                filter_conditions,
+                                per_combo_output,
+                                worksheet_identifier,
+                                filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                                split_by=args.split_by,
+                                parameters=params_to_apply,
+                                save_overall=False if args.split_by else True,
+                            )
+                            results.extend(r)
+                    else:
+                        # No filters/split: fetch full worksheet for this year/index
+                        r = process_first_worksheet(args.url, per_combo_output, worksheet_identifier, args.filename, parameters=params_to_apply)
+                        results.extend(r)
+
+                        if getattr(args, 'also_fetch', None):
+                            for extra in args.also_fetch:
+                                try:
+                                    _, t_extra = get_worksheet(args.url, extra, parameters=params_to_apply, verbose=False)
+                                    if t_extra is not None:
+                                        df_extra = pd.DataFrame(t_extra.data) if t_extra.data is not None else pd.DataFrame()
+                                        extra_template = f"{safe_filename_component(extra)}_{args.filename}"
+                                        out = save_filtered_csv(df_extra, per_combo_output, extra_template, verbose=False)
+                                        results.append({'name': getattr(t_extra, 'name', extra), 'filename': os.path.basename(out), 'rows': len(df_extra), 'path': out})
+                                except Exception:
+                                    logging.exception(f'Year={y} Index={idx}: Failed to fetch worksheet {extra}')
             else:
-                # No filters/split, fetch full worksheet
-                params_to_apply = [year_param] if year_param else None
-                r = process_first_worksheet(args.url, per_year_output, worksheet_identifier, args.filename, parameters=params_to_apply)
-                results.extend(r)
-                
-                if getattr(args, 'also_fetch', None):
-                    for extra in args.also_fetch:
-                        try:
-                            _, t_extra = get_worksheet(args.url, extra, parameters=params_to_apply, verbose=False)
-                            if t_extra is not None:
-                                df_extra = pd.DataFrame(t_extra.data) if t_extra.data is not None else pd.DataFrame()
-                                extra_template = f"{safe_filename_component(extra)}_{args.filename}"
-                                out = save_filtered_csv(df_extra, per_year_output, extra_template, verbose=False)
-                                results.append({'name': getattr(t_extra, 'name', extra), 'filename': os.path.basename(out), 'rows': len(df_extra), 'path': out})
-                        except Exception:
-                            logging.exception(f'Year={y}: Failed to fetch worksheet {extra}')
+                # No indices: original per-year behavior
+                if filter_conditions or args.split_by:
+                    if getattr(args, 'also_fetch', None):
+                        # Load map worksheet with year parameter to extract filter domains
+                        params_to_apply = [year_param] if year_param else None
+                        _, t_map = get_worksheet(args.url, worksheet_identifier, parameters=params_to_apply, verbose=False)
+                        if t_map is None:
+                            logging.error(f'Failed to load map worksheet for year {y}')
+                            continue
+
+                        # Extract split columns and their domain values
+                        split_cols = args.split_by if args.split_by else []
+                        all_domains = extract_split_domains_from_filters(t_map, split_cols)
+
+                        logging.info(f'Found {sum(len(vals) for _, vals in all_domains)} total values across {len(all_domains)} split dimension(s) for year {y}')
+
+                        # Generate tasks for this year
+                        for extra in args.also_fetch:
+                            tasks = generate_tasks_for_split(
+                                url=args.url,
+                                map_worksheet=worksheet_identifier,
+                                target_worksheet=extra,
+                                split_cols=split_cols,
+                                all_domains=all_domains,
+                                output_dir=per_year_output,
+                                parameters=[year_param] if year_param else None,
+                                overwrite=overwrite
+                            )
+                            all_year_tasks.extend(tasks)
+                    else:
+                        # Use existing download_with_filters (no multiprocessing for this path)
+                        params_to_apply = [year_param] if year_param else None
+                        r = download_with_filters(
+                            args.url,
+                            filter_conditions,
+                            per_year_output,
+                            worksheet_identifier,
+                            filename_template=args.filename.replace('.csv', '_{suffix}.csv'),
+                            split_by=args.split_by,
+                            parameters=params_to_apply,
+                            save_overall=False if args.split_by else True,
+                        )
+                        results.extend(r)
+                else:
+                    # No filters/split, fetch full worksheet
+                    params_to_apply = [year_param] if year_param else None
+                    r = process_first_worksheet(args.url, per_year_output, worksheet_identifier, args.filename, parameters=params_to_apply)
+                    results.extend(r)
+                    
+                    if getattr(args, 'also_fetch', None):
+                        for extra in args.also_fetch:
+                            try:
+                                _, t_extra = get_worksheet(args.url, extra, parameters=params_to_apply, verbose=False)
+                                if t_extra is not None:
+                                    df_extra = pd.DataFrame(t_extra.data) if t_extra.data is not None else pd.DataFrame()
+                                    extra_template = f"{safe_filename_component(extra)}_{args.filename}"
+                                    out = save_filtered_csv(df_extra, per_year_output, extra_template, verbose=False)
+                                    results.append({'name': getattr(t_extra, 'name', extra), 'filename': os.path.basename(out), 'rows': len(df_extra), 'path': out})
+                            except Exception:
+                                logging.exception(f'Year={y}: Failed to fetch worksheet {extra}')
         
         # Execute all year tasks in parallel if any were generated
         if all_year_tasks:

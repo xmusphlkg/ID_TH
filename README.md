@@ -92,73 +92,20 @@ python3 ID_TH/ScriptGetdata/GetData.py
 
 ## Weekly data source (2025 onwards)
 
-Drop
-
-```python
-## collect data from weekly data source (2025 onwards)
-python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --url 'https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/Dashboard_table?%3Aembed=y&%3AisGuestRedirectFromVizportal=y'
-
-## collect data from weekly data source (2025 onwards) with splitting by age group
-python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by age_group
-
-## collect data from weekly data source (2025 and 2024) with splitting by chw (province)
-python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568,2567 --split-by chw
-
-## collect data from weekly data source (2025) with splitting by health service region (SKR)
-python3 ID_TH/ScriptGetdata/GetNewData.py --years 2568 --split-by SKR
-```
-
-```
-# collect data from weekly data source (2025) with also fetching the province-level distribution table
-python3 ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2568 \
-  --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/WeeklyCasesData
-```
-
-```
-# collect data from weekly data source (2025) with splitting by age group and also fetching the province-level distribution table
-python3 ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2568 \
-  --split-by 'โรค' \
-  --split-by 'กลุ่มอายุ' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/WeeklyCasesData
-```
-
-# WeeklyCasesData.py - Multiprocessing Enhancement
-
-## Overview
-
 The refactored `WeeklyCasesData.py` supports multiprocessing for significantly faster data extraction. Key improvements include:
 
-### Architecture Optimization
 - **Function Modularization**: Common functions moved to `GetNewDataFunction.py`
   - `extract_split_domains_from_filters()`: Extract filter domain values
   - `fetch_other_worksheet_after_server_filters()`: Apply filters and fetch target worksheet
-
-### Multiprocessing Support
+  
 - **Pre-generate Task List**: Fetch all metadata (parameters, worksheets, filters) first, then generate complete task list
-- **Parallel Execution**: Uses Python `multiprocessing.Pool` to process all tasks in parallel
-- **Worker Function**: `process_single_task()` handles individual extraction tasks
+  - **Parallel Execution**: Uses Python `multiprocessing.Pool` to process all tasks in parallel
+  - **Worker Function**: `process_single_task()` handles individual extraction tasks
 
-### User Experience Optimization
 - **Progress Bar**: Real-time progress display using `tqdm` (optional)
 - **Silent Mode**: Reduced repetitive console output, metadata shown only at start
 - **Log Level Control**: Detailed info logged to file, console shows only critical messages
 - **Result Summary**: Display success/failure statistics upon completion
-
-### Installation
-
-```bash
-# Install progress bar support (recommended)
-pip install tqdm
-```
-
-*Note: tqdm is optional - the script works without it, just without progress bars*
 
 ### Workflow
 
@@ -231,6 +178,31 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --workers 8
 ```
 
+### Using Indicators / Metrics (`--indices`)
+```bash
+# Fetch specific indicators (Thai labels) for the latest data
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --worksheet-name 'แผนที่ระดับจังหวัด' \
+  --indices 'จำนวนผู้เสียชีวิต' \
+  --split-by 'โรค' \
+  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --output-dir ID_TH/Data/WeeklyDeathsData \
+  --workers 4
+```
+
+### Multi-year + Multi-index (year × index)
+```bash
+# Fetch combos of years and indicators. Output organized as output_dir/<year>/<index>/...
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --worksheet-name 'แผนที่ระดับจังหวัด' \
+  --years 2566,2567 \
+  --indices 'จำนวนผู้เสียชีวิต' \
+  --split-by 'โรค' \
+  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --output-dir ID_TH/Data/WeeklyDeathsData \
+  --workers 8
+```
+
 ### Resume Interrupted Downloads
 ```bash
 # Skip already downloaded files to resume interrupted work
@@ -238,9 +210,8 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2566,2565,2564,2563 \
   --split-by 'โรค' \
-  --split-by 'กลุ่มอายุ' \
   --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/WeeklyCasesData \
+  --output-dir ID_TH/Data/WeeklyDeathsData \
   --workers 20 \
   --no-overwrite
 ```
@@ -249,34 +220,15 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
 
 | Parameter | Type | Default | Description |
 |-----------|------|---------|-------------|
+| `--url` | str | "https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/sheet127?%3Aembed=y&%3AisGuestRedirectFromVizportal=y" | Tableau dashboard URL. Can be set via CLI `--url` overrides env var. |
 | `--workers` | int | 1 | Number of worker processes. `0` or `-1` uses all CPU cores |
 | `--worksheet-name` | str | - | Map worksheet name |
-| `--years` | str | - | Year list, comma-separated or repeated parameter |
+| `--years` | str | - | Year list, comma-separated or repeated parameter (ปี) |
+| `--indices` | str | - | Indicator/index list, comma-separated or repeatable (e.g., `ลักษณะข้อมูล` values such as 'จำนวนผู้ป่วย', 'จำนวนผู้เสียชีวิต', 'อัตราป่วยต่อประชากรแสนคน', 'อัตราตายต่อประชากรแสนคน', 'อัตราป่วยตาย(%)') |
 | `--split-by` | str | - | Split dimension (repeatable), e.g., `โรค`, `กลุ่มอายุ` |
 | `--also-fetch` | str | - | Target worksheet name |
 | `--output-dir` | str | `Data/WeeklyCasesData` | Output directory |
 | `--no-overwrite` | flag | False | Skip files that already exist (default: overwrite existing files) |
-
-## Performance Comparison
-
-Assuming 56 diseases need to be extracted:
-
-| Workers | Estimated Time | Speedup |
-|---------|---------------|---------|
-| 1 | ~56 minutes | 1x |
-| 4 | ~14 minutes | 4x |
-| 8 | ~7 minutes | 8x |
-| 16 | ~3.5 minutes | 16x |
-
-*Actual performance depends on network speed and server response time*
-
-For 504 combinations (56 diseases × 9 age groups):
-
-| Workers | Estimated Time | Speedup |
-|---------|---------------|---------|
-| 1 | ~504 minutes | 1x |
-| 4 | ~126 minutes | 4x |
-| 8 | ~63 minutes | 8x |
 
 ## Notes
 
