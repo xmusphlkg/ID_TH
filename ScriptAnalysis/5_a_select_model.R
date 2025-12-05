@@ -69,7 +69,7 @@ process_model <- function(mod, ts_train, ts_test, test_length, index_labels, ts_
      fit_goodness <- data.frame(Method = method_name,
                                 Index = index_labels,
                                 Train = evaluate_forecast(outcome_plot_1$fit, outcome_plot_1$simu),
-                                Test = evaluate_forecast(outcome_plot_2$mean, ts_test))
+                                Test = evaluate_forecast(outcome_plot_2$mean, exp(ts_test)))
      
      # Plot results
      fig <- plot_outcome(outcome_plot_1,
@@ -110,7 +110,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
           select(Date, Shortname, Cases) |> 
           rename(date = 'Date',
                  value = 'Cases')
-
+     
      df_simu <- data_single |>
           arrange(date) |>
           unique() |>
@@ -223,18 +223,20 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
                burn <- SuggestBurn(0.1, mod)
                outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
                
+               # Compute fitted values on log-scale then back-transform.
+               fitted_log <- as.numeric(ts_train) - colMeans(mod$one.step.prediction.errors[-(1:burn), , drop = FALSE], na.rm = TRUE)
                outcome_plot_1 <- data.frame(
                     date = zoo::as.Date(time(ts_train)),
-                    simu = as.numeric(ts_train) - add_value,
-                    fit = as.numeric(-colMeans(mod$one.step.prediction.errors[-(1:burn), ]) + ts_train) - add_value
+                    simu = exp(as.numeric(ts_train)),
+                    fit = exp(as.numeric(fitted_log))
                )
                outcome_plot_2 <- data.frame(
                     date = as.Date(time(ts_test)),
-                    mean = outcome$mean - add_value,
-                    lower_80 = outcome$interval[2, ] - add_value,
-                    lower_95 = outcome$interval[1, ] - add_value,
-                    upper_80 = outcome$interval[3, ] - add_value,
-                    upper_95 = outcome$interval[4, ] - add_value
+                    mean = exp(as.numeric(outcome$mean)),
+                    lower_80 = exp(as.numeric(outcome$interval[2, ])),
+                    lower_95 = exp(as.numeric(outcome$interval[1, ])),
+                    upper_80 = exp(as.numeric(outcome$interval[3, ])),
+                    upper_95 = exp(as.numeric(outcome$interval[4, ]))
                )
                
                fit_goodness <- fit_goodness |>
@@ -242,7 +244,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
                                      Index = index_labels,
                                      Train = evaluate_forecast(outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
                                                                outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]),
-                                     Test = evaluate_forecast(outcome_plot_2$mean, ts_test)))     
+                                     Test = evaluate_forecast(outcome_plot_2$mean, exp(ts_test))))    
                fig_baye_1 <- plot_outcome(outcome_plot_1,
                                           outcome_plot_2,
                                           data_single,
@@ -252,7 +254,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
                rm(mod, outcome, outcome_plot_1, outcome_plot_2)
           }
      }
-
+     
      # summary table ---------------------------------------------------------
      
      data_table <- fit_goodness |>
@@ -316,11 +318,11 @@ clusterEvalQ(cl, {
 
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
-                      split_date = split_dates[1],
-                      add_value = add_value,
-                      index_labels = index_labels,
-                      models = models,
-                      models_label = models_label)
+                     split_date = split_dates[1],
+                     add_value = add_value,
+                     index_labels = index_labels,
+                     models = models,
+                     models_label = models_label)
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)
