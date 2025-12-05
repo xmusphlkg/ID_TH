@@ -19,6 +19,21 @@ plan(multisession, workers = 3)
 # loading function
 source("./function/theme_set.R")
 
+# read disease class data
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1)|> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(-c(Cases, Count, Including, Label)) 
+
+# read population data
+data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age') |> 
+     select(YEAR, Total) |> 
+     rename(Year = YEAR,
+            Population = Total)
+
+## monthly -----------------------------------------------------------------
+
 # list files in the folder: month case and death data
 list_disease_files <- list.files("../Data/CleanData/",
                                   pattern = "mcd.csv",
@@ -41,19 +56,6 @@ data_all |>
      write.csv(file = "../Outcome/TotalCasesDeaths.csv",
           row.names = F)
 
-# read disease class data
-data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1)|> 
-     mutate(Group = factor(Group, levels = disease_groups)) |> 
-     arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Label)) 
-
-# read population data
-data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age') |> 
-     select(YEAR, Total) |> 
-     rename(Year = YEAR,
-            Population = Total)
-
 data_month <- data_all |>
      filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
      left_join(data_class, by = 'Disease') |> 
@@ -69,20 +71,56 @@ data_month <- data_all |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e7,
             Mortality = (Deaths / Population) * 1e7)
+## yearly -----------------------------------------------------------------
 
-data_year <- data_all |>
+# list files in the folder: year case and death data
+list_disease_files_year <- list.files("../Data/CleanData/",
+                                       pattern = "rate.csv",
+                                       full.names = T)
+
+data_all_year <- lapply(list_disease_files_year, read.csv) |>
+     bind_rows() |> 
+     filter(Year < 2025, Year >= 2008)
+
+rm(list_disease_files_year)
+
+data_year_2 <- data_all_year |>
+     filter(Areas == 'Total' & Disease %in% data_class$Disease) |>
+     select(-Population, -Incidence, -Mortality, -Areas)
+
+# estimate yearly data based on monthly data for checking purpose
+data_year_1 <- data_all |>
      filter(Areas == 'Total' & Month == 'Total' & Disease %in% data_class$Disease) |>
+     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |> 
+     select(Year, Disease, Cases, Deaths)
+
+# check the yearly data consistency
+data_year_check <- data_year_2 |>
+     select(Year, Disease, Cases, Deaths) |>
+     full_join(data_year_1 |> 
+                    rename(Cases_check = Cases, Deaths_check = Deaths),
+               by = c('Year', 'Disease')) |>
+     mutate(Cases_diff = Cases - Cases_check,
+            Deaths_diff = Deaths - Deaths_check)
+
+data_year_check |> 
+     filter(Cases_diff != 0 | is.na(Cases_diff) | Deaths_diff != 0 | is.na(Deaths_diff))
+
+# fill the missing yearly data based on monthly data
+data_year <- data_year_check |>
+     mutate(Cases = ifelse(is.na(Cases), Cases_check, Cases),
+            Deaths = ifelse(is.na(Deaths), Deaths_check, Deaths)) |>
+     select(-c(Cases_check, Deaths_check)) |> 
      left_join(data_class, by = 'Disease') |> 
      mutate(Group = factor(Group, levels = disease_groups),
             Disease = Shortname) |> 
-     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
      ungroup() |> 
      arrange(Year, Disease) |> 
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e7,
             Mortality = (Deaths / Population) * 1e7)
-
+     
 # summary of NID ----------------------------------------------------------
 
 ## each group
@@ -101,7 +139,6 @@ data_month |>
             .before = DateRange) |>
      arrange(Group, desc(Cases)) |> 
      print(n = Inf)
-
 
 # overall trend of month --------------------------------------------------
 
@@ -474,20 +511,18 @@ data_group <- data_month |>
      group_by(Group, Date, Year) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
-               CFR = (Deaths / Cases) * 1000,
                .groups = 'drop') |> 
      # add population
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e5,
-            Mortality = (Deaths / Population) * 1e5,
-            CFR = ifelse(is.na(CFR), 0, CFR)) |>
+            Mortality = (Deaths / Population) * 1e5) |>
      arrange(Group, desc(Cases))
 
 fig3_data <- data_group |> 
      select(Date, Group, Incidence)
 
-plot_breaks_3 <- c(log10(0.2), 0, 1, 2, 3)
+plot_breaks_3 <- c(log10(0.1), 0, 1, 2, 3)
 
 fig3 <- ggplot(data = fig3_data)+
      geom_line(mapping = aes(x = Date, y = Incidence, color = Group),
@@ -547,8 +582,8 @@ data_heat <- data_year |>
      group_by(Group, Disease) |>
      mutate(Incidence_normal = (Incidence - min(Incidence)) / sd(Incidence),
             Mortality_normal = (Mortality - min(Mortality)) / sd(Mortality),
-            Incidence_normal = ifelse(is.na(Incidence_normal), 0, Incidence_normal),
-            Mortality_normal = ifelse(is.na(Mortality_normal), 0, Mortality_normal))
+            Incidence_normal = ifelse(Incidence == 0, 0, Incidence_normal),
+            Mortality_normal = ifelse(Mortality == 0, 0, Mortality_normal))
 
 ## figure 5 ----------------------------------------------------------------
 
@@ -780,6 +815,12 @@ data_fig <- list("panel A" = fig1_data,
 write.xlsx(data_fig,
            file = "../Outcome/Publish/figure_data/fig1.xlsx")
 
+## save apc table ---------------------------------------------------------------
+
+write.xlsx(data_apc |> 
+                select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
+           file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
+
 # appendix ----------------------------------------------------------------
 
 source("./1_b_appendix.R")
@@ -882,16 +923,9 @@ for (i in 1:length(disease_groups)) {
             dpi = 300)
 }
 
-## save apc table ---------------------------------------------------------------
-
-write.xlsx(data_apc |> 
-                select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
-           file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
-
 # save plot ---------------------------------------------------------------
 
 save(data_month, data_year,
      data_month_total, data_year_total,
      jp_year_results, jp_segmented_results,
      data_class, data_population, file = "./month.RData")
-
