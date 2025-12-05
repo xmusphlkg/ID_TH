@@ -69,7 +69,15 @@ data_best <- data_table |>
 data_map <- data_map |>
      left_join(data_best, by = c("disease" = "disease")) |> 
      mutate(disease = factor(disease, levels = diseases)) |>
-     arrange(disease)
+     arrange(disease) |> 
+     pivot_longer(cols = -c(Group, disease, Method),
+                  names_to = "model",
+                  values_to = "value") |> 
+     mutate(label = format(value, digits = 2, nsmall = 2),
+            label = if_else(model == Method, paste0(label, "**"), label))
+
+
+pal_breaks <- pretty(data_map$value)
 
 # plot --------------------------------------------------------------------
 
@@ -80,12 +88,7 @@ data_map <- data_map |>
 plot_map <- function(i) {
      data <- data_map |> 
           filter(Group == disease_groups[i]) |>
-          select(-Group) |> 
-          pivot_longer(cols = -c(disease, Method),
-                       names_to = "model",
-                       values_to = "value") |> 
-          mutate(label = format(value, digits = 2, nsmall = 2),
-                 label = if_else(model == Method, paste0(label, "**"), label))
+          select(-Group)
      
      fig <- ggplot(data) +
           geom_tile(mapping = aes(x = model, y = disease, fill = value),
@@ -96,15 +99,14 @@ plot_map <- function(i) {
                     color = "black") +
           coord_equal(1/3) +
           scale_fill_gradientn(colors = fill_color_continue,
-                               breaks = c(-7, -5, -3, -1, 0, 1, 3, 5, 7),
-                               limits = c(-7, 7)) +
+                               breaks = pal_breaks,
+                               limits = range(pal_breaks)) +
           scale_y_discrete(expand = expansion(add = c(0, 0))) +
           scale_x_discrete(expand = expansion(add = c(0, 0))) +
           theme_bw() +
           theme(legend.position = "bottom",
                 panel.grid = element_blank(),
-                axis.text = element_text(size = 8, color = "black"),
-                plot.title = element_text(face = "bold", size = 14, color = "black"),
+                plot.title = element_text(face = 'bold', size = 14, hjust = 0),
                 plot.title.position = "plot") +
           guides(fill = guide_colourbar(barwidth = 15,
                                         title.position = "top",

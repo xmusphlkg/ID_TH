@@ -27,7 +27,7 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_class <- openxlsx::read.xlsx("../Outcome/Appendix/figure_data/fig7.xlsx") |>
+data_class <- openxlsx::read.xlsx("../Outcome/Publish/figure_data/fig4.xlsx") |>
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
@@ -45,7 +45,7 @@ auto_analysis_function <- function(i) {
      
      set.seed(20240902)
      
-     data_single <- data_analysis |>
+     data_single <- data_month |>
           filter(Shortname == disease_name[i]) |>
           select(Date, Shortname, Cases) |> 
           rename(date = 'Date',
