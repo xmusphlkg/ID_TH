@@ -29,10 +29,10 @@ load("./month.RData")
 
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1)|> 
+     filter(Including == 1 & Forecasting == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Label)) 
+     select(-c(Cases, Count, Including, Forecasting, Label)) 
 
 train_range <- c(as.Date('2008-1-1'), as.Date('2018-12-1'))
 test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))

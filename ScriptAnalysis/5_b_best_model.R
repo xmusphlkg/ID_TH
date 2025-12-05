@@ -16,11 +16,14 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
-     filter(Forecasting == 1) |> 
+# read disease class data
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1 & Forecasting == 1)|> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
      select(-c(Cases, Count, Including, Forecasting, Label))
 
-data_goodness <- read.xlsx("../Outcome/Appendix/Supplementary Appendix 2.xlsx")
+data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
 
 # best model --------------------------------------------------------------
 
@@ -51,7 +54,7 @@ data_table <- data_goodness |>
      left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
 
 write.xlsx(data_table,
-           "../Outcome/Appendix/figure_data/fig7.xlsx")
+           "../Outcome/Publish/figure_data/fig4.xlsx")
 
 data_map <- data_table |> 
      select(Group, disease, Method, Index) |> 
@@ -119,8 +122,13 @@ plot <- lapply(1:length(unique(data_class$Group)), plot_map) |>
      wrap_plots(ncol = 1, guides = 'collect')&
      theme(legend.position = "bottom")
 
-ggsave("../Outcome/Publish/fig7.pdf",
+ggsave("../Outcome/Publish/fig4.pdf",
        plot,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
+       width = 7, height = 10)
+
+ggsave("../Outcome/Publish/fig4.png",
+       plot,
+       limitsize = FALSE,
        width = 7, height = 10)
