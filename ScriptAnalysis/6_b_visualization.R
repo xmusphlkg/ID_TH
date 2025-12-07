@@ -10,8 +10,12 @@ library(ggh4x)
 
 remove(list = ls())
 
-source("./5_b_best_model.R")
+source("./function/theme_set.R")
+source("./function/forecast.R")
+
+load('./month.RData')
 load('./outcome.RData')
+load('./best_model_figure.RData')
 
 data_class <- data_class |> 
      mutate(id = row_number(),
@@ -30,7 +34,7 @@ plot_single_panel <- function(i){
      min_value <- outcome[[i]]$min_value
      max_case <- outcome[[i]]$max_case
      
-     plot_breaks <- pretty(c(min_value, max_value, 0))
+     plot_breaks <- pretty(c(min_value, max_value, 0), n = 3)
      
      fig <- ggplot() +
           geom_line(data = outcome_plot_1, mapping = aes(x = date, y = value, colour = "Observed")) +
@@ -41,7 +45,7 @@ plot_single_panel <- function(i){
                           xlim = c(split_dates[1] - 365, NA)) +
           scale_x_date(expand = expansion(add = c(0, 0)),
                        date_labels = "%Y",
-                       breaks = seq(split_dates[1] - 365, max(outcome_plot_2$date), by = "1 years")) +
+                       breaks = seq(split_dates[1] - 365, max(outcome_plot_2$date), by = "2 years")) +
           scale_y_continuous(expand = c(0, 0),
                              label = ifelse(max_case > 1000, scientific_10, scales::comma),
                              breaks = plot_breaks,
@@ -53,6 +57,7 @@ plot_single_panel <- function(i){
           theme(legend.position = "bottom",
                 legend.direction = "horizontal",
                 legend.box = 'vertical',
+                axis.text.y = element_text(angle = 90, hjust = 0.5),
                 panel.grid = element_blank(),
                 plot.title = element_text(face = 'bold', size = 14, hjust = 0))+
           labs(x = 'Date',
@@ -110,12 +115,14 @@ plot_group_panel <- function(g){
 # save --------------------------------------------------------------------
 
 fig2 <- lapply(1:nrow(data_class), plot_single_panel) |> 
-     wrap_plots(ncol = 7, guides = 'collect', axis_titles = 'collect') &
+     wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect') &
      theme(legend.position = 'bottom')
 
 plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,
-                           rel_widths = c(1, 7))
+                           rel_widths = c(1.5, 7))
+
+(fig1 | fig2) + plot_layout(widths = c(1.5, 7))
 
 ggsave("../Outcome/Publish/fig4.pdf",
        plot,

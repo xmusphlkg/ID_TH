@@ -23,7 +23,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      arrange(Group, desc(Cases)) |> 
      select(-c(Cases, Count, Including, Forecasting, Label)) |> 
      # add group for each 7 disease
-     mutate(Group_panel = ceiling(row_number() / 7))
+     mutate(Group_panel = ceiling(row_number() / 6))
 
 data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
 
@@ -54,6 +54,9 @@ diseases <- rev(data_class$Shortname)
 data_table <- data_goodness |>
      mutate(across(where(is.numeric), ~ round(., 2))) |>
      left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
+
+write.xlsx(data_table,
+           "../Outcome/Appendix/Best_model_outcome.xlsx")
 
 data_map <- data_table |> 
      select(Group, disease, Method, Index) |> 
@@ -115,7 +118,7 @@ fig_model <- ggplot(data_map) +
      geom_text(aes(x = model, y = disease, label = label),
                size = 2.5,
                color = "black") +
-     coord_equal(2) +
+     # coord_equal(2) +
      scale_fill_gradientn(colors = paletteer_d("Redmonder::dPBIRdGn"),
                           breaks = pal_breaks,
                           limits = range(pal_breaks)) +
@@ -139,4 +142,4 @@ fig_model <- ggplot(data_map) +
 
 fig1 <- fig_group + fig_model + plot_layout(nrow = 1)
 
-rm(fig_group, fig_model, data_map, data_table, data_best, data_goodness)
+save(fig1, data_class, file = './best_model_figure.RData')

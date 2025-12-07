@@ -27,7 +27,7 @@ source("./function/forecast.R")
 
 load('./month.RData')
 
-data_class <- openxlsx::read.xlsx("../Outcome/Publish/figure_data/fig4.xlsx") |>
+data_class <- openxlsx::read.xlsx("../Outcome/Appendix/Best_model_outcome.xlsx") |>
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
@@ -39,7 +39,7 @@ disease_name <- data_class$disease
 
 # data clean --------------------------------------------------------------
 
-# i <- 1
+i <- 19
 
 auto_analysis_function <- function(i) {
      
@@ -69,8 +69,8 @@ auto_analysis_function <- function(i) {
      
      # Select Method ------------------------------------------------------------
      
-     print(data_class$disease[i])
-     print(data_class$Method[i])
+     # print(data_class$disease[i])
+     # print(data_class$Method[i])
      
      if (data_class$Method[i] == "Neural Network") {
           mod <- nnetar(ts_train, lambda = NULL)
@@ -116,7 +116,7 @@ auto_analysis_function <- function(i) {
                                        upper_95 = exp(as.matrix(outcome$upper[, 2])))
      }
      
-     if (data_class$Method[i] == "Hybrid*") {
+     if (data_class$Method[i] == "Hybrid**") {
           mod <- hybridModel(ts_train,
                              lambda = NULL,
                              models = c("aent"),
@@ -134,7 +134,6 @@ auto_analysis_function <- function(i) {
                                        upper_80 = exp(as.matrix(outcome$upper[, 1])),
                                        upper_95 = exp(as.matrix(outcome$upper[, 2])))
      }
-     
      
      if (data_class$Method[i] == "Bayesian structural") {
           ss <- AddLocalLinearTrend(list(), ts_train)
