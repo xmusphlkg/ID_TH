@@ -317,14 +317,14 @@ fig2_data <- data_plot |>
 ggsave(filename = "../outcome/publish/fig2.pdf",
        plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom', legend.title.position = 'top'),
        width = 14,
-       height = 14,
+       height = 13,
        device = cairo_pdf,
        family = "Times New Roman")
 
 ggsave(filename = "../outcome/publish/fig2.png",
        plot = fig1/fig2 + plot_layout(ncol = 1, guides = 'collect') & theme(legend.position = 'bottom', legend.title.position = 'top'),
        width = 14,
-       height = 14)
+       height = 13)
 
 write.xlsx(list('A' = fig1_data, 'B' = fig2_data),
            file = "../outcome/Publish/figure_data/fig2.xlsx")

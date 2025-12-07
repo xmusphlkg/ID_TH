@@ -79,7 +79,7 @@ disease_groups <- c("Respiratory IDs",
                     "Sexually IDs",
                     "Other IDs")
 models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
-models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid*", "Bayesian structural")
+models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid**", "Bayesian structural")
 
 # Laplace smoothing
 

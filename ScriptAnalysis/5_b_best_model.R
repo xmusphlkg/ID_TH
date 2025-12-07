@@ -21,7 +21,9 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      filter(Including == 1 & Forecasting == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Forecasting, Label))
+     select(-c(Cases, Count, Including, Forecasting, Label)) |> 
+     # add group for each 7 disease
+     mutate(Group_panel = ceiling(row_number() / 7))
 
 data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
 
@@ -53,9 +55,6 @@ data_table <- data_goodness |>
      mutate(across(where(is.numeric), ~ round(., 2))) |>
      left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
 
-write.xlsx(data_table,
-           "../Outcome/Publish/figure_data/fig4.xlsx")
-
 data_map <- data_table |> 
      select(Group, disease, Method, Index) |> 
      pivot_wider(names_from = Method, values_from = Index)
@@ -73,64 +72,71 @@ data_map <- data_map |>
      pivot_longer(cols = -c(Group, disease, Method),
                   names_to = "model",
                   values_to = "value") |> 
-     mutate(label = format(value, digits = 2, nsmall = 2),
-            label = if_else(model == Method, paste0(label, "**"), label))
-
+     mutate(label = if_else(model == Method, "*", "")) |> 
+     left_join(data_class[,c('Shortname', 'Group_panel')], by = c("disease" = 'Shortname'))
 
 pal_breaks <- pretty(data_map$value)
 
 # plot --------------------------------------------------------------------
 
-# create map for each group of diseases
+fig_group <- ggplot(data_class)+
+     geom_tile(mapping = aes(x = 1, y = Shortname, fill = Group),
+               color = "white",
+               width = 2,
+               alpha = 0.5,
+               show.legend = F) +
+     geom_text(aes(x = 1.5, y = Shortname, label = Shortname),
+               size = 3,
+               hjust = 1,
+               color = "black") +
+     coord_cartesian(ratio = 1/3,
+                     xlim = c(0, 1.6)) +
+     scale_fill_manual(values = fill_color)+
+     scale_y_discrete(expand = expansion(add = c(0, 0)),
+                      limits = rev(data_class$Shortname))+
+     scale_x_discrete(expand = expansion(add = c(0, 0))) +
+     theme_bw() +
+     theme(legend.position = "bottom",
+           axis.text = element_blank(),
+           axis.ticks = element_blank(),
+           plot.margin = margin(5, 0, 5, 5),
+           panel.border = element_blank(),
+           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+           plot.title.position = "plot",
+           panel.grid = element_blank()) +
+     labs(x = NULL,
+          title = 'A',
+          y = NULL)
 
-# i <- 5
+fig_model <- ggplot(data_map) +
+     geom_tile(mapping = aes(x = model, y = disease, fill = value),
+               color = "white") +
+     # add value text
+     geom_text(aes(x = model, y = disease, label = label),
+               size = 2.5,
+               color = "black") +
+     coord_equal(2) +
+     scale_fill_gradientn(colors = paletteer_d("Redmonder::dPBIRdGn"),
+                          breaks = pal_breaks,
+                          limits = range(pal_breaks)) +
+     scale_y_discrete(expand = expansion(add = c(0, 0)),
+                      limits = rev(data_class$Shortname)) +
+     scale_x_discrete(expand = expansion(add = c(0, 0)),
+                      limits = models_label) +
+     theme_bw() +
+     theme(legend.position = "bottom",
+           axis.text.x = element_text(angle = 45, hjust = 1),
+           plot.margin = margin(5, 5, 5, 0),
+           axis.text.y = element_blank(),
+           axis.ticks.y = element_blank(),
+           panel.grid = element_blank()) +
+     guides(fill = guide_colourbar(barwidth = 15,
+                                   title.position = "top",
+                                   barheight = 0.5)) +
+     labs(x = NULL,
+          y = NULL,
+          fill = "Standardized index")
 
-plot_map <- function(i) {
-     data <- data_map |> 
-          filter(Group == disease_groups[i]) |>
-          select(-Group)
-     
-     fig <- ggplot(data) +
-          geom_tile(mapping = aes(x = model, y = disease, fill = value),
-                    color = "white") +
-          # add value text
-          geom_text(aes(x = model, y = disease, label = label),
-                    size = 2.5,
-                    color = "black") +
-          coord_equal(1/3) +
-          scale_fill_gradientn(colors = fill_color_continue,
-                               breaks = pal_breaks,
-                               limits = range(pal_breaks)) +
-          scale_y_discrete(expand = expansion(add = c(0, 0))) +
-          scale_x_discrete(expand = expansion(add = c(0, 0))) +
-          theme_bw() +
-          theme(legend.position = "bottom",
-                panel.grid = element_blank(),
-                plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-                plot.title.position = "plot") +
-          guides(fill = guide_colourbar(barwidth = 15,
-                                        title.position = "top",
-                                        barheight = 0.5,
-                                        color = "black")) +
-          labs(title = LETTERS[i],
-               x = NULL,
-               y = NULL,
-               fill = "Standardized index")
-     
-     fig
-}
+fig1 <- fig_group + fig_model + plot_layout(nrow = 1)
 
-plot <- lapply(1:length(unique(data_class$Group)), plot_map) |> 
-     wrap_plots(ncol = 1, guides = 'collect')&
-     theme(legend.position = "bottom")
-
-ggsave("../Outcome/Publish/fig4.pdf",
-       plot,
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 7, height = 10)
-
-ggsave("../Outcome/Publish/fig4.png",
-       plot,
-       limitsize = FALSE,
-       width = 7, height = 10)
+rm(fig_group, fig_model, data_map, data_table, data_best, data_goodness)
