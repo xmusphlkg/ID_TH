@@ -139,12 +139,14 @@ forecast_model_ts <- function(ts_train, h, method,
           }
      } else if (method == "Hybrid") {
           # hybridModel expects the original (logged) ts; control parallel via args
+          max_window <- length(ts_train) - (2 * 12) - 2
+          final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
           mod <- hybridModel(ts_train,
                              lambda = NULL,
                              models = c("aent"),
                              a.args = list(seasonal = TRUE),
                              weights = "cv.errors",
-                             windowSize = 36,
+                             windowSize = final_window,
                              parallel = hybrid_parallel,
                              num.cores = hybrid_cores,
                              errorMethod = "RMSE")

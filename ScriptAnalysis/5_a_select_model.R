@@ -131,16 +131,15 @@ table_build <- function(data_table, i) {
      ggtexttable(data,
                  rows = NULL,
                  cols = c('Method', display_ordered),
-                 theme = ttheme('blank', base_size = 10, padding = unit(c(5, 5), 'mm'))
-     ) |>
+                 theme = ttheme('default', base_size = 9, padding = unit(c(5, 5), 'mm'))) |>
           tab_add_title(paste(LETTERS[i + 6], ':', index, ' of models'), face = 'bold', size = 14) |>
           tab_add_footnote('*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted by RMSE',
-                           just = 'left', hjust = 1, size = 10)
+                           just = 'left', hjust = 1, size = 9)
 }
 
 # data clean --------------------------------------------------------------
 
-i <- 2
+i <- 12
 split_date = split_dates[1]
 
 auto_select_function <- function(i, split_date, cv_splits, add_value, index_labels, models, models_label) {
@@ -174,7 +173,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
      
      # initialize plot objects to avoid missing-variable errors
      fig_nnet_1 <- fig_ets_1 <- fig_sarima_1 <- fig_tbats_1 <- fig_hyb_1 <- fig_baye_1 <- NULL
-     model_type <- models_order[1]
+     model_type <- models_order[5]
      
      # container to collect forecasts (all models, all splits) for this disease
      forecasts_all <- data.frame()
@@ -203,7 +202,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                
                # use centralized forecasting helper (returns mean and intervals on original scale)
                res <- forecast_model_ts(ts_train = ts_train, h = h, method = model_type,
-                                        hybrid_parallel = FALSE, hybrid_cores = 1,
+                                        hybrid_parallel = FALSE, hybrid_cores = 10,
                                         bsts_niter = 1000, seed = 20240902)
                preds <- res$mean
                lower_95 <- res$lower_95
