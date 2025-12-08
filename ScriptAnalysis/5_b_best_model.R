@@ -23,7 +23,8 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      arrange(Group, desc(Cases)) |> 
      select(-c(Cases, Count, Including, Forecasting, Label)) |> 
      # add group for each 7 disease
-     mutate(Group_panel = ceiling(row_number() / 6))
+     mutate(Group_panel = ceiling(row_number() / 6),
+            id = row_number())
 
 data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
 
@@ -82,16 +83,44 @@ pal_breaks <- pretty(data_map$value)
 
 # plot --------------------------------------------------------------------
 
+data_class_group <- data_class |> 
+     group_by(Group) |> 
+     summarise(Start = first(Shortname),
+               End = last(Shortname),
+               StartID = first(id),
+               EndID = last(id),
+               .groups = 'drop') |> 
+     # reverse ID for plotting
+     mutate(StartID = nrow(data_class) - StartID + 1,
+            EndID = nrow(data_class) - EndID + 1)
+
 fig_group <- ggplot(data_class)+
-     geom_tile(mapping = aes(x = 1, y = Shortname, fill = Group),
+     geom_tile(mapping = aes(x = 1.05, y = Shortname, fill = Group),
                color = "white",
-               width = 2,
+               width = 0.55*2,
                alpha = 0.5,
                show.legend = F) +
      geom_text(aes(x = 1.5, y = Shortname, label = Shortname),
                size = 3,
                hjust = 1,
                color = "black") +
+     geom_rect(data = data_class_group,
+               mapping = aes(xmin = 0, xmax = 0.5,
+                             ymin = StartID + 0.5,
+                             ymax = EndID - 0.5,
+                             fill = Group),
+               color = "white",
+               size = 0.8,
+               alpha = 0.7,
+               show.legend = F) +
+     geom_text(data = data_class_group,
+               mapping = aes(x = 0.25, y = (StartID + EndID) / 2,
+                             label = Group),
+               size = 3,
+               color = "black",
+               fontface = "bold",
+               angle = 90,
+               inherit.aes = F) +
      coord_cartesian(ratio = 1/3,
                      xlim = c(0, 1.6)) +
      scale_fill_manual(values = fill_color)+
@@ -100,6 +129,7 @@ fig_group <- ggplot(data_class)+
      scale_x_discrete(expand = expansion(add = c(0, 0))) +
      theme_bw() +
      theme(legend.position = "bottom",
+           legend.title.position = 'top',
            axis.text = element_blank(),
            axis.ticks = element_blank(),
            plot.margin = margin(5, 0, 5, 5),
@@ -109,7 +139,9 @@ fig_group <- ggplot(data_class)+
            panel.grid = element_blank()) +
      labs(x = NULL,
           title = 'A',
-          y = NULL)
+          fill = "Disease categories",
+          y = NULL)+
+     guides(fill = guide_legend(ncol = 1, byrow = TRUE))
 
 fig_model <- ggplot(data_map) +
      geom_tile(mapping = aes(x = model, y = disease, fill = value),
@@ -118,7 +150,7 @@ fig_model <- ggplot(data_map) +
      geom_text(aes(x = model, y = disease, label = label),
                size = 2.5,
                color = "black") +
-     # coord_equal(2) +
+     coord_equal(1.7) +
      scale_fill_gradientn(colors = paletteer_d("Redmonder::dPBIRdGn"),
                           breaks = pal_breaks,
                           limits = range(pal_breaks)) +
@@ -133,13 +165,16 @@ fig_model <- ggplot(data_map) +
            axis.text.y = element_blank(),
            axis.ticks.y = element_blank(),
            panel.grid = element_blank()) +
-     guides(fill = guide_colourbar(barwidth = 15,
+     guides(fill = guide_colourbar(barwidth = 10,
                                    title.position = "top",
                                    barheight = 0.5)) +
      labs(x = NULL,
           y = NULL,
           fill = "Standardized index")
 
-fig1 <- fig_group + fig_model + plot_layout(nrow = 1)
+fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect')&
+     theme(legend.position = 'bottom',
+           legend.direction = "horizontal",
+           legend.box = 'vertical')
 
-save(fig1, data_class, file = './best_model_figure.RData')
+save(fig1, data_class, data_map, file = './best_model_figure.RData')

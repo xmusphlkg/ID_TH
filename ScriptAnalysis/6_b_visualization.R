@@ -18,8 +18,7 @@ load('./outcome.RData')
 load('./best_model_figure.RData')
 
 data_class <- data_class |> 
-     mutate(id = row_number(),
-            label = paste0(int2col(id + 1), ": ", Shortname))
+     mutate(label = paste0(int2col(id + 1), ": ", Shortname))
 
 # panel -------------------------------------------------------------------
 
@@ -57,6 +56,7 @@ plot_single_panel <- function(i){
           theme(legend.position = "bottom",
                 legend.direction = "horizontal",
                 legend.box = 'vertical',
+                legend.title.position = 'top',
                 axis.text.y = element_text(angle = 90, hjust = 0.5),
                 panel.grid = element_blank(),
                 plot.title = element_text(face = 'bold', size = 14, hjust = 0))+
@@ -122,8 +122,6 @@ plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,
                            rel_widths = c(1.5, 7))
 
-(fig1 | fig2) + plot_layout(widths = c(1.5, 7))
-
 ggsave("../Outcome/Publish/fig4.pdf",
        plot,
        family = "Times New Roman",
@@ -133,6 +131,12 @@ ggsave("../Outcome/Publish/fig4.pdf",
 ggsave("../Outcome/Publish/fig4.png",
        plot,
        limitsize = FALSE,
-       width = 7, height = 10)
+       width = 14, height = 10)
 
+data_outcome <- lapply(1:length(outcome), function(x) outcome[[x]]$outcome_data)
+
+data_outcome <- append(list(data_map), data_outcome)
+
+write.xlsx(data_outcome,
+           file = "../Outcome/Publish/figure_data/fig4.xlsx")
 
