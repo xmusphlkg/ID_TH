@@ -31,7 +31,8 @@ data_class <- openxlsx::read.xlsx("../Outcome/Appendix/Best_model_outcome.xlsx")
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
-     mutate(disease = factor(disease, levels = data_class$Shortname)) |>
+     mutate(disease = factor(disease, levels = data_class$Shortname),
+            Method = if_else(Method == 'Hybrid**', "Hybrid", Method)) |>
      arrange(disease)
 data_class$id <- 1:nrow(data_class)
 
@@ -95,7 +96,7 @@ auto_analysis_function <- function(i) {
                  color = if_else(diff > 0, "Decrease", "Increase"))
      
      write.csv(outcome_data,
-               paste0("../Outcome/Appendix/Forecast/", data_class$disease[i], ".csv"),
+               paste0("../Outcome/Appendix/Forecasts_with_best_model/", data_class$disease[i], ".csv"),
                row.names = F)
      
      return(list(outcome_data = outcome_data,
