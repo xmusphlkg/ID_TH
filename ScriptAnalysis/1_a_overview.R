@@ -116,6 +116,8 @@ data_year <- data_year_check |>
             Disease = Shortname) |> 
      ungroup() |> 
      arrange(Year, Disease) |> 
+     # make consistent cases and deaths
+     mutate(Deaths = ifelse(is.na(Cases) & Deaths == 0, NA, Deaths)) |>
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e7,
