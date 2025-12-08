@@ -16,5 +16,3 @@ source('./5_a_select_model.R')
 
 cat("Start part 6: forecasting best model...\n")
 source('./6_a_forecast.R')
-
-source('./6_b_visualization.R')

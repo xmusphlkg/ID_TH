@@ -105,7 +105,7 @@ fig_group <- ggplot(data_class)+
                alpha = 0.5,
                show.legend = F) +
      geom_text(aes(x = 1.5, y = Shortname, label = Shortname),
-               size = 3,
+               size = 2.5,
                hjust = 1,
                color = "black") +
      geom_rect(data = data_class_group,
@@ -120,7 +120,7 @@ fig_group <- ggplot(data_class)+
      geom_text(data = data_class_group,
                mapping = aes(x = 0.25, y = (StartID + EndID) / 2,
                              label = Group),
-               size = 3,
+               size = 2.5,
                color = "black",
                fontface = "bold",
                angle = 90,
