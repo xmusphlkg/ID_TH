@@ -93,18 +93,49 @@ process_model <- function(mod, ts_train, ts_test, test_length, index_labels, ts_
 
 table_build <- function(data_table, i) {
      index <- index_labels[i]
-     data <- data_table[data_table$Index == index, 1:4]
+     
+     # detect test columns dynamically (columns starting with 'Test_')
+     test_cols <- names(data_table)[grepl('^Test_', names(data_table))]
+     if (length(test_cols) == 0) {
+          stop('No Test_* columns found in data_table')
+     }
+     
+     # prepare display labels by removing 'Test_' and replacing '_' with '-'
+     display_labels <- gsub('_', '-', sub('^Test_', '', test_cols))
+     
+     # compute span (number of years) for sorting: larger spans first
+     spans <- sapply(display_labels, function(lab) {
+          if (grepl('-', lab)) {
+               parts <- strsplit(lab, '-')[[1]]
+               start <- as.numeric(parts[1])
+               end <- as.numeric(parts[length(parts)])
+               return(end - start + 1)
+          } else {
+               return(1)
+          }
+     })
+     
+     # order by span descending, then by start year ascending
+     start_years <- sapply(display_labels, function(lab) {
+          if (grepl('-', lab)) as.numeric(strsplit(lab, '-')[[1]][1]) else as.numeric(lab)
+     })
+     ord <- order(-spans, start_years)
+     test_cols_ordered <- test_cols[ord]
+     display_ordered <- display_labels[ord]
+     
+     # subset data for the requested index and select Method + ordered test cols
+     data <- data_table[data_table$Index == index, c('Method', test_cols_ordered)]
+     # replace NA with empty string for display
+     data[is.na(data)] <- ''
+     
      ggtexttable(data,
                  rows = NULL,
-                 cols = c("Method", "Test (2019)", "Test (2018-2019)", "Test (2017-2019)"),
-                 theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
+                 cols = c('Method', display_ordered),
+                 theme = ttheme('blank', base_size = 10, padding = unit(c(5, 5), 'mm'))
      ) |>
-          tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
-          tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 2) |>
-          tab_add_title(paste(LETTERS[i + 6], ":", index, " of models"), face = "bold", size = 14) |>
-          tab_add_footnote("*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted by RMSE",
-                           just = "left", hjust = 1, size = 10
-          )
+          tab_add_title(paste(LETTERS[i + 6], ':', index, ' of models'), face = 'bold', size = 14) |>
+          tab_add_footnote('*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted by RMSE',
+                           just = 'left', hjust = 1, size = 10)
 }
 
 # data clean --------------------------------------------------------------
@@ -235,7 +266,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                  Test_2018_2019 = round(Test_2018_2019, 2),
                  Test_2017_2019 = round(Test_2017_2019, 2)) |>
           arrange(Method) |>
-          select(Method, Test_2019, Test_2018_2019, Test_2017_2019, Index)
+          select(Method, Test_2019,   Test_2018_2019, Test_2017_2019, Index)
      data_table[is.na(data_table)] <- ""
      
      fig_table <- lapply(1:length(index_labels), table_build, data_table = data_table) |>
@@ -262,10 +293,12 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
      
      # save forecasts with intervals for this disease (long table)
      if (nrow(forecasts_all) > 0) {
-          forecasts_all <- forecasts_all |> mutate(disease = disease_name[i]) |> select(disease, Method, split, date, mean, lower_95, lower_80, upper_80, upper_95)
+          forecasts_all <- forecasts_all |> 
+               mutate(disease = disease_name[i]) |> 
+               select(disease, Method, split, date, mean, lower_95, lower_80, upper_80, upper_95)
           dir_out <- "../Outcome/Appendix/Forecasts_with_intervals"
           if (!dir.exists(dir_out)) dir.create(dir_out, recursive = TRUE)
-          write.xlsx(forecasts_all, file = file.path(dir_out, paste0(disease_name[i], "_forecasts.xlsx")))
+          write.csv(forecasts_all, file = file.path(dir_out, paste0(disease_name[i], "_forecasts.csv")))
      }
      
      return(fit_goodness)
