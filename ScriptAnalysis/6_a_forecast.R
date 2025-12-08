@@ -72,84 +72,17 @@ auto_analysis_function <- function(i) {
      # print(data_class$disease[i])
      # print(data_class$Method[i])
      
-     if (data_class$Method[i] == "Neural Network") {
-          mod <- nnetar(ts_train, lambda = NULL)
-          outcome_2 <- forecast(mod, h = forcast_length)
-          
-          outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome_2$mean)),
-                                       mean = exp(as.matrix(outcome_2$mean)),
-                                       lower_80 = NA,
-                                       lower_95 = NA,
-                                       upper_80 = NA,
-                                       upper_95 = NA)
-     }
-     
-     if (data_class$Method[i] == "ETS") {
-          outcome <- forecast(ets(ts_train, ic = "aicc", lambda = NULL), h = forcast_length)
-          outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                       mean = exp(as.matrix(outcome$mean)),
-                                       lower_80 = exp(as.matrix(outcome$lower[, 1])),
-                                       lower_95 = exp(as.matrix(outcome$lower[, 2])),
-                                       upper_80 = exp(as.matrix(outcome$upper[, 1])),
-                                       upper_95 = exp(as.matrix(outcome$upper[, 2])))
-     }
-     
-     if (data_class$Method[i] == "SARIMA") {
-          mod <- auto.arima(ts_train, seasonal = T, ic = 'aicc', lambda = 'auto')
-          outcome <- forecast(mod, h = forcast_length)
-          outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                       mean = exp(as.matrix(outcome$mean)),
-                                       lower_80 = exp(as.matrix(outcome$lower[, 1])),
-                                       lower_95 = exp(as.matrix(outcome$lower[, 2])),
-                                       upper_80 = exp(as.matrix(outcome$upper[, 1])),
-                                       upper_95 = exp(as.matrix(outcome$upper[, 2])))
-     }
-     
-     if (data_class$Method[i] == "TBATS") {
-          mod <- tbats(ts_train, seasonal.periods = 12)
-          outcome <- forecast(mod, h = forcast_length)
-          outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                       mean = exp(as.matrix(outcome$mean)),
-                                       lower_80 = exp(as.matrix(outcome$lower[, 1])),
-                                       lower_95 = exp(as.matrix(outcome$lower[, 2])),
-                                       upper_80 = exp(as.matrix(outcome$upper[, 1])),
-                                       upper_95 = exp(as.matrix(outcome$upper[, 2])))
-     }
-     
-     if (data_class$Method[i] == "Hybrid**") {
-          mod <- hybridModel(ts_train,
-                             lambda = NULL,
-                             models = c("aent"),
-                             a.args = list(seasonal = T),
-                             weights = "cv.errors",
-                             windowSize = 36,
-                             parallel = TRUE, num.cores = 10,
-                             errorMethod = "RMSE")
-          outcome <- forecast(mod, h = forcast_length)
-          
-          outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                       mean = exp(as.matrix(outcome$mean)),
-                                       lower_80 = exp(as.matrix(outcome$lower[, 1])),
-                                       lower_95 = exp(as.matrix(outcome$lower[, 2])),
-                                       upper_80 = exp(as.matrix(outcome$upper[, 1])),
-                                       upper_95 = exp(as.matrix(outcome$upper[, 2])))
-     }
-     
-     if (data_class$Method[i] == "Bayesian structural") {
-          ss <- AddLocalLinearTrend(list(), ts_train)
-          ss <- AddSeasonal(ss, ts_train, nseasons = 12)
-          mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
-          
-          burn <- SuggestBurn(0.1, mod)
-          outcome <- predict.bsts(mod, horizon = forcast_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
-          
-          outcome_plot_2 <- data.frame(date = tail(outcome_plot_1$date, forcast_length),
-                                       mean = exp(outcome$mean),
-                                       lower_80 = exp(outcome$interval[2, ]),
-                                       lower_95 = exp(outcome$interval[1, ]),
-                                       upper_80 = exp(outcome$interval[3, ]),
-                                       upper_95 = exp(outcome$interval[4, ]))
-     }
+     # centralized forecasting helper returns mean and interval vectors (on original scale)
+     res <- forecast_model_ts(ts_train = ts_train, h = forcast_length, method = data_class$Method[i],
+                              hybrid_parallel = TRUE, hybrid_cores = 10, bsts_niter = 1000, seed = 20240902)
+     # build outcome_plot_2 using a month sequence starting at the split date
+     dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
+     outcome_plot_2 <- data.frame(date = dates_seq,
+                                  mean = res$mean,
+                                  lower_80 = res$lower_80,
+                                  lower_95 = res$lower_95,
+                                  upper_80 = res$upper_80,
+                                  upper_95 = res$upper_95)
      
      # correct all negative value into zero
      max_value <- max(outcome_plot_2[, 2], max_case, na.rm = T)
@@ -205,4 +138,3 @@ stopCluster(cl)
 save(outcome, file = "./outcome.RData")
 
 source('./6_b_visualization.R')
-

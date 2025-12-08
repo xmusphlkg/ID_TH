@@ -27,14 +27,22 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
             id = row_number())
 
 data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
+# Choose which CV split to use for selecting best model. Options: "Test_2019", "Test_2018_2019", "Test_2017_2019"
+use_split <- "Test_2019"
 
 # best model --------------------------------------------------------------
 
+# The new `Model_test_results.xlsx` contains test metrics for multiple splits
+# (columns like Test_2019, Test_2018_2019, Test_2017_2019). We pivot to long
+# and select the desired split for model selection.
 data_goodness <- data_goodness |>
      filter(disease %in% data_class$Shortname) |>
-     mutate(disease = factor(disease, levels = rev(data_class$Shortname))) |> 
-     select(disease, Index, Method, Test) |>
-     pivot_wider(names_from = Index, values_from = Test) |> 
+     mutate(disease = factor(disease, levels = rev(data_class$Shortname))) |>
+     select(disease, Index, Method, starts_with("Test_")) |>
+     pivot_longer(cols = starts_with("Test_"), names_to = "Split", values_to = "TestValue") |>
+     filter(Split == use_split) |>
+     select(disease, Index, Method, Test = TestValue) |>
+     pivot_wider(names_from = Index, values_from = Test) |>
      ## z-normalization for each disease
      # group_by(disease) |>
      # mutate(norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),

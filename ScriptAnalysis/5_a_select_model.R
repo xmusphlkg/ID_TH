@@ -34,8 +34,15 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      arrange(Group, desc(Cases)) |> 
      select(-c(Cases, Count, Including, Forecasting, Label)) 
 
-train_range <- c(as.Date('2008-1-1'), as.Date('2018-12-1'))
-test_range <- c(as.Date('2019-1-1'), as.Date('2019-12-1'))
+# Define three cross-validation splits (train ranges and corresponding test ranges)
+cv_splits <- list(
+     list(train_start = as.Date('2008-01-01'), train_end = as.Date('2018-12-01'),
+          test_start = as.Date('2019-01-01'), test_end = as.Date('2019-12-01'), label = '2019'),
+     list(train_start = as.Date('2008-01-01'), train_end = as.Date('2017-12-01'),
+          test_start = as.Date('2018-01-01'), test_end = as.Date('2019-12-01'), label = '2018-2019'),
+     list(train_start = as.Date('2008-01-01'), train_end = as.Date('2016-12-01'),
+          test_start = as.Date('2017-01-01'), test_end = as.Date('2019-12-01'), label = '2017-2019')
+)
 
 disease_name <- data_class$Shortname
 
@@ -86,10 +93,10 @@ process_model <- function(mod, ts_train, ts_test, test_length, index_labels, ts_
 
 table_build <- function(data_table, i) {
      index <- index_labels[i]
-     data <- data_table[data_table$Index == index, 1:3]
+     data <- data_table[data_table$Index == index, 1:4]
      ggtexttable(data,
                  rows = NULL,
-                 cols = c("Method", "Train", "Test"),
+                 cols = c("Method", "Test (2019)", "Test (2018-2019)", "Test (2017-2019)"),
                  theme = ttheme("blank", base_size = 10, padding = unit(c(5, 5), "mm"))
      ) |>
           tab_add_hline(at.row = nrow(data_table) / 4 + 1, row.side = "bottom", linewidth = 2) |>
@@ -103,8 +110,9 @@ table_build <- function(data_table, i) {
 # data clean --------------------------------------------------------------
 
 i <- 2
+split_date = split_dates[1]
 
-auto_select_function <- function(i, split_date, add_value, index_labels, models, models_label) {
+auto_select_function <- function(i, split_date, cv_splits, add_value, index_labels, models, models_label) {
      data_single <- data_month |>
           filter(Shortname == disease_name[i]) |>
           select(Date, Shortname, Cases) |> 
@@ -122,22 +130,7 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
                    frequency = 12,
                    start = c(as.numeric(format(min(data_single$date), "%Y")),
                              as.numeric(format(min(data_single$date), "%m"))))
-     ts_train <- window(ts_obse,
-                        start = c(as.numeric(format(train_range[1], "%Y")),
-                                  as.numeric(format(train_range[1], "%m"))),
-                        end = c(as.numeric(format(train_range[2], "%Y")),
-                                as.numeric(format(train_range[2], "%m")))) + add_value
-     ts_train <- log(ts_train)
      
-     ts_test <- window(ts_obse,
-                       end = c(as.numeric(format(test_range[2], "%Y")),
-                               as.numeric(format(test_range[2], "%m"))),
-                       start = c(as.numeric(format(test_range[1], "%Y")),
-                                 as.numeric(format(test_range[1], "%m")))) + add_value
-     ts_test <- log(ts_test)
-     test_length <- length(ts_test)
-     
-     # save the outcome
      fit_goodness <- data.frame()
      
      # random model order
@@ -148,121 +141,101 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
      
      # models -----------------------------------------------------------------
      
+     # initialize plot objects to avoid missing-variable errors
+     fig_nnet_1 <- fig_ets_1 <- fig_sarima_1 <- fig_tbats_1 <- fig_hyb_1 <- fig_baye_1 <- NULL
+     model_type <- models_order[1]
+     
+     # container to collect forecasts (all models, all splits) for this disease
+     forecasts_all <- data.frame()
+     
      for (model_type in models_order) {
-          set.seed(20240902)
+          set.seed(20251208)
           
-          if (model_type == "Neural Network") {
-               mod <- nnetar(ts_train, lambda = NULL)
-               outcome <- process_model(mod, ts_train,
-                                        ts_test, test_length,
-                                        index_labels,
-                                        ts_obse, data_single,
-                                        split_date, max_case,
-                                        "Neural Network", 1)
-               # add the outcome to the list
-               fit_goodness <- rbind(fit_goodness, outcome[[1]])
-               fig_nnet_1 <- outcome[[2]]
-               rm(mod, outcome)
-          } else if (model_type == "ETS") {
-               mod <- ets(ts_train, ic = "aicc", lambda = NULL)
-               outcome <- process_model(mod, ts_train,
-                                        ts_test, test_length,
-                                        index_labels,
-                                        ts_obse, data_single,
-                                        split_date, max_case,
-                                        "ETS", 2)
-               fit_goodness <- rbind(fit_goodness, outcome[[1]])
-               fig_ets_1 <- outcome[[2]]
-               rm(mod, outcome)
-          } else if (model_type == "SARIMA") {
-               mod <- auto.arima(ts_train, seasonal = T, ic = "aicc", lambda = NULL)
-               outcome <- process_model(mod, ts_train,
-                                        ts_test, test_length,
-                                        index_labels,
-                                        ts_obse, data_single,
-                                        split_date, max_case,
-                                        "SARIMA", 3)
-               fit_goodness <- rbind(fit_goodness, outcome[[1]])
-               fig_sarima_1 <- outcome[[2]]
-               rm(mod, outcome)
-          } else if (model_type == "TBATS") {
-               # Exponential smoothing state space model with Box-Cox transformation, ARMA errors,
-               # Trend and Seasonal components
-               mod <- tbats(ts_train, seasonal.periods = 12)
-               outcome <- process_model(mod, ts_train,
-                                        ts_test, test_length,
-                                        index_labels,
-                                        ts_obse, data_single,
-                                        split_date, max_case,
-                                        "TBATS", 4)
-               fit_goodness <- rbind(fit_goodness, outcome[[1]])
-               fig_tbats_1 <- outcome[[2]]
-               rm(mod, outcome)
-          } else if (model_type == "Hybrid") {
-               mod <- hybridModel(ts_train,
-                                  lambda = NULL,
-                                  models = c("aent"),
-                                  a.args = list(seasonal = T),
-                                  weights = "cv.errors",
-                                  windowSize = 36,
-                                  parallel = TRUE, num.cores = 10,
-                                  errorMethod = "RMSE")
-               outcome <- process_model(mod, ts_train,
-                                        ts_test, test_length,
-                                        index_labels,
-                                        ts_obse, data_single,
-                                        split_date, max_case,
-                                        "Hybrid", 5)
-               fit_goodness <- rbind(fit_goodness, outcome[[1]])
-               fig_hyb_1 <- outcome[[2]]
-               rm(mod, outcome)
-          } else if (model_type == "Bayesian structural") {
-               ss <- AddLocalLinearTrend(list(), ts_train)
-               ss <- AddSeasonal(ss, ts_train, nseasons = 12)
-               mod <- bsts(ts_train, state.specification = ss, niter = 1000, seed = 20240902)
-               burn <- SuggestBurn(0.1, mod)
-               outcome <- predict.bsts(mod, horizon = test_length, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
+          # prepare vector to collect test metrics for each CV split
+          test_metrics <- matrix(NA, nrow = length(index_labels), ncol = length(cv_splits))
+          # initialize forecasts container for this model
+          forecasts_df <- NULL
+          
+          # We'll run the model for each CV split (fit on train, forecast on test)
+          for (s in seq_along(cv_splits)) {
+               cv <- cv_splits[[s]]
+               ts_train <- window(ts_obse,
+                                  start = c(as.numeric(format(cv$train_start, "%Y")), as.numeric(format(cv$train_start, "%m"))),
+                                  end = c(as.numeric(format(cv$train_end, "%Y")), as.numeric(format(cv$train_end, "%m")))) + add_value
+               ts_train <- log(ts_train)
                
-               # Compute fitted values on log-scale then back-transform.
-               fitted_log <- as.numeric(ts_train) - colMeans(mod$one.step.prediction.errors[-(1:burn), , drop = FALSE], na.rm = TRUE)
-               outcome_plot_1 <- data.frame(
-                    date = zoo::as.Date(time(ts_train)),
-                    simu = exp(as.numeric(ts_train)),
-                    fit = exp(as.numeric(fitted_log))
-               )
-               outcome_plot_2 <- data.frame(
-                    date = as.Date(time(ts_test)),
-                    mean = exp(as.numeric(outcome$mean)),
-                    lower_80 = exp(as.numeric(outcome$interval[2, ])),
-                    lower_95 = exp(as.numeric(outcome$interval[1, ])),
-                    upper_80 = exp(as.numeric(outcome$interval[3, ])),
-                    upper_95 = exp(as.numeric(outcome$interval[4, ]))
-               )
+               ts_test <- window(ts_obse,
+                                 start = c(as.numeric(format(cv$test_start, "%Y")), as.numeric(format(cv$test_start, "%m"))),
+                                 end = c(as.numeric(format(cv$test_end, "%Y")), as.numeric(format(cv$test_end, "%m")))) + add_value
+               ts_test <- log(ts_test)
+               h <- length(ts_test)
                
-               fit_goodness <- fit_goodness |>
-                    rbind(data.frame(Method = "Bayesian structural",
-                                     Index = index_labels,
-                                     Train = evaluate_forecast(outcome_plot_1$simu[!is.na(outcome_plot_1$fit)],
-                                                               outcome_plot_1$fit[!is.na(outcome_plot_1$fit)]),
-                                     Test = evaluate_forecast(outcome_plot_2$mean, exp(ts_test))))    
-               fig_baye_1 <- plot_outcome(outcome_plot_1,
-                                          outcome_plot_2,
-                                          data_single,
-                                          split_date,
-                                          max_case,
-                                          6, T, "Bayesian structural")
-               rm(mod, outcome, outcome_plot_1, outcome_plot_2)
+               # use centralized forecasting helper (returns mean and intervals on original scale)
+               res <- forecast_model_ts(ts_train = ts_train, h = h, method = model_type,
+                                        hybrid_parallel = FALSE, hybrid_cores = 1,
+                                        bsts_niter = 1000, seed = 20240902)
+               preds <- res$mean
+               lower_95 <- res$lower_95
+               lower_80 <- res$lower_80
+               upper_80 <- res$upper_80
+               upper_95 <- res$upper_95
+               
+               # compute test metrics for this split (on original scale)
+               actuals <- exp(ts_test)
+               test_eval <- evaluate_forecast(preds, actuals)
+               test_metrics[, s] <- test_eval
+               
+               # Collect forecasts for this split into forecasts_df for later multi-split plotting
+               dates_seq <- seq(cv$test_start, by = 'month', length.out = h)
+               this_df <- data.frame(date = dates_seq,
+                                     mean = preds,
+                                     lower_95 = lower_95,
+                                     lower_80 = lower_80,
+                                     upper_80 = upper_80,
+                                     upper_95 = upper_95,
+                                     split = cv$label,
+                                     stringsAsFactors = FALSE)
+               if (is.null(forecasts_df)) forecasts_df <- this_df else forecasts_df <- rbind(forecasts_df, this_df)
           }
+          
+          # after finishing all splits for this model, append model column and add to forecasts_all
+          if (!is.null(forecasts_df)) {
+               forecasts_df$Method <- model_type
+               forecasts_all <- rbind(forecasts_all, forecasts_df)
+          }
+          
+          # Build multi-split plot for this model
+          try({
+               if (!is.null(forecasts_df)) {
+                    split_starts <- sapply(cv_splits, function(x) x$test_start)
+                    fig_model <- plot_outcome_multisplit(data_single, forecasts_df, split_starts, max_case = 0, which(models == model_type), model_type)
+                    if (model_type == "Neural Network") fig_nnet_1 <- fig_model
+                    else if (model_type == "ETS") fig_ets_1 <- fig_model
+                    else if (model_type == "SARIMA") fig_sarima_1 <- fig_model
+                    else if (model_type == "TBATS") fig_tbats_1 <- fig_model
+                    else if (model_type == "Hybrid") fig_hyb_1 <- fig_model
+                    else if (model_type == "Bayesian structural") fig_baye_1 <- fig_model
+               }
+          }, silent = TRUE)
+          
+          # Combine test metrics into a data.frame row: one row per metric (Index)
+          df_row <- data.frame(Method = model_type,
+                               Index = index_labels,
+                               Test_2019 = test_metrics[, 1],
+                               Test_2018_2019 = test_metrics[, 2],
+                               Test_2017_2019 = test_metrics[, 3])
+          fit_goodness <- rbind(fit_goodness, df_row)
      }
      
      # summary table ---------------------------------------------------------
      
      data_table <- fit_goodness |>
           mutate(Method = factor(Method, levels = models, labels = models_label),
-                 Train = round(Train, 2),
-                 Test = round(Test, 2)) |>
+                 Test_2019 = round(Test_2019, 2),
+                 Test_2018_2019 = round(Test_2018_2019, 2),
+                 Test_2017_2019 = round(Test_2017_2019, 2)) |>
           arrange(Method) |>
-          select(Method, Train, Test, Index)
+          select(Method, Test_2019, Test_2018_2019, Test_2017_2019, Index)
      data_table[is.na(data_table)] <- ""
      
      fig_table <- lapply(1:length(index_labels), table_build, data_table = data_table) |>
@@ -286,6 +259,14 @@ auto_select_function <- function(i, split_date, add_value, index_labels, models,
           dpi = 300
      )
      fit_goodness$disease <- disease_name[i]
+     
+     # save forecasts with intervals for this disease (long table)
+     if (nrow(forecasts_all) > 0) {
+          forecasts_all <- forecasts_all |> mutate(disease = disease_name[i]) |> select(disease, Method, split, date, mean, lower_95, lower_80, upper_80, upper_95)
+          dir_out <- "../Outcome/Appendix/Forecasts_with_intervals"
+          if (!dir.exists(dir_out)) dir.create(dir_out, recursive = TRUE)
+          write.xlsx(forecasts_all, file = file.path(dir_out, paste0(disease_name[i], "_forecasts.xlsx")))
+     }
      
      return(fit_goodness)
 }
@@ -319,6 +300,7 @@ clusterEvalQ(cl, {
 clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
                      split_date = split_dates[1],
+                     cv_splits = cv_splits,
                      add_value = add_value,
                      index_labels = index_labels,
                      models = models,
