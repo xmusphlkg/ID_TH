@@ -203,3 +203,6 @@ outcome <- parLapply(cl, 1:length(disease_name), auto_analysis_function)
 stopCluster(cl)
 
 save(outcome, file = "./outcome.RData")
+
+source('./6_b_visualization.R')
+

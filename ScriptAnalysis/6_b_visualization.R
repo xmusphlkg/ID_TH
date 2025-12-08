@@ -139,4 +139,3 @@ data_outcome <- append(list(data_map), data_outcome)
 
 write.xlsx(data_outcome,
            file = "../Outcome/Publish/figure_data/fig4.xlsx")
-

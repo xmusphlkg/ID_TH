@@ -36,13 +36,15 @@ data_goodness <- data_goodness |>
      select(disease, Index, Method, Test) |>
      pivot_wider(names_from = Index, values_from = Test) |> 
      ## z-normalization for each disease
-     group_by(disease) |>
-     mutate(norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),
-            norRMSE = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T),
-            norMASE = -(MASE - mean(MASE, na.rm = T)) / sd(MASE, na.rm = T)) |>
-     rowwise() |>
-     mutate(Index = sum(c_across(norSMAPE:norMASE), na.rm = T)) |>
-     ungroup() |> 
+     # group_by(disease) |>
+     # mutate(norSMAPE = -(SMAPE - mean(SMAPE, na.rm = T)) / sd(SMAPE, na.rm = T),
+     #        norRMSE = -(RMSE - mean(RMSE, na.rm = T)) / sd(RMSE, na.rm = T),
+     #        norMASE = -(MASE - mean(MASE, na.rm = T)) / sd(MASE, na.rm = T)) |>
+     # rowwise() |>
+     # mutate(Index = sum(c_across(norSMAPE:norMASE), na.rm = T)) |>
+     # ungroup() |> 
+     ## min MASE
+     mutate(Index = -MASE) |> 
      ## find the best method for each disease based on the maximum index
      group_by(disease) |>
      mutate(Best = Method[which.max(Index)]) |>
@@ -110,7 +112,7 @@ fig_group <- ggplot(data_class)+
                              ymax = EndID - 0.5,
                              fill = Group),
                color = "white",
-               size = 0.8,
+               linewidth = 0.8,
                alpha = 0.7,
                show.legend = F) +
      geom_text(data = data_class_group,
