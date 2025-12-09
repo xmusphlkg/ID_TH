@@ -135,6 +135,13 @@ data_group_outcome_list <- lapply(seq(nrow(data_group_outcome)), function(i) {
                  max_case = max_case))
 })
 
-fig2 <- lapply(seq(length(data_group_outcome_list)), plot_single_panel) |> 
-     wrap_plots(ncol = 4, guides = 'collect', axis_titles = 'collect') &
+fig2 <- lapply(seq_along(disease_groups_select), plot_single_panel,
+               outcome = data_group_outcome_list,
+               titles = paste(LETTERS[seq_along(disease_groups_select)+4], disease_groups_select, sep = ': '),
+               y_angle = 0) |> 
+     wrap_plots(ncol = 2, guides = 'collect', axis_titles = 'collect') &
      theme(legend.position = 'bottom')
+
+data_save <- append(data_save,
+                    group_split(data_group_outcome, Group))
+

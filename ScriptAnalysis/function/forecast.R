@@ -249,7 +249,7 @@ plot_outcome_multisplit <- function(datafile_single,
 
 ## plot single panel of disease 
 
-plot_single_panel <- function(i){
+plot_single_panel <- function(i, outcome, titles, y_angle = 90){
      # related data
      outcome_data <- outcome[[i]]$outcome_data
      outcome_plot_1 <- outcome[[i]]$outcome_plot_1
@@ -282,14 +282,15 @@ plot_single_panel <- function(i){
                 legend.direction = "horizontal",
                 legend.box = 'vertical',
                 legend.title.position = 'top',
-                axis.text.y = element_text(angle = 90, hjust = 0.5),
+                axis.text.y = element_text(angle = y_angle, hjust = ifelse(y_angle == 90, 0.5, 1)),
+                axis.text.x = element_text(hjust = 0),
                 panel.grid = element_blank(),
                 plot.title = element_text(face = 'bold', size = 14, hjust = 0))+
           labs(x = 'Date',
                y = 'Monthly cases',
                color = 'Monthly cases',
                fill = 'Difference',
-               title = data_class$label[i]) +
+               title = titles[i]) +
           guides(color = guide_legend(order = 1, override.aes = list(fill = NA)),
                  fill = guide_legend(order = 2))
      
