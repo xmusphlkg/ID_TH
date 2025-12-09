@@ -20,9 +20,45 @@ load('./best_model_figure.RData')
 data_class <- data_class |> 
      mutate(label = paste0(int2col(id + 1), ": ", Shortname))
 
+# recovery ----------------------------------------------------------------
+
+df_metrics <- calculate_disease_metrics(outcome)
+
+# Format dates for display if needed
+df_display <- df_metrics |> 
+     mutate(Trough_Label = format(Trough_Date, "%Y-%m"),
+            Recovery_Label = format(Recovery_Date, "%Y-%m"),
+            Balance_Label = format(Balance_Date, "%Y-%m"),
+            Recovery_Label = if_else(is.na(Recovery_Label), "Not recovered", Recovery_Label),
+            Balance_Label = if_else(is.na(Balance_Label), "Not balanced", Balance_Label),
+            Max_Deficit_label = format(round(Max_Deficit, 0), big.mark = ",", scientific = FALSE),
+            Recovery_Period = lubridate::interval(as.Date('2020-1-1'), Recovery_Date) %/% months(1),
+            Balance_Period = lubridate::interval(as.Date('2020-1-1'), Balance_Date) %/% months(1)
+     )
+
+data_recovery_visual <- df_display |> 
+     select(Shortname, 
+            Recovery_Date, Balance_Date, 
+            Recovery_Period, Balance_Period) |> 
+     mutate(StartDate = as.Date('2020-01-01')) |> 
+     pivot_longer(
+          cols = c(Recovery_Date, Balance_Date, Recovery_Period, Balance_Period),
+          names_to = c("type", ".value"), 
+          names_sep = "_"
+     ) |> 
+     select(Shortname, StartDate, type, EndDate = Date, Period) |> 
+     # add max date for visualization
+     mutate(EndDate = if_else(is.na(EndDate) & type == 'Balance', max(data_month$Date, na.rm = T), EndDate),
+            Period = if_else(is.na(Period), "Not balanced", paste(as.character(Period), "months")))
+
 # save --------------------------------------------------------------------
 
-fig2 <- lapply(1:nrow(data_class), plot_single_panel, outcome = outcome, titles = data_class$label) |> 
+fig2 <- lapply(1:nrow(data_class),
+               plot_single_panel,
+               outcome = outcome,
+               recovery = data_recovery_visual,
+               display_recovery = T,
+               titles = data_class$label) |> 
      wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect') &
      theme(legend.position = 'bottom')
 
@@ -34,12 +70,12 @@ ggsave("../Outcome/Publish/fig4.pdf",
        plot,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 10)
+       width = 14, height = 12)
 
 ggsave("../Outcome/Publish/fig4.png",
        plot,
        limitsize = FALSE,
-       width = 14, height = 10)
+       width = 14, height = 12)
 
 data_outcome <- lapply(1:length(outcome), function(x) outcome[[x]]$outcome_data)
 

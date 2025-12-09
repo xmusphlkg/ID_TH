@@ -262,7 +262,7 @@ forecast_model_sim <- function(ts_train, h, method,
      return(results)
 }
 
-# visualize outcomes ---------------------------------------------------------------------------------------------------- 
+# visualize appendix ---------------------------------------------------------------------------------------------------- 
 
 # plot multi-split forecast outcome in appendix: cross-validation to find best model
 plot_outcome_multisplit <- function(datafile_single,
@@ -326,11 +326,11 @@ plot_outcome_multisplit <- function(datafile_single,
 }
 
 
-# panel -------------------------------------------------------------------
+# visualize main -------------------------------------------------------------------
 
 ## plot single panel of disease 
 
-plot_single_panel <- function(i, outcome, titles, y_angle = 90){
+plot_single_panel <- function(i, outcome, titles, recovery = NULL, display_recovery = F, y_angle = 90){
      # related data
      outcome_data <- outcome[[i]]$outcome_data
      outcome_plot_1 <- outcome[[i]]$outcome_plot_1
@@ -341,7 +341,53 @@ plot_single_panel <- function(i, outcome, titles, y_angle = 90){
      
      plot_breaks <- pretty(c(min_value, max_value, 0), n = 3)
      
-     fig <- ggplot() +
+     # browser()
+     
+     # determine display recovery interval
+     if (display_recovery) {
+          data_recovery <- recovery |> 
+               filter(Shortname == unique(outcome_data$Shortname)) |> 
+               mutate(ymin = max(plot_breaks) * c(1.0, 1.1),
+                      ymax = max(plot_breaks) * c(1.1, 1.2),
+                      # Compute per-row midpoint date safely by averaging numeric representation
+                      xlabs = as.Date((as.numeric(StartDate) + as.numeric(EndDate)) / 2),
+                      ylabs = (ymin + ymax) / 2)
+
+          fig <- ggplot(data = data_recovery) +
+               geom_rect(mapping = aes(xmin = StartDate, xmax = EndDate, ymin = ymin, ymax = ymax, fill = type),
+                         alpha = 0.2,
+                         inherit.aes = FALSE,
+                         show.legend = TRUE) +
+               geom_text(mapping = aes(x = xlabs,
+                                       y = ylabs,
+                                       group = type,
+                                       label = Period),
+                         size = 3,
+                         inherit.aes = FALSE)+
+               # Draw per-row vertical segments for recovery/balance end dates
+               geom_segment(data = data_recovery,
+                            mapping = aes(x = EndDate, xend = EndDate, y = 0, yend = ymax),
+                            linetype = 'dashed',
+                            color = 'black',
+                            alpha = 0.5,
+                            inherit.aes = FALSE)+
+               # Draw a baseline vertical line at the start of forecast (full height)
+               geom_vline(xintercept = min(outcome_plot_2$date),
+                          linetype = 'dashed',
+                          color = 'black',
+                          alpha = 0.5)+
+               geom_hline(yintercept = min(data_recovery$ymin),
+                          linetype = 'solid',
+                          color = 'black',
+                          alpha = 0.7) +
+               scale_fill_manual(values = c(Recovery = "#004F7AFF", Balance = "#F3C558FF"),
+                                 name = "Periods")
+     } else {
+          fig <- ggplot()
+     }
+     
+     fig <- fig +
+          ggnewscale::new_scale_fill()+
           geom_line(data = outcome_plot_1, mapping = aes(x = date, y = value, colour = "Observed")) +
           geom_line(data = outcome_plot_2, mapping = aes(x = date, y = median, colour = "Forecasted")) +
           stat_difference(data = outcome_data, mapping = aes(x = date, ymin = value, ymax = median),
@@ -353,19 +399,20 @@ plot_single_panel <- function(i, outcome, titles, y_angle = 90){
                        breaks = seq(split_dates[1] - 365, max(outcome_plot_2$date), by = "2 years")) +
           scale_y_continuous(expand = c(0, 0),
                              label = ifelse(max_case > 1000, scientific_10, scales::comma),
-                             breaks = plot_breaks,
-                             limits = range(plot_breaks)) +
-          scale_color_manual(values = c(Forecasted = "#004F7AFF", Observed = "#CC3D24FF")) +
-          scale_fill_manual(values = c(Decreased = "#004F7A50", Increased = "#CC3D2450"),
+                             breaks = plot_breaks) +
+          scale_color_manual(values = c(Forecasted = "#6DAE90FF", Observed = "#CC3D24FF")) +
+          scale_fill_manual(values = c(Decreased = "#6DAE9050", Increased = "#CC3D2450"),
                             drop = F) +
           theme_bw() +
           theme(legend.position = "bottom",
                 legend.direction = "horizontal",
                 legend.box = 'vertical',
                 legend.title.position = 'top',
+                legend.key = element_rect(fill = "transparent", colour = NA),
                 axis.text.y = element_text(angle = y_angle, hjust = ifelse(y_angle == 90, 0.5, 1)),
                 axis.text.x = element_text(hjust = 0),
                 panel.grid = element_blank(),
+                plot.title.position = ifelse(y_angle == 90, 'panel', 'plot'),
                 plot.title = element_text(face = 'bold', size = 14, hjust = 0))+
           labs(x = 'Date',
                y = 'Monthly cases',
@@ -376,4 +423,132 @@ plot_single_panel <- function(i, outcome, titles, y_angle = 90){
                  fill = guide_legend(order = 2))
      
      return(fig)
+}
+
+# recovery ----------------------------------------------------------------
+
+library(dplyr)
+library(lubridate)
+
+#' Calculate Comprehensive Recovery Metrics (Decoupled Logic)
+#'
+#' Allows Recovery Date to occur BEFORE Trough Date.
+#' This handles cases where trend recovers (e.g., to 95%) but deficit continues to grow (because < 100%).
+#'
+#' @param outcome_list List containing model results.
+#' @param start_date_calc Character or Date, start point for cumulative calculation.
+#' @param recovery_threshold Numeric, threshold for trend recovery (default 0.95).
+#'
+#' @return A tibble with decoupled Trough and Recovery analysis.
+calculate_disease_metrics <- function(outcome_list, 
+                                      start_date_calc = "2020-01-01",
+                                      recovery_threshold = 0.95) {
+     
+     start_date_calc <- as.Date(start_date_calc)
+     
+     purrr::map_dfr(outcome_list, function(item) {
+          
+          # --- 1. Data Prep ---
+          od <- item$outcome_data
+          if (is.null(od) || nrow(od) == 0) return(NULL)
+          shortname <- unique(od$Shortname)[1]
+          
+          if (!all(c('date', 'value', 'median') %in% names(od))) {
+               warning(paste("Skipping", shortname, "- missing columns."))
+               return(NULL)
+          }
+          
+          # Filter and Calc Cumulative Diff
+          df_calc <- od %>%
+               filter(date >= start_date_calc) %>%
+               arrange(date) %>%
+               mutate(
+                    diff = value - median,
+                    cum_diff = cumsum(diff),
+                    # Define recovery status (Trend based)
+                    is_above_threshold = value >= median * recovery_threshold
+               )
+          
+          if (nrow(df_calc) == 0) return(NULL)
+          
+          # --- 2. Identify Trough (Max Deficit) ---
+          # The mathematical point where deficit stops growing
+          trough_idx <- which.min(df_calc$cum_diff)
+          trough_date <- df_calc$date[trough_idx]
+          max_deficit <- df_calc$cum_diff[trough_idx]
+          
+          # --- 3. Identify Recovery Date (INDEPENDENT SEARCH) ---
+          
+          # Logic: We want the first recovery *after* the pandemic impact started.
+          # Find the first time cum_diff dropped below 0 (impact start).
+          # If it never dropped below 0, impact never started.
+          
+          first_deficit_idx <- which(df_calc$cum_diff < 0)[1]
+          
+          if (is.na(first_deficit_idx)) {
+               # Case: No deficit ever occurred
+               recovery_date <- NA 
+               status <- "No Deficit"
+          } else {
+               # Search for recovery starting from the first moment of deficit
+               # We do NOT limit this search by the Trough Date anymore.
+               
+               df_search <- df_calc 
+               
+               # Calculate robust rolling flag for the whole period
+               df_search$is_robust_recovery <- zoo::rollapply(df_search$is_above_threshold, 
+                                                              width = 3, FUN = all, fill = FALSE, align = "left")
+               
+               # We strictly look for recovery dates that happen AFTER the first deficit began
+               # This prevents picking up "January 2020" as a recovery date.
+               valid_recovery_indices <- which(df_search$is_robust_recovery & 
+                                                    df_search$date >= df_calc$date[first_deficit_idx])
+               
+               if (length(valid_recovery_indices) > 0) {
+                    recovery_date <- df_search$date[valid_recovery_indices[1]]
+                    status <- "Recovered (Trend)"
+               } else {
+                    recovery_date <- NA
+                    status <- "Suppressed"
+               }
+          }
+          
+          # --- 4. Identify Balance Date (Strictly Post-Trough) ---
+          # Balance (Repayment) can only happen after the debt peaked.
+          
+          if (max_deficit >= 0) {
+               balance_date <- NA
+          } else {
+               df_post_trough <- df_calc[trough_idx:nrow(df_calc), ]
+               bal_idx <- which(df_post_trough$cum_diff >= 0)[1]
+               balance_date <- if (!is.na(bal_idx)) df_post_trough$date[bal_idx] else NA
+               
+               if (!is.na(balance_date)) status <- "Fully Repaid"
+          }
+          
+          # --- 5. Calculate Durations ---
+          # Using robust arithmetic year*12 + month
+          get_months_diff <- function(start, end) {
+               if (is.na(start) || is.na(end)) return(NA_real_)
+               y_diff <- lubridate::year(end) - lubridate::year(start)
+               m_diff <- lubridate::month(end) - lubridate::month(start)
+               return(y_diff * 12 + m_diff)
+          }
+          
+          months_to_rec <- get_months_diff(trough_date, recovery_date)
+          months_to_bal <- get_months_diff(trough_date, balance_date)
+          
+          # --- 6. Output ---
+          tibble(
+               Shortname = shortname,
+               Trough_Date = trough_date,
+               Recovery_Date = recovery_date,
+               Balance_Date = balance_date,
+               # Note: This can now be negative if trend recovers before deficit is maxed out
+               Months_Trough_to_Recovery = months_to_rec, 
+               Months_Trough_to_Balance = months_to_bal,
+               Max_Deficit = max_deficit,
+               Status = status
+          )
+     })
 }

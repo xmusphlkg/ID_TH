@@ -94,7 +94,7 @@ auto_analysis_function <- function(i) {
      outcome_plot_2 <- outcome_plot_2 |>
           mutate_at(vars(contains("er")), as.numeric)
      outcome_data <- left_join(outcome_plot_2, outcome_plot_1, by = c('Shortname', 'date')) |>
-          mutate(diff = mean - value,
+          mutate(diff = median - value,
                  color = if_else(diff > 0, "Decrease", "Increase"))
      
      write.csv(outcome_data,
