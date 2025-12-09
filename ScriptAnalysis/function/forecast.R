@@ -46,7 +46,7 @@ evaluate_forecast <- function(actual, forecast) {
 #' - Group C (Bayesian structural): fits using `bsts()` and extracts predictive intervals.
 #' Returned values are back-transformed from log scale.
 forecast_model_ts <- function(ts_train, h, method,
-                              hybrid_parallel = FALSE, hybrid_cores = 1,
+                              hybrid_parallel = TRUE, hybrid_cores = 10,
                               bsts_niter = 1000, seed = 20240902) {
      
      # 1. Input Validation and Setup
@@ -162,8 +162,8 @@ forecast_model_ts <- function(ts_train, h, method,
 #'
 #' @return A list containing mean, confidence intervals, and the raw MCMC matrix (original scale).
 forecast_model_sim <- function(ts_train, h, method,
-                               hybrid_parallel = FALSE, hybrid_cores = 1,
-                               bsts_niter = 1000, n_paths = 1000, seed = 20240902) {
+                               hybrid_parallel = TRUE, hybrid_cores = 10,
+                               bsts_niter = 1000, n_paths = 1000, seed = 20251209) {
      
      # 1. Input Validation and Setup
      valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
@@ -251,6 +251,7 @@ forecast_model_sim <- function(ts_train, h, method,
      # Construct result list
      results <- list(
           mean     = rowMeans(sim_matrix_exp, na.rm = TRUE),
+          median   = get_quantile(sim_matrix_exp, 0.5),
           lower_95 = get_quantile(sim_matrix_exp, 0.025),
           lower_80 = get_quantile(sim_matrix_exp, 0.100),
           upper_80 = get_quantile(sim_matrix_exp, 0.900),
@@ -342,8 +343,8 @@ plot_single_panel <- function(i, outcome, titles, y_angle = 90){
      
      fig <- ggplot() +
           geom_line(data = outcome_plot_1, mapping = aes(x = date, y = value, colour = "Observed")) +
-          geom_line(data = outcome_plot_2, mapping = aes(x = date, y = mean, colour = "Forecasted")) +
-          stat_difference(data = outcome_data, mapping = aes(x = date, ymin = value, ymax = mean),
+          geom_line(data = outcome_plot_2, mapping = aes(x = date, y = median, colour = "Forecasted")) +
+          stat_difference(data = outcome_data, mapping = aes(x = date, ymin = value, ymax = median),
                           alpha = 0.3, levels = c("Decreased", "Increased"), show.legend = T) +
           coord_cartesian(ylim = c(0, NA),
                           xlim = c(split_dates[1] - 365, NA)) +

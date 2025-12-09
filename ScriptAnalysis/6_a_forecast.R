@@ -74,8 +74,8 @@ auto_analysis_function <- function(i) {
      # print(data_class$Method[i])
      
      # centralized forecasting helper returns mean and interval vectors (on original scale)
-     res <- forecast_model_ts(ts_train = ts_train, h = forcast_length, method = data_class$Method[i],
-                              hybrid_parallel = TRUE, hybrid_cores = 10, bsts_niter = 1000, seed = 20240902)
+     res <- forecast_model_sim(ts_train = ts_train, h = forcast_length, method = data_class$Method[i],
+                               hybrid_parallel = TRUE, hybrid_cores = 10, bsts_niter = 1000, seed = 20251209)
      # build outcome_plot_2 using a month sequence starting at the split date
      dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
      outcome_plot_2 <- data.frame(date = dates_seq,
@@ -104,6 +104,7 @@ auto_analysis_function <- function(i) {
                  data_single = data_single,
                  outcome_plot_1 = outcome_plot_1,
                  outcome_plot_2 = outcome_plot_2,
+                 MCMC = res$MCMC,
                  max_value = max_value,
                  min_value = min_value,
                  max_case = max_case))
