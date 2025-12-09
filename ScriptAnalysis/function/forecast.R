@@ -21,64 +21,79 @@ evaluate_forecast <- function(actual, forecast) {
 }
 
 
-# Reusable forecasting helper -------------------------------------------------
-# ts_train: a (logged) time series used for fitting (already transformed if needed)
-# h: forecast horizon (integer)
-# method: one of "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural"
-# hybrid_parallel, hybrid_cores: passed to hybridModel when method == "Hybrid"
-# bsts_niter: iterations for bsts when method == "Bayesian structural"
-# seed: random seed for reproducibility
+#' Forecast single-run model
+#'
+#' Fits a time series model and returns point forecasts and prediction
+#' intervals. This function performs a single deterministic forecast (no
+#' Monte Carlo simulation). Input `ts_train` is assumed to be log-transformed
+#' when required; returned values are back-transformed to the original scale.
+#'
+#' @param ts_train Time series object (assumed to be log-transformed).
+#' @param h Forecast horizon (integer).
+#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
+#' @param hybrid_parallel Logical; passed to `hybridModel` when `method == "Hybrid"`.
+#' @param hybrid_cores Integer; number of cores for `hybridModel`.
+#' @param bsts_niter Integer; number of iterations for `bsts` when using the Bayesian structural model.
+#' @param seed Integer; random seed for reproducibility.
+#'
+#' @return A named list with elements:
+#' - `mean`: point forecast (original scale)
+#' - `lower_95`, `lower_80`, `upper_80`, `upper_95`: prediction intervals (original scale)
+#'
+#' @details Internally this function groups models into three categories:
+#' - Group A (standard models): uses `forecast()` on models supported by the `forecast` package.
+#' - Group B (hybrid): fits using `hybridModel()` and extracts forecast and intervals.
+#' - Group C (Bayesian structural): fits using `bsts()` and extracts predictive intervals.
+#' Returned values are back-transformed from log scale.
 forecast_model_ts <- function(ts_train, h, method,
                               hybrid_parallel = FALSE, hybrid_cores = 1,
                               bsts_niter = 1000, seed = 20240902) {
-     # initialize
+     
+     # 1. Input Validation and Setup
+     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+     method <- match.arg(method, valid_methods)
+     
+     # Initialize result vectors
      lower_95 <- lower_80 <- upper_80 <- upper_95 <- rep(NA, h)
      mean_forecast <- rep(NA, h)
      
-     if (method == "Neural Network") {
-          mod <- nnetar(ts_train, lambda = NULL)
+     set.seed(seed)
+     
+     # ---------------------------------------------------------
+     # 2. Model Fitting and Forecasting
+     # ---------------------------------------------------------
+     
+     # GROUP A: Standard Models (Neural Network, ETS, SARIMA, TBATS)
+     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
+          
+          # Fit the appropriate model
+          mod <- switch(method,
+                        "Neural Network" = nnetar(ts_train, lambda = NULL),
+                        "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
+                        "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
+                        "TBATS"          = tbats(ts_train, seasonal.periods = 12)
+          )
+          
+          # Generate forecast
           out <- forecast(mod, h = h)
           mean_forecast <- as.numeric(out$mean)
+          
+          # Extract intervals if available
           if (!is.null(out$lower) && !is.null(out$upper)) {
                lower_80 <- as.numeric(out$lower[, 1])
                lower_95 <- as.numeric(out$lower[, 2])
                upper_80 <- as.numeric(out$upper[, 1])
                upper_95 <- as.numeric(out$upper[, 2])
           }
-     } else if (method == "ETS") {
-          mod <- ets(ts_train, ic = "aicc", lambda = NULL)
-          out <- forecast(mod, h = h)
-          mean_forecast <- as.numeric(out$mean)
-          if (!is.null(out$lower) && !is.null(out$upper)) {
-               lower_80 <- as.numeric(out$lower[, 1])
-               lower_95 <- as.numeric(out$lower[, 2])
-               upper_80 <- as.numeric(out$upper[, 1])
-               upper_95 <- as.numeric(out$upper[, 2])
-          }
-     } else if (method == "SARIMA") {
-          mod <- auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL)
-          out <- forecast(mod, h = h)
-          mean_forecast <- as.numeric(out$mean)
-          if (!is.null(out$lower) && !is.null(out$upper)) {
-               lower_80 <- as.numeric(out$lower[, 1])
-               lower_95 <- as.numeric(out$lower[, 2])
-               upper_80 <- as.numeric(out$upper[, 1])
-               upper_95 <- as.numeric(out$upper[, 2])
-          }
-     } else if (method == "TBATS") {
-          mod <- tbats(ts_train, seasonal.periods = 12)
-          out <- forecast(mod, h = h)
-          mean_forecast <- as.numeric(out$mean)
-          if (!is.null(out$lower) && !is.null(out$upper)) {
-               lower_80 <- as.numeric(out$lower[, 1])
-               lower_95 <- as.numeric(out$lower[, 2])
-               upper_80 <- as.numeric(out$upper[, 1])
-               upper_95 <- as.numeric(out$upper[, 2])
-          }
+          
+          # GROUP B: Hybrid Model
      } else if (method == "Hybrid") {
-          # hybridModel expects the original (logged) ts; control parallel via args
+          
+          # Configure window size for cross-validation
           max_window <- length(ts_train) - (2 * 12) - 2
           final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
+          
+          # Fit Hybrid model
           mod <- hybridModel(ts_train,
                              lambda = NULL,
                              models = c("aent"),
@@ -88,32 +103,42 @@ forecast_model_ts <- function(ts_train, h, method,
                              parallel = hybrid_parallel,
                              num.cores = hybrid_cores,
                              errorMethod = "RMSE")
+          
+          # Generate forecast
           out <- forecast(mod, h = h)
           mean_forecast <- as.numeric(out$mean)
+          
           if (!is.null(out$lower) && !is.null(out$upper)) {
                lower_80 <- as.numeric(out$lower[, 1])
                lower_95 <- as.numeric(out$lower[, 2])
                upper_80 <- as.numeric(out$upper[, 1])
                upper_95 <- as.numeric(out$upper[, 2])
           }
+          
+          # GROUP C: Bayesian Structural Time Series
      } else if (method == "Bayesian structural") {
+          
+          # Define state specification
           ss <- AddLocalLinearTrend(list(), ts_train)
           ss <- AddSeasonal(ss, ts_train, nseasons = frequency(ts_train))
-          mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed)
+          
+          # Fit BSTS model
+          mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping = 0)
           burn <- SuggestBurn(0.1, mod)
+          
+          # Predict
           pred <- predict.bsts(mod, horizon = h, burn = burn, quantiles = c(0.025, 0.1, 0.9, 0.975))
           mean_forecast <- as.numeric(pred$mean)
+          
           if (!is.null(pred$interval)) {
                lower_95 <- as.numeric(pred$interval[1, ])
                lower_80 <- as.numeric(pred$interval[2, ])
                upper_80 <- as.numeric(pred$interval[3, ])
                upper_95 <- as.numeric(pred$interval[4, ])
           }
-     } else {
-          stop(sprintf('Unknown forecasting method: %s', method))
      }
      
-     # returned values are on the original scale (undo log)
+     # 3. Return Results (Back-transform from Log scale)
      return(list(mean = exp(mean_forecast),
                  lower_95 = if (all(is.na(lower_95))) rep(NA, h) else exp(lower_95),
                  lower_80 = if (all(is.na(lower_80))) rep(NA, h) else exp(lower_80),
@@ -139,101 +164,101 @@ forecast_model_ts <- function(ts_train, h, method,
 forecast_model_sim <- function(ts_train, h, method,
                                hybrid_parallel = FALSE, hybrid_cores = 1,
                                bsts_niter = 1000, n_paths = 1000, seed = 20240902) {
-  
-  # 1. Input Validation and Setup
-  valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
-  method <- match.arg(method, valid_methods)
-  
-  set.seed(seed)
-  
-  # Initialize matrix to store log-scale paths (Rows=Time, Cols=Paths)
-  sim_matrix_log <- matrix(NA, nrow = h, ncol = n_paths)
-  
-  # ---------------------------------------------------------
-  # 2. Model Fitting and Simulation
-  # ---------------------------------------------------------
-  
-  # GROUP A: Standard Models (Supported by forecast::simulate)
-  if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
-    
-    # Fit the appropriate model
-    mod <- switch(method,
-      "Neural Network" = nnetar(ts_train, lambda = NULL),
-      "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
-      "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
-      "TBATS"          = tbats(ts_train, seasonal.periods = 12)
-    )
-    
-    # Generate paths using replicate (Cleaner than for-loop)
-    # simulate() handles the bootstrapping of residuals automatically
-    sim_matrix_log <- replicate(n_paths, 
-                                as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE)))
-    
-  # GROUP B: Hybrid Model (Manual Parametric Bootstrap)
-  } else if (method == "Hybrid") {
-    
-    # Configure window size for cross-validation
-    max_window <- length(ts_train) - (2 * 12) - 2
-    final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
-    
-    # Fit Hybrid model
-    mod <- hybridModel(ts_train, lambda = NULL,
-                       models = c("aent"), a.args = list(seasonal = TRUE),
-                       weights = "cv.errors", windowSize = final_window,
-                       parallel = hybrid_parallel, num.cores = hybrid_cores,
-                       errorMethod = "RMSE")
-    
-    # Extract mean forecast and historical residuals
-    fc_out <- forecast(mod, h = h)
-    mu <- as.numeric(fc_out$mean)
-    resids <- na.omit(mod$residuals)
-    
-    # Simulate: Mean + Bootstrapped Residuals
-    sim_matrix_log <- replicate(n_paths, {
-      sim_noise <- sample(resids, size = h, replace = TRUE)
-      mu + sim_noise
-    })
-    
-  # GROUP C: Bayesian Structural Time Series (Native MCMC)
-  } else if (method == "Bayesian structural") {
-    
-    # Define state specification
-    ss <- AddLocalLinearTrend(list(), ts_train)
-    ss <- AddSeasonal(ss, ts_train, nseasons = frequency(ts_train))
-    
-    # Fit BSTS model
-    mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping = 0)
-    burn <- SuggestBurn(0.1, mod)
-    
-    # Predict and extract posterior distribution
-    pred <- predict.bsts(mod, horizon = h, burn = burn)
-    posterior_samples <- pred$distribution # Dimensions: (n_samples x h)
-    
-    # Resample to match requested n_paths
-    avail_samples <- nrow(posterior_samples)
-    idx <- sample(1:avail_samples, size = n_paths, replace = TRUE)
-    
-    # Transpose to match standard format (Rows=Time, Cols=Paths)
-    sim_matrix_log <- t(posterior_samples[idx, ])
-  }
-  
-  # Back-transform from Log scale to Original scale
-  sim_matrix_exp <- exp(sim_matrix_log)
-  
-  # Helper function to compute quantiles cleanly
-  get_quantile <- function(x, p) apply(x, 1, quantile, probs = p, na.rm = TRUE)
-  
-  # Construct result list
-  results <- list(
-    mean     = rowMeans(sim_matrix_exp, na.rm = TRUE),
-    lower_95 = get_quantile(sim_matrix_exp, 0.025),
-    lower_80 = get_quantile(sim_matrix_exp, 0.100),
-    upper_80 = get_quantile(sim_matrix_exp, 0.900),
-    upper_95 = get_quantile(sim_matrix_exp, 0.975),
-    MCMC     = sim_matrix_exp
-  )
-  
-  return(results)
+     
+     # 1. Input Validation and Setup
+     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+     method <- match.arg(method, valid_methods)
+     
+     set.seed(seed)
+     
+     # Initialize matrix to store log-scale paths (Rows=Time, Cols=Paths)
+     sim_matrix_log <- matrix(NA, nrow = h, ncol = n_paths)
+     
+     # ---------------------------------------------------------
+     # 2. Model Fitting and Simulation
+     # ---------------------------------------------------------
+     
+     # GROUP A: Standard Models (Supported by forecast::simulate)
+     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
+          
+          # Fit the appropriate model
+          mod <- switch(method,
+                        "Neural Network" = nnetar(ts_train, lambda = NULL),
+                        "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
+                        "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
+                        "TBATS"          = tbats(ts_train, seasonal.periods = 12)
+          )
+          
+          # Generate paths using replicate (Cleaner than for-loop)
+          # simulate() handles the bootstrapping of residuals automatically
+          sim_matrix_log <- replicate(n_paths, 
+                                      as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE)))
+          
+          # GROUP B: Hybrid Model (Manual Parametric Bootstrap)
+     } else if (method == "Hybrid") {
+          
+          # Configure window size for cross-validation
+          max_window <- length(ts_train) - (2 * 12) - 2
+          final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
+          
+          # Fit Hybrid model
+          mod <- hybridModel(ts_train, lambda = NULL,
+                             models = c("aent"), a.args = list(seasonal = TRUE),
+                             weights = "cv.errors", windowSize = final_window,
+                             parallel = hybrid_parallel, num.cores = hybrid_cores,
+                             errorMethod = "RMSE")
+          
+          # Extract mean forecast and historical residuals
+          fc_out <- forecast(mod, h = h)
+          mu <- as.numeric(fc_out$mean)
+          resids <- na.omit(mod$residuals)
+          
+          # Simulate: Mean + Bootstrapped Residuals
+          sim_matrix_log <- replicate(n_paths, {
+               sim_noise <- sample(resids, size = h, replace = TRUE)
+               mu + sim_noise
+          })
+          
+          # GROUP C: Bayesian Structural Time Series (Native MCMC)
+     } else if (method == "Bayesian structural") {
+          
+          # Define state specification
+          ss <- AddLocalLinearTrend(list(), ts_train)
+          ss <- AddSeasonal(ss, ts_train, nseasons = frequency(ts_train))
+          
+          # Fit BSTS model
+          mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping = 0)
+          burn <- SuggestBurn(0.1, mod)
+          
+          # Predict and extract posterior distribution
+          pred <- predict.bsts(mod, horizon = h, burn = burn)
+          posterior_samples <- pred$distribution # Dimensions: (n_samples x h)
+          
+          # Resample to match requested n_paths
+          avail_samples <- nrow(posterior_samples)
+          idx <- sample(1:avail_samples, size = n_paths, replace = TRUE)
+          
+          # Transpose to match standard format (Rows=Time, Cols=Paths)
+          sim_matrix_log <- t(posterior_samples[idx, ])
+     }
+     
+     # Back-transform from Log scale to Original scale
+     sim_matrix_exp <- exp(sim_matrix_log)
+     
+     # Helper function to compute quantiles cleanly
+     get_quantile <- function(x, p) apply(x, 1, quantile, probs = p, na.rm = TRUE)
+     
+     # Construct result list
+     results <- list(
+          mean     = rowMeans(sim_matrix_exp, na.rm = TRUE),
+          lower_95 = get_quantile(sim_matrix_exp, 0.025),
+          lower_80 = get_quantile(sim_matrix_exp, 0.100),
+          upper_80 = get_quantile(sim_matrix_exp, 0.900),
+          upper_95 = get_quantile(sim_matrix_exp, 0.975),
+          MCMC     = sim_matrix_exp
+     )
+     
+     return(results)
 }
 
 # visualize outcomes ---------------------------------------------------------------------------------------------------- 
