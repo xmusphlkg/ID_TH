@@ -80,6 +80,7 @@ auto_analysis_function <- function(i) {
      dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
      outcome_plot_2 <- data.frame(date = dates_seq,
                                   mean = res$mean,
+                                  Shortname = disease_name[i],
                                   lower_80 = res$lower_80,
                                   lower_95 = res$lower_95,
                                   upper_80 = res$upper_80,

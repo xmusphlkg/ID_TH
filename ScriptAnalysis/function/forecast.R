@@ -243,3 +243,55 @@ plot_outcome_multisplit <- function(datafile_single,
      
      return(fig1)
 }
+
+
+# panel -------------------------------------------------------------------
+
+## plot single panel of disease 
+
+plot_single_panel <- function(i){
+     # related data
+     outcome_data <- outcome[[i]]$outcome_data
+     outcome_plot_1 <- outcome[[i]]$outcome_plot_1
+     outcome_plot_2 <- outcome[[i]]$outcome_plot_2
+     max_value <- outcome[[i]]$max_value
+     min_value <- outcome[[i]]$min_value
+     max_case <- outcome[[i]]$max_case
+     
+     plot_breaks <- pretty(c(min_value, max_value, 0), n = 3)
+     
+     fig <- ggplot() +
+          geom_line(data = outcome_plot_1, mapping = aes(x = date, y = value, colour = "Observed")) +
+          geom_line(data = outcome_plot_2, mapping = aes(x = date, y = mean, colour = "Forecasted")) +
+          stat_difference(data = outcome_data, mapping = aes(x = date, ymin = value, ymax = mean),
+                          alpha = 0.3, levels = c("Decreased", "Increased"), show.legend = T) +
+          coord_cartesian(ylim = c(0, NA),
+                          xlim = c(split_dates[1] - 365, NA)) +
+          scale_x_date(expand = expansion(add = c(0, 0)),
+                       date_labels = "%Y",
+                       breaks = seq(split_dates[1] - 365, max(outcome_plot_2$date), by = "2 years")) +
+          scale_y_continuous(expand = c(0, 0),
+                             label = ifelse(max_case > 1000, scientific_10, scales::comma),
+                             breaks = plot_breaks,
+                             limits = range(plot_breaks)) +
+          scale_color_manual(values = c(Forecasted = "#004F7AFF", Observed = "#CC3D24FF")) +
+          scale_fill_manual(values = c(Decreased = "#004F7A50", Increased = "#CC3D2450"),
+                            drop = F) +
+          theme_bw() +
+          theme(legend.position = "bottom",
+                legend.direction = "horizontal",
+                legend.box = 'vertical',
+                legend.title.position = 'top',
+                axis.text.y = element_text(angle = 90, hjust = 0.5),
+                panel.grid = element_blank(),
+                plot.title = element_text(face = 'bold', size = 14, hjust = 0))+
+          labs(x = 'Date',
+               y = 'Monthly cases',
+               color = 'Monthly cases',
+               fill = 'Difference',
+               title = data_class$label[i]) +
+          guides(color = guide_legend(order = 1, override.aes = list(fill = NA)),
+                 fill = guide_legend(order = 2))
+     
+     return(fig)
+}
