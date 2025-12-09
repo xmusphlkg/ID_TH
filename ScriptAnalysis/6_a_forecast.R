@@ -80,6 +80,7 @@ auto_analysis_function <- function(i) {
      dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
      outcome_plot_2 <- data.frame(date = dates_seq,
                                   mean = res$mean,
+                                  median = res$median,
                                   Shortname = disease_name[i],
                                   lower_80 = res$lower_80,
                                   lower_95 = res$lower_95,
@@ -87,8 +88,8 @@ auto_analysis_function <- function(i) {
                                   upper_95 = res$upper_95)
      
      # correct all negative value into zero
-     max_value <- max(outcome_plot_2[, 2], max_case, na.rm = T)
-     min_value <- min(outcome_plot_2[, 2], na.rm = T)
+     max_value <- max(outcome_plot_2$median, max_case, na.rm = T)
+     min_value <- min(outcome_plot_2$median, na.rm = T)
      
      outcome_plot_2 <- outcome_plot_2 |>
           mutate_at(vars(contains("er")), as.numeric)
