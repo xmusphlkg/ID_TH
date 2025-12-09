@@ -22,7 +22,7 @@ data_class <- data_class |>
 
 # save --------------------------------------------------------------------
 
-fig2 <- lapply(1:nrow(data_class), plot_single_panel) |> 
+fig2 <- lapply(1:nrow(data_class), plot_single_panel, outcome = outcome, titles = data_class$label) |> 
      wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect') &
      theme(legend.position = 'bottom')
 
