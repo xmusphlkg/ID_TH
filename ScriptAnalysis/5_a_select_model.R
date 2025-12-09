@@ -46,51 +46,6 @@ cv_splits <- list(
 
 disease_name <- data_class$Shortname
 
-# process model -----------------------------------------------------------
-
-process_model <- function(mod, ts_train, ts_test, test_length, index_labels, ts_obse, data_single, split_date, max_case, method_name, plot_number) {
-     
-     # Generate forecasts
-     outcome <- forecast(mod, h = test_length)
-     
-     # Prepare outcome data for plotting
-     outcome_plot_1 <- data.frame(date = zoo::as.Date(time(outcome$x)),
-                                  simu = exp(as.matrix(outcome$x)),
-                                  fit = exp(as.matrix(outcome$fitted)))
-     
-     outcome_plot_2 <- data.frame(date = zoo::as.Date(time(outcome$mean)),
-                                  mean = exp(as.matrix(outcome$mean)))
-     
-     if ("lower" %in% names(outcome)) {
-          outcome_plot_2 <- cbind(outcome_plot_2,
-                                  lower_80 = exp(as.matrix(outcome$lower[, 1])),
-                                  lower_95 = exp(as.matrix(outcome$lower[, 2])),
-                                  upper_80 = exp(as.matrix(outcome$upper[, 1])),
-                                  upper_95 = exp(as.matrix(outcome$upper[, 2])))
-          plot_ribbon <- T
-     } else {
-          plot_ribbon <- F
-     }
-     
-     # Calculate fit goodness metrics
-     fit_goodness <- data.frame(Method = method_name,
-                                Index = index_labels,
-                                Train = evaluate_forecast(outcome_plot_1$fit, outcome_plot_1$simu),
-                                Test = evaluate_forecast(outcome_plot_2$mean, exp(ts_test)))
-     
-     # Plot results
-     fig <- plot_outcome(outcome_plot_1,
-                         outcome_plot_2,
-                         data_single,
-                         split_date,
-                         max_case,
-                         plot_number,
-                         plot_ribbon,
-                         method_name)
-     
-     return(list(fit_goodness, fig))
-}
-
 table_build <- function(data_table, i) {
      index <- index_labels[i]
      

@@ -1,69 +1,7 @@
 
-plot_outcome <- function(outcome_plot_1,
-                         outcome_plot_2,
-                         datafile_single,
-                         split_date,
-                         max_case,
-                         n,
-                         inter,
-                         title) {
-     
-     outcome_plot_1_2_link <- data.frame(
-          date = c(max(outcome_plot_1$date), min(outcome_plot_2$date)),
-          value = c(outcome_plot_1[nrow(outcome_plot_1), 'fit'],
-                    outcome_plot_2[1, 'mean'])
-     )
-     
-     max_value <- max(c(max(outcome_plot_1[,-1], na.rm = T), max(outcome_plot_2[,'mean'], na.rm = T)), max_case)
-     min_value <- min(c(min(outcome_plot_1[,-1], na.rm = T), min(outcome_plot_2[,'mean'], na.rm = T)))
-     
-     fig1 <- ggplot()+
-          geom_line(mapping = aes(x = date, y = value, colour = 'Observed'), 
-                    linewidth = 0.7, data = filter(datafile_single, date < split_date))+
-          geom_line(mapping = aes(x = date, y = fit, colour = 'Fitted'), 
-                    linewidth = 0.7, data = outcome_plot_1)+
-          geom_line(mapping = aes(x = date, y = value), color = '#DC0000B2', 
-                    linewidth = 0.7, data = outcome_plot_1_2_link, show.legend = F)+
-          geom_line(mapping = aes(x = date, y = mean, colour = 'Forecasted'),
-                    linewidth = 0.7, data = outcome_plot_2)
-     
-     if (inter) {
-          fig1 <- fig1 +
-               geom_ribbon(mapping = aes(x = date, ymin = lower_80, ymax = upper_80),
-                           data = outcome_plot_2, fill = '#0F7BA2FF', alpha = 0.3, show.legend = F)+
-               geom_ribbon(mapping = aes(x = date, ymin = lower_95, ymax = upper_95),
-                           data = outcome_plot_2, fill = '#0F7BA2FF', alpha = 0.3, show.legend = F)
-     }
-     
-     fig1 <- fig1 +
-          geom_vline(xintercept = median(outcome_plot_1_2_link$date), show.legend = F,
-                     linetype = 'longdash')+
-          geom_hline(yintercept = 0, show.legend = F)+
-          annotate('text', x = median(outcome_plot_1$date), y = Inf, label = 'Train', vjust = 1)+
-          annotate('text', x = median(outcome_plot_2$date), y = Inf, label = 'Test', vjust = 1)+
-          coord_cartesian(ylim = c(0, range(pretty(c(min_value, max_value, 0)))[2]),
-                          clip = 'on')+
-          scale_x_date(expand = expansion(add = c(0, 31)),
-                       date_labels = '%Y',
-                       breaks = seq(min(outcome_plot_1$date), max(outcome_plot_2$date)+31, by="2 years"))+
-          scale_y_continuous(expand = c(0, 0),
-                             label = scientific_10,
-                             breaks = pretty(c(min_value, max_value, 0)))+
-          scale_color_manual(
-               values = c(Fitted = "#DD5129FF",
-                          Forecasted = "#0F7BA2FF",
-                          Observed = "#43B284FF")
-          )+
-          theme_set()+
-          theme(legend.position = 'bottom')+
-          labs(x = "Date",
-               y = 'Monthly incidence',
-               color = '',
-               title = paste0(LETTERS[n], ': ', title))
-     
-     return(fig1)
-}
-
+# Evaluation ------------------------------------------------------------------
+# actual: actual values (numeric vector)
+# forecast: forecast values (numeric vector)
 evaluate_forecast <- function(actual, forecast) {
      # find na values
      na_value <- is.na(actual) | is.na(forecast)
@@ -183,7 +121,99 @@ forecast_model_ts <- function(ts_train, h, method,
                  upper_95 = if (all(is.na(upper_95))) rep(NA, h) else exp(upper_95)))
 }
 
+# ts_train: (logged) time series
+# h: forecast horizon
+# method: same as before
+# n_paths: number of simulation paths (default 1000)
+# seed: random seed
+forecast_model_sim <- function(ts_train, h, method,
+                               hybrid_parallel = FALSE, hybrid_cores = 1,
+                               bsts_niter = 1000, n_paths = 1000, seed = 2024) {
+  
+  set.seed(seed)
+  
+  # Initialize matrix to store paths: Rows = Time (h), Cols = Paths (n_paths)
+  sim_matrix <- matrix(NA, nrow = h, ncol = n_paths)
+  
+  if (method == "Neural Network") {
+    mod <- nnetar(ts_train, lambda = NULL)
+    # nnetar supports simulate via forecast package
+    for(i in 1:n_paths) {
+      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
+    }
+    
+  } else if (method == "ETS") {
+    mod <- ets(ts_train, ic = "aicc", lambda = NULL)
+    # ETS supports simulate
+    for(i in 1:n_paths) {
+      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
+    }
+    
+  } else if (method == "SARIMA") {
+    mod <- auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL)
+    # ARIMA supports simulate
+    for(i in 1:n_paths) {
+      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
+    }
+    
+  } else if (method == "TBATS") {
+    mod <- tbats(ts_train, seasonal.periods = 12)
+    # TBATS supports simulate
+    for(i in 1:n_paths) {
+      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
+    }
+    
+  } else if (method == "Hybrid") {
+    # Hybrid models do not have a native 'simulate' function.
+    # We approximate by bootstrapping residuals added to the mean forecast.
+    max_window <- length(ts_train) - (2 * 12) - 2
+    final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
+    
+    mod <- hybridModel(ts_train, lambda = NULL,
+                       models = c("aent"), a.args = list(seasonal = TRUE),
+                       weights = "cv.errors", windowSize = final_window,
+                       parallel = hybrid_parallel, num.cores = hybrid_cores,
+                       errorMethod = "RMSE")
+    
+    fc <- forecast(mod, h = h)
+    mu <- as.numeric(fc$mean)          # Point forecast
+    resids <- na.omit(mod$residuals)   # Historical residuals
+    
+    # Simulate by adding bootstrapped residuals to the mean path
+    for(i in 1:n_paths) {
+      sim_noise <- sample(resids, size = h, replace = TRUE)
+      sim_matrix[, i] <- mu + sim_noise
+    }
+    
+  } else if (method == "Bayesian structural") {
+    ss <- AddLocalLinearTrend(list(), ts_train)
+    ss <- AddSeasonal(ss, ts_train, nseasons = frequency(ts_train))
+    mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping=0)
+    burn <- SuggestBurn(0.1, mod)
+    
+    # bsts natively produces distribution (Matrix: n_samples x h)
+    pred <- predict.bsts(mod, horizon = h, burn = burn)
+    posterior_samples <- pred$distribution 
+    
+    # If we have more samples than needed, sample randomly; if fewer, resample
+    avail_samples <- nrow(posterior_samples)
+    idx <- sample(1:avail_samples, size = n_paths, replace = TRUE)
+    
+    # Transpose so that Rows=Time, Cols=Paths
+    sim_matrix <- t(posterior_samples[idx, ])
+    
+  } else {
+    stop(sprintf('Unknown forecasting method: %s', method))
+  }
+  
+  # IMPORTANT: Back-transform from Log scale to Original scale
+  # Since your input 'ts_train' is logged, the simulation is in log scale.
+  return(exp(sim_matrix))
+}
 
+# visualize outcomes ---------------------------------------------------------------------------------------------------- 
+
+# plot multi-split forecast outcome in appendix: cross-validation to find best model
 plot_outcome_multisplit <- function(datafile_single,
                                     forecasts_df,
                                     split_starts,
@@ -244,11 +274,7 @@ plot_outcome_multisplit <- function(datafile_single,
      return(fig1)
 }
 
-
-# panel -------------------------------------------------------------------
-
-## plot single panel of disease 
-
+## plot single panel of disease/group forecast outcome
 plot_single_panel <- function(i){
      # related data
      outcome_data <- outcome[[i]]$outcome_data
