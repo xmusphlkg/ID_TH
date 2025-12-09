@@ -121,94 +121,119 @@ forecast_model_ts <- function(ts_train, h, method,
                  upper_95 = if (all(is.na(upper_95))) rep(NA, h) else exp(upper_95)))
 }
 
-# ts_train: (logged) time series
-# h: forecast horizon
-# method: same as before
-# n_paths: number of simulation paths (default 1000)
-# seed: random seed
+#' Forecast with Monte Carlo Simulation
+#'
+#' Fits a time series model and generates simulation paths (MCMC) to capture uncertainty.
+#' Returns statistics (mean, CIs) and the raw simulation matrix.
+#'
+#' @param ts_train Time series object (assumed to be Log-transformed).
+#' @param h Forecast horizon (integer).
+#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
+#' @param hybrid_parallel Logical, for Hybrid model parallel processing.
+#' @param hybrid_cores Integer, number of cores for Hybrid model.
+#' @param bsts_niter Integer, iterations for BSTS model.
+#' @param n_paths Integer, number of Monte Carlo simulation paths (default 1000).
+#' @param seed Integer, for reproducibility.
+#'
+#' @return A list containing mean, confidence intervals, and the raw MCMC matrix (original scale).
 forecast_model_sim <- function(ts_train, h, method,
                                hybrid_parallel = FALSE, hybrid_cores = 1,
-                               bsts_niter = 1000, n_paths = 1000, seed = 2024) {
+                               bsts_niter = 1000, n_paths = 1000, seed = 20240902) {
+  
+  # 1. Input Validation and Setup
+  valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+  method <- match.arg(method, valid_methods)
   
   set.seed(seed)
   
-  # Initialize matrix to store paths: Rows = Time (h), Cols = Paths (n_paths)
-  sim_matrix <- matrix(NA, nrow = h, ncol = n_paths)
+  # Initialize matrix to store log-scale paths (Rows=Time, Cols=Paths)
+  sim_matrix_log <- matrix(NA, nrow = h, ncol = n_paths)
   
-  if (method == "Neural Network") {
-    mod <- nnetar(ts_train, lambda = NULL)
-    # nnetar supports simulate via forecast package
-    for(i in 1:n_paths) {
-      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
-    }
+  # ---------------------------------------------------------
+  # 2. Model Fitting and Simulation
+  # ---------------------------------------------------------
+  
+  # GROUP A: Standard Models (Supported by forecast::simulate)
+  if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
     
-  } else if (method == "ETS") {
-    mod <- ets(ts_train, ic = "aicc", lambda = NULL)
-    # ETS supports simulate
-    for(i in 1:n_paths) {
-      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
-    }
+    # Fit the appropriate model
+    mod <- switch(method,
+      "Neural Network" = nnetar(ts_train, lambda = NULL),
+      "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
+      "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
+      "TBATS"          = tbats(ts_train, seasonal.periods = 12)
+    )
     
-  } else if (method == "SARIMA") {
-    mod <- auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL)
-    # ARIMA supports simulate
-    for(i in 1:n_paths) {
-      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
-    }
+    # Generate paths using replicate (Cleaner than for-loop)
+    # simulate() handles the bootstrapping of residuals automatically
+    sim_matrix_log <- replicate(n_paths, 
+                                as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE)))
     
-  } else if (method == "TBATS") {
-    mod <- tbats(ts_train, seasonal.periods = 12)
-    # TBATS supports simulate
-    for(i in 1:n_paths) {
-      sim_matrix[, i] <- as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
-    }
-    
+  # GROUP B: Hybrid Model (Manual Parametric Bootstrap)
   } else if (method == "Hybrid") {
-    # Hybrid models do not have a native 'simulate' function.
-    # We approximate by bootstrapping residuals added to the mean forecast.
+    
+    # Configure window size for cross-validation
     max_window <- length(ts_train) - (2 * 12) - 2
     final_window <- max(2 * 12, min(round(length(ts_train) * 0.7), max_window))
     
+    # Fit Hybrid model
     mod <- hybridModel(ts_train, lambda = NULL,
                        models = c("aent"), a.args = list(seasonal = TRUE),
                        weights = "cv.errors", windowSize = final_window,
                        parallel = hybrid_parallel, num.cores = hybrid_cores,
                        errorMethod = "RMSE")
     
-    fc <- forecast(mod, h = h)
-    mu <- as.numeric(fc$mean)          # Point forecast
-    resids <- na.omit(mod$residuals)   # Historical residuals
+    # Extract mean forecast and historical residuals
+    fc_out <- forecast(mod, h = h)
+    mu <- as.numeric(fc_out$mean)
+    resids <- na.omit(mod$residuals)
     
-    # Simulate by adding bootstrapped residuals to the mean path
-    for(i in 1:n_paths) {
+    # Simulate: Mean + Bootstrapped Residuals
+    sim_matrix_log <- replicate(n_paths, {
       sim_noise <- sample(resids, size = h, replace = TRUE)
-      sim_matrix[, i] <- mu + sim_noise
-    }
+      mu + sim_noise
+    })
     
+  # GROUP C: Bayesian Structural Time Series (Native MCMC)
   } else if (method == "Bayesian structural") {
+    
+    # Define state specification
     ss <- AddLocalLinearTrend(list(), ts_train)
     ss <- AddSeasonal(ss, ts_train, nseasons = frequency(ts_train))
-    mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping=0)
+    
+    # Fit BSTS model
+    mod <- bsts(ts_train, state.specification = ss, niter = bsts_niter, seed = seed, ping = 0)
     burn <- SuggestBurn(0.1, mod)
     
-    # bsts natively produces distribution (Matrix: n_samples x h)
+    # Predict and extract posterior distribution
     pred <- predict.bsts(mod, horizon = h, burn = burn)
-    posterior_samples <- pred$distribution 
+    posterior_samples <- pred$distribution # Dimensions: (n_samples x h)
     
-    # If we have more samples than needed, sample randomly; if fewer, resample
+    # Resample to match requested n_paths
     avail_samples <- nrow(posterior_samples)
     idx <- sample(1:avail_samples, size = n_paths, replace = TRUE)
     
-    # Transpose so that Rows=Time, Cols=Paths
-    sim_matrix <- t(posterior_samples[idx, ])
-    
-  } else {
-    stop(sprintf('Unknown forecasting method: %s', method))
+    # Transpose to match standard format (Rows=Time, Cols=Paths)
+    sim_matrix_log <- t(posterior_samples[idx, ])
   }
   
-  # IMPORTANT: Back-transform from Log scale to Original scale
-  # Since your input 'ts_train' is logged, the simulation is in log scale.
-  return(exp(sim_matrix))
+  # Back-transform from Log scale to Original scale
+  sim_matrix_exp <- exp(sim_matrix_log)
+  
+  # Helper function to compute quantiles cleanly
+  get_quantile <- function(x, p) apply(x, 1, quantile, probs = p, na.rm = TRUE)
+  
+  # Construct result list
+  results <- list(
+    mean     = rowMeans(sim_matrix_exp, na.rm = TRUE),
+    lower_95 = get_quantile(sim_matrix_exp, 0.025),
+    lower_80 = get_quantile(sim_matrix_exp, 0.100),
+    upper_80 = get_quantile(sim_matrix_exp, 0.900),
+    upper_95 = get_quantile(sim_matrix_exp, 0.975),
+    MCMC     = sim_matrix_exp
+  )
+  
+  return(results)
 }
 
 # visualize outcomes ---------------------------------------------------------------------------------------------------- 
