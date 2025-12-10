@@ -865,111 +865,11 @@ write.xlsx(data_apc |>
                 select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
            file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
 
-# appendix ----------------------------------------------------------------
-
-source("./1_b_appendix.R")
-
-# extract stl trend of each time series
-
-plot_trend <- function(data, title, value = 'Incidence') {
-     ts_data <- ts(data[[value]], start = min(data$Year), frequency = 12)
-     stl_data <- stl(ts_data, s.window = "periodic", t.window = 24, robust = T)
-     data_trend <- data.frame(Year = data$Year,
-                              Month = data$Month,
-                              Value = data[[value]],
-                              Trend = stl_data$time.series[, 'trend']) |> 
-          mutate(Date = as.Date(paste(Year, Month, "01", sep = "-")))
-     
-     # browser()
-     plot_breaks_y <- pretty(c(data_trend$Value, data_trend$Trend), n = 4)
-     
-     fig <- ggplot(data = data_trend) +
-          geom_line(mapping = aes(x = Date, y = Trend),
-                    color = fill_color[1]) +
-          geom_point(mapping = aes(x = Date, y = Value),
-                     color = fill_color[2],
-                     alpha = 0.5) +
-          scale_x_date(date_breaks = "4 year",
-                       date_labels = "%Y",
-                       expand = expansion(mult = c(0, 0))) +
-          scale_y_continuous(expand = expansion(mult = c(0, 0)),
-                             limits = range(plot_breaks_y),
-                             breaks = plot_breaks_y,
-                             labels = ifelse(max(ts_data) >= 100, scientific_10, scales::comma)) +
-          theme_bw() +
-          labs(x = 'Date',
-               y = paste(value, '(per 100,000)'),
-               title = title)
-     
-     return(fig)
-}
-
-## incidence ----------------------------------------------------
-
-for (i in 1:length(disease_groups)) {
-     g <- disease_groups[i]
-     d <- data_class$Shortname[data_class$Group == g]
-     
-     # panel A: trend of group cases
-     data_group <- data_month |>
-          filter(Group == g) |>
-          group_by(Date, Year, Month) |>
-          summarise(Cases = sum(Cases),
-                    Deaths = sum(Deaths),
-                    .groups = 'drop') |> 
-          # add population
-          left_join(data_population, by = 'Year') |>
-          # calculate the rate per million population
-          mutate(Incidence = (Cases / Population) * 1e5,
-                 Mortality = (Deaths / Population) * 1e5,
-                 CFR = (Deaths / Cases) * 1000)
-     fig_case_g <- plot_trend(data_group, paste(LETTERS[3], g, sep = ": "), 'Incidence')
-     
-     # panel B: trend of each disease
-     data_single <- data_month |>
-          filter(Group == g)
-     fig_cases <- lapply(d, function(x) {
-          title_single <- paste(LETTERS[which(d == x) + 3], x, sep = ": ")
-          plot_trend(data_single |> filter(Shortname == x),
-                     title_single,
-                     'Incidence')
-     })
-     
-     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
-            cowplot::plot_grid(
-                 plot_list[[i]],
-                 fig_case_g + fig_cases + plot_layout(ncol = 4),
-                 ncol = 1
-                 ),
-            device = "png",
-            width = 14,
-            height = 7 + ceiling(length(d) / 4) * 2 + 1,
-            limitsize = FALSE,
-            dpi = 300)
-     
-     # panel C: trend of group deaths
-     fig_deaths_g <- plot_trend(data_group, paste(LETTERS[3], g, sep = ": "), 'Mortality')
-     
-     # panel D: trend of each disease
-     fig_deaths <- lapply(d, function(x) {
-          title_single <- paste(LETTERS[which(d == x) + 3], x, sep = ": ")
-          plot_trend(data_single |> filter(Shortname == x),
-                     title_single,
-                     'Mortality')
-     })
-     
-     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Deaths ", g, ".png"),
-            fig_deaths_g + fig_deaths + plot_layout(ncol = 4),
-            device = "png",
-            width = 14,
-            height = ceiling(length(d) / 4) * 2 + 1,
-            limitsize = FALSE,
-            dpi = 300)
-}
-
-# save plot ---------------------------------------------------------------
-
 save(data_month, data_year,
      data_month_total, data_year_total,
      jp_year_results, jp_segmented_results,
      data_class, data_population, file = "./month.RData")
+
+# appendix ----------------------------------------------------------------
+
+source("./1_b_appendix.R")
