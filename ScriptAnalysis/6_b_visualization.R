@@ -1,3 +1,11 @@
+#####################################
+## @Description: 
+## @version: 
+## @Author: Li Kangguo
+## @Date: 2025-12-09 15:36:54
+## @LastEditors: Li Kangguo
+## @LastEditTime: 2025-12-10 11:05:13
+#####################################
 # packages ----------------------------------------------------------------
 
 library(tidyverse)
@@ -48,8 +56,13 @@ data_recovery_visual <- df_display |>
      ) |> 
      select(Shortname, StartDate, type, EndDate = Date, Period) |> 
      # add max date for visualization
-     mutate(EndDate = if_else(is.na(EndDate) & type == 'Balance', max(data_month$Date, na.rm = T), EndDate),
-            Period = if_else(is.na(Period), "Not balanced", paste(as.character(Period), "months")))
+     mutate(EndDate = case_when(
+          is.na(EndDate) & type %in% c('Balance', 'Recovery') ~ as.Date(max(data_month$Date)),
+          TRUE ~ as.Date(EndDate)),
+          Period = case_when(
+               is.na(Period) & type == 'Balance'  ~ "Not balanced",
+               is.na(Period) & type == 'Recovery' ~ "Not recovered",
+               TRUE ~ paste(as.character(Period), "months")))
 
 # save --------------------------------------------------------------------
 
