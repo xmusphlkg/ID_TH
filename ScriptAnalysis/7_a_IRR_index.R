@@ -126,16 +126,11 @@ data_group_recovery_visual <- data_group_recovery |>
      ) |> 
      select(Shortname, StartDate, type, EndDate = Date, Period) |> 
      # add max date for visualization
-     mutate(EndDate = case_when(
-          is.na(EndDate) & type %in% c('Balance', 'Recovery') ~ max(data_group_outcome$date),
-          TRUE ~ EndDate),
-          Period = case_when(
-               is.na(Period) & type == 'Balance'  ~ "Not balanced",
-               is.na(Period) & type == 'Recovery' ~ "Not recovered",
-               TRUE ~ paste(as.character(Period), "months")))
-               EndDate = case_when(
-                    is.na(EndDate) & type %in% c('Balance', 'Recovery') ~ as.Date(max(data_group_outcome$date)),
-                    TRUE ~ as.Date(EndDate)
+     mutate(EndDate = case_when(is.na(EndDate) & type %in% c('Balance', 'Recovery') ~ as.Date(max(data_group_outcome$date)),
+                                TRUE ~ as.Date(EndDate)),
+            Period = case_when(is.na(Period) & type == 'Balance'  ~ "Not balanced",
+                               is.na(Period) & type == 'Recovery' ~ "Not recovered",
+                               TRUE ~ paste(as.character(Period), "months")))
 
 disease_groups_select <- disease_groups[disease_groups %in% data_class$Group]
 

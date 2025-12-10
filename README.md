@@ -38,9 +38,9 @@
 | --- | --- |
 | Zone 1 | Chiang Mai, Chiang Rai, Lamphun, Lampang, Mae Hong Son, Nan, Phayao, Phrae |
 | Zone 2 | Phitsanulok, Phetchabun, Sukhothai, Tak, Uttaradit |
-| Zone 3 | Chai Nat, Kamphaeng Phet, Nakhon Sawan, Uthai Thani |
-| Zone 4 | Ang Thong, Lop Buri, Nakhon Nayok, P.Nakhon S.Ayutthaya, Pathum Thani, Saraburi, Sing Buri |
-| Zone 5 | Kanchanaburi, Nakhon Pathom, Ratchaburi, Prachuap Khiri Khan, Ratchaburi, Samut Sakhon, Samut Songkhram, Suphan Buri |
+| Zone 3 | Chai Nat, Kamphaeng Phet, Phichit, Nakhon Sawan, Uthai Thani |
+| Zone 4 | Ang Thong, Lop Buri, Nakhon Nayok, Nonthaburi, P.Nakhon S.Ayutthaya, Pathum Thani, Saraburi, Sing Buri |
+| Zone 5 | Kanchanaburi, Nakhon Pathom, Phetchaburi, Ratchaburi, Prachuap Khiri Khan, Ratchaburi, Samut Sakhon, Samut Songkhram, Suphan Buri |
 | Zone 6 | Chachoengsao, Chanthaburi, Chon Buri, Prachin Buri, Rayong, Sa Kaeo, Samut Prakan, Trat |
 | Zone 7 | Kalasin, Khon Kaen, Maha Sarakham, Roi Et |
 | Zone 8 | Bungkan, Loei, Nakhon Phanom, Nong Bua Lam Phu, Nong Khai, Sakon Nakhon, Udon Thani |
