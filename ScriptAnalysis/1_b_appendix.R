@@ -168,7 +168,7 @@ for (i in 1:length(disease_groups)) {
                      'Incidence')
      })
      
-     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Cases ", g, ".png"),
+     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_2/Cases ", g, ".png"),
             cowplot::plot_grid(
                  plot_list_cases[[i]],
                  wrap_plots(fig_cases, ncol = 4),
@@ -195,7 +195,7 @@ for (i in 1:length(disease_groups)) {
                      'Mortality')
      })
      
-     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/Deaths ", g, ".png"),
+     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_2/Deaths ", g, ".png"),
             cowplot::plot_grid(
                  plot_list_deaths[[i]],
                  wrap_plots(fig_deaths, ncol = 4),

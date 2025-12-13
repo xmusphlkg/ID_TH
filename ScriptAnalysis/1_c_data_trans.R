@@ -463,13 +463,11 @@ cmp_outcome |>
 # plot_month_and_week_comparison("Amebiasis", 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
 
 outcome <- lapply(unique(cmp_outcome$Shortname), function(sn) {
-     p <- plot_month_and_week_comparison(sn, 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = FALSE)
-     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/", sn, '.png'),
+     p <- plot_month_and_week_comparison(sn, 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
+     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/cases/", sn, '.png'),
             plot = p,
+            create.dir = TRUE,
             width = 14,
-            height = 13)
+            height = 7)
      NULL
 })
-
-
-
