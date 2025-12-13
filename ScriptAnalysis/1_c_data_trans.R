@@ -464,10 +464,10 @@ cmp_outcome |>
 
 outcome <- lapply(unique(cmp_outcome$Shortname), function(sn) {
      p <- plot_month_and_week_comparison(sn, 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = FALSE)
-     ggsave(filename = paste0("comparison_", sn, ".png"),
-     plot = p,
-     width = 10,
-     height = 8)
+     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/", sn, '.png'),
+            plot = p,
+            width = 14,
+            height = 13)
      NULL
 })
 
