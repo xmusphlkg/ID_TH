@@ -1,0 +1,79 @@
+location_th,location,health_zone,region
+แม่ฮ่องสอน,Mae Hong Son,Zone 1,North
+เชียงใหม่,Chiang Mai,Zone 1,North
+เชียงราย,Chiang Rai,Zone 1,North
+น่าน,Nan,Zone 1,North
+ลำพูน,Lamphun,Zone 1,North
+ลำปาง,Lampang,Zone 1,North
+พะเยา,Phayao,Zone 1,North
+แพร่,Phrae,Zone 1,North
+ตาก,Tak,Zone 2,North
+พิษณุโลก,Phitsanulok,Zone 2,North
+เพชรบูรณ์,Phetchabun,Zone 2,North
+สุโขทัย,Sukhothai,Zone 2,North
+อุตรดิตถ์,Uttaradit,Zone 2,North
+กำแพงเพชร,Kamphaeng Phet,Zone 3,Central
+นครสวรรค์,Nakhon Sawan,Zone 3,Central
+พิจิตร,Phichit,Zone 3,Central
+อุทัยธานี,Uthai Thani,Zone 3,Central
+ชัยนาท,Chai Nat,Zone 3,Central
+พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,Zone 4,Central
+ลพบุรี,Lop Buri,Zone 4,Central
+สระบุรี,Saraburi,Zone 4,Central
+สิงห์บุรี,Sing Buri,Zone 4,Central
+อ่างทอง,Ang Thong,Zone 4,Central
+นนทบุรี,Nonthaburi,Zone 4,Central
+ปทุมธานี,Pathum Thani,Zone 4,Central
+นครนายก,Nakhon Nayok,Zone 4,Central
+กาญจนบุรี,Kanchanaburi,Zone 5,Central
+นครปฐม,Nakhon Pathom,Zone 5,Central
+ราชบุรี,Ratchaburi,Zone 5,Central
+สุพรรณบุรี,Suphan Buri,Zone 5,Central
+ประจวบคีรีขันธ์,Prachuap Khiri Khan,Zone 5,Central
+เพชรบุรี,Phetchaburi,Zone 5,Central
+สมุทรสงคราม,Samut Songkhram,Zone 5,Central
+สมุทรสาคร,Samut Sakhon,Zone 5,Central
+จันทบุรี,Chanthaburi,Zone 6,Central
+ฉะเชิงเทรา,Chachoengsao,Zone 6,Central
+ชลบุรี,Chon Buri,Zone 6,Central
+ตราด,Trat,Zone 6,Central
+ปราจีนบุรี,Prachin Buri,Zone 6,Central
+ระยอง,Rayong,Zone 6,Central
+สระแก้ว,Sa Kaeo,Zone 6,Central
+สมุทรปราการ,Samut Prakan,Zone 6,Central
+กาฬสินธุ์,Kalasin,Zone 7,Northeast
+ขอนแก่น,Khon Kaen,Zone 7,Northeast
+มหาสารคาม,Maha Sarakham,Zone 7,Northeast
+ร้อยเอ็ด,Roi Et,Zone 7,Northeast
+บึงกาฬ,Bueng Kan,Zone 8,Northeast
+เลย,Loei,Zone 8,Northeast
+หนองคาย,Nong Khai,Zone 8,Northeast
+หนองบัวลำภู,Nong Bua Lam Phu,Zone 8,Northeast
+อุดรธานี,Udon Thani,Zone 8,Northeast
+สกลนคร,Sakon Nakhon,Zone 8,Northeast
+นครพนม,Nakhon Phanom,Zone 8,Northeast
+ชัยภูมิ,Chaiyaphum,Zone 9,Northeast
+นครราชสีมา,Nakhon Ratchasima,Zone 9,Northeast
+บุรีรัมย์,Buri Ram,Zone 9,Northeast
+สุรินทร์,Surin,Zone 9,Northeast
+มุกดาหาร,Mukdahan,Zone 10,Northeast
+ยโสธร,Yasothon,Zone 10,Northeast
+ศรีสะเกษ,Si Sa Ket,Zone 10,Northeast
+อุบลราชธานี,Ubon Ratchathani,Zone 10,Northeast
+อำนาจเจริญ,Amnat Charoen,Zone 10,Northeast
+กระบี่,Krabi,Zone 11,South
+ชุมพร,Chumphon,Zone 11,South
+นครศรีธรรมราช,Nakhon Si Thammarat,Zone 11,South
+พังงา,Phangnga,Zone 11,South
+ภูเก็ต,Phuket,Zone 11,South
+ระนอง,Ranong,Zone 11,South
+สุราษฎร์ธานี,Surat Thani,Zone 11,South
+ตรัง,Trang,Zone 12,South
+นราธิวาส,Narathiwat,Zone 12,South
+ปัตตานี,Pattani,Zone 12,South
+พัทลุง,Phatthalung,Zone 12,South
+ยะลา,Yala,Zone 12,South
+สงขลา,Songkhla,Zone 12,South
+สตูล,Satun,Zone 12,South
+กรุงเทพมหานคร,Bangkok,Zone 13,Central
+ไม่ระบุ,Unspecified,NA,NA

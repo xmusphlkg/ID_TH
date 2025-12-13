@@ -75,7 +75,9 @@ data_week <- data_week_raw |>
             week_value != "%all%") |> 
      left_join(data_map_name, by = c(disease = 'original_name')) |> 
      filter(!is.na(short_name)) |> 
-     select(year, Shortname = short_name, week = week_value, cases)
+     select(year, Shortname = short_name, week = week_value, cases) |> 
+     group_by(year, Shortname, week) |> 
+     summarize(cases = sum(as.numeric(cases), na.rm = TRUE), .groups = "drop")
 
 data_week_age <- data_week_raw |>
      filter(location_value  == "%all%",
@@ -93,14 +95,18 @@ data_week_age <- data_week_raw |>
                                   TRUE ~ age_group)) |> 
      left_join(data_map_name, by = c(disease = 'original_name')) |> 
      filter(!is.na(short_name)) |> 
-     select(year, Shortname = short_name, week = week_value, age_group, cases)
+     select(year, Shortname = short_name, week = week_value, age_group, cases) |> 
+     group_by(year, Shortname, week, age_group) |> 
+     summarize(cases = sum(as.numeric(cases), na.rm = TRUE), .groups = "drop")
 
 data_week_location <- data_week_raw |> 
      filter(location_value != "%all%",
             is.na(age_group),
             week_value != "%all%") |> 
      left_join(data_map_location, by = c(location_value = 'location_th')) |>
-     select(year, disease, week = week_value, location, region, health_zone, cases)
+     select(year, disease, week = week_value, location, region, health_zone, cases) |> 
+     group_by(year, disease, week, location, region, health_zone) |> 
+     summarize(cases = sum(as.numeric(cases), na.rm = TRUE), .groups = "drop")
 
 save(data_week, data_week_age, data_week_location,
      file = "week.RData")
