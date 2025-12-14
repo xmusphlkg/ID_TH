@@ -587,6 +587,6 @@ outcome <- lapply(unique(month_recon_deaths$Shortname), function(sn) {
             plot = p,
             create.dir = TRUE,
             width = 14,
-            height = 7)
+            height = 4)
      NULL
 })
