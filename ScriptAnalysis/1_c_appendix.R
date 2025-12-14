@@ -18,8 +18,8 @@ load("./month.RData")
 
 data_group <- data_month |>
      group_by(Date, Group) |>
-     summarise(Cases = sum(Cases),
-               Deaths = sum(Deaths),
+     summarise(Cases = sum(Cases, na.rm = T),
+               Deaths = sum(Deaths, na.rm = T),
                .groups = "drop")
 
 # line plot ----------------------------------------------------------------

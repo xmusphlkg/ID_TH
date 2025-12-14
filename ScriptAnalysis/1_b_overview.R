@@ -6,13 +6,12 @@ library(tidyverse)
 library(ggsci)
 library(paletteer)
 library(patchwork)
-library(furrr)
 
 # System setting
 Sys.setlocale(locale = "EN")
 
 # future plan for parallel computing
-plan(multisession, workers = 3)
+plan(sequential)
 
 # data --------------------------------------------------------------------
 
@@ -63,8 +62,8 @@ data_month_total <- data_month |>
             MonthIndex = Year * 12 + Month - min(data_month$Year) * 12,
             .after = Year)
 
-data_year <- data_month |>
-     select(Year, Disease = Shortname, Group, Cases, Deaths)
+data_year <- data_year |>
+     select(Year, Disease = Shortname, Group, Cases, Deaths, Incidence, Mortality)
 
 ## joinpoint model ----------------------------------------------------
 # Using yearly data for joinpoint analysis to find the optimal number of joinpoints
@@ -80,8 +79,8 @@ export_opt = export_options()
 
 data_year_total <- data_year |>
      group_by(Year) |>
-     summarise(Cases = sum(Cases),
-               Deaths = sum(Deaths),
+     summarise(Cases = sum(Cases, na.rm = T),
+               Deaths = sum(Deaths, na.rm = T),
                .groups = 'drop') |> 
      arrange(Year) |> 
      left_join(data_population, by = 'Year') |>
@@ -96,7 +95,7 @@ tasks <- list(
      list(data = data_year_total, x = "Year", y = "CFR", label = 'CFR', run_opt = run_opt, export_opt = export_opt)
 )
 
-jp_year_results <- future_map(
+jp_year_results <- map(
      tasks,
      ~ joinpoint(.x$data, x = .x$x, y = .x$y, run_opt = .x$run_opt, export_opt = .x$export_opt)
 )
@@ -261,13 +260,17 @@ tasks <- list(
      list(jp_result = jp_year_results[[2]], 
           data = data_month_total, 
           trend_var = "Mortality_trend", 
-          raw_var = "Mortality")
+          raw_var = "Mortality"),
+     
+     list(jp_result = jp_year_results[[3]], 
+          data = data_month_total, 
+          trend_var = "CFR_trend", 
+          raw_var = "CFR")
 )
 
-jp_segmented_results <- future_map(
+jp_segmented_results <- map(
      tasks,
-     run_complete_pipeline,
-     .options = furrr_options(seed = 20251127)
+     run_complete_pipeline
 )
 
 rm(tasks)
@@ -409,8 +412,8 @@ names(fill_color) <- disease_groups
 
 data_group <- data_month |>
      group_by(Group, Date, Year) |>
-     summarise(Cases = sum(Cases),
-               Deaths = sum(Deaths),
+     summarise(Cases = sum(Cases, na.rm = T),
+               Deaths = sum(Deaths, na.rm = T),
                .groups = 'drop') |> 
      # add population
      left_join(data_population, by = 'Year') |>
@@ -479,6 +482,7 @@ fig4 <- ggplot(data = fig4_data)+
 
 data_heat <- data_year |> 
      select(Disease, Group, Year, Incidence, Mortality, Cases, Deaths) |>
+     ungroup() |>
      group_by(Group, Disease) |>
      mutate(Incidence_normal = (Incidence - min(Incidence)) / sd(Incidence),
             Mortality_normal = (Mortality - min(Mortality)) / sd(Mortality),

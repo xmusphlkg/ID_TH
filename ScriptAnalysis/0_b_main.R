@@ -1,6 +1,9 @@
 
+cat("Start data transformation...\n")
+source('./1_a_data_trans.R')
+
 cat("Start part 1: overview...\n")
-source('./1_a_overview.R')
+source('./1_b_overview.R')
 
 cat("Start part 2: ranking...\n")
 source('./2_a_ranking.R')

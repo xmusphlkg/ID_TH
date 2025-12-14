@@ -678,6 +678,7 @@ data_month <- data_month |>
                             Cases_recon, Cases),
             Deaths = if_else(Year %in% c(2024, 2025) & !is.na(Deaths_recon),
                              Deaths_recon, Deaths),
+            Deaths = if_else(is.na(Deaths), 0, Deaths),
             Incidence = (Cases / Population) * 1e7,
             Mortality = (Deaths / Population) * 1e7,
             Date = as.Date(paste(Year, Month, "01", sep = "-"))) |>
