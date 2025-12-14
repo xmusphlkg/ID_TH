@@ -6,7 +6,72 @@ library(lubridate)
 library(openxlsx)
 library(patchwork)
 
-# data --------------------------------------------------------------------
+# basic data --------------------------------------------------------------
+
+rm(list = ls())
+
+# read disease class data
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1)|> 
+     select(-c(Cases, Count, Including, Label))
+
+data_map_name <- read.xlsx("../Data/TotalCasesDeaths.xlsx", sheet = 'DiseaseName') |> 
+     filter(!is.na(short_name))
+
+data_map_location <- read.xlsx("../Data/TotalCasesDeaths.xlsx", sheet = 'DiseaseLocation')
+
+# check all disease in data_week_raw are in data_class
+unique(data_map_name$short_name)[!unique(data_map_name$short_name) %in% unique(data_class$Shortname)]
+
+unique(data_class$Shortname)[!unique(data_class$Shortname) %in% unique(data_map_name$short_name)]
+
+data_date_seq <- data.frame(date = seq.Date(from = as.Date("2019-12-01"), to = as.Date("2026-1-31"), by = "day")) |> 
+     mutate(year = year(date),
+            week = isoweek(date),
+            month = month(date),
+            # fixed week 1 in December to next year, week 52/53 in January to previous year
+            year = if_else(month == 12 & week == 1, year + 1, year),
+            year = if_else(month == 1 & week >= 52, year - 1, year)) |> 
+     filter(year >= 2020 & year <= 2025)
+
+
+# create mapping from year-week to representative week midpoint date and list of dates per week
+week_date_map <- data_date_seq |> 
+     group_by(year, week) |> 
+     summarize(week_start = min(date), week_mid = median(date), dates = list(date), .groups = "drop")
+
+# cases -------------------------------------------------------------------
+
+# Spline-based temporal disaggregation (weekly -> daily -> monthly)
+#
+# This procedure reconstructs daily case counts from weekly totals using spline
+# interpolation with post-hoc week-preserving scaling. The main steps are:
+# 1) Map each ISO `year`-`week` to a representative date (week midpoint) and the
+#    set of daily dates belonging to that week using `data_date_seq`.
+# 2) For each disease-year, fit a smooth spline to (week_midpoint_date, weekly_total)
+#    and evaluate the spline at every daily date in that year to obtain preliminary
+#    daily predictions.
+# 3) Enforce non-negativity on spline predictions and scale daily predictions
+#    within each week so that the sum of reconstructed daily values equals the
+#    original weekly total (preserves aggregate consistency).
+# 4) Convert fractional daily values to integer counts by flooring and then
+#    distributing the remaining counts to days with largest fractional parts
+#    (ensures weekly totals remain exact integers).
+#
+# Boundary handling and assumptions:
+# - Cross-year ISO-week assignments are handled by `data_date_seq` which reassigns
+#   week-year membership for ISO week 1 in December and weeks 52/53 in January.
+# - Spline extrapolation at the start/end of the series may produce NA or
+#   unstable values; the implementation uses controlled extrapolation (linear
+#   rule) or falls back to an even distribution when too few observed weeks exist.
+# - Missing weeks or sparse observations reduce spline reliability; in such
+#   cases the code falls back to uniform distribution across the week's days.
+# - This method preserves weekly sums exactly (after integer rounding) and
+#   produces a smooth daily profile consistent with weekly trends. It does not
+#   attempt to model within-week reporting artifacts (e.g., weekday effects) or
+#   external covariates.
+
+## raw data --------------------------------------------------------------------
 
 # Relative path (from project root): "Data/WeeklyCasesData"
 data_dir <- file.path("../Data", "WeeklyCasesData")
@@ -34,7 +99,6 @@ names(data_week_raw) <- c('week_value', 'week_alias', 'location_value', 'locatio
 # Examples:
 #  "../Data/WeeklyCasesData/2564/กลุ่มอายุ/Shigellosis...__60.csv" -> year=2564, disease=Shigellosis..., age_group=60
 #  "../Data/WeeklyCasesData/2563/Acute_diarrhea.csv" -> year=2563, disease=Acute_diarrhea, age_group=NA
-
 data_week_raw <- data_week_raw |>
      mutate(filepath = as.character(filename),
             filename_only = basename(filepath),
@@ -52,22 +116,7 @@ data_week_raw <- data_week_raw |>
             disease = stringr::str_replace(disease_full, "__.*$", "")) |>
      select(-filename_only, -disease_full)
 
-# subset data -------------------------------------------------------------
-
-# read disease class data
-data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1)|> 
-     select(-c(Cases, Count, Including, Label))
-
-data_map_name <- read.xlsx("../Data/TotalCasesDeaths.xlsx", sheet = 'DiseaseName') |> 
-     filter(!is.na(short_name))
-
-data_map_location <- read.xlsx("../Data/TotalCasesDeaths.xlsx", sheet = 'DiseaseLocation')
-
-# check all disease in data_week_raw are in data_class
-unique(data_map_name$short_name)[!unique(data_map_name$short_name) %in% unique(data_class$Shortname)]
-
-unique(data_class$Shortname)[!unique(data_class$Shortname) %in% unique(data_map_name$short_name)]
+## clean data -------------------------------------------------------------
 
 data_week <- data_week_raw |> 
      filter(location_value == "%all%",
@@ -108,68 +157,7 @@ data_week_location <- data_week_raw |>
      group_by(year, disease, week, location, region, health_zone) |> 
      summarize(cases = sum(as.numeric(cases), na.rm = TRUE), .groups = "drop")
 
-save(data_week, data_week_age, data_week_location,
-     file = "week.RData")
-
-rm(list = ls())
-
-# reconstruction ----------------------------------------------------------
-
-# Spline-based temporal disaggregation (weekly -> daily -> monthly)
-#
-# Overview:
-# This procedure reconstructs daily case counts from weekly totals using spline
-# interpolation with post-hoc week-preserving scaling. The main steps are:
-# 1) Map each ISO `year`-`week` to a representative date (week midpoint) and the
-#    set of daily dates belonging to that week using `data_date_seq`.
-# 2) For each disease-year, fit a smooth spline to (week_midpoint_date, weekly_total)
-#    and evaluate the spline at every daily date in that year to obtain preliminary
-#    daily predictions.
-# 3) Enforce non-negativity on spline predictions and scale daily predictions
-#    within each week so that the sum of reconstructed daily values equals the
-#    original weekly total (preserves aggregate consistency).
-# 4) Convert fractional daily values to integer counts by flooring and then
-#    distributing the remaining counts to days with largest fractional parts
-#    (ensures weekly totals remain exact integers).
-#
-# Boundary handling and assumptions:
-# - Cross-year ISO-week assignments are handled by `data_date_seq` which reassigns
-#   week-year membership for ISO week 1 in December and weeks 52/53 in January.
-# - Spline extrapolation at the start/end of the series may produce NA or
-#   unstable values; the implementation uses controlled extrapolation (linear
-#   rule) or falls back to an even distribution when too few observed weeks exist.
-# - Missing weeks or sparse observations reduce spline reliability; in such
-#   cases the code falls back to uniform distribution across the week's days.
-# - This method preserves weekly sums exactly (after integer rounding) and
-#   produces a smooth daily profile consistent with weekly trends. It does not
-#   attempt to model within-week reporting artifacts (e.g., weekday effects) or
-#   external covariates.
-#
-# Caveats:
-# - Spline smoothing can overshoot around sharp weekly changes; negative
-#   predictions are set to zero before scaling, which can bias within-week
-#   shapes when totals are small. Inspect reconstructions for low-count diseases.
-# - For applications sensitive to weekday structure or reporting delays, consider
-#   alternative disaggregation approaches (e.g., proportional disaggregation
-#   using historical daily patterns or covariate-informed models).
-
-load('./week.RData')
-load('./month.RData')
-
-data_date_seq <- data.frame(date = seq.Date(from = as.Date("2019-12-01"), to = as.Date("2026-1-31"), by = "day")) |> 
-     mutate(year = year(date),
-            week = isoweek(date),
-            month = month(date),
-            # fixed week 1 in December to next year, week 52/53 in January to previous year
-            year = if_else(month == 12 & week == 1, year + 1, year),
-            year = if_else(month == 1 & week >= 52, year - 1, year)) |> 
-     filter(year >= 2020 & year <= 2025)
-
-
-# create mapping from year-week to representative week midpoint date and list of dates per week
-week_date_map <- data_date_seq |> 
-     group_by(year, week) |> 
-     summarize(week_start = min(date), week_mid = median(date), dates = list(date), .groups = "drop")
+## reconstruction cases ----------------------------------------------------------
 
 # function: reconstruct for one disease-year
 reconstruct_one <- function(df_week, week_map) {
@@ -282,19 +270,10 @@ month_recon <- daily_recon |>
      group_by(Shortname, year, month) |> 
      summarize(cases = sum(daily, na.rm = TRUE), .groups = "drop")
 
-save(daily_recon, month_recon, file = "reconstructed_daily_month.RData")
+## compare data ---------------------------------------------------------
 
-# compare dataset ---------------------------------------------------------
+load('./month.RData')
 
-# Comparison and plotting utilities
-#
-# `compute_weekly_comparison()`
-# - Inputs: `data_week` (original weekly totals), `daily_recon` (reconstructed daily),
-#   `week_map` (mapping with `week_mid` dates).
-# - Returns a list with two tibbles: `weekly` (row-level comparison per Shortname/year/week)
-#   and `summary` (per Shortname-year statistics: mean, median, sd of differences,
-#   percent exact matches, and number of weeks).
-#
 compute_weekly_comparison <- function(data_week, daily_recon, week_map) {
      data_week2 <- data_week |> 
           mutate(week = as.integer(week), year = as.integer(year))
@@ -413,26 +392,34 @@ plot_weekly_comparison <- function(shortname, year_val, data_week, daily_recon, 
 #    `shortname`, `year_val` (single year), `data_week`, `data_month` (original monthly),
 #    `daily_recon`, `month_recon` (reconstructed monthly), `week_map` (week_mid mapping)
 # - Returns a patchwork object combining monthly (left) and weekly (right) plots.
-plot_month_and_week_comparison <- function(shortname, year_val, data_week, data_month, daily_recon, month_recon, week_map, show_daily = FALSE) {
+plot_month_and_week_comparison <- function(shortname,
+                                           year_val,
+                                           value,
+                                           data_week, 
+                                           data_month, 
+                                           daily_recon, 
+                                           month_recon, 
+                                           week_map, 
+                                           show_daily = FALSE) {
      # browser()     
      
      # Monthly comparison
      orig_month <- data_month |> 
           filter(Shortname == shortname, Year %in% year_val) |> 
-          select(year = Year, month = Month, Shortname, cases = Cases)
+          select(year = Year, month = Month, Shortname, value = str_to_title(value))
      
      recon_month <- month_recon |> 
           filter(Shortname == shortname, year %in% year_val) |> 
-          rename(recon_cases = cases)
+          rename(recon_value = all_of(value))
      
      month_cmp <- orig_month |> 
           full_join(recon_month, by = c("Shortname", "year", "month")) |> 
           mutate(month_mid = as.Date(paste0(year, "-", sprintf("%02d", month), "-01")))
      
      p_month <- ggplot(month_cmp) +
-          geom_line(aes(x = month_mid, y = recon_cases, color = "Reconstructed (based on weekly data)"), linewidth = 1) +
-          geom_point(aes(x = month_mid, y = cases, color = "Observed (monthly data)"), size = 2) +
-          geom_line(aes(x = month_mid, y = cases, color = "Observed (monthly data)"), linetype = "dashed") +
+          geom_line(aes(x = month_mid, y = recon_value, color = "Reconstructed (based on weekly data)"), linewidth = 1) +
+          geom_point(aes(x = month_mid, y = value, color = "Observed (monthly data)"), size = 2) +
+          geom_line(aes(x = month_mid, y = value, color = "Observed (monthly data)"), linetype = "dashed") +
           scale_color_manual(name = "Series",
                              values = c("Observed (monthly data)" = "#4DBBD5FF",
                                         "Reconstructed (based on weekly data)" = "#B09C85FF")) +
@@ -440,7 +427,8 @@ plot_month_and_week_comparison <- function(shortname, year_val, data_week, data_
           scale_x_date(expand = expansion(mult = c(0, 0)),
                        date_labels = "%Y",
                        date_breaks = "1 year") +
-          labs(x = 'Date', y = "Cases") +
+          labs(x = 'Date',
+               y = str_to_title(value))+
           theme_bw()+
           theme(legend.position = "inside",
                 legend.box = "horizontal",
@@ -449,12 +437,15 @@ plot_month_and_week_comparison <- function(shortname, year_val, data_week, data_
                 legend.justification = c(0.5, 1))
      
      
-     # Weekly plot using existing function (returns ggplot)
-     p_week <- plot_weekly_comparison(shortname, year_val, data_week, daily_recon, week_map, show_daily = show_daily)
-     
-     # combine with patchwork
-     combined <- p_week + p_month + patchwork::plot_layout(ncol = 1)
-     combined
+     if (value == 'cases') {
+          # Weekly plot using existing function (returns ggplot)
+          p_week <- plot_weekly_comparison(shortname, year_val, data_week, daily_recon, week_map, show_daily = show_daily)
+          
+          # combine with patchwork
+          p_week + p_month + patchwork::plot_layout(ncol = 1)
+     } else {
+          p_month
+     }
 }
 
 cmp <- compute_weekly_comparison(data_week, daily_recon, week_date_map)
@@ -469,8 +460,130 @@ cmp_outcome |>
 # plot_month_and_week_comparison("Amebiasis", 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
 
 outcome <- lapply(unique(cmp_outcome$Shortname), function(sn) {
-     p <- plot_month_and_week_comparison(sn, 2020:2025, data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
+     p <- plot_month_and_week_comparison(sn, 2020:2025, 'cases', data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
      ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/cases/", sn, '.png'),
+            plot = p,
+            create.dir = TRUE,
+            width = 14,
+            height = 7)
+     NULL
+})
+
+# reconstruct deaths ---------------------------------------------------------
+# Weekly deaths: distribute weekly counts into months by day proportions
+# (no spline interpolation for deaths; allocate each week's deaths to months
+#  in proportion to how many days of that week fall in each month)
+
+## raw data --------------------------------------------------------------------
+data_dir_death <- file.path("../Data", "WeeklyDeathsData")
+csv_files_death <- list.files(path = data_dir_death, pattern = "csv",
+                              include.dirs = TRUE, all.files = TRUE,
+                              recursive = TRUE, full.names = TRUE)
+
+data_list_death <- lapply(csv_files_death, function(f) {
+     tryCatch(
+          readr::read_csv(f, col_types = readr::cols(.default = "c"), show_col_types = FALSE) |> 
+               mutate(filename = f),
+          error = function(e) {
+               warning(sprintf("Failed to read '%s': %s", f, e$message))
+               NULL
+          }
+     )
+})
+
+data_death_raw <- bind_rows(data_list_death)
+
+names(data_death_raw) <- c('week_value', 'week_alias', 'location_value', 'location_alias', 'cases', 'filename')
+data_death_raw <- data_death_raw |>
+     mutate(filepath = as.character(filename),
+            filename_only = basename(filepath),
+            disease_full = tools::file_path_sans_ext(filename_only),
+            year = stringr::str_extract(filepath, "(?<=/|\\\\)\\d{3,4}(?=/|\\\\)"),
+            year = if_else(is.na(year), stringr::str_extract(filepath, "\\d{3,4}"), year),
+            year = as.integer(year) - 543,
+            age_group = if_else(stringr::str_detect(disease_full, "__"),
+                                stringr::str_replace(disease_full, ".*__", ""),
+                                NA_character_),
+            disease = stringr::str_replace(disease_full, "__.*$", "")) |>
+     select(-filename_only, -disease_full)
+
+## clean data -------------------------------------------------------------
+
+# map disease names and calculate weekly deaths table
+data_death_week <- data_death_raw |>
+     left_join(data_map_name, by = c(disease = 'original_name')) |> 
+     filter(!is.na(short_name)) |> 
+     select(year, Shortname = short_name, week = week_value, deaths = cases, location_value, age_group, filepath) |>
+     mutate(deaths = as.numeric(deaths)) |>
+     group_by(year, Shortname, week, location_value, age_group) |>
+     summarize(deaths = sum(deaths, na.rm = TRUE),
+               source = paste(unique(filepath), collapse = "; "),
+               .groups = "drop")
+
+## reconstruction deaths ----------------------------------------------------------
+
+# Distribute weekly deaths into months by how many days of that week fall in each month
+month_recon_deaths <- data_death_week |> 
+     filter(location_value == "%all%",
+            is.na(age_group),
+            week != "%all%") |> 
+     mutate(week = as.integer(week)) |> 
+     left_join(week_date_map, by = c("year", "week")) |>
+     rowwise() |> mutate(dates = list(unlist(dates))) |>
+     tidyr::unnest_longer(dates) |>
+     mutate(month = month(dates)) |>
+     group_by(year, Shortname, week) |>
+     mutate(total_days = n()) |>
+     group_by(year, Shortname, week, month, deaths, total_days) |>
+     summarize(n_days = n(), .groups = "drop") |>
+     mutate(deaths_month = deaths * (n_days / total_days)) |>
+     group_by(year, Shortname, month) |>
+     summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+               .groups = "drop")
+
+month_recon_deaths_age <- data_death_week |> 
+     filter(location_value != "%all%",
+            !is.na(age_group),
+            week != "%all%") |> 
+     mutate(week = as.integer(week)) |> 
+     left_join(week_date_map, by = c("year", "week")) |>
+     rowwise() |> mutate(dates = list(unlist(dates))) |>
+     tidyr::unnest_longer(dates) |>
+     mutate(month = month(dates)) |>
+     group_by(year, Shortname, week, location_value, age_group) |>
+     mutate(total_days = n()) |>
+     group_by(year, Shortname, week, month, location_value, age_group, deaths, total_days) |>
+     summarize(n_days = n(), .groups = "drop") |>
+     mutate(deaths_month = deaths * (n_days / total_days)) |>
+     group_by(year, Shortname, month, age_group) |>
+     summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+               .groups = "drop")
+
+month_recon_deaths_location <- data_death_week |>
+      filter(location_value != "%all%",
+           is.na(age_group),
+           week != "%all%") |>
+      mutate(week = as.integer(week)) |>
+      left_join(week_date_map, by = c("year", "week")) |>
+      rowwise() |> mutate(dates = list(unlist(dates))) |>
+      tidyr::unnest_longer(dates) |>
+      mutate(month = month(dates)) |>
+      group_by(year, Shortname, week, location_value) |>
+      mutate(total_days = n()) |>
+      group_by(year, Shortname, week, month, location_value, deaths, total_days) |>
+      summarize(n_days = n(), .groups = "drop") |>
+      mutate(deaths_month = deaths * (n_days / total_days)) |>
+      group_by(year, Shortname, month, location_value) |>
+      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+               .groups = "drop")
+
+## compare data ------------------------------------------------------------
+
+# plot_month_and_week_comparison("Amebiasis", 2020:2025, 'deaths', NULL, data_month, NULL, month_recon_deaths, week_date_map, show_daily = TRUE)
+
+outcome <- lapply(unique(month_recon_deaths$Shortname), function(sn) {
+     p <- plot_month_and_week_comparison(sn, 2020:2025, 'deaths', NULL, data_month, NULL, month_recon_deaths, week_date_map, show_daily = TRUE)
+     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/deaths/", sn, '.png'),
             plot = p,
             create.dir = TRUE,
             width = 14,
