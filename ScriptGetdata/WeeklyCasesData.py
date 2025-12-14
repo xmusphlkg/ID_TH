@@ -22,6 +22,7 @@ from typing import List, Tuple, Dict, Any
 from multiprocessing import Pool, cpu_count
 from functools import partial
 import warnings
+import math
 
 # Suppress all tableauscraper logging output
 logging.getLogger('tableauScraper').setLevel(logging.CRITICAL)
@@ -162,6 +163,131 @@ def process_single_task(task: Dict[str, Any]) -> Dict[str, Any]:
             'path': None,
             'rows': 0
         }
+
+
+def _serialize_parameters(parameters):
+    """Return a hashable tuple for a parameters list (or None)."""
+    if not parameters:
+        return tuple()
+    try:
+        return tuple((str(p[0]), str(p[1])) for p in parameters)
+    except Exception:
+        # Fallback: convert to string
+        return (str(parameters),)
+
+
+def _process_task_group(group_item):
+    """Worker to process a group of tasks that share the same parameters.
+
+    group_item: tuple (param_key, task_list)
+    Returns: list of result dicts for each task in the group
+    """
+    param_key, tasks = group_item
+    # reconstruct parameters list as list of tuples
+    parameters = list(param_key) if param_key else None
+    results = []
+    if not tasks:
+        return results
+    # use first task to get url and map worksheet name
+    first = tasks[0]
+    url = first.get('url')
+    map_ws_name = first.get('map_worksheet')
+
+    # Load worksheet once with parameters applied
+    try:
+        params_to_apply = parameters if parameters else None
+        _, map_ws = get_worksheet(url, map_ws_name, parameters=params_to_apply, verbose=False)
+        if map_ws is None:
+            msg = f'Could not load map worksheet {map_ws_name} for parameters {parameters}'
+            logging.error(msg)
+            # return error entries for each task
+            for t in tasks:
+                results.append({'error': msg, 'filename': t.get('filename', 'unknown'), 'path': None, 'rows': 0})
+            return results
+    except Exception as e:
+        logging.exception(f'Exception loading worksheet for parameters {parameters}: {e}')
+        for t in tasks:
+            results.append({'error': str(e), 'filename': t.get('filename', 'unknown'), 'path': None, 'rows': 0})
+        return results
+
+    # Process each task using the already-loaded map_ws
+    for task in tasks:
+        try:
+            target_ws_name = task.get('target_worksheet')
+            filter_pairs = task.get('filter_pairs', [])
+            output_dir = task.get('output_dir')
+            filename = task.get('filename')
+            overwrite = task.get('overwrite', True)
+
+            outpath = os.path.join(output_dir, filename)
+            abs_out = os.path.abspath(outpath)
+            if not overwrite and os.path.exists(abs_out):
+                try:
+                    existing_df = pd.read_csv(abs_out)
+                    rows = len(existing_df)
+                except Exception:
+                    rows = 0
+                results.append({'name': target_ws_name, 'filename': filename, 'rows': rows, 'path': abs_out, 'skipped': True})
+                continue
+
+            fetched_df = fetch_other_worksheet_after_server_filters(map_ws, filter_pairs, target_ws_name)
+            if fetched_df is None:
+                fetched_df = pd.DataFrame()
+            if fetched_df.empty:
+                logging.debug(f'Empty data for {filename} with filters {filter_pairs} (params={parameters})')
+
+            out_path = save_filtered_csv(fetched_df, output_dir, filename, verbose=False, overwrite=overwrite)
+            results.append({'name': target_ws_name, 'filename': filename, 'rows': len(fetched_df), 'path': out_path})
+        except Exception as e:
+            logging.exception(f'Error processing grouped task {task} for parameters {parameters}: {e}')
+            results.append({'error': str(e), 'filename': task.get('filename', 'unknown'), 'path': None, 'rows': 0})
+
+    return results
+
+
+def execute_tasks(all_tasks: List[Dict[str, Any]], num_workers: int) -> List[Dict[str, Any]]:
+    """Execute tasks grouped by parameters.
+
+    Each group will set parameters once (by calling `get_worksheet`) and then
+    process all filter tasks for that group sequentially in the same worker.
+    """
+    # Group tasks by parameters key
+    groups = {}
+    for t in all_tasks:
+        pk = _serialize_parameters(t.get('parameters'))
+        groups.setdefault(pk, []).append(t)
+
+    # Expand each group into one or more subgroups so that a large group
+    # can be processed by multiple workers in parallel. Each subgroup
+    # will still set the parameters once at its start.
+    expanded_items = []  # list of (param_key, tasks_chunk)
+    for pk, tasks in groups.items():
+        if not tasks:
+            continue
+        if num_workers > 1 and len(tasks) > 1:
+            # allocate up to num_workers subgroups for this parameter group
+            n_sub = min(len(tasks), num_workers)
+            chunk_size = int(math.ceil(len(tasks) / n_sub))
+            for i in range(0, len(tasks), chunk_size):
+                expanded_items.append((pk, tasks[i:i + chunk_size]))
+        else:
+            expanded_items.append((pk, tasks))
+
+    results = []
+    if not expanded_items:
+        return results
+
+    if num_workers > 1:
+        with Pool(processes=num_workers) as pool:
+            all_group_results = pool.map(_process_task_group, expanded_items)
+    else:
+        all_group_results = [_process_task_group(item) for item in expanded_items]
+
+    # flatten
+    for grp in all_group_results:
+        if isinstance(grp, list):
+            results.extend(grp)
+    return results
 
 
 def generate_tasks_for_split(
@@ -582,6 +708,7 @@ def main(argv=None):
     num_workers = args.workers if args.workers > 0 else cpu_count()
     overwrite = not args.no_overwrite
     
+    
     logging.info(f'Using {num_workers} workers for parallel processing')
     logging.info(f'Overwrite mode: {overwrite}')
     if not overwrite:
@@ -710,17 +837,11 @@ def main(argv=None):
                     total_tasks = len(all_tasks)
                     logging.info(f'Generated {total_tasks} tasks for parallel execution (index={idx})')
                     print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
-                    if num_workers > 1:
-                        with Pool(processes=num_workers) as pool:
-                            if TQDM_AVAILABLE:
-                                results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
-                            else:
-                                results = pool.map(process_single_task, all_tasks)
-                    else:
-                        if TQDM_AVAILABLE:
-                            results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
-                        else:
-                            results = [process_single_task(task) for task in all_tasks]
+                    # Execute grouped tasks: apply parameters once per parameter-group and
+                    # process all filter tasks for that group. This reduces repeated
+                    # setParameter calls and improves throughput when many filter
+                    # combinations share the same parameters.
+                    results = execute_tasks(all_tasks, num_workers)
                 else:
                     # No also_fetch: either filtered split or full worksheet per index
                     if filter_conditions or args.split_by:
@@ -773,19 +894,8 @@ def main(argv=None):
                 total_tasks = len(all_tasks)
                 logging.info(f'Generated {total_tasks} tasks for parallel execution')
                 print(f'Processing {total_tasks} tasks with {num_workers} worker(s)...')
-
-                # Execute tasks in parallel with progress bar
-                if num_workers > 1:
-                    with Pool(processes=num_workers) as pool:
-                        if TQDM_AVAILABLE:
-                            results = list(tqdm(pool.imap(process_single_task, all_tasks), total=total_tasks, desc='Progress'))
-                        else:
-                            results = pool.map(process_single_task, all_tasks)
-                else:
-                    if TQDM_AVAILABLE:
-                        results = [process_single_task(task) for task in tqdm(all_tasks, desc='Progress')]
-                    else:
-                        results = [process_single_task(task) for task in all_tasks]
+                # Use grouped execution to minimize parameter switches
+                results = execute_tasks(all_tasks, num_workers)
             else:
                 if filter_conditions or args.split_by:
                     logging.info(f'Filter conditions: {filter_conditions}, split_by: {args.split_by}')
@@ -947,19 +1057,8 @@ def main(argv=None):
         if all_year_tasks:
             logging.info(f'Generated {len(all_year_tasks)} total tasks across all years')
             print(f'\nExecuting {len(all_year_tasks)} task(s)...')
-            if num_workers > 1:
-                if TQDM_AVAILABLE:
-                    with Pool(processes=num_workers) as pool:
-                        year_results = list(tqdm(pool.imap(process_single_task, all_year_tasks), total=len(all_year_tasks), desc='Processing tasks'))
-                else:
-                    with Pool(processes=num_workers) as pool:
-                        year_results = pool.map(process_single_task, all_year_tasks)
-            else:
-                if TQDM_AVAILABLE:
-                    year_results = [process_single_task(task) for task in tqdm(all_year_tasks, desc='Processing tasks')]
-                else:
-                    year_results = [process_single_task(task) for task in all_year_tasks]
-            
+            # Execute all year tasks grouped by parameters to reduce parameter switching
+            year_results = execute_tasks(all_year_tasks, num_workers)
             results.extend(year_results)
 
     # Summary
@@ -988,9 +1087,9 @@ def main(argv=None):
                 print(f"  - {r.get('filename', 'unknown')}: {r['error']}")
                 logging.error(f"Failed task {r.get('filename', 'unknown')}: {r['error']}")
 
-    for r in results:
-        if 'path' in r and r['path']:
-            logging.info(f"  Saved: {r['path']} (rows={r.get('rows', 0)})")
+    # for r in results:
+    #     if 'path' in r and r['path']:
+    #         logging.info(f"  Saved: {r['path']} (rows={r.get('rows', 0)})")
     logging.info('Data collection complete.')
 
 if __name__ == '__main__':
