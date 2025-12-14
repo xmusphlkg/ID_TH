@@ -90,8 +90,8 @@ plot_single <- function(i, value = 'Cases') {
                                trans = log_fill,
                                na.value = 'white',
                                limits = c(-5, 10)) +
-          scale_x_discrete(breaks = paste(seq(2008, 2024), "01", sep = "."),
-                           labels = 2008:2024,
+          scale_x_discrete(breaks = paste(seq(2008, 2025), "01", sep = "."),
+                           labels = 2008:2025,
                            expand = expansion(add = c(0, 0))) +
           scale_y_discrete(limits = rev(data_class$Shortname[data_class$Group == group_list]),
                            expand = c(0, 0)) +

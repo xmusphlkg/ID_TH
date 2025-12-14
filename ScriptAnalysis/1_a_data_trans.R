@@ -10,11 +10,22 @@ library(patchwork)
 
 rm(list = ls())
 
+source('./function/theme_set.R')
+
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1)|> 
-     select(-c(Cases, Count, Including, Label))
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(-c(Cases, Count, Including, Label, Forecasting, Note)) 
 
+# read population data
+data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'wpp') |> 
+     select(YEAR, Total) |> 
+     rename(Year = YEAR,
+            Population = Total)
+
+# read disease name and location mapping
 data_map_name <- read.xlsx("../Data/TotalCasesDeaths.xlsx", sheet = 'DiseaseName') |> 
      filter(!is.na(short_name))
 
@@ -39,6 +50,61 @@ data_date_seq <- data.frame(date = seq.Date(from = as.Date("2019-12-01"), to = a
 week_date_map <- data_date_seq |> 
      group_by(year, week) |> 
      summarize(week_start = min(date), week_mid = median(date), dates = list(date), .groups = "drop")
+
+# monthly and yearly data -------------------------------------------------------
+
+## monthly -----------------------------------------------------------------
+
+# list files in the folder: month case and death data
+list_disease_files <- list.files("../Data/CleanData/",
+                                  pattern = "mcd.csv",
+                                  full.names = T)
+data_all_mcd <- lapply(list_disease_files, read.csv) |>
+     bind_rows() |> 
+     filter(Year < 2025, Year >= 2008)
+
+rm(list_disease_files)
+
+# filter the total cases and deaths, with the year after 2008
+data_all_mcd |>
+     filter(Areas == 'Total' & Month == 'Total') |>
+     group_by(Disease) |>
+     summarise(Cases = sum(Count),
+               Count = n(),
+               YearStart = min(Year),
+               YearEnd = max(Year),
+               .groups = 'drop') |> 
+     write.csv(file = "../Outcome/TotalCasesDeaths.csv",
+          row.names = F)
+
+data_month <- data_all_mcd |>
+     filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
+     left_join(data_class, by = 'Disease') |> 
+     # transform the Month: Jan -> 01
+     mutate(Month = month(parse_date_time(Month, "b"), label = FALSE, abbr = FALSE),
+            Group = factor(Group, levels = disease_groups),
+            Disease = Shortname,
+            Date = as.Date(paste(Year, Month, "01", sep = "-"))) |> 
+     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
+     ungroup() |> 
+     arrange(Date, Disease)
+
+## yearly -----------------------------------------------------------------
+
+# list files in the folder: year case and death data
+list_disease_files_year <- list.files("../Data/CleanData/",
+                                       pattern = "rate.csv",
+                                       full.names = T)
+
+data_all_year <- lapply(list_disease_files_year, read.csv) |>
+     bind_rows() |> 
+     filter(Year < 2025, Year >= 2008)
+
+rm(list_disease_files_year)
+
+data_year_2 <- data_all_year |>
+     filter(Areas == 'Total' & Disease %in% data_class$Disease) |>
+     select(-Population, -Incidence, -Mortality, -Areas)
 
 # cases -------------------------------------------------------------------
 
@@ -271,8 +337,6 @@ month_recon <- daily_recon |>
      summarize(cases = sum(daily, na.rm = TRUE), .groups = "drop")
 
 ## compare data ---------------------------------------------------------
-
-load('./month.RData')
 
 compute_weekly_comparison <- function(data_week, daily_recon, week_map) {
      data_week2 <- data_week |> 
@@ -590,3 +654,67 @@ outcome <- lapply(unique(month_recon_deaths$Shortname), function(sn) {
             height = 4)
      NULL
 })
+
+# update data ----------------------------------------------------------------
+
+## monthly data -------------------------------------------------------------
+
+# Replace original monthly Cases/Deaths in years 2024-2025 with reconstructed values
+
+# prepare reconstructed tables for join (names consistent with data_month)
+month_recon_cases <- month_recon |>
+     rename(Year = year, Month = month, Cases_recon = cases)
+
+month_recon_deaths2 <- month_recon_deaths |> 
+     rename(Year = year, Month = month, Deaths_recon = deaths)
+
+# perform replacement only for years 2024 and 2025 when reconstructed values exist
+data_month <- data_month |> 
+     select(Year, Month, Shortname, Cases, Deaths) |>
+     full_join(month_recon_cases, by = c('Shortname', 'Year', 'Month')) |> 
+     full_join(month_recon_deaths2, by = c('Shortname', 'Year', 'Month')) |> 
+     left_join(data_population, by = 'Year') |>
+     mutate(Cases = if_else(Year %in% c(2024, 2025) & !is.na(Cases_recon),
+                            Cases_recon, Cases),
+            Deaths = if_else(Year %in% c(2024, 2025) & !is.na(Deaths_recon),
+                             Deaths_recon, Deaths),
+            Incidence = (Cases / Population) * 1e7,
+            Mortality = (Deaths / Population) * 1e7,
+            Date = as.Date(paste(Year, Month, "01", sep = "-"))) |>
+     select(-Cases_recon, -Deaths_recon) |> 
+     left_join(data_class, by = 'Shortname')
+
+## yearly data --------------------------------------------------------------
+
+# estimate yearly data based on monthly data for checking purpose
+data_year_1 <- data_month |>
+     group_by(Year, Shortname) |>
+     summarize(Cases = sum(Cases, na.rm = TRUE),
+               Deaths = sum(Deaths, na.rm = TRUE),
+               Population = first(Population),
+               Incidence = (Cases / Population) * 1e7,
+               Mortality = (Deaths / Population) * 1e7,
+               .groups = 'drop')
+
+# check the yearly data consistency
+data_year_check <- data_year_2 |>
+     left_join(data_class, by = 'Disease') |>
+     select(Year, Shortname, Cases, Deaths) |>
+     full_join(data_year_1 |> 
+                    rename(Cases_check = Cases, Deaths_check = Deaths),
+               by = c('Year', 'Shortname')) |>
+     mutate(Cases_diff = Cases - Cases_check,
+            Deaths_diff = Deaths - Deaths_check,
+            Cases_diff_pct = ifelse(is.na(Cases_check) | Cases_check == 0, NA, Cases_diff / Cases_check * 100),
+            Deaths_diff_pct = ifelse(is.na(Deaths_check) | Deaths_check == 0, NA, Deaths_diff / Deaths_check * 100))
+
+data_year_check |> 
+     filter(Cases_diff != 0 | is.na(Cases_diff) | Deaths_diff != 0 | is.na(Deaths_diff))
+
+# fill the missing yearly data based on monthly data
+data_year <- data_year_1 |> 
+     left_join(data_class, by = 'Shortname')
+
+# save data
+save(data_month, data_year,
+     data_class, data_population, file = "./month.RData")

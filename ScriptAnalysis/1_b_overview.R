@@ -16,113 +16,13 @@ plan(multisession, workers = 3)
 
 # data --------------------------------------------------------------------
 
+remove(list = ls())
+
+load('./month.RData')
+
 # loading function
 source("./function/theme_set.R")
 
-# read disease class data
-data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1)|> 
-     mutate(Group = factor(Group, levels = disease_groups)) |> 
-     arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Label)) 
-
-# read population data
-data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'age') |> 
-     select(YEAR, Total) |> 
-     rename(Year = YEAR,
-            Population = Total)
-
-## monthly -----------------------------------------------------------------
-
-# list files in the folder: month case and death data
-list_disease_files <- list.files("../Data/CleanData/",
-                                  pattern = "mcd.csv",
-                                  full.names = T)
-data_all <- lapply(list_disease_files, read.csv) |>
-     bind_rows() |> 
-     filter(Year < 2025, Year >= 2008)
-
-rm(list_disease_files)
-
-# filter the total cases and deaths, with the year after 2008
-data_all |>
-     filter(Areas == 'Total' & Month == 'Total') |>
-     group_by(Disease) |>
-     summarise(Cases = sum(Count),
-               Count = n(),
-               YearStart = min(Year),
-               YearEnd = max(Year),
-               .groups = 'drop') |> 
-     write.csv(file = "../Outcome/TotalCasesDeaths.csv",
-          row.names = F)
-
-data_month <- data_all |>
-     filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
-     left_join(data_class, by = 'Disease') |> 
-     # transform the Month: Jan -> 01
-     mutate(Month = month(parse_date_time(Month, "b"), label = FALSE, abbr = FALSE),
-            Group = factor(Group, levels = disease_groups),
-            Disease = Shortname,
-            Date = as.Date(paste(Year, Month, "01", sep = "-"))) |> 
-     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
-     ungroup() |> 
-     arrange(Date, Disease) |> 
-     left_join(data_population, by = 'Year') |>
-     # calculate the rate per million population
-     mutate(Incidence = (Cases / Population) * 1e7,
-            Mortality = (Deaths / Population) * 1e7)
-## yearly -----------------------------------------------------------------
-
-# list files in the folder: year case and death data
-list_disease_files_year <- list.files("../Data/CleanData/",
-                                       pattern = "rate.csv",
-                                       full.names = T)
-
-data_all_year <- lapply(list_disease_files_year, read.csv) |>
-     bind_rows() |> 
-     filter(Year < 2025, Year >= 2008)
-
-rm(list_disease_files_year)
-
-data_year_2 <- data_all_year |>
-     filter(Areas == 'Total' & Disease %in% data_class$Disease) |>
-     select(-Population, -Incidence, -Mortality, -Areas)
-
-# estimate yearly data based on monthly data for checking purpose
-data_year_1 <- data_all |>
-     filter(Areas == 'Total' & Month == 'Total' & Disease %in% data_class$Disease) |>
-     pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |> 
-     select(Year, Disease, Cases, Deaths)
-
-# check the yearly data consistency
-data_year_check <- data_year_2 |>
-     select(Year, Disease, Cases, Deaths) |>
-     full_join(data_year_1 |> 
-                    rename(Cases_check = Cases, Deaths_check = Deaths),
-               by = c('Year', 'Disease')) |>
-     mutate(Cases_diff = Cases - Cases_check,
-            Deaths_diff = Deaths - Deaths_check)
-
-data_year_check |> 
-     filter(Cases_diff != 0 | is.na(Cases_diff) | Deaths_diff != 0 | is.na(Deaths_diff))
-
-# fill the missing yearly data based on monthly data
-data_year <- data_year_check |>
-     mutate(Cases = ifelse(is.na(Cases), Cases_check, Cases),
-            Deaths = ifelse(is.na(Deaths), Deaths_check, Deaths)) |>
-     select(-c(Cases_check, Deaths_check)) |> 
-     left_join(data_class, by = 'Disease') |> 
-     mutate(Group = factor(Group, levels = disease_groups),
-            Disease = Shortname) |> 
-     ungroup() |> 
-     arrange(Year, Disease) |> 
-     # make consistent cases and deaths
-     mutate(Deaths = ifelse(is.na(Cases) & Deaths == 0, NA, Deaths)) |>
-     left_join(data_population, by = 'Year') |>
-     # calculate the rate per million population
-     mutate(Incidence = (Cases / Population) * 1e7,
-            Mortality = (Deaths / Population) * 1e7)
-     
 # summary of NID ----------------------------------------------------------
 
 ## each group
@@ -149,8 +49,8 @@ names(fill_color_trend) <- c("Observed", "STL Trend", "Joinpoint Trend")
 
 data_month_total <- data_month |>
      group_by(Date, Year) |>
-     summarise(Cases = sum(Cases),
-               Deaths = sum(Deaths),
+     summarise(Cases = sum(Cases, na.rm = T),
+               Deaths = sum(Deaths, na.rm = T),
                .groups = 'drop') |> 
      arrange(Date) |> 
      left_join(data_population, by = 'Year') |>
@@ -162,6 +62,9 @@ data_month_total <- data_month |>
      mutate(Month = month(Date),
             MonthIndex = Year * 12 + Month - min(data_month$Year) * 12,
             .after = Year)
+
+data_year <- data_month |>
+     select(Year, Disease = Shortname, Group, Cases, Deaths)
 
 ## joinpoint model ----------------------------------------------------
 # Using yearly data for joinpoint analysis to find the optimal number of joinpoints
@@ -358,12 +261,7 @@ tasks <- list(
      list(jp_result = jp_year_results[[2]], 
           data = data_month_total, 
           trend_var = "Mortality_trend", 
-          raw_var = "Mortality"),
-     
-     list(jp_result = jp_year_results[[3]], 
-          data = data_month_total, 
-          trend_var = "CFR_trend", 
-          raw_var = "CFR")
+          raw_var = "Mortality")
 )
 
 jp_segmented_results <- future_map(
@@ -865,11 +763,6 @@ write.xlsx(data_apc |>
                 select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
            file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
 
-save(data_month, data_year,
-     data_month_total, data_year_total,
-     jp_year_results, jp_segmented_results,
-     data_class, data_population, file = "./month.RData")
-
 # appendix ----------------------------------------------------------------
 
-source("./1_b_appendix.R")
+source("./1_c_appendix.R")
