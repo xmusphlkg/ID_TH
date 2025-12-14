@@ -65,10 +65,7 @@ disease_name <- data_class$Shortname
 save.image(file = "./region.RData")
 
 data_region_leading <- data_region |>
-     mutate(Year_group = case_when(Year %in% 2008:2010 ~ '2008-2010',
-                                   Year %in% 2011:2013 ~ '2011-2013',
-                                   Year %in% 2014:2016 ~ '2014-2016',
-                                   TRUE ~ as.character(Year)),
+     mutate(Year_group = as.character(Year),
             Year_group = factor(Year_group),
             Year_mark = as.integer(Year_group)) |> 
      group_by(Group, Shortname, Year_group, Year_mark, Areas) |>
@@ -77,9 +74,14 @@ data_region_leading <- data_region |>
                .groups = 'drop') |> 
      # finding leading causes of death, case in each age group
      group_by(Areas, Year_group, Year_mark) |>
-     summarise(Max_Incidence_Disease = Shortname[which.max(Incidence)],
+     summarise(Max_Incidence = max(Incidence, na.rm = T),
+               Max_Mortality = max(Mortality, na.rm = T),
+               Max_Incidence_Disease = Shortname[which.max(Incidence)],
                Max_Mortality_Disease = Shortname[which.max(Mortality)],
-               .groups = 'drop')
+               .groups = 'drop') |> 
+     # replace 0 deaths with no deaths
+     mutate(Max_Mortality_Disease = if_else(Max_Mortality == 0, 'No deaths', Max_Mortality_Disease),
+            Max_Mortality = if_else(Max_Mortality == 0, NA_real_, Max_Mortality))
 
 # plot --------------------------------------------------------------------
 
@@ -97,10 +99,21 @@ max_disease <- data_region_leading |>
      table() |> 
      sort(decreasing = T) |>
      as.data.frame() |> 
-     rename(Disease = Var1, Count = Freq) |>
-     mutate(DiseaseLabel = if_else(Count >= 10, Disease, "Others"))
-fill_color_disease <- c(fill_color_disease, "grey")
-names(fill_color_disease) <- c(head(max_disease$DiseaseLabel, 10), "Others")
+     rename(Disease = Var1, Count = Freq)
+
+# choose top 10 diseases excluding the special 'No deaths' label
+top10_diseases <- head(max_disease$Disease[max_disease$Disease != 'No deaths'], 10)
+
+max_disease <- max_disease |>
+     mutate(DiseaseLabel = case_when(Disease %in% top10_diseases ~ as.character(Disease),
+                                     Disease == 'No deaths' ~ 'No deaths',
+                                     TRUE ~ 'Others'))
+
+# desired legend/order: top diseases by count, then Others, then No deaths
+disease_levels <- c(as.character(top10_diseases), 'Others', 'No deaths')
+
+fill_color_disease <- c(fill_color_disease, "grey", 'white')
+names(fill_color_disease) <- disease_levels
 
 data_region_leading <- data_region_leading |>
      pivot_longer(cols = c(Max_Incidence_Disease, Max_Mortality_Disease),
@@ -116,7 +129,7 @@ plot_map_group <- function(index, data_region_leading, data_map, year_group, y) 
                                       filter(Year_group == year_group[y] & Type == index) |>
                                       select(Areas, Disease, DiseaseLabel),
                                  by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
-          mutate(DiseaseLabel = factor(DiseaseLabel, levels = unique(max_disease$DiseaseLabel)))
+          mutate(DiseaseLabel = factor(DiseaseLabel, levels = disease_levels))
      
      fig <- ggplot(data) +
           geom_sf(aes(fill = DiseaseLabel),
@@ -124,7 +137,7 @@ plot_map_group <- function(index, data_region_leading, data_map, year_group, y) 
           scale_fill_manual(values = fill_color_disease,
                             drop = F,
                             na.translate = F,
-                            na.value = "white") +
+                            na.value = "grey30") +
           theme_map() +
           theme(legend.position = "bottom",
                 plot.title = element_text(face = "bold", size = 14, hjust = 0),
@@ -166,11 +179,11 @@ fig_mortality <- fig_mortality |>
 ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/incidence.png",
        plot = fig_incidence,
        width = 14,
-       height = 9)
+       height = 13)
 
 ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/mortality.png",
        plot = fig_mortality,
        width = 14,
-       height = 9)
+       height = 13)
 
 source("./4_b_appendix.R")
