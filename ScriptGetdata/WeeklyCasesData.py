@@ -5,9 +5,54 @@ Enhanced version with multiprocessing support for faster data extraction.
 Fetches worksheets from Tableau dashboard, applies filters, and splits data by dimensions.
 
 Usage:
+    # Basic usage with default global filter
     python ID_TH/ScriptGetdata/WeeklyCasesData.py --worksheet-name 'แผนที่ระดับจังหวัด' \
         --years 2568 --split-by 'โรค' --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-        --output-dir ID_TH/Data/WeeklyCasesData --workers 4
+        --output-dir ID_TH/Data/WeeklyCasesData --workers 4 --default-global-filter
+    
+    # Custom global filter
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 --split-by 'โรค' --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+        --output-dir ID_TH/Data/WeeklyCasesData --workers 4 \
+        --global-filter "วัน/สถานที่=ตามวันและสถานที่รายงาน" \
+        --global-filter "อื่น=ค่า"
+
+    # Examples: fetch specific aggregates
+    # 1) Total cases (aggregate)
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+        --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 \
+        --indices 'จำนวนผู้ป่วย' \
+        --output-dir ID_TH/Data/WeeklyCasesData/total_cases \
+        --workers 4
+
+    # 2) Cases by disease (`โรค`)
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+        --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 \
+        --indices 'จำนวนผู้ป่วย' \
+        --split-by 'โรค' \
+        --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+        --output-dir ID_TH/Data/WeeklyCasesData/cases_by_disease \
+        --workers 4
+
+    # 3) Total deaths (aggregate)
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+        --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 \
+        --indices 'จำนวนผู้เสียชีวิต' \
+        --output-dir ID_TH/Data/WeeklyDeathsData/total_deaths \
+        --workers 4
+
+    # 4) Deaths by disease (`โรค`)
+    python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+        --worksheet-name 'แผนที่ระดับจังหวัด' \
+        --years 2568 \
+        --indices 'จำนวนผู้เสียชีวิต' \
+        --split-by 'โรค' \
+        --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+        --output-dir ID_TH/Data/WeeklyDeathsData/deaths_by_disease \
+        --workers 4
 """
 
 from tableauscraper import TableauScraper as TS
@@ -298,7 +343,8 @@ def generate_tasks_for_split(
     all_domains: List[Tuple[str, List[str]]],
     output_dir: str,
     parameters: List[Tuple[str, str]] = None,
-    overwrite: bool = True
+    overwrite: bool = True,
+    global_filters: List[Tuple[str, str]] = None
 ) -> List[Dict[str, Any]]:
     """Generate task list for multiprocessing based on filter combinations.
     
@@ -309,21 +355,24 @@ def generate_tasks_for_split(
         split_cols: List of split column names
         all_domains: List of (filter_name, [values]) tuples
         output_dir: Base output directory
-        year_param: Optional (param_name, param_value) tuple
+        parameters: Optional list of (param_name, param_value) tuples
         overwrite: Whether to overwrite existing files
+        global_filters: Global filters to apply to all tasks
         
     Returns:
         List of task dictionaries for process_single_task
     """
     tasks = []
+    # Prepare global filters (default to empty list if None)
+    global_filter_pairs = global_filters if global_filters else []
     
     if not all_domains or not all(vals for _, vals in all_domains):
-        # No valid domains, create single task with no filters
+        # No valid domains, create single task with only global filters
         task = {
             'url': url,
             'map_worksheet': map_worksheet,
             'target_worksheet': target_worksheet,
-            'filter_pairs': [],
+            'filter_pairs': global_filter_pairs.copy(),
             'output_dir': output_dir,
             'filename': f"{safe_filename_component(target_worksheet)}.csv",
             'parameters': parameters,
@@ -338,6 +387,8 @@ def generate_tasks_for_split(
     
     for combo in itertools.product(*value_lists):
         server_pairs = [(name, val) for name, val in zip(filter_names, combo)]
+        # Add global filters to server_pairs (global filters first)
+        server_pairs = global_filter_pairs.copy() + server_pairs
         
         # Build output directory and filename
         if len(combo) == 1:
@@ -462,15 +513,17 @@ def build_argparser():
     default_output = str(Path(__file__).resolve().parent.parent / 'Data' / 'WeeklyCasesData')
     p.add_argument('--output-dir', default=default_output, help='Output directory for CSV')
     p.add_argument('--worksheet-index', type=int, default=0, help='Index of worksheet to process (0-based)')
-    p.add_argument('--worksheet-name', help='Name of worksheet to process (preferred over index)')
+    p.add_argument('--worksheet-name', default='แผนที่ระดับจังหวัด', help='Name of worksheet to process (preferred over index). Default: แผนที่ระดับจังหวัด')
     p.add_argument('--filter', action='append', help='Filter condition(s) like "field=a,b" (can repeat)')
     p.add_argument('--filename', default='data.csv', help='Base filename for outputs (used as template)')
     p.add_argument('--years', action='append', help='Years to fetch (e.g., 2563 or 2563,2564). Can repeat.')
     p.add_argument('--indices', action='append', help='Index/indicator values to fetch (e.g., ลักษณะข้อมูล values). Can repeat.')
-    p.add_argument('--also-fetch', action='append', help='Additional worksheet name(s) to fetch after applying parameters/filters (can repeat)')
+    p.add_argument('--also-fetch', action='append', default=['ตารางการกระจายผู้ป่วยจังหวัด'], help='Additional worksheet name(s) to fetch after applying parameters/filters (can repeat). Default: ตารางการกระจายผู้ป่วยจังหวัด')
     p.add_argument('--workers', type=int, default=1, help='Number of parallel workers for multiprocessing (default: 1, 0 or -1 for CPU count)')
     p.add_argument('--no-overwrite', action='store_true', help='Skip files that already exist (default: overwrite existing files)')
     p.add_argument('--split-by', action='append', help='Column name to split output by; will save one file per value (can repeat)')
+    p.add_argument('--global-filter', action='append', help='Global filter to apply to all tasks (format: "field=value", can repeat)')
+    p.add_argument('--default-global-filter', action='store_true', default=True, help='Apply default global filter: วัน/สถานที่=ตามวันและสถานที่รายงาน (enabled by default)')
     return p
 
 def download_with_filters(url: str, filter_conditions: dict, output_dir: str, worksheet_index: int = 0, filename_template: str = "data_{suffix}.csv", split_by: list = None, parameters: list = None, save_overall: bool = True):
@@ -708,9 +761,29 @@ def main(argv=None):
     num_workers = args.workers if args.workers > 0 else cpu_count()
     overwrite = not args.no_overwrite
     
+    # Process global filters
+    global_filters = []
+    if getattr(args, 'default_global_filter', False):
+        # Add default global filter
+        global_filters.append(('วัน/สถานที่', 'ตามวันและสถานที่รายงาน'))
+    
+    # Parse custom global filters from command line
+    if getattr(args, 'global_filter', None):
+        for gf in args.global_filter:
+            try:
+                if '=' in gf:
+                    field, value = gf.split('=', 1)
+                    global_filters.append((field.strip(), value.strip()))
+                else:
+                    logging.warning(f'Invalid global filter format: {gf} (expected "field=value")')
+            except Exception as e:
+                logging.warning(f'Failed to parse global filter "{gf}": {e}')
     
     logging.info(f'Using {num_workers} workers for parallel processing')
     logging.info(f'Overwrite mode: {overwrite}')
+    if global_filters:
+        logging.info(f'Global filters: {global_filters}')
+        print(f'Global filters: {global_filters}')
     if not overwrite:
         print(f'Skip mode enabled: existing files will not be overwritten')
     
@@ -830,7 +903,8 @@ def main(argv=None):
                             all_domains=all_domains,
                             output_dir=per_index_output,
                             parameters=params_to_apply,
-                            overwrite=overwrite
+                            overwrite=overwrite,
+                            global_filters=global_filters
                         )
                         all_tasks.extend(tasks)
 
@@ -887,7 +961,8 @@ def main(argv=None):
                         all_domains=all_domains,
                         output_dir=args.output_dir,
                         parameters=None,
-                        overwrite=overwrite
+                        overwrite=overwrite,
+                        global_filters=global_filters
                     )
                     all_tasks.extend(tasks)
 
@@ -960,7 +1035,8 @@ def main(argv=None):
                                     all_domains=all_domains,
                                     output_dir=per_combo_output,
                                     parameters=params_to_apply,
-                                    overwrite=overwrite
+                                    overwrite=overwrite,
+                                    global_filters=global_filters
                                 )
                                 all_year_tasks.extend(tasks)
                         else:
@@ -1018,7 +1094,8 @@ def main(argv=None):
                                 all_domains=all_domains,
                                 output_dir=per_year_output,
                                 parameters=[year_param] if year_param else None,
-                                overwrite=overwrite
+                                overwrite=overwrite,
+                                global_filters=global_filters
                             )
                             all_year_tasks.extend(tasks)
                     else:
@@ -1079,13 +1156,15 @@ def main(argv=None):
     
     logging.info(f'Data collection complete: {success_count}/{len(results)} successful, {skipped_count} skipped, {total_rows:,} total rows')
     
-    # Log failed tasks if any
+    # Log failed tasks if any — print full path when available
     if error_count > 0:
         print(f'\nFailed tasks:')
         for r in results:
             if 'error' in r:
-                print(f"  - {r.get('filename', 'unknown')}: {r['error']}")
-                logging.error(f"Failed task {r.get('filename', 'unknown')}: {r['error']}")
+                # prefer full path when present, otherwise fall back to filename
+                target = r.get('path') or r.get('filename') or 'unknown'
+                print(f"  - {target}: {r['error']}")
+                logging.error(f"Failed task {target}: {r['error']}")
 
     # for r in results:
     #     if 'path' in r and r['path']:

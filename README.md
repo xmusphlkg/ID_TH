@@ -1,12 +1,13 @@
 # Introduction
 
+This folder contains infectious disease data for Thailand from 2008 to the present, sourced from the Bureau of Epidemiology, Ministry of Public Health, Thailand. The data includes monthly records from 2008 to 2024 and weekly records from 2025 onwards.
+
 ## Requirements
+
 - Python 3.12.3
 - R >= 4.3.2
 - pip 21.1.2
 - Joinpoint CMD 5200: [Application for Windows Batch/Callable Version of Joinpoint Regression Software](https://surveillance.cancer.gov/joinpoint/callable/)
-
-# Local setting
 
 ## Calendar of updates
 
@@ -50,13 +51,19 @@
 | Zone 12 | Narathiwat, Pattani, Phatthalung, Satun, Songkhla, Yala |
 | Zone 13 | Bangkok |
 
-# Data Description
+# Data
 
-Dashboard list: https://doe.moph.go.th/app01/?page_id=764
+All data files are stored in the `Data` folder.
 
-## From 2008 to 2024: monthly infectious disease data in Thailand
+## Data Description
+
+Dashboard list: [Dashboard list](https://doe.moph.go.th/app01/?page_id=764)
+
+### From 2008 to 2024: monthly infectious disease data in Thailand
 
 Data Source: [Bureau of Epidemiology, Ministry of Public Health, Thailand](https://doe1.moph.go.th/surdata/index.php).
+
+![](doe1.moph.go.th.jpeg)
 
 Files available for download from the Bureau of Epidemiology website are in RTF format.
 
@@ -65,22 +72,26 @@ Files available for download from the Bureau of Epidemiology website are in RTF 
 | mcd_disease_xx.rtf | disease_mcd.csv | Number of cases and deaths by month and province |
 | rate_disease_xx.rtf | disease_rate.csv | Number and rate per 100,000 population of cases and deaths by province |
 | ac_disease_xx.rtf | disease_ac.csv | Number of infections: Number of cases by age grouped and province |
-| ad_disease_xx.rtf | disease_ad.csv | Number of deaths: Number of deaths by age grouped and province	|
+| ad_disease_xx.rtf | disease_ad.csv | Number of deaths: Number of deaths by age grouped and province |
 | race_disease_xx.rtf | Not cleaned | Number of cases and deaths: Number of cases and deaths by nationality and province|
 | c_occ_disease_xx.rtf | Not cleaned | Number of patients: Number of cases by occupation |
 | d_occ_disease_xx.rtf | Not cleaned | Number of deaths: Number of deaths by occupation |
 
-## From 2025 onwards: weekly infectious disease data in Thailand
+### From 2020 onwards: weekly infectious disease data in Thailand
 
-Data Source: [Bureau of Epidemiology, Ministry of Public Health, Thailand](https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/priority_v2/Dashboard2?%3Aembed=y&%3AisGuestRedirectFromVizportal=y).
+Data Source: 
 
-https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/Dashboard_table?%3Aembed=y&%3AisGuestRedirectFromVizportal=y
+[Bureau of Epidemiology, Ministry of Public Health, Thailand](https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/priority_v2/Dashboard2?%3Aembed=y&%3AisGuestRedirectFromVizportal=y).
 
-# Data collection scripts
+[Dashboard table](https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/Dashboard_table?%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
+
+![](dvis3.ddc.moph.go.th.jpeg)
+
+## Data collection scripts
 
 Data collection scripts are in the `ScriptGetdata` folder. The main script is `GetNewData.py` and `GetData.py`, which collect data from the above two sources respectively.
 
-## Monthly data source (2008-2024)
+### Monthly data source (2008-2024)
 
 ```python
 ## Sync data status from monthly data source (2008-2024)
@@ -90,7 +101,7 @@ python3 ID_TH/ScriptGetdata/SyncData.py
 python3 ID_TH/ScriptGetdata/GetData.py
 ```
 
-## Weekly data source (2025 onwards)
+### Weekly data source (2025 onwards)
 
 The refactored `WeeklyCasesData.py` supports multiprocessing for significantly faster data extraction. Key improvements include:
 
@@ -109,7 +120,7 @@ The refactored `WeeklyCasesData.py` supports multiprocessing for significantly f
 
 ### Workflow
 
-```
+```text
 1. Fetch dashboard metadata
    ├─ Load workbook and worksheet
    ├─ Extract parameters (year parameter)
@@ -131,79 +142,123 @@ The refactored `WeeklyCasesData.py` supports multiprocessing for significantly f
    └─ Aggregate all task results and log
 ```
 
-## Usage
+### Usage
 
-### Basic Usage (single-process, backward compatible)
+#### Basic Usage (single-process, backward compatible)
+
+Total cases in 2025, split by disease (`โรค`), based on reporting date:
+
 ```bash
 python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
+  --default-global-filter \
   --workers 1
 ```
 
-### Multiprocessing (recommended)
-```bash
-# Use 4 worker processes
-python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2568 \
-  --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/WeeklyCasesData \
-  --workers 4
+#### Multiprocessing (recommended)
 
+Auto-use all CPU cores for faster extraction:
+
+```bash
 # Auto-use all CPU cores
 python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
   --years 2568 \
   --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
+  --default-global-filter \
   --workers 0
 ```
 
-### Multi-year + Multi-dimension Split
+Total cases in 2025, split by disease (`โรค`), using multiple worker processes:
+
 ```bash
-# Split two dimensions (disease × age group), use 8 workers
+# Use 8 workers
 python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2566,2567,2568 \
+  --years 2568 \
+  --split-by 'โรค' \
+  --indices 'จำนวนผู้ป่วย' \
+  --output-dir ID_TH/Data/WeeklyCasesData \
+  --default-global-filter \
+  --workers 8
+```
+
+Total deaths in 2025, split by disease (`โรค`), using multiple worker processes:
+
+```bash
+# Use 8 workers
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --years 2568 \
+  --split-by 'โรค' \
+  --indices 'จำนวนผู้เสียชีวิต' \
+  --output-dir ID_TH/Data/WeeklyDeathsData \
+  --default-global-filter \
+  --workers 8
+```
+
+#### Multi-year Split
+
+Total cases split by disease (`โรค`) for multiple years:
+
+```bash
+# Split one dimension (disease), use 20 workers
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --years 2563,2564,2565,2566,2567,2568 \
+  --split-by 'โรค' \
+  --indices 'จำนวนผู้ป่วย' \
+  --output-dir ID_TH/Data/WeeklyCasesData \
+  --default-global-filter \
+  --workers 20
+```
+
+Total deaths split by disease (`โรค`) for multiple years:
+
+```bash
+# Split one dimension (disease), use 20 workers
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --years 2563,2564,2565,2566,2567,2568 \
+  --split-by 'โรค' \
+  --indices 'จำนวนผู้เสียชีวิต' \
+  --output-dir ID_TH/Data/WeeklyDeathsData \
+  --default-global-filter \
+  --workers 20
+```
+
+#### Multi-year + Multi-age Split
+
+Total cases split by disease (`โรค`) and age group (`กลุ่มอายุ`) for multiple years:
+
+```bash
+# Split two dimensions (disease × age group), use 20 workers
+python ID_TH/ScriptGetdata/WeeklyCasesData.py \
+  --years 2563,2564,2565,2566,2567,2568 \
   --split-by 'โรค' \
   --split-by 'กลุ่มอายุ' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --workers 8
+  --default-global-filter \
+  --workers 20
 ```
 
-### Using Indicators / Metrics (`--indices`)
+Total deaths split by disease (`โรค`) and age group (`กลุ่มอายุ`) for multiple years:
+
 ```bash
-# Fetch specific indicators (Thai labels) for the latest data
+# Split two dimensions (disease × age group), use 20 workers
 python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --indices 'จำนวนผู้เสียชีวิต' \
+  --years 2563,2564,2565,2566,2567,2568 \
   --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
+  --split-by 'กลุ่มอายุ' \
+  --indices 'จำนวนผู้เสียชีวิต' \
   --output-dir ID_TH/Data/WeeklyDeathsData \
-  --workers 4
+  --default-global-filter \
+  --workers 20
 ```
 
-### Multi-year + Multi-index (year × index)
-```bash
-# Fetch combos of years and indicators. Output organized as output_dir/<year>/<index>/...
-python ID_TH/ScriptGetdata/WeeklyCasesData.py \
-  --worksheet-name 'แผนที่ระดับจังหวัด' \
-  --years 2566,2567 \
-  --indices 'จำนวนผู้เสียชีวิต' \
-  --split-by 'โรค' \
-  --also-fetch 'ตารางการกระจายผู้ป่วยจังหวัด' \
-  --output-dir ID_TH/Data/WeeklyDeathsData \
-  --workers 8
-```
+#### Resume Interrupted Downloads
 
-### Resume Interrupted Downloads
 ```bash
 # Skip already downloaded files to resume interrupted work
 python ID_TH/ScriptGetdata/WeeklyCasesData.py \
@@ -222,11 +277,13 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
 |-----------|------|---------|-------------|
 | `--url` | str | "https://dvis3.ddc.moph.go.th/t/DDC_CENTER_DOE/views/DDS2/sheet127?%3Aembed=y&%3AisGuestRedirectFromVizportal=y" | Tableau dashboard URL. Can be set via CLI `--url` overrides env var. |
 | `--workers` | int | 1 | Number of worker processes. `0` or `-1` uses all CPU cores |
-| `--worksheet-name` | str | - | Map worksheet name |
+| `--worksheet-name` | str | `แผนที่ระดับจังหวัด` | Map worksheet name (default changed to `แผนที่ระดับจังหวัด`) |
 | `--years` | str | - | Year list, comma-separated or repeated parameter (ปี) |
 | `--indices` | str | - | Indicator/index list, comma-separated or repeatable (e.g., `ลักษณะข้อมูล` values such as 'จำนวนผู้ป่วย', 'จำนวนผู้เสียชีวิต', 'อัตราป่วยต่อประชากรแสนคน', 'อัตราตายต่อประชากรแสนคน', 'อัตราป่วยตาย(%)') |
 | `--split-by` | str | - | Split dimension (repeatable), e.g., `โรค`, `กลุ่มอายุ` |
-| `--also-fetch` | str | - | Target worksheet name |
+| `--also-fetch` | str | `['ตารางการกระจายผู้ป่วยจังหวัด']` | Target worksheet name(s) to fetch after filters (default: ตารางการกระจายผู้ป่วยจังหวัด) |
+| `--global-filter` | str | - | Global filter to apply to all tasks (format: `field=value`, repeatable) |
+| `--default-global-filter` | flag | True | Apply default global filter `วัน/สถานที่=ตามวันและสถานที่รายงาน` (enabled by default); use `--no-default-global-filter` to disable if implemented |
 | `--output-dir` | str | `Data/WeeklyCasesData` | Output directory |
 | `--no-overwrite` | flag | False | Skip files that already exist (default: overwrite existing files) |
 
@@ -240,15 +297,16 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
 ## Example Output
 
 ### Console Output (concise mode)
-```
+
+```text
 Fetching dashboard metadata...
+Global filters: [('วัน/สถานที่', 'ตามวันและสถานที่รายงาน')]
 Available worksheets:
   [0] ชื่อโรคการกระจาย
   [1] ตารางการกระจายผู้ป่วยจังหวัด
   [2] แผนที่ระดับจังหวัด
 Processing worksheet: แผนที่ระดับจังหวัด
-Processing 56 tasks with 4 worker(s)...
-Progress: 100%|████████████████████████| 56/56 [15:23<00:00, 16.5s/it]
+Processing years: ['2563', '2564', '2565', '2566', '2567', '2568'] with 20 worker(s)...
 
 ============================================================
 Data collection complete!
@@ -258,97 +316,6 @@ Data collection complete!
   Total rows: 221,200
 ============================================================
 ```
-
-# Changelog
-
-## 2025-12-03 - v2.0 Multiprocessing Optimization
-
-### 🚀 Main Improvements
-
-#### 1. Multiprocessing Parallel Processing
-- **Task Pre-generation Mechanism**: First fetch all metadata (parameters, worksheets, filters), then generate complete task list
-- **Parallel Execution**: Uses `multiprocessing.Pool` for parallel processing with customizable worker count
-- **Performance Boost**: 4 workers achieve 4x speedup, 8 workers achieve 8x speedup
-
-**New Parameter:**
-```bash
---workers N    # N>0: use N workers; N=0 or -1: use all CPU cores; default=1
-```
-
-#### 2. Code Modularization Refactoring
-- **Function Migration**: Moved common functions to `GetNewDataFunction.py`
-  - `extract_split_domains_from_filters()`: Extract filter domain values
-  - `fetch_other_worksheet_after_server_filters()`: Apply filters and fetch data
-  
-- **Parameter Enhancement**:
-  - `get_worksheet(..., verbose=False)`: Control console output
-  - `save_filtered_csv(..., verbose=False)`: Control console output
-
-#### 3. User Experience Optimization
-
-##### 3.1 Silent Mode
-- ✅ Removed duplicate console output
-- ✅ Display worksheet info only on first load
-- ✅ Worker processes run silently, no console output
-- ✅ Detailed logs written to file only
-
-##### 3.2 Progress Bar Display
-- ✅ Real-time progress using `tqdm`
-- ✅ Shows task count, completion percentage, estimated time remaining
-- ✅ Works without tqdm (no progress bar)
-
-```
-Progress: 100%|████████████████████████| 56/56 [15:23<00:00, 16.5s/it]
-```
-
-##### 3.3 Result Summary
-Statistics displayed after completion:
-```
-============================================================
-Data collection complete!
-  Total tasks: 56
-  Successful: 56
-  Failed: 0
-  Total rows: 221,200
-============================================================
-```
-
-#### 4. Log Level Optimization
-- ✅ Disabled tableauscraper warnings: `logging.getLogger('tableauScraper').setLevel(logging.ERROR)`
-- ✅ Metadata details use DEBUG level (reduces log file size)
-- ✅ Important info uses INFO level
-- ✅ Errors and warnings logged normally
-
-### 🐛 Fixed Issues
-
-1. ✅ **Duplicate Output**: Each worker printed worksheet info
-   - Fix: Added verbose parameter, workers use silent mode
-
-2. ✅ **Excessive Logging**: Full metadata logged on each worksheet load
-   - Fix: Metadata uses DEBUG level, reduced INFO logs
-
-3. ✅ **tableauscraper Warnings**: Many "no data dictionary" warnings
-   - Fix: Set tableauScraper logger to ERROR level
-
-4. ✅ **Missing Progress Feedback**: Long runs without feedback
-   - Fix: Added tqdm progress bar
-
-### 📝 Compatibility Notes
-
-- ✅ Fully backward compatible with v1.0 usage
-- ✅ Default `--workers 1` equals single-process mode
-- ✅ Works without tqdm installation
-- ✅ All existing parameters unchanged
-
-## v1.0 - Initial Version
-
-### Features
-- Extract data from Tableau dashboard
-- Support dimension splitting (split-by)
-- Support multi-worksheet extraction (also-fetch)
-- Support year parameters
-- Cartesian product combination generation
-- Auto-create directory structure
 
 # To do list
 
