@@ -1,11 +1,16 @@
 # packages ----------------------------------------------------------------
 
+# devtools::install_github("DanChaltiel/nih.joinpoint")
+# devtools::install_github("davidsjoberg/ggbump")
+
 library(nih.joinpoint)
 library(openxlsx)
 library(tidyverse)
 library(ggsci)
 library(paletteer)
 library(patchwork)
+library(future)
+library(ggbump)
 
 # System setting
 Sys.setlocale(locale = "EN")
@@ -667,8 +672,6 @@ fig7 <- ggplot(data = fig7_data)+
      guides(fill = guide_colorbar(barwidth = 35, barheight = 1))
 
 # connection --------------------------------------------------------------
-
-library(ggbump)
 
 data_connect <- fig5_data |> 
      mutate(cases_rank = rank(TotalCases, ties.method = 'first')) |>

@@ -57,8 +57,8 @@ week_date_map <- data_date_seq |>
 
 # list files in the folder: month case and death data
 list_disease_files <- list.files("../Data/CleanData/",
-                                  pattern = "mcd.csv",
-                                  full.names = T)
+                                 pattern = "mcd.csv",
+                                 full.names = T)
 data_all_mcd <- lapply(list_disease_files, read.csv) |>
      bind_rows() |> 
      filter(Year < 2025, Year >= 2008)
@@ -75,7 +75,7 @@ data_all_mcd |>
                YearEnd = max(Year),
                .groups = 'drop') |> 
      write.csv(file = "../Outcome/TotalCasesDeaths.csv",
-          row.names = F)
+               row.names = F)
 
 data_month <- data_all_mcd |>
      filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
@@ -93,8 +93,8 @@ data_month <- data_all_mcd |>
 
 # list files in the folder: year case and death data
 list_disease_files_year <- list.files("../Data/CleanData/",
-                                       pattern = "rate.csv",
-                                       full.names = T)
+                                      pattern = "rate.csv",
+                                      full.names = T)
 
 data_all_year <- lapply(list_disease_files_year, read.csv) |>
      bind_rows() |> 
@@ -605,12 +605,25 @@ month_recon_deaths <- data_death_week |>
      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
                .groups = "drop")
 
-month_recon_deaths_age <- data_death_week |> 
-     filter(location_value != "%all%",
+data_week_age_deaths  <- data_death_week |> 
+     filter(location_value == "%all%",
             !is.na(age_group),
             week != "%all%") |> 
-     mutate(week = as.integer(week)) |> 
-     left_join(week_date_map, by = c("year", "week")) |>
+     mutate(week = as.integer(week),
+            age_group = case_when(age_group == "0_4" ~ "0-4",
+                                  age_group == "5_9" ~ "5-9",
+                                  age_group == "10_14" ~ "10-14",
+                                  age_group == "15_19" ~ "15-19",
+                                  age_group == "20_29" ~ "20-29",
+                                  age_group == "30_39" ~ "30-39",
+                                  age_group == "40_49" ~ "40-49",
+                                  age_group == "50_59" ~ "50-59",
+                                  age_group == "60" ~ "60+",
+                                  TRUE ~ age_group)) |> 
+     left_join(week_date_map, by = c("year", "week"))
+
+
+month_recon_deaths_age <- data_week_age_deaths |>
      rowwise() |> mutate(dates = list(unlist(dates))) |>
      tidyr::unnest_longer(dates) |>
      mutate(month = month(dates)) |>
@@ -623,22 +636,24 @@ month_recon_deaths_age <- data_death_week |>
      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
                .groups = "drop")
 
-month_recon_deaths_location <- data_death_week |>
-      filter(location_value != "%all%",
-           is.na(age_group),
-           week != "%all%") |>
-      mutate(week = as.integer(week)) |>
-      left_join(week_date_map, by = c("year", "week")) |>
-      rowwise() |> mutate(dates = list(unlist(dates))) |>
-      tidyr::unnest_longer(dates) |>
-      mutate(month = month(dates)) |>
-      group_by(year, Shortname, week, location_value) |>
-      mutate(total_days = n()) |>
-      group_by(year, Shortname, week, month, location_value, deaths, total_days) |>
-      summarize(n_days = n(), .groups = "drop") |>
-      mutate(deaths_month = deaths * (n_days / total_days)) |>
-      group_by(year, Shortname, month, location_value) |>
-      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+data_week_location_deaths  <- data_death_week |> 
+     filter(location_value != "%all%",
+            is.na(age_group),
+            week != "%all%") |> 
+     mutate(week = as.integer(week)) |> 
+     left_join(week_date_map, by = c("year", "week"))
+
+month_recon_deaths_location <- data_week_location_deaths |>
+     rowwise() |> mutate(dates = list(unlist(dates))) |>
+     tidyr::unnest_longer(dates) |>
+     mutate(month = month(dates)) |>
+     group_by(year, Shortname, week, location_value) |>
+     mutate(total_days = n()) |>
+     group_by(year, Shortname, week, month, location_value, deaths, total_days) |>
+     summarize(n_days = n(), .groups = "drop") |>
+     mutate(deaths_month = deaths * (n_days / total_days)) |>
+     group_by(year, Shortname, month, location_value) |>
+     summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
                .groups = "drop")
 
 ## compare data ------------------------------------------------------------
@@ -718,4 +733,6 @@ data_year <- data_year_1 |>
 
 # save data
 save(data_month, data_year,
+     data_week_age, data_week_location,
+     data_week_age_deaths, data_week_location_deaths,
      data_class, data_population, file = "./month.RData")
