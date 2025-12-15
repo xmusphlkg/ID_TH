@@ -523,7 +523,7 @@ def build_argparser():
     p.add_argument('--no-overwrite', action='store_true', help='Skip files that already exist (default: overwrite existing files)')
     p.add_argument('--split-by', action='append', help='Column name to split output by; will save one file per value (can repeat)')
     p.add_argument('--global-filter', action='append', help='Global filter to apply to all tasks (format: "field=value", can repeat)')
-    p.add_argument('--default-global-filter', action='store_true', default=True, help='Apply default global filter: วัน/สถานที่=ตามวันและสถานที่รายงาน (enabled by default)')
+    p.add_argument('--default-global-filter', action='store_true', default=False, help='Apply default global filter: วัน/สถานที่=ตามวันและสถานที่รายงาน (disabled by default)')
     return p
 
 def download_with_filters(url: str, filter_conditions: dict, output_dir: str, worksheet_index: int = 0, filename_template: str = "data_{suffix}.csv", split_by: list = None, parameters: list = None, save_overall: bool = True):

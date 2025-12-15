@@ -154,7 +154,6 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --default-global-filter \
   --workers 1
 ```
 
@@ -169,7 +168,6 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --default-global-filter \
   --workers 0
 ```
 
@@ -182,7 +180,6 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --default-global-filter \
   --workers 8
 ```
 
@@ -195,7 +192,6 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้เสียชีวิต' \
   --output-dir ID_TH/Data/WeeklyDeathsData \
-  --default-global-filter \
   --workers 8
 ```
 
@@ -210,8 +206,7 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --default-global-filter \
-  --workers 20
+  --workers 0
 ```
 
 Total deaths split by disease (`โรค`) for multiple years:
@@ -223,8 +218,7 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'โรค' \
   --indices 'จำนวนผู้เสียชีวิต' \
   --output-dir ID_TH/Data/WeeklyDeathsData \
-  --default-global-filter \
-  --workers 20
+  --workers 0
 ```
 
 #### Multi-year + Multi-age Split
@@ -239,8 +233,7 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'กลุ่มอายุ' \
   --indices 'จำนวนผู้ป่วย' \
   --output-dir ID_TH/Data/WeeklyCasesData \
-  --default-global-filter \
-  --workers 20
+  --workers 0
 ```
 
 Total deaths split by disease (`โรค`) and age group (`กลุ่มอายุ`) for multiple years:
@@ -253,7 +246,6 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
   --split-by 'กลุ่มอายุ' \
   --indices 'จำนวนผู้เสียชีวิต' \
   --output-dir ID_TH/Data/WeeklyDeathsData \
-  --default-global-filter \
   --workers 20
 ```
 
@@ -283,7 +275,7 @@ python ID_TH/ScriptGetdata/WeeklyCasesData.py \
 | `--split-by` | str | - | Split dimension (repeatable), e.g., `โรค`, `กลุ่มอายุ` |
 | `--also-fetch` | str | `['ตารางการกระจายผู้ป่วยจังหวัด']` | Target worksheet name(s) to fetch after filters (default: ตารางการกระจายผู้ป่วยจังหวัด) |
 | `--global-filter` | str | - | Global filter to apply to all tasks (format: `field=value`, repeatable) |
-| `--default-global-filter` | flag | True | Apply default global filter `วัน/สถานที่=ตามวันและสถานที่รายงาน` (enabled by default); use `--no-default-global-filter` to disable if implemented |
+| `--default-global-filter` | flag | False | Apply default global filter `วัน/สถานที่=ตามวันและสถานที่รายงาน` (disabled by default) |
 | `--output-dir` | str | `Data/WeeklyCasesData` | Output directory |
 | `--no-overwrite` | flag | False | Skip files that already exist (default: overwrite existing files) |
 
