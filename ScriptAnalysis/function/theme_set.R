@@ -1,3 +1,11 @@
+#####################################
+## @Description: 
+## @version: 
+## @Author: Li Kangguo
+## @Date: 2024-09-01 21:40:17
+## @LastEditors: Li Kangguo
+## @LastEditTime: 2025-12-16 12:28:46
+#####################################
 
 library(lubridate)
 library(RColorBrewer)
@@ -96,4 +104,4 @@ back_color <- c('white',"grey", "white", "grey", "white")
 names(back_color) <- split_periods
 
 # max process: 20
-max_proces <- 20
+max_proces <- 30

@@ -236,7 +236,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
      fig <- cowplot::plot_grid(fig_ts, fig_table, ncol = 1, rel_heights = c(3, 1))
      
      ggsave(
-          filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_3/", disease_name[i], ".png"),
+          filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_5/", disease_name[i], ".png"),
           fig,
           device = "png",
           width = 14, height = 15,
