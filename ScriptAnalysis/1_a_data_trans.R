@@ -65,18 +65,6 @@ data_all_mcd <- lapply(list_disease_files, read.csv) |>
 
 rm(list_disease_files)
 
-# filter the total cases and deaths, with the year after 2008
-data_all_mcd |>
-     filter(Areas == 'Total' & Month == 'Total') |>
-     group_by(Disease) |>
-     summarise(Cases = sum(Count),
-               Count = n(),
-               YearStart = min(Year),
-               YearEnd = max(Year),
-               .groups = 'drop') |> 
-     write.csv(file = "../Outcome/TotalCasesDeaths.csv",
-               row.names = F)
-
 data_month <- data_all_mcd |>
      filter(Areas == 'Total' & Month != 'Total' & Disease %in% data_class$Disease) |>
      left_join(data_class, by = 'Disease') |> 

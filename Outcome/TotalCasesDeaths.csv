@@ -1,73 +1,43 @@
-"Disease","Cases","Count","YearStart","YearEnd"
-"Anthrax",0,34,2008,2024
-"Avian Influenza",0,10,2020,2024
-"Botulism",27,24,2013,2024
-"Brucellosis",115,22,2013,2024
-"Chancroid",16032,34,2008,2024
-"Chickenpox",860845,34,2008,2024
-"Chikungunya",88948,34,2008,2024
-"Cholera",2724,34,2008,2024
-"Condyloma Acuminata",57116,34,2008,2024
-"D.H.F",578777,34,2008,2024
-"D.H.F.shock syndrome",20218,34,2008,2024
-"DHF Total",1483577,34,2008,2024
-"Dengue fever",884873,34,2008,2024
-"Diphtheria",412,34,2008,2024
-"Dysentery,Amoebic",40818,34,2008,2024
-"Dysentery,Bacillary",36065,34,2008,2024
-"Encephalitis Total",12749,34,2008,2024
-"Encephalitis uns",12309,34,2008,2024
-"Enterovirus Fever",1153,12,2019,2024
-"Eosinophilic Meningitis",2468,34,2008,2024
-"Filariasis",229,34,2008,2024
-"Food_Poisoning",1861552,34,2008,2024
-"Genital Herpes Simplex",34982,34,2008,2024
-"Genital Molluscum Contagiosum",774,12,2019,2024
-"Gonorrhoea",145532,34,2008,2024
-"HFM",846442,34,2008,2024
-"HepatitisA",8418,34,2008,2024
-"HepatitisB",117193,34,2008,2024
-"HepatitisC",14215,34,2008,2024
-"HepatitisD",1465,34,2008,2024
-"HepatitisE",791,34,2008,2024
-"Hepatitis_uns",27228,34,2008,2024
-"Influenza",2881845,34,2008,2024
-"Japanese B encephalitis",60,14,2018,2024
-"Kala azar",19,34,2008,2024
-"L.G.V.&other&unsp.V.D",8537,34,2008,2024
-"Leprosy",2242,34,2008,2024
-"Leptospirosis",57568,34,2008,2024
-"Liver fluke",8860,34,2008,2024
-"Malaria",173762,34,2008,2024
-"Measles",50562,34,2008,2024
-"Measles Total",57632,34,2008,2024
-"Measles c Complication",4126,18,2013,2024
-"Melioidosis",51009,34,2008,2024
-"Meningitis,uns",28800,34,2008,2024
-"Meningococcal Meningitis",381,34,2008,2024
-"Mumps",93531,34,2008,2024
-"Mushroom poisoning",33686,34,2008,2024
-"N.S.U._V",45090,34,2008,2024
-"Other STI",182861,30,2010,2024
-"Paratyphoid",4629,34,2008,2024
-"Pediculosis Pubis",24,12,2019,2024
-"Pertussis",2305,34,2008,2024
-"Pneumonia",3788223,34,2008,2024
-"Poliomyelitis",0,34,2008,2024
-"Pulmonary T.B",210349,34,2008,2024
-"Rabies",284,34,2008,2024
-"Rubella",5139,34,2008,2024
-"STI Total",598059,32,2008,2024
-"Scarlet fever",20954,34,2008,2024
-"Scrub Typhus",126074,34,2008,2024
-"Streptococcus suis",5232,24,2013,2024
-"Syphilis",126955,34,2008,2024
-"T.B. other organs",80556,34,2008,2024
-"T.B.meningitis",5853,34,2008,2024
-"TB Total",296856,34,2008,2024
-"Tetanus exc.Neo",1329,34,2008,2024
-"Tetanus neonatorum",19,34,2008,2024
-"Trichinosis",228,34,2008,2024
-"Typhoid",34033,34,2008,2024
-"Vaginal trichomoniasis",2216,12,2019,2024
-"Zika virus",1930,12,2019,2024
+"Disease","Cases","Deaths","Count","YearStart","YearEnd"
+"Brucellosis",126,1,144,2013,2025
+"Chancroid",18596,0,216,2008,2025
+"Chickenpox",907656,17,216,2008,2025
+"Chikungunya",90350,1,216,2008,2025
+"Cholera",2761,28,216,2008,2025
+"Condyloma Acuminata",68761,0,216,2008,2025
+"DHF Total",1540625,1571,216,2008,2025
+"Diphtheria",351,78,216,2008,2025
+"Dysentery,Amoebic",43005,4,216,2008,2025
+"Dysentery,Bacillary",36363,1,216,2008,2025
+"Encephalitis Total",14155,210,216,2008,2025
+"Filariasis",244,0,216,2008,2025
+"Genital Herpes Simplex",41226,1,216,2008,2025
+"Gonorrhoea",162360,0,216,2008,2025
+"HFM",960173,32,216,2008,2025
+"HepatitisA",9079,1,216,2008,2025
+"HepatitisB",134671,40,216,2008,2025
+"HepatitisC",17254,7,216,2008,2025
+"HepatitisD",1554,3,216,2008,2025
+"HepatitisE",874,0,216,2008,2025
+"Influenza",4017493,831,216,2008,2025
+"Japanese B encephalitis",65,1,96,2018,2025
+"Kala azar",23,1,216,2008,2025
+"Leprosy",2352,1,216,2008,2025
+"Leptospirosis",62032,875,216,2008,2025
+"Liver fluke",13876,0,216,2008,2025
+"Malaria",177498,155,216,2008,2025
+"Measles Total",57137,48,216,2008,2025
+"Melioidosis",54574,1091,216,2008,2025
+"Meningitis,uns",30583,199,216,2008,2025
+"Mumps",95578,0,216,2008,2025
+"Paratyphoid",4791,1,216,2008,2025
+"Pertussis",2551,15,216,2008,2025
+"Pneumonia",4228954,12306,216,2008,2025
+"Rubella",5153,0,216,2008,2025
+"Scarlet fever",28544,0,216,2008,2025
+"Scrub Typhus",135408,102,216,2008,2025
+"Streptococcus suis",5957,324,156,2013,2025
+"Syphilis",159408,19,216,2008,2025
+"Trichinosis",233,1,216,2008,2025
+"Typhoid",35445,1,216,2008,2025
+"Zika virus",2258,0,84,2019,2025

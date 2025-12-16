@@ -17,7 +17,7 @@ remove(list = ls())
 
 # source("./function/theme_set.R")
 
-load("./region.RData")
+load("./province.RData")
 
 # appendix map ------------------------------------------------------------
 

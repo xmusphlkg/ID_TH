@@ -24,6 +24,19 @@ remove(list = ls())
 
 load('./month.RData')
 
+
+# filter the total cases and deaths, with the year after 2008
+data_month |>
+     group_by(Disease) |>
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               Count = n(),
+               YearStart = min(Year),
+               YearEnd = max(Year),
+               .groups = 'drop') |> 
+     write.csv(file = "../Outcome/TotalCasesDeaths.csv",
+               row.names = F)
+
 # loading function
 source("./function/theme_set.R")
 
