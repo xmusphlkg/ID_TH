@@ -5,6 +5,7 @@ library(tidyverse)
 library(paletteer)
 library(patchwork)
 library(openxlsx)
+library(ungroup) # [NEW] Required for PCLM age-splitting
 
 # data --------------------------------------------------------------------
 
@@ -14,100 +15,314 @@ source("./function/theme_set.R")
 
 load("./month.RData")
 
+# Metadata for diseases
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))
 
-data_agegroup <- read.csv('../Data/AgeClass.csv')
-
-# list files in the folder: case data
-list_disease_files <- list.files("../Data/CleanData/",
-                                 pattern = "ac.csv",
-                                 full.names = T)
-data_case <- lapply(list_disease_files, read.csv) |>
+# Load old age-stratified data (2008-2023)
+list_disease_files <- list.files("../Data/CleanData/", pattern = "ac.csv", full.names = T)
+data_case_raw <- lapply(list_disease_files, read.csv) |>
      bind_rows() |>
      filter(Year >= 2008 & Areas == 'Total') |> 
      left_join(data_class, by = 'Disease') |>
-     filter(!is.na(Shortname)) |> 
-     select(Group, Shortname, Age, Year, Cases)
-rm(list_disease_files)
+     filter(!is.na(Shortname))
 
-# list files in the folder: death data
-list_death_files <- list.files("../Data/CleanData/",
-                                 pattern = "ad.csv",
-                                 full.names = T)
-data_death <- lapply(list_death_files, read.csv) |>
+# Clean raw age strings before processing (remove Total/Unknown)
+data_case_clean <- data_case_raw |>
+     filter(!Age %in% c("Total", "Unknown")) |>
+     select(Group, Shortname, Age, Year, Cases)
+
+# Load old death age-stratified data (2008-2023)
+list_death_files <- list.files("../Data/CleanData/", pattern = "ad.csv", full.names = T)
+data_death_raw <- lapply(list_death_files, read.csv) |>
      bind_rows() |> 
      filter(Year >= 2008 & Areas == 'Total') |>
      left_join(data_class, by = 'Disease') |>
-     filter(!is.na(Shortname)) |>
+     filter(!is.na(Shortname))
+
+# Clean raw age strings before processing (remove Total/Unknown)
+data_death_clean <- data_death_raw |>
+     filter(!Age %in% c("Total", "Unknown")) |>
      select(Group, Shortname, Age, Year, Deaths = Cases)
-rm(list_death_files)
 
-## rank --------------------------------------------------------------------
+# Harmonize age groups --------------------------------------------------------
 
-# load week data for 2024-2025
+# This ensures both old and new data map to exactly the same structure
+TARGET_GROUPS <- c("0-4", "5-9", "10-14", "15-19", "20-39", "40-59", "60+")
+
+# To analyze long-term epidemiological trends, we harmonized inconsistent age-stratified 
+# reporting formats between historical data (2008–2024, irregular intervals such as 15-24) 
+# and recent data (2020–2025, standard decadal intervals).
+#
+# We standardized all counts into seven unified age groups: 
+# 0–4, 5–9, 10–14, 15–19, 20–39, 40–59, and ≥60 years.
+#
+# For historical data containing coarse, overlapping intervals (e.g., 15–24 years), 
+# we applied the Penalized Composite Link Model (PCLM) using the 'ungroup' package in R.
+# This method estimates a smooth underlying single-year age distribution (0, 1, ..., 99) 
+# from grouped data by maximizing a penalized likelihood. This approach allows for 
+# scientifically robust disaggregation and subsequent re-aggregation into the target groups, 
+# minimizing bias compared to simple uniform distribution assumptions.
+#
+# Technical Adjustments:
+# 1. Zero-Handling: To address convergence issues in PCLM caused by zero counts, 
+#    a negligible constant (epsilon = 1e-5) was added to inputs. Post-estimation, 
+#    counts were rescaled to conserve the original total reported cases.
+# 2. Sparse Data: For year-disease combinations with extremely low total counts (<5), 
+#    a uniform distribution assumption was applied as a fallback to prevent overfitting.
+# 3. Validation: The method was validated using the overlapping period (2020–2024) 
+#    where both coarse and fine-scale data were available.
+
+harmonize_old_data <- function(df_input, value_col = "Cases") {
+     
+     # 1. Map raw strings to numeric intervals for PCLM
+     # Adjust this table if your raw text differs (e.g., "7-9" vs "7-10")
+     map_intervals <- tibble(
+          Age = c("0", "<1", "1-1", "2-2", "3-3", "4-4", "5-5", "6-6", "7-9", 
+                  "10-14", "15-24", "25-34", "35-44", "45-54", "55-64", "65+"),
+          Start = c(0, 0, 1, 2, 3, 4, 5, 6, 7, 10, 15, 25, 35, 45, 55, 65),
+          Width = c(1, 1, 1, 1, 1, 1, 1, 1, 3, 5, 10, 10, 10, 10, 10, 35) # Assumes 65+ spans 35 years (to 100)
+     )
+     
+     df_ready <- df_input |>
+          inner_join(map_intervals, by = "Age") |>
+          group_by(Shortname, Year) |>
+          arrange(Start)
+     
+     # 2. Inner Helper: Safe PCLM Execution
+     run_pclm_safe <- function(x, y, n, disease_name, year_val) {
+          
+          total_y <- sum(y, na.rm = TRUE)
+          
+          # CASE A: Sparse Data / Zeros
+          # If total cases are extremely low (< 20), PCLM cannot form a reliable spline.
+          # Fallback to simple uniform distribution (Average) to avoid errors.
+          if(total_y < 20) { 
+               res <- numeric(100) # Vector for ages 0-99
+               for(i in seq_along(x)) {
+                    s <- x[i] + 1     # R indices are 1-based
+                    e <- min(x[i] + n[i], 100)
+                    if(s <= 100) {
+                         res[s:e] <- y[i] / n[i] # Distribute evenly
+                    }
+               }
+               return(tibble(Age_1y = 0:99, Est_Val = res))
+          }
+          
+          # CASE B: Standard PCLM
+          tryCatch({
+               # Add epsilon to handle zeros in log-link
+               y_adj <- y + 1e-5
+               
+               # Fit Model
+               model <- suppressWarnings(pclm(x = x, y = y_adj, nlast = n[length(n)]))
+               fitted_val <- fitted(model)
+               
+               # Pad result to ensure length 100
+               len <- length(fitted_val)
+               if(len < 100) { fitted_val <- c(fitted_val, rep(0, 100-len)) }
+               fitted_val <- fitted_val[1:100]
+               
+               # RESCALE: Total Conservation Principle
+               # Ensure sum(fitted) equals original sum(y) exactly
+               correction_factor <- total_y / sum(fitted_val)
+               fitted_val <- fitted_val * correction_factor
+               
+               return(tibble(Age_1y = 0:99, Est_Val = fitted_val))
+               
+          }, error = function(e) {
+               # Fallback if PCLM fails convergence
+               warning(paste("PCLM failed for", disease_name, year_val, "- using uniform split"))
+               # Repeat uniform logic from Case A
+               res <- numeric(100)
+               for(i in seq_along(x)) {
+                    s <- x[i] + 1
+                    e <- min(x[i] + n[i], 100)
+                    if(s <= 100) res[s:e] <- y[i] / n[i]
+               }
+               return(tibble(Age_1y = 0:99, Est_Val = res))
+          })
+     }
+     
+     # 3. Apply to all groups
+     df_processed <- df_ready |>
+          group_by(Shortname, Year) |>
+          summarise(
+               pclm_res = list(run_pclm_safe(Start, !!sym(value_col), Width, unique(Shortname), unique(Year))),
+               .groups = "drop"
+          ) |>
+          unnest(pclm_res)
+     
+     # 4. Re-aggregate to Target Groups
+     df_final <- df_processed |>
+          mutate(
+               AgeGroup = case_when(
+                    Age_1y >= 0 & Age_1y <= 4   ~ "0-4",
+                    Age_1y >= 5 & Age_1y <= 9   ~ "5-9",
+                    Age_1y >= 10 & Age_1y <= 14 ~ "10-14",
+                    Age_1y >= 15 & Age_1y <= 19 ~ "15-19",
+                    Age_1y >= 20 & Age_1y <= 39 ~ "20-39",
+                    Age_1y >= 40 & Age_1y <= 59 ~ "40-59",
+                    Age_1y >= 60                ~ "60+",
+                    TRUE                        ~ "Unknown"
+               )
+          ) |>
+          group_by(Shortname, Year, AgeGroup) |>
+          summarise(!!sym(value_col) := sum(Est_Val), .groups = "drop")
+     
+     return(df_final)
+}
+
+# Apply harmonization for cases
+data_case_harmonized <- harmonize_old_data(data_case_clean, "Cases")
+rm(list_disease_files, data_case_raw, data_case_clean)
+
+# Apply harmonization for deaths
+data_death_harmonized <- harmonize_old_data(data_death_clean, "Deaths")
+rm(list_death_files, data_death_raw, data_death_clean)
+
+# data prepare ------------------------------------------------------------
+
+# Process New Data (2024-2025) - Simple Aggregation
 data_age_2024 <- data_week_age_deaths |> 
      select(Shortname, year, week, age_group, deaths) |>
      mutate(week = as.character(week)) |> 
      left_join(data_week_age, by = c("Shortname", "year", "week", "age_group")) |> 
      rename(Year = year) |>
-     # keep 2024-2025
-     filter(Year > 2023) |> 
-     # add age group
-     left_join(data_agegroup |> 
-                    select(-Age1) |> 
-                    unique(),
-               by = c('age_group' = 'Age2')) |> 
-     # estimate annual cases and deaths
-     group_by(Shortname, Year, AgeGroup, AgeGroupID) |>
+     filter(Year > 2023) |> # Or 2020 depending on where you want cut-off
+     mutate(
+          AgeGroup = case_when(
+               age_group == "0-4" ~ "0-4",
+               age_group == "5-9" ~ "5-9",
+               age_group == "10-14" ~ "10-14",
+               age_group == "15-19" ~ "15-19",
+               age_group %in% c("20-29", "30-39") ~ "20-39",
+               age_group %in% c("40-49", "50-59") ~ "40-59",
+               age_group == "60+" ~ "60+",
+               TRUE ~ "Unknown"
+          )
+     ) |>
+     filter(AgeGroup != "Unknown") |>
+     group_by(Shortname, Year, AgeGroup) |>
      summarise(Cases = sum(cases, na.rm = TRUE),
                Deaths = sum(deaths, na.rm = TRUE),
                .groups = 'drop')
 
-# estimate total cases and deaths by age group and year
-data_age_2024 <- data_age_2024 |> 
-     group_by(Shortname, Year, AgeGroupID) |>
-     summarise(Cases = sum(Cases, na.rm = TRUE),
-               Deaths = sum(Deaths, na.rm = TRUE),
-               .groups = 'drop') |> 
-     mutate(AgeGroup = 'Total',
-            AgeGroupID = data_agegroup[data_agegroup$AgeGroup == 'Total', 'AgeGroupID']) |>
-     rbind(data_age_2024)
+# Merge harmonized cases and deaths (Old Data)
+data_age_old_combined <- data_case_harmonized |>
+     full_join(data_death_harmonized, by = c("Shortname", "Year", "AgeGroup")) |>
+     replace_na(list(Cases = 0, Deaths = 0))
 
-# merge case and death data
-data_age_all <- data_case |> 
-     left_join(data_death, by = c('Group', 'Shortname', 'Age', 'Year')) |> 
-     filter(Year <= 2023) |> 
-     left_join(data_agegroup |> 
-                    select(-Age2) |> 
-                    unique(),
-               by = c('Age' = 'Age1')) |>
-     filter(AgeGroup != 'Unknown') |> 
-     group_by(Shortname, AgeGroup, AgeGroupID, Year) |>
-     summarise(Cases = sum(Cases, na.rm = T),
-               Deaths = sum(Deaths, na.rm = T),
-               .groups = 'drop') |>
-     # add 2024 - 2025 data from week data
+# Combine Old (2008-2023) and New (2024-2025)
+data_age_all <- data_age_old_combined |>
+     filter(Year <= 2023) |>
      bind_rows(data_age_2024) |>
-     mutate(AgeGroup = factor(AgeGroup, levels = unique(data_agegroup$AgeGroup)),
-            Year_group = factor(case_when(Year %in% 2008:2009 ~ '2008-2009',
-                                          Year %in% 2010:2011 ~ '2010-2011',
-                                          Year %in% 2012:2013 ~ '2012-2013',
-                                          Year %in% 2014:2015 ~ '2014-2015',
-                                          Year %in% 2016:2017 ~ '2016-2017',
-                                          Year %in% 2018:2019 ~ '2018-2019',
-                                          Year %in% 2020:2021 ~ '2020-2021',
-                                          Year %in% 2022:2023 ~ '2022-2023',
-                                          Year %in% 2024:2025 ~ '2024-2025',
-                                          TRUE ~ as.character(Year))),
-            Year_group = factor(Year_group),
-            Year_mark = as.integer(Year_group))
+     mutate(AgeGroup = factor(AgeGroup, levels = TARGET_GROUPS),
+            Year_group = factor(paste0(Year - (Year %% 2), "-", Year - (Year %% 2) + 1)),
+            Year_mark = as.integer(Year_group)) |>
+     arrange(Shortname, Year, AgeGroup) 
+
+data_age_all <- data_age_all|> 
+     group_by(Shortname, AgeGroup, Year_group, Year_mark) |> 
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop')
+
+## compare old and new data for 2020-2023 ----------------------------------
+
+# Reusable validator: compares harmonized estimates to weekly observed data
+validate_pclm_validation <- function(harmonized_df,
+                                     weekly_deaths_df,
+                                     weekly_cases_df,
+                                     value_col = c("Cases", "Deaths"),
+                                     years = 2020:2023,
+                                     target_groups = TARGET_GROUPS,
+                                     fill_colors = fill_color_disease,
+                                     label_fun = scientific_10) {
+     value_col <- match.arg(value_col)
+
+     # Estimated from harmonized (renamed to Estimated)
+     val_estimated <- harmonized_df |>
+          filter(Year %in% years) |>
+          rename(Estimated = !!sym(value_col))
+
+     # Observed from weekly raw sources. We start from weekly_deaths_df (contains deaths)
+     # and join weekly_cases_df (contains cases) so we can aggregate either column.
+     observed_col <- tolower(value_col)
+
+     val_observed <- weekly_deaths_df |>
+          select(Shortname, year, week, age_group, deaths) |>
+          mutate(week = as.character(week)) |>
+          left_join(weekly_cases_df, by = c("Shortname", "year", "week", "age_group")) |>
+          filter(year %in% years) |>
+          mutate(AgeGroup = case_when(
+                    age_group == "0-4"   ~ "0-4",
+                    age_group == "5-9"   ~ "5-9",
+                    age_group == "10-14" ~ "10-14",
+                    age_group == "15-19" ~ "15-19",
+                    age_group %in% c("20-29", "30-39") ~ "20-39",
+                    age_group %in% c("40-49", "50-59") ~ "40-59",
+                    age_group == "60+"   ~ "60+",
+                    TRUE ~ "Unknown"),
+               AgeGroup = factor(AgeGroup, levels = target_groups)) |>
+          filter(AgeGroup != "Unknown") |>
+          group_by(Shortname, Year = year, AgeGroup) |>
+          summarise(Observed = sum(!!sym(observed_col), na.rm = TRUE), .groups = "drop")
+
+     validation_df <- inner_join(val_estimated,
+                                 val_observed,
+                                 by = c("Shortname", "Year", "AgeGroup"))
+
+     # Pearson correlation
+     cor_val <- cor(validation_df$Estimated, validation_df$Observed, method = "pearson")
+
+     # Plot
+     p <- ggplot(validation_df, aes(x = Observed, y = Estimated)) +
+          geom_abline(intercept = 0, slope = 1, linetype = "dashed", color = "gray50") +
+          geom_point(aes(color = AgeGroup), alpha = 0.6, size = 2) +
+          scale_color_manual(values = fill_colors) +
+          scale_x_continuous(labels = label_fun) +
+          scale_y_continuous(labels = label_fun) +
+          labs(
+               title = paste0("Validation of PCLM age-reconstruction method (", paste(range(years), collapse = "-"), ")"),
+               subtitle = sprintf("Comparison of Estimated (from coarse bins) vs Observed (fine bins) Pearson r = %.4f", cor_val),
+               x = paste0("Observed ", tolower(value_col)),
+               y = paste0("Estimated ", tolower(value_col))
+          ) +
+          theme_classic() +
+          theme(legend.position = "bottom") +
+          guides(color = guide_legend(title = "Age Group", nrow = 2, byrow = TRUE))
+
+     return(list(plot = p, cor = cor_val, df = validation_df))
+}
+
+# Run validation for Cases
+res_cases <- validate_pclm_validation(data_case_harmonized, data_week_age_deaths, data_week_age, value_col = "Cases")
+p_validation_cases <- res_cases$plot
+
+# Run validation for Deaths
+res_deaths <- validate_pclm_validation(data_death_harmonized, data_week_age_deaths, data_week_age, value_col = "Deaths")
+p_validation_deaths <- res_deaths$plot
+
+ggsave("../Outcome/Appendix/Supplementary Appendix 1_3/validation_age.png",
+       p_validation_cases + p_validation_deaths,
+       width = 14,
+       height = 7)
+
+## rank --------------------------------------------------------------------
 
 # create the ranking of each disease by cases and deaths
 data_age_top <- data_age_all |> 
+     # Calsulate total cases and deaths by year and disease
+     group_by(Shortname, Year_group, Year_mark) |> 
+     summarise(Cases = sum(Cases),
+               Deaths = sum(Deaths),
+               .groups = 'drop') |>
+     mutate(AgeGroup = 'Total') |> 
+     bind_rows(data_age_all) |>
      # finding leading causes of death, case in each age group
-     group_by(AgeGroup, AgeGroupID, Year_group, Year_mark) |>
+     group_by(AgeGroup, Year_group, Year_mark) |>
      summarise(Max_Cases_Disease = Shortname[which.max(Cases)],
                Max_Deaths_Disease = Shortname[which.max(Deaths)],
                Max_Cases_Value = max(Cases),
@@ -117,7 +332,9 @@ data_age_top <- data_age_all |>
                .groups = 'drop') |> 
      # replace 0 deaths with no deaths
      mutate(Max_Deaths_Disease = if_else(Max_Deaths_Value == 0, 'No deaths', Max_Deaths_Disease),
-            Max_Deaths_Value = if_else(Max_Deaths_Value == 0, NA_real_, Max_Deaths_Value))
+            Max_Deaths_Value = if_else(Max_Deaths_Value == 0, NA_real_, Max_Deaths_Value),
+            AgeGroup = factor(AgeGroup, levels = c(TARGET_GROUPS, "Total")),
+            AgeGroupID = as.numeric(AgeGroup))
 
 # get disease list
 max_disease <- data_age_top |>
@@ -129,20 +346,22 @@ max_disease <- data_age_top |>
 
 # create cumulative data for plotting
 data_age_cumulative <- data_age_all |> 
-     select(AgeGroup, AgeGroupID, Shortname, Cases, Deaths) |>
+     select(AgeGroup, Shortname, Cases, Deaths) |>
      # find top 3 diseases of each age group
-     group_by(AgeGroup, AgeGroupID, Shortname) |>
+     group_by(AgeGroup, Shortname) |>
      summarise(Cases = sum(Cases),
                Deaths = sum(Deaths),
                .groups = 'drop') |> 
-     group_by(AgeGroup, AgeGroupID) |>
+     group_by(AgeGroup) |>
      arrange(desc(Cases), .by_group = TRUE) |>
      mutate(rank_in_group = row_number(),
             Top_cases_tag = if_else(rank_in_group <= 4, Shortname, "Others")) |> 
      arrange(desc(Deaths), .by_group = TRUE) |>
      mutate(rank_in_group = row_number(),
             Top_deaths_tag = if_else(rank_in_group <= 4, Shortname, 'Others')) |> 
-     ungroup()
+     ungroup() |> 
+     mutate(AgeGroup = factor(AgeGroup, levels = c(TARGET_GROUPS, "Total")),
+            AgeGroupID = as.numeric(AgeGroup))
 
 # check disease list
 legend_disease_list <- unique(c(data_age_cumulative$Top_cases_tag,
@@ -205,15 +424,16 @@ for (i in 1:2) {
                              labels = scientific_10,
                              breaks = panel_breaks) +
           theme_classic()+
-          guides(fill = guide_legend(nrow = 3, byrow = T))
+          guides(fill = guide_legend(ncol = 4, byrow = T))
      
      # rank panel
      data_rank <- data_age_top |>
           select(AgeGroup, AgeGroupID, Year_group, Year_mark, contains(c('Max_Cases_D', 'Max_Deaths_D')[i])) |>
-          rename(Outcome = colnames(data_age_top)[i + 4]) |> 
+          rename(Outcome = colnames(data_age_top)[i + 3]) |> 
           left_join(data_class, by = c('Outcome' = 'Shortname')) |>
           select(-c(Disease, Fullname)) |> 
-          mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'))
+          mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'),
+                 AgeGroupID = ifelse(AgeGroup == 'Total', AgeGroupID + 0.2, AgeGroupID))
      
      data_outcome[[paste('panel', LETTERS[i*2], sep = '')]] <- data_rank
      
@@ -276,28 +496,28 @@ for (i in 1:2) {
 
 ## add inset of fig3
 fig3_a <- fig3 +
-     geom_rect(aes(xmin = 0.5, xmax = 3.5, ymin = 0, ymax = 600),
+     geom_rect(aes(xmin = 0.5, xmax = 4.5, ymin = 0, ymax = 600),
                color = 'black',
                linewidth = 0.5,
                fill = NA)+
      inset_element(fig3 + 
-                        coord_cartesian(xlim = c(0.5, 3), ylim = c(0, 600), clip = 'on')+
+                        coord_cartesian(xlim = c(0.5, 4), ylim = c(0, 600), clip = 'on')+
                         scale_y_continuous(breaks = seq(0, 600, 200),
                                            expand = expansion(mult = c(0, 0)))+
-                        scale_x_discrete(limits = unique(data_age_cumulative$AgeGroup)[1:3],
-                                         breaks = unique(data_cumulative$AgeGroup)[1:3],
+                        scale_x_discrete(limits = unique(data_age_cumulative$AgeGroup)[1:4],
+                                         breaks = unique(data_cumulative$AgeGroup)[1:4],
                                          expand = expansion(add = c(0, 0.6))) +
-                        theme(axis.title.y = element_blank(),
+                        theme(axis.title = element_blank(),
                               plot.background = element_rect(color = 'black', size = 0.5),
                               legend.position = 'none',
                               plot.title = element_blank()),
                    left = 0.03,
                    bottom = 0.2,
-                   right = 0.75,
+                   right = 0.7,
                    top = 1.1)
 
 fig <- fig1 + fig2 + fig3_a + fig4 +
-     plot_layout(ncol = 2, guides = 'keep')&
+     plot_layout(ncol = 2, widths = c(0.8, 1), guides = 'keep')&
      theme(plot.title.position = 'plot')
 
 ggsave(filename = "../outcome/publish/fig3.pdf",

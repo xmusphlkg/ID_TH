@@ -168,17 +168,7 @@ plot_ranking <- function(main, aux, title, ribbon_txt = '', legend = TRUE) {
 # Pre-process Year Grouping
 df_all <- data_year |> 
      # Year Group
-     mutate(Year_group = factor(case_when(Year %in% 2008:2009 ~ '2008-2009',
-                                          Year %in% 2010:2011 ~ '2010-2011',
-                                          Year %in% 2012:2013 ~ '2012-2013',
-                                          Year %in% 2014:2015 ~ '2014-2015',
-                                          Year %in% 2016:2017 ~ '2016-2017',
-                                          Year %in% 2018:2019 ~ '2018-2019',
-                                          Year %in% 2020:2021 ~ '2020-2021',
-                                          Year %in% 2022:2023 ~ '2022-2023',
-                                          Year %in% 2024:2025 ~ '2024-2025',
-                                          TRUE ~ as.character(Year))))
-
+     mutate(Year_group = factor(paste0(Year - (Year %% 2), "-", Year - (Year %% 2) + 1)))
 
 # figure ------------------------------------------------------------------
 

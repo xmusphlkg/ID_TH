@@ -176,12 +176,12 @@ fig_mortality <- fig_mortality |>
 
 # save plot --------------------------------------------------------------
 
-ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/incidence.png",
+ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_4/incidence.png",
        plot = fig_incidence,
        width = 14,
        height = 13)
 
-ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_2/mortality.png",
+ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_4/mortality.png",
        plot = fig_mortality,
        width = 14,
        height = 13)
