@@ -94,5 +94,9 @@ data_outcome <- lapply(1:length(outcome), function(x) outcome[[x]]$outcome_data)
 
 data_outcome <- append(list(data_map), data_outcome)
 
+data_outcome <- append(data_outcome, list(data_recovery_visual))
+
+names(data_outcome) <- int2col(seq_along(data_outcome))
+
 write.xlsx(data_outcome,
            file = "../Outcome/Publish/figure_data/fig4.xlsx")
