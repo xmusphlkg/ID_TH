@@ -430,125 +430,136 @@ plot_single_panel <- function(i, outcome, titles, recovery = NULL, display_recov
 library(dplyr)
 library(lubridate)
 
-#' Calculate Comprehensive Recovery Metrics (Decoupled Logic)
-#'
-#' Allows Recovery Date to occur BEFORE Trough Date.
-#' This handles cases where trend recovers (e.g., to 95%) but deficit continues to grow (because < 100%).
+get_months <- function(start, end) {
+  if (is.na(start) || is.na(end)) return(NA_real_)
+  y_diff <- lubridate::year(end) - lubridate::year(start)
+  m_diff <- lubridate::month(end) - lubridate::month(start)
+  return(y_diff * 12 + m_diff)
+}
+
+
+#' Calculate Comprehensive Disease Dynamics Metrics (Restored Balance_Date)
 #'
 #' @param outcome_list List containing model results.
-#' @param start_date_calc Character or Date, start point for cumulative calculation.
-#' @param recovery_threshold Numeric, threshold for trend recovery (default 0.95).
+#' @param start_date_calc Start date for calculation.
+#' @param recovery_threshold Threshold for trend recovery.
 #'
-#' @return A tibble with decoupled Trough and Recovery analysis.
+#' @return A tibble with added Payback metrics.
 calculate_disease_metrics <- function(outcome_list, 
                                       start_date_calc = "2020-01-01",
                                       recovery_threshold = 0.95) {
-     
-     start_date_calc <- as.Date(start_date_calc)
-     
-     purrr::map_dfr(outcome_list, function(item) {
-          
-          # --- 1. Data Prep ---
-          od <- item$outcome_data
-          if (is.null(od) || nrow(od) == 0) return(NULL)
-          shortname <- unique(od$Shortname)[1]
-          
-          if (!all(c('date', 'value', 'median') %in% names(od))) {
-               warning(paste("Skipping", shortname, "- missing columns."))
-               return(NULL)
-          }
-          
-          # Filter and Calc Cumulative Diff
-          df_calc <- od %>%
-               filter(date >= start_date_calc) %>%
-               arrange(date) %>%
-               mutate(
-                    diff = value - median,
-                    cum_diff = cumsum(diff),
-                    # Define recovery status (Trend based)
-                    is_above_threshold = value >= median * recovery_threshold
-               )
-          
-          if (nrow(df_calc) == 0) return(NULL)
-          
-          # --- 2. Identify Trough (Max Deficit) ---
-          # The mathematical point where deficit stops growing
-          trough_idx <- which.min(df_calc$cum_diff)
-          trough_date <- df_calc$date[trough_idx]
-          max_deficit <- df_calc$cum_diff[trough_idx]
-          
-          # --- 3. Identify Recovery Date (INDEPENDENT SEARCH) ---
-          
-          # Logic: We want the first recovery *after* the pandemic impact started.
-          # Find the first time cum_diff dropped below 0 (impact start).
-          # If it never dropped below 0, impact never started.
-          
-          first_deficit_idx <- which(df_calc$cum_diff < 0)[1]
-          
-          if (is.na(first_deficit_idx)) {
-               # Case: No deficit ever occurred
-               recovery_date <- NA 
-               status <- "No Deficit"
-          } else {
-               # Search for recovery starting from the first moment of deficit
-               # We do NOT limit this search by the Trough Date anymore.
-               
-               df_search <- df_calc 
-               
-               # Calculate robust rolling flag for the whole period
-               df_search$is_robust_recovery <- zoo::rollapply(df_search$is_above_threshold, 
-                                                              width = 3, FUN = all, fill = FALSE, align = "left")
-               
-               # We strictly look for recovery dates that happen AFTER the first deficit began
-               # This prevents picking up "January 2020" as a recovery date.
-               valid_recovery_indices <- which(df_search$is_robust_recovery & 
-                                                    df_search$date >= df_calc$date[first_deficit_idx])
-               
-               if (length(valid_recovery_indices) > 0) {
-                    recovery_date <- df_search$date[valid_recovery_indices[1]]
-                    status <- "Recovered (Trend)"
-               } else {
-                    recovery_date <- NA
-                    status <- "Suppressed"
-               }
-          }
-          
-          # --- 4. Identify Balance Date (Strictly Post-Trough) ---
-          # Balance (Repayment) can only happen after the debt peaked.
-          
-          if (max_deficit >= 0) {
-               balance_date <- NA
-          } else {
-               df_post_trough <- df_calc[trough_idx:nrow(df_calc), ]
-               bal_idx <- which(df_post_trough$cum_diff >= 0)[1]
-               balance_date <- if (!is.na(bal_idx)) df_post_trough$date[bal_idx] else NA
-               
-               if (!is.na(balance_date)) status <- "Fully Repaid"
-          }
-          
-          # --- 5. Calculate Durations ---
-          # Using robust arithmetic year*12 + month
-          get_months_diff <- function(start, end) {
-               if (is.na(start) || is.na(end)) return(NA_real_)
-               y_diff <- lubridate::year(end) - lubridate::year(start)
-               m_diff <- lubridate::month(end) - lubridate::month(start)
-               return(y_diff * 12 + m_diff)
-          }
-          
-          months_to_rec <- get_months_diff(trough_date, recovery_date)
-          months_to_bal <- get_months_diff(trough_date, balance_date)
-          
-          # --- 6. Output ---
-          tibble(
-               Shortname = shortname,
-               Trough_Date = trough_date,
-               Recovery_Date = recovery_date,
-               Balance_Date = balance_date,
-               # Note: This can now be negative if trend recovers before deficit is maxed out
-               Months_Trough_to_Recovery = months_to_rec, 
-               Months_Trough_to_Balance = months_to_bal,
-               Max_Deficit = max_deficit,
-               Status = status
-          )
-     })
+  
+  start_date_calc <- as.Date(start_date_calc)
+  
+  purrr::map_dfr(outcome_list, function(item) {
+    
+    # --- 1. Data Prep ---
+    od <- item$outcome_data
+    if (is.null(od) || nrow(od) == 0) return(NULL)
+    shortname <- unique(od$Shortname)[1]
+    
+    # Check columns
+    if (!all(c('date', 'value', 'median') %in% names(od))) return(NULL)
+    
+    df_calc <- od %>%
+      filter(date >= start_date_calc) %>%
+      arrange(date) %>%
+      mutate(
+        diff = value - median,
+        cum_diff = cumsum(diff),
+        cum_median = cumsum(median),
+        is_recovered_trend = value >= median * recovery_threshold
+      )
+    
+    if (nrow(df_calc) == 0) return(NULL)
+    
+    # --- 2. Deficit & Trough ---
+    trough_idx <- which.min(df_calc$cum_diff)
+    trough_date <- df_calc$date[trough_idx]
+    max_deficit_raw <- df_calc$cum_diff[trough_idx]
+    
+    # Relative Deficit
+    cum_expected_at_trough <- df_calc$cum_median[trough_idx]
+    relative_deficit <- if (cum_expected_at_trough > 0) max_deficit_raw / cum_expected_at_trough else NA_real_
+    
+    # Start Deficit
+    first_drop_idx <- which(df_calc$cum_diff < 0)[1]
+    start_deficit_date <- if (!is.na(first_drop_idx)) df_calc$date[first_drop_idx] else NA
+    
+    # --- 3. Recovery (Trend) ---
+    recovery_date <- NA
+    status <- "No Deficit"
+    
+    if (!is.na(start_deficit_date) && max_deficit_raw < 0) {
+      df_search <- df_calc %>% filter(date >= start_deficit_date)
+      is_robust <- zoo::rollapply(df_search$is_recovered_trend, width = 3, FUN = all, fill = FALSE, align = "left")
+      rec_idx <- which(is_robust)[1]
+      
+      if (!is.na(rec_idx)) {
+        recovery_date <- df_search$date[rec_idx]
+        status <- "Recovered"
+      } else {
+        status <- "Suppressed"
+      }
+    }
+    
+    # --- 4. Balance Date (The "Payback" Moment) ---
+    # Logic: When does cum_diff cross back above 0 AFTER the trough?
+    balance_date <- NA
+    
+    if (!is.na(trough_date) && max_deficit_raw < 0) {
+      # Only search after the trough (we must pay back debt)
+      df_post_trough <- df_calc %>% filter(date > trough_date)
+      
+      # Find first time cum_diff >= 0
+      bal_idx <- which(df_post_trough$cum_diff >= 0)[1]
+      
+      if (!is.na(bal_idx)) {
+        balance_date <- df_post_trough$date[bal_idx]
+        status <- "Debt Repaid" # Update status if they actually paid it back
+      }
+    }
+    
+    # --- 5. Rebound Intensity ---
+    rebound_intensity <- NA
+    if (!is.na(trough_date) && max_deficit_raw < 0) {
+      df_post_trough <- df_calc %>% filter(date >= trough_date)
+      if (nrow(df_post_trough) > 0) {
+        rebound_intensity <- max(df_post_trough$value / (df_post_trough$median + 1), na.rm = TRUE)
+      }
+    }
+    
+    # --- 6. Durations ---
+    suppression_months <- get_months(start_deficit_date, recovery_date)
+    
+    # Payback Months: From Trough (lowest point) to Balance (zero point)
+    payback_months <- get_months(trough_date, balance_date)
+    
+    # Handle suppressed case duration
+    if (status == "Suppressed" && !is.na(start_deficit_date)) {
+      suppression_months <- get_months(start_deficit_date, max(df_calc$date))
+    }
+
+    tibble(
+      Shortname = shortname,
+      Group = unique(item$info$Group),
+      
+      # Timeline
+      Date_Start_Deficit = start_deficit_date,
+      Date_Trough = trough_date,
+      Date_Recovery = recovery_date,
+      Date_Balance = balance_date, # NEW
+      
+      # Metrics
+      Max_Deficit_Raw = max_deficit_raw,
+      Relative_Deficit = relative_deficit,
+      Rebound_Intensity = rebound_intensity,
+      
+      # Durations
+      Suppression_Months = suppression_months,
+      Payback_Months = payback_months, # NEW
+      
+      Status = status
+    )
+  })
 }

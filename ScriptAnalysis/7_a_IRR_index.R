@@ -66,7 +66,7 @@ plot_group_panel <- function(g){
                 plot.title = element_text(size = 14, hjust = 0, vjust = 0.5, face = "bold"),
                 plot.title.position = "plot") +
           guides(fill = guide_colourbar(barwidth = 1, barheight = 13, title.position = "top")) +
-          labs(x = NULL,
+          labs(x = 'Date',
                y = NULL,
                fill = "IRR",
                title = paste0(LETTERS[g], ": ", disease_groups_select[g]))
@@ -181,6 +181,14 @@ peak_shift_table <- df_monthly_pattern |>
 i <- 1
 
 # 4. Visualization: Radar Chart (Polar Coordinates)
+
+# Rainy season data
+plot_rainy <- data.frame(month = 1:13,
+                         ymin = 0,
+                         ymax = 1) |> 
+     mutate(season = case_when(month %in% 5:10 ~ "Rainy season",
+                               TRUE ~ "Dry season"))
+
 plot_seasonality <- function(i) {
      # Select diseases for the current group
      disease_names <- data_class[i, "Shortname"]
@@ -200,6 +208,13 @@ plot_seasonality <- function(i) {
      
      # Create plot
      fig_radar <- ggplot(plot_data, aes(x = month, y = norm_value, color = Period, fill = Period)) +
+          # add rainy season shading
+          geom_ribbon(data = plot_rainy, aes(x = month, ymin = ymin, ymax = ymax, fill = season),
+                      inherit.aes = FALSE) +
+          scale_fill_manual(values = c("Rainy season" = "lightblue", "Dry season" = "lightyellow"),
+                            name = 'Season') +
+          new_scale_fill() +
+          # add lines and area
           geom_area(position = "identity", alpha = 0.1, linewidth = 0.5) + 
           # add points at peak months
           geom_point(data = plot_table, aes(x = peak_month, y = norm_value),
@@ -252,8 +267,16 @@ ggsave("../Outcome/Publish/fig5_b.png",
        limitsize = FALSE,
        width = 14, height = 11)
 
+data_save_disease <- df_monthly_pattern |> 
+     select(Shortname, Period, month, avg_value, norm_value) |> 
+     mutate(Shortname = factor(Shortname, levels = data_class$Shortname)) |>
+     arrange(Shortname, Period, month) |> 
+     group_split(Shortname)
+
 data_save <- append(data_save,
                     data_save_disease)
+
+names(data_save) <- int2col(seq_along(data_save))
 
 write.xlsx(as.list(data_save),
            file = "../Outcome/Publish/figure_data/fig5.xlsx")
