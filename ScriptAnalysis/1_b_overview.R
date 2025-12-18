@@ -81,7 +81,10 @@ data_month_total <- data_month |>
             .after = Year)
 
 data_year <- data_year |>
-     select(Year, Disease = Shortname, Group, Cases, Deaths, Incidence, Mortality)
+     select(Year, Disease = Shortname, Group, Cases, Deaths, Incidence, Mortality) |> 
+     group_by(Disease, Group) |>
+     complete(Year = seq(min(Year), max(Year)),
+              fill = list(Cases = 0, Deaths = 0, Incidence = 0, Mortality = 0))
 
 ## joinpoint model ----------------------------------------------------
 # Using yearly data for joinpoint analysis to find the optimal number of joinpoints
@@ -369,7 +372,7 @@ fig1 <- ggplot(data = fig1_data)+
      theme_bw() +
      theme(legend.position = 'none',
            panel.grid = element_blank()) +
-     labs(y = "Monthly incidence rate",
+     labs(y = "Monthly incidence (per 100,000)",
           x = 'Date',
           title = 'A')
 
@@ -414,7 +417,7 @@ fig2 <- ggplot(data = fig2_data)+
            legend.position.inside = c(0.99, 0.99),
            legend.justification = c(1, 1),
            panel.grid = element_blank()) +
-     labs(y = "Monthly mortality rate",
+     labs(y = "Monthly mortality (per 100,000)",
           x = 'Date',
           color = 'Rate (per 100,000)',
           fill = "APC (%)",
@@ -565,10 +568,7 @@ fig5_a <- fig5_data |>
 
 fig6_data <- data_heat |> 
      ungroup() |> 
-     select(Disease, Year, Incidence, Incidence_normal) |> 
-     complete(Disease = unique(fig5_data$Disease),
-              Year = seq(min(Year), max(Year)),
-              fill = list(Incidence = NA, Incidence_normal = NA))
+     select(Disease, Year, Incidence, Incidence_normal)
 
 plot_breaks_6 <- pretty(fig6_data$Incidence_normal, n = 4)
 
@@ -653,10 +653,7 @@ fig8_a <- fig8_data |>
 
 fig7_data <- data_heat |> 
      ungroup() |>
-     select(Disease, Year, Mortality, Mortality_normal) |> 
-     complete(Disease = unique(fig8_data$Disease),
-              Year = seq(min(Year), max(Year)),
-              fill = list(Mortality = NA, Mortality_normal = NA))
+     select(Disease, Year, Mortality, Mortality_normal)
 
 plot_breaks_7 <- pretty(fig7_data$Mortality_normal, n = 4)
 
@@ -687,9 +684,9 @@ fig7 <- ggplot(data = fig7_data)+
 # connection --------------------------------------------------------------
 
 data_connect <- fig5_data |> 
-     mutate(cases_rank = rank(TotalCases, ties.method = 'first')) |>
+     mutate(cases_rank = rank(TotalCases, ties.method = 'last')) |>
      left_join(fig8_data |>
-                    mutate(deaths_rank = rank(TotalDeaths, ties.method = 'first')),
+                    mutate(deaths_rank = rank(TotalDeaths, ties.method = 'last')),
                by = c('Disease', 'Group')) |> 
      select(Disease, Group, cases_rank, deaths_rank) |> 
      mutate(x_start = 1.7,
