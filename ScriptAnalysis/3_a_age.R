@@ -355,10 +355,10 @@ data_age_cumulative <- data_age_all |>
      group_by(AgeGroup) |>
      arrange(desc(Cases), .by_group = TRUE) |>
      mutate(rank_in_group = row_number(),
-            Top_cases_tag = if_else(rank_in_group <= 4, Shortname, "Others")) |> 
+            Top_cases_tag = if_else(rank_in_group <= 3, Shortname, "Others")) |> 
      arrange(desc(Deaths), .by_group = TRUE) |>
      mutate(rank_in_group = row_number(),
-            Top_deaths_tag = if_else(rank_in_group <= 4, Shortname, 'Others')) |> 
+            Top_deaths_tag = if_else(rank_in_group <= 3, Shortname, 'Others')) |> 
      ungroup() |> 
      mutate(AgeGroup = factor(AgeGroup, levels = c(TARGET_GROUPS, "Total")),
             AgeGroupID = as.numeric(AgeGroup))
