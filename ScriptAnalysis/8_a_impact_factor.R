@@ -323,3 +323,13 @@ ggsave("../Outcome/Publish/fig6.png",
        final_plot,
        limitsize = FALSE,
        width = 14, height = 14)
+
+outcome <- list('panel A' = data_fig1,
+                'panel B' = data_fig1,
+                'panel C' = data_fig3,
+                'panel D' = data_fig4,
+                'panel E' = data_fig5,
+                'panel F' = data_fig6)
+
+write.xlsx(outcome,
+           file = '../Outcome/Publish/figure_data/fig6.xlsx')

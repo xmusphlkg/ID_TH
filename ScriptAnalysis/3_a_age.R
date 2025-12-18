@@ -18,7 +18,7 @@ load("./temp/month.RData")
 # Metadata for diseases
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
-     select(-c(Cases, Count, Including, Label))
+     select(Disease, Fullname, Shortname, Group) 
 
 # Load old age-stratified data (2008-2023)
 list_disease_files <- list.files("../Data/CleanData/", pattern = "ac.csv", full.names = T)

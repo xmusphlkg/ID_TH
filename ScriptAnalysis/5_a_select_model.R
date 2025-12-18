@@ -32,7 +32,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      filter(Including == 1 & Forecasting == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Forecasting, Label)) 
+     select(Disease, Fullname, Shortname, Group) 
 
 # Define three cross-validation splits (train ranges and corresponding test ranges)
 cv_splits <- list(

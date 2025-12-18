@@ -1,4 +1,38 @@
 
+library(tidyverse)
+library(lubridate)
+library(openxlsx)
+library(patchwork)
+library(parallel)
+library(nih.joinpoint)
+library(patchwork)
+library(future)
+library(ggbump)
+library(ungroup)
+library(ggnewscale)
+library(cowplot)
+library(sf)
+library(biscale)
+library(ggthemes)
+
+
+library(stats)
+library(tseries)
+library(astsa)
+library(forecast)
+library(forecastHybrid)
+library(caret)
+library(bsts)
+library(Cairo)
+library(ggpubr)
+library(doParallel)
+
+library(ggh4x)
+library(ggrepel)
+library(broom)
+library(factoextra)
+
+
 cat("Start data transformation...\n")
 source('./0_b_population.R')
 

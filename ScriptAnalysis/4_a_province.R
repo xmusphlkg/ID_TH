@@ -21,7 +21,7 @@ load("./temp/month.RData")
 
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
-     select(-c(Cases, Count, Including, Label))
+     select(Disease, Fullname, Shortname, Group) 
 
 ## R506 --------------------------------------------------------
 

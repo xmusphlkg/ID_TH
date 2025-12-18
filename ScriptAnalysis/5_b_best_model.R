@@ -21,7 +21,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      filter(Including == 1 & Forecasting == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Forecasting, Label)) |> 
+     select(Disease, Fullname, Shortname, Group) |> 
      # add group for each 7 disease
      mutate(Group_panel = ceiling(row_number() / 6),
             id = row_number())

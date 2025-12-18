@@ -17,7 +17,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      filter(Including == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Label, Forecasting, Note)) 
+     select(Disease, Fullname, Shortname, Group) 
 
 # list files in the folder: region data
 list_disease_files <- list.files("../Data/CleanData/",

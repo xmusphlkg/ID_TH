@@ -19,6 +19,10 @@ remove(list = ls())
 
 load("./temp/province.RData")
 
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1) |> 
+     select(Disease, Fullname, Shortname, Group) 
+
 # appendix map ------------------------------------------------------------
 
 plot_map_year <- function(data_region_d, data_map, y, breaks_incidence, breaks_mortality) {
