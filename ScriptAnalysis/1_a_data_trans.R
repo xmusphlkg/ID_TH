@@ -5,6 +5,7 @@ library(tidyverse)
 library(lubridate)
 library(openxlsx)
 library(patchwork)
+library(parallel)
 
 # basic data --------------------------------------------------------------
 
@@ -301,19 +302,42 @@ reconstruct_one <- function(df_week, week_map) {
 
 # reconstruct all diseases and years
 reconstruct_all <- function(data_week, week_map) {
+     # Parallel implementation using base `parallel` (works on Windows)
      data_week <- data_week |> 
           mutate(week = as.integer(week), year = as.integer(year))
      groups <- data_week |> 
           group_by(Shortname, year) |> 
           group_split()
-     
-     out <- purrr::map_dfr(groups, ~{
-          df <- .x
-          tryCatch(reconstruct_one(df, week_map), error = function(e) {
+
+     # compute number of processes based on distinct diseases and max_proces
+     disease_name <- unique(data_week$Shortname)
+     number_process <- ifelse(length(disease_name) >= max_proces,
+                              max_proces,
+                              length(disease_name))
+     number_process <- max(1, as.integer(number_process))
+
+     # create cluster and export necessary objects/functions
+     cl <- parallel::makeCluster(number_process)
+
+     # export local variables and functions
+     week_map_local <- week_map
+     parallel::clusterExport(cl, varlist = c('reconstruct_one', 'week_map_local', 'data_date_seq'), envir = environment())
+     parallel::clusterEvalQ(cl, {
+          library(dplyr)
+          library(lubridate)
+          NULL
+     })
+
+     res_list <- parallel::parLapply(cl, groups, function(df) {
+          tryCatch(reconstruct_one(df, week_map_local), error = function(e) {
                warning(sprintf("failed reconstruct %s %s: %s", unique(df$Shortname), unique(df$year), e$message))
                NULL
           })
      })
+
+     parallel::stopCluster(cl)
+
+     out <- dplyr::bind_rows(res_list)
      out
 }
 
