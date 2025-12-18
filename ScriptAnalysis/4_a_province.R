@@ -17,7 +17,7 @@ remove(list = ls())
 
 # source("./function/theme_set.R")
 
-load("./month.RData")
+load("./temp/month.RData")
 
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
@@ -62,7 +62,7 @@ which(!unique(data_region$Areas) %in% unique(data_map$NAME_1))
 
 disease_name <- data_class$Shortname
 
-save.image(file = "./province.RData")
+save.image(file = "./temp/province.RData")
 
 data_region_leading <- data_region |>
      mutate(Year_group = as.character(Year),

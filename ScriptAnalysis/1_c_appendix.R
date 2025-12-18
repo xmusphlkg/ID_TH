@@ -14,7 +14,7 @@ remove(list = ls())
 
 source("./function/theme_set.R")
 
-load("./month.RData")
+load("./temp/month.RData")
 
 data_group <- data_month |>
      group_by(Date, Group) |>

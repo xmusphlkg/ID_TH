@@ -12,7 +12,7 @@ remove(list = ls())
 
 source("./function/theme_set.R")
 
-load("./month.RData")
+load("./temp/month.RData")
 
 arrow_space <- 0.38
 names(fill_color) <- disease_groups

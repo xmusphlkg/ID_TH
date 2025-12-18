@@ -25,7 +25,7 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load('./month.RData')
+load('./temp/month.RData')
 
 data_class <- openxlsx::read.xlsx("../Outcome/Appendix/Best_model_outcome.xlsx") |>
      filter(Best == 1) |>

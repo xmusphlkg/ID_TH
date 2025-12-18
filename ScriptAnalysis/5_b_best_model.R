@@ -14,7 +14,7 @@ source("./function/forecast.R")
 
 # data --------------------------------------------------------------------
 
-load('./month.RData')
+load('./temp/month.RData')
 
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
@@ -181,4 +181,4 @@ fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect')&
            legend.direction = "horizontal",
            legend.box = 'vertical')
 
-save(fig1, data_class, data_map, file = './best_model_figure.RData')
+save(fig1, data_class, data_map, file = './temp/best_model_figure.RData')

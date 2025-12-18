@@ -13,7 +13,7 @@ remove(list = ls())
 
 source("./function/theme_set.R")
 
-load("./month.RData")
+load("./temp/month.RData")
 
 # Metadata for diseases
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 

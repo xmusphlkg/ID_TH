@@ -19,3 +19,16 @@ source('./5_a_select_model.R')
 
 cat("Start part 6: forecasting best model...\n")
 source('./6_a_forecast.R')
+
+cat("Start part 7: figure 5 visualization...\n")
+source('./7_a_IRR_index.R')
+
+cat("Start part 8: figure 6 visualization...\n")
+source('./8_a_impact_factor.R')
+
+cat("Start creating appendix...\n")
+
+reticulate::source_python('./9_a_create_appendix.py')
+reticulate::source_python('./9_b_create_appendix.py')
+reticulate::source_python('./9_c_create_appendix.py')
+reticulate::source_python('./9_d_merge_appendix.py')

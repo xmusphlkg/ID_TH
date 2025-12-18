@@ -17,8 +17,8 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load('./month.RData')
-load('./outcome.RData')
+load('./temp/month.RData')
+load('./temp/outcome.RData')
 
 # load predict dataset
 data_predict <- read.xlsx('../Data/TotalCasesDeaths.xlsx', sheet = 'Predictors') |> 
@@ -234,6 +234,7 @@ fig5 <- ggplot(data_fig5, aes(x = Suppression_Months, y = Rebound_Intensity)) +
      ) +
      theme_bw()+
      theme(panel.grid = element_blank(),
+           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
            plot.margin = margin(5, 10, 5, 5),
            legend.position = "inside",
            legend.box = "vertical",
@@ -282,11 +283,12 @@ fig6 <- ggplot(data_fig6, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
      scale_color_manual(values = fill_color) +
      scale_fill_brewer(palette = "Dark2") +
      labs(title = "F",
-          x = "Immunity deficit (relative %)",
-          y = "Explosiveness (rebound intensity)") +
+          x = "Magnitude of suppression (%)",
+          y = "Rebound intensity") +
      theme_bw() +
      theme(legend.position = "inside",
            plot.margin = margin(5, 10, 5, 5),
+           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
            legend.box = "horizontal",
            legend.direction = "horizontal",
            legend.position.inside = c(0.01, 0.99),
@@ -299,7 +301,8 @@ final_plot <- cowplot::plot_grid(
      fig3 + fig4 +
           plot_layout(ncol = 2, widths = c(1, 1.5), byrow = T, guides = 'collect') &
           theme(legend.position = 'bottom',
-                legend.title.position = 'top'),
+                legend.title.position = 'top',
+                plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
      cowplot::plot_grid(fig5, fig6,
                         ncol = 2,
                         labels = NULL),

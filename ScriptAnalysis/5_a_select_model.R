@@ -25,7 +25,7 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load("./month.RData")
+load("./temp/month.RData")
 
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 

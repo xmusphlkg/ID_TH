@@ -15,9 +15,9 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load('./month.RData')
-load('./outcome.RData')
-load('./best_model_figure.RData')
+load('./temp/month.RData')
+load('./temp/outcome.RData')
+load('./temp/best_model_figure.RData')
 
 data_class <- data_class |> 
      mutate(label = paste0(int2col(id + 1), ": ", Shortname))

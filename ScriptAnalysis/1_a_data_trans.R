@@ -723,4 +723,4 @@ data_year <- data_year_1 |>
 save(data_month, data_year,
      data_week_age, data_week_location,
      data_week_age_deaths, data_week_location_deaths,
-     data_class, data_population, file = "./month.RData")
+     data_class, data_population, file = "./temp/month.RData")

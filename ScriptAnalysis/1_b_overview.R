@@ -22,7 +22,7 @@ plan(sequential)
 
 remove(list = ls())
 
-load('./month.RData')
+load('./temp/month.RData')
 
 
 # filter the total cases and deaths, with the year after 2008
