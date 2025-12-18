@@ -17,7 +17,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      filter(Including == 1)|> 
      mutate(Group = factor(Group, levels = disease_groups)) |> 
      arrange(Group, desc(Cases)) |> 
-     select(-c(Cases, Count, Including, Label, Forecasting, Note)) 
+     select(Disease, Fullname, Shortname, Group) 
 
 # read population data
 data_population <- read.xlsx('../Data/Population/1992-2023.xlsx', sheet = 'wpp') |> 
@@ -73,6 +73,7 @@ data_month <- data_all_mcd |>
             Group = factor(Group, levels = disease_groups),
             Disease = Shortname,
             Date = as.Date(paste(Year, Month, "01", sep = "-"))) |> 
+     select(Year, Month, Date, Disease, Shortname, Group, Type, Count) |>
      pivot_wider(names_from = Type, values_from = Count, values_fill = 0) |>
      ungroup() |> 
      arrange(Date, Disease)
