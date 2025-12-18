@@ -103,8 +103,8 @@ data_year_total <- data_year |>
      arrange(Year) |> 
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
-     mutate(Incidence = (Cases / Population) * 1e7,
-            Mortality = (Deaths / Population) * 1e7,
+     mutate(Incidence = (Cases / Population) * 1e5,
+            Mortality = (Deaths / Population) * 1e5,
             CFR = (Deaths / Cases) * 1000)
 
 tasks <- list(

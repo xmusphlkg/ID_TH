@@ -682,8 +682,8 @@ data_month <- data_month |>
             Deaths = if_else(Year %in% c(2024, 2025) & !is.na(Deaths_recon),
                              Deaths_recon, Deaths),
             Deaths = if_else(is.na(Deaths), 0, Deaths),
-            Incidence = (Cases / Population) * 1e7,
-            Mortality = (Deaths / Population) * 1e7,
+            Incidence = (Cases / Population) * 1e5,
+            Mortality = (Deaths / Population) * 1e5,
             Date = as.Date(paste(Year, Month, "01", sep = "-"))) |>
      select(-Cases_recon, -Deaths_recon) |> 
      left_join(data_class, by = 'Shortname')
@@ -696,8 +696,8 @@ data_year_1 <- data_month |>
      summarize(Cases = sum(Cases, na.rm = TRUE),
                Deaths = sum(Deaths, na.rm = TRUE),
                Population = first(Population),
-               Incidence = (Cases / Population) * 1e7,
-               Mortality = (Deaths / Population) * 1e7,
+               Incidence = (Cases / Population) * 1e5,
+               Mortality = (Deaths / Population) * 1e5,
                .groups = 'drop')
 
 # check the yearly data consistency

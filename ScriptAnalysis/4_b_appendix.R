@@ -106,7 +106,7 @@ plot_map <- function(d, data_region, data_map) {
      
      # save the plot
      ggsave(
-          filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_2/", d, ".png"),
+          filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_4/", d, ".png"),
           fig,
           device = "png",
           width = 14, height = 13,
