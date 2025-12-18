@@ -10,9 +10,14 @@ library(openxlsx)
 
 remove(list = ls())
 
-data_class <- read.csv("../Data/DiseaseClass.csv") |> 
-     filter(Including == 1) |> 
-     select(-c(Cases, Count, Including, Label))
+source('./function/theme_set.R')
+
+# read disease class data
+data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
+     filter(Including == 1)|> 
+     mutate(Group = factor(Group, levels = disease_groups)) |> 
+     arrange(Group, desc(Cases)) |> 
+     select(-c(Cases, Count, Including, Label, Forecasting, Note)) 
 
 # list files in the folder: region data
 list_disease_files <- list.files("../Data/CleanData/",

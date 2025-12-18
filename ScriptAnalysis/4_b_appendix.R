@@ -21,9 +21,9 @@ load("./temp/province.RData")
 
 # appendix map ------------------------------------------------------------
 
-plot_map_year <- function(d, data_region, data_map, y, breaks_incidence, breaks_mortality) {
+plot_map_year <- function(data_region_d, data_map, y, breaks_incidence, breaks_mortality) {
      data <- sp::merge(data_map, data_region |>
-                            filter(Year == y & Shortname == d) |>
+                            filter(Year == y) |>
                             select(Areas, Incidence, Mortality),
                        by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
           # add class based on the breaks
@@ -44,9 +44,10 @@ plot_map_year <- function(d, data_region, data_map, y, breaks_incidence, breaks_
 plot_map <- function(d, data_region, data_map) {
      # d <- 'Chickenpox'
      # check all incidence values are zero
-     breaks_incidence <- data_region |>
-          filter(Shortname == d) |>
-          pull(Incidence)
+     data_region_d <- data_region |>
+          filter(Shortname == d)
+     
+     breaks_incidence <- data_region_d$Incidence
      
      if(all(breaks_incidence == 0)) {
           breaks_incidence <- c(0, 1, 2, 3, 4)
@@ -92,10 +93,11 @@ plot_map <- function(d, data_region, data_map) {
                 plot.background = element_rect(fill = "transparent"),
                 panel.background = element_rect(fill = "transparent"))
      
-     fig <- lapply(sort(unique(data_region$Year)), plot_map_year,
-                   data_region = data_region,
+     year_select <- sort(unique(data_region_d$Year))
+     
+     fig <- lapply(year_select, plot_map_year,
+                   data_region_d = data_region_d,
                    data_map = data_map,
-                   d = d,
                    breaks_incidence = breaks_incidence,
                    breaks_mortality = breaks_mortality)
      
@@ -109,7 +111,7 @@ plot_map <- function(d, data_region, data_map) {
           filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_4/", d, ".png"),
           fig,
           device = "png",
-          width = 14, height = 13,
+          width = 14, height = ceiling((length(year_select)+1)/6)*5,
           limitsize = FALSE,
           dpi = 300
      )

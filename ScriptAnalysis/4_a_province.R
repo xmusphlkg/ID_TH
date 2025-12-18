@@ -146,7 +146,7 @@ which(!unique(data_region$Areas) %in% unique(data_map$NAME_1))
 
 disease_name <- data_class$Shortname
 
-save.image(file = "./temp/province.RData")
+save(data_map, data_region, file = "./temp/province.RData")
 
 data_region_leading <- data_region |>
      mutate(Year_group = as.character(Year),
@@ -206,8 +206,8 @@ data_region_leading <- data_region_leading |>
 
 plot_map_group <- function(index, data_region_leading, data_map, year_group, y) {
      
-     y <- 18
-     index <- 'Max_Incidence_Disease'
+     # y <- 18
+     # index <- 'Max_Incidence_Disease'
      
      data <- sp::merge(data_map, data_region_leading |>
                             filter(Year_group == year_group[y] & Type == index) |>

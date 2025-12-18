@@ -1,5 +1,7 @@
 
 cat("Start data transformation...\n")
+source('./0_b_population.R')
+
 source('./1_a_data_trans.R')
 
 cat("Start part 1: overview...\n")
@@ -28,7 +30,7 @@ source('./8_a_impact_factor.R')
 
 cat("Start creating appendix...\n")
 
-reticulate::source_python('./9_a_create_appendix.py')
-reticulate::source_python('./9_b_create_appendix.py')
-reticulate::source_python('./9_c_create_appendix.py')
-reticulate::source_python('./9_d_merge_appendix.py')
+# reticulate::source_python('./9_a_create_appendix.py')
+# reticulate::source_python('./9_b_create_appendix.py')
+# reticulate::source_python('./9_c_create_appendix.py')
+# reticulate::source_python('./9_d_merge_appendix.py')
