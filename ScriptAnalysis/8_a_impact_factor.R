@@ -7,6 +7,7 @@ library(patchwork)
 library(ggrepel)
 library(broom)
 library(factoextra)
+library(openxlsx)
 
 # data --------------------------------------------------------------------
 
@@ -27,11 +28,16 @@ data_predict <- read.xlsx('../Data/TotalCasesDeaths.xlsx', sheet = 'Predictors')
                                 is.na(R0_mean) & R0_refer == 'Uncertain' ~ NA_real_,
                                 TRUE ~ R0_mean),
             Vaccine = factor(Vaccine, levels = c("Unavaliable", "Optional", "EPI")),
+            Immune_protection = factor(Immune_protection, levels = c("None", "Short-term", "Long-term")),
             Group = factor(Group, levels = c("Respiratory IDs", "Gastrointestinal IDs", "Sexually IDs", "Vector-borne and zoonotic IDs"))) |> 
-     select(Shortname, R0_mean, Vaccine, Group, Incubation_period)
+     select(Shortname, R0_mean, Vaccine, Group, Incubation_period, Immune_protection)
 
 # estimate Rebound Metrics
 df_metrics <- calculate_disease_metrics(outcome)
+
+# correct CA to CA (HPV)
+df_metrics <- df_metrics |> 
+     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname))
 
 # Merge everything into a Master Analysis Dataframe
 df_analysis <- df_metrics |>
@@ -39,6 +45,8 @@ df_analysis <- df_metrics |>
 
 # Clean data class
 data_class <- data_class |> 
+     # correct CA to CA (HPV)
+     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname)) |>
      filter(Shortname %in% df_analysis$Shortname)
 
 # The Landscape of Immunity Deficit ----------------------------------------
@@ -144,27 +152,34 @@ m_incub <- run_cox(Surv(time, status_binary) ~ Incubation_period,
                    data_cox |> filter(!is.na(Incubation_period)), 
                    "Incubation Period")
 
+# Model E: Immune protection
+m_immune <- run_cox(Surv(time, status_binary) ~ Immune_protection,
+                    data_cox |> filter(!is.na(Immune_protection)),
+                    "Immune protection")
+
 # combine results
 data_fig4 <- bind_rows(
      m_vaccine |> mutate(category = "Vaccination"),
      m_group   |> mutate(category = "Categories"),
      m_r0      |> mutate(category = "R0"),
-     m_incub   |> mutate(category = "Incubation period")
+     m_incub   |> mutate(category = "Incubation period"),
+     m_immune  |> mutate(category = "Immunity")
 ) |> 
-     mutate(term_clean = str_remove_all(term, "Vaccine|Group"),
+     mutate(term_clean = str_remove_all(term, "Vaccine|Group|Immune_protection"),
             term_clean = case_when(term_clean == "R0_mean" ~ "Reproductive number",
                                    term_clean == "Incubation_period" ~ "Incubation period",
                                    TRUE ~ term_clean)) |>
      # add control group
      bind_rows(
           tibble(estimate = 1,
-                 category = c("Vaccination", "Categories"),
-                 term_clean = c("Unavaliable", "Respiratory IDs"))
+                 category = c("Vaccination", "Categories", "Immunity"),
+                 term_clean = c("Unavaliable", "Respiratory IDs", "None"))
      ) |> 
      mutate(term_clean = factor(term_clean, levels = rev(c("Reproductive number", "Incubation period",
+                                                           "None", "Short-term", "Long-term",
                                                            "Unavaliable", "Optional", "EPI",
                                                            "Respiratory IDs", "Gastrointestinal IDs", "Sexually IDs", "Vector-borne and zoonotic IDs"))),
-            category = factor(category, levels = c('R0', 'Incubation period', 'Vaccination', 'Categories'))) |> 
+            category = factor(category, levels = c('R0', 'Incubation period', 'Immunity', 'Vaccination', 'Categories'))) |> 
      arrange(term_clean) |> 
      mutate(order_id = row_number())
 
