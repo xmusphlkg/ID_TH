@@ -1,11 +1,4 @@
-#####################################
-## @Description: 
-## @version: 
-## @Author: Li Kangguo
-## @Date: 2025-12-09 15:36:54
-## @LastEditors: Li Kangguo
-## @LastEditTime: 2025-12-10 11:05:13
-#####################################
+
 # packages ----------------------------------------------------------------
 
 library(tidyverse)
@@ -79,13 +72,13 @@ plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,
                            rel_widths = c(1.5, 7))
 
-ggsave("../Outcome/Publish/fig4.pdf",
+ggsave("../Outcome/Publish/fig3.pdf",
        plot,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 14, height = 12)
 
-ggsave("../Outcome/Publish/fig4.png",
+ggsave("../Outcome/Publish/fig3.png",
        plot,
        limitsize = FALSE,
        width = 14, height = 12)
@@ -99,4 +92,4 @@ data_outcome <- append(data_outcome, list(data_recovery_visual))
 names(data_outcome) <- int2col(seq_along(data_outcome))
 
 write.xlsx(data_outcome,
-           file = "../Outcome/Publish/figure_data/fig4.xlsx")
+           file = "../Outcome/Publish/figure_data/fig3.xlsx")

@@ -42,7 +42,6 @@ cat("Start part 1: overview...\n")
 source('./1_b_overview.R')
 
 cat("Start part 2: ranking...\n")
-source('./2_b_appendix.R')
 
 cat("Start part 3: age distribution...\n")
 source('./2_a_age.R')

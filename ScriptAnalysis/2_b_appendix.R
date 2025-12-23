@@ -16,6 +16,7 @@ load("./temp/month.RData")
 
 arrow_space <- 0.38
 names(fill_color) <- disease_groups
+fill_color["Others"] <- "#B0B0B0"
 
 # function ----------------------------------------------------------------
 
@@ -136,6 +137,7 @@ plot_ranking <- function(main, aux, title, ribbon_txt = '', legend = TRUE) {
                    y = max(aux$bg$ymax) - 2, label = ribbon_txt, 
                    hjust = 0, vjust = 1.5, color = "grey20", size = 3.5, fontface = "italic") +
           geom_tile(data = main, aes(x = Year_mark, y = Rank, fill = Group),
+                    show.legend = legend,
                     width = arrow_space*2, color = 'white') +
           geom_text(data = main, aes(x = Year_mark, y = Rank, label = Label), 
                     nudge_x = -0.35, color = 'white', fontface = 'bold', 
@@ -150,7 +152,7 @@ plot_ranking <- function(main, aux, title, ribbon_txt = '', legend = TRUE) {
           coord_cartesian(xlim = c(1, length(unique(main$Year_mark))), ratio = 0.12) +
           scale_x_continuous(breaks = unique(main$Year_mark), labels = unique(main$Year_group)) +
           scale_y_reverse(expand = c(0, 0)) +
-          scale_fill_manual(values = fill_color) +
+          scale_fill_manual(values = fill_color, drop = F) +
           scale_color_manual(values = c('Decrease' = "#019875", 'Constant' = "#FECEA8", 'Increase' = "#C0392B")) +
           theme_bw() +
           labs(title = title, x = NULL, y = NULL, color = "Changes of ranking", fill = "Disease categories") +
@@ -199,8 +201,112 @@ final_plot <- fig1 / fig2 +
      plot_layout(ncol = 1, guides = 'collect') & 
      theme(legend.position = 'bottom', legend.title.position = 'top')
 
-ggsave("../outcome/publish/fig2.pdf", final_plot, width = 14, height = 15, device = cairo_pdf, family = "Times New Roman")
-ggsave("../outcome/publish/fig2.png", final_plot, width = 14, height = 15)
+ggsave("../outcome/Appendix/Supplementary Appendix 1_3/ranking_all.png", final_plot, width = 14, height = 15)
 
-# Export Data
-write.xlsx(list('A' = d_cases, 'B' = d_deaths), "../outcome/Publish/figure_data/fig2.xlsx")
+rm(fig1, fig2, final_plot)
+
+# main content ------------------------------------------------------------
+
+select_top_each_year <- function(rank_df, N = 10) {
+     rank_df |> filter(Rank <= N)
+}
+
+plot_top_each_year <- function(full_rank, N = 10, title = NULL, ribbon_txt = '', legend = TRUE) {
+     main_sub <- select_top_each_year(full_rank, N = N)
+
+     # Map Year_mark -> Year_group label from full_rank (preserve factor labels)
+     year_map <- full_rank |> distinct(Year_mark, Year_group)
+     year_marks <- sort(unique(year_map$Year_mark))
+
+     # Create 'Others' node for each year (rank = N+1)
+     others_rows <- tibble()
+     for (ym in year_marks) {
+          yg <- year_map |> filter(Year_mark == ym) |> pull(Year_group)
+          others_rows <- bind_rows(others_rows, tibble(
+               Shortname = "Others",
+               Group = "Others",
+               Year_group = yg,
+               Value = 0,
+               Rank = N + 1,
+               Label = "Others",
+               Year_mark = ym
+          ))
+     }
+
+     # Nodes = top-N rows + Others rows (ensures Others exists each year)
+     nodes <- bind_rows(main_sub, others_rows) |> arrange(Year_mark, Rank)
+
+     # Ensure `Group` is a factor with original levels plus 'Others'
+     group_levels <- c(disease_groups, "Others")
+     nodes <- nodes |> mutate(Group = factor(as.character(Group), levels = group_levels))
+
+     # Build connections between consecutive years: from each top item in year t
+     # to its rank in year t+1 if present, otherwise to Others at t+1.
+     conn_list <- list()
+     for (i in seq_len(length(year_marks) - 1)) {
+          cur <- year_marks[i]
+          nxt <- year_marks[i + 1]
+
+          cur_nodes <- nodes |> filter(Year_mark == cur)
+          nxt_nodes <- nodes |> filter(Year_mark == nxt)
+
+          # build connections for union of names between years so that
+          # - if name missing in next year, target -> Others (disappeared)
+          # - if name new in next year (missing in current), source <- Others (appeared)
+          names_union <- union(cur_nodes$Shortname, nxt_nodes$Shortname)
+          for (sn in names_union) {
+               # determine source name (exists in cur? else Others)
+               src_name <- if (sn %in% cur_nodes$Shortname) sn else "Others"
+               tgt_name <- if (sn %in% nxt_nodes$Shortname) sn else "Others"
+               # skip trivial Others->Others links
+               if (src_name == "Others" && tgt_name == "Others") next
+
+               src_rank <- cur_nodes |> filter(Shortname == src_name) |> pull(Rank)
+               if (length(src_rank) == 0) src_rank <- (N + 1)
+               tgt_row <- nxt_nodes |> filter(Shortname == tgt_name)
+               tgt_rank <- tgt_row$Rank
+               tgt_value <- tgt_row$Value
+
+               conn_list[[length(conn_list) + 1]] <- tibble(
+                    Shortname = src_name,
+                    Year_mark = cur,
+                    Rank = src_rank,
+                    Next_x = nxt,
+                    Next_Rank = tgt_rank,
+                    Next_Value = tgt_value,
+                    Status = case_when(
+                         tgt_rank > src_rank ~ 'Decrease',
+                         tgt_rank < src_rank ~ 'Increase',
+                         TRUE ~ 'Constant'
+                    )
+               )
+          }
+     }
+
+     conn_sub <- bind_rows(conn_list) |> mutate(Status = factor(Status, levels = c('Decrease', 'Constant', 'Increase')))
+
+     aux_sub <- list(
+          bg = nodes |>
+               group_by(Year_mark) |>
+               summarise(ymin = max(Rank[Value > 0], default = 0) + 0.5,
+                         ymax = max(Rank) + 0.5, .groups = 'drop') |>
+               mutate(xmin = pmax(Year_mark - arrow_space, 0),
+                      xmax = Year_mark + arrow_space) |>
+               pivot_longer(c(xmin, xmax), names_to = "type", values_to = "x"),
+          conn = conn_sub
+     )
+
+     # Title fallback
+     if (is.null(title)) title <- paste0('Top ', N, ' Each Year')
+
+     plot_ranking(nodes, aux_sub, title = title, ribbon_txt = ribbon_txt, legend = legend)
+}
+
+# Example: per-year Top-10 (Cases and Deaths)
+fig1 <- plot_top_each_year(d_cases, N = 10, title = "A", ribbon_txt = "", legend = T)+
+     guides(fill = guide_legend(nrow = 2, byrow = TRUE, order = 1),
+            color = guide_legend(order = 2, override.aes = list(fill = 'white')))
+
+fig4 <- plot_top_each_year(d_deaths, N = 10, title = "D", ribbon_txt = "", legend = F)+
+     guides(fill = 'none',
+            color = 'none')

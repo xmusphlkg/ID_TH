@@ -63,7 +63,7 @@ names(fill_color) <- levels(data_class$Group)
 # seed: 11
 write.csv(data_fig1 |> 
                select(Shortname, Group, Max_Deficit_Raw),
-          "../Outcome/Publish/fig6_a_data.csv",
+          "../Outcome/Publish/fig5_a_data.csv",
           row.names = FALSE)
 
 # create a empty plot for fig1
@@ -328,13 +328,13 @@ final_plot <- cowplot::plot_grid(
 )
 
 # Save
-ggsave("../Outcome/Publish/fig6.pdf",
+ggsave("../Outcome/Publish/fig5.pdf",
        plot = final_plot, 
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 14, height = 14)
 
-ggsave("../Outcome/Publish/fig6.png",
+ggsave("../Outcome/Publish/fig5.png",
        final_plot,
        limitsize = FALSE,
        width = 14, height = 14)
@@ -347,4 +347,4 @@ outcome <- list('panel A' = data_fig1,
                 'panel F' = data_fig6)
 
 write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig6.xlsx')
+           file = '../Outcome/Publish/figure_data/fig5.xlsx')
