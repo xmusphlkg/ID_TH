@@ -40,7 +40,7 @@ disease_name <- data_class$disease
 
 # data clean --------------------------------------------------------------
 
-i <- 19
+i <- 21
 
 auto_analysis_function <- function(i) {
      
@@ -139,6 +139,6 @@ clusterExport(cl, ls()[ls() != "cl"], envir = environment())
 outcome <- parLapply(cl, 1:length(disease_name), auto_analysis_function)
 stopCluster(cl)
 
-save(outcome, file = "./outcome.RData")
+save(outcome, file = "./temp/outcome.RData")
 
 source('./6_b_visualization.R')

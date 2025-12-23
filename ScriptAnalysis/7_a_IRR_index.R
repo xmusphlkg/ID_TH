@@ -35,7 +35,7 @@ data_outcome <- lapply(seq(nrow(data_class)), function(i) outcome[[i]]$outcome_d
 
 disease_groups_select <- unique(data_outcome$Group)
 
-g <- 2
+g <- 4
 
 plot_group_panel <- function(g){
      # read data of multiple diseases from outcome

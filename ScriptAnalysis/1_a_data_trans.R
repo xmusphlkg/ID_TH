@@ -538,7 +538,7 @@ cmp_outcome |>
 
 outcome <- lapply(unique(cmp_outcome$Shortname), function(sn) {
      p <- plot_month_and_week_comparison(sn, 2020:2025, 'cases', data_week, data_month, daily_recon, month_recon, week_date_map, show_daily = TRUE)
-     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/cases/", sn, '.png'),
+     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/cases/", sn, '.png'),
             plot = p,
             create.dir = TRUE,
             width = 14,
@@ -636,18 +636,18 @@ data_week_age_deaths  <- data_death_week |>
      left_join(week_date_map, by = c("year", "week"))
 
 
-month_recon_deaths_age <- data_week_age_deaths |>
-     rowwise() |> mutate(dates = list(unlist(dates))) |>
-     tidyr::unnest_longer(dates) |>
-     mutate(month = month(dates)) |>
-     group_by(year, Shortname, week, location_value, age_group) |>
-     mutate(total_days = n()) |>
-     group_by(year, Shortname, week, month, location_value, age_group, deaths, total_days) |>
-     summarize(n_days = n(), .groups = "drop") |>
-     mutate(deaths_month = deaths * (n_days / total_days)) |>
-     group_by(year, Shortname, month, age_group) |>
-     summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
-               .groups = "drop")
+# month_recon_deaths_age <- data_week_age_deaths |>
+#      rowwise() |> mutate(dates = list(unlist(dates))) |>
+#      tidyr::unnest_longer(dates) |>
+#      mutate(month = month(dates)) |>
+#      group_by(year, Shortname, week, location_value, age_group) |>
+#      mutate(total_days = n()) |>
+#      group_by(year, Shortname, week, month, location_value, age_group, deaths, total_days) |>
+#      summarize(n_days = n(), .groups = "drop") |>
+#      mutate(deaths_month = deaths * (n_days / total_days)) |>
+#      group_by(year, Shortname, month, age_group) |>
+#      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+#                .groups = "drop")
 
 data_week_location_deaths  <- data_death_week |> 
      filter(location_value != "%all%",
@@ -656,18 +656,18 @@ data_week_location_deaths  <- data_death_week |>
      mutate(week = as.integer(week)) |> 
      left_join(week_date_map, by = c("year", "week"))
 
-month_recon_deaths_location <- data_week_location_deaths |>
-     rowwise() |> mutate(dates = list(unlist(dates))) |>
-     tidyr::unnest_longer(dates) |>
-     mutate(month = month(dates)) |>
-     group_by(year, Shortname, week, location_value) |>
-     mutate(total_days = n()) |>
-     group_by(year, Shortname, week, month, location_value, deaths, total_days) |>
-     summarize(n_days = n(), .groups = "drop") |>
-     mutate(deaths_month = deaths * (n_days / total_days)) |>
-     group_by(year, Shortname, month, location_value) |>
-     summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
-               .groups = "drop")
+# month_recon_deaths_location <- data_week_location_deaths |>
+#      rowwise() |> mutate(dates = list(unlist(dates))) |>
+#      tidyr::unnest_longer(dates) |>
+#      mutate(month = month(dates)) |>
+#      group_by(year, Shortname, week, location_value) |>
+#      mutate(total_days = n()) |>
+#      group_by(year, Shortname, week, month, location_value, deaths, total_days) |>
+#      summarize(n_days = n(), .groups = "drop") |>
+#      mutate(deaths_month = deaths * (n_days / total_days)) |>
+#      group_by(year, Shortname, month, location_value) |>
+#      summarize(deaths = round(sum(deaths_month, na.rm = TRUE)),
+#                .groups = "drop")
 
 ## compare data ------------------------------------------------------------
 
@@ -675,7 +675,7 @@ month_recon_deaths_location <- data_week_location_deaths |>
 
 outcome <- lapply(unique(month_recon_deaths$Shortname), function(sn) {
      p <- plot_month_and_week_comparison(sn, 2020:2025, 'deaths', NULL, data_month, NULL, month_recon_deaths, week_date_map, show_daily = TRUE)
-     ggsave(filename = paste0("../outcome/Appendix/Supplementary Appendix 1_1/deaths/", sn, '.png'),
+     ggsave(filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_1/deaths/", sn, '.png'),
             plot = p,
             create.dir = TRUE,
             width = 14,
