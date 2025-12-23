@@ -21,7 +21,7 @@ load("./temp/month.RData")
 
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
-     select(Disease, Fullname, Shortname, Group) 
+     select(-c(Cases, Count, Including, Label))
 
 ## R506 --------------------------------------------------------
 
@@ -268,4 +268,4 @@ ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_4/mortality.png"
        width = 14,
        height = 14)
 
-source("./4_b_appendix.R")
+source("./3_b_appendix.R")
