@@ -9,16 +9,7 @@ library(ungroup)
 
 # data --------------------------------------------------------------------
 
-remove(list = ls())
-
-source("./function/theme_set.R")
-
-load("./temp/month.RData")
-
-# Metadata for diseases
-data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
-     filter(Including == 1) |> 
-     select(Disease, Fullname, Shortname, Group) 
+source('./2_b_appendix.R')
 
 # Load old age-stratified data (2008-2023)
 list_disease_files <- list.files("../Data/CleanData/", pattern = "ac.csv", full.names = T)
@@ -389,6 +380,10 @@ names(fill_color_disease_max) <- max_disease
      
 data_outcome <- list()
 
+data_outcome[['panel A']] <- d_cases
+
+data_outcome[['panel C']] <- d_deaths
+
 for (i in 1:2) {
      # cumulative panel
      data_cumulative <- data_age_cumulative |>
@@ -403,7 +398,7 @@ for (i in 1:2) {
           mutate(Max_tag = factor(Max_tag, levels = max_disease)) |>
           arrange(AgeGroupID, Max_tag)
      
-     data_outcome[[paste('panel', LETTERS[i*2-1], sep = '')]] <- data_cumulative
+     data_outcome[[paste('panel', LETTERS[i*3-1], sep = '')]] <- data_cumulative
      
      panel_breaks <- data_cumulative |>
           pull(Outcome) |>
@@ -424,7 +419,7 @@ for (i in 1:2) {
                              labels = scientific_10,
                              breaks = panel_breaks) +
           theme_classic()+
-          guides(fill = guide_legend(ncol = 4, byrow = T))
+          guides(fill = guide_legend(ncol = 4, byrow = T, order = 3))
      
      # rank panel
      data_rank <- data_age_top |>
@@ -435,14 +430,14 @@ for (i in 1:2) {
           mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'),
                  AgeGroupID = ifelse(AgeGroup == 'Total', AgeGroupID + 0.2, AgeGroupID))
      
-     data_outcome[[paste('panel', LETTERS[i*2], sep = '')]] <- data_rank
+     data_outcome[[paste('panel', LETTERS[i*3], sep = '')]] <- data_rank
      
      fig_rank <- data_rank |>
           ggplot(aes(x = AgeGroupID, y = Year_mark, fill = Outcome_Fill)) +
           geom_tile(aes(width = 1, height = 1),
                     color = 'white',
                     show.legend = F) +
-          geom_text(aes(label = Outcome), size = 3, fontface = "bold") +
+          geom_text(aes(label = Outcome), size = 3) +
           scale_fill_manual(values = fill_color_disease_max,
                             na.value = 'white') +
           coord_cartesian(ylim = c(length(unique(data_rank$Year_mark))+0.5, 0.5)) +
@@ -458,7 +453,7 @@ for (i in 1:2) {
      
      if (i == 2) {
           fig_rank <- fig_rank +
-               labs(title = LETTERS[i*2],
+               labs(title = LETTERS[i*3],
                     x = 'Age (years)',
                     y = 'Year')
           
@@ -466,13 +461,13 @@ for (i in 1:2) {
                theme(legend.position = 'none',
                      plot.title = element_text(face = 'bold', size = 14, hjust = 0),
                      panel.grid = element_blank())+
-               labs(title = LETTERS[i*2-1],
+               labs(title = LETTERS[i*3-1],
                     fill = 'Disease',
                     x = 'Age (years)',
                     y = ifelse(i == 1, 'Cumulative cases', 'Cumulative deaths'))
      } else {
           fig_rank <- fig_rank +
-               labs(title = LETTERS[i*2],
+               labs(title = LETTERS[i*3],
                     x = NULL,
                     y = 'Year')
           
@@ -484,23 +479,23 @@ for (i in 1:2) {
                      legend.background = element_rect(fill = 'transparent'),
                      plot.title = element_text(face = 'bold', size = 14, hjust = 0),
                      panel.grid = element_blank())+
-               labs(title = LETTERS[i*2-1],
+               labs(title = LETTERS[i*3-1],
                     fill = 'Disease',
                     x = NULL,
                     y = ifelse(i == 1, 'Cumulative cases', 'Cumulative deaths'))
      }
      
-     assign(paste('fig', i*2, sep = ''), fig_rank)
-     assign(paste('fig', i*2-1, sep = ''), fig_cumulative)
+     assign(paste('fig', i*3, sep = ''), fig_rank)
+     assign(paste('fig', i*3-1, sep = ''), fig_cumulative)
 }
 
-## add inset of fig3
-fig3_a <- fig3 +
+## add inset of fig5
+fig5_a <- fig5 +
      geom_rect(aes(xmin = 0.5, xmax = 4.5, ymin = 0, ymax = 600),
                color = 'black',
-               linewidth = 0.5,
+               linewidth = 0.2,
                fill = NA)+
-     inset_element(fig3 + 
+     inset_element(fig5 + 
                         coord_cartesian(xlim = c(0.5, 4), ylim = c(0, 600), clip = 'on')+
                         scale_y_continuous(breaks = seq(0, 600, 200),
                                            expand = expansion(mult = c(0, 0)))+
@@ -516,22 +511,33 @@ fig3_a <- fig3 +
                    right = 0.7,
                    top = 1.1)
 
-fig <- fig1 + fig2 + fig3_a + fig4 +
-     plot_layout(ncol = 2, widths = c(0.8, 1), guides = 'keep')&
-     theme(plot.title.position = 'plot')
+design <- "
+AA
+BC
+DD
+EF
+"
 
-ggsave(filename = "../outcome/publish/fig3.pdf",
+fig <- fig1 + fig2 + fig3 + fig4 + fig5_a + fig6 +
+     plot_layout(ncol = 2, widths = c(0.8, 1),
+                 heights = c(1.2, 1, 1.2, 1),
+                 design = design, guides = 'collect')&
+     theme(plot.title.position = 'plot',
+           legend.title.position = 'top',
+           legend.position = 'bottom')
+
+ggsave(filename = "../outcome/publish/fig2.png",
        plot = fig,
        width = 14,
-       height = 7,
+       height = 12)
+
+ggsave(filename = "../outcome/publish/fig2.pdf",
+       plot = fig,
+       width = 14,
+       height = 12,
        device = cairo_pdf,
        family = "Times New Roman")
 
-ggsave(filename = "../outcome/publish/fig3.png",
-       plot = fig,
-       width = 14,
-       height = 7)
-
 # figure data
 write.xlsx(data_outcome,
-           file = "../outcome/Publish/figure_data/fig3.xlsx")
+           file = "../outcome/Publish/figure_data/fig2.xlsx")
