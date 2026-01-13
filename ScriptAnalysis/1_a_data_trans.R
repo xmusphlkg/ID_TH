@@ -44,7 +44,7 @@ data_date_seq <- data.frame(date = seq.Date(from = as.Date("2019-12-01"), to = a
             # fixed week 1 in December to next year, week 52/53 in January to previous year
             year = if_else(month == 12 & week == 1, year + 1, year),
             year = if_else(month == 1 & week >= 52, year - 1, year)) |> 
-     filter(year >= 2020 & year <= 2025)
+     filter(date >= as.Date('2020-01-01') & date < as.Date('2026-01-01'))
 
 
 # create mapping from year-week to representative week midpoint date and list of dates per week
@@ -297,7 +297,8 @@ reconstruct_one <- function(df_week, week_map) {
           ungroup() |> 
           select(date, daily = d_final)
      
-     tibble(date = daily_corrected$date, year = year_val, Shortname = unique(df_week$Shortname), daily = as.numeric(daily_corrected$daily))
+     tibble(date = daily_corrected$date, year = year_val, Shortname = unique(df_week$Shortname), daily = as.numeric(daily_corrected$daily)) |> 
+          filter(date < as.Date('2026-01-01'))
 }
 
 # reconstruct all diseases and years

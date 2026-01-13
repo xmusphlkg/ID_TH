@@ -1,44 +1,44 @@
 "Disease","Cases","Deaths","Count","YearStart","YearEnd"
-"Brucellosis",126,1,144,2013,2025
-"Chancroid",18596,0,216,2008,2025
-"Chickenpox",907656,17,216,2008,2025
-"Chikungunya",90350,1,216,2008,2025
-"Cholera",2761,28,216,2008,2025
-"Condyloma Acuminata",68761,0,216,2008,2025
-"DHF Total",1540625,1571,216,2008,2025
-"Diphtheria",351,78,216,2008,2025
-"Dysentery,Amoebic",43005,4,216,2008,2025
-"Dysentery,Bacillary",36363,1,216,2008,2025
-"Encephalitis Total",14155,210,216,2008,2025
-"Enterovirus Fever",1723,0,84,2019,2025
+"Brucellosis",NA,1,145,2013,2026
+"Chancroid",NA,0,217,2008,2026
+"Chickenpox",NA,18,217,2008,2026
+"Chikungunya",NA,1,217,2008,2026
+"Cholera",NA,28,217,2008,2026
+"Condyloma Acuminata",NA,0,217,2008,2026
+"DHF Total",NA,1571,217,2008,2026
+"Diphtheria",NA,78,217,2008,2026
+"Dysentery,Amoebic",NA,4,217,2008,2026
+"Dysentery,Bacillary",NA,1,217,2008,2026
+"Encephalitis Total",NA,211,217,2008,2026
+"Enterovirus Fever",NA,0,85,2019,2026
 "Filariasis",244,0,216,2008,2025
-"Genital Herpes Simplex",41226,1,216,2008,2025
-"Gonorrhoea",162360,0,216,2008,2025
-"HFM",960173,32,216,2008,2025
-"HepatitisA",9079,1,216,2008,2025
-"HepatitisB",134671,40,216,2008,2025
-"HepatitisC",17254,7,216,2008,2025
-"HepatitisD",1554,3,216,2008,2025
-"HepatitisE",874,0,216,2008,2025
-"Influenza",4017493,831,216,2008,2025
-"Japanese B encephalitis",65,1,96,2018,2025
+"Genital Herpes Simplex",NA,1,217,2008,2026
+"Gonorrhoea",NA,0,217,2008,2026
+"HFM",NA,32,217,2008,2026
+"HepatitisA",NA,1,217,2008,2026
+"HepatitisB",135166,40,216,2008,2025
+"HepatitisC",NA,7,217,2008,2026
+"HepatitisD",NA,3,217,2008,2026
+"HepatitisE",NA,0,217,2008,2026
+"Influenza",4077519,842,216,2008,2025
+"Japanese B encephalitis",NA,1,97,2018,2026
 "Kala azar",23,1,216,2008,2025
-"Leprosy",2352,1,216,2008,2025
-"Leptospirosis",62032,875,216,2008,2025
-"Liver fluke",13876,0,216,2008,2025
-"Malaria",177498,155,216,2008,2025
-"Measles Total",58966,56,216,2008,2025
-"Melioidosis",54574,1091,216,2008,2025
-"Meningitis,uns",30583,199,216,2008,2025
-"Mumps",95578,0,216,2008,2025
-"Paratyphoid",4791,1,216,2008,2025
-"Pertussis",2551,15,216,2008,2025
-"Pneumonia",4276679,12315,216,2008,2025
-"Rubella",5161,0,216,2008,2025
-"Scarlet fever",28544,0,216,2008,2025
-"Scrub Typhus",135408,102,216,2008,2025
-"Streptococcus suis",5957,324,156,2013,2025
-"Syphilis",159408,19,216,2008,2025
-"Trichinosis",233,1,216,2008,2025
-"Typhoid",35445,1,216,2008,2025
-"Zika virus",2258,0,84,2019,2025
+"Leprosy",NA,1,217,2008,2026
+"Leptospirosis",NA,880,217,2008,2026
+"Liver fluke",NA,0,217,2008,2026
+"Malaria",NA,155,217,2008,2026
+"Measles Total",NA,56,217,2008,2026
+"Melioidosis",NA,1102,217,2008,2026
+"Meningitis,uns",NA,199,217,2008,2026
+"Mumps",95688,0,216,2008,2025
+"Paratyphoid",NA,1,217,2008,2026
+"Pertussis",NA,15,217,2008,2026
+"Pneumonia",NA,12374,217,2008,2026
+"Rubella",NA,0,217,2008,2026
+"Scarlet fever",28794,0,216,2008,2025
+"Scrub Typhus",NA,102,217,2008,2026
+"Streptococcus suis",NA,324,157,2013,2026
+"Syphilis",NA,19,217,2008,2026
+"Trichinosis",235,1,216,2008,2025
+"Typhoid",NA,1,217,2008,2026
+"Zika virus",NA,0,85,2019,2026
