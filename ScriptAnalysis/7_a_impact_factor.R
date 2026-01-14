@@ -278,7 +278,8 @@ data_fig6_scaled <- data_fig6 |>
      scale()
 
 # 2. K-means Clustering (Assume k=3 for High/Medium/Low risk or patterns)
-set.seed(123)
+set.seed(20260101)
+
 km_res <- kmeans(data_fig6_scaled, centers = 3, nstart = 25)
 
 # Add cluster back to data
@@ -312,7 +313,7 @@ fig6 <- ggplot(data_fig6, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
 # save --------------------------------------------------------------------
 
 final_plot <- cowplot::plot_grid(
-     fig1 + fig2 + 
+     fig1 + free(fig2) + 
      fig3 + fig4 +
           plot_layout(ncol = 2, widths = c(1, 1.5), byrow = T, guides = 'collect') &
           theme(legend.position = 'bottom',

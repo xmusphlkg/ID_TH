@@ -19,6 +19,8 @@ remove(list = ls())
 
 load("./temp/month.RData")
 
+load("./temp/month_subgroup.RData")
+
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(-c(Cases, Count, Including, Label))

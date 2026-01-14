@@ -7,6 +7,7 @@ library(Cairo)
 library(patchwork)
 library(paletteer)
 library(ggh4x)
+library(ggnewscale)
 
 Sys.setlocale("LC_TIME", "C")
 

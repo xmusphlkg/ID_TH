@@ -692,10 +692,12 @@ outcome <- lapply(unique(month_recon_deaths$Shortname), function(sn) {
 
 # prepare reconstructed tables for join (names consistent with data_month)
 month_recon_cases <- month_recon |>
-     rename(Year = year, Month = month, Cases_recon = cases)
+     rename(Year = year, Month = month, Cases_recon = cases) |> 
+     filter(Year < 2026)
 
 month_recon_deaths2 <- month_recon_deaths |> 
-     rename(Year = year, Month = month, Deaths_recon = deaths)
+     rename(Year = year, Month = month, Deaths_recon = deaths) |> 
+     filter(Year < 2026)
 
 # perform replacement only for years 2024 and 2025 when reconstructed values exist
 data_month <- data_month |> 
@@ -747,6 +749,9 @@ data_year <- data_year_1 |>
 
 # save data
 save(data_month, data_year,
-     data_week_age, data_week_location,
+     data_class, data_population,
+     file = "./temp/month.RData")
+
+save(data_week_age, data_week_location,
      data_week_age_deaths, data_week_location_deaths,
-     data_class, data_population, file = "./temp/month.RData")
+     file = './temp/month_subgroup.RData')

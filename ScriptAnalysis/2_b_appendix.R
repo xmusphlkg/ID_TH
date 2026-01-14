@@ -14,6 +14,8 @@ source("./function/theme_set.R")
 
 load("./temp/month.RData")
 
+load('./temp/month_subgroup.RData')
+
 arrow_space <- 0.38
 names(fill_color) <- disease_groups
 fill_color["Others"] <- "#B0B0B0"
