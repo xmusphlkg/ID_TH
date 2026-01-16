@@ -374,7 +374,7 @@ fig1 <- ggplot(data = fig1_data)+
            panel.grid = element_blank()) +
      labs(y = "Monthly incidence (per 100,000)",
           x = 'Date',
-          title = 'A')
+          title = 'F')
 
 ## figure 2 ----------------------------------------------------------------
 
@@ -421,7 +421,7 @@ fig2 <- ggplot(data = fig2_data)+
           x = 'Date',
           color = 'Rate (per 100,000)',
           fill = "APC (%)",
-          title = 'B')+
+          title = 'G')+
      guides(color = guide_legend(nrow = 1, order = 1, byrow = TRUE, title.position = "top"),
             fill = guide_colorbar(order = 2, barwidth = 10, barheight = 1, title.position = "top"))
 
@@ -467,7 +467,7 @@ fig3 <- ggplot(data = fig3_data)+
            panel.grid = element_blank())+
      labs(y = "Monthly incidence (per 100,000)",
           x = 'Date',
-          title = 'C')
+          title = 'H')
 
 ## figure 4 ----------------------------------------------------------------
 
@@ -497,7 +497,7 @@ fig4 <- ggplot(data = fig4_data)+
      labs(y = "Monthly mortality (per 100,000)",
           x = 'Date',
           color = "Disease categories",
-          title = 'D')
+          title = 'I')
 
 # heatmap ------------------------------------------------------------------
 
@@ -541,7 +541,7 @@ fig5 <- ggplot(data = fig5_data)+
      labs(y = NULL,
           x = "Cumulative cases (\u00D710\u2076)",
           fill = "Disease categories",
-          title = 'E: Cumulative cases')+
+          title = 'A: Cumulative cases')+
      guides(fill = guide_legend(nrow = 1, byrow = TRUE))
 
 fig5_a <- fig5_data |> 
@@ -594,7 +594,7 @@ fig6 <- ggplot(data = fig6_data)+
            axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Year',
-          title = 'F: Normalized incidence rate')+
+          title = 'B: Normalized incidence rate')+
      guides(fill = guide_colorbar(barwidth = 35, barheight = 1))
 
 ## figure 8 --------------------------------------------------------------
@@ -647,7 +647,7 @@ fig8_a <- fig8_data |>
      labs(y = NULL,
           x = NULL,
           fill = "Cumulative deaths",
-          title = 'I: Cumulative deaths')
+          title = 'E: Cumulative deaths')
 
 ## figure 7 ----------------------------------------------------------------
 
@@ -678,7 +678,7 @@ fig7 <- ggplot(data = fig7_data)+
            axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Year',
-          title = 'H: Normalized motality rate')+
+          title = 'D: Normalized motality rate')+
      guides(fill = guide_colorbar(barwidth = 35, barheight = 1))
 
 # connection --------------------------------------------------------------
@@ -732,22 +732,22 @@ fig_connect <- ggplot(data = data_connect)+
            plot.background = element_blank(),
            panel.background = element_blank(),
            plot.margin = margin(5, 0, 5, 0))+
-     labs(title = 'G')
+     labs(title = 'C')
 
 # save --------------------------------------------------------------------
 
-fig <- cowplot::plot_grid(fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2)&
-                               theme(legend.title.position = "top",
-                                     plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
-                          fig5 + fig5_a + fig6 + fig_connect + fig7 + fig8_a + fig8 + 
+fig <- cowplot::plot_grid(fig5 + fig5_a + fig6 + fig_connect + fig7 + fig8_a + fig8 + 
                                plot_layout(nrow = 1, widths = c(0.9, 0.1, 1.5, 2, 1.5, 0.1, 0.9), guides = 'collect', axes = 'collect') &
                                theme(legend.position = "bottom",
                                      legend.box = 'vertical',
                                      plot.title = element_text(face = 'bold', size = 14, hjust = 0),
                                      legend.title.position = "top"),
+                          fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2)&
+                               theme(legend.title.position = "top",
+                                     plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
                           nrow = 2,
                           ncol = 1,
-                          rel_heights = c(2, 3))
+                          rel_heights = c(3, 2))
 
 ggsave(filename = "../Outcome/Publish/fig1.png",
        fig,
@@ -762,14 +762,15 @@ ggsave(filename = "../Outcome/Publish/fig1.pdf",
        family = "Times New Roman")
 
 # figure data
-data_fig <- list("panel A" = fig1_data,
-                 "panel B" = fig2_data,
-                 "panel C" = fig3_data,
-                 "panel D" = fig4_data,
-                 "panel E" = fig5_data,
-                 "panel F" = fig6_data,
-                 "panel G" = fig7_data,
-                 "panel H" = fig8_data)
+data_fig <- list("panel A" = fig5_data,
+                 "panel B" = fig6_data,
+                 "panel C" = data_connect,
+                 "panel D" = fig7_data,
+                 "panel E" = fig8_data,
+                 "panel F" = fig1_data,
+                 "panel G" = fig2_data,
+                 "panel H" = fig3_data,
+                 "panel I" = fig4_data)
 
 write.xlsx(data_fig,
            file = "../Outcome/Publish/figure_data/fig1.xlsx")
