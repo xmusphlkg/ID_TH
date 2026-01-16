@@ -1,3 +1,11 @@
+#####################################
+## @Description: 
+## @version: 
+## @Author: Li Kangguo
+## @Date: 2026-01-16 19:20:37
+## @LastEditors: Li Kangguo
+## @LastEditTime: 2026-01-16 19:25:38
+#####################################
 
 # packages ----------------------------------------------------------------
 
@@ -32,63 +40,11 @@ data_predict <- read.xlsx('../Data/TotalCasesDeaths.xlsx', sheet = 'Predictors')
             Group = factor(Group, levels = c("Respiratory IDs", "Gastrointestinal IDs", "Sexually IDs", "Vector-borne and zoonotic IDs"))) |> 
      select(Shortname, R0_mean, Vaccine, Group, Incubation_period, Immune_protection)
 
-# estimate Rebound Metrics
-df_metrics <- calculate_disease_metrics(outcome)
-
-# correct CA to CA (HPV)
-df_metrics <- df_metrics |> 
-     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname))
 
 # Merge everything into a Master Analysis Dataframe
 df_analysis <- df_metrics |>
      left_join(data_predict, by = "Shortname")
 
-# Clean data class
-data_class <- data_class |> 
-     # correct CA to CA (HPV)
-     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname)) |>
-     filter(Shortname %in% df_analysis$Shortname)
-
-# The Landscape of Immunity Deficit ----------------------------------------
-
-data_fig1 <- df_analysis |> 
-     filter(Max_Deficit_Raw < 0) |> 
-     mutate(Relative_Deficit = abs(Relative_Deficit),
-            Max_Deficit_Raw = abs(Max_Deficit_Raw))
-
-names(fill_color) <- levels(data_class$Group)
-
-# Absolute defivit map
-# using https://app.rawgraphs.io/
-# seed: 11
-write.csv(data_fig1 |> 
-               select(Shortname, Group, Max_Deficit_Raw),
-          "../Outcome/Publish/fig5_a_data.csv",
-          row.names = FALSE)
-
-# create a empty plot for fig1
-fig2 <- ggplot() + 
-     theme_bw() + 
-     labs(title = "B") +
-     theme(plot.title.position = "plot")
-
-fig1 <- ggplot(data_fig1, aes(x = Relative_Deficit, y = Shortname, fill = Group)) +
-     geom_col(width = 0.7, show.legend = F) +
-     scale_x_continuous(limits = c(0, 1),
-                        breaks = seq(0, 1, by = 0.2),
-                        labels = scales::percent_format(accuracy = 2),
-                        expand = expansion(mult = c(0, 0))) +
-     scale_y_discrete(limits = rev(data_class$Shortname))+
-     scale_fill_manual(values = fill_color) +
-     labs(title = "A",
-          fill = "Disease categories",
-          x = "Relative deficit of cases during suppression(%)",
-          y = NULL) +
-     theme_bw() +
-     theme(panel.grid = element_blank(),
-           plot.margin = margin(5, 10, 5, 5),
-           legend.position = 'bottom',
-           plot.title.position = "plot")
 
 # The Dynamics of Recovery ------------------------------------------------
 
@@ -216,136 +172,3 @@ fig4 <- ggplot(data_fig4) +
            plot.margin = margin(5, 10, 5, 5),
            panel.grid = element_blank(),
            plot.title.position = "plot")
-
-# Testing the Immunity Debt Hypothesis ------------------------------------
-
-# Hypothesis: Deeper Debt (X) -> Stronger Rebound (Y)
-data_fig5 <- df_analysis |> 
-     filter(!is.na(Rebound_Intensity),
-            Rebound_Intensity > 1,
-            !is.na(Suppression_Months)) |> 
-     mutate(Max_Deficit_Raw = abs(Max_Deficit_Raw))
-
-cor_test <- cor.test(data_fig5$Suppression_Months, data_fig5$Rebound_Intensity, method = "pearson")
-p_val_label <- paste0("R = ", round(cor_test$estimate, 2), ", p = ", signif(cor_test$p.value, 2))
-
-pal_size_breaks <- pretty(range(data_fig5$Max_Deficit_Raw), n = 5)
-
-fig5 <- ggplot(data_fig5, aes(x = Suppression_Months, y = Rebound_Intensity)) +
-     geom_smooth(method = "lm", color = "#F89C74FF", fill = "#F6CF71FF", alpha = 0.5) +
-     geom_point(aes(color = Group, size = Max_Deficit_Raw), alpha = 0.7) +
-     annotate("text", x = Inf, y = Inf, label = p_val_label, hjust = 1.1, vjust = 1.5, size = 5) +
-     geom_text_repel(aes(label = Shortname), size = 3) +
-     scale_color_manual(values = fill_color) +
-     scale_size_continuous(limits = range(pal_size_breaks),
-                           labels = scientific_10,
-                           breaks = pal_size_breaks) +
-     labs(
-          title = "E",
-          x = "Duration of suppression (months)",
-          y = "Rebound intensity ",
-          size = "Deficit depth",
-          color = "Group"
-     ) +
-     theme_bw()+
-     theme(panel.grid = element_blank(),
-           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-           plot.margin = margin(5, 10, 5, 5),
-           legend.position = "inside",
-           legend.box = "vertical",
-           legend.direction = "vertical",
-           legend.position.inside = c(0.01, 0.99),
-           legend.justification.inside = c(0, 1),
-           plot.title.position = "plot")+
-     guides(color = 'none')
-
-# Resilience Clustering ---------------------------------------------------
-
-# 1. Prepare Data for Clustering (Normalize)
-# Select key metrics: Depth (Log_Deficit), Time (Suppression), Intensity (Rebound)
-data_fig6 <- df_analysis |>
-     select(Shortname,
-            Relative_Deficit,
-            Rebound_Intensity) |>
-     drop_na() |> 
-     # drop HCV (outlier)
-     filter(Shortname != "HCV") |> 
-     mutate(Deficit_Magnitude = abs(Relative_Deficit),
-            Log_Rebound = log10(Deficit_Magnitude + 1))
-
-data_fig6_scaled <- data_fig6 |>
-     select(Log_Rebound, Rebound_Intensity) |>
-     scale()
-
-# 2. K-means Clustering (Assume k=3 for High/Medium/Low risk or patterns)
-set.seed(20260101)
-
-km_res <- kmeans(data_fig6_scaled, centers = 3, nstart = 25)
-
-# Add cluster back to data
-data_fig6 <- data_fig6 |> 
-     mutate(Cluster = as.factor(km_res$cluster)) |> 
-     left_join(data_class |> select(Shortname, Group), by = "Shortname")
-
-# 3. Visualize (Bi-plot style)
-# X-axis: Susceptibility (Accumulated Deficit)
-# Y-axis: Resilience/Reaction (Rebound Intensity)
-
-fig6 <- ggplot(data_fig6, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
-     # Draw hull or ellipse
-     ggpubr::stat_chull(aes(fill = Cluster), geom = "polygon", alpha = 0.5) +
-     geom_point(aes(color = Group), size = 4, show.legend = F) +
-     geom_text_repel(aes(label = Shortname), size = 3, show.legend = FALSE) +
-     scale_color_manual(values = fill_color) +
-     scale_fill_brewer(palette = "Dark2") +
-     labs(title = "F",
-          x = "Magnitude of suppression (%)",
-          y = "Rebound intensity") +
-     theme_bw() +
-     theme(legend.position = "inside",
-           plot.margin = margin(5, 10, 5, 5),
-           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-           legend.box = "horizontal",
-           legend.direction = "horizontal",
-           legend.position.inside = c(0.01, 0.99),
-           legend.justification.inside = c(0, 1))
-
-# save --------------------------------------------------------------------
-
-final_plot <- cowplot::plot_grid(
-     fig1 + free(fig2) + 
-     fig3 + fig4 +
-          plot_layout(ncol = 2, widths = c(1, 1.5), byrow = T, guides = 'collect') &
-          theme(legend.position = 'bottom',
-                legend.title.position = 'top',
-                plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
-     cowplot::plot_grid(fig5, fig6,
-                        ncol = 2,
-                        labels = NULL),
-     ncol = 1,
-     byrow = F,
-     rel_heights = c(2.1, 1),
-     labels = NULL
-)
-
-# Save
-ggsave("../Outcome/Publish/fig5.pdf",
-       plot = final_plot, 
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 14)
-
-ggsave("../Outcome/Publish/fig5.png",
-       final_plot,
-       limitsize = FALSE,
-       width = 14, height = 14)
-
-outcome <- list('panel A' = data_fig1,
-                'panel B' = data_fig1,
-                'panel C' = data_fig3,
-                'panel D' = data_fig4,
-                'panel E' = data_fig5,
-                'panel F' = data_fig6)
-
-write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig5.xlsx')
