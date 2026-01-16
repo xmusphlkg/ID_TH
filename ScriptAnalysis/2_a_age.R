@@ -427,8 +427,8 @@ for (i in 1:2) {
           rename(Outcome = colnames(data_age_top)[i + 3]) |> 
           left_join(data_class, by = c('Outcome' = 'Shortname')) |>
           select(-c(Disease, Fullname)) |> 
-          mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'),
-                 AgeGroupID = ifelse(AgeGroup == 'Total', AgeGroupID + 0.2, AgeGroupID))
+          filter(AgeGroup != 'Total') |>
+          mutate(Outcome_Fill = if_else(Outcome %in% c(max_disease, 'No deaths'), Outcome, 'Others'))
      
      data_outcome[[paste('panel', LETTERS[i*3], sep = '')]] <- data_rank
      
@@ -485,6 +485,12 @@ for (i in 1:2) {
                     y = ifelse(i == 1, 'Cumulative cases', 'Cumulative deaths'))
      }
      
+     data_rank |> 
+          select(AgeGroup, Year_group, Outcome) |>
+          pivot_wider(names_from = AgeGroup,
+                      values_from = Outcome) |> 
+          print()
+     
      assign(paste('fig', i*3, sep = ''), fig_rank)
      assign(paste('fig', i*3-1, sep = ''), fig_cumulative)
 }
@@ -518,7 +524,7 @@ DD
 EF
 "
 
-fig <- fig1 + fig2 + fig3 + fig4 + fig5_a + fig6 +
+fig <- free(fig1, side = 'l') + fig2 + fig3 + free(fig4, side = 'l') + fig5_a + fig6 +
      plot_layout(ncol = 2, widths = c(0.8, 1),
                  heights = c(1.2, 1, 1.2, 1),
                  design = design, guides = 'collect')&

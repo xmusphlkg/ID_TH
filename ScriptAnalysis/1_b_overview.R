@@ -678,7 +678,7 @@ fig7 <- ggplot(data = fig7_data)+
            axis.text.y = element_blank())+
      labs(y = NULL,
           x = 'Year',
-          title = 'D: Normalized motality rate')+
+          title = 'D: Normalized mortality rate')+
      guides(fill = guide_colorbar(barwidth = 35, barheight = 1))
 
 # connection --------------------------------------------------------------
@@ -770,12 +770,13 @@ data_fig <- list("panel A" = fig5_data,
                  "panel F" = fig1_data,
                  "panel G" = fig2_data,
                  "panel H" = fig3_data,
-                 "panel I" = fig4_data)
+                 "panel I" = fig4_data,
+                 "APC" = data_apc)
 
 write.xlsx(data_fig,
            file = "../Outcome/Publish/figure_data/fig1.xlsx")
 
-## save apc table ---------------------------------------------------------------
+# save apc table ---------------------------------------------------------------
 
 write.xlsx(data_apc |> 
                 select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
