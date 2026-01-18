@@ -174,7 +174,7 @@ fig_model <- ggplot(data_map) +
                                    barheight = 0.5)) +
      labs(x = NULL,
           y = NULL,
-          fill = "Standardized index")
+          fill = "Composite index")
 
 fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect')&
      theme(legend.position = 'bottom',

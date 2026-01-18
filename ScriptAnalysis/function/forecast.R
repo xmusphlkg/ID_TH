@@ -491,15 +491,24 @@ calculate_disease_metrics <- function(outcome_list,
     status <- "No Deficit"
     
     if (!is.na(start_deficit_date) && max_deficit_raw < 0) {
-      df_search <- df_calc %>% filter(date >= start_deficit_date)
-      is_robust <- zoo::rollapply(df_search$is_recovered_trend, width = 3, FUN = all, fill = FALSE, align = "left")
-      rec_idx <- which(is_robust)[1]
+      df_search <- df_calc |> 
+           filter(date >= start_deficit_date)
       
+      is_recovered_trend <- df_search$value >= df_search$median * recovery_threshold
+      
+      is_paying_back <- df_search$cum_diff - dplyr::lag(df_search$cum_diff, default = df_search$cum_diff[1]) >= 0
+      
+      is_robust <- zoo::rollapply(
+           is_recovered_trend & is_paying_back,
+           width = 3, FUN = all, fill = FALSE, align = "left"
+      )
+      
+      rec_idx <- which(is_robust)[1]
       if (!is.na(rec_idx)) {
-        recovery_date <- df_search$date[rec_idx]
-        status <- "Recovered"
+           recovery_date <- df_search$date[rec_idx]
+           status <- "Recovered"
       } else {
-        status <- "Suppressed"
+           status <- "Suppressed"
       }
     }
     

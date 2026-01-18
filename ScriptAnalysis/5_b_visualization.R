@@ -34,11 +34,10 @@ df_display <- df_metrics |>
             Balance_Label = if_else(is.na(Balance_Label), "Not balanced", Balance_Label),
             Max_Deficit_label = format(round(Max_Deficit_Raw, 0), big.mark = ",", scientific = FALSE),
             Recovery_Period = lubridate::interval(as.Date('2020-1-1'), Date_Recovery) %/% months(1),
-            Balance_Period = lubridate::interval(as.Date('2020-1-1'), Date_Balance) %/% months(1)
-     )
+            Balance_Period = lubridate::interval(as.Date('2020-1-1'), Date_Balance) %/% months(1))
 
 data_recovery_visual <- df_display |> 
-     select(Shortname, 
+     select(Shortname, Status,
             Recovery_Date = Date_Recovery, Balance_Date = Date_Balance, 
             Recovery_Period, Balance_Period) |> 
      mutate(StartDate = as.Date('2020-01-01')) |> 
@@ -47,15 +46,17 @@ data_recovery_visual <- df_display |>
           names_to = c("type", ".value"), 
           names_sep = "_"
      ) |> 
-     select(Shortname, StartDate, type, EndDate = Date, Period) |> 
+     select(Shortname, StartDate, Status, type, EndDate = Date, Period) |> 
      # add max date for visualization
      mutate(EndDate = case_when(
           is.na(EndDate) & type %in% c('Balance', 'Recovery') ~ as.Date(max(data_month$Date)),
           TRUE ~ as.Date(EndDate)),
-          Period = case_when(
-               is.na(Period) & type == 'Balance'  ~ "Not balanced",
-               is.na(Period) & type == 'Recovery' ~ "Not recovered",
-               TRUE ~ paste(as.character(Period), "months")))
+          Period = case_when(is.na(Period) & type == 'Balance' & Status != 'No Deficit' ~ "Not balanced",
+                             is.na(Period) & type == 'Recovery' & Status != 'No Deficit' ~ "Not recovered",
+                             Status == 'No Deficit' ~ "No deficit",
+                             TRUE ~ paste0(as.character(Period), "m")))
+
+print(data_recovery_visual, n = Inf)
 
 # save --------------------------------------------------------------------
 
