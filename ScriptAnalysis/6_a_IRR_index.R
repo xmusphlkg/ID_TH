@@ -32,7 +32,8 @@ data_outcome <- lapply(seq(nrow(data_class)), function(i) outcome[[i]]$outcome_d
             label = if_else(diff_percent > 10, "*", ""),
             diff_visual = if_else(diff_percent > 10, 10, diff_percent),
             date_num = format(ymd(date), "%Y.%m")) |> 
-     left_join(select(data_class, Shortname, Group), by = "Shortname")
+     left_join(select(data_class, Shortname, Group), by = "Shortname") |> 
+     select(Shortname, date, date_num, value, median, diff, diff_percent, label, diff_visual, Group)
 
 disease_groups_select <- unique(data_outcome$Group)
 
@@ -101,33 +102,36 @@ data_save <- data_outcome |>
 
 # 1. Data Preparation: Define periods and extract temporal features
 # We compare three scenarios:
-# - Pre-COVID (Baseline): <= 2019
-# - Post-Recovery (Observed): >= 2023 (Actual surveillance data)
-# - Post-Recovery (Predicted): >= 2023 (Model predictions / Counterfactual)
+# Compare three scenarios:
+# - Pre-COVID (Observed): <= 2019
+# - Post-PHSM (Observed): >= 2023 (Observed surveillance data; not necessarily recovered for all diseases)
+# - Post-PHSM (Predicted): >= 2023 (Counterfactual median forecast)
 
-# Prepare Observed Data
 season_data_obs <- data_month |> 
      filter(Shortname %in% unique(data_outcome$Shortname)) |>
      select(Shortname, year = Year, month = Month, value = Cases, Group) |>
-     mutate(date = ymd(paste(year, month, "01", sep = "-")),
-            month_label = month(date, label = TRUE, abbr = TRUE),
-            Period = case_when(year <= 2019 ~ "Pre-COVID (Observed)",
-                               year >= 2023 ~ "Post-Recovery (Observed)",
-                               TRUE ~ "Pandemic" # Exclude pandemic years (2020-2022) to focus on the 'new normal'
-            )) |> 
-     filter(Period != "Pandemic") 
+     mutate(
+          date = ymd(paste(year, month, "01", sep = "-")),
+          month_label = month(date, label = TRUE, abbr = TRUE),
+          Period = case_when(
+               year <= 2019 ~ "Pre-COVID (Observed)",
+               year >= 2023 ~ "Post-PHSM (Observed)",
+               TRUE ~ "Pandemic"
+          )
+     ) |> 
+     filter(Period != "Pandemic")
 
-# Prepare Predicted Data (Counterfactual)
 season_data_pred <- data_outcome |> 
      filter(year(date) >= 2023) |> 
-     mutate(year = year(date),
-            month = month(date),
-            month_label = month(date, label = TRUE, abbr = TRUE),
-            Period = "Post-Recovery (Predicted)",
-            value = median) |> 
+     mutate(
+          year = year(date),
+          month = month(date),
+          month_label = month(date, label = TRUE, abbr = TRUE),
+          Period = "Post-PHSM (Predicted)",
+          value = median
+     ) |> 
      select(Shortname, year, month, value, Group, month_label, Period)
 
-# Combine datasets for analysis
 df_season_analysis <- bind_rows(season_data_obs, season_data_pred)
 
 # 2. Aggregation and Normalization
@@ -146,40 +150,104 @@ make_closed_data <- function(data) {
           })
 }
 
-# Normalize data (0-1) to compare the "shape" of seasonality rather than absolute magnitude
-df_monthly_pattern <- df_season_analysis |> 
+df_monthly_mean <- df_season_analysis |> 
      group_by(Shortname, Group, Period, month, month_label) |> 
-     summarise(avg_value = mean(value, na.rm = TRUE), .groups = "drop") |> 
+     summarise(avg_value = mean(value, na.rm = TRUE), .groups = "drop")
+
+# Shape (0-1) normalization to compare seasonality shape only
+df_monthly_pattern <- df_monthly_mean |> 
      group_by(Shortname, Period) |> 
      mutate(
-          # Min-Max Normalization: (x - min) / (max - min)
-          # This ensures the peak is always 1.0, making phase shifts visually obvious
           norm_value = (avg_value - min(avg_value)) / (max(avg_value) - min(avg_value)),
           Period = factor(Period, levels = c("Pre-COVID (Observed)",
-                                              "Post-Recovery (Observed)",
-                                              "Post-Recovery (Predicted)"))
+                                             "Post-PHSM (Observed)",
+                                             "Post-PHSM (Predicted)"))
      ) |> 
      ungroup() |> 
      make_closed_data()
 
+# Amplitude metrics to quantify strength of seasonality (not just shape)
+df_season_amplitude <- df_monthly_mean |>
+     group_by(Shortname, Group, Period) |>
+     summarise(
+          mean_monthly = mean(avg_value, na.rm = TRUE),
+          peak = max(avg_value, na.rm = TRUE),
+          trough = min(avg_value, na.rm = TRUE),
+          peak_to_trough = peak / pmax(trough, 1e-6),
+          amplitude_ratio = (peak - trough) / pmax(mean_monthly, 1e-6),
+          .groups = "drop"
+     ) |>
+     mutate(
+          Period = factor(Period, levels = c("Pre-COVID (Observed)",
+                                             "Post-PHSM (Observed)",
+                                             "Post-PHSM (Predicted)"))
+     )
+
 # 3. Peak Month Calculation and Phase Shift Analysis
-peak_shift_table <- df_monthly_pattern |> 
-     group_by(Shortname, Period) |> 
-     slice_max(avg_value, n = 1, with_ties = FALSE) |> # Identify the peak month
-     select(Shortname, Group, Period, peak_month = month) |> 
-     pivot_wider(names_from = Period, values_from = peak_month) |> 
-     mutate(# Calculate Shift: Observed 2023 vs Baseline 2019
-          Shift_Obs_vs_Pre = `Post-Recovery (Observed)` - `Pre-COVID (Observed)`,
+# 1) Max-month peak (your original approach)
+get_peak_month_max <- function(df) {
+     df |> slice_max(avg_value, n = 1, with_ties = FALSE) |> pull(month)
+}
+
+# 2) Centre-of-mass month (robust to broad/double peaks)
+# Uses circular mean of months weighted by avg_value
+get_peak_month_com <- function(df) {
+     m <- df$month
+     w <- df$avg_value
+     # map months to angles on unit circle
+     theta <- 2 * pi * (m - 1) / 12
+     x <- sum(w * cos(theta), na.rm = TRUE)
+     y <- sum(w * sin(theta), na.rm = TRUE)
+     ang <- atan2(y, x)
+     # convert angle back to month 1..12
+     m_com <- (round((ang * 12) / (2 * pi)) + 1)
+     # ensure 1..12
+     m_com <- ((m_com - 1) %% 12) + 1
+     m_com
+}
+
+# Circular shift correction: map shifts into [-6, +6]
+correct_circular_shift <- function(shift) {
+     dplyr::case_when(
+          shift > 6 ~ shift - 12,
+          shift < -6 ~ shift + 12,
+          TRUE ~ shift
+     )
+}
+
+peak_shift_table <- df_monthly_mean |>
+     mutate(Period_key = case_when(
+          Period == "Pre-COVID (Observed)" ~ "pre_obs",
+          Period == "Post-PHSM (Observed)" ~ "post_obs",
+          Period == "Post-PHSM (Predicted)" ~ "post_pred",
+          TRUE ~ NA_character_)) |>
+     filter(!is.na(Period_key)) |>
+     group_by(Shortname, Group, Period_key) |>
+     summarise(peak_month_max = get_peak_month_max(cur_data()),
+               peak_month_com = get_peak_month_com(cur_data()),
+               .groups = "drop") |>
+     pivot_wider(names_from = Period_key,
+                 values_from = c(peak_month_max, peak_month_com))|>
+     mutate(
+          # COM peak (primary)
+          Shift_Obs_vs_Pre_com   = peak_month_com_post_obs - peak_month_com_pre_obs,
+          Shift_Obs_vs_Pred_com  = peak_month_com_post_obs - peak_month_com_post_pred,
+          Shift_Corrected_com    = correct_circular_shift(Shift_Obs_vs_Pre_com),
+          Shift_CorrectedPred_com = correct_circular_shift(Shift_Obs_vs_Pred_com),
           
-          # Calculate Shift: Observed 2023 vs Predicted (Is the shift due to pandemic or natural trend?)
-          Shift_Obs_vs_Pred = `Post-Recovery (Observed)` - `Post-Recovery (Predicted)`,
-          
-          # Correct for circular nature of months (e.g., Jan (1) vs Dec (12) is a 1-month shift, not -11)
-          Shift_Corrected = case_when(Shift_Obs_vs_Pre > 6 ~ Shift_Obs_vs_Pre - 12,
-                                      Shift_Obs_vs_Pre < -6 ~ Shift_Obs_vs_Pre + 12,
-                                      TRUE ~ Shift_Obs_vs_Pre))
+          # Max peak (sensitivity / also for figure points)
+          Shift_Obs_vs_Pre_max   = peak_month_max_post_obs - peak_month_max_pre_obs,
+          Shift_Obs_vs_Pred_max  = peak_month_max_post_obs - peak_month_max_post_pred,
+          Shift_Corrected_max    = correct_circular_shift(Shift_Obs_vs_Pre_max),
+          Shift_CorrectedPred_max = correct_circular_shift(Shift_Obs_vs_Pred_max)
+     )
+
 
 i <- 1
+
+print(peak_shift_table, n = Inf)
+
+print(df_season_amplitude, n = Inf)
 
 # 4. Visualization: Radar Chart (Polar Coordinates)
 
@@ -200,12 +268,31 @@ plot_seasonality <- function(i) {
           arrange(Shortname, Period, month) |> 
           mutate(Shortname = factor(Shortname, levels = disease_names))
      
-     plot_table <- peak_shift_table |> 
-          filter(Shortname %in% disease_names) |> 
-          select(-contains('Shift')) |> 
-          pivot_longer(cols = c(`Pre-COVID (Observed)`, `Post-Recovery (Observed)`, `Post-Recovery (Predicted)`),
-                       names_to = "Period", values_to = "peak_month") |> 
-          left_join(plot_data, by = c("Shortname", "Period", "peak_month" = "month"))
+     # peak points using centre-of-mass definition (primary)
+     
+     plot_amplitude <- df_season_amplitude |>
+          filter(Shortname %in% disease_names,
+                 amplitude_ratio > 0.5)
+     
+     plot_table <- peak_shift_table |>
+          filter(Shortname %in% disease_names) |>
+          pivot_longer(cols = -c(Shortname, Group),
+                       names_to = "key",
+                       values_to = "peak_month") |>
+          mutate(peak_type = case_when(str_detect(key, "^peak_month_max_") ~ "Max peak",
+                                       str_detect(key, "^peak_month_com_") ~ "Phase centre (COM)",
+                                       TRUE ~ NA_character_),
+                 Period_key = case_when(str_detect(key, "_pre_obs$")   ~ "Pre-COVID (Observed)",
+                                        str_detect(key, "_post_obs$")  ~ "Post-PHSM (Observed)",
+                                        str_detect(key, "_post_pred$") ~ "Post-PHSM (Predicted)",
+                                        TRUE ~ NA_character_)) |>
+          filter(!is.na(peak_type), !is.na(Period_key)) |>
+          rename(Period = Period_key) |> 
+          left_join(select(plot_data, Period, month, norm_value),
+                    by = c("Period", 'peak_month' = 'month')) |> 
+          # drop weak seasonality com peaks
+          filter(!(peak_type == "Phase centre (COM)" & Shortname %in% plot_amplitude$Shortname == FALSE)) |> 
+          mutate(peak_type = factor(peak_type, levels = c("Max peak", "Phase centre (COM)")))
      
      # Create plot
      fig_radar <- ggplot(plot_data, aes(x = month, y = norm_value, color = Period, fill = Period)) +
@@ -218,22 +305,26 @@ plot_seasonality <- function(i) {
           # add lines and area
           geom_area(position = "identity", alpha = 0.1, linewidth = 0.5) + 
           # add points at peak months
-          geom_point(data = plot_table, aes(x = peak_month, y = norm_value),
-                     size = 2, alpha = 0.5, show.legend = F) +
+          geom_point(data = plot_table,
+                     aes(x = peak_month, y = norm_value, shape = peak_type),
+                     size = 2.2, alpha = 0.5, show.legend = T) +
+     
           # Polar Coordinates
           coord_polar(start = 0) + 
           scale_x_continuous(breaks = 1:12, 
                              labels = month.abb, 
                              limits = c(1, 13)) +
+          scale_shape_manual(values = c("Max peak" = 16, "Phase centre (COM)" = 17),
+                             drop = F) +
           
           # Y-axis
           scale_y_continuous(labels = NULL, breaks = NULL) + 
           scale_color_manual(values = c("Pre-COVID (Observed)" = "#7E6148FF",
-                                        "Post-Recovery (Observed)" = "#E64B35FF",
-                                        "Post-Recovery (Predicted)" = "#91D1C2FF")) +
+                                        "Post-PHSM (Observed)" = "#E64B35FF",
+                                        "Post-PHSM (Predicted)" = "#91D1C2FF")) +
           scale_fill_manual(values = c("Pre-COVID (Observed)" = "#7E6148FF",
-                                       "Post-Recovery (Observed)" = "#E64B35FF",
-                                       "Post-Recovery (Predicted)" = "#91D1C2FF")) +
+                                       "Post-PHSM (Observed)" = "#E64B35FF",
+                                       "Post-PHSM (Predicted)" = "#91D1C2FF"))+
           theme_minimal() +
           theme(
                axis.title = element_blank(),
@@ -244,7 +335,9 @@ plot_seasonality <- function(i) {
                panel.grid.major.y = element_line(color = "grey90", linetype = "dashed"),
                plot.title = element_text(face = "bold", hjust = 0)
           ) +
-          labs(title = paste0(int2col(i+4), ": ", disease_names))
+          labs(title = paste0(int2col(i+4), ": ", disease_names),
+               color = "Period",
+               shape = "Peak type")
      
      return(fig_radar)
 }
