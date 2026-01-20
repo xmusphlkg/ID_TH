@@ -542,7 +542,7 @@ fig5 <- ggplot(data = fig5_data)+
           x = "Cumulative cases (\u00D710\u2076)",
           fill = "Disease categories",
           title = 'A: Cumulative cases')+
-     guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+     guides(fill = guide_legend(nrow = 2, byrow = F))
 
 fig5_a <- fig5_data |> 
      mutate(TotalCasesGroup = cut(TotalCases,
@@ -595,7 +595,7 @@ fig6 <- ggplot(data = fig6_data)+
      labs(y = NULL,
           x = 'Year',
           title = 'B: Normalized incidence rate')+
-     guides(fill = guide_colorbar(barwidth = 35, barheight = 1))
+     guides(fill = guide_colorbar(barwidth = 10, barheight = 1))
 
 ## figure 8 --------------------------------------------------------------
 

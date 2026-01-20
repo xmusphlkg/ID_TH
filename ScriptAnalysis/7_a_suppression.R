@@ -59,10 +59,11 @@ fig1 <- ggplot() +
      theme(plot.title.position = "plot")
 
 data_fig2 <- df_metrics |> 
-     select(Shortname, Group, Relative_Deficit, Rebound_Intensity)
+     select(Shortname, Group, Relative_Deficit, Rebound_Intensity) |> 
+     mutate(Relative_Deficit_percent = round(Relative_Deficit * 100, 2))
 
 fig2_a <- ggplot(data_fig2, aes(x = Rebound_Intensity, y = Shortname, fill = Group)) +
-     geom_col(width = 0.7, show.legend = F) +
+     geom_col(width = 0.7, show.legend = T) +
      scale_x_continuous(limits = range(pretty(data_fig2$Rebound_Intensity)),
                         trans = 'reverse',
                         breaks = scales::pretty_breaks(n = 5),
@@ -107,12 +108,13 @@ data_fig3 <- df_metrics |>
      filter(!is.na(Rebound_Intensity),
             Rebound_Intensity > 1,
             !is.na(Suppression_Months)) |> 
-     mutate(Max_Deficit_Raw = abs(Max_Deficit_Raw))
+     mutate(Max_Deficit_Raw = abs(Max_Deficit_Raw)) |> 
+     select(Shortname, Group, Suppression_Months, Rebound_Intensity,  Max_Deficit_Raw)
 
 cor_test <- cor.test(data_fig3$Suppression_Months,
                      data_fig3$Rebound_Intensity,
                      method = "pearson")
-p_val_label <- paste0("R = ", round(cor_test$estimate, 2), ", p = ", signif(cor_test$p.value, 2))
+p_val_label <- paste0("R = ", round(cor_test$estimate, 2), ", P = ", signif(cor_test$p.value, 2))
 
 pal_size_breaks <- pretty(range(data_fig3$Max_Deficit_Raw), n = 5)
 
@@ -200,7 +202,7 @@ fig4 <- ggplot(data_fig4, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
 
 final_plot <- cowplot::plot_grid(
      free(fig1) + fig2_a + fig2_b +
-          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T) &
+          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect') &
           theme(legend.position = 'bottom',
                 legend.title.position = 'top',
                 plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
@@ -209,7 +211,7 @@ final_plot <- cowplot::plot_grid(
           theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
      ncol = 1,
      byrow = F,
-     rel_heights = c(1, 1),
+     rel_heights = c(1.2, 1),
      labels = NULL
 )
 
@@ -218,12 +220,12 @@ ggsave("../Outcome/Publish/fig5.pdf",
        plot = final_plot, 
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 8)
+       width = 14, height = 10)
 
 ggsave("../Outcome/Publish/fig5.png",
        final_plot,
        limitsize = FALSE,
-       width = 14, height = 8)
+       width = 14, height = 10)
 
 outcome <- list('panel A' = data_fig1,
                 'panel B' = data_fig2,
