@@ -228,8 +228,8 @@ fig2_line <- ggplot(data_fig2) +
                alpha = 1, inherit.aes = FALSE) +
      scale_fill_identity()+
      geom_vline(xintercept = 1, linetype = "dashed", color = "black") +
-     geom_linerange(aes(xmin = conf.low, xmax = conf.high, y = term, color = category), show.legend = F) +
-     geom_point(aes(x = estimate, y = term, color = category), show.legend = F, size = 3) +
+     geom_linerange(aes(xmin = conf.low, xmax = conf.high, y = term), show.legend = F) +
+     geom_point(aes(x = estimate, y = term), show.legend = F, size = 3) +
      annotate("text", x = 1, y = max(data_fig2$order_id) + 1, label = "Faster recovery", hjust = -0.1, size = 4) +
      annotate("text", x = 1, y = max(data_fig2$order_id) + 1, label = "Slower recovery", hjust = 1.1, size = 4) +
      scale_x_continuous(trans = "log10",
@@ -239,9 +239,7 @@ fig2_line <- ggplot(data_fig2) +
      scale_y_discrete(expand = expansion(add = c(0.5, 1.5)),
                       limits = rev(data_fig2$term),
                       labels = rev(data_fig2$term_clean)) +
-     scale_color_manual(values = fill_color_disease) +
      labs(x = "Hazard ratio (95% CI)",
-          color = "Predictors",
           y = NULL) +
      theme_bw() +
      theme(legend.position = "bottom",
