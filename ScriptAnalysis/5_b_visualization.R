@@ -33,14 +33,16 @@ df_display <- df_metrics |>
             Recovery_Label = if_else(is.na(Recovery_Label), "Not recovered", Recovery_Label),
             Balance_Label = if_else(is.na(Balance_Label), "Not balanced", Balance_Label),
             Max_Deficit_label = format(round(Max_Deficit_Raw, 0), big.mark = ",", scientific = FALSE),
-            Recovery_Period = lubridate::interval(as.Date('2020-1-1'), Date_Recovery) %/% months(1),
-            Balance_Period = lubridate::interval(as.Date('2020-1-1'), Date_Balance) %/% months(1))
+            Recovery_Period = lubridate::interval(Date_Start_Deficit, Date_Recovery) %/% months(1),
+            Balance_Period = lubridate::interval(Date_Start_Deficit, Date_Balance) %/% months(1))
 
 data_recovery_visual <- df_display |> 
      select(Shortname, Status,
-            Recovery_Date = Date_Recovery, Balance_Date = Date_Balance, 
+            StartDate = Date_Start_Deficit,
+            Recovery_Date = Date_Recovery,
+            Balance_Date = Date_Balance, 
             Recovery_Period, Balance_Period) |> 
-     mutate(StartDate = as.Date('2020-01-01')) |> 
+     mutate(StartDate = if_else(is.na(StartDate), as.Date(min(StartDate, na.rm = T)), as.Date(StartDate))) |>
      pivot_longer(
           cols = c(Recovery_Date, Balance_Date, Recovery_Period, Balance_Period),
           names_to = c("type", ".value"), 

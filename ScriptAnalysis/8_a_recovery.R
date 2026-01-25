@@ -76,7 +76,7 @@ fig1 <- data_fig1 |>
      labs(title = "A",
           color = "Disease categories",
           shape = "Recovery status",
-          x = "Months from start of deficit to trend recovery",
+          x = "Recovery period (months)",
           y = NULL) +
      theme_bw() +
      theme(panel.grid.major.y = element_blank(),

@@ -372,7 +372,7 @@ plot_single_panel <- function(i, outcome, titles, recovery = NULL, display_recov
                             alpha = 0.5,
                             inherit.aes = FALSE)+
                # Draw a baseline vertical line at the start of forecast (full height)
-               geom_vline(xintercept = min(outcome_plot_2$date),
+               geom_vline(xintercept = min(data_recovery$StartDate),
                           linetype = 'dashed',
                           color = 'black',
                           alpha = 0.5)+

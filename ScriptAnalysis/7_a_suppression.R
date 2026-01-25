@@ -129,7 +129,7 @@ fig3 <- ggplot(data_fig3, aes(x = Suppression_Months, y = Rebound_Intensity)) +
                            breaks = pal_size_breaks) +
      labs(
           title = "C",
-          x = "Duration of suppression (months)",
+          x = "Recovery period (months)",
           y = "Rebound intensity ",
           size = "Deficit depth",
           color = "Group"
@@ -158,8 +158,7 @@ data_fig4 <- df_metrics |>
      drop_na() |> 
      # drop HCV (outlier)
      filter(Shortname != "HCV") |> 
-     mutate(Deficit_Magnitude = abs(Relative_Deficit),
-            Log_Rebound = log10(Deficit_Magnitude + 1))
+     mutate(Log_Rebound = log10(Relative_Deficit))
 
 data_fig4_scaled <- data_fig4 |>
      select(Log_Rebound, Rebound_Intensity) |>
@@ -179,7 +178,7 @@ data_fig4 <- data_fig4 |>
 # X-axis: Susceptibility (Accumulated Deficit)
 # Y-axis: Resilience/Reaction (Rebound Intensity)
 
-fig4 <- ggplot(data_fig4, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
+fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
      # Draw hull or ellipse
      ggpubr::stat_chull(aes(fill = Cluster), geom = "polygon", alpha = 0.5) +
      geom_point(aes(color = Group), size = 4, show.legend = F) +
@@ -187,7 +186,7 @@ fig4 <- ggplot(data_fig4, aes(x = Deficit_Magnitude, y = Rebound_Intensity)) +
      scale_color_manual(values = fill_color) +
      scale_fill_brewer(palette = "Dark2") +
      labs(title = "D",
-          x = "Magnitude of suppression (%)",
+          x = "Reduction during suppression(%)",
           y = "Rebound intensity") +
      theme_bw() +
      theme(legend.position = "inside",
