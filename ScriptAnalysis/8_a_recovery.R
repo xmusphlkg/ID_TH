@@ -177,7 +177,7 @@ data_table_vis <- data_fig2 |>
             p_str = case_when(is.na(term) ~ "",
                               term == 'TITLE' ~ "",
                               p.value < 0.001 ~ "<0.001",
-                              TRUE ~ formatC(p.value, format = 'f', digits = 3))) |>
+                              TRUE ~ formatC(p.value, format = 'f', digits = 2))) |>
      mutate(row_id = n():1) |> 
      select(row_id, term_clean, HR_str, p_str, is_title)
 
@@ -212,7 +212,7 @@ fig2_table <- ggplot(data_table_vis, aes(y = row_id)) +
      annotate('rect', xmin = -0.1, xmax = 3, ymin = max(data_table_vis$row_id) + 0.5, ymax = max(data_table_vis$row_id) + 1.5, fill = "grey80", size = 0.5)+
      annotate("text", x = 0, y = max(data_table_vis$row_id) + 1, label = "Variables", fontface = "bold", hjust = 0, size = 4) +
      annotate("text", x = 1.5, y = max(data_table_vis$row_id) + 1, label = "HR (95% CI)", fontface = "bold", hjust = 0, size = 4) +
-     annotate("text", x = 2.5, y = max(data_table_vis$row_id) + 1, label = "P Value", fontface = "bold", hjust = 0, size = 4) +
+     annotate("text", x = 2.5, y = max(data_table_vis$row_id) + 1, label = "P", fontface = "bold.italic", hjust = 0, size = 4) +
      scale_x_continuous(limits = c(-0.1, 3),
                         expand = c(0, 0)) +
      scale_y_continuous(limits = c(0.5, max(data_table_vis$row_id) + 1.5),

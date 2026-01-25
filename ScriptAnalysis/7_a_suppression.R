@@ -114,14 +114,19 @@ data_fig3 <- df_metrics |>
 cor_test <- cor.test(data_fig3$Suppression_Months,
                      data_fig3$Rebound_Intensity,
                      method = "pearson")
-p_val_label <- paste0("R = ", round(cor_test$estimate, 2), ", P = ", signif(cor_test$p.value, 2))
+
+r_val <- formatC(as.numeric(cor_test$estimate), format = "f", digits = 2)
+p_val <- signif(cor_test$p.value, 2)
+
+stats_label <- bquote(italic(r) == .(r_val) ~ "," ~ italic(P) == .(p_val))
 
 pal_size_breaks <- pretty(range(data_fig3$Max_Deficit_Raw), n = 5)
 
 fig3 <- ggplot(data_fig3, aes(x = Suppression_Months, y = Rebound_Intensity)) +
      geom_smooth(method = "lm", color = "#F89C74FF", fill = "#F6CF71FF", alpha = 0.5) +
      geom_point(aes(color = Group, size = Max_Deficit_Raw), alpha = 0.7) +
-     annotate("text", x = Inf, y = Inf, label = p_val_label, hjust = 1.1, vjust = 1.5, size = 5) +
+     annotate("text", x = Inf, y = Inf, label = deparse(stats_label), 
+              hjust = 1.1, vjust = 1.5, size = 5, parse = TRUE) +
      geom_text_repel(aes(label = Shortname), size = 3) +
      scale_color_manual(values = fill_color) +
      scale_size_continuous(limits = range(pal_size_breaks),
