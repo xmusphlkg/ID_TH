@@ -530,6 +530,7 @@ fig <- free(fig1, side = 'l') + fig2 + fig3 + free(fig4, side = 'l') + fig5_a + 
                  design = design, guides = 'collect')&
      theme(plot.title.position = 'plot',
            legend.title.position = 'top',
+           text = element_text(family = 'Times New Roman'),
            legend.position = 'bottom')
 
 ggsave(filename = "../outcome/publish/fig2.png",

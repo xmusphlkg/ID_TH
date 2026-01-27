@@ -8,6 +8,8 @@ library(ggrepel)
 library(broom)
 library(factoextra)
 library(openxlsx)
+library(mgcv)
+library(cluster)
 
 # data --------------------------------------------------------------------
 
@@ -91,7 +93,7 @@ fig2_b <- ggplot(data_fig2, aes(x = Relative_Deficit, y = Shortname, fill = Grou
      scale_y_discrete(limits = rev(data_class$Shortname))+
      scale_fill_manual(values = fill_color) +
      labs(fill = "Disease categories",
-          x = "Reduction during suppression(%)",
+          x = "Relative suppression (%)",
           y = NULL) +
      theme_bw() +
      theme(panel.grid = element_blank(),
@@ -100,7 +102,7 @@ fig2_b <- ggplot(data_fig2, aes(x = Relative_Deficit, y = Shortname, fill = Grou
            legend.position = 'bottom',
            plot.title.position = "plot")
 
-# Immunity Debt Hypothesis ------------------------------------
+# rebound -----------------------------------------------------------------
 
 # Hypothesis: Deeper reduction (X) -> Stronger Rebound (Y)
 
@@ -113,17 +115,31 @@ data_fig3 <- df_metrics |>
 
 cor_test <- cor.test(data_fig3$Suppression_Months,
                      data_fig3$Rebound_Intensity,
-                     method = "pearson")
+                     method = "spearman")
 
 r_val <- formatC(as.numeric(cor_test$estimate), format = "f", digits = 2)
 p_val <- signif(cor_test$p.value, 2)
 
-stats_label <- bquote(italic(r) == .(r_val) ~ "," ~ italic(P) == .(p_val))
+stats_label <- bquote(italic(rho) == .(r_val) ~ "," ~ italic(P) == .(p_val))
 
 pal_size_breaks <- pretty(range(data_fig3$Max_Deficit_Raw), n = 5)
 
+# Fit a GAM to allow a flexible (non-linear) relationship check
+gam_res <- mgcv::gam(Rebound_Intensity ~ s(Suppression_Months), data = data_fig3)
+new_grid <- data.frame(Suppression_Months = seq(
+     min(data_fig3$Suppression_Months, na.rm = TRUE),
+     max(data_fig3$Suppression_Months, na.rm = TRUE),
+     length.out = 200))
+gam_pred <- predict(gam_res, newdata = new_grid, se.fit = TRUE)
+new_grid$pred <- gam_pred$fit
+new_grid$upper <- gam_pred$fit + 2 * gam_pred$se.fit
+new_grid$lower <- gam_pred$fit - 2 * gam_pred$se.fit
+
 fig3 <- ggplot(data_fig3, aes(x = Suppression_Months, y = Rebound_Intensity)) +
-     geom_smooth(method = "lm", color = "#F89C74FF", fill = "#F6CF71FF", alpha = 0.5) +
+     geom_ribbon(data = new_grid, aes(x = Suppression_Months, ymin = lower, ymax = upper),
+                 inherit.aes = FALSE, fill = "#DDEBF7", alpha = 0.5) +
+     geom_line(data = new_grid, aes(x = Suppression_Months, y = pred),
+               inherit.aes = FALSE, color = "#377EB8", size = 1) +
      geom_point(aes(color = Group, size = Max_Deficit_Raw), alpha = 0.7) +
      annotate("text", x = Inf, y = Inf, label = deparse(stats_label), 
               hjust = 1.1, vjust = 1.5, size = 5, parse = TRUE) +
@@ -169,9 +185,78 @@ data_fig4_scaled <- data_fig4 |>
      select(Log_Rebound, Rebound_Intensity) |>
      scale()
 
-# 2. K-means Clustering (Assume k=3 for High/Medium/Low risk or patterns)
+# 2. K-means Clustering — choose k quantitatively (Elbow / Silhouette / Gap)
 set.seed(20260101)
 
+# range of k to evaluate
+k_min <- 2
+k_max <- 6
+ks <- k_min:k_max
+
+# 1) WSS (within-cluster sum of squares) for elbow method
+wss <- sapply(ks, function(k) {
+     km <- kmeans(data_fig4_scaled, centers = k, nstart = 25)
+     km$tot.withinss
+})
+
+# 2) Average silhouette width
+dist_mat <- dist(data_fig4_scaled)
+avg_sil <- sapply(ks, function(k) {
+     km <- kmeans(data_fig4_scaled, centers = k, nstart = 25)
+     sil <- cluster::silhouette(km$cluster, dist_mat)
+     mean(sil[, 3])
+})
+
+# 3) Gap statistic (B=50 for speed; increase B for more stable results)
+set.seed(20260101)
+gap_stat <- cluster::clusGap(data_fig4_scaled,
+                            FUN = function(x, k) kmeans(x, centers = k, nstart = 25),
+                            K.max = k_max, B = 50)
+gaps <- gap_stat$Tab[ks, "gap"]
+ses <- gap_stat$Tab[ks, "SE.sim"]
+
+# Determine best k by each method
+best_k_sil <- ks[which.max(avg_sil)]
+
+# Gap rule: smallest k such that gap[k] >= gap[k+1] - se[k+1]
+best_k_gap <- NA
+for (i in seq_len(length(ks) - 1)) {
+     k_i <- ks[i]
+     k_ip1 <- ks[i + 1]
+     if (gaps[i] >= (gaps[i + 1] - ses[i + 1])) {
+          best_k_gap <- k_i
+          break
+     }
+}
+if (is.na(best_k_gap)) best_k_gap <- ks[which.max(gaps)]
+
+# Elbow: choose k where relative reduction in WSS drops below threshold (10%)
+rel_drop <- -diff(wss) / wss[-length(wss)]
+elbow_idx <- which(rel_drop < 0.10)[1]
+if (!is.na(elbow_idx)) {
+     best_k_elbow <- ks[elbow_idx]
+} else {
+     best_k_elbow <- ks[which.max(diff(diff(wss)))]
+     if (is.na(best_k_elbow)) best_k_elbow <- ks[1]
+}
+
+# Aggregate choices and pick majority; prefer gap if tie
+choices <- c(best_k_sil, best_k_gap, best_k_elbow)
+chosen_k <- as.integer(names(sort(table(choices), decreasing = TRUE))[1])
+if (length(unique(choices)) > 1 && sum(choices == chosen_k) == 1) {
+     # tie-breaker: use gap
+     chosen_k <- best_k_gap
+}
+
+cat("K-selection summary:\n",
+    "  ks = ", paste(ks, collapse = ", "), "\n",
+    "  WSS = ", paste(round(wss, 2), collapse = ", "), "\n",
+    "  avg_silhouette = ", paste(round(avg_sil, 3), collapse = ", "), " (best=", best_k_sil, ")\n",
+    "  gap = ", paste(round(gaps, 3), collapse = ", "), " (best=", best_k_gap, ")\n",
+    "  elbow chosen = ", best_k_elbow, "\n",
+    "  final chosen k = ", chosen_k)
+
+# Run kmeans with chosen k
 km_res <- kmeans(data_fig4_scaled, centers = 3, nstart = 25)
 
 # Add cluster back to data
@@ -191,7 +276,7 @@ fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
      scale_color_manual(values = fill_color) +
      scale_fill_brewer(palette = "Dark2") +
      labs(title = "D",
-          x = "Reduction during suppression(%)",
+          x = "Relative suppression (%)",
           y = "Rebound intensity") +
      theme_bw() +
      theme(legend.position = "inside",

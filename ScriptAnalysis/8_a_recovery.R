@@ -50,7 +50,7 @@ df_analysis <- df_metrics |>
      left_join(data_predict, by = c("Shortname", 'Group')) |> 
      mutate(Group = factor(as.character(Group), levels = c("Respiratory IDs", "Gastrointestinal IDs", "Sexually IDs", "Vector-borne and zoonotic IDs")),
             Infectious_period = factor(Infectious_period, levels = c('<1 month', '1 month - 1 year', '>1 year')),
-            Vaccine = factor(Vaccine, levels = c("Unavaliable", "Optional", "EPI")),
+            Vaccine = factor(Vaccine, levels = c("Unavailable", "Optional", "EPI")),
             Immune_protection_vaccine = factor(Immune_protection_vaccine, levels = c("None", "Short-term", "Long-term")),
             Immune_protection_nature = factor(Immune_protection_nature, levels = c("None", "Short-term", "Long-term")))
 
@@ -153,7 +153,7 @@ data_fig2 <- bind_rows(tibble(estimate = NA,
                               term_clean = ''),
                        tibble(estimate = 1,
                               category = c("Vaccination", "Categories", "Infectious period", "Vaccine immunity", "Natural immunity"),
-                              term_clean = c("Unavaliable", "Respiratory IDs", "< 1 month", "None", "None")),
+                              term_clean = c("Unavailable", "Respiratory IDs", "< 1 month", "None", "None")),
                        data_table) |> 
      mutate(order_id = row_number()) |>
      group_by(category) |>
@@ -252,7 +252,8 @@ fig2_line <- ggplot(data_fig2) +
 # Save Figures ------------------------------------------------------------
 
 fig <- free(fig1) + fig2_table +  fig2_line + plot_layout(widths = c(3, 2.3, 2.1), nrow = 1) &
-     theme(plot.title.position = "plot")
+     theme(plot.title.position = "plot",
+           text = element_text(family = 'Times New Roman'))
 
 # Save the visualization
 ggsave("../Outcome/Publish/fig6.pdf", 

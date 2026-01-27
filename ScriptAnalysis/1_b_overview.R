@@ -54,7 +54,6 @@ data_month |>
      group_by(Group) |>
      mutate(Cases_p = percent(round(Cases / sum(Cases), 4)),
             Deaths_p = percent(round(Deaths / sum(Deaths), 4)),
-            CFR = percent(round(Deaths / Cases, 4)),
             .before = DateRange) |>
      arrange(Group, desc(Cases)) |> 
      print(n = Inf)
@@ -73,8 +72,7 @@ data_month_total <- data_month |>
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e5,
-            Mortality = (Deaths / Population) * 1e5,
-            CFR = (Deaths / Cases) * 1000) |> 
+            Mortality = (Deaths / Population) * 1e5) |> 
      # format year and month to fit joinpoint model
      mutate(Month = month(Date),
             MonthIndex = Year * 12 + Month - min(data_month$Year) * 12,
@@ -107,13 +105,11 @@ data_year_total <- data_year |>
      left_join(data_population, by = 'Year') |>
      # calculate the rate per million population
      mutate(Incidence = (Cases / Population) * 1e5,
-            Mortality = (Deaths / Population) * 1e5,
-            CFR = (Deaths / Cases) * 1000)
+            Mortality = (Deaths / Population) * 1e5)
 
 tasks <- list(
      list(data = data_year_total, x = "Year", y = "Incidence", label = 'Incidence', run_opt = run_opt, export_opt = export_opt),
-     list(data = data_year_total, x = "Year", y = "Mortality", label = 'Mortality', run_opt = run_opt, export_opt = export_opt),
-     list(data = data_year_total, x = "Year", y = "CFR", label = 'CFR', run_opt = run_opt, export_opt = export_opt)
+     list(data = data_year_total, x = "Year", y = "Mortality", label = 'Mortality', run_opt = run_opt, export_opt = export_opt)
 )
 
 jp_year_results <- map(
@@ -130,13 +126,10 @@ stl_incidence <- stl(ts(data_month_total$Incidence, start = min(data_month_total
                      s.window = "periodic", t.window = 24, robust = TRUE)
 stl_mortality <- stl(ts(data_month_total$Mortality, start = min(data_month_total$Year), frequency = 12),
                      s.window = "periodic", t.window = 24, robust = TRUE)
-stl_cfr <- stl(ts(data_month_total$CFR, start = min(data_month_total$Year), frequency = 12),
-               s.window = "periodic", t.window = 24, robust = TRUE)
 
 data_month_total <- data_month_total |> 
      mutate(Incidence_trend = stl_incidence$time.series[, 'trend'],
-            Mortality_trend = stl_mortality$time.series[, 'trend'],
-            CFR_trend = stl_cfr$time.series[, 'trend'])
+            Mortality_trend = stl_mortality$time.series[, 'trend'])
 
 ## Extract Knots from Trend Component ------------------------------------------------
 # Using trend component to find breakpoints (knots) based on the optimal K from yearly joinpoint analysis
@@ -281,12 +274,7 @@ tasks <- list(
      list(jp_result = jp_year_results[[2]], 
           data = data_month_total, 
           trend_var = "Mortality_trend", 
-          raw_var = "Mortality"),
-     
-     list(jp_result = jp_year_results[[3]], 
-          data = data_month_total, 
-          trend_var = "CFR_trend", 
-          raw_var = "CFR")
+          raw_var = "Mortality")
 )
 
 jp_segmented_results <- map(
@@ -302,19 +290,15 @@ data_month_total <- data_month_total |>
                by = 'MonthIndex') |> 
      left_join(jp_segmented_results[[2]]$fitted_data |> 
                     select(MonthIndex, Mortality_joinpoint = Fitted_Rate), 
-               by = 'MonthIndex') |>
-     left_join(jp_segmented_results[[3]]$fitted_data |> 
-                    select(MonthIndex, CFR_joinpoint = Fitted_Rate), 
                by = 'MonthIndex')
 
 data_apc <- list(
      Incidence = jp_segmented_results[[1]]$apc_results,
-     Mortality = jp_segmented_results[[2]]$apc_results,
-     CFR = jp_segmented_results[[3]]$apc_results
+     Mortality = jp_segmented_results[[2]]$apc_results
 ) |> 
      bind_rows(.id = 'Measure') |> 
      mutate(across(c(APC, APC_LCI, APC_UCI), ~ round(., 2)),
-            Measure = factor(Measure, levels = c('Incidence', 'Mortality', 'CFR')),
+            Measure = factor(Measure, levels = c('Incidence', 'Mortality')),
             StartDate = min(data_month_total$Date) + months(Start_Idx - 1),
             StartDateLabel = format(StartDate, "%Y/%m"),
             EndDate = min(data_month_total$Date) + months(End_Idx - 1),
