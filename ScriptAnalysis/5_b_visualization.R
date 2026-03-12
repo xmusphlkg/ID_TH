@@ -75,13 +75,13 @@ plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,
                            rel_widths = c(1.5, 7))
 
-ggsave("../Outcome/Publish/fig3.pdf",
+ggsave("../Outcome/Publish/fig2.pdf",
        plot,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 14, height = 12)
 
-ggsave("../Outcome/Publish/fig3.png",
+ggsave("../Outcome/Publish/fig2.png",
        plot,
        limitsize = FALSE,
        width = 14, height = 12)
@@ -95,4 +95,4 @@ data_outcome <- append(data_outcome, list(data_recovery_visual))
 names(data_outcome) <- int2col(seq_along(data_outcome))
 
 write.xlsx(data_outcome,
-           file = "../Outcome/Publish/figure_data/fig3.xlsx")
+           file = "../Outcome/Publish/figure_data/fig2.xlsx")

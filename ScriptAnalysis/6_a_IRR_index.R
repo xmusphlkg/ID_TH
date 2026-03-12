@@ -80,13 +80,13 @@ fig_list <- lapply(seq_along(disease_groups_select), plot_group_panel)
 
 fig1 <- wrap_plots(fig_list, ncol = 1, guides = 'collect')
 
-ggsave("../Outcome/Publish/fig4_a.pdf",
+ggsave("../Outcome/Publish/fig3_a.pdf",
        fig1,
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 7.5, height = 10)
 
-ggsave("../Outcome/Publish/fig4_a.png",
+ggsave("../Outcome/Publish/fig3_a.png",
        fig1,
        limitsize = FALSE,
        width = 7.5, height = 10)
@@ -350,13 +350,13 @@ fig_season_all <- wrap_plots(fig_season_list, ncol = 6, guides = 'collect') &
      theme(legend.position = "bottom")
 
 # Save the visualization
-ggsave("../Outcome/Publish/fig4_b.pdf", 
+ggsave("../Outcome/Publish/fig3_b.pdf", 
        fig_season_all, 
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 14, height = 11)
 
-ggsave("../Outcome/Publish/fig4_b.png", 
+ggsave("../Outcome/Publish/fig3_b.png", 
        fig_season_all, 
        limitsize = FALSE,
        width = 14, height = 11)
@@ -373,4 +373,4 @@ data_save <- append(data_save,
 names(data_save) <- int2col(seq_along(data_save))
 
 write.xlsx(as.list(data_save),
-           file = "../Outcome/Publish/figure_data/fig4.xlsx")
+           file = "../Outcome/Publish/figure_data/fig3.xlsx")

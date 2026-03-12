@@ -256,13 +256,13 @@ fig <- free(fig1) + fig2_table +  fig2_line + plot_layout(widths = c(3, 2.3, 2.1
            text = element_text(family = 'Times New Roman'))
 
 # Save the visualization
-ggsave("../Outcome/Publish/fig6.pdf", 
+ggsave("../Outcome/Publish/fig5.pdf", 
        fig, 
        family = "Times New Roman",
        limitsize = FALSE, device = cairo_pdf,
        width = 14, height = 6)
 
-ggsave("../Outcome/Publish/fig6.png", 
+ggsave("../Outcome/Publish/fig5.png", 
        fig, 
        limitsize = FALSE,
        width = 14, height = 6)
@@ -271,4 +271,4 @@ outcome <- list('panel A' = data_fig1,
                 'panel B' = data_fig2)
 
 write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig6.xlsx')
+           file = '../Outcome/Publish/figure_data/fig5.xlsx')

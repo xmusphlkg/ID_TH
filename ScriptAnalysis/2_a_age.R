@@ -533,18 +533,7 @@ fig <- free(fig1, side = 'l') + fig2 + fig3 + free(fig4, side = 'l') + fig5_a + 
            text = element_text(family = 'Times New Roman'),
            legend.position = 'bottom')
 
-ggsave(filename = "../outcome/publish/fig2.png",
+ggsave(filename = "../Outcome/Appendix/Supplementary Appendix 1_3/age_patterns_main.png",
        plot = fig,
        width = 14,
        height = 12)
-
-ggsave(filename = "../outcome/publish/fig2.pdf",
-       plot = fig,
-       width = 14,
-       height = 12,
-       device = cairo_pdf,
-       family = "Times New Roman")
-
-# figure data
-write.xlsx(data_outcome,
-           file = "../outcome/Publish/figure_data/fig2.xlsx")
