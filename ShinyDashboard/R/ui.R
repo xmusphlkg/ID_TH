@@ -11,6 +11,7 @@ if (!exists("dashboard_theme", inherits = TRUE) ||
     !exists("app_header", inherits = TRUE) ||
     !exists("overview_panel", inherits = TRUE) ||
     !exists("recovery_panel", inherits = TRUE) ||
+    !exists("prioritization_panel", inherits = TRUE) ||
     !exists("timeseries_panel", inherits = TRUE) ||
     !exists("seasonal_panel", inherits = TRUE) ||
     !exists("methods_panel", inherits = TRUE)) {
@@ -28,6 +29,9 @@ if (!exists("dashboard_theme", inherits = TRUE) ||
   }
   if (!exists("recovery_panel", inherits = TRUE)) {
     sys.source(file.path(ui_bootstrap_dir, "R", "ui_recovery.R"), envir = environment())
+  }
+  if (!exists("prioritization_panel", inherits = TRUE)) {
+    sys.source(file.path(ui_bootstrap_dir, "R", "ui_prioritization.R"), envir = environment())
   }
   if (!exists("timeseries_panel", inherits = TRUE)) {
     sys.source(file.path(ui_bootstrap_dir, "R", "ui_timeseries.R"), envir = environment())
@@ -48,6 +52,7 @@ ui <- page_navbar(
   header = app_header,
   overview_panel,
   recovery_panel,
+  prioritization_panel,
   timeseries_panel,
   seasonal_panel,
   methods_panel

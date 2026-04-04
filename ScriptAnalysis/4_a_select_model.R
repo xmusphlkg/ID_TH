@@ -295,7 +295,9 @@ outcome <- parLapply(cl, 1:length(disease_name), auto_select_function,
 stopCluster(cl)
 
 data_outcome <- do.call("rbind", outcome)
-write.xlsx(data_outcome, "../Outcome/Appendix/Model_test_results.xlsx")
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
+dir.create(appendix_tables_dir, showWarnings = FALSE, recursive = TRUE)
+write.xlsx(data_outcome, file.path(appendix_tables_dir, "Model_test_results.xlsx"))
 
 # beat model --------------------------------------------------------------
 

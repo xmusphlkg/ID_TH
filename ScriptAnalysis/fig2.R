@@ -21,6 +21,7 @@ source("./function/theme_set.R")
 
 out_dir <- "../Outcome/Publish/npjDM"
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
 
 # ---- Colour palette (dashboard design language) -------------------------
 COL_TEAL   <- "#0A6762"
@@ -47,7 +48,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
           id = row_number()
      )
 
-data_goodness_raw <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
+data_goodness_raw <- read.xlsx(file.path(appendix_tables_dir, "Model_test_results.xlsx"))
 
 # ============================================================
 # Panel A — composite index heatmap (from 4_b_best_model.R)

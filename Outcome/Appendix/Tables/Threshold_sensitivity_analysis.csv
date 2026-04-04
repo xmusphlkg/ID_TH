@@ -1,0 +1,145 @@
+"Config","Threshold","Persistence","Shortname","Group","Status","Date_Recovery","Date_Balance","Recovery_Months","Balance_Months"
+"90% / 2 mo",0.9,2,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"90% / 2 mo",0.9,2,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"90% / 2 mo",0.9,2,"Chickenpox","Respiratory IDs","Recovered",2024-08-01,NA,55,NA
+"90% / 2 mo",0.9,2,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"90% / 2 mo",0.9,2,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"90% / 2 mo",0.9,2,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"90% / 2 mo",0.9,2,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"90% / 2 mo",0.9,2,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"90% / 2 mo",0.9,2,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"90% / 2 mo",0.9,2,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"90% / 2 mo",0.9,2,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"90% / 2 mo",0.9,2,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"90% / 2 mo",0.9,2,"HFMD","Gastrointestinal IDs","Debt Repaid",2020-10-01,2022-09-01,9,32
+"90% / 2 mo",0.9,2,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"90% / 2 mo",0.9,2,"Shigellosis","Gastrointestinal IDs","Recovered",2020-08-01,NA,7,NA
+"90% / 2 mo",0.9,2,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"90% / 2 mo",0.9,2,"HAV","Gastrointestinal IDs","Recovered",2020-01-01,NA,0,NA
+"90% / 2 mo",0.9,2,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"90% / 2 mo",0.9,2,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"90% / 2 mo",0.9,2,"HBV","Sexually IDs","Debt Repaid",2023-03-01,2024-05-01,38,52
+"90% / 2 mo",0.9,2,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"90% / 2 mo",0.9,2,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"90% / 2 mo",0.9,2,"Chancroid","Sexually IDs","Recovered",2020-10-01,NA,9,NA
+"90% / 2 mo",0.9,2,"HCV","Sexually IDs","Debt Repaid",2021-07-01,2022-11-01,18,34
+"90% / 3 mo",0.9,3,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"90% / 3 mo",0.9,3,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"90% / 3 mo",0.9,3,"Chickenpox","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"90% / 3 mo",0.9,3,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"90% / 3 mo",0.9,3,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"90% / 3 mo",0.9,3,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"90% / 3 mo",0.9,3,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"90% / 3 mo",0.9,3,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"90% / 3 mo",0.9,3,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"90% / 3 mo",0.9,3,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"90% / 3 mo",0.9,3,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"90% / 3 mo",0.9,3,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"90% / 3 mo",0.9,3,"HFMD","Gastrointestinal IDs","Debt Repaid",2020-10-01,2022-09-01,9,32
+"90% / 3 mo",0.9,3,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"90% / 3 mo",0.9,3,"Shigellosis","Gastrointestinal IDs","Recovered",2022-08-01,NA,31,NA
+"90% / 3 mo",0.9,3,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"90% / 3 mo",0.9,3,"HAV","Gastrointestinal IDs","Recovered",2023-11-01,NA,46,NA
+"90% / 3 mo",0.9,3,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"90% / 3 mo",0.9,3,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"90% / 3 mo",0.9,3,"HBV","Sexually IDs","Debt Repaid",2023-06-01,2024-05-01,41,52
+"90% / 3 mo",0.9,3,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"90% / 3 mo",0.9,3,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"90% / 3 mo",0.9,3,"Chancroid","Sexually IDs","Recovered",2024-01-01,NA,48,NA
+"90% / 3 mo",0.9,3,"HCV","Sexually IDs","Debt Repaid",2022-05-01,2022-11-01,28,34
+"90% / 4 mo",0.9,4,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"90% / 4 mo",0.9,4,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"90% / 4 mo",0.9,4,"Chickenpox","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"90% / 4 mo",0.9,4,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"90% / 4 mo",0.9,4,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"90% / 4 mo",0.9,4,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"90% / 4 mo",0.9,4,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"90% / 4 mo",0.9,4,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"90% / 4 mo",0.9,4,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"90% / 4 mo",0.9,4,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"90% / 4 mo",0.9,4,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"90% / 4 mo",0.9,4,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"90% / 4 mo",0.9,4,"HFMD","Gastrointestinal IDs","Debt Repaid",2022-07-01,2022-09-01,30,32
+"90% / 4 mo",0.9,4,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"90% / 4 mo",0.9,4,"Shigellosis","Gastrointestinal IDs","Recovered",2024-03-01,NA,50,NA
+"90% / 4 mo",0.9,4,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"90% / 4 mo",0.9,4,"HAV","Gastrointestinal IDs","Recovered",2023-11-01,NA,46,NA
+"90% / 4 mo",0.9,4,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"90% / 4 mo",0.9,4,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"90% / 4 mo",0.9,4,"HBV","Sexually IDs","Debt Repaid",2023-06-01,2024-05-01,41,52
+"90% / 4 mo",0.9,4,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"90% / 4 mo",0.9,4,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"90% / 4 mo",0.9,4,"Chancroid","Sexually IDs","Recovered",2024-01-01,NA,48,NA
+"90% / 4 mo",0.9,4,"HCV","Sexually IDs","Debt Repaid",2022-05-01,2022-11-01,28,34
+"95% / 2 mo",0.95,2,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"95% / 2 mo",0.95,2,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"95% / 2 mo",0.95,2,"Chickenpox","Respiratory IDs","Recovered",2024-08-01,NA,55,NA
+"95% / 2 mo",0.95,2,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"95% / 2 mo",0.95,2,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"95% / 2 mo",0.95,2,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"95% / 2 mo",0.95,2,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"95% / 2 mo",0.95,2,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"95% / 2 mo",0.95,2,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"95% / 2 mo",0.95,2,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"95% / 2 mo",0.95,2,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"95% / 2 mo",0.95,2,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"95% / 2 mo",0.95,2,"HFMD","Gastrointestinal IDs","Debt Repaid",2020-10-01,2022-09-01,9,32
+"95% / 2 mo",0.95,2,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"95% / 2 mo",0.95,2,"Shigellosis","Gastrointestinal IDs","Recovered",2020-08-01,NA,7,NA
+"95% / 2 mo",0.95,2,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"95% / 2 mo",0.95,2,"HAV","Gastrointestinal IDs","Recovered",2020-01-01,NA,0,NA
+"95% / 2 mo",0.95,2,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"95% / 2 mo",0.95,2,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"95% / 2 mo",0.95,2,"HBV","Sexually IDs","Debt Repaid",2023-03-01,2024-05-01,38,52
+"95% / 2 mo",0.95,2,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"95% / 2 mo",0.95,2,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"95% / 2 mo",0.95,2,"Chancroid","Sexually IDs","Recovered",2020-10-01,NA,9,NA
+"95% / 2 mo",0.95,2,"HCV","Sexually IDs","Debt Repaid",2021-07-01,2022-11-01,18,34
+"95% / 3 mo",0.95,3,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"95% / 3 mo",0.95,3,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"95% / 3 mo",0.95,3,"Chickenpox","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"95% / 3 mo",0.95,3,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"95% / 3 mo",0.95,3,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"95% / 3 mo",0.95,3,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"95% / 3 mo",0.95,3,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"95% / 3 mo",0.95,3,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"95% / 3 mo",0.95,3,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"95% / 3 mo",0.95,3,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"95% / 3 mo",0.95,3,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"95% / 3 mo",0.95,3,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"95% / 3 mo",0.95,3,"HFMD","Gastrointestinal IDs","Debt Repaid",2020-10-01,2022-09-01,9,32
+"95% / 3 mo",0.95,3,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"95% / 3 mo",0.95,3,"Shigellosis","Gastrointestinal IDs","Recovered",2022-08-01,NA,31,NA
+"95% / 3 mo",0.95,3,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"95% / 3 mo",0.95,3,"HAV","Gastrointestinal IDs","Recovered",2023-11-01,NA,46,NA
+"95% / 3 mo",0.95,3,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"95% / 3 mo",0.95,3,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"95% / 3 mo",0.95,3,"HBV","Sexually IDs","Debt Repaid",2023-06-01,2024-05-01,41,52
+"95% / 3 mo",0.95,3,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"95% / 3 mo",0.95,3,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"95% / 3 mo",0.95,3,"Chancroid","Sexually IDs","Recovered",2024-01-01,NA,48,NA
+"95% / 3 mo",0.95,3,"HCV","Sexually IDs","Debt Repaid",2022-05-01,2022-11-01,28,34
+"95% / 4 mo",0.95,4,"Pneumonia","Respiratory IDs","Debt Repaid",2022-11-01,2025-02-01,34,61
+"95% / 4 mo",0.95,4,"Influenza","Respiratory IDs","Recovered",2023-08-01,NA,43,NA
+"95% / 4 mo",0.95,4,"Chickenpox","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"95% / 4 mo",0.95,4,"Mumps","Respiratory IDs","Recovered",2024-11-01,NA,58,NA
+"95% / 4 mo",0.95,4,"Scarlet fever","Respiratory IDs","Recovered",2025-02-01,NA,61,NA
+"95% / 4 mo",0.95,4,"Rubella","Respiratory IDs","Suppressed",NA,NA,NA,NA
+"95% / 4 mo",0.95,4,"Dengue fever","Vector-borne and zoonotic IDs","Recovered",2022-12-01,NA,35,NA
+"95% / 4 mo",0.95,4,"Malaria","Vector-borne and zoonotic IDs","No Deficit",NA,NA,NA,NA
+"95% / 4 mo",0.95,4,"Scrub Typhus","Vector-borne and zoonotic IDs","Debt Repaid",2022-04-01,2022-09-01,27,32
+"95% / 4 mo",0.95,4,"Leptospirosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2022-10-01,28,33
+"95% / 4 mo",0.95,4,"Melioidosis","Vector-borne and zoonotic IDs","Debt Repaid",2022-05-01,2023-06-01,28,41
+"95% / 4 mo",0.95,4,"S. suis","Vector-borne and zoonotic IDs","Debt Repaid",2020-06-01,2020-07-01,5,6
+"95% / 4 mo",0.95,4,"HFMD","Gastrointestinal IDs","Debt Repaid",2022-07-01,2022-09-01,30,32
+"95% / 4 mo",0.95,4,"Amebiasis","Gastrointestinal IDs","Debt Repaid",2022-06-01,2023-01-01,29,36
+"95% / 4 mo",0.95,4,"Shigellosis","Gastrointestinal IDs","Recovered",2024-03-01,NA,50,NA
+"95% / 4 mo",0.95,4,"Typhoid","Gastrointestinal IDs","Debt Repaid",2022-07-01,2024-07-01,30,54
+"95% / 4 mo",0.95,4,"HAV","Gastrointestinal IDs","Recovered",2023-11-01,NA,46,NA
+"95% / 4 mo",0.95,4,"Gonorrhoea","Sexually IDs","Debt Repaid",2023-01-01,2025-02-01,36,61
+"95% / 4 mo",0.95,4,"Syphilis","Sexually IDs","Suppressed",NA,NA,NA,NA
+"95% / 4 mo",0.95,4,"HBV","Sexually IDs","Debt Repaid",2023-06-01,2024-05-01,41,52
+"95% / 4 mo",0.95,4,"CA (HPV)","Sexually IDs","Debt Repaid",2023-08-01,2024-09-01,43,56
+"95% / 4 mo",0.95,4,"Genital herpes","Sexually IDs","Debt Repaid",2023-01-01,2024-04-01,36,51
+"95% / 4 mo",0.95,4,"Chancroid","Sexually IDs","Recovered",2024-01-01,NA,48,NA
+"95% / 4 mo",0.95,4,"HCV","Sexually IDs","Debt Repaid",2022-05-01,2022-11-01,28,34

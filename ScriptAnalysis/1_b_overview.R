@@ -762,9 +762,12 @@ write.xlsx(data_fig,
 
 # save apc table ---------------------------------------------------------------
 
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
+dir.create(appendix_tables_dir, showWarnings = FALSE, recursive = TRUE)
+
 write.xlsx(data_apc |> 
                 select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),
-           file = "../Outcome/Appendix/Joinpoint_APC_results.xlsx")
+           file = file.path(appendix_tables_dir, "Joinpoint_APC_results.xlsx"))
 
 # appendix ----------------------------------------------------------------
 

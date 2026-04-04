@@ -39,10 +39,35 @@ group_palette <- c(
   "Other IDs" = "#5F7DA8"
 )
 
+priority_palette <- c(
+  "High priority manual review" = "#C54A36",
+  "Cumulative review needed" = "#D89A2B",
+  "Recalibrate and monitor" = "#C96A43",
+  "Recovered but recalibrate seasonality" = "#5F7DA8",
+  "Low priority routine review" = "#0D5D56",
+  "No deficit monitoring" = "#4C6A92"
+)
+
 paths <- resolve_paths(app_dir)
 data_env <- new.env(parent = emptyenv())
 load(file.path(paths$script_root, "temp", "month.RData"), envir = data_env)
 load(file.path(paths$script_root, "temp", "outcome.RData"), envir = data_env)
+
+read_dashboard_csv <- function(filename) {
+  candidates <- c(
+    file.path(paths$project_root, "Outcome", "Appendix", "Tables", filename),
+    file.path(paths$project_root, "Outcome", "Appendix", filename),
+    file.path(app_dir, "data", "Outcome", "Tables", filename),
+    file.path(app_dir, "data", "Outcome", filename)
+  )
+
+  existing <- candidates[file.exists(candidates)][1]
+  if (is.na(existing)) {
+    stop(paste("Missing dashboard support file:", filename))
+  }
+
+  readr::read_csv(existing, show_col_types = FALSE)
+}
 
 data_month <- data_env$data_month %>%
   mutate(Shortname = normalize_shortname(Shortname))
@@ -112,6 +137,26 @@ all_time_series_data <- purrr::map_dfr(outcome, function(item) {
 }) %>%
   left_join(data_class %>% select(Shortname, Group), by = "Shortname") %>%
   arrange(Shortname, date)
+
+priority_data <- read_dashboard_csv("Main_text_summary_table.csv") %>%
+  mutate(Shortname = normalize_shortname(Shortname))
+
+uncertainty_priority <- read_dashboard_csv("Recovery_uncertainty_summary.csv") %>%
+  mutate(Shortname = normalize_shortname(Shortname))
+
+priority_data <- priority_data %>%
+  left_join(
+    uncertainty_priority %>% select(Shortname, Pr_RP, Pr_BP),
+    by = "Shortname"
+  ) %>%
+  mutate(
+    SeasonalShiftFlag = if_else(abs(shift_vs_pre) >= 2 | abs(shift_vs_pred) >= 2, "Shifted", "Stable")
+  ) %>%
+  arrange(factor(FrameworkPriority, levels = names(priority_palette)), Shortname)
+
+priority_choices <- priority_data %>%
+  distinct(FrameworkPriority) %>%
+  pull(FrameworkPriority)
 
 seasonal_profile <- function(disease) {
   observed <- data_month %>%

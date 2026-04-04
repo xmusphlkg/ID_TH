@@ -15,6 +15,7 @@ source("./function/forecast.R")
 # data --------------------------------------------------------------------
 
 load('./temp/month.RData')
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
 
 # read disease class data
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
@@ -26,7 +27,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
      mutate(Group_panel = ceiling(row_number() / 6),
             id = row_number())
 
-data_goodness <- read.xlsx("../Outcome/Appendix/Model_test_results.xlsx")
+ data_goodness <- read.xlsx(file.path(appendix_tables_dir, "Model_test_results.xlsx"))
 
 # best model --------------------------------------------------------------
 
@@ -61,7 +62,7 @@ data_table <- data_goodness |>
      left_join(data_class[,c('Group', 'Shortname')], by = c("disease" = 'Shortname'))
 
 write.xlsx(data_table,
-           "../Outcome/Appendix/Best_model_outcome.xlsx")
+           file.path(appendix_tables_dir, "Best_model_outcome.xlsx"))
 
 data_map <- data_table |> 
      select(Group, disease, Method, Index) |> 

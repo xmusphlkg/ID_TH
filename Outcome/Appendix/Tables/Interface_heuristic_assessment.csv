@@ -1,0 +1,7 @@
+TaskID,PublicHealthTask,PrimaryModule,MinimumInteractions,Discoverability,Interpretability,Auditability,SupportStatus,ResidualFriction,MeanHeuristicScore
+T1,"Identify which diseases are balanced, RP-only, suppressed, or no-deficit at portfolio level.",Overview,1,4,4,3,Fully supported,The overview gives counts but not the full disease list in the same card.,3.67
+T2,"Inspect one disease's RP, BP, deficit depth, and trajectory against its counterfactual.",Recovery,1,4,4,4,Fully supported,None beyond disease selection.,4
+T3,Compare several diseases side by side and export the filtered time series for review meetings.,Time Series,3,3,3,4,Fully supported,Users must decide which subset to prefilter before export.,3.33
+T4,Determine whether apparent recovery is accompanied by persistent seasonal timing shift.,Seasonality,1,3,4,4,Fully supported,The user still has to combine timing and magnitude mentally.,3.67
+T5,"Check definitions, study flow, and source files before interpreting outputs operationally.",Reference,1,4,4,3,Fully supported,Reference material is descriptive rather than interactive.,3.67
+T6,Translate recovery plus seasonality into an action-oriented prioritization category.,Prioritization,1,4,4,4,Fully supported,The action labels remain rule-based and should still be reviewed against local workflow.,4

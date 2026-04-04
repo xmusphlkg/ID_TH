@@ -226,3 +226,24 @@ all_time_series_wide_table <- function(ts_data, series_selection) {
     tidyr::pivot_wider(names_from = Column, values_from = Value) %>%
     dplyr::arrange(Date)
 }
+
+priority_plot <- function(priority_df) {
+  priority_df %>%
+    count(FrameworkPriority, Group, name = "n") %>%
+    ggplot(aes(x = n, y = FrameworkPriority, fill = FrameworkPriority)) +
+    geom_col(width = 0.72, color = "white") +
+    facet_wrap(vars(Group), scales = "free_x") +
+    scale_fill_manual(values = priority_palette, drop = FALSE) +
+    labs(
+      title = "Operational prioritization across disease groups",
+      subtitle = "Categories synthesize RP/BP phenotype, seasonal displacement, uncertainty, and sensitivity checks.",
+      x = "Number of diseases",
+      y = NULL,
+      fill = NULL
+    ) +
+    dashboard_plot_theme() +
+    theme(
+      legend.position = "none",
+      panel.grid.major.y = element_line(color = "#E3DED5", linewidth = 0.35)
+    )
+}

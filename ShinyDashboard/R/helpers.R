@@ -9,9 +9,10 @@ utils::globalVariables(c(
   "Status", "lower_80", "lower_95", "month", "normalized", "peak_month",
   "period", "ratio", "upper_80", "upper_95", "value", "metrics",
   "status_palette", "status_group_plot", "overview_server", "recovery_server",
-  "seasonal_server", "methods_server", "trajectory_plot", "scatter_plot",
+  "prioritization_server", "seasonal_server", "methods_server", "trajectory_plot", "scatter_plot",
   "timeseries_server", "burden_plot", "seasonal_profile", "seasonal_peaks", "study_summary",
   "seasonal_monthly_wide_table", "seasonal_value_plot", "all_time_series_plot", "all_time_series_wide_table",
+  "priority_plot", "priority_data", "priority_choices", "priority_palette",
   "dashboard_build_status_box", "dashboard_build_value_box", "dashboard_build_peak_box",
   "dashboard_build_disease_interpretation", "dashboard_build_seasonal_interpretation",
   "recovery_create_selected_metrics", "recovery_bind_plots", "recovery_bind_boxes",
@@ -26,8 +27,9 @@ if (FALSE) {
   Deficit_Percent <- Group <- Recovery_Months <- Rebound_Intensity <- Shortname <- NULL
   Status <- lower_80 <- lower_95 <- month <- normalized <- peak_month <- period <- NULL
   ratio <- upper_80 <- upper_95 <- value <- metrics <- status_palette <- NULL
-  status_group_plot <- overview_server <- recovery_server <- seasonal_server <- methods_server <- timeseries_server <- NULL
+  status_group_plot <- overview_server <- recovery_server <- prioritization_server <- seasonal_server <- methods_server <- timeseries_server <- NULL
   trajectory_plot <- scatter_plot <- burden_plot <- seasonal_profile <- seasonal_peaks <- study_summary <- NULL
+  priority_plot <- priority_data <- priority_choices <- priority_palette <- NULL
   seasonal_monthly_wide_table <- seasonal_value_plot <- all_time_series_plot <- all_time_series_wide_table <- NULL
   all_time_series_data <- seasonal_period_levels <- timeseries_panel <- NULL
   dashboard_build_status_box <- dashboard_build_value_box <- dashboard_build_peak_box <- NULL

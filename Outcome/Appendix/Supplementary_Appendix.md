@@ -17,7 +17,7 @@ The supplementary analyses were generated from a modular R and Python workflow t
 
 ### Disease-series curation and analytical subsets
 
-The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using their prepandemic monthly structure. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient prepandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Tables S1 and S3**.
+The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using a minimum requirement of continuous monthly coverage across all 144 prepandemic months from January, 2008 to December, 2019, plus disease-specific screening for sparse counts, non-seasonal or weak signal, and residual or unspecified disease definitions. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient prepandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Tables S1 and S3**.
 
 ### Construction of the monthly analytical cache
 
@@ -207,6 +207,22 @@ Several supplementary sensitivity analyses were prespecified to test whether the
 
 In addition to these classification-focused checks, two reconstruction-validation exercises were retained in the appendix because they support the validity of upstream processing choices. Weekly-to-monthly overlap validation for case reconstruction is summarized in **Supplementary Tables S6 and S7** and visualized in **Supplementary Fig. S1-S86**, whereas age-harmonization validation is shown in **Supplementary Fig. S113**. Together, these checks were intended to show that the main findings were not driven solely by a specific reconstruction rule, RP threshold, or counterfactual model-family choice.
 
+### Uncertainty-aware recovery and operational synthesis
+
+To move beyond deterministic recovery labels, we reran the RP/BP algorithm across the 1000 simulated counterfactual trajectories already generated for each disease. This produced disease-specific probabilities of achieving RP and BP by the end of follow-up, a probability of no sustained cumulative deficit, empirical 95% intervals for RP and BP month, and the probability that the deterministic median-based phenotype was retained. These outputs are summarized in **Supplementary Table S9** and were used in the revised main text to distinguish stable RP-only or BP-positive classifications from diseases with substantial state uncertainty.
+
+We also evaluated whether the main recovery phenotypes depended materially on a single analytical interruption date. Deterministic RP/BP classifications were therefore recalculated with analytical start dates of January 2020, March 2020, and April 2020. The corresponding disease-level results are summarized in **Supplementary Table S10**. Finally, because the main model-selection procedure uses an equal-weight composite across three error metrics and three validation windows, we compared the selected model family against rank aggregation, sMAPE-only aggregation, and a horizon-weighted composite that emphasized the shortest extrapolation window. Those comparisons are summarized in **Supplementary Table S11**.
+
+To connect the recovery and seasonality modules to practical surveillance review, we created a retrospective operational synthesis that combined deterministic RP/BP phenotype with the center-of-mass phase-shift summaries. For this synthesis only, a substantial seasonal displacement flag was defined pragmatically as an absolute phase shift of at least 2 months relative to either the pre-pandemic observed seasonal profile or the post-PHSM counterfactual seasonal profile. Monthly-normalized diseases were then separated into cumulative-review, recalibration, and low-priority groups, whereas non-recovered diseases were flagged for manual review. The resulting portfolio-level prioritization table is shown in **Supplementary Table S12**.
+
+### Alternative endpoints, contextual triangulation, and task-based interface assessment
+
+To test whether the principal interpretation depended on one monthly recovery endpoint, we evaluated three prespecified alternatives using the deterministic median forecast for each disease. The first was the earliest 3-month window in which observed counts re-entered the disease-specific 95% predictive interval. The second was the earliest 3-month window in which the observed-to-expected ratio was at least 1.0 throughout. The third was a cumulative intermediate milestone defined as the first month after the trough when the cumulative deficit had halved, that is, when cumulative deviation rose to at least half of the trough deficit. These outputs are summarized in **Supplementary Table S13** and were used to distinguish endpoints that preserved the main RP signal from endpoints that were too permissive for operational triage.
+
+External context was incorporated only for descriptive temporal triangulation, not as part of the predictive engine. National Oxford COVID-19 Government Response Tracker indicators for Thailand were aggregated from daily values to calendar months for January, 2020 to December, 2022 and included stringency, government response intensity, school closing, internal movement restrictions, international travel controls, and testing policy. Weekly WHO COVID-19 case counts for Thailand were aggregated to calendar months through June, 2024. These series were compared against the portfolio-level observed-to-expected ratio across the 24 modelled diseases. Period summaries are shown in **Supplementary Table S14**, and correlation and milestone summaries are shown in **Supplementary Table S15**. Because policy coverage ended in December, 2022, later follow-up was contextualized only by WHO COVID-19 burden and the internal surveillance outputs.
+
+The digital decision-support layer was additionally assessed with an author-side task-based heuristic walkthrough of a frozen dashboard build after the prioritization tab had been added. Six public-health review tasks were prespecified and scored on three 1-4 dimensions: discoverability, interpretability, and auditability. This assessment was intended to document whether the implemented interface covered the main decision tasks implied by the manuscript, not to substitute for formal end-user usability testing. The task-level results are presented in **Supplementary Table S16**.
+
 <div style="page-break-after: always;"></div>
 
 **Table S1. Disease flow from 72 monitored series to the 43-disease descriptive analysis and 24-disease counterfactual analysis.**
@@ -367,6 +383,226 @@ High-burden diseases that materially contribute to the main analyses showed low 
 | Uniform SARIMA model for all 24 diseases | 10 | 11 | 2 | 1 | 8 | HFMD; Chickenpox; Pneumonia; CA (HPV); Gonorrhoea; Syphilis; Dengue fever; Scrub Typhus |
 
 These fixed-family checks were designed to test whether the main RP/BP interpretation depended entirely on disease-specific model-family selection. Under a uniform ETS specification, 19 of 24 disease-level classifications were retained and the principal pattern of frequent RP/BP decoupling remained. The stricter uniform SARIMA comparison yielded greater redistribution across disease-level classes, indicating that BP is not model-invariant, but even under that restriction the data still did not collapse into a single homogeneous rebound pattern.
+
+<div style="page-break-after: always;"></div>
+
+**Table S9. Uncertainty-aware RP/BP classification from 1000 simulated counterfactual trajectories.**
+
+| Shortname | Group | Primary deterministic phenotype | Pr(RP) | Pr(BP) | Primary phenotype stability | RP month, median (95% interval) | BP month, median (95% interval) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pneumonia | Respiratory IDs | Balanced | 1.000 | 0.785 | 0.785 | 34 (26-54) | 59 (42-70) |
+| Influenza | Respiratory IDs | Recovered but not balanced | 0.656 | 0.388 | 0.268 | 39 (25-68) | 52 (38-70) |
+| Chickenpox | Respiratory IDs | Suppressed | 0.718 | 0.000 | 0.282 | 60 (54-67) | NA |
+| Mumps | Respiratory IDs | Recovered but not balanced | 0.949 | 0.120 | 0.829 | 56 (30-68) | 68 (58-71) |
+| Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.798 | 0.322 | 0.476 | 60 (6-66) | 65 (41-71) |
+| Rubella | Respiratory IDs | Suppressed | 0.292 | 0.009 | 0.708 | 30 (6-55) | 53 (7-62) |
+| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.340 | 0.383 | 30 (2-46) | 42 (3-63) |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | 0.531 | 0.531 | 0.469 | 4 (0-27) | 27 (1-34) |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 0.616 | 0.481 | 0.481 | 27 (6-60) | 32 (6-67) |
+| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 27 (10-28) | 33 (33-35) |
+| Melioidosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (1-30) | 42 (36-47) |
+| S. suis | Vector-borne and zoonotic IDs | Balanced | 0.989 | 0.956 | 0.956 | 5 (4-20) | 7 (4-54) |
+| HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 33 (32-44) |
+| Amebiasis | Gastrointestinal IDs | Balanced | 0.718 | 0.618 | 0.618 | 29 (4-48) | 38 (24-64) |
+| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.716 | 0.419 | 0.297 | 7 (5-61) | 31 (5-66) |
+| Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (29-35) | 54 (53-58) |
+| HAV | Gastrointestinal IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 46 (0-48) | NA |
+| Gonorrhoea | Sexually IDs | Balanced | 0.989 | 0.690 | 0.690 | 36 (8-50) | 57 (44-70) |
+| Syphilis | Sexually IDs | Suppressed | 0.465 | 0.268 | 0.395 | 13 (0-63) | 36 (1-70) |
+| HBV | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 40 (36-41) | 52 (52-53) |
+| CA (HPV) | Sexually IDs | Balanced | 0.842 | 0.666 | 0.666 | 37 (0-55) | 50 (14-67) |
+| Genital herpes | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 36 (31-41) | 52 (51-53) |
+| Chancroid | Sexually IDs | Recovered but not balanced | 1.000 | 0.016 | 0.984 | 48 (8-49) | 70 (69-71) |
+| HCV | Sexually IDs | Balanced | 0.910 | 0.864 | 0.864 | 25 (1-48) | 38 (1-63) |
+
+These uncertainty summaries show that deterministic RP-only classifications were especially stable for HAV and chancroid, whereas influenza, dengue fever, scarlet fever, and shigellosis retained appreciable probability of eventual balance by the end of follow-up. Stable BP-positive classifications were concentrated in leptospirosis, melioidosis, HFMD, typhoid, HBV, and genital herpes.
+
+<div style="page-break-after: always;"></div>
+
+**Table S10. Sensitivity of deterministic RP/BP classification to alternative interruption dates.**
+
+| Shortname | Group | 2020-01 status | 2020-03 status | 2020-04 status | Changed vs January in March analysis | Changed vs January in April analysis |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pneumonia | Respiratory IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Influenza | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
+| Chickenpox | Respiratory IDs | Suppressed | Suppressed | Suppressed | False | False |
+| Mumps | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
+| Scarlet fever | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
+| Rubella | Respiratory IDs | Suppressed | Suppressed | Suppressed | False | False |
+| Dengue fever | Vector-borne and zoonotic IDs | Recovered | Recovered | Recovered | False | False |
+| Malaria | Vector-borne and zoonotic IDs | No Deficit | No Deficit | Debt Repaid | False | True |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Leptospirosis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Melioidosis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| S. suis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| HFMD | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Amebiasis | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Shigellosis | Gastrointestinal IDs | Recovered | Recovered | Debt Repaid | False | True |
+| Typhoid | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| HAV | Gastrointestinal IDs | Recovered | Recovered | Recovered | False | False |
+| Gonorrhoea | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Syphilis | Sexually IDs | Suppressed | Suppressed | Suppressed | False | False |
+| HBV | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| CA (HPV) | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Genital herpes | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Chancroid | Sexually IDs | Recovered | Recovered | Recovered | False | False |
+| HCV | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+
+No disease changed classification when the analytical start date was moved from January 2020 to March 2020. Only malaria and shigellosis changed when the start date was moved to April 2020, supporting the use of January 2020 as a pragmatic portfolio-level interruption anchor.
+
+<div style="page-break-after: always;"></div>
+
+**Table S11. Alternative model-selection rules compared with the primary equal-weight composite rule.**
+
+| Shortname | Group | Primary best model | Rank-aggregation best model | sMAPE-only best model | Horizon-weighted best model | Match under rank aggregation | Match under sMAPE-only | Match under horizon weighting |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HCV | Sexually IDs | ETS | ETS | ETS | ETS | True | True | True |
+| Chancroid | Sexually IDs | Hybrid | ETS | SARIMA | Neural Network | False | False | False |
+| Genital herpes | Sexually IDs | Hybrid | ETS | Hybrid | Hybrid | False | True | True |
+| CA (HPV) | Sexually IDs | Bayesian structural | Bayesian structural | Neural Network | Bayesian structural | True | False | True |
+| HBV | Sexually IDs | Hybrid | ETS | Bayesian structural | Hybrid | False | False | True |
+| Syphilis | Sexually IDs | Bayesian structural | SARIMA | Bayesian structural | Bayesian structural | False | True | True |
+| Gonorrhoea | Sexually IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+| HAV | Gastrointestinal IDs | Hybrid | Hybrid | Hybrid | Hybrid | True | True | True |
+| Typhoid | Gastrointestinal IDs | Hybrid | Hybrid | Neural Network | Hybrid | True | False | True |
+| Shigellosis | Gastrointestinal IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | True | True | True |
+| Amebiasis | Gastrointestinal IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+| HFMD | Gastrointestinal IDs | Hybrid | SARIMA | Hybrid | Hybrid | False | True | True |
+| S. suis | Vector-borne and zoonotic IDs | ETS | ETS | Hybrid | ETS | True | False | True |
+| Melioidosis | Vector-borne and zoonotic IDs | Hybrid | ETS | Hybrid | Hybrid | False | True | True |
+| Leptospirosis | Vector-borne and zoonotic IDs | Hybrid | Hybrid | Hybrid | SARIMA | True | True | False |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | True | True | True |
+| Malaria | Vector-borne and zoonotic IDs | SARIMA | SARIMA | SARIMA | TBATS | True | True | False |
+| Dengue fever | Vector-borne and zoonotic IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+| Rubella | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+| Scarlet fever | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+| Mumps | Respiratory IDs | ETS | ETS | ETS | ETS | True | True | True |
+| Chickenpox | Respiratory IDs | Neural Network | Neural Network | Neural Network | Neural Network | True | True | True |
+| Influenza | Respiratory IDs | SARIMA | SARIMA | SARIMA | SARIMA | True | True | True |
+| Pneumonia | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | True | True | True |
+
+Across the 24 diseases, the primary selected family was also recovered for 18 diseases under rank aggregation, 19 diseases under sMAPE-only selection, and 21 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of hybrid-model selections, suggesting that the principal conclusions were not driven by a single aggregation formula.
+
+<div style="page-break-after: always;"></div>
+
+**Table S12. Joint operational synthesis of recovery phenotype and seasonal displacement.**
+
+| Shortname | Group | Primary deterministic status | Shift vs pre (months) | Shift vs predicted (months) | Seasonal displacement | Operational priority |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pneumonia | Respiratory IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
+| Influenza | Respiratory IDs | Recovered | 1 | -3 | Shifted | Recalibrate and monitor |
+| Chickenpox | Respiratory IDs | Suppressed | -1 | 0 | Stable | High priority manual review |
+| Mumps | Respiratory IDs | Recovered | 6 | 5 | Shifted | Recalibrate and monitor |
+| Scarlet fever | Respiratory IDs | Recovered | -1 | -1 | Stable | Cumulative review needed |
+| Rubella | Respiratory IDs | Suppressed | 3 | 2 | Shifted | High priority manual review |
+| Dengue fever | Vector-borne and zoonotic IDs | Recovered | 0 | 0 | Stable | Cumulative review needed |
+| Malaria | Vector-borne and zoonotic IDs | No Deficit | 0 | 0 | Stable | No deficit monitoring |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
+| Leptospirosis | Vector-borne and zoonotic IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
+| Melioidosis | Vector-borne and zoonotic IDs | Debt Repaid | -2 | -2 | Shifted | Recovered but recalibrate seasonality |
+| S. suis | Vector-borne and zoonotic IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
+| HFMD | Gastrointestinal IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
+| Amebiasis | Gastrointestinal IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
+| Shigellosis | Gastrointestinal IDs | Recovered | 1 | 1 | Stable | Cumulative review needed |
+| Typhoid | Gastrointestinal IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
+| HAV | Gastrointestinal IDs | Recovered | -5 | -5 | Shifted | Recalibrate and monitor |
+| Gonorrhoea | Sexually IDs | Debt Repaid | 0 | 1 | Stable | Low priority routine review |
+| Syphilis | Sexually IDs | Suppressed | -2 | -2 | Shifted | High priority manual review |
+| HBV | Sexually IDs | Debt Repaid | 2 | 2 | Shifted | Recovered but recalibrate seasonality |
+| CA (HPV) | Sexually IDs | Debt Repaid | 4 | 4 | Shifted | Recovered but recalibrate seasonality |
+| Genital herpes | Sexually IDs | Debt Repaid | 2 | 2 | Shifted | Recovered but recalibrate seasonality |
+| Chancroid | Sexually IDs | Recovered | 0 | 0 | Stable | Cumulative review needed |
+| HCV | Sexually IDs | Debt Repaid | 4 | 4 | Shifted | Recovered but recalibrate seasonality |
+
+This joint table clarifies the retrospective decision utility of the framework. A monthly-incidence-only interpretation would have marked 20 diseases as normalized, but the integrated RP/BP-seasonality synthesis separated those diseases into cumulative-review, recalibration, and low-priority groups and isolated 3 persistently suppressed diseases for manual review.
+
+<div style="page-break-after: always;"></div>
+
+**Table S13. Alternative endpoint sensitivity analyses for the 24 modelled diseases.** Month values are counted from January 2020, so month 0 corresponds to January 2020.
+
+| Shortname | Group | Primary phenotype | Primary RP month | PI95 month | Ratio>=1 month | Half-deficit month | PI95 achieved | Ratio>=1 achieved | Half-deficit achieved |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pneumonia | Respiratory IDs | Balanced | 34 | 26 | 34 | 54 | True | True | True |
+| Influenza | Respiratory IDs | Recovered but not balanced | 43 | 26 | 43 | 71 | True | True | True |
+| Chickenpox | Respiratory IDs | Suppressed | NA | 48 | NA | NA | True | False | False |
+| Mumps | Respiratory IDs | Recovered but not balanced | 58 | 31 | 58 | NA | True | True | False |
+| Scarlet fever | Respiratory IDs | Recovered but not balanced | 61 | 0 | 61 | 68 | True | True | True |
+| Rubella | Respiratory IDs | Suppressed | NA | 6 | NA | NA | True | False | False |
+| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 35 | 1 | 35 | 47 | True | True | True |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | NA | NA | NA | NA | False | False | False |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 27 | 5 | 27 | 30 | True | True | True |
+| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 28 | 3 | 28 | 32 | True | True | True |
+| Melioidosis | Vector-borne and zoonotic IDs | Balanced | 28 | 5 | 28 | 33 | True | True | True |
+| S. suis | Vector-borne and zoonotic IDs | Balanced | 5 | 4 | 5 | 5 | True | True | True |
+| HFMD | Gastrointestinal IDs | Balanced | 9 | 35 | 9 | 31 | True | True | True |
+| Amebiasis | Gastrointestinal IDs | Balanced | 29 | 24 | 29 | 34 | True | True | True |
+| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 31 | 3 | 31 | 63 | True | True | True |
+| Typhoid | Gastrointestinal IDs | Balanced | 30 | 28 | 30 | 48 | True | True | True |
+| HAV | Gastrointestinal IDs | Recovered but not balanced | 46 | 0 | 46 | NA | True | True | False |
+| Gonorrhoea | Sexually IDs | Balanced | 36 | 8 | 36 | 52 | True | True | True |
+| Syphilis | Sexually IDs | Suppressed | NA | 4 | NA | NA | True | False | False |
+| HBV | Sexually IDs | Balanced | 41 | 5 | 41 | 49 | True | True | True |
+| CA (HPV) | Sexually IDs | Balanced | 43 | 2 | 43 | 51 | True | True | True |
+| Genital herpes | Sexually IDs | Balanced | 36 | 31 | 36 | 48 | True | True | True |
+| Chancroid | Sexually IDs | Recovered but not balanced | 48 | 4 | 48 | 63 | True | True | True |
+| HCV | Sexually IDs | Balanced | 28 | 0 | 28 | 31 | True | True | True |
+
+Among the 23 diseases that entered a sustained cumulative deficit, all 23 re-entered the 95% predictive interval for at least 3 months, whereas the stricter observed-to-expected ratio endpoint reproduced the same achieved-versus-not-achieved RP distinction as the primary endpoint for all 23. Eighteen of the 23 diseases halved their cumulative deficit by end follow-up, including 5 of the 7 deterministic RP-without-BP diseases.
+
+<div style="page-break-after: always;"></div>
+
+**Table S14. External contextual triangulation period summary.**
+
+| Period | Mean_Portfolio_Ratio | Median_Portfolio_Ratio | Mean_Stringency | Mean_SchoolClosing | Mean_InternalMovement | Mean_InternationalTravel | Mean_TestingPolicy | Mean_WHO_COVID_Cases |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-2021 restriction-intensive | 0.399 | 0.34 | 50.839 | 1.712 | 1.351 | 2.578 | 1.267 | 92082.083 |
+| 2022 transition | 0.493 | 0.458 | 27.128 | 1.126 | 0.392 | 1.027 | 2.935 | 209319.833 |
+| 2023-2024 WHO-context only | 1.001 | 0.904 | NA | NA | NA | NA | NA | 4024.222 |
+| Late follow-up without external context | 1.629 | 1.432 | NA | NA | NA | NA | NA | NA |
+
+The portfolio-level observed-to-expected ratio rose across the restriction-intensive, transition, and post-PHSM periods. Policy indicators were available through December, 2022, whereas WHO COVID-19 burden was available through June, 2024.
+
+<div style="page-break-after: always;"></div>
+
+**Table S15. External contextual triangulation correlations and milestone dates.**
+
+Panel A. Monthly correlation between the portfolio observed-to-expected ratio and external indicators.
+
+| Indicator | SpearmanRho |
+| --- | --- |
+| StringencyIndex | -0.59 |
+| GovernmentResponseIndex | -0.703 |
+| SchoolClosing | -0.628 |
+| InternalMovement | -0.628 |
+| InternationalTravel | -0.493 |
+| TestingPolicy | -0.268 |
+| log1p(WHO_COVID_Cases) | -0.534 |
+
+Panel B. Selected milestone months from the contextual triangulation.
+
+| Milestone | month | PortfolioRatio | StringencyIndex | SchoolClosing | InternalMovement | InternationalTravel | WHO_COVID_Cases |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Peak stringency month | 2020-04 | 0.386 | 76.264 | 3.0 | 2.0 | 4.0 | 1534 |
+| Peak WHO COVID-19 case month | 2021-08 | 0.262 | 73.223 | 2.452 | 2.0 | 2.968 | 676789 |
+| First sustained low-restriction month | 2022-10 | 0.671 | 5.56 | 0.0 | 0.0 | 0.0 | 14096 |
+| First sustained portfolio normalization month | 2023-07 | 0.954 | NA | NA | NA | NA | 3612 |
+
+These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
+
+<div style="page-break-after: always;"></div>
+
+**Table S16. Task-based heuristic assessment of the final dashboard build.**
+
+| TaskID | PublicHealthTask | PrimaryModule | MinimumInteractions | Discoverability | Interpretability | Auditability | SupportStatus | ResidualFriction | MeanHeuristicScore |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| T1 | Identify which diseases are balanced, RP-only, suppressed, or no-deficit at portfolio level. | Overview | 1 | 4 | 4 | 3 | Fully supported | The overview gives counts but not the full disease list in the same card. | 3.67 |
+| T2 | Inspect one disease's RP, BP, deficit depth, and trajectory against its counterfactual. | Recovery | 1 | 4 | 4 | 4 | Fully supported | None beyond disease selection. | 4.0 |
+| T3 | Compare several diseases side by side and export the filtered time series for review meetings. | Time Series | 3 | 3 | 3 | 4 | Fully supported | Users must decide which subset to prefilter before export. | 3.33 |
+| T4 | Determine whether apparent recovery is accompanied by persistent seasonal timing shift. | Seasonality | 1 | 3 | 4 | 4 | Fully supported | The user still has to combine timing and magnitude mentally. | 3.67 |
+| T5 | Check definitions, study flow, and source files before interpreting outputs operationally. | Reference | 1 | 4 | 4 | 3 | Fully supported | Reference material is descriptive rather than interactive. | 3.67 |
+| T6 | Translate recovery plus seasonality into an action-oriented prioritization category. | Prioritization | 1 | 4 | 4 | 4 | Fully supported | The action labels remain rule-based and should still be reviewed against local workflow. | 4.0 |
+
+All six prespecified surveillance-review tasks were directly supported in the final build. This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing.
 
 <div style="page-break-after: always;"></div>
 

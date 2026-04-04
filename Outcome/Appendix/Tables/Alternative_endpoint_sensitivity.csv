@@ -1,0 +1,25 @@
+Shortname,Status,Date_Start_Deficit,Date_Trough,Date_Recovery,Date_Balance,Recovery_Months,Balance_Months,PI95_Date,PI95_Months,Ratio100_Date,Ratio100_Months,HalfDeficit_Date,HalfDeficit_Months,Group,PrimaryPhenotype,PrimaryRP_Achieved,PI95_Achieved,Ratio100_Achieved,HalfDeficit_Achieved
+Pneumonia,Debt Repaid,2020-04-01,2022-10-01,2022-11-01,2025-02-01,34,61,2022-03-01,26,2022-11-01,34,2024-07-01,54,Respiratory IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Influenza,Recovered,2020-03-01,2023-07-01,2023-08-01,NA,43,NA,2022-03-01,26,2023-08-01,43,2025-12-01,71,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
+Chickenpox,Suppressed,2020-02-01,2025-12-01,NA,NA,NA,NA,2024-01-01,48,NA,NA,NA,NA,Respiratory IDs,Suppressed,FALSE,TRUE,FALSE,FALSE
+Mumps,Recovered,2020-01-01,2024-08-01,2024-11-01,NA,58,NA,2022-08-01,31,2024-11-01,58,NA,NA,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
+Scarlet fever,Recovered,2020-01-01,2025-01-01,2025-02-01,NA,61,NA,2020-01-01,0,2025-02-01,61,2025-09-01,68,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
+Rubella,Suppressed,2020-01-01,2025-12-01,NA,NA,NA,NA,2020-07-01,6,NA,NA,NA,NA,Respiratory IDs,Suppressed,FALSE,TRUE,FALSE,FALSE
+Dengue fever,Recovered,2020-02-01,2022-11-01,2022-12-01,NA,35,NA,2020-02-01,1,2022-12-01,35,2023-12-01,47,Vector-borne and zoonotic IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
+Malaria,No Deficit,NA,2020-01-01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vector-borne and zoonotic IDs,No deficit,FALSE,FALSE,FALSE,FALSE
+Scrub Typhus,Debt Repaid,2020-06-01,2022-03-01,2022-04-01,2022-09-01,27,32,2020-06-01,5,2022-04-01,27,2022-07-01,30,Vector-borne and zoonotic IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Leptospirosis,Debt Repaid,2020-03-01,2022-04-01,2022-05-01,2022-10-01,28,33,2020-04-01,3,2022-05-01,28,2022-09-01,32,Vector-borne and zoonotic IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Melioidosis,Debt Repaid,2020-04-01,2022-04-01,2022-05-01,2023-06-01,28,41,2020-06-01,5,2022-05-01,28,2022-10-01,33,Vector-borne and zoonotic IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+S. suis,Debt Repaid,2020-02-01,2020-05-01,2020-06-01,2020-07-01,5,6,2020-05-01,4,2020-06-01,5,2020-06-01,5,Vector-borne and zoonotic IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+HFMD,Debt Repaid,2020-01-01,2022-06-01,2020-10-01,2022-09-01,9,32,2022-12-01,35,2020-10-01,9,2022-08-01,31,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Amebiasis,Debt Repaid,2021-07-01,2022-05-01,2022-06-01,2023-01-01,29,36,2022-01-01,24,2022-06-01,29,2022-11-01,34,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Shigellosis,Recovered,2020-03-01,2022-05-01,2022-08-01,NA,31,NA,2020-04-01,3,2022-08-01,31,2025-04-01,63,Gastrointestinal IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
+Typhoid,Debt Repaid,2020-01-01,2022-06-01,2022-07-01,2024-07-01,30,54,2022-05-01,28,2022-07-01,30,2024-01-01,48,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+HAV,Recovered,2020-01-01,2023-10-01,2023-11-01,NA,46,NA,2020-01-01,0,2023-11-01,46,NA,NA,Gastrointestinal IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
+Gonorrhoea,Debt Repaid,2020-01-01,2022-10-01,2023-01-01,2025-02-01,36,61,2020-09-01,8,2023-01-01,36,2024-05-01,52,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Syphilis,Suppressed,2020-05-01,2025-12-01,NA,NA,NA,NA,2020-05-01,4,NA,NA,NA,NA,Sexually IDs,Suppressed,FALSE,TRUE,FALSE,FALSE
+HBV,Debt Repaid,2020-03-01,2023-02-01,2023-06-01,2024-05-01,41,52,2020-06-01,5,2023-06-01,41,2024-02-01,49,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+CA (HPV),Debt Repaid,2020-03-01,2023-07-01,2023-08-01,2024-09-01,43,56,2020-03-01,2,2023-08-01,43,2024-04-01,51,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Genital herpes,Debt Repaid,2020-02-01,2022-12-01,2023-01-01,2024-04-01,36,51,2022-08-01,31,2023-01-01,36,2024-01-01,48,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE
+Chancroid,Recovered,2020-03-01,2023-12-01,2024-01-01,NA,48,NA,2020-05-01,4,2024-01-01,48,2025-04-01,63,Sexually IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
+HCV,Debt Repaid,2020-01-01,2022-04-01,2022-05-01,2022-11-01,28,34,2020-01-01,0,2022-05-01,28,2022-08-01,31,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE

@@ -26,8 +26,9 @@ source("./function/theme_set.R")
 source("./function/forecast.R")
 
 load('./temp/month.RData')
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
 
-data_class <- openxlsx::read.xlsx("../Outcome/Appendix/Best_model_outcome.xlsx") |>
+data_class <- openxlsx::read.xlsx(file.path(appendix_tables_dir, "Best_model_outcome.xlsx")) |>
      filter(Best == 1) |>
      select(disease, Method) |>
      left_join(select(data_class, Shortname, Group), by = c(disease = "Shortname")) |>
