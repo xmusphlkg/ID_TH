@@ -82,7 +82,8 @@ auto_analysis_function <- function(i, setting_row) {
           ts(frequency = 12,
              start = c(as.numeric(format(min(data_single$date), "%Y")), as.numeric(format(min(data_single$date), "%m"))))
      
-     ts_train <- log(ts_train + add_value)
+     transform_lambda <- estimate_transform_lambda(ts_train, method = forecast_transform, offset = add_value)
+     ts_train <- positive_forward_transform(ts_train, method = forecast_transform, offset = add_value, lambda = transform_lambda)
      
      ## setting the real data
      outcome_plot_1 <- data_single |>
@@ -102,7 +103,9 @@ auto_analysis_function <- function(i, setting_row) {
                                hybrid_cores = 10,
                                bsts_niter = setting_row$bsts_niter,
                                n_paths = setting_row$n_paths,
-                               seed = setting_row$seed)
+                               seed = setting_row$seed,
+                               transform_method = forecast_transform,
+                               transform_lambda = transform_lambda)
      # build outcome_plot_2 using a month sequence starting at the split date
      dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
      outcome_plot_2 <- data.frame(date = dates_seq,

@@ -146,19 +146,22 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                cv <- cv_splits[[s]]
                ts_train <- window(ts_obse,
                                   start = c(as.numeric(format(cv$train_start, "%Y")), as.numeric(format(cv$train_start, "%m"))),
-                                  end = c(as.numeric(format(cv$train_end, "%Y")), as.numeric(format(cv$train_end, "%m")))) + add_value
-               ts_train <- log(ts_train)
+                                  end = c(as.numeric(format(cv$train_end, "%Y")), as.numeric(format(cv$train_end, "%m"))))
+               transform_lambda <- estimate_transform_lambda(ts_train, method = forecast_transform, offset = add_value)
+               ts_train <- positive_forward_transform(ts_train, method = forecast_transform, offset = add_value, lambda = transform_lambda)
                
                ts_test <- window(ts_obse,
                                  start = c(as.numeric(format(cv$test_start, "%Y")), as.numeric(format(cv$test_start, "%m"))),
-                                 end = c(as.numeric(format(cv$test_end, "%Y")), as.numeric(format(cv$test_end, "%m")))) + add_value
-               ts_test <- log(ts_test)
+                                 end = c(as.numeric(format(cv$test_end, "%Y")), as.numeric(format(cv$test_end, "%m"))))
+               ts_test <- positive_forward_transform(ts_test, method = forecast_transform, offset = add_value, lambda = transform_lambda)
                h <- length(ts_test)
                
                # use centralized forecasting helper (returns mean and intervals on original scale)
                res <- forecast_model_ts(ts_train = ts_train, h = h, method = model_type,
                                         hybrid_parallel = FALSE, hybrid_cores = 10,
-                                        bsts_niter = 1000, seed = 20240902)
+                                        bsts_niter = 1000, seed = 20240902,
+                                        transform_method = forecast_transform,
+                                        transform_lambda = transform_lambda)
                preds <- res$mean
                lower_95 <- res$lower_95
                lower_80 <- res$lower_80
@@ -166,7 +169,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                upper_95 <- res$upper_95
                
                # compute test metrics for this split (on original scale)
-               actuals <- exp(ts_test)
+               actuals <- positive_inverse_transform(ts_test, method = forecast_transform, offset = add_value, lambda = transform_lambda)
                test_eval <- evaluate_forecast(preds, actuals)
                test_metrics[, s] <- test_eval
                

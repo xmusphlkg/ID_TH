@@ -20,15 +20,86 @@ evaluate_forecast <- function(actual, forecast) {
      return(c('SMAPE' = smape, 'RMSE' = rmse, 'MASE' = mase, 'R_Squared' = r_squared))
 }
 
+estimate_transform_lambda <- function(x,
+                                      method = forecast_transform,
+                                      offset = add_value) {
+     method <- match.arg(method, c("log", "sqrt", "boxcox"))
+
+     if (method != "boxcox") {
+          return(NA_real_)
+     }
+
+     x_pos <- as.numeric(x) + offset
+     x_pos <- x_pos[is.finite(x_pos)]
+
+     if (length(x_pos) < 2 || length(unique(x_pos)) < 2) {
+          return(1)
+     }
+
+     lambda <- tryCatch(
+          forecast::BoxCox.lambda(x_pos, method = "guerrero", lower = -1, upper = 2),
+          error = function(e) NA_real_
+     )
+
+     if (!is.finite(lambda)) {
+          lambda <- 0
+     }
+
+     lambda
+}
+
+positive_forward_transform <- function(x,
+                                       method = forecast_transform,
+                                       offset = add_value,
+                                       lambda = NULL) {
+     method <- match.arg(method, c("log", "sqrt", "boxcox"))
+
+     if (method == "log") {
+          return(log(x + offset))
+     }
+
+     if (method == "sqrt") {
+          return(sqrt(x + offset))
+     }
+
+     if (is.null(lambda) || !is.finite(lambda)) {
+          lambda <- estimate_transform_lambda(x, method = method, offset = offset)
+     }
+
+     forecast::BoxCox(x + offset, lambda)
+}
+
+positive_inverse_transform <- function(x,
+                                       method = forecast_transform,
+                                       offset = add_value,
+                                       lambda = NULL) {
+     method <- match.arg(method, c("log", "sqrt", "boxcox"))
+
+     if (method == "log") {
+          return(pmax(exp(x), offset))
+     }
+
+     if (method == "sqrt") {
+          floor_value <- sqrt(offset)
+          return(pmax(x, floor_value)^2)
+     }
+
+     if (is.null(lambda) || !is.finite(lambda)) {
+          stop("A finite Box-Cox lambda is required for inverse transformation.")
+     }
+
+     pmax(forecast::InvBoxCox(x, lambda), offset)
+}
+
 
 #' Forecast single-run model
 #'
 #' Fits a time series model and returns point forecasts and prediction
 #' intervals. This function performs a single deterministic forecast (no
-#' Monte Carlo simulation). Input `ts_train` is assumed to be log-transformed
-#' when required; returned values are back-transformed to the original scale.
+#' Monte Carlo simulation). Input `ts_train` is assumed to be pre-transformed;
+#' returned values are back-transformed to the original positive scale.
 #'
-#' @param ts_train Time series object (assumed to be log-transformed).
+#' @param ts_train Time series object (assumed to be pre-transformed).
 #' @param h Forecast horizon (integer).
 #' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
 #' @param hybrid_parallel Logical; passed to `hybridModel` when `method == "Hybrid"`.
@@ -44,10 +115,12 @@ evaluate_forecast <- function(actual, forecast) {
 #' - Group A (standard models): uses `forecast()` on models supported by the `forecast` package.
 #' - Group B (hybrid): fits using `hybridModel()` and extracts forecast and intervals.
 #' - Group C (Bayesian structural): fits using `bsts()` and extracts predictive intervals.
-#' Returned values are back-transformed from log scale.
+#' Returned values are back-transformed from the chosen positive-support scale.
 forecast_model_ts <- function(ts_train, h, method,
                               hybrid_parallel = TRUE, hybrid_cores = 10,
-                              bsts_niter = 1000, seed = 20240902) {
+                              bsts_niter = 1000, seed = 20240902,
+                              transform_method = forecast_transform,
+                              transform_lambda = NULL) {
      
      # 1. Input Validation and Setup
      valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
@@ -138,12 +211,12 @@ forecast_model_ts <- function(ts_train, h, method,
           }
      }
      
-     # 3. Return Results (Back-transform from Log scale)
-     return(list(mean = exp(mean_forecast),
-                 lower_95 = if (all(is.na(lower_95))) rep(NA, h) else exp(lower_95),
-                 lower_80 = if (all(is.na(lower_80))) rep(NA, h) else exp(lower_80),
-                 upper_80 = if (all(is.na(upper_80))) rep(NA, h) else exp(upper_80),
-                 upper_95 = if (all(is.na(upper_95))) rep(NA, h) else exp(upper_95)))
+     # 3. Return Results (Back-transform to the original positive scale)
+     return(list(mean = positive_inverse_transform(mean_forecast, method = transform_method, lambda = transform_lambda),
+                 lower_95 = if (all(is.na(lower_95))) rep(NA, h) else positive_inverse_transform(lower_95, method = transform_method, lambda = transform_lambda),
+                 lower_80 = if (all(is.na(lower_80))) rep(NA, h) else positive_inverse_transform(lower_80, method = transform_method, lambda = transform_lambda),
+                 upper_80 = if (all(is.na(upper_80))) rep(NA, h) else positive_inverse_transform(upper_80, method = transform_method, lambda = transform_lambda),
+                 upper_95 = if (all(is.na(upper_95))) rep(NA, h) else positive_inverse_transform(upper_95, method = transform_method, lambda = transform_lambda)))
 }
 
 #' Forecast with Monte Carlo Simulation
@@ -151,7 +224,7 @@ forecast_model_ts <- function(ts_train, h, method,
 #' Fits a time series model and generates simulation paths (MCMC) to capture uncertainty.
 #' Returns statistics (mean, CIs) and the raw simulation matrix.
 #'
-#' @param ts_train Time series object (assumed to be Log-transformed).
+#' @param ts_train Time series object (assumed to be pre-transformed).
 #' @param h Forecast horizon (integer).
 #' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
 #' @param hybrid_parallel Logical, for Hybrid model parallel processing.
@@ -160,10 +233,12 @@ forecast_model_ts <- function(ts_train, h, method,
 #' @param n_paths Integer, number of Monte Carlo simulation paths (default 1000).
 #' @param seed Integer, for reproducibility.
 #'
-#' @return A list containing mean, confidence intervals, and the raw MCMC matrix (original scale).
+#' @return A list containing mean, confidence intervals, and the raw simulation matrix (original positive scale).
 forecast_model_sim <- function(ts_train, h, method,
                                hybrid_parallel = TRUE, hybrid_cores = 10,
-                               bsts_niter = 1000, n_paths = 1000, seed = 20251209) {
+                               bsts_niter = 1000, n_paths = 1000, seed = 20251209,
+                               transform_method = forecast_transform,
+                               transform_lambda = NULL) {
      
      # 1. Input Validation and Setup
      valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
@@ -242,21 +317,21 @@ forecast_model_sim <- function(ts_train, h, method,
           sim_matrix_log <- t(posterior_samples[idx, ])
      }
      
-     # Back-transform from Log scale to Original scale
-     sim_matrix_exp <- exp(sim_matrix_log)
+     # Back-transform to the original positive scale
+     sim_matrix_pos <- positive_inverse_transform(sim_matrix_log, method = transform_method, lambda = transform_lambda)
      
      # Helper function to compute quantiles cleanly
      get_quantile <- function(x, p) apply(x, 1, quantile, probs = p, na.rm = TRUE)
      
      # Construct result list
      results <- list(
-          mean     = rowMeans(sim_matrix_exp, na.rm = TRUE),
-          median   = get_quantile(sim_matrix_exp, 0.5),
-          lower_95 = get_quantile(sim_matrix_exp, 0.025),
-          lower_80 = get_quantile(sim_matrix_exp, 0.100),
-          upper_80 = get_quantile(sim_matrix_exp, 0.900),
-          upper_95 = get_quantile(sim_matrix_exp, 0.975),
-          MCMC     = sim_matrix_exp
+          mean     = rowMeans(sim_matrix_pos, na.rm = TRUE),
+          median   = get_quantile(sim_matrix_pos, 0.5),
+          lower_95 = get_quantile(sim_matrix_pos, 0.025),
+          lower_80 = get_quantile(sim_matrix_pos, 0.100),
+          upper_80 = get_quantile(sim_matrix_pos, 0.900),
+          upper_95 = get_quantile(sim_matrix_pos, 0.975),
+          MCMC     = sim_matrix_pos
      )
      
      return(results)

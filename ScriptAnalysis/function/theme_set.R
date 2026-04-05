@@ -93,6 +93,12 @@ models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid**", "Bayes
 
 add_value <- 0.01
 
+# Positive-support forecasting transform
+# Keep the primary pipeline on the original log-scale workflow.
+# Alternative transforms (for example sqrt or Box-Cox) can be tested in
+# targeted sensitivity runs without changing the manuscript default.
+forecast_transform <- "log"
+
 # left border
 split_dates <- as.Date(c("2020/1/1", "2021/1/1", "2022/1/1", "2023/1/1"))
 split_periods <- c("Pre-COVID-19",
