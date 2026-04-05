@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   <h3 style="font-family: inherit; font-weight: normal; margin-bottom: 0;">Supplementary Appendix:</h3>
-  <h1 style="font-family: inherit; font-weight: bold; font-size: 1.5em;">Divergent recovery of incidence and cumulative deficits across Thailand’s notifiable infectious diseases after COVID-19: a modelling study</h1>
+  <h1 style="font-family: inherit; font-weight: bold; font-size: 1.5em;">Counterfactual digital decision support for infectious disease recovery in Thailand</h1>
   <br>
   <br>
   Kangguo Li et al. (2026)
@@ -17,7 +17,7 @@ The supplementary analyses were generated from a modular R and Python workflow t
 
 ### Disease-series curation and analytical subsets
 
-The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using a minimum requirement of continuous monthly coverage across all 144 prepandemic months from January, 2008 to December, 2019, plus disease-specific screening for sparse counts, non-seasonal or weak signal, and residual or unspecified disease definitions. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient prepandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Tables S1 and S3**.
+The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using a minimum requirement of continuous monthly coverage across all 144 prepandemic months from January, 2008 to December, 2019, plus disease-specific screening for sparse counts, non-seasonal or weak signal, and residual or unspecified disease definitions. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient prepandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Table S1**, **Supplementary Fig. S0**, and **Supplementary Table S3**.
 
 ### Construction of the monthly analytical cache
 
@@ -209,7 +209,7 @@ In addition to these classification-focused checks, two reconstruction-validatio
 
 ### Uncertainty-aware recovery and operational synthesis
 
-To move beyond deterministic recovery labels, we reran the RP/BP algorithm across the 1000 simulated counterfactual trajectories already generated for each disease. This produced disease-specific probabilities of achieving RP and BP by the end of follow-up, a probability of no sustained cumulative deficit, empirical 95% intervals for RP and BP month, and the probability that the deterministic median-based phenotype was retained. These outputs are summarized in **Supplementary Table S9** and were used in the revised main text to distinguish stable RP-only or BP-positive classifications from diseases with substantial state uncertainty.
+To move beyond deterministic recovery labels, we reran the RP/BP algorithm across the 1000 simulated counterfactual trajectories already generated for each disease. This produced disease-specific probabilities of achieving RP and BP by the end of follow-up, a probability of no sustained cumulative deficit, empirical 95% intervals for RP and BP month, and the probability that the deterministic median-based phenotype was retained. These outputs are summarized in **Supplementary Table S9** and were used in the revised main text to distinguish stable RP-only or BP-positive classifications from diseases with substantial state uncertainty. For operational interpretation only, diseases with deterministic phenotype stability below 0.5 were flagged as uncertainty-sensitive.
 
 We also evaluated whether the main recovery phenotypes depended materially on a single analytical interruption date. Deterministic RP/BP classifications were therefore recalculated with analytical start dates of January 2020, March 2020, and April 2020. The corresponding disease-level results are summarized in **Supplementary Table S10**. Finally, because the main model-selection procedure uses an equal-weight composite across three error metrics and three validation windows, we compared the selected model family against rank aggregation, sMAPE-only aggregation, and a horizon-weighted composite that emphasized the shortest extrapolation window. Those comparisons are summarized in **Supplementary Table S11**.
 
@@ -232,6 +232,26 @@ The digital decision-support layer was additionally assessed with an author-side
 | All monitored notifiable diseases | 72 |
 | Included in descriptive 43-disease analysis | 43 |
 | Included in 24-disease counterfactual analysis | 24 |
+
+**Supplementary Fig. S0. Two-stage disease-selection flow for the analytical subsets.**
+
+```text
+72 monitored notifiable disease series
+  -> Excluded before descriptive analysis (n = 29)
+     11 overlapping surveillance categories
+     6 conditions not aligned with the transmissible infectious-disease framework
+     5 ill-defined or residual categories
+     3 zero-incidence series
+     3 incompletely reported recent series
+     1 series with structural surveillance-definition change
+  -> Retained for descriptive 43-disease analysis (n = 43)
+     -> Excluded from counterfactual modelling (n = 19)
+        12 sparse or insufficient-count series
+        3 non-seasonal series
+        2 insufficient-duration series
+        2 residual or unspecified series
+     -> Retained for 24-disease counterfactual analysis (n = 24)
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -332,7 +352,7 @@ Across these 19 diseases, the main reasons for descriptive-only retention were i
 
 **Table S5. Sensitivity of RP/BP classifications to alternative RP thresholds and persistence requirements.**
 
-| Threshold | Consecutive months | Balanced | Recovered but not balanced | Suppressed | No deficit | Diseases reclassified vs primary analysis |
+| Threshold | Consecutive months | Balanced | RP achieved without BP | Suppressed | No deficit | Diseases reclassified vs primary analysis |
 | --------- | ------------------ | -------- | -------------------------- | ---------- | ---------- | ----------------------------------------- |
 | 0.95      | 3                  | 13       | 7                          | 3          | 1          | None                                      |
 | 0.90      | 2                  | 13       | 8                          | 2          | 1          | Chickenpox                                |
@@ -341,7 +361,7 @@ Across these 19 diseases, the main reasons for descriptive-only retention were i
 | 0.95      | 2                  | 13       | 8                          | 2          | 1          | Chickenpox                                |
 | 0.95      | 4                  | 13       | 7                          | 3          | 1          | None                                      |
 
-These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. The main RP/BP classification was unchanged when the recovery threshold was varied from 95% to 90% under 3- or 4-month persistence requirements. Only the most permissive 2-month rule reclassified chickenpox from suppressed to recovered-but-not-balanced, indicating that the principal recovery typology was stable to plausible RP definition changes.
+These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. The main RP/BP classification was unchanged when the recovery threshold was varied from 95% to 90% under 3- or 4-month persistence requirements. Only the most permissive 2-month rule reclassified chickenpox from suppressed to RP achieved without BP, indicating that the principal recovery typology was stable to plausible RP definition changes.
 
 <div style="page-break-after: always;"></div>
 
@@ -376,7 +396,7 @@ High-burden diseases that materially contribute to the main analyses showed low 
 
 **Table S8. Fixed-family counterfactual robustness analyses for RP/BP classification.**
 
-| Counterfactual specification | Balanced | Recovered but not balanced | Suppressed | No deficit | Disease-level status changes vs primary analysis | Reclassified diseases |
+| Counterfactual specification | Balanced | RP achieved without BP | Suppressed | No deficit | Disease-level status changes vs primary analysis | Reclassified diseases |
 | ---------------------------- | -------- | -------------------------- | ---------- | ---------- | ----------------------------------------------- | --------------------- |
 | Primary best-model analysis | 13 | 7 | 3 | 1 | Reference | Reference |
 | Uniform ETS model for all 24 diseases | 11 | 9 | 2 | 2 | 5 | Amebiasis; Shigellosis; Chickenpox; Pneumonia; Syphilis |
@@ -391,12 +411,12 @@ These fixed-family checks were designed to test whether the main RP/BP interpret
 | Shortname | Group | Primary deterministic phenotype | Pr(RP) | Pr(BP) | Primary phenotype stability | RP month, median (95% interval) | BP month, median (95% interval) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pneumonia | Respiratory IDs | Balanced | 1.000 | 0.785 | 0.785 | 34 (26-54) | 59 (42-70) |
-| Influenza | Respiratory IDs | Recovered but not balanced | 0.656 | 0.388 | 0.268 | 39 (25-68) | 52 (38-70) |
+| Influenza | Respiratory IDs | RP achieved without BP | 0.656 | 0.388 | 0.268 | 39 (25-68) | 52 (38-70) |
 | Chickenpox | Respiratory IDs | Suppressed | 0.718 | 0.000 | 0.282 | 60 (54-67) | NA |
-| Mumps | Respiratory IDs | Recovered but not balanced | 0.949 | 0.120 | 0.829 | 56 (30-68) | 68 (58-71) |
-| Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.798 | 0.322 | 0.476 | 60 (6-66) | 65 (41-71) |
+| Mumps | Respiratory IDs | RP achieved without BP | 0.949 | 0.120 | 0.829 | 56 (30-68) | 68 (58-71) |
+| Scarlet fever | Respiratory IDs | RP achieved without BP | 0.798 | 0.322 | 0.476 | 60 (6-66) | 65 (41-71) |
 | Rubella | Respiratory IDs | Suppressed | 0.292 | 0.009 | 0.708 | 30 (6-55) | 53 (7-62) |
-| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.340 | 0.383 | 30 (2-46) | 42 (3-63) |
+| Dengue fever | Vector-borne and zoonotic IDs | RP achieved without BP | 0.723 | 0.340 | 0.383 | 30 (2-46) | 42 (3-63) |
 | Malaria | Vector-borne and zoonotic IDs | No deficit | 0.531 | 0.531 | 0.469 | 4 (0-27) | 27 (1-34) |
 | Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 0.616 | 0.481 | 0.481 | 27 (6-60) | 32 (6-67) |
 | Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 27 (10-28) | 33 (33-35) |
@@ -404,18 +424,18 @@ These fixed-family checks were designed to test whether the main RP/BP interpret
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 0.989 | 0.956 | 0.956 | 5 (4-20) | 7 (4-54) |
 | HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 33 (32-44) |
 | Amebiasis | Gastrointestinal IDs | Balanced | 0.718 | 0.618 | 0.618 | 29 (4-48) | 38 (24-64) |
-| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.716 | 0.419 | 0.297 | 7 (5-61) | 31 (5-66) |
+| Shigellosis | Gastrointestinal IDs | RP achieved without BP | 0.716 | 0.419 | 0.297 | 7 (5-61) | 31 (5-66) |
 | Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (29-35) | 54 (53-58) |
-| HAV | Gastrointestinal IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 46 (0-48) | NA |
+| HAV | Gastrointestinal IDs | RP achieved without BP | 1.000 | 0.000 | 1.000 | 46 (0-48) | NA |
 | Gonorrhoea | Sexually IDs | Balanced | 0.989 | 0.690 | 0.690 | 36 (8-50) | 57 (44-70) |
 | Syphilis | Sexually IDs | Suppressed | 0.465 | 0.268 | 0.395 | 13 (0-63) | 36 (1-70) |
 | HBV | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 40 (36-41) | 52 (52-53) |
 | CA (HPV) | Sexually IDs | Balanced | 0.842 | 0.666 | 0.666 | 37 (0-55) | 50 (14-67) |
 | Genital herpes | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 36 (31-41) | 52 (51-53) |
-| Chancroid | Sexually IDs | Recovered but not balanced | 1.000 | 0.016 | 0.984 | 48 (8-49) | 70 (69-71) |
+| Chancroid | Sexually IDs | RP achieved without BP | 1.000 | 0.016 | 0.984 | 48 (8-49) | 70 (69-71) |
 | HCV | Sexually IDs | Balanced | 0.910 | 0.864 | 0.864 | 25 (1-48) | 38 (1-63) |
 
-These uncertainty summaries show that deterministic RP-only classifications were especially stable for HAV and chancroid, whereas influenza, dengue fever, scarlet fever, and shigellosis retained appreciable probability of eventual balance by the end of follow-up. Stable BP-positive classifications were concentrated in leptospirosis, melioidosis, HFMD, typhoid, HBV, and genital herpes.
+Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 1000 simulated trajectories; values below 0.5 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, influenza, chickenpox, scarlet fever, dengue fever, malaria, scrub typhus, shigellosis, and syphilis were uncertainty-sensitive. Deterministic RP-only classifications were especially stable for HAV and chancroid, whereas influenza, dengue fever, scarlet fever, and shigellosis retained appreciable probability of eventual balance by the end of follow-up. Stable BP-positive classifications were concentrated in leptospirosis, melioidosis, HFMD, typhoid, HBV, and genital herpes.
 
 <div style="page-break-after: always;"></div>
 
@@ -423,30 +443,30 @@ These uncertainty summaries show that deterministic RP-only classifications were
 
 | Shortname | Group | 2020-01 status | 2020-03 status | 2020-04 status | Changed vs January in March analysis | Changed vs January in April analysis |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pneumonia | Respiratory IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Influenza | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
+| Pneumonia | Respiratory IDs | Balanced | Balanced | Balanced | False | False |
+| Influenza | Respiratory IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
 | Chickenpox | Respiratory IDs | Suppressed | Suppressed | Suppressed | False | False |
-| Mumps | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
-| Scarlet fever | Respiratory IDs | Recovered | Recovered | Recovered | False | False |
+| Mumps | Respiratory IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
+| Scarlet fever | Respiratory IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
 | Rubella | Respiratory IDs | Suppressed | Suppressed | Suppressed | False | False |
-| Dengue fever | Vector-borne and zoonotic IDs | Recovered | Recovered | Recovered | False | False |
-| Malaria | Vector-borne and zoonotic IDs | No Deficit | No Deficit | Debt Repaid | False | True |
-| Scrub Typhus | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Leptospirosis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Melioidosis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| S. suis | Vector-borne and zoonotic IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| HFMD | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Amebiasis | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Shigellosis | Gastrointestinal IDs | Recovered | Recovered | Debt Repaid | False | True |
-| Typhoid | Gastrointestinal IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| HAV | Gastrointestinal IDs | Recovered | Recovered | Recovered | False | False |
-| Gonorrhoea | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| Dengue fever | Vector-borne and zoonotic IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | No deficit | Balanced | False | True |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | Balanced | Balanced | False | False |
+| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | Balanced | Balanced | False | False |
+| Melioidosis | Vector-borne and zoonotic IDs | Balanced | Balanced | Balanced | False | False |
+| S. suis | Vector-borne and zoonotic IDs | Balanced | Balanced | Balanced | False | False |
+| HFMD | Gastrointestinal IDs | Balanced | Balanced | Balanced | False | False |
+| Amebiasis | Gastrointestinal IDs | Balanced | Balanced | Balanced | False | False |
+| Shigellosis | Gastrointestinal IDs | RP achieved without BP | RP achieved without BP | Balanced | False | True |
+| Typhoid | Gastrointestinal IDs | Balanced | Balanced | Balanced | False | False |
+| HAV | Gastrointestinal IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
+| Gonorrhoea | Sexually IDs | Balanced | Balanced | Balanced | False | False |
 | Syphilis | Sexually IDs | Suppressed | Suppressed | Suppressed | False | False |
-| HBV | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| CA (HPV) | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Genital herpes | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
-| Chancroid | Sexually IDs | Recovered | Recovered | Recovered | False | False |
-| HCV | Sexually IDs | Debt Repaid | Debt Repaid | Debt Repaid | False | False |
+| HBV | Sexually IDs | Balanced | Balanced | Balanced | False | False |
+| CA (HPV) | Sexually IDs | Balanced | Balanced | Balanced | False | False |
+| Genital herpes | Sexually IDs | Balanced | Balanced | Balanced | False | False |
+| Chancroid | Sexually IDs | RP achieved without BP | RP achieved without BP | RP achieved without BP | False | False |
+| HCV | Sexually IDs | Balanced | Balanced | Balanced | False | False |
 
 No disease changed classification when the analytical start date was moved from January 2020 to March 2020. Only malaria and shigellosis changed when the start date was moved to April 2020, supporting the use of January 2020 as a pragmatic portfolio-level interruption anchor.
 
@@ -487,34 +507,34 @@ Across the 24 diseases, the primary selected family was also recovered for 18 di
 
 **Table S12. Joint operational synthesis of recovery phenotype and seasonal displacement.**
 
-| Shortname | Group | Primary deterministic status | Shift vs pre (months) | Shift vs predicted (months) | Seasonal displacement | Operational priority |
+| Shortname | Group | Primary deterministic phenotype | Shift vs pre (months) | Shift vs predicted (months) | Seasonal displacement | Operational priority |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pneumonia | Respiratory IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
-| Influenza | Respiratory IDs | Recovered | 1 | -3 | Shifted | Recalibrate and monitor |
+| Pneumonia | Respiratory IDs | Balanced | 1 | 1 | Stable | Low priority routine review |
+| Influenza | Respiratory IDs | RP achieved without BP | 1 | -3 | Shifted | Recalibrate and monitor |
 | Chickenpox | Respiratory IDs | Suppressed | -1 | 0 | Stable | High priority manual review |
-| Mumps | Respiratory IDs | Recovered | 6 | 5 | Shifted | Recalibrate and monitor |
-| Scarlet fever | Respiratory IDs | Recovered | -1 | -1 | Stable | Cumulative review needed |
+| Mumps | Respiratory IDs | RP achieved without BP | 6 | 5 | Shifted | Recalibrate and monitor |
+| Scarlet fever | Respiratory IDs | RP achieved without BP | -1 | -1 | Stable | Cumulative review needed |
 | Rubella | Respiratory IDs | Suppressed | 3 | 2 | Shifted | High priority manual review |
-| Dengue fever | Vector-borne and zoonotic IDs | Recovered | 0 | 0 | Stable | Cumulative review needed |
-| Malaria | Vector-borne and zoonotic IDs | No Deficit | 0 | 0 | Stable | No deficit monitoring |
-| Scrub Typhus | Vector-borne and zoonotic IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
-| Leptospirosis | Vector-borne and zoonotic IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
-| Melioidosis | Vector-borne and zoonotic IDs | Debt Repaid | -2 | -2 | Shifted | Recovered but recalibrate seasonality |
-| S. suis | Vector-borne and zoonotic IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
-| HFMD | Gastrointestinal IDs | Debt Repaid | 1 | 1 | Stable | Low priority routine review |
-| Amebiasis | Gastrointestinal IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
-| Shigellosis | Gastrointestinal IDs | Recovered | 1 | 1 | Stable | Cumulative review needed |
-| Typhoid | Gastrointestinal IDs | Debt Repaid | 0 | 0 | Stable | Low priority routine review |
-| HAV | Gastrointestinal IDs | Recovered | -5 | -5 | Shifted | Recalibrate and monitor |
-| Gonorrhoea | Sexually IDs | Debt Repaid | 0 | 1 | Stable | Low priority routine review |
+| Dengue fever | Vector-borne and zoonotic IDs | RP achieved without BP | 0 | 0 | Stable | Cumulative review needed |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | 0 | 0 | Stable | No deficit monitoring |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 0 | 0 | Stable | Low priority routine review |
+| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 1 | 1 | Stable | Low priority routine review |
+| Melioidosis | Vector-borne and zoonotic IDs | Balanced | -2 | -2 | Shifted | Balanced but recalibrate seasonality |
+| S. suis | Vector-borne and zoonotic IDs | Balanced | 0 | 0 | Stable | Low priority routine review |
+| HFMD | Gastrointestinal IDs | Balanced | 1 | 1 | Stable | Low priority routine review |
+| Amebiasis | Gastrointestinal IDs | Balanced | 0 | 0 | Stable | Low priority routine review |
+| Shigellosis | Gastrointestinal IDs | RP achieved without BP | 1 | 1 | Stable | Cumulative review needed |
+| Typhoid | Gastrointestinal IDs | Balanced | 0 | 0 | Stable | Low priority routine review |
+| HAV | Gastrointestinal IDs | RP achieved without BP | -5 | -5 | Shifted | Recalibrate and monitor |
+| Gonorrhoea | Sexually IDs | Balanced | 0 | 1 | Stable | Low priority routine review |
 | Syphilis | Sexually IDs | Suppressed | -2 | -2 | Shifted | High priority manual review |
-| HBV | Sexually IDs | Debt Repaid | 2 | 2 | Shifted | Recovered but recalibrate seasonality |
-| CA (HPV) | Sexually IDs | Debt Repaid | 4 | 4 | Shifted | Recovered but recalibrate seasonality |
-| Genital herpes | Sexually IDs | Debt Repaid | 2 | 2 | Shifted | Recovered but recalibrate seasonality |
-| Chancroid | Sexually IDs | Recovered | 0 | 0 | Stable | Cumulative review needed |
-| HCV | Sexually IDs | Debt Repaid | 4 | 4 | Shifted | Recovered but recalibrate seasonality |
+| HBV | Sexually IDs | Balanced | 2 | 2 | Shifted | Balanced but recalibrate seasonality |
+| CA (HPV) | Sexually IDs | Balanced | 4 | 4 | Shifted | Balanced but recalibrate seasonality |
+| Genital herpes | Sexually IDs | Balanced | 2 | 2 | Shifted | Balanced but recalibrate seasonality |
+| Chancroid | Sexually IDs | RP achieved without BP | 0 | 0 | Stable | Cumulative review needed |
+| HCV | Sexually IDs | Balanced | 4 | 4 | Shifted | Balanced but recalibrate seasonality |
 
-This joint table clarifies the retrospective decision utility of the framework. A monthly-incidence-only interpretation would have marked 20 diseases as normalized, but the integrated RP/BP-seasonality synthesis separated those diseases into cumulative-review, recalibration, and low-priority groups and isolated 3 persistently suppressed diseases for manual review.
+This joint table clarifies the retrospective decision utility of the framework. A monthly-incidence-only interpretation would have marked 20 diseases as monthly-normalized, but the integrated RP/BP-seasonality synthesis separated those diseases into cumulative-review, recalibration, and low-priority groups and isolated 3 persistently suppressed diseases for manual review.
 
 <div style="page-break-after: always;"></div>
 
@@ -523,12 +543,12 @@ This joint table clarifies the retrospective decision utility of the framework. 
 | Shortname | Group | Primary phenotype | Primary RP month | PI95 month | Ratio>=1 month | Half-deficit month | PI95 achieved | Ratio>=1 achieved | Half-deficit achieved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pneumonia | Respiratory IDs | Balanced | 34 | 26 | 34 | 54 | True | True | True |
-| Influenza | Respiratory IDs | Recovered but not balanced | 43 | 26 | 43 | 71 | True | True | True |
+| Influenza | Respiratory IDs | RP achieved without BP | 43 | 26 | 43 | 71 | True | True | True |
 | Chickenpox | Respiratory IDs | Suppressed | NA | 48 | NA | NA | True | False | False |
-| Mumps | Respiratory IDs | Recovered but not balanced | 58 | 31 | 58 | NA | True | True | False |
-| Scarlet fever | Respiratory IDs | Recovered but not balanced | 61 | 0 | 61 | 68 | True | True | True |
+| Mumps | Respiratory IDs | RP achieved without BP | 58 | 31 | 58 | NA | True | True | False |
+| Scarlet fever | Respiratory IDs | RP achieved without BP | 61 | 0 | 61 | 68 | True | True | True |
 | Rubella | Respiratory IDs | Suppressed | NA | 6 | NA | NA | True | False | False |
-| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 35 | 1 | 35 | 47 | True | True | True |
+| Dengue fever | Vector-borne and zoonotic IDs | RP achieved without BP | 35 | 1 | 35 | 47 | True | True | True |
 | Malaria | Vector-borne and zoonotic IDs | No deficit | NA | NA | NA | NA | False | False | False |
 | Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 27 | 5 | 27 | 30 | True | True | True |
 | Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 28 | 3 | 28 | 32 | True | True | True |
@@ -536,15 +556,15 @@ This joint table clarifies the retrospective decision utility of the framework. 
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 5 | 4 | 5 | 5 | True | True | True |
 | HFMD | Gastrointestinal IDs | Balanced | 9 | 35 | 9 | 31 | True | True | True |
 | Amebiasis | Gastrointestinal IDs | Balanced | 29 | 24 | 29 | 34 | True | True | True |
-| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 31 | 3 | 31 | 63 | True | True | True |
+| Shigellosis | Gastrointestinal IDs | RP achieved without BP | 31 | 3 | 31 | 63 | True | True | True |
 | Typhoid | Gastrointestinal IDs | Balanced | 30 | 28 | 30 | 48 | True | True | True |
-| HAV | Gastrointestinal IDs | Recovered but not balanced | 46 | 0 | 46 | NA | True | True | False |
+| HAV | Gastrointestinal IDs | RP achieved without BP | 46 | 0 | 46 | NA | True | True | False |
 | Gonorrhoea | Sexually IDs | Balanced | 36 | 8 | 36 | 52 | True | True | True |
 | Syphilis | Sexually IDs | Suppressed | NA | 4 | NA | NA | True | False | False |
 | HBV | Sexually IDs | Balanced | 41 | 5 | 41 | 49 | True | True | True |
 | CA (HPV) | Sexually IDs | Balanced | 43 | 2 | 43 | 51 | True | True | True |
 | Genital herpes | Sexually IDs | Balanced | 36 | 31 | 36 | 48 | True | True | True |
-| Chancroid | Sexually IDs | Recovered but not balanced | 48 | 4 | 48 | 63 | True | True | True |
+| Chancroid | Sexually IDs | RP achieved without BP | 48 | 4 | 48 | 63 | True | True | True |
 | HCV | Sexually IDs | Balanced | 28 | 0 | 28 | 31 | True | True | True |
 
 Among the 23 diseases that entered a sustained cumulative deficit, all 23 re-entered the 95% predictive interval for at least 3 months, whereas the stricter observed-to-expected ratio endpoint reproduced the same achieved-versus-not-achieved RP distinction as the primary endpoint for all 23. Eighteen of the 23 diseases halved their cumulative deficit by end follow-up, including 5 of the 7 deterministic RP-without-BP diseases.
