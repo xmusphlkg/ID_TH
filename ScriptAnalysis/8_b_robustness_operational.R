@@ -5,13 +5,44 @@ library(lubridate)
 Sys.setlocale("LC_TIME", "C")
 remove(list = ls())
 
+# load primary outcome and any optional simulation-time sensitivity outcomes
 load("./temp/outcome.RData")
+primary_outcome <- outcome
+
+parse_scenario <- function(path) {
+  file_name <- basename(path)
+  stripped <- sub("^outcome_", "", sub("\\.RData$", "", file_name))
+  mat <- stringr::str_match(stripped, "^(.*)_np([0-9]+)_bsts([0-9]+)_seed([0-9]+)$")
+  tibble(
+    Scenario = ifelse(is.na(mat[1, 2]), stripped, mat[1, 2]),
+    n_paths = ifelse(is.na(mat[1, 3]), NA_integer_, as.integer(mat[1, 3])),
+    bsts_niter = ifelse(is.na(mat[1, 4]), NA_integer_, as.integer(mat[1, 4])),
+    seed = ifelse(is.na(mat[1, 5]), NA_integer_, as.integer(mat[1, 5])),
+    OutcomePath = path
+  )
+}
+
+scenario_files <- list.files("./temp", pattern = "^outcome_.*\\.RData$", full.names = TRUE)
+scenario_files <- scenario_files[!grepl("^outcome\\.RData$", basename(scenario_files))]
+
+scenario_manifest <- bind_rows(
+  tibble(
+    Scenario = "primary",
+    n_paths = 1000L,
+    bsts_niter = 1000L,
+    seed = 20251209L,
+    OutcomePath = "./temp/outcome.RData"
+  ),
+  purrr::map_dfr(scenario_files, parse_scenario)
+) |>
+  distinct(Scenario, .keep_all = TRUE)
+
 load("./temp/month.RData")
 appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
 dir.create(appendix_tables_dir, showWarnings = FALSE, recursive = TRUE)
 
 data_class <- data_class |>
-  filter(Shortname %in% purrr::map_chr(outcome, ~ unique(.x$outcome_data$Shortname)[1]))
+  filter(Shortname %in% purrr::map_chr(primary_outcome, ~ unique(.x$outcome_data$Shortname)[1]))
 
 get_months <- function(start, end) {
   if (is.na(start) || is.na(end)) return(NA_real_)
@@ -152,53 +183,122 @@ status_label_map <- c(
   "No Deficit" = "No deficit"
 )
 
-uncertainty_summary <- purrr::map_dfr(outcome, function(item) {
-  shortname <- unique(item$outcome_data$Shortname)[1]
-  res <- calc_status_paths(item)
+load_outcome_from_file <- function(path) {
+  env <- new.env(parent = emptyenv())
+  load(path, envir = env)
+  env$outcome
+}
 
-  primary_status <- res$primary$Status[1]
-  sims <- res$sims
-  status_prob <- sims |>
-    count(Status, name = "n") |>
-    mutate(prob = n / sum(n))
+build_uncertainty_summary <- function(outcome_data,
+                                      start_date = as.Date("2020-01-01"),
+                                      recovery_threshold = 0.95,
+                                      persistence = 3) {
+  purrr::map_dfr(outcome_data, function(item) {
+    shortname <- unique(item$outcome_data$Shortname)[1]
+    res <- calc_status_paths(item,
+                             start_date = start_date,
+                             recovery_threshold = recovery_threshold,
+                             persistence = persistence)
 
-  primary_prob <- status_prob |>
-    filter(Status == primary_status) |>
-    pull(prob)
-  if (length(primary_prob) == 0) primary_prob <- 0
+    primary_status <- res$primary$Status[1]
+    sims <- res$sims
+    status_prob <- sims |>
+      count(Status, name = "n") |>
+      mutate(prob = n / sum(n))
 
-  rp_months <- purrr::map_dbl(
-    sims$Date_Recovery,
-    ~ if (is.na(.x)) NA_real_ else get_months(as.Date("2020-01-01"), .x)
-  )
-  bp_months <- purrr::map_dbl(
-    sims$Date_Balance,
-    ~ if (is.na(.x)) NA_real_ else get_months(as.Date("2020-01-01"), .x)
-  )
+    primary_prob <- status_prob |>
+      filter(Status == primary_status) |>
+      pull(prob)
+    if (length(primary_prob) == 0) primary_prob <- 0
 
-  tibble(
-    Shortname = shortname,
-    PrimaryStatus = primary_status,
-    PrimaryStatusLabel = unname(status_label_map[primary_status]),
-    Pr_RP = mean(sims$Status %in% c("Recovered", "Debt Repaid")),
-    Pr_BP = mean(sims$Status == "Debt Repaid"),
-    Pr_NoDeficit = mean(sims$Status == "No Deficit"),
-    PrimaryStatusProb = primary_prob,
-    RP_MedianMonths = ifelse(any(!is.na(rp_months)), median(rp_months, na.rm = TRUE), NA_real_),
-    RP_Q025Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.025, na.rm = TRUE), NA_real_),
-    RP_Q975Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.975, na.rm = TRUE), NA_real_),
-    BP_MedianMonths = ifelse(any(!is.na(bp_months)), median(bp_months, na.rm = TRUE), NA_real_),
-    BP_Q025Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.025, na.rm = TRUE), NA_real_),
-    BP_Q975Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.975, na.rm = TRUE), NA_real_)
-  )
+    rp_months <- purrr::map_dbl(
+      sims$Date_Recovery,
+      ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
+    )
+    bp_months <- purrr::map_dbl(
+      sims$Date_Balance,
+      ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
+    )
+
+    tibble(
+      Shortname = shortname,
+      PrimaryStatus = primary_status,
+      PrimaryStatusLabel = unname(status_label_map[primary_status]),
+      Pr_RP = mean(sims$Status %in% c("Recovered", "Debt Repaid")),
+      Pr_BP = mean(sims$Status == "Debt Repaid"),
+      Pr_NoDeficit = mean(sims$Status == "No Deficit"),
+      PrimaryStatusProb = primary_prob,
+      RP_MedianMonths = ifelse(any(!is.na(rp_months)), median(rp_months, na.rm = TRUE), NA_real_),
+      RP_Q025Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.025, na.rm = TRUE), NA_real_),
+      RP_Q975Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.975, na.rm = TRUE), NA_real_),
+      BP_MedianMonths = ifelse(any(!is.na(bp_months)), median(bp_months, na.rm = TRUE), NA_real_),
+      BP_Q025Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.025, na.rm = TRUE), NA_real_),
+      BP_Q975Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.975, na.rm = TRUE), NA_real_)
+    )
+  })
+}
+
+all_uncertainty_summary <- purrr::map_dfr(seq_len(nrow(scenario_manifest)), function(i) {
+  setting <- scenario_manifest[i, ]
+  setting_outcome <- load_outcome_from_file(setting$OutcomePath)
+  build_uncertainty_summary(setting_outcome) |>
+    mutate(
+      Scenario = setting$Scenario,
+      n_paths = setting$n_paths,
+      bsts_niter = setting$bsts_niter,
+      seed = setting$seed
+    )
 }) |>
   left_join(select(data_class, Shortname, Group), by = "Shortname") |>
   mutate(across(c(Pr_RP, Pr_BP, Pr_NoDeficit, PrimaryStatusProb), ~ round(.x, 3)))
 
+uncertainty_summary <- all_uncertainty_summary |>
+  filter(Scenario == "primary")
+
+if (nrow(uncertainty_summary) == 0) {
+  uncertainty_summary <- all_uncertainty_summary |>
+    slice_head(n = length(unique(all_uncertainty_summary$Shortname)))
+}
+
+simulation_time_sensitivity <- all_uncertainty_summary |>
+  select(Shortname, Group, Scenario, n_paths, bsts_niter,
+         PrimaryStatus, Pr_RP, Pr_BP, PrimaryStatusProb,
+         RP_MedianMonths, BP_MedianMonths) |>
+  left_join(
+    all_uncertainty_summary |>
+      filter(Scenario == "primary") |>
+      select(Shortname,
+             PrimaryStatus_ref = PrimaryStatus,
+             Pr_RP_ref = Pr_RP,
+             Pr_BP_ref = Pr_BP,
+             RP_MedianMonths_ref = RP_MedianMonths,
+             BP_MedianMonths_ref = BP_MedianMonths),
+    by = "Shortname"
+  ) |>
+  mutate(
+    StatusChangedVsPrimary = if_else(is.na(PrimaryStatus_ref), NA, PrimaryStatus != PrimaryStatus_ref),
+    Delta_Pr_RP = Pr_RP - Pr_RP_ref,
+    Delta_Pr_BP = Pr_BP - Pr_BP_ref,
+    Delta_RP_Months = RP_MedianMonths - RP_MedianMonths_ref,
+    Delta_BP_Months = BP_MedianMonths - BP_MedianMonths_ref
+  )
+
+simulation_time_counts <- simulation_time_sensitivity |>
+  filter(Scenario != "primary") |>
+  group_by(Scenario, n_paths, bsts_niter) |>
+  summarise(
+    ReclassifiedDiseases = sum(StatusChangedVsPrimary, na.rm = TRUE),
+    MaxAbsDeltaPrRP = if_else(all(is.na(Delta_Pr_RP)), NA_real_, max(abs(Delta_Pr_RP), na.rm = TRUE)),
+    MaxAbsDeltaPrBP = if_else(all(is.na(Delta_Pr_BP)), NA_real_, max(abs(Delta_Pr_BP), na.rm = TRUE)),
+    MeanAbsDeltaPrRP = if_else(all(is.na(Delta_Pr_RP)), NA_real_, mean(abs(Delta_Pr_RP), na.rm = TRUE)),
+    MeanAbsDeltaPrBP = if_else(all(is.na(Delta_Pr_BP)), NA_real_, mean(abs(Delta_Pr_BP), na.rm = TRUE)),
+    .groups = "drop"
+  )
+
 interrupt_dates <- as.Date(c("2020-01-01", "2020-03-01", "2020-04-01"))
 
 interruption_sensitivity <- purrr::map_dfr(interrupt_dates, function(start_date) {
-  purrr::map_dfr(outcome, function(item) {
+  purrr::map_dfr(primary_outcome, function(item) {
     shortname <- unique(item$outcome_data$Shortname)[1]
     res <- calc_status_paths(item, start_date = start_date)$primary
     tibble(
@@ -310,7 +410,7 @@ season_data_obs <- data_month |>
   ) |>
   filter(Period != "Pandemic")
 
-season_data_pred <- purrr::map_dfr(outcome, ~ .x$outcome_data) |>
+season_data_pred <- purrr::map_dfr(primary_outcome, ~ .x$outcome_data) |>
   filter(year(date) >= 2023) |>
   mutate(
     year = year(date),
@@ -360,7 +460,7 @@ phase_summary <- df_monthly_mean |>
     amplitude_ratio_vs_pred = `peak_to_trough_Post-PHSM (Observed)` / `peak_to_trough_Post-PHSM (Predicted)`
   )
 
-primary_summary <- purrr::map_dfr(outcome, function(item) {
+primary_summary <- purrr::map_dfr(primary_outcome, function(item) {
   shortname <- unique(item$outcome_data$Shortname)[1]
   res <- calc_status_paths(item)$primary
   tibble(
@@ -433,7 +533,11 @@ decision_utility_counts <- joint_operational_summary |>
 
 write.xlsx(
   list(
+    ScenarioManifest = scenario_manifest,
     Uncertainty = uncertainty_summary,
+    UncertaintyAllScenarios = all_uncertainty_summary,
+    SimulationTimeSensitivity = simulation_time_sensitivity,
+    SimulationTimeCounts = simulation_time_counts,
     InterruptionSensitivity = interruption_sensitivity,
     InterruptionCounts = interruption_counts,
     ModelSelectionSensitivity = model_selection_sensitivity,
@@ -457,6 +561,18 @@ write.csv(
   row.names = FALSE
 )
 
+write.csv(
+  simulation_time_sensitivity,
+  file.path(appendix_tables_dir, "Simulation_time_sensitivity.csv"),
+  row.names = FALSE
+)
+
+write.csv(
+  simulation_time_counts,
+  file.path(appendix_tables_dir, "Simulation_time_sensitivity_counts.csv"),
+  row.names = FALSE
+)
+
 message("Primary status counts:")
 print(primary_summary |> count(PrimaryStatus))
 
@@ -476,3 +592,6 @@ print(model_selection_counts)
 
 message("Decision-support summary:")
 print(decision_utility_counts)
+
+message("Simulation-time sensitivity summary:")
+print(simulation_time_counts)

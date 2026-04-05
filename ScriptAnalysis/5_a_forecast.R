@@ -20,6 +20,30 @@ set.seed(20240902)
 
 remove(list = ls())
 
+# simulation settings -----------------------------------------------------
+
+# Primary analysis settings (used by manuscript main results)
+simulation_settings <- tibble(
+     setting_id = "primary",
+     n_paths = 1000L,
+     bsts_niter = 1000L,
+     seed = 20251209L
+)
+
+# Optional simulation-time sensitivity runs
+run_simulation_sensitivity <- FALSE
+if (run_simulation_sensitivity) {
+     simulation_settings <- bind_rows(
+          simulation_settings,
+          tibble(
+               setting_id = c("np500", "np5000", "bsts2000"),
+               n_paths = c(500L, 5000L, 1000L),
+               bsts_niter = c(1000L, 1000L, 2000L),
+               seed = c(20251210L, 20251211L, 20251212L)
+          )
+     )
+}
+
 # data load ---------------------------------------------------------------
 
 source("./function/theme_set.R")
@@ -35,15 +59,13 @@ data_class <- openxlsx::read.xlsx(file.path(appendix_tables_dir, "Best_model_out
      mutate(disease = factor(disease, levels = data_class$Shortname),
             Method = if_else(Method == 'Hybrid**', "Hybrid", Method)) |>
      arrange(disease)
-data_class$id <- 1:nrow(data_class)
+data_class$id <- seq_len(nrow(data_class))
 
 disease_name <- data_class$disease
 
 # data clean --------------------------------------------------------------
 
-i <- 21
-
-auto_analysis_function <- function(i) {
+auto_analysis_function <- function(i, setting_row) {
      
      set.seed(20240902)
      
@@ -76,7 +98,11 @@ auto_analysis_function <- function(i) {
      
      # centralized forecasting helper returns mean and interval vectors (on original scale)
      res <- forecast_model_sim(ts_train = ts_train, h = forcast_length, method = data_class$Method[i],
-                               hybrid_parallel = TRUE, hybrid_cores = 10, bsts_niter = 1000, seed = 20251209)
+                               hybrid_parallel = TRUE,
+                               hybrid_cores = 10,
+                               bsts_niter = setting_row$bsts_niter,
+                               n_paths = setting_row$n_paths,
+                               seed = setting_row$seed)
      # build outcome_plot_2 using a month sequence starting at the split date
      dates_seq <- seq(split_dates[1], by = 'month', length.out = forcast_length)
      outcome_plot_2 <- data.frame(date = dates_seq,
@@ -99,7 +125,7 @@ auto_analysis_function <- function(i) {
                  color = if_else(diff > 0, "Decrease", "Increase"))
      
      write.csv(outcome_data,
-               paste0("../Outcome/Appendix/Forecasts_with_best_model/", data_class$disease[i], ".csv"),
+               paste0("../Outcome/Appendix/Forecasts_with_best_model/", setting_row$setting_id, "_", data_class$disease[i], ".csv"),
                row.names = F)
      
      return(list(outcome_data = outcome_data,
@@ -107,6 +133,7 @@ auto_analysis_function <- function(i) {
                  outcome_plot_1 = outcome_plot_1,
                  outcome_plot_2 = outcome_plot_2,
                  MCMC = res$MCMC,
+                 simulation_setting = setting_row,
                  max_value = max_value,
                  min_value = min_value,
                  max_case = max_case))
@@ -117,29 +144,43 @@ number_process <- ifelse(length(disease_name) >= max_proces,
                          max_proces,
                          length(disease_name))
 
-cl <- makeCluster(number_process)
-registerDoParallel(cl)
-clusterEvalQ(cl, {
-     library(tidyverse)
-     library(stats)
-     library(tseries)
-     library(astsa)
-     library(forecast)
-     library(forecastHybrid)
-     library(caret)
-     library(bsts)
-     library(patchwork)
-     library(Cairo)
-     library(paletteer)
-     
-     Sys.setlocale(locale = "en")
-     set.seed(20240902)
-})
+for (setting_idx in seq_len(nrow(simulation_settings))) {
+     setting_row <- as.list(simulation_settings[setting_idx, ])
 
-clusterExport(cl, ls()[ls() != "cl"], envir = environment())
-outcome <- parLapply(cl, 1:length(disease_name), auto_analysis_function)
-stopCluster(cl)
+     cl <- makeCluster(number_process)
+     registerDoParallel(cl)
+     clusterEvalQ(cl, {
+          library(tidyverse)
+          library(stats)
+          library(tseries)
+          library(astsa)
+          library(forecast)
+          library(forecastHybrid)
+          library(caret)
+          library(bsts)
+          library(patchwork)
+          library(Cairo)
+          library(paletteer)
 
-save(outcome, file = "./temp/outcome.RData")
+          Sys.setlocale(locale = "en")
+          set.seed(20240902)
+     })
+
+     clusterExport(cl, ls()[ls() != "cl"], envir = environment())
+     outcome <- parLapply(cl,
+                          seq_along(disease_name),
+                          function(idx) auto_analysis_function(idx, setting_row))
+     stopCluster(cl)
+
+     if (setting_row$setting_id == "primary") {
+          save(outcome, file = "./temp/outcome.RData")
+     }
+
+     save(outcome,
+          file = paste0("./temp/outcome_", setting_row$setting_id,
+                        "_np", setting_row$n_paths,
+                        "_bsts", setting_row$bsts_niter,
+                        "_seed", setting_row$seed, ".RData"))
+}
 
 source('./5_b_visualization.R')
