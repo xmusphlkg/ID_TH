@@ -25,7 +25,7 @@ remove(list = ls())
 # Primary analysis settings (used by manuscript main results)
 simulation_settings <- tibble(
      setting_id = "primary",
-     n_paths = 1000L,
+     n_paths = 5000L,
      bsts_niter = 1000L,
      seed = 20251209L
 )
@@ -36,8 +36,8 @@ if (run_simulation_sensitivity) {
      simulation_settings <- bind_rows(
           simulation_settings,
           tibble(
-               setting_id = c("np500", "np5000", "bsts2000"),
-               n_paths = c(500L, 5000L, 1000L),
+               setting_id = c("np500", "np1000", "bsts2000"),
+               n_paths = c(500L, 1000L, 5000L),
                bsts_niter = c(1000L, 1000L, 2000L),
                seed = c(20251210L, 20251211L, 20251212L)
           )
@@ -99,8 +99,8 @@ auto_analysis_function <- function(i, setting_row) {
      
      # centralized forecasting helper returns mean and interval vectors (on original scale)
      res <- forecast_model_sim(ts_train = ts_train, h = forcast_length, method = data_class$Method[i],
-                               hybrid_parallel = TRUE,
-                               hybrid_cores = 10,
+                               hybrid_parallel = FALSE,
+                               hybrid_cores = 1,
                                bsts_niter = setting_row$bsts_niter,
                                n_paths = setting_row$n_paths,
                                seed = setting_row$seed,

@@ -70,8 +70,8 @@ analyze_panel <- nav_panel(
           min     = 2L, max   = 6L, value = 3L, step = 1L
         ),
         checkboxInput(
-          inputId = "analyze_log_transform",
-          label   = "Apply log transform (+ 0.01 offset)",
+          inputId = "analyze_sqrt_transform",
+          label   = "Apply square-root transform (+ 0.01 offset)",
           value   = TRUE
         ),
         hr(),

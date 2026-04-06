@@ -111,11 +111,11 @@ plot_irr_panel <- function(g) {
 
 irr_list <- lapply(seq_along(disease_groups_select), plot_irr_panel)
 
-panel_irr_1 <- wrap_plots(irr_list[1:2], ncol = 1, guides = "collect") &
-     theme(legend.position = "none")
+panel_irr_1 <- wrap_plots(irr_list[1:2], ncol = 1, guides = "collect") +
+     plot_annotation(theme = theme(legend.position = "none"))
 
-panel_irr_2 <- wrap_plots(irr_list[3:4], ncol = 1, guides = "collect") &
-     theme(legend.position = "right")
+panel_irr_2 <- wrap_plots(irr_list[3:4], ncol = 1, guides = "collect") +
+     plot_annotation(theme = theme(legend.position = "right"))
 
 # ============================================================
 # PART 2 — Radar charts (Panels E–AB)
@@ -295,8 +295,8 @@ plot_radar <- function(i) {
 
 radar_list <- lapply(seq_len(nrow(data_class)), plot_radar)
 
-panel_radar <- wrap_plots(radar_list, ncol = 6, guides = "collect") &
-     theme(legend.position = "bottom")
+panel_radar <- wrap_plots(radar_list, ncol = 6, guides = "collect") +
+     plot_annotation(theme = theme(legend.position = "bottom"))
 
 # ============================================================
 # Assemble: IRR heatmaps (top) / Radar charts (bottom)

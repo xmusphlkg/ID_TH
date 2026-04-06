@@ -60,7 +60,7 @@ Even a retrospective simulation of decision impact would significantly strengthe
 
 ### **2. Lack of uncertainty propagation in RP/BP classification**
 
-The study generates 1000 simulated counterfactual trajectories per disease, but the RP/BP classification relies on **median forecasts and deterministic thresholds**.
+The study generates 5000 simulated counterfactual trajectories per disease, but the RP/BP classification relies on **median forecasts and deterministic thresholds**.
 
 This creates a key methodological limitation:
 

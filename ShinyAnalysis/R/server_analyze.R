@@ -130,9 +130,9 @@ analyze_server <- function(input, output, session) {
       }
 
       # ---- 3b. Build time series
-      add_val <- if (isTRUE(input$analyze_log_transform)) 0.01 else 0
+      add_val <- if (isTRUE(input$analyze_sqrt_transform)) 0.01 else 0
 
-      ts_values <- if (add_val > 0) log(df_train$cases + add_val) else df_train$cases
+      ts_values <- if (add_val > 0) sqrt(df_train$cases + add_val) else df_train$cases
       ts_train <- ts(ts_values,
                      start     = c(year(min(df_train$date)), month(min(df_train$date))),
                      frequency = 12)
@@ -149,14 +149,18 @@ analyze_server <- function(input, output, session) {
           )
           fc <- forecast::forecast(mod, h = h, level = c(80, 95))
 
-          # Bootstrap 500 paths for intervals
-          n_paths <- 500
+          # Bootstrap 5000 paths for intervals in the refreshed primary workflow.
+          n_paths <- 5000
           sim_mat <- replicate(n_paths,
             as.numeric(forecast::simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE)))
 
           get_q <- function(p) apply(sim_mat, 1, quantile, probs = p, na.rm = TRUE)
 
-          back <- if (add_val > 0) exp else identity
+          back <- if (add_val > 0) {
+            function(x) pmax((x ^ 2) - add_val, 0)
+          } else {
+            identity
+          }
 
           list(
             method   = method,
@@ -637,7 +641,7 @@ analyze_server <- function(input, output, session) {
       if (n_zero > 0) {
         notes <- c(notes, list(tags$li(
           tags$span(class = "status-badge badge-warning", "Note"),
-          paste0(" ", n_zero, " zero-case months detected. Log transform + 0.01 offset is recommended.")
+          paste0(" ", n_zero, " zero-case months detected. Square-root transform + 0.01 offset is recommended.")
         )))
       }
       # Check for large gaps

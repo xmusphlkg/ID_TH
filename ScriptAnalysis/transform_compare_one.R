@@ -149,7 +149,7 @@ summarize_uncertainty <- function(dates, observed, median_expected, sim_matrix) 
 
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) < 3) {
-  stop("Usage: Rscript transform_compare_one.R <Shortname> <Transform> <OutputCsv> [n_paths] [bsts_niter] [seed]")
+  stop("Usage: Rscript transform_compare_one.R <Shortname> <Transform> <OutputCsv> [n_paths] [bsts_niter] [seed] [method_override]")
 }
 
 shortname <- args[1]
@@ -158,6 +158,7 @@ out_file <- args[3]
 n_paths <- if (length(args) >= 4) as.integer(args[4]) else 1000L
 bsts_niter <- if (length(args) >= 5) as.integer(args[5]) else 1000L
 seed <- if (length(args) >= 6) as.integer(args[6]) else 20251209L
+method_override <- if (length(args) >= 7) args[7] else NA_character_
 
 model_row <- best_models |>
   filter(Shortname == shortname)
@@ -198,19 +199,22 @@ ts_train <- positive_forward_transform(
   lambda = transform_lambda
 )
 
+method_used <- if (is.na(method_override) || method_override == "") model_row$Method[1] else method_override
+
 res <- forecast_model_sim(
   ts_train = ts_train,
   h = nrow(observed_post),
-  method = model_row$Method[1],
+  method = method_used,
   hybrid_parallel = FALSE,
   hybrid_cores = 1,
   bsts_niter = bsts_niter,
   n_paths = n_paths,
   seed = seed,
-  transform_method = transform_method
-  ,
+  transform_method = transform_method,
   transform_lambda = transform_lambda
 )
+
+fourier_k <- if (!is.null(res$model_info$fourier_k)) res$model_info$fourier_k else NA_integer_
 
 summary_row <- summarize_uncertainty(
   dates = observed_post$date,
@@ -220,7 +224,8 @@ summary_row <- summarize_uncertainty(
 ) |>
   mutate(
     Shortname = shortname,
-    Method = model_row$Method[1],
+    Method = method_used,
+    FourierK = fourier_k,
     Transform = transform_method,
     TransformLambda = transform_lambda,
     n_paths = n_paths,
@@ -228,7 +233,7 @@ summary_row <- summarize_uncertainty(
     Error = NA_character_
   ) |>
   select(
-    Shortname, Method, Transform, TransformLambda, n_paths, bsts_niter, PrimaryStatus,
+    Shortname, Method, FourierK, Transform, TransformLambda, n_paths, bsts_niter, PrimaryStatus,
     Pr_RP, Pr_BP, RP_Q025, RP_Q975, RP_Width, BP_Q025, BP_Q975, BP_Width, Error
   )
 

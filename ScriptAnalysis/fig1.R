@@ -41,7 +41,7 @@ layer_data <- tibble::tribble(
   3.5, 0.75, "#EAF4F3", COL_TEAL, "ENSEMBLE FORECASTING FRAMEWORK",
   "Six model families, rolling hold-out validation, composite scoring\nAlternative selection rules retained the primary model for 18/24 to 21/24 diseases",
   2.5, 0.75, "#FDF4E7", COL_GOLD, "COUNTERFACTUAL TRAJECTORY GENERATION",
-  "Disease-adaptive best model refit on 2008-2019 baseline\n1,000 simulated forecast paths with 80% and 95% predictive intervals",
+  "Disease-adaptive best model refit on 2008-2019 baseline\n5,000 simulated forecast paths with 80% and 95% predictive intervals",
   1.5, 0.75, "#F9EDE9", COL_CORAL, "ANALYTICAL MODULES",
   "RP/BP classification, alternative endpoint checks, uncertainty propagation\nSeasonal displacement, contextual triangulation, and operational synthesis",
   0.5, 0.75, "#EAF4F3", COL_GREEN, "INTERACTIVE REVIEW LAYER",

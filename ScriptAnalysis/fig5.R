@@ -2,13 +2,9 @@
 # packages ----------------------------------------------------------------
 
 library(tidyverse)
-library(purrr)
 library(patchwork)
 library(ggrepel)
-library(broom)
-library(factoextra)
 library(openxlsx)
-library(mgcv)
 library(cluster)
 
 # data --------------------------------------------------------------------
@@ -20,306 +16,325 @@ remove(list = ls())
 source("./function/theme_set.R")
 source("./function/forecast.R")
 
-load('./temp/month.RData')
-load('./temp/outcome.RData')
+load("./temp/month.RData")
+load("./temp/outcome.RData")
 
-# estimate Rebound Metrics
+# estimate rebound metrics -------------------------------------------------
+
 df_metrics <- calculate_disease_metrics(outcome)
 
-# Clean data class
-data_class <- data_class |> 
-     # correct CA to CA (HPV)
+data_class <- data_class |>
+     mutate(
+          Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname),
+          Group = factor(Group, levels = disease_groups)
+     ) |>
      filter(Shortname %in% df_metrics$Shortname)
 
-# correct CA to CA (HPV)
-df_metrics <- df_metrics |> 
-     left_join(data_class |> select(Shortname, Group), by = "Shortname") |> 
-     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname)) |> 
-     filter(Max_Deficit_Raw < 0) |> 
-     mutate(Relative_Deficit = abs(Relative_Deficit),
-            Max_Deficit_Raw = abs(Max_Deficit_Raw))
+df_metrics <- df_metrics |>
+     mutate(Shortname = if_else(Shortname == "CA", "CA (HPV)", Shortname)) |>
+     left_join(data_class |> select(Shortname, Group), by = "Shortname") |>
+     mutate(Group = factor(Group, levels = disease_groups)) |>
+     filter(Max_Deficit_Raw < 0) |>
+     mutate(
+          Relative_Deficit = abs(Relative_Deficit),
+          Absolute_Suppression = abs(Max_Deficit_Raw)
+     )
 
-# reduction ----------------------------------------
+disease_order <- data_class |>
+     filter(Shortname %in% df_metrics$Shortname) |>
+     pull(Shortname)
 
-names(fill_color) <- levels(data_class$Group)
+names(fill_color) <- disease_groups
 
-# Absolute reduction
-# using https://app.rawgraphs.io/
-# seed: 11
+# panel A -----------------------------------------------------------------
 
-data_fig1 <- df_metrics |> 
-     select(Shortname, Group, Max_Deficit_Raw)
+data_fig1 <- df_metrics |>
+     transmute(
+          Shortname,
+          Group,
+          Absolute_Suppression
+     )
 
-write.csv(data_fig1,
-          "../Outcome/Publish/fig5_a_data.csv",
-          row.names = FALSE)
+write.csv(
+     data_fig1,
+     "../Outcome/Publish/fig5_a_data.csv",
+     row.names = FALSE
+)
 
-# create a empty plot for fig1
-fig1 <- ggplot() + 
-     theme_bw() + 
-     labs(title = "A") +
-     theme(plot.title.position = "plot")
+fig1 <- ggplot(data_fig1, aes(x = Absolute_Suppression, y = Shortname, fill = Group)) +
+     geom_col(width = 0.7, show.legend = TRUE) +
+     scale_x_continuous(
+          breaks = scales::pretty_breaks(n = 5),
+          labels = scientific_10,
+          expand = expansion(mult = c(0, 0.03))
+     ) +
+     scale_y_discrete(limits = rev(disease_order)) +
+     scale_fill_manual(values = fill_color) +
+     labs(
+          title = "A",
+          x = "Absolute suppression",
+          y = NULL,
+          fill = "Disease categories"
+     ) +
+     theme_bw() +
+     theme(
+          panel.grid = element_blank(),
+          plot.title.position = "plot",
+          legend.position = "bottom",
+          legend.title.position = "top",
+          plot.margin = margin(5, 10, 5, 5)
+     )
 
-data_fig2 <- df_metrics |> 
-     select(Shortname, Group, Relative_Deficit, Rebound_Intensity) |> 
-     mutate(Relative_Deficit_percent = round(Relative_Deficit * 100, 2))
+# panel B -----------------------------------------------------------------
+
+data_fig2 <- df_metrics |>
+     transmute(
+          Shortname,
+          Group,
+          Relative_Deficit,
+          Relative_Deficit_percent = round(Relative_Deficit * 100, 2),
+          Rebound_Intensity
+     )
 
 fig2_a <- ggplot(data_fig2, aes(x = Rebound_Intensity, y = Shortname, fill = Group)) +
-     geom_col(width = 0.7, show.legend = T) +
-     scale_x_continuous(limits = range(pretty(data_fig2$Rebound_Intensity)),
-                        trans = 'reverse',
-                        breaks = scales::pretty_breaks(n = 5),
-                        expand = expansion(mult = c(0, 0))) +
-     scale_y_discrete(limits = rev(data_class$Shortname),
-                      position = "right")+
+     geom_col(width = 0.7, show.legend = TRUE) +
+     scale_x_continuous(
+          limits = range(pretty(data_fig2$Rebound_Intensity)),
+          trans = "reverse",
+          breaks = scales::pretty_breaks(n = 5),
+          expand = expansion(mult = c(0, 0))
+     ) +
+     scale_y_discrete(limits = rev(disease_order), position = "right") +
      scale_fill_manual(values = fill_color) +
-     labs(fill = "Disease categories",
+     labs(
           title = "B",
           x = "Rebound intensity",
-          y = NULL) +
+          y = NULL,
+          fill = "Disease categories"
+     ) +
      theme_bw() +
-     theme(panel.grid = element_blank(),
-           plot.margin = margin(5, 0, 5, 5),
-           axis.text.y = element_blank(),
-           legend.position = 'bottom',
-           plot.title.position = "plot")
+     theme(
+          panel.grid = element_blank(),
+          plot.margin = margin(5, 0, 5, 5),
+          axis.text.y = element_blank(),
+          legend.position = "bottom",
+          legend.title.position = "top",
+          plot.title.position = "plot"
+     )
 
 fig2_b <- ggplot(data_fig2, aes(x = Relative_Deficit, y = Shortname, fill = Group)) +
-     geom_col(width = 0.7, show.legend = F) +
-     scale_x_continuous(limits = c(0, 1),
-                        breaks = seq(0, 1, by = 0.2),
-                        labels = scales::percent_format(accuracy = 2),
-                        expand = expansion(mult = c(0, 0))) +
-     scale_y_discrete(limits = rev(data_class$Shortname))+
+     geom_col(width = 0.7, show.legend = FALSE) +
+     scale_x_continuous(
+          limits = c(0, 1),
+          breaks = seq(0, 1, by = 0.2),
+          labels = scales::percent_format(accuracy = 1),
+          expand = expansion(mult = c(0, 0))
+     ) +
+     scale_y_discrete(limits = rev(disease_order)) +
      scale_fill_manual(values = fill_color) +
-     labs(fill = "Disease categories",
+     labs(
           x = "Relative suppression (%)",
-          y = NULL) +
+          y = NULL
+     ) +
      theme_bw() +
-     theme(panel.grid = element_blank(),
-           plot.margin = margin(5, 10, 5, 0),
-           axis.text.y = element_text(hjust = 0.5),
-           legend.position = 'bottom',
-           plot.title.position = "plot")
+     theme(
+          panel.grid = element_blank(),
+          plot.margin = margin(5, 10, 5, 0),
+          axis.text.y = element_text(hjust = 0.5),
+          legend.position = "bottom",
+          plot.title.position = "plot"
+     )
 
-# rebound -----------------------------------------------------------------
+# panel C -----------------------------------------------------------------
 
-# Hypothesis: Deeper reduction (X) -> Stronger Rebound (Y)
+data_fig3 <- df_metrics |>
+     drop_na(Suppression_Months, Rebound_Intensity) |>
+     transmute(
+          Shortname,
+          Group,
+          Recovery_Period = Suppression_Months,
+          Rebound_Intensity,
+          Absolute_Suppression
+     )
 
-data_fig3 <- df_metrics |> 
-     filter(!is.na(Rebound_Intensity),
-            Rebound_Intensity > 1,
-            !is.na(Suppression_Months)) |> 
-     mutate(Max_Deficit_Raw = abs(Max_Deficit_Raw)) |> 
-     select(Shortname, Group, Suppression_Months, Rebound_Intensity,  Max_Deficit_Raw)
-
-cor_test <- cor.test(data_fig3$Suppression_Months,
-                     data_fig3$Rebound_Intensity,
-                     method = "spearman")
+cor_test <- cor.test(
+     data_fig3$Recovery_Period,
+     data_fig3$Rebound_Intensity,
+     method = "pearson"
+)
 
 r_val <- formatC(as.numeric(cor_test$estimate), format = "f", digits = 2)
-p_val <- signif(cor_test$p.value, 2)
+p_val <- if (cor_test$p.value < 0.001) {
+     "< 0.001"
+} else {
+     formatC(cor_test$p.value, format = "f", digits = 3)
+}
 
-stats_label <- bquote(italic(rho) == .(r_val) ~ "," ~ italic(P) == .(p_val))
+stats_label <- paste0("r = ", r_val, ", P = ", p_val)
+pal_size_breaks <- pretty(range(data_fig3$Absolute_Suppression), n = 4)
 
-pal_size_breaks <- pretty(range(data_fig3$Max_Deficit_Raw), n = 5)
-
-# Fit a GAM to allow a flexible (non-linear) relationship check
-gam_res <- mgcv::gam(Rebound_Intensity ~ s(Suppression_Months), data = data_fig3)
-new_grid <- data.frame(Suppression_Months = seq(
-     min(data_fig3$Suppression_Months, na.rm = TRUE),
-     max(data_fig3$Suppression_Months, na.rm = TRUE),
-     length.out = 200))
-gam_pred <- predict(gam_res, newdata = new_grid, se.fit = TRUE)
-new_grid$pred <- gam_pred$fit
-new_grid$upper <- gam_pred$fit + 2 * gam_pred$se.fit
-new_grid$lower <- gam_pred$fit - 2 * gam_pred$se.fit
-
-fig3 <- ggplot(data_fig3, aes(x = Suppression_Months, y = Rebound_Intensity)) +
-     geom_ribbon(data = new_grid, aes(x = Suppression_Months, ymin = lower, ymax = upper),
-                 inherit.aes = FALSE, fill = "#DDEBF7", alpha = 0.5) +
-     geom_line(data = new_grid, aes(x = Suppression_Months, y = pred),
-               inherit.aes = FALSE, color = "#377EB8", size = 1) +
-     geom_point(aes(color = Group, size = Max_Deficit_Raw), alpha = 0.7) +
-     annotate("text", x = Inf, y = Inf, label = deparse(stats_label), 
-              hjust = 1.1, vjust = 1.5, size = 5, parse = TRUE) +
+fig3 <- ggplot(data_fig3, aes(x = Recovery_Period, y = Rebound_Intensity)) +
+     geom_smooth(
+          method = "lm",
+          se = TRUE,
+          color = "#377EB8",
+          fill = "#DDEBF7",
+          linewidth = 1
+     ) +
+     geom_point(aes(color = Group, size = Absolute_Suppression), alpha = 0.75) +
      geom_text_repel(aes(label = Shortname), size = 3) +
+     annotate(
+          "text",
+          x = Inf,
+          y = Inf,
+          label = stats_label,
+          hjust = 1.05,
+          vjust = 1.3,
+          size = 5
+     ) +
      scale_color_manual(values = fill_color) +
-     scale_size_continuous(limits = range(pal_size_breaks),
-                           labels = scientific_10,
-                           breaks = pal_size_breaks) +
+     scale_size_continuous(
+          limits = range(pal_size_breaks),
+          labels = scientific_10,
+          breaks = pal_size_breaks
+     ) +
      labs(
           title = "C",
           x = "Recovery period (months)",
-          y = "Rebound intensity ",
+          y = "Rebound intensity",
           size = "Deficit depth",
           color = "Group"
      ) +
-     theme_bw()+
-     theme(panel.grid = element_blank(),
-           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-           plot.margin = margin(5, 10, 5, 5),
-           legend.position = "inside",
-           legend.box = "vertical",
-           legend.direction = "vertical",
-           legend.position.inside = c(0.01, 0.99),
-           legend.justification.inside = c(0, 1),
-           plot.title.position = "plot")+
-     guides(color = 'none')
+     theme_bw() +
+     theme(
+          panel.grid = element_blank(),
+          plot.title = element_text(face = "bold", size = 14, hjust = 0),
+          plot.margin = margin(5, 10, 5, 5),
+          legend.position = "inside",
+          legend.box = "vertical",
+          legend.direction = "vertical",
+          legend.position.inside = c(0.01, 0.99),
+          legend.justification.inside = c(0, 1),
+          plot.title.position = "plot"
+     ) +
+     guides(color = "none")
 
-# Resilience Clustering ---------------------------------------------------
-
-# 1. Prepare Data for Clustering (Normalize)
-# Select key metrics: Depth (Log_Deficit), Time (Suppression), Intensity (Rebound)
+# panel D -----------------------------------------------------------------
 
 data_fig4 <- df_metrics |>
-     select(Shortname,
-            Relative_Deficit,
-            Rebound_Intensity) |>
-     drop_na() |> 
-     # drop HCV (outlier)
-     filter(Shortname != "HCV") |> 
-     mutate(Log_Rebound = log10(Relative_Deficit))
+     drop_na(Relative_Deficit, Rebound_Intensity) |>
+     transmute(
+          Shortname,
+          Group,
+          Relative_Deficit,
+          Rebound_Intensity
+     )
 
 data_fig4_scaled <- data_fig4 |>
-     select(Log_Rebound, Rebound_Intensity) |>
+     select(Relative_Deficit, Rebound_Intensity) |>
      scale()
 
-# 2. K-means Clustering — choose k quantitatively (Elbow / Silhouette / Gap)
 set.seed(20260101)
 
-# range of k to evaluate
-k_min <- 2
-k_max <- 6
-ks <- k_min:k_max
-
-# 1) WSS (within-cluster sum of squares) for elbow method
+ks <- 2:6
 wss <- sapply(ks, function(k) {
      km <- kmeans(data_fig4_scaled, centers = k, nstart = 25)
      km$tot.withinss
 })
 
-# 2) Average silhouette width
-dist_mat <- dist(data_fig4_scaled)
-avg_sil <- sapply(ks, function(k) {
-     km <- kmeans(data_fig4_scaled, centers = k, nstart = 25)
-     sil <- cluster::silhouette(km$cluster, dist_mat)
-     mean(sil[, 3])
-})
+cluster_selection <- tibble(
+     k = ks,
+     TotalWithinSS = wss,
+     RelativeReductionPct = c(NA_real_, (head(wss, -1) - tail(wss, -1)) / head(wss, -1) * 100)
+)
 
-# 3) Gap statistic (B=50 for speed; increase B for more stable results)
-set.seed(20260101)
-gap_stat <- cluster::clusGap(data_fig4_scaled,
-                             FUN = function(x, k) kmeans(x, centers = k, nstart = 25),
-                             K.max = k_max, B = 50)
-gaps <- gap_stat$Tab[ks, "gap"]
-ses <- gap_stat$Tab[ks, "SE.sim"]
+chosen_k <- 3L
+cluster_summary <- tibble(
+     SelectedK = chosen_k,
+     WSS_K2 = wss[ks == 2],
+     WSS_K3 = wss[ks == 3],
+     Reduction_K3_vs_K2_Pct = (wss[ks == 2] - wss[ks == 3]) / wss[ks == 2] * 100
+)
 
-# Determine best k by each method
-best_k_sil <- ks[which.max(avg_sil)]
+km_res <- kmeans(data_fig4_scaled, centers = chosen_k, nstart = 25)
 
-# Gap rule: smallest k such that gap[k] >= gap[k+1] - se[k+1]
-best_k_gap <- NA
-for (i in seq_len(length(ks) - 1)) {
-     k_i <- ks[i]
-     k_ip1 <- ks[i + 1]
-     if (gaps[i] >= (gaps[i + 1] - ses[i + 1])) {
-          best_k_gap <- k_i
-          break
-     }
-}
-if (is.na(best_k_gap)) best_k_gap <- ks[which.max(gaps)]
-
-# Elbow: choose k where relative reduction in WSS drops below threshold (10%)
-rel_drop <- -diff(wss) / wss[-length(wss)]
-elbow_idx <- which(rel_drop < 0.10)[1]
-if (!is.na(elbow_idx)) {
-     best_k_elbow <- ks[elbow_idx]
-} else {
-     best_k_elbow <- ks[which.max(diff(diff(wss)))]
-     if (is.na(best_k_elbow)) best_k_elbow <- ks[1]
-}
-
-# Aggregate choices and pick majority; prefer gap if tie
-choices <- c(best_k_sil, best_k_gap, best_k_elbow)
-chosen_k <- as.integer(names(sort(table(choices), decreasing = TRUE))[1])
-if (length(unique(choices)) > 1 && sum(choices == chosen_k) == 1) {
-     # tie-breaker: use gap
-     chosen_k <- best_k_gap
-}
-
-cat("K-selection summary:\n",
-    "  ks = ", paste(ks, collapse = ", "), "\n",
-    "  WSS = ", paste(round(wss, 2), collapse = ", "), "\n",
-    "  avg_silhouette = ", paste(round(avg_sil, 3), collapse = ", "), " (best=", best_k_sil, ")\n",
-    "  gap = ", paste(round(gaps, 3), collapse = ", "), " (best=", best_k_gap, ")\n",
-    "  elbow chosen = ", best_k_elbow, "\n",
-    "  final chosen k = ", chosen_k)
-
-# Run kmeans with chosen k
-km_res <- kmeans(data_fig4_scaled, centers = 3, nstart = 25)
-
-# Add cluster back to data
-data_fig4 <- data_fig4 |> 
-     mutate(Cluster = as.factor(km_res$cluster)) |> 
-     left_join(data_class |> select(Shortname, Group), by = "Shortname")
-
-# 3. Visualize (Bi-plot style)
-# X-axis: Susceptibility (Accumulated Deficit)
-# Y-axis: Resilience/Reaction (Rebound Intensity)
+data_fig4 <- data_fig4 |>
+     mutate(Cluster = as.factor(km_res$cluster))
 
 fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
-     # Draw hull or ellipse
-     ggpubr::stat_chull(aes(fill = Cluster), geom = "polygon", alpha = 0.5) +
-     geom_point(aes(color = Group), size = 4, show.legend = F) +
+     ggpubr::stat_chull(aes(fill = Cluster), geom = "polygon", alpha = 0.45) +
+     geom_point(aes(color = Group), size = 4, show.legend = FALSE) +
      geom_text_repel(aes(label = Shortname), size = 3, show.legend = FALSE) +
      scale_color_manual(values = fill_color) +
-     scale_fill_brewer(palette = "Dark2") +
-     labs(title = "D",
+     scale_fill_brewer(palette = "Set2") +
+     scale_x_continuous(labels = scales::percent_format(accuracy = 1)) +
+     labs(
+          title = "D",
           x = "Relative suppression (%)",
-          y = "Rebound intensity") +
+          y = "Rebound intensity",
+          fill = "Cluster"
+     ) +
      theme_bw() +
-     theme(legend.position = "inside",
-           plot.margin = margin(5, 10, 5, 5),
-           plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-           legend.box = "horizontal",
-           legend.direction = "horizontal",
-           legend.position.inside = c(0.01, 0.99),
-           legend.justification.inside = c(0, 1))
+     theme(
+          legend.position = "inside",
+          plot.margin = margin(5, 10, 5, 5),
+          plot.title = element_text(face = "bold", size = 14, hjust = 0),
+          legend.box = "horizontal",
+          legend.direction = "horizontal",
+          legend.position.inside = c(0.01, 0.99),
+          legend.justification.inside = c(0, 1),
+          plot.title.position = "plot"
+     )
 
 # save --------------------------------------------------------------------
 
-final_plot <- cowplot::plot_grid(
-     free(fig1) + fig2_a + fig2_b +
-          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect') &
-          theme(legend.position = 'bottom',
-                legend.title.position = 'top',
-                plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
-     fig3 + fig4 +
-          plot_layout(ncol = 2, byrow = ) &
-          theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
-     ncol = 1,
-     byrow = F,
-     rel_heights = c(1.2, 1),
-     labels = NULL
+top_row <- free(fig1) + fig2_a + fig2_b +
+     plot_layout(ncol = 3, widths = c(1.25, 0.52, 0.52), guides = "collect") +
+     plot_annotation(
+          theme = theme(
+               legend.position = "bottom",
+               legend.title.position = "top",
+               plot.title = element_text(face = "bold", size = 14, hjust = 0)
+          )
+     )
+
+bottom_row <- fig3 + fig4 +
+     plot_layout(ncol = 2) +
+     plot_annotation(
+          theme = theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
+     )
+
+final_plot <- top_row / bottom_row
+
+ggsave(
+     "../Outcome/Publish/npjDM/fig5.pdf",
+     plot = final_plot,
+     family = "Times New Roman",
+     limitsize = FALSE,
+     device = cairo_pdf,
+     width = 14,
+     height = 10
 )
 
-# Save
-ggsave("../Outcome/Publish/npjDM/fig5.pdf",
-       plot = final_plot, 
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 10)
+ggsave(
+     "../Outcome/Publish/npjDM/fig5.png",
+     final_plot,
+     limitsize = FALSE,
+     width = 14,
+     height = 10,
+     dpi = 300
+)
 
-ggsave("../Outcome/Publish/npjDM/fig5.png",
-       final_plot,
-       limitsize = FALSE,
-       width = 14, height = 10)
+figure_data <- list(
+     "panel A" = data_fig1,
+     "panel B" = data_fig2,
+     "panel C" = data_fig3,
+     "panel D" = data_fig4,
+     "cluster selection" = cluster_selection,
+     "cluster summary" = cluster_summary
+)
 
-outcome <- list('panel A' = data_fig1,
-                'panel B' = data_fig2,
-                'panel C' = data_fig3,
-                'panel D' = data_fig4)
-
-write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig5.xlsx')
+write.xlsx(
+     figure_data,
+     file = "../Outcome/Publish/figure_data/fig5.xlsx"
+)

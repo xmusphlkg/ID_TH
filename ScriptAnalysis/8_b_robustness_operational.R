@@ -28,7 +28,7 @@ scenario_files <- scenario_files[!grepl("^outcome\\.RData$", basename(scenario_f
 scenario_manifest <- bind_rows(
   tibble(
     Scenario = "primary",
-    n_paths = 1000L,
+    n_paths = 5000L,
     bsts_niter = 1000L,
     seed = 20251209L,
     OutcomePath = "./temp/outcome.RData"
@@ -49,6 +49,16 @@ get_months <- function(start, end) {
   y_diff <- year(end) - year(start)
   m_diff <- month(end) - month(start)
   y_diff * 12 + m_diff
+}
+
+safe_max_abs <- function(x) {
+  if (all(is.na(x))) return(NA_real_)
+  max(abs(x), na.rm = TRUE)
+}
+
+safe_mean_abs <- function(x) {
+  if (all(is.na(x))) return(NA_real_)
+  mean(abs(x), na.rm = TRUE)
 }
 
 calc_status_one <- function(dates,
@@ -145,14 +155,14 @@ calc_status_one <- function(dates,
   )
 }
 
-calc_status_paths <- function(item,
-                              start_date = as.Date("2020-01-01"),
-                              recovery_threshold = 0.95,
-                              persistence = 3) {
+calc_status_primary <- function(item,
+                                start_date = as.Date("2020-01-01"),
+                                recovery_threshold = 0.95,
+                                persistence = 3) {
   od <- item$outcome_data |>
     arrange(date)
 
-  primary <- calc_status_one(
+  calc_status_one(
     dates = od$date,
     observed = od$value,
     expected = od$median,
@@ -160,6 +170,26 @@ calc_status_paths <- function(item,
     recovery_threshold = recovery_threshold,
     persistence = persistence
   )
+}
+
+calc_status_paths <- function(item,
+                              start_date = as.Date("2020-01-01"),
+                              recovery_threshold = 0.95,
+                              persistence = 3,
+                              include_sims = TRUE) {
+  od <- item$outcome_data |>
+    arrange(date)
+
+  primary <- calc_status_primary(
+    item,
+    start_date = start_date,
+    recovery_threshold = recovery_threshold,
+    persistence = persistence
+  )
+
+  if (!include_sims) {
+    return(list(primary = primary, sims = tibble()))
+  }
 
   sim_list <- vector("list", ncol(item$MCMC))
   for (j in seq_len(ncol(item$MCMC))) {
@@ -288,10 +318,10 @@ simulation_time_counts <- simulation_time_sensitivity |>
   group_by(Scenario, n_paths, bsts_niter) |>
   summarise(
     ReclassifiedDiseases = sum(StatusChangedVsPrimary, na.rm = TRUE),
-    MaxAbsDeltaPrRP = if_else(all(is.na(Delta_Pr_RP)), NA_real_, max(abs(Delta_Pr_RP), na.rm = TRUE)),
-    MaxAbsDeltaPrBP = if_else(all(is.na(Delta_Pr_BP)), NA_real_, max(abs(Delta_Pr_BP), na.rm = TRUE)),
-    MeanAbsDeltaPrRP = if_else(all(is.na(Delta_Pr_RP)), NA_real_, mean(abs(Delta_Pr_RP), na.rm = TRUE)),
-    MeanAbsDeltaPrBP = if_else(all(is.na(Delta_Pr_BP)), NA_real_, mean(abs(Delta_Pr_BP), na.rm = TRUE)),
+    MaxAbsDeltaPrRP = safe_max_abs(Delta_Pr_RP),
+    MaxAbsDeltaPrBP = safe_max_abs(Delta_Pr_BP),
+    MeanAbsDeltaPrRP = safe_mean_abs(Delta_Pr_RP),
+    MeanAbsDeltaPrBP = safe_mean_abs(Delta_Pr_BP),
     .groups = "drop"
   )
 
@@ -300,7 +330,7 @@ interrupt_dates <- as.Date(c("2020-01-01", "2020-03-01", "2020-04-01"))
 interruption_sensitivity <- purrr::map_dfr(interrupt_dates, function(start_date) {
   purrr::map_dfr(primary_outcome, function(item) {
     shortname <- unique(item$outcome_data$Shortname)[1]
-    res <- calc_status_paths(item, start_date = start_date)$primary
+    res <- calc_status_primary(item, start_date = start_date)
     tibble(
       StartDate = as.character(start_date),
       Shortname = shortname,
@@ -462,7 +492,7 @@ phase_summary <- df_monthly_mean |>
 
 primary_summary <- purrr::map_dfr(primary_outcome, function(item) {
   shortname <- unique(item$outcome_data$Shortname)[1]
-  res <- calc_status_paths(item)$primary
+  res <- calc_status_primary(item)
   tibble(
     Shortname = shortname,
     PrimaryStatus = res$Status,

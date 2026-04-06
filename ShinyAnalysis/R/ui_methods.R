@@ -67,10 +67,10 @@ methods_panel <- nav_panel(
             tags$dd("Seasonal ARIMA selected by auto.arima() with AICc; seasonal period = 12 months."),
             tags$dt("Both"),
             tags$dd("Runs ETS and SARIMA and overlays both counterfactuals for visual comparison."),
-            tags$dt("Log transform"),
-            tags$dd("Models are fitted on log(cases + 0.01) and back-transformed for display."),
+              tags$dt("Primary transform"),
+              tags$dd("The refreshed manuscript workflow fits models on sqrt(cases + 0.01) and back-transforms for display."),
             tags$dt("Limitations"),
-            tags$dd("Monte Carlo uncertainty (1000 paths) is applied to ETS and SARIMA via bootstrap residuals. Results should be interpreted as indicative for small, noisy, or short datasets.")
+            tags$dd("Monte Carlo uncertainty (5000 paths) is applied to ETS and SARIMA via bootstrap residuals. Results should be interpreted as indicative for small, noisy, or short datasets.")
           )
         )
       )
@@ -84,7 +84,7 @@ methods_panel <- nav_panel(
             class = "insight-list",
             tags$li("Minimum training length: 36 months pre-disruption (≥ 60 recommended)."),
             tags$li("Consistent case definitions throughout the series — breaks in reporting protocol will bias counterfactuals."),
-            tags$li("Zero counts are accepted; Laplace smoothing (+0.01) prevents log(0) errors."),
+            tags$li("Zero counts are accepted; the +0.01 offset keeps square-root transformed series estimable."),
             tags$li("Multiple diseases in a single file are supported — switch disease in the sidebar selector."),
             tags$li("Monthly granularity required — weekly or daily data must be aggregated before upload.")
           )

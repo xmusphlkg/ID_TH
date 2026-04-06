@@ -44,7 +44,7 @@ fig1 <- ggplot() +
            fill = col_data, alpha = 0.15, color = col_data, linewidth = 1) +
   annotate("text", x = 1.75, y = 6.35, label = "Digital Data Processing", fontface = "bold", size = 3.5) +
   annotate("text", x = 1.75, y = 5.9, size = 2.8, lineheight = 0.9,
-           label = "Weekly-to-monthly reconstruction\nDisease screening (43 descriptive, 24 modelled)\nLog transformation + validation (r = 0.999)") +
+           label = "Weekly-to-monthly reconstruction\nDisease screening (43 descriptive, 24 modelled)\nSquare-root transformation + validation (r = 0.999)") +
 
   # Arrow: Data → Processing
 
@@ -98,7 +98,7 @@ fig1 <- ggplot() +
   annotate("text", x = 5.0, y = 3.3, label = "Counterfactual Forecasting",
            fontface = "bold", size = 3.5) +
   annotate("text", x = 5.0, y = 2.9, size = 2.8, lineheight = 0.9,
-           label = "1000 Monte Carlo trajectories per disease\nMonthly medians + 95% predictive intervals (Jan 2020 \u2013 Dec 2025)") +
+           label = "5000 Monte Carlo trajectories per disease\nMonthly medians + 95% predictive intervals (Jan 2020 \u2013 Dec 2025)") +
 
   # Arrow: Ensemble → Counterfactual
   annotate("segment", x = 5.0, xend = 5.0, y = 3.8, yend = 3.55,

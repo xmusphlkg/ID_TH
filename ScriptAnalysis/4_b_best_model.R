@@ -177,9 +177,13 @@ fig_model <- ggplot(data_map) +
           y = NULL,
           fill = "Composite index")
 
-fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect')&
-     theme(legend.position = 'bottom',
-           legend.direction = "horizontal",
-           legend.box = 'vertical')
+fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect') +
+     plot_annotation(
+          theme = theme(
+               legend.position = 'bottom',
+               legend.direction = "horizontal",
+               legend.box = 'vertical'
+          )
+     )
 
 save(fig1, data_class, data_map, file = './temp/best_model_figure.RData')

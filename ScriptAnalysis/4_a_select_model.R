@@ -87,7 +87,7 @@ table_build <- function(data_table, i) {
                  rows = NULL,
                  cols = c('Method', display_ordered),
                  theme = ttheme('default', base_size = 9, padding = unit(c(5, 5), 'mm'))) |>
-          tab_add_title(paste(LETTERS[i + 6], ':', index, ' of models'), face = 'bold', size = 14) |>
+          tab_add_title(paste(LETTERS[i + length(models)], ':', index, ' of models'), face = 'bold', size = 14) |>
           tab_add_footnote('*Hybrid: Combined Neural network,\nETS, SARIMA and TBATS model,\nweighted by RMSE',
                            just = 'left', hjust = 1, size = 9)
 }
@@ -120,14 +120,13 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
      
      # random model order
      set.seed(sample(1:100, 1))
-     models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
      models_order <- sample(models)
      print(models_order)
      
      # models -----------------------------------------------------------------
      
      # initialize plot objects to avoid missing-variable errors
-     fig_nnet_1 <- fig_ets_1 <- fig_sarima_1 <- fig_tbats_1 <- fig_hyb_1 <- fig_baye_1 <- NULL
+     fig_model_list <- setNames(vector("list", length(models)), models)
      model_type <- models_order[5]
      
      # container to collect forecasts (all models, all splits) for this disease
@@ -197,12 +196,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                if (!is.null(forecasts_df)) {
                     split_starts <- sapply(cv_splits, function(x) x$test_start)
                     fig_model <- plot_outcome_multisplit(data_single, forecasts_df, split_starts, max_case = 0, which(models == model_type), model_type)
-                    if (model_type == "Neural Network") fig_nnet_1 <- fig_model
-                    else if (model_type == "ETS") fig_ets_1 <- fig_model
-                    else if (model_type == "SARIMA") fig_sarima_1 <- fig_model
-                    else if (model_type == "TBATS") fig_tbats_1 <- fig_model
-                    else if (model_type == "Hybrid") fig_hyb_1 <- fig_model
-                    else if (model_type == "Bayesian structural") fig_baye_1 <- fig_model
+                    fig_model_list[[model_type]] <- fig_model
                }
           }, silent = TRUE)
           
@@ -231,10 +225,15 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
      
      # save --------------------------------------------------------------------
      
-     fig_ts <- fig_nnet_1 + fig_ets_1 + fig_sarima_1 + fig_tbats_1 + fig_hyb_1 + fig_baye_1 +
-          plot_layout(ncol = 2, guides = "collect") &
-          theme(legend.position = "bottom",
-                plot.margin = margin(5, 15, 5, 5))
+     fig_model_list <- Filter(Negate(is.null), fig_model_list)
+
+     fig_ts <- wrap_plots(fig_model_list, ncol = 2, guides = "collect") +
+          plot_annotation(
+               theme = theme(
+                    legend.position = "bottom",
+                    plot.margin = margin(5, 15, 5, 5)
+               )
+          )
      
      fig <- cowplot::plot_grid(fig_ts, fig_table, ncol = 1, rel_heights = c(3, 1))
      
@@ -242,7 +241,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
           filename = paste0("../Outcome/Appendix/Supplementary Appendix 1_5/", disease_name[i], ".png"),
           fig,
           device = "png",
-          width = 14, height = 15,
+          width = 18, height = 20,
           limitsize = FALSE,
           dpi = 300
      )

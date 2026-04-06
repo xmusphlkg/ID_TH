@@ -48,6 +48,53 @@ estimate_transform_lambda <- function(x,
      lambda
 }
 
+fit_fourier_arima <- function(ts_train,
+                              max_k = NULL,
+                              ic = "aicc") {
+     seasonal_period <- frequency(ts_train)
+
+     if (is.null(max_k)) {
+          max_k <- min(6L, floor(seasonal_period / 2))
+     }
+
+     if (!is.finite(max_k) || max_k < 1 || seasonal_period < 2) {
+          mod <- auto.arima(ts_train, seasonal = TRUE, ic = ic, lambda = NULL)
+          return(list(model = mod, fourier_k = NA_integer_))
+     }
+
+     candidate_fits <- lapply(seq_len(max_k), function(k) {
+          xreg_train <- forecast::fourier(ts_train, K = k)
+
+          mod <- tryCatch(
+               auto.arima(ts_train,
+                          xreg = xreg_train,
+                          seasonal = FALSE,
+                          ic = ic,
+                          lambda = NULL),
+               error = function(e) NULL
+          )
+
+          if (is.null(mod)) {
+               return(NULL)
+          }
+
+          list(
+               model = mod,
+               fourier_k = k,
+               aicc = mod$aicc
+          )
+     })
+
+     candidate_fits <- Filter(Negate(is.null), candidate_fits)
+
+     if (length(candidate_fits) == 0) {
+          stop("Unable to fit any Fourier-ARIMA candidate.")
+     }
+
+     best_idx <- which.min(vapply(candidate_fits, function(x) x$aicc, numeric(1)))
+     candidate_fits[[best_idx]]
+}
+
 positive_forward_transform <- function(x,
                                        method = forecast_transform,
                                        offset = add_value,
@@ -101,7 +148,7 @@ positive_inverse_transform <- function(x,
 #'
 #' @param ts_train Time series object (assumed to be pre-transformed).
 #' @param h Forecast horizon (integer).
-#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
+#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural", "ARIMA + Fourier".
 #' @param hybrid_parallel Logical; passed to `hybridModel` when `method == "Hybrid"`.
 #' @param hybrid_cores Integer; number of cores for `hybridModel`.
 #' @param bsts_niter Integer; number of iterations for `bsts` when using the Bayesian structural model.
@@ -123,12 +170,13 @@ forecast_model_ts <- function(ts_train, h, method,
                               transform_lambda = NULL) {
      
      # 1. Input Validation and Setup
-     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural", "ARIMA + Fourier")
      method <- match.arg(method, valid_methods)
      
      # Initialize result vectors
      lower_95 <- lower_80 <- upper_80 <- upper_95 <- rep(NA, h)
      mean_forecast <- rep(NA, h)
+     model_info <- list()
      
      set.seed(seed)
      
@@ -136,19 +184,25 @@ forecast_model_ts <- function(ts_train, h, method,
      # 2. Model Fitting and Forecasting
      # ---------------------------------------------------------
      
-     # GROUP A: Standard Models (Neural Network, ETS, SARIMA, TBATS)
-     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
+     # GROUP A: Standard Models (Neural Network, ETS, SARIMA, TBATS, ARIMA + Fourier)
+     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS", "ARIMA + Fourier")) {
           
-          # Fit the appropriate model
-          mod <- switch(method,
-                        "Neural Network" = nnetar(ts_train, lambda = NULL),
-                        "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
-                        "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
-                        "TBATS"          = tbats(ts_train, seasonal.periods = 12)
-          )
-          
-          # Generate forecast
-          out <- forecast(mod, h = h)
+          if (method == "ARIMA + Fourier") {
+               fit <- fit_fourier_arima(ts_train, ic = "aicc")
+               mod <- fit$model
+               future_xreg <- forecast::fourier(ts_train, K = fit$fourier_k, h = h)
+               out <- forecast(mod, h = h, xreg = future_xreg)
+               model_info$fourier_k <- fit$fourier_k
+          } else {
+               mod <- switch(method,
+                             "Neural Network" = nnetar(ts_train, lambda = NULL),
+                             "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
+                             "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
+                             "TBATS"          = tbats(ts_train, seasonal.periods = 12, use.parallel = FALSE, num.cores = 1)
+               )
+               out <- forecast(mod, h = h)
+          }
+
           mean_forecast <- as.numeric(out$mean)
           
           # Extract intervals if available
@@ -216,7 +270,8 @@ forecast_model_ts <- function(ts_train, h, method,
                  lower_95 = if (all(is.na(lower_95))) rep(NA, h) else positive_inverse_transform(lower_95, method = transform_method, lambda = transform_lambda),
                  lower_80 = if (all(is.na(lower_80))) rep(NA, h) else positive_inverse_transform(lower_80, method = transform_method, lambda = transform_lambda),
                  upper_80 = if (all(is.na(upper_80))) rep(NA, h) else positive_inverse_transform(upper_80, method = transform_method, lambda = transform_lambda),
-                 upper_95 = if (all(is.na(upper_95))) rep(NA, h) else positive_inverse_transform(upper_95, method = transform_method, lambda = transform_lambda)))
+                 upper_95 = if (all(is.na(upper_95))) rep(NA, h) else positive_inverse_transform(upper_95, method = transform_method, lambda = transform_lambda),
+                 model_info = model_info))
 }
 
 #' Forecast with Monte Carlo Simulation
@@ -226,25 +281,26 @@ forecast_model_ts <- function(ts_train, h, method,
 #'
 #' @param ts_train Time series object (assumed to be pre-transformed).
 #' @param h Forecast horizon (integer).
-#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural".
+#' @param method One of: "Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural", "ARIMA + Fourier".
 #' @param hybrid_parallel Logical, for Hybrid model parallel processing.
 #' @param hybrid_cores Integer, number of cores for Hybrid model.
 #' @param bsts_niter Integer, iterations for BSTS model.
-#' @param n_paths Integer, number of Monte Carlo simulation paths (default 1000).
+#' @param n_paths Integer, number of Monte Carlo simulation paths (default 5000).
 #' @param seed Integer, for reproducibility.
 #'
 #' @return A list containing mean, confidence intervals, and the raw simulation matrix (original positive scale).
 forecast_model_sim <- function(ts_train, h, method,
                                hybrid_parallel = TRUE, hybrid_cores = 10,
-                               bsts_niter = 1000, n_paths = 1000, seed = 20251209,
+                               bsts_niter = 1000, n_paths = 5000, seed = 20251209,
                                transform_method = forecast_transform,
                                transform_lambda = NULL) {
      
      # 1. Input Validation and Setup
-     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
+     valid_methods <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural", "ARIMA + Fourier")
      method <- match.arg(method, valid_methods)
      
      set.seed(seed)
+     model_info <- list()
      
      # Initialize matrix to store log-scale paths (Rows=Time, Cols=Paths)
      sim_matrix_log <- matrix(NA, nrow = h, ncol = n_paths)
@@ -254,20 +310,48 @@ forecast_model_sim <- function(ts_train, h, method,
      # ---------------------------------------------------------
      
      # GROUP A: Standard Models (Supported by forecast::simulate)
-     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS")) {
+     if (method %in% c("Neural Network", "ETS", "SARIMA", "TBATS", "ARIMA + Fourier")) {
           
-          # Fit the appropriate model
-          mod <- switch(method,
-                        "Neural Network" = nnetar(ts_train, lambda = NULL),
-                        "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
-                        "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
-                        "TBATS"          = tbats(ts_train, seasonal.periods = 12)
-          )
-          
-          # Generate paths using replicate (Cleaner than for-loop)
-          # simulate() handles the bootstrapping of residuals automatically
-          sim_matrix_log <- replicate(n_paths, 
-                                      as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE)))
+          if (method == "ARIMA + Fourier") {
+               fit <- fit_fourier_arima(ts_train, ic = "aicc")
+               mod <- fit$model
+               future_xreg <- forecast::fourier(ts_train, K = fit$fourier_k, h = h)
+               model_info$fourier_k <- fit$fourier_k
+
+               sim_matrix_log <- replicate(
+                    n_paths,
+                    as.numeric(simulate(mod,
+                                        nsim = h,
+                                        future = TRUE,
+                                        bootstrap = TRUE,
+                                        xreg = future_xreg))
+               )
+          } else {
+               mod <- switch(method,
+                             "Neural Network" = nnetar(ts_train, lambda = NULL),
+                             "ETS"            = ets(ts_train, ic = "aicc", lambda = NULL),
+                             "SARIMA"         = auto.arima(ts_train, seasonal = TRUE, ic = "aicc", lambda = NULL),
+                             "TBATS"          = tbats(ts_train, seasonal.periods = 12, use.parallel = FALSE, num.cores = 1)
+               )
+
+               if (method == "ETS") {
+                    # On transformed data, ETS state-space simulation can produce
+                    # pathological right tails for high-seasonality series such as influenza.
+                    # Anchor the uncertainty around the deterministic transformed-scale forecast
+                    # and bootstrap one-step residuals instead.
+                    fc_out <- forecast(mod, h = h)
+                    mu <- as.numeric(fc_out$mean)
+                    resids <- na.omit(as.numeric(residuals(mod)))
+                    sim_matrix_log <- replicate(n_paths, {
+                         mu + sample(resids, size = h, replace = TRUE)
+                    })
+               } else {
+                    sim_matrix_log <- replicate(
+                         n_paths,
+                         as.numeric(simulate(mod, nsim = h, future = TRUE, bootstrap = TRUE))
+                    )
+               }
+          }
           
           # GROUP B: Hybrid Model (Manual Parametric Bootstrap)
      } else if (method == "Hybrid") {
@@ -331,7 +415,8 @@ forecast_model_sim <- function(ts_train, h, method,
           lower_80 = get_quantile(sim_matrix_pos, 0.100),
           upper_80 = get_quantile(sim_matrix_pos, 0.900),
           upper_95 = get_quantile(sim_matrix_pos, 0.975),
-          MCMC     = sim_matrix_pos
+          MCMC     = sim_matrix_pos,
+          model_info = model_info
      )
      
      return(results)

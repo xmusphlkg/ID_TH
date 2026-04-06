@@ -86,18 +86,17 @@ disease_groups <- c("Respiratory IDs",
                     "Gastrointestinal IDs",
                     "Sexually IDs",
                     "Other IDs")
-models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural")
-models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid**", "Bayesian structural")
+models <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid", "Bayesian structural", "ARIMA + Fourier")
+models_label <- c("Neural Network", "ETS", "SARIMA", "TBATS", "Hybrid**", "Bayesian structural", "ARIMA + Fourier")
 
 # Laplace smoothing
 
 add_value <- 0.01
 
 # Positive-support forecasting transform
-# Keep the primary pipeline on the original log-scale workflow.
-# Alternative transforms (for example sqrt or Box-Cox) can be tested in
-# targeted sensitivity runs without changing the manuscript default.
-forecast_transform <- "log"
+# Primary manuscript workflow now uses the square-root transform.
+# Alternative transforms can still be tested in targeted sensitivity runs.
+forecast_transform <- "sqrt"
 
 # left border
 split_dates <- as.Date(c("2020/1/1", "2021/1/1", "2022/1/1", "2023/1/1"))

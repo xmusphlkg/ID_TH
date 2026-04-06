@@ -1,0 +1,8 @@
+Metric,Value
+Overlap years retained in analytical cache,2020-2023
+Disease-month observations,2064
+Overall Pearson correlation,0.9982
+"Mean absolute error, cases",55.21
+"Median absolute error, cases",3.00
+"Mean absolute percentage error, %",14.16
+"Median absolute percentage error, %",3.90

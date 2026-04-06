@@ -1,0 +1,25 @@
+Disease,Category,"Incubation period, days",Infectious period,Vaccine,Vaccine protection,Natural protection
+Amebiasis,Gastrointestinal IDs,21,1 month - 1 year,Unavailable,None,Short-term
+Shigellosis,Gastrointestinal IDs,2,<1 month,Unavailable,None,Short-term
+HAV,Gastrointestinal IDs,28,1 month - 1 year,Optional,Long-term,Long-term
+HFMD,Gastrointestinal IDs,4,<1 month,Optional,Short-term,Short-term
+Typhoid,Gastrointestinal IDs,10,1 month - 1 year,Optional,Short-term,Short-term
+Chickenpox,Respiratory IDs,15,<1 month,Optional,Long-term,Long-term
+Influenza,Respiratory IDs,2,<1 month,EPI,Short-term,Short-term
+Mumps,Respiratory IDs,17,<1 month,EPI,Long-term,Long-term
+Pneumonia,Respiratory IDs,14,<1 month,Optional,Short-term,Short-term
+Rubella,Respiratory IDs,17,<1 month,EPI,Long-term,Long-term
+Scarlet fever,Respiratory IDs,3,<1 month,Unavailable,None,Short-term
+Chancroid,Sexually IDs,6,<1 month,Unavailable,None,None
+CA (HPV),Sexually IDs,90,1 month - 1 year,EPI,Long-term,None
+Genital herpes,Sexually IDs,7,>1 year,Unavailable,None,None
+Gonorrhoea,Sexually IDs,4,1 month - 1 year,Unavailable,None,None
+HBV,Sexually IDs,90,>1 year,EPI,Long-term,Long-term
+HCV,Sexually IDs,100,>1 year,Unavailable,None,None
+Syphilis,Sexually IDs,21,1 month - 1 year,Unavailable,None,None
+Dengue fever,Vector-borne and zoonotic IDs,6,<1 month,Optional,Long-term,Long-term
+Leptospirosis,Vector-borne and zoonotic IDs,8,1 month - 1 year,Unavailable,None,Short-term
+Malaria,Vector-borne and zoonotic IDs,13,1 month - 1 year,Optional,Short-term,Short-term
+Melioidosis,Vector-borne and zoonotic IDs,9,NA,Unavailable,None,Short-term
+Scrub Typhus,Vector-borne and zoonotic IDs,10,NA,Unavailable,None,Short-term
+S. suis,Vector-borne and zoonotic IDs,2,NA,Unavailable,None,Short-term
