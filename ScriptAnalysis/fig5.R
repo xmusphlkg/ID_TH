@@ -311,6 +311,7 @@ fig4 <- fig4 +
 
 top_row <- free(fig1) + fig2_a + fig2_b +
      plot_layout(ncol = 3, widths = c(1.25, 0.52, 0.52), guides = "collect")
+top_row <- collect_guides_bottom(top_row)
 
 bottom_row <- fig3 + fig4 +
      plot_layout(ncol = 2)

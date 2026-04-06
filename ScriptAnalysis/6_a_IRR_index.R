@@ -79,6 +79,7 @@ plot_group_panel <- function(g){
 fig_list <- lapply(seq_along(disease_groups_select), plot_group_panel)
 
 fig1 <- wrap_plots(fig_list, ncol = 1, guides = 'collect')
+fig1 <- collect_guides_bottom(fig1)
 
 ggsave("../Outcome/Publish/fig3_a.pdf",
        fig1,
@@ -347,6 +348,7 @@ fig_season_list <- lapply(seq_along(data_class$Shortname), plot_seasonality)
 
 # Combine plots using patchwork
 fig_season_all <- wrap_plots(fig_season_list, ncol = 6, guides = 'collect')
+fig_season_all <- collect_guides_bottom(fig_season_all)
 
 # Save the visualization
 ggsave("../Outcome/Publish/fig3_b.pdf", 

@@ -315,6 +315,8 @@ full_fig <- fig_group + fig_model + panel_B + panel_C + guide_area() +
                  heights = c(1.5, 1),
                  guides = 'collect')
 
+full_fig <- collect_guides_bottom(full_fig)
+
 ggsave(file.path(out_dir, "fig2.pdf"),
        full_fig, width = 10, height = 8,
        device = cairo_pdf, family = "Times New Roman", limitsize = FALSE)

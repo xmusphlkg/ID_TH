@@ -178,5 +178,6 @@ fig_model <- ggplot(data_map) +
           fill = "Composite index")
 
 fig1 <- fig_group + fig_model + plot_layout(nrow = 1, guides = 'collect')
+fig1 <- collect_guides_bottom(fig1)
 
 save(fig1, data_class, data_map, file = './temp/best_model_figure.RData')

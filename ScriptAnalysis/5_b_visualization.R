@@ -69,6 +69,7 @@ fig2 <- lapply(1:nrow(data_class),
                display_recovery = T,
                titles = data_class$label) |> 
      wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect')
+fig2 <- collect_guides_bottom(fig2)
 
 plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,

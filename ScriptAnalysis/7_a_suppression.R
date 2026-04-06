@@ -310,11 +310,16 @@ fig3 <- fig3 +
 fig4 <- fig4 +
      theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
 
+top_row <- free(fig1) + fig2_a + fig2_b +
+     plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect')
+top_row <- collect_guides_bottom(top_row)
+
+bottom_row <- fig3 + fig4 +
+     plot_layout(ncol = 2)
+
 final_plot <- cowplot::plot_grid(
-     free(fig1) + fig2_a + fig2_b +
-          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect'),
-     fig3 + fig4 +
-          plot_layout(ncol = 2),
+     top_row,
+     bottom_row,
      ncol = 1,
      byrow = F,
      rel_heights = c(1.2, 1),

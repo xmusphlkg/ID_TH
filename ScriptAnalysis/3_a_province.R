@@ -247,6 +247,7 @@ fig_incidence <- lapply(1:length(year_group), plot_map_group,
                         index = 'Max_Incidence_Disease') |>
      reduce(`+`) +
      plot_layout(ncol = 6, guides = "collect")
+fig_incidence <- collect_guides_bottom(fig_incidence)
 
 fig_mortality <- lapply(1:length(year_group), plot_map_group,
                         data_region_leading = data_region_leading,
@@ -255,6 +256,7 @@ fig_mortality <- lapply(1:length(year_group), plot_map_group,
                         index = 'Max_Mortality_Disease') |>
      reduce(`+`) +
      plot_layout(ncol = 6, guides = "collect")
+fig_mortality <- collect_guides_bottom(fig_mortality)
 
 # save plot --------------------------------------------------------------
 

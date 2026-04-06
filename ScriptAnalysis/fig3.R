@@ -106,6 +106,7 @@ fig_panels <- lapply(
 )
 
 fig_grid <- wrap_plots(fig_panels, ncol = 6, guides = "collect", axis_titles = "collect")
+fig_grid <- collect_guides_bottom(fig_grid)
 
 ggsave(file.path(out_dir, "fig3.pdf"),
        fig_grid, width = 14, height = 12,

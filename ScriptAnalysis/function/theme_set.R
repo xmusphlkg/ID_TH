@@ -67,6 +67,25 @@ theme_plot <- function() {
     )
 }
 
+collect_guides_bottom <- function(plot_obj) {
+  legend_theme <- ggplot2::theme(
+    legend.position = "bottom",
+    legend.title.position = "top",
+    legend.box = "horizontal",
+    legend.direction = "horizontal"
+  )
+
+  tryCatch(
+    plot_obj & legend_theme,
+    error = function(e) {
+      tryCatch(
+        plot_obj + patchwork::plot_annotation(theme = legend_theme),
+        error = function(e2) plot_obj + legend_theme
+      )
+    }
+  )
+}
+
 func_rmse <-
   # actual_val is the actual valeu,
   # fit_val is the value fitted by model
