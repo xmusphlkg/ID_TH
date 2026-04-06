@@ -70,8 +70,6 @@ fig2 <- lapply(1:nrow(data_class),
                titles = data_class$label) |> 
      wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect')
 
-fig2 <- fig2 + plot_annotation(theme = theme(legend.position = 'bottom'))
-
 plot <- cowplot::plot_grid(fig1, fig2,
                            nrow = 1,
                            rel_widths = c(1.5, 7))

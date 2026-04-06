@@ -160,7 +160,9 @@ plot_ranking <- function(main, aux, title, ribbon_txt = '', legend = TRUE) {
           labs(title = title, x = NULL, y = NULL, color = "Changes of ranking", fill = "Disease categories") +
           theme(panel.grid = element_blank(), axis.text.y = element_blank(), axis.ticks.y = element_blank(),
                 plot.title = element_text(face = 'bold', size = 14),
-                legend.position = 'bottom', legend.box = 'horizontal')
+                legend.position = 'bottom',
+                legend.box = 'horizontal',
+                legend.title.position = 'top')
      
      if (!legend) p <- p + guides(color = 'none', fill = 'none')
      
@@ -200,10 +202,9 @@ fig2 <- plot_ranking(d_deaths, aux_deaths, "B", ribbon_txt = "No deaths reported
 # save --------------------------------------------------------------------
 
 final_plot <- fig1 / fig2 + 
-     plot_layout(ncol = 1, guides = 'collect') & 
-     theme(legend.position = 'bottom', legend.title.position = 'top')
+     plot_layout(ncol = 1, guides = 'collect')
 
-ggsave("../outcome/Appendix/Supplementary Appendix 1_3/ranking_all.png", final_plot, width = 14, height = 15)
+ggsave("../Outcome/Appendix/Supplementary Appendix 1_3/ranking_all.png", final_plot, width = 14, height = 15)
 
 rm(fig1, fig2, final_plot)
 

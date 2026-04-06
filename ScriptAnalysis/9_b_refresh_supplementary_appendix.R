@@ -414,7 +414,12 @@ appendix_lines <- replace_block(
 threshold_analysis$StatusLabel <- status_label_rp(threshold_analysis$Status)
 threshold_analysis$Config <- factor(
   threshold_analysis$Config,
-  levels = c("95% / 3 mo", "90% / 2 mo", "90% / 3 mo", "90% / 4 mo", "95% / 2 mo", "95% / 4 mo")
+  levels = c(
+    "95% / 3 mo",
+    "90% / 2 mo", "90% / 3 mo", "90% / 4 mo",
+    "95% / 2 mo", "95% / 4 mo",
+    "100% / 2 mo", "100% / 3 mo", "100% / 4 mo"
+  )
 )
 threshold_analysis <- threshold_analysis[order(threshold_analysis$Config, threshold_analysis$Shortname), ]
 primary_lookup <- threshold_analysis[threshold_analysis$Config == "95% / 3 mo", c("Shortname", "StatusLabel")]
@@ -437,12 +442,34 @@ table_s5 <- do.call(rbind, lapply(configs, function(cfg) {
   )
 }))
 
+non_primary_changes <- threshold_joined[
+  threshold_joined$Config != "95% / 3 mo" &
+    threshold_joined$StatusLabel != threshold_joined$PrimaryStatusLabel,
+]
+
+s5_text <- if (nrow(non_primary_changes) == 0) {
+  paste(
+    "These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3.",
+    "No disease changed RP/BP classification when the RP threshold was varied across 90%, 95%, and 100% with persistence requirements of 2, 3, or 4 months, indicating that the principal recovery typology was stable to plausible operational definition changes."
+  )
+} else {
+  changed_lookup <- aggregate(Shortname ~ Config, data = non_primary_changes, FUN = function(x) paste(unique(x), collapse = ", "))
+  changed_summary <- paste(sprintf("%s: %s", changed_lookup$Config, changed_lookup$Shortname), collapse = "; ")
+  paste(
+    "These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3.",
+    sprintf(
+      "RP/BP classifications were stable for most operational definitions; the only observed reclassifications relative to the primary 95%% / 3 mo rule were: %s.",
+      changed_summary
+    )
+  )
+}
+
 s5_block <- c(
   "**Table S5. Sensitivity of RP/BP classifications to alternative RP thresholds and persistence requirements.**",
   "",
   md_table(table_s5),
   "",
-  "These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. The main RP/BP classification was unchanged when the recovery threshold was varied from 95% to 90% under 3- or 4-month persistence requirements. Only the most permissive 2-month rule reclassified chickenpox from suppressed to RP achieved without BP, indicating that the principal recovery typology was stable to plausible RP definition changes.",
+  s5_text,
   ""
 )
 

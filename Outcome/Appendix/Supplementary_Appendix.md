@@ -147,7 +147,7 @@ $$
 C_t \ge 0.
 $$
 
-Additional disease-level metrics were derived from the same cumulative-deviation process. Relative suppression was the absolute trough deficit divided by the cumulative expected burden up to the trough. Rebound intensity was the maximum post-trough ratio of observed to expected incidence, calculated from the observed monthly count divided by the counterfactual median plus one case to stabilize very small denominators. Suppression duration was the number of months from disruption onset to RP, or to the end of follow-up for diseases that never recovered. Payback duration was the number of months from trough to BP. The sensitivity analyses in **Supplementary Table S5** repeated the RP rule under alternative thresholds of 90% or 95% and persistence windows of 2, 3, or 4 months. Additional robustness summaries compared interruption dates and alternative model-selection aggregation rules against the primary disease-specific best-model workflow (Supplementary Tables S10-S11).
+Additional disease-level metrics were derived from the same cumulative-deviation process. Relative suppression was the absolute trough deficit divided by the cumulative expected burden up to the trough. Rebound intensity was the maximum post-trough ratio of observed to expected incidence, calculated from the observed monthly count divided by the counterfactual median plus one case to stabilize very small denominators. Suppression duration was the number of months from disruption onset to RP, or to the end of follow-up for diseases that never recovered. Payback duration was the number of months from trough to BP. The sensitivity analyses in **Supplementary Table S5** repeated the RP rule under alternative thresholds of 90%, 95%, and 100% and persistence windows of 2, 3, and 4 months. Additional robustness summaries compared interruption dates and alternative model-selection aggregation rules against the primary disease-specific best-model workflow (Supplementary Tables S10-S11).
 
 If $t^*$ denotes the trough month, relative suppression was
 
@@ -203,7 +203,7 @@ Exploratory determinants of recovery speed were analysed at the disease level us
 
 ### Sensitivity and robustness analyses
 
-Several supplementary sensitivity analyses were prespecified to test whether the main qualitative interpretation depended on a single operational definition or a single model-selection rule. First, the RP rule was recalculated under alternative recovery thresholds of 90% and 95% of the counterfactual median and persistence windows of 2, 3, and 4 consecutive months. These analyses yielded the reclassification summary reported in **Supplementary Table S5**. Second, we compared the disease-specific best model selected by the primary equal-weight composite with alternatives based on rank aggregation, sMAPE-only aggregation, and a horizon-weighted composite that emphasized the shortest extrapolation window. These model-selection rule checks are summarized in **Supplementary Table S11**.
+Several supplementary sensitivity analyses were prespecified to test whether the main qualitative interpretation depended on a single operational definition or a single model-selection rule. First, the RP rule was recalculated under alternative recovery thresholds of 90%, 95%, and 100% of the counterfactual median and persistence windows of 2, 3, and 4 consecutive months. These analyses yielded the reclassification summary reported in **Supplementary Table S5**. Second, we compared the disease-specific best model selected by the primary equal-weight composite with alternatives based on rank aggregation, sMAPE-only aggregation, and a horizon-weighted composite that emphasized the shortest extrapolation window. These model-selection rule checks are summarized in **Supplementary Table S11**.
 
 In addition to these classification-focused checks, two reconstruction-validation exercises were retained in the appendix because they support the validity of upstream processing choices. Weekly-to-monthly overlap validation for case reconstruction is summarized in **Supplementary Tables S6 and S7** and visualized in **Supplementary Fig. S1-S86**, whereas age-harmonization validation is shown in **Supplementary Fig. S113**. Together, these checks were intended to show that the main findings were not driven solely by a specific reconstruction rule, RP threshold, or counterfactual model-family choice.
 
@@ -233,6 +233,26 @@ The digital decision-support layer was additionally assessed with an author-side
 | All monitored notifiable diseases | 72 |
 | Included in descriptive 43-disease analysis | 43 |
 | Included in 24-disease counterfactual analysis | 24 |
+
+**Supplementary Fig. S0. Two-stage disease-selection flow for the analytical subsets.**
+
+```text
+72 monitored notifiable disease series
+  -> Excluded before descriptive analysis (n = 29)
+     11 overlapping surveillance categories
+     6 conditions not aligned with the transmissible infectious-disease framework
+     5 ill-defined or residual categories
+     3 zero-incidence series
+     3 incompletely reported recent series
+     1 series with structural surveillance-definition change
+  -> Retained for descriptive 43-disease analysis (n = 43)
+     -> Excluded from counterfactual modelling (n = 19)
+        12 sparse or insufficient-count series
+        3 non-seasonal series
+        2 insufficient-duration series
+        2 residual or unspecified series
+     -> Retained for 24-disease counterfactual analysis (n = 24)
+```
 
 <!-- END TABLE_S1 -->
 <div style="page-break-after: always;"></div>
@@ -347,14 +367,17 @@ This lookup table covers all 24 modelled diseases and supplied the disease-level
 
 | Threshold | Consecutive months | Balanced | RP achieved without BP | Suppressed | No deficit | Diseases reclassified vs primary analysis |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0.95 | 3 | 13 | 7 | 3 | 1 | None |
-| 0.90 | 2 | 13 | 8 | 2 | 1 | Chickenpox |
-| 0.90 | 3 | 13 | 7 | 3 | 1 | None |
-| 0.90 | 4 | 13 | 7 | 3 | 1 | None |
-| 0.95 | 2 | 13 | 8 | 2 | 1 | Chickenpox |
-| 0.95 | 4 | 13 | 7 | 3 | 1 | None |
+| 0.95 | 3 | 14 | 8 | 1 | 1 | None |
+| 0.90 | 2 | 14 | 8 | 1 | 1 | None |
+| 0.90 | 3 | 14 | 8 | 1 | 1 | None |
+| 0.90 | 4 | 14 | 8 | 1 | 1 | None |
+| 0.95 | 2 | 14 | 8 | 1 | 1 | None |
+| 0.95 | 4 | 14 | 8 | 1 | 1 | None |
+| 1.00 | 2 | 14 | 8 | 1 | 1 | None |
+| 1.00 | 3 | 14 | 8 | 1 | 1 | None |
+| 1.00 | 4 | 14 | 8 | 1 | 1 | None |
 
-These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. The main RP/BP classification was unchanged when the recovery threshold was varied from 95% to 90% under 3- or 4-month persistence requirements. Only the most permissive 2-month rule reclassified chickenpox from suppressed to RP achieved without BP, indicating that the principal recovery typology was stable to plausible RP definition changes.
+These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. No disease changed RP/BP classification when the RP threshold was varied across 90%, 95%, and 100% with persistence requirements of 2, 3, or 4 months, indicating that the principal recovery typology was stable to plausible operational definition changes.
 
 <!-- END TABLE_S5 -->
 <div style="page-break-after: always;"></div>
@@ -408,7 +431,7 @@ In the refreshed primary analysis, robustness emphasis shifted to uncertainty pr
 | Pneumonia | Respiratory IDs | Balanced | 1.000 | 0.835 | 0.835 | 34 (26-54) | 59 (43-70) |
 | Influenza | Respiratory IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 44 (44-44) | NA |
 | Chickenpox | Respiratory IDs | Recovered but not balanced | 0.889 | 0.000 | 0.889 | 54 (7-67) | NA |
-| Mumps | Respiratory IDs | Recovered but not balanced | 0.583 | 0.182 | 0.402 | 34 (6-68) | 55 (9-71) |
+| Mumps | Respiratory IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 68 (68-68) | NA |
 | Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.812 | 0.332 | 0.480 | 60 (6-66) | 65 (34.5-71) |
 | Rubella | Respiratory IDs | Suppressed | 0.000 | 0.000 | 1.000 | NA | NA |
 | Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.339 | 0.383 | 30 (2-46) | 42 (3-65) |
@@ -419,7 +442,7 @@ In the refreshed primary analysis, robustness emphasis shifted to uncertainty pr
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 5 (5-5) | 7 (7-8) |
 | HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 33 (32-49) |
 | Amebiasis | Gastrointestinal IDs | Balanced | 0.669 | 0.539 | 0.539 | 30 (4-55) | 39 (5-64) |
-| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.748 | 0.372 | 0.375 | 9 (4-66) | 27 (3-66) |
+| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.745 | 0.298 | 0.447 | 8 (4-68) | 29 (6-69) |
 | Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (28-36) | 54 (52-60) |
 | HAV | Gastrointestinal IDs | Recovered but not balanced | 0.961 | 0.000 | 0.961 | 47 (0.2-61) | NA |
 | Gonorrhoea | Sexually IDs | Balanced | 0.999 | 0.822 | 0.822 | 36 (8-48) | 56 (43-70) |
@@ -430,7 +453,7 @@ In the refreshed primary analysis, robustness emphasis shifted to uncertainty pr
 | Chancroid | Sexually IDs | Recovered but not balanced | 0.996 | 0.224 | 0.772 | 48 (8-50) | 66 (55-71) |
 | HCV | Sexually IDs | Balanced | 0.955 | 0.947 | 0.947 | 25 (0-41) | 38 (1-55) |
 
-Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, 9 diseases were uncertainty-sensitive: Mumps, Scarlet fever, Dengue fever, Malaria, Leptospirosis, Amebiasis, Shigellosis, Syphilis, Chancroid.
+Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, 8 diseases were uncertainty-sensitive: Scarlet fever, Dengue fever, Malaria, Leptospirosis, Amebiasis, Shigellosis, Syphilis, Chancroid.
 
 <!-- END TABLE_S9 -->
 <div style="page-break-after: always;"></div>
@@ -487,7 +510,7 @@ No disease changed classification when the analytical start date was moved from 
 | Shigellosis | Gastrointestinal IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
 | Amebiasis | Gastrointestinal IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
 | HFMD | Gastrointestinal IDs | Hybrid | Hybrid | Hybrid | Hybrid | Yes | Yes | Yes |
-| S. suis | Vector-borne and zoonotic IDs | ETS | Hybrid | Hybrid | ETS | No | No | Yes |
+| S. suis | Vector-borne and zoonotic IDs | ETS | Hybrid | ETS | ETS | No | Yes | Yes |
 | Melioidosis | Vector-borne and zoonotic IDs | Hybrid | Hybrid | Hybrid | Hybrid | Yes | Yes | Yes |
 | Leptospirosis | Vector-borne and zoonotic IDs | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | Yes | Yes | Yes |
 | Scrub Typhus | Vector-borne and zoonotic IDs | ETS | ETS | ETS | SARIMA | Yes | Yes | No |
@@ -495,12 +518,12 @@ No disease changed classification when the analytical start date was moved from 
 | Dengue fever | Vector-borne and zoonotic IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
 | Rubella | Respiratory IDs | ETS | ETS | ETS | ETS | Yes | Yes | Yes |
 | Scarlet fever | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
-| Mumps | Respiratory IDs | SARIMA | SARIMA | Hybrid | ETS | Yes | No | No |
+| Mumps | Respiratory IDs | ETS | SARIMA | Hybrid | ETS | No | No | Yes |
 | Chickenpox | Respiratory IDs | SARIMA | SARIMA | SARIMA | SARIMA | Yes | Yes | Yes |
 | Influenza | Respiratory IDs | ETS | ETS | ETS | ETS | Yes | Yes | Yes |
 | Pneumonia | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
 
-Across the 24 diseases, the primary selected family was also recovered for 20 diseases under rank aggregation, 17 diseases under sMAPE-only selection, and 22 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of diseases rather than a single model family, suggesting that the principal conclusions were not driven by one aggregation formula.
+Across the 24 diseases, the primary selected family was also recovered for 19 diseases under rank aggregation, 18 diseases under sMAPE-only selection, and 23 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of diseases rather than a single model family, suggesting that the principal conclusions were not driven by one aggregation formula.
 
 <!-- END TABLE_S11 -->
 <div style="page-break-after: always;"></div>
@@ -513,7 +536,7 @@ Across the 24 diseases, the primary selected family was also recovered for 20 di
 | Pneumonia | Respiratory IDs | Balanced | 1 | 1 | Stable | Low priority routine review |
 | Influenza | Respiratory IDs | Recovered but not balanced | 1 | 0 | Stable | Cumulative review needed |
 | Chickenpox | Respiratory IDs | Recovered but not balanced | -1 | -1 | Stable | Cumulative review needed |
-| Mumps | Respiratory IDs | Recovered but not balanced | 6 | 3 | Shifted | Recalibrate and monitor |
+| Mumps | Respiratory IDs | Recovered but not balanced | 6 | 4 | Shifted | Recalibrate and monitor |
 | Scarlet fever | Respiratory IDs | Recovered but not balanced | -1 | -1 | Stable | Cumulative review needed |
 | Rubella | Respiratory IDs | Suppressed | 3 | 2 | Shifted | High priority manual review |
 | Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0 | 0 | Stable | Cumulative review needed |
@@ -548,7 +571,7 @@ This joint table clarifies the retrospective decision utility of the framework. 
 | Pneumonia | Respiratory IDs | Balanced | 34 | 26 | 34 | 54 | Yes | Yes | Yes |
 | Influenza | Respiratory IDs | Recovered but not balanced | 44 | NA | 44 | 68 | No | Yes | Yes |
 | Chickenpox | Respiratory IDs | Recovered but not balanced | 66 | 6 | 66 | NA | Yes | Yes | No |
-| Mumps | Respiratory IDs | Recovered but not balanced | 68 | 0 | 68 | NA | Yes | Yes | No |
+| Mumps | Respiratory IDs | Recovered but not balanced | 68 | NA | 68 | NA | No | Yes | No |
 | Scarlet fever | Respiratory IDs | Recovered but not balanced | 61 | 0 | 61 | 68 | Yes | Yes | Yes |
 | Rubella | Respiratory IDs | Suppressed | NA | NA | NA | NA | No | No | No |
 | Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 35 | 1 | 35 | 47 | Yes | Yes | Yes |
@@ -570,7 +593,7 @@ This joint table clarifies the retrospective decision utility of the framework. 
 | Chancroid | Sexually IDs | Recovered but not balanced | 48 | 7 | 48 | 66 | Yes | Yes | Yes |
 | HCV | Sexually IDs | Balanced | 28 | 0 | 28 | 31 | Yes | Yes | Yes |
 
-Among the 23 diseases that entered a sustained cumulative deficit, 19 re-entered the disease-specific 95% predictive interval for at least 3 months, 22 met the sustained observed-to-expected ratio endpoint of at least 1.0, and 18 halved their cumulative deficit by end follow-up. The ratio endpoint preserved the same achieved-versus-not-achieved distinction as the primary RP definition for all 23 deficit-entering diseases, whereas the half-deficit milestone was reached by 4 of the 8 recovered-but-not-balanced diseases.
+Among the 23 diseases that entered a sustained cumulative deficit, 18 re-entered the disease-specific 95% predictive interval for at least 3 months, 22 met the sustained observed-to-expected ratio endpoint of at least 1.0, and 18 halved their cumulative deficit by end follow-up. The ratio endpoint preserved the same achieved-versus-not-achieved distinction as the primary RP definition for all 23 deficit-entering diseases, whereas the half-deficit milestone was reached by 4 of the 8 recovered-but-not-balanced diseases.
 
 <!-- END TABLE_S13 -->
 <div style="page-break-after: always;"></div>
@@ -612,7 +635,7 @@ Panel B. Selected milestone months from the contextual triangulation.
 | Peak stringency month | 2020-04 | 0.443 | 76.264 | 3.000 | 2.000 | 4.000 | 1534 |
 | Peak WHO COVID-19 case month | 2021-08 | 0.221 | 73.223 | 2.452 | 2.000 | 2.968 | 676789 |
 | First sustained low-restriction month | 2022-10 | 0.650 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
-| First sustained portfolio normalization month | 2023-07 | 1.058 | NA | NA | NA | NA | 3612 |
+| First sustained portfolio normalization month | 2023-07 | 1.059 | NA | NA | NA | NA | 3612 |
 
 These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
 
@@ -634,6 +657,12 @@ These contextual summaries were used descriptively to anchor the timing of portf
 All six prespecified surveillance-review tasks were directly supported in the final build, with a mean heuristic score of 3.72 and median minimum interaction count of 1. This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing.
 
 <!-- END TABLE_S16 -->
+<div style="page-break-after: always;"></div>
+
+![**Fig. S0. disease_flow.**](Supplementary%20Appendix%201_0/flow_diagram.png)
+
+**Fig. S0. Two-stage disease-selection flow from 72 monitored series to the 43-disease descriptive portfolio and 24-disease counterfactual subset.** The first stage excluded 29 series because of overlapping aggregate categories (11), non-infectious scope (6), residual or ill-defined categories (5), zero incidence (3), incomplete recent reporting (3), or surveillance-definition shifts (1). The second stage excluded 19 descriptively retained diseases because of insufficient long-horizon signal (12), non-seasonal or weak seasonality (3), insufficient prepandemic duration (2), or residual or unspecified disease definitions (2). The right-hand criteria box summarizes the operational requirements for inclusion in counterfactual modelling.
+
 <div style="page-break-after: always;"></div>
 
 ## Part 1: Validation of data reconstruction
@@ -1300,3 +1329,25 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 ![**Fig. S125. mortality.**](Supplementary%20Appendix%201_4/mortality.png)
 
 **Fig. S125. Leading disease by province-year for mortality.** Panels summarize the infectious disease with the highest annual mortality in each Thai province for each calendar year included in the provincial dataset. Provinces with no recorded deaths in a given year are retained as a separate map class, so the figure distinguishes true zero-mortality settings from changes in the dominant fatal disease elsewhere.
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN EXTERNAL_PERTUSSIS_CASE_STUDY -->
+## Part 6: External pertussis decision-support case study
+
+**Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**
+| Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Australia | Monthly surveillance | Neural Network |  978.9 | 694.9 to 1831.6 | 2025-12-01 |  981.7 | 694.8 to 1858.9 | 2024-03-01 | 2024-12-01 |
+| China | Monthly surveillance | ARIMA + Fourier | 1916.4 | 191.2 to 5413.1 | 2025-12-01 | 1346.3 | 0 to 6502.6 | 2021-12-01 | 2024-01-01 |
+| Japan | Weekly surveillance | ARIMA + Fourier |  217.2 | 23.2 to 551.3 | 2025-12-22 |  165.4 | 0 to 636.8 | 2025-01-20 | 2025-08-04 |
+| New Zealand | Monthly surveillance | ARIMA + Fourier |   35.5 | 0 to 700.3 | 2025-12-01 |   56.9 | 0 to 1259.7 | 2024-05-01 | 2024-12-01 |
+| Sweden | Monthly surveillance | ARIMA + Fourier |   58.3 | 29.6 to 109.5 | 2025-12-01 |   74.7 | 39.9 to 131.5 | 2024-03-01 | Not reached |
+| United States | Weekly surveillance | SARIMA |  122.3 | 24.4 to 300 | 2025-12-28 |  121.7 | 4.7 to 376.3 | 2024-04-28 | Not reached |
+
+<div style="page-break-after: always;"></div>
+
+![**Fig. S126. External pertussis decision-support case study.**](Supplementary%20Appendix%201_6/external_pertussis_decision_support.png)
+
+**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median.
+<!-- END EXTERNAL_PERTUSSIS_CASE_STUDY -->

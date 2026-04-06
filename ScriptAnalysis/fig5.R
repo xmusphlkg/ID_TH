@@ -288,21 +288,32 @@ fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
 
 # save --------------------------------------------------------------------
 
+fig1 <- fig1 +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig2_a <- fig2_a +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig2_b <- fig2_b +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig3 <- fig3 +
+     theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig4 <- fig4 +
+     theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
 top_row <- free(fig1) + fig2_a + fig2_b +
-     plot_layout(ncol = 3, widths = c(1.25, 0.52, 0.52), guides = "collect") +
-     plot_annotation(
-          theme = theme(
-               legend.position = "bottom",
-               legend.title.position = "top",
-               plot.title = element_text(face = "bold", size = 14, hjust = 0)
-          )
-     )
+     plot_layout(ncol = 3, widths = c(1.25, 0.52, 0.52), guides = "collect")
 
 bottom_row <- fig3 + fig4 +
-     plot_layout(ncol = 2) +
-     plot_annotation(
-          theme = theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
-     )
+     plot_layout(ncol = 2)
 
 final_plot <- top_row / bottom_row
 

@@ -62,6 +62,7 @@ plot_single <- function(i, value = 'Cases') {
                 axis.text.x = element_blank(),
                 panel.grid.major.y = element_blank(),
                 panel.grid.minor.y = element_blank(),
+                legend.position = "bottom",
                 axis.text = element_text(size = 10.5, color = "black"),
                 axis.title.y = element_text(size = 11, color = "black", face = "bold", vjust = -1),
                 plot.title = element_text(face = "bold", size = 14, color = "black")) +
@@ -107,8 +108,7 @@ plot_single <- function(i, value = 'Cases') {
                fill = ifelse(value == 'Cases', "Normalized incidence", "Normalized mortality"),
                title = LETTERS[2])
      
-     return(fig1 + fig2 + plot_layout(ncol = 1, guides = 'collect') &
-               theme(legend.position = "bottom"))
+     return(fig1 + fig2 + plot_layout(ncol = 1, guides = 'collect'))
 }
 
 ## create figure panel for all Group

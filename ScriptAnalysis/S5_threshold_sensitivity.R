@@ -1,5 +1,5 @@
 # Supplementary Table S5 — Threshold Sensitivity Analysis
-# Tests recovery status stability across threshold (90-95%) and persistence (2-4 months) combinations
+# Tests recovery status stability across threshold (90-100%) and persistence (2-4 months) combinations
 
 library(tidyverse)
 library(openxlsx)
@@ -112,7 +112,7 @@ calc_status_one <- function(dates,
 }
 
 # Run sensitivity analysis across threshold × persistence grid
-thresholds <- c(0.90, 0.95)
+thresholds <- c(0.90, 0.95, 1.00)
 persistences <- c(2, 3, 4)
 
 all_results <- list()

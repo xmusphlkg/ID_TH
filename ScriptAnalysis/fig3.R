@@ -105,8 +105,7 @@ fig_panels <- lapply(
   titles           = data_class$label
 )
 
-fig_grid <- wrap_plots(fig_panels, ncol = 6, guides = "collect", axis_titles = "collect") +
-  plot_annotation(theme = theme(legend.position = "bottom"))
+fig_grid <- wrap_plots(fig_panels, ncol = 6, guides = "collect", axis_titles = "collect")
 
 ggsave(file.path(out_dir, "fig3.pdf"),
        fig_grid, width = 14, height = 12,

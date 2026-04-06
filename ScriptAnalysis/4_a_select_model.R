@@ -157,7 +157,7 @@ auto_select_function <- function(i, split_date, cv_splits, add_value, index_labe
                
                # use centralized forecasting helper (returns mean and intervals on original scale)
                res <- forecast_model_ts(ts_train = ts_train, h = h, method = model_type,
-                                        hybrid_parallel = FALSE, hybrid_cores = 10,
+                                        hybrid_parallel = FALSE, hybrid_cores = 1,
                                         bsts_niter = 1000, seed = 20240902,
                                         transform_method = forecast_transform,
                                         transform_lambda = transform_lambda)

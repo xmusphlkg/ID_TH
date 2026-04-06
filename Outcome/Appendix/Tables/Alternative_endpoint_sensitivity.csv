@@ -2,7 +2,7 @@ Shortname,Status,Date_Start_Deficit,Date_Trough,Date_Recovery,Date_Balance,Recov
 Pneumonia,Debt Repaid,2020-04-01,2022-10-01,2022-11-01,2025-01-01,34,60,2022-03-01,26,2022-11-01,34,2024-07-01,54,Respiratory IDs,Balanced,TRUE,TRUE,TRUE,TRUE
 Influenza,Recovered,2020-03-01,2023-08-01,2023-09-01,NA,44,NA,NA,NA,2023-09-01,44,2025-09-01,68,Respiratory IDs,Recovered but not balanced,TRUE,FALSE,TRUE,TRUE
 Chickenpox,Recovered,2020-01-01,2025-06-01,2025-07-01,NA,66,NA,2020-07-01,6,2025-07-01,66,NA,NA,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
-Mumps,Recovered,2020-01-01,2025-08-01,2025-09-01,NA,68,NA,2020-01-01,0,2025-09-01,68,NA,NA,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
+Mumps,Recovered,2020-01-01,2025-08-01,2025-09-01,NA,68,NA,NA,NA,2025-09-01,68,NA,NA,Respiratory IDs,Recovered but not balanced,TRUE,FALSE,TRUE,FALSE
 Scarlet fever,Recovered,2020-01-01,2025-01-01,2025-02-01,NA,61,NA,2020-01-01,0,2025-02-01,61,2025-09-01,68,Respiratory IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
 Rubella,Suppressed,2020-01-01,2025-12-01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Respiratory IDs,Suppressed,FALSE,FALSE,FALSE,FALSE
 Dengue fever,Recovered,2020-02-01,2022-11-01,2022-12-01,NA,35,NA,2020-02-01,1,2022-12-01,35,2023-12-01,47,Vector-borne and zoonotic IDs,Recovered but not balanced,TRUE,TRUE,TRUE,TRUE
@@ -13,7 +13,7 @@ Melioidosis,Debt Repaid,2020-05-01,2022-04-01,2022-05-01,2023-01-01,28,36,2020-0
 S. suis,Debt Repaid,2020-02-01,2020-05-01,2020-06-01,2020-08-01,5,7,NA,NA,2020-06-01,5,2020-07-01,6,Vector-borne and zoonotic IDs,Balanced,TRUE,FALSE,TRUE,TRUE
 HFMD,Debt Repaid,2020-01-01,2022-06-01,2020-10-01,2022-09-01,9,32,2022-11-01,34,2020-10-01,9,2022-08-01,31,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
 Amebiasis,Debt Repaid,2021-04-01,2022-07-01,2022-08-01,2023-04-01,31,39,2021-04-01,15,2022-08-01,31,2023-01-01,36,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
-Shigellosis,Recovered,2020-01-01,2024-03-01,2022-08-01,NA,31,NA,2020-04-01,3,2022-08-01,31,NA,NA,Gastrointestinal IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
+Shigellosis,Recovered,2020-01-01,2025-06-01,2022-08-01,NA,31,NA,2020-04-01,3,2022-08-01,31,NA,NA,Gastrointestinal IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
 Typhoid,Debt Repaid,2020-01-01,2022-06-01,2022-07-01,2024-07-01,30,54,2020-01-01,0,2022-07-01,30,2024-01-01,48,Gastrointestinal IDs,Balanced,TRUE,TRUE,TRUE,TRUE
 HAV,Recovered,2020-01-01,2025-12-01,2023-12-01,NA,47,NA,2020-01-01,0,2023-12-01,47,NA,NA,Gastrointestinal IDs,Recovered but not balanced,TRUE,TRUE,TRUE,FALSE
 Gonorrhoea,Debt Repaid,2020-02-01,2022-10-01,2023-01-01,2024-11-01,36,58,2020-09-01,8,2023-01-01,36,2024-04-01,51,Sexually IDs,Balanced,TRUE,TRUE,TRUE,TRUE

@@ -346,8 +346,7 @@ plot_seasonality <- function(i) {
 fig_season_list <- lapply(seq_along(data_class$Shortname), plot_seasonality)
 
 # Combine plots using patchwork
-fig_season_all <- wrap_plots(fig_season_list, ncol = 6, guides = 'collect') & 
-     theme(legend.position = "bottom")
+fig_season_all <- wrap_plots(fig_season_list, ncol = 6, guides = 'collect')
 
 # Save the visualization
 ggsave("../Outcome/Publish/fig3_b.pdf", 

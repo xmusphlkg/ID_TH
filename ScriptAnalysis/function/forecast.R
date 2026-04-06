@@ -164,7 +164,7 @@ positive_inverse_transform <- function(x,
 #' - Group C (Bayesian structural): fits using `bsts()` and extracts predictive intervals.
 #' Returned values are back-transformed from the chosen positive-support scale.
 forecast_model_ts <- function(ts_train, h, method,
-                              hybrid_parallel = TRUE, hybrid_cores = 10,
+                              hybrid_parallel = FALSE, hybrid_cores = 1,
                               bsts_niter = 1000, seed = 20240902,
                               transform_method = forecast_transform,
                               transform_lambda = NULL) {
@@ -290,7 +290,7 @@ forecast_model_ts <- function(ts_train, h, method,
 #'
 #' @return A list containing mean, confidence intervals, and the raw simulation matrix (original positive scale).
 forecast_model_sim <- function(ts_train, h, method,
-                               hybrid_parallel = TRUE, hybrid_cores = 10,
+                               hybrid_parallel = FALSE, hybrid_cores = 1,
                                bsts_niter = 1000, n_paths = 5000, seed = 20251209,
                                transform_method = forecast_transform,
                                transform_lambda = NULL) {

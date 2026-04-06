@@ -1,7 +1,7 @@
 Shortname,Group,PrimaryPhenotype,RP_Months,BP_Months,PI95_Months,Ratio100_Months,HalfDeficit_Months,BestModel,shift_vs_pre,shift_vs_pred,amplitude_ratio_vs_pre,PrimaryStatusProb,FrameworkPriority,InterruptionStable,ModelRuleMatches,StatusStability,SensitivityStable
 Chickenpox,Respiratory IDs,Recovered but not balanced,66,NA,6,66,NA,SARIMA,-1,-1,0.39769310403592084,0.889,Cumulative review needed,TRUE,3,Moderate,Yes
 Influenza,Respiratory IDs,Recovered but not balanced,44,NA,NA,44,68,ETS,1,0,0.9533640885310982,1,Cumulative review needed,TRUE,3,High,Yes
-Mumps,Respiratory IDs,Recovered but not balanced,68,NA,0,68,NA,SARIMA,6,3,0.7408988044894508,0.402,Recalibrate and monitor,TRUE,1,Lower,Partial
+Mumps,Respiratory IDs,Recovered but not balanced,68,NA,NA,68,NA,ETS,6,4,0.7408988044894508,0.402,Recalibrate and monitor,TRUE,1,Lower,Partial
 Pneumonia,Respiratory IDs,Balanced,34,60,26,34,54,TBATS,1,1,0.9729127311891197,0.835,Low priority routine review,TRUE,3,Moderate,Yes
 Rubella,Respiratory IDs,Suppressed,NA,NA,NA,NA,NA,ETS,3,2,2.0170618854829385,1,High priority manual review,TRUE,3,High,Yes
 Scarlet fever,Respiratory IDs,Recovered but not balanced,61,NA,0,61,68,TBATS,-1,-1,3.967671405752208,0.48,Cumulative review needed,TRUE,3,Lower,Yes

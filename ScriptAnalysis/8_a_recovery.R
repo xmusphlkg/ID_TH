@@ -251,9 +251,19 @@ fig2_line <- ggplot(data_fig2) +
 
 # Save Figures ------------------------------------------------------------
 
-fig <- free(fig1) + fig2_table +  fig2_line + plot_layout(widths = c(3, 2.3, 2.1), nrow = 1) &
+fig1 <- fig1 +
      theme(plot.title.position = "plot",
-           text = element_text(family = 'Times New Roman'))
+           text = element_text(family = "Times New Roman"))
+
+fig2_table <- fig2_table +
+     theme(plot.title.position = "plot",
+           text = element_text(family = "Times New Roman"))
+
+fig2_line <- fig2_line +
+     theme(plot.title.position = "plot",
+           text = element_text(family = "Times New Roman"))
+
+fig <- free(fig1) + fig2_table + fig2_line + plot_layout(widths = c(3, 2.3, 2.1), nrow = 1)
 
 # Save the visualization
 ggsave("../Outcome/Publish/fig5.pdf", 

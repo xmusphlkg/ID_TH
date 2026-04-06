@@ -2,7 +2,7 @@
 "Pneumonia","Respiratory IDs",208566.151363084
 "Influenza","Respiratory IDs",1233435.52803022
 "Chickenpox","Respiratory IDs",198994.908037956
-"Mumps","Respiratory IDs",8436.7368576976
+"Mumps","Respiratory IDs",8179.716350703
 "Scarlet fever","Respiratory IDs",8600.00859599406
 "Rubella","Respiratory IDs",1906.1196847482
 "Dengue fever","Vector-borne and zoonotic IDs",137280.410343388
@@ -12,7 +12,7 @@
 "S. suis","Vector-borne and zoonotic IDs",31.4334749638212
 "HFMD","Gastrointestinal IDs",55530.4852673625
 "Amebiasis","Gastrointestinal IDs",521.658880940343
-"Shigellosis","Gastrointestinal IDs",705.868129697753
+"Shigellosis","Gastrointestinal IDs",1029.49366483948
 "Typhoid","Gastrointestinal IDs",1021.62267886647
 "HAV","Gastrointestinal IDs",1062.12555896263
 "Gonorrhoea","Sexually IDs",8799.23152575949

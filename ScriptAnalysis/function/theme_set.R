@@ -108,5 +108,6 @@ split_periods <- c("Pre-COVID-19",
 back_color <- c('white',"grey", "white", "grey", "white")
 names(back_color) <- split_periods
 
-# max process: 20
-max_proces <- 30
+# cap parallel workers to keep Linux runs stable
+available_cores <- parallel::detectCores(logical = TRUE)
+max_proces <- max(1L, min(8L, max(1L, available_cores - 1L)))

@@ -527,11 +527,7 @@ EF
 fig <- free(fig1, side = 'l') + fig2 + fig3 + free(fig4, side = 'l') + fig5_a + fig6 +
      plot_layout(ncol = 2, widths = c(0.8, 1),
                  heights = c(1.2, 1, 1.2, 1),
-                 design = design, guides = 'collect')&
-     theme(plot.title.position = 'plot',
-           legend.title.position = 'top',
-           text = element_text(family = 'Times New Roman'),
-           legend.position = 'bottom')
+                 design = design, guides = 'collect')
 
 ggsave(filename = "../Outcome/Appendix/Supplementary Appendix 1_3/age_patterns_main.png",
        plot = fig,

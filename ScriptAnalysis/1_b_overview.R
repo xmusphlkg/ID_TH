@@ -40,6 +40,9 @@ data_month |>
 # loading function
 source("./function/theme_set.R")
 
+appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
+dir.create(appendix_tables_dir, showWarnings = FALSE, recursive = TRUE)
+
 # summary of NID ----------------------------------------------------------
 
 ## each group
@@ -87,6 +90,10 @@ data_year <- data_year |>
 ## joinpoint model ----------------------------------------------------
 # Using yearly data for joinpoint analysis to find the optimal number of joinpoints
 
+joinpoint_cmd_path <- getOption("joinpoint_path", "C:/Program Files (x86)/Joinpoint Command/jpCommand.exe")
+joinpoint_cache_path <- file.path(appendix_tables_dir, "Joinpoint_APC_results.xlsx")
+joinpoint_available <- file.exists(joinpoint_cmd_path)
+
 # Options for joinpoint
 run_opt = run_options(model="ln",
                       model_selection_method = 'bic',
@@ -112,10 +119,25 @@ tasks <- list(
      list(data = data_year_total, x = "Year", y = "Mortality", label = 'Mortality', run_opt = run_opt, export_opt = export_opt)
 )
 
-jp_year_results <- map(
-     tasks,
-     ~ joinpoint(.x$data, x = .x$x, y = .x$y, run_opt = .x$run_opt, export_opt = .x$export_opt)
-)
+if (joinpoint_available) {
+     jp_year_results <- map(
+          tasks,
+          ~ joinpoint(.x$data, x = .x$x, y = .x$y, run_opt = .x$run_opt, export_opt = .x$export_opt)
+     )
+} else if (file.exists(joinpoint_cache_path)) {
+     warning(
+          paste0(
+               "Joinpoint executable not found at '", joinpoint_cmd_path,
+               "'. Reusing cached segment boundaries from '", joinpoint_cache_path,
+               "' to continue the overview analysis."
+          )
+     )
+     jp_year_results <- NULL
+} else {
+     stop(
+          "Joinpoint executable not found and no cached Joinpoint_APC_results.xlsx is available for fallback."
+     )
+}
 
 rm(tasks, run_opt, export_opt)
 
@@ -265,24 +287,61 @@ run_complete_pipeline <- function(item) {
      return(results)
 }
 
-tasks <- list(
-     list(jp_result = jp_year_results[[1]], 
-          data = data_month_total, 
-          trend_var = "Incidence_trend", 
-          raw_var = "Incidence"),
-     
-     list(jp_result = jp_year_results[[2]], 
-          data = data_month_total, 
-          trend_var = "Mortality_trend", 
-          raw_var = "Mortality")
-)
+load_cached_joinpoint_knots <- function(measure, monthly_data, cache_path) {
+     cache_df <- read.xlsx(cache_path) |>
+          as_tibble()
 
-jp_segmented_results <- map(
-     tasks,
-     run_complete_pipeline
-)
+     cache_measure <- cache_df |>
+          filter(Measure == measure) |>
+          tidyr::separate(DateRange, into = c("StartLabel", "EndLabel"), sep = "~", remove = FALSE)
 
-rm(tasks)
+     if (nrow(cache_measure) == 0) {
+          stop("No cached Joinpoint ranges were found for measure: ", measure)
+     }
+
+     min_date <- min(monthly_data$Date, na.rm = TRUE)
+     max_date <- max(monthly_data$Date, na.rm = TRUE)
+     boundary_end_dates <- as.Date(paste0(cache_measure$EndLabel, "/01"), format = "%Y/%m/%d")
+     boundary_end_dates <- boundary_end_dates[boundary_end_dates < max_date]
+
+     if (length(boundary_end_dates) == 0) {
+          return(NULL)
+     }
+
+     vapply(boundary_end_dates, function(d) {
+          (lubridate::year(d) - lubridate::year(min_date)) * 12 +
+               lubridate::month(d) - lubridate::month(min_date) + 1.5
+     }, numeric(1))
+}
+
+if (joinpoint_available) {
+     tasks <- list(
+          list(jp_result = jp_year_results[[1]], 
+               data = data_month_total, 
+               trend_var = "Incidence_trend", 
+               raw_var = "Incidence"),
+          
+          list(jp_result = jp_year_results[[2]], 
+               data = data_month_total, 
+               trend_var = "Mortality_trend", 
+               raw_var = "Mortality")
+     )
+
+     jp_segmented_results <- map(
+          tasks,
+          run_complete_pipeline
+     )
+
+     rm(tasks)
+} else {
+     incidence_knots <- load_cached_joinpoint_knots("Incidence", data_month_total, joinpoint_cache_path)
+     mortality_knots <- load_cached_joinpoint_knots("Mortality", data_month_total, joinpoint_cache_path)
+
+     jp_segmented_results <- list(
+          calculate_apc_statistics(data_month_total, "Incidence", incidence_knots),
+          calculate_apc_statistics(data_month_total, "Mortality", mortality_knots)
+     )
+}
 
 data_month_total <- data_month_total |> 
      left_join(jp_segmented_results[[1]]$fitted_data |> 
@@ -720,15 +779,27 @@ fig_connect <- ggplot(data = data_connect)+
 
 # save --------------------------------------------------------------------
 
-fig <- cowplot::plot_grid(fig5 + fig5_a + fig6 + fig_connect + fig7 + fig8_a + fig8 + 
-                               plot_layout(nrow = 1, widths = c(0.9, 0.1, 1.5, 2, 1.5, 0.1, 0.9), guides = 'collect', axes = 'collect') &
-                               theme(legend.position = "bottom",
-                                     legend.box = 'vertical',
-                                     plot.title = element_text(face = 'bold', size = 14, hjust = 0),
-                                     legend.title.position = "top"),
-                          fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2)&
-                               theme(legend.title.position = "top",
-                                     plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
+fig_top <- (fig5 + fig5_a + fig6 + fig_connect + fig7 + fig8_a + fig8 +
+                 plot_layout(nrow = 1, widths = c(0.9, 0.1, 1.5, 2, 1.5, 0.1, 0.9), guides = 'collect', axes = 'collect')) +
+     plot_annotation(
+          theme = theme(
+               legend.position = "bottom",
+               legend.box = 'vertical',
+               plot.title = element_text(face = 'bold', size = 14, hjust = 0),
+               legend.title.position = "top"
+          )
+     )
+
+fig_bottom <- (fig1 + fig2 + fig3 + fig4 + plot_layout(nrow = 2)) +
+     plot_annotation(
+          theme = theme(
+               legend.title.position = "top",
+               plot.title = element_text(face = 'bold', size = 14, hjust = 0)
+          )
+     )
+
+fig <- cowplot::plot_grid(fig_top,
+                          fig_bottom,
                           nrow = 2,
                           ncol = 1,
                           rel_heights = c(3, 2))
@@ -761,9 +832,6 @@ write.xlsx(data_fig,
            file = "../Outcome/Publish/figure_data/fig1.xlsx")
 
 # save apc table ---------------------------------------------------------------
-
-appendix_tables_dir <- file.path("..", "Outcome", "Appendix", "Tables")
-dir.create(appendix_tables_dir, showWarnings = FALSE, recursive = TRUE)
 
 write.xlsx(data_apc |> 
                 select(DateRange, Measure, APC, APC_LCI, APC_UCI, P_value_Label),

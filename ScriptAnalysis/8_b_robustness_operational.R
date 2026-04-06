@@ -8,6 +8,7 @@ remove(list = ls())
 # load primary outcome and any optional simulation-time sensitivity outcomes
 load("./temp/outcome.RData")
 primary_outcome <- outcome
+analysis_cores <- max(1L, min(8L, max(1L, parallel::detectCores(logical = TRUE) - 1L)))
 
 parse_scenario <- function(path) {
   file_name <- basename(path)
@@ -223,49 +224,55 @@ build_uncertainty_summary <- function(outcome_data,
                                       start_date = as.Date("2020-01-01"),
                                       recovery_threshold = 0.95,
                                       persistence = 3) {
-  purrr::map_dfr(outcome_data, function(item) {
-    shortname <- unique(item$outcome_data$Shortname)[1]
-    res <- calc_status_paths(item,
-                             start_date = start_date,
-                             recovery_threshold = recovery_threshold,
-                             persistence = persistence)
+  item_summaries <- parallel::mclapply(
+    outcome_data,
+    function(item) {
+      shortname <- unique(item$outcome_data$Shortname)[1]
+      res <- calc_status_paths(item,
+                               start_date = start_date,
+                               recovery_threshold = recovery_threshold,
+                               persistence = persistence)
 
-    primary_status <- res$primary$Status[1]
-    sims <- res$sims
-    status_prob <- sims |>
-      count(Status, name = "n") |>
-      mutate(prob = n / sum(n))
+      primary_status <- res$primary$Status[1]
+      sims <- res$sims
+      status_prob <- sims |>
+        count(Status, name = "n") |>
+        mutate(prob = n / sum(n))
 
-    primary_prob <- status_prob |>
-      filter(Status == primary_status) |>
-      pull(prob)
-    if (length(primary_prob) == 0) primary_prob <- 0
+      primary_prob <- status_prob |>
+        filter(Status == primary_status) |>
+        pull(prob)
+      if (length(primary_prob) == 0) primary_prob <- 0
 
-    rp_months <- purrr::map_dbl(
-      sims$Date_Recovery,
-      ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
-    )
-    bp_months <- purrr::map_dbl(
-      sims$Date_Balance,
-      ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
-    )
+      rp_months <- purrr::map_dbl(
+        sims$Date_Recovery,
+        ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
+      )
+      bp_months <- purrr::map_dbl(
+        sims$Date_Balance,
+        ~ if (is.na(.x)) NA_real_ else get_months(start_date, .x)
+      )
 
-    tibble(
-      Shortname = shortname,
-      PrimaryStatus = primary_status,
-      PrimaryStatusLabel = unname(status_label_map[primary_status]),
-      Pr_RP = mean(sims$Status %in% c("Recovered", "Debt Repaid")),
-      Pr_BP = mean(sims$Status == "Debt Repaid"),
-      Pr_NoDeficit = mean(sims$Status == "No Deficit"),
-      PrimaryStatusProb = primary_prob,
-      RP_MedianMonths = ifelse(any(!is.na(rp_months)), median(rp_months, na.rm = TRUE), NA_real_),
-      RP_Q025Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.025, na.rm = TRUE), NA_real_),
-      RP_Q975Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.975, na.rm = TRUE), NA_real_),
-      BP_MedianMonths = ifelse(any(!is.na(bp_months)), median(bp_months, na.rm = TRUE), NA_real_),
-      BP_Q025Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.025, na.rm = TRUE), NA_real_),
-      BP_Q975Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.975, na.rm = TRUE), NA_real_)
-    )
-  })
+      tibble(
+        Shortname = shortname,
+        PrimaryStatus = primary_status,
+        PrimaryStatusLabel = unname(status_label_map[primary_status]),
+        Pr_RP = mean(sims$Status %in% c("Recovered", "Debt Repaid")),
+        Pr_BP = mean(sims$Status == "Debt Repaid"),
+        Pr_NoDeficit = mean(sims$Status == "No Deficit"),
+        PrimaryStatusProb = primary_prob,
+        RP_MedianMonths = ifelse(any(!is.na(rp_months)), median(rp_months, na.rm = TRUE), NA_real_),
+        RP_Q025Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.025, na.rm = TRUE), NA_real_),
+        RP_Q975Months = ifelse(any(!is.na(rp_months)), quantile(rp_months, 0.975, na.rm = TRUE), NA_real_),
+        BP_MedianMonths = ifelse(any(!is.na(bp_months)), median(bp_months, na.rm = TRUE), NA_real_),
+        BP_Q025Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.025, na.rm = TRUE), NA_real_),
+        BP_Q975Months = ifelse(any(!is.na(bp_months)), quantile(bp_months, 0.975, na.rm = TRUE), NA_real_)
+      )
+    },
+    mc.cores = analysis_cores
+  )
+
+  bind_rows(item_summaries)
 }
 
 all_uncertainty_summary <- purrr::map_dfr(seq_len(nrow(scenario_manifest)), function(i) {

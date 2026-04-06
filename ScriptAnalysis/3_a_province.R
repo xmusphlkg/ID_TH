@@ -246,8 +246,7 @@ fig_incidence <- lapply(1:length(year_group), plot_map_group,
                         year_group= year_group,
                         index = 'Max_Incidence_Disease') |>
      reduce(`+`) +
-     plot_layout(ncol = 6, guides = "collect")&
-     theme(legend.position = "bottom")
+     plot_layout(ncol = 6, guides = "collect")
 
 fig_mortality <- lapply(1:length(year_group), plot_map_group,
                         data_region_leading = data_region_leading,
@@ -255,17 +254,16 @@ fig_mortality <- lapply(1:length(year_group), plot_map_group,
                         year_group= year_group,
                         index = 'Max_Mortality_Disease') |>
      reduce(`+`) +
-     plot_layout(ncol = 6, guides = "collect")&
-     theme(legend.position = "bottom")
+     plot_layout(ncol = 6, guides = "collect")
 
 # save plot --------------------------------------------------------------
 
-ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_4/incidence.png",
+ggsave(filename = "../Outcome/Appendix/Supplementary Appendix 1_4/incidence.png",
        plot = fig_incidence,
        width = 14,
        height = 14)
 
-ggsave(filename = "../outcome/Appendix/Supplementary Appendix 1_4/mortality.png",
+ggsave(filename = "../Outcome/Appendix/Supplementary Appendix 1_4/mortality.png",
        plot = fig_mortality,
        width = 14,
        height = 14)

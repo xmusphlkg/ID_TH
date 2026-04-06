@@ -289,15 +289,32 @@ fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
 
 # save --------------------------------------------------------------------
 
+fig1 <- fig1 +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig2_a <- fig2_a +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig2_b <- fig2_b +
+     theme(legend.position = "bottom",
+           legend.title.position = "top",
+           plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig3 <- fig3 +
+     theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
+fig4 <- fig4 +
+     theme(plot.title = element_text(face = "bold", size = 14, hjust = 0))
+
 final_plot <- cowplot::plot_grid(
      free(fig1) + fig2_a + fig2_b +
-          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect') &
-          theme(legend.position = 'bottom',
-                legend.title.position = 'top',
-                plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
+          plot_layout(ncol = 3, widths = c(1.2, 0.5, 0.5), byrow = T, guides = 'collect'),
      fig3 + fig4 +
-          plot_layout(ncol = 2, byrow = ) &
-          theme(plot.title = element_text(face = 'bold', size = 14, hjust = 0)),
+          plot_layout(ncol = 2),
      ncol = 1,
      byrow = F,
      rel_heights = c(1.2, 1),

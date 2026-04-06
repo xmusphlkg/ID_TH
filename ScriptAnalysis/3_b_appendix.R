@@ -18,6 +18,7 @@ remove(list = ls())
 # source("./function/theme_set.R")
 
 load("./temp/province.RData")
+analysis_cores <- max(1L, min(8L, max(1L, parallel::detectCores(logical = TRUE) - 1L)))
 
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
@@ -125,18 +126,10 @@ plot_map <- function(d, data_region, data_map) {
 
 disease_name <- data_class$Shortname
 
-cl <- makeCluster(length(disease_name))
-registerDoParallel(cl)
-clusterEvalQ(cl, {
-     library(tidyverse)
-     library(paletteer)
-     library(patchwork)
-     library(cowplot)
-     library(sf)
-     library(biscale)
-     library(ggthemes)
-})
-
-clusterExport(cl, ls()[ls() != "cl"], envir = environment())
-outcome <- parLapply(cl, disease_name, plot_map, data_region = data_region, data_map = data_map)
-stopCluster(cl)
+outcome <- parallel::mclapply(
+     disease_name,
+     plot_map,
+     data_region = data_region,
+     data_map = data_map,
+     mc.cores = analysis_cores
+)
