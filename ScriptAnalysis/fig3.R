@@ -115,11 +115,5 @@ ggsave(file.path(out_dir, "fig3.pdf"),
 ggsave(file.path(out_dir, "fig3.png"),
        fig_grid, width = 14, height = 12, dpi = 200, limitsize = FALSE)
 
-# ---- Save figure data ---------------------------------------------------
-data_outcome_list <- lapply(seq_along(outcome), function(x) outcome[[x]]$outcome_data)
-data_outcome_list <- append(list(data_map), data_outcome_list)
-data_outcome_list <- append(data_outcome_list, list(data_recovery_visual))
-names(data_outcome_list) <- int2col(seq_along(data_outcome_list))
-write.xlsx(data_outcome_list, file = file.path(out_dir, "fig3_data.xlsx"))
 
 message("fig3 saved to ", out_dir)

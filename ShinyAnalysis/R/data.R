@@ -47,6 +47,17 @@ load(file.path(paths$script_root, "temp", "outcome.RData"), envir = data_env)
 data_month <- data_env$data_month %>%
   mutate(Shortname = normalize_shortname(Shortname))
 
+example_upload_data <- data_month %>%
+  transmute(
+    date = as.Date(Date),
+    disease = Shortname,
+    cases = as.numeric(Cases)
+  ) %>%
+  filter(!is.na(date), !is.na(cases), cases >= 0) %>%
+  group_by(disease, date) %>%
+  summarise(cases = sum(cases, na.rm = TRUE), .groups = "drop") %>%
+  arrange(disease, date)
+
 data_class <- data_env$data_class %>%
   mutate(Shortname = normalize_shortname(Shortname))
 

@@ -48,32 +48,53 @@ if (FALSE) {
 }
 
 resolve_paths <- function(app_dir = getwd()) {
-  candidates <- list(
-    list(
-      project_root = normalizePath(file.path(app_dir, "data"), winslash = "/", mustWork = FALSE),
-      script_root = normalizePath(file.path(app_dir, "data"), winslash = "/", mustWork = FALSE)
-    ),
-    list(
-      project_root = normalizePath(file.path(app_dir, "..", ".."), winslash = "/", mustWork = FALSE),
-      script_root = normalizePath(file.path(app_dir, ".."), winslash = "/", mustWork = FALSE)
-    ),
-    list(
-      project_root = normalizePath(getwd(), winslash = "/", mustWork = FALSE),
-      script_root = normalizePath(file.path(getwd(), "ScriptAnalysis"), winslash = "/", mustWork = FALSE)
-    ),
-    list(
-      project_root = normalizePath(file.path(getwd(), "../.."), winslash = "/", mustWork = FALSE),
-      script_root = normalizePath(file.path(getwd(), ".."), winslash = "/", mustWork = FALSE)
-    )
+  bundled_root <- normalizePath(file.path(app_dir, "data"), winslash = "/", mustWork = FALSE)
+  required_files <- c(
+    file.path(bundled_root, "temp", "month.RData"),
+    file.path(bundled_root, "temp", "outcome.RData"),
+    file.path(bundled_root, "Outcome", "TotalCasesDeaths.csv")
   )
 
-  for (candidate in candidates) {
-    if (file.exists(file.path(candidate$script_root, "temp", "month.RData"))) {
-      return(candidate)
-    }
+  if (all(file.exists(required_files))) {
+    return(list(
+      project_root = bundled_root,
+      script_root = bundled_root
+    ))
   }
 
-  stop("Could not locate bundled or repository data files for the Shiny dashboard.")
+  missing_files <- basename(required_files[!file.exists(required_files)])
+  stop(
+    paste(
+      "Could not locate bundled data files for the Shiny dashboard.",
+      "Include the app-local data bundle before deployment.",
+      paste("Missing:", paste(missing_files, collapse = ", "))
+    ),
+    call. = FALSE
+  )
+}
+
+parse_surveillance_date <- function(x) {
+  if (inherits(x, "Date")) {
+    return(as.Date(lubridate::floor_date(x, unit = "month")))
+  }
+
+  if (inherits(x, c("POSIXct", "POSIXt"))) {
+    return(as.Date(lubridate::floor_date(x, unit = "month")))
+  }
+
+  x_chr <- trimws(as.character(x))
+  x_chr[x_chr == ""] <- NA_character_
+
+  parsed <- suppressWarnings(lubridate::parse_date_time(
+    x_chr,
+    orders = c(
+      "ymd", "Y/m/d", "Y-m-d",
+      "ym", "Y/m", "Y-m", "Ym"
+    ),
+    exact = FALSE
+  ))
+
+  as.Date(lubridate::floor_date(parsed, unit = "month"))
 }
 
 month_diff <- function(start, end) {

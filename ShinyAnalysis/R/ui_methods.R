@@ -7,7 +7,7 @@ library(shiny)
 #####################################
 
 methods_panel <- nav_panel(
-  "Reference",
+  "Guide",
   page_fillable(
     layout_columns(
       col_widths = c(7, 5),
@@ -33,26 +33,27 @@ methods_panel <- nav_panel(
         )
       ),
       card(
-        card_header("Thailand fixed-dataset scope"),
+        card_header("App workflow"),
         card_body(
           tableOutput("study_flow_table"),
           p(class = "section-copy compact",
-            "The Thailand fixed dataset loads cached analysis outputs. Use the Analyze tab to run your own data.")
+            "Use Upload Analysis for your own monthly series. The Thailand example remains bundled as a worked demonstration and quick-start dataset.")
         )
       )
     ),
     layout_columns(
       col_widths = c(6, 6),
       card(
-        card_header("How to use the Analyze tab"),
+        card_header("How to use Upload Analysis"),
         card_body(
           tags$ul(
             class = "insight-list",
+            tags$li(tags$b("Start:"), " Upload a CSV or click the bundled Thailand example button in the sidebar."),
             tags$li(tags$b("Upload:"), " A CSV with columns ", tags$code("date"), ", ", tags$code("disease"), ", ", tags$code("cases"), "."),
             tags$li(tags$b("Configure:"), " Select the disease, model, disruption year, recovery threshold."),
             tags$li(tags$b("Run:"), " Click 'Run analysis' — results appear within seconds."),
             tags$li(tags$b("Interpret:"), " RP / BP status boxes and trajectory chart appear automatically."),
-            tags$li(tags$b("Download:"), " Export the full result table as a CSV.")
+            tags$li(tags$b("Download:"), " Export the full result table, the bundled example CSV, or a blank template.")
           )
         )
       ),
@@ -67,8 +68,8 @@ methods_panel <- nav_panel(
             tags$dd("Seasonal ARIMA selected by auto.arima() with AICc; seasonal period = 12 months."),
             tags$dt("Both"),
             tags$dd("Runs ETS and SARIMA and overlays both counterfactuals for visual comparison."),
-              tags$dt("Primary transform"),
-              tags$dd("The refreshed manuscript workflow fits models on sqrt(cases + 0.01) and back-transforms for display."),
+            tags$dt("Primary transform"),
+            tags$dd("The refreshed workflow fits models on sqrt(cases + 0.01) and back-transforms for display when this option is enabled."),
             tags$dt("Limitations"),
             tags$dd("Monte Carlo uncertainty (5000 paths) is applied to ETS and SARIMA via bootstrap residuals. Results should be interpreted as indicative for small, noisy, or short datasets.")
           )
@@ -84,8 +85,9 @@ methods_panel <- nav_panel(
             class = "insight-list",
             tags$li("Minimum training length: 36 months pre-disruption (≥ 60 recommended)."),
             tags$li("Consistent case definitions throughout the series — breaks in reporting protocol will bias counterfactuals."),
+            tags$li("Monthly strings such as YYYY-MM are accepted and normalized to the first day of each month."),
             tags$li("Zero counts are accepted; the +0.01 offset keeps square-root transformed series estimable."),
-            tags$li("Multiple diseases in a single file are supported — switch disease in the sidebar selector."),
+            tags$li("Multiple diseases in a single file are supported — duplicate disease-month rows are summed automatically."),
             tags$li("Monthly granularity required — weekly or daily data must be aggregated before upload.")
           )
         )
@@ -94,7 +96,7 @@ methods_panel <- nav_panel(
         card_header("Citation"),
         card_body(
           p(class = "section-copy",
-            "If you use this dashboard in published work, please cite:"),
+            "If you use the Thailand example dataset or the workflow in published work, please cite:"),
           tags$blockquote(
             style = "border-left: 3px solid rgba(10,103,98,0.4); padding-left: 1rem; color: #33424f;",
             "Li K, Xie Y, Zenghuang Y, et al. A digital surveillance framework reveals decoupled and heterogeneous recovery of infectious diseases in Thailand after COVID-19 disruption. 2026."

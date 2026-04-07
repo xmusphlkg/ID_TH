@@ -2,7 +2,7 @@ library(bslib)
 library(htmltools)
 
 #####################################
-## @Description: ShinyAnalysis theme — same design language as ShinyDashboard
+## @Description: ShinyAnalysis theme — upload-first companion app to ShinyDashboard
 ## @Author: Li Kangguo
 #####################################
 dashboard_theme <- bs_theme(
@@ -155,6 +155,32 @@ app_header <- tags$head(
       border: 1px solid rgba(34,49,63,0.08);
     }
     .overview-note-card .card-body { padding: 1.25rem; }
+    .mode-card {
+      background: rgba(255, 252, 247, 0.9);
+      border: 1px solid rgba(34,49,63,0.08);
+    }
+    .mode-card h3,
+    .process-card h3 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 1.1rem;
+      margin-bottom: 0.45rem;
+      color: #22313f;
+    }
+    .process-card .card-body {
+      min-height: 100%;
+    }
+    .workflow-step {
+      width: 2rem;
+      height: 2rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      background: rgba(10,103,98,0.12);
+      color: var(--teal);
+      font-weight: 700;
+      margin-bottom: 0.8rem;
+    }
     .definition-list {
       display: grid;
       grid-template-columns: minmax(0, 180px) minmax(0, 1fr);
@@ -189,6 +215,6 @@ app_header <- tags$head(
 
 app_title <- div(
   class = "app-title-wrap",
-  div(class = "app-kicker", "Thailand · Infectious Disease Surveillance"),
-  div(class = "app-title", "Disease Recovery Analyzer")
+  div(class = "app-kicker", "Upload-first surveillance workflow"),
+  div(class = "app-title", "ShinyAnalysis Studio")
 )

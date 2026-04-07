@@ -10,7 +10,7 @@ library(shiny)
 #####################################
 
 analyze_panel <- nav_panel(
-  "Analyze",
+  "Upload Analysis",
   page_fillable(
     layout_sidebar(
       sidebar = sidebar(
@@ -18,7 +18,7 @@ analyze_panel <- nav_panel(
         # ---- Upload zone -----------------------------------------
         div(
           class = "upload-zone",
-          tags$p(class = "mini-kicker", "Step 1 — Upload your data"),
+          tags$p(class = "mini-kicker", "Step 1 — Upload or start from the example"),
           fileInput(
             inputId  = "user_file",
             label    = NULL,
@@ -30,6 +30,25 @@ analyze_panel <- nav_panel(
             "Required columns: ", tags$code("date"), " (YYYY-MM-DD or YYYY-MM),",
             " ", tags$code("disease"), " (text label),",
             " ", tags$code("cases"), " (non-negative integer or numeric)."
+          ),
+          tags$div(
+            style = "display:grid; gap:0.6rem; margin-top:0.9rem;",
+            actionButton(
+              inputId = "analyze_load_example",
+              label = "Use bundled Thailand example",
+              class = "btn btn-outline-primary w-100",
+              icon = icon("flask")
+            ),
+            downloadButton(
+              outputId = "analyze_download_example",
+              label = "Download example CSV",
+              class = "btn btn-outline-secondary w-100"
+            ),
+            downloadButton(
+              outputId = "analyze_download_template",
+              label = "Download template CSV",
+              class = "btn btn-outline-secondary w-100"
+            )
           )
         ),
         hr(),
@@ -105,8 +124,9 @@ analyze_panel <- nav_panel(
             tags$div(class = "caption-chip", tags$span(icon("upload"), " Upload & Analyze")),
             h2("Run your own recovery analysis"),
             p(class = "hero-lead",
-              "Upload monthly disease surveillance data and the framework will automatically fit ",
-              "counterfactual models, compute RP and BP, and visualise seasonal re-alignment."),
+              "Upload monthly disease surveillance data, or start with the bundled Thailand example, ",
+              "and the framework will automatically fit counterfactual models, compute RP and BP, ",
+              "and visualise seasonal re-alignment."),
             div(
               class = "hero-strip",
               div(class = "hero-pill", "ETS & SARIMA counterfactuals"),
@@ -119,7 +139,7 @@ analyze_panel <- nav_panel(
         card(
           class = "overview-note-card",
           card_body(
-            tags$div(class = "mini-kicker", "Required CSV format"),
+            tags$div(class = "mini-kicker", "Accepted monthly CSV format"),
             HTML('
               <table class="table format-table table-bordered mb-1">
                 <thead><tr>
@@ -133,7 +153,7 @@ analyze_panel <- nav_panel(
               </table>
             '),
             tags$p(class = "section-copy compact",
-                   "Multiple diseases per file are supported. Each will appear in the disease selector after upload.")
+                   "Multiple diseases per file are supported. The app normalizes YYYY-MM dates to the first day of the month and aggregates duplicate disease-month rows automatically.")
           )
         )
       ),
@@ -174,7 +194,7 @@ analyze_panel <- nav_panel(
           )
         ),
         card(
-          card_header("Uploaded data preview"),
+          card_header("Current data preview"),
           card_body(
             DTOutput("analyze_data_table")
           )

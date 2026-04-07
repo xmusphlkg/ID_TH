@@ -62,37 +62,37 @@ print(data_recovery_visual, n = Inf)
 
 # save --------------------------------------------------------------------
 
-fig2 <- lapply(1:nrow(data_class),
-               plot_single_panel,
-               outcome = outcome,
-               recovery = data_recovery_visual,
-               display_recovery = T,
-               titles = data_class$label) |> 
-     wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect')
-fig2 <- collect_guides_bottom(fig2)
+# fig2 <- lapply(1:nrow(data_class),
+#                plot_single_panel,
+#                outcome = outcome,
+#                recovery = data_recovery_visual,
+#                display_recovery = T,
+#                titles = data_class$label) |> 
+#      wrap_plots(ncol = 6, guides = 'collect', axis_titles = 'collect')
+# fig2 <- collect_guides_bottom(fig2)
 
-plot <- cowplot::plot_grid(fig1, fig2,
-                           nrow = 1,
-                           rel_widths = c(1.5, 7))
+# plot <- cowplot::plot_grid(fig1, fig2,
+#                            nrow = 1,
+#                            rel_widths = c(1.5, 7))
 
-ggsave("../Outcome/Publish/fig2.pdf",
-       plot,
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 12)
+# ggsave("../Outcome/Publish/fig2.pdf",
+#        plot,
+#        family = "Times New Roman",
+#        limitsize = FALSE, device = cairo_pdf,
+#        width = 14, height = 12)
 
-ggsave("../Outcome/Publish/fig2.png",
-       plot,
-       limitsize = FALSE,
-       width = 14, height = 12)
+# ggsave("../Outcome/Publish/fig2.png",
+#        plot,
+#        limitsize = FALSE,
+#        width = 14, height = 12)
 
-data_outcome <- lapply(1:length(outcome), function(x) outcome[[x]]$outcome_data)
+# data_outcome <- lapply(1:length(outcome), function(x) outcome[[x]]$outcome_data)
 
-data_outcome <- append(list(data_map), data_outcome)
+# data_outcome <- append(list(data_map), data_outcome)
 
-data_outcome <- append(data_outcome, list(data_recovery_visual))
+# data_outcome <- append(data_outcome, list(data_recovery_visual))
 
-names(data_outcome) <- int2col(seq_along(data_outcome))
+# names(data_outcome) <- int2col(seq_along(data_outcome))
 
-write.xlsx(data_outcome,
-           file = "../Outcome/Publish/figure_data/fig2.xlsx")
+# write.xlsx(data_outcome,
+#            file = "../Outcome/Publish/figure_data/fig2.xlsx")

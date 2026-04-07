@@ -17,12 +17,13 @@ for (obj_name in c("dashboard_theme", "app_title", "app_header")) {
     break
   }
 }
-for (obj_name in c("overview_panel")) {
+for (obj_name in c("home_panel", "overview_panel")) {
   if (!exists(obj_name, inherits = TRUE)) {
     if (!exists("resolve_paths", inherits = TRUE))
       sys.source(file.path(ui_bootstrap_dir, "R", "helpers.R"), envir = environment())
     if (!exists("study_summary", inherits = TRUE))
       sys.source(file.path(ui_bootstrap_dir, "R", "data.R"), envir = environment())
+    sys.source(file.path(ui_bootstrap_dir, "R", "ui_home.R"), envir = environment())
     sys.source(file.path(ui_bootstrap_dir, "R", "ui_overview.R"), envir = environment())
     sys.source(file.path(ui_bootstrap_dir, "R", "ui_recovery.R"), envir = environment())
     sys.source(file.path(ui_bootstrap_dir, "R", "ui_timeseries.R"), envir = environment())
@@ -37,12 +38,16 @@ ui <- page_navbar(
   title        = app_title,
   id           = "main_nav",
   theme        = dashboard_theme,
-  window_title = "Thailand ID Recovery Analyzer",
+  window_title = "ShinyAnalysis - Counterfactual Surveillance Studio",
   header       = app_header,
-  overview_panel,
-  recovery_panel,
-  timeseries_panel,
-  seasonal_panel,
+  home_panel,
   analyze_panel,
+  nav_menu(
+    "Thailand Example",
+    overview_panel,
+    recovery_panel,
+    timeseries_panel,
+    seasonal_panel
+  ),
   methods_panel
 )

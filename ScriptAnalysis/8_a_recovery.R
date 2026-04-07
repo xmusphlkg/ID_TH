@@ -266,19 +266,19 @@ fig2_line <- fig2_line +
 fig <- free(fig1) + fig2_table + fig2_line + plot_layout(widths = c(3, 2.3, 2.1), nrow = 1)
 
 # Save the visualization
-ggsave("../Outcome/Publish/fig5.pdf", 
-       fig, 
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 6)
+# ggsave("../Outcome/Publish/fig5.pdf", 
+#        fig, 
+#        family = "Times New Roman",
+#        limitsize = FALSE, device = cairo_pdf,
+#        width = 14, height = 6)
 
-ggsave("../Outcome/Publish/fig5.png", 
-       fig, 
-       limitsize = FALSE,
-       width = 14, height = 6)
+# ggsave("../Outcome/Publish/fig5.png", 
+#        fig, 
+#        limitsize = FALSE,
+#        width = 14, height = 6)
 
-outcome <- list('panel A' = data_fig1,
-                'panel B' = data_fig2)
+# outcome <- list('panel A' = data_fig1,
+#                 'panel B' = data_fig2)
 
-write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig5.xlsx')
+# write.xlsx(outcome,
+#            file = '../Outcome/Publish/figure_data/fig5.xlsx')

@@ -81,16 +81,16 @@ fig_list <- lapply(seq_along(disease_groups_select), plot_group_panel)
 fig1 <- wrap_plots(fig_list, ncol = 1, guides = 'collect')
 fig1 <- collect_guides_bottom(fig1)
 
-ggsave("../Outcome/Publish/fig3_a.pdf",
-       fig1,
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 7.5, height = 10)
+# ggsave("../Outcome/Publish/fig3_a.pdf",
+#        fig1,
+#        family = "Times New Roman",
+#        limitsize = FALSE, device = cairo_pdf,
+#        width = 7.5, height = 10)
 
-ggsave("../Outcome/Publish/fig3_a.png",
-       fig1,
-       limitsize = FALSE,
-       width = 7.5, height = 10)
+# ggsave("../Outcome/Publish/fig3_a.png",
+#        fig1,
+#        limitsize = FALSE,
+#        width = 7.5, height = 10)
 
 data_save <- data_outcome |> 
      select(Shortname, date, value, median, diff, diff_percent) |> 
@@ -351,27 +351,27 @@ fig_season_all <- wrap_plots(fig_season_list, ncol = 6, guides = 'collect')
 fig_season_all <- collect_guides_bottom(fig_season_all)
 
 # Save the visualization
-ggsave("../Outcome/Publish/fig3_b.pdf", 
-       fig_season_all, 
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 11)
+# ggsave("../Outcome/Publish/fig3_b.pdf", 
+#        fig_season_all, 
+#        family = "Times New Roman",
+#        limitsize = FALSE, device = cairo_pdf,
+#        width = 14, height = 11)
 
-ggsave("../Outcome/Publish/fig3_b.png", 
-       fig_season_all, 
-       limitsize = FALSE,
-       width = 14, height = 11)
+# ggsave("../Outcome/Publish/fig3_b.png", 
+#        fig_season_all, 
+#        limitsize = FALSE,
+#        width = 14, height = 11)
 
-data_save_disease <- df_monthly_pattern |> 
-     select(Shortname, Period, month, avg_value, norm_value) |> 
-     mutate(Shortname = factor(Shortname, levels = data_class$Shortname)) |>
-     arrange(Shortname, Period, month) |> 
-     group_split(Shortname)
+# data_save_disease <- df_monthly_pattern |> 
+#      select(Shortname, Period, month, avg_value, norm_value) |> 
+#      mutate(Shortname = factor(Shortname, levels = data_class$Shortname)) |>
+#      arrange(Shortname, Period, month) |> 
+#      group_split(Shortname)
 
-data_save <- append(data_save,
-                    data_save_disease)
+# data_save <- append(data_save,
+#                     data_save_disease)
 
-names(data_save) <- int2col(seq_along(data_save))
+# names(data_save) <- int2col(seq_along(data_save))
 
-write.xlsx(as.list(data_save),
-           file = "../Outcome/Publish/figure_data/fig3.xlsx")
+# write.xlsx(as.list(data_save),
+#            file = "../Outcome/Publish/figure_data/fig3.xlsx")

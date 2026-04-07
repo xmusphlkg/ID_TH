@@ -804,32 +804,32 @@ fig <- cowplot::plot_grid(fig_top,
                           ncol = 1,
                           rel_heights = c(3, 2))
 
-ggsave(filename = "../Outcome/Publish/fig1.png",
-       fig,
-       width = 14,
-       height = 18)
+# ggsave(filename = "../Outcome/Publish/fig1.png",
+#        fig,
+#        width = 14,
+#        height = 18)
 
-ggsave(filename = "../Outcome/Publish/fig1.pdf",
-       fig,
-       width = 14,
-       height = 18,
-       device = cairo_pdf,
-       family = "Times New Roman")
+# ggsave(filename = "../Outcome/Publish/fig1.pdf",
+#        fig,
+#        width = 14,
+#        height = 18,
+#        device = cairo_pdf,
+#        family = "Times New Roman")
 
-# figure data
-data_fig <- list("panel A" = fig5_data,
-                 "panel B" = fig6_data,
-                 "panel C" = data_connect,
-                 "panel D" = fig7_data,
-                 "panel E" = fig8_data,
-                 "panel F" = fig1_data,
-                 "panel G" = fig2_data,
-                 "panel H" = fig3_data,
-                 "panel I" = fig4_data,
-                 "APC" = data_apc)
+# # figure data
+# data_fig <- list("panel A" = fig5_data,
+#                  "panel B" = fig6_data,
+#                  "panel C" = data_connect,
+#                  "panel D" = fig7_data,
+#                  "panel E" = fig8_data,
+#                  "panel F" = fig1_data,
+#                  "panel G" = fig2_data,
+#                  "panel H" = fig3_data,
+#                  "panel I" = fig4_data,
+#                  "APC" = data_apc)
 
-write.xlsx(data_fig,
-           file = "../Outcome/Publish/figure_data/fig1.xlsx")
+# write.xlsx(data_fig,
+#            file = "../Outcome/Publish/figure_data/fig1.xlsx")
 
 # save apc table ---------------------------------------------------------------
 

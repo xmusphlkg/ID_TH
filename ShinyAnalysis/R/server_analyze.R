@@ -22,6 +22,38 @@ analyze_server <- function(input, output, session) {
   # ---- Reactive state -------------------------------------------------
   user_data   <- reactiveVal(NULL)   # parsed CSV tibble
   run_result  <- reactiveVal(NULL)   # list: metrics + forecast data + seasonal
+  data_origin <- reactiveVal("No dataset loaded")
+
+  activate_dataset <- function(df, label) {
+    if (is.null(df) || nrow(df) == 0) {
+      showNotification("No valid monthly records were available after parsing.", type = "error", duration = 8)
+      return(invisible(FALSE))
+    }
+
+    if (nrow(df) < 12) {
+      showNotification("Too few rows — need at least 12 months of data.", type = "error", duration = 8)
+      return(invisible(FALSE))
+    }
+
+    user_data(df)
+    run_result(NULL)
+    data_origin(label)
+
+    diseases <- sort(unique(df$disease))
+    updateSelectInput(session, "analyze_disease", choices = diseases, selected = diseases[1])
+
+    showNotification(
+      paste0(
+        "Loaded ", label, ": ", nrow(df), " rows, ",
+        length(diseases), " disease(s), ",
+        format(min(df$date), "%Y-%m"), " – ", format(max(df$date), "%Y-%m")
+      ),
+      type = "message",
+      duration = 6
+    )
+
+    invisible(TRUE)
+  }
 
   # ---- 1. File upload & parse ----------------------------------------
   observeEvent(input$user_file, {
@@ -47,45 +79,37 @@ analyze_server <- function(input, output, session) {
         return()
       }
 
-      df <- df |>
-        dplyr::rename(date  = !!date_col,
-                      cases = !!case_col) |>
-        dplyr::mutate(
-          date  = lubridate::as_date(date),
-          cases = suppressWarnings(as.numeric(cases))
-        ) |>
-        dplyr::filter(!is.na(date), !is.na(cases), cases >= 0)
-
       if (!is.na(dis_col)) {
         df <- df |> dplyr::rename(disease = !!dis_col)
       } else {
         df <- df |> dplyr::mutate(disease = "Disease")
       }
 
-      df <- df |> dplyr::arrange(disease, date)
+      df <- df |>
+        dplyr::rename(date = !!date_col, cases = !!case_col) |>
+        dplyr::mutate(
+          date  = parse_surveillance_date(date),
+          disease = trimws(as.character(disease)),
+          cases = suppressWarnings(as.numeric(cases))
+        ) |>
+        dplyr::filter(!is.na(date), !is.na(cases), cases >= 0, nzchar(disease)) |>
+        dplyr::group_by(disease, date) |>
+        dplyr::summarise(cases = sum(cases, na.rm = TRUE), .groups = "drop") |>
+        dplyr::arrange(disease, date)
 
-      if (nrow(df) < 12) {
-        showNotification("Too few rows — need at least 12 months of data.", type = "error")
+      if (nrow(df) == 0) {
+        showNotification("No valid rows remained after parsing the CSV. Check dates and case counts.", type = "error", duration = 8)
         return()
       }
 
-      user_data(df)
-      run_result(NULL)
-
-      # Update disease selector
-      diseases <- sort(unique(df$disease))
-      updateSelectInput(session, "analyze_disease",
-                        choices = diseases, selected = diseases[1])
-
-      showNotification(
-        paste0("Uploaded: ", nrow(df), " rows, ",
-               length(diseases), " disease(s), ",
-               format(min(df$date), "%Y-%m"), " – ", format(max(df$date), "%Y-%m")),
-        type = "message", duration = 5
-      )
+      activate_dataset(df, "uploaded dataset")
     }, error = function(e) {
       showNotification(paste("Upload error:", conditionMessage(e)), type = "error", duration = 8)
     })
+  })
+
+  observeEvent(input$analyze_load_example, {
+    activate_dataset(example_upload_data, "Thailand example dataset")
   })
 
   # ---- 2. Data preview table -----------------------------------------
@@ -405,7 +429,7 @@ analyze_server <- function(input, output, session) {
         class = "text-center mt-5",
         style = "color: #62707B; padding: 3rem;",
         icon("chart-line", style = "font-size: 2.5rem; opacity: 0.3;"),
-        tags$p(class = "mt-2", "Upload data and run analysis to see the counterfactual trajectory.")
+        tags$p(class = "mt-2", "Upload a CSV or load the bundled Thailand example to see the counterfactual trajectory.")
       ))
     }
     plotOutput("analyze_trajectory_plot", height = "480px")
@@ -634,7 +658,8 @@ analyze_server <- function(input, output, session) {
       n_diseases <- length(unique(df$disease))
       date_range <- paste(format(min(df$date), "%Y-%m"), "–", format(max(df$date), "%Y-%m"))
       notes <- c(notes, list(
-        tags$li(paste0("Uploaded: ", nrow(df), " rows · ", n_diseases, " disease(s) · ", date_range))
+        tags$li(paste0("Current source: ", data_origin())),
+        tags$li(paste0("Rows loaded: ", nrow(df), " · ", n_diseases, " disease(s) · ", date_range))
       ))
       # Check for zero-only months
       n_zero <- sum(df$cases == 0, na.rm = TRUE)
@@ -676,7 +701,7 @@ analyze_server <- function(input, output, session) {
       }
     } else {
       notes <- c(notes, list(
-        tags$li(tags$span(class = "status-badge badge-info", "Waiting"), " Upload a CSV to begin.")
+        tags$li(tags$span(class = "status-badge badge-info", "Waiting"), " Upload a CSV or load the bundled Thailand example to begin.")
       ))
     }
 
@@ -704,6 +729,31 @@ analyze_server <- function(input, output, session) {
         dplyr::mutate(disease = r$disease) |>
         dplyr::select(disease, date, phase, observed, median, lower_80, upper_80, lower_95, upper_95)
       write.csv(result_df, file, row.names = FALSE)
+    }
+  )
+
+  output$analyze_download_example <- downloadHandler(
+    filename = function() {
+      paste0("thailand_example_upload_", format(Sys.Date(), "%Y%m%d"), ".csv")
+    },
+    content = function(file) {
+      write.csv(example_upload_data, file, row.names = FALSE)
+    }
+  )
+
+  output$analyze_download_template <- downloadHandler(
+    filename = function() {
+      paste0("surveillance_template_", format(Sys.Date(), "%Y%m%d"), ".csv")
+    },
+    content = function(file) {
+      template_df <- data.frame(
+        date = c("2019-01", "2019-02", "2019-03", "2020-01", "2020-02", "2020-03"),
+        disease = c("Example disease", "Example disease", "Example disease", "Example disease", "Example disease", "Example disease"),
+        cases = c(120, 145, 131, 72, 64, 70),
+        stringsAsFactors = FALSE
+      )
+
+      write.csv(template_df, file, row.names = FALSE)
     }
   )
 }

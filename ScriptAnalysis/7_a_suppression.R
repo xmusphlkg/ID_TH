@@ -327,21 +327,21 @@ final_plot <- cowplot::plot_grid(
 )
 
 # Save
-ggsave("../Outcome/Publish/fig4.pdf",
-       plot = final_plot, 
-       family = "Times New Roman",
-       limitsize = FALSE, device = cairo_pdf,
-       width = 14, height = 10)
+# ggsave("../Outcome/Publish/fig4.pdf",
+#        plot = final_plot, 
+#        family = "Times New Roman",
+#        limitsize = FALSE, device = cairo_pdf,
+#        width = 14, height = 10)
 
-ggsave("../Outcome/Publish/fig4.png",
-       final_plot,
-       limitsize = FALSE,
-       width = 14, height = 10)
+# ggsave("../Outcome/Publish/fig4.png",
+#        final_plot,
+#        limitsize = FALSE,
+#        width = 14, height = 10)
 
-outcome <- list('panel A' = data_fig1,
-                'panel B' = data_fig2,
-                'panel C' = data_fig3,
-                'panel D' = data_fig4)
+# outcome <- list('panel A' = data_fig1,
+#                 'panel B' = data_fig2,
+#                 'panel C' = data_fig3,
+#                 'panel D' = data_fig4)
 
-write.xlsx(outcome,
-           file = '../Outcome/Publish/figure_data/fig4.xlsx')
+# write.xlsx(outcome,
+#            file = '../Outcome/Publish/figure_data/fig4.xlsx')
