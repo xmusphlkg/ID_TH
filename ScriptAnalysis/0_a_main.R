@@ -50,7 +50,7 @@ cat("Start part 5: forecasting best model...\n")
 source('./5_a_forecast.R')
 
 cat("Start part 6: figure 3 visualization...\n")
-source('./6_a_IRR_index.R')
+# source('./6_a_IRR_index.R')
 
 cat("Start part 7: figure 4 visualization (suppression)...\n")
 source('./7_a_suppression.R')

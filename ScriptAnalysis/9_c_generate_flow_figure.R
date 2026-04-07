@@ -5,11 +5,27 @@ suppressPackageStartupMessages({
   library(openxlsx)
 })
 
-args <- commandArgs(trailingOnly = FALSE)
-file_arg <- "--file="
-script_path <- sub(file_arg, "", args[grep(file_arg, args)][1])
-script_dir <- dirname(normalizePath(script_path))
-project_root <- normalizePath(file.path(script_dir, ".."))
+resolve_script_dir <- function() {
+  args <- commandArgs(trailingOnly = FALSE)
+  file_arg <- "--file="
+  file_hits <- grep(paste0("^", file_arg), args, value = TRUE)
+
+  if (length(file_hits) > 0) {
+    script_path <- sub(file_arg, "", file_hits[1])
+    if (!is.na(script_path) && nzchar(script_path)) {
+      return(dirname(normalizePath(path.expand(script_path), winslash = "/", mustWork = FALSE)))
+    }
+  }
+
+  if (dir.exists("ScriptAnalysis")) {
+    return(normalizePath("ScriptAnalysis", winslash = "/", mustWork = FALSE))
+  }
+
+  normalizePath(getwd(), winslash = "/", mustWork = FALSE)
+}
+
+script_dir <- resolve_script_dir()
+project_root <- normalizePath(file.path(script_dir, ".."), winslash = "/", mustWork = FALSE)
 
 flow_path <- file.path(project_root, "Outcome", "Appendix", "Tables", "Disease_flow_summary.xlsx")
 out_dir <- file.path(project_root, "Outcome", "Appendix", "Supplementary Appendix 1_0")

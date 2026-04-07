@@ -311,11 +311,11 @@ ABCE
 full_fig <- fig_group + fig_model + panel_B + panel_C + guide_area() +
      plot_layout(nrow = 1,
                  design = design,
-                 widths = c(1, 1.1, 2, 1.5),
+                 widths = c(1, 1.2, 1.9, 1.4),
                  heights = c(1.5, 1),
-                 guides = 'collect')
+                 guides = 'collect') &
+     theme(legend.box = 'vertical')
 
-full_fig <- collect_guides_bottom(full_fig)
 
 ggsave(file.path(out_dir, "fig2.pdf"),
        full_fig, width = 10, height = 8,

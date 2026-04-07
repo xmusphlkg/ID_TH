@@ -435,25 +435,25 @@ In the refreshed primary analysis, robustness emphasis shifted to uncertainty pr
 | Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.812 | 0.332 | 0.480 | 60 (6-66) | 65 (34.5-71) |
 | Rubella | Respiratory IDs | Suppressed | 0.000 | 0.000 | 1.000 | NA | NA |
 | Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.339 | 0.383 | 30 (2-46) | 42 (3-65) |
-| Malaria | Vector-borne and zoonotic IDs | No deficit | 0.477 | 0.477 | 0.523 | 3 (0-24) | 4 (1-28) |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | 0.475 | 0.475 | 0.525 | 3 (0-24) | 4 (1-28) |
 | Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (28-28) | 50 (50-51) |
 | Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 0.858 | 0.773 | 0.773 | 11 (1-37) | 32 (3-64.3) |
 | Melioidosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (6-30) | 41 (35-45) |
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 5 (5-5) | 7 (7-8) |
-| HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 33 (32-49) |
-| Amebiasis | Gastrointestinal IDs | Balanced | 0.669 | 0.539 | 0.539 | 30 (4-55) | 39 (5-64) |
-| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.745 | 0.298 | 0.447 | 8 (4-68) | 29 (6-69) |
-| Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (28-36) | 54 (52-60) |
-| HAV | Gastrointestinal IDs | Recovered but not balanced | 0.961 | 0.000 | 0.961 | 47 (0.2-61) | NA |
+| HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 37 (32-55) |
+| Amebiasis | Gastrointestinal IDs | Balanced | 0.707 | 0.628 | 0.628 | 29 (4-48) | 38 (24-63) |
+| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.715 | 0.351 | 0.364 | 7 (3-67) | 23 (3-68) |
+| Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (28-36) | 55 (52-61) |
+| HAV | Gastrointestinal IDs | Recovered but not balanced | 0.923 | 0.000 | 0.923 | 47 (1-61) | NA |
 | Gonorrhoea | Sexually IDs | Balanced | 0.999 | 0.822 | 0.822 | 36 (8-48) | 56 (43-70) |
-| Syphilis | Sexually IDs | Balanced | 0.852 | 0.616 | 0.616 | 36 (0-56) | 48 (29-68) |
+| Syphilis | Sexually IDs | Balanced | 0.429 | 0.300 | 0.300 | 34 (9-60) | 41 (14-66) |
 | HBV | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 38 (36-41) | 52 (51-52) |
-| CA (HPV) | Sexually IDs | Balanced | 0.997 | 0.846 | 0.846 | 42 (4-50) | 55 (41-69) |
+| CA (HPV) | Sexually IDs | Balanced | 0.956 | 0.773 | 0.773 | 41 (4-53) | 52 (32-68) |
 | Genital herpes | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 36 (31-41) | 52 (51-53) |
 | Chancroid | Sexually IDs | Recovered but not balanced | 0.996 | 0.224 | 0.772 | 48 (8-50) | 66 (55-71) |
 | HCV | Sexually IDs | Balanced | 0.955 | 0.947 | 0.947 | 25 (0-41) | 38 (1-55) |
 
-Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, 8 diseases were uncertainty-sensitive: Scarlet fever, Dengue fever, Malaria, Leptospirosis, Amebiasis, Shigellosis, Syphilis, Chancroid.
+Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, 9 diseases were uncertainty-sensitive: Scarlet fever, Dengue fever, Malaria, Leptospirosis, Amebiasis, Shigellosis, Syphilis, CA (HPV), Chancroid.
 
 <!-- END TABLE_S9 -->
 <div style="page-break-after: always;"></div>
@@ -501,29 +501,29 @@ No disease changed classification when the analytical start date was moved from 
 | HCV | Sexually IDs | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | Yes | Yes | Yes |
 | Chancroid | Sexually IDs | ARIMA + Fourier | ARIMA + Fourier | Hybrid | ARIMA + Fourier | Yes | No | Yes |
 | Genital herpes | Sexually IDs | Hybrid | ETS | Hybrid | Hybrid | No | Yes | Yes |
-| CA (HPV) | Sexually IDs | Bayesian structural | Bayesian structural | Neural Network | Bayesian structural | Yes | No | Yes |
-| HBV | Sexually IDs | ETS | ETS | ETS | ETS | Yes | Yes | Yes |
-| Syphilis | Sexually IDs | SARIMA | SARIMA | SARIMA | SARIMA | Yes | Yes | Yes |
+| CA (HPV) | Sexually IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
+| HBV | Sexually IDs | ETS | Bayesian structural | ETS | ETS | No | Yes | Yes |
+| Syphilis | Sexually IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
 | Gonorrhoea | Sexually IDs | TBATS | ETS | ETS | TBATS | No | No | Yes |
 | HAV | Gastrointestinal IDs | Hybrid | Hybrid | Hybrid | Hybrid | Yes | Yes | Yes |
 | Typhoid | Gastrointestinal IDs | Hybrid | ARIMA + Fourier | Neural Network | Hybrid | No | No | Yes |
 | Shigellosis | Gastrointestinal IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
-| Amebiasis | Gastrointestinal IDs | Bayesian structural | Bayesian structural | Bayesian structural | Bayesian structural | Yes | Yes | Yes |
+| Amebiasis | Gastrointestinal IDs | TBATS | TBATS | SARIMA | SARIMA | Yes | No | No |
 | HFMD | Gastrointestinal IDs | Hybrid | Hybrid | Hybrid | Hybrid | Yes | Yes | Yes |
-| S. suis | Vector-borne and zoonotic IDs | ETS | Hybrid | ETS | ETS | No | Yes | Yes |
+| S. suis | Vector-borne and zoonotic IDs | ETS | Hybrid | Hybrid | ETS | No | No | Yes |
 | Melioidosis | Vector-borne and zoonotic IDs | Hybrid | Hybrid | Hybrid | Hybrid | Yes | Yes | Yes |
 | Leptospirosis | Vector-borne and zoonotic IDs | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | Yes | Yes | Yes |
-| Scrub Typhus | Vector-borne and zoonotic IDs | ETS | ETS | ETS | SARIMA | Yes | Yes | No |
+| Scrub Typhus | Vector-borne and zoonotic IDs | ETS | Bayesian structural | Bayesian structural | Bayesian structural | No | No | No |
 | Malaria | Vector-borne and zoonotic IDs | Hybrid | Hybrid | Neural Network | Hybrid | Yes | No | Yes |
 | Dengue fever | Vector-borne and zoonotic IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
-| Rubella | Respiratory IDs | ETS | ETS | ETS | ETS | Yes | Yes | Yes |
+| Rubella | Respiratory IDs | ETS | ETS | ETS | TBATS | Yes | Yes | No |
 | Scarlet fever | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
 | Mumps | Respiratory IDs | ETS | SARIMA | Hybrid | ETS | No | No | Yes |
 | Chickenpox | Respiratory IDs | SARIMA | SARIMA | SARIMA | SARIMA | Yes | Yes | Yes |
-| Influenza | Respiratory IDs | ETS | ETS | ETS | ETS | Yes | Yes | Yes |
-| Pneumonia | Respiratory IDs | TBATS | TBATS | TBATS | TBATS | Yes | Yes | Yes |
+| Influenza | Respiratory IDs | ETS | ETS | Bayesian structural | ETS | Yes | No | Yes |
+| Pneumonia | Respiratory IDs | TBATS | ARIMA + Fourier | TBATS | TBATS | No | Yes | Yes |
 
-Across the 24 diseases, the primary selected family was also recovered for 19 diseases under rank aggregation, 18 diseases under sMAPE-only selection, and 23 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of diseases rather than a single model family, suggesting that the principal conclusions were not driven by one aggregation formula.
+Across the 24 diseases, the primary selected family was also recovered for 16 diseases under rank aggregation, 15 diseases under sMAPE-only selection, and 21 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of diseases rather than a single model family, suggesting that the principal conclusions were not driven by one aggregation formula.
 
 <!-- END TABLE_S11 -->
 <div style="page-break-after: always;"></div>
@@ -551,7 +551,7 @@ Across the 24 diseases, the primary selected family was also recovered for 19 di
 | Typhoid | Gastrointestinal IDs | Balanced | 0 | -1 | Stable | Low priority routine review |
 | HAV | Gastrointestinal IDs | Recovered but not balanced | -5 | -5 | Shifted | Recalibrate and monitor |
 | Gonorrhoea | Sexually IDs | Balanced | 0 | 1 | Stable | Low priority routine review |
-| Syphilis | Sexually IDs | Balanced | -2 | 0 | Shifted | Recovered but recalibrate seasonality |
+| Syphilis | Sexually IDs | Balanced | -2 | -3 | Shifted | Recovered but recalibrate seasonality |
 | HBV | Sexually IDs | Balanced | 2 | 2 | Shifted | Recovered but recalibrate seasonality |
 | CA (HPV) | Sexually IDs | Balanced | 4 | 4 | Shifted | Recovered but recalibrate seasonality |
 | Genital herpes | Sexually IDs | Balanced | 2 | 3 | Shifted | Recovered but recalibrate seasonality |
@@ -581,14 +581,14 @@ This joint table clarifies the retrospective decision utility of the framework. 
 | Melioidosis | Vector-borne and zoonotic IDs | Balanced | 28 | 4 | 28 | 32 | Yes | Yes | Yes |
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 5 | NA | 5 | 6 | No | Yes | Yes |
 | HFMD | Gastrointestinal IDs | Balanced | 9 | 34 | 9 | 31 | Yes | Yes | Yes |
-| Amebiasis | Gastrointestinal IDs | Balanced | 31 | 15 | 31 | 36 | Yes | Yes | Yes |
-| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 31 | 3 | 31 | NA | Yes | Yes | No |
+| Amebiasis | Gastrointestinal IDs | Balanced | 29 | 24 | 29 | 33 | Yes | Yes | Yes |
+| Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 31 | 0 | 31 | NA | Yes | Yes | No |
 | Typhoid | Gastrointestinal IDs | Balanced | 30 | 0 | 30 | 48 | Yes | Yes | Yes |
 | HAV | Gastrointestinal IDs | Recovered but not balanced | 47 | 0 | 47 | NA | Yes | Yes | No |
 | Gonorrhoea | Sexually IDs | Balanced | 36 | 8 | 36 | 51 | Yes | Yes | Yes |
-| Syphilis | Sexually IDs | Balanced | 36 | 24 | 36 | 49 | Yes | Yes | Yes |
+| Syphilis | Sexually IDs | Balanced | 34 | 19 | 34 | 37 | Yes | Yes | Yes |
 | HBV | Sexually IDs | Balanced | 38 | 5 | 38 | 49 | Yes | Yes | Yes |
-| CA (HPV) | Sexually IDs | Balanced | 42 | 2 | 42 | 52 | Yes | Yes | Yes |
+| CA (HPV) | Sexually IDs | Balanced | 40 | 2 | 40 | 51 | Yes | Yes | Yes |
 | Genital herpes | Sexually IDs | Balanced | 36 | 31 | 36 | 48 | Yes | Yes | Yes |
 | Chancroid | Sexually IDs | Recovered but not balanced | 48 | 7 | 48 | 66 | Yes | Yes | Yes |
 | HCV | Sexually IDs | Balanced | 28 | 0 | 28 | 31 | Yes | Yes | Yes |
@@ -603,10 +603,10 @@ Among the 23 diseases that entered a sustained cumulative deficit, 18 re-entered
 
 | Period | Mean_Portfolio_Ratio | Median_Portfolio_Ratio | Mean_Stringency | Mean_SchoolClosing | Mean_InternalMovement | Mean_InternationalTravel | Mean_TestingPolicy | Mean_WHO_COVID_Cases |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-2021 restriction-intensive | 0.412 | 0.367 | 50.839 | 1.712 | 1.351 | 2.578 | 1.267 | 92082.083 |
-| 2022 transition | 0.531 | 0.535 | 27.128 | 1.126 | 0.392 | 1.027 | 2.935 | 209319.833 |
-| 2023-2024 WHO-context only | 1.185 | 1.093 | NA | NA | NA | NA | NA | 4024.222 |
-| Late follow-up without external context | 1.872 | 1.830 | NA | NA | NA | NA | NA | NA |
+| 2020-2021 restriction-intensive | 0.413 | 0.368 | 50.839 | 1.712 | 1.351 | 2.578 | 1.267 | 92082.083 |
+| 2022 transition | 0.531 | 0.536 | 27.128 | 1.126 | 0.392 | 1.027 | 2.935 | 209319.833 |
+| 2023-2024 WHO-context only | 1.187 | 1.093 | NA | NA | NA | NA | NA | 4024.222 |
+| Late follow-up without external context | 1.876 | 1.832 | NA | NA | NA | NA | NA | NA |
 
 The portfolio-level observed-to-expected ratio rose across the restriction-intensive, transition, and post-PHSM periods. Policy indicators were available through December, 2022, whereas WHO COVID-19 burden was available through June, 2024.
 
@@ -620,22 +620,22 @@ Panel A. Monthly correlation between the portfolio observed-to-expected ratio an
 
 | Indicator | SpearmanRho |
 | --- | --- |
-| StringencyIndex | -0.678 |
+| StringencyIndex | -0.677 |
 | GovernmentResponseIndex | -0.778 |
-| SchoolClosing | -0.582 |
-| InternalMovement | -0.739 |
-| InternationalTravel | -0.640 |
-| TestingPolicy | -0.136 |
-| log1p(WHO_COVID_Cases) | -0.424 |
+| SchoolClosing | -0.577 |
+| InternalMovement | -0.741 |
+| InternationalTravel | -0.638 |
+| TestingPolicy | -0.143 |
+| log1p(WHO_COVID_Cases) | -0.422 |
 
 Panel B. Selected milestone months from the contextual triangulation.
 
 | Milestone | month | PortfolioRatio | StringencyIndex | SchoolClosing | InternalMovement | InternationalTravel | WHO_COVID_Cases |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Peak stringency month | 2020-04 | 0.443 | 76.264 | 3.000 | 2.000 | 4.000 | 1534 |
-| Peak WHO COVID-19 case month | 2021-08 | 0.221 | 73.223 | 2.452 | 2.000 | 2.968 | 676789 |
-| First sustained low-restriction month | 2022-10 | 0.650 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
-| First sustained portfolio normalization month | 2023-07 | 1.059 | NA | NA | NA | NA | 3612 |
+| Peak stringency month | 2020-04 | 0.444 | 76.264 | 3.000 | 2.000 | 4.000 | 1534 |
+| Peak WHO COVID-19 case month | 2021-08 | 0.220 | 73.223 | 2.452 | 2.000 | 2.968 | 676789 |
+| First sustained low-restriction month | 2022-10 | 0.649 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
+| First sustained portfolio normalization month | 2023-07 | 1.060 | NA | NA | NA | NA | 3612 |
 
 These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
 
@@ -1338,12 +1338,12 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 **Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**
 | Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Australia | Monthly surveillance | Neural Network |  978.9 | 694.9 to 1831.6 | 2025-12-01 |  981.7 | 694.8 to 1858.9 | 2024-03-01 | 2024-12-01 |
+| Australia | Monthly surveillance | ARIMA + Fourier |  807.8 | 56.1 to 2506.1 | 2025-12-01 | 1084.2 | 4.6 to 3881.1 | 2020-01-01 | 2024-11-01 |
 | China | Monthly surveillance | ARIMA + Fourier | 1916.4 | 191.2 to 5413.1 | 2025-12-01 | 1346.3 | 0 to 6502.6 | 2021-12-01 | 2024-01-01 |
 | Japan | Weekly surveillance | ARIMA + Fourier |  217.2 | 23.2 to 551.3 | 2025-12-22 |  165.4 | 0 to 636.8 | 2025-01-20 | 2025-08-04 |
 | New Zealand | Monthly surveillance | ARIMA + Fourier |   35.5 | 0 to 700.3 | 2025-12-01 |   56.9 | 0 to 1259.7 | 2024-05-01 | 2024-12-01 |
 | Sweden | Monthly surveillance | ARIMA + Fourier |   58.3 | 29.6 to 109.5 | 2025-12-01 |   74.7 | 39.9 to 131.5 | 2024-03-01 | Not reached |
-| United States | Weekly surveillance | SARIMA |  122.3 | 24.4 to 300 | 2025-12-28 |  121.7 | 4.7 to 376.3 | 2024-04-28 | Not reached |
+| United States | Weekly surveillance | TBATS |  109.2 | 25.3 to 257.3 | 2025-12-28 |   87.9 | 2 to 269 | 2020-01-05 | Not reached |
 
 <div style="page-break-after: always;"></div>
 

@@ -262,7 +262,9 @@ data_fig4 <- data_fig4 |>
      mutate(Cluster = as.factor(km_res$cluster))
 
 fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
-     ggpubr::stat_chull(aes(fill = Cluster), geom = "polygon", alpha = 0.45) +
+     ggforce::geom_mark_ellipse(aes(fill = Cluster),
+                                color = 'white',
+                                alpha = 0.3) +
      geom_point(aes(color = Group), size = 4, show.legend = FALSE) +
      geom_text_repel(aes(label = Shortname), size = 3, show.legend = FALSE) +
      scale_color_manual(values = fill_color) +
@@ -279,10 +281,10 @@ fig4 <- ggplot(data_fig4, aes(x = Relative_Deficit, y = Rebound_Intensity)) +
           legend.position = "inside",
           plot.margin = margin(5, 10, 5, 5),
           plot.title = element_text(face = "bold", size = 14, hjust = 0),
-          legend.box = "horizontal",
-          legend.direction = "horizontal",
-          legend.position.inside = c(0.01, 0.99),
-          legend.justification.inside = c(0, 1),
+          legend.box = "vertical",
+          legend.direction = "vertical",
+          legend.position.inside = c(0.99, 0.99),
+          legend.justification.inside = c(1, 1),
           plot.title.position = "plot"
      )
 

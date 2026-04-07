@@ -20,6 +20,14 @@ remove(list = ls())
 load("./temp/province.RData")
 analysis_cores <- max(1L, min(8L, max(1L, parallel::detectCores(logical = TRUE) - 1L)))
 
+parallel_apply_safe <- function(X, FUN, ..., mc.cores = 1L) {
+     if (.Platform$OS.type == "windows" || mc.cores <= 1L) {
+          return(lapply(X, FUN, ...))
+     }
+
+     parallel::mclapply(X, FUN, ..., mc.cores = mc.cores)
+}
+
 data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |> 
      filter(Including == 1) |> 
      select(Disease, Fullname, Shortname, Group) 
@@ -27,7 +35,7 @@ data_class <- read.xlsx("../Data/TotalCasesDeaths.xlsx") |>
 # appendix map ------------------------------------------------------------
 
 plot_map_year <- function(data_region_d, data_map, y, breaks_incidence, breaks_mortality) {
-     data <- sp::merge(data_map, data_region |>
+     data <- sp::merge(data_map, data_region_d |>
                             filter(Year == y) |>
                             select(Areas, Incidence, Mortality),
                        by.x = "NAME_1", by.y = "Areas", all.x = T) |> 
@@ -88,15 +96,17 @@ plot_map <- function(d, data_region, data_map) {
      )
      
      
-     legend <- biscale::bi_legend(pal = 'DkBlue2', dim = 4,
-                                  pad_width = 0.2, pad_color = "white",
-                                  xlab = "Incidence", ylab = "Mortality",
-                                  breaks = break_vals,
-                                  size = 10) +
-          # transparent background
-          theme(legend.background = element_rect(fill = "transparent"),
-                plot.background = element_rect(fill = "transparent"),
-                panel.background = element_rect(fill = "transparent"))
+          legend <- suppressWarnings(
+              biscale::bi_legend(pal = 'DkBlue2', dim = 4,
+                              pad_width = 0.2, pad_color = "white",
+                              xlab = "Incidence", ylab = "Mortality",
+                              breaks = break_vals,
+                              size = 10) +
+                  # transparent background
+                  theme(legend.background = element_rect(fill = "transparent"),
+                       plot.background = element_rect(fill = "transparent"),
+                       panel.background = element_rect(fill = "transparent"))
+          )
      
      year_select <- sort(unique(data_region_d$Year))
      
@@ -126,7 +136,7 @@ plot_map <- function(d, data_region, data_map) {
 
 disease_name <- data_class$Shortname
 
-outcome <- parallel::mclapply(
+outcome <- parallel_apply_safe(
      disease_name,
      plot_map,
      data_region = data_region,

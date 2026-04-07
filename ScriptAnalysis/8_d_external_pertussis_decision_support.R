@@ -19,10 +19,26 @@ suppressPackageStartupMessages({
 invisible(Sys.setlocale("LC_TIME", "C"))
 
 args <- commandArgs(trailingOnly = FALSE)
-file_arg <- "--file="
-script_path <- sub(file_arg, "", args[grep(file_arg, args)][1])
-script_dir <- dirname(normalizePath(script_path))
-project_root <- normalizePath(file.path(script_dir, ".."))
+resolve_script_dir <- function() {
+  file_arg <- "--file="
+  file_hits <- grep(paste0("^", file_arg), args, value = TRUE)
+
+  if (length(file_hits) > 0) {
+    script_path <- sub(file_arg, "", file_hits[1])
+    if (!is.na(script_path) && nzchar(script_path)) {
+      return(dirname(normalizePath(path.expand(script_path), winslash = "/", mustWork = FALSE)))
+    }
+  }
+
+  if (dir.exists("ScriptAnalysis")) {
+    return(normalizePath("ScriptAnalysis", winslash = "/", mustWork = FALSE))
+  }
+
+  normalizePath(getwd(), winslash = "/", mustWork = FALSE)
+}
+
+script_dir <- resolve_script_dir()
+project_root <- normalizePath(file.path(script_dir, ".."), winslash = "/", mustWork = FALSE)
 
 source(file.path(script_dir, "function", "theme_set.R"))
 source(file.path(script_dir, "function", "forecast.R"))
@@ -37,7 +53,6 @@ dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(figure_dir, recursive = TRUE, showWarnings = FALSE)
 
 figure_png_path <- file.path(figure_dir, "external_pertussis_decision_support.png")
-figure_pdf_path <- file.path(figure_dir, "external_pertussis_decision_support.pdf")
 summary_xlsx_path <- file.path(tables_dir, "External_pertussis_decision_support.xlsx")
 summary_csv_path <- file.path(tables_dir, "External_pertussis_decision_support_summary.csv")
 cv_metrics_csv_path <- file.path(tables_dir, "External_pertussis_model_cv_metrics.csv")
@@ -777,7 +792,7 @@ plot_model_heatmap <- function(summary_scores) {
       axis.text.y = element_text(size = 10, face = "bold"),
       plot.title = element_text(face = "bold", size = 13, hjust = 0),
       plot.title.position = "plot",
-      legend.position = "bottom"
+      legend.position = "right"
     ) +
     labs(
       title = "A"
@@ -865,10 +880,16 @@ forecast_panels <- lapply(seq_along(country_order), function(i) {
   plot_country_forecast_panel(full_df, forecast_df, summary_row, panel_letters[i])
 })
 
-forecast_grid <- wrap_plots(forecast_panels, ncol = 3, guides = "collect")
+forecast_grid <- wrap_plots(forecast_panels, ncol = 3, guides = "collect") &
+  theme(legend.position = "bottom")
 
-combined_figure <- model_panel / forecast_grid +
-  plot_layout(heights = c(1.0, 2.3))
+combined_figure <- cowplot::plot_grid(
+  model_panel,
+  forecast_grid,
+  ncol = 1,
+  rel_heights = c(1.0, 2.3),
+  labels = NULL
+)
 
 ggsave(
   filename = figure_png_path,
@@ -876,15 +897,6 @@ ggsave(
   width = 16,
   height = 12,
   dpi = 320,
-  bg = "white"
-)
-
-ggsave(
-  filename = figure_pdf_path,
-  plot = combined_figure,
-  width = 16,
-  height = 12,
-  device = cairo_pdf,
   bg = "white"
 )
 
@@ -1022,5 +1034,4 @@ message(sprintf(" - %s", cv_metrics_csv_path))
 message(sprintf(" - %s", forecast_csv_path))
 message(sprintf(" - %s", country_pi_summary_csv_path))
 message(sprintf(" - %s", figure_png_path))
-message(sprintf(" - %s", figure_pdf_path))
 message(sprintf(" - %s", summary_md_path))

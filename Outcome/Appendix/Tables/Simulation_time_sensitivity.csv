@@ -6,20 +6,20 @@
 "Scarlet fever","Respiratory IDs","primary",5000,1000,"Recovered",0.812,0.332,0.48,60,65,"Recovered",0.812,0.332,60,65,FALSE,0,0,0,0
 "Rubella","Respiratory IDs","primary",5000,1000,"Suppressed",0,0,1,NA,NA,"Suppressed",0,0,NA,NA,FALSE,0,0,NA,NA
 "Dengue fever","Vector-borne and zoonotic IDs","primary",5000,1000,"Recovered",0.723,0.339,0.383,30,42,"Recovered",0.723,0.339,30,42,FALSE,0,0,0,0
-"Malaria","Vector-borne and zoonotic IDs","primary",5000,1000,"No Deficit",0.477,0.477,0.523,3,4,"No Deficit",0.477,0.477,3,4,FALSE,0,0,0,0
+"Malaria","Vector-borne and zoonotic IDs","primary",5000,1000,"No Deficit",0.475,0.475,0.525,3,4,"No Deficit",0.475,0.475,3,4,FALSE,0,0,0,0
 "Scrub Typhus","Vector-borne and zoonotic IDs","primary",5000,1000,"Debt Repaid",1,1,1,28,50,"Debt Repaid",1,1,28,50,FALSE,0,0,0,0
 "Leptospirosis","Vector-borne and zoonotic IDs","primary",5000,1000,"Debt Repaid",0.858,0.773,0.773,11,32,"Debt Repaid",0.858,0.773,11,32,FALSE,0,0,0,0
 "Melioidosis","Vector-borne and zoonotic IDs","primary",5000,1000,"Debt Repaid",1,1,1,28,41,"Debt Repaid",1,1,28,41,FALSE,0,0,0,0
 "S. suis","Vector-borne and zoonotic IDs","primary",5000,1000,"Debt Repaid",1,1,1,5,7,"Debt Repaid",1,1,5,7,FALSE,0,0,0,0
-"HFMD","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",1,1,1,9,33,"Debt Repaid",1,1,9,33,FALSE,0,0,0,0
-"Amebiasis","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",0.669,0.539,0.539,30,39,"Debt Repaid",0.669,0.539,30,39,FALSE,0,0,0,0
-"Shigellosis","Gastrointestinal IDs","primary",5000,1000,"Recovered",0.745,0.298,0.447,8,29,"Recovered",0.745,0.298,8,29,FALSE,0,0,0,0
-"Typhoid","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",1,1,1,31,54,"Debt Repaid",1,1,31,54,FALSE,0,0,0,0
-"HAV","Gastrointestinal IDs","primary",5000,1000,"Recovered",0.961,0,0.961,47,NA,"Recovered",0.961,0,47,NA,FALSE,0,0,0,NA
+"HFMD","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",1,1,1,9,37,"Debt Repaid",1,1,9,37,FALSE,0,0,0,0
+"Amebiasis","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",0.707,0.628,0.628,29,38,"Debt Repaid",0.707,0.628,29,38,FALSE,0,0,0,0
+"Shigellosis","Gastrointestinal IDs","primary",5000,1000,"Recovered",0.715,0.351,0.364,7,23,"Recovered",0.715,0.351,7,23,FALSE,0,0,0,0
+"Typhoid","Gastrointestinal IDs","primary",5000,1000,"Debt Repaid",1,1,1,31,55,"Debt Repaid",1,1,31,55,FALSE,0,0,0,0
+"HAV","Gastrointestinal IDs","primary",5000,1000,"Recovered",0.923,0,0.923,47,NA,"Recovered",0.923,0,47,NA,FALSE,0,0,0,NA
 "Gonorrhoea","Sexually IDs","primary",5000,1000,"Debt Repaid",0.999,0.822,0.822,36,56,"Debt Repaid",0.999,0.822,36,56,FALSE,0,0,0,0
-"Syphilis","Sexually IDs","primary",5000,1000,"Debt Repaid",0.852,0.616,0.616,36,48,"Debt Repaid",0.852,0.616,36,48,FALSE,0,0,0,0
+"Syphilis","Sexually IDs","primary",5000,1000,"Debt Repaid",0.429,0.3,0.3,34,41,"Debt Repaid",0.429,0.3,34,41,FALSE,0,0,0,0
 "HBV","Sexually IDs","primary",5000,1000,"Debt Repaid",1,1,1,38,52,"Debt Repaid",1,1,38,52,FALSE,0,0,0,0
-"CA (HPV)","Sexually IDs","primary",5000,1000,"Debt Repaid",0.997,0.846,0.846,42,55,"Debt Repaid",0.997,0.846,42,55,FALSE,0,0,0,0
+"CA (HPV)","Sexually IDs","primary",5000,1000,"Debt Repaid",0.956,0.773,0.773,41,52,"Debt Repaid",0.956,0.773,41,52,FALSE,0,0,0,0
 "Genital herpes","Sexually IDs","primary",5000,1000,"Debt Repaid",1,1,1,36,52,"Debt Repaid",1,1,36,52,FALSE,0,0,0,0
 "Chancroid","Sexually IDs","primary",5000,1000,"Recovered",0.996,0.224,0.772,48,66,"Recovered",0.996,0.224,48,66,FALSE,0,0,0,0
 "HCV","Sexually IDs","primary",5000,1000,"Debt Repaid",0.955,0.947,0.947,25,38,"Debt Repaid",0.955,0.947,25,38,FALSE,0,0,0,0

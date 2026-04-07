@@ -111,11 +111,10 @@ plot_irr_panel <- function(g) {
 
 irr_list <- lapply(seq_along(disease_groups_select), plot_irr_panel)
 
-panel_irr_1 <- wrap_plots(irr_list[1:2], ncol = 1, guides = "collect")
-panel_irr_1 <- collect_guides_bottom(panel_irr_1)
+panel_irr_1 <- wrap_plots(irr_list[1:2], ncol = 1, guides = "collect") &
+     theme(legend.position = 'none')
 
 panel_irr_2 <- wrap_plots(irr_list[3:4], ncol = 1, guides = "collect")
-panel_irr_2 <- collect_guides_bottom(panel_irr_2)
 
 # ============================================================
 # PART 2 — Radar charts (Panels E–AB)
@@ -302,16 +301,17 @@ panel_radar <- collect_guides_bottom(panel_radar)
 # Assemble: IRR heatmaps (top) / Radar charts (bottom)
 # ============================================================
 
-full_fig <- cowplot::plot_grid(cowplot::plot_grid(panel_irr_1, panel_irr_2, ncol = 2, rel_widths = c(1, 1.1)),
+full_fig <- cowplot::plot_grid(cowplot::plot_grid(panel_irr_1, panel_irr_2,
+                                                  ncol = 2, rel_widths = c(1, 1.1)),
                                panel_radar,
-                               ncol = 1, rel_heights = c(1, 3.2))
+                               ncol = 1, rel_heights = c(1, 3.15))
 
 ggsave(file.path(out_dir, "fig4.pdf"),
-       full_fig, width = 14, height = 16,
+       full_fig, width = 14, height = 15,
        device = cairo_pdf, family = "Times New Roman", limitsize = FALSE)
 
 ggsave(file.path(out_dir, "fig4.png"),
-       full_fig, width = 14, height = 14.5,
+       full_fig, width = 14, height = 14.9,
        dpi = 300, limitsize = FALSE)
 
 message("fig4 saved to ", out_dir)

@@ -202,7 +202,8 @@ fig2 <- plot_ranking(d_deaths, aux_deaths, "B", ribbon_txt = "No deaths reported
 # save --------------------------------------------------------------------
 
 final_plot <- fig1 / fig2 + 
-     plot_layout(ncol = 1, guides = 'collect')
+     plot_layout(ncol = 1, guides = 'collect') &
+     theme(legend.position = 'bottom')
 
 ggsave("../Outcome/Appendix/Supplementary Appendix 1_3/ranking_all.png", final_plot, width = 14, height = 15)
 

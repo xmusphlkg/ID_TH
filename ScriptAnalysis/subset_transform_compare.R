@@ -228,7 +228,15 @@ tasks <- expand_grid(
   Transform = c("log", "sqrt")
 )
 
-results <- mclapply(
+parallel_apply_safe <- function(X, FUN, ..., mc.cores = 1L) {
+  if (.Platform$OS.type == "windows" || mc.cores <= 1L) {
+    return(lapply(X, FUN, ...))
+  }
+
+  parallel::mclapply(X, FUN, ..., mc.cores = mc.cores)
+}
+
+results <- parallel_apply_safe(
   seq_len(nrow(tasks)),
   function(i) {
     tryCatch(
@@ -261,7 +269,7 @@ results <- mclapply(
       }
     )
   },
-  mc.cores = min(nrow(tasks), max(1L, detectCores() - 1L))
+  mc.cores = min(nrow(tasks), max(1L, parallel::detectCores() - 1L))
 ) |>
   bind_rows() |>
   arrange(Shortname, Transform)

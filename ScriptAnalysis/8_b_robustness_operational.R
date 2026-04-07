@@ -10,6 +10,14 @@ load("./temp/outcome.RData")
 primary_outcome <- outcome
 analysis_cores <- max(1L, min(8L, max(1L, parallel::detectCores(logical = TRUE) - 1L)))
 
+parallel_apply_safe <- function(X, FUN, ..., mc.cores = 1L) {
+  if (.Platform$OS.type == "windows" || mc.cores <= 1L) {
+    return(lapply(X, FUN, ...))
+  }
+
+  parallel::mclapply(X, FUN, ..., mc.cores = mc.cores)
+}
+
 parse_scenario <- function(path) {
   file_name <- basename(path)
   stripped <- sub("^outcome_", "", sub("\\.RData$", "", file_name))
@@ -224,7 +232,7 @@ build_uncertainty_summary <- function(outcome_data,
                                       start_date = as.Date("2020-01-01"),
                                       recovery_threshold = 0.95,
                                       persistence = 3) {
-  item_summaries <- parallel::mclapply(
+  item_summaries <- parallel_apply_safe(
     outcome_data,
     function(item) {
       shortname <- unique(item$outcome_data$Shortname)[1]

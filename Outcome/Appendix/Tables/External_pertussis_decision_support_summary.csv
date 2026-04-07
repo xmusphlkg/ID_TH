@@ -1,7 +1,7 @@
 Country,CountryCode,Cadence,CadenceLabel,BestModel,DeficitStartDate,TroughDate,TroughCumDiff,NormalizationDate,BalanceDate,ReviewEndDate,DiscordanceMonths,DiscordancePeriods,Status,CompositeIndex
-Australia,AU,month,Monthly surveillance,Neural Network,2020-01-01,2024-02-01,-40161.77559933066,2024-03-01,2024-12-01,2024-12-01,9,9,Balanced,4.391867266740714
-China,CN,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2021-11-01,-33103.83297915849,2021-12-01,2024-01-01,2024-01-01,25,25,Balanced,6.007172240470542
-Japan,JP,week,Weekly surveillance,ARIMA + Fourier,2019-12-30,2025-01-13,-48079.59935614936,2025-01-20,2025-08-04,2025-08-04,6.5,28,Balanced,1.9464725452311178
-New Zealand,NZ,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2024-04-01,-1413.5613135425333,2024-05-01,2024-12-01,2024-12-01,7,7,Balanced,3.211186566391284
-Sweden,SE,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2024-02-01,-2453.027608504006,2024-03-01,NA,2025-12-01,21,21,RP achieved without BP,7.570551492979158
-United States,US,week,Weekly surveillance,SARIMA,2019-12-29,2024-04-07,-20271.423387202576,2024-04-28,NA,2025-12-28,20,87,RP achieved without BP,4.464879687369441
+Australia,AU,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2024-01-01,-33402.46851683023,2020-01-01,2024-11-01,2024-11-01,58,58,Balanced,3.7268855453657563
+China,CN,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2021-11-01,-33103.83297915849,2021-12-01,2024-01-01,2024-01-01,25,25,Balanced,6.9051082791234215
+Japan,JP,week,Weekly surveillance,ARIMA + Fourier,2019-12-30,2025-01-13,-48079.59935614124,2025-01-20,2025-08-04,2025-08-04,6.5,28,Balanced,2.2561118579570265
+New Zealand,NZ,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2024-04-01,-1413.5613135425333,2024-05-01,2024-12-01,2024-12-01,7,7,Balanced,3.1568906065443816
+Sweden,SE,month,Monthly surveillance,ARIMA + Fourier,2020-01-01,2024-02-01,-2453.0276085046394,2024-03-01,NA,2025-12-01,21,21,RP achieved without BP,8.159934451506548
+United States,US,week,Weekly surveillance,TBATS,2019-12-29,2024-03-31,-18307.999450973173,2020-01-05,NA,2025-12-28,71.7,312,RP achieved without BP,6.015405123935897
