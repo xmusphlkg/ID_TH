@@ -74,8 +74,13 @@ source('./9_c_generate_flow_figure.R')
 cat("Start part 13: external pertussis decision support case study...\n")
 source('./8_d_external_pertussis_decision_support.R')
 
-cat("Start part 14: regenerate npjDM figure set (fig1-fig5)...\n")
-source('./fig1.R')
+cat("Start part 14: temporal utility validation...\n")
+source('./8_e_temporal_utility_validation.R')
+
+cat("Start part 15: placebo interruption and interval calibration...\n")
+source('./8_f_falsification_calibration.R')
+
+cat("Start part 16: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
 source('./fig2.R')
 source('./fig3.R')
 source('./fig4.R')

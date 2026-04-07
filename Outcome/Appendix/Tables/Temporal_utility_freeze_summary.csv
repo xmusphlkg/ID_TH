@@ -1,0 +1,3 @@
+FreezeDate,ValidationEnd,WindowLabel,DiseasesAssessed,LaterReviewDiseases,FrameworkCaptured,IncidenceOnlyCaptured,AvertedUnderTriageDiseases,FrameworkAccuracy,IncidenceOnlyAccuracy,FrameworkSensitivity,IncidenceOnlySensitivity,FrameworkFalsePositives,IncidenceOnlyFalsePositives,PathsUsedPerDisease
+2023-12-01,2024-12-01,Freeze 2023-12 to 2024-12,24,17,17,6,11,0.958,0.542,1,0.353,1,0,400
+2024-06-01,2025-12-01,Freeze 2024-06 to 2025-12,24,15,13,4,9,0.75,0.542,0.867,0.267,4,0,400

@@ -23,7 +23,7 @@ if [ -f npjDM/fig1.pdf ]; then
   cp npjDM/fig1.png submit/Figure1.png
   echo "  Fig 1 (Framework) -> submit/Figure1.pdf"
 else
-  echo "  WARNING: npjDM/fig1.pdf not found. Run fig1.R first."
+  echo "  WARNING: npjDM/fig1.pdf not found. Generate Figure 1 externally using manuscript/figure1_ai_brief.md and place it in npjDM/."
 fi
 
 # Fig 2: Model selection heatmap

@@ -1335,6 +1335,8 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 <!-- BEGIN EXTERNAL_PERTUSSIS_CASE_STUDY -->
 ## Part 6: External pertussis decision-support case study
 
+This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.
+
 **Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**
 | Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1349,5 +1351,46 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 ![**Fig. S126. External pertussis decision-support case study.**](Supplementary%20Appendix%201_6/external_pertussis_decision_support.png)
 
-**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median.
+**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median. The figure should be interpreted as supportive cross-setting evidence of workflow portability rather than external validation of the Thailand decision rules.
 <!-- END EXTERNAL_PERTUSSIS_CASE_STUDY -->
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN TEMPORAL_UTILITY_VALIDATION -->
+## Part 7: Temporal utility validation
+
+This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.
+
+**Table S18. Freeze-point temporal utility validation summary.**
+| Freeze point | Validation end | Later review diseases | Framework captured | Incidence-only captured | Averted under-triage | Framework accuracy | Incidence-only accuracy |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-12-01 | 2024-12-01 | 17 | 17 | 6 | 11 | 0.958 | 0.542 |
+| 2024-06-01 | 2025-12-01 | 15 | 13 | 4 |  9 | 0.750 | 0.542 |
+
+<div style="page-break-after: always;"></div>
+
+![**Fig. S127. Temporal utility validation.**](Supplementary%20Appendix%201_7/temporal_utility_validation.png)
+
+**Fig. S127. Temporal utility validation across two decision freeze points.** Panel A shows the framework queue assigned to each disease at each freeze point, using the same prioritization logic as the main manuscript. Panel B compares how often the framework queue versus an incidence-only queue captured diseases that later required continued review, together with overall decision accuracy across the follow-up window.
+<!-- END TEMPORAL_UTILITY_VALIDATION -->
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN PLACEBO_INTERRUPTION_CALIBRATION -->
+## Part 8: Placebo interruption and predictive interval calibration
+
+This supplementary analysis applies the same RP/BP workflow to pre-pandemic placebo interruption dates and summarizes empirical predictive interval coverage for the selected best models.
+
+**Table S19. Portfolio-level placebo interruption and predictive interval calibration summary.**
+| Pseudo interruption | Diseases assessed | False alerts | False suppressed | Mean 80% coverage | Mean 95% coverage | Mean 95% interval width |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pseudo interruption 2019 | 24 | 17 | 13 | 0.875 | 0.951 |  6781.3 |
+| Pseudo interruption 2018 | 24 | 17 |  3 | 0.911 | 0.988 |  8454.6 |
+| Pseudo interruption 2017 | 24 | 15 |  7 | 0.875 | 0.962 | 11794.4 |
+
+<div style="page-break-after: always;"></div>
+
+![**Fig. S128. Placebo interruption falsification and predictive interval calibration.**](Supplementary%20Appendix%201_8/falsification_and_calibration.png)
+
+**Fig. S128. Placebo interruption falsification and predictive interval calibration.** Panel A shows the status assigned to each disease when the RP/BP workflow is applied to three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B compares nominal and empirical predictive interval coverage across diseases, with larger outlined markers indicating the portfolio mean.
+<!-- END PLACEBO_INTERRUPTION_CALIBRATION -->

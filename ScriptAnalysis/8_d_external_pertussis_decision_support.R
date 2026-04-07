@@ -984,7 +984,8 @@ table_s17_md <- country_pi_summary |>
 markdown_lines <- c(
   "# External Pertussis Decision-Support Case Study",
   "",
-  "This attachment applies the same disease-specific model-selection logic used in the main manuscript to six external pertussis surveillance series with mixed reporting cadence.",
+  "This attachment provides a supplementary cross-setting transportability demonstration rather than external validation of the Thailand surveillance rule set.",
+  "It applies the same disease-specific model-selection logic used in the main manuscript to six external pertussis surveillance series with mixed reporting cadence.",
   sprintf("Selected best models were: %s.", best_model_sentence),
   sprintf(
     "Across all six countries, sustained incidence-only normalization still preceded cumulative balance, with decision-discordance windows ranging from %s to %s and a median of %s.",
@@ -993,6 +994,7 @@ markdown_lines <- c(
     fmt_months(median_months)
   ),
   balance_sentence,
+  "We interpret this case study as supportive evidence that the workflow remains operationally interpretable across mixed surveillance cadence, not as a substitute for Thailand-specific end-user or expert validation.",
   "",
   "**Country-level median and 95% PI summary**",
   md_table(table_s17_md),
@@ -1000,11 +1002,11 @@ markdown_lines <- c(
   sprintf("![External pertussis decision-support figure](./Supplementary%%20Appendix%%201_6/%s)", basename(figure_png_path)),
   "",
   "Source files:",
-  sprintf("- `%s`", summary_xlsx_path),
-  sprintf("- `%s`", summary_csv_path),
-  sprintf("- `%s`", cv_metrics_csv_path),
-  sprintf("- `%s`", forecast_csv_path),
-  sprintf("- `%s`", country_pi_summary_csv_path)
+  sprintf("- `%s`", paste0("./Tables/", basename(summary_xlsx_path))),
+  sprintf("- `%s`", paste0("./Tables/", basename(summary_csv_path))),
+  sprintf("- `%s`", paste0("./Tables/", basename(cv_metrics_csv_path))),
+  sprintf("- `%s`", paste0("./Tables/", basename(forecast_csv_path))),
+  sprintf("- `%s`", paste0("./Tables/", basename(country_pi_summary_csv_path)))
 )
 
 writeLines(markdown_lines, summary_md_path)
@@ -1014,6 +1016,8 @@ if (file.exists(main_appendix_path)) {
   appendix_block <- c(
     "## Part 6: External pertussis decision-support case study",
     "",
+    "This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.",
+    "",
     "**Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**",
     md_table(table_s17_md),
     "",
@@ -1021,7 +1025,7 @@ if (file.exists(main_appendix_path)) {
     "",
     sprintf("![**Fig. S126. External pertussis decision-support case study.**](Supplementary%%20Appendix%%201_6/%s)", basename(figure_png_path)),
     "",
-    "**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median."
+    "**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median. The figure should be interpreted as supportive cross-setting evidence of workflow portability rather than external validation of the Thailand decision rules."
   )
   appendix_lines <- replace_or_append_block(appendix_lines, "EXTERNAL_PERTUSSIS_CASE_STUDY", appendix_block)
   writeLines(appendix_lines, main_appendix_path)

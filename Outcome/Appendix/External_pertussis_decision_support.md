@@ -1,9 +1,11 @@
 # External Pertussis Decision-Support Case Study
 
-This attachment applies the same disease-specific model-selection logic used in the main manuscript to six external pertussis surveillance series with mixed reporting cadence.
+This attachment provides a supplementary cross-setting transportability demonstration rather than external validation of the Thailand surveillance rule set.
+It applies the same disease-specific model-selection logic used in the main manuscript to six external pertussis surveillance series with mixed reporting cadence.
 Selected best models were: Australia = ARIMA + Fourier; China = ARIMA + Fourier; Japan = ARIMA + Fourier; New Zealand = ARIMA + Fourier; Sweden = ARIMA + Fourier; United States = TBATS.
 Across all six countries, sustained incidence-only normalization still preceded cumulative balance, with decision-discordance windows ranging from 6.5 months to 71.7 months and a median of 23.0 months.
 4 countries (Australia, China, Japan, New Zealand) reached cumulative balance within follow-up, whereas the remaining countries stayed cumulatively unresolved through the end of 2025.
+We interpret this case study as supportive evidence that the workflow remains operationally interpretable across mixed surveillance cadence, not as a substitute for Thailand-specific end-user or expert validation.
 
 **Country-level median and 95% PI summary**
 | Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
@@ -18,8 +20,8 @@ Across all six countries, sustained incidence-only normalization still preceded 
 ![External pertussis decision-support figure](./Supplementary%20Appendix%201_6/external_pertussis_decision_support.png)
 
 Source files:
-- `C:/Users/likangguo/Documents/GitHub/ID_TH/Outcome/Appendix/Tables/External_pertussis_decision_support.xlsx`
-- `C:/Users/likangguo/Documents/GitHub/ID_TH/Outcome/Appendix/Tables/External_pertussis_decision_support_summary.csv`
-- `C:/Users/likangguo/Documents/GitHub/ID_TH/Outcome/Appendix/Tables/External_pertussis_model_cv_metrics.csv`
-- `C:/Users/likangguo/Documents/GitHub/ID_TH/Outcome/Appendix/Tables/External_pertussis_best_model_forecasts.csv`
-- `C:/Users/likangguo/Documents/GitHub/ID_TH/Outcome/Appendix/Tables/External_pertussis_country_median_pi_summary.csv`
+- `./Tables/External_pertussis_decision_support.xlsx`
+- `./Tables/External_pertussis_decision_support_summary.csv`
+- `./Tables/External_pertussis_model_cv_metrics.csv`
+- `./Tables/External_pertussis_best_model_forecasts.csv`
+- `./Tables/External_pertussis_country_median_pi_summary.csv`

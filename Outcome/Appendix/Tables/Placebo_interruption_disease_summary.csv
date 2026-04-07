@@ -1,0 +1,25 @@
+Shortname,Group,BestModel,SplitsAssessed,FalseAlerts,FalseSuppressed,MeanCoverage80,MeanCoverage95,MeanWidth80,MeanWidth95
+Amebiasis,Gastrointestinal IDs,TBATS,3,3,3,0.644,0.931,118.9,183.8
+CA (HPV),Sexually IDs,Bayesian structural,3,3,2,0.861,0.981,157.2,255.4
+Chickenpox,Respiratory IDs,SARIMA,3,3,1,0.819,0.894,4216.7,6448.9
+Gonorrhoea,Sexually IDs,TBATS,3,3,2,0.852,0.972,235,359.5
+Leptospirosis,Vector-borne and zoonotic IDs,ARIMA + Fourier,3,3,3,0.796,0.977,359,552.4
+Mumps,Respiratory IDs,ETS,3,3,0,0.912,1,226,345.6
+Pneumonia,Respiratory IDs,TBATS,3,3,1,0.694,0.847,6336.9,9714.3
+Rubella,Respiratory IDs,ETS,3,3,0,1,1,62.8,97.3
+Shigellosis,Gastrointestinal IDs,Bayesian structural,3,3,3,0.759,0.944,216.2,342.8
+Typhoid,Gastrointestinal IDs,Hybrid,3,3,2,1,1,218.7,323.4
+Dengue fever,Vector-borne and zoonotic IDs,TBATS,3,2,0,0.972,1,17131,34627.7
+Genital herpes,Sexually IDs,Hybrid,3,2,1,0.986,1,142.4,206.2
+HBV,Sexually IDs,ETS,3,2,1,0.801,0.917,153.9,235.4
+HFMD,Gastrointestinal IDs,Hybrid,3,2,0,1,1,20496.5,47327.9
+Influenza,Respiratory IDs,ETS,3,2,0,0.889,0.972,66995.4,110257.2
+Malaria,Vector-borne and zoonotic IDs,Hybrid,3,2,1,1,1,720.8,1086.6
+S. suis,Vector-borne and zoonotic IDs,ETS,3,2,0,0.917,0.977,27.3,41.8
+Scrub Typhus,Vector-borne and zoonotic IDs,ETS,3,2,1,0.986,1,848.6,1297.9
+Chancroid,Sexually IDs,ARIMA + Fourier,3,1,1,0.769,0.884,32.1,49
+HAV,Gastrointestinal IDs,Hybrid,3,1,0,0.991,0.991,239.4,420.1
+Scarlet fever,Respiratory IDs,TBATS,3,1,1,0.894,0.981,351.2,638.9
+HCV,Sexually IDs,ARIMA + Fourier,3,0,0,0.894,0.972,44.2,68.5
+Melioidosis,Vector-borne and zoonotic IDs,Hybrid,3,0,0,0.981,0.991,282.8,417.9
+Syphilis,Sexually IDs,Bayesian structural,3,0,0,0.875,0.977,600.8,945

@@ -1,0 +1,4 @@
+split,split_label,start_date,end_date,DiseasesAssessed,FalseAlerts,FalseAlertRate,FalseSuppressed,MeanCoverage80,MeanCoverage95,MeanWidth95
+2019,Pseudo interruption 2019,2019-01-01,2019-12-01,24,17,0.708,13,0.875,0.951,6781.3
+2018-2019,Pseudo interruption 2018,2018-01-01,2019-12-01,24,17,0.708,3,0.911,0.988,8454.6
+2017-2019,Pseudo interruption 2017,2017-01-01,2019-12-01,24,15,0.625,7,0.875,0.962,11794.4
