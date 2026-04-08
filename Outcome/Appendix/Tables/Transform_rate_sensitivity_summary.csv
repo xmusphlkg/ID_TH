@@ -1,0 +1,3 @@
+Config,DiseasesAssessed,PhenotypeChanged,StatusChanged,MaterialTimingShift,MedianAbsRPShift,MedianAbsBPShift,MaxAbsRPShift,MaxAbsBPShift,MeanDeltaPrRP,MeanDeltaPrBP
+Count log,24,3,3,4,0,1,16,12,-0.127,-0.107
+Rate sqrt,24,4,4,8,0,2,12,15,-0.036,-0.111

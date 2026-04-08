@@ -1386,3 +1386,84 @@ This supplementary analysis applies the same RP/BP workflow to pre-pandemic plac
 
 **Fig. S128. Placebo interruption falsification and predictive interval calibration.** Panel A shows the status assigned to each disease when the RP/BP workflow is applied to three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B compares nominal and empirical predictive interval coverage across diseases, with larger outlined markers indicating the portfolio mean.
 <!-- END PLACEBO_INTERRUPTION_CALIBRATION -->
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN TRANSFORM_RATE_SENSITIVITY -->
+## Part 9: Transform and denominator sensitivity
+
+This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.
+
+**Table S20. Portfolio-level transform and denominator sensitivity summary.**
+| Config | DiseasesAssessed | PhenotypeChanged | StatusChanged | MaterialTimingShift | MedianAbsRPShift | MedianAbsBPShift | MaxAbsRPShift | MaxAbsBPShift | MeanDeltaPrRP | MeanDeltaPrBP |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Count log | 24 | 3 | 3 | 4 | 0 | 1 | 16 | 12 | -0.127 | -0.107 |
+| Rate sqrt | 24 | 4 | 4 | 8 | 0 | 2 | 12 | 15 | -0.036 | -0.111 |
+
+**Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.**
+| Shortname | Config | Baseline phenotype | Sensitivity phenotype | RP month delta | BP month delta | Delta Pr(RP) | Delta Pr(BP) | Delta primary-status probability |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Amebiasis | Rate sqrt | Balanced | Recovered but not balanced |   6 | NA |  0.043 | -0.333 | -0.173 |
+| Chancroid | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.331 | -0.219 | -0.437 |
+| Shigellosis | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.170 | -0.021 |  0.066 |
+| Syphilis | Count log | Balanced | Suppressed | NA | NA | -0.054 | -0.090 |  0.165 |
+| Influenza | Rate sqrt | Recovered but not balanced | Balanced |  -1 | NA | NA | NA | NA |
+| Shigellosis | Rate sqrt | Recovered but not balanced | Suppressed | NA | NA | -0.175 | -0.146 |  0.096 |
+| Syphilis | Rate sqrt | Balanced | Recovered but not balanced |   2 | NA | -0.099 | -0.140 | -0.130 |
+| CA (HPV) | Count log | Balanced | Balanced |   8 | 12 | -0.261 | -0.308 | -0.308 |
+| Dengue fever | Count log | Recovered but not balanced | Recovered but not balanced |   7 | NA | -0.013 |  0.006 | -0.018 |
+| Leptospirosis | Count log | Balanced | Balanced |  16 |  0 |  0.042 |  0.057 |  0.057 |
+| Mumps | Count log | Recovered but not balanced | Recovered but not balanced | -10 | NA | NA | NA | NA |
+| Chickenpox | Rate sqrt | Recovered but not balanced | Recovered but not balanced | -12 | NA | NA | NA | NA |
+| Dengue fever | Rate sqrt | Recovered but not balanced | Recovered but not balanced |   7 | NA |  0.072 | -0.009 |  0.082 |
+| HCV | Rate sqrt | Balanced | Balanced |   3 |  6 | NA | NA | NA |
+| HFMD | Rate sqrt | Balanced | Balanced |   0 | 15 | NA | NA | NA |
+| Melioidosis | Rate sqrt | Balanced | Balanced |   0 |  8 | NA | NA | NA |
+| S. suis | Rate sqrt | Balanced | Balanced |   0 | 13 | NA | NA | NA |
+| Scrub Typhus | Rate sqrt | Balanced | Balanced |   1 | 11 | NA | NA | NA |
+
+The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`.
+<!-- END TRANSFORM_RATE_SENSITIVITY -->
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN SEASONAL_SHIFT_UNCERTAINTY -->
+## Part 10: Seasonal shift uncertainty and reconstruction sensitivity
+
+This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.
+
+**Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.**
+| Shortname | Point shift vs pre | 95% CI vs pre | Pr(|shift|>=2) vs pre | Point shift vs pred | 95% CI vs pred | Pr(|shift|>=2) vs pred | Borderline | COM/max agree |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CA (HPV) |  4 | 0.00 to 6.00 | 0.904 |  4 | 2.00 to 5.00 | 1.000 | Yes | No |
+| Genital herpes |  2 | 0.00 to 3.00 | 0.762 |  3 | 2.00 to 3.00 | 1.000 | Yes | Yes |
+| HAV | -5 | -6.00 to 5.00 | 0.990 | -5 | -6.00 to 5.00 | 1.000 | Yes | Yes |
+| HBV |  2 | 2.00 to 3.00 | 1.000 |  2 | 2.00 to 2.00 | 1.000 | Yes | Yes |
+| Melioidosis | -2 | -3.00 to 0.00 | 0.747 | -2 | -2.00 to 0.00 | 0.734 | Yes | Yes |
+| Mumps |  6 | -5.00 to 6.00 | 0.992 |  4 | 2.00 to 6.00 | 1.000 | Yes | Yes |
+| Rubella |  3 | -4.00 to 5.00 | 0.844 |  2 | -6.00 to 3.00 | 1.000 | Yes | Yes |
+| Syphilis | -2 | -5.00 to 1.00 | 0.536 | -3 | -5.00 to -1.00 | 0.915 | Yes | Yes |
+| Amebiasis |  0 | -2.00 to 1.00 | 0.139 |  0 | -1.00 to 1.00 | 0.000 | Yes | No |
+| Chancroid |  0 | -1.00 to 2.00 | 0.046 |  0 | 0.00 to 1.00 | 0.000 | Yes | No |
+| Chickenpox | -1 | -5.00 to 6.00 | 0.366 | -1 | -5.00 to 6.00 | 0.366 | Yes | Yes |
+| Gonorrhoea |  0 | -1.00 to 2.00 | 0.069 |  1 | 0.00 to 2.00 | 0.170 | Yes | Yes |
+| Influenza |  1 | -2.00 to 2.00 | 0.158 |  0 | -2.00 to 1.00 | 0.153 | Yes | Yes |
+| Scarlet fever | -1 | -3.00 to 5.00 | 0.470 | -1 | -5.00 to 4.00 | 0.294 | Yes | Yes |
+| Shigellosis |  1 | 0.00 to 2.00 | 0.142 |  1 | 0.00 to 2.00 | 0.145 | Yes | No |
+| Typhoid |  0 | -2.00 to 2.00 | 0.144 | -1 | -3.00 to 0.00 | 0.382 | Yes | Yes |
+| HCV |  4 | 3.00 to 5.00 | 1.000 |  4 | 3.00 to 5.00 | 1.000 | No | Yes |
+| Dengue fever |  0 | -1.00 to 1.00 | 0.007 |  0 | -1.00 to 1.00 | 0.000 | No | Yes |
+| HFMD |  1 | 0.00 to 1.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
+| Leptospirosis |  1 | 0.00 to 1.00 | 0.000 |  1 | 0.00 to 1.00 | 0.000 | No | Yes |
+| Malaria |  0 | 0.00 to 0.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
+| Pneumonia |  1 | 0.00 to 1.00 | 0.019 |  1 | 0.00 to 1.00 | 0.000 | No | Yes |
+| S. suis |  0 | -1.00 to 1.00 | 0.009 |  0 | -1.00 to 1.00 | 0.000 | No | Yes |
+| Scrub Typhus |  0 | 0.00 to 0.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
+
+**Table S23. Queue changes under alternative weekly-to-monthly reconstruction.**
+| Result | Value |
+| --- | --- |
+| Queue changes detected | None |
+
+Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
+<!-- END SEASONAL_SHIFT_UNCERTAINTY -->

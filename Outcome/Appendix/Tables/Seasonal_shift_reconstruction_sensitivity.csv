@@ -1,0 +1,25 @@
+Shortname,Group,CurrentShiftPre,CurrentShiftPred,CurrentShiftFlag,AltShiftPre,AltShiftPred,AltShiftFlag,PrimaryPhenotype,CurrentPriority,Status,AltPriority,QueueChanged,ShiftFlagChanged
+Amebiasis,Gastrointestinal IDs,0,0,FALSE,0,0,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+CA (HPV),Sexually IDs,4,4,TRUE,4,4,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+Chancroid,Sexually IDs,0,0,FALSE,0,0,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Chickenpox,Respiratory IDs,-1,-1,FALSE,-1,-1,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Dengue fever,Vector-borne and zoonotic IDs,0,0,FALSE,0,0,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Genital herpes,Sexually IDs,2,3,TRUE,2,3,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+Gonorrhoea,Sexually IDs,0,1,FALSE,0,1,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+HAV,Gastrointestinal IDs,-5,-5,TRUE,-5,-5,TRUE,Recovered but not balanced,Recalibrate and monitor,Recovered,Recalibrate and monitor,FALSE,FALSE
+HBV,Sexually IDs,2,2,TRUE,2,2,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+HCV,Sexually IDs,4,4,TRUE,4,4,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+HFMD,Gastrointestinal IDs,1,0,FALSE,1,0,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+Influenza,Respiratory IDs,1,0,FALSE,1,0,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Leptospirosis,Vector-borne and zoonotic IDs,1,1,FALSE,1,1,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+Malaria,Vector-borne and zoonotic IDs,0,0,FALSE,0,0,FALSE,No deficit,No deficit monitoring,No Deficit,No deficit monitoring,FALSE,FALSE
+Melioidosis,Vector-borne and zoonotic IDs,-2,-2,TRUE,-2,-2,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+Mumps,Respiratory IDs,6,4,TRUE,6,4,TRUE,Recovered but not balanced,Recalibrate and monitor,Recovered,Recalibrate and monitor,FALSE,FALSE
+Pneumonia,Respiratory IDs,1,1,FALSE,1,1,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+Rubella,Respiratory IDs,3,2,TRUE,3,2,TRUE,Suppressed,High priority manual review,Suppressed,High priority manual review,FALSE,FALSE
+S. suis,Vector-borne and zoonotic IDs,0,0,FALSE,0,0,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+Scarlet fever,Respiratory IDs,-1,-1,FALSE,-1,-1,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Scrub Typhus,Vector-borne and zoonotic IDs,0,0,FALSE,0,0,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
+Shigellosis,Gastrointestinal IDs,1,1,FALSE,1,1,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Syphilis,Sexually IDs,-2,-3,TRUE,-2,-3,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
+Typhoid,Gastrointestinal IDs,0,-1,FALSE,0,-1,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE

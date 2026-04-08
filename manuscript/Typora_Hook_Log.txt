@@ -510,3 +510,839 @@
 ------------------
 [2026/4/7 21:55:58] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora/typora.log
 ------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app\atom.compiled.dist.jsc --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.openSync C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\hjson\lib\hjson.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\assign.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\fs\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\node_modules\universalify\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\graceful-fs.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\polyfills.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\legacy-streams.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\clone.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\copy.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\ncp.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\utimes.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\win32.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs-sync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\path-exists\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-sync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-file-sync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\buffer.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\remove\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\remove\rimraf.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\jsonfile.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\node_modules\jsonfile\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json-sync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\move\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\move-sync\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\empty\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\file.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\link.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-paths.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-type.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\output\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-fetch\lib\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-fetch\node_modules\encoding\lib\encoding.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\node_modules\safer-buffer\safer.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\bom-handling.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\streams.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora/conf/conf.user.json
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\lib\fs-plus.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore-plus\lib\underscore-plus.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node.cjs
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node-f.cjs
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\async\lib\async.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\mkdirp\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\rimraf\rimraf.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\glob.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\old.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\minimatch\minimatch.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\brace-expansion\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\concat-map\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\balanced-match\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\inherits\inherits.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\path-is-absolute\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\sync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\common.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\inflight\inflight.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\wrappy\wrappy.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\once\once.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync c:\users\dell\appdata\local\programs\typora\typora.exe
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\USERS\DELL\APPDATA\LOCAL\PROGRAMS\TYPORA\TYPORA.EXE
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/typora.log
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\lib\main.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\node_modules\lodash\lodash.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\node_modules\is-promise\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\FileSync.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\Base.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\_stringify.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora\profile.data
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora\history.data
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\native-reg\lib\index.js
+------------------
+[2026/4/8 10:22:24] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\OneDrive\XMU\likangguo\2024\13 NIDS TH\ID_TH\manuscript\manuscript.md
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-progressbar\source\index.js
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-progressbar\node_modules\extend\index.js
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Roaming\Typora\typora-dictionaries/user-dict.json
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Local\Temp\Typora
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/package.json --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\package.json
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/launch.dist.js --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\launch.dist.js
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/../page-dist/license.html --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\../page-dist/license.html
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 10:22:25] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 10:22:28] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Panel.json
+------------------
+[2026/4/8 10:22:55] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover
+------------------
+[2026/4/8 10:34:26] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\OneDrive\XMU\likangguo\2024\06 pertussis\PertussisIncidence\README.md
+------------------
+[2026/4/8 10:34:26] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 10:34:26] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 10:34:27] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 10:34:27] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:35:07] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:35:07] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:35:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:35:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:36:13] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:36:13] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:36:55] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:36:55] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:37:06] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:37:06] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 11:37:55] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 11:37:55] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 12:04:53] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 12:04:53] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora/typora.log
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app\atom.compiled.dist.jsc --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.openSync C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\hjson\lib\hjson.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\assign.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\fs\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\node_modules\universalify\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\graceful-fs.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\polyfills.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\legacy-streams.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\graceful-fs\clone.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\copy.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy\ncp.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\utimes.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\win32.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs-sync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\path-exists\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-sync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-file-sync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\util\buffer.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\remove\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\remove\rimraf.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\jsonfile.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\node_modules\jsonfile\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json-sync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\move\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\move-sync\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\empty\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\file.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\link.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-paths.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-type.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-extra\lib\output\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-fetch\lib\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-fetch\node_modules\encoding\lib\encoding.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\node_modules\safer-buffer\safer.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\bom-handling.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\iconv-lite\lib\streams.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora/conf/conf.user.json
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\lib\fs-plus.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore-plus\lib\underscore-plus.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node.cjs
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node-f.cjs
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\async\lib\async.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\mkdirp\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\rimraf\rimraf.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\glob.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\old.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\minimatch\minimatch.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\brace-expansion\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\concat-map\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\balanced-match\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\inherits\inherits.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\path-is-absolute\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\sync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\common.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\inflight\inflight.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\wrappy\wrappy.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\fs-plus\node_modules\once\once.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync c:\users\dell\appdata\local\programs\typora\typora.exe
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\USERS\DELL\APPDATA\LOCAL\PROGRAMS\TYPORA\TYPORA.EXE
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/typora.log
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\lib\main.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\node_modules\lodash\lodash.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\node_modules\is-promise\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\FileSync.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\Base.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\lowdb\adapters\_stringify.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora\profile.data
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Roaming\Typora\history.data
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\native-reg\lib\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\OneDrive\XMU\likangguo\2024\13 NIDS TH\ID_TH\manuscript\manuscript.md
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-progressbar\source\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\dell\AppData\Local\Programs\Typora\resources\node_modules.asar\electron-progressbar\node_modules\extend\index.js
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Roaming\Typora\typora-dictionaries/user-dict.json
+------------------
+[2026/4/8 12:05:15] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Local\Temp\Typora
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/package.json --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\package.json
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/launch.dist.js --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\launch.dist.js
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/../page-dist/license.html --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\../page-dist/license.html
+------------------
+[2026/4/8 12:05:16] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 C:\Users\dell\AppData\Local\Programs\Typora\resources\app/../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js --> C:\Users\dell\AppData\Local\Programs\Typora\resources\app.bak\../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js
+------------------
+[2026/4/8 12:05:17] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 12:05:17] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\dell\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/4/8 12:05:18] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\dell\AppData\Local\Programs\Typora\resources\locales\zh-Hans.lproj\Panel.json
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-1-23 Appendix 5-6 220354.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-1-23 Appendix 5-6 220452.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-1-27 12 160913.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 200944.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 200953.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201445.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201502.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201523.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201916.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201917.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 201919.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 202809.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 202849.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203357.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203445.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203527.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203530.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203544.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203609.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203637.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203655.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203656.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203737.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203846.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 203946.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204048.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204104.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204142.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204346.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204622.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204657.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204726.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204836.md
+------------------
+[2026/4/8 12:05:45] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204945.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204947.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 204951.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205022.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205052.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205109.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205133.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205200.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205202.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205224.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 205252.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210433.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210526.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210530.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210539.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210542.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210543.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-11 AppendixUpdate 210545.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-2 flowchart TD 104509.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 091725.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 092029.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 092330.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 092916.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 093522.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 094227.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 095229.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 095731.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 100013.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 100526.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 101137.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 101931.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 102726.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 103513.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 104331.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-4 comment 104710.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-7 Ah, I see! It looks like the formulas are not rendering properly in this text 001347.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-7 Statistical Analysis 001151.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-2-7 Statistical Analysis 001211.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 193828.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 193852.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 202423.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 203931.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 204152.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 204705.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 204753.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 204800.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 AppendixUpdate 204826.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 manucsript 162629.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 manucsript 162710.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-10 manucsript 162712.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 094007.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095003.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095609.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095610.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095710.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095920.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095922.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095946.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 095952.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 100000.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 100042.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 100546.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 100547.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 102348.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 103134.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 103135.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 104406.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 104731.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 105746.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 105855.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 110052.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 110053.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 110910.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 110911.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 112049.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150133.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150712.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150815.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150822.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150942.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 150943.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151401.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151445.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151555.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151810.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151814.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 151835.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154232.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154449.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154452.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154818.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154833.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154849.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154904.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154916.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154950.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 154955.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155002.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155015.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155016.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155019.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155030.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155111.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155122.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155128.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155149.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155153.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155154.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155157.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155203.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155221.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155227.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155228.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155236.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155240.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155244.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-11 AppendixUpdate 155249.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-12 AppendixUpdate 170246.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-12 AppendixUpdate 170252.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-12 AppendixUpdate 170506.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 121513.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 121601.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 121710.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 121753.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 162929.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-16 manucsript 165118.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-17 appendix 160257.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-2  model     source  year  term                        median      lower       upper       pr_gt_zero  rr_median 162215.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-2 Bayesian hierarchical regression model 112123.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-20 submit 120752.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-20 submit 120757.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-3-5 table_1_prevalence_summary 114817.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 204140.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 204947.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 210545.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 214749.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 215639.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 222356.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 222445.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-1 manuscript_npj_IRDM_final 223056.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-3 appendix 171825.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-3 appendix 171835.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 165700.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 170119.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 170148.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 170155.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 170226.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 deep-research-report (7) 170228.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 201734.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 201830.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 202310.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 202311.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 202633.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 203142.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 203728.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 204234.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 205004.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 205748.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 210533.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 211202.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 211928.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 212709.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 212710.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-7 manuscript 214100.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-8 manuscript 113506.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-8 manuscript 113653.md
+------------------
+[2026/4/8 12:05:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\dell\AppData\Roaming\Typora\draftsRecover/2026-4-8 manuscript 113754.md
+------------------
+[2026/4/8 12:14:43] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 12:14:43] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora\backups
+------------------
+[2026/4/8 12:14:43] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\dell\AppData\Roaming\Typora/typora.log
+------------------

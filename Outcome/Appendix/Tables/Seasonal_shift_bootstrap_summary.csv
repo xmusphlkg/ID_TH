@@ -1,0 +1,25 @@
+Shortname,Group,PointShift_vs_Pre,PointShift_vs_Pred,CI025_vs_Pre,CI975_vs_Pre,CI025_vs_Pred,CI975_vs_Pred,PrAbsShiftGE2_vs_Pre,PrAbsShiftGE2_vs_Pred,shift_vs_pre,shift_vs_pred,shift_max_vs_pre,shift_max_vs_pred,ShiftFlag,MaxShiftFlag,COM_Max_Agree,BorderlineShift
+CA (HPV),Sexually IDs,4,4,0,6,2,5,0.904,1,4,4,0,0,TRUE,FALSE,FALSE,TRUE
+Genital herpes,Sexually IDs,2,3,0,3,2,3,0.762,1,2,3,6,3,TRUE,TRUE,TRUE,TRUE
+HAV,Gastrointestinal IDs,-5,-5,-6,5,-6,5,0.99,1,-5,-5,-4,-4,TRUE,TRUE,TRUE,TRUE
+HBV,Sexually IDs,2,2,2,3,2,2,1,1,2,2,2,2,TRUE,TRUE,TRUE,TRUE
+Melioidosis,Vector-borne and zoonotic IDs,-2,-2,-3,0,-2,0,0.747,0.734,-2,-2,6,6,TRUE,TRUE,TRUE,TRUE
+Mumps,Respiratory IDs,6,4,-5,6,2,6,0.992,1,6,4,6,6,TRUE,TRUE,TRUE,TRUE
+Rubella,Respiratory IDs,3,2,-4,5,-6,3,0.844,1,3,2,2,1,TRUE,TRUE,TRUE,TRUE
+Syphilis,Sexually IDs,-2,-3,-5,1,-5,-1,0.536,0.915,-2,-3,-2,0,TRUE,TRUE,TRUE,TRUE
+Amebiasis,Gastrointestinal IDs,0,0,-2,1,-1,1,0.139,0,0,0,-3,-2,FALSE,TRUE,FALSE,TRUE
+Chancroid,Sexually IDs,0,0,-1,2,0,1,0.046,0,0,0,-2,-2,FALSE,TRUE,FALSE,TRUE
+Chickenpox,Respiratory IDs,-1,-1,-5,6,-5,6,0.366,0.366,-1,-1,0,0,FALSE,FALSE,TRUE,TRUE
+Gonorrhoea,Sexually IDs,0,1,-1,2,0,2,0.069,0.17,0,1,0,0,FALSE,FALSE,TRUE,TRUE
+Influenza,Respiratory IDs,1,0,-2,2,-2,1,0.158,0.153,1,0,0,0,FALSE,FALSE,TRUE,TRUE
+Scarlet fever,Respiratory IDs,-1,-1,-3,5,-5,4,0.47,0.294,-1,-1,0,1,FALSE,FALSE,TRUE,TRUE
+Shigellosis,Gastrointestinal IDs,1,1,0,2,0,2,0.142,0.145,1,1,6,6,FALSE,TRUE,FALSE,TRUE
+Typhoid,Gastrointestinal IDs,0,-1,-2,2,-3,0,0.144,0.382,0,-1,-1,-1,FALSE,FALSE,TRUE,TRUE
+HCV,Sexually IDs,4,4,3,5,3,5,1,1,4,4,6,6,TRUE,TRUE,TRUE,FALSE
+Dengue fever,Vector-borne and zoonotic IDs,0,0,-1,1,-1,1,0.007,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE
+HFMD,Gastrointestinal IDs,1,0,0,1,0,0,0,0,1,0,1,1,FALSE,FALSE,TRUE,FALSE
+Leptospirosis,Vector-borne and zoonotic IDs,1,1,0,1,0,1,0,0,1,1,0,0,FALSE,FALSE,TRUE,FALSE
+Malaria,Vector-borne and zoonotic IDs,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE
+Pneumonia,Respiratory IDs,1,1,0,1,0,1,0.019,0,1,1,0,0,FALSE,FALSE,TRUE,FALSE
+S. suis,Vector-borne and zoonotic IDs,0,0,-1,1,-1,1,0.009,0,0,0,-1,-1,FALSE,FALSE,TRUE,FALSE
+Scrub Typhus,Vector-borne and zoonotic IDs,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,TRUE,FALSE

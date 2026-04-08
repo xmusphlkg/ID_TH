@@ -80,7 +80,16 @@ source('./8_e_temporal_utility_validation.R')
 cat("Start part 15: placebo interruption and interval calibration...\n")
 source('./8_f_falsification_calibration.R')
 
-cat("Start part 16: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
+cat("Start part 16: transform and denominator sensitivity...\n")
+source('./8_g_transform_rate_sensitivity.R')
+
+cat("Start part 17: seasonal uncertainty and reconstruction sensitivity...\n")
+source('./8_h_seasonal_uncertainty.R')
+
+cat("Start part 18: segmented BP comparator...\n")
+source('./8_i_bp_segmented_comparator.R')
+
+cat("Start part 19: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
 source('./fig2.R')
 source('./fig3.R')
 source('./fig4.R')
