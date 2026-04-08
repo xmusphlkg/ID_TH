@@ -348,7 +348,7 @@ context_period_summary <- contextual_monthly |>
     Period = case_when(
       month < as.Date("2022-01-01") ~ "2020-2021 restriction-intensive",
       month < as.Date("2023-01-01") ~ "2022 transition",
-      month <= max(who_covid$month, na.rm = TRUE) ~ "2023-2024 WHO-context only",
+      month <= max(who_covid$month, na.rm = TRUE) ~ "2023 to 2024-06 WHO-context only",
       TRUE ~ "Late follow-up without external context"
     )
   ) |>

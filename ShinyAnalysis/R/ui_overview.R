@@ -86,10 +86,10 @@ overview_panel <- nav_panel(
         card_body(
           tags$ul(
             class = "insight-list",
-            tags$li("13 diseases reached both incidence recovery and cumulative balance."),
-            tags$li("7 diseases recovered in incidence but still carried a cumulative deficit."),
-            tags$li("3 diseases remained suppressed through follow-up."),
-            tags$li("Malaria did not show a sustained cumulative deficit state.")
+            tags$li(sprintf("%d diseases reached both incidence recovery and cumulative balance.", status_lookup[["Debt Repaid"]])),
+            tags$li(sprintf("%d diseases recovered in incidence but still carried a cumulative deficit.", status_lookup[["Recovered"]])),
+            tags$li(sprintf("%d diseases remained suppressed through follow-up.", status_lookup[["Suppressed"]])),
+            tags$li(sprintf("%d disease%s did not show a sustained cumulative deficit state.", status_lookup[["No Deficit"]], ifelse(status_lookup[["No Deficit"]] == 1, "", "s")))
           ),
           plotOutput("status_group_plot", height = "440px")
         )

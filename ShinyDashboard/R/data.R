@@ -105,6 +105,8 @@ status_summary <- metrics %>%
   count(Status, name = "n") %>%
   complete(Status = names(status_palette), fill = list(n = 0))
 
+status_lookup <- setNames(status_summary$n, status_summary$Status)
+
 median_rp <- metrics %>%
   summarise(value = median(Recovery_Months, na.rm = TRUE)) %>%
   pull(value)
