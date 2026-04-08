@@ -232,15 +232,15 @@ appendix_lines <- readLines(appendix_path, warn = FALSE)
 
 appendix_lines <- replace_first_line_by_prefix(
   appendix_lines,
-  "This section records the notation used by the appendix exports for the disease-specific forecasting workflow described in the main Methods.",
+  "Counterfactual forecasts were estimated separately for each of the 24 diseases retained for modelling.",
   paste(
-    "This section records the notation used by the appendix exports for the disease-specific forecasting workflow described in the main Methods.",
-    "The pre-pandemic training window was January 2008 to December 2019, January 2020 was treated as the common national interruption date, and monthly counts were square-root transformed after adding a constant of 0.01.",
-    "Seven candidate model families were compared: autoregressive neural networks, information-criterion-selected exponential-smoothing models, information-criterion-selected seasonal autoregressive integrated moving-average models, trigonometric state-space models for complex seasonality with a fixed 12-month cycle, hybrid ensembles combining autoregressive, exponential-smoothing, neural-network, and complex-seasonality components, Bayesian structural time-series models with local linear trend and seasonal states, and autoregressive models augmented with Fourier harmonic terms."
+    "Counterfactual forecasts were estimated separately for each of the 24 diseases retained for modelling.",
+    "The prepandemic training window was January, 2008 to December, 2019, and January, 2020 was treated as the common national interruption date for all diseases.",
+    "Monthly counts were square-root transformed after adding a constant of 0.01 so that zero-count months remained estimable while preserving a positive-support transformation for low-count series.",
+    "Seven candidate model families were compared: neural network autoregression, ETS, seasonal ARIMA, TBATS, a weighted hybrid model combining autoregressive and exponential-smoothing families, Bayesian structural time-series models with local linear trend and seasonal states, and autoregressive integrated moving average with Fourier terms."
   )
 )
 
-if (FALSE) {
 appendix_lines <- replace_first_line_by_prefix(
   appendix_lines,
   "Model selection was based on three rolling prepandemic hold-out schemes:",
@@ -254,17 +254,6 @@ appendix_lines <- replace_first_line_by_prefix(
     "Absolute cross-validation outputs for each model family and hold-out split were exported to **Supplementary Fig. S87-S110**, and robustness of the selected family to alternative aggregation rules was summarized in **Supplementary Table S11**."
   )
 )
-}
-
-appendix_lines <- replace_first_line_by_prefix(
-  appendix_lines,
-  "Within each disease and hold-out split, back-transformed symmetric mean absolute percentage error (sMAPE), root mean squared error (RMSE), and mean absolute scaled error (MASE) values were standardized across the seven candidate models, multiplied by -1 so that larger values indicated better performance, and summed to give the split-specific composite score.",
-  paste(
-    "Within each disease and hold-out split, back-transformed symmetric mean absolute percentage error (sMAPE), root mean squared error (RMSE), and mean absolute scaled error (MASE) values were standardized across the seven candidate models, multiplied by -1 so that larger values indicated better performance, and summed to give the split-specific composite score.",
-    "These split-specific scores were then summed across the three hold-out schemes exactly as described in the main Methods.",
-    "The resulting cross-validation outputs were exported to **Supplementary Fig. S87-S110**, and robustness of the selected family to alternative aggregation rules was summarized in **Supplementary Table S11**."
-  )
-)
 
 appendix_lines <- replace_first_line_by_prefix(
   appendix_lines,
@@ -272,39 +261,22 @@ appendix_lines <- replace_first_line_by_prefix(
   "Let $e_{m,s,k}$ denote the error metric for model $m$, split $s$, and metric $k \\in \\{\\mathrm{sMAPE},\\mathrm{RMSE},\\mathrm{MASE}\\}$. Standardization was performed within each disease and split across the seven candidate models:"
 )
 
-if (FALSE) {
 appendix_lines <- replace_first_line_by_prefix(
   appendix_lines,
   "After model selection, the winning specification for each disease was refitted to the full prepandemic series and forecast forward from January, 2020 to December, 2025.",
   paste(
     "After model selection, the winning specification for each disease was refitted to the full prepandemic series and forecast forward from January, 2020 to December, 2025.",
     "Forecast uncertainty was summarized from 5000 simulated trajectories.",
-    "Residual-bootstrap forward simulation was used for the autoregressive neural-network, seasonal autoregressive integrated moving-average, trigonometric state-space, and Fourier-augmented autoregressive families.",
-    "Transformed-scale one-step residual bootstraps around the deterministic forecast were used for the exponential-smoothing family to avoid pathological right tails in strongly seasonal series.",
-    "Historical-residual resampling around the mean forecast was used for the hybrid ensemble family.",
-    "Posterior predictive draws after burn-in were used for the Bayesian structural family.",
+    "For neural network, SARIMA, TBATS, and ARIMA-with-Fourier models, future trajectories were generated by residual-bootstrap simulation.",
+    "For ETS, future trajectories were generated by bootstrapping transformed-scale one-step residuals around the deterministic forecast to avoid pathological right tails in strongly seasonal series.",
+    "For the hybrid model, forecast uncertainty was approximated by resampling historical residuals around the model mean forecast.",
+    "For BSTS, posterior predictive draws were taken directly from the predictive distribution after burn-in.",
     "The appendix exports both the simulated interval summaries and the disease-level forecast-versus-observed tables used in **Fig. 2** and in **Supplementary Fig. S87-S110**."
-  )
-)
-}
-
-appendix_lines <- replace_first_line_by_prefix(
-  appendix_lines,
-  "After model selection, the winning specification for each disease was refitted to the full pre-pandemic series and simulated 5,000 times through December 2025.",
-  paste(
-    "After model selection, the winning specification for each disease was refitted to the full pre-pandemic series and simulated 5,000 times through December 2025.",
-    "Forecast uncertainty was summarized from these simulated trajectories.",
-    "Residual-bootstrap forward simulation was used for the autoregressive neural-network, seasonal autoregressive integrated moving-average, trigonometric state-space, and Fourier-augmented autoregressive families.",
-    "Transformed-scale one-step residual bootstraps around the deterministic forecast were used for the exponential-smoothing family to avoid pathological right tails in strongly seasonal series.",
-    "Historical-residual resampling around the mean forecast was used for the hybrid ensemble family.",
-    "Posterior predictive draws after burn-in were used for the Bayesian structural family.",
-    "The appendix exports the cross-validation accuracy summaries, interval summaries, and disease-level forecast-versus-observed tables that support **Fig. 2** and **Supplementary Fig. S87-S110**."
   )
 )
 
 # Fig. S87-S110 caption refresh --------------------------------------------------
 
-if (FALSE) {
 for (i in seq_along(appendix_lines)) {
   line <- appendix_lines[i]
   if (!grepl("^\\*\\*Fig\\. S(8[7-9]|9[0-9]|10[0-9]|110)\\.", line, perl = TRUE)) {
@@ -325,37 +297,10 @@ for (i in seq_along(appendix_lines)) {
       "**Fig. S", matches[2],
       ". Model selection and cross‑validation performance for ",
       matches[3],
-      ": multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables."
+      ": multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families (Neural Network, ETS, SARIMA, TBATS, Hybrid, Bayesian structural time series, and ARIMA + Fourier) together with split-specific forecast-accuracy comparison tables."
     )
   }
 }
-}
-
-for (i in seq_along(appendix_lines)) {
-  line <- appendix_lines[i]
-  if (!grepl("^\\*\\*Fig\\. S(8[7-9]|9[0-9]|10[0-9]|110)\\.", line, perl = TRUE)) {
-    next
-  }
-
-  matches <- regmatches(
-    line,
-    regexec(
-      "^\\*\\*Fig\\. S([0-9]+)\\. Model selection and cross.?validation performance for (.*?): multi.?split forecasts and model comparison\\.\\*\\*.*$",
-      line,
-      perl = TRUE
-    )
-  )[[1]]
-
-  if (length(matches) == 3) {
-    appendix_lines[i] <- paste0(
-      "**Fig. S", matches[2],
-      ". Model selection and cross-validation performance for ",
-      matches[3],
-      ": multi-split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables."
-    )
-  }
-}
-
 
 # Table S1 / Fig S0 --------------------------------------------------------------
 
@@ -438,7 +383,7 @@ s3_block <- c(
   md_table(table_s3),
   "",
   sprintf(
-    "Across these %d diseases, the main reasons for descriptive-only retention were insufficient pre-pandemic counts or sparse long-horizon signal (%d diseases), non-seasonal pre-pandemic structure (%d diseases), insufficient time coverage (%d diseases), and ill-defined residual categories (%d diseases). This pattern indicates that the 24-disease forecasting subset was selected primarily on time-series suitability rather than on a single transmission category, although vector-borne and respiratory pathogens remained differentially represented after this second-stage restriction. In this table and subsequent appendix tables, IDs in group labels denote infectious diseases.",
+    "Across these %d diseases, the main reasons for descriptive-only retention were insufficient prepandemic counts or sparse long-horizon signal (%d diseases), non-seasonal prepandemic structure (%d diseases), insufficient time coverage (%d diseases), and ill-defined residual categories (%d diseases). This pattern indicates that the 24-disease forecasting subset was selected primarily on time-series suitability rather than on a single transmission category, although vector-borne and respiratory pathogens remained differentially represented after this second-stage restriction.",
     nrow(flow_desc_only),
     unname(s3_reason_counts["Insufficient cases"]),
     unname(s3_reason_counts["Non-seasonal trend"]),
@@ -640,12 +585,12 @@ table_s9 <- data.frame(
 
 uncertainty_sensitive <- recovery_uncertainty$Shortname[recovery_uncertainty$PrimaryStatusProb < 0.80]
 s9_block <- c(
-  "**Table S9. Uncertainty-aware RP/BP classification from 5,000 simulated counterfactual trajectories.**",
+  "**Table S9. Uncertainty-aware RP/BP classification from 5000 simulated counterfactual trajectories.**",
   "",
   md_table(table_s9),
   "",
   sprintf(
-    "Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5,000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, %d diseases were uncertainty-sensitive: %s.",
+    "Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, %d diseases were uncertainty-sensitive: %s.",
     length(uncertainty_sensitive),
     join_names(uncertainty_sensitive)
   ),
@@ -655,7 +600,7 @@ s9_block <- c(
 appendix_lines <- replace_block(
   appendix_lines,
   "TABLE_S9",
-  "**Table S9. Uncertainty-aware RP/BP classification from 5,000 simulated counterfactual trajectories.**",
+  "**Table S9. Uncertainty-aware RP/BP classification from 5000 simulated counterfactual trajectories.**",
   s9_block
 )
 
@@ -835,7 +780,7 @@ s14_block <- c(
   "",
   md_table(table_s14),
   "",
-  "The portfolio-level observed-to-expected ratio rose across the restriction-intensive, transition, and post-PHSM periods. Policy indicators were available through December 2022, whereas WHO COVID-19 burden was available through June 2024.",
+  "The portfolio-level observed-to-expected ratio rose across the restriction-intensive, transition, and post-PHSM periods. Policy indicators were available through December, 2022, whereas WHO COVID-19 burden was available through June, 2024.",
   ""
 )
 

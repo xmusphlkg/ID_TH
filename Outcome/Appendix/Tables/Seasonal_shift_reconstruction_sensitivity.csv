@@ -1,7 +1,7 @@
 Shortname,Group,CurrentShiftPre,CurrentShiftPred,CurrentShiftFlag,AltShiftPre,AltShiftPred,AltShiftFlag,PrimaryPhenotype,CurrentPriority,Status,AltPriority,QueueChanged,ShiftFlagChanged
 Amebiasis,Gastrointestinal IDs,0,0,FALSE,0,0,FALSE,Balanced,Low priority routine review,Debt Repaid,Low priority routine review,FALSE,FALSE
 CA (HPV),Sexually IDs,4,4,TRUE,4,4,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE
-Chancroid,Sexually IDs,0,0,FALSE,0,0,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
+Chancroid,Sexually IDs,0,0,FALSE,1,1,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
 Chickenpox,Respiratory IDs,-1,-1,FALSE,-1,-1,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
 Dengue fever,Vector-borne and zoonotic IDs,0,0,FALSE,0,0,FALSE,Recovered but not balanced,Cumulative review needed,Recovered,Cumulative review needed,FALSE,FALSE
 Genital herpes,Sexually IDs,2,3,TRUE,2,3,TRUE,Balanced,Recovered but recalibrate seasonality,Debt Repaid,Recovered but recalibrate seasonality,FALSE,FALSE

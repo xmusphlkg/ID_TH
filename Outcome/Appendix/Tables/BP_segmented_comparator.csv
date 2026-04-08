@@ -1,0 +1,25 @@
+Shortname,PrimaryStatus,PrimaryBPMonth,TroughMonth,TroughDate,PostSlope,SegmentedBPMonth,SegmentedBPDate,SegmentedBPAchieved,BPAgreement,BPMonthDelta,AgreementLabel
+Amebiasis,Debt Repaid,35,28,2022-05-01,92.13870109159667,34,2022-11-01,TRUE,TRUE,-1,Agree within 6 months
+CA (HPV),Debt Repaid,55,37,2023-02-01,355.50602036389,51,2024-04-01,TRUE,TRUE,-4,Agree within 6 months
+Genital herpes,Debt Repaid,52,35,2022-12-01,213.9272868272509,47,2023-12-01,TRUE,TRUE,-5,Agree within 6 months
+Gonorrhoea,Debt Repaid,58,33,2022-10-01,433.3592226309781,57,2024-10-01,TRUE,TRUE,-1,Agree within 6 months
+HBV,Debt Repaid,52,35,2022-12-01,581.6623885468757,47,2023-12-01,TRUE,TRUE,-5,Agree within 6 months
+HCV,Debt Repaid,35,24,2022-01-01,135.10178319003973,32,2022-09-01,TRUE,TRUE,-3,Agree within 6 months
+Leptospirosis,Debt Repaid,32,22,2021-11-01,221.72943431395623,29,2022-06-01,TRUE,TRUE,-3,Agree within 6 months
+Melioidosis,Debt Repaid,36,27,2022-04-01,88.36378702027588,37,2023-02-01,TRUE,TRUE,1,Agree within 6 months
+Pneumonia,Debt Repaid,60,33,2022-10-01,10286.626237797716,59,2024-12-01,TRUE,TRUE,-1,Agree within 6 months
+Scrub Typhus,Debt Repaid,50,27,2022-04-01,227.23792416750152,49,2024-02-01,TRUE,TRUE,-1,Agree within 6 months
+Syphilis,Debt Repaid,40,30,2022-07-01,609.0808046473818,38,2023-03-01,TRUE,TRUE,-2,Agree within 6 months
+Typhoid,Debt Repaid,54,29,2022-06-01,51.102387382941814,54,2024-07-01,TRUE,TRUE,0,Agree within 6 months
+HFMD,Debt Repaid,33,29,2022-06-01,2903.2432176277116,42,2023-07-01,TRUE,FALSE,9,"Both reached, timing differs"
+S. suis,Debt Repaid,7,4,2020-05-01,28.477738860436276,15,2021-04-01,TRUE,FALSE,8,"Both reached, timing differs"
+Chancroid,Recovered,NA,47,2023-12-01,54.43435753799373,NA,NA,FALSE,TRUE,NA,Both unresolved
+Chickenpox,Recovered,NA,65,2025-06-01,4353.116533644232,NA,NA,FALSE,TRUE,NA,Both unresolved
+Dengue fever,Recovered,NA,34,2022-11-01,2899.453718194899,NA,NA,FALSE,TRUE,NA,Both unresolved
+HAV,Recovered,NA,71,2025-12-01,NA,NA,NA,FALSE,TRUE,NA,Both unresolved
+Influenza,Recovered,NA,43,2023-08-01,33086.604886503104,NA,NA,FALSE,TRUE,NA,Both unresolved
+Malaria,No Deficit,NA,0,2020-01-01,NA,NA,NA,FALSE,TRUE,NA,Both unresolved
+Mumps,Recovered,NA,67,2025-08-01,287.07223288645105,NA,NA,FALSE,TRUE,NA,Both unresolved
+Rubella,Suppressed,NA,71,2025-12-01,NA,NA,NA,FALSE,TRUE,NA,Both unresolved
+Scarlet fever,Recovered,NA,60,2025-01-01,544.9905705348112,NA,NA,FALSE,TRUE,NA,Both unresolved
+Shigellosis,Recovered,NA,43,2023-08-01,12.156454730330662,NA,NA,FALSE,TRUE,NA,Both unresolved

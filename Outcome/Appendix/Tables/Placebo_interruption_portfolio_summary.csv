@@ -1,4 +1,4 @@
-split,split_label,start_date,end_date,DiseasesAssessed,FalseAlerts,FalseAlertRate,FalseSuppressed,MeanCoverage80,MeanCoverage95,MeanWidth95
-2019,Pseudo interruption 2019,2019-01-01,2019-12-01,24,17,0.708,13,0.875,0.951,6781.3
-2018-2019,Pseudo interruption 2018,2018-01-01,2019-12-01,24,17,0.708,3,0.911,0.988,8454.6
-2017-2019,Pseudo interruption 2017,2017-01-01,2019-12-01,24,15,0.625,7,0.875,0.962,11794.4
+split,split_label,start_date,end_date,DiseasesAssessed,FalseAlerts,FalseAlertRate,FalseAlertsTempered,FalseAlertRateTempered,FalseSuppressed,MeanCoverage80,MeanCoverage95,MeanIntervalScore95,MeanWIS,MeanPIT,MeanWidth95
+2019,Pseudo interruption 2019,2019-01-01,2019-12-01,24,17,0.708,13,0.542,12,0.611,0.726,25681.826,2967.054,0.454,2054.067
+2018-2019,Pseudo interruption 2018,2018-01-01,2019-12-01,24,16,0.667,10,0.417,3,0.665,0.792,14527.478,1822.884,0.535,1781.717
+2017-2019,Pseudo interruption 2017,2017-01-01,2019-12-01,24,15,0.625,12,0.5,5,0.568,0.764,22530.859,2681.696,0.507,3338.187

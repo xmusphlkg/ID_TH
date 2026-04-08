@@ -316,9 +316,10 @@ run_task <- function(task_row) {
 
 worker_count <- max(1L, min(8L, parallel::detectCores(logical = TRUE) - 1L))
 
-if (.Platform$OS.type == "windows" && worker_count > 1L) {
+if (worker_count > 1L) {
   cl <- parallel::makeCluster(worker_count)
   on.exit(parallel::stopCluster(cl), add = TRUE)
+  parallel::clusterSetRNGStream(cl, iseed = 20260408L)
   parallel::clusterExport(
     cl,
     varlist = c(

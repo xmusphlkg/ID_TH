@@ -78,12 +78,12 @@ boxes <- data.frame(
       " excluded from\ncounterfactual modelling\n",
       count_rows(excluded_24, "Reason.for.descriptive-only.retention", "Insufficient cases"), " insufficient long-horizon signal\n",
       count_rows(excluded_24, "Reason.for.descriptive-only.retention", "Non-seasonal trend"), " non-seasonal or weak seasonality\n",
-      count_rows(excluded_24, "Reason.for.descriptive-only.retention", "Insufficient duration"), " insufficient-duration series\n",
+      count_rows(excluded_24, "Reason.for.descriptive-only.retention", "Insufficient duration"), " insufficient prepandemic duration\n",
       count_rows(excluded_24, "Reason.for.descriptive-only.retention", "Unspecifed disease"), " residual or unspecified definitions"
     ),
     paste0(
       "Eligibility criteria\n",
-      "144 pre-pandemic months\n",
+      "144 prepandemic months\n",
       "stable surveillance definition\n",
       "sufficient signal for\n72-month extrapolation\n",
       "not dominated by structural zeros"

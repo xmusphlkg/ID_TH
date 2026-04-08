@@ -253,7 +253,7 @@ message(sprintf(
   nrow(task_grid)
 ))
 
-if (.Platform$OS.type == "windows" && worker_count > 1L) {
+if (worker_count > 1L) {
   cl <- parallel::makeCluster(worker_count)
   on.exit(parallel::stopCluster(cl), add = TRUE)
   parallel::clusterSetRNGStream(cl, iseed = 20260408L)
@@ -263,13 +263,14 @@ if (.Platform$OS.type == "windows" && worker_count > 1L) {
       "task_grid", "best_models", "split_specs", "data_month", "add_value", "forecast_transform",
       "estimate_transform_lambda", "positive_forward_transform", "positive_inverse_transform",
       "fit_fourier_arima", "forecast_model_sim", "interval_score", "weighted_interval_score",
-      "calc_tempered_status", "calc_status_one", "status_label_map", "get_months",
+      "calc_tempered_status", "calc_status_one", "find_sustained_date", "status_label_map", "get_months",
       "run_placebo_split", "run_placebo_task"
     ),
     envir = environment()
   )
   parallel::clusterEvalQ(cl, {
     library(dplyr)
+    library(lubridate)
     library(forecast)
     library(forecastHybrid)
     library(bsts)

@@ -1369,22 +1369,22 @@ This supplementary analysis compares framework-based and incidence-only review q
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN PLACEBO_INTERRUPTION_CALIBRATION -->
-## Part 8: Placebo interruption and predictive interval calibration
+## Part 8: Placebo interruption and predictive-distribution calibration
 
-This supplementary analysis applies the same RP/BP workflow to pre-pandemic placebo interruption dates and summarizes empirical predictive interval coverage for the selected best models.
+This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.
 
-**Table S19. Portfolio-level placebo interruption and predictive interval calibration summary.**
-| Pseudo interruption | Diseases assessed | False alerts | False suppressed | Mean 80% coverage | Mean 95% coverage | Mean 95% interval width |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pseudo interruption 2019 | 24 | 17 | 13 | 0.875 | 0.951 |  6781.3 |
-| Pseudo interruption 2018 | 24 | 17 |  3 | 0.911 | 0.988 |  8454.6 |
-| Pseudo interruption 2017 | 24 | 15 |  7 | 0.875 | 0.962 | 11794.4 |
+**Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.**
+| Pseudo interruption | Diseases assessed | False alerts | False-alert rate | Tempered false alerts | Tempered false-alert rate | Mean 80% coverage | Mean 95% coverage | Mean 95% interval score | Mean WIS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pseudo interruption 2019 | 24 | 17 | 0.708 | 13 | 0.542 | 0.611 | 0.726 | 25681.83 | 2967.054 |
+| Pseudo interruption 2018 | 24 | 16 | 0.667 | 10 | 0.417 | 0.665 | 0.792 | 14527.48 | 1822.884 |
+| Pseudo interruption 2017 | 24 | 15 | 0.625 | 12 | 0.500 | 0.568 | 0.764 | 22530.86 | 2681.696 |
 
 <div style="page-break-after: always;"></div>
 
-![**Fig. S128. Placebo interruption falsification and predictive interval calibration.**](Supplementary%20Appendix%201_8/falsification_and_calibration.png)
+![**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.**](Supplementary%20Appendix%201_8/falsification_and_calibration.png)
 
-**Fig. S128. Placebo interruption falsification and predictive interval calibration.** Panel A shows the status assigned to each disease when the RP/BP workflow is applied to three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B compares nominal and empirical predictive interval coverage across diseases, with larger outlined markers indicating the portfolio mean.
+**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.** Panel A shows the deterministic median-rule status assigned to each disease under three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B summarizes empirical 80% and 95% coverage by forecast horizon bin. Panel C shows the randomized PIT histogram pooled across placebo disease-month forecasts. Panel D compares placebo false-alert rates under the deterministic median rule and the exploratory tempered rule with lower-80% predictive-interval corroboration.
 <!-- END PLACEBO_INTERRUPTION_CALIBRATION -->
 
 <div style="page-break-after: always;"></div>
@@ -1397,27 +1397,22 @@ This supplementary analysis holds the selected model family fixed for each disea
 **Table S20. Portfolio-level transform and denominator sensitivity summary.**
 | Config | DiseasesAssessed | PhenotypeChanged | StatusChanged | MaterialTimingShift | MedianAbsRPShift | MedianAbsBPShift | MaxAbsRPShift | MaxAbsBPShift | MeanDeltaPrRP | MeanDeltaPrBP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Count log | 24 | 3 | 3 | 4 | 0 | 1 | 16 | 12 | -0.127 | -0.107 |
-| Rate sqrt | 24 | 4 | 4 | 8 | 0 | 2 | 12 | 15 | -0.036 | -0.111 |
+| Count log | 24 | 2 | 2 | 2 | 0 | 1 | 16 |  5 | -0.119 | -0.113 |
+| Rate sqrt | 24 | 3 | 3 | 7 | 0 | 3 | 12 | 16 | -0.041 | -0.091 |
 
 **Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.**
 | Shortname | Config | Baseline phenotype | Sensitivity phenotype | RP month delta | BP month delta | Delta Pr(RP) | Delta Pr(BP) | Delta primary-status probability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Amebiasis | Rate sqrt | Balanced | Recovered but not balanced |   6 | NA |  0.043 | -0.333 | -0.173 |
-| Chancroid | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.331 | -0.219 | -0.437 |
-| Shigellosis | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.170 | -0.021 |  0.066 |
-| Syphilis | Count log | Balanced | Suppressed | NA | NA | -0.054 | -0.090 |  0.165 |
+| Amebiasis | Rate sqrt | Balanced | Recovered but not balanced |   6 | NA | -0.002 | -0.338 | -0.213 |
+| Chancroid | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.296 | -0.209 | -0.472 |
+| Syphilis | Count log | Balanced | Suppressed | NA | NA | -0.139 | -0.135 |  0.195 |
 | Influenza | Rate sqrt | Recovered but not balanced | Balanced |  -1 | NA | NA | NA | NA |
-| Shigellosis | Rate sqrt | Recovered but not balanced | Suppressed | NA | NA | -0.175 | -0.146 |  0.096 |
-| Syphilis | Rate sqrt | Balanced | Recovered but not balanced |   2 | NA | -0.099 | -0.140 | -0.130 |
-| CA (HPV) | Count log | Balanced | Balanced |   8 | 12 | -0.261 | -0.308 | -0.308 |
-| Dengue fever | Count log | Recovered but not balanced | Recovered but not balanced |   7 | NA | -0.013 |  0.006 | -0.018 |
-| Leptospirosis | Count log | Balanced | Balanced |  16 |  0 |  0.042 |  0.057 |  0.057 |
+| Shigellosis | Rate sqrt | Recovered but not balanced | Suppressed | NA | NA | -0.265 | -0.156 |  0.186 |
+| Leptospirosis | Count log | Balanced | Balanced |  16 |  0 |  0.042 |  0.072 |  0.072 |
 | Mumps | Count log | Recovered but not balanced | Recovered but not balanced | -10 | NA | NA | NA | NA |
 | Chickenpox | Rate sqrt | Recovered but not balanced | Recovered but not balanced | -12 | NA | NA | NA | NA |
-| Dengue fever | Rate sqrt | Recovered but not balanced | Recovered but not balanced |   7 | NA |  0.072 | -0.009 |  0.082 |
 | HCV | Rate sqrt | Balanced | Balanced |   3 |  6 | NA | NA | NA |
-| HFMD | Rate sqrt | Balanced | Balanced |   0 | 15 | NA | NA | NA |
+| HFMD | Rate sqrt | Balanced | Balanced |   0 | 16 | NA | NA | NA |
 | Melioidosis | Rate sqrt | Balanced | Balanced |   0 |  8 | NA | NA | NA |
 | S. suis | Rate sqrt | Balanced | Balanced |   0 | 13 | NA | NA | NA |
 | Scrub Typhus | Rate sqrt | Balanced | Balanced |   1 | 11 | NA | NA | NA |
@@ -1467,3 +1462,41 @@ This supplementary analysis adds bootstrap uncertainty intervals to the center-o
 
 Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
 <!-- END SEASONAL_SHIFT_UNCERTAINTY -->
+
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN BP_SEGMENTED_COMPARATOR -->
+## Part 11: Segmented cumulative-deviation BP comparator
+
+This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date.
+
+**Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.**
+| Shortname | Primary BP month | Segmented BP month | Month delta | Agreement |
+| --- | --- | --- | --- | --- |
+| Amebiasis | 35 | 34 | -1 | Agree within 6 months |
+| CA (HPV) | 55 | 51 | -4 | Agree within 6 months |
+| Genital herpes | 52 | 47 | -5 | Agree within 6 months |
+| Gonorrhoea | 58 | 57 | -1 | Agree within 6 months |
+| HBV | 52 | 47 | -5 | Agree within 6 months |
+| HCV | 35 | 32 | -3 | Agree within 6 months |
+| Leptospirosis | 32 | 29 | -3 | Agree within 6 months |
+| Melioidosis | 36 | 37 |  1 | Agree within 6 months |
+| Pneumonia | 60 | 59 | -1 | Agree within 6 months |
+| Scrub Typhus | 50 | 49 | -1 | Agree within 6 months |
+| Syphilis | 40 | 38 | -2 | Agree within 6 months |
+| Typhoid | 54 | 54 |  0 | Agree within 6 months |
+| HFMD | 33 | 42 |  9 | Both reached, timing differs |
+| S. suis |  7 | 15 |  8 | Both reached, timing differs |
+| Chancroid | NA | NA | NA | Both unresolved |
+| Chickenpox | NA | NA | NA | Both unresolved |
+| Dengue fever | NA | NA | NA | Both unresolved |
+| HAV | NA | NA | NA | Both unresolved |
+| Influenza | NA | NA | NA | Both unresolved |
+| Malaria | NA | NA | NA | Both unresolved |
+| Mumps | NA | NA | NA | Both unresolved |
+| Rubella | NA | NA | NA | Both unresolved |
+| Scarlet fever | NA | NA | NA | Both unresolved |
+| Shigellosis | NA | NA | NA | Both unresolved |
+
+Across 24 modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for 12 disease(s), both approaches left 10 disease(s) unresolved, and 2 disease(s) showed materially different BP timing.
+<!-- END BP_SEGMENTED_COMPARATOR -->

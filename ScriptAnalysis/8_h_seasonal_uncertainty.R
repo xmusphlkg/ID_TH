@@ -320,7 +320,7 @@ message(sprintf(
   length(bootstrap_groups)
 ))
 
-if (.Platform$OS.type == "windows" && worker_count > 1L) {
+if (worker_count > 1L) {
   cl <- parallel::makeCluster(worker_count)
   on.exit(parallel::stopCluster(cl), add = TRUE)
   parallel::clusterSetRNGStream(cl, iseed = 20260408L)
