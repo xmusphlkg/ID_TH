@@ -6,7 +6,6 @@
   Kangguo Li et al. (2026)
 </div>
 
-
 <div style="page-break-after: always;"></div>
 
 **Contents**
@@ -201,7 +200,7 @@ $$
 
 Phase shifts were then corrected to the minimal signed displacement on a 12-month cycle, restricted to the interval $[-6, 6]$ months.
 
-Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity, but this step was retained only as a descriptive visual grouping aid and was not used in the main decision framework. A three-cluster solution was retained for the displayed typology figure on the basis of the elbow method.
+Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity, but this step was retained only as a descriptive visual grouping aid and was not used in the main decision framework. A three-cluster solution was retained for the displayed typology figure (Supplementary Fig. S130) on the basis of the elbow method.
 
 ### Exploratory disease-level recovery-speed analyses
 
@@ -1416,7 +1415,7 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 <div style="page-break-after: always;"></div>
 
-### Part 5: Supplementary transportability, validation, and sensitivity analyses (Fig. S126-S129)
+### Part 5: Supplementary transportability, validation, and sensitivity analyses (Fig. S126-S130)
 
 ![**Fig. S126. External pertussis decision-support case study.**](Supplementary%20Appendix%201_6/external_pertussis_decision_support.png)
 
@@ -1439,5 +1438,11 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 ![**Fig. S129. Exploratory threshold-tolerance stress test for RP classification.**](Supplementary%20Appendix%201_8/threshold_tolerance.png)
 
 **Fig. S129. Exploratory threshold-tolerance stress test for RP classification.** Heatmap cells show the proportion and count of diseases reclassified relative to the primary 95% / 3-month RP rule when the RP threshold is varied from 85% to 110% and persistence is varied from 2 to 4 months. No diseases changed phenotype in 16 of the 18 threshold-persistence combinations; only mumps reclassified under the strictest 110% threshold with 3- or 4-month persistence.
+
+<div style="page-break-after: always;"></div>
+
+![**Fig. S130. Suppression extent and rebound patterns.**](Supplementary%20Appendix%201_8/suppression_rebound_patterns.png)
+
+**Fig. S130. Suppression extent and rebound patterns following disruption during the coronavirus disease 2019 (COVID-19) period.** (A) Absolute suppression for the 23 diseases exhibiting a measurable post-January 2020 deficit. (B) Rebound intensity and relative suppression against rebound intensity. (C) Association between Return to Pre-pandemic baseline (RP) timing and rebound intensity across diseases. Pearson correlation is shown (two-sided P value). Diseases not meeting recovery criteria by the end of follow-up were right-censored in December 2025 for duration computation. (D) Exploratory visual grouping of diseases based on relative suppression and rebound intensity. The k-means partition ($k = 3$) was used only as a descriptive typology aid and was not part of the RP/BP decision framework.
 
 <div style="page-break-after: always;"></div>

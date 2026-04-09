@@ -647,7 +647,7 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 <div style="page-break-after: always;"></div>
 
-### Part 5: Supplementary transportability, validation, and sensitivity analyses (Fig. S126-S129)
+### Part 5: Supplementary transportability, validation, and sensitivity analyses (Fig. S126-S130)
 
 {{FIG_S126_IMAGE}}
 
@@ -670,5 +670,11 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 {{FIG_S129_IMAGE}}
 
 **Fig. S129. Exploratory threshold-tolerance stress test for RP classification.** Heatmap cells show the proportion and count of diseases reclassified relative to the primary 95% / 3-month RP rule when the RP threshold is varied from 85% to 110% and persistence is varied from 2 to 4 months. No diseases changed phenotype in 16 of the 18 threshold-persistence combinations; only mumps reclassified under the strictest 110% threshold with 3- or 4-month persistence.
+
+<div style="page-break-after: always;"></div>
+
+{{FIG_S130_IMAGE}}
+
+**Fig. S130. Suppression extent and rebound patterns following disruption during the coronavirus disease 2019 (COVID-19) period.** (A) Absolute suppression for the 23 diseases exhibiting a measurable post-January 2020 deficit. (B) Rebound intensity and relative suppression against rebound intensity. (C) Association between Return to Pre-pandemic baseline (RP) timing and rebound intensity across diseases. Pearson correlation is shown (two-sided P value). Diseases not meeting recovery criteria by the end of follow-up were right-censored in December 2025 for duration computation. (D) Exploratory visual grouping of diseases based on relative suppression and rebound intensity. The k-means partition ($k = 3$) was used only as a descriptive typology aid and was not part of the RP/BP decision framework.
 
 <div style="page-break-after: always;"></div>

@@ -1513,6 +1513,7 @@ def build_figures_section() -> str:
         127: ("Temporal utility validation", "Supplementary Appendix 1_7/temporal_utility_validation.png"),
         128: ("Placebo interruption falsification and predictive-distribution calibration", "Supplementary Appendix 1_8/falsification_and_calibration.png"),
         129: ("Exploratory threshold-tolerance stress test for RP classification", "Supplementary Appendix 1_8/threshold_tolerance.png"),
+        130: ("Suppression extent and rebound patterns", "Supplementary Appendix 1_8/suppression_rebound_patterns.png"),
     }
 
     for number, (label, rel_path) in fixed_figures.items():

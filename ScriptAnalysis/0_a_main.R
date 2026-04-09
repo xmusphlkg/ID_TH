@@ -119,13 +119,13 @@ source('./8_i_bp_segmented_comparator.R')
 cat("Start part 17b: threshold-tolerance stress-test figure...\n")
 source('./S129_threshold_tolerance_figure.R')
 
-cat("Start part 18: refresh supplementary appendix from Python...\n")
-run_appendix_builder()
-
-cat("Start part 19: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
+cat("Start part 18: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
 source('./fig2.R')
 source('./fig3.R')
 source('./fig4.R')
 source('./fig5.R')
+
+cat("Start part 19: refresh supplementary appendix from Python...\n")
+run_appendix_builder()
 
 cat("All one-stop analyses completed.\n")

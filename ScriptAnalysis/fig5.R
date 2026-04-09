@@ -19,6 +19,14 @@ source("./function/forecast.R")
 load("./temp/month.RData")
 load("./temp/outcome.RData")
 
+publish_fig_dir <- "../Outcome/Publish/npjDM"
+publish_data_dir <- "../Outcome/Publish/figure_data"
+appendix_fig_dir <- "../Outcome/Appendix/Supplementary Appendix 1_8"
+
+dir.create(publish_fig_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(publish_data_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(appendix_fig_dir, recursive = TRUE, showWarnings = FALSE)
+
 # estimate rebound metrics -------------------------------------------------
 
 df_metrics <- calculate_disease_metrics(outcome)
@@ -321,7 +329,7 @@ bottom_row <- fig3 + fig4 +
 final_plot <- top_row / bottom_row
 
 ggsave(
-     "../Outcome/Publish/npjDM/fig5.pdf",
+     file.path(publish_fig_dir, "fig5.pdf"),
      plot = final_plot,
      family = "Times New Roman",
      limitsize = FALSE,
@@ -331,7 +339,26 @@ ggsave(
 )
 
 ggsave(
-     "../Outcome/Publish/npjDM/fig5.png",
+     file.path(publish_fig_dir, "fig5.png"),
+     final_plot,
+     limitsize = FALSE,
+     width = 14,
+     height = 10,
+     dpi = 300
+)
+
+ggsave(
+     file.path(appendix_fig_dir, "suppression_rebound_patterns.pdf"),
+     plot = final_plot,
+     family = "Times New Roman",
+     limitsize = FALSE,
+     device = cairo_pdf,
+     width = 14,
+     height = 10
+)
+
+ggsave(
+     file.path(appendix_fig_dir, "suppression_rebound_patterns.png"),
      final_plot,
      limitsize = FALSE,
      width = 14,
@@ -350,5 +377,5 @@ figure_data <- list(
 
 write.xlsx(
      figure_data,
-     file = "../Outcome/Publish/figure_data/fig5.xlsx"
+     file = file.path(publish_data_dir, "fig5.xlsx")
 )

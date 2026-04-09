@@ -201,7 +201,7 @@ $$
 
 Phase shifts were then corrected to the minimal signed displacement on a 12-month cycle, restricted to the interval $[-6, 6]$ months.
 
-Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity, but this step was retained only as a descriptive visual grouping aid and was not used in the main decision framework. A three-cluster solution was retained for the displayed typology figure on the basis of the elbow method.
+Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity, but this step was retained only as a descriptive visual grouping aid and was not used in the main decision framework. A three-cluster solution was retained for the displayed typology figure (Supplementary Fig. S130) on the basis of the elbow method.
 
 ### Exploratory disease-level recovery-speed analyses
 
