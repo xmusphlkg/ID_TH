@@ -30,6 +30,37 @@ library(ggrepel)
 library(broom)
 library(factoextra)
 
+run_appendix_builder <- function() {
+  builder_script <- normalizePath("./build_supplementary_appendix.py", winslash = "/", mustWork = TRUE)
+  env_python <- Sys.getenv("PYTHON_BIN", unset = "")
+  candidates <- Filter(
+    function(x) nzchar(x$cmd),
+    list(
+      list(cmd = env_python, args = character()),
+      list(cmd = Sys.which("python3"), args = character()),
+      list(cmd = Sys.which("py"), args = c("-3")),
+      list(cmd = Sys.which("python"), args = character())
+    )
+  )
+
+  if (length(candidates) == 0) {
+    stop("Could not find a Python interpreter to run build_supplementary_appendix.py.")
+  }
+
+  for (candidate in candidates) {
+    status <- tryCatch(
+      system2(candidate$cmd, c(candidate$args, shQuote(builder_script, type = "cmd"))),
+      error = function(e) e
+    )
+
+    if (identical(status, 0L)) {
+      return(invisible(NULL))
+    }
+  }
+
+  stop("Supplementary appendix builder failed. Check Python availability and the appendix builder output.")
+}
+
 cat("Start data transformation...\n")
 source('./0_b_population.R')
 source('./1_a_data_trans.R')
@@ -64,30 +95,32 @@ source('./8_b_robustness_operational.R')
 cat("Start part 10: endpoint, context, and usability analysis...\n")
 source('./8_c_endpoints_context_usability.R')
 
-cat("Start part 11: refresh supplementary appendix text and tables...\n")
-# 9_b internally runs 9_a_generate_appendix_source_tables.R
-source('./9_b_refresh_supplementary_appendix.R')
-
-cat("Start part 12: generate supplementary flow figure...\n")
+cat("Start part 11: generate supplementary flow figure...\n")
 source('./9_c_generate_flow_figure.R')
 
-cat("Start part 13: external pertussis decision support case study...\n")
+cat("Start part 12: external pertussis decision support case study...\n")
 source('./8_d_external_pertussis_decision_support.R')
 
-cat("Start part 14: temporal utility validation...\n")
+cat("Start part 13: temporal utility validation...\n")
 source('./8_e_temporal_utility_validation.R')
 
-cat("Start part 15: placebo interruption and interval calibration...\n")
+cat("Start part 14: placebo interruption and interval calibration...\n")
 source('./8_f_falsification_calibration.R')
 
-cat("Start part 16: transform and denominator sensitivity...\n")
+cat("Start part 15: transform and denominator sensitivity...\n")
 source('./8_g_transform_rate_sensitivity.R')
 
-cat("Start part 17: seasonal uncertainty and reconstruction sensitivity...\n")
+cat("Start part 16: seasonal uncertainty and reconstruction sensitivity...\n")
 source('./8_h_seasonal_uncertainty.R')
 
-cat("Start part 18: segmented BP comparator...\n")
+cat("Start part 17: segmented BP comparator...\n")
 source('./8_i_bp_segmented_comparator.R')
+
+cat("Start part 17b: threshold-tolerance stress-test figure...\n")
+source('./S129_threshold_tolerance_figure.R')
+
+cat("Start part 18: refresh supplementary appendix from Python...\n")
+run_appendix_builder()
 
 cat("Start part 19: regenerate npjDM figure set (fig2-fig5); Figure 1 is now specified in ../manuscript/figure1_ai_brief.md for external generation...\n")
 source('./fig2.R')

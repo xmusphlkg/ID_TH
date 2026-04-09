@@ -43,8 +43,6 @@ load(file.path(script_dir, "temp", "month.RData"))
 load(file.path(script_dir, "temp", "outcome.RData"))
 
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "Transform_rate_sensitivity.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 
 best_models <- read.xlsx(file.path(tables_dir, "Best_model_outcome.xlsx")) |>
@@ -457,31 +455,6 @@ summary_block <- c(
   sprintf("- `%s`", paste0("./Tables/", basename(summary_csv_path))),
   sprintf("- `%s`", paste0("./Tables/", basename(comparison_csv_path)))
 )
-
-writeLines(summary_block, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 9: Transform and denominator sensitivity",
-    "",
-    "This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.",
-    "",
-    "**Table S20. Portfolio-level transform and denominator sensitivity summary.**",
-    md_table(summary_table),
-    "",
-    "**Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.**",
-    if (nrow(exceptions_table) > 0) md_table(exceptions_table) else c(
-      "| Result | Value |",
-      "| --- | --- |",
-      "| Exceptions detected | None |"
-    ),
-    "",
-    "The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`."
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "TRANSFORM_RATE_SENSITIVITY", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
 
 message("Transform/rate sensitivity outputs written:")
 message(sprintf(" - %s", xlsx_path))

@@ -46,8 +46,6 @@ source(file.path(script_dir, "function", "forecast.R"))
 input_path <- file.path(project_root, "Data", "Pertussis incidence 6 country.xlsx")
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
 figure_dir <- file.path(project_root, "Outcome", "Appendix", "Supplementary Appendix 1_6")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "External_pertussis_decision_support.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(figure_dir, recursive = TRUE, showWarnings = FALSE)
@@ -180,31 +178,6 @@ md_table <- function(df) {
   })
 
   c(lines, rows)
-}
-
-replace_or_append_block <- function(lines, block_id, replacement_lines) {
-  begin_marker <- paste0("<!-- BEGIN ", block_id, " -->")
-  end_marker <- paste0("<!-- END ", block_id, " -->")
-  wrapped_replacement <- c(begin_marker, replacement_lines, end_marker)
-
-  begin_idx <- which(trimws(lines) == begin_marker)[1]
-  end_idx <- which(trimws(lines) == end_marker)[1]
-
-  if (!is.na(begin_idx) && !is.na(end_idx) && end_idx > begin_idx) {
-    return(c(
-      if (begin_idx > 1) lines[seq_len(begin_idx - 1)] else character(),
-      wrapped_replacement,
-      if (end_idx < length(lines)) lines[(end_idx + 1):length(lines)] else character()
-    ))
-  }
-
-  c(
-    lines,
-    "",
-    "<div style=\"page-break-after: always;\"></div>",
-    "",
-    wrapped_replacement
-  )
 }
 
 read_external_series <- function(path) {
@@ -1007,26 +980,6 @@ markdown_lines <- c(
   sprintf("- `%s`", country_pi_summary_csv_path)
 )
 
-writeLines(markdown_lines, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 6: External pertussis decision-support case study",
-    "",
-    "**Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**",
-    md_table(table_s17_md),
-    "",
-    "<div style=\"page-break-after: always;\"></div>",
-    "",
-    sprintf("![**Fig. S126. External pertussis decision-support case study.**](Supplementary%%20Appendix%%201_6/%s)", basename(figure_png_path)),
-    "",
-    "**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is above or below the counterfactual median."
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "EXTERNAL_PERTUSSIS_CASE_STUDY", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
-
 message("External pertussis decision-support outputs written:")
 message(sprintf(" - %s", summary_xlsx_path))
 message(sprintf(" - %s", summary_csv_path))
@@ -1034,4 +987,3 @@ message(sprintf(" - %s", cv_metrics_csv_path))
 message(sprintf(" - %s", forecast_csv_path))
 message(sprintf(" - %s", country_pi_summary_csv_path))
 message(sprintf(" - %s", figure_png_path))
-message(sprintf(" - %s", summary_md_path))

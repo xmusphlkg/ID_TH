@@ -6,6 +6,11 @@
   Kangguo Li et al. (2026)
 </div>
 
+<div style="page-break-after: always;"></div>
+
+**Contents**
+
+[toc]
 
 <div style="page-break-after: always;"></div>
 
@@ -17,11 +22,11 @@ The supplementary analyses were generated from a modular R and Python workflow t
 
 ### Disease-series curation and analytical subsets
 
-The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using a minimum requirement of continuous monthly coverage across all 144 pre-pandemic months from January 2008 to December 2019, plus disease-specific screening for sparse counts, non-seasonal or weak signal, and residual or unspecified disease definitions. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient pre-pandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Table S1**, **Supplementary Fig. S0**, and **Supplementary Table S3**.
+The source registry comprised 72 nationally notifiable disease series. Series were first screened for inclusion in the descriptive portfolio using explicit metadata flags and manual disease-name harmonization tables stored in the project workbook. Exclusion before the 43-disease descriptive analysis followed six operational categories: zero incidence throughout follow-up, overlapping aggregate surveillance categories, diseases not aligned with the infectious-disease focus of the paper, unstable or residual categories, incomplete recent reporting, and structural changes in surveillance definition. **Supplementary Table S2** lists the series removed at this stage. The retained 43 series were then reviewed for counterfactual suitability using a minimum requirement of continuous monthly coverage across all 144 pre-pandemic months from January 2008 to December 2019, plus disease-specific screening for sparse counts, non-seasonal or weak signal, and residual or unspecified disease definitions. Nineteen diseases were kept for descriptive trend, age, and spatial analyses but excluded from counterfactual forecasting because of insufficient pre-pandemic duration, sparse counts, non-seasonal or weak signal, or residual/unspecified disease definitions. The final forecasting subset therefore contained 24 diseases, as summarized in **Supplementary Table S1**, and **Supplementary Table S3**.
 
 ### Construction of the monthly analytical cache
 
-Monthly national counts for 2008–2024 were imported from cleaned Bureau of Epidemiology surveillance tables and restricted to national totals. Annual denominators were linked from the United Nations World Population Prospects file, and annual province-level denominators for recent weekly surveillance outputs were linked from province population tables. Incidence and mortality rates were recalculated as counts per 100 000 population after all replacements and harmonization steps, rather than being inherited directly from the raw rate files.
+Monthly national counts for 2008鈥?024 were imported from cleaned Bureau of Epidemiology surveillance tables and restricted to national totals. Annual denominators were linked from the United Nations World Population Prospects file, and annual province-level denominators for recent weekly surveillance outputs were linked from province population tables. Incidence and mortality rates were recalculated as counts per 100 000 population after all replacements and harmonization steps, rather than being inherited directly from the raw rate files.
 
 For disease $d$ in year or month $t$, incidence and mortality rates were calculated as
 
@@ -31,11 +36,11 @@ $$
 \mathrm{Mortality}_{d,t} = \frac{\mathrm{Deaths}_{d,t}}{\mathrm{Population}_t} \times 100000.
 $$
 
-To support complete follow-up through December 2025, weekly surveillance extracts were collected separately for cases and deaths from the Department of Disease Control dashboard and harmonized to a common disease-name dictionary, province-name dictionary, and International Organization for Standardization (ISO) week-year calendar. In the final analytical cache used by the main models, official monthly data were retained for the stable overlap period and reconstructed weekly-based monthly values were used to fill the incompletely updated late period, especially 2024–2025. This design allowed the main analyses to preserve the historical monthly reporting backbone while extending the series to a complete endpoint for forecasting comparisons.
+To support complete follow-up through December 2025, weekly surveillance extracts were collected separately for cases and deaths from the Department of Disease Control dashboard and harmonized to a common disease-name dictionary, province-name dictionary, and International Organization for Standardization (ISO) week-year calendar. In the final analytical cache used by the main models, official monthly data were retained for the stable overlap period and reconstructed weekly-based monthly values were used to fill the incompletely updated late period, especially 2024鈥?025. This design allowed the main analyses to preserve the historical monthly reporting backbone while extending the series to a complete endpoint for forecasting comparisons.
 
 ### Monthly reconstruction and validation
 
-Case counts were reconstructed from weekly totals by a constrained temporal disaggregation procedure implemented at the disease-year level. First, each ISO week was mapped to its set of contributing calendar dates and to a representative week-midpoint date, with explicit handling of ISO week 1 in late December and ISO weeks 52–53 in early January. Second, a natural cubic spline was fitted to the sequence of observed weekly totals against week-midpoint dates. Third, the spline was evaluated on each day of the year to obtain a preliminary daily trajectory, negative values were truncated to zero, and the daily predictions were rescaled within each ISO week so that the reconstructed daily values summed exactly to the original observed weekly total. Fourth, fractional daily values were converted to integer counts by flooring and then redistributing the remaining counts to days with the largest fractional remainders. When there were too few observed weeks to support spline fitting, or when spline fitting was unstable, the weekly total was distributed evenly across the contributing days as a fallback. This algorithm therefore preserved observed weekly sums exactly while producing a smooth day-level bridge to calendar months.
+Case counts were reconstructed from weekly totals by a constrained temporal disaggregation procedure implemented at the disease-year level. First, each ISO week was mapped to its set of contributing calendar dates and to a representative week-midpoint date, with explicit handling of ISO week 1 in late December and ISO weeks 52鈥?3 in early January. Second, a natural cubic spline was fitted to the sequence of observed weekly totals against week-midpoint dates. Third, the spline was evaluated on each day of the year to obtain a preliminary daily trajectory, negative values were truncated to zero, and the daily predictions were rescaled within each ISO week so that the reconstructed daily values summed exactly to the original observed weekly total. Fourth, fractional daily values were converted to integer counts by flooring and then redistributing the remaining counts to days with the largest fractional remainders. When there were too few observed weeks to support spline fitting, or when spline fitting was unstable, the weekly total was distributed evenly across the contributing days as a fallback. This algorithm therefore preserved observed weekly sums exactly while producing a smooth day-level bridge to calendar months.
 
 If week $w$ had observed total $W_w$, spline-based non-negative preliminary daily weights $g_{w,d}$ for days $d \in w$, and $\sum_{d \in w} g_{w,d} > 0$, the rescaled daily counts were
 
@@ -59,17 +64,17 @@ $$
 \widehat{D}_m = \sum_w \widehat{D}_{w,m}.
 $$
 
-Validation of the weekly-to-monthly reconstruction was conducted in the overlap period for which both official monthly data and weekly surveillance data were available. Disease-specific panels in **Supplementary Fig. S1-S86** compare observed weekly totals, reconstructed weekly totals, and official versus reconstructed monthly totals. Summary metrics in **Supplementary Tables S6 and S7** were computed from disease-month pairs in 2020–2023 and included Pearson correlation, mean and median absolute error, and mean and median absolute percentage error. The main text reports the overlap-period summaries for the full set of retained disease-month observations and for selected high-burden diseases that materially drive the national results.
+Validation of the weekly-to-monthly reconstruction was conducted in the overlap period for which both official monthly data and weekly surveillance data were available. Disease-specific panels in **Supplementary Fig. S1-S86** compare observed weekly totals, reconstructed weekly totals, and official versus reconstructed monthly totals. Summary metrics in **Supplementary Tables S6 and S7** were computed from disease-month pairs in 2020鈥?023 and included Pearson correlation, mean and median absolute error, and mean and median absolute percentage error. The main text reports the overlap-period summaries for the full set of retained disease-month observations and for selected high-burden diseases that materially drive the national results.
 
 ### Descriptive trend, ranking, age, and spatial analyses
 
 For descriptive national summaries, monthly disease-specific counts were aggregated to annual totals and to monthly all-disease totals. Disease rankings by cumulative burden and fatal burden were obtained directly from summed counts across the study period. Category-specific temporal panels in **Supplementary Fig. S114-S123** were produced by aggregating counts within transmission group and extracting smooth trend components using seasonal-trend decomposition using Loess (STL). The category heatmaps displayed within-disease normalized incidence or mortality rates to emphasize within-series temporal structure rather than absolute scale.
 
-Age-specific analyses required additional harmonization because historical monthly age files and recent weekly dashboard age outputs used different age-bin definitions. Historical age-stratified data were therefore converted to single-year age estimates with a penalized composite link model and then re-aggregated into seven target groups: 0–4, 5–9, 10–14, 15–19, 20–39, 40–59, and 60+ years. To stabilize estimation, a small constant was added before fitting when needed, fitted values were rescaled to preserve the original group total exactly, and a simple uniform split was used when the total count in a disease-year cell was too sparse to support reliable smoothing. Recent weekly age data were collapsed into the same seven target groups and appended to the harmonized historical series. Validation in 2020–2023 compared reconstructed age-group totals against directly observed weekly age totals; the corresponding scatterplots are shown in **Supplementary Fig. S113**. Age-ranking figures were then summarized in two-year blocks to reduce visual noise and to emphasize shifts in the leading diseases within each age stratum.
+Age-specific analyses required additional harmonization because historical monthly age files and recent weekly dashboard age outputs used different age-bin definitions. Historical age-stratified data were therefore converted to single-year age estimates with a penalized composite link model and then re-aggregated into seven target groups: 0鈥?, 5鈥?, 10鈥?4, 15鈥?9, 20鈥?9, 40鈥?9, and 60+ years. To stabilize estimation, a small constant was added before fitting when needed, fitted values were rescaled to preserve the original group total exactly, and a simple uniform split was used when the total count in a disease-year cell was too sparse to support reliable smoothing. Recent weekly age data were collapsed into the same seven target groups and appended to the harmonized historical series. Validation in 2020鈥?023 compared reconstructed age-group totals against directly observed weekly age totals; the corresponding scatterplots are shown in **Supplementary Fig. S113**. Age-ranking figures were then summarized in two-year blocks to reduce visual noise and to emphasize shifts in the leading diseases within each age stratum.
 
-The age-harmonization validation is shown explicitly in **Supplementary Fig. S113**, which compares estimated and directly observed age-group totals for both cases and deaths during the 2020–2023 overlap period. This figure was included to document that the age-reconstruction step was adequate for the downstream age-specific descriptive analyses rather than to support a separate inferential result.
+The age-harmonization validation is shown explicitly in **Supplementary Fig. S113**, which compares estimated and directly observed age-group totals for both cases and deaths during the 2020鈥?023 overlap period. This figure was included to document that the age-reconstruction step was adequate for the downstream age-specific descriptive analyses rather than to support a separate inferential result.
 
-Province-level analyses combined two sources. For 2008–2023, province-specific incidence and mortality rates were obtained from the cleaned rate files after excluding national, zone-level, and region-level records. For the recent weekly period, province-specific case and death totals were aggregated from dashboard extracts and converted to province-year incidence and mortality rates using province population denominators. Province names were harmonized to the Database of Global Administrative Areas (GADM) Thailand shapefile before mapping. **Supplementary Fig. S124-S125** presents the overview province maps for the leading disease by incidence and mortality across calendar years; the full disease-specific spatial panels were generated in the same appendix output set.
+Province-level analyses combined two sources. For 2008鈥?023, province-specific incidence and mortality rates were obtained from the cleaned rate files after excluding national, zone-level, and region-level records. For the recent weekly period, province-specific case and death totals were aggregated from dashboard extracts and converted to province-year incidence and mortality rates using province population denominators. Province names were harmonized to the Database of Global Administrative Areas (GADM) Thailand shapefile before mapping. **Supplementary Fig. S124-S125** presents the overview province maps for the leading disease by incidence and mortality across calendar years; the full disease-specific spatial panels were generated in the same appendix output set.
 
 ### Trend decomposition and breakpoint estimation
 
@@ -195,7 +200,7 @@ $$
 
 Phase shifts were then corrected to the minimal signed displacement on a 12-month cycle, restricted to the interval $[-6, 6]$ months.
 
-Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity. A three-cluster solution was retained for the displayed typology figure on the basis of the elbow method.
+Among diseases with measurable cumulative deficit, suppression-rebound patterns were summarized by relative suppression magnitude and rebound intensity. The association between suppression duration and rebound intensity was examined with Pearson correlation and a linear trend overlay used only as a visualization aid. Disease typologies were then explored by k-means clustering after standardizing relative suppression and rebound intensity, but this step was retained only as a descriptive visual grouping aid and was not used in the main decision framework. A three-cluster solution was retained for the displayed typology figure on the basis of the elbow method.
 
 ### Exploratory disease-level recovery-speed analyses
 
@@ -203,7 +208,7 @@ Exploratory determinants of recovery speed were analysed at the disease level us
 
 ### Sensitivity and robustness analyses
 
-Appendix sensitivity outputs include alternative RP thresholds and persistence windows in **Supplementary Table S5**, alternative model-selection rules in **Supplementary Table S11**, weekly-to-monthly overlap validation in **Supplementary Tables S6 and S7** and **Supplementary Fig. S1-S86**, and age-harmonization validation in **Supplementary Fig. S113**.
+Appendix sensitivity outputs include alternative RP thresholds and persistence windows in **Supplementary Table S5**, an exploratory threshold-tolerance stress test in **Supplementary Fig. S129**, alternative model-selection rules in **Supplementary Table S11**, weekly-to-monthly overlap validation in **Supplementary Tables S6 and S7** and **Supplementary Fig. S1-S86**, and age-harmonization validation in **Supplementary Fig. S113**.
 
 ### Uncertainty-aware recovery and operational synthesis
 
@@ -217,8 +222,9 @@ Appendix-only extensions include three prespecified alternative recovery endpoin
 
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S1 -->
-**Table S1. Disease flow from 72 monitored series to the 43-disease descriptive analysis and 24-disease counterfactual analysis.**
+## Tables
+
+### Table S1. Disease flow from 72 monitored series to the 43-disease descriptive analysis and 24-disease counterfactual analysis.
 
 | Stage | N |
 | --- | --- |
@@ -226,31 +232,9 @@ Appendix-only extensions include three prespecified alternative recovery endpoin
 | Included in descriptive 43-disease analysis | 43 |
 | Included in 24-disease counterfactual analysis | 24 |
 
-**Supplementary Fig. S0. Two-stage disease-selection flow for the analytical subsets.**
-
-```text
-72 monitored notifiable disease series
-  -> Excluded before descriptive analysis (n = 29)
-     11 overlapping surveillance categories
-     6 conditions not aligned with the transmissible infectious-disease framework
-     5 ill-defined or residual categories
-     3 zero-incidence series
-     3 incompletely reported recent series
-     1 series with structural surveillance-definition change
-  -> Retained for descriptive 43-disease analysis (n = 43)
-     -> Excluded from counterfactual modelling (n = 19)
-        12 sparse or insufficient-count series
-        3 non-seasonal series
-        2 insufficient-duration series
-        2 residual or unspecified series
-     -> Retained for 24-disease counterfactual analysis (n = 24)
-```
-
-<!-- END TABLE_S1 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S2 -->
-**Table S2. Excluded disease series and exclusion category.**
+### Table S2. Excluded disease series and exclusion category.
 
 | Raw disease name | Exclusion category |
 | --- | --- |
@@ -286,11 +270,9 @@ Appendix-only extensions include three prespecified alternative recovery endpoin
 
 These 29 excluded series were concentrated in overlapping surveillance categories (11), diseases outside the transmissible infectious-disease framework (6), ill-defined or residual categories (5), zero-incidence series (3), incompletely reported recent series (3), and one series with a structural surveillance-definition change.
 
-<!-- END TABLE_S2 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S3 -->
-**Table S3. Diseases retained in the 43-disease descriptive analysis but not modelled counterfactually, with direct reason for descriptive-only retention.**
+### Table S3. Diseases retained in the 43-disease descriptive analysis but not modelled counterfactually, with direct reason for descriptive-only retention.
 
 | Disease | Shortname | Group | Reason for descriptive-only retention |
 | --- | --- | --- | --- |
@@ -316,66 +298,60 @@ These 29 excluded series were concentrated in overlapping surveillance categorie
 
 Across these 19 diseases, the main reasons for descriptive-only retention were insufficient pre-pandemic counts or sparse long-horizon signal (12 diseases), non-seasonal pre-pandemic structure (3 diseases), insufficient time coverage (2 diseases), and ill-defined residual categories (2 diseases). This pattern indicates that the 24-disease forecasting subset was selected primarily on time-series suitability rather than on a single transmission category, although vector-borne and respiratory pathogens remained differentially represented after this second-stage restriction. In this table and subsequent appendix tables, IDs in group labels denote infectious diseases.
 
-<!-- END TABLE_S3 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S4 -->
-**Table S4. Predictor definitions used in time-to-recovery analyses**
+### Table S4. Predictor definitions used in time-to-recovery analyses
 
 | Disease | Category | Incubation period, days | Infectious period | Vaccine | Vaccine protection | Natural protection |
 | --- | --- | --- | --- | --- | --- | --- |
-| Amebiasis | Gastrointestinal IDs |  21 | 1 month - 1 year | Unavailable | None | Short-term |
-| Shigellosis | Gastrointestinal IDs |   2 | <1 month | Unavailable | None | Short-term |
-| HAV | Gastrointestinal IDs |  28 | 1 month - 1 year | Optional | Long-term | Long-term |
-| HFMD | Gastrointestinal IDs |   4 | <1 month | Optional | Short-term | Short-term |
-| Typhoid | Gastrointestinal IDs |  10 | 1 month - 1 year | Optional | Short-term | Short-term |
-| Chickenpox | Respiratory IDs |  15 | <1 month | Optional | Long-term | Long-term |
-| Influenza | Respiratory IDs |   2 | <1 month | EPI | Short-term | Short-term |
-| Mumps | Respiratory IDs |  17 | <1 month | EPI | Long-term | Long-term |
-| Pneumonia | Respiratory IDs |  14 | <1 month | Optional | Short-term | Short-term |
-| Rubella | Respiratory IDs |  17 | <1 month | EPI | Long-term | Long-term |
-| Scarlet fever | Respiratory IDs |   3 | <1 month | Unavailable | None | Short-term |
-| Chancroid | Sexually IDs |   6 | <1 month | Unavailable | None | None |
-| CA (HPV) | Sexually IDs |  90 | 1 month - 1 year | EPI | Long-term | None |
-| Genital herpes | Sexually IDs |   7 | >1 year | Unavailable | None | None |
-| Gonorrhoea | Sexually IDs |   4 | 1 month - 1 year | Unavailable | None | None |
-| HBV | Sexually IDs |  90 | >1 year | EPI | Long-term | Long-term |
-| HCV | Sexually IDs | 100 | >1 year | Unavailable | None | None |
-| Syphilis | Sexually IDs |  21 | 1 month - 1 year | Unavailable | None | None |
-| Dengue fever | Vector-borne and zoonotic IDs |   6 | <1 month | Optional | Long-term | Long-term |
-| Leptospirosis | Vector-borne and zoonotic IDs |   8 | 1 month - 1 year | Unavailable | None | Short-term |
-| Malaria | Vector-borne and zoonotic IDs |  13 | 1 month - 1 year | Optional | Short-term | Short-term |
-| Melioidosis | Vector-borne and zoonotic IDs |   9 | NA | Unavailable | None | Short-term |
-| Scrub Typhus | Vector-borne and zoonotic IDs |  10 | NA | Unavailable | None | Short-term |
-| S. suis | Vector-borne and zoonotic IDs |   2 | NA | Unavailable | None | Short-term |
+| Amebiasis | Gastrointestinal IDs | 21 | 1 month - 1 year | Unavailable | NA | Short-term |
+| Shigellosis | Gastrointestinal IDs | 2 | <1 month | Unavailable | NA | Short-term |
+| HAV | Gastrointestinal IDs | 28 | 1 month - 1 year | Optional | Long-term | Long-term |
+| HFMD | Gastrointestinal IDs | 4 | <1 month | Optional | Short-term | Short-term |
+| Typhoid | Gastrointestinal IDs | 10 | 1 month - 1 year | Optional | Short-term | Short-term |
+| Chickenpox | Respiratory IDs | 15 | <1 month | Optional | Long-term | Long-term |
+| Influenza | Respiratory IDs | 2 | <1 month | EPI | Short-term | Short-term |
+| Mumps | Respiratory IDs | 17 | <1 month | EPI | Long-term | Long-term |
+| Pneumonia | Respiratory IDs | 14 | <1 month | Optional | Short-term | Short-term |
+| Rubella | Respiratory IDs | 17 | <1 month | EPI | Long-term | Long-term |
+| Scarlet fever | Respiratory IDs | 3 | <1 month | Unavailable | NA | Short-term |
+| Chancroid | Sexually IDs | 6 | <1 month | Unavailable | NA | NA |
+| CA (HPV) | Sexually IDs | 90 | 1 month - 1 year | EPI | Long-term | NA |
+| Genital herpes | Sexually IDs | 7 | >1 year | Unavailable | NA | NA |
+| Gonorrhoea | Sexually IDs | 4 | 1 month - 1 year | Unavailable | NA | NA |
+| HBV | Sexually IDs | 90 | >1 year | EPI | Long-term | Long-term |
+| HCV | Sexually IDs | 100 | >1 year | Unavailable | NA | NA |
+| Syphilis | Sexually IDs | 21 | 1 month - 1 year | Unavailable | NA | NA |
+| Dengue fever | Vector-borne and zoonotic IDs | 6 | <1 month | Optional | Long-term | Long-term |
+| Leptospirosis | Vector-borne and zoonotic IDs | 8 | 1 month - 1 year | Unavailable | NA | Short-term |
+| Malaria | Vector-borne and zoonotic IDs | 13 | 1 month - 1 year | Optional | Short-term | Short-term |
+| Melioidosis | Vector-borne and zoonotic IDs | 9 | NA | Unavailable | NA | Short-term |
+| Scrub Typhus | Vector-borne and zoonotic IDs | 10 | NA | Unavailable | NA | Short-term |
+| S. suis | Vector-borne and zoonotic IDs | 2 | NA | Unavailable | NA | Short-term |
 
 This lookup table covers all 24 modelled diseases and supplied the disease-level predictors used in the recovery-timing analyses. Vaccine status was classified as unavailable for 12 diseases, optional for 7 diseases, and part of the national Expanded Program on Immunization (EPI) schedule for 5 diseases. In this first disease-metadata table, HAV denotes hepatitis A virus, HFMD denotes hand, foot, and mouth disease, CA (HPV) denotes condyloma acuminatum associated with human papillomavirus, HBV denotes hepatitis B virus, HCV denotes hepatitis C virus, *S. suis* denotes *Streptococcus suis*, and NA denotes not applicable.
 
-<!-- END TABLE_S4 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S5 -->
-**Table S5. Sensitivity of RP/BP classifications to alternative RP thresholds and persistence requirements.**
+### Table S5. Sensitivity of RP/BP classifications to alternative RP thresholds and persistence requirements.
 
 | Threshold | Consecutive months | Balanced | RP achieved without BP | Suppressed | No deficit | Diseases reclassified vs primary analysis |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0.95 | 3 | 14 | 8 | 1 | 1 | None |
-| 0.90 | 2 | 14 | 8 | 1 | 1 | None |
-| 0.90 | 3 | 14 | 8 | 1 | 1 | None |
-| 0.90 | 4 | 14 | 8 | 1 | 1 | None |
+| 0.9 | 2 | 14 | 8 | 1 | 1 | None |
+| 0.9 | 3 | 14 | 8 | 1 | 1 | None |
+| 0.9 | 4 | 14 | 8 | 1 | 1 | None |
 | 0.95 | 2 | 14 | 8 | 1 | 1 | None |
 | 0.95 | 4 | 14 | 8 | 1 | 1 | None |
-| 1.00 | 2 | 14 | 8 | 1 | 1 | None |
-| 1.00 | 3 | 14 | 8 | 1 | 1 | None |
-| 1.00 | 4 | 14 | 8 | 1 | 1 | None |
+| 1 | 2 | 14 | 8 | 1 | 1 | None |
+| 1 | 3 | 14 | 8 | 1 | 1 | None |
+| 1 | 4 | 14 | 8 | 1 | 1 | None |
 
 These sensitivity checks were computed from the exported disease-specific outcome tables underlying Fig. 3. No disease changed RP/BP classification when the RP threshold was varied across 90%, 95%, and 100% with persistence requirements of 2, 3, or 4 months, indicating that the principal recovery typology was stable to plausible operational definition changes.
 
-<!-- END TABLE_S5 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S6 -->
-**Table S6. Summary metrics for overlap-period validation of weekly-to-monthly reconstruction.**
+### Table S6. Summary metrics for overlap-period validation of weekly-to-monthly reconstruction.
 
 | Metric | Value |
 | --- | --- |
@@ -389,11 +365,9 @@ These sensitivity checks were computed from the exported disease-specific outcom
 
 These overlap-period validation summaries were recalculated directly from the disease-month comparison cache used to validate the weekly-to-monthly reconstruction. The refreshed cache retains 2064 disease-month pairs across 2020-2023.
 
-<!-- END TABLE_S6 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S7 -->
-**Table S7. Illustrative disease-specific overlap-period reconstruction error metrics.**
+### Table S7. Illustrative disease-specific overlap-period reconstruction error metrics.
 
 | Disease | Mean absolute error | Median absolute error | Mean absolute percentage error, % | Median absolute percentage error, % | Pearson correlation |
 | --- | --- | --- | --- | --- | --- |
@@ -406,52 +380,48 @@ These overlap-period validation summaries were recalculated directly from the di
 
 High-burden diseases that materially contribute to the main analyses showed low relative reconstruction error across these 6 illustrative examples, whereas some low-count series had larger percentage error because small absolute monthly differences inflate relative measures. Together with the disease-specific visual comparisons in Part 1, these summaries support the robustness of the reconstructed monthly series for the principal RP/BP and seasonal analyses.
 
-<!-- END TABLE_S7 -->
 <div style="page-break-after: always;"></div>
 
-**Table S8. Legacy fixed-family robustness table not rerun in the refreshed square-root, 5,000-path primary workflow.**
+### Table S8. Legacy fixed-family robustness table not rerun in the refreshed square-root, 5,000-path primary workflow.
 
 In the refreshed primary analysis, robustness emphasis shifted to uncertainty propagation (**Table S9**), interruption-date sensitivity (**Table S10**), and alternative model-selection aggregation rules (**Table S11**). Uniform exponential-smoothing and uniform seasonal autoregressive integrated moving-average refits were not re-run as part of the updated end-to-end workflow and are therefore not re-reported here.
 
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S9 -->
-**Table S9. Uncertainty-aware RP/BP classification from 5,000 simulated counterfactual trajectories.**
+### Table S9. Uncertainty-aware RP/BP classification from 5,000 simulated counterfactual trajectories.
 
-| Shortname | Group | Primary deterministic phenotype | Probability of RP | Probability of BP | Primary phenotype stability | RP month, median (95% interval) | BP month, median (95% interval) |
+| Shortname | Group | Primary deterministic phenotype | Pr(RP) | Pr(BP) | Primary phenotype stability | RP month, median (95% interval) | BP month, median (95% interval) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pneumonia | Respiratory IDs | Balanced | 1.000 | 0.835 | 0.835 | 34 (26-54) | 59 (43-70) |
+| Pneumonia | Respiratory IDs | Balanced | 1.000 | 0.835 | 0.835 | 34 (26-54) | 59 (43-7) |
 | Influenza | Respiratory IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 44 (44-44) | NA |
 | Chickenpox | Respiratory IDs | Recovered but not balanced | 0.889 | 0.000 | 0.889 | 54 (7-67) | NA |
 | Mumps | Respiratory IDs | Recovered but not balanced | 1.000 | 0.000 | 1.000 | 68 (68-68) | NA |
-| Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.812 | 0.332 | 0.480 | 60 (6-66) | 65 (34.5-71) |
+| Scarlet fever | Respiratory IDs | Recovered but not balanced | 0.812 | 0.332 | 0.480 | 6 (6-66) | 65 (35-71) |
 | Rubella | Respiratory IDs | Suppressed | 0.000 | 0.000 | 1.000 | NA | NA |
-| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.339 | 0.383 | 30 (2-46) | 42 (3-65) |
-| Malaria | Vector-borne and zoonotic IDs | No deficit | 0.475 | 0.475 | 0.525 | 3 (0-24) | 4 (1-28) |
-| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (28-28) | 50 (50-51) |
-| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 0.858 | 0.773 | 0.773 | 11 (1-37) | 32 (3-64.3) |
-| Melioidosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (6-30) | 41 (35-45) |
+| Dengue fever | Vector-borne and zoonotic IDs | Recovered but not balanced | 0.723 | 0.339 | 0.383 | 3 (2-46) | 42 (3-65) |
+| Malaria | Vector-borne and zoonotic IDs | No deficit | 0.475 | 0.475 | 0.525 | 3 (-24) | 4 (1-28) |
+| Scrub Typhus | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (28-28) | 5 (5-51) |
+| Leptospirosis | Vector-borne and zoonotic IDs | Balanced | 0.858 | 0.773 | 0.773 | 11 (1-37) | 32 (3-64) |
+| Melioidosis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 28 (6-3) | 41 (35-45) |
 | S. suis | Vector-borne and zoonotic IDs | Balanced | 1.000 | 1.000 | 1.000 | 5 (5-5) | 7 (7-8) |
 | HFMD | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 9 (9-9) | 37 (32-55) |
 | Amebiasis | Gastrointestinal IDs | Balanced | 0.707 | 0.628 | 0.628 | 29 (4-48) | 38 (24-63) |
 | Shigellosis | Gastrointestinal IDs | Recovered but not balanced | 0.715 | 0.351 | 0.364 | 7 (3-67) | 23 (3-68) |
 | Typhoid | Gastrointestinal IDs | Balanced | 1.000 | 1.000 | 1.000 | 31 (28-36) | 55 (52-61) |
 | HAV | Gastrointestinal IDs | Recovered but not balanced | 0.923 | 0.000 | 0.923 | 47 (1-61) | NA |
-| Gonorrhoea | Sexually IDs | Balanced | 0.999 | 0.822 | 0.822 | 36 (8-48) | 56 (43-70) |
-| Syphilis | Sexually IDs | Balanced | 0.429 | 0.300 | 0.300 | 34 (9-60) | 41 (14-66) |
+| Gonorrhoea | Sexually IDs | Balanced | 0.999 | 0.822 | 0.822 | 36 (8-48) | 56 (43-7) |
+| Syphilis | Sexually IDs | Balanced | 0.429 | 0.300 | 0.300 | 34 (9-6) | 41 (14-66) |
 | HBV | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 38 (36-41) | 52 (51-52) |
 | CA (HPV) | Sexually IDs | Balanced | 0.956 | 0.773 | 0.773 | 41 (4-53) | 52 (32-68) |
 | Genital herpes | Sexually IDs | Balanced | 1.000 | 1.000 | 1.000 | 36 (31-41) | 52 (51-53) |
-| Chancroid | Sexually IDs | Recovered but not balanced | 0.996 | 0.224 | 0.772 | 48 (8-50) | 66 (55-71) |
-| HCV | Sexually IDs | Balanced | 0.955 | 0.947 | 0.947 | 25 (0-41) | 38 (1-55) |
+| Chancroid | Sexually IDs | Recovered but not balanced | 0.996 | 0.224 | 0.772 | 48 (8-5) | 66 (55-71) |
+| HCV | Sexually IDs | Balanced | 0.955 | 0.947 | 0.947 | 25 (-41) | 38 (1-55) |
 
 Here, primary phenotype stability denotes the probability that the deterministic median-based phenotype was retained across the 5,000 simulated trajectories; values below 0.80 were treated as uncertainty-sensitive in the revised main-text review layer. Under that pragmatic flag, 9 diseases were uncertainty-sensitive: Scarlet fever, Dengue fever, Malaria, Leptospirosis, Amebiasis, Shigellosis, Syphilis, CA (HPV), Chancroid. For the `No deficit` phenotype, the reported RP/BP probabilities and timing summaries are descriptive outputs of the simulation workflow rather than decision-defining milestones.
 
-<!-- END TABLE_S9 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S10 -->
-**Table S10. Sensitivity of deterministic RP/BP classification to alternative interruption dates.**
+### Table S10. Sensitivity of deterministic RP/BP classification to alternative interruption dates.
 
 | Shortname | Group | 2020-01 status | 2020-03 status | 2020-04 status | Changed vs January in March analysis | Changed vs January in April analysis |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -482,13 +452,11 @@ Here, primary phenotype stability denotes the probability that the deterministic
 
 No disease changed classification when the analytical start date was moved from January 2020 to March 2020 or April 2020 (March changes: 0; April changes: 0), supporting the use of January 2020 as a pragmatic portfolio-level interruption anchor.
 
-<!-- END TABLE_S10 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S11 -->
-**Table S11. Alternative model-selection rules compared with the primary equal-weight composite rule.**
+### Table S11. Alternative model-selection rules compared with the primary equal-weight composite rule.
 
-| Shortname | Group | Primary best model | Rank-aggregation best model | Symmetric mean absolute percentage error (sMAPE)-only best model | Horizon-weighted best model | Match under rank aggregation | Match under sMAPE-only | Match under horizon weighting |
+| Shortname | Group | Primary best model | Rank-aggregation best model | sMAPE-only best model | Horizon-weighted best model | Match under rank aggregation | Match under sMAPE-only | Match under horizon weighting |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HCV | Sexually IDs | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | ARIMA + Fourier | Yes | Yes | Yes |
 | Chancroid | Sexually IDs | ARIMA + Fourier | ARIMA + Fourier | Hybrid | ARIMA + Fourier | Yes | No | Yes |
@@ -517,11 +485,9 @@ No disease changed classification when the analytical start date was moved from 
 
 Across the 24 diseases, the primary selected family was also recovered for 16 diseases under rank aggregation, 15 diseases under sMAPE-only selection, and 21 diseases under the horizon-weighted composite. Most disagreements were concentrated in a small subset of diseases rather than a single model family, suggesting that the principal conclusions were not driven by one aggregation formula. In this table, ETS denotes exponential-smoothing state-space, SARIMA denotes seasonal autoregressive integrated moving-average, TBATS denotes trigonometric seasonality, Box-Cox transformation, autoregressive moving-average errors, trend, and seasonal components, and ARIMA + Fourier denotes autoregressive integrated moving-average with Fourier terms.
 
-<!-- END TABLE_S11 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S12 -->
-**Table S12. Joint operational synthesis of recovery phenotype and seasonal displacement.**
+### Table S12. Joint operational synthesis of recovery phenotype and seasonal displacement.
 
 | Shortname | Group | Primary deterministic phenotype | Shift vs pre (months) | Shift vs predicted (months) | Seasonal displacement | Operational priority |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -552,13 +518,11 @@ Across the 24 diseases, the primary selected family was also recovered for 16 di
 
 This joint table clarifies the retrospective decision utility of the framework. A monthly-incidence-only interpretation would have marked 22 diseases as monthly-normalized, but the integrated RP/BP-seasonality synthesis separated them into 8 low-priority routine-review cases, 6 cumulative-review cases, 6 recovered-but-recalibrate-seasonality cases, and 2 recalibrate-and-monitor cases, while 1 disease remained in high-priority manual review and 1 disease remained in no-deficit monitoring.
 
-<!-- END TABLE_S12 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S13 -->
-**Table S13. Alternative endpoint sensitivity analyses for the 24 modelled diseases.** Month values are counted from January 2020, so month 0 corresponds to January 2020.
+### Table S13. Alternative endpoint sensitivity analyses for the 24 modelled diseases. Month values are counted from January 2020, so month 0 corresponds to January 2020.
 
-| Shortname | Group | Primary phenotype | Primary RP month | 95% predictive-interval return month | Ratio>=1 month | Half-deficit month | 95% predictive-interval return achieved | Ratio>=1 achieved | Half-deficit achieved |
+| Shortname | Group | Primary phenotype | Primary RP month | PI95 month | Ratio>=1 month | Half-deficit month | PI95 achieved | Ratio>=1 achieved | Half-deficit achieved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pneumonia | Respiratory IDs | Balanced | 34 | 26 | 34 | 54 | Yes | Yes | Yes |
 | Influenza | Respiratory IDs | Recovered but not balanced | 44 | NA | 44 | 68 | No | Yes | Yes |
@@ -587,11 +551,9 @@ This joint table clarifies the retrospective decision utility of the framework. 
 
 Among the 23 diseases that entered a sustained cumulative deficit, 18 re-entered the disease-specific 95% predictive interval for at least 3 months, 22 met the sustained observed-to-expected ratio endpoint of at least 1.0, and 18 halved their cumulative deficit by end follow-up. The ratio endpoint preserved the same achieved-versus-not-achieved distinction as the primary RP definition for all 23 deficit-entering diseases, whereas the half-deficit milestone was reached by 4 of the 8 recovered-but-not-balanced diseases.
 
-<!-- END TABLE_S13 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S14 -->
-**Table S14. External contextual triangulation period summary.**
+### Table S14. External contextual triangulation period summary.
 
 | Period | Mean_Portfolio_Ratio | Median_Portfolio_Ratio | Mean_Stringency | Mean_SchoolClosing | Mean_InternalMovement | Mean_InternationalTravel | Mean_TestingPolicy | Mean_WHO_COVID_Cases |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -602,11 +564,9 @@ Among the 23 diseases that entered a sustained cumulative deficit, 18 re-entered
 
 The portfolio-level observed-to-expected ratio rose across the restriction-intensive, transition, and post-PHSM periods. Policy indicators were available through December 2022, whereas WHO COVID-19 burden was available through June 2024.
 
-<!-- END TABLE_S14 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S15 -->
-**Table S15. External contextual triangulation correlations and milestone dates.**
+### Table S15. External contextual triangulation correlations and milestone dates.
 
 Panel A. Monthly correlation between the portfolio observed-to-expected ratio and external indicators.
 
@@ -624,18 +584,16 @@ Panel B. Selected milestone months from the contextual triangulation.
 
 | Milestone | month | PortfolioRatio | StringencyIndex | SchoolClosing | InternalMovement | InternationalTravel | WHO_COVID_Cases |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Peak stringency month | 2020-04 | 0.444 | 76.264 | 3.000 | 2.000 | 4.000 | 1534 |
-| Peak WHO COVID-19 case month | 2021-08 | 0.220 | 73.223 | 2.452 | 2.000 | 2.968 | 676789 |
-| First sustained low-restriction month | 2022-10 | 0.649 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
-| First sustained portfolio normalization month | 2023-07 | 1.060 | NA | NA | NA | NA | 3612 |
+| Peak stringency month | 2020-04-01 | 0.444 | 76.264 | 3.000 | 2.000 | 4.000 | 1534 |
+| Peak WHO COVID-19 case month | 2021-08-01 | 0.220 | 73.223 | 2.452 | 2.000 | 2.968 | 676789 |
+| First sustained low-restriction month | 2022-10-01 | 0.649 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
+| First sustained portfolio normalization month | 2023-07-01 | 1.060 | NA | NA | NA | NA | 3612 |
 
 These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
 
-<!-- END TABLE_S15 -->
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TABLE_S16 -->
-**Table S16. Task-based heuristic assessment of the final dashboard build.**
+### Table S16. Task-based heuristic assessment of the final dashboard build.
 
 | TaskID | PublicHealthTask | PrimaryModule | MinimumInteractions | Discoverability | Interpretability | Auditability | SupportStatus | ResidualFriction | MeanHeuristicScore |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -648,16 +606,161 @@ These contextual summaries were used descriptively to anchor the timing of portf
 
 All six prespecified surveillance-review tasks were directly supported in the final build, with a mean heuristic score of 3.72 and median minimum interaction count of 1. This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing.
 
-<!-- END TABLE_S16 -->
 <div style="page-break-after: always;"></div>
 
-![**Fig. S0. disease_flow.**](Supplementary%20Appendix%201_0/flow_diagram.png)
+### Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.
 
-**Fig. S0. Two-stage disease-selection flow from 72 monitored series to the 43-disease descriptive portfolio and 24-disease counterfactual subset.** The first stage excluded 29 series because of overlapping aggregate categories (11), non-infectious scope (6), residual or ill-defined categories (5), zero incidence (3), incomplete recent reporting (3), or surveillance-definition shifts (1). The second stage excluded 19 descriptively retained diseases because of insufficient long-horizon signal (12), non-seasonal or weak seasonality (3), insufficient pre-pandemic duration (2), or residual or unspecified disease definitions (2). The right-hand criteria box summarizes the operational requirements for inclusion in counterfactual modelling.
+| Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Australia | Monthly surveillance | ARIMA + Fourier | 807.8 | 56.1 to 2506.1 | 2025-12-01 | 1084.2 | 4.6 to 3881.1 | 2020-01-01 | 2024-11-01 |
+| China | Monthly surveillance | ARIMA + Fourier | 1916.4 | 191.2 to 5413.1 | 2025-12-01 | 1346.3 | 0 to 6502.6 | 2021-12-01 | 2024-01-01 |
+| Japan | Weekly surveillance | ARIMA + Fourier | 217.2 | 23.2 to 551.3 | 2025-12-22 | 165.4 | 0 to 636.8 | 2025-01-20 | 2025-08-04 |
+| New Zealand | Monthly surveillance | ARIMA + Fourier | 35.5 | 0 to 700.3 | 2025-12-01 | 56.9 | 0 to 1259.7 | 2024-05-01 | 2024-12-01 |
+| Sweden | Monthly surveillance | ARIMA + Fourier | 58.3 | 29.6 to 109.5 | 2025-12-01 | 74.7 | 39.9 to 131.5 | 2024-03-01 | Not reached |
+| United States | Weekly surveillance | TBATS | 109.2 | 25.3 to 257.3 | 2025-12-28 | 87.9 | 2 to 269 | 2020-01-05 | Not reached |
+
+This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.
 
 <div style="page-break-after: always;"></div>
 
-## Part 1: Validation of data reconstruction
+### Table S18. Freeze-point temporal utility validation summary.
+
+| Freeze point | Validation end | Later review diseases | Framework captured | Incidence-only captured | Averted under-triage | Framework accuracy | Incidence-only accuracy |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-12-01 | 2024-12-01 | 17 | 17 | 6 | 11 | 0.958 | 0.542 |
+| 2024-06-01 | 2025-12-01 | 15 | 13 | 4 | 9 | 0.750 | 0.542 |
+
+This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.
+
+<div style="page-break-after: always;"></div>
+
+### Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.
+
+| Pseudo interruption | Diseases assessed | False alerts | False-alert rate | Tempered false alerts | Tempered false-alert rate | Mean 80% coverage | Mean 95% coverage | Mean 95% interval score | Mean WIS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pseudo interruption 2019 | 24 | 17 | 0.708 | 13 | 0.542 | 0.611 | 0.726 | 25681.83 | 2967.054 |
+| Pseudo interruption 2018 | 24 | 16 | 0.667 | 10 | 0.417 | 0.665 | 0.792 | 14527.48 | 1822.884 |
+| Pseudo interruption 2017 | 24 | 15 | 0.625 | 12 | 0.500 | 0.568 | 0.764 | 22530.86 | 2681.696 |
+
+This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.
+
+<div style="page-break-after: always;"></div>
+
+### Table S20. Portfolio-level transform and denominator sensitivity summary.
+
+| Config | DiseasesAssessed | PhenotypeChanged | StatusChanged | MaterialTimingShift | MedianAbsRPShift | MedianAbsBPShift | MaxAbsRPShift | MaxAbsBPShift | MeanDeltaPrRP | MeanDeltaPrBP |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Count log | 24 | 2 | 2 | 2 | 0 | 1 | 16 | 5 | -0.119 | -0.113 |
+| Rate sqrt | 24 | 3 | 3 | 7 | 0 | 3 | 12 | 16 | -0.041 | -0.091 |
+
+This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.
+
+<div style="page-break-after: always;"></div>
+
+### Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.
+
+| Shortname | Config | Baseline phenotype | Sensitivity phenotype | RP month delta | BP month delta | Delta Pr(RP) | Delta Pr(BP) | Delta primary-status probability |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Amebiasis | Rate sqrt | Balanced | Recovered but not balanced | 6 | NA | -0.002 | -0.338 | -0.213 |
+| Chancroid | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.296 | -0.209 | -0.472 |
+| Syphilis | Count log | Balanced | Suppressed | NA | NA | -0.139 | -0.135 | 0.195 |
+| Influenza | Rate sqrt | Recovered but not balanced | Balanced | -1 | NA | NA | NA | NA |
+| Shigellosis | Rate sqrt | Recovered but not balanced | Suppressed | NA | NA | -0.265 | -0.156 | 0.186 |
+| Leptospirosis | Count log | Balanced | Balanced | 16 | 0 | 0.042 | 0.072 | 0.072 |
+| Mumps | Count log | Recovered but not balanced | Recovered but not balanced | -10 | NA | NA | NA | NA |
+| Chickenpox | Rate sqrt | Recovered but not balanced | Recovered but not balanced | -12 | NA | NA | NA | NA |
+| HCV | Rate sqrt | Balanced | Balanced | 3 | 6 | NA | NA | NA |
+| HFMD | Rate sqrt | Balanced | Balanced | 0 | 16 | NA | NA | NA |
+| Melioidosis | Rate sqrt | Balanced | Balanced | 0 | 8 | NA | NA | NA |
+| S. suis | Rate sqrt | Balanced | Balanced | 0 | 13 | NA | NA | NA |
+| Scrub Typhus | Rate sqrt | Balanced | Balanced | 1 | 11 | NA | NA | NA |
+
+The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`.
+
+<div style="page-break-after: always;"></div>
+
+### Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.
+
+| Shortname | Point shift vs pre | 95% CI vs pre | Pr(|shift|>=2) vs pre | Point shift vs pred | 95% CI vs pred | Pr(|shift|>=2) vs pred | Borderline | COM/max agree |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CA (HPV) | 4 | 0.00 to 6.00 | 0.904 | 4 | 2.00 to 5.00 | 1.000 | Yes | No |
+| Genital herpes | 2 | 0.00 to 3.00 | 0.762 | 3 | 2.00 to 3.00 | 1.000 | Yes | Yes |
+| HAV | -5 | -6.00 to 5.00 | 0.990 | -5 | -6.00 to 5.00 | 1.000 | Yes | Yes |
+| HBV | 2 | 2.00 to 3.00 | 1.000 | 2 | 2.00 to 2.00 | 1.000 | Yes | Yes |
+| Melioidosis | -2 | -3.00 to 0.00 | 0.747 | -2 | -2.00 to 0.00 | 0.734 | Yes | Yes |
+| Mumps | 6 | -5.00 to 6.00 | 0.992 | 4 | 2.00 to 6.00 | 1.000 | Yes | Yes |
+| Rubella | 3 | -4.00 to 5.00 | 0.844 | 2 | -6.00 to 3.00 | 1.000 | Yes | Yes |
+| Syphilis | -2 | -5.00 to 1.00 | 0.536 | -3 | -5.00 to -1.00 | 0.915 | Yes | Yes |
+| Amebiasis | 0 | -2.00 to 1.00 | 0.139 | 0 | -1.00 to 1.00 | 0.000 | Yes | No |
+| Chancroid | 0 | -1.00 to 2.00 | 0.046 | 0 | 0.00 to 1.00 | 0.000 | Yes | No |
+| Chickenpox | -1 | -5.00 to 6.00 | 0.366 | -1 | -5.00 to 6.00 | 0.366 | Yes | Yes |
+| Gonorrhoea | 0 | -1.00 to 2.00 | 0.069 | 1 | 0.00 to 2.00 | 0.170 | Yes | Yes |
+| Influenza | 1 | -2.00 to 2.00 | 0.158 | 0 | -2.00 to 1.00 | 0.153 | Yes | Yes |
+| Scarlet fever | -1 | -3.00 to 5.00 | 0.470 | -1 | -5.00 to 4.00 | 0.294 | Yes | Yes |
+| Shigellosis | 1 | 0.00 to 2.00 | 0.142 | 1 | 0.00 to 2.00 | 0.145 | Yes | No |
+| Typhoid | 0 | -2.00 to 2.00 | 0.144 | -1 | -3.00 to 0.00 | 0.382 | Yes | Yes |
+| HCV | 4 | 3.00 to 5.00 | 1.000 | 4 | 3.00 to 5.00 | 1.000 | No | Yes |
+| Dengue fever | 0 | -1.00 to 1.00 | 0.007 | 0 | -1.00 to 1.00 | 0.000 | No | Yes |
+| HFMD | 1 | 0.00 to 1.00 | 0.000 | 0 | 0.00 to 0.00 | 0.000 | No | Yes |
+| Leptospirosis | 1 | 0.00 to 1.00 | 0.000 | 1 | 0.00 to 1.00 | 0.000 | No | Yes |
+| Malaria | 0 | 0.00 to 0.00 | 0.000 | 0 | 0.00 to 0.00 | 0.000 | No | Yes |
+| Pneumonia | 1 | 0.00 to 1.00 | 0.019 | 1 | 0.00 to 1.00 | 0.000 | No | Yes |
+| S. suis | 0 | -1.00 to 1.00 | 0.009 | 0 | -1.00 to 1.00 | 0.000 | No | Yes |
+| Scrub Typhus | 0 | 0.00 to 0.00 | 0.000 | 0 | 0.00 to 0.00 | 0.000 | No | Yes |
+
+This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.
+
+<div style="page-break-after: always;"></div>
+
+### Table S23. Queue changes under alternative weekly-to-monthly reconstruction.
+
+| Metric | Value |
+| --- | --- |
+| Diseases assessed | 24 |
+| Queue changes detected | 0 |
+| Shift flag changes detected | 0 |
+| Diseases with point-estimate changes only | 1 (Chancroid) |
+
+Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
+
+<div style="page-break-after: always;"></div>
+
+### Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.
+
+| Shortname | Primary BP month | Segmented BP month | Month delta | Agreement |
+| --- | --- | --- | --- | --- |
+| Amebiasis | 35 | 34 | -1 | Agree within 6 months |
+| CA (HPV) | 55 | 51 | -4 | Agree within 6 months |
+| Genital herpes | 52 | 47 | -5 | Agree within 6 months |
+| Gonorrhoea | 58 | 57 | -1 | Agree within 6 months |
+| HBV | 52 | 47 | -5 | Agree within 6 months |
+| HCV | 35 | 32 | -3 | Agree within 6 months |
+| Leptospirosis | 32 | 29 | -3 | Agree within 6 months |
+| Melioidosis | 36 | 37 | 1 | Agree within 6 months |
+| Pneumonia | 60 | 59 | -1 | Agree within 6 months |
+| Scrub Typhus | 50 | 49 | -1 | Agree within 6 months |
+| Syphilis | 40 | 38 | -2 | Agree within 6 months |
+| Typhoid | 54 | 54 | 0 | Agree within 6 months |
+| HFMD | 33 | 42 | 9 | Both reached, timing differs |
+| S. suis | 7 | 15 | 8 | Both reached, timing differs |
+| Chancroid | NA | NA | NA | Both unresolved |
+| Chickenpox | NA | NA | NA | Both unresolved |
+| Dengue fever | NA | NA | NA | Both unresolved |
+| HAV | NA | NA | NA | Both unresolved |
+| Influenza | NA | NA | NA | Both unresolved |
+| Malaria | NA | NA | NA | Both unresolved |
+| Mumps | NA | NA | NA | Both unresolved |
+| Rubella | NA | NA | NA | Both unresolved |
+| Scarlet fever | NA | NA | NA | Both unresolved |
+| Shigellosis | NA | NA | NA | Both unresolved |
+
+This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date. Across 24 modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for 12 disease(s), both approaches left 10 disease(s) unresolved, and 2 disease(s) showed materially different BP timing.
+
+<div style="page-break-after: always;"></div>
+
+## Figures
+
+### Part 1: Validation of data reconstruction (Fig. S1-S86)
 
 ![**Fig. S1. Pneumonia.**](Supplementary%20Appendix%201_1/cases/Pneumonia.png)
 
@@ -873,11 +976,11 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S43. Comparison of observed and reconstructed (A) weekly and (B) monthly cases of Encephalitis, 2020-2025.**
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S44. Pneumonia.**](Supplementary%20Appendix%201_1/deaths/Pneumonia.png)
 
 **Fig. S44. Comparison of observed and reconstructed monthly deaths of Pneumonia, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S45. Influenza.**](Supplementary%20Appendix%201_1/deaths/Influenza.png)
 
@@ -897,15 +1000,17 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S48. Comparison of observed and reconstructed monthly deaths of Measles, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S49. Scarlet fever.**](Supplementary%20Appendix%201_1/deaths/Scarlet%20fever.png)
 
 **Fig. S49. Comparison of observed and reconstructed monthly deaths of Scarlet fever, 2020-2025.**
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S50. Rubella.**](Supplementary%20Appendix%201_1/deaths/Rubella.png)
 
 **Fig. S50. Comparison of observed and reconstructed monthly deaths of Rubella, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S51. Pertussis.**](Supplementary%20Appendix%201_1/deaths/Pertussis.png)
 
@@ -925,15 +1030,17 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S54. Comparison of observed and reconstructed monthly deaths of Dengue fever, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S55. Malaria.**](Supplementary%20Appendix%201_1/deaths/Malaria.png)
 
 **Fig. S55. Comparison of observed and reconstructed monthly deaths of Malaria, 2020-2025.**
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S56. Scrub Typhus.**](Supplementary%20Appendix%201_1/deaths/Scrub%20Typhus.png)
 
 **Fig. S56. Comparison of observed and reconstructed monthly deaths of Scrub Typhus, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S57. Chikungunya.**](Supplementary%20Appendix%201_1/deaths/Chikungunya.png)
 
@@ -953,15 +1060,17 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S60. Comparison of observed and reconstructed monthly deaths of S. suis, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S61. Zika virus.**](Supplementary%20Appendix%201_1/deaths/Zika%20virus.png)
 
 **Fig. S61. Comparison of observed and reconstructed monthly deaths of Zika virus, 2020-2025.**
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S62. Filariasis.**](Supplementary%20Appendix%201_1/deaths/Filariasis.png)
 
 **Fig. S62. Comparison of observed and reconstructed monthly deaths of Filariasis, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S63. Trichinosis.**](Supplementary%20Appendix%201_1/deaths/Trichinosis.png)
 
@@ -981,26 +1090,27 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S66. Comparison of observed and reconstructed monthly deaths of Leishmaniasis, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S67. HFMD.**](Supplementary%20Appendix%201_1/deaths/HFMD.png)
 
 **Fig. S67. Comparison of observed and reconstructed monthly deaths of HFMD, 2020-2025.**
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S68. Amebiasis.**](Supplementary%20Appendix%201_1/deaths/Amebiasis.png)
 
 **Fig. S68. Comparison of observed and reconstructed monthly deaths of Amebiasis, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S69. Shigellosis.**](Supplementary%20Appendix%201_1/deaths/Shigellosis.png)
 
 **Fig. S69. Comparison of observed and reconstructed monthly deaths of Shigellosis, 2020-2025.**
 
-
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S70. Typhoid.**](Supplementary%20Appendix%201_1/deaths/Typhoid.png)
 
 **Fig. S70. Comparison of observed and reconstructed monthly deaths of Typhoid, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S71. Liver fluke.**](Supplementary%20Appendix%201_1/deaths/Liver%20fluke.png)
 
@@ -1009,7 +1119,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S72. HAV.**](Supplementary%20Appendix%201_1/deaths/HAV.png)
 
 **Fig. S72. Comparison of observed and reconstructed monthly deaths of HAV, 2020-2025.**
-
 
 <div style="page-break-after: always;"></div>
 
@@ -1021,16 +1130,17 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S74. Comparison of observed and reconstructed monthly deaths of Cholera, 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S75. HEV.**](Supplementary%20Appendix%201_1/deaths/HEV.png)
 
 **Fig. S75. Comparison of observed and reconstructed monthly deaths of HEV, 2020-2025.**
 
-
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S76. Enterovirus.**](Supplementary%20Appendix%201_1/deaths/Enterovirus.png)
 
 **Fig. S76. Comparison of observed and reconstructed monthly deaths of Enterovirus, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S77. Gonorrhoea.**](Supplementary%20Appendix%201_1/deaths/Gonorrhoea.png)
 
@@ -1039,7 +1149,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S78. Syphilis.**](Supplementary%20Appendix%201_1/deaths/Syphilis.png)
 
 **Fig. S78. Comparison of observed and reconstructed monthly deaths of Syphilis, 2020-2025.**
-
 
 <div style="page-break-after: always;"></div>
 
@@ -1051,15 +1160,17 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S80. Comparison of observed and reconstructed monthly deaths of CA (HPV), 2020-2025.**
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S81. Genital herpes.**](Supplementary%20Appendix%201_1/deaths/Genital%20herpes.png)
 
 **Fig. S81. Comparison of observed and reconstructed monthly deaths of Genital herpes, 2020-2025.**
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S82. Chancroid.**](Supplementary%20Appendix%201_1/deaths/Chancroid.png)
 
 **Fig. S82. Comparison of observed and reconstructed monthly deaths of Chancroid, 2020-2025.**
+
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S83. HCV.**](Supplementary%20Appendix%201_1/deaths/HCV.png)
 
@@ -1068,7 +1179,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S84. HDV.**](Supplementary%20Appendix%201_1/deaths/HDV.png)
 
 **Fig. S84. Comparison of observed and reconstructed monthly deaths of HDV, 2020-2025.**
-
 
 <div style="page-break-after: always;"></div>
 
@@ -1082,23 +1192,23 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 <div style="page-break-after: always;"></div>
 
-## Part 2: Detailed forecasting diagnostics and model verification
+<div style="page-break-after: always;"></div>
+
+### Part 2: Detailed forecasting diagnostics and model verification (Fig. S87-S110)
 
 ![**Fig. S87. Pneumonia.**](Supplementary%20Appendix%201_5/Pneumonia.png)
 
 **Fig. S87. Model selection and cross‑validation performance for Pneumonia: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S88. Influenza.**](Supplementary%20Appendix%201_5/Influenza.png)
 
 **Fig. S88. Model selection and cross‑validation performance for Influenza: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
+<div style="page-break-after: always;"></div>
+
 ![**Fig. S89. Chickenpox.**](Supplementary%20Appendix%201_5/Chickenpox.png)
 
 **Fig. S89. Model selection and cross‑validation performance for Chickenpox: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S90. Mumps.**](Supplementary%20Appendix%201_5/Mumps.png)
 
@@ -1110,9 +1220,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S91. Model selection and cross‑validation performance for Scarlet fever: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
-
 ![**Fig. S92. Rubella.**](Supplementary%20Appendix%201_5/Rubella.png)
 
 **Fig. S92. Model selection and cross‑validation performance for Rubella: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
@@ -1122,8 +1229,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S93. Dengue fever.**](Supplementary%20Appendix%201_5/Dengue%20fever.png)
 
 **Fig. S93. Model selection and cross‑validation performance for Dengue fever: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S94. Malaria.**](Supplementary%20Appendix%201_5/Malaria.png)
 
@@ -1135,8 +1240,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S95. Model selection and cross‑validation performance for Scrub Typhus: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S96. Leptospirosis.**](Supplementary%20Appendix%201_5/Leptospirosis.png)
 
 **Fig. S96. Model selection and cross‑validation performance for Leptospirosis: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
@@ -1146,8 +1249,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S97. Melioidosis.**](Supplementary%20Appendix%201_5/Melioidosis.png)
 
 **Fig. S97. Model selection and cross‑validation performance for Melioidosis: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S98. S. suis.**](Supplementary%20Appendix%201_5/S.%20suis.png)
 
@@ -1159,8 +1260,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S99. Model selection and cross‑validation performance for HFMD: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S100. Amebiasis.**](Supplementary%20Appendix%201_5/Amebiasis.png)
 
 **Fig. S100. Model selection and cross‑validation performance for Amebiasis: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
@@ -1170,8 +1269,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S101. Shigellosis.**](Supplementary%20Appendix%201_5/Shigellosis.png)
 
 **Fig. S101. Model selection and cross‑validation performance for Shigellosis: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S102. Typhoid.**](Supplementary%20Appendix%201_5/Typhoid.png)
 
@@ -1183,8 +1280,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S103. Model selection and cross‑validation performance for HAV: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S104. Gonorrhoea.**](Supplementary%20Appendix%201_5/Gonorrhoea.png)
 
 **Fig. S104. Model selection and cross‑validation performance for Gonorrhoea: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
@@ -1194,8 +1289,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 ![**Fig. S105. Syphilis.**](Supplementary%20Appendix%201_5/Syphilis.png)
 
 **Fig. S105. Model selection and cross‑validation performance for Syphilis: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
-
-<div style="page-break-after: always;"></div>
 
 ![**Fig. S106. HBV.**](Supplementary%20Appendix%201_5/HBV.png)
 
@@ -1207,8 +1300,6 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S107. Model selection and cross‑validation performance for CA (HPV): multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S108. Genital herpes.**](Supplementary%20Appendix%201_5/Genital%20herpes.png)
 
 **Fig. S108. Model selection and cross‑validation performance for Genital herpes: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
@@ -1219,23 +1310,21 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 **Fig. S109. Model selection and cross‑validation performance for Chancroid: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
-<div style="page-break-after: always;"></div>
-
 ![**Fig. S110. HCV.**](Supplementary%20Appendix%201_5/HCV.png)
 
 **Fig. S110. Model selection and cross‑validation performance for HCV: multi‑split forecasts and model comparison.** Panels show the seven candidate forecasting families, spanning neural-network, exponential-smoothing, seasonal autoregressive integrated moving-average, trigonometric state-space, ensemble, Bayesian structural, and Fourier-harmonic regression specifications, together with split-specific forecast-accuracy comparison tables.
 
 <div style="page-break-after: always;"></div>
 
-## Part 3: Disease ranking and age distribution validation
+<div style="page-break-after: always;"></div>
+
+### Part 3: Disease ranking and age distribution validation (Fig. S111-S113)
 
 ![**Fig. S111. ranking_all.**](Supplementary%20Appendix%201_3/ranking_all.png)
 
 **Fig. S111. Biennial rankings of infectious diseases (A) cases and (B) deaths by reported cases within each time window (2008–2009 to 2024–2025).** Nodes are coloured by disease category, and connecting arrows indicate changes in rank between consecutive windows (increase, decrease, or unchanged).
 
-<div style="page-break-after: always;"></div>
-
-![**Fig. S112. ranking_age.**](./Supplementary%20Appendix%201_3/age_patterns_main.png)
+![**Fig. S112. ranking_age.**](Supplementary%20Appendix%201_3/age_patterns_main.png)
 
 **Fig. S112. Shifts in age-specific disease patterns in Thailand, 2008–2025.** (A) Biennial rankings of the top 10 diseases by reported cases within each time window (2008–2009 to 2024–2025). Nodes are coloured by disease category, and connecting arrows indicate changes in rank between consecutive windows (increase, decrease, or unchanged); diseases outside the top 10 are grouped as “Others”. (B) Cumulative reported cases by age group for selected leading diseases across 2008–2025. (C) Dominant disease by cases for each age group and biennial window. (D) Biennial rankings of the top 10 diseases by reported deaths, displayed as in panel A. (E) Cumulative reported deaths by age group for selected leading diseases across 2008–2025 (inset shows expanded scale for younger age groups). (F) Dominant disease by deaths for each age group and biennial window. Disease categories are indicated by colour: respiratory, vector-borne and zoonotic, gastrointestinal, sexually transmitted, and other infectious diseases.
 
@@ -1248,7 +1337,7 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 <div style="page-break-after: always;"></div>
 
-## Part 4: Temporal trends of infectious diseases by category
+### Part 4: Temporal and spatial patterns of infectious diseases (Fig. S114-S125)
 
 ![**Fig. S114. Cases Gastrointestinal IDs.**](Supplementary%20Appendix%201_2/Cases%20Gastrointestinal%20IDs.png)
 
@@ -1310,7 +1399,7 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 <div style="page-break-after: always;"></div>
 
-## Part 5: Spatial distribution of incidence and mortality
+<div style="page-break-after: always;"></div>
 
 ![**Fig. S124. incidence.**](Supplementary%20Appendix%201_4/incidence.png)
 
@@ -1324,179 +1413,28 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN EXTERNAL_PERTUSSIS_CASE_STUDY -->
-## Part 6: External pertussis decision-support case study
-
-This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.
-
-**Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.**
-| Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Australia | Monthly surveillance | ARIMA + Fourier |  807.8 | 56.1 to 2506.1 | 2025-12-01 | 1084.2 | 4.6 to 3881.1 | 2020-01-01 | 2024-11-01 |
-| China | Monthly surveillance | ARIMA + Fourier | 1916.4 | 191.2 to 5413.1 | 2025-12-01 | 1346.3 | 0 to 6502.6 | 2021-12-01 | 2024-01-01 |
-| Japan | Weekly surveillance | ARIMA + Fourier |  217.2 | 23.2 to 551.3 | 2025-12-22 |  165.4 | 0 to 636.8 | 2025-01-20 | 2025-08-04 |
-| New Zealand | Monthly surveillance | ARIMA + Fourier |   35.5 | 0 to 700.3 | 2025-12-01 |   56.9 | 0 to 1259.7 | 2024-05-01 | 2024-12-01 |
-| Sweden | Monthly surveillance | ARIMA + Fourier |   58.3 | 29.6 to 109.5 | 2025-12-01 |   74.7 | 39.9 to 131.5 | 2024-03-01 | Not reached |
-| United States | Weekly surveillance | TBATS |  109.2 | 25.3 to 257.3 | 2025-12-28 |   87.9 | 2 to 269 | 2020-01-05 | Not reached |
-
-<div style="page-break-after: always;"></div>
+### Part 5: Supplementary transportability, validation, and sensitivity analyses (Fig. S126-S129)
 
 ![**Fig. S126. External pertussis decision-support case study.**](Supplementary%20Appendix%201_6/external_pertussis_decision_support.png)
 
-**Fig. S126. External pertussis decision-support case study across six countries.** Panel A compares candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. Panels B-G show observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is below or above the counterfactual median. The figure should be interpreted as supportive cross-setting evidence of workflow portability rather than external validation of the Thailand decision rules.
-<!-- END EXTERNAL_PERTUSSIS_CASE_STUDY -->
-
-<div style="page-break-after: always;"></div>
-
-<!-- BEGIN TEMPORAL_UTILITY_VALIDATION -->
-## Part 7: Temporal utility validation
-
-This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.
-
-**Table S18. Freeze-point temporal utility validation summary.**
-| Freeze point | Validation end | Later review diseases | Framework captured | Incidence-only captured | Averted under-triage | Framework accuracy | Incidence-only accuracy |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-12-01 | 2024-12-01 | 17 | 17 | 6 | 11 | 0.958 | 0.542 |
-| 2024-06-01 | 2025-12-01 | 15 | 13 | 4 |  9 | 0.750 | 0.542 |
+**Fig. S126. External pertussis decision-support case study across six countries.** (A) Candidate model performance using the same rolling hold-out composite-selection logic used in the main manuscript. (B-G) Observed pertussis incidence and the selected counterfactual median forecast for Australia, China, Japan, New Zealand, Sweden, and the United States. Shaded blue and gold bars mark the recovery-review and balance-review windows implied by the RP/BP logic, while green/red fills mark months or weeks in which observed incidence is below or above the counterfactual median. The figure should be interpreted as supportive cross-setting evidence of workflow portability rather than external validation of the Thailand decision rules.
 
 <div style="page-break-after: always;"></div>
 
 ![**Fig. S127. Temporal utility validation.**](Supplementary%20Appendix%201_7/temporal_utility_validation.png)
 
-**Fig. S127. Temporal utility validation across two decision freeze points.** Panel A shows the framework queue assigned to each disease at each freeze point, using the same prioritization logic as the main manuscript. Panel B compares how often the framework queue versus an incidence-only queue captured diseases that later required continued review, together with overall decision accuracy across the follow-up window.
-<!-- END TEMPORAL_UTILITY_VALIDATION -->
-
-<div style="page-break-after: always;"></div>
-
-<!-- BEGIN PLACEBO_INTERRUPTION_CALIBRATION -->
-## Part 8: Placebo interruption and predictive-distribution calibration
-
-This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.
-
-**Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.**
-| Pseudo interruption | Diseases assessed | False alerts | False-alert rate | Tempered false alerts | Tempered false-alert rate | Mean 80% coverage | Mean 95% coverage | Mean 95% interval score | Mean WIS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pseudo interruption 2019 | 24 | 17 | 0.708 | 13 | 0.542 | 0.611 | 0.726 | 25681.83 | 2967.054 |
-| Pseudo interruption 2018 | 24 | 16 | 0.667 | 10 | 0.417 | 0.665 | 0.792 | 14527.48 | 1822.884 |
-| Pseudo interruption 2017 | 24 | 15 | 0.625 | 12 | 0.500 | 0.568 | 0.764 | 22530.86 | 2681.696 |
+**Fig. S127. Temporal utility validation across two decision freeze points.** (A) The framework queue assigned to each disease at each freeze point, using the same prioritization logic as the main manuscript. (B) How often the framework queue versus an incidence-only queue captured diseases that later required continued review, together with overall decision accuracy across the follow-up window.
 
 <div style="page-break-after: always;"></div>
 
 ![**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.**](Supplementary%20Appendix%201_8/falsification_and_calibration.png)
 
-**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.** Panel A shows the deterministic median-rule status assigned to each disease under three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B summarizes empirical 80% and 95% coverage by forecast horizon bin. Panel C shows the randomized PIT histogram pooled across placebo disease-month forecasts. Panel D compares placebo false-alert rates under the deterministic median rule and the exploratory tempered rule with lower-80% predictive-interval corroboration.
-<!-- END PLACEBO_INTERRUPTION_CALIBRATION -->
+**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.** (A) The deterministic median-rule status assigned to each disease under three pre-pandemic placebo interruption dates using the disease-specific best model. (B) Empirical 80% and 95% coverage by forecast horizon bin. (C) The randomized PIT histogram pooled across placebo disease-month forecasts. (D) Placebo false-alert rates under the deterministic median rule and the exploratory tempered rule with lower-80% predictive-interval corroboration.
 
 <div style="page-break-after: always;"></div>
 
-<!-- BEGIN TRANSFORM_RATE_SENSITIVITY -->
-## Part 9: Transform and denominator sensitivity
+![**Fig. S129. Exploratory threshold-tolerance stress test for RP classification.**](Supplementary%20Appendix%201_8/threshold_tolerance.png)
 
-This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.
-
-**Table S20. Portfolio-level transform and denominator sensitivity summary.**
-| Config | DiseasesAssessed | PhenotypeChanged | StatusChanged | MaterialTimingShift | MedianAbsRPShift | MedianAbsBPShift | MaxAbsRPShift | MaxAbsBPShift | MeanDeltaPrRP | MeanDeltaPrBP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Count log | 24 | 2 | 2 | 2 | 0 | 1 | 16 |  5 | -0.119 | -0.113 |
-| Rate sqrt | 24 | 3 | 3 | 7 | 0 | 3 | 12 | 16 | -0.041 | -0.091 |
-
-**Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.**
-| Shortname | Config | Baseline phenotype | Sensitivity phenotype | RP month delta | BP month delta | Delta Pr(RP) | Delta Pr(BP) | Delta primary-status probability |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Amebiasis | Rate sqrt | Balanced | Recovered but not balanced |   6 | NA | -0.002 | -0.338 | -0.213 |
-| Chancroid | Count log | Recovered but not balanced | Suppressed | NA | NA | -0.296 | -0.209 | -0.472 |
-| Syphilis | Count log | Balanced | Suppressed | NA | NA | -0.139 | -0.135 |  0.195 |
-| Influenza | Rate sqrt | Recovered but not balanced | Balanced |  -1 | NA | NA | NA | NA |
-| Shigellosis | Rate sqrt | Recovered but not balanced | Suppressed | NA | NA | -0.265 | -0.156 |  0.186 |
-| Leptospirosis | Count log | Balanced | Balanced |  16 |  0 |  0.042 |  0.072 |  0.072 |
-| Mumps | Count log | Recovered but not balanced | Recovered but not balanced | -10 | NA | NA | NA | NA |
-| Chickenpox | Rate sqrt | Recovered but not balanced | Recovered but not balanced | -12 | NA | NA | NA | NA |
-| HCV | Rate sqrt | Balanced | Balanced |   3 |  6 | NA | NA | NA |
-| HFMD | Rate sqrt | Balanced | Balanced |   0 | 16 | NA | NA | NA |
-| Melioidosis | Rate sqrt | Balanced | Balanced |   0 |  8 | NA | NA | NA |
-| S. suis | Rate sqrt | Balanced | Balanced |   0 | 13 | NA | NA | NA |
-| Scrub Typhus | Rate sqrt | Balanced | Balanced |   1 | 11 | NA | NA | NA |
-
-The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`.
-<!-- END TRANSFORM_RATE_SENSITIVITY -->
+**Fig. S129. Exploratory threshold-tolerance stress test for RP classification.** Heatmap cells show the proportion and count of diseases reclassified relative to the primary 95% / 3-month RP rule when the RP threshold is varied from 85% to 110% and persistence is varied from 2 to 4 months. No diseases changed phenotype in 16 of the 18 threshold-persistence combinations; only mumps reclassified under the strictest 110% threshold with 3- or 4-month persistence.
 
 <div style="page-break-after: always;"></div>
-
-<!-- BEGIN SEASONAL_SHIFT_UNCERTAINTY -->
-## Part 10: Seasonal shift uncertainty and reconstruction sensitivity
-
-This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.
-
-**Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.**
-| Shortname | Point shift vs pre | 95% CI vs pre | Pr(|shift|>=2) vs pre | Point shift vs pred | 95% CI vs pred | Pr(|shift|>=2) vs pred | Borderline | COM/max agree |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CA (HPV) |  4 | 0.00 to 6.00 | 0.904 |  4 | 2.00 to 5.00 | 1.000 | Yes | No |
-| Genital herpes |  2 | 0.00 to 3.00 | 0.762 |  3 | 2.00 to 3.00 | 1.000 | Yes | Yes |
-| HAV | -5 | -6.00 to 5.00 | 0.990 | -5 | -6.00 to 5.00 | 1.000 | Yes | Yes |
-| HBV |  2 | 2.00 to 3.00 | 1.000 |  2 | 2.00 to 2.00 | 1.000 | Yes | Yes |
-| Melioidosis | -2 | -3.00 to 0.00 | 0.747 | -2 | -2.00 to 0.00 | 0.734 | Yes | Yes |
-| Mumps |  6 | -5.00 to 6.00 | 0.992 |  4 | 2.00 to 6.00 | 1.000 | Yes | Yes |
-| Rubella |  3 | -4.00 to 5.00 | 0.844 |  2 | -6.00 to 3.00 | 1.000 | Yes | Yes |
-| Syphilis | -2 | -5.00 to 1.00 | 0.536 | -3 | -5.00 to -1.00 | 0.915 | Yes | Yes |
-| Amebiasis |  0 | -2.00 to 1.00 | 0.139 |  0 | -1.00 to 1.00 | 0.000 | Yes | No |
-| Chancroid |  0 | -1.00 to 2.00 | 0.046 |  0 | 0.00 to 1.00 | 0.000 | Yes | No |
-| Chickenpox | -1 | -5.00 to 6.00 | 0.366 | -1 | -5.00 to 6.00 | 0.366 | Yes | Yes |
-| Gonorrhoea |  0 | -1.00 to 2.00 | 0.069 |  1 | 0.00 to 2.00 | 0.170 | Yes | Yes |
-| Influenza |  1 | -2.00 to 2.00 | 0.158 |  0 | -2.00 to 1.00 | 0.153 | Yes | Yes |
-| Scarlet fever | -1 | -3.00 to 5.00 | 0.470 | -1 | -5.00 to 4.00 | 0.294 | Yes | Yes |
-| Shigellosis |  1 | 0.00 to 2.00 | 0.142 |  1 | 0.00 to 2.00 | 0.145 | Yes | No |
-| Typhoid |  0 | -2.00 to 2.00 | 0.144 | -1 | -3.00 to 0.00 | 0.382 | Yes | Yes |
-| HCV |  4 | 3.00 to 5.00 | 1.000 |  4 | 3.00 to 5.00 | 1.000 | No | Yes |
-| Dengue fever |  0 | -1.00 to 1.00 | 0.007 |  0 | -1.00 to 1.00 | 0.000 | No | Yes |
-| HFMD |  1 | 0.00 to 1.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
-| Leptospirosis |  1 | 0.00 to 1.00 | 0.000 |  1 | 0.00 to 1.00 | 0.000 | No | Yes |
-| Malaria |  0 | 0.00 to 0.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
-| Pneumonia |  1 | 0.00 to 1.00 | 0.019 |  1 | 0.00 to 1.00 | 0.000 | No | Yes |
-| S. suis |  0 | -1.00 to 1.00 | 0.009 |  0 | -1.00 to 1.00 | 0.000 | No | Yes |
-| Scrub Typhus |  0 | 0.00 to 0.00 | 0.000 |  0 | 0.00 to 0.00 | 0.000 | No | Yes |
-
-**Table S23. Queue changes under alternative weekly-to-monthly reconstruction.**
-| Result | Value |
-| --- | --- |
-| Queue changes detected | None |
-
-Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
-<!-- END SEASONAL_SHIFT_UNCERTAINTY -->
-
-<div style="page-break-after: always;"></div>
-
-<!-- BEGIN BP_SEGMENTED_COMPARATOR -->
-## Part 11: Segmented cumulative-deviation BP comparator
-
-This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date.
-
-**Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.**
-| Shortname | Primary BP month | Segmented BP month | Month delta | Agreement |
-| --- | --- | --- | --- | --- |
-| Amebiasis | 35 | 34 | -1 | Agree within 6 months |
-| CA (HPV) | 55 | 51 | -4 | Agree within 6 months |
-| Genital herpes | 52 | 47 | -5 | Agree within 6 months |
-| Gonorrhoea | 58 | 57 | -1 | Agree within 6 months |
-| HBV | 52 | 47 | -5 | Agree within 6 months |
-| HCV | 35 | 32 | -3 | Agree within 6 months |
-| Leptospirosis | 32 | 29 | -3 | Agree within 6 months |
-| Melioidosis | 36 | 37 |  1 | Agree within 6 months |
-| Pneumonia | 60 | 59 | -1 | Agree within 6 months |
-| Scrub Typhus | 50 | 49 | -1 | Agree within 6 months |
-| Syphilis | 40 | 38 | -2 | Agree within 6 months |
-| Typhoid | 54 | 54 |  0 | Agree within 6 months |
-| HFMD | 33 | 42 |  9 | Both reached, timing differs |
-| S. suis |  7 | 15 |  8 | Both reached, timing differs |
-| Chancroid | NA | NA | NA | Both unresolved |
-| Chickenpox | NA | NA | NA | Both unresolved |
-| Dengue fever | NA | NA | NA | Both unresolved |
-| HAV | NA | NA | NA | Both unresolved |
-| Influenza | NA | NA | NA | Both unresolved |
-| Malaria | NA | NA | NA | Both unresolved |
-| Mumps | NA | NA | NA | Both unresolved |
-| Rubella | NA | NA | NA | Both unresolved |
-| Scarlet fever | NA | NA | NA | Both unresolved |
-| Shigellosis | NA | NA | NA | Both unresolved |
-
-Across 24 modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for 12 disease(s), both approaches left 10 disease(s) unresolved, and 2 disease(s) showed materially different BP timing.
-<!-- END BP_SEGMENTED_COMPARATOR -->

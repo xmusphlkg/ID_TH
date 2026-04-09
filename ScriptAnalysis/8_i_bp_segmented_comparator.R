@@ -37,8 +37,6 @@ source("./function/revision_utils.R")
 load(file.path(script_dir, "temp", "outcome.RData"))
 
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "BP_segmented_comparator.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 
 fit_segmented_bp <- function(item) {
@@ -187,30 +185,6 @@ summary_block <- c(
   sprintf("- `%s`", paste0("./Tables/", basename(xlsx_path))),
   sprintf("- `%s`", paste0("./Tables/", basename(detail_csv_path)))
 )
-
-writeLines(summary_block, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 11: Segmented cumulative-deviation BP comparator",
-    "",
-    "This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date.",
-    "",
-    "**Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.**",
-    md_table(detail_table),
-    "",
-    sprintf(
-      "Across %d modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for %d disease(s), both approaches left %d disease(s) unresolved, and %d disease(s) showed materially different BP timing.",
-      summary_table$DiseasesAssessed[[1]],
-      summary_table$AgreeWithin6Months[[1]],
-      summary_table$BothUnresolved[[1]],
-      summary_table$TimingDiffers[[1]]
-    )
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "BP_SEGMENTED_COMPARATOR", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
 
 message("Segmented BP comparator outputs written:")
 message(sprintf(" - %s", xlsx_path))

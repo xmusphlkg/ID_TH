@@ -234,10 +234,10 @@ priority_plot <- function(priority_df) {
     geom_col(width = 0.72, color = "white") +
     facet_wrap(vars(Group), scales = "free_x") +
     scale_fill_manual(values = priority_palette, drop = FALSE) +
-    labs(
-      title = "Operational prioritization across disease groups",
-      subtitle = "Categories synthesize RP/BP phenotype, seasonal displacement, uncertainty, and sensitivity checks.",
-      x = "Number of diseases",
+      labs(
+        title = "Operational review queue across disease groups",
+        subtitle = "Categories synthesize RP/BP phenotype, seasonal displacement, uncertainty, and sensitivity checks for analyst triage.",
+        x = "Number of diseases",
       y = NULL,
       fill = NULL
     ) +

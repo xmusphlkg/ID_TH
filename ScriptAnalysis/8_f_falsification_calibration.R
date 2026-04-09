@@ -45,8 +45,6 @@ load(file.path(script_dir, "temp", "month.RData"))
 
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
 figure_dir <- file.path(project_root, "Outcome", "Appendix", "Supplementary Appendix 1_8")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "Falsification_and_calibration.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(figure_dir, recursive = TRUE, showWarnings = FALSE)
 
@@ -549,28 +547,6 @@ summary_lines <- c(
   sprintf("- `%s`", paste0("./Tables/", basename(horizon_csv_path))),
   sprintf("- `%s`", paste0("./Tables/", basename(group_csv_path)))
 )
-
-writeLines(summary_lines, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 8: Placebo interruption and predictive-distribution calibration",
-    "",
-    "This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.",
-    "",
-    "**Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.**",
-    md_table(table_s19_md),
-    "",
-    "<div style=\"page-break-after: always;\"></div>",
-    "",
-    sprintf("![**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.**](Supplementary%%20Appendix%%201_8/%s)", basename(figure_png_path)),
-    "",
-    "**Fig. S128. Placebo interruption falsification and predictive-distribution calibration.** Panel A shows the deterministic median-rule status assigned to each disease under three pre-pandemic placebo interruption dates using the disease-specific best model. Panel B summarizes empirical 80% and 95% coverage by forecast horizon bin. Panel C shows the randomized PIT histogram pooled across placebo disease-month forecasts. Panel D compares placebo false-alert rates under the deterministic median rule and the exploratory tempered rule with lower-80% predictive-interval corroboration."
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "PLACEBO_INTERRUPTION_CALIBRATION", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
 
 message("Falsification and calibration outputs written:")
 message(sprintf(" - %s", summary_xlsx_path))

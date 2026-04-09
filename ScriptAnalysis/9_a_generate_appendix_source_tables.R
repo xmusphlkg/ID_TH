@@ -1,5 +1,20 @@
 #!/usr/bin/env Rscript
 
+required_packages <- c("dplyr", "tidyr", "lubridate", "openxlsx", "readr")
+missing_packages <- required_packages[
+  !vapply(required_packages, requireNamespace, logical(1), quietly = TRUE)
+]
+
+if (length(missing_packages) > 0) {
+  stop(
+    sprintf(
+      "Missing required R packages for appendix source-table refresh: %s",
+      paste(missing_packages, collapse = ", ")
+    ),
+    call. = FALSE
+  )
+}
+
 suppressPackageStartupMessages({
   library(dplyr)
   library(tidyr)
@@ -56,6 +71,74 @@ exclusion_order <- c(
   "Structural changes in surveillance definitions"
 )
 
+normalize_name_key <- function(x) {
+  x <- tolower(trimws(as.character(x)))
+  x <- gsub("[^a-z0-9]+", "_", x)
+  x <- gsub("^_+|_+$", "", x)
+  x
+}
+
+locate_column <- function(df, candidates) {
+  normalized <- normalize_name_key(names(df))
+  hits <- names(df)[normalized %in% candidates]
+  if (length(hits) == 0) {
+    return(NULL)
+  }
+  hits[1]
+}
+
+assert_required_columns <- function(df, required, label) {
+  missing <- setdiff(required, names(df))
+  if (length(missing) > 0) {
+    stop(
+      sprintf(
+        "%s is missing required column(s): %s",
+        label,
+        paste(missing, collapse = ", ")
+      ),
+      call. = FALSE
+    )
+  }
+}
+
+empty_reconstruction_table <- function() {
+  tibble(
+    date = as.Date(character()),
+    year = integer(),
+    Shortname = character(),
+    daily = numeric()
+  )
+}
+
+build_weekly_name_lookup <- function(data_map_name) {
+  short_col <- locate_column(data_map_name, c("short_name", "shortname"))
+  source_cols <- unique(na.omit(c(
+    locate_column(data_map_name, c("original_name", "originalname")),
+    locate_column(data_map_name, c("disease", "disease_name")),
+    locate_column(data_map_name, c("english_name", "englishname")),
+    locate_column(data_map_name, c("file_name", "filename"))
+  )))
+
+  if (is.null(short_col)) {
+    stop("DiseaseName sheet must contain a short_name column.", call. = FALSE)
+  }
+  if (length(source_cols) == 0) {
+    stop(
+      "DiseaseName sheet does not contain a usable source-name column for weekly file matching.",
+      call. = FALSE
+    )
+  }
+
+  bind_rows(lapply(source_cols, function(col) {
+    tibble(
+      match_key = normalize_name_key(data_map_name[[col]]),
+      short_name = as.character(data_map_name[[short_col]])
+    )
+  })) |>
+    filter(!is.na(match_key), nzchar(match_key), !is.na(short_name), nzchar(short_name)) |>
+    distinct(match_key, .keep_all = TRUE)
+}
+
 read_monthly_cases <- function(data_class) {
   list_disease_files <- list.files(clean_data_dir, pattern = "mcd.csv", full.names = TRUE)
   data_all_mcd <- lapply(list_disease_files, read.csv) |>
@@ -74,6 +157,8 @@ read_monthly_cases <- function(data_class) {
 }
 
 read_weekly_cases <- function(data_map_name) {
+  name_lookup <- build_weekly_name_lookup(data_map_name)
+
   csv_files <- list.files(
     path = weekly_cases_dir,
     pattern = "csv",
@@ -100,30 +185,53 @@ read_weekly_cases <- function(data_map_name) {
   })
 
   data_week_raw <- bind_rows(data_list)
+  if (nrow(data_week_raw) == 0) {
+    stop("No readable weekly case files were found in Data/WeeklyCasesData.", call. = FALSE)
+  }
+  if (ncol(data_week_raw) != 6) {
+    stop(
+      sprintf(
+        "Weekly case files were expected to yield 6 columns including the appended filename, but %d column(s) were found.",
+        ncol(data_week_raw)
+      ),
+      call. = FALSE
+    )
+  }
   names(data_week_raw) <- c("week_value", "week_alias", "location_value", "location_alias", "cases", "filename")
 
-  data_week_raw |>
+  weekly <- data_week_raw |>
     mutate(
       filepath = as.character(filename),
       filename_only = basename(filepath),
       disease_full = tools::file_path_sans_ext(filename_only),
-      year = stringr::str_extract(filepath, "(?<=/|\\\\)\\d{3,4}(?=/|\\\\)"),
-      year = if_else(is.na(year), stringr::str_extract(filepath, "\\d{3,4}"), year),
-      year = as.integer(year) - 543,
+      year_dir = basename(dirname(filepath)),
+      year = suppressWarnings(as.integer(year_dir)),
+      year = if_else(is.na(year), suppressWarnings(as.integer(stringr::str_extract(filepath, "\\d{3,4}"))), year),
+      year = year - 543,
       age_group = if_else(
         stringr::str_detect(disease_full, "__"),
         stringr::str_replace(disease_full, ".*__", ""),
         NA_character_
       ),
-      disease = stringr::str_replace(disease_full, "__.*$", "")
+      disease = stringr::str_replace(disease_full, "__.*$", ""),
+      disease_key = normalize_name_key(disease)
     ) |>
     filter(year >= 2020, year <= 2024) |>
     filter(location_value == "%all%", is.na(age_group), week_value != "%all%") |>
-    left_join(data_map_name, by = c("disease" = "original_name")) |>
+    left_join(name_lookup, by = c("disease_key" = "match_key")) |>
     filter(!is.na(short_name)) |>
     transmute(year, Shortname = short_name, week = as.integer(week_value), cases = as.numeric(cases)) |>
     group_by(year, Shortname, week) |>
     summarize(cases = sum(cases, na.rm = TRUE), .groups = "drop")
+
+  if (nrow(weekly) == 0) {
+    stop(
+      "Weekly case data were read successfully, but no disease filenames could be matched to DiseaseName short names. Check the DiseaseName sheet and weekly filenames.",
+      call. = FALSE
+    )
+  }
+
+  weekly
 }
 
 build_date_maps <- function() {
@@ -153,11 +261,16 @@ reconstruct_one <- function(df_week, week_map, data_date_seq) {
   }
 
   wk <- df_week |>
-    left_join(week_map, by = c("year", "week"))
+    left_join(week_map, by = c("year", "week")) |>
+    filter(!is.na(week_mid), !is.na(cases))
 
   dates_year <- data_date_seq |>
     filter(year %in% year_val) |>
     arrange(date)
+
+  if (nrow(wk) == 0 || nrow(dates_year) == 0) {
+    return(empty_reconstruction_table())
+  }
 
   if (nrow(wk) < 2) {
     out <- wk |>
@@ -244,7 +357,7 @@ reconstruct_all <- function(data_week, week_map, data_date_seq) {
     group_split()
 
   if (length(groups) == 0) {
-    return(tibble())
+    return(empty_reconstruction_table())
   }
 
   available_cores <- parallel::detectCores(logical = TRUE)
@@ -252,7 +365,7 @@ reconstruct_all <- function(data_week, week_map, data_date_seq) {
 
   if (n_workers == 1L) {
     res_list <- lapply(groups, reconstruct_one, week_map = week_map, data_date_seq = data_date_seq)
-    return(bind_rows(res_list))
+    return(bind_rows(res_list) |> bind_rows(empty_reconstruction_table()) |> distinct())
   }
 
   cl <- parallel::makeCluster(n_workers)
@@ -276,7 +389,32 @@ reconstruct_all <- function(data_week, week_map, data_date_seq) {
     reconstruct_one(df, week_map_local, data_date_seq_local)
   })
 
-  bind_rows(res_list)
+  bind_rows(res_list) |> bind_rows(empty_reconstruction_table()) |> distinct()
+}
+
+coerce_date <- function(x) {
+  if (inherits(x, "Date")) {
+    return(x)
+  }
+  if (inherits(x, "POSIXt")) {
+    return(as.Date(x))
+  }
+  x <- unlist(x, use.names = FALSE)
+  if (inherits(x, "Date")) {
+    return(x)
+  }
+  if (inherits(x, "POSIXt")) {
+    return(as.Date(x))
+  }
+  if (is.numeric(x)) {
+    return(as.Date(x, origin = "1970-01-01"))
+  }
+  x <- as.character(x)
+  parsed <- suppressWarnings(as.Date(x))
+  if (all(is.na(parsed)) && any(!is.na(x))) {
+    parsed <- suppressWarnings(lubridate::ymd(x))
+  }
+  parsed
 }
 
 calculate_overlap_metrics <- function() {
@@ -292,8 +430,22 @@ calculate_overlap_metrics <- function() {
   weekly <- read_weekly_cases(data_map_name)
   date_maps <- build_date_maps()
 
-  daily_recon <- reconstruct_all(weekly, date_maps$week_date_map, date_maps$data_date_seq) |>
-    mutate(month = month(date), year = year(date))
+  daily_recon <- reconstruct_all(weekly, date_maps$week_date_map, date_maps$data_date_seq)
+  assert_required_columns(daily_recon, c("date", "year", "Shortname", "daily"), "Reconstructed daily weekly-to-monthly cache")
+
+  daily_recon <- daily_recon |>
+    mutate(
+      date = coerce_date(.data$date),
+      month = month(.data$date),
+      year = year(.data$date)
+    )
+
+  if (nrow(daily_recon) == 0) {
+    stop(
+      "Weekly reconstruction returned zero disease-day rows; overlap validation tables could not be regenerated from raw data.",
+      call. = FALSE
+    )
+  }
 
   month_recon <- daily_recon |>
     group_by(Shortname, year, month) |>
@@ -310,6 +462,13 @@ calculate_overlap_metrics <- function() {
       )
     ) |>
     arrange(Shortname, Year, Month)
+
+  if (nrow(cmp) == 0) {
+    stop(
+      "The overlap-period comparison table is empty after joining reconstructed and official monthly data.",
+      call. = FALSE
+    )
+  }
 
   summary_table <- tibble(
     Metric = c(

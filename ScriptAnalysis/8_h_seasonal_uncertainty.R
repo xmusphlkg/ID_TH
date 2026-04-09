@@ -47,8 +47,6 @@ modelled_shortnames <- sort(unique(vapply(
 )))
 
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "Seasonal_shift_uncertainty.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 weekly_cases_dir <- file.path(project_root, "Data", "WeeklyCasesData")
 workbook_path <- file.path(project_root, "Data", "TotalCasesDeaths.xlsx")
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
@@ -463,49 +461,6 @@ summary_block <- c(
   sprintf("- `%s`", paste0("./Tables/", basename(bootstrap_csv_path))),
   sprintf("- `%s`", paste0("./Tables/", basename(recon_csv_path)))
 )
-
-writeLines(summary_block, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 10: Seasonal shift uncertainty and reconstruction sensitivity",
-    "",
-    "This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.",
-    "",
-    "**Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.**",
-    md_table(
-      bootstrap_summary |>
-        transmute(
-          Shortname,
-          `Point shift vs pre` = round(PointShift_vs_Pre, 2),
-          `95% CI vs pre` = sprintf("%.2f to %.2f", CI025_vs_Pre, CI975_vs_Pre),
-          `Pr(|shift|>=2) vs pre` = round(PrAbsShiftGE2_vs_Pre, 3),
-          `Point shift vs pred` = round(PointShift_vs_Pred, 2),
-          `95% CI vs pred` = sprintf("%.2f to %.2f", CI025_vs_Pred, CI975_vs_Pred),
-          `Pr(|shift|>=2) vs pred` = round(PrAbsShiftGE2_vs_Pred, 3),
-          Borderline = ifelse(BorderlineShift, "Yes", "No"),
-          `COM/max agree` = ifelse(COM_Max_Agree, "Yes", "No")
-        )
-    ),
-    "",
-    "**Table S23. Queue changes under alternative weekly-to-monthly reconstruction.**",
-    if (nrow(queue_change_table) > 0) md_table(queue_change_table) else c(
-      "| Result | Value |",
-      "| --- | --- |",
-      "| Queue changes detected | None |"
-    ),
-    "",
-    sprintf(
-      "Across %d modelled diseases, the alternative reconstruction changed the seasonal shift flag for %d disease(s) and the operational queue for %d disease(s).",
-      reconstruction_summary$DiseasesAssessed[[1]],
-      reconstruction_summary$ShiftFlagChanged[[1]],
-      reconstruction_summary$QueueChanged[[1]]
-    )
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "SEASONAL_SHIFT_UNCERTAINTY", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
 
 message("Seasonal uncertainty outputs written:")
 message(sprintf(" - %s", xlsx_path))

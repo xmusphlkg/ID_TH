@@ -61,7 +61,7 @@ methods_panel <- nav_panel(
             class = "insight-list",
             tags$li("Overview: burden ranking and portfolio-level recovery mix."),
             tags$li("Recovery: disease-level RP, BP, and deficit trajectories."),
-            tags$li("Prioritization: joint recovery-seasonality action categories."),
+            tags$li("Review Queue: joint recovery-seasonality categories for human adjudication."),
             tags$li("Time Series: filtered monthly series for inspection and export."),
             tags$li("Seasonality: peak timing and profile re-alignment after PHSM.")
           )

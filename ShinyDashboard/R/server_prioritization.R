@@ -90,6 +90,7 @@ prioritization_server <- function(input, output, session) {
           Group,
           Priority = FrameworkPriority,
           Phenotype = PrimaryPhenotype,
+          `Primary status pr` = round(PrimaryStatusProb, 3),
           `Pr(RP)` = round(Pr_RP, 3),
           `Pr(BP)` = round(Pr_BP, 3),
           `RP month` = RP_Months,
@@ -99,7 +100,13 @@ prioritization_server <- function(input, output, session) {
           `Amplitude ratio` = round(amplitude_ratio_vs_pre, 2),
           `Status stability` = StatusStability,
           `Model matches` = ModelRuleMatches,
-          `Sensitivity stable` = SensitivityStable
+          `Sensitivity stable` = SensitivityStable,
+          `Review caution` = dplyr::case_when(
+            FrameworkPriority == "High priority manual review" ~ "Manual review required",
+            PrimaryStatusProb < 0.80 ~ "Low-confidence queue",
+            SensitivityStable != "Yes" ~ "Sensitivity drift",
+            TRUE ~ "Routine interpretation"
+          )
         ),
       rownames = FALSE,
       filter = "top",
@@ -109,7 +116,7 @@ prioritization_server <- function(input, output, session) {
 
   output$priority_download <- shiny::downloadHandler(
     filename = function() {
-      paste0("prioritization-", Sys.Date(), ".csv")
+      paste0("review-queue-", Sys.Date(), ".csv")
     },
     content = function(file) {
       readr::write_csv(filtered_priority_data(), file)

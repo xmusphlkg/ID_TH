@@ -58,8 +58,6 @@ data_class <- data_class |>
 
 tables_dir <- file.path(project_root, "Outcome", "Appendix", "Tables")
 figure_dir <- file.path(project_root, "Outcome", "Appendix", "Supplementary Appendix 1_7")
-summary_md_path <- file.path(project_root, "Outcome", "Appendix", "Temporal_utility_validation.md")
-main_appendix_path <- file.path(project_root, "Outcome", "Appendix", "Supplementary_Appendix.md")
 
 dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(figure_dir, recursive = TRUE, showWarnings = FALSE)
@@ -615,31 +613,6 @@ md_table <- function(df) {
   c(lines, rows)
 }
 
-replace_or_append_block <- function(lines, block_id, replacement_lines) {
-  begin_marker <- paste0("<!-- BEGIN ", block_id, " -->")
-  end_marker <- paste0("<!-- END ", block_id, " -->")
-  wrapped_replacement <- c(begin_marker, replacement_lines, end_marker)
-
-  begin_idx <- which(trimws(lines) == begin_marker)[1]
-  end_idx <- which(trimws(lines) == end_marker)[1]
-
-  if (!is.na(begin_idx) && !is.na(end_idx) && end_idx > begin_idx) {
-    return(c(
-      if (begin_idx > 1) lines[seq_len(begin_idx - 1)] else character(),
-      wrapped_replacement,
-      if (end_idx < length(lines)) lines[(end_idx + 1):length(lines)] else character()
-    ))
-  }
-
-  c(
-    lines,
-    "",
-    "<div style=\"page-break-after: always;\"></div>",
-    "",
-    wrapped_replacement
-  )
-}
-
 best_gain <- temporal_summary |>
   mutate(CaptureGain = FrameworkCaptured - IncidenceOnlyCaptured) |>
   arrange(desc(CaptureGain)) |>
@@ -670,28 +643,6 @@ summary_lines <- c(
   sprintf("- `%s`", paste0("./Tables/", basename(summary_csv_path))),
   sprintf("- `%s`", paste0("./Tables/", basename(disease_csv_path)))
 )
-
-writeLines(summary_lines, summary_md_path)
-
-if (file.exists(main_appendix_path)) {
-  appendix_lines <- readLines(main_appendix_path, warn = FALSE)
-  appendix_block <- c(
-    "## Part 7: Temporal utility validation",
-    "",
-    "This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.",
-    "",
-    "**Table S18. Freeze-point temporal utility validation summary.**",
-    md_table(table_s18_md),
-    "",
-    "<div style=\"page-break-after: always;\"></div>",
-    "",
-    sprintf("![**Fig. S127. Temporal utility validation.**](Supplementary%%20Appendix%%201_7/%s)", basename(figure_png_path)),
-    "",
-    "**Fig. S127. Temporal utility validation across two decision freeze points.** Panel A shows the framework queue assigned to each disease at each freeze point, using the same prioritization logic as the main manuscript. Panel B compares how often the framework queue versus an incidence-only queue captured diseases that later required continued review, together with overall decision accuracy across the follow-up window."
-  )
-  appendix_lines <- replace_or_append_block(appendix_lines, "TEMPORAL_UTILITY_VALIDATION", appendix_block)
-  writeLines(appendix_lines, main_appendix_path)
-}
 
 message("Temporal utility validation outputs written:")
 message(sprintf(" - %s", summary_xlsx_path))

@@ -1,6 +1,6 @@
 # Thailand Infectious Disease Recovery Dashboard
 
-This Shiny dashboard is written as a manuscript-facing analytical interface rather than a generic KPI screen. The goal is to support co-author discussion, result interpretation, and presentation of the study's main conceptual finding: incidence recovery, cumulative balance, and seasonal timing should be interpreted as distinct surveillance dimensions.
+This Shiny dashboard is written as a manuscript-facing analytical interface rather than a generic KPI screen. The goal is to support co-author discussion, result interpretation, and presentation of the study's main conceptual finding: incidence recovery, cumulative balance, and seasonal timing should be interpreted as distinct surveillance dimensions. The review-queue layer is intended as a human-in-the-loop triage aid rather than an automated action system.
 
 ## Page design
 
@@ -8,9 +8,11 @@ This Shiny dashboard is written as a manuscript-facing analytical interface rath
    Opens with the national surveillance landscape, the disease-flow counts `72 -> 43 -> 24`, and a publication-style summary of the main findings.
 2. `Recovery Explorer`
    Focuses on the manuscript's main contribution: the decoupling between recovery period (RP) and balance period (BP).
-3. `Seasonal Shift`
+3. `Review Queue`
+   Combines recovery phenotype, seasonal displacement, and confidence summaries into a review-facing queue that supports analyst triage rather than automatic action.
+4. `Seasonal Shift`
    Compares prepandemic, observed post-PHSM, and counterfactual post-PHSM seasonal signatures in formal analytical language suitable for presentation.
-4. `Methods & Data`
+5. `Methods & Data`
    Keeps the operational definitions visible so the dashboard remains interpretable without opening the manuscript text.
 
 ## Data sources used by the app
