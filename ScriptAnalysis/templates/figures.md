@@ -1,4 +1,4 @@
-## Figures
+## Supplementary Figures
 
 ### Part 1: Validation of data reconstruction (Fig. S1-S86)
 
@@ -432,8 +432,6 @@
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-after: always;"></div>
-
 ### Part 2: Detailed forecasting diagnostics and model verification (Fig. S87-S110)
 
 {{FIG_S87_IMAGE}}
@@ -556,8 +554,6 @@
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-after: always;"></div>
-
 ### Part 3: Disease ranking and age distribution validation (Fig. S111-S113)
 
 {{FIG_S111_IMAGE}}
@@ -636,8 +632,6 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 {{FIG_S123_IMAGE}}
 
 **Fig. S123. Temporal trends of deaths from vector-borne and zoonotic infectious diseases by category.** (A) Monthly observed death counts together with a smoothed long‑term trend derived from decomposition of the monthly time series. (B) Heatmap of standardized mortality values (each disease scaled relative to its own historical distribution). (C-M) The combination of trajectory plots and standardized heatmaps facilitates comparison of long‑term trend behavior and temporal clustering of anomalies across disease groups, aiding interpretation of post‑pandemic re‑equilibration patterns.
-
-<div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
 

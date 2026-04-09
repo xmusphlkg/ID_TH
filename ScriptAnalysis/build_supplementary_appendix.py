@@ -202,6 +202,12 @@ def fmt_date(value, na: str = "NA") -> str:
     return pd.to_datetime(value).strftime("%Y-%m-%d")
 
 
+def fmt_month(value, na: str = "NA") -> str:
+    if is_missing(value):
+        return na
+    return pd.to_datetime(value).strftime("%Y-%m")
+
+
 def fmt_date_or_not_reached(value, na: str = "Not reached") -> str:
     if is_missing(value):
         return na
@@ -220,7 +226,7 @@ def md_table(df: pd.DataFrame) -> str:
 
     headers = list(df.columns)
     lines = [
-        "| " + " | ".join(headers) + " |",
+        "| " + " | ".join(escape_md(header) for header in headers) + " |",
         "| " + " | ".join(["---"] * len(headers)) + " |",
     ]
 
@@ -525,14 +531,58 @@ def build_table_s7() -> str:
 
 
 def build_table_s8() -> str:
-    text = (
-        "The legacy fixed-family robustness table is no longer rerun in the refreshed square-root, 5,000-path primary workflow. "
-        "In the updated analysis, robustness emphasis shifts to uncertainty propagation (Table S9), interruption-date sensitivity (Table S10), and alternative model-selection aggregation rules (Table S11). "
-        "Uniform exponential-smoothing and uniform seasonal autoregressive integrated moving-average refits are therefore not re-reported here."
+    uniform = read_xlsx("Uniform_model_robustness.xlsx", "Summary").copy()
+    uniform["Robustness check"] = uniform["Method"].map(lambda x: f"Uniform {x}")
+    uniform = uniform.drop(columns=["Method"])
+
+    standard = read_xlsx("Best_standard_model_robustness.xlsx", "Summary").copy()
+    standard = standard.rename(columns={"RobustnessCheck": "Robustness check"})
+
+    table = pd.concat([uniform, standard], ignore_index=True)
+    table = table.rename(columns={
+        "Balanced": "Balanced",
+        "RecoveredNotBalanced": "Recovered but not balanced",
+        "Suppressed": "Suppressed",
+        "NoDeficit": "No deficit",
+        "StatusChangesVsPrimary": "Status changes vs primary",
+        "ChangedDiseases": "Changed diseases",
+    })
+
+    for col in [
+        "Balanced",
+        "Recovered but not balanced",
+        "Suppressed",
+        "No deficit",
+        "Status changes vs primary",
+    ]:
+        table[col] = table[col].map(fmt_int)
+
+    table["Changed diseases"] = (
+        table["Changed diseases"]
+        .fillna("None")
+        .astype(str)
+        .str.replace(r";\s*", ", ", regex=True)
     )
-    return make_text_block(
-        "Table S8. Legacy fixed-family robustness table not rerun in the refreshed square-root, 5,000-path primary workflow.",
-        text,
+
+    table = table[[
+        "Robustness check",
+        "Balanced",
+        "Recovered but not balanced",
+        "Suppressed",
+        "No deficit",
+        "Status changes vs primary",
+        "Changed diseases",
+    ]]
+
+    note = (
+        "These legacy comparator reruns are retained for reference only. "
+        "The refreshed primary workflow instead emphasizes uncertainty propagation, interruption-date sensitivity, "
+        "and alternative model-selection aggregation rules in Tables S9-S11."
+    )
+    return make_table_block(
+        "Table S8. Legacy fixed-family and best-standard robustness comparators retained for reference.",
+        table,
+        note=note,
     )
 
 
@@ -786,34 +836,55 @@ def build_table_s14() -> str:
 
 def build_table_s15() -> str:
     cor = read_xlsx("New_endpoint_context_usability_summaries.xlsx", "ContextCorrelations").copy()
-    cor["SpearmanRho"] = cor["SpearmanRho"].map(lambda x: fmt_num(x, 3))
-    mil = read_xlsx("New_endpoint_context_usability_summaries.xlsx", "ContextMilestones").copy()
-    mil["month"] = mil["month"].map(fmt_date)
-    for col in ["PortfolioRatio", "StringencyIndex", "SchoolClosing", "InternalMovement", "InternationalTravel"]:
-        mil[col] = mil[col].map(lambda x: fmt_num(x, 3))
-    mil["WHO_COVID_Cases"] = mil["WHO_COVID_Cases"].map(lambda x: fmt_num(x, 0, trim=True))
-
-    content = [
-        "Panel A. Monthly correlation between the portfolio observed-to-expected ratio and external indicators.",
-        "",
-        md_table(cor),
-        "",
-        "Panel B. Selected milestone months from the contextual triangulation.",
-        "",
-        md_table(mil),
-    ]
+    indicator_labels = {
+        "StringencyIndex": "Stringency index",
+        "GovernmentResponseIndex": "Government response index",
+        "SchoolClosing": "School closing",
+        "InternalMovement": "Internal movement restrictions",
+        "InternationalTravel": "International travel restrictions",
+        "TestingPolicy": "Testing policy",
+        "log1p(WHO_COVID_Cases)": "log1p(WHO COVID-19 cases)",
+    }
+    cor["Indicator"] = cor["Indicator"].map(lambda x: indicator_labels.get(x, x))
+    cor["SpearmanRhoNumeric"] = pd.to_numeric(cor["SpearmanRho"], errors="coerce")
+    cor["AbsRho"] = cor["SpearmanRhoNumeric"].abs()
+    cor = cor.sort_values(["AbsRho", "SpearmanRhoNumeric", "Indicator"], ascending=[False, True, True]).reset_index(drop=True)
+    cor_table = pd.DataFrame({
+        "Rank": range(1, len(cor) + 1),
+        "External indicator": cor["Indicator"],
+        "Spearman rho": cor["SpearmanRhoNumeric"].map(lambda x: fmt_num(x, 3)),
+        "Absolute rho": cor["AbsRho"].map(lambda x: fmt_num(x, 3)),
+    })
     note = (
-        "These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. "
-        "They were not used as predictive covariates and do not support causal attribution."
+        "Indicators are ranked by absolute Spearman rho. "
+        "All rho values are negative, indicating that higher restriction or burden was associated with lower portfolio ratios. "
+        "These correlations were treated as descriptive context and were not used as predictive covariates or interpreted causally."
     )
-    return make_block(
-        "Table S15. External contextual triangulation correlations and milestone dates.",
-        content,
+    return make_table_block(
+        "Table S15. External contextual triangulation: correlations with the portfolio observed-to-expected ratio.",
+        cor_table,
         note=note,
     )
 
 
 def build_table_s16() -> str:
+    mil = read_xlsx("New_endpoint_context_usability_summaries.xlsx", "ContextMilestones").copy()
+    mil["month"] = mil["month"].map(fmt_date)
+    for col in ["PortfolioRatio", "StringencyIndex", "SchoolClosing", "InternalMovement", "InternationalTravel"]:
+        mil[col] = mil[col].map(lambda x: fmt_num(x, 3))
+    mil["WHO_COVID_Cases"] = mil["WHO_COVID_Cases"].map(lambda x: fmt_num(x, 0, trim=True))
+    note = (
+        "These milestone months were used to anchor the timing of portfolio suppression and normalization. "
+        "They were not used as predictive covariates and do not support causal attribution."
+    )
+    return make_table_block(
+        "Table S16. External contextual triangulation: selected anchor months.",
+        mil,
+        note=note,
+    )
+
+
+def build_table_s17() -> str:
     tasks = read_xlsx("New_endpoint_context_usability_summaries.xlsx", "HeuristicTasks").copy()
     table = tasks[[
         "TaskID",
@@ -844,13 +915,13 @@ def build_table_s16() -> str:
         "This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing."
     )
     return make_table_block(
-        "Table S16. Task-based heuristic assessment of the final dashboard build.",
+        "Table S17. Task-based heuristic assessment of the final dashboard build.",
         table,
         note=note,
     )
 
 
-def build_table_s17() -> str:
+def build_table_s18() -> str:
     raw = read_csv("External_pertussis_country_median_pi_summary.csv").copy()
     table = raw[[
         "Country",
@@ -919,13 +990,13 @@ def build_table_s17() -> str:
         f"Across these six external series, {balanced} reached both normalization and balance within follow-up, whereas {no_bp} reached RP without BP by the end of follow-up."
     )
     return make_table_block(
-        "Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.",
+        "Table S18. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.",
         table,
         note=note,
     )
 
 
-def build_table_s18() -> str:
+def build_table_s19() -> str:
     raw = read_csv("Temporal_utility_freeze_summary.csv").copy()
     table = raw[[
         "FreezeDate",
@@ -965,13 +1036,13 @@ def build_table_s18() -> str:
         f"It generated {fp_dec_2023} false-positive review assignment at the December 2023 freeze and {fp_jun_2024} at the June 2024 freeze."
     )
     return make_table_block(
-        "Table S18. Freeze-point temporal utility validation summary.",
+        "Table S19. Freeze-point temporal utility validation summary.",
         table,
         note=note,
     )
 
 
-def build_table_s19() -> str:
+def build_table_s20() -> str:
     table = read_csv("Placebo_interruption_portfolio_summary.csv").copy()
     table = table[[
         "split_label",
@@ -1006,13 +1077,13 @@ def build_table_s19() -> str:
         "The tempered rule reduced false alerts relative to the deterministic rule in each placebo window, while calibration remained moderate rather than perfect."
     )
     return make_table_block(
-        "Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.",
+        "Table S20. Portfolio-level placebo interruption and predictive-distribution calibration summary.",
         table,
         note=note,
     )
 
 
-def build_table_s20() -> str:
+def build_table_s21() -> str:
     table = read_csv("Transform_rate_sensitivity_summary.csv").copy()
     table = table[[
         "Config",
@@ -1042,13 +1113,13 @@ def build_table_s20() -> str:
         table[col] = table[col].map(lambda x: fmt_num(x, 3))
     note = "These summaries compare the primary square-root count analysis with log-count and square-root rate variants."
     return make_table_block(
-        "Table S20. Portfolio-level transform and denominator sensitivity summary.",
+        "Table S21. Portfolio-level transform and denominator sensitivity summary.",
         table,
         note=note,
     )
 
 
-def build_table_s21() -> str:
+def build_table_s22() -> str:
     table = read_csv("Transform_rate_sensitivity_comparison.csv").copy()
     changed = table[
         table["PhenotypeChanged"].astype(str).str.upper().eq("TRUE")
@@ -1079,13 +1150,13 @@ def build_table_s21() -> str:
         changed[col] = changed[col].map(lambda x: fmt_num(x, 3))
     note = "Only diseases with phenotype changes or material timing shifts are listed here; unchanged diseases remained stable across the sensitivity reruns."
     return make_table_block(
-        "Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.",
+        "Table S22. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.",
         changed,
         note=note,
     )
 
 
-def build_table_s22() -> str:
+def build_table_s23() -> str:
     table = read_csv("Seasonal_shift_bootstrap_summary.csv").copy()
     table = table[[
         "Shortname",
@@ -1103,18 +1174,18 @@ def build_table_s22() -> str:
         "PointShift_vs_Pre": "Point shift vs pre",
         "CI025_vs_Pre": "_ci_pre_lo",
         "CI975_vs_Pre": "_ci_pre_hi",
-        "PrAbsShiftGE2_vs_Pre": "Pr(|shift|>=2) vs pre",
+        "PrAbsShiftGE2_vs_Pre": "Pr(abs shift >= 2) vs pre",
         "PointShift_vs_Pred": "Point shift vs pred",
         "CI025_vs_Pred": "_ci_pred_lo",
         "CI975_vs_Pred": "_ci_pred_hi",
-        "PrAbsShiftGE2_vs_Pred": "Pr(|shift|>=2) vs pred",
+        "PrAbsShiftGE2_vs_Pred": "Pr(abs shift >= 2) vs pred",
         "BorderlineShift": "Borderline",
         "COM_Max_Agree": "COM/max agree",
     })
     table["Point shift vs pre"] = table["Point shift vs pre"].map(fmt_int)
     table["Point shift vs pred"] = table["Point shift vs pred"].map(fmt_int)
-    table["Pr(|shift|>=2) vs pre"] = table["Pr(|shift|>=2) vs pre"].map(lambda x: fmt_num(x, 3))
-    table["Pr(|shift|>=2) vs pred"] = table["Pr(|shift|>=2) vs pred"].map(lambda x: fmt_num(x, 3))
+    table["Pr(abs shift >= 2) vs pre"] = table["Pr(abs shift >= 2) vs pre"].map(lambda x: fmt_num(x, 3))
+    table["Pr(abs shift >= 2) vs pred"] = table["Pr(abs shift >= 2) vs pred"].map(lambda x: fmt_num(x, 3))
     table["95% CI vs pre"] = table.apply(
         lambda row: f"{fmt_num(row['_ci_pre_lo'], 2)} to {fmt_num(row['_ci_pre_hi'], 2)}",
         axis=1,
@@ -1129,22 +1200,22 @@ def build_table_s22() -> str:
         "Shortname",
         "Point shift vs pre",
         "95% CI vs pre",
-        "Pr(|shift|>=2) vs pre",
+        "Pr(abs shift >= 2) vs pre",
         "Point shift vs pred",
         "95% CI vs pred",
-        "Pr(|shift|>=2) vs pred",
+        "Pr(abs shift >= 2) vs pred",
         "Borderline",
         "COM/max agree",
     ]]
     note = "Bootstrap uncertainty is reported for the center-of-mass seasonal shift metric under both pre-pandemic and counterfactual references."
     return make_table_block(
-        "Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.",
+        "Table S23. Bootstrap uncertainty for center-of-mass seasonal shift estimates.",
         table,
         note=note,
     )
 
 
-def build_table_s23() -> str:
+def build_table_s24() -> str:
     table = read_csv("Seasonal_shift_reconstruction_sensitivity.csv").copy()
     queue_changes = table[table["QueueChanged"].astype(str).str.upper().eq("TRUE")]
     shift_changes = table[table["ShiftFlagChanged"].astype(str).str.upper().eq("TRUE")]
@@ -1165,13 +1236,13 @@ def build_table_s23() -> str:
         "Chancroid was the only disease with a one-month point-estimate change relative to both references, and that change was insufficient to alter the queue."
     )
     return make_table_block(
-        "Table S23. Queue changes under alternative weekly-to-monthly reconstruction.",
+        "Table S24. Queue changes under alternative weekly-to-monthly reconstruction.",
         summary,
         note=note,
     )
 
 
-def build_table_s24() -> str:
+def build_table_s25() -> str:
     table = read_csv("BP_segmented_comparator.csv").copy()
     table = table[[
         "Shortname",
@@ -1190,7 +1261,7 @@ def build_table_s24() -> str:
     table["Month delta"] = table["Month delta"].map(fmt_int)
     note = "The segmented comparator agreed with the primary BP call within 6 months for 12 diseases, left 10 unresolved, and differed materially for 2 diseases."
     return make_table_block(
-        "Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.",
+        "Table S25. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.",
         table,
         note=note,
     )
@@ -1210,12 +1281,14 @@ def build_tables_section() -> str:
         "TABLE_S5_BODY": build_table_s5,
         "TABLE_S6_BODY": build_table_s6,
         "TABLE_S7_BODY": build_table_s7,
+        "TABLE_S8_BODY": build_table_s8,
         "TABLE_S9_BODY": build_table_s9,
         "TABLE_S10_BODY": build_table_s10,
         "TABLE_S11_BODY": build_table_s11,
         "TABLE_S12_BODY": build_table_s12,
         "TABLE_S13_BODY": build_table_s13,
         "TABLE_S14_BODY": build_table_s14,
+        "TABLE_S15_BODY": build_table_s15,
         "TABLE_S16_BODY": build_table_s16,
         "TABLE_S17_BODY": build_table_s17,
         "TABLE_S18_BODY": build_table_s18,
@@ -1225,6 +1298,7 @@ def build_tables_section() -> str:
         "TABLE_S22_BODY": build_table_s22,
         "TABLE_S23_BODY": build_table_s23,
         "TABLE_S24_BODY": build_table_s24,
+        "TABLE_S25_BODY": build_table_s25,
     }
 
     for placeholder, builder in single_table_builders.items():
@@ -1232,12 +1306,6 @@ def build_tables_section() -> str:
         if len(tables) != 1:
             raise RuntimeError(f"{placeholder} expected exactly one markdown table, found {len(tables)}")
         replacements[placeholder] = tables[0]
-
-    s15_tables = extract_markdown_tables(build_table_s15())
-    if len(s15_tables) != 2:
-        raise RuntimeError(f"TABLE_S15 expected two markdown tables, found {len(s15_tables)}")
-    replacements["TABLE_S15_PANEL_A_BODY"] = s15_tables[0]
-    replacements["TABLE_S15_PANEL_B_BODY"] = s15_tables[1]
 
     ensure_template_has_placeholders("tables.md", template, list(replacements))
     return render_template(template, replacements)
@@ -1460,6 +1528,12 @@ def build_appendix() -> str:
     figures = build_figures_section().strip()
     appendix = "\n\n".join([methods, tables, figures]) + "\n"
     appendix = re.sub(r"(?m)^<!--.*?-->\r?\n?", "", appendix)
+    page_break_html = re.escape(page_break())
+    appendix = re.sub(
+        rf"(?:\s*{page_break_html}\s*){{2,}}",
+        f"\n\n{page_break()}\n\n",
+        appendix,
+    )
     appendix = re.sub(r"\n{3,}", "\n\n", appendix)
     return appendix
 

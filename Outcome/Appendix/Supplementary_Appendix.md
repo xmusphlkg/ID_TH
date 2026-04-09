@@ -1,10 +1,11 @@
 <div style="text-align:center;">
-  <h3 style="font-family: inherit; font-weight: normal; margin-bottom: 0;">Supplementary Appendix:</h3>
+  <h3 style="font-family: inherit; font-weight: normal; margin-bottom: 0;">Supplementary information:</h3>
   <h1 style="font-family: inherit; font-weight: bold; font-size: 1.5em;">A counterfactual framework for post-disruption recovery assessment in infectious disease surveillance in Thailand</h1>
   <br>
   <br>
   Kangguo Li et al. (2026)
 </div>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -26,7 +27,7 @@ The source registry comprised 72 nationally notifiable disease series. Series we
 
 ### Construction of the monthly analytical cache
 
-Monthly national counts for 2008鈥?024 were imported from cleaned Bureau of Epidemiology surveillance tables and restricted to national totals. Annual denominators were linked from the United Nations World Population Prospects file, and annual province-level denominators for recent weekly surveillance outputs were linked from province population tables. Incidence and mortality rates were recalculated as counts per 100 000 population after all replacements and harmonization steps, rather than being inherited directly from the raw rate files.
+Monthly national counts for 2008 to 2024 were imported from cleaned Bureau of Epidemiology surveillance tables and restricted to national totals. Annual denominators were linked from the United Nations World Population Prospects file, and annual province-level denominators for recent weekly surveillance outputs were linked from province population tables. Incidence and mortality rates were recalculated as counts per 100 000 population after all replacements and harmonization steps, rather than being inherited directly from the raw rate files.
 
 For disease $d$ in year or month $t$, incidence and mortality rates were calculated as
 
@@ -36,11 +37,11 @@ $$
 \mathrm{Mortality}_{d,t} = \frac{\mathrm{Deaths}_{d,t}}{\mathrm{Population}_t} \times 100000.
 $$
 
-To support complete follow-up through December 2025, weekly surveillance extracts were collected separately for cases and deaths from the Department of Disease Control dashboard and harmonized to a common disease-name dictionary, province-name dictionary, and International Organization for Standardization (ISO) week-year calendar. In the final analytical cache used by the main models, official monthly data were retained for the stable overlap period and reconstructed weekly-based monthly values were used to fill the incompletely updated late period, especially 2024鈥?025. This design allowed the main analyses to preserve the historical monthly reporting backbone while extending the series to a complete endpoint for forecasting comparisons.
+To support complete follow-up through December 2025, weekly surveillance extracts were collected separately for cases and deaths from the Department of Disease Control dashboard and harmonized to a common disease-name dictionary, province-name dictionary, and International Organization for Standardization (ISO) week-year calendar. In the final analytical cache used by the main models, official monthly data were retained for the stable overlap period and reconstructed weekly-based monthly values were used to fill the incompletely updated late period, especially 2024–2025. This design allowed the main analyses to preserve the historical monthly reporting backbone while extending the series to a complete endpoint for forecasting comparisons.
 
 ### Monthly reconstruction and validation
 
-Case counts were reconstructed from weekly totals by a constrained temporal disaggregation procedure implemented at the disease-year level. First, each ISO week was mapped to its set of contributing calendar dates and to a representative week-midpoint date, with explicit handling of ISO week 1 in late December and ISO weeks 52鈥?3 in early January. Second, a natural cubic spline was fitted to the sequence of observed weekly totals against week-midpoint dates. Third, the spline was evaluated on each day of the year to obtain a preliminary daily trajectory, negative values were truncated to zero, and the daily predictions were rescaled within each ISO week so that the reconstructed daily values summed exactly to the original observed weekly total. Fourth, fractional daily values were converted to integer counts by flooring and then redistributing the remaining counts to days with the largest fractional remainders. When there were too few observed weeks to support spline fitting, or when spline fitting was unstable, the weekly total was distributed evenly across the contributing days as a fallback. This algorithm therefore preserved observed weekly sums exactly while producing a smooth day-level bridge to calendar months.
+Case counts were reconstructed from weekly totals by a constrained temporal disaggregation procedure implemented at the disease-year level. First, each ISO week was mapped to its set of contributing calendar dates and to a representative week-midpoint date, with explicit handling of ISO week 1 in late December and ISO weeks 52–53 in early January. Second, a natural cubic spline was fitted to the sequence of observed weekly totals against week-midpoint dates. Third, the spline was evaluated on each day of the year to obtain a preliminary daily trajectory, negative values were truncated to zero, and the daily predictions were rescaled within each ISO week so that the reconstructed daily values summed exactly to the original observed weekly total. Fourth, fractional daily values were converted to integer counts by flooring and then redistributing the remaining counts to days with the largest fractional remainders. When there were too few observed weeks to support spline fitting, or when spline fitting was unstable, the weekly total was distributed evenly across the contributing days as a fallback. This algorithm therefore preserved observed weekly sums exactly while producing a smooth day-level bridge to calendar months.
 
 If week $w$ had observed total $W_w$, spline-based non-negative preliminary daily weights $g_{w,d}$ for days $d \in w$, and $\sum_{d \in w} g_{w,d} > 0$, the rescaled daily counts were
 
@@ -64,17 +65,17 @@ $$
 \widehat{D}_m = \sum_w \widehat{D}_{w,m}.
 $$
 
-Validation of the weekly-to-monthly reconstruction was conducted in the overlap period for which both official monthly data and weekly surveillance data were available. Disease-specific panels in **Supplementary Fig. S1-S86** compare observed weekly totals, reconstructed weekly totals, and official versus reconstructed monthly totals. Summary metrics in **Supplementary Tables S6 and S7** were computed from disease-month pairs in 2020鈥?023 and included Pearson correlation, mean and median absolute error, and mean and median absolute percentage error. The main text reports the overlap-period summaries for the full set of retained disease-month observations and for selected high-burden diseases that materially drive the national results.
+Validation of the weekly-to-monthly reconstruction was conducted in the overlap period for which both official monthly data and weekly surveillance data were available. Disease-specific panels in **Supplementary Fig. S1-S86** compare observed weekly totals, reconstructed weekly totals, and official versus reconstructed monthly totals. Summary metrics in **Supplementary Tables S6 and S7** were computed from disease-month pairs in 2020–2023 and included Pearson correlation, mean and median absolute error, and mean and median absolute percentage error. The main text reports the overlap-period summaries for the full set of retained disease-month observations and for selected high-burden diseases that materially drive the national results.
 
 ### Descriptive trend, ranking, age, and spatial analyses
 
 For descriptive national summaries, monthly disease-specific counts were aggregated to annual totals and to monthly all-disease totals. Disease rankings by cumulative burden and fatal burden were obtained directly from summed counts across the study period. Category-specific temporal panels in **Supplementary Fig. S114-S123** were produced by aggregating counts within transmission group and extracting smooth trend components using seasonal-trend decomposition using Loess (STL). The category heatmaps displayed within-disease normalized incidence or mortality rates to emphasize within-series temporal structure rather than absolute scale.
 
-Age-specific analyses required additional harmonization because historical monthly age files and recent weekly dashboard age outputs used different age-bin definitions. Historical age-stratified data were therefore converted to single-year age estimates with a penalized composite link model and then re-aggregated into seven target groups: 0鈥?, 5鈥?, 10鈥?4, 15鈥?9, 20鈥?9, 40鈥?9, and 60+ years. To stabilize estimation, a small constant was added before fitting when needed, fitted values were rescaled to preserve the original group total exactly, and a simple uniform split was used when the total count in a disease-year cell was too sparse to support reliable smoothing. Recent weekly age data were collapsed into the same seven target groups and appended to the harmonized historical series. Validation in 2020鈥?023 compared reconstructed age-group totals against directly observed weekly age totals; the corresponding scatterplots are shown in **Supplementary Fig. S113**. Age-ranking figures were then summarized in two-year blocks to reduce visual noise and to emphasize shifts in the leading diseases within each age stratum.
+Age-specific analyses required additional harmonization because historical monthly age files and recent weekly dashboard age outputs used different age-bin definitions. Historical age-stratified data were therefore converted to single-year age estimates with a penalized composite link model and then re-aggregated into seven target groups: 0–4, 5–9, 10–14, 15–19, 20–39, 40–59, and 60+ years. To stabilize estimation, a small constant was added before fitting when needed, fitted values were rescaled to preserve the original group total exactly, and a simple uniform split was used when the total count in a disease-year cell was too sparse to support reliable smoothing. Recent weekly age data were collapsed into the same seven target groups and appended to the harmonized historical series. Validation in 2020–2023 compared reconstructed age-group totals against directly observed weekly age totals; the corresponding scatterplots are shown in **Supplementary Fig. S113**. Age-ranking figures were then summarized in two-year blocks to reduce visual noise and to emphasize shifts in the leading diseases within each age stratum.
 
-The age-harmonization validation is shown explicitly in **Supplementary Fig. S113**, which compares estimated and directly observed age-group totals for both cases and deaths during the 2020鈥?023 overlap period. This figure was included to document that the age-reconstruction step was adequate for the downstream age-specific descriptive analyses rather than to support a separate inferential result.
+The age-harmonization validation is shown explicitly in **Supplementary Fig. S113**, which compares estimated and directly observed age-group totals for both cases and deaths during the 2020–2023 overlap period. This figure was included to document that the age-reconstruction step was adequate for the downstream age-specific descriptive analyses rather than to support a separate inferential result.
 
-Province-level analyses combined two sources. For 2008鈥?023, province-specific incidence and mortality rates were obtained from the cleaned rate files after excluding national, zone-level, and region-level records. For the recent weekly period, province-specific case and death totals were aggregated from dashboard extracts and converted to province-year incidence and mortality rates using province population denominators. Province names were harmonized to the Database of Global Administrative Areas (GADM) Thailand shapefile before mapping. **Supplementary Fig. S124-S125** presents the overview province maps for the leading disease by incidence and mortality across calendar years; the full disease-specific spatial panels were generated in the same appendix output set.
+Province-level analyses combined two sources. For 2008–2023, province-specific incidence and mortality rates were obtained from the cleaned rate files after excluding national, zone-level, and region-level records. For the recent weekly period, province-specific case and death totals were aggregated from dashboard extracts and converted to province-year incidence and mortality rates using province population denominators. Province names were harmonized to the Database of Global Administrative Areas (GADM) Thailand shapefile before mapping. **Supplementary Fig. S124-S125** presents the overview province maps for the leading disease by incidence and mortality across calendar years; the full disease-specific spatial panels were generated in the same appendix output set.
 
 ### Trend decomposition and breakpoint estimation
 
@@ -218,11 +219,11 @@ To connect the recovery and seasonality modules to practical surveillance review
 
 ### Alternative endpoints, contextual triangulation, and task-based interface assessment
 
-Appendix-only extensions include three prespecified alternative recovery endpoints (**Supplementary Table S13**), descriptive temporal triangulation against national Oxford COVID-19 Government Response Tracker indicators and World Health Organization (WHO) COVID-19 case counts (**Supplementary Tables S14-S15**), and an author-side heuristic walkthrough of six public-health review tasks scored on discoverability, interpretability, and auditability (**Supplementary Table S16**).
+Appendix-only extensions include three prespecified alternative recovery endpoints (**Supplementary Table S13**), descriptive temporal triangulation against national Oxford COVID-19 Government Response Tracker indicators and World Health Organization (WHO) COVID-19 case counts (**Supplementary Tables S14–S16**), and an author-side heuristic walkthrough of six public-health review tasks scored on discoverability, interpretability, and auditability (**Supplementary Table S17**).
 
 <div style="page-break-after: always;"></div>
 
-## Tables
+## Supplementary Tables
 
 ### Table S1. Disease flow from 72 monitored series to the 43-disease descriptive analysis and 24-disease counterfactual analysis.
 
@@ -382,9 +383,15 @@ High-burden diseases that materially contribute to the main analyses showed low 
 
 <div style="page-break-after: always;"></div>
 
-### Table S8. Legacy fixed-family robustness table not rerun in the refreshed square-root, 5,000-path primary workflow.
+### Table S8. Legacy fixed-family and best-standard robustness comparators retained for reference.
 
-In the refreshed primary analysis, robustness emphasis shifted to uncertainty propagation (**Table S9**), interruption-date sensitivity (**Table S10**), and alternative model-selection aggregation rules (**Table S11**). Uniform exponential-smoothing and uniform seasonal autoregressive integrated moving-average refits were not re-run as part of the updated end-to-end workflow and are therefore not re-reported here.
+| Robustness check | Balanced | Recovered but not balanced | Suppressed | No deficit | Status changes vs primary | Changed diseases |
+| --- | --- | --- | --- | --- | --- | --- |
+| Uniform ETS | 11 | 9 | 2 | 2 | 5 | Amebiasis, Shigellosis, Chickenpox, Pneumonia, Syphilis |
+| Uniform SARIMA | 10 | 11 | 2 | 1 | 8 | HFMD, Chickenpox, Pneumonia, CA (HPV), Gonorrhoea, Syphilis, Dengue fever, Scrub Typhus |
+| Best standard model only | 13 | 7 | 3 | 1 | 2 | HFMD, Syphilis |
+
+These legacy comparator reruns are retained for reference only. The refreshed primary workflow instead emphasizes uncertainty propagation (**Table S9**), interruption-date sensitivity (**Table S10**), and alternative model-selection aggregation rules (**Table S11**).
 
 <div style="page-break-after: always;"></div>
 
@@ -566,21 +573,23 @@ The portfolio-level observed-to-expected ratio rose across the restriction-inten
 
 <div style="page-break-after: always;"></div>
 
-### Table S15. External contextual triangulation correlations and milestone dates.
+### Table S15. External contextual triangulation: correlations with the portfolio observed-to-expected ratio.
 
-Panel A. Monthly correlation between the portfolio observed-to-expected ratio and external indicators.
+| Rank | External indicator | Spearman rho | Absolute rho |
+| --- | --- | --- | --- |
+| 1 | Government response index | -0.778 | 0.778 |
+| 2 | Internal movement restrictions | -0.741 | 0.741 |
+| 3 | Stringency index | -0.677 | 0.677 |
+| 4 | International travel restrictions | -0.638 | 0.638 |
+| 5 | School closing | -0.577 | 0.577 |
+| 6 | log1p(WHO COVID-19 cases) | -0.422 | 0.422 |
+| 7 | Testing policy | -0.143 | 0.143 |
 
-| Indicator | SpearmanRho |
-| --- | --- |
-| StringencyIndex | -0.677 |
-| GovernmentResponseIndex | -0.778 |
-| SchoolClosing | -0.577 |
-| InternalMovement | -0.741 |
-| InternationalTravel | -0.638 |
-| TestingPolicy | -0.143 |
-| log1p(WHO_COVID_Cases) | -0.422 |
+Indicators are ranked by absolute Spearman rho. All rho values are negative, indicating that higher restriction or burden was associated with lower portfolio ratios. These correlations were treated as descriptive context and were not used as predictive covariates or interpreted causally.
 
-Panel B. Selected milestone months from the contextual triangulation.
+<div style="page-break-after: always;"></div>
+
+### Table S16. External contextual triangulation: selected anchor months.
 
 | Milestone | month | PortfolioRatio | StringencyIndex | SchoolClosing | InternalMovement | InternationalTravel | WHO_COVID_Cases |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -589,11 +598,11 @@ Panel B. Selected milestone months from the contextual triangulation.
 | First sustained low-restriction month | 2022-10-01 | 0.649 | 5.560 | 0.000 | 0.000 | 0.000 | 14096 |
 | First sustained portfolio normalization month | 2023-07-01 | 1.060 | NA | NA | NA | NA | 3612 |
 
-These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
+These milestone months were used to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
 
 <div style="page-break-after: always;"></div>
 
-### Table S16. Task-based heuristic assessment of the final dashboard build.
+### Table S17. Task-based heuristic assessment of the final dashboard build.
 
 | TaskID | PublicHealthTask | PrimaryModule | MinimumInteractions | Discoverability | Interpretability | Auditability | SupportStatus | ResidualFriction | MeanHeuristicScore |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -608,7 +617,7 @@ All six prespecified surveillance-review tasks were directly supported in the fi
 
 <div style="page-break-after: always;"></div>
 
-### Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.
+### Table S18. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.
 
 | Country | Cadence | Best model | Follow-up median forecast | Follow-up median 95% PI | End date | End forecast median | End 95% PI | Normalization date | Balance date |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -623,7 +632,7 @@ This supplementary case study is included as a cross-setting transportability de
 
 <div style="page-break-after: always;"></div>
 
-### Table S18. Freeze-point temporal utility validation summary.
+### Table S19. Freeze-point temporal utility validation summary.
 
 | Freeze point | Validation end | Later review diseases | Framework captured | Incidence-only captured | Averted under-triage | Framework accuracy | Incidence-only accuracy |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -634,7 +643,7 @@ This supplementary analysis compares framework-based and incidence-only review q
 
 <div style="page-break-after: always;"></div>
 
-### Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.
+### Table S20. Portfolio-level placebo interruption and predictive-distribution calibration summary.
 
 | Pseudo interruption | Diseases assessed | False alerts | False-alert rate | Tempered false alerts | Tempered false-alert rate | Mean 80% coverage | Mean 95% coverage | Mean 95% interval score | Mean WIS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -646,7 +655,7 @@ This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo i
 
 <div style="page-break-after: always;"></div>
 
-### Table S20. Portfolio-level transform and denominator sensitivity summary.
+### Table S21. Portfolio-level transform and denominator sensitivity summary.
 
 | Config | DiseasesAssessed | PhenotypeChanged | StatusChanged | MaterialTimingShift | MedianAbsRPShift | MedianAbsBPShift | MaxAbsRPShift | MaxAbsBPShift | MeanDeltaPrRP | MeanDeltaPrBP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -657,7 +666,7 @@ This supplementary analysis holds the selected model family fixed for each disea
 
 <div style="page-break-after: always;"></div>
 
-### Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.
+### Table S22. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.
 
 | Shortname | Config | Baseline phenotype | Sensitivity phenotype | RP month delta | BP month delta | Delta Pr(RP) | Delta Pr(BP) | Delta primary-status probability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -679,9 +688,9 @@ The disease-level outputs for all 24 modelled diseases are provided in `Tables/T
 
 <div style="page-break-after: always;"></div>
 
-### Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.
+### Table S23. Bootstrap uncertainty for center-of-mass seasonal shift estimates.
 
-| Shortname | Point shift vs pre | 95% CI vs pre | Pr(|shift|>=2) vs pre | Point shift vs pred | 95% CI vs pred | Pr(|shift|>=2) vs pred | Borderline | COM/max agree |
+| Shortname | Point shift vs pre | 95% CI vs pre | Pr(abs shift >= 2) vs pre | Point shift vs pred | 95% CI vs pred | Pr(abs shift >= 2) vs pred | Borderline | COM/max agree |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CA (HPV) | 4 | 0.00 to 6.00 | 0.904 | 4 | 2.00 to 5.00 | 1.000 | Yes | No |
 | Genital herpes | 2 | 0.00 to 3.00 | 0.762 | 3 | 2.00 to 3.00 | 1.000 | Yes | Yes |
@@ -712,7 +721,7 @@ This supplementary analysis adds bootstrap uncertainty intervals to the center-o
 
 <div style="page-break-after: always;"></div>
 
-### Table S23. Queue changes under alternative weekly-to-monthly reconstruction.
+### Table S24. Queue changes under alternative weekly-to-monthly reconstruction.
 
 | Metric | Value |
 | --- | --- |
@@ -725,7 +734,7 @@ Across 24 modelled diseases, the alternative reconstruction changed the seasonal
 
 <div style="page-break-after: always;"></div>
 
-### Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.
+### Table S25. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.
 
 | Shortname | Primary BP month | Segmented BP month | Month delta | Agreement |
 | --- | --- | --- | --- | --- |
@@ -758,7 +767,7 @@ This supplementary analysis fits an exploratory segmented linear comparator to t
 
 <div style="page-break-after: always;"></div>
 
-## Figures
+## Supplementary Figures
 
 ### Part 1: Validation of data reconstruction (Fig. S1-S86)
 
@@ -1192,8 +1201,6 @@ This supplementary analysis fits an exploratory segmented linear comparator to t
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-after: always;"></div>
-
 ### Part 2: Detailed forecasting diagnostics and model verification (Fig. S87-S110)
 
 ![**Fig. S87. Pneumonia.**](Supplementary%20Appendix%201_5/Pneumonia.png)
@@ -1316,8 +1323,6 @@ This supplementary analysis fits an exploratory segmented linear comparator to t
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-after: always;"></div>
-
 ### Part 3: Disease ranking and age distribution validation (Fig. S111-S113)
 
 ![**Fig. S111. ranking_all.**](Supplementary%20Appendix%201_3/ranking_all.png)
@@ -1396,8 +1401,6 @@ This figure evaluates the performance of the age‑reconstruction procedure by c
 ![**Fig. S123. Deaths Vector-borne and zoonotic IDs.**](Supplementary%20Appendix%201_2/Deaths%20Vector-borne%20and%20zoonotic%20IDs.png)
 
 **Fig. S123. Temporal trends of deaths from vector-borne and zoonotic infectious diseases by category.** (A) Monthly observed death counts together with a smoothed long‑term trend derived from decomposition of the monthly time series. (B) Heatmap of standardized mortality values (each disease scaled relative to its own historical distribution). (C-M) The combination of trajectory plots and standardized heatmaps facilitates comparison of long‑term trend behavior and temporal clustering of anomalies across disease groups, aiding interpretation of post‑pandemic re‑equilibration patterns.
-
-<div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
 

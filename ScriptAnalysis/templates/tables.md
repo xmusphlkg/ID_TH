@@ -1,4 +1,4 @@
-## Tables
+## Supplementary Tables
 
 <!-- BEGIN TABLE_S1 -->
 ### Table S1. Disease flow from 72 monitored series to the 43-disease descriptive analysis and 24-disease counterfactual analysis.
@@ -68,9 +68,14 @@ High-burden diseases that materially contribute to the main analyses showed low 
 <!-- END TABLE_S7 -->
 <div style="page-break-after: always;"></div>
 
-### Table S8. Legacy fixed-family robustness table not rerun in the refreshed square-root, 5,000-path primary workflow.
+<!-- BEGIN TABLE_S8 -->
+### Table S8. Legacy fixed-family and best-standard robustness comparators retained for reference.
 
-In the refreshed primary analysis, robustness emphasis shifted to uncertainty propagation (**Table S9**), interruption-date sensitivity (**Table S10**), and alternative model-selection aggregation rules (**Table S11**). Uniform exponential-smoothing and uniform seasonal autoregressive integrated moving-average refits were not re-run as part of the updated end-to-end workflow and are therefore not re-reported here.
+{{TABLE_S8_BODY}}
+
+These legacy comparator reruns are retained for reference only. The refreshed primary workflow instead emphasizes uncertainty propagation (**Table S9**), interruption-date sensitivity (**Table S10**), and alternative model-selection aggregation rules (**Table S11**).
+
+<!-- END TABLE_S8 -->
 
 <div style="page-break-after: always;"></div>
 
@@ -135,107 +140,111 @@ The portfolio-level observed-to-expected ratio rose across the restriction-inten
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S15 -->
-### Table S15. External contextual triangulation correlations and milestone dates.
+### Table S15. External contextual triangulation: correlations with the portfolio observed-to-expected ratio.
 
-Panel A. Monthly correlation between the portfolio observed-to-expected ratio and external indicators.
+{{TABLE_S15_BODY}}
 
-{{TABLE_S15_PANEL_A_BODY}}
-
-Panel B. Selected milestone months from the contextual triangulation.
-
-{{TABLE_S15_PANEL_B_BODY}}
-
-These contextual summaries were used descriptively to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
+Indicators are ranked by absolute Spearman rho. All rho values are negative, indicating that higher restriction or burden was associated with lower portfolio ratios. These correlations were treated as descriptive context and were not used as predictive covariates or interpreted causally.
 
 <!-- END TABLE_S15 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S16 -->
-### Table S16. Task-based heuristic assessment of the final dashboard build.
+### Table S16. External contextual triangulation: selected anchor months.
 
 {{TABLE_S16_BODY}}
 
-All six prespecified surveillance-review tasks were directly supported in the final build, with a mean heuristic score of 3.72 and median minimum interaction count of 1. This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing.
+These milestone months were used to anchor the timing of portfolio suppression and normalization. They were not used as predictive covariates and do not support causal attribution.
 
 <!-- END TABLE_S16 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S17 -->
-### Table S17. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.
+### Table S17. Task-based heuristic assessment of the final dashboard build.
 
 {{TABLE_S17_BODY}}
 
-This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.
+All six prespecified surveillance-review tasks were directly supported in the final build, with a mean heuristic score of 3.72 and median minimum interaction count of 1. This assessment documents functional interface coverage but should not be interpreted as a substitute for prospective end-user usability testing.
 
 <!-- END TABLE_S17 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S18 -->
-### Table S18. Freeze-point temporal utility validation summary.
+### Table S18. Country-level counterfactual median and 95% predictive-interval summary for the external pertussis case study.
 
 {{TABLE_S18_BODY}}
 
-This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.
+This supplementary case study is included as a cross-setting transportability demonstration rather than external validation of the Thailand thresholds or a substitute for end-user testing in Thailand.
 
 <!-- END TABLE_S18 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S19 -->
-### Table S19. Portfolio-level placebo interruption and predictive-distribution calibration summary.
+### Table S19. Freeze-point temporal utility validation summary.
 
 {{TABLE_S19_BODY}}
 
-This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.
+This supplementary analysis compares framework-based and incidence-only review queues generated at fixed decision freeze points against realized disease trajectories in the subsequent follow-up window.
 
 <!-- END TABLE_S19 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S20 -->
-### Table S20. Portfolio-level transform and denominator sensitivity summary.
+### Table S20. Portfolio-level placebo interruption and predictive-distribution calibration summary.
 
 {{TABLE_S20_BODY}}
 
-This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.
+This supplementary analysis applies the RP/BP workflow to pre-pandemic placebo interruption dates, summarizes predictive-distribution calibration by empirical coverage and weighted interval score, and compares the primary deterministic rule with an exploratory tempered rule that requires corroboration from the lower 80% predictive interval before retaining a placebo alert.
 
 <!-- END TABLE_S20 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S21 -->
-### Table S21. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.
+### Table S21. Portfolio-level transform and denominator sensitivity summary.
 
 {{TABLE_S21_BODY}}
 
-The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`.
+This supplementary analysis holds the selected model family fixed for each disease and re-runs the recovery workflow under the primary square-root count specification, a log-transformed count specification, and a square-root incidence-rate specification using the linked annual population denominators.
 
 <!-- END TABLE_S21 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S22 -->
-### Table S22. Bootstrap uncertainty for center-of-mass seasonal shift estimates.
+### Table S22. Diseases with phenotype changes or material timing shifts in transform and denominator sensitivity analyses.
 
 {{TABLE_S22_BODY}}
 
-This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.
+The disease-level outputs for all 24 modelled diseases are provided in `Tables/Transform_rate_sensitivity.xlsx`.
 
 <!-- END TABLE_S22 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S23 -->
-### Table S23. Queue changes under alternative weekly-to-monthly reconstruction.
+### Table S23. Bootstrap uncertainty for center-of-mass seasonal shift estimates.
 
 {{TABLE_S23_BODY}}
 
-Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
+This supplementary analysis adds bootstrap uncertainty intervals to the center-of-mass seasonal timing metric and tests whether a simpler day-allocation weekly-to-monthly reconstruction changes seasonal flags or operational queue assignment.
 
 <!-- END TABLE_S23 -->
 <div style="page-break-after: always;"></div>
 
 <!-- BEGIN TABLE_S24 -->
-### Table S24. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.
+### Table S24. Queue changes under alternative weekly-to-monthly reconstruction.
 
 {{TABLE_S24_BODY}}
 
-This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date. Across 24 modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for 12 disease(s), both approaches left 10 disease(s) unresolved, and 2 disease(s) showed materially different BP timing.
+Across 24 modelled diseases, the alternative reconstruction changed the seasonal shift flag for 0 disease(s) and the operational queue for 0 disease(s).
 
 <!-- END TABLE_S24 -->
+<div style="page-break-after: always;"></div>
+
+<!-- BEGIN TABLE_S25 -->
+### Table S25. Agreement between the primary BP rule and the segmented cumulative-deviation comparator.
+
+{{TABLE_S25_BODY}}
+
+This supplementary analysis fits an exploratory segmented linear comparator to the cumulative observed-minus-expected deviation trajectory for each disease, using the empirical trough as the knot and the post-trough fitted slope to estimate a complementary BP date. Across 24 modelled diseases, the segmented comparator agreed with the primary BP call within 6 months for 12 disease(s), both approaches left 10 disease(s) unresolved, and 2 disease(s) showed materially different BP timing.
+
+<!-- END TABLE_S25 -->
 <div style="page-break-after: always;"></div>
