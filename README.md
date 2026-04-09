@@ -308,10 +308,3 @@ Data collection complete!
   Total rows: 221,200
 ============================================================
 ```
-
-# To do list
-
-- [ ] Fixed 0 cases of scarlat fever, TB, EM and Trichomoniasis in 2024
-- [ ] Collect TB data from new weekly data source (2025 onwards)
-- [ ] Transition from weekly data to monthly data aggregation
-- [ ] Add cross-validation for time series model selection
